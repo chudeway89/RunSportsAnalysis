@@ -71,27 +71,62 @@ For each selection, record:
 
 Sort by probability ascending to surface the weakest legs first.
 
+### Step 2b — Identify match type (MANDATORY before any statistical assessment)
+
+Use `sport.category.tournament.name` from the booking code API (not always a separate field):
+
+```python
+def match_type(tournament):
+    t = tournament.lower()
+    if 'women' in t or ' w' in t or ', women' in t: return 'WOMEN'
+    if 'u21' in t: return 'U21'
+    if 'u20' in t: return 'U20'
+    if 'u23' in t: return 'U23'
+    if 'u19' in t: return 'U19'
+    if 'youth' in t or 'toulon' in t: return 'YOUTH'
+    if 'friendly' in t: return 'FRIENDLY'
+    return 'DOMESTIC'
+```
+
+Tournament name path: `sport → category → tournament → name` (not top-level `tournament`).
+
 ### Step 3 — Apply cut rules
 
 **Structural cuts (always remove, no exceptions):**
 - `bookingStatus != "Booked"` → dead leg, will block settlement
 - `markets[0].status != 0` → market suspended
 
-**Statistical cuts (remove based on evidence):**
+**Statistical cuts — probability thresholds by market AND match type:**
 
-| Probability | Action |
-|-------------|--------|
-| < 55% | Always cut — coin flip or worse |
-| 55–62% | Cut unless strong corroborating evidence supports the pick |
-| 62–69% | Borderline — research team news / form before deciding |
-| ≥ 70% | Keep by default unless team news contradicts |
+| Match type | Goals/BTTS/GG markets | 1X2 / AH / DC markets |
+|------------|----------------------|----------------------|
+| DOMESTIC | Cut < 0.62 / LO 0.62–0.694 / HI ≥ 0.695 | Same |
+| WOMEN WC Qualifier (competitive) | Cut < 0.695 / LO 0.695–0.749 / HI ≥ 0.75 | Standard thresholds |
+| WOMEN Friendly / dead-rubber | Always cut if < 0.75; HI ≥ 0.75 | Cut < 0.695 |
+| INT FRIENDLY goals/BTTS | Always cut if < 0.75; HI ≥ 0.75 | Standard thresholds |
+| INT FRIENDLY AH/handicap | Standard thresholds (0.695 / 0.62) | Standard |
+| U20 / U21 / YOUTH goals | Cut < 0.75 (high volatility) | Cut < 0.695 |
+| Argentine lower league (Federal A, etc.) | Cut < 0.70 | Standard |
+| Vietnamese / Moroccan amateur goals | Cut < 0.78 | Standard |
+
+**Rule: Double Chance "Home or Away" draw-risk check (applied to ALL DC markets):**
+- P(Draw) = 1 − P(DC wins)
+- If P(Draw) > 20% → downgrade leg to LO tier regardless of raw probability
+- Formula: P(Draw) = 1 − stated probability
+
+**Rule: Away +1.0 handicap in knockout / promotion finals:**
+- Downgrade to LO tier even if p ≥ 0.695
+- Require corroborating form research before including
 
 **Extra red flags that override probability:**
-- GG/BTTS markets in dead-rubber internationals (low motivation + depleted squads = low scoring)
-- Youth friendlies with BTTS markets (< 60% should always go)
-- "Away team to score" when away team is fielding experimental/youth squad
+- GG/BTTS markets in dead-rubber internationals → always cut
+- Youth friendlies with goals/BTTS markets < 0.75 → always cut
+- "Away team to score" when away side fields experimental/youth squad
 - BET_GENIUS sourced selections in obscure amateur leagues (thin model data)
-- `Early Goals` markets (scored before 10 min) — fine if ≥ 80%, cut if < 75%
+- `Early Goals` market (marketId 60180) — NOT a "goals in 10 min" longshot. Settles early if goals arrive fast but contract runs full 90 minutes. Treat as standard full-match goals market. HI if ≥ 0.75, cut if < 0.75.
+- Corners O/U (marketId 166) — treat as goals market with same thresholds
+- US/NBA sport events — verify match has not already started before including
+- Rematch double-headers (same teams within 5 days) — treat result of first match as prior; if teams are evenly matched, downgrade to LO
 
 ### Step 4 — Research risky legs
 For any leg with probability 55–72%, run web searches:
@@ -220,3 +255,57 @@ For the full analysis report, also show:
 - BET_GENIUS legs: less robust model, typically used for lower amateur leagues (Irish, some Scandinavian)  
 - Leagues with essentially no English coverage (Russian 2nd div, Argentine Federal A, Lithuanian II Lyga, Bosnian Prva Liga): treat model probability as the primary evidence; external verification is nearly impossible
 - International friendlies: always check whether both nations qualified for the World Cup / tournament — dead-rubber friendlies dramatically reduce scoring intent and make BTTS/GG markets unreliable
+
+---
+
+## Known Market IDs
+
+| ID | Market |
+|----|--------|
+| 1 | 1X2 |
+| 10 | Double Chance |
+| 11 | Draw No Bet |
+| 16 | Asian Handicap |
+| 18 | Over/Under goals |
+| 19 | Home team goals O/U |
+| 20 | Away team goals O/U |
+| 33 | Home Team Win to Nil (No = home team didn't win clean sheet) |
+| 50/51 | BTTS (Both Teams to Score) |
+| 59 | Alt O/U (No = Under) |
+| 60180 | Early Goals — settles early if goals scored by specified minute; still runs full 90 min; treat as standard goals market |
+| 85 | 2nd Half Double Chance |
+| 166 | Corners O/U |
+| 193 | Tennis — player 2 to win a set |
+| 450001 | Goal Bounds (total — scores between X and Y goals; loses if 0 goals or too many) |
+| 450002 | Goal Bounds – Home team |
+| 450003 | Goal Bounds – Away team |
+| 450006 | Excluded Number of Goals – Away (bet against X away goals) |
+| 854 | Home Team or Over X.X (combo BTTS+goals) |
+| 858 | Away or Over X.X (combo) |
+
+---
+
+## Learnings from Results (Updated Rules)
+
+These rules were derived from settled slip analysis (WXF5AC, QEJ56N, NB4RAC, TLUYZF, JL9BNF):
+
+**L1 — Friendly / Women's / Youth goals threshold raised to 0.75**
+Dead-rubber friendly internationals and women's/youth tournaments consistently underperformed on goals markets. Raised from 0.695 to 0.75 for all goals/BTTS/GG markets in these contexts. Women's WC Qualifiers (competitive, not dead-rubber) use an intermediate threshold of 0.70 for goals markets.
+
+**L2 — DC "Home or Away" draw risk check**
+When P(Draw) = 1 − P(DC win) exceeds 20%, downgrade to LO tier regardless of stated probability. A 25–30% draw probability means the bet loses roughly 1 in 4, which is unacceptable even at HI tier odds.
+
+**L3 — Away +1.0 handicap in promotion/knockout finals**
+Desperate home teams in do-or-die playoff second legs routinely win by 2+ goals, collapsing the away +1 handicap. Always downgrade to LO and require form research.
+
+**L4 — Argentine / Vietnamese / Moroccan lower league goals**
+Argentine lower leagues (Federal A, etc.): cut if < 0.70 (multiple 0-1 / 1-0 finishes even at 63–65% probability). Vietnamese and Moroccan amateur Over 1.5 / Over 2.5: cut if < 0.78.
+
+**L5 — US sports timing**
+Always verify the match has not already started. LA Sparks / US leagues can tip off hours before European evening slots — check start times in UTC before including.
+
+**L6 — Early Goals market (60180) is NOT a longshot**
+Does NOT require both teams to score within the first 10 minutes to win. It settles early if goals arrive quickly, but the bet still runs the full match. Treat exactly like a standard Over/Under goals market.
+
+**L7 — Rematch double-headers (same teams within 5 days)**
+First-match result provides strong prior: if teams are evenly matched (first game 1-0 or similar), downgrade handicap markets to LO even if the raw probability exceeds 0.75.
