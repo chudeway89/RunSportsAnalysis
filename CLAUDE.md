@@ -315,7 +315,8 @@ SportyBet share-ticket settlement marks integer-line markets as LOST when the re
 - Over 2 (total=2) with exactly 2 goals → LOSS (United IK Nordic 1:1)
 - Over 3 (total=3) with exactly 3 goals → LOSS (Russia 3:0)
 - Away +1.0 (hcp=-1) with home winning by exactly 1 → LOSS (Almeria 3:2)
-All three integer-line legs in HH55SB lost on exact-line results in a single day.
+- Draw No Bet with the match drawn → LOSS, not void (Maghreb v AS Far 0:0, DNB Away marked LOST)
+All four no-push-protection legs in HH55SB lost on exact-line/draw results in a single day. DNB legs therefore carry full draw risk — treat DNB like a straight win pick and demand p ≥ 0.80, else downgrade to LO.
 **Rule: treat every integer-line leg as if the line were half a step worse (Over 2 ≡ Over 2.5, Away +1.0 ≡ Away +0.5). Prefer .5 lines always. Cut integer-line legs unless the displayed probability still clears the threshold under the worse-line interpretation (in practice: demand p ≥ 0.80, else cut or downgrade to LO).**
 
 **L9 — Moroccan Botola Pro: cut away-side picks entirely**
