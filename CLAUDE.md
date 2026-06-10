@@ -308,4 +308,26 @@ Always verify the match has not already started. LA Sparks / US leagues can tip 
 Does NOT require both teams to score within the first 10 minutes to win. It settles early if goals arrive quickly, but the bet still runs the full match. Treat exactly like a standard Over/Under goals market.
 
 **L7 — Rematch double-headers (same teams within 5 days)**
-First-match result provides strong prior: if teams are evenly matched (first game 1-0 or similar), downgrade handicap markets to LO even if the raw probability exceeds 0.75.
+First-match result provides strong prior: if teams are evenly matched (first game 1-0 or similar), downgrade handicap markets to LO even if the raw probability exceeds 0.75. **MUST BE ENFORCED** — Liberia v Sierra Leone (HH55SB) was kept HI at p=0.78 despite first leg ending 1-0; Liberia won 3-1 and the away +1 collapsed exactly as this rule predicts. This rule overrides raw probability with no exceptions.
+
+**L8 — WHOLE-NUMBER LINES SETTLE AS LOSS ON PUSH (critical, from HH55SB settlement)**
+SportyBet share-ticket settlement marks integer-line markets as LOST when the result lands exactly on the line — there is no push/refund:
+- Over 2 (total=2) with exactly 2 goals → LOSS (United IK Nordic 1:1)
+- Over 3 (total=3) with exactly 3 goals → LOSS (Russia 3:0)
+- Away +1.0 (hcp=-1) with home winning by exactly 1 → LOSS (Almeria 3:2)
+All three integer-line legs in HH55SB lost on exact-line results in a single day.
+**Rule: treat every integer-line leg as if the line were half a step worse (Over 2 ≡ Over 2.5, Away +1.0 ≡ Away +0.5). Prefer .5 lines always. Cut integer-line legs unless the displayed probability still clears the threshold under the worse-line interpretation (in practice: demand p ≥ 0.80, else cut or downgrade to LO).**
+
+**L9 — Moroccan Botola Pro: cut away-side picks entirely**
+All 3 Botola legs in HH55SB failed (Kawkab 2:0 home win over Raja DNB-away p=0.74; Maghreb v AS Far 0:0; Yacoub v CODM 1:1). The league is extremely draw-prone and home-strong, and the model badly overrates away favourites. Cut ALL Botola Pro away DNB / DC / away-win legs regardless of probability. Home picks use standard thresholds.
+
+**L10 — Over 3.5+ in mismatch fixtures: favourites ease off**
+England (W) beat Ukraine 3-0 with Over 3.5 at p=0.75 — once the result needed for qualification was secure, they stopped pushing. High total lines (3.5+) depend on the favourite running up the score, which motivation rarely supports. Require p ≥ 0.78 for any Over 3.5 or higher line, even in heavy mismatches.
+
+**L11 — Lower-tier cup AH −1.0 away favourites**
+Rappe GOIF v Hassleholms (Svenska Cup, away −1.0, p=0.73) lost. Winning by 2+ away from home in a cup tie is a parlay of two outcomes (win AND margin). Downgrade all away −1.0 legs in cup/lower-tier matches to LO; integer-line caveat from L8 also applies.
+
+### Calibration check (HH55SB, 19 kept legs settled 2026-06-09)
+- HI tier went 6W/6L (expected ~9W from average p≈0.75) — the misses were concentrated in integer-line pushes (3), Botola away (1), rematch double-header (1), Over 3.5 mismatch (1). Every loss matched a now-formalised rule. With L7–L11 enforced, the HI ticket would have been 6W/0L.
+- LO tier went 6W/1L — the downgrade rules (L2/L3) are well calibrated; the only loss was the playoff leg L3 had already flagged.
+- Model probabilities are NOT push-aware on integer lines; treat them as overstated by 5–10 points on those markets.
