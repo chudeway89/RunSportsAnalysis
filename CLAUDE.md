@@ -332,3 +332,18 @@ Rappe GOIF v Hassleholms (Svenska Cup, away −1.0, p=0.73) lost. Winning by 2+ 
 - HI tier went 6W/6L (expected ~9W from average p≈0.75) — the misses were concentrated in integer-line pushes (3), Botola away (1), rematch double-header (1), Over 3.5 mismatch (1). Every loss matched a now-formalised rule. With L7–L11 enforced, the HI ticket would have been 6W/0L.
 - LO tier went 6W/1L — the downgrade rules (L2/L3) are well calibrated; the only loss was the playoff leg L3 had already flagged.
 - Model probabilities are NOT push-aware on integer lines; treat them as overstated by 5–10 points on those markets.
+
+**L12 — Wide .5-line handicaps in US sports are the highest-quality leg type (validated 2026-06-10)**
+MLB wide handicaps (+2.5 to +4.5, p 0.74–0.82) went a perfect 10W/0L on June 10 (QFSDYE/S9KU0L/SJ53QE settlement). Basketball .5-lines (ACB/Greek/NBA totals and handicaps) went 5W/0L, including NBA Under 229.5 landing on a 107-106 (213) Finals game. These markets have no push risk, deep liquid models, and no draw outcome. Prefer them as acca anchors over football legs of equal probability.
+
+**L13 — Big-club / derby fixtures: goal-total variance is understated**
+Newells Old Boys v Boca Juniors Under 3.5 at p=0.79–0.81 was the ONLY settled loss of June 10 (finished 3:1 = 4 goals). Emotionally charged fixtures against big clubs produce fat-tailed scorelines in both directions. Do not auto-HI total-goals lines (Over or Under) in derby/big-rivalry matches purely on model probability — downgrade to LO unless p ≥ 0.82.
+
+**L14 — Keep all legs in the same settlement window**
+QFSDYE (June 10 HI ticket) went 7W/0L on the day but cannot settle until July 6 because two Allsvenskan legs from future rounds were included. Mixing same-day legs with fixtures weeks out locks the ticket (and the stake) for the entire window and exposes early wins to a month of squad-rotation/news risk on the remaining legs. Build tickets from fixtures within the same 24–48h window unless the user explicitly wants a long-dated acca.
+
+### Calibration check (QFSDYE / S9KU0L / SJ53QE, settled legs as of 2026-06-11)
+- Unique settled legs: 20 → 19W/1L (expected ~15.6W at avg p≈0.78). The full L1–L11 ruleset is now performing ABOVE model expectation.
+- HI ticket QFSDYE: 7/7 won on the day (2 July legs pending). LO ticket S9KU0L: 3/3 settled won.
+- Mega SJ53QE: 18W/1L settled. Only loss = Newells Under 3.5 (now L13).
+- Validations: L8 .5-line preference (Malaga +1.5 won on a 1:1 draw where +1.0 would have needed the buffer); L1 friendly Under (England 3:0, Portugal 2:1 both stayed under 4.5); L2-flagged DC Home-or-Away legs went 2/2 where they settled (Juventude 3:1, Gremio 0:3) but remain LO by rule.
