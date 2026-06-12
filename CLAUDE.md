@@ -347,3 +347,24 @@ QFSDYE (June 10 HI ticket) went 7W/0L on the day but cannot settle until July 6 
 - HI ticket QFSDYE: 7/7 won on the day (2 July legs pending). LO ticket S9KU0L: 3/3 settled won.
 - Mega SJ53QE: 18W/1L settled. Only loss = Newells Under 3.5 (now L13).
 - Validations: L8 .5-line preference (Malaga +1.5 won on a 1:1 draw where +1.0 would have needed the buffer); L1 friendly Under (England 3:0, Portugal 2:1 both stayed under 4.5); L2-flagged DC Home-or-Away legs went 2/2 where they settled (Juventude 3:1, Gremio 0:3) but remain LO by rule.
+
+**L15 — Basketball game totals: HI tier requires p ≥ 0.82; playoff/final Overs always cut**
+June 11: HI-tier (p 0.78–0.81) basketball game totals went 6W/4L (expected ~8W). The two catastrophic misses were league-final/playoff contexts: LKL final Neptunas–Lietkabelis finished 129 pts vs Over 155.5 line (26-pt miss); Argentine final-series Gimnasia–Quimsa 135 vs Over 144.5. Playoff defensive intensity collapses scoring and the model does not adjust. Rules: (a) CUT all basketball Over totals in playoff/final/elimination games regardless of p; (b) regular-season basketball totals need p ≥ 0.82 for HI tier — 0.695–0.81 is LO; (c) basketball handicaps are unaffected (went 8W/3L on the day, on-model) — L12 anchor preference stands.
+
+**L16 — Settlement mechanics: refundFactor distinguishes void from loss**
+Cancelled/postponed matches settle as VOID, not loss: `isWinning=0` + `refundFactor=1.0` → leg odds become 1.0 and the ticket survives (White Sox–Braves rainout, June 11). A leg is LOST only when `isWinning=0` AND `refundFactor=0`. Always check refundFactor when settling; MLB rainout risk is therefore tolerable, NOT a ticket-killer. (Integer-line pushes from L8 are a separate issue — those settled with refundFactor=0.)
+
+**L17 — Never stack multiple markets on one low-scoring fixture; Gulf-league goals are trap lines**
+Al Shabab–Al Jahra (Kuwait) finished 1:0 and killed BOTH Over 1.5 (p=0.77) and home-no-clean-sheet (p=0.68) across five tickets — perfectly correlated failure. Rules: (a) max ONE goals-family market per fixture per ticket; (b) Kuwaiti/Gulf-league Over/BTTS-family markets are LO regardless of probability unless p ≥ 0.80.
+
+**L18 — Tennis total-games Overs: straight-set blowout risk; require p ≥ 0.78**
+Sun–Stoiana (p=0.75) and Cristian–Boulter (p=0.73) both lost 0:2 in straight sets on June 11. WTA Over 18.5 needs a third set or two long sets, and one-sided matches are common. Tennis game-total Overs at p < 0.78 → LO; the p=0.84 Medvedev Over won comfortably.
+
+**L19 — "Team to score" markets (Excluded-0 / team O/U 0.5 / no-clean-sheet) are BTTS-family**
+Dinamo Stavropol 3:0 blanked Zenit-2's reserves (Excluded-Away-0 at p=0.79 lost). Treat all team-to-score variants exactly like BTTS: same thresholds, and in reserve/second-team or low-league fixtures demand p ≥ 0.80 or downgrade to LO. MLB note: team-total Over 3.5 went 0W/2L while Over 2.5 went 3W/0L — the extra run is a much harder line; prefer team Over 2.5.
+
+### Calibration check (June 11 — XS7WS1/XS7WS2/HFY04Q/PWTMAQ/RZ6AV6/R04SXE/RW49U5/ZXNPM2/XP5WYD/YGQ6JG)
+- Unique settled legs: 63 → 43W/20L (68.3% actual vs 73.2% model-expected). Model overconfident by ~5 points, concentrated in basketball HI totals (→L15), low-league football Overs (Ymir 2:0, Gottne 1:1, Al Shabab 1:0, Gramadense 1:0 →L17), and WTA Overs (→L18).
+- ALL 10 tickets lost — including the 3-leg LO (XP5WYD, killed by Gramadense Over 1.5 p=0.63) and the 6-leg LO (RZ6AV6, killed solely by Al Shabab no-clean-sheet). Reminder that p=0.63–0.68 legs lose ~1 in 3; a "safe short acca" built from them is not safe.
+- Wide .5 handicaps in major basketball leagues went 5W/1L (only Atlanta +10.5 vs champion Liberty lost) — L12 holds.
+- Mexico–South Africa WC Over 1.5 (2:0), Korea–Czechia Over 1.5 (2:1) both won — competitive WC group games behave like standard internationals, standard thresholds fine.
