@@ -315,9 +315,13 @@ SportyBet share-ticket settlement marks integer-line markets as LOST when the re
 - Over 2 (total=2) with exactly 2 goals → LOSS (United IK Nordic 1:1)
 - Over 3 (total=3) with exactly 3 goals → LOSS (Russia 3:0)
 - Away +1.0 (hcp=-1) with home winning by exactly 1 → LOSS (Almeria 3:2)
-- Draw No Bet with the match drawn → LOSS, not void (Maghreb v AS Far 0:0, DNB Away marked LOST)
-All four no-push-protection legs in HH55SB lost on exact-line/draw results in a single day. DNB legs therefore carry full draw risk — treat DNB like a straight win pick and demand p ≥ 0.80, else downgrade to LO.
 **Rule: treat every integer-line leg as if the line were half a step worse (Over 2 ≡ Over 2.5, Away +1.0 ≡ Away +0.5). Prefer .5 lines always. Cut integer-line legs unless the displayed probability still clears the threshold under the worse-line interpretation (in practice: demand p ≥ 0.80, else cut or downgrade to LO).**
+
+**DNB (Draw No Bet) settlement — CONFIRMED: draw = VOID (refund), NOT loss.**
+When the match ends in a draw, DNB legs settle as VOID: `refundFactor=1.0`, the leg drops out of the acca at odds 1.0, and the remaining legs continue. DNB only LOSES when the team you backed against actually wins. Practical implications:
+- DNB is effectively an insured straight-win pick: you win if your team wins, get refunded if it draws, lose only if your team loses outright.
+- Standard HI/LO thresholds apply: HI if p ≥ 0.695, LO if 0.62–0.694, cut if < 0.62. No elevated 0.80 threshold required.
+- Botola Pro (L9) away DNB legs are still cut — not because draw=loss, but because the Botola model badly overrates away favourites and the team actually loses outright at an above-expected rate.
 
 **L9 — Moroccan Botola Pro: cut away-side picks entirely**
 All 3 Botola legs in HH55SB failed (Kawkab 2:0 home win over Raja DNB-away p=0.74; Maghreb v AS Far 0:0; Yacoub v CODM 1:1). The league is extremely draw-prone and home-strong, and the model badly overrates away favourites. Cut ALL Botola Pro away DNB / DC / away-win legs regardless of probability. Home picks use standard thresholds.
