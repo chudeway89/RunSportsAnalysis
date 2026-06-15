@@ -282,6 +282,8 @@ For the full analysis report, also show:
 | 450006 | Excluded Number of Goals – Away (bet against X away goals) |
 | 854 | Home Team or Over X.X (combo BTTS+goals) |
 | 858 | Away or Over X.X (combo) |
+| 865 | Away Team or Any Clean Sheet (combo) |
+| 900301 | Away Team Total Corners — high-variance, LO unless p≥0.80 (see L25) |
 
 ---
 
@@ -314,8 +316,8 @@ First-match result provides strong prior: if teams are evenly matched (first gam
 SportyBet share-ticket settlement marks integer-line markets as LOST when the result lands exactly on the line — there is no push/refund:
 - Over 2 (total=2) with exactly 2 goals → LOSS (United IK Nordic 1:1)
 - Over 3 (total=3) with exactly 3 goals → LOSS (Russia 3:0)
-- Away +1.0 (hcp=-1) with home winning by exactly 1 → LOSS (Almeria 3:2)
-**Rule: treat every integer-line leg as if the line were half a step worse (Over 2 ≡ Over 2.5, Away +1.0 ≡ Away +0.5). Prefer .5 lines always. Cut integer-line legs unless the displayed probability still clears the threshold under the worse-line interpretation (in practice: demand p ≥ 0.80, else cut or downgrade to LO).**
+- Away +1.0 (hcp=-1) with home winning by exactly 1 → **CORRECTED by L24: this is a PUSH and settles VOID (refund), NOT loss.** The original Almeria 3:2 reading was wrong.
+**Rule (Over/Under market 18 only): treat every O/U integer-line leg as if the line were half a step worse (Over 2 ≡ Over 2.5). Prefer .5 lines always. Cut O/U integer-line legs unless the displayed probability still clears the threshold under the worse-line interpretation (demand p ≥ 0.80, else cut or downgrade to LO).** ⚠️ This loss-on-push rule applies to OVER/UNDER (market 18) totals ONLY. Asian Handicap (market 16) whole-number lines push to VOID/refund — see L24; do NOT cut them.
 
 **DNB (Draw No Bet) settlement — CONFIRMED: draw = VOID (refund), NOT loss.**
 When the match ends in a draw, DNB legs settle as VOID: `refundFactor=1.0`, the leg drops out of the acca at odds 1.0, and the remaining legs continue. DNB only LOSES when the team you backed against actually wins. Practical implications:
@@ -406,3 +408,30 @@ Market 59 "No" outcome means "NOT both halves had Under 1.5 goals" — i.e., it 
 - **SGYBVT** (~5000 odds, 27 legs): X2ZXB2 legs plus 7 more from secondary markets (Argentina, Kazakhstan, Belarus, Iceland).
 - **YFH6PC** (max odds, 50 legs): Top 50 by probability from full HI pool (≥1.15 odds), covering all sports and time zones.
 - Mathematical note: with today's HI market capping at ~1.40 odds per leg, achieving 100x requires a minimum of 14 legs; 500x requires ~20 legs; 5000x requires ~27 legs. This is the structural constraint that prevents "fewer legs + higher odds" on any given day's HI pool. To shorten legs for the same odds target, would need markets with higher individual odds (1.50–2.00 per leg), which fall into LO or CUT tiers under current thresholds.
+
+### Settlement results (June 14 — XHP972 / X2ZXB2 / SGYBVT + K8YFL4 tickets QU1G05 / RD0FKT / LPA46J, settled 2026-06-15)
+- **XHP972** (HI ~100x, 14 legs): 9W/4L/1V → LOST. Losses: Toronto Tempo +12.5 (WNBA expansion team blown out by 25 →L26), Japan team-total Under 1.5 (Japan scored 2), KC Royals Over 6.5 MLB (only 4 runs), Sao Bernardo Over 1.5 (0:0, thin Brazil league →L4-family). Cleveland Under 9.5 VOID (rainout, rf=1.0, survived per L16). CRITICAL: these "HI" legs were p=0.69–0.73 (borderline), pushed down by the 100x/14-leg target — a textbook L22 fragility failure, not a model failure.
+- **X2ZXB2** (~500x, 20 legs): 14W/5L/1V → LOST. Extra loss vs XHP972: Joventut +8.5 ACB (lost by 12 →L26).
+- **SGYBVT** (~5000x, 27 legs): 19W/7L/1V → LOST. Extra losses: Mikkelin Under 3.5 (4 goals, Finnish lower division), 2× Argentine away +0.5 AH (Linqueno, Almirante — both home teams won 1:0 →L11 lower-league away AH).
+- **QU1G05** (K8YFL4 HI, 6 legs): 4W/1L/1V → LOST by one leg. Loss: La Calera away-corners Over 3.5 (→new L25). Void: Tombense Home DNB (0:0 draw, rf=1.0 — re-confirms DNB draw = VOID).
+- **RD0FKT** (K8YFL4 LO, 13 legs): 11W/2L → LOST. Both losses were L2-flagged draw-risk DC legs that drew: UMF Tindastoll 2H DC (2nd half 1:1) and Enkoping DC (FT 1:1). L2 correctly downgraded them to LO.
+- **K8YFL4 full slip** (39 legs): 29W/5L/5V — strong at leg level (85% of decided legs won). The 5 voids (4 AH pushes + 1 DNB draw) all survived as refunds.
+
+**L24 — Asian Handicap WHOLE-NUMBER push = VOID (refund), NOT loss — CORRECTS L8**
+Direct fresh evidence (K8YFL4, refundFactor verified on the API): Cuiaba Away +1.0 with home winning 1:0 → `isWinning=0, refundFactor=1.0` = VOID; Botafogo Away +1.0 with home winning 2:1 → VOID. Fadep & Sol de America Away +1.0 both drew → WIN. The four AH +1.0 integer legs went **2W/2V/0L — zero losses**. L8's specific claim ("Away +1.0 with home winning by exactly 1 → LOSS, Almeria 3:2") is DISPROVEN: that scenario is a push and refunds in full.
+Asian Handicap (market 16) whole-number settlement mechanics:
+- home wins by EXACTLY the handicap → PUSH → VOID (leg drops at odds 1.0, ticket survives)
+- home wins by MORE than the handicap → LOSS
+- draw or backed side covers the line → WIN
+**Practical rule: do NOT auto-cut AH integer lines. Use standard thresholds (HI p≥0.695). The worst case on the "lands exactly on the line" outcome is a refund, so AH integer away handicaps are materially SAFER than O/U integer lines. This MATERIALLY EXPANDS the HI pool — AH whole-number legs were being wrongly discarded under L8.**
+Distinction preserved: L24 applies to Asian Handicap (market 16) ONLY. Over/Under (market 18) whole-number totals still settle PUSH → LOSS (L8 unchanged; no O/U exact-N push occurred June 14 to retest, so HH55SB evidence stands). Reconciliation: the June 13 "Argentine Away +1.0 losses" were home wins by 2+ goals (genuine handicap losses), NOT pushes — fully consistent with L24.
+
+**L25 — Corners markets (team-total corners, market 900301) are high-variance — LO unless p≥0.80**
+La Calera away-corners Over 3.5 (p=0.734) lost — away corner counts are noisy and poorly modelled; a single low-corner away display collapses the line, and it was the SOLE loss that killed the otherwise-clean 6-leg HI ticket QU1G05. Treat all team-corners totals as LO unless p≥0.80. (Match corners O/U, market 166, remains goals-equivalent per existing rule; team-corners lines are tighter and riskier than match-corners.)
+
+**L26 — Basketball wide handicaps: cap spread to team quality; expansion/weak sides get blown out**
+Toronto Tempo +12.5 (WNBA expansion franchise, inaugural 2026 season) lost by 25; Joventut +8.5 (ACB mid-table) lost by 12. Reinforces the June 12 Dziki +11.5 note. Basketball handicaps are L12 anchors ONLY when the spread is realistic for the matchup — a weak/expansion side receiving +8.5 to +12.5 against an elite opponent can lose by nearly double the line. Rule: for basketball handicaps wider than +9.5, the receiving side must be a credible mid-tier team (not expansion/bottom), else downgrade to LO. Favourite-side and moderate spreads held well the same day (Bayern +14.5 W, Paris +12.5 W, NY Liberty −6.5 W).
+
+### Calibration takeaway (June 14)
+- Leg-level the model was ON target (K8YFL4 alone: 29W/5L/5V ≈ 85% of decided legs), but EVERY multi-leg ticket lost. Two structural causes, both already in the ruleset: (1) the 100x target forced p≈0.70 borderline legs into the "HI" ticket — pure L22 fragility; (2) the tight 6-leg HI (QU1G05) died on a single L25 corners leg.
+- Action items now enforced: build short tickets only from genuinely high-p (≥0.75) legs; never anchor on corners (L25), expansion-team basketball handicaps (L26), or borderline-0.70 football legs; and — newly — STOP discarding AH whole-number legs (L24), which are a safe, refund-protected class that widens the usable HI pool.
