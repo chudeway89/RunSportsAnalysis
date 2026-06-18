@@ -464,3 +464,10 @@ Shabab Al Sahel v Racing Beirut (Lebanese Premier League) Goal Bounds Home 2-3+ 
 
 **L33 — FK Suduva v FA Siauliai (Lithuanian A Lyga): Over 1.5 downgrade despite 75.2% model probability**
 Research revealed the H2H between these two specific teams is draw-heavy: 4 draws in last 5 meetings including a direct 0-0 earlier this same season (March 2026). Siauliai have a 47% draw rate in all A Lyga matches and are defensively conservative away. Suduva's Over 1.5 rate is only 60% across all their matches. The model at 75.2% appears to be using league-wide assumptions rather than the specific H2H suppression between these clubs. Rule: when H2H evidence contradicts the model probability by ≥10 percentage points (e.g. model says 75%, but specific H2H shows 60% or 4 of 5 draws), downgrade one tier regardless of raw probability. Always look up H2H for goals markets in lower/mid European leagues.
+
+**L34 — Market 60110 "Double Chance – 1UP" is a FAVOURABLE early-payout variant (confirmed API, June 18)**
+Confirmed via marketGuide (Q1BRJW): "1UP pays your Double Chance bets immediately, if Home (for 1X bets) or Away (for X2 bets) team leads at any moment. Once settled, the final result no longer matters!" This is STRICTLY SAFER than a standard Double Chance:
+- A 1X "Home or Draw" 1UP bet WINS the instant the home team leads at any point in the match — even if they later concede and LOSE outright.
+- If the 1UP condition never triggers (home never leads), it settles as a normal DC: wins on a final draw, loses only on an away win.
+- Net loss condition: home team never leads at any moment AND match ends in an away win. Materially narrower than standard DC.
+Rule: treat market 60110 at STANDARD DC thresholds (HI p≥0.695) but it is NOT subject to the L2 draw-risk downgrade — the early-lead payout removes the draw-risk problem for 1X/X2. A 1UP leg is preferable to the same fixture's standard DC. Still apply thin-league caution for sub-0.695 probabilities. (Note: "1UP" is distinct from the standard mkt 10 Double Chance — verify mid=60110 in the API.)
