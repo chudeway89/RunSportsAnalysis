@@ -9,3 +9,9 @@ Both Tuesday sure-bets (JZXL75/T0UXZA) died on Minnesota Lynx -3.5 (lost outrigh
 - **L52 doubly confirmed**: SURE-A (JZXL75) went 5W/1L/1V — its ONLY loss was Minnesota Lynx -3.5. Remove that single banned close-spread leg and the 7-leg sure-bet WINS. The WNBA close spread was the sole killer of an otherwise-winning ticket.
 - WC QF research scorecard: Argentina 1X2 Home WON 3-1 (despite fatigue flag - correct); USA-Belgium Over 1.5 + Belgium-side WON; Switzerland-Colombia Under 3.5 WON but "Colombia to qualify" LOST (Switzerland won on pens after 0-0). Reinforces L51: knockout result-side anchors on ~52% coin-flip games (Colombia) are NOT safe - only back knockout result-side when the model/research edge is >=65%. Under-3.5 (the O/U-as-LO) was the reliable read on that cagey tie.
 - L24 held: Colombia DNB Away settled VOID on 0-0 (draw=void), ticket-surviving.
+
+### Calibration (July 8 Wednesday, checkpoint 19:08 UTC, partial)
+- 28 settled 18W/9L/1V = 67%. Band law holds: 1.0-1.3 -> 11W/2L (85%), 1.6+ -> 3W/5L (38%).
+- 2nd-half DC market lost 3 MORE (Gornik, Jaro Akademia, NAC Breda) — now ~0/8 lifetime as an anchor/fill. RULE HARDENED: 2nd-half Double Chance is a permanent CUT, never keep even as LO fill.
+- Instrument-stretch confirmed costly (L50): PF2VGP's stepped-up Zira +1.5 @5.70 LOST where the safe Zira team-combo would have been fine; Kairat -1.5 @4.00 lost. Stretching survivors to bigger lines burns — keep researched fixtures on conservative instruments.
+- WXN5FR (user-forced 30-leg, only worst-5 removed) 12W/5L: the 5 losses were exactly the marginal legs I flagged but was told to keep — validates that fixed-count trims retain known-risk legs.
