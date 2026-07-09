@@ -15,3 +15,7 @@ Both Tuesday sure-bets (JZXL75/T0UXZA) died on Minnesota Lynx -3.5 (lost outrigh
 - 2nd-half DC market lost 3 MORE (Gornik, Jaro Akademia, NAC Breda) — now ~0/8 lifetime as an anchor/fill. RULE HARDENED: 2nd-half Double Chance is a permanent CUT, never keep even as LO fill.
 - Instrument-stretch confirmed costly (L50): PF2VGP's stepped-up Zira +1.5 @5.70 LOST where the safe Zira team-combo would have been fine; Kairat -1.5 @4.00 lost. Stretching survivors to bigger lines burns — keep researched fixtures on conservative instruments.
 - WXN5FR (user-forced 30-leg, only worst-5 removed) 12W/5L: the 5 losses were exactly the marginal legs I flagged but was told to keep — validates that fixed-count trims retain known-risk legs.
+
+### Calibration (July 8-9 overnight, settled 2026-07-09)
+- 45 settled: 35W/9L/1V = 80%. SURE MV80Q2 7W/1L (only loss: Brewers +1.5 — Cardinals shut them out 2-0, research anchor wrong but safe instrument limited damage). VALUE MMWBXX 4W/3L.
+- **MLB -1.5 run-lines are high-variance coin-flips EVEN WITH strong research**: Brewers-by-2 (researched) LOST (shut out); Dodgers -1.5 (researched) LOST (won by exactly 1). Only the researched TOTAL (Giants/BlueJays Over, model projected 8.2) hit at 0-5. HARDEN L21: for MLB back only WIDE +run-lines (+3.5/+4.5) or researched TOTALS — NEVER -1.5 margin picks, research does not rescue them. (Note: post-settlement odds shown are drifted/void artifacts, per L47 — do not band-analyse them; the pattern is clear from the loss list: every loss was a >=1.6 odds leg.)
