@@ -25,3 +25,8 @@ Both Tuesday sure-bets (JZXL75/T0UXZA) died on Minnesota Lynx -3.5 (lost outrigh
 - France-Morocco: research nailed it — France DNB/1X2/Under 3.5/To-Qualify ALL won on a 2-0. Anchoring DNB not the 50.7% straight win (L51) was correct AND the win came anyway.
 - Losses again clustered at 1.6+ (MLB totals/run-lines, USL2 goals, BSN winner) — L44 unbroken. MLB Over 7.5 (Reds/Phillies) lost 0-0 through checkpoint — even researched MLB totals are variance (confirms totals are LO-only, never a sure-bet anchor).
 - CEMENTED WINNING FORMULA: the ONLY 2 winning tickets in ~3 weeks were both the 8-leg research-anchored hybrid at ~5x. This IS the bankable product; everything above ~15x is variance/entertainment.
+
+### Calibration (July 10 Friday, checkpoint 22:12 UTC)
+- 83 settled: 45W/34L/4V = 57% overall (dragged by user spray-codes LRX6DT/U936WW). Spain beat Belgium 2-1 — ALL research legs won (DNB/1X2/qualify/Over 2); P8CC3V (bankable hybrid) alive 2W/0L, JK8XZF alive, GDUEQL alive 3W/0L.
+- **CUT-AUDIT LANDMARK (LRX6DT)**: the 10 legs my failure-risk ranking removed went **8L/1V/1W (80% losses)** while the 29 kept legs went 16W/9L (64% wins). The risk-ranking knife (stale/dead > integer-push > AND-combo > women/youth > coin-flips) is genuinely predictive — strongest single validation of the ruleset to date. Keep using risk-rank order for user-code trims.
+- U936WW case logged: ticket arrived with 3 legs already LOST (assembled 09:30-22:00, analysed 15:11) — codes with morning kickoffs are routinely dead on arrival; always check settled legs FIRST.
