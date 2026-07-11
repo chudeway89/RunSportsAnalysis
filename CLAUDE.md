@@ -30,3 +30,8 @@ Both Tuesday sure-bets (JZXL75/T0UXZA) died on Minnesota Lynx -3.5 (lost outrigh
 - 83 settled: 45W/34L/4V = 57% overall (dragged by user spray-codes LRX6DT/U936WW). Spain beat Belgium 2-1 — ALL research legs won (DNB/1X2/qualify/Over 2); P8CC3V (bankable hybrid) alive 2W/0L, JK8XZF alive, GDUEQL alive 3W/0L.
 - **CUT-AUDIT LANDMARK (LRX6DT)**: the 10 legs my failure-risk ranking removed went **8L/1V/1W (80% losses)** while the 29 kept legs went 16W/9L (64% wins). The risk-ranking knife (stale/dead > integer-push > AND-combo > women/youth > coin-flips) is genuinely predictive — strongest single validation of the ruleset to date. Keep using risk-rank order for user-code trims.
 - U936WW case logged: ticket arrived with 3 legs already LOST (assembled 09:30-22:00, analysed 15:11) — codes with morning kickoffs are routinely dead on arrival; always check settled legs FIRST.
+
+### Calibration (July 11 Saturday checkpoint, 11:24 UTC) — WINS #3 AND #4
+- **P8CC3V WON 8/8** (Friday bankable hybrid: Spain DNB anchor + wide MLB +lines + wide WNBA spreads + Finn Harps AH, 4.6x). **GDUEQL WON 4/4** (the U936WW salvage core, 3.0x). Project now has FOUR winning tickets: U7UASF, SLSW69, P8CC3V, GDUEQL — ALL are the research-anchored hybrid/salvage at 3-10x with legs 1.19-1.41. The formula is no longer a hypothesis.
+- Weekend maxbets (Z65EY3/XFE1Q4/XLXADB) died overnight on Friday-night WNBA legs: wide catch-spreads (+14.5/+19.5) and WNBA totals lost 4 among them. NOTE: even "wide" WNBA catches fail when the favourite is elite (L26 caution extends: prefer wide catches only vs mid-tier favourites, never vs juggernauts; WNBA totals remain LO-only).
+- 33 settled: 22W/9L/2V = 71%.
