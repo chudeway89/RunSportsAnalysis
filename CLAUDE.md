@@ -35,3 +35,17 @@ Both Tuesday sure-bets (JZXL75/T0UXZA) died on Minnesota Lynx -3.5 (lost outrigh
 - **P8CC3V WON 8/8** (Friday bankable hybrid: Spain DNB anchor + wide MLB +lines + wide WNBA spreads + Finn Harps AH, 4.6x). **GDUEQL WON 4/4** (the U936WW salvage core, 3.0x). Project now has FOUR winning tickets: U7UASF, SLSW69, P8CC3V, GDUEQL — ALL are the research-anchored hybrid/salvage at 3-10x with legs 1.19-1.41. The formula is no longer a hypothesis.
 - Weekend maxbets (Z65EY3/XFE1Q4/XLXADB) died overnight on Friday-night WNBA legs: wide catch-spreads (+14.5/+19.5) and WNBA totals lost 4 among them. NOTE: even "wide" WNBA catches fail when the favourite is elite (L26 caution extends: prefer wide catches only vs mid-tier favourites, never vs juggernauts; WNBA totals remain LO-only).
 - 33 settled: 22W/9L/2V = 71%.
+
+**L53 — Maxbet construction: NEVER stack 25-30 micro-odds legs; use 10-15 researched VALUE legs at 1.5-2.5 instead (July 11)**
+User directive + immediate empirical proof: T87M7D (30 legs, all house-p>=0.79, 1.19-1.35 band, ~377x) was mathematically doomed (0.8^30 ≈ 0.1%) and died within 5 HOURS of posting on a single 0-0 (Santamarina "1-4 goals" @1.19). Meanwhile every low-leg-count rule-clean slip from the same board stayed perfect: TM2FVE 8W/0L, R8A2HX 10W/0L, YSPTQ0 5W/0L/1V. Leg count IS the risk. RULE: maxbet tickets = 10-15 legs of independently-researched VALUE at 1.5-2.5 odds each (indep p meaningfully above implied), NOT breadth of "safe" legs. Total odds come from price-per-leg, not leg count.
+
+**L54 — House systematically overprices "no-draw" 12-DC and "at least 1 goal" in draw-heavy lower divisions (July 11)**
+One day, four 12-DC (Home-or-Away) kills at house-p 0.71-0.76: Gomel 1-1, San Antonio (Ecu) 1-1, Independiente Juniors 0-0, JJK 4-4. Three 0-0s also killed at-least-1-goal legs (Santamarina 1-4 bounds, Avaí O1.5, Indep Juniors). Argentine Federal A / Primera C, Ecuadorian Serie B, Belarus, Finnish lower tiers are draw/0-0-heavy: treat 12-DC and 1+goal legs there as p<=0.70 real, LO-fill only, never HI-tier.
+
+**L55 — Season-opening cup ties are variance regardless of division gap (July 11)**
+Scottish League Cup opening round: non-league Linlithgow Rose BEAT Championship Morton 1-0 (Morton AH0 @1.18-1.21 lost); Falkirk won 0-5 AT Edinburgh City. First competitive match of the season = no form signal; rotation + fitness chaos. RULE: no AH0/tight handicaps on cup season-openers even vs far-lower-division sides; totals/bounds only, and only as LO fill.
+
+### Calibration (July 11 Saturday, 22:30 UTC checkpoint)
+- Salvage discipline day: my SDFM7N cuts settled 2/2 correct (Spain U19 Over 3 lost on 2-0; Lahti-HJK away-either-half lost 2-0). GM69HA original confirmed dead (9L+); SDFM7N original dead (10L, incl. the Unavailable Molodechno leg flagged at fetch). WQXX45 (broad-31 keep-all-playable) died on the L54 cluster — the clean core YSPTQ0 avoided every one of those legs and is 5W/0L/1V with the two WC researched anchors pending.
+- World Cup research legs: Norway-England 2+ goals & Argentina legs pending at checkpoint.
+- Post-settlement odds shown in settled fetches remain drifted artifacts (@9.00/@15.00 on 2.5-goal lines) — never band-analyse them (L47 note).
