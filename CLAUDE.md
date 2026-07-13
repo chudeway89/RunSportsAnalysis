@@ -590,3 +590,10 @@ Athletics +1.5 @1.51 (research p=0.75, below the 0.80 bar, included anyway as "a
 - Q8MZA4 (NG25RU clean core): 4W/0L/3V + 2 pending — ALIVE. All three AH +1.0 exact-margin legs voided and refunded (L24 protection worked perfectly). Conservative-instrument construction again the only surviving shape of the day.
 - NG25RU trim audit: my research-cuts went 3-for-4 (Indep Riv Over 2 lost 1-0 ✓, GAIS Over 2 lost 1-0 ✓, AtlGO-Fortaleza Over 2 pending/won?, Rosenborg Over 2 WON 3-0 ✗). Salvage family (GV4ZEV/GC0FB4/VBU2F1/GDUVEH) all died on the same cluster: Sarmiento away+1 (2-0 genuine loss), Real Potosi mkt858 (1-1, both OR conditions failed), Viking either-half.
 - Loss clusters map to now-formalised rules: L57 (fade), L58 (streak/correlation), L59 (dog-line bar). The winning shapes remain: L50 hybrid, L24 push-protected AH, researched totals with BOTH profiles aligned (GAIS U2.5, DET U7.5 both won).
+
+### Open book at July 13 session close (settle on next review)
+- **Curated slips (July 13)**: KBL7DA (6-leg bankable hybrid, ~7.2x: Atlanta DNB, Ural DNB, Ceara U2.5, Breidablik O2.5, Fenix-Barracas U2.5, CampoGrande O1.5); UX4W6L (6-leg value, ~11.4x: Ural DNB, Ceara U2.5, Vestri-Fylkir O2.5, Itabaiana U2.5, Claypole U2.5, CerroLargo U2.5).
+- **JPKAVY salvage family**: W0G4PD (6-leg clean core, 4.4x), NNTAPG (16-leg broad, ~55x), trims KLSD1U (31), XJGNGQ (27), MC4H51 (22). JPKAVY original dead on arrival (4 Unavailable + 1 live leg). GY75S8 superseded (3 Unavailable legs) — ignore.
+- **Pending from July 12**: Q8MZA4 was 4W/0L/3V with 2 legs left — check for WIN #6.
+- **NEW TRAP (formalise if repeated)**: SportyBet freezes booking on some thin-league markets (Russian FNL openers, CanChamp) while still displaying odds — these stale lines look like huge value (+9 to +15pp) but are UNBOOKABLE and were the "best edges" of the day. Always verify bookingStatus at posting; treat frozen-market "value" as phantom (L30-family).
+- Audit trail note: fixed-count trim knife validated again on July 12 slips; L58 2-slip fixture cap enforced across the July 13 curated book (Breidablik/CampoGrande/Itabaiana/Claypole/Ural all at cap).
