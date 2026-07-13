@@ -597,3 +597,22 @@ Athletics +1.5 @1.51 (research p=0.75, below the 0.80 bar, included anyway as "a
 - **Pending from July 12**: Q8MZA4 was 4W/0L/3V with 2 legs left — check for WIN #6.
 - **NEW TRAP (formalise if repeated)**: SportyBet freezes booking on some thin-league markets (Russian FNL openers, CanChamp) while still displaying odds — these stale lines look like huge value (+9 to +15pp) but are UNBOOKABLE and were the "best edges" of the day. Always verify bookingStatus at posting; treat frozen-market "value" as phantom (L30-family).
 - Audit trail note: fixed-count trim knife validated again on July 12 slips; L58 2-slip fixture cap enforced across the July 13 curated book (Breidablik/CampoGrande/Itabaiana/Claypole/Ural all at cap).
+
+**L60 — League/season OPENERS are never anchors (extends L55): Ural DNB lost outright (July 13)**
+Russian FNL Round 1: Torpedo won 1-0 AT Ural — the H2H prior (13-3-4) and "stable club vs chaotic club" read were both worthless with zero competitive form. The research agent flagged LOW CONFIDENCE and the leg was anchored anyway. RULE: round-1/season-opener legs (league or cup) are LO-fill at best, never anchors, regardless of H2H or class priors. Frozen FNL markets the same day (Arsenal Tula/Chelyabinsk Unavailable) confirm the house itself doesn't trust opener lines.
+
+### Calibration (July 13 Monday, 21:20 UTC checkpoint)
+- Q8MZA4 final 4W/2L/3V — LOST (FH-Valur GG 2-0; West Seattle O2.5 0-2). The 3 AH-push voids had kept it alive; GG/team-scoring MID legs killed it. No win #6.
+- KBL7DA 2W/2L (Ural opener → L60; Fenix-Barracas U2.5 broke 2-1 — a 0.56 GF/gm side scoring twice; aligned-unders are strong but not immune). UX4W6L 2W/1L (Ural again — L58 cap of 2 slips contained the damage vs Viking's 6-slip wipeout).
+- W0G4PD (JPKAVY clean core) 3W/0L + 3 pending overnight — live.
+- Cut-audit: 2H-DC lost AGAIN (Arbaer 1:3 second half... market now 0/9 lifetime — permanent cut vindicated); Honka O2.5 house-0.75 lost 1-1 (L49 negative-value flag correct); Vidir 3.deild O2.5 0-0 ✓; U20 basketball total ✓; Zenit friendly 1X2 1-1 ✓ (was dead anyway). MISS: Maardu-Welco O2.5 WON after research-override cut it (models 65% beat agent's 0.60) — external model consensus deserves weight vs single-agent reads.
+
+## PA SCORING MECHANISM (formalised July 13 — use for ALL future tickets)
+Blend three probability sources per leg; never rely on any single one:
+  PA_p = 0.50 × research_p (independent, 10+ game lookback, news-validated)
+       + 0.30 × class_prior (our settled-ledger empirical win rate for the leg CLASS)
+       + 0.20 × house_p (SportyBet model — informative but overconfident by ~5pp on 1.6+ odds)
+Class priors from our settled ledger (update as data accrues):
+  researched DNB/To-Qualify anchor 0.77 | AH integer +1/+1.5 catch (push-protected) 0.80 | aligned-profile total (BOTH teams' last-10 agree) 0.72 | Goal Bounds wide range 0.78 | safe-band 1.19-1.41 generic 0.82 | GG/BTTS-family 0.55 | win-either-half 0.45 | 12-DC draw-league 0.35 | 2H-DC 0.00 | opener/friendly any 0.50 | close bball spread 0.45 | WNBA total 0.50 | MLB ML pitcher-edge 0.70, team-record-only 0.52 | MLB dog +1.5 sub-0.80-research 0.45
+Selection rules: EV = PA_p × odds − 1. Ticket legs need EV > 0 AND PA_p ≥ 0.62. Anchors need PA_p ≥ 0.72 AND zero rule flags. Hard-zero flags (never include): L-rule violations, openers-as-anchors (L60), 2H-DC, corners>8.5, contrarian fades (L57), sub-bar dog lines (L59), frozen/Unavailable markets, >2 slips per fixture (L58), knockout non-qualify result markets (L56).
+Ticket shapes: BANKABLE = 5-8 legs, all PA_p ≥ 0.70, target 3-12x (the ONLY shape with 5 wins). VALUE = 6-10 legs, EV-positive 1.5-2.2 odds each. WEEK ticket = same rules + all legs inside the window with To-Qualify/DNB instruments on knockouts.
