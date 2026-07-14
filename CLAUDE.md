@@ -616,3 +616,12 @@ Class priors from our settled ledger (update as data accrues):
   researched DNB/To-Qualify anchor 0.77 | AH integer +1/+1.5 catch (push-protected) 0.80 | aligned-profile total (BOTH teams' last-10 agree) 0.72 | Goal Bounds wide range 0.78 | safe-band 1.19-1.41 generic 0.82 | GG/BTTS-family 0.55 | win-either-half 0.45 | 12-DC draw-league 0.35 | 2H-DC 0.00 | opener/friendly any 0.50 | close bball spread 0.45 | WNBA total 0.50 | MLB ML pitcher-edge 0.70, team-record-only 0.52 | MLB dog +1.5 sub-0.80-research 0.45
 Selection rules: EV = PA_p × odds − 1. Ticket legs need EV > 0 AND PA_p ≥ 0.62. Anchors need PA_p ≥ 0.72 AND zero rule flags. Hard-zero flags (never include): L-rule violations, openers-as-anchors (L60), 2H-DC, corners>8.5, contrarian fades (L57), sub-bar dog lines (L59), frozen/Unavailable markets, >2 slips per fixture (L58), knockout non-qualify result markets (L56).
 Ticket shapes: BANKABLE = 5-8 legs, all PA_p ≥ 0.70, target 3-12x (the ONLY shape with 5 wins). VALUE = 6-10 legs, EV-positive 1.5-2.2 odds each. WEEK ticket = same rules + all legs inside the window with To-Qualify/DNB instruments on knockouts.
+
+**L53b — MEGA-SLIP SIZING DIRECTIVE (user-mandated, July 13): 30-40 leg slips must be built from 1.40-2.10 value-density legs, NEVER 1.2x bankers**
+"When I say I want 30 or 40 games on a slip, the odds should run into hundreds of thousands or millions." Leg window 1.40-2.10 (house p>=0.53, whitelisted markets only), one leg per fixture, researched value legs first. Delivered under this spec: VTYC49 (12 legs ~99x), T884HZ (30 legs ~43,379x), VWTEDR (40 legs ~1.4M x). Ladder principle: value density per leg, not banker breadth.
+
+### Open book at July 13 night close (settle on next review)
+- Precision: ZBPC8L (A-bankable 2.8x), NEUXM2 (A-aggressive 3.9x), NQMTX3 (week hybrid 7.7x), H97U6J (week value 6.3x). REEPMM superseded (Thor-Vikingur frozen).
+- Ladders: VK62KY (17/20x), TZB50N (33/105x), R26KN4 (46/461x, replaced VLDPDM after Brora-Aberdeen froze — OPENER markets freeze, L30/L60 family).
+- Mega (L53b spec): VTYC49, T884HZ, VWTEDR. Week window through Sun Jul 19 incl. WC semis (Eng-Arg O1.5 the only PA-passing WC leg; France-Spain excluded by mechanism — no edge at the prices).
+- Monday pending: W0G4PD was 3W/0L (+3 overnight Brazil/Paraguay legs) — possible WIN #6 check.
