@@ -625,3 +625,9 @@ Ticket shapes: BANKABLE = 5-8 legs, all PA_p ≥ 0.70, target 3-12x (the ONLY sh
 - Ladders: VK62KY (17/20x), TZB50N (33/105x), R26KN4 (46/461x, replaced VLDPDM after Brora-Aberdeen froze — OPENER markets freeze, L30/L60 family).
 - Mega (L53b spec): VTYC49, T884HZ, VWTEDR. Week window through Sun Jul 19 incl. WC semis (Eng-Arg O1.5 the only PA-passing WC leg; France-Spain excluded by mechanism — no edge at the prices).
 - Monday pending: W0G4PD was 3W/0L (+3 overnight Brazil/Paraguay legs) — possible WIN #6 check.
+
+### Calibration (July 14 early, 05:35 UTC) — WIN #6 + instant L53b vindication
+- **W0G4PD WON 5W/0L/1V (JPKAVY clean core, ~4.4x) — SIXTH project win.** Londrina +1.5 (America-MG dead-last read), Brusque +1.0, Breidablik O2.5 (13/13 overs), CampoGrande + Capiata Paraguay overs; 1 void. Conservative-instrument clean-core shape now 6-for-6 as the only winning construction.
+- **Ceara v Athletic finished 0-0 and a 1.19x "Over 0.5" FILLER killed FIVE tickets at once** (VK62KY, TZB50N, R26KN4, HQHYB6, M78500 — the entire banker-fill ladder family, dead within hours of posting). Meanwhile the L53b value-density megas (T884HZ, VWTEDR) and the precision set had EXCLUDED that leg by the 1.40 floor / market choice — all fully alive. The user's sizing directive was empirically vindicated on night one: banker fill does not reduce risk, it multiplies failure points at negligible odds contribution.
+- Note: the same fixture's UNDER 2.5 was our researched Monday leg (won on the 0-0) — the fill algorithm took the opposite-family "any goal" banker on the same game. New rule of thumb: fill legs must never contradict a researched read on the same fixture; when research says UNDER-profile, no goals-dependent banker qualifies.
+- Precision set (ZBPC8L/NEUXM2/NQMTX3/H97U6J) all-pending at checkpoint; first legs kick 09:00 UTC.
