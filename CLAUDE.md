@@ -668,3 +668,12 @@ England 1-2 Argentina (semi) — the Over 1.5 GOALS anchor WON (3 goals) but Cor
 - **Weekend book**: megas RQUQQP (30/31kx) + YD8YTH (40/984kx) run Fri-Sun; precision NQMTX3 (week hybrid, Eng-Arg O1.5 leg WON, 6 weekend legs pending) + H97U6J (3W/0L, 2 weekend legs pending — ALIVE).
 - Key research reads to grade: Sileks +1 as best-leg call (0.80 vs 0.74 implied); dead-rubber easing thesis (Qarabag/Dila/Shkendija/Pyunik/Levadia unders-lean); Velez away -1 as worst-leg call (0.28); Derry/Vitoria O1.5 as top KEEP totals; Uzbek Superliga as new safe-band pocket.
 - WC final window: Argentina reached the final (beat England 2-1); final vs France/Spain winner lands Sunday Jul 19 — research it fresh on next session for the week book.
+
+**L64 — To-Qualify grades by AGGREGATE CUSHION (July 16, Elimai pens loss completes the gradient)**
+Settled evidence across the week: 2+ goal aggregate lead → 3W/0L (Lincoln 3-1, Ararat 2-0, KuPS 2-0 — all advanced); 1-goal away lead correctly avoided as negative value (Liepaja 0.63 vs 0.775 implied); LEVEL aggregate → Elimai lost 7-8 ON PENALTIES (LQ43X9 killer) — a literal coin flip that the ~1.36 price never covers. RULE: To-Qualify is HI/anchor ONLY with a 2+ goal cushion; 1-goal lead = LO; level tie = SKIP entirely (pens variance, no price edge). The instrument's edge IS the cushion, nothing else.
+
+### Calibration (July 16 Thursday, 20:50 UTC checkpoint — SA legs pending)
+- **SJD637 (research core) 4W/0L + 3 pending — possible WIN #7 overnight.** Sileks +1 WON (best-leg call correct), Derry O1.5 WON, Neftchi O1.5 WON, Lech OR-combo WON. Research anchors keep delivering.
+- Dead-rubber easing thesis VALIDATED: Shkendija 1-0 and Pyunik 1-0 strolls killed both "Both-Halves-Under No" legs exactly as researched (L23 + easing). St Joseph's-Bohemians 0-0 killed win-either-half AGAIN (market is a permanent-cut candidate at this point). Ilves corners O4.5 lost (3 corners... L25 again).
+- Trim knife: TXH896 (remove-15) 16W/2L vs S9733G (remove-5) 20W/5L — deeper trim cleaner again; the extra losses on the shallow trims were EXACTLY the researched-CUT legs (both-halves dead-rubbers, win-either-half, corners).
+- H97U6J 3W/0L (2 weekend legs pending, ALIVE); NQMTX3 1W/0L (6 pending).
