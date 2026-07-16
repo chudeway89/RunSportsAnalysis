@@ -662,3 +662,9 @@ England 1-2 Argentina (semi) — the Over 1.5 GOALS anchor WON (3 goals) but Cor
 - **Trim audit (HSKE65)**: remove-5 HKMU47 24W/8L, remove-10 N05WWC 23W/4L, remove-15 UE0TAA 19W/3L — the deeper trims cleanly removed more losers (Lavallois -1.5 lost 5-0, both 2H-DCs lost, Craiova integer O3 lost 1-0). Removed-lists correct again; the risk-rank knife keeps validating.
 - Weekend megas (RQUQQP 30-leg ~31kx, YD8YTH 40-leg ~984kx) + weekend precision (NQMTX3, H97U6J) all PENDING — settle Sunday.
 - Takeaway: the Over-1.5 goals anchor is reliable; the recurring killers are AWAY result-sides (L63) and non-goals side-markets on the same fixtures. Build cores from Overs/Goal-Bounds/home-instruments, not away DNBs.
+
+### Open book at July 16 session close (settle on next review)
+- **X83JTZ family (July 16, mostly UEFA Q2 second legs)**: research core SJD637 (7 legs, 5.3x: Sileks +1, Derry O1.5, Neftchi O1.5, Vitoria O1.5, Sogdiana 1+, IdV-to-score, Lech OR-combo); extended LQ43X9 (10 legs, 12x: + Dynamo Kyiv To-Qualify, Bunyodkor O1.5, Elimai To-Qualify); trims S9733G (34/~60kx), SKLSY9 (29/~6.8kx), TXH896 (24/~1.3kx). X83JTZ original dead on arrival (2 legs live at fetch).
+- **Weekend book**: megas RQUQQP (30/31kx) + YD8YTH (40/984kx) run Fri-Sun; precision NQMTX3 (week hybrid, Eng-Arg O1.5 leg WON, 6 weekend legs pending) + H97U6J (3W/0L, 2 weekend legs pending — ALIVE).
+- Key research reads to grade: Sileks +1 as best-leg call (0.80 vs 0.74 implied); dead-rubber easing thesis (Qarabag/Dila/Shkendija/Pyunik/Levadia unders-lean); Velez away -1 as worst-leg call (0.28); Derry/Vitoria O1.5 as top KEEP totals; Uzbek Superliga as new safe-band pocket.
+- WC final window: Argentina reached the final (beat England 2-1); final vs France/Spain winner lands Sunday Jul 19 — research it fresh on next session for the week book.
