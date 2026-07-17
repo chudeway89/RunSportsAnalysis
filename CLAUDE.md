@@ -691,3 +691,12 @@ Seattle (62% model, home, 6th v 13th) LOST 1-5 to Portland in the Cascadia derby
 - SJD637 (X83JTZ research core) 5W/1L/1V — LOST on Vitoria-Vasco Over 1.5 finishing 1-0 (0.80 research leg; the ~20% tail). Six of seven legs won incl. Sileks +1, Derry, Neftchi, Lech. No win #7. Aligned totals are strong but NOT locks — position sizing must respect that.
 - MYYLKJ 2W/0L (Boca WON — class-gap cup anchor delivered; China legs pending). H97U6J 3W/0L alive; NQMTX3 1W/0L.
 - Boca 90-min win @1.63 as researched swing leg: CORRECT. Neutral-venue cup + class gap remains a usable anchor shape (contrast: knockout result-sides between EQUALS stay banned per L51/L64).
+
+**L66 — Pre-European-qualifier easing extends to TOTALS (July 17, Glimt 1-0)**
+Bodo/Glimt (home 3.0 GF/gm, research 0.81 for Over 2.5) won 1-0 over Fredrikstad with their CL qualifier 4 days away — visible rotation/easing. The weekend agent HAD flagged "CL qualifying starts ~Jul 21 — rotation risk" but only the result-side was downgraded. RULE: any team with a European tie within 4 days → downgrade ALL their markets one tier (totals included), same family as dead-rubber easing (L10/L23-dead-rubber).
+
+### Calibration (July 17 evening, 20:05 UTC checkpoint)
+- Ladder ZPY4Q7/HK1CSY/XK472W: all three rungs dead on Navbahor 2-3 (bounds 1-3, fair-priced 0.69 leg — the 21% tail) + Glimt 1-0 (→L66). Nested ladders share the core by design — one leg kills the family (known L53 economics).
+- MYYLKJ final 4W/2L/1V — Changchun DNB lost 1-5; Suzhou 0-0 killed 2-5+ bounds (the research CUT verdict arrived after posting: "June reverse fixture was 0-0" — post-research legs must not predate their research).
+- Flora: the sane leg (EG O2.5, 3 goals) WON while the stretched O3.5 LOST 1-2 — instrument-choice lesson again. Mjallby-Vasteras 0-0 killed all integer Over 2 legs (agent had said "no edge"). Trim knife validated again across 6 trim slips.
+- ALIVE tonight: WEKFRG 3W/0L (+5), L2Q3XF 0/0 (+6 evening legs), H97U6J 3W/0L (+2 weekend). MLB research legs (Mariners/Brewers/Padres/Braves/Tigers) all pending 22:05+.
