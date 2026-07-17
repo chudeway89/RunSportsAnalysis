@@ -683,3 +683,11 @@ Settled evidence across the week: 2+ goal aggregate lead → 3W/0L (Lincoln 3-1,
 - Decision per the user's own constraint ("don't add games for the sake of adding games"): NO unresearched max ticket posted. An unvalidated MLB/Brazil stack is exactly the banker-fill/junk-leg failure mode (L53/L59) with bigger price tags.
 - EXECUTE ON NEXT SESSION (after ~01:40 UTC reset): research MLB Friday probables (ace-vs-backend MLs 1.45-1.80, two-sided-pitcher totals 1.6-2.0, +1.5 dogs only >=0.80), validate Bahia 1X2 @1.44 / Ponte Preta O1.5 @1.41 / Navbahor + Albion Goal Bounds 1-3 @1.40, then build the 10-14 leg value-density max (~200-600x) per L53b. Fixture caps: Glimt/Mirassol/Fluminense/Voluntari/KaPa/Grankulla/Hviti already at cap via megas; fresh inventory = MLB + Bahia + Ponte Preta + Navbahor + Albion + rank-31-40 YD8YTH singles.
 - Live ladder at close: V4QA6Z (8/4.9x bankable), SNVUW6 (6/11.4x), MYYLKJ (7/13.3x) settle by Fri noon; SJD637 win-#7 check pending (was 4W/0L); megas RQUQQP/YD8YTH + H97U6J (3W/0L alive) + NQMTX3 run through Sunday; WC final Sunday needs fresh research.
+
+**L65 — DERBY/RIVALRY result-sides are fat-tailed even for HOME favourites (July 16-17)**
+Seattle (62% model, home, 6th v 13th) LOST 1-5 to Portland in the Cascadia derby — killing V4QA6Z and SNVUW6 (L58 2-slip cap contained it). Three days earlier LDU lost the Quito derby as favourites. Extends L13 (derby goal-variance) to RESULT markets: in named rivalries (Cascadia, clasicos, intra-city derbies), downgrade all result-side instruments one tier regardless of model/table gap; totals/bounds are the only near-fair markets in derbies.
+
+### Calibration (July 17 early, 05:25 UTC)
+- SJD637 (X83JTZ research core) 5W/1L/1V — LOST on Vitoria-Vasco Over 1.5 finishing 1-0 (0.80 research leg; the ~20% tail). Six of seven legs won incl. Sileks +1, Derry, Neftchi, Lech. No win #7. Aligned totals are strong but NOT locks — position sizing must respect that.
+- MYYLKJ 2W/0L (Boca WON — class-gap cup anchor delivered; China legs pending). H97U6J 3W/0L alive; NQMTX3 1W/0L.
+- Boca 90-min win @1.63 as researched swing leg: CORRECT. Neutral-venue cup + class gap remains a usable anchor shape (contrast: knockout result-sides between EQUALS stay banned per L51/L64).
