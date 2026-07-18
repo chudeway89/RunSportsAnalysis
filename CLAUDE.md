@@ -700,3 +700,21 @@ Bodo/Glimt (home 3.0 GF/gm, research 0.81 for Over 2.5) won 1-0 over Fredrikstad
 - MYYLKJ final 4W/2L/1V — Changchun DNB lost 1-5; Suzhou 0-0 killed 2-5+ bounds (the research CUT verdict arrived after posting: "June reverse fixture was 0-0" — post-research legs must not predate their research).
 - Flora: the sane leg (EG O2.5, 3 goals) WON while the stretched O3.5 LOST 1-2 — instrument-choice lesson again. Mjallby-Vasteras 0-0 killed all integer Over 2 legs (agent had said "no edge"). Trim knife validated again across 6 trim slips.
 - ALIVE tonight: WEKFRG 3W/0L (+5), L2Q3XF 0/0 (+6 evening legs), H97U6J 3W/0L (+2 weekend). MLB research legs (Mariners/Brewers/Padres/Braves/Tigers) all pending 22:05+.
+
+**L67 — COMPULSORY FIXTURE-LEVEL ONLINE RESEARCH (user mandate, July 18): no leg posts without it**
+Every leg on every slip MUST have fixture-specific external research (form/news/starters/league context from independent web sources) completed BEFORE posting — house probability alone never qualifies a leg. Legs that cannot be researched (thin leagues, no coverage, unpublished starters) are EXCLUDED, not guessed. This hardens L47 from "mandate" to gate: research-first is now part of the posting pipeline itself.
+
+### Calibration (July 18 morning, 07:25 UTC) — the one-leg-short pattern is now structural
+- S4AYM1 2W/2L/1V (Mariners 0-7, Padres 7-6 — confirmed aces still lose ~35%); ZE5DY8 3W/1L — Nacional (the LO-flagged leg, anchored anyway at 1.56) lost 1-2 at home: THIRD ticket in 10 days dead on the final leg (TM2FVE, SJD637, ZE5DY8). WEKFRG 6W/2L — both SA away +1 catches lost on identical 2-0s (L38 yet again). L2Q3XF 5W/1L (Vidir 3rd-tier over). PKME89/ZWP687 dead (MLB ML stack: 3W/3L on pitcher edges = exactly the 0.62-0.66 the agents priced; stacking five 0.63s is 10% joint — shape error, not research error).
+- WINNERS inside the wreckage: Melton ML (the 15pp value divergence) WON; Sale WON; Brewers WON; Ceara +1 WON (America-MG 8th straight); Bahia WON; Dundalk/St Pats FAI reads WON. H97U6J alive 3W/0L (+2).
+- **RULE HARDENING from the pattern**: (a) LO-flagged legs NEVER go on win-tickets — LO is ladder-only material; (b) max TWO baseball MLs per ticket regardless of edge quality; (c) SA away +1 catches join away-DNBs in the L38/L63 cut — home instruments or skip.
+
+## THREE-MONTH KEY INSIGHTS (formalised July 18)
+1. **The only winning shape** (6 wins: U7UASF, SLSW69, P8CC3V, GDUEQL, YSPTQ0, W0G4PD): 4-8 legs, every leg individually researched at indep p>=0.70, conservative instruments, 3-11x total. Nothing else has EVER won.
+2. **Odds-band law (L44)**: 1.0-1.3 legs hit 94-97%; 1.3-1.6 ~82%; 1.6+ ~19-43%. Prices are informative; edges are rare.
+3. **Instruments beat selections**: To-Qualify (with 2+ goal cushion), DNB, AH push-protected catches, wide Goal Bounds systematically outperform result-sides at equal stated probability. Settlement mechanics (void/refund paths) are worth 5-10pp.
+4. **Hard-zero markets** (never play): 2nd-half DC (0/9+), win-either-half, corners totals, market-59 both-halves <0.80, no-draw DC in draw leagues, integer O/U without 0.80, friendly/opener/reserve/women/youth contexts, NBA Summer League, WNBA totals, close basketball spreads.
+5. **Persistent house mispricings we exploit**: aggregate-leader To-Qualify, dead-rubber easing (unders), pre-European rotation (L66), promoted/lanterna gaps, in-season vs pre-season fitness in July qualifiers.
+6. **Persistent traps that look like value**: away result-sides and away catches in South America (L38/L63), derby result-sides (L65), streak-extension (L58), contrarian fades of the house model (L57 — the house wins those), frozen-market phantom odds, KBO/NPB/MLB without confirmed starters.
+7. **Leg count IS the risk** (L53): 92% leg win-rate still loses a 30-legger. Research quality cannot rescue quantity.
+8. **The one-leg-short pattern**: sizing must assume even 0.72 legs miss ~1 in 4. Win-tickets = 4-6 legs MAX, all >=0.72, zero LO passengers.
