@@ -824,3 +824,21 @@ Hacken v AIK finished **0-0** — research p was 0.84 for Over 1.5 ("Hacken H2H 
 - Build-time guards now enforced programmatically: assert no duplicate eventId, assert <=2 legs per league, assert every leg starts >30 min out. The L58 breach that cost July 27 would have thrown.
 - **Two frozen markets caught at verification AGAIN**: Ararat To-Qualify (a verified +2-cushion anchor) and Helsingborg +1.5 both returned `Unavailable` on POST despite displaying odds. Running count of phantom markets this week: 3 (Ararat x2, Helsingborg). ALWAYS post-then-verify; never trust displayed odds as bookable.
 - Research rejections logged to grade: Riga FC home DNB @1.11 (agent p 0.76 — live one-goal tie, Vardar scored twice in leg 1) and Apollon home DNB @1.11 (agent p 0.85 — dead 4-0 tie, rotation risk). Both were among the "safest-looking" prices on the board; if they win, the ease-off/live-tie discount needs recalibration.
+
+**L77 — THE MARGINAL-LEG LAW (user-enforced, July 27): a leg only belongs on a ticket if p x odds > 1 by a real margin. Padding with 1.06-1.14 "safe" legs is a NEGATIVE-value habit.**
+The user pushed back on UN23W1 (7 legs @ 2.03x, 57% joint) for the third time on this theme, and the per-leg audit proved them right:
+  Sturm +2.0  1.16 x 0.95 = 1.102  GOOD
+  CSKA +1.0   1.08 x 0.94 = 1.015  break-even
+  Lynx ML     1.08 x 0.94 = 1.015  break-even
+  Athletic+1  1.06 x 0.93 = 0.986  **NEGATIVE EV**
+  Nacional+2  1.09 x 0.92 = 1.003  break-even
+  Norrkoping  1.14 x 0.90 = 1.026  GOOD
+  Dinamo DNB  1.14 x 0.88 = 1.003  break-even
+ONE genuinely +EV leg out of seven. Legs 4-7 added 6,786 naira of payout on a 10k stake and cost **27 percentage points** of win probability. A single 2.03-odds bet at p>0.493 strictly dominates the whole ticket: identical payout, ONE failure point instead of seven.
+**RULE: never add a leg whose (research p x odds) is below ~1.02. A 1.06-odds leg must clear p=0.96 to earn its place, which essentially no football market does. The "stack safe bankers to feel secure" instinct is the same error as the 30-leg mega, just inverted — it destroys probability instead of destroying payout.**
+Correct construction: 3-5 legs, each priced 1.45-2.10, each with an INDEPENDENT researched edge over the implied probability, total 4-12x. This is both the user's stated preference and the band all 11 project wins sit in (2.4-11x).
+Superseded stance: the July 25 "genuine bankers are the highest-EV legs available" note was wrong as written. Bankers are high-EV *per unit of risk* only when p x odds > 1; at 1.06-1.14 prices the house margin eats the entire edge. Keep bankers OUT unless they clear the 1.02 EV bar.
+
+### July 27 late — value rebuild (GXPRHE)
+- **GXPRHE (4 legs, 5.50x, win 22.3%, EV 1.225)** — every leg 1.45-1.61 with a researched edge: Riga-Vardar Over 2.5 (leg 1 produced 5 goals, live one-goal tie, Vardar must chase); Apollon-Dila Under 3.5 (4-0 dead rubber, both rotating); CSKA1948 To-Qualify (0-0 leg 1, home in Sofia, ET/pens-proof per L56); Dinamo Zagreb Over 2.5 (1-1 leg 1 forces Dinamo to chase, Thun missing 3).
+- Head-to-head vs the padded ticket on a 10k stake: GXPRHE returns 54,959 at 22.3%; UN23W1 returns 20,316 at 56.9%. EV 1.225 vs 1.156 — the value ticket is better on BOTH expected return and payout, and only worse on strike rate.
