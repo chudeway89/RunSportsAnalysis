@@ -978,3 +978,29 @@ Grade the push-protected -1 catch class specifically at settlement (exact-1 wins
 User's PPVN4W = 39-leg mega ~363kx, honest joint 1-in-2.45M (paid ~15% of fair — vig across 39 legs). v3 verdict: anti-pattern (10 veto legs: 4 corners, 3 win-either-half, 1 both-halves-No, 2 women's; 16 integer-total legs on an August-opener board).
 - **UDL1C0 (CORE-8, v3 pull, 8.86x, ~7.9% / 1-in-13)**: Anderlecht DNB, Always Ready away DNB, Kaizer Chiefs TQ, Flamengo -1, Arezzo +1 catch, Palmeiras H-or-O2.5, Wolfsberger A-or-O2.5, Moreirense A-or-O2.5. 3 void-protected + 2 push-protected catches + 3 OR-combos, league-diversified.
 - Risk-trims (still lottery, graded to validate the knife): **K9YCZ5** (remove-5, 34 legs, 55,962x), **M34WNL** (remove-10, 29 legs, 8,906x), **TU08JA** (remove-15, 24 legs, 1,384x). Removal order was pure v3 veto-class: all 4 corners + all 3 win-either-half + both-halves-No + 2 women's + lowest-p integer Over 3 came off first. Grade removed-vs-kept at settlement.
+
+## ═══ PANEL RETROSPECTIVE — Aug 9 Sunday settlement (v3's first full test) ═══
+Every ticket lost (menu Q23Q47/NF826N/N8X4WS dead; core UDL1C0 dead; trims K9YCZ5/M34WNL/TU08JA dead). A high-variance favourites day: Zenit (1.16) LOST 1:2 at home, Benfica (1.12) DREW 2:2 at home, Rangers LOST to Hibs, Kaizer Chiefs LOST. But three findings are transferable and one is a method fix, not a variance-rule.
+
+### FINDING 1 (the important one) — "AH −1 catch" is NOT a void-protected instrument. I mis-classified it building the v3 menu.
+The whole menu spine was AH −1 catches on short-priced home favourites, sold as "void-protected." That was a CATEGORY ERROR. Compare the loss branches:
+- **DNB**: wins if fav wins by ANY margin; **refunds on a draw**; loses ONLY if fav loses outright. One loss branch (fav loss).
+- **AH −1 catch**: needs fav to win **by 2+**; refunds only on an **exact-1** win; **LOSES on a draw** AND loses on a fav loss. Two loss branches (draw + fav loss), and 1-goal wins yield no profit.
+The −1 catch's extra odds (≈1.30 vs a DNB's ≈1.05) come **precisely from adding the draw-loss branch and downgrading 1-goal wins to refunds** — i.e. it is a degraded instrument, the exact "reach for odds by weakening the instrument" that v3 Principle 3 forbids. I did it while believing I was obeying Principle 3.
+**Settlement proof (Aug 9, menu + PPVN4W combined):** DNB class **5W/1L** (the only loss = the p=0.55 Brazil-B away DNB we already ban, L38b/L63). AH −1/+1 catch class **3W/2V/2L** — the 2 VOIDS (Slavia 2:1, Zrinjski 2:1, exact-1 wins) confirm the refund mechanic works, but Benfica DREW 2:2 (a DNB would have VOIDED/survived; the −1.5 catch LOST) and Zenit LOST outright. The catch converted a survivable draw into a loss on Benfica.
+**METHOD FIX (correct the instrument ladder, do NOT add an L-rule):** the void-protected tier is **DNB / To-Qualify-with-cushion / wide Goal-Bounds** only. **AH −1/−1.5 catches are RESULT-SIDE bets with a partial refund on the exact line — they belong in the same risk tier as a 1X2/handicap, NOT in the protected tier.** If a menu wants odds, get them from MORE independent legs or genuinely higher-priced value — never by swapping a DNB for a −1 catch on the same fixture. Had the menu spine been DNBs, Benfica and Zrinjski/Slavia branches all survive or win; only Zenit (outright loss) still kills it.
+
+### FINDING 2 — The risk-knife WORKED on a real-market board (best result in the ledger).
+PPVN4W 39-leg audit: **REMOVED-15 went 4W/10L (71% loss) vs KEPT-24 13W/5L (28% loss).** The removal order (all 4 corners, all 3 win-either-half, both-halves-No, 2 women's, low-p integer Over 3) concentrated the losses cleanly. This CONTRASTS with L79 (knife failed on thin spray-code boards). Refinement: **the knife has real edge when the board contains structural junk classes to target (corners/WEH/both-halves/women/team-to-score) in data-rich leagues; it has no edge on thin no-coverage boards where every leg is an unpriceable coin-flip.** Use it confidently on real-market codes; decline it on thin ones.
+
+### FINDING 3 — Favourite fragility + leg-count math, demonstrated live.
+Four sub-1.20 favourites failed on one Sunday (Zenit L, Benfica D, plus Rangers/Kaizer losses). "Price is truth" does NOT mean a 1.12 fav is safe — it means ~8-10% fail, and across a full slate SEVERAL will on any given day. The 5-leg menu needed all five fav-performances; Zenit's single failure killed it. This is Principle-level, not a new rule: **every added short-fav leg multiplies in an independent ~8-10% failure; 5 such legs ≈ only 60-66% all-survive even before instrument risk.** The honest joint I quoted (~20-25% for MENU-A) was about right and it still lost — that IS a 1-in-4 shot missing, not a model failure. Do not overreact to the single loss; DO fix the instrument error (Finding 1).
+
+### Totals optimism (R4) reconfirmed AGAIN
+Menu O2.5 legs both lost (Sheriff 1:0, Differdange 2:0); Heerenveen O3 (1:0), Stroemsgodset O3 (0:2) lost. Home favourites repeatedly failed to clear the total. R4 (+1 goal to every estimate; .5 lines; no Over on pace) stands — totals remain the least reliable family.
+
+### To-Qualify without a cushion = a bare result bet (L64 reconfirmed)
+Kaizer Chiefs TQ (single MTN8 cup tie, NO aggregate lead) LOST 0:1; Cameroon women TQ LOST. TQ is only a protected anchor with a 2-goal aggregate cushion vs a weaker side (L64). A one-off knockout "To Qualify" is just backing the result — price it as such, never as a safe instrument.
+
+### Net v3 status after test 1
+The method is INTACT; the loss came from (a) a fixable instrument mis-classification I've now corrected, and (b) ordinary favourite variance on a wild day. The transferable wins: DNB class held (5W/1L), the risk-knife earned its keep on a real board (71% vs 28%), and R4/L64 reconfirmed. No new L-rules added — per the v3 discipline, one bad day does not spawn a rule; it sharpens a principle.
