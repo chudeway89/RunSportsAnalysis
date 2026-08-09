@@ -973,3 +973,8 @@ Same-board menu across data-rich mid-season leagues, void-protected instruments 
 - **NF826N (MENU-B balanced, 9 legs, 20.19x, ~4-6% shot)**: A + Haugesund -1, Sheriff O2.5, Melgar O2.5, Differdange O2.5.
 - **N8X4WS (MENU-C lottery, 15 legs, 71.5x, ~1% shot)**: B + Benfica -1.5, Pyunik -1, Vikingur Rvk O2.5, Dynamo Kyiv away DNB, Noah away DNB, NY Liberty DNB.
 Grade the push-protected -1 catch class specifically at settlement (exact-1 wins should VOID/refund per L24).
+
+### Open book (Aug 9 — PPVN4W analysis + v3 core, settle on next review)
+User's PPVN4W = 39-leg mega ~363kx, honest joint 1-in-2.45M (paid ~15% of fair — vig across 39 legs). v3 verdict: anti-pattern (10 veto legs: 4 corners, 3 win-either-half, 1 both-halves-No, 2 women's; 16 integer-total legs on an August-opener board).
+- **UDL1C0 (CORE-8, v3 pull, 8.86x, ~7.9% / 1-in-13)**: Anderlecht DNB, Always Ready away DNB, Kaizer Chiefs TQ, Flamengo -1, Arezzo +1 catch, Palmeiras H-or-O2.5, Wolfsberger A-or-O2.5, Moreirense A-or-O2.5. 3 void-protected + 2 push-protected catches + 3 OR-combos, league-diversified.
+- Risk-trims (still lottery, graded to validate the knife): **K9YCZ5** (remove-5, 34 legs, 55,962x), **M34WNL** (remove-10, 29 legs, 8,906x), **TU08JA** (remove-15, 24 legs, 1,384x). Removal order was pure v3 veto-class: all 4 corners + all 3 win-either-half + both-halves-No + 2 women's + lowest-p integer Over 3 came off first. Grade removed-vs-kept at settlement.
