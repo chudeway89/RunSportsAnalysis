@@ -1022,3 +1022,12 @@ User explicitly requested 100/1000/10000/max odds tickets across football/basket
 - **PBMZKS (T10000, 37 legs, 14,327x)** — ~1 in 140,000.
 - **M67AUG (TMAX, 54 legs, 10,689,388x)** — ~1 in 300 million. Declared lottery.
 - Discipline note: this is the user's explicitly-chosen lottery ladder (v3 P4 = state the true number, which I did). Grade at settlement whether the clean-favourite-only construction (no junk classes) outperforms prior junk-laden megas at the same leg counts — that is the only transferable signal from a lottery.
+
+### Calibration (Aug 12 partial — 4-sport ladder + 1UP-38 dead on Aug 11 legs; week DNB-10 alive)
+- **Ladder (M3S39Y/PAECSM/PBMZKS/M67AUG) all DEAD** on the earliest legs, and the losers were exactly the auto-picker's weakest inclusions:
+  1. **Crvena Zvezda 0:2 (home fav @1.27) — the UEFA research had explicitly flagged this SKIP** (trailing 1-0 from leg 1, must chase; L61/KuPS family). The lottery ladder's raw 1X2 favourite-picker grabbed it anyway, bypassing the research veto. **PROCESS FIX (not an L-rule): apply existing research vetoes even to auto-built lottery ladders — never let the favourite-picker include a fixture already flagged SKIP.** A trailing side's home price is a trap.
+  2. **Hockey pre-season friendlies went 0/3** (HK Vitebsk, Lokomotiv Orsha) — noise exactly as L81 predicts. HARD RULE going forward: NO hockey pre-season friendlies in any ticket, not even as lottery filler. Wait for real hockey seasons (NHL/KHL from Sept/Oct).
+  3. **MLB coin-flip (Dodgers @1.46) lost** to the Royals — MLB ML remains the highest-variance leg class; a 1.46 fav is ~62%, not a banker.
+- **N8AQ34 (1UP-38) DEAD** on the same Crvena Zvezda leg — the 1UP mechanic did NOT save it (Zvezda never led; 1UP only pays if the backed side leads at some point, and a 0:2 home loss never triggers it). Confirms 1UP is only favourable when the side is genuinely likely to lead — it does not rescue a trailing-side trap.
+- **U9XKEG (week DNB-10) still ALIVE** (all 10 legs Aug 13-16). The corrected DNB-spine ticket is the one still standing — grade at week end.
+- Transferable signal: the clean-favourite ladder still died on the same three preventable classes (research-flagged SKIP, friendlies, coin-flip ML). "Clean of junk markets" is necessary but not sufficient — the auto-picker must also inherit the research/mechanism vetoes, or it re-imports the exact traps the manual process screens out.
