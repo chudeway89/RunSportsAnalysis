@@ -1046,3 +1046,11 @@ User explicitly requested 100/1000/10000/max odds tickets across football/basket
 - **T2BAC2 trims (YRPZQU clean-22, TRKXQ2 rm-15) DEAD** — losers were thin-league totals exactly as flagged: Shkendija O2 (0:0), Grossklein Landesliga O2.5 (0:2), Diriyah O2.5 (0:1). R4 totals-optimism + thin-league goals, unchanged.
 - **U9XKEG (week DNB-10) ALIVE 2W/0L/8P** — Besiktas + St Gallen won, 8 legs (HJK/Liga MX/MLS) settle Aug 16.
 - Pattern holds for the 3rd straight day: the SHORT sound core is alive/winning while every large trim of the same board is dead. Pull-the-core is now the standing response to junk megas.
+
+### Open book (Aug 13 — weekend 4-sport odds ladder v2, user-requested lottery; settle at weekend end)
+User requested 100/1000/10000/max across all sports, full board, all markets. Built nested from a 124-leg clean pool, sorted safest-first. IMPROVEMENTS over the Aug 11 ladder (which died on flagged-SKIP + friendlies + MLB coin-flip): NO friendlies (hockey friendlies hard-excluded per 0/3 rule; only real AIHL hockey kept — Melbourne Mustangs), NO women's leagues (Damallsvenskan/WK-League filtered), NO derbies (Djurgarden excluded, L65), per-league caps 3 on MLB/WNBA. All four sports represented (football spine + WNBA + MLB + AIHL hockey).
+- **Q0AFCC (T100, 21 legs, 128x)** — ~1 in 471.
+- **ND7Y39 (T1000, 28 legs, 1,334x)** — ~1 in 7,545.
+- **VWDYY5 (T10000, 34 legs, 11,977x)** — ~1 in 98,171.
+- **ZZXRBL (TMAX, 55 legs, 80,996,090x)** — ~1 in 2.4 billion. Declared lottery.
+- Residual risk flagged: base still includes Saudi/Turkey/Portugal season openers (Al Hilal/Al Nassr/Galatasaray/Sporting — dominant giants but opener variance). Grade at settlement whether the cleaner construction (vetoes applied) outperforms the Aug 11 ladder at equivalent leg counts.
