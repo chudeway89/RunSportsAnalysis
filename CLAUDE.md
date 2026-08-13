@@ -1039,3 +1039,10 @@ User explicitly requested 100/1000/10000/max odds tickets across football/basket
 - **SK Rapid Over 3 LOST (2:0) despite the 4-1 cushion** — the qualified side eased off in the dead second leg (dead-rubber easing, L10/L61 family). CONFIRMS: on a side that has already qualified (big first-leg cushion), take the DNB/To-Qualify, NEVER the Over — they cruise and the goals dry up. Copenhagen (5:1) is the exception that had to keep playing; Rapid coasted.
 - **Copenhagen -1 catch WON 5:1** — an AH catch CAN win, but only because Copenhagen had a 3-0 cushion and a genuine need to perform at home; it is still an unprotected result-side (Aug 9 fix stands). Do not generalise one win into "catches are safe."
 - **U9XKEG (week DNB-10) still ALIVE** — all 10 legs Aug 13-16.
+
+### Calibration (Aug 13 checkpoint, 20:16 UTC — cores alive, trims dead on thin totals)
+- **TAWH8B (5-leg cross-sport winner) ALIVE 3W/0L/2P**: Besiktas DNB W, St Gallen DNB 5:1 W, Lynx ML 85:81 W; Hajduk DNB (1:0, pending) + Red Sox ML (Boston leading, pending). The one-edge-per-sport winning shape performing.
+- **XM577E (T2BAC2 sound core) ALIVE 3W/0L/2P**: Sion O1.5 W, Andijon DNB 0:3 W, Vaduz OR-combo W; Austria Wien TQ at risk (1:2 on night), Mirassol DC pending. Second "pull-the-core" ticket in as many days looking live.
+- **T2BAC2 trims (YRPZQU clean-22, TRKXQ2 rm-15) DEAD** — losers were thin-league totals exactly as flagged: Shkendija O2 (0:0), Grossklein Landesliga O2.5 (0:2), Diriyah O2.5 (0:1). R4 totals-optimism + thin-league goals, unchanged.
+- **U9XKEG (week DNB-10) ALIVE 2W/0L/8P** — Besiktas + St Gallen won, 8 legs (HJK/Liga MX/MLS) settle Aug 16.
+- Pattern holds for the 3rd straight day: the SHORT sound core is alive/winning while every large trim of the same board is dead. Pull-the-core is now the standing response to junk megas.
