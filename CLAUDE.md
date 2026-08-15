@@ -1078,3 +1078,9 @@ Full research pass across football (11 vetted fixtures), MLB (all 15 games, conf
 - **WNBA: ZERO qualifying legs.** Phoenix @1.50 v weak Portland looked like the safe leg and is the inverse — **Kelsey Plum confirmed OUT**, Mercury 13-22. The favourite is the depleted team. Research prevented exactly the leg price alone would have selected.
 - **EV AUDIT was the sharpest finding**: Trnava DNB @1.16 x p0.80 = **0.928 (NEGATIVE EV)**; Feyenoord DNB @1.15 x 0.77 = 0.885 (negative). The house prices these short DNBs above their true worth. **The ONLY +EV leg on the entire Sunday board was Texas ML @1.81 x p0.60 = 1.086.** This is the L77/L49 tension in its purest form: the highest-probability legs available were negative-value, and the only positive-value leg is a ~60% baseball lean.
 - **ZRD492 posted (2 legs, 2.10x, honest ~48% / 1-in-2.1)**: Trnava DNB (highest-p leg on the board) + Texas Rangers ML (the only +EV leg). Deliberately NOT padded — every additional leg available was an opener, a rotation risk, or negative-EV. Sunday is better covered by the two tickets already live (ZTTNYJ, U9XKEG).
+
+### Aug 16 — real tickets on user request (UBTB79 / JFV2ML)
+After ZRD492 (2-leg), user asked for real tickets. Built two from genuinely mid-season, real-form fixtures (Brazil Serie A/B, Liga MX, Eliteserien, Ecuador) + the Trnava researched anchor + Texas +EV leg. All home DNB (draw-refund protected) except Texas ML. None overlap the live ZTTNYJ/U9XKEG.
+- **UBTB79 (BANKABLE, 6 legs, 4.32x, honest ~14% / 1-in-7)**: Trnava DNB, Sao Paulo DNB, Atletico Mineiro DNB, Brann DNB, Pumas DNB, Emelec DNB.
+- **JFV2ML (VALUE, 8 legs, 10.38x, honest ~6% / 1-in-17)**: above + Operario DNB + Texas ML.
+- Honest note: these are DNB-protected but the sides are coin-flip-grade (p~0.70 per leg), reflecting a thin board — the DNB refund-on-draw is doing the heavy lifting, not dominance. Grade the mid-season-DNB class at settlement.
