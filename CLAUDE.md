@@ -1084,3 +1084,14 @@ After ZRD492 (2-leg), user asked for real tickets. Built two from genuinely mid-
 - **UBTB79 (BANKABLE, 6 legs, 4.32x, honest ~14% / 1-in-7)**: Trnava DNB, Sao Paulo DNB, Atletico Mineiro DNB, Brann DNB, Pumas DNB, Emelec DNB.
 - **JFV2ML (VALUE, 8 legs, 10.38x, honest ~6% / 1-in-17)**: above + Operario DNB + Texas ML.
 - Honest note: these are DNB-protected but the sides are coin-flip-grade (p~0.70 per leg), reflecting a thin board — the DNB refund-on-draw is doing the heavy lifting, not dominance. Grade the mid-season-DNB class at settlement.
+
+### Aug 16 — 100x+ request (MAJ9RV / MB5355)
+User wanted 100 odds and above off the thin Sunday board. Built from mid-season data-rich 1X2 favourites ONLY (Brazil A/B, Liga MX, Eliteserien, Allsvenskan, K-League, MLS, USL, Ecuador) — deliberately NO openers/rotation fixtures, none overlapping the 4 live tickets.
+- **MAJ9RV (T100, 10 legs, 107x, honest ~0.5% / 1-in-221)**.
+- **MB5355 (T500, 13 legs, 648x, honest ~0.1% / 1-in-1,666)**.
+- These are 1X2 (not DNB) so no draw-refund — the odds come from stacking coin-flip-grade favourites, which is the only way to reach 100x on a board with no dominant sides. Declared lottery tier; the bankable UBTB79 (1-in-7) remains the real play.
+
+### CORRECTION (Aug 16) — MAJ9RV/MB5355 were CONTAMINATED; rebuilt clean as JP6YAN/QPKYF7
+The auto-picker for the 100x request grabbed a FROZEN/PHANTOM line: Djurgarden "Home" @100.00 (harvest had it at 1.52 — a suspended-market artifact) AND it is the banned Stockholm derby (L65), plus Colorado Springs @28.00 (phantom) and several @1.01 fillers. The "107x" was manufactured entirely by the phantom 100.00 odd. **MAJ9RV/MB5355 are junk — disregard.**
+- **NEW PROCESS GUARD (now coded): after fetching a favourite's live odds, reject the leg if fetched odds fall outside [1.20, 2.2] OR diverge from the harvest favourite by >0.35** — a frozen/drifted-line detector. This would have caught Djurgarden (1.52 harvest vs 100.00 fetched) and Colorado Springs.
+- Rebuilt CLEAN (sanity filter + no derby + no reserve/youth/Next-Pro): **JP6YAN (100x, 8 legs, ~0.5% / 1-in-190)** and **QPKYF7 (402x, 10 legs, ~0.1% / 1-in-831)** — all legs sane 1.53-1.95 mid-season favourites. Declared lottery; UBTB79 (1-in-7) remains the real play.
