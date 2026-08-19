@@ -1112,3 +1112,16 @@ User wanted a month-window longshot with "several winning fixtures". Board only 
 - **KB8EKV amateur/cup trims DEAD** as flagged — Gateshead 5:6 (DC lost on a 11-goal game), Nykoebing, Levadiakos, Skovde cup. Thin amateur/EFL-Trophy fixtures are unpriceable; the decline-recommendation was correct.
 - ALIVE: QAR6NM (month core, 2W/6P — Porto/Sporting/Besiktas etc. Aug 20-23), J2DRJ4 (longshot, 4W/19P).
 - **Running win log**: UBTB79 joins the ledger. The winning shape is now unambiguous — 5-7 leg mid-season home-DNB spine (draw-refund protected), researched extremes as anchors, NO leg count above ~7.
+
+## ═══ Calibration + PANEL "WAY FORWARD" (Aug 19 settlement) ═══
+Today's results:
+- **N5AZU7 / SD4BL5 DEAD — killed by Houston Astros ML (1:3).** Sao Paulo DNB won 3:1, Cubs ML won 4:3, Minnesota/Seattle DNBs still pending — but the MLB ML lean (Astros, the "best MLB lean" at p0.62) lost and took both tickets. **This is the 4th+ time an MLB ML lean has been the killer (Astros, Texas x2, Reds, D-backs, E.Rodriguez).** HARD RULE: stop adding sub-0.65 MLB moneyline leans to otherwise-sound tickets. MLB ML is the single highest-variance leg class and it keeps being the one leg that loses. Only use MLB when there's a CONFIRMED extreme starter mismatch (Scherzer-grade), and even then cap at ONE and never as the swing that decides the ticket.
+- **JKJW71 (UG3XYJ edited, 36 Over-1.5 legs) went 19W/5L — DEAD.** The correlated Over-1.5 stack died on multiple low-scoring games (Karlstad 1:0, AGMK 0:1, IK Franke 0:1 all failed Over 1.5). CONFIRMS L73: stacking one market (Over 1.5) across 36 fixtures is a correlated bet on league-wide scoring; even at ~0.80/leg, 36 legs lose ~5-7. High per-leg p does NOT save a mega — leg count + correlation kill it.
+- **QAR6NM (researched month core) ALIVE 2W/6P** — Al Ahli 1:2, Al Hilal 0:2 (the giant-v-minnow cup anchors) won exactly as researched. J2DRJ4 longshot 4W/19P alive.
+
+### PANEL VERDICT — the way forward (consolidated, binding)
+The ledger over ~5 weeks is now unambiguous:
+1. **WINS** (UBTB79, XREM4T, Y1UUTT, TAWH8B, and the older set) are ALL short 4-7 leg tickets built from: mid-season home DNBs (draw-refund protected) + researched EXTREMES (giant-v-minnow cup ties, confirmed ace-vs-broken-arm). Nothing longer than 8 legs has EVER won.
+2. **LOSSES** cluster in: (a) MLB ML leans, (b) correlated single-market Over-stacks, (c) coin-flip favourites/openers, (d) thin-league goals, (e) strong-home-vs-weak-away result-sides (Pachuca, Cruz Azul), (f) leg count >8.
+3. **The 100x+ request is structurally opposed to the winning shape** — a next-day board can only reach 100x via many legs (leg-count death) or coin-flips. This is not fixable; it is arithmetic.
+**DECISION**: (a) The "real play" is always a short DNB/researched-anchor spine, built and labelled as such. (b) When the user explicitly wants 100x+, build it CLEAN — no junk classes (corners/WEH/2h-DC/women/goal-bounds), no MLB ML leans, no single-market Over-stack, frozen-line guard, <=2 goals-family per league — and DECLARE the true 1-in-X number. Do not pretend a 100x is a winner. (c) MLB ML leans are removed from the "value leg" toolkit; only confirmed extreme-starter mismatches qualify, capped at one.
