@@ -1192,3 +1192,10 @@ Every researched leg priced 1.03-1.25 (EV 0.90-1.02) — 100x needs 25 legs on t
 - **HBSL3S (T10000, 39 legs, 10,698x, ~1 in 104k)** — + Atlanta Dream G1 + 3 MLB playoff-race leans (PHI/HOU/ARI, ~0.60 each — breaks the 1-MLB cap by design, declared lottery).
 - **Y77P4H (MAX, 39 legs, 70,312x, ~1 in 557k)** — same 39 fixtures, DNBs upgraded to 1X2 (odds from instrument, not extra legs).
 Grade at settlement: (a) researched A-tier vs house-priced E-tier hit rates; (b) did the MLB final-day resting-favourite traps lose as predicted (TOR/LAD/MIL/ATL); (c) basketball opener favourites (p>=0.78) — reliable or opener variance.
+
+### Sep 27 — user code V0X3YT (39 legs) analysed
+Junk-heavy thin board: 3 win-either-half, both-halves-No, corners, 2 women's, 2 El Salvador reserve/U20, Rubin-2 GG, 3 Czech Divize bounds + 2 Divize away results, Costa Rica Ascenso x2, Luxembourg 12-DC, Jamaica x2 (R3 opener), SA away catch (Pelotas), Norway 3.Div reserve. Research agent: only Sorrento +1.0 (0.85, Foggia 16th, 4 GF in 6) and Hoenefoss-Tromsdalen O2.5 (0.76) cleared; Perugia (3 straight 0-scored, 6 absent), Carpi, Ikorodu, Tarma-Cristal (Copa semi 1st leg at altitude) CUT.
+- **YJ896R (EDITED, 11 legs, 10.8x, ~1 in 22)**: 9 conversions (Serbia O3->O1.5, Germany -1->DNB, Norway corners->O1.5, Pumas/CRB O2->O1.5, Spezia WEH->O1.5, Inter Toronto WEH->DNB, Levanger O2.5->O1.5) + Salamanca 2+ bounds, Sorrento +1, Hoenefoss O2.5.
+- **V5TLQD (CORE, 5 legs, 2.5x, ~1 in 3)**: Serbia O1.5, Germany DNB, Norway O1.5, Sorrento +1, Hoenefoss O2.5.
+- CONCENTRATION NOTE: Serbia/Germany/Norway also sit on my NAVHJ9/MSXA9E/HBSL3S/Y77P4H ladder (L58 breach by user-code overlap) — one NL upset hits the whole book.
+Grade: 28 removed legs vs 11 kept; conversion legs vs original markets on same fixtures.
