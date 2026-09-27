@@ -1182,3 +1182,13 @@ User shared a won ticket in "Team Fouls Under" and asked to build competency. **
 - **KQS8YM / RX9LWC (converted-to-O1.5 megas) DEAD** — multiple Over 1.5 legs lost on 1:0 games (Botev, Real Santander, Jong PSV all 1:0; FK Auda 1:0). CONFIRMS: the Over-1.5 conversion raises per-leg p to ~0.80 but is NOT a lock — ~1 in 5 low-scoring games finish 1:0/0:0. The conversion is the right edit for a junk goals-mega but does not make a 20+ leg stack winnable.
 - **XJ6QLB (desert T100) DEAD** on Gangwon 2:2 (1X2 draw) — reconfirms the midweek-desert ladder was a poor-value declared lottery, as flagged at posting.
 - Net: the SA away-catch self-inflicted loss is the actionable one — enforce known loser-class cuts on cores, don't just annotate them.
+
+### Open book (Sep 27 Sunday — international-break board, 4-tier ladder; settle next review)
+Board: 807 fixtures (672 football / 109 basketball / 26 baseball). REGIME = TRANSITION-heavy: international break (no top-5 leagues), European basketball OPENERS (ACB/LBA/LNB/BSL R1), MLB FINAL DAY (9/15 favourites clinched & resting or backed by the worse arm — TOR/Scherzer 6.14, LAD bullpen game, MIL Misiorowski tune-up, ATL/CLE/NYY locked = traps), WNBA playoff G1s (all three favourites lost the season series — no edge).
+Three agents researched: football (13 internationals + club), MLB/WNBA, Euro basketball. Researched keeps: Serbia-Neth O1.5, Norway-Portugal O1.5, Merelbeke-Eupen O1.5 (cup v amateurs), Qatar 1X2 (Gulf Cup), Denmark/Germany/Brescia/UAE DNB, Zalgiris/Milano/Valencia/Olympiacos/Derthona/Trier ML. TRAPS flagged: Malta (friendly), HK v Laos, Panserraikos v Olympiacos B, Tetouan-Berkane (Botola away + opener), Germany 1X2, Efes, ASVEL/Baskonia/Murcia/Joventut road openers.
+Every researched leg priced 1.03-1.25 (EV 0.90-1.02) — 100x needs 25 legs on this board; no shortcut.
+- **NAVHJ9 (T100, 25 legs, 122x, honest ~1 in 450)** — all A/B researched + best C.
+- **MSXA9E (T1000, 34 legs, 1,049x, ~1 in 8,300)** — + 9 house-priced legs (Envigado/Concepcion/Nasarawa DNB, Greek SL2 + Ravenna 1X2 — UNRESEARCHED, flagged).
+- **HBSL3S (T10000, 39 legs, 10,698x, ~1 in 104k)** — + Atlanta Dream G1 + 3 MLB playoff-race leans (PHI/HOU/ARI, ~0.60 each — breaks the 1-MLB cap by design, declared lottery).
+- **Y77P4H (MAX, 39 legs, 70,312x, ~1 in 557k)** — same 39 fixtures, DNBs upgraded to 1X2 (odds from instrument, not extra legs).
+Grade at settlement: (a) researched A-tier vs house-priced E-tier hit rates; (b) did the MLB final-day resting-favourite traps lose as predicted (TOR/LAD/MIL/ATL); (c) basketball opener favourites (p>=0.78) — reliable or opener variance.
