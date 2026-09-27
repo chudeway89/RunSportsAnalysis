@@ -1199,3 +1199,9 @@ Junk-heavy thin board: 3 win-either-half, both-halves-No, corners, 2 women's, 2 
 - **V5TLQD (CORE, 5 legs, 2.5x, ~1 in 3)**: Serbia O1.5, Germany DNB, Norway O1.5, Sorrento +1, Hoenefoss O2.5.
 - CONCENTRATION NOTE: Serbia/Germany/Norway also sit on my NAVHJ9/MSXA9E/HBSL3S/Y77P4H ladder (L58 breach by user-code overlap) — one NL upset hits the whole book.
 Grade: 28 removed legs vs 11 kept; conversion legs vs original markets on same fixtures.
+
+### Sep 27 — user code HZ6RL7 (40 legs, 2.03M x, house joint 1 in 22.4M) analysed at 12:21 UTC
+Not placeable pre-match: 6 legs past kickoff (Lucksta GG @4.00 0:0 63', Inter W O1.5 0:0 56', Karlslunds O2.5 0:2 61', Bollstanas DNB 0:0, Skjold/Oberhausen past start) + 1 leg delisted (sr:match:74078156). 4 more inside the 30-min guard (Ravenna, De Graafschap, Bremer SV, Noroeste). Junk: 2 corners, GG x3, both-halves-No, women's, Gibraltar 2H Under 1 (integer), El Salvador U20 team-total, Jamaica x2 (R3), Costa Rica x2, Luxembourg, Bosnia, Liga Premier Mex, Panserraikos v Olympiacos B (reserve trap). Quick research: Fes = Botola R1 opener (cut), Shinnik coin-flip, Racing-Boca single-leg QF clasico (cut L65), Bolivia-Paraguay O1.5 0.62 (cut), Bellinzona/Parana/Assyriska no data; Bolivar 2+ 0.68 LO.
+- **J0EEXN (EDITED, 8 legs, 4.9x, ~1 in 9)**: Denmark DNB, Germany DNB (were corners), Norway O1.5 (was GG), Merelbeke O1.5 (was O3), UAE 1UP kept, Pumas O1.5 (was 12-DC), Inter Toronto DNB (was early-goals O2.5), Bolivar 2+.
+- **KSD8XL (CORE, 5 legs, 2.4x, ~1 in 3)**: Denmark DNB, Germany DNB, Norway O1.5, Merelbeke O1.5, UAE 1UP.
+- CONCENTRATION WARNING: Denmark/Germany/Norway/Merelbeke/UAE/Pumas/Inter Toronto now appear on up to 8 posted slips today (ladder x4, YJ896R, V5TLQD, J0EEXN, KSD8XL) — severe L58 breach driven by three overlapping user boards. One Nations League result can wipe the whole book.
