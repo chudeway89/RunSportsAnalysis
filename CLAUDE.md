@@ -1232,3 +1232,54 @@ Single-market correlated stack; every leg priced 1.92-2.25 (house p 0.415-0.478)
 Transition board again (international break: AFCON qualifiers, Nations League, CONCACAF NL, U21/U19 friendlies, thin leagues). Applied yesterday's lessons: (1) knife on thin boards has no edge, so thin-league STANDARD-market legs were KEPT rather than cut for being unresearchable; (2) cut only structural deadweight: started leg (Malaysia-Indonesia 2H-DC, live 0:0), delisted leg (sr:match:67921286), two women's legs, Haugesund 2 reserves 1st-half excluded-goals, U19 friendlies kicking off inside 45 min, Flandria-Dock Sud SA away +1 (L38), Bor-Metalac 12-DC in a draw league with no O1.5 offered, Armenia-Montenegro O2 and Bney Reine 12-DC (per-league goals cap); (3) converted aggressively to Over 1.5 (the edit class that worked yesterday): CAR-Burkina O2, Romania 12-DC, Turkiye-Italy corners, Guadeloupe O3, Leganes away-WEH, America-MG corners, Denmark U21 both-halves-No, N.Macedonia-Russia U21 friendly away -1 (L81), Kfar Saba away-WEH, Kfar Shalem O2.5, Al-Sailiya O2.5, Al Arabi O2.5, both Uruguay reserve O2.5; Maribor friendly DNB -> O1.5 (L81); Cuba O3 -> O2.5 (O1.5 not offered); Suriname WEH -> Suriname DNB.
 - **WVYF7F superseded** (had Al Duhail DNB 0.58); **final edit VMXTQW** — 28 legs, 634x, house joint 1 in 2,313. NO core offered: transition board, R1 says decline cores rather than dress them as ~1-in-3 bets.
 Grade: removed vs kept; the 17 O1.5 conversions vs their original markets.
+
+## ═══ Calibration (Sep 28 settlement, 21:07 UTC) ═══
+- **NAVVZF (user original) 20W/8L/4V — DEAD. VMXTQW (my edit) 19W/2L/2V — DEAD on only 2 legs**: CAR v Burkina O1.5 (0-1) and Urquiza home DNB (Primera C, 1-2). The edit removed 6 of the original's 8 losses.
+- **Conversion audit (the best yet)**: Al-Sailiya O2.5 LOST 1-1 → my O1.5 WON; Nacional reserves O2.5 LOST 1-1 → O1.5 WON; Maribor friendly DNB VOID 1-1 → O1.5 WON; N.Macedonia-Russia U21 -1 VOID 2-3 → O1.5 WON; CAR O2 LOST → O1.5 LOST (0-1, no conversion saves a 1-goal game). Structural cuts all correct: Malaysia-Indonesia 2H-DC LOST, Raelingen 2H-DC LOST, Planalto women bounds LOST 0-0.
+- The one kept leg I'd flagged under L54 (Urquiza Primera C home DNB) was one of the two killers — "keep thin standard legs" was right as a principle, but L54-class legs (Argentine lower-tier result-sides) should still go.
+- **ZLYRWN DEAD 2W/8L; W94Y3K DEAD.** "2nd half highest-scoring" went 2-8 on settled legs. The "high goal expectancy shrinks Equal" thesis FAILED: Rudar 3-1, Turkiye 1-4, Korea 1-4, Kfar Saba 1-2 all lost despite being high-scoring. Single-outcome timing markets have no exploitable edge; treat as pure variance.
+
+## ═══ SYSTEM REVIEW v4 — FULL-JOURNEY PANEL RETROSPECTIVE (Jun 9 → Sep 28, 2026) ═══
+Panel: actuary (loss distributions), statistician (calibration/leg classes), quant (EV/structure), professional punter (instrument & market craft), sport analysts (football/basketball/baseball context). Source: every calibration block in this file.
+
+### 1. The whole ledger in one table
+- **23 winning tickets** in ~16 weeks: XR1CG1, U7UASF, SLSW69, P8CC3V, GDUEQL, YSPTQ0, W0G4PD, H97U6J, QG12WV, S6Z6MG, GTCG7D, GGKXSQ, UN23W1, GXPRHE, JPWB1K, XREM4T, TAWH8B, Y1UUTT, UBTB79, QAR6NM, XJSJ1M, X9LEWS, UD2P1U.
+- **Shape of the winners**: legs 2-12 (median 5); odds 1.34x-41x (median ~4x). 21 of 23 had ≤8 legs; 20 of 23 paid ≤10.1x. Only ONE win above 11x ever: XJSJ1M (12 top-league favourites, 41x, on a chalk mid-season weekend).
+- **Tickets ≥13 legs or ≥50x**: many dozens posted (every 100/1000/10000/max ladder, every mega, every trim of a 30-40 leg user code) — **ZERO wins**. Leg-level win rates on those tickets were routinely 75-92%; they died on leg count, not leg quality.
+- **User spray-codes edited/trimmed**: no trimmed mega has ever won. Every win drawn from a user code came from PULLING a 4-6 leg core (GDUEQL, W0G4PD, XREM4T, Y1UUTT).
+
+### 2. What actually predicts a winning ticket (ranked by strength of evidence)
+1. **Leg count ≤8 (strongest law).** P(ticket) = product of legs; even 0.85-per-leg legs give 27% at 8 legs and 4% at 20. The ledger matches the maths exactly.
+2. **Regime: mid-season, data-rich boards.** Wins cluster Jul 4-28 and Aug 12-24 (Scandinavia/Asia/Brazil mid-season, top-5 leagues from MD3+, MLB with published starters). Transition boards (international breaks, openers, pre-season, final MLB day, basketball R1) produced near-zero wins: Aug 4-10, Sep 27, Sep 28.
+3. **Void-protected instruments.** DNB draw = refund (≥15 observations), integer O/U and AH pushes = refund (≥10 observations), To-Qualify with a 2+ goal cushion vs a weaker side. Several wins (UBTB79, JPWB1K, GGKXSQ, YSPTQ0) survived ONLY because of a void.
+4. **Totals converted down to Over 1.5.** Consistently the best edit: PN2GVG (3/3), Sep 27 (Serbia, Levanger saved), Sep 28 (4 saves, 1 neutral). Over 2.5/Over 3/integer Overs and tight Unders are the single largest loss cluster in the ledger.
+5. **Research only at the extremes.** p≥0.75 or ≤0.52 carries signal; 0.53-0.74 is noise (L78). Mechanism facts (named absentees, confirmed ace v broken arm, aggregate cushion) beat aggregate stats ("4 GF in 6", "0 away wins") every time.
+
+### 3. The persistent loser classes (each has multiple independent burns — treat as settled)
+- MLB moneyline leans below p 0.65 (≥7 ticket-killers); MLB -1.5 run-lines.
+- South American away result-sides and away +1 catches (L38/L63; killed our own "sound cores" twice).
+- Friendly result-sides/handicaps (Betis 4-0 Lyon, Caen, Man Utd).
+- Openers — football AND basketball (Ural, Galatasaray, Union SG, Valencia 1.09, Canarias, Ulm).
+- Derby result-sides (Seattle 1-5, LDU, Racing-Boca skip).
+- Research-flagged fragile favourites "fixed" with DNB (Germany 0-1 Greece, Pachuca, Cruz Azul, UdeC): DNB does not protect against outright upsets.
+- WNBA close spreads and totals; close basketball spreads generally.
+- Correlated stacks: one league's Overs on one night (MLS 0-3), one fixture on many slips (Viking ×6, Hacken ×3, Betis ×3, Germany ×8).
+- Single-outcome markets with no edge: draw accas (13% hit), "highest scoring half" (2-8), 2H-DC, win-either-half, corners, both-halves-No — long-run negative even though they run hot on single slates.
+
+### 4. What did NOT work as believed (retractions)
+- **The trim knife on thin boards**: inverted 4 times (removed legs outperformed kept). It works only for STRUCTURAL junk (started/delisted legs, women's, 2H-DC, WEH, reserve junk, corners) and on real-market boards.
+- **AH -1 "catches" as protected instruments**: a draw loses them; they are result-sides (Aug 9 fix).
+- **Fading favourites / contrarian value**: L57 fade and RFY4D8 both failed; the house wins those.
+- **"Bankers make a ticket safe"**: 1.06-1.14 legs cost probability for almost no odds (L77); the value rebuild beat the padded ticket 3.1x in return on the same night.
+
+### 5. Binding rules v4 (supersede where they conflict)
+- **V4-1 Shape**: a "real" ticket is 3-8 legs, 3-12x. Anything ≥13 legs or ≥50x is a declared lottery. State its 1-in-X out loud and size the stake as a lottery.
+- **V4-2 Regime first**: classify the board before building. On transition boards, build only what the user explicitly asks for, declare it a lottery, and do not offer a "core".
+- **V4-3 Instrument order**: To-Qualify (2+ cushion v weaker side) > DNB (dominant side, not draw-merchant opponent) > Over 1.5 in a data-rich league > wide Goal Bounds > everything else. Always convert Over 2/2.5/3 and corners/WEH/GG/both-halves to Over 1.5 when editing.
+- **V4-4 Hard exclusions**: the section-3 classes, with no discretionary overrides.
+- **V4-5 Concentration**: a fixture on at most 2 of the day's posted slips, counting edits of user codes. If a user code overlaps, SUBSTITUTE or DROP; never warn-and-keep.
+- **V4-6 Research gate**: every anchor needs a named mechanism. Research-flagged fragile favourites are SKIPPED, not DNB'd.
+- **V4-7 Honesty**: always give the true joint probability; never call a ticket safe; recommend the largest stake on the shortest ticket.
+
+### 6. For a user who wants ≥50x (the recurring request)
+The ledger's only precedent for big odds winning is XJSJ1M: 12 legs, every leg a strong favourite in a top league, mid-season, clean markets, 41x. So the best available construction for ≥50x is: 10-13 legs, each 1.25-1.55, data-rich competitions, strongest instruments, no leg below house p ~0.70, diversified across leagues/sports, no fixture already on another slip. Honest expectation even when built perfectly: roughly 1 in 80 to 1 in 300 depending on the board. On a thin board it is worse, and that must be said.
