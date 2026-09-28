@@ -1283,3 +1283,8 @@ Panel: actuary (loss distributions), statistician (calibration/leg classes), qua
 
 ### 6. For a user who wants ≥50x (the recurring request)
 The ledger's only precedent for big odds winning is XJSJ1M: 12 legs, every leg a strong favourite in a top league, mid-season, clean markets, 41x. So the best available construction for ≥50x is: 10-13 legs, each 1.25-1.55, data-rich competitions, strongest instruments, no leg below house p ~0.70, diversified across leagues/sports, no fixture already on another slip. Honest expectation even when built perfectly: roughly 1 in 80 to 1 in 300 depending on the board. On a thin board it is worse, and that must be said.
+
+### Sep 28 night — WFW1T9 (tonight ≥50x, user-requested; DECLARED LOTTERY under V4-1/V4-2)
+Board 21:07 UTC → 06:00: 18 fixtures, no MLB (off-day), no WNBA, international break. Research: only Suriname DNB reached LO keep (0.74); zero anchors. Cut outright: Libertad-Olimpia (derby, V4-4), Guatemala-El Salvador (rivalry), Quindio-Bogota (conflicting fixture data), Paysandu (no data), Lanus-Gimnasia (basketball opener).
+- **WFW1T9 — 13 legs, 70.8x, house joint 1 in 141, honest estimate ~1 in 250-400** (thin leagues, research-negative board): Suriname 1X2, Jamaica DNB, Racing Veracruz 1X2 (away, Liga Premier), 3 wide Goal Bounds 1-3 (America-MG/Juventude, Wanderers-Albion, Alianza-Independiente — draw-heavy fixtures), St Kitts-Grenada O1.5, St Lucia-Bermuda O1.5, Cariari DNB, ABA Ancud ML, Las Animas ML, Flamengo ML at Penarol, Bengaluru B 1X2.
+Grade: whether Goal Bounds 1-3 on draw-heavy fixtures held; CONCACAF small-nation O1.5.
