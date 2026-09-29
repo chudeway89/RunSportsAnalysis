@@ -1288,3 +1288,12 @@ The ledger's only precedent for big odds winning is XJSJ1M: 12 legs, every leg a
 Board 21:07 UTC → 06:00: 18 fixtures, no MLB (off-day), no WNBA, international break. Research: only Suriname DNB reached LO keep (0.74); zero anchors. Cut outright: Libertad-Olimpia (derby, V4-4), Guatemala-El Salvador (rivalry), Quindio-Bogota (conflicting fixture data), Paysandu (no data), Lanus-Gimnasia (basketball opener).
 - **WFW1T9 — 13 legs, 70.8x, house joint 1 in 141, honest estimate ~1 in 250-400** (thin leagues, research-negative board): Suriname 1X2, Jamaica DNB, Racing Veracruz 1X2 (away, Liga Premier), 3 wide Goal Bounds 1-3 (America-MG/Juventude, Wanderers-Albion, Alianza-Independiente — draw-heavy fixtures), St Kitts-Grenada O1.5, St Lucia-Bermuda O1.5, Cariari DNB, ABA Ancud ML, Las Animas ML, Flamengo ML at Penarol, Bengaluru B 1X2.
 Grade: whether Goal Bounds 1-3 on draw-heavy fixtures held; CONCACAF small-nation O1.5.
+
+### Calibration (Sep 29 — WFW1T9 settled 8W/3L/1V, DEAD) — model failure vs bad luck
+Won: Suriname 2:1, Goal Bounds 1-3 x3 (America-MG 0:1, Wanderers 2:1, Alianza 2:0), St Kitts O1.5 3:0, basketball ML x3 (Ancud, Las Animas, Flamengo). Void: Cariari DNB 1:1. Lost: Jamaica DNB 0:1, Racing Veracruz away 1X2 1:1, Bengaluru B away 1X2 1:1. St Lucia-Bermuda leg missing from settlement feed.
+Verdict per loss:
+- **Racing Veracruz (PROCESS FAILURE)** — research had marked it CUT; I included it to reach 50x. Drew 1:1.
+- **Bengaluru B (PROCESS FAILURE)** — unresearched reserve side, thin league, away 1X2. Drew 1:1. A DNB would have VOIDED both of these draws; the 1X2 was chosen purely for odds (XJ52D3 lesson repeated).
+- **Jamaica DNB (VARIANCE, mid-band)** — research p 0.68 = the L78 no-information band; the fatigue/motivation risk was flagged. Honduras won outright; DNB can't protect against that. Luck, but a leg that should not have been an anchor.
+Net: 2 of 3 losses were self-inflicted by reaching for the 50x target; with DNB instruments on those two draws the ticket would have died only on Jamaica. Validated: Goal Bounds 1-3 on draw-heavy fixtures 3/3; basketball MLs 3/3; CONCACAF small-nation O1.5 1/1.
+RULE REINFORCED (V4-1/V4-3): never use research-CUT or unresearched legs to reach an odds target; if the odds target needs them, lower the target.
