@@ -1297,3 +1297,18 @@ Verdict per loss:
 - **Jamaica DNB (VARIANCE, mid-band)** — research p 0.68 = the L78 no-information band; the fatigue/motivation risk was flagged. Honduras won outright; DNB can't protect against that. Luck, but a leg that should not have been an anchor.
 Net: 2 of 3 losses were self-inflicted by reaching for the 50x target; with DNB instruments on those two draws the ticket would have died only on Jamaica. Validated: Goal Bounds 1-3 on draw-heavy fixtures 3/3; basketball MLs 3/3; CONCACAF small-nation O1.5 1/1.
 RULE REINFORCED (V4-1/V4-3): never use research-CUT or unresearched legs to reach an odds target; if the odds target needs them, lower the target.
+
+### Sep 29 — today's winning-shape tickets (LRF8AB main / U808U5 extended)
+Board: international break (UEFA NL MD2, AFCON qualifiers MD2), EuroLeague R2 / EuroCup + Korisliiga openers, MLB Wild Card G1s, WNBA R1 G2s. Three research agents.
+- Club football: nothing anchor-grade. Botafogo-SP 1.30 was a fragile favourite (0W in 6), so SKIP. Medellin-Millonarios is a rivalry, SKIP. Fujairah and Wuxi are unresearchable or coin-flips. Only the friendly O1.5 legs survived (USA-Chile .77, Mexico-Peru .76).
+- Basketball: no KEEP. Fener .76, Valencia .74 (missing Sima/Corbalan/Mari), Hapoel J .85 and Vilpas .88 are openers. WNBA both SKIP.
+- MLB: no ML reaches the 0.65 bar (Braves .60, NYY .57). Best angle is the ace duel, Schlittler 1.95 v Tolle 3.03.
+- Internationals, SKIPs: Slovenia (1 win in 11), Cape Verde (Rwanda 3/3), Guinea-Bissau v Nigeria (no Osimhen), Gabon.
+- Internationals, notes: Egypt without Salah (artificial pitch). Czechia depleted: 7 withdrawals plus retirements and a new coach.
+- **LRF8AB (MAIN, 5 legs, 3.2x, research joint ~30% / 1-in-3.4):** England DNB, Spain-Croatia O1.5, Albania -1.5 at San Marino, NYY-BOS Under 7.5, Mexico-Peru O1.5.
+- **U808U5 (EXT, 6 legs, 3.9x, ~23% / 1-in-4.4):** MAIN plus USA-Chile O1.5.
+- Honest EV: research p is at or below house p on almost every leg (EV ~0.94). The only +EV leg was the MLB ace-duel Under. The board is efficient, and the tickets are sized for strike rate, not value.
+- Grade at settlement:
+  - (a) the depleted-opponent mechanism (Czechia);
+  - (b) the ace-duel Under in a WC G1;
+  - (c) friendly O1.5 x2.
