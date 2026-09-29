@@ -1312,3 +1312,18 @@ Board: international break (UEFA NL MD2, AFCON qualifiers MD2), EuroLeague R2 / 
   - (a) the depleted-opponent mechanism (Czechia);
   - (b) the ace-duel Under in a WC G1;
   - (c) friendly O1.5 x2.
+
+### Sep 29 — 100x on user request: GGEN6P (DECLARED LOTTERY, V4-1)
+The user asked for 100x from the full board, lower leagues included. Two more research agents covered African/Gulf/English non-league football and lower-league basketball. Neither produced a KEEP.
+- **Exclusions:**
+  - Caps: the five LRF8AB fixtures (V4-5).
+  - Research SKIPs: Botafogo-SP, Slovenia, Cape Verde, Nigeria, Gabon, Cameroon (derby, away), Oman (dead rubber), Ebbsfleet (club in turmoil), Norrkoping, NM1, Tofas, Szolnok, Dubrava, and Egypt (worst efficiency, Salah out).
+  - MLB MLs and WNBA.
+- **GGEN6P: 18 legs, 106x.** Research joint ~1 in 410; house joint 1 in 242.
+- **Legs:**
+  - Algeria, Senegal, Slovakia, Real Potosi, Dartford and Bath 1X2.
+  - Mali DNB.
+  - Over 1.5: Ghana-Gambia, USA-Chile. Over 2.5: Morocco-Lesotho, Real Bedford. Ivory Coast multigoals 2-5.
+  - Basketball ML: Fenerbahce, Valencia, Hapoel Jerusalem, Sodertalje, Franca (road closer, flagged L35) and Gorgan.
+- Every leg is in the 0.64-0.78 research band, the L78 no-information zone. There is no anchor.
+- Grade at settlement: whether a whole-board 18-leg stack of mid-band legs lands closer to house p or research p.
