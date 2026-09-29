@@ -1327,3 +1327,20 @@ The user asked for 100x from the full board, lower leagues included. Two more re
   - Basketball ML: Fenerbahce, Valencia, Hapoel Jerusalem, Sodertalje, Franca (road closer, flagged L35) and Gorgan.
 - Every leg is in the 0.64-0.78 research band, the L78 no-information zone. There is no anchor.
 - Grade at settlement: whether a whole-board 18-leg stack of mid-band legs lands closer to house p or research p.
+
+### Sep 29 — user code S50SYN (39 legs, 1.73M x, house joint 1 in 20.7M) analysed at 15:30 UTC
+- **The original was already DEAD on arrival**: leg 36 (Coventry U21, 2nd-half 12-DC) had LOST. Leg 37 had won. Legs 32, 34, 35 and 38 were live. Legs 31 and 39 (U20 friendlies) were inside the kick-off guard.
+- **Removed:**
+  - V4-5 capped fixtures (already on LRF8AB/U808U5): Czechia-England O3, Spain-Croatia O3, San Marino-Albania away corners.
+  - Research SKIP: Guinea-Bissau v Nigeria away win-either-half (no Osimhen, GB top of group).
+  - Coin-flip corners: Moldova-Faroe corners.
+  - Women's: Huesca-Osasuna (Copa de la Reina), Jitex women's cup.
+  - SA away catch, L38/L63: Colo-Colo -1 at Puerto Montt.
+  - Southern Prem South goals-cap cut: Hanworth O2.5.
+- **Converted:**
+  - To Over 1.5: Gabon-Niger (from O2), French Guiana (from WEH), Gateshead (from O2), Alfreton and Kettering (from O2.5), Ilkeston, Bishop's Stortford and Chertsey (from 12-DC).
+  - Slovakia corners → Slovakia 1X2.
+  - Dartford O2.5 → Dartford DNB.
+- **Kept:** Rwanda +2, Libya +1, Togo +1, Luxembourg +1; Scotland-Swiss and Hartlepool OR-combos; Halifax and Uxbridge DNB; Tigre Res bounds 2-5+; Vinto, Gloucester and Dulwich O2.5 (no O1.5 offered).
+- **SR7HBA (EDIT): 22 legs, 380x, house joint 1 in 1,106.** No core offered: transition board, V4-2.
+- Grade: the conversion legs vs the original markets, and the removed legs vs the kept ones.
