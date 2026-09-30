@@ -1360,3 +1360,14 @@ The user asked for 100x from the full board, lower leagues included. Two more re
   - O1.5 conversion is not a universal fix. It worked in Gulf/Uruguay/Brazil/Scandi fixtures but FAILED in English non-league (step 1-2), where 1-0 results are the modal outcome.
   - Stop converting 12-DC or result markets into O1.5 in low-scoring semi-pro leagues. Convert only Over 2/2.5/3 down to O1.5, and only where the league averages ~2.8+ goals.
   - "Kept thin standard legs" on a thin board remains a lottery. The honest statement stands: thin spray-codes cannot be made win-grade.
+
+### Sep 30 — board research: NO-EDGE DAY (JL0YFY posted small, honest)
+The board runs until 00:00 UTC Oct 1. Two agents covered 12 football fixtures, plus EuroLeague/EuroCup/WASL/NBL, MLB WC G2, NPB and KBO.
+- **Football**: the only KEEP is Argentina-Bolivia O1.5 (0.85, priced 1.08). South Africa DNB (0.85) is KEEP-grade but priced 1.09.
+  - Fragile favourites: Cienciano (RISKY), Enyimba (SKIP, early season, lost at home), Mizoram Police (unsupported by table).
+  - Cup rotation plus the 90-min trap (L56): Bohemians, Sarpsborg.
+  - Bahrain-Yemen: must-win, cagey (L36). Defensor and Cerro Largo: coin-flips. Nof Hagalil, Egypt Insurance: no data.
+- **Basketball**: p>=0.82 only for Al Riyadi (1.05), Al Kuwait (1.10) and Panathinaikos (1.07), all failing L77 on EV. EuroCup R1 = openers, all RISKY/SKIP (Ulm lost its BBL opener 67-90).
+- **Baseball**: Braves-Phillies G2 is a coin-flip (Sanchez v Mahle). NPB/KBO starters are unverifiable.
+- **JL0YFY (4 legs, 1.49x, research joint ~49% / 1-in-2)**: South Africa DNB, Cienciano DNB, Al Kuwait ML, Argentina-Bolivia O1.5. Declared NEGATIVE-EV (research p is below house p on every leg). The honest recommendation was NO BET or a token stake; this was posted only because the user asked for a ticket.
+- Lesson on record: a high-probability ticket and a high-odds ticket do not coexist on an international-break Wednesday. Real odds return when domestic leagues resume (weekend Oct 3-4).
