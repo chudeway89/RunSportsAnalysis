@@ -1371,3 +1371,18 @@ The board runs until 00:00 UTC Oct 1. Two agents covered 12 football fixtures, p
 - **Baseball**: Braves-Phillies G2 is a coin-flip (Sanchez v Mahle). NPB/KBO starters are unverifiable.
 - **JL0YFY (4 legs, 1.49x, research joint ~49% / 1-in-2)**: South Africa DNB, Cienciano DNB, Al Kuwait ML, Argentina-Bolivia O1.5. Declared NEGATIVE-EV (research p is below house p on every leg). The honest recommendation was NO BET or a token stake; this was posted only because the user asked for a ticket.
 - Lesson on record: a high-probability ticket and a high-odds ticket do not coexist on an international-break Wednesday. Real odds return when domestic leagues resume (weekend Oct 3-4).
+
+### Sep 30 — FULL-BOARD rebuild on user challenge (MPW5D4)
+The user rejected the "no-edge" verdict and demanded all fixtures be checked.
+- **Harvest correction**: the API parameter `todayGames=true` on pcUpcomingEvents gives SportyBet's own Lagos-day list: 168 football, 57 basketball, 13 baseball. Our time-window harvest matched it (the board really is thin), but ALWAYS use `todayGames=true` for "today" requests.
+- **Full market scan**: 231 events, 73,128 outcomes (allmkts.json). Every ~1.25 alt/wide line is priced at house p ~0.77, so the house margin is uniform. Edge must come from fixture research, not price.
+- **Three extra agents**:
+  - Women's UWCL/Europa Cup + U21 qualifiers. KEEPs: Brann, Malmo and Wolfsburg DNB (2+ goal leg-1 cushions, but short prices and women's context = LO); Germany U21 -2.5 at Malta (0.76).
+  - Americas club football. Only KEEP: Miami FC TT O0.5 (0.86, priced 1.09, fails L77).
+  - Basketball/baseball: wide Unders 12-13 pts above the main line, ASVEL +23.5 (main -14.5), MLB +3.5 run-lines.
+- **Main-line check done in-house**: every basketball alt Under sits exactly 12-13 pts above the SportyBet main line. With a basketball total SD of ~16-18, that implies roughly p 0.78-0.80, so the agent's 0.86-0.90 is probably optimistic.
+- **MPW5D4 (6 legs, 3.8x)**:
+  - Legs: Braves +3.5, White Sox +3.5, ASVEL +23.5, Maccabi-Besiktas U187.5, Maxima Roma-Cluj U188.5, Burgos-Cedevita U184.5.
+  - Chance: research joint ~36%, house ~22%, honest ~1 in 3-4.
+  - Construction: capped at 2 legs per competition, no football, no openers on the result side (EuroCup legs are totals only).
+- Grade at settlement: (a) wide +13 basketball alt Unders in EuroCup R1 and EuroLeague R2; (b) MLB +3.5 in WC G2 (Braves +3.5 L12/L21 class).
