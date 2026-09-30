@@ -1386,3 +1386,21 @@ The user rejected the "no-edge" verdict and demanded all fixtures be checked.
   - Chance: research joint ~36%, house ~22%, honest ~1 in 3-4.
   - Construction: capped at 2 legs per competition, no football, no openers on the result side (EuroCup legs are totals only).
 - Grade at settlement: (a) wide +13 basketball alt Unders in EuroCup R1 and EuroLeague R2; (b) MLB +3.5 in WC G2 (Braves +3.5 L12/L21 class).
+
+### Sep 30 — user code PX5814 (38 legs, 228k x, house joint 1 in 2.38M) analysed at 08:00 UTC
+The code is 14 women's legs (UWCL + Women's Europa Cup + Copa de la Reina + Norway women) plus thin lower leagues. No leg had started at analysis; the first kick-off is 13:00.
+- **Removed (15):**
+  - Structural junk: Seychelles WEH (friendly), Paris-Arsenal 2H-DC, both-halves-No x2 (Poland U21, Venezuelan 2nd div), 3 reserve legs (El Salvador GG/O2.5, Arg Res away DNB .54), Belgian bounds 3-5+.
+  - Kreuzlingen-Bruhl derby 12-DC.
+  - Guatemala 12-DC (draw league).
+  - NPFL O1.5 .66.
+  - Nacional away DNB (SA away, L63).
+  - Roma-Barca O3.5 (.55).
+  - Levante and Huelva Copa de la Reina (no data).
+- **Converted (refined V4-3: only in higher-scoring contexts):**
+  - To Over 1.5: Tamworth O2 (Sutton's last 6 all had 3+ goals, .79), Sporting-Brondby O2.5 (Brondby 4-1 up, .77), Lyon-Chelsea O2.5 (.74).
+  - Malmo O2.5 → Malmo DNB (2-0 cushion, .82). SA -1 → SA DNB. UAE-Qatar O1.5 → Under 3.5 (UAE already through, .80).
+- **NRCWJZ (EDIT): 23 legs, 436x, house 1 in 1,503.** Declared lottery.
+- **TTY0X8 (CORE): 4 legs, 2.2x, ~1 in 3.** Tamworth O1.5, Malmo DNB, Sporting-Brondby O1.5, UAE-Qatar U3.5.
+- **V4-5**: SA DNB kept off the core because it is already on JL0YFY plus this edit.
+- Grade: the women's O2.5 legs kept (Czarni, Rosenborg, Myjava, Sturm-Wolfsburg, Torreense, where no O1.5 was offered); conversions vs originals.
