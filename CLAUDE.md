@@ -1418,3 +1418,7 @@ Research SKIPs: Nacional DNB (Morelos/Arango out, Junior are champions), Cerro P
 - **ND4Z7G (6 legs, 3.2x, research joint ~31% / 1-in-3.3)**: Red Sox +3.5 (Fried v Gray, market total 6.5, p .86), Cubs +3.5 (p .83), Mystics +11.5 (home elimination, Atlanta without B.Jones, p .82), Miami FC DNB (playoff chase v eliminated Jax, Al Qaq away, p .80), Concepcion +1.0 (1st leg QF, O'Higgins missing 4, p .85 incl. push), Chattanooga-Spokane O1.5 (p .77).
 - **G50LNW (7 legs, 3.6x, ~25%)**: + Ottawa-Cavalry O1.5 (Cavalry 3 goals in all 3 meetings, p .81).
 Grade: MLB +3.5 catches in elimination games; WNBA home-elimination wide catch; USL home DNB (flagged loser class, used once).
+- **50x request (22:45 UTC, DECLARED LOTTERY)**: user asked for ~50 odds from the same overnight board. Research joint ~1 in 100-150.
+  - **RQBZHT (16 legs, 39.4x)**: ND4Z7G core with Concepcion moved to +0.5 (the +1.0 line was pulled), plus Ottawa O1.5, Sacramento DNB, NYY-BOS U8.5, SD-CHC U9.5, St Louis away DNB, RI O1.5, Nacional-Junior O1.5, Penarol +1.5, Alianza DNB and Concepcion O1.5.
+  - **M6523S (16 legs, 46.8x)**: posted with Brooklyn-Detroit away DNB, but NOT recommended. Detroit drifted from 1.34 to 1.63 (house p .71 → .57) between research and posting. Drift against a researched leg = drop it.
+  - V4-5: this third slip reuses the ND4Z7G fixtures, so G50LNW is SUPERSEDED (play ND4Z7G + RQBZHT only). Cerro Porteno had kicked off before the build.
