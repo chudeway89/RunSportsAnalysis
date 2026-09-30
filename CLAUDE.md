@@ -1404,3 +1404,17 @@ The code is 14 women's legs (UWCL + Women's Europa Cup + Copa de la Reina + Norw
 - **TTY0X8 (CORE): 4 legs, 2.2x, ~1 in 3.** Tamworth O1.5, Malmo DNB, Sporting-Brondby O1.5, UAE-Qatar U3.5.
 - **V4-5**: SA DNB kept off the core because it is already on JL0YFY plus this edit.
 - Grade: the women's O2.5 legs kept (Czarni, Rosenborg, Myjava, Sturm-Wolfsburg, Torreense, where no O1.5 was offered); conversions vs originals.
+
+### Calibration (Sep 30 settlement, 20:40 UTC checkpoint)
+- **TTY0X8 (PX5814 core, 4 legs 2.2x) WON 4/4 → PROJECT WIN #24.** Tamworth O1.5 2:0, Malmo DNB, Sporting-Brondby O1.5, UAE-Qatar U3.5. Pull-the-core wins again; every trimmed/edited version of the same board died.
+- **LRF8AB 4W/1L and U808U5 5W/1L — both DEAD on NYY-BOS Under 7.5 (9:0).** England DNB, Spain O1.5, Albania -1.5, Mexico O1.5 all won. The researched "ace-duel Under" failed in a playoff game: R4 totals optimism again. Research-anchored football legs went 4/4.
+- **MPW5D4 DEAD** on Maccabi-Besiktas U187.5 (202 pts). The wide +13 alt-Under estimate (agent 0.86-0.90, my main-line check ~0.78) was optimistic, as suspected: EuroLeague/EuroCup R1-2 pace is not modelled. Wide alt basketball Unders are LO only.
+- **NRCWJZ (PX edit) 13W/6L DEAD**: kept women's O2.5 legs (no O1.5 offered) went 0/3 (Czarni 1:0, Myjava 1:1, Sturm-Wolfsburg 0:2). Cushion-leader easing thesis confirmed again: when O1.5 isn't offered on a women's/cushion game, CUT, don't keep O2.5. Thin-league DNBs (Musmus, Zeta) also lost. Removed Sporting Lagos O1.5 (0:0) and Aguila GG (3:0) cuts were correct.
+- JL0YFY alive at checkpoint (SA DNB, Al Kuwait won).
+
+### Sep 30 overnight (to 05:30 UTC Oct 1) — ND4Z7G / G50LNW
+Board: 39 events (27 football, 9 basketball, 2 MLB WC G2). Three research agents: US/Canada football, LatAm football, MLB/WNBA/LNB. Honest verdict: EVERY leg on the board was EV 0.84-1.05 — efficient prices, no value; ticket built for strike rate.
+Research SKIPs: Nacional DNB (Morelos/Arango out, Junior are champions), Cerro Porteno DNB (crisis, one-leg cup L56), Oriente-Strongest (must-win L36), Penarol DNB (title six-pointer, L65), Rhode Island (debut GK), Tulsa O1.5 (rain, "defensive slog"), St Louis/Detroit away DNB (L63), all Argentine LNB (season openers), Wings +13.5 (lost G1 by 24, Sims out), MLB MLs (<0.65).
+- **ND4Z7G (6 legs, 3.2x, research joint ~31% / 1-in-3.3)**: Red Sox +3.5 (Fried v Gray, market total 6.5, p .86), Cubs +3.5 (p .83), Mystics +11.5 (home elimination, Atlanta without B.Jones, p .82), Miami FC DNB (playoff chase v eliminated Jax, Al Qaq away, p .80), Concepcion +1.0 (1st leg QF, O'Higgins missing 4, p .85 incl. push), Chattanooga-Spokane O1.5 (p .77).
+- **G50LNW (7 legs, 3.6x, ~25%)**: + Ottawa-Cavalry O1.5 (Cavalry 3 goals in all 3 meetings, p .81).
+Grade: MLB +3.5 catches in elimination games; WNBA home-elimination wide catch; USL home DNB (flagged loser class, used once).
