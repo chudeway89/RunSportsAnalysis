@@ -1344,3 +1344,19 @@ The user asked for 100x from the full board, lower leagues included. Two more re
 - **Kept:** Rwanda +2, Libya +1, Togo +1, Luxembourg +1; Scotland-Swiss and Hartlepool OR-combos; Halifax and Uxbridge DNB; Tigre Res bounds 2-5+; Vinto, Gloucester and Dulwich O2.5 (no O1.5 offered).
 - **SR7HBA (EDIT): 22 legs, 380x, house joint 1 in 1,106.** No core offered: transition board, V4-2.
 - Grade: the conversion legs vs the original markets, and the removed legs vs the kept ones.
+
+### Calibration (Sep 29 settlement, checkpoint 00:00 UTC Sep 30)
+- **LRF8AB ALIVE 3W/0L/2P**: England DNB (0-2 win), Spain-Croatia O1.5 (4-1) and Albania -1.5 at San Marino (0-3) all WON. NYY-BOS Under 7.5 and Mexico-Peru O1.5 are pending. U808U5 is also alive (3W/0L/3P). The researched depleted-opponent mechanism (Czechia) held.
+- **GGEN6P (18-leg 100x) DEAD 13W/2L/3P.** Losses:
+  - Algeria 2:2 at Burundi: research had flagged RISKY for absences (Gouiri, Zidane, Belghali, Ait-Nouri) plus an artificial pitch.
+  - Morocco-Lesotho O2.5 lost 0:2: the favourite eased off at 2-0 (R4/L10 again).
+  - Both losses were legs research had called RISKY or mid-band, so the kill was predictable. 13 of 15 settled legs won (87%); the ticket still died on leg count (L53 again).
+- **SR7HBA (S50SYN edit) DEAD 12W/8L/2V. The edit did WORSE than the original's own markets on the same fixtures (13W/6L/3V).**
+  - O1.5 conversions went only 4W/4L. English non-league produced four 1:0/0:1 results (French Guiana 1:0, Gateshead 0:1, Alfreton 1:0, Ilkeston 0:1).
+  - Two conversions directly hurt: the Ilkeston 12-DC and French Guiana home-WEH originals both WON while my O1.5 lost. One helped: Gabon O2 voided on 2:0, and my O1.5 won.
+  - Kept push-protected +1s went 0W/2L/1V (Togo lost 2:0, Luxembourg lost 0:3, Libya voided).
+- **Removed pile (pre-match removals)**: 5W/3L/1V. The knife was neutral again on a thin board.
+- **LESSON (refines V4-3):**
+  - O1.5 conversion is not a universal fix. It worked in Gulf/Uruguay/Brazil/Scandi fixtures but FAILED in English non-league (step 1-2), where 1-0 results are the modal outcome.
+  - Stop converting 12-DC or result markets into O1.5 in low-scoring semi-pro leagues. Convert only Over 2/2.5/3 down to O1.5, and only where the league averages ~2.8+ goals.
+  - "Kept thin standard legs" on a thin board remains a lottery. The honest statement stands: thin spray-codes cannot be made win-grade.
