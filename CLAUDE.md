@@ -1453,3 +1453,18 @@ Transition board again (international break). Wolfsburg O3.5 was LIVE at fetch (
 - **VKAHRQ (EDIT, 10 legs, 23.4x, house 1 in 72).** The core plus USVI O2.5, Guyana 1X2, Santa Marta O1.5, Belford Roxo O1.5, N.Ireland U21 O1.5, Yarmouk away bounds 1-3+, Jerash home bounds 1-3+. Declared lottery.
 - Grade: whether the AH +1 catches push or win (L24), removed vs kept, and the Israel conversion.
 - **100x request (15:30 UTC, DECLARED LOTTERY)**: **PLRXD3 — 18 legs, 98.9x, house joint 1 in 218, honest ~1 in 300+.** VKAHRQ's 10 legs plus Cristal O1.5, Denmark-Portugal O1.5, Greece-Neth O1.5, Olimpia O1.5, Malta -1.0, Sagesse ML, Envigado DNB (research coin-flip, the weakest leg), Bolivar 1X2. Holbaek was rejected because it drifted from 1.40 to 1.51 (p .69 → .63), the drift-against rule. V4-5: VKAHRQ is SUPERSEDED, so play RP4J00 + PLRXD3 only.
+
+### Calibration (Oct 1 settlement, 21:47 UTC) — protected underdog catches won; favourites and overs failed
+- **RP4J00 WON 2W/1V → PROJECT WIN #26** (~1.97x effective). Ireland +1.0 WON, Israel-Kosovo U3.5 WON on a 0-0, and Kenya +1.0 VOIDED on Guinea 1-0. The push refund kept the ticket alive, exactly as designed.
+- **VKAHRQ 8W/0L/1V with Guyana leading 0-2 in H1**, so it is likely a win, but it was superseded by PLRXD3. **PLRXD3 DEAD**: Malta -1.0 lost on a 1-1 draw, the "-1 catch loses on a draw" category error (Aug 9) repeated. Malta DNB would have voided.
+- **ZPEXAX 2W/3L, JSS3HM 3W/4L, XSKJAD 12W/5L: all DEAD.** Killers:
+  - **Norway at Wales lost 1-2.** It was research's top result leg (.85: Wales scoreless in League A, Haaland in form). Away favourite at a home side with nothing to lose: the L35/L63 family.
+  - **Azerbaijan-Liechtenstein O1.5 lost 0-0.** A heavy-mismatch over in a minnow game.
+  - **Italy U21 O2.5 at Armenia lost 0-1.** The favourite eased off at 1-0 (L10).
+  - Virtus beat Olympiacos 96-94.
+  - Japan-Ecuador O1.5 lost (≤1 goal at 90', then a shootout).
+- **PATTERN (international break, Sep 27–Oct 1):** heavy-favourite overs and away-favourite results keep failing, while push-protected underdog catches and Unders keep landing (Ireland +1, Kenya +1 void, Israel U3.5 0-0; Sep 29 England DNB is the exception). National teams in the international window play cagey, low-scoring matches. Until club football resumes, prefer underdog +1.0 catches and Under 3.5 in competitive internationals over favourite overs and away result-sides.
+- **SHWB1R knife audit: the BEST on a thin/international board.**
+  - Removed legs lost heavily: Azerbaijan O2 0-0, Germany O3 2-0, Austria Wien-Inter W DC 1-1, Man City W O2.5 1-1, Barracas res DC 0-0, N.Mac U21 DC 1-1, Ashdod both-halves-No 1-0, Ra'anana WEH, Kiryat Yam O2.5 2-0, Sderot DC 0-0, Qatar SC 2H-DC.
+  - The kept/converted VKAHRQ pool went 8W/0L/1V.
+  - The structural junk classes (draw-risk 12-DC, women's, 2H-DC, WEH, both-halves, integer Overs) did NOT run hot this time, and the conversion (Israel O2 → U3.5) won.
