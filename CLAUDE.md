@@ -1434,3 +1434,21 @@ Board: 148 events, still the international break (UNL MD, U21 quals, Gulf cups, 
 - **JSS3HM (~1-in-6)**: + Germany-Serbia O1.5 (no German clean sheet in 7, Serbia missing 3) + Olympiacos ML at Virtus.
 - SKIPPED: Germany/Portugal/Netherlands result-sides (fragile/coin-flip), Ireland-Austria & Guinea-Kenya U3.5 (R4), Malta DNB (1.08, L77), all Gulf cups, Olimpia (pens cup), Cristal (1-goal cushion), Bahla (L30 price divergence).
 - **50x request (09:30 UTC, DECLARED LOTTERY)**: **XSKJAD — 18 legs, 52.7x, house joint 1 in 106, honest ~1 in 150-250.** ZPEXAX core (Norway stretched DNB→1X2 for odds) + Germany-Serbia O1.5, Olympiacos ML, Greece U21 O2.5, Denmark-Portugal O1.5, Sagesse ML, Wolfsburg O2.5 & Stuttgart O2.5 (friendly overs), Indonesia-Bangladesh O2.5, Japan-Ecuador O1.5, Holbaek ML (LO), Cristal O1.5, Greece-Neth O1.5. KWQ01B (17 legs 43.9x) superseded. Juve Stabia O2.5 market was pulled before posting. Breaches the per-league goals cap (5 UNL O1.5 legs) — flagged to user. V4-5: G50LNW-style supersession — JSS3HM superseded; play ZPEXAX + XSKJAD only.
+
+### Oct 1 — user code SHWB1R (39 legs, 479,730x, house joint 1 in 4.3M) analysed at 15:00 UTC
+Transition board again (international break). Wolfsburg O3.5 was LIVE at fetch (HT 3:0, market suspended); Stuttgart and Baniyas were inside or near the kick-off guard.
+- **Removed (29):**
+  - V4-5 capped fixtures (already on ZPEXAX/XSKJAD): Azerbaijan O2, Denmark corners, Germany O3, Greece-Neth O3, Wales-Norway O3, Armenia U21 O2.5, Baerum O3, Wolfsburg, Stuttgart.
+  - Women's: Austria Wien-Inter W, Koege-Servette W, Man City-Real Madrid W.
+  - Reserves: two Argentine reserves (Barracas 12-DC, Colon away DNB), FAS reserves bounds.
+  - Draw-risk 12-DC: N.Macedonia U21, Sderot (Liga Alef), Ramtha (Jordan), Baniyas.
+  - Other junk classes: USA-Brazil U20 friendly DC, Qatar SC 2H-DC, Ra'anana WEH, Ashdod both-halves-No.
+  - Israel National League Overs (Bney Reine, Kiryat Yam): the research found the fixture data conflicting.
+  - Research SKIPs: Olimpia -1 (pens cup), Envigado (coin-flip), Firpo (away 1X2), Flamengo PI O2.5 (thin, p .56).
+- **Converted:** Israel-Kosovo Over 2 → Under 3.5. Israel must win, so research expects a cagey game (.74).
+- **RP4J00 (CORE, 3 legs, 3.3x, ~1 in 3).** Every leg is push-protected or researched:
+  - Kenya +1.0: Guinea winless in 5 and Kenya set up to defend.
+  - Ireland +1.0: Austria missing Danso, Florucz, Laimer and Gregoritsch.
+  - Israel-Kosovo Under 3.5.
+- **VKAHRQ (EDIT, 10 legs, 23.4x, house 1 in 72).** The core plus USVI O2.5, Guyana 1X2, Santa Marta O1.5, Belford Roxo O1.5, N.Ireland U21 O1.5, Yarmouk away bounds 1-3+, Jerash home bounds 1-3+. Declared lottery.
+- Grade: whether the AH +1 catches push or win (L24), removed vs kept, and the Israel conversion.
