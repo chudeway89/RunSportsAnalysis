@@ -1452,3 +1452,4 @@ Transition board again (international break). Wolfsburg O3.5 was LIVE at fetch (
   - Israel-Kosovo Under 3.5.
 - **VKAHRQ (EDIT, 10 legs, 23.4x, house 1 in 72).** The core plus USVI O2.5, Guyana 1X2, Santa Marta O1.5, Belford Roxo O1.5, N.Ireland U21 O1.5, Yarmouk away bounds 1-3+, Jerash home bounds 1-3+. Declared lottery.
 - Grade: whether the AH +1 catches push or win (L24), removed vs kept, and the Israel conversion.
+- **100x request (15:30 UTC, DECLARED LOTTERY)**: **PLRXD3 — 18 legs, 98.9x, house joint 1 in 218, honest ~1 in 300+.** VKAHRQ's 10 legs plus Cristal O1.5, Denmark-Portugal O1.5, Greece-Neth O1.5, Olimpia O1.5, Malta -1.0, Sagesse ML, Envigado DNB (research coin-flip, the weakest leg), Bolivar 1X2. Holbaek was rejected because it drifted from 1.40 to 1.51 (p .69 → .63), the drift-against rule. V4-5: VKAHRQ is SUPERSEDED, so play RP4J00 + PLRXD3 only.
