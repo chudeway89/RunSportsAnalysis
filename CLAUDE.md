@@ -1468,3 +1468,9 @@ Transition board again (international break). Wolfsburg O3.5 was LIVE at fetch (
   - Removed legs lost heavily: Azerbaijan O2 0-0, Germany O3 2-0, Austria Wien-Inter W DC 1-1, Man City W O2.5 1-1, Barracas res DC 0-0, N.Mac U21 DC 1-1, Ashdod both-halves-No 1-0, Ra'anana WEH, Kiryat Yam O2.5 2-0, Sderot DC 0-0, Qatar SC 2H-DC.
   - The kept/converted VKAHRQ pool went 8W/0L/1V.
   - The structural junk classes (draw-risk 12-DC, women's, 2H-DC, WEH, both-halves, integer Overs) did NOT run hot this time, and the conversion (Israel O2 → U3.5) won.
+
+### Oct 1 night — RTE9TH (MAIN, 4 legs 2.3x) / WZN9TU (EXT, 5 legs 3.6x)
+Overnight board: CONCACAF NL minnows, MLS, MLB WC G3, WNBA G3, LNBP. Anguilla-Antigua had no O/U market (only 1X2/DNB at 1.03-1.13) → skipped. WNBA G3 SKIP (G1 blowout prior at same venue, L7). MLB G3 coin-flip (G1/G2 both close) → only the wide +3.5 catch qualifies (L12/L21).
+- **RTE9TH (research joint ~41% / 1-in-2.5)**: Seattle DNB v SKC (0.78), Soles de Mexicali ML (LNBP leader v 9th, 0.80), Lobos de Puebla ML at last-placed Correcaminos (0.77), Braves +3.5 (coin-flip G3, ~0.85).
+- **WZN9TU (~1-in-4)**: Seattle DNB, Soles, Lobos, Braves +1.5 (0.72), Nicaragua-Costa Rica O1.5 (0.72, RISKY).
+- Honest: every leg at or near house-implied (EV ~1.0); LNBP standings data conflicting across sources. Strike-rate tickets, not value.
