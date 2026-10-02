@@ -1474,3 +1474,14 @@ Overnight board: CONCACAF NL minnows, MLS, MLB WC G3, WNBA G3, LNBP. Anguilla-An
 - **RTE9TH (research joint ~41% / 1-in-2.5)**: Seattle DNB v SKC (0.78), Soles de Mexicali ML (LNBP leader v 9th, 0.80), Lobos de Puebla ML at last-placed Correcaminos (0.77), Braves +3.5 (coin-flip G3, ~0.85).
 - **WZN9TU (~1-in-4)**: Seattle DNB, Soles, Lobos, Braves +1.5 (0.72), Nicaragua-Costa Rica O1.5 (0.72, RISKY).
 - Honest: every leg at or near house-implied (EV ~1.0); LNBP standings data conflicting across sources. Strike-rate tickets, not value.
+
+### Calibration (Oct 2, 12:00 UTC) — RTE9TH / WZN9TU both DEAD on one leg
+Seattle DNB, Lobos ML, Braves +3.5 / +1.5, Nicaragua-CR O1.5 all WON; Soles de Mexicali ML LOST 84-93 to Diablos Rojos — the leg flagged at posting for conflicting LNBP standings data. Lesson: a leg whose basic table data can't be verified is not a 0.80 leg; unverifiable-standings legs are LO at best.
+
+### Oct 2 — user code X3B7G2 (39 legs, 847,090x, house joint 1 in 8.2M) analysed at 12:00 UTC
+Nothing started at fetch (first KO 14:00). International-break board again. One research agent covered 11 fixtures: Unders and underdog +1 catches cleared; favourite Overs mostly LO.
+- **Cut (28):** WEH (Kazakhstan), both-halves-No ×3, 2H-DC ×2, 12-DC ×3 (Cali, Hluboka, Wisloka), corners→converted, women ×2, U20 ×2, Belgian U21 away 1X2, France-Italy O3 (research O1.5 only .72, Mbappe/Konate out), St Lucia OR-combo (.64), Ukraine U21 O1.5 (.66), England U21 (ease-off risk, O1.5 1.12 −EV), Dukla-Jablonec (.63), friendly Aarau O2.5 (no O1.5), all unresearched thin overs (Austria amateur, Belarus, Bolivia cup, Czech Divize, Lithuania reserve, Bray GG, Swedish Div 2 ×4).
+- **Converted:** Kazakhstan WEH→U3.5, Latvia OR-combo→U3.5, Belgium O3→Belgium DNB (Turkiye 0 pts, depleted), Bosnia-Sweden O3→O1.5 (Dzeko farewell, Gyokeres form), Faroe-Slovakia away −1→U3.5, Cyprus corners→U3.5, St Kitts/Suriname O2→O1.5, Tanger +1.5→U3.5 (Botola derby/opener → no result-side).
+- **YAY0XJ (EDIT, 11 legs, 12.9x, house 1 in 18, research ~1 in 15)** — breaches the per-league goals cap (5 UNL goals legs), flagged; declared lottery-adjacent.
+- **ZK5M48 (CORE, 5 legs, 3.2x, research joint ~33% / 1 in 3)**: Georgia +1.0 at Hungary (both sides 0 NL goals, Varga out), Faroe-Slovakia U3.5, Latvia-Montenegro U3.5, Suriname-Guatemala O1.5, Tanger-Tetouan U3.5.
+Grade: the international-break Unders/+1 pattern (5th straight day); removed vs kept.
