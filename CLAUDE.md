@@ -1485,3 +1485,10 @@ Nothing started at fetch (first KO 14:00). International-break board again. One 
 - **YAY0XJ (EDIT, 11 legs, 12.9x, house 1 in 18, research ~1 in 15)** — breaches the per-league goals cap (5 UNL goals legs), flagged; declared lottery-adjacent.
 - **ZK5M48 (CORE, 5 legs, 3.2x, research joint ~33% / 1 in 3)**: Georgia +1.0 at Hungary (both sides 0 NL goals, Varga out), Faroe-Slovakia U3.5, Latvia-Montenegro U3.5, Suriname-Guatemala O1.5, Tanger-Tetouan U3.5.
 Grade: the international-break Unders/+1 pattern (5th straight day); removed vs kept.
+
+### Oct 2 — user code SE7RDW (40 legs, 314,200x, house joint 1 in 3.6M) — ALL 40 legs researched before any cut (user instruction)
+Four research agents (10 legs each). Leg 14 (Al Ain) live at fetch. Latvia/Faroe/Tanger already at the V4-5 cap (ZK5M48+YAY0XJ); Belgium/Bosnia had one slot left (used on the edit only).
+- **As booked, only 2 of 40 legs cleared p≥0.75**: Minija-Kauno B 3+ goals (.76) and Ferro-Madryn U3.5 (.85, via a different market). Every corners, both-halves-No, BTTS, 12-DC, away-DNB and "3-5+" bounds leg landed SKIP/LO (BTTS Llanelli .45, Wexford both-halves .47, Kristianstad DC&O1.5 .52, Smedby away DNB .55).
+- **Conversions research endorsed**: Over 1.5 / goal bounds 2+ on Costa del Este (.82), Carmarthen (.85), Bray (.81), Kristianstad (.77), Heracles (.78), Kremser (.78), Deutschkreutz (.87); Seekirchen 12-DC → U3.5 @1.52 (.80, the one value leg); Belgium both-halves → Belgium DNB (.78); Bosnia GG → O1.5 (.75). Sub-1.10 conversions (Gloggnitz, Lebring, Lindome, Ilves 2) dropped on L77 EV.
+- **SB5SST (EDIT, 12 legs, 9.9x, research joint ~7% / 1 in 14)**. **ZHY132 (CORE, 5 legs, 2.7x, research ~41% / 1 in 2.5)**: Ferro U3.5, Carmarthen O1.5, Deutschkreutz 2+, Bray O1.5, Seekirchen U3.5. Caveat: 4 of 5 core legs are thin-league goals legs (the class that failed in English non-league Sep 29).
+Grade: research-per-leg verdicts vs results on all 40 (first fully researched user code); the goal-bounds 2+ instrument.
