@@ -1519,3 +1519,11 @@ Board: 80 events (thin Friday night: Brazil B, Argentina LPF, CONCACAF NL, Liga 
 - **Lessons:**
   - The deaths came from (a) a deliberate DNB→1X2 stretch and (b) LO-tier legs added to reach 100x.
   - Both are known rules (R3 and V4-1) that I broke to hit the user's odds target. Do not break them again.
+
+### Oct 3 — full-board panel build (13-member panel incl. Actuarial Scientist + Systems Architect)
+Board (todayGames to 23:00 UTC): 981 events / 349k outcomes — 585 non-junk football, 148 basketball, 6 baseball. REGIME: last day of the international break (UNL MD3, Gulf Cup semis), domestic lower tiers, MLB Division Series G1s, early-season basketball (R1-3). Five analyst agents (UK/IE, Continental Europe+UNL, Americas, Asia/Africa/Gulf, basketball+baseball). Result: 15 KEEPs (p>=0.77 with mechanism) — almost all Unders/away-team Under 1.5/underdog catches, consistent with the international-window pattern. No domestic Europe KEEP; no favourite Over; no result-side anchor except via catches.
+- **KSMSDB (BEST, 6 legs, 3.1x, research ~1 in 2.2, house 1 in 3.7)**: Peterhead TT U1.5 (Hamilton 1 GA in 7), Arbroath TT U1.5 (Partick 2 GA in 7), White Sox +4.5 (Messick v bullpen game, total 6.5), N.Macedonia-Scotland U3.5 (both blank in comp), Defensa-San Lorenzo U3.5 (SL 4 GF in 10), Guarani-Sportivo SL U3.5 (SL 3 GF in 12).
+- **M01NUY (T100, 27 legs, 95.8x, research 1 in 84 / house 1 in 222)**: all 15 KEEPs + 12 high-p short legs (Cuiaba/Truro/Iceland/AtlGO/Tolima/Dartford DNB, Estonia/Newell's/CODM/Vision U3.5, Godset O2.5, Liverpool URU DNB). No LO padding, no DNB->1X2 stretch.
+- **Q3H1L4 (T1000, 41 legs, 1,110x, ~1 in 2,300-4,150)**: + LO tier (Joventut ML, UAE DNB, H&W DNB, Botola U3.5 x2, LBA/BBL/LNB wide catches, Gateshead TT U1.5, Spain -1.5, 4 Argentine lower-tier U3.5). DECLARED LOTTERY.
+- **RBHQPS (T10000, 56 legs, 12,426x, ~1 in 80-95k)**: + 9 more Argentine Primera B/Nacional U3.5 (base-rate only, correlated 18:00 round), Exeter/Crewe U3.5, TNS O2.5, Limoges catch, Santa Cruz/Raja U3.5. DECLARED LOTTERY; breaches per-league goals cap by design.
+- V4-5 note: ladder is nested, so BEST legs sit on 4 slips — one correlated book. Grade: (a) away-team Under 1.5 class (new instrument, 3 legs); (b) KEEP tier vs S tier vs X tier; (c) Argentine lower-league U3.5 cluster (13 legs one round).
