@@ -1506,3 +1506,16 @@ Board: 80 events (thin Friday night: Brazil B, Argentina LPF, CONCACAF NL, Liga 
 - **L7QZW7 (T10000, 36 legs, 10,639x, research ~1 in 288,000)**: + Ehime/Cali stretched to 1X2, Mineros ML, Utsunomiya ML, Yeoju/Namyangju/Grenada/Miramar DNB. WE2TKU (8,243x) superseded.
 - Excluded: all women's, reserve sides as picks, KBO/NPB (dead rubbers, no starters), KBL/LNB openers, Barbados U3.5 @1.82 (house .52 vs no-data research — divergence trap), coin-flip LNBP games.
 - V4-5 note: nested ladder by design — the T100 fixtures sit on all three rungs. Grade: KEEP Unders (7th day of the international-break pattern) vs the X-tier no-data legs.
+
+### Calibration (Oct 3, 07:54 UTC) — overnight ladder dead; ZHY132 WON
+- **ZHY132 WON 5/5 → PROJECT WIN #27** (2.7x): Ferro U3.5 (0-0 at HT, won), Carmarthen O1.5, Deutschkreutz 2+, Bray O1.5, Seekirchen U3.5. Fully researched user-code core again the winning shape.
+- **ZK5M48 3W/1L/1V and YAY0XJ 9W/1L/1V DEAD on Suriname-Guatemala O1.5 0-0** (research .80): the only goals-Over on either ticket in the international window, and it failed like the favourite Overs before it.
+- **Overnight ladder U3YMT9 15W/3L, YFUNE2 20W/7L/2V, L7QZW7 23W/9L/2V: all DEAD.** Killers on the T100:
+  - **Fortaleza 1X2 drew 1-1.** I stretched it from DNB, which would have VOIDED. The instrument-stretch lesson was ignored again, to reach a number.
+  - **Nagano-Nara O1.5 lost 0-1** (research LO .80).
+  - **China-Uzbekistan U3.5 lost 2-2** (LO .72).
+- The X-tier no-data legs went badly, as expected: Panteras, La Paz, Wellington, Jaiba, Mineros, Utsunomiya all lost.
+- **Leg-level: KEEP-tier legs held** (all 9 KEEP Unders/DNB won except Fortaleza after the stretch).
+- **Lessons:**
+  - The deaths came from (a) a deliberate DNB→1X2 stretch and (b) LO-tier legs added to reach 100x.
+  - Both are known rules (R3 and V4-1) that I broke to hit the user's odds target. Do not break them again.
