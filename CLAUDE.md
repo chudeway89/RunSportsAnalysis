@@ -1585,3 +1585,17 @@ Board: 148 events (USL regular-season end, Liga de Expansion, Brasileirao A Atl-
 - **TYVR3E (CORE, 7 legs, 7.14x, research ~1 in 3.6)**: Castellon U4.5, PR-Cayman U4.5, Morocco-Mali U3.5, Egypt-SA U3.5, Malta-Andorra U3.5, Girona-Mallorca U3.5, Mjoendalen O2.5. All EV>1.
 - **Q08JBK (EDIT, 17 legs, 82.7x, research ~1 in 37)**: CORE + Cucuta O1.5, Penarol TT O0.5, Boston River U3.5, Mictlan U3.5, Crusaders W 3+, Partick-Rangers W O2.5, FH W O2.5, Agoncillo O1.5, Galapagar U3.5, Brattvaag O1.5. Declared lottery (women's x3, thin Tercera/Guatemala data stale).
 - Grade: the international-window Unders pattern (8th day) vs the booked integer Overs; women's high-scoring legs; removed vs kept.
+
+### Calibration (Oct 4, 20:55 UTC)
+- **TYVR3E (JQYMP7 core) 6W/0L + PR-Cayman U4.5 pending (22:00)** — every settled leg won; possible WIN #31. All Under conversions landed: Castellon 1-1, Girona 0-0, Morocco 1-1, Egypt, Malta, Mjoendalen O2.5 won.
+- **Q08JBK (edit) DEAD 11W/3L**: Partick-Rangers W O2.5 0-1 (women's KEEP .78 failed), Galapagar U3.5 1-3 (thin Tercera), Mictlan U3.5 (feed shows L with "Not start" — recheck).
+- **JQYMP7 (user original) DEAD 20W/10L/2V** — the booked Overs we converted all lost (Castellon O2.5 1-1, Girona TT 0-0, Boston River O2 0-0, Varnsdorf 1-1, Agoncillo 2-0, Brozany both-halves 0-0, Hostoun 3+ 1-1, Kosovo A-or-O2.5 1-1, Greece-Germany corners); Neth O3 and Morocco O2 VOIDED (integer push). Research-led conversion validated again; 9th straight day of the international-window Unders pattern.
+
+### Oct 4 night — Overs accumulator on user request (TNG7DX MAIN / QG5MZ7 EXT)
+User asked for "a winning Over accumulation ticket, as many odds as possible". Board now -> Mon Oct 5 23:59: only ~80 real football fixtures (last day of the international break). Three agents researched 69 Over markets.
+- KEEP pool (p>=0.78 with mechanism) = 6: Nicaragua-DR O1.5 (both conceded freely, 3/3 games 3+ goals each), Cuba-St Kitts O1.5 (3-3 three days ago), Guadeloupe-St Lucia O1.5 (5/5 recent 2+), Nacional-Montevideo City O1.5 (Torque 3.4 g/g), Moss-Kongsvinger O2.5 (Kongsvinger 4.5 g/g, Moss concede 2.3), Italy-Turkiye O1.5 (Turkiye conceded 7 in 2, Italy must win).
+- Guadeloupe dropped to respect the <=2 goals-legs-per-competition cap (L73; 3 CNL legs). Every Argentine Over CUT (low-scoring league); Aruba-Anguilla O2.5 (house .83) CUT (2-0 five days ago); France-Belgium, Bosnia-Poland, NI-Georgia, Ukraine-Hungary O1.5 all LO/CUT (cagey-window pattern).
+- EV honesty: all KEEPs sit at EV 0.92-1.02 — strike-rate legs, not value. P-B applied: KEEP pool product is only ~2.4x.
+- **TNG7DX (MAIN, 5 legs, 2.44x, research ~1 in 2.8)**: Nicaragua O1.5, Cuba O1.5, Nacional O1.5, Moss O2.5, Italy-Turkiye O1.5.
+- **QG5MZ7 (EXT, 9 legs, 5.51x, research ~1 in 9)**: MAIN + LO legs Bucaramanga O1.5 (.72), Fernando de la Mora O1.5 (.76), New Mexico-Phoenix O1.5 (.77), Sweden U21-N.Mac U21 O1.5 (.75). Declared stretch — the LO tier is where padded tickets die.
+- Grade: whether "both-defences-leak" CNL minnow Overs break the cagey-window pattern; Moss O2.5 mechanism; LO padding vs KEEP core.
