@@ -1562,3 +1562,10 @@ Board: 148 events (USL regular-season end, Liga de Expansion, Brasileirao A Atl-
 - **N8W8C5 (CORE, 5 legs, 2.94x, research ~1 in 2.4 / house 1 in 3.6)**: Atl-MG bounds, Tulsa U3.5, Padres +4.5, Vegas U3.5, Sapporo O1.5.
 - Dropped Detroit-Birmingham U3.5 (.78, conflicting profiles) to respect the 2-goals-legs-per-league cap (L73) — 3 USL Unders on one night is a correlated bet. No LO padding; no stretch ladder posted (P-B).
 - Grade: USL Unders at end of regular season; MLB wide catches in G1s; B.League game-2 prior (L7 applied to basketball); J2 early-season samples.
+
+## ═══ Calibration (Oct 4, 07:10 UTC) — THREE WINS: KSMSDB, K0R5RN, N8W8C5 ═══
+- **KSMSDB WON 6/6 → PROJECT WIN #28** (3.1x): Peterhead TT U1.5, Arbroath TT U1.5, White Sox +4.5, N.Mac-Scotland U3.5, Defensa-San Lorenzo U3.5, Guarani-Sportivo SL U3.5.
+- **K0R5RN WON 6/6 → PROJECT WIN #29** (5.04x, the BEST-VALUE rebuild): N.Mac-Scot U3.5, Partick-Arbroath U3.5, Peterhead TT U1.5, Guarani U3.5, Maldonado U3.5, Swiss-Slovenia U3.5.
+- **N8W8C5 WON 5/5 → PROJECT WIN #30** (2.94x overnight core): Atl-MG v Bragantino bounds 1-4, Tulsa-Sacramento U3.5, Padres +4.5, Las Vegas-San Antonio U3.5, Sapporo-Iwaki O1.5.
+- **NKWR3Q (overnight MAIN, 9 legs) DEAD on Eastern Suburbs v Auckland City U3.5 (2-4)** — the ONE leg whose own research flagged a rule break (City 2.3 g/g, 8 of last 12 games had 4+; Under rested only on a matchup narrative). San-En were also trailing 79-85 in Q4. Lesson re-proven: a KEEP that carries its own "breaks the both-sides-low-scoring rule" caveat is LO, not KEEP.
+- **Full-board-research KEEP tier across Oct 3 + overnight: 22W/1L** settled. The P-B principle (KEEP-only tickets; ladders are lotteries) is the shape that won three tickets in one night while every padded ladder died.
