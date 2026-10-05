@@ -1610,3 +1610,15 @@ User asked for "a winning Over accumulation ticket, as many odds as possible". B
 - **LUK4BU (CORE, 5 legs, 3.04x, research ~1 in 2.5)**: NI-Georgia U3.5 (1-0 last week, both blank-prone), Bosnia-Poland U3.5 (0-0 first meeting), Liechtenstein-Gibraltar U2.5 (two weakest attacks), Guadeloupe-St Lucia O1.5 (5/5 recent 2+), Rwanda-Kenya U3.5 (Kenya defensive set-up; fixture data thin).
 - **W3PVZ8 (EDIT, 13 legs, 20.2x, research ~1 in 24)**: CORE + Canuelas U2.5, Wanderers res DC, Cerro Largo res O1.5, Oriental res O1.5, Paraty DC, Velez DNB, Serbia-Russia U21 O1.5, Romania-Sweden A-or-O2.5. Declared lottery (thin reserves/B2/U21 legs, EV 0.90-0.98).
 - Grade: 10th day of the international-window Unders pattern; booked integer Overs vs conversions.
+
+### Calibration (Oct 5, 21:30 UTC)
+- **LUK4BU (SR987N core) DEAD 4W/1L** on Guadeloupe-St Lucia O1.5 0-1 (research .80; "5/5 recent 2+" profile) — every UNDER on the core won (NI 0-0, Bosnia 1-0, Liechtenstein 0-2, Rwanda 0-0). W3PVZ8 11W/1L same killer. Overs book TNG7DX 3W/1L, QG5MZ7 6W/1L both DEAD on Moss-Kongsvinger O2.5 0-2 (research .80). SR987N original 23W/11L (booked integer Overs all lost).
+- **10th straight day of the international-window pattern: Unders 4/4, Overs 0/2 today.** Both "both-defences-leak" Over KEEPs failed. In an international window, even research-KEEP Overs are LO; Unders/DNB are the KEEP class.
+- **BUG FOUND AND FIXED (critical process lesson)**: SR987N's share fetch returned 39 selections but 38 outcomes; the build library zipped them by POSITION, so legs 19+ were mis-attributed. W3PVZ8's 4 conversions labelled Wanderers/Cerro Largo/Oriental/Serbia-Russia actually booked Indonesia-Thailand O1.5, La Luz res O1.5, Sanliurfaspor O1.5, Georgia U19 O1.5 (all happened to win). LUK4BU unaffected. FIX: libs now map outcomes by eventId and assert every selection has an outcome; post-then-verify now checks leg IDENTITY (fixture + market), not just leg count. JQYMP7/JYA846 had 0 mismatches.
+
+### Oct 5 night (to 06:00 UTC Oct 6) — GLSA17 (CORE) / VGWMQJ (EXT)
+Board: ~30 events (CONCACAF NL MD-final, Colombia, Argentina LPF, Paraguay, Jamaica, NBA preseason, Arg/Chile/Col basketball, MLB ALDS G2). Two agents. Basketball/MLB: zero KEEPs (NBA preseason rest unknowns; Rays-Yankees G1 score/starters unverifiable → L7 risk). Football: 5 KEEPs, all EV 0.98-1.06 (strike-rate, not value).
+- **GLSA17 (CORE, 4 legs, 2.56x, research ~1 in 2.1)**: Banfield-Rosario Central U3.5 (Arg LPF low-scoring, Central grind 1-0s), Honduras-Jamaica U3.5 (1-0 meeting Sep 28), Guatemala-Suriname U3.5 (0-0 rematch Oct 2), Barbados DNB away at Bermuda (4-1 rematch, game played in Bridgetown, Bermuda conceded 11 in 3).
+- **VGWMQJ (EXT, 7 legs, 5.0x, ~1 in 4.4)**: CORE + Quimsa-Atenas U172.5 (preseason meeting 132 pts; season R2 — LO), Medellin-Santa Fe U3.5 (LO), San Miguelito-Cocle U3.5 (LO).
+- Dropped: Grenada-Bonaire O1.5 (L73 cap + same profile as the Guadeloupe loser), Celaya (club dissolved per Wikipedia — data conflict), all NBA preseason, Rays +3.5 (unverified G1).
+- Both tickets verified by leg identity after posting.
