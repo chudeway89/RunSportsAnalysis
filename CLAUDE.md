@@ -1599,3 +1599,14 @@ User asked for "a winning Over accumulation ticket, as many odds as possible". B
 - **TNG7DX (MAIN, 5 legs, 2.44x, research ~1 in 2.8)**: Nicaragua O1.5, Cuba O1.5, Nacional O1.5, Moss O2.5, Italy-Turkiye O1.5.
 - **QG5MZ7 (EXT, 9 legs, 5.51x, research ~1 in 9)**: MAIN + LO legs Bucaramanga O1.5 (.72), Fernando de la Mora O1.5 (.76), New Mexico-Phoenix O1.5 (.77), Sweden U21-N.Mac U21 O1.5 (.75). Declared stretch — the LO tier is where padded tickets die.
 - Grade: whether "both-defences-leak" CNL minnow Overs break the cagey-window pattern; Moss O2.5 mechanism; LO padding vs KEEP core.
+
+### Calibration (Oct 5, 11:45 UTC)
+- **TYVR3E WON 7/7 → PROJECT WIN #31** (JQYMP7 core, 7.14x): every research-led Under conversion landed (Castellon U4.5, PR-Cayman U4.5, Morocco/Egypt/Malta/Girona U3.5) + Mjoendalen O2.5. Q08JBK final 14W/3L (Mictlan U3.5 lost 3-1).
+- Overs book alive: TNG7DX 1W/0L/4P (Nicaragua O1.5 won), QG5MZ7 3W/0L/6P (+Bucaramanga, New Mexico).
+
+### Oct 5 — user code SR987N (38 legs, 592,883x, house joint 1 in 5.6M), all legs researched
+- Last day of the international break. 19 fixtures were already covered by the Oct 4 Overs panel; one agent researched the other 19 (Uruguay reserves x5, Carioca B2, U19/U21/U23, Norway 3.Div, Rwanda-Kenya, Liechtenstein-Gibraltar). As booked: ZERO KEEPs. Booked integer Overs (Bosnia O2, France O3, Montenegro O3, Rwanda O2, Guadeloupe O2, Cuba O3, Moss O3) lean void-or-lose; WEH, both-halves-No x3, 2H-DC x2, away corners, U19 GG, SA away +1 (Nueva Chicago, L38), reserves away DNB all CUT.
+- V4-5: Italy-Turkiye, Moss-Kongsvinger, Cuba-St Kitts already on TNG7DX+QG5MZ7 → dropped from both new slips. Fernando de la Mora and Tatran O1.5 conversions were pulled before posting.
+- **LUK4BU (CORE, 5 legs, 3.04x, research ~1 in 2.5)**: NI-Georgia U3.5 (1-0 last week, both blank-prone), Bosnia-Poland U3.5 (0-0 first meeting), Liechtenstein-Gibraltar U2.5 (two weakest attacks), Guadeloupe-St Lucia O1.5 (5/5 recent 2+), Rwanda-Kenya U3.5 (Kenya defensive set-up; fixture data thin).
+- **W3PVZ8 (EDIT, 13 legs, 20.2x, research ~1 in 24)**: CORE + Canuelas U2.5, Wanderers res DC, Cerro Largo res O1.5, Oriental res O1.5, Paraty DC, Velez DNB, Serbia-Russia U21 O1.5, Romania-Sweden A-or-O2.5. Declared lottery (thin reserves/B2/U21 legs, EV 0.90-0.98).
+- Grade: 10th day of the international-window Unders pattern; booked integer Overs vs conversions.
