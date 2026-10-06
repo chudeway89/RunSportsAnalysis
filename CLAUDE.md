@@ -1622,3 +1622,10 @@ Board: ~30 events (CONCACAF NL MD-final, Colombia, Argentina LPF, Paraguay, Jama
 - **VGWMQJ (EXT, 7 legs, 5.0x, ~1 in 4.4)**: CORE + Quimsa-Atenas U172.5 (preseason meeting 132 pts; season R2 — LO), Medellin-Santa Fe U3.5 (LO), San Miguelito-Cocle U3.5 (LO).
 - Dropped: Grenada-Bonaire O1.5 (L73 cap + same profile as the Guadeloupe loser), Celaya (club dissolved per Wikipedia — data conflict), all NBA preseason, Rays +3.5 (unverified G1).
 - Both tickets verified by leg identity after posting.
+
+## ═══ Calibration (Oct 6, 11:30 UTC) — WIN #32 + the padding lesson, once more ═══
+- **GLSA17 WON 4/4 → PROJECT WIN #32** (2.56x): Banfield-Rosario U3.5, Honduras-Jamaica U3.5, Guatemala-Suriname U3.5, Barbados DNB away at Bermuda — every leg a researched KEEP with a rematch/mechanism.
+- **VGWMQJ (EXT, 7 legs) DEAD 6W/1L** — killed ONLY by the LO padding leg San Miguelito-Cocle U3.5 (3-1; research .78 on a table it called "possibly stale"). Third time in four days the KEEP core won while the padded extension died on a LO leg (ZK5M48/JMW1LP Oct 2, NKWR3Q Oct 3, VGWMQJ Oct 5). P-B is now proven, not a hypothesis: **the extension ticket should only be posted if the user explicitly asks for more odds, and should be labelled as a lottery every time.**
+- W3PVZ8 final 11W/1L/1V (Velez DNB VOID on 2-2 — DNB draw refund again).
+- 11th straight day of the international-window pattern: KEEP Unders 3/3 + KEEP DNB 1/1 last night; the only Under loss was the unverifiable-data LO leg.
+- Running KEEP-tier record since full-board research began (Oct 3-5): ~30W/3L. The three losses were all Overs (Guadeloupe, Moss) or a KEEP carrying its own caveat (Eastern Suburbs).
