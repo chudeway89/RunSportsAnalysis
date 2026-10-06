@@ -1644,3 +1644,13 @@ Board: ~30 events (CONCACAF NL MD-final, Colombia, Argentina LPF, Paraguay, Jama
 - **R2CNY1 (T100): 23 legs, 112.7x.** Research 1 in 69 (optimistic per R4), house 1 in 249. **RKH7QQ (T1000): 34 legs, 1,007x.** Research 1 in 679, house 1 in 3,388.
 - Breaches flagged: 5 UNL Unders on one ticket (L73) — positively correlated by design with the window pattern; nested ladder means shared fixtures on 2 slips; one-slot fixtures (Russia-Nigeria, Pirata, Algeria, Halesowen) only on the T1000.
 - Grade: UNL return-leg Unders vs first-meeting score; 1UP instrument (Spain/Colo-Colo/Potosi); EFL Trophy O1.5 class; whether the window pattern holds on its last day.
+
+### Calibration (Oct 6, 22:50 UTC) — the international-window Unders pattern BROKE on its last day
+- **XKGCXS 4W/0L + Santani U3.5 pending (0-0 H1)** — possible WIN #33. Scotland-Slovenia, Switzerland-N.Mac, Ameliano, Moldova U21 O1.5 all won.
+- **ZM189V DEAD 9W/2L**: Spalding U3.5 (4-0), Russia-Nigeria U3.5 (3-3).
+- **R2CNY1 (T100) DEAD 11W/4L/1V, RKH7QQ (T1000) DEAD 20W/6L/1V.** Six Under 3.5 legs lost on one day: Moldova 0-4 Slovakia (first meeting was 0-1), Kazakhstan 2-2 Faroe, Angola 3-1 Malawi, Union Minas 4-1, Russia 3-3 Nigeria, Spalding 4-0; plus Sheff Wed-Sunderland U21 O2.5 (2-0). JS Kabylie-MC Alger CANCELLED → VOID (L16).
+- **LESSON**: a 12-day regime pattern is not a law. "First meeting was low-scoring → Under in the return" failed (Moldova-Slovakia) — the losing side opened up at home. The pattern legs were also inline-researched only (all six agents died), i.e. built from base-rate + one prior meeting, not full fixture research. Thin research + pattern extrapolation + 23 legs = exactly the shape the ledger says dies. The core (5 legs, full agent research) is the one alive again.
+
+### Oct 6 night (23:00 → 06:00 UTC Oct 7) — RLQYHU (3 legs, 1.8x)
+- Board only 24 events; Goias, Colo-Colo (drifted 1.21→1.68, drop on drift), Colombia-Peru already on 2 slips (V4-5). NBA preseason, LNBP (unverifiable standings), MLB NLDS G4 (series state unverifiable) excluded.
+- **RLQYHU (research joint ~1 in 1.7, house ~1 in 2)**: Ponte Preta +2.5 v Juventude (Ponte last, 0.6 GF / 1.9 GA per game — a 3+ goal Juventude away win is the only loss), Chile team-total Under 1.5 at Mexico (friendly, goals-only; rebuilding Chile), French Guiana-Belize U3.5 (CNL minnows, FG won 1-0 last time out). EV ~1.03-1.06 per leg; strike-rate ticket.
