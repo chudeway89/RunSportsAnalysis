@@ -1629,3 +1629,10 @@ Board: ~30 events (CONCACAF NL MD-final, Colombia, Argentina LPF, Paraguay, Jama
 - W3PVZ8 final 11W/1L/1V (Velez DNB VOID on 2-2 — DNB draw refund again).
 - 11th straight day of the international-window pattern: KEEP Unders 3/3 + KEEP DNB 1/1 last night; the only Under loss was the unverifiable-data LO leg.
 - Running KEEP-tier record since full-board research began (Oct 3-5): ~30W/3L. The three losses were all Overs (Guadeloupe, Moss) or a KEEP carrying its own caveat (Eastern Suburbs).
+
+### Oct 6 — user code TAV9DW (39 legs, 781,561x, house joint 1 in 7.2M), all 39 legs researched (3 agents)
+- Last day of the international window. As booked: ZERO KEEPs (one marginal: Faroe +1.0 at EV 0.92). Six integer Over 2/3 legs (Croatia-Spain, England-Czechia, Switzerland-N.Mac, Russia-Nigeria, Algeria-Niger O3; Moldova-Slovakia, Halesowen, Spalding, Raufoss O2) all CUT — reverse fixtures cluster at 2-3 goals (refund or loss). Weak classes cut: market-59 x4, 2H-DC x2, 1H-DC, WEH x2, corners, excluded-goals, Iceland U21 -1.0, reserves DC, Villa (Oct 7, outside window).
+- Every conversion research endorsed was an UNDER (or Over 1.5 where both sides leak) — 12th day of the window pattern applied.
+- **XKGCXS (CORE, 5 legs, 3.55x, research ~1 in 2.5)**: Scotland-Slovenia U3.5 (0-0 reverse, Sesko/McTominay out), Switzerland-N.Mac U4.5 (3-0 reverse, Swiss 2-1 since), Santani-Guairena U3.5 (Santani 0.91 GF/GA per game), Ameliano-Rubio Nu U3.5 (1-1 Clausura meeting), Moldova U21-Kazakhstan U21 O1.5 (dead rubber, Kazakhstan lost 4-3 last game, no clean sheet in 9). All EV 1.06-1.12. UNL capped at 2 legs (Estonia-Iceland U3.5 .82 and Moldova-Slovakia U3.5 .78 left out by L73).
+- **ZM189V (EDIT, 12 legs, 16.7x, ~1 in 10.5)**: CORE + Halesowen U4.5, Pirata-Ayacucho U3.5, Spalding-Bury U3.5, France U21-Swiss U21 O1.5, Colchester U21-Swansea U21 O2.5, Algeria-Niger U4.5, Russia-Nigeria U3.5. Declared lottery (base-rate non-league/Peru legs, friendlies) — per the Oct 6 lesson, the extension is where tickets die.
+- Both tickets verified by leg IDENTITY after posting (new check).
