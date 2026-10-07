@@ -1654,3 +1654,15 @@ Board: ~30 events (CONCACAF NL MD-final, Colombia, Argentina LPF, Paraguay, Jama
 ### Oct 6 night (23:00 → 06:00 UTC Oct 7) — RLQYHU (3 legs, 1.8x)
 - Board only 24 events; Goias, Colo-Colo (drifted 1.21→1.68, drop on drift), Colombia-Peru already on 2 slips (V4-5). NBA preseason, LNBP (unverifiable standings), MLB NLDS G4 (series state unverifiable) excluded.
 - **RLQYHU (research joint ~1 in 1.7, house ~1 in 2)**: Ponte Preta +2.5 v Juventude (Ponte last, 0.6 GF / 1.9 GA per game — a 3+ goal Juventude away win is the only loss), Chile team-total Under 1.5 at Mexico (friendly, goals-only; rebuilding Chile), French Guiana-Belize U3.5 (CNL minnows, FG won 1-0 last time out). EV ~1.03-1.06 per leg; strike-rate ticket.
+
+### Calibration (Oct 7, 12:45 UTC)
+- **XKGCXS WON 5/5 → PROJECT WIN #33** (3.55x, TAV9DW core): Scotland-Slovenia U3.5, Switzerland-N.Mac U4.5, Santani U3.5, Ameliano U3.5, Moldova U21 O1.5. Fully researched 5-leg core wins again on the same day the inline-researched 100x/1000x died.
+- **RLQYHU DEAD**: Chile won 2-0 at Mexico → Chile team-total U1.5 lost (rebuilding-side narrative was wrong; L78 mid-band). Ponte +2.5 won.
+
+### Oct 7 — user code SM0574 (39 legs, 726,248x, house joint 1 in 8.1M), all live legs researched (3 agents)
+- Leg 13 DELISTED (no outcome on fetch). Legs 24-29 (six Coppa Italia Serie D ties, 13:00 KO) inside the guard at analysis → can't rebook; they settle on the original only.
+- As booked: only Remo +1.0 (.83) and Londrina +1.0 (.84) KEEP. CUT: 3 corners legs, both market-59 legs, Kosova GG, all 12-DC (Avola, Dynamo, Cartagena derby), Mons/Novo Horizonte/Goiania away result-sides, Riestra/Gimnasia reserves, Crvena Zvezda U19, Jordan women 1X2, Seravezza/Antofagasta O2.5, Cerrito integer Over 2, Belouizdad O1.5 (Algeria low-scoring).
+- KEEP via conversion: Mirassol +1.5 (.80, Bragantino 1 pt from 5), Inter-Corinthians U3.5, Operario-Botafogo SP U3.5, Ben Aknoun U3.5, CRB-Khenchela U3.5 (.86), Bom Jesus bounds 1-4 (.88), Gremio Anapolis-Goiania O1.5 (.80). KEEP core = 9 legs 9.66x, research ~1 in 5.
+- **QV181P (T100, 17 legs, 100.4x, research 1 in 43 — optimistic; honest ~1 in 80-150)**: KEEP core + cheapest LO legs (Kano +1.5, Antofagasta U3.5, CSC TT O0.5, Barquisimeto bounds 0-3, Cantolao U3.5, Novo Horizonte U4.5, Petrolero U4.5, Terranuova U3.5).
+- **RMBVHY (T1000, 28 legs, 1,032.6x, research 1 in 700)**: the ENTIRE researched pool; 1000x needs every playable leg, including EV<1 LO legs (Este O1.5 .70, women's U4.5, U20 O1.5, Cartagena derby U3.5). Declared lottery.
+- Both verified by leg identity. Grade: KEEP core (9) vs LO additions; converted vs booked markets on the same fixtures.
