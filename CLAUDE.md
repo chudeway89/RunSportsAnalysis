@@ -1705,3 +1705,9 @@ Board: ~30 events (CONCACAF NL MD-final, Colombia, Argentina LPF, Paraguay, Jama
 - **ZD378K (W10000): 50 legs (SportyBet cap), 11,820x, research 1 in 42,713 / house 1 in 72,513.** The 60-leg pool's 50 highest-priced legs only reached 9,709x, so Arsenal DNB was stretched to Arsenal 1X2 @1.40 (flagged R3 breach, 10000 only).
 - All identity-verified. Nested ladder; Oct 8 fixtures excluded so no overlap with XRDWK7/J46D5W/YXT2DW.
 - Grade: K vs S vs L tiers; house-priced DNB class (~20 legs); Argentine LPF U3.5 cluster (8); researched team-total O1.5 (Bayern, Barca, PSV).
+
+### Oct 8 — user code ZFJHQ4 (29 legs, 11,926x, house 1 in 60,643) — "remove the 2 / 4 most likely to cut"
+- Fetched 12:57 UTC: legs 4 (JDT O2.5, 1:0 HT) and 29 (Port-Persib O0.5, 0:0 HT) were LIVE → cannot be rebooked; they ride on the original only and are excluded from both edits.
+- Removal ranking (ledger classes + today's research): (1) Ind. Juniors-9 de Octubre O1.5 @1.60 p.58 — Ecuador Serie B, 0-0-heavy (L54); (2) JS Saoura Draw-or-O2.5 p.59 — Algeria low-scoring, research had U3.5 on this fixture; (3) HJK 2UP p.63 — needs a HJK win or 2-goal lead vs VPS 6 pts behind; (4) Al-Okhdood v Al Ula 2UP AWAY p.64 — Saudi D1 away result-side. Next in line: corners O7.5 ×3 (KuPS, Grau, Santos), CFR Cluj derby DC, Gremio U20 O2.5.
+- **XF0A5B (remove-2): 25 legs, 2,503x, house 1 in 9,917.** **Z7L1XF (remove-4): 23 legs, 1,151x, house 1 in 4,018.** Both identity-verified. Declared lotteries.
+- V4-5 BREACH flagged: ~19 of these fixtures also sit on today's XRDWK7/J46D5W/YXT2DW ladder (often in opposite markets — e.g. Saoura/Touarga U3.5 there vs Draw-or-O2.5 here; Shamrock DNB vs Draw-or-O2.5) — the user's book is now heavily correlated on one day.
