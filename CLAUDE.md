@@ -1750,3 +1750,11 @@ Board: ~30 events (CONCACAF NL MD-final, Colombia, Argentina LPF, Paraguay, Jama
 - **P96UJD (EDIT, 17 legs, 20.5x, house 1 in 37)** — declared lottery-tier (thin Welsh/NI/Danish/Austrian overs).
 - **N5VQQE (CORE, 4 legs, 2.16x, house ~1 in 2.5)**: Lyon TT O0.5, Ipswich-Fulham O1.5, Middlesbrough win-to-nil No, Volendam 2H O1. EV ~1.0 strike-rate ticket. Both identity-verified.
 - Grade: Team Assists 1+ (9 legs on the original) vs team O0.5 on the same fixtures — first data on market 800262.
+
+### Oct 9 — user code HMP18Z (39 legs, 844,554x, house 1 in 5.4M), all Oct 9, analysed 12:27 UTC
+- First Friday of club football after the break. Nothing started (first KO 14:45). 9 integer Over 2/3 legs, 5 Over 2.5, 2 corners, 2 both-halves-No, 2 WEH, 2 no-draw 12-DC, 3 U21 Overs, 1 women's, Gulf/Bahrain result-sides, Viking -1 @2.50 (p .37).
+- V4-5: Dortmund, PSV, Galatasaray, West Ham, Al Nassr, Al Sadd already on 2-3 weekend-ladder slips; Lens-Lyon on N5VQQE+P96UJD → all dropped from my posts.
+- Cut: Lens corners, Belgium W DNB, Amstetten & KaPa 12-DC, Khaldiya DNB (.58), Riffa -1 (Bahrain), Jihlava & Offenbach both-halves-No, 3 U21 Prem Cup O2.5, Jong Ajax/Jong AZ WEH, Viking -1, Nancy O2 (Ligue 2 lowish), Sepsi O2 (Romania low), Rostov O2, Kriens O2.5 (no O1.5 offered), Goteborg corners.
+- Converted: Braga-Sporting O2 → U3.5 (Braga 5/5 home wins, all clean sheets; Sporting unbeaten); 9 Overs → O1.5 (Munster, Kapfenberg, Vienna, Gorica, SJK OR-combo, Heracles, NAC, Portadown, Bala); Rayyan & Connah's Quay away 1X2 → DNB (CQN beat Briton Ferry 3-0 and 4-2 last season). Kept Slavia -1.0 at Zlin (H2H 14-3-4; LO) and Plock +1.0 at Wieczysta (promoted, 17th, no home win, 1W in 8).
+- **X5UGS5 (EDIT, 14 legs, 15.6x, house 1 in 26)**. **QXGZHU (CORE, 4 legs, 2.47x, house ~1 in 2.9)**: Braga-Sporting U3.5, Plock +1.0, Connah's Quay DNB, Munster-Essen O1.5. Both identity-verified.
+- Grade: Braga-Sporting U3.5 (big-club total, L13 caution) and the Plock +1 catch.
