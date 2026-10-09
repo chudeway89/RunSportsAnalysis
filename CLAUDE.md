@@ -1769,3 +1769,23 @@ Board: ~30 events (CONCACAF NL MD-final, Colombia, Argentina LPF, Paraguay, Jama
 - **VPNFTR (T500): 26 legs, 559.6x, research 1 in 637 / house 1 in 1,614.** T60 + 9 L legs (Union Brescia, Real Cundinamarca, Slavia Tygri, Astoria, Bray O1.5, Dordrecht O1.5, Vichy, Tarbes, Paide). Both identity-verified.
 - The 10 researched K legs alone = ~13.9x at research ~1 in 9 — the real bet on this board (not posted separately: V4-5 cap, fixtures already on 2 slips).
 - Grade: K vs S vs L tiers; the Shelbourne U3.5 house-vs-research divergence (.53 vs .72); early-season Euro basketball MLs.
+
+## ═══ Calibration (Oct 9 settlement, 22:00 UTC) — every Oct 9 ticket dead; mostly PROCESS failures ═══
+- **YSA7N6 (60x) 12W/3L, VPNFTR (500x) 16W/7L/1V — DEAD.** Killers: Shelbourne-Sligo U3.5 (5-1!), Heidenheim-Kaiserslautern O1.5 (0-0), Braunschweig-Kiel O1.5 (1-0); 500x extras Real Cundinamarca 0-1, Astoria lost 74-75, Vichy lost 81-93. Slavia Tygri cancelled → VOID.
+- **QXGZHU (HMP18Z core) 2W/2L DEAD**: Braga-Sporting U3.5 (1-3 = 4 goals), Plock +1.0 (lost 3-0). X5UGS5 7W/6L/1V, trims P96WYZ/V1MEYX/KUB60S all dead. HMP18Z original 21W/15L/3V.
+- **HW84JZ (overnight 50x) 11W/5L/1V DEAD**: Correcaminos +0.5 (2-1), Suwon O1.5 (1-0), Paranaense U3.5 (2-2), White Sox +3.5 (5-9), Oliva U175.5.
+- **Alive**: N5VQQE 1W/1V (Ipswich O1.5, Boro pending), N8AW40 3W/0L (Aris ML pending), weekend ladder NDDXY0 6W/0L/2V, N2TD7Q 7W/0L/4V, ZD378K 7W/1L/3V (dead on Aldosivi U3.5 1-3).
+- **Class scorecard (unique settled legs)**: DNB 9W/5V/**0L** — the only class with no loss; football Over 1.5 15W/8L (65% vs ~0.77 priced) — seven failed on 0-0/1-0 in 2.Bundesliga, Austria 2.Liga, Finland, Eerste Divisie, NIFL, K2.
+- **Verdict per killer (luck vs model):**
+  1. **Shelbourne U3.5 (PROCESS)** — I called a 19-point research-vs-house gap (.72 vs .53) "the value leg". Backing research against the house by that margin is the L57 fade error in totals form; the house was right (5-1). Rule: a divergence >15pp against the house is a SKIP, not value.
+  2. **Thin-league Over 1.5 cluster (PROCESS)** — the Sep 29 lesson (O1.5 conversions fail in low-scoring lower tiers) was ignored again; 7 losses on 0-0/1-0. O1.5 is KEEP only in leagues averaging 2.8+ goals with both sides' last-5 checked.
+  3. **Braga-Sporting U3.5 (PROCESS)** — L13 says big-club totals are LO unless p≥0.82; it was put on the core anyway.
+  4. **White Sox +3.5 (PROCESS)** — game 3 was a 9-3 blowout; the Oct 1 rule ("blowout prior → never back the loser with a catch") was broken again.
+  5. **Plock +1.0 (VARIANCE, mid-band)** and the basketball L-tier MLs (Astoria by 1 point) — padding/variance.
+  - Net: 4 of 5 decisive losses were rule breaks already written in this file. The model (house p) was fine; selection discipline failed.
+
+### Oct 9 night (22:00 UTC → 06:00 UTC Oct 10) — LHKYXU (4 legs, 2.02x)
+- Board: 79 events, thin. **No MLB** (gap between Division Series and LCS); NPB Climax/KBO postseason only on ±1.5/ML coin-flips → no baseball leg. 5 women's internationals (Mexico-Jamaica, Canada-Denmark) excluded. Research agents still blocked (weekly limit) — inline only.
+- **LHKYXU (research ~1 in 2, house 1 in 2.3)**: Corinthians ML @1.20 at Jorge Guzmán (Liga Sudamericana, Brazilian NBB side v Ecuadorian host); Aces +8.5 @1.14 (home, facing elimination down 0-2 — L35; G1/G2 margins 11 and 2); Hiroshima Dragonflies ML @1.18 v Shiga (23-37 last season); FC Seoul DNB @1.25 v Jeju (1st, 62 pts v 3rd, 46). Identity-verified.
+- SKIPPED: Olimpia Kings 1.18 (Colonias Gold beat them in the Clausura; last meeting 70-67), San-En/Kobe/Chiba (no 2026-27 data), Liberty-Dream G3 (series score unverified, Gray out), WNBA totals, all J2/J3/K3/K4 (early-season / no data), Federal A U3.5 @1.11-1.12 (L77), Tigres-Toluca/Lexington/Union/Once Caldas (V4-5 cap).
+- Grade: L35 elimination-home catch; Brazil-v-Ecuador basketball class gap.
