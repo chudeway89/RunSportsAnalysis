@@ -1740,3 +1740,13 @@ Board: ~30 events (CONCACAF NL MD-final, Colombia, Argentina LPF, Paraguay, Jama
 - **JMB59Q (EDIT, 27 legs, 312,450x, house 1 in 1.08M)** — still a pure coin-flip lottery; no knife has an edge on main-line totals.
 - **N8AW40 (CORE, 4 legs, 2.9x, house ~1 in 3)**: Bonn O149.5, Oly-Efes U183.5, Barca-Zalgiris O163.5, Aris ML. LO-grade by class (basketball totals <0.82, early-season) — small stake only. Both identity-verified.
 - Grade: wide alt basketball totals in early-season Euro (follows the Sep 30 Maccabi U187.5 loss).
+
+### Oct 9 — user code HYPCT4 (34 legs, 4,444x, house 1 in 14,973), Oct 9–11, analysed 08:51 UTC
+- Nothing started. New market on the code: **Team Assists 1+ (mkt 800262, regular time)** ×9 — wins only if the team records an ASSISTED goal (penalties/own goals/unassisted goals don't count). Priced ~0.15–0.20 longer than the same team's goals O0.5 (e.g. Lazio 1.34 vs 1.16, Milan 1.38 vs 1.17) = an extra loss branch of ~8–10pp. No ledger history; settlement depends on the feed's assist attribution → treat as team-to-score family with an extra branch, LO. Converted to team goals O0.5 in the edit.
+- V4-5: 8 fixtures already on NDDXY0/N2TD7Q/ZD378K (Dortmund, Al-Kholood, Galatasaray, Al Nassr, West Ham, Arsenal, Inter, Maritimo-Porto) → dropped from my posts (they still ride on the original).
+- Cut: Espanyol assists (.59), Montenegro-Bosnia 12-DC (friendly), Moldova-Georgia O1.5 (friendly .725), Finland W 1X2 (.61), Slovakia-Ukraine W O1.5 (women's), Botswana-Tanzania U23 O1.5 (.61), Frosinone TT O0.5 at Napoli (.64), Milan assists at Sassuolo (.71; lost 2-0 there in May), Vienna-St Polten O2 (3rd Austria 2.Liga goals leg, L73 cap).
+- Converted: Kapfenberg O2 → O1.5; Stuttgart/Monaco/Lazio assists → team O0.5. Kept Volendam 2H Over 1 (integer half-line, push = void).
+- Inline research: Lens 15th (9 GA in 5) v unbeaten 2nd Lyon; Ipswich 11 GA in 5, Fulham 19th; Boro 1W in 5 with 4 GF (win-to-nil No); Monaco top but 8 injured; Sassuolo beat Milan 2-0 in May.
+- **P96UJD (EDIT, 17 legs, 20.5x, house 1 in 37)** — declared lottery-tier (thin Welsh/NI/Danish/Austrian overs).
+- **N5VQQE (CORE, 4 legs, 2.16x, house ~1 in 2.5)**: Lyon TT O0.5, Ipswich-Fulham O1.5, Middlesbrough win-to-nil No, Volendam 2H O1. EV ~1.0 strike-rate ticket. Both identity-verified.
+- Grade: Team Assists 1+ (9 legs on the original) vs team O0.5 on the same fixtures — first data on market 800262.
