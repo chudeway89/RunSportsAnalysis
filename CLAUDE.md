@@ -1732,3 +1732,11 @@ Board: ~30 events (CONCACAF NL MD-final, Colombia, Argentina LPF, Paraguay, Jama
 - Fresh overnight board was only ~10 legit fixtures (Colombia, Guatemala, Liga Expansion, El Salvador, Panama, K1/K2/K3, Arg LNB); the fresh pool multiplied to ~8x, so 50x REQUIRED reusing tonight's already-ticketed Brazil/Colombia/MLB fixtures — a V4-5 cap breach (Santos, Ceara, Nautico, Paranaense, Nacional, Fluminense, Palmeiras, White Sox now on 4+ slips), flagged to user. Markets kept consistent with existing reads (no opposite-side legs).
 - Fresh research: Millonarios DNB @1.37 (6th v 16th, 6 unbeaten, won 7 of 9 H2H); Daejeon-Jeonbuk O1.5 (Daejeon 3rd-highest scorers, unbeaten 7 at home); Antigua-Municipal U3.5 (2nd v 3rd top clash); Correcaminos +0.5 (2 straight clean sheets, Alebrijes 7 GF in 8).
 - **HW84JZ: 17 legs, 53.8x, research 1 in 65 / house 1 in 110.** Identity-verified. Weakest legs: FAS-Alianza U3.5 (clasico), Oliva-Ferro alt-Under 175.5 (L-tier), Racing Chivilcoy ML (early LNB), K3 U3.5.
+
+### Oct 9 — user code KD0XPN (32 legs, 9.06M x, house joint 1 in 41.7M) — all-basketball main-line totals
+- 31 of 32 legs are basketball Over/Under at the MAIN line (1.58-1.83, house p 0.51-0.61 — the house's own 50/50 point) + Aris v AEK ML @1.32. Spans Oct 9 → Oct 22. No leg clears any keep threshold (L15: basketball totals need p>=0.82 for HI). Research agents still on the weekly limit; inline searches found no 2026-27 fixture-specific data (season R1-3 everywhere — opener regime).
+- Deadweight: the 5 NBA legs (Oct 20-22) — L14 window lock (stake tied up 2 weeks) + NBA opening week (L60). Alt-line ladders are only open on Oct 9 games, so only those could be converted.
+- Conversions (same direction, wider line): Bonn-Jena O156.5 → O149.5 @1.28; Olympiacos-Efes U176.5 → U183.5 @1.29; Barca-Zalgiris (Zalgiris TT O84.5) → match O163.5 @1.33; Baskonia-Besiktas 1H O86.5 → O84.5.
+- **JMB59Q (EDIT, 27 legs, 312,450x, house 1 in 1.08M)** — still a pure coin-flip lottery; no knife has an edge on main-line totals.
+- **N8AW40 (CORE, 4 legs, 2.9x, house ~1 in 3)**: Bonn O149.5, Oly-Efes U183.5, Barca-Zalgiris O163.5, Aris ML. LO-grade by class (basketball totals <0.82, early-season) — small stake only. Both identity-verified.
+- Grade: wide alt basketball totals in early-season Euro (follows the Sep 30 Maccabi U187.5 loss).
