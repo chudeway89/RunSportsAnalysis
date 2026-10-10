@@ -1806,3 +1806,13 @@ Board: ~30 events (CONCACAF NL MD-final, Colombia, Argentina LPF, Paraguay, Jama
 - Data flags: Lugano kickoff conflict (club site 20:30 local), Alaves date conflict, Bradford/Wycombe manager confusion in previews; many lower-league tables stale.
 - **J1RZKB (EDIT, 14 legs, 19.3x, research ~1 in 53)**: Sunderland/Krylia/Dundee Utd/Lugano/Cambridge/Chelsea O1.5, Fener-or-O2.5, Salzburg DNB, Vancouver +1.0, Krasnodar/Shrewsbury/Vicenza U3.5, UTA Arad TT O0.5, Saint-Etienne DNB. Identity-verified. **Only one leg is +EV (Vancouver 1.06); the rest are EV 0.86-0.98** — declared lottery. No core posted (P-D: the code holds no KEEP-grade +EV pool); WQJSA3 recommended as the real bet.
 - Grade: integer Overs/corners/WEH as booked vs the conversions on the same fixtures (removed-vs-kept knife audit on a real-market board).
+
+### Calibration (Oct 10 settlement, 17:35 UTC) — WIN #34; mid-season wide catches routed
+- **N8AW40 WON 4/4 → PROJECT WIN #34** (KD0XPN core, 2.9x): Bonn O149.5, Oly-Efes U183.5, Barca-Zalgiris O163.5, Aris ML. Wide alt basketball totals 3/3 (after the Sep 30 Maccabi loss).
+- **WQJSA3 ALIVE 3W/0L/3P** (Dundee +1.5, Blackburn +1.5, Bolton O1.5 won; Frosinone/Le Mans/NEC pending).
+- DEAD: LHKYXU (Corinthians lost 97:96; Aces +8.5 lost in OT 77:87), HGZMDH, PX8ARX (Lincoln/Watford/Wycombe +1.5 ROUTED — L70 wide catches vs class gap; Leicester DNB 1:3), J1RZKB (UTA TT 2:0, Dundee Utd + Cambridge O1.5 both 1:0), weekend ladder NDDXY0/N2TD7Q/ZD378K (Hoffenheim DNB 2:3), PYE1E7/YZLEDM (Hradec 2:4), N5VQQE (Boro win-to-nil No 1:0), P96UJD, user codes G5HERG/K38KED.
+
+### Oct 10 night (→ 06:00 UTC Oct 11) — HZB13F (5 legs, 3.43x, research ~1 in 2.9 / house 1 in 4.1)
+Three agents (MLS/USL; Europe/Mexico/SA; basketball/MLB/KBO/Asia). Only 5 legs cleared KEEP with a mechanism; most of the board was LO on stale 2026 tables (MLS/USL tables from Sep 20-27, many kickoff-date conflicts).
+- Cali DNB at Pereira (Pereira in club crisis: recognition suspended, unpaid wages, strike — a named mechanism; void if unplayed), Colorado-San Jose O1.5 (Colorado games 3-3/3-0/3-2, altitude), Austin-Nashville U3.5 @1.47 (Nashville 21 GA in 26, Austin 4 draws in 5 — the one value leg), Ulsan DNB at Gwangju (12th v 2nd, table late-Sept), Hiroshima DNB at Verdy (Verdy 0W in 8). Identity-verified.
+- SKIPPED: ALDS G5 (2-2, no starters), KBO dead rubbers, early-season basketball away favs, USL result-sides, Sao Paulo DNB (research .60 v .80 implied), Huachipato result (divergence >15pp). No extension posted (P-B).
