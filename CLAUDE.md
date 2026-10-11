@@ -1929,3 +1929,24 @@ The "model failing" was mostly the target failing: a 20-leg ticket at 75% per le
   - Fair-model survival vs actual.
   - The Under-3.5/4.5 cheap-margin class at volume.
   - Whether vetoed legs lost more than kept legs.
+
+## ═══ Calibration + panel (Oct 11 settlement, 22:45 UTC) — Engine v5 first test: legs on-model, tickets dead ═══
+- **UR8QZ6 (500x) DEAD 8W/2L/5P; RLSKXV (5000x) DEAD 9W/6L/6P.** Losses:
+  - Lyn–Strømsgodset U4.5 (1:5) and Start–HamKam U3.5 (2:4), on both tickets.
+  - On RLSKXV only: Kongsvinger U5.5 (6:2), Aalesund–Sarpsborg U4.5 (2:4), Podbrezová–Trnava U3.5 (1:3) and Las Palmas +1.5 (lost by exactly 2, 3:1).
+- **Calibration check (the decisive number):** the engine's fair probabilities predicted **16.2 wins on the 25 settled legs; actual 17.**
+  - UR8QZ6: 8 wins vs 6.4 expected, so ABOVE model.
+  - RLSKXV: 9 vs 9.8 expected.
+  - The leg pricing was right. Both tickets were 1-in-672 and 1-in-6,823 shots, and losing them is the expected outcome (99.85% and 99.99%). This is mostly arithmetic and luck, NOT a model failure.
+- **The one genuine process flaw — country clustering.**
+  - The "≤3 per league" cap counted tournament labels, so Eliteserien and Norway 1st Division were treated as separate. RLSKXV carried **5 Norwegian Unders**; UR8QZ6 carried 3.
+  - The Norway round produced **4.25 goals per game across 12 matches** (51 goals), against a market expectation of about 3.2. Norway is also the highest-scoring league in the 54k-match base table (3.18 per game).
+  - One round-level scoring shock killed 4 of the 6 losing legs: a correlated failure, the same family as L73 (MLS Overs on one night).
+- **Engine v5.1 updates (coded in build.py):**
+  - (a) Cap legs at **≤2 per COUNTRY** per ticket, not per tournament label.
+  - (b) Cap Unders at **≤60%** of a ticket's legs (was 75%), so a high-scoring day can't take the whole slip.
+  - (c) Before including Unders from a high-scoring league (base table avg ≥3.1: NOR, SWZ, NED, GER, CHN, DNK, USA), require the house O2.5 price ≥1.55. Kongsvinger (O2.5 @1.19) and Lyn (@1.30) were games the house itself priced as goal-fests; an Under there is a 0.65-0.75 leg at best, and the cost metric alone doesn't see the correlation.
+- **Hard luck, not process:**
+  - Las Palmas +1.5 lost on an exact 2-goal margin.
+  - Podbrezová 1:3 (4 goals) was the ~37% tail of a 0.63 leg.
+- **Standing truth (repeated because the user keeps asking for 500x/5000x):** with a correctly priced engine the win chance is about target ÷ Π(EV). That is roughly 1 in 600-700 for 500x and 1 in 7,000 for 5000x. No research or model makes those "winners". Only short tickets (3-6 legs) have a realistic hit rate.
