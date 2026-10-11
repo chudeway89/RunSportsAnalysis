@@ -1950,3 +1950,28 @@ The "model failing" was mostly the target failing: a 20-leg ticket at 75% per le
   - Las Palmas +1.5 lost on an exact 2-goal margin.
   - Podbrezová 1:3 (4 goals) was the ~37% tail of a 0.63 leg.
 - **Standing truth (repeated because the user keeps asking for 500x/5000x):** with a correctly priced engine the win chance is about target ÷ Π(EV). That is roughly 1 in 600-700 for 500x and 1 in 7,000 for 5000x. No research or model makes those "winners". Only short tickets (3-6 legs) have a realistic hit rate.
+
+### Oct 11 follow-up — "Norway clustering, or the Under call itself?" (data answer)
+- **Market-anchored model vs actual, 2024-26 history (U3.5 / O2.5 hit rates).** The Under is OVERRATED in every high-scoring league:
+
+| League | U3.5 model | U3.5 actual | Gap | O2.5 model | O2.5 actual |
+|---|---|---|---|---|---|
+| Norway | 0.648 | 0.634 | −1.4pp | 0.570 | 0.592 |
+| Switzerland | 0.672 | 0.627 | −4.5pp | | |
+| Germany Bundesliga | 0.617 | 0.573 | −4.4pp | | |
+| Denmark | 0.678 | 0.618 | −6.0pp | | |
+| USA (MLS) | 0.660 | 0.623 | −3.7pp | | |
+| China | 0.651 | 0.592 | −5.9pp | | |
+
+- The Overs in those leagues are UNDERRATED by 2-6pp.
+- Closing-odds ROI in the Bundesliga: back Over 2.5 −1.2%, Under 2.5 −11.9%. Eredivisie −3.6% vs −9.4%, Bundesliga 2 −3.3% vs −9.6%.
+- Serie A (low-scoring) is the reverse: Under −3.3%, Over −6.3%.
+- **Verdict:** BOTH factors contributed.
+  - Norway itself was only mildly mispriced (−1.4pp). Norwegian goals also rise in autumn (Sep-Nov 3.2-3.4 per game against 2.8-3.0 in spring).
+  - The cluster then multiplied a high-scoring round into 4 dead legs.
+  - The broader lesson is real: **in high-scoring leagues the house shades the Over, so the Under is the expensive side. Use Overs (O1.5/O2.5) there, and Unders only in low-scoring leagues (Italy, Argentina, Brazil, Spain 2, Greece, Japan).**
+- **Coded (price.py UBIAS):** fair-p correction on O/U legs by country. Under p is lowered and Over p raised by the measured gap: Norway −1.4, Switzerland −4.5, Netherlands −1.0, Germany −4.4, Denmark −6.0, USA −3.7, China −5.9 pp.
+- **Corners:** NOT priced by the engine. The goals-Poisson model cannot price corners.
+  - football-data has corner COUNTS (HC/AC) for the main leagues, but no historical corner ODDS, so no corners strategy can be back-tested for value.
+  - Our ledger: corners legs we built went 5W/8L (all corners on all codes 21W/11L).
+  - Stays excluded until a counts-based model is built and paper-traded against SportyBet lines for a few weeks.
