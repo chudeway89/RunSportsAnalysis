@@ -1817,3 +1817,99 @@ Three agents (MLS/USL; Europe/Mexico/SA; basketball/MLB/KBO/Asia). Only 5 legs c
 - Cali DNB at Pereira (Pereira in club crisis: recognition suspended, unpaid wages, strike — a named mechanism; void if unplayed), Colorado-San Jose O1.5 (Colorado games 3-3/3-0/3-2, altitude), Austin-Nashville U3.5 @1.47 (Nashville 21 GA in 26, Austin 4 draws in 5 — the one value leg), Ulsan DNB at Gwangju (12th v 2nd, table late-Sept), Hiroshima DNB at Verdy (Verdy 0W in 8). Identity-verified.
 - SKIPPED: ALDS G5 (2-2, no starters), KBO dead rubbers, early-season basketball away favs, USL result-sides, Sao Paulo DNB (research .60 v .80 implied), Huachipato result (divergence >15pp). No extension posted (P-B).
 - **S22E9X (20x on user request, 11 legs, 20.5x, research ~1 in 14 / house 1 in 31)**: HZB13F's 5 KEEPs (2nd slip each, V4-5 OK) + weak-KEEP/LO legs from the same research: Huachipato-O'Higgins U3.5 (Castillo suspended), Sao Paulo-Vitoria U3.5 (11th v 12th, model 1-1), Universitario-Melgar O1.5 (last 6 all O2.5), Lorient-Paris FC O1.5 (6 of last 8 had 3+), Viseu home DNB @1.72 (3 straight wins v bottom Estoril — the value leg), Barracas-Huracan U3.5 @1.10. Casa Pia skipped (date conflict), Gent away DNB skipped (away result). Identity-verified. Grade: the 6 extension legs vs the 5-leg core.
+
+### Calibration (Oct 10-11 settlement) — HZB13F / S22E9X / WQJSA3 all dead
+- HZB13F 2W/2L/1V, S22E9X 7W/3L/1V: Austin-Nashville U3.5 lost 1:4, Gwangju 4:3 Ulsan (Ulsan DNB lost on a 7-goal game), Cali DNB VOID 0:0, Lorient O1.5 lost 1:0. WQJSA3 5W/1L: Frosinone +2.5 lost 3:0 at Napoli (one-leg-short again).
+
+## ═══ SYSTEM REVIEW v5 — EMERGENCY PANEL (Oct 11, 2026): DATA, NOT ANECDOTE ═══
+Convened after a week of dead tickets. For the first time the panel measured the system with data instead of reading back through the scrapbook rules.
+
+### Evidence base
+- **Our own ledger:** every share code in this file was re-fetched. 121 are still retrievable (Sep 16 – Oct 11; older codes have expired), giving **1,485 unique settled legs**.
+- **Independent history:** football-data.co.uk, the WhoScored substitute (WhoScored blocks scraping with a 403). That is **54,479 matches** from 2022-2026 across 38 leagues, with closing odds (1X2, O/U 2.5, AH) and 2026-27 xG.
+- **Model tests:** a walk-forward team-strength model (20,662 out-of-sample predictions), and a market-anchored Poisson calibration test on 12,959 matches.
+- **Live margin scan:** all 46,623 SportyBet football outcomes on the Oct 11-12 board.
+
+### Finding 1 — Leg-level picking is NOT the problem. Ticket size is.
+Tickets lost in exactly the numbers the arithmetic predicts. Expected wins assume a 0.75 per-leg hit rate (our measured average):
+
+| Legs | Tickets | Expected wins | Actual wins |
+|---|---|---|---|
+| 1-4 | 8 | 3.1 | 4 |
+| 5-8 | 18 | 3.8 | 4 |
+| 9-12 | 15 | 0.6 | 1 |
+| 13-20 | 22 | 0.3 | 0 |
+| 21+ | 18 | 0.0 | 0 |
+
+The "model failing" was mostly the target failing: a 20-leg ticket at 75% per leg is 1 in 315 BY CONSTRUCTION, whatever research goes into it.
+
+### Finding 2 — Football betting markets are efficient; the house price is the best probability we have
+- Backing every closing-price band loses money (54k matches, average closing odds):
+  - Home favourite at 1.0-1.35: about −1%. At 1.5-2.5: −4% to −6%.
+  - DNB favourites: −4% to −9%.
+  - Over 2.5: −2% to −6%. Under 2.5: −5% to −10%.
+- No simple rule beats the price. The favourite–longshot bias exists: short prices are the cheapest per bet.
+- **Our own statistical model LOSES to the market.** Out-of-sample log-loss was worse than the market (O2.5 0.700 vs 0.676; home win 0.648 vs 0.626).
+- Betting its "edges" returned **−7% to −15%**, getting WORSE as the claimed edge grew. Blending model + market was still worse than the market alone.
+- **Settled conclusion:** independent stat/form research does NOT generate edge against these prices. It confirms L57/L78/v3-P1 with hard numbers. Any leg sold as "value because research says p > implied" was mostly model error.
+
+### Finding 3 — What DOES work: a market-anchored price engine (calibration verified)
+- Fit Poisson goal rates to the devigged 1X2 + O/U 2.5, then price every derivative market.
+- Calibration on 12,959 matches was near-perfect. Predicted vs actual:
+  - O1.5: 0.75→0.75, 0.80→0.81, 0.85→0.87
+  - U3.5: 0.70→0.71, 0.75→0.76
+  - U4.5: 0.85→0.87, 0.90→0.91
+  - Team-to-score: 0.80→0.81
+  - Underdog +1.5: 0.80→0.81
+- This lets us measure SportyBet's margin on EVERY alt line, against its own main prices.
+- SportyBet margin by market, mean EV per naira on the Oct 11-12 board (odds 1.15-3.0):
+
+| EV | Markets |
+|---|---|
+| 0.94 | DNB / AH / goal totals |
+| 0.93 | Goal Bounds |
+| 0.92-0.93 | Team totals / team bounds |
+| 0.91-0.92 | 1X2, DC |
+| 0.91 | GG/BTTS |
+| 0.90 | Teams-to-score |
+| 0.72 | Multigoals (avoid) |
+
+- The cheapest individual legs (EV 0.985-1.01) are mostly **Under 3.5 / Under 4.5 / wide catches** where SportyBet's alt line sits almost at fair.
+- **Ticket win probability ≈ (product of leg EVs) ÷ target odds.** At 500x:
+  - Legs at EV 0.985 → about 1 in 625.
+  - Typical EV-0.94 legs → about 1 in 1,250.
+  - Junk at EV 0.85 → 1 in 5,000+.
+- Choosing low-margin legs roughly DOUBLES the real chance at the same odds. That is the only controllable edge in an accumulator.
+
+### Finding 4 — Ledger leg-class truth (1,485 legs; hit rate, not ROI, because settled-code odds drift)
+- **Best:** Under 3.5 0.83 (n=150), team totals 0.83, OR-combos 0.80, home DNB 0.80 (+10 voids), 1UP 0.78, basketball ML 0.79.
+- **Worst relative to price:** Over 1.5 0.72-0.74 (typically priced 1.20-1.30, i.e. needs 0.78-0.83 — a consistent loser), integer Over 2 0.44-0.50, corners 0.38 (ours), DC Home-or-Draw 0.38, DC Home-or-Away 0.56, women's 0.60, GG 0.59.
+- This matches Finding 3: we kept buying the expensive Over 1.5 "banker" when the cheap leg was the Under on the same board.
+
+### Finding 5 — What to retire
+- **Retire:**
+  - "Research p > implied" value claims.
+  - Contrarian fades.
+  - Narrative/pattern legs (window patterns, must-win, "low-scoring league").
+  - Fixed-count trims of thin spray-codes.
+  - Over 1.5 bankers.
+  - Multigoals.
+  - Any leg in the EV < 0.93 classes.
+- **Keep:**
+  - Research as a VETO (named absence, rotation, postponement, data conflict).
+  - Settlement mechanics (DNB/AH/integer-O/U refunds).
+  - One leg per fixture, ≤2-3 per league.
+  - Honest 1-in-X.
+
+### ENGINE v5 (binding for all future builds)
+1. Harvest the board. Fit the market-anchored Poisson per fixture from SportyBet's own 1X2 + O/U 2.5. Price every goals/result/AH/team-total/bounds outcome.
+2. Score each leg by **cost = −ln(P(not lose)) ÷ E[ln odds | not lose]**. This is the probability spent per unit of log-odds bought; refunds count as survival with no odds. Lower cost is better.
+3. Filters:
+   - Odds 1.22-1.70.
+   - House 1X2 margin ≤ 7.5%.
+   - Deep markets (≥250 outcomes) as the liquidity proxy.
+   - Senior men's competitions only.
+   - One leg per fixture, ≤3 per league.
+4. Research agents VETO only. Nothing is added on research.
+5. Ticket size follows from the target: legs ≈ ln(target) ÷ ln(1.5). That is 500x ≈ 15 legs and 5000x ≈ 21 legs at ~1.5 each. Report true 1-in-X = target ÷ Π(EV).
+6. **Low odds are NOT better and NOT worse in themselves.** What matters is margin per unit of log-odds. A 1.25 leg with 1% margin beats a 1.60 leg with 6%, and vice versa.
