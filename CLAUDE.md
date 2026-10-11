@@ -1942,7 +1942,7 @@ The "model failing" was mostly the target failing: a 20-leg ticket at 75% per le
   - The "≤3 per league" cap counted tournament labels, so Eliteserien and Norway 1st Division were treated as separate. RLSKXV carried **5 Norwegian Unders**; UR8QZ6 carried 3.
   - The Norway round produced **4.25 goals per game across 12 matches** (51 goals), against a market expectation of about 3.2. Norway is also the highest-scoring league in the 54k-match base table (3.18 per game).
   - One round-level scoring shock killed 4 of the 6 losing legs: a correlated failure, the same family as L73 (MLS Overs on one night).
-- **Engine v5.1 updates (coded in build.py):**
+- **Engine v5.1 updates ((a) and (b) are coded in build.py; (c) is applied by hand at build time until the pool carries the O2.5 price):**
   - (a) Cap legs at **≤2 per COUNTRY** per ticket, not per tournament label.
   - (b) Cap Unders at **≤60%** of a ticket's legs (was 75%), so a high-scoring day can't take the whole slip.
   - (c) Before including Unders from a high-scoring league (base table avg ≥3.1: NOR, SWZ, NED, GER, CHN, DNK, USA), require the house O2.5 price ≥1.55. Kongsvinger (O2.5 @1.19) and Lyn (@1.30) were games the house itself priced as goal-fests; an Under there is a 0.65-0.75 leg at best, and the cost metric alone doesn't see the correlation.
