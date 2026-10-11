@@ -1975,3 +1975,39 @@ The "model failing" was mostly the target failing: a 20-leg ticket at 75% per le
   - football-data has corner COUNTS (HC/AC) for the main leagues, but no historical corner ODDS, so no corners strategy can be back-tested for value.
   - Our ledger: corners legs we built went 5W/8L (all corners on all codes 21W/11L).
   - Stays excluded until a counts-based model is built and paper-traded against SportyBet lines for a few weeks.
+
+## ═══ ENGINE v6 — COUNT-MARKET MODELS (corners, cards) + 2-WEEK PAPER TRADE (started Oct 11) ═══
+User directive: build models for corners (and every market SportyBet offers) from historical team/league data, and paper-trade them for ~2 weeks before staking.
+- **Code now lives in the repo: `engine/`** (previously only in the ephemeral scratchpad).
+  - `load.py`: football-data loader.
+  - `anc.py` + `price.py`: market-anchored goals engine, covering 1X2/DNB/DC/AH/totals/team totals/bounds/BTTS.
+  - `counts.py`: team corners/cards for-against strengths with time decay, plus a negative binomial.
+  - `feat_counts.py`: regression blend; coefficients in `coef_*.json`.
+  - `live_counts.py`: prices live SportyBet markets 166/900300/900301/139/800063.
+  - `grade_counts.py`: settles snapshots against football-data HC/AC/HY/AY.
+  - `harv_wk.py`/`mkt_wk.py`: harvest.
+  - Data: re-download football-data CSVs into `engine/` (see `load.py` globs) before running.
+- **Backtest, out of sample on 4,901 matches in 2026** (walk-forward fits 2025+):
+  - **Corners:**
+    - Model = 3.9 + 0.38×(team-strength corners mean) + 0.77×(market expected goals) − 0.13×|supremacy|.
+    - Log-loss 0.6645 vs league-average baseline 0.6702.
+    - Calibrated at lines 8.5/9.5/10.5 (e.g. 0.60→0.61, 0.50→0.51, 0.35→0.35). First untuned version was overconfident; shrinkage of team effects (prior 30 games, half-life 365d, 50/50 blend with league mean) fixed it.
+    - More expected goals → more corners; a bigger mismatch → slightly fewer.
+  - **Cards (yellows):**
+    - Model = team cards strengths + league mean − 0.55×|supremacy|. Lopsided games produce fewer cards.
+    - Log-loss 0.6477 vs baseline 0.6576. Calibrated at 3.5/4.5.
+    - Not yet modelled: the referee (only some leagues have the column) and red-card point scoring.
+- **Coverage:** 21 football-data leagues with corner/card counts (EPL to League Two, SPL to League 2, Bundesliga 1-2, Serie A/B, LaLiga 1-2, Ligue 1-2, Eredivisie, Belgium, Portugal, Turkey, Greece). SportyBet opens corner/booking markets only ~1-2 days before kick-off, so harvest daily.
+- **First live snapshot (Oct 11, 23:00 UTC):**
+  - Priced: 546 corners/cards outcomes on 21 fixtures, saved to `papertrade/2026-10-11_counts_snapshot.json`.
+  - House margin on these markets (mean EV vs model): corners O/U 0.932, team corners 0.937, bookings O/U 0.915, Match Cards N+ 0.80 (avoid).
+  - 10-28% of outcomes show model EV ≥1.05, with gaps up to 16pp against the house. Per the Shelbourne lesson, big divergences are as likely model error as edge. That is exactly what the paper trade must settle.
+- **PAPER-TRADE PROTOCOL (no stakes until it passes):**
+  - Snapshot all priced outcomes daily.
+  - Grade with `grade_counts.py` once football-data posts results.
+  - **Pass criteria after ≥300 graded outcomes per market:** model log-loss BELOW the house's and EV≥1.05 picks with ROI > 0 (positive after the margin).
+  - If the model only matches the house, corners stay a NO-EDGE market and are used only where its margin is lowest, like any other leg.
+- **"Every market" roadmap:**
+  - Already covered by the anchored goals engine: all full-time goals/result markets.
+  - Next to add: half-time markets (from the HTHG/HTAG split) and cards-by-referee (EPL has a Referee column).
+  - Basketball/baseball: price alt lines from the main line (normal/run distributions), same EV framework.
