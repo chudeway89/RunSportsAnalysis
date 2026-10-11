@@ -1913,3 +1913,19 @@ The "model failing" was mostly the target failing: a 20-leg ticket at 75% per le
 4. Research agents VETO only. Nothing is added on research.
 5. Ticket size follows from the target: legs ≈ ln(target) ÷ ln(1.5). That is 500x ≈ 15 legs and 5000x ≈ 21 legs at ~1.5 each. Report true 1-in-X = target ÷ Π(EV).
 6. **Low odds are NOT better and NOT worse in themselves.** What matters is margin per unit of log-odds. A 1.25 leg with 1% margin beats a 1.60 leg with 6%, and vice versa.
+
+### Oct 11 — first Engine v5 build: UR8QZ6 (500x) / RLSKXV (5000x), DECLARED LOTTERIES
+- Board: 958 events (793 football, 163 basketball, 2 baseball), now → Mon 23:59 UTC. 687 football events priced (46,623 outcomes).
+- Filtering: 177 fixtures passed the margin, liquidity and senior-competition filters. The 75 lowest-cost legs (≤3 per league) went to three veto agents, which returned 10 VETOs plus 23 drops on concrete-fact CAUTIONs.
+- Vetoes covered derbies (Fla-Flu, Pumas–Cruz Azul, KFUM–Valerenga, Honved–Ujpest), unconfirmed fixtures, and Unders where both sides were leaking. The agents also caught Orgryte 4-3 Hacken earlier in the season and Craiova beating FCSB 5-0.
+- Bookmaker listings beat aggregator dates: an open SportyBet pre-match market means the game has not been played.
+- **UR8QZ6 (T500): 15 legs, 542x.** Fair-model win chance 1 in 672; EV per naira 0.81 (a typical 15-leg slip of EV-0.94 legs would be about 0.40).
+  - Unders: Vikingur–IA U4.5, Liverpool–Man City U3.5, St Louis–Galaxy U4.5, Odd–Bryne U3.5, Troyes–Marseille U3.5, Breidablik–Keflavik U4.5, Lyn–Stromsgodset U4.5, Start–HamKam U3.5, Limache–Palestino U3.5, ETO Gyor–Puskas U3.5, Eyupspor–Goztepe U3.5.
+  - Other legs: Osasuna to score, Rennes 1X2, Modern Sport–ENPPI O1.5, Ceramica +1.5.
+- **RLSKXV (T5000): 21 legs, 5,104x.** Fair-model win chance 1 in 6,823; EV 0.75. Adds Kongsvinger U5.5, Famalicao U3.5, Aalesund U4.5, Benfica–Guimaraes U3.5, Podbrezova–Trnava U3.5 and Las Palmas +1.5.
+- Both codes identity-verified.
+- Unders capped at about 75% of legs to limit same-day scoring correlation.
+- Grade at settlement:
+  - Fair-model survival vs actual.
+  - The Under-3.5/4.5 cheap-margin class at volume.
+  - Whether vetoed legs lost more than kept legs.
