@@ -44,11 +44,11 @@ jobs:
         run: |
           git config user.name 'papertrade-bot'
           git config user.email 'papertrade-bot@users.noreply.github.com'
-          git add papertrade engine/data
+          git add papertrade engine/data engine/coef_*.json
           git diff --cached --quiet && { echo 'nothing to commit'; exit 0; }
           git commit -q -m "papertrade: automated run $(date -u +%F' '%H:%M) UTC"
           for i in 1 2 3 4 5; do
-            git pull -q --rebase origin claude/sports-accumulator-analysis-8su67 && git push -q origin HEAD:claude/sports-accumulator-analysis-8su67 && exit 0
+            git pull -q --rebase --autostash origin claude/sports-accumulator-analysis-8su67 && git push -q origin HEAD:claude/sports-accumulator-analysis-8su67 && exit 0
             sleep $((i*i*5))
           done
           echo 'push failed after 5 attempts'; exit 1

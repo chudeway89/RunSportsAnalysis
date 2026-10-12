@@ -4,6 +4,7 @@
 import subprocess,json,datetime as dt,glob,os,collections,sys
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 FAIL=[]; T0=dt.datetime.utcnow()
+os.makedirs('cache',exist_ok=True); os.makedirs('../papertrade',exist_ok=True)   # fresh checkouts (CI) have no cache/
 D=dt.datetime.utcnow().strftime('%Y-%m-%d'); BF=f'cache/board_{D}.json'
 def run(c,t=3000):
     print('>>',c,flush=True)
