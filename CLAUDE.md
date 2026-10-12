@@ -2088,3 +2088,9 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - **Construction:** 5 countries; 3 of 5 legs are Unders (cap ≤60%), all from non-high-scoring leagues; identity-verified.
 - **Research CAUTION, not acted on:** AGF and SonderjyskE are both winless-type sides (agent leaned low). A research-vs-house gap is not a veto (v5).
 - Grade at settlement: engine survival 0.233 vs actual; the AGF caution call.
+- **TQZZS5 (Oct 12, 50x on user request, DECLARED LOTTERY): 11 legs, 52.3x, engine fair chance 1 in 57.** It contains PQJDEG's 4 non-Torino legs (each fixture now on 2 slips, so V4-5 OK) plus 7 more:
+  - Unders 3.5: Al Wasl–Al Ahli, Famalicao–Alverca, Eyupspor–Goztepe, Oulu–HJK.
+  - Kalamata +2.5 at PAOK.
+  - Overs 1.5: Modern Sport–ENPPI and Arges–CFR Cluj.
+  - Unders are 6 of 11 (55%).
+  - Veto pass removed KFUM–Valerenga (derby), Katowice–Wieczysta (fixture data conflict) and Al Nassr v Neftchi +2.5 (giant at home vs minnow, L70 rout class). Identity-verified.
