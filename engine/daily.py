@@ -3,6 +3,9 @@
 # 5 save papertrade/<date>_snapshot.json  6 grade all past snapshots  7 write papertrade/<date>_picks.md + LOG.md line
 import subprocess,json,datetime as dt,glob,os,collections
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
+os.makedirs('cache',exist_ok=True); os.makedirs('data',exist_ok=True)   # gitignored: absent in a fresh container
+try: import scipy,numpy,pandas  # noqa: F401  (fresh routine sessions don't ship them)
+except ImportError: subprocess.run('pip install -q scipy numpy pandas',shell=True)
 D=dt.datetime.utcnow().strftime('%Y-%m-%d'); BF=f'cache/board_{D}.json'
 def run(c,t=3000):
     print('>>',c,flush=True)
@@ -17,7 +20,8 @@ snap=[]
 for f in glob.glob('cache/priced_*.json'):
     for x in json.load(open(f)):
         if 1.15<=x['odds']<=5: x.setdefault('sport','football'); snap.append({k:(round(x[k],4) if isinstance(x.get(k),float) else x.get(k)) for k in K})
-json.dump(snap,open(f'../papertrade/{D}_snapshot.json','w'))
+if snap: json.dump(snap,open(f'../papertrade/{D}_snapshot.json','w'))
+else: print('EMPTY SNAPSHOT - not written')
 run('python3 grade.py')
 # shortlist (PAPER ONLY until a market passes the grade criteria): best model-EV leg per event, odds 1.25-2.5
 best={}
