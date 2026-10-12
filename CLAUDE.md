@@ -2079,6 +2079,20 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - **Pass rule (unchanged from v6):** ≥300 graded outcomes per market, model log-loss below the house's, and model-EV≥1.05 picks (odds 1.2-3.0) with ROI > 0. Nothing gets staked from a market until it passes.
 - First snapshot: 2,581 outcomes on 60 events (Oct 12).
 
+### AUTOMATION v2 (Oct 12) — GitHub Actions replaces the Claude routine as the primary runner
+- **Diagnosis of the routine failure:** routine `trig_014X5n3dWy6jQ1Q48ypYXzsg` fired at 21:50 UTC Oct 12 and reported SUCCEEDED, but its session was tagged `config:no-git-repo`. It started with no repository attached and no push credentials, so nothing could be committed. The platform also scored "the session started" as success. Second flaw: `daily.py` ignored every step's exit code and printed DONE even with an empty snapshot, so a broken run could not look broken. Third: the learning journal depended on an LLM session writing prose into CLAUDE.md.
+- **New design:** `.github/workflows/papertrade.yml` runs on GitHub's runners (no container, no repo attachment, no LLM).
+  - 21:40 UTC: full run (`daily.py`: harvest, price, snapshot, grade).
+  - 11:00 UTC: grade-only catch-up.
+  - Both then run `journal.py` and commit `papertrade/` + `engine/data/` with a rebase-retry push.
+  - The Sportradar/SportyBet response cache persists between runs via `actions/cache`.
+  - Any failure turns the run red and GitHub emails the repo owner.
+- **Fail-loud:** `daily.py` now records failed steps, writes `papertrade/status.json` (heartbeat: date, outcomes, events, failed steps, ok), and exits 1 if the board file is missing or the snapshot has <200 outcomes.
+- **Learning record:** `papertrade/JOURNAL.md` — one deterministic "Day N" block per run with per-market n, model vs house log-loss, EV-pick ROI and verdict (collecting / PASS / FAIL). CLAUDE.md is now only for human-reviewed conclusions drawn from the journal.
+- **Grader fix:** the hit-rate column averaged both sides of every line (always 0.500). It now reports the model-favoured side.
+- **First grade (Oct 12, 22:32 UTC): 1,746 outcomes settled.** Basketball totals (225, n=688) FAIL: house log-loss 0.6439 beats the model's 0.6476 (centre = house line, so only our SD differs, and the house's ~17.5 SD template is slightly better than our league SDs). All other markets are still collecting.
+  - Early leans: team corners home (900300) model clearly worse (+0.026) and EV picks −27% ROI; cards (139) and away corners (900301) model better, but n is small.
+
 ### Paper-trade log
 (The daily routine appends "Paper-trade day N" entries here.)
 
