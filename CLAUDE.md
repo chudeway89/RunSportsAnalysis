@@ -2094,3 +2094,24 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
   - Overs 1.5: Modern Sport–ENPPI and Arges–CFR Cluj.
   - Unders are 6 of 11 (55%).
   - Veto pass removed KFUM–Valerenga (derby), Katowice–Wieczysta (fixture data conflict) and Al Nassr v Neftchi +2.5 (giant at home vs minnow, L70 rout class). Identity-verified.
+
+### Oct 12 — user code NKZMHS (39 legs, 565,899x, house joint 1 in 4.5M) analysed at 12:40 UTC
+- **Structural problems:**
+  - Legs 8 (Logrones TT O0.5) and 28 (Strindheim O2.5) have SUSPENDED markets.
+  - Leg 22 (Jeddeloh II) is Unavailable: it settles on the original only (L74).
+  - 4 legs kick off before 14:15.
+- **Junk classes (17 legs):**
+  - Win-either-half ×4, two of them U21 (Bournemouth, Bristol City, Atalanta, Al Ain).
+  - Both-halves-No ×3 (Pyunik, San Jose, Stal Rzeszow).
+  - Corners ×2 (Fortaleza O9.5, Cluj O8.5; engine EV 0.92/0.91).
+  - Serbia U19 bounds; Uruguay reserves 12-DC; Isthmian/Israel National/Hungary NB II Overs; Botola O1.5 (L48).
+  - Newcastle −1 @3.10 (engine win 0.23); Al Wasl O3 @1.86 (opposite of TQZZS5's U3.5).
+  - Away DNB coin-flips: Al Gharafa, All Boys, Yupanqui (L38b).
+- **Engine pricing:**
+  - The code's integer AH ±1 and Over 2 legs are mostly EV 0.96-0.97 with ~20-25% refund branches; the cheapest legs on the code.
+  - AGF O3 @1.76 is EV 1.05 but AGF is capped (already on PQJDEG+TQZZS5).
+- **V4-5 exclusions from my posts:** Levante, Coventry, AGF (already on 2 slips each).
+- **Veto agent:** 10 fixtures, no VETO. CAUTIONs on Ludogorets (Arda won both 2025-26 meetings), Pyramids (top-of-table clash, last meeting 1-1), Malmo (July meeting 2-2), Cavese (no data), Belouizdad (Algeria away, dropped), Boca Cali.
+- **HCJF3K (CORE, 5 legs, 3.80x, engine not-lose 31.5% / 1 in 3.2):** Eibar +1.0 at Oviedo (Eibar 1st), Granada +1.0 at Burgos, Malmo DNB, Ludogorets–Arda O2, Dijon–Metz O2. Every leg has a refund branch.
+- **JFVGDN (EDIT, 12 legs, 27.7x, engine 1 in 18):** core + Torino–Udinese Udinese +1.0, Chapecoense O2, Pakhtakor O2, Cavese +1.0, Boca Cali +1.0, Shamrock–Bohemians O2, Pyramids–Ceramica O2. Declared lottery-tier. Both identity-verified.
+- Grade: integer-line refund legs at volume (first all-push-protected core); removed-27 vs kept-12.
