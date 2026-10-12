@@ -2115,3 +2115,19 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - **HCJF3K (CORE, 5 legs, 3.80x, engine not-lose 31.5% / 1 in 3.2):** Eibar +1.0 at Oviedo (Eibar 1st), Granada +1.0 at Burgos, Malmo DNB, Ludogorets–Arda O2, Dijon–Metz O2. Every leg has a refund branch.
 - **JFVGDN (EDIT, 12 legs, 27.7x, engine 1 in 18):** core + Torino–Udinese Udinese +1.0, Chapecoense O2, Pakhtakor O2, Cavese +1.0, Boca Cali +1.0, Shamrock–Bohemians O2, Pyramids–Ceramica O2. Declared lottery-tier. Both identity-verified.
 - Grade: integer-line refund legs at volume (first all-push-protected core); removed-27 vs kept-12.
+- **NKZMHS trims (12:55 UTC, user "remove the 5 and 10 most likely to cut"; original markets kept).**
+  - Legs 8 and 28 (suspended) can't be rebooked, so both trims start from 37 legs.
+  - Removal order:
+    1. Coventry–Newcastle −1 @3.10 (win .23)
+    2. Al Wasl O3 @1.86 (.38)
+    3. All Boys away DNB (.35)
+    4. Al Gharafa away DNB (.39)
+    5. River Plate reserves 12-DC (Oct 8 lesson: 12-DC first)
+    6. Yupanqui away DNB (Primera C, L38b)
+    7. Fortaleza corners O9.5 (.57)
+    8. Kfar Shalem O2.5 (.60)
+    9. Carshalton O2.5 (.63)
+    10. AGF O3 (.46 win)
+  - **SD3NA6 (rm-5): 32 legs, 14,784x, house 1 in 76k. T46P50 (rm-10): 27 legs, 1,561x, house 1 in 5,854.** Both identity-verified. Declared lotteries.
+  - Still on rm-10: 4 win-either-half (2 U21), 3 both-halves-No, Cluj corners, Serbia U19 bounds.
+  - Grade: removed-10 vs kept-27.
