@@ -2131,3 +2131,15 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
   - **SD3NA6 (rm-5): 32 legs, 14,784x, house 1 in 76k. T46P50 (rm-10): 27 legs, 1,561x, house 1 in 5,854.** Both identity-verified. Declared lotteries.
   - Still on rm-10: 4 win-either-half (2 U21), 3 both-halves-No, Cluj corners, Serbia U19 bounds.
   - Grade: removed-10 vs kept-27.
+
+## ═══ Calibration (Oct 12 settlement, 21:35 UTC) — the engine's Under-3.5 class went 1W/7L ═══
+- **PQJDEG 2W/2L+1P, TQZZS5 3W/7L+1P — DEAD.** Under 3.5 legs: Levante 3:3, Coventry 4:1, Al Wasl 1:3, Famalicao 1:4, Eyupspor 0:4, Oulu 3:4 all LOST; only Torino–Udinese won. Arges–CFR O1.5 lost 0:1. AGF Over 2 and Ponte/Kalamata catches won.
+- **Engine expected ~5 of those 7 Unders to win (pw 0.64-0.78); actual 1.** Under independence that is roughly a 1-in-150 outcome, so this is NOT ordinary variance — it is a day-level scoring correlation (Oct 11 Norway, now Oct 12 across Spain/England/UAE/Portugal/Turkey/Finland). Two days running the cheap-margin Under class failed together. The leg pricing may be fine on average, but Unders on one ticket are positively correlated through the day's goal environment, so a stack of them is far riskier than the product of their p.
+- **HCJF3K (NKZMHS core) 4W/1L DEAD — only on Eibar +1.0 (Oviedo 3:1).** JFVGDN 7W/1L/2V (same killer). Refund-protected integer legs (Over 2, AH ±1) went ~11W/1L/2V across the NKZMHS family — the best class of the day. User original NKZMHS 29W/4L/3V; trims SD3NA6/T46P50 dead on Eibar + Bristol U21 win-either-half + Spartak Subotica bounds 3-5+ (two of three were legs I flagged but the 5/10 count didn't reach).
+- **v5.2 change (binding):** Unders capped at ≤40% of any ticket (was 60%), and same-direction goals legs (all Unders or all Overs) never more than 4 per ticket. Prefer refund-protected integer lines (O/U 2/3, AH ±1) and catches to spread the goals-environment risk across directions.
+
+### Oct 12 night — P1WVMV (overnight ~50x on user request, 11 legs, 47.0x, DECLARED LOTTERY)
+- Board was only 24 events to 06:00 UTC (Brazil A/B, Paraguay, Peru 2, Jamaica, Costa Rica Ascenso, Liga Premier, ALCS G1, LNBP, NBA preseason). Every football leg EV 0.95-0.98 (no value); built for survival with mixed directions per v5.2.
+- Legs: Bragantino–Cruzeiro U3.5 @1.52, Chapecoense +1.5 @1.35, Botafogo SP–Ceara O1.5 @1.43, Recoleta +1.5 at Nacional @1.39, Oaxaca home goals 0-2 @1.45, Mannucci–Alianza U bounds 2-4 @1.54, Tru-Juice +1.5 at Waterhouse @1.56, Aserri +1.0 at Pitbulls @1.42 (refund on 1-goal loss), Rays–Guardians ALCS G1 Under 8.5 @1.47, LNBP Mineros–Diablos U180.5 @1.28, Abejas–Santos U188.5 @1.23.
+- Engine: all-win 1 in 84; survival incl. the Aserri push 1 in 58. Identity-verified.
+- Breaches flagged: Brazil 3 legs (country cap 2) — board forced it; LNBP standings unverifiable (Oct 1 burn class). Dropped: Criciuma–America (leader v bottom → catch is rout class L70), NBA preseason, Tivoli (inside guard), women's friendly, Bengaluru B.
