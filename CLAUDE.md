@@ -2081,3 +2081,10 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 
 ### Paper-trade log
 (The daily routine appends "Paper-trade day N" entries here.)
+
+### Oct 12 — today's ticket PQJDEG (5 legs, 4.54x, engine fair chance 23% / 1 in 4.3)
+- Built under Engine v5.1. Every leg was priced by the market-anchored engine and picked by lowest cost (win probability spent per unit of log-odds). Research was used as a veto only: one agent checked 8 fixtures, no VETO, and 3 had date CAUTIONs that the open SportyBet markets resolve.
+- **Legs:** AGF–SonderjyskE Over 2 @1.22 (EV 1.05, the best leg on the board; exactly 2 goals = refund), Novorizontino–Ponte Preta, Ponte +3.5 @1.45 (EV 1.00), Levante–Sevilla U3.5 @1.31, Torino–Udinese U3.5 @1.28, Coventry–Newcastle U3.5 @1.53 (Newcastle backup GK, Jaouen out).
+- **Construction:** 5 countries; 3 of 5 legs are Unders (cap ≤60%), all from non-high-scoring leagues; identity-verified.
+- **Research CAUTION, not acted on:** AGF and SonderjyskE are both winless-type sides (agent leaned low). A research-vs-house gap is not a veto (v5).
+- Grade at settlement: engine survival 0.233 vs actual; the AGF caution call.

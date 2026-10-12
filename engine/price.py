@@ -1,7 +1,7 @@
 import json,re,sys,numpy as np
 from anc import fit,grid,devig,K
 I=np.arange(K)[:,None]; Jx=np.arange(K)[None,:]; T=I+Jx; Dm=I-Jx
-R=json.load(open('../m12.json'))
+R=json.load(open(sys.argv[1] if len(sys.argv)>1 else '../m12.json'))
 BAD=re.compile(r'women|\bw\b|u1[0-9]|u2[0-3]|youth|reserve|srl|simulated|friendl|amateur|futsal|esoccer|beach|\(w\)|u-?2[01]|academy|ii$| b$',re.I)
 def rng(s):
     if s.endswith('+'): return int(s[:-1]),99
@@ -61,7 +61,7 @@ for r in R:
         ev=pw*o['odds']+pp
         out.append(dict(eid=r['eid'],sid=r['sid'],fx=r['fx'],lg=r['lg'],ko=r['ko'],mid=o['mid'],spec=o['spec'],desc=o['desc'],mdesc=o['mdesc'],
             oid=o['oid'],odds=o['odds'],hp=o['p'],pw=pw,pp=pp,pl=pl,ev=ev,marg=marg,o25=bool(pO)))
-json.dump(out,open('priced.json','w'))
+json.dump(out,open('cache/priced_goals.json','w'))
 print('events priced',len(set(x['eid'] for x in out)),'outcomes',len(out))
 import collections
 evs=collections.defaultdict(list)
