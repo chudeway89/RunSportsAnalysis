@@ -20,7 +20,11 @@ snap=[]
 for f in glob.glob('cache/priced_*.json'):
     for x in json.load(open(f)):
         if 1.15<=x['odds']<=5: x.setdefault('sport','football'); snap.append({k:(round(x[k],4) if isinstance(x.get(k),float) else x.get(k)) for k in K})
-json.dump(snap,open(f'../papertrade/{D}_snapshot.json','w'))
+SF=f'../papertrade/{D}_snapshot.json'   # merge with any earlier same-day snapshot so a rerun never drops ungraded outcomes
+if os.path.exists(SF):
+    seen={(x['eid'],x['oid'],x.get('spec')) for x in snap}
+    snap+= [x for x in json.load(open(SF)) if (x['eid'],x['oid'],x.get('spec')) not in seen]
+json.dump(snap,open(SF,'w'))
 run('python3 grade.py')
 # shortlist (PAPER ONLY until a market passes the grade criteria): best model-EV leg per event, odds 1.25-2.5
 best={}
