@@ -1,14 +1,13 @@
 # Live pricing of SportyBet corners/cards markets with the calibrated count models (paper-trade engine)
 import json,math,re,difflib,collections,datetime as dt,sys
-sys.path.insert(0,'fd')
 from counts import load_counts,fit,mean
 from anc import fit as afit,devig,L as LAM
 from scipy.stats import nbinom
 def norm(s):
     s=s.lower(); s=re.sub(r'\b(fc|cf|sc|ac|afc|cd|ca|sv|fk|if|bk|club|de|the|cp|ud|sd|ssc|as|rc|vfl|vfb|tsg|1\.|sk|nk|calcio|sad|real)\b','',s)
     return re.sub(r'[^a-z]','',s)
-CO=json.load(open('fd/coef_corners.json')); CA=json.load(open('fd/coef_cards.json'))
-import os; _cwd=os.getcwd(); os.chdir('fd'); R=load_counts(); os.chdir(_cwd); by=collections.defaultdict(list)
+CO=json.load(open('coef_corners.json')); CA=json.load(open('coef_cards.json'))
+import os; _cwd=os.getcwd(); os.chdir('fdcsv'); R=load_counts(); os.chdir(_cwd); by=collections.defaultdict(list)
 for r in R: by[r['lg']].append(r)
 now=dt.datetime.utcnow()
 MC={lg:fit(ms,now,'hc','ac',half=365,prior=30) for lg,ms in by.items() if len(ms)>200}
@@ -21,8 +20,16 @@ def match(lg,name):
 def nb_gt(mu,r,line): p=r/(r+mu); return 1-nbinom.cdf(math.floor(line),r,p)
 def nb_eq(mu,r,k): p=r/(r+mu); return nbinom.pmf(k,r,p)
 out=[]
-for e in json.load(open('m_wk.json')):
-    lg=e['fd']
+MAP={('England','Premier League'):'E0',('England','Championship'):'E1',('England','League One'):'E2',('England','League Two'):'E3',
+ ('Scotland','Premiership'):'SC0',('Scotland','Championship'):'SC1',('Scotland','League 1'):'SC2',('Scotland','League 2'):'SC3',
+ ('Germany','Bundesliga'):'D1',('Germany','2. Bundesliga'):'D2',('Italy','Serie A'):'I1',('Italy','Serie B'):'I2',
+ ('Spain','LaLiga'):'SP1',('Spain','LaLiga 2'):'SP2',('France','Ligue 1'):'F1',('France','Ligue 2'):'F2',
+ ('Netherlands','Eredivisie'):'N1',('Belgium','Pro League'):'B1',('Portugal','Liga Portugal'):'P1',('Turkiye','Super Lig'):'T1',('Greece','Super League'):'G1'}
+for e in json.load(open(sys.argv[1])):
+    if e['sport']!='football': continue
+    lg=MAP.get(tuple((e['lg'].split(' / ')+[''])[:2]))
+    if not lg: continue
+    e['home'],e['away']=e['fx'].split(' v ',1)
     if lg not in MC: continue
     h=match(lg,e['home']); a=match(lg,e['away'])
     if not h or not a or h==a: continue
@@ -48,9 +55,9 @@ for e in json.load(open('m_wk.json')):
                 k=int(d[:-1]); p=nb_gt(muY+0.15,rY,k-0.5)
         except Exception: p=None
         if p is None: continue
-        out.append(dict(eid=e['eid'],sid=e['sid'],fx=e['home']+' v '+e['away'],fdh=h,fda=a,lg=lg,ko=e['ko'],mid=m,spec=o['spec'],desc=d,mdesc=o['mdesc'],oid=o['oid'],
+        out.append(dict(sport='football',src='fd-regression',line=None,eid=e['eid'],sid=e['sid'],fx=e['home']+' v '+e['away'],fdh=h,fda=a,lg=lg,ko=e['ko'],mid=m,spec=o['spec'],desc=d,mdesc=o['mdesc'],oid=o['oid'],
            odds=o['odds'],hp=o['p'],mp=p,ev=p*o['odds'],muC=round(muC,2),muY=round(muY,2)))
-json.dump(out,open('priced_counts.json','w'))
+json.dump(out,open('cache/priced_fd_counts.json','w'))
 print('priced outcomes',len(out),'fixtures',len(set(x['eid'] for x in out)))
 cand=[x for x in out if 1.30<=x['odds']<=2.6]
 cand.sort(key=lambda x:-x['ev'])

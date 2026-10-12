@@ -2011,3 +2011,73 @@ User directive: build models for corners (and every market SportyBet offers) fro
   - Already covered by the anchored goals engine: all full-time goals/result markets.
   - Next to add: half-time markets (from the HTHG/HTAG split) and cards-by-referee (EPL has a Referee column).
   - Basketball/baseball: price alt lines from the main line (normal/run distributions), same EV framework.
+
+## ═══ ENGINE v7 — ALL-SPORTS MODELS + SOUTH AMERICA/ASIA CORNERS + DAILY AUTOMATION (Oct 12, 2026) ═══
+User directive: (1) a daily automatic run by 11pm; (2) models for basketball and baseball across all leagues; (3) include South America and Asia in the corners/cards models.
+
+### New data sources (all reachable from the container)
+- **Sportradar "gismo" stats feed** (`engine/sr.py`). This is SportyBet's own provider: SportyBet's `sr:match:N` equals gismo match id N, so no name-matching is needed.
+  - Endpoints: `match_info`, `match_details` (corners, cards, fouls, shots, possession), `stats_season_fixtures2/{season}`, `stats_team_lastx/{team uid}/{n}`.
+  - Covers every league SportyBet lists.
+  - All calls are disk-cached in `engine/cache/` (gitignored).
+- **ESPN** (`engine/espn_hist.py`): results plus CLOSING lines (total, spread, moneyline) for NBA, WNBA and MLB, 2 seasons each — 8,253 games in `engine/data/espn_*.jsonl`.
+- football-data CSVs are re-downloaded by `engine/fd_fetch.sh` (21 European leagues, used by the v6 regression).
+
+### Corners/cards — now every league (`sr_football.py` → `data/sr_fb_counts.jsonl`; `bt_sr_counts.py`; `live_sr_counts.py`)
+- 11,890 matches across 42 leagues: Brazil A/B, Argentina LPF/Nacional, Chile, Paraguay, Colombia, Peru, Ecuador, Uruguay, Mexico, MLS/USL, Japan J1/J2, Korea K1/K2, China, Saudi, Australia, Egypt, Scandinavia, Poland, Romania, Israel and more.
+- Walk-forward out-of-sample test, 3,509 matches. No historical odds exist for these leagues, so the goals input is team goal strengths instead of market expected goals.
+
+| Market | League average (log-loss) | Team blend | Regression |
+|---|---|---|---|
+| Corners | 0.6410 | 0.6381 | 0.6367 |
+| Cards | 0.5916 | 0.5871 | 0.5815 |
+
+- Corners calibration is good (O8.5: 0.5→0.56, 0.6→0.62, 0.7→0.71). The model under-predicts corners by about 0.3 per match, so the live pricer adds +0.3.
+- Cards are slightly overconfident at the high end (O4.5 0.7→0.60): treat high-p card Overs as LO.
+- Live pricer: European football-data leagues use the v6 market-anchored regression (`live_counts.py`); everything else uses the Sportradar regression (`live_sr_counts.py`).
+- **Biggest model-vs-house gaps sit in TEAM corners (900300/900301)**, which are split from the match total by team share. This is the least validated piece, and 10-14pp "edges" there are more likely model error than value until graded.
+
+### Basketball (`hoops.py`, `hoops_sr.py`, `live_sports.py`)
+- **Measured against NBA/WNBA closing lines (ESPN):**
+  - Actual total minus the line is normal, with SD 17.9 (NBA) / 17.8 (WNBA) and kurtosis about 0.
+  - Home margin plus spread has SD 13.9 / 12.9.
+  - A normal distribution centred on the line is near-perfectly calibrated out of sample. NBA totals P(resid>k) model vs actual: −10: 0.71/0.71, +10: 0.29/0.30, +15: 0.20/0.21. Margins: −10: 0.77/0.77, +10: 0.23/0.23.
+- **Other leagues:** SD = walk-forward team-model residual SD × (market SD ÷ model SD, measured on NBA/WNBA: 0.93 totals, 0.96 margins).
+  - Estimated total SDs: Croatia 14.2, Poland 14.6, Cyprus 14.9, Bulgaria 14.9, Turkey 15.0, Romania 15.1, Korea KBL 15.2, Mexico LNBP 15.7, Argentina LNB 16.6, Japan B.League 16.8, Serbia 17.9, Israel 18.0, Paraguay 22.6.
+- **FINDING: SportyBet's alt ladders imply SD ≈ 17.3-18.1 in EVERY league** — one template. If our tighter league SDs are right, the near-side wide alt lines (e.g. Over 150.5 when the main line is 166.5) are slightly under-priced in the low-variance leagues. Unproven until graded.
+- Pricing method: centre = SportyBet's own main line, devigged. We never out-guess the centre; only the spread is ours. Markets priced: 219 winner, 223 handicap, 225 total, 227/228 team totals.
+- Live mean EV is about 0.92-0.94 across these markets: the same house margin as football.
+
+### Baseball (`mlb_emp.py`, `diamond.py`)
+- A parametric negative binomial run model was tried first (`diamond.py`). It was MIS-calibrated on run-lines (it understated favourite margins), so it is rejected.
+- Replacement: empirical logistic tables fitted on 2025 closing lines and tested on 2,456 games of 2026. Well calibrated:
+
+| Market | Predicted → actual |
+|---|---|
+| Favourite +2.5 | 0.75→0.75, 0.80→0.80 |
+| Favourite +3.5 | 0.84→0.84 |
+| Favourite −1.5 | 0.40→0.42 |
+| Total line −1.5 | 0.61→0.62 |
+| Total line +1.5 | 0.35→0.35 |
+
+- Inputs: SportyBet main total line plus devigged winner price. Markets priced: 251 winner, 256 handicap, 258 total.
+- KBO/NPB/CPBL use the MLB tables (flagged `mlb-tables-transfer`, unvalidated). Score history for them is stored in `data/sr_scores.jsonl`.
+
+### Daily automation
+- **Routine `trig_014X5n3dWy6jQ1Q48ypYXzsg`:** every day at 22:50 Africa/Lagos, fresh session, push + email notification.
+- It runs `engine/daily.py`, which:
+  1. fetches the CSVs;
+  2. harvests the board for the next 30h (`board.py`);
+  3. grows the Sportradar histories;
+  4. refits the league SDs;
+  5. prices corners, cards, basketball and baseball;
+  6. saves `papertrade/<date>_snapshot.json`;
+  7. grades ALL earlier snapshots against the Sportradar results feed (`grade.py` → `papertrade/graded.jsonl`, `grade_report.txt`);
+  8. writes `papertrade/<date>_picks.md` and a `papertrade/LOG.md` line;
+  9. commits and pushes.
+- Grading settles football markets on the 90-minute score and stats; basketball and baseball on the final score including OT/extras. Pushes are skipped.
+- **Pass rule (unchanged from v6):** ≥300 graded outcomes per market, model log-loss below the house's, and model-EV≥1.05 picks (odds 1.2-3.0) with ROI > 0. Nothing gets staked from a market until it passes.
+- First snapshot: 2,581 outcomes on 60 events (Oct 12).
+
+### Paper-trade log
+(The daily routine appends "Paper-trade day N" entries here.)
