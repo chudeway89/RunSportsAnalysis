@@ -2087,6 +2087,7 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
   - Both then run `journal.py` and commit `papertrade/` + `engine/data/` with a rebase-retry push.
   - The Sportradar/SportyBet response cache persists between runs via `actions/cache`.
   - Any failure turns the run red and GitHub emails the repo owner.
+- **Old routine DISABLED (Oct 12, 23:16 UTC, on user request).** Its config also pointed pushes at a different branch (`claude/friendly-wright`), a second reason nothing reached this branch. GitHub Actions is now the only daily runner.
 - **Fail-loud:** `daily.py` now records failed steps, writes `papertrade/status.json` (heartbeat: date, outcomes, events, failed steps, ok), and exits 1 if the board file is missing or the snapshot has <200 outcomes.
 - **Learning record:** `papertrade/JOURNAL.md` — one deterministic "Day N" block per run with per-market n, model vs house log-loss, EV-pick ROI and verdict (collecting / PASS / FAIL). CLAUDE.md is now only for human-reviewed conclusions drawn from the journal.
 - **Grader fix:** the hit-rate column averaged both sides of every line (always 0.500). It now reports the model-favoured side.
