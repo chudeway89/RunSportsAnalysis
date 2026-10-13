@@ -2196,3 +2196,11 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - **pick.py v8.1 (coded):** (a) for two-way non-integer lines, the selection p = min(model p, house devigged p); (b) no Unders or capped Goal Bounds in Amateur/Reserve/Regional competitions; (c) no AH catch of +2.5 or wider when the favourite's base 1X2 p ≥ 0.70 (`fav_p` now stored by winmodel.py). All three would have removed the 5 class losses above.
 - **Standing arithmetic**: 79% leg survival still loses every 20+ leg ticket (expected). The 500x/5000x/50000x tiers stay declared lotteries.
 - Paper-trade (JOURNAL Day 3, 2,275 graded): basketball handicaps (223) show the first PASS, but on only 7 EV picks — not stakeable yet. Basketball totals FAIL (house SD better). Cards (139) lean model-better (n=48). Team corners home (900300) lean model-worse.
+
+### Oct 13 night — user code H25EVX (26 legs, 6,620x, house 1 in 19,598), Oct 14–18 — remove 2 / 5
+- Composition: 19 BTTS "GG Yes" legs (11 of them German: Bundesliga ×4, 2.Bundesliga ×4, 3.Liga ×3), 2 "Draw or Over 2.5" (Hearts, Lyon), 1 "Draw or GG" (Brentford), and 4 EuroCup first-half Overs. It spans 5 days (L14 window).
+- Engine pricing (market-anchored Poisson): every GG leg is fair-priced (engine = house within ±0.01) at p .63–.70, EV ≈ 0.95. There is no value leg; the risk is the count of near-coin-flip legs plus the German scoring correlation.
+- Structural: Aris v Derthona first-half Over 79.5 is no longer offered, as the ladder moved. It still settles on the original, but it can't be rebooked, so the edits use first-half Over 80.5 @1.43 (p .666).
+- Removal order (lowest engine p first): Hannover–St Pauli GG .629, Dresden–Magdeburg GG .638, Aachen–Rostock GG .642, Ingolstadt–Essen GG .646, Norwich–Southampton GG .650. All are German lower tiers except Norwich.
+- **U5Q1RC (remove-2): 24 legs, 3,152x, engine 1 in 11,310. UG3R90 (remove-5): 21 legs, 1,034x, engine 1 in 3,049.** Both identity-verified. Declared lotteries; Germany still has 7 legs on UG3R90.
+- Grade: GG class at volume on a mid-season board (19 legs); removed-5 vs kept-21.
