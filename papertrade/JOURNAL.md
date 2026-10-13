@@ -40,3 +40,22 @@ Graded outcomes to date: 1746
 | baseball | 256 | 10 | 0.6382 | 0.5919 | +0.0462 | 0 | +0.000 | collecting |
 | baseball | 251 | 10 | 0.6575 | 0.6529 | +0.0046 | 0 | +0.000 | collecting |
 
+## Day 3 — 2026-10-13 18:04 UTC
+Run: OK | snapshot 3467 outcomes / 60 events | failed steps: ['python3 sr_scores.py cache/board_2026-10-12.json']
+Graded outcomes to date: 2275
+
+| Sport | Market | n | Model LL | House LL | Δ (neg = model better) | EV picks | Picks ROI | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| basketball | 225 | 934 | 0.6370 | 0.6345 | +0.0025 | 0 | +0.000 | FAIL (house better) |
+| basketball | 223 | 404 | 0.6790 | 0.6825 | -0.0034 | 7 | +0.236 | **PASS** |
+| basketball | 227 | 222 | 0.6923 | 0.6933 | -0.0010 | 0 | +0.000 | collecting |
+| football | 166 | 186 | 0.6292 | 0.6132 | +0.0159 | 14 | -0.387 | collecting |
+| basketball | 228 | 178 | 0.6763 | 0.6767 | -0.0004 | 0 | +0.000 | collecting |
+| football | 900300 | 168 | 0.6710 | 0.6481 | +0.0228 | 26 | -0.273 | collecting |
+| football | 139 | 48 | 0.6204 | 0.6922 | -0.0718 | 6 | +1.038 | collecting |
+| basketball | 219 | 44 | 0.7091 | 0.7171 | -0.0079 | 0 | +0.000 | collecting |
+| football | 900301 | 40 | 0.4025 | 0.4115 | -0.0090 | 7 | -0.086 | collecting |
+| baseball | 258 | 20 | 0.6724 | 0.6927 | -0.0204 | 1 | +1.330 | collecting |
+| baseball | 256 | 19 | 0.6153 | 0.5804 | +0.0348 | 0 | +0.000 | collecting |
+| baseball | 251 | 12 | 0.7021 | 0.6998 | +0.0022 | 0 | +0.000 | collecting |
+
