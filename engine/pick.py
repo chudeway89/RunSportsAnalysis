@@ -4,6 +4,7 @@
 import json,sys,math,collections
 legs=json.load(open('cache/winmodel_legs.json'))
 TARGETS=[float(x) for x in sys.argv[1:]] or [500,5000,50000]
+PMIN=0.65; KOMIN='10-13 11:00'
 RESULT={'1','10','11','16','219','223'}
 OK_FB={'1','10','11','16','18','19','20','450001','450002','450003'}
 OK_BK={'219','223','225'}
@@ -18,7 +19,8 @@ def side(x):
 def allowed(x):
     f=set(x['flags']); m=x['mid']; p=x['p']; d=x['desc']
     if x['veto'] or 'data_conflict' in f: return False
-    if not (1.15<=x['odds']<=2.2): return False
+    if not (1.18<=x['odds']<=2.2): return False
+    if x['p']+x.get('pp',0)<PMIN or x['ko']<KOMIN: return False
     if x['sport']=='football':
         if m not in OK_FB: return False
         if m=='10' and d=='Home or Away': return False                        # no-draw DC (L2/L54)
@@ -41,7 +43,7 @@ def cost(x):
     pw,pp=x['p'],x.get('pp',0); s=pw+pp
     if s<=0.5 or pw<=0: return 9
     return -math.log(s)/((pw*math.log(x['odds']))/s)
-FLOOR={500:1.25,5000:1.30,50000:1.38}
+FLOOR={500:1.20,5000:1.20,50000:1.22}
 OK=[x for x in legs if allowed(x)]
 for x in OK: x['cost']=cost(x)
 def mkpool(floor):
@@ -60,7 +62,7 @@ def build(target,base=None,maxlegs=50):
         if odds(T)>=target or len(T)>=maxlegs: break
         if x['eid'] in used or cc[country(x)]>=3: continue
         n=len(T)+1; s=side(x)
-        if s in('under','over') and (sd[s]+1)/n>0.45 and n>4: continue
+        if s in('under','over') and (sd[s]+1)/n>0.40 and n>4: continue
         T.append(x); used.add(x['eid']); cc[country(x)]+=1; sd[s]+=1
     return T
 out={}; base=None

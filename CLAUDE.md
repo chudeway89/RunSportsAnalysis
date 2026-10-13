@@ -2158,3 +2158,27 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - Legs: Bragantino–Cruzeiro U3.5 @1.52, Chapecoense +1.5 @1.35, Botafogo SP–Ceara O1.5 @1.43, Recoleta +1.5 at Nacional @1.39, Oaxaca home goals 0-2 @1.45, Mannucci–Alianza U bounds 2-4 @1.54, Tru-Juice +1.5 at Waterhouse @1.56, Aserri +1.0 at Pitbulls @1.42 (refund on 1-goal loss), Rays–Guardians ALCS G1 Under 8.5 @1.47, LNBP Mineros–Diablos U180.5 @1.28, Abejas–Santos U188.5 @1.23.
 - Engine: all-win 1 in 84; survival incl. the Aserri push 1 in 58. Identity-verified.
 - Breaches flagged: Brazil 3 legs (country cap 2) — board forced it; LNBP standings unverifiable (Oct 1 burn class). Dropped: Criciuma–America (leader v bottom → catch is rout class L70), NBA preseason, Tivoli (inside guard), women's friendly, Bengaluru B.
+
+## ═══ ENGINE v8 — WIN-PROBABILITY MODEL (Oct 13, user directive) ═══
+**User correction (binding):** model-vs-house EV is a diagnostic for spotting value, NOT the criterion for choosing fixtures or markets. Legs are chosen on the probability that the market in that fixture comes through, built from the calibrated base plus fixture factors (form, home/away splits, H2H, team news, league averages, stage/motivation). The model's job is to decide how much each factor moves that probability, in service of continuous winning.
+- **`engine/winmodel.py`:**
+  - **Football:** base λh/λa come from SportyBet's devigged 1X2 + O/U 2.5 (calibrated on 13k matches). Research supplies its own xG per side plus a confidence c. Adjusted λ = λ·(r/λ)^(W·c), with the ratio clamped to [0.80, 1.25]. Every market on the fixture (1X2/DNB/DC/AH/totals/team totals/bounds) is then re-priced from the adjusted score grid, so one factor moves all of them consistently.
+  - **Basketball:** base total and margin come from the house ladders with the house SD (the grader showed the house SD beats ours). Adjusted mean = base + W·c·(research − base), capped at ±6 points on totals and ±5 on margins.
+  - **W = 0.35 prior.** Why not 1.0: an independent stat model lost to the closing price on 54k matches, and research is only reliable at the extremes (L78). Why not 0: named facts (absences, rotation, must-win) do move outcomes. W gets refit from graded legs as they accumulate. Per-leg base and adjusted p are both stored, so the refit is possible.
+- **`engine/pick.py`:**
+  - **Probability gate:** adjusted P(survive) ≥ 0.65 per leg, odds 1.18–2.2, kick-off ≥ 11:00 UTC on the day so the user has time to place.
+  - **Ranking:** inside the gate, legs are ranked by probability spent per unit of log-odds, which maximises P(ticket) at a fixed target.
+  - **Hard rules:** veto/data_conflict → drop; no result-side on derbies/openers; knockout 90-min → DNB/totals only; rotation_risk → p ≥ 0.78; confidence < 0.2 → p ≥ 0.78; no 12-DC, BTTS, multigoals or corners; capped Goal Bounds need p ≥ 0.80; basketball spreads under 8.5 need p ≥ 0.80.
+  - **Caps:** ≤ 3 legs per country/competition; Unders ≤ 40% and Overs ≤ 40% of legs. One leg per fixture.
+- **Research coverage, first run:** 8 agents, 179 fixtures (every senior football fixture on Tuesday's board across ~50 competitions incl. English non-league, Austrian/Bavarian amateur, Algeria L2, Uganda, Thailand L2, India, Kosovo, Lebanon…, plus 18 basketball games). Women's/youth/U21/reserve/virtual stay excluded (ledger loser classes). Several agents used the Sportradar feed (`engine/sr.py`) for current tables and results where the web had nothing.
+- **Baseball:** the only listed game is NLCS Game 3, Dodgers v Brewers (Brewers lead 2-0), at 00:00 UTC on Oct 15 (Wednesday night US). It falls outside Tuesday and the starters are unconfirmed, so it was excluded.
+
+### Oct 13 — v8 tickets (DECLARED LOTTERIES; nested: the 500x legs are inside the 5000x, and the 5000x legs inside the 50,000x)
+- **ME7N2R (T500): 20 legs, 586x.** Model P(win incl. refunds) 1 in 781; all legs winning outright 1 in 1,020.
+- **H4L82L (T5000): 28 legs, 5,602x.** Model 1 in 9,121.
+- **XASL5K (T50000): 36 legs, 66,118x.** Model 1 in 130,561.
+- All identity-verified (fixture + market + outcome). Sports mix: T500 all football; T5000 + 1 EuroLeague total; T50000 + 4 basketball.
+- **Grade at settlement:**
+  - (a) adjusted p vs actual hit rate for this first all-board research run;
+  - (b) the W=0.35 blend: did legs whose p moved up from base beat those that moved down?;
+  - (c) the probability-gated selection (all legs ≥ 0.65) vs earlier cost-only builds.
