@@ -2182,3 +2182,17 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
   - (a) adjusted p vs actual hit rate for this first all-board research run;
   - (b) the W=0.35 blend: did legs whose p moved up from base beat those that moved down?;
   - (c) the probability-gated selection (all legs ≥ 0.65) vs earlier cost-only builds.
+
+## ═══ Calibration (Oct 12-13 settlement, checked Oct 13 evening) — v8 legs on-model; amateur Unders and rout catches killed it ═══
+- **Oct 12 final**: PQJDEG 2W/3L (Novorizontino 5:1 also beat Ponte +3.5), TQZZS5 3W/8L, HCJF3K 4W/1L and JFVGDN 8W/1L/2V (both only on Eibar +1.0), SD3NA6 25W/3L/3V, T46P50 21W/3L/2V, NKZMHS (user original) 30W/4L/4V, P1WVMV overnight 5W/6L (Bragantino U3.5 4:2, Chapecoense +1.5, Botafogo SP O1.5 1:0, Oaxaca home 0-2 5:1, Rays U8.5 3:7, Mineros U180.5 97:86). All dead.
+- **Oct 13 v8 ladder**: ME7N2R 13W/4L/1V/2P, H4L82L 18W/6L/1V/3P, XASL5K 25W/7L/1V/3P — all dead by mid-afternoon.
+- **v8 calibration (XASL5K, 33 settled legs)**: model expected 24.0 survivals, actual 26. The probabilities were right. Research moved p up on 19 legs by only ~+0.01 each (W·c is small), so the W=0.35 blend can't be judged on one day: expected 13.7 vs actual 15 on the moved-up legs, vs 13.5 at base.
+- **Where it died (5 of 7 losses in two fixable classes):**
+  1. **Unders/capped bounds in amateur football: 0W/3L** (Ebbsfleet U4.5 5:0, Ilz U4.5 4:1, Havant bounds 0-4 4:1). Model priced them .78-.81, and these legs carried the largest model-over-house gaps (+0.05). The Poisson anchor is calibrated on pro leagues; amateur blowout tails are fatter. Unders elsewhere on the ticket went 9W/1L.
+  2. **+2.5 catches against heavy favourites: 0W/2L** (Simba 6:1, Arsenal 3:0 v Lille) — L70 again; the picker had no rout gate. The +2.5 catches against non-dominant favourites (Pachern, Bahcesehir) won.
+  - Rest: Lugazi O1.5 0:0 (Uganda, thin-league Over), Lietkabelis-PAOK U177.5 (181, variance).
+- **3-day class record on my tickets (Oct 11-13, unique legs)**: Under/capped bounds 20W/21L (~49% vs ~0.72 priced — the worst class by far, concentrated in high-scoring rounds and amateur levels), Over 16W/3L/1V, AH catches +0.5 to +2.0 8W/4L/2V, catches +2.5+ 3W/3L.
+- **Selection bias found**: the losing legs had a larger model-over-house gap (+0.033) than the survivors (+0.006). Ranking on model p rewards legs where the model is simply more optimistic than the book.
+- **pick.py v8.1 (coded):** (a) for two-way non-integer lines, the selection p = min(model p, house devigged p); (b) no Unders or capped Goal Bounds in Amateur/Reserve/Regional competitions; (c) no AH catch of +2.5 or wider when the favourite's base 1X2 p ≥ 0.70 (`fav_p` now stored by winmodel.py). All three would have removed the 5 class losses above.
+- **Standing arithmetic**: 79% leg survival still loses every 20+ leg ticket (expected). The 500x/5000x/50000x tiers stay declared lotteries.
+- Paper-trade (JOURNAL Day 3, 2,275 graded): basketball handicaps (223) show the first PASS, but on only 7 EV picks — not stakeable yet. Basketball totals FAIL (house SD better). Cards (139) lean model-better (n=48). Team corners home (900300) lean model-worse.

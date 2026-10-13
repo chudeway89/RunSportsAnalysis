@@ -3,6 +3,15 @@
 # Usage: python3 pick.py 500 5000 50000  -> cache/tickets.json  (reads cache/winmodel_legs.json)
 import json,sys,math,collections
 legs=json.load(open('cache/winmodel_legs.json'))
+# Oct 13 calibration: never let a model-vs-house disagreement make a leg look safer. For two-way non-integer lines,
+# the selection probability is min(model p, house devigged p) — stops the picker favouring legs where the model is
+# simply more optimistic than the book (winner's curse; the losing legs carried the larger optimistic gaps).
+_G=collections.defaultdict(list)
+for x in legs: _G[(x['eid'],x['mid'],x['spec'])].append(x)
+for k,g in _G.items():
+    if len(g)==2 and all(x.get('pp',0)==0 for x in g):
+        s=sum(1/x['odds'] for x in g)
+        for x in g: x['p_model']=x['p']; x['p']=min(x['p'],(1/x['odds'])/s)
 TARGETS=[float(x) for x in sys.argv[1:]] or [500,5000,50000]
 PMIN=0.65; KOMIN='10-13 11:00'
 RESULT={'1','10','11','16','219','223'}
@@ -26,6 +35,9 @@ def allowed(x):
         if m=='10' and d=='Home or Away': return False                        # no-draw DC (L2/L54)
         if m=='1' and p<0.62: return False
         if m in('450001','450002','450003') and p<0.80: return False        # capped bounds burned in thin leagues (Oct 7)
+        amateur=any(k in x['lg'] for k in('Amateur','Reserve','Regional'))
+        if amateur and (d.startswith('Under') or m in('450001','450002','450003')): return False   # amateur routs (Oct 13: 0/3)
+        if m=='16' and '+' in d and float(d.split('+')[1].rstrip(')'))>=2.5 and x.get('fav_p',0)>=0.70: return False  # L70 rout class
         if m in RESULT and ({'derby','season_opener'}&f): return False      # L60/L65
         if 'knockout_90min' in f and m in('1','16','10'): return False      # L56: only DNB/totals on knockouts
         if 'rotation_risk' in f and p<0.78: return False                    # L66

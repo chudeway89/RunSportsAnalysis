@@ -84,7 +84,7 @@ if __name__=='__main__':
                     bw,bp=base.get(id(o),(pw,pp))
                     out.append(dict(eid=eid,sid=e['sid'],sport='football',lg=e['lg'],fx=e['fx'],ko=e['ko'],mid=o['mid'],spec=o['spec'],desc=o['desc'],
                         mdesc=o['mdesc'],oid=o['oid'],odds=o['odds'],p_base=round(bw,4),p=round(pw,4),pp=round(pp,4),flags=f.get('flags',[]),veto=bool(f.get('veto')),
-                        lam=(round(lh,2),round(la,2)),lam0=(round(b['lh'],2),round(b['la'],2)),conf=c))
+                        lam=(round(lh,2),round(la,2)),lam0=(round(b['lh'],2),round(b['la'],2)),conf=c,fav_p=round(max(b['pH'],b['pA']),3)))
             elif e['sport']=='basketball':
                 b=bk_base(e)
                 if not b: continue
