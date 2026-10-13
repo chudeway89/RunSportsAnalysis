@@ -2204,3 +2204,24 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - Removal order (lowest engine p first): Hannover–St Pauli GG .629, Dresden–Magdeburg GG .638, Aachen–Rostock GG .642, Ingolstadt–Essen GG .646, Norwich–Southampton GG .650. All are German lower tiers except Norwich.
 - **U5Q1RC (remove-2): 24 legs, 3,152x, engine 1 in 11,310. UG3R90 (remove-5): 21 legs, 1,034x, engine 1 in 3,049.** Both identity-verified. Declared lotteries; Germany still has 7 legs on UG3R90.
 - Grade: GG class at volume on a mid-season board (19 legs); removed-5 vs kept-21.
+
+### Oct 14 — full-board v8.2 ladder (built Oct 13 22:50 UTC; window to 23:00 UTC Oct 14): M5NTNA / QG8Y4S / WT8MDM (DECLARED LOTTERIES, nested)
+- Board: 238 events (167 football, 66 basketball, 5 baseball), 135k outcomes. Nine research agents covered all 236 fixtures (`cache/factors14_G*.json`), with 23 vetoes:
+  - Chile Tercera round 25 suspended by ANFA.
+  - Reserve and youth sides: Polish CLJ/II teams, Milan Futuro, Olympiacos B, Levadia U21, German ProB II teams, Orange Academy.
+  - Women's: Czech ZBL and women's internationals.
+  - A duplicate Russian Cup listing.
+- Research came mostly from the Sportradar last-10 feed. There was almost no 2026-27 web team news, so confidence was ≤0.45 everywhere and the research moved p only slightly.
+- **pick.py v8.2 (coded):**
+  - Every leg must win OUTRIGHT at p ≥ 0.62, since refunds don't build odds.
+  - Price.UBIAS league scoring corrections now apply in the picker.
+  - No Under (including capped Goal Bounds) in fixtures research flagged high_scoring; no Over in low_scoring ones.
+  - Capped bounds count as Unders for the 40% cap.
+  - Double Chance is dropped (ledger: 1X 0.38, 12 0.56).
+  - Kick-off cut-off (KOMIN) is set per run, and fixtures already on two of the day's slips are excluded (EXCLUDE file; the H25EVX edits).
+  - Nagasaki ML dropped: EASL round 1, basketball opener below p 0.90.
+- **M5NTNA (T600): 23 legs, 638x live.** Survival incl. refunds 1 in 1,555; all legs winning outright 1 in 3,736.
+- **QG8Y4S (T5000): 30 legs, 4,940x live.** 1 in 15,822 / 1 in 58,666.
+- **WT8MDM (T50000): 39 legs, 54,556x live.** 1 in 318,822 / 1 in 1.47M.
+- All three identity-verified. Mix: Unders ≤40%, three basketball totals plus two basketball MLs, and four "result" legs (LASK–Liverpool away, Bryne, Umraniyespor, Hoedd +0.5).
+- Grade at settlement: the v8.2 outright-p floor (all legs ≥0.62) vs earlier builds; the research-direction gates; Germany 3. Liga and Norway 1st Division clusters.

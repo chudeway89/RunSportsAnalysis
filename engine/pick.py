@@ -8,6 +8,12 @@ legs=json.load(open('cache/winmodel_legs.json'))
 # simply more optimistic than the book (winner's curse; the losing legs carried the larger optimistic gaps).
 _G=collections.defaultdict(list)
 for x in legs: _G[(x['eid'],x['mid'],x['spec'])].append(x)
+# v8.2: league scoring bias (price.UBIAS) applied to football O/U; research profile flags gate the direction
+from price import UBIAS
+for x in legs:
+    b=UBIAS.get(x['lg'].split(' / ')[0],0) if x['sport']=='football' and x['mid']=='18' else 0
+    if b and x['desc'].startswith('Under'): x['p']=max(x['p']+b,0)
+    if b and x['desc'].startswith('Over'): x['p']=min(x['p']-b,1)
 for k,g in _G.items():
     if len(g)==2 and all(x.get('pp',0)==0 for x in g):
         s=sum(1/x['odds'] for x in g)
@@ -16,7 +22,7 @@ TARGETS=[float(x) for x in sys.argv[1:]] or [500,5000,50000]
 PMIN=0.65; KOMIN=os.environ.get('KOMIN','10-13 11:00')
 JUNK=re.compile(r'women|\bw\b|u1[0-9]|u2[0-3]|youth|reserve|srl|friendl',re.I)
 RESULT={'1','10','11','16','219','223'}
-OK_FB={'1','10','11','16','18','19','20','450001','450002','450003'}
+OK_FB={'1','11','16','18','19','20','450001','450002','450003'}
 OK_BK={'219','223','225'}
 def country(x):
     lg=x['lg'].split(' / ')
@@ -25,12 +31,18 @@ def side(x):
     d=x['desc']
     if x['mid'] in('18','19','20','225') and d.startswith('Under'): return 'under'
     if x['mid'] in('18','19','20','225') and d.startswith('Over'): return 'over'
+    if x['mid'] in('450001','450002','450003') and '-' in d and not d.endswith('+'): return 'under'   # capped bounds = an Under
     return 'other'
+EXCL=set(json.load(open(os.environ['EXCLUDE']))) if os.environ.get('EXCLUDE') else set()
 def allowed(x):
+    if x['eid'] in EXCL: return False                                         # V4-5 fixture cap across the day's slips
     f=set(x['flags']); m=x['mid']; p=x['p']; d=x['desc']
     if x['veto'] or 'data_conflict' in f or 'women_or_youth' in f or JUNK.search(x['lg']+' '+x['fx']): return False
     if not (1.18<=x['odds']<=2.2): return False
     if x['p']+x.get('pp',0)<PMIN or x['ko']<KOMIN: return False
+    if p<0.62: return False                                                  # v8.2: must WIN outright >=62%, refunds don't build odds
+    if side(x)=='under' and 'high_scoring_profile' in f: return False
+    if d.startswith('Over') and 'low_scoring_profile' in f: return False
     if x['sport']=='football':
         if m not in OK_FB: return False
         if m=='10' and d=='Home or Away': return False                        # no-draw DC (L2/L54)
