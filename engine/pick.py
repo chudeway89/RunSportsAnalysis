@@ -1,7 +1,7 @@
 # Ticket builder on the v8 win-probability model. Ranks every leg by the probability it comes through (research-adjusted,
 # push/void branches counted as survival) per unit of odds it adds, then fills nested tickets to the targets.
 # Usage: python3 pick.py 500 5000 50000  -> cache/tickets.json  (reads cache/winmodel_legs.json)
-import json,sys,math,collections
+import json,sys,math,collections,os,re
 legs=json.load(open('cache/winmodel_legs.json'))
 # Oct 13 calibration: never let a model-vs-house disagreement make a leg look safer. For two-way non-integer lines,
 # the selection probability is min(model p, house devigged p) — stops the picker favouring legs where the model is
@@ -13,7 +13,8 @@ for k,g in _G.items():
         s=sum(1/x['odds'] for x in g)
         for x in g: x['p_model']=x['p']; x['p']=min(x['p'],(1/x['odds'])/s)
 TARGETS=[float(x) for x in sys.argv[1:]] or [500,5000,50000]
-PMIN=0.65; KOMIN='10-13 11:00'
+PMIN=0.65; KOMIN=os.environ.get('KOMIN','10-13 11:00')
+JUNK=re.compile(r'women|\bw\b|u1[0-9]|u2[0-3]|youth|reserve|srl|friendl',re.I)
 RESULT={'1','10','11','16','219','223'}
 OK_FB={'1','10','11','16','18','19','20','450001','450002','450003'}
 OK_BK={'219','223','225'}
@@ -27,7 +28,7 @@ def side(x):
     return 'other'
 def allowed(x):
     f=set(x['flags']); m=x['mid']; p=x['p']; d=x['desc']
-    if x['veto'] or 'data_conflict' in f: return False
+    if x['veto'] or 'data_conflict' in f or 'women_or_youth' in f or JUNK.search(x['lg']+' '+x['fx']): return False
     if not (1.18<=x['odds']<=2.2): return False
     if x['p']+x.get('pp',0)<PMIN or x['ko']<KOMIN: return False
     if x['sport']=='football':
@@ -55,7 +56,7 @@ def cost(x):
     pw,pp=x['p'],x.get('pp',0); s=pw+pp
     if s<=0.5 or pw<=0: return 9
     return -math.log(s)/((pw*math.log(x['odds']))/s)
-FLOOR={500:1.20,5000:1.20,50000:1.22}
+FLOOR={500:1.20,600:1.20,5000:1.20,50000:1.22}
 OK=[x for x in legs if allowed(x)]
 for x in OK: x['cost']=cost(x)
 def mkpool(floor):
