@@ -2263,3 +2263,23 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
   - No Under or capped Goal Bounds when the favourite's base 1X2 p ≥ 0.65 (rout tail, L70 family).
 - **Knife audit (HPKLPH remove-15):** removed legs went **11W/4L** (73%), kept legs 17W/4L/3V (81% of decided). The first 7 removals, ranked by lowest p, went 6W/1L. On a rout day the low-p Overs and away favourites landed. The knife added little again; only the reserve-veto legs (LKS Łódź II, San Martín reserves) were correct removals.
 - **Standing truth:** a 23-leg ticket at an average leg p of ~0.72 is 1 in ~1,500 even when every probability is right. That held today: 14 of 18 settled legs on M5NTNA won.
+
+### Oct 15 — full-board v8.3 ladder (built Oct 14 22:15 UTC; window to 23:00 UTC Oct 15): MZU7Z8 / K129QM / Y2H7T6 (DECLARED LOTTERIES, nested)
+- Board: 180 events (132 football, 38 basketball, 10 baseball), 176k outcomes. Covers Europa and Conference League MD2, the Libertadores semi first leg, the last MLS weeks, the LCS and the EuroLeague.
+- Seven research agents covered every fixture (`cache/factors15_G*.json`). They vetoed 14: women's (WK-League, WNBL), reserves (Al Rayyan Nextgen, Spartak-2, Lithuanian NKL II sides) and all 7 NBA preseason games.
+- Strongest mechanisms:
+  - NYCFC missing six vs Inter Miami.
+  - Celtic without Carter-Vickers at Benfica.
+  - Sunderland rotating.
+  - Mjallby winless in 10.
+  - Openda out for Lyon.
+  - Greenville 16th v Spokane.
+- **pick.py additions:** NBA preseason (`preseason` flag and the regex) is excluded, and there is a cap of ≤2 same-direction totals per league (L73).
+- **MZU7Z8 (T500): 23 legs, 495x live.** Survival 1 in 571; all legs winning outright 1 in 8,559 (lots of integer refund lines).
+- **K129QM (T5000): 31 legs, 5,066x live**, 1 in 8,811.
+- **Y2H7T6 (T50000): 39 legs, 57,063x live**, 1 in 165,801.
+- All three were identity-verified. The H25EVX fixtures (on 3 slips already) are excluded.
+- Grade:
+  - (a) the v8.3 mismatch-Under gate and knockout gate (none of today's cup totals made it);
+  - (b) the integer-line refund legs (MLS Over 2 ×2, UEL/UECL Under 4 ×4, AH ±1/±2 catches);
+  - (c) whether leg survival tracks model p (sum ≈ 17.4 of 23 on the T500).

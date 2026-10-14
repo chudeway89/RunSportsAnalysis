@@ -20,7 +20,7 @@ for k,g in _G.items():
         for x in g: x['p_model']=x['p']; x['p']=min(x['p'],(1/x['odds'])/s)
 TARGETS=[float(x) for x in sys.argv[1:]] or [500,5000,50000]
 PMIN=0.65; KOMIN=os.environ.get('KOMIN','10-13 11:00')
-JUNK=re.compile(r'women|\bw\b|u1[0-9]|u2[0-3]|youth|reserve|srl|friendl',re.I)
+JUNK=re.compile(r'women|\bw\b|u1[0-9]|u2[0-3]|youth|reserve|srl|friendl|preseason|pre-season',re.I)
 RESULT={'1','10','11','16','219','223'}
 OK_FB={'1','11','16','18','19','20','450001','450002','450003'}
 OK_BK={'219','223','225'}
@@ -87,13 +87,16 @@ def build(target,base=None,maxlegs=50):
     pool=mkpool(FLOOR.get(int(target),1.3))
     T=list(base or []); used={x['eid'] for x in T}
     cc=collections.Counter(country(x) for x in T); sd=collections.Counter(side(x) for x in T)
+    cs=collections.Counter((country(x),side(x)) for x in T if side(x)!='other')   # L73: <=2 same-direction totals per league
     def odds(L): return math.prod(x['odds'] for x in L)
     for x in pool:
         if odds(T)>=target or len(T)>=maxlegs: break
         if x['eid'] in used or cc[country(x)]>=3: continue
+        if side(x)!='other' and cs[(country(x),side(x))]>=2: continue
         n=len(T)+1; s=side(x)
         if s in('under','over') and (sd[s]+1)/n>0.40 and n>4: continue
         T.append(x); used.add(x['eid']); cc[country(x)]+=1; sd[s]+=1
+        if s!='other': cs[(country(x),s)]+=1
     return T
 out={}; base=None
 for t in TARGETS:
