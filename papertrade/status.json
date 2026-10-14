@@ -1,12 +1,10 @@
 {
- "date": "2026-10-12",
- "started": "2026-10-12 22:41",
- "finished": "2026-10-12 22:44",
- "snapshot_outcomes": 3467,
- "events": 60,
- "failed_steps": [
-  "python3 sr_scores.py cache/board_2026-10-12.json"
- ],
- "graded_line": "graded total 1746 (+0 new)   [2026-10-12 22:44 UTC]",
+ "date": "2026-10-14",
+ "started": "2026-10-14 00:36",
+ "finished": "2026-10-14 00:39",
+ "snapshot_outcomes": 5446,
+ "events": 101,
+ "failed_steps": [],
+ "graded_line": "graded total 4712 (+2437 new)   [2026-10-14 00:39 UTC]",
  "ok": true
 }
