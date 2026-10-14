@@ -2245,3 +2245,21 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
   - 4 AH +1 catches.
   - Parnu II excluded-goals: a reserve side, left in as the 16th cut.
 - Grade: removed-15 vs kept-24.
+
+## ═══ Calibration (Oct 14 settlement, 22:05 UTC) — v8.2 on-model a third day; a rout day killed the Unders; cup ties went to pens ═══
+- **Ladder, all DEAD:** M5NTNA (T600) 14W/5L/2V/2P, QG8Y4S (T5000) 16W/9L/2V/3P, WT8MDM (T50000) 24W/10L/2V/3P.
+- **User codes and edits, all dead:**
+  - PXA1NK 19W/10L, its edit PPBN7R 16W/8L.
+  - HPKLPH 28W/8L/3V, edits NV6M3X 23W/8L/3V, Q58KZW 19W/7L/3V, QDTV85 17W/4L/3V.
+  - The H25EVX family (U5Q1RC, UG3R90) died early on Bodø–Dortmund GG (1:0) and the EuroCup first-half Overs.
+  - Oct 13: ME7N2R 14W/5L/1V, H4L82L 20W/7L/1V, XASL5K 27W/8L/1V.
+- **Model calibration (WT8MDM, 36 settled legs): expected 26.2 survivals, actual 26.** Third straight day the v8 probabilities are right. The tickets die on arithmetic, not pricing.
+- **Where the 10 losses came from (three classes):**
+  1. **Cup knockout totals (90-min settlement): 0W/3L on Overs.** Boston River–River Plate went 0:0 at 90 (4:3 on pens). Volga–Murom went 0:0, then pens. Považská–Košice finished 0:2. Nagoya–Okayama Under 3.5 also lost: 3:3 at 90, then pens. Single-tie cup knockouts produce cagey 0-0s *and* chaotic 3-3s; totals there are coin-flips.
+  2. **Unders in mismatches lost to routs:** Lincoln 0:6 West Ham (U4), Antalyaspor 0:4 Kayserispor (U3.5), Wiesbaden 3:0 (home 0-2 bounds), Betis 3:2 (U4). It was a rout day across Europe (Villa 6:0, LASK 3:6, Aris 4:0, Nizhny 4:0, Strømsgodset 5:1). Unders went 10W/5L, Overs 9W/3L (all 3 Over losses were cup knockouts).
+  3. **Result-sides:** Bryne 1:1 Raufoss (research's collapsing-opponent mechanism, p .76) and Daegu KT ML (KBL, 82:69 home win).
+- **pick.py v8.3 (coded):**
+  - knockout_90min fixtures: no Overs; Unders need p ≥ 0.78.
+  - No Under or capped Goal Bounds when the favourite's base 1X2 p ≥ 0.65 (rout tail, L70 family).
+- **Knife audit (HPKLPH remove-15):** removed legs went **11W/4L** (73%), kept legs 17W/4L/3V (81% of decided). The first 7 removals, ranked by lowest p, went 6W/1L. On a rout day the low-p Overs and away favourites landed. The knife added little again; only the reserve-veto legs (LKS Łódź II, San Martín reserves) were correct removals.
+- **Standing truth:** a 23-leg ticket at an average leg p of ~0.72 is 1 in ~1,500 even when every probability is right. That held today: 14 of 18 settled legs on M5NTNA won.

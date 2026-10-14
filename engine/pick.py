@@ -42,6 +42,11 @@ def allowed(x):
     if x['p']+x.get('pp',0)<PMIN or x['ko']<KOMIN: return False
     if p<0.62: return False                                                  # v8.2: must WIN outright >=62%, refunds don't build odds
     if side(x)=='under' and 'high_scoring_profile' in f: return False
+    # v8.3 (Oct 14): cup knockouts settle on 90' and often end 0-0 -> pens; no Overs, other totals need p>=0.78
+    if 'knockout_90min' in f and side(x)=='over': return False
+    if 'knockout_90min' in f and side(x)=='under' and p<0.78: return False
+    # v8.3: Unders/capped bounds in mismatches carry the rout tail (Lincoln 0-6, Antalya 0-4)
+    if x['sport']=='football' and side(x)=='under' and x.get('fav_p',0)>=0.65: return False
     if d.startswith('Over') and 'low_scoring_profile' in f: return False
     if x['sport']=='football':
         if m not in OK_FB: return False
