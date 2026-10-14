@@ -2225,3 +2225,9 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - **WT8MDM (T50000): 39 legs, 54,556x live.** 1 in 318,822 / 1 in 1.47M.
 - All three identity-verified. Mix: Unders ≤40%, three basketball totals plus two basketball MLs, and four "result" legs (LASK–Liverpool away, Bryne, Umraniyespor, Hoedd +0.5).
 - Grade at settlement: the v8.2 outright-p floor (all legs ≥0.62) vs earlier builds; the research-direction gates; Germany 3. Liga and Norway 1st Division clusters.
+
+### Oct 14 — user code PXA1NK (30 legs, 14,161x, house 1 in 47,428), analysed 12:15 UTC — remove 3
+- Two legs were already in play at fetch, so they can't be rebooked: Olympiacos B v Kallithea O1.5 (a reserve side our research vetoed; p .58) and Leningradets 1UP (research data_conflict, the duplicate cup listing; p .57). Both still settle on the original.
+- Removed the three weakest bookable legs on the v8 model (all in our Oct 14 research): Aris Limassol–Ethnikos O2.5 (.58; cup tie with rotation risk), Nizhny team O1.5 v Shinnik (.59; Shinnik conceded 7 in 10, cup knockout), Norwich–Southampton O2.5 (.60–.63).
+- **PPBN7R: 25 legs, 1,369x, house 1 in 3,463.** Identity-verified. Still a lottery: 6 Norway 1st Division Overs (correlated round) plus 4 Russian Cup legs.
+- Overlap with my M5NTNA/QG8Y4S/WT8MDM ladder: Strømmen, Bryne, Moss, LASK, Slovan, Antalya, Viktoria Köln, Haugesund-adjacent fixtures. The user's book is heavily correlated today.
