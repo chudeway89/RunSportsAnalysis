@@ -2231,3 +2231,17 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - Removed the three weakest bookable legs on the v8 model (all in our Oct 14 research): Aris Limassol–Ethnikos O2.5 (.58; cup tie with rotation risk), Nizhny team O1.5 v Shinnik (.59; Shinnik conceded 7 in 10, cup knockout), Norwich–Southampton O2.5 (.60–.63).
 - **PPBN7R: 25 legs, 1,369x, house 1 in 3,463.** Identity-verified. Still a lottery: 6 Norway 1st Division Overs (correlated round) plus 4 Russian Cup legs.
 - Overlap with my M5NTNA/QG8Y4S/WT8MDM ladder: Strømmen, Bryne, Moss, LASK, Slovan, Antalya, Viktoria Köln, Haugesund-adjacent fixtures. The user's book is heavily correlated today.
+
+### Oct 14 — user code HPKLPH (39 legs, 795,276x, house 1 in 6.8M), analysed 12:16 UTC — remove 5 / 10 / 15
+- Nothing had started at fetch. Most fixtures were already covered by the Oct 14 research. Three legs are on research-vetoed reserve sides: Parnu Vaprus II, LKS Lodz II and Al Shamal Future.
+- **Removal order** (house/model p, then research flags):
+  - **First 5:** Lincoln–West Ham away −1 @2.25 (.42), Shakhtar–AEK O2.5 (.51), Palace U21 DC&O2.5 AND-combo (.57), Recife U20 O2.5 (.58), Aris Limassol O2.5 (.60, cup rotation).
+  - **Next 5:** Botev Plovdiv cup 1X2 (.60), Villa–Fener O2.5 (.60), Petah Tikva U19 O2.5 (.60), Makhachkala–Zenit away 1X2 (cup, rotation), Al Shamal Future away 1X2 (reserve veto).
+  - **Last 5:** Bodø–Dortmund O3 (model win .50), Hødd away WEH (.62), San Martín reserves away 1X2 (.62), LKS Lodz II GG (reserve veto), Mezőkövesd +1 (data conflict).
+- **NV6M3X (rm-5): 34 legs, 46,078x, house 1 in 283k. Q58KZW (rm-10): 29 legs, 4,989x, 1 in 22,850. QDTV85 (rm-15): 24 legs, 789x, 1 in 2,605.** All identity-verified. Declared lotteries.
+- **Still on rm-15:**
+  - 3 second-half DC legs (Betis U19, Stabæk, Strømsgodset).
+  - Integer O/U legs (Slovan O3, Haugesund O3, Sogndal O3).
+  - 4 AH +1 catches.
+  - Parnu II excluded-goals: a reserve side, left in as the 16th cut.
+- Grade: removed-15 vs kept-24.
