@@ -2283,3 +2283,8 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
   - (a) the v8.3 mismatch-Under gate and knockout gate (none of today's cup totals made it);
   - (b) the integer-line refund legs (MLS Over 2 ×2, UEL/UECL Under 4 ×4, AH ±1/±2 catches);
   - (c) whether leg survival tracks model p (sum ≈ 17.4 of 23 on the T500).
+
+### Oct 15 — user code KPHAGP (30 legs, 5,539x, house 1 in 18,099), UEL/UECL MD2 + Saudi — remove 3
+- Nothing started at fetch (12:28 UTC). Removed the 3 weakest on model/house p plus research flags: CSKA Sofia–Monaco O2.5 @1.59 (house .60, model .58), Benfica–Celtic bookings O2.5 @1.50 (.63; Benfica xG 2.85 v 0.75 — lopsided games produce fewer cards, v6 card model), Freiburg–Jablonec O2.5 @1.46 (.65, rotation_risk with a Bundesliga game 3 days later).
+- **Q2TSRV: 27 legs, 1,591x, house 1 in 4,486.** Identity-verified. Declared lottery. Next in line: Salzburg–Milan away 1UP (.66, Salzburg missing 4, Milan drawing), Ferencvaros 1UP (.66), Lugano A-or-O2.5 (.68), Hearts 0-15 min draw (.68), Marseille home corners O3.5 (.69).
+- Overlap: several UEL/UECL fixtures also sit on MZU7Z8/K129QM/Y2H7T6 — correlated book on one European night.
