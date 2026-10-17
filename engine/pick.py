@@ -49,7 +49,9 @@ def allowed(x):
     if x['sport']=='football' and side(x)=='under' and x.get('fav_p',0)>=0.65: return False
     if d.startswith('Over') and 'low_scoring_profile' in f: return False
     # v8.4 (Oct 15): big-club clashes have fat-tailed totals (L13: Flu-Palmeiras U2.5 1-2) -> totals need p>=0.82
-    if 'big_club' in f and side(x)!='other' and p<0.82: return False
+    if ({'big_club','derby'}&f) and side(x)!='other' and p<0.82: return False
+    # Oct 9 Shelbourne lesson: a model p far above the house's own price is model error, not value
+    if p-0.95/x['odds']>0.10: return False
     if x['sport']=='football':
         if m not in OK_FB: return False
         if m=='10' and d=='Home or Away': return False                        # no-draw DC (L2/L54)

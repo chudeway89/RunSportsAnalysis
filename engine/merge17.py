@@ -1,12 +1,14 @@
 import json,glob
 auto={a['eid']:a for a in json.load(open('cache/auto17.json'))}
+for a in json.load(open('cache/auto17n.json')): auto[a['eid']]=a
 res={}
 for f in glob.glob('cache/factors17_G*.json'):
     try:
         for r in json.load(open(f)): res[r['eid']]=r
     except Exception as ex: print('bad',f,ex)
 out=[]
-for eid,a in auto.items():
+for eid in set(auto)|set(res):
+    a=auto.get(eid,{'eid':eid,'flags':[]})
     r=res.get(eid)
     if r:
         m=dict(r); m['flags']=sorted(set(r.get('flags',[]))|set(a.get('flags',[])))
