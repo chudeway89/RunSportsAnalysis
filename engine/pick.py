@@ -48,6 +48,8 @@ def allowed(x):
     # v8.3: Unders/capped bounds in mismatches carry the rout tail (Lincoln 0-6, Antalya 0-4)
     if x['sport']=='football' and side(x)=='under' and x.get('fav_p',0)>=0.65: return False
     if d.startswith('Over') and 'low_scoring_profile' in f: return False
+    # v8.4 (Oct 15): big-club clashes have fat-tailed totals (L13: Flu-Palmeiras U2.5 1-2) -> totals need p>=0.82
+    if 'big_club' in f and side(x)!='other' and p<0.82: return False
     if x['sport']=='football':
         if m not in OK_FB: return False
         if m=='10' and d=='Home or Away': return False                        # no-draw DC (L2/L54)
@@ -65,6 +67,7 @@ def allowed(x):
         if m=='223':
             h=abs(float(x['spec'].split('=')[1]))
             if h<8.5 and p<0.80: return False                               # close spreads (L52)
+            if h>=12.5 and '+' in d and x['conf']<0.3: return False         # v8.4: wide catch needs researched credible receiver (ASVEL +18.5, L26)
         if m=='225' and x['p']<0.70: return False
         if 'season_opener' in f and m in RESULT: return False
         if x['conf']<0.2 and p<0.78: return False
