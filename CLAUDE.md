@@ -2305,3 +2305,14 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - **YBQJVV (P80, my choice)**: 6 legs each ≥0.80 to win outright, 2.9x, honest ~1 in 4 (Kimberley bounds 1-4, Tampa home goals 0-2, Troyes-Lens O1.5, Santos-Queretaro bounds 0-4, USG B bounds 0-4, Pisa-Cremonese bounds 1-4). Kept off the ladder's fixtures.
 - **JUSQ3Z (basketball only)**: 6 legs, 6.8x, ~1 in 10 (Burgos ML, Limoges-ASVEL U176.5, Andorra-Breogan O175.5, Kapfenberg -10.5, Zamora away ML, Hapoel J-Beer Sheva O160.5). Burgos/Limoges also on the ladder.
 - All six identity-verified; added to papertrade/tickets.txt for auto-settlement.
+
+## ═══ Calibration (Oct 17 settlement, 21:40 UTC) — legs on-model again; basketball moneylines 0W/3L killed the ladder ═══
+- **Ladder S6N0KG / RL8HMU / XMV4RQ / RPXBYX DEAD** (all share the same 3 early losers); **JUSQ3Z (basketball) DEAD 3W/3L**; **YBQJVV (P80) ALIVE 4W/0L** with Tampa home 0-2 and Santos-Queretaro 0-4 pending tonight.
+- **Calibration: 27 unique settled legs, model expected 19.2 survivals, actual 21** — fifth straight day the v8 probabilities are right or slightly conservative.
+- **By class:** football 15W/2L/1V (bounds 4/4, Under 3.5/4 ×4 all won incl. Valencia 0:0, Over 1.5 ×3 won, integer Over 2 one void + one win, catches 3/3); basketball totals 4W/1L; basketball handicap 1/1; **basketball moneylines 0W/3L** (Burgos @1.45 lost 72:79, Zamora away @1.39 lost 89:81, Opava @1.40 lost 77:88).
+- **Luck vs process:**
+  - Basketball MLs (PROCESS) — all three sat at p .65-.67, the L78 no-information band, in early-season Euro basketball where openers already burned us (Sep 27). A .66 ML loses 1 in 3; three of them on one ladder is a structural risk, not bad luck. **v8.5 coded: basketball ML needs p≥0.75.**
+  - Dundee 2:2 Rangers, away 1X2 @1.42 (PROCESS, partly luck) — research had flagged big_club; an away favourite on the 1X2 (no draw protection) in Scotland is the L63/XJ52D3 class. A DNB would have voided. **v8.5 coded: away 1X2 needs p≥0.75, otherwise use DNB/catch.**
+  - Limoges–ASVEL Under 176.5 (LUCK) — p .71, game finished 191; ordinary tail of a 0.71 leg.
+  - Al Quwa–Al Karma Over 1.5 0:0 (MILD PROCESS) — Iraqi league Over at .67, thin-league goals class; mid-band leg.
+- **What worked:** capped bounds in data-rich contexts (Pisa 1-4, USG B 0-4, Kimberley 1-4, Mandel 0-4: 4/4), Unders in low-scoring top flights (Valencia, Rapid, Las Palmas), wide basketball handicap with a credible favourite (Kapfenberg -10.5), integer refund lines (Hannover Over 2 voided on 1:1).

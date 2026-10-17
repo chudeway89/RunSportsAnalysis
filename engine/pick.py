@@ -56,6 +56,7 @@ def allowed(x):
         if m not in OK_FB: return False
         if m=='10' and d=='Home or Away': return False                        # no-draw DC (L2/L54)
         if m=='1' and p<0.62: return False
+        if m=='1' and d=='Away' and p<0.75: return False                    # v8.5: away 1X2 (Dundee 2-2 Rangers) -> DNB/catch instead
         if m in('450001','450002','450003') and p<0.80: return False        # capped bounds burned in thin leagues (Oct 7)
         amateur=any(k in x['lg'] for k in('Amateur','Reserve','Regional'))
         if amateur and (d.startswith('Under') or m in('450001','450002','450003')): return False   # amateur routs (Oct 13: 0/3)
@@ -81,6 +82,7 @@ def allowed(x):
             if h<8.5 and p<0.80: return False                               # close spreads (L52)
             if h>=12.5 and '+' in d and x['conf']<0.3: return False         # v8.4: wide catch needs researched credible receiver (ASVEL +18.5, L26)
         if m=='225' and x['p']<0.70: return False
+        if m=='219' and p<0.75: return False                                 # v8.5 (Oct 17): bball MLs at .65-.67 went 0W/3L (Burgos, Zamora, Opava)
         if 'season_opener' in f and m in RESULT: return False
         if x['conf']<0.2 and p<0.78: return False
     return True
