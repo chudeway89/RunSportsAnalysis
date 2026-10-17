@@ -35,6 +35,10 @@ jobs:
           if [ -z "$MODE" ]; then [ "${{ github.event.schedule }}" = '0 11 * * *' ] && MODE=grade || MODE=full; fi
           echo "mode=$MODE"
           if [ "$MODE" = grade ]; then python3 grade.py; else python3 daily.py; fi
+      - name: Settle posted tickets
+        if: always()
+        working-directory: engine
+        run: python3 settle_tickets.py || echo 'ticket settlement failed (non-fatal)'
       - name: Journal (always, so failures are recorded too)
         if: always()
         working-directory: engine
