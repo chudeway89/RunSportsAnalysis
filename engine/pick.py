@@ -62,6 +62,16 @@ def allowed(x):
         if 'knockout_90min' in f and m in('1','16','10'): return False      # L56: only DNB/totals on knockouts
         if 'rotation_risk' in f and p<0.78: return False                    # L66
         if x['conf']<0.2 and p<0.78: return False                           # unresearched -> only near-locks
+    elif x['sport']=='baseball':
+        # L12/L21/L37/L59: wide +3.5 or wider run-line catches; no -1.5; ML only p>=0.65 with researched starters
+        if m=='256':
+            line=float(x['desc'].split('(')[1].rstrip(')'))
+            if line<3.5: return False
+        elif m=='251':
+            if p<0.65 or x['conf']<0.3 or 'unconfirmed' in str(x.get('starters','unconfirmed')).lower(): return False
+        elif m=='258':
+            if x['conf']<0.3 or p<0.70: return False
+        else: return False
     else:
         if m not in OK_BK: return False
         if m=='223':

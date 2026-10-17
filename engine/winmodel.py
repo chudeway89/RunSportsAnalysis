@@ -96,4 +96,27 @@ if __name__=='__main__':
                     out.append(dict(eid=eid,sid=e['sid'],sport='basketball',lg=e['lg'],fx=e['fx'],ko=e['ko'],mid=o['mid'],spec=o['spec'],desc=o['desc'],
                         mdesc=o.get('mdesc',''),oid=o['oid'],odds=o['odds'],p_base=round(base.get(id(o),pw),4),p=round(pw,4),pp=0.0,flags=f.get('flags',[]),
                         veto=bool(f.get('veto')),mu=(round(b2['muT'],1),round(b2['muM'],1)),mu0=(round(b['muT'],1),round(b['muM'],1)),conf=c))
+            elif e['sport']=='baseball':
+                from live_sports import ladder,two_way
+                from mlb_emp import p_total_over,p_fav_cover
+                Cb=json.load(open('coef_mlb_emp.json'))
+                T=ladder(e,'258','Over','Under'); ph0=two_way(e,'251')
+                if not T or ph0 is None: continue
+                ph=ph0
+                if f.get('p_home_win'): ph=ph0+W*c*(float(f['p_home_win'])-ph0)
+                ou=min(T,key=lambda x:abs(x[1]-0.5))[0]; pf=max(ph,1-ph); fh=ph>=0.5; rows=[]
+                for v,pp_,oa,ob in T:
+                    po=p_total_over(Cb,ou,v)
+                    if po is not None: rows+=[(oa,po),(ob,1-po)]
+                for v,pp_,oa,ob in ladder(e,'256','Home','Away'):
+                    if v==int(v): continue
+                    pc=p_fav_cover(Cb,pf,v if fh else -v)
+                    if pc is None: continue
+                    pH_=pc if fh else 1-pc; rows+=[(oa,pH_),(ob,1-pH_)]
+                for o in e['mk']:
+                    if o['mid']=='251': rows.append((o,ph if o['desc']=='Home' else 1-ph))
+                for o,pw in rows:
+                    out.append(dict(eid=eid,sid=e['sid'],sport='baseball',lg=e['lg'],fx=e['fx'],ko=e['ko'],mid=o['mid'],spec=o['spec'],desc=o['desc'],
+                        mdesc=o.get('mdesc',''),oid=o['oid'],odds=o['odds'],p_base=round(pw,4),p=round(pw,4),pp=0.0,flags=f.get('flags',[]),
+                        veto=bool(f.get('veto')),conf=c,starters=f.get('starters','')))
         json.dump(out,open('cache/winmodel_legs.json','w')); print('legs',len(out),'fixtures',len(set(x['eid'] for x in out)))
