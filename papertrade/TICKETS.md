@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-20 00:43 UTC. Totals: 0 won · 46 dead · 4 alive · 0 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-20 15:37 UTC. Totals: 0 won · 49 dead · 1 alive · 0 expired.
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -51,6 +51,6 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-10-19 | PB5W5S | ZPMR5Q remove-10 | 28 | 18W/8L/2V/0P | DEAD | Trabzonspor v Besiktas Istanbul — Over/Under Over 3 (2:0); Al Hilal SFC v Al-Hazm — Over/Under Over 3 (1:0); AS Giana Erminio v Union Brescia — Asian Handicap 1 Away (-1.0) (2:1); FC Torpedo Belaz Zhodino v Naftan Novopolotsk — Over/Under Over 2 (1:0); AC Omonia Nicosia v Olympiakos Nicosia — 1X2 Home (2:2); Beitar Jerusalem FC v Maccabi Tel Aviv FC — Over/Under Over 3 (0:0); Varbergs BoIS v Helsingborgs IF — Home Team or Over 2.5 Yes (0:0); Bursaspor v Pendikspor — Over/Under Over 3 (2:0) |
 | 2026-10-19 | NDJWE0 | ZPMR5Q remove-15 | 23 | 17W/5L/1V/0P | DEAD | Al Hilal SFC v Al-Hazm — Over/Under Over 3 (1:0); FC Torpedo Belaz Zhodino v Naftan Novopolotsk — Over/Under Over 2 (1:0); AC Omonia Nicosia v Olympiakos Nicosia — 1X2 Home (2:2); Beitar Jerusalem FC v Maccabi Tel Aviv FC — Over/Under Over 3 (0:0); Varbergs BoIS v Helsingborgs IF — Home Team or Over 2.5 Yes (0:0) |
 | 2026-10-19 | R1XC8N | MAIN 5 legs 2.9x (UCL catches + Wolves O1.5) | 5 | 0W/0L/0V/5P | ALIVE |  |
-| 2026-10-19 | RN3XSC | T500 v8.5 22 legs | 22 | 0W/0L/0V/22P | ALIVE |  |
-| 2026-10-19 | HP1G13 | T5000 29 legs | 29 | 1W/0L/0V/28P | ALIVE |  |
-| 2026-10-19 | J3QRUG | T50000 38 legs | 37 | 1W/0L/0V/36P | ALIVE |  |
+| 2026-10-19 | RN3XSC | T500 v8.5 22 legs | 22 | 4W/1L/0V/17P | DEAD | AD Pasto v Alianza FC Valledupar — Over/Under Over 1.5 (0:1) |
+| 2026-10-19 | HP1G13 | T5000 29 legs | 29 | 7W/3L/0V/19P | DEAD | AD Pasto v Alianza FC Valledupar — Over/Under Over 1.5 (0:1); Real Cartagena FC v Boyaca Patriotas — Asian Handicap -1.5 Away (+1.5) (3:0); Antigua GFC v CSD Xelaju MC — Asian Handicap -1.5 Away (+1.5) (3:0) |
+| 2026-10-19 | J3QRUG | T50000 38 legs | 37 | 11W/4L/0V/22P | DEAD | AD Pasto v Alianza FC Valledupar — Over/Under Over 1.5 (0:1); Real Cartagena FC v Boyaca Patriotas — Asian Handicap -1.5 Away (+1.5) (3:0); Antigua GFC v CSD Xelaju MC — Asian Handicap -1.5 Away (+1.5) (3:0); Xinjiang Flying Tigers v Tianjin Pioneers — Over/Under (incl. overtime) 187.5 Under 187.5 (107:92) |
