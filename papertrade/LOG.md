@@ -9,3 +9,4 @@
 - 2026-10-18: snapshot 3068 outcomes / 57 events; graded total 22724 (+3673 new)   [2026-10-18 23:47 UTC]
 - 2026-10-20: snapshot 4601 outcomes / 92 events; graded total 25221 (+963 new)   [2026-10-20 00:42 UTC]
 - 2026-10-21: snapshot 7278 outcomes / 127 events; graded total 29016 (+2491 new)   [2026-10-21 00:10 UTC]
+- 2026-10-22: snapshot 5475 outcomes / 105 events; graded total 34221 (+3281 new)   [2026-10-22 00:15 UTC]
