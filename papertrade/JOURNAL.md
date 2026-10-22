@@ -382,3 +382,22 @@ Graded outcomes to date: 34221
 | baseball | 256 | 56 | 0.5872 | 0.5613 | +0.0259 | 0 | +0.000 | collecting |
 | baseball | 251 | 36 | 0.7123 | 0.7134 | -0.0011 | 0 | +0.000 | collecting |
 
+## Day 21 — 2026-10-22 15:51 UTC
+Run: OK | snapshot 5475 outcomes / 105 events | failed steps: none
+Graded outcomes to date: 36926
+
+| Sport | Market | n | Model LL | House LL | Δ (neg = model better) | EV picks | Picks ROI | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| basketball | 225 | 14794 | 0.6415 | 0.6414 | +0.0001 | 1 | +1.950 | FAIL (house better) |
+| basketball | 223 | 7543 | 0.6516 | 0.6519 | -0.0004 | 87 | +0.096 | **PASS** |
+| basketball | 227 | 3680 | 0.6884 | 0.6886 | -0.0002 | 0 | +0.000 | FAIL (picks lose) |
+| football | 900300 | 3029 | 0.6215 | 0.6151 | +0.0065 | 486 | +0.020 | FAIL (house better) |
+| basketball | 228 | 2822 | 0.6890 | 0.6892 | -0.0002 | 0 | +0.000 | FAIL (picks lose) |
+| football | 166 | 2481 | 0.6524 | 0.6503 | +0.0022 | 79 | -0.333 | FAIL (house better) |
+| football | 900301 | 972 | 0.7220 | 0.6663 | +0.0557 | 157 | -0.127 | FAIL (house better) |
+| football | 139 | 826 | 0.5871 | 0.5983 | -0.0112 | 170 | +0.109 | **PASS** |
+| basketball | 219 | 627 | 0.6655 | 0.6676 | -0.0021 | 0 | +0.000 | FAIL (picks lose) |
+| baseball | 258 | 60 | 0.6474 | 0.6464 | +0.0011 | 3 | -0.223 | collecting |
+| baseball | 256 | 56 | 0.5872 | 0.5613 | +0.0259 | 0 | +0.000 | collecting |
+| baseball | 251 | 36 | 0.7123 | 0.7134 | -0.0011 | 0 | +0.000 | collecting |
+
