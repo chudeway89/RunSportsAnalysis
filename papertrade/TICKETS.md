@@ -1,17 +1,17 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-22 15:51 UTC. Totals: 0 won · 50 dead · 0 alive · 0 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-23 00:14 UTC. Totals: 0 won · 42 dead · 0 alive · 8 expired.
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
-| 2026-10-11 | UR8QZ6 | v5 T500 | 15 | 9W/6L/0V/0P | DEAD | Saint Louis City SC v Los Angeles Galaxy — Over/Under Under 4.5 (6:2); Lyn 1896 FK v Stroemsgodset IF — Over/Under Under 4.5 (1:5); IK Start v HamKam — Over/Under Under 3.5 (2:4); Deportes Limache v CD Palestino — Over/Under Under 3.5 (2:2); Eyupspor v Goztepe Izmir — Over/Under Under 3.5 (0:4); Pyramids FC v Ceramica Cleopatra — Asian Handicap -1.5 Away (+1.5) (4:1) |
-| 2026-10-11 | RLSKXV | v5 T5000 | 21 | 10W/11L/0V/0P | DEAD | Kongsvinger IL Toppfotball v Ranheim — Over/Under Under 5.5 (6:2); Saint Louis City SC v Los Angeles Galaxy — Over/Under Under 4.5 (6:2); FC Famalicao v Alverca Futebol — Over/Under Under 3.5 (1:4); Lyn 1896 FK v Stroemsgodset IF — Over/Under Under 4.5 (1:5); IK Start v HamKam — Over/Under Under 3.5 (2:4); Deportes Limache v CD Palestino — Over/Under Under 3.5 (2:2); Eyupspor v Goztepe Izmir — Over/Under Under 3.5 (0:4); Aalesunds FK v Sarpsborg 08 — Over/Under Under 4.5 (2:4); FK Zeleziarne Podbrezova v Spartak Trnava — Over/Under Under 3.5 (1:3); Pyramids FC v Ceramica Cleopatra — Asian Handicap -1.5 Away (+1.5) (4:1); Mallorca v Las Palmas — Asian Handicap -1.5 Away (+1.5) (3:1) |
-| 2026-10-12 | PQJDEG | core 5-leg | 5 | 2W/3L/0V/0P | DEAD | Gremio Novorizontino SP v AA Ponte Preta SP — Asian Handicap -3.5 Away (+3.5) (5:1); Levante v Sevilla — Over/Under Under 3.5 (3:3); Coventry City v Newcastle — Over/Under Under 3.5 (4:1) |
-| 2026-10-12 | TQZZS5 | T50 | 11 | 3W/8L/0V/0P | DEAD | Gremio Novorizontino SP v AA Ponte Preta SP — Asian Handicap -3.5 Away (+3.5) (5:1); Coventry City v Newcastle — Over/Under Under 3.5 (4:1); Levante v Sevilla — Over/Under Under 3.5 (3:3); Al Wasl FC v Al Ahli Saudi FC — Over/Under Under 3.5 (1:3); FC Famalicao v Alverca Futebol — Over/Under Under 3.5 (1:4); Eyupspor v Goztepe Izmir — Over/Under Under 3.5 (0:4); AC Oulu v HJK Helsinki — Over/Under Under 3.5 (3:4); ACS Champions FC Arges v CFR Cluj — Over/Under Over 1.5 (0:1) |
-| 2026-10-12 | HCJF3K | NKZMHS core | 5 | 4W/1L/0V/0P | DEAD | Real Oviedo v Eibar — Asian Handicap -1 Away (+1.0) (3:1) |
-| 2026-10-12 | JFVGDN | NKZMHS edit | 12 | 8W/1L/3V/0P | DEAD | Real Oviedo v Eibar — Asian Handicap -1 Away (+1.0) (3:1) |
-| 2026-10-12 | SD3NA6 | NKZMHS rm-5 | 32 | 25W/3L/4V/0P | DEAD | Real Oviedo v Eibar — Asian Handicap -1 Away (+1.0) (3:1); Bristol City U21 v Exeter City Reserve — Home Team to Win Either Half Yes (3:5); FK Spartak Subotica v FK IMT — Goal Bounds 3-5+ (0:1) |
-| 2026-10-12 | T46P50 | NKZMHS rm-10 | 27 | 21W/3L/3V/0P | DEAD | Real Oviedo v Eibar — Asian Handicap -1 Away (+1.0) (3:1); Bristol City U21 v Exeter City Reserve — Home Team to Win Either Half Yes (3:5); FK Spartak Subotica v FK IMT — Goal Bounds 3-5+ (0:1) |
+| 2026-10-11 | UR8QZ6 | v5 T500 | – | – | N/A (expired) | |
+| 2026-10-11 | RLSKXV | v5 T5000 | – | – | N/A (expired) | |
+| 2026-10-12 | PQJDEG | core 5-leg | – | – | N/A (expired) | |
+| 2026-10-12 | TQZZS5 | T50 | – | – | N/A (expired) | |
+| 2026-10-12 | HCJF3K | NKZMHS core | – | – | N/A (expired) | |
+| 2026-10-12 | JFVGDN | NKZMHS edit | – | – | N/A (expired) | |
+| 2026-10-12 | SD3NA6 | NKZMHS rm-5 | – | – | N/A (expired) | |
+| 2026-10-12 | T46P50 | NKZMHS rm-10 | – | – | N/A (expired) | |
 | 2026-10-12 | P1WVMV | overnight T50 | 11 | 5W/6L/0V/0P | DEAD | Red Bull Bragantino SP v Cruzeiro EC MG — Over/Under Under 3.5 (4:2); Chapecoense SC v CA Paranaense PR — Asian Handicap 1.5 Home (+1.5) (1:4); Botafogo FC SP v Ceara SC CE — Over/Under Over 1.5 (1:0); Dragones de Oaxaca v Guerreros Del Pacífico FC — Goal Bounds - Home 0-2 (5:1); Tampa Bay Rays v Cleveland Guardians — Total (incl. extra innings) Under 8.5 (3:7); Mineros de Zacatecas v Diablos Rojos Del Mexico — Over/Under (incl. overtime) 180.5 Under 180.5 (97:86) |
 | 2026-10-13 | ME7N2R | v8 T500 | 20 | 14W/5L/1V/0P | DEAD | Ebbsfleet United FC v AFC Totton — Over/Under Under 4.5 (5:0); Simba SC v Mashujaa FC — Asian Handicap -2.5 Away (+2.5) (6:1); Arsenal v Lille — Asian Handicap -2.5 Away (+2.5) (3:0); USM Alger v JS Saoura — Over/Under Over 1.5 (1:0); Ilzer SV v USV St. Anna am Aigen — Over/Under Under 4.5 (4:1) |
 | 2026-10-13 | H4L82L | v8 T5000 | 28 | 20W/7L/1V/0P | DEAD | Ebbsfleet United FC v AFC Totton — Over/Under Under 4.5 (5:0); Simba SC v Mashujaa FC — Asian Handicap -2.5 Away (+2.5) (6:1); Arsenal v Lille — Asian Handicap -2.5 Away (+2.5) (3:0); USM Alger v JS Saoura — Over/Under Over 1.5 (1:0); Ilzer SV v USV St. Anna am Aigen — Over/Under Under 4.5 (4:1); Lugazi Municipal FC v Bul FC — Over/Under Over 1.5 (0:0); Havant & Waterlooville v Basingstoke Town FC — Goal Bounds 0-4 (4:1) |
