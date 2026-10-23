@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-23 00:14 UTC. Totals: 0 won · 42 dead · 0 alive · 8 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-23 15:42 UTC. Totals: 0 won · 41 dead · 0 alive · 9 expired.
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -12,7 +12,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-10-12 | JFVGDN | NKZMHS edit | – | – | N/A (expired) | |
 | 2026-10-12 | SD3NA6 | NKZMHS rm-5 | – | – | N/A (expired) | |
 | 2026-10-12 | T46P50 | NKZMHS rm-10 | – | – | N/A (expired) | |
-| 2026-10-12 | P1WVMV | overnight T50 | 11 | 5W/6L/0V/0P | DEAD | Red Bull Bragantino SP v Cruzeiro EC MG — Over/Under Under 3.5 (4:2); Chapecoense SC v CA Paranaense PR — Asian Handicap 1.5 Home (+1.5) (1:4); Botafogo FC SP v Ceara SC CE — Over/Under Over 1.5 (1:0); Dragones de Oaxaca v Guerreros Del Pacífico FC — Goal Bounds - Home 0-2 (5:1); Tampa Bay Rays v Cleveland Guardians — Total (incl. extra innings) Under 8.5 (3:7); Mineros de Zacatecas v Diablos Rojos Del Mexico — Over/Under (incl. overtime) 180.5 Under 180.5 (97:86) |
+| 2026-10-12 | P1WVMV | overnight T50 | – | – | N/A (expired) | |
 | 2026-10-13 | ME7N2R | v8 T500 | 20 | 14W/5L/1V/0P | DEAD | Ebbsfleet United FC v AFC Totton — Over/Under Under 4.5 (5:0); Simba SC v Mashujaa FC — Asian Handicap -2.5 Away (+2.5) (6:1); Arsenal v Lille — Asian Handicap -2.5 Away (+2.5) (3:0); USM Alger v JS Saoura — Over/Under Over 1.5 (1:0); Ilzer SV v USV St. Anna am Aigen — Over/Under Under 4.5 (4:1) |
 | 2026-10-13 | H4L82L | v8 T5000 | 28 | 20W/7L/1V/0P | DEAD | Ebbsfleet United FC v AFC Totton — Over/Under Under 4.5 (5:0); Simba SC v Mashujaa FC — Asian Handicap -2.5 Away (+2.5) (6:1); Arsenal v Lille — Asian Handicap -2.5 Away (+2.5) (3:0); USM Alger v JS Saoura — Over/Under Over 1.5 (1:0); Ilzer SV v USV St. Anna am Aigen — Over/Under Under 4.5 (4:1); Lugazi Municipal FC v Bul FC — Over/Under Over 1.5 (0:0); Havant & Waterlooville v Basingstoke Town FC — Goal Bounds 0-4 (4:1) |
 | 2026-10-13 | XASL5K | v8 T50000 | 36 | 27W/8L/1V/0P | DEAD | Ebbsfleet United FC v AFC Totton — Over/Under Under 4.5 (5:0); Simba SC v Mashujaa FC — Asian Handicap -2.5 Away (+2.5) (6:1); Arsenal v Lille — Asian Handicap -2.5 Away (+2.5) (3:0); USM Alger v JS Saoura — Over/Under Over 1.5 (1:0); Ilzer SV v USV St. Anna am Aigen — Over/Under Under 4.5 (4:1); Lugazi Municipal FC v Bul FC — Over/Under Over 1.5 (0:0); Havant & Waterlooville v Basingstoke Town FC — Goal Bounds 0-4 (4:1); BC Lietkabelis Panevezys v PAOK BC — Over/Under (incl. overtime) 177.5 Under 177.5 (95:86) |
