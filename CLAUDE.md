@@ -7,6 +7,21 @@ You have already reverse-engineered SportyBet Nigeria's API in a prior session. 
 
 ---
 
+## ═══ ONE-RUN DAY PROTOCOL (binding, user directive Oct 24) — status check + full ticket set in ONE session, token-lean ═══
+When asked for the day's tickets (top picks / 500 / 5000 / 50000 / max), do exactly this, in this order. No detours.
+1. **Status check (≤3 commands, no reading back history):** `git fetch`; merge `origin/claude/sports-accumulator-analysis-8su67` (generated-file conflicts → take theirs); read `papertrade/status.json`, the last `## Day` block of `papertrade/JOURNAL.md`, and the tail of `papertrade/TICKETS.md`. GitHub Actions does harvest/grade/settle twice daily. Report: last run time, ok flag, graded total, markets passing, last posted tickets and results.
+2. **Deterministic prep (no LLM tokens):** `cd engine && ./daypack.sh <tag> [endHourUTC]`. It harvests the board, prices baselines, runs Sportradar last-10 form on every fixture (`auto<tag>.json`), and writes the data-rich SCREEN list.
+3. **Dry run:** `SCREEN='cache/r<tag>_G*.json' KOMIN='MM-DD HH:MM' python3 daypost.py <tag> <board> 500 5000 50000 max`. It prints MAIN + every ladder without posting. Without research, MAIN is usually empty; that's expected.
+4. **Research ONLY the legs the dry run selects (MAIN candidates + the T500 core, ~20-30 fixtures), INLINE, with `WebSearch mode="extended"`, ONE search per 2-3 fixtures of the same league, all searches in parallel in one turn.**
+   - **Do NOT spawn research agents.** Measured Oct 24: 4 agents burned ~1M tokens in 30 s. They used standard-mode broad queries, got only stale results, and returned no-news pass-throughs at confidence 0.2, which would have falsely marked 104 fixtures as "researched".
+   - Standard-mode search returns stale pages for current fixtures; extended mode returns today's team news.
+5. **Encode findings** as `cache/factors<tag>_G5.json`: eid, fx, xg_h/xg_a (or margin/total for basketball) as % moves from the auto values, confidence 0.25-0.4, flags (derby / big_club / rotation_risk / high_scoring_profile / must_win / data_conflict), veto, and a note with names. Veto on any date conflict.
+   - Re-dry-run; research any NEW unresearched fixture that entered T500 (one more parallel batch maximum); then `POST=1`.
+   - Posting verifies leg identity, appends codes to `papertrade/tickets.txt` (auto-settled) and writes `papertrade/<date>_tickets.md`.
+6. **Commit + push once.** Reply with: status summary, each ticket (code, legs, odds, model 1-in-X), the key research findings with sources, and the staking reminder.
+- **Budget:** about 12 extended searches and 25 tool calls for a full Saturday board. Never post before the dry run has been reviewed (Oct 24: an early post had to be pulled from `tickets.txt`).
+- **Tiers (honest):** MAIN = 4-6 researched legs at p≥0.72, 3-8x (the only shape that has ever won). 500x and above are declared lotteries: state their 1-in-X, keep the stake small.
+
 ## SportyBet Nigeria API (Confirmed Working)
 
 ### Fetch an existing booking code
@@ -2360,3 +2375,23 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - **R1XC8N (MAIN, 5 legs, 2.9x, model 1 in 3.2)**: Barcelona +1.5 at PSG (Barca missing Garcia/Koundé/Christensen), Glimt +2.5 at Napoli (Napoli 0 pts, Neres/Buongiorno out), Slavia +2.5 at Fenerbahce (both winless, both depleted), Wolves-Portsmouth O1.5 (Jimenez/Armstrong out), Stuttgart +1.5 v Atletico (Koke out). Four are UCL wide catches — one correlated "favourites rout" risk, flagged.
 - **RN3XSC (T500) 22 legs 614x, model 1 in 1,136 (all-win 1 in 7,941). HP1G13 (T5000) 29 legs 5,559x, 1 in 16,333. J3QRUG (T50000) 38 legs 64,879x, 1 in 332,048.** All identity-verified, nested; declared lotteries. Every pool leg is EV<1 (cost>1.04).
 - Grade: wide AH catches (UCL), Corinthians-Vitoria +2.0, Egypt/Costa Rica thin legs; whether low-confidence p≥0.78 gate legs behave.
+
+### Oct 24 — status check + one-run build (first run of the ONE-RUN DAY PROTOCOL)
+- **Status:** GitHub Actions ran twice daily without failures through Oct 24 00:07 UTC: 45,000 outcomes graded, every ticket auto-settled.
+  - Markets passing: basketball handicaps (223, 97 EV picks +11% ROI) and cards (139, 192 picks +3.6%).
+  - Failing (house better): corners 166/900300/900301, basketball totals.
+  - No tickets were posted Oct 20-23 (no session). TICKETS.md: 0 won / 41 dead.
+  - Oct 19-20 R1XC8N died on PSG 4:2 Barca +1.5; RN3XSC/HP1G13/J3QRUG on rout catches (Huddersfield, Pyramids) and thin-league Overs.
+- **pick.py v9:** KOMIN defaults to now (was stale Oct 13); JUNK adds primavera / II / amateur; no integer O/U Overs (0W/4L outright Oct 17-19); ≤3 capped Goal Bounds per ticket; odds floors raised to 1.25-1.28 (fewer legs per target); away AH −0.5/−1 needs p≥0.75 (away win in disguise).
+- **Research (inline extended search, 12 searches, 22 fixtures):**
+  - Vetoes and gates: Augsburg–Union vetoed (Union site lists 27 Oct). Napoli–Roma flagged derby/big_club (Neres, Buongiorno / Pellegrini, Dybala, Koné out). Dortmund–Frankfurt big_club (Can, Konstantelias, Karetsas, Lerma out). Valencia–Villarreal derby. Lens–Paris FC rotation + high-scoring (lost 3-0 at Brugge midweek). Charlotte +9.5 removed (Knueppel, C. White, G. Williams out, back-to-back).
+  - Positive mechanisms: Atlético (7 unbeaten) v Deportivo (5 winless, without Aubameyang plus 4); Sheffield Utd v Derby (23rd, first-choice GK and 3 CBs out); Samsunspor (6 straight defeats) v Amed (2nd, 18 goals in 8); Bologna without Orsolini/Holm; Inter Miami (2nd, Messi in form) at RBNY.
+- **Tickets (identity-verified, in tickets.txt):**
+  - **KXKM85 MAIN:** 5 legs, 3.6x, model 1 in 4.3.
+  - **H4R0YD T500:** 19 legs, 642x, 1 in 1,416.
+  - **U1JNV8 T5000:** 27 legs, 6,673x, 1 in 18,296.
+  - **LGJK18 T50000:** 34 legs, 60,973x, 1 in 228,532.
+  - **LJCZ26 MAX:** 48 legs, 4.9M x, 1 in 44M.
+  - The ladder is nested; MAIN fixtures are excluded from the ladder (V4-5).
+  - Many ladder legs are SCREENED (data-rich league, no adverse news found), not fully researched.
+- Grade at settlement: researched (conf≥0.3) vs screened (0.2) leg hit rate, and the v9 gates.
