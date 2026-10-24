@@ -14,7 +14,7 @@ def info(e): return e,sr.match_info(e['eid'].split(':')[-1])
 with ThreadPoolExecutor(12) as ex: I=list(ex.map(info,B))
 seasons={};teams=set()
 for e,m in I:
-    if not m: continue
+    if not m or '_seasonid' not in m or '_utid' not in m: continue
     seasons[m['_seasonid']]=m['_utid']
     for s in ('home','away'): teams.add((m['teams'][s]['uid'],m['_utid']))
 print('seasons',len(seasons),'teams',len(teams))

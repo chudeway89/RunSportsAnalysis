@@ -19,8 +19,8 @@ for k,g in _G.items():
         s=sum(1/x['odds'] for x in g)
         for x in g: x['p_model']=x['p']; x['p']=min(x['p'],(1/x['odds'])/s)
 TARGETS=[float(x) for x in sys.argv[1:]] or [500,5000,50000]
-PMIN=0.65; KOMIN=os.environ.get('KOMIN','10-13 11:00')
-JUNK=re.compile(r'women|\bw\b|u1[0-9]|u2[0-3]|youth|reserve|srl|friendl|preseason|pre-season',re.I)
+PMIN=0.65; KOMIN=os.environ.get('KOMIN') or __import__('datetime').datetime.utcnow().strftime('%m-%d %H:%M')   # v9: was a stale fixed date
+JUNK=re.compile(r'women|\bw\b|u1[0-9]|u2[0-3]|youth|reserve|primavera|juniores|\bii\b|\bb\b team|srl|friendl|preseason|pre-season|amateur',re.I)   # v9: Primavera/II sides slipped through
 RESULT={'1','10','11','16','219','223'}
 OK_FB={'1','11','16','18','19','20','450001','450002','450003'}
 OK_BK={'219','223','225'}
@@ -52,11 +52,14 @@ def allowed(x):
     if ({'big_club','derby'}&f) and side(x)!='other' and p<0.82: return False
     # Oct 9 Shelbourne lesson: a model p far above the house's own price is model error, not value
     if p-0.95/x['odds']>0.10: return False
+    # v9 (Oct 17-19): integer Over 2/3 lost 0W/4L outright (1:0s) - the refund only helps on the exact line
+    if x['mid']=='18' and d.startswith('Over') and float(x['spec'].split('=')[1])%1==0: return False
     if x['sport']=='football':
         if m not in OK_FB: return False
         if m=='10' and d=='Home or Away': return False                        # no-draw DC (L2/L54)
         if m=='1' and p<0.62: return False
-        if m=='1' and d=='Away' and p<0.75: return False                    # v8.5: away 1X2 (Dundee 2-2 Rangers) -> DNB/catch instead
+        if m=='1' and d=='Away' and p<0.75: return False
+        if m=='16' and d.startswith('Away') and '(-' in d and p<0.75: return False   # v9: away AH -0.5/-1 = away win in disguise (L63)                    # v8.5: away 1X2 (Dundee 2-2 Rangers) -> DNB/catch instead
         if m in('450001','450002','450003') and p<0.80: return False        # capped bounds burned in thin leagues (Oct 7)
         amateur=any(k in x['lg'] for k in('Amateur','Reserve','Regional'))
         if amateur and (d.startswith('Under') or m in('450001','450002','450003')): return False   # amateur routs (Oct 13: 0/3)
@@ -90,7 +93,7 @@ def cost(x):
     pw,pp=x['p'],x.get('pp',0); s=pw+pp
     if s<=0.5 or pw<=0: return 9
     return -math.log(s)/((pw*math.log(x['odds']))/s)
-FLOOR={500:1.20,600:1.20,5000:1.20,50000:1.22}
+FLOOR={500:1.28,600:1.28,5000:1.26,50000:1.25}   # v9: fewer legs per target (L22/L53 - leg count is the killer)
 OK=[x for x in legs if allowed(x)]
 for x in OK: x['cost']=cost(x)
 def mkpool(floor):
@@ -110,6 +113,7 @@ def build(target,base=None,maxlegs=50):
         if odds(T)>=target or len(T)>=maxlegs: break
         if x['eid'] in used or cc[country(x)]>=3: continue
         if side(x)!='other' and cs[(country(x),side(x))]>=2: continue
+        if x['mid'] in('450001','450002','450003') and side(x)=='under' and sum(1 for y in T if y['mid'] in('450001','450002','450003') and side(y)=='under')>=3: continue
         n=len(T)+1; s=side(x)
         if s in('under','over') and (sd[s]+1)/n>0.40 and n>4: continue
         T.append(x); used.add(x['eid']); cc[country(x)]+=1; sd[s]+=1
