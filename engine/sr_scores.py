@@ -9,7 +9,7 @@ B=[e for e in json.load(open(sys.argv[1])) if e['sport'] in ('basketball','baseb
 with ThreadPoolExecutor(12) as ex: I=list(ex.map(lambda e:(e,sr.match_info(e['eid'].split(':')[-1])),B))
 seasons={}; teams=set()
 for e,m in I:
-    if m and '_seasonid' in m and '_utid' in m:   # some matches come back without season ids
+    if m and m.get('_seasonid') and m.get('_utid') and m.get('teams'):   # skip partial feed docs (seen on CI)
         seasons[m['_seasonid']]=(e['sport'],m['_utid'],e['lg'])
         for s in ('home','away'): teams.add((m['teams'][s]['uid'],m['_utid'],e['sport'],e['lg']))
 rows={}

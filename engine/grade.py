@@ -65,6 +65,7 @@ for (sp,mid),v in sorted(by.items()):
     llh=sum(-math.log(clip(a['hp']) if a['won'] else clip(1-a['hp'])) for a in v)/len(v)
     pk=[a for a in v if a['ev']>=1.05 and 1.2<=a['odds']<=3.0]
     roi=(sum(a['odds'] for a in pk if a['won'])/len(pk)-1) if pk else 0
-    lines.append(f"{sp:<10} mid {mid:<7} n {len(v):5d}  hit {sum(a['won'] for a in v)/len(v):.3f} vs model {sum(a['mp'] for a in v)/len(v):.3f}  "
+    fv=[a for a in v if a['mp']>=0.5] or v   # model-favoured side only (both sides of a line average to 0.500)
+    lines.append(f"{sp:<10} mid {mid:<7} n {len(v):5d}  fav-side hit {sum(a['won'] for a in fv)/len(fv):.3f} vs model {sum(a['mp'] for a in fv)/len(fv):.3f}  "
                  f"logloss model {llm:.4f} house {llh:.4f}  | EV>=1.05 picks {len(pk)} ROI {roi:+.3f}  {'PASS' if len(v)>=300 and llm<llh and pk and roi>0 else ''}")
 open('../papertrade/grade_report.txt','w').write('\n'.join(lines)+'\n'); print('\n'.join(lines))

@@ -2079,6 +2079,21 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - **Pass rule (unchanged from v6):** ≥300 graded outcomes per market, model log-loss below the house's, and model-EV≥1.05 picks (odds 1.2-3.0) with ROI > 0. Nothing gets staked from a market until it passes.
 - First snapshot: 2,581 outcomes on 60 events (Oct 12).
 
+### AUTOMATION v2 (Oct 12) — GitHub Actions replaces the Claude routine as the primary runner
+- **Diagnosis of the routine failure:** routine `trig_014X5n3dWy6jQ1Q48ypYXzsg` fired at 21:50 UTC Oct 12 and reported SUCCEEDED, but its session was tagged `config:no-git-repo`. It started with no repository attached and no push credentials, so nothing could be committed. The platform also scored "the session started" as success. Second flaw: `daily.py` ignored every step's exit code and printed DONE even with an empty snapshot, so a broken run could not look broken. Third: the learning journal depended on an LLM session writing prose into CLAUDE.md.
+- **New design:** `.github/workflows/papertrade.yml` runs on GitHub's runners (no container, no repo attachment, no LLM).
+  - 21:40 UTC: full run (`daily.py`: harvest, price, snapshot, grade).
+  - 11:00 UTC: grade-only catch-up.
+  - Both then run `journal.py` and commit `papertrade/` + `engine/data/` with a rebase-retry push.
+  - The Sportradar/SportyBet response cache persists between runs via `actions/cache`.
+  - Any failure turns the run red and GitHub emails the repo owner.
+- **Old routine DISABLED (Oct 12, 23:16 UTC, on user request).** Its config also pointed pushes at a different branch (`claude/friendly-wright`), a second reason nothing reached this branch. GitHub Actions is now the only daily runner.
+- **Fail-loud:** `daily.py` now records failed steps, writes `papertrade/status.json` (heartbeat: date, outcomes, events, failed steps, ok), and exits 1 if the board file is missing or the snapshot has <200 outcomes.
+- **Learning record:** `papertrade/JOURNAL.md` — one deterministic "Day N" block per run with per-market n, model vs house log-loss, EV-pick ROI and verdict (collecting / PASS / FAIL). CLAUDE.md is now only for human-reviewed conclusions drawn from the journal.
+- **Grader fix:** the hit-rate column averaged both sides of every line (always 0.500). It now reports the model-favoured side.
+- **First grade (Oct 12, 22:32 UTC): 1,746 outcomes settled.** Basketball totals (225, n=688) FAIL: house log-loss 0.6439 beats the model's 0.6476 (centre = house line, so only our SD differs, and the house's ~17.5 SD template is slightly better than our league SDs). All other markets are still collecting.
+  - Early leans: team corners home (900300) model clearly worse (+0.026) and EV picks −27% ROI; cards (139) and away corners (900301) model better, but n is small.
+
 ### Paper-trade log
 (The daily routine appends "Paper-trade day N" entries here.)
 
@@ -2143,3 +2158,205 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - Legs: Bragantino–Cruzeiro U3.5 @1.52, Chapecoense +1.5 @1.35, Botafogo SP–Ceara O1.5 @1.43, Recoleta +1.5 at Nacional @1.39, Oaxaca home goals 0-2 @1.45, Mannucci–Alianza U bounds 2-4 @1.54, Tru-Juice +1.5 at Waterhouse @1.56, Aserri +1.0 at Pitbulls @1.42 (refund on 1-goal loss), Rays–Guardians ALCS G1 Under 8.5 @1.47, LNBP Mineros–Diablos U180.5 @1.28, Abejas–Santos U188.5 @1.23.
 - Engine: all-win 1 in 84; survival incl. the Aserri push 1 in 58. Identity-verified.
 - Breaches flagged: Brazil 3 legs (country cap 2) — board forced it; LNBP standings unverifiable (Oct 1 burn class). Dropped: Criciuma–America (leader v bottom → catch is rout class L70), NBA preseason, Tivoli (inside guard), women's friendly, Bengaluru B.
+
+## ═══ ENGINE v8 — WIN-PROBABILITY MODEL (Oct 13, user directive) ═══
+**User correction (binding):** model-vs-house EV is a diagnostic for spotting value, NOT the criterion for choosing fixtures or markets. Legs are chosen on the probability that the market in that fixture comes through, built from the calibrated base plus fixture factors (form, home/away splits, H2H, team news, league averages, stage/motivation). The model's job is to decide how much each factor moves that probability, in service of continuous winning.
+- **`engine/winmodel.py`:**
+  - **Football:** base λh/λa come from SportyBet's devigged 1X2 + O/U 2.5 (calibrated on 13k matches). Research supplies its own xG per side plus a confidence c. Adjusted λ = λ·(r/λ)^(W·c), with the ratio clamped to [0.80, 1.25]. Every market on the fixture (1X2/DNB/DC/AH/totals/team totals/bounds) is then re-priced from the adjusted score grid, so one factor moves all of them consistently.
+  - **Basketball:** base total and margin come from the house ladders with the house SD (the grader showed the house SD beats ours). Adjusted mean = base + W·c·(research − base), capped at ±6 points on totals and ±5 on margins.
+  - **W = 0.35 prior.** Why not 1.0: an independent stat model lost to the closing price on 54k matches, and research is only reliable at the extremes (L78). Why not 0: named facts (absences, rotation, must-win) do move outcomes. W gets refit from graded legs as they accumulate. Per-leg base and adjusted p are both stored, so the refit is possible.
+- **`engine/pick.py`:**
+  - **Probability gate:** adjusted P(survive) ≥ 0.65 per leg, odds 1.18–2.2, kick-off ≥ 11:00 UTC on the day so the user has time to place.
+  - **Ranking:** inside the gate, legs are ranked by probability spent per unit of log-odds, which maximises P(ticket) at a fixed target.
+  - **Hard rules:** veto/data_conflict → drop; no result-side on derbies/openers; knockout 90-min → DNB/totals only; rotation_risk → p ≥ 0.78; confidence < 0.2 → p ≥ 0.78; no 12-DC, BTTS, multigoals or corners; capped Goal Bounds need p ≥ 0.80; basketball spreads under 8.5 need p ≥ 0.80.
+  - **Caps:** ≤ 3 legs per country/competition; Unders ≤ 40% and Overs ≤ 40% of legs. One leg per fixture.
+- **Research coverage, first run:** 8 agents, 179 fixtures (every senior football fixture on Tuesday's board across ~50 competitions incl. English non-league, Austrian/Bavarian amateur, Algeria L2, Uganda, Thailand L2, India, Kosovo, Lebanon…, plus 18 basketball games). Women's/youth/U21/reserve/virtual stay excluded (ledger loser classes). Several agents used the Sportradar feed (`engine/sr.py`) for current tables and results where the web had nothing.
+- **Baseball:** the only listed game is NLCS Game 3, Dodgers v Brewers (Brewers lead 2-0), at 00:00 UTC on Oct 15 (Wednesday night US). It falls outside Tuesday and the starters are unconfirmed, so it was excluded.
+
+### Oct 13 — v8 tickets (DECLARED LOTTERIES; nested: the 500x legs are inside the 5000x, and the 5000x legs inside the 50,000x)
+- **ME7N2R (T500): 20 legs, 586x.** Model P(win incl. refunds) 1 in 781; all legs winning outright 1 in 1,020.
+- **H4L82L (T5000): 28 legs, 5,602x.** Model 1 in 9,121.
+- **XASL5K (T50000): 36 legs, 66,118x.** Model 1 in 130,561.
+- All identity-verified (fixture + market + outcome). Sports mix: T500 all football; T5000 + 1 EuroLeague total; T50000 + 4 basketball.
+- **Grade at settlement:**
+  - (a) adjusted p vs actual hit rate for this first all-board research run;
+  - (b) the W=0.35 blend: did legs whose p moved up from base beat those that moved down?;
+  - (c) the probability-gated selection (all legs ≥ 0.65) vs earlier cost-only builds.
+
+## ═══ Calibration (Oct 12-13 settlement, checked Oct 13 evening) — v8 legs on-model; amateur Unders and rout catches killed it ═══
+- **Oct 12 final**: PQJDEG 2W/3L (Novorizontino 5:1 also beat Ponte +3.5), TQZZS5 3W/8L, HCJF3K 4W/1L and JFVGDN 8W/1L/2V (both only on Eibar +1.0), SD3NA6 25W/3L/3V, T46P50 21W/3L/2V, NKZMHS (user original) 30W/4L/4V, P1WVMV overnight 5W/6L (Bragantino U3.5 4:2, Chapecoense +1.5, Botafogo SP O1.5 1:0, Oaxaca home 0-2 5:1, Rays U8.5 3:7, Mineros U180.5 97:86). All dead.
+- **Oct 13 v8 ladder**: ME7N2R 13W/4L/1V/2P, H4L82L 18W/6L/1V/3P, XASL5K 25W/7L/1V/3P — all dead by mid-afternoon.
+- **v8 calibration (XASL5K, 33 settled legs)**: model expected 24.0 survivals, actual 26. The probabilities were right. Research moved p up on 19 legs by only ~+0.01 each (W·c is small), so the W=0.35 blend can't be judged on one day: expected 13.7 vs actual 15 on the moved-up legs, vs 13.5 at base.
+- **Where it died (5 of 7 losses in two fixable classes):**
+  1. **Unders/capped bounds in amateur football: 0W/3L** (Ebbsfleet U4.5 5:0, Ilz U4.5 4:1, Havant bounds 0-4 4:1). Model priced them .78-.81, and these legs carried the largest model-over-house gaps (+0.05). The Poisson anchor is calibrated on pro leagues; amateur blowout tails are fatter. Unders elsewhere on the ticket went 9W/1L.
+  2. **+2.5 catches against heavy favourites: 0W/2L** (Simba 6:1, Arsenal 3:0 v Lille) — L70 again; the picker had no rout gate. The +2.5 catches against non-dominant favourites (Pachern, Bahcesehir) won.
+  - Rest: Lugazi O1.5 0:0 (Uganda, thin-league Over), Lietkabelis-PAOK U177.5 (181, variance).
+- **3-day class record on my tickets (Oct 11-13, unique legs)**: Under/capped bounds 20W/21L (~49% vs ~0.72 priced — the worst class by far, concentrated in high-scoring rounds and amateur levels), Over 16W/3L/1V, AH catches +0.5 to +2.0 8W/4L/2V, catches +2.5+ 3W/3L.
+- **Selection bias found**: the losing legs had a larger model-over-house gap (+0.033) than the survivors (+0.006). Ranking on model p rewards legs where the model is simply more optimistic than the book.
+- **pick.py v8.1 (coded):** (a) for two-way non-integer lines, the selection p = min(model p, house devigged p); (b) no Unders or capped Goal Bounds in Amateur/Reserve/Regional competitions; (c) no AH catch of +2.5 or wider when the favourite's base 1X2 p ≥ 0.70 (`fav_p` now stored by winmodel.py). All three would have removed the 5 class losses above.
+- **Standing arithmetic**: 79% leg survival still loses every 20+ leg ticket (expected). The 500x/5000x/50000x tiers stay declared lotteries.
+- Paper-trade (JOURNAL Day 3, 2,275 graded): basketball handicaps (223) show the first PASS, but on only 7 EV picks — not stakeable yet. Basketball totals FAIL (house SD better). Cards (139) lean model-better (n=48). Team corners home (900300) lean model-worse.
+
+### Oct 13 night — user code H25EVX (26 legs, 6,620x, house 1 in 19,598), Oct 14–18 — remove 2 / 5
+- Composition: 19 BTTS "GG Yes" legs (11 of them German: Bundesliga ×4, 2.Bundesliga ×4, 3.Liga ×3), 2 "Draw or Over 2.5" (Hearts, Lyon), 1 "Draw or GG" (Brentford), and 4 EuroCup first-half Overs. It spans 5 days (L14 window).
+- Engine pricing (market-anchored Poisson): every GG leg is fair-priced (engine = house within ±0.01) at p .63–.70, EV ≈ 0.95. There is no value leg; the risk is the count of near-coin-flip legs plus the German scoring correlation.
+- Structural: Aris v Derthona first-half Over 79.5 is no longer offered, as the ladder moved. It still settles on the original, but it can't be rebooked, so the edits use first-half Over 80.5 @1.43 (p .666).
+- Removal order (lowest engine p first): Hannover–St Pauli GG .629, Dresden–Magdeburg GG .638, Aachen–Rostock GG .642, Ingolstadt–Essen GG .646, Norwich–Southampton GG .650. All are German lower tiers except Norwich.
+- **U5Q1RC (remove-2): 24 legs, 3,152x, engine 1 in 11,310. UG3R90 (remove-5): 21 legs, 1,034x, engine 1 in 3,049.** Both identity-verified. Declared lotteries; Germany still has 7 legs on UG3R90.
+- Grade: GG class at volume on a mid-season board (19 legs); removed-5 vs kept-21.
+
+### Oct 14 — full-board v8.2 ladder (built Oct 13 22:50 UTC; window to 23:00 UTC Oct 14): M5NTNA / QG8Y4S / WT8MDM (DECLARED LOTTERIES, nested)
+- Board: 238 events (167 football, 66 basketball, 5 baseball), 135k outcomes. Nine research agents covered all 236 fixtures (`cache/factors14_G*.json`), with 23 vetoes:
+  - Chile Tercera round 25 suspended by ANFA.
+  - Reserve and youth sides: Polish CLJ/II teams, Milan Futuro, Olympiacos B, Levadia U21, German ProB II teams, Orange Academy.
+  - Women's: Czech ZBL and women's internationals.
+  - A duplicate Russian Cup listing.
+- Research came mostly from the Sportradar last-10 feed. There was almost no 2026-27 web team news, so confidence was ≤0.45 everywhere and the research moved p only slightly.
+- **pick.py v8.2 (coded):**
+  - Every leg must win OUTRIGHT at p ≥ 0.62, since refunds don't build odds.
+  - Price.UBIAS league scoring corrections now apply in the picker.
+  - No Under (including capped Goal Bounds) in fixtures research flagged high_scoring; no Over in low_scoring ones.
+  - Capped bounds count as Unders for the 40% cap.
+  - Double Chance is dropped (ledger: 1X 0.38, 12 0.56).
+  - Kick-off cut-off (KOMIN) is set per run, and fixtures already on two of the day's slips are excluded (EXCLUDE file; the H25EVX edits).
+  - Nagasaki ML dropped: EASL round 1, basketball opener below p 0.90.
+- **M5NTNA (T600): 23 legs, 638x live.** Survival incl. refunds 1 in 1,555; all legs winning outright 1 in 3,736.
+- **QG8Y4S (T5000): 30 legs, 4,940x live.** 1 in 15,822 / 1 in 58,666.
+- **WT8MDM (T50000): 39 legs, 54,556x live.** 1 in 318,822 / 1 in 1.47M.
+- All three identity-verified. Mix: Unders ≤40%, three basketball totals plus two basketball MLs, and four "result" legs (LASK–Liverpool away, Bryne, Umraniyespor, Hoedd +0.5).
+- Grade at settlement: the v8.2 outright-p floor (all legs ≥0.62) vs earlier builds; the research-direction gates; Germany 3. Liga and Norway 1st Division clusters.
+
+### Oct 14 — user code PXA1NK (30 legs, 14,161x, house 1 in 47,428), analysed 12:15 UTC — remove 3
+- Two legs were already in play at fetch, so they can't be rebooked: Olympiacos B v Kallithea O1.5 (a reserve side our research vetoed; p .58) and Leningradets 1UP (research data_conflict, the duplicate cup listing; p .57). Both still settle on the original.
+- Removed the three weakest bookable legs on the v8 model (all in our Oct 14 research): Aris Limassol–Ethnikos O2.5 (.58; cup tie with rotation risk), Nizhny team O1.5 v Shinnik (.59; Shinnik conceded 7 in 10, cup knockout), Norwich–Southampton O2.5 (.60–.63).
+- **PPBN7R: 25 legs, 1,369x, house 1 in 3,463.** Identity-verified. Still a lottery: 6 Norway 1st Division Overs (correlated round) plus 4 Russian Cup legs.
+- Overlap with my M5NTNA/QG8Y4S/WT8MDM ladder: Strømmen, Bryne, Moss, LASK, Slovan, Antalya, Viktoria Köln, Haugesund-adjacent fixtures. The user's book is heavily correlated today.
+
+### Oct 14 — user code HPKLPH (39 legs, 795,276x, house 1 in 6.8M), analysed 12:16 UTC — remove 5 / 10 / 15
+- Nothing had started at fetch. Most fixtures were already covered by the Oct 14 research. Three legs are on research-vetoed reserve sides: Parnu Vaprus II, LKS Lodz II and Al Shamal Future.
+- **Removal order** (house/model p, then research flags):
+  - **First 5:** Lincoln–West Ham away −1 @2.25 (.42), Shakhtar–AEK O2.5 (.51), Palace U21 DC&O2.5 AND-combo (.57), Recife U20 O2.5 (.58), Aris Limassol O2.5 (.60, cup rotation).
+  - **Next 5:** Botev Plovdiv cup 1X2 (.60), Villa–Fener O2.5 (.60), Petah Tikva U19 O2.5 (.60), Makhachkala–Zenit away 1X2 (cup, rotation), Al Shamal Future away 1X2 (reserve veto).
+  - **Last 5:** Bodø–Dortmund O3 (model win .50), Hødd away WEH (.62), San Martín reserves away 1X2 (.62), LKS Lodz II GG (reserve veto), Mezőkövesd +1 (data conflict).
+- **NV6M3X (rm-5): 34 legs, 46,078x, house 1 in 283k. Q58KZW (rm-10): 29 legs, 4,989x, 1 in 22,850. QDTV85 (rm-15): 24 legs, 789x, 1 in 2,605.** All identity-verified. Declared lotteries.
+- **Still on rm-15:**
+  - 3 second-half DC legs (Betis U19, Stabæk, Strømsgodset).
+  - Integer O/U legs (Slovan O3, Haugesund O3, Sogndal O3).
+  - 4 AH +1 catches.
+  - Parnu II excluded-goals: a reserve side, left in as the 16th cut.
+- Grade: removed-15 vs kept-24.
+
+## ═══ Calibration (Oct 14 settlement, 22:05 UTC) — v8.2 on-model a third day; a rout day killed the Unders; cup ties went to pens ═══
+- **Ladder, all DEAD:** M5NTNA (T600) 14W/5L/2V/2P, QG8Y4S (T5000) 16W/9L/2V/3P, WT8MDM (T50000) 24W/10L/2V/3P.
+- **User codes and edits, all dead:**
+  - PXA1NK 19W/10L, its edit PPBN7R 16W/8L.
+  - HPKLPH 28W/8L/3V, edits NV6M3X 23W/8L/3V, Q58KZW 19W/7L/3V, QDTV85 17W/4L/3V.
+  - The H25EVX family (U5Q1RC, UG3R90) died early on Bodø–Dortmund GG (1:0) and the EuroCup first-half Overs.
+  - Oct 13: ME7N2R 14W/5L/1V, H4L82L 20W/7L/1V, XASL5K 27W/8L/1V.
+- **Model calibration (WT8MDM, 36 settled legs): expected 26.2 survivals, actual 26.** Third straight day the v8 probabilities are right. The tickets die on arithmetic, not pricing.
+- **Where the 10 losses came from (three classes):**
+  1. **Cup knockout totals (90-min settlement): 0W/3L on Overs.** Boston River–River Plate went 0:0 at 90 (4:3 on pens). Volga–Murom went 0:0, then pens. Považská–Košice finished 0:2. Nagoya–Okayama Under 3.5 also lost: 3:3 at 90, then pens. Single-tie cup knockouts produce cagey 0-0s *and* chaotic 3-3s; totals there are coin-flips.
+  2. **Unders in mismatches lost to routs:** Lincoln 0:6 West Ham (U4), Antalyaspor 0:4 Kayserispor (U3.5), Wiesbaden 3:0 (home 0-2 bounds), Betis 3:2 (U4). It was a rout day across Europe (Villa 6:0, LASK 3:6, Aris 4:0, Nizhny 4:0, Strømsgodset 5:1). Unders went 10W/5L, Overs 9W/3L (all 3 Over losses were cup knockouts).
+  3. **Result-sides:** Bryne 1:1 Raufoss (research's collapsing-opponent mechanism, p .76) and Daegu KT ML (KBL, 82:69 home win).
+- **pick.py v8.3 (coded):**
+  - knockout_90min fixtures: no Overs; Unders need p ≥ 0.78.
+  - No Under or capped Goal Bounds when the favourite's base 1X2 p ≥ 0.65 (rout tail, L70 family).
+- **Knife audit (HPKLPH remove-15):** removed legs went **11W/4L** (73%), kept legs 17W/4L/3V (81% of decided). The first 7 removals, ranked by lowest p, went 6W/1L. On a rout day the low-p Overs and away favourites landed. The knife added little again; only the reserve-veto legs (LKS Łódź II, San Martín reserves) were correct removals.
+- **Standing truth:** a 23-leg ticket at an average leg p of ~0.72 is 1 in ~1,500 even when every probability is right. That held today: 14 of 18 settled legs on M5NTNA won.
+
+### Oct 15 — full-board v8.3 ladder (built Oct 14 22:15 UTC; window to 23:00 UTC Oct 15): MZU7Z8 / K129QM / Y2H7T6 (DECLARED LOTTERIES, nested)
+- Board: 180 events (132 football, 38 basketball, 10 baseball), 176k outcomes. Covers Europa and Conference League MD2, the Libertadores semi first leg, the last MLS weeks, the LCS and the EuroLeague.
+- Seven research agents covered every fixture (`cache/factors15_G*.json`). They vetoed 14: women's (WK-League, WNBL), reserves (Al Rayyan Nextgen, Spartak-2, Lithuanian NKL II sides) and all 7 NBA preseason games.
+- Strongest mechanisms:
+  - NYCFC missing six vs Inter Miami.
+  - Celtic without Carter-Vickers at Benfica.
+  - Sunderland rotating.
+  - Mjallby winless in 10.
+  - Openda out for Lyon.
+  - Greenville 16th v Spokane.
+- **pick.py additions:** NBA preseason (`preseason` flag and the regex) is excluded, and there is a cap of ≤2 same-direction totals per league (L73).
+- **MZU7Z8 (T500): 23 legs, 495x live.** Survival 1 in 571; all legs winning outright 1 in 8,559 (lots of integer refund lines).
+- **K129QM (T5000): 31 legs, 5,066x live**, 1 in 8,811.
+- **Y2H7T6 (T50000): 39 legs, 57,063x live**, 1 in 165,801.
+- All three were identity-verified. The H25EVX fixtures (on 3 slips already) are excluded.
+- Grade:
+  - (a) the v8.3 mismatch-Under gate and knockout gate (none of today's cup totals made it);
+  - (b) the integer-line refund legs (MLS Over 2 ×2, UEL/UECL Under 4 ×4, AH ±1/±2 catches);
+  - (c) whether leg survival tracks model p (sum ≈ 17.4 of 23 on the T500).
+
+### Oct 15 — user code KPHAGP (30 legs, 5,539x, house 1 in 18,099), UEL/UECL MD2 + Saudi — remove 3
+- Nothing started at fetch (12:28 UTC). Removed the 3 weakest on model/house p plus research flags: CSKA Sofia–Monaco O2.5 @1.59 (house .60, model .58), Benfica–Celtic bookings O2.5 @1.50 (.63; Benfica xG 2.85 v 0.75 — lopsided games produce fewer cards, v6 card model), Freiburg–Jablonec O2.5 @1.46 (.65, rotation_risk with a Bundesliga game 3 days later).
+- **Q2TSRV: 27 legs, 1,591x, house 1 in 4,486.** Identity-verified. Declared lottery. Next in line: Salzburg–Milan away 1UP (.66, Salzburg missing 4, Milan drawing), Ferencvaros 1UP (.66), Lugano A-or-O2.5 (.68), Hearts 0-15 min draw (.68), Marseille home corners O3.5 (.69).
+- Overlap: several UEL/UECL fixtures also sit on MZU7Z8/K129QM/Y2H7T6 — correlated book on one European night.
+
+## ═══ Calibration (Oct 15 settlement, reviewed Oct 17) — v8.3 ladder on-model, died on 4 legs; KPHAGP trim removed 3 winners ═══
+- **MZU7Z8 (T500) 17W/4L/2V, K129QM (T5000) 25W/4L/2V, Y2H7T6 (T50000) 29W/8L/2V — all DEAD.** Shared killers on all three: St Louis–Vancouver Over 2 (0:0), Sparta–Lillestrom Sparta 1X2 (1:1), Real Madrid–ASVEL ASVEL +18.5 (lost by 19), Fluminense–Palmeiras Under 2.5 (1:2). T50000 extras: Milano–Dubai U178.5 (198), Horsens–Holbaek U174.5 (180), Al Arabi +0.5 (1:0), Matagalpa U3.5.
+- **Calibration**: MZU7Z8 model expected ~17.4 survivals of 23; actual 19 (17W + 2 refunds). Fourth straight day the v8 probabilities are right or slightly conservative; tickets die on leg count.
+- **Fixable classes**: (a) Fluminense–Palmeiras is a big-club clash — L13 says big-club totals are LO unless p≥0.82; the picker has a derby flag but no big-club flag. (b) Real Madrid +18.5: wide basketball catch for a weak receiver against an elite home side (L26 again; ASVEL had lost by 23 at Pana). (c) Sparta 1X2 with a European tie in the same week (L66 rotation; Sparta were SKIPPED for the weekend on exactly this ground).
+- **KPHAGP trim (Q2TSRV) — the 3 removed legs all WON** (CSKA–Monaco O2.5, Benfica–Celtic bookings O2.5, Freiburg O2.5). The 7 kept losers were the 1UP/2UP and Home-or-O2.5 legs on UEL/UECL MD2 (Hajduk, Egnatia, Sparta, Union, NEC), Celje home corners and Al-Khaleej Draw-or-O2.5. Knife on a real-market board went 0-for-3 this time; the lowest-p legs were Overs that landed on a goal-rich European night.
+- **QM5Y03 (user code, Oct 15)**: trim was never posted — the research agent died on the session limit and the session paused until after kick-off. Settled 27W/6L/4V. The model's weakest legs (Andijon O2.5 .47, Al Arabi away WEH .55) were both among the 6 losses, as were Twente O2.5, Sparta O2.5, Salzburg corners and Hajduk WEH.
+- **PROCESS GAP CLOSED (Oct 17)**: ticket settlement was being done only when a session was open, so Oct 15-16 went unreviewed. Added `engine/settle_tickets.py` + `papertrade/tickets.txt`; the GitHub Actions workflow now re-fetches every posted code twice daily (22:40 and 12:00 Lagos) and rewrites `papertrade/TICKETS.md`. Rule: append every new code to `tickets.txt` when it is posted.
+- **Paper trade (JOURNAL Day 10, 15,940 graded)**: basketball handicaps (223) now **PASS** (n=3,223, model log-loss ≤ house, 43 EV picks +20.6% ROI) — the first market to pass; still a small pick sample, stake only small. Corners (166, 900300, 900301) and cards (139) all FAIL — house better, EV picks negative. Corners/cards stay excluded from tickets. Basketball totals (225) FAIL (house SD better).
+
+### Oct 17 — full-board panel build (Sat 17:00 → Sun 05:00 UTC), user window "now till 6am": S6N0KG / RL8HMU / XMV4RQ / RPXBYX / YBQJVV / JUSQ3Z
+- **Panel process**: morning board 1,136 events; `autoform.py` pulled Sportradar last-10 form for every fixture (1,107 with data); 34 research agents assigned to ALL fixtures. **Two usage-limit walls (06:10→10:30 and 10:35→15:30 UTC) killed most agents mid-run**, so the morning board was only partly researched and by 16:00 most of it had kicked off. User then moved the window to now→06:00 Lagos; a fresh 13h board (320 events: 228 football, 80 basketball, 12 baseball incl. ALCS G4 and KBO) was harvested and **every one of the 320 upcoming fixtures has panel research** (5 fresh agents for the 183 new ones + morning research reused). Lesson: launch ≤6 agents at a time; 30 in one burst exhausts the session limit and costs the whole day.
+- **Engine v8.4 changes (coded)**: baseball now priced in winmodel (empirical MLB tables; run-lines only +3.5 or wider, ML only p≥0.65 with confirmed starters, totals need researched conf≥0.3); derby/big_club totals need p≥0.82; any leg with model p > 0.95/odds + 0.10 is dropped (Shelbourne divergence rule); wide basketball catches ≥12.5 need conf≥0.3.
+- **S6N0KG (T500)**: 23 legs, 601x, survival 1 in 888 (all-legs-win 1 in 6,901 — many integer refund lines). **RL8HMU (T5000)**: 31 legs, 6,184x, 1 in 13,116. **XMV4RQ (T50000)**: 38 legs, 53,986x, 1 in 179,181. **RPXBYX (MAX, 50-leg cap)**: 2.07M x, 1 in 16.9M. Nested ladder (V4-5 breach by design). All declared lotteries.
+- **YBQJVV (P80, my choice)**: 6 legs each ≥0.80 to win outright, 2.9x, honest ~1 in 4 (Kimberley bounds 1-4, Tampa home goals 0-2, Troyes-Lens O1.5, Santos-Queretaro bounds 0-4, USG B bounds 0-4, Pisa-Cremonese bounds 1-4). Kept off the ladder's fixtures.
+- **JUSQ3Z (basketball only)**: 6 legs, 6.8x, ~1 in 10 (Burgos ML, Limoges-ASVEL U176.5, Andorra-Breogan O175.5, Kapfenberg -10.5, Zamora away ML, Hapoel J-Beer Sheva O160.5). Burgos/Limoges also on the ladder.
+- All six identity-verified; added to papertrade/tickets.txt for auto-settlement.
+
+## ═══ Calibration (Oct 17 settlement, 21:40 UTC) — legs on-model again; basketball moneylines 0W/3L killed the ladder ═══
+- **Ladder S6N0KG / RL8HMU / XMV4RQ / RPXBYX DEAD** (all share the same 3 early losers); **JUSQ3Z (basketball) DEAD 3W/3L**; **YBQJVV (P80) ALIVE 4W/0L** with Tampa home 0-2 and Santos-Queretaro 0-4 pending tonight.
+- **Calibration: 27 unique settled legs, model expected 19.2 survivals, actual 21** — fifth straight day the v8 probabilities are right or slightly conservative.
+- **By class:** football 15W/2L/1V (bounds 4/4, Under 3.5/4 ×4 all won incl. Valencia 0:0, Over 1.5 ×3 won, integer Over 2 one void + one win, catches 3/3); basketball totals 4W/1L; basketball handicap 1/1; **basketball moneylines 0W/3L** (Burgos @1.45 lost 72:79, Zamora away @1.39 lost 89:81, Opava @1.40 lost 77:88).
+- **Luck vs process:**
+  - Basketball MLs (PROCESS) — all three sat at p .65-.67, the L78 no-information band, in early-season Euro basketball where openers already burned us (Sep 27). A .66 ML loses 1 in 3; three of them on one ladder is a structural risk, not bad luck. **v8.5 coded: basketball ML needs p≥0.75.**
+  - Dundee 2:2 Rangers, away 1X2 @1.42 (PROCESS, partly luck) — research had flagged big_club; an away favourite on the 1X2 (no draw protection) in Scotland is the L63/XJ52D3 class. A DNB would have voided. **v8.5 coded: away 1X2 needs p≥0.75, otherwise use DNB/catch.**
+  - Limoges–ASVEL Under 176.5 (LUCK) — p .71, game finished 191; ordinary tail of a 0.71 leg.
+  - Al Quwa–Al Karma Over 1.5 0:0 (MILD PROCESS) — Iraqi league Over at .67, thin-league goals class; mid-band leg.
+- **What worked:** capped bounds in data-rich contexts (Pisa 1-4, USG B 0-4, Kimberley 1-4, Mandel 0-4: 4/4), Unders in low-scoring top flights (Valencia, Rapid, Las Palmas), wide basketball handicap with a credible favourite (Kapfenberg -10.5), integer refund lines (Hannover Over 2 voided on 1:1).
+
+### Oct 18 — full-board v8.5 ladder (built Oct 17 22:45 UTC; window to end of Oct 18): KUF2S8 / HG9RQF / Z1L3R9 / ZG9F1Z (DECLARED LOTTERIES, nested)
+- Board 998 events (849 football, 140 basketball, 9 baseball). autoform Sportradar last-10 on every fixture; 6 research agents (≤6 at once, no limit wall) covered 180 fixtures on top of the morning's 96 → 276 fully researched; the rest carry auto factors at conf 0.15 (picker demands p≥0.78 for those). Vetoes: reserve sides Hoffenheim II, Sturm Graz II, Slask II. Rotation flags on all Oct 21-22 European/Libertadores clubs; derbies Racing-Independiente, Sturm-GAK, Leeds-Man Utd, Brighton-Palace, Cartagines-Saprissa, Dinamo-CSKA, Orgryte-GAIS, Joventut-Barca, Besiktas-Gala.
+- Removed by hand after research objection: Knokke Goal Bounds 0-4 (amateur Under, v8.1) and Humble Lions +2.0 at Tru-Juice (bottom side, 2 GF 13 GA — rout risk).
+- **KUF2S8 (T500): 27 legs, 588x, survival incl. refunds 1 in 338, all-legs-win 1 in 41,664** — survival is far better than all-win because 18 legs are integer refund lines (Over 2 / Under 4 / AH +2.0); refunds shrink the payout. **HG9RQF (T5000) 36 legs 6,024x, 1 in 3,573. Z1L3R9 (T50000) 43 legs 50,790x, 1 in 38,815. ZG9F1Z (MAX, 50-leg cap) 589,767x, 1 in 664,394.** All identity-verified; added to tickets.txt.
+- Grade: integer refund-line class at volume (18 legs on T500); v8.5 ML/away gates (no basketball ML under 0.75 made it); researched vs auto-factor legs.
+
+### Oct 18 — user code VDZKGD (40 legs, 1.22M x), analysed 11:00 UTC — remove 5 / 10 / 15
+- Nothing started at fetch (first KO 13:00). 28 fixtures already covered by the Oct 18 panel; 2 agents researched the other 12 (factorsVDZ_G1/G2). Legs 35 (Fyllingsdalen W, women's — research veto) and 36 (Brattvaag) are Unavailable: they settle on the original only and are dropped from every edit.
+- Ranking = model survival (refunds count) minus class penalties (2H-DC, corners, WEH, derby/knockout totals). Removal order: Aradippou away WEH (.54), Gremio away WEH (.55), Sturm–GAK corners O8.5 (derby, .62), Arsenal −1 at Forest (.58 incl. refund; Bayern Oct 21), Copenhagen O3 (.58) | Lokomotiv Oslo 2H-DC, Slaven–Dinamo O2.5 (.60, Dinamo rotation), Olympiacos −1 (.60), Enyimba O1.5 (.62), OB–Brondby corners (OB 8 GF in 10) | Hapoel BS O3 (.62), Beerschot–Anderlecht Away-or-O2.5 (cup, 90-min, .66), Bahia–Flamengo corners (Flamengo rotation), Celtic O2.5 (.625), Nacional Potosi O2.5 (.64).
+- **GHVCZS (rm-5): 33 legs, 36,974x, house 1 in 160k. PWB8PH (rm-10): 28 legs, 6,771x, 1 in 22k. R3R3Y4 (rm-15): 23 legs, 937x, 1 in 2,395.** All identity-verified; declared lotteries. Still on rm-15: 7 integer Over 2/3 (refund on exact line), 3 market-59 both-halves-No, Aris 12-DC, Real Madrid −1 / Celta +1 handicaps.
+- Grade: removed-15 vs kept-23.
+
+### Calibration (Oct 18, 20:30 UTC checkpoint) — every ticket dead; YBQJVV one leg short again
+- **YBQJVV (P80, 6 legs ≥0.80) DEAD 5W/1L** — killed by Santos–Querétaro Goal Bounds 0-4 (Santos won 5:0). Capped bounds against a mismatch = rout tail (L70/Oct 7 capped-bounds lesson); the v8.3 rout gate (fav p ≥0.65 → no Under/capped bounds) should have caught it — check whether that leg's fav_p was just under 0.65.
+- **Oct 18 ladder KUF2S8/HG9RQF/Z1L3R9/ZG9F1Z DEAD** on the same 5 early legs: Hvidovre O2 (1:0), New England–Chicago O2 (1:0), Le Havre–Auxerre U3.5 (1:3), Sandecja bounds 0-4 (4:3), Pogon Siedlce home 0-2 (3:4). Polish 2nd/3rd-tier games went 7 goals each — two Polish capped-goals legs on one ticket = correlated thin-league Under class again.
+- **VDZKGD + trims GHVCZS/PWB8PH/R3R3Y4 DEAD** on legs the knife kept: Lorient–Monaco Away-or-O2.5 (1:0), Aris–AEK 12-DC (1:1, L2/L54 draw risk), Al Gharafa–Al Rayyan both-halves-No (0:0). Copenhagen O3 (removed at #5) lost 1:1 — correct removal. 12-DC and market-59 must rank ABOVE mid-p goals legs in the knife (Oct 8 lesson, not applied).
+- Integer Over 2 legs went 0W/2L outright here (both 1:0) — the refund branch only helps on exactly 2 goals.
+
+### Oct 19 — VF7HDM (CORE 6 legs 3.75x) / W8RRS5 (14 legs 27.9x, user asked for 20-50x)
+- Board (now → Oct 19 23:59): 231 events; 44 fixtures researched by 4 agents (factors19_G*); veto Celta Fortuna (reserves). Hand-picked from legs that WIN OUTRIGHT at p≥0.73 (no integer refund lines — they shrank payouts and Over 2 lost twice Oct 18), no derby/big-club/rotation result-sides, ≤2 per country, Unders 5/14.
+- Mechanisms: Spurs 19th, 0 wins in 6, Porro out + Bentancur suspended (Coventry +2.5); Parma blank 4/8 (U3.5); Al Shabab 1W in 7 with two 0-0s (U4.5); Unión Española winless 6 v Copiapó 3 straight wins (+1.5); Remo bottom, keeper suspended, ≤1 goal in 7/8 (Remo +1.5 at home); Argeș blank 5/7 (U3.5); Abo Qair 3 goals in 7 (U3.5); Kazma rarely run up scores (Jahra +2.5); Waterford–Galway July 0-0 (+1.5); RFS 4-0/4-2 at home v Tukums 1W in 7 (O2.5); Hilal 2.8 g/g v Hazm 1W in 6 (O2.5); Monza U3.5; Pafos lost at Atalanta, David Luiz doubtful (APOEL +1.5); Cali 5W1D v Junior winless 4 (Cali +0.5).
+- CORE: model 1 in 4.3, house 1 in 4.5. W8RRS5: model 1 in 44, house 1 in 46. Both identity-verified.
+
+### Oct 19 — user code ZPMR5Q (39 legs, 855,546x), analysed 13:00 UTC — dead weight + remove 5 / 10 / 15
+- Nothing started at fetch. Leg 6 (Pena Deportiva 12-DC) Unavailable → settles on original only, dropped from every edit. Three research agents for the 24 unresearched fixtures died on the session limit before writing anything; with KO at 14:00 the build used engine prices + the 15 fixtures already researched (factors19) + ledger classes. Declared: no fresh research on the thin legs.
+- Excluded from the EDIT by V4-5 (already on VF7HDM/W8RRS5): Tottenham, Al Hilal, Union Espanola, Al Jahra. Celta Fortuna = reserve veto.
+- **U4JW7E (EDIT, 18 legs, 55.5x, ~1 in 121)**: Giugliano 12-DC→U3.5, Dolomiti away DNB→U3.5, Torpedo O2→O1.5, Dinamo Minsk 1X2, Inter Palmira/Orsomarso +1.0→+1.5, Mushuc O1.5, FC Tallinn O2.5, Dila O1.5, Diosgyor O2.5→O1.5, Fram O3→O2.5, Ra'anana away WEH→O1.5, Sohar away 1-3+, Santani O1.5, Termalica/Varberg Home-or-O2.5→O1.5, Orenburg TT O0.5, Bursaspor O3→O1.5. Cut: Trabzon/Viborg/Beitar O3, Al-Fayha & Giana away -1, Lugano away DNB, Kuwait -2, Omonia 1X2 (UEL rotation), Goias corners, U20 ×2, U21, 2H-DC, Tira away DNB, Kfar Shalem 1X2.
+- Trims (original markets; knife = class first, then lowest p): rm-5 Al Qadisiya U21, Alagoano U20 12-DC, Atletico U20 O2.5, Kalev 2H-DC, Al Jahra both-halves-No | rm-10 Giugliano 12-DC, Union Espanola 12-DC, Ra'anana WEH, Goias corners, Celta Fortuna O2 | rm-15 Giana -1 (.33), Bursaspor O3 (.36), Viborg O3 (.375), Trabzon O3 (.38), Kuwait -2 (.39). Next in line: Lugano away DNB (.40), Tottenham WEH, Al-Fayha -1, Beitar O3 (derby).
+- **PWRN1Q (rm-5) 33 legs 131,193x ~1 in 791k; PB5W5S (rm-10) 28 legs 24,958x ~1 in 111k; NDJWE0 (rm-15) 23 legs 988x ~1 in 3,165.** All identity-verified. Grade removed-15 vs kept.
+
+## ═══ Calibration (Oct 19 settlement, 21:40 UTC) — all 5 of today's tickets dead (VF7HDM, W8RRS5, ZPMR5Q family) ═══
+- **VF7HDM (6-leg core) 4W/1L/1P — dead on Argeș–Champions U3.5 (2:2).** W8RRS5 9W/4L/1P: Argeș U3.5, RFS O2.5 (2:0), Hilal O2.5 (1:0), Monza U3.5 (4:0). U4JW7E (ZPMR5Q edit) 13W/3L/2P, NDJWE0 15W/5L/1V, PB5W5S 16W/8L/2V, PWRN1Q 17W/9L/3V, ZPMR5Q original 20W/12L/3V.
+- **Unique legs across today's 4 codes: 35W/19L/3V/7P ≈ 65% decided vs ~72% priced — below model, mainly a goals-total miss.**
+- **Class scorecard:** Under 3.5 3W/3L (Argeș 2:2, Monza 4:0, Giugliano 3:1 — all exactly/over 4 goals), Over 1.5 7W/2L (the two losses were Superettan 0:0 and Belarus 1:0 — thin-league Overs again), Over 2.5 4W/2L (Hilal 1:0 lost, RFS 2:0 lost on exactly 2), **Over 3 integer 1W/4L/1V** (Trabzon 2:0, Hilal 1:0, Bursaspor 2:0, Beitar 0:0 — the user's booked Over 3 legs, all cut/converted), Home-or-Over 2.5 combos 1W/2L (both 0:0 losses), DNB 3W/0L, wide AH catches 6W/0L (+1.5/+2.5/-2, incl. Orsomarso/Palmira -1.5 handicaps), Both-Halves-No 0/1, WEH 1W/1L.
+- **Conversion audit (my edit U4JW7E vs the user's booked markets):** booked Over 3 → my Over 1.5/2.5: Trabzon & Hilal (cut), Bursaspor O3 2:0 LOST → my O1.5 WON; Fram O3 → O2.5 WON. Giugliano 12-DC (Foggia won 3:1 away) converted to U3.5 LOST while DC would have WON — U3.5 conversion hurt. Torpedo O2 (1:0 LOST) → my O1.5 also LOST (1:0). Varberg Home-or-O2.5 0:0 → my O1.5 also LOST. Net: totals-down conversions helped 2, hurt 1, neutral 3.
+- **Lessons (principle-level):** (1) Under 3.5 in Serie C/Serie A/Romania does not clear 0.80 hit rate in practice — 4-goal games are ~20-25% of fixtures even in "low-scoring" leagues, and a 4-leg Under 3.5 stack loses ~60% of the time. Do not put more than ONE Under 3.5 on a core. (2) Superettan/Belarus Over 1.5 is again the thin-league class that fails on 0:0/1:0. (3) Wide AH catches (+1.5/+2.5/-2 against non-dominant favourites) held 6/6.
+
+### Oct 19 night → Oct 20 — MAIN + 500 / 5000 / 50000 ladder (board Oct 19 21:35 → Oct 20 23:00 UTC, 207 fixtures)
+- Research: 6 agents, 207 fixtures, but they ran only ~1 minute each — ~12 fixtures got web work (PSG-Barca, Fener-Slavia, Napoli-Glimt, Liverpool-Villarreal, Stuttgart-Atletico, Man City-AEK, Roma-Slovan, Sabah-Dortmund, Wolves-Pompey, Corinthians-Vitoria, Al-Taawoun, Al Nassr); the rest carry Sportradar last-10 form at confidence 0.1-0.3, so the picker's low-confidence p≥0.78 gate bit. Vetoes: WNBL women's, U22 sides, Deportivo Pereira (strike + stadium closed). Honest: this is thinner research than the Oct 3 panel.
+- Learning applied from today's settlement: ≤1 Under-3.5 style leg per core; no Over 3 / integer-Over; no season-opener Unders (Kenya, CBA, Pardubice dropped), no WNBA total, no cup-league Goal Bounds; main-ticket fixtures excluded from the ladders (V4-5).
+- **R1XC8N (MAIN, 5 legs, 2.9x, model 1 in 3.2)**: Barcelona +1.5 at PSG (Barca missing Garcia/Koundé/Christensen), Glimt +2.5 at Napoli (Napoli 0 pts, Neres/Buongiorno out), Slavia +2.5 at Fenerbahce (both winless, both depleted), Wolves-Portsmouth O1.5 (Jimenez/Armstrong out), Stuttgart +1.5 v Atletico (Koke out). Four are UCL wide catches — one correlated "favourites rout" risk, flagged.
+- **RN3XSC (T500) 22 legs 614x, model 1 in 1,136 (all-win 1 in 7,941). HP1G13 (T5000) 29 legs 5,559x, 1 in 16,333. J3QRUG (T50000) 38 legs 64,879x, 1 in 332,048.** All identity-verified, nested; declared lotteries. Every pool leg is EV<1 (cost>1.04).
+- Grade: wide AH catches (UCL), Corinthians-Vitoria +2.0, Egypt/Costa Rica thin legs; whether low-confidence p≥0.78 gate legs behave.

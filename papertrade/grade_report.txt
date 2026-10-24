@@ -1,13 +1,13 @@
-graded total 1746 (+0 new)   [2026-10-12 22:39 UTC]
-baseball   mid 251     n    10  hit 0.500 vs model 0.500  logloss model 0.6575 house 0.6529  | EV>=1.05 picks 0 ROI +0.000  
-baseball   mid 256     n    10  hit 0.500 vs model 0.500  logloss model 0.6382 house 0.5919  | EV>=1.05 picks 0 ROI +0.000  
-baseball   mid 258     n    10  hit 0.500 vs model 0.500  logloss model 0.6834 house 0.7034  | EV>=1.05 picks 0 ROI +0.000  
-basketball mid 219     n    32  hit 0.500 vs model 0.500  logloss model 0.8024 house 0.8160  | EV>=1.05 picks 0 ROI +0.000  
-basketball mid 223     n   284  hit 0.507 vs model 0.504  logloss model 0.6944 house 0.6934  | EV>=1.05 picks 5 ROI -0.440  
-basketball mid 225     n   688  hit 0.500 vs model 0.500  logloss model 0.6476 house 0.6439  | EV>=1.05 picks 0 ROI +0.000  
-basketball mid 227     n   170  hit 0.500 vs model 0.500  logloss model 0.6953 house 0.6966  | EV>=1.05 picks 0 ROI +0.000  
-basketball mid 228     n   136  hit 0.500 vs model 0.500  logloss model 0.6720 house 0.6722  | EV>=1.05 picks 0 ROI +0.000  
-football   mid 139     n    42  hit 0.500 vs model 0.500  logloss model 0.6503 house 0.6908  | EV>=1.05 picks 3 ROI +1.150  
-football   mid 166     n   170  hit 0.500 vs model 0.500  logloss model 0.6168 house 0.6103  | EV>=1.05 picks 11 ROI -0.220  
-football   mid 900300  n   158  hit 0.500 vs model 0.500  logloss model 0.6838 house 0.6577  | EV>=1.05 picks 26 ROI -0.273  
-football   mid 900301  n    36  hit 0.500 vs model 0.500  logloss model 0.4033 house 0.4216  | EV>=1.05 picks 6 ROI +0.067  
+graded total 45000 (+3348 new)   [2026-10-24 00:05 UTC]
+baseball   mid 251     n    36  fav-side hit 0.444 vs model 0.578  logloss model 0.7123 house 0.7134  | EV>=1.05 picks 0 ROI +0.000  
+baseball   mid 256     n    56  fav-side hit 0.759 vs model 0.645  logloss model 0.5872 house 0.5613  | EV>=1.05 picks 0 ROI +0.000  
+baseball   mid 258     n    60  fav-side hit 0.633 vs model 0.562  logloss model 0.6474 house 0.6464  | EV>=1.05 picks 3 ROI -0.223  
+basketball mid 219     n   787  fav-side hit 0.614 vs model 0.646  logloss model 0.6584 house 0.6616  | EV>=1.05 picks 0 ROI +0.000  
+basketball mid 223     n  9137  fav-side hit 0.626 vs model 0.625  logloss model 0.6500 house 0.6507  | EV>=1.05 picks 97 ROI +0.114  PASS
+basketball mid 225     n 18144  fav-side hit 0.631 vs model 0.631  logloss model 0.6423 house 0.6418  | EV>=1.05 picks 1 ROI +1.950  
+basketball mid 227     n  4606  fav-side hit 0.540 vs model 0.547  logloss model 0.6889 house 0.6891  | EV>=1.05 picks 0 ROI +0.000  
+basketball mid 228     n  3476  fav-side hit 0.538 vs model 0.547  logloss model 0.6890 house 0.6892  | EV>=1.05 picks 0 ROI +0.000  
+football   mid 139     n  1022  fav-side hit 0.706 vs model 0.695  logloss model 0.5869 house 0.5893  | EV>=1.05 picks 192 ROI +0.036  PASS
+football   mid 166     n  2985  fav-side hit 0.637 vs model 0.631  logloss model 0.6466 house 0.6465  | EV>=1.05 picks 119 ROI -0.178  
+football   mid 900300  n  3544  fav-side hit 0.664 vs model 0.682  logloss model 0.6187 house 0.6138  | EV>=1.05 picks 600 ROI +0.019  
+football   mid 900301  n  1147  fav-side hit 0.618 vs model 0.722  logloss model 0.7074 house 0.6608  | EV>=1.05 picks 200 ROI -0.095  

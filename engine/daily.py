@@ -1,16 +1,16 @@
 # DAILY PAPER-TRADE RUN (scheduled ~22:50 Africa/Lagos). Run from engine/:  python3 daily.py
 # 1 refresh data  2 harvest SportyBet board (next 30h)  3 grow Sportradar histories  4 price corners/cards/basketball/baseball
 # 5 save papertrade/<date>_snapshot.json  6 grade all past snapshots  7 write papertrade/<date>_picks.md + LOG.md line
-import subprocess,json,datetime as dt,glob,os,collections
+import subprocess,json,datetime as dt,glob,os,collections,sys
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
-os.makedirs('cache',exist_ok=True); os.makedirs('data',exist_ok=True)   # gitignored: absent in a fresh container
-try: import scipy,numpy,pandas  # noqa: F401  (fresh routine sessions don't ship them)
-except ImportError: subprocess.run('pip install -q scipy numpy pandas',shell=True)
+FAIL=[]; T0=dt.datetime.utcnow()
+os.makedirs('cache',exist_ok=True); os.makedirs('../papertrade',exist_ok=True)   # fresh checkouts (CI) have no cache/
 D=dt.datetime.utcnow().strftime('%Y-%m-%d'); BF=f'cache/board_{D}.json'
 def run(c,t=3000):
     print('>>',c,flush=True)
-    try: subprocess.run(c,shell=True,timeout=t)
-    except subprocess.TimeoutExpired: print('TIMEOUT',c)
+    try:
+        if subprocess.run(c,shell=True,timeout=t).returncode: FAIL.append(c)
+    except subprocess.TimeoutExpired: print('TIMEOUT',c); FAIL.append('TIMEOUT '+c)
 for f in glob.glob('cache/priced_*.json'): os.remove(f)
 run('./fd_fetch.sh'); run('python3 board.py 30')
 run(f'python3 sr_football.py {BF}'); run(f'python3 sr_scores.py {BF}'); run('python3 hoops_sr.py')
@@ -20,8 +20,11 @@ snap=[]
 for f in glob.glob('cache/priced_*.json'):
     for x in json.load(open(f)):
         if 1.15<=x['odds']<=5: x.setdefault('sport','football'); snap.append({k:(round(x[k],4) if isinstance(x.get(k),float) else x.get(k)) for k in K})
-if snap: json.dump(snap,open(f'../papertrade/{D}_snapshot.json','w'))
-else: print('EMPTY SNAPSHOT - not written')
+SF=f'../papertrade/{D}_snapshot.json'   # merge with any earlier same-day snapshot so a rerun never drops ungraded outcomes
+if os.path.exists(SF):
+    seen={(x['eid'],x['oid'],x.get('spec')) for x in snap}
+    snap+= [x for x in json.load(open(SF)) if (x['eid'],x['oid'],x.get('spec')) not in seen]
+json.dump(snap,open(SF,'w'))
 run('python3 grade.py')
 # shortlist (PAPER ONLY until a market passes the grade criteria): best model-EV leg per event, odds 1.25-2.5
 best={}
@@ -36,4 +39,10 @@ md+=['','## Grade report (all snapshots to date)','```',open('../papertrade/grad
 open(f'../papertrade/{D}_picks.md','w').write('\n'.join(md)+'\n')
 gr=open('../papertrade/grade_report.txt').readline().strip() if os.path.exists('../papertrade/grade_report.txt') else ''
 open('../papertrade/LOG.md','a').write(f'- {D}: snapshot {len(snap)} outcomes / {len(best)} events; {gr}\n')
-print('DONE',D,len(snap))
+# heartbeat: lets the workflow / any monitor see at a glance whether today's run really did its job
+ok=os.path.exists(BF) and len(snap)>=200
+st=dict(date=D,started=f'{T0:%Y-%m-%d %H:%M}',finished=f'{dt.datetime.utcnow():%Y-%m-%d %H:%M}',snapshot_outcomes=len(snap),
+        events=len(set(x['eid'] for x in snap)),failed_steps=FAIL,graded_line=gr,ok=ok)
+json.dump(st,open('../papertrade/status.json','w'),indent=1)
+print('DONE' if ok else 'FAILED',D,len(snap),FAIL)
+sys.exit(0 if ok else 1)

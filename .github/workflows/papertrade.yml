@@ -1,0 +1,58 @@
+# Daily paper-trade pipeline: runs on GitHub's own runners, so it needs no Claude session, no container and no
+# repo attachment. Evening run = harvest + price + grade; midday run = grade only (results of last night settle).
+# Any failure (bad exit code, empty snapshot, push conflict) marks the run red and GitHub emails the repo owner.
+name: papertrade
+on:
+  schedule:
+    - cron: '40 21 * * *'   # 22:40 Africa/Lagos: full run (harvest next 30h, price, grade, journal)
+    - cron: '0 11 * * *'    # 12:00 Africa/Lagos: grade-only catch-up after overnight results settle
+  workflow_dispatch:
+    inputs:
+      mode: {description: 'full or grade', default: 'full', required: false}
+permissions:
+  contents: write
+concurrency: {group: papertrade, cancel-in-progress: false}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: claude/sports-accumulator-analysis-8su67, fetch-depth: 0}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install -q numpy scipy
+      - name: Restore API cache (Sportradar/SportyBet responses, ~400MB)
+        uses: actions/cache@v4
+        with:
+          path: engine/cache
+          key: engine-cache-${{ github.run_id }}
+          restore-keys: engine-cache-
+      - name: Pipeline
+        working-directory: engine
+        run: |
+          MODE="${{ github.event.inputs.mode }}"
+          if [ -z "$MODE" ]; then [ "${{ github.event.schedule }}" = '0 11 * * *' ] && MODE=grade || MODE=full; fi
+          echo "mode=$MODE"
+          if [ "$MODE" = grade ]; then python3 grade.py; else python3 daily.py; fi
+      - name: Settle posted tickets
+        if: always()
+        working-directory: engine
+        run: python3 settle_tickets.py || echo 'ticket settlement failed (non-fatal)'
+      - name: Journal (always, so failures are recorded too)
+        if: always()
+        working-directory: engine
+        run: python3 journal.py
+      - name: Commit and push results
+        if: always()
+        run: |
+          git config user.name 'papertrade-bot'
+          git config user.email 'papertrade-bot@users.noreply.github.com'
+          git add papertrade engine/data engine/coef_*.json
+          git diff --cached --quiet && { echo 'nothing to commit'; exit 0; }
+          git commit -q -m "papertrade: automated run $(date -u +%F' '%H:%M) UTC"
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase --autostash origin claude/sports-accumulator-analysis-8su67 && git push -q origin HEAD:claude/sports-accumulator-analysis-8su67 && exit 0
+            sleep $((i*i*5))
+          done
+          echo 'push failed after 5 attempts'; exit 1
