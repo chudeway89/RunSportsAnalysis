@@ -2417,3 +2417,16 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
   - rm-15 adds: Arsenal −1, Leganes away DNB, Westerlo O3, Servette O3, Napoli–Roma corners (derby).
   - **U9H9YB (34 legs), VVYYUH (29), SKZL6Q (24)**: all identity-verified, declared lotteries.
 - Grade: corners/WEH/12-DC removed vs kept; the integer-Over → .5-line conversions.
+
+## ═══ Calibration + panel (Oct 24 settlement, 21:15 UTC) — one-leg kills again; integer Overs and 1:0s on the user trims ═══
+- **KXKM85 (MAIN) 4W/0L + NYRB–Miami O2.5 pending at checkpoint.** H4R0YD (T500) 17W/1L/1V — killed ONLY by Trabzonspor–Esenler basketball U171.5 (183). U1JNV8 / LGJK18 / LJCZ26 dead on + Como O2.5 (2:0), Al-Riyadh +0.5 (2:1), Asteras O1.5 (0:0), Kifisia TT U1.5 (2:3), Dundee Utd U3.5 (3:2), Brno U3.5 (2:2), YB −1.5 catch (2:0).
+- **JQ5V5T family all dead**: NQEGVF core 4W/1L — only YB–St Gallen O2.5 (2:0; converted from O3). PNV5EK 12W/6L/1V. Trims died on the user's own integer Overs (Paderborn O2, Admira O2, Dortmund O3 — all 1:0), Cardiff corners, Chelsea Home-or-O2.5 (0:2), Notts Away-or-O2.5 (1:1), Odisha O1.5 (0:0), Utrecht WEH.
+- **Panel verdict:**
+  - LUCK: basketball U171.5 missed by 12 (p .72 leg in an early-season Turkish 2nd tier); Brno 2:2 and Dundee Utd 3:2 Unders (4-goal tails of ~.72 legs); YB O2.5 on 2:0 (exactly one goal short). Ladder leg-level survival matched the model again.
+  - PROCESS: (1) the user's integer Over 2/3 legs went 0W/4L on 1:0s — the trims should have ranked them above mid-p legs (v9 already bans them in my builds); (2) converting O3 → O2.5 (YB) still needs 3 goals — on a "both teams in form" read, the safe conversion is O1.5, not O2.5; (3) an early-season basketball total from a thin league sat on the T500 — basketball totals stay LO unless p≥0.82 (L15), and the picker allows 0.70: gap noted.
+
+### Oct 24 night (21:15 → 05:00 UTC Oct 25) — J6849M (user asked ≥50x; DECLARED LOTTERY)
+- Board 123 events (MLS MD32, Liga MX J14, Brasileirao R32, Arg LPF fecha 14, Liga BetPlay, Chile, J1/J2, A-League R2, NBA week 1). 13 inline extended searches, 18 fixtures researched (`cache/factors25n_G5.json`); Chapecoense–Fluminense excluded (already on 2 slips).
+- Vetoes: Charlotte +10.5 (Knueppel/White/Williams out, B2B — same veto as this morning), Sagan Tosu–Hachinohe +1.5 (bottom side rout class). Flags: Once Caldas–Pereira = clásico cafetero (derby → no result-side), Monterrey–Chivas big_club (totals need .82).
+- Mechanisms used: Rockets on B2B without VanVleet & Adams → Hawks +11.5; Santos 6 out (Verissimo, Brazão, Arão…) → Santos +0.5 (home not to lose) picked by the engine despite the absences — weakest researched leg; Rosario Central without 5, Huracán won 4 of last 5 H2H → Huracán +1.5; León–Toluca 5th v 4th cagey → U4.5.
+- **J6849M: 14 legs, 59.9x, model survival 1 in 110 (all-win 1 in 141), house-implied 1 in 60 incl. vig.** Identity-verified. Caveats: 4 USA legs (2 MLS Overs + 2 NBA), 3 Liga MX; 6 legs are screened-not-researched (Maldonado, Toyama U4, Cavs U238.5, Pumas +0.5, plus mid-band MLS Overs).

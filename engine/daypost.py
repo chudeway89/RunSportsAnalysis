@@ -30,7 +30,7 @@ sys.argv=['pick.py','5']; KO=os.environ.get('KOMIN') or dt.datetime.utcnow().str
 import importlib.util
 spec=importlib.util.spec_from_file_location('pk','pick.py'); pk=importlib.util.module_from_spec(spec)
 _stdout=sys.stdout; sys.stdout=open(os.devnull,'w'); spec.loader.exec_module(pk); sys.stdout=_stdout   # reuse every pick.py gate
-cand=[x for x in pk.OK if x['conf']>=0.25 and x['p']>=0.72 and 1.25<=x['odds']<=1.85 and x['mid'] not in('450001','450002','450003')]
+cand=[x for x in pk.OK if x['eid'] not in set(json.load(open(os.environ['EXTRA_EXCL'])) if os.environ.get('EXTRA_EXCL') else []) and x['conf']>=0.25 and x['p']>=0.72 and 1.25<=x['odds']<=1.85 and x['mid'] not in('450001','450002','450003')]
 cand.sort(key=lambda x:-(x['p']*x['odds']))   # best value at a high strike rate
 MAIN=[]; cc=collections.Counter(); und=0
 for x in cand:
@@ -40,7 +40,8 @@ for x in cand:
         und+=1
     MAIN.append(x); cc[pk.country(x)]+=1
     if len(MAIN)==5: break
-excl=f'cache/excl{tag}.json'; json.dump([x['eid'] for x in MAIN],open(excl,'w'))
+XTRA=json.load(open(os.environ['EXTRA_EXCL'])) if os.environ.get('EXTRA_EXCL') else []   # V4-5: fixtures already on 2 of today's slips
+excl=f'cache/excl{tag}.json'; json.dump([x['eid'] for x in MAIN]+XTRA,open(excl,'w'))
 tg=[t if t!='max' else '1e12' for t in targets]
 subprocess.run(['python3','-W','ignore','pick.py',*tg],check=True,env=dict(os.environ,EXCLUDE=excl,KOMIN=KO),stdout=subprocess.DEVNULL)
 T=json.load(open('cache/tickets.json'))
