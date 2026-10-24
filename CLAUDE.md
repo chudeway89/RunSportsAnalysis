@@ -2395,3 +2395,25 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
   - The ladder is nested; MAIN fixtures are excluded from the ladder (V4-5).
   - Many ladder legs are SCREENED (data-rich league, no adverse news found), not fully researched.
 - Grade at settlement: researched (conf≥0.3) vs screened (0.2) leg hit rate, and the v9 gates.
+
+### Oct 24 — user code JQ5V5T (39 legs, 755,293x, house 1 in 4.7M), analysed 11:10 UTC
+- Nothing had started at fetch (first KO 13:30). Mid-season board (EPL, LaLiga, Serie A, Bundesliga, Championship, MLS, Brasileirao), but the code is mostly loser classes:
+  - 7 corners legs (the corner markets FAIL the paper trade);
+  - 3 win-either-half, 2 no-draw 12-DC (one on Stuttgart II, a reserve side), 1 2H-DC;
+  - 12 integer Over 2/3 lines;
+  - 5 AH ∓1 legs, including Barnet −1 (.32) and Porto −1 away (.40);
+  - FCSB–Rapid O2.5, a Bucharest derby at .51.
+- Reused this morning's research (factors24_G5) and engine prices; no new searches.
+- V4-5: 9 fixtures were already on 2+ of today's slips (Utrecht, Mirassol, Montreal, Columbus, St Mirren, Zurich, Paderborn, Servette, Gil Vicente), so they were dropped from the edit and core. The trims keep the user's own markets, so they still carry them (breach flagged).
+- **PNV5EK (EDIT, 20 legs, 109x, house 1 in 227).** 13 conversions:
+  - O1.5: Estrela, Samsun, Almeria, Barnet.
+  - O2.5: Stjarnan, Glimt, YB, NYRB.
+  - Cardiff U4.5; West Ham +0.5; Rangers 1X2; Arsenal–Everton U3.5; Frankfurt +2.5 (Dortmund depleted); Vikingur +0.5; Beveren +1.5.
+  - Kept as booked: Chelsea Home-or-O2.5, Aberdeen +1.0, Notts Away-or-O2.5, IA O2.5, Odisha O1.5.
+- **NQEGVF (CORE, 5 legs, 3.2x, ~1 in 4):** Frankfurt +2.5, Cardiff–Birmingham U4.5, YB–St Gallen O2.5, Almeria–Oviedo O1.5, Rangers 1X2.
+- **Trims (original markets):**
+  - rm-5: Stuttgart II 12-DC, KR 2H-DC, FCSB–Rapid O2.5, Barnet −1, Aldershot O3.
+  - rm-10 adds: Estrela 12-DC, Utrecht WEH, Montreal away WEH, Palmeiras WEH, Porto −1.
+  - rm-15 adds: Arsenal −1, Leganes away DNB, Westerlo O3, Servette O3, Napoli–Roma corners (derby).
+  - **U9H9YB (34 legs), VVYYUH (29), SKZL6Q (24)**: all identity-verified, declared lotteries.
+- Grade: corners/WEH/12-DC removed vs kept; the integer-Over → .5-line conversions.
