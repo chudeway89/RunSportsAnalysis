@@ -64,6 +64,7 @@ def allowed(x):
         amateur=any(k in x['lg'] for k in('Amateur','Reserve','Regional'))
         if amateur and (d.startswith('Under') or m in('450001','450002','450003')): return False   # amateur routs (Oct 13: 0/3)
         if m=='16' and '+' in d and float(d.split('+')[1].rstrip(')'))>=2.5 and x.get('fav_p',0)>=0.70: return False  # L70 rout class
+        if m=='16' and '(+1.5)' in d and x.get('fav_p',0)>=0.55 and p<0.80: return False  # v9.2 (Oct 25): +1.5 v a real favourite died on exact 2-goal wins 4 of 5; take +2.0 (push) instead
         if m in RESULT and ({'derby','season_opener'}&f): return False      # L60/L65
         if 'knockout_90min' in f and m in('1','16','10'): return False      # L56: only DNB/totals on knockouts
         if 'rotation_risk' in f and p<0.78: return False                    # L66
