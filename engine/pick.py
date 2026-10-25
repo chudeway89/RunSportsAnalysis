@@ -14,6 +14,22 @@ for x in legs:
     b=UBIAS.get(x['lg'].split(' / ')[0],0) if x['sport']=='football' and x['mid']=='18' else 0
     if b and x['desc'].startswith('Under'): x['p']=max(x['p']+b,0)
     if b and x['desc'].startswith('Over'): x['p']=min(x['p']-b,1)
+# v9.3 (Oct 25, weekday study on 15,860 football-data matches 2024-26): top-flight Tue-Thu fixtures (rescheduled/congested
+# rounds) were the only split that broke the market's favourite pricing: strong favourites (p>=.65) won 70.1% v 74.6% implied
+# (n=134, ROI -11.4%) and draws ran 27.2% v 23.9%. Weekend favourites won 77.6% v 74.0%. Evidence is ~1.2-1.7 SE, so the
+# shift is half the gap: favourite win-sides -0.02, Overs -0.01 on Tue-Thu top flights. Recheck in papertrade/CLASSES.md.
+TOPFLIGHT={'England / Premier League','Spain / LaLiga','Italy / Serie A','Germany / Bundesliga','France / Ligue 1',
+           'Netherlands / Eredivisie','Belgium / Pro League','Portugal / Liga Portugal','Turkiye / Super Lig',
+           'Scotland / Premiership','Greece / Super League'}
+def midweek(x):
+    try: return __import__('datetime').date(2026,int(x['ko'][:2]),int(x['ko'][3:5])).weekday() in (1,2,3)
+    except ValueError: return False
+for x in legs:
+    if x['sport']!='football' or x['lg'] not in TOPFLIGHT or not midweek(x): continue
+    d=x['desc']
+    if (x['mid']=='1' and x['p_base']>=0.55 or x['mid']=='11' and x['p_base']>=0.65) and d in('Home','Away'): x['p']=max(x['p']-0.02,0)  # backed side is the favourite
+    if x['mid']=='16' and '(-' in d: x['p']=max(x['p']-0.02,0)
+    if x['mid']=='18' and d.startswith('Over'): x['p']=max(x['p']-0.01,0)
 for k,g in _G.items():
     if len(g)==2 and all(x.get('pp',0)==0 for x in g):
         s=sum(1/x['odds'] for x in g)
