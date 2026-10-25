@@ -84,7 +84,7 @@ def allowed(x):
             h=abs(float(x['spec'].split('=')[1]))
             if h<8.5 and p<0.80: return False                               # close spreads (L52)
             if h>=12.5 and '+' in d and x['conf']<0.3: return False         # v8.4: wide catch needs researched credible receiver (ASVEL +18.5, L26)
-        if m=='225' and x['p']<0.70: return False
+        if m=='225' and x['p']<0.74: return False                            # v9.1 (Oct 24): Trabzonspor-Esenler U171.5 at .72 killed the T500; bball totals are LO (L15)
         if m=='219' and p<0.75: return False                                 # v8.5 (Oct 17): bball MLs at .65-.67 went 0W/3L (Burgos, Zamora, Opava)
         if 'season_opener' in f and m in RESULT: return False
         if x['conf']<0.2 and p<0.78: return False
