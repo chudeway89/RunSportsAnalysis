@@ -2481,3 +2481,23 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - Overnight board (21:00 → 05:00 UTC) only 40 fixtures (NBA, WNBA Finals G5, World Series G3, Brasileirão A/B, Arg LPF/Primera B, Colombia, Chile, Bolivia, Jamaica, Uruguay 2). With every gate on, daypost's pool tops out ~8x, so 50x/500x were hand-built from winmodel_legs (gates kept: no Under when fav_p≥0.65, Unders ≤40%, Overs ≤40%, +1.5 v fav≥0.55 only at p≥0.80, no basketball openers/reserves/Panama Prom, ≤3-4 per country). Research (8 extended searches): Santa Fe–Bucaramanga vetoed (date conflict); Flamengo–Atlético MG rotation/big_club (totals blocked); NBA depleted sides (CHA, WAS, DAL, GSW, HOU w/o Adams, OKC w/o J.Williams, CHI w/o Claxton); WNBA G4 129 pts.
 - **JU9V64 (50x): 12 legs, 60.5x, model 1 in 78. MWXDSZ (500x): 15 legs, 544x, model 1 in 808.** Both identity-verified; every leg is mid-band (p .58-.76), so both are declared lotteries. Grade: NBA +1.5 to +4.5 home catches (5 legs), Brazil/Argentina team-total legs.
 - Tooling note: `daypack.sh` can't take an end hour past midnight (it sets hour on today's date) — for overnight boards run board.py/winmodel/autoform manually.
+
+### Calibration (Oct 26 final, checked Oct 27 05:37 UTC) — TWO WINS from the GYUUUZ edit
+- **SQWZVZ (GYUUUZ edit, 15 legs) WON 12W/0L/3V → PROJECT WIN #35. VE2ZFT (GYUUUZ core, 6 legs) WON 5W/0L/1V → WIN #36.** The O3→O1.5 conversions, Pafos/Sevilla/Reims DNBs and Red Star +1.0 all held. The trims of the original markets all died, and so did the original itself. Converting the booked integer Overs and cutting the 12-DC, market-59 and youth legs worked again.
+- **Overnight lotteries both died.** JU9V64 (50x) went 9W/3L, losing Utah +4.5 (105:110), Unión TT U1.5 (3:1) and Miami +1.5 (109:113). MWXDSZ (500x) went 8W/7L. NBA close home catches went 3W/3L: early-season NBA spreads under 8.5 are coin-flips (L52 confirmed again).
+
+### Oct 27 (Tuesday) — cup-heavy board: 500x / 5000x / 50000x (DECLARED LOTTERIES)
+- Board: 295 fixtures. More than half are single-tie cups: Copa del Rey R1, DFB Pokal R2, KNVB R1, EFL Cup R4, Türkiye Kupası, ÖFB Cup, Polish/Czech/Romanian/Greek/Ukrainian/Russian cups and the Taça da Liga QF. The rest is Serie A ×3, Serie B, League One ×5, AFC CL Elite, EuroLeague ×6, EuroCup, Allsvenskan and Bulgaria.
+- daypack fixed: an end hour past midnight now rolls to the next day.
+- **Research: 12 extended searches.** Every cup fixture (~85) was flagged knockout_90min, which allows only DNB and Unders at p≥0.78.
+  - Vetoes: Sporting–Marítimo (fragile favourite, 2 wins in 6, two straight home losses) and Al-Shamal–Al Hilal (date conflict).
+  - Flags: Shakhtar–Dynamo derby; Dinamo Zagreb–Rijeka big_club.
+  - Adjustments: Roma's xg cut (Koné, Svilar, Pellegrini, Dybala out); Wigan's xg cut (bottom, 8 goals in 11); Baskonia's margin (Simmons and Duarte out); Maccabi's margin (Lundberg out).
+  - Rotation flags on Arsenal (9 changes, Saka out) and Villarreal.
+- The engine's gated pool topped out at ~19x, so the ladder was hand-built.
+  - Pool: winmodel legs with p≥0.58-0.62 at odds 1.25-2.1, ≤3-4 per country.
+  - Gates: no knockout legs except DNB/Unders at p≥0.78; no rotation-flagged legs below 0.75; no derby result-sides; no Under or team-total Under when the favourite is ≥0.62-0.65.
+  - Exclusions: thin leagues (Ethiopia, Algeria, Uganda, Tanzania, Vietnam, India, Iran, Saudi D1/D2, Ecuador B, Panama…) and English non-league.
+- **UNDDK9 (T500): 17 legs, 655x, model 1 in 878. MZKJYJ (T5000): 22 legs, 6,387x, 1 in 10,670. L347ET (T50000): 27 legs, 76,656x, 1 in 155,798.** All identity-verified; the ladder is nested.
+- Basketball handicaps make up 6-9 legs per ticket, the one market that passes the paper trade. The ladder also stacks 4-5 Serie A/B Under 3.5 legs: correlated Italian Unders, flagged.
+- Grade: basketball handicap class at volume; Italy Under 3.5 cluster; whether cup-avoidance (zero cup legs) paid.
