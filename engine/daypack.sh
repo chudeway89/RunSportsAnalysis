@@ -7,7 +7,7 @@ set -e
 TAG=$1; END=${2:-23}
 python3 -c "import scipy" 2>/dev/null || pip install -q scipy numpy pandas
 mkdir -p cache data
-H=$(python3 -c "import datetime as d;n=d.datetime.utcnow();e=n.replace(hour=$END,minute=0);print(max(1,round((e-n).total_seconds()/3600,2)))")
+H=$(python3 -c "import datetime as d;n=d.datetime.utcnow();e=n.replace(hour=$END,minute=0);e=e+d.timedelta(days=1) if e<=n else e;print(max(1,round((e-n).total_seconds()/3600,2)))")
 python3 -W ignore board.py "$H"
 B=cache/board_$(date -u +%Y-%m-%d).json
 python3 -W ignore winmodel.py base "$B" "$B" && cp cache/baseline.json cache/baseline17.json
