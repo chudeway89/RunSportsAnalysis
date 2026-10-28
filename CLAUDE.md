@@ -2544,3 +2544,9 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - All 38 legs are market 90 "2nd Half Over 0.5" or "Over 1" (integer: exactly 1 second-half goal refunds). Spans 3 days (L14). One market across 38 fixtures = correlated stack (L73 / Oct 19 O1.5 stack).
 - Deadweight: legs 15, 23, 37 (Welsh/NI) Unavailable → ride on original only (L74).
 - **PFK58L (35 legs, 4,531x, house 1 in 15,367)**; **XHPWSJ (remove-5, 30 legs, 943x, 1 in 2,594)** — removed the five lowest house p: Swansea–Blackburn .66, Arouca–Nacional .68, Bregenz–Admira .72, Real Sociedad B–Girona .72, Dinamo–Akhmat .73. Both identity-verified; declared lotteries. Grade: 2nd-half Over class at volume.
+
+### Oct 28 — user code JARTNB (39 legs) — deadweight, edit, remove 5/10/15
+- Legs 29-34 (six Copa del Rey ties) suspended/cancelled → void on original, cannot rebook. Junk: 4 women's, 2 U19, 3 WEH, 2 corners, market-59, 2 no-draw 12-DC, 2H-DC, 10 integer Over 2/3 (mostly cup knockouts, 90-min).
+- V4-5: Freiburg-Wolfsburg, Paderborn-Stuttgart, Celtic-Dundee Utd already on 2 slips → not in edit/core; Man City, Genoa, Hearts on 1 → edit only.
+- Trims (original markets): rm-5 Pisa O3, Goteborg O3, Alianza & Orduspor 12-DC, Bayern W 2H-DC → LPB7HV (28, 13,860x); rm-10 + Liverpool O3, Ranheim O3, both U19, Coban m59 → UC05KF (23, 1,562x); rm-15 + Chelsea W excluded-goals, Corinthians W O2.5, London City W O2.5, Sarpsborg O3, Freiburg O3 → VN93KJ (18, 241x, 1 in 533). LB34B0 = deadweight only (33 legs).
+- EDIT WKG6JV (11 legs, 8.72x, model 1 in 11.7): Brighton +2.5, Bournemouth-Villa U4.5, Juve DNB, Pisa O1.5, Valerenga TT U2.5, Alianza O1.5, Dundee O1.5, Hearts +1.5, Goteborg O1.5, Sakaryaspor U4.5, Fulham U4.5. CORE T5M0KD (5 legs, 2.61x, model 1 in 3.0). Grade: knockout Under conversions vs booked integer Overs.
