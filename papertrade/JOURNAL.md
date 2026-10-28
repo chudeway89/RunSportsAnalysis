@@ -572,3 +572,41 @@ Graded outcomes to date: 50796
 | baseball | 256 | 67 | 0.5712 | 0.5393 | +0.0319 | 0 | +0.000 | collecting |
 | baseball | 251 | 40 | 0.6924 | 0.6924 | +0.0000 | 0 | +0.000 | collecting |
 
+## Day 31 — 2026-10-27 16:20 UTC
+Run: OK | snapshot 4886 outcomes / 68 events | failed steps: none
+Graded outcomes to date: 52597
+
+| Sport | Market | n | Model LL | House LL | Δ (neg = model better) | EV picks | Picks ROI | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| basketball | 225 | 21006 | 0.6450 | 0.6446 | +0.0004 | 1 | +1.950 | FAIL (house better) |
+| basketball | 223 | 10650 | 0.6501 | 0.6507 | -0.0006 | 105 | +0.186 | **PASS** |
+| basketball | 227 | 5176 | 0.6894 | 0.6897 | -0.0003 | 0 | +0.000 | FAIL (picks lose) |
+| football | 900300 | 4560 | 0.6166 | 0.6171 | -0.0005 | 774 | +0.064 | **PASS** |
+| basketball | 228 | 3938 | 0.6881 | 0.6881 | -0.0001 | 0 | +0.000 | FAIL (picks lose) |
+| football | 166 | 3559 | 0.6502 | 0.6485 | +0.0018 | 139 | -0.133 | FAIL (house better) |
+| football | 900301 | 1467 | 0.6930 | 0.6559 | +0.0371 | 238 | -0.077 | FAIL (house better) |
+| football | 139 | 1138 | 0.5912 | 0.5981 | -0.0069 | 219 | +0.051 | **PASS** |
+| basketball | 219 | 898 | 0.6540 | 0.6568 | -0.0028 | 0 | +0.000 | FAIL (picks lose) |
+| baseball | 258 | 84 | 0.6476 | 0.6529 | -0.0052 | 6 | +0.157 | collecting |
+| baseball | 256 | 77 | 0.5958 | 0.5688 | +0.0269 | 0 | +0.000 | collecting |
+| baseball | 251 | 44 | 0.7067 | 0.7081 | -0.0014 | 0 | +0.000 | collecting |
+
+## Day 32 — 2026-10-28 00:49 UTC
+Run: OK | snapshot 7273 outcomes / 115 events | failed steps: none
+Graded outcomes to date: 55544
+
+| Sport | Market | n | Model LL | House LL | Δ (neg = model better) | EV picks | Picks ROI | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| basketball | 225 | 22460 | 0.6452 | 0.6449 | +0.0003 | 1 | +1.950 | FAIL (house better) |
+| basketball | 223 | 11478 | 0.6486 | 0.6488 | -0.0002 | 137 | +0.100 | **PASS** |
+| basketball | 227 | 5502 | 0.6890 | 0.6893 | -0.0003 | 0 | +0.000 | FAIL (picks lose) |
+| football | 900300 | 4586 | 0.6167 | 0.6177 | -0.0010 | 781 | +0.064 | **PASS** |
+| basketball | 228 | 4182 | 0.6881 | 0.6881 | -0.0000 | 0 | +0.000 | FAIL (picks lose) |
+| football | 166 | 3571 | 0.6504 | 0.6485 | +0.0019 | 139 | -0.133 | FAIL (house better) |
+| football | 900301 | 1471 | 0.6947 | 0.6578 | +0.0369 | 239 | -0.070 | FAIL (house better) |
+| football | 139 | 1138 | 0.5912 | 0.5981 | -0.0069 | 219 | +0.051 | **PASS** |
+| basketball | 219 | 951 | 0.6590 | 0.6633 | -0.0043 | 0 | +0.000 | FAIL (picks lose) |
+| baseball | 258 | 84 | 0.6476 | 0.6529 | -0.0052 | 6 | +0.157 | collecting |
+| baseball | 256 | 77 | 0.5958 | 0.5688 | +0.0269 | 0 | +0.000 | collecting |
+| baseball | 251 | 44 | 0.7067 | 0.7081 | -0.0014 | 0 | +0.000 | collecting |
+
