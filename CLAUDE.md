@@ -2539,3 +2539,8 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - **Z77HT4 (T500): 18 legs, 510x, model 1 in 966. YVL7G4 (T5000): 24 legs, 6,123x, model 1 in 14,598** (T500 + St Mirren U3.5, Al Nahda U3.5, Vllaznia +0.5, Man City DNB, Honved +9.5, Debrecen +12.5 — the two Hungarian catches are screened only). Both identity-verified, nested, in tickets.txt.
 - Research-file bug fixed: factors28_G5 had percent strings ("+4%") where winmodel expects absolute xG; converted using auto28 values. Encode factors as absolute xG / absolute margin from now on.
 - Grade: Albania/Belarus/Estonia thin-league legs (6 on T500) vs the researched top-flight legs.
+
+### Oct 28 — user code JRF2A1 (38 legs, 8,834x, house 1 in 34,862) — single-market 2nd-half Over stack, Oct 30–Nov 1
+- All 38 legs are market 90 "2nd Half Over 0.5" or "Over 1" (integer: exactly 1 second-half goal refunds). Spans 3 days (L14). One market across 38 fixtures = correlated stack (L73 / Oct 19 O1.5 stack).
+- Deadweight: legs 15, 23, 37 (Welsh/NI) Unavailable → ride on original only (L74).
+- **PFK58L (35 legs, 4,531x, house 1 in 15,367)**; **XHPWSJ (remove-5, 30 legs, 943x, 1 in 2,594)** — removed the five lowest house p: Swansea–Blackburn .66, Arouca–Nacional .68, Bregenz–Admira .72, Real Sociedad B–Girona .72, Dinamo–Akhmat .73. Both identity-verified; declared lotteries. Grade: 2nd-half Over class at volume.
