@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-28 00:49 UTC. Totals: 0 won · 30 dead · 0 alive · 25 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-28 17:05 UTC. Totals: 0 won · 24 dead · 0 alive · 31 expired.
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -16,8 +16,8 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-10-13 | ME7N2R | v8 T500 | – | – | N/A (expired) | |
 | 2026-10-13 | H4L82L | v8 T5000 | – | – | N/A (expired) | |
 | 2026-10-13 | XASL5K | v8 T50000 | – | – | N/A (expired) | |
-| 2026-10-14 | U5Q1RC | H25EVX rm-2 | 24 | 14W/10L/0V/0P | DEAD | Bodoe/Glimt v Borussia Dortmund — GG/NG Yes (1:0); Eintracht Frankfurt v Cologne — GG/NG Yes (1:0); Hamburger SV v Stuttgart — GG/NG Yes (1:0); Norwich v Southampton — GG/NG Yes (0:1); Holstein Kiel v Hertha — GG/NG Yes (0:0); Karlsruher SC v Darmstadt — GG/NG Yes (4:0); Alemannia Aachen v Hansa Rostock — GG/NG Yes (2:0); FC Ingolstadt 04 v Rot-Weiss Essen — GG/NG Yes (1:0); Slask Wroclaw v Napoli Basket — 1st Half - Over/Under Over 80.5 (82:86); Reyer Venezia v Turk Telekom — 1st Half - Over/Under Over 78.5 (75:65) |
-| 2026-10-14 | UG3R90 | H25EVX rm-5 | 21 | 14W/7L/0V/0P | DEAD | Bodoe/Glimt v Borussia Dortmund — GG/NG Yes (1:0); Eintracht Frankfurt v Cologne — GG/NG Yes (1:0); Hamburger SV v Stuttgart — GG/NG Yes (1:0); Holstein Kiel v Hertha — GG/NG Yes (0:0); Karlsruher SC v Darmstadt — GG/NG Yes (4:0); Slask Wroclaw v Napoli Basket — 1st Half - Over/Under Over 80.5 (82:86); Reyer Venezia v Turk Telekom — 1st Half - Over/Under Over 78.5 (75:65) |
+| 2026-10-14 | U5Q1RC | H25EVX rm-2 | – | – | N/A (expired) | |
+| 2026-10-14 | UG3R90 | H25EVX rm-5 | – | – | N/A (expired) | |
 | 2026-10-14 | M5NTNA | v8.2 T600 | – | – | N/A (expired) | |
 | 2026-10-14 | QG8Y4S | v8.2 T5000 | – | – | N/A (expired) | |
 | 2026-10-14 | WT8MDM | v8.2 T50000 | – | – | N/A (expired) | |
@@ -29,10 +29,10 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-10-15 | K129QM | v8.3 T5000 | – | – | N/A (expired) | |
 | 2026-10-15 | Y2H7T6 | v8.3 T50000 | – | – | N/A (expired) | |
 | 2026-10-15 | Q2TSRV | KPHAGP rm-3 | – | – | N/A (expired) | |
-| 2026-10-17 | S6N0KG | v8.4 T500 | 23 | 13W/8L/2V/0P | DEAD | New England Revolution v Chicago Fire — Over/Under Over 2 (1:0); CB San Pablo Burgos v Obradoiro CAB — Winner (incl. overtime) Home (72:79); Limoges CSP v ASVEL Lyon-Villeurbanne — Over/Under (incl. overtime) 176.5 Under 176.5 (94:97); Dundee FC v Rangers — 1X2 Away (2:2); Deportivo Toluca FC v Atletico San Luis — 1X2 Home (1:1); Velez Sarsfield v Gimnasia y Esgrima Mendoza — Over/Under Over 1.5 (1:0); FC Ska-Khabarovsk v FC Volga Ulyanovsk — Asian Handicap 0.5 Home (+0.5) (1:2); Platense FC Puerto Cortes v FC Motagua Tegucigalpa — Asian Handicap 1.5 Home (+1.5) (0:2) |
-| 2026-10-17 | RL8HMU | v8.4 T5000 | 31 | 20W/9L/2V/0P | DEAD | New England Revolution v Chicago Fire — Over/Under Over 2 (1:0); CB San Pablo Burgos v Obradoiro CAB — Winner (incl. overtime) Home (72:79); Limoges CSP v ASVEL Lyon-Villeurbanne — Over/Under (incl. overtime) 176.5 Under 176.5 (94:97); Dundee FC v Rangers — 1X2 Away (2:2); Deportivo Toluca FC v Atletico San Luis — 1X2 Home (1:1); Velez Sarsfield v Gimnasia y Esgrima Mendoza — Over/Under Over 1.5 (1:0); FC Ska-Khabarovsk v FC Volga Ulyanovsk — Asian Handicap 0.5 Home (+0.5) (1:2); Platense FC Puerto Cortes v FC Motagua Tegucigalpa — Asian Handicap 1.5 Home (+1.5) (0:2); Jeonbuk FC v Jeju SK FC — Over/Under Under 3.5 (3:2) |
-| 2026-10-17 | XMV4RQ | v8.4 T50000 | 38 | 24W/12L/2V/0P | DEAD | New England Revolution v Chicago Fire — Over/Under Over 2 (1:0); CB San Pablo Burgos v Obradoiro CAB — Winner (incl. overtime) Home (72:79); Limoges CSP v ASVEL Lyon-Villeurbanne — Over/Under (incl. overtime) 176.5 Under 176.5 (94:97); Dundee FC v Rangers — 1X2 Away (2:2); Deportivo Toluca FC v Atletico San Luis — 1X2 Home (1:1); Velez Sarsfield v Gimnasia y Esgrima Mendoza — Over/Under Over 1.5 (1:0); FC Ska-Khabarovsk v FC Volga Ulyanovsk — Asian Handicap 0.5 Home (+0.5) (1:2); Platense FC Puerto Cortes v FC Motagua Tegucigalpa — Asian Handicap 1.5 Home (+1.5) (0:2); Jeonbuk FC v Jeju SK FC — Over/Under Under 3.5 (3:2); Iwaki FC v Ventforet Kofu — Over/Under Under 3.5 (5:0); Unan Managua v San Marcos FC — Over/Under Under 3.5 (3:2); CA Independiente Siguatepeque v Lobos UPNFM — Over/Under Under 3.5 (0:4) |
-| 2026-10-17 | RPXBYX | v8.4 MAX (50 legs) | 50 | 34W/14L/2V/0P | DEAD | New England Revolution v Chicago Fire — Over/Under Over 2 (1:0); CB San Pablo Burgos v Obradoiro CAB — Winner (incl. overtime) Home (72:79); Limoges CSP v ASVEL Lyon-Villeurbanne — Over/Under (incl. overtime) 176.5 Under 176.5 (94:97); Dundee FC v Rangers — 1X2 Away (2:2); Deportivo Toluca FC v Atletico San Luis — 1X2 Home (1:1); Velez Sarsfield v Gimnasia y Esgrima Mendoza — Over/Under Over 1.5 (1:0); FC Ska-Khabarovsk v FC Volga Ulyanovsk — Asian Handicap 0.5 Home (+0.5) (1:2); Platense FC Puerto Cortes v FC Motagua Tegucigalpa — Asian Handicap 1.5 Home (+1.5) (0:2); Jeonbuk FC v Jeju SK FC — Over/Under Under 3.5 (3:2); Iwaki FC v Ventforet Kofu — Over/Under Under 3.5 (5:0); Unan Managua v San Marcos FC — Over/Under Under 3.5 (3:2); CA Independiente Siguatepeque v Lobos UPNFM — Over/Under Under 3.5 (0:4); BK Opava v Sokol Pisek — Winner (incl. overtime) Home (77:88); Al Quwa Al Jawiya v AL Karma — Over/Under Over 1.5 (0:0) |
+| 2026-10-17 | S6N0KG | v8.4 T500 | – | – | N/A (expired) | |
+| 2026-10-17 | RL8HMU | v8.4 T5000 | – | – | N/A (expired) | |
+| 2026-10-17 | XMV4RQ | v8.4 T50000 | – | – | N/A (expired) | |
+| 2026-10-17 | RPXBYX | v8.4 MAX (50 legs) | – | – | N/A (expired) | |
 | 2026-10-17 | YBQJVV | P80 (every leg >=0.80) | – | – | N/A (expired) | |
 | 2026-10-17 | JUSQ3Z | basketball-only | – | – | N/A (expired) | |
 | 2026-10-18 | KUF2S8 | T500 v8.5 full-board | 27 | 20W/5L/2V/0P | DEAD | Hvidovre IF v Hillerod Fodbold — Over/Under Over 2 (1:0); New England Revolution v Chicago Fire — Over/Under Over 2 (1:0); Le Havre v AJ Auxerre — Over/Under Under 3.5 (1:3); Sandecja Nowy Sacz v Zawisza Bydgoszcz — Goal Bounds 0-4 (4:3); Pogon Siedlce v ZKS Stal Rzeszow — Goal Bounds - Home 0-2 (3:4) |
