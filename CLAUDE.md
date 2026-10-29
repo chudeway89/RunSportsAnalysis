@@ -22,6 +22,14 @@ When asked for the day's tickets (top picks / 500 / 5000 / 50000 / max), do exac
 - **Budget:** about 12 extended searches and 25 tool calls for a full Saturday board. Never post before the dry run has been reviewed (Oct 24: an early post had to be pulled from `tickets.txt`).
 - **Tiers (honest):** MAIN = 4-6 researched legs at p≥0.72, 3-8x (the only shape that has ever won). 500x and above are declared lotteries: state their 1-in-X, keep the stake small.
 
+## ═══ V6 OPERATING RULES (Oct 29 panel) — READ FIRST, override older guidance ═══
+Full evidence: "SYSTEM REVIEW v6" near the end of this file. Key numbers: legs beat the house by +8pp (168 won vs 150 expected); 35 of 37 wins had ≤8 legs; ~200 tickets of 13+ legs produced 1 win; cores ≈ break-even (~13/41 at ~3.2x); Unders −12pp vs house; trims of user codes have never won.
+- **D1 One book per day:** 1 CORE (4-6 legs, 2.5-6x, ~70% of stake) + at most 1 VALUE (6-8 legs, 8-15x, ~25%) + at most 1 declared LOTTERY only if asked (~5%). No nested 4-rung ladders by default.
+- **D2 User codes:** deadweight removal + EDIT + CORE. Trims only on explicit request, labelled "has never won".
+- **D3 Legs:** core legs need fixture research with a named mechanism; max ONE Under per core; prefer O1.5/team Overs (leagues ≥2.7 goals), DNB, wide catches vs non-dominant favourites, basketball handicaps. No integer O/U Overs, no capped bounds in mismatches, no thin-league fill to hit a number.
+- **D4 Judge by money:** TICKETS.md ROI table weekly; drop any tier with negative ROI over 30+ tickets.
+- **D5 Hygiene:** every code into tickets.txt as `CODE  YYYY-MM-DD  label`; a fixture on ≤2 slips incl. rebooks of user codes.
+
 ## SportyBet Nigeria API (Confirmed Working)
 
 ### Fetch an existing booking code
