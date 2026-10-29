@@ -27,10 +27,11 @@ def leg_class(sport,mid,spec,desc):
     return {'1':'1X2 '+d,'11':'DNB','10':'Double Chance','219':'bball ML','251':'MLB ML','256':'MLB run-line','50':'GG/BTTS','51':'GG/BTTS',
             '450001':'Goal Bounds','450002':'Goal Bounds team','450003':'Goal Bounds team','166':'corners','139':'cards'}.get(mid,'other m'+str(mid))
 rows,tot=[],{'WON':0,'DEAD':0,'ALIVE':0,'N/A':0}
+roi=[]  # (legs, status, unit return) per settled ticket
 for line in open(T):
     line=line.split('#')[0].strip()
     if not line: continue
-    code,day,*lab=line.split(); lab=' '.join(lab)
+    code,*rest=line.split(); day=rest[0] if rest else '?'; lab=' '.join(rest[1:])  # tolerate a bare code (Oct 28 bug)
     d=(curl_get(f'https://www.sportybet.com/api/ng/orders/share/{code}') or {}).get('data')
     if not d:
         rows.append(f'| {day} | {code} | {lab} | – | – | N/A (expired) | |'); tot['N/A']+=1; continue
@@ -51,11 +52,20 @@ for line in open(T):
             L+=1; lost.append(f"{o['homeTeamName']} v {o['awayTeamName']} — {o['markets'][0].get('desc')} {oc['desc']} ({o.get('setScore')})")
         else: P+=1
     st='DEAD' if L else ('ALIVE' if P else 'WON'); tot[st]+=1
+    if st!='ALIVE':
+        ret=1.0
+        for o in d.get('outcomes',[]):
+            mk=o['markets'][0]; oc=mk['outcomes'][0]
+            if oc.get('isWinning')==1: ret*=LEGS[f"{o['eventId']}|{mk['id']}|{mk.get('specifier') or ''}|{oc['id']}"]['odds']
+        roi.append((W+L+V+P,st,ret if st=='WON' else 0.0))
     rows.append(f"| {day} | {code} | {lab} | {W+L+V+P} | {W}W/{L}L/{V}V/{P}P | {'**WON**' if st=='WON' else st} | {'; '.join(lost)} |")
 now=dt.datetime.utcnow()
 out=['# Ticket ledger (auto-settled)','',
      f'Written by `engine/settle_tickets.py` on every scheduled run. Last update {now:%Y-%m-%d %H:%M} UTC. '
      f"Totals: {tot['WON']} won · {tot['DEAD']} dead · {tot['ALIVE']} alive · {tot['N/A']} expired.",'',
+     '## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)','','| Ticket size | Tickets | Won | Staked | Returned | ROI |','|---|---|---|---|---|---|',
+     *[f"| {nm} | {len(g)} | {sum(x[1]=='WON' for x in g)} | {len(g)} | {sum(x[2] for x in g):.1f} | {100*(sum(x[2] for x in g)/len(g)-1):+.0f}% |"
+       for nm,g in (('1-7 legs',[x for x in roi if x[0]<=7]),('8-12 legs',[x for x in roi if 8<=x[0]<=12]),('13+ legs',[x for x in roi if x[0]>=13])) if g],'',
      '| Date | Code | Ticket | Legs | Result | Status | Losing legs |','|---|---|---|---|---|---|---|',*rows,'']
 open(M,'w').write('\n'.join(out)); print('\n'.join(out[:4]))
 open(LJ,'w').write(''.join(json.dumps(r)+'\n' for r in LEGS.values()))

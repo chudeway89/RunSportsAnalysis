@@ -2550,3 +2550,30 @@ User directive: (1) a daily automatic run by 11pm; (2) models for basketball and
 - V4-5: Freiburg-Wolfsburg, Paderborn-Stuttgart, Celtic-Dundee Utd already on 2 slips → not in edit/core; Man City, Genoa, Hearts on 1 → edit only.
 - Trims (original markets): rm-5 Pisa O3, Goteborg O3, Alianza & Orduspor 12-DC, Bayern W 2H-DC → LPB7HV (28, 13,860x); rm-10 + Liverpool O3, Ranheim O3, both U19, Coban m59 → UC05KF (23, 1,562x); rm-15 + Chelsea W excluded-goals, Corinthians W O2.5, London City W O2.5, Sarpsborg O3, Freiburg O3 → VN93KJ (18, 241x, 1 in 533). LB34B0 = deadweight only (33 legs).
 - EDIT WKG6JV (11 legs, 8.72x, model 1 in 11.7): Brighton +2.5, Bournemouth-Villa U4.5, Juve DNB, Pisa O1.5, Valerenga TT U2.5, Alianza O1.5, Dundee O1.5, Hearts +1.5, Goteborg O1.5, Sakaryaspor U4.5, Fulham U4.5. CORE T5M0KD (5 legs, 2.61x, model 1 in 3.0). Grade: knockout Under conversions vs booked integer Overs.
+
+### Oct 28 final settlement (checked Oct 29 07:50 UTC)
+- **T5M0KD (JARTNB core, 5 legs, 2.61x) WON 5/5 → PROJECT WIN #37.** Dundee–Kilmarnock O1.5, Göteborg O1.5, Pisa O1.5, Fulham U4.5, Alianza O1.5.
+- Dead: G3WZWU 4W/1L and GSJP8Z 4W/2L (Virtus lost to Zalgiris 74:91 — both catches; Monza +1.5 lost 1:4), Z77HT4/YVL7G4 (Albanian/Jordanian thin-league legs + Celtic 2:2), WKG6JV 9W/2L (Juve DNB 2:0, Sakaryaspor U4.5 2:3), all four JARTNB rebooks.
+- Bug: Oct 28 codes were appended to tickets.txt without date/label, which crashed settle_tickets.py silently. Fixed (bare codes tolerated) and the script now writes a return-per-unit (ROI) table by ticket size.
+
+## ═══ SYSTEM REVIEW v6 — FULL-JOURNEY PANEL (Oct 29, 2026): THE NUMBERS ═══
+Evidence: legs.jsonl (812 legs, 733 decided; 225 with house p recorded at posting, Oct 26-28), TICKETS.md, every win block in this file (37 wins, Jun 15 → Oct 28).
+
+**1. Leg selection is NOT the problem.** The 225 legs with a clean posting-time price won 168 vs 150.3 the house's own probabilities expected (+8pp). All 733 decided legs won 73%. Football +8pp, basketball +9pp. Every recent calibration block says the same (Oct 11-28: model expected ≈ actual every day).
+
+**2. Ticket size is the whole story.** 37 wins in ~20 weeks; 35 of them had ≤8 legs and paid ≤10x (median 5 legs, ~3x). Of ~200 tickets with ≥13 legs posted across the journey, ONE won (SQWZVZ, 15 legs, 3 of them voids). Oct 24-28 non-expired ledger: 1-7 legs 2/11 won; 13+ legs 1/46. A 20-leg ticket at 76% per leg is 1 in 240 by arithmetic — the ladders died exactly as often as the maths says.
+
+**3. Cores are roughly break-even, not a money machine.** Cores (≤7 legs) Sep 29-Oct 7: ~10 wins / 21 (full agent research, international-window Unders). Oct 8-28: 3 / ~20, nine of them killed by ONE leg. Combined ~13/41 at average ~3.2x ≈ 1.0 return per unit staked. Honest read: the first run was above expectation, the second below; together they sit at the house price. There is no proven edge yet — only a shape that loses slowest.
+
+**4. The class that turned: Unders.** Reliable legs: Overs +16pp vs house, team Overs +37pp (n=12), but Unders −12pp (n=37); all-time CLASSES Under 68% vs 80% expected (n=74). Unders won during the international window (Oct 2-7) and have lost to scoring days in club football since (Oct 12, 19, 27 collapses). Integer Over 2/3 remains the worst user-code class.
+
+**5. "Bloodbath" days are one bet counted many times.** Oct 28 = 12 tickets, but nested ladders and rebooks of the same code shared their killers (Juve Stabia O2 killed 5 tickets; Virtus killed 2; Al Faisaly/Korabi/Pogradeci killed 2). Real independent bets that day ≈ 3-4. Volume inflates the sense of failure and multiplies stake on correlated risk.
+
+**6. User spray-codes.** Every fixed-count trim (rm-5/10/15) of a 30-40 leg code has died — 0 wins in the ledger. Every win from a user code came from the pulled core or a full conversion edit (GDUEQL, W0G4PD, XREM4T, Y1UUTT, TTY0X8, ZHY132, TYVR3E, XKGCXS, SQWZVZ, VE2ZFT, T5M0KD).
+
+### V6 OPERATING RULES (binding, supersede where they conflict)
+- **D1 One book per day:** 1 CORE (4-6 legs, 2.5-6x) carrying ~70% of the day's stake; at most 1 VALUE ticket (6-8 legs, 8-15x) ~25%; at most 1 declared LOTTERY (only when the user asks) ~5%. No 4-rung nested ladders.
+- **D2 User codes:** deliver deadweight removal + EDIT + CORE. Trims (rm-5/10/15) only on explicit request, labelled "has never won", never presented as improvements.
+- **D3 Legs:** core legs need full fixture research (named mechanism) — affordable at ≤6 legs. Max ONE Under per core; prefer Over 1.5 / team Overs in leagues averaging ≥2.7 goals, DNB, wide catches vs non-dominant favourites, basketball handicaps (paper-trade PASS). No integer O/U Overs, no capped bounds in mismatches, no thin-league fill (Albania/Jordan/Gulf/amateur) to hit a number.
+- **D4 Measure money, not tickets:** judge the system by TICKETS.md's ROI table (return per unit by ticket size), weekly. A tier with negative ROI over 30+ tickets is dropped.
+- **D5 Process hygiene:** every posted code goes into tickets.txt as `CODE DATE label`; one fixture on ≤2 slips including rebooks of user codes.
