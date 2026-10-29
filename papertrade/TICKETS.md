@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-28 05:11 UTC. Totals: 2 won · 58 dead · 0 alive · 29 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-29 01:17 UTC. Totals: 0 won · 16 dead · 0 alive · 39 expired.
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -16,8 +16,8 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-10-13 | ME7N2R | v8 T500 | – | – | N/A (expired) | |
 | 2026-10-13 | H4L82L | v8 T5000 | – | – | N/A (expired) | |
 | 2026-10-13 | XASL5K | v8 T50000 | – | – | N/A (expired) | |
-| 2026-10-14 | U5Q1RC | H25EVX rm-2 | 24 | 14W/10L/0V/0P | DEAD | Bodoe/Glimt v Borussia Dortmund — GG/NG Yes (1:0); Eintracht Frankfurt v Cologne — GG/NG Yes (1:0); Hamburger SV v Stuttgart — GG/NG Yes (1:0); Norwich v Southampton — GG/NG Yes (0:1); Holstein Kiel v Hertha — GG/NG Yes (0:0); Karlsruher SC v Darmstadt — GG/NG Yes (4:0); Alemannia Aachen v Hansa Rostock — GG/NG Yes (2:0); FC Ingolstadt 04 v Rot-Weiss Essen — GG/NG Yes (1:0); Slask Wroclaw v Napoli Basket — 1st Half - Over/Under Over 80.5 (82:86); Reyer Venezia v Turk Telekom — 1st Half - Over/Under Over 78.5 (75:65) |
-| 2026-10-14 | UG3R90 | H25EVX rm-5 | 21 | 14W/7L/0V/0P | DEAD | Bodoe/Glimt v Borussia Dortmund — GG/NG Yes (1:0); Eintracht Frankfurt v Cologne — GG/NG Yes (1:0); Hamburger SV v Stuttgart — GG/NG Yes (1:0); Holstein Kiel v Hertha — GG/NG Yes (0:0); Karlsruher SC v Darmstadt — GG/NG Yes (4:0); Slask Wroclaw v Napoli Basket — 1st Half - Over/Under Over 80.5 (82:86); Reyer Venezia v Turk Telekom — 1st Half - Over/Under Over 78.5 (75:65) |
+| 2026-10-14 | U5Q1RC | H25EVX rm-2 | – | – | N/A (expired) | |
+| 2026-10-14 | UG3R90 | H25EVX rm-5 | – | – | N/A (expired) | |
 | 2026-10-14 | M5NTNA | v8.2 T600 | – | – | N/A (expired) | |
 | 2026-10-14 | QG8Y4S | v8.2 T5000 | – | – | N/A (expired) | |
 | 2026-10-14 | WT8MDM | v8.2 T50000 | – | – | N/A (expired) | |
@@ -35,14 +35,14 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-10-17 | RPXBYX | v8.4 MAX (50 legs) | – | – | N/A (expired) | |
 | 2026-10-17 | YBQJVV | P80 (every leg >=0.80) | – | – | N/A (expired) | |
 | 2026-10-17 | JUSQ3Z | basketball-only | – | – | N/A (expired) | |
-| 2026-10-18 | KUF2S8 | T500 v8.5 full-board | 27 | 20W/5L/2V/0P | DEAD | Hvidovre IF v Hillerod Fodbold — Over/Under Over 2 (1:0); New England Revolution v Chicago Fire — Over/Under Over 2 (1:0); Le Havre v AJ Auxerre — Over/Under Under 3.5 (1:3); Sandecja Nowy Sacz v Zawisza Bydgoszcz — Goal Bounds 0-4 (4:3); Pogon Siedlce v ZKS Stal Rzeszow — Goal Bounds - Home 0-2 (3:4) |
-| 2026-10-18 | HG9RQF | T5000 v8.5 | 36 | 27W/6L/3V/0P | DEAD | Hvidovre IF v Hillerod Fodbold — Over/Under Over 2 (1:0); New England Revolution v Chicago Fire — Over/Under Over 2 (1:0); Le Havre v AJ Auxerre — Over/Under Under 3.5 (1:3); Sandecja Nowy Sacz v Zawisza Bydgoszcz — Goal Bounds 0-4 (4:3); Pogon Siedlce v ZKS Stal Rzeszow — Goal Bounds - Home 0-2 (3:4); Virtus Bologna v Basket Scafati 1969 — Handicap (incl. overtime) -19.5 Away (+19.5) (108:83) |
-| 2026-10-18 | Z1L3R9 | T50000 v8.5 | 43 | 32W/8L/3V/0P | DEAD | Hvidovre IF v Hillerod Fodbold — Over/Under Over 2 (1:0); New England Revolution v Chicago Fire — Over/Under Over 2 (1:0); Le Havre v AJ Auxerre — Over/Under Under 3.5 (1:3); Sandecja Nowy Sacz v Zawisza Bydgoszcz — Goal Bounds 0-4 (4:3); Pogon Siedlce v ZKS Stal Rzeszow — Goal Bounds - Home 0-2 (3:4); Virtus Bologna v Basket Scafati 1969 — Handicap (incl. overtime) -19.5 Away (+19.5) (108:83); NK Celik Zenica v HSK Zrinjski Mostar — Asian Handicap 2 Home (+2.0) (0:3); Deportivo Toluca FC v Atletico San Luis — 1X2 Home (1:1) |
-| 2026-10-18 | ZG9F1Z | MAX 50-leg v8.5 | 50 | 33W/14L/3V/0P | DEAD | Hvidovre IF v Hillerod Fodbold — Over/Under Over 2 (1:0); New England Revolution v Chicago Fire — Over/Under Over 2 (1:0); Le Havre v AJ Auxerre — Over/Under Under 3.5 (1:3); Sandecja Nowy Sacz v Zawisza Bydgoszcz — Goal Bounds 0-4 (4:3); Pogon Siedlce v ZKS Stal Rzeszow — Goal Bounds - Home 0-2 (3:4); Virtus Bologna v Basket Scafati 1969 — Handicap (incl. overtime) -19.5 Away (+19.5) (108:83); NK Celik Zenica v HSK Zrinjski Mostar — Asian Handicap 2 Home (+2.0) (0:3); Deportivo Toluca FC v Atletico San Luis — 1X2 Home (1:1); RKC Waalwijk v FC Volendam — Over/Under Over 2.5 (1:1); IK Sirius v IF Elfsborg — Over/Under Under 3.5 (2:2); Avai FC SC v Athletic Club Sjdr MG — Over/Under Over 1.5 (0:0); Osasuna v Racing Santander — Racing Santander Over/Under Over 0.5 (2:0); Halmstads BK v Hammarby IF — Over/Under Over 2.5 (0:1); Al-Fateh SC v Al-Khaleej Club — Asian Handicap 0.5 Home (+0.5) (2:3) |
-| 2026-10-18 | VDZKGD | user code 40 legs (original) | 40 | 26W/7L/7V/0P | DEAD | Lorient v Monaco — Away or Over 2.5 Yes (1:0); FC Cincinnati v Columbus Crew — Over/Under Over 3 (0:2); CA Nacional Potosi v Club Bolivar — Over/Under Over 2.5 (0:1); Aris Limassol v AEK Larnaca — Double Chance Home or Away (1:1); Copenhagen v AGF Aarhus — Over/Under Over 3 (1:1); Enyimba v Warri Wolves FC — Over/Under Over 1.5 (0:0); Al Gharafa SC v Al Rayyan SC — Both Halves Under 1.5 No (0:0) |
-| 2026-10-18 | GHVCZS | VDZKGD remove-5 | 33 | 21W/6L/6V/0P | DEAD | Lorient v Monaco — Away or Over 2.5 Yes (1:0); FC Cincinnati v Columbus Crew — Over/Under Over 3 (0:2); CA Nacional Potosi v Club Bolivar — Over/Under Over 2.5 (0:1); Aris Limassol v AEK Larnaca — Double Chance Home or Away (1:1); Enyimba v Warri Wolves FC — Over/Under Over 1.5 (0:0); Al Gharafa SC v Al Rayyan SC — Both Halves Under 1.5 No (0:0) |
-| 2026-10-18 | PWB8PH | VDZKGD remove-10 | 28 | 17W/5L/6V/0P | DEAD | Lorient v Monaco — Away or Over 2.5 Yes (1:0); FC Cincinnati v Columbus Crew — Over/Under Over 3 (0:2); CA Nacional Potosi v Club Bolivar — Over/Under Over 2.5 (0:1); Aris Limassol v AEK Larnaca — Double Chance Home or Away (1:1); Al Gharafa SC v Al Rayyan SC — Both Halves Under 1.5 No (0:0) |
-| 2026-10-18 | R3R3Y4 | VDZKGD remove-15 | 23 | 14W/4L/5V/0P | DEAD | Lorient v Monaco — Away or Over 2.5 Yes (1:0); FC Cincinnati v Columbus Crew — Over/Under Over 3 (0:2); Aris Limassol v AEK Larnaca — Double Chance Home or Away (1:1); Al Gharafa SC v Al Rayyan SC — Both Halves Under 1.5 No (0:0) |
+| 2026-10-18 | KUF2S8 | T500 v8.5 full-board | – | – | N/A (expired) | |
+| 2026-10-18 | HG9RQF | T5000 v8.5 | – | – | N/A (expired) | |
+| 2026-10-18 | Z1L3R9 | T50000 v8.5 | – | – | N/A (expired) | |
+| 2026-10-18 | ZG9F1Z | MAX 50-leg v8.5 | – | – | N/A (expired) | |
+| 2026-10-18 | VDZKGD | user code 40 legs (original) | – | – | N/A (expired) | |
+| 2026-10-18 | GHVCZS | VDZKGD remove-5 | – | – | N/A (expired) | |
+| 2026-10-18 | PWB8PH | VDZKGD remove-10 | – | – | N/A (expired) | |
+| 2026-10-18 | R3R3Y4 | VDZKGD remove-15 | – | – | N/A (expired) | |
 | 2026-10-19 | VF7HDM | CORE 6 legs 3.75x | 6 | 5W/1L/0V/0P | DEAD | FC Universitatea Cluj v ACS Champions FC Arges — Over/Under Under 3.5 (2:2) |
 | 2026-10-19 | W8RRS5 | 20-50x request 14 legs 27.9x | 14 | 10W/4L/0V/0P | DEAD | FC Universitatea Cluj v ACS Champions FC Arges — Over/Under Under 3.5 (2:2); FC RFS v FK Tukums 2000/TSS — Over/Under Over 2.5 (2:0); Al Hilal SFC v Al-Hazm — Over/Under Over 2.5 (1:0); Monza v Cagliari — Over/Under Under 3.5 (4:0) |
 | 2026-10-19 | ZPMR5Q | user code 39 legs (original) | 39 | 24W/12L/3V/0P | DEAD | Trabzonspor v Besiktas Istanbul — Over/Under Over 3 (2:0); Al Hilal SFC v Al-Hazm — Over/Under Over 3 (1:0); AS Giana Erminio v Union Brescia — Asian Handicap 1 Away (-1.0) (2:1); FC Torpedo Belaz Zhodino v Naftan Novopolotsk — Over/Under Over 2 (1:0); CS Alagoano AL v CR Brasil AL — Double Chance Home or Away (0:0); AC Omonia Nicosia v Olympiakos Nicosia — 1X2 Home (2:2); Beitar Jerusalem FC v Maccabi Tel Aviv FC — Over/Under Over 3 (0:0); Hapoel Ra`anana FC v Bnei Yehuda Tel Aviv FC — Away Team to Win Either Half Yes (1:1); Al Jahra v Kazma SC — Both Halves Under 1.5 No (0:1); AL Qadisiya v AL Hazem U21 — Home Team or Over 2.5 Yes (0:0); Varbergs BoIS v Helsingborgs IF — Home Team or Over 2.5 Yes (0:0); Bursaspor v Pendikspor — Over/Under Over 3 (2:0) |
