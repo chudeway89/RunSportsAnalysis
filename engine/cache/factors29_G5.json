@@ -1,0 +1,172 @@
+[
+{
+"eid": "sr:match:71945348",
+"fx": "Frosinone v Lecce",
+"flags": [
+"high_scoring_profile"
+],
+"xg_h": 2.2,
+"xg_a": 1.25,
+"confidence": 0.35,
+"veto": false,
+"note": "Lecce: Gaspar suspended; Ilic, Coulibaly, Berisha, Pierotti out; Tiago Gabriel doubt. Frosinone 7th, only Grillitsch out, drew 4-4 at Atalanta. Sports Mole/WhoScored Oct 28."
+},
+{
+"eid": "sr:match:71945346",
+"fx": "Fiorentina v Atalanta",
+"flags": [
+"high_scoring_profile"
+],
+"xg_h": 1.7,
+"xg_a": 1.7,
+"confidence": 0.3,
+"veto": false,
+"note": "Fiorentina 18th (4 pts), no home league win since April; Atalanta without Kossounou, Kolasinac, Hien, Bellanova (defence), Kessie/Raspadori doubts; 4 pts from 6. Sports Mole/Betfred."
+},
+{
+"eid": "sr:match:74791402",
+"fx": "Everton v Newcastle",
+"flags": [
+"knockout_90min"
+],
+"xg_h": 1.52,
+"xg_a": 1.26,
+"confidence": 0.25,
+"veto": false,
+"note": "EFL Cup R4: Everton doubts Branthwaite (concussion), Grealish, Mykolenko; Newcastle without Jaouen, Livramento. Previews split, draw at 90 plausible."
+},
+{
+"eid": "sr:match:73215828",
+"fx": "Al Nassr Club v Al-Kholood",
+"flags": [
+"high_scoring_profile"
+],
+"xg_h": 2.5,
+"xg_a": 0.9,
+"confidence": 0.4,
+"veto": false,
+"note": "Al Kholood conceded 13 in last 4, scored 2; Al Nassr 4 straight wins, beat Kholood 3-0 in Jan. Simakan/Coman doubtful. Sports Mole/Khelnow."
+},
+{
+"eid": "sr:match:73215830",
+"fx": "Al-Riyadh SC v Al Qadsiah",
+"flags": [],
+"xg_h": 1.0,
+"xg_a": 2.2,
+"confidence": 0.3,
+"veto": false,
+"note": "Al Riyadh winless at home this season; Al Qadsiah won 9 of last 10 away (single source)."
+},
+{
+"eid": "sr:match:66887120",
+"fx": "CR Vasco da Gama RJ v CR Flamengo RJ",
+"flags": [
+"big_club",
+"derby"
+],
+"xg_h": 1.18,
+"xg_a": 1.45,
+"confidence": 0.3,
+"veto": false,
+"note": "Classico Vasco v Flamengo; Flamengo 1st (70 pts) w/o Carrascal (susp), Danilo, Evertton Araujo; Vasco 13th, Cuesta/Cauan Barros/Mateus Carvalho out. Lance/Gazeta."
+},
+{
+"eid": "sr:match:67126840",
+"fx": "Hammarby IF v IK Sirius",
+"flags": [
+"big_club"
+],
+"xg_h": 1.81,
+"xg_a": 0.95,
+"confidence": 0.3,
+"veto": false,
+"note": "Title six-pointer: Sirius 1st 55 pts v Hammarby 2nd 49 (forzafootball/svenskafans). Cagey top clash."
+},
+{
+"eid": "sr:match:67126850",
+"fx": "Kalmar FF v GAIS",
+"flags": [],
+"xg_h": 1.1,
+"xg_a": 1.36,
+"confidence": 0.25,
+"veto": false,
+"note": "Kalmar 1 win in last 11."
+},
+{
+"eid": "sr:match:67126844",
+"fx": "Orgryte IS v Mjallby AIF",
+"flags": [
+"must_win"
+],
+"xg_h": 1.36,
+"xg_a": 1.15,
+"confidence": 0.3,
+"veto": false,
+"note": "Mjallby 9 league games without a win, attack the problem; Orgryte in relegation fight, won spring meeting 2-0 (svenskafans/tvmatchen)."
+},
+{
+"eid": "sr:match:72708166",
+"fx": "Braga v FC Famalicao",
+"flags": [
+"knockout_90min"
+],
+"xg_h": 1.41,
+"xg_a": 1.19,
+"confidence": 0.25,
+"veto": false,
+"note": "Taca da Liga QF; both clubs changed coach this month; Braga 1 win in 5, Gabriel Silva out; Famalicao just beat Rio Ave 4-0."
+},
+{
+"eid": "sr:match:73463702",
+"fx": "Pyramids FC v Wadi Degla SC",
+"flags": [],
+"xg_h": 1.95,
+"xg_a": 0.7,
+"confidence": 0.4,
+"veto": false,
+"note": "Pyramids 7/7 wins, top; Wadi Degla 14th, 7 pts from 7 (africasoccer)."
+},
+{
+"eid": "sr:match:73263102",
+"fx": "Real Madrid v Fenerbahce Istanbul",
+"flags": [],
+"total": 179.3,
+"margin": 6.5,
+"confidence": 0.35,
+"veto": false,
+"note": "Real Madrid without Deck, Garuba (ACL), Smith Jr; Fenerbahce no reported absences (Sportando Oct 27)."
+},
+{
+"eid": "sr:match:73263100",
+"fx": "Maccabi Tel-Aviv v Paris Basketball",
+"flags": [],
+"total": 183.2,
+"margin": 1.0,
+"confidence": 0.25,
+"veto": false,
+"note": "Maccabi without Lundberg (6-8 wks), Lavi doubtful; Paris Hifi/Ntilikina GTD."
+},
+{
+"eid": "sr:match:73263098",
+"fx": "KK Crvena zvezda Belgrade v Bayern Munich",
+"flags": [],
+"total": 171.7,
+"margin": 3.2,
+"confidence": 0.2,
+"veto": false,
+"note": "Zvezda: Miljenovic ankle doubt; Bayern no absences."
+},
+{
+"eid": "sr:match:75995516",
+"fx": "Atlanta Dream v Golden State Valkyries",
+"flags": [
+"data_conflict",
+"season_opener"
+],
+"total": 153.9,
+"margin": 6.1,
+"confidence": 0.1,
+"veto": true,
+"note": "WNBA listing in late October flagged season_opener; WNBA totals ledger class ~0.50 \u2014 veto."
+}
+]
