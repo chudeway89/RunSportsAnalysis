@@ -2631,3 +2631,10 @@ Evidence: legs.jsonl (812 legs, 733 decided; 225 with house p recorded at postin
   - Saturday's Euro basketball has only main lines priced so far (alt ladders open nearer tip-off), so most legs are Friday/early Saturday ones.
   - A 50-leg version would have been 152M x at 1 in 1.04B; I declined to post it.
 - Tooling: the ladders were built with scratchpad pool/ladder scripts (gates: no thin leagues, ≤3 per country, ≤2 same-direction totals per league, Unders ≤40%, +2.5 catches banned when the favourite is ≥0.60). daypost's picker found only 9x on the weekend board because of its window/gates.
+
+### Oct 30 — user code KDA07E (39 legs, 432,924x, house 1 in 3.68M), analysed 13:05 UTC
+- Deadweight: leg 20 Musmus away DNB (Liga Alef) live at fetch, rides on the original only. Zulte–Brugge already on 2 slips (V4-5) → dropped; Nice/Casa Pia/Sheff Utd/Cracovia had one slot left.
+- Cut: integer O3 ×6 and O2 ×2 left unconverted (Oddevold, Airbus, Bodø title decider, Al-Shabab home-side data conflict), 12-DC ×6, WEH ×2 (Gala big club, Birmingham U21), both-halves-No ×2 (Baglan; Salzburg converted), U21 ×2, Austrian amateur bounds/Overs ×3, Tercera ×2, Lithuania/Danish 3rd-tier Overs, Pontypridd AND-combo, Pyunik (league vs cup listing conflict).
+- Research (4 extended searches): Shakhtar 6/6 v Obolon (1 league win); Nizhny won 6 of 7 at home with 3+, Arsenal Tula blank in 5 of 6 away; Olimpia 4th v Sandecja 7th; Coleraine no news found.
+- **L712D2 (CORE, 6 legs, 4.32x, house ~1 in 5.5)**: PSG TT O1.5, Shakhtar TT O1.5, Nizhny–Arsenal O1.5, Cracovia–Motor O1.5, Bielefeld Home-or-O2.5, Olimpia +1.0. No Under.
+- **MBZQE6 (EDIT, 12 legs, 16.3x, house ~1 in 26)**: core minus Cracovia + Gornik… Legia +1.0, Casa Pia/Sheff Utd/Salzburg–Amstetten/Seraing/Coleraine/Ibiza O1.5 — 7 match O1.5 (correlated scoring-day risk, flagged). Superseded before logging: KK03JQ/M4N24R (Nizhny team O1.5 house p .61 → swapped to match O1.5).
