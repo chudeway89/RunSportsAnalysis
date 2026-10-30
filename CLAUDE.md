@@ -2600,3 +2600,15 @@ Evidence: legs.jsonl (812 legs, 733 decided; 225 with house p recorded at postin
 - **MJ3GWZ (CORE, 4 legs, 2.27x, model 1 in 2.7)**: Riyadh TT U1.5, Zenit TT O0.5, Gloria–FCSB O1.5, Newcastle +1.5.
 - **LSDQ2V (EDIT, 8 legs, 5.39x, model 1 in 7.1)**: core + Midtjylland–OB U4.5, Heracles TT U3.5, Volendam TT U3.5, Arka–Stal U4.5 (5 Unders of 8 — cup-night Unders, flagged). Both identity-verified, in tickets.txt.
 - **J3UQ6M (BIG EDIT on user request "too small", 12 legs, 13.7x, house 1 in 22.8)**: LSDQ2V + Atl. Baleares +1.5 v Eldense, Coruxo–Zamora Draw-or-Away (X2), SS Reyes–Coria Coria +1.5, Egnatia–Teuta Teuta +1.5 (Albania, thin — flagged). 4 new legs are Copa del Rey/Albania catches (no Overs on cup ties). Unders 5/12. Benfica U4.5 left out (would push Unders to 46%); Atl-MG–Cruzeiro skipped (derby). Identity-verified.
+
+### Calibration (Oct 29 settlement, checked Oct 30) — WIN #38 (JEV1VL); every PBWP0C rebook died on the same two legs
+- **JEV1VL (V6 CORE, 4 legs, 2.5x) WON 4/4 → PROJECT WIN #38.** Al Nassr 1X2 5:3, Pyramids–Wadi Degla O1.5 2:1, Atalanta to score 2:2, Hammarby–Sirius U4.5 2:0. Researched core with one Under won again.
+- **NDNVXQ (VALUE) 5W/2L, L4CMM5 (50x) 8W/6L, XF90Y2 (500x) 14W/9L — all DEAD.** The value ticket died on two Over 1.5 legs that finished 0:1 (Modern Sport–Al Ahly, Shanghai Shenhua–Machida). XF90Y2 lost 7 of its 19 Unders on the cup night: Frosinone U4.5 5:1, Inter Turku U3.5 2:4, Khaleej U3.5 4:2, Prat U6.5 1:6, Benfica TT U3.5 4:1, Volos U3.5 1:3, Numancia U3.5 3:3. That is the Oct 27 failure shape, as flagged when it was posted.
+- **PBWP0C family: MJ3GWZ (core) 2W/2L, LSDQ2V (edit) 6W/2L, J3UQ6M (big edit) 10W/2L — all DEAD on the SAME two legs.**
+  - Gloria Bistrița–FCSB Over 1.5 finished 1:0, a Romanian 2nd-tier cup tie.
+  - **Newcastle +1.5 at Everton lost by exactly 2 (3:1).** This is the v9.2 class (+1.5 catch, modal 2-goal favourite win) breaking again. A +2.0 line would have refunded. The research mechanism was "Everton depleted"; Everton won comfortably.
+  - All 4 new J3UQ6M legs won (the three Copa del Rey catches and Teuta +1.5).
+  - The user's original PBWP0C finished 22W/12L/5V. Its losses were the booked integer Over 2s (Baleares, Mineiro, Modern Sport, Brinje), the 12-DCs (Paris W 1:1, Sparta 2:2), both-halves-No ×2, Chrobry +1.0 and Numancia To-Qualify.
+- **Lessons:**
+  - (1) Over 1.5 in thin or low-scoring cup and continental contexts (Egypt, Romania L2, Slovenia L3, ACL) went 0W/4L on 0:0/1:0. This is the Sep 29 / Oct 9 thin-Over class again; my own cores and edits keep admitting it.
+  - (2) Enforce v9.2 by hand on user-code edits as well: no +1.5 catch where the favourite's p is ≥0.55, use +2.0. Newcastle +1.5 killed three tickets in one leg, a V4-5 cap breach: one fixture across 3 slips of the same code family.
