@@ -2612,3 +2612,22 @@ Evidence: legs.jsonl (812 legs, 733 decided; 225 with house p recorded at postin
 - **Lessons:**
   - (1) Over 1.5 in thin or low-scoring cup and continental contexts (Egypt, Romania L2, Slovenia L3, ACL) went 0W/4L on 0:0/1:0. This is the Sep 29 / Oct 9 thin-Over class again; my own cores and edits keep admitting it.
   - (2) Enforce v9.2 by hand on user-code edits as well: no +1.5 catch where the favourite's p is ≥0.55, use +2.0. Newcastle +1.5 killed three tickets in one leg, a V4-5 cap breach: one fixture across 3 slips of the same code family.
+
+### Oct 30 — today's book + weekend book + basketball maxbet (all identity-verified, in tickets.txt)
+- **Research: 21 extended searches.** Full list in `cache/factors30_G5.json` and `cache/factorsWE_G5.json`.
+  - PSG without Dembélé, Marquinhos and Kvaratskhelia; Le Havre bottom of the table.
+  - Espanyol sacked their coach and have lost 4 of their last 5.
+  - Zulte Waregem have lost 4 straight without scoring.
+  - Bochum have the weakest attack in the 2.BL.
+  - Bodø–Viking is the title decider (flagged high-scoring/big club, so its Under was removed).
+  - The Shamrock Rovers game is a final-day dead rubber.
+  - Willem II: 2 points, 32 goals conceded. Barcelona without Olmo and E. Garcia. Fenerbahce under an interim coach with 4 out. Kortrijk have lost 7 of 8.
+  - NBA: Kawhi Leonard out (Toronto); Banchero and Suggs out (Orlando), so that fixture was skipped. Haliburton out, so the Pacers catch was vetoed. Duren out (Detroit). Beal out (Clippers). Luka Dončić day-to-day.
+- **Today:** XC78X5 (MAIN, 5 legs, 3.4x, 1 in 4); YK77MJ (T500, 20 legs, 592x, 1 in 961); S6T20M (T5000, 28 legs, 6,979x, 1 in 16,259).
+  - Before posting, the MAIN's Espanyol +2.5 leg was replaced by Motor Lublin to score. Villarreal's win probability was 0.67, and the core rule bars +2.5 catches when the favourite is ≥0.60.
+- **Weekend:** J2M8AU (CORE, 6 legs, 3.7x, 1 in 5): PSV team Over 2.5, Feyenoord O2.5, Barcelona O2.5, Standard–Kortrijk O1.5, Real Madrid 1X2 at Racing, Levante–Atlético U4.5.
+  - Ladders: PWFZ3G (T500, 18 legs, 516x, 1 in 773); PJMSX0 (T5000, 26 legs, 5,612x, 1 in 10,934); LAGY1Z (T50000, 33 legs, 67,435x, 1 in 176,214). They are nested, so the T500 fixtures sit on 3 slips (V4-5 breach by design).
+- **Basketball MAX:** UWCXH0 (30 legs, 20,036x, 1 in 54,747): 23 handicaps (the paper-trade PASS market), 6 Unders (capped), 1 ML.
+  - Saturday's Euro basketball has only main lines priced so far (alt ladders open nearer tip-off), so most legs are Friday/early Saturday ones.
+  - A 50-leg version would have been 152M x at 1 in 1.04B; I declined to post it.
+- Tooling: the ladders were built with scratchpad pool/ladder scripts (gates: no thin leagues, ≤3 per country, ≤2 same-direction totals per league, Unders ≤40%, +2.5 catches banned when the favourite is ≥0.60). daypost's picker found only 9x on the weekend board because of its window/gates.
