@@ -1,14 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-30 20:57 UTC. Totals: 5 won · 65 dead · 4 alive · 47 expired.
-
-## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
-
-| Ticket size | Tickets | Won | Staked | Returned | ROI |
-|---|---|---|---|---|---|
-| 1-7 legs | 14 | 4 | 14 | 14.2 | +2% |
-| 8-12 legs | 6 | 0 | 6 | 0.0 | -100% |
-| 13+ legs | 50 | 1 | 50 | 23.3 | -53% |
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-10-31 01:09 UTC. Totals: 0 won · 5 dead · 0 alive · 50 expired.
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -59,9 +51,9 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-10-19 | PB5W5S | ZPMR5Q remove-10 | – | – | N/A (expired) | |
 | 2026-10-19 | NDJWE0 | ZPMR5Q remove-15 | – | – | N/A (expired) | |
 | 2026-10-19 | R1XC8N | MAIN 5 legs 2.9x (UCL catches + Wolves O1.5) | – | – | N/A (expired) | |
-| 2026-10-19 | RN3XSC | T500 v8.5 22 legs | 22 | 15W/6L/1V/0P | DEAD | Huddersfield v Peterborough United — Asian Handicap -2 Away (+2.0) (4:1); Rostock Seawolves v BC Aris Thessaloniki — Handicap (incl. overtime) 15.5 Home (+15.5) (79:110); Talaea El Gaish v Pyramids FC — Asian Handicap 2 Home (+2.0) (1:4); Al-Taawoun FC v Al Qadsiah — Al-Taawoun FC Over/Under Over 0.5 (0:1); AD Pasto v Alianza FC Valledupar — Over/Under Over 1.5 (0:1); Londrina EC PR v Cuiaba EC MT — Over/Under Over 1.5 (1:0) |
-| 2026-10-19 | HP1G13 | T5000 29 legs | 29 | 18W/10L/1V/0P | DEAD | Huddersfield v Peterborough United — Asian Handicap -2 Away (+2.0) (4:1); Rostock Seawolves v BC Aris Thessaloniki — Handicap (incl. overtime) 15.5 Home (+15.5) (79:110); Talaea El Gaish v Pyramids FC — Asian Handicap 2 Home (+2.0) (1:4); Al-Taawoun FC v Al Qadsiah — Al-Taawoun FC Over/Under Over 0.5 (0:1); AD Pasto v Alianza FC Valledupar — Over/Under Over 1.5 (0:1); Londrina EC PR v Cuiaba EC MT — Over/Under Over 1.5 (1:0); Real Cartagena FC v Boyaca Patriotas — Asian Handicap -1.5 Away (+1.5) (3:0); Atletico FC Cali v Deportes Quindio — Over/Under Over 1.5 (0:1); Antigua GFC v CSD Xelaju MC — Asian Handicap -1.5 Away (+1.5) (3:0); Turk Telekom v BC Siauliai — Handicap (incl. overtime) -9.5 Home (-9.5) (84:94) |
-| 2026-10-19 | J3QRUG | T50000 38 legs | 38 | 24W/13L/1V/0P | DEAD | Huddersfield v Peterborough United — Asian Handicap -2 Away (+2.0) (4:1); Rostock Seawolves v BC Aris Thessaloniki — Handicap (incl. overtime) 15.5 Home (+15.5) (79:110); Talaea El Gaish v Pyramids FC — Asian Handicap 2 Home (+2.0) (1:4); Al-Taawoun FC v Al Qadsiah — Al-Taawoun FC Over/Under Over 0.5 (0:1); AD Pasto v Alianza FC Valledupar — Over/Under Over 1.5 (0:1); Londrina EC PR v Cuiaba EC MT — Over/Under Over 1.5 (1:0); Real Cartagena FC v Boyaca Patriotas — Asian Handicap -1.5 Away (+1.5) (3:0); Atletico FC Cali v Deportes Quindio — Over/Under Over 1.5 (0:1); Antigua GFC v CSD Xelaju MC — Asian Handicap -1.5 Away (+1.5) (3:0); Turk Telekom v BC Siauliai — Handicap (incl. overtime) -9.5 Home (-9.5) (84:94); Tacuary Asuncion v Independiente Campo Grande — Over/Under Under 3.5 (3:2); Falco KC Szombathely v Salon Vilpas Vikings — Over/Under (incl. overtime) 166.5 Over 166.5 (85:72); Xinjiang Flying Tigers v Tianjin Pioneers — Over/Under (incl. overtime) 187.5 Under 187.5 (107:92) |
+| 2026-10-19 | RN3XSC | T500 v8.5 22 legs | – | – | N/A (expired) | |
+| 2026-10-19 | HP1G13 | T5000 29 legs | – | – | N/A (expired) | |
+| 2026-10-19 | J3QRUG | T50000 38 legs | – | – | N/A (expired) | |
 | 2026-10-24 | KXKM85 | MAIN 5 legs 4x | 5 | 4W/1L/0V/0P | DEAD | New York Red Bulls v Inter Miami CF — Over/Under Over 2.5 (2:0) |
 | 2026-10-24 | H4R0YD | T500 19 legs 642x | 19 | 17W/1L/1V/0P | DEAD | Trabzonspor Basketbol v Esenler Erokspor — Over/Under (incl. overtime) 171.5 Under 171.5 (90:93) |
 | 2026-10-24 | U1JNV8 | T5000 27 legs 6,673x | 27 | 21W/4L/2V/0P | DEAD | Trabzonspor Basketbol v Esenler Erokspor — Over/Under (incl. overtime) 171.5 Under 171.5 (90:93); Como 1907 v Sassuolo — Over/Under Over 2.5 (2:0); Gil Vicente Barcelos v Porto — Over/Under Over 1.5 (0:1); Al-Riyadh SC v Al-Taawoun FC — Asian Handicap -0.5 Away (+0.5) (2:1) |
