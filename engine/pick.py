@@ -63,6 +63,8 @@ def allowed(x):
     if 'knockout_90min' in f and side(x)=='under' and p<0.78: return False
     # v8.3: Unders/capped bounds in mismatches carry the rout tail (Lincoln 0-6, Antalya 0-4)
     if x['sport']=='football' and side(x)=='under' and x.get('fav_p',0)>=0.65: return False
+    # v9.4 (Oct 31): Unders won 68% v 80% expected over 74 ledger legs and 10/20 v 14.4 on Oct 31 -> Unders need p>=0.82
+    if side(x)=='under' and p<0.82: return False
     if d.startswith('Over') and 'low_scoring_profile' in f: return False
     # v8.4 (Oct 15): big-club clashes have fat-tailed totals (L13: Flu-Palmeiras U2.5 1-2) -> totals need p>=0.82
     if ({'big_club','derby'}&f) and side(x)!='other' and p<0.82: return False
