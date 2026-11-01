@@ -3,6 +3,7 @@ import json,math,re,difflib,collections,datetime as dt,sys
 from counts import load_counts,fit,mean
 from anc import fit as afit,devig,L as LAM
 from scipy.stats import nbinom
+import factor_adjust as FA
 def norm(s):
     s=s.lower(); s=re.sub(r'\b(fc|cf|sc|ac|afc|cd|ca|sv|fk|if|bk|club|de|the|cp|ud|sd|ssc|as|rc|vfl|vfb|tsg|1\.|sk|nk|calcio|sad|real)\b','',s)
     return re.sub(r'[^a-z]','',s)
@@ -41,6 +42,10 @@ for e in json.load(open(sys.argv[1])):
     b=CO['beta']; muC=b[0]+b[1]*(0.5*(ch+ca)+0.5*BASE[lg][0])+b[2]*BASE[lg][0]+b[3]*(lh+la)+b[4]*abs(lh-la)
     b=CA['beta']; muY=b[0]+b[1]*(yh+ya)+b[2]*BASE[lg][1]+b[3]*(lh+la)+b[4]*abs(lh-la)
     shC=ch/(ch+ca); rC=CO['r']; rY=CA['r']
+    # factor study (FACTORS.md): table position / form / fouls for cards, goals-form & rank for corners
+    fh,fa=FA.mult(lg,h,a,True),FA.mult(lg,a,h,False); shY=yh/(yh+ya) if yh+ya else 0.5
+    muC0,muY0=muC,muY; muC=muC*(shC*fh['y_c']+(1-shC)*fa['y_c']); muY=muY*(shY*fh['y_y']+(1-shY)*fa['y_y'])
+    shC=shC*fh['y_c']/(shC*fh['y_c']+(1-shC)*fa['y_c'])
     for o in e['mk']:
         m,s,d=o['mid'],o['spec'] or '',o['desc']; p=None
         try:
@@ -56,7 +61,7 @@ for e in json.load(open(sys.argv[1])):
         except Exception: p=None
         if p is None: continue
         out.append(dict(sport='football',src='fd-regression',line=None,eid=e['eid'],sid=e['sid'],fx=e['home']+' v '+e['away'],fdh=h,fda=a,lg=lg,ko=e['ko'],mid=m,spec=o['spec'],desc=d,mdesc=o['mdesc'],oid=o['oid'],
-           odds=o['odds'],hp=o['p'],mp=p,ev=p*o['odds'],muC=round(muC,2),muY=round(muY,2)))
+           odds=o['odds'],hp=o['p'],mp=p,ev=p*o['odds'],muC=round(muC,2),muY=round(muY,2),muC0=round(muC0,2),muY0=round(muY0,2)))
 json.dump(out,open('cache/priced_fd_counts.json','w'))
 print('priced outcomes',len(out),'fixtures',len(set(x['eid'] for x in out)))
 cand=[x for x in out if 1.30<=x['odds']<=2.6]

@@ -2715,3 +2715,28 @@ User critique accepted: grading only the legs we picked biases every conclusion.
 - Real but small tilts: home sides win 1.1pp more than house p, away sides 1.6pp less, draws 1.7pp more. Best near-break-even families: AH home level +1.4%, 1H AH home receiving +1.0%, 1H DNB home −0.3%. Away result-sides are the dearest (−14%).
 - Our own picked legs beat house p by +8pp (225 clean-priced legs) while the unfiltered board sits at 0 — so selection is not worthless; it adds hit rate but not enough to beat compounded margin on accas.
 - Gaps: corners/cards/player props/timeline markets (1UP, first goal, leads-by) are not in the tape yet (corners/cards covered by the paper trade, where team corners home is the one PASS).
+
+## ═══ FACTOR STUDY (Nov 1) — what actually affects what (papertrade/FACTORS.md) ═══
+Code: `engine/factors.py` (pre-match rolling features + Poisson tests) and `engine/factors_report.py` (combined models, quintiles, US sports → FACTORS.md and `factor_coefs.json`). Data: 29,636 matches in 19 European leagues (2022-27, closing odds, shots, corners, cards, fouls; xG only in 2026-27) and ESPN NBA/WNBA/MLB closing lines. Test period: July 2025 onward.
+- **Goals: almost everything is already in the price.**
+  - Attacking form, defensive form, table position, points form, H2H and rest days all predict goals strongly on raw numbers (+8% to +18% per SD), but add nothing once the market expectation is known.
+  - Small leftovers that survive out of sample: shots-on-target form +0.9% per SD. The market over-reacts to a side's last-5 goals conceded (−1.1%) and to hot finishing (−0.9%).
+  - Combined, these move the expectation only ±1.5% (OOS +4e-4 nats per match). Not worth overriding the price on goals markets; deliberately NOT wired into the ticket picker.
+- **xG:** same-match xG vs goals correlation is 0.59. As a predictor, last-5 xG (0.21) beats last-5 goals (0.18) but not last-10 shots on target (0.23), and all are far below the price (0.38). Beyond the price: +1.7% per SD, t=1.2, one season only — not proven.
+- **Corners: real signal beyond the goals-derived baseline.**
+  - Corners-won form +2.2% per SD; opponent corners-conceded form +2.1%.
+  - Lower table position → more corners won AND conceded.
+  - Recent goals form → FEWER corners once expected goals are known (−1.6%; leading teams sit back).
+  - Combined: ±3% moves, OOS +11 to +18.
+- **Cards: the strongest signal.**
+  - Referee average +6.5% per SD; own card history +4.3%; own fouls +2.3%.
+  - Facing a stronger opponent → more cards (−4.1% per SD of opponent rank).
+  - Poor recent points form → more cards (−2.9%).
+  - Combined: ±9% moves that come true out of sample (top quintile 1.13 predicted → 1.09 actual). OOS +70.
+  - The referee is not in SportyBet/Sportradar pre-match data, so it is a research input only (look the ref up).
+- **US sports:** recent form does not beat NBA/WNBA/MLB totals. NBA recent margin difference beyond the spread is +0.67 pts per SD (t=2.4, both halves positive) — small, not wired. MLB margin rows are meaningless (±1.5 run line).
+- **Wired:** `engine/factor_adjust.py` → `live_counts.py` multiplies the corners and cards expectations by the incremental factors the v6 count model lacked:
+  - cards: table position, points form, fouls;
+  - corners: goals form, table position.
+  - Caps: cards ±15%, corners ±8%. The pre-factor values are stored as muC0/muY0, so the paper trade can grade whether the factors help against SportyBet's own lines.
+- **Caveat:** corners and cards "beyond the price" is beyond OUR goals-derived baseline, not beyond SportyBet's corner/card lines. Only the paper trade can show whether the house already prices these. Home team corners (900300) is the one corner market already passing.
