@@ -12,7 +12,7 @@ def run(c,t=3000):
         if subprocess.run(c,shell=True,timeout=t).returncode: FAIL.append(c)
     except subprocess.TimeoutExpired: print('TIMEOUT',c); FAIL.append('TIMEOUT '+c)
 for f in glob.glob('cache/priced_*.json'): os.remove(f)
-run('./fd_fetch.sh'); run('python3 board.py 30')
+run('./fd_fetch.sh'); run('python3 board.py 30'); run(f'python3 tape_store.py {BF}')
 run(f'python3 sr_football.py {BF}'); run(f'python3 sr_scores.py {BF}'); run('python3 hoops_sr.py')
 run(f'python3 live_counts.py {BF}'); run(f'python3 live_sr_counts.py {BF}'); run(f'python3 live_sports.py {BF}')
 K=['eid','sid','sport','lg','fx','ko','mid','spec','desc','oid','odds','hp','mp','ev','src','line']

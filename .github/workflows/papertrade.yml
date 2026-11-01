@@ -35,6 +35,12 @@ jobs:
           if [ -z "$MODE" ]; then [ "${{ github.event.schedule }}" = '0 11 * * *' ] && MODE=grade || MODE=full; fi
           echo "mode=$MODE"
           if [ "$MODE" = grade ]; then python3 grade.py; else python3 daily.py; fi
+      - name: Market tape (every market on every fixture, unfiltered)
+        if: always()
+        working-directory: engine
+        run: |
+          for f in cache/board_*.json; do [ -f "$f" ] && python3 tape_store.py "$f"; done
+          python3 tape_grade.py && python3 tape_report.py > /dev/null || echo 'tape step failed (non-fatal)'
       - name: Settle posted tickets
         if: always()
         working-directory: engine
