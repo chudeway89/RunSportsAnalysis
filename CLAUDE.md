@@ -2755,3 +2755,10 @@ Code: `engine/factors.py` (pre-match rolling features + Poisson tests) and `engi
 - Dropped on research: Derby–Bolton (Fri/Sat date conflict), Chapecoense–Mirassol (relegation six-pointer), Gladbach +1.5 (3 straight losses, lost 5-0), Venezia–Udinese O1.5 (Venezia goalless in Serie A earlier), Raptors +13.5 (no Kawhi), Sunderland U4.5 (v9.4 Under gate), all MLS/Portland playoff legs.
 - Honest weaknesses: 26 of 45 legs are Over/team-Over (breaches the 40% Over cap — correlated scoring-day risk, spread over 5 days); Friday legs (Standard, Montpellier, Lokomotiva, Botev, TNS, Sevilla) and Kortrijk/Hapoel BS/Rakow/FCSB are screened, not fixture-researched (no 2026-27 previews found).
 - Grade: week-ticket leg survival vs model (expected ~35.5 of 45).
+
+### Calibration (Nov 1 settlement, 23:16 UTC) — six tickets dead; the core died on one leg again
+- **UWDZHQ (ZELX6K core, 6 legs) DEAD 5W/1L**: the only loss was Torino to score at Frosinone (2:0). Lazio O1.5, Salzburg O2.5, Kasimpasa O1.5, Athletic–Real Sociedad U4.5 and Banik Away-or-O2.5 all won. TZ6X8J (edit) 13W/2L: Torino again, plus Start–Lillestrøm O1.5 (0:1).
+- **TGP5KU (MAIN) DEAD 3W/2L**: Arouca–Nacional O1.5 (1:0) and Toulouse to score at Marseille (2:0). Real Madrid, Trabzon and Viseu O1.5 won.
+- **X5HF96 (T500) 14W/5L, TSG1T6 (T5000) 20W/5L — DEAD on the same 5**: +0.5 home catches Elche (0:1), Nordsjælland (2:3) and St Pauli (1:3); Utrecht +0.5 at Telstar (4:2); Silkeborg +1.5 at OB (4:1). Elche's research ("unbeaten 5, Valencia 19th") lost to Valencia.
+- **LETNCU (user code, tracked) 11W/5L/3V**: integer Over 2 ×2 (Liverpool–Arsenal 0:1, Start 0:1), Kasimpasa corners O7.5, Melbourne City O2.5 (0:2), Qadsia AH0 (0:3).
+- **Class notes**: away team-to-score at a home side in form went 0W/2L (Toulouse, Torino — both 2:0) and killed both the MAIN and the core. +0.5 catches 4W/4L on the ladder; Start–Lillestrøm (Norway 1st Div) stayed under 1.5 on both its tickets. Integer Over 2 lost twice more on 0:1s (the class keeps losing in user codes).
