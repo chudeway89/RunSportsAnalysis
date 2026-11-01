@@ -2705,3 +2705,13 @@ Evidence: legs.jsonl (812 legs, 733 decided; 225 with house p recorded at postin
   - Basketball handicaps (223): 125 picks +10.9% (SE 12%) — not proven.
   - Cards (139): 115 picks +8.1% (SE 11%) — not proven.
 - Plan (pending user go-ahead): (1) daily singles sheet = 900300 picks at model EV≥1.2, one per event, news veto, flat 1% stake; doubles of two such picks (~5-6x) as the "consequential odds" product; (2) stop rule: after 300 real picks, ROI < −5% → drop; (3) price SportyBet Flexi (k-of-n) and the multiple bonus from our leg probabilities before using either — terms unverified (third-party sources conflict on 1.20 vs 1.40 min odds; Flexi counts voids as losses).
+
+## ═══ MARKET TAPE — the unfiltered view (Nov 1) ═══
+User critique accepted: grading only the legs we picked biases every conclusion. New pipeline settles EVERY score-settleable market on EVERY fixture SportyBet listed, at the earliest stored pre-match price.
+- Code: `engine/tape_store.py` (daily compact copy of the full board → `papertrade/tape/<date>.csv.gz`), `engine/tape_grade.py` (settle on 90-min + half-time scores; integer pushes void), `engine/tape_report.py` → `papertrade/TAPE.md`. Wired into the GitHub workflow; the first CI run also rescues every board file sitting in the runner cache.
+- First run: 1.09M settled outcomes on 3,242 fixtures (10 board days, Oct 12–Nov 1), 408 market slices with ≥60 fixtures.
+- **House probability is accurate at every odds band** (football <1.30: 0.825 v 0.824; 1.6-2.2: 0.495 v 0.496; 4.0+: 0.073 v 0.073). Margin per bet: −4.7% (<1.30), −7.4% (1.30-1.59), −8.4% (1.60-2.19), −12% (2.20-3.99), −26% (4.0+). Short prices are the cheapest; longshots/combos/correct scores the dearest.
+- **0 of 408 market slices are profitable** (positive by >1.5 SE and in both halves). The four that first showed up (half/2nd-half team odd/even) were a settlement bug, fixed. Finer slices: 5 of 4,624 pass, fewer than chance would produce — consistent with an efficient board, no hidden profitable market.
+- Real but small tilts: home sides win 1.1pp more than house p, away sides 1.6pp less, draws 1.7pp more. Best near-break-even families: AH home level +1.4%, 1H AH home receiving +1.0%, 1H DNB home −0.3%. Away result-sides are the dearest (−14%).
+- Our own picked legs beat house p by +8pp (225 clean-priced legs) while the unfiltered board sits at 0 — so selection is not worthless; it adds hit rate but not enough to beat compounded margin on accas.
+- Gaps: corners/cards/player props/timeline markets (1UP, first goal, leads-by) are not in the tape yet (corners/cards covered by the paper trade, where team corners home is the one PASS).
