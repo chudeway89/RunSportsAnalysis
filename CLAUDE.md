@@ -2694,3 +2694,6 @@ Evidence: legs.jsonl (812 legs, 733 decided; 225 with house p recorded at postin
 - **UWDZHQ (CORE, 6 legs, 3.4x, model 1 in 4.2)**: Lazio–Cagliari O1.5, Salzburg–Lustenau O2.5, Kasimpasa–Besiktas O1.5, Athletic–Real Sociedad U4.5 (the one Under), Torino TT O0.5, Banik–Plzen Away-or-O2.5.
 - **TZ6X8J (EDIT, 16 legs, 32.8x, model 1 in 58)**: core + Arouca H-or-O2.5, Aachen H-or-O2.5, Brann O2.5 (kept as booked), Real Madrid 1X2 (was −2), Trabzon 1X2 (was −1), STVV O1.5 (was O3), PAOK O1.5 (was O2), Sao Bernardo +1.5 (was +1.0), Start O1.5 and KFUM O1.5 (were O2). Breaches: 9 Overs of 16 and 3 Norway legs — declared lottery-tier. Both identity-verified.
 - Grade: integer Over 2/3 removals vs the O1.5/O2.5 conversions; derby/women/12-DC cuts.
+
+### Nov 1 — user code LETNCU logged as-is (30 legs, 6,784x, house 1 in 25,982)
+- Tracking only (no edit asked). Weak classes on it: 7 integer Over 2 (Liverpool–Arsenal, Pana–AEK derby, Start, Valerenga, Lourosa, Lokomotiv, Bodrum), 3 corners, 8 early-goals legs, 2 women's (Melbourne City W, Paris FC W), Supra–Cavalry CPL playoff (date TBD). Heavy fixture overlap with ZELX6K/TGP5KU/X5HF96 family. Grade at settlement.
