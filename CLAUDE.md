@@ -2697,3 +2697,11 @@ Evidence: legs.jsonl (812 legs, 733 decided; 225 with house p recorded at postin
 
 ### Nov 1 — user code LETNCU logged as-is (30 legs, 6,784x, house 1 in 25,982)
 - Tracking only (no edit asked). Weak classes on it: 7 integer Over 2 (Liverpool–Arsenal, Pana–AEK derby, Start, Valerenga, Lourosa, Lokomotiv, Bodrum), 3 corners, 8 early-goals legs, 2 women's (Melbourne City W, Paris FC W), Supra–Cavalry CPL playoff (date TBD). Heavy fixture overlap with ZELX6K/TGP5KU/X5HF96 family. Grade at settlement.
+
+## ═══ TURNAROUND REVIEW (Nov 1) — stop selling accas, start testing singles from the passing markets ═══
+- Diagnosis unchanged and settled: legs beat the house (+8pp on clean-priced legs); tickets lose because accas multiply the ~6% margin per leg. Short tickets win but pay little; big tickets are lotteries. Research cannot fix arithmetic.
+- The paper trade (85,835 graded outcomes) is where the only candidate edge sits, and it is in SINGLES, not accas. One pick per event, EV≥1.05, odds 1.2-3.0:
+  - Team corners home (900300): 336 picks, ROI +10.5% (SE 6.6%, ~1.6 SE), avg odds 2.39; first half +5.6%, second half +15.4%. EV≥1.2 bucket: 117 picks +34% (noisy). EV 1.05-1.2: ~−2% (no edge).
+  - Basketball handicaps (223): 125 picks +10.9% (SE 12%) — not proven.
+  - Cards (139): 115 picks +8.1% (SE 11%) — not proven.
+- Plan (pending user go-ahead): (1) daily singles sheet = 900300 picks at model EV≥1.2, one per event, news veto, flat 1% stake; doubles of two such picks (~5-6x) as the "consequential odds" product; (2) stop rule: after 300 real picks, ROI < −5% → drop; (3) price SportyBet Flexi (k-of-n) and the multiple bonus from our leg probabilities before using either — terms unverified (third-party sources conflict on 1.20 vs 1.40 min odds; Flexi counts voids as losses).
