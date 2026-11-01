@@ -160,3 +160,358 @@ Residual = actual − closing line (total points/runs, or home margin + spread).
 | MLB | margin | recent results vs spread (home − away) | 4,853 | +0.08 | +1.2 | +0.12 | +0.04 | +0.01 |
 | MLB | margin | recent margin (home − away) | 4,853 | -0.09 | -1.4 | -0.02 | -0.18 | +0.01 |
 | MLB | margin | rest days (home − away) | 4,861 | +0.16 | +2.4 | +0.12 | +0.19 | +0.02 |
+
+<!-- PART2 -->
+## Part 2 — other markets and other sports
+
+Same test: each factor is added on top of the price (football: market expectation; US sports: closing line; tape: SportyBet's own line). "Effect" is per 1 SD for continuous factors, or the effect of the flag being on. A factor counts only if |t|≥2, the sign is the same in both halves of the data, and it improves out-of-sample prediction.
+
+**Multiple-testing warning:** 232 factor×market tests were run. At |t|≥2, about 11 would pass by chance alone, and about half of those also keep their sign across both halves. So treat the |t| 2-3 rows as unconfirmed; only |t|≥3 rows are strong evidence.
+
+### What survives (all markets, all sports)
+
+| Market | Factor | n | Effect | t | Out-of-sample |
+|---|---|---|---|---|---|
+| Total yellow cards | midweek (Tue-Thu) | 29,628 | -5.4% | -5.9 | +4.4 |
+| Total corners | away points form (last 5) | 28,451 | -0.9% | -4.4 | +1.1 |
+| Total yellow cards | two top-15% sides | 29,628 | +8.8% | +4.0 | +1.4 |
+| Total yellow cards | home side bottom-20% in run-in | 29,628 | -5.0% | -4.0 | +0.5 |
+| Total yellow cards | home side played ≤3 days ago | 29,628 | -3.5% | -3.7 | +2.2 |
+| Total yellow cards | away side played ≤3 days ago | 29,628 | -3.3% | -3.3 | +3.1 |
+| 1st-half goals | both sides' shots on target form | 28,244 | +1.6% | +3.1 | +1.1 |
+| Total goals | both sides' shots on target form | 28,252 | +1.0% | +3.0 | +2.5 |
+| BTTS (both teams score) | table-position gap | 24,995 | -0.032 log-odds | -2.5 | +1.3 |
+| NBA home margin vs closing spread | recent net rating (home − away) | 2,563 | +0.67 pts/runs | +2.5 | +0.59 pts² MSE |
+| Home win | home points form (last 5) | 28,487 | +0.031 log-odds | +2.5 | +1.5 |
+| Total corners | H2H draw rate (last 3-6) | 12,422 | +0.8% | +2.4 | +3.6 |
+| Basketball margin vs SportyBet spread (all leagues) | rest days (home − away) | 1,153 | -0.89 pts/runs | -2.3 | +1.13 pts² MSE |
+| NBA home win vs closing moneyline | recent net rating (home − away) | 2,559 | +0.110 log-odds | +2.2 | +11.7 |
+| Total yellow cards | table-position gap | 24,987 | -0.8% | -2.2 | +0.8 |
+| MLB total vs closing line | away team's road-trip length | 4,934 | -0.14 pts/runs | -2.2 | +0.01 pts² MSE |
+| Total yellow cards | referee avg goals (last 20) | 9,397 | +1.2% | +2.1 | +1.4 |
+| WNBA home win vs closing moneyline | first 4 rounds of season | 660 | -0.505 log-odds | -2.1 |  |
+| Total corners | table-position gap | 24,986 | +0.5% | +2.1 | +1.3 |
+| 1st-half goals | home points form (last 5) | 28,479 | +1.0% | +2.0 | +1.2 |
+
+### Total goals
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| both sides' shots on target form | 28,252 | +1.0% | +3.0 | +0.007 | +0.014 | +2.5 | **real, beyond the price** |
+| home points form (last 5) | 28,487 | +0.5% | +1.5 | +0.003 | +0.007 | +0.6 | no effect beyond the price |
+| last 15% of season (n on=5111) | 29,636 | +1.1% | +1.3 | +0.021 | +0.003 | -1.9 | no effect beyond the price |
+| home side played ≤3 days ago (n on=3115) | 29,636 | +1.0% | +0.9 | +0.019 | +0.001 | -0.7 | no effect beyond the price |
+| table-position gap | 24,995 | -0.3% | -0.9 | +0.001 | -0.008 | +0.3 | no effect beyond the price |
+| away points form (last 5) | 28,460 | -0.3% | -0.8 | -0.007 | +0.002 | -1.3 | no effect beyond the price |
+| referee avg goals (last 20) | 9,397 | +0.5% | +0.8 | +0.008 | -0.001 | -0.5 | no effect beyond the price |
+| home side newly promoted (n on=4778) | 22,387 | -0.7% | -0.7 | -0.013 | -0.001 | -0.0 | no effect beyond the price |
+| home side bottom-20% in run-in (n on=1667) | 29,636 | +1.1% | +0.7 | +0.055 | -0.030 | -4.0 | no effect beyond the price |
+| away side newly promoted (n on=4776) | 22,387 | +0.7% | +0.7 | +0.005 | +0.009 | -0.2 | no effect beyond the price |
+| midweek (Tue-Thu) (n on=3443) | 29,636 | -0.7% | -0.7 | +0.002 | -0.018 | -0.1 | no effect beyond the price |
+| two bottom-20% sides, 2nd half of season (n on=552) | 29,636 | -1.4% | -0.5 | +0.030 | -0.057 | -0.2 | no effect beyond the price |
+| H2H draw rate (last 3-6) | 12,425 | +0.3% | +0.5 | +0.004 | +0.001 | +0.1 | no effect beyond the price |
+| two top-15% sides (n on=569) | 29,636 | +1.1% | +0.4 | +0.021 | -0.000 | +0.0 | no effect beyond the price |
+| away side played ≤3 days ago (n on=3033) | 29,636 | +0.5% | +0.4 | +0.020 | -0.012 | -0.3 | no effect beyond the price |
+| rest days (home − away) | 29,361 | -0.1% | -0.4 | +0.001 | -0.003 | -0.1 | no effect beyond the price |
+| first 4 rounds of season (n on=4583) | 29,636 | -0.4% | -0.4 | -0.015 | +0.010 | -0.6 | no effect beyond the price |
+| referee home-win rate (last 30) | 8,621 | +0.2% | +0.4 | +0.005 | -0.002 | -1.4 | no effect beyond the price |
+| December/January (n on=5540) | 29,636 | -0.2% | -0.3 | -0.015 | +0.009 | -0.1 | no effect beyond the price |
+| August/September (n on=6414) | 29,636 | -0.1% | -0.1 | -0.009 | +0.008 | -0.1 | no effect beyond the price |
+
+### 1st-half goals
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| both sides' shots on target form | 28,244 | +1.6% | +3.1 | +0.020 | +0.010 | +1.1 | **real, beyond the price** |
+| away points form (last 5) | 28,452 | -1.1% | -2.2 | -0.016 | -0.007 | -0.4 | real in-sample, fails out of sample |
+| home points form (last 5) | 28,479 | +1.0% | +2.0 | +0.008 | +0.012 | +1.2 | **real, beyond the price** |
+| home side played ≤3 days ago (n on=3115) | 29,628 | +2.4% | +1.4 | +0.043 | +0.003 | -1.1 | no effect beyond the price |
+| last 15% of season (n on=5110) | 29,628 | +1.7% | +1.2 | +0.024 | +0.011 | -2.4 | no effect beyond the price |
+| two top-15% sides (n on=568) | 29,628 | +4.2% | +1.2 | +0.034 | +0.049 | +0.2 | no effect beyond the price |
+| two bottom-20% sides, 2nd half of season (n on=552) | 29,628 | -4.3% | -1.1 | +0.017 | -0.106 | +0.3 | no effect beyond the price |
+| December/January (n on=5538) | 29,628 | -1.4% | -1.1 | -0.031 | +0.001 | +0.2 | no effect beyond the price |
+| H2H draw rate (last 3-6) | 12,422 | +0.8% | +1.0 | +0.013 | +0.002 | -0.2 | no effect beyond the price |
+| away side played ≤3 days ago (n on=3032) | 29,628 | +1.6% | +1.0 | +0.029 | +0.002 | +0.2 | no effect beyond the price |
+| referee avg goals (last 20) | 9,397 | +0.9% | +1.0 | +0.014 | +0.001 | -2.1 | no effect beyond the price |
+| home side bottom-20% in run-in (n on=1667) | 29,628 | +1.5% | +0.7 | +0.067 | -0.035 | -2.5 | no effect beyond the price |
+| away side newly promoted (n on=4775) | 22,382 | +1.0% | +0.7 | +0.013 | +0.006 | -0.1 | no effect beyond the price |
+| home side newly promoted (n on=4778) | 22,382 | +0.8% | +0.5 | +0.001 | +0.014 | +0.1 | no effect beyond the price |
+| referee home-win rate (last 30) | 8,621 | +0.5% | +0.5 | +0.007 | +0.001 | -1.7 | no effect beyond the price |
+| first 4 rounds of season (n on=4583) | 29,628 | -0.7% | -0.5 | -0.008 | -0.007 | +0.1 | no effect beyond the price |
+| rest days (home − away) | 29,353 | -0.2% | -0.5 | -0.001 | -0.003 | -0.2 | no effect beyond the price |
+| August/September (n on=6413) | 29,628 | +0.5% | +0.4 | +0.004 | +0.004 | -0.1 | no effect beyond the price |
+| table-position gap | 24,987 | -0.1% | -0.2 | +0.002 | -0.005 | -0.2 | no effect beyond the price |
+| midweek (Tue-Thu) (n on=3442) | 29,628 | +0.0% | +0.0 | +0.027 | -0.031 | -1.5 | no effect beyond the price |
+
+### BTTS (both teams score)
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| table-position gap | 24,995 | -0.032 log-odds | -2.5 | -0.028 | -0.037 | +1.3 | **real, beyond the price** |
+| first 4 rounds of season (n on=4583) | 29,636 | -0.081 log-odds | -2.5 | -0.110 | -0.033 | -1.2 | real in-sample, fails out of sample |
+| August/September (n on=6414) | 29,636 | -0.048 log-odds | -1.7 | -0.087 | +0.008 | -1.5 | no effect beyond the price |
+| December/January (n on=5540) | 29,636 | +0.049 log-odds | +1.6 | +0.053 | +0.042 | -0.3 | no effect beyond the price |
+| away points form (last 5) | 28,460 | -0.016 log-odds | -1.4 | -0.036 | +0.003 | -1.3 | no effect beyond the price |
+| referee avg goals (last 20) | 9,397 | +0.028 log-odds | +1.3 | +0.039 | +0.016 | +0.2 | no effect beyond the price |
+| two top-15% sides (n on=569) | 29,636 | +0.106 log-odds | +1.2 | +0.075 | +0.139 | +0.5 | no effect beyond the price |
+| home side played ≤3 days ago (n on=3115) | 29,636 | +0.045 log-odds | +1.2 | +0.055 | +0.035 | -0.4 | no effect beyond the price |
+| home side newly promoted (n on=4778) | 22,387 | -0.038 log-odds | -1.2 | -0.077 | +0.001 | -1.7 | no effect beyond the price |
+| away side played ≤3 days ago (n on=3033) | 29,636 | +0.042 log-odds | +1.1 | +0.055 | +0.031 | -1.1 | no effect beyond the price |
+| last 15% of season (n on=5111) | 29,636 | +0.033 log-odds | +1.0 | +0.069 | -0.003 | -0.2 | no effect beyond the price |
+| both sides' shots on target form | 28,252 | +0.012 log-odds | +1.0 | -0.012 | +0.039 | +0.3 | no effect beyond the price |
+| referee home-win rate (last 30) | 8,621 | +0.021 log-odds | +1.0 | +0.005 | +0.043 | +0.8 | no effect beyond the price |
+| home points form (last 5) | 28,487 | +0.012 log-odds | +1.0 | -0.007 | +0.031 | +0.3 | no effect beyond the price |
+| home side bottom-20% in run-in (n on=1667) | 29,636 | +0.040 log-odds | +0.8 | +0.116 | -0.031 | -2.0 | no effect beyond the price |
+| midweek (Tue-Thu) (n on=3443) | 29,636 | -0.025 log-odds | -0.7 | -0.005 | -0.045 | +0.2 | no effect beyond the price |
+| H2H draw rate (last 3-6) | 12,425 | +0.008 log-odds | +0.5 | +0.029 | -0.017 | -0.9 | no effect beyond the price |
+| away side newly promoted (n on=4776) | 22,387 | +0.014 log-odds | +0.4 | -0.008 | +0.036 | +0.0 | no effect beyond the price |
+| rest days (home − away) | 29,361 | +0.004 log-odds | +0.3 | +0.001 | +0.006 | -0.1 | no effect beyond the price |
+| two bottom-20% sides, 2nd half of season (n on=552) | 29,636 | +0.012 log-odds | +0.1 | +0.237 | -0.201 | -2.6 | no effect beyond the price |
+
+### Draw
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| rest days (home − away) | 29,361 | +0.023 log-odds | +1.8 | +0.019 | +0.028 | -0.0 | no effect beyond the price |
+| table-position gap | 24,995 | -0.024 log-odds | -1.6 | -0.063 | +0.015 | -3.0 | no effect beyond the price |
+| away side played ≤3 days ago (n on=3033) | 29,636 | +0.066 log-odds | +1.5 | +0.021 | +0.114 | -0.2 | no effect beyond the price |
+| December/January (n on=5540) | 29,636 | +0.046 log-odds | +1.3 | +0.072 | +0.021 | +0.0 | no effect beyond the price |
+| referee home-win rate (last 30) | 8,621 | +0.028 log-odds | +1.1 | +0.011 | +0.049 | +1.1 | no effect beyond the price |
+| two top-15% sides (n on=569) | 29,636 | +0.103 log-odds | +1.1 | +0.147 | +0.058 | -0.4 | no effect beyond the price |
+| H2H draw rate (last 3-6) | 12,425 | +0.020 log-odds | +1.0 | +0.016 | +0.025 | +0.5 | no effect beyond the price |
+| first 4 rounds of season (n on=4583) | 29,636 | +0.026 log-odds | +0.7 | +0.011 | +0.049 | +0.2 | no effect beyond the price |
+| midweek (Tue-Thu) (n on=3443) | 29,636 | +0.025 log-odds | +0.6 | -0.003 | +0.055 | -0.2 | no effect beyond the price |
+| two bottom-20% sides, 2nd half of season (n on=552) | 29,636 | +0.053 log-odds | +0.6 | +0.150 | -0.042 | -0.1 | no effect beyond the price |
+| last 15% of season (n on=5111) | 29,636 | +0.019 log-odds | +0.5 | +0.028 | +0.009 | -0.3 | no effect beyond the price |
+| referee avg goals (last 20) | 9,397 | +0.013 log-odds | +0.5 | +0.018 | +0.008 | -0.0 | no effect beyond the price |
+| home side bottom-20% in run-in (n on=1667) | 29,636 | +0.027 log-odds | +0.5 | +0.021 | +0.032 | -0.8 | no effect beyond the price |
+| both sides' shots on target form | 28,252 | -0.006 log-odds | -0.4 | -0.018 | +0.007 | -0.2 | no effect beyond the price |
+| away side newly promoted (n on=4776) | 22,387 | +0.014 log-odds | +0.4 | -0.038 | +0.064 | -2.8 | no effect beyond the price |
+| home side played ≤3 days ago (n on=3115) | 29,636 | +0.007 log-odds | +0.2 | -0.056 | +0.073 | -0.1 | no effect beyond the price |
+| August/September (n on=6414) | 29,636 | -0.004 log-odds | -0.1 | -0.038 | +0.041 | -0.2 | no effect beyond the price |
+| home side newly promoted (n on=4778) | 22,387 | -0.004 log-odds | -0.1 | -0.067 | +0.058 | -0.4 | no effect beyond the price |
+| home points form (last 5) | 28,487 | +0.001 log-odds | +0.0 | -0.017 | +0.019 | -0.0 | no effect beyond the price |
+| away points form (last 5) | 28,460 | -0.000 log-odds | -0.0 | +0.006 | -0.006 | -0.6 | no effect beyond the price |
+
+### Home win
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| rest days (home − away) | 29,361 | -0.031 log-odds | -2.5 | -0.020 | -0.042 | -0.5 | real in-sample, fails out of sample |
+| away side newly promoted (n on=4776) | 22,387 | +0.087 log-odds | +2.5 | +0.109 | +0.064 | -0.4 | real in-sample, fails out of sample |
+| home points form (last 5) | 28,487 | +0.031 log-odds | +2.5 | +0.034 | +0.029 | +1.5 | **real, beyond the price** |
+| away side played ≤3 days ago (n on=3033) | 29,636 | -0.073 log-odds | -1.8 | +0.008 | -0.160 | +1.0 | no effect beyond the price |
+| table-position gap | 24,995 | +0.023 log-odds | +1.7 | +0.037 | +0.009 | +0.2 | no effect beyond the price |
+| referee home-win rate (last 30) | 8,621 | +0.031 log-odds | +1.4 | +0.034 | +0.026 | +1.6 | no effect beyond the price |
+| home side played ≤3 days ago (n on=3115) | 29,636 | +0.048 log-odds | +1.2 | +0.139 | -0.048 | -2.8 | no effect beyond the price |
+| August/September (n on=6414) | 29,636 | -0.035 log-odds | -1.2 | +0.003 | -0.084 | +0.1 | no effect beyond the price |
+| December/January (n on=5540) | 29,636 | -0.033 log-odds | -1.1 | -0.043 | -0.024 | +0.4 | no effect beyond the price |
+| last 15% of season (n on=5111) | 29,636 | -0.032 log-odds | -1.0 | -0.024 | -0.038 | +0.1 | no effect beyond the price |
+| referee avg goals (last 20) | 9,397 | -0.021 log-odds | -1.0 | -0.018 | -0.026 | +0.6 | no effect beyond the price |
+| home side bottom-20% in run-in (n on=1667) | 29,636 | -0.049 log-odds | -0.9 | -0.095 | -0.007 | -0.3 | no effect beyond the price |
+| home side newly promoted (n on=4778) | 22,387 | +0.030 log-odds | +0.9 | +0.039 | +0.021 | -0.1 | no effect beyond the price |
+| first 4 rounds of season (n on=4583) | 29,636 | -0.029 log-odds | -0.8 | +0.005 | -0.076 | -0.0 | no effect beyond the price |
+| two bottom-20% sides, 2nd half of season (n on=552) | 29,636 | -0.072 log-odds | -0.8 | +0.044 | -0.186 | +0.2 | no effect beyond the price |
+| both sides' shots on target form | 28,252 | +0.010 log-odds | +0.8 | +0.004 | +0.018 | +0.2 | no effect beyond the price |
+| away points form (last 5) | 28,460 | +0.006 log-odds | +0.5 | -0.005 | +0.017 | +0.1 | no effect beyond the price |
+| two top-15% sides (n on=569) | 29,636 | -0.032 log-odds | -0.4 | -0.039 | -0.025 | -0.1 | no effect beyond the price |
+| H2H draw rate (last 3-6) | 12,425 | -0.003 log-odds | -0.2 | +0.020 | -0.032 | -1.2 | no effect beyond the price |
+| midweek (Tue-Thu) (n on=3443) | 29,636 | +0.000 log-odds | +0.0 | +0.037 | -0.040 | -1.5 | no effect beyond the price |
+
+### Total corners
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| away points form (last 5) | 28,451 | -0.9% | -4.4 | -0.009 | -0.009 | +1.1 | **real, beyond the price** |
+| last 15% of season (n on=5110) | 29,627 | -2.1% | -4.1 | -0.023 | -0.019 | -0.3 | real in-sample, fails out of sample |
+| both sides' shots on target form | 28,243 | -1.0% | -4.0 | -0.015 | -0.007 | -3.5 | real in-sample, fails out of sample |
+| home points form (last 5) | 28,478 | -0.6% | -2.8 | -0.009 | -0.003 | -2.4 | real in-sample, fails out of sample |
+| two top-15% sides (n on=568) | 29,627 | -4.3% | -2.8 | -0.057 | -0.031 | -0.8 | real in-sample, fails out of sample |
+| H2H draw rate (last 3-6) | 12,422 | +0.8% | +2.4 | +0.004 | +0.011 | +3.6 | **real, beyond the price** |
+| table-position gap | 24,986 | +0.5% | +2.1 | +0.006 | +0.004 | +1.3 | **real, beyond the price** |
+| referee avg goals (last 20) | 9,396 | -0.6% | -1.7 | -0.003 | -0.012 | +1.7 | no effect beyond the price |
+| August/September (n on=6413) | 29,627 | +0.8% | +1.6 | +0.009 | +0.003 | -5.6 | no effect beyond the price |
+| midweek (Tue-Thu) (n on=3442) | 29,627 | -0.9% | -1.5 | -0.013 | -0.005 | +0.1 | no effect beyond the price |
+| December/January (n on=5538) | 29,627 | -0.5% | -1.0 | -0.011 | +0.003 | -0.3 | no effect beyond the price |
+| home side newly promoted (n on=4778) | 22,382 | +0.5% | +1.0 | +0.008 | +0.003 | -1.3 | no effect beyond the price |
+| first 4 rounds of season (n on=4583) | 29,627 | +0.5% | +0.9 | +0.006 | -0.001 | -2.8 | no effect beyond the price |
+| away side newly promoted (n on=4775) | 22,382 | +0.3% | +0.5 | -0.003 | +0.009 | -0.4 | no effect beyond the price |
+| rest days (home − away) | 29,352 | +0.1% | +0.3 | -0.001 | +0.002 | -0.2 | no effect beyond the price |
+| away side played ≤3 days ago (n on=3032) | 29,627 | -0.2% | -0.2 | -0.005 | +0.002 | -0.0 | no effect beyond the price |
+| home side played ≤3 days ago (n on=3115) | 29,627 | -0.1% | -0.2 | -0.006 | +0.003 | +0.0 | no effect beyond the price |
+| referee home-win rate (last 30) | 8,620 | -0.1% | -0.1 | +0.001 | -0.005 | -1.2 | no effect beyond the price |
+| home side bottom-20% in run-in (n on=1667) | 29,627 | -0.1% | -0.1 | -0.005 | +0.004 | -1.8 | no effect beyond the price |
+| two bottom-20% sides, 2nd half of season (n on=552) | 29,627 | +0.1% | +0.0 | +0.003 | -0.001 | -0.0 | no effect beyond the price |
+
+### Total yellow cards
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| last 15% of season (n on=5110) | 29,628 | -6.9% | -8.5 | -0.089 | -0.054 | -2.1 | real in-sample, fails out of sample |
+| both sides' shots on target form | 28,244 | +2.7% | +7.2 | +0.031 | +0.021 | -0.7 | real in-sample, fails out of sample |
+| August/September (n on=6413) | 29,628 | +4.5% | +6.4 | +0.058 | +0.023 | -20.1 | real in-sample, fails out of sample |
+| midweek (Tue-Thu) (n on=3442) | 29,628 | -5.4% | -5.9 | -0.054 | -0.059 | +4.4 | **real, beyond the price** |
+| two top-15% sides (n on=568) | 29,628 | +8.8% | +4.0 | +0.107 | +0.061 | +1.4 | **real, beyond the price** |
+| home side bottom-20% in run-in (n on=1667) | 29,628 | -5.0% | -4.0 | -0.076 | -0.028 | +0.5 | **real, beyond the price** |
+| home side played ≤3 days ago (n on=3115) | 29,628 | -3.5% | -3.7 | -0.038 | -0.035 | +2.2 | **real, beyond the price** |
+| away side played ≤3 days ago (n on=3032) | 29,628 | -3.3% | -3.3 | -0.037 | -0.031 | +3.1 | **real, beyond the price** |
+| table-position gap | 24,987 | -0.8% | -2.2 | -0.011 | -0.004 | +0.8 | **real, beyond the price** |
+| referee avg goals (last 20) | 9,397 | +1.2% | +2.1 | +0.014 | +0.006 | +1.4 | **real, beyond the price** |
+| first 4 rounds of season (n on=4583) | 29,628 | +1.7% | +2.1 | +0.041 | -0.021 | -20.9 | no effect beyond the price |
+| December/January (n on=5538) | 29,628 | +1.0% | +1.4 | +0.004 | +0.019 | -0.5 | no effect beyond the price |
+| home side newly promoted (n on=4778) | 22,382 | -1.1% | -1.3 | -0.019 | -0.002 | -0.8 | no effect beyond the price |
+| away points form (last 5) | 28,452 | -0.4% | -1.3 | -0.004 | -0.005 | +0.2 | no effect beyond the price |
+| rest days (home − away) | 29,353 | -0.3% | -1.1 | +0.000 | -0.007 | -1.4 | no effect beyond the price |
+| two bottom-20% sides, 2nd half of season (n on=552) | 29,628 | -1.6% | -0.8 | -0.002 | -0.029 | -0.3 | no effect beyond the price |
+| H2H draw rate (last 3-6) | 12,422 | -0.3% | -0.6 | -0.002 | -0.003 | +0.1 | no effect beyond the price |
+| home points form (last 5) | 28,479 | +0.2% | +0.5 | +0.007 | -0.005 | -1.4 | no effect beyond the price |
+| referee home-win rate (last 30) | 8,621 | +0.1% | +0.2 | -0.000 | +0.000 | -0.6 | no effect beyond the price |
+| away side newly promoted (n on=4775) | 22,382 | +0.0% | +0.0 | -0.007 | +0.008 | -1.4 | no effect beyond the price |
+
+### NBA total vs closing line
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| both on back-to-back (n on=141) | 2,645 | -2.70 pts/runs | -1.7 | -3.501 | -1.888 | +0.06 pts² MSE | no effect beyond the price |
+| recent net rating (home − away) | 2,565 | -0.53 pts/runs | -1.5 | -0.265 | -0.805 | +0.31 pts² MSE | no effect beyond the price |
+| away team's road-trip length | 2,645 | +0.48 pts/runs | +1.4 | +0.267 | +0.707 | +0.30 pts² MSE | no effect beyond the price |
+| both teams' recent scoring vs league | 2,565 | -0.38 pts/runs | -1.1 | -0.222 | -0.549 | +0.12 pts² MSE | no effect beyond the price |
+| rest days (home − away) | 2,627 | +0.26 pts/runs | +0.7 | -0.266 | +0.772 | -0.47 pts² MSE | no effect beyond the price |
+| home team on back-to-back (n on=436) | 2,645 | -0.64 pts/runs | -0.6 | -0.423 | -0.868 | +0.07 pts² MSE | no effect beyond the price |
+| first 4 rounds of season (n on=128) | 2,645 | +0.99 pts/runs | +0.6 | +0.859 | +0.000 | +0.04 pts² MSE | no effect beyond the price |
+| win streak (home − away) | 2,645 | +0.10 pts/runs | +0.3 | +0.072 | +0.132 | +0.01 pts² MSE | no effect beyond the price |
+| playoffs (n on=169) | 2,645 | -0.19 pts/runs | -0.1 | +0.534 | -0.887 | -0.02 pts² MSE | no effect beyond the price |
+| away team on back-to-back (n on=455) | 2,645 | -0.09 pts/runs | -0.1 | -1.754 | +1.592 | -1.20 pts² MSE | no effect beyond the price |
+
+### NBA home margin vs closing spread
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| recent net rating (home − away) | 2,563 | +0.67 pts/runs | +2.5 | +0.380 | +0.965 | +0.59 pts² MSE | **real, beyond the price** |
+| home team on back-to-back (n on=436) | 2,643 | -0.76 pts/runs | -1.0 | -0.835 | -0.693 | +0.06 pts² MSE | no effect beyond the price |
+| rest days (home − away) | 2,625 | +0.18 pts/runs | +0.6 | +0.567 | -0.207 | -0.55 pts² MSE | no effect beyond the price |
+| both on back-to-back (n on=141) | 2,643 | +0.68 pts/runs | +0.5 | +1.699 | -0.354 | -0.20 pts² MSE | no effect beyond the price |
+| playoffs (n on=169) | 2,643 | +0.51 pts/runs | +0.4 | +2.526 | -1.432 | -0.86 pts² MSE | no effect beyond the price |
+| away team's road-trip length | 2,643 | +0.11 pts/runs | +0.4 | +0.217 | -0.008 | -0.04 pts² MSE | no effect beyond the price |
+| first 4 rounds of season (n on=127) | 2,643 | +0.33 pts/runs | +0.3 | +0.289 | +0.000 | +0.01 pts² MSE | no effect beyond the price |
+| both teams' recent scoring vs league | 2,563 | +0.06 pts/runs | +0.2 | -0.181 | +0.319 | -0.13 pts² MSE | no effect beyond the price |
+| win streak (home − away) | 2,643 | -0.04 pts/runs | -0.2 | +0.003 | -0.079 | -0.00 pts² MSE | no effect beyond the price |
+| away team on back-to-back (n on=454) | 2,643 | +0.03 pts/runs | +0.0 | +1.174 | -1.128 | -0.56 pts² MSE | no effect beyond the price |
+
+### NBA home win vs closing moneyline
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| recent net rating (home − away) | 2,559 | +0.110 log-odds | +2.2 | +0.051 | +0.177 | +11.7 | **real, beyond the price** |
+| home team on back-to-back (n on=435) | 2,639 | -0.128 log-odds | -1.1 | -0.187 | -0.065 | -1.6 | no effect beyond the price |
+| both teams' recent scoring vs league | 2,559 | +0.040 log-odds | +0.9 | +0.021 | +0.061 | +1.8 | no effect beyond the price |
+| away team on back-to-back (n on=454) | 2,639 | -0.089 log-odds | -0.8 | +0.075 | -0.252 | -5.7 | no effect beyond the price |
+| playoffs (n on=169) | 2,639 | -0.136 log-odds | -0.8 | -0.125 | -0.150 | +1.5 | no effect beyond the price |
+| first 4 rounds of season (n on=128) | 2,639 | +0.104 log-odds | +0.5 | +0.143 | +0.000 | -1.6 | no effect beyond the price |
+| win streak (home − away) | 2,639 | +0.020 log-odds | +0.4 | -0.016 | +0.053 | -2.4 | no effect beyond the price |
+| both on back-to-back (n on=141) | 2,639 | -0.070 log-odds | -0.4 | -0.117 | -0.024 | -0.5 | no effect beyond the price |
+| rest days (home − away) | 2,621 | +0.012 log-odds | +0.3 | +0.080 | -0.058 | -15.3 | no effect beyond the price |
+| away team's road-trip length | 2,639 | +0.004 log-odds | +0.1 | +0.038 | -0.033 | -3.2 | no effect beyond the price |
+
+### WNBA total vs closing line
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| rest days (home − away) | 649 | -0.80 pts/runs | -1.2 | +0.943 | -2.257 |  | no effect beyond the price |
+| playoffs (n on=40) | 660 | +3.20 pts/runs | +1.2 | +3.433 | +3.145 |  | too few games with the flag to judge |
+| win streak (home − away) | 660 | -0.56 pts/runs | -0.9 | -0.668 | -0.444 |  | no effect beyond the price |
+| away team on back-to-back (n on=31) | 660 | +1.35 pts/runs | +0.6 | +2.834 | -0.316 |  | too few games with the flag to judge |
+| first 4 rounds of season (n on=119) | 660 | -0.88 pts/runs | -0.5 | -0.522 | -1.073 |  | no effect beyond the price |
+| both teams' recent scoring vs league | 598 | -0.37 pts/runs | -0.5 | -1.651 | -0.077 |  | no effect beyond the price |
+| home team on back-to-back (n on=24) | 660 | +1.38 pts/runs | +0.4 | +2.200 | +0.399 |  | too few games with the flag to judge |
+| away team's road-trip length | 660 | -0.14 pts/runs | -0.2 | +0.710 | -0.863 |  | no effect beyond the price |
+| recent net rating (home − away) | 614 | +0.04 pts/runs | +0.1 | +0.050 | +0.030 |  | no effect beyond the price |
+
+### WNBA home margin vs closing spread
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| first 4 rounds of season (n on=119) | 660 | -2.05 pts/runs | -1.5 | -2.009 | -2.155 |  | no effect beyond the price |
+| win streak (home − away) | 660 | -0.57 pts/runs | -1.1 | -0.813 | -0.328 |  | no effect beyond the price |
+| both teams' recent scoring vs league | 598 | -0.58 pts/runs | -1.1 | -1.657 | -0.300 |  | no effect beyond the price |
+| away team's road-trip length | 660 | -0.38 pts/runs | -0.7 | +0.283 | -0.907 |  | no effect beyond the price |
+| recent net rating (home − away) | 614 | -0.32 pts/runs | -0.6 | -0.640 | +0.063 |  | no effect beyond the price |
+| playoffs (n on=40) | 660 | +0.93 pts/runs | +0.5 | +0.206 | +1.986 |  | too few games with the flag to judge |
+| home team on back-to-back (n on=24) | 660 | +1.19 pts/runs | +0.4 | +3.448 | -2.497 |  | too few games with the flag to judge |
+| away team on back-to-back (n on=31) | 660 | -0.89 pts/runs | -0.3 | -3.882 | +2.701 |  | too few games with the flag to judge |
+| rest days (home − away) | 649 | -0.10 pts/runs | -0.2 | -0.625 | +0.342 |  | no effect beyond the price |
+
+### WNBA home win vs closing moneyline
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| first 4 rounds of season (n on=119) | 660 | -0.505 log-odds | -2.1 | -0.430 | -0.582 |  | **real, beyond the price** |
+| playoffs (n on=40) | 660 | +0.402 log-odds | +1.0 | +0.176 | +0.770 |  | too few games with the flag to judge |
+| both teams' recent scoring vs league | 598 | -0.071 log-odds | -0.8 | -0.178 | -0.108 |  | no effect beyond the price |
+| away team on back-to-back (n on=31) | 660 | -0.305 log-odds | -0.7 | -0.905 | +0.534 |  | too few games with the flag to judge |
+| win streak (home − away) | 660 | -0.047 log-odds | -0.5 | -0.154 | +0.060 |  | no effect beyond the price |
+| home team on back-to-back (n on=24) | 660 | +0.223 log-odds | +0.4 | +0.680 | -0.444 |  | too few games with the flag to judge |
+| recent net rating (home − away) | 614 | +0.024 log-odds | +0.2 | -0.102 | +0.193 |  | no effect beyond the price |
+| rest days (home − away) | 649 | -0.009 log-odds | -0.1 | -0.064 | +0.036 |  | no effect beyond the price |
+| away team's road-trip length | 660 | -0.006 log-odds | -0.1 | +0.136 | -0.116 |  | no effect beyond the price |
+
+### MLB total vs closing line
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| both on back-to-back (n on=3963) | 4,934 | -0.47 pts/runs | -2.8 | -0.786 | -0.161 | -0.20 pts² MSE | real in-sample, fails out of sample |
+| home team on back-to-back (n on=4111) | 4,934 | -0.48 pts/runs | -2.7 | -0.708 | -0.251 | -0.10 pts² MSE | real in-sample, fails out of sample |
+| away team on back-to-back (n on=4155) | 4,934 | -0.44 pts/runs | -2.4 | -0.825 | -0.043 | -0.28 pts² MSE | real in-sample, fails out of sample |
+| away team's road-trip length | 4,934 | -0.14 pts/runs | -2.2 | -0.195 | -0.079 | +0.01 pts² MSE | **real, beyond the price** |
+| win streak (home − away) | 4,934 | +0.08 pts/runs | +1.2 | +0.057 | +0.099 | +0.01 pts² MSE | no effect beyond the price |
+| recent net rating (home − away) | 4,853 | +0.06 pts/runs | +1.0 | -0.033 | +0.189 | -0.05 pts² MSE | no effect beyond the price |
+| both teams' recent scoring vs league | 4,853 | +0.06 pts/runs | +0.9 | +0.092 | +0.020 | -0.02 pts² MSE | no effect beyond the price |
+| first 4 rounds of season (n on=126) | 4,934 | +0.20 pts/runs | +0.5 | +0.302 | -5.047 | -0.02 pts² MSE | no effect beyond the price |
+| playoffs (n on=72) | 4,934 | -0.20 pts/runs | -0.4 | +0.233 | -0.624 | +0.00 pts² MSE | too few games with the flag to judge |
+| rest days (home − away) | 4,861 | +0.03 pts/runs | +0.4 | -0.007 | +0.063 | -0.04 pts² MSE | no effect beyond the price |
+
+### MLB home win vs closing moneyline
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| rest days (home − away) | 4,861 | +0.050 log-odds | +1.7 | +0.025 | +0.072 | -5.9 | no effect beyond the price |
+| first 4 rounds of season (n on=126) | 4,934 | +0.303 log-odds | +1.7 | +0.301 | -20.844 | +2.7 | no effect beyond the price |
+| recent net rating (home − away) | 4,853 | +0.026 log-odds | +0.9 | +0.061 | -0.017 | -0.9 | no effect beyond the price |
+| away team's road-trip length | 4,934 | -0.022 log-odds | -0.8 | -0.052 | +0.008 | -14.6 | no effect beyond the price |
+| home team on back-to-back (n on=4111) | 4,934 | -0.056 log-odds | -0.7 | +0.005 | -0.118 | +0.2 | no effect beyond the price |
+| away team on back-to-back (n on=4155) | 4,934 | +0.028 log-odds | +0.4 | +0.048 | +0.008 | -4.8 | no effect beyond the price |
+| both teams' recent scoring vs league | 4,853 | -0.008 log-odds | -0.3 | -0.037 | +0.023 | -11.9 | no effect beyond the price |
+| win streak (home − away) | 4,934 | +0.005 log-odds | +0.2 | +0.042 | -0.038 | +0.0 | no effect beyond the price |
+| playoffs (n on=72) | 4,934 | -0.025 log-odds | -0.1 | +0.017 | -0.067 | +0.0 | too few games with the flag to judge |
+| both on back-to-back (n on=3963) | 4,934 | -0.007 log-odds | -0.1 | +0.078 | -0.091 | -2.1 | no effect beyond the price |
+
+### Basketball total vs SportyBet line (all leagues)
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| first 4 rounds of season (n on=19) | 1,163 | +11.25 pts/runs | +2.3 | +10.759 | +11.793 | +2.01 pts² MSE | too few games with the flag to judge |
+| rest days (home − away) | 1,157 | -0.27 pts/runs | -0.5 | +0.329 | -0.734 | -0.01 pts² MSE | no effect beyond the price |
+| recent net margin (home − away) | 1,147 | -0.31 pts/runs | -0.4 | -0.945 | +0.182 | -0.38 pts² MSE | no effect beyond the price |
+| both teams' recent totals vs line | 1,147 | +0.12 pts/runs | +0.2 | +1.361 | -1.343 | -3.69 pts² MSE | no effect beyond the price |
+| either team on a back-to-back (n on=55) | 1,157 | +0.24 pts/runs | +0.1 | -6.984 | +2.148 | -2.50 pts² MSE | too few games with the flag to judge |
+
+### Basketball margin vs SportyBet spread (all leagues)
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| rest days (home − away) | 1,153 | -0.89 pts/runs | -2.3 | -0.313 | -1.308 | +1.13 pts² MSE | **real, beyond the price** |
+| recent net margin (home − away) | 1,143 | +0.77 pts/runs | +2.0 | +0.764 | +0.741 | +0.36 pts² MSE | no effect beyond the price |
+| first 4 rounds of season (n on=19) | 1,159 | +4.10 pts/runs | +1.5 | +5.295 | +2.193 | -0.01 pts² MSE | too few games with the flag to judge |
+| either team on a back-to-back (n on=55) | 1,153 | -2.39 pts/runs | -1.4 | -4.251 | -1.233 | +0.51 pts² MSE | too few games with the flag to judge |
+| both teams' recent totals vs line | 1,143 | -0.28 pts/runs | -0.7 | -0.587 | +0.007 | +0.06 pts² MSE | no effect beyond the price |
+
+### Basketball home win vs SportyBet price (all leagues)
+
+| Factor | n | Effect | t | Early half | Late half | OOS (×10⁻⁴ nats, or pts² for lines) | Verdict |
+|---|---|---|---|---|---|---|---|
+| first 4 rounds of season (n on=16) | 998 | +1.281 log-odds | +1.7 | +0.780 | +2.076 | +31.2 | too few games with the flag to judge |
+| rest days (home − away) | 994 | -0.089 log-odds | -1.2 | -0.018 | -0.144 | +7.5 | no effect beyond the price |
+| either team on a back-to-back (n on=53) | 994 | -0.334 log-odds | -1.1 | -0.320 | -0.269 | +12.6 | too few games with the flag to judge |
+| both teams' recent totals vs line | 985 | -0.042 log-odds | -0.6 | -0.064 | -0.020 | -1.8 | no effect beyond the price |
+| recent net margin (home − away) | 985 | -0.025 log-odds | -0.3 | -0.067 | +0.021 | -2.3 | no effect beyond the price |
+<!-- /PART2 -->

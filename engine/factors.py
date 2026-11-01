@@ -30,7 +30,7 @@ def load():
             if not (oh and od and oa and o25 and u25): continue
             R.append(dict(lg=lg,season=season,date=d,h=r['HomeTeam'],a=r['AwayTeam'],hg=hg,ag=ag,
                 hs=g('HS'),as_=g('AS'),hst=g('HST'),ast=g('AST'),hc=g('HC'),ac=g('AC'),hy=g('HY'),ay=g('AY'),
-                hf=g('HF'),af=g('AF'),hxg=g('HxG'),axg=g('AxG'),ref=r.get('Referee') or None,
+                hf=g('HF'),af=g('AF'),hthg=g('HTHG'),htag=g('HTAG'),hxg=g('HxG'),axg=g('AxG'),ref=r.get('Referee') or None,
                 oh=oh,od=od,oa=oa,o25=o25,u25=u25))
     R.sort(key=lambda x:x['date']); return R
 # ---------- market expectation (lambda_home, lambda_away) from devigged 1X2 + O/U 2.5 ----------

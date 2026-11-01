@@ -45,6 +45,8 @@ for e in json.load(open(sys.argv[1])):
     # factor study (FACTORS.md): table position / form / fouls for cards, goals-form & rank for corners
     fh,fa=FA.mult(lg,h,a,True),FA.mult(lg,a,h,False); shY=yh/(yh+ya) if yh+ya else 0.5
     muC0,muY0=muC,muY; muC=muC*(shC*fh['y_c']+(1-shC)*fa['y_c']); muY=muY*(shY*fh['y_y']+(1-shY)*fa['y_y'])
+    try: muY*=FA.card_context(lg,h,a,dt.datetime.strptime(f"{now.year}-{e['ko']}",'%Y-%m-%d %H:%M'))
+    except Exception: pass
     shC=shC*fh['y_c']/(shC*fh['y_c']+(1-shC)*fa['y_c'])
     for o in e['mk']:
         m,s,d=o['mid'],o['spec'] or '',o['desc']; p=None

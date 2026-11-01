@@ -35,3 +35,16 @@ def mult(lg,t,o,home=True):
 if __name__=='__main__':
     import sys
     print(mult(*(sys.argv[1:4] if len(sys.argv)>3 else ('E0','Arsenal','Chelsea'))))
+# Match-context card effects from factors2.py (FACTORS.md part 2, total yellows, |t|>=3.3, all positive out of sample):
+# midweek -5.4%, home/away side played <=3 days ago -3.5%/-3.3%, two top-15% sides +8.8%.
+import datetime as _dt
+def card_context(lg,h,a,ko):
+    """ko: datetime of kick-off (UTC). Returns a multiplier for the match yellow-card expectation."""
+    m=1.0
+    if ko.weekday() in (1,2,3): m*=0.946
+    for t,c in ((h,0.965),(a,0.967)):
+        H=HIST.get(t,[])
+        if H and (ko-H[-1]['date']).days<=3: m*=c
+    rh,ra=_rank(lg,h),_rank(lg,a)
+    if rh is not None and ra is not None and rh<=0.15 and ra<=0.15: m*=1.088
+    return min(max(m,0.85),1.15)
