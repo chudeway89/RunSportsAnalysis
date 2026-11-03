@@ -1,0 +1,166 @@
+[
+{
+"eid": "sr:match:74165980",
+"fx": "Atletico Madrid v Bayern Munich",
+"xg_h": 1.68,
+"xg_a": 1.57,
+"confidence": 0.35,
+"flags": [
+"big_club"
+],
+"veto": false,
+"note": "Bayern w/o Musiala, L.Diaz, Gnabry, Saibari; Olise/Neuer doubts; Kompany absent (Danks leads). Atleti w/o Hjulmand (susp)."
+},
+{
+"eid": "sr:match:74165994",
+"fx": "Villarreal v PSG",
+"xg_h": 1.28,
+"xg_a": 2.16,
+"confidence": 0.3,
+"flags": [
+"big_club"
+],
+"veto": false,
+"note": "PSG w/o Dembele, Kvaratskhelia, Marquinhos, N.Mendes; Villarreal w/o Akhomach, Alassane +2, G.Moreno."
+},
+{
+"eid": "sr:match:74165986",
+"fx": "Feyenoord v Inter",
+"xg_h": 1.5,
+"xg_a": 1.89,
+"confidence": 0.3,
+"flags": [
+"big_club"
+],
+"veto": false,
+"note": "Inter w/o Lautaro, Bastoni (susp), Stones, Jones; Feyenoord w/o St. Juste."
+},
+{
+"eid": "sr:match:74165984",
+"fx": "Barcelona v Aston Villa",
+"xg_h": 3.15,
+"xg_a": 1.19,
+"confidence": 0.3,
+"flags": [
+"big_club"
+],
+"veto": false,
+"note": "Barca defensive injury crisis; Villa 3/3 in UCL."
+},
+{
+"eid": "sr:match:74165988",
+"fx": "Bodoe/Glimt v Lille",
+"xg_h": 1.98,
+"xg_a": 1.42,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "Bodo w/o GKs Faye Lund and Sjong (Haikin starts); won last 6 UCL home games; Lille 0 pts."
+},
+{
+"eid": "sr:match:74165992",
+"fx": "Man Utd v Roma",
+"xg_h": 1.61,
+"xg_a": 1.66,
+"confidence": 0.3,
+"flags": [
+"big_club"
+],
+"veto": false,
+"note": "Man Utd 9 winless; Roma scored 5 v Udinese."
+},
+{
+"eid": "sr:match:74165978",
+"fx": "Galatasaray Istanbul v Stuttgart",
+"xg_h": 1.99,
+"xg_a": 1.63,
+"confidence": 0.25,
+"flags": [],
+"veto": false,
+"note": "Stuttgart w/o Stiller, Vagnoman, Sauer; Gala conceded 9 in 3 UCL."
+},
+{
+"eid": "sr:match:74165976",
+"fx": "Shakhtar D v Sporting",
+"xg_h": 1.25,
+"xg_a": 1.64,
+"confidence": 0.3,
+"flags": [
+"rotation_risk"
+],
+"veto": false,
+"note": "Sporting sacked Rui Borges Sunday; interim Tiago Fernandes."
+},
+{
+"eid": "sr:match:74165990",
+"fx": "LASK Linz v Slovan Bratislava",
+"xg_h": 2.53,
+"xg_a": 0.99,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "Slovan 0/3, forwards Cerepkai and Sporar doubtful."
+},
+{
+"eid": "sr:match:66887146",
+"fx": "Red Bull Bragantino SP v Santos FC SP",
+"xg_h": 1.98,
+"xg_a": 1.15,
+"confidence": 0.4,
+"flags": [],
+"veto": false,
+"note": "Santos w/o Neymar, J.Schmidt (susp), Arao, Verissimo, Brazao; Escobar doubt."
+},
+{
+"eid": "sr:match:66887156",
+"fx": "Chapecoense SC v Mirassol FC SP",
+"xg_h": 1.2,
+"xg_a": 1.58,
+"confidence": 0.25,
+"flags": [
+"must_win"
+],
+"veto": false,
+"note": "Chape last (21 pts), w/o Heitor, Carvalheira, R.Santos; Mirassol w/o Bruno Santos, Edson Carioca (susp)."
+},
+{
+"eid": "sr:match:72339988",
+"fx": "Derby County v Norwich",
+"xg_h": 1.22,
+"xg_a": 1.63,
+"confidence": 0.25,
+"flags": [],
+"veto": false,
+"note": "Derby no league win since Sep 1."
+},
+{
+"eid": "sr:match:73719502",
+"fx": "Houston Rockets v Boston Celtics",
+"margin": 3.0,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "Rockets w/o S.Adams; Capela, Sheppard questionable; Celtics w/o D.Carter, M.Robinson rested."
+},
+{
+"eid": "sr:match:73719510",
+"fx": "Golden State Warriors v Phoenix Suns",
+"margin": 0.5,
+"confidence": 0.25,
+"flags": [],
+"veto": false,
+"note": "Curry and Draymond Green game-time decisions (rest); Gui Santos out."
+},
+{
+"eid": "sr:match:73835720",
+"fx": "Al Hilal SFC v Shabab Al Ahli Dubai",
+"xg_h": 1.88,
+"xg_a": 1.14,
+"confidence": 0.3,
+"flags": [
+"high_scoring_profile"
+],
+"veto": false,
+"note": "Shabab Al Ahli perfect in West zone (5 straight wins, beat Esteghlal 2-0); Al Hilal lost 3-1 to Al Shamal in last ACL game. Previews lean goals/BTTS."
+}
+]

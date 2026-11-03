@@ -2787,3 +2787,20 @@ Code: `engine/factors.py` (pre-match rolling features + Poisson tests) and `engi
 - **RNWHDR (EDIT): 25 legs, 305,701x.** It uses the widest away line on every game. Illinois and Georgia were dropped: only one line is offered, so they can't be fitted. Chance 1 in 64.5k correlated / 1 in 2.1M independent.
 - **XVDHX5 (CORE): 6 legs, 18.0x**, the six highest-p widest lines (MSU, Oklahoma, Pitt, St John's, Providence, Ole Miss). Chance 1 in 22 correlated / 1 in 29 independent. Both identity-verified; declared lotteries.
 - Grade at settlement: NCAA opener big-spread underdog catches (backdoor-cover thesis untested).
+
+### Calibration (Nov 3, 07:40 UTC) — overnight book dead
+- Y3YT4R (50x) 2W/1L/9P and TSGQFC (500x) 4W/1L/14P are both DEAD on Celtics +10.5 at Houston (lost 93:109 by 16). That is a wide NBA catch, the L26 class, in week 2 of the season.
+- WZE16X family (NCAA opening night): XVDHX5 core 3W/3L, RNWHDR 14W/11L, WZE16X 15W/12L. MSU, Pitt and Ole Miss all won by 37-41 against their +29.5-32.5 lines. The big-favourite blowout tail beat the ladder-fitted p ~0.57. NCAA opener underdog catches went 15W/12L, a coin flip as priced; no backdoor-cover edge.
+
+### Nov 3 — rebuild for the rest of the day (board 08:30 → 23:00 UTC, 169 fixtures): Z1CZGA / KGDSV6 / NMPF6Y
+- Thin Tuesday board: UCL MD4 ×9, Championship ×9, AFC CL Elite ×7, Eurocup/FIBA, cup ties. Research was 5 extended searches:
+  - Atlético without Cardoso and Hjulmand (suspended). Barcelona without Christensen, Olmo, Koundé, E. García and Bardghji; Villa top of the table on 9 pts.
+  - Shabab Al Ahli perfect in the West zone; Al Hilal lost 3-1 to Al Shamal (Al Hilal–Shabab flagged high-scoring).
+  - No Championship or Eurocup team news found.
+  - Plus the Nov 2 factors03 file.
+- `sim_acca.py` is now parametrised: env BASE, OUT, TGTS, CAP, DROP. Its THIN list adds cups, English amateur, Hong Kong, NKL, Israel National and Colombia.
+- The gated clean pool tops out at **~90x**: an honest 500x does not exist today.
+- **Z1CZGA (MAIN, 4 legs, 2.7x, ~1 in 3.2):** Barcelona 1X2, Derby +1.5 v Norwich, Chapecoense–Mirassol O1.5, Shabab Al Ahli +2.5 at Al Hilal.
+- **KGDSV6 (50x, 13 legs, 51.2x, sim 1 in 87):** 9 European football legs across UCL and the Championship, Chapecoense TT, the Buducnost +3.5 catch, and Kashiwa–Daejeon O1.5 (10:00 KO).
+- **NMPF6Y (MAX, 16 legs, 90.6x, sim 1 in 179):** KGDSV6 plus Al Hilal +2.5, CAHN +1.5 v Kyoto, and Esteghlal +1.5.
+- All three are identity-verified. Nested, so Barcelona/LASK/Bodø sit on 3 slips (V4-5 breach by design).
