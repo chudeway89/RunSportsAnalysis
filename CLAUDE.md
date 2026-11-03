@@ -2833,3 +2833,28 @@ Code: `engine/factors.py` (pre-match rolling features + Poisson tests) and `engi
   - Also weak: Elversberg–Freiburg 1UP (.66), Man City 1X2 v Fulham (.66), PSG −1 Euro handicap (.67).
 - **Research found no team news yet.** The fixtures and times are confirmed.
 - **PT97Y3 (XFY567 with the 11 weak legs + 3 in-play legs removed, on user request): 27 legs, 505x, independent model 1 in 1,650.** Identity-verified. Still a declared lottery; it spans Nov 4 → Nov 22.
+
+### Calibration (Nov 3, 21:42 UTC) + Nov 4 book (QLTFQQ / QDNPTG / M75BVT)
+- **Nov 3 results so far.**
+  - Dead:
+    - Z1CZGA: Derby +1.5 lost 0:4 to Norwich.
+    - KGDSV6 and NMPF6Y: one loss each, all other legs won or pending.
+    - Every trim of WMSWD4 and P8WRU4 died on the user's own junk legs: integer Over 3, win-either-half, GG, U21 cup ties, a Gillingham reserves 1X2, Halifax AH0.
+  - Alive: G2YRAH (4W, needs Villarreal to score at 0:5) and VAHA67 (5W, same leg), plus PT97Y3 (all pending).
+  - The pattern held again: the researched cores are alive, and the trims of the spray-codes died.
+- **Nov 4 board** (now → end of Nov 4, 204 events, every one simulated 100k times with `engine/fixsim.py`; sim vs model mean abs diff 0.25pp).
+- **Research:** 16 extended searches → `cache/factors04_G5.json`.
+  - Napoli crisis: Lobotka, Buongiorno, Neres and Badiashile out.
+  - Liverpool without Frimpong, Bradley, Ekitike and Gravenberch.
+  - PSV without 4.
+  - Real Madrid basketball without Campazzo, Maledon and 3 more.
+  - Pohang 0/3 in ACLE with a new manager; Kashima 3/3.
+  - Kortrijk last.
+  - Vetoes: Venados (Liga de Expansión QF venue/date conflict) and UAPB (new roster, projected rout).
+  - Weak NCAA receivers dropped: Coppin State, Manhattan, Alabama State, New Orleans.
+  - Also dropped: WKBL (women), Anderlecht Futures (reserve), Danish academy side, Botola big match.
+- **The gated clean pool reached only ~40x**, so the 500x/5000x tickets were built from the wider simulated pool (EV ≥0.95, p ≥0.56, value legs 1.25-2.4 included), with the core gates kept.
+- **Tickets:**
+  - **QLTFQQ (MAIN, 5 legs, 3.5x, 1 in 4):** PSV–Brugge O2.5, Boro +0.5 at Wrexham, Kortrijk–Mechelen O1.5, Olympiacos to score at Rennes, Pohang–Gamba O1.5.
+  - **QDNPTG (T500, 15 legs, 509x, joint 100k 1 in 578)** and **M75BVT (T5000, 22 legs, 6,005x, 1 in 10,000).** Both have MAIN fixtures excluded and are nested.
+  - All identity-verified.
