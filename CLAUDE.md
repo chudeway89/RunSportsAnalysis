@@ -2804,3 +2804,11 @@ Code: `engine/factors.py` (pre-match rolling features + Poisson tests) and `engi
 - **KGDSV6 (50x, 13 legs, 51.2x, sim 1 in 87):** 9 European football legs across UCL and the Championship, Chapecoense TT, the Buducnost +3.5 catch, and Kashiwa–Daejeon O1.5 (10:00 KO).
 - **NMPF6Y (MAX, 16 legs, 90.6x, sim 1 in 179):** KGDSV6 plus Al Hilal +2.5, CAHN +1.5 v Kyoto, and Esteghlal +1.5.
 - All three are identity-verified. Nested, so Barcelona/LASK/Bodø sit on 3 slips (V4-5 breach by design).
+
+### Nov 3 — user code WMSWD4 (39 legs, 870,896x, house 1 in 7.0M), every leg researched + 100k-simulated before any cut
+- Analysed 09:34 UTC, nothing started. Composition: 11 integer Over 2/3, 9 win-either-half, 2 market-59, 2 GG, 3 goal bounds 3-5+, corners, 12-DC, youth/U21/U23/women/reserves legs. Wingate–Burgess Hill POSTPONED (voids on the original).
+- 100k sim (market-anchored Poisson, assumed day/competition correlation): every leg within ~2pp of house p, EV 0.82-0.97 — no edge leg. Joint 1 in 100k correlated / 1 in 1.88M independent. Weakest: East Bengal DNB .38, Al Hilal O3 .40, Man Utd O3 .43, Northampton O2 .44, Rotherham O3 .44, Atlético–Bayern O3 .45.
+- V4-5 excluded (already on today's slips): Galatasaray, Feyenoord, LASK, Charlton, Preston, Al Hilal.
+- **G2YRAH (CORE, 5 legs, 2.74x, sim 1 in 3.3)**: Oldham +1.5 at Northampton, Huddersfield–Luton O1.5, WBA–Southampton O1.5, Atlético–Bayern Away-or-O2.5, Villarreal to score v PSG.
+- **VAHA67 (EDIT, 7 legs, 4.56x, sim 1 in 5.9)**: core + Shakhtar–Sporting Away-or-O2.5 (as booked), Roma +1.5 at Man Utd. Both identity-verified.
+- Cut 32: integer Overs, National League Cup/EFL Trophy U21 ties, Youth League (date conflict), U23, women's, reserves, Sergipano/Southern/Isthmian non-league, PL Cup/Challenge Cup bounds, Copa del Rey −1, East Bengal, Monagas, Sirius corners, Chrobry O1.5 (.71), capped fixtures.
