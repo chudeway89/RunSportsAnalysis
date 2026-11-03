@@ -2832,3 +2832,4 @@ Code: `engine/factors.py` (pre-match rolling features + Poisson tests) and `engi
   - Overs: Servette O2.5 (.61), Partizan O2.5 (.64).
   - Also weak: Elversberg–Freiburg 1UP (.66), Man City 1X2 v Fulham (.66), PSG −1 Euro handicap (.67).
 - **Research found no team news yet.** The fixtures and times are confirmed.
+- **PT97Y3 (XFY567 with the 11 weak legs + 3 in-play legs removed, on user request): 27 legs, 505x, independent model 1 in 1,650.** Identity-verified. Still a declared lottery; it spans Nov 4 → Nov 22.
