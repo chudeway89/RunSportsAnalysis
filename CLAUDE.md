@@ -2819,3 +2819,16 @@ Code: `engine/factors.py` (pre-match rolling features + Poisson tests) and `engi
 - Research (3 extended searches): Blackburn–Stoke previews split 1-1/2-1/1-2, Stoke w/o Bocat/Ampah/Gallagher/Cisse; Watford 21st, 6 of 7 dropped, Bove out — models ~39/28/33; Chapecoense–Mirassol: Mirassol 40% fav, won 4 of 5 H2H, Bruno Santos/Edson Carioca suspended.
 - Knife = sim survival (refunds count) + loser class: rm-5 Blackburn GG (.52), Vizela U23 GG (.57), Curzon bounds 3-5+ (.57), Xelaju TT O1.5 (.58), Huddersfield GG (.59) | rm-10 + AGF women bounds 3-5+, Lyngby–Randers cup GG, Buckhurst Hill O2.5, Watford +0.5, Bodø–Lille early O2.5 | rm-15 + Atlético–Bayern corners, Al Hilal TT O1.5, Dorking early O2.5, Hornchurch U21 GG, Lanus reserves 1X2.
 - **SFU2VC (rm-5) 35 legs 34,386x, sim 1 in 168k; Q31TLR (rm-10) 30 legs 5,056x, 1 in 16.6k; SAAUGP (rm-15) 25 legs 956x, 1 in 2,062.** All identity-verified; declared lotteries (trims have never won). V4-5 breach flagged: Barcelona, Villarreal, Atlético, Shakhtar, Man Utd, Galatasaray, Feyenoord, Al Hilal, Huddersfield, Halifax, Gillingham res, Goztepe youth, Woking also sit on today's Z1CZGA/KGDSV6/NMPF6Y/G2YRAH/VAHA67/WMSWD4 slips.
+
+### Nov 3 — user code XFY567 (41 legs, Nov 3 → Nov 22) — 100k simulation, verdict only (no post)
+- Top-5 leagues plus UCL/UEL/UECL, Swiss, Eredivisie, Eliteserien and Serbia. Mostly 2UP/1UP result legs on favourites, plus team/match Overs and two European handicaps (0:1).
+- **The ticket stays open for 19 days (L14).** The Nov 20-22 legs can't be researched yet; team news and the international break both come before them.
+- **Live at analysis (21:16 UTC), all effectively won:** Villarreal 0:5 PSG (PSG O1.5), Barcelona 2:0 Villa (2UP paid), Man Utd 0:2 Roma (Roma TT O0.5). That leaves 38 legs.
+- **The sim matches house p on every leg** (2UP/1UP simulated via goal timing; e.g. Dortmund 1UP: sim .839 vs API .840). EV runs 0.92-0.99 with no edge leg.
+- **Joint chance:** 0 of 100k correlated runs survived; independent estimate 1 in 401k. Payout is roughly 30-60k x.
+- **Weakest legs:**
+  - 2UP away: Sunderland–Chelsea (.51), Forest–Man City (.58), Palace–Liverpool (.60), Atalanta–Inter (.61), Newcastle–Arsenal (.62).
+  - 2UP home: Chelsea–Leeds (.55).
+  - Overs: Servette O2.5 (.61), Partizan O2.5 (.64).
+  - Also weak: Elversberg–Freiburg 1UP (.66), Man City 1X2 v Fulham (.66), PSG −1 Euro handicap (.67).
+- **Research found no team news yet.** The fixtures and times are confirmed.
