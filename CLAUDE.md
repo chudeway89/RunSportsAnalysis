@@ -2858,3 +2858,8 @@ Code: `engine/factors.py` (pre-match rolling features + Poisson tests) and `engi
   - **QLTFQQ (MAIN, 5 legs, 3.5x, 1 in 4):** PSV–Brugge O2.5, Boro +0.5 at Wrexham, Kortrijk–Mechelen O1.5, Olympiacos to score at Rennes, Pohang–Gamba O1.5.
   - **QDNPTG (T500, 15 legs, 509x, joint 100k 1 in 578)** and **M75BVT (T5000, 22 legs, 6,005x, 1 in 10,000).** Both have MAIN fixtures excluded and are nested.
   - All identity-verified.
+
+### Calibration (Nov 4, 03:53 UTC) — QDNPTG / M75BVT dead overnight; QLTFQQ (MAIN) untouched
+- QDNPTG (500x) 3W/2L/1V, M75BVT (5000x) 3W/3L/1V — DEAD before sunrise. Killers: Stetson +20.5 at South Carolina (lost 81:55, by 26), Cleveland State +28.5 at Missouri (lost 111:50, by 61), Jaguares to score at Pasto (2:0).
+- PROCESS FAILURE: I dropped Coppin/Manhattan/Alabama State/New Orleans as weak NCAA receivers but let Stetson and Cleveland State in from the same class (L26; Nov 2-3 NCAA openers went 15W/12L with 37-41 point blowouts). Rule now absolute: NO college-basketball catches on any ticket in November (opening weeks: buy-game blowouts, no priced edge). Jaguares TT O0.5 = thin-league team-to-score class (Colombia DIMAYOR), also known lossy. Drexel +33.5 and Sam Houston +28.5 won — the class is a coin flip, not a loser, but a coin flip has no place in a 500x.
+- QLTFQQ (MAIN, 5 researched European/Asian legs) 0 settled, all play Nov 4 10:00-20:00 UTC.
