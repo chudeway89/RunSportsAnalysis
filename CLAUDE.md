@@ -2874,3 +2874,8 @@ Code: `engine/factors.py` (pre-match rolling features + Poisson tests) and `engi
 
 ### Nov 4 — SSV0LR trims (11:34 UTC, original markets; leg 37 Grbalj–Kom 12:00 inside the guard → rides on the original only, base 38)
 - Knife = 100k-sim survival + loser class. rm-5 Rennes O3 (.55), Wrexham −1 (.56), AEK–Real −2 (.59), Slavia–Arsenal corners (.60), Al Wahda O3 (.60) → **R8ULP7 (33, 21,986x, house 1 in 119k)**; rm-10 + Atlético U20 O2.5, Dortmund O3, Lens U20 GG, Al-Masry O1.5 (Egypt cup), Be1 2H-DC → **UZH9JC (28, 2,784x, 1 in 10,977)**; rm-15 + Dortmund U20 GG, Borains 12-DC, Hibs W 12-DC, Zvezda U19 −1 & PAOK U19 both-halves-No (UEFA date conflict) → **QTJGC0 (23, 807x, 1 in 2,457)**. All identity-verified; declared lotteries (trims have never won). Next in line: Libertad–Cerro derby O1.5, Bristol, Szeged, Enugu, Usce. Grade removed-15 vs kept-23.
+
+### Calibration (Nov 4, 22:18 UTC)
+- **Alive**: LVJ6ZZ (SSV0LR core) 3W/0L — needs only Flamengo home corners O5.5 v Gremio (not started); Q9T3U1 (edit) 7W/0L + Flamengo corners, Coquimbo TT O0.5 (0:0 H1), Paranaense–Vasco O1.5; PT97Y3 (XFY567 trim) 5W/0L/22P, runs to Nov 22.
+- **Dead**: QLTFQQ (MAIN) 3W/2L — Boro +0.5 at Wrexham (2:0) and Olympiacos to score at Rennes (0:0); HJY72P 16W/4L (Wrexham, Szeged/BVSC −1 3:0, Arkadag–Gol Gohar O1.5 1:0, Al-Muharraq +1.5 0:3); QDNPTG/M75BVT (NCAA catches + Herlev +19.5 lost by 26 + Jaguares TT); SSV0LR trims R8ULP7/UZH9JC/QTJGC0 (Enugu bounds 2-5+ 1:0, Usce bounds 3-5+ 0:1, Slavia–Arsenal O2.5 1:0 — the knife's "next in line" Enugu/Usce were the killers); G2YRAH/VAHA67 on Villarreal to score (0:6 v PSG).
+- Away team-to-score is now 0W/3L in cores (Toulouse, Torino, Olympiacos — all blanked by a home side). Stop using away TT O0.5 as a core leg.
