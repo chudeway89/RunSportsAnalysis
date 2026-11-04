@@ -1,0 +1,203 @@
+[
+{
+"eid": "sr:match:74173022",
+"fx": "AC Milan v Ferencvarosi Budapest",
+"xg_h": 2.33,
+"xg_a": 0.78,
+"confidence": 0.3,
+"flags": [
+"high_scoring_profile"
+],
+"veto": false,
+"note": "Milan w/o Tomori, Gabbia, Saelemaekers, Chukwueze; Fradi w/o Bero, Otvos. SempreMilan"
+},
+{
+"eid": "sr:match:74173026",
+"fx": "Crystal Palace v Hoffenheim",
+"xg_h": 1.99,
+"xg_a": 1.42,
+"confidence": 0.3,
+"flags": [
+"high_scoring_profile"
+],
+"veto": false,
+"note": "Hoffenheim 10/13 games over 2.5"
+},
+{
+"eid": "sr:match:74173040",
+"fx": "Alkmaar v Juventus",
+"xg_h": 1.23,
+"xg_a": 1.71,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "AZ GK Zoet out; Juve Sarr/Cambiaso start"
+},
+{
+"eid": "sr:match:74173042",
+"fx": "Bayer Leverkusen v Marseille",
+"xg_h": 2.5,
+"xg_a": 0.92,
+"confidence": 0.3,
+"flags": [
+"high_scoring_profile"
+],
+"veto": false,
+"note": "Leverkusen 3/3 UEL wins, no goal conceded"
+},
+{
+"eid": "sr:match:74173056",
+"fx": "Benfica v KKS Lech Poznan",
+"xg_h": 3.36,
+"xg_a": 0.68,
+"confidence": 0.3,
+"flags": [
+"high_scoring_profile"
+],
+"veto": false,
+"note": "Benfica 5 straight wins, 4th straight Euro win v Lech chased"
+},
+{
+"eid": "sr:match:74173044",
+"fx": "Celtic v Besiktas Istanbul",
+"xg_h": 1.38,
+"xg_a": 1.84,
+"confidence": 0.3,
+"flags": [
+"big_club",
+"high_scoring_profile"
+],
+"veto": false,
+"note": "Celtic lost all 3 UEL games, GD -6"
+},
+{
+"eid": "sr:match:74173278",
+"fx": "Atalanta v FC Kairat Almaty",
+"xg_h": 2.65,
+"xg_a": 0.71,
+"confidence": 0.3,
+"flags": [
+"high_scoring_profile"
+],
+"veto": false,
+"note": "Atalanta winless 5, conceded 14, lost 3-0 Parma; Kairat conceded 6 in 2"
+},
+{
+"eid": "sr:match:74173280",
+"fx": "FC Midtjylland v Ajax",
+"xg_h": 1.6,
+"xg_a": 1.61,
+"confidence": 0.3,
+"flags": [
+"high_scoring_profile"
+],
+"veto": false,
+"note": "Ajax w/o Brandt(doubt), Adingra, Dolberg, Edvardsen, Gaaei, Caio Henrique; FCM winless in UECL"
+},
+{
+"eid": "sr:match:74173300",
+"fx": "FC Twente Enschede v Pafos FC",
+"xg_h": 2.81,
+"xg_a": 0.83,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "Twente won 9-0 at weekend; Pafos in slump"
+},
+{
+"eid": "sr:match:74173306",
+"fx": "Panathinaikos v PFC CSKA Sofia",
+"xg_h": 2.23,
+"xg_a": 0.88,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "Pana 6 straight wins"
+},
+{
+"eid": "sr:match:66887142",
+"fx": "Sao Paulo FC SP v SC Corinthians SP",
+"xg_h": 1.12,
+"xg_a": 1.02,
+"confidence": 0.3,
+"flags": [
+"derby",
+"big_club"
+],
+"veto": false,
+"note": "Majestoso derby; Corinthians w/o Matheuzinho, Lingard, Gabriel Paulista, Raniele"
+},
+{
+"eid": "sr:match:73265524",
+"fx": "CA Aldosivi v CA River Plate (ARG)",
+"xg_h": 0.75,
+"xg_a": 1.82,
+"confidence": 0.3,
+"flags": [
+"rotation_risk",
+"high_scoring_profile"
+],
+"veto": false,
+"note": "Final round: Aldosivi relegated, River through; River w/o Martinez Quarta, Montiel, Moreno, Vera, Meza"
+},
+{
+"eid": "sr:match:73719516",
+"fx": "Detroit Pistons v Philadelphia 76ers",
+"margin": -0.4,
+"total": 219.676,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "Duren, Joe out"
+},
+{
+"eid": "sr:match:73719520",
+"fx": "Boston Celtics v Milwaukee Bucks",
+"margin": 9.4,
+"total": 221.144,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "Tatum q (rest), Pritchard q"
+},
+{
+"eid": "sr:match:73719526",
+"fx": "Memphis Grizzlies v Indiana Pacers",
+"margin": 8.1,
+"total": 228.44,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "Pacers Zubac/Toppin/Oubre questionable"
+},
+{
+"eid": "sr:match:73719530",
+"fx": "Oklahoma City Thunder v Cleveland Cavaliers",
+"margin": 5.5,
+"total": 226.678,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "Cavs w/o Tyson, Watson"
+},
+{
+"eid": "sr:match:73719532",
+"fx": "Houston Rockets v Minnesota Timberwolves",
+"margin": 5.5,
+"total": 219.196,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "Capela, Adams out"
+},
+{
+"eid": "sr:match:73719538",
+"fx": "San Antonio Spurs v Dallas Mavericks",
+"margin": 14.1,
+"total": 227.079,
+"confidence": 0.3,
+"flags": [],
+"veto": false,
+"note": "Mavs w/o Lively, Christie, Biberovic; Aldama doubtful; Spurs w/o Harris"
+}
+]
