@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-03 18:22 UTC. Totals: 0 won · 5 dead · 0 alive · 50 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-04 01:44 UTC. Totals: 0 won · 0 dead · 0 alive · 55 expired.
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -54,8 +54,8 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-10-19 | RN3XSC | T500 v8.5 22 legs | – | – | N/A (expired) | |
 | 2026-10-19 | HP1G13 | T5000 29 legs | – | – | N/A (expired) | |
 | 2026-10-19 | J3QRUG | T50000 38 legs | – | – | N/A (expired) | |
-| 2026-10-24 | KXKM85 | MAIN 5 legs 4x | 5 | 4W/1L/0V/0P | DEAD | New York Red Bulls v Inter Miami CF — Over/Under Over 2.5 (2:0) |
-| 2026-10-24 | H4R0YD | T500 19 legs 642x | 19 | 17W/1L/1V/0P | DEAD | Trabzonspor Basketbol v Esenler Erokspor — Over/Under (incl. overtime) 171.5 Under 171.5 (90:93) |
-| 2026-10-24 | U1JNV8 | T5000 27 legs 6,673x | 27 | 21W/4L/2V/0P | DEAD | Trabzonspor Basketbol v Esenler Erokspor — Over/Under (incl. overtime) 171.5 Under 171.5 (90:93); Como 1907 v Sassuolo — Over/Under Over 2.5 (2:0); Gil Vicente Barcelos v Porto — Over/Under Over 1.5 (0:1); Al-Riyadh SC v Al-Taawoun FC — Asian Handicap -0.5 Away (+0.5) (2:1) |
-| 2026-10-24 | LGJK18 | T50000 34 legs 60,973x | 34 | 26W/6L/2V/0P | DEAD | Trabzonspor Basketbol v Esenler Erokspor — Over/Under (incl. overtime) 171.5 Under 171.5 (90:93); Como 1907 v Sassuolo — Over/Under Over 2.5 (2:0); Gil Vicente Barcelos v Porto — Over/Under Over 1.5 (0:1); Al-Riyadh SC v Al-Taawoun FC — Asian Handicap -0.5 Away (+0.5) (2:1); Asteras Tripolis v APO Levadiakos FC — Over/Under Over 1.5 (0:0); POT Iraklis v AE Kifisia FC — AE Kifisia FC Over/Under Under 1.5 (2:3) |
-| 2026-10-24 | LJCZ26 | MAX 48 legs 4,902,874x | 48 | 35W/11L/2V/0P | DEAD | Trabzonspor Basketbol v Esenler Erokspor — Over/Under (incl. overtime) 171.5 Under 171.5 (90:93); Como 1907 v Sassuolo — Over/Under Over 2.5 (2:0); Gil Vicente Barcelos v Porto — Over/Under Over 1.5 (0:1); Al-Riyadh SC v Al-Taawoun FC — Asian Handicap -0.5 Away (+0.5) (2:1); Asteras Tripolis v APO Levadiakos FC — Over/Under Over 1.5 (0:0); POT Iraklis v AE Kifisia FC — AE Kifisia FC Over/Under Under 1.5 (2:3); Dundee United v Aberdeen — Over/Under Under 3.5 (3:2); BSC Young Boys v FC St. Gallen — Asian Handicap -1.5 Away (+1.5) (None); FC Zbrojovka Brno v Bohemians Prague 1905 — Over/Under Under 3.5 (2:2); Falkirk FC v Kilmarnock FC — Asian Handicap -1.5 Away (+1.5) (3:0); Slavia Prague v FK Mlada Boleslav — Over/Under Over 2.5 (1:1) |
+| 2026-10-24 | KXKM85 | MAIN 5 legs 4x | – | – | N/A (expired) | |
+| 2026-10-24 | H4R0YD | T500 19 legs 642x | – | – | N/A (expired) | |
+| 2026-10-24 | U1JNV8 | T5000 27 legs 6,673x | – | – | N/A (expired) | |
+| 2026-10-24 | LGJK18 | T50000 34 legs 60,973x | – | – | N/A (expired) | |
+| 2026-10-24 | LJCZ26 | MAX 48 legs 4,902,874x | – | – | N/A (expired) | |
