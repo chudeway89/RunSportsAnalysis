@@ -2942,3 +2942,17 @@ Code: `engine/factors.py` (pre-match rolling features + Poisson tests) and `engi
 - **XH73ST (overnight 100x, 14 legs) DEAD 11W/3L.** Losses: Grizzlies +8.5 at OKC (97:128, by 31), Shimizu–Verdy O1.5 (0:1), Tijuana +0.5 (Necaxa 1:0). Model expected ~9.6 of 14; actual 11, so the legs were on-model. It died on leg count, as its 1-in-170 sim said.
 - **HVKHD0 (Friday CORE, 5 legs) DEAD 4W/1L**, only on Strasbourg +1.5 at Toulouse (3:1, exact 2-goal margin). This is the v9.2 class again: a +2.0 line refunds that score. Rapid, Derby O1.5, Standard O1.5, Everton O1.5 all won.
 - Lessons (enforcement, no new rule): (1) no +1.5 catch on a core even when fav_p < 0.55 — use +2.0 or DNB; (2) NBA mid catches went 3W/1L, and the loss was a weak receiver v OKC (L26).
+
+### Nov 7 (Saturday) — full-board 100k build: KE0C1H SURE-10 / HCVJS0 T500 / N3T02K T5000 / UWGGGJ T50000
+- Board: 1,102 events / 651k outcomes. All 1,099 priceable fixtures run 100k times on every settleable market: 52,196 legs, sim vs model 0.32pp. Sportradar last-10 form on 1,080.
+- 12 extended searches → `cache/factors07_G5.json` (19 fixtures).
+  - Krasnodar–CSKA vetoed (date conflict, Nov 7 vs Nov 8).
+  - MLS = Decision Day (regular-season finale): Chicago locked in, Columbus must win.
+  - Absences: Madrid without Vinícius (susp), Rodrygo, Mendy. PSG without Hakimi, Akliouche, Kvaratskhelia. Newcastle without Joelinton, Ramsey, Livramento, Jaouen. Bremen missing up to 9. St Mirren missing 6. Sassuolo without Koné, Boloca, Leysen.
+  - Form: Leipzig no home league goal conceded; Eyüpspor goal-shy; Excelsior conceded 9 last week.
+  - Basketball catches ≥15 pts dropped (L26, weak receivers) except Bursaspor +15.5 (market line −9.5).
+- **KE0C1H SURE-10: 5.5x, joint 100k 1 in 6.9** — every leg sim ≥0.82. Legs:
+  - Bayern TT U4.5, Fulham–Newcastle U4.5, Blackburn–West Ham O1.5, Göztepe TT O0.5, Stuttgart–Bremen U5.5;
+  - ADO–Sparta O1.5, Roma–Sassuolo U5.5, Excelsior–GAE O1.5, PSG 1X2, Montreal +2.5.
+- **HCVJS0 T500: 18 legs 535x, 1 in 862. N3T02K T5000: 25 legs 5,154x, 1 in 12,500. UWGGGJ T50000: 32 legs 51,931x, ~1 in 132k.** Nested; the SURE-10 fixtures are excluded from the ladders. Seven of the T500 legs are +1.5 catches at fav_p<0.55 (the Strasbourg class), which makes it a declared lottery.
+- Grade: SURE-10 survival (expected ~8.3 of 10 legs) and the +1.5 catch class at volume.
