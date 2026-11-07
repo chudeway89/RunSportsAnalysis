@@ -933,3 +933,60 @@ Graded outcomes to date: 110569
 | baseball | 256 | 89 | 0.5997 | 0.5793 | +0.0203 | 0 | +0.000 | collecting |
 | baseball | 251 | 56 | 0.6874 | 0.6874 | -0.0000 | 0 | +0.000 | collecting |
 
+## Day 50 — 2026-11-06 01:55 UTC
+Run: OK | snapshot 9416 outcomes / 198 events | failed steps: none
+Graded outcomes to date: 113181
+
+| Sport | Market | n | Model LL | House LL | Δ (neg = model better) | EV picks | Picks ROI | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| basketball | 225 | 48768 | 0.6466 | 0.6467 | -0.0000 | 1 | +1.950 | **PASS** |
+| basketball | 223 | 24679 | 0.6489 | 0.6486 | +0.0003 | 272 | +0.124 | FAIL (house better) |
+| basketball | 227 | 11582 | 0.6883 | 0.6886 | -0.0003 | 0 | +0.000 | FAIL (picks lose) |
+| basketball | 228 | 8910 | 0.6870 | 0.6872 | -0.0001 | 0 | +0.000 | FAIL (picks lose) |
+| football | 900300 | 7316 | 0.6269 | 0.6251 | +0.0018 | 1209 | +0.044 | FAIL (house better) |
+| football | 166 | 5643 | 0.6462 | 0.6451 | +0.0011 | 235 | -0.112 | FAIL (house better) |
+| football | 900301 | 2316 | 0.6503 | 0.6251 | +0.0252 | 360 | -0.032 | FAIL (house better) |
+| basketball | 219 | 1927 | 0.6600 | 0.6632 | -0.0033 | 1 | -1.000 | FAIL (picks lose) |
+| football | 139 | 1799 | 0.6145 | 0.6059 | +0.0086 | 333 | +0.007 | FAIL (house better) |
+| baseball | 258 | 96 | 0.6537 | 0.6599 | -0.0061 | 6 | +0.157 | collecting |
+| baseball | 256 | 89 | 0.5997 | 0.5793 | +0.0203 | 0 | +0.000 | collecting |
+| baseball | 251 | 56 | 0.6874 | 0.6874 | -0.0000 | 0 | +0.000 | collecting |
+
+## Day 51 — 2026-11-06 17:55 UTC
+Run: OK | snapshot 9416 outcomes / 198 events | failed steps: none
+Graded outcomes to date: 115782
+
+| Sport | Market | n | Model LL | House LL | Δ (neg = model better) | EV picks | Picks ROI | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| basketball | 225 | 50130 | 0.6469 | 0.6468 | +0.0001 | 1 | +1.950 | FAIL (house better) |
+| basketball | 223 | 25226 | 0.6494 | 0.6491 | +0.0003 | 274 | +0.127 | FAIL (house better) |
+| basketball | 227 | 11890 | 0.6880 | 0.6882 | -0.0002 | 0 | +0.000 | FAIL (picks lose) |
+| basketball | 228 | 9158 | 0.6874 | 0.6876 | -0.0002 | 0 | +0.000 | FAIL (picks lose) |
+| football | 900300 | 7360 | 0.6269 | 0.6251 | +0.0017 | 1215 | +0.044 | FAIL (house better) |
+| football | 166 | 5663 | 0.6458 | 0.6447 | +0.0011 | 239 | -0.120 | FAIL (house better) |
+| football | 900301 | 2342 | 0.6496 | 0.6242 | +0.0254 | 362 | -0.037 | FAIL (house better) |
+| basketball | 219 | 1965 | 0.6584 | 0.6613 | -0.0028 | 1 | -1.000 | FAIL (picks lose) |
+| football | 139 | 1801 | 0.6146 | 0.6059 | +0.0087 | 333 | +0.007 | FAIL (house better) |
+| baseball | 258 | 98 | 0.6542 | 0.6616 | -0.0074 | 6 | +0.157 | collecting |
+| baseball | 256 | 91 | 0.6073 | 0.5880 | +0.0193 | 0 | +0.000 | collecting |
+| baseball | 251 | 58 | 0.6846 | 0.6843 | +0.0003 | 0 | +0.000 | collecting |
+
+## Day 52 — 2026-11-07 01:22 UTC
+Run: OK | snapshot 2145 outcomes / 98 events | failed steps: none
+Graded outcomes to date: 118716
+
+| Sport | Market | n | Model LL | House LL | Δ (neg = model better) | EV picks | Picks ROI | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| basketball | 225 | 51402 | 0.6479 | 0.6478 | +0.0000 | 1 | +1.950 | FAIL (house better) |
+| basketball | 223 | 25799 | 0.6508 | 0.6506 | +0.0002 | 278 | +0.139 | FAIL (house better) |
+| basketball | 227 | 12306 | 0.6882 | 0.6885 | -0.0003 | 0 | +0.000 | FAIL (picks lose) |
+| basketball | 228 | 9522 | 0.6870 | 0.6872 | -0.0002 | 0 | +0.000 | FAIL (picks lose) |
+| football | 900300 | 7486 | 0.6266 | 0.6256 | +0.0010 | 1230 | +0.053 | FAIL (house better) |
+| football | 166 | 5723 | 0.6465 | 0.6459 | +0.0006 | 243 | -0.102 | FAIL (house better) |
+| football | 900301 | 2398 | 0.6469 | 0.6222 | +0.0247 | 374 | -0.032 | FAIL (house better) |
+| basketball | 219 | 2032 | 0.6570 | 0.6591 | -0.0020 | 2 | -1.000 | FAIL (picks lose) |
+| football | 139 | 1801 | 0.6146 | 0.6059 | +0.0087 | 333 | +0.007 | FAIL (house better) |
+| baseball | 258 | 98 | 0.6542 | 0.6616 | -0.0074 | 6 | +0.157 | collecting |
+| baseball | 256 | 91 | 0.6073 | 0.5880 | +0.0193 | 0 | +0.000 | collecting |
+| baseball | 251 | 58 | 0.6846 | 0.6843 | +0.0003 | 0 | +0.000 | collecting |
+
