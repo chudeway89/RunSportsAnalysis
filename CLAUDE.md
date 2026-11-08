@@ -103,7 +103,7 @@ You are a team of data analysts, statisticians, actuaries and quant engineers. Y
   - Sportradar gismo feed `sr.py`: `sr:match:N` = gismo id N.
   - ESPN `espn_hist.py` (NBA/WNBA/MLB closing lines).
   - football-data CSVs via `fd_fetch.sh` (needs `curl -L`).
-- **Automation:** `.github/workflows/papertrade.yml` on branch `claude/sports-accumulator-analysis-8su67`, 21:40 and 11:00 UTC. It runs `daily.py` (harvest → price → snapshot → grade), `tape_harvest.py` (EVERY sport, fixture and market SportyBet lists, no filter; both runs) → `tape_store`/`tape_grade`/`tape_report` (settles winner/totals/handicaps incl. OT for all sports, set points, hockey regulation, football corners and bookings), `journal.py` and `settle_tickets.py`. Outputs:
+- **Automation:** `.github/workflows/papertrade.yml` on branch `claude/sports-accumulator-analysis-8su67`, 21:40 and 11:00 UTC. It runs `daily.py` (harvest → price → snapshot → grade), `tape_harvest.py` (every TEAM sport, every fixture and market SportyBet lists; individual sports, esports and simulated events excluded by user directive; both runs) → `tape_store`/`tape_grade`/`tape_report` (settles winner/totals/handicaps incl. OT for all sports, set points, hockey regulation, football corners and bookings), `journal.py` and `settle_tickets.py`. Outputs:
   - `papertrade/status.json`, `JOURNAL.md`, `TICKETS.md`, `CLASSES.md`, `TAPE.md`, `FACTORS.md`, `legs.jsonl`.
 
 ## 4. What the evidence says (the numbers every decision rests on)

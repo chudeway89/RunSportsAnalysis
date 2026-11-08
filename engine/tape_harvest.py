@@ -1,4 +1,4 @@
-# Unfiltered market tape harvest: EVERY sport SportyBet lists, EVERY fixture (women's/youth/reserves included),
+# Unfiltered market tape harvest: every TEAM sport SportyBet lists (user directive Nov 8; individual sports and esports excluded), EVERY fixture (women's/youth/reserves included),
 # EVERY market, for the next HOURS hours. No selection of any kind -> this is what the model learns the market from.
 # Writes cache/tapeboard_<UTCdate>.json (same event format as board.py) and appends it to papertrade/tape/ via tape_store.
 # Usage: python3 tape_harvest.py [HOURS=30]
@@ -12,7 +12,12 @@ def sport_probe(n):
     d=curl_get(f'https://www.sportybet.com/api/ng/factsCenter/pcUpcomingEvents?sportId=sr:sport:{n}&marketId={MK}&pageSize=1&pageNum=1') or {}
     t=(d.get('data') or {}).get('tournaments') or []
     return (f'sr:sport:{n}',t[0]['events'][0]['sport']['name']) if t and t[0].get('events') else None
-with ThreadPoolExecutor(16) as ex: SPORTS=[s for s in ex.map(sport_probe,range(1,200)) if s]
+# Team sports only: football, basketball, baseball, ice hockey, handball, rugby, American football, aussie rules,
+# cricket, volleyball, futsal, water polo, field hockey, bandy, floorball. Excluded: tennis, table tennis, darts,
+# snooker, boxing, MMA, beach volleyball (pairs), esports incl. eFootball/Counter-Strike.
+VIRT=('srl','simulated','esoccer','ebasket','virtual','cyber','2k')
+TEAM={1,2,3,4,6,12,13,16,21,23,24,26,29,7,15}
+with ThreadPoolExecutor(16) as ex: SPORTS=[s for s in ex.map(sport_probe,sorted(TEAM)) if s]
 print('sports',SPORTS,file=sys.stderr)
 def events(sp):
     sid,name=sp; out=[]; seen=set()
@@ -26,6 +31,7 @@ def events(sp):
                 if st>end or st<now or e['eventId'] in seen: continue
                 seen.add(e['eventId'])
                 lg=(e.get('sport',{}).get('category',{}).get('name',''))+' / '+t.get('name','')
+                if any(v in (lg+' '+e['homeTeamName']).lower() for v in VIRT): continue   # simulated/virtual events are not real teams
                 out.append({'sport':name.lower(),'sid':sid,'eid':e['eventId'],'home':e['homeTeamName'],'away':e['awayTeamName'],'lg':lg,'start':st})
     print(name,len(out),file=sys.stderr); return out
 with ThreadPoolExecutor(8) as ex: EV=[e for L in ex.map(events,SPORTS) for e in L]
