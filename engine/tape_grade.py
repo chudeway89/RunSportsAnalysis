@@ -4,13 +4,14 @@
 # Settlement: football markets on the 90-minute score (+ 1st-half score from Sportradar periods.p1);
 # integer O/U and AH lines push -> void (observed SportyBet behaviour, L71/L80). Markets that need the goal
 # timeline (1UP/2UP, first goal, early goals, leads-by, goals in a row, player props) are skipped.
+# Nov 8: all sports (winner/totals/handicaps incl. OT, set points, hockey regulation) + football corners/bookings.
 import json,glob,re,os,sys,concurrent.futures as cf
 import sr
 OUT='../papertrade/tape_graded.jsonl'
 
 def load_tape():
     seen={}
-    for f in sorted(glob.glob('cache/board_*.json'), key=os.path.getmtime):
+    for f in sorted(glob.glob('cache/board_*.json')+glob.glob('cache/tapeboard_*.json'), key=os.path.getmtime):
         ev=json.load(open(f)); ev=ev if isinstance(ev,list) else ev.get('events',[])
         for e in ev:
             for o in e.get('mk',[]):
@@ -33,20 +34,28 @@ def load_tape():
 def result(eid):
     mid=eid.split(':')[-1]
     m=sr.match_info(mid,maxage=None)
-    fin=('Ended','AET','AP','Ended after extra time','Ended after penalties','After overtime','AOT','Ended after overtime')
+    fin=('Ended','AET','AP','Ended after extra time','Ended after penalties','After overtime','AOT','Ended after overtime','After penalties','Retired','Walkover')
     if not m or ((m.get('status') or {}).get('name','') not in fin and not m.get('canceled') and not m.get('postponed')):
         m=sr.match_info(mid,maxage=0)   # cached copy was pre-match: refetch
     if not m: return None
     if m.get('canceled') or m.get('postponed'): return 'void'
     st=(m.get('status') or {}).get('name','')
-    if st not in ('Ended','AET','AP','Ended after extra time','Ended after penalties','After overtime','AOT','Ended after overtime'): return None
+    if st not in fin: return None
     r=m.get('result') or {}; p=m.get('periods') or {}
     if r.get('home') is None: return None
-    ft=p.get('ft') or {}; h1=p.get('p1') or {}
-    d=dict(fh=r['home'],fa=r['away'],soccer=(m.get('_sid')==1))
+    sid=m.get('_sid'); ft=p.get('ft') or {}; h1=p.get('p1') or {}
+    # rh/ra = final result incl. OT (sets for tennis/volleyball/table tennis, frames for snooker)
+    d=dict(fh=r['home'],fa=r['away'],rh=r['home'],ra=r['away'],winner=r.get('winner'),sid=sid,soccer=(sid==1),
+           per=[(p[k]['home'],p[k]['away']) for k in sorted(p,key=lambda x:int(x[1:])) if k[0]=='p' and k[1:].isdigit() and p[k].get('home') is not None])
     if d['soccer']:
         if ft.get('home') is not None: d.update(fh=ft['home'],fa=ft['away'])  # 90 minutes
         if h1.get('home') is not None: d.update(h1h=h1['home'],h1a=h1['away'])
+        try: d['stats']=sr.match_stats(m['_id'])
+        except Exception: d['stats']=None
+    elif sid==4 and len(d['per'])>=3:   # ice hockey: regulation = 3 periods
+        d.update(fh=sum(x[0] for x in d['per'][:3]),fa=sum(x[1] for x in d['per'][:3]),h1h=d['per'][0][0],h1a=d['per'][0][1])
+    elif sid in (12,137) and h1.get('home') is not None:   # rugby / eFootball: halves like football
+        d.update(h1h=h1['home'],h1a=h1['away'])
     return d
 
 def num(spec,key):
@@ -107,16 +116,35 @@ def settle(o,r):
     h1h,h1a=r.get('h1h'),r.get('h1a')
     h2h=fh-h1h if h1h is not None else None; h2a=fa-h1a if h1a is not None else None
     L=num(spec,'total'); H=num(spec,'hcp')
-    if o['sport']!='football':
-        if mid in ('219','251'): return res1x2(fh,fa,d) if d in ('Home','Away') else None
-        if mid in ('225','258'): return ou(d,T,L)
-        if mid=='227': return ou(d,fh,L)
-        if mid=='228': return ou(d,fa,L)
-        if mid in ('223','256'):
-            if H is None: return None
-            m=fh-fa+H if d.startswith('Home') else fa-fh-H
-            return 'V' if m==0 else m>0
+    sid=r.get('sid'); rh,ra=r['rh'],r['ra']; per=r.get('per') or []
+    if mid in ('186','406','219','251','340'):   # match winner incl. OT / sets / super over (any sport)
+        if r.get('winner') in ('home','away'): w=r['winner']
+        elif rh!=ra: w='home' if rh>ra else 'away'
+        else: return None
+        return (w=='home')==(d in ('Home','1')) if d in ('Home','Away','1','2') else None
+    if mid in ('225','258','412'): return ou(d,rh+ra,L)            # totals incl. OT
+    if mid=='227': return ou(d,rh,L)
+    if mid=='228': return ou(d,ra,L)
+    if mid in ('223','256','493','366'):                             # handicaps incl. OT / frames / legs
+        if H is None: return None
+        m=rh-ra+H if d.startswith('Home') else ra-rh-H
+        return 'V' if m==0 else m>0
+    if mid in ('494','367') and sid in (19,22): return ou(d,rh+ra,L) # snooker frames / darts legs
+    if sid in (23,20,5,34) and per:                                  # set sports: points per set
+        if mid=='238': return ou(d,sum(a+b for a,b in per),L)
+        if mid in ('202','245'):
+            k=num(spec,'setnr') or num(spec,'gamenr') or 1
+            try: a,b=per[int(k)-1]
+            except Exception: return None
+            return (a>b)==(d=='Home') if d in ('Home','Away') else None
+        if mid=='199' and ':' in d: x,y=d.split(':'); return (int(x),int(y))==(rh,ra)
         return None
+    if o['sport']=='football' and mid in ('166','900300','900301','139'):   # corners / bookings from match stats
+        S=r.get('stats')
+        if not S or L is None: return None
+        v={'166':S['hc']+S['ac'],'900300':S['hc'],'900301':S['ac'],'139':(S['hy'] or 0)+(S['ay'] or 0)+(S['hr'] or 0)+(S['ar'] or 0)}[mid]
+        return ou(d,v,L)
+    if o['sport'] not in ('football','ice hockey','rugby','efootball') and not (sid in (4,12,137,1)): return None
     half=None
     if mid in ('60','63','64','65','66','68','69','70','71','74','75','76','77','78','79','81','552','810001','810002','900036','900037','900031','900032'): half=(h1h,h1a)
     if mid in ('83','85','86','87','88','90','91','92','93','94','95','96','97','98','553','900038','900052','900029','900030'): half=(h2h,h2a)
@@ -209,8 +237,7 @@ def settle(o,r):
 
 def main():
     tape=load_tape()
-    sports={'football','basketball','baseball'}
-    tape=[o for o in tape if o['sport'] in sports and o.get('odds') and o['odds']>1.0]
+    tape=[o for o in tape if o.get('odds') and o['odds']>1.0]   # every sport
     evs=sorted({o['eid'] for o in tape})
     print('outcomes',len(tape),'events',len(evs),flush=True)
     R={}

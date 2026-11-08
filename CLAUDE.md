@@ -9,7 +9,7 @@ You are a team of data analysts, statisticians, actuaries and quant engineers. Y
 ## 1. Day protocol (status check + full ticket set in ONE session, token-lean)
 1. **Status (≤3 commands):** `git fetch`, then merge `origin/claude/sports-accumulator-analysis-8su67` (on conflicts in generated files, take theirs).
    - Read `papertrade/status.json`, the last `## Day` block of `papertrade/JOURNAL.md`, and the top of `papertrade/TICKETS.md`.
-   - **Then run `cd engine && python3 settle_tickets.py` locally** (see §8: CI cannot see this branch's tickets.txt).
+   - **Then run `cd engine && python3 settle_tickets.py` locally** (see §8).
    - Report: last run, ok flag, graded total, markets passing, last tickets and results.
 2. **Prep (no LLM tokens):** `cd engine && ./daypack.sh <tag> [endHourUTC]`. This runs:
    - board harvest → baseline → Sportradar last-10 (`auto<tag>.json`) → SCREEN list;
@@ -103,7 +103,7 @@ You are a team of data analysts, statisticians, actuaries and quant engineers. Y
   - Sportradar gismo feed `sr.py`: `sr:match:N` = gismo id N.
   - ESPN `espn_hist.py` (NBA/WNBA/MLB closing lines).
   - football-data CSVs via `fd_fetch.sh` (needs `curl -L`).
-- **Automation:** `.github/workflows/papertrade.yml` on branch `claude/sports-accumulator-analysis-8su67`, 21:40 and 11:00 UTC. It runs `daily.py` (harvest → price → snapshot → grade), `tape_*` (full-board market tape), `journal.py` and `settle_tickets.py`. Outputs:
+- **Automation:** `.github/workflows/papertrade.yml` on branch `claude/sports-accumulator-analysis-8su67`, 21:40 and 11:00 UTC. It runs `daily.py` (harvest → price → snapshot → grade), `tape_harvest.py` (EVERY sport, fixture and market SportyBet lists, no filter; both runs) → `tape_store`/`tape_grade`/`tape_report` (settles winner/totals/handicaps incl. OT for all sports, set points, hockey regulation, football corners and bookings), `journal.py` and `settle_tickets.py`. Outputs:
   - `papertrade/status.json`, `JOURNAL.md`, `TICKETS.md`, `CLASSES.md`, `TAPE.md`, `FACTORS.md`, `legs.jsonl`.
 
 ## 4. What the evidence says (the numbers every decision rests on)
@@ -219,8 +219,10 @@ You are a team of data analysts, statisticians, actuaries and quant engineers. Y
 - Staking line, every time: "Accas lose money by arithmetic: a 20-leg ticket is ~1 in 200+ even with good legs. Biggest stake on the shortest ticket (or singles); lotteries ≤5% of the day; never a large single stake."
 
 ## 8. Known infrastructure issues
-- **CI settles only the tickets on its own branch.** The GitHub Actions run checks out `claude/sports-accumulator-analysis-8su67`, whose `papertrade/tickets.txt` stopped at 56 lines (Oct 24). Every code posted since lives on the working branch, so `TICKETS.md`/`CLASSES.md`/`legs.jsonl` on CI went stale.
-  - Until the tickets file is merged into that branch (needs the user's OK to push there), run `settle_tickets.py` locally at every status check.
+- **CI branch sync (fixed Nov 8):** the GitHub Actions run checks out `claude/sports-accumulator-analysis-8su67`. Its tickets.txt had frozen at 56 lines on Oct 24, and it never had the market-tape steps. On Nov 8 it was fast-forwarded to the working branch, with the user's OK.
+  - **After every post, push the working branch to that branch too:** `git push origin HEAD:claude/sports-accumulator-analysis-8su67`. This is a fast-forward only; if it is rejected, merge `origin/...8su67` first.
+  - Otherwise CI cannot settle new tickets. Still run `settle_tickets.py` locally at status checks.
+- Tape size: ~5–7 MB/day committed under `papertrade/tape/`. Review in ~2 months (prune to monthly aggregates if the repo passes ~1 GB).
 - SportyBet codes expire after ~2 weeks; `legs.jsonl` keeps the legs after expiry.
 - `fixsim.py` output path is hard-coded; daypack can't take an end hour past midnight (rolls over now, but verify).
 

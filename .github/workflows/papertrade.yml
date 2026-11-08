@@ -39,6 +39,7 @@ jobs:
         if: always()
         working-directory: engine
         run: |
+          python3 -W ignore tape_harvest.py 30 || echo 'all-sports tape harvest failed (non-fatal)'
           for f in cache/board_*.json; do [ -f "$f" ] && python3 tape_store.py "$f"; done
           python3 tape_grade.py && python3 tape_report.py > /dev/null || echo 'tape step failed (non-fatal)'
       - name: Settle posted tickets
