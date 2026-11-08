@@ -53,7 +53,7 @@
 
 **Systems architect.**
 - (1) **Critical bug:** CI settles tickets only from its own branch, whose tickets.txt froze at 56 lines on Oct 24. Every ticket since went unsettled by automation, and CLASSES/legs data on CI went stale. Fix: run settlement locally until the file is merged to that branch (needs user OK).
-- (2) The always-loaded context was 498 KB (≈125k tokens) and grew every day, so each session paid for the whole history before working. It is now split: an operational core in CLAUDE.md (~25 KB) and the verbatim archive in docs/HISTORY.md.
+- (2) The always-loaded context was 498 KB (≈125k tokens) and grew every day, so each session paid for the whole history before working. It is now split: an operational core in CLAUDE.md (~19 KB) and the verbatim archive in docs/HISTORY.md.
 - (3) Rules lived only as prose. Gates that matter are coded in pick.py, but several (+1.5 catch, weak-receiver basketball, away team-to-score) were enforced by hand and slipped repeatedly. Next step: code every §5 gate in one `gates.py` used by every builder (daypost, sim_acca, lad*.py, user-code edits).
 
 **Design-thinking lead.**
@@ -106,7 +106,7 @@ See CLAUDE.md §5 (S1–S4, R1–R5, leg gates, user codes) and §6 (experiments
 
 ## 6. Was the context reduced without losing information?
 **Yes, with one honest qualification.**
-- CLAUDE.md went from 498 KB to ~25 KB (≈95% fewer tokens loaded per turn).
+- CLAUDE.md went from 498 KB to ~19 KB (≈96% fewer tokens loaded per turn).
 - Every operational element was kept: protocol, API, settlement mechanics, market IDs, engine commands, every live gate, and all evidence numbers.
 - The day-by-day narrative and superseded rules moved verbatim to docs/HISTORY.md. Nothing is deleted; it is one grep away.
 - The qualification: past cases are no longer in front of the model automatically, so recalling a specific old fixture or rule wording costs one grep. Performance on the day protocol should improve (less context dilution), not degrade.
