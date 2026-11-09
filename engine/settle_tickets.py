@@ -28,7 +28,8 @@ def leg_class(sport,mid,spec,desc):
             '450001':'Goal Bounds','450002':'Goal Bounds team','450003':'Goal Bounds team','166':'corners','139':'cards'}.get(mid,'other m'+str(mid))
 rows,tot=[],{'WON':0,'DEAD':0,'ALIVE':0,'N/A':0}
 roi=[]  # (legs, status, unit return) per settled ticket
-for line in open(T):
+import itertools
+for line in itertools.chain(open(T),open('../papertrade/singles.txt') if os.path.exists('../papertrade/singles.txt') else []):
     line=line.split('#')[0].strip()
     if not line: continue
     code,*rest=line.split(); day=rest[0] if rest else '?'; lab=' '.join(rest[1:])  # tolerate a bare code (Oct 28 bug)

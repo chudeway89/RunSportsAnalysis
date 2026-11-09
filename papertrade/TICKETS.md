@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-09 01:23 UTC. Totals: 5 won · 88 dead · 0 alive · 106 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-09 04:52 UTC. Totals: 5 won · 88 dead · 4 alive · 106 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
@@ -211,3 +211,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-07 | WKLGFZ | KC60ZS rm-5 (32 legs) | 32 | 17W/8L/7V/0P | DEAD | Fleetwood Town v Rochdale AFC — Home Team or Over 2.5 Yes (1:2); Arsenal v Hull City — Arsenal Over/Under Over 1.5 (1:0); Stuttgart v Werder Bremen — Over/Under Over 3 (1:0); AJ Auxerre v Paris FC — Over/Under Over 2 (0:1); PSG v ESTAC Troyes — Over/Under Over 3 (1:0); Orlando City SC v New England Revolution — Over/Under Over 2.5 (1:0); Isa Town v AL Hala — Draw No Bet Away (4:3); Maccabi Haifa FC v Maccabi Netanya FC — Home Team to Win Either Half Yes (0:4) |
 | 2026-11-07 | Z8KH1U | KC60ZS rm-10 (27 legs) | 27 | 14W/7L/6V/0P | DEAD | Fleetwood Town v Rochdale AFC — Home Team or Over 2.5 Yes (1:2); Arsenal v Hull City — Arsenal Over/Under Over 1.5 (1:0); Stuttgart v Werder Bremen — Over/Under Over 3 (1:0); AJ Auxerre v Paris FC — Over/Under Over 2 (0:1); PSG v ESTAC Troyes — Over/Under Over 3 (1:0); Orlando City SC v New England Revolution — Over/Under Over 2.5 (1:0); Isa Town v AL Hala — Draw No Bet Away (4:3) |
 | 2026-11-07 | VUAGSU | KC60ZS rm-15 (22 legs) | 22 | 11W/6L/5V/0P | DEAD | Fleetwood Town v Rochdale AFC — Home Team or Over 2.5 Yes (1:2); Arsenal v Hull City — Arsenal Over/Under Over 1.5 (1:0); AJ Auxerre v Paris FC — Over/Under Over 2 (0:1); PSG v ESTAC Troyes — Over/Under Over 3 (1:0); Orlando City SC v New England Revolution — Over/Under Over 2.5 (1:0); Isa Town v AL Hala — Draw No Bet Away (4:3) |
+| 2026-11-09 | N2LH39 | LEAN 3 legs 2.30x (Jena +8.5, Kristiansund-VIF O2.5, Botosani +0.5) | 3 | 0W/0L/0V/3P | ALIVE |  |
+| 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 0W/0L/0V/1P | ALIVE |  |
+| 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/0L/0V/1P | ALIVE |  |
+| 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 0W/0L/0V/1P | ALIVE |  |

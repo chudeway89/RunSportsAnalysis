@@ -1,6 +1,6 @@
 # Leg-class scorecard (auto)
 
-From `papertrade/legs.jsonl` (1783 unique legs). Expected = house probability at first sighting. A class whose actual win rate sits well below expected over 30+ decided legs is a candidate pick.py gate.
+From `papertrade/legs.jsonl` (1786 unique legs). Expected = house probability at first sighting. A class whose actual win rate sits well below expected over 30+ decided legs is a candidate pick.py gate.
 
 | Class | Split | Decided | W | L | V | Win % | Expected % | Gap (pp) |
 |---|---|---|---|---|---|---|---|---|

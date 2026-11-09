@@ -2,3 +2,4 @@ papertrade/tickets.txt merge=union
 papertrade/legs.jsonl merge=union
 papertrade/LOG.md merge=union
 papertrade/tape/*.csv.gz binary
+papertrade/singles.txt merge=union
