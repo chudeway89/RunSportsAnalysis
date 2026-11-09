@@ -4,9 +4,9 @@ From `papertrade/legs.jsonl` (1878 unique legs). Expected = house probability at
 
 | Class | Split | Decided | W | L | V | Win % | Expected % | Gap (pp) |
 |---|---|---|---|---|---|---|---|---|
-| Over | all | 357 | 257 | 100 | 2 | 72 | 55 | +17 |
+| Over | all | 360 | 259 | 101 | 2 | 72 | 55 | +17 |
 | Over | weekend | 194 | 142 | 52 | 1 | 73 | 56 | +17 |
-| Over | weekday | 163 | 115 | 48 | 1 | 71 | 55 | +16 |
+| Over | weekday | 166 | 117 | 49 | 1 | 70 | 54 | +16 |
 | Under | all | 146 | 103 | 43 | 0 | 71 | 80 | -10 |
 | bball AH catch +2+ | all | 145 | 92 | 53 | 0 | 63 | 59 | +5 |
 | AH catch +1.5 | all | 123 | 87 | 36 | 0 | 71 | 63 | +8 |
@@ -36,7 +36,7 @@ From `papertrade/legs.jsonl` (1878 unique legs). Expected = house probability at
 | 1X2 Home | weekend | 34 | 30 | 4 | 0 | 88 | 79 | +9 |
 | corners | all | 34 | 26 | 8 | 0 | 76 | 62 | +14 |
 | 1X2 Home | weekday | 31 | 24 | 7 | 0 | 77 | 74 | +3 |
-| DNB | all | 27 | 22 | 5 | 9 | 81 | 73 | +8 |
+| DNB | all | 27 | 22 | 5 | 11 | 81 | 73 | +8 |
 | other m29 | all | 27 | 16 | 11 | 1 | 59 | 44 | +15 |
 | other m858 | all | 27 | 20 | 7 | 1 | 74 | 73 | +1 |
 | Under integer | all | 26 | 24 | 2 | 2 | 92 | 84 | +9 |
@@ -49,7 +49,7 @@ From `papertrade/legs.jsonl` (1878 unique legs). Expected = house probability at
 | AH catch +2+ | weekend | 20 | 17 | 3 | 4 | 85 | 69 | +16 |
 | AH give -1 | all | 20 | 17 | 3 | 10 | 85 | 69 | +16 |
 | other m854 | all | 20 | 12 | 8 | 0 | 60 | 73 | -13 |
-| DNB | weekday | 19 | 15 | 4 | 7 | 79 | 69 | +10 |
+| DNB | weekday | 19 | 15 | 4 | 9 | 79 | 69 | +10 |
 | Under (bball) | weekday | 19 | 14 | 5 | 0 | 74 | 62 | +11 |
 | AH catch +2+ | weekday | 18 | 13 | 5 | 2 | 72 | 72 | -0 |
 | Goal Bounds | weekend | 18 | 13 | 5 | 0 | 72 | 73 | -1 |
