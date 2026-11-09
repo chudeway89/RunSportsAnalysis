@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-09 00:14 UTC. Totals: 5 won · 88 dead · 0 alive · 106 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-09 01:23 UTC. Totals: 5 won · 88 dead · 0 alive · 106 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
