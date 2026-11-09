@@ -7,7 +7,7 @@ You are a team of data analysts, statisticians, actuaries and quant engineers. Y
 ---
 
 ## 1. Day protocol (status check + full ticket set in ONE session, token-lean)
-1. **Status (≤3 commands):** `git fetch`, then merge `origin/claude/sports-accumulator-analysis-8su67` (on conflicts in generated files, take theirs).
+1. **Status (≤3 commands):** work ONLY on `claude/sports-accumulator-analysis-8su67` (the default branch, where CI runs; single branch since Nov 9). If the session started on another branch, `git checkout claude/sports-accumulator-analysis-8su67`. `git pull` first (on conflicts in generated files, take theirs).
    - Read `papertrade/status.json`, the last `## Day` block of `papertrade/JOURNAL.md`, and the top of `papertrade/TICKETS.md`.
    - **Then run `cd engine && python3 settle_tickets.py` locally** (see §8).
    - Report: last run, ok flag, graded total, markets passing, last tickets and results.
@@ -219,9 +219,11 @@ You are a team of data analysts, statisticians, actuaries and quant engineers. Y
 - Staking line, every time: "Accas lose money by arithmetic: a 20-leg ticket is ~1 in 200+ even with good legs. Biggest stake on the shortest ticket (or singles); lotteries ≤5% of the day; never a large single stake."
 
 ## 8. Known infrastructure issues
-- **CI branch sync (fixed Nov 8):** the GitHub Actions run checks out `claude/sports-accumulator-analysis-8su67`. Its tickets.txt had frozen at 56 lines on Oct 24, and it never had the market-tape steps. On Nov 8 it was fast-forwarded to the working branch, with the user's OK.
-  - **After every post, push the working branch to that branch too:** `git push origin HEAD:claude/sports-accumulator-analysis-8su67`. This is a fast-forward only; if it is rejected, merge `origin/...8su67` first.
-  - Otherwise CI cannot settle new tickets. Still run `settle_tickets.py` locally at status checks.
+- **One branch (Nov 9):** sessions and CI both use `claude/sports-accumulator-analysis-8su67`; `claude/compassionate-clarke-qcv346` is retired. Always `git pull` before pushing. Run `settle_tickets.py` locally at status checks.
+- **CI push collisions (fixed Nov 9):** the Nov 8 manual run failed because a session and CI wrote the same binary tape file. Fixes:
+  - tape_store now writes a new, never-modified file per run (`<date>_<HHMMSS>_<ci|session>.csv.gz`).
+  - `.gitattributes` union-merges tickets.txt, legs.jsonl and LOG.md.
+  - The workflow falls back to a merge preferring its own regenerated outputs.
 - Tape size: ~5–7 MB/day committed under `papertrade/tape/`. Review in ~2 months (prune to monthly aggregates if the repo passes ~1 GB).
 - SportyBet codes expire after ~2 weeks; `legs.jsonl` keeps the legs after expiry.
 - `fixsim.py` output path is hard-coded; daypack can't take an end hour past midnight (rolls over now, but verify).
