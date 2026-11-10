@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-10 18:48 UTC. Totals: 8 won · 95 dead · 3 alive · 116 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-10 21:10 UTC. Totals: 8 won · 92 dead · 2 alive · 120 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
@@ -8,7 +8,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 |---|---|---|---|---|---|
 | 1-7 legs | 21 | 6 | 21 | 6.9 | -67% |
 | 8-12 legs | 10 | 2 | 10 | 14.8 | +48% |
-| 13+ legs | 72 | 0 | 72 | 0.0 | -100% |
+| 13+ legs | 69 | 0 | 69 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -142,10 +142,10 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-10-31 | Q0S188 | BASKETBALL 6 legs 5.6x | 6 | 4W/2L/0V/0P | DEAD | UCAM Murcia v Caprabo Lleida — Handicap (incl. overtime) -16.5 Away (+16.5) (125:98); JL Bourg Basket v Nanterre 92 — Over/Under (incl. overtime) 179.5 Under 179.5 (98:101) |
 | 2026-10-31 | UTBB60 | BASKETBALL500 20 legs 575x | 20 | 12W/8L/0V/0P | DEAD | UCAM Murcia v Caprabo Lleida — Handicap (incl. overtime) -14.5 Away (+14.5) (125:98); Buducnost Podgorica v KK Borac Cacak — Handicap (incl. overtime) -18.5 Away (+18.5) (105:72); JL Bourg Basket v Nanterre 92 — Over/Under (incl. overtime) 178.5 Under 178.5 (98:101); Bordo BK v Bahcesehir Koleji — Over/Under (incl. overtime) 176.5 Under 176.5 (103:88); Limoges CSP v Boulazac Basket Dordogne — Over/Under (incl. overtime) 178.5 Under 178.5 (89:99); KK Cedevita Olimpija Ljubljana v KK FMP Belgrade — Over/Under (incl. overtime) 176.5 Under 176.5 (96:87); Oberwart Gunners v BK Dukes Klosterneuburg — Handicap (incl. overtime) -17.5 Away (+17.5) (85:66); USK Prague v BK Pardubice — Handicap (incl. overtime) 13.5 Home (+13.5) (85:102) |
 | 2026-10-31 | Y6ZMXU | GYWQR8-CORE 5 legs 2.6x | – | – | N/A (expired) | |
-| 2026-10-31 | R85ZXQ | GYWQR8-EDIT 13 legs 16.3x | 13 | 9W/3L/1V/0P | DEAD | Al Hilal SFC v Al-Fateh SC — Over/Under Over 2.5 (2:0); Borussia M´gladbach v Paderborn — Home Team or Over 2.5 Yes (0:0); NK Rudes Zagreb v GNK Dinamo Zagreb — GNK Dinamo Zagreb Over/Under Over 1.5 (1:0) |
-| 2026-10-31 | TUWRRN | GYWQR8-rm5 31 legs 21,382x | 31 | 20W/8L/3V/0P | DEAD | Man City v Brighton — Home Team to Win Either Half Yes (0:1); Borussia M´gladbach v Paderborn — Home Team or Over 2.5 Yes (0:0); SC Heerenveen v NEC Nijmegen — Over/Under Over 3 (1:0); Ajax v Alkmaar — Over/Under Over 3 (1:0); Al Hilal SFC v Al-Fateh SC — Over/Under Over 3 (2:0); NK Rudes Zagreb v GNK Dinamo Zagreb — Over/Under Over 2.5 (1:0); The New Saints FC v Connah`s Quay Nomads FC — Over/Under Over 2 (0:0); Kocaelispor v Caykur Rizespor — Over/Under Over 2 (0:0) |
-| 2026-10-31 | UF3B7K | GYWQR8-rm10 26 legs 2,999x | 26 | 16W/8L/2V/0P | DEAD | Man City v Brighton — Home Team to Win Either Half Yes (0:1); Borussia M´gladbach v Paderborn — Home Team or Over 2.5 Yes (0:0); SC Heerenveen v NEC Nijmegen — Over/Under Over 3 (1:0); Ajax v Alkmaar — Over/Under Over 3 (1:0); Al Hilal SFC v Al-Fateh SC — Over/Under Over 3 (2:0); NK Rudes Zagreb v GNK Dinamo Zagreb — Over/Under Over 2.5 (1:0); The New Saints FC v Connah`s Quay Nomads FC — Over/Under Over 2 (0:0); Kocaelispor v Caykur Rizespor — Over/Under Over 2 (0:0) |
-| 2026-10-31 | Z5MBFN | GYWQR8-rm15 21 legs 405x | 21 | 13W/6L/2V/0P | DEAD | Borussia M´gladbach v Paderborn — Home Team or Over 2.5 Yes (0:0); SC Heerenveen v NEC Nijmegen — Over/Under Over 3 (1:0); Al Hilal SFC v Al-Fateh SC — Over/Under Over 3 (2:0); NK Rudes Zagreb v GNK Dinamo Zagreb — Over/Under Over 2.5 (1:0); The New Saints FC v Connah`s Quay Nomads FC — Over/Under Over 2 (0:0); Kocaelispor v Caykur Rizespor — Over/Under Over 2 (0:0) |
+| 2026-10-31 | R85ZXQ | GYWQR8-EDIT 13 legs 16.3x | – | – | N/A (expired) | |
+| 2026-10-31 | TUWRRN | GYWQR8-rm5 31 legs 21,382x | – | – | N/A (expired) | |
+| 2026-10-31 | UF3B7K | GYWQR8-rm10 26 legs 2,999x | – | – | N/A (expired) | |
+| 2026-10-31 | Z5MBFN | GYWQR8-rm15 21 legs 405x | – | – | N/A (expired) | |
 | 2026-10-31 | K80D9Q | NIGHT50 16 legs 50x | 16 | 12W/4L/0V/0P | DEAD | Sportivo Luqueno v Nacional Asuncion — Asian Handicap 1.5 Home (+1.5) (0:3); Alacranes de Durango v Atletico Morelia — Asian Handicap -1.5 Away (+1.5) (3:1); Cancun FC v Jaiba Brava — Asian Handicap -1.5 Away (+1.5) (2:0); Milwaukee Bucks v Cleveland Cavaliers — Handicap (incl. overtime) 17.5 Home (+17.5) (111:136) |
 | 2026-10-31 | NBNRDY | NIGHT500 26 legs 529x | 26 | 19W/7L/0V/0P | DEAD | Sportivo Luqueno v Nacional Asuncion — Asian Handicap 1.5 Home (+1.5) (0:3); Alacranes de Durango v Atletico Morelia — Asian Handicap -1.5 Away (+1.5) (3:1); Cancun FC v Jaiba Brava — Asian Handicap -1.5 Away (+1.5) (2:0); Milwaukee Bucks v Cleveland Cavaliers — Handicap (incl. overtime) 17.5 Home (+17.5) (111:136); Sporting FC v CS Herediano — Over/Under Over 1.5 (1:0); Academia Puerto Cabello v Deportivo Tachira — Over/Under Over 1.5 (0:1); Affi Academia v CD Hondupino — Over/Under Over 1.5 (1:0) |
 | 2026-11-01 | TGP5KU | MAIN | 5 | 3W/2L/0V/0P | DEAD | FC Arouca v Nacional da Madeira — Over/Under Over 1.5 (1:0); Marseille v Toulouse — Toulouse Over/Under Over 0.5 (2:0) |
@@ -223,11 +223,11 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-09 | WTKZB5 | ZMNEPU rm-15 (23 legs) | 23 | 15W/4L/3V/1P | DEAD | Hapoel Katamon Jerusalem v Maccabi Tel Aviv WFC — 1X2 Home (0:2); Sportivo San Lorenzo v Rubio Nu — Double Chance Home or Away (2:2); SFC Etar Veliko Tarnovo v PFC Montana 1921 — Double Chance Home or Away (1:1); Najran SC v AL Nojoom FC — Najran SC Over/Under Over 0.5 (0:1) |
 | 2026-11-10 | VHXZ8Z | MORNING 3 NBA ML 2.03x (Pistons, Cavs, Spurs) | 3 | 2W/1L/0V/0P | DEAD | Charlotte Hornets v Cleveland Cavaliers — Winner (incl. overtime) Away (124:112) |
 | 2026-11-10 | KP7RKD | NBA 10x 5 handicaps 9.88x | 5 | 3W/2L/0V/0P | DEAD | Charlotte Hornets v Cleveland Cavaliers — Handicap (incl. overtime) 5.5 Away (-5.5) (124:112); Houston Rockets v Denver Nuggets — Handicap (incl. overtime) -8.5 Away (+8.5) (110:100) |
-| 2026-11-10 | J0XVNQ | 10x 10 legs (100k sim, researched) 10.25x | 10 | 2W/0L/0V/8P | ALIVE |  |
-| 2026-11-10 | R0BZNY | user code 39 legs (original, tracked) | 39 | 2W/2L/0V/35P | DEAD | Paradou AC v JSM Skikda — Over/Under Over 1.5 (1:0); WA Tlemcen v RC Arbaa — Over/Under Over 1.5 (0:0) |
-| 2026-11-10 | WL1KUC | R0BZNY edit 22 legs 94.8x | 22 | 4W/0L/0V/18P | ALIVE |  |
-| 2026-11-10 | S9T53K | R0BZNY core 6 legs 3.08x | 6 | 0W/0L/0V/6P | ALIVE |  |
-| 2026-11-10 | JG7ZWG | R0BZNY rm-5 (34 legs) | 34 | 1W/2L/0V/31P | DEAD | Paradou AC v JSM Skikda — Over/Under Over 1.5 (1:0); WA Tlemcen v RC Arbaa — Over/Under Over 1.5 (0:0) |
+| 2026-11-10 | J0XVNQ | 10x 10 legs (100k sim, researched) 10.25x | 10 | 8W/0L/0V/2P | ALIVE |  |
+| 2026-11-10 | R0BZNY | user code 39 legs (original, tracked) | 39 | 9W/11L/4V/15P | DEAD | Hacken Gothenburg W v Chelsea FC W — Both Halves Under 1.5 No (0:0); SD Amorebieta v UD Logrones — Over/Under Over 3 (1:0); CF Trival Valderas Alcoron v Leganes — Leganes Over/Under Over 1.5 (0:1); Feyenoord Rotterdam v VfL Wolfsburg W — Over/Under Over 3.5 (0:3); Grimsby Town v Nottingham Forest U21 — 2nd Half - Double Chance Home or Away (0:3); Stevenage FC v Fulham U21 — 2nd Half - Double Chance Home or Away (6:5); Stockport County FC v Tranmere Rovers FC — 2nd Half - Double Chance Home or Away (4:3); Bristol Rovers v Reading FC — Double Chance Home or Away (7:5); Paradou AC v JSM Skikda — Over/Under Over 1.5 (1:0); WA Tlemcen v RC Arbaa — Over/Under Over 1.5 (0:0); Atletico Tucuman Reserve v CA Union Santa Fe Reserve — Goal Bounds 2-5+ (0:0) |
+| 2026-11-10 | WL1KUC | R0BZNY edit 22 legs 94.8x | 22 | 11W/2L/0V/9P | DEAD | CF Trival Valderas Alcoron v Leganes — Leganes Over/Under Over 1.5 (0:1); Ibis PE v Centro Limoeirense — Over/Under Under 3.5 (None) |
+| 2026-11-10 | S9T53K | R0BZNY core 6 legs 3.08x | 6 | 2W/0L/0V/4P | ALIVE |  |
+| 2026-11-10 | JG7ZWG | R0BZNY rm-5 (34 legs) | 34 | 8W/10L/3V/13P | DEAD | Hacken Gothenburg W v Chelsea FC W — Both Halves Under 1.5 No (0:0); CF Trival Valderas Alcoron v Leganes — Leganes Over/Under Over 1.5 (0:1); Feyenoord Rotterdam v VfL Wolfsburg W — Over/Under Over 3.5 (0:3); Grimsby Town v Nottingham Forest U21 — 2nd Half - Double Chance Home or Away (0:3); Stevenage FC v Fulham U21 — 2nd Half - Double Chance Home or Away (6:5); Stockport County FC v Tranmere Rovers FC — 2nd Half - Double Chance Home or Away (4:3); Bristol Rovers v Reading FC — Double Chance Home or Away (7:5); Paradou AC v JSM Skikda — Over/Under Over 1.5 (1:0); WA Tlemcen v RC Arbaa — Over/Under Over 1.5 (0:0); Atletico Tucuman Reserve v CA Union Santa Fe Reserve — Goal Bounds 2-5+ (0:0) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
