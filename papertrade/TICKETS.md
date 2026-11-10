@@ -1,14 +1,14 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-10 04:06 UTC. Totals: 7 won · 95 dead · 1 alive · 114 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-10 08:40 UTC. Totals: 8 won · 94 dead · 0 alive · 115 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
 | Ticket size | Tickets | Won | Staked | Returned | ROI |
 |---|---|---|---|---|---|
-| 1-7 legs | 21 | 5 | 21 | 5.9 | -72% |
+| 1-7 legs | 22 | 6 | 22 | 6.9 | -68% |
 | 8-12 legs | 10 | 2 | 10 | 14.8 | +48% |
-| 13+ legs | 71 | 0 | 71 | 0.0 | -100% |
+| 13+ legs | 70 | 0 | 70 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -133,7 +133,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-10-30 | YFJHQ8 | KDA07E-rm5 | – | – | N/A (expired) | |
 | 2026-10-30 | ZPS3AW | KDA07E-rm10 | – | – | N/A (expired) | |
 | 2026-10-30 | XGQ0F1 | KDA07E-rm15 | – | – | N/A (expired) | |
-| 2026-10-30 | HR0A3Y | overnight-500x | 22 | 18W/4L/0V/0P | DEAD | SC Corinthians SP v Mirassol FC SP — Asian Handicap -1.5 Away (+1.5) (2:0); Phoenix Suns v Denver Nuggets — Over/Under (incl. overtime) 244.5 Under 244.5 (120:127); CD Estrella Roja v CA Independiente Siguatepeque — Asian Handicap -1.5 Away (+1.5) (3:1); Brooklyn Nets v Detroit Pistons — Handicap (incl. overtime) 15.5 Home (+15.5) (94:110) |
+| 2026-10-30 | HR0A3Y | overnight-500x | – | – | N/A (expired) | |
 | 2026-10-31 | WWAR6N | MAIN 5 legs 3x | 5 | 5W/0L/0V/0P | **WON** |  |
 | 2026-10-31 | ZMJ5VD | T500 19 legs 663x | 19 | 8W/10L/1V/0P | DEAD | Southampton v Queens Park Rangers — Over/Under Under 4 (4:1); RSC Anderlecht v KVC Westerlo — Asian Handicap -2 Away (+2.0) (4:1); Schalke v RB Leipzig — Over/Under Over 2.5 (0:2); FC Cincinnati v Philadelphia Union — Over/Under Over 2.5 (1:0); New York City FC v CF Montreal — 1X2 Home (1:1); Utah Jazz v Portland Trail Blazers — Handicap (incl. overtime) 11.5 Home (+11.5) (90:112); Werder Bremen v Hoffenheim — Over/Under Over 2.5 (2:0); Moreirense FC v Estrela Amadora — Moreirense FC Over/Under Under 1.5 (2:1); Udinese v Roma — Udinese Over/Under Under 1.5 (2:5); FC Luzern v FC Sion — Over/Under Over 2.5 (1:1) |
 | 2026-10-31 | K6KHC8 | T5000 27 legs 6,632x | 27 | 13W/13L/1V/0P | DEAD | Southampton v Queens Park Rangers — Over/Under Under 4 (4:1); RSC Anderlecht v KVC Westerlo — Asian Handicap -2 Away (+2.0) (4:1); Schalke v RB Leipzig — Over/Under Over 2.5 (0:2); FC Cincinnati v Philadelphia Union — Over/Under Over 2.5 (1:0); New York City FC v CF Montreal — 1X2 Home (1:1); Utah Jazz v Portland Trail Blazers — Handicap (incl. overtime) 11.5 Home (+11.5) (90:112); Werder Bremen v Hoffenheim — Over/Under Over 2.5 (2:0); Moreirense FC v Estrela Amadora — Moreirense FC Over/Under Under 1.5 (2:1); Udinese v Roma — Udinese Over/Under Under 1.5 (2:5); FC Luzern v FC Sion — Over/Under Over 2.5 (1:1); GKS Katowice v Widzew Lodz — Over/Under Under 4 (3:2); FK Jablonec v Slavia Prague — Over/Under Under 3.5 (0:5); AE Kifisia FC v Olympiacos — Over/Under Under 3.5 (2:3) |
@@ -221,11 +221,11 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-09 | L1FNWM | ZMNEPU rm-5 (33 legs, suspended Peru W leg dropped) | 33 | 17W/11L/4V/1P | DEAD | Redditch United v Peterborough Sports — Over/Under Over 2.5 (0:1); Hapoel Katamon Jerusalem v Maccabi Tel Aviv WFC — 1X2 Home (0:2); Kristiansund BK v Vaalerenga IF — Over/Under Over 3 (1:0); Sportivo San Lorenzo v Rubio Nu — Double Chance Home or Away (2:2); AL Najma SC U21 v Al-Wehda — Home Team or Over 2.5 Yes (0:1); Penarol Montevideo v Juventud de Las Piedras — Over/Under Over 2.5 (0:0); SFC Etar Veliko Tarnovo v PFC Montana 1921 — Double Chance Home or Away (1:1); Wadi Degla SC v Kahrabaa Ismailia — To Qualify Home (2:3); Coventry City U21 v Queens Park Rangers U21 — Double Chance & Over/Under 2.5 Home/Away & Over 2.5 (0:2); Najran SC v AL Nojoom FC — Najran SC Over/Under Over 0.5 (0:1); AL Ain FC v AL Wahda FC — Over/Under Over 2.5 (0:1) |
 | 2026-11-09 | LSJMVM | ZMNEPU rm-10 (28 legs) | 28 | 16W/8L/3V/1P | DEAD | Hapoel Katamon Jerusalem v Maccabi Tel Aviv WFC — 1X2 Home (0:2); Kristiansund BK v Vaalerenga IF — Over/Under Over 3 (1:0); Sportivo San Lorenzo v Rubio Nu — Double Chance Home or Away (2:2); AL Najma SC U21 v Al-Wehda — Home Team or Over 2.5 Yes (0:1); SFC Etar Veliko Tarnovo v PFC Montana 1921 — Double Chance Home or Away (1:1); Wadi Degla SC v Kahrabaa Ismailia — To Qualify Home (2:3); Coventry City U21 v Queens Park Rangers U21 — Double Chance & Over/Under 2.5 Home/Away & Over 2.5 (0:2); Najran SC v AL Nojoom FC — Najran SC Over/Under Over 0.5 (0:1) |
 | 2026-11-09 | WTKZB5 | ZMNEPU rm-15 (23 legs) | 23 | 15W/4L/3V/1P | DEAD | Hapoel Katamon Jerusalem v Maccabi Tel Aviv WFC — 1X2 Home (0:2); Sportivo San Lorenzo v Rubio Nu — Double Chance Home or Away (2:2); SFC Etar Veliko Tarnovo v PFC Montana 1921 — Double Chance Home or Away (1:1); Najran SC v AL Nojoom FC — Najran SC Over/Under Over 0.5 (0:1) |
-| 2026-11-10 | VHXZ8Z | MORNING 3 NBA ML 2.03x (Pistons, Cavs, Spurs) | 3 | 1W/1L/0V/1P | DEAD | Charlotte Hornets v Cleveland Cavaliers — Winner (incl. overtime) Away (124:112) |
-| 2026-11-10 | KP7RKD | NBA 10x 5 handicaps 9.88x | 5 | 2W/2L/0V/1P | DEAD | Charlotte Hornets v Cleveland Cavaliers — Handicap (incl. overtime) 5.5 Away (-5.5) (124:112); Houston Rockets v Denver Nuggets — Handicap (incl. overtime) -8.5 Away (+8.5) (110:100) |
+| 2026-11-10 | VHXZ8Z | MORNING 3 NBA ML 2.03x (Pistons, Cavs, Spurs) | 3 | 2W/1L/0V/0P | DEAD | Charlotte Hornets v Cleveland Cavaliers — Winner (incl. overtime) Away (124:112) |
+| 2026-11-10 | KP7RKD | NBA 10x 5 handicaps 9.88x | 5 | 3W/2L/0V/0P | DEAD | Charlotte Hornets v Cleveland Cavaliers — Handicap (incl. overtime) 5.5 Away (-5.5) (124:112); Houston Rockets v Denver Nuggets — Handicap (incl. overtime) -8.5 Away (+8.5) (110:100) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-10 | WSS4L0 | single Pistons ML v Wizards (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-10 | XMHZJT | single Cavs ML at Hornets (1.30) | 1 | 0W/1L/0V/0P | DEAD | Charlotte Hornets v Cleveland Cavaliers — Winner (incl. overtime) Away (124:112) |
-| 2026-11-10 | GXLJ7A | single Spurs ML at Suns (1.29) | 1 | 0W/0L/0V/1P | ALIVE |  |
+| 2026-11-10 | GXLJ7A | single Spurs ML at Suns (1.29) | 1 | 1W/0L/0V/0P | **WON** |  |
