@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-11 01:44 UTC. Totals: 9 won · 86 dead · 1 alive · 127 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-11 07:55 UTC. Totals: 9 won · 85 dead · 0 alive · 129 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
@@ -8,7 +8,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 |---|---|---|---|---|---|
 | 1-7 legs | 20 | 6 | 20 | 7.3 | -63% |
 | 8-12 legs | 11 | 3 | 11 | 29.5 | +168% |
-| 13+ legs | 64 | 0 | 64 | 0.0 | -100% |
+| 13+ legs | 63 | 0 | 63 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -146,8 +146,8 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-10-31 | TUWRRN | GYWQR8-rm5 31 legs 21,382x | – | – | N/A (expired) | |
 | 2026-10-31 | UF3B7K | GYWQR8-rm10 26 legs 2,999x | – | – | N/A (expired) | |
 | 2026-10-31 | Z5MBFN | GYWQR8-rm15 21 legs 405x | – | – | N/A (expired) | |
-| 2026-10-31 | K80D9Q | NIGHT50 16 legs 50x | 16 | 12W/4L/0V/0P | DEAD | Sportivo Luqueno v Nacional Asuncion — Asian Handicap 1.5 Home (+1.5) (0:3); Alacranes de Durango v Atletico Morelia — Asian Handicap -1.5 Away (+1.5) (3:1); Cancun FC v Jaiba Brava — Asian Handicap -1.5 Away (+1.5) (2:0); Milwaukee Bucks v Cleveland Cavaliers — Handicap (incl. overtime) 17.5 Home (+17.5) (111:136) |
-| 2026-10-31 | NBNRDY | NIGHT500 26 legs 529x | 26 | 19W/7L/0V/0P | DEAD | Sportivo Luqueno v Nacional Asuncion — Asian Handicap 1.5 Home (+1.5) (0:3); Alacranes de Durango v Atletico Morelia — Asian Handicap -1.5 Away (+1.5) (3:1); Cancun FC v Jaiba Brava — Asian Handicap -1.5 Away (+1.5) (2:0); Milwaukee Bucks v Cleveland Cavaliers — Handicap (incl. overtime) 17.5 Home (+17.5) (111:136); Sporting FC v CS Herediano — Over/Under Over 1.5 (1:0); Academia Puerto Cabello v Deportivo Tachira — Over/Under Over 1.5 (0:1); Affi Academia v CD Hondupino — Over/Under Over 1.5 (1:0) |
+| 2026-10-31 | K80D9Q | NIGHT50 16 legs 50x | – | – | N/A (expired) | |
+| 2026-10-31 | NBNRDY | NIGHT500 26 legs 529x | – | – | N/A (expired) | |
 | 2026-11-01 | TGP5KU | MAIN | 5 | 3W/2L/0V/0P | DEAD | FC Arouca v Nacional da Madeira — Over/Under Over 1.5 (1:0); Marseille v Toulouse — Toulouse Over/Under Over 0.5 (2:0) |
 | 2026-11-01 | X5HF96 | T500 researched | 20 | 15W/5L/0V/0P | DEAD | SC Telstar v FC Utrecht — Asian Handicap -0.5 Away (+0.5) (4:2); Elche CF v Valencia — Asian Handicap 0.5 Home (+0.5) (0:1); Nordsjaelland v FC Midtjylland — Asian Handicap 0.5 Home (+0.5) (2:3); FC St. Pauli v 1 FC Nuremberg — Asian Handicap 0.5 Home (+0.5) (1:3); Odense Boldklub v Silkeborg IF — Asian Handicap -1.5 Away (+1.5) (4:1) |
 | 2026-11-01 | TSG1T6 | T5000 researched | 28 | 23W/5L/0V/0P | DEAD | SC Telstar v FC Utrecht — Asian Handicap -0.5 Away (+0.5) (4:2); Elche CF v Valencia — Asian Handicap 0.5 Home (+0.5) (0:1); Nordsjaelland v FC Midtjylland — Asian Handicap 0.5 Home (+0.5) (2:3); FC St. Pauli v 1 FC Nuremberg — Asian Handicap 0.5 Home (+0.5) (1:3); Odense Boldklub v Silkeborg IF — Asian Handicap -1.5 Away (+1.5) (4:1) |
@@ -228,7 +228,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-10 | WL1KUC | R0BZNY edit 22 legs 94.8x | 22 | 19W/3L/0V/0P | DEAD | Huracan FC v CA River Plate (URU) — Goal Bounds - Away 1-3+ (2:0); CF Trival Valderas Alcoron v Leganes — Leganes Over/Under Over 1.5 (0:1); Ibis PE v Centro Limoeirense — Over/Under Under 3.5 (3:1) |
 | 2026-11-10 | S9T53K | R0BZNY core 6 legs 3.08x | 6 | 6W/0L/0V/0P | **WON** |  |
 | 2026-11-10 | JG7ZWG | R0BZNY rm-5 (34 legs) | 34 | 16W/15L/3V/0P | DEAD | Hacken Gothenburg W v Chelsea FC W — Both Halves Under 1.5 No (0:0); Darlington FC v Oxford City — Away or Over 2.5 Yes (1:1); Morecambe FC v Hereford FC — Double Chance Home or Away (2:2); Anstey Nomads v Kettering Town — Over/Under Over 2.5 (1:0); Sholing FC v Chippenham Town — Double Chance Home or Away (1:1); Huracan FC v CA River Plate (URU) — Goal Bounds - Away 1-3+ (2:0); CF Trival Valderas Alcoron v Leganes — Leganes Over/Under Over 1.5 (0:1); Feyenoord Rotterdam v VfL Wolfsburg W — Over/Under Over 3.5 (0:3); Grimsby Town v Nottingham Forest U21 — 2nd Half - Double Chance Home or Away (0:3); Stevenage FC v Fulham U21 — 2nd Half - Double Chance Home or Away (6:5); Stockport County FC v Tranmere Rovers FC — 2nd Half - Double Chance Home or Away (4:3); Bristol Rovers v Reading FC — Double Chance Home or Away (7:5); Paradou AC v JSM Skikda — Over/Under Over 1.5 (1:0); WA Tlemcen v RC Arbaa — Over/Under Over 1.5 (0:0); Atletico Tucuman Reserve v CA Union Santa Fe Reserve — Goal Bounds 2-5+ (0:0) |
-| 2026-11-11 | NZ76X5 | OVERNIGHT 50x 16 legs 50.8x | 16 | 1W/0L/0V/15P | ALIVE |  |
+| 2026-11-11 | NZ76X5 | OVERNIGHT 50x 16 legs 50.8x | 16 | 14W/2L/0V/0P | DEAD | Dayton Flyers v Siena Saints — Winner (incl. overtime) Home (89:99); Iowa Hawkeyes v Virginia Tech Hokies — Winner (incl. overtime) Home (88:93) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
