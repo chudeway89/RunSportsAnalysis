@@ -1,0 +1,284 @@
+[
+ {
+  "eid": "sr:match:76485248",
+  "fx": "Real Potosi v Nacional Potosi",
+  "home_form": "Real Potosi last 10: W5 D3 L2 (incl. 1-1 at Nacional 08/11, 0-1 at Bolivar 06/11). Home: 4-2, 3-1, 1-0, 3-1 Bolivar, 1-1, 1-1 (unbeaten at home in last 6).",
+  "away_form": "Nacional Potosi last 10: W4 D4 L2. Away: 1-1 Oruro, 2-3 L Oriente, 2-2 Aurora, 3-2 W Always Ready, 1-1 Tomayapo (no away clean sheet).",
+  "goals_trend": "Real home games 6/6 had 2+ goals in 4; Nacional away games 4/5 had 2+ goals (high altitude, both teams score often). Both sides share the same city/stadium.",
+  "h2h": "1-1 in the league 4 days earlier (08/11/26).",
+  "absences": "No named absences found.",
+  "context": "Copa Bolivia semi-final 1st leg, Potosi derby (clasico potosino), both play at Estadio Victor Agustin Ugarte. Real Potosi knocked out Bolivar 3-2 on aggregate. Return leg Sun 15 Nov; final 18/25 Nov. Two-legged: 90-min settlement, draws likely.",
+  "veto": true,
+  "veto_reason": "Kickoff conflict: Bolivian reports give 15:00 local (=19:00 UTC) start for the 1st leg, board lists 23:00 UTC. Also a derby/first leg of a two-legged knockout (no result-side).",
+  "lean": "no edge (derby, first leg); if anything BTTS/Over 1.5 at altitude, but time conflict",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.reduno.com.bo/deportes/clasico-potosino-en-semifinales-asi-quedaron-los-cruces-de-la-copa-bolivia-202611614520",
+   "https://diez.bo/futbol/el-clasico-potosino-se-roba-las-miradas-en-las-semifinales-de-la-copa-bolivia_1793941678",
+   "https://fmbolivia.com.bo/deportes/clasico-potosino-en-semifinales-nacional-potosi-y-real-potosi-definiran-un-cupo-a-la-final-de-la-copa-bolivia-21714"
+  ]
+ },
+ {
+  "eid": "sr:match:76676658",
+  "fx": "AD Pasto v CD Junior FC",
+  "home_form": "Pasto last 10: W4 D1 L5; lost 0-5 at Santa Fe on 08/11 fielding a youth side. Home: 2-0 Jaguares, 0-1 Alianza, 0-0 Fortaleza, 1-0 Once Caldas (low-scoring at home).",
+  "away_form": "Junior last 10: W3 D4 L3; away 2-3 Llaneros, 1-1 Chico, 0-0 Cali, 1-3 Bucaramanga, 1-3 Nacional (no away win in 5). Played Cucuta at home on 10/11 (2 days before).",
+  "goals_trend": "Pasto home: 3 of last 4 had <=1 goal. Junior away games: 3 of 5 had 4+ goals.",
+  "h2h": "Earlier 2026 meeting at Pasto ended in a draw (Junior 'epic' equaliser).",
+  "absences": "Pasto used juveniles at Santa Fe; Junior on 2 days rest after Cucuta, 'last game of 2026'.",
+  "context": "Liga BetPlay II-2026 fecha 19 (final round). Both eliminated (Pasto 18th 15 pts, Junior ~14th) per reports: a dead rubber between two eliminated teams.",
+  "veto": true,
+  "veto_reason": "Dead rubber (both eliminated), Pasto fielding youth players, Junior 2 days after previous match.",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://diariodeportes.com.co/junior-de-barranquilla/junior-rumbo-a-pasto-para-su-ultimo-partido-del-2026/",
+   "https://www.eltiempo.com/amp/deportes/futbol-colombiano/oficial-asi-se-jugara-la-fecha-19-de-liga-ii-programese-para-partidos-que-definen-los-ocho-clasificados-3599932",
+   "https://www.noticiascaracol.com/golcaracol/futbol-colombiano/como-quedo-la-tabla-de-posiciones-de-la-liga-betplay-ii-2026-tras-santa-fe-5-0-pasto-so35"
+  ]
+ },
+ {
+  "eid": "sr:match:76124630",
+  "fx": "FC Masar v El Terasanah",
+  "home_form": "Masar last 10: W6 D1 L3. Home 5/5 wins: 4-2 Pharco, 3-1 Dakhleya, 1-0 Proxy, 3-1 Sekka, 4-0 Dayrout. All 3 losses away.",
+  "away_form": "Terasanah last 10: W3 D5 L2. Away: 0-0 Team FC, 1-0 W Pharco, 2-1 W Dakhleya, 0-2 L Proxy.",
+  "goals_trend": "Masar home: 4/5 had 3+ goals. Terasanah away: 3/4 had <=2 goals; Terasanah 5 draws in 10.",
+  "h2h": "Conflicting: one source says Masar won 1-0 earlier, another lists Masar 0-2 Tersana.",
+  "absences": "None found.",
+  "context": "Egypt 2nd Division A; Masar reported 1st (22 pts/11), Tersana ~9th (17). One listing has the game on 13/11 (Round 12) vs board 12/11 12:30 UTC.",
+  "veto": false,
+  "veto_reason": "Minor date discrepancy in one listing (13/11) - check board before posting.",
+  "lean": "home strong at home: Masar DNB / Masar win; avoid Overs (Egypt thin-league rule)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.besoccer.com/match/fc-masar/al-tersana/202699824",
+   "https://www.sofascore.com/football/team/fc-masar/933430",
+   "https://footystats.org/egypt/tersana-vs-fc-masar-h2h-stats"
+  ]
+ },
+ {
+  "eid": "sr:match:76171256",
+  "fx": "Chambery SF v Grenoble Foot",
+  "home_form": "Chambery (Regional 1, 6th tier): no recent league data in feed; cup home record historically lively (6-5 v Grenoble Dec 2023, 2-1, 0-2 Dijon 2024).",
+  "away_form": "Grenoble (Ligue 2) poor: last 10 W3 D1 L6, lost 4 of last 5 before a 3-2 win v Reims 06/11. Away: L Pau 1-2, L Montpellier 0-2, W Rodez 1-0, W Laval 3-0, L St-Etienne 0-4.",
+  "goals_trend": "Grenoble games fairly open recently (3-2, 1-3, 2-1). Previous cup meeting 6-5 (incl. pens likely).",
+  "h2h": "Chambery 6-5 Grenoble (Coupe de France, 09/12/2023) - Chambery eliminated Grenoble then.",
+  "absences": "None found.",
+  "context": "Coupe de France 7th round, Thursday 19:00 at Chambery Savoie Stadium (moved midweek because stadium booked for rugby). Knockout: 90-min settlement. Grenoble form fragile; amateur hosts motivated.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Grenoble To Qualify only (no 90-min result-side per knockout rule; fragile favourite with H2H giant-killing history)",
+  "confidence": 0.2,
+  "sources": [
+   "https://gf38.fr/coupe-de-france-le-deplacement-a-chambery-officiellement-programme-le-jeudi-12-novembre-a-19h/",
+   "https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/savoie/chambery/football-c-est-vraiment-tombe-le-pire-des-week-ends-le-casse-tete-du-match-de-coupe-de-france-chambery-grenoble-3443532.html",
+   "https://www.ici.fr/emissions/ici-sport-ici-pays-de-savoie/coupe-de-france-de-football-le-chambery-sf-regional-1-affronte-le-gf38-ligue-2-au-7eme-tour-6991548"
+  ]
+ },
+ {
+  "eid": "sr:match:75802240",
+  "fx": "Ghana v Somalia",
+  "home_form": "Ghana poor: last 10 W1 D2 L7 (lost qualifiers 0-2 at Ivory Coast and 2-4 v Gambia at home).",
+  "away_form": "Somalia: last 10 W2 D1 L7; lost 1-2 at Gambia, 0-2 v Ivory Coast; conceded 3 v Algeria, Guinea.",
+  "goals_trend": "Somalia failed to score in 6 of last 10; Ghana scored <=1 in 8 of last 10.",
+  "h2h": "No recent meetings found.",
+  "absences": "Ghana recall Kudus, Partey, Jordan Ayew, Kyereh, Seidu, Salisu; Ernest Nuamah out. Interim coach Kim Lars Bjorkegren.",
+  "context": "AFCON 2027 qualifier Group C MD3; Ghana 0 pts after 2 - must-win (coach: need all six points). Venue Essipong Stadium, Sekondi-Takoradi, 15:00 GMT (matches board). Return leg 16 Nov also at Essipong as Somalia's 'home' game.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home strong, must_win: Ghana win; Ghana Over 1.5 team goals moderate (Ghana blunt)",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.pulse.com.gh/story/ghana-black-stars-squad-somalia-afcon-qualifiers-2026110915390546376",
+   "https://ghanasoccernet.com/black-stars-to-travel-to-sekondi-on-tuesday-ahead-of-crucial-somalia-double-header",
+   "https://www.adomonline.com/black-stars-must-beat-somalia-to-revive-afcon-hopes-kim-lars-bjorkegren/",
+   "https://panafricafootball.com/article/somalia-afcon-2027-ghana"
+  ]
+ },
+ {
+  "eid": "sr:match:75802318",
+  "fx": "Madagascar v Guinea-Bissau",
+  "home_form": "Madagascar: 1-1 Tanzania, 1-2 at Nigeria in qualifiers; lost 0-4 at Morocco.",
+  "away_form": "Guinea-Bissau: 2-0 at Tanzania, 3-0 v Nigeria (6 pts, 5-0 goals); before that 1-1 at Burkina Faso, lost 0-1 at Egypt and Ethiopia.",
+  "goals_trend": "G-Bissau games: 6 of last 10 had <=2 goals. Madagascar games mixed.",
+  "h2h": "None recent found.",
+  "absences": "Madagascar coach Corentin Martins named 23 incl. newcomers; no key absences reported.",
+  "context": "AFCON 2027 qualifier Group L MD3 at NEUTRAL venue Meknes, Morocco (Madagascar have no approved stadium). G-Bissau lead (6), Nigeria 3, Madagascar 1; only one place available (Tanzania host-qualified) - Madagascar near must-win.",
+  "veto": false,
+  "veto_reason": "Madagascar 'home' is neutral venue in Morocco (known, not a conflict).",
+  "lean": "Guinea-Bissau DNB / X2; low-scoring, Under 3.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://fr.allafrica.com/stories/202611040400.html",
+   "https://africasoccer.com/madagascar-announce-squad-for-africa-cup-of-nations-2027-qualifiers-against-guinea-bissau/",
+   "https://en.wikipedia.org/wiki/2027_Africa_Cup_of_Nations_qualification_Group_L"
+  ]
+ },
+ {
+  "eid": "sr:match:75802296",
+  "fx": "Senegal v Sudan",
+  "home_form": "Senegal: qualifiers 1-1 Mozambique, 1-0 Ethiopia, 1-0 Comoros (narrow); 3-1 v Sudan Jan 2026 (AFCON).",
+  "away_form": "Sudan: 1-0 v Ethiopia, lost 1-4 at Mozambique; poor away record (lost at Algeria 0-3, Bahrain 1-3).",
+  "goals_trend": "Senegal last 3 competitive games all <=2 goals. Sudan away concede often.",
+  "h2h": "Senegal 3-1 Sudan (03/01/2026, AFCON).",
+  "absences": "Senegal (coach Patrick Vieira) without Sadio Mane and Idrissa Gueye; Krepin Diatta reportedly withdrawn injured (Sangante replaces) - conflicting reports; first call-ups for Mboup, Diop, Diandy, Mendy.",
+  "context": "AFCON 2027 qualifier Group J; Senegal 4 pts, Sudan 3. Home leg in Dakar (return 16 Nov). Meaningful for both.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home strong: Senegal win; Under 3.5 (Senegal winning narrowly)",
+  "confidence": 0.3,
+  "sources": [
+   "https://africasoccer.com/patrick-vieira-names-senegal-squad-for-sudan-qualifiers-without-sadio-mane-and-idrissa-gueye/",
+   "https://africasoccer.com/senegal-rocked-by-double-injury-blow-ahead-of-afcon-2027-qualifiers-against-sudan/",
+   "https://khelnow.com/football/senegal-vs-sudan-preview-afcon-2027-qualifiers-202611"
+  ]
+ },
+ {
+  "eid": "sr:match:75512542",
+  "fx": "Aruba v Martinique",
+  "home_form": "Aruba (League C): home 3-2 Anguilla, 1-0 Antigua, 4-1 Liechtenstein, 4-1 Macau (weak opposition); lost 0-4 at Curacao.",
+  "away_form": "Martinique (League A, 5th in group): away 1-2 Suriname, 1-3 El Salvador; home 2-1 Honduras, 1-1 El Salvador. Weak away record (no away win in last 5).",
+  "goals_trend": "Aruba games recently 3+ goals in 4 of 6. Martinique games mostly 2-3 goals.",
+  "h2h": "None recent found.",
+  "absences": "None found.",
+  "context": "CONCACAF Nations League A/C play-in, 1st leg in Oranjestad. Two-legged tie (90-min settlement); sources conflict on 2nd-leg date (13 vs 16 Nov) and on kickoff (ESPN 5pm local = 21:00 UTC vs board 22:00 UTC).",
+  "veto": false,
+  "veto_reason": "Kickoff/2nd-leg date inconsistencies across sources - verify board time.",
+  "lean": "Martinique DNB at best; no strong edge (first leg of tie)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.concacaf.com/competitions/nations-league/news/2026-27-concacaf-nations-league-november-schedule-confirmed",
+   "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-aruba-v-martinique/blta49b1a0ea3f02ecf",
+   "https://www.espn.com/soccer/schedule/_/league/concacaf.nations.league"
+  ]
+ },
+ {
+  "eid": "sr:match:76140570",
+  "fx": "Malta v Eswatini",
+  "home_form": "Malta: home 1-0 Andorra, 1-1 Gibraltar, 2-0 Liechtenstein; unbeaten in last 4 (League D).",
+  "away_form": "Eswatini: no win in last 10 (W0 D3 L7), lost 1-2 and 0-2 to Eritrea in March; squad of semi-amateurs (police officers/teachers), first-ever friendly v a European side.",
+  "goals_trend": "Malta games low: 5 of last 6 had <=2 goals. Eswatini failed to score in 5 of last 10.",
+  "h2h": "First meeting.",
+  "absences": "No news; Malta warm-up before Nations League at Gibraltar on Mon 16 Nov - possible rotation.",
+  "context": "International friendly, Ta' Qali, 18:30 local (17:30 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "Friendly: result-sides excluded by rule L81 (goals markets only).",
+  "lean": "low-scoring, Under 3.5 (friendly - goals only)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.maltafootball.com/2026/11/11/malta-hosts-eswatini-in-friendly-match-on-thursday-ahead-of-mondays-uefa-nations-league-clash/",
+   "https://www.besoccer.com/new/squad-of-police-officers-and-teachers-set-to-play-in-europe-for-the-first-time-1439728",
+   "https://times.co.sz/46942/sports/sihlangu-in-historic-euro-date-with-malta/"
+  ]
+ },
+ {
+  "eid": "sr:match:68931754",
+  "fx": "Czechia v Spain",
+  "home_form": "Czechia: 4 straight NL losses (0-2, 1-2 at home; 1-3 Spain, 0-3 England away), 2 goals scored; poor World Cup (0-3 Mexico).",
+  "away_form": "Spain: won last 10 (incl. 3-2 at England, 2-1 at Croatia in NL; WC winners run 1-0 Argentina final).",
+  "goals_trend": "Spain games: 6 of last 10 had 3+ goals; Czechia conceded 2+ in 5 of last 6.",
+  "h2h": "Spain 3-1 Czechia (03/10/26); Spain never lost to Czechia.",
+  "absences": "Spain: Lamine Yamal (knee), Rodri, Oyarzabal out; Merino doubtful. Czechia: Sadilek suspended; Pavel Sulc out (injury or suspension - reports conflict).",
+  "context": "UEFA Nations League A Group 3 MD5, Prague. Spain 12 pts (likely through already - rotation possible); Czechia bottom fighting relegation.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "away strong: Spain win (p high) / Spain DNB; Over 1.5",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.goal.com/en-ca/betting/tips/czechia-vs-spain-predictions-12-11-2026/A%3Abltd6f235a82537f4d4",
+   "https://khelnow.com/football/czechia-vs-spain-preview-uefa-nations-league-202611",
+   "https://tips.gg/article/czechia-vs-spain-predicted-lineups-2026-11-12/"
+  ]
+ },
+ {
+  "eid": "sr:match:68932520",
+  "fx": "San Marino v Belarus",
+  "home_form": "San Marino: lost 4/4 NL (1 scored, 16 conceded), 0-7 Finland, 0-3 Albania at home; relegated to League D.",
+  "away_form": "Belarus: away 0-0 Finland, 0-2 Albania, 2-1 Armenia, 1-0 Cyprus - modest attack away. Beat San Marino 4-0 at home 03/10.",
+  "goals_trend": "San Marino conceded 2+ in 7 of last 10; Belarus away games low (<=2 goals in 4/4).",
+  "h2h": "Belarus 4-0 San Marino (03/10/26).",
+  "absences": "None reported.",
+  "context": "UEFA Nations League C Group 1; Belarus 2nd chasing promotion play-off spot (motivated); San Marino already relegated.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "away strong: Belarus win; Belarus Over 1.5 team goals (but Belarus blunt away - avoid -2.5)",
+  "confidence": 0.35,
+  "sources": [
+   "https://footballwhispers.com/blog/san-marino-vs-belarus-prediction-12-11-26/",
+   "https://www.thestatszone.com/san-marino-vs-belarus-preview-prediction-2026-27-uefa-nations-league-league-c-237897",
+   "https://tips.gg/article/san-marino-vs-belarus-12-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74205870",
+  "fx": "Maan SC v Al Yarmouk",
+  "home_form": "Maan: no home win this season (1-2 Aqaba, 0-2 Jerash, 1-1 Hashemehya); away wins at Sareeh, Ahly Amman. Lost 1-3 at Ramtha 05/11.",
+  "away_form": "Al Yarmouk: away 1-0 Hashemehya, 0-1 Sama, 2-1 Ramtha, 2-1 Aqaba (3 of 4 away wins). Last 10: W7 D2 L1.",
+  "goals_trend": "Both sides low-scoring: Yarmouk games 8 of 10 had <=3 goals; Maan games 7 of 10 <=2 goals.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Jordan First Division round 9; Yarmouk ~3rd, Maan ~5th. Sofascore lists 15:00 UTC vs board 13:00 UTC (time discrepancy).",
+  "veto": false,
+  "veto_reason": "Kickoff time discrepancy (15:00 vs 13:00 UTC) - data_conflict; confirm on board.",
+  "lean": "away strong: Al Yarmouk DNB; low-scoring Under 3.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/football/match/ma-an-sc-al-yarmouk/OQwslgzc"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114672523",
+  "fx": "Sur Club v Dhofar Club",
+  "home_form": "No data (event id not in Sportradar feed).",
+  "away_form": "No data.",
+  "goals_trend": "Unknown.",
+  "h2h": "Unknown.",
+  "absences": "Unknown.",
+  "context": "Oman 'Professional League Cup' - no confirmation of a Sur v Dhofar League Cup fixture on 12 Nov found; Sur listed with league games 04/11 and 22/11, Sultan Cup v Oman FC 28/11. Unusual event id (111111...).",
+  "veto": true,
+  "veto_reason": "Fixture unconfirmed by any source and non-standard event id - possible data/date conflict.",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futbol24.com/team/Oman/Sur-Club",
+   "https://www.besoccer.com/match/sur-502/dhofar/2026212536"
+  ]
+ },
+ {
+  "eid": "sr:match:76162994",
+  "fx": "CDA Navalcarnero v Real Betis",
+  "home_form": "Navalcarnero (Segunda RFEF) unbeaten in 5 (2-2 Guadalajara, 3-1 Paso, 3-2 at Numancia, 1-1 Salamanca); home 3-1, 1-1, 3-1, 1-3.",
+  "away_form": "Betis: 2-0 at Elche 08/11, 1-2 at Dortmund 04/11 (Europe), 0-0 at Celta; scoring well at home.",
+  "goals_trend": "Navalcarnero games very open: 8 of last 10 had 3+ goals (incl. 5-7 at Huelva). Betis games 6 of 10 had 3+.",
+  "h2h": "None.",
+  "absences": "Betis without 9 incl. Alvaro Valles, Marc Roca, Troy Parrott, Cucho Hernandez; canteranos called up; Lo Celso returns. Heavy rotation expected (Europe 04/11, league 08/11).",
+  "context": "Copa del Rey 1st round (single leg, 90-min settlement), rescheduled from 28 Oct (rail accident). VENUE MOVED to Estadio Municipal Santo Domingo, Alcorcon, 19:00 local (=18:00 UTC, matches board). One source (Goal) says 13:00 - outlier.",
+  "veto": false,
+  "veto_reason": "Venue change is confirmed by multiple Spanish sources (not a conflict); rotation_risk for Betis.",
+  "lean": "goals: Over 2.5 / Betis To Qualify; no 90-min Betis result-side (knockout + rotation)",
+  "confidence": 0.3,
+  "sources": [
+   "https://mundobetis.com/2026/11/09/navalcarnero-betis-horario-y-donde-ver-la-primera-ronda-ronda-de-copa-del-rey-en-tv/",
+   "https://www.eldesmarque.com/futbol/copa-del-rey/20261111/canteranos-convocatoria-betis-navalcarnero-copa-rey_18_020681181.html",
+   "https://www.dazn.com/es-ES/news/futbol/navalcarnero-vs-real-betis-copa-rey-202627-cuando-se-juega-horario-canal-tv-espana/85a3e0ymo5101f3qu0dg4s4pr"
+  ]
+ },
+ {
+  "eid": "sr:match:76455732",
+  "fx": "CS Cerrito v Colon FC",
+  "home_form": "Cerrito home: 2-2 Rentistas, 2-1 Tacuarembo, 5-6 Wanderers, 1-2 La Luz, 1-1 River (1 win in 5 at home).",
+  "away_form": "Colon away: 2-3 Paysandu, 3-1 at Uruguay Montevideo, 0-3 River, 0-3 Liverpool, 1-1 Fenix (1 win in 5 away).",
+  "goals_trend": "Cerrito home games: 5/5 had 2+ goals, 4/5 had 3+; BTTS in 4/5. Colon away: 4/5 had 3+ goals.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Uruguay Segunda Division late season (ends 5 Dec); Colon ~4th, Cerrito ~6th - likely chasing playoff (Reducido) places; Plaza Colonia champions. Standings data uncertain.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "goals: Over 1.5 / BTTS lean; no result edge",
+  "confidence": 0.2,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Campeonato_Uruguayo_de_Segunda_Divisi%C3%B3n_2026",
+   "https://www.365scores.com/en-us/football/league/segunda-division-5523/standings"
+  ]
+ }
+]

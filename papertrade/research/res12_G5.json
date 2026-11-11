@@ -1,0 +1,420 @@
+[
+ {
+  "eid": "sr:match:72016880",
+  "fx": "Adelaide 36ers v Melbourne United",
+  "home_form": "5-5 L10, 91.3-91.6 avg; W 106-78 v Illawarra last; home in L10 2-3 (lost 89-96 Brisbane, 91-96 Melbourne, 72-88 NZ)",
+  "away_form": "6-4 L10, 100.0-93.3; 3 straight wins by 16-28 (120-92 Brisbane, 94-74 NZ, 113-97 at Cairns); away 3-2 in L10",
+  "scoring_trend": "Melbourne averaging 100+ and rising; Adelaide ~91 both ways",
+  "h2h": "Melbourne won 96-91 at Adelaide on Oct 7 2026",
+  "absences": "Adelaide: Isaac Humphries and Bul Kuol out (Oct reports); Flynn Cameron (ankle) needs medical clearance, possible return. Melbourne: Shea Ili back from hamstring; Goulding/Macdonald were out in Oct, current status unclear",
+  "context": "NBL27 regular season, Thursday game; injury reports of mixed dates",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Melbourne slight (form + H2H + Adelaide frontcourt absences); Melbourne +handicap/DNB rather than big minus line",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.adelaide36ers.com/news/injury-update-or-game-7-v-melbourne-united",
+   "https://www.beforeyoubet.com.au/36ers-vs-united-prediction-tips-nbl27-round-9",
+   "https://www.basketball.com.au/news/nbl-injury-report",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74320746",
+  "fx": "Caxias Do Sul v Pato Basquete",
+  "home_form": "2-8 L10, 66.8-77.8; 5 straight losses (55-76 Brasilia at home, 53-91 at Pinheiros); home 1-4 in L10",
+  "away_form": "1-9 L10, 69.8-86.5; only win 89-88 v Botafogo; lost 78-98 Bauru on Nov 9 (3 days rest); away 0-5 in L10",
+  "scoring_trend": "Both low-scoring (Caxias 67 pts/g, Pato 70). Combined recent totals ~130-155",
+  "h2h": "none found this season",
+  "absences": "none reported",
+  "context": "NBB CAIXA 2026/27, Gin\u00e1sio do Sesi, Caxias, 19:30 local (confirmed by LNB). Two bottom sides",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "slow/low-scoring both sides, Under lean; Caxias home slight but no strong side",
+  "confidence": 0.2,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://www.portaldecamaqua.com.br/noticias/113002/caxias-basquete-encara-o-brasilia-em-duelo-decisivo-no-nbb-gauchos-buscam-reacao-apos-cinco-derrotas-e-reencontram-algoz-dos-playoffs.html",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74320748",
+  "fx": "Botafogo v Sesi/Franca BC SP",
+  "home_form": "3-7 L10 (2-3 in NBB), 75.2-84.0; W 77-76 at Brasilia Nov 2; home 1-4 in L10",
+  "away_form": "5-5 L10, 72.9-73.9; W 84-73 at Flamengo (Rio) Nov 11, W 98-77 Cruzeiro",
+  "scoring_trend": "Franca defensive (74 allowed); Botafogo leaks 84",
+  "h2h": "Franca won 82-78 at Botafogo Apr 28 2026",
+  "absences": "none reported",
+  "context": "NBB round 5, Gin\u00e1sio Oscar Zelaya, Rio, 20:00 local. Franca on a back-to-back in Rio (played Flamengo Nov 11)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Franca stronger (reigning power) but b2b; Franca ML or small handicap only",
+  "confidence": 0.25,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://www.fogaonet.com/noticias-do-botafogo/brasilia-botafogo-nbb-2026-2027/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72663206",
+  "fx": "BMS Herlev Wolfpack v Svendborg Rabbits",
+  "home_form": "1-9 L10, 74.0-97.6 (-23.6/g); home losses 55-117 Naestved, 67-93 Copenhagen, 70-102 Gladsaxe",
+  "away_form": "8-2 L10, 91.8-79.7; away 3-1 in L10",
+  "scoring_trend": "Herlev concedes ~98; Svendborg ~92 scored",
+  "h2h": "Svendborg 111-61 (Feb 2 2026); 365Scores shows a cup game 'Svendborg 86-84 Herlev 11/11' (possibly Nov 11 2026: same pairing the day before, much closer)",
+  "absences": "none found",
+  "context": "Basketligaen; tip-time sources disagree (14:00/18:00/20:00 local); possible cup meeting one day earlier",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Svendborg strong ML; handicap caution given 86-84 cup game and tip-time conflict",
+  "confidence": 0.3,
+  "sources": [
+   "https://basketball.realgm.com/international/league/67/Danish-Basketligaen/team/913/Svendborg-Rabbits",
+   "https://www.365scores.com/pt/basketball/match/cup-5924/herlev-wolfpack-svendborg-rabbits-16669-21230-5924",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75523194",
+  "fx": "Tamsalu Los Toros v Haljala Ngu",
+  "home_form": "no data",
+  "away_form": "no data",
+  "scoring_trend": "no data",
+  "h2h": "none",
+  "absences": "unknown",
+  "context": "Estonia I Liiga (amateur tier); Sportradar has no match history",
+  "veto": true,
+  "veto_reason": "no coverage, amateur regional league",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73053292",
+  "fx": "KTP Basket Kotka II v Puhu Juniorit",
+  "home_form": "6-4 L10, 92.1-88.5; 4-0 this season",
+  "away_form": "5-5 L10; 3-1 this season",
+  "scoring_trend": "~170-185 totals",
+  "h2h": "Puhu Juniorit won 99-91 at KTP II (Mar 2026)",
+  "absences": "unknown",
+  "context": "Finland 1. Division B: reserve (II) v junior team",
+  "veto": true,
+  "veto_reason": "reserve/youth sides (hard-excluded class)",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114471171",
+  "fx": "Jinlong WTS v Wellman Fukien",
+  "home_form": "no data",
+  "away_form": "no data",
+  "scoring_trend": "no data",
+  "h2h": "none",
+  "absences": "unknown",
+  "context": "Hong Kong Division 1; non-standard Sportradar id, no match_info",
+  "veto": true,
+  "veto_reason": "no coverage",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72467040",
+  "fx": "Stjarnan v Keflavik",
+  "home_form": "2-3 this season (L10 incl. 2026 playoffs 4-6), 94.9-97.0; W 103-79 at Njardvik last",
+  "away_form": "4-1 this season, 93.8-91.1 L10; W 100-90 at IR, 112-99 Hottur; lost 110-130 at Alftanes",
+  "scoring_trend": "high-pace league; recent Keflavik games 190-240",
+  "h2h": "no 2026-27 meeting found",
+  "absences": "Keflavik: Chaplin left injured v Alftanes Oct 23 (status unknown, Keflavik won 2 since)",
+  "context": "B\u00f3nus deild; preseason poll had Stjarnan ahead of Keflavik",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no strong side; high-scoring profile, Over lean",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.karfan.is/130-stig-og-alftanes-a-toppi-deildarinnar-chaplin-for-meiddur-af-velli-i-hetjulegri-barattu-keflvikinga/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72467034",
+  "fx": "Valur Reykjavik v Alftanes",
+  "home_form": "5-0 this season (86-73, 87-84, 93-85, 81-74, 90-77), slow ~83 both ways",
+  "away_form": "3-1 this season, 106 scored; lost 94-102 at home to KR Nov 5",
+  "scoring_trend": "clash of paces: Valur ~83, Alftanes ~106",
+  "h2h": "Valur won 108-87 at Alftanes Feb 2026",
+  "absences": "none found",
+  "context": "Alftanes preseason title favourite and top of table late Oct",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge on side; Valur +handicap/home value lean",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.karfan.is/ny-spa-fyrir-bonus-alftanes-a-toppinn-en-armanni-og-sindra-spad-falli/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73263142",
+  "fx": "Maccabi Tel-Aviv v Hapoel Tel-Aviv",
+  "home_form": "3-7 L10, 89.5-94.0; Euroleague poor (L Partizan, Paris, Zvezda, Real)",
+  "away_form": "6-4 L10, 89.3-83.2",
+  "scoring_trend": "L2 derbies 192 and 161",
+  "h2h": "3rd meeting in 12 days: Hapoel won 105-87 at Maccabi (Nov 1), Maccabi won 86-75 (Nov 9, league)",
+  "absences": "Maccabi: Iffe Lundberg out to December (quadriceps); Gur Lavi doubtful. Hapoel: Tomas Satoransky (head) doubtful; Tyler Ennis out (Achilles)",
+  "context": "Euroleague Round 11 derby, 20:05 CET; availability not final",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge; derby, avoid result-side (derby rule)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-11-fantasy/",
+   "https://www.euroleaguebasketball.net/en/euroleague/news/pregame-quotes-and-injury-report-tel-aviv-derby/",
+   "https://www.eurohoops.net/en/euroleague/2030518/euroleague-round-10-injury-report-satoransky-out-powell-and-konchar-could-debut/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73263146",
+  "fx": "Olimpia Milano v BC Zalgiris Kaunas",
+  "home_form": "3-7 L10, 86.8-88.4; home 1-5 in L10 (lost Valencia, Virtus, Barca, Dubai, Real)",
+  "away_form": "8-2 L10, 88.6-80.3; 5 straight wins incl. at Besiktas 83-67 and at Virtus 91-74",
+  "scoring_trend": "Zalgiris defensive (~80 allowed)",
+  "h2h": "none this season",
+  "absences": "no report found",
+  "context": "Euroleague Round 11",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Zalgiris strong form v struggling Milan; Zalgiris ML/+handicap",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-11-fantasy/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73263150",
+  "fx": "Real Madrid v KK Crvena zvezda Belgrade",
+  "home_form": "9-1 L10, 105.4-87.7; home 5-1 (only L 112-115 Panathinaikos)",
+  "away_form": "9-1 L10, 89.0-77.6; W 62-57 at Olympiacos",
+  "scoring_trend": "Madrid high-scoring; Zvezda grinds (78 allowed)",
+  "h2h": "none this season",
+  "absences": "Zvezda: Stefan Miljenovic out (ankle surgery). Madrid: Maledon (knee) and Campazzo (hamstring) were out in Rounds 9-10, status unclear",
+  "context": "Euroleague Round 11 top-of-table clash, 21:00 CET",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Madrid home slight; big-club clash, no result-side by rule; no edge",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-11-fantasy/",
+   "https://eurohoops.net/en/euroleague/2033013/stefan-miljenovic-injury-update-crvena-zvezda-euroleague",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108324",
+  "fx": "Gence BC v Esenler Erokspor",
+  "home_form": "1-4 FEC, 58.0-72.8 incl. 0-20 FORFEIT v Rilski (Oct 21); W 69-67 Sporting",
+  "away_form": "8-2 L10; 5-0 in FEC group; W 92-63 v Gence (Oct 7)",
+  "scoring_trend": "Gence ~76 in played games",
+  "h2h": "Esenler 92-63 (Oct 7 2026)",
+  "absences": "unknown; Gence turmoil (club disowned coach's statements)",
+  "context": "FIBA Europe Cup Group C; search did not confirm a Nov 12 fixture",
+  "veto": true,
+  "veto_reason": "Gence forfeited a group game (20-0) and has turmoil; fixture date not confirmed by search; forfeit/settlement risk",
+  "lean": "Esenler clearly stronger if played (Esenler ML)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/games/135745-GEN-RIL",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_FIBA_Europe_Cup",
+   "https://www.habermeydan.com/spor/esenler-erokspor-genceyi-farkli-yendi-h224111/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73440368",
+  "fx": "Luiss Roma v Psa Napoli Est",
+  "home_form": "3-4 this season, 76.9-86.8 L10",
+  "away_form": "4-3, 79.0-77.0; 3 straight home wins",
+  "scoring_trend": "totals ~150-165",
+  "h2h": "none",
+  "absences": "unknown",
+  "context": "Italy Serie B (3rd tier)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696288",
+  "fx": "Altiri Chiba v Yokohama B-Corsairs",
+  "home_form": "4-6 L10, 81.6-86.2; home 0-4 in L10; W 85-76 at Kawasaki Nov 9",
+  "away_form": "4-6 L10, 79.0-86.8; lost 70-87 home v Kobe",
+  "scoring_trend": "~165 totals",
+  "h2h": "Yokohama won 89-81 at Chiba Apr 2026",
+  "absences": "Chiba: Luke Evans injured (Kai Sotto signed Sept 24)",
+  "context": "B.League Premier; one Sofascore page lists Dec 11 but RealGM/Proballers/Sportradar say Nov 12",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/basketball/match/altiri-chiba-yokohamacorsairs/NQZsghkd",
+   "https://basketball.realgm.com/international/league/105/Japanese-BLeague/team/2756/Altiri-Chiba/schedule",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696290",
+  "fx": "Toyama Grouses v Osaka Evessa",
+  "home_form": "6-4 L10 (8-5 per RealGM), 83.2-88.4; lost last two (75-108 at Shimane, 80-93 Nagoya)",
+  "away_form": "0-10 L10 (1-12 per RealGM), 71.6-96.8, lost by avg 25; played at Chiba Jets Nov 10",
+  "scoring_trend": "Osaka concedes ~97",
+  "h2h": "none this season",
+  "absences": "none found",
+  "context": "B.League Premier, Toyama City Gymnasium; Osaka on short rest after travel",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home strong: Toyama ML; handicap to ~-8.5 OK",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.sofascore.com/basketball/team/toyama-grouses/124578",
+   "https://basketball.realgm.com/international/league/105/Japanese-BLeague",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76112416",
+  "fx": "Beirut SC v Club Jeunesse Sportif Batroun",
+  "home_form": "2-0 this season (98-66, 66-58); weak 2025-26 end",
+  "away_form": "1-1 (lost 79-108 at Riyadi)",
+  "scoring_trend": "~150-165",
+  "h2h": "Beirut 99-73 (Dec 2025), Batroun 97-73 (Feb 2026)",
+  "absences": "unknown",
+  "context": "Lebanon first division; Sofascore says Nov 12 18:30 UTC, Flashscore lists the Batroun fixture on Dec 2",
+  "veto": true,
+  "veto_reason": "date conflict between sources",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/basketball/match/club-jeunesse-sportif-batroun-beirut/yTgcsjGej",
+   "https://www.flashscore.ph/en/team/beirut-club/2gH2GbfB/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75109922",
+  "fx": "Ereliai Mazeikiai v KK Vilkaviskio Perlas",
+  "home_form": "1-9 L10, 77.6-90.6; home 0-5",
+  "away_form": "4-6, 78.3-85.1; away 1-4",
+  "scoring_trend": "~165",
+  "h2h": "none",
+  "absences": "unknown",
+  "context": "Lithuania NKL (2nd tier)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Perlas slight; no strong edge",
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75109916",
+  "fx": "Vytis Sakiai v Kretingos Kretinga",
+  "home_form": "7-3 L10, 96.4-89.6; home 4-1",
+  "away_form": "2-8 L10, 82.1-89.7; away 2-2",
+  "scoring_trend": "~180",
+  "h2h": "none",
+  "absences": "unknown",
+  "context": "NKL",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home strong: Sakiai ML",
+  "confidence": 0.3,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75109924",
+  "fx": "BC Jurbarkas-Karys v Plunges Olimpas",
+  "home_form": "8-2 L10, 86.6-80.0; home 4-2",
+  "away_form": "7-3, 83.6-76.4; away 3-3",
+  "scoring_trend": "~165",
+  "h2h": "none",
+  "absences": "unknown",
+  "context": "NKL top-half clash",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75109926",
+  "fx": "Vilniaus Stekas v VILNIUS RYTAS-2",
+  "home_form": "3-7 L10, 77.2-90.4",
+  "away_form": "1-9 L10, 78.3-88.1",
+  "scoring_trend": "~165",
+  "h2h": "Stekas beat ... n/a",
+  "absences": "unknown",
+  "context": "NKL; Rytas-2 is a reserve/farm side",
+  "veto": true,
+  "veto_reason": "reserve side (hard-excluded class)",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74496912",
+  "fx": "Kupol-Rodniki Izhevsk v BC Khimki Moscow",
+  "home_form": "3-7 L10, 78.6-85.2; home 2-3",
+  "away_form": "6-4 L10, 79.5-74.5; W 74-64 Magnitogorsk, 117-82 Chelbasket",
+  "scoring_trend": "Khimki defensive (74.5 allowed); ~160",
+  "h2h": "none found",
+  "absences": "unknown",
+  "context": "Russian Super League (2nd tier)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Khimki away slight; Under lean",
+  "confidence": 0.2,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74496914",
+  "fx": "BK Dynamo Grozny v Temp-Sumz Revda",
+  "home_form": "9-1 L10, 79.5-70.1; home 5-1",
+  "away_form": "9-1 L10, 89.3-76.2; away 3-1",
+  "scoring_trend": "Grozny slow, ~150 totals",
+  "h2h": "split 2 prior: 66-70, 77-84 (both low totals)",
+  "absences": "none found",
+  "context": "Super League top clash, both unbeaten per 365Scores; tip-time sources differ",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "slow pace, Under lean; no side",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.365scores.com/en-us/basketball/match/super-league-90/dynamo-grozny-temp-sumz-revda-18240-76818-90",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ }
+]

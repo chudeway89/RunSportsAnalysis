@@ -1,0 +1,298 @@
+[
+ {
+  "eid": "sr:match:76479782",
+  "fx": "Kimberley de Mar Del Plata v Club Olimpo",
+  "home_form": "SR last10: W4 D4 L2 (1-1,0-0,2-1,1-0,0-0,0-0,3-0,0-2,0-1,3-1). Home last5: 1-1 Monte Maiz, 2-1 Rincon, 0-0 Huracan LH, 0-2 Alvarado, 3-1 Cipolletti.",
+  "away_form": "SR last10: W4 D4 L2. Away last5: 0-0 Gimnasia CdU, 0-2 Sp. San Martin Formosa, 2-1 Gim. Chivilcoy, 1-1 Alvarado, 0-1 Atenas.",
+  "goals_trend": "Very low scoring. Kimberley 2+ goals in 5/10, 3+ in 3/10, four 0-0s in last 10. Olimpo 3+ in 2/10, 2+ in 7/10. Kimberley failed to score in 5/10.",
+  "h2h": "Olimpo won 1-0 v Kimberley on 23 Aug 2026 (league phase).",
+  "absences": "No named absences found.",
+  "context": "Torneo Federal A Revalida quarter-final, FIRST LEG (two legs; return at Olimpo on Tue 17 Nov). La Nueva says Olimpo hold sporting advantage. Kickoff was moved because of the Pope's visit; local reports give 15:30 and 17:00 local (SR: 18:30 UTC). Kickoff time conflict but date agrees on Thu 12th.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "low-scoring first leg, Under 2.5 (but regional tier: CLAUDE.md bans Unders in amateur/regional competitions and O1.5 in Argentina lower tiers). No result edge.",
+  "confidence": 0.25,
+  "sources": [
+   "https://diarioelatlantico.com.ar/2026/11/04/revalida-olimpo-kimberley-habra-presencia-bahiense-en-el-inicio-de-los-cuartos",
+   "http://www.lanueva.com/nota/2026-11-2-18-59-0-revalida-olimpo-y-kimberley-jugaran-entre-semana-la-llave-de-cuartos-de-final",
+   "https://altoquedeportes.com.ar/federal-a-asi-continua-el-reducido-sin-atenas/"
+  ]
+ },
+ {
+  "eid": "sr:match:68823468",
+  "fx": "Sao Bernardo FC v Athletic Club Sjdr MG",
+  "home_form": "SR last10: W5 D2 L3. Home: 3-2 Vila Nova, 0-1 Criciuma, 3-1 CRB, 1-0 Goianiense (3W in last 4 home).",
+  "away_form": "SR last10: W2 D4 L4. Away: 0-1 Operario, 0-0 Avai, 1-2 Goias, 2-2 Fortaleza, 2-0 Juventude (1W in 5 away).",
+  "goals_trend": "SB 3+ goals in 4/10; Athletic 3+ in 4/10 (2-3, 2-1, 2-2, 2-2 recently). Futebol Interior/models note 3+ goals in last 2 H2H.",
+  "h2h": "Last 2 meetings: one win each, no draw; 3+ goals in both.",
+  "absences": "None found.",
+  "context": "Serie B round 38 (final round). Portuguese preview: match affects neither promotion, G6 nor relegation; both 'just completing the schedule'. Date: dgabc/CNN say Thu 12 Nov 20h Brasilia (=23:00 UTC, matches listing); ESPN Spanish page says 14 Nov, and Futebol Interior mentions the round completing Sat 14th.",
+  "veto": true,
+  "veto_reason": "Dead rubber (nothing at stake for either side) plus a date conflict (ESPN/Futebol Interior list 14 Nov).",
+  "lean": "no edge (dead rubber); if anything goals, but do not use.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.dgabc.com.br/Noticia/4368265/sao-bernardo-fc-x-athletic-mg-pela-serie-b-veja-onde-assistir-e-as-provaveis-escalacoes",
+   "https://www.futebolinterior.com.br/serie-b-jogos-antecipados-38a-rodada/",
+   "https://espndeportes.espn.com/futbol/partido/_/juegoId/401860436/athletic-sao-bernardo",
+   "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-b/titulo-acesso-e-rebaixamento-o-que-esta-em-jogo-na-ultima-rodada-da-serie-b/"
+  ]
+ },
+ {
+  "eid": "sr:match:76124626",
+  "fx": "Dayrout v Proxy SC",
+  "home_form": "SR last10: W1 D4 L5; scored 6 in 10, failed to score 5/10. Home: 1-5 Sekka, 2-2 Ismaily, 0-3 Entag, 0-2 We.",
+  "away_form": "SR last10: W2 D2 L6. Away: 2-3 Enppi, 2-2 Haras, 1-1 Nasr, 0-1 Masar, 0-1 Team FC.",
+  "goals_trend": "Dayrout matches 3+ goals 4/10, three 0-0/1-0 type. Proxy 3+ 4/10. Both weak attacks overall.",
+  "h2h": "None found.",
+  "absences": "No news found.",
+  "context": "Egyptian 2nd division, two struggling sides. Egypt is a thin/low-scoring context per CLAUDE.md.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge (thin league, no news)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73075394",
+  "fx": "Atletico Balboa v CD Inca",
+  "home_form": "SR last10: W3 D2 L5, but W3 in a row (4-3 at Limeno, 1-0 Alianza, 2-1 at Fuerte SF). Home last5: W1 D1 L3 (1-0 Alianza, 2-2 Aguila, 0-1 FAS, 0-2 Cacahuatique, 0-3 Platense).",
+  "away_form": "SR last10: W2 D3 L5; 1 win in last 8. Away: 0-1 Cacahuatique, 0-2 Firpo, 1-1 FAS, 1-1 Alianza, 1-3 Aguila (no away wins in 5, 4 goals).",
+  "goals_trend": "Balboa 3+ goals in 6/10 recently; Inca low scoring (9 goals in 10).",
+  "h2h": "Inca won 1-0 at home v Balboa (Sep 2026, Apertura R9); Inca beat Balboa on pens in the 2025-26 promotion final.",
+  "absences": "None found.",
+  "context": "El Salvador Apertura 2026; both newly promoted. Date only from Sofascore listing (not double-confirmed).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "slight home lean (Balboa form up, Inca winless away) - Balboa DNB at most",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/football/team/atletico-balboa/463709",
+   "https://www.eldiariodehoy.com/deportes/inca-aruba-balboa-futbol/92715/2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76153758",
+  "fx": "Bengaluru FC B v Rebels FC",
+  "home_form": "No data (SR empty).",
+  "away_form": "No data.",
+  "goals_trend": "Unknown.",
+  "h2h": "Unknown.",
+  "absences": "Unknown.",
+  "context": "Bangalore Super Division (regional). Bengaluru FC B is a reserve side.",
+  "veto": true,
+  "veto_reason": "Reserve team in regional league, no data.",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75802266",
+  "fx": "Equatorial Guinea v Zimbabwe",
+  "home_form": "SR last10: W3 D1 L6; 1-0 Sierra Leone, 0-2 DR Congo, 0-1 Comoros, 1-1 Madagascar.",
+  "away_form": "SR last10: W3 D1 L6; 1-2 DR Congo, 3-2 at Sierra Leone, 1-0 India, 0-2 Nigeria.",
+  "goals_trend": "EqG low scoring: 3+ goals in 2/10, scored 0 in 5/10. Zimbabwe games higher: 3+ in 6/10.",
+  "h2h": "None found.",
+  "absences": "EqG reportedly without first-choice goalkeeper.",
+  "context": "AFCON 2027 qualifier, Group E, MD3. DR Congo 6 pts; EqG 3, Zimbabwe 3, Sierra Leone 0: a key 2nd-place game. VENUE: played at Yaounde, Cameroon (EqG 'home' at a neutral venue, home edge removed). NBC lists the date as Wed 11 Nov; ESPN, SR and previews say Thu 12 Nov.",
+  "veto": false,
+  "veto_reason": "Neutral venue and NBC date discrepancy noted; majority of sources (ESPN, SR, dated previews) confirm 12 Nov. Treat as data_conflict flag.",
+  "lean": "close game, no result edge (neutral venue; one preview tips Zimbabwe). Lean Under 2.5 / low-scoring.",
+  "confidence": 0.2,
+  "sources": [
+   "https://dailysports.net/predictions/neutral-venue-takes-home-advantage-away-prediction-for-equatorial-guinea-vs-zimbabwe/",
+   "https://www.nbcsports.com/soccer/news/afcon-qualifying-2026-africa-cup-of-nations-qualification-format-schedule-scores",
+   "https://www.espn.com/soccer/schedule/_/league/caf.nations_qual"
+  ]
+ },
+ {
+  "eid": "sr:match:75803686",
+  "fx": "Cameroon v Namibia",
+  "home_form": "SR last10: W6 D2 L2; unbeaten in qualifying (3-1 Comoros, 1-1 at Congo) and won 1-0 at Ivory Coast in Oct. Home: 3-1 Comoros, 2-0 China, 0-2 Morocco, 1-0 Gabon.",
+  "away_form": "Away last 7 all losses: 0-6 Russia, 0-1 Comoros, 0-2 Kazakhstan, 0-4 Comoros, 0-1 Comoros, 0-3 Tunisia, 1-3 Liberia (1 goal scored). Bets.co.za: 1 goal in last 5, 9 conceded.",
+  "goals_trend": "Cameroon wins usually narrow (1-0, 2-1, 2-0); Namibia has failed to score in 6 of last 7 away.",
+  "h2h": "Return leg in Namibia on 16 Nov.",
+  "absences": "Cameroon: Carlos Baleba (hamstring/muscle), Christian Kofane (injury) out; Andre Onana and Nouhou Tolo not selected. Mbeumo (captain) in camp, full squad in Douala. Namibia: Petrus Shitembi out; Shalulile captains.",
+  "context": "AFCON 2027 qualifier, Group G MD3, Japoma Stadium, Douala. Cameroon top with 4 pts; Namibia 3, Comoros 3, Congo 1. Kickoff confirmed for Thu 12 Nov (beIN, africasoccer). NBC listed 11 Nov (stale).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home strong: Cameroon win; Namibia not to score/Cameroon clean sheet plausible. Avoid -1.5 (narrow-win profile).",
+  "confidence": 0.35,
+  "sources": [
+   "https://africasoccer.com/cameroon-squad-complete-in-douala-ahead-of-namibia-clash/",
+   "https://www.sportsmole.co.uk/football/cameroon/preview/cameroon-vs-namibia-prediction-team-news-lineups_608860.html",
+   "https://www.beinsports.com/en-us/soccer/africa-cup-of-nations-qualification/articles/how-and-where-to-watch-cameroon-vs-namibia-live-on-bein-sports-2026-11-11",
+   "https://www.bets.co.za/soccer/caf-africa-cup-of-nations/afcon-qualifiers-predictions-12-november-2026-20261111-0014/",
+   "https://khelnow.com/football/cameroon-vs-namibia-preview-afcon-2027-qualifier-202611"
+  ]
+ },
+ {
+  "eid": "sr:match:75468288",
+  "fx": "Cayman Islands v Guyana",
+  "home_form": "SR last10: W2 D3 L5; scoreless in last 4 (0-1, 0-3 Puerto Rico, 0-2 Guyana, 0-0 Dominica).",
+  "away_form": "SR last10: W9 L1; 8-1 and 5-1 v Dominica, 2-0 v Cayman, 1-0 at Puerto Rico.",
+  "goals_trend": "Guyana scoring freely (21 in last 6). Cayman have scored 0 in 4 NL games.",
+  "h2h": "Guyana won 2-0 at home v Cayman on 27 Sep 2026.",
+  "absences": "None found.",
+  "context": "CONCACAF Nations League B. Guyana 12/12 pts, a win virtually secures 2027 Gold Cup qualification (must-win/high motivation). Cayman 1 pt. VENUE CONFLICT: listing has Cayman as home, but News Room Guyana / Kaieteur say Guyana host Cayman at Leonora, Georgetown (Guyana's 'home fixtures').",
+  "veto": true,
+  "veto_reason": "Venue conflict: listed as Cayman home, Guyanese sources say the game is at Leonora, Georgetown.",
+  "lean": "away strong: Guyana win, Cayman not to score (if venue is resolved)",
+  "confidence": 0.35,
+  "sources": [
+   "https://newsroom.gy/2026/11/10/golden-jaguars-on-brink-of-gold-cup-return-but-job-is-not-done/",
+   "https://newsroom.gy/2026/11/03/golden-jaguars-name-squad-for-crucial-home-fixtures-as-gold-cup-spot-beckons/",
+   "https://kaieteurnewsonline.com/2026/11/11/bonofiglio-bonds-demand-winning-finish/",
+   "https://www.concacaf.com/competitions/nations-league/news/2026-27-concacaf-nations-league-november-schedule-confirmed"
+  ]
+ },
+ {
+  "eid": "sr:match:75879158",
+  "fx": "Uzbekistan v Russia",
+  "home_form": "SR last10: W4 L6 (heavy WC defeats); home: 4-1 Syria, 3-1 Iran, 5-4 Venezuela, 3-1 Gabon.",
+  "away_form": "SR last10: W6 D2 L2 (all but one at home): 3-3 Nigeria, 6-0 Namibia, 2-0 Iran. Last away game lost 0-1 at Egypt.",
+  "goals_trend": "Uzbekistan games very open: 3+ goals in 7/10, both home friendlies 4+. Russia 3+ in 5/10.",
+  "h2h": "None recent found.",
+  "absences": "Uzbekistan: Abduqodir Khusanov not selected. Uzbekistan play Saudi Arabia on 17 Nov (rotation possible).",
+  "context": "Friendly in Tashkent (Pakhtakor), 15:00 UTC confirmed. Cannavaro still coach. Russia favourites in previews.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "friendly: goals only (L81). Lean Over 1.5 / BTTS; no result side.",
+  "confidence": 0.25,
+  "sources": [
+   "https://zamin.uz/en/sport/226912-uzbekistan-vs-russia-friendly-match-all-the-important-details-ahead-of-the-clash-in-tashkent.html",
+   "https://www.thestatszone.com/uzbekistan-vs-russia-preview-prediction-2026-international-friendly-237674"
+  ]
+ },
+ {
+  "eid": "sr:match:68931496",
+  "fx": "Turkiye v Belgium",
+  "home_form": "SR: lost all 4 NL group games (0-1 France, 1-4 & 1-3 Italy, 0-3 at Belgium): 2 scored, 11 conceded. Montella sacked; Sergen Yalcin new coach (bounce narrative).",
+  "away_form": "Belgium NL: W 2-0 at Italy, L 0-1 France, W 3-0 Turkey, L 1-4 at France (6 pts). Scored in 8 straight away games, but not more than 2 in last 10 away NL games.",
+  "goals_trend": "Turkey failing to score/conceding; Belgium away games capped at 2 scored.",
+  "h2h": "Belgium 3-0 Turkey, 2 Oct 2026.",
+  "absences": "Turkey: Kenan Yildiz (foot) out, Abdulkerim Bardakci and Umit Akdag suspended, Aral Simsir injured; Kerem Akturkoglu, Irfan Can Kahveci, Akaydin, Bayindir dropped. Belgium: Courtois withdrawn, Lavia suspended, Onana, Saelemaekers, Openda injured; Debast, Fernandez-Pardo out. Lukaku listed doubtful by one source, in squad (one booking from a ban v Italy on 15 Nov) by another.",
+  "context": "UEFA NL League A Group A1 MD5. Turkey 0 pts, fighting to avoid bottom/relegation (must-win). Belgium chasing QF (France 10, Italy 7, Belgium 6).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no result side (new-manager bounce v Belgium absences); lean Belgium to score.",
+  "confidence": 0.2,
+  "sources": [
+   "https://thehardtackle.com/round-up/2026/11/11/turkiye-vs-belgium-preview-prediction-probable-lineups-tactics-team-news-key-stats/",
+   "https://khelnow.com/football/turkiye-vs-belgium-preview-uefa-nations-league-202611",
+   "https://dailysports.net/predictions/turkey-banking-on-new-manager-bounce-turkey-vs-belgium-prediction/",
+   "https://tips.gg/article/turkiye-vs-belgium-predicted-lineups-2026-11-12/"
+  ]
+ },
+ {
+  "eid": "sr:match:68931500",
+  "fx": "Italy v France",
+  "home_form": "Italy NL: L 0-2 Belgium (H), W 4-1 & 3-1 Turkey, D 1-1 at France (7 pts).",
+  "away_form": "France NL: W 1-0 at Turkey, W 1-0 at Belgium, D 1-1 Italy, W 4-1 Belgium (10 pts). Lost 4-6 to England and 0-2 to Spain at the World Cup in July.",
+  "goals_trend": "Mixed; NL meetings tight (1-1). Several previews tip 1-2 France.",
+  "h2h": "Italy winless v France in last 5 since 2012 (incl. 1-1 on 2 Oct 2026).",
+  "absences": "France: Mbappe did not train Wednesday ('under treatment', doubtful); Kounde and Lepaul out. Italy: Al Jazeera says Di Lorenzo, Raspadori and Kean out; KhelNow says all fit (CONFLICT).",
+  "context": "UEFA NL League A Group A1 MD5 at San Siro. Italy need a win to stay in the race for top spot; France can play cautiously. Opta: France 47.4%, Italy 28.3%.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge (big-club clash, injury data conflict); no result side.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news",
+   "https://thehardtackle.com/round-up/2026/11/11/italy-vs-france-preview-prediction-probable-lineups-tactics-team-news-key-stats",
+   "https://khelnow.com/football/italy-vs-france-preview-uefa-nations-league-202611",
+   "https://www.sofascore.com/news/italy-vs-france-nations-league-preview-at-san-siro"
+  ]
+ },
+ {
+  "eid": "sr:match:76693526",
+  "fx": "Borussia M'gladbach v Standard Liege",
+  "home_form": "SR last10: W3 D2 L5 (1-3 at HSV, 0-0 Paderborn, 0-5 at Freiburg, 3-4 Mainz).",
+  "away_form": "SR last10: W5 D1 L4 (3-0 Beveren, 1-1 Kortrijk, 1-2 Genk).",
+  "goals_trend": "Gladbach games open (3+ in 6/10).",
+  "h2h": "None.",
+  "absences": "Internationals away. Blessin wants minutes for fringe players and youngsters; GK Moritz Nicolas may return.",
+  "context": "Club friendly in the international break, behind closed doors on the FohlenPlatz (training ground), 14:00 local.",
+  "veto": true,
+  "veto_reason": "Friendly with heavy rotation, fringe and youth players; closed-door training-ground game.",
+  "lean": "no edge (goals only if anything)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.gladbachtotal.de/testspiel-am-donnerstag-alles-wissenswerte-zu-gladbach-vs-standard-luettich/",
+   "https://www.borussia.de/news/borussia-absolviert-testspiel-gegen-standard-luettich"
+  ]
+ },
+ {
+  "eid": "sr:match:74205868",
+  "fx": "Al-Ahly Amman v Amman FC",
+  "home_form": "SR last10: W3 D2 L5; home: 1-1 Ramtha, 4-1 Hay Al Amir Hassan, 0-1 Maan, 2-1 Baqaa.",
+  "away_form": "SR: unbeaten in last 8 (W4 D4), last two 0-0. Away: 0-0 Sahl Horan, 2-1 Sama Al Sarhan, 1-1 Yarmouk, 5-3 Aqaba.",
+  "goals_trend": "Amman FC: three 0-0s in last 4. Al-Ahly 2+ goals in 6/10.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Jordan First Division (2nd tier), round 9. A listing page puts Al-Ahly 1st and Amman FC 6th (may be stale; Al-Ahly's SR form does not look like a leader's).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge; slight Amman FC X2 / low-scoring lean",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/football/match/amman-fc-al-ahli-jordan/FRqbsZllc"
+  ]
+ },
+ {
+  "eid": "sr:match:76516976",
+  "fx": "Calvo Sotelo Puertollano v Albacete Balompie",
+  "home_form": "SR last10: W1 D3 L6, scored 6; lost 0-6 at Numancia on 8 Nov. Home: 1-2 Guadalajara, 0-0 Alcala, 1-0 Tordesillas, 0-0 Paso, 0-3 Segoviana.",
+  "away_form": "Albacete (Segunda): W3 in a row (3-1 at Leganes, 2-1 Sabadell, 2-0 Eldense) after a poor run (0-5 at Valladolid).",
+  "goals_trend": "Puertollano failed to score in 5/10.",
+  "h2h": "None.",
+  "absences": "Albacete will change personnel for the Cup (rotation) but 'obliged to win' (El Digital de Albacete).",
+  "context": "Copa del Rey first round, single-leg knockout (90-min settlement except To Qualify). Kickoff 18:30 local at Puertollano confirmed after two postponements; club disputed the slot because it clashes with a Spain match. Puertollano are a 4th/5th-tier side in awful form.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Albacete To Qualify (class gap, Puertollano 1 win in 10) despite rotation; no 90-min result side per knockout rule.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.eldigitaldealbacete.com/2026/11/11/el-albacete-cambiara-de-protagonistas-en-la-copa-pero-mantiene-una-obligacion-ganar-en-puertollano/",
+   "https://www.lacomarcadepuertollano.com/puertollano/calvo-sotelo-puertollano-albacete-copa-rey-jugara-12-noviembre-lio-horario/20261105235913654804.html",
+   "https://www.lacomarcadepuertollano.com/puertollano/cmm-aclara-que-fecha-horario-calvo-sotelo-puertollano-albacete-copa-rey-responden-disponibilidad-establecida-rfef/20261106151952654870.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76455612",
+  "fx": "Cerro Largo FC v CA Progreso",
+  "home_form": "SR last10: W2 D2 L6; home: 2-0 Boston River, 0-1 Albion, 1-0 Rentistas, 0-2 Nacional, 0-0 Central Espanol. Coach changed (Ordonez sacked 5 Oct, Bruno Silva in).",
+  "away_form": "SR last10: W5 D1 L4; away: 1-0 Wanderers, 1-1 Penarol, 2-3 Liverpool, 2-1 Boston River, 1-0 Albion.",
+  "goals_trend": "Cerro Largo low scoring: 3+ goals in 2/10, scored 0 in 5/10.",
+  "h2h": "Cerro Largo won 1-0 at Progreso (Apertura, May 2026).",
+  "absences": "None found.",
+  "context": "Uruguay Clausura, penultimate round (fecha 14), Estadio Antonio Ubilla, Melo, 20:00 local, confirmed. Progreso ALREADY RELEGATED (with Danubio). Liverpool chasing the Clausura title.",
+  "veto": true,
+  "veto_reason": "Dead rubber for Progreso (already relegated); Cerro Largo stakes unclear.",
+  "lean": "low-scoring, Under 2.5 (if used)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.montevideo.com.uy/Deportes/Clausura-Cerro-Largo-y-Progreso-abren-este-jueves-la-penultima-fecha-del-torneo-uc981904",
+   "https://www.infobae.com/america/agencias/2026/11/11/liverpool-busca-el-titulo-anticipado-del-clausura-uruguayo/",
+   "https://en.wikipedia.org/wiki/2026_Liga_AUF_Uruguaya"
+  ]
+ },
+ {
+  "eid": "sr:match:75834004",
+  "fx": "Academia Puerto Cabello v Monagas SC",
+  "home_form": "SR last10: W6 D1 L3; home in the final phase: 0-1 Tachira, 0-1 Caracas, 3-1 Rayo Zuliano, 3-3 Monagas.",
+  "away_form": "SR last10: W4 L6; 0-2 Tachira, 0-2 Caracas recently; away 3-2 at Caracas, 0-2 & 3-5 at Tachira, 3-3 at Academia.",
+  "goals_trend": "H2H in this phase 3-3 and 2-1; Monagas games 3+ goals in 6/10.",
+  "h2h": "Clausura phase: 3-3 (at Academia, 18 Oct), Academia won 2-1 at Monagas (24 Oct).",
+  "absences": "None found.",
+  "context": "Liga FUTVE Clausura Cuadrangular B round 6 (last), brought forward to Thu 12 Nov 18:00 local at La Bombonerita (El Nacional). 365Scores lists 21 Nov (stale). Monagas last (3 pts, likely eliminated); Academia 6 pts.",
+  "veto": false,
+  "veto_reason": "Possible dead rubber for Monagas; date conflict with one aggregator (365Scores). Flag data_conflict.",
+  "lean": "home lean: Academia win/DNB; goals lean Over 2.5 from H2H",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.elnacional.com/2026/11/academia-puerto-cabello-y-monagas-adelantan-su-partido-de-la-ultima-jornada-del-cuadrangular-b/",
+   "https://us.soccerway.com/game/academia-puerto-cabello-Mgr9ojjj/monagas-MHPrulvq/"
+  ]
+ }
+]
