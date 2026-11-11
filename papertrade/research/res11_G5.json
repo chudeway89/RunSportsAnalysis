@@ -1,0 +1,626 @@
+[
+ {
+  "eid": "sr:match:75108484",
+  "fx": "Valmiera Glass Via v KB Bashkimi",
+  "home_form": "5-5 L10; home: W Manchester 80-74, L Korfez 85-87, L VEF 89-97, W LU 81-59, W Kalev 82-74",
+  "away_form": "5-5 L10; away: L Ylli 86-105, L Korfez 62-72, W Vellaznimi 93-80, L Kalev 84-88, L Prishtina 77-79",
+  "scoring_trend": "Valmiera L10 PF 82.9/PA 82.8 (avg total 165.7); Bashkimi PF 79.5/PA 80.8 (160.3)",
+  "h2h": "FEC R1 (Oct 7): Bashkimi 79-77 Valmiera",
+  "absences": "none found in searches",
+  "context": "FEC regular season round 6 (second half of 6-team group)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "slight home lean, no strong edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108270",
+  "fx": "Basket Zielona Gora v Szolnoki Olaj Kk",
+  "home_form": "7-3 L10; home W Dinamo 95-93, W Oostende 80-77, W Anwil 78-77, L Levice 71-74, W Warszawa 104-87 (many close home games)",
+  "away_form": "6-4 L10; away L Oostende 77-86, W Fot 68-63, W Levice 85-79, L Sordogok 72-81, L Dinamo 76-93",
+  "scoring_trend": "ZG 164.4 avg total, Szolnok 163.8",
+  "h2h": "FEC R1 (Oct 6): Zielona Gora won 90-80 at Szolnok",
+  "absences": "none found in searches",
+  "context": "FEC round 6, Group B (Girona/Levice favourites, ZG contender)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Zielona Gora slight home edge; close games frequent - no handicap",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108420",
+  "fx": "Iraklis 2022 v KK MZT Skopje Aerodrom",
+  "home_form": "5-5 L10; home: W Mykonos 95-64, W Larnaca 81-64, L PAOK 53-63, L Dziki 85-86, W Karditsa 71-53, W Wurzburg 90-73",
+  "away_form": "4-6 L10; away: W Skopje 2023 79-60, L Dziki 66-89, L Strumica 79-87, L Sutjeska 75-85, L Wurzburg 73-87",
+  "scoring_trend": "Iraklis PF 81.4/PA 74.8 (156); MZT PF 75.8/PA 78.7 (154.5) - lower-scoring pair",
+  "h2h": "FEC R1 (Oct 6): Iraklis won 64-59 in Skopje",
+  "absences": "none found in searches",
+  "context": "Group E: Iraklis 3-2, MZT 0-5 (last). Iraklis needs win to stay in top-2 race",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Iraklis strong at home, home ML / -6.5ish; lean Under",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75200488",
+  "fx": "BC Prievidza v Merkezefendi Belediyesi Denizli Basket",
+  "home_form": "6-4 L10; home: L Bakken 78-83, W Nitra 122-79, W Landau 108-84, W Inter 100-50; lost 96-97 at Geneve",
+  "away_form": "2-8 L10 (Turkish BSL losses); FEC away: W Geneve 80-76, L Landau 86-94, L Benfica 91-96",
+  "scoring_trend": "Prievidza PF 91.7/PA 79.9 (171.6) - high scoring; Denizli 165.4",
+  "h2h": "FEC R1 (Oct 6): Denizli won 83-69 at home",
+  "absences": "none found in searches",
+  "context": "FEC round 6; Denizli in poor domestic form (6 straight BSL/FEC losses except none since Oct 21)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Prievidza home edge; lean Prievidza ML, Over-ish",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108370",
+  "fx": "BC Vienna v Sluc Nancy Basket",
+  "home_form": "2-8 L10; home: L Gmunden 72-86, L Bosna Royal 81-88, L Keravnos 83-85, L Mega 88-94, L Nord Dragonz 75-98",
+  "away_form": "6-4 L10 (French LNB Pro A); away: W Als 93-87, W Dijon 108-94, L Szczecin 87-90, L ASVEL 74-78, W Parnu 84-61, L Chalon 67-108",
+  "scoring_trend": "Vienna PA 85.4; Nancy PF 85.5",
+  "h2h": "no first-leg found in feed",
+  "absences": "feed shows Vienna with two results dated 07/11 (data oddity)",
+  "context": "FEC round 6; class gap French top tier v Austrian side in bad form",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Nancy away win, Nancy -handicap",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108422",
+  "fx": "Dziki Warszawa v Tartu Ulikool/Maks and Moorits",
+  "home_form": "8-2 L10; home: W Anwil 96-75, W MZT 89-66, W Slupsk 91-81, W Larnaca 94-80, W Lublin 97-77 (5-0 home)",
+  "away_form": "5-5 L10; away: L Wurzburg 79-113, W VEF 86-74, L Larnaca 93-99, W Keila, W MZT 95-92",
+  "scoring_trend": "Dziki PF 88.1/PA 78.2; Tartu PF 84.4/PA 88.0 (172 avg) - Tartu concedes a lot",
+  "h2h": "FEC R1 (Oct 6): Dziki won 103-76 in Tartu",
+  "absences": "none found in searches",
+  "context": "Group E leader Dziki 4-1, Tartu 2-3",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Dziki strong home, Dziki -8.5 or ML; Over lean",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75048624",
+  "fx": "Kk Split v BK Opava",
+  "home_form": "6-4 L10; home: L Cibona 81-93, W Promitheas 88-82, L Zadar 73-84, L Trepca 69-78",
+  "away_form": "3-7 L10; away: L Pardubice 80-99, L Promitheas 92-112, L Trepca 80-89, W Batumi 102-62, W Prague 97-88",
+  "scoring_trend": "Split 160 avg; Opava PA 91.2 avg total 177 - leaky defence",
+  "h2h": "FEC R1 (Oct 7): Split won 74-68 at Opava",
+  "absences": "none found in searches",
+  "context": "Group A; FIBA preview: Split contender, Opava underdog. Split home form mixed (1-3 in recent home games)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Split ML lean but home form shaky; no big handicap",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108320",
+  "fx": "Rilski Sportist v Sporting Cp",
+  "home_form": "5-5 L10; home: L Rhodes 70-92, W Lokomotiv 88-79, W CSKA Sofia 114-76, L Esenler 62-94",
+  "away_form": "6-4 L10; away: L Esenler 70-106, L Braga 86-98, L Gence 67-69, L Madeira 84-93, W Craiova 97-77",
+  "scoring_trend": "Rilski 151 avg total; Sporting 157",
+  "h2h": "FEC R1 (Oct 7): Sporting won 79-75 at home",
+  "absences": "none found in searches",
+  "context": "FEC round 6 (Rilski 'Gence' 20-0 forfeit in feed)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge; Sporting poor away",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108424",
+  "fx": "Wurzburg Baskets v AEK Larnaca",
+  "home_form": "6-4 L10; home: L Munich 73-94 (Sun), W Tartu 113-79, W Dziki 91-62, W Chemnitz 98-88, W MZT 87-73, W MBC 93-83",
+  "away_form": "8-2 L10; away: W Digenis 103-78, L Iraklis 64-81, W MZT 85-69, W ENP 85-74, L Dziki 80-94",
+  "scoring_trend": "Wurzburg PF 85.1; Larnaca PF 84.9/PA 75.0",
+  "h2h": "FEC R1 (Oct 7): Larnaca won 73-65 at home",
+  "absences": "none found in searches",
+  "context": "Group E: both 3-2. Wurzburg (BBL) at home has crushed group rivals; Larnaca lost both FEC away games to top sides",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Wurzburg home ML / -7.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108572",
+  "fx": "Fribourg Olympic v CSM CSU Oradea",
+  "home_form": "6-4 L10; home: W Lausanne 92-75, L VEF 65-97, W Starwings 94-58, W Neftchi 78-73, L Mykonos 65-80, W Lugano 116-80",
+  "away_form": "6-4 L10; away: L Mykonos 79-89, L Rapid 79-96, W Neftchi 99-83, L Dinamo 73-87, L Plovdiv 69-79",
+  "scoring_trend": "Fribourg 159.4 avg; Oradea 169.9",
+  "h2h": "FEC R1 (Oct 7): Oradea won 93-67 at home",
+  "absences": "none found in searches",
+  "context": "FEC round 6; Oradea a Seed-1 club but 1-4 in last 5 away; Fribourg lost twice at home in FEC (VEF, Mykonos)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108272",
+  "fx": "BC Oostende v BK Levicki Patrioti",
+  "home_form": "6-4 L10; home: L Antwerp 71-82, W Szolnok 86-77, W Leuven 66-54, W Dinamo 84-80, L Girona 76-91",
+  "away_form": "7-3 L10; away: L Girona 66-90, W Dinamo 78-76, W Nitra 85-73, W ZG 74-71, W Kosice 108-85",
+  "scoring_trend": "Oostende 151.7 avg (low); Levice 163.4",
+  "h2h": "FEC R1 (Oct 6): Oostende won 76-69 at Levice",
+  "absences": "none found in searches",
+  "context": "Group B; preview had Levice as favourite, Oostende underdog, but Oostende won first leg",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge; lean Under (Oostende low-scoring)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108530",
+  "fx": "Lions de Geneve v Landau Lions",
+  "home_form": "8-2 L10; home: W Massagno 103-76, W Prievidza 97-96, W Benfica 93-90, W Lugano 92-74, L Denizli 76-80, L Bakken 73-78",
+  "away_form": "3-7 L10; FEC away: L Benfica 76-97, L Bakken 88-91, L Prievidza 84-108; few recent games (Swiss/German lower-tier, sparse schedule)",
+  "scoring_trend": "Geneve PF 93.8/PA 73.8; Landau PA 95.1 avg total 182",
+  "h2h": "FEC R1 (Oct 7): Geneve won 105-83 in Landau",
+  "absences": "none found in searches",
+  "context": "FEC round 6; Landau weakest side in group. Geneve close in FEC home games (3,3 margin wins; 2 home losses)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Geneve ML; Over. Avoid big catch/handicap 15+ (Geneve FEC home margins small)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27",
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/news/regular-season-preview-who-are-the-favorites-to-advance-fec-26-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73734706",
+  "fx": "Parma Permsky Kray v BC Uniks Kazan",
+  "home_form": "5-5 L10; home: W Samara 109-68, W Dinamo V 108-90, W CSKA 86-62 - reported unbeaten at home this season",
+  "away_form": "7-3 L10; away: W Avtodor 79-62, L Loko 80-107, W Uralmash 69-68, W Samara 117-62, L CSKA 59-79",
+  "scoring_trend": "Parma PF 88.9/PA 85.6 (174.5); UNICS PF 88.2/PA 75.0",
+  "h2h": "Sep 26: Parma won 97-88 in Kazan",
+  "absences": "no current injury news found (UNICS rebuilt around Jalen Reynolds, Shved per preview)",
+  "context": "VTB regular season; UNICS ~6-2, Parma ~4-4",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge; Parma strong at home, UNICS better side - avoid",
+  "confidence": 0.15,
+  "sources": [
+   "https://basketball.realgm.com/international/league/35/VTB-United-League",
+   "https://odds.ru/forecast/parma-uniks-prognoz-i-stavka-na-11-noyabrya-2026-goda/",
+   "https://vprognoze.ru/topforecast/8236773-betsiti-parma-uniks-2026-11-11.html",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73734702",
+  "fx": "CSKA Moscow v Dinamo Vladivostok",
+  "home_form": "9-1 L10, VTB 7-0; home: W Zenit 80-68, W Parma 79-57, W Avtodor 117-55, W Loko 87-84, W Uralmash 90-85, W UNICS 79-59",
+  "away_form": "4-6 L10; away: W Enisey 111-97, L Uralmash 79-88, L Parma 90-108, W Samara 98-84, L UNICS 75-117",
+  "scoring_trend": "CSKA PA 70.6; Dinamo PA 92.5 avg total 179",
+  "h2h": "Oct 14: CSKA won 103-88 in Vladivostok",
+  "absences": "none found",
+  "context": "CSKA unbeaten leader; Dinamo 2-5, long travel (played in Krasnoyarsk Nov 7)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "CSKA ML; CSKA handicap moderate. Dinamo high-scoring so total not clearly Under",
+  "confidence": 0.35,
+  "sources": [
+   "https://basketball.realgm.com/international/league/35/VTB-United-League",
+   "https://odds.ru/forecast/parma-uniks-prognoz-i-stavka-na-11-noyabrya-2026-goda/",
+   "https://vprognoze.ru/topforecast/8236773-betsiti-parma-uniks-2026-11-11.html",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73734704",
+  "fx": "Zenit Saint Petersburg v BC Samara",
+  "home_form": "7-3 L10; home: W Igokea 91-70, W Enisey 94-86, W Avtodor 91-71, W Parma 99-85, W Uralmash 92-68",
+  "away_form": "1-9 L10, VTB 0-8; away: L Parma 68-109, L Enisey 70-91, L Avtodor 69-77",
+  "scoring_trend": "Samara PF 72.5/PA 92.0; Zenit PA 76.5",
+  "h2h": "Oct 21: Zenit won 99-65 in Samara",
+  "absences": "none found",
+  "context": "Zenit coming off loss at CSKA (Nov 8); Samara winless",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Zenit ML strong; Samara team total Under; Zenit big handicap ok given 34-pt first meeting",
+  "confidence": 0.4,
+  "sources": [
+   "https://basketball.realgm.com/international/league/35/VTB-United-League",
+   "https://odds.ru/forecast/parma-uniks-prognoz-i-stavka-na-11-noyabrya-2026-goda/",
+   "https://vprognoze.ru/topforecast/8236773-betsiti-parma-uniks-2026-11-11.html",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432764",
+  "fx": "AS Pistoia Basket 2000 v Juvecaserta 2021",
+  "home_form": "5-5 L10; home: L Fortitudo 64-66, W Vigevano 89-70, L Torino 77-84",
+  "away_form": "4-6 L10; away: L Sassari 75-95, L Pesaro 77-83, L Rieti 73-81",
+  "scoring_trend": "Pistoia PA 72.2 (150 avg total); Caserta 162",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "A2 round 9 midweek; Pistoia won at Montecatini Sun; Caserta 0-3 away",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Pistoia home slight edge",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-della-9-giornata",
+   "https://www.diretta.it/basket/italia/serie-a2/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432762",
+  "fx": "Basket Mestre 1958 v Ueb Cividale",
+  "home_form": "4-6 L10; home: W Brindisi 70-63, W Ruvo 93-71, L Sassari 74-87, L Livorno 49-88",
+  "away_form": "6-4 L10; away: W Cento 74-64, L Pesaro 68-76, L Torino 59-76, W Ruvo 86-83",
+  "scoring_trend": "Mestre 154; Cividale 148 (low scoring)",
+  "h2h": "none this season",
+  "absences": "Mestre listed with an asterisk in standings (penalty/points note) per LNP preview",
+  "context": "A2 round 9",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge; mild Under",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-della-9-giornata",
+   "https://www.diretta.it/basket/italia/serie-a2/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432770",
+  "fx": "Basket Torino v Fortitudo Bologna",
+  "home_form": "8-2 L10; home: W Montecatini 70-48, W Cividale 76-59, L Mestre 57-79; lost 62-85 at Cremona Sun",
+  "away_form": "7-3 L10; away: W Pistoia 66-64, L Livorno 59-85, W Caserta 83-81, L Cividale 83-85",
+  "scoring_trend": "Torino PF 76.6/PA 71.8 (148); Fortitudo 152.5",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Top-table clash (both 10-12 pts); LNP preview notes Torino energy cost",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no side edge; Under lean (both low totals)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-della-9-giornata",
+   "https://www.diretta.it/basket/italia/serie-a2/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432756",
+  "fx": "Benedetto Xiv Cento v Juvi Cremona 1952",
+  "home_form": "4-6 L10; home: L Cividale 64-74, L Pistoia 52-96, W Vigevano 98-88, L Pesaro 81-96",
+  "away_form": "2-8 L10; but W 85-62 v Torino Sun; away: L Rieti, L Milano 72-90, L Caserta 89-96, L Pesaro 84-87",
+  "scoring_trend": "Cento PA 79.8; Cremona 149",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Bottom-half game; Cremona 2 pts",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-della-9-giornata",
+   "https://www.diretta.it/basket/italia/serie-a2/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432768",
+  "fx": "Dinamo Sassari v US Victoria Libertas",
+  "home_form": "4-6 L10; home: W Caserta 95-75, L Rimini 67-84, W Cento 80-70, L Montecatini 72-81",
+  "away_form": "5-5 L10; away: L Avellino 70-79, W Ruvo 86-76, W Cento 96-81",
+  "scoring_trend": "Sassari 149.7; Pesaro 160",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "A2 round 9 (Victoria Libertas = Pesaro)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-della-9-giornata",
+   "https://www.diretta.it/basket/italia/serie-a2/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432758",
+  "fx": "Pallacanestro 2.015 Forli v Rinascita Basket Rimini",
+  "home_form": "5-5 L10; home: W Ruvo 86-71, L Livorno 87-92, W Rieti 93-71, W Cento 80-73",
+  "away_form": "7-3 L10; away: W Milano 85-71, W Sassari 84-67, L Fortitudo 66-78, W Montecatini 84-59, L Cividale",
+  "scoring_trend": "Forli 159; Rimini PA 73",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Romagna derby (derby flag); Rimini 12 pts",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Rimini better but derby - no side",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-della-9-giornata",
+   "https://www.diretta.it/basket/italia/serie-a2/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432754",
+  "fx": "S.S. Avellino Basket v Urania Milano",
+  "home_form": "8-2 L10; home 4-0: W Pesaro 79-70, W Montecatini 85-74, W Forli 94-81, W Vigevano 87-69",
+  "away_form": "2-8 L10 (1-7 league); away: L Fortitudo 66-83, L Cividale 60-78, L Livorno 72-87, L Brindisi 81-84, L Torino(home)",
+  "scoring_trend": "Avellino 153; Milano PF 74.2/PA 81.5",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Avellino 2nd (14 pts) v bottom side (2 pts)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Avellino ML / -8.5; strong",
+  "confidence": 0.4,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-della-9-giornata",
+   "https://www.diretta.it/basket/italia/serie-a2/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432760",
+  "fx": "Libertas Livorno v New Basket Brindisi",
+  "home_form": "8-2 L10, 8-0 league; home: W Cento 76-63, W Fortitudo 85-59, W Milano 87-72, W Pistoia 63-62",
+  "away_form": "6-4 L10; away: L Mestre 63-70, L Rieti 63-70, W Montecatini 96-78, W Cremona 66-59",
+  "scoring_trend": "Livorno PA 68.8 (147 avg total); Brindisi 151",
+  "h2h": "none this season",
+  "absences": "Brindisi OUT: Ethan Esposito (shoulder, weeks), El Ellis; Cinciarini back; Miani, Mastellari knocks but available",
+  "context": "Unbeaten leader v depleted Brindisi; tip 20:45 local (19:45 UTC) matches",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Livorno ML / -6.5; Under lean",
+  "confidence": 0.4,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-della-9-giornata",
+   "https://www.diretta.it/basket/italia/serie-a2/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)",
+   "https://www.lastelladelsudbasketbrindisi.it/new-basket-brindisi/valtur-brindisi-i-disponibili-e-gli-assenti-contro-la-libertas-livorno/10/11/2026/",
+   "https://www.lastelladelsudbasketbrindisi.it/serie-a2/libertas-livorno-valtur-brindisi-lanteprima-del-match/10/11/2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432772",
+  "fx": "Elachem Vigevano 1955 v Pallacanestro Ruvo di Puglia",
+  "home_form": "3-7 L10; home: W Forli 79-74, L Livorno 81-87, L Rieti 64-78",
+  "away_form": "3-7 L10; away: L Forli 71-86, L Mestre 71-93, W Milano 96-88, L Fortitudo 70-92",
+  "scoring_trend": "both ~158",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Lower-mid A2",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-della-9-giornata",
+   "https://www.diretta.it/basket/italia/serie-a2/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432766",
+  "fx": "Real Sebastiani Rieti v Montecatiniterme Basketball",
+  "home_form": "6-4 L10; home 4-0 league: W Cremona 73-65, W Brindisi 70-63, W Pistoia 78-70, W Caserta 81-73",
+  "away_form": "2-8 L10; away: L Torino 48-70, L Avellino 74-85, L Fortitudo 69-91, W Sassari 81-72",
+  "scoring_trend": "Rieti 150 (low PA at home ~68); Montecatini PF 67.1",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Rieti 12 pts v Montecatini 2 pts (bottom)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Rieti ML; Montecatini team total Under; game Under",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-della-9-giornata",
+   "https://www.diretta.it/basket/italia/serie-a2/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73439716",
+  "fx": "Pallacanestro Brescia v Rucker Sanve San Vendemiano",
+  "home_form": "5-5 L10; home: L Siaz 61-80, W Desio 80-62, W Agrigento 85-71, L Lumezzane 70-76",
+  "away_form": "5-5 L10; away: L Ferrara 77-81, W Piacenza 81-77, L Imola 59-61",
+  "scoring_trend": "Brescia 155; SanVe 150",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Serie B Nazionale girone A",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.playbasket.it/serie-b",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73439728",
+  "fx": "Reggio Calabria v Legnano Knights",
+  "home_form": "4-6 L10 (season 3-4); home: L Desio 66-67, L Orzi 68-73, L Fiorenzuola 63-76",
+  "away_form": "6-4 L10; away: L Costa d'Oro 65-75, L Imola 50-55, L Lumezzane 55-57, W Desio 85-52",
+  "scoring_trend": "both ~135 avg total - very low scoring",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Serie B girone A; Reggio 0-3 at home",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Under lean; slight Legnano",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.playbasket.it/serie-b",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73439722",
+  "fx": "Andrea Costa Imola v Siaz Basket",
+  "home_form": "3-7 L10; home: L Fiorenzuola 64-68, W Legnano 55-50, W SanVe 61-59",
+  "away_form": "6-4 L10; away: W Brescia 80-61, L Omegna 74-86, L Desio 72-78",
+  "scoring_trend": "Imola PF 66.8 (138.7 total); Siaz 144",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Serie B girone A",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "slight Siaz; Under lean",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.playbasket.it/serie-b",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73439720",
+  "fx": "Ferrara Basket 2018 v Fortitudo Agrigento",
+  "home_form": "7-3 L10; home 3-0: W SanVe 81-77, W Fiorenzuola 63-61, W Costa d'Oro 76-70",
+  "away_form": "4-6 L10; away: L Treviglio 64-74, L Sangiorgese 76-78, L Brescia 71-85",
+  "scoring_trend": "Ferrara 144.6; Agrigento 152.6",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Ferrara near top of girone A (10 pts)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Ferrara ML; small margins at home so no big handicap",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.playbasket.it/serie-b",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73440358",
+  "fx": "Raggisolaris Faenza v Dany Basket Quarrata",
+  "home_form": "6-4 L10; home: W Avellino SC 79-68, L Ravenna 69-78, W San Severo 90-76",
+  "away_form": "5-5 L10; 3 straight losses; away: L Chiusi 66-93, L Herons 77-80, L Napoli 71-84",
+  "scoring_trend": "Faenza PA 71.2; Quarrata 160",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Serie B girone B",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "slight Faenza",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.playbasket.it/serie-b",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73440366",
+  "fx": "Ravenna Piero Manetti v Virtus Gvm Roma 1960",
+  "home_form": "4-6 L10; home: L Herons 73-79, L San Severo 79-85, W Mens Sana 76-72",
+  "away_form": "8-2 L10 (6-0 league); away: W Pallacanestro Rose 77-69, W Lucca 82-75, W Piombino 81-51",
+  "scoring_trend": "Roma PA 65.0; Ravenna PA 79.6",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Serie B girone B; Roma unbeaten leader",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Virtus Roma away ML",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.playbasket.it/serie-b",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73439730",
+  "fx": "Sangiorgese Basket v Orzibasket",
+  "home_form": "3-7 L10; home: W Vicenza 66-62, W Agrigento 78-76, L Treviglio 73-80",
+  "away_form": "6-4 L10; away: L Piacenza 82-87, W Reggio C 73-68, W Omegna 86-66",
+  "scoring_trend": "Sangiorgese PF 69.3; Orzi PF 84.2",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Serie B girone A; Orzi 10 pts upper table",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Orzi away lean (not >=0.75 confident)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.playbasket.it/serie-b",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73439732",
+  "fx": "Treviglio Brianza Basket v Pallacanestro Vicenza",
+  "home_form": "5-5 L10; home: W Agrigento 74-64, W Costa d'Oro 100-77, L Lumezzane 70-87, L Reggio C 59-70",
+  "away_form": "3-7 L10; away: L Sangiorgese 62-66, L Lumezzane 65-71, L Piacenza 59-91",
+  "scoring_trend": "Treviglio 148; Vicenza PF 67.6 (142)",
+  "h2h": "none this season",
+  "absences": "none found in searches",
+  "context": "Serie B girone A",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Treviglio slight; Under lean",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.playbasket.it/serie-b",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ }
+]

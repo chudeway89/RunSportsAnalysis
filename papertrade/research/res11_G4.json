@@ -1,0 +1,612 @@
+[
+ {
+  "eid": "sr:match:74320744",
+  "fx": "Minas Tenis Clube MG v Unifacisa",
+  "home_form": "Minas Tenis 9/10 last-10 (SR feed), 84.1 for / 68.5 against; A Bauru 77-64 W; A Sesi/Franca 87-76 W; H Brasilia 100-61 W; H Pato 86-65 W; A EC Uniao Corinthians 88-71 W",
+  "away_form": "Unifacisa 6/10 last-10 (SR feed), 80.0 for / 75.2 against; H Corinthians 84-79 W; H Paulistano 71-63 W; A Sao Jose 97-83 W; A Mogi das Cruzes 70-78 L; H Pinheiros 81-65 W",
+  "scoring_trend": "Minas avg total ~153 (allows ~67/game in NBB per preview); Unifacisa scores ~83 in NBB.",
+  "h2h": "Not found for 2026-27.",
+  "absences": "None reported.",
+  "context": "NBB 1st v 2nd: Minas 6-0, Unifacisa 5-1. Wed 19:30 Brasilia. Venue reported variously (Arena MTC / Arena Minas), all Belo Horizonte home.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Minas home strong, elite defence; low total / Unifacisa team-total Under",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.olimpiadatododia.com.br/basquete/772540-minas-unifacisa-nbb-onde-assistir/",
+   "https://minastenisclube.com.br/noticias/lider-do-nbb-caixa-minas-recebe-unifacisa-na-arena-mtc/",
+   "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/minas-vence-bauru-fora-de-casa-e-segue-100-na-lideranca-do-nbb/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72627170",
+  "fx": "BK Decin v BK Pardubice",
+  "home_form": "Decin 6/10 last-10 (SR feed), 82.8 for / 77.7 against; H Usti nad Labem 92-66 W; A SK Slavia Prague 78-89 L; A Srsni Pisek 84-99 L; H NH Ostrava 87-76 W; A Pardubice 82-79 W",
+  "away_form": "Pardubice 5/10 last-10 (SR feed), 83.2 for / 81.0 against; H Opava 99-80 W; A Utena 95-98 L; A Prague 102-85 W; H BK Lokomotiva Plzen 98-74 W; A Usti nad Labem 83-64 W",
+  "scoring_trend": "Both ~161-164 avg totals.",
+  "h2h": "Decin won at Pardubice 82-79 recently (SR).",
+  "absences": "No news found.",
+  "context": "Czech NBL regular season; Pardubice also in European competition (played Utena, Malaga).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73457028",
+  "fx": "US Laval v Pays de Fougeres Basket",
+  "home_form": "US Laval 1/10 last-10 (SR feed), 72.2 for / 85.9 against; A Aurore Vitre Basketball 81-92 L; H Tours Basket 60-82 L; A Etoile Angers 71-70 W; H Union Tarbes Lourdes Pyrenees Basket 77-83 L; A Bordeaux 59-78 L",
+  "away_form": "Pays de Fougeres Basket 4/10 last-10 (SR feed), 71.5 for / 78.6 against; H Bordeaux 75-83 L; A Toulouse BC 71-84 L; H Union Rennes Basket 35 67-89 L; A Aurore Vitre Basketball 92-87 W; A Vendee Challans Basket 61-92 L",
+  "scoring_trend": "Low-scoring teams: Laval 72 for/86 against, Fougeres 71.5/78.6; totals ~150-158.",
+  "h2h": "Not found.",
+  "absences": "No news found (thin coverage).",
+  "context": "France Nationale 1 (3rd tier) - thin league. Laval 1/10.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Laval very poor (1/10); slight Fougeres lean, Under-ish; thin data",
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74236938",
+  "fx": "BC Kormend v Kaposvari KK",
+  "home_form": "BC Kormend 4/10 last-10 (SR feed), 85.3 for / 91.3 against; A Budapesti Honved SE 78-90 L; H Sordogok 81-78 W; H KC Szombathely 79-105 L; A Universitas Pecs 75-88 L; H Ose Lions 92-82 W",
+  "away_form": "Kaposvari 7/10 last-10 (SR feed), 88.0 for / 87.0 against; H Universitas Pecs 97-94 W; A Ose Lions 96-91 W; H Atomeromu 76-95 L; A Alba 85-94 L; H Debreceni EAC 95-90 W",
+  "scoring_trend": "High totals ~175 both sides.",
+  "h2h": "Not found.",
+  "absences": "No news found.",
+  "context": "Hungarian NB I/A regular season. Possible schedule conflict: an MKOSZ page (indexed ~128 days ago, probably last season's calendar) lists Nov 11 18:00 Fot v NKA Pecs and Falco v Honved, which clashes with the Sportradar/SportyBet pairings; SR feed (same provider as SportyBet) confirms the listed pairings at 18:00 CET. Treat as low-grade data_conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Kaposvar slightly better form (7/10); high-scoring, no strong edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://hunbasket.hu/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74236934",
+  "fx": "Falco KC Szombathely v Alba Fehervar",
+  "home_form": "KC Szombathely 8/10 last-10 (SR feed), 91.0 for / 73.5 against; A Sordogok 82-56 W; H AEK Athens 66-72 L; A BC Kormend 105-79 W; H KTE 85-65 W; H Salon Vilpas 85-72 W",
+  "away_form": "Alba 7/10 last-10 (SR feed), 89.6 for / 81.4 against; H Debreceni EAC 93-74 W; A KTE 88-84 W; H Szedeak 93-64 W; A Phoenix MT Fot 67-79 L; H Kaposvari 94-85 W",
+  "scoring_trend": "Falco 91 for / 73.5 against; Alba ~90 for; totals ~165-171.",
+  "h2h": "Not found.",
+  "absences": "No news found.",
+  "context": "Hungarian NB I/A regular season. Possible schedule conflict: an MKOSZ page (indexed ~128 days ago, probably last season's calendar) lists Nov 11 18:00 Fot v NKA Pecs and Falco v Honved, which clashes with the Sportradar/SportyBet pairings; SR feed (same provider as SportyBet) confirms the listed pairings at 18:00 CET. Treat as low-grade data_conflict. Top-of-table clash (Falco 8/10, Alba 7/10). Falco also in European competition (played AEK, Salon Vilpas).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Falco home stronger (big domestic margins); modest home lean",
+  "confidence": 0.2,
+  "sources": [
+   "https://hunbasket.hu/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74236940",
+  "fx": "NKA Universitas Pecs v Phoenix MT Fot",
+  "home_form": "Universitas Pecs 1/10 last-10 (SR feed), 83.5 for / 95.9 against; A Kaposvari 94-97 L; H Budapesti Honved SE 110-120 L; A Sordogok 43-78 L; H BC Kormend 88-75 W; H KC Szombathely 78-106 L",
+  "away_form": "Phoenix MT Fot 4/8 last-8 (SR feed), 79.2 for / 78.8 against; H Ose Lions 82-69 W; H Szolnoki 63-68 L; A Atomeromu 85-108 L; H Alba 79-67 W; A Debreceni EAC 88-81 W",
+  "scoring_trend": "Pecs concede ~96/game; totals ~179 in Pecs games.",
+  "h2h": "Not found.",
+  "absences": "No news found.",
+  "context": "Hungarian NB I/A regular season. Possible schedule conflict: an MKOSZ page (indexed ~128 days ago, probably last season's calendar) lists Nov 11 18:00 Fot v NKA Pecs and Falco v Honved, which clashes with the Sportradar/SportyBet pairings; SR feed (same provider as SportyBet) confirms the listed pairings at 18:00 CET. Treat as low-grade data_conflict. Pecs 1/10.",
+  "veto": false,
+  "veto_reason": "possible home/away conflict from stale MKOSZ calendar (Fot v Pecs) - check before result-side",
+  "lean": "Pecs very weak defensively; Fot side lean / Over, but venue doubt",
+  "confidence": 0.2,
+  "sources": [
+   "https://hunbasket.hu/",
+   "https://www.nemzetisport.hu/kosarlabda/2026/09/ferfi-kosarlabda-nb-i-gyozelemmel-kezdett-a-falco",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74236936",
+  "fx": "Soproni Sordogok v Budapesti Honved SE",
+  "home_form": "Sordogok 5/10 last-10 (SR feed), 82.2 for / 83.5 against; H KC Szombathely 56-82 L; A BC Kormend 78-81 L; H Universitas Pecs 78-43 W; A Ose Lions 84-91 L; H Szolnoki 81-72 W",
+  "away_form": "Budapesti Honved SE 7/10 last-10 (SR feed), 91.7 for / 90.3 against; H BC Kormend 90-78 W; A Universitas Pecs 120-110 W; H Ose Lions 98-100 L; A Szolnoki 80-99 L; A Atomeromu 81-112 L",
+  "scoring_trend": "Honved games avg ~182 total (91.7 for / 90.3 against).",
+  "h2h": "Not found.",
+  "absences": "No news found.",
+  "context": "Hungarian NB I/A regular season. Possible schedule conflict: an MKOSZ page (indexed ~128 days ago, probably last season's calendar) lists Nov 11 18:00 Fot v NKA Pecs and Falco v Honved, which clashes with the Sportradar/SportyBet pairings; SR feed (same provider as SportyBet) confirms the listed pairings at 18:00 CET. Treat as low-grade data_conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no side edge; Honved games run high (Over lean)",
+  "confidence": 0.15,
+  "sources": [
+   "https://hunbasket.hu/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74236942",
+  "fx": "SZTE-Szedeak v Ose Lions",
+  "home_form": "Szedeak 4/10 last-10 (SR feed), 79.1 for / 85.8 against; A Szolnoki 79-88 L; H Atomeromu 69-98 L; A Alba 64-93 L; H Debreceni EAC 91-82 W; A KTE 86-63 W",
+  "away_form": "Ose Lions 5/10 last-10 (SR feed), 89.1 for / 90.8 against; A Phoenix MT Fot 69-82 L; H Kaposvari 91-96 L; A Budapesti Honved SE 100-98 W; H Sordogok 91-84 W; A BC Kormend 82-92 L",
+  "scoring_trend": "Ose Lions games ~180 total; Szedeak ~165.",
+  "h2h": "Not found.",
+  "absences": "No news found.",
+  "context": "Hungarian NB I/A regular season. Possible schedule conflict: an MKOSZ page (indexed ~128 days ago, probably last season's calendar) lists Nov 11 18:00 Fot v NKA Pecs and Falco v Honved, which clashes with the Sportradar/SportyBet pairings; SR feed (same provider as SportyBet) confirms the listed pairings at 18:00 CET. Treat as low-grade data_conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://hunbasket.hu/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74236944",
+  "fx": "Debreceni EAC v Atomeromu SE",
+  "home_form": "Debreceni EAC 2/10 last-10 (SR feed), 83.9 for / 89.1 against; A Alba 74-93 L; H KTE 86-76 W; A Szedeak 82-91 L; H Phoenix MT Fot 81-88 L; A Kaposvari 90-95 L",
+  "away_form": "Atomeromu 8/10 last-10 (SR feed), 97.4 for / 77.4 against; H KTE 112-66 W; A Szedeak 98-69 W; H Phoenix MT Fot 108-85 W; A Kaposvari 95-76 W; H Budapesti Honved SE 112-81 W",
+  "scoring_trend": "Atomeromu 97.4 for / 77.4 against (avg margin +20); DEAC 83.9/89.1.",
+  "h2h": "Not found.",
+  "absences": "No news found.",
+  "context": "Hungarian NB I/A regular season. Possible schedule conflict: an MKOSZ page (indexed ~128 days ago, probably last season's calendar) lists Nov 11 18:00 Fot v NKA Pecs and Falco v Honved, which clashes with the Sportradar/SportyBet pairings; SR feed (same provider as SportyBet) confirms the listed pairings at 18:00 CET. Treat as low-grade data_conflict. Atomeromu 8/10, won last 6 by 19-46 incl. away at Kaposvar and Szedeak; DEAC 2/10.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Atomeromu away strong (ML / handicap)",
+  "confidence": 0.35,
+  "sources": [
+   "https://hunbasket.hu/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75123554",
+  "fx": "KCC Egis v Taipei  Fubon Braves",
+  "home_form": "Egis 5/10 last-10 (SR feed), 91.7 for / 89.4 against; A Sakers 84-74 W; H Hou Chon Sports Club 108-94 W; H Skygunners 105-102 W; H Wonju DB New Generation 90-74 W; A Phoebus 89-96 L",
+  "away_form": "Taipei  Fubon Braves 6/10 last-10 (SR feed), 89.3 for / 86.1 against; A Hou Chon Sports Club 103-89 W; A Taoyuan Pilots 81-107 L; H Taoyuan Pilots 69-72 L; A Taoyuan Pilots 87-78 W; H Taoyuan Pilots 77-84 L",
+  "scoring_trend": "KCC ~181 avg total; Fubon ~175.",
+  "h2h": "Prior meeting reported Nov 5 per EASL preview (unverified result).",
+  "absences": "No news found.",
+  "context": "EASL Group B at Busan Sajik Gymnasium, 10:10 UTC - EARLY tip; likely started/finished before evening posting.",
+  "veto": false,
+  "veto_reason": "tip-off 10:10 UTC - verify not already started before booking",
+  "lean": "no edge; check kick-off status",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.easl.basketball/schedule-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_East_Asia_Super_League",
+   "https://www.sofascore.com/basketball/match/fubon-braves-busan-kcc-egis/RAabsFIgc",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72902578",
+  "fx": "Bahcesehir Koleji v BC Lietkabelis Panevezys",
+  "home_form": "Bahcesehir 8/10 last-10 (SR feed), 92.5 for / 84.4 against; H Merkezefendi Denizli 97-86 W; A Ulm 96-82 W; A Bordo 88-103 L; H PAOK 84-81 W; H Besiktas 100-96 W",
+  "away_form": "Panevezys 5/10 last-10 (SR feed), 78.2 for / 78.7 against; H Rytas Vilnius 85-81 W; H Manresa 66-80 L; H N. Klaipeda 99-79 W; H Ulm 68-86 L; A Gargzdai 80-83 L",
+  "scoring_trend": "Bahcesehir 92.5 for; Panevezys low-scoring 78/79.",
+  "h2h": "Common opponent Ulm: Bahcesehir won at Ulm 96-82; Panevezys lost at home to Ulm 68-86.",
+  "absences": "No specific news (Ponitka feature, no injury note).",
+  "context": "EuroCup RS Round 7.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Bahcesehir home, handicap lean",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-fantasy-round-7-ec2627/",
+   "https://www.euroleaguebasketball.net/en/eurocup/news/mateusz-ponitka-bahcesehir-we-are-growing-as-a-team-on-and-off-the-court/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72902304",
+  "fx": "BC Siauliai v CB 1939 Canarias",
+  "home_form": "Siauliai 4/10 last-10 (SR feed), 83.8 for / 89.1 against; A Kedainiai 83-76 W; A Venezia 77-98 L; H Taurages Taurage 81-91 L; H Maxima Roma 98-93 W; A N. Klaipeda 88-110 L",
+  "away_form": "Canarias 8/10 last-10 (SR feed), 91.9 for / 80.4 against; H Badalona 80-74 W; H Universitatea Cluj 113-73 W; A Coruna 89-93 L; H Venezia 82-80 W; H Obradoiro 106-76 W",
+  "scoring_trend": "Both ~172 avg totals.",
+  "h2h": "Common opponent Venezia: Canarias beat Venezia 82-80, Siauliai lost at Venezia 77-98.",
+  "absences": "None reported.",
+  "context": "EuroCup Round 7; Canarias 8/10.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Canarias away (ML)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-fantasy-round-7-ec2627/",
+   "https://www.flashscore.com/basketball/europe/eurocup/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72902098",
+  "fx": "BC Aris Thessaloniki v Rigas Zelli",
+  "home_form": "Aris 9/10 last-10 (SR feed), 88.1 for / 73.9 against; A AE Doxa Lefkadas 88-77 W; A Hapoel Jerusalem 73-84 L; H Panathinaikos 101-91 W; H Cedevita Olimpija 78-73 W; A AO Mykonoy 88-72 W",
+  "away_form": "Rigas Zelli 7/10 last-10 (SR feed), 85.0 for / 77.4 against; H Taltech 92-66 W; H Le Mans 65-71 L; A BC Kalev 93-87 W; A San Pablo Burgos 79-71 W; H Keila 103-70 W",
+  "scoring_trend": "Both ~162 avg totals, solid defences (Aris 74 against).",
+  "h2h": "Common opps: Aris lost at Hapoel 73-84; Zelli lost at Hapoel 64-100.",
+  "absences": "None reported.",
+  "context": "EuroCup Round 7. Aris 9/10 incl. win v Panathinaikos; Spanoulis calls Zelli one of deepest rosters.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Aris home modest lean; lowish total",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-fantasy-round-7-ec2627/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72902470",
+  "fx": "Niners Chemnitz v Napoli Basket",
+  "home_form": "Niners Chemnitz 6/10 last-10 (SR feed), 91.3 for / 84.1 against; A Vechta 90-99 L; A Buducnost 84-96 L; H Ludwigsburg 94-78 W; H Bourg 96-77 W; A Wurzburg 88-98 L",
+  "away_form": "Napoli Basket 9/10 last-10 (SR feed), 93.1 for / 86.0 against; A B. Scafati 91-89 W; H Trento 90-79 W; H Venezia 99-81 W; A N. Klaipeda 94-85 W; A Derthona Basket 92-90 W",
+  "scoring_trend": "Napoli 93 for / 86 against; Chemnitz 91/84; totals ~175-179.",
+  "h2h": "None found.",
+  "absences": "None reported.",
+  "context": "EuroCup Round 7; Napoli 9/10 (won at Derthona, Klaipeda).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no side edge; Over lean",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-fantasy-round-7-ec2627/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72902100",
+  "fx": "Derthona Basket v Hapoel Jerusalem",
+  "home_form": "Derthona Basket 4/10 last-10 (SR feed), 81.8 for / 84.2 against; H Treviso 87-76 W; A Cedevita Olimpija 71-73 L; A Udine 77-86 L; H Rostock Seawolves 86-83 W; H Napoli Basket 90-92 L",
+  "away_form": "Hapoel Jerusalem 10/10 last-10 (SR feed), 83.7 for / 70.8 against; H Hapoel Haemek 65-59 W; H Aris 84-73 W; H Hapoel Eilat 88-78 W; A Le Mans 90-83 W; A Hapoel Tel-Aviv 70-60 W",
+  "scoring_trend": "Hapoel 83.7 for / 70.8 against.",
+  "h2h": "Common: Hapoel beat Le Mans away 90-83, Aris 84-73, Zelli 100-64.",
+  "absences": "None reported.",
+  "context": "EuroCup Round 7. Hapoel 10/10; Derthona 4/10 (lost home to Napoli).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Hapoel Jerusalem away strong (ML)",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-fantasy-round-7-ec2627/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72902580",
+  "fx": "BC Roma Spqr v Ratiopharm Ulm",
+  "home_form": "BC Roma Spqr 3/10 last-10 (SR feed), 94.7 for / 98.1 against; A Trieste 100-116 L; A PAOK 111-113 L; H B. Scafati 103-90 W; H Bosna Royal 80-85 L; A Varese 103-110 L",
+  "away_form": "Ulm 3/10 last-10 (SR feed), 87.7 for / 90.9 against; A Rostock Seawolves 87-97 L; H Bahcesehir 82-96 L; H Oldenburg 81-65 W; A Panevezys 86-68 W; A Berlin 82-98 L",
+  "scoring_trend": "Roma games avg 192.8 total (95 for / 98 against); Ulm ~179.",
+  "h2h": "None.",
+  "absences": "None reported.",
+  "context": "EuroCup Round 7; both 3/10.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over lean (Roma very high totals); no side",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-fantasy-round-7-ec2627/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72902096",
+  "fx": "Le Mans Sarthe Basket v CB San Pablo Burgos",
+  "home_form": "Le Mans 8/10 last-10 (SR feed), 88.9 for / 79.5 against; A SIG Strasbourg 94-69 W; A Rigas Zelli 71-65 W; H Elan Bearnais Pau 106-97 W; H Hapoel Jerusalem 83-90 L; A Boulazac 97-72 W",
+  "away_form": "San Pablo Burgos 1/10 last-10 (SR feed), 80.3 for / 87.8 against; H Valencia 93-100 L; H Rostock Seawolves 59-86 L; A Madrid 79-90 L; H Rigas Zelli 71-79 L; A Manresa 99-81 W",
+  "scoring_trend": "Le Mans 89 for / 79.5 against.",
+  "h2h": "Common: Le Mans won at Zelli 71-65; Burgos lost home to Zelli 71-79.",
+  "absences": "Burgos without DJ Steward (hamstring).",
+  "context": "EuroCup Round 7. Le Mans 8/10, Burgos 1/10.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Le Mans home strong, handicap",
+  "confidence": 0.4,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-fantasy-round-7-ec2627/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73263140",
+  "fx": "KK Partizan Belgrade v Baskonia Vitoria-Gasteiz",
+  "home_form": "Partizan Belgrade 6/10 last-10 (SR feed), 80.8 for / 78.5 against; H Studentski Centar 92-80 W; H Maccabi Tel-Aviv 88-67 W; H Universitatea Cluj 97-77 W; A Zalgiris 80-87 L; A Lyon-Villeurbanne 75-82 L",
+  "away_form": "Vitoria-Gasteiz 2/10 last-10 (SR feed), 82.2 for / 88.8 against; A Lleida 98-93 W; A Fenerbahce 65-84 L; H Manresa 106-83 W; A Lyon-Villeurbanne 79-94 L; H Madrid 86-104 L",
+  "scoring_trend": "Partizan ~159 avg total; Baskonia concede ~89.",
+  "h2h": "Not checked.",
+  "absences": "Partizan: Kevarrius Hayes out, Derek Willis out (club; Rotowire says could return), Jekiri and Vildoza game-time decisions. Baskonia: Sedekerskis and Marcio Santos out; Damion Baugh doubtful (knock); Kurucs reportedly recovered.",
+  "context": "EuroLeague Round 11, Belgrade 20:45 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Partizan home (Baskonia 2/10, missing frontcourt)",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2033031/injury-report-round-11-partizans-vildoza-jekiri-gtd-hayes-out/",
+   "https://infobae.com/espana/agencias/2026/11/10/baskonia-visita-manana-al-partizan-en-belgrado-con-kurucs-recuperado",
+   "https://www.rotowire.com/euro/news.php?view=injuries",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73263138",
+  "fx": "Paris Basketball v Fenerbahce Istanbul",
+  "home_form": "Paris Basketball 7/10 last-10 (SR feed), 96.6 for / 90.4 against; H Bourg 107-77 W; A Anadolu 95-90 W; A Cholet 90-94 L; H Chalon 116-112 W; A Maccabi Tel-Aviv 99-94 W",
+  "away_form": "Fenerbahce 7/10 last-10 (SR feed), 81.5 for / 74.2 against; A Bursaspor 78-59 W; H Vitoria-Gasteiz 84-65 W; H Tofas Bursa 88-77 W; A Madrid 76-95 L; A Valencia 78-86 L",
+  "scoring_trend": "Paris games avg ~187 (fast pace, 96.6 for); Fenerbahce ~156 (74 against).",
+  "h2h": "Not checked.",
+  "absences": "Paris: Daulton Hommes back after missing R9-10. Fenerbahce: full roster in R10; no official report.",
+  "context": "EuroLeague Round 11, Paris 20:45 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no side edge; pace clash",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2033031/injury-report-round-11-partizans-vildoza-jekiri-gtd-hayes-out/",
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-9-el2526/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74764832",
+  "fx": "Taltech v BC Spartak Pleven",
+  "home_form": "Taltech 5/10 last-10 (SR feed), 72.0 for / 74.9 against; A Rigas Zelli 66-92 L; A AEL Limassol BC 67-74 L; A Keila 79-58 W; H Latvijas U. 78-59 W; A Tartu Ulikool/Maks and Moorits 41-65 L",
+  "away_form": "Spartak Pleven 6/10 last-10 (SR feed), 81.3 for / 76.7 against; H Balkan Botevgrad 71-77 L; A Cherno More 80-74 W; H Rilski 86-70 W; H Zrinjski Mostar 77-74 W; A BK Politehnika Dupnitsa 102-71 W",
+  "scoring_trend": "Taltech low-scoring (72 for, avg total 147).",
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "ENBL group stage; Pleven reported top of Group B (3-1). Nov 11 fixture not confirmed by web (SR lists it).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Pleven slight lean; Under",
+  "confidence": 0.2,
+  "sources": [
+   "https://checklive.com/sport-basketball/international-european-north-basketball-league",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_European_North_Basketball_League",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74764834",
+  "fx": "Donar Groningen v AEL Limassol BC",
+  "home_form": "Groningen 5/10 last-10 (SR feed), 82.1 for / 86.8 against; H Limburg United 73-96 L; A Kk Alkar Sinj 92-80 W; A Zorg En Zekerheid 96-83 W; H Cso Voluntari 90-71 W; A Aalst 90-114 L",
+  "away_form": "AEL Limassol BC 8/10 last-10 (SR feed), 77.7 for / 69.0 against; A Anorthosis Famagusta 82-74 W; H Taltech 74-67 W; H Digenis Akritas Morphou 71-49 W; A Etha Engomis 74-70 W; H Fyllingen Lions 76-58 W",
+  "scoring_trend": "AEL 77.7 for / 69 against (avg total 147); Donar ~169.",
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "ENBL group; Nov 11 date not confirmed by web (SR lists). Donar lost home to Limburg and Charleroi recently.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AEL / Under lean",
+  "confidence": 0.2,
+  "sources": [
+   "https://checklive.com/sport-basketball/international-european-north-basketball-league",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74765628",
+  "fx": "Bristol Flyers v KK Dubrava",
+  "home_form": "Bristol Flyers 5/10 last-10 (SR feed), 76.5 for / 77.6 against; H Surrey 89ers 53-68 L; A Newcastle 81-65 W; H Manchester Basketball 74-78 L; A BK Liepaja 85-72 W; A L. Lions 76-82 L",
+  "away_form": "Dubrava 2/10 last-10 (SR feed), 77.4 for / 87.0 against; H Zabok 81-75 W; A Kvarner 81-95 L; A Mitteldeutscher 78-101 L; H Dubrovnik 80-84 L; A Dinamo Zagreb 62-85 L",
+  "scoring_trend": "Bristol ~154 totals; Dubrava concede 87.",
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "ENBL; fixture confirmed Nov 11 on Eurobasket. Dubrava 2/10.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Bristol home lean",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eurobasket.com/European-North-Basketball-League/basketball.aspx",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73110668",
+  "fx": "SK Slavia Prague v Igokea Aleksandrovac",
+  "home_form": "SK Slavia Prague 6/10 last-10 (SR feed), 93.2 for / 86.1 against; H BK Lokomotiva Plzen 114-82 W; H Decin 89-78 W; A Usti nad Labem 91-89 W; A Opava 121-96 W; A Igokea 72-77 L",
+  "away_form": "Igokea 3/10 last-10 (SR feed), 80.5 for / 84.1 against; A Krka Novo Mesto 67-73 L; A Zenit St. Petersburg 70-91 L; A Cibona 89-69 W; H SK Slavia Prague 77-72 W; H Crvena zvezda 80-81 L",
+  "scoring_trend": "Slavia high-scoring domestically (93 for).",
+  "h2h": "Igokea beat Slavia 77-72 in Round 3 (Laktasi).",
+  "absences": "None found.",
+  "context": "BCL Round 4: Slavia 0-3, Igokea 1-2.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eurohoops.net/en/fiba-champions-league/2026850/bcl-roundup-sabah-defeats-nanterre-for-their-first-victory/",
+   "https://basketballsphere.com/en/fiba-champions-league-26-27-round-3-recap/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73110548",
+  "fx": "BC Rytas Vilnius v Nanterre 92",
+  "home_form": "Rytas Vilnius 7/10 last-10 (SR feed), 85.9 for / 82.5 against; A Panevezys 81-85 L; A Jonava 91-87 W; H Zalgiris 89-94 L; H Trabzonspor 97-81 W; A Utena 94-76 W",
+  "away_form": "Nanterre 6/10 last-10 (SR feed), 86.3 for / 80.3 against; H Chalon 93-81 W; A Bourg 101-98 W; A BK Sabah Baku 80-87 L; H Cholet 86-69 W; A Nancy 65-80 L",
+  "scoring_trend": "Both ~167 totals.",
+  "h2h": "Nanterre beat Rytas 93-65 earlier in BCL.",
+  "absences": "None found.",
+  "context": "BCL Round 4: Rytas 2-1 (per Eurohoops), Nanterre 1-2.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge (Nanterre +points maybe)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eurohoops.net/en/fiba-champions-league/2026850/bcl-roundup-sabah-defeats-nanterre-for-their-first-victory/",
+   "https://www.grandisport24.it/basketball-champions-league-risultati-e-statistiche-nanterre-travolge-i-campioni-del-rytas-murcia-e-bilbao-convincono/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73110604",
+  "fx": "Peristeri Athens v Pallacanestro Varese",
+  "home_form": "Peristeri Athens 6/10 last-10 (SR feed), 82.6 for / 85.5 against; A Rhodes 78-81 L; A Olympiakos Piraeus 62-91 L; A Murcia 80-72 W; H Maroussi 83-81 W; A Panathinaikos 75-95 L",
+  "away_form": "Varese 5/10 last-10 (SR feed), 84.9 for / 84.4 against; H Udine 81-84 L; A Verona 99-88 W; A Bamberg 95-61 W; H BC Roma Spqr 110-103 W; A Trento 85-87 L",
+  "scoring_trend": "Both ~168-169 totals.",
+  "h2h": "Peristeri won at Varese 85-82 (SR).",
+  "absences": "None found.",
+  "context": "BCL Round 4: Peristeri 3-0 (won at Murcia), Varese 1-2 (but beat Bamberg 95-61 away).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Peristeri home slight",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eurohoops.net/en/fiba-champions-league/2026850/bcl-roundup-sabah-defeats-nanterre-for-their-first-victory/",
+   "https://basketballsphere.com/en/fiba-champions-league-26-27-round-3-recap/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73110606",
+  "fx": "UCAM Murcia v Bamberg Baskets",
+  "home_form": "Murcia 5/10 last-10 (SR feed), 87.4 for / 85.8 against; A Madrid 71-90 L; H Lleida 125-98 W; H Peristeri Athens 72-80 L; H Coruna 88-81 W; A Valencia 93-116 L",
+  "away_form": "Bamberg 3/10 last-10 (SR feed), 80.1 for / 86.8 against; A Trier 79-92 L; H Jena 88-78 W; H Varese 61-95 L; A Oldenburg 80-70 W; A Berlin 71-83 L",
+  "scoring_trend": "Murcia ~87 for; Bamberg 80 for / 87 against.",
+  "h2h": "Murcia won at Bamberg 86-67.",
+  "absences": "None found.",
+  "context": "BCL Round 4: Murcia 2-1, Bamberg 0-3 (lost 61-95 home to Varese).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Murcia home strong, handicap",
+  "confidence": 0.4,
+  "sources": [
+   "https://www.eurohoops.net/en/fiba-champions-league/2026850/bcl-roundup-sabah-defeats-nanterre-for-their-first-victory/",
+   "https://basketballsphere.com/en/fiba-champions-league-26-27-round-3-recap/",
+   "https://www.dazn.com/en-US/news/basketball/basketball-champions-league-fixtures-berlin-bilbao-bamberg-nanterre-murcia/r0jimwpfvc7w1l2gey8wll0h7",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75200526",
+  "fx": "Neftchi IK v AO Mykonoy",
+  "home_form": "Neftchi IK 2/10 last-10 (SR feed), 78.1 for / 85.1 against; A Lokomotiv Plovdiv 1926 72-76 L; H CSU Oradea 83-99 L; A Fribourg Olympic 73-78 L; H Vef Riga 94-110 L; A AO Mykonoy 58-78 L",
+  "away_form": "AO Mykonoy 6/10 last-10 (SR feed), 78.0 for / 79.3 against; A Iraklis 2022 64-95 L; H CSU Oradea 89-79 W; H AE Doxa Lefkadas 59-73 L; A Vef Riga 91-88 W; H Aris 72-88 L",
+  "scoring_trend": "Neftchi 78 for / 85 against.",
+  "h2h": "Mykonos beat Neftchi 78-58.",
+  "absences": "None found.",
+  "context": "FIBA Europe Cup Group H; Neftchi 2/10.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Mykonos away lean",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/standings",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108482",
+  "fx": "Korfez Basket v BC Kalev",
+  "home_form": "Korfez 5/10 last-10 (SR feed), 82.5 for / 80.6 against; A Turk Telekom 82-94 L; H Bashkimi 72-62 W; H Trabzonspor 83-89 L; A Valmiera Glass Via 87-85 W; A Anadolu 77-93 L",
+  "away_form": "BC Kalev 5/10 last-10 (SR feed), 85.3 for / 82.8 against; A BK Ogre 88-92 L; A Chalon 74-68 W; H Rigas Zelli 87-93 L; A Manchester Basketball 85-89 L; H Keila Basket 98-77 W",
+  "scoring_trend": "~163-168 totals.",
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "FIBA Europe Cup Group F: Korfez 4-1 (1st), Kalev 3-2 (2nd).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Korfez home slight",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/standings",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75200428",
+  "fx": "CS Dinamo Bucuresti v Basquet Girona",
+  "home_form": "Dinamo Bucuresti 5/10 last-10 (SR feed), 85.3 for / 80.8 against; A Cso Voluntari 97-86 W; A Zielona Gora 93-95 L; H Timisoara 73-67 W; H BK Levicki Patrioti 76-78 L; A BC Oostende 80-84 L",
+  "away_form": "Basquet Girona 7/10 last-10 (SR feed), 92.9 for / 85.2 against; H Bilbao 92-87 W; H BK Levicki Patrioti 90-66 W; A Zaragoza 78-107 L; A Szolnoki 79-81 L; H Badalona 101-87 W",
+  "scoring_trend": "Girona 93 for; Dinamo ~85.",
+  "h2h": "Girona beat Dinamo in the group opener at Fontajau.",
+  "absences": "None found.",
+  "context": "FIBA Europe Cup group; Girona 7/10.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Girona slight lean",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/standings",
+   "https://basquetgirona.com/en/noticia/cs-dinamo-bucuresti-fiatc-gironas-first-european-rival/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108570",
+  "fx": "Lokomotiv Plovdiv 1926 v Vef Riga",
+  "home_form": "Lokomotiv Plovdiv 1926 7/10 last-10 (SR feed), 85.8 for / 80.6 against; H Cherno More 85-69 W; H Neftchi IK 76-72 W; A Rilski 79-88 L; H Fribourg Olympic 95-83 W; H BK Politehnika Dupnitsa 87-65 W",
+  "away_form": "Vef Riga 6/10 last-10 (SR feed), 92.3 for / 84.6 against; A Kk Viimsi 88-104 L; A Fribourg Olympic 97-65 W; H Tartu Ulikool/Maks and Moorits 74-86 L; H AO Mykonoy 88-91 L; A Valmiera Glass Via 97-89 W",
+  "scoring_trend": "VEF ~177 totals; Loko ~166.",
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "FIBA Europe Cup Group H. Loko won 4 of last 4 home games in SR list; VEF lost home to Mykonos.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Loko home slight",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/standings",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108372",
+  "fx": "Nitra Blue Wings v Wilki Morskie Szczecin",
+  "home_form": "Nitra Blue Wings 3/10 last-10 (SR feed), 79.2 for / 88.6 against; H SNV Spisski Rytieri 84-83 W; H Vienna 80-84 L; H Kosice Wolves 84-92 L; H BC Parnu 82-80 W; H BK Levicki Patrioti 73-85 L",
+  "away_form": "Szczecin 8/10 last-10 (SR feed), 86.1 for / 79.6 against; H Czarni Slupsk 105-95 W; A BC Parnu 82-69 W; A PWSZ Gornik Walbrzyc 95-86 W; H Nancy 90-87 W; H Lublin 70-54 W",
+  "scoring_trend": "Szczecin 86 for / 79.6 against.",
+  "h2h": "Common: Nitra lost at Nancy 60-99; Szczecin beat Nancy 90-87.",
+  "absences": "None found.",
+  "context": "FIBA Europe Cup; Szczecin 8/10, Nitra 3/10.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Szczecin away (ML)",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/standings",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108224",
+  "fx": "Promitheas Patras BC v KB Trepca",
+  "home_form": "Promitheas Patras 4/10 last-10 (SR feed), 79.2 for / 84.5 against; H AS Karditsas 73-90 L; H Opava 112-92 W; A Maroussi 76-87 L; A Kk Split 82-88 L; H Olympiakos Piraeus 45-85 L",
+  "away_form": "KB Trepca 8/10 last-10 (SR feed), 84.8 for / 75.2 against; H Rahoveci 029 92-58 W; A Trier 59-96 L; A KB Prishtina 89-79 W; A BC Batumi 2010 91-70 W; H Ylli 100-71 W",
+  "scoring_trend": "Promitheas 79 for / 84.5 against.",
+  "h2h": "Promitheas won at Trepca 91-77 in group opener.",
+  "absences": "None found.",
+  "context": "FIBA Europe Cup; Promitheas 4/10 domestic, Trepca 8/10 (weak Kosovo league).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/standings",
+   "https://promitheasbc.gr/me-to-deksi-sto-fiba-europe-cup-o-promitheas/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75108322",
+  "fx": "SCM Universitatea Craiova v BC Kolossos Rhodes",
+  "home_form": "SCM Univ. Craiova 5/10 last-10 (SR feed), 94.2 for / 96.0 against; H Gence BC 105-96 W; A Sibiu 107-105 W; H Rilski 103-86 W; A Esenler Erokspor 96-118 L; A Arges Pitesti 84-95 L",
+  "away_form": "Rhodes 5/10 last-10 (SR feed), 78.0 for / 75.5 against; H Peristeri Athens 81-78 W; A Rilski 92-70 W; A AS Karditsas 65-81 L; H Esenler Erokspor 69-71 L; H Vikos Falcon BC 80-70 W",
+  "scoring_trend": "Craiova games ~190 total; Rhodes ~153.",
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "FIBA Europe Cup Group C: Kolossos 3-2 (3rd), Craiova 2-3 (4th).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-europe-cup-26-27/standings",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ }
+]

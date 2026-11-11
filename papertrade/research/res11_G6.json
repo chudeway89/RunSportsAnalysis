@@ -1,0 +1,596 @@
+[
+ {
+  "eid": "sr:match:73439726",
+  "fx": "UCC Piacenza v Fulgor Omegna",
+  "home_form": "Piacenza 5-5 last10 but 5-1 this season after loss; 2nd in Girone A (10 pts); won 81-59 @Fortitudo Nov 8",
+  "away_form": "Omegna 2-8 last10; lost 49-81 @Lumezzane Nov 1; away 0-3 this season (62-63, 49-81, 64-85)",
+  "scoring_trend": "Piacenza PF 78.0/PA 75.9 (tot 153.9); Omegna PF 68.2/PA 78.4 (tot 146.6)",
+  "h2h": "none found this season",
+  "absences": "none found",
+  "context": "Serie B Nazionale Girone A midweek round, 20:30 local",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home strong; Piacenza ML/-handicap",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.reggioacanestro.com/b-nazionalelumezzane-capolistae-un-mercoledi-da-leoni/",
+   "https://www.piacenza24.eu/serie-b-fiorenzuola-bees-rotta-sulla-sicilia-mercoledi-la-sfida-allinfodrive-capo-dorlando/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73439724",
+  "fx": "Virtus Lumezzane v Aurora Desio",
+  "home_form": "Lumezzane league leader (12 pts), 8-2 last10, 6 straight wins (many close: 98-95, 77-76, 57-55)",
+  "away_form": "Desio 5-5 last10; 8 pts; away record mixed (W 67-66 @Reggio C, L 62-80 @Brescia, L 67-79 @Legnano)",
+  "scoring_trend": "Lumezzane PF 76.3/PA 71.5 (tot 147.8); Desio PF 72.3/PA 78.4 (tot 150.7)",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Girone A midweek, top v mid-table",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home lean, but Lumezzane wins often narrow; ML not handicap",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.reggioacanestro.com/b-nazionalelumezzane-capolistae-un-mercoledi-da-leoni/",
+   "https://www.piacenza24.eu/serie-b-fiorenzuola-bees-rotta-sulla-sicilia-mercoledi-la-sfida-allinfodrive-capo-dorlando/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73439718",
+  "fx": "Irritec Costa D'Orlando v Pallacanestro Fiorenzuola",
+  "home_form": "Capo d'Orlando 4-3 this season, 3-0 at home (84-63 v Lumezzane, 82-70, 75-65); won 91-85 @Rucker Nov 8 (OT per reggioacanestro)",
+  "away_form": "Fiorenzuola 2-6 this season, away 2-2; lost 95-98 v Lumezzane Nov 8; long trip to Sicily",
+  "scoring_trend": "CdO tot 156.4; Fiorenzuola PF 76.1/PA 76.0",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Girone A midweek, 20:45 Infodrive Arena",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home lean (home 3-0, opponent travelling to Sicily)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.reggioacanestro.com/b-nazionalelumezzane-capolistae-un-mercoledi-da-leoni/",
+   "https://www.piacenza24.eu/serie-b-fiorenzuola-bees-rotta-sulla-sicilia-mercoledi-la-sfida-allinfodrive-capo-dorlando/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73440356",
+  "fx": "Fabriano Basket v Herons Basket Montecatini",
+  "home_form": "Fabriano 7-3 last10, home 2-1 this season (L 84-97 v San Giobbe)",
+  "away_form": "Herons 5 straight wins, all by <=6 except 69-49; away 3-0 this season",
+  "scoring_trend": "Fabriano PF 77.1/PA 75.4; Herons PF 76.9/PA 77.7; totals ~150-155",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Serie B Girone B; tip time not confirmed by web (SR 20:00 UTC)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge (two in-form sides, close games)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.playbasket.it/serie-b",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:72696278",
+  "fx": "Akita Northern Happinets v Ibaraki Robots",
+  "home_form": "Akita 3-7 last10, lost 6 of last 7 incl. 2 home losses to Altiri Chiba; new signing absence hurt v A Chiba (bleague.jp preview)",
+  "away_form": "Ibaraki 8-2 last10, won 4 of 5 away (incl. 69-66 @A Tokyo); played Nov 9 v Okinawa",
+  "scoring_trend": "Akita games tot 182.4 (PA 93.4); Ibaraki PF 86.7/PA 74.6",
+  "h2h": "none found this season",
+  "absences": "Akita new import absence noted earlier (unnamed in result)",
+  "context": "B.Premier midweek round",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "away lean: Ibaraki ML",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bleague.jp/en/media_news/detail/id=667189",
+   "https://basketball.realgm.com/international/league/105/Japanese-BLeague",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:72696282",
+  "fx": "Alvark Tokyo v Nagasaki Velca",
+  "home_form": "Alvark East leader; 6-4 last10; home W 88-67 v San-En, 106-71 & 100-90 v Utsunomiya, L 66-69 v Ibaraki; lost 69-96 @Sendai Nov 6 plus EASL trip to Tainan Nov 4",
+  "away_form": "Nagasaki (2026 champions) 4-6 last10, 3 straight losses incl. 87-107 v Sendai Nov 9; travel Nagasaki->Tokyo",
+  "scoring_trend": "Alvark PF 89.8/PA 82.2; Nagasaki PF 82.3/PA 84.0",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "B.Premier midweek; Alvark also in EASL (busy schedule)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home lean: Alvark ML",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bleague.jp/en/media_news/detail/id=667189",
+   "https://basketball.realgm.com/international/league/105/Japanese-BLeague",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11",
+   "https://www.axs.com/events/1646146/alvark-tokyo-vs-nagasaki-velca-tickets"
+  ]
+ },
+ {
+  "eid": "sr:match:72696286",
+  "fx": "Hiroshima Dragonflies v Sendai 89ERS",
+  "home_form": "Hiroshima 13-1, West 1st (club page); 9-1 last10; many close wins (74-73, 77-75, 80-73)",
+  "away_form": "Sendai 9-1 last10, East 2nd; won 107-87 @Nagasaki Nov 9 and 96-69 v A Tokyo",
+  "scoring_trend": "Hiroshima PF 89.7/PA 81.5; Sendai PF 86.8/PA 77.4; Sendai described as pressure/grind defensive team (Hiroshima preview)",
+  "h2h": "none this season",
+  "absences": "none found; Sendai key players Nathan Boothe #45, Jarrett Culver #8",
+  "context": "top-of-table interconference clash, Hiroshima Green Arena 19:05 JST",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge on side; slight Under (defensive Sendai, grind game)",
+  "confidence": 0.2,
+  "sources": [
+   "https://hiroshimadragonflies.com/lp/game_20261111/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:72696284",
+  "fx": "Kawasaki Brave Thunders v Shimane Susanoo Magic",
+  "home_form": "Kawasaki 2-8 last10, 4 straight losses (scoring 65-76)",
+  "away_form": "Shimane 3-7 last10 but won 108-75 v Toyama Nov 9; away 0-4 in last10",
+  "scoring_trend": "Kawasaki PF 78.2/PA 82.3 (tot 160.5); Shimane tot 167.6",
+  "h2h": "Shimane won 80-69 v Kawasaki Oct 19",
+  "absences": "none found",
+  "context": "two struggling sides",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge (low-scoring Kawasaki, Under slight)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleague.jp/en/media_news/detail/id=667189",
+   "https://basketball.realgm.com/international/league/105/Japanese-BLeague",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:72696276",
+  "fx": "Levanga Hokkaido v San-En NeoPhoenix",
+  "home_form": "Hokkaido 6-4 last10, 4-game win streak (incl. 123-118 v Akita, 85-79 @Kyoto Nov 9)",
+  "away_form": "San-En 7-3 last10 (all on road), lost 67-88 @A Tokyo Nov 8",
+  "scoring_trend": "Hokkaido games avg total 191.6 (PF 96.0, PA 95.6) -- highest pace in sample; San-En tot 166.7",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "bleague.jp preview: Hokkaido aims to show attacking power at home",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "high-scoring Hokkaido: Over lean",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bleague.jp/en/media_news/detail/id=667189",
+   "https://basketball.realgm.com/international/league/105/Japanese-BLeague",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:72696280",
+  "fx": "Utsunomiya Brex v Kyoto Hannaryz",
+  "home_form": "Brex 4-6 last10, PA 87.8; lost twice at A Tokyo by 35/10; won 79-76 v Okinawa Nov 7",
+  "away_form": "Kyoto 4-game losing streak (79-85 v Hokkaido Nov 9)",
+  "scoring_trend": "Brex PF 81.0/PA 87.8; Kyoto PF 83.5/PA 78.3",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "mid-table",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleague.jp/en/media_news/detail/id=667189",
+   "https://basketball.realgm.com/international/league/105/Japanese-BLeague",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:76112414",
+  "fx": "Electra Nsa v Al Riyadi Beirut",
+  "home_form": "Electra 0-3 this season (92-95, 93-96, 78-86)",
+  "away_form": "Al Riyadi 10-0 last10 incl. regional games; won 108-79 and 103-58 in league",
+  "scoring_trend": "Electra PF 88.2/PA 89.4; Riyadi PF 93.6/PA 77.1",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Lebanese league; 2025-26 season had been paused by 2026 war (Wikipedia) -- current season active per SR results; Riyadi FIBA WASL travel",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "away strong: Riyadi ML/-handicap",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.riyadi.com/",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Lebanese_Basketball_League",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:74123864",
+  "fx": "BC Nevezis Kedainiai v Taurages KK",
+  "home_form": "Nevezis 2-8 last10 (lost 76-83 v Siauliai Nov 8)",
+  "away_form": "Taurage 3-7 last10, lost 2 straight",
+  "scoring_trend": "Nevezis PF 78.1/PA 82.6; Taurage PF 79.3/PA 85.7",
+  "h2h": "Taurage won both meetings this season, 80-76 (Oct 24 home) and 81-76 (Oct 7 home)",
+  "absences": "none found",
+  "context": "King Mindaugas Cup first stage; 4 teams (Gargzdai, Nevezis, Taurage, Jurbarkas) fight for one QF ticket -- live stakes; Kedainiu arena 19:00",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge (close H2H, venue swap to Nevezis)",
+  "confidence": 0.15,
+  "sources": [
+   "https://lkl.lt/karaliaus-mindaugo-taure/tvarkarastis",
+   "https://www.lrt.lt/naujienos/sportas/10/3082378/karaliaus-mindaugo-taures-akistatoje-gargzdu-pergale-kedainiuose",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:72672130",
+  "fx": "Fyllingen BK v Froeya Ambassadors",
+  "home_form": "Fyllingen 6-4 last10; also in European competition (lost 93-106 @CSO Voluntari Nov 4); won 116-81 @Tromso Nov 8",
+  "away_form": "Froeya 7-3 last10; beat Kongsberg 99-89 Nov 8",
+  "scoring_trend": "Fyllingen PF 97.6/PA 83.8; Froeya PF 93.1/PA 76.6; BLNO totals high (170-180)",
+  "h2h": "none found this season",
+  "absences": "none found",
+  "context": "top-of-table BLNO clash, Fyllingsdalen 18:00 local",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge on side; high-total league",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fyllingenlions.no/arrangementer",
+   "https://en.visitbergen.com/whats-on/blno-fyllingen-lions-vs-froya-basket-p8544563",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:72672132",
+  "fx": "Kongsberg Miners v TNT Towers",
+  "home_form": "Kongsberg 6-4 last10, home wins by 32 and 43 in Sept; beat Fyllingen 99-67",
+  "away_form": "TNT Towers 0-10, conceding 116.0 per game; losses by 20, 15, 30, 62, 21, 44, 61, 5",
+  "scoring_trend": "Kongsberg PF 94.2; TNT PF 72.9/PA 116.0",
+  "h2h": "Kongsberg should dominate; no direct meeting found",
+  "absences": "none found",
+  "context": "BLNO, 19:00 local; mismatch",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home strong: Kongsberg big handicap / home team total Over",
+  "confidence": 0.4,
+  "sources": [
+   "https://kamper.basket.no/standings?seasonId=201069&tournamentId=449378",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73657544",
+  "fx": "Changwon LG Sakers v Seoul SK Knights",
+  "home_form": "LG 5-7, 7th; allows 89.3 ppg (3rd most); 4-6 last10",
+  "away_form": "SK 6-3, 3rd; 6-4 last10; won 81-65 v Wonju Nov 8",
+  "scoring_trend": "LG PF 86.2/PA 90.7; SK PF 84.8/PA 82.3. LG 11.2 3PM/g (2nd), SK concedes 10.6 3s (4th most)",
+  "h2h": "SK won R1 meeting 86-85 (Oct 24)",
+  "absences": "LG: Carl Tamayo out (ankle). SK: none reported (Jameel Warney, Isaiah Hicks lead)",
+  "context": "KBL R2, Changwon 19:00 KST",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "away lean: SK ML/+ (Tamayo out for LG)",
+  "confidence": 0.25,
+  "sources": [
+   "https://jumpball.co.kr/news/newsview.php?ncode=1065578871679113",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:75388788",
+  "fx": "Incheon Shinhan Bank S-Birds v Yongin Samsung Life Blueminx",
+  "home_form": "Shinhan 2-0 (65-58 v Woori, 68-59 @BNK)",
+  "away_form": "Samsung Life 1-1 (54-65 @Woori)",
+  "scoring_trend": "Low scoring: Shinhan PF 65.6/PA 58.1; Samsung PF 62.7/PA 65.6",
+  "h2h": "Samsung went 6-0 v Shinhan last regular season",
+  "absences": "none found",
+  "context": "WKBL round 1 (opener phase); women's league",
+  "veto": true,
+  "veto_reason": "Women's competition is a hard-excluded class (CLAUDE.md s5); also round-1 opener",
+  "lean": "no edge; excluded",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.topstarnews.net/news/articleView.html?idxno=16273772",
+   "https://basketkorea.com/news/newsview.php?ncode=1065584561745229",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:74267132",
+  "fx": "KK Sencur v KD Ilirija",
+  "home_form": "Sencur 6-4 last10; home 3-0 recent (73-60, 81-71, 96-81)",
+  "away_form": "Ilirija 5-5 last10, plays ABA2 too (L 60-74 v Vienna Nov 7, L 66-77 @Rogaska Nov 4); 3rd game in 8 days",
+  "scoring_trend": "Sencur PF 78.8/PA 79.6; Ilirija PF 78.4/PA 75.9",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Slovenian 1. SKL; Ilirija congested schedule",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "slight home lean, low confidence",
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:74500962",
+  "fx": "Eskilstuna Basket v Norrort Basket",
+  "home_form": "Eskilstuna 5-5 last10; lost 2 straight (72-84, 56-73)",
+  "away_form": "Norrort 4-6 last10; last played Oct 24 (18-day gap)",
+  "scoring_trend": "Both ~166-168 avg totals",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Swedish Superettan (second tier); thin coverage",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge (thin data)",
+  "confidence": 0.1,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:75192244",
+  "fx": "Club Africain v ES Goulette",
+  "home_form": "Club Africain 9-1 last10, avg margin +21.8; home wins 78-59, 96-67, 101-59, 84-46, 72-62",
+  "away_form": "Goulette 6-4; lost 62-104 @Monastir, 60-90 @Kairouan",
+  "scoring_trend": "CA PF 79.6/PA 57.8; Goulette PF 73.8/PA 76.2",
+  "h2h": "none found this season",
+  "absences": "none found",
+  "context": "Pro A; CA reigning champion (2024-25 title)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home strong: Club Africain ML/-handicap",
+  "confidence": 0.35,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Africain_(basketball)",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:75192242",
+  "fx": "Dalia Sportive de Grombalia v CS Hammam Sousse",
+  "home_form": "Grombalia 5-5; home 4-1 (L only v Club Africain)",
+  "away_form": "Hammam Sousse 1-9, scoring 55.0 ppg; away losses by 29, 4, 17, 48, 9",
+  "scoring_trend": "Grombalia tot 144.3; CSHS tot 128.4 (PF 55)",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Pro A; CSHS weakest attack in sample",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home strong; Under lean (CSHS 55 ppg)",
+  "confidence": 0.35,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Africain_(basketball)",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:75192240",
+  "fx": "JS Menazah v US Ansar",
+  "home_form": "Menazah 2-8 (PF 60.4)",
+  "away_form": "Ansar 1-9 (PF 55.5); away 0-6 in last10",
+  "scoring_trend": "Menazah tot 131.7; Ansar tot 125.9 -- both very low scoring",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Pro A bottom clash",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "slow, low-scoring: Under; slight home lean",
+  "confidence": 0.3,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Club_Africain_(basketball)",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:75145468",
+  "fx": "East Texas A&M Lions v Fairleigh Dickinson Knights",
+  "home_form": "ETAMU 2-0 with road wins at Rice 72-71 and Oklahoma 68-64",
+  "away_form": "FDU 1-2: lost 45-120 @Illinois, 65-99 @Butler; won 93-56 v NYU (D3)",
+  "scoring_trend": "ETAMU PF 65.3/PA 70.5 last10; line total 140.5",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Early-season NCAA (Nov), 11:30 local; ETAMU -10.5, ML -629",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home lean ETAMU ML only (no NCAA catches in Nov)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bleachernation.com/picks/2026/11/10/east-texas-am-vs-fairleigh-dickinson-prediction-expert-picks-odds-stats-and-best-bets-wednesday-november-11-2026/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73715332",
+  "fx": "Kansas City Roos v Florida A&M Rattlers",
+  "home_form": "KC 1-3: L 61-79 @Jacksonville Nov 10 (back-to-back), W 100-93 v S Illinois, L 61-76 @Creighton",
+  "away_form": "FAMU 0-4: L 64-92 @UAB Nov 10 (back-to-back), L 70-75 v Fort Valley St (D2)",
+  "scoring_trend": "KC PA 85.2 last10; FAMU tot 145.5",
+  "h2h": "first ever meeting",
+  "absences": "none found",
+  "context": "NEUTRAL site: Showdown in St. Pete, St. Petersburg FL, 11:00 CT; both teams on back-to-back; no lines posted",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge (neutral, both fatigued, no market)",
+  "confidence": 0.1,
+  "sources": [
+   "https://kcroos.com/news/2026/11/10/mens-basketball-roos-open-showdown-in-st-pete-against-florida-am",
+   "https://www.rotowire.com/betting/college-basketball/game/florida-am-vs-um-kansas-city-odds-2026-11-11-3017914",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73835916",
+  "fx": "UAlbany Great Danes v Dartmouth Big Green",
+  "home_form": "Albany 2-1 (L 60-73 v Merrimack Nov 8)",
+  "away_form": "Dartmouth 2-1 (L 71-78 v Central Conn Nov 8)",
+  "scoring_trend": "Albany tot 139.3; Dartmouth tot 149.6",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Broadview Center 1pm ET; leaders Ollie Engen (UA), Cameron McNamee (DART)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://ualbanysports.com/news/2026/11/9/athletic-communications-this-week-in-ualbany-athletics-november-9.aspx",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73497976",
+  "fx": "UC Davis Aggies v Incarnate Word Cardinals",
+  "home_form": "UC Davis 1-1 (L 75-79 v North Alabama)",
+  "away_form": "UIW 0-3: L 60-79 @UTEP, 54-66 v Chicago St, 60-91 @Okla St",
+  "scoring_trend": "UCD PF 74.8; UIW PF 65.4",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Veterans Day 11:11 PT tip; UCD -11.5, total 145.5; one preview predicts upset, conflicting",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home lean UC Davis ML",
+  "confidence": 0.25,
+  "sources": [
+   "https://ucdavisaggies.com/news/2026/11/10/mens-basketball-aggies-close-homestand-against-incarnate-word-on-veterans-day.aspx",
+   "https://www.bleachernation.com/picks/2026/11/10/uc-davis-vs-incarnate-word-prediction-picks-and-betting-odds-wednesday-november-11-2026/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73436286",
+  "fx": "Air Force Falcons v Loyola Chicago Ramblers",
+  "home_form": "Air Force 2-1 (L 71-102 @Wright St; home W 89-82 v Idaho St, 107-55 v Calumet)",
+  "away_form": "Loyola 2-0, both wins by 23-25 (76-53, 77-52)",
+  "scoring_trend": "AF scored 61.5 ppg last season (bottom-5); Loyola tot 133.4 last10; line total 160.5 (Bleacher Nation) vs 154.5 (Scores24) -- line discrepancy",
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Clune Arena; Loyola -9.5, ML -493; Loyola starts Colorado road trip; altitude",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Loyola ML; Under lean (AF slow, Loyola defensive)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bleachernation.com/picks/2026/11/10/loyola-chicago-vs-air-force-prediction-spread-total-points-moneyline-picks-wednesday-november-11-2026/",
+   "https://bvmsports.com/2026/11/10/loyola-chicago-opens-colorado-road-trip-at-air-force-wednesday/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73623724",
+  "fx": "South Florida Bulls v Saint Joseph's Hawks",
+  "home_form": "USF 1-1 (L 80-82 @DePaul); NCAA tournament team last season, new coach Chris Mack",
+  "away_form": "SJU 2-0 (67-57, 82-73)",
+  "scoring_trend": "USF PF 84.4/PA 68.8; SJU PF 71.6/PA 68.6; line 151.5",
+  "h2h": "USF won 75-62 in 2022 (only recent meeting)",
+  "absences": "none found",
+  "context": "NEUTRAL site: Veterans Classic, Alumni Hall, Annapolis, 3pm ET -- 'home' is nominal; USF -7.5",
+  "veto": false,
+  "veto_reason": "Not a veto (settles normally), but no home court: listed home is nominal",
+  "lean": "no edge; picks split (neutral site)",
+  "confidence": 0.15,
+  "sources": [
+   "https://gousfbulls.com/news/2026/6/15/mens-basketball-usf-mens-basketball-to-take-on-st-joes-in-veterans-classic-at-us-naval-academy",
+   "https://www.bleachernation.com/picks/2026/11/10/south-florida-vs-saint-josephs-pa-prediction-spread-total-points-moneyline-picks-wednesday-november-11-2026/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73409100",
+  "fx": "East Carolina Pirates v North Carolina A&T Aggies",
+  "home_form": "ECU 1-1 (L 75-78 v UNCW)",
+  "away_form": "NCAT 1-1 (L 70-80 @Ohio)",
+  "scoring_trend": "ECU PF 79.1/PA 78.7; NCAT PA 79.5; line 151.5",
+  "h2h": "ECU 3-0 all-time incl. 93-69 Nov 2024",
+  "absences": "none found",
+  "context": "Williams Arena 4pm ET; ECU -10.5",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home lean ECU ML",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bleachernation.com/picks/2026/11/10/east-carolina-vs-n-c-at-prediction-picks-and-betting-odds-wednesday-november-11-2026/",
+   "https://blog.youwager.lv/2026/11/10/college-basketball-predictions-november-11-2026/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:74712830",
+  "fx": "San Diego State Aztecs v Bethune-Cookman Wildcats",
+  "home_form": "SDSU 2-0 (77-66 v Colorado, 102-78 v CS Fullerton); Latrell Davis 21.5 ppg",
+  "away_form": "B-CU 0-3, 4th straight road game (L 81-99 @GCU, 58-76 @Texas Tech, 70-79 @Furman)",
+  "scoring_trend": "SDSU PF 78.1; line total 152.5, SDSU -18.5, ML -3333",
+  "h2h": "none found",
+  "absences": "none found; SDSU weakness = turnovers",
+  "context": "Viejas Arena 2pm PT; end of B-CU road swing",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "home very strong: SDSU ML (too short); no catches in Nov",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.si.com/college/san-diego-state/basketball/how-to-watch-san-diego-state-bethune-cookman-basketball-live-stream-game-time-radio",
+   "https://bvmsports.com/2026/11/10/bethune-cookman-visits-2-0-san-diego-state-to-end-road-swing/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73120700",
+  "fx": "Navy Midshipmen v Penn Quakers",
+  "home_form": "Navy 2-1, won 2 straight (102-46 v Central Penn, 66-60 v Delaware St); lost 39-91 @GW",
+  "away_form": "Penn 1-1: W 78-65 v Howard, L 70-112 @Illinois; TJ Power 14.5 ppg",
+  "scoring_trend": "Navy PF 74.1/PA 65.3; line total 148.5",
+  "h2h": "Penn leads 59-27 all-time; Navy won 5 of last 7",
+  "absences": "none found",
+  "context": "Veterans Classic game 2, Alumni Hall 5:30pm ET; Penn ~-10 on the road (both sources agree Penn favoured 9.5-10.5)",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge; Navy home + recent H2H vs Penn favouritism -- avoid",
+  "confidence": 0.15,
+  "sources": [
+   "https://bvmsports.com/2026/11/10/penn-basketball-faces-navy-in-2026-veterans-classic-on-cbs/",
+   "https://www.bleachernation.com/picks/2026/11/10/pennsylvania-vs-navy-prediction-picks-and-betting-odds-wednesday-november-11-2026/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73691702",
+  "fx": "VMI Keydets v North Carolina Central Eagles",
+  "home_form": "VMI 1-2 (L 68-70 @UTSA, 70-95 @SMU); 1-9 last10, lost 19 of last 20 (youwager)",
+  "away_form": "NCCU 0-2 (75-80 @Longwood, 62-78 @Georgia)",
+  "scoring_trend": "VMI PF 74.4/PA 84.3; NCCU tot 145.1",
+  "h2h": "tiny sample",
+  "absences": "none found",
+  "context": "VMI -6.5 (ML -265) but preview picks conflict with own line",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge (data conflict on picks)",
+  "confidence": 0.1,
+  "sources": [
+   "https://blog.youwager.lv/2026/11/10/north-carolina-central-eagles-vs-vmi-keydets-betting-prediction-november-11-2026/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ },
+ {
+  "eid": "sr:match:75452284",
+  "fx": "Defensor Sporting v CS Larranaga",
+  "home_form": "Defensor 1-1 league (W 79-71 v Urunday, L 65-84 @Penarol); also played Liga Sudamericana (L 63-65 Flamengo)",
+  "away_form": "Larranaga 2-3 league per la diaria; won 109-73 v Atenas (Vescovi 24 pts, 10 ast)",
+  "scoring_trend": "Defensor tot 151.5; Larranaga tot 162.5",
+  "h2h": "none found",
+  "absences": "none found; Santiago Vescovi (Larranaga) in form",
+  "context": "LUB round 6, 19:15 Montevideo; standings sources conflict",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://ladiaria.com.uy/deporte/articulo/2026/11/liga-uruguaya-ganaron-larranaga-y-penarol/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-11"
+  ]
+ }
+]

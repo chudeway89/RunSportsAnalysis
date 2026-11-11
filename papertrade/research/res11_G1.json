@@ -1,0 +1,375 @@
+[
+ {
+  "eid": "sr:match:75878960",
+  "fx": "FC Orsha v Bate Borisov",
+  "home_form": "Orsha (Belarus 1st League/2nd tier) last 10: W3 D2 L5, GF15 GA19; home last 5: 3-2 W, 2-3 L, 0-0, 0-3 L, 2-3 L (leaky at home).",
+  "away_form": "BATE last 10 (top flight): W3 D1 L6, GF6 GA14; away last 5: 0-1, 1-2, 0-2, 0-1, 0-2 (lost all 5 away, scored 1).",
+  "goals_trend": "Orsha games 3+ goals in 7/10; BATE games 3+ in 3/10, BATE failed to score in 6/10.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Belarus Cup round of 16 (knockout, settles on 90 min). BATE are cup holders but in very poor league form. Kickoff time conflicts across sources: 365Scores 11:30, Forebet 12:30 and 13:30 (date agrees, 11 Nov).",
+  "veto": false,
+  "veto_reason": "Kickoff-time conflict only (date agrees); flag data_conflict.",
+  "lean": "no edge; BATE favourite on paper but form collapsed (0 away wins in 5); Belarus is a thin Over-1.5 context; at most BATE DNB, low conf",
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo team_lastx (engine/sr.py)",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-belarus/belarusian-cup",
+   "https://www.futbol24.com/team/Belarus/BATE-Borisov",
+   "https://en.wikipedia.org/wiki/Belarusian_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:75607334",
+  "fx": "RCS Onhaye v RSC Habay",
+  "home_form": "Onhaye 11th (~7 pts). Last 10 W3 D1 L6, GF12 GA20; home last 5: 1-0 W, 0-0, 2-4 L, 2-5 L, 0-1 L.",
+  "away_form": "Habay 10th (~9-10 pts). Last 10 W4 D3 L3, GF11 GA12; away last 5: 0-1, 0-3, 0-1, 0-0, 4-3.",
+  "goals_trend": "Onhaye 3+ goals in 7/10; Habay 5/10; Habay away scored 0 in 4 of last 5 away.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Belgian Nationale 1 ACFF (amateur 3rd/4th tier), round 9 catch-up on 11 Nov (Armistice holiday) 14:30 local = 13:30 UTC. Mid/lower-table, nothing big at stake.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no edge (amateur tier: no Unders per rules; Habay weak away attack)",
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo team_lastx (engine/sr.py)",
+   "https://www.walfoot.be/belgique/division-1-acff/calendrier",
+   "https://www.rtbf.be/sport/direct/football/nationale-1/resultats",
+   "https://oddspedia.com/us/soccer/belgium/third-division-group-a"
+  ]
+ },
+ {
+  "eid": "sr:match:76454790",
+  "fx": "Independiente Petrolero v Always Ready",
+  "home_form": "Petrolero last 10 W4 D2 L4, GF13 GA13; home last 5: 0-2 L (Tomayapo), 4-2 W, 4-0 W, 1-0 W, 0-3 L (Bolivar).",
+  "away_form": "Always Ready last 10 W6 D2 L2, GF27 GA13; scored in all 10; away: 4-1 at The Strongest, 3-1 at Vinto, 1-2, 2-2.",
+  "goals_trend": "Always Ready games 3+ goals in 8/10; Petrolero 4/10. Always Ready concede regularly (13 in 10).",
+  "h2h": "Always Ready 2-0 Petrolero (league, 12 Oct 2026).",
+  "absences": "None found; Always Ready played 5 and 7 Nov (3 games in 7 days) - rotation risk in cup.",
+  "context": "Copa Bolivia (cup stage; SR lists round 3). Sucre (Petrolero) ~2,800m altitude. Scores24 preview expects goals (Over 2.5/BTTS). One source gives KO 23:00 UTC vs SportyBet 22:00 - minor time difference.",
+  "veto": false,
+  "veto_reason": "Minor kickoff-time discrepancy (22:00 vs 23:00 UTC); rotation risk for Always Ready.",
+  "lean": "goals lean: Over 1.5 / Always Ready to score; avoid result-side (cup, rotation risk)",
+  "confidence": 0.25,
+  "sources": [
+   "Sportradar gismo team_lastx (engine/sr.py)",
+   "https://scores24.live/en/soccer/m-11-11-2026-independiente-petrolero-always-ready-prediction",
+   "https://www.sofascore.com/football/team/independiente-petrolero/372975",
+   "https://www.365scores.com/football/match/division-profesional-5055/always-ready-independiente-45832-53984-5055"
+  ]
+ },
+ {
+  "eid": "sr:match:76260634",
+  "fx": "FK Sutjeska Foca v FK Leotar Trebinje",
+  "home_form": "Sutjeska 12th. Last 10 W2 D2 L6, GF7 GA18; home: 0-3 L, 2-1 W, 0-0, 1-0 W (failed to score in 5/10 overall).",
+  "away_form": "Leotar 2nd. Last 10 W7 D2 L1, GF22 GA5; away: 0-1 L at Famos, 1-1 Slavija, 2-1 W Romanija, 1-1 Potkozarje, 4-1 W Zvijezda.",
+  "goals_trend": "Leotar concede 0.5/game; Sutjeska score 0.7/game. Sutjeska conceded 6 at Majevica on 4 Nov.",
+  "h2h": "Leotar 2-0 Sutjeska (16 Sep 2026, reverse fixture).",
+  "absences": "None found.",
+  "context": "Prva liga Republike Srpske (regional 2nd tier). Glas Srpske describes this as a postponed (zaostali) catch-up match; Sofascore lists it 11 Nov 12:30 UTC as Round 14. Leotar in title race - must-win.",
+  "veto": false,
+  "veto_reason": "Catch-up fixture; date consistent across Sofascore/SR. Regional tier.",
+  "lean": "Leotar strong: Leotar DNB (away 1X2 below 0.75 threshold likely); Sutjeska team Under 1.5",
+  "confidence": 0.3,
+  "sources": [
+   "Sportradar gismo team_lastx (engine/sr.py)",
+   "https://www.sofascore.com/football/match/fk-sutjeska-foca-fk-leotar-trebinje/UxcsKqk#id:17455392",
+   "https://www.glassrpske.com/lat/sport/fudbal/prva-liga-srpske-leotar-nastavlja-niz/660969"
+  ]
+ },
+ {
+  "eid": "sr:match:68823472",
+  "fx": "Londrina EC PR v Nautico PE",
+  "home_form": "Londrina 18th, relegated 4 rounds ago. Last 10 W1 D2 L7, GF8 GA22; home: 1-3, 1-0 W, 1-3, 0-2.",
+  "away_form": "Nautico 15th, 46 pts, safe, no G6 chance. Last 10 W2 D3 L5, GF8 GA19; away: 0-4, 0-0, 1-1, 0-3.",
+  "goals_trend": "Londrina 3+ goals in 7/10 (mostly conceding); Nautico failed to score in 6/10.",
+  "h2h": "None found for 2026 return.",
+  "absences": "None found.",
+  "context": "Brasileiro Serie B round 38, brought forward to Wednesday; behind closed doors ('estadio vazio'); sources disagree on venue (Vitorino Goncalves Dias vs Jacy Scaff). Dead rubber for BOTH sides.",
+  "veto": true,
+  "veto_reason": "Dead rubber for both (Londrina relegated, Nautico safe), date was moved, venue disagreement, no fans.",
+  "lean": "skip (dead rubber)",
+  "confidence": 0.3,
+  "sources": [
+   "Sportradar gismo team_lastx (engine/sr.py)",
+   "https://www.paranashop.com.br/post/londrina-x-nautico-pre-jogo-quarta-feira-11-11-as-19h",
+   "https://www.parana.jor.br/2026/11/10/londrina-se-despede-da-serie-b-com-estadio-vazio/",
+   "https://www.futebolinterior.com.br/londrina-x-nautico-muda-de-data/",
+   "https://www.spacemoney.com.br/esportes/serie-b-ultima-rodada-cenarios"
+  ]
+ },
+ {
+  "eid": "sr:match:76678982",
+  "fx": "Ypiranga PE v Afogados Ingazeira PE",
+  "home_form": "Ypiranga last 5 (this comp): 2-1 W, 1-1, 1-2 L, 1-0 W, 0-1 L; GF7 GA10 in last 10.",
+  "away_form": "Afogados (finished 3rd in group): last 5: 1-2 L (Salgueiro), 4-0 W, 0-3 L, 2-0 W, 0-1 L.",
+  "goals_trend": "Ypiranga games low-scoring (3+ goals 3/10); Afogados 4/10.",
+  "h2h": "None recent found.",
+  "absences": "None found.",
+  "context": "Campeonato Pernambucano 2026/27 knockout (quarter-final ties set after last round of Turno Forro); Diario de Pernambuco (~9 Nov) said kickoff times and venues were still pending from FPF. Knockout -> settles on 90 min; leg structure not confirmed.",
+  "veto": false,
+  "veto_reason": "Time/venue were TBC per FPF on ~9 Nov; SportyBet lists 18:00 UTC. Verify.",
+  "lean": "no edge (regional knockout; low-scoring but Unders barred in regional comps)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.diariodepernambuco.com.br/esportes-dp/interior/2026/11/11728640-pernambucano-ultima-rodada-do-turno-forro-define-classificados-e-confrontos-das-oitavas.html",
+   "Sportradar gismo team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76600308",
+  "fx": "Central SC PE v Salgueiro AC PE",
+  "home_form": "Central last 5: 2-1 W, 1-2 L, 2-1 W, 3-0 W, 1-0 W (home 3/3 wins).",
+  "away_form": "Salgueiro last 5: 2-1 W at Afogados (to qualify), 2-3 L, 1-1, 0-1 L, 0-0.",
+  "goals_trend": "Central GF9 GA4 in last 5; Salgueiro GF5 GA6.",
+  "h2h": "None recent found.",
+  "absences": "None found.",
+  "context": "Campeonato Pernambucano 2026/27 knockout (quarter-final ties set after last round of Turno Forro); Diario de Pernambuco (~9 Nov) said kickoff times and venues were still pending from FPF. Knockout -> settles on 90 min; leg structure not confirmed.",
+  "veto": false,
+  "veto_reason": "Time/venue were TBC per FPF on ~9 Nov. Verify.",
+  "lean": "Central home strong: Central DNB at most (knockout)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.diariodepernambuco.com.br/esportes-dp/interior/2026/11/11728640-pernambucano-ultima-rodada-do-turno-forro-define-classificados-e-confrontos-das-oitavas.html",
+   "Sportradar gismo team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76678980",
+  "fx": "Facilnet FC PE v Belo Jardim",
+  "home_form": "Facilnet last 5: 0-0, 3-2 W, 3-0 W, 2-1 W, 4-0 W (GF12 GA3, unbeaten).",
+  "away_form": "Belo Jardim last 5: 1-2 L, 1-1, 0-0, 0-0, 4-1 W (draw-heavy).",
+  "goals_trend": "Facilnet scoring 2.4/game; Belo Jardim draws 3 of last 4.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Campeonato Pernambucano 2026/27 knockout (quarter-final ties set after last round of Turno Forro); Diario de Pernambuco (~9 Nov) said kickoff times and venues were still pending from FPF. Knockout -> settles on 90 min; leg structure not confirmed.",
+  "veto": false,
+  "veto_reason": "Time/venue were TBC per FPF on ~9 Nov. Verify.",
+  "lean": "Facilnet favoured: Facilnet DNB (knockout, regional)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.diariodepernambuco.com.br/esportes-dp/interior/2026/11/11728640-pernambucano-ultima-rodada-do-turno-forro-define-classificados-e-confrontos-das-oitavas.html",
+   "Sportradar gismo team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75619152",
+  "fx": "Colombe Sportive Du Dja Et Lobo v Victoria United Limbe",
+  "home_form": "Colombe (2025-26 champions, CAF club comps) last 10 W8 D2 L0, GF21 GA5; home: 2-0, 1-0, 0-0, 7-0, 1-0.",
+  "away_form": "Victoria United (8th last season) last 10 W4 L6, GF11 GA19; away: 0-3, 0-4, 0-1, 1-2, 2-1.",
+  "goals_trend": "Colombe concede ~0.5/game, home clean sheets 4/5; Victoria games 3+ goals 8/10.",
+  "h2h": "Colombe won all 5 meetings since 2024 per AiScore (incl. 3-0 on 31 May 2026, 2-0 earlier).",
+  "absences": "None found.",
+  "context": "Cameroon Elite One 2026-27, early season (league started mid-Oct, ~round 4-5). Fixture confirmed only by a sportsbook listing (17:00 UTC); no official confirmation found.",
+  "veto": false,
+  "veto_reason": "Early-season (near-opener regime); fixture confirmation thin.",
+  "lean": "Colombe home win / Colombe win-to-nil type; home strong",
+  "confidence": 0.3,
+  "sources": [
+   "Sportradar gismo team_lastx (engine/sr.py)",
+   "https://www.aiscore.com/head-to-head/soccer-colombe-du-dja-et-lobo-vs-victoria-utd-limbe",
+   "https://www.camfoot.com/actualites/elite-one-colombe-se-balade-face-a-victoria-united,545445.html",
+   "https://footazimuts.com/elite-one-colombe-dja-lobo-3-0-victoria-united/"
+  ]
+ },
+ {
+  "eid": "sr:match:76174028",
+  "fx": "Envigado FC v Union Magdalena",
+  "home_form": "Envigado last 10 W5 D4 L1, GF13 GA7; played Boca Juniors at home 2-0 on 10 Nov (UTC).",
+  "away_form": "Magdalena last 10 W3 D7 L0, GF12 GA8; played Indep. Valle del Cauca 0-0 on 9 Nov.",
+  "goals_trend": "Both low-scoring: 3+ goals in 1/10 (Envigado), 2/10 (Magdalena); 7 draws for Magdalena.",
+  "h2h": "Magdalena 1-1 Envigado (2 Nov, cuadrangular fecha 2, last-minute equaliser).",
+  "absences": "None found.",
+  "context": "Torneo DIMAYOR (Primera B) 2026-II cuadrangular A. Envigado (1st-half champion) already assured of a place in the promotion final. Envigado's official site lists fecha 5 v Magdalena on 14-15 Nov, time TBD; Envigado just played on 10 Nov, so an 11 Nov 23:00 date is implausible.",
+  "veto": true,
+  "veto_reason": "DATE CONFLICT: Envigado site lists this fixture 14-15 Nov; Envigado played 10 Nov. Also Envigado already in the final (rotation/low stakes).",
+  "lean": "skip (date conflict); if it stands, low-scoring/draw profile",
+  "confidence": 0.2,
+  "sources": [
+   "Sportradar gismo team_lastx (engine/sr.py)",
+   "https://www.envigadofc.co/?lang=en",
+   "https://www.winsports.co/futbol-colombiano/noticias/en-vivo-union-magdalena-vs-envigado-minuto-a-minuto-y-goles-fecha-2-cuadrangulares-475329",
+   "https://www.publimetro.co/deportes/2026/10/25/asi-quedaron-los-cuadrangulares-del-torneo-betplay-2026-union-magdalena-real-cartagena-y-envigado-ya-conocen-sus-rivales/"
+  ]
+ },
+ {
+  "eid": "sr:match:76204162",
+  "fx": "Real Cundinamarca v Real Cartagena FC",
+  "home_form": "Cundinamarca last in group B with 1 pt; scoreless in all 3 cuadrangular games (0-2 Quindio, 0-0 Tigres, 0-1 Cartagena). Last 10 GF7 GA6.",
+  "away_form": "Cartagena 3rd in group (4 pts), 2 behind Quindio; won 1-0 v Cundinamarca 7 Nov (Manotas 69'). Last 10 GF13 GA11; away: 0-0, 1-1, 1-1, 2-2.",
+  "goals_trend": "Cundinamarca 3+ goals in 2/10; Cartagena 4/10. Cundinamarca 0 goals in last 3.",
+  "h2h": "Cartagena 1-0 Cundinamarca (7 Nov).",
+  "absences": "None found.",
+  "context": "Torneo DIMAYOR 2026-II cuadrangular B fecha 4. Cartagena needs a win to stay alive; Cundinamarca nearly out. One source says 11 Nov 23:00 (Cundinamarca home), another article said Cartagena visits 'este martes' (10 Nov).",
+  "veto": false,
+  "veto_reason": "Minor date ambiguity (one source 'Tuesday'); SR/most sources say 11 Nov 23:00 - verify before posting.",
+  "lean": "low-scoring: Under 3.5 / Cundinamarca team Under 1.5; Cartagena DNB weak lean",
+  "confidence": 0.3,
+  "sources": [
+   "Sportradar gismo team_lastx (engine/sr.py)",
+   "https://www.eluniversal.com.co/deportes/2026/11/07/real-cartagena-ante-cundinamarca-en-un-partido-de-vida-o-muerte/",
+   "https://primertiempo.co/real-cartagena/habia-que-ganar-y-se-gano-real-cartagena-derrota-al-cundinamarca-y-revive-en-el-cuadrangular/",
+   "https://www.365scores.com/es/football/match/primera-b-5080/real-cartagena-real-cundinamarca-8635-9835-5080"
+  ]
+ },
+ {
+  "eid": "sr:match:75869416",
+  "fx": "SK Artis Brno v FK Jablonec",
+  "home_form": "Artis (promoted, Chance Liga) last 10 W3 D4 L3, GF15 GA15; home: 1-2 Bohemians, 2-2 Zlin, 3-0 Trencin, 0-0 Liberec, 0-3 Plzen.",
+  "away_form": "Jablonec last 10 W3 D4 L3, GF10 GA14 (incl. European games v Riga, Brighton, Freiburg); away: 1-1 Riga, 2-1 Hradec, 2-3 Freiburg, 1-0 Brno, 1-0 Dukla.",
+  "goals_trend": "Artis games 3+ goals 8/10; Jablonec 4/10.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "MOL Cup round of 16, single leg at ShipEx Arena Brno, 18:00 CET (17:00 UTC). Knockout - settles on 90 min. Jablonec in European competition: rotation risk in cup. Previous round: Artis 2-0 Uhersky Brod, Jablonec 5-0 Horni Redice.",
+  "veto": false,
+  "veto_reason": "Knockout + rotation risk for Jablonec.",
+  "lean": "no edge (knockout, no result-side; Jablonec rotation risk)",
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo team_lastx (engine/sr.py)",
+   "https://isport.blesk.cz/clanek/fotbal-domaci-souteze-pohar-facr/482015/online-artis-jablonec-osmifinale-mol-cupu-uspeji-severocesi-a-postoupi-do-dalsiho-kola.html",
+   "https://www.molcup.cz/vysledky",
+   "https://www.artisbrno.cz/zapasy"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114659905",
+  "fx": "Al Qanater Al Khayreyah Club v El-Obour SC",
+  "home_form": "No data found (SR feed has no record for this id; web shows no 2026-27 Div B results).",
+  "away_form": "No data found.",
+  "goals_trend": "No data found; Egyptian lower tiers are a known low-scoring thin context.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Egypt Second Division B 2026-27 (3rd tier, regional groups). Synthetic SR id - not in Sportradar gismo.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no data - no edge (avoid; Egypt thin context for Overs)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livescores.com/football/egypt/2nd-division-group-b/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114659907",
+  "fx": "Al-Shanwani SC v Nogoom FC",
+  "home_form": "No data found (SR feed has no record for this id; web shows no 2026-27 Div B results).",
+  "away_form": "No data found.",
+  "goals_trend": "No data found; Egyptian lower tiers are a known low-scoring thin context.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Egypt Second Division B 2026-27 (3rd tier, regional groups). Synthetic SR id - not in Sportradar gismo.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no data - no edge (avoid; Egypt thin context for Overs)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livescores.com/football/egypt/2nd-division-group-b/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114661143",
+  "fx": "Biyala SC v Sherbin SC",
+  "home_form": "No data found (SR feed has no record for this id; web shows no 2026-27 Div B results).",
+  "away_form": "No data found.",
+  "goals_trend": "No data found; Egyptian lower tiers are a known low-scoring thin context.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Egypt Second Division B 2026-27 (3rd tier, regional groups). Synthetic SR id - not in Sportradar gismo.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no data - no edge (avoid; Egypt thin context for Overs)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livescores.com/football/egypt/2nd-division-group-b/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114659906",
+  "fx": "Cascada SC v Mustaqbal Sport",
+  "home_form": "No data found (SR feed has no record for this id; web shows no 2026-27 Div B results).",
+  "away_form": "No data found.",
+  "goals_trend": "No data found; Egyptian lower tiers are a known low-scoring thin context.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Egypt Second Division B 2026-27 (3rd tier, regional groups). Synthetic SR id - not in Sportradar gismo.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no data - no edge (avoid; Egypt thin context for Overs)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livescores.com/football/egypt/2nd-division-group-b/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114659903",
+  "fx": "Diamond FC v Gomhoryet Shebin",
+  "home_form": "No data found (SR feed has no record for this id; web shows no 2026-27 Div B results).",
+  "away_form": "No data found.",
+  "goals_trend": "No data found; Egyptian lower tiers are a known low-scoring thin context.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Egypt Second Division B 2026-27 (3rd tier, regional groups). Synthetic SR id - not in Sportradar gismo.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no data - no edge (avoid; Egypt thin context for Overs)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livescores.com/football/egypt/2nd-division-group-b/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114659904",
+  "fx": "Orange Sport FSI v G FC",
+  "home_form": "No data found (SR feed has no record for this id; web shows no 2026-27 Div B results).",
+  "away_form": "No data found.",
+  "goals_trend": "No data found; Egyptian lower tiers are a known low-scoring thin context.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Egypt Second Division B 2026-27 (3rd tier, regional groups). Synthetic SR id - not in Sportradar gismo.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no data - no edge (avoid; Egypt thin context for Overs)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livescores.com/football/egypt/2nd-division-group-b/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114659908",
+  "fx": "Raa SC v Banha",
+  "home_form": "No data found (SR feed has no record for this id; web shows no 2026-27 Div B results).",
+  "away_form": "No data found.",
+  "goals_trend": "No data found; Egyptian lower tiers are a known low-scoring thin context.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Egypt Second Division B 2026-27 (3rd tier, regional groups). Synthetic SR id - not in Sportradar gismo.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "no data - no edge (avoid; Egypt thin context for Overs)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livescores.com/football/egypt/2nd-division-group-b/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075390",
+  "fx": "CD Fuerte San Francisco Morazan v Alianza FC San Salvador",
+  "home_form": "Fuerte SF last 10 W1 D5 L4, GF14 GA19; home: 3-4 L Aguila, 1-2 L Balboa, 2-1 W, 0-3 L Firpo.",
+  "away_form": "Alianza last 10 W3 D4 L3, GF10 GA13; away: 0-2, 0-1, 1-2, 0-0, 1-2 (winless in last 5 away, scored 2).",
+  "goals_trend": "Fuerte SF games 3+ goals 7/10 (both scoring often); Alianza 5/10.",
+  "h2h": "Alianza 2-2 Fuerte SF (24 Sep 2026, Estadio Cuscatlan).",
+  "absences": "None found.",
+  "context": "El Salvador Primera Division Apertura 2026 jornada 20 (late regular season), Estadio Correcaminos, San Francisco Gotera, 21:30 UTC. Alianza playoff position not confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Fuerte SF home leaky; Alianza poor away: no result-side; mild goals lean (BTTS/Over 1.5)",
+  "confidence": 0.2,
+  "sources": [
+   "Sportradar gismo team_lastx (engine/sr.py)",
+   "https://www.sofascore.com/football/match/fuerte-san-francisco-alianza-fc/IMjsFazc",
+   "https://www.fifa.com/en/match-centre/match/ein4fkggto3pdh5msp8huafiq/30t9l739hkqomjqhti9lxg5qs/31aftyvuph3dmetz2vuzn5zis/88ir8hgqifp39q8azxvp39dzo",
+   "https://www.scorebat.com/alianza-vs-fuerte-san-francisco-live-stream/"
+  ]
+ }
+]
