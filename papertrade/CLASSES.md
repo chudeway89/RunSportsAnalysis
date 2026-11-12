@@ -1,49 +1,49 @@
 # Leg-class scorecard (auto)
 
-From `papertrade/legs.jsonl` (2056 unique legs). Expected = house probability at first sighting. A class whose actual win rate sits well below expected over 30+ decided legs is a candidate pick.py gate.
+From `papertrade/legs.jsonl` (2095 unique legs). Expected = house probability at first sighting. A class whose actual win rate sits well below expected over 30+ decided legs is a candidate pick.py gate.
 
 | Class | Split | Decided | W | L | V | Win % | Expected % | Gap (pp) |
 |---|---|---|---|---|---|---|---|---|
-| Over | all | 408 | 291 | 117 | 3 | 71 | 56 | +15 |
-| Over | weekday | 214 | 149 | 65 | 2 | 70 | 56 | +13 |
+| Over | all | 412 | 293 | 119 | 3 | 71 | 56 | +15 |
+| Over | weekday | 218 | 151 | 67 | 2 | 69 | 56 | +13 |
 | Over | weekend | 194 | 142 | 52 | 1 | 73 | 56 | +17 |
 | Under | all | 160 | 113 | 47 | 0 | 71 | 80 | -10 |
 | bball AH catch +2+ | all | 149 | 94 | 55 | 0 | 63 | 58 | +5 |
 | AH catch +1.5 | all | 128 | 91 | 37 | 0 | 71 | 64 | +7 |
-| Over integer | all | 119 | 69 | 50 | 49 | 58 | 53 | +5 |
+| Over integer | all | 121 | 71 | 50 | 49 | 59 | 53 | +5 |
 | team Over | all | 104 | 74 | 30 | 1 | 71 | 49 | +22 |
-| AH catch +0.5-1 | all | 99 | 75 | 24 | 11 | 76 | 67 | +8 |
+| AH catch +0.5-1 | all | 102 | 78 | 24 | 11 | 76 | 68 | +9 |
 | bball AH catch +2+ | weekday | 89 | 54 | 35 | 0 | 61 | 57 | +3 |
 | Under | weekday | 87 | 60 | 27 | 0 | 69 | 80 | -11 |
 | AH catch +1.5 | weekend | 75 | 53 | 22 | 0 | 71 | 61 | +9 |
+| 1X2 Home | all | 74 | 62 | 12 | 0 | 84 | 77 | +6 |
 | Under | weekend | 73 | 53 | 20 | 0 | 73 | 81 | -8 |
-| 1X2 Home | all | 70 | 58 | 12 | 0 | 83 | 77 | +6 |
 | Double Chance | all | 68 | 51 | 17 | 1 | 75 | 74 | +1 |
 | Over integer | weekend | 63 | 41 | 22 | 27 | 65 | 57 | +8 |
 | Under (bball) | all | 62 | 42 | 20 | 0 | 68 | 59 | +9 |
 | bball AH catch +2+ | weekend | 60 | 40 | 20 | 0 | 67 | 60 | +7 |
-| Over integer | weekday | 56 | 28 | 28 | 22 | 50 | 49 | +1 |
+| Over integer | weekday | 58 | 30 | 28 | 22 | 52 | 50 | +2 |
 | team Over | weekday | 56 | 39 | 17 | 1 | 70 | 50 | +19 |
 | AH catch +0.5-1 | weekend | 55 | 38 | 17 | 7 | 69 | 65 | +4 |
 | Double Chance | weekday | 55 | 44 | 11 | 1 | 80 | 77 | +3 |
 | AH catch +1.5 | weekday | 53 | 38 | 15 | 0 | 72 | 68 | +4 |
 | team Over | weekend | 48 | 35 | 13 | 0 | 73 | 48 | +25 |
-| AH catch +0.5-1 | weekday | 44 | 37 | 7 | 4 | 84 | 70 | +14 |
-| GG/BTTS | all | 43 | 29 | 14 | 0 | 67 | 68 | -1 |
+| AH catch +0.5-1 | weekday | 47 | 40 | 7 | 4 | 85 | 71 | +14 |
+| GG/BTTS | all | 44 | 30 | 14 | 0 | 68 | 69 | -0 |
 | AH catch +2+ | all | 42 | 34 | 8 | 6 | 81 | 71 | +10 |
+| 1X2 Home | weekday | 40 | 32 | 8 | 0 | 80 | 76 | +4 |
 | Goal Bounds | all | 39 | 25 | 14 | 0 | 64 | 67 | -3 |
 | Under (bball) | weekend | 38 | 24 | 14 | 0 | 63 | 55 | +8 |
-| 1X2 Home | weekday | 36 | 28 | 8 | 0 | 78 | 75 | +3 |
 | 1X2 Home | weekend | 34 | 30 | 4 | 0 | 88 | 79 | +9 |
 | corners | all | 34 | 26 | 8 | 0 | 76 | 62 | +14 |
 | bball ML | all | 33 | 23 | 10 | 0 | 70 | 72 | -2 |
 | DNB | all | 32 | 26 | 6 | 12 | 81 | 73 | +8 |
 | other m29 | all | 29 | 17 | 12 | 1 | 59 | 43 | +15 |
-| other m858 | all | 28 | 20 | 8 | 1 | 71 | 73 | -2 |
-| GG/BTTS | weekday | 26 | 16 | 10 | 0 | 62 | 70 | -9 |
+| other m858 | all | 29 | 21 | 8 | 1 | 72 | 73 | -1 |
+| GG/BTTS | weekday | 27 | 17 | 10 | 0 | 63 | 71 | -8 |
+| other m59 | all | 27 | 16 | 11 | 0 | 59 | 71 | -12 |
 | Under integer | all | 26 | 24 | 2 | 2 | 92 | 84 | +9 |
 | bball ML | weekday | 26 | 19 | 7 | 0 | 73 | 75 | -2 |
-| other m59 | all | 25 | 15 | 10 | 0 | 60 | 72 | -12 |
 | other m90 | all | 25 | 17 | 8 | 10 | 68 | 77 | -9 |
 | other m90 | weekend | 25 | 17 | 8 | 10 | 68 | 77 | -9 |
 | DNB | weekday | 24 | 19 | 5 | 10 | 79 | 70 | +9 |
@@ -60,7 +60,8 @@ From `papertrade/legs.jsonl` (2056 unique legs). Expected = house probability at
 | GG/BTTS | weekend | 17 | 13 | 4 | 0 | 76 | 65 | +11 |
 | Under integer | weekend | 17 | 15 | 2 | 1 | 88 | 83 | +5 |
 | other m29 | weekday | 17 | 11 | 6 | 1 | 65 | 49 | +15 |
-| other m858 | weekday | 16 | 12 | 4 | 1 | 75 | 74 | +1 |
+| other m858 | weekday | 17 | 13 | 4 | 1 | 76 | 74 | +2 |
+| other m59 | weekday | 14 | 7 | 7 | 0 | 50 | 71 | -21 |
 | Double Chance | weekend | 13 | 7 | 6 | 0 | 54 | 59 | -5 |
 | Over (bball) | all | 13 | 10 | 3 | 0 | 77 | 62 | +15 |
 | bball AH catch +1.5 | weekday | 13 | 10 | 3 | 0 | 77 | 64 | +13 |
@@ -69,7 +70,6 @@ From `papertrade/legs.jsonl` (2056 unique legs). Expected = house probability at
 | other m854 | weekend | 13 | 10 | 3 | 0 | 77 | 74 | +3 |
 | team Under | weekday | 13 | 11 | 2 | 0 | 85 | 89 | -5 |
 | other m29 | weekend | 12 | 6 | 6 | 0 | 50 | 35 | +15 |
-| other m59 | weekday | 12 | 6 | 6 | 0 | 50 | 71 | -21 |
 | other m85 | all | 12 | 6 | 6 | 0 | 50 | 72 | -22 |
 | other m858 | weekend | 12 | 8 | 4 | 0 | 67 | 72 | -5 |
 | other m900069 | all | 12 | 4 | 8 | 0 | 33 | 43 | -9 |

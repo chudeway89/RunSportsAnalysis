@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-12 02:51 UTC. Totals: 9 won · 82 dead · 1 alive · 141 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-12 19:02 UTC. Totals: 9 won · 85 dead · 3 alive · 141 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
@@ -8,7 +8,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 |---|---|---|---|---|---|
 | 1-7 legs | 18 | 6 | 18 | 7.3 | -59% |
 | 8-12 legs | 12 | 3 | 12 | 29.5 | +146% |
-| 13+ legs | 61 | 0 | 61 | 0.0 | -100% |
+| 13+ legs | 64 | 0 | 64 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -238,7 +238,12 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-11 | XFEJDA | SBMT2Z rm-5 (29 legs) | 29 | 21W/8L/0V/0P | DEAD | Tottenham Hotspur FC v Crystal Palace — Over/Under Over 2.5 (4:6); Malmo FF v Ajax Amsterdam — GG/NG Yes (0:2); Heart of Midlothian WFC v Montrose FC — Over/Under Over 3.5 (2:1); Fenerbahce Istanbul v Real Sociedad San Sebastian — 2nd Half - Double Chance Home or Away (0:2); Bourges FC v Hyeres FC — Draw No Bet Away (2:1); At Rafaela Reserve v CA Belgrano — Goal Bounds 2-5+ (1:0); Independiente Petrolero v Always Ready — Both Halves Under 1.5 No (0:0); SK Artis Brno v FK Jablonec — To Qualify Away (2:1) |
 | 2026-11-11 | MX3VQS | SBMT2Z rm-10 (24 legs) | 24 | 17W/7L/0V/0P | DEAD | Tottenham Hotspur FC v Crystal Palace — Over/Under Over 2.5 (4:6); Heart of Midlothian WFC v Montrose FC — Over/Under Over 3.5 (2:1); Fenerbahce Istanbul v Real Sociedad San Sebastian — 2nd Half - Double Chance Home or Away (0:2); Bourges FC v Hyeres FC — Draw No Bet Away (2:1); At Rafaela Reserve v CA Belgrano — Goal Bounds 2-5+ (1:0); Independiente Petrolero v Always Ready — Both Halves Under 1.5 No (0:0); SK Artis Brno v FK Jablonec — To Qualify Away (2:1) |
 | 2026-11-11 | ZGKJA6 | SBMT2Z rm-15 (20 legs) | 20 | 14W/6L/0V/0P | DEAD | Tottenham Hotspur FC v Crystal Palace — Over/Under Over 2.5 (4:6); Heart of Midlothian WFC v Montrose FC — Over/Under Over 3.5 (2:1); Fenerbahce Istanbul v Real Sociedad San Sebastian — 2nd Half - Double Chance Home or Away (0:2); Bourges FC v Hyeres FC — Draw No Bet Away (2:1); At Rafaela Reserve v CA Belgrano — Goal Bounds 2-5+ (1:0); Independiente Petrolero v Always Ready — Both Halves Under 1.5 No (0:0) |
-| 2026-11-12 | M610NX | 10x-thu-11leg | 11 | 0W/0L/0V/11P | ALIVE |  |
+| 2026-11-12 | M610NX | 10x-thu-11leg | 11 | 2W/0L/0V/9P | ALIVE |  |
+| 2026-11-12 | RTWRWW | core-from-H1A8RW | 5 | 1W/0L/0V/4P | ALIVE |  |
+| 2026-11-12 | JRMD7H | edit-of-H1A8RW | 13 | 4W/0L/0V/9P | ALIVE |  |
+| 2026-11-12 | VW6RBF | H1A8RW-rm5 | 34 | 10W/4L/0V/20P | DEAD | Turkiye v Belgium — Home Team Total Corners Over 3.5 (1:2); France v Denmark — Over/Under Over 2.5 (0:1); Italy v Portugal — Over/Under Over 2.5 (1:0); Ghana v Somalia — Both Halves Under 1.5 No (2:0) |
+| 2026-11-12 | ZUE3VU | H1A8RW-rm10 | 29 | 9W/3L/0V/17P | DEAD | Turkiye v Belgium — Home Team Total Corners Over 3.5 (1:2); France v Denmark — Over/Under Over 2.5 (0:1); Italy v Portugal — Over/Under Over 2.5 (1:0) |
+| 2026-11-12 | YQVZ8K | H1A8RW-rm15 | 24 | 8W/1L/0V/15P | DEAD | Turkiye v Belgium — Home Team Total Corners Over 3.5 (1:2) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
