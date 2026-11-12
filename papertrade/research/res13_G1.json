@@ -1,0 +1,423 @@
+[
+ {
+  "eid": "sr:match:74482462",
+  "fx": "Australia v Chinese Taipei",
+  "home_form": "Australia (team view, newest first): W8-7 v Korea (APBC opener 12 Nov, rallied, first-ever APBC win), L2-7 Korea, L3-4 Japan, W5-1 Czechia, W3-0 Chinese Taipei (WBC Mar 2026). 4/10 overall.",
+  "away_form": "Chinese Taipei: L0-5 v Japan (APBC 12 Nov, shut out), then Sep 2026 Asian Games: W5-1 China, L3-7 Japan, W9-1 China, W11-0 HK, W15-0 Thailand, L0-5 Korea. 6/10, but 0 runs in both games v Japan/Korea-level opposition recently.",
+  "goals_trend": "Runs: Aus games avg 8.5, TPE 8.8. TPE scored 0 in 2 of last 3 v top opposition.",
+  "h2h": "Aus beat TPE 3-0 at WBC (Mar 2026); TPE beat Aus 11-3 at Premier12 (Nov 2024).",
+  "absences": "No confirmed TPE starter. WBSC preview: Lin Tzu-Wei, Chen Ke-Yi (Rakuten Monkeys), Hsu Shiang-Sheng (Yakult), Chen Mu-Heng (Orix) expected as starters over the tournament; Australia pitchers incl. Kieren Hall, Ky Hampton, Cooper Morgan (unassigned).",
+  "context": "4-team APBC round robin at Tokyo Dome (neutral), 12-15 Nov; top 2 to final. Short international event = transition-type board (R1). Both teams 1 game in.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Taipei ML @1.40 (p0.68): no confirmed starter (MLB rule needs confirmed starter mismatch), Australia beat TPE 3-0 in March and arrives on a win, TPE bats shut out by Japan. No mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.wbsc.org/en/news/asia-professional-baseball-championship-australia-rally-past-korea-for-historic-first-win-japan-shut-out-chinese-taipei",
+   "https://www.wbsc.org/en/news/asia-professional-baseball-championship-2026-four-teams-ready-for-tokyo-dome-showdown",
+   "https://www.japan-baseball.jp/en/team/topteam/2026/apbc/overview.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74482468",
+  "fx": "Japan v Republic of Korea",
+  "home_form": "Japan: W5-0 v Chinese Taipei (12 Nov), Sep 2026: L1-3 Korea, W7-3 TPE, W5-0 Korea, W7-0 PHI, W15-0 PSE, W11-3 China; Mar: L5-8 Venezuela (WBC), W9-0 CZE, W4-3 AUS. 8/10.",
+  "away_form": "Korea: L7-8 v Australia (12 Nov, upset, bullpen used), Sep: W3-1 Japan, W9-2 China, L0-5 Japan, W18-1 THA, W13-0 HK, W5-0 TPE. 6/10.",
+  "goals_trend": "Japan conceded 0 in last game; Korea leaked 8 to Australia.",
+  "h2h": "Sep 2026 split 1-1 (Japan 5-0, Korea 3-1). Japan won the 2017 and 2023 APBC finals v Korea.",
+  "absences": "Korea starter CONFLICT: WBSC preview named SSG rookie Kim Min-jun; Seoul Economic Daily (12 Nov) says LHP Kim Jin-wook (Lotte). Japan starter not announced in sources.",
+  "context": "Tokyo Dome, Japan effectively at home, 19:00 JST (10:00 UTC, matches board). Korea 0-1 and under pressure after losing to Australia.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Mild lean Japan ML @1.30 (p0.737): home crowd, Korea bullpen taxed after 8-7 loss, Japan shutout form. But starters unconfirmed/conflicting, so MLB rule (confirmed starter mismatch) is NOT met — fill at best, ≤1 per ticket.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.wbsc.org/en/news/asia-professional-baseball-championship-australia-rally-past-korea-for-historic-first-win-japan-shut-out-chinese-taipei",
+   "https://www.wbsc.org/en/news/asia-professional-baseball-championship-2026-four-teams-ready-for-tokyo-dome-showdown",
+   "https://en.sedaily.com/sports/2026/11/12/korea-falls-7-8-to-australia-faces-japan-next",
+   "https://www.koreajoongangdaily.com/sports/rookie-pitcher-kim-minjun-to-start-apbc-opener-in-tokyo/12967437"
+  ]
+ },
+ {
+  "eid": "sr:match:75364728",
+  "fx": "AD Atenas Cordoba v CA San Lorenzo",
+  "home_form": "Atenas (4-2, 5th): home this season L76-79 Comodoro, W95-94 Racing, W80-69 Lanus, W91-86 Ferro; away W91-87 La Banda, L77-83 Quimsa. Home totals 155/189/149/177.",
+  "away_form": "San Lorenzo (2-5, 13th): L42-75 v Corrientes (9 Nov), W70-65 Regatas, L58-80 Platense, L73-78 Obera, L85-92 Penarol, W89-73 Comodoro, L66-84 Central Cordoba. Has not played away yet this season (all 7 at home); 2025-26 road L70-76, L70-80, L66-80.",
+  "goals_trend": "Season totals: Atenas avg ~168 (6 g), San Lorenzo ~147 (7 g; 117,135,138 below 140). Combined 3/13 games under 139.5.",
+  "h2h": "None this season in feed.",
+  "absences": "No named absences found. San Lorenzo scored 42 in last game — form collapse signal.",
+  "context": "Club and Canal Showsport: Thursday 12 Nov 21:00 ART at Estructuras Pretensa Atenas = 00:00 UTC 13 Nov (matches board). 365Scores lists 13 Nov (UTC date) — consistent, not a conflict. Atenas closing a home stand.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Lean Atenas ML @1.26 (p0.765): fixture mismatch — Atenas 3-1 home, San Lorenzo 2-5, first road game, last outing 42 pts. Over 139.5 (p0.807) OK but San Lorenzo's low totals (117/135/138) make it ~house. AVOID Under 163.5 (Atenas home games avg 168).",
+  "confidence": 0.3,
+  "sources": [
+   "https://canalshowsport.com.ar/liga-nacional-de-basquet-atenas-quiere-volver-a-la-senda-del-triunfo/",
+   "https://atenas.com.ar/previa-atenas-vs-san-lorenzo-2/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72016884",
+  "fx": "New Zealand Breakers v Brisbane Bullets",
+  "home_form": "Breakers 3/10: W79-77 @TAS? (team view: L77-79 @TAS), L74-94 @MEL, L101-108 v ADL (home), L84-86 @CNS, L92-98 @TAS, W102-101 @SYD, L84-100 @PER, W88-72 @ADL, W98-75 v CNS. Home: 1-1 in sample.",
+  "away_form": "Bullets 4/10: L92-120 @MEL, W109-104 v PER, W96-89 @ADL? (team view W), L85-107 v CNS, W98-81 @ILL? , L85-106 @TAS, W115-105 v SEM, L91-97 @CNS, L99-109 v TAS, L78-93 @SYD.",
+  "goals_trend": "Breakers totals avg 180 (5/10 under 175: 156,168,160,173,170); Bullets avg 196 (1/10 under 175; 4/10 over 199.5).",
+  "h2h": "No meeting in last 10.",
+  "absences": "Breakers: star PG Parker Jackson-Cartwright OUT for season (tibia stress fracture, 1News 10 Nov); C Charles Bediako game-day decision (back, scan clear). Bullets: Jacob Holt (ankle, R10) and Sam McDaniel (lower leg, R10) out; Max Mackinnon (concussion) listed R9.",
+  "context": "Home game in NZ; Breakers losing their primary creator lowers their scoring.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Lean Under 199.5 (p0.758) / 200.5: Breakers games rarely exceed 200 (2/10) and they lose PJC, their main scorer. AVOID Over 174.5 (half of Breakers games finish ≤173). No ML lean.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.1news.co.nz/2026/11/10/devastating-for-the-club-breakers-dealt-massive-injury-blow/",
+   "https://www.basketball.com.au/news/nbl-injury-report",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72016886",
+  "fx": "Cairns Taipans v Sydney Kings",
+  "home_form": "Taipans 6/10: W100-92 @PER (8 Nov), L95-107 v ILL, L97-113 v MEL, W107-85 @BRI, W86-84 v NZB, L83-115 @SEM. Home 2-2 recent (both losses by 12-16).",
+  "away_form": "Kings 7/10: W110-99 v SEM (8 Nov), W71-68 @TAS, W99-91 @PER, L95-105 @MEL, W108-82 @ILL, W102-81 v PER. Away 4-1 in last 5 road games.",
+  "goals_trend": "Taipans totals avg 194 (8/10 over 179.5, 8/10 under 203.5); Kings avg 187 (7/10 over 179.5, 8/10 under 203.5).",
+  "h2h": "No meeting in last 10.",
+  "absences": "Taipans: Walter Brown OUT both Round 8 games (ankle); Jaylin Galloway OUT (back) until R14. Kings: a calf-injured player returned 8 Nov after 6 games out.",
+  "context": "Regular-season NBL; Kings in form.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Lean Sydney ML @1.28 (p0.753): named Taipans absences (Brown, Galloway) + Kings 4-1 on the road; Taipans lost 2 of last 3 at home by 12+. Totals ~house, no lean.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.basketball.com.au/news/nbl-injury-report",
+   "https://www.taipans.com/news/taipans-injury-update-nbl-round-8",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72653726",
+  "fx": "Kufstein Towers v Swans Gmunden",
+  "home_form": "Kufstein 1/10 (1-7 table, near bottom): L79-97 @Dragonz, L82-94 v Kapfenberg, L83-97 v Wels, L79-111 @Oberwart, L52-79 @Traiskirchen, W102-80 v Vienna, L77-85 @St Polten, L87-96 v Graz. Home 1-3.",
+  "away_form": "Gmunden 8/10 (co-leader): W96-80 v Graz, W86-72 @Vienna, W86-79 @Dragonz, W86-72 v Kapfenberg, W77-76 @St Polten, W79-77 v Wels, W80-75 @Klosterneuburg. Away 4-0 this season.",
+  "goals_trend": "Kufstein totals: 176,176,180,190,131,182,162,183 (8/10 >157.5, 2/10 >182.5); Gmunden totals 153-178 (7/10 >157.5, 9/10 <182.5). Gmunden allows ~77/game.",
+  "h2h": "No meeting this season in feed.",
+  "absences": "No named absences found.",
+  "context": "Gmunden plays top-of-table v Traiskirchen on Sun 15 Nov (slight load-management risk). Tip-time sources differ (Laola1 17:00, win2day 19:00 local; board 17:00 UTC = 18:00 local) — same date, time only.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Lean Gmunden ML @1.18 (p0.817) — strong structural mismatch (1-7 v 8-1-ish, Gmunden 4-0 away) though price is short. Lean Under 182.5 (p0.758): Gmunden games 9/10 under, slow defensive profile. Over 157.5 ok but Kufstein home blowouts can go either way.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "https://www.eurobasket.com/Austria/news/1040659/BSL-Round-9-Regular-Season-Gmunden-keeps-a-leadership-position",
+   "https://matchcenter.laola1.at/Basketball/Oesterreich/Superliga/events",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72653728",
+  "fx": "Eagles Graz v BBC Nord Dragonz",
+  "home_form": "Graz 3/10: L80-96 @Gmunden, W105-83 v St Polten, L77-82 @Wels, L80-93 v Oberwart, W102-94 v Klosterneuburg, L72-96 @Kapfenberg, L82-85 v Traiskirchen. Home 2-2.",
+  "away_form": "Dragonz 5/10: W97-79 v Kufstein, L79-99 @Wels, L79-86 v Gmunden, L69-83 @Traiskirchen, W98-75? (team view L75-98 @Vienna), W93-87 v Oberwart, L88-108 v Kapfenberg.",
+  "goals_trend": "Graz totals 9/10 >160.5, 7/10 <184.5 (188,196,188 over); Dragonz 8/10 >160.5, 8/10 <186.5.",
+  "h2h": "No meeting this season in feed (Apr 2026 not in sample).",
+  "absences": "None found.",
+  "context": "Search did not confirm this 13 Nov fixture (one result lists Dragonz away at Eisenstadt 15 Nov). Sportradar lists it 13 Nov 19:00 CET, not started. Not a positive conflict but unverified.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No fixture-specific evidence; Over 160.5 ~house-supported (17/20 sample games). Flag data_conflict-lite (fixture not confirmed by club/league source). Keep out of cores.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sport.de/basketball/oesterreich-abl/ergebnisse-und-tabelle/",
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72653730",
+  "fx": "SKN St. Polten v Flyers Wels",
+  "home_form": "St Polten 3/10: L81-84 @Kapfenberg, L83-105 @Graz, L54-79 v Oberwart, L69-89 @Klosterneuburg, L76-77 v Gmunden, L73-90 v Traiskirchen, L62-78 @Vienna, W85-77 v Kufstein. Home 1-3.",
+  "away_form": "Wels 4/10 (feed): W76-62 v Vienna, W99-79 v Dragonz, W97-83 @Kufstein, W82-77 v Graz, L77-79 @Gmunden, L61-103 @Traiskirchen, L81-86 v Klosterneuburg, W101-78 @Kapfenberg. Away 2-2.",
+  "goals_trend": "St Polten totals 8/10 >149.5 (133,140 under), 7/10 <173.5; Wels 9/10 >149.5, 6/10 <173.5.",
+  "h2h": "Apr 2026 meetings not in sample.",
+  "absences": "None found.",
+  "context": "Club site confirms home v Raiffeisen Flyers Wels 13 Nov 19:00 at bet-at-home Arena (board 18:00 UTC = 19:00 CET, consistent).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Mild lean Over 149.5 (p0.786): 17/20 sample games over. AVOID Under 173.5 (Wels games 4/10 over 173.5). No ML on board.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.skn-basketball.at/spielplan/",
+   "https://www.skn-basketball.at/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72653732",
+  "fx": "Traiskirchen Lions v Kapfenberg Bulls",
+  "home_form": "Traiskirchen 8/10 (1st, 16 pts): W81-77 @Oberwart? (team view), W91-63 @Klosterneuburg, W83-69 v Dragonz, W79-52 v Kufstein, W90-73 @St Polten, W103-61 v Wels, W85-82 @Graz, W122-37 v Vienna. Home 4-0 this season.",
+  "away_form": "Kapfenberg 8/10 (2nd, 16 pts): W84-81 v St Polten, L87-107 v Mitteldeutscher (ENBL 4 Nov), W94-82 @Kufstein, W101-80 v Vienna, L72-86 @Gmunden, W108-83 v Liepaja (ENBL), W96-75 v Klosterneuburg, W92-80 @Oberwart.",
+  "goals_trend": "Traiskirchen totals 10/10 <176.5 (max 170), 8/10 >152.5. Kapfenberg 10/10 >152.5, 6/10 <176.5 (ENBL games inflate).",
+  "h2h": "Apr 2026: Kapfenberg 83-71 (154) and 92-78 (170) — both under 176.5.",
+  "absences": "None found.",
+  "context": "1st v 2nd top clash, both motivated. Confirmed 13 Nov (Laola1/365scores 18:00 local vs board 18:00 UTC = 19:00 local: time-only discrepancy). Kapfenberg also playing ENBL.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Lean Under 176.5/177.5 (p0.744-0.762): Traiskirchen elite defence, every game ≤170, H2H 154/170. Over 152.5 fine but secondary. No ML.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "https://www.365scores.com/en-uk/basketball/match/superliga-5893/kapfenberg-bulls-traiskirchen-17431-17432-5893",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72653734",
+  "fx": "BC Vienna v BK Dukes Klosterneuburg",
+  "home_form": "Vienna 2/10: L86-101 v Nancy (FIBA Europe Cup, Wed 11 Nov), L60-74 @Ilirija, L62-76 @Wels, L80-84 @Nitra, L72-86 v Gmunden, L81-88 v Bosna, L83-85 v Keravnos, L80-101 @Kapfenberg. Home 0-5 in sample.",
+  "away_form": "Klosterneuburg 2/10 (feed): W85-66? (team view L66-85 @Oberwart), L63-91 v Traiskirchen, W89-69 v St Polten, L75-96 @Kapfenberg, L94-102 @Graz, L75-80 v Gmunden, W86-81 @Wels. Away mixed.",
+  "goals_trend": "Vienna totals 8/10 >148.5, 7/10 <172.5. Klosterneuburg 10/10 >148.5, 8/10 <172.5.",
+  "h2h": "Apr 2026: Klosterneuburg 108-78 at Vienna (186).",
+  "absences": "None named. Vienna on 3rd game in ~7 days (European midweek).",
+  "context": "Fixture not confirmed by search (only via Sportradar 13 Nov 20:00 CET). Vienna fatigue / European schedule.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Mild lean Over 148.5 (p0.796): 18/20 sample games over, Klosterneuburg never under 151. No Under lean.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sport.de/basketball/te35826/bc-vienna/ergebnisse/",
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:74320752",
+  "fx": "Basquete Osasco v Mogi das Cruzes",
+  "home_form": "Osasco 2/10: L81-90 v Sao Jose, L74-89 v Pinheiros, L69-93 @Fortaleza, W96-70 @Unifacisa, L72-93 v Franca (Paulista). Home 0-4 in sample.",
+  "away_form": "Mogi 9/10: L70-85 @Pinheiros (10 Nov), W89-78 v Fortaleza, W82-71/99-97/89-59 (BCLA/Sudamericana home), W78-70 v Unifacisa, L61-79 @Bauru, W90-74 @Franca.",
+  "goals_trend": "Osasco totals 10/10 <174.5 (max 171), 8/10 >150.5. Mogi 9/10 <174.5, 6/10 >150.5 (121,140,148,148 low).",
+  "h2h": "Aug 2026 Paulista: Mogi 89-74 at Osasco (163).",
+  "absences": "None named. Mogi played 10 Nov at Pinheiros (2-day turnaround).",
+  "context": "NBB 5th round, Thu 12 Nov 20h BRT (23:00 UTC, matches board) per LNB table.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Lean Under 174.5/175.5 (p0.741-0.76): 19/20 sample games under, H2H 163. AVOID Over 152.5/153.5 (Mogi low totals).",
+  "confidence": 0.3,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/12/nbb-tem-corinthians-x-pinheiros-e-botafogo-x-franca-em-rodada-de-quatro-jogos",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:74320748",
+  "fx": "Botafogo v Sesi/Franca BC SP",
+  "home_form": "Botafogo 3/10: W77-76 @Brasilia, L80-87 v Uniao Corinthians, W84-82 v Caxias, L88-89 @Pato, L71-81 @Flamengo. Home 1-4.",
+  "away_form": "Franca 5/10: L73-84 @Flamengo (Wed 11 Nov — back-to-back in Rio), W98-77 v Cruzeiro, L76-87 v Minas, L62-65 @Paulistano, L48-78 @Corinthians.",
+  "goals_trend": "Botafogo 9/10 >145.5, 9/10 <169.5. Franca only 6/10 >145.5 (127,126,121,134), 9/10 <169.5.",
+  "h2h": "Apr 2026: Franca 82-78 at Botafogo (160).",
+  "absences": "None named; Franca on 2nd game in 2 days.",
+  "context": "LNB: 12 Nov 20h at Ginásio Oscar Zelaya (23:00 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Lean Under 169.5-171.5 (p0.75-0.786): 18/20 under, Franca fatigued back-to-back, H2H 160. AVOID Over 147.5 (Franca's low-total games).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/12/nbb-tem-corinthians-x-pinheiros-e-botafogo-x-franca-em-rodada-de-quatro-jogos",
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:74320750",
+  "fx": "SC Corinthians v EC Pinheiros SP",
+  "home_form": "Corinthians (2-3, 12th): W75-68 @Fortaleza (9 Nov), L79-84 @Unifacisa, W78-48 v Franca, L92-104 @Brasilia, L73-84 @Mogi.",
+  "away_form": "Pinheiros (12 pts/7 g, 2nd-4th): L70-85 v Mogi (10 Nov), W103-87 v Sao Jose, W91-53 v Caxias, W89-74 @Osasco, W75-63 v Uniao, L63-98 @Fortaleza, L65-81 @Unifacisa.",
+  "goals_trend": "Volatile: Corinthians 6/10 >147.5, 6/10 <171.5; Pinheiros 6/10 >147.5, 8/10 <171.5.",
+  "h2h": "Sep 2026 Paulista: 82-65, 96-91, 87-79 (147/187/166).",
+  "absences": "None named.",
+  "context": "Confirmed Thu 12 Nov 20h, Ginásio Wlamir Marques (23:00 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No lean — totals bimodal for both sides. Skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.meutimao.com.br/noticias-do-corinthians/543919/corinthians-recebe-o-pinheiros-e-visa-emendar-primeira-sequencia-positiva-neste-nbb-saiba-tudo",
+   "https://www.infotimao.com.br/post/corinthians-x-pinheiros-onde-assistir-nbb-2026-27",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72663210",
+  "fx": "Holbaek-Stenhus v Copenhagen Basketball",
+  "home_form": "Holbaek 4/10: L78-80 @Vejen, W84-81 @Gladsaxe, L75-105 v Bakken, W68-64 @Vaerlose, L83-97 @Horsens, W88-67 v Bears(Horsens?), W80-77 v Herlev. Home 2-2.",
+  "away_form": "Copenhagen 5/10: L90-96 v Randers, W93-67? (team view) @Herlev, L98-103 v Svendborg, W97-96 v Vejen, W78-66? @Bears, L69-80 v Horsens.",
+  "goals_trend": "Holbaek 9/10 >153.5, 7/10 <177.5; Copenhagen 7/10 >153.5, 7/10 <177.5.",
+  "h2h": "None in sample.",
+  "absences": "None found.",
+  "context": "Sofascore/Eurobasket: 13 Nov 17:30 UTC, Round 11 (matches board). Venue naming differs (Stenhus Gymnasium vs Holbaek Sportsby) — same town, home side unchanged.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No fixture-specific lean; totals ~house. Skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/basketball/match/holbaek-stenhus-bc-copenhagen/JOHbsKFDd",
+   "https://basketball.eurobasket.com/team/EBS-Holbaek-Stenhus/6684/Games",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72663212",
+  "fx": "BK Vejen81 v Bakken Bears",
+  "home_form": "Vejen 3/10: W80-78 v Holbaek, L66-102 v Horsens, L96-97 @Copenhagen, L82-107 v Naestved, L72-89 v Gladsaxe, W92-80 v Vaerlose. Home 2-4.",
+  "away_form": "Bakken 8/10: @Benfica (BCL, Wed 11 Nov), W80-77 @Naestved, L76-80 @Merkezefendi (BCL), W105-75 @Holbaek, L78-83 @Prievidza, W105-67 v Herlev.",
+  "goals_trend": "Vejen 7/10 >165.5, 8/10 <189.5. Bakken 6/10 >165.5, 9/10 <189.5 (BCL games low).",
+  "h2h": "Bakken won 92-60 at Vejen (Sep 2026) and 91-80 (Apr) — totals 152/171.",
+  "absences": "None named; Bakken travelling back from Lisbon (Champions League) 2 days earlier — rotation/fatigue risk.",
+  "context": "Club site: Fri 13 Nov 19:00 Vejen Idraetscenter (18:00 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Lean Under 189.5/190.5 (p0.751-0.77): 17/20 under, H2H 152/171, Bakken tired. AVOID Over 167.5/168.5 (H2H 152; Bakken 4/10 under 165.5).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bakkenbears.com/kampe/",
+   "https://www.sofascore.com/basketball/match/bk-vejen-bakken-bears/AbtskPJc",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72686164",
+  "fx": "Honka Espoo v Bisons Loimaa",
+  "home_form": "Honka 7/10: L78-119 @Karhu, W94-91 v Seagulls, W119-105? (team view) @KTP, L94-96 v Kipina, L100-109? @Kipina, W100-86 v Lahti, W97-96 v Pyrinto, W99-91 v Kouvot. Home 4-1.",
+  "away_form": "Bisons 2/10: L74-106 v KTP (11 Nov), W89-84? @Pyrinto, L90-93 v Lahti, L73-96 v Kipina, L78-90 @Korihait, W100-88 v Korihait, L70-81 v Vilpas, L56-84 @Seagulls. Away 1-3 this season.",
+  "goals_trend": "Honka games avg 199; Bisons avg 165.",
+  "h2h": "None in sample.",
+  "absences": "None named. Bisons played Wed 11 Nov (lost by 32).",
+  "context": "Official schedule: Fri 13 Nov 18:30 at Tapiolan Liikuntahalli (16:30 UTC, matches board), round 11.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Lean Honka ML @1.26 (p0.759): Honka 4-1 home, Bisons 2/10 and just lost by 32 two days earlier.",
+  "confidence": 0.3,
+  "sources": [
+   "https://basket.fi/wp-content/uploads/2026/07/2026-2027-Sarjaohjelma-Korisliiga-VAHVISTETTU-260708.pdf",
+   "https://www.suomikoris.com/korisliigan-otteluohjelma/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:74295750",
+  "fx": "Elan Bearnais Pau-Lacq-Orthez v SIG Strasbourg",
+  "home_form": "Pau 5/10: W106-97 @ASVEL, L87-93 @Antibes?, W106-97 @Le Mans, W85-81 v Limoges, W102-89 v St Quentin, L61-89 v Dijon. Home 2-1.",
+  "away_form": "Strasbourg 6/10: L69-94 v Le Mans (8 Nov), W95-70 v Cibona (BCL), W88-82 v Cholet, L94-98 @St Quentin, W106-79 @Chalon, L77-83 @Galatasaray (BCL).",
+  "goals_trend": "Pau 7/10 >158.5, 7/10 <182.5 (203,203,191 high). Strasbourg 9/10 >158.5, 8/10 <182.5.",
+  "h2h": "None in sample (also drawn together in Coupe de France last 16, date tbc).",
+  "absences": "Pau: Fabio Milanese knee injury v ASVEL — exams 9 Nov found no serious lesion, availability uncertain. Strasbourg recently signed a centre (bebasket).",
+  "context": "Betclic Elite J8, Fri 13 Nov 20:00 Palais des Sports de Pau (19:00 UTC, matches board; SIG calendar confirms). Not the Coupe de France tie.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No strong lean. Over 158.5 (p0.781) mildly supported (16/20) but Pau has three sub-157 games. Skip or fill only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sigstrasbourg.fr/calendrier",
+   "https://www.bebasket.fr/l-elan-bearnais-respire-plus-de-peur-que-de-mal-pour-fabio-milanese-apres-sa-blessure-contre-l-asvel",
+   "https://www.sofascore.com/basketball/match/sig-strasbourg-elan-bearnais-pau-lacq-orthez/IvbsKvb",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73456680",
+  "fx": "Charleville-Mezieres v Lyon (LyonSO)",
+  "home_form": "Charleville 3/10: W88-72 @Val de Seine, L78-103 v Salon, L82-88 @Orchies, W76-67 v Berck, L71-86 v St-Chamond, L79-87 @Besancon, L90-97 v Mulhouse, L58-78 v St Vallier. HOME 1-4 this season.",
+  "away_form": "LyonSO 3/10: L65-92 v Loon Plage, L77-104 @St Vallier, L79-86 @Val de Seine, L55-91 @Boulogne, L62-78 v Salon, L60-67 v Berck, W100-57 @Orchies. Away 1-3 (lost by 27/7/36).",
+  "goals_trend": "Charleville avg total 165, Lyon 152.",
+  "h2h": "None in sample.",
+  "absences": "None found.",
+  "context": "NM1 J11 Fri 13 Nov 20:00 La Guinguette Arena (19:00 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Charleville ML @1.25 (p0.767): Charleville only 1-4 at home; both sides 3/10. House p looks rich vs fixture form. No mechanism.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ici.fr/grand-est/ardennes-08/charleville-mezieres/nationale-masculine-1-de-basketball-charleville-mezieres-lyon-1036639",
+   "https://nm1.ffbb.com/saison-reguliere/calendrier/2026-11-13/2026",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73456682",
+  "fx": "Mulhouse Basket Agglomeration v Pays Salonais Basket 13",
+  "home_form": "Mulhouse 5/10: W84-69 @Boulogne, L62-71 v Berck, W89-67 v Besancon, W83-63 v Orchies, W73-71 v St Vallier, W97-90 @Charleville. Home 4-1 this season (3 wins by ≤2 or 20+).",
+  "away_form": "Salon 4/10: L72-78 v St Vallier, W103-78 @Charleville, L73-89 v Loon Plage, W79-63 v Val de Seine, W78-62 @Lyon, L79-85 @Orchies, L64-84 @Berck. Away 2-2.",
+  "goals_trend": "Mulhouse avg 152, Salon 157.",
+  "h2h": "None in sample.",
+  "absences": "None found.",
+  "context": "NM1 J11 Fri 13 Nov 20:00 (19:00 UTC). Venue differs between sources (Palais des Sports Gilbert-Buttazzoni per club vs Gymnase de la Doller per FFBB) — both in Mulhouse, home side unchanged; not a veto.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No strong lean; Mulhouse ML @1.22 (p0.787) is plausible (4-1 home) but Salon has 2 road wins incl. by 25 at Charleville. Fill only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://mulhouse-mustangs.fr/",
+   "https://nm1.ffbb.com/saison-reguliere/calendrier/2026-11-13/2026",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73457038",
+  "fx": "Toulouse BC v C Chartres BM",
+  "home_form": "Toulouse 6/10: W91-77 @Laval, W84-71 v Fougeres, W79-74 v Vitre, L67-72 @Bordeaux, W83-57 v Lorient, L88-99 v Limoges, W90-89 @Angers. Home 5-2.",
+  "away_form": "Chartres 4/10: L73-76 v Vitre (6 Nov), W83-78 @Bordeaux, W91-90 v Lorient, L73-98 @Tours, W67-62 v Angers, W80-74? (team view L74-80 @Tarbes). Away 1-3.",
+  "goals_trend": "Toulouse avg 162, Chartres 162.",
+  "h2h": "None in sample.",
+  "absences": "None found.",
+  "context": "NM1 J11 Fri 13 Nov 20:30 Palais des Sports André Brouat (19:30 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Mild lean Toulouse ML @1.21 (p0.795): 5-2 home, 3 straight wins; Chartres 1-3 away and lost at home last time. Price short.",
+  "confidence": 0.25,
+  "sources": [
+   "https://metropole.toulouse.fr/agenda/toulouse-basketball-club-chartres",
+   "https://nm1.ffbb.com/saison-reguliere/calendrier/2026-11-13/2026",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72658482",
+  "fx": "BG Gottingen v ETB Miners Essen",
+  "home_form": "Gottingen (6:8 pts, ~9th): L69-78 @Tubingen, W107-86 v Koblenz, L76-80 @Heidelberg, W95-74 v Nuremberg, W100-93 @Bochum, L62-89 v Wolmirstedt, L80-83 v Cologne. Home 2-2 (won last 2 home by 21).",
+  "away_form": "Essen (2-6/2:12, 17th-18th): W86-65 v Orange Academy, L91-103 @Wolmirstedt, L99-103 v Kirchheim, L94-97 @Bremerhaven, W95-86 v Karlsruhe, L85-91 v Cologne, L74-118 @Heidelberg. AWAY 0-3.",
+  "goals_trend": "Gottingen avg 169; Essen 176 (Essen concedes ~95).",
+  "h2h": "None in sample.",
+  "absences": "None found.",
+  "context": "ProA ST9, 13 Nov 19:00 at Gottingen (18:00 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Lean Gottingen ML @1.26 (p0.755): Essen bottom-two and 0-3 on the road (lost by 12/3/44); Gottingen won last two home games by 21.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.2basketballbundesliga.de/spielplan/",
+   "https://www.sport.de/basketball/deutschland-pro-a/ergebnisse-und-tabelle/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72658492",
+  "fx": "Giessen 46ers v Nuremberg Falcons BC",
+  "home_form": "Giessen (8:6, 6th): L65-76 @Heidelberg, W93-82 v Tubingen, L68-83 @Koblenz, L76-78 v Cologne, W83-76 @Crailsheim, W94-78 v Bochum, W73-61 @Wolmirstedt, W91-87 v Artland. Home 3-1.",
+  "away_form": "Falcons (8:8, 8th): L68-70 v Wolmirstedt, L75-82 @Bremerhaven, W112-87 @Cologne, W84-77 v Artland, L74-95 @Gottingen, L65-92 v Kirchheim, L61-86 @Tubingen, W83-79 @Karlsruhe. Away 2-3.",
+  "goals_trend": "Giessen avg 158, Falcons 161.",
+  "h2h": "None in sample.",
+  "absences": "None found.",
+  "context": "ProA ST9, 13 Nov 20:00 Sporthalle Giessen-Ost (19:00 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Weak lean only: Giessen ML @1.23 (p0.774) consistent with 3-1 home, but teams are 2 pts apart in table and Falcons won at Cologne by 25. House p looks rich; fill at most.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.2basketballbundesliga.de/spielplan/",
+   "https://www.kicktipp.de/pro-a/tabellen",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ }
+]

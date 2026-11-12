@@ -1,0 +1,514 @@
+[
+ {
+  "eid": "sr:match:72704682",
+  "fx": "Canberra Capitals v Townsville Fire",
+  "home_form": "Capitals 3-1 in 2026-27 WNBL: W 97-83 at Bendigo (7 Nov), W 77-68 at Venom, L 70-82 at Sydney, W 94-92 vs Bendigo (home).",
+  "away_form": "Fire (2025-26 champions) 4-2: W 80-67 at Venom, W 99-86 vs Perth, W 91-68 at Bendigo, L 77-90 vs Sydney, W at Adelaide, L 83-86 at Perth.",
+  "goals_trend": "Totals mostly 150-180. Fire win margins 13/13/23/18.",
+  "h2h": "Fire beat Capitals 78-62 in Jan 2026. The Capitals missed the 2025-26 Finals.",
+  "absences": "No injury news found.",
+  "context": "Women's league. Fixture confirmed Sun 15 Nov at AIS Arena, Canberra (listed as 3:00 PM local; UTC 04:00 matches).",
+  "veto": true,
+  "veto_reason": "Women's competition is a hard-excluded class (CLAUDE.md \u00a75). Away ML at p0.754 is also marginal against a Capitals side in form.",
+  "lean": "Avoid 219 Away.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.austadiums.com/sport/teams/townsville-fire",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72704682",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/122098/12"
+  ]
+ },
+ {
+  "eid": "sr:match:72627096",
+  "fx": "Basket Brno v BK Pardubice",
+  "home_form": "Brno has won 4 of its last 5 at home: W 82-64 Hradec Kralove, W 81-76 Olomoucko, L 82-95 Pisek, W 91-80 Prague. It also won 75-72 at Opava.",
+  "away_form": "Pardubice is 6-4 in its last 10 (with ENBL games): W 81-75 at Decin (Wed 11 Nov), W 99-80 Opava, W 102-85 at Prague, L 95-98 at Utena (ENBL). It lost 79-82 at home to Decin.",
+  "goals_trend": "Pardubice's games are typically 160-180 total.",
+  "h2h": "No recent H2H found.",
+  "absences": "No news found.",
+  "context": "Pardubice also plays the ENBL and played on Wednesday 11 Nov. Brno's home record is solid.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Avoid 219 Away at p0.751. Brno's home form makes this a credible-receiver spot. Only Sportradar form is available, with no news.",
+  "confidence": 0.15,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72627096",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/7833/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/7839/12"
+  ]
+ },
+ {
+  "eid": "sr:match:72686166",
+  "fx": "Kouvot Kouvola v Salon Vilpas Vikings",
+  "home_form": "Kouvot is 2-8 in its last 10, with 4 straight losses (76-80 at Kataja on 11 Nov, 80-98 at Seagulls, 86-90 at Pyrinto). At home it lost 89-95 and 80-89 and won 105-100 and 95-76.",
+  "away_form": "Vilpas is 6-4: W 108-89 vs Korihait (11 Nov), L 86-87 at Kipina, W 77-69 vs Antwerp (ENBL), W 80-52 at Lahti. Its losses came at Seagulls and Szombathely and at home to KTP.",
+  "goals_trend": "Kouvot concedes 90+ often, and totals run high (165-200).",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "Both teams played on 11 Nov. Vilpas also has a European schedule (ENBL).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Mild support for 219 Away, based on structural form: Kouvot 2-8 against Vilpas 6-4. There is no news-based mechanism.",
+  "confidence": 0.2,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72686166",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/6510/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/35522/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73451876",
+  "fx": "Niners Chemnitz v Basketball Lowen Braunschweig",
+  "home_form": "Chemnitz has lost 3 straight: 90-112 at home to Napoli (BCL, Wed 11 Nov), 90-99 at Vechta, 84-96 at Buducnost. Before that it won 94-78 vs Ludwigsburg, 96-77 vs Bourg and 95-67 vs Wroclaw at home.",
+  "away_form": "Braunschweig has lost 6 straight: 87-97 at Bonn, 66-108 at Munich, 72-96 vs Wurzburg, 73-88 at Hagen, 75-102 vs Chemnitz, 98-107 vs Ludwigsburg.",
+  "goals_trend": "Braunschweig's losses average about 18 points.",
+  "h2h": "Chemnitz won 102-75 at Braunschweig on 18 Oct (probably the BBL-Pokal round of 16, per basketball-world; the date there is not explicit).",
+  "absences": "No current injury news found.",
+  "context": "Chemnitz is on 3 days' rest after its BCL game, at home. Braunschweig has had no midweek game.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Support 219 Home. Mechanism: the same matchup 4 weeks ago was a 27-point Chemnitz win, and Braunschweig is on a 6-game losing run.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.basketball-world.news/spiel/braunschweig-gegen-chemnitz-2026-bbl-pokal-5250372/bericht",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/26070/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/3523/12"
+  ]
+ },
+ {
+  "eid": "sr:match:74750488",
+  "fx": "Peristeri Athens v AO Mykonoy",
+  "home_form": "Peristeri is 7-3 in its last 10. At home: W 101-96 Varese (BCL, 11 Nov), W 83-81 Maroussi, W 91-89 Iraklis, W 93-87 Bamberg. Its league losses came at Rhodes, Olympiakos and Panathinaikos.",
+  "away_form": "Mykonos is 5-5: L 80-84 at Neftchi (Baku, 11 Nov), L 64-95 at Iraklis, L 59-73 vs Doxa Lefkadas, L 72-88 vs Aris, W 91-88 at VEF Riga.",
+  "goals_trend": "Typical Greek League totals are 160-180.",
+  "h2h": "2025-26: Peristeri won 89-83 at home and lost 88-92 at Mykonos. A pre-season friendly finished Peristeri 80-76.",
+  "absences": "No team news found.",
+  "context": "GBL round 7, Sunday 13:00 local at the Andreas Papandreou arena, confirmed by gazzetta. Mykonos travelled to Baku on Wednesday, so it is on a long-trip turnaround.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Support 219 Home. Mechanism: Peristeri has won all 4 recent home games, and Mykonos is in poor form with Azerbaijan travel.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.gazzetta.gr/basketball/basket-league/2585103/peristeri-sti-diathesi-ton-filathlon-ta-eisitiria-gia-mats-me-ti",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/3503/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/932473/12"
+  ]
+ },
+ {
+  "eid": "sr:match:74236948",
+  "fx": "Phoenix MT Fot v BC Kormend",
+  "home_form": "Fot has won 4 of its last 5 at home (W Ose 82-69, W Alba 79-67, W KTE 91-66; L 63-68 Szolnok). It won 90-76 at Pecs on 11 Nov.",
+  "away_form": "Kormend is 4-6 in its last 10. Away: L 78-90 at Honved, L 75-88 at Pecs, L 79-103 at Szolnok, L 77-96 at Alba. It won 110-91 vs Kaposvar on 11 Nov.",
+  "goals_trend": "Totals are 145-180.",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "Both teams played on 11 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Mild support for 219 Home. Kormend has lost all 4 recent away games, and Fot is strong at home. This rests on Sportradar form only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/74236948",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/1387274/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/75267/12"
+  ]
+ },
+ {
+  "eid": "sr:match:74236954",
+  "fx": "Kaposvari KK v Soproni Sordogok",
+  "home_form": "Kaposvar has won 4 of its last 5 at home: W 97-94 Pecs, W 95-90 Debrecen, W 99-98 Szedeak, L 76-95 Atomeromu. It lost 91-110 at Kormend on 11 Nov.",
+  "away_form": "Sopron is 5-5. Away: L 78-81 at Kormend, L 84-91 at Ose, L 80-109 at Atomeromu, L 82-98 at Alba (0-4 this season).",
+  "goals_trend": "Kaposvar games are high scoring (Kaposvar scores 90+ but also concedes).",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "Kaposvar's home wins have been narrow (1, 3 and 5 points), so the margin is thin.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Support 219 Home. Sopron is 0-4 away. Kaposvar's close home wins are a risk.",
+  "confidence": 0.25,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/74236954",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/154370/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/155246/12"
+  ]
+ },
+ {
+  "eid": "sr:match:74476614",
+  "fx": "BK Ventspils v Vef Riga",
+  "home_form": "Ventspils is 6-3 in the LEBL. At home: W 75-60 Viimsi, W 92-85 Tartu, L 82-85 Taltech. It lost 80-89 at Parnu on 7 Nov.",
+  "away_form": "VEF is 6-4: W 85-83 at Lokomotiv Plovdiv (ENBL, Bulgaria, Wed 11 Nov), L 88-104 at Viimsi, W 97-65 at Fribourg, L 74-86 vs Tartu, L 88-91 vs Mykonos.",
+  "goals_trend": "Totals are 155-180.",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "VEF travels from Bulgaria (Wednesday) to Ventspils (Saturday). It lost twice at home in late October.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Avoid 219 Away at p0.79. VEF is inconsistent (lost by 16 at Viimsi), and the travel turnaround works against it.",
+  "confidence": 0.2,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/74476614",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/6675/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/38007/12"
+  ]
+ },
+ {
+  "eid": "sr:match:74476618",
+  "fx": "Valmiera Glass Via v BK Liepaja",
+  "home_form": "Valmiera is 6-4. At home: W 85-77 Bashkimi (FEC, 11 Nov), W 80-74 Manchester, W 81-59 Latvijas U, W 82-74 Kalev. It lost at home 85-87 to Korfez and 89-97 to VEF.",
+  "away_form": "Liepaja is 5-5. Its wins came against weak sides (Rigas Juniori, Keila, Viimsi). Against better teams: L 72-85 vs Bristol, L 83-108 at Kapfenberg, L 69-85 at Rigas Zelli, L 71-78 vs Taltech, L 55-82 at VEF.",
+  "goals_trend": "Totals are 150-175.",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "Valmiera played a FIBA Europe Cup game on Wednesday at home.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Support 219 Home. Liepaja has lost to every mid-to-upper side it has faced.",
+  "confidence": 0.25,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/74476618",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/660299/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/38008/12"
+  ]
+ },
+ {
+  "eid": "sr:match:74131770",
+  "fx": "Igokea Aleksandrovac v Buducnost Podgorica",
+  "home_form": "Igokea is 4-6 in its last 10. At home it has lost 4 of 6: L 80-81 Crvena zvezda, L 81-93 Cedevita Olimpija, L 83-94 Borac Cacak; W 77-72 Slavia, W 100-86 Parma. It won 89-81 at Slavia Prague on 11 Nov.",
+  "away_form": "Buducnost is 8-2: W 68-66 at Bourg (EuroCup, 10 Nov), W 76-73 at FMP, W 96-84 vs Chemnitz, W 105-72 vs Borac Cacak, W 95-81 at Cedevita.",
+  "goals_trend": "Totals are 150-175.",
+  "h2h": "Buducnost has historically had the upper hand (99-67 and 87-82 wins in past seasons, per meridiansport and mondo).",
+  "absences": "Igokea: Strahinja Gavrilovic and Dragan Milosavljevic were out for the round-7 game at Krka (Glas Srpske, about 6 days ago). Newcomer Milutin Vujicic was due to debut. No Buducnost news found.",
+  "context": "Buducnost has a EuroCup Tuesday game before this; Igokea has a midweek game too.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Support 219 Away. Mechanisms: named Igokea absences (Gavrilovic, Milosavljevic), and Buducnost is 8-2 including a road EuroCup win. Igokea's home losses were mostly close, so do not take a handicap.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.glassrpske.com/lat/sport/kosarka/igokea-oprezna-protiv-fenjerasa/660941",
+   "https://meridiansport.ba/featured/igokea-izgubila-buducnost/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/44467/12"
+  ]
+ },
+ {
+  "eid": "sr:match:74131962",
+  "fx": "KK Zadar v KK Partizan Belgrade",
+  "home_form": "Zadar has won its recent home games big: W 109-80 Kvarner, W 95-70 Ilirija, W 87-61 Dinamo Zagreb. Away it lost 51-67 at Spartak Subotica and 75-89 at Dubai.",
+  "away_form": "Partizan is 7-3: W 80-66 vs Baskonia (EuroLeague, 11 Nov), W 92-80 vs Studentski Centar, W 88-67 vs Maccabi. Away it is 2-3 recently: L at Zalgiris, L at ASVEL, L at Fenerbahce, W 82-80 at Spartak.",
+  "goals_trend": "Totals are 150-175.",
+  "h2h": "No recent H2H in the sources.",
+  "absences": "Partizan is heavily depleted. Lamar Stevens and Kyle Allman were out ill for round 11. Kevarrius Hayes (shoulder), Derek Willis (ankle) and Vanja Marinkovic (Achilles) are out. Luca Vildoza had a forearm injury in round 10. Tonye Jekiri has just returned. Chris Silva is being signed to cover the frontcourt.",
+  "context": "Partizan is in a EuroLeague double schedule. Zadar is a strong home side.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Avoid 219 Away at p0.81. Partizan's rotation is thin from named absences, it is mid-EuroLeague, and Zadar is strong at home. Rotation or rest risk is high.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2033678/euroleague-roundup-jekiri-leads-partizan-past-baskonia/",
+   "https://www.euroleaguebasketball.net/en/euroleague/news/euroleague-injury-report-round-11-fantasy/",
+   "https://basketnews.com/news-259253-chris-silva-set-for-euroleague-move-to-partizan.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75019230",
+  "fx": "Ironi Nahariya v AS Ashkelon/Kiryat Gat",
+  "home_form": "Nahariya is 4-1 this season: W 78-69 at Hevel Modiin (10 Nov), W 80-66 vs Raanana, W 71-58 vs Yavne, W 89-69 at Migdal HaEmek; L 104-109 at Ashkelon.",
+  "away_form": "Kiryat Gat is 1-3: W 80-79 vs Hapoel Haifa, L 75-79 at Modiin, L 84-96 vs Raanana, L 68-88 at Ashkelon.",
+  "goals_trend": "Nahariya holds opponents under 70 at home.",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "Israeli National League (2nd tier).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Support 219 Home. Nahariya has beaten common opponents (Modiin, Raanana) that Kiryat Gat lost to.",
+  "confidence": 0.25,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/75019230",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/175410/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/1211087/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73432162",
+  "fx": "Napoli Basket v Pallacanestro Trieste 2004",
+  "home_form": "Napoli is 9-1 in its last 10 and 6-1 in the LBA, joint top: W 112-90 at Chemnitz (BCL, Wed 11 Nov), W 91-89 at Scafati, W 90-79 vs Trento, W 99-81 vs Venezia. Its only loss was 82-98 vs Milan.",
+  "away_form": "Trieste is 4-3 and won 4 straight in the league: W 116-100 vs BC Roma, W 100-93 at Virtus Bologna, W 108-99 vs Verona, W 92-72 vs Cantu. Its offence averages 94.4 ppg, 3rd in the league.",
+  "goals_trend": "Both teams score heavily, so totals are high (180-215).",
+  "h2h": "No recent H2H found in the sources.",
+  "absences": "No injury news found.",
+  "context": "LBA round 8, Sun 15 Nov 17:00 CET at PalaBarbuto, confirmed. Napoli is on a Wednesday BCL turnaround.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Avoid 219 Home at p0.76. Trieste is a credible receiver: it won at Virtus Bologna and has the 3rd-best offence. Napoli's close wins (2-point wins at Scafati and Derthona) show thin margins.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportando.basketball/napoli-basketball-pallacanestro-trieste-la-situazione-e-come-vederla-in-tv/",
+   "https://www.sofascore.com/it/basketball/match/guerri-napoli-basketball-pallacanestro-trieste/JgosVygc"
+  ]
+ },
+ {
+  "eid": "sr:match:73432168",
+  "fx": "APU Udine v Olimpia Milano",
+  "home_form": "Udine has won 3 of its last 4 at home (W 86-77 Derthona, W 87-63 Scafati, L 66-74 Trento). It won 84-81 at Varese on 8 Nov.",
+  "away_form": "Milan has lost 7 of its last 10 (mostly EuroLeague): L 83-86 vs Zalgiris (Thu 12 Nov), L 73-84 vs Valencia, L at Olympiakos, L at Panathinaikos, L 94-98 vs Virtus. In the league: W 88-86 vs Trento, W at Cantu, W 98-82 at Napoli.",
+  "goals_trend": "Totals are 160-180.",
+  "h2h": "Milan lost 69-77 at Udine in March 2026.",
+  "absences": "Milan: Devin Booker is out with a torn thigh tendon (EuroLeague round 11 report). Messina said \"we need to regain our confidence\".",
+  "context": "Milan plays Sunday away after a Thursday EuroLeague game (short turnaround), in a confidence slump.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Avoid 219 Away. Mechanisms: Booker is out, Milan is in a EuroLeague slump and fatigue, and it lost at Udine last season.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2033937/injury-report-round-11-justin-anderson-ready-for-season-debut-johnathan-motley-out-for-zvezda/",
+   "https://www.olimpiamilano.com/en/olimpia-is-facing-zalgiris-coach-messina-we-need-to-regain-our-confidence-back/",
+   "https://www.backdoorpodcast.com/milano-udine-lega-basket-sconfitta/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703194",
+  "fx": "Niigata Albirex BB v Gifu Swoops",
+  "home_form": "Niigata has won 5 of its last 6 at home (W 75-51 and L 73-80 vs Iwate, W 73-67 and 89-60 vs Fukui). It won 81-78 at Fukushima.",
+  "away_form": "Gifu is 2-8. Its wins were 69-68 and 83-79 at home vs Kanazawa. Away it is 0-5: L 80-82 and 69-88 at Tachikawa, L 67-111 and 86-96 at Yokohama, L at Fukushima.",
+  "goals_trend": "Totals are 140-165.",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "B.League One (the renamed 2nd tier). Game 1 of a weekend pair.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Support 219 Home. Gifu is 0-5 away, and Niigata is strong at home.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/B.League",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/124576/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/547687/12"
+  ]
+ },
+ {
+  "eid": "sr:match:72703192",
+  "fx": "Tachikawa Dice v Earthfriends Tokyo Z",
+  "home_form": "Tachikawa has won 7 of its last 8 at home (W 84-74 and 85-65 vs Five Arrows, W 82-80 and 88-69 vs Gifu, W vs Tokyo HT twice; L 97-99 Yokohama).",
+  "away_form": "Tokyo Z is 2-8: L 69-94 and 67-72 at home vs Fukushima, L twice at Rizing Zephyr, L twice vs Koshigaya, L 74-95 at Iwate. Its only wins were 75-65 at Yamagata and 66-62 vs Saitama.",
+  "goals_trend": "Totals are 135-165. Tokyo Z scores about 70.",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "Game 1 of a weekend pair.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Support 219 Home. Tachikawa is 7-1 at home, and Tokyo Z is 2-8 and scores about 70 ppg.",
+  "confidence": 0.3,
+  "sources": [
+   "https://en.wikipedia.org/wiki/B.League",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/956201/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/287395/12"
+  ]
+ },
+ {
+  "eid": "sr:match:72703200",
+  "fx": "Fighting Eagles Nagoya v Ehime Orange Vikings",
+  "home_form": "Nagoya is 6-4. At home: split with Tokyo United (W 104-78, L 76-95), W twice vs Nara, L twice vs Okayama. It won 3 straight away.",
+  "away_form": "Ehime is 3-7: L 63-94 at Saitama, L twice vs Five Arrows, L 78-88 at Shizuoka. It split vs Rizing Zephyr (W 78-70).",
+  "goals_trend": "Totals are 145-175.",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "Nagoya has a home 4-4 split, including 2 losses vs Okayama.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Mild support for 219 Home. Ehime is weak, but Nagoya's home record is only 4-4.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/B.League",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/287397/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/124606/12"
+  ]
+ },
+ {
+  "eid": "sr:match:75044430",
+  "fx": "Chanson V-Magic v Toyota Antelopes",
+  "home_form": "Chanson is 3-1 this season: W 76-67 and 75-73 vs Hitachi, W 62-55 and L 60-63 at Eneos.",
+  "away_form": "Toyota is 4-0: W 98-78 and 96-71 at Aisin, W 57-51 and 77-54 vs Toyota Boshoku.",
+  "goals_trend": "This is a low-total league (115-160).",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "Women's league (W League Premier).",
+  "veto": true,
+  "veto_reason": "Women's competition is a hard-excluded class (CLAUDE.md \u00a75). Chanson is also in form at home (won at Eneos).",
+  "lean": "Avoid.",
+  "confidence": 0.15,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/75044430",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/290596/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/290590/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73833408",
+  "fx": "Csm Targu Mures v Csm Corona Brasov",
+  "home_form": "Targu Mures is 7-1 this season: W 105-80 vs Rapid (9 Nov), W 110-81 at Ploiesti, W 92-89 vs Steaua, W 91-83 at Valcea. Its only loss was 85-91 vs Voluntari.",
+  "away_form": "Brasov is 4-4: W 97-80 vs Ploiesti, L 89-94 at Steaua, L 80-81 vs Valcea, L 78-83 at Voluntari, W 81-76 at Timisoara.",
+  "goals_trend": "Targu Mures games often reach 180+ totals.",
+  "h2h": "Targu Mures won both May 2026 playoff games against Brasov: 118-78 at home and 96-81 away.",
+  "absences": "No news found.",
+  "context": "Regular league round. Targu Mures has a 7-day rest.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Support 219 Home. Fixture-specific H2H: 2-0 in May by 40 and 15. Targu Mures is 7-1 against Brasov's 4-4.",
+  "confidence": 0.3,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73833408",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/507448/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/953889/12"
+  ]
+ },
+ {
+  "eid": "sr:match:72679798",
+  "fx": "BK 04 AC LB SNV Spisski Rytieri v Kosice Wolves",
+  "home_form": "Spisska has gone 0-4-1 in its last 5: 85-85 vs Komarno (10 Nov; a data oddity, possibly an unfinished record), L 83-84 at Nitra, L 90-101 vs Prievidza (home), L at Inter, L at Levice.",
+  "away_form": "Kosice is 6-4: W 90-72 vs Inter, W 92-84 at Nitra, W 86-59 vs Komarno, W 84-79 at Inter. Its losses came vs Handlova, Levice, Prievidza and Bratislava.",
+  "goals_trend": "Totals are 150-180.",
+  "h2h": "Kosice won 90-66 vs Spisska in April 2026.",
+  "absences": "No news found.",
+  "context": "Spisska is in poor form, and Kosice beat both common opponents (Inter, Nitra) that Spisska lost to.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Avoid 219 Home. Spisska is 0-4-1 and lost to the same teams Kosice beat, and Kosice won the April H2H by 24.",
+  "confidence": 0.3,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72679798",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/124614/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/1265683/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73713584",
+  "fx": "CB Breogan v CB San Pablo Burgos",
+  "home_form": "Breogan is 6-4. At home: W 115-92 Girona, W 110-104 Badalona, L 90-103 Malaga. It won 110-90 at Obradoiro and lost 91-99 at Barcelona.",
+  "away_form": "Burgos is 1-9 in its last 10: L 80-88 at Le Mans (BCL, Wed 11 Nov), L 93-100 vs Valencia, L 59-86 vs Rostock, L 79-90 at Madrid, L 71-79 vs Rigas Zelli. Its only win was 99-81 at Manresa.",
+  "goals_trend": "Breogan scores 100+ often.",
+  "h2h": "No H2H found.",
+  "absences": "A betting preview (12 Nov) lists Cancar and Samar as out, with DJ Steward out until after the international window (fracture). It appears these are Burgos players, but this is not certain. Obasohan is back (he started vs Le Mans). COPE says Burgos arrives \"castigado por las bajas\" after a European loss.",
+  "context": "Saturday 18:00 at Pazo dos Deportes, Lugo (confirmed). Burgos is on a 3-day turnaround after travel to France.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Support 219 Home. Burgos is 1-9 with absences and European fatigue, and Breogan scores 100+ at home. The attribution of absences is not officially confirmed.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.cope.es/emisoras/galicia/lugo-provincia/lugo/noticias/rio-breogan-lugo-pone-prueba-solidez-burgos-trampa-liga-endesa-20261112_3473686.html",
+   "https://www.infobae.com/espana/agencias/2026/11/11/88-80-el-san-pablo-burgos-se-desinfla-tras-un-gran-inicio-y-cae-ante-le-mans/",
+   "https://www.elprogreso.es/articulo/deporte-local-lugo/luis-casimiro-fiel-principios-san-pablo-burgos/202611121958392013688.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73575292",
+  "fx": "CB Zamora v Palencia Baloncesto",
+  "home_form": "Zamora has won 3 of its last 5 at home (W 90-89 Albacete, W 89-81 Granada, W 74-64 vs Palencia on 3 Sep; L 73-80 Estudiantes). It won 92-79 at Bahia San Agustin on 8 Nov.",
+  "away_form": "Palencia is 8-2 in its last 10. Away: W 85-73 at Estela, W 95-69 at Albacete, L 78-89 at Estela, L 77-86 at Estudiantes.",
+  "goals_trend": "Totals are 140-175.",
+  "h2h": "Zamora beat Palencia 74-64 at home on 3 Sep 2026 (likely pre-season or cup).",
+  "absences": "No news found.",
+  "context": "Primera FEB. Zamora has won 2 straight.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Avoid 219 Away at p0.80. Zamora beat Palencia at home in September and is in form, and Palencia is only 2-2 away recently.",
+  "confidence": 0.2,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73575292",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/629350/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/124536/12"
+  ]
+ },
+ {
+  "eid": "sr:match:74500970",
+  "fx": "Trelleborg Basket v Malbas",
+  "home_form": "Trelleborg is 4-3 this season: W 70-58 at Ockelbo, W 93-67 vs Sollentuna, W 88-80 at Norrort; L 84-97 vs Alvik, L 77-87 vs Wetterbygden.",
+  "away_form": "Malbas is 0-10, losing by 6 to 36 (55-91 at Eos, 73-100 at Wetterbygden, 65-86 at Alvik).",
+  "goals_trend": "Malbas scores about 70 ppg.",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "Superettan (2nd tier).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Support 219 Home. Malbas is winless at 0-10 with an average margin around -15.",
+  "confidence": 0.3,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/74500970",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/634306/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/3594/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73841432",
+  "fx": "Villars Basket v BC Alte Kanti Aarau",
+  "home_form": "Villars is 5-2 overall but 2-2 at home (L 69-75 Lugano, L 75-82 Meyrin; W 70-58 Swiss Central). Away it won 71-44 at GC Zurich.",
+  "away_form": "Aarau is 4-3: W 86-78 vs CNBS, W 82-56 at GC Zurich, W 68-46 vs Boncourt; L 71-77 vs Fribourg Academie, L 73-76 at Kleinbasel, L 60-89 at Morges.",
+  "goals_trend": "This is a low-total league (120-160).",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "NLB (2nd tier). Low totals make upsets more likely.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Weak case for 219 Home at p0.79. Villars is only 2-2 at home and Aarau is competitive. Low-scoring leagues increase variance. Lean avoid.",
+  "confidence": 0.15,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73841432",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/946707/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/193658/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73529514",
+  "fx": "OGM Ormanspor v TED Ankara Kolejliler",
+  "home_form": "Ormanspor has won its last 3 home games (W 92-90 Darussafaka, W 89-85 Gaziantep, W 93-67 Konya). In September it lost at home to Goztepe and Mersin. It lost 75-81 at Kahramanmaras on 7 Nov.",
+  "away_form": "TED Kolej is 2-8 in its last 10. Away: W 72-63 at Cedi Osman, W 95-90 at Kecioren, L 65-100 at Mersin, L 64-85 at Goztepe, L 72-83 at Kahramanmaras.",
+  "goals_trend": "Totals are 145-180.",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "TBL (2nd tier). Ormanspor's home wins have been narrow apart from Konya.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Mild support for 219 Home. TED is 2-8, but its away wins show it is not dead, and Ormanspor's home margins are thin.",
+  "confidence": 0.2,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73529514",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/329245/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/25423/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73529502",
+  "fx": "Buyukcekmece Basketbol v Balikesir Buyuksehir Belediyesi Spor",
+  "home_form": "Buyukcekmece has lost its last 2 home games (L 70-78 Kahramanmaras, L 85-87 Fenerbahce Gelisim), after 3 home wins in September and October. It won 74-67 at TED on 7 Nov.",
+  "away_form": "Balikesir is 3-7 in its last 10, but it won 91-85 at TED and lost narrowly away (73-77 at Yalova, 65-67 at Darussafaka). It won 98-76 vs Mersin on 8 Nov.",
+  "goals_trend": "Totals are 140-170.",
+  "h2h": "No H2H found.",
+  "absences": "No news found.",
+  "context": "TBL (2nd tier). Buyukcekmece is 3-5 in its last 8 games.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Avoid 219 Home at p0.80. The price looks too short: Buyukcekmece is 3-5 recently and lost its last 2 at home, and Balikesir competes away.",
+  "confidence": 0.25,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73529502",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/505458/12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/626770/12"
+  ]
+ },
+ {
+  "eid": "sr:match:76413240",
+  "fx": "Deportivo Madryn v CD Maipu",
+  "home_form": "Madryn finished the regular season with 60 points (sources say 3rd or 4th in Zona A). At home in its last 10: W 4-1 San Telmo, L 1-2 Chaco For Ever, D 0-0 Central Norte, W 2-0 Cordoba, W 3-1 Ciudad de Bolivar. It ended with a 1-0 win at San Miguel.",
+  "away_form": "Maipu (6th in Zona B) has lost 2 of its last 10: D 0-0 at Tristan Suarez, W 3-1 Guemes, L 0-1 at Chacarita, D 1-1 San Juan, W 1-0 at Chicago, D 2-2 at Almagro. It draws often and is hard to beat.",
+  "goals_trend": "Both teams are low scoring: Maipu's last 10 averaged about 1.7 total goals per game, with many 0-0 and 1-1 results.",
+  "h2h": "Maipu won 2-1 at home vs Madryn in Aug 2025. A 2-3 Madryn loss to Maipu is also on record.",
+  "absences": "Madryn: Nazareno Solis was injured; Camilo Machado is out for the season; top scorer Luis Silba did not travel for the last game (Diario Jornada). Current status unconfirmed.",
+  "context": "This is a single-leg Reducido first-phase knockout at Estadio Abel Sastre. A draw after 90 minutes sends Madryn through as the better-placed side, so Madryn is likely to play for a draw and Maipu must win. Kick-off: 19:00 ART (22:00 UTC) per most sources; 365scores says 17:00. Knockout, so 90-minute settlement applies.",
+  "veto": false,
+  "veto_reason": "Not a veto: the venue is confirmed (Madryn home) and the time discrepancy is minor (365scores 17:00 vs others 19:00 ART). Flag as knockout_90min.",
+  "lean": "Avoid 11 Home (DNB). Mechanisms: Madryn is happy with a draw (which voids DNB at best), its top scorer Silba may be missing, and Maipu has lost 2 of its last 10. DNB is permitted under the knockout rule, but research does not support a home win at p0.81.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.diariouno.com.ar/ovacion/futbol/deportivo-maipu-ya-tiene-dia-y-horario-visitar-deportivo-madryn-el-inicio-del-reducido-la-primera-nacional-n1613954",
+   "http://diariojornada.com.ar/426264/deportes/madryn_le_gano_a_san_miguel_y_termino_cuarto_en_la_zona_a",
+   "https://canchallena.lanacion.com.ar/futbol/primera-nacional-2026/deportivo-madryn-deportivo-maipu-3mj8dccvs6ntvoj38j33x5udw/"
+  ]
+ }
+]

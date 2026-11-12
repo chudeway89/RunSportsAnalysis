@@ -1,0 +1,398 @@
+[
+ {
+  "eid": "sr:match:72665070",
+  "fx": "Maruyasu Okazaki v Minebea Mitsumi FC",
+  "home_form": "Okazaki W1 D1 L6 in last 8: 1-1 Veertien(H),1-4 Numazu(A),1-3 Urayasu(H),1-2 Honda(A),1-2 Yokohama(H),1-2 Aomori(H),2-1 Morioka(A),0-1 Ichihara(A). Home: 0W in last 4 (D1 L3), conceding 2+ in 3 of them.",
+  "away_form": "Minebea W2 D1 L5: 1-1 Yokogawa(A),1-0 Ichihara(H),1-2 Shinjuku(A),0-3 J-Lease(H),1-3 Oita(A),1-0 Honda(A),0-1 Mie(H),1-2 Morioka(H).",
+  "goals_trend": "O1.5: Okazaki 7/8, Minebea 5/8 (three 1-goal games). Both sides score ~1/game; JFL mid-table, ~2.5 goals/game. Combined 12/16=75% ~ house 0.764.",
+  "h2h": "No fixture-specific H2H found.",
+  "absences": "No team news found.",
+  "context": "JFL 2026-27 (Aug-May season), round mid-season; both mid/low table, no motivation edge. 2025 season both ~10th-11th.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 roughly at house price; Okazaki's leaky home run (6 conceded in last 3 home) is the only mild support. No named mechanism -> fill at best.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Japan_Football_League",
+   "https://www.worldfootball.net/competition/co4004/japan-japan-football-league/results-and-standings/",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72665068",
+  "fx": "Okinawa SV v Yokogawa Musashino FC",
+  "home_form": "Okinawa SV W3 D4 L1 last 8: 1-0 Morioka(A),1-1 Mie(A),1-1 Honda(H),1-1 Ichihara(A),0-0 J-Lease(H),0-2 Urayasu(H),3-0 Shinjuku(A),2-1 Tiamo(H). Very low-event side: 9 GF, 6 GA in 8.",
+  "away_form": "Yokogawa W2 D2 L4: 1-1 Minebea(H),3-0 J-Lease(A),1-1 Oita(A),1-2 Ichihara(H),2-3 Urayasu(H),6-0 Tiamo(A),0-2 Numazu(H),0-1 Aomori(A).",
+  "goals_trend": "O1.5: Okinawa 6/8 but four of those were exactly 1-1/2-goal; 2 unders (1-0, 0-0); home games 1-1,0-0,0-2,2-1. Yokogawa 7/8. Combined 13/16 but Okinawa's games average 1.9 goals.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "JFL mid-season; Okinawa (8th in 2025) defensively solid, Yokogawa (14th 2025).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Avoid O1.5: Okinawa's low-event profile (0-0/1-0/1-1 pattern) is the 0-0/1-0 tail risk the rules warn about. No mechanism.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Japan_Football_League",
+   "https://m.aiscore.com/team-briobecca-urayasu/g6763iw6g3cp7ry/standings",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:74063612",
+  "fx": "Club Calor v Real Apodaca FC",
+  "home_form": "Calor W3 L5 last 8: 1-0 Heroes(A),1-4 Correcaminos II(H),1-4 Fresnillo(A),2-4 Guerreros(H),1-2 Delfines(H),7-1 Marina(A),3-2 Acambaro(H),0-7 Halcones(A). Home: 1W in last 4, conceding 4,4,2.",
+  "away_form": "Apodaca W2 D1 L5: 3-0 Oaxaca(H),0-1 Halcones(A),3-3 Guerreros(H),0-3 Santiago(A),0-1 Correcaminos II(H),1-2 Reynosa(H),1-3 Juarez(A),2-0 Autlan(H). Away: 0 goals in 2 of last 3 away.",
+  "goals_trend": "O1.5: Calor 7/8 (avg 5.1 goals/game), Apodaca 6/8. Combined 13/16=81% vs house 0.761.",
+  "h2h": "None found; model preview predicts 1-1.",
+  "absences": "None found.",
+  "context": "Liga Premier Serie A (Mexican 3rd tier), round 12. Sofascore: Calor 5th, Apodaca 9th.",
+  "veto": true,
+  "veto_reason": "Date conflict: Sofascore lists kickoff 15 Nov 00:00 UTC, while LiveSoccerTV/thethao247/Betmaster put it 13 Nov 21:30 UTC (board time). Per manual, veto on any date conflict.",
+  "lean": "If the date is confirmed, O1.5 is supported by Calor's very open games (conceded 4,4,2 at home recently); otherwise skip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/football/match/real-apodacac-club-calor/VptcsRXGd",
+   "https://thethao247.vn/63-nhan-dinh-club-calor-vs-apodaca-thu-thach-tai-vong-12-4h30-ngay-14-11-2026-c288-d445106.html",
+   "https://www.livesoccertv.com/teams/mexico/real-apodaca/"
+  ]
+ },
+ {
+  "eid": "sr:match:76716784",
+  "fx": "FC Ulaanbaatar v Hunters FC",
+  "home_form": "FC Ulaanbaatar 2026 MFF Interim League leaders: W10 D1 L0, GF 50 GA 5 after MD12 (Sportradar has no usable history for this uid).",
+  "away_form": "Hunters FC 4th: W5 D0 L6, GF33 GA35. Lost 1-9 at home to FC Ulaanbaatar on 2 Nov 2026 (MD12).",
+  "goals_trend": "FC Ulaanbaatar 5.5 goals/game in their matches; Hunters games ~6.2 goals/game.",
+  "h2h": "2 Nov 2026: Hunters 1-9 FC Ulaanbaatar.",
+  "absences": "None found.",
+  "context": "2026 MFF Interim (developmental/interim) League, 9 teams. MFF says MD13 was 5-6 Nov; a third meeting just 11 days after MD12 does not fit a round-robin schedule.",
+  "veto": true,
+  "veto_reason": "Fixture/date unverified: Sofascore lists FC Ulaanbaatar v Hunters 13 Nov 05:00 UTC, but the MFF site shows these sides met on 2 Nov (MD12) and gives no fixture list beyond MD13; schedule inconsistency = data_conflict.",
+  "lean": "On strength alone, home 1X2 is strongly supported (unbeaten, +45 GD, won 9-1 v this opponent), but veto on fixture uncertainty.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.mongolianfootball.com/single-post/2026-mff-interim-league-results-matchday-12",
+   "https://www.sofascore.com/football/match/hunters-fc-fc-ulaanbaatar/pzKcsqJvg"
+  ]
+ },
+ {
+  "eid": "sr:match:72347000",
+  "fx": "Annagh United FC v Ballinamallard United",
+  "home_form": "Annagh 1st in Championship (28 pts/13). Last 8: 1-0 Strabane(A),3-0 Loughgall(A),5-1 QUB(H),3-4 Limavady(H, cup v Premiership side),3-1 Armagh(A),1-1 Glenavon(H),1-1 Warrenpoint(A),5-0 Institute(H). Unbeaten in league in that run.",
+  "away_form": "Ballinamallard 4th (21 pts) but poor recent: 0-1 Rathfriland(H),0-1 Armagh(H),1-0 Strabane(A),2-4 QUB(H),2-2 Warrenpoint(H),1-0 QUB(A),1-1 Ards(H),0-4 Newington(A). 7 GF in 8, blanked in 3.",
+  "goals_trend": "O1.5: Annagh 6/8 (home 4/4: 5-1,3-4,1-1,5-0); Ballinamallard 4/8 (four 1-goal games). Combined 10/16.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "NIFL Championship, top v 4th; Annagh in title race at home.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "DNB Home supported: leaders unbeaten in league run vs a visitor that has lost 2 straight and scored 1 in last 3. O1.5 neutral-to-avoid: Ballinamallard's games are low-scoring (4 of 8 had one goal).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nifootballleague.com/all-clubs/annagh-united/",
+   "https://www.futbol24.com/team/N-Ireland/Annagh-United",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72346410",
+  "fx": "Ballymena United v Linfield FC",
+  "home_form": "Ballymena last 8: 1-1 Portadown(A),0-1 Bangor(H),3-1 Newington(A),2-1 Crusaders(H),2-3 Limavady(A),1-0 Cliftonville(A),2-0 Portadown(H),1-1 Dungannon(A). Home: 0-1,2-1,2-0.",
+  "away_form": "Linfield top (36 pts/15). Last 8: 3-0 Coleraine(H),1-1 Dungannon(H),2-1 Portadown(A),2-1 Larne(A),2-2 Carrick(A),2-0 Bangor(H),3-1 Coleraine(A),1-0 Crusaders(H). Unbeaten, 2+ goals in 6/8.",
+  "goals_trend": "O1.5: Ballymena 6/8, Linfield 7/8. Combined 13/16=81% vs house 0.768.",
+  "h2h": "Not found for this season.",
+  "absences": "No injury news found.",
+  "context": "Leaders Linfield away to mid-table Ballymena; Linfield fresh from 3-0 v Coleraine.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 mildly supported by Linfield's scoring run (2+ in 6 of 8 incl. 3 away); no named mechanism, so fill only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.skysports.com/northern-irish-premiership-table",
+   "https://www.nifootballleague.com/premiership/2026-2027/fixtures/",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72346412",
+  "fx": "Coleraine FC v Portadown FC",
+  "home_form": "Coleraine 2nd (35 pts) but lost 0-3 at Linfield last out. Home last 4: 1-1 Glentoran,1-0 Cliftonville,1-3 Linfield,1-0 Limavady -> exactly 1 goal in each. Away: 5-0,3-2,3-2.",
+  "away_form": "Portadown W2 D2 L4: 1-1 Ballymena(H),0-1 Larne(A),1-2 Linfield(H),0-2 Cliftonville(H),2-1 Cliftonville(A),0-0 Glentoran(H),3-1 Limavady(H),0-2 Ballymena(A). Away: 0-1,2-1,0-2.",
+  "goals_trend": "Coleraine home games: 2,1,4,1 total goals; Coleraine scored 1 in each of last 4 home league games. Portadown scored <=1 in 6/8.",
+  "h2h": "Not found this season.",
+  "absences": "No injury news found.",
+  "context": "Coleraine chasing Linfield (1 pt back) after a 0-3 defeat; Portadown lower half.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID home team O1.5 (Coleraine 2+ goals): 0/4 at home this run. Home 1X2 at p0.79 is not backed by home margins (two 1-0s, a 1-1, a 1-3); if anything only DNB-level support.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nifootballleague.com/premiership/2026-2027/fixtures/",
+   "https://www.skysports.com/northern-irish-premiership-table",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72346416",
+  "fx": "Glentoran FC v Bangor FC",
+  "home_form": "Glentoran last 8: 0-0 Carrick(A),1-1 Coleraine(A),1-0 Limavady(H),0-0 Portadown(A),2-0 Dungannon(H),2-0 Carrick(H),2-1 Cliftonville(A),1-2 Coleraine(H). 9 GF 4 GA; two 0-0s in last 4.",
+  "away_form": "Bangor last 8: 1-0 Crusaders(H),1-0 Ballymena(A),1-2 Larne(H),1-2 Dungannon(H),0-0 Dungannon(H),0-2 Linfield(A),2-3 Coleraine(H),1-2 Crusaders(A).",
+  "goals_trend": "O1.5: Glentoran 5/8, Bangor 5/8 -> combined 10/16=62% vs house 0.812. Last 4 Glentoran: 0-0,1-1,1-0,0-0.",
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "Glentoran 22 pts/14, mid-table; Bangor low-scoring.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID O1.5 at p0.81: both sides in a 0-0/1-0 pattern (Glentoran 2 GF in last 4; Bangor's last two were 1-0s). Strongest 'skip' on the NI card.",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.skysports.com/northern-irish-premiership-table",
+   "https://www.nifootballleague.com/premiership/2026-2027/fixtures/",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:75047768",
+  "fx": "Larne FC v Dungannon Swifts",
+  "home_form": "Larne 26 pts/13 but 'struggling' (BBC): 2-4 Cliftonville(A),1-0 Portadown(H),1-1 Limavady(H),2-1 Bangor(A),1-2 Linfield(H),2-3 Coleraine(H),3-0 Crusaders(A),5-2 Carrick(A). Home: 1W in last 4.",
+  "away_form": "Dungannon: 3-2 Limavady(H),1-1 Linfield(A),1-3 Cliftonville(H),2-1 Bangor(A),0-0 Bangor(A),2-4 Carrick(H),0-2 Glentoran(A),1-1 Ballymena(H). Took a point at Linfield.",
+  "goals_trend": "O1.5: Larne 7/8, Dungannon 7/8 -> 14/16 vs house 0.787. Larne concedes in 7/8.",
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "Larne have lost 3 of last 5; home 1W-1D-2L last 4.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 supported by both sides' last 8 (14/16). AVOID DNB Home at p0.80: Larne's home form (1W in 4, lost to Linfield and Coleraine) and Dungannon's draw at Linfield undercut it.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sports.yahoo.com/articles/form-cliftonville-beat-struggling-larne-215857953.html",
+   "https://irishnews.com/sport/soccer/cliftonville-extend-winning-run-with-victory-over-larne-2J3MHKC3OVCLFJLK2PAL236TMU",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72346420",
+  "fx": "Limavady United FC v Cliftonville FC",
+  "home_form": "Limavady (promoted side) last 8: 2-3 Dungannon(A),1-4 Crusaders(H),1-1 Larne(A),1-1 Carrick(A),4-3 Annagh(A),0-1 Glentoran(A),3-2 Ballymena(H),1-3 Portadown(A). Conceded 18 in 8.",
+  "away_form": "Cliftonville in form, no injuries listed: 4-2 Larne(H),7-1 Carrick(H),3-1 Dungannon(A),2-0 Portadown(A),1-2 Portadown(H),0-1 Coleraine(A),0-1 Ballymena(H),0-1 Limavady(A). 10 goals in last 2.",
+  "goals_trend": "O1.5: Limavady 7/8, Cliftonville 5/8 (three 0-1s, all in late Sep/early Oct). Combined 12/16; recent 4 Cliftonville games all O1.5.",
+  "h2h": "26 Sep 2026: Cliftonville 0-1 Limavady (under 1.5).",
+  "absences": "Cliftonville news page lists no injuries.",
+  "context": "Cliftonville (21 pts) chasing top 6; Limavady leaky.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 supported by Limavady's defence (2+ conceded in 5 of 8) and Cliftonville's scoring run; note the reverse fixture was 1-0. Moderate.",
+  "confidence": 0.25,
+  "sources": [
+   "https://cliftonvillenews.co.uk/",
+   "https://sports.yahoo.com/articles/form-cliftonville-beat-struggling-larne-215857953.html",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72398808",
+  "fx": "MKS Znicz Pruszkow v Sokol Kleczew",
+  "home_form": "Znicz top of II liga after 15 rounds. Last 8: 2-2 Podhale(H),0-3 Leczna(A),0-1 Ruch(H),2-0 Avia(A),1-0 Bielsko(H),1-0 Zawisza(A),4-2 Stal SW(H),3-1 Lechia(A). Winless in last 3 (D1 L2), home 2W1D1L last 4.",
+  "away_form": "Sokol 15th but won last 3: 3-2 Sandecja(H),2-1 Stal SW(A),2-1 Podhale(H); earlier 4-2 Slask II(H),0-0 Resovia(A),1-2 Hutnik(H),1-2 Swit(A),2-2 Avia(H).",
+  "goals_trend": "Znicz games O1.5 6/8; Sokol 8/8 O1.5 except 0-0. Sokol score in 7/8.",
+  "h2h": "First ever league meeting (club site).",
+  "absences": "None found.",
+  "context": "Leader (dip: 3 without win) v in-form strugglers. TV game (TVP Sport) Fri 18:00 local.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "DNB Home at p0.76 not supported by a mechanism: leader in a 3-game slump vs a side on 3 straight wins. Avoid or treat as fill.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sokolkleczew.pl/lider-na-drodze-sokola-czas-na-wyjazd-do-pruszkowa/",
+   "https://moj.powiat.pl/lider-na-drodze-sokola-czas-na-wyjazd-do-pruszkowa-43729377.html",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72516774",
+  "fx": "LKS Goczalkowice-Zdroj v KS Stilon Gorzow",
+  "home_form": "Goczalkowice last 8: 2-1 Zaglebie II(A),3-0 Odra BO(H),1-4 Polkowice(A),3-1 Barycz(H),0-0 Carina(A),0-1 Rybnik(H),0-2 Karkonosze(A),4-1 Warta(H). Home 3W1L last 4, all but one O1.5.",
+  "away_form": "Stilon 5 without a win (2 pts): 2-2 Stal Brzeg(H),0-2 Sosnowiec(H),1-3 Zaglebie II(A),0-0 Odra BO(H),1-4 Polkowice(A); earlier 2-1,3-1,0-0.",
+  "goals_trend": "O1.5: Goczalkowice 5/8, Stilon 6/8 -> 11/16=69% vs house 0.779. Two 0-0s for Stilon.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "III liga group 3, round 17 (end of first half). Stilon's director: 3 pts behind rivals.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No support for O1.5 above house (69% combined); regional 4th tier - rules caution on regional Overs. Avoid.",
+  "confidence": 0.2,
+  "sources": [
+   "https://radiogorzow.pl/462165/stilon-powalczy-w-goczalkowicach-zdroju-o-trzy-punkty/",
+   "https://www.telewizjagorzow.pl/artykul/18213,gorzowscy-trzecioligowcy-dobijaja-do-polmetka-sezonu",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72517390",
+  "fx": "KS Wisloka Debica v MKS Czarni Polaniec",
+  "home_form": "Wisloka (4th, 29 pts per latest preview) last 8: 2-4 Hetman(A),2-1 KSZO(H),1-3 Wisla II(A),4-0 Naprzod(H),0-0 Moravia(A),2-1 Pogon(H),2-1 Wislanie(A),1-0 Korona II(H). Home 4W in last 4.",
+  "away_form": "Czarni 5th (28): 3-2 Kolbuszowa(H),2-2 Jaroslaw(A),2-1 Busko(H),0-0 Chelm(H),0-1 Hetman(A),1-1 KSZO(H),1-1 Wisla II(A),2-5 Naprzod(H).",
+  "goals_trend": "O1.5: Wisloka 6/8, Czarni 6/8 -> 12/16=75% vs house 0.796.",
+  "h2h": "A previous Wisloka v Czarni meeting ended 0-0 (podkarpacielive).",
+  "absences": "None found.",
+  "context": "III liga group 4, round 17, table neighbours (4th v 5th) - cagey match risk.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 below house on form (75% vs 0.80) and prior 0-0 H2H; avoid. Regional tier.",
+  "confidence": 0.2,
+  "sources": [
+   "https://moj.powiat.pl/mecz-sasiadow-w-tabeli-czarni-jada-po-punkty-do-debicy-43785278.html",
+   "https://www.podkarpacielive.pl/mecz/141419,wisloka-debica-vs-czarni-polaniec",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:74089756",
+  "fx": "Sanatatea Cluj v AFC Unirea Tasnad",
+  "home_form": "Sanatatea 2nd (25 pts/12). Last 8: 1-0 Tg-Mures(A),3-2 Viitorul Cluj(A),1-0 Dej(H),3-1 Recea(A),1-1 Zalau(H),3-1 Beius(A),1-1 Baile Felix(H),0-2 Baia Mare(H). Home only 1W in last 4 (1-0, 1-1, 1-1, 0-2); all strong results came away.",
+  "away_form": "Unirea Tasnad 10th (11 pts): 1-1 Crisul(H),3-3 Sighet(H),1-3 Baia Mare(A),2-1 Tg-Mures(A),1-0 Viitorul(H),0-0 Dej(A),1-2 Recea(H),0-4 Zalau(A). Away: W1 D1 L2.",
+  "goals_trend": "Sanatatea home games: 1,2,2,2 goals - low scoring. Kickoff 14:00 local at Stadionul Clujana.",
+  "h2h": "Round 2 this season: Unirea Tasnad 1-1 Sanatatea.",
+  "absences": "None found.",
+  "context": "Liga 3 Series 8, round 13; local press calls it a 'difficult trip' for Tasnad.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Home 1X2 at p0.735: Sanatatea's home record (1W in 4, scoring <=1 in each) and the 1-1 reverse fixture contradict it. Romanian 3rd tier.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.gazetanord-vest.ro/2026/11/unirea-tasnad-deplasare-dificila-la-cluj/",
+   "https://www.gazetanord-vest.ro/2026/11/liga-a-3-a-unirea-tasnad-scoate-un-punct-cu-crisul-santandrei",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73774570",
+  "fx": "Nairea v Al Sahel SC",
+  "home_form": "Nairea 2026-27 season: 0-1 Wej(H),2-2 Mudhar(A),3-4 Al Taraji(H),2-0 Afief(A).",
+  "away_form": "Al Sahel: 2-0 Mudhar(A),3-2 Qwarah(H),2-0 Gottah(A),1-0 Rayan(H),2-2 Wej(A),0-1 Taraji(H) - 4 straight wins.",
+  "goals_trend": "O1.5 this season: Nairea 3/4, Al Sahel 4/6 (two 1-0/0-1).",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Saudi Second Division (3rd tier) early season. No fixture-specific coverage found in Arabic or English.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No evidence; Gulf lower tier is a listed thin-context class for O1.5. Avoid.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.saff.com.sa/championship.php?id=416",
+   "https://en.wikipedia.org/wiki/Saudi_First_Division_League",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73774578",
+  "fx": "Hetten FC v Mudhar",
+  "home_form": "Hetten 2026-27: 1-4 Gottah(H),1-2 Baish(A) - 2 defeats from 2.",
+  "away_form": "Mudhar: 0-2 Al Sahel(H),2-2 Baish(H),1-2 Wej(A),2-2 Nairea(H).",
+  "goals_trend": "O1.5 6/6 across both sides' 2026-27 games (small sample).",
+  "h2h": "Jan 2026 results found involving Hajer/Hetten naming are ambiguous; none usable.",
+  "absences": "None found.",
+  "context": "Saudi Second Division early season; no previews found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Small-sample goals support only; Gulf thin-context class - avoid as an anchor.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.saff.com.sa/championship.php?id=416",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72281464",
+  "fx": "Nd Dravinja v Krka Novo Mesto",
+  "home_form": "Dravinja: 1-3 Beltinci(A),1-0 Dekani(H),6-0 Krsko(A),2-1 Jesenice(H),1-1 Primorje(A),1-4 Slovan(H),1-3 Velenje(A),3-1 Bistrica(H). Home: 3W1L.",
+  "away_form": "Krka: 1-0 Brezice(H),4-2 Triglav(A),3-0 Vrhnika(H),0-2 Bilje(A),1-2 Ilirija(A),1-2 Tabor(A),0-3 Beltinci(A),1-2 Dekani(H). Away: concede 2+ in 5 of last 5 away.",
+  "goals_trend": "O1.5: Dravinja 7/8, Krka 7/8 -> 14/16=88% vs house 0.788. Preview: Krka away 1.13 scored / 2.13 conceded per game.",
+  "h2h": "Preview says H2H history favours the home side.",
+  "absences": "None found.",
+  "context": "Slovenian 2. SNL.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 supported on fixture-specific last-8 (14/16) and Krka's away concession rate; statistics-only though.",
+  "confidence": 0.25,
+  "sources": [
+   "https://stavka.tv/matches/soccer/13-11-2026-nd-dravinja-krka-novo-mesto",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73068212",
+  "fx": "Gimnastic de Tarragona v Real Madrid Castilla",
+  "home_form": "Nastic: 1-1 Aguilas(A),0-2 Huesca(A),4-2 Alicante(H),2-1 Atl. Madrid B(H),2-2 Torremolinos(A),0-2 Murcia(A),1-2 Sant Andreu(H),0-3 Alcorcon(A). RM preview: 4 wins in 5 home league games.",
+  "away_form": "Castilla: 2-2 Alicante(H),2-0 Cartagena(H),0-2 Algeciras(A),3-2 Antequera(H),1-1 Ibiza(A),3-2 Atl. Madrid B(H),1-2 Alcorcon(H),1-1 Sant Andreu(A). No away league win yet.",
+  "goals_trend": "O1.5: Nastic 8/8, Castilla 8/8 (16/16) vs house 0.759.",
+  "h2h": "No recent relevant H2H.",
+  "absences": "None published (Castilla had absences v Hercules on 8 Nov; nothing for this game).",
+  "context": "Primera Federacion Grupo 2, MD12, Fri 21:15 local at Nou Estadi Costa Daurada; 1 point between the sides (Castilla 16, Nastic 15). Castilla is a reserve side (rules: reserves result-sides banned; goals only).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 supported: every one of both sides' last 8 had 2+ goals; Castilla's open games. Avoid any result-side (reserve team).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.realmadrid.com/es-ES/noticias/futbol/cantera-masculina/previas/gimnastic-de-tarragona-castilla-a-por-la-victoria-a-domicilio-13-11-2026",
+   "https://hoyaragon.es/real-zaragoza/jornada-infarto-primera-rfef-ocho-primeros-enfrentan-entre-real-zaragoza-puede-dar-golpe-grupo/20261112133231152426.html",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:76455614",
+  "fx": "Montevideo City Torque v Racing Club Montevideo",
+  "home_form": "Torque: 2-1 Boston River(A, 10 Nov),6-0 Libertad(A),2-1 Boston River(A),2-0 Penarol(A),3-1 Cerro(H),2-0 Atl. Mineiro(H),1-2 Albion(A),0-3 Atl. Mineiro(A). 2nd in Clausura (28) one point behind Liverpool (30) with 2 rounds left.",
+  "away_form": "Racing: 3-1 Cerro Largo(H),3-3 Defensor(A),3-0 Wanderers(H),0-2 Las Piedras(A),0-1 Penarol(H),1-2 Progreso(A),0-0 Liverpool(A),0-3 Las Piedras(A). Away: no goals in 3 of last 4 away.",
+  "goals_trend": "O1.5: Torque 8/8 (scored 2+ in 6 of last 7), Racing 6/8.",
+  "h2h": "3 May 2026 Apertura: Racing 1-1 Torque.",
+  "absences": "None found. Torque played 10 Nov (3-day turnaround).",
+  "context": "Clausura penultimate round, Fri 13 Nov 17:00 local at Estadio Luis Franzini (matches board 20:00 UTC). Torque must win to stay in title race; Racing 19 pts, little at stake in Clausura.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 supported by Torque's scoring run plus must-win motivation (title race, 2 rounds left) v a Racing side with no Clausura stake. Watch short turnaround.",
+  "confidence": 0.3,
+  "sources": [
+   "https://laoraldeportiva.com.uy/2026/11/10/se-viene-la-penuntima-fecha-del-torneo-clausura/",
+   "https://espectador.com/noticias/futboluruguayo/city-torque-le-gano-2-1-a-boston-river-y-se-subio-provisionalmente-a-la-punta-del-clausura",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:76488396",
+  "fx": "Swansea University v Treowen Stars",
+  "home_form": "Swansea University (Pure Swansea) 4th per NonLeagueMatters (7 Nov). Last 8: 2-0 Cardiff Draconians(H),2-4 Ynyshir(A),5-5 Afan Lido(A),3-1 Caerphilly Ath(H),0-0 Aberystwyth(A),2-3 Trethomas(H),4-0 Pontardawe(H),4-4 Pontypridd(H). Home 3W1D1L.",
+  "away_form": "Treowen 14th (5 pts/6 per NLM): 2-2 Newport City(A),1-0 Baglan(A),1-3 Trethomas(H),1-2 Ynyshir(H),1-6 Pontardawe(A),3-6 Caerphilly Ath(A),1-1 Llantwit(H),2-0 Llanelli(A).",
+  "goals_trend": "Very open games: Swansea Uni's last 8 averaged 5.1 goals; Treowen conceded 6 twice away.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Cymru South, Fri 19:30 UK. Tables conflict between sources (thefishy page stale: Uni 1st/21 pts).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "DNB Home moderately supported (home side stronger, Treowen leaky away), but Swansea Uni concede a lot (draws 5-5,4-4) - draws are voided by DNB anyway. Fill-level.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.nonleaguematters.co.uk/divisions/271/F/",
+   "https://thefishy.co.uk/leaguetable.php?table=333",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:76488288",
+  "fx": "Denbigh Town v Gresford Athletic",
+  "home_form": "Denbigh: 2-2 Mold(H),4-3 Llanuwchllyn(A),0-2 Bangor 1876(H),2-0 Guilsfield(A),2-4 Holyhead(H),0-2 Brickfield(A),2-1 Trearddur(H),5-2 Bala(H). Home: 2W1D2L, scored 2+ in 4 of 5 home.",
+  "away_form": "Gresford: 0-9 Bangor 1876(A, 6 Nov),1-2 Ruthin(H),0-1 Porthmadog(H),1-0 Penrhyncoch(A),3-1 Rhyl(H),0-1 Albion(A),1-1 Guilsfield(A),1-5 Mold(H). Lost 3 straight, conceded 12 in last 3.",
+  "goals_trend": "Gresford concede heavily (9,2,1,5 in recent defeats); Denbigh scored 2+ in 6 of 8.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Cymru North, Fri 19:30 UK. Gresford finished 14th last season; Denbigh 9th.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home team O1.5 is the better-supported leg (Denbigh 2+ in 4/5 home; Gresford conceded 12 in last 3). Home 1X2 less so (Denbigh home 2W in 5).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.rowdie.co.uk/predictions/",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Cymru_North",
+   "Sportradar gismo stats_team_lastx (via engine/sr.py, pulled 2026-11-12)"
+  ]
+ }
+]

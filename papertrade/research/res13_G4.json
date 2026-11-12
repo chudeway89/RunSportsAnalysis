@@ -1,0 +1,424 @@
+[
+ {
+  "eid": "sr:match:75802298",
+  "fx": "Mozambique v Ethiopia",
+  "home_form": "AFCON-Q group: 4-1 v Sudan (H), 1-1 v Senegal (H) = 4 pts. Earlier: lost 0-1 at Indonesia, lost 1-4 at Oman, AFCON25 R16 lost 0-4 to Nigeria. At home in Maputo: W 4-1, D 1-1 in the last two.",
+  "away_form": "Ethiopia have 0 pts: lost 0-1 v Senegal (H), lost 0-1 at Sudan. Earlier: 1-1 and 1-0 v Malawi, 0-3 v Sao Tome. Away record is weak and they score little.",
+  "goals_trend": "Ethiopia games are low-scoring (1,1,2,1,1,3 total). Mozambique's home group games had 5 and 2 goals.",
+  "h2h": "No recent competitive H2H found. Return leg on 17 Nov in Bahir Dar.",
+  "absences": "No team news found.",
+  "context": "Matchday 3 of a home-and-away double-header. Mozambique (4 pts) are chasing qualification and Ethiopia (0 pts) are near-eliminated. Kickoff 13:00 GMT (sportnewsafrica) matches the board.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Mozambique DNB @1.21 is supported by a structural mismatch: Ethiopia lost both group games, scored once in their last 3 competitive games, and Mozambique have home motivation. No named-absence mechanism, so it is a statistics-and-motivation lean only.",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/afcon-2027-qualifiers-fixtures-weekend-schedule-and-kick-off-times-13-16-november-2026/",
+   "https://www.espn.com/soccer/schedule/_/league/caf.nations_qual",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75802288",
+  "fx": "Zambia v Burundi",
+  "home_form": "Group I: beat Togo 2-0 (H), lost 1-3 at Algeria = 3 pts. Earlier: lost 0-5 at Argentina, AFCON25 0-3 v Morocco, 0-0 Comoros, 1-1 Mali.",
+  "away_form": "Burundi: drew 2-2 v Algeria (H), lost 0-1 at Togo = 1 pt. Earlier: lost 0-5 at Morocco, 4-0 and 0-4 v Chad.",
+  "goals_trend": "Zambia scored 2 and 1 in the group. Burundi conceded 2 and 1, and scored 2 v Algeria.",
+  "h2h": "None recent found.",
+  "absences": "No squad news found.",
+  "context": "Levy Mwanawasa Stadium, Ndola, 13:00 GMT. A Burundi win would lift them above Zambia. Market about -165 per one listing, and the board p 0.77 DNB is consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Zambia DNB @1.25 is only weakly supported (Zambia's home win v Togo, and Burundi have 1 win in their last 6 away). Burundi held Algeria. There is no named mechanism, so treat it as fill at best.",
+  "confidence": 0.18,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/afcon-2027-qualifiers-fixtures-weekend-schedule-and-kick-off-times-13-16-november-2026/",
+   "https://africasoccer.com/gabon-vs-lesotho-hosts-aim-to-build-momentum-in-november-international/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75802274",
+  "fx": "Burkina Faso v Mauritania",
+  "home_form": "Group: won 1-0 at CAR, drew 1-1 v Benin (H) = 4 pts. The last two home games were both 1-1 draws (Benin, Guinea-Bissau). They lost 0-7 at Argentina (Oct friendly).",
+  "away_form": "Mauritania: beat CAR 3-1 (H), lost 1-2 at Benin = 3 pts. Earlier: 1-1 Angola, 1-2 Argentina, 0-2 Kuwait, 1-1 Tunisia.",
+  "goals_trend": "BF home games: 1-1, 1-1. Mauritania away games: 3, 2, 2 goals.",
+  "h2h": "None recent found.",
+  "absences": "No team news found.",
+  "context": "Stade du 4 Aout, Ouagadougou, 16:00 GMT. A Mauritania win would overtake BF (4 v 3 pts). The NBC listing of Mauritania v BF on 15 Nov is the return leg, not a conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "BF DNB @1.19: DNB protects against BF's home-draw habit (two straight 1-1 home results). There is no named mechanism. Acceptable fill only; do not upgrade to 1X2.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/afcon-2027-qualifiers-fixtures-weekend-schedule-and-kick-off-times-13-16-november-2026/",
+   "https://www.nbcsports.com/soccer/news/afcon-qualifying-2026-africa-cup-of-nations-qualification-format-schedule-scores",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75802304",
+  "fx": "Cape Verde v Liberia",
+  "home_form": "Cape Verde have 0 pts: lost 1-2 v Rwanda (H) and 1-3 at Mali. World Cup 2026 run: 0-0 Spain, 2-2 Uruguay, 0-0 Saudi, lost 2-3 at Argentina. Home: 1-2 Rwanda, 0-0 Saudi, 3-0 Bermuda, 3-0 Serbia.",
+  "away_form": "Liberia have 0 pts: lost 0-1 v Mali (H), 1-3 at Rwanda. Earlier: beat Sierra Leone 1-0 away and 3-1 at home, 2-2 Libya.",
+  "goals_trend": "Liberia games: 1, 4, 4, 1, 4, 2, 4 goals (5/7 O1.5). Cape Verde games: 3, 4, 5, 0, 4, 0, 3 (5/7 O1.5).",
+  "h2h": "None recent found.",
+  "absences": "No team news found.",
+  "context": "Praia, 16:00 GMT. Both sides are pointless after 2 games in the Mali/Rwanda group, so it is a must-win for both and especially for the Cape Verde hosts. Strong favourites (about -475 in one listing).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Cape Verde 1X2 @1.24 has a must-win motivation but the home form is shaky (lost to Rwanda at home), so leave it. Over 1.5 @1.30 (p 0.74) has some support: both sides' games mostly 3+ goals and both chasing. No named mechanism.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/afcon-2027-qualifiers-fixtures-weekend-schedule-and-kick-off-times-13-16-november-2026/",
+   "https://www.pulse.com.gh/story/afcon-2027-qualifiers-matchday-3-4-fixtures-schedule-2026110910283741419",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75802224",
+  "fx": "Gabon v Lesotho",
+  "home_form": "Group A: beat Niger 2-0 (H), lost 0-2 at Morocco = 3 pts. Earlier: 3-1 Uzbekistan, 4-5 T&T, AFCON25 losses 2-3 to Ivory Coast and Mozambique.",
+  "away_form": "Lesotho have 0 pts: lost 0-2 v Morocco (H) and 1-2 at Niger. Earlier: lost 0-4 at Kenya, 1-1 Kenya, 2-1 and 0-0 v Seychelles, 0-1 and 0-0 v Malawi.",
+  "goals_trend": "Lesotho score rarely: 0, 1, 0, 1, 2, 0, 0, 0 in the last 8. Their games are often low (2, 3, 4, 2, 3, 0, 1, 0 total). Gabon's home games are higher-scoring.",
+  "h2h": "None recent found.",
+  "absences": "No team news found. The preview does not mention Aubameyang.",
+  "context": "Stade de Franceville, 16:00 GMT. One generic fixture page dates the window 11 Nov, but SR and all other sources say 13 Nov, so this is not treated as a real conflict. The return leg is 17 Nov in Lesotho.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Gabon 1X2 @1.23 has a structural mismatch: Lesotho have scored 1 goal in 2 group games and have lost all 3 recent away games against quality sides. It is reasonable but there is no named mechanism. Over 1.5 (p 0.75) is weaker because Lesotho games are low-scoring: avoid, or keep it marginal.",
+  "confidence": 0.25,
+  "sources": [
+   "https://africasoccer.com/gabon-vs-lesotho-hosts-aim-to-build-momentum-in-november-international/",
+   "https://tips.gg/article/gabon-vs-lesotho-13-11-2026/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75802320",
+  "fx": "Nigeria v Tanzania",
+  "home_form": "Group L: beat Madagascar 2-1 (H), lost 0-3 at Guinea-Bissau (29 Sep) = 3 pts. Friendlies: 3-3 at Russia, 2-1 at Portugal, 2-2 Poland, 3-0 Jamaica, 2-0 Zimbabwe.",
+  "away_form": "Tanzania: drew 1-1 at Madagascar, lost 0-2 v Guinea-Bissau (H) = 1 pt. Earlier: lost 0-1 v Liechtenstein (H), AFCON25 1-1 Tunisia and 1-2 v Nigeria.",
+  "goals_trend": "Nigeria games: 6, 3, 3, 3, 4, 3, 2 goals (all O1.5 in the last 7). Tanzania games: 2, 2, 6, 1, 1, 2, 2, 3.",
+  "h2h": "AFCON 2025 group: Nigeria 2-1 Tanzania.",
+  "absences": "Victor Osimhen OUT injured. Kelechi Iheanacho dropped (Chelle 24-man squad). Lookman expected to lead the line.",
+  "context": "Uyo, 16:00 GMT. Nigeria must respond after the 0-3 loss in Bissau. Tanzania are already qualified as 2027 co-hosts, so they have low motivation (a qualifier played with nothing at stake). One preview predicts only 1-0.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Nigeria 1X2 @1.19 is supported by a motivation mismatch: Nigeria are must-win after the 0-3 defeat, while Tanzania are already qualified as co-host. The Osimhen absence tempers it. O1.5 @1.20 is supported by Nigeria's 7 straight O1.5 games. Both are acceptable; prefer 1X2.",
+  "confidence": 0.3,
+  "sources": [
+   "https://khelnow.com/football/nigeria-vs-tanzania-preview-afcon-2027-qualifiers-202611",
+   "https://notjustok.com/sports/afcon-2027-chelle-names-nigerias-november-2026-squad/",
+   "https://www.premiumtimesng.com/news/headlines/913471-nigerias-3-0-defeat-to-guinea-bissau-seven-key-takeaways-as-super-eagles-lose-ground-in-afcon-qualifiers.html",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75802254",
+  "fx": "South Africa v Kenya",
+  "home_form": "Group D: beat Guinea 2-1 (H), won 5-0 at Eritrea = 6 pts. Won 1-0 at Egypt (Oct friendly). WC26: beat Korea 1-0, lost 0-1 to Canada. Mostly tight games.",
+  "away_form": "Kenya: 1-1 v Eritrea (H), lost 0-1 at Guinea, 0-0 at Rwanda = 1 pt. Earlier: lost 5-6 to Estonia, 0-3 at Grenada, 0-8 v Senegal.",
+  "goals_trend": "SA games are mostly 1-2 goals except 5-0 at Eritrea. Kenya have scored 1 goal in their last 4 competitive games.",
+  "h2h": "Not found.",
+  "absences": "SA (Mosimane, new post-WC coach): Themba Zwane left out, Mbokazi returns. Kenya (McCarthy): Olunga and Ouma back from injury, Vyner out (paperwork).",
+  "context": "Orlando Stadium, Johannesburg, 16:00 GMT. Kenya are already qualified as co-hosts and described as 'troubled' (Daily Maverick), so they have low motivation. Return leg on 17 Nov in Nairobi.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "SA 1X2 @1.29 (p 0.754) is supported by a motivation mismatch (Kenya are co-hosts and already qualified, with poor form) and SA's 6/6 start. Olunga's return adds some risk. Acceptable at moderate confidence.",
+  "confidence": 0.28,
+  "sources": [
+   "https://www.dailymaverick.co.za/article/2026-11-12-bafana-bafana-ready-to-tackle-troubled-kenyans-in-key-afcon-qualification-clash/",
+   "https://blog.ke.sportpesa.com/2026/11/12/south-africa-vs-kenya-prediction-afcon-2027-qualifiers-preview-team-news-lineups-h2h/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75802232",
+  "fx": "Egypt v Malawi",
+  "home_form": "Group: drew 0-0 v Angola (H), won 5-0 at South Sudan = 4 pts. Lost 0-1 v South Africa at home (Oct friendly). WC26: 1-1 Iran, 1-1 Belgium, 3-5 Australia.",
+  "away_form": "Malawi: beat South Sudan 2-1 (H), lost 1-3 at Angola = 3 pts. Earlier: 1-1, 0-1 Ethiopia, 0-1 Botswana, 0-1 and 0-0 v Lesotho.",
+  "goals_trend": "Egypt's last 3 home games: 0-1, 0-0, 1-1 (only 1 of 3 O1.5). Malawi games are low: 4, 3, 2, 1, 1, 1, 0, 1 totals (3 of the last 8 O1.5).",
+  "h2h": "Not found.",
+  "absences": "Egypt squad announced, with no specific absences found.",
+  "context": "Cairo, 19:00 GMT. Egypt top the group with 4 pts.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Over 1.5 @1.20 (p 0.805). Fixture-specific evidence runs against it: Egypt's home scoring has dried up (1 goal in their last 3 home games) and Malawi games are routinely under 2 goals. If anything, Egypt DNB, but that is not on the board.",
+  "confidence": 0.25,
+  "sources": [
+   "https://khelnow.com/football/egypt-vs-malawi-preview-afcon-2027-qualifiers-202611",
+   "https://sportnewsafrica.com/en/news/afcon-2027-qualifiers-fixtures-weekend-schedule-and-kick-off-times-13-16-november-2026/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75802306",
+  "fx": "Mali v Rwanda",
+  "home_form": "Group: beat Cape Verde 3-1 (H), won 1-0 at Liberia = 6 pts. Drew 1-1 at Morocco (Oct). AFCON25: lost 0-1 to Senegal, beat Tunisia 4-3.",
+  "away_form": "Rwanda: beat Liberia 3-1 (H), won 2-1 at Cape Verde = 6 pts. Drew 0-0 v Kenya. Earlier: 2-0 Estonia, 4-0 Grenada, 0-3 at South Africa.",
+  "goals_trend": "Mixed: Mali games 2, 1, 4, 1, 2; Rwanda games 0, 3, 4, 2, 4.",
+  "h2h": "Not found.",
+  "absences": "No team news found.",
+  "context": "Top-of-group clash in Bamako, 19:00 GMT, with both sides on 6 pts. Return leg on 17 Nov in Kigali.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Mali 1X2 @1.32 (p 0.733). It is below the 0.75 bar, Rwanda are in form (won in Praia), and it is a top-of-table clash in which a draw suits both sides before the return leg.",
+  "confidence": 0.22,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/afcon-2027-qualifiers-fixtures-weekend-schedule-and-kick-off-times-13-16-november-2026/",
+   "https://egyptian-gazette.com/sports/african-giants-return-for-key-afcon-qualifiers",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75512544",
+  "fx": "Antigua and Barbuda v Trinidad and Tobago",
+  "home_form": "League C: beat Aruba 3-2 (H), won 3-0 at Anguilla, beat Anguilla 5-0 (H), lost 0-1 at Aruba.",
+  "away_form": "T&T (League A): drew 1-1 v Curacao, lost 0-1 at Curacao, lost 1-2 v Dominican Rep, lost 2-3 at Haiti. Friendlies: lost 0-3 at Russia, 0-5 at Korea.",
+  "goals_trend": "T&T games: 7 of the last 8 O1.5. Antigua games: 5 of 8.",
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "Nations League A/C play-in first leg (Gold Cup prelim path) at Sir Vivian Richards Stadium. Kickoff Thu 12 Nov 18:00 local = 23:00 UTC (Concacaf/ESPN/SR). Some previews say Fri 13 Nov. A TTT News item says T&T host the first leg.",
+  "veto": true,
+  "veto_reason": "Date/venue conflict: some sources say 13 Nov, and TTT News says T&T host leg 1. Kickoff is 12 Nov 23:00 UTC, before the 13-15 Nov slate, so it will likely have started before posting.",
+  "lean": "Over 1.5 @1.18 is statistically fine (T&T games are mostly 3+ goals), but the fixture is vetoed on the date and venue conflict.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.vavel.com/en-us/soccer/2026/11/12/1278954-antigua-and-barbuda-vs-trinidad-and-tobago-live-latest-score-goals-and-concacaf-nations-league-updates.html",
+   "https://www.ttt.live/tt-to-face-antigua-and-barbuda-in-gold-cup-play-in/",
+   "https://www.concacaf.com/competitions/nations-league/news/2026-27-concacaf-nations-league-november-schedule-confirmed",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75468314",
+  "fx": "Bermuda v Saint Lucia",
+  "home_form": "Bermuda have 0 pts in League B: lost 1-2 v Barbados, 1-4 at Barbados, 2-5 at Saint Lucia, 1-2 v Guadeloupe. Earlier: lost 0-7 to Curacao, 0-4 at Jamaica.",
+  "away_form": "Saint Lucia (9 pts): won 1-0 at Guadeloupe, beat Guadeloupe 3-0, beat Bermuda 5-2, lost 0-2 at Barbados. Won 3-0 at Cuba and 3-1 at St Vincent in 2025.",
+  "goals_trend": "Bermuda conceded 2, 4, 5, 2 in the group. Saint Lucia scored 1, 3, 5, 0.",
+  "h2h": "Saint Lucia 5-2 Bermuda on 29 Sep 2026 (this group).",
+  "absences": "None found.",
+  "context": "Neutral venue: Stade Roger Zami, Le Gosier, Guadeloupe (Concacaf/ESPN/Wikipedia agree). Saint Lucia (9) chase leaders Barbados (10) and meet them on 17 Nov, so they must win. Bermuda are bottom with nothing to play for.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Saint Lucia team Over 1.5 @1.19 is the best leg, supported by the fixture-specific H2H (5-2 six weeks ago) and Bermuda conceding 2+ in all 4 group games. Away 1X2 @1.24 (p 0.775) is supported by motivation plus the neutral venue (no Bermuda home edge). The venue is neutral but consistent across sources, so no conflict.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.concacaf.com/competitions/nations-league/news/2026-27-concacaf-nations-league-november-schedule-confirmed",
+   "https://winner364.com/matches/bermuda-vs-st-lucia-prediction-2026-11-13/",
+   "https://www.concacaf.com/competitions/concacaf/news/nations-league-headlines-this-week-in-concacaf",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75468290",
+  "fx": "Puerto Rico v Dominica",
+  "home_form": "League B Group A: beat Cayman 1-0, won 3-0 at Cayman, won 2-0 at Dominica, lost 0-1 v Guyana.",
+  "away_form": "Dominica: drew 0-0 at Cayman, lost 0-2 v Puerto Rico, lost 1-5 v Guyana, lost 1-8 at Guyana.",
+  "goals_trend": "Dominica conceded 0, 2, 5, 8. Puerto Rico scored 1, 3, 2, 0.",
+  "h2h": "Puerto Rico won 2-0 at Dominica on 28 Sep 2026.",
+  "absences": "None found.",
+  "context": "NEUTRAL venue: Leonora National Track and Field Centre, Georgetown, Guyana (Concacaf official + ESPN). Puerto Rico's 'home' designation has no real home advantage.",
+  "veto": true,
+  "veto_reason": "Neutral venue (Guyana): the board's home designation is false. Treated as a venue veto per protocol, even though the sources agree.",
+  "lean": "On form, Puerto Rico 1X2 and their team O1.5 would be supported (PR won 2-0 at Dominica, and Dominica conceded 13 in their last 2). Only take them if the caller overrides the neutral-venue veto, and prefer the team O1.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.concacaf.com/competitions/nations-league/news/2026-27-concacaf-nations-league-november-schedule-confirmed",
+   "https://www.espn.com/soccer/schedule/_/league/concacaf.nations.league",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75512546",
+  "fx": "Saint-Martin v El Salvador",
+  "home_form": "Saint-Martin (League B Gp D): beat Bahamas 6-0, won 5-0 at USVI, lost 0-2 v USVI, won 8-0 at Bahamas. Big wins against minnows.",
+  "away_form": "El Salvador (League A) are in poor form: drew 1-1 at Martinique, lost 0-2 v Jamaica, lost 0-6 at Guatemala, beat Martinique 3-1.",
+  "goals_trend": "El Salvador scored 1, 0, 0, 3 in their last 4. Saint-Martin's games are high-variance.",
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "Appears to be a cross-league A/B play-in (Saint-Martin is League B, El Salvador League A per ESPN). Kickoff 13 Nov 23:00 UTC. No preview found. Saint-Martin is a non-FIFA member.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID El Salvador 1X2 @1.23 and their team O1.5 @1.28. El Salvador have scored 1 goal in their last 3 and lost 0-6 at Guatemala, and Saint-Martin are in scoring form. There is no fixture-specific support.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/standings/_/league/concacaf.nations.league",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_CONCACAF_Nations_League",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75512548",
+  "fx": "Montserrat v Nicaragua",
+  "home_form": "Montserrat (League B/C) won all 4: 4-1 Turks & Caicos, 2-0 at BVI, 3-0 BVI, 2-0 at Turks & Caicos.",
+  "away_form": "Nicaragua (League A) lost all 4: 1-2 Dominican Rep, 0-3 Costa Rica, 1-6 at Curacao, 2-3 at Dominican Rep. Scored 4 and conceded 14.",
+  "goals_trend": "Nicaragua scored 1, 0, 1, 2 in the group. Montserrat conceded 1 in 4.",
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "Likely a cross-league play-in, 14 Nov 00:00 UTC. No preview found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Nicaragua 1X2 @1.27 and their team O1.5 @1.29. Nicaragua lost all 4 League A games, and Montserrat are 4/4 with 1 goal conceded. The board price relies on the tier gap only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_CONCACAF_Nations_League",
+   "https://www.espn.com/soccer/standings/_/league/concacaf.nations.league",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75466978",
+  "fx": "Guatemala v Canada",
+  "home_form": "Guatemala: beat Suriname 1-0 (H), drew 0-0 at Suriname, beat El Salvador 6-0 (H), lost 2-3 at Jamaica. Beat Canada on pens in the 2025 Gold Cup QF (1-1).",
+  "away_form": "Canada: lost 0-1 at USA, beat Peru 2-0 and Chile 1-0 at home. WC26: lost 0-3 to Morocco, 0-1 to South Africa, beat Switzerland 2-1.",
+  "goals_trend": "Canada's last 5 games: 1, 2, 1, 3, 1 goals. Guatemala's home games: 1-0, 6-0.",
+  "h2h": "2025 Gold Cup QF 1-1 (Guatemala won on pens). Canada won 1-0 v Guatemala in Jan 2026.",
+  "absences": "No team news found.",
+  "context": "Nations League A QF2 first leg, Estadio Manuel Felipe Carrera, Guatemala City, 14 Nov 02:00 UTC. Second leg on 16 Nov in Toronto. In a first leg, an away side often plays cagey.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID both. Canada DNB @1.25 (p 0.77) is high for an away first leg in Guatemala City against a side that eliminated them in 2025. O1.5 @1.29 has no fixture-specific support in a cagey first leg.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.espn.com/soccer/match/_/gameId/401929711/canada-guatemala",
+   "https://www.sportskeeda.com/football/guatemala-vs-canada-prediction-betting-tips-november-13th-2026",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_CONCACAF_Nations_League_A",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68932814",
+  "fx": "Andorra v Gibraltar",
+  "home_form": "Andorra in the League D group: lost 0-1 at Malta, lost 0-3 at Lithuania, drew 0-0 at Gibraltar, lost 1-2 v Malta (H) = 1 pt. Home: 1-2 Malta, 2-0 Liechtenstein, 0-1 Iraq.",
+  "away_form": "Gibraltar unbeaten in 4: won 2-0 at Liechtenstein, 1-1 at Malta, 0-0 v Andorra, 0-0 v Sao Tome.",
+  "goals_trend": "Very low. Andorra scored 1 goal in 4 group games, and the group H2H was 0-0.",
+  "h2h": "Gibraltar 0-0 Andorra (27 Sep 2026).",
+  "absences": "None found.",
+  "context": "Nations League D, Estadi Nacional, 19:45 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Andorra DNB @1.25 (p 0.777). Fixture evidence runs against it: Andorra are winless in 4 with 1 goal scored, Gibraltar are unbeaten in 4 and won at Liechtenstein, and the reverse fixture was 0-0. This is divergence against the house, so skip.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_D",
+   "https://www.bets.co.za/soccer/uefa-nations-league/uefa-nations-league-predictions-13-november-2026-20261112-0016/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68932076",
+  "fx": "Liechtenstein v Azerbaijan",
+  "home_form": "Liechtenstein: lost 0-2 v Gibraltar (H), drew 0-0 at Azerbaijan, lost 0-2 at Malta, lost 0-2 v Lithuania (H).",
+  "away_form": "Azerbaijan: beat Lithuania 1-0 (H), drew 0-0 v Liechtenstein (H), drew 1-1 at Lithuania, beat Tajikistan 1-0.",
+  "goals_trend": "Very low on both sides: Azerbaijan games 1, 0, 2, 1; Liechtenstein games 2, 0, 2, 2.",
+  "h2h": "Azerbaijan 0-0 Liechtenstein (1 Oct 2026).",
+  "absences": "None found.",
+  "context": "Nations League D, Vaduz, 19:45 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Azerbaijan 1X2 @1.31 (p 0.753) is weakly opposed: they could not beat Liechtenstein at home (0-0) and score about 1 goal a game, so the draw risk is high. If it is used at all, it is fill only. AVOID.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_D",
+   "https://www.bets.co.za/soccer/uefa-nations-league/uefa-nations-league-predictions-13-november-2026-20261112-0016/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68931584",
+  "fx": "Netherlands v Greece",
+  "home_form": "Group A2: beat Serbia 2-1 (H), drew 2-2 at Greece, won 2-1 at Serbia, drew 1-1 v Germany (H). WC26: 5-1 Sweden, 2-2 Japan, lost 1-3 at Tunisia, lost 3-4 to Morocco.",
+  "away_form": "Greece unbeaten in the group: 0-0 v Germany, 2-2 v Netherlands, won 1-0 at Germany, won 2-1 at Serbia.",
+  "goals_trend": "Dutch games: 3, 4, 3, 2 in the group and 7 of 8 O1.5 recently. Greece games: 0, 4, 1, 3.",
+  "h2h": "Greece 2-2 Netherlands (1 Oct 2026).",
+  "absences": "Netherlands: Virgil van Dijk and Brian Brobbey withdrew (fitness). Greece: full squad fit.",
+  "context": "Amsterdam, 19:45 UTC. Greece need 1 win from 2 (they hold H2H over Germany) and play Serbia at home next. The Dutch lead the group.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.19 is supported: Dutch games went 3, 4, 3, 2 in the group and the reverse fixture was 2-2. Van Dijk's absence weakens the Dutch defence, which also favours goals. Netherlands DNB @1.24 is weaker because Greece are unbeaten with a draw being enough for them, and Van Dijk is out. Prefer O1.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://khelnow.com/football/netherlands-vs-greece-preview-uefa-nations-league-202611",
+   "https://neoskosmos.com/en/2026/11/12/sport/football/greece-eyeing-historic-nations-league-quarter-final-qualification/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68932796",
+  "fx": "Scotland v North Macedonia",
+  "home_form": "Scotland home: lost 1-2 v Slovenia, lost 0-3 v Switzerland. WC26: lost 0-3 to Brazil and 0-1 to Morocco. They won 2-0 in Skopje (3 Oct). Scotland scored 1 goal in their last 4 home games.",
+  "away_form": "North Macedonia lost all 4 NL games, with 0 scored and 10 conceded (0-3 at Switzerland, 0-2 v Scotland, 0-2 at Slovenia, 0-3 v Switzerland). They have not scored in 8 games.",
+  "goals_trend": "NM games: 3, 2, 2, 3 totals. Scotland games: 3, 2, 3, 0.",
+  "h2h": "Scotland unbeaten in 4 v NM (3W 1D), including 2-0 away on 3 Oct.",
+  "absences": "Scotland: Scott McTominay returns (missed the last window after heart surgery). NM: Bojan Miovski OUT, Darko Churlinov recalled.",
+  "context": "Hampden, 19:45 UTC, League B Group 1. Scotland cannot win the group but are playing for the promotion play-off spot. NM are bottom.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Scotland 1X2 @1.21 is supported by named mechanisms: NM have scored 0 in 8, Miovski (their main striker) is out, and McTominay returns. The risk is Scotland's poor home scoring. Under 4.5 @1.19 (p 0.829) is structurally strong but falls under the rout-tail exclusion (favourite p >= 0.65). Over 1.5 is weaker because it depends on Scotland scoring 2+.",
+  "confidence": 0.32,
+  "sources": [
+   "https://www.tntsports.co.uk/betting/tips/scotland-vs-north-macedonia-prediction-tips-and-odds-nations-league-13-11-26/",
+   "https://footballwhispers.com/blog/scotland-vs-north-macedonia-prediction-13-11-2026/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68931586",
+  "fx": "Serbia v Germany",
+  "home_form": "Serbia have 0 pts: lost 1-2 v Greece (H), 1-2 v Netherlands (H), 0-2 at Germany, 1-2 at Netherlands. Earlier friendlies (SR): lost 0-3 at Cape Verde.",
+  "away_form": "Germany (3rd): 1-1 at Netherlands, lost 0-1 v Greece (H), beat Serbia 2-0 (H), 0-0 at Greece. They have scored 3 goals in 4 NL games.",
+  "goals_trend": "Germany scored 1, 0, 2, 0 in the group (team O1.5 hit 1 time in 4). Serbia conceded 2 in each game.",
+  "h2h": "Germany 2-0 Serbia (1 Oct 2026).",
+  "absences": "Germany (Klopp): experimental squads with many uncapped players; Wael Mohya debut call-up, Fullkrug recalled, Raum omitted.",
+  "context": "Rajko Mitic, Belgrade, 19:45 UTC. Germany need wins to reach the top 2. Serbia are eliminated from contention.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Germany team O1.5 @1.31 (Germany scored 2+ once in 4 NL games). Germany 1X2 @1.30 (p 0.763) is only borderline: motivation favours them but the squad is experimental and they are low-scoring. If used, fill only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.bundesliga.com/en/bundesliga/news/wael-mohya-niclas-fullkrug-germany-squad-jurgen-klopp-serbia-netherlands-39888",
+   "https://sports.yahoo.com/articles/preview-serbia-vs-germany-team-184500431.html",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68932374",
+  "fx": "Slovakia v Faroe Islands",
+  "home_form": "Slovakia: beat Moldova 2-0 (H), beat Kazakhstan 2-1 (H), drew 1-1 at Faroes, won 4-0 at Moldova. Friendlies: 2-2 Montenegro, 2-1 Malta, 3-4 Kosovo.",
+  "away_form": "Faroes: 4 straight NL draws (2-2 at Kazakhstan, 1-1 Slovakia, 1-1 at Moldova, 1-1 Kazakhstan).",
+  "goals_trend": "All 8 of the two teams' NL games were O1.5 (totals 4, 2, 3, 2 / 4, 2, 2, 2). Faroes scored in all 4.",
+  "h2h": "Faroes 1-1 Slovakia (2 Oct 2026).",
+  "absences": "None found.",
+  "context": "League C, Bratislava/Trnava, 19:45 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.27 (p 0.76) is supported by fixture-specific evidence: 8 of 8 group games O1.5, the Faroes scoring in every NL game, and Slovakia scoring 2+ in 3 of 4.",
+  "confidence": 0.28,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Nations_League_C",
+   "https://www.bets.co.za/soccer/uefa-nations-league/uefa-nations-league-predictions-13-november-2026-20261112-0016/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73293348",
+  "fx": "ACD Ospitaletto v Dolomiti Bellunesi",
+  "home_form": "Ospitaletto 4th (22 pts after 13). Last 8: won 1-0 at Desenzano, 0-0 Trento (H), lost 1-2 at Vercelli, lost 2-3 Crema (H), won 1-0 at Treviso, 1-1 Renate (H), won 2-0 at Novara, lost 0-1 Cittadella (H). No home win in their last 4 home games (D, L, D, L).",
+  "away_form": "Dolomiti Bellunesi 19th (10 pts) and in collapse: 7 straight defeats (2-4 at Vercelli, 0-4 Lecco, 0-1 Desenzano, 1-2 at Treviso, 0-3 Trento, 0-2 at Desenzano, 1-2 Novara).",
+  "goals_trend": "Ospitaletto home totals: 0, 5, 2, 1 (2 of 4 O1.5). Dolomiti away totals: 6, 3, 2, 2 (4 of 4 O1.5).",
+  "h2h": "2025-26: Ospitaletto 3-1 Dolomiti (H), Dolomiti 4-1 Ospitaletto.",
+  "absences": "None found. Referee: Gennaro Decimo (Napoli).",
+  "context": "Serie C Gr. A R14, Stadio Gino Corioni, Fri 13 Nov 20:30 CET (19:30 UTC); SR, TrivenetoGoal and the board agree.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Ospitaletto DNB @1.18 is supported by Dolomiti's 7-game losing run, but Ospitaletto's home form (0 wins in 4 home games) means DNB is the right instrument and not 1X2. Over 1.5 @1.28 is only moderate: Dolomiti's away games are all O1.5, but Ospitaletto's home games are low-scoring.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.trivenetogoal.it/2026/11/10/ospitaletto-dolomiti-bellunesi-gennaro-decimo-dirigera-la-sfida-designata-la-squadra-arbitrale/268722/",
+   "https://www.corrieredellosport.it/live/classifica-serie-c-girone-a",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-12"
+  ]
+ }
+]

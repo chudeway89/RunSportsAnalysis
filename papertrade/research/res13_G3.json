@@ -1,0 +1,414 @@
+[
+ {
+  "eid": "sr:match:73719632",
+  "fx": "Phoenix Suns v Charlotte Hornets",
+  "home_form": "PHX 4-6. Last 8 (SR): W 133-110 LAC, L 96-122 SAS, W 102-99 HOU, W 117-104 ORL, L 119-132 POR, L 113-116 @GSW, L 120-127 DEN, L 114-125 @OKC. Home 3-3 in last 6.",
+  "away_form": "CHA 4-7. Last 8: W 124-112 CLE, L 80-119 BOS, L 104-114 @BKN, L 91-124 DET, L 104-109 PHI, W 95-79 @WAS, W 97-89 @DET, W 110-103 WAS. Two recent 33/39-pt home blowout losses.",
+  "goals_trend": "PHX game totals last 8: 243,218,201,221,251,229,247,239 (7/8 >201, 5/8 >225). CHA totals: 236,199,218,215,213,174,186,213 (3/8 <=201). Charlotte worst offensive rating in NBA (101.9).",
+  "h2h": "First meeting of season; no fixture-specific H2H found.",
+  "absences": "CHA OUT: Kon Knueppel, Brandon Miller, Dennis Schroder; Diabate and Grant Williams probable. PHX OUT: Mark Williams (shoulder surgery).",
+  "context": "Regular season, Nov 12 local (02:00 UTC Nov 13). ESPN BPI ~73% PHX. Charlotte missing its top two scorers plus starting guard.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Away +18.5 (rule: no 15+ catch for a weak receiver; Hornets have lost by 33 and 39 in the last week and are missing Knueppel/Miller/Schroder). Totals: no clear mechanism - depleted CHA pushes toward the Under, but PHX games run high (5/8 >225). Mild lean U225.5/U226.5 only; Overs 200.5-202.5 exposed to CHA's 174/186/199 totals. Low confidence.",
+  "confidence": 0.2,
+  "sources": [
+   "https://athlonsports.com/nba/charlotte-hornets/final-injury-report-for-hornets-suns-will-brandon-miller-kon-knueppel-play",
+   "https://sports.yahoo.com/articles/suns-vs-hornets-prediction-preview-155446537.html",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73696986",
+  "fx": "Orlando Magic v Milwaukee Bucks",
+  "home_form": "ORL last 8 (SR): L 108-123 @UTA, L 100-107 @SAC, L 119-126 @GSW, L 104-117 @PHX, L 94-103 WAS (home), L 97-108 BOS (home), W 121-114 @TOR, L 99-129 @TOR. 1-7 run, home losses to WAS/BOS.",
+  "away_form": "MIL last 8: L 112-123 LAL, L 85-117 @NYK, L 97-117 BOS, L 107-121 TOR, L 102-109 @BOS, L 100-112 @MIN, L 111-136 CLE, L 100-132 HOU. 0-8, average margin about -17.",
+  "goals_trend": "ORL totals 205-231; MIL totals 202-247. Not relevant to the ML leg.",
+  "h2h": "No 2026-27 meeting found.",
+  "absences": "ORL OUT: Paolo Banchero (ankle, est. Nov 22), Jalen Suggs and Jonathan Isaac (knee, est. Nov 16), Tristan da Silva (calf), Jamal Cain. MIL: Myles Turner OUT (rest), Ryan Rollins GTD (head).",
+  "context": "Both teams in bad slumps; ORL returning home after a 5-game west trip. Neither on a back-to-back.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home ML (p0.785): the mechanism is MIL's 0-8 collapse plus Turner resting, but ORL is 1-7 and missing Banchero and Suggs, with home losses to Wizards and Celtics. Mixed - no strong support. If used at all, it is fill only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sports.yahoo.com/articles/watch-magic-vs-bucks-injury-190016570.html",
+   "https://hoopsnightly.com/teams/magic/injuries",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73696996",
+  "fx": "San Antonio Spurs v Golden State Warriors",
+  "home_form": "SAS 8-0 last 8 (SR): W 124-119 @CHI, W 122-96 @PHX, W 125-103 @POR, W 124-109 @SAC, W 112-111 DAL, W 119-97 UTA, W 121-111 MIN, W 117-111 @UTA.",
+  "away_form": "GSW 7-1 last 8, but 6 of those 7 wins at home: L 108-115 @HOU, W 138-87 NOP, W 126-119 ORL, W 120-100 MIA, W 116-113 PHX, W 124-112 LAC, W 112-95 LAL, W 119-114 @MIN.",
+  "goals_trend": "n/a for ML.",
+  "h2h": "No 2026-27 meeting found.",
+  "absences": "GSW: Stephen Curry QUESTIONABLE (abdominal soreness); OUT Jimmy Butler (knee), Kristaps Porzingis (illness), Moses Moody (knee), Brandon Williams; Payton II day-to-day. SAS: Devin Vassell (adductor) and Tobias Harris (calf) out or doubtful, Jayden Quaintance out.",
+  "context": "Hot Spurs at home vs a Warriors side short on frontcourt/wings; GSW played at HOU Nov 11.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "SUPPORT Home ML (p0.812): named GSW absences (Butler, Porzingis, Moody, Curry doubtful) plus SAS 8-0 form. Check Curry's status at tip - if Curry plays, it is still fine at ML.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sports.iheart.com/content/2026-11-12-warriors-vs-spurs-predictions-odds-stats-nov-13/",
+   "https://www.sportsmole.co.uk/basketball/san-antonio-spurs/preview/golden-state-warriors-vs-san-antonio-spurs-player-props-injury-report-and-prediction--nba_608976.html",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73622714",
+  "fx": "Western Illinois Leathernecks v Cal State Bakersfield",
+  "home_form": "WIU 2-1: W 90-48 Simpson (NAIA), L 67-74 Houston Christian (home), W 80-58 @Valparaiso. Weak 2025-26 finish (lost 5 of last 6 Feb games).",
+  "away_form": "CSUB 2-0: W 91-80 North Dakota State, W 93-54 Stanton (both home). Ended 2025-26 with a W 108-76 @Cal Poly.",
+  "goals_trend": "CSUB scoring 91-93 at home; WIU lost at home to an HCU side.",
+  "h2h": "None found.",
+  "absences": "No injury news found.",
+  "context": "Non-conference, Western Hall Macomb, 7pm CT, ESPN+. CSUB travelling cross-country.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Away ML (p0.797): mild support from form (CSUB beat NDSU; WIU lost at home to HCU), but there is no named mechanism, an away cross-country trip in November, and thin data. Fill only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportsmediawatch.com/tv-schedules/college-sports/college-basketball-tv-schedule-men/",
+   "https://www.espn.com/mens-college-basketball/team/_/id/2934/cal-state-bakersfield-roadrunners",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73116034",
+  "fx": "Texas AM Aggies v Oklahoma State Cowboys",
+  "home_form": "TAMU 3-0, all home blowouts v low-majors: 108-67 ULM, 104-67 NKU, 97-66 Alabama State.",
+  "away_form": "OSU 2-0 home v low-majors: 118-68 Queens, 91-60 Incarnate Word. First road game.",
+  "goals_trend": "Total 177.5-178.5; spread TAMU -7.5/-8.5.",
+  "h2h": "OSU leads series 33-18 and won 87-63 in Stillwater last season.",
+  "absences": "TAMU: Cade Phillips questionable.",
+  "context": "Reed Arena, Thursday Nov 12 (01:00 UTC Nov 13), SEC Network+. First real test for both.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home ML p0.763 vs model estimates of ~73% (Dimers 73.1%), so the board is slightly rich. Last year's H2H was a 24-point OSU win. No supporting mechanism - avoid or treat as fill.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.dimers.com/cbb/news/oklahoma-state-vs-texas-am-prediction-11-12-2026-ac",
+   "https://sports.yahoo.com/articles/oklahoma-state-vs-texas-m-130117778.html",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73722156",
+  "fx": "San Jose State Spartans v UC Riverside Highlanders",
+  "home_form": "SJSU 2-0: W 91-79 @UC Irvine (quality road win), W 95-74 UTSA.",
+  "away_form": "UCR 2-0: W 64-60 Denver, W 110-47 La Verne (both home).",
+  "goals_trend": "n/a.",
+  "h2h": "None found this season.",
+  "absences": "No injury news found.",
+  "context": "Provident Credit Union Event Center, Nov 12 7-8pm PT, MW+. Start time differs by source (7pm vs 8pm ET listing), but the date is consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home ML (p0.777): modest support - SJSU's win at UC Irvine is the best result by either side, and UCR only edged Denver by 4. Not a named mechanism.",
+  "confidence": 0.2,
+  "sources": [
+   "https://gohighlanders.com/sports/mens-basketball/schedule",
+   "https://www.sports-reference.com/cbb/seasons/schedule.cgi",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75020836",
+  "fx": "Charlotte 49ers v Appalachian State Mountaineers",
+  "home_form": "CLT 2-1: W 68-62 @Seton Hall, W 77-67 Georgia State, L 70-78 @Indiana State.",
+  "away_form": "APP 2-1: L 53-75 @Auburn, W 108-43 Christendom, W 63-49 Merrimack.",
+  "goals_trend": "Low-scoring profiles (APP 63-49 v Merrimack).",
+  "h2h": "App State won 65-63 in Boone on Nov 21, 2025.",
+  "absences": "None reported. Keyshuan Tillery (CLT) scoring 24.3 ppg.",
+  "context": "Halton Arena, Fri Nov 13 7pm ET. Rotowire showed no line posted as of Nov 12.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home ML p0.803 looks rich vs a competent Sun Belt side that won last year's meeting by 2. No mechanism - AVOID, or fill only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://charlotte49ers.com/game-center/20177",
+   "https://www.rotowire.com/betting/college-basketball/game/unc-charlotte-vs-appalachian-state-odds-2026-11-13-3032392",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75722348",
+  "fx": "JS Saoura v USM Khenchela",
+  "home_form": "Saoura last 8 (SR): W 1-0 CS Constantine (H), L 0-1 @CRB, D 0-0 Ben Aknoun (H), L 0-1 @Rouissat, L 0-1 @USMA, D 0-0 Akbou (H), D 0-0 @Biskra, L 0-4 @El Biar. Home: W1 D2 L0, 1 goal scored in 3.",
+  "away_form": "Khenchela last 8: D 1-1 Temouchent (H), L 0-2 @MC Alger, L 0-3 JSK (H), L 0-1 @MC Oran, W 2-0 Constantine (H), L 0-1 @CRB, D 1-1 Ben Aknoun (H), D 0-0 USMA (H). Away 0 pts from 3 (all v big clubs).",
+  "goals_trend": "Extremely low scoring: Saoura's last 8 games averaged 1.1 goals; 5 of 8 had <=1 goal.",
+  "h2h": "Khenchela beat Saoura 3-0 at home on 22 Nov 2025 (different venue).",
+  "absences": "None found.",
+  "context": "Stade du 20-Aout-1955, Bechar; both lower half (around 13th-15th) - a relegation six-pointer. Kick-off 16:00 or 17:00 UTC by source; the date is consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home DNB (p0.771): mild support - Saoura unbeaten at home (W1 D2), and Khenchela have 0 away points. But Saoura barely score (1 home goal in 3), so the draw is the most likely non-win, which DNB covers. Fill-level only. Avoid any Overs.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnewsafrica.com/actualites/calendrier-ligue-1-algerienne-programme-et-horaires-du-week-end-13-novembre-2026/",
+   "https://www.ysscores.com/en/match/5989816/JS-Saoura-vs-USM-Khenchela",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:74827344",
+  "fx": "Oakleigh Cannons v Marconi Stallions",
+  "home_form": "Oakleigh, Australian Championship (Group C): R1 W 4-2 Sydney Olympic (H), R2 0-0 (lost pens 7-8) @Marconi, R3 L 2-4 @Bayswater, R4 L 0-2 @Sydney Olympic. Earlier VPL games also high scoring (3-4, 2-1, 2-3, 0-5).",
+  "away_form": "Marconi: R1 W 3-1 @Bayswater, R2 0-0 (pens) v Oakleigh, R3 W 3-2 @Sydney Olympic, R4 L 1-4 v Bayswater.",
+  "goals_trend": "O1.5 in 3/4 Championship games for each side; the single exception is the 0-0 H2H on 24 Oct.",
+  "h2h": "R2, 24 Oct 2026: Marconi 0-0 Oakleigh (Marconi won 8-7 on pens). The SR score '8-7' is the shootout.",
+  "absences": "No team news found.",
+  "context": "Round 5 of 6 in the group, Jack Edwards Reserve, Melbourne. Oakleigh (2 losses running) likely need a win to stay alive - must-win flavour. Group draws go to penalties (settles on 90 min).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.809): partial support - both sides 3/4 O1.5 and Oakleigh must chase - but the only H2H this season was 0-0. No strong mechanism; neutral-to-mild.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sbs.com.au/ondemand/sports-series/australian-championship-2026",
+   "https://football360.com.au/australian-championship-2026-guide-teams-fixtures-format-how-to-watch/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:74827368",
+  "fx": "Preston Lions FC v Lions FC",
+  "home_form": "Preston (Group D): R1 draw with Wollongong (SR 5-6 = pens), R2 L 1-2 @Lions FC, R3 W 2-1 @South Hobart, R4 W 2-1 @Wollongong. Earlier NPL: 2-0, 1-1, 1-2, 0-0.",
+  "away_form": "Lions FC: R1 L 1-2 South Hobart, R2 W 2-1 Preston, R3 W 3-1 @Wollongong, R4 W 4-2 @South Hobart.",
+  "goals_trend": "Lions FC: 4/4 Championship games O1.5 (avg 4.0). Preston: 3/3 decided games had 3 goals; R1 was a draw going to pens (score unknown).",
+  "h2h": "R2 22 Oct 2026: Lions FC 2-1 Preston.",
+  "absences": "No team news found.",
+  "context": "Round 5, BT Connor Reserve, Melbourne. Lions FC lead the group; Preston chasing.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.80): fixture-specific support - H2H 2-1, and Lions FC games average 4 goals. Reasonable fill leg.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sbs.com.au/ondemand/collection/australian-championship-live-and-upcoming",
+   "https://footballaustralia.com.au/news/australian-championship-groups-confirmed-2026",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75947226",
+  "fx": "AL Hala v AL Budaiya",
+  "home_form": "Al Hala last 5 (SR): L 3-4 @Isa Town, W 1-0 Al Ittihad (H), W 7-0 @Qalali, W 2-0 Bouri (H), D 2-2 @Busaiteen.",
+  "away_form": "Al Budaiya: L 0-2 Al-Shabab (H), W 3-1 @Um Alhassam, L 3-4 AL Bahrain (H), L 1-3 @Etehad Alreef, L 0-1 @Isa Town.",
+  "goals_trend": "O1.5 in 4/5 for each side, but both home games of Hala were 1-0/2-0.",
+  "h2h": "None found.",
+  "absences": "No news found (no coverage).",
+  "context": "Bahrain 2nd tier, Gulf context (a thin-league class the manual flags for O1.5).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.763): no news coverage, and Gulf O1.5 is a flagged thin class. Form is OK, but I would avoid it.",
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/45473/15",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/193666/15"
+  ]
+ },
+ {
+  "eid": "sr:match:76485248",
+  "fx": "Real Potosi v CA Nacional Potosi",
+  "home_form": "Real Potosi last 8: D 1-1 @Nacional (league, Nov 8), W 1-0 @Bolivar (Cup), D 1-1 Independiente, W 2-1 @San Antonio, W 3-1 Bolivar, L 0-1 @Academia, W 1-0 The Strongest, W 4-2 San Antonio.",
+  "away_form": "Nacional Potosi: D 1-1 Real Potosi, W 5-1 Oriente, D 1-1 @Oruro, W 3-0 Guabira, W 3-2 @Oriente, L 0-1 Bolivar, D 2-2 @Aurora, L 2-3 @Always Ready.",
+  "goals_trend": "Real Potosi games: 6/8 O1.5. Last two derbies were 1-1 (league) and 1-0 (Cup group, Real won).",
+  "h2h": "Nov 8 league 1-1; Cup group stage Real Potosi 1-0 Nacional.",
+  "absences": "None found.",
+  "context": "Copa Bolivia SEMI-FINAL 1st leg, Thu Nov 12 19:00 BOT (= 23:00 UTC, matches the board) at Victor Agustin Ugarte; 2nd leg Sun Nov 15, same stadium. Winner gets Libertadores (Bolivia 3). Potosi derby + first leg of a knockout = cagey.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.745): AVOID - derby, cautious first leg, and the last two H2H were 1-1 and 1-0. Below the useful band anyway.",
+  "confidence": 0.2,
+  "sources": [
+   "https://fmbolivia.com.bo/deportes/clasico-potosino-en-semifinales-nacional-potosi-y-real-potosi-definiran-un-cupo-a-la-final-de-la-copa-bolivia-21714",
+   "https://larazon.bo/marcas/2026/11/09/tras-el-empate-real-y-nacional-se-afilan-para-los-clasicos-de-copa/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:76676662",
+  "fx": "Internacional de Bogota. v Independiente Santa Fe",
+  "home_form": "Inter Bogota last 8: L 1-2 America (H), W 2-1 @Chico, W 3-1 (H), L 0-1 @Alianza, W 2-1 Fortaleza (H), W 4-1 Llaneros (H), D 2-2 @Junior, D 1-1 Once Caldas (H).",
+  "away_form": "Santa Fe last 8: W 5-0 Pasto, W 1-0 @Cucuta, L 0-2 Once Caldas, L 0-2 @Nacional, W 2-1 Bucaramanga, W 2-1 Jaguares, W 1-0 @Llaneros, plus a shootout v Fortaleza.",
+  "goals_trend": "Inter Bogota: 7/8 O1.5. Santa Fe: 5/7 O1.5 (several 1-0s).",
+  "h2h": "Bogota derby; no recent H2H found.",
+  "absences": "Santa Fe likely to rotate ahead of the cuadrangulares (draw Sat Nov 14).",
+  "context": "Matchday 19 (final round of all-play-all). Inter Bogota ALREADY ELIMINATED; Santa Fe ALREADY QUALIFIED and cannot finish top seed (Dimayor moved the time for that reason). Fri Nov 13 20:30 COT at Metropolitano de Techo (= 01:30 UTC Nov 14; one Dimayor listing said Thu 19:00).",
+  "veto": true,
+  "veto_reason": "Dead rubber for both sides (Inter eliminated, Santa Fe qualified with nothing to play for, rotation expected), plus a minor schedule discrepancy (one Dimayor listing Thursday). Manual R3 lists dead rubber as a veto.",
+  "lean": "O1.5 (p0.777) is not unreasonable on form (Inter 7/8 O1.5), but R3 dead-rubber/rotation applies - skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.deportesrcn.com/futbol/liga-betplay/la-ventaja-que-tiene-santa-fe-para-clasificar-a-cuadrangulares-159346",
+   "https://www.vanguardia.com/deportes/futbol/2026/11/10/asi-se-jugara-la-ultima-fecha-de-la-fase-de-todos-contra-todos-de-la-liga-betplay-ii-de-2026/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72654100",
+  "fx": "Hluboka v FK Slavoj Cesky Krumlov",
+  "home_form": "Hluboka last 8: D 1-1 @Komarov, W 1-0 Rokycany (H), W 2-1 @Strakonice, L 1-3 Pribram (H), W 5-0 @Nyrsko, D 1-1 Krimice (H), W 3-2 @Doubravka, D 2-2 Milevsko (H). Home: W1 D2 L1 - better away than at home.",
+  "away_form": "Cesky Krumlov: L 1-2 Domazlice (H), L 0-4 @Petrin Plzen, D 2-2 Horovice (H), L 0-3 @Komarov, W 4-0 Rokycany (H), W 3-2 @Strakonice, L 1-3 Pribram (H), W 3-0 @Nyrsko. Away: W2 L2.",
+  "goals_trend": "Mixed; Krumlov's away games: 4-0 L, 3-0 L, 3-2 W, 3-0 W.",
+  "h2h": "None found.",
+  "absences": "No coverage (Czech 4th tier).",
+  "context": "Divize A, Czech 4th tier, amateur/regional. Hluboka in better overall form (5 unbeaten of the last 6 away).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home DNB (p0.787): form supports Hluboka overall, but their home record is only W1 D2 L1. Amateur level with no news. Fill at best.",
+  "confidence": 0.15,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/548031/15",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/76761/15"
+  ]
+ },
+ {
+  "eid": "sr:match:72499160",
+  "fx": "HIK Hellerup v B93 Copenhagen",
+  "home_form": "Hellerup last 8: L 1-2 @Roskilde, L 1-4 Nykobing (H), W 2-0 @FA2000, W 1-0 @Brabrand, D 1-1 Thisted (H), L 0-2 @Skive, D 1-1 Roskilde (H), L 0-3 @Nykobing.",
+  "away_form": "B93 last 8: W 1-0 Skive, L 1-3 @Thisted, L 2-3 Brabrand, W 2-1 @Naestved, W 3-1 Middelfart, L 0-3 @Fremad Amager, W 1-0 Thisted, W 2-1 @Skive.",
+  "goals_trend": "Hellerup 7/8 O1.5; B93 6/8 O1.5. Hellerup home games: 5, 2, 2 goals.",
+  "h2h": "None found.",
+  "absences": "No coverage found.",
+  "context": "Danish 2nd Division (3rd tier), Copenhagen derby-ish, late autumn round.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.81): form-consistent (13/16 combined) but no news; fill-level.",
+  "confidence": 0.2,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/1308/15",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/1298/15"
+  ]
+ },
+ {
+  "eid": "sr:match:72499164",
+  "fx": "Skive IK v Thisted FC",
+  "home_form": "Skive last 8: L 0-1 @B93, W 4-1 Aarhus (H), D 3-3 @Middelfart, W 2-0 FA2000 (H), L 0-3 @Roskilde... (SR order) - home: W 4-1, W 2-0, W 2-0 Hellerup, L 1-2 B93.",
+  "away_form": "Thisted last 8: D 0-0 Fremad (H), L 1-3 B93 (H), W 3-0 @Nykobing, D 2-2 Aarhus (H), D 1-1 @Hellerup, L 0-2 Roskilde (H), L 0-1 @B93, W 3-1 Brabrand (H).",
+  "goals_trend": "Skive 6/8 O1.5; Thisted 5/8 (0-0, 1-0, 0-2... type results). Thisted away games: 3-0, 1-1, 0-1.",
+  "h2h": "None found.",
+  "absences": "No coverage found.",
+  "context": "Danish 2nd Division, North Jutland derby (Skive v Thisted).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.77): weaker - derby, Thisted's games tight (0-0, 0-1, 1-1). Avoid.",
+  "confidence": 0.15,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/1304/15",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/1403/15"
+  ]
+ },
+ {
+  "eid": "sr:match:76124650",
+  "fx": "Haras El Hodood v El Dakhleya Sc",
+  "home_form": "El Hodood last 8: L 1-2 @Mansoura, D 2-2 Proxy (H), D 0-0 @La Viena, D 1-1 Sekka (H), W 2-0 @Tanta, D 0-0 Dayrout (H), W 2-0 @Ismaily, W 2-1 @Delta United. HOME: 0 wins (D 2-2, D 1-1, D 0-0).",
+  "away_form": "El Dakhleya: L 0-2 @Pyramids(B?), D 0-0 Entag (H), D 2-2 @Al Nasr, L 1-3 We (H), L 1-3 @Masar, W 2-1 Maleyat (H), W 2-1 @Team FC, L 1-2 Terasanah (H).",
+  "goals_trend": "Low scoring; Hodood home games 4, 2, 0 goals.",
+  "h2h": "None found.",
+  "absences": "No coverage.",
+  "context": "Egyptian 2nd Division A. Hodood last played Oct 29 (two-week gap).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home DNB (p0.765): AVOID - Hodood have no home win this season (3 home draws); all their wins came away.",
+  "confidence": 0.15,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/43566/15",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/58317/15"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114659909",
+  "fx": "Levels FC v Gezira SC",
+  "home_form": "No data: the event id is not a Sportradar match (111111... prefix), and no web coverage was found.",
+  "away_form": "No data found.",
+  "goals_trend": "Unknown. Egypt 2nd/3rd tier is a manual-flagged thin class for O1.5 (0-0/1-0 failures).",
+  "h2h": "Unknown.",
+  "absences": "Unknown.",
+  "context": "Egypt Second Division B (3rd tier, regional). Non-Sportradar id - settlement/data feed uncertain.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.792): AVOID - no data, Egyptian lower-tier O1.5 is a known failing class, and the non-SR id.",
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/111111114659909 (returned nothing)",
+   "/home/user/gsley/CLAUDE.md section 5 (Egypt O1.5 thin class)"
+  ]
+ },
+ {
+  "eid": "sr:match:76171186",
+  "fx": "Dijon v US Orleans",
+  "home_form": "Dijon (now Ligue 2) last 8: W 1-0 Red Star (H), L 1-3 @Grenoble, L 1-2 Rodez (H), W 4-2 @Reims, W 4-2 Metz (H), L 1-2 @Annecy, W 3-2 Laval (H), D 1-1 @Boulogne. Home: W3 L1.",
+  "away_form": "Orleans (Ligue 3) last 8: D 2-2 @Valenciennes, D 1-1 Villefranche, L 2-3 @QRM, D 1-1 @Bastia, D 0-0 Cannes, L 0-2 @Amiens, L 0-4 Versailles, D 1-1 @Le Puy. 0 wins in 8.",
+  "goals_trend": "Dijon games high scoring (avg 3.4).",
+  "h2h": "None recent.",
+  "absences": "No specific absences found; Dijon's Baptiste Ridira called Orleans 'forcement dangereux'.",
+  "context": "Coupe de France 7th round (Dijon's entry round), Stade Gaston-Gerard, Fri Nov 13 20:00 CET. Knockout: settles on 90 min for DNB. One division gap (L2 v L3). Winner faces Massay (R3) or Montlouis (N1).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "SUPPORT Home DNB (p0.793): structural mismatch (L2 at home v a winless-in-8 Ligue 3 side); DNB is the allowed knockout instrument. Risk: Dijon rotation in a cup entry round.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.ici.fr/bourgogne-franche-comte/cote-d-or-21/dijon/coupe-de-france-dijon-recoit-orleans-equipe-de-ligue-3-un-adversaire-forcement-dangereux-estime-baptiste-ridira-3285567?at_locale=56",
+   "https://madeinfoot.ouest-france.fr/infos/article-coupe-de-france-le-calendrier-complet-du-7e-tour-de-coupe-de-france-pour-les-clubs-de-ligue-2-544380.html",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:76171306",
+  "fx": "US St Philbert de Grandlieu v La Roche Vendee Football",
+  "home_form": "St Philbert (amateur; reported as N2 in one source, regional level otherwise unconfirmed): only cup data in SR - beat Pau 5-2 (Nov 2024) and Thouars 3-0; lost 0-2 QRM, 1-2 Laval. Eliminated at La Roche in the 5th round last season ('une petite baffe').",
+  "away_form": "La Roche VF (Ligue 3) last 8: W 1-0 @Paris 13, W 2-0 Bourg (H), L 1-2 @Caen, W 3-1 Aubagne (H), W 2-1 @Thionville, W 3-2 Valenciennes (H), D 0-0 @Villefranche, D 1-1 QRM (H). 6 unbeaten of the last 8.",
+  "goals_trend": "La Roche scored 2+ in 4 of the last 8 (2 of 4 away).",
+  "h2h": "La Roche eliminated St Philbert in the 2025-26 Coupe de France 5th round (score not confirmed).",
+  "absences": "La Roche: Alexis Araujo and Mansour Samb back in training; one regular ('un cadre') still forfait (Ouest-France).",
+  "context": "Coupe de France 7th round, Complexe des Chevrets, Fri Nov 13 20:00 (moved forward from the weekend; one listing says Sat 14 - judged an error, as Ouest-France x2 + beIN say Fri). Local Vendee/Loire-Atlantique derby; St Philbert have giant-killing history (Pau 5-2).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Away 1X2 (p0.759): AVOID - a knockout result-side on 90 min, an amateur host with cup pedigree, and a derby; the manual bans knockout result-sides except DNB/To Qualify. Away team O1.5 (p0.737): below the useful band, mild support only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ouest-france.fr/sport/football/la-roche-vendee/coupe-de-france-deux-retours-importants-un-cadre-toujours-forfait-le-groupe-du-vendee-fc-la-roche-a-saint-philbert-9664fde2-de89-11f1-a62b-776e3051b0df",
+   "https://footamateur.ouest-france.fr/coupe-de-france-saint-philbert-la-roche-fixe-au-vendredi-13-novembre/",
+   "https://www.beinsports.com/en-us/soccer/coupe-de-france/st-philbert-gd-lieu-vs-la-roche-vf-2026-11-13"
+  ]
+ },
+ {
+  "eid": "sr:match:75834468",
+  "fx": "Shillong Lajong FC v Sreenidi Deccan FC",
+  "home_form": "Lajong unbeaten 2026-27: W 1-0 @Mohammedan, D 1-1 Chanmari (H). Earlier (Aug Durand/local): 2-5 NEUFC, 3-3, 5-0, 2-0.",
+  "away_form": "Sreenidi 2026-27: D 1-1 @Real Kashmir, L 0-1 @Rajasthan United. Third consecutive away game.",
+  "goals_trend": "Both IFL openers low: 1-0, 1-1, 1-1, 0-1 (2 of 4 O1.5).",
+  "h2h": "Feb 2025 Shillong: Lajong 4-0. 2025-26: 1-1 and 0-0 (both in Hyderabad); also 1-1 in Shillong in May 2026 (SR).",
+  "absences": "No news found.",
+  "context": "IFL (India 2nd tier) matchday 3, SSA Stadium Shillong. Clash of last season's top sides.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.782): AVOID - this season's games are 1-0/1-1 type, and the recent H2H were 1-1, 0-0, 1-1 among top-two sides.",
+  "confidence": 0.2,
+  "sources": [
+   "https://thenewsmill.com/2026/11/shillong-lajong-host-unbeaten-sreenidi-deccan-in-ifl-2026-27/",
+   "https://www.thehawk.in/news/sports/football/ifl-202627-unbeaten-shillong-lajong-host-sreenidi-deccan-in-clash-between-last-seasons-top-sides",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75803688",
+  "fx": "Comoros v Congo",
+  "home_form": "Comoros last 8: L 0-1 Senegal (H), W 1-0 Namibia (H), L 1-3 @Cameroon, L 0-1 @Eq. Guinea, W 1-0 @Kazakhstan, L 4-5 @Namibia (friendly), D 0-0 Mali, D 0-0 @Zambia (AFCON).",
+  "away_form": "Congo last 8: D 1-1 Cameroon (H), L 0-1 @Namibia, L 0-1 @Morocco, L 1-3 @Niger, D 1-1 Tanzania, L 0-2 @Nigeria, D 1-1 @Senegal, D 1-1 Sudan.",
+  "goals_trend": "Competitive games: Comoros 6/7 under 3.5 (the exception a friendly 4-5); Congo 8/8 under 3.5, avg 1.9.",
+  "h2h": "None recent found.",
+  "absences": "Comoros doubts: Faiz Selemani, Bendjaloud Youssouf, Iyad Mohamed; Rafiki Said and Ismael Boura back. Congo: Claude Le Roy's squad, wants 4 pts from the double-header.",
+  "context": "AFCON 2027 qualifier MD3, Stade de Malouzini, Moroni, 13:00 UTC Nov 13; return leg Brazzaville Nov 17. Comoros 3 pts, Congo 1 pt. The venue (home) is confirmed by beIN/FotMob.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "SUPPORT U3.5 (p0.822): fixture-specific low-scoring profiles on both sides (Congo 8/8 U3.5), a first leg of a double-header, no rout favourite. It meets the Under p>=0.82 gate (just). Only one Under per core.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.beinsports.com/en-us/soccer/africa-cup-of-nations-qualification/articles/how-and-where-to-watch-comoros-vs-congo-live-on-bein-sports-2026-11-12",
+   "https://dailysports.net/news/afcon-2027-qualifiers-claude-le-roy-announces-congos-provisional-squad-for-the-double-header-against-the-comoros/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ }
+]

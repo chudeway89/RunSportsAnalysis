@@ -1,0 +1,422 @@
+[
+ {
+  "eid": "sr:match:72467036",
+  "fx": "UMF Grindavik v UMF Sindri",
+  "home_form": "Grindavik (2026 champions) last 8: W 100-81 @Armann, W 104-103 OT v Njardvik (H), W 98-92 v Stjarnan (H), L 74-81 @Valur, L 80-91 v KR (H). Home 2-1 in the last 3.",
+  "away_form": "Sindri 0-7 in the last 7 (all losses): L 73-86 v Valur, L 102-107 @KR, L 71-78 v Tindastoll, L 90-106 @Keflavik, L 91-97 v IR, L 66-91 v IR. Preseason tipped 11th of 12.",
+  "goals_trend": "Grindavik totals 155-211; Sindri 149-209. Sindri lose by 5-25.",
+  "h2h": "No H2H found this season.",
+  "absences": "No named absences found for either side.",
+  "context": "Round 6 Bonus deild, Friday 13 Nov (karfan.is preview says the round ends with Grindavik v Sindri). A champion hosts a winless bottom side. A p of 0.76 looks low for that gap, and the reason is unexplained (possible Grindavik absence not found).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home ML @1.25 is supported by form and structure (champion v 0-7 side). But house p 0.76 is unusually modest, and Sindri have kept 4 of 7 losses within 7, so there may be an unseen absence. Keep as fill only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.karfan.is/fjorir-leikir-a-dagskra-i-bonus-deild-karla-i-kvold-toppslagur-a-hlidarenda-og-botnslagur-i-njardvik/",
+   "https://www.karfan.is/spa-grindavik-og-njardvik-efstu-saetum-bonus-deildanna/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73263152",
+  "fx": "Anadolu Efes SK v Virtus Bologna",
+  "home_form": "Efes poor at home: L 87-93 v Tofas, L 90-95 v Paris (EL), W 83-68 v Panathinaikos (EL), W 89-80 v Besiktas, L 88-118 @Hapoel TA (EL).",
+  "away_form": "Virtus poor: L 75-93 v Dubai, L 93-100 v Trieste, L 101-103 v Besiktas, L 74-91 v Zalgiris (all home), W 98-94 @Milan, L 81-90 @Hapoel.",
+  "goals_trend": "Efes totals last 8: 180,185,164,151,206,170,169,143 (2/8 under 160.5; 6/8 under 184.5). Virtus: 176,168,193,204,165,192,171,191 (0/8 under 160.5; 4/8 over 184.5). Ladder centre ~172.5.",
+  "h2h": "No H2H found this season.",
+  "absences": "Efes: PJ Dozier out (back, since R7). Virtus: Davide Casarin out (knee). Full R11 report not found.",
+  "context": "EuroLeague R11, Fri 13 Nov 18:30 CET in Istanbul. Both teams are in poor form; no dead-rubber issue.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 160.5 / 161.5 mild support: Virtus games never under 165 in the last 8. Avoid the Unders (Virtus 4/8 over 184.5). Statistics only, no mechanism.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/euroleague/news/pregame-quotes-round-11-el2627/",
+   "https://www.rotowire.com/euro/news.php?view=injuries",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73263154",
+  "fx": "Panathinaikos BC v FC Barcelona",
+  "home_form": "PAO: W 83-74 @AEK, W 115-112 @Real Madrid (EL), L 91-101 @Aris, L 68-83 @Efes (EL), W 80-75 v Milan (EL, H), home wins v Karditsa, Baskonia, Peristeri.",
+  "away_form": "Barcelona have won 7 straight: W 99-91 v Breogan, W 93-90 @Hapoel TA, W 92-89 @Malaga, W 98-94 v Valencia, W 88-84 @Munich, W 89-81 @Milan.",
+  "goals_trend": "PAO totals: 157,227,192,151,155,142,164,170. Barca: 190,183,181,192,172,180,170,202 (8/8 over 170).",
+  "h2h": "No H2H found this season.",
+  "absences": "Barcelona: Yoan Makoundou out (knee, Diario AS), Tosan Evbuomwan listed abdominal. No PAO absences found.",
+  "context": "EuroLeague R11, 20:15 CET at OAKA. Barca arrive on a 7-game win streak.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 158.5 / 159.5 supported: every Barca game in the last 8 went over 170. AVOID the PAO ML @1.19 (p 0.82): Barca are hot and have won 3 straight EL road games by 3-8 points, so 0.82 is too high for a coin-flip-ish elite clash (big-club rule).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/euroleague/news/pregame-quotes-round-11-el2627/",
+   "https://www.rotowire.com/euro/news.php?view=injuries",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73263156",
+  "fx": "ASVEL Lyon-Villeurbanne v Besiktas JK",
+  "home_form": "ASVEL home: W 106-97 v Pau, L 95-99 v Munich (EL), W 94-79 v Baskonia (EL), W 82-75 v Partizan (EL), W 78-74 v Nancy. Home margins +9,-4,+15,+7,+4.",
+  "away_form": "Besiktas: L 83-84 @Karsiyaka, L 67-83 v Zalgiris, W 103-101 @Virtus (EL), L 73-81 v Olympiakos, L 80-89 @Efes, L 96-100 @Bahcesehir.",
+  "goals_trend": "ASVEL totals: 203,194,193,173,157,152,190,191 (7/8 over 162.5). Besiktas: 167,150,169,204,154,196,169,163 (5/8 over 162.5).",
+  "h2h": "No H2H found this season.",
+  "absences": "Besiktas: Jaylen Nowell out indefinitely (broken nose, BasketNews). ASVEL: Juhann Begarin uncertain (BasketNews, 11 Nov).",
+  "context": "EuroLeague R11, 20:30 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Away +11.5 @1.19: ASVEL won by 12+ in only 1 of the last 5 home games, and Besiktas lost their EL away games by 8-9. Moderately supported, though Nowell's absence weakens Besiktas. Over 162.5 mildly supported. No strong mechanism either way.",
+  "confidence": 0.2,
+  "sources": [
+   "https://basketnews.com/",
+   "https://www.euroleaguebasketball.net/en/euroleague/news/pregame-quotes-round-11-el2627/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:74131766",
+  "fx": "KK Cibona v KK FMP Belgrade",
+  "home_form": "Cibona: W 102-93 @Siroki (ABA), W 88-75 v Dinamo, W 93-81 @Split, L 69-89 v Igokea (ABA), W 98-67 v Virtus Zagreb, W 99-84 v Krka (ABA).",
+  "away_form": "FMP 2-6 in the last 8: L 73-76 v Buducnost, L 87-96 @Olimpija, L 87-95 @Cacak, L 66-78 v Siroki, W 79-68 @Krka, W 90-89 v Zvezda.",
+  "goals_trend": "Cibona totals 158-195 (8/8 over 156.5). FMP totals 144-183 (5/8 over 156.5).",
+  "h2h": "No H2H this season.",
+  "absences": "None found.",
+  "context": "ABA Liga Group A, Fri 13 Nov 18:30 CET (official calendar; RealGM agrees).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 156.5 / 157.5 mild support (Cibona games all ≥158). Statistics only. No preview found.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aba-liga.com/calendar/",
+   "https://basketball.realgm.com/international/league/13/Serbian-KLS/team/707/FMP-Beograd",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:74131768",
+  "fx": "KK Krka Novo Mesto v HKK Siroki",
+  "home_form": "Krka: W 96-65 v Nova Gorica, W 73-67 v Igokea (ABA H), W 93-79 @Polzela, L 64-66 @Bratislava, L 84-99 @Cibona, L 78-97 v Zvezda (H).",
+  "away_form": "Siroki: L 93-102 v Cibona, L 82-100 @Zvezda, W 78-66 @FMP, L 91-98 v Bratislava, plus domestic wins.",
+  "goals_trend": "Krka totals 130-183 (6/8 over 147.5; 5/8 under 173.5). Siroki 136-202 (6/8 over 147.5).",
+  "h2h": "No H2H this season.",
+  "absences": "None found.",
+  "context": "ABA Liga, Fri 13 Nov 20:30 CET (official calendar).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No lean. The totals evidence is balanced and nothing fixture-specific was found.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.aba-liga.com/calendar/",
+   "https://www.aba-liga.com/match/49/23/1/Preview/q1/1/home/krka-cibona/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72703180",
+  "fx": "Tokyo United v Kumamoto Volters",
+  "home_form": "Tokyo United: L 78-104 & W 95-76 @FE Nagoya, W 73-58 @Five Arrows, L 74-83 & W 69-68 v Shizuoka (H), L x2 @Tokyo HT, W 87-61 v Yamagata.",
+  "away_form": "Kumamoto: W 102-93 & W 92-75 @Kagoshima, W 112-84 v Iwate, L 68-85 & L 79-89 @Koshigaya, W x2 v Rizing Zephyr, L 74-85 @Tokyo HT.",
+  "goals_trend": "Tokyo United are low-scoring at home (137-157).",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "B League One, game 1 of a weekend pair. Kumamoto 1-3 in their last 4 away games against strong sides.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID the Away ML @1.25 (p 0.755). It is an away favourite at p <0.80, and Tokyo United have won at home this month (69-68 v Shizuoka). Kumamoto lost both games at Koshigaya.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.flashscore.com/basketball/japan/b-league-premier/",
+   "https://basketball.realgm.com/international/league/105/Japanese-BLeague",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696296",
+  "fx": "Shinshu Brave Warriors v Gunma Crane Thunders",
+  "home_form": "Shinshu: L 86-91 @Mikawa, W 101-96 @Akita, W 67-65 & W 80-72 v Kyoto (H), W 97-87 v Kobe (H), L 90-97 v Shibuya, L 77-92 v Nagoya.",
+  "away_form": "Gunma (11-4): W 87-76 v Nagoya, W 90-83 @Mikawa, W x2 v Osaka, W 85-74 @Chiba; L 85-93 @Okinawa, L 80-83 @Utsunomiya.",
+  "goals_trend": "Shinshu totals 132-197 (7/8 over 151.5). Gunma 153-186 (8/8 over 151.5).",
+  "h2h": "No H2H found.",
+  "absences": "None found.",
+  "context": "B Premier, Friday 13 Nov, game 1 of a weekend pair (Proballers lists 12:05 JST... board 04:05 UTC = 13:05 JST; minor listing difference, same date).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 151.5 / 152.5 mild support: Gunma's last 8 all reached 153+. Statistics only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.proballers.com/basketball/league/281/japan-b-premier/schedule",
+   "https://basketball.realgm.com/international/league/105/Japanese-BLeague",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696300",
+  "fx": "Kawasaki Brave Thunders v Saga Ballooners",
+  "home_form": "Kawasaki (4-11) have lost 5 of the last 6 at home: L 74-95 v Shimane, L 76-85 v Chiba, L 66-77 & 65-75 v Yokohama, L 82-93 v Sendai.",
+  "away_form": "Saga (1-13) have lost 8 straight: L 103-111 v Chiba, L 78-84 & 83-100 @Mikawa, L 70-115 @Kyoto, L 61-72 v Gunma.",
+  "goals_trend": "Kawasaki home totals low: 169,161,143,140,175,168. Saga 133-214 (they concede a lot).",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "A bottom-of-table meeting. Saga have the league's worst record.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No totals lean: Kawasaki's low home totals (140-143) clash with Saga's leaky defence. Statistics only.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.proballers.com/basketball/league/281/japan-b-premier/schedule",
+   "https://www.flashscore.com/basketball/japan/b-league-premier/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696298",
+  "fx": "Levanga Hokkaido v Kobe Storks",
+  "home_form": "Hokkaido (9-5): L 96-110 v San-En, W 85-79 @Kyoto, W 123-118 v Akita, W 96-88 & L 69-101 @Ibaraki, W 96-93 @Hiroshima, L 87-105 v Toyama.",
+  "away_form": "Kobe (4-11): L 87-108 @Shibuya, W 87-70 @Yokohama, W 90-87 & L 71-81 v Nagasaki, L 87-97 @Shinshu, L 80-92 @Shiga, L 71-80 @Sendai.",
+  "goals_trend": "Hokkaido totals 164-241 (7/8 over 170.5). Kobe 151-195 (8/8 under 194.5; 5/8 over 170.5).",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "B Premier. Sources show conflicting home/away labels for this pair (RealGM/Proballers), but Sportradar and the board agree that Hokkaido is at home. Low-level conflict, flagged.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Under 194.5 / 195.5 mildly supported (Kobe never above 195 in the last 8). Avoid the Overs (Kobe 3/8 under 170.5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.proballers.com/basketball/league/281/japan-b-premier/schedule",
+   "https://basketball.realgm.com/international/league/105/Japanese-BLeague/team/422/Levanga-Hokkaido/schedule",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696302",
+  "fx": "Shimane Susanoo Magic v Sendai 89Ers",
+  "home_form": "Shimane: W 95-74 @Kawasaki, W 108-75 v Toyama, L 73-74 & L 88-95 v Hiroshima, L 85-86 v Sendai (H), L 79-82 @Toyama.",
+  "away_form": "Sendai have won 7 of 8: W 106-91 @Hiroshima, W 107-87 @Nagasaki, W 96-69 v A.Tokyo, W 87-79 v Shibuya, W 86-85 @Shimane, W 93-82 @Kawasaki.",
+  "goals_trend": "Shimane totals 147-183 (6/8 over 156.5). Sendai 153-197 (7/8 over 156.5).",
+  "h2h": "Earlier this season: Sendai won 86-85 at Shimane (171 total).",
+  "absences": "None found.",
+  "context": "B Premier.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No strong totals lean. Over 156.5 is fine on the statistics, but there is no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/basketball/japan/b-league-premier/",
+   "https://basketball.realgm.com/international/league/105/Japanese-BLeague",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696304",
+  "fx": "Kyoto Hannaryz v Ibaraki Robots",
+  "home_form": "Kyoto have lost 5 straight: L 70-94 @Utsunomiya, L 79-85 v Hokkaido, L 87-92 @Shibuya, L 65-67 & 72-80 @Shinshu.",
+  "away_form": "Ibaraki have won 7 of 8: W 95-83 @Akita, W 80-72 v Okinawa, W 86-68 @Osaka, W 101-69 v Hokkaido, W 83-61 @Toyama, W 69-66 @A.Tokyo.",
+  "goals_trend": "Kyoto totals 132-185 (7/8 over 146.5); Ibaraki 135-189 (7/8 over 146.5); both 5/8 under 170.5.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "B Premier.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No lean. Ibaraki's form is a result-side signal, but no result leg is on the board. Totals are balanced.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/basketball/japan/b-league-premier/",
+   "https://www.proballers.com/basketball/league/281/japan-b-premier/schedule",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696306",
+  "fx": "Akita Northern Happinets v Nagoya Diamond Dolphins",
+  "home_form": "Akita have lost 7 of 8: L 83-95 v Ibaraki, L 96-101 v Shinshu, L 118-123 @Hokkaido, L 83-102 & 85-89 v Chiba, L 71-79 @Kyoto.",
+  "away_form": "Nagoya have won 7 of 8: L 76-87 @Gunma, W 93-80 @Toyama, W x2 v Shiga, W 96-85 @Shibuya, W 98-69 @Utsunomiya, W 92-77 @Shinshu.",
+  "goals_trend": "Akita totals 150-241 (7/8 over 158.5). Nagoya 151-181 (7/8 over 158.5; 8/8 under 182.5).",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "B Premier.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 158.5 mildly supported (both teams 7/8). Under 182.5 is fine for Nagoya but Akita are 4/8. Statistics only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.flashscore.com/basketball/japan/b-league-premier/",
+   "https://www.proballers.com/basketball/league/281/japan-b-premier/schedule",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:76488114",
+  "fx": "Soles de Mexicali v Astros de Jalisco",
+  "home_form": "Soles beat Panteras 4-1 in the semi (110-79 clincher). Home playoff wins v Panteras 83-65 and 80-76; earlier series v Leon 100-60 and 102-58 at home.",
+  "away_form": "Astros swept Fuerza Regia 4-0 (82-77, 83-69, 97-90, 96-89) and Zacatecas.",
+  "goals_trend": "Soles playoff totals: 189,162,171,148,156,162,160,160 (7/8 under 171.5). Astros: 159,152,187,185,153,169,178,157 (5/8 under 172.5).",
+  "h2h": "No H2H found.",
+  "absences": "None found.",
+  "context": "LNBP FINAL, game 1 (best of 7, 2-3-2), Thursday 12 Nov at 22:00 Mexico City = 04:00 UTC 13 Nov at Auditorio PSF, Mexicali. The board shows 03:45 UTC, a minor difference. A final game 1 tends to be cagey and defensive. Ivan Deniz coaches Astros against his former club.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Under 172.5 / 171.5 mild support (Soles' home playoff totals 148-160; finals tempo). Avoid the Overs at 148.5+: Soles have held four of their last 5 home opponents to ≤76.",
+  "confidence": 0.2,
+  "sources": [
+   "https://la-lista.com/deportes/lnbp-soles-de-mexicali-vs-astros-de-jalisco-cuando-inicia-la-gran-final-2026",
+   "https://www.mediotiempo.com/basquetbol/listo-2026-lnbp-soles-mexicali-vs-astros-jalisco",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72676964",
+  "fx": "MKS Start Lublin v GTK Gliwice",
+  "home_form": "Start Lublin 2-6, a low-scoring side: L 62-70 @Bydgoszcz, L 89-96 v Dabrowa, L 54-70 @Szczecin, W 76-73 v Gdynia, L 77-97 @Dziki, L 79-84 v Ostrow, W 77-69 v Gliwice (last season).",
+  "away_form": "Gliwice 5-3: W 84-77 v Sopot, L 84-96 v Wroclaw, W 90-69 v Torun, L 76-84 v Zielona Gora, W 75-74 @Bydgoszcz.",
+  "goals_trend": "Lublin totals: 132,185,124,149,174,163,172,146 (7/8 under 174.5; 4/8 under 150.5). Gliwice: 161,180,159,160,149,167,169,206 (7/8 under 174.5).",
+  "h2h": "Lublin 77-69 Gliwice (H, 146 total).",
+  "absences": "None found. Sportowefakty reports a club transfer reacting to problems.",
+  "context": "PLK R7. PLK.pl and the club confirm Fri 13 Nov 18:00 in Hala Globus. One Flashscore listing showed 14.11, but the official league site, club and Sportradar all agree on 13.11, so no veto.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Under 174.5 / 175.5 supported by both teams' 7/8 under rate and Lublin's 54-77 point offence. AVOID Over 150.5 (Lublin 4/8 under).",
+  "confidence": 0.2,
+  "sources": [
+   "https://plk.pl/druzyny/22/pge-start-lublin/terminarz",
+   "https://gtk.gliwice.pl/zespol/terminarz",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72676966",
+  "fx": "Anwil Wloclawek v Arka Gdynia",
+  "home_form": "Anwil play one-possession games: W 83-82 v Ostrow, L 77-78 @Zielona Gora, L 86-87 v Voluntari, L 72-73 @Legia, W 79-78 v Slupsk, W 88-87 v Walbrzych; L 75-96 @Dziki.",
+  "away_form": "Arka: W 67-60 v Legia, W 84-72 @Slupsk, L 88-95 v Walbrzych, L 73-76 @Lublin, W 96-82 v Sopot, W 95-70 v Wroclaw.",
+  "goals_trend": "Anwil totals 145-175 (7/8 under 173.5, 7/8 over 149.5). Arka 127-200 (6/8 under 173.5).",
+  "h2h": "No H2H this season.",
+  "absences": "None found.",
+  "context": "PLK, Fri 13 Nov 20:15 CET (Sportradar). Anwil also play a European competition (Voluntari, Zrinjski), so midweek load is possible.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Under 173.5 / 174.5 mild support (Anwil 7/8). Statistics only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.flashscore.pl/koszykowka/polska/basket-liga/",
+   "https://plk.pl/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72971434",
+  "fx": "Vitoria Sport Clube v FC Porto",
+  "home_form": "Vitoria (9th): L 48-91 @Sporting, L 68-75 v Povoa, W 74-72 v Portimonense, L 72-91 @Braga, L 71-87 v Ovarense, W 84-74 v Oliveirense.",
+  "away_form": "Porto: W 81-76 v Braga, L 64-81 v Badalona (Europe), L 76-78 @Ovarense, W 93-82 v Madeira, W 86-74 @Herzliya (Europe), W 95-91 @Esgueira.",
+  "goals_trend": "Vitoria totals 139-185 (7/8 under 177.5; 5/8 over 153.5). Porto 145-186 (6/8 under 177.5).",
+  "h2h": "None found.",
+  "absences": "None found. Porto are in a European competition, so rotation is possible.",
+  "context": "LPB, Fri 13 Nov at Pavilhao Unidade Vimaranense. Vitoria's offence has collapsed (48 points v Sporting).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Under 177.5 / 178.5 supported (Vitoria 7/8 under; they scored 48-74 in 5 of the last 6). AVOID Over 153.5 (Vitoria 3/8 under).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.comumonline.com/2026/11/vitoria-sc-nao-consegue-travar-os-leoes-e-soma-nova-derrota/",
+   "https://www.fpb.pt/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73575280",
+  "fx": "CB Tizona v CB Gran Canaria",
+  "home_form": "Tizona (2 league wins): W 75-73 @Caja 87, L 79-89 v Alicante, W 95-94 @Palma, L 100-101 v Oviedo, L 92-104 v Albacete, L 71-91 @Ourense.",
+  "away_form": "Gran Canaria (Cajasiete affiliate): W 87-66 v Gipuzkoa, L 80-102 @Estudiantes, W 99-65 @Cordoba, W 105-82 @Albacete, L 74-84 @Alicante, W 79-68 @Fuenlabrada.",
+  "goals_trend": "Tizona totals 148-201 (home 168,201,196). GC 147-187. Ladder centre ~173.5.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Primera FEB matchday 8, Fri 13 Nov at El Plantio, Burgos. The 20:45/19:45 time difference is Peninsula v Canary time, not a conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "No lean. Tizona's home totals run high (196-201), but the sample is thin.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.burgosdeporte.com/?p=162265",
+   "https://cbgrancanaria.net/partidos/2026-2027/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72016388",
+  "fx": "BC Lulea v Sodertalje BBK",
+  "home_form": "Lulea 7-1 in the last 8: W 104-79 v Uppsala, W 108-71 v Hogsbo, W 91-74 v Nassjo, W 108-77 v Sloga (home margins +17 to +37). Only loss: 82-85 @Sodertalje.",
+  "away_form": "Sodertalje 7-1: W 91-69 v Nassjo, L 76-81 @Boras, W 104-57 v Uppsala, W 79-76 @Koping, W 85-82 v Lulea, W 94-85 @Norrkoping.",
+  "goals_trend": "Top-two clash. Sodertalje allow few points (57-85).",
+  "h2h": "16 Oct: Sodertalje 85-82 Lulea.",
+  "absences": "None found.",
+  "context": "Basketligan, Fri 13 Nov 19:04 CET (tvmatchen). RealGM shows 2:00 PM (different time zone), same date. A top-of-table clash.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID the Home ML @1.23 (p 0.777). It is a top-two clash and Sodertalje won the reverse 85-82, so 0.78 looks generous.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tvmatchen.nu/basket/basketligan",
+   "https://basketball.realgm.com/international/league/32/Swedish-Basketligan/team/828/BC-LF-Lulea",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73719626",
+  "fx": "Philadelphia 76ers v Toronto Raptors",
+  "home_form": "76ers 6-2: L 101-123 v Boston, W 127-121 @Chicago, L 95-119 @Cleveland, W 112-106 @Detroit, W 126-107 v Chicago, W 98-93 v NY.",
+  "away_form": "Raptors 3-5: L 93-98 v Boston, L 102-118 v Memphis, W 121-107 @Milwaukee, L 109-128 @Denver, W 125-118 @Clippers, L 125-131 @Lakers.",
+  "goals_trend": "PHI totals 191-248 (7/8 over 211.5). TOR 191-256 (7/8 over 211.5).",
+  "h2h": "None found this season.",
+  "absences": "TOR: Scottie Barnes OUT (left groin), Kawhi Leonard OUT (knee management). PHI: LeBron James OUT (back/sciatica, per NBA.com and Rolling Out), Joel Embiid QUESTIONABLE (plantar fascia), Barlow and Bona OUT. Maxey available.",
+  "context": "Thu 12 Nov 7pm ET (00:00 UTC 13 Nov). One search summary phrased it '76ers at Raptors', but the NBA.com Sixers preview and Sportradar list Philadelphia at home. Minor wording conflict, not a confirmed venue swap.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Away +18.5 / +17.5: a depleted receiver (Barnes and Leonard both out) falls under the L26 weak-receiver catch class. The totals are confounded by stars missing on both sides (LeBron, possibly Embiid, Barnes, Leonard), so they are not a clean Over either.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nba.com/sixers/news/sixers-vs-raptors-game-preview-injury-report-and-how-to-watch-11-12-2026",
+   "https://rollingout.com/2026/11/12/lebron-james-sixers-raptors-tonight/",
+   "https://www.phillyvoice.com/sixers-vs-raptors-76ers-injury-report-news-analysis-lebron-james-updatepjoel-embiid-status-kawhi-leonard-nba/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73719628",
+  "fx": "Washington Wizards v Detroit Pistons",
+  "home_form": "Wizards 2-6: L 101-114 @IND, L 111-122 @DET, L 75-114 @OKC, L 132-139 @ATL, L 105-120 v ATL, W 103-94 @ORL, W 95-79 v CHA.",
+  "away_form": "Pistons 5-3: W 122-111 v WAS, L 116-121 v LAL, L 106-112 v PHI, W 124-91 @CHA, W 110-94 @BKN, W 97-89 v CHA.",
+  "goals_trend": "WAS totals 174-271; DET 186-237 (6/8 over 208.5).",
+  "h2h": "Pistons won 122-111 v Washington in the previous game.",
+  "absences": "DET: Jalen Duren OUT (right hamstring, at least 2 more weeks per Covers). No Wizards update found.",
+  "context": "Thu 12 Nov 7pm ET. A back-to-back mini-series after DET 122-111 WAS.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Away ML @1.24 (p 0.795) moderately supported: Wizards 2-6 and just beaten by 11. Duren's absence is the risk. Totals have no lean.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://www.talkbasket.net/227660-nba-injury-report-embiid-lebron-listed-thursday-november-12",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73719630",
+  "fx": "Minnesota Timberwolves v Dallas Mavericks",
+  "home_form": "Wolves have won 4 straight without Edwards: W 115-100 v UTA, W 115-109 @NOP, W 117-107 @HOU, W 112-100 v MIL; L 111-121 @SAS.",
+  "away_form": "Mavericks 6-2: W 125-122 v IND, W 130-93 v BKN, W 112-100 v UTA, L 111-112 @SAS, L 100-115 v SAC, W 116-111 v HOU, W 120-96 v OKC (Flagg 43 points last game).",
+  "goals_trend": "MIN totals 212-252 (7/8 over 212.5). DAL 212-247 (8/8 over 212.5 within the range).",
+  "h2h": "None found.",
+  "absences": "MIN: Anthony Edwards OUT (knee arthroscopy, ~2 months from 27 Oct), Donte DiVincenzo OUT (Achilles). DAL: Morez Johnson Jr. probable; Lively II out or day-to-day (sources conflict); Biberovic, De Larrea out.",
+  "context": "Thu 12 Nov 8pm ET at Target Center.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Away +17.5 @1.19 (p 0.824) supported by a named mechanism: Edwards and DiVincenzo are out, Dallas are 6-2 and have not lost by more than 15 in the last 8 (worst: 100-115 v SAC). Over 212.5 is mildly supported.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sportsradio957.iheart.com/content/2026-11-12-mavericks-vs-timberwolves-injury-report-nov-12/",
+   "https://www.nbcdfw.com/news/sports/dallas-mavericks/dallas-plays-minnesota-after-flaggs-43-point-game/4105000/",
+   "https://dallassportsjournal.com/mavericks-timberwolves-injury-report-morez-johnson-anthony-edwards/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ }
+]
