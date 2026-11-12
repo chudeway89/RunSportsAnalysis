@@ -1,0 +1,514 @@
+[
+ {
+  "eid": "sr:match:72597874",
+  "fx": "SFK Vrchovina v FK Hodonin",
+  "home_form": "Vrchovina L-L-W-L-L-L-W-D (SR): 0-2 Olomouc B (H), 2-4 Polanka (A), 2-0 Havirov (H), 0-4 Uhersky Brod (A), 0-4 Unicov (H), 2-4 F-Mistek (A). Home: 3 losses in last 4 home with 0 scored in 3 of them (excluding 2-0 Havirov).",
+  "away_form": "Hodonin W-W-L-L-W-W-W-W: 4-0 Polanka (H), 1-0 Havirov (A), 1-2 Uhersky Brod (H), 2-3 Unicov (A), 3-0 F-Mistek (H), 4-1 Hlubina (A). Has scored in all 8.",
+  "goals_trend": "Vrchovina O1.5 8/8, avg 4.1 goals, conceded 4 in four of the last 7 games; Hodonin O1.5 6/8, avg 3.0. Third-tier Moravian league, which is semi-pro.",
+  "h2h": "No H2H found.",
+  "absences": "No team news found (regional third tier, so there is no coverage).",
+  "context": "MSFL autumn run-in before the winter break. Tables found were inconsistent (round 11 snapshot had both teams on 14 points, 11th to 13th); mid-table with nothing at stake.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.81) is supported only by stats: Vrchovina concede heavily and Hodonin score in every game. There is no named mechanism, so it is fill at best.",
+  "confidence": 0.2,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/43193/20",
+   "https://www.msfl.cz/",
+   "https://www.eurofotbal.cz/souteze/cesko/msfl/tabulky/"
+  ]
+ },
+ {
+  "eid": "sr:match:72499168",
+  "fx": "Vsk Aarhus v Middelfart BK",
+  "home_form": "VSK Aarhus L-L-D-D-L-L-W-D: 0-1 at FA 2000, 1-4 at Skive, 2-2 Naestved (H), 0-2 Brabrand (H); 1 win in 8.",
+  "away_form": "Middelfart W-L-D-D-L-W-D-D: 3-2 Naestved, 1-2 at Fremad Amager, 3-3 Skive, 3-3 Roskilde, 1-3 at B93; scored in all 8.",
+  "goals_trend": "Aarhus O1.5 6/8 (avg 2.9); Middelfart O1.5 7/8, O2.5 6/8 (avg 3.9), and Middelfart have not failed to score in 8.",
+  "h2h": "Sep 19 2026: Middelfart 1-1 Aarhus.",
+  "absences": "No team news found.",
+  "context": "Table at Nov 1: VSK 6th, 20 pts (promotion-group line); Middelfart 8th, 19. Both are fighting for the top-6 split, so neither has a dead rubber.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.80) is mildly supported by Middelfart's scoring profile (3+ goals in 6 of 8). No named mechanism.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Danish_2nd_Division",
+   "https://sport.tv2.dk/fodbold/danmark-2-division/herrer/turnering/overblik",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/22163/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72499172",
+  "fx": "BK Fremad Amager v Brabrand IF",
+  "home_form": "Fremad Amager D-W-L-W-L-L-W-D: 0-0 at Thisted, 2-1 Middelfart (H), 0-4 at Roskilde, 3-2 Nykobing (H), 0-3 B93 (H); failed to score in 4 of 8.",
+  "away_form": "Brabrand W-L-W-W-L-W-W-D: 2-0 at Nykobing, 1-2 FA 2000, 1-0 Horsens (cup), 3-2 at B93, 0-1 Hellerup; avg 2.1 goals, O2.5 only 2/8.",
+  "goals_trend": "Fremad O1.5 6/8; Brabrand O1.5 5/8 with several 1-0 games. The profile is below average for this league.",
+  "h2h": "Oct 10 2026: Brabrand 1-0 Fremad Amager.",
+  "absences": "No team news found.",
+  "context": "Both are in the relegation-group zone per Wikipedia (Fremad 7th, Brabrand 9th at Nov 1).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID O1.5 (p0.756): it is below the gate, the last H2H was 1-0, Brabrand play low-event games and Fremad fail to score often.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Danish_2nd_Division",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/1398/20",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/35412/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72499176",
+  "fx": "Naestved BK v FA 2000",
+  "home_form": "Naestved L-D-D-W-D-D-D-D: 2-3 at Middelfart, 0-0 Roskilde (H), 2-2 at Aarhus, 2-1 B93 (H); 6 draws in 8.",
+  "away_form": "FA 2000 W-W-L-L-D-L-L-L: 1-0 Aarhus, 2-1 at Brabrand, 0-2 Hellerup, 0-2 at Skive; failed to score in 3 of 8.",
+  "goals_trend": "Naestved O1.5 7/8 (avg 2.8); FA 2000 O1.5 6/8, O2.5 3/8 (avg 2.5).",
+  "h2h": "Oct 10 2026: FA 2000 1-1 Naestved.",
+  "absences": "No team news found.",
+  "context": "Naestved are 5th (promotion group); FA 2000 are 11th on 9 pts, near the bottom but they won their last 2.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.78) has no mechanism, the last H2H was 1-1 and Naestved are draw-heavy. Neutral to avoid.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Danish_2nd_Division",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/1320/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72500826",
+  "fx": "Bronshoj BK v Vanloese IF",
+  "home_form": "Bronshoj W-W-L-W-W-D-D-W: 2-1 at Holbaek, 2-1 Naesby (H), 1-3 at Sundby, 4-1 Ringsted (H), 4-2 at Holstebro, 5-1 ASA (H); scored in all 8, avg 3.9 goals.",
+  "away_form": "Vanlose L-W-W-L-D-D-W-D: 1-2 Hoersholm (H), 1-0 at Holbaek, 1-0 ASA, 0-2 Nykobing (cup), 2-2 at Naesby, 0-0 Holbaek, 1-0 at Sundby; avg 1.8 goals, O1.5 only 4/8.",
+  "goals_trend": "Split profiles: Bronshoj open, Vanlose very tight (four 1-0/0-0 results).",
+  "h2h": "Sep 26 2026: Vanlose 1-1 Bronshoj.",
+  "absences": "No team news found.",
+  "context": "Top-of-table clash: Bronshoj 1st (31 pts) v Vanlose 3rd (27) per bold.dk. Local Copenhagen derby (flag derby).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID O1.5 (p0.757): it is below the gate, this is a top-of-table derby, Vanlose's games are low-event (4/8 O1.5) and the reverse fixture finished 1-1.",
+  "confidence": 0.25,
+  "sources": [
+   "https://bold.dk/fodbold/stillinger/3-division/stilling",
+   "https://da.wikipedia.org/wiki/3._division_2026-27_(fodbold)",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/1374/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72341358",
+  "fx": "AFC Wimbledon v Blackpool FC",
+  "home_form": "Wimbledon L-L-L-D-L-L-L in last 7 competitive: 1-2 at Crewe (FA Cup), 1-2 at Stockport, 1-1 Wycombe (H), 0-3 Mansfield (H), 0-5 at Sheff Wed, 1-2 at Plymouth. Conceding about 2 per game.",
+  "away_form": "Blackpool W-D-W-L-W-L-L: 2-1 at Hornchurch (FA Cup), 1-1 at Sheff Wed, 1-4 Mansfield (H), 2-0 MK (H), 0-2 at Orient, 0-1 at Cambridge.",
+  "goals_trend": "Wimbledon O1.5 8/8 (some of it Trophy-inflated); Blackpool O1.5 7/8. (SR last-8 includes cup/EFL Trophy games; some EFL Trophy scores such as 7-8, 7-5, 6-4 include shootouts and inflate totals.)",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found (searched).",
+  "context": "Wimbledon are in a bad run near the bottom; Blackpool are mid-table. The EFL lists it at 15:00 on 14 Nov, with no postponement found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.78) is supported by Wimbledon's defensive collapse (2+ conceded in 5 of the last 6 league games). That is a statistic, not a named mechanism, so it is fill.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.efl.com/competitions/efl-league-one",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_League_One",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/23957/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72341362",
+  "fx": "Doncaster Rovers v Leyton Orient London",
+  "home_form": "Doncaster: 0-3 at Kidderminster (FA Cup), 1-6 at MK Dons, 2-0 Sheff Wed (H).",
+  "away_form": "Orient: 2-4 at Barnet (Trophy), 5-1 Harborough (FA Cup), 3-0 Cambridge.",
+  "goals_trend": "n/a",
+  "h2h": "n/a",
+  "absences": "Doncaster had 3 players called up internationally.",
+  "context": "POSTPONED: Doncaster used the EFL international call-up rule (3+ players). Confirmed by Leyton Orient's official site (Nov 6), Sky Sports and the Yorkshire Post.",
+  "veto": true,
+  "veto_reason": "Match postponed (international call-ups). Confirmed on the Leyton Orient official site, 6 Nov 2026. It will void if left on a ticket, so do not book it.",
+  "lean": "None. Remove from all slips.",
+  "confidence": 0.4,
+  "sources": [
+   "https://www.leytonorient.com/news/2026/november/06/Doncaster-Rovers-away-fixture-postponed/",
+   "https://www.yorkshirepost.co.uk/sport/football/sense-of-calmness-how-doncaster-rovers-moved-on-from-halloween-horror-show-update-on-leyton-orient-trip-9332919",
+   "https://www.skysports.com/league-1"
+  ]
+ },
+ {
+  "eid": "sr:match:72341368",
+  "fx": "Milton Keynes Dons v Burton Albion",
+  "home_form": "MK Dons W-W-W-W-W-L-W-L: 2-1 at Bromley (Trophy), 2-1 Swindon (FA Cup), 6-1 Doncaster (H), 4-1 Bromley, 1-0 at Stevenage, 0-2 at Blackpool. Five straight wins, scoring 2+ at home in 4 of the last 5.",
+  "away_form": "Burton L-W-L-W-D-D-W-W: 0-3 Notts (Trophy), 4-0 Rushden (FA Cup), 0-2 at Wycombe, 2-1 Orient, 0-0 Bradford, 2-2 at Peterborough. Failed to score in 4 of 8.",
+  "goals_trend": "MK O1.5 7/8, avg 3.8; Burton O1.5 6/8.",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found.",
+  "context": "MK in a hot home run; Burton are lower mid-table. Listed by the EFL at 15:00, with no postponement found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.80) is moderately supported by MK's home scoring (6-1, 4-1, 2-1, 2-1). Burton's blanks are the risk, but a 1-0 still needs one more goal. No named absences.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.efl.com/competitions/efl-league-one",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_League_One",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/4/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72341372",
+  "fx": "Sheffield Wednesday v Plymouth Argyle",
+  "home_form": "Sheff Wed (9th, 20 pts from 13): 0-4 Accrington (H, Trophy, 11 Nov), 1-2 at Oldham (FA Cup), 1-1 Blackpool (H), 1-1 Cambridge (H), 0-2 at Doncaster, 0-2 at Notts, 5-0 Wimbledon (H). 1 win in the last 7.",
+  "away_form": "Plymouth (5th, 23 pts from 14): 2-1 Swindon (Trophy), 4-0 Alvechurch (FA Cup), 0-0 Reading (H), 3-2 at Cambridge, 0-3 at Stevenage, 0-2 Huddersfield (H).",
+  "goals_trend": "SW O1.5 8/8 but O2.5 4/8; Plymouth O1.5 7/8 (6-7 v Newport includes a shootout). (SR last-8 includes cup/EFL Trophy games; some EFL Trophy scores such as 7-8, 7-5, 6-4 include shootouts and inflate totals.)",
+  "h2h": "No 2026 H2H found.",
+  "absences": "SW: GK Joe Lumley (rib) is a possible return after missing 5 games; back-up GK Maynard-Brewer has a shoulder injury (Trueman deputised); Ali Al-Hamadi is injured; Kieran Morrison is away with Northern Ireland. Plymouth: none found.",
+  "context": "Dave Challinor's first home league match as SW manager (new-manager bounce, unsettled goalkeeper). The fixture was at risk from call-ups but the club confirmed it is going ahead (ticket info 5 Nov, pre-match 12 Nov).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.82) has a weak mechanism: SW are down to their third-choice/returning goalkeeper and have conceded 2+ in 4 of the last 6. Treat as fill only; with a new manager the side could set up conservatively.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.swfc.co.uk/news/2026/november/12/-i-can-t-wait-/",
+   "https://sports.yahoo.com/articles/challinor-hopeful-lumley-return-against-132552301.html",
+   "https://the72.co.uk/2026/11/12/sheffield-wednesday-vs-plymouth-argyle-predictions/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341376",
+  "fx": "Stockport County FC v Reading FC",
+  "home_form": "Stockport (2nd): 4-3 Tranmere (Trophy), 3-2 at Cray (FA Cup), 2-1 Wimbledon (H), 0-1 at Oxford, 1-1 at Notts, 2-0 at Doncaster, 1-0 Bromley (H), 3-1 Barnsley (H). Scored in 7 of 8.",
+  "away_form": "Reading (6th): 5-7 at Bristol Rovers (Trophy, includes a shootout), 5-0 at Peterborough (FA Cup), 0-2 at Oxford, 0-0 at Plymouth, 2-1 Barnsley, 1-0 Orient, 0-1 at Wigan. Only 1 away league win in 7.",
+  "goals_trend": "Stockport O1.5 6/8; Reading's league games are tight (0-0, 0-1, 1-0, 2-1); failed to score in 4 of 8. (SR last-8 includes cup/EFL Trophy games; some EFL Trophy scores such as 7-8, 7-5, 6-4 include shootouts and inflate totals.)",
+  "h2h": "No 2026 H2H found.",
+  "absences": "Stockport are expected to name the same XI that beat Wimbledon (Whatmuff; Wootton up front). No Reading news found.",
+  "context": "2nd v 6th promotion clash. Predictions range from 2-1 (Sports Mole) to 1-1 (Yahoo).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.81) is mixed: Reading's away league games are low-event (0-0, 0-2, 0-1). It is a promotion six-pointer with no mechanism, so lean avoid or fill only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/stockport-county/preview/stockport-vs-reading-prediction-team-news-lineups_608978.html",
+   "https://uk.sports.yahoo.com/news/stockport-county-vs-reading-predictions-080003594.html",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/28/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72341378",
+  "fx": "Wigan Athletic v Barnsley FC",
+  "home_form": "Wigan: 2-1 at Crewe (Trophy), 3-0 at Boreham Wood (FA Cup), 0-0 Mansfield (H), 3-2 Bromley (H), 1-2 at Huddersfield, 1-2 at Oxford, 1-0 Reading (H).",
+  "away_form": "Barnsley: 5-2 Oldham (Trophy), 7-2 Aldershot (FA Cup), 1-1 Oxford, 1-2 at Reading, 1-2 at Luton, 1-2 Cambridge, 1-3 at Stockport, 1-4 at Fleetwood. Scored in all 8, conceded 2+ in 6 of 8, and 0 league wins in the last 6.",
+  "goals_trend": "Barnsley O1.5 8/8, O2.5 7/8; Wigan O1.5 6/8 (the home 0-0 v Mansfield is the risk).",
+  "h2h": "No 2026 H2H found.",
+  "absences": "Predicted XIs (statz/WhoScored) include Whitworth, Carragher, Burns, Fox, Weir and Burrowes for Wigan. No confirmed absences.",
+  "context": "Billed as a 'decisive' game between League One strugglers (the72, 12 Nov). Predictions run from 1-1 to 1-0 Wigan.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.82) is moderately supported: Barnsley's defence leaks (2+ conceded in 6 of 8) while they score every game. This is fixture-specific form, not a named mechanism.",
+  "confidence": 0.25,
+  "sources": [
+   "https://the72.co.uk/2026/11/12/wigan-athletic-vs-barnsley-predictions/",
+   "https://statz.ai/news/19728159-wigan-vs-barnsley-predictions-betting-tips",
+   "https://www.whoscored.com/matches/1989604/preview/england-league-one-2026-2027-wigan-barnsley"
+  ]
+ },
+ {
+  "eid": "sr:match:72341380",
+  "fx": "Wycombe Wanderers v Huddersfield",
+  "home_form": "Wycombe: 2-0 at Accrington, 2-0 Burton, 1-1 at Wimbledon.",
+  "away_form": "Huddersfield (leaders): 4-0 Liverpool U21, 1-2 Exeter (FA Cup), 1-1 Luton.",
+  "goals_trend": "n/a",
+  "h2h": "n/a",
+  "absences": "Huddersfield have 3+ players on international duty.",
+  "context": "POSTPONED: Huddersfield requested postponement under the international call-up rule and the EFL accepted. Confirmed by both clubs' official sites (6 Nov). Some preview sites (statz.ai) still carry a preview, which is stale.",
+  "veto": true,
+  "veto_reason": "Match postponed (international call-ups). Confirmed on htafc.com and wwfc.com, 6 Nov 2026. Do not book it.",
+  "lean": "None. Remove from all slips.",
+  "confidence": 0.4,
+  "sources": [
+   "https://www.htafc.com/news/2026/november/06/fixture-change--wycombe-wanderers--a--postponed",
+   "https://www.wwfc.com/news/2026/november/06/huddersfield-fixture-postponed",
+   "https://www.skysports.com/wycombe-wanderers"
+  ]
+ },
+ {
+  "eid": "sr:match:72342358",
+  "fx": "Bristol Rovers v Chesterfield FC",
+  "home_form": "Bristol Rovers: 7-5 Reading (Trophy, includes a shootout), 2-0 Cambridge (FA Cup), 1-3 at Fleetwood, 0-0 Swindon (H), 1-2 Salford (H), 0-1 at Shrewsbury, 1-3 Barnet (H). Home league: 0-0, 1-2, 1-3.",
+  "away_form": "Chesterfield: 5-3 at Mansfield (Trophy), 4-3 Yeovil (FA Cup), 1-4 at Newport, 5-1 Crewe (H), 1-1 Colchester, 0-1 at Port Vale, 2-2 at Crawley, 4-2 Tranmere. Their games average 4.9 goals.",
+  "goals_trend": "Chesterfield O1.5 7/8, O2.5 6/8. Rovers O1.5 6/8 but their home league games were 0-0, 1-2, 1-3.",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found for either side.",
+  "context": "A predictor gives Rovers about 70% at home, which looks inflated given their home form. Listed at 15:00, with no postponement found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.78) is supported mainly by Chesterfield's very open games (every one of the last 7 had 2+ goals). Statistical only.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_League_Two",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/68/20",
+   "https://www.footballwebpages.co.uk/league-two/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72342362",
+  "fx": "Crewe Alexandra v Newport County",
+  "home_form": "Crewe: 1-2 Wigan (Trophy), 2-1 Wimbledon (FA Cup), 1-1 Barnet (H), 1-5 at Chesterfield, 0-2 at Exeter, 3-2 Rochdale (H), 1-0 at Swindon.",
+  "away_form": "Newport: 3-1 Walsall (H), 1-2 Crystal Palace U21, 4-1 Chesterfield (H), 0-1 at Cheltenham, 2-2 at Rotherham, 1-1 York, 1-0 Colchester.",
+  "goals_trend": "Crewe O1.5 7/8; Newport O1.5 6/8 (the 6-7 v Plymouth includes a shootout). (SR last-8 includes cup/EFL Trophy games; some EFL Trophy scores such as 7-8, 7-5, 6-4 include shootouts and inflate totals.)",
+  "h2h": "No 2026 H2H found.",
+  "absences": "Crewe: Mickey Demetriou out (ankle setback); Jack Lankester (calf) close but unlikely to start; Joel Tabiner expected back. Newport: Shaquille Gwengwe available after a 3-match ban (WhoScored preview; its date stamp is uncertain).",
+  "context": "A predictor gives Crewe about 75% (looks high). League Two context, average about 2.6 goals.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.74) is below the gate and there is no mechanism. Avoid or treat as neutral.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.whoscored.com/matches/1990172/preview/england-league-two-2026-2027-crewe-newport",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_League_Two",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/79/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72342370",
+  "fx": "Rochdale AFC v York City FC",
+  "home_form": "Rochdale: 2-1 at Fleetwood, 1-4 Doncaster (Trophy), 2-4 at Port Vale, 0-5 Accrington (H), 2-2 Grimsby (H), 2-3 at Crewe, 1-1 at Tranmere. Conceded 2+ in 6 of 8.",
+  "away_form": "York: 0-4 at Bradford (Trophy), 4-0 Northampton (H), 2-5 at Grimsby, 1-3 at Barnet, 2-0 Port Vale, 1-1 Accrington, 1-1 at Newport. Away league: 2-5, 1-3, 1-1.",
+  "goals_trend": "Rochdale O1.5 8/8, O2.5 7/8 (avg 4.4); York O1.5 8/8. A leaky defence meets an open away side.",
+  "h2h": "No 2026 H2H found (both clubs were recently in the National League).",
+  "absences": "No team news found.",
+  "context": "A predictor gives Rochdale about 66%. No postponement found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.81) is supported by fixture-specific form: every game for both sides in the last 8 had 2+ goals, and Rochdale concede heavily at home (0-5, 2-2). This is the best-backed O1.5 of the L2 set, though still statistical.",
+  "confidence": 0.3,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_League_Two",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/103/20",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/73/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72342374",
+  "fx": "Salford City v Northampton Town",
+  "home_form": "Salford (1st, 31 pts from 14 at 3 Nov): 0-1 at Carlisle (FA Cup), 2-1 Exeter (H), 4-2 at Walsall, 2-1 at Bristol Rovers, 2-1 Crawley (H), 2-0 at Cheltenham, 1-0 Fleetwood (H). Won the last 6 league games.",
+  "away_form": "Northampton: 1-2 Gillingham (H), 0-4 at York, 0-1 Oldham (H), 1-1 at Accrington, 2-0 Colchester, 0-1 Tranmere (H), 2-0 at Grimsby. 0 wins in the last 5, failed to score in 3 of 8, avg 2.1 goals.",
+  "goals_trend": "Salford home league games: 2-1, 2-1, 1-0 (tight wins). Northampton O2.5 2/8.",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found.",
+  "context": "Leaders in form at home v a side on a 5-game winless run. ESPN prices Salford as favourites. No postponement found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "SUPPORT DNB Home (p0.76; a structural mismatch: 1st v a struggling side that is winless in 5 and blanking often). AVOID O1.5 (p0.746): Salford win by one-goal margins at home (1-0, 2-1) and Northampton's games are low-event.",
+  "confidence": 0.3,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_League_Two",
+   "https://www.espn.com/soccer/schedule/_/league/eng.4",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/57/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72342376",
+  "fx": "Shrewsbury Town v Oldham Athletic",
+  "home_form": "Shrewsbury: 2-1 at Eastleigh (FA Cup), 1-2 Gillingham (H), 2-1 Everton U21, 3-3 at Rotherham, 3-2 at Crawley, 1-0 Bristol Rovers (H), 0-1 Exeter (H), 0-2 Stockport (H).",
+  "away_form": "Oldham: 2-5 at Barnsley (Trophy), 2-1 Sheff Wed (FA Cup), 1-0 at Northampton, 0-1 Crawley, 1-1 at Barnet, 0-3 at Walsall, 4-1 Cheltenham.",
+  "goals_trend": "Shrewsbury home league games: 1-2, 1-0, 0-1 (low). Both O1.5 6/8.",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found.",
+  "context": "ESPN has Oldham as the outsider. No postponement found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID O1.5 (p0.744): it is below the gate and Shrewsbury's home league games are tight (3 goals or fewer, two of them single-goal).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/eng.4",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_League_Two",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/82/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72342378",
+  "fx": "Swindon Town v Grimsby Town",
+  "home_form": "Swindon: 1-2 at Plymouth (Trophy), 1-2 at MK (FA Cup), 2-1 Rotherham (H), 0-0 at Bristol Rovers, 3-1 at Barnet, 1-1 Walsall (H), 0-1 Crewe (H), 0-1 at Rochdale. Avg 2.1 goals, failed to score in 3 of 8.",
+  "away_form": "Grimsby (6th, 20 pts): 0-3 Nottingham U21 (Trophy), 6-5 at Stafford (FA Cup, likely includes a shootout), 5-2 York, 4-1 at Gillingham, 2-2 at Rochdale, 0-2 Northampton, 0-1 at Port Vale.",
+  "goals_trend": "Swindon low-event (O1.5 5/8); Grimsby feast or famine (5-2, 4-1, 0-2, 0-1).",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found.",
+  "context": "Mid-table. No postponement found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.81) is neutral. Swindon's games are low-event (0-0, 0-1, 0-1, 1-1), offset by Grimsby's recent attack. No mechanism, so do not use as an anchor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_League_Two",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/53/20",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/18/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72342380",
+  "fx": "Walsall FC v Barnet FC",
+  "home_form": "Walsall (3rd): 1-2 at Leicester U21, 1-3 at Newport, 3-1 at Colchester, 2-4 Salford.",
+  "away_form": "Barnet (2nd): 4-2 Orient (Trophy), 3-0 Tranmere, 1-1 at Crewe.",
+  "goals_trend": "n/a",
+  "h2h": "n/a",
+  "absences": "Barnet: Oisin Gallagher (ROI U21), Idris Kanu (Sierra Leone) and Brandon Comley (Montserrat) are on international duty.",
+  "context": "POSTPONED: the EFL approved Barnet's request (3 international call-ups). Confirmed by Barnet FC, Express & Star and Sky Sports.",
+  "veto": true,
+  "veto_reason": "Match postponed (international call-ups). Confirmed on barnetfc.com and expressandstar.com. Do not book it.",
+  "lean": "None. Remove from all slips.",
+  "confidence": 0.4,
+  "sources": [
+   "https://barnetfc.com/match-postponed-walsall-v-barnet",
+   "https://www.expressandstar.com/sport/football/walsall-fc/walsall-match-postponed-due-to-international-call-ups-9332541",
+   "https://www.skysports.com/barnet"
+  ]
+ },
+ {
+  "eid": "sr:match:72342366",
+  "fx": "Fleetwood Town v Tranmere Rovers FC",
+  "home_form": "Fleetwood: 1-2 Rochdale (H), 3-1 Bristol Rovers (H), 6-4 Arsenal U21 (Trophy), 1-2 at Exeter, 2-4 at Cheltenham, 2-0 Rotherham (H), 1-1 Walsall (H), 4-1 Barnsley (H). Scored in all 8; home league games 1-2, 3-1, 2-0, 1-1.",
+  "away_form": "Tranmere: 3-4 at Stockport (Trophy), 0-3 at Barnet (FA Cup), 3-1 Cheltenham, 1-1 at Crawley, 1-0 at Northampton, 1-2 Barnet, 1-1 at Rochdale, 2-4 at Chesterfield.",
+  "goals_trend": "Fleetwood O1.5 8/8; Tranmere O1.5 7/8 (the 1-0 at Northampton is the only exception).",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found.",
+  "context": "17:30 UTC kick-off (moved from 3pm, probably for TV); Sportradar agrees (18:30 CET). No postponement found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.765) is mildly supported (both sides scored in nearly every game) but it sits below the 0.78 comfort zone. Statistical only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_League_Two",
+   "https://www.espn.com/soccer/schedule/_/league/eng.4",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/23959/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72740800",
+  "fx": "AFC Hornchurch v Tamworth FC",
+  "home_form": "Hornchurch (about 15th): 1-2 Blackpool (FA Cup), 2-0 West Ham U21, 1-3 at Fylde, 1-2 Yeovil (H), 1-2 at Hartlepool, 2-0 Eastleigh (H). Scored in all 8.",
+  "away_form": "Tamworth (about 20th): 2-3 Everton U21, 0-1 Woking (H), 4-1 Scunthorpe (H), 1-2 at Carlisle, 1-2 Barrow (H), 1-0 at Hartlepool. Avg 2.6 goals.",
+  "goals_trend": "Hornchurch O1.5 8/8; Tamworth O1.5 5/8.",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found.",
+  "context": "Near-even odds between two lower-half sides. Confirmed for 3pm at Hornchurch Stadium.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.80) is mild: Hornchurch always score; Tamworth are tighter (0-1, 1-0). No mechanism, fill only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.footballwebpages.co.uk/national-league/fixtures-results",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/102/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72740790",
+  "fx": "Carlisle United v Boston United FC",
+  "home_form": "Carlisle: unbeaten in 8 (7W 1D): 1-0 Salford (FA Cup), 4-2 at Altrincham, 3-0 Harrogate (H), 2-1 at Solihull, 2-1 Tamworth (H), 0-0 Kidderminster (H), 3-1 at Aldershot, 2-0 at Fylde.",
+  "away_form": "Boston (about 19th): 1-0 Leicester U21, 2-1 Scunthorpe, 2-1 Gateshead, 2-4 at Eastleigh, 1-3 Scunthorpe, 1-2 Southend (H), 0-6 at Yeovil. Away league: 2-4, 0-6.",
+  "goals_trend": "Carlisle home: 1-0, 3-0, 2-1, 0-0. Boston away games are heavy defeats.",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found.",
+  "context": "Ex-EFL club in strong form at Brunton Park v a lower-half side that has been hammered away (0-6, 2-4). Odds were about 5/11 home.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "SUPPORT DNB Home (p0.806): Carlisle are unbeaten in 8 with 7 wins, and Boston's away record is 0-6 and 2-4, a structural mismatch. Best National League leg.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bostonunited.co.uk/teams/24809/match-centre/1-19876733",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/78/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72740794",
+  "fx": "Gateshead FC v Barrow AFC",
+  "home_form": "Gateshead (24th, bottom): 3-1 Stoke U21, 0-1 at Aldershot, 1-2 at Boston, 0-5 at Stafford (FA Cup qualifier), 1-1 Stafford, 1-4 Wolves U21, 1-4 at Halifax, 1-2 Worthing (H). 0 competitive wins in the last 7.",
+  "away_form": "Barrow (about 9th): unbeaten in 8 (6W 2D): 1-0 at Gillingham (FA Cup), 1-1 Eastleigh, 3-2 at Halifax, 2-0 at Gloucester, 0-0 Gloucester, 2-1 at Tamworth, 2-1 Wealdstone, 3-0 Scunthorpe.",
+  "goals_trend": "Barrow tight (avg 2.4, O2.5 4/8); Gateshead concede plenty but score about 1.",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found.",
+  "context": "Bottom club v an in-form ex-EFL side; Barrow are away favourites in the odds. Confirmed for 3pm.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "SUPPORT DNB Away (p0.787): Barrow are unbeaten in 8 (including 3 away wins) and Gateshead have no competitive win in 7, a structural mismatch. O1.5 (p0.79) is weaker because Barrow grind out 1-0/2-1 games; secondary only.",
+  "confidence": 0.3,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://nlnotebook.substack.com/p/nl-notebook-2026-27-national-league",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/97/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72740798",
+  "fx": "Hartlepool United v Wealdstone FC",
+  "home_form": "Hartlepool (21st, 15 pts): 3-1 Leeds U21, 3-4 at Boreham Wood, 1-3 at Fylde, 2-1 Hornchurch (H), 0-2 Marine (FA Cup, H), 4-2 at Forest Green, 0-1 Tamworth (H).",
+  "away_form": "Wealdstone (18th, 18 pts): 0-2 at Dover (FA Cup), 5-4 Derby U21, 3-2 Southend, 2-3 Solihull, 1-0 at Aldershot, 3-0 Worthing, 0-6 Yeovil.",
+  "goals_trend": "Both concede freely: Hartlepool O1.5 7/8, Wealdstone O2.5 5/8.",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found.",
+  "context": "Two struggling sides; both have something to play for. Confirmed for 3pm.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.80) is mildly supported by both defences (Hartlepool have conceded 2+ in 4 of the last 6 league games). Statistical only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.footballwebpages.co.uk/national-league/fixtures-results",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/238/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72740802",
+  "fx": "Kidderminster Harriers FC v FC Halifax Town",
+  "home_form": "Kidderminster (13th): 3-0 Doncaster (FA Cup), 1-2 at Solihull, 0-0 at Altrincham, 1-2 Worthing (H), 2-1 Solihull (H), 0-0 at Carlisle, 1-1 Sutton (H). Avg 2.2 goals, with two 0-0s.",
+  "away_form": "Halifax (10th): 0-2 at Cheltenham (FA Cup), 3-4 Nottingham U21, 2-0 Yeovil, 2-3 Barrow, 2-2 at Southend, 3-2 South Shields, 4-1 Gateshead. Open games.",
+  "goals_trend": "Kidderminster O1.5 6/8; Halifax O1.5 8/8, avg 4.5 (cup games inflate it).",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found.",
+  "context": "Mid-table. Confirmed for 3pm.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.77) is below the gate. Kidderminster's games are low-event (two 0-0s in 4). Avoid.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/90/20",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/87/20"
+  ]
+ },
+ {
+  "eid": "sr:match:72740808",
+  "fx": "Sutton United v Solihull Moors FC",
+  "home_form": "Sutton (11th): 0-1 at Guiseley (FA Cup), 3-1 Southampton U21, 3-0 at Worthing, 2-0 Aldershot (H), 1-3 at Harrogate, 1-0 Truro (H). Home league: 2-0, 1-0, 0-2 Boreham.",
+  "away_form": "Solihull (22nd): 2-1 Kidderminster, 2-3 at Wealdstone, 1-2 Carlisle, 1-2 at Kidderminster, 0-5 at Worthing, 0-2 Halifax.",
+  "goals_trend": "Sutton O1.5 6/8, often 1-0/2-0 at home; Solihull O1.5 7/8.",
+  "h2h": "No 2026 H2H found.",
+  "absences": "No team news found.",
+  "context": "Solihull are in the relegation zone; Sutton mid-table. Confirmed by Sutton's fixtures page.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 (p0.80) is neutral. Sutton's home wins come with clean sheets (2-0, 1-0), which risks a 1-0. No mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.suttonunited.net/first-team/fixtures/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/6339/20"
+  ]
+ },
+ {
+  "eid": "sr:match:76171274",
+  "fx": "FC Versailles 78 v Rodez Aveyron Football",
+  "home_form": "Versailles (Ligue 3/National): 0-1 at Caen, 4-0 Aubagne (H), 2-1 at Thionville, 1-0 Valenciennes (H), 2-1 at Villefranche, 0-0 Quevilly (H), 4-0 at Orleans, 0-3 Cannes (H). The club calls itself in good form.",
+  "away_form": "Rodez (Ligue 2): 0-1 at Clermont, 1-0 Dunkerque, 2-1 at Dijon, 0-3 Montpellier, 0-2 at St-Etienne, 2-0 Escaldes (friendly/cup), 3-4 Nancy, 0-1 Grenoble. Failed to score in 4 of 8.",
+  "goals_trend": "Both average about 2.4-2.5 goals; Rodez's matches are frequently 1-0/0-1.",
+  "h2h": "No recent H2H found.",
+  "absences": "Rodez head coach Didier Santini is unlikely to be on the bench (cervical surgery on 23 Oct). His son Jeremi Santini plays right-back for Versailles. Rotation is likely for the Ligue 2 side in a cup round.",
+  "context": "Coupe de France 7th round (knockout; O/U settles on 90 min). Played at Stade Georges Lefevre, Saint-Germain-en-Laye (per Rodez's official site), 14 Nov 14:00 local / 13:00 UTC, which matches the board. A cup tie between a lower-league side and a Ligue 2 side tends to be cagey.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID O1.5 (p0.74): it is below the gate, a knockout with a likely cautious Ligue 2 side (no head coach on the bench, rotation), and Rodez fail to score often. No result-side (knockout rule).",
+  "confidence": 0.2,
+  "sources": [
+   "https://rodezaveyronfootball.com/2026/11/informations-deplacement-fc-versailles-raf/",
+   "https://www.433foot.fr/coupe-de-france-insolite-fc-versailles-rodez-duel-pere-fils-au-7eme-tour/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx/6925/20"
+  ]
+ }
+]

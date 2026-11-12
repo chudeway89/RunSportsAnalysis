@@ -1,0 +1,512 @@
+[
+ {
+  "eid": "sr:match:76171166",
+  "fx": "USL Dunkerque v Quevilly-Rouen Metropole",
+  "home_form": "Dunkerque (L2) last 10: W3-0 Guingamp(H), L0-1 Rodez(A), D1-1 Metz(H), W3-2 Nantes(A), L0-1 Annecy(H), L0-2 Pau(A), W2-1 St-Etienne(H), D1-1 Clermont(H), L0-2 Nancy(A), L0-1 Montpellier(H). Home: 2W 2D 2L in last 6.",
+  "away_form": "QRM (National) last 10: W2-0 Villefranche(A), L0-2 Bastia(A), W3-2 Orleans(H), L1-3 Cannes(A), D1-1 Amiens(H), D0-0 Versailles(A), W2-1 Le Puy(H), D1-1 La Roche(A), W2-1 Fleury(H), L0-3 Rouen(A). Away: 1W 2D 3L.",
+  "goals_trend": "Dunkerque games low-ish: 6/10 O1.5; failed to score in 5/10. QRM 8/10 O1.5.",
+  "h2h": "No recent H2H found.",
+  "absences": "No team news found. L2 side entering at 7th round -- rotation risk typical for Coupe de France.",
+  "context": "Coupe de France 7th round (single tie, 90-min settlement for DNB; draw voids DNB). Kick-off: Ouest-France/ICI and Sportradar say 18:00 Paris (=17:00 UTC, matches board); beIN lists 13:00 UTC -- minority conflict, board time agrees with majority.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "DNB Home @1.24 (p0.779): no named mechanism; Dunkerque home form mediocre (lost to Annecy, Montpellier at home), cup rotation risk, opponent one tier lower and in decent form. Avoid / fill at best.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.beinsports.com/en-us/soccer/coupe-de-france/dunkerque-vs-quevilly-rouen-mtropole-2026-11-14",
+   "https://madeinfoot.ouest-france.fr/infos/article-coupe-de-france-le-calendrier-complet-du-7e-tour-de-coupe-de-france-pour-les-clubs-de-ligue-2-544380.html",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:74172542",
+  "fx": "Panserraikos FC v Anagennisi Karditsas 1904",
+  "home_form": "Panserraikos last 10: W2-1 Kalamata(H), L0-5 Panionios(A), L0-1 Niki Volou(H), W3-2 Hellas Syrou(H), D0-0 Larissa(A), W2-1 Chrysoupoli(H), D1-1 Panthrakikos(A), W4-1 Olympiacos B(H), L1-2 Kallithea(A), L1-8 AEK (A, cup). Home 4W 1L last 5.",
+  "away_form": "Karditsa last 10: D1-1 Marko(H), L1-2 Niki Volou(A), W1-0 PAOK B(H), W1-0 Pas Pyrgos(A), W3-0 Zakynthos(H), L0-2 Tripolis B(A), L0-1 Kalamata(A), D0-0 Panionios(H), L0-3 Hellas Syrou(A), D1-1 Larissa(A). Away: 1W 1D 4L, scored 4 in 6 away.",
+  "goals_trend": "Greek SL2 low scoring; Karditsa games 5/10 O1.5.",
+  "h2h": "None found recent.",
+  "absences": "No team news found.",
+  "context": "Mid-table vs lower-mid table (Panserraikos ~6th 13pts, Karditsa ~9th 11pts per Wikipedia; tables unreliable).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "DNB Home @1.18 (p0.804): mildly supported by Panserraikos home 4W/5 vs Karditsa away 1W/6 scoring little -- but statistics only, no named mechanism; and 1.18 is near the padding floor. Fill at best.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betexplorer.com/football/greece/super-league-2/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:74172532",
+  "fx": "AE Larissa FC v Nestos Chrysoupoli FC",
+  "home_form": "Larissa last 10: W3-0 Panthrakikos(A), W2-1 Olympiacos B(H), W1-0 OFI(H, cup), D1-1 Kallithea(A), D0-0 Panserraikos(H), L0-1 Marko(A), D2-2 Niki(A), W1-0 PAOK B(H), W4-0 Pyrgos(A), D1-1 Kalamata(A). Home: 1-0, 0-0, 2-1, 1-0 -> tight.",
+  "away_form": "Nestos last 10: L1-2 Tripolis B(H), L1-3 Panthrakikos(H), L0-2 Kalamata(H), W2-1 Olympiacos B(A), D0-0 Kallithea(H), L1-2 Panserraikos(A), L1-2 Marko(H), L0-2 Niki(A), L1-2 PAOK B(A), W1-0 Pyrgos(H). Relegation zone (~13-14th, 8 pts).",
+  "goals_trend": "Larissa 6/10 O1.5 but only 2/4 at home (1-0,0-0,2-1,1-0); Nestos 8/10 O1.5. Low-scoring league.",
+  "h2h": "None found.",
+  "absences": "No team news found.",
+  "context": "Promotion-chasing Larissa (~3rd) v relegation-zone Nestos.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.25 (p0.76): Larissa home games are tight (two of last four had <2 goals), Greek SL2 is a thin/low-scoring context per the O1.5 rule. Avoid. If anything, Larissa result-side is the more natural angle but not on the board.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/greece/super-league-2/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:74372596",
+  "fx": "Uganda v Botswana",
+  "home_form": "Uganda last: D1-1 DR Congo(H), W2-0 DR Congo(A), W1-0 Libya(H), D1-1 Tunisia(A); AFCON 2025: L1-3 Nigeria, D1-1 Tanzania, L1-3 Tunisia. Beat Botswana 1-0 away (Oct 2024).",
+  "away_form": "Botswana last: D2-2 Tunisia(A), D2-2 Libya(A), W1-0 Malawi(A), L0-3 DR Congo, L0-1 Benin, L0-3 Senegal.",
+  "goals_trend": "Uganda low scoring (<=2 goals in most games).",
+  "h2h": "Uganda won 1-0 in Botswana (Oct 2024 qualifier).",
+  "absences": "No squad news found.",
+  "context": "AFCON 2027 qualifying Group H, matchday 3 at Hoima City Stadium. Uganda are ALREADY QUALIFIED as AFCON 2027 co-hosts (group leaders); Botswana 2nd and chasing the qualifying spot. Home side has nothing material to play for.",
+  "veto": true,
+  "veto_reason": "Dead rubber for the home side: Uganda already qualified as co-host (motivation/rotation risk, R3).",
+  "lean": "DNB Home @1.19 (p0.811): skip -- home favourite has no stake, Botswana unbeaten in last 3 away (2-2 Tunisia, 2-2 Libya, 1-0 Malawi).",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/afcon-2027-qualifiers-fixtures-weekend-schedule-and-kick-off-times-13-16-november-2026/",
+   "https://africasoccer.com/afcon-2027-qualifiers-matchday-3-4-all-fixtures/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75802290",
+  "fx": "Algeria v Togo",
+  "home_form": "Algeria last: W2-1 Niger(H), D2-2 Burundi(A), W3-1 Zambia(H); WC2026: L0-2 Switzerland, D3-3 Austria, W2-1 Jordan, L0-3 Argentina. Home: W2-1, W3-1, D3-3, D0-0 Uruguay.",
+  "away_form": "Togo last: L0-2 Zambia(A), W1-0 Burundi(H), W5-1 Benin(H), D1-1 CAR(A), D0-0 South Sudan(A), L0-1 DR Congo(H), L0-2 Mauritania(A), L0-2 Senegal(A). Away: scored 1 in last 5 away.",
+  "goals_trend": "Algeria home games 3/4 O1.5 (all of 2-1, 3-1, 3-3); Togo away games 3/5 O1.5, Togo fail to score away often.",
+  "h2h": "None recent found.",
+  "absences": "No November squad news found (Petkovic status unclear in sources).",
+  "context": "Group I: Algeria lead on 4 pts, Togo 3rd on 3 pts; home leg at Hocine Ait Ahmed Stadium, Tizi Ouzou; return leg Nov 17 in Togo. Algeria motivated to open gap.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "1X2 Home @1.22 (p0.799) mildly supported (Algeria home unbeaten in qualifiers, Togo blunt away: 1 goal in 5 away) -- statistics plus motivation, no named absences. O1.5 @1.24 (p0.781) acceptable, Algeria home matches score. Prefer 1X2 Home over O1.5; do not stack both.",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/afcon-2027-contenders-face-a-double-test-as-qualifying-heats-up/",
+   "https://africasoccer.com/2027-afcon-qualifiers-matchday-3-games-get-underway-on-thursday/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75802234",
+  "fx": "Angola v South Sudan",
+  "home_form": "Angola last: W3-1 Malawi(H), D0-0 Egypt(A), W3-0 CAR(H), D1-1 Mauritania(H), AFCON: D0-0 Egypt, D1-1 Zimbabwe, L1-2 South Africa, W4-1 Mozambique(H). Home: 6/7 O1.5.",
+  "away_form": "South Sudan last: L0-5 Egypt(H), L1-2 Malawi(A), L0-1 Djibouti(H), W4-0 Djibouti(A), L0-2 Syria, D0-0 Togo, L0-5 Senegal, D0-0 Mauritania, L1-4 DR Congo.",
+  "goals_trend": "South Sudan concede heavily vs stronger sides (0-5 Egypt, 0-5 Senegal, 1-4 DR Congo); Angola home 3-1, 3-0, 4-1.",
+  "h2h": "None found.",
+  "absences": "No team news found.",
+  "context": "Group B: Angola 4 pts (level with Egypt), South Sudan 0 pts after 2 losses. Angola need goals/points to keep pace with Egypt.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.21 (p0.801): supported by structural mismatch -- Angola home 6/7 O1.5 and South Sudan conceding 5 to Egypt in Sept. Reasonable leg; residual risk is a cagey 1-0.",
+  "confidence": 0.3,
+  "sources": [
+   "https://africasoccer.com/afcon-2027-qualifiers-matchday-3-4-all-fixtures/",
+   "https://blueprint.ng/afcon-2027-qualifiers-nigeria-other-african-giants-face-crucial-tests-on-matchday-3-full-fixtures/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75466980",
+  "fx": "Haiti v USA",
+  "home_form": "Haiti last: L0-2 Costa Rica(A), W4-1 Dominican Rep(A), W2-0 Costa Rica(H), W3-2 Trinidad(H); WC2026: L2-4 Morocco, L0-3 Brazil, L0-1 Scotland.",
+  "away_form": "USA last: W1-0 Canada, W3-0 Mexico, W4-2 Chile, W4-1 Peru; WC: L1-4 Belgium, W2-0 Bosnia, L2-3 Turkiye.",
+  "goals_trend": "USA games 6/7 O1.5 recently; Haiti 9/10 O1.5.",
+  "h2h": "None recent found.",
+  "absences": "SI lists USMNT injury doubts for the quarterfinals (no names extracted).",
+  "context": "CNL quarterfinal first leg. VENUE MOVED: Concacaf approved moving Haiti's home leg from Kingston to Miami for security reasons -- effectively a US-based game; board still lists Haiti as home. Same date (Nov 14, 16:30 ET = 21:30 UTC matches board). Return leg Cincinnati Nov 17.",
+  "veto": false,
+  "veto_reason": "Not vetoed: venue change is official and confirmed by Concacaf; date matches. Flag data_conflict (neutral/US venue) if a result-side were used.",
+  "lean": "O1.5 @1.19 (p0.809): supported -- USA attack in form (11 goals in last 4), Haiti games high-event, venue effectively favours USA. Acceptable leg; avoid any Haiti-side pick.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.insideworldfootball.com/2026/11/02/concacaf-tidies-up-housekeeping-for-cnl-quarter-finals-granting-haiti-venue-move-and-sanctioning-guatemala",
+   "https://www.concacaf.com/competitions/nations-league/news/2026-27-concacaf-nations-league-november-schedule-confirmed",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:75466982",
+  "fx": "Jamaica v Mexico",
+  "home_form": "Jamaica last: D1-1 Honduras(A), W2-0 El Salvador(A), L0-1 Honduras(H), W3-2 Guatemala(H), D1-1 South Africa(H).",
+  "away_form": "Mexico last 4: L0-2 Chile(H), L0-3 USA(A), D1-1 Peru(H), D1-1 Colombia(H) -- winless in 4.",
+  "goals_trend": "Mexico scored 2 in last 4; Jamaica tight games.",
+  "h2h": "No recent H2H in data.",
+  "absences": "Mexico: new coach Rafael Marquez's first official game; 28-man squad incl. Vega, Quinones, Tecatito Corona; Armando Leon first call-up. Jamaica (Rudolph Speid): Andre Blake returns, Denzel Hall added.",
+  "context": "CNL quarterfinal first leg at National Stadium, Kingston; return leg in Monterrey Nov 17 (Mexico can manage the tie).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "DNB Away @1.21 (p0.795): AVOID -- fragile favourite: Mexico winless in 4 (beaten 3-0 by USA, 2-0 by Chile), new coach debut, away first leg of a two-leg tie in Kingston. R4: fragile favourite is skipped.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fmfstateofmind.com/international-news/27863/mexico-name-squad-for-nations-league-quarterfinal-matches",
+   "https://www.squawka.com/us/news/concacaf-nations-league/jamaica-vs-mexico-concacaf-nations-league-prediction-11-14-26/",
+   "https://www.infobae.com/mexico/deportes/2026/11/12/las-pistas-sobre-el-posible-once-inicial-de-mexico-para-enfrentar-a-jamaica-en-la-concacaf-nations-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:68932736",
+  "fx": "Kosovo v Israel",
+  "home_form": "Kosovo NL: D1-1 Austria(H), D0-0 Israel(A), L1-3 Austria(A), W1-0 Ireland(H). Only 3 NL goals.",
+  "away_form": "Israel NL: D1-1 Ireland(A), D0-0 Kosovo(H), L0-3 Ireland(H), L1-3 Austria(A).",
+  "goals_trend": "Kosovo games 2/4 O1.5 in NL; Israel 3/4.",
+  "h2h": "Oct 1 2026: Israel 0-0 Kosovo.",
+  "absences": "Kosovo: Muriqi, Zhegrova expected to start (Sports Mole). Israel: no news found.",
+  "context": "League B Group 3: Kosovo 2nd 5 pts, Israel last 2 pts (lose -> League B/C play-off). Both motivated.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.28 (p0.751): AVOID -- reverse fixture a month ago ended 0-0, Kosovo low scoring (3 goals in 4 NL games), p is mid-band 0.75.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/kosovo/uefa-nations-league/preview/kosovo-vs-israel-prediction-team-news-lineups_608982.html",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68932050",
+  "fx": "Norway v Wales",
+  "home_form": "Norway NL: L1-2 Portugal(A), L1-2 Wales(A), L1-2 Portugal(H), W3-2 Denmark(H). Lost 3 of last 4.",
+  "away_form": "Wales NL: L0-1 Denmark(H), W2-1 Norway(H), L0-2 Denmark(A), L0-1 Portugal(A). Scored 2 in 4.",
+  "goals_trend": "Norway games all O1.5 (high-event); Norway scored 1 in each of last three.",
+  "h2h": "Oct 1 2026: Wales 2-1 Norway.",
+  "absences": "Norway: Haaland and Odegaard missed Tuesday training but returned (Solbakken: 'small things'); Sorloth OUT, Langas out. Wales: Harry Wilson back.",
+  "context": "League A Group 4 at Ullevaal. Norway 3 pts, need win to keep QF hopes; Wales also fighting to stay in League A.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "1X2 Home @1.24 (p0.795) and Norway team O1.5 @1.29 (p0.754): both look rich for a side that lost 3 of 4 and lost to Wales a month ago; Haaland/Odegaard fitness only 'returned to training'. Avoid both, or at most Norway team O1.5 if Haaland is confirmed starting.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.beinsports.com/en-us/soccer/uefa-nations-league/articles/good-news-for-norway-haaland-and-degaard-return-to-training-2026-11-11",
+   "https://herald.wales/national-news/sport/the-boys-in-red-are-ready-for-oslo-showdown-as-cymru-fight-for-nations-league-future/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68932738",
+  "fx": "Austria v Ireland",
+  "home_form": "Austria NL: D1-1 Kosovo(A), D2-2 Ireland(A), W3-1 Kosovo(H), W3-1 Israel(H). Home 2/2 wins, 6 goals.",
+  "away_form": "Ireland NL: D1-1 Israel(H), D2-2 Austria(H), W3-0 Israel(A), L0-1 Kosovo(A).",
+  "goals_trend": "Austria home NL games 4 goals each; Ireland 3/4 O1.5.",
+  "h2h": "Oct 1 2026: Ireland 2-2 Austria.",
+  "absences": "Austria possible XI (Sports Mole): A.Schlager; Posch, Bacher, Danso, Laimer; Seiwald, X.Schlager; Florucz, Schmid, Prass; Gregoritsch. Ireland: no news found.",
+  "context": "League B Group 3: an Austria win guarantees promotion to League A (must_win-ish). Ireland chasing first ever League A place.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.27 (p0.76) best supported (Austria home 3-1, 3-1; H2H 2-2). DNB Home @1.24 (p0.784) acceptable on motivation (win = promotion) but Sports Mole predicts 2-2; secondary. Don't stack both.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/austria/uefa-nations-league/preview/austria-vs-rep-ireland-prediction-team-news-lineups_609009.html",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68932768",
+  "fx": "Northern Ireland v Ukraine",
+  "home_form": "N.Ireland last 10: D0-0 Georgia(H), W3-0 Ukraine(A), D0-0 Hungary(H), W1-0 Georgia(A), L1-3 France, W1-0 Guinea, D1-1 Wales, L0-2 Italy, W1-0 Luxembourg, L0-1 Slovakia.",
+  "away_form": "Ukraine last 10: L1-2 Hungary(H), L0-3 N.Ireland(H), D0-0 Georgia(A), W1-0 Hungary(A), W2-0 Poland, W1-0 Albania, L1-3 Sweden, W2-0 Iceland, L0-4 France, W2-1 Azerbaijan.",
+  "goals_trend": "N.Ireland 9/10 U3.5 (only 1-3 France over); Ukraine 8/10 U3.5. N.Ireland home: 0-0, 0-0 last two.",
+  "h2h": "Oct 2 2026: Ukraine 0-3 Northern Ireland.",
+  "absences": "Ukraine: Mykolenko reported a doubt (Oct report, stale). No current news.",
+  "context": "League B group: N.Ireland strong (unbeaten, 0 conceded at home), Ukraine struggling.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "U3.5 @1.20 (p0.825): supported by fixture-specific structure (both sides' last 10 nearly all <=3 goals, N.Ireland home 0-0, 0-0). Passes Under gate (p>=0.82); counts as the ONE Under for a core. Rout tail small (Ukraine conceded 3 at home to them, but N.Ireland rarely score 3+).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures-a/",
+   "https://www.forebet.com/en/predictions-europe/uefa-nations-league",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68932052",
+  "fx": "Portugal v Denmark",
+  "home_form": "Portugal NL 4/4 wins: W2-1 Norway(H), W4-2 Denmark(A), W2-1 Norway(A), W1-0 Wales(H).",
+  "away_form": "Denmark NL: W1-0 Wales(A), L2-4 Portugal(H), W2-0 Wales(H), L2-3 Norway(A).",
+  "goals_trend": "Portugal games 4/4 O1.5; Denmark 4/4.",
+  "h2h": "Oct 1 2026: Denmark 2-4 Portugal.",
+  "absences": "Portugal: Rafael Leao, Nuno Tavares, Tomas Araujo released after medicals; Nuno Mendes unavailable; Joao Cancelo SUSPENDED (both first-choice full-backs out). Denmark: Andreas Christensen (thigh) and Patrick Dorgu out.",
+  "context": "League A Group 4 at Braga; Portugal seal top spot with a win; Denmark chasing QF place.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "DNB Home @1.22 (p0.794): supported by form (4/4, beat Denmark 4-2 away) and home venue, but Portugal's defensive absences (Mendes, Cancelo, Araujo, Tavares) cut the margin; Denmark also weakened. Acceptable fill, not an anchor.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.goal.com/en/news/portugal-denmark-uefa-nations-league-preview/bltee0f795a0bff0813",
+   "https://www.rotowire.com/soccer/article/portugal-vs-denmark-prediction-predicted-lineups-team-news-146286",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68932626",
+  "fx": "Romania v Poland",
+  "home_form": "Romania NL: L0-1 Sweden(H), L0-6 Poland(A), L2-4 Bosnia(H), L1-2 Sweden(A) -- 0 pts.",
+  "away_form": "Poland NL: L0-1 Bosnia(A), W6-0 Romania(H), L1-3 Sweden(A), D0-0 Bosnia(H).",
+  "goals_trend": "Romania 3/4 O1.5, Poland 2/4. Romania have conceded 13 in 4 (rout tail).",
+  "h2h": "Oct 2 2026: Poland 6-0 Romania.",
+  "absences": "No current news (Kaminski adductor note is from an earlier window).",
+  "context": "League B Group 4: Romania bottom on 0 pts (relegation fight, must win); Poland 4 pts.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.24 (p0.78) mildly supported (Romania concede heavily; Romania home 0-1, 2-4). AVOID U4.5 (p0.837): Romania conceded 6 and 4 in this group -- rout tail. No named mechanism.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.forebet.com/en/predictions-europe/uefa-nations-league",
+   "https://www.espn.com/soccer/schedule/_/league/uefa.nations",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68932628",
+  "fx": "Sweden v Bosnia & Herzegovina",
+  "home_form": "Sweden NL: W1-0 Romania(A), D1-1 Bosnia(A), W3-1 Poland(H), W2-1 Romania(H) -- 10 pts, top.",
+  "away_form": "Bosnia NL: W1-0 Poland(H), D1-1 Sweden(H), W4-2 Romania(A), D0-0 Poland(A) -- unbeaten, 8 pts.",
+  "goals_trend": "Sweden home 4 and 3 goals; Bosnia 3/4 O1.5.",
+  "h2h": "Oct 2 2026: Bosnia 1-1 Sweden.",
+  "absences": "Sweden: Isak and Gyokeres both expected to start; Starfelt possibly injured (low-confidence). Bosnia: Tarik Muharemovic SUSPENDED, otherwise strong.",
+  "context": "League B Group 4 top-of-table decider for automatic promotion (Sweden 10, Bosnia 8). Venue Strawberry Arena, Solna (ESPN 'Friends Arena' is the old name of the same stadium -- not a conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.18 (p0.819) supported: Isak+Gyokeres confirmed fit, Sweden home games 3+ goals, Bosnia scoring away. DNB Home @1.22 (p0.796) weaker: Bosnia unbeaten and drew the reverse; Muharemovic suspension helps Sweden. Prefer O1.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/sweden/uefa-nations-league/preview/sweden-vs-bosnia-hvina-prediction-team-news-lineups_608998.html",
+   "https://thefootballfaithful.com/sweden-vs-bosnia-herzegovina-prediction-betting-tips-14-11-2026/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68931504",
+  "fx": "Belgium v Italy",
+  "home_form": "Belgium NL: W2-1 Turkiye(A, Nov 12), L1-4 France(A), W3-0 Turkiye(H), L0-1 France(H), W2-0 Italy(A).",
+  "away_form": "Italy NL: W3-1 France(H, Nov 12), W3-1 Turkiye(H), D1-1 France(A), W4-1 Turkiye(A), L0-2 Belgium(H).",
+  "goals_trend": "Belgium 4/5 O1.5; Italy 5/5 O1.5 (scoring freely).",
+  "h2h": "Sep 25 2026: Italy 0-2 Belgium.",
+  "absences": "No current squad news found.",
+  "context": "League A Group 1: effectively a decider for 2nd place/QF (France top). Both played Nov 12 (3-day turnaround). Big-club clash.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.26 (p0.768): form supports it, but big-club clash totals need p>=0.82 under the rules and this is a high-stakes decider (cagey risk) -> AVOID or fill only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.foxsports.com/soccer/nations-league/standings",
+   "https://www.uefa.com/uefanationsleague/news/02a2-1fea18abbcbc-456e846509e7-1000--2026-27-uefa-nations-league-all-the-league-phase-fixtures-a/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68931758",
+  "fx": "Croatia v Czechia",
+  "home_form": "Croatia NL: L1-2 England(A, Nov 12), L1-2 Spain(H), L0-7 England(H), L1-4 Spain(A), W2-1 Czechia(A).",
+  "away_form": "Czechia NL: L0-2 Spain(H, Nov 12), L0-3 England(A), L1-3 Spain(A), L0-2 England(H), L1-2 Croatia(H) -- 0 pts.",
+  "goals_trend": "Croatia 5/5 O1.5; Czechia 5/5 O1.5 (concede 2+ every game).",
+  "h2h": "Sep 26 2026: Czechia 1-2 Croatia.",
+  "absences": "No current squad news found.",
+  "context": "League A Group 3 bottom-two clash: Croatia 3 pts v Czechia 0 pts -- relegation decider, both must play for the win. 3-day turnaround after Nov 12.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.21 (p0.796): supported -- both sides' 10/10 combined NL games had 2+ goals, Czechia concede 2+ every game, both need a win. Good leg.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.foxsports.com/soccer/nations-league/standings",
+   "https://tribuna.com/en/league/nations-league/table/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68931506",
+  "fx": "France v Turkiye",
+  "home_form": "France NL: L1-3 Italy(A, Nov 12), W4-1 Belgium(H), D1-1 Italy(H), W1-0 Belgium(A), W1-0 Turkiye(A). Leaders.",
+  "away_form": "Turkiye NL: L1-2 Belgium(H, Nov 12), L1-3 Italy(A), L0-3 Belgium(A), L1-4 Italy(H), L0-1 France(H) -- 0 pts from 5, 3 scored, 13 conceded.",
+  "goals_trend": "France home NL 4-1, 1-1; Turkiye conceding 2.6/game.",
+  "h2h": "Sep 25 2026: Turkiye 0-1 France.",
+  "absences": "France: Ousmane Dembele OUT (injury); Pablo Pagis first call-up. Turkiye: no news.",
+  "context": "League A Group 1: France top; Turkiye bottom with 0 pts -- relegation near-certain, motivation question (dead-rubber risk for Turkiye cuts both ways).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "1X2 Home @1.19 (p0.824) and France team O1.5 @1.20 (p0.809): supported by structural mismatch (Turkiye lost 5/5, conceded 13). Prefer France team O1.5 or 1X2, not both. Note France lost 3-1 in Italy on Nov 12 and Dembele is out; minor.",
+  "confidence": 0.3,
+  "sources": [
+   "https://khelnow.com/football/france-november-uefa-nations-league-squad-202611",
+   "https://www.foxsports.com/soccer/nations-league/standings",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:68931760",
+  "fx": "Spain v England",
+  "home_form": "Spain NL 5/5: W2-0 Czechia(A), W2-1 Croatia(A), W3-1 Czechia(H), W4-1 Croatia(H), W3-2 England(A).",
+  "away_form": "England NL: W2-1 Croatia(H), W3-0 Czechia(H), W7-0 Croatia(A), W2-0 Czechia(A), L2-3 Spain(H).",
+  "goals_trend": "Both 5/5 O1.5; high scoring.",
+  "h2h": "Sep 26 2026: England 2-3 Spain.",
+  "absences": "England: Tuchel 25-man squad, Cole Palmer left out, Jobe Bellingham first call-up. Spain: no news found.",
+  "context": "League A Group 3 at Metropolitano, Madrid. Both already through to QFs (Spain 15, England 12); game decides group winner -- rotation possible. Big-club clash.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "DNB Home @1.26 (p0.769): AVOID -- result-side in a big-club clash is banned; both qualified so rotation risk.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.englandfootball.com/articles/2026/Oct/30/england-mens-november-squads-to-be-announced-20263010",
+   "https://khelnow.com/football/england-november-uefa-nations-league-squad-202611",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73293352",
+  "fx": "AC Renate v Calcio Desenzano",
+  "home_form": "Renate last 10: W3-2 Crema(A), W5-0 Carpi(A), D0-0 Albinoleffe(H), L1-2 Juve NG(A), D2-2 Giana(H), D1-1 Ospitaletto(A), L0-1 Treviso(H), L1-2 Arzignano(A), D0-0 Dolomiti(H), D2-2 Lumezzane(A). Home: 0-0, 2-2, 0-1, 0-0.",
+  "away_form": "Desenzano last 10: L0-1 Ospitaletto(H), L0-1 Novara(A), W1-0 Dolomiti(A), L1-2 Giana(H), L1-4 Alcione(A), W2-0 Dolomiti(H), W2-1 Folgore(A), D0-0 Juve NG(H), D0-0 Treviso(A), L1-3 Lecco(H).",
+  "goals_trend": "Renate home only 2/5 O1.5 (two 0-0s, a 0-1); Desenzano 6/10 O1.5, three of last three games had 1 goal.",
+  "h2h": "None found.",
+  "absences": "No team news found.",
+  "context": "Serie C A round 14. DATE CONFLICT: Desenzano club calendar lists 15 Nov 2026; Sportradar/board/Renate calendar list Sat 14 Nov 14:30 CET (Meda).",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (Desenzano club site 15 Nov vs board/Sportradar 14 Nov).",
+  "lean": "O1.5 @1.24 (p0.77): avoid regardless -- Renate home games low-scoring (0-0, 0-0, 0-1 in last five), Desenzano's last three games all had one goal.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.calciodesenzano.it/serie-c/",
+   "https://www.tuttoc.com/girone-a/serie-2026-27-calendario-renate-inizio-scoppiettante-chiusura-casa-442567",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73293336",
+  "fx": "FC Arzignano Valchiampo v Alcione Milano",
+  "home_form": "Arzignano last 10: L2-3 Union Brescia(A), D1-1 Lumezzane(A), W2-0 Novara(H), L0-1 Cittadella(A), W2-1 Juve NG(H), D2-2 Crema(H), W3-0 Carpi(A), W2-1 Renate(H), W2-1 Albinoleffe(A), L1-2 Desenzano(H). Home 5/5 O1.5.",
+  "away_form": "Alcione last 10: L0-1 Lumezzane(H), W3-1 Giana(A), L1-2 Carpi(H), W4-1 Desenzano(H), D1-1 Lecco(A), D2-2 Trento(H), D1-1 Albinoleffe(A), L0-4 Union Brescia(H), D2-2 Vercelli(A), W3-2 Folgore(A). 9/10 O1.5.",
+  "goals_trend": "Arzignano 9/10 O1.5, Alcione 9/10 O1.5 -- both of the highest-event profiles in Girone A.",
+  "h2h": "None found.",
+  "absences": "No team news found.",
+  "context": "Arzignano ~6th (21 pts), Alcione ~8th (18 pts) -- both in play-off race.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.23 (p0.775): fixture-specific last-10 supports (combined 18/20 O1.5, Arzignano home 5/5). Statistics-based but strong; best of the Serie C overs.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.corrieredellosport.it/live/classifica-serie-c-girone-a",
+   "https://sport.sky.it/calcio/serie-c/2026/07/30/serie-c-girone-a-calendario-giornate-partite-2026-2027",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73293338",
+  "fx": "AC Carpi v AS Giana Erminio",
+  "home_form": "Carpi last 10: D0-0 Folgore(A), L0-5 Renate(H), W7-5 Ravenna(H, cup), W2-1 Alcione(A), W3-1 Lumezzane(H), L1-2 Crema(A), L0-2 Vercelli(A), L0-3 Arzignano(H), D2-2 Novara(A), D2-2 Ospitaletto(H). Home 5/5 O1.5.",
+  "away_form": "Giana last 10: D0-0 Cittadella(H), L1-3 Alcione(H), W2-1 Desenzano(A), W2-1 Union Brescia(H), D2-2 Renate(A), D0-0 Treviso(A), D1-1 Vercelli(H), D1-1 Folgore(A), D2-2 Trento(H), L0-1 Lecco(A). 7/10 O1.5; two 0-0s.",
+  "goals_trend": "Carpi 9/10 O1.5 (leaky defence); Giana draw-heavy.",
+  "h2h": "None found.",
+  "absences": "No team news found.",
+  "context": "Mid/low table Serie C A.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.27 (p0.752): mildly supported by Carpi's home games (5/5 O1.5, concede freely) but Giana's 0-0 tendency and p ~0.75 mid-band -> fill only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.corrieredellosport.it/live/classifica-serie-c-girone-a",
+   "https://golindiretta.it/serie-c/girone-a/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73293344",
+  "fx": "AC Lumezzane v AC Trento",
+  "home_form": "Lumezzane last 10: W1-0 Alcione(A), D1-1 Arzignano(H), L1-2 Crema(A), L1-3 Carpi(A), D0-0 Juve NG(A), W3-2 Albinoleffe(H), L1-2 Folgore(H), W2-1 Dolomiti(A), D0-0 Novara(H), D2-2 Renate(H).",
+  "away_form": "Trento last 10: W2-1 Albinoleffe(H), D0-0 Ospitaletto(A), W2-1 Juve NG(H), W3-0 Dolomiti(A), W1-0 Folgore(H), D2-2 Alcione(A), D0-0 Crema(A), W4-0 Vercelli(H), D2-2 Giana(A), D0-0 Union Brescia(H). Away: three 0-0 draws in last five away.",
+  "goals_trend": "Lumezzane 7/10 O1.5; Trento 6/10 (three 0-0s).",
+  "h2h": "None found.",
+  "absences": "No team news found.",
+  "context": "Trento in good form (unbeaten in 10).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.26 (p0.755): AVOID -- Trento away games keep finishing 0-0 (Ospitaletto, Crema), Lumezzane had 0-0 at home to Novara; mid-band p.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.corrieredellosport.it/live/classifica-serie-c-girone-a",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73293342",
+  "fx": "Juventus Next Gen v Treviso FBC 1993",
+  "home_form": "Juve NG league: L0-4 Lecco(A), D1-1 Vercelli(H), L1-2 Trento(A), W2-1 Renate(H), D0-0 Lumezzane(H), L1-2 Arzignano(A), D0-0 Desenzano(A); also played West Ham (A) on Nov 11 (1-3), Southampton, Middlesbrough (PL International Cup).",
+  "away_form": "Treviso last 10: W2-0 Novara(H), L0-1 Cittadella(A), W2-1 Dolomiti(H), W2-0 Folgore(A), L0-1 Ospitaletto(H), D0-0 Giana(H), W1-0 Renate(A), D0-0 Desenzano(A), D2-2 Union Brescia(A), W2-1 Vercelli(H).",
+  "goals_trend": "Treviso 6/10 O1.5 (several 1-0/0-0); Juve NG 0-0 twice in last five home/away.",
+  "h2h": "None found.",
+  "absences": "Juve NG played in England on Wed Nov 11 -> 4-day turnaround with travel, rotation likely.",
+  "context": "Reserve (U23) side -- hard-excluded class (reserves).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.28 (p0.743): AVOID -- reserve side (hard-excluded), midweek travel/rotation, Treviso low-event games, mid-band p.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.corrieredellosport.it/live/classifica-serie-c-girone-a",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73294092",
+  "fx": "Reggiana 1919 v US Livorno 1915",
+  "home_form": "Reggiana last 10: L3-4 Atalanta U23(A), W2-0 Sambenedettese(H), L0-2 Grosseto(A), W2-0 Sassari(H), L0-2 Pineto(A), L0-1 Spezia(H), L0-1 Perugia(A), W1-0 Latina(H), W4-1 Pesaro(A), D1-1 Guidonia(A). Home: 2-0, 2-0, 0-1, 1-0.",
+  "away_form": "Livorno last 10: D1-1 Campobasso(A), W1-0 Ostiamare(H), L1-2 Spezia(A), L1-2 Sambenedettese(A), D4-4 Grosseto(H), D1-1 Forli(A), L0-1 Pescara(H), W3-2 Pianese(H), D1-1 Guidonia(A), W3-2 Vado(H). Away: 1-1, 1-2, 1-2, 1-1, 1-1 -- every away game 2+ goals.",
+  "goals_trend": "Reggiana home 3/4 O1.5 (but 0-1, 1-0 style); Livorno 8/10 O1.5.",
+  "h2h": "None found.",
+  "absences": "No team news found.",
+  "context": "Both on 20 pts, play-off places.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.27 (p0.75): weakly supported (Livorno away games all 2+ goals) but Reggiana home games are tight; mid-band p. Fill at best.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.seriec.com/gironi/girone-b",
+   "https://golindiretta.it/serie-c/girone-b/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73294080",
+  "fx": "AS Gubbio v US Grosseto",
+  "home_form": "Gubbio last 10: L0-1 Forli(A), D0-0 Pesaro(H), L4-5 Altamura(A), L0-1 Pineto(A), L0-2 Atalanta U23(H), L0-2 Spezia(A), L1-3 Perugia(H), L0-2 Ravenna(A), L0-2 Ostiamare(H), D1-1 Pescara(A). Scored 0 in 7 of 10. 19th, 8 pts.",
+  "away_form": "Grosseto last 10: L1-3 Pescara(H), D2-2 Vado(A), W2-0 Reggiana(H), D4-4 Livorno(A), W3-2 Pesaro(A), L1-3 Samb(H), W4-0 Pineto(A), W2-0 Perugia(H), D2-2 Campobasso(H), D0-0 Pianese(A). 3rd, 23 pts.",
+  "goals_trend": "Gubbio 7/10 O1.5 despite blank attack (concede 2s); Grosseto 9/10 O1.5, away games 2-2, 4-4, 3-2, 4-0.",
+  "h2h": "None found.",
+  "absences": "No team news found.",
+  "context": "Bottom-three Gubbio v 3rd-placed Grosseto: structural mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "O1.5 @1.26 (p0.758): supported mainly by Grosseto's away games (all of last four 4+ goals) and Gubbio conceding 2+ regularly; risk is Gubbio's 0-0/0-1 profile at home (0-0 Pesaro). Moderate.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.seriec.com/gironi/girone-b",
+   "https://campobasso.iamcalcio.it/classifiche/933/serie-c-girone-b/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:73294088",
+  "fx": "Delfino Pescara v US Sambenedettese",
+  "home_form": "Pescara last 10: W3-1 Grosseto(A), D0-0 Sassari(H), W2-1 Perugia(A), W2-0 Ostiamare(H), D1-1 Guidonia(H), W1-0 Livorno(A), L1-2 Spezia(H), W1-0 Vado(A), D1-1 Gubbio(H), L1-2 Atalanta U23(A). HOME: only 1W in last 5 (W2-0, D,D,D,L).",
+  "away_form": "Sambenedettese last 10: L1-2 Guidonia(H), L0-2 Reggiana(A), W2-1 Livorno(H), D2-2 Vado(A), D1-1 Latina(H), W3-1 Grosseto(A), L1-2 Campobasso(H), D1-1 Pianese(A), L2-3 Atalanta U23(H), L1-2 Pineto(A). 10/10 O1.5.",
+  "goals_trend": "Samb 10/10 O1.5; Pescara 9/10 O1.5 (only 0-0 Sassari).",
+  "h2h": "Aug 16 2026 Coppa Italia Serie C: Pescara 0-1 Sambenedettese (at the Adriatico).",
+  "absences": "Pescara without Nardin (Italy U20), Altare, Merola; Pellacani returns. Samb: GK Krapikas injured (Cultraro deputising), Nicoli doubtful, Marranzino possible, Zini back from suspension. Away fans banned.",
+  "context": "Adriatic DERBY (Pescara v Samb, away fans banned). Pescara ~4th (22 pts), Samb ~17th (10 pts).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "DNB Home @1.18 (p0.807): AVOID -- derby (no result-sides in derbies), Samb won at the Adriatico in August, Pescara won only 1 of last 5 at home. O1.5 @1.19 (p0.803) supported: Samb 10/10 O1.5, Samb using backup GK, Pescara 9/10.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.rivieraoggi.it/2026/08/12/441192/pescara-samb-trasferta-vietata-ai-tifosi-rossoblu/",
+   "https://www.calciomagazine.net/pescara-sambenedettese-diretta-risultato-16-agosto-2026-248671.html",
+   "https://youtvrs.it/samb-niente-derby-per-i-tifosi-rossoblu-diversi-nodi-da-sciogliere-in-vista-del-guidoniabis/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py), pulled 2026-11-12"
+  ]
+ }
+]

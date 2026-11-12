@@ -1,0 +1,543 @@
+[
+ {
+  "eid": "sr:match:72044810",
+  "fx": "NAC Breda v FC Emmen",
+  "home_form": "NAC 4th, 25 pts, unbeaten in 5 league games (Dordrecht 0-0 A, Jong PSV 2-0 A, Heracles 1-1 H, Helmond 2-0 A, MVV 1-0 H). Home: 1-1, 1-0, 4-2, 2-3 (Utrecht, likely cup).",
+  "away_form": "Emmen 6th, also 25 pts. Lost the last two at home (MVV 0-2, Den Bosch 0-5). Strong away run: Vitesse 2-0, Dordrecht 3-0, Waalwijk 1-1, Groningen 2-0 (cup), FC Eindhoven 1-3.",
+  "goals_trend": "NAC 1.8 goals per game, Emmen 1.9. Last 10: NAC O1.5 8/10, O2.5 5/10; Emmen O1.5 9/10, O2.5 5/10.",
+  "h2h": "Last meeting May 2024: Emmen 0-3 NAC.",
+  "absences": "No named absences found.",
+  "context": "Saturday 16:30 CET is confirmed by KNVB and most sources; one US listing shows 10:30 ET, the same time. International window (FIFA dates ~Nov 9-17, 2026): R1 transition-type weekend; U21/senior call-ups possible.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "DNB Home @1.23 (p0.777): no named mechanism. The two sides are level on points, and Emmen win away (3 of the last 5 away games). Treat as fill at best; lean skip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.bet-experts.nl/nieuws/keuken-kampioen-divisie-speelronde-15-op-tv-14-november-2026",
+   "https://www.knvb.nl/competities/keuken-kampioen-divisie/programma",
+   "https://www.fcupdate.nl/voetbalcompetities/nederland/keuken-kampioen-divisie",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72044812",
+  "fx": "Almere City FC v Helmond Sport",
+  "home_form": "Almere won 3 in a row away (Jong AZ 3-1, Waalwijk 2-1, Telstar 2-0). Home: Roda 2-3 L, FC Eindhoven 3-0, Volendam 1-0, Heracles 1-0.",
+  "away_form": "Helmond lost 8 of the last 10 and conceded in all 10. Away: Jong AZ 4-5, Oss 1-3, MVV 0-2, Den Bosch 1-2.",
+  "goals_trend": "Helmond's games are high-scoring (O2.5 8/10). Almere O2.5 7/10.",
+  "h2h": "No recent H2H found.",
+  "absences": "None found.",
+  "context": "International window (FIFA dates ~Nov 9-17, 2026): R1 transition-type weekend; U21/senior call-ups possible.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "DNB Home @1.19 (p0.806): supported by a structural form mismatch, a leaky Helmond (L8 of 10) against an Almere side in form. The support is statistics only and there is no named absentee, so it is fill, not an anchor.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bet-experts.nl/nieuws/keuken-kampioen-divisie-speelronde-15-op-tv-14-november-2026",
+   "https://www.knvb.nl/competities/keuken-kampioen-divisie/programma",
+   "https://www.fcupdate.nl/voetbalcompetities/nederland/keuken-kampioen-divisie",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72044824",
+  "fx": "MVV Maastricht v Vitesse Arnhem",
+  "home_form": "MVV are weak at home but their home games are open: Venlo 1-2, Excelsior 0-3, Heracles 1-5, Helmond 2-0, Almere 0-4. All 5 had 2+ goals. Last away: won 2-0 at Emmen.",
+  "away_form": "Vitesse are low-scoring away: Jong Ajax 1-1, Venlo 2-0, FC Eindhoven 1-0, Volendam 0-2, Heracles 0-2, Roda 0-1. Two of the last 6 away games finished with 1 goal.",
+  "goals_trend": "MVV O1.5 9/10 and O2.5 7/10. Vitesse O1.5 8/10 but O2.5 only 3/10.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Sunday 14:30 CET on ESPN1 is confirmed. International window (FIFA dates ~Nov 9-17, 2026): R1 transition-type weekend; U21/senior call-ups possible.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.18 (p0.814): MVV's home goals-against (5/5 home games O1.5, 13 conceded) gives mild support. Vitesse's tight away games are the risk. Fixture-specific last 5, no named absence.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bet-experts.nl/nieuws/keuken-kampioen-divisie-speelronde-15-op-tv-14-november-2026",
+   "https://www.knvb.nl/competities/keuken-kampioen-divisie/programma",
+   "https://www.fcupdate.nl/voetbalcompetities/nederland/keuken-kampioen-divisie",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72594668",
+  "fx": "Rohda Raalte v VV Katwijk",
+  "home_form": "Raalte reportedly 18th (bottom), 1 pt from 10 games. Home: Volendam 2-8, GVVV 1-3, Hardenberg 0-1, IJsselmeervogels 0-1. Sportradar shows a 6-4 win at TOGB, which is inconsistent with 1 pt (probably cup).",
+  "away_form": "Katwijk only 13th, 11 pts from 10. Last 10 W3 D1 L6: GVVV 1-3 H, Quick Boys 0-6 A, Kozakken Boys 1-5 H, IJsselmeervogels 1-2 H. Away wins: Kloetinge 3-1, AFC 1-0.",
+  "goals_trend": "Both concede heavily. Raalte O2.5 7/10, Katwijk O2.5 9/10.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Amateur Tweede Divisie. Fotmob and footystats confirm Raalte at home, 14:00 CET; one Dutch fixture list was ambiguous about the home side.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Away 1X2 @1.22 (p0.783): AVOID. Katwijk's own form (L6 of 10, heavy defeats) does not justify a 78% away favourite in an amateur league. The bottom side's weakness is the only argument.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fotmob.com/teams/206300/overview/vv-katwijk",
+   "https://www.hollandsevelden.nl/competities/2026-2027/landelijk/tweede-divisie/programma/",
+   "https://footystats.org/nl/clubs/vv-katwijk-8493",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76618012",
+  "fx": "CD Universitario Penonome v Herrera FC",
+  "home_form": "Universitario's games are low-scoring: O1.5 only 5/10. Home: Veraguas 3-2, CAI 0-1, Umecit 2-1, San Miguelito 1-1, Arabe Unido 0-0.",
+  "away_form": "Herrera have leaked goals: CAI 1-5, Veraguas 2-4, San Francisco 1-3, Tauro 0-6. O1.5 9/10.",
+  "goals_trend": "The two teams' trends diverge. Universitario's home games total 3/5 O1.5.",
+  "h2h": "No 2026 H2H found.",
+  "absences": "None found.",
+  "context": "Apertura 2026 J16 (final round, Oeste). Universitario 17 pts, still involved in the playoff race. Herrera 11 pts.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.19 (p0.801): weak. Universitario are a low-total side (5 of 10 under 1.5 goals). Lean skip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.tvn-2.com/tvmax/lpf/lpf-torneo-apertura-2026-tabla-de-posiciones-panorama-jornada-16-partidos-futbol-panama_1_2270544.html",
+   "https://lpf.com.pa/",
+   "https://es.wikipedia.org/wiki/Torneo_Apertura_2026_(Panam%C3%A1)",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76618016",
+  "fx": "Cocle FC v CA Independiente de La Chorrera",
+  "home_form": "Unión Coclé are bottom of the Oeste (5 pts), with L9 D1 in the last 10. Home: Universitario 0-2, Herrera 2-3, Plaza Amador 1-2, Tauro 0-2, Alianza 2-2. All 5 had 2+ goals.",
+  "away_form": "CAI are in form: Herrera 5-1 A, San Francisco 3-1 H, Universitario 1-0 A, Veraguas 3-1 H. O1.5 9/10.",
+  "goals_trend": "Coclé O1.5 9/10, CAI O1.5 9/10.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Final round (J16). CAI are pushing for a top-2 direct semi-final seed; Coclé have nothing to play for.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.23 (p0.771): supported by fixture-specific form (Coclé's 5 home games all 2+, CAI scoring freely) plus CAI's motivation. CAI to win is the underlying mechanism.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.tvn-2.com/tvmax/lpf/lpf-torneo-apertura-2026-tabla-de-posiciones-panorama-jornada-16-partidos-futbol-panama_1_2270544.html",
+   "https://lpf.com.pa/",
+   "https://es.wikipedia.org/wiki/Torneo_Apertura_2026_(Panam%C3%A1)",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76618010",
+  "fx": "San Francisco FC v Veraguas United FC",
+  "home_form": "San Francisco have already clinched the Oeste lead and a semi-final spot (29 pts). Home: Coclé 2-1, Universitario 1-0, Umecit 0-1, Arabe Unido 1-2, Plaza Amador 4-1.",
+  "away_form": "Veraguas: O1.5 10/10. Away: Universitario 2-3, CAI 1-3, Plaza Amador 1-1, Arabe Unido 1-3, Umecit 1-1.",
+  "goals_trend": "San Francisco's home games O1.5 3/5, with two 1-goal games.",
+  "h2h": "None found.",
+  "absences": "Rotation is likely for San Francisco (already qualified as leader).",
+  "context": "Final round. San Francisco's game is a dead rubber; Veraguas may still need points.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.23 (p0.768): neutral. Veraguas' games are always open, but San Francisco may rotate and have two 1-0/0-1 home results. Rotation flag; low confidence.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.tvn-2.com/tvmax/lpf/lpf-torneo-apertura-2026-tabla-de-posiciones-panorama-jornada-16-partidos-futbol-panama_1_2270544.html",
+   "https://lpf.com.pa/",
+   "https://es.wikipedia.org/wiki/Torneo_Apertura_2026_(Panam%C3%A1)",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:71936262",
+  "fx": "Comerciantes Unidos v Sport Boys Association",
+  "home_form": "Comerciantes: D4 in the last 4 (Garcilaso 0-0, Tarma 2-2, Melgar 1-1, Cienciano 3-1 W). 13th in the Clausura, near the relegation zone.",
+  "away_form": "Sport Boys: Cajamarca 0-0, Universitario 2-2, Cusco 1-0. Docked 4 pts.",
+  "goals_trend": "Comerciantes O1.5 8/10; Sport Boys O1.5 7/10.",
+  "h2h": "Not verified.",
+  "absences": "None found.",
+  "context": "CONFLICT: the 2026-11-10 schedules (Infobae/DSN) list Comerciantes Unidos v Universitario on Nov 15 at the IPD Huancayo, not v Sport Boys. Futbolperuano lists Comerciantes v Sport Boys. The final round is split across Nov 13-22 around the FIFA break.",
+  "veto": true,
+  "veto_reason": "Opponent, venue and date conflict between sources (Comerciantes v Universitario in Huancayo listed for Nov 15).",
+  "lean": "None. Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.infobae.com/peru/deportes/2026/11/10/programacion-confirmada-de-la-ultima-fecha-del-torneo-clausura-2026-de-la-liga-1-2026-partidos-horarios-y-canales-tv/",
+   "https://dsn.pe/cuando-vuelve-la-liga-1-el-clausura-2026-se-definira-el-22-de-noviembre-con-tres-equipos-en-busca-del-titulo/",
+   "https://www.futbolperuano.com/liga-1/clausura/resultados",
+   "https://larepublica.pe/deportes/2026/11/06/tabla-de-posiciones-torneo-clausura-y-acumulado-de-la-liga-1-2026-actualizado-en-vivo-344214",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:71936252",
+  "fx": "Juan Pablo II College v Deportivo Garcilaso",
+  "home_form": "JP II: Melgar 1-2, Alianza Atl. 0-1, Huancayo 2-0 H, Sport Boys 2-0 H, Moquegua 4-0 H.",
+  "away_form": "Garcilaso 5th, 29 pts in the Clausura. Away: Cajamarca 3-2, Alianza Atl. 2-3, Melgar 2-4, Sport Boys 0-1, Alianza Lima 1-0.",
+  "goals_trend": "JP II O1.5 9/10; Garcilaso O1.5 6/10.",
+  "h2h": "Not verified.",
+  "absences": "None found.",
+  "context": "CONFLICT: one 2026-11 report has UTC v Deportivo Garcilaso on Friday Nov 13 at the 'Complejo Deportivo Juan Pablo II'. The round is split around the FIFA break and the date and opponent are unclear.",
+  "veto": true,
+  "veto_reason": "Date and opponent conflict between sources (Nov 13 v UTC vs Nov 15 v JP II).",
+  "lean": "None. Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.infobae.com/peru/deportes/2026/11/10/programacion-confirmada-de-la-ultima-fecha-del-torneo-clausura-2026-de-la-liga-1-2026-partidos-horarios-y-canales-tv/",
+   "https://dsn.pe/cuando-vuelve-la-liga-1-el-clausura-2026-se-definira-el-22-de-noviembre-con-tres-equipos-en-busca-del-titulo/",
+   "https://www.futbolperuano.com/liga-1/clausura/resultados",
+   "https://larepublica.pe/deportes/2026/11/06/tabla-de-posiciones-torneo-clausura-y-acumulado-de-la-liga-1-2026-actualizado-en-vivo-344214",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73050902",
+  "fx": "Polonia Warszawa v MKS Korona Kielce",
+  "home_form": "CLJ U19 side: Miedz 1-1, Bialystok 2-0, Arka 0-1, Rakow 2-3, Legia 3-2.",
+  "away_form": "Korona U19: four 0-0 draws in the last 7.",
+  "goals_trend": "n/a",
+  "h2h": "n/a",
+  "absences": "Youth squads; first-team call-ups during the international window are possible.",
+  "context": "Poland CLJ = Centralna Liga Juniorów (U19 youth league).",
+  "veto": true,
+  "veto_reason": "Youth (U19) competition: hard-excluded class.",
+  "lean": "None. Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://pl.wikipedia.org/wiki/Centralna_Liga_Junior%C3%B3w",
+   "https://www.90minut.pl/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72398810",
+  "fx": "Gornik Leczna v KS Hutnik Krakow SSA",
+  "home_form": "Leczna 2nd, 29 pts, W4 in a row (Resovia 2-0, Znicz 3-0, Katowice 1-0, Lechia 6-0). Home: 3-0, 1-0, 1-2, 3-1, 4-1 (4 of 5 with 2+ goals).",
+  "away_form": "Hutnik: O1.5 10/10. Away: Avia 1-2, Sokol 2-1, Slask II 0-2, Znicz 2-4. Mid-table, 21 pts.",
+  "goals_trend": "Leczna O1.5 8/10, O2.5 7/10. Hutnik O1.5 10/10.",
+  "h2h": "None recent found.",
+  "absences": "None found.",
+  "context": "II liga round 16, Nov 14, confirmed by the club schedule.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.20 (p0.80): supported by fixture-specific last 5 (Hutnik 10/10, Leczna scoring 3+ often). Leczna home win is the mechanism.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sportowefakty.wp.pl/pilka-nozna/betclic-ii-liga/tabele",
+   "https://www.gornik.leczna.pl/terminarz-betclic-2-ligi-w-sezonie-2026-2027/",
+   "https://gol24.pl/poznalismy-terminarz-sezonu-20262027-w-betclic-2-lidze-ciekawie-od-samego-poczatku/ar/c2-19139519",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72398812",
+  "fx": "Podhale Nowy Targ v Avia Swidnik",
+  "home_form": "Podhale: D5 in the last 6 (2-2, 2-2, 0-0, 0-0, 2-2) and L 1-2. Home: Swit 2-2, Lechia 0-0, Rekord 2-1, Stal SW 5-0.",
+  "away_form": "Avia: O1.5 6/10. Away: Chojnice 0-1, Slask II 2-1, Resovia 1-1, Sokol 2-2, Tychy 0-1.",
+  "goals_trend": "Two 0-0 draws in Podhale's last 5. Avia's away games under 1.5 in 2 of 5.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Mid-table (Podhale 22, Avia 20).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.19 (p0.80): AVOID. The 0-0 risk is visible in both teams' recent records.",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportowefakty.wp.pl/pilka-nozna/betclic-ii-liga/tabele",
+   "https://www.gornik.leczna.pl/terminarz-betclic-2-ligi-w-sezonie-2026-2027/",
+   "https://gol24.pl/poznalismy-terminarz-sezonu-20262027-w-betclic-2-lidze-ciekawie-od-samego-poczatku/ar/c2-19139519",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72398814",
+  "fx": "GKS Tychy v Rekord Bielsko Biala",
+  "home_form": "Tychy 3rd, 27 pts, one game in hand. Low-scoring at home: Lechia 1-2, Pogon 4-2, Podhale 0-0, Gornik 3-0, Nowy Sacz 0-0, Avia 1-0, Lodz 1-0. Last match Oct 31, so a game was missed (likely postponed).",
+  "away_form": "Rekord: Chojnice 1-2, Hutnik 2-3, Resovia 1-1, Znicz 0-1, Nowy Sacz 1-1.",
+  "goals_trend": "Tychy O1.5 6/10 (home 4/7). Rekord O1.5 7/10.",
+  "h2h": "Rekord beat Tychy-type opposition rarely; no direct H2H found.",
+  "absences": "None found.",
+  "context": "Sunday Nov 15, 15:00 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.20 (p0.798): AVOID. Tychy's home games are low-total (3 of 7 under 1.5).",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportowefakty.wp.pl/pilka-nozna/betclic-ii-liga/tabele",
+   "https://www.gornik.leczna.pl/terminarz-betclic-2-ligi-w-sezonie-2026-2027/",
+   "https://gol24.pl/poznalismy-terminarz-sezonu-20262027-w-betclic-2-lidze-ciekawie-od-samego-poczatku/ar/c2-19139519",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72516170",
+  "fx": "Zks Kluczevia Stargard v MKS Viktoria Wrzesnia",
+  "home_form": "Kluczevia: Koszalin 0-0, Poznan II 4-3, Kotwica 1-0, Flota 2-2, Luzino 3-2.",
+  "away_form": "Viktoria are a draw machine: 4 draws at 0-0 and 3 more draws in the last 10. O1.5 5/10.",
+  "goals_trend": "Viktoria O2.5 3/10. Regional III liga.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "III liga group II, round 17. Kick-off time conflict: 90minut says 13:00, the club site 17:00. The date (Nov 14) agrees.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.18 (p0.806): AVOID. Viktoria have 4 goalless draws in 10, and this is an amateur/regional league.",
+  "confidence": 0.3,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14743.html",
+   "http://www.90minut.pl/liga/1/liga14744.html",
+   "https://de.wikipedia.org/wiki/3._Liga_2026/27_(Polen)",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72516772",
+  "fx": "KS Stal Brzeg v Zaglebie Sosnowiec",
+  "home_form": "Stal Brzeg home: Zaglebie Lubin II 4-1, Polkowice 2-0, Carina 0-1, Karkonosze 1-0, Legnica II 2-4.",
+  "away_form": "Zaglebie: W9 in a row, mostly by one goal. Away: Stilon 2-0, Zaglebie L. II 1-0, Odra 1-0, Polkowice 2-1, Nysa 2-1, Barycz 0-1. O1.5 5/10.",
+  "goals_trend": "Zaglebie's low-margin style: 1-0 in 4 of the last 9.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "III liga group III round 17, Nov 15 13:00 (90minut). Zaglebie are leading the promotion push.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.18 (p0.799): AVOID. Zaglebie's 1-0 pattern; an Under-type game. The mechanism points to a Zaglebie win, which is not on the board.",
+  "confidence": 0.3,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14743.html",
+   "http://www.90minut.pl/liga/1/liga14744.html",
+   "https://de.wikipedia.org/wiki/3._Liga_2026/27_(Polen)",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72517394",
+  "fx": "Siarka Tarnobrzeg v KSZO Ostrowiec Swietokrzyski",
+  "home_form": "Siarka home: Naprzod 3-0, Lech (cup) 1-0, Lubaczow 4-0, Korona II 1-2, Podlasie 2-0.",
+  "away_form": "KSZO away: Wisloka 1-2, Jaroslaw 3-1, Polaniec 1-1, Wisla II 1-0.",
+  "goals_trend": "Siarka O1.5 8/10; KSZO O1.5 7/10.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "III liga group IV. Web sources could not confirm the date; Sportradar has Nov 14 12:00 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.19 (p0.796): neutral, statistics only. Each side has a 1-0 in recent games. Regional league; fill at best.",
+  "confidence": 0.15,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14743.html",
+   "http://www.90minut.pl/liga/1/liga14744.html",
+   "https://de.wikipedia.org/wiki/3._Liga_2026/27_(Polen)",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72517400",
+  "fx": "Korona II Kielce SA v Moravia Morawica",
+  "home_form": "Korona II (reserves): Lubaczow 2-2, Skawina 1-2 H, Chelm 0-2, Star 1-4, Podlasie 4-0 H.",
+  "away_form": "Moravia: Star 0-3 H, Podlasie 4-0 A, Siarka 2-3 H.",
+  "goals_trend": "Both teams O1.5 8/10.",
+  "h2h": "None found.",
+  "absences": "Reserve squad selection depends on the first team (international window).",
+  "context": "III liga group IV; home side is a reserve team.",
+  "veto": true,
+  "veto_reason": "Reserve team: hard-excluded class (result-side DNB on reserves).",
+  "lean": "None. Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14743.html",
+   "http://www.90minut.pl/liga/1/liga14744.html",
+   "https://de.wikipedia.org/wiki/3._Liga_2026/27_(Polen)",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72531672",
+  "fx": "FC Penafiel v Lusitania FC Lourosa",
+  "home_form": "Penafiel lead Liga 2 with 22 pts and 3 straight wins (Chaves 3-2 A, Feirense 1-0 H, Farense 4-1 A). Home: 1-0, 0-1 (Leça), 1-2 (AVS), 2-2, 4-1.",
+  "away_form": "Lourosa 4th, 19 pts, 4 without a win (Feirense 0-1, Farense 1-1, Felgueiras 2-2, Chaves 1-1).",
+  "goals_trend": "Penafiel's home games O1.5 3/5. Lourosa's are draw-heavy.",
+  "h2h": "Liga meetings: 0-0 at Lourosa and 2-0 to Penafiel.",
+  "absences": "None found.",
+  "context": "Liga Portugal 2 round 11, Sun 15:30 local, Estádio 25 de Abril (diadejogo preview).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.28 (p0.75): AVOID. Top-4 clash, the H2H includes a 0-0, and p is mid-band at 0.75.",
+  "confidence": 0.25,
+  "sources": [
+   "https://diadejogo.pt/noticias/antevisao-penafiel-lusitania-lourosa-2026-11-08",
+   "https://www.flashscore.pt/noticias/liga-portugal-altera-datas-e-horas-de-nove-jogos-da-liga-2/jmllMtIl/",
+   "https://www.365scores.com/football/league/liga-portugal-2-74/standings",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72531670",
+  "fx": "Leixoes SC v GD Chaves",
+  "home_form": "Leixões home: Sporting B 1-2, Porto B 1-2, Amarante 3-1 (cup), Leiria 2-4. All with 2+ goals. Away: Felgueiras 3-3.",
+  "away_form": "Chaves away: Benfica B 1-3, Lourosa 1-1, Farense 0-4, Guarda 3-2, Felgueiras 1-2. All 5 with 2+ goals.",
+  "goals_trend": "Leixões often O2.5 (Forebet). Both teams O1.5 8/10.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Round 11, kick-off moved to 18:00 local (Liga Portugal reschedule note), so 18:00 UTC matches.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.25 (p0.768): supported by fixture-specific venue splits (Leixões home 4/4, Chaves away 5/5 at 2+ goals). Statistics only.",
+  "confidence": 0.3,
+  "sources": [
+   "https://diadejogo.pt/noticias/antevisao-penafiel-lusitania-lourosa-2026-11-08",
+   "https://www.flashscore.pt/noticias/liga-portugal-altera-datas-e-horas-de-nove-jogos-da-liga-2/jmllMtIl/",
+   "https://www.365scores.com/football/league/liga-portugal-2-74/standings",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72578442",
+  "fx": "FK Sochi v FC Shinnik Yaroslavl",
+  "home_form": "Sochi 3rd, 32 pts (26:20). Recent: Krasnoyarsk 0-3, Ural 0-2 H, Ivanovo 3-1, Volgograd 1-0, Ufa 1-0 H. Home low-scoring: 0-2, 1-0, 1-1, 0-1.",
+  "away_form": "Shinnik 7th, 26 pts, beat Ufa 2-1. Solid defence: O2.5 only 3/10.",
+  "goals_trend": "Sochi O2.5 4/10; Shinnik O2.5 3/10.",
+  "h2h": "3 of the last 4 meetings had at least one side fail to score (Soccer365).",
+  "absences": "None found.",
+  "context": "Round 19, Fisht stadium, 17:00 MSK. Tipster (odds.ru) also suggests Under 2.5.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.28 (p0.746): AVOID. A low-total pairing with an H2H pattern of blanks.",
+  "confidence": 0.3,
+  "sources": [
+   "https://odds.ru/forecast/sochi-shinnik-prognoz-i-stavka-na-15-noyabrya/",
+   "https://yarcube.ru/news/sports/shinnik-obygral-ufu-i-oboshyel-bashkortostanskuyu-komandu-v-tablitse-pervoy-ligi",
+   "https://bombardir.ru/online/shinnik-vs-sochi",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72202734",
+  "fx": "Livingston FC v Greenock Morton FC",
+  "home_form": "Livingston 5th, 21 pts. League home form is poor: Arbroath 1-0, Partick 1-2, Ayr 1-2, Inverness 2-2. Recent wins came v lower-league cup opposition.",
+  "away_form": "Morton are in form: beat leaders Partick 3-2 away, Stenhousemuir 4-3, Queen's Park 2-0, Arbroath 2-1 A. Lost 0-1 to Kelty (cup).",
+  "goals_trend": "Livingston O2.5 5/10; Morton 6/10.",
+  "h2h": "Sept 11: Morton 1-4 Livingston.",
+  "absences": "No named absences found. Scotland U21 call-ups (international window) could affect either side.",
+  "context": "International window (FIFA dates ~Nov 9-17, 2026): R1 transition-type weekend; U21/senior call-ups possible.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home 1X2 @1.28 (p0.753): AVOID. Livingston W1 D1 L2 in recent league home games, and Morton just beat the leaders away. Only the September H2H supports it, which is weak.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.inverness-courier.co.uk/sport/head-coach-confident-inverness-can-sting-partick-thistle-450035/",
+   "https://www.inverness-courier.co.uk/sport/what-did-scott-kellacher-say-after-caley-thistle-drew-with-l-449581/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Championship",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72202736",
+  "fx": "Partick Thistle FC v Inverness Caledonian Thistle FC",
+  "home_form": "Partick top, 8 pts clear of Inverness. Tight games: Queen's Park 1-0, Dunfermline 1-1, Ayr 1-0, Livingston 2-1. Home: Morton 2-3 L, Stenhousemuir 3-0, Arbroath 3-0, Raith 0-0.",
+  "away_form": "Inverness 6th, 20 pts. Livingston 1-1, Dunfermline 1-5, Raith 2-0, Queen's Park 1-2.",
+  "goals_trend": "Partick O1.5 6/10. Inverness O1.5 9/10 but O2.5 4/10.",
+  "h2h": "Not found for 2026-27.",
+  "absences": "Inverness are without wing-back Calum Macleod and CM Alfie Stewart (Scotland U21 duty; Inverness Courier).",
+  "context": "International window (FIFA dates ~Nov 9-17, 2026): R1 transition-type weekend; U21/senior call-ups possible.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.26 (p0.762): AVOID or weak. Partick's games are low-margin (4 of 10 under 1.5), and Inverness's absences reduce their attacking width.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.inverness-courier.co.uk/sport/head-coach-confident-inverness-can-sting-partick-thistle-450035/",
+   "https://www.inverness-courier.co.uk/sport/what-did-scott-kellacher-say-after-caley-thistle-drew-with-l-449581/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Championship",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72203976",
+  "fx": "Airdrieonians FC v Queen of the South FC",
+  "home_form": "Airdrie home: Elgin 5-0, Cove 0-1, Hamilton 1-2, Hearts B 3-2, Montrose 1-0, Berwick 7-1.",
+  "away_form": "Queen of the South away: Arbroath 0-1, East Fife 0-2, Alloa 1-0, Berwick 0-1, Peterhead 1-0. All 5 away games had 1 or 2 goals, and 4 of the 5 had only 1.",
+  "goals_trend": "QoS away O1.5 1/5. Airdrie home O1.5 4/6.",
+  "h2h": "None found this season.",
+  "absences": "None found.",
+  "context": "League One, 15:00 UK.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.19 (p0.81): AVOID. QoS away games have been 1-0/0-1 in 4 of 5. Fixture-specific evidence against.",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-14",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_League_One",
+   "https://www.skysports.com/scottish-league-one-scores-fixtures",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72203978",
+  "fx": "Cove Rangers FC v Montrose FC",
+  "home_form": "Cove home: Hamilton 4-0, Formartine 2-1, East Fife 1-1, Aberdeen B 2-1, Ross County 0-2. All with 2+ goals.",
+  "away_form": "Montrose away: Inverness 0-1, Hamilton 1-1, East Kilbride 1-1, Airdrie 0-1, Kelty 1-2, Formartine 2-3.",
+  "goals_trend": "Cove home O1.5 5/5; Montrose away 4/6.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "League One, 15:00 UK.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.26 (p0.758): mild statistical support from Cove's home record, but Montrose have two 0-1 results away. Neutral.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-14",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_League_One",
+   "https://www.skysports.com/scottish-league-one-scores-fixtures",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72203980",
+  "fx": "East Fife FC v Peterhead FC",
+  "home_form": "East Fife O1.5 10/10. Home: QoS 2-0, Alloa 0-3, East Kilbride 0-3, Clydebank 0-2, Montrose 1-2.",
+  "away_form": "Peterhead away: Ross County 1-4, St Mirren B 2-1, Montrose 0-3, Hamilton 1-2.",
+  "goals_trend": "East Fife 10/10 O1.5. Peterhead away 4/4 recent games had 2+ goals.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "League One, 15:00 UK.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.27 (p0.753): mild support from fixture-specific last 5 (East Fife 10/10, Peterhead away 4/4). Statistics only.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-14",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_League_One",
+   "https://www.skysports.com/scottish-league-one-scores-fixtures",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72203984",
+  "fx": "Hamilton Academical FC v Ross County FC",
+  "home_form": "Hamilton O1.5 10/10. Raith 6-4, Montrose 1-1, East Fife 2-1, Peterhead 2-1, then lost 0-4 at Cove last week.",
+  "away_form": "Ross County are runaway attackers: Peterhead 4-1, Celtic B 2-0, East Kilbride 2-1, Airdrie 4-0, QoS 7-1, Montrose 5-0. O1.5 10/10.",
+  "goals_trend": "Both 10/10 O1.5; Ross County O2.5 8/10.",
+  "h2h": "Oct 27: Ross County 1-1 Hamilton.",
+  "absences": "None found.",
+  "context": "Top-of-table clash, 17:30 UK (one listing differs by time zone only).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.21 (p0.793): supported by both sides at 10/10 and Ross County's scoring rate, despite the 1-1 H2H. Best of the Scottish set.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-14",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_League_One",
+   "https://www.skysports.com/scottish-league-one-scores-fixtures",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72204334",
+  "fx": "Dumbarton FC v Annan Athletic FC",
+  "home_form": "Dumbarton home: Keith 1-0, Stirling 1-1, Forfar 2-1, Banks O'Dee 3-2, Kilmarnock B 3-2, Spartans 3-0. Away win at Elgin 2-0.",
+  "away_form": "Annan: L3 in a row (Kelty 1-2, Ayr 0-2, Spartans 2-3). Concede often: Clyde 1-4, Stranraer 1-6.",
+  "goals_trend": "Dumbarton O1.5 9/10; Annan 8/10.",
+  "h2h": "Aug 29: Annan 2-0 Dumbarton.",
+  "absences": "None found.",
+  "context": "League Two.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 @1.19 (p0.805): mild support from both teams' last 10. Statistics only, but League Two is a thin context.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.vavel.com/en-us/data/annan-athletic/fixtures/",
+   "https://www.livescore.com/en/football/scotland/league-2/dumbarton-vs-annan-athletic/1533961/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_League_Two",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ }
+]

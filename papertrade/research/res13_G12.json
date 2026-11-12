@@ -1,0 +1,537 @@
+[
+ {
+  "eid": "sr:match:72204336",
+  "fx": "Edinburgh City v Clyde",
+  "home_form": "Last10 (all comps): 1-1 Forfar(A), 0-3 Partick(H), 2-1 Dumbarton(H), 4-1 Kelty(H), 0-0 Elgin(A), 0-5 St Mirren B(H), 1-3 Spartans(H), 0-0 Stranraer(A), 0-2 Formartine(A), 1-0 Dundee Utd(H). Home: 0-3, 2-1, 4-1, 0-5, 1-3, 1-0 -> all 6 home games had 1+ goal, 5/6 had 2+.",
+  "away_form": "Clyde last10: 3-2 Spartans(H), 0-0 Stranraer(A), 5-4 Penicuik(A, cup), 4-1 Annan, 5-1 Clachnacuddin, 2-1 Dumbarton, 2-6 Elgin(A), 3-1 Cowdenbeath(A), 1-2 Rangers B, 1-1 Stirling(A). Away: 0-0, 5-4, 2-6, 3-1, 1-1.",
+  "goals_trend": "Edinburgh City O1.5 7/10, avg 2.5; Clyde O1.5 9/10, O2.5 8/10, avg 4.5. WinDrawWin: BTTS in 10/13 Clyde games this season. Includes cup ties (Challenge/Scottish Cup) in samples.",
+  "h2h": "No current-season H2H found.",
+  "absences": "None found (no team news located).",
+  "context": "Scottish League Two mid-season; Clyde mid/upper table per forebet table. No dead-rubber/motivation factor found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 supported by fixture-specific form (Clyde 9/10 O1.5, open defensively; Edinburgh City 5/6 home games 2+ goals). Main risk: Edinburgh City 0-0s away only. Statistical not mechanism evidence -> fill quality.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_League_Two",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-scotland/league-two",
+   "https://www.windrawwin.com/tips/scotland-league-two/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72204338",
+  "fx": "Forfar Athletic v Spartans",
+  "home_form": "Forfar last10: 1-1 Edinburgh City(H), 2-5 Stirling(A), 1-2 Bo'ness(A,cup), 1-2 Kelty(A), 1-2 Ross County(A,cup), 1-2 Elgin(H), 1-2 Dumbarton(A), 2-0 Formartine(H), 2-1 Dundee Utd B(H), 0-2 Peterhead(H). Poor form (1W in 8) but every game 2+ goals except none; O1.5 10/10.",
+  "away_form": "Spartans last10: 2-3 Clyde(A), 0-2 Livingston(H,cup), 3-2 Annan, 2-1 Lochee(A,cup), 0-2 Stranraer(H), 1-1 Bonnyrigg, 3-1 Edinburgh City(A), 0-2 Kelty(H), 1-0 Dundee B, 0-0 Gala(A). Away: 2-3, 2-1, 3-1, 0-0.",
+  "goals_trend": "Forfar O1.5 10/10, O2.5 7/10, avg 3.1; Spartans O1.5 8/10, O2.5 4/10, avg 2.6. Forebet/WinDrawWin: Forfar conceded in each of last 5.",
+  "h2h": "None found this season.",
+  "absences": "None found.",
+  "context": "Forfar in a poor run, conceding regularly; Spartans mid-table. No special motivation found.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 mildly supported: Forfar have conceded in every recent game and scored in 9/10. Spartans away games 3/4 had 3+ goals. Stat-only.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_League_Two",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-scotland/league-two",
+   "https://www.windrawwin.com/tips/scotland-league-two/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72204340",
+  "fx": "Kelty Hearts v Stranraer",
+  "home_form": "Kelty last10: 2-1 Annan(A), 1-0 Greenock(A,cup), 0-1 Elgin(H), 1-4 Edinburgh City(A), 2-1 Forfar(H), 1-2 East Kilbride(A), 1-2 Stirling(A), 2-0 Spartans(A), 2-1 Montrose(H), 3-5 Hearts B?(H,cup). Home: 0-1, 2-1, 2-1, 3-5.",
+  "away_form": "Stranraer last10: 3-0 Stirling(H), 0-0 Clyde(H), 3-1 Tayport(H,cup), 2-0 Spartans(A), 3-3 Kilmarnock(H,cup), 6-1 Annan(A), 0-0 Edinburgh City(H), 4-3 East Kilbride(H), 2-3 Berwick(A), 5-1 Elgin(A). Away: 2-0, 6-1, 2-3, 5-1 -> all 2+ goals.",
+  "goals_trend": "Kelty O1.5 8/10, avg 3.2; Stranraer O1.5 8/10, avg 4.0. Stranraer top of League Two (27 pts/13 per one table) and unbeaten in 9 league games (forebet). Their two 0-0s were at home; away games all 3+... (2-0 lowest).",
+  "h2h": "None found this season.",
+  "absences": "None found.",
+  "context": "Stranraer league leaders, motivated; Kelty mid-table.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 supported: Stranraer away games 4/4 had 2+ goals and they score freely; Kelty home games 4/4 had 1+ (3/4 had 3+). Stat-only, no team news.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_League_Two",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-scotland/league-two",
+   "https://www.windrawwin.com/tips/scotland-league-two/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72121010",
+  "fx": "TSC Backa Topola v FK Jedinstvo Ub",
+  "home_form": "TSC last10: 2-2 Javor(A), 1-2 OFK Vrsac(A), 3-2 Smederevo(A), 2-1 Teleoptik(A), 5-1 Metalac(H), 4-1 Bor(A), 4-1 Graficar(H), 2-2 Cacak(A), 0-0 Dubocica(H), 1-1 Proleter(A). Srbijasport table: 3rd, 9W-7D-1L, 38:20, 34 pts after 17. Home: 5-1, 4-1, 0-0.",
+  "away_form": "Jedinstvo last10: 1-1 Teleoptik(H), 3-1 Metalac(A), 1-5 Crvena Zvezda(H, cup), 2-0 Bor(A), 3-1 Graficar(H), 1-3 Cacak(A), 0-0 Dubocica(H), 0-3 Proleter(A), 2-3 Loznica(H), 0-1 Vozdovac(A). 13th, 5W-3D-9L, 18 pts.",
+  "goals_trend": "TSC O2.5 8/10 avg 3.7; Jedinstvo avg 3.1. TSC drew 7 of 17 (4 of last 10).",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "TSC (relegated-from-SuperLiga profile) chasing promotion; Jedinstvo lower half. Sources disagree on table snapshot (aiscore/worldfootball older), not on fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home 1X2 @1.18 (p0.79) NOT supported by research: TSC draw-heavy (7D in 17, 2-2/1-1/0-0 in recent games), single loss came at Vrsac. Better instrument if any would be goals (TSC games avg 3.7) but none listed. Avoid the 1X2 at this price.",
+  "confidence": 0.2,
+  "sources": [
+   "https://srbijasport.net/league/8626-mozzart-bet-prva-liga-srbije",
+   "https://www.prvaliga.rs/tim/tsc/",
+   "https://www.prvaliga.rs/tim/jedinstvo/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72305322",
+  "fx": "FK Humenne v FC STK 1914 Samorin",
+  "home_form": "Humenne last10: 0-1 Presov(A), 2-2 Malzenice(H), 3-3 Galanta(A), 2-1 Zlate Moravce(H), 1-2 Samorin(A), 1-4 Bytca(A), 0-2 Ziar(H), 0-0 Zilina B(A), 1-1 Inter(H), 1-2 Pov. Bystrica(A). 14th, 3W-4D-9L, 14:26.",
+  "away_form": "Samorin last10: 5-3 Malzenice(A), 0-0 Zlate Moravce(A), 2-1 Ziar(H), 2-2 Inter(A), 2-1 Humenne(H), 1-1 Petrzalka(H), 0-2 Liptovsky(A), 3-1 Zvolen(H), 1-0 Presov(A), 3-2 Galanta(H). Leaders, 11W-3D-2L, 32:19, 36 pts.",
+  "goals_trend": "Humenne O1.5 8/10 (home 4/5 2+ goals: 2-2, 2-1, 0-2, 1-1); Samorin O1.5 8/10, avg 3.2. Humenne season 40 goals in 16 games (2.5/g); Samorin 51 in 16 (3.2/g).",
+  "h2h": "Oct 14 2026: Samorin 2-1 Humenne.",
+  "absences": "None found.",
+  "context": "Last round of the autumn part (autumn ends Nov 15). Leader v relegation-zone side; Humenne must-win-ish at bottom.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 mildly supported (Samorin games 3.2/g, H2H 2-1, Humenne home 4/5 2+). No mechanism; fill only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betarena.sk/rubriky/futbal/2-slovenska-futbalova-liga-program-vysledky-a-tabulka_5430.html",
+   "https://futbalsfz.sk/2.liga",
+   "https://www.druhaliga.sk/tabulka-2-futbalovej-ligy/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72305324",
+  "fx": "OFK Banik Lehota pod Vtacnikom v FC ViOn Zlate Moravce-Vrable",
+  "home_form": "Lehota last10: 1-5 Ziar(A), 3-2 Inter(A), 1-0 Petrzalka(H), 0-1 Liptovsky(A), 0-3 Michalovce(H, cup), 1-0 Zvolen(H), 2-3 Presov(A), 1-4 Galanta(H), 1-2 Bytca(A), 1-0 Zilina B(H). 10th, 22 pts, 23:27. Home: 1-0, 0-3, 1-0, 1-4, 1-0 -> three 1-0s.",
+  "away_form": "Zlate Moravce last10: 0-2 Podbrezova(A, cup Nov 11), 0-1 Slovan(H, cup), 0-0 Samorin(H), 0-3 Malzenice(A), 6-5 Komarno(H,cup), 1-2 Humenne(A), 1-3 Ziar(H), 2-2 Inter(A), 0-2 Petrzalka(H), 0-0 Liptovsky(A). 13th, 14:20 in 16 league games (2.1 goals/game).",
+  "goals_trend": "ZM league games just 2.1 goals/g, failed to score in 5 of last 7. Lehota home: three 1-0s in last 5. O1.5 p0.80 looks rich for this matchup.",
+  "h2h": "None found.",
+  "absences": "None found. ZM played a cup tie at Podbrezova on Nov 11 (3 days rest).",
+  "context": "Last autumn round. Both mid/lower table.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Over 1.5: ZM league scoring 14 in 16, blanks in 5 of last 7, Lehota home 1-0 pattern (3 of last 5). Thin-league Over at p~0.80 is the class that dies on 1-0/0-0.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.betarena.sk/rubriky/futbal/2-slovenska-futbalova-liga-program-vysledky-a-tabulka_5430.html",
+   "https://futbalsfz.sk/2.liga",
+   "https://www.druhaliga.sk/tabulka-2-futbalovej-ligy/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72281466",
+  "fx": "NK Bistrica v ND Beltinci",
+  "home_form": "Bistrica last10: 0-1 Dekani(A), 2-0 Krsko(H), 3-1 Jesenice(A), 4-3 Bilje(H), 1-0 Primorje(H), 1-1 Slovan(A), 3-1 Velenje(H), 0-1 Tabor(A), 1-3 Dravinja(A), 2-1 Brezice(H). Home 6/6 W-form: 2-0, 4-3, 1-0, 3-1, 2-1 (5W). 5th, 23 pts.",
+  "away_form": "Beltinci last10: 3-1 Dravinja(H), 6-0 Brezice(A), 3-4 Triglav(H), 5-0 Tromejnik(A, cup), 2-1 Vrhnika(A), 5-1 Bilje(H), 4-2 Ilirija(A), 3-0 Krka(H), 5-1 Tabor(H), 0-0 Dekani(A). 2nd, 31 pts (10-1-3).",
+  "goals_trend": "Beltinci O1.5 9/10, O2.5 9/10, avg 4.6 (only blank-ish game 0-0 at Dekani). Bistrica home games 5/5 had 1+, 4/5 had 2+ (1-0 v Primorje the exception).",
+  "h2h": "None found this season.",
+  "absences": "None found.",
+  "context": "Top-5 clash: Beltinci 2nd chasing leaders Tabor; Bistrica 5th (Sportklub: \"Bistrica into the promotion fight?\").",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 SUPPORTED: Beltinci are the league's most prolific attack (scored 2+ in 8 of last 10, away 6-0, 2-1, 4-2), Bistrica strong at home and scoring. Best O1.5 in the Slovenian set. Stat-based but fixture-specific.",
+  "confidence": 0.3,
+  "sources": [
+   "https://top-nogomet.si/lestvice/2-snl/",
+   "https://www.nzs.si/tekmovanja/?action=lestvica&id_menu=238",
+   "https://sportklub.si/nogomet/2-snl-14-krog-2026-27/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72281458",
+  "fx": "NK Vrhnika v Tabor Sezana",
+  "home_form": "Vrhnika last10: 0-3 Bilje(A), 1-4 Ilirija(H), 0-3 Krka(A), 1-2 Beltinci(H), 0-1 Dekani(A), 0-0 Krsko(H), 0-5 Jesenice(A), 2-1 Primorje(H), 0-0 Slovan(A), 4-2 Velenje(H). 1W in last 9; blanked in 6 of last 10.",
+  "away_form": "Tabor last10: 1-0 Primorje(H), 2-3 Bilje(A), 2-0 Slovan(H), 1-0 Koper(H, cup), 1-0 Ilirija(A), 1-0 Velenje(H), 2-1 Krka(H), 1-0 Bistrica(H), 1-5 Beltinci(A), 5-1 Dravinja(H). League leaders 34 pts (11-1-2).",
+  "goals_trend": "Tabor: five 1-0 wins in last 10; O1.5 5/10. Vrhnika blank 6/10. Combined profile = low event count with Tabor control.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Leader v bottom-half side in poor form (lost 5 of last 6).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Away DNB (Tabor) @1.2 p0.79 SUPPORTED by structural mismatch: leaders, won 8 of last 10, Vrhnika lost 5 of last 6 and blank in 6/10. AVOID Over 1.5: Tabor's 1-0 habit (5 of last 10) and Vrhnika's blanks make 1-0 the modal score.",
+  "confidence": 0.3,
+  "sources": [
+   "https://top-nogomet.si/lestvice/2-snl/",
+   "https://www.nzs.si/tekmovanja/?action=lestvica&id_menu=238",
+   "https://sportklub.si/nogomet/2-snl-14-krog-2026-27/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72281468",
+  "fx": "NK Rudar Velenje v NK Dekani",
+  "home_form": "Velenje last10: 3-1 Krsko(A), 2-2 Jesenice(H), 0-1 Primorje(A), 2-0 Slovan(H), 0-1 Tabor(A), 1-3 Bistrica(A), 3-1 Dravinja(H), 4-3 Brezice(A), 2-0 Triglav(H), 2-4 Vrhnika(A). 7th, 22 pts.",
+  "away_form": "Dekani last10: 1-0 Bistrica(H), 0-1 Dravinja(A), 0-0 Brezice(H), 0-1 Triglav(A), 1-0 Vrhnika(H), 0-2 Bilje(A), 1-0 Ilirija(H), 2-1 Krka(A), 0-0 Beltinci(H), 0-0 Tabor(H). 9th, 19 pts.",
+  "goals_trend": "Dekani games O1.5 only 2/10, O2.5 1/10, avg 1.0 goals per game; away games: 0-1, 0-1, 0-2, 2-1. Velenje O1.5 8/10.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Mid-table, nothing at stake.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Over 1.5 (p0.75): Dekani are an extreme low-event side - 8 of last 10 games had 0 or 1 goal, including 0-0 v Beltinci and Tabor. Strong fixture-specific negative; an Under would be the side if anything (but Under rules: p<0.82, skip).",
+  "confidence": 0.35,
+  "sources": [
+   "https://top-nogomet.si/lestvice/2-snl/",
+   "https://www.nzs.si/tekmovanja/?action=lestvica&id_menu=238",
+   "https://sportklub.si/nogomet/2-snl-14-krog-2026-27/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72281462",
+  "fx": "NK Brezice 1919 v Ilirija Ljubljana",
+  "home_form": "Brezice last10: 0-1 Krka(A), 0-6 Beltinci(H), 0-0 Dekani(A), 4-2 Aluminij(H, cup), 2-1 Krsko(H), 2-2 Jesenice(A), 1-1 Primorje(H), 0-1 Slovan(A), 3-4 Velenje(H), 0-4 Triglav(A). Bottom, 7 pts.",
+  "away_form": "Ilirija last10: 1-4 Triglav(H), 4-1 Vrhnika(A), 3-0 Bilje(H), 0-1 Tabor(H), 2-1 Krka(H), 2-4 Beltinci(H), 0-1 Dekani(A), 2-0 Krsko(H), 1-3 Jesenice(A), 0-0 Primorje(H). Away: 4-1, 0-1, 1-3.",
+  "goals_trend": "Brezice O1.5 7/10 (home 5/5 had 2+ incl 0-6, 3-4); Ilirija O1.5 7/10, avg 3.0.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Bottom side (7 pts, conceding heavily at home) v mid-table Ilirija.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 moderately supported: every Brezice home game in sample had 2+ goals (2-1, 1-1, 3-4, 0-6, 4-2 cup); Brezice concede freely. Stat-only.",
+  "confidence": 0.25,
+  "sources": [
+   "https://top-nogomet.si/lestvice/2-snl/",
+   "https://www.nzs.si/tekmovanja/?action=lestvica&id_menu=238",
+   "https://sportklub.si/nogomet/2-snl-14-krog-2026-27/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72281472",
+  "fx": "Primorje Ajdovscina v NK Jesenice",
+  "home_form": "Primorje last10: 0-1 Tabor(A), 1-0 Slovan(A), 1-0 Velenje(H), 0-1 Bistrica(A), 1-1 Dravinja(H), 1-1 Brezice(A), 1-1 Triglav(A), 1-2 Vrhnika(A), 2-3 Bilje(H), 0-0 Ilirija(A). Home: 1-0, 1-1, 2-3.",
+  "away_form": "Jesenice last10: 0-0 Slovan(H), 2-2 Velenje(A), 1-3 Bistrica(H), 1-2 Dravinja(A), 2-2 Brezice(H), 0-4 Triglav(A), 5-0 Vrhnika(H), 2-0 Bilje(A), 3-1 Ilirija(H), 0-2 Krka(A).",
+  "goals_trend": "Primorje O1.5 5/10, O2.5 2/10, avg 1.8 - 5 of last 10 ended 1-0/0-1/0-0. Jesenice O1.5 9/10.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Mid-table.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Over 1.5 (p0.78): Primorje are a low-event side (half their last 10 had <=1 goal). Stat-based negative.",
+  "confidence": 0.3,
+  "sources": [
+   "https://top-nogomet.si/lestvice/2-snl/",
+   "https://www.nzs.si/tekmovanja/?action=lestvica&id_menu=238",
+   "https://sportklub.si/nogomet/2-snl-14-krog-2026-27/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72281470",
+  "fx": "Nd Slovan v NK Krsko Posavje",
+  "home_form": "Slovan last10: 0-0 Jesenice(A), 0-1 Primorje(H), 0-2 Tabor(A), 0-2 Velenje(A), 1-1 Bistrica(H), 4-1 Dravinja(A), 1-0 Brezice(H), 0-3 Triglav(A), 0-0 Vrhnika(H), 0-4 Bilje(A). Home: 0-1, 1-1, 1-0, 0-0 -> 4 home games, total 5 goals.",
+  "away_form": "Krsko last10: 1-3 Velenje(H), 0-2 Bistrica(A), 0-6 Dravinja(H), 2-3 Sencur(A,cup), 1-2 Brezice(A), 0-2 Triglav(H), 0-0 Vrhnika(A), 3-1 Bilje(H), 0-2 Ilirija(A), 0-1 Krka(H).",
+  "goals_trend": "Slovan O1.5 6/10, O2.5 3/10, avg 2.0; blanked in 6 of last 10; home games 2/4 under 2 goals. Krsko blanked in 6 of last 10.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Two weak attacks, lower half.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Over 1.5 (p0.76): both sides blanked in 6 of last 10; Slovan home games total 5 goals in 4.",
+  "confidence": 0.3,
+  "sources": [
+   "https://top-nogomet.si/lestvice/2-snl/",
+   "https://www.nzs.si/tekmovanja/?action=lestvica&id_menu=238",
+   "https://sportklub.si/nogomet/2-snl-14-krog-2026-27/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72477602",
+  "fx": "Real Valladolid v CD Castellon",
+  "home_form": "Valladolid last10: 2-1 Gijon(A), 4-3 Leganes(H), 1-0 Covadonga(A,cup), 1-2 Granada(A), 2-3 Eldense(H), 5-0 Albacete(H), 2-2 Las Palmas(A), 3-1 Cordoba(H), 1-1 Ceuta(A), 0-3 Oviedo(H). 12th, 18 pts, 22:20. Home: 4-3, 2-3, 5-0, 3-1, 0-3 -> all 3+.",
+  "away_form": "Castellon last10: 1-1 Burgos(A), 3-0 Conquense(A,cup), 4-0 Gijon(H), 3-0 Las Palmas(A), 0-1 Andorra(A), 1-1 Ceuta(H), 2-0 Leganes(A), 5-0 Tenerife(H), 2-1 Girona(A), 2-0 Albacete(H). 2nd, 27 pts from 12, 23:5 (best defence).",
+  "goals_trend": "Valladolid home games 5/5 had 3+ goals. Castellon games 2.3/g, concede 0.42/g; O1.5 9/10.",
+  "h2h": "None 2026-27.",
+  "absences": "No confirmed absences found; Valladolid probable XI (Aceves in goal, 4-3-3).",
+  "context": "Castellon 2 pts off leader Almeria with a game in hand. Date: one agency listing headed \"Sabado 15\" (impossible - Nov 15 2026 is Sunday); club + LaLiga TV listings say Sat 14 Nov 14:00 CET = board. Not treated as conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 mildly supported: Valladolid home games all 3+ (incl 0-3 Oviedo), Castellon scoring 2+ in 7 of last 10. Risk: Castellon's 5-conceded defence -> 1-0 away. Neutral-to-positive.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.infobae.com/america/agencias/2026/11/12/pre-el-almeria-defiende-liderato-en-laliga-hypermotion-en-la-visita-del-andorra/",
+   "https://www.elperiodicodeceuta.es/valladolid-castellon-horario-y-donde-ver/",
+   "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-hypermotion-sd-eibar-cadiz-cf-14",
+   "https://www.realvalladolid.es/partidos/temporada-2026-2027-laliga-hypermotion-14-real-valladolid-cf-vs-cd-castellon-3453",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72477584",
+  "fx": "UD Almeria v FC Andorra",
+  "home_form": "Almeria last10: 1-0 Girona(A), 1-1 Eibar(A), 2-1 Castellonense(A,cup), 2-2 Oviedo(H), 4-2 R.Sociedad B(A), 3-0 Leganes(H), 2-1 Burgos(H), 1-0 Mallorca(A), 2-0 Celta Fortuna(H), 2-0 Cordoba(A). Leaders (8W 2D in last 10). Home: 2-2, 3-0, 2-1, 2-0 -> 4/4 2+.",
+  "away_form": "Andorra last10: 2-2 Tenerife(A), 3-0 Varea(A,cup), 2-3 Burgos(H), 0-2 Girona(A), 1-0 Castellon(H), 0-0 Sabadell(A, cup?), 3-2 Granada(A), 1-3 Gijon(H), 1-3 R.Sociedad B(H), 0-1 Valladolid(A). Only 1 win in 6 away (Infobae).",
+  "goals_trend": "Almeria home 4/4 had 2+; Andorra away league: 2-2, 0-2, 3-2, 0-1 -> 3/4 2+.",
+  "h2h": "None 2026-27.",
+  "absences": "None reported in preview.",
+  "context": "Almeria defending top spot (Infobae preview Nov 12); Andorra low after Tenerife setback.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 supported (Almeria scoring 2+ at home in each of last 4; leaders in form). Home result also plausible but not on board. Stat-level support.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.infobae.com/america/agencias/2026/11/12/pre-el-almeria-defiende-liderato-en-laliga-hypermotion-en-la-visita-del-andorra/",
+   "https://www.elperiodicodeceuta.es/valladolid-castellon-horario-y-donde-ver/",
+   "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-hypermotion-sd-eibar-cadiz-cf-14",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72477590",
+  "fx": "Granada CF v UD Las Palmas",
+  "home_form": "Granada last10: 2-0 Eldense(A), 3-0 Cieza(A,cup), 2-1 Valladolid(H), 2-0 Cadiz(H), 1-0 Burgos(A), 3-2 R.Sociedad B(A), 2-3 Andorra(H), 2-3 Leganes(A), 1-1 Albacete(H), 0-3 Eibar(A). 5 straight league/cup wins.",
+  "away_form": "Las Palmas last10: 2-0 Eldense(H), 3-2 Oviedo(A), 3-1 Alcala(A,cup), 1-0 R.Sociedad B(H), 0-3 Castellon(H), 1-3 Mallorca(A), 2-2 Valladolid(H), 2-3 Eibar(A), 1-2 Burgos(H), 1-0 Cadiz(A). 9/9 points last three.",
+  "goals_trend": "Granada O1.5 9/10; Las Palmas O1.5 8/10, O2.5 7/10. Granada home: 2-1, 2-0, 2-3, 1-1 -> 4/4 2+.",
+  "h2h": "None 2026-27.",
+  "absences": "None found.",
+  "context": "Two in-form sides (Granada 5 straight wins, LP 3 straight). Date listed Sun 15 Nov 16:15 local on LaLiga calendar = board; one summary said \"domingo 16\" (Nov 16 is a Monday) - treated as summary error.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 supported by form of both attacks (Granada home 4/4 2+; LP scoring in 9/10). Stat-level.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.infobae.com/america/agencias/2026/11/12/pre-el-almeria-defiende-liderato-en-laliga-hypermotion-en-la-visita-del-andorra/",
+   "https://www.elperiodicodeceuta.es/valladolid-castellon-horario-y-donde-ver/",
+   "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-hypermotion-sd-eibar-cadiz-cf-14",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72477586",
+  "fx": "SD Eibar v Cadiz CF",
+  "home_form": "Eibar last10: 3-0 CD Pamplona(A, cup Nov 10), 1-1 Almeria(H), 0-2 Cordoba(A), 1-1 Mallorca(H), 1-3 Oviedo(A), 3-1 Albacete(A), 3-2 Las Palmas(H), 2-1 Eldense(A), 4-0 Celta Fortuna(A), 3-0 Granada(H). Unbeaten at home in sample (1-1, 1-1, 3-2, 3-0). 4th, 23 pts/12 (El Periodico de Ceuta).",
+  "away_form": "Cadiz last10: 1-2 Oviedo(H), 1-2 Mallorca(A), 3-1 Xerez(A,cup), 3-1 Ceuta(H), 0-2 Granada(A), 0-1 Gijon(H), 4-0 Leganes(H), 1-1 Tenerife(A), 1-2 Girona(H), 0-1 Las Palmas(H). Away league: 1-2, 0-2, 1-1 -> no away league win in sample.",
+  "goals_trend": "Eibar O1.5 10/10, O2.5 7/10; Cadiz O1.5 8/10.",
+  "h2h": "None 2026-27.",
+  "absences": "No absence report found (club page: lineups 1h before).",
+  "context": "Eibar 4th; Cadiz lost last 2 league games. Eibar played a cup tie Nov 10 (5 days rest).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home DNB @1.25 mildly supported: Eibar unbeaten in 4 home league games in sample, Cadiz without an away league win in sample. Over 1.5 supported (Eibar 10/10). Stat-level, no named absences.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.infobae.com/america/agencias/2026/11/12/pre-el-almeria-defiende-liderato-en-laliga-hypermotion-en-la-visita-del-andorra/",
+   "https://www.elperiodicodeceuta.es/valladolid-castellon-horario-y-donde-ver/",
+   "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-hypermotion-sd-eibar-cadiz-cf-14",
+   "https://www.sdeibar.com/en/matches/season-2026-2027-laliga-hypermotion-14-sd-eibar-vs-cadiz-cf-3446",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72559236",
+  "fx": "Real Union de Irun v Cultural Leonesa",
+  "home_form": "Irun last10: 0-2 Barakaldo(A), 0-3 Aviles(H), 4-1 Lugo(H), 2-2 Extremadura(A), 0-0 Athletic B(A), 1-1 Ourense(H), 0-2 Fabril(A), 2-2 Mirandes(H), 2-3 Ferrol(A), 4-2 Salamanca(A).",
+  "away_form": "Cultural last10: 1-1 Ponferradina(H), 0-1 Ourense(A), 1-0 Segoviana(A,cup), 1-2 Pontevedra(H), 1-1 Logrones(A), 4-1 Getxo(H), 0-2 Salamanca(A), 2-2 Coria(H), 1-0 Extremadura(A), 0-1 Cacereno(A). Away: 0-1, 1-0, 1-1, 0-2, 1-0, 0-1 -> 4/6 under 2.",
+  "goals_trend": "Cultural O1.5 6/10, O2.5 3/10, avg 2.2; away games mostly 1-goal games. Irun O1.5 9/10.",
+  "h2h": "None found 2026-27.",
+  "absences": "None found.",
+  "context": "Mid/lower table both (standings snapshots disagree: Irun 4th vs 13th).",
+  "veto": true,
+  "veto_reason": "Date conflict between sources: one listing gives Real Union v Cultural on 15 Nov 2026, another (fotmob) Sat 14 Nov 15:30 GMT (= board). Standings snapshots also inconsistent. Per rule, veto until verified on the board/official RFEF.",
+  "lean": "Even without the veto, AVOID Over 1.5: Cultural away games 4 of 6 had <=1 goal.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.cydleonesa.com/partidos/temporada-2026-2027-primera-federacion-12-real-union-vs-cultural-y-deportiva-leonesa-3986",
+   "https://www.fotmob.com/matches/cultural-leonesa-vs-real-union/uknoj",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73068204",
+  "fx": "Real Jaen v Real Zaragoza",
+  "home_form": "Jaen last10: 2-1 Mijas(A,cup Nov 10), 3-4 Alcorcon(A), 3-2 Algeciras(H), 1-1 Atletico B(A), 1-0 Majadahonda(H), 3-3 Villarreal B(H), 0-0 Alicante(A), 0-2 Antequera(A), 2-1 Ibiza(H), 1-0 Teruel(A). Home: 3-2, 1-0, 3-3, 2-1.",
+  "away_form": "Zaragoza last10: 2-0 Huesca(H), 2-2 Villarreal B(H), 4-0 Tudelano(A,cup), 1-0 Europa(A), 0-0 Murcia(A), 4-4 Atletico B(A), 4-1 Teruel(H), 2-0 Ibiza(A), 1-0 Cartagena(H), 4-3 Torremolinos(A,cup). Away league: 1-0, 0-0, 4-4, 2-0.",
+  "goals_trend": "Jaen O1.5 7/10; Zaragoza O1.5 7/10, avg 3.4 but away league games 2/4 under 2 (1-0, 0-0).",
+  "h2h": "None found.",
+  "absences": "None found. Jaen played cup at Mijas Nov 10 (4 days rest).",
+  "context": "Zaragoza (big club in Primera Fed) in strong form; Jaen home crowd, night kickoff.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 neutral: Jaen home games 4/4 had 2+ but Zaragoza away tends to control (1-0, 0-0, 2-0). No mechanism. Skip or low weight.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.elperiodicodeceuta.es/resultados-primera-federacion-grupo-1-jornada-11-2026-27/",
+   "https://www.elperiodicodeceuta.es/resultados-primera-federacion-grupo-2-jornada-11-2026-27/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:73068196",
+  "fx": "Atletico Madrid B (Atletico Madrileno) v CD Teruel",
+  "home_form": "Atletico B last10: 2-3 Europa(A), 1-1 Alcorcon(H), 1-1 Jaen(H), 1-2 Tarragona(A), 4-4 Zaragoza(H), 2-3 Real Madrid Castilla(A), 1-3 Villarreal B(H), 0-0 Huesca(A), 4-0 Murcia(H), 2-0 Alicante(A). Home: 1-1, 1-1, 4-4, 1-3, 4-0 -> 1 win in last 5 home.",
+  "away_form": "Teruel last10: 1-1 Ibiza(H), 0-2 Sant Andreu(A), 1-1 Aguilas(H), 0-2 Villarreal B(A), 1-0 Alcorcon(H), 1-4 Zaragoza(A), 1-1 Huesca(H), 0-2 Majadahonda(A), 0-1 Jaen(H), 0-4 Murcia(A). Away: 0-2, 0-2, 1-4, 0-2, 0-4 -> lost all 5, scored 1.",
+  "goals_trend": "Atletico B O1.5 9/10, avg 3.5; Teruel away games 5/5 had 2+ (all losses).",
+  "h2h": "None found.",
+  "absences": "Reserve side: first-team call-ups/rotation risk for Atletico B (unconfirmed).",
+  "context": "Reserve team (Atletico Madrileno) v struggling Teruel.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home DNB @1.19 NOT supported despite Teruel's awful away record: Atleti B have won only 1 of last 5 at home (three draws) and are a reserve side (result-sides on reserves are hard-excluded). Over 1.5 supported by Teruel away (5/5 2+) and Atleti B 9/10 - but reserves class: goals only if used at all.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.elperiodicodeceuta.es/resultados-primera-federacion-grupo-1-jornada-11-2026-27/",
+   "https://www.elperiodicodeceuta.es/resultados-primera-federacion-grupo-2-jornada-11-2026-27/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72559242",
+  "fx": "Zamora CF v Real Aviles",
+  "home_form": "Zamora last10: 0-1 Salamanca(A), 1-3 Fabril(H), 2-0 Coruxo(A,cup), 0-1 Cacereno(A), 1-1 Ponferradina(H), 1-1 Mirandes(A), 2-0 Coria(H), 1-0 Extremadura(A), 1-2 Lugo(H), 2-1 Getxo(A). Home: 1-3, 1-1, 2-0, 1-2 -> 4/4 2+.",
+  "away_form": "Aviles last10: 5-2 Extremadura(H), 3-0 Irun(A), 1-3 Logrones(H), 3-0 Ourense(H), 2-0 Ponferradina(A), 1-2 Lugo(H), 3-3 Barakaldo(A), 1-1 Coria(A), 3-1 Salamanca(H), 1-2 Athletic B(A). O1.5 10/10.",
+  "goals_trend": "Zamora avg 2.1, O2.5 3/10 but home 4/4 2+; Aviles O1.5 10/10, avg 3.7.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Aviles in strong form (5-2, 3-0, 3-0 recent).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Over 1.5 supported: Aviles every game 2+ in last 10, Zamora home games 4/4 2+. Stat-level.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.elperiodicodeceuta.es/resultados-primera-federacion-grupo-1-jornada-11-2026-27/",
+   "https://www.elperiodicodeceuta.es/resultados-primera-federacion-grupo-2-jornada-11-2026-27/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72559238",
+  "fx": "UD Logrones v Arenas Club de Getxo",
+  "home_form": "Logrones last10: 0-1 Amorebieta(A, cup Nov 10), 2-1 Ferrol(A), 0-1 Mirandes(H), 3-1 Aviles(A), 1-1 Cultural(H), 1-3 Lugo(A), 2-1 Fabril(H), 5-3 Merida(A), 1-1 Pontevedra(H), 3-0 Ourense(A). Home: 0-1, 1-1, 2-1, 1-1 -> 1W in 4 home.",
+  "away_form": "Getxo last10: 2-1 Fabril(H), 1-0 Coria(A), 2-0 Ourense(H), 0-4 Merida(H), 1-4 Cultural(A), 1-1 Barakaldo(A), 0-3 Athletic B(H), 0-3 Cacereno(A), 1-2 Zamora(H), 1-4 Pontevedra(A). Won last 3.",
+  "goals_trend": "Logrones O1.5 8/10; Getxo 9/10.",
+  "h2h": "None found.",
+  "absences": "Logrones played (and lost) a cup tie at Amorebieta on Nov 10 - rotation/fatigue.",
+  "context": "Logrones better away than home this season.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Home DNB @1.21 (p0.78): Logrones won only 1 of last 4 at home, Getxo won last 3 straight, and Logrones had a midweek cup game. Research p below house.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.elperiodicodeceuta.es/resultados-primera-federacion-grupo-1-jornada-11-2026-27/",
+   "https://www.elperiodicodeceuta.es/resultados-primera-federacion-grupo-2-jornada-11-2026-27/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:72505292",
+  "fx": "Club Portugalete v Club Marino de Luanco",
+  "home_form": "Portugalete last10: 3-0 Ourense(A), 3-3 Arosa(H), 2-2 Basconia(A), 0-0 Eibar B(H), 2-1 Amorebieta(A), 0-2 Alaves B(H), 2-3 Bergantinos(A), 2-1 Coruxo(H), 0-0 Compostela(H), 1-0 Astorga(A). Home: 3-3, 0-0, 0-2, 2-1, 0-0 -> 1W in 5 home.",
+  "away_form": "Luanco last10: 0-1 Rayo Cantabria(H), 0-0 Gernika(A), 0-0 Oviedo B(H), 0-1 Sestao(H), 2-4 Llanera(A), 2-1 Torrelavega(A), 1-2 Basconia(H), 0-3 Astorga(A), 0-2 Ourense(H), 3-0 Compostela(A). Scoreless in 4 straight.",
+  "goals_trend": "Luanco avg 2.2, blanked in 6 of last 10. Portugalete home 0-0 twice in last 5.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Segunda Federacion (4th tier); no current table found (club page a placeholder). Regional-level, thin coverage.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home DNB @1.23 (p0.76) weak support only: Luanco blanked in 4 straight (helps DNB) but Portugalete won 1 of last 5 at home (two 0-0). No coverage; keep out of cores.",
+  "confidence": 0.15,
+  "sources": [
+   "https://clubportugalete.eus/primer-equipo/clasificacion/",
+   "https://futbolme.com/resultados-directo/equipo/club-marino-de-luanco/259/clasificacion/jugados",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:66918402",
+  "fx": "BK Hacken W v Pitea IF W",
+  "home_form": "Hacken W: 0-0 Chelsea(H, UWCL Nov 10), 1-1 Djurgarden(A), 4-1 Kristianstad(H), 1-1 Paris FC(A, UWCL), 2-1 Vaxjo(A), 3-0 Hammarby(H), 9-0 Uppsala(H). Already champions.",
+  "away_form": "Pitea W: 1-1 Malmo, 0-1 Eskilstuna, 2-0 Vittsjo(A), 2-3 Djurgarden(A), 1-1 Norrkoping. Safe.",
+  "goals_trend": "Hacken avg 3.4.",
+  "h2h": "n/a",
+  "absences": "UWCL game v Chelsea on Nov 10 -> rotation likely.",
+  "context": "Final round Sun 15 Nov; Hacken already champions, Pitea safe = dead rubber.",
+  "veto": true,
+  "veto_reason": "Women's football is a hard-excluded class; also dead rubber (Hacken champions, Pitea safe) with UWCL rotation risk.",
+  "lean": "No leg. Home 1X2 vetoed.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tvmatchen.nu/sport/fotboll/damallsvenskan-bottenstriden-8-november-2026/",
+   "https://en.wikipedia.org/wiki/2026_Damallsvenskan",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:66918412",
+  "fx": "IK Uppsala W v Vaxjo DFF W",
+  "home_form": "Uppsala W: 2-8 AIK, 0-7 Hammarby, 0-5 Norrkoping, 0-5 Kristianstad, 0-9 Hacken - lost heavily.",
+  "away_form": "Vaxjo W: 0-1 Norrkoping, 1-1 Rosengard, 1-2 Hacken, 1-2 Brommapojkarna, 0-2 Kristianstad.",
+  "goals_trend": "Uppsala conceding ~5/g.",
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Final round; BOTH teams already relegated (tvmatchen) = dead rubber.",
+  "veto": true,
+  "veto_reason": "Women's football hard-excluded; dead rubber (both already relegated).",
+  "lean": "No leg. Away 1X2 vetoed.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tvmatchen.nu/sport/fotboll/damallsvenskan-bottenstriden-8-november-2026/",
+   "https://en.wikipedia.org/wiki/2026_Damallsvenskan",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:76582682",
+  "fx": "Charleston Battery v Louisville City FC",
+  "home_form": "Charleston: ECSF 3-3 aet v Hartford, won 5-4 pens (Sportradar shows 8-7 incl. shootout); R1 v Rhode Island shown 6-5 (also shootout-inflated); 1-0 Indy, 2-1 Miami(A), 1-1 Hartford, 0-2 Louisville(H, Oct 11).",
+  "away_form": "Louisville: 3-2 Miami (ECSF, from 0-2 down), 1-0 Pittsburgh, 0-0 Detroit, 2-0 Sporting Jax(A), 4-1 Indy, 2-0 at Charleston (Oct 11), 1-0 at Hartford. 9-10 game unbeaten/win run.",
+  "goals_trend": "Sportradar totals for Charleston are inflated by shootout scores; true recent 90-min scoring ~2.5/g. Louisville avg 2.6, three 1-0/0-0/2-0 type results in last 7.",
+  "h2h": "Oct 11 2026: Charleston 0-2 Louisville (in Charleston).",
+  "absences": "No suspensions for either side (USL discipline report). Louisville long-term absentee Josh Jones (surgery July).",
+  "context": "USL Championship Eastern Conference Final, single leg, Sat Nov 14 6pm ET at Patriots Point. Knockout: settles on 90 min.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "AVOID Over 1.5 (p0.76): USL is a listed thin-context class for O1.5, this is a cagey knockout final, and the last H2H was 0-2. knockout_90min flag. No result-side either (knockout).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.charlestonbattery.com/news/2026/11/07/battery-complete-thrilling-comeback-over-hartford-to-advance-to-eastern-conference-final/",
+   "https://www.uslchampionship.com/news_article/show/1369833",
+   "https://www.uslchampionship.com/news_article/show/1370048",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:76455618",
+  "fx": "Deportivo Maldonado v CA Cerro",
+  "home_form": "Maldonado last10: 1-2 Nacional(H, Nov 10), 0-0 Albion(A), 4-0 Porongos(A,cup), 2-1 Danubio(H), 2-3 Nacional(A), 4-1 Albion(H), 1-1 Liverpool(H), 3-0 Central Espanol(H), 2-0 Montevideo City(A), 2-1 Cerro(A). Home: 1-2, 2-1, 4-1, 1-1, 3-0. 4th in Clausura, 22 pts.",
+  "away_form": "Cerro last10: 1-2 Central Espanol(H), 1-3 Montevideo City(A), 1-1 Cerro Largo(H), 3-2 Defensor(A), 0-2 Wanderers(H), 0-0 Las Piedras(A), 1-2 Maldonado(H), 1-2 Penarol(H), 3-1 Progreso(A), 0-2 Cerrito(H). 9th, 18 pts; last match Oct 31.",
+  "goals_trend": "Maldonado O1.5 9/10; Cerro O1.5 9/10.",
+  "h2h": "Sep 24 2026: Cerro 1-2 Maldonado; May 2026: Cerro 0-1 Maldonado.",
+  "absences": "None found. Maldonado played Nacional on Nov 10 (incidents led to Nacional's closed-doors sanction).",
+  "context": "Penultimate Clausura round. Maldonado chasing annual title (motivated); Cerro in relegation fight (also motivated, rested 2 weeks).",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home DNB @1.24 mildly supported: Maldonado beat Cerro twice this year, 4-1-1 recent home record, title motivation. Risk: Cerro relegation desperation + rest edge vs Maldonado midweek game. Confidence modest.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.elobservador.com.uy/futbol/asi-se-juega-la-fecha-14-del-torneo-clausura-nacional-recibiendo-albion-publico-y-penarol-visitando-defensor-sporting-horarios-canchas-arbitros-y-tablas-n6063561",
+   "https://www.carasycaretas.com.uy/deportes/nacional-prepara-duelo-clave-albion-la-duda-zuculini-o-silva-n100969",
+   "https://www.carasycaretas.com.uy/deportes/comienza-la-penultima-del-clausura-donde-puede-haber-campeones-n101016",
+   "https://canchallena.lanacion.com.ar/futbol/primera-division-uruguay-2026/deportivo-maldonado-cerro-3t9sor05raqti1p4g6o4za42c/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ },
+ {
+  "eid": "sr:match:76455616",
+  "fx": "Club Nacional v Albion FC",
+  "home_form": "Nacional last10: 2-1 Maldonado(A), 2-1 Ferro Carril(A,cup), 2-1 Danubio(A), 0-1 Liverpool(H), 3-2 Maldonado(H), 3-0 Rentistas(H,cup), 1-0 Central Espanol(A), 2-0 Montevideo City(H), 2-0 Cerro Largo(A), 3-2 Defensor(H). 9W in 10. Home league: 0-1, 3-2, 2-0, 3-2.",
+  "away_form": "Albion last10: 0-0 Maldonado(H), 3-1 Central Espanol(A), 2-1 Montevideo City(H), 1-4 Maldonado(A), 1-0 Cerro Largo(A), 3-2 Defensor(H), 1-2 Wanderers(A), 1-3 Las Piedras(H), 0-0 River(H), 1-3 Penarol(A). 12th, 13 pts.",
+  "goals_trend": "Nacional O1.5 8/10; home league 3/4 2+ (0-1 Liverpool the exception). Albion O1.5 7/10.",
+  "h2h": "None found 2026-27 (May fixture existed).",
+  "absences": "Two Nacional players suspended (names not given); Bruno Zuculini doubtful (muscle), Santiago Silva the alternative (Caras y Caretas).",
+  "context": "Penultimate Clausura round; Nacional 3rd (26 pts) must win to keep top of cumulative table (route to final playoff). Played behind closed doors (no Nacional fans) after Maldonado incidents. Nacional played Nov 5 and Nov 10 - third game in 10 days.",
+  "veto": false,
+  "veto_reason": "",
+  "lean": "Home DNB @1.18 supported by motivation (must-win for cumulative table) and form (9W in 10) v 12th-placed Albion; tempered by 2 suspensions + Zuculini doubt, no home crowd and fixture congestion. Over 1.5 mildly supported (Nacional games 2+ in 8/10).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.elobservador.com.uy/futbol/asi-se-juega-la-fecha-14-del-torneo-clausura-nacional-recibiendo-albion-publico-y-penarol-visitando-defensor-sporting-horarios-canchas-arbitros-y-tablas-n6063561",
+   "https://www.carasycaretas.com.uy/deportes/nacional-prepara-duelo-clave-albion-la-duda-zuculini-o-silva-n100969",
+   "https://www.carasycaretas.com.uy/deportes/comienza-la-penultima-del-clausura-donde-puede-haber-campeones-n101016",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-12)"
+  ]
+ }
+]
