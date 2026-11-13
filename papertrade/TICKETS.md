@@ -1,14 +1,14 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-13 18:49 UTC. Totals: 10 won · 86 dead · 5 alive · 148 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-13 21:35 UTC. Totals: 10 won · 82 dead · 3 alive · 154 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
 | Ticket size | Tickets | Won | Staked | Returned | ROI |
 |---|---|---|---|---|---|
-| 1-7 legs | 18 | 6 | 18 | 7.3 | -59% |
-| 8-12 legs | 14 | 4 | 14 | 39.0 | +179% |
-| 13+ legs | 64 | 0 | 64 | 0.0 | -100% |
+| 1-7 legs | 17 | 6 | 17 | 7.3 | -57% |
+| 8-12 legs | 13 | 4 | 13 | 39.0 | +200% |
+| 13+ legs | 62 | 0 | 62 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -159,7 +159,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-02 | X1V4MR | LR7R64 rm-5 | – | – | N/A (expired) | |
 | 2026-11-02 | SX3XAQ | LR7R64 rm-10 | – | – | N/A (expired) | |
 | 2026-11-02 | RMNRK4 | LR7R64 rm-15 | – | – | N/A (expired) | |
-| 2026-11-02 | Y3YT4R | SIM50 12 legs 53.0x sim 1 in 85 | 12 | 8W/4L/0V/0P | DEAD | Galatasaray Istanbul v Stuttgart — Over/Under Over 2.5 (2:0); Houston Rockets v Boston Celtics — Handicap (incl. overtime) -10.5 Away (+10.5) (109:93); Watford v Lincoln City — Over/Under Over 1.5 (1:0); Esteghlal FC Tehran v Al-Shamal — Al-Shamal Over/Under Over 0.5 (1:0) |
+| 2026-11-02 | Y3YT4R | SIM50 12 legs 53.0x sim 1 in 85 | – | – | N/A (expired) | |
 | 2026-11-02 | TSGQFC | SIM500 19 legs 500.9x sim 1 in 1163 | 19 | 14W/5L/0V/0P | DEAD | Galatasaray Istanbul v Stuttgart — Over/Under Over 2.5 (2:0); Houston Rockets v Boston Celtics — Handicap (incl. overtime) -10.5 Away (+10.5) (109:93); Watford v Lincoln City — Over/Under Over 1.5 (1:0); Feyenoord v Inter — Asian Handicap 1.5 Home (+1.5) (0:3); Esteghlal FC Tehran v Al-Shamal — Al-Shamal Over/Under Over 0.5 (1:0) |
 | 2026-11-02 | WZE16X | user-code-NCAA-27 | – | – | N/A (expired) | |
 | 2026-11-02 | RNWHDR | WZE16X-edit-widest-25 | – | – | N/A (expired) | |
@@ -167,11 +167,11 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-03 | Z1CZGA | main-4 | 4 | 3W/1L/0V/0P | DEAD | Derby County v Norwich — Asian Handicap 1.5 Home (+1.5) (0:4) |
 | 2026-11-03 | KGDSV6 | sim-50x | 13 | 10W/3L/0V/0P | DEAD | Bodoe/Glimt v Lille — Over/Under Over 2.5 (0:0); Feyenoord v Inter — Asian Handicap 1.5 Home (+1.5) (0:3); Charlton Athletic v Bolton Wanderers — Asian Handicap 0.5 Home (+0.5) (0:1) |
 | 2026-11-03 | NMPF6Y | sim-max90x | 16 | 13W/3L/0V/0P | DEAD | Bodoe/Glimt v Lille — Over/Under Over 2.5 (0:0); Feyenoord v Inter — Asian Handicap 1.5 Home (+1.5) (0:3); Charlton Athletic v Bolton Wanderers — Asian Handicap 0.5 Home (+0.5) (0:1) |
-| 2026-11-03 | G2YRAH | WMSWD4-core-5 | 5 | 4W/1L/0V/0P | DEAD | Villarreal v PSG — Villarreal Over/Under Over 0.5 (0:6) |
-| 2026-11-03 | VAHA67 | WMSWD4-edit-7 | 7 | 6W/1L/0V/0P | DEAD | Villarreal v PSG — Villarreal Over/Under Over 0.5 (0:6) |
-| 2026-11-03 | KTEA5N | WMSWD4-rm5 | 33 | 15W/16L/2V/0P | DEAD | Atletico Madrid v Bayern Munich — Over/Under Over 3 (0:2); Rotherham United v Newcastle United U21 — Over/Under Over 3 (0:1); Sutton United v Southampton U21 — Over/Under Over 3 (3:1); Maccabi Tel Aviv v FC Zurich — GG/NG Yes (5:3); Chrobry Glogow v MKS Arka Gdynia — Over/Under Over 1.5 (0:0); FC Vizela v Portimonense — Draw No Bet Home (1:2); Gil Vicente FC v FC Felgueiras 1932 U23 — Draw No Bet Away (4:3); SCU Torreense v SL Benfica Lisbon W — Both Halves Under 1.5 No (0:1); IK Sirius v Halmstads BK — Corners - Over/Under Over 9.5 (2:0); East Bengal FC v Al-Seeb — Draw No Bet Home (0:2); Wigan Athletic v Mansfield Town — Over/Under Over 2 (0:0); Northampton Town v Oldham Athletic — Over/Under Over 2 (0:1); AFC Hornchurch v West Ham U21 — GG/NG Yes (2:0); FC Halifax Town v Nottingham Forest U21 — Home Team to Win Either Half Yes (3:4); Wealdstone FC v Derby County U21 — Home Team to Win Either Half Yes (5:4); Braintree Town FC v Norwich City U21 — Away Team to Win Either Half Yes (3:1) |
-| 2026-11-03 | K0GX7R | WMSWD4-rm10 | 28 | 12W/14L/2V/0P | DEAD | Atletico Madrid v Bayern Munich — Over/Under Over 3 (0:2); Rotherham United v Newcastle United U21 — Over/Under Over 3 (0:1); Sutton United v Southampton U21 — Over/Under Over 3 (3:1); Chrobry Glogow v MKS Arka Gdynia — Over/Under Over 1.5 (0:0); FC Vizela v Portimonense — Draw No Bet Home (1:2); Gil Vicente FC v FC Felgueiras 1932 U23 — Draw No Bet Away (4:3); SCU Torreense v SL Benfica Lisbon W — Both Halves Under 1.5 No (0:1); IK Sirius v Halmstads BK — Corners - Over/Under Over 9.5 (2:0); East Bengal FC v Al-Seeb — Draw No Bet Home (0:2); Wigan Athletic v Mansfield Town — Over/Under Over 2 (0:0); Northampton Town v Oldham Athletic — Over/Under Over 2 (0:1); AFC Hornchurch v West Ham U21 — GG/NG Yes (2:0); FC Halifax Town v Nottingham Forest U21 — Home Team to Win Either Half Yes (3:4); Wealdstone FC v Derby County U21 — Home Team to Win Either Half Yes (5:4) |
-| 2026-11-03 | NVF2GL | WMSWD4-rm15 | 23 | 9W/12L/2V/0P | DEAD | Atletico Madrid v Bayern Munich — Over/Under Over 3 (0:2); Sutton United v Southampton U21 — Over/Under Over 3 (3:1); Chrobry Glogow v MKS Arka Gdynia — Over/Under Over 1.5 (0:0); FC Vizela v Portimonense — Draw No Bet Home (1:2); Gil Vicente FC v FC Felgueiras 1932 U23 — Draw No Bet Away (4:3); SCU Torreense v SL Benfica Lisbon W — Both Halves Under 1.5 No (0:1); IK Sirius v Halmstads BK — Corners - Over/Under Over 9.5 (2:0); Wigan Athletic v Mansfield Town — Over/Under Over 2 (0:0); Northampton Town v Oldham Athletic — Over/Under Over 2 (0:1); AFC Hornchurch v West Ham U21 — GG/NG Yes (2:0); FC Halifax Town v Nottingham Forest U21 — Home Team to Win Either Half Yes (3:4); Wealdstone FC v Derby County U21 — Home Team to Win Either Half Yes (5:4) |
+| 2026-11-03 | G2YRAH | WMSWD4-core-5 | – | – | N/A (expired) | |
+| 2026-11-03 | VAHA67 | WMSWD4-edit-7 | – | – | N/A (expired) | |
+| 2026-11-03 | KTEA5N | WMSWD4-rm5 | – | – | N/A (expired) | |
+| 2026-11-03 | K0GX7R | WMSWD4-rm10 | – | – | N/A (expired) | |
+| 2026-11-03 | NVF2GL | WMSWD4-rm15 | – | – | N/A (expired) | |
 | 2026-11-03 | SFU2VC | P8WRU4-rm5 | 30 | 19W/8L/2V/1P | DEAD | AGF Aarhus v FC Midtjylland — Goal Bounds 3-5+ (0:2); Lyngby BK v Randers FC — GG/NG Yes (1:0); Buckhurst Hill v Cambridge City — Over/Under Over 2.5 (None); FK Jezero Plav v FK Decic Tuzi — FK Decic Tuzi Over/Under Over 0.5 (1:0); AFC Hornchurch v West Ham U21 — GG/NG Yes (2:0); Gillingham FC Reserve v Huddersfield Town (R) — 1X2 Away (1:1); FC Halifax Town v Nottingham Forest U21 — Asian Handicap  0 Home (0) (3:4); Atletico Madrid v Bayern Munich — Corners - Over/Under Over 8.5 (0:2) |
 | 2026-11-03 | Q31TLR | P8WRU4-rm10 | 26 | 18W/5L/2V/1P | DEAD | FK Jezero Plav v FK Decic Tuzi — FK Decic Tuzi Over/Under Over 0.5 (1:0); AFC Hornchurch v West Ham U21 — GG/NG Yes (2:0); Gillingham FC Reserve v Huddersfield Town (R) — 1X2 Away (1:1); FC Halifax Town v Nottingham Forest U21 — Asian Handicap  0 Home (0) (3:4); Atletico Madrid v Bayern Munich — Corners - Over/Under Over 8.5 (0:2) |
 | 2026-11-03 | SAAUGP | P8WRU4-rm15 | 22 | 16W/3L/2V/1P | DEAD | FK Jezero Plav v FK Decic Tuzi — FK Decic Tuzi Over/Under Over 0.5 (1:0); Gillingham FC Reserve v Huddersfield Town (R) — 1X2 Away (1:1); FC Halifax Town v Nottingham Forest U21 — Asian Handicap  0 Home (0) (3:4) |
@@ -244,17 +244,17 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-12 | VW6RBF | H1A8RW-rm5 | 34 | 22W/11L/1V/0P | DEAD | Turkiye v Belgium — Home Team Total Corners Over 3.5 (1:2); Albania v Finland — Corners - Over/Under Over 7.5 (2:0); San Marino v Belarus — Over/Under Over 3 (0:2); Malta v Eswatini — Home Team or Over 2.5 Yes (1:1); CA Talleres de Cordoba v San Luis FC — Over/Under Over 2.5 (2:0); Aurora FC v Deportivo Mixco — Over/Under Over 1.5 (0:1); FC Barcelona W v Arsenal WFC — Over/Under Over 2.5 (1:1); France v Denmark — Over/Under Over 2.5 (0:1); Italy v Portugal — Over/Under Over 2.5 (1:0); Ghana v Somalia — Both Halves Under 1.5 No (2:0); CD Tarancon v Levante — Over/Under Over 2.5 (1:2) |
 | 2026-11-12 | ZUE3VU | H1A8RW-rm10 | 29 | 18W/10L/1V/0P | DEAD | Turkiye v Belgium — Home Team Total Corners Over 3.5 (1:2); Albania v Finland — Corners - Over/Under Over 7.5 (2:0); San Marino v Belarus — Over/Under Over 3 (0:2); Malta v Eswatini — Home Team or Over 2.5 Yes (1:1); CA Talleres de Cordoba v San Luis FC — Over/Under Over 2.5 (2:0); Aurora FC v Deportivo Mixco — Over/Under Over 1.5 (0:1); FC Barcelona W v Arsenal WFC — Over/Under Over 2.5 (1:1); France v Denmark — Over/Under Over 2.5 (0:1); Italy v Portugal — Over/Under Over 2.5 (1:0); CD Tarancon v Levante — Over/Under Over 2.5 (1:2) |
 | 2026-11-12 | YQVZ8K | H1A8RW-rm15 | 24 | 17W/6L/1V/0P | DEAD | Turkiye v Belgium — Home Team Total Corners Over 3.5 (1:2); Albania v Finland — Corners - Over/Under Over 7.5 (2:0); Malta v Eswatini — Home Team or Over 2.5 Yes (1:1); Aurora FC v Deportivo Mixco — Over/Under Over 1.5 (0:1); FC Barcelona W v Arsenal WFC — Over/Under Over 2.5 (1:1); CD Tarancon v Levante — Over/Under Over 2.5 (1:2) |
-| 2026-11-13 | JQDYZD | fri-10x | 11 | 1W/3L/0V/7P | DEAD | Cairns Taipans v Sydney Kings — Winner (incl. overtime) Away (84:82); Honka Espoo v Bisons Loimaa — Winner (incl. overtime) Home (90:108); South Africa v Kenya — 1X2 Home (2:2) |
-| 2026-11-13 | P4B37K | fri-500x-lottery | 16 | 4W/1L/0V/11P | DEAD | Mozambique v Ethiopia — Draw No Bet Home (0:1) |
-| 2026-11-13 | N0T4G3 | fri-5000x-lottery | 27 | 5W/4L/0V/18P | DEAD | Cairns Taipans v Sydney Kings — Winner (incl. overtime) Away (84:82); Honka Espoo v Bisons Loimaa — Winner (incl. overtime) Home (90:108); South Africa v Kenya — 1X2 Home (2:2); Mozambique v Ethiopia — Draw No Bet Home (0:1) |
+| 2026-11-13 | JQDYZD | fri-10x | 11 | 5W/4L/0V/2P | DEAD | Dijon v US Orleans — Draw No Bet Home (1:2); Cairns Taipans v Sydney Kings — Winner (incl. overtime) Away (84:82); Honka Espoo v Bisons Loimaa — Winner (incl. overtime) Home (90:108); South Africa v Kenya — 1X2 Home (2:2) |
+| 2026-11-13 | P4B37K | fri-500x-lottery | 16 | 10W/2L/0V/4P | DEAD | Mozambique v Ethiopia — Draw No Bet Home (0:1); Panathinaikos BC v FC Barcelona — Over/Under (incl. overtime) 163.5 Over 163.5 (74:76) |
+| 2026-11-13 | N0T4G3 | fri-5000x-lottery | 27 | 15W/6L/0V/6P | DEAD | Dijon v US Orleans — Draw No Bet Home (1:2); Cairns Taipans v Sydney Kings — Winner (incl. overtime) Away (84:82); Honka Espoo v Bisons Loimaa — Winner (incl. overtime) Home (90:108); South Africa v Kenya — 1X2 Home (2:2); Mozambique v Ethiopia — Draw No Bet Home (0:1); Panathinaikos BC v FC Barcelona — Over/Under (incl. overtime) 163.5 Over 163.5 (74:76) |
 | 2026-11-14 | J6FVG6 | wk-500x-lottery | 25 | 0W/0L/0V/25P | ALIVE |  |
 | 2026-11-14 | H81A2D | wk-5000x-lottery | 35 | 0W/0L/0V/35P | ALIVE |  |
 | 2026-11-14 | LUE18D | wk-50000x-lottery | 44 | 0W/0L/0V/44P | ALIVE |  |
-| 2026-11-13 | H992T1 | core-from-MC5EW8 | 4 | 0W/0L/0V/4P | ALIVE |  |
-| 2026-11-13 | X6VVPK | MC5EW8-rm5 | 35 | 4W/1L/1V/29P | DEAD | South Africa v Kenya — Asian Handicap -1 Home (-1.0) (2:2) |
-| 2026-11-13 | S978SU | MC5EW8-rm10 | 30 | 4W/1L/1V/24P | DEAD | South Africa v Kenya — Asian Handicap -1 Home (-1.0) (2:2) |
-| 2026-11-13 | TXHB66 | MC5EW8-rm15 | 25 | 4W/0L/1V/20P | ALIVE |  |
-| 2026-11-13 | XXYWNB | R0ZQAU-rm3 | 27 | 7W/1L/0V/19P | DEAD | Holbaek-Stenhus v Copenhagen Basketball — 1st Half - Over/Under Over 78.5 (60:52) |
+| 2026-11-13 | H992T1 | core-from-MC5EW8 | 4 | 0W/1L/0V/3P | DEAD | Leganes v Burgos CF — Asian Handicap -1 Away (+1.0) (3:1) |
+| 2026-11-13 | X6VVPK | MC5EW8-rm5 | 35 | 17W/7L/2V/9P | DEAD | Moldova v Kazakhstan — Corners - Over/Under Over 7.5 (2:1); South Africa v Kenya — Asian Handicap -1 Home (-1.0) (2:2); Grenada v Saint Kitts and Nevis — Away Team to Win Either Half Yes (3:2); Leganes v Burgos CF — Asian Handicap -1 Away (+1.0) (3:1); FC Viktoria Plzen B v FK Loko Prague — Over/Under Over 2.5 (0:2); Peterborough United U21 v Newcastle United U21 — Newcastle United FC Over/Under Over 0.5 (1:0); FC Rapperswil-Jona v Grasshopper Zurich — Double Chance & Over/Under 2.5 Home/Away & Over 2.5 (2:2) |
+| 2026-11-13 | S978SU | MC5EW8-rm10 | 30 | 13W/6L/2V/9P | DEAD | Moldova v Kazakhstan — Corners - Over/Under Over 7.5 (2:1); South Africa v Kenya — Asian Handicap -1 Home (-1.0) (2:2); Grenada v Saint Kitts and Nevis — Away Team to Win Either Half Yes (3:2); Leganes v Burgos CF — Asian Handicap -1 Away (+1.0) (3:1); FC Viktoria Plzen B v FK Loko Prague — Over/Under Over 2.5 (0:2); Peterborough United U21 v Newcastle United U21 — Newcastle United FC Over/Under Over 0.5 (1:0) |
+| 2026-11-13 | TXHB66 | MC5EW8-rm15 | 25 | 12W/4L/2V/7P | DEAD | Grenada v Saint Kitts and Nevis — Away Team to Win Either Half Yes (3:2); Leganes v Burgos CF — Asian Handicap -1 Away (+1.0) (3:1); FC Viktoria Plzen B v FK Loko Prague — Over/Under Over 2.5 (0:2); Peterborough United U21 v Newcastle United U21 — Newcastle United FC Over/Under Over 0.5 (1:0) |
+| 2026-11-13 | XXYWNB | R0ZQAU-rm3 | 26 | 12W/4L/0V/10P | DEAD | Moldova v Kazakhstan — Corners - Over/Under Over 6.5 (2:1); BC Vienna v BK Dukes Klosterneuburg — 1st Half - Over/Under Over 76.5 (73:84); Holbaek-Stenhus v Copenhagen Basketball — 1st Half - Over/Under Over 78.5 (89:74); Panathinaikos BC v FC Barcelona — 1st Half - Over/Under Over 81.5 (74:76) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
