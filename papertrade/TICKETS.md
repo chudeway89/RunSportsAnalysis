@@ -1,14 +1,14 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-13 02:27 UTC. Totals: 10 won · 82 dead · 6 alive · 146 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-13 18:49 UTC. Totals: 10 won · 86 dead · 5 alive · 148 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
 | Ticket size | Tickets | Won | Staked | Returned | ROI |
 |---|---|---|---|---|---|
 | 1-7 legs | 18 | 6 | 18 | 7.3 | -59% |
-| 8-12 legs | 13 | 4 | 13 | 39.0 | +200% |
-| 13+ legs | 61 | 0 | 61 | 0.0 | -100% |
+| 8-12 legs | 14 | 4 | 14 | 39.0 | +179% |
+| 13+ legs | 64 | 0 | 64 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -161,8 +161,8 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-02 | RMNRK4 | LR7R64 rm-15 | – | – | N/A (expired) | |
 | 2026-11-02 | Y3YT4R | SIM50 12 legs 53.0x sim 1 in 85 | 12 | 8W/4L/0V/0P | DEAD | Galatasaray Istanbul v Stuttgart — Over/Under Over 2.5 (2:0); Houston Rockets v Boston Celtics — Handicap (incl. overtime) -10.5 Away (+10.5) (109:93); Watford v Lincoln City — Over/Under Over 1.5 (1:0); Esteghlal FC Tehran v Al-Shamal — Al-Shamal Over/Under Over 0.5 (1:0) |
 | 2026-11-02 | TSGQFC | SIM500 19 legs 500.9x sim 1 in 1163 | 19 | 14W/5L/0V/0P | DEAD | Galatasaray Istanbul v Stuttgart — Over/Under Over 2.5 (2:0); Houston Rockets v Boston Celtics — Handicap (incl. overtime) -10.5 Away (+10.5) (109:93); Watford v Lincoln City — Over/Under Over 1.5 (1:0); Feyenoord v Inter — Asian Handicap 1.5 Home (+1.5) (0:3); Esteghlal FC Tehran v Al-Shamal — Al-Shamal Over/Under Over 0.5 (1:0) |
-| 2026-11-02 | WZE16X | user-code-NCAA-27 | 27 | 15W/12L/0V/0P | DEAD | Michigan State Spartans v Quinnipiac Bobcats — Handicap (incl. overtime) -31.5 Away (+31.5) (96:59); Vanderbilt Commodores v Bellarmine Knights — Handicap (incl. overtime) -34.5 Away (+34.5) (93:47); West Virginia Mountaineers v Niagara Purple Eagles — Handicap (incl. overtime) -30.5 Away (+30.5) (91:46); Marquette Golden Eagles v Mercyhurst Lakers — Handicap (incl. overtime) -32.5 Away (+32.5) (78:43); Nebraska Cornhuskers v Le Moyne Dolphins — Handicap (incl. overtime) -35.5 Away (+35.5) (106:64); Ole Miss Rebels v Alcorn State Braves — Handicap (incl. overtime) -32.5 Away (+32.5) (99:58); Texas Longhorns v Chicago State Cougars — Handicap (incl. overtime) -41.5 Away (+41.5) (109:59); Pittsburgh Panthers v Rider Broncs — Handicap (incl. overtime) -29.5 Away (+29.5) (95:57); Houston Cougars v La Salle Explorers — Handicap (incl. overtime) -31.5 Away (+31.5) (94:55); Oklahoma State Cowboys v Incarnate Word Cardinals — Handicap (incl. overtime) -29.5 Away (+29.5) (91:60); TCU Horned Frogs v Lindenwood Lions — Handicap (incl. overtime) -31.5 Away (+31.5) (98:59); Illinois Fighting Illini v Fairleigh Dickinson Knights — Handicap (incl. overtime) -40.5 Away (+40.5) (120:45) |
-| 2026-11-02 | RNWHDR | WZE16X-edit-widest-25 | 25 | 14W/11L/0V/0P | DEAD | Michigan State Spartans v Quinnipiac Bobcats — Handicap (incl. overtime) -32.5 Away (+32.5) (96:59); Vanderbilt Commodores v Bellarmine Knights — Handicap (incl. overtime) -37.5 Away (+37.5) (93:47); West Virginia Mountaineers v Niagara Purple Eagles — Handicap (incl. overtime) -30.5 Away (+30.5) (91:46); Marquette Golden Eagles v Mercyhurst Lakers — Handicap (incl. overtime) -32.5 Away (+32.5) (78:43); Nebraska Cornhuskers v Le Moyne Dolphins — Handicap (incl. overtime) -36.5 Away (+36.5) (106:64); Ole Miss Rebels v Alcorn State Braves — Handicap (incl. overtime) -32.5 Away (+32.5) (99:58); Texas Longhorns v Chicago State Cougars — Handicap (incl. overtime) -43.5 Away (+43.5) (109:59); Pittsburgh Panthers v Rider Broncs — Handicap (incl. overtime) -29.5 Away (+29.5) (95:57); Houston Cougars v La Salle Explorers — Handicap (incl. overtime) -31.5 Away (+31.5) (94:55); Oklahoma State Cowboys v Incarnate Word Cardinals — Handicap (incl. overtime) -29.5 Away (+29.5) (91:60); TCU Horned Frogs v Lindenwood Lions — Handicap (incl. overtime) -31.5 Away (+31.5) (98:59) |
+| 2026-11-02 | WZE16X | user-code-NCAA-27 | – | – | N/A (expired) | |
+| 2026-11-02 | RNWHDR | WZE16X-edit-widest-25 | – | – | N/A (expired) | |
 | 2026-11-02 | XVDHX5 | WZE16X-core-6 | – | – | N/A (expired) | |
 | 2026-11-03 | Z1CZGA | main-4 | 4 | 3W/1L/0V/0P | DEAD | Derby County v Norwich — Asian Handicap 1.5 Home (+1.5) (0:4) |
 | 2026-11-03 | KGDSV6 | sim-50x | 13 | 10W/3L/0V/0P | DEAD | Bodoe/Glimt v Lille — Over/Under Over 2.5 (0:0); Feyenoord v Inter — Asian Handicap 1.5 Home (+1.5) (0:3); Charlton Athletic v Bolton Wanderers — Asian Handicap 0.5 Home (+0.5) (0:1) |
@@ -244,12 +244,17 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-12 | VW6RBF | H1A8RW-rm5 | 34 | 22W/11L/1V/0P | DEAD | Turkiye v Belgium — Home Team Total Corners Over 3.5 (1:2); Albania v Finland — Corners - Over/Under Over 7.5 (2:0); San Marino v Belarus — Over/Under Over 3 (0:2); Malta v Eswatini — Home Team or Over 2.5 Yes (1:1); CA Talleres de Cordoba v San Luis FC — Over/Under Over 2.5 (2:0); Aurora FC v Deportivo Mixco — Over/Under Over 1.5 (0:1); FC Barcelona W v Arsenal WFC — Over/Under Over 2.5 (1:1); France v Denmark — Over/Under Over 2.5 (0:1); Italy v Portugal — Over/Under Over 2.5 (1:0); Ghana v Somalia — Both Halves Under 1.5 No (2:0); CD Tarancon v Levante — Over/Under Over 2.5 (1:2) |
 | 2026-11-12 | ZUE3VU | H1A8RW-rm10 | 29 | 18W/10L/1V/0P | DEAD | Turkiye v Belgium — Home Team Total Corners Over 3.5 (1:2); Albania v Finland — Corners - Over/Under Over 7.5 (2:0); San Marino v Belarus — Over/Under Over 3 (0:2); Malta v Eswatini — Home Team or Over 2.5 Yes (1:1); CA Talleres de Cordoba v San Luis FC — Over/Under Over 2.5 (2:0); Aurora FC v Deportivo Mixco — Over/Under Over 1.5 (0:1); FC Barcelona W v Arsenal WFC — Over/Under Over 2.5 (1:1); France v Denmark — Over/Under Over 2.5 (0:1); Italy v Portugal — Over/Under Over 2.5 (1:0); CD Tarancon v Levante — Over/Under Over 2.5 (1:2) |
 | 2026-11-12 | YQVZ8K | H1A8RW-rm15 | 24 | 17W/6L/1V/0P | DEAD | Turkiye v Belgium — Home Team Total Corners Over 3.5 (1:2); Albania v Finland — Corners - Over/Under Over 7.5 (2:0); Malta v Eswatini — Home Team or Over 2.5 Yes (1:1); Aurora FC v Deportivo Mixco — Over/Under Over 1.5 (0:1); FC Barcelona W v Arsenal WFC — Over/Under Over 2.5 (1:1); CD Tarancon v Levante — Over/Under Over 2.5 (1:2) |
-| 2026-11-13 | JQDYZD | fri-10x | 11 | 0W/0L/0V/11P | ALIVE |  |
-| 2026-11-13 | P4B37K | fri-500x-lottery | 17 | 0W/0L/0V/17P | ALIVE |  |
-| 2026-11-13 | N0T4G3 | fri-5000x-lottery | 28 | 0W/0L/0V/28P | ALIVE |  |
+| 2026-11-13 | JQDYZD | fri-10x | 11 | 1W/3L/0V/7P | DEAD | Cairns Taipans v Sydney Kings — Winner (incl. overtime) Away (84:82); Honka Espoo v Bisons Loimaa — Winner (incl. overtime) Home (90:108); South Africa v Kenya — 1X2 Home (2:2) |
+| 2026-11-13 | P4B37K | fri-500x-lottery | 16 | 4W/1L/0V/11P | DEAD | Mozambique v Ethiopia — Draw No Bet Home (0:1) |
+| 2026-11-13 | N0T4G3 | fri-5000x-lottery | 27 | 5W/4L/0V/18P | DEAD | Cairns Taipans v Sydney Kings — Winner (incl. overtime) Away (84:82); Honka Espoo v Bisons Loimaa — Winner (incl. overtime) Home (90:108); South Africa v Kenya — 1X2 Home (2:2); Mozambique v Ethiopia — Draw No Bet Home (0:1) |
 | 2026-11-14 | J6FVG6 | wk-500x-lottery | 25 | 0W/0L/0V/25P | ALIVE |  |
 | 2026-11-14 | H81A2D | wk-5000x-lottery | 35 | 0W/0L/0V/35P | ALIVE |  |
 | 2026-11-14 | LUE18D | wk-50000x-lottery | 44 | 0W/0L/0V/44P | ALIVE |  |
+| 2026-11-13 | H992T1 | core-from-MC5EW8 | 4 | 0W/0L/0V/4P | ALIVE |  |
+| 2026-11-13 | X6VVPK | MC5EW8-rm5 | 35 | 4W/1L/1V/29P | DEAD | South Africa v Kenya — Asian Handicap -1 Home (-1.0) (2:2) |
+| 2026-11-13 | S978SU | MC5EW8-rm10 | 30 | 4W/1L/1V/24P | DEAD | South Africa v Kenya — Asian Handicap -1 Home (-1.0) (2:2) |
+| 2026-11-13 | TXHB66 | MC5EW8-rm15 | 25 | 4W/0L/1V/20P | ALIVE |  |
+| 2026-11-13 | XXYWNB | R0ZQAU-rm3 | 27 | 7W/1L/0V/19P | DEAD | Holbaek-Stenhus v Copenhagen Basketball — 1st Half - Over/Under Over 78.5 (60:52) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
