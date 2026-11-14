@@ -1,0 +1,508 @@
+[
+ {
+  "eid": "sr:match:74063116",
+  "fx": "Gorilas de Juanacatlan v Internacional Laguna",
+  "home_form": "Gorilas last 7 (SR): W2-0 a Irapuato II, W3-1 h Celaya, W7-0 h Atl Hidalgo (6-0 HT), W6-2 h Heroes Zac, D2-2 a Racing Ver, W1-0 h Ayense, L0-1 a CA Lagunas. Home: 4W from 4 this season, 17-3.",
+  "away_form": "Internacional Laguna: L1-3 h Huracanes, L1-2 h CA Lagunas, L0-10 a Racing Veracruz, D1-1 a Irapuato II, L2-3 h Celaya, W3-1 h Hidalgo, L0-2 h Heroes. Conceded 23 in 7.",
+  "trends": {
+   "game_totals": "Inter Laguna games 4,3,10,2,5,4,2 (O2.5 5/7); Gorilas home games 4,7,8,1",
+   "team_totals": "Gorilas home scored 3,7,6,1; Laguna scored 1 or fewer in 4/7",
+   "first_half": "Gorilas 6-0 and 2-1 HT in big home wins; Laguna 0-1,1-2 HT",
+   "handicap": "Gorilas home wins by 2,7,4,1",
+   "corners": "no data"
+  },
+  "h2h": "No recent H2H found.",
+  "absences": "None found (amateur-level Serie B, no injury reporting).",
+  "context": "Liga Premier Serie B (Mexico 4th tier). Note: Gorilas franchise reported sold in June 2026 with talk of a move to Le\u00f3n; Sportradar/Sofascore still list it as Gorilas de Juanacatl\u00e1n home, 14 Nov 22:00 UTC. Treat venue as unverified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.24,
+    "p": 0.762379,
+    "why": "Inter Laguna concede 3.3/game (0-10, 1-3, 2-3) and 5/7 of their games went O2.5; Gorilas home 17-3 in 4 games"
+   }
+  ],
+  "avoid": "Home 1X2 1.16 (sub-1.18 padding); -2.5 AH 1.98 (rout tail but coin-flip); Under lines.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/football/team/gorilas-de-juanacatlan/1114930",
+   "https://www.footballtransfers.com/en/leagues-cups/national/mx/liga-premier-serie-b/matches",
+   "https://en.wikipedia.org/wiki/Gorilas_de_Juanacatl%C3%A1n",
+   "https://www.sportradar.com (gismo stats_team_lastx via engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74100770",
+  "fx": "Tritones Vallarta MFC v Tapachula Soconusco FC",
+  "home_form": "Tritones last 9: D0-0 h Purepechas, D1-1 a Venados, W3-2 h Pioneros, L1-2 a Chapulineros, L0-1 a Irapuato, L1-2 a Lobos, D1-1 a Tigres, L0-1 a Los Cabos, D1-1 h Zacatepec. Scored 8 in 9.",
+  "away_form": "Tapachula last 9: L2-4 h Zacatepec, L1-4 a Tigres, W1-0 h Purepechas, L1-4 h Venados, L1-2 a Montaneses, L2-3 h Chapulineros, L1-5 a Pioneros, W2-0 h Inter Playa, L0-2 a Celaya. Conceded 24 in 9.",
+  "trends": {
+   "game_totals": "Tapachula games 6,5,1,5,3,5,6,2,2 (O1.5 9/9, O2.5 6/9); Tritones 0,2,5,3,1,3,2,1,2 (O1.5 6/9)",
+   "team_totals": "Tritones scored <=1 in 8/9; Tapachula conceded 2+ in 7/9",
+   "first_half": "Tapachula trailing at HT in 6/9",
+   "handicap": "n/a",
+   "corners": "no data"
+  },
+  "h2h": "No H2H found.",
+  "absences": "None reported.",
+  "context": "Liga Primera Premier (Mexico 4th tier), round 12. Thin league; Tritones blunt attack is a counterweight.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7693501551,
+    "why": "Tapachula worst-defence profile: every one of their last 9 games had 2+ goals (24 conceded)"
+   }
+  ],
+  "avoid": "Tritones team Over 1.5; BTTS; Unders (Tapachula concede freely).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.365scores.com/en-us/football/match/primera-premier-9119/deportiva-venados-lobos-ulmx-69035-72068-9119",
+   "https://www.betexplorer.com/football/team/lobos-ulmx/S6v5DFaf/results/",
+   "https://www.sportradar.com (gismo stats_team_lastx via engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76455738",
+  "fx": "Paysandu FC v Uruguay Montevideo FC",
+  "home_form": "Paysand\u00fa (SR, no HT data): D1-1 a Oriental, W3-2 h Col\u00f3n, W1-0 a F\u00e9nix, W2-1 h Rentistas, L0-1 a Miramar Misiones, D2-2 h Tacuaremb\u00f3, D1-1 a Colonia, L0-1 h La Luz.",
+  "away_form": "Uruguay Montevideo: D0-0 h Hurac\u00e1n, W2-1 a River Plate, D1-1 a Oriental, L1-3 h Col\u00f3n, L0-2 a F\u00e9nix, L1-3 h Rentistas, L0-1 a Miramar, D2-2 h Tacuaremb\u00f3, L0-1 a Colonia. Away: W1 D1 L3 recent.",
+  "trends": {
+   "game_totals": "Paysand\u00fa 2,5,1,3,1,4,2,1; UMFC 0,3,2,4,2,4,1,4,1 - mixed, no edge",
+   "team_totals": "UMFC scored <=1 in 7/9",
+   "first_half": "no HT data",
+   "handicap": "Paysand\u00fa home wins by 1",
+   "corners": "none"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Segunda Divisi\u00f3n (Uruguay 2nd tier), listed round 26. Sources disagree on when round 26 was scheduled (worldfootball 7 Nov, livefutbol 31 Oct); SR lists it 14 Nov 22:30 UTC with neither team having played since 1 Nov, consistent with a reschedule but not confirmed.",
+  "veto": false,
+  "veto_reason": "date unconfirmed (data_conflict), no picks given",
+  "picks": [],
+  "avoid": "Home 1X2 1.62 (one-goal margins only); all totals.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.worldfootball.net/teams/te22469/paysandu-fc/",
+   "https://www.livefutbol.com/teams/te22469/paysandu-fc/se115726/2026-torneo-competencia/all-matches/",
+   "https://www.sportradar.com (gismo stats_team_lastx via engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76582682",
+  "fx": "Charleston Battery v Louisville City FC",
+  "home_form": "Charleston last 9: D3-3 h Hartford (won 8-7 pens; trailed 0-3 HT), D1-1 h Rhode Island (pens), W1-0 h Indy, W2-1 a Miami, D1-1 a Hartford, L0-2 h Louisville, W2-0 h Rhode Island, W1-0 h Monterey, D2-2 a Birmingham.",
+  "away_form": "Louisville last 9: W3-2 h Miami (from 0-2 HT), D0-0 h Pittsburgh (pens), D0-0 h Detroit, W2-0 a Sporting Jax, W4-1 h Indy, W2-0 a Charleston, W1-0 a Hartford, D2-2 a Hartford, W2-1 h Loudoun.",
+  "trends": {
+   "game_totals": "Charleston 6,2,1,3,2,2,2,1,4; Louisville 5,0,0,2,5,2,1,4,3 - mixed",
+   "team_totals": "Louisville clean sheets 5/9",
+   "first_half": "Charleston 0-0 HT in 5/9; both slow starters",
+   "handicap": "one-goal games common",
+   "corners": "n/a"
+  },
+  "h2h": "Louisville won 2-0 at Charleston on 11 Oct 2026.",
+  "absences": "No suspensions per USL preview; Louisville interim coach Simon Bird; Showunmi super-sub winner twice. Charleston CB Joey Akpunonu (DoY finalist) available.",
+  "context": "USL Championship Eastern Conference Final, single-leg knockout (90-min settlement except To Qualify). Winner to final 21 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Any result side (knockout); To Qualify both near coin flip; Under 2.5/3.5 (Unders need p>=0.82).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.charlestonbattery.com/news/2026/11/12/playoffs-preview-charleston-vs-louisville/",
+   "https://www.loucity.com/news/2026/11/12/press-conference-simon-bird-november-12-2026/",
+   "https://www.uslchampionship.com/news_article/show/1369976"
+  ]
+ },
+ {
+  "eid": "sr:match:76455616",
+  "fx": "Club Nacional de Football v Albion FC",
+  "home_form": "Nacional last 9: W2-1 a Maldonado, W2-1 a Ferro Carril, W2-1 a Danubio, L0-1 h Liverpool, W3-2 h Maldonado, W3-0 h Rentistas, W1-0 a Central Esp, W2-0 h Montevideo City, W2-0 a Cerro Largo. 8W in 9.",
+  "away_form": "Albion last 9: D0-0 h Maldonado, W3-1 a Central Esp, W2-1 h MVD City, L1-4 a Maldonado, W1-0 a Cerro Largo, W3-2 h Defensor, L1-2 a Wanderers, L1-3 h Las Piedras, D0-0 h River.",
+  "trends": {
+   "game_totals": "Nacional 3,3,3,1,5,3,1,2,2 - O1.5 8/9",
+   "team_totals": "Nacional scored 2+ in 7/9",
+   "first_half": "few HT data",
+   "handicap": "Nacional wins mostly by 1 (5 of 8)",
+   "corners": "Nacional home corners usually high but no fixture data"
+  },
+  "h2h": "Earlier 2026: Nacional 1-0 Albion (two red cards).",
+  "absences": "Nacional without Francisco Calvo and Lucas Rodr\u00edguez (yellow-card suspensions); Alejandro Mart\u00ednez doubtful (muscle tear); Luciano Boggio back. Behind closed doors at Gran Parque Central.",
+  "context": "Clausura round 14; Nacional must win to stay alive in the Clausura; Albion 8th in the Anual and safe from relegation (low stakes). Not a big-club clash.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8090944023,
+    "why": "Nacional 8W in 9; must-win v a safe Albion; DNB covers the draw. Two suspensions and a closed stadium are the risk"
+   }
+  ],
+  "avoid": "Nacional -1.5 (wins mostly by one goal); Under lines.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.montevideo.com.uy/Deportes/Clausura-Nacional-recibe-a-Albion-hoy-sin-su-publico-en-el-GPC-Horario-y-alineaciones-uc982220",
+   "https://www.carasycaretas.com.uy/deportes/nacional-seguir-vivo-el-calusura-recibe-albion-publico-n101079",
+   "https://www.carasycaretas.com.uy/deportes/nacional-prepara-duelo-clave-albion-la-duda-zuculini-o-silva-n100969"
+  ]
+ },
+ {
+  "eid": "sr:match:74873414",
+  "fx": "Cashmere Technical v Wellington Olympic",
+  "home_form": "Cashmere last 9: L0-2 a Eastern Suburbs, D1-1 h Auckland City, W2-0 a Ferrymead, W3-0 h Auckland FC Res, L1-2 a Napier, W10-0 h Wellington Phoenix Res, W4-0 a Birkenhead, W11-0 h Wanaka, L1-2 h Fencibles.",
+  "away_form": "Wellington Olympic last 9: W4-2 h Auckland Utd, W2-0 a Miramar, W4-0 h Eastern Suburbs, D2-2 a Auckland City, L1-2 h Ferrymead, W3-2 a Auckland FC Res, W2-1 h Waterside, D1-1 a Petone, W2-0 a Phoenix Res.",
+  "trends": {
+   "game_totals": "Cashmere last 5 only 2,2,2,3,3; Olympic 6,2,4,4,3",
+   "team_totals": "Olympic scored 2+ in 7/9; Cashmere blanked in last away game",
+   "first_half": "Olympic led at HT in 6/9",
+   "handicap": "close; 1st v 2nd",
+   "corners": "none"
+  },
+  "h2h": "No 2026 meeting found in sources.",
+  "absences": "None reported.",
+  "context": "Championship round 8 of 11; first (Cashmere) v second (Olympic) headline game - title-race clash, likely cagey.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 1.34 (Cashmere's last 5 games averaged 2.4 goals; top-of-table clash); result sides.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nzfootball.co.nz/newsarticle/172120?newsfeedId=1275538",
+   "https://www.friendsoffootballnz.com/2026/11/13/template-mens-national-league-4/",
+   "https://www.sportradar.com (gismo stats_team_lastx via engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74873416",
+  "fx": "Napier City Rovers AFC v Ferrymead Bays",
+  "home_form": "Napier last 9: W6-1 a Auckland FC Res, W3-1 h Phoenix Res, L0-2 a Birkenhead, W2-1 h Cashmere, L1-7 a Auckland Utd, D1-1 h Miramar, W6-0 a Western, L2-3 h Miramar, L1-2 a Cashmere. Championship home: W3-1, W2-1, D1-1.",
+  "away_form": "Ferrymead last 9: W1-0 h Phoenix Res, L0-2 a Birkenhead, L0-2 h Cashmere, L0-2 a Auckland Utd, L1-4 h Miramar, W2-1 a Olympic, D0-0 h Eastern Suburbs, W2-1 h Dunedin, W5-0 h Nelson. Blanked in 4 of last 6.",
+  "trends": {
+   "game_totals": "Napier 7,4,2,3,8,2,6,5,3; Ferrymead 1,2,2,2,5,3,0,3,5",
+   "team_totals": "Ferrymead scored <=1 in 8/9",
+   "first_half": "Napier 0-0 HT v Phoenix; slow starts at home",
+   "handicap": "Napier home wins by 1-2",
+   "corners": "none"
+  },
+  "h2h": "Not found for 2026.",
+  "absences": "None reported.",
+  "context": "Napier (10 pts) still in the Grand Final race; Ferrymead described as 'down and out of the race' (Friends of Football). Motivation edge to Napier.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7634561915,
+    "why": "Motivation gap (Napier in race, Ferrymead out) plus Ferrymead blanked in 4 of last 6; DNB protects the draw"
+   }
+  ],
+  "avoid": "Ferrymead team Under 1.5 (p 0.64 fails Under gate); Napier -1.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nzfootball.co.nz/newsarticle/172120?newsfeedId=1275538",
+   "https://www.friendsoffootballnz.com/2026/11/06/template-mens-national-league-3/",
+   "https://www.sportradar.com (gismo stats_team_lastx via engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74873418",
+  "fx": "Auckland United FC v Miramar Rangers",
+  "home_form": "Auckland United last 9: L2-4 a Olympic, L1-2 h Eastern Suburbs, L0-3 a Auckland City, W2-0 h Ferrymead, D2-2 a Auckland FC Res, W7-1 h Napier, D1-1 a Phoenix Res, W4-0 a East Coast Bays, W3-1 h Bay Olympic. 3 losses in last 4.",
+  "away_form": "Miramar last 9: L0-2 h Olympic, W4-1 a Eastern Suburbs, L0-2 h Auckland City, W4-1 a Ferrymead, W2-1 h Auckland FC Res, D1-1 a Napier, D1-1 h Western, W3-2 a Napier, W12-0 h FC Western. Away: W4-1, W4-1, D1-1, W3-2.",
+  "trends": {
+   "game_totals": "AU 6,3,3,2,4,8,2,4,4 (O2.5 7/9); Miramar 2,5,2,5,3,2,2,5,12 (O2.5 5/9); Miramar away games 5,5,2,5",
+   "team_totals": "Miramar scored 3+ in 4 straight away games",
+   "first_half": "mixed",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "Not found for 2026.",
+  "absences": "None reported.",
+  "context": "Both still in contention for the Grand Final places; AU shocked at home by previously winless Eastern Suburbs.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.43,
+    "p": 0.656071,
+    "why": "AU games O2.5 in 7/9 and Miramar away games 5,5,2,5 goals; both need points"
+   }
+  ],
+  "avoid": "Result sides (AU form slump vs house fav); Under 3.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nzfootball.co.nz/newsarticle/172120?newsfeedId=1275538",
+   "https://www.friendsoffootballnz.com/2026/11/06/template-mens-national-league-3/",
+   "https://www.sportradar.com (gismo stats_team_lastx via engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74873420",
+  "fx": "Birkenhead United AFC v Eastern Suburbs AFC",
+  "home_form": "Birkenhead last 9: D2-2 a Auckland City, W2-0 h Ferrymead, W6-1 a Auckland FC Res, W2-0 h Napier, W1-0 a Phoenix Res, L0-4 h Cashmere, D2-2 a Bay Olympic, D0-0 h Fencibles, W3-0 a Tauranga. Unbeaten in 5.",
+  "away_form": "Eastern Suburbs last 9: W2-0 h Cashmere, W2-1 a Auckland Utd, L1-4 h Miramar, L0-4 a Olympic, L2-4 h Auckland City, D0-0 a Ferrymead, W3-0 h Auckland FC Res, D1-1 h East Coast Bays, W5-1 a Bay Olympic.",
+  "trends": {
+   "game_totals": "Birkenhead home 2,2,4,0; ES 2,3,5,4,6,0",
+   "team_totals": "Birkenhead clean sheets 4 of last 6",
+   "first_half": "Birkenhead 0-0 HT in 2 of last 3 home",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "Not found for 2026.",
+  "absences": "None reported.",
+  "context": "Eastern Suburbs out of the Grand Final race (but have won their last two); Birkenhead (Northern League winners) in form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Birkenhead DNB 1.50: ES just beat Cashmere and AU, motivation edge not clear enough; Over 2.5 1.52.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nzfootball.co.nz/newsarticle/172120?newsfeedId=1275538",
+   "https://www.friendsoffootballnz.com/2026/11/06/template-mens-national-league-3/",
+   "https://www.sportradar.com (gismo stats_team_lastx via engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74063608",
+  "fx": "Halcones Negros FC v ACF Zapotlanejo",
+  "home_form": "Halcones Negros last 9: L0-4 a Santiago, W1-0 h Apodaca, L1-2 a Guerreros, L0-6 h Ac\u00e1mbaro, W3-2 a Refineros, W5-0 a Ciervos, W7-0 h Calor, L1-2 a Artesanos, W3-0 h Guerreros. 11th, 14 pts from 9 (Wikipedia).",
+  "away_form": "Zapotlanejo last 9: L1-3 h Refineros, W4-2 a Ca\u00f1oneros, W5-3 h Ciervos, W3-2 a Saltillo, L2-4 h Mineros, W1-0 a H\u00e9roes, W1-0 h Santiago, D1-1 a Correcaminos, W4-1 h Apodaca. 6th, 19 pts.",
+  "trends": {
+   "game_totals": "Halcones 4,1,3,6,5,5,7,3,3 (O2.5 8/9); Zapotlanejo 4,6,8,5,6,1,1,2,5 (O2.5 6/9; last 5 all O2.5)",
+   "team_totals": "Zapotlanejo scored 2+ in 4 of last 5 away",
+   "first_half": "Zapotlanejo games 2+ HT goals in 4 of last 5",
+   "handicap": "Halcones results lopsided both ways",
+   "corners": "none"
+  },
+  "h2h": "No recent H2H in sources.",
+  "absences": "None reported.",
+  "context": "Liga Premier Serie A round 12 (Mexico 3rd tier). Kickoff 19:00 local 14 Nov = 00:00 UTC 15 Nov; time-zone difference only. (A different club, Halcones FC of Uruapan, withdrew in Aug 2026; not this team.)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.29,
+    "p": 0.730936,
+    "why": "O2.5 in 8/9 Halcones games and each of Zapotlanejo last 5 (6,8,5,6,4 goals)"
+   }
+  ],
+  "avoid": "BTTS 1.28 (Halcones BTTS only 3/9); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.besoccer.com/team/matches/halcones-negros-fc",
+   "https://footystats.org/fr/mexico/halcones-negros-fc-vs-zapotlanejo-h2h-stats",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liga_Premier_A_season"
+  ]
+ },
+ {
+  "eid": "sr:match:76724838",
+  "fx": "San Juan FC v Metropolitan FA San Juan",
+  "home_form": "San Juan FC (SR, no HT): L1-2 a Academia Quintana, D1-1 h Ponce, W3-1 h Guaynabo, L0-1 h Edusoccer, L0-3 h Caguas, W6-0 h PR Sur, L3-4 a Cayey, L0-3 a Metropolitan, L0-6 h Academia Quintana.",
+  "away_form": "Metropolitan FA: 9 straight wins - 2-0 Caguas, 4-1 Quintana, 6-0 a PR Sur, 1-0 a Cayey, 3-0 a Guaynabo, 1-0 a Ponce, 2-0 Edusoccer, 3-0 San Juan FC, 1-0 a Caguas. 8 clean sheets.",
+  "trends": {
+   "game_totals": "Metro games 2,5,6,1,3,1,2,3,1 (O2.5 only 4/9)",
+   "team_totals": "Metro win to nil 8/9",
+   "first_half": "no data",
+   "handicap": "Metro won by 1 in 4/9",
+   "corners": "none"
+  },
+  "h2h": "Metropolitan 3-0 San Juan FC on 19 Sep (SR).",
+  "absences": "None found.",
+  "context": "LPR Pro (Puerto Rico), regional-standard league. Fixture date not confirmed by any web source (only SR).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 1.28 (only 4/9 Metro games); Away & Over 1.5 1.16 (sub-1.18).",
+  "confidence": 0.1,
+  "sources": [
+   "https://forzafootball.com/tournament/lpr-pro-1219052946/results",
+   "https://en.wikipedia.org/wiki/Metropolitan_FA",
+   "https://www.sportradar.com (gismo stats_team_lastx via engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76595322",
+  "fx": "Charlotte Independence v AC Boise",
+  "home_form": "Charlotte Independence last 9: W2-1 h Forward Madison (SF), W5-1 h Naples, L1-4 a Portland Hearts, W3-0 a Greenville, W3-0 h NY Cosmos, W3-2 a Sarasota, D1-1 h Fort Wayne, W2-1 a Richmond, D1-1 a Boise. Players' Shield winners.",
+  "away_form": "AC Boise last 9: 0-0 at 90 v Chattanooga (SF), won by Barea 114' in extra time, W2-0 h Knoxville, W2-0 a Fort Wayne, W2-1 h Av Alta, W2-1 a Portland Hearts, W1-0 h Greenville, L1-2 a Corpus Christi, D2-2 a Spokane, D1-1 h Charlotte. 6-game win streak.",
+  "trends": {
+   "game_totals": "Charlotte home 3,6,6,2; Boise 0,2,2,3,3,1,3,4,2",
+   "team_totals": "Boise conceded <=1 in 8/9",
+   "first_half": "Charlotte scored first half in 6/9",
+   "handicap": "close",
+   "corners": "n/a"
+  },
+  "h2h": "Charlotte 1-0 Boise (May), Boise 1-1 Charlotte (Sep; Charlotte down to 10 early).",
+  "absences": "None reported. Charlotte GK Matt Levy (GK of Year), Jon Bakero (Golden Playmaker).",
+  "context": "USL League One FINAL, single game at Charlotte (Matthews, NC). Knockout; 90-min settlement. Road team has never won the L1 final.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result sides (knockout, no To Qualify market on board); Over 2.5 1.48 vs Boise defence.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.charlotteindependence.com/news/2026/11/13/know-before-you-go-usl-league-one-final/",
+   "https://seasonticketholderny.substack.com/p/record-breaking-charlotte-meets-fairytale",
+   "https://www.idahopress.com/sports/localpro/acboise/ac-boise-aims-to-make-history-in-usl-league-one-final-match/article_4fca4aa1-976b-4f33-bfe6-880cec3d8efa.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74100780",
+  "fx": "Lobos Ulmx v Deportiva Venados",
+  "home_form": "Lobos ULMX last 9: W2-1 a Inter Playa, D1-1 h Chapulineros, W3-0 a Monta\u00f1eses, W2-0 h Cordob\u00e9s, L0-2 a Pur\u00e9pechas, W2-1 h Tritones, L0-3 a Irapuato, D1-1 a Tigres, L1-2 h Los Cabos.",
+  "away_form": "Deportiva Venados last 9: D1-1 h Tritones, L1-2 a Irapuato, W3-1 h Tigres, W4-1 a Tapachula, L1-4 h Pioneros, L1-3 a Inter Playa, D2-2 h Celaya, D3-3 a Racing, W2-0 h Jaguares.",
+  "trends": {
+   "game_totals": "Lobos 3,2,3,2,2,3,3,2,3 (O1.5 9/9); Venados 2,3,4,5,5,4,4,6,2 (O1.5 9/9)",
+   "team_totals": "Venados scored in 9/9",
+   "first_half": "mixed",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "Lobos 2-1 Tritones etc.; no direct H2H found.",
+  "absences": "None reported.",
+  "context": "Liga Primera Premier group A round 12, kickoff 01:00 UTC 15 Nov (365scores). Thin league.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.786212,
+    "why": "Every one of the last 9 games of BOTH teams had 2+ goals (18/18)"
+   }
+  ],
+  "avoid": "Away win 2.15; Under 2.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/en-us/football/match/primera-premier-9119/deportiva-venados-lobos-ulmx-69035-72068-9119",
+   "https://www.betexplorer.com/football/team/lobos-ulmx/S6v5DFaf/results/",
+   "https://www.sportradar.com (gismo stats_team_lastx via engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74100782",
+  "fx": "Los Cabos United v Chapulineros de Oaxaca",
+  "home_form": "Los Cabos last 9: L1-2 a Monta\u00f1eses, L1-4 h Celaya, D0-0 a Racing, L1-2 a Reboceros, L0-2 h Cordob\u00e9s, W1-0 a Pur\u00e9pechas, W1-0 h Tritones, W2-1 a Lobos, L1-2 h Tigres. Winless in 5.",
+  "away_form": "Chapulineros last 9: D1-1 h Cordob\u00e9s, D1-1 a Lobos, W2-1 h Tritones, W2-1 h Monta\u00f1eses, W3-2 a Tapachula, L1-3 h Pioneros, D1-1 a Inter Playa, D1-1 h Celaya, L1-5 a Racing.",
+  "trends": {
+   "game_totals": "Los Cabos 3,5,0,3,2,1,1,3,3 (O1.5 6/9); Chapulineros 2,2,3,3,5,4,2,2,6 (O1.5 9/9)",
+   "team_totals": "Chapulineros scored in 9/9",
+   "first_half": "Los Cabos 0-0 HT in 5/9",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "No direct H2H found.",
+  "absences": "None reported.",
+  "context": "Liga Primera Premier round 12, Mexico 4th tier.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.7861889073,
+    "why": "Chapulineros 9/9 games with 2+ goals and scored in all 9; Los Cabos concede in 7/9"
+   }
+  ],
+  "avoid": "Result sides; BTTS 1.55.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.365scores.com/en-us/football/match/primera-premier-9119/deportiva-venados-lobos-ulmx-69035-72068-9119",
+   "https://www.sportradar.com (gismo stats_team_lastx via engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76629024",
+  "fx": "Club Atletico La Paz v Piratas Veracruz",
+  "home_form": "La Paz last 9: D1-1 a Veracruz (SF leg 1), D3-3 h Tlaxcala (QF), W1-0 a Tlaxcala, W3-0 h Dorados, W3-1 a Jaiba Brava, D2-2 h Tlaxcala, W4-2 a Tapat\u00edo, L1-2 h Venados, W3-1 a Oaxaca. Home games 6,3,4,3 goals.",
+  "away_form": "Piratas Veracruz last 9: D1-1 h La Paz, D1-1 h Canc\u00fan, D1-1 a Canc\u00fan (QF), D1-1 h Tapat\u00edo, W5-0 a Dorados, W3-0 h Tepatitl\u00e1n, L2-4 a Tlaxcala, W4-0 h Oaxaca, L0-3 a Zacatecas.",
+  "trends": {
+   "game_totals": "La Paz 2,6,1,3,4,4,6,3,4 (O1.5 8/9); Veracruz 2,2,2,2,5,3,6,4,3 (O1.5 9/9)",
+   "team_totals": "Veracruz scored in 7/9; La Paz scored in 9/9",
+   "first_half": "La Paz led 2-0 HT in last two home games",
+   "handicap": "tie level 1-1",
+   "corners": "no data"
+  },
+  "h2h": "First leg 12 Nov: Veracruz 1-1 La Paz (Lajud; Barrag\u00e1n 68').",
+  "absences": "None reported.",
+  "context": "Liga de Expansi\u00f3n semifinal 2nd leg (knockout). La Paz finished 1st so a draw on aggregate sends them through; Veracruz must win, so they have to attack. Full stadium at Estadio Guaycura.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.813216,
+    "why": "Veracruz must win (La Paz go through on a draw) so they must open up; La Paz home games 6,3,4,3; 17 of 18 combined recent games had 2+ goals"
+   }
+  ],
+  "avoid": "Result sides/DNB (knockout, level tie); Under 2.5 (a cagey 1-1 is the main risk).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.yucatan.com.mx/deportes/2026/11/14/la-paz-por-el-boleto.html",
+   "https://www.xeudeportes.mx/liga-expansion/1440016/todo-se-define-en-la-vuelta-piratas-empata-con-la-paz-en-la-semifinal-de-ida",
+   "https://www.xeudeportes.mx/liga-expansion/1440219/como-le-ha-ido-al-club-atletico-la-paz-como-local"
+  ]
+ },
+ {
+  "eid": "sr:match:74293092",
+  "fx": "FC Ska-Khabarovsk v Leningradets",
+  "home_form": "Ska-Khabarovsk last 9: W3-0 h Ivanovo, D1-1 a Leningradets (cup), W2-0 a Nizhnekamsk, W3-0 h Krasnoyarsk, L1-2 h Volga Ulyanovsk, W2-0 h Kirov, D3-3 h KAMAZ, D0-0 a Yaroslavl, D1-1 a Sochi. 3 straight league wins, 8-0.",
+  "away_form": "Leningradets last 9: D1-1 a Volgograd, D1-1 h Khabarovsk (cup), W3-0 h Krasnoyarsk, D1-1 a Nizhnekamsk, L0-2 a Kostroma, W2-0 h Luki, L1-3 h Torpedo, W1-0 a Volga, L0-6 a Novgorod. Away: 1W 2D 2L.",
+  "trends": {
+   "game_totals": "Khabarovsk 3,2,2,3,3,2,6,0,2; Leningradets 2,2,3,2,2,2,4,1,6",
+   "team_totals": "Leningradets scored <=1 in 8/9",
+   "first_half": "Khabarovsk scored 1st half in 6/9",
+   "handicap": "Khabarovsk home wins by 2-3 recently",
+   "corners": "n/a"
+  },
+  "h2h": "4 Nov 2026 cup: Leningradets 1-1 Khabarovsk; 5 Sep 2026 league: Leningradets 3-2 Khabarovsk.",
+  "absences": "None reported in previews.",
+  "context": "Russian First League round 19. Leningradets travel ~6,500 km / 7 time zones from Leningrad region to Khabarovsk; early local afternoon kickoff. Coach name differs between previews (minor data inconsistency, not date/venue).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.734252,
+    "why": "Khabarovsk 3 straight wins 8-0 and strong home record; Leningradets face the longest away trip in the league and score <=1 in 8/9"
+   }
+  ],
+  "avoid": "Leningradets team Under 1.5 1.24 (p 0.77, Under gate fails); Khabarovsk -1.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.vseprosport.ru/news/2026/11/14/ska-habarovsk-leningradec-prognoz-kf-1-70-i-stavki-na-match-pervoj-ligi-15-nojabrja-2026-goda",
+   "https://metaratings.ru/prognozy/futbol/ska-habarovsk-leningradec-prognoz-na-match-ligi-pari-15-noyabrya-2026-goda/",
+   "https://bombardir.ru/prognozy/834930-liga-pari-pervaya-liga-shansy-ska-habarovska-i-leningradca-na-pobedu-v-matche-19-tura"
+  ]
+ }
+]

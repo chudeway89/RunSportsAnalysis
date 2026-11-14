@@ -1,0 +1,635 @@
+[
+ {
+  "eid": "sr:match:76326554",
+  "fx": "Machida Zelvia v Vissel Kobe",
+  "home_form": "Machida: W1-0 @Kobe (QF 1st leg, Duke 85'), D0-0 Hiroshima(H), W2-1 Shanghai Shenhua(H, ACL), D0-0 Gamba(H), L0-1 @Shanghai, D0-0 @Kobe, L0-5 @Shimizu, W3-0 Avispa(H), L0-1 @Tampines, L0-1 @Kyoto.",
+  "away_form": "Kobe: L0-1 Machida(H, 1st leg), D2-2 Urawa(H), W3-2 Ratchaburi(H), W3-1 Nagoya(H), L0-1 @Daejeon, D0-0 Machida(H), W2-1 @Frontale, L0-3 @Fagiano, W2-0 Jeonbuk(H), L2-4 @Kashiwa.",
+  "trends": {
+   "game totals": "Machida games: 1,0,3,0,1,0,5,3,1,1 (Under 2.5 in 8/10). Last 2 meetings 0-0 and 0-1.",
+   "team totals": "Machida scored 0-1 in 8/10.",
+   "first half": "Machida 0-0 at HT in 6/10.",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Kobe 0-0 Machida (Oct 24, J1) and Kobe 0-1 Machida (Nov 11, cup 1st leg).",
+  "absences": "No confirmed absences found.",
+  "context": "Levain Cup QF 2nd leg at Machida GION Stadium, 14:00 JST; Machida lead 1-0 on aggregate, a draw takes them through. Knockout: 1X2 settles on 90 min, To Qualify excepted. A strong Under profile, but Under 2.5 p .58 and Under 3.5 p .79 are both below the 0.82 Under gate.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 2.5 / BTTS (Machida sit on a lead; meetings 0-0, 0-1)",
+   "Any result-side (knockout)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/en/match/leaguecup/2026/111501/",
+   "https://www.jleague.jp/news/article/35353/",
+   "https://surabayainside.com/42810/gol-telat-mitchell-duke-bawa-machida-zelvia-curi-kemenangan-1-0-di-kandang-vissel-kobe"
+  ]
+ },
+ {
+  "eid": "sr:match:76326618",
+  "fx": "Cerezo Osaka v Urawa Red Diamonds",
+  "home_form": "Cerezo: L0-2 @Urawa (1st leg), W3-2 @Gamba, L1-4 @Kashima, W3-1 @Mito, D2-2 United Chiba(H), D1-1 @Nagoya, L2-4 Frontale(H), W3-2 @Tottori, D0-0 Marinos(H), W2-0 Kagoshima(H). Match totals 2,5,5,4,4,2,6,5,0,2.",
+  "away_form": "Urawa: W2-0 Cerezo(H), D2-2 @Kobe, W4-0 @Kashiwa, L1-2 @Nagoya, W1-0 V-Varen(H), W3-2 United Chiba(H), L0-1 @Mito, L0-4 @Yokohama, W3-0 @Tokyo, W3-2 Omiya(H). Match totals 2,4,4,3,1,5,1,4,3,5.",
+  "trends": {
+   "game totals": "Over 1.5 in 8/10 for Cerezo and 8/10 for Urawa; combined 16/20.",
+   "team totals": "Urawa scored in 8/10; Cerezo in 9/10.",
+   "first half": "Cerezo conceded first-half goals in 6/10.",
+   "handicap": "n/a (knockout)",
+   "corners": "n/a"
+  },
+  "h2h": "Urawa 2-0 Cerezo (Nov 11, 1st leg; Ueki, Komori).",
+  "absences": "Cerezo striker Pablo Sabbag (missed the 1st leg) is reported fit and targeting this game. No Urawa absences found.",
+  "context": "Levain Cup QF 2nd leg at Yanmar Hanasaka, 15:00 JST. Cerezo must win by 2+ to force extra time and will push from the start (Pablo Machin: \"something will happen\"). Game-state favours goals. Big-club clash: big-club totals need p >= 0.82, and Over 1.5 p .81 is borderline.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.80871,
+    "why": "Cerezo must chase a 2-goal deficit at home; Over 1.5 landed in 16 of the 2 clubs' combined last 20; Sabbag back."
+   }
+  ],
+  "avoid": [
+   "Any result-side (knockout, big clubs)",
+   "Under markets"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.jleague.jp/en/match/leaguecup/2026/111502/",
+   "https://www.jleague.jp/news/article/35353/",
+   "https://sports.yahoo.co.jp/official/detail/2026111400053-spnaviow"
+  ]
+ },
+ {
+  "eid": "sr:match:76326556",
+  "fx": "Kashima Antlers v Yokohama F Marinos",
+  "home_form": "Kashima: W3-2 @Marinos (1st leg, Suzuki x2), W2-0 @Tokyo, D0-0 @Buriram, W4-1 Cerezo(H), W3-0 Pohang(H), L2-3 Kashiwa(H), D2-2 @Kyoto, W2-0 V-Varen(H), L0-1 @Cong An, W2-0 Gamba(H). Home: 4W 1L last 5.",
+  "away_form": "Marinos: L2-3 Kashima(H), D1-1 Fagiano(H), W4-2 Frontale(H), W4-3 Hiroshima(H), D1-1 @Nagoya, D2-2 Tokyo V(H), D0-0 @United Chiba, W2-1 Shimizu(H), D0-0 @Cerezo, W2-1 Kyoto Sangyo U(H). AWAY: winless in last 3 (1-1, 0-0, 0-0).",
+  "trends": {
+   "game totals": "Kashima totals 5,2,0,5,3,5,4,2,1,2; Marinos 5,2,6,7,2,4,0,3,0,3. First leg 5 goals.",
+   "team totals": "Kashima scored 2+ in 4 of last 5 home games.",
+   "first half": "1st leg 1-2 at HT.",
+   "handicap": "Kashima DNB: void on the draw that also suits them.",
+   "corners": "n/a"
+  },
+  "h2h": "Marinos 2-3 Kashima (Nov 11, 1st leg, Kashima came from 0-2).",
+  "absences": "Marinos winger Miyaichi suspended (official J.League suspension notice for the 11/15 game).",
+  "context": "Levain Cup QF 2nd leg at Mercari Stadium, 15:00 JST. Kashima lead 3-2; a draw sends them through. Marinos need a win (2+ to avoid extra time) and must open up. Knockout: only DNB/To Qualify for result-sides. Big-club clash (totals need p >= 0.82).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.745887,
+    "why": "Kashima won 4 of last 5 at home (scoring 2-4 each); Marinos winless in last 3 away with 1 goal; Miyaichi suspended. Knockout, so DNB, not 1X2."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.817217051,
+    "why": "Marinos must chase from 2-3 down; 1st leg had 5 goals; Kashima home games 5,3,5,2,2 goals. p .82 meets the big-club totals gate."
+   }
+  ],
+  "avoid": [
+   "Kashima 1X2 straight (knockout rule)",
+   "Marinos +1.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.jleague.jp/en/match/leaguecup/2026/111503/",
+   "https://jleague.jp/news/article/35343",
+   "https://news.yahoo.co.jp/articles/c5c4f9729a020a7e6da28aa95176bd32b2a5559f"
+  ]
+ },
+ {
+  "eid": "sr:match:72151346",
+  "fx": "Hokkaido Consadole Sapporo v Sagan Tosu",
+  "home_form": "Sapporo last 10 (team score first): L0-1 Hachinohe(A), W4-0 @Imabari, W1-0 Shonan(H), W1-0 @Toyama, W2-0 @Montedio, L0-1 Akita(H), L0-1 @Jubilo, W2-1 Iwaki(H), L1-2 Fagiano(H, cup), L2-3 @Tegevajaro. Home last 4: W,L,W,L.",
+  "away_form": "Tosu last 10: L1-2 Toyama(H), W1-0 @Shonan, L0-2 @Jubilo, L0-2 Frontale(H), W2-0 Hachinohe(H), L1-2 @Albirex, W2-1 Omiya(H), W2-1 Avispa(H), W1-0 Fujieda(H), L0-1 @Akita. Away: 1W 3L in last 4.",
+  "trends": {
+   "game totals": "Tosu matches 3,1,2,2,2,3,3,3,1,1 goals (0/10 over 3.5); Sapporo 1,4,1,1,2,1,1,3,3,5. Line 2.5 at ~50/50.",
+   "team totals": "Sapporo scored 0-1 goals in 7/10; Tosu 0-2 in all 10.",
+   "first half": "Mostly 0-0 or 1-0 at HT on both sides.",
+   "handicap": "9 of Tosu last 10 decided by <=1 goal or 2-0; Sapporo +1.0 loses only to a 2+ goal Tosu win.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent H2H found.",
+  "absences": "None found.",
+  "context": "J2 2026-27 R17. Sapporo ~7th (26 pts) v Tosu ~13th (20 pts) per Nov 8 snapshots, yet the house makes Tosu away favourites (p .46). Reason for the divergence not found (possible Sapporo absences), so no result-side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Tosu 1X2 / -0.5 (away record 1W3L last 4)",
+   "Over 2.5 / Over 3.5"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/11/post1056728/",
+   "https://tmubl.jp/column/j2-standings/"
+  ]
+ },
+ {
+  "eid": "sr:match:72151348",
+  "fx": "Vanraure Hachinohe FC v Iwaki FC",
+  "home_form": "Hachinohe (17th, 14 pts): L0-1 Sapporo(H), W1-0 @Oita, L1-2 Montedio(H), W2-0 @Tosu, L0-1 @Tokushima, D3-3 @Imabari, W3-1 @Omiya, L0-2 Yokohama(H), L1-2 @Jubilo, L0-3 Tegevajaro(H). HOME: lost the last 4 (0-1,1-2,0-2,0-3), 1 goal scored.",
+  "away_form": "Iwaki (8th-9th, 23 pts): W2-0 Montedio(H), L1-2 @Omiya, W3-1 @Tochigi City, D1-1 Jubilo(H), D1-1 @Shonan, W5-0 Ventforet(H), W1-0 Akita(H), L0-4 @Hiroshima(cup), L1-2 @Sapporo, L0-2 Vegalta(H).",
+  "trends": {
+   "game totals": "Hachinohe home games 1,3,2,3 goals; Iwaki 2,3,4,2,2,5,1,4,3,2.",
+   "team totals": "Hachinohe scored 1 goal in its last 4 home games.",
+   "first half": "Iwaki led at HT in 5 of last 10.",
+   "handicap": "Hachinohe home losses all by 1-3 goals; Iwaki +0.5 (X2) covers every Hachinohe non-win.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent H2H found.",
+  "absences": "None found.",
+  "context": "Promoted Hachinohe in relegation zone; Iwaki mid-table/playoff chase.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.34,
+    "p": 0.704314,
+    "why": "Fixture trend: Hachinohe lost its last 4 home games scoring 1 goal in total; Iwaki 8th v 17th."
+   }
+  ],
+  "avoid": [
+   "Hachinohe 1X2",
+   "Hachinohe team Over 0.5 at short odds"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/11/post1056728/",
+   "https://tmubl.jp/column/j2-standings/"
+  ]
+ },
+ {
+  "eid": "sr:match:72151350",
+  "fx": "Vegalta Sendai v Blaublitz Akita",
+  "home_form": "Sendai (4th-6th, 30 pts): W5-1 Ventforet(H), W1-0 @Toyama, L1-2 Omiya(H), W2-1 @Albirex, W3-1 Imabari(H), D0-0 Tokushima(H), L0-1 @Montedio, W2-1 Jubilo(H), W2-0 @Iwaki, L1-3 @Tochigi City.",
+  "away_form": "Akita (12th, 20 pts): unbeaten in 10 per Sportradar: W2-1 Oita(H), W2-1 @Yokohama, D1-1 Fujieda(H), W1-0 Imabari(H), W2-1 @Tegevajaro, W1-0 @Sapporo, W1-0 @Iwaki, W1-0 Tosu(H), D2-2 Albirex(H), D1-1 @Shonan. Every game within one goal.",
+  "trends": {
+   "game totals": "Akita totals 3,3,2,1,3,1,1,1,4,2.",
+   "team totals": "Akita conceded <=1 in 8/10; scored 1-2 in all 10.",
+   "first half": "Akita 0-0 at HT in 6/10.",
+   "handicap": "Akita has not lost by 2+ in its last 10; Akita +2.0 (1.17) is below the odds floor; +1.5 is barred by the rule when the favourite p >= 0.55.",
+   "corners": "n/a"
+  },
+  "h2h": "Last meeting (May 2026): Sendai 1-3 Akita. Historically Sendai 13W 5D 3L; 4 x 0-0 in the fixture.",
+  "absences": "None found.",
+  "context": "Tohoku derby (derby flag). Sendai at home are fragile favourites against an Akita side in form. Table position (5W5D6L) conflicts with the 10-game unbeaten run (early-season losses), so data_conflict is mild.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Sendai 1X2 / -0.5 / -1 (derby; Akita unbeaten in 10, no 2+ goal defeat)",
+   "Over 2.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/11/post1056728/",
+   "https://footystats.org/japan/vegalta-sendai-vs-afc-blaublitz-akita-h2h-stats",
+   "https://en.wikipedia.org/wiki/Tohoku_derby"
+  ]
+ },
+ {
+  "eid": "sr:match:72151362",
+  "fx": "FC Imabari v Jubilo Iwata",
+  "home_form": "Imabari (19th, 12 pts): W1-0 @Albirex, L0-4 Sapporo(H), D1-1 Ventforet(H), L0-1 @Akita, W3-1 @Sendai, D3-3 Hachinohe(H), W2-1 @Tokushima, L1-2 @Tochigi City, L1-2 Shonan(H), L0-4 @Kashiwa(cup). HOME: winless in 4 (L0-4, D1-1, D3-3, L1-2).",
+  "away_form": "Jubilo: D1-1 Shonan(H), W2-1 @Fujieda, W2-0 Tosu(H), D1-1 @Iwaki, D0-0 Oita(H), D1-1 @Tegevajaro, L0-4 Frontale(H, cup), W1-0 Sapporo(H), L1-2 @Sendai, W4-2 United Chiba(H). Away: W1 D2 L1 in last 4.",
+  "trends": {
+   "game totals": "Imabari games 1,4,2,1,4,6,3,3,3,4.",
+   "team totals": "Jubilo scored in 9/10.",
+   "first half": "Imabari trailed at HT in 2 of 4 home games.",
+   "handicap": "Jubilo lost by 2+ only in the cup v Frontale.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent H2H found.",
+  "absences": "None found.",
+  "context": "Relegation-threatened Imabari v mid-table Jubilo.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.28,
+    "p": 0.750259,
+    "why": "Imabari winless in last 4 home games (incl. 0-4 v Sapporo) and 19th on 12 pts; Jubilo lost only 1 of last 8 league games."
+   }
+  ],
+  "avoid": [
+   "Imabari 1X2"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/11/post1056728/",
+   "https://scores24.live/en/soccer/m-14-11-2026-imabari-jubilo-iwata-prediction",
+   "https://www.sofascore.com/football/match/fc-imabari-jubilo-iwata/HmbshYG"
+  ]
+ },
+ {
+  "eid": "sr:match:72151358",
+  "fx": "Kataller Toyama v Tokushima Vortis",
+  "home_form": "Toyama (~3rd): W2-1 @Tosu, W1-0 Sendai(H), W3-2 @Albirex, L0-1 Sapporo(H), W3-0 @Omiya, D1-1 Shonan(H), D1-1 Tegevajaro(H), W2-1 @Ventforet, L2-3 Urawa(H, cup), D3-3 Yokohama(H). Home league: W1 D2 L1 last 4.",
+  "away_form": "Tokushima (15th-16th): L1-2 Tegevajaro(H), L0-1 @Montedio, L0-1 Yokohama(H), W1-0 @Fujieda, L0-1 Hachinohe(H), D0-0 @Sendai, L1-2 Imabari(H), L1-2 @Albirex, W3-0 Tochigi City(H), W5-0 @Gamba(cup?). Scored <=1 in 8 of last 8 league games.",
+  "trends": {
+   "game totals": "Tokushima last 8: 3,1,1,1,1,0,3,3.",
+   "team totals": "Tokushima scored 0-1 in 8 straight; to win away it needs a 2-goal game it has not produced.",
+   "first half": "Toyama 0-0 at HT in 3 of last 4 home games.",
+   "handicap": "Toyama +0.5 (1X) loses only to a Tokushima win; Tokushima 1W in last 8.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent H2H found.",
+  "absences": "None found.",
+  "context": "Kickoff conflict in one listing (00:00 vs 14:00 JST) but J.League lists Toyama Stadium 14:00 JST, which matches the board (05:00 UTC). Not a veto.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.25,
+    "p": 0.7670272488,
+    "why": "Tokushima scored <=1 goal in 8 straight league games and won 1 of those 8; Toyama 3rd, home W1 D2 L1."
+   }
+  ],
+  "avoid": [
+   "Toyama -1 / Over 2.5",
+   "Tokushima team Over 1.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/11/post1056728/",
+   "https://onefootball.com/en/match/2691551",
+   "https://www.jleague.jp/en/j2/match/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152200",
+  "fx": "Kagoshima United v Gainare Tottori",
+  "home_form": "Kagoshima home last 4: W3-1 Kochi, W4-2 Ehime, W3-2 Fukushima, D1-1 Roasso; overall last 10: L0-1 @Sagamihara, D1-1 @Renofa, D1-1 Roasso(H), L1-2 @FC Osaka, W3-1, W4-2, L0-1 @Matsumoto, L0-2 @Cerezo(cup), W3-2, D1-1 @Giravanz.",
+  "away_form": "Tottori (bottom group): winless in last 10 league/cup: L0-1 Tochigi(H), L0-1 Sagamihara(H), L2-5 @Ryukyu, D0-0 Kochi(H), L0-3 @Roasso, D1-1 Gunma(H), L2-3 Cerezo(H, cup), L0-1 Gifu(H), L3-4 Tokyo V(H, cup), L0-1 @Matsumoto. Away: L2-5, L0-3, L0-1.",
+  "trends": {
+   "game totals": "Kagoshima home games 4,6,5,2.",
+   "team totals": "Kagoshima scored 3+ in 3 of last 4 home games; Tottori scored 0 in 6 of last 8 league games.",
+   "first half": "Kagoshima led at HT in 3 of 4 home games.",
+   "handicap": "Tottori lost away by 3, 3 and 1.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent H2H found.",
+  "absences": "None found.",
+  "context": "J3 R17. Kagoshima in the promotion pack; Tottori near the foot of the table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.45,
+    "p": 0.654122,
+    "why": "Kagoshima won 3 of last 4 at home scoring 3-4 each time; Tottori winless in 10, lost all 3 recent away games (2-5, 0-3, 0-1)."
+   }
+  ],
+  "avoid": [
+   "Tottori team Over 0.5",
+   "Away +1.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/14/post1057250/",
+   "https://soccer.yahoo.co.jp/jleague/category/j3/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72152188",
+  "fx": "AC Nagano Parceiro v Ehime FC",
+  "home_form": "Nagano home last 6: L0-1 Sanuki, W3-1 Reilac, L0-1 Ryukyu, W2-1 Matsumoto, L0-1 Nara, W1-0 Gifu. Every home game decided by <=2, and all three home defeats were 0-1.",
+  "away_form": "Ehime (~7th): W1-0 Reilac(H), L0-4 @Kochi, L0-2 @Tochigi, L2-4 Fukushima(H), W2-1 Renofa(H), L2-4 @Kagoshima, W2-0 @Roasso, W3-1 Gunma(H), L0-2 Tokyo(H, cup), D1-1 @Ryukyu. Away: lost 3 of last 4.",
+  "trends": {
+   "game totals": "Nagano home 1,4,1,3,1,1.",
+   "team totals": "Ehime scored 0 in 2 of last 3 away.",
+   "first half": "Mostly level at HT.",
+   "handicap": "Nagano +1.0 is void on a 0-1 (its usual home-defeat score) and loses only to an Ehime win by 2+; Ehime won by 2+ away once (2-0 at Roasso) in last 5 away.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent H2H found.",
+  "absences": "None found.",
+  "context": "J3 R17 promotion race (Ehime inside top 7, within 3 pts of the lead).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.33,
+    "p": 0.720015,
+    "why": "Nagano home defeats all 0-1 (void on +1); Ehime lost 3 of its last 4 away (0-4, 0-2, 2-4)."
+   }
+  ],
+  "avoid": [
+   "Ehime 1X2 / -0.5 (away record)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/14/post1057250/",
+   "https://soccer.yahoo.co.jp/jleague/category/j3/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72152196",
+  "fx": "Kamatamare Sanuki v Renofa Yamaguchi",
+  "home_form": "Sanuki home last 6: W1-0 Matsumoto, L0-2 Nara, W3-1 Kanazawa, L0-3 Roasso, D0-0 Tochigi, L3-4 Gifu.",
+  "away_form": "Renofa away last 6: W2-1 @Roasso, W2-0 @Matsumoto, L1-2 @Ehime, W1-0 @Tochigi, W2-0 @Gifu, W2-1 @Kanazawa (5W 1L). Home form weaker (D1-1, L0-2, W2-0, D2-2).",
+  "trends": {
+   "game totals": "Renofa away 3,2,3,1,2,3.",
+   "team totals": "Renofa scored 1-2 in every away game.",
+   "first half": "Renofa level or ahead at HT in 5 of 6 away games.",
+   "handicap": "Renofa DNB is void on a draw; Renofa lost 1 of last 6 away.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent H2H found.",
+  "absences": "None found.",
+  "context": "J3 R17. Renofa among the promotion chasers.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.36,
+    "p": 0.696326,
+    "why": "Renofa won 5 of last 6 away (only loss 1-2 at Ehime); Sanuki lost 3 of last 6 at home. DNB, since away 1X2 p < 0.75."
+   }
+  ],
+  "avoid": [
+   "Renofa 1X2 straight (p .53)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/14/post1057250/",
+   "https://soccer.yahoo.co.jp/jleague/category/j3/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72152186",
+  "fx": "Tochigi SC v Nara Club",
+  "home_form": "Tochigi SC (12th): five straight clean sheets: W1-0 @Tottori, D0-0 Fukushima(H), W2-0 Ehime(H), D0-0 @Sagamihara, W1-0 Reilac(H); before that L0-1 @Ryukyu, L0-1 Renofa(H), D0-0 @Sanuki, L1-2 Matsumoto(H), W3-1 @Kagoshima.",
+  "away_form": "Nara (1st): W5-0 Kochi(H), W3-0 Gunma(H), W2-0 @Sanuki, L1-3 Ryukyu(H), L0-2 @FC Osaka, W1-0 @Kanazawa, W2-0 Giravanz(H), W1-0 @Nagano, W4-1 Reilac(H), W3-2 @Tottori. Away 4W 1L.",
+  "trends": {
+   "game totals": "Tochigi last 8: 1,0,2,0,1,1,1,0 goals (0/8 over 2.5).",
+   "team totals": "Tochigi scored >=2 in 2 of 10.",
+   "first half": "Tochigi 0-0 at HT in 8 of last 10.",
+   "handicap": "Nara wins away tend to be by 1-2 goals.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent H2H found.",
+  "absences": "None found.",
+  "context": "Top v 12th: Nara stay top with a win. A strong Under profile (Tochigi 5 clean sheets) but the Under price p (.67 for U3.5) is below the 0.82 gate; the result is too two-sided.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 2.5 / BTTS Yes (Tochigi 0/8 over 2.5)",
+   "Nara -0.5 into a 5-clean-sheet defence"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/14/post1057250/",
+   "https://news.yahoo.co.jp/articles/7d51083acd098453c1fe02f3d4544cc2830acb7e"
+  ]
+ },
+ {
+  "eid": "sr:match:72152190",
+  "fx": "Zweigen Kanazawa v Roasso Kumamoto",
+  "home_form": "Kanazawa: L0-1 @Matsumoto, L0-2 Nagano(H), W4-0 Gunma(H), L1-5 @Reilac, L1-3 @Sanuki, L0-1 Nara(H), D1-1 @FC Osaka, W2-0 @Ryukyu, L0-2 Shimizu(H, cup), W4-1 Tottori(H). Erratic.",
+  "away_form": "Roasso: L1-2 Renofa(H), L1-2 @FC Osaka, D1-1 @Kagoshima, W2-1 Gifu(H), W3-0 Tottori(H), W3-0 @Sanuki, L0-2 Ehime(H), D0-0 @Reilac, L0-1 Frontale(H, cup), W1-0 @Gunma.",
+  "trends": {
+   "game totals": "Kanazawa 1,2,4,6,4,1,2,2,2,5; Roasso 3,3,2,3,3,3,2,0,1,1.",
+   "team totals": "No clear pattern.",
+   "first half": "n/a",
+   "handicap": "Both sides inconsistent.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent H2H found.",
+  "absences": "None found.",
+  "context": "Mid-table J3. No fixture-specific edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Result-sides either way"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/14/post1057250/",
+   "https://soccer.yahoo.co.jp/jleague/category/j3/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72665078",
+  "fx": "Tiamo Hirakata v Honda FC",
+  "home_form": "Tiamo home: W2-0 Criacao, L1-2 Grulla, L0-6 Yokogawa, D1-1 Vonds, L1-3 Okazaki.",
+  "away_form": "Honda: strong at home (5W) but away L1-3 @Urayasu, D1-1 @Okinawa, D1-1 @Grulla, L0-2 @Reinmeer (winless in 4 away).",
+  "trends": {
+   "game totals": "Tiamo home 2,3,6,2,4.",
+   "team totals": "n/a",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "Not found (JFL, thin coverage).",
+  "context": "JFL (4th tier, thin data). The away favourite (p .56) is winless in 4 away games.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Honda 1X2 / -0.5 (winless in 4 away)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Japan_Football_League",
+   "https://www.livesoccertv.com/competitions/japan/j2-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72665082",
+  "fx": "Veertien Mie v Iwate Grulla Morioka",
+  "home_form": "Veertien home: D1-1 Okinawa, D2-2 Numazu, W3-0 Verspah, W3-0 Yokogawa, L2-3 Tiamo.",
+  "away_form": "Grulla away: D1-1 @Criacao, W2-1 @Tiamo, L0-1 @Vonds, W2-1 @Minebea, L1-3 @Verspah.",
+  "trends": {
+   "game totals": "Veertien home 2,4,3,3,5.",
+   "team totals": "n/a",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "Not found.",
+  "context": "JFL, thin coverage; no edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Japan_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72665084",
+  "fx": "YSCC Yokohama v Verspah Oita",
+  "home_form": "YSCC home: W3-2 J-Lease, L0-2 Reinmeer, L1-4 Criacao, W5-2 Urayasu, L1-2 Minebea. Games totals 4,5,4,2,3,5,1,7,3,5 (Over 2.5 in 7/10).",
+  "away_form": "Verspah away: L0-1 @Honda, L0-2 @Reinmeer, W3-0 @Veertien, L1-2 @J-Lease, D0-0 @Urayasu.",
+  "trends": {
+   "game totals": "YSCC high-scoring; Verspah away low-scoring (1,2,3,3,0). Conflicting.",
+   "team totals": "n/a",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "Not found.",
+  "context": "JFL thin league: no Over 1.5 (thin-league rule).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 1.5 (thin league)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Japan_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:74402390",
+  "fx": "Queretaro FC v CF Monterrey",
+  "home_form": "Queretaro: L0-2 Puebla(H), W3-1 @Juarez, L1-3 Cruz Azul(H), W2-1 @San Luis, W5-0 @Santos, W2-0 Atlante(H), L0-2 @Chivas, D1-1 Leon(H), L0-1 @Tijuana, L1-3 @Atlas. Match totals 2,4,4,3,5,2,2,2,1,4 (Over 1.5 in 9/10).",
+  "away_form": "Monterrey: W4-0 @Toluca, D3-3 Tijuana(H), L0-1 Chivas(H), L1-4 @Puebla, W2-1 Pachuca(H), D1-1 @America, W2-1 Toluca(H), W4-2 @Atlante, W1-0 Cruz Azul(H), D0-0 Tigres(H). Match totals 4,6,1,5,3,2,3,6,1,0.",
+  "trends": {
+   "game totals": "Combined Over 1.5 in 17/20; Liga MX averages ~2.8.",
+   "team totals": "Queretaro scored in 7/10; Monterrey in 8/10.",
+   "first half": "Queretaro HT goals in 6/10 games.",
+   "handicap": "n/a",
+   "corners": "Home corners O3.5 p .65; no data edge."
+  },
+  "h2h": "Monterrey won the last 4 meetings.",
+  "absences": "Monterrey: 7 out: Carlos Salcedo (red-card ban), Oliver Torres (yellow-card ban), Stefan Medina (muscle), Uros Djurdjevic (injured), Tecatito Corona and Iker Fimbres (Mexico call-up), Hugo Cuypers (Belgium call-up). Queretaro: disputed. One report has Santiago Homenchenko suspended; others report no absences.",
+  "context": "Rearranged Apertura 2026 Jornada 7 game at La Corregidora, played during the FIFA window. Monterrey as away favourite (p .48) is fragile, with its striker and two forwards missing. Both teams chase the Liguilla places.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.772054,
+    "why": "Over 1.5 in 9/10 Queretaro and 8/10 Monterrey games; Monterrey defence missing Salcedo and Medina. Tempered by Monterrey losing forwards Cuypers, Djuka and Corona."
+   }
+  ],
+  "avoid": [
+   "Monterrey 1X2 / -0.5 / DNB (7 absentees incl. Cuypers, Salcedo)",
+   "Over 2.5 at 1.79"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.365scores.com/es/news/stefan-medina-bajas-monterrey/",
+   "https://www.record.com.mx/historia/donde-ver-queretaro-vs-monterrey-2026111323291173515",
+   "https://prensaarizona.com/queretaro-vs-monterrey-horario-fecha-fifa-apertura-2026-boleto-liguilla/"
+  ]
+ },
+ {
+  "eid": "sr:match:74063606",
+  "fx": "Real Refineros Cds v Saltillo Soccer FC",
+  "home_form": "Refineros: L1-3 @Zapotlanejo, W3-2 Autlan(H), W6-0 @Santiago, D3-3 Guerreros(H), L2-3 Halcones(H), W3-2 @Dragones, D(7-8 incl. pens?) Ciervos(H), D2-2 @Delfines, D0-0 Calor(H), L0-1 @Canoneros. Over 2.5 in 7/10.",
+  "away_form": "Saltillo: W7-2 Ciervos(H), W4-0 @Artesanos, L2-3 Zapotlanejo(H), W2-1 @Vaqueros, W3-0 @Mineros, D2-2 Heroes(H), W4-1 @Santiago, W2-0 Correcaminos(H), L2-3 @Apodaca, L1-4 La Tribu(H). Over 2.5 in 8/10.",
+  "trends": {
+   "game totals": "Combined Over 2.5 in 15/20; Refineros conceded 2+ in 6/10.",
+   "team totals": "Saltillo scored 2+ in 9/10.",
+   "first half": "Refineros HT goals in 8/10.",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "Not found (3rd tier).",
+  "context": "Liga Premier Serie A J12 at Olimpico Seccion 24, 16:00 local. Note: Sportradar scores like 7-8 likely include tie-break shootouts, so treat as draws.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.38,
+    "p": 0.682278,
+    "why": "Over 2.5 in 7/10 Refineros and 8/10 Saltillo games; Saltillo scored 2+ in 9/10."
+   }
+  ],
+  "avoid": [
+   "Under 3.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Anexo:Liga_Premier_A_de_M%C3%A9xico_2026-27",
+   "https://footystats.org/es/mexico/saltillo-soccer-fc-vs-real-refineros-h2h-stats"
+  ]
+ },
+ {
+  "eid": "sr:match:74063610",
+  "fx": "Dragones de Oaxaca v Guerreros de Autlan",
+  "home_form": "Dragones: home 6 straight wins: W2-0 Mineros, W6-0 Heroes, W5-1 Guerreros del P., W3-2 Refineros, W3-0 Canoneros, W2-1 Halcones; away W3-0 @Apodaca, D0-0 @Artesanos, (7-6 shootout?) @Delfines, D1-1 @Acambaro.",
+  "away_form": "Autlan away winless: L2-3 @Refineros, D0-0 @Mineros, (7-8 incl. pens) @Santiago, L0-2 @Apodaca, L0-3 @Zapotlanejo. Home form good (W3-1, W2-1, W3-0, W2-1).",
+  "trends": {
+   "game totals": "Dragones home 2,6,6,5,3,3.",
+   "team totals": "Dragones scored 2+ in all 6 home wins.",
+   "first half": "Dragones led at HT in 5/6 home games.",
+   "handicap": "Home wins by 2, 6, 4, 1, 3, 1.",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "Not found (3rd tier).",
+  "context": "Liga Premier Serie A J12 at Tecnologico de Oaxaca, 18:00 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.791022,
+    "why": "Dragones won all 6 recent home games; Autlan winless in last 5 away. DNB voids the draw."
+   }
+  ],
+  "avoid": [
+   "Autlan +1.5 (Dragones home margins 2-6 in 4 of 6)"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Anexo:Liga_Premier_A_de_M%C3%A9xico_2026-27",
+   "https://en.wikipedia.org/wiki/Dragones_de_Oaxaca"
+  ]
+ }
+]

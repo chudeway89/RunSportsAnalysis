@@ -1,0 +1,647 @@
+[
+ {
+  "eid": "sr:match:76413240",
+  "fx": "Deportivo Madryn v CD Maipu",
+  "home_form": "Madryn last10: W1-0 a San Miguel, W4-1 h San Telmo, D0-0 a Acassuso, L1-2 h Chaco For Ever, W2-0 a Ferro, D0-0 h Central Norte, W2-0 h Cordoba, L1-2 a Defensores, W3-1 h Ciudad de Bolivar, L0-1 a Alm Brown. Home last5: W4-1 L1-2 D0-0 W2-0 W3-1.",
+  "away_form": "Maipu last10: D0-0 a Tristan Suarez, W3-1 h Guemes, L0-1 a Chacarita, D1-1 h San Juan, W1-0 a Chicago, W1-0 h Temperley, D1-1 h Jujuy, D2-2 a Almagro, D0-0 h Parana, L0-1 a Colegiales. Away: D0-0 L0-1 W1-0 D2-2 L0-1.",
+  "trends": {
+   "game_totals": "Very low: Madryn 4+ goals once in 10, Maipu twice; combined 17/20 games <=3 goals; 7/20 <=1 goal.",
+   "team_totals": "Maipu away scored 0/0/1/2/0 last 5 away; Madryn scored in 7/10.",
+   "first_half": "Madryn 1H goal in only 4/10; Maipu away 1H mostly 0-0.",
+   "handicap": "Madryn home wins by 3,2,2 margins; most results one-goal or draws.",
+   "corners": "n/a"
+  },
+  "h2h": "Not found for 2026 regular season (different zones).",
+  "absences": "None found.",
+  "context": "Primera Nacional Reducido round of 16, SINGLE-MATCH knockout at Estadio Abel Sastre, Sat 14 Nov 19:00 local; Madryn hold the sporting advantage (better seed). Madryn reached last year's Reducido final. 90-minute markets settle on 90 min.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.73225,
+    "why": "Knockout -> DNB only. Madryn better seed with sporting advantage at home (W4-1, W2-0, W3-1 in recent home games), Maipu scored 0 in 3 of last 5 away; draw voids."
+   }
+  ],
+  "avoid": [
+   "Madryn 1X2 (knockout, draw suits Madryn)",
+   "Over 2.5 / BTTS Yes (both very low scoring)",
+   "Under 3.5 1.19 p0.81 is fundamentally supported but below the 0.82 Under gate - knockout late-game opening risk"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://canal12web.com/el-reducido-de-la-primera-nacional-pone-primera-madryn-recibe-a-maipu-en-el-abel-sastre/",
+   "https://cholilaonline.ar/2026/11/deportivo-madryn-reducido-primera-nacional.html",
+   "https://www.somosjujuy.com.ar/deportes/reducido-primera-nacional-quedaron-definidos-todos-cruces-segundo-ascenso-n126509",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76592234",
+  "fx": "Real Pilar FC v CA Talleres de Remedios",
+  "home_form": "Real Pilar last10: D1-1 a Villa San Carlos, W2-1 h Liniers, D0-0 h Ituzaingo, L0-1 a Urquiza, W2-0 h Villa Dalmine, L0-3 a Excursionistas, W2-1 h Sarandi, W1-0 a Argentino, L0-2 h Talleres RE, D1-1 a Laferrere. Home: W2-1 D0-0 W2-0 W2-1 L0-2.",
+  "away_form": "Talleres RE last10: L0-1 a Comunicaciones, W4-0 h Dock Sud, L1-2 a Dep Merlo, D1-1 h Dep Camioneros, L0-2 a Italiano, W3-2 h San Martin, D0-0 a Villa San Carlos, L0-2 h Liniers, W2-0 a Real Pilar, W1-0 h Urquiza. Away: L0-1 L1-2 L0-2 D0-0 W2-0.",
+  "trends": {
+   "game_totals": "Real Pilar 7/10 games <=2 goals; Talleres 6/10 <=2. Primera B is a low-scoring league.",
+   "team_totals": "Talleres scored 0-1 in 4 of last 5 away; Real Pilar scored 0-1 in 6/10.",
+   "first_half": "Real Pilar 1H goals in 5/10; Talleres away 1H mostly goalless.",
+   "handicap": "Coin-flip side; 1X2 ~34/31/35.",
+   "corners": "n/a"
+  },
+  "h2h": "2026: Talleres 0-0 Real Pilar (Escalada), Real Pilar 0-2 Talleres (Pilar).",
+  "absences": "None found.",
+  "context": "Primera B Metropolitana Reducido quarter-final FIRST LEG (two legs; return Nov 21 at Talleres). Talleres 4th (71 pts), Real Pilar 7th (66). First legs typically cagey.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Any result side (knockout first leg, even match)",
+   "Overs",
+   "Under 2.5 1.46 p0.65 - fits the profile but far below the Under gate"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.inforegion.com.ar/2026/11/13/reducido-de-la-primera-b-talleres-visita-a-real-pilar/",
+   "https://www.pilaradiario.com/la-liga/real-pilar-quiere-pegar-primero-el-carlos-barraza-n5473525",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73203284",
+  "fx": "Colchagua CD v Deportes Linares",
+  "home_form": "Colchagua last10: W3-2 a Brujas, L0-1 h Trasandino, W3-2 a Santiago City, W2-0 h Osorno, L0-1 a Concon, L0-1 a Linares, L0-1 h Brujas, D0-0 a Trasandino, L0-1 h Santiago City, L0-4 a Linares. Home: L0-1 W2-0 L0-1 L0-1.",
+  "away_form": "Linares last10: D1-1 h Concon, W1-0 a Santiago City, L0-1 a Osorno, W5-4 h Trasandino, L0-2 a Brujas, W1-0 h Colchagua, L1-3 a Concon, D1-1 h Santiago City, W1-0 h Osorno, W2-1 a Trasandino.",
+  "trends": {
+   "game_totals": "Colchagua 6/10 games <=1 goal (five 0-1/1-0 type results); Linares mixed (5-4 outlier).",
+   "team_totals": "Colchagua scored 0 in 3 of last 4 home games.",
+   "first_half": "Mostly goalless first halves for Colchagua.",
+   "handicap": "Linares won both 2026 meetings (4-0, 1-0).",
+   "corners": "n/a"
+  },
+  "h2h": "2026: Linares 4-0 Colchagua (Jul), Linares 1-0 Colchagua (Sep), both at Linares per Sportradar.",
+  "absences": "None found.",
+  "context": "Segunda Division promotion liguilla; Linares near the top (sources conflict on table: 10 vs 17 pts), Colchagua lower. Date 14 Nov 22:00 confirmed by 365Scores.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Colchagua win (weak home scoring)",
+   "Thin market (107 outcomes), table data conflicting"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Liga_de_Segunda_2026",
+   "https://www.365scores.com/es/football/team/deportes-linares-14601/standings",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75452306",
+  "fx": "Club Malvin v Defensor Sporting",
+  "home_form": "Malvin last: L64-70 a Urunday, W87-73 h Bigua (ended Bigua unbeaten run), W84-78 a Hebraica, L76-101 h Penarol, L71-90 a Goes, W77-66 h Atenas. 3-3 in LUB.",
+  "away_form": "Defensor last: W91-85 h Larranaga, L65-84 a Penarol, W79-71 h Urunday, L82-89 a Bigua, (Liga Sudamericana: L63-65 Flamengo, L75-85 Paisas, W74-69 Obera), W83-64 h Goes. 3-2 in LUB.",
+  "trends": {
+   "game_totals": "Malvin games 134-177 (avg ~160); Defensor 150-176. Line 157.5 central.",
+   "team_totals": "Malvin scored 64-87; Defensor 63-91.",
+   "first_half": "n/a",
+   "handicap": "Defensor won 81-70 at Malvin on 30 Sep.",
+   "corners": "n/a"
+  },
+  "h2h": "Defensor won 81-70 at Malvin (30 Sep 2026); 2025-26 playoff series split.",
+  "absences": "None found.",
+  "context": "LUB round 7, Montevideo, 19:15 local. Defensor also playing Liga Sudamericana (travel load).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "All lines ~50/50 with no fixture-specific edge"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://ladiaria.com.uy/deporte/articulo/2026/11/liga-uruguaya-malvin-le-saco-el-invicto-a-bigua/",
+   "https://www.elobservador.com.uy/basquetbol/goes-vapuleo-atenas-y-es-puntero-la-liga-uruguaya-basquetbol-hebraica-macabi-supero-union-atletica-y-trepo-la-zona-alta-la-tabla-posiciones-n6063453",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72475088",
+  "fx": "Comunicaciones FC  v CSD Coban Imperial",
+  "home_form": "Comunicaciones last10: W2-0 a Marquense, W3-1 h Mixco, L1-3 a Municipal, W1-0 h Antigua, L0-1 a Malacateco, L1-2 h Aurora, L1-2 a Santa Lucia, W3-0 h Suchitepequez, W3-2 a Xelaju, L1-2 h Guastatoya. Home: W3-1 W1-0 L1-2 W3-0 L1-2.",
+  "away_form": "Coban last10: L0-1 h Xelaju, W2-1 a Guastatoya, W2-1 h Suchi, W3-1 h Marquense, L1-3 a Mixco, W2-1 h Municipal, L1-2 a Antigua, W2-0 h Malacateco, W3-2 h Aurora, D1-1 a Santa Lucia. Away: W2-1 L1-3 L1-2 D1-1.",
+  "trends": {
+   "game_totals": "Comunicaciones home totals 4,1,3,3,3; Coban away 3,4,3,2. Over 1.5 in 8/9 but Guatemala league is low-average (<2.7).",
+   "team_totals": "Coban scored 1+ in 9/10.",
+   "first_half": "Comunicaciones led at HT in 4 of 5 home games.",
+   "handicap": "Comunicaciones lost 2 of 5 home.",
+   "corners": "n/a"
+  },
+  "h2h": "First-round meeting 13 Sep: sources conflict (2-2 vs 1-1).",
+  "absences": "Neither side has suspended players (Publinews).",
+  "context": "Apertura 2026 jornada 20, Estadio Cementos Progreso 17:00 local, described as key for classification.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Comunicaciones win 1.71 (2 home losses in 5, Coban in form)",
+   "Over 1.5 - league average below 2.7 rule"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.publinews.gt/deportes/2026/11/14/comunicaciones-vs-coban-imperial-un-partido-clave-por-la-clasificacion/",
+   "https://www.clarosports.com/centroamerica/futbol-cenam/comunicaciones-vs-coban-imperial-en-vivo-donde-mirar-el-apertura-2026-de-la-liga-de-guatemala/",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76413242",
+  "fx": "Gimnasia y Esgrima de Jujuy v Club Almirante Brown",
+  "home_form": "Jujuy last10: L1-5 a San Juan, L1-2 h Atlanta, W1-0 a Chicago, D2-2 h Salta, L1-2 a Temperley, D2-2 h Tucuman, D1-1 a Maipu, W2-1 h Rafaela, W2-1 a Almagro, D1-1 h Agropecuario. Home last5: L1-2 D2-2 D2-2 W2-1 D1-1 (1 win in 5).",
+  "away_form": "Almirante Brown last10: L1-2 a Godoy Cruz, W1-0 h Moron, D2-2 a Santa Fe, D1-1 h San Miguel, L2-3 a San Telmo, L0-1 h Acassuso, L0-1 a Chaco, D0-0 h Ferro, D0-0 a Central Norte, W1-0 h Madryn.",
+  "trends": {
+   "game_totals": "Almirante games 3,1,4,2,5,1,1,0,0,1 (6/10 <=1 goal); Jujuy games higher: 6,3,1,4,3,4,2,3,3,2.",
+   "team_totals": "Almirante scored <=1 in 8/10.",
+   "first_half": "Jujuy home 1H 0-0 in 4 of last 5.",
+   "handicap": "Jujuy home: only 1 win in 5.",
+   "corners": "n/a"
+  },
+  "h2h": "Not found in 2026 (different zones).",
+  "absences": "None found.",
+  "context": "Primera Nacional Reducido round of 16 single match at 23 de Agosto, 20:00 local. Jujuy 4th in Zona B (58 pts). Knockout.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Jujuy 1X2/DNB 1.34 - fragile home form (1 win in last 5 home, lost last two 1-5,1-2)",
+   "Almirante team Under 1.5 1.18 p0.81 - Under below gate"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.somosjujuy.com.ar/deportes/reducido-primera-nacional-quedaron-definidos-todos-cruces-segundo-ascenso-n126509",
+   "https://www.365scores.com/es/news/donde-ver-reducido-primera-nacional-2026/",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76229052",
+  "fx": "Chapecoense SC v CR Vasco da Gama RJ",
+  "home_form": "Chapecoense last10: L1-2 h Mirassol, L0-3 a Bragantino, W2-1 h Fluminense, L0-1 a Botafogo, L1-4 h Paranaense, L0-4 a Vitoria, D1-1 a Atl Nacional, D1-1 a Atletico-MG, L1-2 h Internacional, W2-1 a Corinthians. Home: L1-2 W2-1 L1-4 L1-2.",
+  "away_form": "Vasco last10: D6-6 h Palmeiras (as recorded), W3-1 a Paranaense, L0-1 a Palmeiras, L1-4 h Flamengo, W3-2 h Corinthians, L1-3 h Boca, L0-1 a Sao Paulo, W1-0 a Boca, D0-0 h Remo, W2-1 a Botafogo.",
+  "trends": {
+   "game_totals": "Chape last5 totals 3,3,3,1,5; Vasco last5 12,4,1,5,5: Over 1.5 in 9/10 of the last-5s. Brasileirao average ~2.4.",
+   "team_totals": "Chapecoense scored 1+ in all 4 recent home games; conceded 2+ in 6/10.",
+   "first_half": "1H goal in 8/10 Chape games.",
+   "handicap": "Chape lost by 3+ three times in last 6.",
+   "corners": "excluded"
+  },
+  "h2h": "Not researched (no fixture-specific relevance found).",
+  "absences": "Vasco: Thiago Mendes, Sosa (starters, replaced by Jair, Ramon Rique), Tche Tche, Nuno Moreira; possibly Cuesta. Chapecoense coach situation unclear (sources name different coaches).",
+  "context": "Rescheduled round-21 Serie A game at Arena Conda, 20:30 BRT. Chapecoense ALREADY RELEGATED (motivation low, dead rubber for them); Vasco 13th, 41 pts, chasing a continental place.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.7979638858,
+    "why": "Relegated Chapecoense concede freely (2+ in 6/10) yet score at home (4/4); Over 1.5 in 9 of the two sides' last 10 combined. Below the 2.7-goal league guideline - medium confidence."
+   }
+  ],
+  "avoid": [
+   "Vasco 1X2 1.38 (away result needs p>=0.75; two midfield starters out)",
+   "Chapecoense team Under 1.5 (Under, dead-rubber unpredictability)",
+   "Corners/cards (excluded classes)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://diariodorio.com/esporte/2026/11/14/chapecoense-x-vasco-veja-a-provavel-escalacao-cruzmaltina-para-o-jogo-do-brasileirao.html",
+   "https://folhadoleste.com.br/chapecoense-x-vasco-14-11-2026-desfalques-rebaixamento/",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72475086",
+  "fx": "CD Malacateco v CSD Municipal",
+  "home_form": "Malacateco last10: L0-2 a Antigua, L0-1 a Suchitepequez, L0-2 h Aurora, D2-2 a Santa Lucia, W1-0 h Comunicaciones, L1-2 a Xelaju, W2-0 h Guastatoya, L0-2 a Coban, L0-1 a Marquense, W1-0 h Mixco. Scored 0 in last 3.",
+  "away_form": "Municipal last10: L0-1 a Santa Lucia, W3-1 h Comunicaciones, L0-1 a Xelaju, D0-0 a Mixco, D1-1 h Guastatoya, L1-2 a Coban, D1-1 h Marquense, D1-1 a Antigua, W3-0 h Suchi, D2-2 h Malacateco. Away: L D L D L D (no away win in 5).",
+  "trends": {
+   "game_totals": "Both low-scoring: Malacateco 7/10 <=2 goals, Municipal 8/10 <=2.",
+   "team_totals": "Malacateco 0 goals in last 3; Municipal scored <=1 in 4/5 away.",
+   "first_half": "Mostly goalless/1-goal first halves.",
+   "handicap": "Municipal no away win in last 5.",
+   "corners": "n/a"
+  },
+  "h2h": "2-2 at Municipal (14 Sep 2026).",
+  "absences": "None found.",
+  "context": "Apertura 2026 jornada 20, Malacateco home (Estadio Santa Lucia, San Marcos).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Municipal 1X2/DNB (no away win in 5)",
+   "Overs",
+   "Under 3.5 1.26 p0.76 fits profile but below Under gate"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://ligagt.org/calendario/",
+   "https://www.clarosports.com/centroamerica/futbol-cenam/la-liga-nacional-de-guatemala-cambia-su-formato-para-el-torneo-apertura-2026/",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73075400",
+  "fx": "Inter Santa Tecla v CD. Cacahuatique",
+  "home_form": "Inter Santa Tecla last10: D2-2 a FAS, L1-2 h Firpo, D0-0 h Platense, W2-0 a Inca, L1-2 h Mun Limeno, D2-2 a Alianza, D1-1 h San Francisco, L1-2 a Aguila, D1-1 h Balboa, D0-0 h Isidro. HOME: no win in 6 (L D L D D D).",
+  "away_form": "Cacahuatique last10: D1-1 h Firpo, W2-0 a Platense, W1-0 h Inca, D3-3 a Mun Limeno, D0-0 h Alianza, L1-2 a San Francisco, L1-4 a Aguila, W2-0 a Balboa, L0-2 a Isidro, D0-0 a Firpo. Unbeaten in 5.",
+  "trends": {
+   "game_totals": "Inter home totals 3,0,3,2,2,0; Cacahuatique 2,2,1,6,0.",
+   "team_totals": "Inter scored <=1 in all 6 home games.",
+   "first_half": "Inter home 1H goals in 3/6.",
+   "handicap": "Inter winless at home in 6.",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "Apertura 2026 regular season; Inter near top of table but winless at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Inter Santa Tecla 1X2 1.74 / DNB 1.30 - fragile home favourite (0 wins in last 6 home)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://futbolquiniela.com/en/liga-salvadorena-apertura-2026/clasificacion",
+   "https://www.espn.com/soccer/standings/_/league/slv.1",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75468442",
+  "fx": "Saint Vincent and the Grenadines v Belize",
+  "home_form": "SVG last10: W4-0 h Sint Maarten, W4-2 a Sint Maarten, W1-0 a Belize, W2-1 h French Guiana, W3-2 a Barbados, L1-3 a Bonaire, W3-1 h St Lucia, L0-2 a Dominican Rep, L1-2 a Puerto Rico, W6-0 h Anguilla. Home: W4-0 W2-1 W3-1 W6-0. HT scores: 3-0,3-0,1-0,2-0,2-0,1-1,2-1 (scored first half in last 7 straight).",
+  "away_form": "Belize last10: L0-1 a French Guiana, L0-2 h French Guiana, L0-1 h SVG, W1-0 a Sint Maarten, L1-3 a Guyana, L2-3 h Sint Maarten, W6-2 a St Kitts, W1-0 a St Martin, L0-2 h Panama, L0-1 a Montserrat. Three straight NL defeats without scoring.",
+  "trends": {
+   "game_totals": "SVG games: 4,6,1,3,5,4,4,2,3,6.",
+   "team_totals": "SVG scored 1+ in 8/10 (4 home games: 4,2,3,6). Belize scored <=1 in 8/10, 0 in last 3.",
+   "first_half": "1H goal in 10/10 SVG games; SVG scored 1H in 8/10 incl last 7.",
+   "handicap": "SVG home wins by 4,1,2,6.",
+   "corners": "n/a"
+  },
+  "h2h": "SVG won 1-0 in Belize on 30 Sep 2026 (NL).",
+  "absences": "None found.",
+  "context": "Concacaf Nations League group B4, Arnos Vale, Kingstown, 19:00 local (00:00 UTC 15 Nov - the 14/15 date difference across sources is timezone only, venue consistent). SVG top with 6 pts from 2.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "68",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.31,
+    "p": 0.7227103911,
+    "why": "Fixture-specific: SVG games had a first-half goal in 10/10 and SVG scored before HT in their last 7; Belize leaking early (0-1 HT v SVG)."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7729761766,
+    "why": "SVG 4/4 home wins (4-0,2-1,3-1,6-0), already beat Belize 1-0 away; Belize 3 straight NL losses scoring 0. Draw voids."
+   }
+  ],
+  "avoid": [
+   "Belize team Over 0.5",
+   "Over 3.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.concacaf.com/competitions/nations-league/news/2026-27-concacaf-nations-league-november-schedule-confirmed",
+   "https://www.goal.com/en-us/news/live-stream-online-tv-where-to-watch-saint-vincent-and-the-grenadines-v-belize/blt751b30942990b60a",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73719642",
+  "fx": "Minnesota Timberwolves v Chicago Bulls",
+  "home_form": "Wolves (9-3, 5-1 home) last10: W133-94 h Dallas, W115-100 h Utah, W115-109 a NO, W117-107 a Houston, W112-100 h Milwaukee, L111-121 a SA, W127-101 h Clippers, L114-119 h GSW, L125-127 a Cleveland, W117-94 h Toronto. 6-1 since Edwards' Oct 29 surgery; home wins by 39,15,12,26,23.",
+  "away_form": "Bulls (2-9) last10: W125-117 h Atlanta (last night - BACK-TO-BACK), L119-124 h SA, L121-127 h PHI, L105-135 a NYK, L107-126 a PHI, L111-125 a BOS, L127-133 h NYK, L99-134 a BOS, L120-124 h WAS, W132-125 a MIL. Road losses by 30,19,14,35.",
+  "trends": {
+   "game_totals": "Bulls games 233-260 in all last 10 (allowed 117+ every game); Wolves home games 211-233 (3/6 under 222.5).",
+   "team_totals": "Bulls conceded 117-135; Wolves scored 112-133 last 5.",
+   "first_half": "n/a",
+   "handicap": "Wolves won 5 of 6 home games by 12+; Bulls lost 4 road games by 14+.",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched.",
+  "absences": "MIN: Anthony Edwards OUT (knee arthroscopy), Donte DiVincenzo OUT (Achilles); Joan Beringer available (mask). CHI: Caleb Wilson OUT (hand), Tobe Awaka OUT (back), Norman Powell Q (back), Nic Claxton Q (hamstring, B2B), Jalen Smith Q (finger) - official NBA report 1pm 14 Nov.",
+  "context": "Target Center, 8pm ET. Bulls on second night of a back-to-back after beating Atlanta at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-4.5",
+    "desc": "Home (-4.5)",
+    "odds": 1.19,
+    "p": 0.820392,
+    "why": "Wolves 6-1 without Edwards, 5-1 at home with wins by 12+; Bulls 2-9, B2B second night, Wilson/Awaka out and Powell/Claxton questionable; Bulls road losses by 14-35."
+   },
+   {
+    "mid": "225",
+    "spec": "total=222.5",
+    "desc": "Over 222.5",
+    "odds": 1.26,
+    "p": 0.7709841693,
+    "why": "Bulls games went 233+ in all last 10 and they conceded 117+ every game; tired B2B defence. Risk: Wolves home games without Edwards ran 211-233."
+   }
+  ],
+  "avoid": [
+   "Bulls +15.5/+16.5 (weak receiver, 15+ catch rule)",
+   "Under on the main line"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://athlonsports.com/nba/chicago-bulls/final-injury-report-for-bulls-timberwolves-will-norman-powell-nic-claxton-play",
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-14_01_00PM.pdf",
+   "https://www.si.com/nba/scoreboard/bulls-vs-timberwolves-11-14-2026-1678",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75452296",
+  "fx": "CS Larranaga v CA Goes",
+  "home_form": "Larranaga last: L85-91 a Defensor, W109-73 h Atenas, L71-90 a Urunday, W91-75 h Aguada, L74-94 a Bigua, L78-94 h Union Atletica. Home 2-1. Last in table (3-pt deduction).",
+  "away_form": "Goes (LUB leaders 5-1) last: W99-71 h Atenas, W87-84 a Aguada, W97-83 h Union Atletica, W124-110 a Nacional, W90-71 h Malvin, L64-83 a Defensor.",
+  "trends": {
+   "game_totals": "Larranaga games 144-182; Goes games 147-234 (OT/high pace). Line 173.5 central.",
+   "team_totals": "Goes scored 87-124 in 5 straight wins.",
+   "first_half": "n/a",
+   "handicap": "Goes won away 87-84 and 124-110; lost 64-83 at Defensor.",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "LUB round 7, 21:30 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Goes ML 1.33 p0.71 - below the 0.75 ML gate",
+   "Larranaga +6.5 coin flip"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.elobservador.com.uy/basquetbol/goes-vapuleo-atenas-y-es-puntero-la-liga-uruguaya-basquetbol-hebraica-macabi-supero-union-atletica-y-trepo-la-zona-alta-la-tabla-posiciones-n6063453",
+   "https://ladiaria.com.uy/deporte/articulo/2026/11/liga-uruguaya-malvin-le-saco-el-invicto-a-bigua/",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75466982",
+  "fx": "Jamaica v Mexico",
+  "home_form": "Jamaica last10: D1-1 a Honduras, W2-0 a El Salvador, L0-1 h Honduras, W3-2 h Guatemala, D1-1 h South Africa, L0-3 a Nigeria, W2-0 h India, L0-1 a DR Congo, W1-0 a New Caledonia, W1-0 a Grenada.",
+  "away_form": "Mexico last10: L0-2 h Chile, L0-3 a USA, D1-1 h Peru, D1-1 h Colombia, L2-3 h England (WC), W2-0 Ecuador, W3-0 Czechia, W1-0 Korea, W2-0 South Africa, W5-1 Serbia. Winless in 4, 2 goals in 4.",
+  "trends": {
+   "game_totals": "Jamaica 7/10 games <=2 goals; Mexico last 4: 2,3,2,2.",
+   "team_totals": "Mexico scored <=1 in last 4.",
+   "first_half": "Mexico trailed at HT in 3 of last 4.",
+   "handicap": "Most Jamaica games one-goal margins.",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched.",
+  "absences": "JAM: Leon Bailey, Demarai Gray, Shamar Nicholson, Bobby De Cordova-Reid missing; Andre Blake status conflicting. MEX: Raul Jimenez out (knee); Quinones, Vega, Tecatito Corona back.",
+  "context": "Nations League QUARTER-FINAL FIRST LEG, Kingston. Two-legged knockout - result sides only DNB/To Qualify; none in range.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Mexico 1X2 1.42 (knockout first leg, winless in 4)",
+   "Over 2.5",
+   "Under 3.5 1.30 p0.74 - below Under gate"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.si.com/soccer/jamaica-vs-mexico-concacaf-nations-league-preview-predictions-lineups-11-14-26",
+   "https://www.sportsmole.co.uk/football/jamaica/preview/jamaica-vs-mexico-prediction-team-news-lineups_609017.html",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74595376",
+  "fx": "AD Isidro Metapan v CD Luis Angel Firpo Usulutan",
+  "home_form": "Isidro Metapan last10: W2-1 h Platense, D1-1 a Inca, D1-1 h Mun Limeno, L0-1 a Alianza, D0-0 a FAS, W3-2 h San Francisco, L0-3 a Aguila, W3-2 h Balboa, W2-0 h Cacahuatique, D0-0 a Inter. Home W W D W W.",
+  "away_form": "Firpo last10: D1-1 a Cacahuatique, W2-1 a Inter, W2-0 h Alianza, D1-1 h FAS, L1-2 a Saprissa (CCC), D1-1 a Platense, D0-0 h Saprissa, W2-0 h Inca, W3-2 a Mun Limeno, D2-2 a Alianza. Unbeaten in 9 league games; also playing Copa Centroamericana.",
+  "trends": {
+   "game_totals": "Isidro home totals 3,2,5,5,2; Firpo away 2,3,4,2,5,4.",
+   "team_totals": "Firpo scored 1+ in 9/10.",
+   "first_half": "Mixed.",
+   "handicap": "Close: few margins >1.",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "None found.",
+  "context": "Apertura 2026 regular season, top-of-table clash (Isidro 1st, Firpo near top).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Either result side - in-form Firpo, strong Isidro home record"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolquiniela.com/en/liga-salvadorena-apertura-2026/clasificacion",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primera_Divisi%C3%B3n_de_El_Salvador",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73075402",
+  "fx": "Alianza FC San Salvador v CD FAS Santa Ana",
+  "home_form": "Alianza last10: L0-1 a San Francisco, W3-2 h Aguila, L0-2 a Firpo, L0-1 a Balboa, D0-0 h Marathon (CCC), W1-0 h Isidro, L1-2 a Marathon, D0-0 a Cacahuatique, D2-2 h Inter, L1-2 a FAS. Coach sacked 9 Oct.",
+  "away_form": "FAS last10: D2-2 h Inter, D2-2 h San Francisco, D1-1 a Firpo, L1-3 a Aguila, D0-0 h Isidro, L2-3 h Platense, W1-0 a Balboa, W2-1 h Alianza, D1-1 h Inca, W3-1 a Mun Limeno.",
+  "trends": {
+   "game_totals": "Alianza home totals 5,0,1,4; FAS 4,4,2,4,0,5.",
+   "team_totals": "FAS scored 1+ in 9/10.",
+   "first_half": "Mixed.",
+   "handicap": "FAS won reverse fixture 2-1.",
+   "corners": "n/a"
+  },
+  "h2h": "FAS 2-1 Alianza (9 Oct 2026).",
+  "absences": "None found.",
+  "context": "Clasico of Salvadoran football (Alianza v FAS) - big-club derby: no result sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Any result side (derby/big-club clash)",
+   "FAS DNB 1.49"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Primera_Divisi%C3%B3n_de_El_Salvador",
+   "https://www.espn.com/soccer/standings/_/league/slv.1",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74827322",
+  "fx": "Broadmeadow Magic FC v Avondale FC",
+  "home_form": "Broadmeadow (Aus Championship): L1-2 a Leichhardt, W3-2 h Adelaide, W2-1 a Avondale, 4-3 h Leichhardt (SR score likely includes shootout). Earlier NPL NNSW: L0-1 Maitland, L0-3 Weston, W8-0 Charlestown. 2nd in group, 8 pts.",
+  "away_form": "Avondale (NPL Vic champions): W2-1 h Adelaide, L2-5 a Leichhardt, L1-2 h Broadmeadow, 9-8 a Adelaide (incl. shootout), NPL: W4-3, W3-2, W2-0, W2-0, W2-0.",
+  "trends": {
+   "game_totals": "Known 90-min Championship scores: Broadmeadow 3,5,3; Avondale 3,7,3 -> Over 2.5 6/6, BTTS 6/6 (shootout games excluded).",
+   "team_totals": "Broadmeadow scored 1+ in all 4 Championship games; Avondale scored 1+ in 10/10.",
+   "first_half": "Broadmeadow 1H goals in 2/3 known.",
+   "handicap": "Broadmeadow beat Avondale 2-1 away on 24 Oct (upset).",
+   "corners": "n/a"
+  },
+  "h2h": "Avondale 1-2 Broadmeadow (24 Oct 2026, Melbourne).",
+  "absences": "None found.",
+  "context": "Australian Championship group stage, Magic Park Newcastle, Sun 15 Nov 3pm AEDT (=04:00 UTC, matches board). Drawn group games go to shootouts; 90-min markets unaffected. Finals start 26 Nov - both chasing qualification.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.686419,
+    "why": "Every known 90-minute Championship game of both sides had 3+ goals and BTTS (6/6), including the 2-1 first meeting; open, attacking group-stage football."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.42,
+    "p": 0.65293,
+    "why": "BTTS 6/6 in both sides' known Championship games; Broadmeadow scored in all 4, Avondale in 10/10 recent. Correlated with Over 2.5 - use one, not both, on a slip."
+   }
+  ],
+  "avoid": [
+   "Avondale 1X2 1.59 (lost first meeting to Broadmeadow)",
+   "Under 3.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://football360.com.au/australian-championship-results-broadmeadow-avondale-jyden-harb-marconi-oakleigh/",
+   "https://australianchampionship.com.au/fixtures",
+   "https://en.wikipedia.org/wiki/2026_Australian_Championship",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74827298",
+  "fx": "Sutherland Sharks v Canberra Croatia FC",
+  "home_form": "Sutherland (Championship): 5-6 a South Melbourne (incl. shootout), L1-2 h Sydney United, W2-0 a Canberra Croatia, L0-1 h South Melbourne. Lost BOTH home Championship games.",
+  "away_form": "Canberra Croatia: W2-1 h Sydney United, L0-2 h South Melbourne, L0-2 h Sutherland, 8-9 a Sydney United (incl. shootout).",
+  "trends": {
+   "game_totals": "Known 90-min: Sutherland 3,2,1; Canberra 3,2,2 - not the high-scoring profile priced (O2.5 p0.66).",
+   "team_totals": "Sutherland scored 0-1 in both home games; Canberra scored 0 in 2 of 3 known.",
+   "first_half": "Mostly tight first halves.",
+   "handicap": "Sutherland won 2-0 in Canberra.",
+   "corners": "n/a"
+  },
+  "h2h": "Canberra Croatia 0-2 Sutherland (24 Oct 2026).",
+  "absences": "None found.",
+  "context": "Australian Championship group A; Sutherland home favourite p0.62 despite losing both home games. Drawn games go to shootouts (90-min markets unaffected).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Sutherland 1X2/DNB - fragile home favourite (0/2 home)",
+   "Over 2.5 1.43 (known totals 1-3)",
+   "Canberra +1.5/+2.5 catches (fav p>=0.60 rule)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://football360.com.au/australian-championship-results-broadmeadow-avondale-jyden-harb-marconi-oakleigh/",
+   "https://australianchampionship.com.au/fixtures",
+   "https://en.wikipedia.org/wiki/2026_Australian_Championship",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74058672",
+  "fx": "Citizen AA v Kui Tan SC",
+  "home_form": "Citizen last10: L1-4 h Resources Capital, W1-0 a Tung Sing, L0-2 a WSE, D2-2 a Hoi King, L0-3 h Yuen Long, D1-1 h Sham Shui Po, W3-1 h Lucky Mile, W2-1 a Leaper, W2-1 h South China. Home totals 5,3,2,4,3.",
+  "away_form": "Kui Tan last9: W2-0 h Supreme, L0-6 h Resources, L1-2 a Bright Cerulean, L1-2 h Sham Shui Po, D3-3 a Lucky Mile, L1-4 a Central & Western, W2-1 h Hoi King, L0-6 a Yuen Long, L1-3 h WSE. Away: 3, 6, 5, 6 total goals.",
+  "trends": {
+   "game_totals": "Citizen home Over 2.5 in 4/5; Kui Tan away Over 2.5 in 4/4 (conceded 2,3,4,6).",
+   "team_totals": "Kui Tan conceded 2+ in 7/9.",
+   "first_half": "No period data.",
+   "handicap": "Citizen home losses only to top sides (Resources, Yuen Long).",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "None found (thin coverage).",
+  "context": "HK First Division (tier 2), 15 Nov 13:30 HKT. Coverage thin; only aggregator data.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.4,
+    "p": 0.672528,
+    "why": "Kui Tan away games 3,6,5,6 goals and conceded 2+ in 7/9; Citizen home Over 2.5 in 4/5. Thin-coverage league - low stake."
+   }
+  ],
+  "avoid": [
+   "Citizen DNB 1.36 (lost 2 of last 5 at home)",
+   "Unders"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.aiscore.com/team-resources-capital-fc/oj7x9iw1x8ar7g3",
+   "https://m.aiscore.com/tournament-chinese-hong-kong-first-division/0m2q15ijlup76xw/matches",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74058670",
+  "fx": "Sham Shui Po SA v Resources Capital FC",
+  "home_form": "Sham Shui Po last10: W1-0 h WSE, L0-1 h South China, L1-4 h Yuen Long, W2-1 a Kui Tan, L1-3 h Supreme, D1-1 a Citizen, W2-1 h Leaper, L1-2 a Tung Sing, L0-1 a Hoi King. Home totals 1,1,5,4,3.",
+  "away_form": "Resources Capital (leaders) last: W4-1 a Citizen, W6-0 a Kui Tan, W9-0 a Supreme, D2-2 h WSE, W4-3 a Central & Western, W10-1 a Bright Cerulean, D1-1 h South China, W5-1 h Hoi King. 20+ goals in 6 per AiScore.",
+  "trends": {
+   "game_totals": "Resources games 5,6,9,4,7,11,2,6 -> Over 2.5 in 7/8; all 5 away games 5+ goals.",
+   "team_totals": "Resources scored 4+ in 6/8 (all 5 away games).",
+   "first_half": "No period data.",
+   "handicap": "Resources won by 3+ in 5/8 (-2.5 is ~coin flip).",
+   "corners": "n/a"
+  },
+  "h2h": "Sham Shui Po 0-0 Resources (May 2026, previous season).",
+  "absences": "None found.",
+  "context": "HK First Division; Resources runaway leaders, SSP mid-table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.23,
+    "p": 0.7716831543,
+    "why": "Resources' five away games all had 5+ goals (scored 4,6,9,4,10); Over 2.5 in 7/8. Caveat: SSP home games 1-0, 0-1 recently and a 0-0 H2H last season."
+   }
+  ],
+  "avoid": [
+   "Resources 1X2 1.11 (sub-1.15 padding)",
+   "Resources -2.5 coin flip"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.aiscore.com/team-resources-capital-fc/oj7x9iw1x8ar7g3",
+   "https://m.aiscore.com/tournament-chinese-hong-kong-first-division/0m2q15ijlup76xw/matches",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ }
+]
