@@ -1,0 +1,753 @@
+[
+ {
+  "eid": "sr:match:72319218",
+  "fx": "Zorg En Zekerheid Leiden v BC Oostende",
+  "home_form": "Zorg En Zekerheid last 10 (Sportradar, all comps, HT in brackets): 07/11/26 A Union Mons-Hainaut 99-79(HT 47-47); 31/10/26 H Groningen 83-96(HT 39-43); 24/10/26 A Leuven Bears 64-67(HT 25-25); 17/10/26 H Aalst 92-77(HT 42-41); 10/10/26 H Brussels 61-77(HT 36-39); 02/10/26 A Rotterdam City Basketball 76-71(HT 32-38); 19/09/26 A Kangoeroes Mechelen 92-73(HT 52-27); 12/09/26 H Paderborn 85-82(HT 43-42); 10/06/26 A Landstede Hammers 74-90(HT 47-46); 07/06/26 H Landstede Hammers 61-75(HT 34-38)",
+  "away_form": "BC Oostende last 10: 11/11/26 H BK Levicki Patrioti 71-70(HT 34-44); 08/11/26 H Antwerp Giants 71-82(HT 41-42); 04/11/26 H Szolnoki 86-77(HT 44-45); 31/10/26 H Leuven Bears 66-54(HT 31-33); 28/10/26 A Zielona Gora 77-80(HT 38-50); 23/10/26 A Spirou Charleroi 70-65(HT 32-33); 20/10/26 H Dinamo Bucuresti 84-80(HT 36-36); 16/10/26 A Brussels 64-81(HT 28-44); 13/10/26 H Basquet Girona 76-91(HT 34-42); 10/10/26 H Landstede Hammers 98-70(HT 40-38)",
+  "trends": {
+   "game_totals": "Oostende last 8 totals: 141,153,163,120,157,135,164,145 (avg 147); Leiden last 6: 178,179,131,169,138,147. Line 156.5.",
+   "team_totals": "Oostende scored 71,71,86,66,77,70,84,64 in last 8 (6/8 under 81.5; BNXT-only 71,66,70,64 after a 98 v Landstede). Leiden conceded 79,96,67,77,77,71.",
+   "first_half": "Oostende first halves 34,41,44,31,38,32,36,28 (avg 35.5); Leiden HT totals 94,82,50,83,75,70.",
+   "handicap": "Leiden home: lost 83-96 Groningen, lost 61-77 Brussels, beat Aalst 92-77. Oostende lost at home to Antwerp (-11), at Brussels (-17); won at Charleroi (+5).",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "Club preview: Leiden won the away meeting earlier this season (text truncated); no score verified.",
+  "absences": "None reported in the Leiden club preview (11 Nov). Leiden starters named: Gillet, Mennes.",
+  "context": "BNXT round 7, Sat 20:00 CET in Leiden (club site and Sportradar agree). Both 3-3. Oostende play their 3rd game in 7 days (8 Nov Antwerp, 11 Nov FIBA Europe Cup v Levice, both at home) and travel; Leiden had a full week.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "228",
+    "spec": "total=83.5",
+    "desc": "Under 83.5",
+    "odds": 1.53,
+    "p": 0.5955778673,
+    "why": "Oostende under 83.5 in 6 of last 8 (all four recent BNXT games 64-71 points); third game in seven days after a Wednesday European tie; Leiden concede ~78. House p 0.60: below the totals gate, treat as singles-grade only."
+   }
+  ],
+  "avoid": "Oostende ML 1.35 (away ML p 0.70 < 0.75; schedule load, lost at Brussels by 17). Game Over.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eredivisiebasketballleiden.nl/actueel/nieuws/bericht/zz-leiden-staat-voor-kraker-tegen-coretec-oostende",
+   "https://www.proballers.com/basketball/league/100063/bnxt-league/schedule",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72319228",
+  "fx": "Antwerp Giants v Brussels Basketball",
+  "home_form": "Antwerp Giants last 10 (Sportradar, all comps, HT in brackets): 08/11/26 A BC Oostende 82-71(HT 42-41); 03/11/26 A Salon Vilpas 69-77(HT 42-38); 31/10/26 H Limburg United 88-80(HT 39-43); 24/10/26 H Kangoeroes Mechelen 109-75(HT 59-35); 21/10/26 A AEK Athens 103-76(HT 48-50); 17/10/26 A Heroes Den Bosch 125-86(HT 54-50); 10/10/26 H Kortrijk Spurs 113-106(HT 46-45) OT; 07/10/26 H KC Szombathely 99-93(HT 54-45); 03/10/26 A Union Mons-Hainaut 100-63(HT 48-24); 26/09/26 A Landstede Hammers 83-76(HT 36-36) OT",
+  "away_form": "Brussels last 10: 08/11/26 H Aalst 91-77(HT 53-35); 30/10/26 H Spirou Charleroi 66-81(HT 28-45); 25/10/26 A Landstede Hammers 89-65(HT 39-39); 16/10/26 H BC Oostende 81-64(HT 44-28); 10/10/26 A Zorg En Zekerheid 77-61(HT 39-36); 06/10/26 H Cb Liege 94-70(HT 42-43); 17/05/26 H BC Oostende 64-77(HT 35-36); 15/05/26 A BC Oostende 77-97(HT 36-52); 09/05/26 A BC Oostende 53-84(HT 27-46); 06/05/26 H Kangoeroes Mechelen 56-57(HT 33-27)",
+  "trends": {
+   "game_totals": "Antwerp BNXT totals: 153,168,184,211,219(OT),163,159(OT). Brussels: 168,147,154,145,138,164. Line 165.5.",
+   "team_totals": "Antwerp scored 82,88,109,125,113(OT),100 in BNXT; Brussels concede only 77,81,65,64,61,70 (best defence faced by Antwerp).",
+   "first_half": "Antwerp HT points 42,39,59,54,46,48; Brussels HT conceded 35,45,39,28,36,43.",
+   "handicap": "Antwerp unbeaten in BNXT in the sample (won at Oostende +11, at Den Bosch +39, v Mechelen +34). Brussels 5-1, only loss -15 at home to Charleroi. Line -10.5.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "BNXT round 7, Lotto Arena, 20:30 CET (club site). Top-of-table game: Antwerp v a 5-1 Brussels with the stingiest defence in the sample. Antwerp played FIBA Europe Cup on 3 Nov; a full week off since 8 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Antwerp -10.5 (Brussels concede 70/g and are 5-1); Antwerp ML is 1.17, under the 1.18 floor. Antwerp team Over (strength v strength).",
+  "confidence": 0.15,
+  "sources": [
+   "https://antwerpgiants.be/",
+   "https://www.proballers.com/basketball/league/100063/bnxt-league/schedule",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72319222",
+  "fx": "Leuven Bears v Kangoeroes Basket Mechelen",
+  "home_form": "Leuven Bears last 10 (Sportradar, all comps, HT in brackets): 08/11/26 A Heroes Den Bosch 81-86(HT 47-46); 31/10/26 A BC Oostende 54-66(HT 33-31); 24/10/26 H Zorg En Zekerheid 67-64(HT 25-25); 17/10/26 H Kortrijk Spurs 72-69(HT 42-35); 06/10/26 A Groningen 78-81(HT 30-40); 03/10/26 H Spirou Charleroi 69-65(HT 45-32); 09/09/26 A Aalst 93-104(HT 29-48); 04/09/26 H Asc Denain Voltaire Ph 78-82; 09/05/26 A Basketball Academie Limburg 77-65(HT 31-29); 06/05/26 H Landstede Hammers 69-61(HT 35-33)",
+  "away_form": "Kangoeroes Mechelen last 10: 07/11/26 H Kortrijk Spurs 83-93(HT 44-38); 30/10/26 A Heroes Den Bosch 86-95(HT 40-48); 24/10/26 A Antwerp Giants 75-109(HT 35-59); 17/10/26 H Cb Liege 96-78(HT 57-41); 10/10/26 H Aalst 79-94(HT 49-42); 02/10/26 A Limburg United 109-100(HT 52-53); 19/09/26 H Zorg En Zekerheid 73-92(HT 27-52); 17/05/26 H Aalst 85-90(HT 52-40); 15/05/26 A Aalst 84-93(HT 46-49); 09/05/26 H Rotterdam City Basketball 97-73(HT 52-23)",
+  "trends": {
+   "game_totals": "Leuven home totals 131,141,134 (very low); away 167,120,159. Mechelen totals 176,181,184,174,173,209,165. Line 158.5 sits between two opposite profiles.",
+   "team_totals": "Leuven scored 81,54,67,72,78,69 (never above 81); Mechelen concede 93,95,109,78,94,100,92.",
+   "first_half": "Leuven HT totals at home 50,77,77; Mechelen HT totals 82,88,94,98,91.",
+   "handicap": "Leuven 3-0 at home, all by 3-4 points. Mechelen lost 5 of last 6 (by 10, 9, 34, 15, 19).",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "BNXT round 7, 20:30 CET. No preview or team news located. Style clash (slow Leuven v leaky, fast Mechelen) makes totals unreadable.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All totals (conflicting profiles). Leuven -2.5: their home wins are all one-possession games.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.proballers.com/basketball/league/100063/bnxt-league/schedule",
+   "https://en.wikipedia.org/wiki/BNXT_League",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72319220",
+  "fx": "Okapi Aalst v Heroes Den Bosch",
+  "home_form": "Aalst last 10 (Sportradar, all comps, HT in brackets): 08/11/26 A Brussels 77-91(HT 35-53); 31/10/26 H Union Mons-Hainaut 83-69(HT 44-44); 25/10/26 H Groningen 114-90(HT 59-53); 17/10/26 A Zorg En Zekerheid 77-92(HT 41-42); 10/10/26 A Kangoeroes Mechelen 94-79(HT 42-49); 03/10/26 H BC Oostende 95-87(HT 48-41); 09/09/26 H Leuven Bears 104-93(HT 48-29); 29/05/26 H BC Oostende 77-83(HT 40-43); 26/05/26 A BC Oostende 60-78(HT 25-40); 24/05/26 H BC Oostende 101-97(HT 45-47)",
+  "away_form": "Heroes Den Bosch last 10: 08/11/26 H Leuven Bears 86-81(HT 46-47); 30/10/26 H Kangoeroes Mechelen 95-86(HT 48-40); 23/10/26 A Cb Liege 80-71(HT 36-51); 17/10/26 H Antwerp Giants 86-125(HT 50-54); 09/10/26 H Rotterdam City Basketball 79-50(HT 33-21); 04/10/26 A Landstede Hammers 59-70(HT 34-31); 29/05/26 A Landstede Hammers 57-72(HT 21-37); 26/05/26 H Landstede Hammers 71-86(HT 39-36); 24/05/26 A Landstede Hammers 63-70(HT 33-30); 22/05/26 H Landstede Hammers 76-56(HT 46-27)",
+  "trends": {
+   "game_totals": "Aalst home totals 152,204,182,197; Den Bosch totals 167,181,151,211,129,129. Line 173.5.",
+   "team_totals": "Aalst home scores 83,114,95,104; Den Bosch conceded 81,86,71,125,50,70.",
+   "first_half": "Aalst home HT points 44,59,48,48.",
+   "handicap": "Aalst home wins by 14, 24, 8, 11; away losses by 14 and 15. Den Bosch 4-2 lately but lost 86-125 to Antwerp. Line -10.5 looks rich against a 4-2 side.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "BNXT round 7, 20:30 CET. No preview located. House makes Aalst 82% although Den Bosch won 4 of their last 5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Aalst -10.5 and Aalst ML 1.16 (under odds floor; Den Bosch form does not match an 82% price - possible unseen absence, unverified).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.proballers.com/basketball/league/100063/bnxt-league/schedule",
+   "https://en.wikipedia.org/wiki/BNXT_League",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:74131964",
+  "fx": "FC Universitatea Cluj v KD Ilirija",
+  "home_form": "Universitatea Cluj last 10 (Sportradar, all comps, HT in brackets): 10/11/26 H Turk Telekom 81-89(HT 33-52); 08/11/26 H Bosna Royal 91-93(HT 52-42); 05/11/26 A Canarias 73-113(HT 41-59); 02/11/26 A Partizan Belgrade 77-97(HT 49-57); 27/10/26 A Skyliners 97-113(HT 51-62); 23/10/26 H Studentski Centar 100-78(HT 53-46); 21/10/26 H L. Lions 72-89(HT 37-40); 18/10/26 A Spartak Subotica 75-89(HT 34-51); 14/10/26 A Siauliai 94-75(HT 41-40); 11/10/26 H Dubai 85-92(HT 45-36)",
+  "away_form": "KD Ilirija last 10: 11/11/26 A Sencur 99-87(HT 41-45); 07/11/26 H Vienna 60-74(HT 31-37); 04/11/26 A Kk Rogaska 66-77(HT 29-34); 01/11/26 A Studentski Centar 84-82(HT 36-46); 28/10/26 H Helios 79-73(HT 42-45); 25/10/26 A Zadar 70-95(HT 35-40); 21/10/26 H Šentjur 78-62(HT 42-34); 18/10/26 H Mega Basket 96-62(HT 43-37); 14/10/26 A Zlatorog 93-69(HT 50-26); 10/10/26 H Spartak Subotica 76-82(HT 39-38)",
+  "trends": {
+   "game_totals": "Cluj totals 170,184,186,174,210,178,161,164,169,177; Ilirija ABA games 166 (SC), 165 (Zadar), 158 (Mega), 158 (Spartak). Line 173.5.",
+   "team_totals": "Cluj conceded 89,93,113,97,113,78,89,89 in last 8; Ilirija scored 84,70,96,76 in ABA games.",
+   "first_half": "Cluj trailed at HT in 6 of last 8.",
+   "handicap": "Cluj lost 7 of last 9, including home defeats to Bosna (91-93), London Lions, Dubai and Turk Telekom; only big win 100-78 v SC Derby. Ilirija beat SC Derby away 84-82, beat Mega by 34, lost at Zadar by 25. Line -13.5.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found (no preview located).",
+  "context": "ABA League, Sat 12:00 CET in Cluj. Cluj played Sun 8 Nov (ABA) and Tue 10 Nov (EuroCup), fourth game in 10 days. Ilirija played Wed 11 Nov at Sencur (domestic) and travel. Promoted Ilirija are 2-2 in the ABA sample.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cluj -13.5 and bigger (Cluj in a 2-7 run with a heavy schedule); Ilirija catch is 13+ for a promoted side, so not a pick either. Cluj ML 1.11 under floor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aba-liga.com/team/100/25/1/0/u-bt-cluj-napoca/",
+   "https://www.aba-liga.com/news/55085/a-new-beginning-u-bt-cluj-napoca-begins-preparations-for-the-2026-2027-season/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:73734708",
+  "fx": "Enisey Krasnoyarsk v BK Uralmash Yekaterinburg",
+  "home_form": "Enisey Krasnoyarsk last 10 (Sportradar, all comps, HT in brackets): 07/11/26 H Dinamo Vladivostok 97-111(HT 47-54); 01/11/26 H MBA Moscow 99-106(HT 46-43) OT; 26/10/26 A Zenit St. Petersburg 86-94(HT 40-45) OT; 17/10/26 H CSKA 59-85(HT 33-40); 14/10/26 H Samara 91-70(HT 39-36); 06/10/26 H Avtodor Saratov 72-74(HT 33-34); 27/09/26 A Lokomotiv Kuban 66-81(HT 37-37); 08/09/26 A Studentski Centar 78-76(HT 40-48); 06/09/26 A Studentski Centar 63-75; 03/05/26 H CSKA 65-94(HT 23-51)",
+  "away_form": "BK Uralmash Yekaterinburg last 10: 07/11/26 H MBA Moscow 101-85(HT 50-41); 03/11/26 A FMP Belgrade 88-73(HT 37-46); 25/10/26 H Uniks Kazan 68-69(HT 37-35); 21/10/26 H Dinamo Vladivostok 88-79(HT 48-41); 17/10/26 A Samara 94-75(HT 46-40); 14/10/26 A Uniks Kazan 84-95(HT 46-46); 10/10/26 H Parma Permsky Kray 71-86(HT 44-45); 07/10/26 A CSKA 85-90(HT 49-48); 30/09/26 A Avtodor Saratov 80-75(HT 40-37); 25/09/26 A Zenit St. Petersburg 68-92(HT 38-42)",
+  "trends": {
+   "game_totals": "Enisey last 3 totals 208, 205(OT), 180(OT); earlier 144,161,146. Uralmash 186,137,167,169,179,157,175,155. Line 164.5.",
+   "team_totals": "Enisey conceded 111, 106(OT), 94(OT) in last 3 - 106+ in both recent home games (stavka.tv). Uralmash scored 101 v MBA, 88, 94 at Samara; 68 and 71 in two home losses.",
+   "first_half": "Uralmash led at HT in 5 of last 6 VTB games; Enisey trailed at HT 47-54 v Vladivostok.",
+   "handicap": "Enisey 1-6 (10th), five straight losses incl. home -14 to Vladivostok. Uralmash 6th; beat MBA +16, Vladivostok +9, Samara +19, won at Saratov +5.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "2025/26: four meetings, Uralmash won three (two in overtime, 90-84 and 78-71).",
+  "absences": "Enisey: Young out (injury). Uralmash: Dalton out (injury). Source: stavka.tv preview.",
+  "context": "VTB League, 16:00 Krasnoyarsk (09:00 UTC), Arena Sever. Uralmash had a week off after 7 Nov; long trip east.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.37,
+    "p": 0.692222,
+    "why": "Enisey 1-6, five straight defeats, missing Young, and conceded 106+ in both recent home games; Uralmash beat the two sides that just won in Krasnoyarsk (MBA, Vladivostok). Away ML p 0.69 is below the 0.75 ML gate - singles-grade."
+   }
+  ],
+  "avoid": "Enisey +handicap; Uralmash big minus lines (two of last four H2H went to overtime).",
+  "confidence": 0.25,
+  "sources": [
+   "https://stavka.tv/matches/basketball/14-11-2026-enisey-krasnoyarsk-bk-uralmash-yekaterinburg",
+   "https://matchtv.ru/basketball/liga_vtb",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:73734710",
+  "fx": "MBA Moscow v Dinamo Vladivostok",
+  "home_form": "MBA Moscow last 10 (Sportradar, all comps, HT in brackets): 10/11/26 H Avtodor Saratov 103-73(HT 58-36); 07/11/26 A BK Uralmash Yekaterinburg 85-101(HT 41-50); 01/11/26 A Enisey Krasnoyarsk 106-99(HT 43-46) OT; 22/10/26 A Uniks Kazan 56-83(HT 31-39); 18/10/26 A Avtodor Saratov 83-94(HT 50-32); 13/10/26 H Parma Permsky Kray 93-91(HT 45-48); 03/10/26 A Lokomotiv Kuban 87-92(HT 47-41); 27/09/26 H CSKA 65-82(HT 25-55); 08/09/26 A Uniks Kazan 96-92(HT 48-44); 07/09/26 A Zenit St. Petersburg 80-78(HT 36-42)",
+  "away_form": "Dinamo Vladivostok last 10: 11/11/26 A CSKA 75-106(HT 44-58); 07/11/26 A Enisey Krasnoyarsk 111-97(HT 54-47); 30/10/26 H Zenit St. Petersburg 72-83(HT 44-33); 27/10/26 H Avtodor Saratov 98-73(HT 51-26); 21/10/26 A BK Uralmash Yekaterinburg 79-88(HT 41-48); 17/10/26 A Parma Permsky Kray 90-108(HT 46-50); 14/10/26 H CSKA 88-103(HT 41-55); 04/10/26 A Samara 98-84(HT 54-50); 30/09/26 A Uniks Kazan 75-117(HT 43-60); 12/09/26 A Samara 85-83(HT 46-34)",
+  "trends": {
+   "game_totals": "MBA totals 176,186,205(OT),139,177,184,179,147 (6/8 over 170.5); Vladivostok 181,208,155,171,167,198,191,182,192 (7/9 over 170.5). stavka.tv: 75% of MBA games over 175.5, 67% of Vladivostok games over 180.",
+   "team_totals": "MBA scored 103,85,106(OT),56,83,93; Vladivostok scored 75,111,72,98,79,90,88,98 and conceded 106,97,83,73,88,108,103.",
+   "first_half": "HT totals: MBA 94,91,89,70,82,93; Vladivostok 102,101,77,77,89,96,96,104.",
+   "handicap": "MBA 3-5 (7th), Vladivostok 3-6 (8th). MBA home: beat Saratov +30, Parma +2, lost to CSKA -17. Vladivostok won at Enisey +14 and Samara +14, lost at Uralmash -9, Parma -18, CSKA -31.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "First VTB League meeting; three Super League meetings, Vladivostok won two.",
+  "absences": "MBA: Zubkov, Trushkin, Voronov, Ismailov all out injured (stavka.tv). Vladivostok: none listed.",
+  "context": "VTB League, 14:00 Moscow. Vladivostok played at CSKA on Wed 11 Nov and stayed in Moscow (no extra travel); MBA played Tue 10 Nov. Seventh v eighth.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=170.5",
+    "desc": "Over 170.5",
+    "odds": 1.4,
+    "p": 0.674341,
+    "why": "Both sides play high-total games (MBA 6/8, Vladivostok 7/9 above 170.5; Vladivostok concede 94/g) and MBA scored 103 on Tuesday with the same four players missing. p 0.67 is below the 0.74 totals gate - singles-grade."
+   }
+  ],
+  "avoid": "MBA -4.5/-6.5 (four rotation players out; tipster side is Vladivostok +3.5).",
+  "confidence": 0.25,
+  "sources": [
+   "https://stavka.tv/matches/basketball/14-11-2026-mba-moscow-dinamo-vladivostok",
+   "https://matchtv.ru/basketball/liga_vtb",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:73734712",
+  "fx": "BC Samara v CSKA Moscow",
+  "home_form": "Samara last 10 (Sportradar, all comps, HT in brackets): 11/11/26 A Zenit St. Petersburg 56-92(HT 25-50); 03/11/26 A Parma Permsky Kray 68-109(HT 32-52); 25/10/26 H Lokomotiv Kuban 62-92(HT 31-49); 21/10/26 H Zenit St. Petersburg 65-99(HT 32-48); 17/10/26 H BK Uralmash Yekaterinburg 75-94(HT 40-46); 14/10/26 A Enisey Krasnoyarsk 70-91(HT 36-39); 07/10/26 H Uniks Kazan 62-117(HT 29-50); 04/10/26 H Dinamo Vladivostok 84-98(HT 50-54); 26/09/26 A Avtodor Saratov 69-77(HT 36-31); 13/09/26 H Barnaul Altayskiy K. 87-58(HT 49-33)",
+  "away_form": "CSKA last 10: 11/11/26 H Dinamo Vladivostok 106-75(HT 58-44); 08/11/26 H Zenit St. Petersburg 80-68(HT 45-36); 27/10/26 H Parma Permsky Kray 79-57(HT 25-26); 23/10/26 H Avtodor Saratov 117-55(HT 56-30); 17/10/26 A Enisey Krasnoyarsk 85-59(HT 40-33); 14/10/26 A Dinamo Vladivostok 103-88(HT 55-41); 11/10/26 H Lokomotiv Kuban 87-84(HT 54-40); 07/10/26 H BK Uralmash Yekaterinburg 90-85(HT 48-49); 02/10/26 A Parma Permsky Kray 62-86(HT 32-40); 27/09/26 A MBA Moscow 82-65(HT 55-25)",
+  "trends": {
+   "game_totals": "Samara totals 148,177,154,164,169,161,179,182; CSKA totals 181,148,136,172,144,191,171,175. Line 165.5.",
+   "team_totals": "Samara scored 56,68,62,65,75,70,62,84 (<=65 in 4 of last 5; season 67.9/g, worst in the league) and concede 96.6/g. CSKA conceded 75,68,57,55,59 in last 5 (best defence) and scored 106,80,79,117,85,103.",
+   "first_half": "Samara HT points 25,32,31,32,40,36,29 - trailed by 15+ at HT in 5 of last 7. CSKA HT 58,45,25,56,40,55.",
+   "handicap": "Samara 0-9; last five losses by 36, 41, 30, 34, 19, earlier by 55. CSKA 9-0. Line +35.5.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "stavka.tv: CSKA lead the series 12-0; a meeting last season finished 72-109.",
+  "absences": "Samara: Chevarenkov and Sheiko out (stavkiprognozy). CSKA: Elatontsev out.",
+  "context": "VTB League, 17:00 Samara (13:00 UTC). Winless bottom side v unbeaten leader; CSKA played Wed 11 Nov at home. Garbage-time rotation is the main risk to any Samara-side Under (preview expects CSKA to ease off after half-time).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "227",
+    "spec": "total=67.5",
+    "desc": "Under 67.5",
+    "odds": 1.53,
+    "p": 0.603056,
+    "why": "Samara average 67.9 and scored 56-68 in four of the last five, now also without Chevarenkov and Sheiko, against the league's best defence (CSKA allowed 55-75 in the last five). Risk: garbage-time points. p 0.60 - singles-grade only."
+   }
+  ],
+  "avoid": "Samara +33.5/+35.5 (15+ catch for a winless side: banned class, they lost by 30-55 five times). CSKA big minus lines also carry rotation risk.",
+  "confidence": 0.25,
+  "sources": [
+   "https://stavkiprognozy.ru/prognozy/basketball/edinaya-liga-vtb/pro_prognoz-samara-tsska-14-noyabrya-2026",
+   "https://stavka.tv/matches/basketball/14-11-2026-samara-cska-moscow",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:74527788",
+  "fx": "Hapoel Tel-Aviv v Bnei Herzliya Basket",
+  "home_form": "Hapoel Tel-Aviv last 10 (Sportradar, all comps, HT in brackets): 12/11/26 A Maccabi Tel-Aviv 73-80(HT 33-41); 09/11/26 A Maccabi Tel-Aviv 75-86(HT 44-36); 05/11/26 H Barcelona 90-93(HT 46-46); 01/11/26 A Maccabi Tel-Aviv 105-87(HT 59-47); 30/10/26 A Dubai 83-97(HT 40-45); 28/10/26 H Anadolu 118-88(HT 63-41); 25/10/26 H Hapoel Jerusalem 60-70(HT 27-34); 21/10/26 H Virtus Bologna 90-81(HT 36-48); 18/10/26 H Ashdod 81-67(HT 46-48); 16/10/26 A Panathinaikos 91-81(HT 48-46)",
+  "away_form": "Bnei Herzliya last 10: 09/11/26 H Ashdod 72-75(HT 33-41); 04/11/26 A Bonn 89-101(HT 48-48); 01/11/26 A Ironi Kiryat ATA 87-97(HT 50-51); 26/10/26 H Hapoel Eilat 96-93(HT 36-46); 21/10/26 H Porto 74-86(HT 29-47); 18/10/26 A Ironi Ness Ziona 103-96(HT 39-39) OT; 12/10/26 H Ironi Ramat Gan 79-89(HT 42-51); 06/10/26 A Badalona 75-86(HT 33-42); 25/09/26 A Hapoel Jerusalem 68-88(HT 29-41); 17/09/26 H Rishon 99-79(HT 54-36)",
+  "trends": {
+   "game_totals": "Hapoel TA totals in domestic games 148 (Ashdod), 130 (Jerusalem); Herzliya totals 147,184,189,168,199(OT),168. Line 175.5.",
+   "team_totals": "Hapoel TA scored 81 and 60 in their two league home games in the sample; Herzliya concede 75,97,93,96(OT),89,88.",
+   "first_half": "Hapoel TA HT 46 and 27 in those league games.",
+   "handicap": "Hapoel TA lost 4 of last 5 (three to Maccabi, one to Barcelona) and lost 60-70 at home to Jerusalem; beat Ashdod by 14. Herzliya lost 5 of last 7, incl. home to Ashdod. Line -16.5.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "Hapoel TA played the Winner Cup final without Vasilije Micic and Tomas Satoransky (Jerusalem Post, ~2 days old); status for today not confirmed. Herzliya: none found.",
+  "context": "Israeli league, 18:30 local (16:30 UTC). Hapoel TA played Maccabi three times in 12 days plus EuroLeague; last game Thu 12 Nov, so one rest day and likely rotation. Herzliya also in FIBA Europe Cup.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hapoel TA -16.5 and wider (two guards possibly out, congested schedule, league home wins by 14 at most). Herzliya catch is a 15+ line for a weak side: banned class. ML 1.05 under floor.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sport1.maariv.co.il/israeli-basketball/winner-basketball-league/article/1996627/",
+   "https://jpost.com/israel-news/sports/article-914513",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:74527790",
+  "fx": "Maccabi Tel-Aviv v Hapoel Jerusalem",
+  "home_form": "Maccabi Tel-Aviv last 10 (Sportradar, all comps, HT in brackets): 12/11/26 H Hapoel Tel-Aviv 80-73(HT 41-33); 09/11/26 H Hapoel Tel-Aviv 86-75(HT 36-44); 06/11/26 A Partizan Belgrade 67-88(HT 35-50); 01/11/26 H Hapoel Tel-Aviv 87-105(HT 47-59); 29/10/26 H Paris Basketball 94-99(HT 36-35); 27/10/26 A Crvena zvezda 78-100(HT 30-55); 24/10/26 A Rishon 90-93(HT 34-45) OT; 22/10/26 H Madrid 99-113(HT 52-51); 18/10/26 H Ironi Kiryat ATA 116-89(HT 65-31); 15/10/26 A Valencia 91-88(HT 50-48)",
+  "away_form": "Hapoel Jerusalem last 10: 11/11/26 A Derthona Basket 91-77(HT 48-50); 08/11/26 H Hapoel Haemek 65-59(HT 32-31); 04/11/26 H Aris 84-73(HT 35-40); 01/11/26 H Hapoel Eilat 88-78(HT 43-37); 28/10/26 A Le Mans 90-83(HT 48-40); 25/10/26 A Hapoel Tel-Aviv 70-60(HT 34-27); 21/10/26 H Rigas Zelli 100-64(HT 50-36); 17/10/26 H Hapoel Beer Sheva 88-74(HT 42-34); 14/10/26 A San Pablo Burgos 85-84(HT 46-39); 11/10/26 A Hapoel Holon 92-69(HT 43-37)",
+  "trends": {
+   "game_totals": "Maccabi totals 153,161,155,192,193,178,183(OT),212,205,179; Jerusalem 168,124,157,166,173,130,164,162,169,161 (all 10 under 175). Line 171.5.",
+   "team_totals": "Jerusalem concede 77,59,73,78,83,60,64,74,84,69 (avg 72); Maccabi scored 80,86,67,87 in last four.",
+   "first_half": "Jerusalem HT conceded 50,31,40,37,40,27,36,34.",
+   "handicap": "Jerusalem 10-0 in last 10 (12-0 in league + EuroCup), incl. 70-60 at Hapoel Tel Aviv and wins at Le Mans, Burgos, Derthona. Maccabi 4-6 in last 10, wins over Hapoel TA by 7 and 11.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "Maccabi beat Jerusalem in the Winner Cup semi-final this autumn (Jerusalem coach: \"we played 22 good minutes\").",
+  "absences": "Maccabi: Oshae Brissett expected out (hip), Yam Madar doubtful (broken nose), Daniel Theis not yet registered for the league, Kamar Baldwin not yet arrived. Jerusalem: Lorenzo Brown not expected to dress.",
+  "context": "Israeli league, 20:55 local at Menora Hall. Unbeaten leaders v Maccabi, who played Thu 12 Nov; Jerusalem played Wed 11 Nov in Italy. Big-club clash: no result-side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-8.5",
+    "desc": "Away (+8.5)",
+    "odds": 1.42,
+    "p": 0.670415,
+    "why": "Jerusalem are unbeaten in 12 (league + EuroCup) with a defence allowing 72/g and already won 70-60 at Hapoel Tel Aviv; Maccabi are without Brissett, Theis and Baldwin with Madar doubtful. Credible receiver at +8.5; risk is Lorenzo Brown's absence and the cup semi-final loss."
+   }
+  ],
+  "avoid": "Maccabi ML / minus handicap (big-club clash, absences). Game Over (Jerusalem games all under 175).",
+  "confidence": 0.3,
+  "sources": [
+   "https://sport1.maariv.co.il/israeli-basketball/winner-basketball-league/article/1996627/",
+   "https://www.ynet.co.il/sport/israelibasketball/article/bjlolsnrml",
+   "https://sport1.maariv.co.il/israeli-basketball/%D7%A0%D7%91%D7%97%D7%A8%D7%95%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%91%D7%9B%D7%93%D7%95%D7%A8%D7%A1%D7%9C/article/1996583",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432164",
+  "fx": "Pallacanestro Reggiana v Pallacanestro Varese",
+  "home_form": "Reggiana last 10 (Sportradar, all comps, HT in brackets): 07/11/26 H Venezia 78-83(HT 46-39); 03/11/26 A Malaga 94-99(HT 43-43); 31/10/26 A Treviso 68-81(HT 39-47); 25/10/26 H Pallacanestro Cantu 81-60(HT 38-39); 21/10/26 H Utena 75-76(HT 50-47); 18/10/26 A Verona 81-94(HT 46-57); 11/10/26 H Derthona Basket 93-86(HT 47-48); 06/10/26 H Pardubice 82-65(HT 39-29); 03/10/26 A Napoli Basket 93-99(HT 49-50); 26/09/26 H Trento 78-83(HT 43-46)",
+  "away_form": "Varese last 10: 11/11/26 A Peristeri Athens 96-101(HT 47-58); 08/11/26 H Udine 81-84(HT 49-40); 31/10/26 A Verona 99-88(HT 50-44); 27/10/26 A Bamberg 95-61(HT 46-26); 24/10/26 H BC Roma Spqr 110-103(HT 49-45) OT; 18/10/26 A Trento 85-87(HT 41-49); 13/10/26 H Peristeri Athens 82-85(HT 52-37); 10/10/26 H Trieste 85-84(HT 40-38); 07/10/26 A Murcia 58-85(HT 22-39); 04/10/26 A B. Scafati 85-77(HT 40-38)",
+  "trends": {
+   "game_totals": "Reggiana totals 161,193,149,141,151,175,179,147,192,161; Varese 197,165,187,156,213(OT),172,167,169. Line 168.5.",
+   "team_totals": "Reggiana: 4th best defence in Serie A (Sportando). Varese scored 96,81,99,95,110(OT),85 and are last in rebound differential.",
+   "first_half": "Varese HT totals 105,89,94,72,94,90; Reggiana 85,86,86,77.",
+   "handicap": "Reggiana lost 4 of last 5 (Venezia -5, Malaga -5, Treviso -13, Utena -1), 2 league wins. Varese 4-3, won at Verona +11 and Bamberg +34, lost at home to Udine and at Peristeri.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None reported in the previews found.",
+  "context": "Serie A, Sat 20:00 CET at PalaBigi (Sportando, club calendars and Sportradar agree). Varese played Wed 11 Nov in Athens (FIBA Europe Cup) and travel; Reggiana have had a full week since 7 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reggiana ML/-3.5 (home side in poor form; 2 league wins). Totals (profiles conflict).",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportando.basketball/pallacanestro-reggiana-pallacanestro-varese-2026-2027/",
+   "https://www.pallacanestroreggiana.it/calendario/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432154",
+  "fx": "BC Roma Spqr v Scaligera Basket Verona",
+  "home_form": "BC Roma Spqr last 10 (Sportradar, all comps, HT in brackets): 11/11/26 H Ulm 83-78(HT 35-34); 08/11/26 A Trieste 100-116(HT 56-58); 03/11/26 A PAOK 111-113(HT 60-61); 31/10/26 H B. Scafati 103-90(HT 51-53); 27/10/26 H Bosna Royal 80-85(HT 41-43); 24/10/26 A Varese 103-110(HT 45-49) OT; 20/10/26 A Manresa 88-108(HT 46-57); 17/10/26 H Venezia 98-104(HT 55-46); 13/10/26 H Balkan Botevgrad 77-72(HT 29-33) OT; 11/10/26 A Maxima Roma 95-96(HT 57-52)",
+  "away_form": "Verona last 10: 09/11/26 A Virtus Bologna 81-95(HT 36-42); 31/10/26 H Varese 88-99(HT 44-50); 25/10/26 A Trieste 99-108(HT 53-51); 18/10/26 H Reggiana 94-81(HT 57-46); 11/10/26 A B. Scafati 89-82(HT 52-47); 05/10/26 H Milan 75-72(HT 44-38); 27/09/26 A Derthona Basket 93-101(HT 48-52); 16/09/26 A Reggiana 69-77(HT 34-39); 12/09/26 H Trento 78-86(HT 38-47); 14/06/26 A Rinascita Basket Rimini 83-75(HT 46-44)",
+  "trends": {
+   "game_totals": "Roma totals 161,216,224,193,165,213(OT),196,202,149(OT),191; Verona 176,187,207,175,171,147. Line 185.5 already prices the pace.",
+   "team_totals": "Roma: best attack in the league (100.1 ppg, 51.9% FG) but concede 99.3 (16th). Verona concede 91.1 (14th), 40.4% from three allowed (15th); first in rebound differential (+9.1).",
+   "first_half": "Roma HT points 35,56,60,51,41,45,46,55.",
+   "handicap": "Roma 2 league wins (level with Reggio and Derthona); beat Scafati +13 and Ulm +5 at home, lost at home to Venezia -6. Verona lost three straight (Bologna -14, Varese -11 at home, Trieste -9).",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "Verona: CJ Massinburg (calf), Isaiah Brockington (soleus) and Maodo Mane (pectineus) all out - coach Ramagli calls it an emergency (Sportando, L'Arena). Roma: none reported.",
+  "context": "Serie A round 8, Sat 14 Nov 20:30 CET at PalaTiziano. One search summary read Verona's club calendar as 15 Nov 18:00; the calendar page itself shows 14 Nov 20:30, matching Sportando and Sportradar - no conflict. Roma played EuroCup on Wed 11 Nov (home).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.45,
+    "p": 0.6700450261,
+    "why": "Verona travel without three rotation players (Massinburg, Brockington, Mane) on a three-game losing run; Roma have the league's best attack and are at home. Roma's own defence (99 conceded) and midweek EuroCup game are the risk; p 0.67 is below the ML gate - singles-grade."
+   }
+  ],
+  "avoid": "Roma -5.5 and wider (Roma concede 99/g). Verona team Over is tempting but short-handed.",
+  "confidence": 0.28,
+  "sources": [
+   "https://sportando.basketball/bc-roma-tezenis-verona-la-situazione-e-come-vederla-in-tv/",
+   "https://www.larena.it/argomenti/sport/scaligera-basket-verona/tezenis-a-roma-senza-massinburg-e-brockington-ma-serve-invertire-la-rotta-1.13183589",
+   "https://www.scaligerabasket.it/stagione/calendario/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696316",
+  "fx": "Alvark Tokyo v Hiroshima Dragonflies",
+  "home_form": "A. Tokyo last 10 (Sportradar, all comps, HT in brackets): 11/11/26 H Nagasaki Velca 82-73(HT 33-40); 08/11/26 H San-En 88-67(HT 43-33); 06/11/26 A Sendai 69-96(HT 32-43); 04/11/26 A Tainan TSG Ghosthawks 85-90(HT 40-32); 01/11/26 H Utsunomiya Brex 106-71(HT 51-25); 31/10/26 H Utsunomiya Brex 100-90(HT 44-46); 26/10/26 A Saga Ballooners 112-88(HT 61-30); 24/10/26 H Mikawa 82-91(HT 37-44); 22/10/26 H Ibaraki 66-69(HT 41-40); 19/10/26 H Akita 90-74(HT 44-34)",
+  "away_form": "Hiroshima last 10: 11/11/26 H Sendai 91-106(HT 48-60); 06/11/26 H Nagasaki Velca 80-73(HT 36-41); 01/11/26 A Shimane 74-73(HT 41-40); 31/10/26 A Shimane 95-88(HT 45-47); 26/10/26 A Yokohama 90-64(HT 50-32); 24/10/26 H Hokkaido 93-96(HT 43-40); 21/10/26 H Akita 98-84(HT 55-50); 19/10/26 H San-En 77-75(HT 52-40); 17/10/26 A Altiri Chiba 89-71(HT 52-38); 10/10/26 H Shiga 111-105(HT 39-36) OT",
+  "trends": {
+   "game_totals": "Tokyo totals 155,155,165,175,177,190,200,173,135,164; Hiroshima 197,153,147,183,154,189,182,152,160. Line 171.5.",
+   "team_totals": "Tokyo average 92.6 ppg (chugoku-np) with 45.6% of shots from three; Hiroshima offensive rebounding 37.1% (15.7 per game in last 10).",
+   "first_half": "Tokyo HT 33,43,32,40,51,44; Hiroshima HT 48,36,41,45,50.",
+   "handicap": "Hiroshima 13 wins in last 14 B.League games per scores24, but lost 91-106 at home to Sendai on Wed. Tokyo 6-4 in last 10 with home losses to Mikawa and Ibaraki.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "12 official meetings in Tokyo: Alvark 10 wins, Hiroshima 2 (scores24).",
+  "absences": "None found in the club page or the Chugoku Shimbun preview.",
+  "context": "B.League Premier, 17:05 JST at Toyota Arena Tokyo (club page confirms). East 2nd v West 2nd; both played Wed 11 Nov. House makes Hiroshima a 57% road favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Either ML (near coin-flip, strong H2H for Tokyo against strong form for Hiroshima).",
+  "confidence": 0.15,
+  "sources": [
+   "https://info.alvark-tokyo.jp/gamelp_2627/game_20261114",
+   "https://www.chugoku-np.co.jp/articles/-/921728",
+   "https://scores24.live/ja/basketball/m-14-11-2026-alvark-tokyo-hiroshima-dragonflies-prediction",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:73659008",
+  "fx": "BC Siauliai v Gargzdai Basketball",
+  "home_form": "Siauliai last 10 (Sportradar, all comps, HT in brackets): 11/11/26 H Canarias 71-86(HT 27-38); 08/11/26 A Kedainiai 83-76(HT 41-49); 04/11/26 A Venezia 77-98(HT 39-52); 31/10/26 H Taurages Taurage 81-91(HT 49-39); 28/10/26 H Maxima Roma 98-93(HT 49-49); 25/10/26 A N. Klaipeda 88-110(HT 40-51); 20/10/26 A Turk Telekom 94-84(HT 43-45); 17/10/26 H Rytas Vilnius 88-95(HT 42-48); 14/10/26 H Universitatea Cluj 75-94(HT 40-41); 11/10/26 H Utena 83-71(HT 41-53)",
+  "away_form": "Gargzdai last 10: 08/11/26 A Jonava 91-70(HT 37-36); 02/11/26 A Kedainiai 76-87(HT 42-49); 27/10/26 H Taurages Taurage 81-78(HT 41-41); 24/10/26 H Panevezys 83-80(HT 39-37); 18/10/26 A Utena 90-100(HT 51-57); 14/10/26 A Kedainiai 101-86(HT 45-38); 11/10/26 A Taurages Taurage 102-82(HT 51-48); 06/10/26 H BC Jurbarkas-Karys 79-75(HT 45-41); 03/10/26 A Rytas Vilnius 105-102(HT 51-48); 26/09/26 H N. Klaipeda 87-78(HT 34-44)",
+  "trends": {
+   "game_totals": "Siauliai totals 157,159,175,172,191,198,178,183,169,154; Gargzdai 161,163,159,163,190,187,184,154,207,165. Line 172.5.",
+   "team_totals": "Siauliai concede 86,76,98,91,93,110,84,95,94; Gargzdai scored 91,76,81,83,90,101,102.",
+   "first_half": "Gargzdai led or were level at HT in 6 of last 10.",
+   "handicap": "Siauliai home: lost to Canarias -15, Taurage -10, Rytas -7, Cluj -19; beat Roma +5, Utena +12. Gargzdai 7-3 in last 10 incl. wins at Rytas, v Lietkabelis, at Kedainiai and Taurage (+20); losses by 11 and 10.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "LKL, Siauliai Arena; schedule sites say 16:30 local, board/Sportradar 16:50 (TV slot) - same day and venue. Siauliai play their 4th game in 11 days (Venice 4 Nov, Kedainiai 8 Nov, Canarias 11 Nov in the FIBA Europe Cup); Gargzdai have rested since 8 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-8.5",
+    "desc": "Away (+8.5)",
+    "odds": 1.42,
+    "p": 0.670213,
+    "why": "Siauliai are on a fourth game in 11 days after Wednesday's European loss and have lost four of their last six at home; Gargzdai are 7-3 with wins at Rytas and over Lietkabelis, and their worst defeat in ten is 11 points."
+   }
+  ],
+  "avoid": "Siauliai ML 1.51 / -4.5 (fatigue, poor home record).",
+  "confidence": 0.27,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/lkl/",
+   "https://lkl.lt/",
+   "https://www.krepsinis.net/rezultatai/lkl",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:73659012",
+  "fx": "Taurages Krepsinio Klubas v BC Lietkabelis Panevezys",
+  "home_form": "Taurages Taurage last 10 (Sportradar, all comps, HT in brackets): 11/11/26 A Kedainiai 79-90(HT 37-45); 07/11/26 A N. Klaipeda 80-82(HT 43-34); 03/11/26 A BC Jurbarkas-Karys 77-91(HT 39-43); 31/10/26 A Siauliai 91-81(HT 39-49); 27/10/26 A Gargzdai 78-81(HT 41-41); 24/10/26 H Kedainiai 80-76(HT 43-40); 21/10/26 H Rytas Vilnius 71-79(HT 41-33); 18/10/26 A Zalgiris 76-96(HT 42-43); 11/10/26 H Gargzdai 82-102(HT 48-51); 07/10/26 H Kedainiai 81-76(HT 49-36)",
+  "away_form": "Panevezys last 10: 11/11/26 A Bahcesehir 61-99(HT 35-47); 07/11/26 H Rytas Vilnius 85-81(HT 42-46); 04/11/26 H Manresa 66-80(HT 28-45); 31/10/26 H N. Klaipeda 99-79(HT 48-53); 27/10/26 H Ulm 68-86(HT 42-50); 24/10/26 A Gargzdai 80-83(HT 37-39); 20/10/26 A Balkan Botevgrad 64-57(HT 33-25); 17/10/26 A Kedainiai 73-72(HT 42-28); 13/10/26 H PAOK 95-86(HT 50-40); 10/10/26 H Jonava 65-71(HT 28-33)",
+  "trends": {
+   "game_totals": "Lietkabelis totals 160,166,146,178,154,163,121,145,181,136 (7/10 under 165.5); Taurage 169,162,168,172,159,156,150,172,184,157. Line 160.5.",
+   "team_totals": "Lietkabelis scored 61,85,66,99,68,80,64,73 - low-scoring. Taurage scored 79,80,77,91,78,80,71,76.",
+   "first_half": "Taurage led at HT in 4 of last 8 despite losing.",
+   "handicap": "Taurage lost four straight but all away; at home 80-76 and 81-76 v Kedainiai, 71-79 v Rytas, 82-102 v Gargzdai. Lietkabelis LKL results: +4 Rytas, +20 Neptunas, -3 Gargzdai, +1 Kedainiai, -6 Jonava - mostly one-score games.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "LKL, 17:00 local in Taurage. Lietkabelis lost 61-99 at Bahcesehir (Istanbul) on Wed 11 Nov in the EuroCup - fourth game in 11 days plus travel. Taurage back home after five road games.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=7.5",
+    "desc": "Home (+7.5)",
+    "odds": 1.35,
+    "p": 0.707292,
+    "why": "Lietkabelis arrive from a 38-point EuroCup loss in Istanbul three days ago on a fourth game in 11 days, and four of their five recent LKL games were decided by six or fewer; Taurage's home games v non-top sides were close. Taurage are on a four-game losing run (all away) - moderate."
+   }
+  ],
+  "avoid": "Lietkabelis ML 1.75 (away ML p 0.54). Overs (Lietkabelis games run low).",
+  "confidence": 0.22,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/lkl/",
+   "https://lkl.lt/",
+   "https://www.krepsinis.net/rezultatai/lkl",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:73659014",
+  "fx": "BC Nevezis Kedainiai v BC Juventus Utena",
+  "home_form": "Kedainiai last 10 (Sportradar, all comps, HT in brackets): 11/11/26 H Taurages Taurage 90-79(HT 45-37); 08/11/26 H Siauliai 76-83(HT 49-41); 02/11/26 H Gargzdai 87-76(HT 49-42); 24/10/26 A Taurages Taurage 76-80(HT 40-43); 20/10/26 A BC Jurbarkas-Karys 93-69(HT 48-45); 17/10/26 H Panevezys 72-73(HT 28-42); 14/10/26 H Gargzdai 86-101(HT 38-45); 11/10/26 H Zalgiris 76-80(HT 40-34); 07/10/26 A Taurages Taurage 76-81(HT 36-49); 03/10/26 A N. Klaipeda 62-89(HT 22-55)",
+  "away_form": "Utena last 10: 08/11/26 H Zalgiris 85-94(HT 42-48); 03/11/26 H Pardubice 98-95(HT 40-46) OT; 31/10/26 A Jonava 82-94(HT 42-45); 25/10/26 H Rytas Vilnius 76-94(HT 42-51); 21/10/26 A Reggiana 76-75(HT 47-50); 18/10/26 H Gargzdai 100-90(HT 57-51); 11/10/26 A Siauliai 71-83(HT 53-41); 07/10/26 H Malaga 69-105(HT 29-44); 04/10/26 H Taurages Taurage 93-77(HT 41-36); 27/09/26 H Kedainiai 94-77(HT 52-38)",
+  "trends": {
+   "game_totals": "Kedainiai totals 169,159,163,156,162,145,187,156; Utena 179,193(OT),176,170,151,190,154,174,170,171. Line 170.5.",
+   "team_totals": "Utena scored 85,98,82,76,76,100,71,93,94; Kedainiai concede 79,83,76,80,69,73,101,80.",
+   "first_half": "Utena HT 42,40,42,42,47,57,53.",
+   "handicap": "Kedainiai 3-2 in last 5 at home-heavy stretch (lost to Siauliai -7, Lietkabelis -1, Zalgiris -4: competitive). Utena lost 3 of last 4 in LKL (Zalgiris, Jonava, Rytas).",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "27 Sep 2026: Utena 94-77 Kedainiai (in Utena).",
+  "absences": "None found.",
+  "context": "LKL, Kedainiai Arena, 19:00 local per schedule sites (board 19:10). Kedainiai played Wed 11 Nov; Utena rested since 8 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Utena ML 1.44 (away ML p 0.66; Kedainiai kept Zalgiris and Lietkabelis within 4 at home).",
+  "confidence": 0.15,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/lkl/",
+   "https://lkl.lt/",
+   "https://www.krepsinis.net/rezultatai/lkl",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72676970",
+  "fx": "Twarde Pierniki Torun v Trefl Sopot",
+  "home_form": "Pierniki Torun last 10 (Sportradar, all comps, HT in brackets): 07/11/26 A Wroclaw 76-81(HT 41-57); 31/10/26 H Zielona Gora 87-71(HT 44-36); 23/10/26 A Gliwice 69-90(HT 26-50); 16/10/26 H Bydgoszcz 110-96(HT 60-47); 10/10/26 A Dabrowa Gornicza 83-87(HT 40-52); 03/10/26 H Szczecin 85-104(HT 47-51); 25/09/26 H Gdynia 100-100(HT 52-50); 12/09/26 H Czarni Slupsk 108-97(HT 52-50); 11/09/26 H Sopot 100-86(HT 54-36); 03/09/26 H Czarni Slupsk 76-97(HT 36-55)",
+  "away_form": "Sopot last 10: 08/11/26 A Gliwice 77-84(HT 32-41); 31/10/26 H Bydgoszcz 87-90(HT 43-36) OT; 25/10/26 A Dabrowa Gornicza 82-88(HT 43-45); 17/10/26 H Szczecin 81-91(HT 29-51); 11/10/26 A Gdynia 82-96(HT 47-50); 02/10/26 H Dziki Warszawa 63-102(HT 39-51); 26/09/26 A Warszawa 89-93(HT 38-46); 13/09/26 H Czarni Slupsk 97-88(HT 42-40); 11/09/26 A Pierniki Torun 86-100(HT 36-54); 21/05/26 A Dziki Warszawa 73-88(HT 53-40)",
+  "trends": {
+   "game_totals": "Torun home totals 158,206,189,200,205,186 (avg 191); Trefl totals 161,177(OT),170,172,178,165,182 (6/7 above 164.5). Line 174.5.",
+   "team_totals": "Torun home scores 87,110,85,100,108,100 (avg 98). Trefl conceded 84,90(OT),88,91,96,102,93 - at least 84 in seven straight, 88+ in six.",
+   "first_half": "Torun home HT points 44,60,47,52,52,54; Trefl HT conceded 41,36,45,51,50,51,46.",
+   "handicap": "Trefl have lost seven straight (by 7, 3 OT, 6, 10, 14, 39, 4). Torun 2-1 at home in the league (beat Zielona Gora +16, Bydgoszcz +14; lost to Szczecin -19).",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "11 Sep 2026 (pre-season): Torun 100-86 Trefl.",
+  "absences": "None found.",
+  "context": "PLK, Sat 15:00 CET in Torun (TV listing confirms). Both rested a full week. Trefl winless in seven.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=164.5",
+    "desc": "Over 164.5",
+    "odds": 1.3,
+    "p": 0.734422,
+    "why": "Every Torun home game this season reached 158+ (five of six 186+) and Trefl's last seven all had 161+ with Trefl conceding 84-102 each time. p 0.73, just under the totals gate."
+   },
+   {
+    "mid": "227",
+    "spec": "total=88.5",
+    "desc": "Over 88.5",
+    "odds": 1.62,
+    "p": 0.576172,
+    "why": "Torun average 98 at home (85+ every time) and Trefl have conceded 88+ in six of their last seven. p 0.58 - singles-grade."
+   }
+  ],
+  "avoid": "Trefl +handicap (seven straight losses). Torun -6.5 is fair but they lost at home to Szczecin by 19.",
+  "confidence": 0.28,
+  "sources": [
+   "https://pilkarskiswiat.com/koszykowka-orlen-basket-liga-polski-cukier-torun-trefl-sopot-gdzie-obejrzec-transmisja-tv-i-online-14-11-2026/",
+   "https://www.flashscore.pl/koszykowka/polska/basket-liga/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72676974",
+  "fx": "Legia Warszawa v Wilki Morskie Szczecin",
+  "home_form": "Warszawa last 10 (Sportradar, all comps, HT in brackets): 08/11/26 A Gdynia 60-67(HT 39-31); 04/11/26 H Galatasaray 79-72(HT 34-32); 31/10/26 H Dziki Warszawa 77-92(HT 39-42); 25/10/26 H Ostrow Wielkopolski 84-74(HT 43-43); 20/10/26 A Cibona 95-77(HT 47-42); 16/10/26 H Anwil Wloclawek 73-72(HT 46-37); 09/10/26 A Zielona Gora 87-104(HT 37-63); 06/10/26 A SIG Strasbourg 62-100(HT 33-47); 02/10/26 A Czarni Slupsk 79-76(HT 41-31); 27/09/26 H Zielona Gora 110-96(HT 56-49)",
+  "away_form": "Szczecin last 10: 11/11/26 A Nitra Blue Wings 90-92(HT 43-45); 08/11/26 H Czarni Slupsk 105-95(HT 38-46); 04/11/26 A BC Parnu 82-69(HT 32-35); 01/11/26 A PWSZ Gornik Walbrzyc 95-86(HT 52-44); 28/10/26 H Nancy 90-87(HT 50-46); 24/10/26 H Lublin 70-54(HT 35-30); 21/10/26 A Keravnos 78-65(HT 41-39); 17/10/26 A Sopot 91-81(HT 51-29); 13/10/26 A Vienna 93-96(HT 48-47); 10/10/26 H Wroclaw 69-82(HT 35-41)",
+  "trends": {
+   "game_totals": "Legia totals 127,151,169,158,172,145,191; Szczecin 182,200,151,181,177,124,143,172. Line 164.5.",
+   "team_totals": "Legia scored 60,79,77,84,73 in last five home/away mix; Szczecin scored 90,105,82,95,90,70,78,91.",
+   "first_half": "Legia HT 39,34,39,43,46.",
+   "handicap": "Legia lost at Gdynia 60-67 and at home to Dziki 77-92; beat Galatasaray and Ostrow at home. Szczecin 7-2 in last 9 incl. wins at Torun (+19) and Sopot (+10).",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "PLK, 17:30 CET. Szczecin played Wed 11 Nov in Nitra (ENBL) - sixth game in 15 days with travel. Legia rested since 8 Nov. No preview located.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Legia ML 1.48 / -4.5 (Legia scoring poorly, Szczecin in form); Szczecin side carries fatigue. No edge either way.",
+  "confidence": 0.15,
+  "sources": [
+   "https://pilkarskiswiat.com/koszykowka-orlen-basket-liga-polski-cukier-torun-trefl-sopot-gdzie-obejrzec-transmisja-tv-i-online-14-11-2026/",
+   "https://www.flashscore.pl/koszykowka/polska/basket-liga/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72676968",
+  "fx": "Slask Wroclaw v Basket Zielona Gora",
+  "home_form": "Wroclaw last 10 (Sportradar, all comps, HT in brackets): 10/11/26 A N. Klaipeda 82-90(HT 38-38); 07/11/26 H Pierniki Torun 81-76(HT 57-41); 04/11/26 H Bourg 84-88(HT 39-47); 01/11/26 A Gliwice 96-84(HT 45-44); 28/10/26 H Tofas Bursa 74-90(HT 38-55); 24/10/26 H Bydgoszcz 100-77(HT 52-43); 21/10/26 A Niners Chemnitz 67-95(HT 40-46); 18/10/26 A Dabrowa Gornicza 80-97(HT 32-49); 14/10/26 H Napoli Basket 82-86(HT 37-40); 10/10/26 A Szczecin 82-69(HT 41-35)",
+  "away_form": "Zielona Gora last 10: 11/11/26 H Szolnoki 103-66(HT 46-40); 08/11/26 A Ostrow Wielkopolski 74-69(HT 36-37); 04/11/26 H Dinamo Bucuresti 95-93(HT 43-46); 31/10/26 A Pierniki Torun 71-87(HT 36-44); 28/10/26 H BC Oostende 80-77(HT 50-38); 24/10/26 H Anwil Wloclawek 78-77(HT 44-38); 20/10/26 A Basquet Girona 68-109(HT 29-57); 17/10/26 A Gliwice 84-76(HT 38-38); 14/10/26 H BK Levicki Patrioti 71-74(HT 28-31); 09/10/26 H Warszawa 104-87(HT 63-37)",
+  "trends": {
+   "game_totals": "Slask totals 172,157,172,180,164,177,162,177,168,151; Zielona Gora 169,143,188,158,157,155,177,160,145,191. Line 166.5.",
+   "team_totals": "Slask scored 82,81,84,96,74,100; ZG scored 103,74,95,71,80,78.",
+   "first_half": "Slask HT 38,57,39,45,38,52.",
+   "handicap": "Slask 2-3 in last 5 (European losses to Bourg, Tofas, Klaipeda). ZG won 5 of last 6 incl. at Ostrow and v Anwil; lost at Torun -16.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "PLK, 19:30 CET in Wroclaw. Slask played Tue 10 Nov in Klaipeda, ZG played Wed 11 Nov at home - both on short rest. No preview located.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Slask ML 1.60 (ZG 5-1 run). No totals edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://pilkarskiswiat.com/koszykowka-orlen-basket-liga-polski-cukier-torun-trefl-sopot-gdzie-obejrzec-transmisja-tv-i-online-14-11-2026/",
+   "https://www.flashscore.pl/koszykowka/polska/basket-liga/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72971436",
+  "fx": "SC Braga v UD Oliveirense",
+  "home_form": "SC Braga last 10 (Sportradar, all comps, HT in brackets): 08/11/26 A Porto 76-81(HT 50-49); 01/11/26 H Sporting Cp 98-86(HT 46-42); 25/10/26 A Povoa 80-71(HT 43-36); 18/10/26 H Vitoria Sp. Clube 91-72(HT 43-30); 11/10/26 H Portimonense SC 105-71(HT 61-39); 03/10/26 A Ovarense Basquetebol 83-96(HT 28-52); 13/05/26 H Benfica Lisboa 79-94(HT 36-44); 09/05/26 A Benfica Lisboa 72-90(HT 34-46); 30/04/26 H Imortal 63-76(HT 35-36); 25/04/26 A Ovarense Basquetebol 74-67(HT 44-35)",
+  "away_form": "Oliveirense last 10: 07/11/26 H Ovarense Basquetebol 87-93(HT 57-50); 31/10/26 A Madeira 113-109(HT 45-45) OT; 24/10/26 H Esgueira 104-80(HT 55-32); 17/10/26 A Benfica Lisboa 67-92(HT 32-45); 04/10/26 A ACR Vale de Cambra 57-65(HT 23-37); 03/10/26 A Portimonense SC 91-82(HT 53-39); 27/09/26 H Povoa 92-73(HT 44-36); 28/05/26 H Benfica Lisboa 78-86(HT 46-38); 23/05/26 A Benfica Lisboa 61-86(HT 32-41); 21/05/26 A Benfica Lisboa 76-98(HT 27-53)",
+  "trends": {
+   "game_totals": "Braga totals 157,184,151,163,176,179; Oliveirense 180,222(OT),184,159,173,165. Line 174.5.",
+   "team_totals": "Braga home scores 98, 91, 105 (avg 98). Oliveirense conceded 93, 109 (OT), 80, 92, 82 in the league.",
+   "first_half": "Braga home HT points 46,43,61.",
+   "handicap": "Braga 3-0 at home (Sporting +12, Vitoria +19, Portimonense +34), lost at Porto by 5. Oliveirense 3-3; lost at home to Ovarense, at Benfica -25.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Liga Betclic round 7, 15:00 at AMCO Arena, Braga (FPB calendar). Both rested a week.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "227",
+    "spec": "total=87.5",
+    "desc": "Over 87.5",
+    "odds": 1.6,
+    "p": 0.585485,
+    "why": "Braga have scored 91, 98 and 105 in their three home games and Oliveirense have conceded 92+ in three of their last four league games. p 0.59 - singles-grade."
+   }
+  ],
+  "avoid": "Oliveirense +5.5 (Braga unbeaten at home by double digits).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.record.pt/modalidades/basquetebol/detalhe/o-fc-porto-vence-em-guimaraes-na-abertura-da-7-jornada-da-liga-betclic",
+   "https://www.ojogo.pt/modalidades/artigo/basquetebol-resultados-classificacao-e-proxima-jornada/18145775",
+   "https://www.fpb.pt/calendario/clube_28/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72971574",
+  "fx": "Benfica Lisboa v CAB Madeira",
+  "home_form": "Benfica Lisboa last 10 (Sportradar, all comps, HT in brackets): 11/11/26 H Bakken 94-79(HT 50-42); 07/11/26 H Esgueira 112-78(HT 48-34); 04/11/26 H Landau Lions 97-76(HT 55-39); 31/10/26 A Portimonense SC 86-72(HT 43-38); 28/10/26 A Lions de Geneve 90-93(HT 55-50); 24/10/26 A CA Queluz 89-72(HT 44-49); 21/10/26 H Prievidza 98-83(HT 47-46); 17/10/26 H Oliveirense 92-67(HT 45-32); 14/10/26 H Merkezefendi Denizli 96-91(HT 50-45); 11/10/26 A Porto 86-93(HT 45-40)",
+  "away_form": "Madeira last 10: 07/11/26 A CA Queluz 86-90(HT 36-43); 31/10/26 H Oliveirense 109-113(HT 45-45) OT; 25/10/26 A Porto 82-93(HT 35-48); 17/10/26 H Sporting Cp 93-84(HT 49-42); 10/10/26 A Povoa 69-73(HT 32-39); 03/10/26 H Vitoria Sp. Clube 78-83(HT 42-31); 31/05/26 A Povoa 72-90(HT 31-48); 30/05/26 A Povoa 61-78(HT 37-48); 24/05/26 H Povoa 90-72(HT 49-35); 16/05/26 H Illiabum 76-60(HT 34-23)",
+  "trends": {
+   "game_totals": "Benfica totals 173,190,173,158,183,161,181,159,187; Madeira 176,222(OT),175,177,142,161. Line 173.5.",
+   "team_totals": "Benfica home scores 94,112,97,98,92,96; Madeira concede 90,113(OT),93,84.",
+   "first_half": "Benfica home HT points 50,48,55,47,45,50.",
+   "handicap": "Benfica league wins by 34, 14, 17, 25; lost at Porto by 7. Madeira 1-5 but compete: -4, -4 (OT), -11 at Porto, +9 v Sporting, -4, -5. Line -18.5.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Liga Betclic round 7, 16:00 in Lisbon. Benfica played FIBA Europe Cup on Wed 11 Nov at home (fifth game in 15 days) - some rotation likely with the game in hand.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Benfica -18.5 (Madeira keep losses within 11; Benfica midweek European load). Madeira catch is a 15+ line for a 1-5 side: banned class. ML 1.03 under floor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.record.pt/modalidades/basquetebol/detalhe/o-fc-porto-vence-em-guimaraes-na-abertura-da-7-jornada-da-liga-betclic",
+   "https://www.ojogo.pt/modalidades/artigo/basquetebol-resultados-classificacao-e-proxima-jornada/18145775",
+   "https://www.fpb.pt/calendario/clube_28/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72971438",
+  "fx": "Ovarense Basquetebol v CA Queluz",
+  "home_form": "Ovarense Basquetebol last 10 (Sportradar, all comps, HT in brackets): 07/11/26 A Oliveirense 93-87(HT 50-57); 31/10/26 H Porto 78-76(HT 38-37); 24/10/26 A Sporting Cp 70-71(HT 36-38); 17/10/26 H Povoa 78-69(HT 37-29); 10/10/26 A Vitoria Sp. Clube 87-71(HT 37-38); 03/10/26 H SC Braga 96-83(HT 52-28); 26/09/26 H Benfica Lisboa 102-107(HT 42-52) OT; 13/09/26 A Povoa 64-95(HT 26-54); 16/05/26 H Oliveirense 65-69(HT 34-27); 13/05/26 A Oliveirense 72-90(HT 47-52)",
+  "away_form": "CA Queluz last 10: 07/11/26 H Madeira 90-86(HT 43-36); 31/10/26 A Esgueira 104-93(HT 49-53); 24/10/26 H Benfica Lisboa 72-89(HT 49-44); 17/10/26 A Portimonense SC 87-83(HT 46-38); 02/10/26 H Porto 93-110(HT 43-54); 25/04/26 H Galitos Barreiro 105-74(HT 49-33); 18/04/26 A Sporting Cp 69-83(HT 31-31); 11/04/26 A Ovarense Basquetebol 74-73(HT 38-32); 04/04/26 H Oliveirense 91-84(HT 45-47); 29/03/26 A Porto 94-99(HT 45-57)",
+  "trends": {
+   "game_totals": "Ovarense totals 180,154,141,147,158,179; Queluz 176,197,161,170,203. Line 169.5.",
+   "team_totals": "Queluz scored 90,104,72,87,93; Ovarense concede 87,76,71,69,71,83.",
+   "first_half": "Ovarense HT 50,38,36,37,37,52.",
+   "handicap": "Ovarense 5-1 (beat Porto 78-76, lost at Sporting by 1). Queluz 3-2: beat the bottom three (Madeira +4, Esgueira +11, Portimonense +4), lost to Benfica -17 and Porto -17. Line -11.5.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "11 Apr 2026: Ovarense 73-74 Queluz.",
+  "absences": "None found.",
+  "context": "Liga Betclic round 7, 16:00 in Ovar. Ovarense level with Benfica behind Porto.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ovarense -11.5 (their home wins are by 2, 9, 13; lost this fixture in April). ML 1.16 under floor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.record.pt/modalidades/basquetebol/detalhe/o-fc-porto-vence-em-guimaraes-na-abertura-da-7-jornada-da-liga-betclic",
+   "https://www.ojogo.pt/modalidades/artigo/basquetebol-resultados-classificacao-e-proxima-jornada/18145775",
+   "https://www.fpb.pt/calendario/clube_28/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72971442",
+  "fx": "Portimonense SC v CP Esgueira",
+  "home_form": "Portimonense SC last 10 (Sportradar, all comps, HT in brackets): 07/11/26 A Povoa 74-84(HT 29-38); 31/10/26 H Benfica Lisboa 72-86(HT 38-43); 24/10/26 A Vitoria Sp. Clube 72-74(HT 34-43); 17/10/26 H CA Queluz 83-87(HT 38-46); 11/10/26 A SC Braga 71-105(HT 39-61); 03/10/26 H Oliveirense 82-91(HT 39-53); 17/05/26 A Povoa 86-90(HT 45-44) OT; 16/05/26 A Povoa 71-68(HT 37-37) OT; 09/05/26 H Povoa 90-93(HT 43-40) OT; 01/05/26 A Povoa 66-71(HT 37-38)",
+  "away_form": "Esgueira last 10: 07/11/26 A Benfica Lisboa 78-112(HT 34-48); 31/10/26 H CA Queluz 93-104(HT 53-49); 24/10/26 A Oliveirense 80-104(HT 32-55); 16/10/26 H Porto 91-95(HT 46-49); 10/10/26 A Sporting Cp 60-88(HT 25-43); 03/10/26 H Povoa 64-84(HT 32-41); 19/09/26 H Povoa 80-102(HT 48-52); 12/09/26 A Povoa 70-78(HT 39-43); 14/05/26 H Sporting Cp 73-85(HT 36-48); 10/05/26 A Sporting Cp 67-109(HT 41-57)",
+  "trends": {
+   "game_totals": "Portimonense totals 158,158,146,170,176,173; Esgueira 190,197,184,186,148,148. Line 168.5.",
+   "team_totals": "Esgueira concede 112,104,104,95,88,84 (avg 98); Portimonense scored 74,72,72,83,71,82 (avg 76).",
+   "first_half": "Esgueira trailed at HT in 5 of 6, by 14+ three times.",
+   "handicap": "Both 0-6 (11th v 12th). Common opponents: Queluz - Portimonense -4 (H), Esgueira -11 (H); Oliveirense -9 (H) v -24 (A); Povoa -10 (A) v -20 (H); Benfica -14 (H) v -34 (A). Portimonense about 10 points better on every shared opponent.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Liga Betclic round 7, 16:00 in Portimao. Bottom-two meeting; first win for one of them.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.37,
+    "p": 0.7015925587,
+    "why": "Both winless, but Portimonense have lost by clearly smaller margins to each of four common opponents (about 10 points better each time) and are at home; Esgueira concede 98/g. p 0.70 is below the 0.75 ML gate - singles-grade."
+   }
+  ],
+  "avoid": "Portimonense -6.5 (a winless side laying points). Esgueira team Over despite pace (opponent scores 76/g, slow).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.record.pt/modalidades/basquetebol/detalhe/o-fc-porto-vence-em-guimaraes-na-abertura-da-7-jornada-da-liga-betclic",
+   "https://www.ojogo.pt/modalidades/artigo/basquetebol-resultados-classificacao-e-proxima-jornada/18145775",
+   "https://www.fpb.pt/calendario/clube_28/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72971566",
+  "fx": "Sporting Cp v CD Povoa",
+  "home_form": "Sporting Cp last 10 (Sportradar, all comps, HT in brackets): 11/11/26 A Rilski 76-86(HT 34-48); 07/11/26 H Vitoria Sp. Clube 91-48(HT 55-21); 04/11/26 A Esenler Erokspor 70-106(HT 35-51); 01/11/26 A SC Braga 86-98(HT 42-46); 29/10/26 A Gence BC 67-69(HT 33-38); 24/10/26 H Ovarense Basquetebol 71-70(HT 38-36); 21/10/26 H Rhodes 71-69(HT 37-41) OT; 17/10/26 A Madeira 84-93(HT 42-49); 14/10/26 A SCM Univ. Craiova 97-77(HT 48-43); 10/10/26 H Esgueira 88-60(HT 43-25)",
+  "away_form": "Povoa last 10: 07/11/26 H Portimonense SC 84-74(HT 38-29); 01/11/26 A Vitoria Sp. Clube 75-68(HT 28-39); 25/10/26 H SC Braga 71-80(HT 36-43); 17/10/26 A Ovarense Basquetebol 69-78(HT 29-37); 10/10/26 H Madeira 73-69(HT 39-32); 03/10/26 A Esgueira 84-64(HT 41-32); 27/09/26 A Oliveirense 73-92(HT 36-44); 19/09/26 A Esgueira 102-80(HT 52-48); 13/09/26 H Ovarense Basquetebol 95-64(HT 54-26); 12/09/26 H Esgueira 78-70(HT 43-39)",
+  "trends": {
+   "game_totals": "Sporting league totals 139,184,141,177,148; Povoa 158,143,151,147,142,148. Line 148.5 (very low, matches both profiles).",
+   "team_totals": "Povoa concede 74,68,80,78,69,64; Sporting scored 91,86,71,84,88 in the league.",
+   "first_half": "Povoa HT conceded 29,39,43,37,32,32.",
+   "handicap": "Sporting lost 4 of last 5 overall; league home wins: Vitoria +43, Ovarense +1, Esgueira +28. Povoa 4-2: losses by 9 (Braga, home) and 9 (at Ovarense); earlier -19 at Oliveirense.",
+   "corners": "n/a (basketball)"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Liga Betclic round 7, 18:30 in Lisbon. Sporting played away in Bulgaria on Wed 11 Nov (lost 76-86 to Rilski) after Istanbul the week before - travel and a three-game European losing run. Povoa rested since 7 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-10.5",
+    "desc": "Away (+10.5)",
+    "odds": 1.45,
+    "p": 0.656761982,
+    "why": "Sporting returned from a Wednesday European loss in Bulgaria (third straight continental defeat, away trips two weeks running) and Povoa are a 4-2 low-possession side whose league defeats to Braga and Ovarense were both by 9; in a game lined at 148.5 total, 10.5 points is a large cushion."
+   }
+  ],
+  "avoid": "Sporting -6.5. Overs.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.record.pt/modalidades/basquetebol/detalhe/o-fc-porto-vence-em-guimaraes-na-abertura-da-7-jornada-da-liga-betclic",
+   "https://www.ojogo.pt/modalidades/artigo/basquetebol-resultados-classificacao-e-proxima-jornada/18145775",
+   "https://www.fpb.pt/calendario/clube_28/",
+   "Sportradar gismo stats_team_lastx (pulled 2026-11-14)"
+  ]
+ }
+]

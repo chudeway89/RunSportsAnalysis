@@ -1,0 +1,903 @@
+[
+ {
+  "eid": "sr:match:72415692",
+  "fx": "N. Byskovice v FK Velke Hamry",
+  "home_form": "Byskovice last 10: L1-4 Liberec B(A), W2-0 H.Redice(A), W6-1 Chrudim(H), D0-0 Benatky(A), W3-0 Pardubice B(H), W2-0 Teplice B(A), L0-2 Caslav(H), D2-2 Brozany(A), L0-4 Slovacko(H, cup), L0-4 Most(H). Home league: W6-1, W3-0, L0-2, L0-4 = W2 L2 (plus 0-4 cup).",
+  "away_form": "Velke Hamry last 10: W3-0 H.Redice(H), L0-1 Chrudim(A), D3-3 Benatky(H), L0-6 Pardubice B(A), W2-0 Teplice B(H), L1-2 Caslav(A), W4-2 Brozany(H), L0-3 Most(A), D0-0 Hradec B(H), L1-3 Varnsdorf(A). Away: 5 straight defeats, GD 2-15.",
+  "trends": {
+   "game_totals": "Byskovice games 3+ goals in 4/10 only (two 0-0/2-0 types); Hamry away games 3+ in 3/5. Board has no O1.5 in range; O2.5 @1.38 is NOT supported by Byskovice's totals.",
+   "team_totals": "Hamry scored 2 in 5 away games (blank 3/5). Byskovice blank in 3 of 5 home games (0-2, 0-4, 0-4) - their home attack is streaky, not reliable.",
+   "first_half": "Byskovice led at HT in 4 of last 10; Hamry trailed at HT in 4 of 5 away games.",
+   "handicap": "Hamry away defeats by 1,6,1,3,2. Byskovice home wins by 5 and 3, home losses by 2,4,4.",
+   "corners": "No corner markets on board; no data."
+  },
+  "h2h": "Reverse fixture 22 Apr 2026: Velke Hamry 1-1 Byskovice (1-0 HT).",
+  "absences": "None found (third tier, no team-news coverage).",
+  "context": "CFL B round 15; date/time confirmed by the Velke Hamry club site (Sat 14.11, 10:15 local = 09:15 UTC), no postponement notice. THURSDAY'S LEAN (Home DNB) STILL STANDS but is no stronger: nothing new in 36h. Fresh pass adds a caution Thursday missed: Byskovice's own home record is W2 L3 with two 0-4 defeats, so the leg rests entirely on Hamry's 5 straight away losses. Fill at best, never an anchor.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.775541,
+    "why": "Velke Hamry have lost all 5 away games (GD 2-15, blank in 3); DNB protects against the 1-1 of the reverse fixture. Statistic only, no named mechanism."
+   }
+  ],
+  "avoid": [
+   "Over 2.5 @1.38 (Byskovice 3+ goals in only 4/10)",
+   "Home 1X2 @1.50 (Byskovice W2 L3 at home)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://fkvelkehamry.cz/fk-neratovice-byskovice-muzi-a-2025-11-15",
+   "https://fotbalunas.cz/zapas/545156/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72499168",
+  "fx": "Vsk Aarhus v Middelfart BK",
+  "home_form": "VSK Aarhus last 10: L0-1 FA2000(A), L1-4 Skive(A), D2-2 Naestved(H), D2-2 Thisted(A), L1-3 Nykobing(A), L0-2 Brabrand(H), W1-0 Skive(H), D1-1 Middelfart(A), D2-2 B93(H), L0-2 Lyngby(H, cup). Winless in 6 (D2 L4); home W1 D2 L2.",
+  "away_form": "Middelfart last 9 league: W3-2 Naestved(H), L1-2 Fremad A.(A), D3-3 Skive(H), D3-3 Roskilde(H), L1-3 B93(A), W1-0 FA2000(H), D2-2 Naestved(A), D1-1 VSK(H), D0-0 Skive(A). Away: L1-2, L1-3, D2-2, D0-0 = winless in 4.",
+  "trends": {
+   "game_totals": "2+ goals in 8/10 VSK games and 7/9 Middelfart league games; 3+ in 5/10 and 6/9.",
+   "team_totals": "VSK scored in 7/10 but 0 or 1 in 7/10; Middelfart scored in 8/9.",
+   "first_half": "VSK trailed at HT in 4 of last 6; 1H goal in 7/10 VSK games, 6/9 Middelfart games.",
+   "handicap": "No margin trend: Middelfart drew 5 of last 9 league games, VSK drew 4 of last 10; last H2H 1-1.",
+   "corners": "No corner markets on board."
+  },
+  "h2h": "19 Sep 2026: Middelfart 1-1 VSK Aarhus.",
+  "absences": "None found (FotMob has the fixture, no squad news).",
+  "context": "2nd Division round 16, 12:30 UTC confirmed by FotMob, no postponement. THURSDAY'S LEAN (O1.5 mild) STILL STANDS, unchanged: no team news in the last 36h. Draw-heavy pair (Middelfart 5 draws in 9, last H2H 1-1), so no result-side. Stat-only fill.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.7936567672,
+    "why": "2+ goals in 8/10 VSK and 7/9 Middelfart games; Middelfart 3+ in 6 of 9. Statistic only - fill, not an anchor."
+   }
+  ],
+  "avoid": [
+   "Either DNB (both winless runs, draw-heavy)",
+   "Team totals"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fotmob.com/matches/vsk-aarhus-vs-middelfart/2ai8p9#3398656",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Danish_2nd_Division",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:76639082",
+  "fx": "SK Hanacka Slavia Kromeriz v FK Fotbal Trinec",
+  "home_form": "Kromeriz last 8 league: W3-1 Kladno(A), W2-1 Zizkov(H), L0-1 Vlasim(A), L1-3 Pribram(H), L2-3 Karvina(A), D2-2 Opava(H), D1-1 Banik B(A), W2-1 Prostejov(H). Home: 2-1, 1-3, 2-2, 2-1 (all 3+ goals).",
+  "away_form": "Trinec last 8 league: L1-3 C.Lipa(H), D1-1 Taborsko(A), W3-2 Pribram(A), L0-1 Kladno(H), L0-3 Zizkov(A), L0-3 M.Boleslav(H), W3-2 Karvina(H), L1-2 Vlasim(A). Away: 1-1, 3-2, 0-3, 1-2 (all 2+).",
+  "trends": {
+   "game_totals": "2+ goals in 7/8 Kromeriz and 7/8 Trinec league games; 3+ in 6/8 and 5/8.",
+   "team_totals": "Kromeriz scored in 7/8 (2+ in 5); Trinec conceded in all 8 (2+ in 6). Kromeriz O1.5 @1.83 is the stat-backed team total but p only 0.51.",
+   "first_half": "Kromeriz slow starters: level or behind at HT in 7 of 8 (0-0 at HT twice at home); Trinec conceded before HT in 6/8. 1H O0.5 @1.30 has no clear edge.",
+   "handicap": "Kromeriz wins all by 1-2 goals; Trinec away losses by 3 and 1.",
+   "corners": "No corner markets on board."
+  },
+  "h2h": "No recent H2H found in sources.",
+  "absences": "None found. Kromeriz midfielder Patrik Kulisek gave the pre-match interview (available).",
+  "context": "FNL game RESCHEDULED: the original date last weekend was abandoned for dense fog just before kick-off (Denik); now Sat 14.11 14:00 local = 13:00 UTC, matches board and Sportradar - no conflict, but mid-November fog/pitch risk remains (a postponement would void). THURSDAY'S LEAN (O1.5) STILL STANDS: both sides had an extra week's rest, no absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.799051,
+    "why": "Kromeriz home games 4/4 with 3+ goals, Trinec away 4/4 with 2+, and Trinec have conceded in all 8 recent league games (2+ in 6)."
+   }
+  ],
+  "avoid": [
+   "Under 3.5",
+   "Kromeriz 1X2 @2.0 (W2 in last 6)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://kromerizsky.denik.cz/fotbal-druha-liga/kromeriz-fotbal-hanacka-slavia-patrik-kulisek/",
+   "https://zlinsky.denik.cz/ostatni-sporty/kam-za-sportem-ve-zlinskem-kraji-podivejte-se-kde-se-co-hraje-16/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72597866",
+  "fx": "FC Vsetin v SK Hranice",
+  "home_form": "Vsetin last 10: L0-3 Karvina B(A), L1-4 Vitkovice(H), L0-2 Zlin B(A), L0-1 Artis B(H), L0-2 Blansko(A), W1-0 Slovacko B(H), L0-5 Bohemians(H, cup), L0-2 Hodonin(A), D2-2 Vrchovina(H), W3-0 Polanka(A). Five straight league defeats, 1 goal scored.",
+  "away_form": "Hranice last 10: L1-4 Zbrojovka B(H), L1-5 Olomouc B(A), L0-2 Karvina B(A), W2-1 Vitkovice(H), W1-0 Zlin B(A), D1-1 Artis B(H), W3-1 Blansko(A), D1-1 Slovacko B(H), W1-0 Hodonin(A), W1-0 Vrchovina(H). Three straight defeats, 11 conceded.",
+  "trends": {
+   "game_totals": "2+ goals in 7/10 Vsetin and 8/10 Hranice games, but 3 of Vsetin's last 6 league games had exactly 1 or 2 goals with Vsetin blank.",
+   "team_totals": "Vsetin failed to score in 7 of last 9; Hranice scored in 8/10 but only 1 goal in 6 of them.",
+   "first_half": "Vsetin conceded before HT in 7 of last 8 and trailed at HT in each of the last 5.",
+   "handicap": "Vsetin's last 5 defeats by 3,3,2,1,2.",
+   "corners": "No corner markets on board."
+  },
+  "h2h": "None found.",
+  "absences": "None found (regional third tier, no coverage).",
+  "context": "MSFL, listed for Sat 14.11 in the Zlin-region Denik weekend guide; no postponement found. THURSDAY'S LEAN (O1.5, weak) STILL STANDS AS WEAK - nothing new. Two sides in freefall (5 and 3 straight defeats); Vsetin's blank attack keeps 0-1/1-0 live. Home DNB @1.72 priced as favourite is not supported by form. No leg.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 1.5 @1.19 (Vsetin blank in 7 of 9)",
+   "Vsetin DNB @1.72 (5 straight defeats)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://zlinsky.denik.cz/ostatni-sporty/kam-za-sportem-ve-zlinskem-kraji-podivejte-se-kde-se-co-hraje-16/",
+   "https://slovacky.denik.cz/ostatni-sporty/kam-za-sportem-ve-zlinskem-kraji-podivejte-se-kde-se-co-hraje-15/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72597870",
+  "fx": "FK Frydek-Mistek v MFK Vitkovice",
+  "home_form": "Frydek-Mistek last 10: W3-1 Zlin B(A), W3-0 Artis B(H), W3-0 Blansko(A), W2-1 Slovacko B(H), L0-3 Hodonin(A), W4-2 Vrchovina(H), L0-1 Polanka(A), D0-0 Havirov(H), W3-1 U.Brod(A), D1-1 Unicov(H). Four straight wins (11-2); home W3 D2, unbeaten.",
+  "away_form": "Vitkovice last 10: D1-1 Hlubina(H), W4-1 Vsetin(A), W4-2 Zbrojovka B(H), L1-2 Hranice(A), L0-4 Karvina B(H), L1-2 Olomouc B(A), W3-0 Zlin B(A), D0-0 Artis B(H), L0-3 Artis(H, cup), D0-0 Blansko(A). Away: 4-1, 1-2, 1-2, 3-0, 0-0.",
+  "trends": {
+   "game_totals": "2+ goals in 8/10 Frydek games (3+ in each of last 4 and 6/10); Vitkovice 2+ in 8/10, away 4/5 with 3+.",
+   "team_totals": "Frydek scored 2+ in 6/10 and 3+ in 3 of the last 4; Vitkovice conceded in 7/10 (2+ in 5).",
+   "first_half": "Frydek led at HT in each of the last 4 (3-0, 1-0, 3-0, 1-0); 1H home lead is the live trend but 1H 1X2 Home is @2.10.",
+   "handicap": "Frydek's last 4 wins by 2,3,3,1.",
+   "corners": "No corner markets on board."
+  },
+  "h2h": "None found.",
+  "absences": "None found (no coverage).",
+  "context": "MSFL Moravian-Silesian local derby; no date/venue conflict found (search returned nothing specific - unverified beyond board + Sportradar agreeing on 14.11 14:00 local). THURSDAY'S LEAN (O1.5) STILL STANDS, unchanged. Derby flag: no result-side despite Frydek's run (DNB @1.25 skipped by rule).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.7979078233,
+    "why": "Frydek's last 4 all had 3+ goals (11 scored) and Vitkovice's away games are open (4 of 5 with 3+); Frydek led at HT in all 4."
+   }
+  ],
+  "avoid": [
+   "Frydek 1X2 / DNB (derby - no result-side)",
+   "Under 3.5"
+  ],
+  "confidence": 0.22,
+  "sources": [
+   "https://zlinsky.denik.cz/ostatni-sporty/kam-za-sportem-ve-zlinskem-kraji-podivejte-se-kde-se-co-hraje-16/",
+   "https://www.sport.cz/clanek/sportovni-vysledky-online-vysledky-dne-22-dubna-2026-5441364?noredirect=1",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72597874",
+  "fx": "SFK Vrchovina v FK Hodonin",
+  "home_form": "Vrchovina last 10: L0-2 Olomouc B(H), L2-4 Polanka(A), W2-0 Havirov(H), L0-4 U.Brod(A), L0-4 Unicov(H), L2-4 Frydek(A), W3-2 Hlubina(H), D2-2 Vsetin(A), L0-3 Zbrojovka B(H), L0-1 Hranice(A). Home: W2 L3 (0-2, 2-0, 0-4, 3-2, 0-3).",
+  "away_form": "Hodonin last 10: W4-0 Polanka(H), W1-0 Havirov(A), L1-2 U.Brod(H), L2-3 Unicov(A), W3-0 Frydek(H), W4-1 Hlubina(A), W2-0 Vsetin(H), W1-0 Zbrojovka B(A), L0-1 Hranice(H), L0-1 Karvina B(A). Away: W3 L2.",
+  "trends": {
+   "game_totals": "Vrchovina games 3+ goals in 7/10; Hodonin 3+ in 5/10. O1.5 is below 1.18 on the board; O2.5 @1.57 (p0.59) has only moderate support.",
+   "team_totals": "Vrchovina conceded in 9/10 and 2+ in 8/10 (26 conceded); Hodonin scored in 8/10 but 2+ in only 4. Hodonin O1.5 @1.68 (p0.54) is the indicated team total, thinly supported.",
+   "first_half": "Vrchovina conceded before HT in 6/10; Hodonin led at HT in 5/10.",
+   "handicap": "Vrchovina's home defeats by 2,4,3; Hodonin's away wins by 1,3,1.",
+   "corners": "No corner markets on board."
+  },
+  "h2h": "None found.",
+  "absences": "None found (regional third tier, no coverage).",
+  "context": "MSFL; no search result confirmed or contradicted the date (board and Sportradar agree on 14.11 14:00 local). THURSDAY'S LEAN (O1.5, stats only) STILL STANDS but O1.5 is now under the 1.18 floor, so there is no usable leg; Away DNB @1.42 is stats-only (Vrchovina W2 L3 at home, Hodonin lost 2 of 5 away) and below the away threshold. No pick.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Away 1X2 @1.86",
+   "Over 2.5 @1.57 as anything but declared value"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://zlinsky.denik.cz/ostatni-sporty/kam-za-sportem-ve-zlinskem-kraji-podivejte-se-kde-se-co-hraje-16/",
+   "https://slovacky.denik.cz/ostatni-sporty/kam-za-sportem-ve-zlinskem-kraji-podivejte-se-kde-se-co-hraje-15/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72500826",
+  "fx": "Bronshoj BK v Vanloese IF",
+  "home_form": "Bronshoj last 10: W2-1 Holbaek(A), W2-1 Naesby(H), L1-3 Sundby(A), W4-1 Ringsted(H), W4-2 Holstebro(A), D1-1 Frem(H), D1-1 Vanlose(A), W5-1 ASA(H), W3-1 Ringsted(A), W2-1 Helsingor(H). Home unbeaten: W4 D1, scored in all 10.",
+  "away_form": "Vanlose last 10: L1-2 Horsholm(H), W1-0 Holbaek(A), W1-0 ASA(H), L0-2 Nykobing(H, cup), D2-2 Naesby(A), D0-0 Holbaek(H), W1-0 Sundby(A), D1-1 Bronshoj(H), D1-1 Horsholm(A), W1-0 Ishoj(H). Away unbeaten: W2 D2, 3 conceded in 4.",
+  "trends": {
+   "game_totals": "Bronshoj games 2+ in 10/10 and 3+ in 8/10; Vanlose games 2+ in only 5/10 and 3+ in 2/10 - the two profiles cancel.",
+   "team_totals": "Bronshoj scored in 10/10 (2+ in 7); Vanlose conceded 0 or 1 in 8/10. Bronshoj O0.5 is off the board range; Bronshoj O1.5 @1.88 is against Vanlose's defence.",
+   "first_half": "Bronshoj 1H goal in 8/10 games; Vanlose 0-0 at HT in 5/10.",
+   "handicap": "Vanlose: 9 of last 10 decided by 0 or 1 goal.",
+   "corners": "No corner markets on board."
+  },
+  "h2h": "26 Sep 2026: Vanlose 1-1 Bronshoj (1-1 HT).",
+  "absences": "None found.",
+  "context": "3rd Division Copenhagen derby between neighbours near the top. No fresh news in 36h and no date conflict found (unverified beyond board + Sportradar). THURSDAY'S LEAN (AVOID O1.5 @1.25, p0.76) STILL STANDS: derby, Vanlose low-event, 1-1 reverse. No result-side in a derby. No leg.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 1.5 @1.25 (Vanlose 2+ in only 5/10)",
+   "Bronshoj 1X2 / DNB (derby)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2022%E2%80%9323_Danish_3rd_Division",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Danish_2nd_Division",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72499172",
+  "fx": "BK Fremad Amager v Brabrand IF",
+  "home_form": "Fremad Amager last 10: D0-0 Thisted(A), W2-1 Middelfart(H), L0-4 Roskilde(A), W3-2 Nykobing(H), L0-1 Brabrand(A), L0-3 B93(H), W2-1 FA2000(A), D1-1 Naestved(H), W2-1 Hellerup(H), D1-1 Middelfart(A). Home: W3 D1 L1.",
+  "away_form": "Brabrand last 10: W2-0 Nykobing(A), L1-2 FA2000(H), W1-0 Horsens(H, cup), W3-2 B93(A), L0-1 Hellerup(H), W1-0 Fremad A.(H), W2-0 VSK(A), D1-1 Nykobing(H), L1-3 Thisted(A), W2-1 Viborg(H, cup). Away: W3 L1.",
+  "trends": {
+   "game_totals": "2+ goals in 7/10 Fremad games and 7/10 Brabrand games; 3+ in 5/10 and 4/10.",
+   "team_totals": "Fremad blank in 4/10; Brabrand kept 4 clean sheets in 10 and scored in 9/10.",
+   "first_half": "0-0 at HT in 5 of Fremad's last 10; Brabrand scored first-half in 6/10.",
+   "handicap": "Brabrand's games: 7 of 10 decided by one goal or level.",
+   "corners": "No corner markets on board."
+  },
+  "h2h": "10 Oct 2026: Brabrand 1-0 Fremad Amager (1-0 HT).",
+  "absences": "None found.",
+  "context": "2nd Division; no fresh news, no date conflict found. THURSDAY'S LEAN (AVOID O1.5 @1.25, p0.76) STILL STANDS. Fresh note: the house makes Fremad DNB favourite (@1.59) although Brabrand won the reverse five weeks ago and have won 3 of 4 away - no edge either way, no leg.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 1.5 @1.25",
+   "Fremad DNB @1.59 (lost reverse 0-1; Brabrand W3 of 4 away)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fotmob.com/teams/6678/overview/vsk-aarhus",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Danish_2nd_Division",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72341358",
+  "fx": "AFC Wimbledon v Blackpool FC",
+  "home_form": "Wimbledon last 9: L1-2 Crewe(A), L1-2 Stockport(A), L1-2 Arsenal U21(H, EFL Trophy), D1-1 Wycombe(H), L0-3 Mansfield(H), L0-5 Sheff Wed(A), L1-2 Plymouth(A), 7-8 pens v Barnet(H, cup), D1-1 Cambridge(A). No win in 9; home league: D1-1, L0-3, D0-0.",
+  "away_form": "Blackpool last 10: W2-1 Hornchurch(A, FA Cup), D1-1 Sheff Wed(A), W3-2 Aston Villa U21(H), L1-4 Mansfield(H), W2-0 MK Dons(H), L0-2 Orient(A), L0-1 Cambridge(A), 6-4 pens v Crewe, L2-3 Wigan(A), L2-4 Plymouth(H). League away: D1-1, L0-2, L0-1, L2-3 = winless.",
+  "trends": {
+   "game_totals": "2+ goals in each of Wimbledon's last 8 (3+ in 6); Blackpool 2+ in 8/10 (3+ in 5).",
+   "team_totals": "Wimbledon conceded in every one of the last 8 (2+ in 6) but scored exactly 1 in 6 of 8; Blackpool blank in 2 of 4 league away games.",
+   "first_half": "Wimbledon conceded first-half in 4 of last 6; Blackpool trailed at HT in 4 of last 6 away/neutral games.",
+   "handicap": "Wimbledon's last 4 defeats by 1,1,3,5; no side has a margin trend.",
+   "corners": "Sportradar corners (for-against): Wimbledon home 7-5, 9-6; away 10-3, 4-10, 4-2, 9-4, 1-8 - no stable line; home O3.5 @1.29 passed in 2/2 home games with data (thin)."
+  },
+  "h2h": "None in the last 10 of either side.",
+  "absences": "No team news found in two searches (no preview coverage located).",
+  "context": "League One, 15:00 UTC, listed on the 14 Nov fixture list; the NewsNow page layout left its status unclear and the page was stale, but no source reports an international-break postponement. THURSDAY'S LEAN (O1.5, fill) STILL STANDS, unchanged: no fresh information. Two winless sides, so no DNB.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.26,
+    "p": 0.765026,
+    "why": "Wimbledon have conceded in all of their last 8 (2+ in 6) and all 8 had 2+ goals; statistic only, no named absence - fill."
+   }
+  ],
+  "avoid": [
+   "Either DNB (Wimbledon no win in 9, Blackpool winless in 4 league away)",
+   "Blackpool O0.5 as an anchor"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.newsnow.co.uk/h/Sport/Football/League+One",
+   "https://winner364.com/soccer-predictions/2026-11-14/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72341368",
+  "fx": "Milton Keynes Dons v Burton Albion",
+  "home_form": "MK Dons last 10: W2-1 Bromley(A, cup), W2-1 Swindon(H, FA Cup), W6-1 Doncaster(H), W4-1 Bromley(H), W1-0 Stevenage(A), L0-2 Blackpool(A), W2-1 Luton(H), L1-5 Reading(H), W7-1 Brentford U21(H), W4-1 Crawley(H). Five straight wins; home W6 L1.",
+  "away_form": "Burton last 10: L0-3 Notts Co(H, EFL Trophy), W4-0 Rushden(H, FA Cup), L0-2 Wycombe(A), W2-1 Orient(H), D0-0 Bradford(H), D2-2 Peterborough(A), L0-1 Doncaster(A), W4-2 Grimsby(A, cup), L1-3 Huddersfield(H), W1-0 Plymouth(A). League away: L0-2, D2-2, L0-1, W1-0.",
+  "trends": {
+   "game_totals": "MK Dons home games: 3+ goals in 7/7 (3,7,5,3,6,8,5). Burton games 2+ in 7/10.",
+   "team_totals": "MK Dons scored 2+ in 6/7 home games (MK O1.5 @1.62, p0.58). Burton blank in 4 of last 8 (Burton U1.5 @1.34).",
+   "first_half": "MK Dons scored first-half in 6 of 7 home games (1H O0.5 @1.30); led at HT in 4/7.",
+   "handicap": "MK Dons home wins by 1,5,3,1,6,3; Burton's away defeats by 2 and 1. MK -1.0 @2.10 is value-only.",
+   "corners": "Sportradar corners: MK home 3-4, 4-5, 7-5, 5-6, 2-5 - MK took 5+ in only 2 of 5 home games, so home O4.5 @1.41 is NOT supported."
+  },
+  "h2h": "None in the last 10 of either side.",
+  "absences": "No team news found in two searches. Both sides played cup ties on Tue 10 Nov (3 games in 8 days for each).",
+  "context": "League One, 15:00 UTC, confirmed on the 14 Nov list with no postponement. THURSDAY'S LEAN (O1.5) STILL STANDS and is slightly strengthened by MK's two further wins since (2-1, 2-1). Fresh pass adds Home DNB as fixture-specific: 6 wins in 7 at home against a Burton side with 1 win in 4 league away and beaten 0-3 at home on Tuesday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.805357,
+    "why": "All 7 MK Dons home games had 3+ goals and MK scored 2+ in 6 of them; a 1-0 is the only losing home-win score."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.7489550956,
+    "why": "MK Dons W6 L1 at home and on 5 straight wins; Burton W1 in last 4 league away, blank in 4 of last 8. Form-based, no named absence."
+   },
+   {
+    "mid": "68",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.3,
+    "p": 0.7404666984,
+    "why": "MK Dons scored before half-time in 6 of 7 home games."
+   }
+  ],
+  "avoid": [
+   "MK Dons home corners O4.5 (5+ in only 2 of 5)",
+   "MK -1.5"
+  ],
+  "confidence": 0.27,
+  "sources": [
+   "https://www.newsnow.co.uk/h/Sport/Football/League+One",
+   "https://winner364.com/soccer-predictions/2026-11-14/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72341372",
+  "fx": "Sheffield Wednesday v Plymouth Argyle",
+  "home_form": "Sheff Wed last 10: L0-4 Accrington(H, EFL Trophy), L1-2 Oldham(A, FA Cup), D1-1 Blackpool(H), D1-1 Cambridge(H), L0-2 Doncaster(A), L0-2 Notts Co(A, cup), W5-0 Wimbledon(H), D2-2 Huddersfield(A), W2-0 Sunderland U21(H), W2-1 Salford(A). Winless in 6 (D2 L4), 2 goals in the last 5.",
+  "away_form": "Plymouth last 10: W2-1 Swindon(H, cup), W4-0 Alvechurch(H, FA Cup), D0-0 Reading(H), W3-2 Cambridge(A), L0-3 Stevenage(A), L0-2 Huddersfield(H), W2-1 Wimbledon(H), 7-6 pens v Newport(A), W2-0 Orient(A), L0-1 Burton(H). League away: W3-2, L0-3, W2-0.",
+  "trends": {
+   "game_totals": "2+ goals in 10/10 Sheff Wed games but exactly 2 in 5 of them; Plymouth 2+ in 7/9 (90-minute scores).",
+   "team_totals": "Sheff Wed scored 0 or 1 in each of the last 6 (blank in 3); Plymouth blank in 3 of last 6 league games. Home O0.5 @1.20 and Away O0.5 @1.28 both look short.",
+   "first_half": "Sheff Wed trailed at HT in 3 of last 4 and conceded first-half in 4 of last 6.",
+   "handicap": "No margin trend; Wednesday's last 3 league results at home were 5-0, 1-1, 1-1.",
+   "corners": "Sportradar corners: Sheff Wed home 1-2, 10-9, 6-11, 2-4 (5+ in 2 of 4); no line supported."
+  },
+  "h2h": "None in the last 10 of either side.",
+  "absences": "Thursday's notes unchanged and unconfirmed in the last 36h: GK Joe Lumley (rib) possible return, back-up GK Maynard-Brewer (shoulder) out, Ali Al-Hamadi injured. Fresh fact from Sportradar: Wednesday lost 0-4 at home to Accrington on Wed 11 Nov, three days before this game.",
+  "context": "League One, 15:00 UTC, on the 14 Nov list with no postponement. THURSDAY'S LEAN (O1.5 as fill) IS WEAKENED, not overturned: since Thursday's stats cut Wednesday have lost twice in cups and now have 2 goals in 5 games, so the over depends on Plymouth scoring twice or Wednesday's leaky defence (2+ conceded in 5 of last 7). The house makes Wednesday DNB favourite @1.68 on a 6-game winless run - a fragile favourite, skip any home result-side. No leg.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Sheff Wed DNB @1.68 (winless in 6, 0-4 home defeat on Wednesday)",
+   "Over 1.5 @1.21 as anything more than fill",
+   "Sheff Wed O0.5 @1.20"
+  ],
+  "confidence": 0.18,
+  "sources": [
+   "https://www.newsnow.co.uk/h/Sport/Football/League+One",
+   "https://winner364.com/soccer-predictions/2026-11-14/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72341376",
+  "fx": "Stockport County FC v Reading FC",
+  "home_form": "Stockport last 10: W4-3 Tranmere(H, EFL Trophy), W3-2 Cray(A, FA Cup), W2-1 Wimbledon(H), L0-1 Oxford(A), D1-1 Notts Co(A, cup), W2-0 Doncaster(A), W1-0 Bromley(H), W3-1 Barnsley(H), W2-0 Shrewsbury(A), W1-0 Peterborough(H). Home: 5 straight wins (league 2-1, 1-0, 3-1, 1-0).",
+  "away_form": "Reading last 10: 5-7 pens v Bristol Rovers(A, Trophy), W5-0 Peterborough(A, FA Cup), L0-2 Oxford(A), D0-0 Plymouth(A), W2-1 Barnsley(H), W1-0 Orient(H), L0-1 Wigan(A), L0-2 Chelsea U21(H), W5-1 MK Dons(A), D1-1 Bradford(H). League away: L0-2, D0-0, L0-1, W5-1 - blank in 3 of 4.",
+  "trends": {
+   "game_totals": "Stockport games 2+ in 8/10, 3+ in 5/10; Reading league away games 0-2, 0-0, 0-1, 5-1. O1.5 is under the 1.18 floor; O2.5 @1.53 (p0.62) is not supported by Reading's away profile.",
+   "team_totals": "Stockport scored in 9/10 (in all 5 home games); Reading blank in 3 of 4 league away. Reading U1.5 @1.51 (p0.63) has trend support.",
+   "first_half": "STRONG: Stockport scored a first-half goal in only 1 of their last 10 (HT 0-0 five times) and their games had 0-1 first-half goals in 9/10; Reading's had 0-1 in 8/10. Stockport do their damage after the break.",
+   "handicap": "Stockport's home wins by 1,1,1,2,1 - narrow; -1.0 lines not supported.",
+   "corners": "Sportradar corners: Stockport home 3-0, 10-4, 7-3, 11-5 (5+ in 3 of 4; home O4.5 @1.30, p0.73 - thin sample, experiment-grade only)."
+  },
+  "h2h": "None between these two in the last 10 games of either side; no H2H found in sources.",
+  "absences": "Stockport: GK Oliver Whatmuff stayed with the club instead of joining England U20 (boost); same XI that beat Wimbledon expected, Kyle Wootton up front with Diamond and Benony Andresson wide. Reading: reported without Andy Rinomhota, with George Earthy (foot) and Jacob Brown doubts; a Yahoo preview lists up to nine unavailable including Lewis Wing, Paddy Lane, Jeriel Dorsett and Josh Knight - but WhoScored still predicts Wing to start, so Reading's XI is UNCERTAIN (source conflict on personnel, not on date/venue).",
+  "context": "League One, Edgeley Park 15:00 UTC, consistent across Sports Mole, WhoScored, Yahoo. THURSDAY'S LEAN (O1.5 mixed / avoid) STANDS for totals, and the fresh pass STRENGTHENS the home side: Thursday found no Reading news, now several Reading absences are reported against a settled Stockport XI with 5 straight home wins. Home DNB is the supported leg; first-half Under is the fixture-specific trend (value-grade Under, p0.58 - below the usual Under gate).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.41,
+    "p": 0.677446,
+    "why": "Settled Stockport XI (Whatmuff stays, Wootton leads) with 5 straight home wins v a Reading side reported missing Rinomhota plus up to eight more (Wing, Lane, Dorsett, Knight listed) and blank in 3 of 4 league away."
+   },
+   {
+    "mid": "68",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.65,
+    "p": 0.577473,
+    "why": "First-half goals 0-1 in 9 of Stockport's last 10 (Stockport scored before HT once in 10) and in 8 of Reading's last 10. Trend only; p0.58 so value-grade, not a core leg."
+   }
+  ],
+  "avoid": [
+   "Over 2.5 @1.53",
+   "Stockport -1.0 (home wins all by 1-2)",
+   "1st-half Stockport result"
+  ],
+  "confidence": 0.28,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/stockport-county/preview/stockport-vs-reading-prediction-team-news-lineups_608978.html",
+   "https://sports.yahoo.com/articles/stockport-county-vs-reading-2026-182059671.html",
+   "https://www.whoscored.com/matches/1989472/preview/england-league-one-2026-2027-stockport-county-reading",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72341378",
+  "fx": "Wigan Athletic v Barnsley FC",
+  "home_form": "Wigan last 10: W2-1 Crewe(A, cup), W3-0 Boreham Wood(A, FA Cup), D0-0 Mansfield(H), W3-2 Bromley(H), L0-3 Leicester(A), L1-2 Huddersfield(A), L1-2 Oxford(A), W1-0 Reading(H), L0-1 Stevenage(A), W3-2 Blackpool(H). Home league: D0-0, W3-2, W1-0, W3-2 - unbeaten.",
+  "away_form": "Barnsley last 10: W5-2 Oldham(H, EFL Trophy 11 Nov), W7-2 Aldershot(H, FA Cup), D1-1 Oxford(H), L1-2 Reading(A), L1-2 Luton(A), L1-2 Cambridge(H), L1-3 Stockport(A), L1-4 Fleetwood(A, cup), L3-4 Leeds U21(H), D1-1 Leicester(H). League: winless in 5, away L1-2, L1-2, L1-3.",
+  "trends": {
+   "game_totals": "Barnsley games 3+ goals in 8/10; Wigan games 3+ in 6/10 but two of the last four home games were 0-0 and 1-0. O1.5 is under the 1.18 floor; O2.5 @1.46 (p0.66).",
+   "team_totals": "Barnsley scored in all 10 (exactly 1 in all 6 league games); Barnsley conceded 2+ in 8/10. Wigan scored 0 or 1 in 5 of last 8 league games.",
+   "first_half": "Barnsley scored first in the first half in 6/10 (led at HT 1-0 in three straight league defeats - they lose leads). 1H O0.5 @1.25.",
+   "handicap": "Barnsley's last 4 league defeats by 1,1,1,2. Barnsley +1.5 @1.24 (p0.78) covered in 3 of those 4.",
+   "corners": "Sportradar corners: Wigan home 5-2, 4-5, 5-5 (5+ in 2 of 3); nothing supported."
+  },
+  "h2h": "None in the last 10 of either side (met in League Cup earlier per Sports Mole archive; score not retrieved).",
+  "absences": "Wigan: forward Scott Hogan out (injured v Mansfield, missed both cup ties); Dara Costelloe and Luke Harris also expected to miss; Christian Saydee to lead the line. Barnsley: defender Connor O'Riordan and attackers Ben Hamed Toure (back in training, fitness unclear) and Fabio Jalo out; Jack Shepherd, Patrick Kelly, Jonathan Bland doubts. Barnsley played Wed 11 Nov (3 days' rest).",
+  "context": "League One, DW Stadium 15:00 UTC, a 'decisive' game between two strugglers (the72). THURSDAY'S LEAN (O1.5, Barnsley leak) STANDS in direction; fresh absences cut both ways - Wigan lose three attackers (Hogan, Costelloe, Harris), Barnsley lose a centre-back (O'Riordan) plus two forwards. O1.5 is no longer priced inside the range; the usable expression is Barnsley to score (10/10) with their defence conceding 2+ in 8/10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.8025154454,
+    "why": "Barnsley have scored in all of their last 10 games (incl. all 6 league games) and Wigan kept only 2 clean sheets in their last 7 league games. Note: away team-to-score leg (weak class for cores)."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.46,
+    "p": 0.656323,
+    "why": "Barnsley conceded 2+ in 8 of 10 with centre-back O'Riordan still out, and score every game; 8 of their last 10 had 3+ goals. Value-grade (p0.66); Wigan's missing forwards are the risk."
+   }
+  ],
+  "avoid": [
+   "Wigan DNB @1.73 (missing Hogan, Costelloe, Harris)",
+   "Over 2 integer line @1.18",
+   "Barnsley result-side (winless in 5 league)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/wigan-athletic/preview/wigan-vs-barnsley-prediction-team-news-lineups_609021.html",
+   "https://the72.co.uk/2026/11/12/wigan-athletic-vs-barnsley-predictions/",
+   "https://www.whoscored.com/matches/1989604/preview/england-league-one-2026-2027-wigan-barnsley",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:68823470",
+  "fx": "America FC MG v Avai FC SC",
+  "home_form": "America-MG last 10: W1-0 Ceara(A), W3-1 Londrina(A), W1-0 Cuiaba(H), W1-0 Ferroviario(H), L0-1 Criciuma(A), L0-1 Fortaleza(H), L0-2 Atl-GO(A), L0-1 Juventude(H), L0-1 Vila Nova(A), L0-2 Sao Bernardo(H). Four straight wins after six straight defeats; home W2 L3.",
+  "away_form": "Avai last 10: W2-1 Sao Bernardo(H), L0-1 Nautico(A), L0-2 Botafogo-SP(H), D0-0 Athletic(H), W1-0 Cuiaba(A), W2-1 Londrina(H), L0-1 Ceara(H), L0-3 Criciuma(A), L1-2 Goias(A), D1-1 Vila Nova(H). Away: L0-1, W1-0, L0-3, L1-2.",
+  "trends": {
+   "game_totals": "America's last 10: nine games with 1 or 2 goals (seven with exactly 1); Avai 2 or fewer goals in 6/10. Under 2.5 @1.82 (p0.52) and Under 3.5 @1.31 (p0.73) both have trend support but sit below any Under gate.",
+   "team_totals": "America scored exactly 1 in 3 of the 4 wins and were blank in the 6 defeats before; Avai blank in 4/10.",
+   "first_half": "0-0 at half-time in 6 of America's last 10 and 0-1 first-half goals in 9/10; Avai's games 0-1 first-half goals in 8/10. 1H Under 1.5 @1.40 (p0.68) is the fixture-specific trend.",
+   "handicap": "America's last 10: eight decided by exactly one goal, two by two goals. No handicap leg.",
+   "corners": "No team-corner markets; game corners only (166), no data."
+  },
+  "h2h": "Avai v America-MG earlier in 2026 (first half of season) - score not retrieved.",
+  "absences": "America-MG: left-back Luidy suspended; Rafa Barcelos returns from suspension; Del Piage, Juan Rocha, Leo Chu and William reported injured. Probable: Bruno Brigido; Otavio, Ricardo Silva, Rafa Barcelos, Thomas Ostchega; Jorge Jimenez, Barreto, Segovia; Guilherme Parede, Willian Bigode, Paulo Victor (coach Moacir Junior). Avai (interim coach Marquinhos Santos): Daniel Penha and Rildo back as options; probable Igor Bohn; Wallison, Allyson, Reynaldo, Quaresma; Ze Ricardo, Hyan, Wanderson, Luiz Henrique, Jean Lucas; Leo Gamalho.",
+  "context": "Serie B round 38, Arena Independencia, 16:30 local = 19:30 UTC (Terra, 14 Nov) - no conflict. THURSDAY'S PREMISE IS CORRECTED: America-MG are ALREADY RELEGATED (dead rubber, though on 4 straight wins), it is AVAI who are in the drop fight - 17th on 40 pts, they must win AND need Ceara to lose at CRB. Thursday's conclusion (AVOID O1.5, no leg) STILL STANDS: America's games are almost all one-goal games, and a desperate Avai have lost 3 of 4 away. The house already makes Avai DNB favourite (@1.64); an away must-win side with that away record is not a leg.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 1.5 @1.31 (America: 7 of last 10 with exactly one goal)",
+   "Avai DNB @1.64 / Avai 1X2 (must-win premium already in the price; L3 of 4 away)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.terra.com.br/esportes/futebol/america-mg-x-avai-onde-assistir-ao-vivo-horario-e-escalacoes-pela-38-rodada-da-serie-b,e1ea3ded54665d512ca41efdffb6279ccn7z85yu.html",
+   "https://www.olympics.com/pt/noticias/serie-b-2026-ultima-rodada-programacao-onde-assistir",
+   "https://www.365scores.com/pt-br/news/magazine/serie-b-cenarios-ultima-rodada-acesso-playoffs-rebaixamento/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:68823482",
+  "fx": "CR Brasil AL v Ceara SC CE",
+  "home_form": "CRB last 10: W3-0 Nautico(A), L1-2 Goias(A), W2-1 Londrina(H), L0-1 Botafogo-SP(H), D2-2 Fortaleza(A), W3-1 Atl-GO(H), L1-3 Sao Bernardo(A), W3-0 Cuiaba(H), L0-1 Ponte Preta(A), W2-1 Sport(H). Home: W4 L1 (2-1, 0-1, 3-1, 3-0, 2-1).",
+  "away_form": "Ceara last 8 league: L0-1 America-MG(H), L1-2 Athletic(A), L0-2 Goias(H), D2-2 Juventude(H), L0-1 Botafogo-SP(A), W1-0 Criciuma(H), W1-0 Avai(A), D2-2 Ferroviario(A). Three straight defeats, 1 win in 6. (The 9 and 12 Nov games in the feed are Ceara state-cup fixtures v Vila Real and Atletico-CE - a second-string side, not congestion for the first team.)",
+  "trends": {
+   "game_totals": "CRB home games 3+ goals in 4/5; Ceara league games 2 or fewer goals in 5/8.",
+   "team_totals": "CRB scored 2+ in 4 of 5 home games (CRB O1.5 @1.53, p0.62); Ceara scored 0 or 1 in 6 of 8 and blank in 3 of the last 5 league games (Ceara U1.5 @1.22).",
+   "first_half": "CRB led at HT in 3 of 5 home games; Ceara 0-0 at HT in 5 of 8 league games.",
+   "handicap": "CRB home wins by 1,2,3,1; CRB -1.0 @1.72 not supported well enough.",
+   "corners": "Game corners only; no data."
+  },
+  "h2h": "Reverse fixture in the first half of the season - score not retrieved.",
+  "absences": "Sources conflict on CRB/Ceara absences: one lists Pedro Castro suspended, another lists Lucca suspended with Luizao, Renzo Lopez and Savio out - which club each belongs to was not confirmed, treat as unverified.",
+  "context": "Serie B round 38, 19:30 UTC, simultaneous kick-offs. Both sides need it: CRB are 6th on 58 pts, level with Goias and Atletico-GO for the last play-off place (must win); Ceara are the side Avai (17th, 40 pts) can still overtake, so Ceara need to avoid defeat. THURSDAY'S LEAN (O1.5 on CRB's must-win and open home games) STANDS BUT IS NOT STRENGTHENED: the fresh pass confirms Thursday's worry - a point probably keeps Ceara up, so they have every reason to sit in, and they have scored 1 goal in their last 3 league games. Kept as a low-confidence leg; Serie B is a low-scoring league.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.795101,
+    "why": "CRB must win for the play-offs and 4 of their 5 home games had 3+ goals (CRB scored 2+ in 4); Ceara have conceded in 5 of their last 6 league games. Risk: Ceara playing for 0-0."
+   }
+  ],
+  "avoid": [
+   "CRB 1X2 @1.47 (p0.66 - must-win premium priced in; Ceara need only a draw)",
+   "Ceara O0.5 @1.63"
+  ],
+  "confidence": 0.22,
+  "sources": [
+   "https://www.olympics.com/pt/noticias/serie-b-2026-ultima-rodada-programacao-onde-assistir",
+   "https://www.365scores.com/pt-br/news/magazine/serie-b-cenarios-ultima-rodada-acesso-playoffs-rebaixamento/",
+   "https://rtiesporte.com.br/crb-x-ceara-onde-assistir-horario-serie-b/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:68823484",
+  "fx": "EC Juventude RS v Botafogo FC SP",
+  "home_form": "Juventude last 10: W2-1 Cuiaba(A), D2-2 Vila Nova(A), W4-0 Nautico(H), D2-2 Ceara(A), D2-2 Sao Bernardo(H), W2-0 Ponte Preta(A), W3-0 Ferroviario(H), W1-0 America-MG(A), L1-2 Sport(A), L0-2 Athletic(H). Unbeaten in 8 (W5 D3); home: 4-0, 2-2, 3-0, 0-2.",
+  "away_form": "Botafogo-SP last 10: W4-0 Londrina(H), D1-1 Sport(H), W2-0 Avai(A), W1-0 CRB(A), W1-0 Ceara(H), W2-1 Ferroviario(A), L0-1 Vila Nova(H), W2-0 Ponte Preta(H), D1-1 Athletic(A), L1-3 Goias(H). Unbeaten in 5 (W4 D1), 3 straight away wins, 4 clean sheets in 5.",
+  "trends": {
+   "game_totals": "Juventude games 3+ goals in 6/10 (2+ in 9/10); Botafogo-SP games 2 or fewer in 6/10.",
+   "team_totals": "Juventude scored in 9/10 and 2+ in 7 of the last 8 (Juventude O1.5 @1.62, p0.58); Botafogo-SP conceded 0 or 1 in 9/10.",
+   "first_half": "Juventude led at HT in 4/10 (2-0 at HT in both recent home wins); Botafogo-SP conceded first-half in 3/10.",
+   "handicap": "Juventude's home wins by 4 and 3; away wins by 1-2. Botafogo-SP's two defeats in 10 by 1 and 2.",
+   "corners": "Game corners only; no data."
+  },
+  "h2h": "Reverse fixture: Botafogo-SP 4-2 Juventude (first half of season, per Thursday's file).",
+  "absences": "Patrick Brey and Morelli are reported suspended for this game (the round-up does not make clear for which side; both are believed to be Botafogo-SP players - unverified). No Juventude absences found.",
+  "context": "Serie B round 38, 19:30 UTC. Juventude (68 pts) are promoted directly with a win; Vila Nova are chasing the same place, so a draw may not be enough - a genuine must-win. Botafogo-SP are not among the sides named in the title, promotion, play-off or relegation scenarios (nothing at stake found). THURSDAY'S LEAN (Home 1X2) STILL STANDS and is marginally strengthened by the two reported suspensions; the counter-evidence is unchanged and real - Botafogo-SP are the form away side of the division (3 straight away wins without conceding) and won the reverse 4-2. Moderate, not an anchor.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.41,
+    "p": 0.685018,
+    "why": "Juventude win = direct promotion (Vila Nova chasing, so they cannot play for a draw), unbeaten in 8 with 4-0 and 3-0 in the last two home wins, v a Botafogo-SP side with nothing at stake and two players reported suspended."
+   }
+  ],
+  "avoid": [
+   "Juventude -1.0/-1.5 (Botafogo-SP concede 0-1 in 9/10)",
+   "Over 2.5 @1.93",
+   "Botafogo-SP O0.5 @1.95"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.olympics.com/pt/noticias/serie-b-2026-ultima-rodada-programacao-onde-assistir",
+   "https://www.365scores.com/pt-br/news/magazine/serie-b-cenarios-ultima-rodada-acesso-playoffs-rebaixamento/",
+   "https://rtiesporte.com.br/juventude-x-botafogo-sp-onde-assistir-serie-b/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:68823480",
+  "fx": "SC Recife PE v Goias EC GO",
+  "home_form": "Sport last 10: L2-3 Ferroviario(A), D1-1 Botafogo-SP(A), W2-1 Criciuma(H), L0-2 Fortaleza(H), D1-1 Atl-GO(A), W2-1 Sao Bernardo(H), W2-1 Athletic(A), L1-3 Nautico(A), W2-1 Juventude(H), L1-2 CRB(A). Home: 2-1, 0-2, 2-1, 2-1.",
+  "away_form": "Goias last 10: W1-0 Ponte Preta(H), W2-1 CRB(H), W2-0 Ceara(A), D0-0 Nautico(H), W2-0 Ferroviario(A), W2-1 Athletic(H), L0-3 Novorizontino(A), L0-1 Atl-GO(H), W2-1 Avai(H), W3-1 Botafogo-SP(A). Five wins in 6; away: 2-0, 2-0, 0-3, 3-1.",
+  "trends": {
+   "game_totals": "2+ goals in all 10 of Sport's last 10 games (3+ in 6); Goias 2+ in 7/10.",
+   "team_totals": "Sport have CONCEDED in all 10 (17 against); Goias scored in 7/10 and 2+ in 6/10 - in each of their 3 away wins they scored 2+. Goias O0.5 @1.21 (p0.79); Goias O1.5 @1.98.",
+   "first_half": "Sport conceded before half-time in 7/10; Goias scored first-half in 4/10.",
+   "handicap": "Sport's games: 8 of 10 level or decided by one goal; Goias away results by 2,2,-3,2.",
+   "corners": "Game corners only; no data."
+  },
+  "h2h": "Reverse fixture at Serrinha at the end of the first half of the season - score not retrieved.",
+  "absences": "No absences confirmed for this round (search results mixed in the first-half-of-season meeting; discarded).",
+  "context": "Serie B round 38, Ilha do Retiro, 19:30 UTC. Goias are level on 58 pts with CRB and Atletico-GO for the last play-off place and must win; Sport are not named in any promotion/play-off/relegation scenario (nothing at stake found). THURSDAY'S LEAN (O1.5) STILL STANDS AND IS STRENGTHENED by the fresh team-total cut: Sport have conceded in 10 straight and every one of those games had 2+ goals, while Goias have to chase a win. Goias DNB @1.61 is tempting but is an away result-side at p0.59 - skip.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.781704,
+    "why": "All 10 of Sport's last 10 had 2+ goals (Sport scored in 9, conceded in 10) and Goias must win to make the play-offs, so they cannot sit on 0-0."
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.21,
+    "p": 0.7942504444,
+    "why": "Sport have conceded in 10 straight games; Goias must win and scored 2+ in each of their 3 recent away wins. Note: away team-to-score leg, correlated with the O1.5."
+   }
+  ],
+  "avoid": [
+   "Goias 1X2 @2.20 / DNB @1.61 (away result-side, p0.59)",
+   "Under lines"
+  ],
+  "confidence": 0.28,
+  "sources": [
+   "https://www.olympics.com/pt/noticias/serie-b-2026-ultima-rodada-programacao-onde-assistir",
+   "https://www.365scores.com/pt-br/news/magazine/serie-b-cenarios-ultima-rodada-acesso-playoffs-rebaixamento/",
+   "https://br.soccerway.com/noticias/goias/hfAZyE0tnZdPEiqF",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:76676664",
+  "fx": "Atletico Nacional v CD Once Caldas",
+  "home_form": "Nacional last 10: D1-1 Once Caldas(A, cup, 11 Nov), W4-3 Pereira(H), D1-1 Bucaramanga(A), W2-0 Santa Fe(H), W2-1 Medellin(H), W3-0 Pasto(H), L0-1 Cucuta(A), W4-1 Chico(A), W3-2 Medellin(H), D0-0 Tolima(H). Home: W5 D1 in 6.",
+  "away_form": "Once Caldas last 10: D1-1 Nacional(H, cup), W1-0 Aguilas(H), W2-0 Santa Fe(A), W1-0 Alianza(H), D1-1 Pereira(H), D1-1 Millonarios(A), W2-0 Medellin(A), W1-0 Llaneros(H), D1-1 Inter Bogota(A), L1-3 Bucaramanga(H). Unbeaten in 9 (W5 D4); away: 2-0, 1-1, 2-0, 1-1 - unbeaten.",
+  "trends": {
+   "game_totals": "Nacional home games 3+ goals in 4/6; Once Caldas games 2 or fewer goals in 9/10 (3 conceded in 9). The profiles conflict - O1.5 @1.24 not supported.",
+   "team_totals": "Once Caldas conceded 0 or 1 in each of the last 9; scored in all 10. Once Caldas O0.5 @1.27 (p0.75) has trend support (10/10) plus Nacional's likely second string.",
+   "first_half": "Once Caldas led 1-0 at HT against Nacional on Wednesday; 0-0 at HT in 5 of their last 9.",
+   "handicap": "Once Caldas have not lost by 2+ since 26 Sep (1-3 v Bucaramanga); none of their last 9 was a defeat.",
+   "corners": "Sportradar corners (for-against): Nacional home 9-1, 1-3, 3-8, 3-2, 8-7 - erratic; Once Caldas away 6-9, 3-5, 3-2, 5-1. No corner line supported; Nacional home O4.5 @1.45 passed in only 2 of 5."
+  },
+  "h2h": "Wed 11 Nov 2026: Once Caldas 1-1 Nacional (cup, 1-0 HT) - the sides meet again three days later.",
+  "absences": "No line-up news found in the last 36h. Nacional are confirmed 1st and already qualified; this is their third game in seven days (8, 11, 14 Nov).",
+  "context": "Liga BetPlay fecha 19 (last round), Atanasio Girardot, 15:30 local = 20:30 UTC, confirmed by Dimayor programme - no conflict. THURSDAY'S READ IS PARTLY OVERTURNED: Thursday assumed Once Caldas 'may settle for a point'. The published scenarios say otherwise - a WIN qualifies Once Caldas outright (30 pts); a draw (28) only qualifies them if neither Tolima nor Aguilas win; a defeat needs both to lose. So Once Caldas must go for it against a Nacional side with nothing to play for (seed 1 secured). Rotation by Nacional remains likely but unconfirmed. The supported side is now the away team with a cushion, not the total.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.18,
+    "p": 0.8144445592,
+    "why": "Once Caldas need to win to qualify outright and are unbeaten in 9 (0-1 conceded in each), drew 1-1 with Nacional three days ago; Nacional are already top seed in a dead rubber, third game in 7 days. Loses only if Nacional win by 2+."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.54,
+    "p": 0.616287,
+    "why": "Same mechanism (must-win visitors unbeaten in 9 v already-qualified hosts); value-grade at p0.62 because Nacional are W5 D1 at home even when rotating."
+   }
+  ],
+  "avoid": [
+   "Over 1.5 @1.24 (Once Caldas games 2 or fewer goals in 9/10)",
+   "Nacional DNB @1.75 (dead rubber, rotation risk)",
+   "Nacional home corners"
+  ],
+  "confidence": 0.27,
+  "sources": [
+   "https://www.365scores.com/es/news/liga-betplay-escenarios-tabla-hoy/",
+   "https://www.clarosports.com/colombia/liga-bet-play/asi-se-jugara-la-fecha-19-de-la-liga-betplay-dimayor-2026-ii-fechas-y-horarios-de-los-partidos-de-la-ultima-jornada-del-todos-contra-todos/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:76676668",
+  "fx": "CA Bucaramanga v Fortaleza FC",
+  "home_form": "Bucaramanga last 10: W4-0 Jaguares(A), D1-1 Nacional(H), W2-1 Pasto(H), L1-2 Santa Fe(A), L0-1 Chico(A), D1-1 America(H), D1-1 Aguilas(H), W3-1 Junior(H), W3-1 Once Caldas(A), W2-0 Inter Bogota(H). Home: unbeaten W3 D3 in 6.",
+  "away_form": "Fortaleza last 9 (90-min): L0-3 Medellin(H), L0-1 Aguilas(A), L1-2 America(A), D1-1 Cali(H), L1-2 Inter Bogota(A), D1-1 Millonarios(H), D0-0 Pasto(A), D2-2 Tolima(H), L1-4 Junior(H); plus a cup tie v Santa Fe lost on penalties. Winless in 9+, bottom of the table on 12 pts.",
+  "trends": {
+   "game_totals": "Bucaramanga home games: 2 goals in 3 of 6, 3+ in 2 of 6; Fortaleza games 2 or fewer in 5/9. No totals lean; O1.5 @1.31 (p0.74) not supported enough.",
+   "team_totals": "Bucaramanga scored in all 6 home games (2+ in 3); Fortaleza scored 0 or 1 in 8/9 (Fortaleza U1.5 @1.18, p0.81).",
+   "first_half": "Bucaramanga scored first-half in 4 of 6 home games; Fortaleza trailed at HT in 4/9.",
+   "handicap": "Bucaramanga's three home draws were all 1-1 - the reason for DNB over 1X2 (-0.5 @1.54).",
+   "corners": "Sportradar corners: Bucaramanga home 7-2, 2-3, 2-8, 3-6, 2-7 - they took 4+ in only 1 of 5 home games, so home O3.5 @1.41 is AGAINST the data (home U4.5 @1.83 has the trend, but it is an Under on a small sample)."
+  },
+  "h2h": "None in the last 10 of either side.",
+  "absences": "No line-up news found. Bucaramanga are confirmed qualified for the cuadrangulares (365Scores, Alerta), so rotation is possible; Fortaleza are last.",
+  "context": "Liga BetPlay fecha 19, Estadio Americo Montanini, 20:30 UTC, confirmed - no conflict. THURSDAY'S LEAN (Home DNB) STILL STANDS, unchanged: Bucaramanga's qualification is now confirmed (not just assumed), which keeps the rotation risk; Fortaleza have since lost again (0-3 at home) and are bottom with nothing to play for. Price is short (1.20).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.798906,
+    "why": "Bucaramanga unbeaten in 6 at home v the bottom side, winless in 9 with 3 straight defeats; DNB covers the 1-1 home draws (3 of 6) and a rotated XI."
+   }
+  ],
+  "avoid": [
+   "Bucaramanga 1X2 @1.55 (3 home draws in 6, qualified, rotation)",
+   "Bucaramanga home corners O3.5 (4+ in 1 of 5)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/es/news/liga-betplay-escenarios-tabla-hoy/",
+   "https://www.clarosports.com/colombia/liga-bet-play/asi-se-jugara-la-fecha-19-de-la-liga-betplay-dimayor-2026-ii-fechas-y-horarios-de-los-partidos-de-la-ultima-jornada-del-todos-contra-todos/",
+   "https://www.alerta.com.co/deportes/liga-betplay-2026-ii-fechas-y-horarios-de-la-jornada-19-254597",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:76676666",
+  "fx": "Cucuta Deportivo FC v Jaguares de Cordoba",
+  "home_form": "Cucuta last 10: L0-2 Junior(A), W1-0 Santa Fe(H), L0-2 Aguilas(H), L1-3 America(A), W1-0 Nacional(H), W1-0 Chico(A), W4-0 Pereira(H), W2-1 Llaneros(H), L0-3 Cali(A), L1-2 Millonarios(H). Home: W4 L2 in 6.",
+  "away_form": "Jaguares last 10: L0-4 Bucaramanga(H), L0-2 Pasto(A), L0-1 Pereira(A), W1-0 Llaneros(H), L1-2 Santa Fe(A), L1-4 Millonarios(A), W3-2 Tolima(H), L0-2 Aguilas(A), L1-2 Alianza(H), L1-2 Medellin(A). Six straight away defeats (GD 3-13); 19th on 13 pts, blank in the last 3.",
+  "trends": {
+   "game_totals": "Cucuta home games: 1-0, 0-2, 1-0, 4-0, 2-1, 1-2 - 2+ goals in 4/6; Jaguares away 2+ in 5/6. O1.5 @1.23 is only moderately supported (two 1-0s at home).",
+   "team_totals": "Cucuta scored in 5 of 6 home games but 2+ in only 2; Jaguares conceded in all 6 away games (2+ in 5). Cucuta O1.5 @1.58 (p0.59) has away-side support and Cucuta need goals.",
+   "first_half": "Jaguares trailed at HT in 3 of 6 away games; Cucuta 1H goal in 3 of 6 home games.",
+   "handicap": "Jaguares away defeats by 2,1,1,3,2,1.",
+   "corners": "Sportradar corners: Cucuta home 2-6, 13-2, 3-9, 6-0, 2-3 - erratic, home O4.5 @1.32 passed in only 2 of 5; not supported."
+  },
+  "h2h": "None in the last 10 of either side.",
+  "absences": "No line-up news found.",
+  "context": "Liga BetPlay fecha 19, Estadio General Santander, 20:30 UTC, confirmed - no conflict. THURSDAY'S LEAN (Home DNB) STILL STANDS and is slightly strengthened on motivation: Cucuta are mathematically alive only if they WIN and overturn a goal difference (-7) with other results going their way - so they must attack from the start, against a Jaguares side with six straight away defeats and no goals in three. Draw or defeat eliminates Cucuta.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.794633,
+    "why": "Cucuta must win (and win big) to stay alive, W4 of 6 at home incl. Nacional and Santa Fe; Jaguares have lost 6 straight away and are blank in their last 3."
+   }
+  ],
+  "avoid": [
+   "Over 1.5 as an anchor (Cucuta home wins 1-0 x2)",
+   "Cucuta home corners O4.5",
+   "Cucuta -1.5"
+  ],
+  "confidence": 0.27,
+  "sources": [
+   "https://www.365scores.com/es/news/liga-betplay-escenarios-tabla-hoy/",
+   "https://www.clarosports.com/colombia/liga-bet-play/asi-se-jugara-la-fecha-19-de-la-liga-betplay-dimayor-2026-ii-fechas-y-horarios-de-los-partidos-de-la-ultima-jornada-del-todos-contra-todos/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:75837128",
+  "fx": "Millonarios FC v Alianza FC Valledupar",
+  "home_form": "Millonarios last 9 (90-min): L1-2 Tolima(A), D0-0 America(H), D1-1 Once Caldas(H), W4-1 Jaguares(H), D1-1 Fortaleza(A), D2-2 Medellin(A), D1-1 Nacional(A), W3-0 Chico(H), W2-1 Cucuta(A); plus a cup tie v Barranquilla lost on penalties. One win in 7; home: 0-0, 1-1, 4-1, 3-0.",
+  "away_form": "Alianza last 10: L1-2 Llaneros(H), L1-2 Medellin(A), L0-1 Once Caldas(A), W1-0 Inter Bogota(H), W1-0 Pasto(A), D2-2 Aguilas(H), L1-3 Cali(A), W2-1 Jaguares(A), L1-4 Santa Fe(H), W2-1 Chico(A). Three straight defeats; not among the six sides still in contention (eliminated).",
+  "trends": {
+   "game_totals": "2+ goals in 8/9 Millonarios games and 7/10 Alianza games; 3+ in 4/9 and 6/10.",
+   "team_totals": "Millonarios scored in 8/9 (2+ in 4); Alianza scored in 9/10 (Alianza O0.5 @1.90, p0.49) and conceded in 8/10.",
+   "first_half": "Millonarios 1H goal for or against in 6/9; Alianza games had a first-half goal in 8/10 (1H O0.5 @1.30, p0.73).",
+   "handicap": "Millonarios home wins by 3 and 3; five draws in their last 7.",
+   "corners": "Sportradar corners: Millonarios home 7-4, 5-3, 3-0, 6-6 - 5+ in 3 of 4 (home O4.5 @1.25, p0.76); thin sample, experiment-grade only."
+  },
+  "h2h": "None in the last 10 of either side.",
+  "absences": "No line-up news found in the last 36h.",
+  "context": "Liga BetPlay fecha 19, El Campin, 20:30 UTC. NOTE: one news summary listed 'Millonarios v Fortaleza' for this slot, but the Dimayor programme (ClaroSports) and 365Scores both give Millonarios v Alianza FC at El Campin, matching the board and Sportradar - no conflict, no veto. A win (30 pts) qualifies Millonarios without help; a draw leaves them needing two other results. Alianza are out. THURSDAY'S LEAN (O1.5 better than the 1X2) STILL STANDS: the must-win is now fully confirmed, but Millonarios remain a fragile favourite (1 win in 7, 0-0 and 1-1 in their last two home games), so the short 1X2 @1.32 is not a leg; the total is the cleaner expression.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.776076,
+    "why": "Millonarios must win at home to qualify and cannot sit on a draw; 8 of their last 9 had 2+ goals, and eliminated Alianza have scored in 9 of 10 and conceded in 8 of 10."
+   }
+  ],
+  "avoid": [
+   "Millonarios 1X2 @1.32 (fragile favourite: 1 win in 7, two home draws running)",
+   "Millonarios -1.5 @1.94"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/es/news/liga-betplay-escenarios-tabla-hoy/",
+   "https://www.clarosports.com/colombia/liga-bet-play/asi-se-jugara-la-fecha-19-de-la-liga-betplay-dimayor-2026-ii-fechas-y-horarios-de-los-partidos-de-la-ultima-jornada-del-todos-contra-todos/",
+   "https://www.noticiascaracol.com/golcaracol/futbol-colombiano/dia-y-hora-de-fecha-19-de-la-liga-betplay-2026-ii-con-millonarios-buscando-su-clasificacion-rg10",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:66887166",
+  "fx": "Mirassol FC SP v Atletico Mineiro MG",
+  "home_form": "Mirassol last 10: W2-1 Chapecoense(A), L0-2 Corinthians(A), D1-1 Sao Paulo(H), W2-0 Internacional(H), L0-1 Bahia(A), D1-1 Bragantino(A), W2-0 Botafogo(H), D2-2 Vitoria(H), W2-1 Coritiba(A), L0-2 Flamengo(A). Home: unbeaten W2 D2 in 4, scored in all 4.",
+  "away_form": "Atletico-MG last 10: D1-1 Gremio(H), L0-1 Botafogo(A), L0-2 Gremio(A), L0-1 Cruzeiro(H), L2-3 Flamengo(A), L0-2 Montevideo City(A), W1-0 Coritiba(H), W3-0 Montevideo City(H), W2-1 Santos(H), D2-2 Paranaense(A). Winless in 6 (D1 L5); lost their last 4 away, blank in 3 of them.",
+  "trends": {
+   "game_totals": "Mirassol home games 2,2,2,4 goals; Atletico's last 6: 2,1,2,1,5,2 - five of six with 2 or fewer. O1.5 @1.27 (p0.76) stays unsupported.",
+   "team_totals": "Mirassol scored in all 4 home games (2 in three of them) - Mirassol O0.5 @1.20 (p0.80). Atletico failed to score in 4 of their last 6 and in 3 of 4 away - Atletico U1.5 @1.38 (p0.69).",
+   "first_half": "Atletico conceded in the first half in each of their last 5 games (trailed at HT in 4); Mirassol's home games were level at HT in 3 of 4. 1H Mirassol DNB @1.54 is the indicated first-half angle (thin).",
+   "handicap": "Atletico's away defeats by 1,2,1,2. Mirassol +0.5 @1.29 (p0.74) and Mirassol DNB @1.47 (p0.65) both covered in all 4 recent home games.",
+   "corners": "Sportradar corners (for-against): Mirassol home 7-7, 5-2, 3-4, 12-5 (4+ in 3 of 4; home O3.5 @1.20). Atletico away 4-4, 14-4, 0-14, 1-9 - erratic. No corner leg."
+  },
+  "h2h": "None in the last 10 of either side (Atletico v Mirassol was round 16; score not retrieved).",
+  "absences": "Atletico-MG: Tomas Perez suspended (third yellow); Victor Hugo, Reinier and Thiago Borbas injured; Alan Franco and Alan Minda out (released from Ecuador's squad with physical problems). Lyanco and Maycon may return; Kevin Castano is available (not with Colombia); Fred doubtful in one report. Probable: Everson; Natanael, Ruan Tressoldi (Leo Duarte), Vitor Hugo, Renan Lodi; Castano, Alexsander (Cisse), Fred, Bernard; Cuello, Cassierra - reports differ (another has Lyanco, Dudu, Igor Gomes, Maycon). Mirassol: Negueba out (knee surgery); Edson Carioca and Bruno Santos back from suspension. Probable: Walter; Igor Formiga, Joao Victor, Willian Machado, Reinaldo; Denilson, Neto Moura, Eduardo; Edson Carioca, Andre Luis, Alesson.",
+  "context": "Brasileirao, Mirassol, 18:30 local = 21:30 UTC on 14 Nov per O Tempo / No Ataque / Terra - no conflict. THURSDAY'S LEAN (AVOID O1.5; Mirassol side better supported) STILL STANDS AND IS STRENGTHENED: Friday's previews confirm six Atletico absentees (down from the eight feared - Lyanco and Maycon may return) with the XI still unsettled, and Atletico have since extended their winless run to six. NEW: Mirassol DNB is now on the board (@1.47) - Thursday it was not. Flag: Atletico are a big club and likely to rotate with a cup final ahead, so price moves late are possible.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.801197,
+    "why": "Mirassol scored in all 4 recent home games; Atletico arrive with six absentees incl. Alan Franco and Tomas Perez from the defensive spine, have conceded in each of their last 5 and are winless in 6."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.47,
+    "p": 0.650853,
+    "why": "Mirassol unbeaten in 4 at home (and get Edson Carioca and Bruno Santos back) v an Atletico side with six out, four straight away defeats and 3 blanks in those 4. DNB voids the draw. big_club flag applies."
+   }
+  ],
+  "avoid": [
+   "Over 1.5 @1.27 (Atletico blank in 4 of last 6)",
+   "Atletico O0.5 @1.41",
+   "Any Atletico result-side"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.otempo.com.br/sports/atletico/2026/11/13/mirassol-x-atletico-onde-assistir-provaveis-escalacoes-e-mais-da-partida-pelo-brasileirao",
+   "https://noataque.com.br/futebol/brasileirao-serie-a/time/atletico-mg/noticia/2026/11/13/mirassol-x-atletico-desfalques-e-provaveis-escalacoes-pelo-brasileiro-2/",
+   "https://www.terra.com.br/esportes/atletico-mg/mirassol-x-atletico-onde-assistir-escalacoes-e-arbitragem,e5b400b4891387262fca9e3a37c24201taqq8vov.html",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:76229052",
+  "fx": "Chapecoense SC v CR Vasco da Gama RJ",
+  "home_form": "Chapecoense last 10: L1-2 Mirassol(H), L0-3 Bragantino(A), W2-1 Fluminense(H), L0-1 Botafogo(A), L1-4 Paranaense(H), L0-4 Vitoria(A), D1-1 Atl. Nacional(A, cup), D1-1 Atletico-MG(A), L1-2 Internacional(H), W2-1 Corinthians(A). Home: 1-2, 2-1, 1-4, 1-2 - W1 L3, all with 3+ goals.",
+  "away_form": "Vasco last 9 (90-min): W3-1 Paranaense(A), L0-1 Palmeiras(A), L1-4 Flamengo(H), W3-2 Corinthians(H), L1-3 Boca(H), L0-1 Sao Paulo(A), W1-0 Boca(A), D0-0 Remo(H), W2-1 Botafogo(A); plus a cup tie v Palmeiras on 8 Nov decided on penalties. Away: 3-1, 0-1, 0-1, 1-0, 2-1.",
+  "trends": {
+   "game_totals": "Chapecoense home games 4/4 with 3+ goals; 2+ goals in 9 of their last 10. Vasco 2+ in 5/9, but three of five away games had exactly one goal.",
+   "team_totals": "Chapecoense scored in all 4 home games (Chape O0.5 @1.64, p0.58) and conceded 2+ in 3 of 4; Vasco conceded in 6 of their last 7. Vasco O1.5 @1.49 (p0.64).",
+   "first_half": "Chapecoense home games level 1-1 at HT in 3 of 4 - goals in both halves; 1H O0.5 @1.29 (p0.75) has fixture support.",
+   "handicap": "Chapecoense home defeats by 1,3,1; Vasco away wins by 2,1,1. Vasco -1.0 @1.67 not supported (two of three away wins by one).",
+   "corners": "No corner data pulled; home/away team corners on board, no supported line."
+  },
+  "h2h": "Vasco v Chapecoense earlier in the season (Sao Januario) - score not retrieved.",
+  "absences": "Vasco: Thiago Mendes (back) and Santiago Sosa (thigh) - the midfield spine - both OUT; Tche Tche also not in the travelling party; Nuno Moreira did not travel. Probable: Leo Jardim; Paulo Henrique (Puma Rodriguez), Saldivia, Robert Renan, Cuiabano; Jair, Ramon Rique, Lescano; Andres Gomez, Bruno Duarte, Colidio. Chapecoense: no clear injury list; probable Anderson; Heitor, Kauan, Rafael Thyere, Bruno Pacheco; Camilo, Yago Felipe; Marcinho, Augusto, Bolasie; Tulio Eduardo. Interim coach Rodrigo Chipp.",
+  "context": "Brasileirao, Arena Conda, Sat 14 Nov 20:30 local = 23:30 UTC (Lance, Gazeta) - no conflict. Chapecoense are bottom and ALREADY RELEGATED under an interim coach. THURSDAY'S LEAN (O1.5; away DNB weaker) STILL STANDS: fresh news cuts against the Vasco result-side - Thursday's unverified worry about absences is now concrete (Thiago Mendes, Sosa, Tche Tche and Nuno Moreira all out, makeshift midfield of Jair, Ramon Rique, Lescano) - while the goals case is intact (Chape's home games all 3+, Vasco's patched midfield protects a defence that concedes most weeks). Vasco 1X2 @1.44 is an away side at p0.67 with a rebuilt midfield: skip.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.804039,
+    "why": "All 4 recent Chapecoense home games had 3+ goals (Chape scored in each, conceded 2+ in 3); Vasco are without their first-choice midfield (Thiago Mendes, Sosa, Tche Tche) and have conceded in 6 of their last 7."
+   },
+   {
+    "mid": "68",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.29,
+    "p": 0.746932,
+    "why": "Three of Chapecoense's four recent home games were 1-1 at half-time and the other 0-3; relegated side with nothing to protect. Correlated with the O1.5."
+   }
+  ],
+  "avoid": [
+   "Vasco 1X2 @1.44 / -1.0 (away p0.67, midfield spine missing)",
+   "Chapecoense +1.5 as a 'safe' catch (home defeats by 3 twice in 10)"
+  ],
+  "confidence": 0.27,
+  "sources": [
+   "https://www.netvasco.com.br/n/378286/confira-os-desfalques-de-vasco-e-chapecoense",
+   "https://www.lance.com.br/onde-assistir/chapecoense-x-vasco-onde-assistir-horario-e-escalacoes.html",
+   "https://paponacolina.com.br/provavel-escalacao-do-vasco-chapecoense-2/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 ~06:50 UTC)"
+  ]
+ }
+]

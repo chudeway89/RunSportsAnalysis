@@ -1,0 +1,788 @@
+[
+ {
+  "eid": "sr:match:72016888",
+  "fx": "Melbourne United v SE Melbourne Phoenix",
+  "home_form": "Melbourne Utd. last 10 (all comps, most recent first): 12/11 A Adelaide 36ers 93-101 (HT 35-59); 07/11 H Brisbane 120-92 (HT 62-48); 02/11 H New Zealand Breakers 94-74 (HT 43-39); 31/10 A Cairns 113-97 (HT 51-54); 25/10 H Sydney 105-95 (HT 56-51); 23/10 A Perth 102-103 (HT 48-46); 18/10 H Illawarra Hawks 89-91 (HT 43-56); 10/10 A SE Melbourne 104-99 (HT 45-53); 07/10 A Adelaide 36ers 96-91 (HT 56-38); 03/10 H Cairns 95-107 (HT 46-47). W6-L4; home W3-L2, away W3-L2; avg scored 101.1, conceded 95.0.",
+  "away_form": "SE Melbourne last 10 (all comps, most recent first): 11/11 H Illawarra Hawks 110-120 (HT 54-71); 08/11 A Sydney 99-110 (HT 51-54); 01/11 H Tasmania Jackjumpers 89-98 (HT 39-57); 24/10 H Adelaide 36ers 108-94 (HT 72-43); 17/10 H Cairns 115-83 (HT 62-54); 15/10 A Brisbane 105-115 (HT 55-56); 10/10 H Melbourne Utd. 99-104 (HT 53-45); 04/10 H Illawarra Hawks 113-96 (HT 59-41); 02/10 A Perth 88-92 (HT 46-48); 24/09 H Melbourne Utd. 61-86 (HT 35-45). W3-L7; home W3-L4, away W0-L3; avg scored 98.7, conceded 99.8.",
+  "trends": {
+   "game totals": "Board centre 201.5. Home games over it 5/10 (avg 196.1); away games over 6/10 (avg 198.5). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 103.5: home side scored over it 4/10, away side conceded over it 4/10. Away TT centre 98.5: away side scored over it 7/10, home side conceded over it 4/10.",
+   "first half": "1H total centre 102.5. Home 1H totals over 3/10 (avg 97.6), home led at HT 5/10; away 1H totals over 5/10 (avg 104.0), away led at HT 4/10.",
+   "handicap": "Board centre home -5.5. Home margins (recent first): [-8, 28, 20, 16, 10, -1, -2, 5, 5, -12]; away margins: [-10, -11, -9, 14, 32, -10, -5, 17, -4, -25].",
+   "corners": "n/a (basketball)",
+   "notes": "Phoenix have conceded 98, 110, 120 in their last three; United scored 120/94/113/105 in the four before Adelaide. But United over their own 103.5 only 5/10 and game-total evidence is split (centre 201.5, both sides ~5/10). No clean totals angle."
+  },
+  "h2h": "This season: 10 Oct SE Melbourne 99-104 Melbourne Utd; 24 Sep SE Melbourne 61-86 Melbourne Utd (pre-season/Blitz). United 2-0.",
+  "absences": "United: Sean Macdonald (ACL, season) only. Phoenix: Hunter Goodrick (knee, back Round 9 at earliest); import guard Skylar Mays has left the club (\"parted ways, effective immediately\", club searching for a replacement).",
+  "context": "NBL27 regular season, Melbourne derby (Throwdown). United on a 2-day turnaround after losing 93-101 at Adelaide on Thu 12 Nov (trailed 35-59 at HT); Phoenix lost three straight (89-98 Tasmania, 99-110 Sydney, 110-120 Illawarra at home on Wed 11 Nov) and are an import down.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Phoenix ML/short catches (three straight losses, Mays gone); United ML @1.38 is a derby result-side on a short turnaround - not a pick under the derby rule; Unders (Phoenix defence leaking 109 a game over the last three).",
+  "confidence": 0.2,
+  "sources": [
+   "https://fancrew.com.au/injuries",
+   "https://www.nbl.com.au/news/nbl26-the-latest-injury-updates",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72016890",
+  "fx": "Perth Wildcats v Illawarra Hawks",
+  "home_form": "Perth last 10 (all comps, most recent first): 12/11 H Tasmania Jackjumpers 98-92 (HT 43-48); 08/11 H Cairns 92-100 (HT 48-53); 04/11 A Brisbane 104-109 (HT 43-63); 31/10 H Illawarra Hawks 98-105 (HT 44-51); 28/10 H Sydney 91-99 (HT 42-59); 23/10 H Melbourne Utd. 103-102 (HT 46-48); 17/10 A Sydney 81-102 (HT 43-52); 10/10 H New Zealand Breakers 100-84 (HT 41-38); 02/10 H SE Melbourne 92-88 (HT 48-46); 26/09 H New Zealand Breakers 97-93 (HT 47-51). W5-L5; home W5-L3, away W0-L2; avg scored 95.6, conceded 97.4.",
+  "away_form": "Illawarra Hawks last 10 (all comps, most recent first): 11/11 A SE Melbourne 120-110 (HT 71-54); 07/11 A Adelaide 36ers 78-106 (HT 37-49); 05/11 A Cairns 107-95 (HT 61-62); 31/10 A Perth 105-98 (HT 51-44); 24/10 H Brisbane 81-98 (HT 35-55); 22/10 H Sydney 82-108 (HT 36-48); 18/10 A Melbourne Utd. 91-89 (HT 56-43); 11/10 H Cairns 100-110 (HT 50-57); 09/10 H Tasmania Jackjumpers 112-122 (HT 47-67); 04/10 A SE Melbourne 96-113 (HT 41-59). W4-L6; home W0-L4, away W4-L2; avg scored 97.2, conceded 104.9.",
+  "trends": {
+   "game totals": "Board centre 198.5. Home games over it 3/10 (avg 193.0); away games over 6/10 (avg 202.1). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 101.5: home side scored over it 2/10, away side conceded over it 6/10. Away TT centre 97.5: away side scored over it 5/10, home side conceded over it 6/10.",
+   "first half": "1H total centre 100.5. Home 1H totals over 3/10 (avg 95.4), home led at HT 2/10; away 1H totals over 4/10 (avg 102.3), away led at HT 3/10.",
+   "handicap": "Board centre home -4.5. Home margins (recent first): [6, -8, -5, -7, -8, 1, -21, 16, 4, 4]; away margins: [10, -28, 12, 7, -17, -26, 2, -10, -10, -17].",
+   "corners": "n/a (basketball)",
+   "notes": "Hawks road games are high-scoring wins; their blowout losses (-28, -17, -26) came at Adelaide and at home. Perth margins last 6: +6, -8, -5, -7, -8, +1."
+  },
+  "h2h": "31 Oct 2026 in Perth: Perth 98-105 Illawarra (Hawks led 51-44 at HT).",
+  "absences": "Perth: Jo Lual-Acuil Jr (calf, out until Round 11 - starting centre), Jimmy Whitt (personal reasons, TBC), Blake Nielsen (ACL, season). Illawarra: Mason Peatling (foot, season).",
+  "context": "NBL27 regular season. Perth on a 2-day turnaround at home (beat Tasmania 98-92 Thu 12 Nov); Hawks played Wed 11 Nov in Melbourne (won 120-110 at Phoenix) then flew west. Perth have not won a home game by more than 6 since 10 Oct (home results since: +1, -8, -7, -8, +6). Hawks are 4-1 in their last five road games (won at Melbourne Utd, Perth, Cairns, SE Melbourne; lost by 28 at Adelaide) but dreadful at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-8.5",
+    "desc": "Away (+8.5)",
+    "odds": 1.43,
+    "p": 0.665336,
+    "why": "Named mechanism: Perth without starting centre Lual-Acuil (calf) and import Whitt (personal), on a 2-day turnaround; Hawks beat Perth 105-98 in this building two weeks ago and are 4-1 in last five away. Perth have not won at home by 7+ since 10 Oct. Catch >=8.5 v a credible receiver."
+   },
+   {
+    "mid": "223",
+    "spec": "hcp=-10.5",
+    "desc": "Away (+10.5)",
+    "odds": 1.31,
+    "p": 0.730975,
+    "why": "Safer rung of the same catch (p 0.73): Perth home margins since 10 Oct are +1,-8,-7,-8,+6."
+   }
+  ],
+  "avoid": "Perth ML @1.52 and Perth -4.5 (short-handed favourite that already lost this matchup at home). Hawks ML is plausible but outside the 2.2 cap (2.50).",
+  "confidence": 0.3,
+  "sources": [
+   "https://fancrew.com.au/injuries",
+   "https://www.nbl.com.au/news/nbl26-the-latest-injury-updates",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74320758",
+  "fx": "SC Corinthians Paulista v Basquete Osasco",
+  "home_form": "Corinthians last 10 (all comps, most recent first): 13/11 H Pinheiros 79-91 (HT 39-37); 09/11 A Fortaleza Cearense 75-68 (HT 34-33); 07/11 A Unifacisa 79-84 (HT 38-39); 27/10 H Sesi/Franca 78-48 (HT 42-23); 23/10 A Brasilia 92-104 (HT 45-46); 17/10 A Mogi das Cruzes 73-84 (HT 38-44); 12/10 H Regatas 79-63 (HT 42-36); 11/10 A Club Nacional 90-97 (HT 43-48); 10/10 A CD Jorge Guzman 96-97 (HT 51-44); 25/09 H Mogi das Cruzes 68-70 (HT 39-37). W3-L7; home W2-L2, away W1-L5; avg scored 80.9, conceded 80.6.",
+  "away_form": "Osasco last 10 (all comps, most recent first): 13/11 H Mogi das Cruzes 75-93 (HT 37-47); 06/11 H Sao Jose 81-90 (HT 33-50); 30/10 H Pinheiros 74-89 (HT 39-49); 21/10 A Fortaleza Cearense 93-69 (HT 54-40); 17/10 A Unifacisa 70-96 (HT 41-41); 11/09 A Sesi/Franca 64-85 (HT 30-40); 05/09 H Sesi/Franca 72-93 (HT 39-56); 27/08 A Paulistano 78-70 (HT 41-31); 23/08 A Pinheiros 77-93 (HT 37-51); 21/08 H Mogi das Cruzes 74-89 (HT 36-42). W2-L8; home W0-L5, away W2-L3; avg scored 75.8, conceded 86.7.",
+  "trends": {
+   "game totals": "Board centre 165.5. Home games over it 4/10 (avg 161.5); away games over 4/10 (avg 162.5). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 88.5: home side scored over it 3/10, away side conceded over it 7/10. Away TT centre 76.5: away side scored over it 4/10, home side conceded over it 6/10.",
+   "first half": "1H total centre 83.5. Home 1H totals over 3/10 (avg 79.8), home led at HT 6/10; away 1H totals over 5/10 (avg 83.4), away led at HT 2/10.",
+   "handicap": "Board centre home -12.5. Home margins (recent first): [-12, 7, -5, 30, -12, -11, 16, -7, -1, -2]; away margins: [-18, -9, -15, 24, -26, -21, -21, 8, -16, -15].",
+   "corners": "n/a (basketball)",
+   "notes": "Osasco margins: -18,-9,-15,+24,-26,-21,-21,+8,-16,-15. Corinthians are not a blowout side though (2-4, lost at home by 12 two days ago, home wins +30 Franca, +16 Regatas)."
+  },
+  "h2h": "No meeting this season in data. Last season Corinthians beat Osasco (incl. a 100+ point win, Olimpiada Todo Dia) - prior-season context only.",
+  "absences": "No absences reported. Probable Corinthians five (Central do Timao): Gabriel Novaes, Victao, Caue Borges, Gemadinha, Elinho; coach Jece Leite.",
+  "context": "NBB 2026/27 round 7, Ginasio Wlamir Marques (Parque Sao Jorge), 16:00 Brasilia - matches board. Corinthians 12th (2-4). BOTH sides played on Thu 12 Nov local (Corinthians 79-91 v Pinheiros at home; Osasco 75-93 v Mogi at home) -> one day of rest each. Osasco have lost 8 of 10, six of those by 15+.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Corinthians ML @1.11 is below the odds floor. Osasco +12.5 catch (weak receiver that loses by 15+ most weeks). Corinthians -12.5 (Corinthians themselves 2-4 and on one day of rest).",
+  "confidence": 0.15,
+  "sources": [
+   "https://centraldotimao.com.br/noticias/corinthians-basquete-x-osasco-onde-assistir-e-provavel-escalacao/",
+   "https://www.meutimao.com.br/noticias-do-corinthians/530487/corinthians-recebe-o-basquete-osasco-para-manter-embalo-no-nbb-saiba-tudo",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74320760",
+  "fx": "EC Uniao Corinthians v Pato Basquete",
+  "home_form": "EC Uniao Corinthians last 10 (all comps, most recent first): 09/11 H Brasilia 70-61 (HT 40-33); 01/11 A Flamengo 65-83 (HT 32-39); 31/10 A Botafogo 87-80 (HT 44-46); 28/10 A Pinheiros 63-75 (HT 23-35); 23/10 H Minas Tenis 71-88 (HT 36-35); 20/10 H Cruzeiro Basquete 83-74 (HT 34-40); 01/05 A Flamengo 77-104 (HT 46-43); 28/04 H Flamengo 77-90 (HT 31-53); 25/04 H Flamengo 84-83 (HT 41-48); 23/04 A Flamengo 72-102 (HT 46-51). W4-L6; home W3-L2, away W1-L4; avg scored 74.9, conceded 84.0.",
+  "away_form": "Pato last 10 (all comps, most recent first): 12/11 A Caxias Do Sul 79-77 (HT 35-40); 09/11 H Bauru 78-98 (HT 42-54); 07/11 H Flamengo 66-80 (HT 37-40); 29/10 A Cruzeiro Basquete 68-76 (HT 35-38); 27/10 A Minas Tenis 65-86 (HT 32-48); 25/10 H Botafogo 89-88 (HT 38-48); 22/10 H Paulistano 74-80 (HT 28-33); 18/04 A Paulistano 71-92 (HT 33-51); 17/04 A Pinheiros 55-88 (HT 28-44); 11/04 A Osasco 68-77 (HT 39-35). W2-L8; home W1-L3, away W1-L5; avg scored 71.3, conceded 84.2.",
+  "trends": {
+   "game totals": "Board centre 154.5. Home games over it 7/10 (avg 158.9); away games over 4/10 (avg 155.5). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 80.5: home side scored over it 3/10, away side conceded over it 5/10. Away TT centre 73.5: away side scored over it 4/10, home side conceded over it 9/10.",
+   "first half": "1H total centre 78.5. Home 1H totals over 5/10 (avg 79.6), home led at HT 3/10; away 1H totals over 4/10 (avg 77.8), away led at HT 1/10.",
+   "handicap": "Board centre home -6.5. Home margins (recent first): [9, -18, 7, -12, -17, 9, -27, -13, 1, -30]; away margins: [2, -20, -14, -8, -21, 1, -6, -21, -33, -9].",
+   "corners": "n/a (basketball)",
+   "notes": "Uniao home this season: 70-61, 71-88, 83-74. Pato totals 156,176,146,144,151 last five. Nothing separates from the house line."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "None found (no preview located).",
+  "context": "NBB round 7. Uniao Corinthians (Santa Cruz do Sul) at home, last game 9 Nov (beat Brasilia 70-61). Pato played at Caxias do Sul on 11/12 Nov (won 79-77) and stay on the road in Rio Grande do Sul; Pato 2-8 in last 10 and 1-5 away. Low-scoring pair (board total 154.5).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Uniao ML @1.32 (p 0.73 < 0.75 gate; Uniao 4-6 themselves). Totals either way - no fixture evidence beyond the line.",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://www.sportsgambler.com/betting-tips/basketball/osasco-vs-uniao-corinthians-prediction-odds-2025-11-23/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72627092",
+  "fx": "BK Nova Hut Ostrava v BK Opava",
+  "home_form": "NH Ostrava last 10 (all comps, most recent first): 07/11 H Prague 82-85 (HT 44-47); 31/10 H BK Lokomotiva Plzen 82-64 (HT 42-26); 28/10 H Usti nad Labem 82-61 (HT 36-34); 24/10 A Decin 76-87 (HT 31-49); 17/10 H SK Slavia Prague 91-79 (HT 30-48); 03/10 A Pardubice 98-110 (HT 50-49); 30/09 H BK Hradec Kralove 89-82 (HT 51-41); 27/09 A BK Olomoucko 76-77 (HT 43-45); 23/09 H Basket Brno 85-76 (HT 39-31); 19/09 A Opava 89-77 (HT 52-38). W6-L4; home W5-L1, away W1-L3; avg scored 85.0, conceded 79.8.",
+  "away_form": "Opava last 10 (all comps, most recent first): 11/11 A Kk Split 77-81 (HT 45-38); 07/11 A Pardubice 80-99 (HT 41-57); 04/11 A Promitheas Patras 92-112 (HT 48-54); 01/11 H BK Hradec Kralove 83-75 (HT 39-39); 30/10 H SK Slavia Prague 96-121 (HT 43-61); 28/10 H Trier 80-103 (HT 32-48); 24/10 H Basket Brno 72-75 (HT 33-50); 21/10 A KB Trepca 80-89 (HT 39-38); 17/10 H Srsni Pisek 77-88 (HT 42-43); 14/10 A BC Batumi 2010 102-62 (HT 52-26). W2-L8; home W1-L4, away W1-L4; avg scored 83.9, conceded 90.5.",
+  "trends": {
+   "game totals": "Board centre 171.5. Home games over it 1/10 (avg 164.8); away games over 4/10 (avg 174.4). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 87.5: home side scored over it 4/10, away side conceded over it 6/10. Away TT centre 83.5: away side scored over it 3/10, home side conceded over it 3/10.",
+   "first half": "1H total centre 85.5. Home 1H totals over 5/10 (avg 82.6), home led at HT 6/10; away 1H totals over 3/10 (avg 86.8), away led at HT 3/10.",
+   "handicap": "Board centre home -4.5. Home margins (recent first): [-3, 18, 21, -11, 12, -12, 7, -1, 9, 12]; away margins: [-4, -19, -20, 8, -25, -23, -3, -9, -11, 40].",
+   "corners": "n/a (basketball)",
+   "notes": "Opava have conceded 99, 75, 121, 75, 88 in their last five league games and 112, 103 in Europe. Ostrava at home: 82, 82, 82, 91, 89, 85 scored (5-1)."
+  },
+  "h2h": "19 Sep 2026: Opava 77-89 NH Ostrava (Screen 24, Palyza 23 with 6 threes, Lomax 16). Last season: Opava 100-68 Ostrava (Apr), Ostrava 117-121 Opava OT (Mar).",
+  "absences": "No confirmed line-ups or absences as of the 9 Nov preview. Ostrava key men: Andre Screen (C), Lukas Palyza, Adam Ciz, Alex Lomax. Opava leaders: Matej Svoboda (pts), Simon Pursl (reb), Radovan Kouril (ast).",
+  "context": "MAXA/Kooperativa NBL round 12, Hala Tatran 17:30 CET (confirmed by league card + Ticketportal). Silesian DERBY. Ostrava 5th (6-4, 85.0 scored / 79.8 conceded), Opava 9th (4-7, 83.1 / 90.3). Opava are in a European cup too: played at Split on Wed 11 Nov (lost 77-81) - their 6th game in 15 days; Ostrava have been off since 7 Nov (first home defeat, 82-85 v USK, 20 turnovers).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ostrava ML @1.48 / -4.5: derby result-side, p 0.65 below the 0.75 gate even though rest and form favour Ostrava. Opava catches (1 win in 6, heavy schedule).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ostravalove.cz/nh-ostrava-opava-14-11-2026-pred-zapasem/",
+   "https://nbl.basketball/zapas/544615",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72627094",
+  "fx": "BK Decin v BK Lokomotiva Plzen",
+  "home_form": "Decin last 10 (all comps, most recent first): 11/11 H Pardubice 75-81 (HT 33-41); 07/11 H Usti nad Labem 92-66 (HT 49-34); 04/11 A SK Slavia Prague 78-89 (HT 41-45); 01/11 A Srsni Pisek 84-99 (HT 46-50); 24/10 H NH Ostrava 87-76 (HT 49-31); 17/10 A Pardubice 82-79 (HT 40-54); 10/10 A BK Hradec Kralove 93-99 (HT 36-47) OT; 04/10 A BK Olomoucko 76-51 (HT 40-30); 30/09 H Basket Brno 86-78 (HT 49-33); 26/09 A Opava 76-83 (HT 48-44). W5-L5; home W3-L1, away W2-L4; avg scored 82.9, conceded 80.1.",
+  "away_form": "BK Lokomotiva Plzen last 10 (all comps, most recent first): 06/11 A SK Slavia Prague 82-114 (HT 40-63); 31/10 A NH Ostrava 64-82 (HT 26-42); 28/10 A Pardubice 74-98 (HT 39-45); 25/10 H BK Hradec Kralove 77-84 (HT 42-48); 16/10 A BK Olomoucko 81-72 (HT 45-37); 11/10 H Basket Brno 69-83 (HT 28-48); 03/10 A Opava 82-92 (HT 43-41); 30/09 H Prague 81-84 (HT 45-37); 27/09 H Srsni Pisek 81-88 (HT 31-55); 23/09 A Usti nad Labem 74-115 (HT 30-51). W1-L9; home W0-L4, away W1-L5; avg scored 76.5, conceded 91.2.",
+  "trends": {
+   "game totals": "Board centre 165.5. Home games over it 3/10 (avg 163.0); away games over 5/10 (avg 167.7). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 90.5: home side scored over it 2/10, away side conceded over it 4/10. Away TT centre 75.5: away side scored over it 6/10, home side conceded over it 8/10.",
+   "first half": "1H total centre 84.5. Home 1H totals over 4/10 (avg 84.0), home led at HT 5/10; away 1H totals over 3/10 (avg 83.6), away led at HT 3/10.",
+   "handicap": "Board centre home -14.5. Home margins (recent first): [-6, 26, -11, -15, 11, 3, -6, 25, 8, -7]; away margins: [-32, -18, -24, -7, 9, -14, -10, -3, -7, -41].",
+   "corners": "n/a (basketball)",
+   "notes": "Plzen concede 91.2 a game (114, 82, 98 in last three away). Decin home league scores: 92, 87, 86. Decin margin centre -14.5."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "None found.",
+  "context": "NBL round 12 in Decin, 18:00 CET (tvcom listing). Decin 4th (7-4); Plzen bottom at 1-10 (844:1021). Decin played a cup/extra game v Pardubice on 11 Nov (lost 75-81) - three days rest. Plzen have lost away by 32, 18, 24, 10, 41 (only win at Olomoucko).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Decin ML @1.06 (below odds floor). Plzen +14.5 catch - weak receiver rule (loses by 18-41 on the road). Decin -14.5: Decin home wins are +26, +11, +8 - not reliable at that number.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tvcom.cz/Zapasy/Sport-Basketbal/Soutez-Kooperativa-NBL/",
+   "https://www.ostravalove.cz/nh-ostrava-opava-14-11-2026-pred-zapasem/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72627098",
+  "fx": "BK Gapa Hradec Kralove v BK Olomoucko",
+  "home_form": "BK Hradec Kralove last 10 (all comps, most recent first): 10/11 A Svitavy 91-85 (HT 47-39); 07/11 A Basket Brno 64-82 (HT 32-40); 01/11 A Opava 75-83 (HT 39-39); 28/10 H Prague 85-93 (HT 43-45); 25/10 A BK Lokomotiva Plzen 84-77 (HT 48-42); 17/10 H Usti nad Labem 95-111 (HT 43-56); 10/10 H Decin 99-93 (HT 47-36) OT; 03/10 H SK Slavia Prague 75-101 (HT 39-53); 30/09 A NH Ostrava 82-89 (HT 41-51); 26/09 H Pardubice 78-88 (HT 50-47). W3-L7; home W1-L4, away W2-L3; avg scored 82.8, conceded 90.2.",
+  "away_form": "BK Olomoucko last 10 (all comps, most recent first): 11/11 A TJ Slovan Cerna Pole Brno 92-79; 08/11 H Srsni Pisek 65-92 (HT 25-31); 04/11 A Basket Brno 76-81 (HT 33-43); 24/10 A Prague 61-85 (HT 26-46); 16/10 H BK Lokomotiva Plzen 72-81 (HT 37-45); 14/10 A Pardubice 61-88 (HT 22-43); 11/10 A Usti nad Labem 66-102 (HT 31-45); 04/10 H Decin 51-76 (HT 30-40); 30/09 A SK Slavia Prague 62-88 (HT 22-52); 27/09 H NH Ostrava 77-76 (HT 45-43). W2-L8; home W1-L3, away W1-L5; avg scored 68.3, conceded 84.8.",
+  "trends": {
+   "game totals": "Board centre 161.5. Home games over it 7/10 (avg 173.0); away games over 2/10 (avg 153.1). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 86.5: home side scored over it 3/10, away side conceded over it 4/10. Away TT centre 75.5: away side scored over it 3/10, home side conceded over it 10/10.",
+   "first half": "1H total centre 81.5. Home 1H totals over 8/10 (avg 87.7), home led at HT 4/10; away 1H totals over 2/9 (avg 73.2), away led at HT 1/9.",
+   "handicap": "Board centre home -10.5. Home margins (recent first): [6, -18, -8, -8, 7, -16, 6, -26, -7, -10]; away margins: [13, -27, -5, -24, -9, -27, -36, -25, -26, 1].",
+   "corners": "n/a (basketball)",
+   "notes": "Olomoucko league scoring: 65, 76, 61, 72, 61, 66, 51, 62, 77 (nine straight league games at 77 or fewer; season avg 66). Offsetting: Hradec concede 90 a game (82, 83, 93, 77, 111, 93, 101 last seven league)."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "None found.",
+  "context": "NBL round 12. TIME DISCREPANCY: Olomoucko club site and tvcom list tip-off 19:00 CET, board/Sportradar say 18:00 CET (17:00 UTC) - same date and venue, so not vetoed, but treat as data_conflict. Hradec 3-7 in last 10 (worst defence in sample: 90.2 conceded); Olomoucko 1-10 in the league (726:962 = 66.0 scored per game). Both played midweek (Hradec won 91-85 at Svitavy 10 Nov; Olomoucko won 92-79 at second-tier Slovan Cerny Most 11 Nov - cup).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "228",
+    "spec": "total=77.5",
+    "desc": "Under 77.5",
+    "odds": 1.57,
+    "p": 0.598103,
+    "why": "Fixture-specific trend only: Olomoucko have scored <=77 in nine straight league games (avg 66.0, league-worst attack, 1-10). Counter-evidence: Hradec have the leakiest defence in the sample (90.2 conceded) and Olomoucko put up 92 in the cup on Wed. Low-confidence Under, p 0.60 is below the 0.74 totals gate - value/fill only."
+   }
+  ],
+  "avoid": "Hradec ML @1.14 (below floor; Hradec are 3-7 themselves). Olomoucko +10.5 catch (weak receiver: road losses by 24, 27, 36, 26). Game total (Hradec games avg 173 v Olomoucko 153 - contradictory).",
+  "confidence": 0.2,
+  "sources": [
+   "http://www.bkredstone.cz/",
+   "https://www.tvcom.cz/Zapasy/Sport-Basketbal/Soutez-Kooperativa-NBL/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72686170",
+  "fx": "Kataja Basket Joensuu v KTP Basket Kotka",
+  "home_form": "Kataja Basket last 10 (all comps, most recent first): 11/11 H Kouvot Kouvola 80-76 (HT 42-43); 07/11 H Korihait 87-78 (HT 46-38); 31/10 H Karhu 101-80 (HT 51-40); 24/10 H Pyrinto 79-84 (HT 49-43); 21/10 A Pyrinto 62-80 (HT 27-42); 16/10 A Kouvot Kouvola 76-95 (HT 38-50); 10/10 H Honka 99-108 (HT 49-52); 07/10 A Lahti Basketball 85-91 (HT 45-48); 03/10 A Bisons 86-71 (HT 36-41); 29/09 H Helsinki Seagulls 102-83 (HT 56-50). W5-L5; home W4-L2, away W1-L3; avg scored 85.7, conceded 84.6.",
+  "away_form": "KTP Basket last 10 (all comps, most recent first): 11/11 A Bisons 106-74 (HT 53-30); 08/11 H Lahti Basketball 100-81 (HT 52-45); 04/11 A Kipina Basket 99-104 (HT 45-52); 30/10 H Honka 105-119 (HT 48-69); 23/10 H Kouvot Kouvola 99-75 (HT 43-35); 21/10 A Kouvot Kouvola 95-89 (HT 51-46); 17/10 A Korihait 100-89 (HT 49-47); 14/10 A Salon Vilpas 102-81 (HT 48-38); 09/10 H Pyrinto 88-72 (HT 46-34); 03/10 A Karhu 84-78 (HT 46-35). W8-L2; home W3-L1, away W5-L1; avg scored 97.8, conceded 86.2.",
+  "trends": {
+   "game totals": "Board centre 175.5. Home games over it 4/10 (avg 170.3); away games over 7/10 (avg 184.0). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 86.5: home side scored over it 4/10, away side conceded over it 4/10. Away TT centre 88.5: away side scored over it 8/10, home side conceded over it 3/10.",
+   "first half": "1H total centre 86.5. Home 1H totals over 6/10 (avg 88.6), home led at HT 4/10; away 1H totals over 5/10 (avg 91.2), away led at HT 8/10.",
+   "handicap": "Board centre home +3.5. Home margins (recent first): [4, 9, 21, -5, -18, -19, -9, -6, 15, 19]; away margins: [32, 19, -5, -14, 24, 6, 11, 21, 16, 6].",
+   "corners": "n/a (basketball)",
+   "notes": "KTP have scored 95+ in eight straight and 84+ in all ten (avg 97.8); away scores 106, 99, 95, 100, 102, 84. Kataja home concessions: 76, 78, 80, 84, 108, 83. House KTP team total is only 88.5 - nine points under their average, which the Kataja home defence only partly explains."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "None found for either side (no match preview located).",
+  "context": "Korisliiga round 11, Motonet Areena Joensuu, 17:00 EET (Kataja site; matches board). Both played Wed 11 Nov: Kataja 80-76 v Kouvot (home), KTP 106-74 at Bisons. KTP 8-2 in last 10 and 6-1 away; Kataja 5-5, three straight home wins.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "228",
+    "spec": "total=86.5",
+    "desc": "Over 86.5",
+    "odds": 1.55,
+    "p": 0.597578,
+    "why": "Fixture-specific trend: KTP scored 95+ in eight straight games (106/99/95/100/102 in last five away), 9/10 over this line. No absence news found for KTP. Risk: Kataja have held the last three visitors to 76-80. p 0.60 - below the totals gate, value/fill only."
+   }
+  ],
+  "avoid": "Kataja ML (5-5, KTP won 6 of last 7 away). Game Under.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.katajabasket.fi/ottelut/",
+   "https://www.sofascore.com/basketball/team/kataja-basket/6509",
+   "https://www.sofascore.com/basketball/match/ktp-basket-kotka-kataja-basket/jFcslFc",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72686168",
+  "fx": "Lahti Basketball v Korihait Uusikaupunki",
+  "home_form": "Lahti Basketball last 10 (all comps, most recent first): 08/11 A KTP Basket 81-100 (HT 45-52); 04/11 A Bisons 93-90 (HT 45-37) OT; 30/10 H Salon Vilpas 52-80 (HT 33-43); 27/10 H Kipina Basket 78-90 (HT 35-45); 23/10 A Karhu 68-73 (HT 24-48); 21/10 H Karhu 108-102 (HT 41-37) OT; 16/10 A Honka 86-100 (HT 46-46); 14/10 H Kouvot Kouvola 91-83 (HT 46-41); 07/10 H Kataja Basket 91-85 (HT 48-45); 02/10 A Helsinki Seagulls 70-76 (HT 25-44). W4-L6; home W3-L2, away W1-L4; avg scored 81.8, conceded 87.9.",
+  "away_form": "Korihait last 10 (all comps, most recent first): 11/11 A Salon Vilpas 89-108 (HT 49-53); 07/11 A Kataja Basket 78-87 (HT 38-46); 04/11 H Karhu 87-79 (HT 42-49); 30/10 A Kouvot Kouvola 100-105 (HT 41-56); 24/10 H Bisons 90-78 (HT 48-41); 21/10 A Bisons 88-100 (HT 41-56); 17/10 H KTP Basket 89-100 (HT 47-49); 10/10 A Salon Vilpas 73-95 (HT 35-40); 06/10 H Helsinki Seagulls 88-67 (HT 37-38); 03/10 A Kipina Basket 85-109 (HT 53-54). W3-L7; home W3-L1, away W0-L6; avg scored 86.7, conceded 92.8.",
+  "trends": {
+   "game totals": "Board centre 175.5. Home games over it 5/10 (avg 169.7); away games over 5/10 (avg 179.5). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 89.5: home side scored over it 4/10, away side conceded over it 6/10. Away TT centre 85.5: away side scored over it 7/10, home side conceded over it 5/10.",
+   "first half": "1H total centre 86.5. Home 1H totals over 4/10 (avg 82.6), home led at HT 4/10; away 1H totals over 7/10 (avg 91.3), away led at HT 1/10.",
+   "handicap": "Board centre home -4.5. Home margins (recent first): [-19, 3, -28, -12, -5, 6, -14, 8, 6, -6]; away margins: [-19, -9, 8, -5, 12, -12, -11, -22, 21, -24].",
+   "corners": "n/a (basketball)",
+   "notes": "Korihait concede 100.7 per away game; Lahti scored 91, 91, 108 (OT) in earlier home games but 78 and 52 in the last two. Board Lahti TT centre 89.5."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "None found.",
+  "context": "Korisliiga round 11. Lahti 4-6 (home: lost 52-80 to Vilpas and 78-90 to Kipina in last two home games); Korihait 3-7 and 0-6 away in the sample, conceding 108, 87, 105, 100, 95, 109 on the road. Korihait played Wed 11 Nov at Vilpas (89-108).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lahti ML @1.47 (p 0.64 < gate; Lahti lost their last two home games heavily). Lahti team Over is the logical angle from Korihait's road defence but Lahti's 52 and 78 at home in the last fortnight contradict it - unexplained (no team news), so no pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/basketball/team/kataja-basket/6509",
+   "https://www.sofascore.com/basketball/team/lahti-basketball/626194",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:72686172",
+  "fx": "Kauhajoki Karhu Basket v Pyrinto Tampere",
+  "home_form": "Karhu last 10 (all comps, most recent first): 10/11 A Helsinki Seagulls 76-68 (HT 40-35); 07/11 H Honka 119-78 (HT 69-33); 04/11 A Korihait 79-87 (HT 49-42); 31/10 A Kataja Basket 80-101 (HT 40-51); 23/10 H Lahti Basketball 73-68 (HT 48-24); 21/10 A Lahti Basketball 102-108 (HT 37-41) OT; 17/10 H Helsinki Seagulls 91-76 (HT 46-41); 10/10 A Kipina Basket 95-98 (HT 42-41) OT; 06/10 H Bisons 72-73 (HT 44-37); 03/10 H KTP Basket 78-84 (HT 35-46). W4-L6; home W3-L2, away W1-L4; avg scored 86.5, conceded 84.1.",
+  "away_form": "Pyrinto last 10 (all comps, most recent first): 08/11 H Bisons 89-84 (HT 33-44) OT; 03/11 H Kouvot Kouvola 90-86 (HT 44-50); 30/10 A Helsinki Seagulls 92-94 (HT 51-46); 24/10 A Kataja Basket 84-79 (HT 43-49); 21/10 H Kataja Basket 80-62 (HT 42-27); 16/10 H Kipina Basket 96-91 (HT 51-48); 09/10 A KTP Basket 72-88 (HT 34-46); 06/10 A Honka 96-97 (HT 41-48) OT; 03/10 H Salon Vilpas 79-97 (HT 46-50); 30/09 A Korihait 95-89 (HT 50-48). W6-L4; home W4-L1, away W2-L3; avg scored 87.3, conceded 86.7.",
+  "trends": {
+   "game totals": "Board centre 166.5. Home games over it 5/10 (avg 170.6); away games over 7/10 (avg 174.0). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 86.5: home side scored over it 4/10, away side conceded over it 6/10. Away TT centre 80.5: away side scored over it 7/10, home side conceded over it 5/10.",
+   "first half": "1H total centre 82.5. Home 1H totals over 5/10 (avg 84.1), home led at HT 7/10; away 1H totals over 7/10 (avg 89.1), away led at HT 4/10.",
+   "handicap": "Board centre home -6.5. Home margins (recent first): [8, 41, -8, -21, 5, -6, 15, -3, -1, -6]; away margins: [5, 4, -2, 5, 18, 5, -16, -1, -18, 6].",
+   "corners": "n/a (basketball)",
+   "notes": "Karhu home: W119-78, W73-68, W91-76, L72-73, L78-84. Pyrinto away: L92-94, W84-79, L72-88, L96-97 OT, W95-89 - competitive in four of five."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "None found.",
+  "context": "Korisliiga round 11 in Kauhajoki. Karhu 4-6 in last 10 but won the last two (76-68 at Seagulls, 119-78 v Honka); Pyrinto 6-4, three wins in last four (two in OT/by 4-5). Karhu off since 10 Nov, Pyrinto since 8 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Karhu ML @1.33 (p 0.715 < 0.75 gate; Karhu 4-6 and Pyrinto keep road games close). Pyrinto +6.5 is under the 8.5 catch minimum.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/basketball/team/kataja-basket/6509",
+   "https://www.sofascore.com/basketball/team/karhu-basket/7750",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74295738",
+  "fx": "Elan Chalon v Boulazac Basket Dordogne",
+  "home_form": "Chalon last 10 (all comps, most recent first): 10/11 A Manchester Basketball 94-73 (HT 44-33); 07/11 A Nanterre 81-93 (HT 35-54); 04/11 H BC Kalev 68-74 (HT 33-34); 01/11 A Paris Basketball 112-116 (HT 58-57) OT; 28/10 A Bashkimi 94-66 (HT 56-36); 24/10 H SIG Strasbourg 106-79 (HT 50-39); 20/10 H Valmiera Glass Via 109-77 (HT 57-45); 17/10 A Cholet 86-77 (HT 41-50); 14/10 A Korfez 65-74 (HT 38-39); 10/10 H Nancy 108-67 (HT 57-42). W6-L4; home W3-L1, away W3-L3; avg scored 92.3, conceded 79.6.",
+  "away_form": "Boulazac last 10 (all comps, most recent first): 06/11 H Gravelines 83-69 (HT 37-34); 31/10 A Limoges 99-89 (HT 38-36) OT; 24/10 H Le Mans 72-97 (HT 47-43); 18/10 A Paris Basketball 75-90 (HT 44-41); 10/10 H Bourg 84-73 (HT 34-42); 06/10 A Vendee Challans Basket 96-107 (HT 45-66); 03/10 A SIG Strasbourg 75-87 (HT 42-40); 26/09 H Roanne 79-81 (HT 31-51); 02/09 A Le Mans 69-77 (HT 32-42); 28/08 A Cholet 73-81 (HT 36-47). W3-L7; home W2-L2, away W1-L5; avg scored 80.5, conceded 85.1.",
+  "trends": {
+   "game totals": "Board centre 169.5. Home games over it 5/10 (avg 171.9); away games over 2/10 (avg 165.6). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 90.5: home side scored over it 6/10, away side conceded over it 2/10. Away TT centre 79.5: away side scored over it 4/10, home side conceded over it 2/10.",
+   "first half": "1H total centre 84.5. Home 1H totals over 7/10 (avg 89.8), home led at HT 6/10; away 1H totals over 3/10 (avg 82.8), away led at HT 5/10.",
+   "handicap": "Board centre home -10.5. Home margins (recent first): [21, -12, -6, -4, 28, 27, 32, 9, -9, 41]; away margins: [14, 10, -25, -15, 11, -11, -12, -2, -8, -8].",
+   "corners": "n/a (basketball)",
+   "notes": "Chalon home league wins: 106-79 Strasbourg, 108-67 Nancy. Boulazac away: W OT Limoges, L by 15 Paris, L by 12 Strasbourg."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "Boulazac: Patrick Beverley (hamstring, out since mid-Oct, return hoped end of Nov), Godwin Omenaka (knee). Chalon: Klark Riethauser listed absent (since Sept).",
+  "context": "Betclic Elite J8, 18:00 CET. Chalon also play in Europe: at Manchester Tue 10 Nov (won 94-73), lost at Nanterre 81-93 on 7 Nov and at home to Kalev 4 Nov - 6 games in 15 days. Boulazac (promotion/survival fight) have won two straight WITHOUT Beverley (99-89 OT at Limoges, 83-69 v Gravelines; Antoine Eito running the team) and have been idle since 6 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Chalon ML @1.16 (below floor). Chalon -10.5 (Chalon on heavy European schedule v a rested Boulazac that just won twice). Boulazac catch tempting but they are without two rotation players - no pick.",
+  "confidence": 0.2,
+  "sources": [
+   "https://basketguru.fr/blessures",
+   "https://www.bebasket.fr/ligue/betclic-elite/calendrier",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74295748",
+  "fx": "Saint Quentin v Cholet Basket",
+  "home_form": "Saint Quentin last 10 (all comps, most recent first): 07/11 A Roanne 68-80 (HT 37-39); 01/11 H Lyon-Villeurbanne 99-94 (HT 45-39); 27/10 H SIG Strasbourg 94-98 (HT 52-47); 23/10 H Dijon 81-91 (HT 36-49); 17/10 A Elan Bearnais Pau 89-102 (HT 50-61); 11/10 H Le Mans 87-98 (HT 51-49); 03/10 A Limoges 75-92 (HT 36-44); 26/09 H Bourg 106-103 (HT 47-54) OT; 15/09 A Besancon Avenir Comtois 74-123 (HT 42-69); 31/05 A Poitiers 73-76 (HT 43-39). W2-L8; home W2-L3, away W0-L5; avg scored 84.6, conceded 95.7.",
+  "away_form": "Cholet last 10 (all comps, most recent first): 10/11 A Spartak Subotica 73-75 (HT 35-40); 07/11 H Dijon 71-97 (HT 33-50); 03/11 H Paris Basketball 94-90 (HT 43-41) OT; 31/10 A SIG Strasbourg 82-88 (HT 33-44); 28/10 H Spartak Subotica 65-69 (HT 29-29); 24/10 A Nanterre 69-86 (HT 34-44); 17/10 H Chalon 77-86 (HT 50-41); 14/10 H Vechta 84-66 (HT 37-32); 10/10 H Elan Bearnais Pau 85-79 (HT 44-33); 06/10 A Hapoel Holon 99-79 (HT 52-32). W4-L6; home W3-L3, away W1-L3; avg scored 79.9, conceded 81.5.",
+  "trends": {
+   "game totals": "Board centre 171.5. Home games over it 7/10 (avg 180.3); away games over 2/10 (avg 161.4). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 84.5: home side scored over it 5/10, away side conceded over it 5/10. Away TT centre 87.5: away side scored over it 2/10, home side conceded over it 8/10.",
+   "first half": "1H total centre 85.5. Home 1H totals over 5/10 (avg 92.9), home led at HT 4/10; away 1H totals over 1/10 (avg 77.6), away led at HT 5/10.",
+   "handicap": "Board centre home +3.5. Home margins (recent first): [-12, 5, -4, -10, -13, -11, -17, 3, -49, -3]; away margins: [-2, -26, 4, -6, -4, -17, -9, 18, 6, 20].",
+   "corners": "n/a (basketball)",
+   "notes": "Saint-Quentin home margins: +5 (ASVEL), -4, -10, -11, +3 OT. Cholet league scoring 71, 94 (OT), 82, 69, 77 - weak attack to be giving 3.5 on the road."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "Cholet: captain/centre Miralem Halilovic (hamstring relapse, out about a month), starting point guard Jarrod West (out until at least mid-Dec), Johnathan Williams was not qualified for the last league game (re-registration paperwork) - \"secteur interieur extremement appauvri\" (BeBasket). Saint-Quentin: Paul Rigot (replaced by medical joker Aurele Brena-Chemille).",
+  "context": "Betclic Elite J8, 18:00 CET. Cholet lost 71-97 at home to Dijon on 7 Nov with the depleted frontcourt, then travelled to Serbia (lost 73-75 at Spartak Subotica, Tue 10 Nov) - 7 games in 22 days. Saint-Quentin (2 wins) have been off since 7 Nov and beat ASVEL 99-94 at home on 1 Nov; home losses this season by 4, 10, 11 only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=8.5",
+    "desc": "Home (+8.5)",
+    "odds": 1.4,
+    "p": 0.6923878893,
+    "why": "Named mechanism: Cholet without starting PG Jarrod West and captain C Halilovic (Williams eligibility unclear), beaten by 26 at home last league game and back from a Tuesday trip to Serbia; Saint-Quentin rested, beat ASVEL at home and have lost by more than 8 at home only twice (10, 11). Catch >=8.5 v the home side."
+   },
+   {
+    "mid": "223",
+    "spec": "hcp=10.5",
+    "desc": "Home (+10.5)",
+    "odds": 1.29,
+    "p": 0.754639,
+    "why": "Safer rung (p 0.755): no Saint-Quentin home loss by more than 11 this season; Cholet scoring 79 a game in the league."
+   }
+  ],
+  "avoid": "Cholet ML @1.64 / Cholet -3.5 (fragile, short-handed road favourite). Saint-Quentin ML is the logical side but is priced 2.39 (above cap).",
+  "confidence": 0.3,
+  "sources": [
+   "https://basketguru.fr/blessures",
+   "https://www.bebasket.fr/miralem-halilovic-cholet-basket-donne-des-nouvelles-sur-la-duree-de-sa-nouvelle-absence",
+   "https://www.bebasket.fr/dijon-choque-la-meilleraie-shevon-thompson-23-points-12-rebonds-desarme-cholet",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74295736",
+  "fx": "JL Bourg Basket v Roanne Chorale",
+  "home_form": "Bourg last 10 (all comps, most recent first): 10/11 H Buducnost 66-68 (HT 36-36); 08/11 A Paris Basketball 77-107 (HT 46-57); 04/11 A Wroclaw 88-84 (HT 47-39); 31/10 H Nanterre 98-101 (HT 56-47); 28/10 A Niners Chemnitz 77-96 (HT 32-46); 24/10 H Gravelines 89-81 (HT 48-53); 21/10 H Trento 90-79 (HT 53-45); 18/10 A Le Mans 90-91 (HT 52-48); 13/10 A N. Klaipeda 89-93 (HT 43-51); 10/10 A Boulazac 73-84 (HT 42-34). W3-L7; home W2-L2, away W1-L5; avg scored 83.7, conceded 88.4.",
+  "away_form": "Roanne last 10 (all comps, most recent first): 07/11 H Saint Quentin 80-68 (HT 39-37); 31/10 A Gravelines 89-69 (HT 39-29); 25/10 H Paris Basketball 75-96 (HT 43-40); 16/10 A SIG Strasbourg 70-72 (HT 33-31); 11/10 A Lyon-Villeurbanne 77-96 (HT 34-45); 06/10 A Antibes 78-80 (HT 34-47); 02/10 H Nanterre 93-83 (HT 47-47); 26/09 A Boulazac 81-79 (HT 51-31); 20/09 H Paris Basketball 59-81 (HT 22-21); 19/09 H Lyon-Villeurbanne 73-71 (HT 33-31). W5-L5; home W3-L2, away W2-L3; avg scored 77.5, conceded 79.5.",
+  "trends": {
+   "game totals": "Board centre 169.5. Home games over it 7/10 (avg 172.1); away games over 3/10 (avg 157.0). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 87.5: home side scored over it 6/10, away side conceded over it 2/10. Away TT centre 81.5: away side scored over it 2/10, home side conceded over it 7/10.",
+   "first half": "1H total centre 84.5. Home 1H totals over 7/10 (avg 91.1), home led at HT 5/10; away 1H totals over 1/10 (avg 73.4), away led at HT 7/10.",
+   "handicap": "Board centre home -6.5. Home margins (recent first): [-2, -30, 4, -3, -19, 8, 11, -1, -4, -11]; away margins: [12, 20, -21, -2, -19, -2, 10, 2, -22, 2].",
+   "corners": "n/a (basketball)",
+   "notes": "Bourg league results: +3 (OT), -11, -1, +8, -3, -30: they have not won a league game by more than 8. Roanne league losses: -22 and -21 v Paris, -19 at ASVEL, -2 at Strasbourg. Roanne games are low (avg 157; board 169.5)."
+  },
+  "h2h": "None this season.",
+  "absences": "Bourg: Antony Labanca (Achilles, season), Tyson Walker (thigh muscle lesion, \"until mid-November\" - status unconfirmed). Roanne: Darius Hannah (ACL, long term); Roanne released Jahvon Blair and Filip Stanic and are looking for an interior player, but won both games since.",
+  "context": "Betclic Elite J8, Ekinox 18:30 CET. Bourg 11th/12th at 2-5, title \"L'heure du sursaut\": a run of last-possession defeats (Le Mans 90-91, Nanterre 98-101 at the buzzer, Buducnost 66-68 on Tue 10 Nov in EuroCup) plus a 77-107 loss at Paris on 8 Nov - third game in seven days. Promoted Roanne (TJ Parker) are 7th at 4-3 with two straight wins (89-69 at Gravelines, 80-68 v Saint-Quentin), rested since 7 Nov. Roanne leaders: Darius Johnson 17.4 ppg, Derek Needham 14.0, Travante Williams, Aaron Levarity.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-9.5",
+    "desc": "Away (+9.5)",
+    "odds": 1.53,
+    "p": 0.633992,
+    "why": "Named mechanism: Bourg (2-5) on their third game in 7 days after EuroCup on Tuesday, without Labanca and probably Tyson Walker, and yet to win a league game by more than 8; Roanne rested, on two straight wins, 4-3. Catch >=8.5 v a credible mid-table receiver."
+   },
+   {
+    "mid": "223",
+    "spec": "hcp=-12.5",
+    "desc": "Away (+12.5)",
+    "odds": 1.33,
+    "p": 0.733458,
+    "why": "Safer rung (p 0.73). Roanne have lost by 13+ only to Paris (twice) and ASVEL."
+   }
+  ],
+  "avoid": "Bourg ML @1.39 and Bourg -6.5 (club's own preview concedes the confidence gap; fragile favourite). Game Over (Roanne pace-suppressing, Bourg scored 66 on Tuesday).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.jlbourg-basket.com/2026/11/13/betclic-elite-8-lheure-du-sursaut-pour-la-jl/",
+   "https://basketguru.fr/blessures",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74295746",
+  "fx": "Limoges CSP v Paris Basketball",
+  "home_form": "Limoges last 10 (all comps, most recent first): 07/11 A Nancy 79-77 (HT 40-35); 03/11 A Dijon 74-90 (HT 29-44); 31/10 H Boulazac 89-99 (HT 36-38) OT; 25/10 A Elan Bearnais Pau 81-85 (HT 39-52); 17/10 H Lyon-Villeurbanne 94-97 (HT 49-51) OT; 13/10 A Toulouse BC 99-88 (HT 46-50); 09/10 A Dijon 96-108 (HT 50-51); 03/10 H Saint Quentin 92-75 (HT 44-36); 26/09 A Chalon 74-82 (HT 34-32); 05/09 H Le Mans 70-91 (HT 46-49). W3-L7; home W1-L3, away W2-L4; avg scored 84.8, conceded 89.2.",
+  "away_form": "Paris Basketball last 10 (all comps, most recent first): 11/11 H Fenerbahce 111-109 (HT 50-43) OT; 08/11 H Bourg 107-77 (HT 57-46); 05/11 A Anadolu 95-90 (HT 42-36); 03/11 A Cholet 90-94 (HT 41-43) OT; 01/11 H Chalon 116-112 (HT 57-58) OT; 29/10 A Maccabi Tel-Aviv 99-94 (HT 35-36); 27/10 A Dubai 99-93 (HT 54-47); 25/10 A Roanne 96-75 (HT 40-43); 23/10 H Valencia 93-104 (HT 54-57); 18/10 H Boulazac 90-75 (HT 41-44). W8-L2; home W4-L1, away W4-L1; avg scored 99.6, conceded 92.3.",
+  "trends": {
+   "game totals": "Board centre 180.5. Home games over it 4/10 (avg 174.0); away games over 8/10 (avg 191.9). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 85.5: home side scored over it 5/10, away side conceded over it 7/10. Away TT centre 95.5: away side scored over it 6/10, home side conceded over it 3/10.",
+   "first half": "1H total centre 90.5. Home 1H totals over 5/10 (avg 85.1), home led at HT 3/10; away 1H totals over 5/10 (avg 92.4), away led at HT 4/10.",
+   "handicap": "Board centre home +9.5. Home margins (recent first): [2, -16, -10, -4, -3, 11, -12, 17, -8, -21]; away margins: [2, 30, 5, -4, 4, 5, 6, 21, -11, 15].",
+   "corners": "n/a (basketball)",
+   "notes": "Paris league results: +21 at Roanne, +15 Boulazac, +4 OT Chalon, -4 OT at Cholet, +30 Bourg. Paris games avg 192 (inflated by 3 OTs and EuroLeague); Limoges home 188 (OT), 191 (OT), 167, 161."
+  },
+  "h2h": "None this season.",
+  "absences": "Limoges: Nicolas Lang (ankle, out since the Pau game; top scorer - 26 in the opener), Mamadou Guisse (injured), Leon Stergar (missed the 7 Nov game; gave pre-match quotes on 13 Nov, status unclear); Jean-Fabrice Dossou was out \"at least a month\" from late Sept. Paris: no league absence list found.",
+  "context": "Betclic Elite J8, Beaublanc 20:30 CET (CSP calendar; one BCM Gravelines page wrongly shows Gravelines v Paris the same day - treated as that site's error since LNB/BeBasket/CSP/Sportradar agree). Paris are a EuroLeague side: beat Fenerbahce 111-109 in OT on Wed 11 Nov (third OT game in 11 days) - rotation/fatigue risk; they lost at Cholet in OT on 3 Nov between EuroLeague games. Limoges 3-7, lost 89-99 OT at home to Boulazac.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.23,
+    "p": 0.791451,
+    "why": "Meets the ML gate (p 0.79). Mechanism: Limoges without top scorer Nicolas Lang and Guisse (Stergar doubtful), 3-7 and beaten at home by Boulazac; Paris 8-2 in last 10 incl. EuroLeague wins. Risk flagged: Paris played an OT EuroLeague game on Wednesday and already dropped one league road game (Cholet) in that spot - keep stake small."
+   }
+  ],
+  "avoid": "Paris -9.5 (fatigue/rotation, Paris league road wins not guaranteed blowouts). Totals (OT-inflated samples).",
+  "confidence": 0.25,
+  "sources": [
+   "https://basketguru.fr/blessures",
+   "https://www.limogescsp.com/telecharger-le-calendrier-des-matchs/pdf/saisoncsp.html",
+   "https://www.bebasket.fr/leon-stergar-avant-limoges-paris-je-sais-qu-a-un-moment-les-choses-vont-changer-pour-nous",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:73451862",
+  "fx": "Bamberg Baskets v Baskets Bonn",
+  "home_form": "Bamberg last 10 (all comps, most recent first): 11/11 A Murcia 66-98 (HT 37-50); 07/11 A Trier 79-92 (HT 35-47); 01/11 H Jena 88-78 (HT 47-43); 27/10 H Varese 61-95 (HT 26-46); 23/10 A Oldenburg 80-70 (HT 37-39); 19/10 A Berlin 71-83 (HT 41-33); 14/10 H Murcia 67-86 (HT 32-34); 10/10 H Mitteldeutscher 74-85 (HT 32-45); 06/10 A Peristeri Athens 87-93 (HT 42-53); 03/10 A Berlin 98-83 (HT 46-39). W3-L7; home W1-L3, away W2-L4; avg scored 77.1, conceded 86.3.",
+  "away_form": "Bonn last 10 (all comps, most recent first): 07/11 H Braunschweig 97-87 (HT 48-52); 04/11 H Bnei Herzliya 101-89 (HT 48-48); 01/11 H Berlin 95-88 (HT 42-45); 24/10 A Ludwigsburg 68-84 (HT 29-43); 21/10 A Badalona 74-76 (HT 40-36); 16/10 A Oldenburg 75-61 (HT 38-29); 09/10 H Jena 115-68 (HT 54-33); 07/10 H Porto 78-74 (HT 43-32); 02/10 A Wurzburg 76-83 (HT 36-36); 27/09 H Mitteldeutscher 77-72 (HT 40-37). W7-L3; home W6-L0, away W1-L3; avg scored 85.6, conceded 78.2.",
+  "trends": {
+   "game totals": "Board centre 169.5. Home games over it 3/10 (avg 163.4); away games over 4/10 (avg 163.8). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 84.5: home side scored over it 3/10, away side conceded over it 3/10. Away TT centre 84.5: away side scored over it 4/10, home side conceded over it 6/10.",
+   "first half": "1H total centre 84.5. Home 1H totals over 4/10 (avg 80.4), home led at HT 3/10; away 1H totals over 4/10 (avg 80.9), away led at HT 5/10.",
+   "handicap": "Board centre home +1.5. Home margins (recent first): [-32, -13, 10, -34, 10, -12, -19, -11, -6, 15]; away margins: [10, 12, 7, -16, -2, 14, 47, 4, -7, 5].",
+   "corners": "n/a (basketball)",
+   "notes": "Bamberg home results: +10 Jena, -34 Varese, -19 Murcia, -11 MBC. Bonn away: -16 Ludwigsburg, -2 Badalona, +14 Oldenburg, -7 Wurzburg (1-3 away)."
+  },
+  "h2h": "None this season in data.",
+  "absences": "None found for either side.",
+  "context": "easyCredit BBL matchday 9, 18:30 CET (official BBL schedule + sport.de + Sportradar agree on Bamberg v Bonn; Global Sports Archive shows Bamberg v Hagen - treated as that database's error, flagged data_conflict but not vetoed). Bonn 5th (5-3), three straight wins (95-88 Alba, 101-89 Herzliya, 97-87 Braunschweig) and no midweek game. Bamberg 8th (4-4) lost 66-98 at Murcia on Wed 11 Nov (European away trip) and 79-92 at Trier on 7 Nov; home: beat Jena, lost to Varese (61-95), Murcia, MBC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.92,
+    "p": 0.506256,
+    "why": "Mechanism: schedule edge - Bamberg back from a 32-point loss in Murcia on Wednesday and 1-3 at home in the last four; Bonn rested a full week and on three straight wins incl. Alba. Counter: Bonn 1-3 away. p 0.51 is a coin-flip price: value-only, not a core leg (fails the 0.75 ML gate)."
+   }
+  ],
+  "avoid": "Bamberg ML. Totals (both avg ~164 v centre 169.5, no edge).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.easycredit-bbl.de/saison/aktuelle-spiele",
+   "https://www.sport.de/basketball/deutschland-bbl/ergebnisse-und-tabelle/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:73451864",
+  "fx": "Ratiopharm Ulm v Medipolis SC Jena",
+  "home_form": "Ulm last 10 (all comps, most recent first): 11/11 A BC Roma Spqr 78-83 (HT 34-35); 07/11 A Rostock Seawolves 87-97 (HT 45-58); 03/11 H Bahcesehir 82-96 (HT 36-54); 31/10 H Oldenburg 81-65 (HT 44-32); 27/10 A Panevezys 86-68 (HT 50-42); 25/10 A Berlin 82-98 (HT 43-45); 21/10 A PAOK 78-87 (HT 42-46); 17/10 H Hagen 98-107 (HT 45-45); 14/10 H Bosna Royal 102-93 (HT 52-49); 10/10 A Vechta 92-97 (HT 47-33) OT. W3-L7; home W2-L2, away W1-L5; avg scored 86.6, conceded 89.1.",
+  "away_form": "Jena last 10 (all comps, most recent first): 09/11 H Hamburg 87-91 (HT 46-53); 01/11 A Bamberg 78-88 (HT 43-47); 30/10 H Skyliners 82-93 (HT 53-50); 09/10 A Bonn 68-115 (HT 33-54); 04/10 H Niners Chemnitz 82-76 (HT 40-38); 01/10 H Vechta 79-71 (HT 36-32); 27/09 A Trier 85-98 (HT 49-54); 25/09 A Mitteldeutscher 62-77 (HT 27-40); 13/09 A Skyliners 63-94 (HT 35-40); 04/09 A Nitra Blue Wings 99-66 (HT 51-31). W3-L7; home W2-L2, away W1-L5; avg scored 78.5, conceded 86.9.",
+  "trends": {
+   "game totals": "Board centre 168.5. Home games over it 6/10 (avg 175.7); away games over 4/10 (avg 165.4). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 89.5: home side scored over it 3/10, away side conceded over it 5/10. Away TT centre 78.5: away side scored over it 6/10, home side conceded over it 8/10.",
+   "first half": "1H total centre 83.5. Home 1H totals over 7/10 (avg 87.7), home led at HT 4/10; away 1H totals over 5/10 (avg 85.2), away led at HT 4/10.",
+   "handicap": "Board centre home -10.5. Home margins (recent first): [-5, -10, -14, 16, 18, -16, -9, -9, 9, -5]; away margins: [-4, -10, -11, -47, 6, 8, -13, -15, -31, 33].",
+   "corners": "n/a (basketball)",
+   "notes": "Ulm home: L82-96, W81-65, L98-107, W102-93. Jena away margins: -10, -47, -13, -15, -31."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "Ulm: signed centre Filip Stanic (ex-Roanne) this week per BBL newscenter/BeBasket - debut status unknown. No injury list found.",
+  "context": "BBL matchday 9, 18:30 CET. Ulm 3-7 in last 10 across competitions, lost at Roma on Wed 11 Nov (78-83) and at Rostock 87-97 (7 Nov) - fourth game in 11 days. Jena (promoted 2025) 3-7, away losses by 47 (Bonn), 31 (Skyliners), 15, 13, 10; lost at home to Hamburg 9 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ulm ML @1.17 (below floor, and Ulm are out of form on a midweek European trip). Jena +10.5 catch (weak promoted receiver with -47/-31 road results). Ulm -10.5.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.easycredit-bbl.de/saison/aktuelle-spiele",
+   "https://www.sport.de/basketball/deutschland-bbl/ergebnisse-und-tabelle/",
+   "https://www.easycredit-bbl.de/newscenter",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:73451866",
+  "fx": "Baskets Oldenburg v Alba Berlin",
+  "home_form": "Oldenburg last 10 (all comps, most recent first): 08/11 A Ludwigsburg 74-72 (HT 44-39); 31/10 A Ulm 65-81 (HT 32-44); 23/10 H Bamberg 70-80 (HT 39-37); 16/10 H Bonn 61-75 (HT 29-38); 10/10 H Hagen 78-87 (HT 39-53); 04/10 A Munich 60-113 (HT 31-57); 27/09 H Hamburg 75-74 (HT 23-46); 25/09 A Wurzburg 77-68 (HT 40-33); 20/09 H Mitteldeutscher 96-81 (HT 54-41); 13/09 A Heidelberg 82-63 (HT 37-35). W5-L5; home W2-L3, away W3-L2; avg scored 73.8, conceded 79.4.",
+  "away_form": "Berlin last 10 (all comps, most recent first): 10/11 A Bilbao 75-83 (HT 39-45); 06/11 H Hagen 102-72 (HT 56-47); 01/11 A Bonn 88-95 (HT 45-42); 28/10 H Bilbao 103-100 (HT 43-48); 25/10 H Ulm 98-82 (HT 45-43); 19/10 H Bamberg 83-71 (HT 33-41); 13/10 H Igokea 90-79 (HT 38-40); 10/10 A Trier 75-95 (HT 47-50); 07/10 A SK Slavia Prague 110-86 (HT 52-40); 03/10 H Bamberg 83-98 (HT 39-46). W6-L4; home W5-L1, away W1-L3; avg scored 90.7, conceded 86.1.",
+  "trends": {
+   "game totals": "Board centre 164.5. Home games over it 3/10 (avg 153.2); away games over 8/10 (avg 176.8). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 79.5: home side scored over it 2/10, away side conceded over it 7/10. Away TT centre 84.5: away side scored over it 6/10, home side conceded over it 2/10.",
+   "first half": "1H total centre 81.5. Home 1H totals over 4/10 (avg 79.1), home led at HT 5/10; away 1H totals over 8/10 (avg 87.9), away led at HT 4/10.",
+   "handicap": "Board centre home +5.5. Home margins (recent first): [2, -16, -10, -14, -9, -53, 1, 9, 15, 19]; away margins: [-8, 30, -7, 3, 16, 12, 11, -20, 24, -15].",
+   "corners": "n/a (basketball)",
+   "notes": "Oldenburg have scored 74, 65, 70, 61, 78, 60, 75, 77 in their last eight - eight straight at 78 or fewer (season avg 73.8, slowest/lowest attack in the sample) and lost their last three home games (70-80 Bamberg, 61-75 Bonn, 78-87 Hagen). Offsetting: Alba concede 86 a game and play fast."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "None found.",
+  "context": "BBL matchday 9, 20:00 CET. Oldenburg 9th (4-4), Alba 11th (4-4). Alba lost 75-83 at Bilbao on Tue 10 Nov (European trip) and 88-95 at Bonn; Oldenburg won 74-72 at Ludwigsburg on 8 Nov and have been off since.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "227",
+    "spec": "total=81.5",
+    "desc": "Under 81.5",
+    "odds": 1.68,
+    "p": 0.572125,
+    "why": "Fixture-specific trend: Oldenburg held to <=78 in eight straight games (61, 70, 78 in the last three at home). Counter: Alba's defence allows 86 a game. p 0.57 - below the totals gate, low-confidence value only."
+   }
+  ],
+  "avoid": "Alba ML @1.43 (p 0.68 < gate, Alba 1-3 in last four away incl. Europe). Oldenburg result-side (three straight home losses).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.easycredit-bbl.de/saison/aktuelle-spiele",
+   "https://www.sport.de/basketball/deutschland-bbl/ergebnisse-und-tabelle/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:73451868",
+  "fx": "Hamburg Towers v Wurzburg Baskets",
+  "home_form": "Hamburg last 10 (all comps, most recent first): 09/11 A Jena 91-87 (HT 53-46); 01/11 H Mitteldeutscher 89-109 (HT 49-54); 25/10 A Munich 77-96 (HT 41-42); 18/10 H Munich 63-85 (HT 30-42); 11/10 A Skyliners 78-89 (HT 43-42); 03/10 H Rostock Seawolves 84-91 (HT 32-46); 27/09 A Oldenburg 74-75 (HT 46-23); 25/09 H Niners Chemnitz 94-90 (HT 42-43) OT; 19/09 A Bonn 72-96 (HT 34-45); 11/09 H Rostock Seawolves 90-81 (HT 48-48). W3-L7; home W2-L3, away W1-L4; avg scored 81.2, conceded 89.9.",
+  "away_form": "Wurzburg last 10 (all comps, most recent first): 11/11 H Larnaca 78-76 (HT 35-46); 08/11 H Munich 73-94 (HT 39-49); 02/11 H Tartu Ulikool/Maks and Moorits 113-79 (HT 54-39); 31/10 A Braunschweig 96-72 (HT 58-30); 28/10 H Dziki Warszawa 91-62 (HT 46-30); 26/10 H Niners Chemnitz 98-88 (HT 50-42); 20/10 H MZT Skopje Aerodrom 87-73 (HT 49-43); 18/10 H Mitteldeutscher 93-83 (HT 50-39); 14/10 A Iraklis 2022 73-90 (HT 37-39); 10/10 A Rostock Seawolves 62-101 (HT 35-40). W7-L3; home W6-L1, away W1-L2; avg scored 86.4, conceded 81.8.",
+  "trends": {
+   "game totals": "Board centre 166.5. Home games over it 8/10 (avg 171.1); away games over 5/10 (avg 168.2). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 82.5: home side scored over it 5/10, away side conceded over it 5/10. Away TT centre 84.5: away side scored over it 6/10, home side conceded over it 8/10.",
+   "first half": "1H total centre 82.5. Home 1H totals over 6/10 (avg 84.9), home led at HT 3/10; away 1H totals over 6/10 (avg 85.0), away led at HT 6/10.",
+   "handicap": "Board centre home +3.5. Home margins (recent first): [4, -20, -19, -22, -11, -7, -1, 4, -24, 9]; away margins: [2, -21, 34, 24, 29, 10, 14, 10, -17, -39].",
+   "corners": "n/a (basketball)",
+   "notes": "Hamburg concede 89.9 a game; Wurzburg scoring 86.4. Wurzburg away form is erratic (lost by 39 at Rostock)."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "None found.",
+  "context": "BBL matchday 9, 20:00 CET. Wurzburg 7-3 in last 10 but had six straight home games (Europe + BBL), most recently 78-76 v Larnaca on Wed 11 Nov and 73-94 v Bayern on 8 Nov; last three away: W96-72 Braunschweig, L73-90 Iraklis, L62-101 Rostock. Hamburg 3-7, won 91-87 at Jena on 9 Nov, home losses to MBC (89-109), Bayern, Rostock.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Wurzburg ML @1.65 (p 0.585; three days after a European game and erratic away). Hamburg result-side (3-7).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.easycredit-bbl.de/saison/aktuelle-spiele",
+   "https://www.sport.de/basketball/deutschland-bbl/ergebnisse-und-tabelle/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74750480",
+  "fx": "BC AEK Athens v AE Doxa Lefkadas",
+  "home_form": "AEK Athens last 10 (all comps, most recent first): 08/11 H Panathinaikos 74-83 (HT 40-37); 04/11 A KC Szombathely 72-66 (HT 38-27); 31/10 A Vikos Falcon BC 84-95 (HT 43-46); 24/10 A PAOK 62-65 (HT 29-25); 21/10 H Antwerp Giants 76-103 (HT 50-48); 17/10 H AO Mykonoy 84-79 (HT 47-38); 10/10 A Aris 58-88 (HT 21-42); 07/10 H Salon Vilpas 95-93 (HT 49-44); 03/10 H Maroussi 91-70 (HT 46-34); 26/09 A Olympiakos Piraeus 80-93 (HT 37-46). W4-L6; home W3-L2, away W1-L4; avg scored 77.6, conceded 83.5.",
+  "away_form": "AE Doxa Lefkadas last 10 (all comps, most recent first): 07/11 H Aris 77-88 (HT 35-51); 31/10 A AO Mykonoy 73-59 (HT 38-28); 24/10 H Iraklis 2022 94-86 (HT 41-41) OT; 17/10 H Promitheas Patras 79-80 (HT 45-40); 10/10 A PAOK 73-86 (HT 31-42); 03/10 A Rhodes 75-91 (HT 37-46); 04/04 A AO Dafnis BC 65-54; 28/03 H AE Psuchikou 87-78; 21/03 H Machites Peiramatiko 55-63; 18/03 A Asa Koroivos 73-68. W5-L5; home W2-L3, away W3-L2; avg scored 75.1, conceded 75.3.",
+  "trends": {
+   "game totals": "Board centre 160.5. Home games over it 6/10 (avg 161.1); away games over 4/10 (avg 150.4). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 85.5: home side scored over it 2/10, away side conceded over it 4/10. Away TT centre 75.5: away side scored over it 4/10, home side conceded over it 7/10.",
+   "first half": "1H total centre 79.5. Home 1H totals over 6/10 (avg 78.7), home led at HT 7/10; away 1H totals over 4/6 (avg 79.2), away led at HT 2/6.",
+   "handicap": "Board centre home -9.5. Home margins (recent first): [-9, 6, -11, -3, -27, 5, -30, 2, 21, -13]; away margins: [-11, 14, 8, -1, -13, -16, 11, 9, -8, 5].",
+   "corners": "n/a (basketball)",
+   "notes": "AEK home in the league: +5 Mykonos, +21 Maroussi, -9 PAO. Doxa league losses: -11, -1, -13, -16."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "AEK: Greg Brown (ruptured Achilles, 6-9 months), KeShawn Feazell, Lukas Lekavicius, Gaios Skordilis all out; Derrick Williams doubtful (calf, from the Panathinaikos game); Dimitris Flionis 50-50/returned to training; Thomas Heurtel back in training and expected to play (sources differ). Doxa Lefkadas: starting centre Sharma injured during the 77-88 loss to Aris on 7 Nov - status unknown.",
+  "context": "Stoiximan GBL round 7, 17:00 EET. Greek media call it AEK's \"match of the year\" (must-win; Sakota under pressure). AEK 4-6 in last 10, lost 74-83 to Panathinaikos, 84-95 at Vikos, 62-65 at PAOK, beat Mykonos by only 5 at home. Promoted Doxa are competitive: won at Mykonos by 14, beat Iraklis in OT, lost by 1 to Promitheas, by 11 to Aris, by 13 at PAOK.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "AEK ML @1.19 (p 0.81): research-flagged FRAGILE favourite - four rotation players out, Williams/Flionis doubtful, poor form; skip rather than convert. AEK -9.5. Doxa catch not taken either (their starting centre went off injured last week).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sdna.gr/mpasket/1486327_aek-mesa-me-doxa-leykadas-ertel-kai-flionis-amfibolos-o-oyiliams",
+   "https://www.gazzetta.gr/basketball/basket-league/2586249/aek-amfiboloi-goyiliams-kai-flionis-me-doxa-leykadas-elabet-paizei",
+   "https://www.enwsi.gr/1887768/aek/aek-basket/aek-doxa-levkadas-me-epistrofes-sto-mats-tis-chronias.html",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74750482",
+  "fx": "AS Karditsas v PAOK BC",
+  "home_form": "AS Karditsas last 10 (all comps, most recent first): 07/11 A Promitheas Patras 90-73 (HT 47-37); 31/10 H Rhodes 81-65 (HT 46-31); 24/10 A Panathinaikos 64-78 (HT 39-31); 17/10 A Iraklis 2022 53-71 (HT 29-23); 10/10 H Vikos Falcon BC 85-74 (HT 39-36); 03/10 H Aris 74-68 (HT 35-35); 18/09 A Peristeri Athens 71-81 (HT 37-41); 25/04 A Rhodes 80-91 (HT 44-40); 18/04 H Promitheas Patras 95-79 (HT 46-39); 04/04 A PAOK 90-93 (HT 46-40). W5-L5; home W4-L0, away W1-L5; avg scored 78.3, conceded 77.3.",
+  "away_form": "PAOK last 10 (all comps, most recent first): 10/11 A Balkan Botevgrad 79-56 (HT 53-32); 07/11 H Vikos Falcon BC 93-67 (HT 54-33); 03/11 H BC Roma Spqr 113-111 (HT 61-60); 31/10 A Iraklis 2022 63-53 (HT 34-31); 27/10 A Bahcesehir 81-84 (HT 40-52); 24/10 H AEK Athens 65-62 (HT 25-29); 21/10 H Ulm 87-78 (HT 46-42); 17/10 A Rhodes 88-84 (HT 47-47); 13/10 A Panevezys 86-95 (HT 40-50); 10/10 H AE Doxa Lefkadas 86-73 (HT 42-31). W8-L2; home W5-L0, away W3-L2; avg scored 84.1, conceded 76.3.",
+  "trends": {
+   "game totals": "Board centre 158.5. Home games over it 5/10 (avg 155.6); away games over 7/10 (avg 160.4). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 75.5: home side scored over it 6/10, away side conceded over it 5/10. Away TT centre 82.5: away side scored over it 6/10, home side conceded over it 2/10.",
+   "first half": "1H total centre 78.5. Home 1H totals over 4/10 (avg 76.1), home led at HT 8/10; away 1H totals over 7/10 (avg 84.9), away led at HT 6/10.",
+   "handicap": "Board centre home +6.5. Home margins (recent first): [17, 16, -14, -18, 11, 6, -10, -11, 16, -3]; away margins: [23, 26, 2, 10, -3, 3, 9, 4, -9, 13].",
+   "corners": "n/a (basketball)",
+   "notes": "Karditsa league losses are all away (-14 at Panathinaikos, -18 at Iraklis). PAOK league road wins: +10 at Iraklis (63-53), +4 at Rhodes; home +3 v AEK. Low total (158.5) makes points more valuable."
+  },
+  "h2h": "4 Apr 2026: PAOK 93-90 Karditsa (last season).",
+  "absences": "None found for either side.",
+  "context": "GBL round 7. PAOK are unbeaten league leaders (historic 6-0) but in a European cup as well: won 79-56 at Balkan Botevgrad (Bulgaria) on Tue 10 Nov - fourth game in 12 days. Karditsa \"continue their impressive run\" (Paron): won 90-73 at Promitheas on 7 Nov and are 3-0 at home in the league (74-68 Aris, 85-74 Vikos, 81-65 Rhodes); rested a week.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=8.5",
+    "desc": "Home (+8.5)",
+    "odds": 1.65,
+    "p": 0.5713696868,
+    "why": "Fixture-specific: Karditsa unbeaten at home (3-0 incl. Aris) and off a 17-point road win; PAOK back from a Tuesday trip to Bulgaria and their league road wins were by 10 and 4. Catch >=8.5 for a credible home receiver in a low-total game."
+   },
+   {
+    "mid": "223",
+    "spec": "hcp=10.5",
+    "desc": "Home (+10.5)",
+    "odds": 1.47,
+    "p": 0.6479820209,
+    "why": "Safer rung (p 0.65)."
+   }
+  ],
+  "avoid": "PAOK ML @1.32 (p 0.73 < 0.75 away gate; travel spot at an unbeaten home side). PAOK -6.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.paron.gr/stoiximan-gbl-6h-agonistiki-apotelesmata/",
+   "https://www.sport-fm.gr/article/5159549",
+   "https://www.tanea.gr/2026/11/07/sports/basketball/i-vathmologia-tis-stoiximan-gbl-meta-ta-paixnidia-tis-6is-agonistikis/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74750484",
+  "fx": "Promitheas Patras BC v Iraklis 2022",
+  "home_form": "Promitheas Patras last 10 (all comps, most recent first): 11/11 H KB Trepca 81-71 (HT 37-31); 07/11 H AS Karditsas 73-90 (HT 37-47); 04/11 H Opava 112-92 (HT 54-48); 31/10 A Maroussi 76-87 (HT 21-47); 28/10 A Kk Split 82-88 (HT 40-38); 25/10 H Olympiakos Piraeus 45-85 (HT 29-41); 21/10 H BC Batumi 2010 91-76 (HT 54-48); 17/10 A AE Doxa Lefkadas 80-79 (HT 40-45); 14/10 H Trier 83-87 (HT 41-49); 10/10 H Panathinaikos 59-84 (HT 26-43). W4-L6; home W3-L4, away W1-L2; avg scored 78.2, conceded 83.9.",
+  "away_form": "Iraklis 2022 last 10 (all comps, most recent first): 11/11 H MZT Skopje Aerodrom 103-73 (HT 47-35); 07/11 H AO Mykonoy 95-64 (HT 49-26); 04/11 H Larnaca 81-64 (HT 48-34); 31/10 H PAOK 53-63 (HT 31-34); 28/10 A Tartu Ulikool/Maks and Moorits 100-101 (HT 47-43) OT; 24/10 A AE Doxa Lefkadas 86-94 (HT 41-41) OT; 21/10 H Dziki Warszawa 85-86 (HT 34-41); 17/10 H AS Karditsas 71-53 (HT 23-29); 14/10 H Wurzburg 90-73 (HT 39-37); 10/10 A Peristeri Athens 89-91 (HT 52-35) OT. W5-L5; home W5-L2, away W0-L3; avg scored 85.3, conceded 76.2.",
+  "trends": {
+   "game totals": "Board centre 160.5. Home games over it 6/10 (avg 162.1); away games over 6/10 (avg 161.5). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 79.5: home side scored over it 6/10, away side conceded over it 4/10. Away TT centre 80.5: away side scored over it 8/10, home side conceded over it 7/10.",
+   "first half": "1H total centre 79.5. Home 1H totals over 5/10 (avg 81.6), home led at HT 4/10; away 1H totals over 5/10 (avg 76.6), away led at HT 6/10.",
+   "handicap": "Board centre home +2.5. Home margins (recent first): [10, -17, 20, -11, -6, -40, 15, 1, -4, -25]; away margins: [30, 31, 17, -10, -1, -8, -1, 18, 17, -2].",
+   "corners": "n/a (basketball)",
+   "notes": "Iraklis 0-3 away (all OT); Promitheas home league: -17, -40, -25 (v Karditsa, Olympiacos, PAO)."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "None found.",
+  "context": "GBL round 7 in Patras. Both played European home games on Wed 11 Nov (Promitheas 81-71 Trepca; Iraklis 103-73 MZT). Promitheas \"floundering\" in the league (sport-fm): lost 73-90 at home to Karditsa, 45-85 to Olympiacos, 59-84 to PAO. Iraklis have played seven of their last eight at home; their three away games in the sample all went to OT and all were lost (Tartu, Doxa, Peristeri).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Iraklis ML @1.70 (winless away this season, p 0.56). Promitheas result-side (heavy home defeats). No pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sport-fm.gr/article/5159549",
+   "https://www.tanea.gr/2026/11/07/sports/basketball/i-vathmologia-tis-stoiximan-gbl-meta-ta-paixnidia-tis-6is-agonistikis/",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74236952",
+  "fx": "Atomeromu SE v Alba Fehervar",
+  "home_form": "Atomeromu last 10 (all comps, most recent first): 11/11 A Debreceni EAC 83-74 (HT 39-34); 07/11 H KTE 112-66 (HT 69-37); 31/10 A Szedeak 98-69 (HT 45-28); 28/10 H Phoenix MT Fot 108-85 (HT 55-39); 24/10 A Kaposvari 95-76 (HT 46-34); 17/10 H Budapesti Honved SE 112-81 (HT 61-34); 10/10 H Sordogok 109-80 (HT 61-46); 03/10 A BC Kormend 95-84 (HT 43-42); 26/09 H Universitas Pecs 102-77 (HT 57-38); 19/09 A Spartak Subotica 77-83 (HT 39-38). W9-L1; home W5-L0, away W4-L1; avg scored 99.1, conceded 77.5.",
+  "away_form": "Alba last 10 (all comps, most recent first): 11/11 A KC Szombathely 76-87 (HT 38-44); 06/11 H Debreceni EAC 93-74 (HT 46-33); 31/10 A KTE 88-84 (HT 48-39); 28/10 H Szedeak 93-64 (HT 45-35); 24/10 A Phoenix MT Fot 67-79 (HT 38-43); 17/10 H Kaposvari 94-85 (HT 53-45); 11/10 A Budapesti Honved SE 88-95 (HT 47-33); 30/09 H Sordogok 98-82 (HT 45-38); 25/09 H BC Kormend 96-77 (HT 43-37); 11/09 H Oberwart 89-76 (HT 48-35). W7-L3; home W6-L0, away W1-L3; avg scored 88.2, conceded 80.3.",
+  "trends": {
+   "game totals": "Board centre 175.5. Home games over it 6/10 (avg 176.6); away games over 3/10 (avg 168.5). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 93.5: home side scored over it 8/10, away side conceded over it 1/10. Away TT centre 82.5: away side scored over it 8/10, home side conceded over it 3/10.",
+   "first half": "1H total centre 88.5. Home 1H totals over 5/10 (avg 88.5), home led at HT 10/10; away 1H totals over 1/10 (avg 83.3), away led at HT 8/10.",
+   "handicap": "Board centre home -11.5. Home margins (recent first): [9, 46, 29, 23, 19, 31, 29, 11, 25, -6]; away margins: [-11, 19, 4, 29, -12, 9, -7, 16, 19, 13].",
+   "corners": "n/a (basketball)",
+   "notes": "Atomeromu home scores: 112, 108, 112, 109, 102 (five from five over 100; home margins +46, +23, +31, +29, +25) and 95+ in eight of nine league games. Alba away concessions: 87, 84, 79, 95; Alba are a much better defence than Paks' previous home visitors."
+  },
+  "h2h": "None this season. (Jan 2025: Atomeromu won big in Fehervar - old.)",
+  "absences": "None reported in the FEOL preview or elsewhere.",
+  "context": "NB I/A round 10, ASE Sportcsarnok Paks, 15:00 CET (FEOL; matches board). Atomeromu lead the league unbeaten (9-0). Alba Fehervar 3rd, arrive after an 76-87 loss at Falco on Wed 11 Nov (trailed by 19); Atomeromu also played Wed (83-74 at DEAC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "227",
+    "spec": "total=91.5",
+    "desc": "Over 91.5",
+    "odds": 1.57,
+    "p": 0.586175,
+    "why": "Fixture-specific trend: unbeaten Atomeromu have scored 102-112 in all five home league games and 95+ in 8 of 9; Alba conceded 87 and 95 in their last two tough away games and played Wednesday. Counter: Alba is the best opponent Paks have hosted. p 0.59 - below totals gate, value/fill."
+   }
+  ],
+  "avoid": "Atomeromu ML @1.12 (below floor). Alba +11.5 catch (Paks win home games by 23-46). Atomeromu -11.5 (first top-3 visitor).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.feol.hu/helyi-sport/2026/11/alba-fehervar-atomeromu-se-paks-kosarlabda-beharangozo",
+   "https://hunbasket.hu/tabella/ferfi",
+   "https://feol.hu/helyi-sport/2026/11/alba-fehervar-falco-szombathely-kosarlabda-vereseg",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74236950",
+  "fx": "Budapesti Honved SE v Falco KC Szombathely",
+  "home_form": "Budapesti Honved SE last 10 (all comps, most recent first): 11/11 A Sordogok 72-74 (HT 41-25); 08/11 H BC Kormend 90-78 (HT 36-55); 31/10 A Universitas Pecs 120-110 (HT 54-50); 28/10 H Ose Lions 98-100 (HT 45-47); 25/10 A Szolnoki 80-99 (HT 38-45); 17/10 A Atomeromu 81-112 (HT 34-61); 11/10 H Alba 95-88 (HT 33-47); 02/10 A Debreceni EAC 93-88 (HT 44-46); 26/09 H KTE 83-65 (HT 40-35); 15/05 A Alba 98-90 (HT 45-53). W6-L4; home W3-L1, away W3-L3; avg scored 91.0, conceded 90.4.",
+  "away_form": "KC Szombathely last 10 (all comps, most recent first): 11/11 H Alba 87-76 (HT 44-38); 07/11 A Sordogok 82-56 (HT 46-33); 04/11 H AEK Athens 66-72 (HT 27-38); 28/10 A BC Kormend 105-79 (HT 55-38); 24/10 H KTE 85-65 (HT 50-41); 20/10 H Salon Vilpas 85-72 (HT 46-42); 16/10 A Universitas Pecs 106-78 (HT 50-45); 10/10 H Szedeak 96-65 (HT 49-34); 07/10 A Antwerp Giants 93-99 (HT 45-54); 03/10 A Ose Lions 98-74 (HT 46-46). W8-L2; home W4-L1, away W4-L1; avg scored 90.3, conceded 73.6.",
+  "trends": {
+   "game totals": "Board centre 169.5. Home games over it 7/10 (avg 181.4); away games over 4/10 (avg 163.9). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 77.5: home side scored over it 9/10, away side conceded over it 3/10. Away TT centre 91.5: away side scored over it 5/10, home side conceded over it 4/10.",
+   "first half": "1H total centre 85.5. Home 1H totals over 6/10 (avg 87.4), home led at HT 3/10; away 1H totals over 6/10 (avg 86.7), away led at HT 7/10.",
+   "handicap": "Board centre home +13.5. Home margins (recent first): [-2, 12, 10, -2, -19, -31, 7, 5, 18, 8]; away margins: [11, 26, -6, 26, 20, 13, 28, 31, -6, 24].",
+   "corners": "n/a (basketball)",
+   "notes": "Falco league road wins: +26 Sopron, +26 Kormend, +28 Pecs, +24 OSE. Honved games avg 181 points v Falco 164; Honved lost by 31 at Paks and 19 at Szolnok."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "None found.",
+  "context": "NB I/A round 10 in Budapest. Falco 2nd, unbeaten in the league (beat Alba 87-76 on Wed 11 Nov) and also in a European cup (lost 66-72 to AEK on 4 Nov). Honved top-ten, 6-4 in last 10; home: beat Kormend 90-78 and Alba 95-88, lost 98-100 to OSE.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Falco ML @1.06 (below floor). Honved +13.5 catch (Falco win league road games by 24-28). Falco -13.5 is supported by form but is a wide lay with European rotation risk - no pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://hunbasket.hu/tabella/ferfi",
+   "https://feol.hu/helyi-sport/2026/11/alba-fehervar-falco-szombathely-kosarlabda-vereseg",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ },
+ {
+  "eid": "sr:match:74236960",
+  "fx": "SZTE-Szedeak v NKA Universitas Pecs",
+  "home_form": "Szedeak last 10 (all comps, most recent first): 11/11 H Ose Lions 81-65 (HT 36-36); 07/11 A Szolnoki 79-88 (HT 44-46); 31/10 H Atomeromu 69-98 (HT 28-45); 28/10 A Alba 64-93 (HT 35-45); 24/10 H Debreceni EAC 91-82 (HT 35-47); 20/10 A KTE 86-63 (HT 45-42); 10/10 A KC Szombathely 65-96 (HT 34-49); 03/10 H Phoenix MT Fot 77-71 (HT 34-38); 26/09 A Kaposvari 98-99 (HT 56-58); 23/05 H Zalakeramia ZTE 78-66 (HT 43-33). W5-L5; home W4-L1, away W1-L4; avg scored 78.8, conceded 82.1.",
+  "away_form": "Universitas Pecs last 10 (all comps, most recent first): 11/11 H Phoenix MT Fot 76-90 (HT 30-39); 06/11 A Kaposvari 94-97 (HT 51-49); 31/10 H Budapesti Honved SE 110-120 (HT 50-54); 28/10 A Sordogok 43-78 (HT 29-33); 24/10 H BC Kormend 88-75 (HT 43-36); 16/10 H KC Szombathely 78-106 (HT 45-50); 10/10 A Ose Lions 84-93 (HT 43-40); 03/10 H Szolnoki 70-74 (HT 35-33); 26/09 A Atomeromu 77-102 (HT 38-57); 23/05 A BC Kormend 98-118 (HT 47-65). W1-L9; home W1-L4, away W0-L5; avg scored 81.8, conceded 95.3.",
+  "trends": {
+   "game totals": "Board centre 163.5. Home games over it 4/10 (avg 160.9); away games over 7/10 (avg 177.1). Includes OT and European/cup games.",
+   "team totals": "Home TT centre 85.5: home side scored over it 3/10, away side conceded over it 7/10. Away TT centre 78.5: away side scored over it 5/10, home side conceded over it 6/10.",
+   "first half": "1H total centre 82.5. Home 1H totals over 4/10 (avg 82.9), home led at HT 2/10; away 1H totals over 6/10 (avg 86.7), away led at HT 4/10.",
+   "handicap": "Board centre home -7.5. Home margins (recent first): [16, -9, -29, -29, 9, 23, -31, 6, -1, 12]; away margins: [-14, -3, -10, -35, 13, -28, -9, -4, -25, -20].",
+   "corners": "n/a (basketball)",
+   "notes": "Szedeak home: W81-65, L69-98 (Paks), W91-82, W77-71. Pecs have lost eight of their last nine."
+  },
+  "h2h": "No current-season meeting found in last-10 data.",
+  "absences": "None found.",
+  "context": "NB I/A round 10 in Szeged. Szedeak top-ten (5-5 in last 10; home 3-1 this season, only loss to unbeaten Atomeromu). Pecs 13th with 1 win in 10, 0-4 away (lost at Kaposvar 94-97, Sopron 43-78, OSE 84-93, Paks 77-102) and conceding 95.3 a game. Both played Wed 11 Nov (Szedeak 81-65 v OSE; Pecs 76-90 at home to MAFC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7592578571,
+    "why": "Meets the ML gate (p 0.76). Fixture trend: Szedeak 3-1 at home (only defeat to the unbeaten leaders), Pecs winless away (0-4) with one win in ten and the leakiest defence in the league sample (95.3). Statistics-only (no team news found) - fill quality, not an anchor."
+   }
+  ],
+  "avoid": "Pecs +7.5 (under the 8.5 minimum; weak receiver). Totals (Szedeak games 161 v Pecs 177 - contradictory).",
+  "confidence": 0.2,
+  "sources": [
+   "https://hunbasket.hu/tabella/ferfi",
+   "https://www.nemzetisport.hu/kosarlabda/2026/09/ferfi-kosarlabda-nb-i-gyozelemmel-kezdett-a-falco",
+   "Sportradar gismo stats_team_lastx / match_info (pulled 2026-11-14 06:40 UTC)"
+  ]
+ }
+]

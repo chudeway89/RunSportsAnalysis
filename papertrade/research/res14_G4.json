@@ -1,0 +1,802 @@
+[
+ {
+  "eid": "sr:match:76413242",
+  "fx": "Gimnasia y Esgrima de Jujuy v Club Almirante Brown",
+  "home_form": "Gimnasia Jujuy finished 4th in Zona B after leading for much of the season. Form is poor: L1-5 at San Martin SJ, L1-2 Atlanta (H), W1-0 at Chicago, D2-2 Gimnasia Salta (H), L1-2 at Temperley, D2-2 (H), D1-1. One win in 8. They conceded in 9 of last 10 and in all of their last 5 home games. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 31/10/26 A San Juan 1-5(1-3); 25/10/26 H Atlanta 1-2(0-0); 18/10/26 A Chicago 1-0(0-0); 11/10/26 H Salta 2-2(0-0); 03/10/26 A Temperley 1-2(1-2); 28/09/26 H Tucuman 2-2(0-2); 20/09/26 A Maipu 1-1(0-0); 13/09/26 H Rafaela 2-1(1-0); 06/09/26 A Almagro 2-1(1-1); 01/09/26 H Agropecuario 1-1(0-0)",
+  "away_form": "Almirante Brown finished 6th in Zona A. L1-2 at Godoy Cruz, W1-0 Moron, D2-2 at Colon, D1-1, L2-3 at San Telmo, L0-1, L0-1, D0-0, D0-0. Scored in each of their last 3 away games. Sportradar last10: 31/10/26 A Godoy Cruz 1-2(0-1); 25/10/26 H Moron 1-0(1-0); 17/10/26 A Santa Fe 2-2(0-0); 11/10/26 H San Miguel 1-1(1-0); 04/10/26 A San Telmo 2-3(1-2); 26/09/26 H Acassuso 0-1(0-0); 20/09/26 A Chaco For Ever 0-1(0-1); 13/09/26 H Ferro Carril Oeste 0-0(0-0); 06/09/26 A Central Norte 0-0(0-0); 30/08/26 H Madryn 1-0(1-0)",
+  "trends": {
+   "game totals": "Jujuy games: 6,3,1,4,3,4,2,3,3,2. Almirante Brown: 3,1,4,2,5,1,1,0,0,1. Primera Nacional is a low-scoring league.",
+   "team totals": "Jujuy conceded in all of their last 5 home games (2,2,2,1,1) and 9 of last 10. Almirante scored in 6 of last 10 (5 of last 5).",
+   "first half": "Jujuy home first halves: 0-0,0-0,0-2,1-0,0-0 (slow starts).",
+   "handicap": "Not applicable: draw sends Jujuy through.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "15 meetings: Jujuy 9 wins, 2 draws, 4 defeats; Jujuy won the most recent 1-0 (Aug 2025).",
+  "absences": "No team news found.",
+  "context": "KNOCKOUT: Reducido first round, single match at Estadio 23 de Agosto, 20:00 local (23:00 UTC, matches board). Jujuy hold the sporting advantage: a draw after 90 minutes sends them through, so Almirante Brown must win. All markets settle on 90 minutes; no To Qualify market on the board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.7,
+    "p": 0.5496193483,
+    "why": "Almirante Brown team total Over 0.5: they must win (a draw eliminates them), Jujuy have conceded in all of their last 5 home games and 9 of their last 10, and Almirante scored in each of their last 5. Away team-to-score in a low-scoring league: value/fill only, not a core leg."
+   }
+  ],
+  "avoid": "Jujuy 1X2 @1.86 and DNB @1.34 (one win in 8, a draw is enough for them so no need to force it). Unders (Jujuy home games had 3,4,4,3,2 goals).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.todojujuy.com/deportes/gimnasia-jujuy-jugara-el-sabado-14-almirante-brown-el-reducido-n298485",
+   "https://viapais.com.ar/jujuy/ventaja-deportiva-gimnasia-jujuy-comienza-camino-ascenso_0_6fmGfjRBDP.html",
+   "https://365scores.com/es/news/reducido-primera-nacional-cruces",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:68823476",
+  "fx": "AC Goianiense GO v Cuiaba EC MT",
+  "home_form": "Atletico-GO are 8th on 58 pts, level with CRB and Goias for the last playoff place. Last 5: W3-2 at Athletic, D0-0 at Fortaleza, L0-1 Novorizontino (H), D1-1 at Ponte Preta, D1-1 Sport (H). Home before that: W2-0 America, W4-0 Criciuma. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 08/11/26 A Athletic Club Sjdr 3-2(0-1); 02/11/26 A Fortaleza 0-0(0-0); 24/10/26 H Gremio Novorizontino 0-1(0-0); 17/10/26 A Ponte Preta 1-1(0-1); 11/10/26 H Sport Recife 1-1(1-0); 08/10/26 A CR Brasil 1-3(0-0); 03/10/26 H America FC 2-0(1-0); 26/09/26 A Goias 1-0(1-0); 19/09/26 A Sao Bernardo 0-1(0-0); 13/09/26 H Criciuma 4-0(2-0)",
+  "away_form": "Cuiaba are 14th on 47 pts, with nothing to play for. They have lost 5 in a row (1-2 Juventude, 1-2 Sao Bernardo, 0-1 America, 0-1 Londrina, 0-1 Avai) and scored 2 goals in their last 6. Away: 0-1, 0-1, 0-0, 0-3. Sportradar last10: 08/11/26 H Juventude RS 1-2(0-1); 01/11/26 H Sao Bernardo 1-2(1-1); 26/10/26 A America FC 0-1(0-0); 21/10/26 A Londrina 0-1(0-1); 11/10/26 H Avai 0-1(0-1); 08/10/26 A Vila Nova 0-0(0-0); 03/10/26 H Ponte Preta 2-0(1-0); 27/09/26 A CR Brasil 0-3(0-1); 22/09/26 H Nautico 3-0(1-0); 13/09/26 A Gremio Novorizontino 1-1(1-1)",
+  "trends": {
+   "game totals": "Cuiaba games: 3,3,1,1,1,0,2,3,3,2 (Under 2.5 in 6 of 10). Atletico-GO: 5,0,1,2,2,4,2,1,1,4.",
+   "team totals": "Cuiaba scored 0 in 5 of their last 7 and in their last 4 away. Atletico-GO scored in 7 of last 10 but only 2 in their last 3 at home.",
+   "first half": "Cuiaba trailed at HT in 4 of last 5.",
+   "handicap": "Cuiaba's five straight defeats were all by exactly one goal, so -1/-1.5 is not supported.",
+   "corners": "Corners 166 listed (line 10.5); no data and excluded class."
+  },
+  "h2h": "23 Jul 2026 first-round meeting at Arena Pantanal (score not retrieved).",
+  "absences": "No confirmed line-ups or absences found for this round.",
+  "context": "Serie B round 38 (final round), 16:30 local at Antonio Accioly, all games simultaneous. Atletico-GO must win and need CRB and Goias to slip; Cuiaba have no playoff chance and no relegation risk (dead rubber for them).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.69388,
+    "why": "Atletico-GO to win: must-win for the last playoff place at home v a Cuiaba side with nothing to play for that has lost five straight and scored twice in six games. Mechanism is motivation plus opponent form; no line-up news, and a win by one goal is the modal outcome."
+   }
+  ],
+  "avoid": "Atletico-GO -1/-1.5 (Cuiaba lose by one). Cuiaba team Over 0.5. Over 2.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://diariodegoias.com.br/atletico-go-x-cuiaba-onde-assistir-ao-vivo-o-jogo-pelo-campeonato-brasileiro-serie-b-2/554341/",
+   "https://diariodegoias.com.br/classificacao-da-serie-b-veja-o-cenario-de-vila-nova-goias-e-atletico-go-antes-da-decisao/554294/",
+   "https://placar.com.br/brasileirao/titulo-playoff-e-rebaixamento-os-cenarios-da-ultima-rodada-da-serie-b/",
+   "https://www.olympics.com/pt/noticias/serie-b-2026-ultima-rodada-programacao-onde-assistir",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:68823478",
+  "fx": "Criciuma EC SC v Gremio Novorizontino SP",
+  "home_form": "Criciuma (62 pts, already in the playoffs): L0-1 at Vila Nova, W2-0 Ponte Preta (H), L1-2 at Sport, W1-0 at Sao Bernardo, W1-0 America (H), W3-0 Avai (H). Three straight home clean sheets. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 08/11/26 A Vila Nova 0-1(0-1); 30/10/26 H Ponte Preta 2-0(1-0); 24/10/26 A Sport Recife 1-2(0-0); 18/10/26 A Sao Bernardo 1-0(1-0); 13/10/26 H America FC 1-0(0-0); 09/10/26 A Ceara 0-1(0-0); 03/10/26 A Londrina 2-0(0-0); 27/09/26 H Avai 3-0(0-0); 23/09/26 H Ferroviario 0-2(0-1); 13/09/26 A AC Goianiense 0-4(0-2)",
+  "away_form": "Novorizontino lead on 70 pts and are already promoted; a win clinches the title. Form: W2-1 Fortaleza, W2-1 Ferroviario, W1-0 at Atletico-GO, D2-2 at Vila Nova, W5-1 Ponte, W2-0 at Nautico, W3-0 Goias. Scored in 9 of last 10. Sportradar last10: 07/11/26 H Fortaleza 2-1(1-1); 01/11/26 H Ferroviario 2-1(2-0); 24/10/26 A AC Goianiense 1-0(0-0); 18/10/26 A Vila Nova 2-2(1-0); 13/10/26 H Ponte Preta 5-1(3-1); 09/10/26 A Nautico 2-0(2-0); 02/10/26 H Goias 3-0(1-0); 26/09/26 H Sao Bernardo 0-0(0-0); 19/09/26 A Ceara 1-2(1-0); 13/09/26 H Cuiaba 1-1(1-1)",
+  "trends": {
+   "game totals": "Criciuma games: 1,2,3,1,1,1,2,3,2,4 (Under 2.5 in 7 of 10). Novorizontino: 3,3,1,4,6,2,3,0,3,2.",
+   "team totals": "Novorizontino scored in 9 of last 10 and in each of the last 4 away. Criciuma kept clean sheets in their last 3 home games.",
+   "first half": "Novorizontino scored first-half goals in 7 of last 10.",
+   "handicap": "No margin trend; evenly priced.",
+   "corners": "Corners 166 listed; no data."
+  },
+  "h2h": "Earlier meeting this season: Criciuma won at Novorizontino (Soccerway headline: Criciuma won the direct confrontation and entered the G4).",
+  "absences": "Probable XIs are first-choice on both sides (Criciuma: Airton; Castan, Rodrigo, Cesar Martins, Hermes; Lepo, Fellipe Mateus, Ronald; Otero, Diego Goncalves, Yuri Tanque. Novorizontino: Jordi; Sander, Madson, Carlinhos, Maykon Jesus; Juninho, Bianqui, Oyama; Reidiney, Barcellos, Robson). One source has Patrick and Romulo in for Novorizontino.",
+  "context": "Serie B final round, 16:30 local at Heriberto Hulse. Novorizontino play for the title; Criciuma are locked into the playoffs (seeding only). Top-of-table clash.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.35,
+    "p": 0.708954,
+    "why": "Novorizontino team total Over 0.5: they need a win for the title, field a first-choice XI and have scored in 9 of their last 10 (all of the last 4 away). Risk: Criciuma's three straight home clean sheets; away team-to-score is a weak class, so fill only."
+   }
+  ],
+  "avoid": "Result sides (top-of-table clash, Criciuma won the reverse fixture). Over 2.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.gazetaesportiva.com/campeonatos/brasileiro-serie-b/criciuma-x-novorizontino-onde-assistir-escalacoes/",
+   "https://www.terra.com.br/esportes/criciuma/criciuma-x-novorizontino-onde-assistir-ao-vivo-horario-e-escalacoes-pela-serie-b,43f5dec59c57f7327c7bfdf17acda0b0lztncdkz.html",
+   "https://placar.com.br/brasileirao/titulo-playoff-e-rebaixamento-os-cenarios-da-ultima-rodada-da-serie-b/",
+   "https://www.olympics.com/pt/noticias/serie-b-2026-ultima-rodada-programacao-onde-assistir",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:68823474",
+  "fx": "Fortaleza EC CE v Vila Nova FC GO",
+  "home_form": "Fortaleza (5th, 62 pts, playoff place secured) are winless in 4: L0-2 on Wed 11 Nov (cup tie, 3 days rest), L1-2 at Novorizontino, D0-0 Atletico-GO (H), D2-2 at Ponte Preta. Last 4 home games: 0-0, 2-2, 1-1, 2-2 (no home win in the sample). Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 11/11/26 A Atletas Do Tirol 0-2; 07/11/26 A Gremio Novorizontino 1-2(1-1); 02/11/26 H AC Goianiense 0-0(0-0); 24/10/26 A Ponte Preta 2-2(1-2); 17/10/26 A Sport Recife 2-0(1-0); 12/10/26 H CR Brasil 2-2(2-1); 08/10/26 A America FC 1-0(1-0); 03/10/26 H Nautico 1-1(1-1); 27/09/26 H Athletic Club Sjdr 2-2(1-1); 20/09/26 A Londrina 2-1(1-0)",
+  "away_form": "Vila Nova (3rd, 66 pts): W1-0 Criciuma, D2-2 Juventude, L2-3 at Sao Bernardo, D2-2 Novorizontino, W2-0 at Nautico, D0-0 Cuiaba, W1-0 at Botafogo-SP. One defeat in 10. Away: L2-3, W2-0, W1-0, D1-1. Sportradar last10: 08/11/26 H Criciuma 1-0(1-0); 31/10/26 H Juventude RS 2-2(0-0); 24/10/26 A Sao Bernardo 2-3(1-1); 18/10/26 H Gremio Novorizontino 2-2(0-1); 11/10/26 A Nautico 2-0(2-0); 08/10/26 H Cuiaba 0-0(0-0); 03/10/26 A Botafogo 1-0(1-0); 26/09/26 H Londrina 2-0(1-0); 19/09/26 H America FC 1-0(1-0); 15/09/26 A Avai 1-1(1-1)",
+  "trends": {
+   "game totals": "Fortaleza games: 2,3,0,4,2,4,1,2,4,3; Vila Nova: 1,4,5,4,2,0,1,2,1,2. No total edge.",
+   "team totals": "Vila Nova scored in 8 of last 10 and in all of their last 4 away. Fortaleza conceded in 7 of last 10.",
+   "first half": "Vila Nova scored in the first half in 7 of last 10.",
+   "handicap": "Fortaleza drew their last 4 home games; Vila Nova lost 1 of 10.",
+   "corners": "Corners 166 listed; no data."
+  },
+  "h2h": "Not retrieved for this season.",
+  "absences": "Fortaleza: Lucas Emanoel and Tomas Cardona suspended; Pierre (knee surgery), Neris and Luiz Fernando (thigh) out. Vila Nova: right-back Hayner suspended (STJD), Andre Luis out (back); XI confirmed by Guto Ferreira: Helton Leite; Igor Carius, Jonathan Costa, Douglas Mendes, Higor Luiz; Joao Vieira, Dudu, Marquinhos Gabriel; Janderson, Everton Galdino, Dellatorre.",
+  "context": "Serie B final round, 16:30 local at Castelao. Vila Nova must win and need Juventude to slip for direct promotion; Fortaleza are locked into the playoffs, have five players out and played on Wednesday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.58,
+    "p": 0.597192,
+    "why": "Vila Nova +0.5 (win or draw): Vila Nova must win for direct promotion and lost once in 10; Fortaleza are already in the playoffs, winless in 4, have drawn their last 4 home games, miss five players (two suspended) and played three days ago."
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.36,
+    "p": 0.7002,
+    "why": "Vila Nova team total Over 0.5: must-win side that scored in 8 of its last 10 and all of its last 4 away, v a Fortaleza defence missing Cardona (ban) and Neris. Away team-to-score is a weak class, so fill only."
+   }
+  ],
+  "avoid": "Fortaleza DNB @1.68 / Home 1X2 (fragile favourite: absences, no home win in 4, nothing at stake).",
+  "confidence": 0.3,
+  "sources": [
+   "https://esportegoiano.com.br/sem-hayner-andre-luis-guto-ferreira-posiciona-vila-nova-encarar-fortaleza/",
+   "https://opopular.com.br/esporte/fortaleza-x-vila-nova-onde-assistir-ao-vivo-horario-e-escalac-es-1.3480582",
+   "https://portaldemocrata.com.br/2026/11/13/vila-nova-tem-escalacao-alterada-contra-fortaleza-com-desfalques-importantes/",
+   "https://placar.com.br/brasileirao/titulo-playoff-e-rebaixamento-os-cenarios-da-ultima-rodada-da-serie-b/",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76037682",
+  "fx": "Aguilas Doradas Rionegro v Independiente Medellin",
+  "home_form": "Aguilas Doradas are 10th on 25 pts and need a win plus help. Last 5: L0-1 at Once Caldas, W1-0 Fortaleza, W2-0 at Cucuta, L0-1 at Junior, W2-1 Tolima. Home: W1-0, W2-1, W2-0 (three straight home wins). Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 07/11/26 A Once Caldas 0-1(0-0); 02/11/26 H Fortaleza 1-0(0-0); 28/10/26 A Cucuta 2-0(2-0); 24/10/26 A Junior 0-1(0-1); 18/10/26 H Tolima 2-1(1-1); 14/10/26 A Bucaramanga 1-1(0-1); 10/10/26 A Alianza FC Valledupar 2-2(2-0); 03/10/26 H Jaguares 2-0(0-0); 28/09/26 A Cali 0-2(0-1); 24/09/26 A America Cali 0-1(0-1)",
+  "away_form": "Medellin are 6th on 29 pts and qualify by their own result. Last 5: W3-0 at Fortaleza, W2-1 Alianza, L1-3 at Inter Bogota, L1-2 and L2-3 v Nacional. Away: W3-0, L1-3, L1-2, L2-3, W2-1. Sportradar last10: 07/11/26 A Fortaleza 3-0(1-0); 02/11/26 H Alianza FC Valledupar 2-1(1-1); 29/10/26 A Internacional de Bogota. 1-3(0-1); 26/10/26 A Atletico Nacional 1-2(1-0); 18/10/26 H Once Caldas 0-2(0-1); 15/10/26 A Atletico Nacional 2-3(0-2); 12/10/26 A America Cali 2-1(1-1); 06/10/26 H Independ. Santa Fe 0-1(0-0); 30/09/26 H Millonarios 2-2(1-2); 27/09/26 A Junior 0-2(0-0)",
+  "trends": {
+   "game totals": "Aguilas games: 1,1,2,1,3,2,4,2,2,1 (Over 1.5 in 6 of 10). Medellin: 3,3,4,3,2,5,3,1,4,2 (Over 1.5 in 9 of 10). League average is below the 2.7 threshold.",
+   "team totals": "Medellin scored in each of their last 5 away games; Aguilas won their last 3 at home conceding once.",
+   "first half": "Medellin away games had a first-half goal in 5 of last 5.",
+   "handicap": "No margin trend.",
+   "corners": "Corners: home O3.5 @1.37 listed; no data."
+  },
+  "h2h": "None retrieved this season.",
+  "absences": "No squad news found.",
+  "context": "Liga BetPlay round 19 (final round), all seven deciding games simultaneous at 15:30 local (20:30 UTC, matches board), at Estadio Cincuentenario per 365Scores. Six teams chase three places; both sides need the win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (both must win; coin-flip price). Over 1.5 @1.30 has only trend support and the league average is too low for the Over 1.5 gate.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.elcolombiano.com/deportes/futbol/dim-define-clasificacion-cuadrangulares-ante-aguilas-doradas-LC43412283",
+   "https://www.365scores.com/es/news/liga-betplay-escenarios-tabla-hoy/",
+   "https://www.futbolred.com/futbol-colombiano/liga-betplay/america-pierde-tres-puntos-asi-queda-la-tabla-de-liga-betplay-ii-2026-deportivo-cali-beneficiado-275181",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76676670",
+  "fx": "Deportivo Cali v CD Tolima",
+  "home_form": "Deportivo Cali have already qualified and are playing for seeding (sporting advantage in the semi-final groups). Home: W2-0 Chico, D0-0 Junior, W3-1 Alianza, W2-0 Aguilas, W3-0 Cucuta (unbeaten, 4 clean sheets in 5). One goal conceded in their last 7 games overall. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 08/11/26 A America Cali 0-0(0-0); 01/11/26 H Boyaca Chico 2-0(1-0); 25/10/26 A Fortaleza 1-1(1-1); 22/10/26 A Llaneros 3-0(2-0); 19/10/26 H Junior 0-0(0-0); 10/10/26 A Pereira 0-0(0-0); 03/10/26 H Alianza FC Valledupar 3-1(0-0); 28/09/26 H Aguilas Doradas Rionegro 2-0(1-0); 23/09/26 A Independ. Santa Fe 1-0(1-0); 20/09/26 H Cucuta 3-0(1-0)",
+  "away_form": "Tolima are on 26 pts and must win and get help. Last 5: W2-1 Millonarios, W3-1 at Pereira, L0-1 Pasto (H), L1-2 at Aguilas, L2-3 at Jaguares. Away: 1 win in last 6. Sportradar last10: 09/11/26 H Millonarios 2-1(2-1); 03/11/26 A Pereira 3-1(3-1); 26/10/26 H Pasto 0-1(0-1); 18/10/26 A Aguilas Doradas Rionegro 1-2(1-1); 11/10/26 A Jaguares 2-3(0-1); 09/10/26 A Atletico Nacional 0-0(0-0); 03/10/26 H Boyaca Chico 0-0(0-0); 28/09/26 A Fortaleza 2-2(1-0); 21/09/26 H America Cali 1-1(1-1); 17/09/26 A Once Caldas 0-1(0-1)",
+  "trends": {
+   "game totals": "Cali games: 0,2,2,3,0,0,4,2,1,3 (Under 2.5 in 7 of 10). Tolima: 3,4,1,3,5,0,0,4,2,1.",
+   "team totals": "Cali conceded in only 2 of their last 10. Tolima scored 2+ in 5 of last 10 but blank in 3.",
+   "first half": "Cali led at HT in 6 of last 10; conceded one first-half goal in 10.",
+   "handicap": "Cali's home wins: 2-0, 3-1, 2-0, 3-0.",
+   "corners": "Corners: home O3.5 @1.41 listed; no data."
+  },
+  "h2h": "None retrieved this season.",
+  "absences": "Tolima travel with \"durisimas bajas\" (Win Sports headline); names not retrieved. Cali: none found.",
+  "context": "Liga BetPlay final round, simultaneous 15:30 local. Tolima must win; Cali are through but, per Win Sports, still want the win for the sporting advantage.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.34,
+    "p": 0.711026,
+    "why": "Cali +0.5 (win or draw): unbeaten in their last 5 at home with 4 clean sheets and 1 goal conceded in 7 games; Tolima arrive with heavy absences, must chase the game, and won 1 of their last 6 away."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.59,
+    "p": 0.587901,
+    "why": "Cali DNB (alternative to the +0.5, do not use both): same mechanism at a bigger price; a draw refunds. Risk: Cali already qualified and could manage minutes."
+   }
+  ],
+  "avoid": "Tolima result sides and Tolima team overs. Over 2.5 (Cali games are low-scoring).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.winsports.co/futbol-colombiano/noticias/deportes-tolima-visitara-a-deportivo-cali-con-durisimas-bajas-477910",
+   "https://www.elcolombiano.com/deportes/futbol/dim-define-clasificacion-cuadrangulares-ante-aguilas-doradas-LC43412283",
+   "https://www.365scores.com/es/news/liga-betplay-escenarios-tabla-hoy/",
+   "https://www.futbolred.com/futbol-colombiano/liga-betplay/america-pierde-tres-puntos-asi-queda-la-tabla-de-liga-betplay-ii-2026-deportivo-cali-beneficiado-275181",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76676672",
+  "fx": "Deportivo Pereira FC SA v America de Cali",
+  "home_form": "Pereira: L3-4 at Nacional, L1-3 Tolima (H), W1-0 Jaguares (H), D1-1 at Once Caldas, W2-0 Chico (H). Not among the teams still in contention per the sources found. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 08/11/26 A Atletico Nacional 3-4(1-2); 03/11/26 H Tolima 1-3(1-3); 30/10/26 H Jaguares 1-0(0-0); 25/10/26 A Once Caldas 1-1(0-0); 20/10/26 H Boyaca Chico 2-0(1-0); 14/10/26 A Junior 1-1(0-1); 10/10/26 H Cali 0-0(0-0); 04/10/26 A Cucuta 0-4(0-3); 29/09/26 H Independ. Santa Fe 1-2(1-1); 26/09/26 H Internacional de Bogota. 0-0(0-0)",
+  "away_form": "America have qualified (33 pts, 3rd, after CAS docked 3 points for fielding Yhormar Hurtado). They played on Wed 11 Nov (W2-1 at Inter Bogota), on 8 Nov (0-0 Cali) and 5 Nov (0-0 at Millonarios): this is a 4th game in 10 days. Sportradar last10: 11/11/26 A Internacional de Bogota. 2-1(2-1); 08/11/26 H Cali 0-0(0-0); 05/11/26 A Millonarios 0-0(0-0); 30/10/26 H Fortaleza 2-1(0-0); 25/10/26 H Cucuta 3-1(2-1); 22/10/26 A Barranquilla 4-0(3-0); 18/10/26 A Bucaramanga 1-1(0-0); 12/10/26 H Ind. Medellin 1-2(1-1); 05/10/26 A Llaneros 2-1(0-1); 24/09/26 H Aguilas Doradas Rionegro 1-0(1-0)",
+  "trends": {
+   "game totals": "Pereira games: 7,4,1,2,2,2,0,4,3,0; America: 3,0,0,3,4,4,2,3,3,1.",
+   "team totals": "America scored in 8 of last 10; Pereira conceded 7 in their last 2.",
+   "first half": "No trend.",
+   "handicap": "No trend.",
+   "corners": "Corners listed; no data."
+  },
+  "h2h": "None retrieved this season.",
+  "absences": "No squad news found. Rotation by America is likely given the schedule and qualification already secured, but not confirmed.",
+  "context": "Liga BetPlay final round, simultaneous 15:30 local at Hernan Ramirez Villegas per fixture lists (one summary named a different stadium, Santiago de las Atalayas, which is Yopal: unverified, treat as a minor flag). America already qualified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "America 1X2 @1.77 and America DNB @1.31: qualified side on a 4th game in 10 days, rotation risk. Pereira lines (no motivation information).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.elcolombiano.com/deportes/futbol/dim-define-clasificacion-cuadrangulares-ante-aguilas-doradas-LC43412283",
+   "https://www.365scores.com/es/news/liga-betplay-escenarios-tabla-hoy/",
+   "https://www.futbolred.com/futbol-colombiano/liga-betplay/america-pierde-tres-puntos-asi-queda-la-tabla-de-liga-betplay-ii-2026-deportivo-cali-beneficiado-275181",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72342364",
+  "fx": "Exeter City v Cheltenham Town",
+  "home_form": "Exeter lost 1 of last 8 in all comps; won 2-1 at League One leaders Huddersfield in the FA Cup on 7 Nov. Home: W2-1 Fleetwood, W2-0 Crewe, W1-0 Rotherham (EFL Trophy tie v Oxford went to pens). Best defence in League Two (fewer than 15 conceded). Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 07/11/26 A Huddersfield 2-1(1-0); 31/10/26 A Salford 1-2(1-0); 24/10/26 H Fleetwood 2-1(0-0); 20/10/26 H Crewe 2-0(1-0); 17/10/26 A Colchester 0-0(0-0); 10/10/26 A Shrewsbury 1-0(0-0); 06/10/26 H Oxford United 6-5(2-1); 03/10/26 H Rotherham 1-0(0-0); 26/09/26 A Bristol Rovers 0-1(0-0); 22/09/26 A Cheltenham 5-6(0-1)",
+  "away_form": "Cheltenham are 5th but unsteady: lost 0-4 at Oxford (EFL Trophy, Tue 10 Nov), 1-3 at Tranmere, 1-4 at Oldham, 0-2 at Accrington; home wins v Halifax, Newport, Fleetwood. Conceded 2+ in each of their last 4 away games (13 conceded). Sportradar last10: 10/11/26 A Oxford United 0-4(0-0); 07/11/26 H Halifax 2-0(1-0); 31/10/26 A Tranmere 1-3(1-3); 24/10/26 H Newport 1-0(1-0); 20/10/26 H Fleetwood 4-2(3-0); 17/10/26 A Oldham 1-4(1-3); 13/10/26 H Tottenham 9-8(1-0); 10/10/26 H Salford 0-2(0-0); 03/10/26 A Accrington 0-2(0-0); 26/09/26 H Chesterfield 2-1(2-0)",
+  "trends": {
+   "game totals": "Exeter league games are low-scoring (BTTS in only 29% of their games, statz.ai); Cheltenham BTTS 79%. House O2.5 p0.48 looks fair; no edge on the game total.",
+   "team totals": "Exeter scored in 8 of last 10 (blanks: 0-0 Colchester, 0-1 Bristol Rovers, both away). Cheltenham conceded in every one of their last 5 away games (2,3,4,2,4 incl. cup). Cheltenham scored 1 in 3 of last 4 away.",
+   "first half": "Exeter led at HT in 4 of last 8; Cheltenham were behind at HT in 3 of last 4 away (1-3, 1-3, 0-0 then lost 0-4).",
+   "handicap": "Exeter wins are by one goal mostly (2-1, 2-1, 1-0, 1-0, 2-0). -0.5/-1 not protected; DNB/AH0 is the instrument.",
+   "corners": "Home corners O4.5 @1.50 (p0.63) listed; no corner data found."
+  },
+  "h2h": "22 Sep 2026 EFL Trophy at Cheltenham ended level and went to penalties (Sportradar shows 5-6, a shootout score). No league H2H this season found.",
+  "absences": "Exeter: Charlie Cummins (winner at Huddersfield) and two others away on international duty; Danny Rose injured; Reece Cole may come in behind Sonny Cox. Cheltenham: Jake Evans suspended (yellow cards), George Miller tipped to replace him. Line-ups not yet confirmed.",
+  "context": "League Two, 12:30 UTC at St James Park (matches board). International-break weekend, both sides lose call-ups. Cheltenham played Tuesday night (0-4 at Oxford).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.797625,
+    "why": "Exeter team total Over 0.5: Cheltenham have conceded 2+ in each of their last 4 away games and in all of the last 5; Exeter scored in every home game in the last 10. Cheltenham also lose Jake Evans (ban) and played Tuesday."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.682432,
+    "why": "Exeter DNB: best defence in the division, 1 defeat in 8, v a side that lost its last 4 away by 2+ goals. Draw is refunded. Risk: 3 Exeter players on international duty."
+   }
+  ],
+  "avoid": "Exeter -1 or Over 2.5 (Exeter win by one goal, low-scoring profile). BTTS either way (profiles conflict: 29% v 79%).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.whoscored.com/articles/gQ1D67Wl4U6ugTCZSrKl-w/show/cng111-20261114-exeter-vs-cheltenham-prediction-1794630899",
+   "https://statz.ai/news/19727614-exeter-city-vs-cheltenham-predictions-betting-tips",
+   "https://scores24.live/en/soccer/m-14-11-2026-exeter-cheltenham-town-prediction",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72342360",
+  "fx": "Colchester United v Gillingham FC",
+  "home_form": "Colchester league form is poor: L1-3 Walsall (H), L0-2 Northampton, D1-1 Chesterfield, D0-0 Exeter (H), L0-1 Newport. Only wins recently were cups (1-0 Worcester FA Cup; Ipswich U21 on pens). Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 10/11/26 H Ipswich Town 4-3(0-0); 07/11/26 H Worcester 1-0(1-0); 31/10/26 H Walsall 1-3(1-1); 24/10/26 A Northampton 0-2(0-1); 20/10/26 A Chesterfield 1-1(0-1); 17/10/26 H Exeter 0-0(0-0); 10/10/26 A Newport 0-1(0-0); 03/10/26 H Luton 4-5(0-0); 26/09/26 A Shrewsbury 2-2(1-1); 22/09/26 A Peterborough 1-3(0-3)",
+  "away_form": "Gillingham inconsistent: W2-1 at Northampton (Tue 10 Nov, EFL Trophy), L0-1 Barrow (H, FA Cup), W2-1 at Shrewsbury, L1-4 Grimsby (H), D1-1 Port Vale, L1-3 at Accrington, W4-1 at Rotherham. Sportradar last10: 10/11/26 A Northampton 2-1(1-0); 07/11/26 H Barrow 0-1(0-0); 31/10/26 A Shrewsbury 2-1(1-0); 24/10/26 H Grimsby 1-4(1-1); 20/10/26 H Port Vale 1-1(1-0); 17/10/26 A Accrington 1-3(1-2); 13/10/26 H Brighton and Hove 4-3(3-0); 10/10/26 A Rotherham 4-1(1-1); 03/10/26 H Newport 0-0(0-0); 26/09/26 A York 0-3(0-1)",
+  "trends": {
+   "game totals": "Colchester league games: 4,2,2,0,1 goals; Gillingham: 3,5,2,4,5,0. No consistent total trend.",
+   "team totals": "Colchester scored 0-1 in each of their last 5 league games. Gillingham scored in 8 of last 10.",
+   "first half": "Colchester trailed or drew at HT in all of last 5 league games.",
+   "handicap": "No margin trend.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None found this season.",
+  "absences": "Colchester: Kaion Lisbie and Rob Hunt injured in the EFL Trophy this week; Jay Williams doubtful; Teddy Bishop, Jake Leake, Kylian Kouassi and others out. Gillingham: Zech Obiero, Kadeem Harris, Lennon MacLorg, Eli King out (WhoScored; currency unclear).",
+  "context": "League Two, 15:00 UTC. Both played Tuesday in the EFL Trophy. Colchester are the 2.10 favourite despite a long injury list and no league win in 5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Colchester DNB @1.51 and Colchester team overs: fragile favourite (injuries to Lisbie, Hunt, Bishop, Kouassi; 1 goal or fewer in 5 straight league games).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.whoscored.com/matches/1990170/preview/england-league-two-2026-2027-colchester-gillingham",
+   "https://www.gillinghamfootballclub.com/news/preview-colchester-united-v-gillingham-1",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72342368",
+  "fx": "Port Vale v Accrington Stanley",
+  "home_form": "Port Vale have won their last 6 home games: 4-2 Scunthorpe (FA Cup), 4-2 Rochdale, 5-0 Man City U21 (EFL Trophy), 1-0 Chesterfield, 1-0 Grimsby, 2-0 Mansfield. Away: L0-2 York, D1-1 Gillingham. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 07/11/26 H Scunthorpe 4-2(1-0); 31/10/26 H Rochdale 4-2(3-0); 27/10/26 H Manchester City 5-0(4-0); 24/10/26 A York 0-2(0-0); 20/10/26 A Gillingham 1-1(0-1); 17/10/26 H Chesterfield 1-0(1-0); 10/10/26 H Grimsby 1-0(1-0); 06/10/26 H Mansfield 2-0(1-0); 22/09/26 A Chesterfield 4-5(1-0); 19/09/26 A Walsall 0-2(0-1)",
+  "away_form": "Accrington: W4-0 at Sheffield Wednesday (EFL Trophy, Wed 11 Nov, 3 days rest), L0-2 Wycombe (H, FA Cup), D1-1 Northampton, W5-0 at Rochdale, D1-1 at York, W3-1 Gillingham, D0-0 at Oldham. Unbeaten in last 5 away. Sportradar last10: 11/11/26 A Sheffield Wednesday 4-0(2-0); 07/11/26 H Wycombe 0-2(0-1); 31/10/26 H Northampton 1-1(1-0); 24/10/26 A Rochdale 5-0(3-0); 20/10/26 A York 1-1(0-0); 17/10/26 H Gillingham 3-1(2-1); 10/10/26 A Oldham 0-0(0-0); 06/10/26 H Salford 6-5(0-0); 03/10/26 H Cheltenham 2-0(0-0); 26/09/26 A Swindon 1-1(1-1)",
+  "trends": {
+   "game totals": "Port Vale home league games: 6,1,1,2 goals; Accrington away league: 5,2,0,2. Mixed, no total edge.",
+   "team totals": "Port Vale scored in all 6 of their last home games (17 goals), led at HT in all 6. Accrington conceded 0-1 in each of last 5 away.",
+   "first half": "Port Vale led at half-time in each of their last 6 home games (1-0,3-0,4-0,1-0,1-0,1-0).",
+   "handicap": "Three of Port Vale's home league wins were by 1-2 goals; Accrington rarely lose away.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None found this season.",
+  "absences": "Port Vale: Connor Hall doubtful (injured v Scunthorpe), Lewis Montsma to deputise; Ben Garrity, Matthew Craig, Mo Faal out; Max Watters may be recalled. Accrington: Donald Love doubtful, Aidan Borland on Scotland U21 duty.",
+  "context": "League Two, 15:00 UTC. Accrington played Wednesday night (short rest). Port Vale strong at home but missing Garrity/Craig/Faal.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.24,
+    "p": 0.7709512926,
+    "why": "Port Vale team total Over 0.5: scored in all 6 of the last home games (17 goals) and led at HT in every one; Accrington arrive on 3 days rest after an EFL Trophy trip to Sheffield Wednesday. Risk: Accrington conceded only 2 in their last 5 away."
+   }
+  ],
+  "avoid": "Port Vale -0.5/-1 (Accrington unbeaten in 5 away); Under lines.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.whoscored.com/matches/1990177/preview/england-league-two-2026-2027-port-vale-accrington",
+   "https://www.whoscored.com/matches/1990184/preview/england-league-two-2026-2027-gillingham-port-vale",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72740792",
+  "fx": "Eastleigh FC v AFC Fylde",
+  "home_form": "Eastleigh are 17th (19 pts), four points above the drop line. Last 5: L1-2 Shrewsbury (FA Cup), D1-1 at Barrow, L0-2 at Forest Green, W4-2 Boston, W3-2 Brentwood (cup). Conceded in 9 of last 10, and 2+ in 7 of them. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 07/11/26 H Shrewsbury 1-2(0-1); 31/10/26 A Barrow 1-1(0-0); 28/10/26 A Forest Green 0-2(0-1); 24/10/26 H Boston 4-2(2-2); 17/10/26 H Brentwood 3-2; 10/10/26 A Hornchurch 0-2(0-1); 03/10/26 H Woking 1-3(1-1); 30/09/26 H Southend 1-1(0-1); 26/09/26 A Harrogate 1-4(1-2); 19/09/26 H Carlisle 1-0(1-0)",
+  "away_form": "Fylde are 4th (29 pts) and have won 3 straight in all comps with 10 goals: 4-1 at Harrogate, 3-1 Hornchurch, 3-1 Hartlepool. Before that L0-4 at Boreham Wood and L1-3 at Southend. Sportradar last10: 07/11/26 A Harrogate 4-1(1-1); 30/10/26 H Hornchurch 3-1(2-1); 27/10/26 H Hartlepool 3-1(0-1); 24/10/26 A Boreham 0-4(0-3); 17/10/26 H Atherton Collieries 5-0; 10/10/26 H Scunthorpe 2-0(1-0); 03/10/26 A Southend 1-3(1-2); 29/09/26 H Carlisle 0-2(0-1); 26/09/26 A Boston 1-0(0-0); 19/09/26 H Altrincham 1-2(1-2)",
+  "trends": {
+   "game totals": "Eastleigh games: 3,2,2,6,5,2,4,2,5,1 goals (O2.5 5/10). Fylde: 5,4,4,4,5,2,4,2,1,3 (O2.5 7/10). House O2.5 p0.65 is already rich.",
+   "team totals": "Fylde scored 2+ in 6 of last 10 and 3+ in each of the last 3. Eastleigh conceded 2+ in 7 of last 10.",
+   "first half": "Eastleigh trailed at HT in 5 of last 9 with HT data.",
+   "handicap": "Fylde away: W4-1, L0-4, L1-3, W1-0. Wins and losses both come by margins; DNB is the only protected side.",
+   "corners": "No corner markets in range."
+  },
+  "h2h": "None found this season.",
+  "absences": "No team news found for either side (Eastleigh preview with Matt Gray not retrievable).",
+  "context": "National League, 15:00 UTC at Silverlake (Eastleigh fixtures page confirms). William Hill preview tips Fylde 2-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.44,
+    "p": 0.657932,
+    "why": "Fylde DNB: 4th v 17th, Fylde on 3 straight wins (10 goals) while Eastleigh have conceded 2+ in 7 of their last 10. Statistics-based, no named absence, so fill quality only; draw refunded."
+   }
+  ],
+  "avoid": "Fylde 1X2 @1.88 (two heavy away defeats in the last 6); Eastleigh team overs.",
+  "confidence": 0.25,
+  "sources": [
+   "https://news.williamhill.com/football/national-league/best-bets-and-predictions-saturday-14th-november-2026/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://eastleighfc.com/fixtures/men/",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72740796",
+  "fx": "Harrogate Town v Altrincham FC",
+  "home_form": "Harrogate are 2nd (32 pts) but winless in 3: L1-4 Fylde (H), D2-2 at Forest Green, L0-3 at Carlisle. Earlier home wins 3-1 Sutton, 3-1 Bury, 3-0 Hornchurch, 4-1 Eastleigh. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 07/11/26 H Fylde 1-4(1-1); 31/10/26 A Forest Green 2-2(0-2); 28/10/26 A Carlisle 0-3(0-1); 24/10/26 H Sutton 3-1(3-0); 20/10/26 H Bury 3-1; 17/10/26 A Bury 1-1; 10/10/26 A Woking 1-0(1-0); 03/10/26 H Hornchurch 3-0(1-0); 29/09/26 A Hartlepool 1-0(0-0); 26/09/26 H Eastleigh 4-1(2-1)",
+  "away_form": "Altrincham are 7th (28 pts), winless in 3: L4-5 Notts (H), L2-4 Carlisle (H), D0-0 Kidderminster. Away: W2-1 Yeovil, L1-3 Boreham Wood, W1-0 Gateshead. Sportradar last10: 07/11/26 H Notts 4-5(1-1); 31/10/26 H Carlisle 2-4(1-1); 27/10/26 H Kidderminster 0-0(0-0); 24/10/26 A Yeovil 2-1(0-1); 20/10/26 A United of Manchester 6-2; 17/10/26 H United of Manchester 0-0; 10/10/26 H Aldershot 3-1(1-0); 03/10/26 A Boreham 1-3(1-0); 29/09/26 A Gateshead 1-0(1-0); 26/09/26 H Hornchurch 3-0(1-0)",
+  "trends": {
+   "game totals": "Over 2.5 in 12 of 16 Altrincham league games (WinDrawWin). Harrogate last 4: 5,4,3,4 goals.",
+   "team totals": "Harrogate scored in 9 of last 10; Altrincham conceded 9 in their last 2.",
+   "first half": "No clear trend.",
+   "handicap": "No clear trend.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None found this season.",
+  "absences": "None found.",
+  "context": "National League, 15:00 UTC. VENUE CONFLICT: DAZN lists the game at The New Lawn (Forest Green's ground); the Harrogate Advertiser says Wetherby Road. Probably a DAZN listing error, but it is unresolved.",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (DAZN: The New Lawn; Harrogate Advertiser: Wetherby Road). Not resolved before kickoff.",
+  "picks": [],
+  "avoid": "All result sides. If the venue is confirmed as Wetherby Road, Over 2.5 @1.56 has the best support (12/16 Altrincham games) but is still statistics only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://news.williamhill.com/football/national-league/best-bets-and-predictions-saturday-14th-november-2026/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.harrogateadvertiser.co.uk/sport/football/simon-weaver-admits-that-harrogate-town-have-to-get-better-if-they-are-to-start-beating-national-leagues-top-teams-9338055",
+   "https://www.dazn.com/en-GB/news/football/national-league-games-this-weekend-all-games-live-boreham-wood-harrogate/1wq0o22hm2px212rthqrs6ex03",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72740804",
+  "fx": "Scunthorpe United v Worthing FC",
+  "home_form": "Scunthorpe are 23rd, three points from safety, with five straight league defeats. Last games: L2-4 at Port Vale (FA Cup), L1-2 and L1-4 away, L2-3 Woking (H), L0-2 Fylde, L0-3 Barrow. Conceded 2+ in 9 of their last 10. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 07/11/26 A Port Vale 2-4(0-1); 03/11/26 H Wolverhampton 6-7(1-1); 31/10/26 A Boston 1-2(0-2); 27/10/26 A Tamworth 1-4(1-3); 24/10/26 H Woking 2-3(0-2); 17/10/26 A Boston 3-1; 13/10/26 H Derby 6-5(2-0); 10/10/26 A Fylde 0-2(0-1); 29/09/26 A Barrow 0-3(0-0); 26/09/26 H Hartlepool 4-1(2-1)",
+  "away_form": "Worthing are 6th. Last league games: L0-3 Sutton (H), D3-3 Southend (H), W2-1 at Kidderminster, W5-0 Solihull, W2-1 at Gateshead, D1-1 at Yeovil. Scored in 8 of last 10. Sportradar last10: 03/11/26 H Fulham 2-1(1-0); 31/10/26 H Sutton 0-3(0-3); 27/10/26 H Southend 3-3(0-2); 24/10/26 A Kidderminster 2-1(0-1); 17/10/26 A Wealdstone 0-3; 13/10/26 H Ipswich Town 1-2(1-1); 10/10/26 H Solihull 5-0(3-0); 03/10/26 A Gateshead 2-1(1-1); 29/09/26 A Yeovil 1-1(1-0); 26/09/26 H Halifax 2-1(2-1)",
+  "trends": {
+   "game totals": "Scunthorpe league/cup 90-minute games: 6,3,5,5,4,2,3,5 goals, Over 2.5 in 7 of 8. Worthing: 3,3,6,3,3,5,3,2,3, Over 2.5 in 8 of 9.",
+   "team totals": "Scunthorpe conceded in 10/10 and 2+ in 9/10. Worthing scored 2+ in 6 of last 10. Scunthorpe still score: 1+ in 7 of last 10.",
+   "first half": "Scunthorpe trailed at HT in 5 of their last 6 league/FA Cup games.",
+   "handicap": "Scunthorpe lost 4 of last 5 by 1-3 goals.",
+   "corners": "No corner markets in range."
+  },
+  "h2h": "None found this season.",
+  "absences": "No injury news found. Scunthorpe reported to be appointing Andy Preece as manager (Football Lowdown, unconfirmed): new-manager effect is a risk to any anti-Scunthorpe result side.",
+  "context": "National League, 15:00 UTC. Scunthorpe club preview flags Worthing's left flank as the threat. Worthing return to league action after a cup weekend (Hinshelwood preview).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.46,
+    "p": 0.65445,
+    "why": "Over 2.5: Scunthorpe have conceded 2+ in 9 of their last 10 and their games went over 2.5 in 7 of 8; Worthing's went over in 8 of 9. Both teams score and concede. Fixture-specific trend, not a named-absence mechanism."
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.7982513063,
+    "why": "Worthing team total Over 0.5: Scunthorpe conceded in all of their last 10 games (2+ in 9). Away team-to-score is a historically weak class, so singles/fill only."
+   }
+  ],
+  "avoid": "Scunthorpe DNB @1.69 (five straight league defeats). Worthing 1X2 (managerial change at Scunthorpe unpriced).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.scunthorpe-united.co.uk/news/2026/november/statistical-preview-worthing-h",
+   "https://worthingfc.com/2026/11/hinshelwood-cant-wait-to-be-back-playing-for-three-points-again-scunthorpe-united-preview/",
+   "https://footballlowdown.com/exclusive-scunthorpe-united-set-to-swoop-for-local-rival-manager/",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72740806",
+  "fx": "Southend United v Aldershot Town FC",
+  "home_form": "Southend lost 2-3 at Wealdstone (conceded late), ending a five-game unbeaten league run; before that D3-3 at Worthing, D2-2 Halifax (H), L1-2 Berkhamsted (cup), W2-1 Boston, W3-1 Fylde. Conceded in all of their last 10. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 31/10/26 A Wealdstone 2-3(2-1); 27/10/26 A Worthing 3-3(2-0); 24/10/26 H Halifax 2-2(1-1); 17/10/26 H Berkhamsted 1-2; 10/10/26 A Boston 2-1(1-1); 03/10/26 H Fylde 3-1(2-1); 30/09/26 A Eastleigh 1-1(1-0); 26/09/26 H Barrow 2-4(0-0); 19/09/26 A Gateshead 6-1(6-0); 15/09/26 H Tamworth 3-1(0-0)",
+  "away_form": "Aldershot (new manager Scott Davies, 26 signings) won 1-0 v Gateshead after five straight league defeats. Since then L0-5 Ipswich U21 (cup) and L2-7 at Barnsley (FA Cup, 7 Nov). League: L0-2 Sutton, L0-1 Wealdstone, L1-3 Altrincham, L1-3 Carlisle. Sportradar last10: 07/11/26 A Barnsley 2-7(0-4); 03/11/26 H Ipswich Town 0-5(0-1); 31/10/26 H Gateshead 1-0(1-0); 28/10/26 A Sutton 0-2(0-2); 24/10/26 H Wealdstone 0-1(0-0); 20/10/26 A Tadley Calleva 2-0; 17/10/26 H Tadley Calleva 2-2; 13/10/26 H Norwich 5-3(3-1); 10/10/26 A Altrincham 1-3(0-1); 03/10/26 H Carlisle 1-3(0-2)",
+  "trends": {
+   "game totals": "Southend games: 5,6,4,3,3,4,2,6,7,4 goals, Over 2.5 in 9 of 10. Aldershot league games are lower (1,2,1,4,4).",
+   "team totals": "Southend scored 2+ in 8 of last 10 and in 4 of last 5 at home (2,1,3,2,3). Aldershot conceded 2+ in 4 of last 5 league away/any and 12 in their last 2 cup games.",
+   "first half": "Southend scored in the first half in 6 of last 8.",
+   "handicap": "Southend have not won any of their last 4; avoid the handicap.",
+   "corners": "No corner markets in range."
+  },
+  "h2h": "Sources disagree on the record (FotMob 5-7-4; Forebet says Southend unbeaten in last six league meetings). Aldershot's last win was 2-0 at Roots Hall in 2023.",
+  "absences": "No injury news found for either side.",
+  "context": "National League, 15:00 UTC at Roots Hall (official fixtures page). Southend's own preview rates the Aldershot defence (19 league goals conceded, third best), which conflicts with their 0-5 and 2-7 cup defeats in the last 11 days.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.34,
+    "p": 0.710191,
+    "why": "Southend team total Over 1.5: Southend scored 2+ in 8 of their last 10 (4 of last 5 at home); Aldershot lost five straight league games before Gateshead and shipped 12 in their last two cup ties. Risk: Aldershot's league defence (19 conceded) is statistically good."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.4,
+    "p": 0.686592,
+    "why": "Over 2.5: 9 of Southend's last 10 games had 3+ goals and Southend have conceded in all 10. Trend-based."
+   }
+  ],
+  "avoid": "Southend 1X2 @1.40 / -1.5 (winless in 4, concede every game). Aldershot team overs.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.southendunited.co.uk/news/2026/november/13/preview--aldershot-town--h-",
+   "https://www.forebet.com/en/football/matches/southend-utd-aldershot-town-2499499",
+   "https://news.williamhill.com/football/national-league/best-bets-and-predictions-saturday-14th-november-2026/",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:72740812",
+  "fx": "Yeovil Town v Boreham Wood FC",
+  "home_form": "Yeovil lost 3 of last 4: L3-4 at Chesterfield (FA Cup), L0-2 at Halifax, W2-1 at Hornchurch, L1-2 Altrincham (H). Earlier W6-0 Boston, W6-0 at Wealdstone. Home: L1-2, D1-1 Worthing, W6-0. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 07/11/26 A Chesterfield 3-4(1-2); 31/10/26 A Halifax 0-2(0-0); 27/10/26 A Hornchurch 2-1(0-0); 24/10/26 H Altrincham 1-2(1-0); 20/10/26 H Leatherhead 5-2; 17/10/26 A Leatherhead 3-3; 10/10/26 A Wealdstone 6-0(1-0); 03/10/26 H Boston 6-0(4-0); 29/09/26 H Worthing 1-1(0-1); 26/09/26 A Kidderminster 1-0(0-0)",
+  "away_form": "Boreham Wood are top, unbeaten in the league with a 12-point cushion and are the division's leading scorers. Last league games: W4-3 Hartlepool, W2-1 at Woking, W4-0 Fylde, W2-0 at Sutton, W3-1 Altrincham, W3-1 Kidderminster, W3-0 at Solihull. Lost 0-3 to Wigan in the FA Cup on 7 Nov. Sportradar last10: 07/11/26 H Wigan 0-3(0-2); 31/10/26 H Hartlepool 4-3(2-0); 27/10/26 A Woking 2-1(1-1); 24/10/26 H Fylde 4-0(3-0); 20/10/26 H Middlesbrough 7-1(3-0); 17/10/26 H Woking 3-2; 09/10/26 A Sutton 2-0(0-0); 03/10/26 H Altrincham 3-1(0-1); 29/09/26 H Kidderminster 3-1(2-0); 26/09/26 A Solihull 3-0(1-0)",
+  "trends": {
+   "game totals": "Boreham Wood league games: 7,3,4,2,4,4,3 goals. Yeovil: 7,2,3,3 recently.",
+   "team totals": "Boreham Wood scored 2+ in 9 of their last 10 (all 8 league games in the sample). Yeovil conceded 2+ in 3 of last 4.",
+   "first half": "Boreham Wood led at HT in 5 of last 8.",
+   "handicap": "Boreham Wood won 7 straight league games in the sample, 5 by 2+.",
+   "corners": "No corner markets in range."
+  },
+  "h2h": "Feb 2026 and Oct 2025 meetings exist (WinDrawWin/FotMob); scores not retrieved.",
+  "absences": "Yeovil: manager Billy Rowley cites squad fatigue and a mounting injury list; Barker injured, a loanee is being brought in (Gloverscast). Boreham Wood: none found.",
+  "context": "National League, 15:00 UTC at Huish Park. William Hill tips the draw at 3/1; Forebet predicts 2-3.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.29,
+    "p": 0.737269,
+    "why": "Boreham Wood DNB: unbeaten league leaders (12 points clear, top scorers) v a Yeovil side whose manager cites fatigue and a mounting injury list (Barker out) and which lost 3 of its last 4. Draw refunded."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.56,
+    "p": 0.602153,
+    "why": "Boreham Wood team total Over 1.5: scored 2+ in every league game of their last 8 (9 of last 10 overall); Yeovil conceded 2+ in 3 of last 4 and are short-handed."
+   }
+  ],
+  "avoid": "Yeovil +0.5 / Yeovil overs. Boreham -1.5 (away wins 2-1, 2-0, 3-0: mixed margins).",
+  "confidence": 0.35,
+  "sources": [
+   "https://gloverscast.co.uk/rowley-barker-injured-loanee-incoming/",
+   "https://www.forebet.com/en/football/matches/yeovil-town-boreham-wood-2499496",
+   "https://news.williamhill.com/football/national-league/best-bets-and-predictions-saturday-14th-november-2026/",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76168586",
+  "fx": "US Tourcoing FC v Reims",
+  "home_form": "US Tourcoing play in Regional 1 (6th tier). No current form available (Sportradar has one old cup game). Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 14/11/21 H Valenciennes 0-2(0-0)",
+  "away_form": "Reims (Ligue 2) lost their first game of the season 2-3 at Grenoble on 6 Nov; before that W2-0 Sochaux, D1-1 Boulogne, W4-2 Dijon, D0-0 Nantes. Sportradar last10: 06/11/26 A Grenoble 2-3(1-2); 02/11/26 H Sochaux-Montbeliard 2-0(2-0); 26/10/26 A Boulogne 1-1(0-1); 16/10/26 H Dijon 4-2(3-1); 10/10/26 A Nantes 0-0(0-0); 18/09/26 H Montpellier 1-1(1-1); 11/09/26 A Nancy-Lorraine 2-1(2-0); 05/09/26 H Guingamp 2-2(0-1); 29/08/26 A Red Star 4-1(2-1); 24/08/26 H Annecy 3-1(0-1)",
+  "trends": {
+   "game totals": "No data on Tourcoing. Reims L2 games: 5,2,2,6,0 goals.",
+   "team totals": "Reims scored 2+ in 6 of last 10 L2 games; never more than 4.",
+   "first half": "Reims led at HT in 4 of last 10.",
+   "handicap": "House line -3 (p0.48). Reims have won by 3+ once in their last 10 (4-1 at Red Star).",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None.",
+  "absences": "Reims named an 18-man squad; absentees and rotation not published in the sources found.",
+  "context": "Coupe de France 7th round, single-leg knockout at Stade Van de Veegaete, 14:00 local (13:00 UTC, matches board). Settles on 90 minutes. No To Qualify market on the board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reims handicaps -2.5/-3 and Reims Over 3.5 (unknown rotation; Reims rarely win by 3+). All Tourcoing lines (no data).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.stade-de-reims.com/ustf-sdr-la-date-et-lheure-du-match-de-coupe-de-france/",
+   "https://www.stade-de-reims.com/litineraire-du-7eme-tour-de-coupe-de-france/",
+   "https://news.footeo.com/2026/11/13/coupe-de-france-le-programme-complet-du-7e-tour-17627",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76168568",
+  "fx": "C A Boulay v Sochaux-Montbeliard",
+  "home_form": "CA Boulay play in Regional 1. No current form available. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 16/11/24 H Thionville US Lusitanos 0-3(0-2)",
+  "away_form": "Sochaux (Ligue 2) are winless in 6: L0-1 Nancy, L0-2 Reims, L1-3 Annecy (H), L2-3 Metz, D1-1 Boulogne, D1-1 Laval. They scored 7 goals in their last 10 and never more than 2 in a game. Sportradar last10: 06/11/26 A Nancy-Lorraine 0-1(0-0); 02/11/26 A Reims 0-2(0-2); 23/10/26 H Annecy 1-3(0-1); 17/10/26 A Metz 2-3(0-2); 09/10/26 H Boulogne 1-1(1-0); 18/09/26 A Stade Lavallois 1-1(0-0); 12/09/26 H Nantes 1-0(0-0); 04/09/26 A Pau 1-1(0-1); 28/08/26 A Clermont Foot 0-0(0-0); 21/08/26 H Guingamp 1-0(1-0)",
+  "trends": {
+   "game totals": "Sochaux L2 games: 1,2,4,5,2,2,1,2,0,1 goals (low).",
+   "team totals": "Sochaux scored 0-1 in 8 of their last 10. House has Sochaux Over 1.5 at p0.78 and Over 2.5 at p0.55.",
+   "first half": "Sochaux scored a first-half goal in 2 of last 10.",
+   "handicap": "House main line Sochaux -2 (p0.49). Sochaux have not won any game by 2+ since at least August.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None.",
+  "absences": "No squad news found.",
+  "context": "Coupe de France 7th round, knockout, 14:30 local (13:30 UTC, matches board). Settles on 90 minutes. Winner meets Saint-Die or Metz.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sochaux -1.5/-2 and Sochaux team Overs: goal-shy L2 side on a six-game winless run. Lean only (not a pick, cup handicap v unknown amateur side): Boulay +2.5 @1.55.",
+  "confidence": 0.2,
+  "sources": [
+   "https://news.footeo.com/2026/11/13/coupe-de-france-le-programme-complet-du-7e-tour-17627",
+   "https://www.fff.fr/article/17728-le-7e-tour-est-en-action.html",
+   "https://antichambre.eu/coupe-de-france-le-programme-du-7eme-tour-pour-les-clubs-de-ligue-2/",
+   "https://news.footeo.com/2026/10/28/coupe-de-france-le-tirage-complet-des-7e-et-8e-tours-lasse-et-nantes-face-aux-amateurs-16143",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76171302",
+  "fx": "Vendee Fontenay Foot v Clermont Foot",
+  "home_form": "Vendee Fontenay Foot play in National 2 (4th tier). Last season's cup run: beat Chateauroux 4-1, lost 0-4 to PSG. No current league form retrieved. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 29/07/26 A La Roche 0-4(0-3); 20/12/25 H PSG 0-4(0-2); 29/11/25 H Chateauroux 4-1(0-1); 15/11/25 H Chamalieres 4-3(0-0); 16/11/24 H Esof Vendee La Roche Sur Yon 1-2(0-1); 07/02/21 A Saumur 2-4(0-0)",
+  "away_form": "Clermont (Ligue 2) have 1 win in their last 10: W1-0 Rodez, D1-1 Nantes, L0-2 Guingamp, D3-3 Laval, L2-3 Red Star, then five straight draws. 10 goals in 10. Sportradar last10: 07/11/26 H Rodez 1-0(0-0); 30/10/26 A Nantes 1-1(0-1); 23/10/26 H Guingamp 0-2(0-2); 16/10/26 A Stade Lavallois 3-3(2-0); 10/10/26 H Red Star 2-3(1-1); 18/09/26 A Grenoble 1-1(0-1); 11/09/26 H Boulogne 0-0(0-0); 04/09/26 A Dunkerque 1-1(0-1); 28/08/26 H Sochaux-Montbeliard 0-0(0-0); 21/08/26 H Dijon 1-1(0-0)",
+  "trends": {
+   "game totals": "Clermont games: 1,2,2,6,5,2,0,2,0,2.",
+   "team totals": "Clermont scored 0-1 in 8 of last 10. House has Clermont Over 1.5 at p0.74.",
+   "first half": "Clermont trailed or were level at HT in all of their last 10.",
+   "handicap": "Clermont have not won by 2+ in their last 10. House line -1.5 p0.53.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None.",
+  "absences": "None found.",
+  "context": "Coupe de France 7th round, knockout, 16:00 local (15:00 UTC, matches board) at Fontenay-le-Comte. N2 home side v a draw-prone L2 side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Clermont 1X2 @1.31, -1/-1.5 and Clermont Over 1.5: one win in 10, six draws, never won by 2+. Lean only: Fontenay +2.0 @1.62.",
+  "confidence": 0.2,
+  "sources": [
+   "https://madeinfoot.ouest-france.fr/infos/article-coupe-de-france-le-calendrier-complet-du-7e-tour-de-coupe-de-france-pour-les-clubs-de-ligue-2-544380.html",
+   "https://news.footeo.com/2026/11/13/coupe-de-france-le-programme-complet-du-7e-tour-17627",
+   "https://www.fff.fr/article/17728-le-7e-tour-est-en-action.html",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76168578",
+  "fx": "Croix IC v ES Thaon Football",
+  "home_form": "Croix (Iris Club de Croix): no current-season form retrieved. Last season reached the round of 64 (lost 0-4 to Reims). Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 19/12/25 H Reims 0-4(0-4); 29/11/25 H Asc Le Geldar 2-1(1-0); 15/11/25 H Racing 9-8(1-1); 18/11/23 A Itancourt Neuville 2-3(1-2)",
+  "away_form": "Thaon: no current-season form retrieved; Sportradar data ends Jan 2025. Sportradar last10: 15/01/25 H Strasbourg Alsace 5-7(2-2); 21/12/24 H Amiens 2-1(0-1); 01/12/24 A Luneville 4-0(1-0); 16/11/24 A Sarre 2-0(0-0); 09/12/23 H Amiens 0-1(0-0); 19/11/23 A FC Schweighouse Sur Moder 3-2(0-0); 22/01/23 H Nantes 2-4(0-0); 07/01/23 H Amiens 4-2(0-0); 19/11/22 H Sochaux-Montbeliard 5-3(0-1); 29/10/22 A Sarre 3-0(1-0)",
+  "trends": {
+   "game totals": "No data.",
+   "team totals": "No data.",
+   "first half": "No data.",
+   "handicap": "No data.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Coupe de France 7th round between two amateur clubs, 17:00 local (16:00 UTC, matches board; Footeo programme). Knockout, 90-minute settlement.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: amateur v amateur with no current form; result sides in a knockout.",
+  "confidence": 0.1,
+  "sources": [
+   "https://news.footeo.com/2026/11/13/coupe-de-france-le-programme-complet-du-7e-tour-17627",
+   "https://www.fff.fr/article/17728-le-7e-tour-est-en-action.html",
+   "https://antichambre.eu/coupe-de-france-le-programme-du-7eme-tour-pour-les-clubs-de-ligue-2/",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76171324",
+  "fx": "Fco Firminy v FC Annecy",
+  "home_form": "FCO Firminy play in Regional 1. No form data. Annecy's coach says Firminy \"will play above R1 level\". Sportradar last10 (HT in brackets; cup shootout scores can appear as FT):",
+  "away_form": "Annecy (Ligue 2) lost their last two 0-3 (at Boulogne, home to Montpellier); W3-1 at Sochaux before that; 3 wins in 10. Sportradar last10: 06/11/26 A Boulogne 0-3(0-1); 31/10/26 H Montpellier 0-3(0-2); 23/10/26 A Sochaux-Montbeliard 3-1(1-0); 16/10/26 H Nancy-Lorraine 1-2(0-1); 09/10/26 A Dunkerque 1-0(1-0); 18/09/26 H Dijon 1-2(1-0); 12/09/26 A Guingamp 1-2(1-0); 04/09/26 A Grenoble 2-1(0-0); 29/08/26 H Metz 1-1(1-1); 24/08/26 A Reims 1-3(1-0)",
+  "trends": {
+   "game totals": "Annecy games: 3,3,4,3,1,3,3,3,2,4.",
+   "team totals": "Annecy scored 0 in their last two games; never more than 3 in the last 10. House has Annecy Over 2.5 at p0.65.",
+   "first half": "No trend.",
+   "handicap": "House line -2.5 (p0.50). Annecy have one 2-goal win in 10.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None.",
+  "absences": "Annecy reported to be without several internationals; Kilyan Jusseron (ex-Firminy youth) in line for minutes, so rotation is likely.",
+  "context": "Coupe de France 7th round at Stade Le Corbusier, 17:00 local (16:00 UTC, matches board). Knockout.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Annecy -2/-2.5 and Annecy Over 2.5: two straight 0-3 defeats, internationals missing, rotation expected.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fc-annecy.fr/news/fiche-actualite/firminy-sera-a-un-niveau-superieur-a-celui-de-la-r1",
+   "https://www.ville-firminy.fr/evenement/coupe-de-france-7eme-tour/",
+   "https://www.ici.fr/auvergne-rhone-alpes/loire-42/firminy/il-faudra-etre-derriere-eux-les-supporters-du-fco-firminy-r1-prets-a-soutenir-leur-equipe-face-a-annecy-l2-2816688",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76171196",
+  "fx": "AS Ptt Dijon v SC Selongey",
+  "home_form": "ASPTT Dijon (listed as National 2 by the FFF programme): no current form retrieved. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 15/11/25 H Le Puy 0-1(0-1); 26/11/23 A US Bleriot Plage 1-3(0-0)",
+  "away_form": "Is-Selongey (N2 per FFF programme): no current form retrieved. Sportradar last10: 29/11/25 H Bourg-En-Bresse 2-3(2-2); 16/11/25 A US Mauguio Carnon 4-2(0-0)",
+  "trends": {
+   "game totals": "No data.",
+   "team totals": "No data.",
+   "first half": "No data.",
+   "handicap": "No data.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None found. Both clubs are from Cote-d'Or (local derby).",
+  "absences": "None found.",
+  "context": "Coupe de France 7th round, local derby between two amateur clubs. In FFF programme; exact kickoff not confirmed in sources (board 17:00 UTC, Sportradar 18:00 local).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: local amateur derby, knockout, no data.",
+  "confidence": 0.1,
+  "sources": [
+   "https://news.footeo.com/2026/11/13/coupe-de-france-le-programme-complet-du-7e-tour-17627",
+   "https://www.fff.fr/article/17728-le-7e-tour-est-en-action.html",
+   "https://antichambre.eu/coupe-de-france-le-programme-du-7eme-tour-pour-les-clubs-de-ligue-2/",
+   "https://footamateur.ouest-france.fr/coupe-de-france-le-programme-complet-du-septieme-tour-2026/",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76168546",
+  "fx": "AS Vitre v La St Pierre de Milizac",
+  "home_form": "AS Vitre (N2): no current league form retrieved. Recent cup ties at home have been high-scoring but those are shootout scores in the feed. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 16/11/25 H Plouvorn 4-5(1-0); 16/11/24 H Stade Lavallois 4-5(0-0); 09/12/23 A Dinan-Lehon 0-2(0-0); 19/11/23 A US Chateaugiron 6-0(3-0); 29/10/22 H Pd Ergue Gaberic 3-4(0-0); 02/01/22 A Nantes 0-2(0-1); 18/12/21 A AS Panazol 5-4(1-1); 28/11/21 A US Perros Louannec 3-0(1-0); 13/11/21 A AG Caen 3-2(0-1)",
+  "away_form": "La Saint-Pierre de Milizac (N2): no current form retrieved. Sportradar last10: 16/11/24 H Dinan-Lehon 3-5(0-1); 07/02/21 H Dinan-Lehon 3-5(0-0)",
+  "trends": {
+   "game totals": "No data.",
+   "team totals": "No data.",
+   "first half": "No data.",
+   "handicap": "No data.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Coupe de France 7th round, N2 v N2 (both Brittany), 18:00 local (17:00 UTC; FFF and Ouest-France agree with board). Knockout.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: no current form, even match, knockout.",
+  "confidence": 0.1,
+  "sources": [
+   "https://news.footeo.com/2026/11/13/coupe-de-france-le-programme-complet-du-7e-tour-17627",
+   "https://www.fff.fr/article/17728-le-7e-tour-est-en-action.html",
+   "https://antichambre.eu/coupe-de-france-le-programme-du-7eme-tour-pour-les-clubs-de-ligue-2/",
+   "https://www.ouest-france.fr/sport/football/coupe-de-france/coupe-de-france-dates-horaires-le-programme-des-matches-du-7e-tour-pour-les-clubs-de-louest-et-de-ligue-2-9767d5ee-d9ec-11f1-81f5-8e32b0872d76",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76171286",
+  "fx": "Sag Cestas v Aviron Bayonnais FC",
+  "home_form": "SAG Cestas (N2 per FFF): no current form retrieved. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT): 13/11/21 H Cholet 0-2(0-1)",
+  "away_form": "Aviron Bayonnais (National 1 per FFF; Sportradar lists N2 opponents): D0-0 at Chauray, L0-3 Avranches (H), W2-0 at Dinan-Lehon, L0-1 Les Herbiers (H), D2-2 Angouleme. One win in 5, three blanks in the last 4. Sportradar last10: 06/11/26 A Chauray 0-0(0-0); 30/10/26 H Avranches 0-3(0-1); 17/10/26 A Dinan-Lehon 2-0(0-0); 02/10/26 H Herbiers 0-1(0-0); 18/09/26 A Angouleme Charente 2-2(1-0); 11/09/26 H Chateaubriant 2-1(1-1); 05/09/26 A FC Lorient B 1-0(0-0); 29/08/26 H Saumur 1-0(0-0); 21/08/26 A Granville 3-1(2-1); 16/05/26 H Saumur 3-2(2-0)",
+  "trends": {
+   "game totals": "Bayonne games: 0,3,2,1,4,3,1,1,4.",
+   "team totals": "Bayonne failed to score in 3 of their last 4.",
+   "first half": "No trend.",
+   "handicap": "No trend.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Coupe de France 7th round. DATE CONFLICT: FFF programme says Saturday 14 Nov 18:00 (matches board and Sportradar); the French Wikipedia season page lists 15 Nov 14:00 at Complexe de Bouzet. Sources also disagree on Bayonne's division.",
+  "veto": true,
+  "veto_reason": "Date conflict (FFF: Sat 14 Nov 18:00; Wikipedia: Sun 15 Nov 14:00). FFF is the more authoritative, but the conflict is unresolved.",
+  "picks": [],
+  "avoid": "Bayonne DNB @1.18 / 1X2 @1.50: one win in 5 and three blanks in 4, in a knockout away tie.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fff.fr/article/17728-le-7e-tour-est-en-action.html",
+   "https://fr.wikipedia.org/wiki/Coupe_de_France_de_football_2026-2027",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ },
+ {
+  "eid": "sr:match:76171160",
+  "fx": "St Ouen Aumone v US Boulogne",
+  "home_form": "AS Saint-Ouen-l'Aumone play in National 2 (4th tier) per several French sources. No form data in Sportradar. Sportradar last10 (HT in brackets; cup shootout scores can appear as FT):",
+  "away_form": "Boulogne (Ligue 2, 13th): W3-0 Annecy, L0-1 at Laval, D1-1 Reims, W2-0 at Grenoble, D1-1 at Sochaux. 10 goals in 10, five draws. Sportradar last10: 06/11/26 H Annecy 3-0(1-0); 30/10/26 A Stade Lavallois 0-1(0-1); 26/10/26 H Reims 1-1(1-0); 16/10/26 A Grenoble 2-0(0-0); 09/10/26 A Sochaux-Montbeliard 1-1(0-1); 19/09/26 H Nantes 1-2(0-0); 11/09/26 A Clermont Foot 0-0(0-0); 04/09/26 H Dijon 1-1(1-0); 28/08/26 A Montpellier 0-0(0-0); 21/08/26 H Red Star 1-1(0-1)",
+  "trends": {
+   "game totals": "Boulogne L2 games: 3,1,2,2,2,3,0,2,0,2 goals. The board's main total is 4.5, which no recent Boulogne game has reached.",
+   "team totals": "No team-total markets listed.",
+   "first half": "No trend.",
+   "handicap": "House line Boulogne -3 (p0.51); Boulogne have won by 3 once in 10.",
+   "corners": "No corner data researched; corners 166/900301 are excluded classes anyway."
+  },
+  "h2h": "None.",
+  "absences": "None found.",
+  "context": "Coupe de France 7th round. Kickoff reported as 16:00, 17:00 and 18:00 local in different sources (18:00 is the latest and matches the board). PRICE CONFLICT: the board prices Boulogne at 1.08 with a -3 line and a 4.5 total, the same as Reims v a Regional 1 side, yet Saint-Ouen-l'Aumone are a National 2 club (compare Clermont 1.31 at N2 Fontenay). The house appears to have the home side at the wrong level. Reduced market list (604 outcomes).",
+  "veto": true,
+  "veto_reason": "Data conflict: house pricing treats the N2 home side as a regional-level team (1.08, line -3, total 4.5), plus shifting kickoff times across sources. Phantom-line risk.",
+  "picks": [],
+  "avoid": "Boulogne -2/-2.5/-3 and Over 3.5/4.5: Boulogne are a low-scoring, draw-prone L2 side away at a fourth-tier club. (Home +3.5/+4.5 would be the value side, but this is a vetoed event.)",
+  "confidence": 0.15,
+  "sources": [
+   "https://mesinfos.fr/ile-de-france/7e-tour-pour-la-coupe-de-france-le-tirage-des-clubs-franciliens-342164.html",
+   "https://www.titrespresse.com/28860522603/n2-saint-ouen",
+   "https://news.footeo.com/2026/11/13/coupe-de-france-le-programme-complet-du-7e-tour-17627",
+   "Sportradar gismo stats_team_lastx via engine/sr.py (pulled 2026-11-14)"
+  ]
+ }
+]

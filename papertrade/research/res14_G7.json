@@ -1,0 +1,801 @@
+[
+ {
+  "eid": "sr:match:74173856",
+  "fx": "FK Zvijezda 09 v FK Potkozarje Aleksandrovac",
+  "home_form": "Zvijezda 09 last 10: 1W 2D 7L. 07/11 A Famos 2-3, 31/10 A Laktasi 1-5, 27/10 H Bijeljina 0-1, 24/10 A Kozara 0-2, 21/10 H Omarska 1-1, 17/10 A Rudar 0-1, 10/10 H Drina 2-1, 03/10 A Sutjeska 0-0, 26/09 H Slavija 1-2. Home last 4: 0-1, 1-1, 2-1, 1-2 (1W 1D 2L, 4 scored).",
+  "away_form": "Potkozarje last 10: 5W 1D 4L. 07/11 H Kozara 3-0, 01/11 A Omarska 1-3, 25/10 A Rudar 0-1, 21/10 H Drina 2-0, 17/10 A Sutjeska 1-2, 09/10 H Slavija 1-0, 03/10 A Velez 1-2. Away last 5: 1-3, 0-1, 1-2, 1-2, 1-0 (1W 4L) - all their points come at home.",
+  "trends": {
+   "game totals": "Over 1.5 in 6/10 Zvijezda games and 6/10 Potkozarje games; Zvijezda HOME games 1,2,3,3 goals; Potkozarje away 4,1,3,3,1. Over 2.5 only 4/10 and 3/10.",
+   "team totals": "Zvijezda scored 0 or 1 in 8 of last 10 (failed to score 4 times); Potkozarje scored exactly 1 in 4 of 5 away, never 2+ away.",
+   "first half": "No half-time data in Sportradar for this league.",
+   "handicap": "All 5 Potkozarje away games decided by 0-2 goals; Zvijezda home games all within 1 goal.",
+   "corners": "No data."
+  },
+  "h2h": "Thursday note cites a 3-2 H2H; nothing newer found.",
+  "absences": "None found - no web coverage of this league.",
+  "context": "Thursday lean (O1.5 only moderately supported, avoid as anchor) STANDS, slightly weakened. Board now makes Zvijezda only a 2.20 home favourite (p0.42) despite 5 defeats in 6; Potkozarje lose away (1W 4L, max 1 goal scored). Two low-scoring sides in a thin regional league: O1.5 at p0.77 is exactly the rule-class that fails on 1-0. No line-up or postponement news available.",
+  "avoid": [
+   "18 Over 1.5 @1.23 (thin regional league, both sides 6/10 only, Zvijezda scores 0-1)",
+   "Any result side - home side in 1W-7L form priced as favourite"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC",
+   "/home/user/gsley/engine/cache/board_2026-11-14.json"
+  ],
+  "veto": false,
+  "veto_reason": "",
+  "picks": []
+ },
+ {
+  "eid": "sr:match:73529514",
+  "fx": "OGM Ormanspor v TED Ankara Kolejliler",
+  "home_form": "Ormanspor last 10: 4W 6L. 07/11 A Kahramanmaras 75-81, 31/10 H Darussafaka 92-90 OT, 23/10 A Fenerbahce Gel. 77-70, 17/10 H Gaziantep 89-85, 10/10 A Ilab 91-93, 07/10 H Konya 93-67, 03/10 A Ankaragucu 84-91. Home last 5: W+2(OT), W+4, W+26, L-12, L-15.",
+  "away_form": "TED Ankara Kolejliler last 10: 3W 7L, 5 defeats in last 6. 07/11 H Buyukcekmece 67-74, 31/10 A Mersin 65-100, 24/10 H Yalova 66-72, 17/10 A Cedi Osman 72-63, 10/10 H Final 75-77, 07/10 A Kecioren 95-90. Away last 5: L-35, W+9, W+5, L-21, L-11.",
+  "trends": {
+   "game totals": "Line ~160.5. Ormanspor games 156,182(OT),147,174,184,160,175; TED games 141,165,138,135,152,185,176 - TED last 4 all under 166 and scoring 65-72.",
+   "team totals": "TED scored 67,65,66,72,75 in last 5 (line 75.5/76.5 - under in 4 of 5, the 75 lands between). Ormanspor scored 89+ in 3 of last 4 at home.",
+   "first half": "Ormanspor 1H: 39-36, 42-40, 46-35, 41-44, 53-49; TED 1H low: 29-40, 40-44, 39-44, 36-33.",
+   "handicap": "Ormanspor home wins by 2 (OT) and 4 before a 26-pt win; line -8.5 is not supported by their home margins. TED lose away by 11-35 or win.",
+   "corners": "n/a"
+  },
+  "h2h": "None found this season.",
+  "absences": "No news found (TBL has no accessible team-news coverage).",
+  "context": "Thursday lean (mild support for 219 Home) STANDS, marginally strengthened by TED form: 5 losses in 6 with offence stuck at 65-72 points, including a home loss to Buyukcekmece last week. Counter: Ormanspor are only 4-6 themselves and their home wins are by 2-4 points. Form-only, no named mechanism - fill, not an anchor.",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.7914067917,
+    "why": "Form-only: TED 5 losses in last 6 scoring 65-72; Ormanspor 3 straight home wins. ML p0.79 passes the 0.75 gate; no news mechanism, so fill only."
+   }
+  ],
+  "avoid": [
+   "223 Home -8.5 @1.82 (home wins by 2 and 4)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC",
+   "/home/user/gsley/engine/cache/board_2026-11-14.json"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ },
+ {
+  "eid": "sr:match:72686166",
+  "fx": "Kouvot Kouvola v Salon Vilpas Vikings",
+  "home_form": "Kouvot last 10: 2W 8L, 3 straight defeats. 11/11 A Kataja 76-80, 06/11 A Seagulls 80-98, 03/11 A Pyrinto 86-90, 30/10 H Korihait 105-100, 23/10 A KTP 75-99, 21/10 H KTP 89-95, 16/10 H Kataja 95-76, 06/10 H Kipina 80-89. Home last 4: W+5, L-6, W+19, L-9.",
+  "away_form": "Salon Vilpas last 10: 6W 4L. 11/11 H Korihait 108-89, 07/11 A Kipina 86-87, 03/11 H Antwerp 77-69, 30/10 A Lahti 80-52, 27/10 A Seagulls 79-86, 24/10 H Seagulls 79-64, 17/10 A Bisons 81-70. Away (league) last 4: L-1, W+28, L-7, W+11.",
+  "trends": {
+   "game totals": "Line ~173. Kouvot games 156,178,176,205,174,184,171,174,169,190 (7/10 over 172). Vilpas league games 197,173,132,165,143,151,183,168 (lower, defence-led).",
+   "team totals": "Kouvot scored 76,80,86 in last three (line 81.5-83.5). Vilpas scored 108,86,80,79,79,81 (line 89.5-91.5: over once in six league games).",
+   "first half": "Kouvot 1H: 43-42, 39-45, 50-44, 56-41, 35-43; Vilpas 1H: 53-49, 46-38, 43-33, 38-44.",
+   "handicap": "Common opponent Korihait: Vilpas +19 at home on 11/11, Kouvot +5 at home. Kipina: Vilpas lost by 1 away, Kouvot lost by 9 at home. Line -6.5/-7.5; Vilpas away results swing from -7 to +28.",
+   "corners": "n/a"
+  },
+  "h2h": "No meeting this season found.",
+  "absences": "No news found for either side (kouvot.fi / Vilpas sites list the fixture only).",
+  "context": "Thursday lean (mild support 219 Away) STANDS and is slightly strengthened by the midweek round: Kouvot lost again on 11/11 (third straight, now 2-8) while Vilpas put 108 on Korihait the same night. Still structural form only - no injury or line-up news exists. Both played Wednesday, so no rest edge. Vilpas did lose at Kipina by 1 a week ago, so the road ML is not safe at 1.26.",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.26,
+    "p": 0.758381024,
+    "why": "Common opponents on fresh results: Vilpas beat Korihait by 19 on 11/11, Kouvot (2-8, three straight losses) beat them by 5 and lost at home to Kipina by 9. p0.76 passes the away/ML 0.75 gate. No news mechanism."
+   }
+  ],
+  "avoid": [
+   "228 Vilpas Over 89.5 (reached once in six league games)",
+   "223 Away -6.5 (Vilpas lost at Kipina and Seagulls)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://basketball.realgm.com/international/league/37/Finnish-Korisliiga/team/838/Kouvot/schedule",
+   "https://vilpaskoripallo.fi/ottelut-liput/",
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ },
+ {
+  "eid": "sr:match:74476614",
+  "fx": "BK Ventspils v Vef Riga",
+  "home_form": "Ventspils last 10: 6W 4L. 07/11 A Parnu 80-89, 30/10 H Viimsi 75-60, 24/10 A Ogre 92-88, 16/10 H Taltech 82-85, 11/10 A Keila 85-68, 10/10 A Kalev 86-73, 02/10 H Tartu 92-85. Home last 3: W+15, L-3, W+7.",
+  "away_form": "VEF Riga last 10: 5W 5L in all competitions. 11/11 A Lokomotiv Plovdiv 85-83 (European game in Bulgaria), 08/11 A Viimsi 88-104, 04/11 A Fribourg 97-65, 31/10 H Tartu 74-86, 28/10 H Mykonos 88-91, 24/10 A Valmiera 97-89, 17/10 H Parnu 89-72.",
+  "trends": {
+   "game totals": "Line ~168. Ventspils 169,135,180,167,153,159,177; VEF league 192,160,186,161,160.",
+   "team totals": "VEF line 88.5: scored 88,74,97,89,90 in league. Ventspils line 78.5-80.5: 80,75,92,82,85,86,92 (over 78.5 in 6 of 7).",
+   "first half": "Ventspils 1H 39-45, 41-26, 52-51, 39-33; VEF 1H 44-52, 39-45, 53-28, 51-40.",
+   "handicap": "Common opponents CONTRADICT the price: Viimsi - Ventspils won by 15 (30/10), VEF lost by 16 (08/11). Tartu - Ventspils won by 7, VEF lost at home by 12. Parnu - Ventspils lost by 9 away, VEF won by 17 at home. Line -8.5/-9.5.",
+   "corners": "n/a"
+  },
+  "h2h": "None this season found. LSM (24/10) had VEF 7-0 and league leaders at that point; they have since lost twice in the league.",
+  "absences": "No news found.",
+  "context": "Thursday lean (AVOID 219 Away at p0.81) STANDS and is STRENGTHENED. New since Thursday: VEF played a European game in Plovdiv on Wednesday 11/11 (won by 2), making this their fourth straight road game in 11 days (Fribourg, Viimsi, Plovdiv, Ventspils). They have lost two of their last three league games, both to teams Ventspils beat. No line-up news.",
+  "avoid": [
+   "219 Away @1.18 p0.81 (travel, 2 league losses in 3, common opponents favour Ventspils)",
+   "223 Away -8.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.lsm.lv/raksts/sports/basketbols/24.10.2026-ventspils-basketbolisti-uzvar-ogre-eiropas-kausa-komandu-dueli-valmiera-paraka-vef-riga.a668954/",
+   "https://tv3.lv/sports/basketbols/libl-macos-uzvaras-izcina-liepajas-valmieras-un-ventspils-basketbolisti/",
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC"
+  ],
+  "veto": false,
+  "veto_reason": "",
+  "picks": []
+ },
+ {
+  "eid": "sr:match:74500970",
+  "fx": "Trelleborg Basket v Malbas",
+  "home_form": "Trelleborg last 7 this season: 4W 3L. 07/11 A Ockelbo 70-58, 25/10 A Sollentuna 63-82, 24/10 A Norrort 88-80, 17/10 H Alvik 84-97, 10/10 H Sollentuna 93-67, 27/09 A Huddinge 86-84, 19/09 H Wetterbygden 77-87. Home: 1W 2L (W+26, L-13, L-10).",
+  "away_form": "Malbas: 0W 10L. 08/11 H Djurgarden 77-83 OT, 01/11 A Huddinge 67-81, 31/10 A Ockelbo 69-80, 25/10 A Alvik 65-86, 24/10 A AIK 66-82, 18/10 A Fryshuset 73-84, 14/10 A IK Eos 55-91, 10/10 A Wetterbygden 73-100. Away margins: -14,-11,-21,-16,-11,-36,-27.",
+  "trends": {
+   "game totals": "Line ~158. Trelleborg 128,145,168,181,160,170,164; Malbas 160(OT),148,149,151,148,157,146,173.",
+   "team totals": "Malbas line 73.5-75.5: scored 67,69,65,66,73,55,73 away (under 73.5 in 7/7 away). Trelleborg line 82.5-84.5: 70,63,88,84,93,86,77.",
+   "first half": "Malbas 1H away: 38-40, 33-42, 31-42, 25-50, 30-42, 18-37, 39-63 - behind at half in all seven.",
+   "handicap": "Common opponents: Ockelbo - Trelleborg won by 12 away, Malbas lost by 11 away and by 2 at home. Huddinge - Trelleborg won by 2 away, Malbas lost by 14. Alvik - both lost (Trelleborg -13 home, Malbas -21 away). Line -8.5: every Malbas away loss is by 11+.",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "No news found (Swedish second tier).",
+  "context": "Thursday lean (support 219 Home) STANDS. Only new data: Malbas took Djurgarden to overtime at home on 08/11 (lost by 6) - their closest game, so not quite dead - and Trelleborg won at Ockelbo by 12 on 07/11. Caveat unchanged: Trelleborg are only 1-2 at home. Form-only, no news.",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.794329,
+    "why": "Malbas 0-10 and beaten by 11-36 in all seven away games; common opponents Ockelbo and Huddinge both favour Trelleborg. p0.79."
+   },
+   {
+    "mid": "228",
+    "spec": "total=75.5",
+    "desc": "Under 75.5",
+    "odds": 1.68,
+    "p": 0.536101,
+    "why": "Malbas scored 55-73 in all seven away games (under 75.5 in 7/7). NOTE p0.54 is below the engine total gate of 0.74 - trend pick only, not for a core."
+   }
+  ],
+  "avoid": [
+   "223 Home -8.5 as a core leg (Trelleborg 1-2 at home)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC",
+   "/home/user/gsley/engine/cache/board_2026-11-14.json"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ },
+ {
+  "eid": "sr:match:73529502",
+  "fx": "Buyukcekmece Basketbol v Balikesir Buyuksehir Belediyesi Spor",
+  "home_form": "Buyukcekmece last 9: 5W 4L. 07/11 A TED 74-67, 01/11 H Kahramanmaras 70-78, 25/10 A Darussafaka 85-90, 17/10 H Fenerbahce Gel. 85-87, 11/10 A Gaziantep 70-90, 07/10 H Ilab 83-71, 04/10 A Konya 78-63, 26/09 H Ankaragucu 89-77. Lost last 2 at home.",
+  "away_form": "Balikesir last 10: 3W 7L but competitive. 08/11 H Mersin 98-76, 31/10 A Yalova 73-77 OT, 25/10 H Cedi Osman 79-89 OT, 18/10 A Final 52-68, 11/10 H Kecioren 94-92, 07/10 A Goztepe 67-78, 03/10 A TED 91-85, 20/09 A Darussafaka 65-67. Away: OT loss, -16, -11, +6, -2.",
+  "trends": {
+   "game totals": "Line ~155.5. Buyukcekmece 141,148,175,172,160,154,141,166; Balikesir 174,150(OT),168(OT),120,186,145,176,132.",
+   "team totals": "Balikesir line 72.5-73.5: away scores 73,52,67,91,65. Buyukcekmece line 81.5-83.5: home 70,85,83,89,83.",
+   "first half": "Buyukcekmece 1H 40-29, 38-41, 33-44, 51-43; Balikesir 1H 59-42, 39-30, 31-29, 27-32.",
+   "handicap": "Line -9.5. Balikesir covered +9.5 in 3 of 5 away (two were one-possession/OT). Mersin beat TED by 35, and Balikesir beat Mersin by 22 on 08/11.",
+   "corners": "n/a"
+  },
+  "h2h": "None found this season.",
+  "absences": "No news found.",
+  "context": "Thursday lean (AVOID 219 Home, price too short) STANDS and is strengthened: the home ML has shortened further to 1.16 (p0.82, now below the 1.18 floor) while Balikesir produced their best result of the season on 08/11, beating Mersin 98-76. Buyukcekmece have lost their last two at home. No news.",
+  "avoid": [
+   "219 Home @1.16 (outside odds range; lost last 2 at home)",
+   "223 Home -9.5 @1.80"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC",
+   "/home/user/gsley/engine/cache/board_2026-11-14.json"
+  ],
+  "veto": false,
+  "veto_reason": "",
+  "picks": []
+ },
+ {
+  "eid": "sr:match:75947228",
+  "fx": "AL Tadamun Buri v Isa Town",
+  "home_form": "Al Tadamun Buri this season: 06/11 A Al Ittihad 1-1, 25/10 H Qalali 4-0, 19/10 A Bouri 0-1, 19/09 H Busaiteen 1-0, 13/09 H Etehad Alreef 3-1 (3W 1D 1L; home 3-0, GF 8 GA 1).",
+  "away_form": "Isa Town this season: 07/11 H Al Hala 4-3, 26/10 A Al-Shabab 0-2, 20/10 H Um Alhassam 3-1, 20/09 A Al Bahrain 1-4, 14/09 H Budaiya 0-1 (2W 3L; away 0-2, GF 1 GA 6).",
+  "trends": {
+   "game totals": "Over 1.5: Tadamun 3/5 (two 1-0 results), Isa Town 4/5. Over 2.5: 2/5 and 3/5.",
+   "team totals": "Tadamun conceded 1 goal in three home games; Isa Town scored 1 in two away games.",
+   "first half": "No HT data.",
+   "handicap": "Board makes ISA TOWN the favourite (Away 1.93, DNB 1.45 p0.64) although Tadamun are 3-0 at home and Isa Town 0-2 away - the form table points the other way.",
+   "corners": "No data."
+  },
+  "h2h": "07/05/26 Tadamun 0-3 Isa Town (the 3-0 H2H Thursday cited).",
+  "absences": "None found; no current-season web coverage.",
+  "context": "Thursday lean (O1.5 fill only) STANDS; nothing new - no line-ups or news exist for this league. Observation: the price (Isa Town favoured) contradicts this season's results (Tadamun unbeaten at home conceding once; Isa Town lost both away games 0-2 and 1-4). That is a data-conflict flag rather than value, so no side. O1.5 at p0.79 remains a Gulf thin-league Over (rule class to avoid).",
+  "avoid": [
+   "11 Away DNB @1.45 (Isa Town 0-2 away, Tadamun 3-0 at home)",
+   "18 Over 1.5 @1.21 as anything but fill"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC",
+   "/home/user/gsley/engine/cache/board_2026-11-14.json"
+  ],
+  "veto": false,
+  "veto_reason": "",
+  "picks": []
+ },
+ {
+  "eid": "sr:match:75947232",
+  "fx": "Bouri v Qalali Club",
+  "home_form": "Bouri this season: 06/11 H Etehad Alreef 1-1, 26/10 A Busaiteen 4-1, 19/10 H Tadamun 1-0, 19/09 A Al Hala 0-2, 14/09 H Al-Shabab 0-0 (2W 2D 1L). Home: 1-1, 1-0, 0-0 - two goals in three home games.",
+  "away_form": "Qalali this season: 06/11 H Busaiteen 1-0, 25/10 A Tadamun 0-4, 19/10 H Al Hala 0-7, 20/09 A Al-Shabab 0-0, 14/09 H Um Alhassam 0-3 (1W 1D 3L, GF 1 GA 14).",
+  "trends": {
+   "game totals": "Bouri home games 2,1,0 goals. Qalali games 1,4,7,0,3.",
+   "team totals": "Bouri Over 2.5 team goals is priced 1.65 yet Bouri have scored 2 in 3 home games. Qalali scored 1 goal in 5 games.",
+   "first half": "No HT data.",
+   "handicap": "Home 1X2 has shortened to 1.14 (p0.84) - outside the odds range.",
+   "corners": "No data."
+  },
+  "h2h": "26/04/26 Qalali 1-4 Bouri.",
+  "absences": "None found.",
+  "context": "Thursday lean (Home 1X2 small, not an anchor) is now MOOT/OVERTURNED as a bet: the home price has shortened to 1.14, below the 1.18 floor, and Qalali's latest result was a 1-0 win over Busaiteen (06/11), not another collapse. Bouri have drawn 2 of 3 at home with only 2 goals scored. Nothing bookable is supported.",
+  "avoid": [
+   "1 Home @1.14 (outside range; Bouri 2 home draws in 3)",
+   "19 Bouri Over 2.5 @1.65 (2 goals in 3 home games)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC",
+   "/home/user/gsley/engine/cache/board_2026-11-14.json"
+  ],
+  "veto": false,
+  "veto_reason": "",
+  "picks": []
+ },
+ {
+  "eid": "sr:match:74236948",
+  "fx": "Phoenix MT Fot v BC Kormend",
+  "home_form": "Phoenix-MT Fot (promoted, 6th) last 9: 5W 4L. 11/11 A Pecs 90-76, 07/11 H Oroszlany 82-69, 31/10 H Szolnok 63-68, 28/10 A Paks 85-108, 24/10 H Alba 79-67, 17/10 A DEAC 88-81, 11/10 H Kecskemet 91-66. Home: W+13, L-5, W+12, W+25.",
+  "away_form": "Kormend last 9 league: 3W 6L. 11/11 H Kaposvar 110-91, 08/11 A Honved 78-90 (led 55-36 at half), 31/10 H Sopron 81-78, 28/10 H Falco 79-105, 24/10 A Pecs 75-88, 17/10 H Oroszlany 92-82, 09/10 A Szolnok 79-103, 25/09 A Alba 77-96. Away: 0-4, margins -12,-13,-24,-19.",
+  "trends": {
+   "game totals": "Line ~169.5. Fot 166,151,131,193,146,169,157; Kormend 201,168,159,184,163,174,182,173.",
+   "team totals": "Fot line 87.5-89.5: home scores 82,63,79,91. Kormend line 80.5-82.5: away scores 78,75,79,77 (under 80.5 in 4/4 away).",
+   "first half": "Kormend led 54-36 (Kaposvar) and 55-36 (at Honved) at half in their last two; Fot 1H 39-30, 38-38, 38-40, 43-38.",
+   "handicap": "Common opponents: Pecs - Fot won there by 14 (11/11), Kormend lost there by 13. Alba - Fot won by 12 at home, Kormend lost by 19 away. Szolnok - both lost. Line -6.5/-8.5.",
+   "corners": "n/a"
+  },
+  "h2h": "Kormend coach Tamas Kocsis (vaol.hu 13 Nov): Kormend lost to Fot in BOTH pre-season friendlies.",
+  "absences": "None reported. vaol.hu preview (13 Nov) names no absentees for either side; Fot top scorer Mitchell (21 ppg), plus Dancsecs, Juhos, Coulibaly all referenced as playing.",
+  "context": "Thursday lean (mild support 219 Home) STANDS. Fresh preview (vaol.hu, 13 Nov) confirms Saturday 17:00 local at Fot (an MKOSZ listing showing 11 Nov is a stale artefact - both teams played other opponents that night per Sportradar, so no date conflict). New information cuts both ways: Fot won at Pecs by 14 on Wednesday (strengthens), but Kormend have just beaten Kaposvar by 19 and led Honved away by 19 at half-time - their coach says the form is coming together. Kormend remain 0-4 away, all by 12+.",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.761770345,
+    "why": "Common opponents (Pecs, Alba) both favour Fot by 25+ points of swing; Kormend 0-4 away all by 12+; Fot 3-1 at home and beat Kormend twice pre-season per the Kormend coach. p0.76."
+   },
+   {
+    "mid": "228",
+    "spec": "total=82.5",
+    "desc": "Under 82.5",
+    "odds": 1.67,
+    "p": 0.5485705865,
+    "why": "Kormend scored 75-79 in all four away games. NOTE p0.55 is below the engine total gate; trend only."
+   }
+  ],
+  "avoid": [
+   "223 Home -6.5 as a core leg (Kormend improving: +19 v Kaposvar, +19 at half at Honved)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.vaol.hu/helyi-sport/2026/11/egis-kormend-a-bajnoksag",
+   "https://www.eredmenyek.com/kosarlabda/magyarorszag/nb-i-a/",
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ },
+ {
+  "eid": "sr:match:73833408",
+  "fx": "Csm Targu Mures v Csm Corona Brasov",
+  "home_form": "CSM Targu Mures 7-1 this season. 09/11 H Rapid 105-80, 31/10 A Ploiesti 110-81, 22/10 H Steaua 92-89, 17/10 A Valcea 91-83, 10/10 H Voluntari 85-91, 04/10 A Timisoara 78-72, 30/09 H Galati 109-83. Home: W+25, W+3, L-6, W+26.",
+  "away_form": "Corona Brasov now 3-4 (Radio Brasov had them 2-4 before beating Ploiesti). 07/11 H Ploiesti 97-80, 31/10 A Steaua 89-94, 22/10 H Valcea 80-81, 17/10 A Voluntari 78-83, 10/10 A Timisoara 81-76, 03/10 H Craiova 98-113. Away: L-5, L-5, W+5.",
+  "trends": {
+   "game totals": "Line ~182.5. Mures 185,191,181,174,176,150,192; Brasov 177,183,161,161,157,211.",
+   "team totals": "Mures line 94.5-96.5: scored 105,110,92,91,85,78,109. Brasov line 86.5-88.5: 97,89,80,78,81,98.",
+   "first half": "Mures 1H 53-42, 48-36, 46-52, 37-37; Brasov 1H 46-46, 46-46, 49-42, 51-47 - Brasov level or ahead at half in last four.",
+   "handicap": "Common opponents: Ploiesti - Mures won by 29 away, Brasov by 17 at home. Steaua - Mures won by 3 at home, Brasov lost by 5 away. Valcea - Mures won by 8 away, Brasov lost by 1 at home. Line -8.5/-9.5; Brasov away losses are by 5.",
+   "corners": "n/a"
+  },
+  "h2h": "May 2026 play-off: Mures 118-78 (H) and 96-81 (A). Dec 2025 meeting went to two overtimes (Monitorul Expres).",
+  "absences": "No news found for this round.",
+  "context": "Thursday lean (support 219 Home) STANDS, marginally strengthened: Mures won again on 09/11 (105-80 v Rapid) and every common opponent favours them. Brasov are competitive on the road (two 5-point losses, one win), so the win market, not the handicap. No line-up news.",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7647630079,
+    "why": "Fixture-specific: Mures won both May H2Hs by 40 and 15, are 7-1, and beat all three common opponents Brasov has faced by wider margins. p0.76."
+   }
+  ],
+  "avoid": [
+   "223 Home -9.5 (Brasov away losses by 5, 5)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://radiobrasovfm.ro/sport/stiri-locale/baschet-prima-victorie-pe-teren-propriu-pentru-corona-brasov-in-liga-nationala-de-baschet-id220596.html",
+   "https://www.monitorulexpres.ro/2025/12/31/corona-brasov-esec-dramatic-cu-csm-targu-mures-in-lnbm/",
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ },
+ {
+  "eid": "sr:match:73841432",
+  "fx": "Villars Basket v BC Alte Kanti Aarau",
+  "home_form": "Villars last 7 this season: 4W 3L. 07/11 A GC Zurich 71-44, 01/11 H Lugano 69-75, 24/10 A Geneve 78-71, 17/10 H Meyrin 75-82 OT, 10/10 A Vacallo 83-67, 03/10 H Swiss Central 70-58, 26/09 A Boncourt 79-69. Home: 1W 2L; away 4-0.",
+  "away_form": "Alte Kanti Aarau 7 games: 4W 3L. 07/11 H CNEF 86-78, 01/11 H Ac. Fribourg 71-77, 25/10 A GC Zurich 82-56, 22/10 A Baren 73-76, 17/10 H Boncourt 68-46, 10/10 A Morges 60-89, 03/10 H Meyrin 84-75. Away: W+26, L-3, L-29.",
+  "trends": {
+   "game totals": "Line ~143.5. Villars 115,144,149,157(OT),150,128,148; Aarau 164,148,138,149,114,149,159.",
+   "team totals": "Villars line 74.5-76.5: home scores 69,75,70. Aarau line 67.5-68.5: away 82,73,60.",
+   "first half": "No period data.",
+   "handicap": "Common opponents: Meyrin - Aarau won by 9 at home, Villars lost in OT at home. GC Zurich - both won away by 26-27. Boncourt - Aarau +22 home, Villars +10 away. They grade roughly level; line -7.5/-8.5.",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "No news found.",
+  "context": "Thursday lean (weak case for 219 Home at p0.79, lean avoid) STANDS. Nothing new except both won on 07/11. Villars are 1-2 at home (both losses) and common opponents rate the sides about equal, so a p0.79-0.80 home price is not supported. No news available.",
+  "avoid": [
+   "219 Home @1.21 (1-2 at home; Aarau beat Meyrin, who beat Villars away)",
+   "223 Home -7.5"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC",
+   "/home/user/gsley/engine/cache/board_2026-11-14.json"
+  ],
+  "veto": false,
+  "veto_reason": "",
+  "picks": []
+ },
+ {
+  "eid": "sr:match:75947230",
+  "fx": "Busaiteen v Al Ittihad",
+  "home_form": "Busaiteen this season: 06/11 A Qalali 0-1, 26/10 H Bouri 1-4, 19/10 H Etehad Alreef 3-1, 19/09 A Tadamun 0-1, 13/09 H Al Hala 2-2 (1W 1D 3L). Home: 1-4, 3-1, 2-2.",
+  "away_form": "Al Ittihad this season: 06/11 H Tadamun 1-1, 25/10 A Al Hala 0-1, 20/10 H Al-Shabab 0-2, 20/09 A Um Alhassam 2-1, 13/09 H Al Bahrain 1-0 (2W 1D 2L). Away: 0-1, 2-1.",
+  "trends": {
+   "game totals": "Busaiteen home games 5,4,4 goals but away 1,1. Al Ittihad games 2,1,2,3,1 - Over 1.5 in 3/5, Over 2.5 in 1/5.",
+   "team totals": "Al Ittihad have scored 4 in 5 games; Busaiteen failed to score in both away games but scored 6 in 3 at home.",
+   "first half": "No HT data.",
+   "handicap": "Board now has Al Ittihad favourites (Away 1.66, DNB 1.27 p0.74).",
+   "corners": "No data."
+  },
+  "h2h": "None recent found.",
+  "absences": "None found.",
+  "context": "Thursday lean (O1.5 fill only) STANDS, slightly weakened: Busaiteen's latest game was a 0-1 defeat to bottom side Qalali (who had conceded 14 in four), and Al Ittihad's games are low-scoring (1-3 goals each). O1.5 @1.19 p0.80 rests entirely on Busaiteen's three open home games in a thin Gulf league. No news.",
+  "avoid": [
+   "18 Over 1.5 @1.19 as anything but fill (Gulf thin league; Al Ittihad games average 1.8 goals)",
+   "11 Away DNB @1.27 (Al Ittihad won 2 of 5, scored 4)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC",
+   "/home/user/gsley/engine/cache/board_2026-11-14.json"
+  ],
+  "veto": false,
+  "veto_reason": "",
+  "picks": []
+ },
+ {
+  "eid": "sr:match:74236954",
+  "fx": "Kaposvari KK v Soproni Sordogok",
+  "home_form": "Kaposvar last 9 league: 5W 4L. 11/11 A Kormend 91-110, 06/11 H Pecs 97-94, 31/10 A Oroszlany 96-91, 24/10 H Paks 76-95, 17/10 A Alba 85-94, 10/10 H DEAC 95-90, 02/10 A Kecskemet 97-75, 29/09 A Szolnok 91-90, 26/09 H Szeged 99-98. Home: W+3, L-19, W+5, W+1.",
+  "away_form": "Sopron last 9: 4W 5L. 11/11 H Honved 74-72 (trailed 8-24 after Q1), 07/11 H Falco 56-82, 31/10 A Kormend 78-81, 28/10 H Pecs 78-43, 24/10 A Oroszlany 84-91, 17/10 H Szolnok 81-72, 10/10 A Paks 80-109, 30/09 A Alba 82-98. Away: 0-4 (-3,-7,-29,-16).",
+  "trends": {
+   "game totals": "Line ~172. Kaposvar games 201,191,187,171,179,185,172,181,197 - OVER 170.5 in 9/9. Sopron away games 159,175,189,180; Sopron home games much lower (146,138,121,153).",
+   "team totals": "Kaposvar line 88.5: scored 91,97,96,76,85,95,97,91,99 (over in 7/9, home 3/4). Kaposvar conceded 90+ in 8 of 9. Sopron line 81.5: away scores 78,84,80,82.",
+   "first half": "Kaposvar 1H 36-54, 49-51, 49-48, 34-46, 45-53, 57-48; Sopron slow starters: 25-41, 33-46, 41-43, 38-61 (away at Paks).",
+   "handicap": "Common opponents: Kormend - both lost there (Sopron by 3, Kaposvar by 19). Pecs - Kaposvar won by 3 at home, Sopron by 35 at home. Oroszlany - Kaposvar won there by 5, Sopron lost there by 7. Kaposvar home wins by 1, 3, 5: line -6.5/-8.5 not supported.",
+   "corners": "n/a"
+  },
+  "h2h": "None this season found.",
+  "absences": "No news found.",
+  "context": "Thursday lean (support 219 Home, with close home wins a risk) STANDS but is WEAKENED by Wednesday: Kaposvar were beaten by 19 at Kormend (trailed 36-54 at half), while Sopron beat Honved 74-72. Sopron remain 0-4 away, but Kaposvar's home wins are by 1, 3 and 5 and they concede 90+ almost every game. The stronger fixture trend is scoring: every Kaposvar game has gone over 170.5.",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.768862,
+    "why": "Sopron 0-4 away; Kaposvar 3-1 at home. p0.77. Downgraded after Kaposvar lost by 19 on 11/11 - win market only, fill."
+   },
+   {
+    "mid": "225",
+    "spec": "total=170.5",
+    "desc": "Over 170.5",
+    "odds": 1.71,
+    "p": 0.545998,
+    "why": "All 9 Kaposvar league games finished over 170.5 (min 171) and Sopron away games 175,189,180 in the last three. NOTE p0.55 is below the engine total gate of 0.74 - trend pick, not a core leg."
+   }
+  ],
+  "avoid": [
+   "223 Home -6.5 @1.72 (home wins by 1, 3, 5)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eredmenyek.com/kosarlabda/magyarorszag/nb-i-a/",
+   "https://hunbasket.hu/",
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ },
+ {
+  "eid": "sr:match:74476618",
+  "fx": "Valmiera Glass Via v BK Liepaja",
+  "home_form": "Valmiera Glass ViA last 10 (all comps): 6W 4L. 11/11 H Bashkimi 85-77 (European), 07/11 A Tartu 93-86, 04/11 H Manchester 80-74, 01/11 A Parnu 74-76, 28/10 H Korfez 85-87, 24/10 H VEF 89-97, 17/10 H Latvijas U. 81-59, 14/10 H Kalev 82-74.",
+  "away_form": "Liepaja last 10: 5W 5L but 3 straight league wins by 30+: 07/11 A Rigas Ekselence 99-69, 04/11 H Keila 92-65, 31/10 H Viimsi 112-54. Before that 27/10 H Bristol 72-85, 21/10 A Kapfenberg 83-108, 17/10 A Rigas Zelli 69-85, 14/10 H Taltech 71-78, 03/10 A VEF 55-82.",
+  "trends": {
+   "game totals": "Line ~165. Valmiera 162,179,154,150,172,186,140,156; Liepaja league 168,157,166,154,149,186,137.",
+   "team totals": "Valmiera line 86.5-88.5: league scores 93,74,89,81,82. Liepaja line 76.5-78.5: 99,92,112 in last three after 69,71,55.",
+   "first half": "Valmiera 1H 37-35, 52-45, 45-33, 39-37; Liepaja 1H 51-41, 49-26, 58-25 in the last three.",
+   "handicap": "Line -9.5/-11.5. Viimsi: Liepaja won 112-54; Valmiera won there 91-87; Viimsi then beat VEF by 16. Liepaja away to good sides: -16 (Zelli), -27 (VEF).",
+   "corners": "n/a"
+  },
+  "h2h": "None this season found.",
+  "absences": "No news found.",
+  "context": "Thursday lean (support 219 Home because Liepaja lose to every mid-to-upper side) is WEAKENED / partly overturned. Liepaja have won their last three league games by 30, 27 and 58 - including a 112-54 demolition of the Viimsi side that beat VEF by 16 a week later - so they are no longer the team Thursday described. Valmiera also played a European game on Wednesday (third game in 8 days). And the bet itself is gone: 219 Home is 1.16 (below the 1.18 floor); only the regulation 1X2 Home @1.20 is in range.",
+  "avoid": [
+   "219 Home @1.16 / 1 Home @1.20 (Liepaja 3 straight blowout wins; Valmiera midweek European game)",
+   "223 Home -9.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://tv3.lv/sports/basketbols/libl-macos-uzvaras-izcina-liepajas-valmieras-un-ventspils-basketbolisti/",
+   "https://www.lsm.lv/raksts/sports/basketbols/24.10.2026-ventspils-basketbolisti-uzvar-ogre-eiropas-kausa-komandu-dueli-valmiera-paraka-vef-riga.a668954/",
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC"
+  ],
+  "veto": false,
+  "veto_reason": "",
+  "picks": []
+ },
+ {
+  "eid": "sr:match:74131770",
+  "fx": "Igokea Aleksandrovac v Buducnost Podgorica",
+  "home_form": "Igokea last 10 (all comps): 4W 6L. 11/11 A Slavia Praha 89-81, 07/11 A Krka 67-73, 02/11 A Zenit 70-91, 30/10 A Cibona 89-69, 27/10 H Slavia Praha 77-72, 24/10 H Crvena zvezda 80-81, 21/10 H Parma 100-86, 17/10 H Cedevita Olimpija 81-93, 10/10 H Borac 83-94. Home ABA: L-1, L-12, L-11.",
+  "away_form": "Buducnost last 10: 7W 3L, four straight wins. 10/11 A Bourg 68-66 (EuroCup), 07/11 A FMP 76-73, 03/11 H Chemnitz 96-84, 31/10 H Borac 105-72, 27/10 A Trento 92-94, 24/10 A Cedevita Olimpija 95-81, 14/10 A Tofas 85-90, 10/10 A Crvena zvezda 91-101.",
+  "trends": {
+   "game totals": "Line ~170.5. Igokea ABA games 140,158,161,174,177; Buducnost ABA games 149,177,176,192. Buducnost road games lately 134,149,186,176.",
+   "team totals": "Igokea line 80.5-82.5: ABA home scores 80,81,83. Buducnost line 87.5-89.5: away 68,76,92,95,85,91.",
+   "first half": "Igokea 1H 42-39, 39-32, 40-44, 50-33 (v Zvezda), 41-43; Buducnost 1H 36-36, 44-38, 49-44, 49-34.",
+   "handicap": "Common opponents: Borac Cacak - Buducnost won by 33 at home, Igokea lost by 11 at home. Cedevita Olimpija - Buducnost won by 14 AWAY, Igokea lost by 12 at home. Zvezda - Igokea lost by 1 at home, Buducnost lost by 10 away. Line -6.5/-7.5.",
+   "corners": "n/a"
+  },
+  "h2h": "Last meeting found: March 2026 in Laktasi (preview only, mnemagazin.me).",
+  "absences": "Thursday: Igokea without Strahinja Gavrilovic and Dragan Milosavljevic at Krka (Glas Srpske). No update found in the last 36h - their status for Saturday is UNCONFIRMED. Nothing reported for Buducnost.",
+  "context": "Thursday lean (support 219 Away; no handicap) STANDS, not strengthened. New since Thursday: both teams won European road games in midweek (Buducnost at Bourg on Tuesday - one more rest day; Igokea at Slavia Praha on Wednesday, their fourth straight away game before returning home). Could not re-confirm the Gavrilovic/Milosavljevic absences, so treat the absence mechanism as stale. Common-opponent form (Borac, Cedevita) is strongly pro-Buducnost.",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.27,
+    "p": 0.760472,
+    "why": "Common opponents: Buducnost beat Borac by 33 and won at Cedevita by 14; Igokea lost at home to both by 11-12 and are 0-3 at home in the ABA. Four straight Buducnost wins incl. two road wins this week. p0.76."
+   }
+  ],
+  "avoid": [
+   "223 Away -6.5 (Igokea lost to Zvezda by 1 at home; Buducnost road wins by 2 and 3 this week)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://kosarka24.ba/aba-liga-objavila-raspored-takmicenja-igokea-siroki-u-prvom-kolu/",
+   "https://mnemagazin.me/2026/03/26/aba-liga-buducnost-voli-u-subotu-protiv-igokee/",
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ },
+ {
+  "eid": "sr:match:72679798",
+  "fx": "BK 04 AC LB SNV Spisski Rytieri v Kosice Wolves",
+  "home_form": "Spisski Rytieri last 5 completed: 0W 4L plus an 85-85 entry v Komarno on 10/11 that Sportradar shows level (likely OT not recorded). 07/11 A Nitra 83-84, 31/10 H Prievidza 90-101, 24/10 A Inter 80-87, 18/10 A Levice 84-98. Earlier wins: Komarno 87-75, Iskra 96-82.",
+  "away_form": "Kosice Wolves last 9: 5W 4L. 10/11 H Inter 90-72, 07/11 H Handlova 65-84, 31/10 A Nitra 92-84, 24/10 H Komarno 86-59, 17/10 A Inter 84-79, 09/10 H Levice 85-108, 03/10 H Prievidza 77-104, 30/09 A Iskra 80-66. Away: 3-0.",
+  "trends": {
+   "game totals": "Line ~167.5. Spisska 170,167,191,167,182,162,178; Kosice 162,149,176,145,163,193,181,146.",
+   "team totals": "Spisska line 86.5-88.5: 85,83,90,80,84. Kosice line 79.5-81.5: 90,65,92,86,84,85,77,80.",
+   "first half": "Spisska 1H 50-42, 42-47, 55-53, 38-48; Kosice 1H 48-36, 34-39, 51-34, 27-34, 50-42.",
+   "handicap": "Common opponents all favour KOSICE: Nitra away (Kosice +8, Spisska -1), Inter away (Kosice +5, Spisska -7; Kosice also +18 at home on 10/11), Komarno (Kosice +27; Spisska +12 and a level game). Line Home -7.5.",
+   "corners": "n/a"
+  },
+  "h2h": "04/04/26 Kosice 90-66 Spisska.",
+  "absences": "No news found.",
+  "context": "Thursday lean (AVOID 219 Home) STANDS and is strengthened by Tuesday's results: Kosice beat Inter by 18 while Spisska could not beat Komarno at home. The board still makes Spisska a p0.75 favourite at 1.26, which research contradicts by well over 15pp - under the divergence rule that means SKIP the fixture, not back Kosice (the house may know roster facts we cannot see).",
+  "avoid": [
+   "219 Home @1.26 p0.75 (winless in 5; lost to every side Kosice beat)",
+   "223 Home -7.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC",
+   "/home/user/gsley/engine/cache/board_2026-11-14.json"
+  ],
+  "veto": false,
+  "veto_reason": "",
+  "picks": []
+ },
+ {
+  "eid": "sr:match:73713584",
+  "fx": "CB Breogan v CB San Pablo Burgos",
+  "home_form": "Rio Breogan (7th, 4-3 ACB): 08/11 A Barcelona 91-99, 01/11 A Obradoiro 110-90, 25/10 H Unicaja 90-103, 17/10 A Andorra 102-108, 10/10 H Girona 115-92, 03/10 A Manresa 101-95, 27/09 H Joventut 110-104. Home ACB: W+6, W+23, L-13 - 110, 115, 90 scored.",
+  "away_form": "San Pablo Burgos: 1W in last 10 (all comps), seven straight defeats. 11/11 A Le Mans 80-88, 08/11 H Valencia 93-100, 04/11 H Rostock 59-86, 01/11 A Real Madrid 79-90, 28/10 H Rigas Zelli 71-79, 24/10 A Manresa 99-81 (only win), 17/10 H Obradoiro 72-79, 11/10 A Bilbao 87-96.",
+  "trends": {
+   "game totals": "Line ~191.5. Breogan ACB games 190,200,193,210,207,196,214 - six of seven at 193+. Burgos ACB games 193,169,180,151,183.",
+   "team totals": "Breogan line 99.5-101.5: scored 91,110,90,102,115,101,110 (100+ in 5 of 7). Burgos line 90.5-92.5: 93,79,99,72,87.",
+   "first half": "Breogan 1H 40-39, 50-43, 47-59, 53-43, 61-41, 51-40, 56-49 (line 91.5-93.5 total; Breogan halves total 79-102). Burgos 1H 45-45, 52-41, 27-51, 31-39.",
+   "handicap": "Common opponents: Obradoiro - Breogan won there by 20, Burgos lost at home by 7. Manresa - both won away (Breogan +6, Burgos +18). Line -7.5/-8.5. Breogan home margins +6, +23, -13.",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "OFFICIAL ACB medical report (13 Nov): Burgos without Ziga Samar and DJ Steward (hamstring, injured last round); Vlatko Cancar \"in principle not available\" (only just back in group drills). Breogan: only Aleksa Ilic out (muscle).",
+  "context": "Thursday lean (support 219 Home) is STRENGTHENED. The attribution that was uncertain on Thursday is now confirmed by the league's own medical report: the absentees (Samar, Steward, probably Cancar) are all Burgos players, while Breogan miss only Ilic. Burgos also travel straight from France to Lugo without going home after Wednesday's loss at Le Mans, and coach Porfi Fisac spoke openly of the \"mental and emotional wear\" of the double competition. Breogan have had a full week since Barcelona.",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.784551,
+    "why": "Named mechanism: Burgos missing Samar and Steward (official ACB report) with Cancar unlikely, on a 7-game losing run, travelling France-to-Galicia after a Wednesday European game; Breogan full week of rest and score 110+ at home. p0.78."
+   },
+   {
+    "mid": "225",
+    "spec": "total=178.5",
+    "desc": "Over 178.5",
+    "odds": 1.22,
+    "p": 0.795155,
+    "why": "Breogan games have totalled 190-214 in all seven ACB rounds; Burgos just conceded 100 at home to Valencia. Total p0.80 passes the 0.74 gate. Risk: Burgos without two guards could score in the 70s (they did v Madrid: 169)."
+   }
+  ],
+  "avoid": [
+   "223 Home -7.5 @1.74 as a core leg (Breogan lost at home to Unicaja by 13; margins volatile)",
+   "228 Burgos Over 90.5 (two ball-handlers out)"
+  ],
+  "confidence": 0.35,
+  "sources": [
+   "https://acb.com/es/liga/noticias/novedades-y-parte-medico-de-la-jornada-8-de-la-liga-endesa-2026-27-146439",
+   "https://www.infobae.com/espana/agencias/2026/11/13/el-san-pablo-busca-frenar-su-mala-racha-ante-un-breogan-con-potencial-ofensivo/",
+   "https://www.burgosconecta.es/sanpabloburgos/fisac-previa-ante-breogan-jugar-doble-competicion-20261113173813-nt.html",
+   "https://elprogreso.es/articulo/deporte-local-lugo/breogan/202611120511362013429.html"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ },
+ {
+  "eid": "sr:match:72627096",
+  "fx": "Basket Brno v BK Pardubice",
+  "home_form": "Basket Brno last 10: 5W 5L, two straight home wins. 07/11 H Hradec Kralove 82-64, 04/11 H Olomoucko 81-76, 28/10 H Pisek 82-95, 24/10 A Opava 75-72, 18/10 H USK Praha 91-80, 11/10 A Lokomotiva 83-69. Home: W+18, W+5, L-13, W+11, L-12.",
+  "away_form": "Pardubice last 10: 6W 4L; domestic 5 wins in last 6. 11/11 A Decin 81-75, 07/11 H Opava 99-80, 03/11 A Utena 95-98 OT (European), 31/10 A USK Praha 102-85, 28/10 H Lokomotiva 98-74, 25/10 A Usti 83-64, 17/10 H Decin 79-82, 10/10 A Slavia 60-105.",
+  "trends": {
+   "game totals": "Line ~167.5. Brno 146,157,177,147,171,152,151; Pardubice league 156,179,187,172,147,161,149.",
+   "team totals": "Brno line 79.5-81.5: home scores 82,81,82,91,96. Pardubice line 86.5-88.5: 81,99,102,98,83,79,88.",
+   "first half": "Brno 1H 40-32, 43-33, 45-52, 41-31; Pardubice 1H 41-33, 57-41, 53-47, 45-39, 50-33 - Pardubice ahead at half in 5 straight league games.",
+   "handicap": "Common opponents: Olomoucko - Pardubice +27 home, Brno +5 home. Opava - Pardubice +19 home, Brno +3 away. USK Praha - Pardubice +17 away, Brno +11 home. Decin - Pardubice +6 away / -3 home, Brno -8 away. Line -6.5/-7.5.",
+   "corners": "n/a"
+  },
+  "h2h": "None this season found.",
+  "absences": "No current report. Older match reports on nbl.basketball mention Pardubice forward Potocek (long-term hand injury) and Brno's Pulpan and Madden as absentees in earlier rounds - current status unknown.",
+  "context": "Thursday lean (AVOID 219 Away at p0.75; Brno a credible home receiver) STANDS on price, though the form case for Pardubice is a little better than Thursday suggested: they won at Decin on Wednesday and every common opponent grades them 10-20 points better than Brno. Against that, this is Pardubice's fifth game in 15 days including a European trip, and Brno have won 3 of their last 4 at home. The away ML is now p0.74 at 1.29 - just under the 0.75 gate. No line-up news.",
+  "avoid": [
+   "219 Away @1.29 p0.74 (below the 0.75 away/ML gate; schedule congestion)",
+   "223 Home +7.5 (common opponents favour Pardubice by double digits)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://nbl.basketball/zapasy?d_od=&d_do=&k=0",
+   "https://www.sofascore.com/basketball/match/basket-brno-bk-jip-pardubice/OgdsFAAh",
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC"
+  ],
+  "veto": false,
+  "veto_reason": "",
+  "picks": []
+ },
+ {
+  "eid": "sr:match:74131962",
+  "fx": "KK Zadar v KK Partizan Belgrade",
+  "home_form": "Zadar ABA record 2-4 (2-0 at home). Recent: 09/11 H Kvarner 109-80 (domestic), 05/11 A Spartak Subotica 51-67, 02/11 A Dubai 75-89, 30/10 A Dubrovnik 105-71, 25/10 H Ilirija 95-70, 23/10 H Dinamo Zagreb 87-61, 16/10 A Vienna 63-78, 11/10 A Mega 82-88.",
+  "away_form": "Partizan 6-0 in the ABA, four straight wins overall. 11/11 H Baskonia 80-66 (EuroLeague), 08/11 H SC Derby 92-80, 06/11 H Maccabi 88-67, 02/11 H Cluj 97-77, 30/10 A Zalgiris 80-87, 28/10 A ASVEL 75-82, 24/10 A Spartak 82-80, 18/10 A Bosna 89-84. ABA away wins by 2 and 5.",
+  "trends": {
+   "game totals": "Line ~161.5. Partizan last 10 totals: 146,172,155,174,167,157,162,167(OT),173,139 - NONE above 174. Zadar ABA games: 118,164,165,141,170; their only 175+ totals came v Croatian-league minnows (189, 176).",
+   "team totals": "Zadar line 74.5-76.5: ABA scores 51,75,95,63,82. Partizan line 84.5-86.5: 80,92,88,97,80,75,82,89.",
+   "first half": "Partizan 1H 42-38, 42-47, 50-35, 57-49, 40-44; Zadar ABA 1H 29-29, 38-35, 40-35.",
+   "handicap": "Line -8.5/-10.5. Partizan's ABA road wins were by 2 (Spartak) and 5 (Bosna); Zadar lost at Spartak by 16 and at Dubai by 14 but are 2-0 at home.",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "Partizan still short-handed: TV Arena Sport (this week) headline \"ten angry pirates - Thompson out, new injury suspected\"; Thursday list had Hayes (shoulder), Willis (ankle), Stevens and Allman ill. Vanja Marinkovic has returned (2 Nov). New signing Chris Silva passed his medical this week. No official travel list found. Zadar: nothing reported.",
+  "context": "Thursday lean (AVOID 219 Away at p0.81) STANDS. Fresh (TV Arena Sport, 13 Nov): coach Joan Penarroja calls it a difficult trip - Zadar have won both home games and \"are a good defensive team\" - and says Partizan must set the rhythm and control turnovers; Arijan Lakic (ex-Zadar) confirms he plays. Partizan are still down to about ten fit players after losing another one this week, on a third game in seven days, and their ABA road wins have been by 2 and 5. Counter: they are 6-0 and have won four straight. The cleaner angle is the total: a short Partizan rotation playing controlled tempo against a defensive home side.",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=174.5",
+    "desc": "Under 174.5",
+    "odds": 1.22,
+    "p": 0.78843,
+    "why": "Fixture-specific: none of Partizan's last 10 games went above 174 and Zadar's five ABA games topped out at 170; Penarroja wants controlled tempo with a ~10-man rotation and rates Zadar a good defensive side. p0.79 (passes the 0.74 total gate; it is an Under, so one per ticket at most)."
+   }
+  ],
+  "avoid": [
+   "219 Away @1.20 (thin rotation, 3rd game in 7 days, road wins by 2 and 5)",
+   "223 Away -8.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.tvarenasport.com/kosarka/aba-liga/82158/partizan-zadar-djoan-penjaroja-arijan-lakic-kosarka-aba-liga-izjava/news",
+   "https://www.tvarenasport.com/evroliga/evroliga-kk-partizan/82052/crno-beli-kao-deset-ljutih-gusara-otpao-tompson-sumnja-se-na-novu-povredu/vest",
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ },
+ {
+  "eid": "sr:match:75019230",
+  "fx": "Ironi Nahariya v AS Ashkelon/Kiryat Gat",
+  "home_form": "Ironi Nahariya 4-1 this season: 10/11 A Hevel Modiin 78-69, 03/11 H Raanana 80-66, 30/10 A Ashkelon 104-109 OT, 22/10 H Elitzur Yavne 71-58, 16/10 A Migdal HaEmek 89-69. Home 2-0 (+14, +13).",
+  "away_form": "Kiryat Gat/Ashkelon 1-3: 10/11 H Hapoel Haifa B 80-79, 30/10 A Hevel Modiin 75-79, 23/10 H Raanana 84-96, 16/10 A Ashkelon 68-88. Away 0-2.",
+  "trends": {
+   "game totals": "Line ~161.5. Nahariya 147,146,213(OT),129,158; Kiryat Gat 159,154,180,156.",
+   "team totals": "Nahariya line 84.5-86.5: 78,80,104(OT),71,89. Kiryat Gat line 74.5-76.5: 80,75,84,68.",
+   "first half": "No period data.",
+   "handicap": "Three common opponents, all favour Nahariya: Hevel Modiin away (Nahariya +9, KG -4), Raanana at home (Nahariya +14, KG -12), Ashkelon away (Nahariya -5 in OT, KG -20). Line -9.5/-11.5.",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "No news found.",
+  "context": "Thursday lean (support Home) STANDS and is strengthened by Tuesday's round: Nahariya won at Hevel Modiin by 9 (where Kiryat Gat lost) while Kiryat Gat needed a one-point home win over Haifa's B team. But the price moved: 219 Home is now 1.16 (below the 1.18 floor). Only regulation-time 1X2 Home @1.20 is in range, which loses on a tie after 40 minutes - Nahariya already had one OT game this season.",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.8011458993,
+    "why": "Three common opponents all favour Nahariya by 13-26 points of swing; Nahariya 2-0 at home by 13+. p0.80. Regulation-time market: an OT game loses it. Second-tier league, no news - fill only."
+   }
+  ],
+  "avoid": [
+   "223 Home -9.5 (only 5 games of evidence)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC",
+   "/home/user/gsley/engine/cache/board_2026-11-14.json"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ },
+ {
+  "eid": "sr:match:73575292",
+  "fx": "CB Zamora v Palencia Baloncesto",
+  "home_form": "CB Zamora last 9: 4W 5L. 08/11 A Bahia San Agustin 92-79, 31/10 H Albacete 90-89, 24/10 A Oviedo 77-81, 20/10 A Palma 77-101, 17/10 H Granada 89-81, 11/10 A Palma 69-84, 03/10 H Estudiantes 73-80. Home: W+1, W+8, L-7, plus W+10 v Palencia on 03/09.",
+  "away_form": "Palencia last 10: 8W 2L. 06/11 H Granada 72-56, 31/10 A Estela 85-73, 24/10 H Ourense 84-80, 21/10 A Estela 78-89, 18/10 A Estudiantes 77-86, 09/10 H Menorca 91-76, 26/09 A Albacete 95-69. Away: W+12, L-11, L-9, W+26.",
+  "trends": {
+   "game totals": "Line ~160.5. Zamora 171,179,158,178,170,153,153,129 (trending up: 170+ in 4 of last 5). Palencia 128,158,164,167,163,167,137,164 (never above 167 in the last eight).",
+   "team totals": "Zamora line 74.5-76.5: home scores 90,89,73,74. Palencia line 84.5-85.5: 72,85,84,78,77,91,70,95.",
+   "first half": "Zamora 1H 51-43, 40-42, 38-43, 48-33; Palencia 1H 29-25, 38-31, 35-45, 39-44, 48-35 (line 78.5-80.5).",
+   "handicap": "Common opponents: Granada - Zamora +8 at home, Palencia +16 at home. Estudiantes - Zamora -7 at home, Palencia -9 away. Albacete - Zamora +1 at home, Palencia +26 away. Line -8.5/-10.5.",
+   "corners": "n/a"
+  },
+  "h2h": "03/09/26 Zamora 74-64 Palencia (pre-season/cup). Nov 2025: Palencia won big in Zamora (led 60-33 at half) when Zamora lacked Ty Roberts and Van Zegeren.",
+  "absences": "No news found for this round (search returned only last season's previews).",
+  "context": "Thursday lean (AVOID 219 Away at p0.80-0.81) STANDS. Nothing new on line-ups. Results since: Zamora won at San Agustin by 13 (two straight wins), Palencia beat Granada by 16. Palencia are 2-2 on the road recently and Zamora have won their last two at home plus the September meeting, so 1.20 away is too short. Totals note: Palencia games sit at 128-167, but Zamora's have climbed to 170+, so Under 173.5 (p0.78) is not clean enough to pick.",
+  "avoid": [
+   "219 Away @1.20 (Palencia 2-2 away; Zamora beat them in September and are in form)",
+   "223 Away -8.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://basketpasion.es/el-palencia-triunfa-ante-el-zamora/",
+   "https://en.wikipedia.org/wiki/Primera_FEB",
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC"
+  ],
+  "veto": false,
+  "veto_reason": "",
+  "picks": []
+ },
+ {
+  "eid": "sr:match:72533330",
+  "fx": "KSK Heist v Hoogstraten VV",
+  "home_form": "KSK Heist last 10 (all comps): 5W 1D 4L. 06/11 A Merelbeke 1-2, 31/10 H Houtvenne 4-0, 24/10 A Zelzate 5-1, 21/10 H Tienen 4-0, 17/10 H Antwerp 0-1 (cup), 11/10 A OH Leuven B 0-0, 03/10 H Cercle B 3-1, 30/09 A Bilzen 1-3. League home last 3: 4-0, 4-0, 3-1 (11-1).",
+  "away_form": "Hoogstraten last 10: 3W 3D 4L, two straight defeats. 08/11 A Tienen 1-3, 31/10 H Bilzen 0-1, 25/10 A Cercle B 4-1, 17/10 H Roeselare 1-1, 10/10 A Zelzate 4-1, 03/10 H Houtvenne 3-0, 30/09 A Harelbeke 3-3. Away: 1-3, 4-1, 4-1, 3-3, 1-2.",
+  "trends": {
+   "game totals": "Heist league games 3,4,6,4,0,4,4 goals (Over 2.5 in 6/7). Hoogstraten 4,1,5,2,5,3,6,6,3,8 (Over 2.5 in 8/10; away 4,5,5,6,3 - 5/5). Only 3.5 is on the board (Over 1.84 / Under 1.83); Over 3.5 hit in 5/7 Heist league games and 4/5 Hoogstraten away games.",
+   "team totals": "Heist scored 4,5,4,3 in their last four league wins; Hoogstraten scored in all five away games (13 goals) and conceded in all five (10).",
+   "first half": "Heist 1H: 0-1, 1-0, 2-1, 2-0, 1-0 (scored first half in 4 of last 5 league games). Hoogstraten 1H away: 0-1, 1-1, 1-1, 2-2.",
+   "handicap": "Common opponents: Tienen - Heist won 4-0 at home, Hoogstraten lost 1-3 away (last week). Houtvenne - Heist 4-0, Hoogstraten 3-0. Zelzate away - Heist 5-1, Hoogstraten 4-1. Cercle B - Heist 3-1, Hoogstraten 4-1. Bilzen - both lost.",
+   "corners": "No data."
+  },
+  "h2h": "Last listed meeting on the Hoogstraten site is Oct 2024; nothing this season.",
+  "absences": "None found - no current preview for this round (search returned only older articles).",
+  "context": "Thursday lean (Home DNB) STANDS, slightly strengthened: Hoogstraten have since lost twice in a row, including 1-3 at the Tienen side Heist beat 4-0. Heist's own last result was a 1-2 defeat at Merelbeke, but their league home record (11-1 over three games) is intact. Hoogstraten score in every away game, so DNB rather than 1X2 remains the right instrument. No line-up news and no sign of postponement.",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.777576,
+    "why": "Common opponent Tienen: Heist 4-0 (H), Hoogstraten 1-3 (A) a week ago; Heist won last three league home games 11-1; Hoogstraten on two straight defeats. Draw voids. p0.78."
+   },
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.84,
+    "p": 0.498285,
+    "why": "Trend only: Hoogstraten away games 4,5,5,6,3 goals and Heist league games 4+ in 5 of 7. p0.50 at 1.84 - value-class leg, not for a core."
+   }
+  ],
+  "avoid": [
+   "1 Home @1.47 (Hoogstraten scored in all five away games, 13 goals)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.rtv.be/ksk-heist-aan-indrukwekkende-reeks-bezig",
+   "https://www.hoogstratenvv.be/116/37194/programma/voorbeschouwing/",
+   "Sportradar gismo feed via engine/sr.py (match_info + team_lastx), fetched 14 Nov 06:50 UTC"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ },
+ {
+  "eid": "sr:match:76413240",
+  "fx": "Deportivo Madryn v CD Maipu",
+  "home_form": "Deportivo Madryn finished Zona A with 60 pts (16W 12D 8L). Last 10: 5W 2D 3L. 31/10 A San Miguel 1-0, 25/10 H San Telmo 4-1, 17/10 A Acassuso 0-0, 11/10 H Chaco For Ever 1-2, 03/10 A Ferro 2-0, 27/09 H Central Norte 0-0, 20/09 H Racing Cba 2-0, 06/09 H Bolivar 3-1. Home last 5: 3W 1D 1L.",
+  "away_form": "Deportivo Maipu finished 6th in Zona B with 52 pts (14W 10D 12L); one defeat in their last nine. 31/10 A Tristan Suarez 0-0, 25/10 H Guemes 3-1, 17/10 A Chacarita 0-1, 11/10 H San Martin SJ 1-1, 05/10 A Chicago 1-0, 27/09 H Temperley 1-0, 12/09 A Almagro 2-2, 29/08 A Colegiales 0-1. Away last 5: 1W 2D 2L, 3 goals scored.",
+  "trends": {
+   "game totals": "Under 3.5 in 9/10 Madryn games and 9/10 Maipu games; Under 2.5 in 7/10 and 8/10. Maipu away: 0,1,1,4,1 goals.",
+   "team totals": "Maipu scored 0 or 1 in 9 of last 10 (away 0,0,1,2,0); board Maipu Over 0.5 is 1.82 / Under 0.5 1.88. Madryn scored 2+ in 4 of 5 home wins.",
+   "first half": "1H Under 1.5 in 6/10 Madryn games (home 1H: 2-0, 1-1, 0-0, 0-0, 1-1) and 9/10 Maipu games (seven were 0-0 or 1-0 at the break).",
+   "handicap": "Madryn home wins by 3, 2, 2; Maipu's away defeats both 0-1.",
+   "corners": "No data."
+  },
+  "h2h": "Primera Nacional: five meetings, FOUR draws and one Maipu win (El Chubut). Federal A era: Madryn 3 wins, Maipu 2.",
+  "absences": "Madryn: El Chubut (13 Nov, 20:16) says Federico Recalde, Luis Silba, Claudio Corvalan and Nazareno Solis are all available again and can start; Los Andes adds that Cosi, Corvalan and Solis trained separately with knocks. Probable XI: Bonnin; Cosi, Giacopuzzi, Corvalan, Diarte; Recalde, Meli, Solis, Marinucci; Peinipil, Silba. Camilo Machado out for the season (Thursday). Maipu: full squad available (Diario Uno); probable XI Galardi; Faggioli, Paulini, Aguero, N. Fernandez; Bonfigli, Enzo Perez, Orosco, Viguet; Saccone, Giacone.",
+  "context": "KNOCKOUT - Reducido first round, single leg at Estadio Abel Sastre, 19:00 local (date/venue consistent across El Chubut, Los Andes, Diario Uno). Madryn hold the sporting advantage: a DRAW after 90 minutes sends them through; Maipu must win. Thursday lean (AVOID Home DNB) is PARTLY OVERTURNED on its weakest leg and stands on the rest: top scorer Silba is back and expected to start (with Recalde, Corvalan, Solis), which removes one of Thursday's three reasons. The other two stand - Madryn do not need to win (a draw only voids DNB), four of five league H2Hs were draws, and Maipu arrive at full strength with one loss in nine. So DNB Home @1.19 is now acceptable as low-return fill, not an anchor. One discrepancy noted, not a veto: Diario Uno names Luis Garcia as Madryn coach, other outlets Leandro Gracian.",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.801295,
+    "why": "Knockout DNB (permitted class): Madryn at home with Silba, Recalde, Corvalan and Solis back; Maipu scored 3 in their last 5 away. A draw voids - and a draw is Madryn's qualifying result, so void risk is high and the return is thin. p0.80. Fill only."
+   }
+  ],
+  "avoid": [
+   "1 Home @1.57 (Madryn advance with a draw; 4 draws in 5 league H2Hs)",
+   "18 Under 3.5 @1.24 p0.78 (below the 0.82 Under gate; Maipu must chase a goal late)",
+   "20 Maipu Over 0.5 @1.82 (scored 0 in 3 of last 5 away)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.elchubut.com.ar/puerto-madryn/2026-11-13-20-16-0-madryn-inicia-el-camino-del-reducido-ante-deportivo-maipu",
+   "https://www.losandes.com.ar/deportes/deportivo-maipu-va-la-clasificacion-deportivo-madryn-horario-transmision-vivo-formaciones-n6014244",
+   "https://www.diariouno.com.ar/ovacion/futbol/deportivo-maipu-tiene-todo-listo-jugar-deportivo-madryn-los-octavos-final-del-reducido-n1615958"
+  ],
+  "veto": false,
+  "veto_reason": ""
+ }
+]

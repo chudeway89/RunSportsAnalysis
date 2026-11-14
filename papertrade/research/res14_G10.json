@@ -1,0 +1,819 @@
+[
+ {
+  "eid": "sr:match:72398810",
+  "fx": "Gornik Leczna v KS Hutnik Krakow SSA",
+  "home_form": "Gornik Leczna: W7 D1 L2 in last 10, four straight wins without conceding (2-0, 3-0, 1-0, 6-0). Home W4 L1 in last 5, scored in 5/5. | SR last 10: 06/11 A Resovia 2-0 (HT 0-0); 31/10 H Znicz Pruszkow 3-0 (HT 2-0); 27/10 H Katowice 1-0 (HT 1-0); 24/10 A Lechia 6-0 (HT 3-0); 17/10 H Stal Stalowa Wola 1-2 (HT 1-0); 11/10 A Tychy 0-3 (HT 0-1); 04/10 H Chojnice 3-1 (HT 2-0); 18/09 A Zawisza 0-0 (HT 0-0); 12/09 H L. Warszawa II 4-1 (HT 0-1); 05/09 A Sokol K. 4-0 (HT 0-0)",
+  "away_form": "Hutnik Krakow: W3 D1 L6, lost 4 of last 5; conceded in 10/10 and 2+ in 7/10. Away W1 L3 in last 4. | SR last 10: 08/11 A Avia Swidnik 1-2 (HT 1-0); 31/10 H Bielsko Biala 3-2 (HT 0-2); 24/10 H Grudziadz 1-2 (HT 0-2); 17/10 H Chojnice 1-2 (HT 1-1); 11/10 A Sokol K. 2-1 (HT 1-1); 03/10 H Tychy 0-2 (HT 0-1); 20/09 A Slask II Wroclaw 0-2 (HT 0-1); 12/09 H Zawisza 1-1 (HT 1-1); 06/09 A Znicz Pruszkow 2-4 (HT 2-1); 29/08 H Stal Stalowa Wola 2-1 (HT 2-1)",
+  "trends": {
+   "game totals": "Leczna O1.5 8/10, O2.5 7/10; Hutnik O1.5 10/10, O2.5 7/10, U3.5 8/10. Leczna home O1.5 4/5.",
+   "team totals": "Leczna scored 2+ in 6/10 (home 3/5); Hutnik conceded 2+ in 7/10 (away 3/4). Hutnik scored in 8/10 but Leczna kept 4 clean sheets in a row.",
+   "first half": "Hutnik: first-half goal in 10/10 matches, 1H O1.5 7/10. Leczna home: first-half goal 5/5, led at HT 4/5.",
+   "handicap": "Leczna wins by 2+ in 6 of 7 wins (2-0, 3-0, 6-0, 3-1, 4-1, 4-0); Hutnik defeats mostly by one goal (5 of 6).",
+   "corners": "No corner markets on the board for this fixture; no data used."
+  },
+  "h2h": "No current-season H2H found in sources (not searched further).",
+  "absences": "No named absences found for either side (TVP/gol24 round previews carry no team news).",
+  "context": "THURSDAY'S LEAN (O1.5 @1.20) STILL STANDS, slightly strengthened by the first-half data: Hutnik have had a first-half goal in all 10 and concede in every match, Leczna are on four straight clean-sheet wins. No new team news in the last 36h, fixture confirmed 12:00 CET on TVP Sport listing and Sportradar; no postponement (only Resovia v Swit was moved in this round). Statistics-based, no named mechanism -> fill, not an anchor.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.800465,
+    "why": "Hutnik O1.5 10/10 and conceded in 10/10; Leczna O1.5 8/10, scored in 5/5 at home."
+   },
+   {
+    "mid": "68",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.29,
+    "p": 0.731832,
+    "why": "First-half goal in 10/10 Hutnik matches and 5/5 Leczna home matches."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.683108,
+    "why": "Leczna W7/10 with four straight clean-sheet wins v a Hutnik side that lost 6 of 10 and concedes every game; draw refunded."
+   }
+  ],
+  "avoid": "Hutnik result-sides/catches (Leczna win by 2+ in 6 of 7 wins, so +1.0/+1.5 Away is a rout-tail catch); Under 2.5; Leczna win to nil (Hutnik score in 8/10).",
+  "confidence": 0.3,
+  "sources": [
+   "https://sport.tvp.pl/96320390/chojniczanka-chojnice-zawisza-bydgoszcz-betclic-2-liga-16-kolejka-transmisja-na-zywo-online-live-stream-14112026",
+   "https://gol24.pl/w-weekend-tylko-2-liga-zawisza-gra-mecz-podwyzszonego-ryzyka/ar/c2-19150845",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72398810"
+  ]
+ },
+ {
+  "eid": "sr:match:72398812",
+  "fx": "Podhale Nowy Targ v Avia Swidnik",
+  "home_form": "Podhale Nowy Targ: W3 D5 L2; four draws in last 5 (2-2, 2-2, 0-0, 0-0). Home unbeaten in 5 (W3 D2). | SR last 10: 07/11 A Znicz Pruszkow 2-2 (HT 1-2); 31/10 H OKS Swit Szczecin 2-2 (HT 0-0); 28/10 A Sokol K. 1-2 (HT 0-2); 25/10 A Tychy 0-0 (HT 0-0); 18/10 H Lechia 0-0 (HT 0-0); 09/10 A Chojnice 2-2 (HT 1-2); 03/10 H Bielsko Biala 2-1 (HT 0-0); 19/09 A L. Warszawa II 0-3 (HT 0-1); 12/09 H Stal Stalowa Wola 5-0 (HT 3-0); 05/09 H Nowy Sacz 2-1 (HT 1-1)",
+  "away_form": "Avia Swidnik: W4 D2 L4, alternating results; away W1 D2 L2. Scored 2+ in only 4/10. | SR last 10: 08/11 H Hutnik Krakow 2-1 (HT 0-1); 02/11 A Chojnice 0-1 (HT 0-0); 29/10 H Radomiak Radom 2-1 (HT 0-1); 25/10 H Znicz Pruszkow 0-2 (HT 0-1); 18/10 A Slask II Wroclaw 2-1 (HT 0-0); 10/10 H OKS Swit Szczecin 1-0 (HT 1-0); 03/10 A Resovia 1-1 (HT 0-1); 18/09 A Sokol K. 2-2 (HT 0-2); 13/09 H Bielsko Biala 0-1 (HT 0-1); 06/09 A Tychy 0-1 (HT 0-0)",
+  "trends": {
+   "game totals": "Podhale O1.5 8/10 but two 0-0 in last 5; Avia O1.5 6/10, O2.5 4/10, U3.5 9/10.",
+   "team totals": "Podhale scored in 7/10 (home 4/5); Avia conceded in 9/10 but 2+ only 2/10. Avia scored in 6/10.",
+   "first half": "Avia scored a first-half goal in 1/10 and trailed at HT in 6/10; Avia away 1H goal in only 2/5 matches. Podhale home 1H goal 2/5.",
+   "handicap": "Avia results are one-goal games: 8 of last 10 decided by <=1 goal. Podhale drew 5 of 10.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "No current-season H2H found.",
+  "absences": "No named absences found.",
+  "context": "THURSDAY'S LEAN (AVOID O1.5 @1.19, now 1.21) STILL STANDS: nothing new in 36h; 0-0 risk is real (Podhale 0-0 twice in last 5, Avia U3.5 9/10 and slow starters). Fixture confirmed 12:00 CET (PZPN+ listing, Sportradar). No mechanism for any side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 (two recent 0-0s, Avia low totals); first-half overs (Avia 1H goal for in 1/10); Podhale result-sides (5 draws in 10).",
+  "confidence": 0.18,
+  "sources": [
+   "https://sport.tvp.pl/96320390/chojniczanka-chojnice-zawisza-bydgoszcz-betclic-2-liga-16-kolejka-transmisja-na-zywo-online-live-stream-14112026",
+   "https://gol24.pl/w-weekend-tylko-2-liga-zawisza-gra-mecz-podwyzszonego-ryzyka/ar/c2-19150845",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72398812"
+  ]
+ },
+ {
+  "eid": "sr:match:72516170",
+  "fx": "Zks Kluczevia Stargard v MKS Viktoria Wrzesnia",
+  "home_form": "Kluczevia Stargard: W5 D2 L3; home W4 D1 in last 5 with open games (4-3, 1-0, 2-2, 3-2, 2-1). | SR last 10: 07/11 A B. Koszalin 0-0 (HT 0-0); 04/11 H Poznan II 4-3 (HT 1-3); 31/10 H Kss Kotwica Kornik 1-0 (HT 0-0); 24/10 H Flota Swinoujscie 2-2 (HT 2-0); 17/10 H Wiked Luzino 3-2 (HT 2-1); 09/10 A Polonia Sroda Wielkopolska 0-2 (HT 0-1); 27/09 A KKS Kalisz 0-1 (HT 0-1); 19/09 A Swiecie 2-1 (HT 1-0); 12/09 H Torun 2-1 (HT 1-0); 05/09 A MKS Notec Czarnkow 1-3 (HT 0-1)",
+  "away_form": "Viktoria Wrzesnia: W1 D8 L1 in last 10. Away last 4 all draws: 0-0, 0-0, 0-0, 1-1. | SR last 10: 07/11 H Swiecie 3-3 (HT 2-0); 31/10 A Torun 0-0 (HT 0-0); 24/10 H MKS Notec Czarnkow 0-1 (HT 0-1); 17/10 A Unia Swarzedz 0-0 (HT 0-0); 10/10 H Grom Nowy Staw 1-0 (HT 0-0); 03/10 A Gedania Gdansk 0-0 (HT 0-0); 26/09 H KS Lipno Steszew 1-1 (HT 1-0); 19/09 A Blekitni Stargard 1-1 (HT 0-0); 12/09 H Chemik Bydgoszcz 2-2 (HT 1-1); 05/09 H KKS Kalisz 3-3 (HT 2-2)",
+  "trends": {
+   "game totals": "Kluczevia home O1.5 4/5, O2.5 4/5. Viktoria O1.5 5/10, O2.5 3/10; away O1.5 1/4.",
+   "team totals": "Kluczevia scored in 5/5 at home, 2+ in 4/5. Viktoria away: scored in 1/4, conceded in 1/4.",
+   "first half": "Viktoria away: NO first-half goal in any of the last 4 away games (all 0-0 at HT). Kluczevia home 1H goal 4/5.",
+   "handicap": "Viktoria: 8 draws in 10 -> any handicap on the favourite is exposed.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "Per footballpark preview, Viktoria won the previous meeting 2-1 (16 May 2026, last season).",
+  "absences": "No team news found. Viktoria club site only announces the fixture and asks for points.",
+  "context": "THURSDAY'S LEAN (AVOID O1.5 @1.18) STILL STANDS and is strengthened by the half-time data (Viktoria's four away games all 0-0 at HT, three finished 0-0). Regional/amateur league. Kick-off note: Viktoria club site, Kluczevia schedule and Sportradar all say Sat 14 Nov 13:00 CET; an Interia listing shows 17:00 - same date and venue, so not vetoed, but treat the time as unverified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 @1.18 and Kluczevia Over 1.5 @1.55 (Viktoria away games are 0-0s); Home -0.5/1X2 (Viktoria draw 8 of 10). No Unders either: amateur league.",
+  "confidence": 0.15,
+  "sources": [
+   "https://victoria.wrzesnia.pl/aktualnosci-1.html",
+   "https://kluczevia.pl/games",
+   "https://sport.interia.pl/pilka-nozna/druzyna-kluczevia-stargard,spti,6345",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72516170"
+  ]
+ },
+ {
+  "eid": "sr:match:72517394",
+  "fx": "Siarka Tarnobrzeg v KSZO Ostrowiec Swietokrzyski",
+  "home_form": "Siarka Tarnobrzeg: W5 D1 L4; home W4 L1 in last 5 (3-0, 1-0, 4-0, 1-2, 2-0), conceded in only 1/5 at home. | SR last 10: 07/11 A Wisla II Krakow 0-1 (HT 0-0); 31/10 H Naprzod Jedrzejow 3-0; 28/10 H Lech Poznan 1-0 (HT 0-0); 24/10 A Moravia Morawica 3-2 (HT 1-1); 17/10 H Pogon Sokol Lubaczow 4-0 (HT 2-0); 09/10 A Wislanie Skawina 1-4 (HT 0-3); 03/10 H Korona II 1-2 (HT 0-0); 26/09 A Star Starachowice 1-4 (HT 0-2); 19/09 H Podlasie Biala Podlaska 2-0 (HT 1-0); 12/09 A Chelm 1-1 (HT 0-0)",
+  "away_form": "KSZO Ostrowiec: W4 D3 L3; lost last two (0-1, 1-2). Away W2 D1 L1. | SR last 10: 07/11 H Wieczysta II Krakow 0-1 (HT 0-0); 31/10 A Wisloka Debica 1-2 (HT 0-0); 24/10 H Sokol Kolbuszowa Dolna 2-1 (HT 1-0); 17/10 A JKS 1909 Jaroslaw 3-1 (HT 0-1); 10/10 H AKS 1947 Busko Zdroj 5-0 (HT 3-0); 03/10 A Czarni Polaniec 1-1 (HT 0-0); 27/09 H Hetman Zamosc 1-2 (HT 0-0); 19/09 H Chelm 0-0 (HT 0-0); 12/09 A Wisla II Krakow 1-0 (HT 1-0); 05/09 H Naprzod Jedrzejow 2-2 (HT 1-1)",
+  "trends": {
+   "game totals": "Siarka O1.5 8/10, O2.5 6/10; KSZO O1.5 7/10, O2.5 6/10. Each has a 1-0/0-1 in the last two rounds.",
+   "team totals": "Siarka scored in 9/10 (home 5/5); KSZO scored in 8/10 (away 4/4) but 2+ only once away.",
+   "first half": "Low first-half scoring: Siarka 1H goal 5/9, KSZO 5/10; KSZO away 1H O1.5 0/4.",
+   "handicap": "House makes KSZO the away favourite (2.05) although Siarka are W4 L1 at home with four clean sheets - no evidence for the away side.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "None found.",
+  "absences": "No team news found (search returned nothing for this fixture). One Siarka result (31 Oct 3-0 v Naprzod) has no half-time score in Sportradar - possibly an awarded result.",
+  "context": "THURSDAY'S LEAN (neutral on O1.5 @1.19, now 1.20) STILL STANDS: no new information, no postponement notice found, Sportradar shows 13:00 CET not started. Regional league, statistics only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "KSZO away result-sides (DNB Away 1.52): Siarka home record W4 L1 with 4 clean sheets argues against the away favourite. Over 1.5 is fill only.",
+  "confidence": 0.15,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14155.html",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_III_liga",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72517394"
+  ]
+ },
+ {
+  "eid": "sr:match:73293336",
+  "fx": "FC Arzignano Valchiampo v Alcione Milano",
+  "home_form": "Arzignano: W5 D2 L3; home W3 D1 L1 with O1.5 5/5 (2-0, 2-1, 2-2, 2-1, 1-2). Lost 2-3 at Union Brescia last time. | SR last 10: 06/11 A Union Brescia 2-3 (HT 1-1); 01/11 A Lumezzane 1-1 (HT 1-1); 25/10 H Novara 2-0 (HT 1-0); 19/10 A Cittadella 0-1 (HT 0-0); 10/10 H Juventus Next Gen 2-1 (HT 1-0); 03/10 H Crema 2-2 (HT 2-0); 27/09 A Carpi 3-0 (HT 2-0); 20/09 H Renate 2-1 (HT 0-0); 17/09 A Albinoleffe 2-1 (HT 0-1); 13/09 H Desenzano 1-2 (HT 0-0)",
+  "away_form": "Alcione Milano: W3 D4 L3; away unbeaten in 5 (W2 D3) with BTTS 5/5 (3-1, 1-1, 1-1, 2-2, 3-2). Lost 0-1 at home to Lumezzane last time. | SR last 10: 06/11 H Lumezzane 0-1 (HT 0-0); 31/10 A Giana Erminio 3-1 (HT 3-1); 24/10 H Carpi 1-2 (HT 1-1); 18/10 H Desenzano 4-1 (HT 3-0); 11/10 A Lecco 1-1 (HT 1-0); 04/10 H Trento 2-2 (HT 1-1); 27/09 A Albinoleffe 1-1 (HT 0-0); 20/09 H Union Brescia 0-4 (HT 0-3); 17/09 A Vercelli 2-2 (HT 0-1); 13/09 A Folgore Caratese 3-2 (HT 1-0)",
+  "trends": {
+   "game totals": "Arzignano O1.5 9/10, O2.5 7/10; Alcione O1.5 9/10, O2.5 7/10. Home/away splits both 5/5 O1.5.",
+   "team totals": "Arzignano scored in 9/10 (2+ in 7/10; home 2+ 4/5). Alcione conceded in 10/10; Alcione scored in 8/10 (away 5/5).",
+   "first half": "1H goal: Arzignano 7/10, Alcione 8/10; but 1H O1.5 only 1/5 in each side home/away split. Arzignano never trailed at HT at home (0/5).",
+   "handicap": "Alcione away unbeaten in 5 (3 draws) -> no handicap on Arzignano; margins of one goal dominate.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "None found this season.",
+  "absences": "No team news found for either side (Sky/TMW round previews list only schedule and referees).",
+  "context": "THURSDAY'S LEAN (O1.5 @1.23, now 1.24 p0.773) STILL STANDS: combined 18/20 O1.5 and both venue splits 5/5; nothing new in 36h, fixture confirmed 14:30 CET on Sky Sport 255. Statistics-based (no named mechanism) so fill-grade, but the strongest of the Serie C overs.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.772836,
+    "why": "Combined 18/20 O1.5; Arzignano home 5/5 and Alcione away 5/5 (BTTS 5/5 away)."
+   },
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.19,
+    "p": 0.799924981,
+    "why": "Arzignano scored in 9/10 and 5/5 at home; Alcione have conceded in all of their last 10."
+   }
+  ],
+  "avoid": "Arzignano result-sides/-0.5 (Alcione unbeaten away in 5); Under 2.5; first-half Over 1.5.",
+  "confidence": 0.27,
+  "sources": [
+   "https://sport.sky.it/calcio/serie-c/2026/11/13/serie-c-partite-sky-giornata-14",
+   "https://www.tuttomercatoweb.com/serie-c/serie-c-arbitri-14a-giornata-dorillo-salernitana-catania-vingo-ravenna-2292739",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73293336"
+  ]
+ },
+ {
+  "eid": "sr:match:73294092",
+  "fx": "Reggiana 1919 v US Livorno 1915",
+  "home_form": "Reggiana: W4 D1 L5; home W3 L1 in last 4 (2-0, 2-0, 0-1, 1-0), conceded in only 1/4 at home. Lost 3-4 at Atalanta U23 last week. | SR last 10: 07/11 A Atalanta 3-4 (HT 2-3); 30/10 H Sambenedettese 2-0 (HT 0-0); 25/10 A Grosseto 0-2 (HT 0-1); 17/10 H Sassari 2-0 (HT 2-0); 10/10 A Pineto 0-2 (HT 0-2); 04/10 H Spezia 0-1 (HT 0-0); 27/09 A Perugia 0-1 (HT 0-1); 20/09 H Latina 1-0 (HT 0-0); 16/09 A Pesaro 4-1 (HT 3-0); 12/09 A Guidonia Montecelio 1-1 (HT 1-1)",
+  "away_form": "Livorno: W3 D4 L3; away winless in 5 (D3 L2) but scored in 5/5 (1-1, 1-2, 1-2, 1-1, 1-1). | SR last 10: 08/11 A Campobasso 1-1 (HT 1-1); 01/11 H Ostiamare 1-0 (HT 0-0); 28/10 A Spezia 1-2 (HT 1-0); 24/10 A Sambenedettese 1-2 (HT 0-2); 16/10 H Grosseto 4-4 (HT 2-2); 11/10 A Forli 1-1 (HT 1-0); 03/10 H Pescara 0-1 (HT 0-0); 26/09 H Pianese 3-2 (HT 2-0); 21/09 A Guidonia Montecelio 1-1 (HT 1-0); 16/09 H Vado 3-2 (HT 1-2)",
+  "trends": {
+   "game totals": "Reggiana O2.5 only 2/10, home O1.5 2/4 and O2.5 0/4. Livorno away O1.5 5/5, O2.5 2/5, U3.5 5/5.",
+   "team totals": "Livorno away: scored exactly one goal in 5/5 (never 2+). Reggiana home: scored in 3/4, conceded 2+ in 0/4.",
+   "first half": "Livorno scored a first-half goal in 4/5 away and led at HT in 3/5, yet won none. Reggiana home 1H goal in only 1/4.",
+   "handicap": "Reggiana home wins by 1-2 goals; Livorno away defeats by exactly one goal (1-2, 1-2).",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "None found this season (Reggiana newly in Girone B).",
+  "absences": "Reggiana: Francesco Vallarelli muscle problem (stopped at Caravaggio), expected out for a couple of games (Agimeg). Livorno: Samuele Regazzetti (surgery) and Nicola Falasco still unavailable (Agimeg/LivornoToday). Probable shapes: Reggiana 4-3-1-2, Livorno 4-2-3-1 with Gabbiani (three goals in a row, per LivornoToday) favoured up front.",
+  "context": "THURSDAY'S LEAN (O1.5 @1.27, weak fill) STILL STANDS, NOT strengthened: fresh previews confirm the fixture (Sat 14:30 CET, Mapei Stadium) and add absences on both sides (Vallarelli; Regazzetti, Falasco) that do not change the picture. Reggiana home games stay tight (O2.5 0/4), Livorno always score one away. The better-supported angle is Reggiana not losing: Livorno are winless away in 5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.26,
+    "p": 0.758981,
+    "why": "Livorno winless away in 5 (D3 L2) and never score 2+ away; Reggiana W3 L1 at home with 3 clean sheets. Livorno missing Regazzetti and Falasco."
+   }
+  ],
+  "avoid": "Over 2.5 (Reggiana home 0/4); Livorno result-sides; Reggiana -1 handicaps (home wins are narrow). Livorno Under 1.5 @1.34 fits the trend (0/5 away with 2+) but p0.707 is below the Under bar.",
+  "confidence": 0.22,
+  "sources": [
+   "https://www.livornotoday.it/sport/calcio/reggiana-livorno-probabili-formazioni-seriec.html",
+   "https://www.agimeg.it/reggiana-livorno-serie-c-2026-pronostico/",
+   "https://sport.sky.it/calcio/serie-c/2026/11/13/serie-c-partite-sky-giornata-14",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73294092"
+  ]
+ },
+ {
+  "eid": "sr:match:73294828",
+  "fx": "S.S.D. Casarano Calcio v AZ Picerno",
+  "home_form": "Casarano: W3 D3 L4; home W2 D2 L1 (2-2, 0-0, 0-1, 1-0, 3-1). Lost 0-1 at Casertana last week. | SR last 10: 07/11 A Casertana 0-1 (HT 0-1); 02/11 H Foggia 2-2 (HT 1-1); 26/10 A Crotone 1-0 (HT 0-0); 18/10 A Cavese 2-5 (HT 2-2); 11/10 H Salernitana 0-0 (HT 0-0); 03/10 A Sorrento 0-2 (HT 0-1); 27/09 H Monopoli 0-1 (HT 0-0); 19/09 A Savoia 1-1 (HT 0-0); 15/09 H Cerignola 1-0 (HT 1-0); 11/09 H Barletta 3-1 (HT 1-0)",
+  "away_form": "Picerno: W3 D1 L6; away L4 of last 5 (2-1 W at Cavese; 0-1, 2-4, 1-2, 0-1 defeats). Drew 1-1 v Bari on Monday 9 Nov (short week). | SR last 10: 09/11 H Bari 1-1 (HT 0-0); 31/10 A Cavese 2-1 (HT 2-0); 26/10 H Salernitana 3-0 (HT 1-0); 18/10 A Barletta 0-1 (HT 0-0); 12/10 H Cosenza 1-2 (HT 1-1); 04/10 A Potenza 2-4 (HT 1-2); 26/09 H Cerignola 2-1 (HT 2-0); 19/09 A Altamura 1-2 (HT 0-0); 15/09 H Catania 2-4 (HT 0-3); 12/09 A Sorrento 0-1 (HT 0-1)",
+  "trends": {
+   "game totals": "Casarano O1.5 only 5/10, O2.5 3/10; home O1.5 2/5. Picerno O1.5 8/10, O2.5 7/10; away 3/5.",
+   "team totals": "Casarano scored in 6/10 (home 3/5). Picerno conceded in 9/10 (away 5/5) and scored in 8/10 (away 3/5).",
+   "first half": "Casarano 1H O1.5 2/10; never trailed at HT at home (0/5). Picerno 1H goal 7/10.",
+   "handicap": "Picerno away defeats by one goal in 3 of 4; no margin edge.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "None found this season.",
+  "absences": "Casarano without Chirico (bet365 news preview, 12 Nov). Thursday's \"double suspension\" report for Casarano remains unconfirmed by name. Probable shapes: Casarano 3-5-2, Picerno 4-1-4-1.",
+  "context": "THURSDAY'S LEAN (AVOID O1.5 @1.23) IS STRENGTHENED: Casarano's main attacking outlet Chirico is confirmed out, on top of a side whose matches finish under 1.5 goals half the time. Fixture confirmed Sat 14:30 CET. Picerno played on Monday night (9 Nov v Bari), so they are on a five-day turnaround with an away record of four defeats in five.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 @1.23 and Casarano Over 0.5 @1.19 (Chirico out, Casarano blank in 4/10); Casarano -0.5; Picerno result-sides (L4 of 5 away).",
+  "confidence": 0.2,
+  "sources": [
+   "https://news.bet365.it/it-it/article/cp-casarano-picerno-probabili-formazioni-orario-e-dove-vederla-in-tv-e-streaming/2026111215510514681",
+   "https://sport.sky.it/calcio/serie-c/2026/11/13/serie-c-partite-sky-giornata-14",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73294828"
+  ]
+ },
+ {
+  "eid": "sr:match:72594668",
+  "fx": "Rohda Raalte v VV Katwijk",
+  "home_form": "Rohda Raalte: W1 D1 L8, bottom side; lost last 5 (1-4, 0-3, 0-1, 0-1, 2-8). Home L4 of 4. | SR last 10: 07/11 A Koninklijke 1-4 (HT 1-1); 29/10 A Rkav Volendam 0-3 (HT 0-2); 24/10 H Hardenberg 0-1 (HT 0-0); 17/10 A Rijnsburgse 0-1 (HT 0-0); 10/10 H Rkav Volendam 2-8 (HT 2-6); 03/10 H GVVV 1-3 (HT 1-1); 26/09 A Kloetinge 3-3 (HT 2-0); 23/09 A SV Togb 6-4 (HT 0-2); 19/09 H IJsselmeervogels 0-1 (HT 0-0); 12/09 A Quick Boys 1-3 (HT 1-1)",
+  "away_form": "Katwijk: W3 D1 L6; heavy defeats (0-6 Quick Boys, 1-5 Kozakken Boys, 1-3 GVVV last week). Away W2 D1 L2. | SR last 10: 07/11 H GVVV 1-3 (HT 1-2); 24/10 A Kloetinge 3-1 (HT 2-0); 17/10 H IJsselmeervogels 1-2 (HT 0-1); 10/10 A Quick Boys 0-6 (HT 0-3); 03/10 H Kozakken Boys 1-5 (HT 0-2); 26/09 A Amsterdamsche FC 1-0 (HT 0-0); 19/09 H Treffers Groesbeek 1-2 (HT 1-2); 12/09 A Jong Sparta 2-2 (HT 0-2); 05/09 H Almere 3-2 (HT 2-2); 02/09 A SV Togb 2-3 (HT 0-1)",
+  "trends": {
+   "game totals": "Rohda O2.5 7/10 but last three home/away games 0-1, 0-1, 0-3; Katwijk O2.5 9/10, U3.5 3/10.",
+   "team totals": "Rohda conceded in 10/10 (2+ in 7/10) but scored only once in the last 4. Katwijk scored in 9/10, 2+ in 4/10; conceded 2+ in 8/10.",
+   "first half": "1H O1.5: Rohda 7/10, Katwijk 7/10. Katwijk trailed at HT in 7/10 (!), led in 1/10.",
+   "handicap": "Katwijk have won by 2+ only once in 10 (3-1 Kloetinge); -1/-1.5 Away not supported.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "None found.",
+  "absences": "No team news found (search returned nothing for this fixture).",
+  "context": "THURSDAY'S LEAN (AVOID Away 1X2, now 1.45 p0.654) STILL STANDS: nothing new in 36h. The away price rests only on Rohda's weakness; Katwijk themselves lost 6 of 10, concede 2+ in 8/10 and trail at half-time in 7/10. Amateur league (Tweede Divisie): no result-side, no Unders.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Katwijk 1X2/-1 handicaps; Katwijk Over 1.5 team total (2+ in only 4/10); any Under. Over 2.5 @1.38 fits both sides but p0.69 mid-band in an amateur league with Rohda scoring once in four.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:72594668&productId=3",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72594668"
+  ]
+ },
+ {
+  "eid": "sr:match:72202734",
+  "fx": "Livingston FC v Greenock Morton FC",
+  "home_form": "Livingston: W5 D3 L2 overall but home W1 D1 L2 in last 4 league/home games (1-0 Arbroath, 1-2 Partick, 1-2 Ayr, 2-2 Inverness). Drew 1-1 at Inverness last week. | SR last 10: 07/11 A Inverness 1-1 (HT 0-0); 03/11 A Spartans 2-0 (HT 0-0); 30/10 A Stenhousemuir 3-0 (HT 2-0); 24/10 H Arbroath 1-0 (HT 0-0); 17/10 A Dunfermline 0-0 (HT 0-0); 10/10 H Partick Thistle 1-2 (HT 1-1); 03/10 H Ayr 1-2 (HT 1-2); 25/09 A Raith Rovers 2-0 (HT 0-0); 19/09 H Inverness 2-2 (HT 1-0); 11/09 A Greenock 4-1 (HT 2-0)",
+  "away_form": "Greenock Morton: W4 L6; second-bottom but won 3-2 at leaders Partick (31 Oct) and beat Stenhousemuir 4-3 last week. Away W2 L2. | SR last 10: 07/11 H Stenhousemuir 4-3 (HT 2-2); 03/11 H Kelty 0-1 (HT 0-1); 31/10 A Partick Thistle 3-2 (HT 1-2); 17/10 H Queen's Park 2-0 (HT 2-0); 10/10 A Arbroath 2-1 (HT 1-0); 03/10 H Raith Rovers 1-2 (HT 0-1); 25/09 A Inverness 0-2 (HT 0-1); 19/09 H Dunfermline 0-1 (HT 0-0); 11/09 H Livingston 1-4 (HT 0-2); 05/09 A Queen's Park 1-2 (HT 1-1)",
+  "trends": {
+   "game totals": "Livingston O1.5 8/10, O2.5 5/10, U3.5 8/10. Morton O1.5 8/10, O2.5 6/10; away O1.5 4/4.",
+   "team totals": "Livingston scored in 9/10 (home 4/4) but 2+ at home only 1/4. Morton conceded in 9/10 (2+ in 6/10) and scored in 7/10 (away 3/4).",
+   "first half": "Morton: first-half goal in 9/10 matches, trailed at HT 5/10. Livingston 1H goal 5/10 (home 3/4).",
+   "handicap": "Livingston home results are one-goal games or worse; -1/-1.5 Home not supported despite the 4-1 at Cappielow in September.",
+   "corners": "Livingston team corners line is high (O5.5 @1.40, p0.674); no corner data pulled - not used."
+  },
+  "h2h": "Morton 1-4 Livingston (11 Sep 2026, HT 0-2).",
+  "absences": "No team news found for either side. Scotland U21 call-ups in this window (confirmed for Inverness) may affect others, unverified here.",
+  "context": "THURSDAY'S LEAN (AVOID Home 1X2, now 1.29 p0.746) STILL STANDS: no new information in 36h. Livingston's home league form (W1 D1 L2) does not support a 75% price and Morton arrive off wins at the leaders and a 4-3. The September 4-1 is the only argument for the hosts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Livingston 1X2 @1.29 and -1.0/-1.5; Morton catches of +2.5 are fine by form but the favourite is p>=0.60 (rout class) - skip the fixture.",
+  "confidence": 0.18,
+  "sources": [
+   "https://www.inverness-courier.co.uk/sport/head-coach-confident-inverness-can-sting-partick-thistle-450035/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72202734"
+  ]
+ },
+ {
+  "eid": "sr:match:72202736",
+  "fx": "Partick Thistle FC v Inverness Caledonian Thistle FC",
+  "home_form": "Partick Thistle: league leaders; W6 D2 L2. Home W2 D1 L1 in last 4 (2-3 Morton, 3-0, 3-0, 0-0). The 2-3 v Morton on 31 Oct was their first home league defeat since April 2025 (Press & Journal). | SR last 10: 07/11 A Queen's Park 1-0 (HT 0-0); 03/11 A Edinburgh City 3-0 (HT 2-0); 31/10 H Greenock 2-3 (HT 2-1); 24/10 H Stenhousemuir 3-0 (HT 2-0); 20/10 A Dunfermline 1-1 (HT 1-1); 16/10 A Ayr 1-0 (HT 1-0); 10/10 A Livingston 2-1 (HT 1-1); 03/10 H Arbroath 3-0 (HT 2-0); 19/09 H Raith Rovers 0-0 (HT 0-0); 15/09 A Stenhousemuir 0-1 (HT 0-0)",
+  "away_form": "Inverness CT: W6 D2 L2, scored in 10/10. Away W2 D1 L2 (1-5 Dunfermline, 2-0 Raith, 1-2 Queen's Park, 2-2 Livingston, 3-1 Ayr). | SR last 10: 07/11 H Livingston 1-1 (HT 0-0); 03/11 H Montrose 1-0 (HT 0-0); 31/10 A Dunfermline 1-5 (HT 1-0); 24/10 A Raith Rovers 2-0 (HT 2-0); 17/10 H Arbroath 2-0 (HT 2-0); 13/10 A Queen's Park 1-2 (HT 1-2); 10/10 H Stenhousemuir 2-0 (HT 2-0); 25/09 H Greenock 2-0 (HT 1-0); 19/09 A Livingston 2-2 (HT 0-1); 12/09 A Ayr 3-1 (HT 2-1)",
+  "trends": {
+   "game totals": "Partick O1.5 6/10, U3.5 9/10. Inverness O1.5 9/10; away O1.5 5/5, O2.5 4/5.",
+   "team totals": "Partick scored in 8/10, conceded in only 4/10. Inverness scored in 10/10 (away 5/5), conceded 2+ away in 3/5.",
+   "first half": "Partick led at HT in 5/10 and have not trailed at HT in any of the last 10; home 1H goal 3/4. Inverness 1H goal 8/10, led at HT 6/10.",
+   "handicap": "Partick wins are by 1 or 3 goals; Inverness away defeats 1-5, 1-2.",
+   "corners": "Partick team corners O4.5 @1.44 (p0.652); no corner data pulled - not used."
+  },
+  "h2h": "None found this season between the sides.",
+  "absences": "Inverness: wing-back Calum Macleod and central midfielder Alfie Stewart OUT (Scotland U21 duty) - confirmed by Inverness Courier on Friday 13 Nov. Partick: nothing reported.",
+  "context": "THURSDAY'S LEAN (AVOID/weak on O1.5 @1.26) STILL STANDS for the total, but the fixture gains a named mechanism on the result side: Inverness's two U21 absentees are CONFIRMED out (Friday), Partick are leaders with one home league defeat since April 2025. Kellacher says he is confident of a result, and Inverness score every week, so the supported instrument is Partick not losing, not Partick winning.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.25,
+    "p": 0.76633,
+    "why": "League leaders, one home league defeat since April 2025, never behind at HT in last 10; Inverness without Macleod and Stewart (U21 duty, confirmed)."
+   }
+  ],
+  "avoid": "Over 1.5 as an anchor (Partick 4/10 under 1.5); Partick -1; Inverness result-sides; Unders (Inverness away O2.5 4/5).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.inverness-courier.co.uk/sport/head-coach-confident-inverness-can-sting-partick-thistle-450035/",
+   "https://pressandjournal.co.uk/fp/sport/football/inverness-caledonian-thistle/7149779/caley-thistle-scott-kellacher-press-conference-november-12",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72202736"
+  ]
+ },
+ {
+  "eid": "sr:match:72044810",
+  "fx": "NAC Breda v FC Emmen",
+  "home_form": "NAC Breda: unbeaten in 9 (W6 D3) since the 2-3 v Utrecht on 11 Sep. Home W2 D1 L1 in last 4. Scored in 9/10, 2+ in 7/10. | SR last 10: 06/11 A Dordrecht 0-0 (HT 0-0); 02/11 A Jong Eindhoven 2-0 (HT 0-0); 28/10 A Watergraafsmeer 3-1 (HT 2-1); 23/10 H Heracles Almelo 1-1 (HT 1-1); 16/10 A Helmond 2-0 (HT 1-0); 09/10 H Maastricht 1-0 (HT 1-0); 03/10 A Vitesse 2-2 (HT 2-1); 26/09 H FC Eindhoven 4-2 (HT 1-0); 20/09 A De Graafschap 2-1 (HT 2-1); 11/09 H Utrecht 2-3 (HT 2-1)",
+  "away_form": "FC Emmen: W5 D1 L4 but lost the last two at home 0-2 (Maastricht) and 0-5 (Den Bosch). Away W3 D1 L1 with three clean-sheet wins (2-0 Groningen, 2-0 Vitesse, 3-0 Dordrecht). | SR last 10: 08/11 H Maastricht 0-2 (HT 0-1); 01/11 H Den Bosch 0-5 (HT 0-2); 29/10 A Groningen 2-0 (HT 1-0); 23/10 A Vitesse 2-0 (HT 0-0); 17/10 H Almere 2-1 (HT 2-0); 09/10 A Dordrecht 3-0 (HT 2-0); 03/10 A Waalwijk 1-1 (HT 0-1); 26/09 H Oss 1-0 (HT 1-0); 18/09 A FC Eindhoven 1-3 (HT 0-1); 11/09 H De Graafschap 1-2 (HT 1-1)",
+  "trends": {
+   "game totals": "NAC O1.5 8/10, O2.5 5/10. Emmen O1.5 9/10, O2.5 5/10, U3.5 8/10.",
+   "team totals": "NAC scored 2+ in 7/10 (home 2/4). Emmen conceded 7 in their last two; away conceded in only 2/5. Emmen scored in 5/5 away but blanked in the last two.",
+   "first half": "NAC: first-half goal in 8/10, scored in the first half in 8/10, led at HT in 7/10 and never trailed at HT. Emmen: first-half goal in 9/10 matches.",
+   "handicap": "NAC wins by 2+ in 4 of 6; Emmen last two defeats by 2 and 5.",
+   "corners": "No corner markets within range on the board."
+  },
+  "h2h": "None this season before today.",
+  "absences": "Emmen (club preview, fcemmen.nl): defender Yanis Dede-Lhomme OUT (ankle, not fit for the bench); David Voute and Peter Quispel not yet available; Freddy Quispel back but not fit to start; Luca Everink and Sybrand Veldhuis available again. NAC: no injuries or suspensions reported (bet-experts); both expected in 4-3-3 (bet365 news).",
+  "context": "THURSDAY'S LEAN (DNB Home @1.23, now 1.21 p0.79, 'no named mechanism, lean skip') IS STRENGTHENED: Thursday had the sides level and Emmen strong away; since then the club's own preview confirms defensive absences (Dede-Lhomme, Voute) and Emmen's last two results are 0-2 and 0-5 at home, while NAC are unbeaten in nine and lead at half-time in 7 of 10. Price has shortened with the news. Fixture confirmed Sat 16:30 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7904896519,
+    "why": "NAC unbeaten in 9 and never behind at HT in 10; Emmen lost last two 0-2, 0-5 and are without defenders Dede-Lhomme and Voute (club preview). Draw refunded."
+   },
+   {
+    "mid": "68",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.23,
+    "p": 0.7811238076,
+    "why": "NAC scored a first-half goal in 8/10 and Emmen matches had a first-half goal in 9/10."
+   }
+  ],
+  "avoid": "NAC -1.5 (Emmen kept three away clean sheets this month); Emmen result-sides; Under 2.5.",
+  "confidence": 0.28,
+  "sources": [
+   "https://fcemmen.nl/voorbeschouwing-nacemm/",
+   "https://news.bet365.nl/nl-nl/article/nac-fc-emmen-waar-te-zien-mogelijke-opstellingen-tips-en-teamnieuws/2026111212443520451",
+   "https://www.bet-experts.nl/nieuws/nac-breda-fc-emmen-voorspelling-wedtips",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72044810"
+  ]
+ },
+ {
+  "eid": "sr:match:73293338",
+  "fx": "AC Carpi v AS Giana Erminio",
+  "home_form": "Carpi: 15th; W3 D3 L4. Last five: 0-0 (A Folgore Caratese), 0-5 (H Renate), 7-5 (H Ravenna), 2-1, 3-1. Home O2.5 5/5. | SR last 10: 08/11 A Folgore Caratese 0-0 (HT 0-0); 01/11 H Renate 0-5 (HT 0-3); 28/10 H Ravenna 7-5 (HT 0-2); 24/10 A Alcione Milano 2-1 (HT 1-1); 17/10 H Lumezzane 3-1 (HT 0-1); 10/10 A Crema 1-2 (HT 0-2); 03/10 A Vercelli 0-2 (HT 0-1); 27/09 H Arzignano 0-3 (HT 0-2); 20/09 A Novara 2-2 (HT 1-1); 17/09 H Ospitaletto 2-2 (HT 2-1)",
+  "away_form": "Giana Erminio: 16th; W2 D6 L2. Last two 0-0 (H Cittadella) and 1-3 (H Alcione). Away W1 D3 L1. | SR last 10: 08/11 H Cittadella 0-0 (HT 0-0); 31/10 H Alcione Milano 1-3 (HT 1-3); 25/10 A Desenzano 2-1 (HT 1-0); 19/10 H Union Brescia 2-1 (HT 1-0); 11/10 A Renate 2-2 (HT 0-1); 04/10 A Treviso 0-0 (HT 0-0); 26/09 H Vercelli 1-1 (HT 0-0); 20/09 A Folgore Caratese 1-1 (HT 0-1); 17/09 H Trento 2-2 (HT 1-2); 13/09 A Lecco 0-1 (HT 0-1)",
+  "trends": {
+   "game totals": "Carpi O1.5 9/10, O2.5 8/10; home 5/5 O2.5. Giana O1.5 7/10, O2.5 5/10; away O1.5 3/5 (two 0-0/0-1 type results).",
+   "team totals": "Carpi conceded in 9/10 and 2+ in 7/10 (home 4/5); Carpi scored in 6/10. Giana scored in 7/10 (away 3/5), 2+ in 4/10.",
+   "first half": "Carpi matches: first-half goal 9/10, 1H O1.5 7/10, Carpi trailed at HT in 6/10 (4/5 at home). Giana away 1H O1.5 0/5.",
+   "handicap": "Giana draw 6 of 10; no side supported.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "None found this season.",
+  "absences": "No official injury/suspension or probable-XI information published for either side as of Saturday morning (goal.com preview says updates pending).",
+  "context": "THURSDAY'S LEAN (O1.5 @1.27, now 1.26 p0.761, fill only) STILL STANDS, unchanged: no team news in 36h. Carpi's home games are wild (5/5 O2.5) but both sides' latest outings were 0-0 and Giana draw six in ten. Neighbours in the table (15th v 16th) - cagey risk. Fixture confirmed Sat 17:30 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Carpi result-sides (trail at HT 4/5 at home); Under 2.5; Over 1.5 as an anchor (mid-band p, both off 0-0s).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.goal.com/it/notizie/guarda-ac-carpi-contro-giana-erminio-in-diretta-oggi-chi-trasmette-la-partita-in-tv-e-in-live-streaming/bltd8521ac01c8ba233",
+   "https://sport.sky.it/calcio/serie-c/2026/11/13/serie-c-partite-sky-giornata-14",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73293338"
+  ]
+ },
+ {
+  "eid": "sr:match:73293344",
+  "fx": "AC Lumezzane v AC Trento",
+  "home_form": "Lumezzane: W3 D4 L3; home W1 D3 L1 (1-1, 3-2, 1-2, 0-0, 2-2). Won 1-0 at Alcione last week. | SR last 10: 06/11 A Alcione Milano 1-0 (HT 0-0); 01/11 H Arzignano 1-1 (HT 1-1); 25/10 A Crema 1-2 (HT 1-0); 17/10 A Carpi 1-3 (HT 1-0); 13/10 A Juventus Next Gen 0-0 (HT 0-0); 10/10 H Albinoleffe 3-2 (HT 2-1); 26/09 H Folgore Caratese 1-2 (HT 1-2); 21/09 A Dolomiti Bellunesi 2-1 (HT 1-1); 17/09 H Novara 0-0 (HT 0-0); 13/09 H Renate 2-2 (HT 1-1)",
+  "away_form": "Trento: 3rd on 27 pts, unbeaten all season (trentotoday); last 10 W5 D5. Away W1 D4 (0-0 Ospitaletto, 3-0 Dolomiti, 2-2 Alcione, 0-0 Crema, 2-2 Giana). | SR last 10: 07/11 H Albinoleffe 2-1 (HT 1-1); 31/10 A Ospitaletto 0-0 (HT 0-0); 25/10 H Juventus Next Gen 2-1 (HT 0-1); 19/10 A Dolomiti Bellunesi 3-0 (HT 2-0); 11/10 H Folgore Caratese 1-0 (HT 0-0); 04/10 A Alcione Milano 2-2 (HT 1-1); 26/09 A Crema 0-0 (HT 0-0); 21/09 H Vercelli 4-0 (HT 2-0); 17/09 A Giana Erminio 2-2 (HT 2-1); 13/09 H Union Brescia 0-0 (HT 0-0)",
+  "trends": {
+   "game totals": "Lumezzane O1.5 7/10; Trento O1.5 6/10 with three 0-0s in 10; Trento away O1.5 3/5.",
+   "team totals": "Trento conceded in only 4/10 (away 2/5). Lumezzane scored in 8/10 but 2+ in 3/10. Trento scored 2+ in 6/10 or else usually blank.",
+   "first half": "Lumezzane home: first-half goal 4/5 and 1H O1.5 4/5. Trento away: never behind at HT (0/5).",
+   "handicap": "Trento unbeaten in the last 10 and all season; four of five away games drawn -> +0.5 holds, -0.5 does not.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "Trento v Lumezzane met on 28 Feb 2026 (last season); result not retrieved.",
+  "absences": "No official absences reported. Probable XIs (trentotoday): Lumezzane 3-4-2-1 Andrenacci; Ndiaye, Deratti, Boffelli; Diodato, Rolando, Paghera, Baroncioni; Rocca, D'Agostino; Monachello. Trento 4-3-3 Barlocco; Fiamozzi, Frison, Kassama, Maffei; Aucelli, Fossati, Benedetti; Accornero, Molina, Ladisa.",
+  "context": "THURSDAY'S LEAN (AVOID O1.5 @1.26) STILL STANDS: Trento's away games keep finishing 0-0 or drawn. New since Thursday: probable XIs show both at full strength and local press confirms Trento are unbeaten since the start of the season - that supports Trento not losing rather than any total. Fixture confirmed Sat 17:30 CET at the Saleri.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.25,
+    "p": 0.7669933188,
+    "why": "Trento unbeaten all season (3rd, 27 pts), conceded in only 4/10 and never behind at HT away; probable XI at full strength."
+   }
+  ],
+  "avoid": "Over 1.5 (Trento three 0-0s in 10); Trento -0.5/1X2 (four away draws in five); Lumezzane result-sides.",
+  "confidence": 0.23,
+  "sources": [
+   "https://www.trentotoday.it/sport/calcio/lumezzane-trento-formazioni-dove-vederla.html",
+   "https://www.calciomercato.com/notizie/streaming-online-tv-dove-guardare-lumezzane-v-trento/blt6b65bfc4fc4e1d7a",
+   "https://sport.sky.it/calcio/serie-c/2026/11/13/serie-c-partite-sky-giornata-14",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73293344"
+  ]
+ },
+ {
+  "eid": "sr:match:73294080",
+  "fx": "AS Gubbio v US Grosseto",
+  "home_form": "Gubbio: W0 D2 L8 in last 10; scored in only 3/10. Home D1 L3 (0-0 Pesaro, 0-2 Atalanta U23, 1-3 Perugia, 0-2 Ostiamare). | SR last 10: 07/11 A Forli 0-1 (HT 0-1); 01/11 H Pesaro 0-0 (HT 0-0); 27/10 A Altamura 4-5 (HT 0-0); 23/10 A Pineto 0-1 (HT 0-1); 18/10 H Atalanta 0-2 (HT 0-0); 10/10 A Spezia 0-2 (HT 0-2); 03/10 H Perugia 1-3 (HT 1-1); 27/09 A Ravenna 0-2 (HT 0-2); 20/09 H Ostiamare 0-2 (HT 0-2); 16/09 A Pescara 1-1 (HT 1-0)",
+  "away_form": "Grosseto: 23 pts (W6 D5 L2 per DerbyDerbyDerby); last 10 W4 D4 L2. Away unbeaten in 5 (W2 D3): 2-2 Vado, 4-4 Livorno, 3-2 Pesaro, 4-0 Pineto, 0-0 Pianese. Lost 1-3 at home to Pescara last week. | SR last 10: 08/11 H Pescara 1-3 (HT 0-0); 31/10 A Vado 2-2 (HT 1-2); 25/10 H Reggiana 2-0 (HT 1-0); 16/10 A Livorno 4-4 (HT 2-2); 10/10 A Pesaro 3-2 (HT 2-1); 03/10 H Sambenedettese 1-3 (HT 0-2); 26/09 A Pineto 4-0 (HT 3-0); 20/09 H Perugia 2-0 (HT 1-0); 16/09 H Campobasso 2-2 (HT 2-0); 12/09 A Pianese 0-0 (HT 0-0)",
+  "trends": {
+   "game totals": "Gubbio O1.5 7/10 but O2.5 only 2/10. Grosseto O1.5 9/10, O2.5 7/10; away O2.5 4/5.",
+   "team totals": "Gubbio conceded in 9/10 and 2+ in 6/10 (home 3/4); scored at home in 1/4. Grosseto scored in 9/10 and 2+ in 7/10 (away 4/5).",
+   "first half": "Gubbio trailed at HT in 5/10 and scored a first-half goal in 2/10. Grosseto scored in the first half in 7/10 (away 4/5), led at HT 5/10.",
+   "handicap": "Six of Gubbio's eight defeats were by 2 goals (0-2 x5, 1-3); Grosseto unbeaten away.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "None found this season.",
+  "absences": "Gubbio \"decimated by injuries\" per Grosseto Sport's eve-of-match piece (13 Nov); names not retrieved. Probable Gubbio 3-4-2-1: Marson; Baroncelli, Ferrini, Fazzi; Podda, Zorzetto, Rosaia, Meconi; Spina, Ghirardello; Minta. Probable Grosseto 4-2-3-1: Marcu; Pitti, Brenna, Ampollini, Mannelli; Andreoli, Damiani; Fiorini, Fabri, Gaddini; Mastroianni.",
+  "context": "THURSDAY'S LEAN (O1.5 @1.26, moderate) IS PARTLY OVERTURNED: the over depended on both sides and Gubbio do not score (3/10, 1/4 at home) - now also reported as injury-hit on the eve of the game. The evidence points one way: Grosseto scoring and Grosseto not losing. Replace the game total with Grosseto-side instruments. Fixture confirmed Sat 17:30 CET at the Barbetti.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.21,
+    "p": 0.790647,
+    "why": "Grosseto scored in 9/10 (2+ in 7/10); Gubbio conceded in 9/10 and are injury-hit (Grosseto Sport, 13 Nov)."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.35,
+    "p": 0.70794,
+    "why": "Gubbio winless in 10 (L8), injury-hit, one home goal in four; Grosseto unbeaten away in 5."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.56,
+    "p": 0.600949,
+    "why": "Same mechanism with the draw refunded: winless, injury-hit Gubbio v a Grosseto side on 23 pts and unbeaten away."
+   }
+  ],
+  "avoid": "Game Over 1.5/2.5 (needs Gubbio goals); Gubbio Over 0.5; Grosseto -1 (three away draws in five).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.grossetosport.com/2026/11/13/vigilia-di-gubbio-grosseto-ecco-la-situazione-tra-gli-umbri/",
+   "https://www.derbyderbyderby.it/streaming/gubbio-grosseto-dove-guardarla-canale-tv-e-diretta-streaming/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73294080"
+  ]
+ },
+ {
+  "eid": "sr:match:72044812",
+  "fx": "Almere City FC v Helmond Sport",
+  "home_form": "Almere City: W7 L3 in last 10, three straight away wins (3-1, 2-1, 2-0). Home W3 L1 in last 4 (2-3 Roda, 3-0, 1-0, 1-0). Scored in 10/10. | SR last 10: 06/11 A Jong AZ Alkmaar 3-1 (HT 1-0); 30/10 A Waalwijk 2-1 (HT 1-0); 27/10 A Telstar 2-0 (HT 0-0); 23/10 H Roda 2-3 (HT 1-0); 17/10 A Emmen 1-2 (HT 0-2); 09/10 H FC Eindhoven 3-0 (HT 2-0); 03/10 H Volendam 1-0 (HT 1-0); 25/09 A Dordrecht 2-3 (HT 1-1); 18/09 H Heracles Almelo 1-0 (HT 0-0); 11/09 A Maastricht 4-0 (HT 0-0)",
+  "away_form": "Helmond Sport: W2 D1 L7; conceded in 10/10 and 2+ in 9/10 (13 conceded in last four: 2-3, 3-2, 3-4, 4-5). Away L4 of 4. | SR last 10: 06/11 H Volendam 2-3 (HT 0-1); 30/10 H FC Eindhoven 3-2 (HT 0-2); 27/10 H Willem II 3-4 (HT 1-3); 23/10 A Jong AZ Alkmaar 4-5 (HT 2-2); 16/10 H Breda 0-2 (HT 0-1); 09/10 A Oss 1-3 (HT 1-2); 02/10 H Heracles Almelo 2-2 (HT 1-2); 26/09 A Maastricht 0-2 (HT 0-0); 18/09 A Den Bosch 1-2 (HT 1-2); 11/09 H Jong Eindhoven 3-1 (HT 1-1)",
+  "trends": {
+   "game totals": "Helmond O1.5 10/10, O2.5 8/10, U3.5 only 3/10. Almere O2.5 7/10; Almere home O2.5 2/4.",
+   "team totals": "Almere scored 2+ in 7/10; Helmond conceded 2+ in 9/10 and in 4/4 away. Helmond scored in 8/10, 2+ in 6/10.",
+   "first half": "Helmond: first-half goal in 9/10, 1H O1.5 7/10, NEVER led at HT (0/10), trailed 7/10. Almere led at HT 5/10 (home 3/4).",
+   "handicap": "Helmond defeats by one goal in 4 of 7; Almere home wins 1-0, 1-0, 3-0 -> -1.5 not secure.",
+   "corners": "No corner markets within range on the board."
+  },
+  "h2h": "None this season before today.",
+  "absences": "No team news found for either side (search returned nothing for this fixture).",
+  "context": "THURSDAY'S LEAN (DNB Home @1.19, now 1.18 p0.814, fill) STILL STANDS: no news either way in 36h. The half-time and team-total splits add support: Helmond concede 2+ nearly every week and have not led at half-time in ten. Still statistics-only (no named absentee) -> fill, not anchor. Sportradar shows 20:00 CET, not postponed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.35,
+    "p": 0.707185253,
+    "why": "Helmond conceded 2+ in 9/10 (4/4 away); Almere scored in 10/10 and 2+ in 7/10."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.814315,
+    "why": "Almere W7/10 v a Helmond side that lost 7/10 and all four away; draw refunded."
+   },
+   {
+    "mid": "68",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.8030999652,
+    "why": "First-half goal in 9/10 Helmond matches; Almere led at HT in 3 of 4 at home."
+   }
+  ],
+  "avoid": "Almere -1.5 (home wins are narrow, Helmond score in 8/10); Helmond clean-sheet/Under markets; Almere win to nil.",
+  "confidence": 0.27,
+  "sources": [
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:72044812&productId=3",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72044812"
+  ]
+ },
+ {
+  "eid": "sr:match:68932768",
+  "fx": "Northern Ireland v Ukraine",
+  "home_form": "Northern Ireland: lead Group B2 with 8 pts from 4 (W2 D2, no goals conceded): 0-0 Georgia (H), 3-0 Ukraine (A), 0-0 Hungary (H), 1-0 Georgia (A). Last four home games: 0-0, 0-0, 1-0, 1-0. | SR last 10: 05/10 H Georgia 0-0 (HT 0-0); 02/10 A Ukraine 3-0 (HT 2-0); 28/09 H Hungary 0-0 (HT 0-0); 25/09 A Georgia 1-0 (HT 0-0); 08/06 A France 1-3 (HT 0-1); 04/06 H Guinea 1-0 (HT 1-0); 31/03 A Wales 1-1 (HT 1-0); 26/03 A Italy 0-2 (HT 0-0); 17/11 H Luxembourg 1-0 (HT 1-0); 14/11 A Slovakia 0-1 (HT 0-0)",
+  "away_form": "Ukraine: third on 4 pts; lost last two at home 1-2 Hungary and 0-3 N.Ireland, 0-0 at Georgia, 1-0 at Hungary. Away W2 D1 L1 in last 4. | SR last 10: 05/10 H Hungary 1-2 (HT 0-0); 02/10 H Northern Ireland 0-3 (HT 0-2); 28/09 A Georgia 0-0 (HT 0-0); 25/09 A Hungary 1-0 (HT 1-0); 31/05 A Poland 2-0 (HT 2-0); 31/03 H Albania 1-0 (HT 0-0); 26/03 H Sweden 1-3 (HT 0-1); 16/11 H Iceland 2-0 (HT 0-0); 13/11 A France 0-4 (HT 0-0); 13/10 H Azerbaijan 2-1 (HT 1-1)",
+  "trends": {
+   "game totals": "N.Ireland O1.5 only 4/10, U3.5 9/10; home last four all <=1 goal. Ukraine U3.5 8/10, O2.5 5/10.",
+   "team totals": "N.Ireland scored 2+ once in 10 (the 3-0 in the reverse); conceded in 4/10 and 0/4 at home. Ukraine scored in 7/10, blank in two of the last three.",
+   "first half": "N.Ireland 1H O1.5 in 1/10 and 0/4 at home; half of their games are 0-0 at HT. Ukraine 1H O1.5 3/10.",
+   "handicap": "N.Ireland home results are 0-0 or 1-0; Ukraine must win, so the draw suits only the hosts.",
+   "corners": "Board lines: total O/U 8.5 about even, N.Ireland O2.5 @1.19; no corner history pulled - not used."
+  },
+  "h2h": "Ukraine 0-3 Northern Ireland (2 Oct 2026, HT 0-2).",
+  "absences": "NEW since Thursday. Northern Ireland: Conor Bradley, Daniel Ballard, Eoin Toal, Ali McCann and Ceadach O'Neill all OUT (Sports Mole/ESPN). Ukraine: Viktor Tsygankov, Oleksandr Zinchenko and Oleksandr Zubkov OUT injured. Mykolenko (Thursday's doubt) is in the predicted XI. Predicted N.Ireland: P Charles; Atcheson, McConville, Brown; Hume, S Charles, Galbraith, Devenny; Kelly, Price; Donley. Ukraine: Trubin; Krupskyi, Zabarnyi, Matvienko, Mykolenko + others.",
+  "context": "THURSDAY'S LEAN (U3.5 @1.20) STILL STANDS and is modestly STRENGTHENED on the Ukraine side: Ukraine lose two wide attackers (Tsygankov, Zubkov) plus Zinchenko, and N.Ireland's four home games in the run are 0-0, 0-0, 1-0, 1-0. The counter-risk is new too: N.Ireland are missing three defenders (Ballard, Toal, Bradley) and Ukraine must win, so the last half hour may open up. U3.5 has shortened to 1.17 (below the 1.18 floor), so the listed instruments are Under 3 (exactly 3 goals = void) and the first-half Under 1.5. Windsor Park, 19:45 GMT confirmed by ESPN/Sports Mole.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3",
+    "desc": "Under 3",
+    "odds": 1.23,
+    "p": 0.8052776397,
+    "why": "N.Ireland home games 0-0, 0-0, 1-0, 1-0 and U3.5 9/10; Ukraine without Tsygankov, Zubkov, Zinchenko. Exactly 3 goals is a void, 4+ needed to lose."
+   },
+   {
+    "mid": "68",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.27,
+    "p": 0.766737,
+    "why": "N.Ireland first halves had 2+ goals in 1/10 and 0/4 at home; five of their last 10 were 0-0 at HT."
+   }
+  ],
+  "avoid": "Ukraine result-sides (three attackers out, lost the reverse 0-3); N.Ireland 1X2 (three defenders out); Over 1.5; BTTS Yes.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/northern-ireland/uefa-nations-league/preview/n-ireland-vs-ukraine-prediction-team-news-lineups_609024.html",
+   "https://www.espn.com/soccer/story/_/id/50459966/northern-ireland-vs-ukraine-tv-channel-how-watch-uk-kickoff-live-stream-team-news-referee-predicted-lineups",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/68932768"
+  ]
+ },
+ {
+  "eid": "sr:match:68932052",
+  "fx": "Portugal v Denmark",
+  "home_form": "Portugal: 4 wins from 4 in Group A4 (2-1 Norway, 4-2 at Denmark, 2-1 at Norway, 1-0 Wales); need one point to win the group. Home W5 D1 L1 in last 7. | SR last 10: 04/10 H Norway 2-1 (HT 1-1); 01/10 A Denmark 4-2 (HT 2-1); 27/09 A Norway 2-1 (HT 1-0); 24/09 H Wales 1-0 (HT 1-0); 06/07 H Spain 0-1 (HT 0-0); 03/07 H Croatia 2-1 (HT 0-0); 28/06 A Colombia 0-0 (HT 0-0); 23/06 H Uzbekistan 5-0 (HT 3-0); 17/06 H Congo DR 1-1 (HT 1-1); 10/06 H Nigeria 2-1 (HT 1-1)",
+  "away_form": "Denmark: W2 L2 in the group (1-0 at Wales, 2-4 Portugal, 2-0 Wales, 2-3 at Norway). Away L3 of last 4 (2-3, 3-5, 2-4) but scored in all four. | SR last 10: 04/10 A Wales 1-0 (HT 0-0); 01/10 H Portugal 2-4 (HT 1-2); 27/09 H Wales 2-0 (HT 0-0); 24/09 A Norway 2-3 (HT 1-2); 03/06 H Congo DR 0-0 (HT 0-0); 31/03 A Czechia 3-5 (HT 0-1); 26/03 H North Macedonia 4-0 (HT 0-0); 18/11 A Scotland 2-4 (HT 0-1); 15/11 H Belarus 2-2 (HT 1-0); 12/10 H Greece 3-1 (HT 3-0)",
+  "trends": {
+   "game totals": "Portugal O2.5 6/10. Denmark O2.5 7/10 and U3.5 only 3/10; Denmark away O2.5 3/4.",
+   "team totals": "Denmark scored in 9/10 and 2+ in 8/10 (away 2+ in 3/4). Portugal conceded in 7/10 (home 5/7) but 2+ only once. Portugal scored 2+ in 6/10; Denmark conceded 2+ in 3/4 away.",
+   "first half": "Portugal scored in the first half in 7/10 and never trailed at HT; Denmark trailed at HT in 3/4 away.",
+   "handicap": "Portugal wins mostly by one goal (2-1 x4, 1-0); -1 not supported despite the 4-2.",
+   "corners": "Board: Portugal O4.5 @1.37 (p0.694), Denmark O2.5 @1.50; no corner history pulled - not used."
+  },
+  "h2h": "Denmark 2-4 Portugal (1 Oct 2026, HT 1-2).",
+  "absences": "Portugal: Joao Cancelo and Francisco Conceicao SUSPENDED; Nuno Mendes injured; Rafael Leao (hamstring) out of the squad; Cristiano Ronaldo not in the squad (retired, per Sports Mole/101GG). Uncapped Flavio Nazinho set to debut at left-back; probable XI Costa; Dalot, Dias, Veiga, Nazinho; Vitinha, Fernandes, J Neves; Felix, Ramos (+Neto). Denmark: Andreas Christensen and Patrick Dorgu OUT; six players one booking from a ban. Probable: Hermansen; Kristensen, Andersen, Provstgaard, Maehle; Hjulmand, Hojbjerg; Isaksen, Damsgaard, Daramy; Hojlund.",
+  "context": "THURSDAY'S LEAN (DNB Home @1.22, 'acceptable fill') STILL STANDS but is not the best instrument: the 36h news confirms Portugal's makeshift full-backs (Cancelo suspended, Mendes out, debutant Nazinho at left-back) and adds Conceicao's suspension, while Portugal need only a draw. That mechanism points to Denmark scoring rather than to Portugal's margin; Denmark have scored in 9 of 10 and in every away game. Braga, 19:45 UTC confirmed. Heavyweight tie: no result-side recommended.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.48,
+    "p": 0.6494148473,
+    "why": "Denmark scored in 9/10 (all four away); Portugal without both first-choice full-backs (Cancelo suspended, Mendes injured) with a debutant at left-back, and conceded in 5/7 at home."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.51,
+    "p": 0.631471,
+    "why": "Denmark games O2.5 7/10 (away 3/4), reverse fixture 4-2; Portugal need only a point but field a patched defence."
+   }
+  ],
+  "avoid": "Portugal -1/-1.5 (wins by one goal); Under 2.5/3.5 (Denmark U3.5 3/10); Portugal 1X2/DNB as an anchor (big-nation tie, draw suits Portugal).",
+  "confidence": 0.27,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/portugal/uefa-nations-league/preview/portugal-vs-denmark-prediction-team-news-lineups_608969.html",
+   "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams",
+   "https://www.rotowire.com/soccer/article/portugal-vs-denmark-prediction-predicted-lineups-team-news-146286",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/68932052"
+  ]
+ },
+ {
+  "eid": "sr:match:68932626",
+  "fx": "Romania v Poland",
+  "home_form": "Romania: bottom of Group B4, lost all four (0-1 Sweden H, 0-6 Poland A, 2-4 Bosnia H, 1-2 Sweden A); L7 of last 10, conceded in 10/10. | SR last 10: 05/10 H Sweden 0-1 (HT 0-1); 02/10 A Poland 0-6 (HT 0-1); 28/09 H Bosnia and Herzegovina 2-4 (HT 1-3); 25/09 A Sweden 1-2 (HT 1-2); 06/06 H Wales 2-1 (HT 0-0); 02/06 A Georgia 1-1 (HT 0-0); 31/03 A Slovakia 0-2 (HT 0-1); 26/03 A Turkiye 0-1 (HT 0-0); 18/11 H San Marino 7-1 (HT 3-1); 15/11 A Bosnia and Herzegovina 1-3 (HT 1-0)",
+  "away_form": "Poland: 4 pts (6-0 Romania, 0-0 Bosnia, 1-3 at Sweden, 0-1 at Bosnia). Away L3 of last 4. | SR last 10: 05/10 A Bosnia and Herzegovina 0-1 (HT 0-0); 02/10 H Romania 6-0 (HT 1-0); 28/09 A Sweden 1-3 (HT 1-1); 25/09 H Bosnia and Herzegovina 0-0 (HT 0-0); 03/06 H Nigeria 2-2 (HT 1-1); 31/05 H Ukraine 0-2 (HT 0-2); 31/03 A Sweden 2-3 (HT 1-2); 26/03 H Albania 2-1 (HT 0-1); 17/11 A Malta 3-2 (HT 1-1); 14/11 H Netherlands 1-1 (HT 1-0)",
+  "trends": {
+   "game totals": "Romania O1.5 8/10, O2.5 6/10; Poland O1.5 8/10, O2.5 6/10; Poland away O2.5 3/4.",
+   "team totals": "Romania conceded in 10/10, 2+ in 5/10. Poland scored in 7/10 (2+ in 5/10) but blanked in both games v Bosnia. Romania scored in 6/10 (home 3/4).",
+   "first half": "First-half goal in 7/10 Romania and 8/10 Poland matches; Romania trailed at HT in 5/10.",
+   "handicap": "Romania lost by 2+ in 4 of 7 defeats; Poland lost three of four away -> no side supported.",
+   "corners": "Board: Poland O3.5 @1.30, Romania O2.5 @1.36; no corner history pulled - not used."
+  },
+  "h2h": "Poland 6-0 Romania (2 Oct 2026, HT 1-0); Poland have won the last four meetings (ratingbet).",
+  "absences": "No confirmed injury news for this match. Lewandowski is named to start in every predicted XI (Goal, ratingbet, dailysports). Predicted line-ups disagree (Romania: Stanciu/Man/Tanase v Hagi/Man/Birligea; Poland GK Bulka v Dragowski) - nothing confirmed. The only fitness notes (Lewandowski hamstring, Moder doubt; Kaminski adductor) are from the October window and stale.",
+  "context": "THURSDAY'S LEAN (O1.5 @1.24 mildly supported; AVOID U4.5) STILL STANDS, unchanged: no new team news in 36h, price unchanged. Romania have conceded in every one of their last 10 and must win to avoid finishing bottom, which keeps the game open. Arena Nationala, Bucharest, 19:45 UTC confirmed (Goal). Statistics-led, no named mechanism -> fill.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.780460646,
+    "why": "Both sides O1.5 8/10; Romania conceded in 10/10 (18 goals in 4 group games incl. 6 and 4)."
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.18,
+    "p": 0.824038,
+    "why": "Romania have conceded in all of their last 10; Lewandowski expected to start."
+   }
+  ],
+  "avoid": "Under 4.5/Under 4 (Romania conceded 6 and 4 in this group); Poland 1X2/-0.5 (lost 3 of 4 away); Romania result-sides.",
+  "confidence": 0.24,
+  "sources": [
+   "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-romania-v-poland/blta5cc2717739a592b",
+   "https://ratingbet.com/predictions/romania-vs-poland-prediction-teams-form-analysis-possible-lineups-on-november-14-2026/",
+   "https://dailysports.net/predictions/can-romania-recover-from-their-six-goal-humiliation-romania-vs-poland-prediction-14112026/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/68932626"
+  ]
+ },
+ {
+  "eid": "sr:match:68932628",
+  "fx": "Sweden v Bosnia & Herzegovina",
+  "home_form": "Sweden: lead Group B4 with 10 pts from 4 (1-0 at Romania, 1-1 at Bosnia, 3-1 Poland, 2-1 Romania). Last four home games all 3+ goals with both teams scoring (3-1, 2-1, 5-1, 2-2). | SR last 10: 05/10 A Romania 1-0 (HT 1-0); 02/10 A Bosnia and Herzegovina 1-1 (HT 0-0); 28/09 H Poland 3-1 (HT 1-1); 25/09 H Romania 2-1 (HT 2-1); 30/06 A France 0-3 (HT 0-1); 26/06 A Japan 1-1 (HT 0-0); 20/06 A Netherlands 1-5 (HT 0-2); 15/06 H Tunisia 5-1 (HT 2-1); 04/06 H Greece 2-2 (HT 0-1); 01/06 A Norway 1-3 (HT 0-3)",
+  "away_form": "Bosnia & Herzegovina: 2nd on 8 pts, unbeaten in the group (1-0 Poland, 1-1 Sweden, 4-2 at Romania, 0-0 at Poland). Away W1 D3 L2 in last 6. | SR last 10: 05/10 H Poland 1-0 (HT 0-0); 02/10 H Sweden 1-1 (HT 0-0); 28/09 A Romania 4-2 (HT 3-1); 25/09 A Poland 0-0 (HT 0-0); 02/07 A USA 0-2 (HT 0-1); 24/06 H Qatar 3-1 (HT 2-1); 18/06 A Switzerland 1-4 (HT 0-0); 12/06 A Canada 1-1 (HT 1-0); 06/06 A Panama 1-1 (HT 1-1); 29/05 H North Macedonia 0-0 (HT 0-0)",
+  "trends": {
+   "game totals": "Sweden O1.5 9/10, O2.5 7/10; home O2.5 4/4. Bosnia O2.5 only 3/10, U3.5 7/10.",
+   "team totals": "Sweden scored in 9/10, 2+ in 4/4 at home. Bosnia scored in 7/10 (away 4/6), conceded in 5/6 away.",
+   "first half": "Sweden home: first-half goal 4/4, 1H O1.5 3/4. Bosnia 1H goal 5/10.",
+   "handicap": "Bosnia unbeaten in four group games incl. the 1-1 reverse; Sweden need only a draw to stay top.",
+   "corners": "Board: Sweden O3.5 @1.25, O4.5 @1.56; no corner history pulled - not used."
+  },
+  "h2h": "Bosnia 1-1 Sweden (2 Oct 2026, Zenica, HT 0-0).",
+  "absences": "Sweden: Alexander Isak and Dejan Kulusevski back in the squad after lay-offs; Potter has all 23 available (Khel Now). Isak's START is not confirmed - one predicted XI (Johansson; Smith, Lindelof, Gudmundsson; Svensson, Karlstrom, Ayari, Bernhardsson; Zeneli, Nanasi, Gyokeres) leaves him out. Gyokeres has scored in both recent Nations League games. Bosnia: Tarik Muharemovic SUSPENDED; rest of the 25-man squad fit.",
+  "context": "THURSDAY'S LEAN (O1.5 @1.18 p0.819, 'Isak+Gyokeres confirmed fit') IS WEAKENED: the price has drifted against it to 1.25 (p0.772), Isak is only back from a lay-off and absent from at least one predicted XI, and this is now a first-v-second decider in which a draw keeps Sweden top and Bosnia's games are low (O2.5 3/10). Drift against a researched leg -> drop it rather than take the bigger price. Venue is named Strawberry Arena in some sources and Friends Arena in others - same stadium in Solna (renamed), not a conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 @1.25 (drifted, Isak start unconfirmed); Sweden -1 (Bosnia unbeaten in group, drew the reverse); Sweden 1X2 as an anchor in a top-of-group decider.",
+  "confidence": 0.2,
+  "sources": [
+   "https://khelnow.com/football/sweden-vs-bosnia-herzegovina-preview-uefa-nations-league-202611",
+   "https://footballwhispers.com/blog/sweden-vs-bosnia-and-herzegovina-prediction-14-11-2026/",
+   "https://www.freetips.com/football/sweden-vs-bosnia-and-herzegovina-predictions-20261112-0041/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/68932628"
+  ]
+ },
+ {
+  "eid": "sr:match:76618012",
+  "fx": "CD Universitario Penonome v Herrera FC",
+  "home_form": "Universitario (Penonome): 17 pts, out of the West play-off places; W3 D3 L4. Home W2 D2 L1 (3-2 Veraguas last week, 0-1 CAI, 2-1, 1-1, 0-0). | SR last 10: 07/11 H Veraguas United 3-2 (HT 2-0); 31/10 A Cocle FC 2-0 (HT 1-0); 25/10 H CAI de La Chorrera 0-1 (HT 0-0); 17/10 A San Francisco 0-1 (HT 0-1); 04/10 A Plaza Amador 1-2 (HT 1-0); 27/09 H Umecit 2-1 (HT 0-0); 20/09 A Alianza Panama 0-0 (HT 0-0); 13/09 A Tauro 0-1 (HT 0-1); 06/09 H San Miguelito 1-1 (HT 0-1); 30/08 H Arabe Unido 0-0 (HT 0-0)",
+  "away_form": "Herrera FC: 11 pts; W2 L8, lost last three 1-5, 2-4, 1-3. Away W1 L4. | SR last 10: 07/11 H CAI de La Chorrera 1-5 (HT 0-4); 01/11 A Veraguas United 2-4 (HT 2-2); 25/10 H San Francisco 1-3 (HT 1-1); 18/10 A Cocle FC 3-2 (HT 1-2); 04/10 H Alianza Panama 1-0 (HT 1-0); 26/09 A Arabe Unido 1-2 (HT 0-1); 20/09 H Tauro 0-6 (HT 0-2); 13/09 H Umecit 1-3 (HT 1-3); 06/09 A Plaza Amador 1-4 (HT 1-2); 31/08 A San Miguelito 1-3 (HT 0-2)",
+  "trends": {
+   "game totals": "Universitario O1.5 only 5/10, O2.5 3/10, U3.5 9/10. Herrera O1.5 9/10, O2.5 9/10, U3.5 2/10; Herrera away O2.5 5/5.",
+   "team totals": "Herrera scored in 9/10 (away 5/5) and conceded 2+ in 9/10. Universitario conceded in 7/10 (home 4/5), scored in only 5/10.",
+   "first half": "Herrera: first-half goal in 10/10 matches, 1H O1.5 8/10, trailed at HT 7/10. Universitario 1H O1.5 1/10.",
+   "handicap": "Herrera lost by 2+ in 6 of 8 defeats; Universitario wins are by one goal.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "None retrieved.",
+  "absences": "No team news found.",
+  "context": "THURSDAY'S LEAN (O1.5 @1.19 weak, lean skip) STILL STANDS and the line is gone: the board no longer lists O1.5 for this game (lowest total is 2.5, Over @1.52). TVN table before the round: Universitario 17 pts and Herrera 11 are both outside the three West qualifying places (San Francisco 29, Veraguas 24, CAI 23), so this looks like a final-round DEAD RUBBER for both - unpredictable selection and effort. Thin market (294 outcomes).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Universitario 1X2/DNB @1.19 (dead rubber, scored in only 5/10); Over 2.5 (Universitario O2.5 3/10 v Herrera 9/10 - the two profiles cancel); Herrera Over 0.5 @1.45 fits Herrera's 9/10 but is not backed by any mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tvn-2.com/tvmax/lpf/lpf-torneo-apertura-2026-tabla-de-posiciones-panorama-jornada-16-partidos-futbol-panama_1_2270544.html",
+   "https://www.tvn-2.com/tvmax/lpf/lpf-previa-torneo-apertura-2026-jornada-16-partidos-panama-futbol_1_2270900.html",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/76618012"
+  ]
+ },
+ {
+  "eid": "sr:match:76618016",
+  "fx": "Cocle FC v CA Independiente de La Chorrera",
+  "home_form": "Cocle FC (Union Cocle): bottom of the West with 5 pts; D1 L9 in last 10, lost last eight. Home D1 L4 (0-2, 2-3, 1-2, 0-2, 2-2). | SR last 10: 07/11 A San Francisco 1-2 (HT 1-1); 31/10 H Universitario 0-2 (HT 0-1); 27/10 A Veraguas United 0-3 (HT 0-3); 18/10 H Herrera 2-3 (HT 2-1); 06/10 A San Miguelito 1-3 (HT 1-3); 27/09 H Plaza Amador 1-2 (HT 0-1); 22/09 A Umecit 0-1 (HT 0-0); 12/09 A Arabe Unido 1-4 (HT 0-1); 06/09 H Tauro 0-2 (HT 0-1); 30/08 H Alianza Panama 2-2 (HT 1-0)",
+  "away_form": "CAI (La Chorrera): 23 pts, already qualified; won last four (5-1 at Herrera, 3-1 San Francisco, 1-0 at Universitario, 3-1 Veraguas). Away W2 L3 in last 5. | SR last 10: 07/11 A Herrera 5-1 (HT 4-0); 02/11 H San Francisco 3-1 (HT 1-0); 25/10 A Universitario 1-0 (HT 0-0); 18/10 H Veraguas United 3-1 (HT 3-0); 05/10 H Arabe Unido 1-1 (HT 1-1); 29/09 A Alianza Panama 0-2 (HT 0-0); 21/09 H San Miguelito 4-3 (HT 2-0); 13/09 H Plaza Amador 2-2 (HT 1-1); 08/09 A Umecit 0-2 (HT 0-0); 29/08 A Tauro 1-2 (HT 0-1)",
+  "trends": {
+   "game totals": "Cocle O1.5 9/10 (home 5/5), O2.5 7/10. CAI O1.5 9/10, O2.5 6/10; CAI away O2.5 2/5.",
+   "team totals": "Cocle conceded in 10/10 and 2+ in 9/10 (home 5/5); scored in 6/10 (home 3/5). CAI scored in 8/10, 2+ in 5/10 but away 2+ only 1/5.",
+   "first half": "Cocle trailed at HT in 6/10; first-half goal in 9/10 Cocle matches. CAI away 1H goal in only 2/5.",
+   "handicap": "Cocle lost by 2+ in 6 of 9 defeats; CAI's away wins were 5-1 and 1-0.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "None retrieved for this tournament.",
+  "absences": "No team news found.",
+  "context": "THURSDAY'S LEAN (O1.5 @1.23, CAI win as the mechanism) STILL STANDS: TVN's pre-round table confirms the motivation split - CAI (23) are qualified and still fighting Veraguas (24) for second/third seeding, Cocle are bottom on 5 pts with nothing to play for and eight straight defeats. No absences reported. Final-round caveat: line-ups are unpredictable, so fill-grade.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.771449,
+    "why": "Cocle home games O1.5 5/5 and Cocle concede 2+ in 9/10; CAI on four straight wins with 12 goals."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.24,
+    "p": 0.7581139437,
+    "why": "CAI need the result for second/third seeding (TVN) v a bottom side on eight straight defeats and winless in 10; draw refunded."
+   }
+  ],
+  "avoid": "CAI -1.5 and CAI Over 1.5 @1.65 (CAI scored 2+ away in 1/5); Cocle Over 0.5; Under 2.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.tvn-2.com/tvmax/lpf/lpf-torneo-apertura-2026-tabla-de-posiciones-panorama-jornada-16-partidos-futbol-panama_1_2270544.html",
+   "https://www.tvn-2.com/tvmax/lpf/lpf-previa-torneo-apertura-2026-jornada-16-partidos-panama-futbol_1_2270900.html",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/76618016"
+  ]
+ },
+ {
+  "eid": "sr:match:76618010",
+  "fx": "San Francisco FC v Veraguas United FC",
+  "home_form": "San Francisco FC: West leaders on 29 pts, direct semi-final place already secured (TVN). W6 D1 L3; home W3 L2 (2-1 Cocle, 1-0, 0-1, 1-2, 4-1). | SR last 10: 07/11 H Cocle FC 2-1 (HT 1-1); 02/11 A CAI de La Chorrera 1-3 (HT 0-1); 25/10 A Herrera 3-1 (HT 1-1); 17/10 H Universitario 1-0 (HT 1-0); 03/10 H Umecit 0-1 (HT 0-1); 27/09 A Tauro 3-1 (HT 2-1); 19/09 H Arabe Unido 1-2 (HT 1-1); 15/09 A San Miguelito 2-0 (HT 1-0); 07/09 A Alianza Panama 1-1 (HT 0-0); 30/08 H Plaza Amador 4-1 (HT 2-1)",
+  "away_form": "Veraguas United: 24 pts, qualified, fighting CAI for second. W4 D3 L3; away winless in 5 (D2 L3) and behind at half-time in all five. | SR last 10: 07/11 A Universitario 2-3 (HT 0-2); 01/11 H Herrera 4-2 (HT 2-2); 27/10 H Cocle FC 3-0 (HT 3-0); 18/10 A CAI de La Chorrera 1-3 (HT 0-3); 04/10 H Tauro 2-1 (HT 2-0); 28/09 H San Miguelito 1-1 (HT 0-1); 20/09 A Plaza Amador 1-1 (HT 0-1); 14/09 H Alianza Panama 2-1 (HT 1-1); 05/09 A Arabe Unido 1-3 (HT 0-2); 01/09 A Umecit 1-1 (HT 0-1)",
+  "trends": {
+   "game totals": "Veraguas O1.5 10/10, O2.5 7/10, BTTS 9/10. San Francisco O1.5 8/10; home O1.5 3/5 (two 1-0/0-1).",
+   "team totals": "Veraguas scored in 10/10 (away 5/5, but 2+ away 1/5) and conceded in 9/10. San Francisco scored in 9/10, conceded in 8/10.",
+   "first half": "Veraguas away: trailed at HT 5/5, did not score in the first half in any of the five. San Francisco home 1H goal 5/5, scored first-half 4/5.",
+   "handicap": "Veraguas away defeats 2-3, 1-3, 1-3; San Francisco home wins by one goal mostly.",
+   "corners": "No corner markets on the board."
+  },
+  "h2h": "None retrieved for this tournament.",
+  "absences": "No named absences. Rotation risk for San Francisco remains (top spot and semi-final bye secured) - not confirmed by any line-up news.",
+  "context": "THURSDAY'S LEAN (neutral on O1.5 @1.23, rotation flag) STILL STANDS: TVN's table confirms San Francisco have nothing to play for while Veraguas need points to hold second from CAI. Nothing in the last 36h settles who starts. Veraguas' matches are open every week (10/10 O1.5), which is the only fixture-specific support; a rotated home side makes every side market unreliable.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.768282,
+    "why": "Veraguas O1.5 10/10 and scored in 10/10 (BTTS 9/10); they need the points, and San Francisco concede in 8/10."
+   }
+  ],
+  "avoid": "San Francisco 1X2/DNB (already through, likely rotation); Veraguas result-sides (winless away in 5, behind at HT 5/5); Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.tvn-2.com/tvmax/lpf/lpf-torneo-apertura-2026-tabla-de-posiciones-panorama-jornada-16-partidos-futbol-panama_1_2270544.html",
+   "https://www.tvn-2.com/tvmax/lpf/lpf-previa-torneo-apertura-2026-jornada-16-partidos-panama-futbol_1_2270900.html",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/76618010"
+  ]
+ },
+ {
+  "eid": "sr:match:74402390",
+  "fx": "Queretaro FC v CF Monterrey",
+  "home_form": "Queretaro: five straight defeats (0-2 Puebla H, 1-3 Juarez, 1-3 Cruz Azul H, 1-2 San Luis, 0-5 Santos), conceding 2+ in each. Home W1 D1 L2 in last 4. | SR last 10: 09/11 H Puebla 0-2 (HT 0-2); 31/10 A Juarez 1-3 (HT 0-2); 26/10 H Cruz Azul 1-3 (HT 1-3); 21/10 A San Luis 1-2 (HT 0-0); 18/10 A Santos Laguna 0-5 (HT 0-2); 11/10 H Atlante 2-0 (HT 1-0); 27/09 A Guadalajara 2-0 (HT 1-0); 21/09 H Leon 1-1 (HT 0-0); 12/09 A Tijuana de Caliente 1-0 (HT 1-0); 30/08 A Atlas 3-1 (HT 1-1)",
+  "away_form": "Monterrey: W4 D3 L3; last three 0-4 at Toluca, 3-3 Tijuana, 0-1 Guadalajara. Away W1 D1 L2 with all four O1.5 (0-4, 4-1, 1-1, 2-4). | SR last 10: 08/11 A Toluca 0-4 (HT 0-2); 01/11 H Tijuana de Caliente 3-3 (HT 2-2); 25/10 H Guadalajara 0-1 (HT 0-1); 22/10 A Puebla 4-1 (HT 3-0); 19/10 H Pachuca 2-1 (HT 2-0); 11/10 A America 1-1 (HT 1-1); 04/10 H Toluca 2-1 (HT 0-0); 26/09 A Atlante 2-4 (HT 1-1); 20/09 H Cruz Azul 1-0 (HT 1-0); 13/09 H Tigres 0-0 (HT 0-0)",
+  "trends": {
+   "game totals": "Queretaro O1.5 9/10, O2.5 5/10; home O2.5 only 1/4. Monterrey O1.5 7/10, away O2.5 3/4.",
+   "team totals": "Queretaro conceded 2+ in each of the last five; scored in 8/10 but blank in 2 of last 5. Monterrey conceded in 8/10 (away 4/4), scored in 7/10 - blank in two of the last three.",
+   "first half": "First-half goal in 8/10 for both; Monterrey away 1H O1.5 4/4; Queretaro trailed at HT in four of the last five.",
+   "handicap": "Queretaro lost by 2+ in four of the last five; Monterrey lost by 4 last week. No handicap is safe either way.",
+   "corners": "Board: total O8.5 @1.33, Queretaro O3.5 @1.44; no corner history pulled - not used."
+  },
+  "h2h": "None this tournament (this is the pending Jornada 7 game).",
+  "absences": "Monterrey (Milenio/365Scores/Soy Referee, 13 Nov): SUSPENDED Carlos Salcedo (straight red) and Oliver Torres (5th yellow); INJURED Uros Durdevic, Luca Orellano and - new, late - Stefan Medina (muscular); INTERNATIONAL DUTY Hugo Cuypers (Belgium), Jesus Corona (Mexico), Iker Fimbres (Mexico U23). Probable Queretaro: Allison; Abascia, Reyes, Parra, Duarte; Coronel, Homenchenko, Garcia; Avila, Munoz, Benito. No reliable Monterrey XI (one published list still includes the suspended players).",
+  "context": "THURSDAY'S LEAN (neutral on O1.5 @1.18 p0.821) IS WEAKENED: the price has drifted out to 1.23 (p0.786), which now fails the big-club totals bar, and the absence list has grown - Stefan Medina is a late addition, so Rayados are without a centre-back pairing option (Salcedo, Medina) as well as their top scorer Cuypers, Corona, Durdevic and Orellano. Monterrey are a fragile away favourite (2.10); Queretaro are on five straight defeats but must win to reach 23 pts and stay in the Liguilla race. Rescheduled Jornada 7 match, Estadio Corregidora, 17:00 local = 23:00 UTC, consistent across Record/Claro/Milenio (El Siglo's 'jornada 16' label is a typo). Too many moving parts: no leg.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Monterrey 1X2/DNB/-0.5 (seven-plus absences, lost 0-4 last week: fragile favourite, skip rather than DNB); Queretaro +1.5 (lost by 2+ in four of five); Over 1.5 as a core leg (drifted, big-club total below p0.82).",
+  "confidence": 0.22,
+  "sources": [
+   "https://milenio.com/futbol/liga-mx/stefan-medina-baja-con-rayados-para-partido-pendiente-ante-queretaro",
+   "https://soyreferee.com/futbolmx/2026/11/13/rayados-vs-queretaro-almeyda-pierde-a-siete-jugadores-60924.html",
+   "https://www.clarosports.com/futbol/liga-mx/queretaro-vs-monterrey-en-vivo-en-la-liga-mx-horario-alineaciones-y-donde-ver-el-partido-pendiente-del-apertura-2026/",
+   "https://www.record.com.mx/historia/donde-ver-queretaro-vs-monterrey-2026111323291173515",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/74402390"
+  ]
+ }
+]
