@@ -1,0 +1,705 @@
+[
+ {
+  "eid": "sr:match:75834472",
+  "fx": "Nagaland United SC v Gokulam Kerala FC",
+  "home_form": "Nagaland United SC | W1 D0 L0 /1 avgTot 4.0 O1.5 1 O2.5 1 BTTS 1 scored 1 1Hgoal 1 | home gf/ga None/None n0 | away gf/ga 3.0/1.0 n1 || 10-30 A Real Kashmir 3-1(2-0)",
+  "away_form": "Gokulam Kerala FC | W5 D1 L6 /12 avgTot 3.42 O1.5 8 O2.5 6 BTTS 5 scored 8 1Hgoal 8 | home gf/ga 1.83/1.5 n6 | away gf/ga 1.0/2.5 n6 || 11-07 A Rajasthan Unit 1-0(0-0); 10-31 H Samaleswari SC 3-2(2-0); 05-12 A Namdhari FC 1-0(0-0); 05-05 H Aizawl 2-2(2-2); 04-30 A Real Kashmir 0-3(0-1); 04-18 A Diamond Harbou 2-5(1-1); 04-12 A Real Kashmir 2-6(1-1); 04-07 A Rajasthan Unit 0-1(0-0); 03-31 H Aizawl 4-2(3-0); 03-26 H Shillong Lajon 0-2(0-1); 03-20 H Dempo 2-0(1-0); 03-14 H Sreenidi Decca 0-1(0-0)",
+  "trends": {
+   "game totals": "Gokulam O2.5 6/12, avg total 3.4; Nagaland only 1 match on record (3-1 at Real Kashmir)",
+   "team totals": "Gokulam away gf/ga 1.0/2.5 over the last 6 aways (mostly last season); Nagaland no home data",
+   "first half": "Gokulam 1H goal 8/12",
+   "handicap": "Gokulam priced 2.05 away favourite on no sample for the hosts",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "none in Sportradar window",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "IFL round 3, season opener phase (R1 transition). Nagaland United are a new side with a single recorded match - no basis for any trend.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything: opener, 1-match sample for the home side; Gokulam away result (away record L4 of last 6)",
+  "confidence": 0.1,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/75834472",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:75834472&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:76708728",
+  "fx": "India v Bhutan",
+  "home_form": "India | W3 D2 L7 /12 avgTot 3.08 O1.5 9 O2.5 6 BTTS 6 scored 7 1Hgoal 12 | home gf/ga 1.0/2.4 n5 | away gf/ga 0.71/2.14 n7 || 11-12 A New Zealand 0-5(0-3); 11-11 H Maldives 1-0(1-0); 11-05 A Pakistan 3-2(3-0); 10-06 H Uruguay 1-6(1-2); 10-03 H Brazil 0-4(0-2); 09-25 H Panama 1-1(1-0); 06-09 A Tajikistan 1-1(1-0); 06-05 A Tajikistan 1-3(0-1); 05-30 A Zimbabwe 0-1(0-1); 05-27 A Jamaica 0-2(0-1); 03-31 H Hong Kong 2-1(1-0); 11-18 A Bangladesh 0-1(0-1)",
+  "away_form": "Bhutan | W2 D2 L8 /12 avgTot 2.75 O1.5 8 O2.5 6 BTTS 4 scored 5 1Hgoal 8 | home gf/ga 0.5/1.17 n6 | away gf/ga 0.67/3.17 n6 || 11-08 A Sri Lanka 2-2(1-2); 11-05 H Bangladesh 0-1(0-0); 06-04 A Cambodia 0-4(0-2); 03-31 H Brunei 2-1(2-1); 11-18 A Yemen 1-7(0-2); 10-14 H Lebanon 0-4(0-3); 10-09 A Lebanon 0-2(0-0); 06-10 A Brunei 1-2(0-1); 06-04 A Bangladesh 0-2(0-1); 03-25 H Yemen 0-0(0-0); 09-08 H Bangladesh 1-0(0-0); 09-05 H Bangladesh 0-1(0-1)",
+  "trends": {
+   "game totals": "India -2.5 line, O2.5 @1.39; Sportradar India history is not one squad (0-5 at New Zealand on 12 Nov and 1-0 v Maldives on 11 Nov)",
+   "team totals": "Bhutan failed to score in 7/12, away ga 3.17; India in this SAFF: 3-2 Pakistan, 1-0 Maldives - no rout",
+   "first half": "Bhutan conceded in 1H in 8/12; India led 3-0 at HT v Pakistan, 1-0 v Maldives",
+   "handicap": "India won all 3 previous SAFF meetings but only beat Maldives 1-0; -2.5 not supported",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "none in Sportradar window",
+  "absences": "Reports say India's SAFF squad has thinned; the senior side played New Zealand on 12 Nov, so this is a second-string/home-based India. Lineups not confirmed.",
+  "context": "KNOCKOUT: SAFF Championship semi-final, National Stadium Dhaka (neutral), 3pm local = 09:00 UTC. Bhutan surprise Group A runners-up (2-2 Sri Lanka, 0-1 Bangladesh).",
+  "veto": true,
+  "veto_reason": "Data conflict on squad identity: India fielded two different teams 11-12 Nov (SAFF squad v Maldives, another XI lost 0-5 to New Zealand), so form lines do not describe the team playing; knockout on neutral ground with no To Qualify in range.",
+  "picks": [],
+  "avoid": "India -2.5, India team Over 2.5, all 90-min result markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76708728",
+   "https://en.prothomalo.com/sports/football/u1dzheumxo",
+   "https://khelnow.com/football/indian-football-saff-championship-2026-india-vs-bhutan-preview",
+   "https://theopenpress.in/article/india-beat-maldives-1-0-saff-championship-semi-final-bhutan-november-14"
+  ]
+ },
+ {
+  "eid": "sr:match:76708730",
+  "fx": "Bangladesh v Pakistan",
+  "home_form": "Bangladesh | W4 D2 L6 /12 avgTot 3.42 O1.5 8 O2.5 7 BTTS 5 scored 8 1Hgoal 11 | home gf/ga 2.0/1.8 n5 | away gf/ga 0.86/2.29 n7 || 11-11 H Sri Lanka 4-0(2-0); 11-05 A Bhutan 1-0(0-0); 10-01 A Indonesia 2-9(1-6); 09-28 A Singapore 0-1(0-1); 09-25 H Malaysia 0-3(0-2); 06-05 A San Marino 2-1(1-1); 03-31 A Singapore 0-1(0-1); 03-26 A Vietnam 0-3(0-3); 11-18 H India 1-0(1-0); 11-13 H Nepal 2-2(0-1); 10-14 A Hong Kong 1-1(0-1); 10-09 H Hong Kong 3-4(1-1)",
+  "away_form": "Pakistan | W4 D3 L5 /12 avgTot 3.25 O1.5 11 O2.5 8 BTTS 5 scored 9 1Hgoal 9 | home gf/ga 0.83/2.33 n6 | away gf/ga 2.17/1.17 n6 || 11-08 A Maldives 3-0(3-0); 11-05 H India 2-3(0-3); 10-02 A Vietnam 2-4(1-0); 09-29 A Philippines 2-2(0-2); 09-26 H Thailand 0-4(0-2); 06-10 H Afghanistan 2-0(1-0); 06-07 A Afghanistan 2-0(1-0); 06-04 A Maldives 3-0(0-0); 06-01 H Bangladesh 0-0(0-0); 03-31 H Myanmar 1-2(0-0); 11-18 H Syria 0-5(0-1); 10-14 A Afghanistan 1-1(1-1)",
+  "trends": {
+   "game totals": "Bangladesh O2.5 7/12, Pakistan O2.5 8/12 and O1.5 11/12; in-tournament: Bangladesh 1-0, 4-0; Pakistan 2-3, 3-0",
+   "team totals": "Pakistan scored in 9/12; Bangladesh home gf/ga 2.0/1.8",
+   "first half": "1H goal 11/12 Bangladesh, 9/12 Pakistan",
+   "handicap": "Bangladesh DNB 1.32 (p 0.71) - hosts, but SAFF H2H is W3 D2 L2 and last meeting 0-0 (June)",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "none in Sportradar window",
+  "absences": "Bangladesh have injury concerns in defence (bd-pratidin); Pakistan reinforced by five diaspora players incl. captain Abdullah Iqbal (footballpakistan).",
+  "context": "KNOCKOUT: SAFF semi-final, hosts Bangladesh at National Stadium Dhaka, 8:30pm local = 14:30 UTC. Settles on 90 minutes; no To Qualify price in range on the board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Bangladesh 1X2/DNB (defensive injuries v strengthened Pakistan, knockout); Under 2.5",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76708730",
+   "https://en.prothomalo.com/sports/football/u1dzheumxo",
+   "https://footballpakistan.com/2026/11/pakistan-face-bangladesh-in-saff-semifinal-on-nov-14/",
+   "https://en.bd-pratidin.com/sports/2026/11/14/73330"
+  ]
+ },
+ {
+  "eid": "sr:match:74056910",
+  "fx": "Aps Bomet FC v Bandari FC",
+  "home_form": "Aps Bomet FC | W6 D4 L2 /12 avgTot 1.5 O1.5 6 O2.5 2 BTTS 3 scored 8 1Hgoal 0 | home gf/ga 1.17/0.33 n6 | away gf/ga 1.0/0.5 n6 || 11-06 A Commercial Ban 0-1; 11-01 H Muranga Seal 0-0; 10-28 H 3K FC 3-0; 10-25 A Nairobi United 1-1; 10-17 H Gor Mahia 0-1; 10-10 A Mathare United 0-0; 05-31 A Tusker 1-1; 05-24 H Leopards 2-1; 05-20 A Bandari 2-0; 05-10 A Mathare United 2-0; 05-06 H Commercial Ban 1-0; 04-26 H Sofapaka 1-0",
+  "away_form": "Bandari | W3 D6 L3 /12 avgTot 1.75 O1.5 6 O2.5 2 BTTS 4 scored 7 1Hgoal 0 | home gf/ga 1.29/0.57 n7 | away gf/ga 0.6/1.0 n5 || 11-08 H Tusker 1-0; 11-01 A Nairobi United 1-1; 10-28 H Posta Rangers 0-0; 10-24 A Gor Mahia 0-1; 10-19 H 3K FC 1-1; 10-14 A Leopards 0-0; 09-02 H L15 5-0; 05-31 A Mathare United 0-1; 05-24 H Tusker 1-0; 05-20 H Aps Bomet FC 0-2; 05-10 A Commercial Ban 2-2; 05-06 H Posta Rangers 1-1",
+  "trends": {
+   "game totals": "Under 2.5 in 10/12 for BOTH sides; avg totals 1.5 and 1.75. League: Bomet 4:3 goals in 6, Bandari 3:3 in 6",
+   "team totals": "Bandari scored <=1 in 10/12 (exceptions 5-0 v L15, 2-2) and 3 goals in 6 league games; Bomet home ga 0.33 (2 conceded in last 6 home). Bomet scored <=1 in 8/12",
+   "first half": "no period data",
+   "handicap": "Bomet home W4 D1 L1 in last 6 (only loss 0-1 Gor Mahia); H2H Bomet 2-0 and 1-0; Bandari away W0 D2 L2 in last 5, 0.6 gf",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "26-05-20 Bandari 0-2 Aps Bomet FC; 25-12-07 Aps Bomet FC 1-0 Bandari",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Kenya Premier League round 7; 11th v 12th, both on 6-7 pts, both draw-heavy (Bandari D4 of 6).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.24,
+    "p": 0.7687077761,
+    "why": "Bandari have scored 3 goals in 6 league games and <=1 in 10 of their last 12; Bomet conceded 2 in their last 6 home games and kept Bandari out in both H2H (1-0, 2-0)."
+   }
+  ],
+  "avoid": "Over 1.5; any result side (10 draws in the two sides' combined last 24); Under 2.5 @1.39 is supported 10/12 each but house p 0.68 is below the Under gate",
+  "confidence": 0.3,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/74056910",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:74056910&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:76653246",
+  "fx": "Valmiera FC v FK Tukums 2000/TSS",
+  "home_form": "Valmiera | W6 D4 L2 /12 avgTot 3.75 O1.5 10 O2.5 9 BTTS 9 scored 10 1Hgoal 9 | home gf/ga 2.43/1.71 n7 | away gf/ga 2.4/0.8 n5 || 11-11 A Tukums 2000 0-1(0-0); 11-07 H Skanstes SK 3-2(2-1); 10-31 A Leevon 0-0(0-0); 10-24 H Ventspils 3-0(1-0); 10-18 H FK Tukums 2000 2-2(0-1); 10-10 H SK Super Nova  1-1(0-1); 09-19 H Riga Mariners 2-4(2-1); 09-12 A Alberts 2-1(0-0); 09-05 H FK Metta / Lu 2-2(1-2); 08-30 A Rezeknes Fa 6-1(1-1); 08-22 H Marupes SC 4-1(2-0); 08-08 A Smiltene 4-1(3-0)",
+  "away_form": "Tukums 2000 | W2 D2 L8 /12 avgTot 2.17 O1.5 9 O2.5 4 BTTS 4 scored 5 1Hgoal 7 | home gf/ga 1.0/1.67 n6 | away gf/ga 0.0/1.67 n6 || 11-11 H Valmiera 1-0(0-0); 11-08 H Auda 1-2(0-1); 11-01 A Daugavpils 0-2(0-1); 10-24 A Liepaja 0-0(0-0); 10-19 A FC RFS 0-2(0-0); 10-10 H Riga FC 0-2(0-1); 09-20 H Grobinas 1-1(0-1); 09-10 A Super Nova 0-1(0-0); 09-05 H Ogre United 2-1(0-1); 08-29 H Jelgava 1-4(1-1); 08-21 A Auda 0-3(0-1); 08-08 A Daugavpils 0-2(0-0)",
+  "trends": {
+   "game totals": "Valmiera O2.5 9/12 but that was in the second tier; Tukums O2.5 4/12; first leg 1-0",
+   "team totals": "Tukums away: 0 goals in last 6 away games (0-2,0-0,0-2,0-1,0-3,0-2) yet priced 1.95 favourite; Valmiera home gf/ga 2.43/1.71 v 1. liga sides",
+   "first half": "first leg 0-0 at HT; Tukums 1H goal 7/12",
+   "handicap": "Tukums lead 1-0 on aggregate; W2 in 12",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "26-11-11 Tukums 2000 1-0 Valmiera; 24-11-09 Valmiera 2-3 Tukums 2000; 24-08-24 Tukums 2000 3-2 Valmiera; 24-07-14 Tukums 2000 2-3 Valmiera; 24-06-14 Valmiera 6-1 Tukums 2000; 24-04-27 Tukums 2000 1-2 Valmiera",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "KNOCKOUT: Virsliga promotion/relegation play-off, second leg at Jana Dalina stadions, 13:00 local = 11:00 UTC. First leg 11 Nov Tukums 1-0 Valmiera (Deruzinskis 48'). Tukums 9th in Virsliga (25 pts from 36), Valmiera 1. liga runners-up. Both legs moved to natural grass.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tukums away 1X2/DNB @1.95/1.46 (no away goal in 6); Over 2.5 (aggregate game state); all 90-min results - second leg with a 1-goal aggregate lead and no To Qualify in range",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76653246",
+   "https://sportacentrs.com/futbols/virsliga/13112026-valmiera_tiks_aizvadita_izskirosa_cina_pa",
+   "https://sportacentrs.com/futbols/virsliga/11112026-parspelu_ievada_tukums_2000_tikai_vienu_r"
+  ]
+ },
+ {
+  "eid": "sr:match:72964548",
+  "fx": "Union Titus Petange v FC Koeppchen Wormeldange",
+  "home_form": "Union Titus | W6 D4 L2 /12 avgTot 4.92 O1.5 11 O2.5 11 BTTS 11 scored 11 1Hgoal 0 | home gf/ga 3.0/1.67 n6 | away gf/ga 2.5/2.67 n6 || 11-08 H Remich/Bous 3-1; 10-31 A Marisca Mersch 1-2; 10-25 H Remich/Bous 4-2; 10-18 A Berdenia 3-2; 10-11 H Luxemburg City 3-1; 10-04 A Rodange 91 3-2; 09-27 H Belval Belvaux 3-3; 09-13 A Feulen 3-5; 09-06 H Jeunesse Canac 5-3; 08-30 A Lorentzweiler 3-3; 08-23 H Fola Esch-Alze 0-0; 08-16 A Mamer 32 2-2",
+  "away_form": "Koeppchen Wormeldange | W3 D2 L7 /12 avgTot 4.58 O1.5 11 O2.5 9 BTTS 10 scored 10 1Hgoal 0 | home gf/ga 1.33/2.17 n6 | away gf/ga 2.67/3.0 n6 || 11-07 A Rodange 91 7-8; 10-31 H Mondercange 1-4; 10-25 A Bettembourg 1-2; 10-18 H Avenir Beggen 2-1; 10-11 H Marisca Mersch 3-1; 10-04 A Remich/Bous 3-1; 09-27 H Berdenia 1-1; 09-13 A Luxemburg City 3-3; 09-06 H Rodange 91 0-2; 08-30 A Belval Belvaux 0-1; 08-23 H Feulen 1-4; 08-14 A Jeunesse Canac 2-3",
+  "trends": {
+   "game totals": "Union Titus: Over 2.5 in 11/12 (only miss a 0-0 in August), avg total 4.9; league goals 30:25 in 11. Wormeldange: O2.5 9/12, avg 4.6 (7-8 at Rodange last week)",
+   "team totals": "Titus scored 3+ in 9 of last 10; home gf/ga 3.0/1.67. Wormeldange away gf/ga 2.67/3.0",
+   "first half": "no period data",
+   "handicap": "Titus 5th (19 pts), Wormeldange 14th (11 pts); Titus home W4 D2 L0 in last 6 but concede 1.7 at home - no -1.5",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "none in Sportradar window",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Promotion d'Honneur round 12. Titus relegated from the top flight last season. Highest-scoring pair in the division.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.32,
+    "p": 0.7124518535,
+    "why": "Titus games went over 2.5 in 11/12 (they scored 3+ in 9 of last 10) and Wormeldange in 9/12, with Wormeldange conceding 3.0 per away game."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.43,
+    "p": 0.6460829746,
+    "why": "BTTS landed in 11/12 Titus games and 10/12 Wormeldange games; Titus concede in every home game since August, Wormeldange scored in 5 of 6 aways (2.67 per game)."
+   }
+  ],
+  "avoid": "Titus -1.5 / team Over 2.5 as a banker; Wormeldange team Under 1.5; Under 4.5",
+  "confidence": 0.35,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/72964548",
+   "https://www.flf.lu/tabellen-80253v4/leagues/11/seasons/220",
+   "https://www.sofascore.com/football/tournament/luxembourg/promotion-dhonneur/723"
+  ]
+ },
+ {
+  "eid": "sr:match:76646384",
+  "fx": "Afrique Football Elite v Union Sportive Bougouba",
+  "home_form": "Afrique Football Elite | W3 D3 L6 /12 avgTot 2.5 O1.5 7 O2.5 6 BTTS 6 scored 6 1Hgoal 0 | home gf/ga 1.33/1.67 n6 | away gf/ga 0.83/1.17 n6 || 11-06 A Usfas Bamako 2-1; 11-01 A AS Bakaridjan 1-2; 06-14 H Derby Academie 2-1; 06-10 H AS Korofina 5-3; 06-05 A Real Bamako 0-0; 06-02 H FC Diarra 0-1; 05-24 H Binga FC 0-1; 05-19 H AS Bakaridjan 0-3; 05-10 A Usfas Bamako 2-3; 05-02 H FC Mali Coura 1-1; 04-22 A Stade Malien 0-1; 04-15 A US Bougouni 0-0",
+  "away_form": "Union Sportive Bougouba | W3 D4 L5 /12 avgTot 2.25 O1.5 8 O2.5 3 BTTS 4 scored 6 1Hgoal 0 | home gf/ga 0.8/2.0 n5 | away gf/ga 0.71/1.14 n7 || 11-07 H AS Bakaridjan 0-0; 10-31 A AS Kayes 0-0; 06-13 A Real Bamako 0-4; 06-09 H FC Diarra 2-6; 06-05 A Binga FC 1-0; 05-31 H AS Bakaridjan 1-1; 05-25 A Usfas Bamako 2-0; 05-19 H FC Mali Coura 1-1; 05-13 A US Bougouni 2-1; 05-03 H Onze Createurs 0-2; 04-16 A Stade Malien 0-1; 04-03 A Derby Academie 0-2",
+  "trends": {
+   "game totals": "AFE O2.5 6/12; Bougouba O2.5 3/12 and 0-0, 0-0 in both games this season",
+   "team totals": "both failed to score in 6/12",
+   "first half": "no period data",
+   "handicap": "H2H: AFE have not beaten Bougouba in 6 (D3 L3)",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "26-03-07 Afrique Foot 0-1 Union Sporti; 25-11-29 Union Sporti 2-0 Afrique Foot; 25-04-20 Union Sporti 1-1 Afrique Foot; 25-01-02 Afrique Foot 1-1 Union Sporti; 24-05-15 Afrique Foot 1-1 Union Sporti; 24-01-07 Union Sporti 1-0 Afrique Foot",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Mali Ligue 1 round 3 - season opener phase (transition).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "AFE DNB (winless in 6 H2H); Over 1.5; Under 2.5 @1.45 (house p 0.65, AFE homes 5-3, 2-1 in June)",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76646384",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:76646384&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:76646382",
+  "fx": "Centre Sportif de Bamako v Usfas Bamako",
+  "home_form": "Centre Sportif de Bamako | W0 D2 L0 /2 avgTot 1.0 O1.5 1 O2.5 0 BTTS 1 scored 1 1Hgoal 0 | home gf/ga 1.0/1.0 n1 | away gf/ga 0.0/0.0 n1 || 11-06 H Binga FC 1-1; 11-02 A Onze Createurs 0-0",
+  "away_form": "Usfas Bamako | W6 D1 L5 /12 avgTot 3.08 O1.5 12 O2.5 10 BTTS 8 scored 10 1Hgoal 0 | home gf/ga 1.83/1.33 n6 | away gf/ga 1.5/1.5 n6 || 11-06 H Afrique Footba 1-2; 11-01 A Binga FC 0-2; 06-14 H FC Mali Coura 2-1; 06-09 A US Bougouni 1-2; 06-04 H Onze Createurs 3-0; 05-31 A Stade Malien 2-2; 05-25 H Union Sportive 0-2; 05-22 A Djoliba 1-2; 05-10 H Afrique Footba 3-2; 05-03 A AS Korofina 3-0; 04-15 H Real Bamako 2-1; 04-04 A FC Diarra 2-1",
+  "trends": {
+   "game totals": "CSB 2 matches only (0-0, 1-1); Usfas O1.5 12/12, O2.5 10/12",
+   "team totals": "Usfas scored in 10/12 but lost both games this season (0-2, 1-2)",
+   "first half": "no period data",
+   "handicap": "coin-flip, DNB 1.87/1.77",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "none in Sportradar window",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Mali Ligue 1 round 3; Centre Sportif de Bamako newly promoted with a 2-match record.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything: promoted side with a 2-match sample; conflicting totals signals (CSB 0-0/1-1 v Usfas O2.5 10/12)",
+  "confidence": 0.1,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76646382",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:76646382&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:76646386",
+  "fx": "Onze Createurs v Stade Malien de Bamako",
+  "home_form": "Onze Createurs | W3 D4 L5 /12 avgTot 1.33 O1.5 5 O2.5 2 BTTS 2 scored 5 1Hgoal 0 | home gf/ga 0.5/0.5 n4 | away gf/ga 0.5/1.0 n8 || 11-07 A Djoliba 0-2; 11-02 H Centre Sportif 0-0; 06-13 A Binga FC 0-0; 06-10 H AS Bakaridjan 0-0; 06-04 A Usfas Bamako 0-3; 05-31 H FC Mali Coura 1-0; 05-24 A US Bougouni 1-0; 05-19 A Derby Academie 1-1; 05-10 H Stade Malien 1-2; 05-03 A Union Sportive 2-0; 04-15 A Djoliba 0-1; 04-03 A Afrique Footba 0-1",
+  "away_form": "Stade Malien | W7 D4 L1 /12 avgTot 2.33 O1.5 8 O2.5 5 BTTS 5 scored 10 1Hgoal 0 | home gf/ga 2.2/1.4 n5 | away gf/ga 1.14/0.29 n7 || 11-08 H FC Diarra 1-0; 11-01 A Real Bamako 1-0; 09-13 H Colombe 3-4; 09-06 A Colombe 0-0; 06-13 A FC Diarra 2-0; 06-09 H Binga FC 2-1; 06-04 A AS Bakaridjan 2-0; 05-31 H Usfas Bamako 2-2; 05-24 A FC Mali Coura 1-1; 05-21 H US Bougouni 3-0; 05-10 A Onze Createurs 2-1; 05-02 A Derby Academie 0-0",
+  "trends": {
+   "game totals": "Onze Createurs: Under 2.5 in 10/12, avg total 1.33; Stade Malien O2.5 5/12",
+   "team totals": "Onze failed to score in 7/12 (0 goals in 2 games this season); Stade Malien away gf/ga 1.14/0.29 (2 conceded in 7 aways)",
+   "first half": "no period data",
+   "handicap": "Stade Malien W7 D4 L1; H2H Stade W4 D1 in last 5 (2-1, 1-0, 1-0, 3-1, 0-0); Stade opened 1-0, 1-0",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "26-05-10 Onze Createu 1-2 Stade Malien; 26-01-04 Stade Malien 1-0 Onze Createu; 25-05-06 Onze Createu 0-1 Stade Malien; 25-02-24 Stade Malien 3-1 Onze Createu; 24-02-10 Stade Malien 0-0 Onze Createu",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Mali Ligue 1 round 3 (opener phase). Stade Malien's last non-league games on record are two September ties v Colombe (0-0, 3-4, apparently a CAF preliminary exit - inferred, unverified); no continental fixture seen since. Big club v mid-table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.28,
+    "p": 0.734241,
+    "why": "Stade Malien unbeaten in the last 5 H2H (W4) and conceded 2 goals in their last 7 away games; Onze Createurs have not scored in either game this season and blanked in 7 of 12. DNB only (draws are 4 of Stade's last 12)."
+   }
+  ],
+  "avoid": "Stade Malien 1X2 @1.77 (1-0 margins, round 3); Onze team Over 0.5; Over 1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76646386",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:76646386&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:74063602",
+  "fx": "Ciervos FC v La Tribu de Ciudad Juarez",
+  "home_form": "Ciervos FC | W2 D0 L10 /12 avgTot 5.42 O1.5 12 O2.5 10 BTTS 6 scored 6 1Hgoal 12 | home gf/ga 0.67/2.67 n6 | away gf/ga 2.5/5.0 n6 || 11-07 A Saltillo Socce 2-7(1-2); 10-31 H Santiago FC 0-3(0-2); 10-24 A Zapotlanejo 3-5(1-2); 10-17 H Canoneros Mari 3-1(2-0); 10-11 A Acambaro FC 2-5(1-2); 10-03 H Halcones Negro 0-5(0-3); 09-25 A Real Refineros 8-7(2-1); 09-19 A Club Calor 0-4(0-3); 09-12 H Artesanos Mete 0-3(0-1); 09-05 A Guerreros Del  0-2(0-2); 08-29 H Dragones de Oa 0-2(0-2); 04-11 H Avispones de C 1-2(1-1)",
+  "away_form": "La Tribu de Ciudad Juarez | W7 D0 L4 /11 avgTot 4.0 O1.5 11 O2.5 9 BTTS 6 scored 10 1Hgoal 9 | home gf/ga 3.43/0.57 n7 | away gf/ga 1.75/2.25 n4 || 11-08 H Canoneros Mari 8-0(3-0); 10-31 A Deportivo Delf 1-3(0-2); 10-25 H Artesanos Mete 2-0(1-0); 10-18 H Heroes de Zaci 5-0(2-0); 10-11 H Santiago FC 0-2(0-0); 10-03 A CF Correcamino 1-3(0-2); 09-27 H Real Apodaca 3-1(3-0); 09-20 H Vaqueros Reyno 2-1(1-0); 09-13 A Guerreros de A 1-2(0-0); 09-06 H Zapotlanejo 4-0(2-0); 08-29 A Saltillo Socce 4-1(2-0)",
+  "trends": {
+   "game totals": "Ciervos: O2.5 10/12, avg total 5.4 but O3.5 only 7/12; La Tribu O2.5 9/11",
+   "team totals": "Ciervos conceded 44 in 11 (home ga 2.67, scored 0 in 4 of 6 home games); La Tribu 31 scored in 11 but away gf/ga 1.75/2.25, W1 L3",
+   "first half": "1H 2+ goals in 11 of Ciervos' last 12 (trailed at HT in 9/12); La Tribu 1H 2+ goals in 7/11 (3 of 4 aways)",
+   "handicap": "La Tribu -2.5 not supported: lost 3 of 4 away (1-3, 1-3, 1-2)",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "none in Sportradar window",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Liga Premier Serie A round 12: 18th (6 pts, 2-0-9) v 5th (21 pts).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "68",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.58,
+    "p": 0.5826206353,
+    "why": "Ciervos games had 2+ first-half goals in 11 of the last 12 (they concede early: behind at HT in 9/12) and La Tribu's in 7/11 including 3 of 4 away."
+   }
+  ],
+  "avoid": "La Tribu -2.5 (W1 L3 away); Over 4.5; Ciervos team Over 0.5 (blanked in 4/6 at home)",
+  "confidence": 0.25,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/74063602",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:74063602&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:74063614",
+  "fx": "Deportivo Delfines Coatzacoalcos v Mineros de Fresnillo FC",
+  "home_form": "Deportivo Delfines Coatzacoalcos | W5 D5 L1 /11 avgTot 3.36 O1.5 8 O2.5 7 BTTS 8 scored 9 1Hgoal 7 | home gf/ga 2.8/2.4 n5 | away gf/ga 1.17/0.67 n6 || 11-07 A CF Correcamino 2-2(0-1); 10-31 H La Tribu de Ci 3-1(2-0); 10-25 A Vaqueros Reyno 1-0(0-0); 10-16 A Club Calor 2-1(0-0); 10-10 H Artesanos Mete 1-1(1-0); 10-03 A Guerreros Del  0-0(0-0); 09-27 H Dragones de Oa 7-6(0-2); 09-20 H Real Refineros 2-2(1-1); 09-12 A Canoneros Mari 2-1(2-1); 09-06 H Acambaro FC 1-2(0-1); 08-30 A Halcones Negro 0-0(0-0)",
+  "away_form": "Mineros de Fresnillo FC | W6 D4 L2 /12 avgTot 2.42 O1.5 9 O2.5 5 BTTS 5 scored 8 1Hgoal 7 | home gf/ga 2.0/0.29 n7 | away gf/ga 1.2/1.4 n5 || 11-07 H Acambaro FC 3-1(1-1); 11-01 A Dragones de Oa 0-2(0-2); 10-25 H Club Calor 4-1(3-0); 10-17 H Guerreros de A 0-0(0-0); 10-10 A Zapotlanejo 4-2(3-0); 10-03 H Saltillo Socce 3-0(2-0); 09-27 A Vaqueros Reyno 1-2(0-2); 09-19 H Heroes de Zaci 2-0(1-0); 09-11 H Santiago FC 2-0(0-0); 09-05 A CF Correcamino 0-0(0-0); 08-30 H Real Apodaca 0-0(0-0); 04-19 A Cimarrones 1-1(0-0)",
+  "trends": {
+   "game totals": "Delfines O2.5 7/11 (home avg 5.2 skewed by a 7-6); Mineros O2.5 5/12",
+   "team totals": "Mineros 8 conceded in 11 (best defence with Metepec); away gf/ga 1.2/1.4; Delfines home gf/ga 2.8/2.4",
+   "first half": "1H goal 7/11 and 7/12",
+   "handicap": "7th (20) v 6th (21); Delfines L1 in 11, Mineros L2 in 12",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "none in Sportradar window",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Liga Premier Serie A round 12, direct neighbours in the table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "either result side; Over 2.5 (Mineros 5/12)",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/74063614",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:74063614&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:74063606",
+  "fx": "Real Refineros Cds v Saltillo Soccer FC",
+  "home_form": "Real Refineros Cds | W3 D3 L5 /11 avgTot 4.91 O1.5 9 O2.5 9 BTTS 8 scored 9 1Hgoal 10 | home gf/ga 2.67/3.0 n6 | away gf/ga 1.6/2.4 n5 || 11-07 A Zapotlanejo 3-1(2-1); 10-31 H Guerreros de A 3-2(1-0); 10-27 A Santiago FC 0-6(0-3); 10-17 H Guerreros Del  3-3(1-1); 10-10 H Halcones Negro 2-3(2-2); 10-04 A Dragones de Oa 2-3(1-2); 09-25 H Ciervos FC 7-8(1-2); 09-20 A Deportivo Delf 2-2(1-1); 09-12 H Club Calor 0-0(0-0); 09-06 A Canoneros Mari 1-0(1-0); 08-29 H Artesanos Mete 1-2(0-1)",
+  "away_form": "Saltillo Soccer FC | W3 D1 L6 /10 avgTot 4.5 O1.5 10 O2.5 9 BTTS 7 scored 8 1Hgoal 9 | home gf/ga 2.8/2.2 n5 | away gf/ga 1.0/3.0 n5 || 11-07 H Ciervos FC 7-2(2-1); 10-31 A Artesanos Mete 0-4(0-0); 10-17 H Zapotlanejo 2-3(2-2); 10-11 A Vaqueros Reyno 1-2(1-1); 10-03 A Mineros de Fre 0-3(0-2); 09-26 H Heroes de Zaci 2-2(1-1); 09-19 A Santiago FC 1-4(1-1); 09-12 H CF Correcamino 2-0(1-0); 09-06 A Real Apodaca 3-2(1-1); 08-29 H La Tribu de Ci 1-4(0-2)",
+  "trends": {
+   "game totals": "Refineros: O2.5 9/11, avg total 4.9 (24:30 in 11); Saltillo: O2.5 9/10, O1.5 10/10, avg 4.5 (19:26 in 10)",
+   "team totals": "Refineros home gf/ga 2.67/3.0; Saltillo away gf/ga 1.0/3.0 (conceded 3+ in 4 of 5 aways)",
+   "first half": "1H goal 10/11 and 9/10",
+   "handicap": "15th v 17th; Refineros won last two (3-1, 3-2), Saltillo away W1 L4",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "none in Sportradar window",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Liga Premier Serie A round 12; two of the leakiest defences in the group.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.46,
+    "p": 0.639077,
+    "why": "Over 2.5 landed in 9/11 Refineros games and 9/10 Saltillo games; Refineros concede 3.0 per home game and Saltillo 3.0 per away game."
+   }
+  ],
+  "avoid": "Refineros 1X2 @2.00 (W3 in 11); Under 3.5; Saltillo team Over 1.5 (1.0 gf away)",
+  "confidence": 0.3,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/74063606",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:74063606&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:74100778",
+  "fx": "Cordobes FC v Pioneros de Cancun",
+  "home_form": "Cordobes FC | W4 D2 L6 /12 avgTot 3.42 O1.5 10 O2.5 6 BTTS 6 scored 9 1Hgoal 11 | home gf/ga 1.83/2.67 n6 | away gf/ga 1.33/1.0 n6 || 11-10 A Chapulineros d 1-1(0-0); 10-31 H Jaguares 8-7(2-0); 10-25 A Club Celaya FC 1-2(0-2); 10-18 A Lobos Ulmx 0-2(0-1); 10-10 H Tigres de Alic 1-0(1-0); 10-04 A Los Cabos Unit 2-0(1-0); 09-26 H Zacatepec FC 0-1(0-1); 09-12 H Reboceros de L 1-2(0-1); 09-05 H Irapuato 0-3(0-2); 08-30 A Purepechas FC 1-1(1-0); 04-10 A Atletico Hidal 3-0(3-0); 03-28 H Gavilanes de M 1-3(1-2)",
+  "away_form": "Pioneros de Cancun | W6 D4 L2 /12 avgTot 2.92 O1.5 9 O2.5 7 BTTS 7 scored 9 1Hgoal 9 | home gf/ga 1.29/0.86 n7 | away gf/ga 2.8/1.2 n5 || 11-07 H Reboceros de L 1-0(1-0); 10-31 A Tritones Valla 2-3(1-2); 10-24 H Zacatepec FC 0-0(0-0); 10-17 H Jaguares 0-0(0-0); 10-10 A Deportiva Vena 4-1(2-1); 10-03 H Montaneses FC 2-1(1-0); 09-26 A Chapulineros d 3-1(2-0); 09-19 H Tapachula Soco 5-1(3-0); 09-08 A Inter Playa Ca 4-0(3-0); 08-29 H Club Celaya FC 0-3(0-0); 04-11 A Chapulineros d 1-1(1-1); 03-28 H Racing de Vera 1-1(1-0)",
+  "trends": {
+   "game totals": "Cordobes O2.5 6/12 (one 8-7), Pioneros 7/12",
+   "team totals": "Pioneros away gf/ga 2.8/1.2 (4-0, 3-1, 4-1 then 2-3); Cordobes home gf/ga 1.83/2.67, lost 4 of 6 at home",
+   "first half": "1H goal 11/12 Cordobes, 9/12 Pioneros",
+   "handicap": "Pioneros W6 D4 L2 but last four 1-0, 2-3, 0-0, 0-0",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "none in Sportradar window",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Liga Primera Premier round 12. Cordobes played Tuesday 10 Nov (1-1 away).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pioneros away 1X2 @2.10 (p 0.44, form cooled); Under 2.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/74100778",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:74100778&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:74100776",
+  "fx": "Zacatepec FC v Montaneses FC",
+  "home_form": "Zacatepec FC | W4 D4 L4 /12 avgTot 3.42 O1.5 9 O2.5 6 BTTS 8 scored 10 1Hgoal 9 | home gf/ga 2.0/2.8 n5 | away gf/ga 1.14/1.29 n7 || 11-06 A Tapachula Soco 4-2(2-1); 10-31 H Racing de Vera 1-5(0-2); 10-24 A Pioneros de Ca 0-0(0-0); 10-18 A Irapuato 0-2(0-0); 10-03 H Reboceros de L 4-6(1-0); 09-26 A Cordobes FC 1-0(1-0); 09-19 H Purepechas FC 1-0(0-0); 09-11 A Tritones Valla 1-1(1-1); 09-05 H Lobos Ulmx 2-1(1-1); 08-29 A Tigres de Alic 1-3(0-2); 04-26 A Alacranes 1-1(1-0); 04-22 H Alacranes 2-2(0-2)",
+  "away_form": "Montaneses FC | W4 D1 L7 /12 avgTot 3.5 O1.5 11 O2.5 10 BTTS 10 scored 10 1Hgoal 8 | home gf/ga 1.5/1.83 n6 | away gf/ga 1.5/2.17 n6 || 11-08 H Los Cabos Unit 2-1(1-0); 11-01 A Purepechas FC 1-2(0-1); 10-25 H Lobos Ulmx 0-3(0-0); 10-17 A Chapulineros d 1-2(0-0); 10-11 H Tapachula Soco 2-1(1-0); 10-03 A Pioneros de Ca 1-2(0-1); 09-27 H Inter Playa Ca 3-2(1-0); 09-20 A Club Celaya FC 1-2(1-0); 09-13 H Racing de Vera 1-3(1-0); 09-06 A Jaguares 5-4(1-2); 08-30 H Deportiva Vena 1-1(0-0); 04-10 A Heroes de Zaci 0-1(0-0)",
+  "trends": {
+   "game totals": "Montaneses O2.5 10/12, BTTS 10/12; Zacatepec O2.5 6/12, BTTS 8/12",
+   "team totals": "Zacatepec home gf/ga 2.0/2.8 (1-5, 4-6 in last two home); Montaneses scored in 10/12, away ga 2.17",
+   "first half": "1H goal 9/12, 8/12",
+   "handicap": "Zacatepec W4 D4 L4; Montaneses away L4 of last 5 by one goal",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "none in Sportradar window",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Liga Primera Premier round 12.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Zacatepec 1X2 @2.00 (conceded 11 in last 2 home games); Under 3.5. Lean only: GG Yes @1.51 (8/12 + 10/12) - not strong enough for a pick",
+  "confidence": 0.2,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/74100776",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:74100776&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:74100770",
+  "fx": "Tritones Vallarta MFC v Tapachula Soconusco FC",
+  "home_form": "Tritones Vallarta MFC | W1 D5 L6 /12 avgTot 1.92 O1.5 7 O2.5 3 BTTS 7 scored 7 1Hgoal 6 | home gf/ga 1.0/1.0 n5 | away gf/ga 0.57/1.29 n7 || 11-12 H Purepechas FC 0-0(0-0); 11-07 A Deportiva Vena 1-1(0-0); 10-31 H Pioneros de Ca 3-2(2-1); 10-24 A Chapulineros d 1-2(0-1); 10-11 A Irapuato 0-1(0-0); 10-04 A Lobos Ulmx 1-2(0-2); 09-27 A Tigres de Alic 1-1(1-1); 09-20 A Los Cabos Unit 0-1(0-0); 09-11 H Zacatepec FC 1-1(1-1); 08-28 H Reboceros de L 0-1(0-0); 04-25 A Deportiva Vena 0-1(0-1); 04-22 H Deportiva Vena 1-1(0-0)",
+  "away_form": "Tapachula Soconusco FC | W2 D1 L9 /12 avgTot 3.5 O1.5 10 O2.5 7 BTTS 7 scored 9 1Hgoal 8 | home gf/ga 1.29/2.29 n7 | away gf/ga 0.6/2.8 n5 || 11-06 H Zacatepec FC 2-4(1-2); 10-31 A Tigres de Alic 1-4(1-3); 10-24 H Purepechas FC 1-0(0-0); 10-20 H Deportiva Vena 1-4(0-3); 10-11 A Montaneses FC 1-2(0-1); 10-03 H Chapulineros d 2-3(1-2); 09-19 A Pioneros de Ca 1-5(0-3); 09-12 H Inter Playa Ca 2-0(0-0); 09-06 A Club Celaya FC 0-2(0-0); 08-29 H Racing de Vera 0-4(0-0); 04-19 H Tritones Valla 1-1(1-1); 04-15 A Tritones Valla 0-1(0-1)",
+  "trends": {
+   "game totals": "Tritones O2.5 3/12, avg 1.9; Tapachula O2.5 7/12",
+   "team totals": "Tapachula away gf/ga 0.6/2.8 (0-2, 1-5, 1-2, 1-4); Tritones scored 2+ once in 12",
+   "first half": "1H goal 6/12 and 8/12",
+   "handicap": "Tapachula L9/12 but Tritones W1 in 12 - no favourite worth backing at 1.89",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "26-04-19 Tapachula So 1-1 Tritones Val; 26-04-15 Tritones Val 1-0 Tapachula So",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Liga Primera Premier round 12. Tritones played Thursday 12 Nov (0-0), 2 days rest.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tritones 1X2/DNB (1 win in 12, 2 days rest); Over 2.5",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/74100770",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:74100770&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:72304578",
+  "fx": "FK Podgorica v FK Berane",
+  "home_form": "Podgorica | W6 D5 L1 /12 avgTot 2.92 O1.5 10 O2.5 7 BTTS 9 scored 11 1Hgoal 0 | home gf/ga 2.0/1.0 n6 | away gf/ga 1.5/1.33 n6 || 11-08 H FK Budva 3-0; 11-04 A Golubovci 0-0; 10-31 H FK Iskra 1-0; 10-25 A FK Rudar 1-1; 10-17 H OFK Grbalj 2-1; 10-11 A Kom Podgorica 2-3; 10-06 H Lovcen 2-1; 09-30 H FK Jedinstvo 1-1; 09-26 A Berane 3-2; 09-21 A FK Budva 2-1; 09-17 H Golubovci 3-3; 09-12 A FK Iskra 1-1",
+  "away_form": "Berane | W1 D2 L9 /12 avgTot 4.25 O1.5 12 O2.5 11 BTTS 7 scored 7 1Hgoal 1 | home gf/ga 1.29/2.57 n7 | away gf/ga 0.6/4.2 n5 || 11-08 H OFK Grbalj 3-3; 11-04 A FK Budva 0-4; 10-31 H Kom Podgorica 2-1; 10-25 A Golubovci 2-5; 10-18 H Lovcen 0-3; 10-15 H FK Jedinstvo 0-5(0-4); 10-11 A FK Iskra 1-5; 10-04 H FK Jedinstvo 1-2; 09-30 A FK Rudar 0-4; 09-26 H Podgorica 2-3; 09-20 A OFK Grbalj 0-3; 09-16 H FK Budva 1-1",
+  "trends": {
+   "game totals": "Berane: O2.5 11/12, O1.5 12/12, avg total 4.25 (41 conceded in 16); Podgorica O2.5 7/12",
+   "team totals": "Berane away: 0-4, 2-5, 1-5, 0-4, 0-3 (ga 4.2, gf 0.6); Podgorica home gf/ga 2.0/1.0 but scored 3+ at home only 2 of 6",
+   "first half": "no period data",
+   "handicap": "2nd (31 pts, 8-7-1) v last (6 pts, 1-3-12). Podgorica unbeaten at home in last 6 (W4 D2); Berane lost all 5 recent aways by 3+",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "26-09-26 Berane 2-3 Podgorica; 26-05-24 Podgorica 3-1 Berane; 26-04-04 Berane 2-1 Podgorica; 25-12-02 Podgorica 0-0 Berane; 25-09-28 Berane 1-1 Podgorica",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "2. CFL round 17, DG Arena, 13:00 local (fscg.me confirms date/venue). Podgorica 1 pt behind leaders Jedinstvo - must keep winning.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.739036,
+    "why": "Table mismatch: 2nd v bottom (31 pts v 6). Berane lost their last 5 away games by 3+ goals (21 conceded) and have 1 win in 16; Podgorica are unbeaten at home in 6 and won the reverse 3-2."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.59,
+    "p": 0.585088,
+    "why": "Berane games went over 2.5 in 11/12 and in each of their last 5 away games the home side alone scored 3+ (0-4, 2-5, 1-5, 0-4, 0-3); Podgorica 7/12 and 3-0 last week."
+   }
+  ],
+  "avoid": "Podgorica -1.5 @1.83 (home wins 1-0, 2-1, 2-1 recently); Berane team Over 0.5; BTTS",
+  "confidence": 0.35,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/72304578",
+   "https://fscg.me/takmicenja/druga-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72304574",
+  "fx": "FK Zeta Golubovci v FK Lovcen",
+  "home_form": "Golubovci | W3 D5 L4 /12 avgTot 3.0 O1.5 7 O2.5 6 BTTS 7 scored 9 1Hgoal 0 | home gf/ga 1.43/1.29 n7 | away gf/ga 1.6/1.8 n5 || 11-08 A FK Jedinstvo 0-1; 11-04 H Podgorica 0-0; 10-31 A FK Budva 2-2; 10-25 H Berane 5-2; 10-18 H FK Iskra 1-1; 10-11 A FK Rudar 2-3; 10-04 H OFK Grbalj 1-0; 09-30 H Kom Podgorica 1-3; 09-26 A Lovcen 1-0; 09-21 H FK Jedinstvo 2-3; 09-17 A Podgorica 3-3; 09-12 H FK Budva 0-0",
+  "away_form": "Lovcen | W5 D1 L6 /12 avgTot 3.25 O1.5 10 O2.5 8 BTTS 7 scored 11 1Hgoal 1 | home gf/ga 1.17/2.0 n6 | away gf/ga 2.0/1.33 n6 || 11-08 H FK Iskra 1-0; 11-04 A FK Rudar 3-3; 10-31 H OFK Grbalj 1-2; 10-25 A Kom Podgorica 1-2; 10-18 A Berane 3-0; 10-13 H Jezero 1-5(0-3); 10-09 H FK Jedinstvo 2-0; 10-06 A Podgorica 1-2; 09-30 A FK Budva 2-1; 09-26 H Golubovci 0-1; 09-20 A FK Iskra 2-0; 09-16 H FK Rudar 2-4",
+  "trends": {
+   "game totals": "Golubovci O2.5 6/12, Lovcen 8/12",
+   "team totals": "Lovcen scored in 11/12, away gf/ga 2.0/1.33; Golubovci home gf/ga 1.43/1.29",
+   "first half": "no period data",
+   "handicap": "4th (24) v 5th (23); Golubovci W1 in last 6, Lovcen away W4 of 6",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "26-09-26 Lovcen 0-1 Golubovci",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "2. CFL round 17; reverse fixture Golubovci 1-0 away.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Golubovci 1X2/DNB (one win in six); Under 2.5 (Lovcen 8/12 over)",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/72304574",
+   "https://fscg.me/takmicenja/druga-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:76675284",
+  "fx": "Mouloudia Club of Oujda v Stade Marocain",
+  "home_form": "Mouloudia Oujda | W3 D5 L4 /12 avgTot 2.5 O1.5 10 O2.5 6 BTTS 9 scored 10 1Hgoal 0 | home gf/ga 1.5/1.0 n6 | away gf/ga 0.83/1.67 n6 || 11-08 A Olympique Khou 0-2; 11-01 H Khenifra 1-0; 10-25 A Itihad Khemiss 1-2; 10-17 H Chabab Ben Gue 2-2; 10-11 A Massira 2-2; 10-03 H Olymp. Dcheira 2-1; 09-27 A Musulmane Oujd 1-2; 07-05 H Wydad Fes 1-1; 06-27 A U. S. Amal Tiz 1-1; 06-20 H Chabab Ben Gue 1-1; 06-14 A Kenitra 0-1; 06-06 H Musulmane Oujd 2-1",
+  "away_form": "St. Marocain | W6 D1 L5 /12 avgTot 1.75 O1.5 5 O2.5 4 BTTS 5 scored 9 1Hgoal 0 | home gf/ga 1.0/0.8 n5 | away gf/ga 0.86/0.86 n7 || 11-07 H Olympique de S 2-1; 11-01 A Chabab Mohamme 1-0; 10-24 A Olympique Khou 1-1; 10-17 H Khenifra 2-1; 10-10 A Chabab Ben Gue 1-0; 10-03 H Itihad Khemiss 0-1; 09-27 A Massira 1-2; 07-08 A Far Rabat 1-2; 07-05 A Moghreb Tetoua 0-1; 06-27 H Wydad Temara 0-1; 06-20 A Chabab Mohamme 1-0; 06-14 H Massira 1-0",
+  "trends": {
+   "game totals": "Oujda O1.5 10/12, BTTS 9/12; Stade Marocain O1.5 5/12, avg total 1.75",
+   "team totals": "St. Marocain scored in 9/12, mostly exactly once; Oujda home gf/ga 1.5/1.0",
+   "first half": "no period data",
+   "handicap": "10th (8 pts) v 5th (13); H2H Oujda W3 D1 but St. Marocain W4 D1 in last 5",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "26-03-07 St. Marocain 1-3 Mouloudia Ou; 25-10-12 Mouloudia Ou 3-0 St. Marocain; 25-04-20 Mouloudia Ou 2-1 St. Marocain; 24-12-07 St. Marocain 1-1 Mouloudia Ou",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Botola Pro D2 round 8.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Oujda DNB @1.61 (visitors in better form); Under 2.5 (Oujda BTTS 9/12); away picks (Botola away class)",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76675284",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:76675284&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:76675286",
+  "fx": "Olympique Dcheira v JS Massira",
+  "home_form": "Olymp. Dcheira | W6 D4 L2 /12 avgTot 2.25 O1.5 8 O2.5 4 BTTS 6 scored 9 1Hgoal 2 | home gf/ga 1.0/0.33 n6 | away gf/ga 1.83/1.33 n6 || 11-08 H US Yacoub Mans 1-0; 10-31 A Sportive Bouja 3-2; 10-24 H Kenitra 0-0; 10-18 A Soualem 4-1; 10-11 H Wydad Fes 2-0; 10-03 A Mouloudia Oujd 1-2; 09-26 H Olympique Khou 1-0; 07-21 H U. S. Amal Tiz 1-1(0-0); 07-18 A U. S. Amal Tiz 0-0(0-0); 07-05 A Maghreb de Fes 0-2(0-0); 07-02 H Olympique de S 1-1(0-1); 06-28 A Wydad 3-1(2-1)",
+  "away_form": "Massira | W4 D3 L5 /12 avgTot 2.5 O1.5 9 O2.5 8 BTTS 7 scored 7 1Hgoal 1 | home gf/ga 1.71/1.14 n7 | away gf/ga 0.2/1.8 n5 || 11-08 H Wydad Fes 0-1; 10-31 A US Yacoub Mans 1-2; 10-25 H Sportive Bouja 2-1; 10-17 A Kenitra 0-1; 10-11 H Mouloudia Oujd 2-2; 10-04 A Soualem 0-0; 09-27 H St. Marocain 2-1; 07-21 A Union Touarga 0-3(0-0); 07-17 H Union Touarga 1-1(1-0); 07-05 H Raja 3-1; 06-27 A Wydad Fes 0-3; 06-20 H RAC Casablanca 2-1",
+  "trends": {
+   "game totals": "Dcheira home games: 1-0, 0-0, 2-0, 1-0, 1-1, 1-1 (all <=2 goals); Massira aways 1-2, 0-1, 0-0, 0-3, 0-3",
+   "team totals": "Massira away: 1 goal in 5 games (gf 0.2, ga 1.8), W0 D1 L4; Dcheira home ga 0.33",
+   "first half": "little period data",
+   "handicap": "2nd (16 pts, 5-1-1) v 11th (8); Dcheira home W3 D3 L0 in last 6; H2H Dcheira 1-0, 2-1",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "25-05-18 Olymp. Dchei 1-0 Massira; 25-01-19 Massira 1-2 Olymp. Dchei",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Botola Pro D2 round 8; Dcheira's July fixtures were a two-leg play-off v Amal Tiznit (inferred from Sportradar, unverified).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.686524,
+    "why": "Dcheira are unbeaten in 6 at home conceding 2 goals, and Massira have scored once in their last 5 away games (W0 D1 L4); Dcheira won both H2H. DNB because 3 of those 6 home games were draws."
+   }
+  ],
+  "avoid": "Dcheira 1X2 @1.90 and team Over 1.5 (1.0 gf at home); Over 1.5; Massira team Over 0.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76675286",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:76675286&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:76675282",
+  "fx": "Sportive Boujaad v Chabab Ben Guerir",
+  "home_form": "Sportive Boujaad | W3 D6 L3 /12 avgTot 2.25 O1.5 8 O2.5 5 BTTS 6 scored 8 1Hgoal 0 | home gf/ga 1.86/1.0 n7 | away gf/ga 0.4/1.0 n5 || 11-07 A Musulmane Oujd 0-0; 10-31 H Olymp. Dcheira 2-3; 10-25 A Massira 1-2; 10-17 H US Yacoub Mans 1-1; 10-10 H Kenitra 1-1; 10-03 A Wydad Fes 0-3; 09-26 H Olympique de S 0-0; 07-22 H Rapide Oued Ze 4-1; 07-18 A Rapide Oued Ze 1-0; 07-05 H RAC Casablanca 4-0; 06-27 A Chabab Ben Gue 0-0; 06-20 H Wydad Fes 1-1",
+  "away_form": "Chabab Ben Guerir | W3 D5 L4 /12 avgTot 1.67 O1.5 6 O2.5 2 BTTS 4 scored 7 1Hgoal 0 | home gf/ga 0.67/0.33 n6 | away gf/ga 1.0/1.33 n6 || 11-07 H Kenitra 0-1; 10-31 A Wydad Fes 1-3; 10-25 H Chabab Mohamme 2-0; 10-17 A Mouloudia Oujd 2-2; 10-10 H St. Marocain 0-1; 10-04 A Olympique de S 0-1; 09-27 H Soualem 2-0; 07-05 A Soualem 1-1; 06-27 H Sportive Bouja 0-0; 06-20 A Mouloudia Oujd 1-1; 06-13 H Moghreb Tetoua 0-0; 06-07 A RAC Casablanca 1-0",
+  "trends": {
+   "game totals": "Ben Guerir O2.5 2/12, avg 1.67; Boujaad O2.5 5/12",
+   "team totals": "Boujaad home gf/ga 1.86/1.0 inflated by July (4-1, 4-0); this season 5:10 in 7, winless",
+   "first half": "no period data",
+   "handicap": "14th (0 wins in 7) v 12th; priced Boujaad 1.94",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "26-06-27 Chabab Ben G 0-0 Sportive Bou; 26-02-07 Sportive Bou 2-1 Chabab Ben G",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Botola Pro D2 round 8; last two H2H 0-0 and 2-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Boujaad 1X2/DNB (winless this season); Over 1.5",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76675282",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:76675282&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:76675280",
+  "fx": "KAC Kenitra v Ittihad Khemisset",
+  "home_form": "Kenitra | W3 D4 L5 /12 avgTot 1.92 O1.5 6 O2.5 3 BTTS 5 scored 8 1Hgoal 0 | home gf/ga 0.83/0.83 n6 | away gf/ga 1.0/1.17 n6 || 11-07 A Chabab Ben Gue 1-0; 10-31 H Musulmane Oujd 1-1; 10-24 A Olymp. Dcheira 0-0; 10-17 H Massira 1-0; 10-10 A Sportive Bouja 1-1; 10-04 H US Yacoub Mans 0-1; 09-26 H Wydad Fes 0-1; 07-22 H Sportive Manso 2-0; 07-18 A Sportive Manso 0-0; 07-05 A Chabab Mohamme 3-4; 06-27 H Soualem 1-2; 06-20 A Khenifra 1-2",
+  "away_form": "Itihad Khemisset | W6 D2 L4 /12 avgTot 2.0 O1.5 7 O2.5 5 BTTS 5 scored 7 1Hgoal 0 | home gf/ga 1.33/0.83 n6 | away gf/ga 1.0/0.83 n6 || 11-07 H Chabab Mohamme 4-0; 11-01 A Soualem 1-1; 10-25 H Mouloudia Oujd 2-1; 10-18 A Olympique de S 0-1; 10-10 H Olympique Khou 2-1; 10-03 A St. Marocain 1-0; 09-27 A Khenifra 2-1; 03-28 H Moghreb Tetoua 0-1; 06-18 H Musulmane Oujd 0-0; 06-10 A Raja 2-1; 06-03 H Rapide Oued Ze 0-2; 05-27 A Chabab Ben Gue 0-1",
+  "trends": {
+   "game totals": "Kenitra O2.5 3/12, avg 1.9, league 4:4 in 7; Khemisset 12:5 in 7",
+   "team totals": "Kenitra scored <=1 in the last 7; Khemisset away gf/ga 1.0/0.83",
+   "first half": "no period data",
+   "handicap": "7th (9) v 3rd (16); Khemisset W5 of 7 this season",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "21-06-18 Itihad Khemi 0-1 Kenitra",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Botola Pro D2 round 8.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kenitra DNB @1.58 (worse side is favourite); Over 1.5; Khemisset away picks (Botola away class) - lean only: Draw or Away @1.49",
+  "confidence": 0.2,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76675280",
+   "https://www.sportybet.com/api/ng/factsCenter/event?eventId=sr:match:76675280&productId=3"
+  ]
+ },
+ {
+  "eid": "sr:match:72595544",
+  "fx": "ACV Assen v ADO 20 Heemskerk",
+  "home_form": "Assen | W8 D2 L2 /12 avgTot 4.08 O1.5 12 O2.5 10 BTTS 9 scored 12 1Hgoal 9 | home gf/ga 2.86/1.0 n7 | away gf/ga 3.0/1.4 n5 || 11-07 A Excelsior 3-0(0-0); 10-29 H Amsterdamsche  1-2(0-0); 10-24 H Dovo Veenendaa 1-1(0-1); 10-17 A Hoogeveen 4-1(2-0); 10-10 H Vpv Purmerstei 1-1(0-1); 10-03 A VV Scherpenzee 2-4(1-3); 09-26 H SV Zwaluwen Wi 4-0(2-0); 09-22 H Hoogeveen 2-1(0-1); 09-19 A Staphorst 3-2(3-0); 09-12 H VV Eemdijk 5-1(2-1); 09-05 A USV Hercules 3-0(0-0); 09-02 H Westlandia 6-1(5-0)",
+  "away_form": "ADO '20 | W4 D2 L6 /12 avgTot 4.5 O1.5 10 O2.5 10 BTTS 10 scored 10 1Hgoal 10 | home gf/ga 1.83/2.33 n6 | away gf/ga 2.33/2.5 n6 || 11-07 H Harkemase B 2-1(1-1); 10-24 A Genemuiden 2-2(1-0); 10-17 A Sportlust 46 1-2(1-0); 10-10 H Excelsior 3-1(1-0); 10-03 A Dovo Veenendaa 3-1(1-1); 09-27 H Hoogeveen 1-5(1-2); 09-20 A Vpv Purmerstei 1-2(1-1); 09-13 H VV Scherpenzee 0-1(0-0); 09-05 A SV Zwaluwen Wi 6-4(2-3); 09-01 H Excelsior M. 5-6(1-0); 08-29 H Staphorst 0-0(0-0); 08-22 A VV Eemdijk 1-4(0-1)",
+  "trends": {
+   "game totals": "Assen: O1.5 12/12, O2.5 10/12, avg total 4.1; ADO 20: O2.5 10/12, BTTS 10/12, avg 4.5",
+   "team totals": "Assen scored in 12/12 (30:11 in 12 league games), home gf 2.86; ADO away gf/ga 2.33/2.5",
+   "first half": "1H goal 9/12 Assen, 10/12 ADO; but Assen scored in the 1H in only 3 of 7 home games",
+   "handicap": "3rd (27 pts) v 17th (17); Assen last 3 home: 1-2, 1-1, 1-1 - so no result side",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "25-05-24 ADO '20 0-1 Assen; 24-12-14 Assen 2-0 ADO '20",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Derde Divisie round 13.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.6975427868,
+    "why": "Over 2.5 in 10/12 for both sides; Assen have scored in all 12 (2.9 per home game) and ADO 20 concede 2.5 per away game while scoring in 10/12."
+   }
+  ],
+  "avoid": "Assen 1X2 @1.45 / -1.5 (winless in last 3 home games); 1st-half Assen Over 0.5; ADO team Under 1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/72595544",
+   "https://globalsportsarchive.com/en/soccer/competition/derde-divisie-2026-2027/80329"
+  ]
+ },
+ {
+  "eid": "sr:match:72596232",
+  "fx": "VVSB Noordwijkerhout v VV Gemert",
+  "home_form": "Noordwijkerhout | W5 D1 L6 /12 avgTot 3.25 O1.5 10 O2.5 7 BTTS 6 scored 10 1Hgoal 10 | home gf/ga 1.86/1.71 n7 | away gf/ga 1.2/1.6 n5 || 11-08 A Echt 1-0(0-0); 10-28 H Echt 4-0(3-0); 10-24 H Zwaluwen Vlaar 2-4(1-2); 10-17 A SV Togb 3-3(2-2); 10-10 H Blauw Geel 0-2(0-2); 10-03 H Excelsior M. 2-3(1-2); 09-26 A Roosendaal 1-3(0-3); 09-22 A FC Rijnvogels 1-0(0-0); 09-19 H Achilles Veen 2-1(1-0); 09-12 A Noordwijk 0-2(0-1); 09-05 H Lisse 1-2(0-1); 09-02 H Ajax Amateurs 2-0(1-0)",
+  "away_form": "Gemert | W6 D2 L4 /12 avgTot 2.83 O1.5 12 O2.5 6 BTTS 6 scored 9 1Hgoal 9 | home gf/ga 1.4/1.0 n5 | away gf/ga 1.57/1.57 n7 || 11-07 H Excelsior M. 3-1(2-0); 10-29 A Vpv Purmerstei 0-2(0-0); 10-17 H Achilles Veen 2-0(1-0); 10-10 A Noordwijk 0-4(0-3); 10-04 H Lisse 0-2(0-2); 09-27 A Groene 2-1(0-0); 09-23 A IJsselmeervoge 3-0(3-0); 09-20 H Udi 19 1-1(1-1); 09-12 A SV Poortugaal 2-1(1-0); 09-06 H Una 1-1(1-1); 09-02 A FC S-Gravenzan 2-0(0-0); 08-30 A Dongen 2-3(1-1)",
+  "trends": {
+   "game totals": "VVSB O2.5 7/12; Gemert O2.5 6/12 (O1.5 12/12)",
+   "team totals": "VVSB home gf/ga 1.86/1.71; Gemert away 1.57/1.57",
+   "first half": "1H goal 10/12, 9/12",
+   "handicap": "26th (11) v 19th (16); both H2H finished 0-1",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "26-05-10 Gemert 0-1 Noordwijkerh; 25-11-29 Noordwijkerh 0-1 Gemert",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Derde Divisie round 13. House Over 2.5 @1.33 (p 0.71) is NOT backed by form (13/24, H2H 0-1, 0-1).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 @1.33 (only 7/12 and 6/12, both H2H 1-0); GG @1.31; VVSB result",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/72596232",
+   "https://globalsportsarchive.com/en/soccer/competition/derde-divisie-2026-2027/80329"
+  ]
+ },
+ {
+  "eid": "sr:match:72596234",
+  "fx": "RBC Roosendaal v VV Goes",
+  "home_form": "Roosendaal | W3 D2 L7 /12 avgTot 4.17 O1.5 10 O2.5 10 BTTS 7 scored 9 1Hgoal 12 | home gf/ga 1.8/1.8 n5 | away gf/ga 2.0/2.57 n7 || 11-07 A FC Rijnvogels 3-3(3-0); 10-18 A Echt 3-3(2-3); 10-10 H Zwaluwen Vlaar 2-4(1-3); 10-03 A SV Togb 3-4(3-3); 09-26 H Noordwijkerhou 3-1(3-0); 09-22 A VV Eemdijk 1-2(0-1); 09-19 A Excelsior M. 0-5(0-1); 09-12 H Blauw Geel 1-3(0-1); 09-05 H Achilles Veen 3-0(3-0); 09-02 A Gsv 28 4-0(3-0); 08-29 A Noordwijk 0-1(0-1); 08-22 H Lisse 0-1(0-1)",
+  "away_form": "VV Goes | W4 D2 L6 /12 avgTot 4.17 O1.5 11 O2.5 11 BTTS 9 scored 10 1Hgoal 12 | home gf/ga 1.5/2.83 n6 | away gf/ga 2.17/1.83 n6 || 11-07 H Achilles Veen 4-1(0-1); 10-24 A Noordwijk 2-3(0-3); 10-18 H Lisse 2-6(1-2); 10-11 A Groene 1-2(1-1); 10-04 H Udi 19 0-4(0-2); 09-26 A SV Poortugaal 3-0(1-0); 09-20 H Una 2-1(2-0); 09-13 A Dongen 3-2(2-0); 09-06 A Blauw Geel 2-2(1-2); 09-02 H Noordwijk 0-1(0-1); 08-30 H FC Rijnvogels 1-4(0-3); 08-23 A Gemert 2-2(1-1)",
+  "trends": {
+   "game totals": "Roosendaal: O2.5 10/12, avg total 4.2 (21:26 in 11); Goes: O2.5 11/12, O1.5 11/12, avg 4.2 (25:29 in 12)",
+   "team totals": "Roosendaal scored in 9/12, Goes in 10/12; Goes home/away ga 2.83/1.83",
+   "first half": "1H goal in 12/12 for BOTH sides; 1H 2+ goals 7/12 Roosendaal, 9/12 Goes",
+   "handicap": "27th (11) v 18th (17); H2H Roosendaal 3-0, 4-1 but W3 in 12 now",
+   "corners": "no data / no market listed"
+  },
+  "h2h": "26-01-25 VV Goes 1-4 Roosendaal; 25-08-31 Roosendaal 3-0 VV Goes",
+  "absences": "No team news found (lower league, no web coverage); Sportradar form only.",
+  "context": "Derde Divisie round 13. Roosendaal last three: 3-3, 3-3, 2-4.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.28,
+    "p": 0.739952,
+    "why": "Over 2.5 landed in 10/12 Roosendaal games and 11/12 Goes games, a first-half goal in all 24; last two H2H 3-0 and 4-1."
+   }
+  ],
+  "avoid": "Roosendaal 1X2 @1.67 (3 wins in 12); Under 4.5. Lean only: 1st-half Over 1.5 @1.77 (16/24)",
+  "confidence": 0.35,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/72596234",
+   "https://globalsportsarchive.com/en/soccer/competition/derde-divisie-2026-2027/80329"
+  ]
+ }
+]
