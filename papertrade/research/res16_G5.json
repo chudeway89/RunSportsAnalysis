@@ -1,0 +1,711 @@
+[
+ {
+  "eid": "sr:match:74695530",
+  "fx": "Humble Lions FC v Arnett Gardens FC",
+  "home_form": "Humble Lions bottom-tier form, last 8 (latest first): L0-3 Cavalier (H), L0-3 Dunbeholden, L1-2 Racing (H), L0-4 Tru-Juice, D0-0 Chapelton (H), D1-1 Treasure Beach, L1-4 Portmore, L0-5 Waterhouse (H). Scored 4 in 8 and never more than 1. At home: 0-3, 1-2, 0-0, 0-5.",
+  "away_form": "Arnett unbeaten in 6 (Observer): W1-0 Waterhouse, D1-1 Mt Pleasant, D1-1 at Tivoli, W4-1 Molynes, D2-2 at MoBay, D1-1 Portmore, L2-3 at Cavalier, W3-0 Dunbeholden. Lots of draws: scored 1 in 4 of the last 5.",
+  "trends": {
+   "game_totals": "Humble games went 2+ goals in 6 of 8 (driven by goals conceded). The board has O1.5 at 1.12.",
+   "team_totals": "Humble scored <=1 in 8/8 and conceded 3+ in 5/8. Arnett scored 2+ in 4/8.",
+   "first_half": "Humble trailed or were level at HT in most games.",
+   "handicap": "Arnett -1: they win by 2+ only sometimes (4-1, 3-0) and draw a lot.",
+   "corners": "n/a"
+  },
+  "h2h": "Not checked",
+  "absences": "None found",
+  "context": "JPL round 10. Arnett 6th on 13 pts, chasing. Humble near the bottom.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.28,
+    "p": 0.7413,
+    "why": "Humble Lions scored <=1 in all 8 recent games (4 goals in 8). Arnett conceded <=1 in 6 of 8."
+   }
+  ],
+  "avoid": [
+   "Arnett 1X2 at p 0.70 (4 draws in last 8)",
+   "Arnett -1.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.jamaicaobserver.com/2026/11/08/jpl-new-boys-tru-juice-beat-champions-portmore-retake-lead/",
+   "https://www.jamaicaobserver.com/2026/11/11/waterhouses-unbeaten-jpl-run-ended-arnett-jamaicas-el-clasico/",
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:74695534",
+  "fx": "Molynes v Portmore United",
+  "home_form": "Molynes poor: D2-2 at MoBay, L1-2 Mt Pleasant (H), L1-4 at Arnett, W1-0 Cavalier (H), L0-1 Dunbeholden, L0-6 Racing (H), L0-1 Tru-Juice (H), L1-2 Chapelton. Scored <=1 in 7 of 8.",
+  "away_form": "Portmore (champions, 8th on 10 pts) patchy: L1-2 Tru-Juice (H), W2-0 Treasure Beach, D2-2 at MoBay, CONCACAF/Violette L1-2 and W3-1, D0-0 Chapelton, D1-1 Waterhouse, D1-1 at Arnett.",
+  "trends": {
+   "game_totals": "Molynes games 2+ goals in 5/8. Portmore games 2+ in 7/8.",
+   "team_totals": "Molynes scored <=1 in 7/8 (the only exception was 2-2 at MoBay). Portmore scored 2+ in 4/8.",
+   "first_half": "mixed",
+   "handicap": "Portmore have won by 2+ only once in 8 (2-0)",
+   "corners": "n/a"
+  },
+  "h2h": "Not checked",
+  "absences": "None found",
+  "context": "Portmore played Violette AC (CONCACAF Caribbean) midweek in late October, so there may be fixture fatigue.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.21,
+    "p": 0.7898,
+    "why": "Molynes scored <=1 in 7 of 8, including 0-6 and 0-1 at home. Portmore is the champion side."
+   }
+  ],
+  "avoid": [
+   "Portmore 1X2 at p 0.67 (they draw a lot, 1-1, 0-0, 2-2)",
+   "Portmore -1.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.jamaicaobserver.com/2026/11/08/jpl-new-boys-tru-juice-beat-champions-portmore-retake-lead/",
+   "https://www.jamaicaobserver.com/2026/11/11/waterhouses-unbeaten-jpl-run-ended-arnett-jamaicas-el-clasico/",
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:74695532",
+  "fx": "Racing United FC v Tru-Juice FC",
+  "home_form": "Racing chaotic: D0-0 at Chapelton, L3-4 Treasure Beach (H), W2-1 at Humble, D0-0 Waterhouse (H), W4-3 at Tivoli, W6-0 at Molynes, L0-1 MoBay (H), W1-0 at Mt Pleasant.",
+  "away_form": "Tru-Juice (promoted, league leaders): W2-1 at Portmore, W1-0 Chapelton, W5-0 at Treasure Beach, W4-0 Humble, D1-1 at Waterhouse, L0-2 Tivoli, W1-0 at Molynes, D0-0 at MoBay. Strong away record.",
+  "trends": {
+   "game_totals": "Racing games swing between 0-0 and 7 goals. Tru-Juice games 2+ in 6/8.",
+   "team_totals": "Tru-Juice conceded <=1 in 7/8",
+   "first_half": "n/a",
+   "handicap": "The board makes Racing the favourite (p 0.41 v 0.30?) even though Tru-Juice lead the table, which contradicts form.",
+   "corners": "n/a"
+  },
+  "h2h": "Not checked",
+  "absences": "None found",
+  "context": "The house prices Racing as favourites against the league leaders. Form suggests X2, but p 0.59 is mid-band, so I give no pick.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Racing 1X2/-0.5",
+   "Over 2.5"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jamaicaobserver.com/2026/11/08/jpl-new-boys-tru-juice-beat-champions-portmore-retake-lead/",
+   "https://www.jamaicaobserver.com/2026/11/11/waterhouses-unbeaten-jpl-run-ended-arnett-jamaicas-el-clasico/",
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:74695526",
+  "fx": "Tivoli Gardens v Montego Bay United",
+  "home_form": "Tivoli: L1-2 at Mt Pleasant, D1-1 Arnett (H), L1-2 at Cavalier, W3-0 Dunbeholden (H), L3-4 Racing (H), W2-0 at Tru-Juice, D1-1 Chapelton (H), D1-1 at Treasure Beach. Scored in 8/8.",
+  "away_form": "MoBay: D2-2 Molynes, D2-2 Portmore, L1-2 at Mt Pleasant, D2-2 Arnett, W3-1 at Cavalier, W1-0 Dunbeholden, W1-0 at Racing, D0-0 Tru-Juice. 4 draws in last 5.",
+  "trends": {
+   "game_totals": "Tivoli games had 2+ goals in 8/8 and MoBay games in 5/8 (the last 5 all had 3+ or 4 goals).",
+   "team_totals": "Tivoli scored 1+ in 8/8. MoBay conceded in 6/8.",
+   "first_half": "MoBay games 2-2 at HT twice recently",
+   "handicap": "MoBay are draw-prone, so avoid a MoBay result-side",
+   "corners": "n/a"
+  },
+  "h2h": "Not checked",
+  "absences": "None found",
+  "context": "Mid-table. MoBay are favoured away at p 0.51.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7847,
+    "why": "Tivoli games had 2+ goals in 8/8 and MoBay's last 5 games all had 3+ goals."
+   },
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.39,
+    "p": 0.6782,
+    "why": "Tivoli scored in all 8 recent games, home and away. MoBay conceded in 6 of 8."
+   }
+  ],
+  "avoid": [
+   "MoBay 1X2 / -0.5 (4 draws in 5)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.jamaicaobserver.com/2026/11/08/jpl-new-boys-tru-juice-beat-champions-portmore-retake-lead/",
+   "https://www.jamaicaobserver.com/2026/11/11/waterhouses-unbeaten-jpl-run-ended-arnett-jamaicas-el-clasico/",
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:76708748",
+  "fx": "Aguilas de la Universidad de Panama v Veraguas United FC B",
+  "home_form": "Aguilas UP: D1-1 at Veraguas B (Nov 12, the same fixture 3 days earlier), W3-2, D1-1, W3-1, W3-1, L0-2, W3-1.",
+  "away_form": "Veraguas United B (RESERVE side): D1-1 v Aguilas, W12-0 Herrera, W4-2, W3-1, W2-0, L0-2, L1-5.",
+  "trends": {
+   "game_totals": "High-scoring league",
+   "team_totals": "n/a",
+   "first_half": "no data",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Drew 1-1 on Nov 12 and Aguilas won 3-0 on Sep 25",
+  "absences": "Unknown",
+  "context": "Liga Prom (2nd tier). The away side is a reserve (B) team. This is a repeat fixture 3 days after the 1-1, so it may be a two-legged tie.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Anything: reserve side, thin data"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "Sportradar gismo stats_team_lastx",
+   "https://en.wikipedia.org/wiki/Liga_Prom"
+  ]
+ },
+ {
+  "eid": "sr:match:76777258",
+  "fx": "AD San Rafael v CD El Vencedor",
+  "home_form": "San Rafael: L1-2, L1-2 (H), W5-0 (H), L0-2, D2-2 (H), D1-1 (H), L0-1, L0-1.",
+  "away_form": "El Vencedor: D2-2, W1-0, L2-3, D0-0, L0-2, W3-2, W2-0, D1-1.",
+  "trends": {
+   "game_totals": "mixed",
+   "team_totals": "n/a",
+   "first_half": "no data",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Not found",
+  "absences": "Unknown",
+  "context": "El Salvador 2nd tier. Thin coverage.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "All"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "Sportradar gismo stats_team_lastx",
+   "https://en.wikipedia.org/wiki/2026_Liga_de_Ascenso"
+  ]
+ },
+ {
+  "eid": "sr:match:76174028",
+  "fx": "Envigado FC v Union Magdalena",
+  "home_form": "Envigado (Torneo I champions): W2-0 Boca (H), L0-1 at Boca, D1-1 at Magdalena, W2-0 Independiente (H), W2-0 at Boyaca, W1-0 Barranquilla (H), D1-1 Real Santander (H), D1-1 Internacional (H). No game in 8 had more than 2 goals, and they conceded <=1 in 8/8.",
+  "away_form": "Union Magdalena: D0-0, D1-1, D1-1 v Envigado, D1-1, W1-0, W1-0, D1-1, D2-2. Six draws in 8. Scored <=1 in 7/8.",
+  "trends": {
+   "game_totals": "Under 3.5 hit in 15 of 16 team games (the only exception was Magdalena 2-2). Under 2.5 hit in 15/16.",
+   "team_totals": "Magdalena scored <=1 in 7/8 and Envigado conceded <=1 in 8/8",
+   "first_half": "0-0 or 1-0 at HT in most games",
+   "handicap": "Envigado wins are by 1-2 goals",
+   "corners": "n/a"
+  },
+  "h2h": "1-1 on Nov 3 (quadrangular matchday 2). Magdalena won 3-1 on Oct 17 (365scores lists it; scoreline order unverified).",
+  "absences": "None found",
+  "context": "Quadrangular semifinal matchday 5. Magdalena 3rd on 4 pts, so they need the win. Envigado beat Boca 2-0 last time out. Group winner reaches the final. Polideportivo Sur, 15:50 local (20:50 UTC), consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.27,
+    "p": 0.7503,
+    "why": "Magdalena scored <=1 in 7 of 8 and Envigado conceded <=1 in all 8 recent games. The earlier meeting was 1-1."
+   },
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Under 3.5",
+    "odds": 1.18,
+    "p": 0.8159,
+    "why": "15 of 16 recent games across both teams stayed under 3.5. Both are low-scoring, draw-heavy sides. The house p is 0.82."
+   }
+  ],
+  "avoid": [
+   "Over 2.5",
+   "Envigado DNB at p 0.60 (Magdalena draw-prone, though DNB covers the draw)"
+  ],
+  "confidence": 0.35,
+  "sources": [
+   "https://www.winsports.co/futbol-colombiano/noticias/en-vivo-union-magdalena-vs-envigado-minuto-a-minuto-y-goles-fecha-2-cuadrangulares-475329",
+   "https://primertiempo.co/futbol/union-magdalena-busca-su-primera-victoria-en-cuadrangulares-ante-envigado/",
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:73719646",
+  "fx": "Phoenix Suns v Los Angeles Lakers",
+  "home_form": "Suns 5-6.",
+  "away_form": "Lakers 11-2 (joint-best record).",
+  "trends": {
+   "game_totals": "Line ~227.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Lakers -2.5 to -3.5",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "Lakers: Austin Reaves OUT (heel bruise), Cameron Carr OUT. Sexton, Thiero and Bronny James questionable. Suns: Mark Williams OUT.",
+  "context": "Reaves out lowers Lakers' edge. Lakers ML p 0.58, below the 0.75 gate.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Lakers ML/handicap (Reaves out, p<0.75)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.talkbasket.net/228284-nba-injury-report-embiid-reaves-out-on-sunday-november-15",
+   "https://clutchpoints.com/nba/los-angeles-lakers/lakers-vs-suns-injury-report-bronny-james-collin-sexton-join-austin-reaves"
+  ]
+ },
+ {
+  "eid": "sr:match:76422378",
+  "fx": "CD Cobreloa Calama v Puerto Montt",
+  "home_form": "Cobreloa (top, 54 pts, level with San Luis): W1-0 at Rangers, W6-1 Recoleta (H), L1-2 at Copiapo, L1-2 Coquimbo (cup), W1-0 at Temuco, W1-0 Wanderers (H). Strong at altitude in Calama.",
+  "away_form": "Puerto Montt: W3-1 San Felipe (H), D0-0 at San Marcos, L0-1 San Luis (H), L0-3 at Colo-Colo (cup), L0-3 at Copiapo, L1-2 at Nublense. Away: scored 1 goal in the last 4 away games.",
+  "trends": {
+   "game_totals": "Cobreloa games often low (1-0s)",
+   "team_totals": "Puerto Montt scored 0 in 3 of last 4 away",
+   "first_half": "Cobreloa HT 0-0 often (slow starts)",
+   "handicap": "Cobreloa wins mostly by 1 goal, except 6-1, so avoid -1.5",
+   "corners": "n/a"
+  },
+  "h2h": "Not checked",
+  "absences": "None found",
+  "context": "FINAL ROUND (30). Cobreloa and San Luis are level on 54. The better result wins the title and direct promotion, and a tie leads to a playoff. Cobreloa MUST WIN at home in Calama (altitude). The tribunal left Puerto Montt unsanctioned, so they likely have nothing to play for. 18:00 local = 21:00 UTC, consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.7311,
+    "why": "Must-win title decider at home at altitude, against a Puerto Montt side with little at stake that has scored 1 goal in its last 4 away games."
+   }
+  ],
+  "avoid": [
+   "Cobreloa -1.5 (1-goal wins typical)",
+   "Over 2.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.t13.cl/noticia/deportes13/programacion-completa-donde-ver-cada-partido-decisiva-ultima-fecha-primera-b-12-11-2026",
+   "https://duplos.cl/deportes/cobreloa-san-luis-definicion-primera-b-partidos-ascenso-descenso-2026/285157/2026/11/15/",
+   "https://www.diarioeldia.cl/noticias/2026/11/12/156656-quien-sube-y-quien-baja-la-primera-b-prepara-una-ultima-fecha-llena-de-suspenso",
+   "Sportradar gismo stats_team_lastx",
+   "https://www.latercera.com/el-deportivo/noticia/donde-y-a-que-hora-ver-cobreloa-vs-deportes-puerto-montt-en-la-pelea-por-ser-el-campeon-de-la-primera-b/"
+  ]
+ },
+ {
+  "eid": "sr:match:76422232",
+  "fx": "CD Santa Cruz v CSD Rangers",
+  "home_form": "Santa Cruz: D1-1, D0-0 (H), L1-2, L1-2 (H), L1-3 (H), L1-2, D0-0 (H). Winless in 7.",
+  "away_form": "Rangers: L0-1 Cobreloa (H), L1-4, W4-0 San Felipe (H), L0-2, L1-2 (H), W2-1, W1-0.",
+  "trends": {
+   "game_totals": "Santa Cruz games are low (0-0 twice)",
+   "team_totals": "Santa Cruz scored <=1 in 8/8",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Not checked",
+  "absences": "None found",
+  "context": "Relegation battle: Rangers, San Felipe and Santa Cruz are the candidates, and goal difference may decide it. A six-pointer with tense, unpredictable stakes.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Result sides (relegation six-pointer)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.t13.cl/noticia/deportes13/programacion-completa-donde-ver-cada-partido-decisiva-ultima-fecha-primera-b-12-11-2026",
+   "https://duplos.cl/deportes/cobreloa-san-luis-definicion-primera-b-partidos-ascenso-descenso-2026/285157/2026/11/15/",
+   "https://www.diarioeldia.cl/noticias/2026/11/12/156656-quien-sube-y-quien-baja-la-primera-b-prepara-una-ultima-fecha-llena-de-suspenso",
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:76422376",
+  "fx": "Deportes Magallanes v CD Antofagasta",
+  "home_form": "Magallanes: L1-4, L0-1 San Luis (H), W2-1, W1-0 (H), W2-0 (H), D1-1, D0-0 (H).",
+  "away_form": "Antofagasta: L0-4 at U de Chile (cup), W4-0 (H), D0-0 at Santa Cruz, W3-0 (H), W2-0 (H), W2-0 Rangers (H), W4-1 (H), D1-1 away. Strong at home, modest away.",
+  "trends": {
+   "game_totals": "Magallanes home games are low (0-1, 1-0, 2-0, 0-0)",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Not checked",
+  "absences": "None found",
+  "context": "Final round. Both are likely mid-table with little at stake.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "All (possible dead rubber)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.t13.cl/noticia/deportes13/programacion-completa-donde-ver-cada-partido-decisiva-ultima-fecha-primera-b-12-11-2026",
+   "https://duplos.cl/deportes/cobreloa-san-luis-definicion-primera-b-partidos-ascenso-descenso-2026/285157/2026/11/15/",
+   "https://www.diarioeldia.cl/noticias/2026/11/12/156656-quien-sube-y-quien-baja-la-primera-b-prepara-una-ultima-fecha-llena-de-suspenso",
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:76422380",
+  "fx": "San Marcos de Arica v San Luis de Quillota",
+  "home_form": "San Marcos: W2-1 at Temuco, D0-0 Puerto Montt (H), L0-3 at Antofagasta, W2-1 at Santa Cruz, W3-0 Curico (H), L1-2, W2-1 Copiapo (H).",
+  "away_form": "San Luis (54 pts, level top): D1-1 Recoleta (H), W1-0 at Magallanes, W1-0 at Puerto Montt, W2-0 U Espanola (H), W1-0 at San Felipe, W2-1 (H), W4-2 Cobreloa (H), W1-0 at Iquique. Won the last 4 away games, all 1-0.",
+  "trends": {
+   "game_totals": "San Luis games under 3.5 in 7/8",
+   "team_totals": "San Luis conceded 0 in the last 4 away",
+   "first_half": "San Luis away often 0-0 or 0-1 at HT",
+   "handicap": "San Luis away wins are by exactly 1",
+   "corners": "n/a"
+  },
+  "h2h": "Not checked",
+  "absences": "None found",
+  "context": "FINAL ROUND title decider. San Luis must better Cobreloa's result. The tribunal revoked San Marcos' disaffiliation, so they play with little at stake. Played in Arica.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.48,
+    "p": 0.6378,
+    "why": "San Luis need the win for the title and have won their last 4 away games 1-0. San Marcos have little to play for. DNB covers the draw."
+   }
+  ],
+  "avoid": [
+   "San Luis -1.5",
+   "Over 2.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.t13.cl/noticia/deportes13/programacion-completa-donde-ver-cada-partido-decisiva-ultima-fecha-primera-b-12-11-2026",
+   "https://duplos.cl/deportes/cobreloa-san-luis-definicion-primera-b-partidos-ascenso-descenso-2026/285157/2026/11/15/",
+   "https://www.diarioeldia.cl/noticias/2026/11/12/156656-quien-sube-y-quien-baja-la-primera-b-prepara-una-ultima-fecha-llena-de-suspenso",
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:76422300",
+  "fx": "Union San Felipe v Union Espanola",
+  "home_form": "San Felipe: L1-3, D2-2 (H), L0-4, L0-2 (H), L0-1 (H), L1-4 (H), D0-0, D0-0 (H). Winless in 8 and no home win.",
+  "away_form": "Union Espanola: L1-2 (H), W1-0 (H), L0-1, L0-2, D1-1 (H), L1-2, D1-1, L0-1 (H). Poor.",
+  "trends": {
+   "game_totals": "Both are low-scoring",
+   "team_totals": "U Espanola scored <=1 in 8/8",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Not checked",
+  "absences": "None found",
+  "context": "San Felipe are in the relegation fight (must-win), but their home form is dire. Union Espanola have little at stake.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Result sides"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.t13.cl/noticia/deportes13/programacion-completa-donde-ver-cada-partido-decisiva-ultima-fecha-primera-b-12-11-2026",
+   "https://duplos.cl/deportes/cobreloa-san-luis-definicion-primera-b-partidos-ascenso-descenso-2026/285157/2026/11/15/",
+   "https://www.diarioeldia.cl/noticias/2026/11/12/156656-quien-sube-y-quien-baja-la-primera-b-prepara-una-ultima-fecha-llena-de-suspenso",
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:73075404",
+  "fx": "CD Platense Municipal Zacatecoluca v Atletico Balboa",
+  "home_form": "Platense: L1-2, L0-2 (H), D0-0, D1-1 (H), W3-2, W4-1, W2-1 (H), L1-2.",
+  "away_form": "Atletico Balboa: W4-1 (H), W4-3 away, W1-0 (H), W2-1 away, D2-2, L0-1, L2-3, L0-2. 4 straight wins.",
+  "trends": {
+   "game_totals": "Balboa games recently 3+ goals",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Not checked",
+  "absences": "Unknown",
+  "context": "El Salvador Primera. Balboa are in form, but the house still makes Platense favourite (p 0.41). Thin coverage.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Platense 1X2"
+  ],
+  "confidence": 0.12,
+  "sources": [
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:72475090",
+  "fx": "Deportivo San Pedro v CD Marquense",
+  "home_form": "San Pedro: L1-2 at Mixco, W1-0 Municipal (H), L0-1 at Antigua, D2-2 Malacateco (H), L1-3, D1-1, W2-1 Comunicaciones (H), L0-2. Home: W1-0, D2-2, W2-1.",
+  "away_form": "Marquense: L0-2 Comunicaciones (H), L0-2 at Xelaju, D0-0 Guastatoya (H), L1-3 at Coban, W2-1 (H), D1-1 (H), D1-1 at Municipal, W2-1 (H). Away: 0-2, 1-3, 1-1. Scored <=1 in 7/8 overall.",
+  "trends": {
+   "game_totals": "Low",
+   "team_totals": "Marquense scored <=1 in 7 of 8 and failed to score in 3 of the last 4",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "First-ever league meeting (Sep 12) ended 0-0",
+  "absences": "None found",
+  "context": "San Marcos department DERBY (Jornada 20 of Apertura 2026) at Estadio Municipal, San Pedro Sacatepequez. 15:00 local = 21:00 UTC, consistent. No result-side because it is a derby.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.2,
+    "p": 0.7947,
+    "why": "Marquense scored <=1 in 7 of 8 (0-2, 0-2, 0-0 in the last 4), and the first derby was 0-0."
+   }
+  ],
+  "avoid": [
+   "San Pedro 1X2 / DNB (derby)",
+   "Over 2.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.prensalibre.com/deportes/futbol-nacional/derbi-sin-goles-marquense-y-san-pedro-empatan-en-la-novena-jornada-del-apertura-2026-breaking/",
+   "https://www.365scores.com/en-us/football/match/liga-nacional-6211/deportivo-marquense-san-pedro-9022-11317-6211",
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:76646578",
+  "fx": "Deportivo Fraijanes v Nueva Santa Rosa Cdf",
+  "home_form": "Fraijanes: W1-0 and W3-0 v Huehuetecos (two legs, Nov 4/9, likely a playoff), W5-2, D1-1, D2-2, W3-1, W1-0.",
+  "away_form": "Nueva Santa Rosa: W3-1 and L1-2 v Coatepeque (two legs), W2-1, D1-1, W2-0, W2-0, W1-0.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Not checked",
+  "absences": "Unknown",
+  "context": "Guatemala Primera Division (2nd tier). Both just finished two-legged ties, so this is likely a playoff leg (knockout).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Result sides (possible knockout leg)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "Sportradar gismo stats_team_lastx"
+  ]
+ },
+ {
+  "eid": "sr:match:76642966",
+  "fx": "Cerro Porteno v Sol de America Villa Elisa",
+  "home_form": "Cerro: D1-1 Recoleta, W1-0 at Libertad, L0-2 Olimpia, W3-1, D2-2, W7-5 (cup), W3-0, L0-2. Inconsistent.",
+  "away_form": "Sol de America (2nd division, Intermedia): D1-1 Tembetary on Oct 24, then no game for 3 weeks. W3-2 v Tembetary (cup QF).",
+  "trends": {
+   "game_totals": "Cerro games are volatile",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found",
+  "context": "Copa Paraguay SEMIFINAL, single leg at a NEUTRAL venue (Luis Salinas, Itaugua), 18:00 local = 21:00 UTC. Knockout settles on 90 minutes. Cerro are under heavy pressure ('Toda la presion para Cerro'). Sol de America cannot take the Libertadores spot.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Cerro 1X2/-0.5 (knockout, neutral venue). DNB 1.16 is below the odds floor."
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/11/oscar-acosta-jugaremos-en-la-cancha-que-asigno-la-copa-paraguay/",
+   "https://www.lanacion.com.py/futboledicion-impresa/2026/11/15/toda-la-presion-para-cerro/",
+   "https://www.365scores.com/es/news/cerro-porteno-vs-sol-de-america-copa/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719648",
+  "fx": "LA Clippers v Charlotte Hornets",
+  "home_form": "Clippers: Beal OUT, Ingram OUT, J. Miller OUT, Niederhauser OUT.",
+  "away_form": "Hornets: sources conflict (Knueppel and Schroder out per TalkBasket; Brandon Miller per Dunkest).",
+  "trends": {
+   "game_totals": "~214.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "pick'em",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "See forms",
+  "context": "Pick'em with heavy injuries and conflicting reports.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "All (data conflict on injuries)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.talkbasket.net/228284-nba-injury-report-embiid-reaves-out-on-sunday-november-15",
+   "https://clutchpoints.com/nba/los-angeles-lakers/lakers-vs-suns-injury-report-bronny-james-collin-sexton-join-austin-reaves",
+   "https://www.squawka.com/ca/nba/injury-report/"
+  ]
+ },
+ {
+  "eid": "sr:match:76485250",
+  "fx": "CA Nacional Potosi v Real Potosi",
+  "home_form": "Nacional Potosi (defending champions): D5-5 at Real, D1-1 v Real (H), W5-1, D1-1, W3-0, L2-3, L0-1 Bolivar, D2-2. Games over 2.5 in 6/8.",
+  "away_form": "Real Potosi: D5-5, D1-1, L0-1, D1-1, L1-2, W3-1, W1-0, W1-0.",
+  "trends": {
+   "game_totals": "First leg 5-5. Nacional games over 2.5 in 6/8, Real games in 4/8",
+   "team_totals": "Both scored in 5 of the last 6 meetings or games",
+   "first_half": "First leg 2-4 at HT",
+   "handicap": "level tie",
+   "corners": "n/a"
+  },
+  "h2h": "5-5 (Nov 12, 1st leg) and 1-1 (Nov 8, league)",
+  "absences": "None found",
+  "context": "Copa Bolivia SEMIFINAL 2nd leg, Potosi DERBY, tie level after 5-5, at Victor Agustin Ugarte (both clubs' city, ~4,000 m). Knockout settles on 90 minutes. Kickoff 17:15-17:30 local (21:15-21:30 UTC), close to the board's 21:30.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.42,
+    "p": 0.6702,
+    "why": "The first leg was 5-5, Nacional games went over 2.5 in 6/8, and the high altitude favours goals. Tension in the level 2nd leg is the risk."
+   }
+  ],
+  "avoid": [
+   "Any result side (derby, knockout)",
+   "Under 3.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.vision360.bo/noticias/2026/11/15/77256-nacional-y-real-potosi-el-duelo-esta-abierto-luego-del-vibrante-5-5",
+   "https://www.erbol.com.bo/deporte/vuelve-el-cl%C3%A1sico-potosino-para-este-domingo",
+   "https://fmbolivia.com.bo/deportes/clasico-potosino-en-semifinales-nacional-potosi-y-real-potosi-definiran-un-cupo-a-la-final-de-la-copa-bolivia-21714"
+  ]
+ },
+ {
+  "eid": "sr:match:73719650",
+  "fx": "Utah Jazz v San Antonio Spurs",
+  "home_form": "Jazz: weak, rebuilding. Markkanen OUT (hand fracture), Nurkic OUT.",
+  "away_form": "Spurs 11-2 (joint best). Tobias Harris OUT (calf).",
+  "trends": {
+   "game_totals": "~225.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Spurs -16.5",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "Markkanen and Nurkic out (Utah). Harris out (SAS).",
+  "context": "The Jazz +16.5 catch is a weak receiver at 15+ points, banned by rule (L26). Spurs ML is too short.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Jazz +14.5/+16.5 catches (weak receiver)",
+   "Spurs -16.5 (blowout variance, garbage time)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.talkbasket.net/228284-nba-injury-report-embiid-reaves-out-on-sunday-november-15",
+   "https://www.squawka.com/ca/nba/injury-report/"
+  ]
+ },
+ {
+  "eid": "sr:match:75370488",
+  "fx": "Sporting Cristal v Alianza Atletico",
+  "home_form": "Cristal: D1-1, W5-0 (H), W3-2 Alianza Lima (H), L1-3, W4-2 (H), W1-0, W5-0 ADT (semi 2nd leg).",
+  "away_form": "Alianza Atletico: L0-2 at Cajamarca, W1-0, W3-2, L1-4, L1-4 v Universitario, W3-1, W3-0 at Sport Boys (semi).",
+  "trends": {
+   "game_totals": "Cristal games 3+ goals in 5/8",
+   "team_totals": "Cristal scored 3+ in 4 straight home games, but this is a neutral venue",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Liga 1 2026: one 3-1 win each",
+  "absences": "None found",
+  "context": "Copa de la Liga FINAL, single match at a NEUTRAL venue: Estadio Mansiche, Trujillo, an emergency switch because the Estadio Nacional is unavailable for the Pope's visit. 17:00 Peru = 22:00 UTC, consistent. Knockout. The board lists Cristal as home, but the venue is neutral.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Cristal 1X2 (final, neutral venue; knockout rule allows only To Qualify/DNB)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://ahora.com.pe/deportes/final-copa-liga-2026-cristal-alianza-atletico-mansiche",
+   "https://www.infobae.com/peru/deportes/2026/11/11/sporting-cristal-vs-alianza-atletico-dia-hora-donde-ver-la-final-en-trujillo-por-la-copa-de-la-liga-2026/",
+   "https://www.futbolperuano.com/copa-de-la-liga/noticias/sporting-cristal-vs-alianza-atletico-en-vivo-por-la-final-de-la-copa-de-la-liga-2026-612663"
+  ]
+ },
+ {
+  "eid": "sr:match:76775944",
+  "fx": "Club Oriental de Football v Colon FC",
+  "home_form": "Oriental: L0-1, D1-1 (H), L2-3, D1-1 (H), L1-3, D0-0, W3-2 (H), W2-0.",
+  "away_form": "Colon: W1-0, W1-0 (H), L2-3, W3-0 (H), W3-1, D0-0, L0-3, L0-3.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "0-0 (Oct 4)",
+  "absences": "Unknown",
+  "context": "Uruguay Segunda. Thin coverage (69 outcomes).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "All"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "Sportradar gismo stats_team_lastx"
+  ]
+ }
+]

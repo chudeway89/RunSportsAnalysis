@@ -1,0 +1,535 @@
+[
+ {
+  "eid": "sr:match:72653742",
+  "fx": "BK Dukes Klosterneuburg v Kufstein Towers",
+  "home_form": "Klosterneuburg last 8: W 84-73 at Vienna (Nov 13), L 66-85 at Oberwart, L 63-91 v Traiskirchen (H), W 89-69 v St.Polten (H), L 75-96 at Kapfenberg, L 94-102 at Graz, L 75-80 v Gmunden (H), W 86-81 at Wels. 3-5; home 1-2.",
+  "away_form": "Kufstein (promoted newcomer) last 8: L 73-84 v Gmunden (H), L 79-97 at Nord Dragonz, L 82-94 v Kapfenberg (H), L 83-97 v Wels (H), L 79-111 at Oberwart, L 52-79 at Traiskirchen, W 102-80 v Vienna (H), L 77-85 at St.Polten. 1-7 (ORF table: last, 1 win in 9). Away 0-4, lost by 8/18/27/32.",
+  "trends": {
+   "game_totals": "Klost games avg ~164 (5/8 over 155.5); Kufstein games avg ~169 (7/8 over 155.5)",
+   "team_totals": "Kufstein scores 52-83 away (avg ~72)",
+   "first_half": "n/a",
+   "handicap": "Kufstein lost 6 of 7 defeats by 8+; Klost home results volatile (+20, -28, -5)",
+   "corners": "n/a"
+  },
+  "h2h": "No recent H2H found (Kufstein new to league).",
+  "absences": "None found.",
+  "context": "Austrian Superliga, round ~10, normal domestic Sunday. Kufstein newcomer, 1-8, all four away games lost by 8+.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.7759,
+    "why": "Kufstein promoted newcomer 1-8, 0-4 away with losses by 8,18,27,32; Klosterneuburg won at Vienna Friday"
+   }
+  ],
+  "avoid": [
+   "Away +11.5/+13.5 catches (Kufstein routed away)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "https://sport.orf.at/stories/3162663/",
+   "https://www.proballers.com/basketball/league/189/austria-superliga/schedule",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72653738",
+  "fx": "Flyers Wels v Oberwart Gunners",
+  "home_form": "Wels last 8: L 93-95 at St.Polten (Nov 13), W 76-62 v Vienna (H), W 99-79 v Nord (H), W 97-83 at Kufstein, W 82-77 v Graz (H), L 77-79 at Gmunden, L 61-103 at Traiskirchen, L 81-86 v Klost (H). 4-4; home 3-1.",
+  "away_form": "Oberwart (2025-26 finalist) last 8: L 77-81 v Traiskirchen (H), W 85-66 v Klost (H), W 79-54 at St.Polten, W 111-79 v Kufstein (H), W 93-80 at Graz, L 80-92 v Kapfenberg (H), L 87-93 at Nord, W 114-58 v Vienna (H). 5-3; away 2-1.",
+  "trends": {
+   "game_totals": "Wels games 188,138,178,180,159,156,164,167 (7/8 over 152.5); Oberwart games 158,151,133,190,173,172,180,172 (6/8 over 152.5)",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Wels home 3-1; Oberwart away margins +25,+13,-6",
+   "corners": "n/a"
+  },
+  "h2h": "No 2026-27 H2H found.",
+  "absences": "None found.",
+  "context": "Regular league game; Wels played Friday (back-to-back-ish 2 days).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=152.5",
+    "desc": "Over 152.5",
+    "odds": 1.22,
+    "p": 0.7889,
+    "why": "13 of 16 combined recent games went over 152.5; both teams' typical games 156-180"
+   }
+  ],
+  "avoid": [
+   "Oberwart ML/handicap (Wels 3-1 at home)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "https://sport.orf.at/stories/3162663/",
+   "https://www.proballers.com/basketball/league/189/austria-superliga/schedule",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72653740",
+  "fx": "Swans Gmunden v Traiskirchen Lions",
+  "home_form": "Gmunden 8-0 per Sportradar: W 84-73 at Kufstein (Nov 13), W 96-80 v Graz (H), W 86-72 at Vienna, W 86-79 at Nord, W 86-72 v Kapfenberg (H), W 77-76 at St.Polten, W 79-77 v Wels (H), W 80-75 at Klost. Home 3-0.",
+  "away_form": "Traiskirchen 8-0: W 88-77 v Kapfenberg (H, Nov 13), W 81-77 at Oberwart, W 91-63 at Klost, W 83-69 v Nord (H), W 79-52 v Kufstein (H), W 90-73 at St.Polten, W 103-61 v Wels (H), W 85-82 at Graz. Away 4-0.",
+  "trends": {
+   "game_totals": "Gmunden games 157,176,158,165,158,153,156,155 (8/8 over 150.5); Traiskirchen 165,158,154,152,131,163,164,167 (7/8 over 150.5)",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Gmunden wins mostly narrow (1,2,5,7,11,14,14,16)",
+   "corners": "n/a"
+  },
+  "h2h": "None found this season.",
+  "absences": "None found.",
+  "context": "Top-of-table clash of two unbeaten sides; both played Friday Nov 13. Side is a coin-flip-ish; no result pick.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=150.5",
+    "desc": "Over 150.5",
+    "odds": 1.22,
+    "p": 0.7899,
+    "why": "15 of 16 recent games of these two went over 150.5 (only Trais 79-52 v Kufstein under)"
+   }
+  ],
+  "avoid": [
+   "Any side/handicap (two unbeaten teams, tight margins)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "https://sport.orf.at/stories/3162663/",
+   "https://www.proballers.com/basketball/league/189/austria-superliga/schedule",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72628580",
+  "fx": "Baketball Polabi v Slavoj BK Litomerice",
+  "home_form": "Polabi 2-6: L 93-100 at Sokol, L 79-80 v CZ Academy (H), W 86-75 at Slavia, L 75-89 v Jindrichuv Hradec (H), L 73-77 at Prague B, L 93-98 at Wolves, W 88-72 v Lynx (H), L 75-84 at Decin. Home 1-2.",
+  "away_form": "Litomerice 3-4 this season: W 67-64 at Lynx, W 89-83 v Wolves (H), L 78-88 v Decin, L 74-81 v Prague B, W 93-82 at Sokol, L 80-96 at Slavia, L 70-76 v Jindrichuv.",
+  "trends": {
+   "game_totals": "Polabi games 159-193; no totals market in range",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Polabi favoured (p0.65) despite 2-6 and 1-2 home",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Czech second tier, thin coverage, no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Home ML 1.44 (Polabi 2-6, home 1-2)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (sr.py)",
+   "https://www.livescores.com/basketball/austria/superliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72660008",
+  "fx": "Art Giants Dusseldorf v Iserlohn Kangaroos",
+  "home_form": "Dusseldorf 4-4: W 73-62 at Herten (Nov 13), L 84-93 v Schwelm, L 73-75 at Wedel, L 57-75 v Sixers, W 76-70 at Hagen, W 77-66 v SG Braunschweig, L 80-96 at Bernau, W 86-80 v Rostock. Home 2-2.",
+  "away_form": "Iserlohn 3-5, four straight losses: L 72-91 v Munster, L 78-79 v Herten, L 80-87 at Schwelm, L 83-84 v Bernau, W 78-75 at Itzehoe, W 71-68 at Sixers, W 91-72 v Junior, L 72-89 at SG Braunschweig.",
+  "trends": {
+   "game_totals": "Dusseldorf games often low (132-148 in 4/8); Iserlohn 139-167",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Iserlohn losses mostly close (1,1,7) except Munster",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "ProB Nord; both played Friday. Iserlohn slight favourite despite 4-game skid.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Iserlohn ML"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (sr.py)",
+   "https://www.easycredit-bbl.de/"
+  ]
+ },
+ {
+  "eid": "sr:match:72660464",
+  "fx": "SV Fellbach Flashers v Giants Leverkusen",
+  "home_form": "Fellbach 5-3: L 74-92 at Langen, W 103-73 v Bayern II (H), W 91-56 at Ludwigsburg II, W 98-81 v Lowen (H), L 57-72 at Rhondorf, L 70-92 at Reutlingen, W 95-90 v Skyliners Jr (H), W 92-73 at Coburg. Home 3-0.",
+  "away_form": "Leverkusen 7-1: W 89-60 v Ludwigsburg, W 93-78 at Rhondorf, W 72-66 v Bayern, W 74-53 at Coburg, W 76-73 v Ahorn Camp, W 68-66 at Culture City, W 88-65 v Lowen, L 68-86 at Oberhaching. Away 3-1.",
+  "trends": {
+   "game_totals": "Leverkusen games low: 149,171,138,127,149,134,153,154 (7/8 under 160.5); Fellbach games 129-185 (5/8 over 160.5)",
+   "team_totals": "Leverkusen allows ~66 pg",
+   "first_half": "n/a",
+   "handicap": "Fellbach unbeaten at home (+30,+17,+5)",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "ProB Sud top clash; conflicting styles. No edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Fellbach +5.5 not clear; totals conflicting"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (sr.py)",
+   "https://www.easycredit-bbl.de/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432166",
+  "fx": "Pallacanestro Cantu v Derthona Basket",
+  "home_form": "Cantu 0-8 per Sportradar: L 87-99 at Roma (Nov 8), L 82-95 v Milan (H), L 60-81 at Reggiana, L 72-92 at Trieste, L 80-99 v Napoli (H), L 84-85 v Udine (H), L 73-85 at Venezia, L 66-73 v Reggiana (H). Margins 12,13,21,20,19,1,12,7 (7 of 8 by 7+).",
+  "away_form": "Derthona: L 77-91 v Hapoel Jerusalem (BCL, Wed Nov 11), W 87-76 v Treviso, L 71-73 at Cedevita, L 77-86 at Udine, W 86-83 v Rostock, L 90-92 v Napoli, W 89-79 v Burgos, L 75-89 v Roma. Mixed, heavy BCL schedule (4 games in 11 days).",
+  "trends": {
+   "game_totals": "Cantu games 139-186, Derthona 144-182; line ~162",
+   "team_totals": "Cantu home scoring 66-84",
+   "first_half": "n/a",
+   "handicap": "Cantu winless (0-8), lost 7 of 8 by 7+ points",
+   "corners": "n/a"
+  },
+  "h2h": "No 2026-27 H2H; Derthona beat Cantu in past seasons.",
+  "absences": "No confirmed injury list found; coach Vitucci preview only (Sportando).",
+  "context": "LBA round; Cantu winless (0-8), Derthona fatigue from BCL midweek. Cantu home 0-4 is fixture-relevant; Derthona fatigue argues against laying points.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-6.5",
+    "desc": "Away (+6.5)",
+    "odds": 1.24,
+    "p": 0.7855,
+    "why": "Cantu 0-8 this season, 7 of 8 defeats by 7+ (incl. 0-4 home); Derthona only needs to avoid losing by 7+"
+   }
+  ],
+  "avoid": [
+   "Cantu ML; Derthona -? handicaps (BCL fatigue)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://sportando.basketball/pallacanestro-cantu-vitucci-la-fame-di-vittoria-ci-deve-spingere/",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72677284",
+  "fx": "Stal Ostrow Wielkopolski v Dziki Warszawa",
+  "home_form": "Stal Ostrow 2-5 this season: L 69-74 v Zielona Gora (H), L 82-83 at Anwil, L 74-84 at Legia, W 87-84 at Slupsk, L 65-81 v Gornik (H), W 84-79 at Lublin, L 69-85 v Gdynia (H). Home 0-3.",
+  "away_form": "Dziki Warszawa: W 91-84 v Tartu (Europe, Wed Nov 11), W 96-75 v Anwil, W 89-66 v Skopje, L 77-92 at Legia, W 91-62 at Wurzburg, W 91-81 v Slupsk, L 85-86 at Iraklis, W 74-71 at Gornik. 6-2.",
+  "trends": {
+   "game_totals": "Ostrow games 143-171 (4/7 over 154.5); Dziki 145-175 (6/8 over 154.5)",
+   "team_totals": "Ostrow scores 65-69 at home",
+   "first_half": "n/a",
+   "handicap": "Ostrow home losses by 5,16,16",
+   "corners": "n/a"
+  },
+  "h2h": "Dziki won 83-73 at Ostrow last season (PLK).",
+  "absences": "None found; Dziki top scorer Landrius Horton (per PLK).",
+  "context": "PLK round 7. Away ML p0.74 just below the 0.75 basketball ML gate; Dziki played Europe Wednesday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Home +10.5/+12.5 catches"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://plk.pl/aktualnosci/27023/dziki-wygrywaja-w-ostrowie",
+   "https://plk.pl/aktualnosci/25542/o-plk",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73293340",
+  "fx": "AS Cittadella v US Folgore Caratese",
+  "home_form": "Cittadella (girone A leader per Monza in Diretta) last 8: D 0-0 at Giana, W 1-0 v Treviso (H), L 1-2 at Union Brescia, W 2-1 at Union Brescia, W 1-0 v Arzignano (H), L 0-2 at Novara, L 1-2 v Albinoleffe (H), W 3-0 v Lecco (H). Home 3-1. All 8 games had <=3 goals.",
+  "away_form": "Folgore Caratese last 8: D 0-0 v Carpi (finished with 9 men, GK sent off), L 0-4 v Union Brescia, D 2-2 at Lecco, L 0-2 v Treviso, W 1-0 at Trento, L 1-2 v Desenzano, L 1-2 at Lumezzane, D 1-1 v Giana. Away 1W 1D 1L.",
+  "trends": {
+   "game_totals": "Cittadella games 0,1,3,3,1,2,3,3; Folgore 0,4,4,2,1,3,3,2",
+   "team_totals": "Folgore scored 0 in 4 of last 8; Cittadella conceded <=1 in 6/8",
+   "first_half": "Cittadella HT 0-0 in 4 of last 8",
+   "handicap": "Cittadella wins by 1 (1-0,1-0,2-1) or 3 (3-0)",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "Cittadella out: Cecchetto, Barberis, Frisenna; back: Gobbato, Martella, Antonucci (coach Musso). Folgore: GK Sarr released this week; Samotti back from ban; red cards v Carpi likely mean suspensions.",
+  "context": "Leader v lower-half side. NOTE kickoff time disagreement in sources (Goal 11:30, Il Cittadino 14:30, Monza in Diretta 17:30 = SportyBet 16:30 UTC); date agrees. Check the event is still pre-match before posting.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.6786,
+    "why": "Leader at home (3-1, 3 clean sheets) v Folgore who scored 0 in 4 of 8, released GK Sarr and had two sent off last week"
+   }
+  ],
+  "avoid": [
+   "Over 2.5 (Cittadella games all <=3); Away +2.0 catch (modal 1-0)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.trivenetogoal.it/2026/11/14/cittadella-folgore-caratese-musso-dobbiamo-trasformare-la-rabbia-in-energia-positiva/268948/",
+   "https://monzaindiretta.it/sport/folgore-caratese-a-cittadella-la-capolista-sul-cammino-dei-brianzoli/",
+   "https://www.ilcittadinomb.it/news/sport/serie-c-la-folgore-caratese-in-nove-resiste-contro-il-carpi-espulso-il-portiere"
+  ]
+ },
+ {
+  "eid": "sr:match:73293342",
+  "fx": "Juventus Next Gen v Treviso FBC 1993",
+  "home_form": "Juventus Next Gen (reserve/U23 side): W 3-1 at West Ham (PL International Cup, Nov 11), W 4-0 at Lecco, D 1-1 v Pro Vercelli, W 2-1 at Trento, D 1-1 at Southampton, W 2-1 v Renate, D 0-0 v Lumezzane, W 2-1 at Arzignano.",
+  "away_form": "Treviso: W 2-0 v Novara, L 0-1 at Cittadella, W 2-1 v Dolomiti, W 2-0 at Folgore, L 0-1 v Ospitaletto, D 0-0 v Giana, L 0-1 at Renate, D 0-0 v Desenzano. Very low-scoring (totals 2,1,3,2,1,0,1,0).",
+  "trends": {
+   "game_totals": "Treviso 7/8 games <=2 goals; Juve NG 5,4,2,3,2,3,0,3",
+   "team_totals": "Treviso scored 0 in 4/8",
+   "first_half": "Treviso HT goals rare",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Reserve side (Juventus U23) -> no picks by rule. Midweek trip to West Ham for Juve NG.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "All legs (reserve side rule)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tuttoc.com/",
+   "https://www.calciomagazine.net/",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73293350",
+  "fx": "US Pergolettese Crema v Pro Vercelli 1892",
+  "home_form": "Pergolettese Crema last 8: L 2-3 v Renate (H), W 3-2 at Albinoleffe, W 2-1 v Lumezzane (H), L 2-3 at Ospitaletto, W 2-1 v Carpi (H), D 2-2 at Arzignano, D 0-0 v Trento, D 0-0 at Lecco. Scored 2+ in each of last 6; home games 5,3,3,0 goals.",
+  "away_form": "Pro Vercelli last 8: W 4-2 v Dolomiti (H), D 1-1 at Juve NG, W 2-1 v Ospitaletto, L 0-5 v Lecco, L 0-2 at Union Brescia, W 2-0 v Carpi, D 1-1 at Giana, L 0-4 at Trento. Away: 2D 2L, conceded in all 4.",
+  "trends": {
+   "game_totals": "Crema last 6 all 3+ goals (5,5,3,5,3,4); Vercelli 6,2,3,5,2,2,2,4 (8/8 over 1.5)",
+   "team_totals": "Crema scored in 6/8 (all last 6); Vercelli conceded in 6/8",
+   "first_half": "Crema 2-0 HT in 3 games",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "None found this season.",
+  "absences": "Predicted XIs only (Pergolettese 4-2-3-1, Pro Vercelli 3-5-2, Sow/Bertoli up front); no key absences reported.",
+  "context": "Mid-table girone A. Serie C averages ~2.4 goals, below the 2.7 O1.5 league gate, but both sides' last 5 are 3+/2+ goal games.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.32,
+    "p": 0.7229,
+    "why": "Crema's last 6 all 3+ goals and Vercelli 8/8 over 1.5"
+   },
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.26,
+    "p": 0.7545,
+    "why": "Crema scored 2+ in each of last 6; Vercelli conceded in all 4 away games"
+   }
+  ],
+  "avoid": [
+   "Under 2.5/3.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.tuttoc.com/girone-a/pergolettese-pro-vercelli-vittorie-trasferta-cercasi-probabili-formazioni-449177",
+   "https://calciomagazine.net/pergolettese-pro-vercelli-diretta-risultato-15-novembre-2026-252951.html",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:73294090",
+  "fx": "Ravenna FC 1913 v Forli FC",
+  "home_form": "Ravenna last 8: L 1-3 at Vado, W 2-1 v Pineto, L 5-7 at Carpi, L 0-4 at Pesaro, L 0-1 v Spezia, W 3-1 v Campobasso, W 2-1 at Pianese, W 2-0 v Gubbio. Games 4,3,12,4,1,4,3,2 goals.",
+  "away_form": "Forli last 8: W 1-0 v Gubbio, W 2-0 at Campobasso, D 0-0 v Pianese, W 3-2 at Guidonia, D 1-1 v Livorno, W 1-0 at Vado, D 1-1 at Ostiamare, D 1-1 v Sassari. Unbeaten in 8; totals 1,2,0,5,2,1,2,2.",
+  "trends": {
+   "game_totals": "Ravenna 7/8 over 1.5; Forli 6/8 over 1.5",
+   "team_totals": "Forli conceded <=1 in 7/8",
+   "first_half": "mixed",
+   "handicap": "Forli unbeaten in 8",
+   "corners": "n/a"
+  },
+  "h2h": "Romagna derby; met in Coppa Italia Serie C earlier.",
+  "absences": "Ravenna: Ronaldinho (46) named to start per Sky (publicity return). Forli: coach Campedelli resigned for personal reasons, Bamonte in charge.",
+  "context": "DERBY (no result side). Ravenna favourite p0.70 v a Forli side unbeaten in 8 - and starting a 46-year-old Ronaldinho weakens Ravenna. Coaching change at Forli.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7892,
+    "why": "Ravenna games 7/8 over 1.5 (avg 4.1 goals); derby intensity"
+   }
+  ],
+  "avoid": [
+   "Ravenna 1X2 / -1 (derby, Forli unbeaten in 8, Ronaldinho novelty start)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.sky.it/calcio/serie-c/2026/11/14/ronaldinho-ravenna-forli-probabili-formazioni",
+   "https://www.sportal.it/calcio/serie-c/serie-c-2026-2027-ravenna-forli-le-probabili-formazioni-attesa-per-ronaldinho.html",
+   "https://www.eurosport.it/calcio/serie-c-girone-b/2026-2027/ronaldinho-torna-con-la-maglia-del-ravenna-nel-derby-di-c-col-forli-11-anni-dopo-la-sua-ultima-partita-probabili-info-utili-e-dove-vederla-in-tv_sto23355265/story.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:73294832",
+  "fx": "Cosenza Calcio v Casertana FC",
+  "home_form": "Cosenza last 8: D 0-0 at Monopoli, W 1-0 v Inter U23 (H), D 1-1 at Savoia, L 1-3 v Altamura (H), L 1-2 at Picerno, L 0-2 v Foggia (H), W 1-0 at Bari, D 1-1 v Scafatese (H). Home 1W 1D 2L; scored <=1 in all 8.",
+  "away_form": "Casertana last 8: W 1-0 v Casarano, W 1-0 at Giugliano, D 1-1 v Bari, D 0-0 at Sorrento, W 3-1 v Monopoli, W 2-0 at Cavese, L 1-2 v Catania, D 0-0 at Cerignola. Away 2W 2D, 4 clean sheets; lost 1 in 8.",
+  "trends": {
+   "game_totals": "Cosenza 0,1,2,4,3,2,1,2; Casertana 1,1,2,0,4,2,3,0 (15/16 <=3)",
+   "team_totals": "Cosenza scored max 1 in every one of last 8",
+   "first_half": "low",
+   "handicap": "Casertana unbeaten away",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "Predicted XIs: Cosenza (Coppitelli) 3-5-2 with Achour; Casertana (Stellone) 3-5-2 Manconi-Castelli. No key absences reported.",
+  "context": "Girone C round 14; Casertana in upper half, Cosenza struggling.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.37,
+    "p": 0.6985,
+    "why": "Casertana unbeaten in 4 away games (4 clean sheets) and lost 1 in 8; Cosenza scored <=1 in every game"
+   }
+  ],
+  "avoid": [
+   "Over 2.5; Cosenza result"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.tuttoc.com/girone-c/cosenza-casertana-449156",
+   "https://www.calciomagazine.net/cosenza-casertana-diretta-risultato-15-novembre-2026-252949.html",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:76709770",
+  "fx": "AS Pikine v US Ouakam",
+  "home_form": "Pikine: D 1-1 at Dakar Sacre Coeur, D 1-1 v Teungueth, D 0-0 v Essamaye, W 3-0 at Generation Foot, (2025-26) W 2-1 at HLM, L 1-2 v Camberene.",
+  "away_form": "Ouakam: W 1-0 v Generation Foot, W 1-0 at Teungueth, W 2-0 at Goree, L 1-3 v Jaraaf; 3 straight wins.",
+  "trends": {
+   "game_totals": "Senegal Ligue 1 low-scoring; Pikine 2,2,0,3; Ouakam 1,1,2,4",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Thin coverage; Under 2.5 p0.73 below the 0.82 Under gate.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Pikine 1X2"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (sr.py)",
+   "https://www.livescores.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:72653744",
+  "fx": "BC Vienna v Eagles Graz",
+  "home_form": "BC Vienna 7 straight losses incl. Europe: L 73-84 v Klost (Nov 13), L 86-101 v Nancy (Nov 11), L 60-74 at Ilirija, L 62-76 at Wels, L 80-84 at Nitra, L 72-86 v Gmunden, L 81-88 v Bosna, L 83-85 v Keravnos. 3rd game in 5 days.",
+  "away_form": "Eagles Graz 2-6: L 75-103 v Nord (H, Nov 13), L 80-96 at Gmunden, W 105-83 v St.Polten, L 77-82 at Wels, L 80-93 v Oberwart, W 102-94 v Klost, L 72-96 at Kapfenberg, L 82-85 v Traiskirchen.",
+  "trends": {
+   "game_totals": "Graz games 178,176,188,159,173,196,168,167 (8/8 over 155.5); Vienna 157,187,134,138,164,158,169,168 (6/8)",
+   "team_totals": "Graz scores 72-105",
+   "first_half": "n/a",
+   "handicap": "Graz -8.5 favourite despite 2-6: house expects tired/rotated Vienna",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "None found; Vienna on heavy European schedule (FIBA Europe Cup).",
+  "context": "Vienna fatigue (3 games in 5 days); Graz's 2-6 makes the -8.5 side unappealing.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=155.5",
+    "desc": "Over 155.5",
+    "odds": 1.2,
+    "p": 0.8042,
+    "why": "14 of 16 recent games of these teams over 155.5; Graz games all 159+"
+   }
+  ],
+  "avoid": [
+   "Graz big handicaps (2-6 team)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "https://sport.orf.at/stories/3162663/",
+   "https://www.proballers.com/basketball/league/189/austria-superliga/schedule",
+   "Sportradar gismo stats_team_lastx (sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74998582",
+  "fx": "Mladost Mrkonjic v KK Leotar Trebinje",
+  "home_form": "Mladost: W 99-72 at Drina? (home Drina 99 -> L), L 71-90 v Siroki, Slavija home 98-76 -> L, W 76-66 v Gradina, Igman home 91-77 -> L, L 64-71 v Zivinice.",
+  "away_form": "Leotar: L 55-75 v Orlovik, L 68-70 at Drina, W 81-75 v Borac, W 77-59? at Siroki (home 77 -> L), W 68-60 v Promo, L at Slavija.",
+  "trends": {
+   "game_totals": "low-ish (130-170)",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Leotar won 76-70 at Mladost in April 2026.",
+  "absences": "None found.",
+  "context": "Bosnian 1st division, thin coverage.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "Sportradar gismo stats_team_lastx (sr.py)",
+   "https://www.livescores.com/"
+  ]
+ }
+]

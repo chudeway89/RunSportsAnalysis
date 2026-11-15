@@ -1,0 +1,735 @@
+[
+ {
+  "eid": "sr:match:73440382",
+  "fx": "Psa Napoli Est v Asd Loreto Basket",
+  "home_form": "A 93-92 v Luiss Roma (12/11/26) | H 93-85 v Ravenna (08/11/26) | H 81-73 v Mens Sana (01/11/26) | H 81-67 v Latina (28/10/26) | A 75-84 v Pielle Livorno (25/10/26) | A 67-80 v San Severo (11/10/26) | H 84-71 v Dany Basket Quarrata (04/10/26) | A 72-79 v Fabriano Basket (27/09/26)",
+  "away_form": "H 70-76 v Mens Sana (11/11/26) | A 61-80 v Pielle Livorno (08/11/26) | A 64-75 v Golfo Piombino (01/11/26) | H 60-83 v Raggisolaris Faenza (24/10/26) | H 73-76 v Herons Basket (17/10/26) | A 65-94 v Virtus Gvm Roma 1960 (10/10/26) | A 70-83 v Pallacanestro Roseto (04/10/26) | H 71-79 v Luiss Roma (26/09/26)",
+  "trends": {
+   "game_totals": "Napoli home games 178,154,148,155; Loreto games 146,141,139,143,149,159,153,150 -> total 148.5 near neutral",
+   "team_totals": "Loreto scored 61-73 in all 8 (avg 67); Napoli home 81-93",
+   "first_half": "n/a",
+   "handicap": "Loreto 0-8, lost by 6,19,11,23,3,29,13,8; Napoli home wins by 8,8,14,13",
+   "corners": "n/a"
+  },
+  "h2h": "No 2026/27 meeting yet",
+  "absences": "None reported; Loreto PG Baldi 12.5ppg",
+  "context": "Serie B Nazionale R9 at PalaDennerlein 18:00 local; Napoli (Skills4u) on 4-game win streak; Loreto last, 0 points after 8 rounds",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "oid": "4",
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8098074142,
+    "why": "Loreto 0-8 (every game lost, 4 away losses by 11-29); Napoli 4-0 at home this season by 8+; preview confirms Loreto pointless and Napoli streak"
+   }
+  ],
+  "avoid": [
+   "Napoli -10.5/-12.5 (home margins 8,8,14,13: only half clear 10)"
+  ],
+  "confidence": 0.35,
+  "sources": [
+   "https://www.napolimagazine.com/basket/articolo/basket-la-skills4u-napoli-est-sfida-pesaro-al-paladennerlein-nel-mirino-la-quinta-vittoria-di-fila-14-11-2026",
+   "https://www.legapallacanestro.com/serie-b/consultinvest-loreto-pesaro",
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73659624",
+  "fx": "AZS Politechnika Opolska v Polonia 1912 Leszno",
+  "home_form": "A 76-80 v Ksk Notec Inowroclaw (08/11/26) | H 84-90 v Skk Kotwica Kolobrzeg (31/10/26) | H 84-104 v Sokol Lancut (25/10/26) | H 84-78 v Lodz (17/10/26) | A 79-105 v Stargard (10/10/26) | H 89-97 v Mosir Krosno (04/10/26) | A 76-89 v Decka Pelplin (27/09/26) | A 75-96 v Basket Poznan (19/09/26)",
+  "away_form": "H 100-89 v Basket Poznan (07/11/26) | A 90-76 v Polonia Bytom (31/10/26) | H 84-59 v GKS Tychy (25/10/26) | A 94-85 v Starogard Gdanski (17/10/26) | H 99-77 v Polonia Warszawa (10/10/26) | A 98-72 v Resovia Rzeszow (03/10/26) | H 91-74 v Decka Pelplin (30/09/26) | H 80-71 v Wkk Wroclaw (26/09/26)",
+  "trends": {
+   "game_totals": "Opole home games 174,188,162,186; Leszno games 189,166,143,179,176,170,165,151",
+   "team_totals": "Leszno scored 100,90,84,94,99,98,91,80 (6/8 >88.5); Opole conceded 80,90,104,78,105,97,89,96 (6/8 >=89)",
+   "first_half": "n/a",
+   "handicap": "Leszno 8-0, margins 11,14,25,9,22,26,17,9 (8/8 cover -8.5); away wins by 14,9,26; Opole 1-7, home losses by 6,20,8",
+   "corners": "n/a"
+  },
+  "h2h": "No meeting this season found",
+  "absences": "None found",
+  "context": "Polish 1. Liga; Leszno unbeaten leader (beat Poznan 100-89), Opole near bottom. Minor source note: club PZKosz team page lists 14.11 but league schedule (PZKosz) and Sportradar both list 15.11 18:00 at Hala Politechniki Opolskiej, and Leszno has no 14.11 result in Sportradar -> treated as resolved, not a veto",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=8.5",
+    "oid": "1715",
+    "desc": "Away (-8.5)",
+    "odds": 1.58,
+    "p": 0.595019,
+    "why": "Leszno won all 8 by 9+ (avg 17); Opole lost 7/8 and concedes ~92"
+   },
+   {
+    "mid": "228",
+    "spec": "total=88.5",
+    "oid": "12",
+    "desc": "Over 88.5",
+    "odds": 1.57,
+    "p": 0.587901,
+    "why": "Leszno scored 89+ in 6/8; Opole conceded 89+ in 6/8 (avg 92)"
+   }
+  ],
+  "avoid": [
+   "Opole home team over"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://rozgrywki.pzkosz.pl/liga/1/terminarz_i_wyniki.html",
+   "https://1lm.pzkosz.pl/druzyny/d/14460/zdrovo-polonia-1912-leszno.html",
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73440378",
+  "fx": "Pelle Livorno v Basketball Club Lucca",
+  "home_form": "A 82-71 v San Severo (12/11/26) | H 80-61 v Asd Loreto Basket (08/11/26) | A 77-70 v Luiss Roma (01/11/26) | H 84-75 v Psa Napoli Est (25/10/26) | A 66-75 v Felice Scandone Acellino (18/10/26) | H 93-66 v Golfo Piombino (11/10/26) | H 86-56 v Fabriano Basket (04/10/26) | A 79-88 v Dany Basket Quarrata (27/09/26)",
+  "away_form": "A 64-72 v Latina (11/11/26) | H 73-92 v Fabriano Basket (08/11/26) | A 82-72 v San Severo (01/11/26) | H 85-68 v Ravenna (25/10/26) | H 75-82 v Virtus Gvm Roma 1960 (18/10/26) | A 76-92 v San Giobbe Chiusi (11/10/26) | H 49-69 v Herons Basket (04/10/26) | A 81-83 v Mens Sana (27/09/26)",
+  "trends": {
+   "game_totals": "Pielle home games 141,159,159,142; Lucca games 136,165,154,153,157,168,118,164",
+   "team_totals": "Pielle home conceded 61,75,66,56; Lucca scored 49-85",
+   "first_half": "n/a",
+   "handicap": "Pielle home wins by 19,9,27,30 but missing two players",
+   "corners": "n/a"
+  },
+  "h2h": "Tuscan derby; no 26/27 meeting yet",
+  "absences": "Pielle without Donzelli and Traini (injured)",
+  "context": "Tuscan derby, Pielle 2nd (12 pts) v promoted Lucca 15th (4 pts); sources conflict on Lucca streak",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Any result side/handicap (derby rule); Pielle -13.5 with two absentees"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.losservatore.com/2026/11/14/i-biancoblu-di-coach-turchetto-dovranno-ancora-fare-a-meno-di-donzelli-e-traini-entrambi-fermi-ai-box/",
+   "https://www.quilivorno.it/news/sport/tempo-di-derby-al-palamacchia-la-pielle-ospita-lucca/",
+   "https://www.luccanews24.it/2026/11/basket-bcl-a-livorno-sfida-alla-seconda-in-classifica/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432776",
+  "fx": "New Basket Brindisi v Benedetto Xiv Cento",
+  "home_form": "A 81-78 v Libertas Livorno (11/11/26) | H 80-74 v Pallacanestro 2.015 Forli (07/11/26) | A 63-70 v Basket Mestre 1958 (31/10/26) | H 83-70 v S.S. Avellino Basket (25/10/26) | A 63-70 v Real Sebastiani Rieti (21/10/26) | H 81-85 v Basket Torino (17/10/26) | A 96-78 v Montecatiniterme Basketball (11/10/26) | H 84-81 v Milano (04/10/26)",
+  "away_form": "H 77-79 v Juvi Cremona (11/11/26) | A 63-76 v Libertas Livorno (04/11/26) | H 64-74 v Ueb Cividale (30/10/26) | A 77-71 v Montecatiniterme Basketball (25/10/26) | H 52-96 v Pistoia (21/10/26) | A 70-80 v Sassari (17/10/26) | H 98-88 v Elachem Vigevano 1955 (11/10/26) | A 73-80 v Pallacanestro 2.015 Forli (03/10/26)",
+  "trends": {
+   "game_totals": "Brindisi games 159,154,133,153,133,166,174,165",
+   "team_totals": "Cento scored 52-98 (avg 72)",
+   "first_half": "n/a",
+   "handicap": "Brindisi home margins +6,+13,-4,+3 (none >=15); Cento losses by 2,13,10,44,10,7; only 1/8 games lost by 15+; Brindisi won by 15+ once in 8 (at Montecatini)",
+   "corners": "n/a"
+  },
+  "h2h": "No 26/27 meeting yet (Brindisi beat Cento 90-69 Nov 2025, different season)",
+  "absences": "No current injury news found",
+  "context": "Serie A2; house line -12.5 looks steep relative to Brindisi home margins; no news explaining it (possible unseen roster news -> lower confidence)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-14.5",
+    "oid": "1715",
+    "desc": "Away (+14.5)",
+    "odds": 1.64,
+    "p": 0.560212,
+    "why": "Brindisi home wins by 6,13,3 and a home loss; Cento lost by 15+ only once in 8 (home v Pistoia); catch under 15"
+   }
+  ],
+  "avoid": [
+   "Brindisi -12.5/-13.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.pianetabasket.com/serie-a2/la-valtur-brindisi-si-gode-un-ritrovato-miani-e-strapazza-cento-347756",
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73439734",
+  "fx": "Fortitudo Agrigento v Pallacanestro Vicenza",
+  "home_form": "A 86-68 v Ferrara Basket 2018 (11/11/26) | H 59-81 v Piacenza (08/11/26) | A 64-74 v Treviglio Brianza Basket (01/11/26) | H 76-77 v Virtus Lumezzane (25/10/26) | A 76-78 v Sangiorgese (18/10/26) | H 63-62 v Fulgor Omegna (11/10/26) | A 71-85 v Pall. Brescia (04/10/26) | H 91-68 v A. C. Imola (27/09/26)",
+  "away_form": "A 69-94 v Treviglio Brianza Basket (11/11/26) | H 57-64 v Reggio Calabria (08/11/26) | A 62-66 v Sangiorgese (01/11/26) | H 78-75 v A. C. Imola (25/10/26) | A 65-71 v Virtus Lumezzane (18/10/26) | H 52-79 v Ferrara Basket 2018 (11/10/26) | A 59-91 v Piacenza (04/10/26) | H 73-84 v Pall. Brescia (27/09/26)",
+  "trends": {
+   "game_totals": "Agrigento home 140,153,125,159; Vicenza games 163,121,128,153,136,131,150,157",
+   "team_totals": "Vicenza scored 69,57,62,78,65,52,59,73 (7/8 <=73, avg 64); away 69,62,65,59",
+   "first_half": "n/a",
+   "handicap": "Vicenza 1-7; Agrigento home 2-2 (lost 59-81, 76-77)",
+   "corners": "n/a"
+  },
+  "h2h": "None found",
+  "absences": "None found",
+  "context": "Serie B Nazionale; Agrigento inconsistent at home; Vicenza worst offense of the sample",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "228",
+    "spec": "total=73.5",
+    "oid": "13",
+    "desc": "Under 73.5",
+    "odds": 1.55,
+    "p": 0.595189,
+    "why": "Vicenza scored 73 or fewer in 7/8 (all 4 away games <=69); team Under, note basketball totals gate p>=0.74 not met by house p"
+   }
+  ],
+  "avoid": [
+   "Agrigento -6.5 (home 2-2)",
+   "Agrigento ML at 1.29"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx",
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73440390",
+  "fx": "Mens Sana 1871 v Fabriano Basket",
+  "home_form": "A 76-70 v Asd Loreto Basket (11/11/26) | H 88-83 v San Severo (08/11/26) | A 73-81 v Psa Napoli Est (01/11/26) | H 88-83 v Golfo Piombino (25/10/26) | A 82-86 v Dany Basket Quarrata (17/10/26) | H 100-74 v Luiss Roma (11/10/26) | A 72-76 v Ravenna (04/10/26) | H 83-81 v Basketball Club Lucca (27/09/26)",
+  "away_form": "H 82-74 v Herons Basket (11/11/26) | A 92-73 v Basketball Club Lucca (08/11/26) | H 84-97 v San Giobbe Chiusi (01/11/26) | A 81-92 v Latina (25/10/26) | A 78-76 v Pallacanestro Roseto (18/10/26) | H 81-71 v Felice Scandone Acellino (11/10/26) | A 56-86 v Pielle Livorno (04/10/26) | H 79-72 v Psa Napoli Est (27/09/26)",
+  "trends": {
+   "game_totals": "Mens Sana home 171,171,174,164; Fabriano games 156,165,181,173,154,152,142,151",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Mens Sana home wins by 5,5,26,2; Fabriano lost by 13,11,30 only (3/8 >9.5); Fabriano won last 2 incl. 92-73 at Lucca",
+   "corners": "n/a"
+  },
+  "h2h": "None this season",
+  "absences": "Mens Sana (coach Vecchi) without Cerchiaro and Perin",
+  "context": "Serie B Nazionale at PalaEstra, Siena; both on 10 points; previews call Fabriano strong",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-9.5",
+    "oid": "1715",
+    "desc": "Away (+9.5)",
+    "odds": 1.6,
+    "p": 0.587286,
+    "why": "Teams level on points; Mens Sana missing Cerchiaro and Perin; Mens Sana home wins by 5,5,26,2 (3/4 inside 9.5)"
+   }
+  ],
+  "avoid": [
+   "Mens Sana ML 1.24 / -7.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://sport.quotidiano.net/locale/basket/serie-b-nazionale-vai-mens-70dcb6de",
+   "https://www.lanazione.it/siena/sport/serie-b-nazionale-credici-mens-2358a64d",
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73440386",
+  "fx": "Dany Basket Quarrata v Virtus Gvm Roma 1960",
+  "home_form": "A 67-79 v Raggisolaris Faenza (11/11/26) | H 80-86 v Luiss Roma (07/11/26) | H 74-87 v Latina (31/10/26) | A 66-93 v San Giobbe Chiusi (25/10/26) | H 86-82 v Mens Sana (17/10/26) | A 77-80 v Herons Basket (10/10/26) | A 71-84 v Psa Napoli Est (04/10/26) | H 88-79 v Pielle Livorno (27/09/26)",
+  "away_form": "A 94-83 v Ravenna (11/11/26) | H 85-60 v Latina (06/11/26) | A 77-69 v Pallacanestro Roseto (01/11/26) | H 92-77 v San Severo (26/10/26) | H 76-62 v Felice Scandone Acellino (21/10/26) | A 82-75 v Basketball Club Lucca (18/10/26) | H 94-65 v Asd Loreto Basket (10/10/26) | A 81-51 v Golfo Piombino (04/10/26)",
+  "trends": {
+   "game_totals": "Roma games 177,145,146,169,138,157,159,132; Quarrata home 166,161,168,170",
+   "team_totals": "Roma scored 76-94 (5/8 >82.5); Quarrata conceded 79-93",
+   "first_half": "n/a",
+   "handicap": "Roma 8-0, margins 11,25,8,15,14,7,29,30; away margins 11,8,7,30 (2/4 >8.5); Quarrata home W4,W9 / L6,L13",
+   "corners": "n/a"
+  },
+  "h2h": "Roma won both 2025/26 meetings (88-79 away, 82-60 home)",
+  "absences": "No current news found",
+  "context": "Serie B Nazionale; Virtus Roma unbeaten leader (Sportradar); ML 1.12 below floor; away margins do not support -8.5",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Roma -8.5/-10.5 (away margins 11,8,7,30)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://basketmagazine.net/bm-on-serie-b-la-virtus-roma-1960-esce-alla-distanza-quarrata-ko-79-88/",
+   "https://www.basketworldlife.it/campionati/minors/serie-b-interregionale/un-dany-basket-quarrata-incerottato-cade-a-roma-la-virtus-si-impone-82-60.html",
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73432788",
+  "fx": "Rinascita Basket Rimini v Ueb Cividale",
+  "home_form": "A 70-81 v Pallacanestro 2.015 Forli (11/11/26) | H 76-68 v Elachem Vigevano 1955 (08/11/26) | A 85-71 v Milano (30/10/26) | H 96-73 v Real Sebastiani Rieti (25/10/26) | A 84-67 v Sassari (21/10/26) | H 91-76 v Basket Mestre 1958 (18/10/26) | A 66-78 v Fortitudo Bologna (11/10/26) | H 72-73 v S.S. Avellino Basket (04/10/26)",
+  "away_form": "A 81-79 v Basket Mestre 1958 (11/11/26) | H 70-67 v Sassari (07/11/26) | A 74-64 v Benedetto Xiv Cento (30/10/26) | H 78-60 v Milano (24/10/26) | A 68-76 v Victoria Libertas (21/10/26) | H 62-77 v S.S. Avellino Basket (17/10/26) | A 59-76 v Basket Torino (11/10/26) | A 86-83 v Pall. Ruvo di Puglia (04/10/26)",
+  "trends": {
+   "game_totals": "Rimini games 151,144,156,169,151,167,144,145",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Rimini home 3-1 (won by 8,23,15; lost by 1 to Avellino); Cividale won last 3 (81-79 at Mestre, 70-67, 74-64 at Cento)",
+   "corners": "n/a"
+  },
+  "h2h": "Cividale beat Rimini 85-74 in 2026 Supercoppa final; Rimini won 2026 playoff semi series",
+  "absences": "No current news found",
+  "context": "Serie A2 top clash: Rimini lost last game at Forli; Cividale is a credible receiver",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Rimini -9.5 (Cividale credible, Supercoppa win)",
+   "Rimini ML 1.19 at p 0.80 v a top side"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sanmarinortv.sm/sport/basket-c18/supercoppa-a2-rimini-regge-30-ma-vince-ancora-cividale-a296156",
+   "https://www.reggioacanestro.com/a2colpi-esterni-per-rimini-e-cividale-negli-anticipi/",
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73713600",
+  "fx": "Bilbao Basket v UCAM Murcia",
+  "home_form": "H 83-75 v Berlin (10/11/26) | A 87-92 v Basquet Girona (07/11/26) | A 81-78 v Badalona (01/11/26) | A 100-103 v Berlin (28/10/26) | H 88-76 v Andorra (25/10/26) | A 84-119 v Madrid (18/10/26) | H 97-86 v SK Slavia Prague (14/10/26) | H 96-87 v San Pablo Burgos (11/10/26)",
+  "away_form": "H 98-66 v Bamberg (11/11/26) | A 71-90 v Madrid (08/11/26) | H 125-98 v Lleida (31/10/26) | H 72-80 v Peristeri Athens (27/10/26) | H 88-81 v Coruna (24/10/26) | A 93-116 v Valencia (18/10/26) | A 86-67 v Bamberg (14/10/26) | H 77-90 v Canarias (11/10/26)",
+  "trends": {
+   "game_totals": "Bilbao games 158,179,159,203,164,203,183,183; Murcia 164,161,223,152,169,209,153,167",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Bilbao home 4-0 in sample (by 8,12,11,9)",
+   "corners": "n/a"
+  },
+  "h2h": "Bilbao beat Murcia Jan 2026",
+  "absences": "Murcia: no confirmed absences (Marcos, Lopez de la Torre, Nakic recovered after missing BCL game)",
+  "context": "ACB R8 at Bilbao Arena; both played European games midweek (Bilbao 10/11, Murcia 11/11)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Bilbao ML at p 0.635 (below 0.75 gate)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.orm.es/deportes/sito-ganar-en-bilbao-siempre-es-muy-dificil-por-la-atmosfera-que-se-crea/",
+   "https://www.naiz.eus/en/info/noticia/20260110/bilbao-basket-disfruta-ante-ucam-murcia-y-se-acerca-a-la-copa"
+  ]
+ },
+ {
+  "eid": "sr:match:73432786",
+  "fx": "US Victoria Libertas v Elachem Vigevano 1955",
+  "home_form": "A 87-96 v Sassari (11/11/26) | H 73-85 v Basket Mestre 1958 (07/11/26) | A 70-79 v S.S. Avellino Basket (01/11/26) | H 71-73 v Basket Torino (25/10/26) | H 76-68 v Ueb Cividale (21/10/26) | A 86-76 v Pall. Ruvo di Puglia (18/10/26) | H 83-77 v Juvecaserta (11/10/26) | H 87-84 v Juvi Cremona (04/10/26)",
+  "away_form": "H 75-61 v Pall. Ruvo di Puglia (11/11/26) | A 68-76 v Rinascita Basket Rimini (08/11/26) | H 81-87 v Libertas Livorno (01/11/26) | A 93-85 v Fortitudo Bologna (25/10/26) | H 79-74 v Pallacanestro 2.015 Forli (21/10/26) | A 70-89 v Pistoia (18/10/26) | A 88-98 v Benedetto Xiv Cento (11/10/26) | H 64-78 v Real Sebastiani Rieti (04/10/26)",
+  "trends": {
+   "game_totals": "Pesaro games 183,158,149,144,144,162,160,171",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Pesaro lost 4 of last 5 (incl. home v Mestre, Torino); Vigevano won at Bologna 93-85",
+   "corners": "n/a"
+  },
+  "h2h": "None found",
+  "absences": "No news found",
+  "context": "Serie A2; house makes Pesaro 0.73 despite 1-4 recent run -> fragile favourite",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Pesaro ML 1.30 / -6.5 (fragile favourite, R4 skip)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.pianetabasket.com/serie-a2/supercoppa-lnp-serie-a2-calendario-risultati-finale-cividale-rimini-dove-in-tv-2100"
+  ]
+ },
+ {
+  "eid": "sr:match:73432784",
+  "fx": "Montecatiniterme Basketball v Libertas Livorno",
+  "home_form": "A 62-80 v Real Sebastiani Rieti (11/11/26) | H 71-86 v Pistoia (08/11/26) | A 48-70 v Basket Torino (04/11/26) | H 71-77 v Benedetto Xiv Cento (25/10/26) | A 74-85 v S.S. Avellino Basket (21/10/26) | A 69-91 v Fortitudo Bologna (17/10/26) | H 78-96 v Brindisi (11/10/26) | A 81-72 v Sassari (04/10/26)",
+  "away_form": "H 78-81 v Brindisi (11/11/26) | H 76-63 v Benedetto Xiv Cento (04/11/26) | A 87-81 v Elachem Vigevano 1955 (01/11/26) | A 92-87 v Pallacanestro 2.015 Forli (25/10/26) | H 85-59 v Fortitudo Bologna (21/10/26) | H 87-72 v Milano (17/10/26) | A 75-73 v Juvi Cremona (11/10/26) | A 88-49 v Basket Mestre 1958 (03/10/26)",
+  "trends": {
+   "game_totals": "Montecatini games 142,157,118,148,159,160,174,153",
+   "team_totals": "Montecatini scored 48-81",
+   "first_half": "n/a",
+   "handicap": "Montecatini lost 7 straight by 18,15,22,6,11,22,18; Livorno away wins by 6,5,2,39",
+   "corners": "n/a"
+  },
+  "h2h": "None",
+  "absences": "No news found",
+  "context": "Serie A2; Livorno ML 1.09 below floor; Livorno away margins mostly small so -9.5/-12.5 unsupported",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Livorno -12.5",
+   "Montecatini +15.5"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.pianetabasket.com/serie-a2/supercoppa-lnp-serie-a2-calendario-risultati-finale-cividale-rimini-dove-in-tv-2100"
+  ]
+ },
+ {
+  "eid": "sr:match:73432792",
+  "fx": "Dinamo Sassari v S.S. Avellino Basket",
+  "home_form": "H 96-87 v Victoria Libertas (11/11/26) | A 67-70 v Ueb Cividale (07/11/26) | H 95-75 v Juvecaserta (01/11/26) | A 63-79 v Pall. Ruvo di Puglia (25/10/26) | H 67-84 v Rinascita Basket Rimini (21/10/26) | H 80-70 v Benedetto Xiv Cento (17/10/26) | A 87-74 v Basket Mestre 1958 (10/10/26) | H 72-81 v Montecatiniterme Basketball (04/10/26)",
+  "away_form": "H 93-85 v Milano (11/11/26) | A 82-76 v Juvecaserta (08/11/26) | H 79-70 v Victoria Libertas (01/11/26) | A 70-83 v Brindisi (25/10/26) | H 85-74 v Montecatiniterme Basketball (21/10/26) | A 77-62 v Ueb Cividale (17/10/26) | H 94-81 v Pallacanestro 2.015 Forli (11/10/26) | A 73-72 v Rinascita Basket Rimini (04/10/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Serie A2 coin flip; Avellino 7-1 and won last 5; Sassari home 4-2",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Both ML (p~0.5)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73432774",
+  "fx": "Fortitudo Bologna v Real Sebastiani Rieti",
+  "home_form": "A 78-75 v Basket Torino (11/11/26) | H 83-66 v Milano (07/11/26) | A 66-64 v Pistoia (01/11/26) | H 85-93 v Elachem Vigevano 1955 (25/10/26) | A 59-85 v Libertas Livorno (21/10/26) | H 91-69 v Montecatiniterme Basketball (17/10/26) | H 78-66 v Rinascita Basket Rimini (11/10/26) | A 83-81 v Juvecaserta (04/10/26)",
+  "away_form": "H 80-62 v Montecatiniterme Basketball (11/11/26) | A 68-63 v Pall. Ruvo di Puglia (08/11/26) | H 73-65 v Juvi Cremona (01/11/26) | A 73-96 v Rinascita Basket Rimini (25/10/26) | H 70-63 v Brindisi (21/10/26) | A 71-93 v Pallacanestro 2.015 Forli (18/10/26) | H 78-70 v Pistoia (11/10/26) | A 78-64 v Elachem Vigevano 1955 (04/10/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Serie A2; Rieti in form (won last 3, incl. 68-63 at Ruvo); Bologna won 3 straight; no edge",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Bologna -6.5"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73432778",
+  "fx": "Juvecaserta 2021 v Pallacanestro 2.015 Forli",
+  "home_form": "A 70-78 v Pistoia (11/11/26) | H 76-82 v S.S. Avellino Basket (08/11/26) | A 75-95 v Sassari (01/11/26) | H 77-70 v Basket Mestre 1958 (25/10/26) | H 96-89 v Juvi Cremona (18/10/26) | A 77-83 v Victoria Libertas (11/10/26) | H 81-83 v Fortitudo Bologna (04/10/26) | A 73-81 v Real Sebastiani Rieti (27/09/26)",
+  "away_form": "H 81-70 v Rinascita Basket Rimini (11/11/26) | A 74-80 v Brindisi (07/11/26) | H 86-71 v Pall. Ruvo di Puglia (01/11/26) | H 87-92 v Libertas Livorno (25/10/26) | A 74-79 v Elachem Vigevano 1955 (21/10/26) | H 93-71 v Real Sebastiani Rieti (18/10/26) | A 81-94 v S.S. Avellino Basket (11/10/26) | H 80-73 v Benedetto Xiv Cento (03/10/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Serie A2; Caserta lost last 3; Forli 4-4; coin flip",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "ML either side"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73432780",
+  "fx": "Juvi Cremona 1952 v Basket Mestre 1958",
+  "home_form": "A 79-77 v Benedetto Xiv Cento (11/11/26) | H 85-62 v Basket Torino (08/11/26) | A 65-73 v Real Sebastiani Rieti (01/11/26) | H 72-75 v Pistoia (25/10/26) | A 72-90 v Milano (21/10/26) | A 89-96 v Juvecaserta (18/10/26) | H 73-75 v Libertas Livorno (11/10/26) | A 84-87 v Victoria Libertas (04/10/26)",
+  "away_form": "H 79-81 v Ueb Cividale (11/11/26) | A 85-73 v Victoria Libertas (07/11/26) | H 70-63 v Brindisi (31/10/26) | A 70-77 v Juvecaserta (25/10/26) | H 93-71 v Pall. Ruvo di Puglia (21/10/26) | A 76-91 v Rinascita Basket Rimini (18/10/26) | H 74-87 v Sassari (10/10/26) | H 49-88 v Libertas Livorno (03/10/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Serie A2; Cremona 2-1 last 3; Mestre beat Pesaro and Brindisi; p 0.57",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Cremona ML"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73440384",
+  "fx": "Basket Golfo Piombino v Ravenna Piero Manetti",
+  "home_form": "H 84-67 v Felice Scandone Acellino (11/11/26) | A 58-70 v San Giobbe Chiusi (08/11/26) | H 75-64 v Asd Loreto Basket (01/11/26) | A 83-88 v Mens Sana (25/10/26) | H 66-88 v Raggisolaris Faenza (18/10/26) | A 66-93 v Pielle Livorno (11/10/26) | H 51-81 v Virtus Gvm Roma 1960 (04/10/26) | A 88-77 v Herons Basket (26/09/26)",
+  "away_form": "H 83-94 v Virtus Gvm Roma 1960 (11/11/26) | A 85-93 v Psa Napoli Est (08/11/26) | H 73-79 v Herons Basket (01/11/26) | A 68-85 v Basketball Club Lucca (25/10/26) | H 79-85 v San Severo (18/10/26) | A 78-69 v Raggisolaris Faenza (11/10/26) | H 76-72 v Mens Sana (04/10/26) | A 78-65 v San Giobbe Chiusi (27/09/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Serie B; Ravenna lost 4 straight, Piombino won 2 of last 3 at home; coin flip",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73440388",
+  "fx": "Luiss Roma v Pallacanestro Roseto",
+  "home_form": "H 92-93 v Psa Napoli Est (12/11/26) | A 86-80 v Dany Basket Quarrata (07/11/26) | H 70-77 v Pielle Livorno (01/11/26) | A 97-104 v Felice Scandone Acellino (25/10/26) | H 91-87 v San Giobbe Chiusi (18/10/26) | A 74-100 v Mens Sana (11/10/26) | H 55-82 v Latina (02/10/26) | A 79-71 v Asd Loreto Basket (26/09/26)",
+  "away_form": "H 96-76 v San Giobbe Chiusi (11/11/26) | A 72-80 v Felice Scandone Acellino (08/11/26) | H 69-77 v Virtus Gvm Roma 1960 (01/11/26) | A 75-77 v Herons Basket (24/10/26) | H 76-78 v Fabriano Basket (18/10/26) | A 108-93 v Latina (11/10/26) | H 83-70 v Asd Loreto Basket (04/10/26) | A 98-83 v San Severo (27/09/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Serie B; Luiss lost 92-93 v Napoli; Roseto 0.65 away (below 0.75 gate)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Roseto ML away"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73439746",
+  "fx": "Orzibasket v Rucker Sanve San Vendemiano",
+  "home_form": "A 80-84 v Sangiorgese (11/11/26) | H 86-81 v Pall. Brescia (08/11/26) | A 82-87 v Piacenza (01/11/26) | H 92-65 v Irritec Costa D Orlando (25/10/26) | A 73-68 v Reggio Calabria (18/10/26) | H 83-51 v A. C. Imola (11/10/26) | A 86-66 v Fulgor Omegna (03/10/26) | H 69-76 v Ferrara Basket 2018 (27/09/26)",
+  "away_form": "A 69-72 v Pall. Brescia (11/11/26) | H 85-91 v Irritec Costa D Orlando (08/11/26) | A 77-81 v Ferrara Basket 2018 (01/11/26) | H 83-62 v Sangiorgese (25/10/26) | A 81-77 v Piacenza (18/10/26) | H 83-85 v Reggio Calabria (11/10/26) | A 59-61 v A. C. Imola (03/10/26) | H 85-64 v Fulgor Omegna (27/09/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Serie B; Orzi home 4-1, p 0.67 below gate",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Orzi ML"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73439738",
+  "fx": "Pallacanestro Fiorenzuola v Sangiorgese Basket",
+  "home_form": "A 72-80 v Irritec Costa D Orlando (11/11/26) | H 95-98 v Virtus Lumezzane (08/11/26) | A 68-64 v A. C. Imola (01/11/26) | H 81-83 v Piacenza (25/10/26) | A 61-63 v Ferrara Basket 2018 (18/10/26) | H 74-82 v Pall. Brescia (11/10/26) | A 76-63 v Reggio Calabria (04/10/26) | H 91-94 v Aurora Desio (27/09/26)",
+  "away_form": "H 84-80 v Orzi (11/11/26) | A 74-80 v Aurora Desio (07/11/26) | H 66-62 v Pall. Vicenza (01/11/26) | A 62-83 v Rucker San Ve (25/10/26) | H 78-76 v Fortitudo Agrigento (18/10/26) | A 70-82 v Irritec Costa D Orlando (11/10/26) | A 57-72 v Siaz Basket (08/10/26) | H 73-80 v Treviglio Brianza Basket (04/10/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Serie B; Fiorenzuola lost 5 of last 6 at near coin flip",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73440376",
+  "fx": "San Giobbe Chiusi v Raggisolaris Faenza",
+  "home_form": "A 76-96 v Pallacanestro Roseto (11/11/26) | H 70-58 v Golfo Piombino (08/11/26) | A 97-84 v Fabriano Basket (01/11/26) | H 93-66 v Dany Basket Quarrata (25/10/26) | A 87-91 v Luiss Roma (18/10/26) | H 92-76 v Basketball Club Lucca (11/10/26) | A 80-71 v Felice Scandone Acellino (04/10/26) | H 65-78 v Ravenna (27/09/26)",
+  "away_form": "H 79-67 v Dany Basket Quarrata (11/11/26) | A 67-69 v Herons Basket (07/11/26) | H 79-68 v Felice Scandone Acellino (01/11/26) | A 83-60 v Asd Loreto Basket (24/10/26) | A 88-66 v Golfo Piombino (18/10/26) | H 69-78 v Ravenna (11/10/26) | H 90-76 v San Severo (04/10/26) | A 75-82 v Latina (27/09/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Serie B; Chiusi home 3-1, Faenza 6-2; no edge",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73440374",
+  "fx": "SS Felice Scandone v ASD Latina Basket",
+  "home_form": "A 67-84 v Golfo Piombino (11/11/26) | H 80-72 v Pallacanestro Roseto (08/11/26) | A 68-79 v Raggisolaris Faenza (01/11/26) | H 104-97 v Luiss Roma (25/10/26) | A 62-76 v Virtus Gvm Roma 1960 (21/10/26) | H 75-66 v Pielle Livorno (18/10/26) | A 71-81 v Fabriano Basket (11/10/26) | H 71-80 v San Giobbe Chiusi (04/10/26)",
+  "away_form": "H 72-64 v Basketball Club Lucca (11/11/26) | A 60-85 v Virtus Gvm Roma 1960 (06/11/26) | A 87-74 v Dany Basket Quarrata (31/10/26) | A 67-81 v Psa Napoli Est (28/10/26) | H 92-81 v Fabriano Basket (25/10/26) | H 93-108 v Pallacanestro Roseto (11/10/26) | A 82-55 v Luiss Roma (02/10/26) | H 82-75 v Raggisolaris Faenza (27/09/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Serie B; Scandone home 3-1, Latina 5-3; no edge",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73439748",
+  "fx": "UCC Piacenza v Pallacanestro Brescia",
+  "home_form": "H 84-67 v Fulgor Omegna (11/11/26) | A 81-59 v Fortitudo Agrigento (08/11/26) | H 87-82 v Orzi (01/11/26) | A 83-81 v Pallacanestro Fiorenzuola (25/10/26) | H 77-81 v Rucker San Ve (18/10/26) | A 63-62 v Siaz Basket (11/10/26) | H 91-59 v Pall. Vicenza (04/10/26) | A 68-71 v Legnano Knights (26/09/26)",
+  "away_form": "H 72-69 v Rucker San Ve (11/11/26) | A 81-86 v Orzi (08/11/26) | H 61-80 v Siaz Basket (01/11/26) | A 75-72 v Legnano Knights (24/10/26) | H 80-62 v Aurora Desio (18/10/26) | A 82-74 v Pallacanestro Fiorenzuola (11/10/26) | H 85-71 v Fortitudo Agrigento (04/10/26) | A 84-73 v Pall. Vicenza (27/09/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Serie B; Piacenza 7-1 v Brescia 6-2; coin flip",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:72672140",
+  "fx": "Baerums Verk Defenders v Nidaros Jets",
+  "home_form": "A 83-95 v Froeya Ambassadors (01/11/26) | A 78-116 v Fyllingen Lions (31/10/26) | H 109-89 v Tnt Towers (25/10/26) | H 93-83 v Centrum Tigers Oslo (13/10/26) | A 72-111 v Gimle BK (11/10/26) | A 75-106 v Froeya Ambassadors (10/10/26) | A 75-115 v Troemso Storm (03/10/26) | H 84-103 v Kongsberg Miners (29/09/26)",
+  "away_form": "A 117-92 v Tnt Towers (14/11/26) | H 100-118 v Ammerud (07/11/26) | H 59-110 v Kongsberg Miners (31/10/26) | H 86-112 v Troemso Storm (24/10/26) | H 74-104 v Troemso Storm (23/10/26) | A 63-94 v Froeya Ambassadors (18/10/26) | A 88-98 v Gimle BK (17/10/26) | H 61-142 v Fyllingen Lions (10/10/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Norway BLNO; Nidaros on back-to-back (won 117-92 at TNT on 14/11) after losing prior 7 by 10-81; Baerums home W20, W10, L19; Baerums ML 1.07 below floor; low-tier league with thin data",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Baerums -13.5 (home margins 20,10,-19)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73659632",
+  "fx": "Basket Poznan v Wkk Wroclaw",
+  "home_form": "A 89-100 v Polonia 1912 Leszno (07/11/26) | H 83-75 v Ksk Notec Inowroclaw (31/10/26) | A 90-84 v Skk Kotwica Kolobrzeg (25/10/26) | H 90-80 v Sokol Lancut (18/10/26) | A 79-86 v Lodz (11/10/26) | H 94-99 v Stargard (04/10/26) | A 107-98 v Mosir Krosno (26/09/26) | H 96-75 v AZS Politechnika Opolska (19/09/26)",
+  "away_form": "H 88-83 v Polonia Bytom (08/11/26) | A 65-90 v GKS Tychy (31/10/26) | H 104-88 v Starogard Gdanski (24/10/26) | A 89-81 v Polonia Warszawa (18/10/26) | H 90-67 v Resovia Rzeszow (10/10/26) | H 97-83 v Decka Pelplin (03/10/26) | A 71-80 v Polonia 1912 Leszno (26/09/26) | H 66-80 v Ksk Notec Inowroclaw (18/09/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Polish 1. Liga; Poznan home 3-1 (lost to Stargard); Wroclaw 5-3; p 0.71 below gate",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Poznan ML"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73575294",
+  "fx": "Palmer Basquet Mallorca Palma v Albacete Basket",
+  "home_form": "A 93-97 v Alicante (07/11/26) | H 80-79 v Oviedo BC (01/11/26) | H 94-95 v Tizona (25/10/26) | H 101-77 v Zamora (20/10/26) | A 94-90 v S. Sebastian Gipuzko (16/10/26) | H 84-69 v Zamora (11/10/26) | A 72-81 v Caja 87 Baloncesto (02/10/26) | H 95-94 v Bahia San Agustin (25/09/26)",
+  "away_form": "H 56-62 v Menorca Basquet (07/11/26) | A 89-90 v Zamora (31/10/26) | H 82-81 v CD Estela (25/10/26) | H 82-105 v Gran Canaria (21/10/26) | A 75-97 v Gran Canaria (17/10/26) | H 81-71 v Cordoba (10/10/26) | A 104-92 v Tizona (02/10/26) | H 69-95 v Palencia Baloncesto (26/09/26)",
+  "trends": {
+   "game_totals": "see form scores",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "see form",
+   "corners": "n/a"
+  },
+  "h2h": "Not researched (no edge from board/form scan)",
+  "absences": "No news searched",
+  "context": "Primera FEB; Palma home 4-1 but mostly by 1-point margins; Albacete lost 56-62 at home last; p 0.725 below gate",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Palma -6.5"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://stats.fn.sportradar.com (Sportradar gismo team_lastx)",
+   "https://www.eurobasket.com/Italy/basketball-League-Serie-B-Nazionale.aspx"
+  ]
+ }
+]
