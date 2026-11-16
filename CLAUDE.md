@@ -227,6 +227,7 @@ You are a team of data analysts, statisticians, actuaries and quant engineers. Y
 - Tape size: ~5–7 MB/day committed under `papertrade/tape/`. Review in ~2 months (prune to monthly aggregates if the repo passes ~1 GB).
 - SportyBet codes expire after ~2 weeks; `legs.jsonl` keeps the legs after expiry.
 - `fixsim.py` output path is hard-coded; daypack can't take an end hour past midnight (rolls over now, but verify).
+- **`fixsim.py` simulates `cache/winmodel_legs.json`, not the baseline you pass.** Run `winmodel.py price <board> <auto.json>` first, or it re-simulates stale legs (found Nov 16: the Nov 14–15 runs re-simulated Nov 12 legs).
 
 ## 9. Memory: durable insights (panel review v7, Nov 8 2026; details in docs/REVIEW_v7.md)
 1. The house is right about probabilities; our edge is selection (+6pp on legs), and it is small.
