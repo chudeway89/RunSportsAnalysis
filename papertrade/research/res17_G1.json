@@ -1,0 +1,388 @@
+[
+ {
+  "eid": "sr:match:75452312",
+  "fx": "Urunday Universitario v Club Union Atletica",
+  "home_form": "W4 L8 last 12; home: 70-64 Malvin W, 90-71 Larranaga W, 91-99 Bigua L, 79-91 Penarol L; lost 67-74 at Nacional 13 Nov",
+  "away_form": "W4 L8; away: 76-96 Hebraica L, 83-97 Goes L, 63-66 Aguada L, 94-78 Larranaga W; lost 85-94 v Bigua 12 Nov",
+  "trends": {
+   "game totals": "line 161.5; Urunday recent totals 141,134,150,161,190 (mixed); Union 179,172,162,180,155,129",
+   "team totals": "Urunday home pts 84 / allowed 86; Union away 77.8 / 84.5",
+   "first half": "Q1 data only, no pattern",
+   "handicap": "Urunday -7.5 coin flip; H2H Urunday +14, +24 last two at/v Union",
+   "corners": "no data"
+  },
+  "h2h": "Urunday won 3 of last 4 (89-75 Mar 26, 101-77 Nov 25), lost 76-79 Feb 26",
+  "absences": "No injury news found.",
+  "context": "LUB round 8 at Urunday, 19:15 local (montevideo.com.uy). Two 4-8 sides; Urunday listed 4th in one table (record 7-2 there conflicts with SR 4-8 form - SR includes playoffs).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Urunday ML @1.28 (house p0.74, sim 0.69 - below 0.75 gate); totals (no edge)",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/75452312",
+   "https://www.elobservador.com.uy/basquetbol/liga-uruguaya-basquetbol-nacional-corto-su-mala-racha-al-superar-urunday-universitario-y-bigua-quedo-como-unico-puntero-vencer-union-atletica-n6063716"
+  ]
+ },
+ {
+  "eid": "sr:match:74320764",
+  "fx": "Cruzeiro Basquete v Fortaleza Basquete Cearense",
+  "home_form": "W5 L7 last 12; home 77.0/83.0: 76-68 Pato W, 80-89 Brasilia L, 84-77 Flu W; last game 5 Nov (11 days idle)",
+  "away_form": "W2 L10; away 66.3/91.8: 63-77 Minas, 78-89 Mogi, 53-96 Sao Jose, 77-86 Cruzeiro; played Sat 14 Nov",
+  "trends": {
+   "game totals": "line 156.5; Fortaleza last 3 totals 140, 143, 123 (all under 144.5); Cruzeiro 9/12 over 144.5",
+   "team totals": "Fortaleza scored <=69 in 5 of last 6 (63,68,65,53,63); Cruzeiro home allows 83",
+   "first half": "n/a",
+   "handicap": "Cruzeiro -16.5 centre; Cruzeiro beat Fortaleza by 9 and 8 only; Fortaleza away losses -14,-11,-43,-9,-31,-45 (big margins v elite only)",
+   "corners": "no data"
+  },
+  "h2h": "Cruzeiro 86-77 (Apr 26), 86-78 (Dec 25)",
+  "absences": "No injury news found.",
+  "context": "NBB, Ginasio Dona Salome, Belo Horizonte 19:30 local (O Tempo).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fortaleza +16.5/+21.5 (weak receiver >15 catch banned); Cruzeiro -11.5 (beat them by 8-9 twice); Over 144.5 (Fortaleza last 3 under). Lean: Fortaleza team Under 71.5 but p0.585 far below Under gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/74320764",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/16/cruzeiro-recebe-o-basquete-cearense-e-sao-jose-enfrenta-mogi-no-nbb-veja-onde-assistir"
+  ]
+ },
+ {
+  "eid": "sr:match:74320766",
+  "fx": "Sao Jose dos Campos v Mogi das Cruzes",
+  "home_form": "W4 L8 last 12 but won 3 of last 4 (79-65 Paulistano, 90-81 at Osasco, 96-53 Fortaleza); home 82.5/77.3",
+  "away_form": "W10 L2; NBB 6-1, 2nd; away 79.8/69.8 (93-75 Osasco, 85-70 Pinheiros); 4 days rest",
+  "trends": {
+   "game totals": "line 161.5; Mogi games avg 154",
+   "team totals": "Mogi allow 69.8 away",
+   "first half": "n/a",
+   "handicap": "Mogi -9.5 centre; H2H margins 23,25,34,11,4,5",
+   "corners": "no data"
+  },
+  "h2h": "Mogi won last 6 H2H (104-81, 102-77, 101-67, 81-70, 79-75, 75-70)",
+  "absences": "No injury news found.",
+  "context": "NBB, Ginasio Lineu de Moura, Sao Jose dos Campos 19:30 local; state rivalry (O Tempo). Mogi 2nd at 6-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.7738675743,
+    "why": "Mogi have won all 6 meetings (four by 11+), are 10-2 in their last 12 and concede 69.8 per away game; Sao Jose 4-8. House p0.774 / sim 0.75 - clears basketball ML gate."
+   }
+  ],
+  "avoid": "Mogi -9.5 (Sao Jose won 3 of last 4, 2 of last 3 H2H margins <=5 in April); Sao Jose +14.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/74320766",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/16/cruzeiro-recebe-o-basquete-cearense-e-sao-jose-enfrenta-mogi-no-nbb-veja-onde-assistir"
+  ]
+ },
+ {
+  "eid": "sr:match:76642744",
+  "fx": "CA Paranaense PR v Parana Clube PR",
+  "home_form": "Athletico U-20 side: W5 D3 L4 (U-20 Brasileiro + Copa Parana)",
+  "away_form": "Parana Clube W7 D4 L1; makeshift squad of leftovers/returnees",
+  "trends": {
+   "game totals": "n/a",
+   "team totals": "n/a",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "no data"
+  },
+  "h2h": "Parana Clube 2-1 at Athletico 29 Aug (Copa Parana opener)",
+  "absences": "Athletico field their under-20 team.",
+  "context": "Copa Parana FINAL first leg, Arena da Baixada 20h local; return leg Sat 21 Nov at Vila Capanema (FPF). Sportradar labels it round 1.",
+  "veto": true,
+  "veto_reason": "Youth side (Athletico U-20) - excluded class; also cup final first leg (two-legged knockout, 90-min results unsupported).",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76642744",
+   "https://federacaopr.com.br/noticias/athletico-e-parana-clube-comecam-a-decidir-a-copa-parana-na-segunda-feira-veja-as-datas/",
+   "https://gazetadoparana.com.br/artigo/copa-parana-2026-tem-tabela-divulgada-athletico-estreia-contra-o-parana-clube-e-cascavel-faz-classico-regional"
+  ]
+ },
+ {
+  "eid": "sr:match:76455626",
+  "fx": "Montevideo Wanderers v CA Juventud de Las Piedras",
+  "home_form": "W3 D3 L6; last 5 L4 D1 (0-4 Lito, 1-1 Penarol, 0-1 Progreso, 0-3 Racing, 1-3 Boston River); home gf/ga 1.0/1.8",
+  "away_form": "W6 D4 L2; away gf/ga 1.43/0.86 (4-1, 0-2, 2-0, 0-2, 1-0, 0-0, 3-1)",
+  "trends": {
+   "game totals": "Juventud O2.5 only 3/12, totals: 5,2,2,0,2,2,1,0,0,4,3,2; Wanderers O2.5 7/12 (one 6-5)",
+   "team totals": "Wanderers scored <=1 in 9 of last 12 (incl. 0,1,0,0,1 last 5); Juventud conceded 2+ in only 2/12 and 0 in 6/12",
+   "first half": "1H goal: Wanderers 3/12 with period data, Juventud 4/12",
+   "handicap": "Juventud lost by 2+ in 2/12 (0-2, 0-2); Wanderers home W1 in last 5",
+   "corners": "no SR corner data pulled; avoid corners"
+  },
+  "h2h": "Juventud W4 of last 5 H2H (2-1, 3-0, 1-0, 1-0) but Wanderers won 5-2 in May",
+  "absences": "No team news found.",
+  "context": "Clausura R14, Estadio Alfredo Victor Viera 23:00 UTC; Juventud 8th (18 pts) v Wanderers 10th (16 pts) per TUDN; date/venue consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.23,
+    "p": 0.780418,
+    "why": "Wanderers have lost 4 and drawn 1 of their last 5 and scored <=1 in 9 of 12; Juventud conceded 0.86 per away game and lost by 2+ only twice in 12. Juventud also W4 of last 5 H2H."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.64,
+    "p": 0.569127,
+    "why": "Wanderers team total: <=1 goal in 9 of last 12 (0,1,0,0,1 in last 5) v a Juventud side that kept 6 clean sheets in 12 and conceded 2+ only twice. NOTE: Under at p0.57 - below the 0.82 Under gate; use only as single/lean."
+   }
+  ],
+  "avoid": "Wanderers 1X2 @2.10 / DNB (out of form, house favourite against evidence); Over 2.5; GG Yes",
+  "confidence": 0.3,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/76455626",
+   "https://www.tudn.com/futbol/uruguay-primera/montevideo-wanderers-vs-juventud-de-las-piedras-uruguay-primera-clausura-2026-11-16",
+   "https://oddspedia.com/football/ca-juventud-montevideo-wanderers-135763/predictions"
+  ]
+ },
+ {
+  "eid": "sr:match:75756100",
+  "fx": "Provincial de Rosario v Quilmes Mar Del Plata",
+  "home_form": "W6 L6; home 80.2/72.0 (98-63 Ciclista W, 68-84 Centenario L, 84-73 La Union W); 5 days rest",
+  "away_form": "W4 L8; away 78.9/85.0 (80-87 Centenario, 75-80 Pico, 80-88 Ciclista); played Sat night",
+  "trends": {
+   "game totals": "line 157.5; no pattern",
+   "team totals": "n/a",
+   "first half": "n/a",
+   "handicap": "pick-em (Provincial -1.5)",
+   "corners": "no data"
+  },
+  "h2h": "Provincial won both 2026 meetings (89-72 H, 83-70 A)",
+  "absences": "No injury news found.",
+  "context": "Liga Argentina Conferencia Sur fecha 7, Estadio Salvador Bonilla 21h local (El Ciudadano). Early season.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - coin-flip market, early-season sample",
+  "confidence": 0.12,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/75756100",
+   "https://elciudadanoweb.com/partidazo-en-el-bonilla-provincial-ante-quilmes-por-la-liga-argentina/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719662",
+  "fx": "Boston Celtics v Orlando Magic",
+  "home_form": "W11 L1 last 12; home 121.8/105.5 (131-94 Dallas, 125-111 & 134-99 Chicago, 109-102 MIL); BACK-TO-BACK (beat Dallas Sun 15 Nov)",
+  "away_form": "W5 L7; away 112.0/113.7; won 3 straight (107-99 MIL, 123-108 UTA, 107-100 SAC); 2 days rest",
+  "trends": {
+   "game totals": "line 212.5; Boston last 12 totals over 199.5 in 10/12; Orlando 11/12",
+   "team totals": "Boston home 121.8 scored",
+   "first half": "Q1 only",
+   "handicap": "Boston -8.5 centre; Boston home margins +37,+14,+35,+7,+1,+4",
+   "corners": "no data"
+  },
+  "h2h": "Boston 108-97 at Orlando 1 Nov",
+  "absences": "ORLANDO: Paolo Banchero OUT (high ankle sprain), Jonathan Isaac OUT, Noah Penda OUT, Izaiyah Nelson OUT. BOSTON: Neemias Queta questionable (rest, B2B).",
+  "context": "Celtics on 2nd night of back-to-back at home; Magic rested.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.7540743926,
+    "why": "Orlando without Paolo Banchero (high ankle sprain) and Jonathan Isaac; Boston 11-1 in last 12 and already won 108-97 in Orlando 1 Nov. Risk: Boston on a back-to-back."
+   },
+   {
+    "mid": "225",
+    "spec": "total=199.5",
+    "desc": "Over 199.5",
+    "odds": 1.25,
+    "p": 0.777768,
+    "why": "Boston games cleared 199.5 in 10 of 12, Orlando games in 11 of 12; 13 points of cushion under the 212.5 centre. Banchero absence trims Orlando scoring - keep as low-line only."
+   }
+  ],
+  "avoid": "Boston -8.5/-17.5 catch for Orlando (B2B); Orlando team Over",
+  "confidence": 0.25,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/73719662",
+   "https://athlonsports.com/nba/boston-celtics/final-injury-report-for-magic-celtics-will-neemias-queta-paolo-banchero-play",
+   "https://clutchpoints.com/nba/nba-stories/bulls-vs-cavs-injury-report-evan-mobley-still-out-but-3-other-key-players-questionable",
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_06_00PM.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:73719664",
+  "fx": "Cleveland Cavaliers v Chicago Bulls",
+  "home_form": "W6 L6; home 117.2/112.3; beat Dallas 127-117 Sat; 1 day rest",
+  "away_form": "W3 L9; away 109.0/126.6 allowed; won last 2 (117-106 at MIN, 125-117 ATL)",
+  "trends": {
+   "game totals": "line 241.5; Chicago totals over 228.5 in 10/12 (fails 223, 227); Cleveland 8/12",
+   "team totals": "Chicago concede 126.6 per away game",
+   "first half": "Q1 only",
+   "handicap": "Cavs -8.5 centre; Mobley out narrows it",
+   "corners": "no data"
+  },
+  "h2h": "Cavs 115-110 (Mar 26)",
+  "absences": "CAVS: Evan Mobley OUT (toe, 3rd straight), Sam Merrill OUT, Nae'Qwan Tomlin OUT; Jaylon Tyson & Peyton Watson questionable. BULLS: Tobe Awaka OUT, Caleb Wilson OUT; Jalen Smith questionable.",
+  "context": "Neither on back-to-back (both played Sat).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=228.5",
+    "desc": "Over 228.5",
+    "odds": 1.24,
+    "p": 0.7819701961,
+    "why": "Chicago games went over 228.5 in 10 of 12 (they allow 126.6 per away game) and Cleveland games 8 of 12; Mobley (Cavs' anchor defender) out again. 13 points below the 241.5 centre."
+   }
+  ],
+  "avoid": "Cavs ML/-8.5 without Mobley (Cavs W6 L6, lost 3 of last 5 home); Chicago +18.5 catch",
+  "confidence": 0.25,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/73719664",
+   "https://athlonsports.com/nba/boston-celtics/final-injury-report-for-magic-celtics-will-neemias-queta-paolo-banchero-play",
+   "https://clutchpoints.com/nba/nba-stories/bulls-vs-cavs-injury-report-evan-mobley-still-out-but-3-other-key-players-questionable",
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-15_06_00PM.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:73719666",
+  "fx": "Washington Wizards v Memphis Grizzlies",
+  "home_form": "W3 L9; home 114.8/122.5; BACK-TO-BACK - lost 119-147 to Houston Sun 15 Nov; lost 140-144 to Detroit",
+  "away_form": "W8 L4; away 121.3/106.8 (142-111 NOP, 118-102 TOR, 124-103 POR, 110-105 UTA, 123-112 SAC, 111-108 GSW - won all 6 away); 1 day rest",
+  "trends": {
+   "game totals": "line 232.5; Washington totals over 219.5 7/12, Memphis 9/12",
+   "team totals": "Memphis away 121.3 scored",
+   "first half": "Q1 only",
+   "handicap": "Memphis -3.5 centre; Memphis lost by 8+ only once in 12 (97-128 OKC); Wizards won by 8+ once (95-79 CHA)",
+   "corners": "no data"
+  },
+  "h2h": "Wizards won both 2025-26 meetings (116-112, 130-122)",
+  "absences": "WIZARDS: Beekman, Champagnie, Vukcevic, Watkins OUT; Tre Johnson questionable (back). GRIZZLIES: Ja Morant OUT; GG Jackson, Ty Jerome, Richie Saunders OUT; Zach Edey and Quinten Post questionable.",
+  "context": "Wizards 2nd night of B2B after a 28-point home loss.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-7.5",
+    "desc": "Away (+7.5)",
+    "odds": 1.24,
+    "p": 0.784317736,
+    "why": "Memphis have won all 6 of their last away games and lost by 8+ just once in 12; Washington (3-9) are on the 2nd night of a back-to-back after a 119-147 loss and have won by 8+ once. Morant out is the risk, hence the catch not the ML."
+   }
+  ],
+  "avoid": "Memphis ML @1.64 (away p0.59, Morant out); totals",
+  "confidence": 0.25,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/73719666",
+   "https://sports.yahoo.com/articles/injury-report-washington-wizards-vs-183310526.html",
+   "https://www.talkbasket.net/228437-nba-injury-report-curry-edwards-morant-out-on-monday-november-16",
+   "https://athlonsports.com/nba/philadelphia-76ers/final-injury-report-for-76ers-nets-will-lebron-james-joel-embiid-play",
+   "https://www.netsdaily.com/nets-game-previews/116247/nets-sixers-lebron-james-barclays-center-preview"
+  ]
+ },
+ {
+  "eid": "sr:match:75512550",
+  "fx": "Martinique v Aruba",
+  "home_form": "W1 D5 L6 last 12; home gf/ga 0.71/1.14; 0-0 at Aruba 12 Nov; scored 0 in 6 of 12",
+  "away_form": "W6 D3 L3; home 2.0/1.5, away 1.33/1.33; Aruba kept Martinique out 0-0",
+  "trends": {
+   "game totals": "Martinique O2.5 4/12, avg total 1.75; market O2.5 @1.42 p0.68",
+   "team totals": "Martinique scored 2+ in 3/12; house team O1.5 @1.26 p0.76",
+   "first half": "Martinique 1H goal 5/12",
+   "handicap": "Martinique -1.5 @1.61 needs a 2-goal win - they have 1 win in 12",
+   "corners": "no data"
+  },
+  "h2h": "First leg Aruba 0-0 Martinique (12 Nov)",
+  "absences": "No team news found.",
+  "context": "KNOCKOUT: Nations League play-in 2nd leg, tie 0-0. La 1ere/ESPN: Stade Pierre-Aliker, Martinique; YSScores lists Stade Ergilio-Hato (Aruba) - venue conflict between sources.",
+  "veto": true,
+  "veto_reason": "Venue conflict (YSScores lists Aruba venue v La 1ere/ESPN Martinique) plus divergence: house prices Martinique p0.80 / 2.65 xG while they scored 0 in Aruba and average 0.71 at home (R5 >15pp divergence).",
+  "picks": [],
+  "avoid": "Martinique 1X2/-1.5, Over 2.5, team Over 1.5",
+  "confidence": 0.1,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/75512550",
+   "https://la1ere.franceinfo.fr/martinique/la-martinique-piegee-et-muette-face-a-aruba-en-play-in-aller-de-la-ligue-des-nations-de-la-concacaf-1757325.html",
+   "https://www.espn.com/soccer/match/_/gameId/401929706/aruba-martinique",
+   "https://www.ysscores.com/en/match/6422184/Martinique-vs-Aruba"
+  ]
+ },
+ {
+  "eid": "sr:match:75512552",
+  "fx": "Trinidad and Tobago v Antigua and Barbuda",
+  "home_form": "W1 D3 L8 last 12 (mostly v higher-tier sides); home gf/ga 1.8/2.2; won 3-2 at Antigua 12 Nov (3-1 HT)",
+  "away_form": "W3 D2 L7; away gf/ga 0.8/2.0; scored 2 v T&T, 5-0 & 3-0 v Anguilla",
+  "trends": {
+   "game totals": "T&T O2.5 9/12 (avg total 3.9), Antigua 7/12; first leg 5 goals",
+   "team totals": "T&T scored in 8/12; Antigua scored in 6/12",
+   "first half": "1H goal T&T 9/12, Antigua 8/12; first leg 4 goals at HT",
+   "handicap": "T&T -1.5 @1.65 - T&T won 1 of 12; aggregate lead may slow them",
+   "corners": "no data"
+  },
+  "h2h": "First leg Antigua 2-3 T&T (12 Nov)",
+  "absences": "No team news found.",
+  "context": "KNOCKOUT: Nations League play-in 2nd leg in Trinidad, T&T lead 3-2 on aggregate; winner to Gold Cup prelims. 90-min settlement.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.31,
+    "p": 0.733663,
+    "why": "First leg produced 5 goals (4 by HT); T&T games went over 2.5 in 9 of 12 (they concede 2.2 at home) and Antigua games 7 of 12; Antigua must chase a one-goal deficit."
+   }
+  ],
+  "avoid": "T&T 1X2/-1.5 (knockout, 1 win in 12); Under 3.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/75512552",
+   "https://ttt.live/tt-secure-first-leg-victory-over-antigua-and-barbuda",
+   "https://www.vavel.com/en-us/soccer/2026/11/12/1278954-antigua-and-barbuda-vs-trinidad-and-tobago-live-latest-score-goals-and-concacaf-nations-league-updates.html",
+   "https://concacaf.com/competitions/concacaf/news/nations-league-u-17-world-cup-headline-this-week-in-concacaf"
+  ]
+ },
+ {
+  "eid": "sr:match:73719668",
+  "fx": "Brooklyn Nets v Philadelphia 76ers",
+  "home_form": "W3 L9; home 105.0/115.0 (114-104 CHA W, 94-110 DET, 109-136 IND, 103-110 CHA); 1 day rest",
+  "away_form": "W9 L3; away 111.4/111.8; BACK-TO-BACK (beat Indiana 131-124 Sun afternoon)",
+  "trends": {
+   "game totals": "line 226.5; Brooklyn over 213.5 8/12, Philly 9/12",
+   "team totals": "n/a",
+   "first half": "Q1 only",
+   "handicap": "Philly -4.5 centre; Philly lost by 6+ in 3/12",
+   "corners": "no data"
+  },
+  "h2h": "Brooklyn 114-108 (Oct 8, preseason), 114-106 (Dec 25); Philly 104-97 (Mar 26)",
+  "absences": "76ERS: LeBron James OUT (back/sciatica), Joel Embiid QUESTIONABLE (plantar fascia, B2B), Dominick Barlow & Adem Bona OUT. NETS: no real injuries (G League assignments only).",
+  "context": "Philly 2nd night of back-to-back without LeBron, Embiid doubtful.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Philly ML @1.53 / -4.5 / +5.5 (B2B, LeBron out, Embiid doubtful); Brooklyn ML (3-9). No edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportybet/en/match/73719668",
+   "https://sports.yahoo.com/articles/injury-report-washington-wizards-vs-183310526.html",
+   "https://www.talkbasket.net/228437-nba-injury-report-curry-edwards-morant-out-on-monday-november-16",
+   "https://athlonsports.com/nba/philadelphia-76ers/final-injury-report-for-76ers-nets-will-lebron-james-joel-embiid-play",
+   "https://www.netsdaily.com/nets-game-previews/116247/nets-sixers-lebron-james-barclays-center-preview"
+  ]
+ }
+]

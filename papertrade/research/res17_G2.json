@@ -1,0 +1,363 @@
+[
+ {
+  "eid": "sr:match:73719670",
+  "fx": "Miami Heat v Houston Rockets",
+  "home_form": "MIA has won 6 of its last 9. At home it beat DET 137-117 (Nov 14 ET), CLE 133-121 and IND 145-125, all 3 recent home games with 133+ points. Last played Sat, so 1 day of rest.",
+  "away_form": "HOU has won 6 of its last 9: at WAS 147-119 (Sun Nov 15), UTA 125-118, GSW 115-108, DEN 110-100, a loss at PHX 99-102 and a loss at DAL 111-116.",
+  "trends": {
+   "game_totals": "Totals: all 9 of MIA's last 9 games reached 220 (220-270). HOU's totals are mixed (201-266, 5 of 9 over 218.5). Handicap: HOU's road losses were by 3 and 5. MIA lost by 20 at GSW and by 21 at LAL. Model/sim: +12.5 p .770/.759, O218.5 .785/.770.",
+   "team_totals": "see game_totals",
+   "first_half": "no reliable 1H pattern",
+   "handicap": "see game_totals",
+   "corners": "n/a"
+  },
+  "h2h": "No 2026-27 meeting found.",
+  "absences": "Official NBA report 3:30PM ET. HOU OUT: Steven Adams, Clint Capela (ankle), so both traditional centers; Marcus Smart (league suspension). Amen Thompson QUESTIONABLE (knee). MIA: Jovic questionable, Larsson doubtful (both illness), Klay Thompson available.",
+  "context": "HOU is on the 2nd night of a back-to-back (played at Washington Sunday 7pm ET, then travels to Miami). MIA is rested at home. HOU's frontcourt is thin without Adams and Capela, and its defensive identity loses Smart.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=12.5",
+    "desc": "Home (+12.5)",
+    "odds": 1.27,
+    "p": 0.770096268,
+    "why": "MIA is a credible home receiver, rested and averaging 138 in its last 3 home games. HOU is on a back-to-back without both centers and Smart (official report)."
+   },
+   {
+    "mid": "225",
+    "spec": "total=218.5",
+    "desc": "Over 218.5",
+    "odds": 1.24,
+    "p": 0.784505,
+    "why": "All 9 MIA games reached 220+. HOU without Adams/Capela/Smart loses its rim protection and defense, and is on a tired back-to-back."
+   }
+  ],
+  "avoid": [
+   "HOU ML/-handicap: road back-to-back without both centers",
+   "Unders"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_03_30PM.pdf",
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://www.talkbasket.net/228437-nba-injury-report-curry-edwards-morant-out-on-monday-november-16"
+  ]
+ },
+ {
+  "eid": "sr:match:76726170",
+  "fx": "CA Penarol v Club Nacional",
+  "home_form": "Penarol is unbeaten in LUB 2026-27: at Atenas 105-83, Aguada 82-66, Defensor 84-65, at Union Atletica 88-74, at Malvin 101-76, at Urunday 91-79.",
+  "away_form": "Nacional is erratic: Urunday 74-67 W, at Bigua 88-110 L, Hebraica 78-83 L, at Mogi 71-82 L (Liga Sudamericana), Jorge Guzman 107-88 W, at Independiente 101-98 W.",
+  "trends": {
+   "game_totals": "Penarol totals 147-188, centred around 160-170. Nacional totals 141-234. Line 172.5. The house has Penarol -11.5. No first-half pattern.",
+   "team_totals": "see game_totals",
+   "first_half": "no reliable 1H pattern",
+   "handicap": "see game_totals",
+   "corners": "n/a"
+  },
+  "h2h": "The last regular-season classic (Apr 2026) went Penarol 84-82 at Nacional.",
+  "absences": "No named absences found.",
+  "context": "A postponed R4 CLASICO (derby) at Palacio Penarol, with Penarol fans only. Nacional's Liga Sudamericana travel is what caused the postponement. La Diaria gives Mon 21:30, which matches the board (00:30 UTC). An El Observador listing shows Nov 15 20:45 but its text says 'this Monday', so the sources disagree on the date.",
+  "veto": true,
+  "veto_reason": "Derby (no result-sides) plus a date discrepancy between sources (El Observador listing Nov 15 v La Diaria Mon Nov 16). No fixture-specific edge on totals.",
+  "picks": [],
+  "avoid": [
+   "Penarol -handicap (derby)",
+   "totals: no evidence"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://ladiaria.com.uy/deporte/articulo/2026/11/liga-uruguaya-penarol-y-nacional-abren-la-semana-con-el-clasico/",
+   "https://www.elobservador.com.uy/basquetbol/penarol-vs-nacional-la-liga-uruguaya-basquetbol-dia-hora-donde-verlo-vivo-y-precios-las-entradas-el-clasico-n6063951"
+  ]
+ },
+ {
+  "eid": "sr:match:73719672",
+  "fx": "Minnesota Timberwolves v Portland Trail Blazers",
+  "home_form": "MIN: CHI 106-117 L (Nov 14, its first game without Edwards), DAL 133-94 W, UTA 115-100 W, at NOP 115-109 W, at HOU 117-107 W, MIL 112-100 W, at SAS 111-121 L.",
+  "away_form": "POR: at SAC 120-107 W, OKC 118-108 W and 123-103 W, SAS 103-125 L, at LAL 118-124 L, at PHX 132-119 W, at DEN 118-110 W.",
+  "trends": {
+   "game_totals": "Totals: MIN 212-233 and POR 202-251 over their last 9, line ~227. Both sides are missing their top scorers, which argues against Overs. Handicap is near pick'em.",
+   "team_totals": "see game_totals",
+   "first_half": "no reliable 1H pattern",
+   "handicap": "see game_totals",
+   "corners": "n/a"
+  },
+  "h2h": "None this season found.",
+  "absences": "Official report. MIN OUT: Anthony Edwards (knee arthroscopy), DiVincenzo (Achilles), Jaylen Clark. POR OUT: Ja Morant (hamstring), Shaedon Sharpe (knee surgery), Krejci, Youngblood.",
+  "context": "The first of a two-game set in Minneapolis (POR@MIN also on Nov 17). Not a back-to-back for either side: MIN last played Sat, POR Fri.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "MIN ML 1.79: no Edwards, and lost its first game without him at home to CHI",
+   "high totals: both lead scorers out"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_03_30PM.pdf",
+   "https://www.talkbasket.net/228437-nba-injury-report-curry-edwards-morant-out-on-monday-november-16"
+  ]
+ },
+ {
+  "eid": "sr:match:73719674",
+  "fx": "New Orleans Pelicans v Golden State Warriors",
+  "home_form": "NOP has lost 4 straight, conceding heavily: DEN 108-116, MEM 111-142, BKN 111-145, at GSW 87-138, at LAC 123-139.",
+  "away_form": "GSW has lost 2 straight: at SAS 85-123, at HOU 108-115. Before that it won 7 in a row at home, including NOP 138-87.",
+  "trends": {
+   "game_totals": "Totals: all 9 of NOP's last 9 games reached 220 (220-269). GSW: 7 of 9 over 210.5 (207 and 208 were the misses). The Nov 9 meeting finished 225. NOP has allowed 116-145 in its last 5.",
+   "team_totals": "see game_totals",
+   "first_half": "no reliable 1H pattern",
+   "handicap": "see game_totals",
+   "corners": "n/a"
+  },
+  "h2h": "Nov 9 2026: GSW 138-87 NOP.",
+  "absences": "Official report. GSW OUT: Stephen Curry (oblique tear), Jimmy Butler (ACL), Kristaps Porzingis (not with team), Moses Moody, Brandon Williams; Gui Santos questionable. NOP OUT: Dejounte Murray (ankle; has requested a trade), Trey Murphy III, Bennedict Mathurin, McGowens, Watford.",
+  "context": "Both rosters are gutted. GSW's offense without Curry/Butler has produced 85 and 108. NOP's defense is the worst in the league in recent form. Not a back-to-back (NOP last played Sat, GSW Fri).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=210.5",
+    "desc": "Over 210.5",
+    "odds": 1.25,
+    "p": 0.779061,
+    "why": "All 9 NOP games reached 220+, and NOP conceded 116-145 in its last 5. The low line already prices GSW's missing stars."
+   }
+  ],
+  "avoid": [
+   "GSW ML/-handicap: without Curry, Butler and Porzingis, and off two road losses",
+   "NOP handicap: missing 5 rotation players"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_03_30PM.pdf",
+   "https://www.nba.com/pelicans/news/pelicans-vs-warriors-injury-report-game-preview-11-16-2026",
+   "https://clutchpoints.com/nba/new-orleans-pelicans/warriors-vs-pelicans-injury-report-dejounte-murray-listed-requesting-trade"
+  ]
+ },
+ {
+  "eid": "sr:match:76409640",
+  "fx": "Pitbulls Santa Barbara FC v AD Rosario",
+  "home_form": "Pitbulls: at Rosario 0-0, at Desamparados 0-4, Carmelita 2-1, at Municipal 1-2, Aserri 2-2, at Coronado 2-2, at Guadalupe 2-2.",
+  "away_form": "Rosario: Pitbulls 0-0, at Cofutpa 5-1, Sarchi 1-3, Santa Cruz 2-1, at Grecia 2-2, Quepos 1-0, at Jicaral 1-1.",
+  "trends": {
+   "game_totals": "Totals are mixed. The first leg was 0-0. No half-time data. Line Over 2.5 1.74.",
+   "team_totals": "see game_totals",
+   "first_half": "no reliable 1H pattern",
+   "handicap": "see game_totals",
+   "corners": "n/a"
+  },
+  "h2h": "1st leg on Nov 10: 0-0.",
+  "absences": "None found.",
+  "context": "Costa Rica Liga de Ascenso (2nd tier) Apertura quarterfinal 2nd leg at Estadio Carlos Alvarado, Mon 7pm local (01:00 UTC), level 0-0 on aggregate. Winner meets Jicaral. The tiebreak (seeding or penalties) is unconfirmed, and the game is a knockout settled at 90 minutes.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Unders: regional league",
+   "result-sides: knockout tie with unknown tiebreak",
+   "Over 1.5: thin league"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nacion.com/puro-deporte/rumbo-a-primera-division-asi-esta-el-panorama-en/GJWS44G7SBFDXJCJ2GEGX5LL5E/story/",
+   "https://www.sensaciondeportiva.com/2026/11/15/sarchi-grecia-y-jicaral-ya-estan-en-semifinales-de-la-liga-de-ascenso/"
+  ]
+ },
+ {
+  "eid": "sr:match:75466986",
+  "fx": "Canada v Guatemala",
+  "home_form": "Canada home: Peru 2-0, Chile 1-0, Morocco 0-3 (WC), Qatar 6-0, Bosnia 1-1. Canada is unbeaten at BMO Field for almost 3 years (Sports Mole).",
+  "away_form": "Guatemala: Canada 2-3 (H, 1st leg), Suriname 1-0 H, at Suriname 0-0, El Salvador 6-0 H, at Jamaica 2-3, at Ecuador 0-3, at Czechia 1-3.",
+  "trends": {
+   "game_totals": "Canada's home totals are mostly low (2,1,3,6,2). In the 1st leg Canada led 3-0 at half-time, then conceded 2. Guatemala has scored 0-2 away.",
+   "team_totals": "see game_totals",
+   "first_half": "no reliable 1H pattern",
+   "handicap": "see game_totals",
+   "corners": "n/a"
+  },
+  "h2h": "1st leg on Nov 14 in Guatemala City: Guatemala 2-3 Canada.",
+  "absences": "Alphonso Davies OUT (injured early in the 1st leg; Sports Mole), with Ralph Priso the likely replacement. Jonathan David and Tajon Buchanan are in the squad.",
+  "context": "CONCACAF Nations League QF 2nd leg at BMO Field, Toronto, 20:00 ET (01:00 UTC). Canada lead 3-2 on aggregate and need only avoid defeat, so their cushion is only 1 goal. This is a knockout, so no 1X2.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Canada 1X2 1.19 (knockout with a 1-goal cushion, which the rules ban)",
+   "Away +3.5 (rout tail v Qatar-type 6-0)",
+   "Canada team O1.5 (home goals 2,1,0,6,1)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://canadasoccer.com/match/6748/",
+   "https://www.sportsmole.co.uk/football/canada/preview/canada-vs-guatemala-prediction-team-news-lineups_609108.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75364742",
+  "fx": "IA Central Cordoba v CA San Lorenzo de Almagro",
+  "home_form": "Instituto Central Cordoba: at La Banda 83-82 W, at Quimsa 92-88 W, Racing Chivilcoy 75-71 W, Comodoro 57-58 L, Lanus 75-73 W, Ferro 97-94 W, at Regatas 63-73 L. Close games throughout.",
+  "away_form": "San Lorenzo is in collapse: at Independiente Oliva 89-122, at Atenas 55-81, Corrientes 42-75, Regatas 70-65 W, Platense 58-80. The club owes unpaid salaries (Mundo Azulgrana).",
+  "trends": {
+   "game_totals": "Central Cordoba's margins are thin (most results within 4 points), which argues against covering -12.5. San Lorenzo has scored 42-89 in its last 5. Totals 115-211.",
+   "team_totals": "see game_totals",
+   "first_half": "no reliable 1H pattern",
+   "handicap": "see game_totals",
+   "corners": "n/a"
+  },
+  "h2h": "Sep 12 2026: San Lorenzo 66-84 Central Cordoba.",
+  "absences": "No named list. San Lorenzo is in a financial crisis with salaries owed.",
+  "context": "The last stop of San Lorenzo's Cordoba road trip (Atenas, Independiente Oliva). One data conflict: Instituto's own site advertises a WOMEN'S Liga Femenina game v San Lorenzo on Nov 16 at Angel Sandrin. 365Scores lists San Lorenzo at Angel Sandrin at 01:05 UTC Nov 17, matching the board. The men's/women's identity of this listing is uncertain.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "CC -handicap: their wins are by 1-4 points",
+   "Anything until it is confirmed which side (men's or women's) the board lists"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://institutoacc.com.ar/",
+   "https://mundoazulgrana.com.ar/otra-derrota-y-mas-preocupacion-san-lorenzo-no-levanta-cabeza/",
+   "https://sanlorenzowebsite.com.ar/dura-derrota-del-basquet-ante-atenas/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719676",
+  "fx": "Denver Nuggets v Phoenix Suns",
+  "home_form": "DEN has won 6 of its last 9: at NOP 116-108, at MEM 123-118, at HOU 100-110 L, at IND 114-102, TOR 128-109, POR 110-118 L, at PHX 127-120.",
+  "away_form": "PHX: LAL 123-131 L (Sun Nov 15), CHA 101-96 W, LAC 133-110 W, SAS 96-122 L, HOU 102-99 W, ORL 117-104 W, POR 119-132 L, at GSW 113-116 L, DEN 120-127 L.",
+  "trends": {
+   "game_totals": "DEN beat PHX 127-120 in Phoenix on Oct 31 ('Suns look to avoid season sweep'). PHX is 0-1 on the road in the sample (at GSW L). Totals are mixed (195-254), so no totals view.",
+   "team_totals": "see game_totals",
+   "first_half": "no reliable 1H pattern",
+   "handicap": "see game_totals",
+   "corners": "n/a"
+  },
+  "h2h": "Oct 31 2026: PHX 120-127 DEN, plus an earlier DEN win (sweep narrative).",
+  "absences": "Official report. PHX: Mark Williams OUT (shoulder surgery), Ryan Dunn questionable (thumb). DEN OUT: Julian Strawther (knee) plus two-ways; Jokic is not listed.",
+  "context": "PHX is on the 2nd night of a back-to-back (home v LAL Sunday afternoon) and flies to altitude. DEN is rested since Saturday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.778497637,
+    "why": "PHX on a road back-to-back at altitude without starting C Mark Williams. DEN rested, with Jokic available, and has already beaten PHX this season."
+   }
+  ],
+  "avoid": [
+   "PHX +catches",
+   "totals (mixed)"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-16_03_30PM.pdf",
+   "https://sports.yahoo.com/articles/game-preview-suns-look-avoid-170000870.html",
+   "https://foxsportsabq.iheart.com/content/2026-11-16-suns-vs-nuggets-injury-report-nov-16/"
+  ]
+ },
+ {
+  "eid": "sr:match:76582718",
+  "fx": "New Mexico United v Sacramento Republic FC",
+  "home_form": "NMU (1st seed, West regular-season champion): Colorado Springs 4-0 (playoff), Phoenix 2-0 (playoff), at El Paso 1-0, at San Antonio 0-1, Monterey Bay 3-1, Phoenix 2-1, Sacramento 2-3.",
+  "away_form": "Sacramento (2nd seed): El Paso 2-1 (playoff), Tulsa 1-0 (playoff), Oakland 3-2, at El Paso 1-0, Colorado Springs 1-1, at Tulsa 1-1, at NMU 3-2.",
+  "trends": {
+   "game_totals": "Sacramento's games are low-scoring and decided by 1 goal (mostly 1-2 total goals plus a few 5-goal games). NMU home: 4 of the last 5 had 2+ goals. Line O2.5 1.77.",
+   "team_totals": "see game_totals",
+   "first_half": "no reliable 1H pattern",
+   "handicap": "see game_totals",
+   "corners": "n/a"
+  },
+  "h2h": "Sep 27: NMU 2-3 SAC in Albuquerque. Sacramento 9-4-2 all-time v NMU.",
+  "absences": "No named absences found.",
+  "context": "USL Championship WESTERN CONFERENCE FINAL (knockout, settled at 90 minutes), moved from Sunday to Mon 7pm MT at Isotopes Park because Sacramento's travel was disrupted by a nationwide ground stop. The board time (02:00 UTC Nov 17) matches the rescheduled slot. The house makes the away side favourite (DNB 1.63).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "any 1X2 (knockout)",
+   "Over 1.5 (USL on thin-league list)",
+   "Unders"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.abqjournal.com/sports/new-time-same-place-usl-championship-moves-western-conference-final/3163171",
+   "https://www.kcra.com/article/sacramento-republic-fc-western-conference-final-rescheduled/74433244",
+   "https://sports.yahoo.com/articles/mexico-united-western-conference-final-183907463.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74100786",
+  "fx": "Irapuato v Club Celaya FC",
+  "home_form": "Irapuato has won 10 straight in Liga Premier (Deporte Digital): at Racing Veracruz 1-0, Deportiva Venados 2-1, at Inter Playa 4-1, Zacatepec 2-0, Tritones 1-0, Lobos ULMX 3-0, at Reboceros 3-2, Tigres Alica 2-1, at Cordobes 3-0. 5 of 5 home wins. (It lost to Gorilas del Bajio in another competition.)",
+  "away_form": "Celaya: Tigres Alica 1-1, at Los Cabos 4-1 W, Cordobes 2-1, at Racing 1-2, Jaguares 0-1, at Deportiva Venados 6-5, Montaneses 2-1, at Chapulineros 1-1.",
+  "trends": {
+   "game_totals": "Over 1.5: Irapuato 7 of 9 (misses were 1-0 games), Celaya 8 of 9. Irapuato has scored in 9 of 9 and conceded 0-2. Celaya's away games: 5,3,11,2 goals.",
+   "team_totals": "see game_totals",
+   "first_half": "no reliable 1H pattern",
+   "handicap": "see game_totals",
+   "corners": "n/a"
+  },
+  "h2h": "6 meetings since 2011: Irapuato 3, Celaya 2, 1 draw (AiScore).",
+  "absences": "None found.",
+  "context": "Liga Premier Serie A, Group A, round 12, regular season. Guanajuato (Bajio) regional derby, so no result-side despite Irapuato's run. Venue not confirmed by sources (Irapuato is listed as home).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8054987712,
+    "why": "Irapuato has scored in 9 of 9 on a 10-game win run. Celaya's games went over 1.5 in 8 of 9, and its away games produced 2-11 goals."
+   }
+  ],
+  "avoid": [
+   "Irapuato 1X2 1.39 (derby rule)",
+   "Under 2.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://deportedigital.mx/irapuato-hace-historia-en-la-liga-premier-y-llega-a-10-victorias-en-fila-tras-vencer-a-racing",
+   "https://www.aiscore.com/head-to-head/soccer-celaya-fc-vs-irapuato",
+   "https://www.365scores.com/es-mx/football/match/primera-premier-9119/celaya-fc-irapuato-10363-11213-9119"
+  ]
+ },
+ {
+  "eid": "sr:match:76488118",
+  "fx": "Astros de Jalisco v Soles de Mexicali",
+  "home_form": "Astros: at Soles 70-73 L and 66-85 L (Finals G1-2). Before that, beat Fuerza Regia 4-0 in the semi (82-77, 83-69, 97-90, 96-89) and swept Mineros.",
+  "away_form": "Soles: beat Astros 85-66 and 73-70 at home (G2 came back from 15 down). Beat Panteras 4-1 in the semi (110-79, 87-75, 84-87 L, 83-65, 80-76).",
+  "trends": {
+   "game_totals": "Finals totals 151 and 143, both under the 158.5 line. Astros' home semi games totalled 187 and 186. Line 158.5.",
+   "team_totals": "see game_totals",
+   "first_half": "no reliable 1H pattern",
+   "handicap": "see game_totals",
+   "corners": "n/a"
+  },
+  "h2h": "Finals G1 85-66 and G2 73-70, both won by Soles.",
+  "absences": "None found.",
+  "context": "LNBP FINAL Game 3 (best of 7) at Arena Astros, Guadalajara. Soles lead 2-0 and Astros must win. Both sources confirm the date.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Unders (p<0.82)",
+   "Astros ML (must-win but 2.05, no edge)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://zetatijuana.com/2026/11/soles-gana-dramaticamente-y-se-coloca-arriba-en-la-final-de-la-lnbp/",
+   "https://www.informador.mx/deportes/jalisco-o-mexicali-el-titulo-de-la-lnbp-se-define-a-partir-de-este-jueves-20261111-0155.html"
+  ]
+ }
+]
