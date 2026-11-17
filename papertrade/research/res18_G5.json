@@ -1,0 +1,703 @@
+[
+ {
+  "eid": "sr:match:75466988",
+  "fx": "USA v Haiti",
+  "home_form": "USA W5 before break: 6-0 at Haiti (Nov 14, Miami), 1-0 CAN, 3-0 MEX, 4-2 CHI, 4-1 PER.",
+  "away_form": "Haiti: 0-6 v USA, 0-2 at CRC, 4-1 at DOM, 2-0 CRC, 3-2 TRI.",
+  "trends": {
+   "game_totals": "USA last 5: 6,1,3,6,5 goals",
+   "team_totals": "USA scored 3+ in 4 of 5",
+   "first_half": "USA HT 1-0 in 4 of 5",
+   "handicap": "USA won by 6 in first leg",
+   "corners": "no data"
+  },
+  "h2h": "First leg (QF) Haiti 0-6 USA in Miami.",
+  "absences": "None confirmed; Pochettino's last match before leaving the job; rotation very likely.",
+  "context": "CNL League A QF 2nd leg; USA lead 6-0 on aggregate = dead rubber.",
+  "veto": true,
+  "veto_reason": "Dead rubber (6-0 aggregate) + coach departure -> rotation risk; R3 dead-rubber veto.",
+  "picks": [],
+  "avoid": [
+   "USA -2.5/-1.5 handicaps (rotation)",
+   "Over 3.5+"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.concacaf.com/competitions/nations-league/news/usa-vs-haiti-mexico-vs-jamaica-close-out-nations-league-quarterfinals",
+   "https://www.ussoccer.com/stories/2026/11/usmnt/haiti-match-preview-miami-florida"
+  ]
+ },
+ {
+  "eid": "sr:match:75468446",
+  "fx": "French Guiana v Saint Vincent and the Grenadines",
+  "home_form": "French Guiana: 5-1 at Sint Maarten (Nov 14), 1-0 BLZ, 2-0 at BLZ, 1-0 SXM, 1-2 at SVG.",
+  "away_form": "SVG W5: 1-0 BLZ (Nov 15), 4-0 SXM, 4-2 at SXM, 1-0 at BLZ, 2-1 v French Guiana.",
+  "trends": {
+   "game_totals": "FG last 5: 6,1,2,1,3; SVG last 5: 1,4,6,1,3",
+   "team_totals": "SVG scored in all of last 8",
+   "first_half": "SVG led at HT in 4 of last 5",
+   "handicap": "SVG margins small v FG (2-1)",
+   "corners": "n/a"
+  },
+  "h2h": "SVG 2-1 French Guiana (Sep 26 2026, CNL).",
+  "absences": "No news found.",
+  "context": "CNL League B group game (not a two-leg tie). SVG on a five-match winning streak; three days after their Nov 15 match.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.43,
+    "p": 0.6665,
+    "why": "SVG won the reverse fixture 2-1 and are W5; double chance X2 avoids the draw risk. Thin minnow-level data."
+   }
+  ],
+  "avoid": [
+   "Integer Over 2/3 lines",
+   "Under lines"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/concacaf.nations.league",
+   "https://www.concacaf.com/competitions/nations-league/news/2026-27-concacaf-nations-league-november-schedule-confirmed"
+  ]
+ },
+ {
+  "eid": "sr:match:75512554",
+  "fx": "El Salvador v Saint-Martin",
+  "home_form": "El Salvador: 2-0 at Saint-Martin (Nov 13/14, played in St Kitts), 1-1 at MTQ, 0-2 JAM, 0-6 at GUA, 3-1 MTQ.",
+  "away_form": "Saint-Martin: 0-2 ES, 6-0 BAH, 5-0 at VIR, 0-2 VIR, 8-0 at BAH (inflated by minnows).",
+  "trends": {
+   "game_totals": "ES last 8: 2,2,2,6,4,0,1,1 goals - low-scoring side",
+   "team_totals": "ES scored \u22642 in all last 8, max 3",
+   "first_half": "ES 1-0 HT first leg",
+   "handicap": "ES biggest winning margin in last 8 = 2",
+   "corners": "n/a"
+  },
+  "h2h": "First leg Saint-Martin 0-2 El Salvador (Gil 34', Cerritos 83').",
+  "absences": "No news found.",
+  "context": "Play-in 2nd leg in San Salvador; ES lead 2-0 aggregate, can manage game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-2",
+    "desc": "Away (+2.0)",
+    "odds": 1.32,
+    "p": 0.7211,
+    "why": "El Salvador have not won by 3+ in last 8; first leg 2-0 (would void); leading tie, no need to chase a rout."
+   }
+  ],
+  "avoid": [
+   "El Salvador -1.5 (2.15) and team Over 1.5",
+   "Away +2.5 is excluded by rule (fav p\u22650.60)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.concacaf.com/competitions/nations-league/news/el-salvador-nicaragua-win-nations-league-play-in-openers",
+   "https://www.espn.com/soccer/match/_/gameId/401929712/el-salvador-st-martin"
+  ]
+ },
+ {
+  "eid": "sr:match:76875152",
+  "fx": "Chorrillo FC v Academia Costa Del Este",
+  "home_form": "Chorrillo: W3 at home (2-1 PCFC, 3-1 Potros, 3-1 San Martin); scored in all last 8, 7/8 with 3+ total goals.",
+  "away_form": "Academia Costa del Este: 1-1 Tauro II, 3-1 at Tauro II, 0-0, 2-1, 0-3, 3-1, 2-0, 2-3.",
+  "trends": {
+   "game_totals": "Chorrillo totals 3,2,4,3,8,4,3,3; ACDE 2,4,0,3,3,4,2,5",
+   "team_totals": "Chorrillo scored 1+ in 8/8 (2+ in 7/8)",
+   "first_half": "no HT data",
+   "handicap": "Chorrillo home wins by 1-2",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "No news found (Liga Prom, 2nd tier).",
+  "context": "Panama Liga Prom; both near top of the Eastern group.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.794,
+    "why": "Chorrillo scored in all 8 recent matches, 2+ in 7; at home."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.54,
+    "p": 0.6138,
+    "why": "Chorrillo matches 7/8 Over 2.5, ACDE 6/8."
+   }
+  ],
+  "avoid": [
+   "Unders",
+   "Away result sides"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://lpf.com.pa/la-liga-prom-no-se-detiene-asi-se-jugara-la-jornada-11/",
+   "https://en.wikipedia.org/wiki/Liga_Prom"
+  ]
+ },
+ {
+  "eid": "sr:match:76520696",
+  "fx": "America de Cali v Internacional de Bogota.",
+  "home_form": "America de Cali unbeaten 8: 2-0 at Pereira, 2-1 at Inter (1st leg), 0-0 Dep Cali, 0-0 at Millonarios, 2-1, 3-1, 4-0, 1-1. 4 clean sheets in last 5.",
+  "away_form": "Inter Bogota: 0-2 v Santa Fe (Nov 14), 1-2 v America, 1-2 at Chico, 3-1, 0-1, 2-1, 4-1, 2-2.",
+  "trends": {
+   "game_totals": "America last 5: 2,3,0,0,3",
+   "team_totals": "Inter scored 0 or 1 in 4 of last 5",
+   "first_half": "America HT lead in 3 of last 8",
+   "handicap": "America wins by 1-2",
+   "corners": "n/a"
+  },
+  "h2h": "Copa BetPlay SF 1st leg: Inter 1-2 America (Nov 10/11, Techo).",
+  "absences": "No confirmed absences found.",
+  "context": "Copa BetPlay semifinal 2nd leg at Pascual Guerrero; America lead 2-1 aggregate; knockout -> 90-min settlement.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.792,
+    "why": "Knockout: DNB only. America unbeaten 8, lead the tie, at home; Inter lost 3 of last 4."
+   }
+  ],
+  "avoid": [
+   "America 1X2/-1 (knockout result-side rule)",
+   "Integer lines"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.elpais.com.co/deportes/america-vs-internacional-de-bogota-dia-hora-y-canal-para-ver-el-partido-que-dejara-un-finalista-de-la-copa-betplay-2026-1626.html",
+   "https://www.pulzo.com/deportes/futbol/america-de-cali-vence-2-1-a-internacional-de-bogota-en-semifinal-de-copa-betplay-2026-PP5354454A"
+  ]
+ },
+ {
+  "eid": "sr:match:76822364",
+  "fx": "CD Arabe Unido v Veraguas United FC",
+  "home_form": "Arabe Unido: 1-0 at San Miguelito, 1-1 at Alianza, 1-3 Tauro, 1-1 Umecit, 0-2 at Plaza Amador; home 1-3, 1-1, 2-1.",
+  "away_form": "Veraguas United: 1-1 at SF, 2-3 at Penonome, 4-2, 3-0, 1-3 at CAI, 2-1, 1-1, 1-1.",
+  "trends": {
+   "game_totals": "Veraguas matches 2,5,6,3,4,3,2,2 (all \u22652); Arabe 1,2,4,2,2,2,3,3 (7/8 \u22652)",
+   "team_totals": "Veraguas scored in 8/8",
+   "first_half": "mixed",
+   "handicap": "Arabe draws often (4 of 8)",
+   "corners": "n/a"
+  },
+  "h2h": "Veraguas 3-2 Arabe Unido earlier in 2026 (TVN).",
+  "absences": "No news found.",
+  "context": "Liga Paname\u00f1a regular season.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.3,
+    "p": 0.7293,
+    "why": "15 of the two sides' last 16 matches had 2+ goals; last H2H 3-2."
+   }
+  ],
+  "avoid": [
+   "Arabe Unido 1X2 (draw-prone)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.tvn-2.com/tvmax/lpf/lpf-torneo-clausura-2026-resultado-veraguas-united-arabe-unido-jornada-8-futbol-panama_1_2231066.html",
+   "https://lpf.com.pa/jornada-de-alto-voltaje-se-juegan-los-clasicos-de-la-fecha-12/"
+  ]
+ },
+ {
+  "eid": "sr:match:75466990",
+  "fx": "Mexico v Jamaica",
+  "home_form": "Mexico winless in 5: 2-3 at JAM (1st leg), 0-2 CHI, 0-3 at USA, 1-1 PER, 1-1 COL.",
+  "away_form": "Jamaica: 3-2 MEX, 1-1 at HON, 2-0 at SLV, 0-1 HON, 3-2 GUA.",
+  "trends": {
+   "game_totals": "Mexico last 5: 5,2,3,2,2; Jamaica last 5: 5,2,2,1,5",
+   "team_totals": "Mexico scored \u22641 in 4 of last 5",
+   "first_half": "Mexico 0 HT goals in 4 of last 5",
+   "handicap": "Mexico must win by 2 to advance in 90",
+   "corners": "n/a"
+  },
+  "h2h": "QF 1st leg Jamaica 3-2 Mexico (Cephas, King + OG; Mora, Qui\u00f1ones).",
+  "absences": "No confirmed absences found.",
+  "context": "CNL QF 2nd leg, Estadio BBVA/Monterrey (same stadium). Mexico trail 2-3 and must attack; knockout -> 90-min settlement, no result-sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.34,
+    "p": 0.7196,
+    "why": "Must-win for Mexico trailing on aggregate; first leg had 5 goals; Jamaica scored 2+ in 3 of last 5."
+   }
+  ],
+  "avoid": [
+   "Mexico 1X2 at 1.13 (winless 5, knockout rule)",
+   "Mexico -1.5/-2.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.concacaf.com/competitions/nations-league/news/usa-vs-haiti-mexico-vs-jamaica-close-out-nations-league-quarterfinals",
+   "https://www.concacaf.com/competitions/nations-league/news/haiti-vs-usa-jamaica-vs-mexico-headline-nations-league-quarterfinals-doubleheader"
+  ]
+ },
+ {
+  "eid": "sr:match:75512556",
+  "fx": "Nicaragua v Montserrat",
+  "home_form": "Nicaragua: 2-1 at Montserrat (1st leg), then losses 1-2 DOM, 0-3 CRC, 1-6 at CUW, 2-3 at DOM.",
+  "away_form": "Montserrat: 1-2 NCA, 4-1 TCA, 2-0 at VGB, 3-0 VGB, 2-0 at TCA.",
+  "trends": {
+   "game_totals": "Nicaragua last 5: 3,3,3,7,5",
+   "team_totals": "Nicaragua scored \u22642 in all last 8",
+   "first_half": "Montserrat led 1-0 at HT in 1st leg",
+   "handicap": "Nicaragua only won by 1 in 1st leg",
+   "corners": "n/a"
+  },
+  "h2h": "1st leg Montserrat 1-2 Nicaragua (Efrain Mejia 72').",
+  "absences": "No news found.",
+  "context": "Play-in 2nd leg; Nicaragua lead 2-1 aggregate.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Nicaragua -1/-1.5 (won by 1 away, poor form)",
+   "Integer Over 2 (banned class)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.concacaf.com/competitions/nations-league/news/el-salvador-nicaragua-win-nations-league-play-in-openers",
+   "https://www.vavel.com/en-us/soccer/2026/11/13/1279196-montserrat-vs-nicaragua-live-latest-score-goals-and-concacaf-nations-league-updates.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72597054",
+  "fx": "BG Tampines Rovers v Ratchaburi FC",
+  "home_form": "Tampines poor: 0-2 at Svay Rieng, 0-0 Geylang, 1-5 Svay Rieng, 3-2 at Jurong, 4-1 Young Lions; 2-2 at Kuching in ACC.",
+  "away_form": "Ratchaburi: 1-2 Buriram, 2-3 at Vissel, 5-2 at Sisaket, 0-0 Kashiwa, 1-2 Chonburi.",
+  "trends": {
+   "game_totals": "Tampines last 8: 2,0,6,5,5,1,4,4; Ratchaburi 3,5,7,0,3,3,1,6",
+   "team_totals": "Ratchaburi scored in 6/8",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "None.",
+  "absences": "No news found.",
+  "context": "ASEAN Club Championship group stage at Jalan Besar; Ratchaburi also busy in ACL Two.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.52,
+    "p": 0.613,
+    "why": "6/8 Over 2.5 for each side; Tampines conceding heavily (7 in last 3 v Svay Rieng)."
+   }
+  ],
+  "avoid": [
+   "Unders"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://aseanutdfc.com/asean-club-championship/2026/news/manila-digger-fc-launch-shopee-cup-campaign-in-borneo",
+   "https://www.espn.com/soccer/story/_/id/50070775/2026-27-asean-club-championship-fixtures-results-standings-how-watch"
+  ]
+ },
+ {
+  "eid": "sr:match:74846730",
+  "fx": "Borneo Samarinda v Manila Digger FC",
+  "home_form": "Borneo: 1-1 PSM, 1-2 at PSIM, 2-1 at PSS, 3-1 at Tainan, 2-0 Yangon, 0-0 at Buriram.",
+  "away_form": "Manila Digger: W6 in PFL/playoff (3-0, 6-0, 4-0 Shan, 1-1 New Taipei, 5-0 Kasuka) - weaker opposition.",
+  "trends": {
+   "game_totals": "Borneo 2,3,3,4,2,3,0,1",
+   "team_totals": "Borneo scored in 7/8",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "None.",
+  "absences": "No news found.",
+  "context": "Manila Digger's first ACC group match, away in Samarinda; Indonesia Super League side vs Philippines champion.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.7619,
+    "why": "Borneo beat Yangon 2-0 and Tainan 3-1 in this competition and held Buriram away; Digger's form built vs PFL sides."
+   }
+  ],
+  "avoid": [
+   "Borneo -1.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://aseanutdfc.com/asean-club-championship/2026/news/manila-digger-fc-launch-shopee-cup-campaign-in-borneo",
+   "https://www.aseanfootball.org/v3/shan-united-fc-manila-digger-fc-advance-to-complete-asean-club-championship-shopee-cup-line-up/"
+  ]
+ },
+ {
+  "eid": "sr:match:75911698",
+  "fx": "FC Bengaluru United v Sreenidi Deccan FC",
+  "home_form": "Bengaluru United (promoted, unbeaten at home): 2-2 Real Kashmir, 4-3 Mohammedan, 0-1 at Dempo.",
+  "away_form": "Sreenidi Deccan: 1-2 at Shillong Lajong, 1-1 at Real Kashmir, 1-0 at Rajasthan; long road trip.",
+  "trends": {
+   "game_totals": "BU home: 4, 7 goals; Sreenidi last 8: 3,2,1,2,3,2,3,3",
+   "team_totals": "Sreenidi scored in 7/8",
+   "first_half": "BU HT goals in both home games",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "None found in 2026.",
+  "absences": "No news found.",
+  "context": "IFL 2026/27 match 16, Bangalore Football Stadium 18:30 IST (13:00 UTC) - matches board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7779,
+    "why": "BU home games had 4 and 7 goals; Sreenidi games 7/8 with 2+ goals."
+   }
+  ],
+  "avoid": [
+   "Under 2.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://ianslive.in/ifl-202627-sreenidi-deccan-hope-to-bounce-back-against-a-confident-bengaluru-united--20261117205558",
+   "https://telanganatoday.com/sreenidi-deccan-fc-face-fc-bengaluru-united-in-crucial-ifl-clash"
+  ]
+ },
+ {
+  "eid": "sr:match:76493460",
+  "fx": "Igea Virtus Barcellona v ASD Polisportiva Modica Calcio",
+  "home_form": "Igea Virtus: 2-2 Siracusa, 2-1 at Palermo AC, 2-4 Sambiase, 1-0 at Gelbison.",
+  "away_form": "Modica: 0-4 at Vibonese, 5-1 Licata, 0-1 Gela.",
+  "trends": {
+   "game_totals": "Igea last 8 avg ~4.3 goals",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "None.",
+  "absences": "None.",
+  "context": "Coppa Italia Serie D R16.",
+  "veto": true,
+  "veto_reason": "Kick-off moved by LND from 14:30 to 18:00 local (17:00 UTC); board shows 13:30 UTC -> time conflict veto.",
+  "picks": [],
+  "avoid": [
+   "All"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://diariodelweb.it/sport/calcio/coppa-italia/coppa-italia-serie-d-ottavi-calendario/",
+   "https://www.notiziariocalcio.com/coppa-italia-di-serie-d/coppa-italia-serie-d-definito-quadro-ottavi-18-novembre-sfida-piacenza-lucchese-381094"
+  ]
+ },
+ {
+  "eid": "sr:match:76493452",
+  "fx": "Piacenza Calcio 1919 v Lucchese Calcio",
+  "home_form": "Piacenza unbeaten 8 (6W): 3-1 at Rovato, 2-0 at Brusaporto, 3-2, 2-0, 1-1, 3-1, 0-0, 3-1.",
+  "away_form": "Lucchese: 1-1, 1-0, 5-4, 2-3, 1-1, 0-2, 2-2, 6-4 - leaky (conceded in 7/8).",
+  "trends": {
+   "game_totals": "Lucchese totals 2,1,9,5,2,2,4,10",
+   "team_totals": "Piacenza scored 2+ in 6/8",
+   "first_half": "n/a",
+   "handicap": "Piacenza wins mostly by 2",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "No news found.",
+  "context": "Coppa Italia Serie D R16 single tie, 14:30 local confirmed; knockout -> DNB only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.7234,
+    "why": "Piacenza unbeaten 8 with 6 wins; Lucchese conceded in 7 of 8; knockout rule -> DNB."
+   }
+  ],
+  "avoid": [
+   "Piacenza 1X2 (knockout)",
+   "Unders"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://diariodelweb.it/sport/calcio/coppa-italia/coppa-italia-serie-d-ottavi-calendario/",
+   "https://www.notiziariocalcio.com/coppa-italia-di-serie-d/coppa-italia-serie-d-definito-quadro-ottavi-18-novembre-sfida-piacenza-lucchese-381094"
+  ]
+ },
+ {
+  "eid": "sr:match:76493446",
+  "fx": "Villa Dalme Valle Brembana v Valenzana Mado",
+  "home_form": "Villa Valle: 0-0, 0-2 at Caldiero, 5-2, 1-0, 0-0, 1-0, 3-0, 5-4.",
+  "away_form": "Valenzana: 1-0 at Saluzzo, 1-1, 1-2, 3-0, 0-1, 1-4, 1-1, 3-2.",
+  "trends": {
+   "game_totals": "mixed",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "None.",
+  "absences": "None.",
+  "context": "Coppa Italia Serie D R16, 14:30 local confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "All - no mechanism"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://diariodelweb.it/sport/calcio/coppa-italia/coppa-italia-serie-d-ottavi-calendario/",
+   "https://www.gazzettaregionale.it/serie-d/2026/10/29/news/coppa-italia-serie-d-delineato-il-quadro-degli-ottavi-di-finale-186162/"
+  ]
+ },
+ {
+  "eid": "sr:match:76493458",
+  "fx": "Virtus Francavilla Calcio v Turris Calcio",
+  "home_form": "Virtus Francavilla: 1-2 Real Normanna, 1-0 at FC Francavilla, 2-1 at Turris, 1-0 at Andria, 2-0, 1-2, 2-0, 3-0; home 3 clean-sheet wins before last.",
+  "away_form": "Turris: 1-0, 1-3 at Nardo, 1-2 v Virtus Francavilla, 6-5, 1-1, 2-1, 3-0, 5-3.",
+  "trends": {
+   "game_totals": "Turris totals volatile",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Turris 1-2 Virtus Francavilla (Serie D, Nov 1 2026).",
+  "absences": "No news found.",
+  "context": "Coppa Italia Serie D R16, 14:30 local confirmed; knockout -> DNB only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.736,
+    "why": "Beat Turris away 2 weeks ago; 4 home wins in last 5 home games; knockout rule -> DNB."
+   }
+  ],
+  "avoid": [
+   "1X2 (knockout)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://diariodelweb.it/sport/calcio/coppa-italia/coppa-italia-serie-d-ottavi-calendario/",
+   "https://www.notiziariocalcio.com/coppa-italia-di-serie-d/coppa-italia-serie-d-definito-quadro-ottavi-18-novembre-sfida-piacenza-lucchese-381094"
+  ]
+ },
+ {
+  "eid": "sr:match:76482690",
+  "fx": "AL Adalh FC v Al-Orobah",
+  "home_form": "Al-Adalah: 2-2 at Jeddah, 0-1 AL Jeel, 3-1 at Okhdood, 1-1 AL Anwar, 1-0 Jandal; home W1 D2 L1 last 4.",
+  "away_form": "Al-Orobah: 0-1 AL Anwar, 1-3 at AL Ula, 1-1, 0-0, 1-0, 2-2, 1-1, 0-0 - 1 win in 8.",
+  "trends": {
+   "game_totals": "Orobah totals 1,4,2,0,1,4,2,0; low-scoring",
+   "team_totals": "Orobah scored \u22641 in 6/8",
+   "first_half": "0-0 HT common",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "No news found.",
+  "context": "Saudi First Division (Gulf, thin league). No web preview found; evidence is Sportradar form only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.29,
+    "p": 0.7212,
+    "why": "Orobah 1 win in 8 and scored \u22641 in 6/8; Adalah lost 1 of last 4 at home."
+   }
+  ],
+  "avoid": [
+   "Over 1.5 (Gulf thin league)",
+   "Unders below p 0.82"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/76482690",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/stats_team_lastx (Al-Adalah, Al-Orobah)"
+  ]
+ },
+ {
+  "eid": "sr:match:76738340",
+  "fx": "El Gouna FC v Al Ittihad Alexandria Club",
+  "home_form": "El Gouna: 4-1 Ittihad El Shorta, 1-1 at Asyut, 0-2 Smouha, 1-2 at Ittihad, 0-2, 1-2, 0-1, 0-1 - 1 win in 8.",
+  "away_form": "Al Ittihad: 2-1 at Ghazl, 0-0, 1-2, 2-1 v El Gouna, 0-1, 2-0 at Masry, 1-0, 2-0.",
+  "trends": {
+   "game_totals": "Gouna 6/8 \u22643 goals; Ittihad 7/8 \u22643",
+   "team_totals": "Ittihad conceded \u22641 in 6/8",
+   "first_half": "Ittihad 0-0 HT in 5/8",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Al Ittihad 2-1 El Gouna (Oct 13 2026, league). All-time 21: Ittihad 9, Gouna 6, D6.",
+  "absences": "No news found.",
+  "context": "Egypt Cup R16 single tie at Khaled Bichara Stadium; knockout -> DNB only; Egypt low-scoring. One aggregator (YSScores) lists Jan 10 2027 but board, Sportradar and OneFootball agree Nov 18.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.43,
+    "p": 0.6598,
+    "why": "Ittihad beat Gouna 5 weeks ago and lost 1 of last 6; Gouna 1 win in 8; knockout rule -> DNB."
+   }
+  ],
+  "avoid": [
+   "Over 1.5 (Egypt thin)",
+   "Away 1X2"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://onefootball.com/en/match/2739538",
+   "https://www.xscores.com/soccer/match/egypt/al-ittihad-alexandria-vs-el-gouna-fc/2026-2027/2931984"
+  ]
+ },
+ {
+  "eid": "sr:match:75944338",
+  "fx": "Ranchers Bees v Doma United FC",
+  "home_form": "Ranchers Bees: 0-1 at Kano Pillars, 1-0 Enyimba, 1-1, 1-3, 0-0, 1-2, 0-0, 0-1; unbeaten at home.",
+  "away_form": "Doma United: 0-0, 2-2, 2-2, 1-1, 0-2, 1-0, 1-2, 2-2 - three straight draws.",
+  "trends": {
+   "game_totals": "Ranchers games 1,1,2,4,0,3,0,1 - low",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "No news found.",
+  "context": "Rescheduled NPFL MD10 (postponed from Oct 24).",
+  "veto": true,
+  "veto_reason": "Venue conflict: NPFL statement says Sani Abacha Stadium, Kano; other reports say Minna. R3 venue-conflict veto.",
+  "picks": [],
+  "avoid": [
+   "All"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballinnigeria.com.ng/npfl/ranchers-bees-vs-doma-united-rescheduled-to-november-18/",
+   "https://soccernet.ng/2026/11/ranchers-bees-vs-doma-united-preview-team-news-h2h.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76592224",
+  "fx": "Newington FC v Harland And Wolff Welders",
+  "home_form": "Newington (3rd, 29 pts): 1-1 Warrenpoint, 6-0 at Armagh, 2-0 at Newry, 1-3 Ballymena, 3-2, 0-2, 0-7, 4-0.",
+  "away_form": "H&W Welders (9th, 19 pts): 0-2 at Rathfriland, 3-0 Ards, 1-2, 3-1 at Armagh, 0-4 at Glenavon, 0-0, 1-3, 2-3.",
+  "trends": {
+   "game_totals": "Newington totals 2,6,2,4,5,2,7,4 (6/8 O2.5); H&W 2,3,3,4,4,0,4,5 (6/8 O2.5)",
+   "team_totals": "Newington scored in 6/8",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "None found.",
+  "absences": "No news found.",
+  "context": "NIFL Championship at Solitude, 19:45 local confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.31,
+    "p": 0.7178,
+    "why": "Both sides 6/8 Over 2.5; Championship high-scoring."
+   }
+  ],
+  "avoid": [
+   "Unders"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nifootballleague.com/championship/2026-2027/fixtures/2026-11-18-newington-v-hw-welders",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_NIFL_Championship"
+  ]
+ },
+ {
+  "eid": "sr:match:76414512",
+  "fx": "Alianza Atletico v FBC Melgar",
+  "home_form": "Alianza Atletico: L2 (0-2 at Cristal, 0-2 at Cajamarca); home 1-0, 3-2, 1-4, 3-0 - tired after Copa de la Liga final.",
+  "away_form": "Melgar: 2-1, 0-2 at Huancayo, 1-1, 2-1 at UTC, 4-2, 2-2 at Universitario.",
+  "trends": {
+   "game_totals": "Alianza home 1,5,5,3; Melgar away 2,3,4,1",
+   "team_totals": "Alianza scored 1+ in 3/4 home",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Melgar 3-1 Alianza Atletico (May 31 2026).",
+  "absences": "No named absences found.",
+  "context": "Last round of the Clausura. Alianza need a win to climb to 8th in the aggregate table; Melgar have nothing to play for (Libertadores already secured).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.27,
+    "p": 0.7515,
+    "why": "Motivation asymmetry: Alianza must win for 8th, Melgar have nothing to play for; at Sullana."
+   },
+   {
+    "mid": "900300",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.33,
+    "p": 0.7145,
+    "why": "Home team chasing a win v an unmotivated side -> attacking volume; E2 home-corners class."
+   }
+  ],
+  "avoid": [
+   "Melgar result sides"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://libero.pe/futbol-peruano/liga-1/2026/11/17/melgar-le-conviene-perder-en-sullana-como-resultado-favoreceria-universitario-173791",
+   "https://rpp.pe/futbol/descentralizado/melgar-vs-alianza-atletico-en-vivo-horario-y-canales-de-tv-para-ver-fecha-17-torneo-clausura-2026-via-l1max-partidos-de-hoy-noticia-1718220"
+  ]
+ }
+]

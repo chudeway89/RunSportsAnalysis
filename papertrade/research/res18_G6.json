@@ -1,0 +1,412 @@
+[
+ {
+  "eid": "sr:match:76482550",
+  "fx": "Club Portugalete v Real Union de Irun",
+  "home_form": "Portugalete (2RFEF): W 4-1 Luanco, W 3-0 at Ourense, D 3-3 Arosa, D 2-2 Basconia, D 0-0 Eibar B.",
+  "away_form": "Real Union (1RFEF): W 1-0 Cultural, L 0-2 Barakaldo, L 0-3 Aviles, W 4-1 Lugo, D 2-2 Extremadura. Away: 1.33 scored / 1.83 conceded.",
+  "trends": "Totals: Irun averages 3.25; Portugalete's home games 2.4. No clear handicap pattern.",
+  "h2h": "None.",
+  "absences": "None found.",
+  "context": "Copa del Rey R1, a one-off knockout. It was rescheduled from Oct 28 after the rail accident and settles on 90 minutes. Rule: result-sides only as To Qualify/DNB.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Irun To Qualify 1.71 (poor away form)",
+   "integer O/U"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/17/miercoles-18-de-noviembre-de-2026/",
+   "https://www.eurosport.es/futbol/copa-del-rey/2026-2027/resultados-primera-ronda-eliminatoria-marcadores-equipos-clasificados_sto23349789/story.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:76661768",
+  "fx": "Utebo FC v CE Sabadell FC",
+  "home_form": "Utebo (2RFEF) is a tight home side: W 2-0 Osasuna B, D 1-1 Logrones B, D 0-0 Arnedo, L 0-1 Reus, D 1-1 SD Logrones. Home: 0.8 scored / 0.6 conceded; it has lost 1 home game, by 0-1.",
+  "away_form": "Sabadell (Segunda): L 0-2 at Eldense, D 0-0 Real Sociedad B, L 1-2 at Albacete, D 1-1 Tenerife, L 0-1 at Burgos. Away: 0.67 scored per game; 1 win in its last 7.",
+  "trends": "Handicap: Sabadell has scored 2+ in only 1 of its last 6 away games, and Utebo has conceded more than 1 at home in 0 of 5. Totals 2.08-2.17.",
+  "h2h": "None.",
+  "absences": "None found. Sabadell rotation is likely after its league game on Sunday.",
+  "context": "Copa del Rey R1, a one-off knockout. It was rescheduled from Oct 28 after the rail accident and settles on 90 minutes. Rule: result-sides only as To Qualify/DNB. Played at Santa Ana.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.23,
+    "p": 0.784948,
+    "why": "Utebo has conceded 0.6 per game at home, with no home loss by more than 1. Sabadell scores 0.67 per game away and is winless in 4. Utebo loses this leg only to a 3-goal Sabadell win (a 2-goal win is void)."
+   }
+  ],
+  "avoid": [
+   "Sabadell -1 / win to nil",
+   "Over 2.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/17/miercoles-18-de-noviembre-de-2026/",
+   "https://www.eurosport.es/futbol/copa-del-rey/2026-2027/resultados-primera-ronda-eliminatoria-marcadores-equipos-clasificados_sto23349789/story.shtml",
+   "https://www.sportaragon.com/futbol-aragon/copa-rey-horarios-donde-ver-partidos-semana/20261109094345162700.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76489976",
+  "fx": "CD Alcoyano v Mallorca",
+  "home_form": "Alcoyano (2RFEF): W 4-1 Intercity, L 1-2 Elche Ilicitano, W 4-3 at Castellonense, D 1-1 Murcia Imperial. Home: 1.83 scored / 0.83 conceded.",
+  "away_form": "Mallorca (Segunda in 2026-27): D 3-3 Cordoba, W 2-1 Cadiz, D 1-1 at Leganes, D 1-1 at Eibar. Away: 0.5 scored per game (1-1, 1-1, 0-0, 1-0, 0-0, 0-2).",
+  "trends": "Totals: Mallorca's away games total 1.0-2.0. No handicap edge: Mallorca has won 1 away game in 6.",
+  "h2h": "Alcoyano knocked Mallorca out 4-1 in 2005.",
+  "absences": "Mallorca: Alberto Moreno and Arnau Puigmal absent. Luis Garcia confirmed rotation ('modo Copa').",
+  "context": "Copa del Rey R1, a one-off knockout. It was rescheduled from Oct 28 after the rail accident and settles on 90 minutes. Rule: result-sides only as To Qualify/DNB. El Collao has a giant-killing history.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Mallorca To Qualify / -handicap: rotation, poor away scoring",
+   "Overs"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.mallorcadiario.com/futbol-previa-alcoyano-mallorca-copa-del-rey-2026",
+   "https://actualidadvalencia.com/alcoyano-mallorca-copa-rey-collao-veinte-anos/"
+  ]
+ },
+ {
+  "eid": "sr:match:76546760",
+  "fx": "CD Badajoz v Tenerife CD",
+  "home_form": "Badajoz (2RFEF) has lost 1 of its last 12: W 2-1 Don Benito, D 1-1 Lucena, D 1-1 Linares, D 0-0, W 1-0, W 1-0. Home: 1.17 scored / 0.67 conceded; every home game decided by 1 goal or fewer.",
+  "away_form": "Tenerife (Segunda): W 2-0 Ceuta, D 2-2 Andorra, D 1-1 at Sabadell, D 1-1 at Celta B, D 1-1 Girona. Away: 1.0 scored / 2.2 conceded; no away win in 5.",
+  "trends": "Handicap: Badajoz has lost by 2+ in 0 of its last 12. Tenerife has won by 2+ away in 0 of 5. Totals are low.",
+  "h2h": "None.",
+  "absences": "None found.",
+  "context": "Copa del Rey R1, a one-off knockout. It was rescheduled from Oct 28 after the rail accident and settles on 90 minutes. Rule: result-sides only as To Qualify/DNB.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.37,
+    "p": 0.700544,
+    "why": "Badajoz has 1 loss (0-1) in 12, and all its home games were decided by 1 goal or fewer. Tenerife has no away win in 5. The favourite's p is .547, below the .55 gate, so +1.5 is allowed."
+   }
+  ],
+  "avoid": [
+   "Tenerife To Qualify 1.39 / DNB",
+   "Over 2.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/17/miercoles-18-de-noviembre-de-2026/",
+   "https://www.eurosport.es/futbol/copa-del-rey/2026-2027/resultados-primera-ronda-eliminatoria-marcadores-equipos-clasificados_sto23349789/story.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:76516978",
+  "fx": "Club Deportiva Minera v FC Cartagena",
+  "home_form": "Minera (2RFEF) is unbeaten at home in 6: W 2-0 Poblense, W 2-0 Yeclano, W 3-2 Castellonense, W 2-0 La Nucia, D 2-2 Orihuela, W 1-0 Pena Deportiva. Home: 2.0 scored / 0.67 conceded.",
+  "away_form": "Cartagena (1RFEF) away: W 1-0 Ibiza, L 0-2 RM Castilla, L 1-4 Villarreal B, D 1-1 Antequera, L 0-1 Zaragoza B, D 1-1 Majadahonda. 1.0 scored per game.",
+  "trends": "Handicap: Minera has lost 0 of 6 at home. Cartagena has won by 2+ in 1 of its last 7 away games. First half: Minera's home games are 0-0 at HT 3 of 6 times.",
+  "h2h": "Aug 2023: Cartagena 4-3 Minera.",
+  "absences": "None found.",
+  "context": "Copa del Rey R1, a one-off knockout. It was rescheduled from Oct 28 after the rail accident and settles on 90 minutes. Rule: result-sides only as To Qualify/DNB. A Murcia-region proximity tie.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.2,
+    "p": 0.804748,
+    "why": "Minera is unbeaten in 6 home games (5W) and concedes 0.67 there. Cartagena has won 1 of its last 7 away games by 2+. A 1-goal Cartagena win is void."
+   }
+  ],
+  "avoid": [
+   "Cartagena To Qualify 1.84",
+   "Overs (Minera home low concession)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/17/miercoles-18-de-noviembre-de-2026/",
+   "https://www.eurosport.es/futbol/copa-del-rey/2026-2027/resultados-primera-ronda-eliminatoria-marcadores-equipos-clasificados_sto23349789/story.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:76516980",
+  "fx": "Reus FC Reddis v Barakaldo CF",
+  "home_form": "Reus (2RFEF): W 1-0 at Calamocha, W 1-0 Logrones B, L 1-2 at Terrassa, D 1-1 at Pena Sport, D 1-1 Espanyol B. Home: 0.8 scored / 1.2 conceded (with a 1-4 loss to Manresa).",
+  "away_form": "Barakaldo (1RFEF) away: D 2-2 at Fabril, D 0-0 at Ponferradina, L 0-1 at Ourense, L 0-1 at Ferrol, L 1-4 at Coria. 0.6 scored per game; no away win in 5.",
+  "trends": "Handicap: Barakaldo has won by 2+ away in 0 of 5. Totals average 2.0.",
+  "h2h": "None.",
+  "absences": "None found.",
+  "context": "Copa del Rey R1, a one-off knockout. It was rescheduled from Oct 28 after the rail accident and settles on 90 minutes. Rule: result-sides only as To Qualify/DNB.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.26,
+    "p": 0.7641544958,
+    "why": "Barakaldo has no away win in 5 and scores 0.6 per game there. Reus has 2 wins in its last 2. The favourite's p is .477."
+   }
+  ],
+  "avoid": [
+   "Barakaldo To Qualify 1.51",
+   "Over 2.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/17/miercoles-18-de-noviembre-de-2026/",
+   "https://www.eurosport.es/futbol/copa-del-rey/2026-2027/resultados-primera-ronda-eliminatoria-marcadores-equipos-clasificados_sto23349789/story.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:76591730",
+  "fx": "Bergantinos FC v Sestao River Club",
+  "home_form": "Bergantinos (5th): L 3-4 at Llanera, D 1-1 Ourense, L 2-3 at Eibar B, W 3-0 Oviedo B, D 2-2 at Arosa. Home: 2.67 scored / 0.67 conceded.",
+  "away_form": "Sestao is the 2RFEF Group I leader, with 10W in its last 12 (W 2-0 Alaves B, W 2-0 at Coruxo, W 1-0 at Luanco). Away: 1.25 scored / 0.75 conceded.",
+  "trends": "Totals: Bergantinos games are high (3.67 average); Sestao's are low (2.5 average, 4 BTTS in 12). The two profiles conflict.",
+  "h2h": "None.",
+  "absences": "None found.",
+  "context": "A midweek league game (R11). The board has only a few markets.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Bergantinos DNB 1.71 (v the leader)",
+   "totals (profiles conflict)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/football/match/bergantinos-fc-sestao-river/oMjsyRbc",
+   "https://www.forebet.com/en/football/matches/berganti%C3%B1os-fc-sestao-river-2535883"
+  ]
+ },
+ {
+  "eid": "sr:match:76474218",
+  "fx": "Salamanca CF UDS v Atletico Albacete",
+  "home_form": "Salamanca: L 0-5 Celta B (home), W 3-1 at Avila, W 1-0 Segoviana, L 1-2 at Talavera, D 1-1 Navalcarnero. Home: 1.6 scored / 1.6 conceded.",
+  "away_form": "Atletico Albacete (Albacete reserve side) away: L 1-2 San Sebastian, D 2-2 Getafe B, L 0-4 Conquense, L 1-6 Valladolid Promesas. 0.67 scored / 2.5 conceded away.",
+  "trends": "Totals: both average 3.3-3.4; Salamanca has 8 of 12 over 2.5.",
+  "h2h": "None.",
+  "absences": "None found.",
+  "context": "Albacete's side is a RESERVE team, so this is an excluded context.",
+  "veto": true,
+  "veto_reason": "Atletico Albacete is a reserve side (excluded class).",
+  "picks": [],
+  "avoid": [
+   "all legs: reserve side; Salamanca also just lost 0-5 at home"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/team/sestao-river/24364"
+  ]
+ },
+ {
+  "eid": "sr:match:73961732",
+  "fx": "Mbarara FC v Lugazi Municipal FC",
+  "home_form": "Mbarara has W3 D2 L7 in its last 12. At home: L 1-3 KCCA, W 1-0 Vipers, W 2-1 Blacks Power, D 0-0, D 0-0.",
+  "away_form": "Lugazi has W2 D3 L7 and scored 5 in 12. Away: L 0-2 Vipers, L 1-2 KCCA, L 0-3 Maroons, W 1-0 Entebbe, L 1-3 NEC.",
+  "trends": "Totals: Lugazi averages 1.83 goals per game, and both sides have scored about 0.5 goals per game in their weak venue. Lugazi has a first-half goal in only 1 of its last 12. H2H totals were 0-1, 0-0, 1-0, 1-1. Handicap: no data. Corners: none.",
+  "h2h": "4 meetings, all with 2 goals or fewer, and Mbarara unbeaten in all 4.",
+  "absences": "None found.",
+  "context": "Both clubs are in trouble near the bottom. Kawowo lists the venue as Rwamwanja Stadium, Kamwenge, and calls the side 'Mbarara City'. That is not Mbarara's usual ground, so this is a venue/identity ambiguity.",
+  "veto": true,
+  "veto_reason": "Venue/identity ambiguity: Kawowo says 'Mbarara City' at Rwamwanja Stadium, Kamwenge, which is not Mbarara's usual home.",
+  "picks": [],
+  "avoid": [
+   "Over 2.5",
+   "Lugazi to score"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://kawowo.com/2026/11/17/unbeaten-bul-dare-champions-vipers-at-kitende/",
+   "https://www.aiscore.com/head-to-head/soccer-lugazi-municipal-fc-vs-vipers"
+  ]
+ },
+ {
+  "eid": "sr:match:73961736",
+  "fx": "Vipers SC v Bul FC",
+  "home_form": "Vipers are the champions: W 4-1 at Kigezi, W 2-0 Lugazi, L 0-1 URA, L 0-1 Mbarara, D 0-0 Police. Home: 1.17 scored / 0.5 conceded per game.",
+  "away_form": "BUL are unbeaten leaders: W 2-1 Villa, D 1-1 Entebbe, W 2-1 NEC, W 2-0 UPDF, D 0-0 Lugazi. 8W of 12.",
+  "trends": "Totals: Vipers home games are low-scoring (2.17 average across all games). BUL games run high (3.08, BTTS 9 of 12). H2H: 1-1, 3-1, 1-0, 1-1, 6-5.",
+  "h2h": "BUL leads recent H2H with 2 wins in 5.",
+  "absences": "None found.",
+  "context": "A top-of-table clash at Kitende. Vipers trail by 6 points with a game more played, so for them it is must-win. Big-club clash: no result-side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Vipers DNB/ML (unbeaten leaders BUL, big clash)",
+   "Under 3.5 p .79 (below the .82 Under gate)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://kawowo.com/2026/11/17/unbeaten-bul-dare-champions-vipers-at-kitende/",
+   "https://www.aiscore.com/head-to-head/soccer-bul-fc-vs-vipers"
+  ]
+ },
+ {
+  "eid": "sr:match:76775946",
+  "fx": "CA Atenas de San Carlos v CA Fenix Montevideo",
+  "home_form": "Atenas: D 1-1 at Fenix (1st leg), W 1-0 Oriental, L 0-1 at Colon, W 4-0 Fenix (home). Home: 1.5 scored / 0.5 conceded.",
+  "away_form": "Fenix: D 1-1 v Atenas, L 0-1 at La Luz, D 1-1 Cerrito, L 0-4 at Atenas, L 0-1 Paysandu. 2 wins in 12.",
+  "trends": "Totals: Atenas home games total 2.0. H2H: 1-1, 4-0, 1-0, 1-4, 2-1, 1-0.",
+  "h2h": "Atenas won 4-0 at home on Oct 25.",
+  "absences": "None found.",
+  "context": "Second leg of the 3rd-promotion playoff semi, aggregate 1-1, at San Carlos 16:30 local (19:30 UTC). A knockout, so result only as DNB. Atenas DNB 1.64 p .557 is mid-band.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Fenix +0.5",
+   "Over 2.5"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://cadenadelmar.uy/deporte/segunda-division-play-off-atenas-empato-1-1-ante-fenix-en-el-partido-de-ida-26416",
+   "https://ladiaria.com.uy/deporte/articulo/2026/11/la-b-se-definen-los-finalistas-por-el-tercer-ascenso/"
+  ]
+ },
+ {
+  "eid": "sr:match:76775948",
+  "fx": "Colon FC v Club Oriental de Football",
+  "home_form": "Colon: W 2-1 v Oriental (1st leg), W 1-0 at Cerrito, W 1-0 Atenas, L 2-3 Paysandu, W 3-0 Huracan.",
+  "away_form": "Oriental: L 1-2 v Colon, L 0-1 at Atenas, D 1-1 Paysandu, L 2-3 at Huracan, D 1-1 Uruguay Montevideo.",
+  "trends": "H2H is very low-scoring: 2-1, 0-0, 1-1, 0-0, 0-0, 1-0.",
+  "h2h": "Colon leads 2-1 on aggregate.",
+  "absences": "None found.",
+  "context": "Second leg at Parque Palermo, the same ground as the 1st leg. Sources conflict on the tie rules: La Diaria's '2-goal' rule versus Caras y Caretas saying there is no advantage.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "result-sides: knockout with unclear rules; Oriental chasing the tie"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://ladiaria.com.uy/deporte/articulo/2026/11/la-b-comenzaron-los-playoffs-con-triunfo-de-colon-sobre-oriental-de-la-paz/",
+   "https://www.carasycaretas.com.uy/deportes/segunda-division-colon-pego-primero-fenix-y-atenas-no-se-sacaron-diferencias-n101124"
+  ]
+ },
+ {
+  "eid": "sr:match:76114802",
+  "fx": "Carabobo FC v Zamora FC",
+  "home_form": "Carabobo is unbeaten in 12 (W8 D4): D 0-0 at La Guaira, W 2-0 at Metropolitanos, D 1-1 Metropolitanos, W 3-1 La Guaira, W 5-2 Mineros. Home: 2.17 scored / 1.0 conceded.",
+  "away_form": "Zamora has W3 D3 L6 and no game since Oct 21: W 2-0 at Portuguesa, L 1-2 Anzoategui, W 3-1 at El Vigia, L 1-4 at Caracas.",
+  "trends": "Totals: H2H was 0-0, 0-0, 1-0. Carabobo's home games average 3.2 goals.",
+  "h2h": "H2H: Carabobo unbeaten in 3, but all low-scoring.",
+  "absences": "None found.",
+  "context": "Copa Venezuela QUARTER-FINAL, a single match settled on 90 minutes. Schedule made official Nov 16 and matches the board. At Misael Delgado, Valencia, 16:30 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.80157,
+    "why": "Carabobo is unbeaten in 12 and won 4 of 6 at home. Zamora has W3 in 12 and has been inactive since Oct 21. DNB covers the knockout-draw risk, and a draw is void."
+   }
+  ],
+  "avoid": [
+   "Over 2.5 (H2H 0-0, 0-0, 1-0)",
+   "Carabobo -1"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.ciudadvalencia.com.ve/cuartos-final-copa/",
+   "https://mippci.gob.ve/cuartos-de-final-copa-venezuela-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76114804",
+  "fx": "Deportivo Tachira v Academia Puerto Cabello",
+  "home_form": "Tachira has W9 D2 L1: W 2-0 at Monagas, W 3-2 Puerto Cabello, W 1-0 at Puerto Cabello, W 2-0 Monagas, W 5-3 Monagas. Home: 3.0 scored / 1.33 conceded.",
+  "away_form": "Puerto Cabello: L 0-1 Monagas, W 2-1 at Caracas, L 2-3 at Tachira, L 0-1 Tachira, L 0-1 Caracas.",
+  "trends": "Totals: Tachira's last 6 home games all had 2+ goals (3-2, 2-0, 5-3, 4-1, 1-1, 3-1); 11 of its last 12 went over 1.5.",
+  "h2h": "Tachira is unbeaten in 6 v Puerto Cabello (4W), including 3-2 and 1-0 this month.",
+  "absences": "None found.",
+  "context": "Copa Venezuela QUARTER-FINAL, a single match settled on 90 minutes. Schedule made official Nov 16 and matches the board. At Pueblo Nuevo, 18:00 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.734399,
+    "why": "Tachira has 9W in 12, averages 3.0 goals at home, and beat Puerto Cabello twice this month. A draw is void."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.27,
+    "p": 0.742768,
+    "why": "All 6 of Tachira's recent home games had 2+ goals (average 4.3), and 11 of its last 12 went over 1.5."
+   }
+  ],
+  "avoid": [
+   "Under 2.5",
+   "Puerto Cabello +0.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.ciudadvalencia.com.ve/cuartos-final-copa/",
+   "https://mippci.gob.ve/cuartos-de-final-copa-venezuela-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76114800",
+  "fx": "UCV FC v Caracas FC",
+  "home_form": "UCV: W 5-3 Club Atletico, D 0-0 Portuguesa, L 1-4 at Tachira, D 1-1 Carabobo. Home: 1.57 scored / 0.86 conceded. No game since Oct 22.",
+  "away_form": "Caracas: L 1-2 Puerto Cabello, W 2-0 at Monagas, L 2-3 Monagas, W 1-0 at Puerto Cabello, L 1-2 Tachira. Caracas games average 3.33 goals.",
+  "trends": "H2H: 0-1, 2-1 (UCV away), 5-1 (UCV away), 1-3.",
+  "h2h": "Split.",
+  "absences": "None found.",
+  "context": "Copa Venezuela QUARTER-FINAL, a single match settled on 90 minutes. Schedule made official Nov 16 and matches the board. A capital derby at the Olimpico UCV: no result-sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "result-sides (derby, knockout)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ciudadvalencia.com.ve/cuartos-final-copa/",
+   "https://mippci.gob.ve/cuartos-de-final-copa-venezuela-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74201362",
+  "fx": "Roan United v Chirundu United",
+  "home_form": "Roan was promoted in May 2026: D 1-1 Warriors, D 1-1 Mutondo, L 0-4 Zesco (home), L 0-1 Green Eagles, D 0-0 Buffaloes (home). It is winless in 2 home games.",
+  "away_form": "Chirundu: L 0-2 Green Eagles, D 0-0 Red Arrows, W 1-0 Mufulira, W 3-0 Mutondo, D 0-0 Nkwazi. Away it scored 1 in 4 games.",
+  "trends": "Totals: Chirundu averages 1.33 per game with no BTTS in 6. Thin sample of 6 games each, and no first-half data.",
+  "h2h": "None.",
+  "absences": "None found.",
+  "context": "FootyStats gives 17 Nov; Sofascore, GhanaSoccernet and BetExplorer give 18 Nov 13:00 UTC. A minor date conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "anything: thin data and a minor date conflict"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://ghanasoccernet.com/roan-united-vs-chirundu-utd-hosts-look-to-halt-inconsistent-run-in-league-meeting",
+   "https://footystats.org/zambia/roan-united-vs-chirundu-united-h2h-stats"
+  ]
+ }
+]

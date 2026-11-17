@@ -1,0 +1,615 @@
+[
+ {
+  "eid": "sr:match:73734716",
+  "fx": "BK Uralmash Yekaterinburg v BC Lokomotiv Kuban",
+  "home_form": "Uralmash: W 88-81 at Enisey, W 101-85 v MBA, W 88-73 at FMP, L 68-69 v UNICS, W 88-79 v Vladivostok, W 94-75 at Samara, L 84-95 at UNICS, L 71-86 v Parma",
+  "away_form": "Lokomotiv: W 106-89 v UNICS, W 106-84 v Parma, W 107-80 v UNICS, W 92-62 at Samara, W 73-72 v Zenit, W 96-74 v Avtodor, L 84-87 at CSKA, W 90-76 at FMP",
+  "trends": {
+   "game_totals": "Loko games 145-195",
+   "team_totals": "Loko scoring 84-107",
+   "first_half": "n/a",
+   "handicap": "Loko big margins at home",
+   "corners": "no data"
+  },
+  "h2h": "2025-26: Loko won 87-67 in Yekaterinburg; Uralmash won 86-85 in Krasnodar",
+  "absences": "none found",
+  "context": "VTB. Eurobasket Nov 16 round report says Uralmash next travels to Lokomotiv in Krasnodar, while the board and Proballers list Uralmash at home; Sofascore lists 10:00 UTC vs board 14:30 UTC.",
+  "veto": true,
+  "veto_reason": "Venue conflict (Eurobasket: at Krasnodar; board: Uralmash home) plus kickoff-time conflict (10:00 vs 14:30 UTC)",
+  "picks": [],
+  "avoid": [
+   "all markets"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eurobasket.com/VTB-United-League/news/1041932/VTB-United-League-Day-8-Regular-Season-Uralmash-beats-Enisey",
+   "https://www.sofascore.com/basketball/match/uralmash-yekaterinburg-pbc-lokomotiv-kuban/yYmsKgZb",
+   "https://www.proballers.com/basketball/league/272/vtb-united-league/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:73734720",
+  "fx": "BC Uniks Kazan v Enisey Krasnoyarsk",
+  "home_form": "UNICS: L 89-106 at Loko, W 84-70 at Parma, W 79-62 at Avtodor, L 80-107 at Loko, W 69-68 at Uralmash, W 83-56 v MBA, W 95-84 v Uralmash, W 117-62 at Samara",
+  "away_form": "Enisey: L 81-88 v Uralmash, L 97-111 v Vladivostok, L 99-106 v MBA, L 86-94 at Zenit, L 59-85 v CSKA, W 91-70 v Samara, L 72-74 v Avtodor, L 66-81 at Loko",
+  "trends": {
+   "game_totals": "UNICS games 137-195; Enisey 144-208",
+   "team_totals": "UNICS allowed 56-70 in 4 of 8; Enisey scored 59-99 (volatile)",
+   "first_half": "n/a",
+   "handicap": "UNICS home wins +27 (MBA), +11 (Uralmash)",
+   "corners": "no data"
+  },
+  "h2h": "none found this season",
+  "absences": "none found",
+  "context": "VTB; Enisey at/near bottom (1 win in last 8). Fixture consistent across Proballers. Line -15.5 already prices the gap; Enisey scoring too volatile for a team-total Under.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Enisey Under team total (Enisey scored 81-99 in 4 of last 8)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.proballers.com/basketball/league/272/vtb-united-league/schedule",
+   "https://basketball.realgm.com/international/league/35/VTB-United-League"
+  ]
+ },
+ {
+  "eid": "sr:match:74765634",
+  "fx": "BC Jonava v BBC Lausanne",
+  "home_form": "Jonava: L 79-96 at Rytas, L 70-91 v Gargzdai, L 87-91 v Rytas, W 94-82 v Utena, W 80-67 at Kavkasia, L 63-86 at Zalgiris, L 83-84 v Klaipeda, W 71-65 at Panevezys",
+  "away_form": "Lausanne: W 89-74 v Neuchatel, L 69-79 at Tindastoll, L 75-92 at Fribourg, W 91-73 at Lugano, W 85-75 v Nyon, L 67-88 v MBC, W 85-69 at Starwings, L 88-97 at Kavkasia",
+  "trends": {
+   "game_totals": "Jonava 136-178; Lausanne 148-185",
+   "team_totals": "Jonava scoring 63-94",
+   "first_half": "n/a",
+   "handicap": "Jonava lost 4 of last 5 home games; -15.5 line looks generous to Jonava",
+   "corners": "no data"
+  },
+  "h2h": "none",
+  "absences": "none found",
+  "context": "ENBL group A; Lausanne lost at Kavkasia, Jonava beat Kavkasia by 13 away. Kickoff time differs across sites (09:50 listing vs 16:50 UTC) but date agrees.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Jonava -15.5 (Jonava weak home form)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.basketball-world.news/spieltag/european-north-basketball-league",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_European_North_Basketball_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73110584",
+  "fx": "BC AEK Athens v Falco KC Szombathely",
+  "home_form": "AEK: L 73-77 v Doxa, L 74-83 v PAO, W 72-66 at Falco, L 84-95 at Vikos, L 62-65 at PAOK, L 76-103 v Antwerp, W 84-79 v Mykonos, L 58-88 at Aris",
+  "away_form": "Falco: L 87-96 at Honved, W 87-76 v Alba, W 82-56 at Sordogok, L 66-72 v AEK, W 105-79 at Kormend, W 85-65 v KTE, W 85-72 v Vilpas, W 106-78 at Pecs",
+  "trends": {
+   "game_totals": "AEK games 127-179, mostly <165; H2H 138",
+   "team_totals": "AEK scoring 58-84 (poor)",
+   "first_half": "n/a",
+   "handicap": "AEK lost 6 of last 8",
+   "corners": "no data"
+  },
+  "h2h": "AEK won 72-66 at Falco (BCL, this season)",
+  "absences": "none found",
+  "context": "BCL. AEK in bad form (6 losses in 8) yet favourite at 0.55; Falco in good domestic form. Conflicting signals, no fixture-specific edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "AEK ML/handicap (form 2-6)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.proballers.com/basketball/league/422/basketball-champions-league/schedule",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73110568",
+  "fx": "Galatasaray SK v Legia Warszawa",
+  "home_form": "Galatasaray: L 81-82 at Korfez, W 90-81 v Esenler, L 72-79 at Legia, W 87-74 at Merkezefendi, W 102-68 v Bordo, W 83-77 v Strasbourg, L 80-83 at Besiktas, L 88-93 v Bursaspor",
+  "away_form": "Legia: L 78-85 v Szczecin, L 60-67 at Gdynia, W 79-72 v Galatasaray, L 77-92 v Dziki, W 84-74 v Ostrow, W 95-77 at Cibona, W 73-72 v Anwil, L 87-104 at Zielona Gora",
+  "trends": {
+   "game_totals": "Gala 151-181; Legia 127-191",
+   "team_totals": "Legia scored 72-95 in 7 of 8",
+   "first_half": "n/a",
+   "handicap": "Gala home wins: +9, +34, +6, and lost to Bursaspor at home; Legia won 95-77 at Cibona",
+   "corners": "no data"
+  },
+  "h2h": "Legia beat Galatasaray 79-72 in Warsaw (BCL, this season)",
+  "absences": "Legia: Szymon Tomczak out until early December (Vrankovic signed as cover)",
+  "context": "BCL. Galatasaray -10.5 / ML 0.83 looks steep against a side that beat them by 7 and won by 18 away at Cibona.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-15.5",
+    "desc": "Away (+15.5)",
+    "odds": 1.44,
+    "p": 0.658091,
+    "why": "Legia beat Gala 79-72 in the first meeting and won by 18 at Cibona; Gala home margins mostly <10 and lost at home to Bursaspor"
+   }
+  ],
+  "avoid": [
+   "Galatasaray -10.5 or more"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://legionisci.com/news/106893/zapowiedz-wyjazdowego-meczu-bcl-z-galatasaray",
+   "https://www.proballers.com/basketball/league/422/basketball-champions-league/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:73263176",
+  "fx": "Besiktas JK v Real Madrid",
+  "home_form": "Besiktas: W 76-71 v Bursaspor, W 95-91 at ASVEL, L 83-84 at Karsiyaka, L 67-83 v Zalgiris, W 93-76 v Cayirova, W 103-101 at Virtus, L 73-81 v Olympiacos, L 96-100 at Bahcesehir (1-4 in Istanbul in EL)",
+  "away_form": "Real Madrid: W 98-84 at Baskonia, W 105-84 v Zvezda, W 90-71 v Murcia, L 112-115 v PAO, W 90-79 v Burgos, W 95-76 v Fenerbahce, W 104-86 at Baskonia, W 122-86 at Lleida (7-1 since 0-3 start)",
+  "trends": {
+   "game_totals": "Madrid games 161-227; Besiktas 147-204",
+   "team_totals": "Madrid scoring 90+ in 7 of 8",
+   "first_half": "n/a",
+   "handicap": "Madrid road wins by 14-36 domestically",
+   "corners": "no data"
+  },
+  "h2h": "first ever competitive meeting",
+  "absences": "Besiktas: Jaylen Nowell out (nose), Sissoko out, Berk Ugurlu questionable. Madrid: Campazzo, Garuba, Deck, Jantunen reported out (Campazzo hamstring per EL report); Maledon back",
+  "context": "EuroLeague. Big-club clash; Madrid depleted but in form. Besiktas poor at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "any result side (big-club rule)",
+   "Madrid big handicap given absences"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-12-fantasy-el2627/",
+   "https://www.eurohoops.net/en/euroleague/2036247/injury-report-round-12-willis-gtd-melli-key-milutinov-out/",
+   "https://basketballsphere.com/en/euroleague-round-12-preview/"
+  ]
+ },
+ {
+  "eid": "sr:match:72902104",
+  "fx": "KK Cedevita Olimpija Ljubljana v CB San Pablo Burgos",
+  "home_form": "Cedevita: L 83-94 at Zvezda, W 88-71 at Rostock, W 85-71 at Cacak, W 73-71 v Derthona, W 96-87 v FMP, L 73-78 at Aris, L 81-95 v Buducnost, L 66-84 v Le Mans (0-5 EuroCup group start)",
+  "away_form": "Burgos: L 110-119 at Breogan, L 80-88 at Le Mans, L 93-100 v Valencia, L 59-86 v Rostock, L 79-90 at Madrid, L 71-79 v Rigas, W 99-81 at Manresa, L 79-89 at Derthona (1-4 group)",
+  "trends": {
+   "game_totals": "Cedevita 144-183; Burgos 145-229",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Cedevita lost both home EuroCup games by 14+",
+   "corners": "no data"
+  },
+  "h2h": "none",
+  "absences": "Cedevita: Noah Kirkwood out 8+ weeks (groin). Burgos: shorthanded per Cedevita coach Mitrovic; DJ Steward hamstring (Round 7 report)",
+  "context": "EuroCup R8 Group A, two struggling sides. Both have absences; Cedevita 0.72 favourite despite losing both home EuroCup games.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Cedevita ML/handicap (0-2 at home in EuroCup)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-round-8-ec2627/",
+   "https://euroballinjpg.substack.com/p/eurocup-round-8-injury-report"
+  ]
+ },
+ {
+  "eid": "sr:match:72902106",
+  "fx": "BC Aris Thessaloniki v Le Mans Sarthe Basket",
+  "home_form": "Aris: W 100-78 v Olympiacos, W 105-81 v Rigas, W 88-77 at Doxa, L 73-84 at Hapoel J, W 101-91 v PAO, W 78-73 v Cedevita, W 88-72 at Mykonos, W 110-79 at Rostock (5-0 EuroCup)",
+  "away_form": "Le Mans: W 109-93 v ASVEL, W 88-80 v Burgos, W 94-69 at Strasbourg, W 71-65 at Rigas, W 106-97 v Pau, L 83-90 v Hapoel J, W 97-72 at Boulazac, W 84-66 at Cedevita",
+  "trends": {
+   "game_totals": "Aris home games 151-192",
+   "team_totals": "Aris home scoring 78-105",
+   "first_half": "n/a",
+   "handicap": "Aris home margins +22, +24, +10, +5; Le Mans won 4 straight away by 6-25",
+   "corners": "no data"
+  },
+  "h2h": "none",
+  "absences": "Aris: Charalampopoulos, Bochoridis, Tanoulis questionable as of Oct 28 (stale)",
+  "context": "Le Mans in strong form (7 of 8 won) and a credible receiver; -13.5 line is heavy. No edge either way.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Aris -13.5 or more (Le Mans 4 straight road wins)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-round-8-ec2627/",
+   "https://www.eurohoops.net/en/eurocup/2027422/eurocup-roundup-aris-survives-napoli-remains-flawless/"
+  ]
+ },
+ {
+  "eid": "sr:match:72902474",
+  "fx": "Buducnost Podgorica v Slask Wroclaw",
+  "home_form": "Buducnost: L 100-104 at Igokea, W 68-66 at Bourg, W 76-73 at FMP, W 96-84 v Chemnitz, W 105-72 v Cacak, L 92-94 at Trento, W 95-81 at Cedevita, W 104-89 v Klaipeda",
+  "away_form": "Wroclaw: W 91-85 v Zielona Gora, L 82-90 at Klaipeda, W 81-76 v Torun, L 84-88 v Bourg, W 96-84 at Gliwice, L 74-90 v Tofas, W 100-77 v Bydgoszcz, L 67-95 at Chemnitz (1-4 group)",
+  "trends": {
+   "game_totals": "Buducnost home 177-193",
+   "team_totals": "Buducnost home scoring 96, 105, 104 in last 3",
+   "first_half": "n/a",
+   "handicap": "Buducnost home margins +12, +33, +15; Wroclaw lost by 8, 16, 28 in EuroCup road/loss games",
+   "corners": "no data"
+  },
+  "h2h": "none",
+  "absences": "none found",
+  "context": "EuroCup Group C: Buducnost 2-3 needs home wins; Wroclaw 1-4.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-8.5",
+    "desc": "Home (-8.5)",
+    "odds": 1.47,
+    "p": 0.6610698537,
+    "why": "Buducnost home margins +12/+33/+15 in last three home games; Wroclaw lost EuroCup games by 16 (Tofas) and 28 (at Chemnitz)"
+   }
+  ],
+  "avoid": [
+   "Wroclaw catch"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-round-8-ec2627/",
+   "https://www.eurohoops.net/en/eurocup/2027422/eurocup-roundup-aris-survives-napoli-remains-flawless/"
+  ]
+ },
+ {
+  "eid": "sr:match:72902480",
+  "fx": "Niners Chemnitz v Tofas SK Bursa",
+  "home_form": "Chemnitz: W 111-79 v Braunschweig, L 90-112 v Napoli, L 90-99 at Vechta, L 84-96 at Buducnost, W 94-78 v Ludwigsburg, W 96-77 v Bourg, L 88-98 at Wurzburg, W 95-67 v Wroclaw",
+  "away_form": "Tofas: W 75-61 v Trabzon, W 96-86 at Trento, W 93-87 at Anadolu Efes, W 94-79 v Klaipeda, L 77-88 at Fenerbahce, W 90-74 at Wroclaw, L 72-74 v Petkim, L 101-105 at Napoli",
+  "trends": {
+   "game_totals": "Chemnitz 162-202; Tofas 136-206",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Chemnitz home wins by 16-32 except v Napoli",
+   "corners": "no data"
+  },
+  "h2h": "none",
+  "absences": "Tofas: assistant coach says team dealing with injuries (unnamed)",
+  "context": "EuroCup Group C 4-2 Chemnitz v 2nd-placed Tofas. Tofas 0.60 favourite away; close rivals. No clear edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Tofas ML (p 0.60, below 0.75)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.proballers.com/basketball/league/192/eurocup/schedule",
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-round-8-ec2627/"
+  ]
+ },
+ {
+  "eid": "sr:match:72902478",
+  "fx": "JL Bourg Basket v Napoli Basket",
+  "home_form": "Bourg: L 77-90 v Roanne, L 66-68 v Buducnost, L 77-107 at Paris, W 88-84 at Wroclaw, L 98-101 v Nanterre, L 77-96 at Chemnitz, W 89-81 v Gravelines, W 90-79 v Trento (3 straight losses)",
+  "away_form": "Napoli: W 90-89 v Trieste, W 112-90 at Chemnitz, W 91-89 at Scafati, W 90-79 v Trento, W 99-81 v Venezia, W 94-85 at Klaipeda, W 92-90 at Derthona, W 105-101 v Tofas (6-0 EuroCup)",
+  "trends": {
+   "game_totals": "Napoli games all 169-206 (8/8 over 166.5); Bourg 7/8 at 167+",
+   "team_totals": "Napoli scored 90+ in 8/8; Bourg conceded 90+ in 4/8",
+   "first_half": "n/a",
+   "handicap": "Napoli wins mostly close",
+   "corners": "no data"
+  },
+  "h2h": "none",
+  "absences": "none found",
+  "context": "EuroCup Group C; Napoli unbeaten, best offence per Bourg coach; Bourg defending champion on 3-game skid.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=166.5",
+    "desc": "Over 166.5",
+    "odds": 1.33,
+    "p": 0.72539,
+    "why": "Napoli games totalled 169-206 in all 8 recent games; Bourg games 167+ in 7 of 8"
+   },
+   {
+    "mid": "228",
+    "spec": "total=87.5",
+    "desc": "Over 87.5",
+    "odds": 1.7,
+    "p": 0.5645381648,
+    "why": "Napoli scored 90+ in all 8 recent games incl. 112 at Chemnitz; Bourg conceded 90+ in 4 of 8"
+   }
+  ],
+  "avoid": [
+   "Napoli ML (p 0.57)"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://basketballsphere.com/bourg-vs-napoli-18-11-2026-analiza-i-tip-za-kladjenje",
+   "https://www.proballers.com/basketball/league/192/eurocup/schedule",
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-round-8-ec2627/"
+  ]
+ },
+ {
+  "eid": "sr:match:74290218",
+  "fx": "KK Bosna Royal Sarajevo v BC Lietkabelis Panevezys",
+  "home_form": "Bosna: W 85-77 v Mega, L 82-86 at Manresa, W 93-91 at U-BT Cluj, L 69-78 v Botevgrad, W 88-81 at Vienna, W 85-80 at Roma, L 83-93 v Dubai, W 86-77 v Bahcesehir",
+  "away_form": "Lietkabelis: W 81-73 at Taurage, L 61-99 at Bahcesehir, W 85-81 v Rytas, L 66-80 v Manresa, W 99-79 v Klaipeda, L 68-86 v Ulm, L 80-83 at Gargzdai, W 64-57 at Botevgrad",
+  "trends": {
+   "game_totals": "Bosna 147-184; Lietkabelis 121-178 (low)",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Lietkabelis lost by 38 at Bahcesehir",
+   "corners": "no data"
+  },
+  "h2h": "Lietkabelis won 75-72 at home on Sep 30 (Jaramaz buzzer three)",
+  "absences": "none found",
+  "context": "EuroCup R8 at Zetra Arena, Sarajevo, 19:30 CET; Bosna replaced Monaco. FanDuel Bosna -5.5. Line -6.5 fair.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.klix.ba/sport/kosarka/bosna-sutra-docekuje-lietkabelis-gjergja-poziva-publiku-da-podrzi-studente/261117214",
+   "https://www.euroleaguebasketball.net/en/eurocup/news/ec2627-rs1-game-notes-facts-lkb-bos/"
+  ]
+ },
+ {
+  "eid": "sr:match:72902318",
+  "fx": "Skyliners Frankfurt v Reyer Venezia",
+  "home_form": "Skyliners: L 85-99 v Trier, L 89-113 v Roma, L 73-77 at MBC, L 78-98 at Turk Telekom, W 93-82 at Jena, W 113-97 v U-BT, L 94-104 v Canarias, W 78-65 v Trier",
+  "away_form": "Venezia: W 88-81 v Roma, L 76-80 at London, W 83-78 at Reggiana, W 98-77 v Siauliai, L 81-99 at Napoli, L 80-82 at Canarias, L 89-97 v Treviso, L 79-90 at Roma",
+  "trends": {
+   "game_totals": "Skyliners home totals 184, 202, 210, 198 in last 4 home EuroCup/BBL games (143 v Trier earlier); Venezia 156-186",
+   "team_totals": "Skyliners concede 97-113 at home lately",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "no data"
+  },
+  "h2h": "Venezia hosted Frankfurt Sep 29 (result not found)",
+  "absences": "Venezia: Wiltjer ankle (status unknown), Olinde Achilles, Rice rehab (older reports)",
+  "context": "EuroCup; Skyliners poor defensively at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=163.5",
+    "desc": "Over 163.5",
+    "odds": 1.29,
+    "p": 0.750187,
+    "why": "Skyliners last four home games totalled 184-210 with 97-113 conceded; Venezia games 156-186"
+   }
+  ],
+  "avoid": [
+   "Under lines"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nuovavenezia.it/sport/reyer-venezia-maxima-roma-eurocup-risultato-infortunio-wiltjer-pmcp8sld",
+   "https://sportando.basketball/london-lions-reyer-venezia-risultato-cronaca-eurocup-26-27/"
+  ]
+ },
+ {
+  "eid": "sr:match:72902476",
+  "fx": "Aquila Basket Trento v BC Neptunas Klaipeda",
+  "home_form": "Trento: L 75-88 v Virtus, L 86-96 v Tofas, L 86-88 at Milan, L 79-90 at Napoli, L 62-88 v Roma, W 94-92 v Buducnost, L 81-87 at Scafati, L 79-90 at Bourg (1-7 last 8)",
+  "away_form": "Neptunas: L 82-87 at Zalgiris, W 90-82 v Wroclaw, W 82-80 v Taurage, L 79-94 at Tofas, L 79-99 at Panevezys, L 85-94 v Napoli, W 110-88 v Siauliai, L 89-104 at Buducnost",
+  "trends": {
+   "game_totals": "Trento 150-186; Neptunas 162-198",
+   "team_totals": "Trento scoring 62-94",
+   "first_half": "n/a",
+   "handicap": "Trento lost 3 of last 4 at home; only home win by 2",
+   "corners": "no data"
+  },
+  "h2h": "none",
+  "absences": "Trento: Patrick Hassan and Jose Medina Bouza out (R8 report)",
+  "context": "EuroCup; Trento in a 1-7 slump and short-handed yet priced 0.68 favourite with -5.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-13.5",
+    "desc": "Away (+13.5)",
+    "odds": 1.28,
+    "p": 0.762407,
+    "why": "Trento 1-7 in last 8, lost 3 of last 4 at home, only home win by 2; Hassan and Medina out"
+   }
+  ],
+  "avoid": [
+   "Trento -5.5 / ML"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://euroballinjpg.substack.com/p/eurocup-round-8-injury-report",
+   "https://www.euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-round-8-ec2627/"
+  ]
+ },
+ {
+  "eid": "sr:match:72902590",
+  "fx": "Basquet Manresa v PAOK BC",
+  "home_form": "Manresa: W 98-92 at Lleida, W 86-82 v Bosna, W 100-99 v Obradoiro, W 80-66 at Panevezys, L 83-106 at Baskonia, W 76-65 at Botevgrad, L 81-99 v Burgos, W 108-88 v Roma",
+  "away_form": "PAOK: W 74-69 at Karditsa, W 79-56 at Botevgrad, W 93-67 v Vikos, W 113-111 v Roma, W 63-53 at Iraklis, L 81-84 at Bahcesehir, W 65-62 v AEK, W 87-78 v Ulm",
+  "trends": {
+   "game_totals": "PAOK totals 116-165 in 7 of 8; Manresa home totals 168-199",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "no data"
+  },
+  "h2h": "Met on Sep 30 (opener; result not found)",
+  "absences": "PAOK: Cedi Osman out (meniscus surgery). Manresa: Scuka and Agbo out ~1 week; Benitez out (pneumothorax)",
+  "context": "Both teams with absences; conflicting total profiles (PAOK low, Manresa home high).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Totals both ways (conflicting profiles)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/eurocup/news/cedi-osman-meniscus-surgery-paok/",
+   "https://euroballinjpg.substack.com/p/eurocup-round-8-injury-report"
+  ]
+ },
+ {
+  "eid": "sr:match:74765638",
+  "fx": "Kapfenberg Bulls v Kavkasia BC",
+  "home_form": "Kapfenberg: L 77-88 at Traiskirchen, W 84-81 v St Polten, L 87-107 v MBC, W 94-82 at Kufstein, W 101-80 v Vienna, L 72-86 at Gmunden, W 108-83 v Liepaja, W 96-75 v Klosterneuburg",
+  "away_form": "Kavkasia: L 67-80 v Jonava, W 97-88 v Lausanne, L 82-87 at Dubrava, L 73-80 v Tbilisi Uni, L 70-78 at Tbilisi Uni, L 74-85 at Tbilisi Uni, L 72-82 at Iverioni, L 96-106 at Orbi",
+  "trends": {
+   "game_totals": "Kapfenberg home 165-194",
+   "team_totals": "Kavkasia scored 67-82 in 6 of last 8",
+   "first_half": "n/a",
+   "handicap": "Kapfenberg home wins by 21, 25, 21 (and lost to MBC)",
+   "corners": "no data"
+  },
+  "h2h": "none",
+  "absences": "none found",
+  "context": "ENBL group A; Kavkasia 1-7 in last 8 incl. 5 losses to Georgian league sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-9.5",
+    "desc": "Home (-9.5)",
+    "odds": 1.64,
+    "p": 0.570187,
+    "why": "Kapfenberg beat Liepaja 108-83, Vienna 101-80, Klosterneuburg 96-75 at home; Kavkasia 1-7 in last 8, losing repeatedly in the weak Georgian league"
+   }
+  ],
+  "avoid": [
+   "Kavkasia catch"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.basketball-world.news/spieltag/european-north-basketball-league",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_European_North_Basketball_League"
+  ]
+ },
+ {
+  "eid": "sr:match:74765636",
+  "fx": "Mitteldeutscher BC v BK Liepaja",
+  "home_form": "MBC: L 61-91 at Munich, W 77-73 v Frankfurt, W 107-87 at Kapfenberg, W 109-89 at Hamburg, W 101-78 v Dubrava, W 103-98 v Rostock, W 88-67 at Lausanne, L 83-93 at Wurzburg",
+  "away_form": "Liepaja: L 72-89 at Valmiera, W 99-69 at Rigas Ekselence, W 92-65 v Keila, W 112-54 v Viimsi, L 72-85 v Bristol, L 83-108 at Kapfenberg, L 69-85 at Zelli, L 71-78 v Taltech",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "MBC ENBL wins by 20-21; line -23.5 already huge",
+   "corners": "no data"
+  },
+  "h2h": "none",
+  "absences": "none found",
+  "context": "ENBL; MBC tops group. ML 1.01 and -23.5 line leave nothing in range.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "MBC -23.5"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://basketball.eurobasket.com/team/SYNTAINICS-MBC-Weissenfels/450",
+   "https://www.basketball-world.news/verein/bk-liepaja/termine"
+  ]
+ },
+ {
+  "eid": "sr:match:73110572",
+  "fx": "KK Cibona v SIG Strasbourg",
+  "home_form": "Cibona: W 95-71 at Dubrovnik, W 80-77 v FMP, W 102-93 at Siroki, W 88-75 v Dinamo, L 70-95 at Strasbourg, W 93-81 at Split, L 69-89 v Igokea, W 98-67 v Virtus Zagreb",
+  "away_form": "Strasbourg: W 89-84 at Pau, L 69-94 v Le Mans, W 95-70 v Cibona, W 88-82 v Cholet, W 98-94 at St Quentin, L 79-106 at Chalon, L 77-83 at Galatasaray, W 72-70 v Roanne",
+  "trends": {
+   "game_totals": "both 142-195",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "no data"
+  },
+  "h2h": "Strasbourg won 95-70 at home (BCL, this season)",
+  "absences": "none found",
+  "context": "BCL; Strasbourg favourite 0.63 (below ML threshold), Cibona in good domestic form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Strasbourg ML (p 0.63)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.proballers.com/basketball/league/422/basketball-champions-league/schedule",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73110632",
+  "fx": "CB Malaga v BK Pardubice",
+  "home_form": "Malaga: W 82-70 v Girona, L 91-96 at Zaragoza, W 99-94 v Reggiana, L 89-92 v Barcelona, W 103-90 at Breogan, W 79-63 at Pardubice, W 84-72 at Manresa, W 92-84 v Andorra (unbeaten in BCL)",
+  "away_form": "Pardubice: W 109-108 at Brno, W 81-75 at Decin, W 99-80 v Opava, L 95-98 at Utena, W 102-85 at Prague, W 98-74 v Lokomotiva, W 83-64 at Usti, L 63-79 v Malaga (0 BCL wins, last in group)",
+  "trends": {
+   "game_totals": "Malaga 142-193",
+   "team_totals": "Pardubice scored only 63 v Malaga",
+   "first_half": "n/a",
+   "handicap": "Malaga won by 16 in Pardubice",
+   "corners": "no data"
+  },
+  "h2h": "Malaga won 79-63 in Pardubice on Oct 20 (Noua 20 pts)",
+  "absences": "none found",
+  "context": "BCL Group E; win virtually seals top spot and the round of 16 for Malaga (EFE). Pardubice 0 wins.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-16.5",
+    "desc": "Home (-16.5)",
+    "odds": 1.45,
+    "p": 0.657258,
+    "why": "Malaga won 79-63 away in the reverse fixture; at home with first place at stake against a winless Pardubice"
+   }
+  ],
+  "avoid": [
+   "Pardubice +21.5 catch"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/17/el-unicaja-a-asegurar-el-primer-puesto-del-grupo-ante-un-inferior-pardubice/",
+   "https://www.infobae.com/espana/agencias/2026/10/20/63-79-el-unicaja-continua-creciendo-y-suma-otra-victoria-contundente-en-bcl/"
+  ]
+ },
+ {
+  "eid": "sr:match:75019240",
+  "fx": "Hapoel Haifa BC v Ironi Nahariya",
+  "home_form": "Haifa: L 79-80 at Kiryat, W 76-64 v Hevel Modiin, L 75-82 at Raanana, W 94-77 v Ashkelon, W 94-63 at Yavne, L 76-88 at Shomron, L 75-87 v Shomron, W 89-78 v Rehovot",
+  "away_form": "Nahariya: W 88-79 v Kiryat, W 78-69 at Hevel Modiin, W 80-66 v Raanana, L 104-109 at Ashkelon, W 71-58 v Yavne, W 89-69 at Migdal, L 83-94 at Ashdod, L 82-86 v Ashdod",
+  "trends": {
+   "game_totals": "both 129-177",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "no data"
+  },
+  "h2h": "none",
+  "absences": "none found",
+  "context": "Israel Liga Leumit. Livesport lists Hapoel Haifa v Ironi Nahariya on 20.11, not 18.11.",
+  "veto": true,
+  "veto_reason": "Date conflict: Livesport lists the game on 20 Nov, board says 18 Nov",
+  "picks": [],
+  "avoid": [
+   "all markets"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesport.com/en/basketball/israel/liga-leumit/",
+   "https://en.wikipedia.org/wiki/Liga_Leumit_(basketball)"
+  ]
+ }
+]

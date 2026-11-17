@@ -1,0 +1,517 @@
+[
+ {
+  "eid": "sr:match:76488120",
+  "fx": "Astros de Jalisco v Soles de Mexicali",
+  "home_form": "Astros (home in G4, Arena Astros Guadalajara): finals G1 L 66-85 at Mexicali, G2 L 70-73, G3 W 75-74 at home (Kyser FT with 0.2s left). Semis swept-ish Fuerza Regia (W 96-89, 97-90 OT, 83-69, 82-77).",
+  "away_form": "Soles: finals W 85-66, W 73-70, L 74-75; semis v Aguascalientes W 80-76, 83-65, L 84-87, W 87-75, W 110-79. Lead series 2-1.",
+  "trends": "Game totals in this series: 151, 143, 149 (all under 155.5, all under 160.5 by 9+). Astros scored 66/70/75 in series (all under 76.5/78.5); Soles 85/73/74. 1H: Soles led 54-30 G1, Astros led 48-35 G2, 46-41 G3. Handicap: two of three games decided by 1-3 pts. Finals defence/pace is clearly lower than regular season (team averages 159-161).",
+  "h2h": "Series 2-1 Soles: 85-66, 73-70, 74-75 (Soles score first).",
+  "absences": "Astros: Jose Ascanio hurt in G2, status for G4 unconfirmed. Soles: Connor Zinaich out (semis injury), replaced by Isaiah Pineiro.",
+  "context": "LNBP Grand Final game 4, Tue 17 Nov 20:15 local = 02:15 UTC 18 Nov (venue/date confirmed by Informador, En Juego, 365scores). Best-of-7; G5 Thu 19 if needed. Must-win-ish for Astros (avoid 1-3). Playoff, no result-sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=160.5",
+    "desc": "Under 160.5",
+    "odds": 1.51,
+    "p": 0.6277807352,
+    "why": "Fixture-specific: all 3 finals games 143-151 total; tight playoff defence, Ascanio doubt for Astros. Line needs +10 on series avg."
+   },
+   {
+    "mid": "227",
+    "spec": "total=78.5",
+    "desc": "Under 78.5",
+    "odds": 1.64,
+    "p": 0.570612,
+    "why": "Astros scored 66, 70, 75 in the three finals games v Soles defence; Ascanio doubtful."
+   }
+  ],
+  "avoid": [
+   "Any side/handicap (close series, 1-3 pt margins)",
+   "Over 155.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.informador.mx/deportes/astros-gana-a-soles-en-cierre-de-alarido-y-recorta-distancia-en-la-final-de-la-lnbp-20261116-0173.html",
+   "https://www.enjuegodeportes.com/mas-deportes/astros-vence-75-74-soles-juego-3-gran-final-lnbp-2026/",
+   "https://zetatijuana.com/2026/11/soles-gana-dramaticamente-y-se-coloca-arriba-en-la-final-de-la-lnbp/",
+   "https://www.365scores.com/es/news/final-lnbp-2026-soles-vs-astros-hora-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:73657568",
+  "fx": "Samsung Thunders v LG Sakers",
+  "home_form": "Samsung last 10: 6-4 (L Anyang 80-87 H, W Sonicboom 85-78 H, L DB 76-84, W Phoebus 81-76, L Knights 76-90 H, W Skygunners 95-87, W Daegu 76-68, W Phoebus 91-71, W Egis 97-86 H).",
+  "away_form": "LG last 10: 5-5, played back-to-back Sat/Sun (W Sonicboom 83-81, L Phoebus 78-79), W Knights 101-72, L Egis 74-84, W Skygunners 86-85, L DB 98-104.",
+  "trends": "Totals mixed (Samsung games avg 167, LG 174 v line 165.5, 5-6/10 over). Team totals 82.5 each ~coin. No 1H edge. Margins small.",
+  "h2h": "Oct 15 2026: Samsung 93-86 LG at Jamsil.",
+  "absences": "None found.",
+  "context": "KBL regular season, Jamsil Arena. Pick-em (ML 1.87/1.90). LG on 2 days rest after B2B.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Sides (coin flip)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://basketball.realgm.com/international/league/63/South-Korean-KBL/team/425/Seoul-Samsung-Thunders/schedule",
+   "https://basketball.realgm.com/international/league/63/South-Korean-KBL/team/1119/Changwon-LG-Sakers/schedule",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696348",
+  "fx": "Chiba Jets Funabashi v Akita Northern Happinets",
+  "home_form": "Chiba 6-4 last 10 but heavy schedule: OT L 104-110 v San-En Mon 16/11, W 86-80 Nagasaki 14/11, W 90-87 at Shiga 12/11, OT W v Osaka 10/11; home L to Toyama x2, Kyoto 79-102.",
+  "away_form": "Akita 1-9 last 10 (W 82-76 Osaka only); lost at home to Nagoya 94-110, Ibaraki 83-95, Shinshu 96-101.",
+  "trends": "Total 180.5: Chiba games avg 178 (5/10 over), Akita 185 (6/10). Chiba TT 93.5 (Chiba scored >93.5 only 2/10 but Akita concede 96 avg). Handicap -6.5 v Chiba avg margin +0.4.",
+  "h2h": "Oct 2025-26 regular season meetings; no 2026-27 meeting yet found.",
+  "absences": "None found on B.League injury list for either side.",
+  "context": "B.Premier midweek. Chiba 3rd game in 5 days incl. OT 2 days earlier -> fatigue. ML 1.32 p0.73 (<0.75 rule).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Chiba -6.5 (fatigue, home losses)",
+   "Chiba ML below p0.75"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleague.jp/news/injury.html",
+   "https://basketballking.jp/news/japan/20261112/642935.html",
+   "https://www.aiscore.com/basketball/tournament-b-league-premier/5wv784spdbjqrjn",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696346",
+  "fx": "Gunma Crane Thunders v Shimane Susanoo Magic",
+  "home_form": "Gunma 8-2 last 10 (W Shiga 100-80, at Shinshu 85-74, Nagoya 87-76, at Mikawa 90-83, Osaka x2 by 33-42).",
+  "away_form": "Shimane 5-5 (W Utsunomiya 83-69, W at Kawasaki 95-74, W Toyama 108-75; L Sendai 76-87, Hiroshima x2).",
+  "trends": "House game line 157.5 and Shimane TT 72.5 are ~10-12 pts under both teams averages (Gunma games 167.6, 9/10 over 157.5; Shimane scored 84.5 avg, 10/10 over 72.5). Such a gap implies information we do not have (absences/pace).",
+  "h2h": "Apr 2026: Gunma won both at Shimane.",
+  "absences": "Not found for Nov 18; Shimane had several players (McAdoo, Kitagawa, Dennis) on injury/condition lists in preseason; current status unverified.",
+  "context": "data_conflict: market prices a much lower-scoring game than form; no confirmed explanation -> divergence rule, no pick. Gunma ML 1.14 below range.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 157.5 / Shimane TT Over 72.5 (divergence >15pp vs house, unexplained)",
+   "Gunma -11.5"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bleague.jp/news/injury.html",
+   "https://basketballking.jp/news/japan/20261112/642935.html",
+   "https://www.aiscore.com/basketball/tournament-b-league-premier/5wv784spdbjqrjn",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696358",
+  "fx": "Kobe Storks v Kawasaki Brave Thunders",
+  "home_form": "Kobe 2-8; lost last 3 by 21-25 (at A.Tokyo 79-104, at Hokkaido 79-100, H Shibuya 87-108).",
+  "away_form": "Kawasaki 4-6, won last 2 (at Yokohama 95-66, Saga 90-72) after losing 4 of 5.",
+  "trends": "Kobe concede 91 avg (7/10 over Kawasaki TT 85.5) but Kawasaki score only 81.6. Total 165.5: Kobe games 7/10 over, Kawasaki 4/10.",
+  "h2h": "No 2026-27 meeting.",
+  "absences": "None found.",
+  "context": "Kawasaki -5.5; ML p0.69 (<0.75). Conflicting signals.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Kawasaki ML (p<0.75)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleague.jp/news/injury.html",
+   "https://basketballking.jp/news/japan/20261112/642935.html",
+   "https://www.aiscore.com/basketball/tournament-b-league-premier/5wv784spdbjqrjn",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696354",
+  "fx": "Nagoya Diamond Dolphins v Ryukyu Golden Kings Okinawa",
+  "home_form": "Nagoya 7-3 but just lost 73-105 at home to Shibuya (15/11); W at Akita 110-94.",
+  "away_form": "Ryukyu 5-5 incl EASL (L HK Eastern 96-104, W Taoyuan 103-97); W Toyama 102-96, W Shibuya 81-78.",
+  "trends": "Total 167.5 (both sides 6-7/10 over); Ryukyu TT 79.5 (Ryukyu scored 85.9 avg, 8/10 over).",
+  "h2h": "No 2026-27 meeting.",
+  "absences": "None found.",
+  "context": "Ryukyu has EASL travel load. Nagoya -8.5, ML p0.77 but blown out at home last outing. Big-club clash -> no result-side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Nagoya -8.5",
+   "Nagoya ML (big-club clash)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleague.jp/news/injury.html",
+   "https://basketballking.jp/news/japan/20261112/642935.html",
+   "https://www.aiscore.com/basketball/tournament-b-league-premier/5wv784spdbjqrjn",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696356",
+  "fx": "Osaka Evessa v Hiroshima Dragonflies",
+  "home_form": "Osaka 0-10 (losses by 6-42; avg margin -22.8); scored 60-77 in regulation.",
+  "away_form": "Hiroshima 6-4 (W Altiri Chiba 85-63, L at A.Tokyo 83-99, L Sendai 91-106).",
+  "trends": "Hcp +20.5 exactly the Osaka avg margin (coin). Osaka TT 71.5 (3/10 over but last 3 games 76/77/88+).",
+  "h2h": "No 2026-27 meeting.",
+  "absences": "None found. Note Sebas Saiz moved to Osaka.",
+  "context": "Hiroshima ML 1.02 (below range). No edge on 20.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Hiroshima -20.5 (coin)",
+   "Osaka +20.5 (15+ catch for weak team)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleague.jp/news/injury.html",
+   "https://basketballking.jp/news/japan/20261112/642935.html",
+   "https://www.aiscore.com/basketball/tournament-b-league-premier/5wv784spdbjqrjn",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696342",
+  "fx": "Sendai 89Ers v San-En Neophoenix",
+  "home_form": "Sendai 8-2 (home: W A.Tokyo 96-69, W Shibuya 87-79, L 73-80, W Yokohama 91-72, W Kobe 80-71).",
+  "away_form": "San-En 7-3, ALL last 10 away; OT W 110-104 at Chiba Mon 16/11 -> third road game in 5 days.",
+  "trends": "Total 174.5: Sendai games 3/10 over. San-En TT 84.5 v Sendai conceding 79 avg (3/10 over).",
+  "h2h": "No 2026-27 meeting.",
+  "absences": "None found.",
+  "context": "Fatigue edge Sendai, but ML p0.66 < 0.75 and -5.5 is ~coin; nothing passes gates.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Sendai ML (p<0.75)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleague.jp/news/injury.html",
+   "https://basketballking.jp/news/japan/20261112/642935.html",
+   "https://www.aiscore.com/basketball/tournament-b-league-premier/5wv784spdbjqrjn",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696350",
+  "fx": "Sun Rockers Shibuya v Alvark Tokyo",
+  "home_form": "Shibuya 7-3 (W at Nagoya 105-73, W at Kobe 108-87, L at Okinawa 78-81).",
+  "away_form": "Alvark 8-2, top of standings (W Kobe 104-79, Hiroshima 99-83, Nagasaki, San-En).",
+  "trends": "Total 172.5 coin (5-7/10). Both TT near averages.",
+  "h2h": "No 2026-27 meeting found.",
+  "absences": "None found.",
+  "context": "Tokyo derby / top-of-table clash: no result-side by rule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Any side (derby/big-club)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleague.jp/news/injury.html",
+   "https://basketballking.jp/news/japan/20261112/642935.html",
+   "https://www.aiscore.com/basketball/tournament-b-league-premier/5wv784spdbjqrjn",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696344",
+  "fx": "Utsunomiya Brex v Levanga Hokkaido",
+  "home_form": "Utsunomiya 4-6 (L at Shimane 69-83, W Kyoto 94-70, OT W Okinawa; L A.Tokyo by 35).",
+  "away_form": "Hokkaido 7-3 (W Saga 107-70, W Kobe 100-79, L San-En 96-110).",
+  "trends": "Total 180.5: Utsunomiya games avg 164 (2/10 over) v Hokkaido 189 (6/10). Utsunomiya TT 88.5 (3/10 over) but Hokkaido concede 92.",
+  "h2h": "No 2026-27 meeting.",
+  "absences": "None found.",
+  "context": "Conflicting pace profiles; Hokkaido ML p0.63 below gate.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Hokkaido ML (p<0.75)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleague.jp/news/injury.html",
+   "https://basketballking.jp/news/japan/20261112/642935.html",
+   "https://www.aiscore.com/basketball/tournament-b-league-premier/5wv784spdbjqrjn",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696352",
+  "fx": "Yokohama B-Corsairs v Saga Ballooners",
+  "home_form": "Yokohama 2-8 (home losses by 29, 10, 17, 26, 31; wins only 2x at Kawasaki).",
+  "away_form": "Saga 0-10 (losses mostly 18-45).",
+  "trends": "Yokohama scored 74 avg (2/10 over TT 85.5) but Saga concede 98 avg (7/10 over) - direct conflict. Total 164.5 mixed.",
+  "h2h": "No 2026-27 meeting.",
+  "absences": "None found.",
+  "context": "Two of the worst teams; Yokohama -7.5/ML p0.75 is a fragile favourite (lost 8 of 10).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Yokohama -7.5 / ML (fragile favourite)",
+   "Yokohama TT Under (Saga concede ~98)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleague.jp/news/injury.html",
+   "https://basketballking.jp/news/japan/20261112/642935.html",
+   "https://www.aiscore.com/basketball/tournament-b-league-premier/5wv784spdbjqrjn",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72696360",
+  "fx": "Kyoto Hannaryz v Shinshu Brave Warriors",
+  "home_form": "Kyoto 4-6 (W Ibaraki 98-75, L at Utsunomiya 70-94, L Hokkaido 79-85).",
+  "away_form": "Shinshu 4-6 (L Gunma 74-85, L at Mikawa 86-91, W at Akita 101-96); beat Kyoto twice 67-65, 80-72 on 30/10-1/11.",
+  "trends": "Total 166.5 coin. Shinshu TT 79.5 (7/10 over).",
+  "h2h": "Shinshu won both meetings 2 weeks ago (80-72, 67-65 at Shinshu).",
+  "absences": "Shinshu: Eiya Oguri on B.League injury list (right hamstring strain, registered Nov 18).",
+  "context": "Kyoto -6.5, ML p0.73 (<0.75) and lost both recent H2H.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Kyoto -6.5",
+   "Kyoto ML"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleague.jp/news/injury.html",
+   "https://basketballking.jp/news/japan/20261112/642935.html",
+   "https://www.aiscore.com/basketball/tournament-b-league-premier/5wv784spdbjqrjn",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73659020",
+  "fx": "BC Nevezis Kedainiai v BC Rytas Vilnius",
+  "home_form": "Nevezis 2-7 LKL (10th); home: W Utena 91-88, W Taurage 90-79, L Siauliai 76-83, W Gargzdai 87-76, L Panevezys 72-73, L Gargzdai 86-101, L Zalgiris 76-80.",
+  "away_form": "Rytas 6-3 (2nd); W Jonava 96-79, W Nanterre 102-82 (Europe midweek), L at Panevezys 81-85, W at Jonava 91-87, L Zalgiris 89-94.",
+  "trends": "Nevezis games avg 163 (2/10 over 173.5); Rytas games 172.5 (6/10). Nevezis conceded >91.5 only 1/10 but Rytas scored >91.5 in 6/10. Last-season H2H were high scoring (101-105, 91-105).",
+  "h2h": "2025-26: Rytas won 105-91 and 105-101 at Kedainiai.",
+  "absences": "None found.",
+  "context": "LKL regular season, Kedainiu arena; tip 16:50 UTC per Sofascore vs 18:30 local on LKL site (=16:30 UTC) - minor time discrepancy, same date/venue. Rytas in European competition (Nanterre) -> midweek load.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Rytas -9.5 (Rytas lost/close away at Panevezys, Jonava)",
+   "Totals: H2H high v Nevezis low-scoring form conflict"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://en.lkl.lt/tvarkarastis",
+   "https://www.sofascore.com/basketball/match/kedainiu-nevezis-rytas-vilnius/ircsopk",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72679848",
+  "fx": "BC Slovan Bratislava v BK Iskra Svit",
+  "home_form": "Slovan 5-3 league; played Mon 16/11 away at Borac Cacak (W 98-66) in regional cup/ABA2; home: W Nitra 78-75, W Krka 66-64, W Inter 94-64, L Handlova 62-63.",
+  "away_form": "Iskra Svit winless (0-5+): L Handlova 71-93, L at Lucenec 64-78, L at Levice 79-88, L Komarno 84-90, L Slovan 77-96.",
+  "trends": "Iskra scored 75 avg (7/10 over 67.5; 77 v Slovan). Slovan home wins mostly narrow (3, 2, 30, -1). -23.5 needs a rout; H2H margin +19.",
+  "h2h": "27/10/26: Iskra 77-96 Slovan.",
+  "absences": "None found.",
+  "context": "Slovak Extraliga round 14. Slovan on 2 days rest after a trip to Serbia -> rotation likely v winless side. RealGM lists 2pm ET (19:00 UTC) vs Sportradar/Flashscore 16:00 CET; same date.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "228",
+    "spec": "total=67.5",
+    "desc": "Over 67.5",
+    "odds": 1.58,
+    "p": 0.573434,
+    "why": "Iskra scored 77 at home v Slovan a month ago, 7/10 over 67.5; Slovan likely to rotate after Monday trip to Serbia."
+   }
+  ],
+  "avoid": [
+   "Slovan -23.5 (home margins small, fatigue)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://basketball.realgm.com/international/preview/2026-11-18/BK-Iskra-Svit-at-Slovan-Bratislava/534279",
+   "https://www.flashscore.com/match/basketball/bk-iskra-svit-zDoETLRJ/slovan-bratislava-MwDN9uI9/",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:76069626",
+  "fx": "Caceres Ciudad del Baloncesto v CB Estudiantes",
+  "home_form": "Caceres (Segunda FEB) 8-2 in last 10, home: W Leonesa 83-81, Valladolid 84-79, Logrono 104-76, Algeciras 86-71; L Spanish Academy 87-90.",
+  "away_form": "Estudiantes (Primera FEB) 8-2: W at Granada 101-97 OT, L at Estela 71-73, W Gran Canaria 102-80, W at Bahia 94-78.",
+  "trends": "Caceres scored >77.5 in 10/10 (v Segunda); Estudiantes concede 77.6. Total 168.5 coin. Margin line 12.5 v division gap.",
+  "h2h": "None recent (different divisions).",
+  "absences": "None found.",
+  "context": "Copa Espana FEB 2026-27 round of 16 (octavos, 17-18 Nov), single game, lower-division side at home (FEB format); fixture/time confirmed on FEB results page. Knockout: only ML/To-Qualify or DNB for sides. 18/11 20:00 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Estudiantes -12.5 (Caceres strong at home)",
+   "Estudiantes ML 1.06 below range"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.feb.es/competiciones/resultados/copaespaa/73/2026",
+   "https://www.feb.es/2026/6/2/baloncesto/asi-sera-copa-espana-202627-sistema-competicion-fechas-juego-premio-economico/104984.aspx",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:76069628",
+  "fx": "Cultural Y Deportiva Leonesa v Basquet Sant Antoni",
+  "home_form": "Leonesa (Segunda) 7-3: W Algeciras 105-98, L at Caceres 81-83, W 83-72, W at Getafe OT, W Oviedo 69-67, L Melilla 92-96.",
+  "away_form": "Sant Antoni (Segunda, other group) 9-1: W Molina 90-48, W at Iraurgi 74-66, W Clavijo 71-61, W at Castello 85-67, L Lliria 72-77.",
+  "trends": "Sant Antoni concede 67.7 avg (1/10 over 77.5, max 89); games avg 149.6 (2/10 over 156.5). Leonesa score 79.7 (5/10 over 77.5) in a stronger group.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Copa Espana FEB 2026-27 round of 16 (octavos, 17-18 Nov), single game, lower-division side at home (FEB format); fixture/time confirmed on FEB results page. Knockout: only ML/To-Qualify or DNB for sides. 18/11 20:00 CET, Leonesa at home (FEB).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "227",
+    "spec": "total=79.5",
+    "desc": "Under 79.5",
+    "odds": 1.51,
+    "p": 0.603137,
+    "why": "Sant Antoni defence: conceded 48-77 in 9 of last 10 (one 89); Leonesa avg 79.7 v softer opponents, cup game tempo."
+   }
+  ],
+  "avoid": [
+   "Sant Antoni ML/-3.5 (p0.59, away in knockout)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.feb.es/competiciones/resultados/copaespaa/73/2026",
+   "https://www.feb.es/2026/6/2/baloncesto/asi-sera-copa-espana-202627-sistema-competicion-fechas-juego-premio-economico/104984.aspx",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:76028540",
+  "fx": "Cbc Valladolid v Caja 87 Baloncesto",
+  "home_form": "Valladolid (Segunda) 8-2: W at Toledo 88-80, W Jaen 77-75, W Algeciras 93-90, L at Caceres 79-84, W Fuenlabrada 90-82, W 106-59.",
+  "away_form": "Caja 87 (Primera FEB) 4-6: L at Ourense 74-87, L Tizona 73-75, W at Menorca 73-69, L Granada OT, W at Bisbal 76-61, L at Cordoba 81-83.",
+  "trends": "Caja 87 scored 61-81 in all last 10 (avg 73.4; 0/10 over 85.5); Valladolid conceded >85.5 only 1/10 (90). Caja games avg 149 (1/10 over 161.5) v Valladolid games 162.",
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Copa Espana FEB 2026-27 round of 16 (octavos, 17-18 Nov), single game, lower-division side at home (FEB format); fixture/time confirmed on FEB results page. Knockout: only ML/To-Qualify or DNB for sides. 18/11 20:30 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "228",
+    "spec": "total=87.5",
+    "desc": "Under 87.5",
+    "odds": 1.52,
+    "p": 0.598814,
+    "why": "Caja 87 offence capped at 81 in each of last 10; Valladolid allowed >85 once in 10 (incl. v Primera side Fuenlabrada 82)."
+   }
+  ],
+  "avoid": [
+   "Caja 87 ML 1.18 (poor form, 4-6; Valladolid 8-2 at home)",
+   "Caja 87 -8.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.feb.es/competiciones/resultados/copaespaa/73/2026",
+   "https://www.feb.es/2026/6/2/baloncesto/asi-sera-copa-espana-202627-sistema-competicion-fechas-juego-premio-economico/104984.aspx",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:76028536",
+  "fx": "Club Melilla Baloncesto v Lucentum Alicante",
+  "home_form": "Melilla (Segunda) 10-0 last 10: W at Spanish Academy 83-66, Moron 85-61, Tres Cantos 81-64, Gandia 100-78, at Leonesa 96-92, at Valladolid 70-59.",
+  "away_form": "Alicante (Primera FEB) 10-0: W Bahia 100-66, Palma 97-93 OT, at Tizona 89-79, Gipuzkoa 106-66, at Ourense 83-79.",
+  "trends": "Melilla concede 70 (1/10 over 85.5) v Segunda; Alicante score 88.9. Margins: both +16-18 avg. Total 162.5 coin.",
+  "h2h": "None.",
+  "absences": "None found.",
+  "context": "Copa Espana FEB 2026-27 round of 16 (octavos, 17-18 Nov), single game, lower-division side at home (FEB format); fixture/time confirmed on FEB results page. Knockout: only ML/To-Qualify or DNB for sides. 18/11 20:30 CET. Two unbeaten sides; Alicante ML 1.18 p0.81 but Melilla in form at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Alicante -8.5",
+   "Alicante ML 1.18 (knockout v unbeaten home side)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.feb.es/competiciones/resultados/copaespaa/73/2026",
+   "https://www.feb.es/2026/6/2/baloncesto/asi-sera-copa-espana-202627-sistema-competicion-fechas-juego-premio-economico/104984.aspx",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:76028538",
+  "fx": "Club Ourense Baloncesto Sad v Palmer Basquet Mallorca Palma",
+  "home_form": "Ourense (Primera) 6-3 recent: W Caja 87 87-74, W at Fuenlabrada 86-84, W Bahia 83-73, L at Palencia 80-84, L Alicante 79-83, L Estela 86-101.",
+  "away_form": "Palma (Primera) 7-3: W Albacete 80-74, L at Alicante 93-97 OT, W Oviedo 80-79, L Tizona 94-95, W Zamora 101-77.",
+  "trends": "Totals coin (4-5/10 over 165.5). Palma TT 80.5 (7/10 over). Many 1-4 pt finishes for Palma.",
+  "h2h": "None found this season.",
+  "absences": "None found.",
+  "context": "Copa Espana FEB 2026-27 round of 16 (octavos, 17-18 Nov), single game, lower-division side at home (FEB format); fixture/time confirmed on FEB results page. Knockout: only ML/To-Qualify or DNB for sides. 18/11 20:45 CET, same-division tie.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Ourense -4.5 / ML (p0.66, knockout, Palma plays close games)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.feb.es/competiciones/resultados/copaespaa/73/2026",
+   "https://www.feb.es/2026/6/2/baloncesto/asi-sera-copa-espana-202627-sistema-competicion-fechas-juego-premio-economico/104984.aspx",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73525338",
+  "fx": "AB Castello v Cb Benicarlo",
+  "home_form": "Castello 3-7: L Prat 73-87 H, W at Logrono 86-81, L Iraurgi 74-80 H, L Sant Antoni 67-85 H, W at Bisbal 68-55, L Zaragoza 65-75 H; home W v Benicarlo 73-68 (27/9).",
+  "away_form": "Benicarlo 7-3, won last 6: at Zaragoza 82-75, Gandia 80-73, at Cartagena 82-74, Molina 65-57, at Clavijo 89-76, Lliria 73-61.",
+  "trends": "Castello scored 65-88, 7/10 under 75.5 (home: 73,74,67,65,73). Benicarlo conceded 57-76, 9/10 under 75.5. Totals ~151 both. H2H 141.",
+  "h2h": "27/09/26 Castello 73-68 Benicarlo (Segunda FEB).",
+  "absences": "None found.",
+  "context": "Segunda FEB regular season (local derby, Castellon province) 18/11 20:30 CET. Derby -> no result-side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "227",
+    "spec": "total=75.5",
+    "desc": "Under 75.5",
+    "odds": 1.72,
+    "p": 0.530361,
+    "why": "Castello home scoring 65-74 in last 5 home games; Benicarlo allow 69.6 avg (9/10 under 75.5); H2H Castello 73."
+   }
+  ],
+  "avoid": [
+   "Benicarlo ML/-2.5 (derby, lost H2H)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.flashscore.es/partido/baloncesto/benicarlo-xpZw5KSR/tau-castello-jwCxB3yr/",
+   "https://www.feb.es/competiciones/calendario.aspx?g=2&t=2026&nm=segundafeb",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ }
+]

@@ -1,0 +1,612 @@
+[
+ {
+  "eid": "sr:match:76520694",
+  "fx": "Atletico Nacional v CD Once Caldas",
+  "home_form": "Nacional home (SR): W4-3 Pereira, W2-0, W2-1 Ind. Medellin, W3-0 Pasto, D1-1 Once Caldas (14/11, league). Away: D1-1 Bucaramanga, D1-1 at Once Caldas (cup SF leg 1, 11/11), L0-1 Cucuta.",
+  "away_form": "Once Caldas unbeaten in 8 (SR): D1-1 & D1-1 v Nacional, W1-0, W0-2 away, W1-0, D1-1, D1-1 at Millonarios, W0-2 at Ind. Medellin. Away: no defeat in last 5 away.",
+  "trends": {
+   "game_totals": "Once Caldas games low: 7 of last 8 had <=2 goals; Nacional home 3 of 5 went over 2.5",
+   "team_totals": "Once Caldas conceded 1 or 0 in all of last 8",
+   "first_half": "both H2H 1-1s were level or Once ahead at HT",
+   "handicap": "3 straight meetings level (1-1,1-1 and an earlier 2-0 Nacional in Oct cup)",
+   "corners": "n/a"
+  },
+  "h2h": "Nov 10/11 Once Caldas 1-1 Nacional (cup SF leg 1; James Rodriguez 82'), Nov 14 Nacional 1-1 Once Caldas (league), Oct 22 Nacional 2-0 Once Caldas.",
+  "absences": "No confirmed absence news found.",
+  "context": "Copa Colombia SEMIFINAL 2nd leg, aggregate 1-1, at the Atanasio Girardot. Knockout: markets settle on 90 min, so a draw is a live outcome. Nacional chasing a 4th straight Copa title. Kickoff 23:30 UTC on 17 Nov (sooner than the 18 Nov label).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Home 1X2 1.63: knockout result-side, and 3 straight draws v this opponent",
+   "Home DNB 1.25: the draw is a real risk (void), and Once Caldas is unbeaten in 8 with tight defence",
+   "Over 2.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.espn.com/soccer/match/_/gameId/401933181/atletico-nacional-once-caldas",
+   "https://bolavip.com/futbol-colombia/que-pasa-si-atletico-nacional-gana-pierde-o-empata-vs-once-caldas-por-la-semifinal-de-la-copa-colombia",
+   "https://h13n.com/atletico-nacional-copa-colombia-once-caldas/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719678",
+  "fx": "Toronto Raptors v New York Knicks",
+  "home_form": "Raptors: Kawhi Leonard OUT (knee management), Nate Bittle OUT (foot); Scottie Barnes QUESTIONABLE (illness) on the 5pm report.",
+  "away_form": "Knicks: no injuries listed.",
+  "trends": {
+   "game_totals": "house centre ~213",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Knicks -2.5/-4.5 band",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "TOR: Leonard out, Bittle out, Barnes questionable. NYK: none.",
+  "context": "Regular season. Knicks ML only p0.61. Barnes' status is unresolved, so there is no clear edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Raptors + handicap if Barnes is ruled out",
+   "Knicks ML (p 0.61, below the 0.75 gate)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-17_05_00PM.pdf",
+   "https://talkbasket.net/228706-nba-injury-report-reaves-kessler-duren-out-on-tuesday-november-17",
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://sports.yahoo.com/articles/knicks-vs-raptors-injury-report-193922531.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73719680",
+  "fx": "Minnesota Timberwolves v Portland Trail Blazers",
+  "home_form": "Wolves: Jaylen Clark OUT (hamstring); Joan Beringer available.",
+  "away_form": "Blazers: Ja Morant OUT (hamstring), Deni Avdija QUESTIONABLE.",
+  "trends": {
+   "game_totals": "house centre ~226",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Wolves -1.5 to -3.5 band (p ~0.5)",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "MIN: Clark out. POR: Morant out, Avdija questionable. Both teams' reports were incomplete at the last update.",
+  "context": "Near coin-flip game (Wolves ML p0.57). No preview evidence was found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Any ML/handicap: p ~0.55 and reports incomplete"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-17_05_00PM.pdf",
+   "https://talkbasket.net/228706-nba-injury-report-reaves-kessler-duren-out-on-tuesday-november-17",
+   "https://www.covers.com/sport/basketball/nba/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:73719682",
+  "fx": "San Antonio Spurs v Detroit Pistons",
+  "home_form": "Spurs 12-2, on an NBA-best 12-game winning streak. Wembanyama is averaging 28.6 ppg (31.2 over the last 10). Tobias Harris OUT (calf), Jayden Quaintance OUT.",
+  "away_form": "Pistons 8-4 but badly depleted: Jalen Duren OUT (hamstring), Ronald Holland II OUT, Taurean Prince OUT, Duncan Robinson OUT, Isaiah Joe DOUBTFUL.",
+  "trends": {
+   "game_totals": "house centre ~221",
+   "team_totals": "Pistons team total centre ~106",
+   "first_half": "n/a",
+   "handicap": "Spurs -9.5/-10.5 centre; previews list Spurs -9.5",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "DET: Duren, Holland, Prince, Robinson out; Joe doubtful. SAS: Harris and Quaintance out.",
+  "context": "Named-absence mechanism: Detroit has no starting centre (Duren) against Wembanyama and is missing 4-5 rotation players. Spurs are at home on a 12-game streak.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.793997,
+    "why": "Spurs 12-2 with a 12-game win streak, at home; Pistons missing Duren, Holland, Prince and Robinson, with Joe doubtful (official 17 Nov report). ML p 0.79 passes the 0.75 gate."
+   }
+  ],
+  "avoid": [
+   "Pistons +15.5 or wider catches",
+   "Spurs -10.5 or more (blowout variance)"
+  ],
+  "confidence": 0.35,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-17_05_00PM.pdf",
+   "https://talkbasket.net/228706-nba-injury-report-reaves-kessler-duren-out-on-tuesday-november-17",
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://clutchpoints.com/nba/nba-stories/pistons-vs-spurs-injury-report-detroit-really-banged-up-as-san-antonio-goes-for-13-in-a-row",
+   "https://www.fanduel.com/research/pistons-vs-spurs-prediction-picks-and-prop-bets-nov-17"
+  ]
+ },
+ {
+  "eid": "sr:match:73719686",
+  "fx": "LA Clippers v Utah Jazz",
+  "home_form": "Clippers 4-8, won 2 straight. OUT: Brandon Ingram (heel surgery), Bradley Beal (knee management), Jordan Miller, Yanic Konan Niederhauser.",
+  "away_form": "Jazz 1-13 (worst in the West). OUT: Jaren Jackson Jr (MCL tear), Lauri Markkanen (hand fracture), Jusuf Nurkic (foot); Jaxson Hayes out or questionable. First night of a back-to-back in LA (at the Lakers Wednesday).",
+  "trends": {
+   "game_totals": "house centre ~226",
+   "team_totals": "Jazz team total centre ~109.5; Jazz are missing their top 2 scorers",
+   "first_half": "n/a",
+   "handicap": "Clippers -5.5/-7.5 centre",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "UTA: JJJ, Markkanen, Nurkic out; Hayes doubtful. LAC: Ingram, Beal out.",
+  "context": "Venue consistent: the Jazz preview says Utah begins a back-to-back in LA v the Clippers, then plays the Lakers. Clippers ML p0.68 is below the 0.75 gate despite Utah's depletion.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Clippers ML 1.44 (p0.68, below the 0.75 gate)",
+   "Jazz +14.5 or wider catches (weak receiver)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-17_05_00PM.pdf",
+   "https://talkbasket.net/228706-nba-injury-report-reaves-kessler-duren-out-on-tuesday-november-17",
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://www.nba.com/jazz/news/preview-utah-jazz-begin-back-to-back-against-la-clippers",
+   "https://213hoops.com/clippers-vs-jazz-preview-taking-on-the-worst-in-the-west/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719684",
+  "fx": "Los Angeles Lakers v Charlotte Hornets",
+  "home_form": "Lakers: Austin Reaves OUT (heel), Walker Kessler OUT (lower leg); Grimes available. First night of a back-to-back (Jazz on Wednesday).",
+  "away_form": "Hornets 4-9, 2-8 in last 10. Kon Knueppel OUT and Dennis Schroder OUT (hamstrings), plus 3 others on G League assignment.",
+  "trends": {
+   "game_totals": "house centre ~222",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Lakers -5.5/-7.5 centre",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "LAL: Reaves, Kessler out. CHA: Knueppel, Schroder out.",
+  "context": "Both sides are missing starters. Lakers ML p0.72 is below the gate.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Hornets +17.5 catch (weak receiver; L26)",
+   "Lakers ML (p0.72, below the gate)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-17_05_00PM.pdf",
+   "https://talkbasket.net/228706-nba-injury-report-reaves-kessler-duren-out-on-tuesday-november-17",
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://lakersnation.com/lakers-injury-report-walker-kessler-austin-reaves-out-vs-hornets/",
+   "https://www.silverscreenandroll.com/lakers-game-previews/129005/lakers-vs-hornets-discussion-injury-report-how-to-watch-tv-stream-start-time-luka-doncic-austin-reaves"
+  ]
+ },
+ {
+  "eid": "sr:match:76251036",
+  "fx": "Besa Kavaje v Korabi Peshkopi",
+  "home_form": "Besa (Kategoria e Pare): D1-1 Burreli, W3-2 Pogradec, D0-0 at Bylis, W2-0 Korabi, L0-2 at Kukesi, W2-0, W4-1.",
+  "away_form": "Korabi: D0-0, L0-2, W1-0, L0-2 at Besa, D0-0, L0-2, W2-1, L0-3. They scored in only 2 of the last 8 and 6 of 8 were <=2 goals.",
+  "trends": {
+   "game_totals": "Korabi matches: Over 2.5 in 2 of 8; HT 0-0 in 7 of 8",
+   "team_totals": "Korabi failed to score in 6 of 8",
+   "first_half": "Korabi games are 0-0 at HT in 7 of 8",
+   "handicap": "Besa beat Korabi 2-0 on 24 Oct",
+   "corners": "n/a"
+  },
+  "h2h": "24 Oct 2026 league: Besa 2-0 Korabi.",
+  "absences": "None found.",
+  "context": "Albanian Cup round of 32 (1/16), 13:00 local, between second-tier sides. Thin/regional competition, and the format (one or two legs) is unconfirmed. Board Over 2.5 p0.67 conflicts with Korabi's low-scoring record.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 2.5 1.40 (Korabi games mostly <=2 goals)",
+   "Unders (amateur/regional ban)",
+   "Besa 1X2 (knockout result-side)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://gijotina.com/kupa-shqiperise/",
+   "https://www.korcaboom.com/sq/post/sk%C3%ABnderbeu-ja-kur-luhen-ndeshjet-e-kup%C3%ABs-p%C3%ABrballja-ndaj-apolonis%C3%AB-pogradeci-pret-kuk%C3%ABsin-m%C3%ABsoni",
+   "https://www.sofascore.com/football/match/korabi-peshkopi-besa-kavaje/qecscIGb"
+  ]
+ },
+ {
+  "eid": "sr:match:76251048",
+  "fx": "Bylis Ballsh v KS Beselidhja",
+  "home_form": "Bylis: W2-1, W0-2 at Burreli, D0-0, D2-2, D0-0, W1-0, W4-1, D1-1. Unbeaten in 8.",
+  "away_form": "Beselidhja: L0-1, W0-1, W5-2, L0-1, W4-1, D0-0, W2-1, W2-1.",
+  "trends": {
+   "game_totals": "Bylis: 4 of 8 <=1 goal",
+   "team_totals": "n/a",
+   "first_half": "many 0-0 HTs",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "none recent found",
+  "absences": "None found.",
+  "context": "Albanian Cup 1/16, second-tier sides, thin competition, format unconfirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Result-sides (knockout)",
+   "Unders (regional ban)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://gijotina.com/kupa-shqiperise/",
+   "https://www.korcaboom.com/sq/post/sk%C3%ABnderbeu-ja-kur-luhen-ndeshjet-e-kup%C3%ABs-p%C3%ABrballja-ndaj-apolonis%C3%AB-pogradeci-pret-kuk%C3%ABsin-m%C3%ABsoni",
+   "https://www.sofascore.com/football/match/korabi-peshkopi-besa-kavaje/qecscIGb"
+  ]
+ },
+ {
+  "eid": "sr:match:76251040",
+  "fx": "KS Pogradeci v FK Kukesi",
+  "home_form": "Pogradec: W1-0, L2-3, D0-0, D2-2, D2-2, W0-2, W7-0, D0-0.",
+  "away_form": "Kukesi: W2-0, L0-2, W1-0, W1-2, W2-0 v Besa, L0-1, W3-2, W3-0.",
+  "trends": {
+   "game_totals": "mixed: about 4 of 8 over 2.5 for each",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "None found.",
+  "context": "Albanian Cup 1/16 (local press confirms 'Pogradeci pret Kukesin'), second-tier, thin competition.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 2.5 1.38 (no fixture-specific support)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://gijotina.com/kupa-shqiperise/",
+   "https://www.korcaboom.com/sq/post/sk%C3%ABnderbeu-ja-kur-luhen-ndeshjet-e-kup%C3%ABs-p%C3%ABrballja-ndaj-apolonis%C3%AB-pogradeci-pret-kuk%C3%ABsin-m%C3%ABsoni",
+   "https://www.sofascore.com/football/match/korabi-peshkopi-besa-kavaje/qecscIGb"
+  ]
+ },
+ {
+  "eid": "sr:match:75049112",
+  "fx": "CR Temouchent v Js El Biar",
+  "home_form": "Temouchent (9th): D1-1, D1-1, W1-2 at Setif, D1-1, L0-2 at home to Rouissat, L0-1, W1-0, L0-2. Five of the last 8 had <=2 goals; home record D,D,L,W.",
+  "away_form": "JS El Biar (8th): W1-0 MC Alger, L0-1, D0-0, W2-4 at Constantine, L2-3, D2-2, W4-0, L0-2.",
+  "trends": {
+   "game_totals": "Temouchent games: 7 of 8 <=2 goals",
+   "team_totals": "Temouchent scored <=1 in 8 of 8",
+   "first_half": "mostly 0-0/0-1 HT",
+   "handicap": "tight",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "None found.",
+  "context": "Ligue 1 Mobilis round 10, Stade Ouisef-Omar, 16:45 GMT (consistent with the board). Low-scoring league.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Overs",
+   "Unders below p0.82"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://sportnewsafrica.com/actualites/calendrier-ligue-1-algerienne-programme-et-horaires-de-la-semaine-18-19-novembre-2026/",
+   "https://lematindalgerie.com/ligue-1-mobilis-le-mco-coleader-la-jseb-gagne-a-constantine/"
+  ]
+ },
+ {
+  "eid": "sr:match:75049120",
+  "fx": "CS Constantine v Ben Aknoun",
+  "home_form": "CSC (14th): L0-1, L0-2 at home to USMA, L3-0, L2-4 at home to El Biar, L2-0, W4-0, L5-1, W3-0. Lost 5 in a row.",
+  "away_form": "Ben Aknoun (11th): L0-1, D1-1, D0-0, L2-1, D2-2, D1-1, D2-2, W0-1. Draw-heavy.",
+  "trends": {
+   "game_totals": "CSC games recently high-variance",
+   "team_totals": "CSC failed to score in 4 of the last 5",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "None found.",
+  "context": "Round 10 at Stade Chahid-Hamlaoui, 16:45 GMT. CSC is in a crisis run (5 straight defeats).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "CSC 1X2 2.10 / CSC handicaps (5 straight defeats)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://sportnewsafrica.com/actualites/calendrier-ligue-1-algerienne-programme-et-horaires-de-la-semaine-18-19-novembre-2026/",
+   "https://lematindalgerie.com/ligue-1-mobilis-le-mco-coleader-la-jseb-gagne-a-constantine/"
+  ]
+ },
+ {
+  "eid": "sr:match:76845258",
+  "fx": "Always Ready v Real Potosi",
+  "home_form": "Always Ready (El Alto, ~4,000 m): W2-0, D0-0, W3-2, W4-1 away, W3-1 away, W5-1, D1-1, L2-1. Already qualified for the Libertadores.",
+  "away_form": "Real Potosi: W0-2, D5-5, D1-1, L1-0 at Bolivar, D1-1, L2-1, W3-1 Bolivar, W0-1. Also an altitude side (Potosi ~3,900 m), so the usual El Alto edge is blunted.",
+  "trends": {
+   "game_totals": "Always Ready home: 2,3,5,2 goals; Potosi: 2,10,2,1,2,3,4,1",
+   "team_totals": "Potosi scored in 6 of 8",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Only one official meeting: Aug 2026 1-1 (league).",
+  "absences": "None found.",
+  "context": "Copa Bolivia FINAL, 1st leg (2nd leg Nov 25 in Potosi). Venue: Estadio Municipal de Villa Ingenio, El Alto. Local kickoff reported 19:00-21:00 in different outlets (board 23:30 UTC = 19:30 local, consistent with Bolivia.com). Finalists in a two-legged tie: first legs are often cagey.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Always Ready 1X2 1.35 (first leg of a final; Potosi also an altitude team)",
+   "Over 2.5 (cagey first leg)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lostiempos.com/deportes/futbol/20261116/always-ready-real-potosi-dirimiran-titulo-copa-bolivia-2026",
+   "https://www.bolivia.com/futbol/liga-boliviana/asi-quedaron-los-partidos-por-la-final-de-la-copa-pacena-2026-612812",
+   "https://diez.bo/futbol/always-ready-y-real-potosi-van-por-el-titulo-conozca-cuando-se-juegan-las-finales-de-la-copa-bolivia_1794924321"
+  ]
+ },
+ {
+  "eid": "sr:match:66887172",
+  "fx": "Coritiba FC PR v Santos FC SP",
+  "home_form": "Coritiba (13th, 42 pts, 5 pts clear of the drop): L0-1 at Inter, W2-0 Vitoria, L0-1 Gremio, L1-0 at Atletico MG, D1-1 Botafogo, L4-0, L5-0, D3-3. Home: W,L,D,D.",
+  "away_form": "Santos (9th, 47 pts, chasing a Libertadores place), winless in 3: L2-1 at Bragantino, D0-0 Palmeiras, D1-1 Bahia, then W at Fluminense, L at Atletico MG, D2-2 Flamengo, W at Sao Paulo, W at Remo. Away form decent (3W in the last 5 away).",
+  "trends": {
+   "game_totals": "Coritiba home games: 2,1,2,6 goals; Coritiba scored 0 in 4 of the last 6",
+   "team_totals": "Coritiba Over 0.5 weak (scored in 3 of 8)",
+   "first_half": "Coritiba HT 0-0 in 4 of the last 5",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "Coritiba: GK Pedro Morisco called up by Brazil; Lucas Ronier out. Santos: Neymar returns from a 2-match ban; Willian Arao and Escobar back. Interim coach Guila Bossle.",
+  "context": "Round 35, Couto Pereira, 19:30 BRT (22:30 UTC, consistent with the board).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 1.5/2.5 (Brazil scoring below the 2.7 threshold; Coritiba blanks)",
+   "Santos 1X2 2.15 (away result-side, p<0.75)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.dgabc.com.br/Noticia/4369348/santos-x-coritiba-pelo-brasileirao-veja-onde-assistir-e-as-provaveis-escalacoes",
+   "https://www.gazetaesportiva.com/times/santos/santos-coritiba-brasileirao-retorno-neymar-libertadores/",
+   "https://khelnow.com/football/coritiba-vs-santos-preview-campeonato-brasileiro-serie-a-202611"
+  ]
+ },
+ {
+  "eid": "sr:match:66887176",
+  "fx": "Clube do Remo PA v Chapecoense SC",
+  "home_form": "Remo home: W2-1 Botafogo, D1-1 Bragantino, D1-1 Gremio, L1-2 Santos. Away: L6-1 at Palmeiras, L at Cruzeiro, D at Vasco.",
+  "away_form": "Chapecoense ALREADY RELEGATED and the second-worst away team. Away: L3-0 at Bragantino, L1-0 at Botafogo, L4-0 at Vitoria, D1-1. Lost the last 2 at home (0-2 Vasco, 1-2 Mirassol).",
+  "trends": {
+   "game_totals": "Chape away games: 3,1,4,2 goals",
+   "team_totals": "Chape scored 0 in 3 of the last 4 away",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "none recent found",
+  "absences": "Remo: Gabriel Poveda out (thigh), Marllon suspended, Joao Lucas out (meniscus), Jaderson and Matheus Felipe doubtful. Chape: Mauricio Garcez out (leg), Rafael Carvalheira out (ACL).",
+  "context": "Round 35 at the Mangueirao, Belem. Motivation mechanism: Chape relegated with a poor away record; Remo at home. Remo has its own absences (Poveda, Marllon), hence DNB rather than 1X2.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.77319,
+    "why": "Chapecoense already relegated and second-worst away side (0-3, 0-1, 0-4 in recent away games; lost the last 2 at home too); Remo at home. DNB covers the draw given Remo's absences (Poveda, Marllon)."
+   }
+  ],
+  "avoid": [
+   "Remo 1X2 1.59 (Remo missing Poveda and Marllon)",
+   "Chape team Under 1.5 (Unders need p0.82)"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://trivela.com.br/onde-assistir/palpite-escalacoes-remo-x-chapecoense-18-11-2026/",
+   "https://www.futebolinterior.com.br/remo-x-chapecoense-onde-assistir-arbitragem-e-escalacoes/",
+   "https://en.wikipedia.org/wiki/2026_Campeonato_Brasileiro_S%C3%A9rie_A"
+  ]
+ },
+ {
+  "eid": "sr:match:66887158",
+  "fx": "CR Flamengo RJ v CA Paranaense PR",
+  "home_form": "Flamengo: leader with 76 pts, chasing a 6th straight win. W3-1 Gremio, W1-4 at Vasco, W3-2 Atletico MG, W0-3 at Bahia, W1-0 Fluminense (league). They scored 3+ in 4 of the last 5 league games. Arrascaeta back from Uruguay duty. About 65k expected at the Maracana.",
+  "away_form": "Athletico-PR: 5th with 54 pts, 4 without a win in the league (L2-0 at Gremio, L1-3 Vasco, D1-1 at Vitoria).",
+  "trends": {
+   "game_totals": "Flamengo league games: 4,5,5,3,1 goals",
+   "team_totals": "Flamengo scored 2+ in 6 of the last 8",
+   "first_half": "Flamengo led at HT in 4 of the last 5 league games",
+   "handicap": "Flamengo league wins by 2,3,1,3,1",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "Athletico: Kevin Viveros (league top scorer) suspended after a red card; Dantas suspended (3 yellows); Arthur Dias called up by Brazil; Carlos Teran out. Flamengo: Plata and Valencia away with Ecuador; Paqueta doubtful; Danilo (jaw) doubtful.",
+  "context": "Round 35 at the Maracana, 20:30 BRT (23:30 UTC, consistent). Flamengo's next game is a title 'decision' v Palmeiras, but the press says full strength here ('forca maxima'). Mechanism: Athletico without its top scorer plus a suspended CB.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.772096,
+    "why": "Leader on 5 straight wins at a full Maracana; Athletico 4 winless and without top scorer Viveros (red), CB Dantas (ban) and Arthur Dias (Brazil call-up)."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.32,
+    "p": 0.726394,
+    "why": "Flamengo scored 3+ in 4 of the last 5 league games; Athletico's back line is weakened (Dantas suspended, Arthur Dias away)."
+   }
+  ],
+  "avoid": [
+   "Athletico Over 0.5 (top scorer suspended)",
+   "Flamengo -2 (modal win margin 1-2)"
+  ],
+  "confidence": 0.35,
+  "sources": [
+   "https://www.bemparana.com.br/esportes/atletico-paranaense/flamengo-encara-o-athletico-com-forca-maxima-antes-de-decisao-contra-o-palmeiras/",
+   "https://www.itatiaia.com.br/esportes/futebol/futebol-nacional/futebol-do-sul/athletico-pr/sem-viveros-athletico-pr-tera-novo-ataque-contra-o-flamengo-pelo-brasileiro/",
+   "https://www.365scores.com/pt-br/news/magazine/flamengo-x-athletico-pr-escalacoes-analise-jogo-brasileirao/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887168",
+  "fx": "Cruzeiro EC MG v SE Palmeiras SP",
+  "home_form": "Cruzeiro: W3-2 Bahia, W0-1 at Atletico MG, W1-0 Remo, W2-4 at Gremio, L4-2 at Bragantino, W2-0 Sao Paulo. Strong home form.",
+  "away_form": "Palmeiras: D6-6 at Vasco, W6-1 Remo, W1-0 Vasco, D0-0 at Santos, W2-0, W5-4 Fluminense, W0-2 at Athletico. Palmeiras games are wild recently.",
+  "trends": {
+   "game_totals": "Palmeiras last 3: 12, 7, 1 goals",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "Palmeiras: Flaco Lopez a doubt (Vitor Roque to start). Cruzeiro: Fabricio Bruno doubtful (Gustavo Alves).",
+  "context": "Round 35 at the Mineirao. BIG-CLUB CLASH between title-race teams; Palmeiras play Flamengo in a title 'decision' next, and the Libertadores final is due by Nov 28 (Palmeiras' involvement unconfirmed). Rotation risk.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Any result-side (big-club clash)",
+   "Totals below p0.82 (big-club rule)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.dgabc.com.br/Noticia/4369336/cruzeiro-x-palmeiras-veja-onde-assistir-e-as-provaveis-escalacoes",
+   "https://abcdjornal.com.br/esporte/noticia/2026/11/17/confira-a-provavel-escalacao-do-palmeiras-para-enfrentar-o-cruzeiro-3/"
+  ]
+ },
+ {
+  "eid": "sr:match:74835682",
+  "fx": "FC Atletico CE v Ceara SC CE",
+  "home_form": "Atletico-CE: L0-2 at Ceara (12 Nov), L0-2 Vila Real, then a long break since June.",
+  "away_form": "Ceara field their SUB-20 side in the Taca Fares Lopes (the senior side is in Serie B the same week: SR shows Ceara matches on consecutive days).",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "12 Nov 2026: Ceara (U20) 2-0 Atletico-CE (goals Victor The, Ronald).",
+  "absences": "n/a",
+  "context": "Taca Fares Lopes group B. Ceara's team is the U-20 squad (coach Rogerio Ferreira), and the SR feed mixes senior and youth results.",
+  "veto": true,
+  "veto_reason": "Youth side (Ceara U-20 in the Fares Lopes) and mixed senior/youth data in the feed.",
+  "picks": [],
+  "avoid": [
+   "All markets"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://meuvozao.com/noticias-do-ceara/ceara-vence-atletico-flopes/",
+   "https://blogdoeliomar.com/fares-lopes-garotada-do-vozao-vence-atletico-e-segue-na-busca-da-primeira-final/"
+  ]
+ },
+ {
+  "eid": "sr:match:75619104",
+  "fx": "Gazelle FA de Garoua v Aigle Royal Du Moungo",
+  "home_form": "Gazelle: W3-0 Stade Renard, L3-1, L3-1, D0-0 (SR; no HT data).",
+  "away_form": "Aigle Royal: L4-0 at Coton Sport, D1-1, L3-1, W2-1, L2-1.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Jun 2026: Aigle Royal 1-0 Gazelle.",
+  "absences": "None found.",
+  "context": "Elite One. A SportNewsAfrica calendar lists 16:00 GMT; the board says 13:00 UTC, a kickoff-time conflict. That source also has Aigle Royal both 13th and 'leading the table', so the data conflicts.",
+  "veto": true,
+  "veto_reason": "Kickoff-time conflict (board 13:00 UTC vs a 16:00 GMT listing) and contradictory standings data.",
+  "picks": [],
+  "avoid": [
+   "All markets"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://sportnewsafrica.com/actualites/calendrier-elite-one-cameroun-programme-et-horaires-de-la-semaine-18-novembre-2026/",
+   "https://www.camfoot.com/actualites/elite-one-le-championnat-reprend-le-17-septembre,556923.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75619102",
+  "fx": "Coton Sport de Garoua v Stade Renard",
+  "home_form": "Coton Sport (3rd): W4-0 Aigle Royal, W0-2 away, W1-3 away, L1-2 Canon.",
+  "away_form": "Stade Renard (10th): L3-0 at Gazelle, D1-1, L4-0 at Aigle Royal, W2-1, D2-2.",
+  "trends": {
+   "game_totals": "Renard conceded 3+ in 2 of the last 3 away",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "None found.",
+  "context": "Elite One at Stade Roumde Adjia, Garoua. The calendar lists 16:00 GMT; the board says 15:00 UTC (time conflict). Coton Sport's form fits the board's home 1X2 at 1.25, but the source quality is thin.",
+  "veto": true,
+  "veto_reason": "Kickoff-time conflict (board 15:00 UTC vs a 16:00 GMT listing); thin source.",
+  "picks": [],
+  "avoid": [
+   "All markets until the kickoff is confirmed"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://sportnewsafrica.com/actualites/calendrier-elite-one-cameroun-programme-et-horaires-de-la-semaine-18-novembre-2026/",
+   "https://www.camfoot.com/actualites/elite-one-le-championnat-reprend-le-17-septembre,556923.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75724008",
+  "fx": "Bernex Basket v Goldcoast Wallabies",
+  "home_form": "No 2026-27 results found for Bernex.",
+  "away_form": "No 2026-27 results found for Goldcoast.",
+  "trends": {
+   "game_totals": "Last-season H2H totals: 144, 145, 131",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Last-season H2H margins: Bernex +8, Bernex +7, Goldcoast +3",
+   "corners": "n/a"
+  },
+  "h2h": "2025-26: Bernex 76-68, Bernex 76-69, Goldcoast 67-64 (dates differ by source).",
+  "absences": "Unknown.",
+  "context": "Swiss NLB, second tier. No current-season data.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "All (no current data)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://777score.com/basketball/teams/goldcoast-wallabies/results",
+   "https://betsapi.com/tl/770729-26061/Bernex-Basket-in-Switzerland-NLB"
+  ]
+ }
+]

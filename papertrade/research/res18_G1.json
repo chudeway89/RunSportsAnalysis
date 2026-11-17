@@ -1,0 +1,427 @@
+[
+ {
+  "eid": "sr:match:75364744",
+  "fx": "Racing de Chivilcoy v CA Lanus",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Racing de Chivilcoy: 11-09 H Regatas L 68-80 (HT 35-32); 11-04 A Central Cordoba L 71-75 (HT 47-37); 11-02 A Atenas Cordoba L 94-95 (HT 47-42); 10-25 H Quimsa L 54-68 (HT 24-36); 10-24 H Boca Juniors L 72-80 (HT 43-44); 10-16 A Formosa W 74-68 (HT 27-38); 10-14 A Obera Tenis Clu W 84-78 (HT 44-45); 10-11 H Comodoro L 72-78 (HT 37-37); 10-09 H Corrientes W 126-123 (HT 46-41); 04-18 H Regatas L 76-93 (HT 35-43)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Lanus: 11-11 H Formosa W 93-57 (HT 55-27); 11-07 A Quimsa L 71-88 (HT 41-45); 11-05 A La Banda L 94-95 (HT 52-43); 10-30 H Corrientes W 81-72 (HT 39-36); 10-26 H Regatas W 72-63 (HT 37-43); 10-24 A Atenas Cordoba L 69-80 (HT 39-33); 10-22 A Central Cordoba L 73-75 (HT 40-38); 10-20 A Independiente d L 93-108 (HT 40-60); 10-14 H Penarol L 77-84 (HT 43-45); 10-09 H Obera Tenis Clu W 67-58 (HT 37-29)",
+  "trends": "Totals (team-first scores): Racing Chivilcoy last 9 LNB game totals 148,146,189,122,152,142,162,150,249(OT-ish 126-123) - 7/9 under 169.5, median ~150. Lanus last 10: 150,159,189,153,135,149,148,201,161,125 - 8/10 under 169.5, median ~151. Line 158.5 sits above both medians. Team totals: Racing scored 68,71,94,54,72,74,84,72 (house 80.5); Lanus 93,71,94,81,72,69,73,93,77,67 (house 78.5). 1H: low-tempo halves mostly 70-85 combined. Handicap: pick'em; Racing home 1-4 this season (L Regatas -12, L Quimsa -14, L Boca -8, L Comodoro -6, W Corrientes +3), Lanus away 0-5 (L Quimsa -17, La Banda -1, Atenas -11, Central -2, Independiente -15).",
+  "h2h": "No meeting this season in feed.",
+  "absences": "None found in coverage.",
+  "context": "LNB regular season, both bottom-half form (Racing lost 4 of last 5; Lanus 4-6). No date/venue conflict; Sportradar 18/11 00:30 CET = 23:30 UTC 17 Nov, matches board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=169.5",
+    "desc": "Under 169.5",
+    "odds": 1.29,
+    "p": 0.7399161371,
+    "why": "Both sides' games stay low: 7/9 Racing and 8/10 Lanus games finished <=169; only Racing's 126-123 shootout and a few 189-201 games broke it. House p 0.73-0.74, at the basketball totals floor."
+   }
+  ],
+  "avoid": "Either side ML/handicap: Racing 1-4 at home and Lanus 0-5 away cancel out; the main line 158.5 Under at 1.87 is a coin flip.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.diarioepoca.com/1395336-regatas-cierra-el-mes-ante-quimsa",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/75364744"
+  ]
+ },
+ {
+  "eid": "sr:match:75364746",
+  "fx": "Obera Tenis Club v AD Atenas Cordoba",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Obera Tenis Club: 11-09 A Comodoro W 95-92 (HT 42-33); 11-06 H Junín W 98-84 (HT 50-44); 10-25 H Paisas Basketba W 84-83 (HT 44-37); 10-24 A Flamengo L 73-93 (HT 36-43); 10-23 A Defensor Sporti L 69-74 (HT 36-31); 10-18 A San Lorenzo W 78-73 (HT 46-44); 10-16 A Platense L 80-86 (HT 41-41); 10-14 H Racing de Chivi L 78-84 (HT 45-44); 10-09 A Lanus L 58-67 (HT 29-37); 10-08 A Boca Juniors L 73-96 (HT 32-56)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Atenas Cordoba: 11-16 A Formosa L 69-76 (HT 36-44); 11-13 H San Lorenzo W 81-55 (HT 52-26); 11-04 H Comodoro L 76-79 (HT 34-38); 11-02 H Racing de Chivi W 95-94 (HT 42-47); 10-24 H Lanus W 80-69 (HT 33-39); 10-13 H Ferro Carril W 91-86 (HT 40-48); 10-08 A La Banda W 91-87 (HT 38-41); 10-06 A Quimsa L 77-83 (HT 44-43); 05-13 A Junín L 77-88 (HT 45-43); 05-10 A Junín L 53-61 (HT 36-33)",
+  "trends": "Obera home 3-0 this LNB stretch (W Junin 98-84, W Paisas 84-83, L Racing 78-84 earlier at home) and W at Comodoro 95-92; Atenas 5-3 in last 8 incl. W v San Lorenzo 81-55, L at Formosa 69-76 last time. Game totals: Obera 187,182,167,166,143,151,166,162,125,169; Atenas 145,136,155,189,149,177,178,160. Line 160.5 ~ median. Team totals near 80 each, no edge.",
+  "h2h": "None this season.",
+  "absences": "None reported in previews.",
+  "context": "Atenas (3-5 per club preview) seeks recovery in Misiones after the Formosa loss; Obera came off 95-92 win at Gimnasia Comodoro. Venue Estadio Dr Luis Augusto Derna, Tuesday 21:00 local = 00:00 UTC, matches board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result sides (pick em 1.74/2.05); totals at the median.",
+  "confidence": 0.15,
+  "sources": [
+   "https://canalshowsport.com.ar/atenas-va-por-la-recuperacion-en-misiones/",
+   "https://atenas.com.ar/previa-obera-vs-atenas-2/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/75364746"
+  ]
+ },
+ {
+  "eid": "sr:match:75364748",
+  "fx": "Regatas Corrientes v Quimsa Santiogo Del Estero",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Regatas: 11-11 A Junín L 69-79 (HT 43-46); 11-09 A Racing de Chivi W 80-68 (HT 32-35); 11-07 A San Lorenzo L 65-70 (HT 31-31); 10-28 A Boca Juniors L 83-95 (HT 34-55); 10-26 A Lanus L 63-72 (HT 43-37); 10-18 H La Banda L 80-83 (HT 39-42); 10-11 A Corinthians L 63-79 (HT 36-42); 10-11 A CD Jorge Guzman W 77-69 (HT 40-36); 10-09 H Club Nacional L 96-106 (HT 45-50); 10-03 H Central Cordoba W 73-63 (HT 29-31)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Quimsa: 11-16 A Corrientes L 81-86 (HT 42-48); 11-08 H Central Cordoba L 88-92 (HT 51-41); 11-07 H Lanus W 88-71 (HT 45-41); 10-31 H Penarol W 78-73 (HT 38-30); 10-25 A Racing de Chivi W 68-54 (HT 36-24); 10-24 A Junín W 78-76 (HT 46-38); 10-11 H Boca Juniors W 105-96 (HT 49-54); 10-06 H Atenas Cordoba W 83-77 (HT 43-44); 10-04 H Platense W 94-67 (HT 47-28); 06-18 H Comodoro W 88-60 (HT 42-30)",
+  "trends": "Quimsa: 8-2 last 10 (losses at Corrientes 81-86, v Central 88-92). Regatas: 3-7 last 10, lost 5 of last 7 incl. at home v La Banda 80-83. Regatas game totals 148,148,135,178,135,163,142,146,202,136 (low tempo, 7/10 under 158.5); Quimsa 167,180,159,151,122,154,201,160,161 (median ~160). Regatas scored 69,80,65,83,63,80,63,77,96,73 (house team total 76.5-77.5). Handicap: Quimsa -4.5 at 1.78.",
+  "h2h": "No meeting this season in feed.",
+  "absences": "None found.",
+  "context": "Diario Epoca: Quimsa 7-2 sharing top with Penarol; Regatas 2-5. Venue inconsistently named in the same article (Raul Argentino Ortiz v Fortin Rojinegro) - both are Corrientes, Regatas home; not a home/away swap.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Quimsa ML 1.44 (p 0.66) is below the p>=0.75 ML floor despite the form gap; Regatas +10.5/+11.5 catches back a 2-5 side.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.diarioepoca.com/1395336-regatas-cierra-el-mes-ante-quimsa",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/75364748"
+  ]
+ },
+ {
+  "eid": "sr:match:75756104",
+  "fx": "Deportivo Norte de Amrmstrong v Centenario de Venado Tuerto",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Dep. N. Amrmstrong: 11-08 A Deportivo Viedm L 86-95 (HT 44-49); 11-06 A Villa Mitre de  L 55-90 (HT 34-50); 11-04 A Pico Football C L 61-75 (HT 17-39); 10-30 H Union de Mar De W 63-55 (HT 33-27); 10-28 H Gimnasia y Esgr W 73-44 (HT 33-23); 10-24 A Regatas de San  W 72-54 (HT 34-22); 10-19 H Tomas de Rocamo W 65-62 (HT 30-22); 03-26 H Pergamino Baske W 82-58 (HT 38-36); 03-21 H Racing Club de  W 70-65 (HT 37-33); 03-18 A Provincial de R L 67-94 (HT 45-58)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Centenario de Venado Tuerto: 11-15 H Quilmes W 87-80 (HT 42-46); 11-04 H Deportivo Viedm L 79-95 (HT 42-47); 11-02 A Provincial de R W 84-68 (HT 42-30); 10-28 H Union de Mar De W 90-63 (HT 55-27); 10-26 H Gimnasia y Esgr L 58-73 (HT 29-32); 10-20 A Regatas de San  L 78-80 (HT 36-40); 10-17 H Tomas de Rocamo W 88-66 (HT 53-29); 04-11 H Deportivo Viedm L 71-79 (HT 47-38); 04-09 H Deportivo Viedm W 89-84 (HT 35-35); 04-05 A Deportivo Viedm L 91-95 (HT 38-47)",
+  "trends": "Liga Argentina (2nd tier). Dep. Norte: lost last 3 away (86-95, 55-90, 61-75) but 4-0 at home (63-55, 73-44, 65-62, 72-54 away). Centenario: 2-1 last 3 incl. W v Quilmes 87-80. Very low totals: Norte games 181,145,136,118,117,126,127; Centenario 167,174,152,153,131,158,154. Line 144.5.",
+  "h2h": "Not in feed.",
+  "absences": "No coverage.",
+  "context": "Thin second-tier league with little reporting.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything - thin coverage, totals variance high.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.laliganacional.com.ar/laligaargentina",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/75756104"
+  ]
+ },
+ {
+  "eid": "sr:match:75755974",
+  "fx": "Santa Paula de Galvez v Hindu Club",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Santa Paula de Galvez: 11-10 A El Ceibo L 92-96 (HT 54-53); 11-01 H Comunicaciones W 93-87 (HT 42-42); 10-28 A Independiente B L 82-94 (HT 40-54); 10-26 A Amancay de la R W 93-86 (HT 52-44); 10-24 A Riachuelo W 94-82 (HT 54-44); 10-21 H Barrio Parque L 83-89 (HT 51-49); 10-18 H Bochas Sport Cl W 101-74 (HT 58-37); 05-13 A La Union Colon  L 79-82 (HT 35-43); 05-08 H La Union Colon  W 85-71 (HT 47-33); 05-06 H La Union Colon  W 77-62 (HT 39-37)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Hindu Club: 11-06 H Independiente B W 94-65 (HT 49-41); 10-31 H Amancay de la R L 76-80 (HT 35-36); 10-28 H Bochas Sport Cl W 87-84 (HT 38-42); 10-20 A Salta Basket L 74-85 (HT 40-43); 10-18 A Jujuy Basquet W 77-69 (HT 40-34); 03-26 A Fusion Riojana W 96-93 (HT 55-56); 03-24 A Amancay de la R L 77-83 (HT 42-50); 03-20 H Salta Basket L 64-91 (HT 35-45); 03-11 H Bochas Sport Cl L 59-65 (HT 30-48); 03-09 H Colon de Santa  W 97-89 (HT 49-38)",
+  "trends": "Santa Paula: home W 93-87, W 101-74, L 83-89; away 2-2. Hindu: away W 77-69 at Jujuy, L 74-85 at Salta. Totals: Santa Paula games 188,180,176,179,176,172,175 (all over 165.5 except none); Hindu 159,156,171,159,146. Santa Paula -7.5 at 1.83.",
+  "h2h": "None in feed.",
+  "absences": "No coverage.",
+  "context": "Liga Argentina second tier; no previews found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Santa Paula ML 1.25 (p 0.76) passes the price gate but rests only on 7 games of form and a home loss to Barrio Parque; no mechanism.",
+  "confidence": 0.12,
+  "sources": [
+   "https://www.laliganacional.com.ar/laligaargentina",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/75755974"
+  ]
+ },
+ {
+  "eid": "sr:match:75756102",
+  "fx": "Union de Mar Del Plata v Racing Club de Avellaneda",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Union de Mar Del Plata: 11-10 H Villa Mitre de  L 95-99 (HT 49-50); 10-30 A Dep. N. Amrmstr L 55-63 (HT 27-33); 10-28 A Centenario de V L 63-90 (HT 27-55); 10-21 H Central Entrerr W 71-53 (HT 43-26); 10-18 H CA River Plate L 74-83 (HT 45-40); 03-21 A Quilmes L 85-88 (HT 40-47); 03-14 H La Union Colon  L 58-80 (HT 34-41); 03-10 A Centenario de V W 93-92 (HT 56-43); 03-09 A Dep. N. Amrmstr L 72-80 (HT 27-49); 03-06 A Provincial de R L 90-95 (HT 42-43)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Racing Club de Avellaneda: 11-13 H Gimnasia y Esgr L 74-81 (HT 36-37); 11-09 H Pico Football C W 73-61 (HT 33-28); 10-29 H La Union Colon  W 85-71 (HT 49-36); 10-27 A Regatas de San  L 104-108 (HT 49-46); 04-13 A Gimnasia y Esgr L 72-77 (HT 42-39); 04-10 H Gimnasia y Esgr W 83-68 (HT 43-39); 04-08 H Gimnasia y Esgr W 99-74 (HT 55-48); 04-04 A Gimnasia y Esgr L 72-87 (HT 39-50); 04-02 A Gimnasia y Esgr L 81-85 (HT 47-43); 03-28 H Provincial de R L 63-77 (HT 31-41)",
+  "trends": "Union MdP: 1-4 this season (L 95-99 home v Villa Mitre, L 55-63, L 63-90, W 71-53, L 74-83 home). Racing Avellaneda 2-2 (L 74-81 home v Gimnasia, W 73-61, W 85-71, L 104-108). Totals around 150-160.",
+  "h2h": "None this season.",
+  "absences": "No coverage.",
+  "context": "Second tier; Racing favourite 1.48 (p 0.63).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Racing ML/handicap: p 0.63 and Racing lost last home game.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.laliganacional.com.ar/laligaargentina",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/75756102"
+  ]
+ },
+ {
+  "eid": "sr:match:72016896",
+  "fx": "New Zealand Breakers v SE Melbourne Phoenix",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): New Zealand Breakers: 11-15 A Sydney L 102-111 (HT 45-45); 11-13 H Brisbane W 94-90 (HT 40-40); 11-06 A Tasmania Jackju L 77-79 (HT 43-43); 11-02 A Melbourne Utd. L 74-94 (HT 39-43); 10-30 H Adelaide 36ers L 101-108 (HT 44-56); 10-25 A Cairns L 84-86 (HT 46-39); 10-18 A Tasmania Jackju L 92-98 (HT 51-53); 10-14 A Sydney W 102-101 (HT 51-61); 10-10 A Perth L 84-100 (HT 38-41); 10-04 A Adelaide 36ers W 88-72 (HT 48-42)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): SE Melbourne: 11-14 A Melbourne Utd. L 95-102 (HT 39-64); 11-11 H Illawarra Hawks L 110-120 (HT 54-71); 11-08 A Sydney L 99-110 (HT 51-54); 11-01 H Tasmania Jackju L 89-98 (HT 39-57); 10-24 H Adelaide 36ers W 108-94 (HT 72-43); 10-17 H Cairns W 115-83 (HT 62-54); 10-15 A Brisbane L 105-115 (HT 55-56); 10-10 H Melbourne Utd. L 99-104 (HT 53-45); 10-04 H Illawarra Hawks W 113-96 (HT 59-41); 10-02 A Perth L 88-92 (HT 46-48)",
+  "trends": "Phoenix game totals last 10: 197,230,209,187,202,198,220,203,209,180 (9/10 over 181.5); Phoenix allowing 102,120,110,98 in the 4-game losing run. Breakers: 213,184,209,190,203,184,160,156,168,170 (6/10 over 181.5). Phoenix team total 96.5 v Breakers who conceded 111,90,79,94,108. 1H: Phoenix 1H totals 103,125,105,96,115,116 - fast starts. Handicap: pick'em (Breakers +1.5).",
+  "h2h": "Not this season in feed.",
+  "absences": "Breakers: Mennenga ill (12 pts across two games), new signing Skylar Mays touch-and-go (immigration), Parker Jackson-Cartwright out for season, Carlin Davison running point. Phoenix: Hunter Goodrick returns from knee injury; Daniel Foster out (back).",
+  "context": "Ignite Cup game at Spark Arena, Auckland (Breakers home - consistent). Breakers' third game in six days after a double-OT loss at Sydney (111-102); Phoenix on a 4-game losing streak.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=181.5",
+    "desc": "Over 181.5",
+    "odds": 1.27,
+    "p": 0.751632,
+    "why": "Phoenix games went over 181.5 in 9 of the last 10 (allowing 98-120 in the losing run); Breakers' last two went 213 and 184. Fatigue for Breakers hurts defence more than pace. House p 0.73."
+   }
+  ],
+  "avoid": "Result sides: Breakers depleted/tired but Phoenix lost 4 straight; DNB either way is a coin flip.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.semphoenix.com.au/news/match-preview-phoenix-look-to-reignite-season-against-breakers-in-new-zealand",
+   "https://www.freetips.com/basketball/new-zealand-breakers-vs-south-east-melbourne-tips-20261117-0027/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72016896"
+  ]
+ },
+ {
+  "eid": "sr:match:74320770",
+  "fx": "SC Corinthians Paulista v CA Paulistano SP",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Corinthians: 11-14 H Osasco W 84-74 (HT 47-41); 11-12 H Pinheiros L 79-91 (HT 39-37); 11-09 A Fortaleza Ceare W 75-68 (HT 34-33); 11-06 A Unifacisa L 79-84 (HT 38-39); 10-26 H Sesi/Franca W 78-48 (HT 42-23); 10-22 A Brasilia L 92-104 (HT 45-46); 10-17 A Mogi das Cruzes L 73-84 (HT 38-44); 10-11 H Regatas W 79-63 (HT 42-36); 10-10 A Club Nacional L 90-97 (HT 43-48); 10-10 A CD Jorge Guzman L 96-97 (HT 51-44)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Paulistano: 11-13 A Sao Jose L 65-79 (HT 42-42); 11-07 A Fortaleza Ceare L 58-65 (HT 29-28); 11-04 A Unifacisa L 63-71 (HT 35-40); 10-30 H Bauru W 83-75 (HT 52-35); 10-28 H Sesi/Franca W 65-62 (HT 36-26); 10-24 A Brasilia L 73-91 (HT 38-54); 10-21 A Pato W 80-74 (HT 33-28); 09-29 H Sesi/Franca L 68-69 (HT 26-39); 09-27 H Sesi/Franca L 66-81 (HT 39-48); 09-22 A Sesi/Franca L 59-80 (HT 22-47)",
+  "trends": "Paulistano scored 65,58,63,83,65,73,80,68,66,59 (7/10 under 72.5; 3 straight road losses scoring 58-65). Paulistano game totals 144,123,134,158,127,164,154,137,147,139 (8/10 under 150.5); Corinthians 158,170,143,163,126,196,157,142,187,193 (6/10 over). Corinthians home 3-1 incl. 78-48 v Franca; -5.5 at 1.90.",
+  "h2h": "No meeting in feed this season.",
+  "absences": "None found.",
+  "context": "NBB, Tuesday 17 Nov 20:30 BRT at Ginasio Wlamir Marques (Corinthians home) = 23:30 UTC, matches board; ESPN/Disney+.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Game Over: Paulistano plays at one of the slowest tempos in NBB. Paulistano team-total Under 72.5 (1.93, p 0.48) is the trend-backed lean but outside the price/p gates for a firm pick.",
+  "confidence": 0.18,
+  "sources": [
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/17/corinthians-recebe-paulistano-em-rodada-do-nbb-veja-onde-assistir",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/74320770"
+  ]
+ },
+ {
+  "eid": "sr:match:74320772",
+  "fx": "Sesi/Franca BC SP v Caxias Do Sul",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Sesi/Franca: 11-12 A Botafogo W 83-60 (HT 35-35); 11-10 A Flamengo W 84-73 (HT 47-38); 11-05 H Cruzeiro Basque W 98-77 (HT 45-35); 11-03 H Minas Tenis L 76-87 (HT 40-44); 10-28 A Paulistano L 62-65 (HT 26-36); 10-26 A Corinthians L 48-78 (HT 23-42); 10-21 H Mogi das Cruzes W 90-74 (HT 48-49); 10-19 H Sao Jose W 90-59 (HT 42-32); 10-15 H Mogi das Cruzes L 53-68 (HT 32-37); 10-12 A Mogi das Cruzes W 68-66 (HT 36-42)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Caxias Do Sul: 11-12 H Pato L 77-79 (HT 40-35); 11-07 H Brasilia L 55-76 (HT 23-48); 11-02 A Pinheiros L 53-91 (HT 21-45); 10-30 A Flamengo L 59-77 (HT 27-35); 10-28 A Botafogo L 82-84 (HT 40-36); 10-20 H Minas Tenis L 66-78 (HT 33-43); 10-17 H Cruzeiro Basque L 61-72 (HT 39-33); 10-10 H Basquete de Tat W 86-72 (HT 41-30); 10-09 A Brasilia L 56-86 (HT 24-40); 10-07 A Fluminense FC R W 83-66 (HT 38-32)",
+  "trends": "Caxias: lost 7 of last 8 (77-79, 55-76, 53-91, 59-77, 82-84, 66-78, 61-72), scoring 53-82. Franca: won last 3 (incl. road 83-60 Botafogo, 84-73 Flamengo) and home 98-77 v Cruzeiro, but home losses to Minas and Mogi. Franca -14.5 at 1.90.",
+  "h2h": "None in feed.",
+  "absences": "None found.",
+  "context": "NBB, Wed 18 Nov 19:30 BRT at Pedrocao, Franca (=22:30 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Franca -14.5 (p 0.49) and any Caxias catch (weak receiver; lost by 38 at Pinheiros, 21 v Brasilia). Caxias team total 65.5 Under is plausible but p 0.48.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/17/corinthians-recebe-paulistano-em-rodada-do-nbb-veja-onde-assistir",
+   "https://francabasquete.com.br/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/74320772"
+  ]
+ },
+ {
+  "eid": "sr:match:72627106",
+  "fx": "Basket Brno v BK Nova Hut Ostrava",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Basket Brno: 11-14 H Pardubice L 108-109 (HT 35-30); 11-07 H BK Hradec Kralo W 82-64 (HT 40-32); 11-04 H BK Olomoucko W 81-76 (HT 43-33); 10-28 H Srsni Pisek L 82-95 (HT 45-52); 10-24 A Opava W 75-72 (HT 50-33); 10-18 H Prague W 91-80 (HT 41-31); 10-11 A BK Lokomotiva P W 83-69 (HT 48-28); 10-04 A Usti nad Labem L 68-83 (HT 29-42); 09-30 A Decin L 78-86 (HT 33-49); 09-26 H SK Slavia Pragu L 96-108 (HT 45-53)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): NH Ostrava: 11-14 H Opava W 77-72 (HT 39-37); 11-07 H Prague L 82-85 (HT 44-47); 10-31 H BK Lokomotiva P W 82-64 (HT 42-26); 10-28 H Usti nad Labem W 82-61 (HT 36-34); 10-24 A Decin L 76-87 (HT 31-49); 10-17 H SK Slavia Pragu W 91-79 (HT 30-48); 10-03 A Pardubice L 98-110 (HT 50-49); 09-30 H BK Hradec Kralo W 89-82 (HT 51-41); 09-27 A BK Olomoucko L 76-77 (HT 43-45); 09-23 H Basket Brno W 85-76 (HT 39-31)",
+  "trends": "Brno home 4-3 (incl. L 108-109 v Pardubice, W 82-64 v Hradec); Ostrava away 1-3 recently (L Decin, L Pardubice, W Olomoucko? L 76-77). Ostrava won the earlier meeting 85-76. Totals: Brno games 217,146,157,177,147,171,152,151,164,204; Ostrava 149,167,146,143,163,170,208,171,153,161. Line 163.5.",
+  "h2h": "Ostrava 85-76 Brno (23 Sep, Ostrava home).",
+  "absences": "None found.",
+  "context": "Maxa NBL round 13, 18 Nov 18:00 local (17:00 UTC), matches board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything - near pick em, mixed trends.",
+  "confidence": 0.12,
+  "sources": [
+   "https://nbl.basketball/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72627106"
+  ]
+ },
+ {
+  "eid": "sr:match:72627104",
+  "fx": "BK Lokomotiva Plzen v Sluneta Usti nad Labem",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): BK Lokomotiva Plzen: 11-14 A Decin L 79-100 (HT 44-54); 11-06 A SK Slavia Pragu L 82-114 (HT 40-63); 10-31 A NH Ostrava L 64-82 (HT 26-42); 10-28 A Pardubice L 74-98 (HT 39-45); 10-25 H BK Hradec Kralo L 77-84 (HT 42-48); 10-16 A BK Olomoucko W 81-72 (HT 45-37); 10-11 H Basket Brno L 69-83 (HT 28-48); 10-03 A Opava L 82-92 (HT 43-41); 09-30 H Prague L 81-84 (HT 45-37); 09-27 H Srsni Pisek L 81-88 (HT 31-55)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Usti nad Labem: 11-15 A Srsni Pisek L 98-107 (HT 37-46); 11-07 A Decin L 66-92 (HT 34-49); 11-01 H SK Slavia Pragu L 89-91 (HT 53-47); 10-28 A NH Ostrava L 61-82 (HT 34-36); 10-25 H Pardubice L 64-83 (HT 33-50); 10-17 A BK Hradec Kralo W 111-95 (HT 56-43); 10-11 H BK Olomoucko W 102-66 (HT 45-31); 10-04 H Basket Brno W 83-68 (HT 42-29); 09-30 H Opava W 86-76 (HT 50-38); 09-26 A Prague W 89-80 (HT 32-44)",
+  "trends": "Plzen 1-9 last 10, lost last 5 by 21,32,18,24,7; conceding 100,114,82,98. Usti 5-5 but lost last 5 (incl. 66-92 at Decin). Usti -15.5 at 1.95. Totals: Plzen 179,196,146,172,161,153,152,174,165,169; Usti 205,158,180,143,147,206,168,151,162,169. Line 171.5.",
+  "h2h": "None this season in feed.",
+  "absences": "None found.",
+  "context": "Round 13 at Plzen. Usti a 15-point road favourite while on a 5-game losing run - market must be pricing Plzen roster weakness.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Usti -15.5 (losing run) and Plzen +15.5 (catch of 15+ for a 1-9 side, L26 class).",
+  "confidence": 0.12,
+  "sources": [
+   "https://nbl.basketball/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72627104"
+  ]
+ },
+ {
+  "eid": "sr:match:72627110",
+  "fx": "USK Prague v BK Decin",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Prague: 11-15 A SK Slavia Pragu L 71-97 (HT 39-44); 11-11 A BK Jiskra Domaz W 105-68; 11-07 A NH Ostrava W 85-82 (HT 47-44); 10-31 H Pardubice L 85-102 (HT 47-53); 10-28 A BK Hradec Kralo W 93-85 (HT 45-43); 10-24 H BK Olomoucko W 85-61 (HT 46-26); 10-18 A Basket Brno L 80-91 (HT 31-41); 10-10 H Opava L 88-97 (HT 43-45); 10-03 H Srsni Pisek W 105-89 (HT 47-44); 09-30 A BK Lokomotiva P W 84-81 (HT 37-45)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Decin: 11-14 H BK Lokomotiva P W 100-79 (HT 54-44); 11-11 H Pardubice L 75-81 (HT 33-41); 11-07 H Usti nad Labem W 92-66 (HT 49-34); 11-04 A SK Slavia Pragu L 78-89 (HT 41-45); 11-01 A Srsni Pisek L 84-99 (HT 46-50); 10-24 H NH Ostrava W 87-76 (HT 49-31); 10-17 A Pardubice W 82-79 (HT 40-54); 10-10 A BK Hradec Kralo L 93-99 (HT 36-47); 10-04 A BK Olomoucko W 76-51 (HT 40-30); 09-30 H Basket Brno W 86-78 (HT 49-33)",
+  "trends": "USK Prague home 3-2 (L Pardubice, L Opava; W Olomoucko +24, W Pisek +16). Decin away 2-3 (L Slavia, L Pisek, W Pardubice, L Hradec, W Olomoucko). Totals: USK 168,173,167,187,178,146,171,185,194,165; Decin 179,156,158,167,183,163,161,192,127,164. Line 165.5.",
+  "h2h": "None in feed.",
+  "absences": "None found.",
+  "context": "Round 13. Pick em (USK -2.5).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.12,
+  "sources": [
+   "https://nbl.basketball/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72627110"
+  ]
+ },
+ {
+  "eid": "sr:match:72627112",
+  "fx": "BK Gapa Hradec Kralove v Sokol Pisek",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): BK Hradec Kralove: 11-14 H BK Olomoucko W 106-82 (HT 60-44); 11-10 A Svitavy W 91-85 (HT 47-39); 11-07 A Basket Brno L 64-82 (HT 32-40); 11-01 A Opava L 75-83 (HT 39-39); 10-28 H Prague L 85-93 (HT 43-45); 10-25 A BK Lokomotiva P W 84-77 (HT 48-42); 10-17 H Usti nad Labem L 95-111 (HT 43-56); 10-10 H Decin W 99-93 (HT 47-36); 10-03 H SK Slavia Pragu L 75-101 (HT 39-53); 09-30 A NH Ostrava L 82-89 (HT 41-51)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Srsni Pisek: 11-15 H Usti nad Labem W 107-98 (HT 46-37); 11-08 A BK Olomoucko W 92-65 (HT 31-25); 11-01 H Decin W 99-84 (HT 50-46); 10-28 A Basket Brno W 95-82 (HT 52-45); 10-23 H SK Slavia Pragu L 81-89 (HT 56-51); 10-17 A Opava W 88-77 (HT 43-42); 10-03 A Prague L 89-105 (HT 44-47); 09-30 H Pardubice L 82-92 (HT 44-50); 09-27 A BK Lokomotiva P W 88-81 (HT 55-31); 09-23 H BK Hradec Kralo W 111-87 (HT 55-50)",
+  "trends": "Pisek 7-3 last 10, won last 4 (107-98 v Usti, 92-65 at Olomoucko, 99-84 v Decin, 95-82 at Brno). Hradec 4-6, home 2-3 (W Olomoucko 106-82, W Decin; L Prague, Usti, Slavia). Totals: Pisek 205,157,183,177,170,165,194,174,169,198; Hradec 188,176,146,158,178,161,206,192,176,171. Line 177.5. Pisek team total 92.5 (Pisek scored 107,92,99,95,81,88,89,82,88,111).",
+  "h2h": "Pisek 111-87 Hradec (23 Sep, Pisek home).",
+  "absences": "None found.",
+  "context": "Round 13, GAPA Arena Hradec 19:00 local (18:00 UTC), matches board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pisek ML 1.31 (p 0.73) just below the ML p>=0.75 floor; Pisek -7.5 at 1.90 is a coin flip despite the 24-point H2H.",
+  "confidence": 0.18,
+  "sources": [
+   "https://nbl.basketball/",
+   "https://cz.basketeurope.com/rozpis/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72627112"
+  ]
+ },
+ {
+  "eid": "sr:match:72663222",
+  "fx": "Randers Cimbria v Horsens IC",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Randers: 11-12 H Naestved W 98-84 (HT 47-44); 11-07 A Copenhagen W 96-90 (HT 50-44); 10-30 H Gladsaxe W 110-80 (HT 57-33); 10-23 A Horsens L 84-94 (HT 46-46); 10-18 H Herlev Wolfpack W 93-71 (HT 49-36); 10-10 A Bakken L 86-103 (HT 41-54); 10-03 H Bears W 117-73 (HT 45-38); 09-27 A Vaerlose W 89-85 (HT 36-36); 09-23 H Svendborg L 83-96 (HT 37-43); 09-17 A Holbaek-Stenhus W 100-84 (HT 54-54)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Horsens: 11-08 H Herlev Wolfpack W 98-57 (HT 52-23); 11-04 A Bears W 93-84 (HT 47-33); 10-28 A BK Vejen81 W 102-66 (HT 56-38); 10-23 H Randers W 94-84 (HT 46-46); 10-15 H Holbaek-Stenhus W 97-83 (HT 53-46); 10-10 A Copenhagen W 80-69 (HT 37-42); 10-02 H Vaerlose W 99-79 (HT 46-41); 09-27 H Naestved L 73-101 (HT 36-59); 09-24 A Bakken L 64-83 (HT 34-46); 09-17 A Svendborg W 92-70 (HT 40-38)",
+  "trends": "Randers home 5-1 (wins by 14,30,22,44; L Svendborg -13). Horsens 8-2, beat Randers 94-84 (23 Oct); Horsens away 3-3 (W Bears +9, W Vejen +36, W Copenhagen +11; L Bakken -19, L Svendborg -22). Totals: Randers 182,186,190,178,164,189,190,174,179,184; Horsens 155,177,168,178,180,149,178,174,147,162. Line 174.5.",
+  "h2h": "Horsens 94-84 Randers (23 Oct).",
+  "absences": "None found.",
+  "context": "Basketligaen; time differs by source (14:00/17:30/19:30 unlabelled time zones) - date agrees 18 Nov; Randers 6-3, Horsens 8-2.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Horsens +9.5/+10.5 catches: Randers have won 4 of 5 home games by 14+.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.xscores.com/basketball/match/randers-cimbria-vs-horsens-ic/18-11-2026/2846222",
+   "https://basketball.realgm.com/international/league/67/Danish-Basketligaen/team/1239/Randers-Cimbria",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72663222"
+  ]
+ },
+ {
+  "eid": "sr:match:73455570",
+  "fx": "KK Mornar Bar v KK Vojvodina",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Mornar Bar: 11-14 A Kk Lim W 119-66 (HT 61-35); 11-06 H Teodo W 91-89 (HT 49-44); 11-02 A Lovcen Cetinje W 79-71 (HT 40-42); 10-30 A Sencur L 71-81 (HT 41-44); 10-24 H Kk Vukovi Zeta W 83-71 (HT 45-42); 10-21 A Borac Banja Luk W 77-73 (HT 42-33); 04-28 H Buducnost L 76-103 (HT 36-57); 04-24 A Buducnost L 89-105 (HT 44-63); 04-18 A Kk Primorje Hn  W 100-98 (HT 61-49); 04-11 H Kk Primorje Hn  W 99-87 (HT 48-52)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Vojvodina: 11-13 A Kk Nis 1996 W 76-62 (HT 38-24); 11-06 H SPD Radnicki Kr W 101-69 (HT 48-34); 11-01 A Kk Dynamic L 64-81 (HT 30-32); 10-29 H Borac Banja Luk W 76-62 (HT 34-27); 10-23 H Bkk Radnicki Be W 74-54 (HT 34-32); 10-18 H Kk Cacak 94 W 90-82 (HT 49-42); 10-14 H Sencur W 79-76 (HT 42-37); 10-11 A Kk Metalac W 81-73 (HT 44-31); 10-04 H Zemun W 79-77 (HT 41-44); 04-25 H OKK Beograd L 75-100 (HT 43-58)",
+  "trends": "Mornar 5-1 this season incl. 77-73 at Borac and 119-66 at Lim; lone loss 71-81 at Sencur. Vojvodina 8-1 in last 9 (only L 64-81 at Dynamic), home 6-0. Totals: Mornar 185,180,150,152,154,150; Vojvodina 138,170,145,138,128,172,155,154,156. Line 156.5.",
+  "h2h": "None this season.",
+  "absences": "None found.",
+  "context": "ABA League 2 Group A round 3 (group winner to QF). Mornar home. ",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - line pick em (Mornar +2.5), both in form.",
+  "confidence": 0.12,
+  "sources": [
+   "https://druga.aba-liga.com/team/38/26/2/0/mornar-barsko-zlato/",
+   "https://barinfo.me/aba-2-liga-kosarkasi-mornara-na-otvaranju-sezone-pobijedili-banjalucki-borac-u-gostima/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/73455570"
+  ]
+ },
+ {
+  "eid": "sr:match:75400758",
+  "fx": "KK Borac Banja Luka v KK Sencur",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Borac Banja Luka: 11-13 H Kk Igman Burch W 82-78 (HT 50-42); 11-07 A Zivinice L 76-80 (HT 32-46); 11-02 H Kk Orlovik Zepc W 95-72 (HT 46-34); 10-29 A Vojvodina L 62-76 (HT 27-34); 10-25 A Leotar Trebinje L 75-81 (HT 39-38); 10-21 H Mornar Bar L 73-77 (HT 33-42); 10-17 A Kk Promo Donji  L 69-72 (HT 46-33); 10-12 H Zrinjski Mostar W 76-66 (HT 40-34); 10-04 A Kk Radnicki Gor W 87-82 (HT 42-38); 04-18 A Siroki L 87-89 (HT 50-48)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Sencur: 11-11 H KD Ilirija L 87-99 (HT 45-41); 11-07 H Zlatorog W 73-60 (HT 42-38); 10-30 H Mornar Bar W 81-71 (HT 44-41); 10-27 A Krka Novo Mesto L 78-98 (HT 39-49); 10-17 A Nova Gorica Mla W 76-70 (HT 40-30); 10-14 A Vojvodina L 76-79 (HT 37-42); 10-09 H Polzela W 96-81 (HT 51-45); 10-03 A Šentjur W 99-74 (HT 46-34); 09-26 A Kk Rogaska W 92-75 (HT 53-49); 09-08 A Igokea L 52-94",
+  "trends": "Borac 4-5 last 9 (home W 82-78, 95-72, 76-66; home L 73-77 v Mornar). Sencur 6-3 recent Slovenian/ABA2 incl. W 81-71 v Mornar, L 76-79 at Vojvodina. Totals: Borac 160,156,167,138,156,150,141,142,169; Sencur 186,133,152,176,146,155,177,173,167. Line 153.5.",
+  "h2h": "None this season.",
+  "absences": "None found.",
+  "context": "ABA League 2 Group A round 3; Sencur -5.5 road favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://druga.aba-liga.com/team/38/26/2/0/mornar-barsko-zlato/",
+   "https://www.nezavisne.com/sport/kosarka/ABA-liga-2-Borac-nakon-drame-u-Banjaluci-porazen-od-Mornara/988558",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/75400758"
+  ]
+ },
+ {
+  "eid": "sr:match:75123526",
+  "fx": "Goyang Skygunners v Khasiin Khuleguud",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Skygunners: 11-15 H Wonju DB New Ge W 89-83 (HT 51-35); 11-12 A Daegu Pegasus W 88-87 (HT 46-47); 11-10 A Phoebus W 86-79 (HT 47-34); 11-07 A Sakers L 85-86 (HT 45-36); 11-03 A Egis L 102-105 (HT 44-60); 11-01 H Sonicboom L 96-103 (HT 52-50); 10-30 H Thunders L 87-95 (HT 46-56); 10-26 H Sakers L 107-109 (HT 50-55); 10-24 H Egis W 97-96 (HT 46-45); 10-21 A Tainan TSG Ghos W 99-94 (HT 39-56)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Ulaanbaatar Xac Broncos: 10-14 A A. Tokyo L 78-113 (HT 26-47); 05-24 A Dewa United Ban W 84-66 (HT 47-46); 05-23 A South China L 75-90 (HT 35-51); 05-20 H Dewa United Ban L 53-95 (HT 28-60); 05-19 A Johor Southern  W 97-93 (HT 48-41); 05-08 H New Taipei King W 108-75 (HT 60-30); 05-07 H Taoyuan Pilots L 79-80 (HT 47-44); 05-05 H South China L 84-86 (HT 50-43); 04-21 A Taoyuan Pilots L 78-82 (HT 43-46); 04-19 A New Taipei King L 79-80 (HT 41-48)",
+  "trends": "Goyang Sono 3 straight KBL wins (89-83, 88-87, 86-79) after 4-game skid; their games total 172-212. Broncos: only one game since May - lost 78-113 at Alvark Tokyo (EASL, 14 Oct). Goyang -12.5 at 1.87; total 180.5.",
+  "h2h": "None.",
+  "absences": "None reported.",
+  "context": "EASL group game at Goyang Sono Arena, 18 Nov 10:10 (EASL team page). Board name 'Khasiin Khuleguud' = Xac Broncos / South Gobi Broncos (same club, Mongolian name) - not a team conflict. Goyang's first EASL campaign; Broncos rusty (one game in 5 months).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Broncos handicap catch (weak receiver lost by 35 last outing); Goyang -12.5 at p 0.50.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.easl.basketball/teams/xac-broncos",
+   "https://www.broncos.mn/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/75123526"
+  ]
+ },
+ {
+  "eid": "sr:match:74476628",
+  "fx": "Taltech v BK Ventspils",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Taltech: 11-15 A Keila Basket W 97-56 (HT 50-36); 11-11 H Spartak Pleven L 72-76 (HT 28-34); 11-07 A Rigas Zelli L 66-92 (HT 31-42); 11-03 A AEL Limassol BC L 67-74 (HT 32-39); 10-31 A Keila W 79-58 (HT 41-36); 10-28 H Latvijas U. W 78-59 (HT 41-22); 10-24 A Tartu Ulikool/M L 41-65 (HT 24-36); 10-21 H BK Ogre W 82-78 (HT 51-39); 10-16 A Ventspils W 85-82 (HT 33-39); 10-14 A BK Liepaja W 78-71 (HT 33-36)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Ventspils: 11-14 H Vef Riga L 85-96 (HT 45-48); 11-07 A BC Parnu L 80-89 (HT 39-45); 10-30 H Kk Viimsi W 75-60 (HT 41-26); 10-24 A BK Ogre W 92-88 (HT 52-51); 10-16 H Taltech L 82-85 (HT 39-33); 10-11 A Keila Basket W 85-68 (HT 43-29); 10-10 A BC Kalev W 86-73 (HT 40-42); 10-02 H Tartu Ulikool/M W 92-85 (HT 52-55); 09-28 A Latvijas U. W 108-92 (HT 53-43); 09-25 A Valmiera Glass  L 76-98 (HT 41-52)",
+  "trends": "Taltech won at Ventspils 85-82 (16 Oct). Taltech home 3-1 (L 72-76 Pleven in ENBL). Ventspils lost last 2 (85-96 v VEF, 80-89 at Parnu), away 3-3. Totals: Taltech 153,148,158,141,137,137,106,160,167,149; Ventspils 181,169,135,180,167,153,159,177,200,174.",
+  "h2h": "Taltech 85-82 at Ventspils (16 Oct).",
+  "absences": "None found.",
+  "context": "Latvian-Estonian League; fixture not confirmed by a second source (no conflict found either).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/TalTech_Basketball",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/74476628"
+  ]
+ },
+ {
+  "eid": "sr:match:72902110",
+  "fx": "Derthona Basket v Rigas Zelli",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Derthona Basket: 11-15 A Pallacanestro C W 106-92 (HT 50-41); 11-11 H Hapoel Jerusale L 77-91 (HT 50-48); 11-08 H Treviso W 87-76 (HT 44-39); 11-04 A Cedevita Olimpi L 71-73 (HT 36-27); 11-01 A Udine L 77-86 (HT 33-40); 10-28 H Rostock Seawolv W 86-83 (HT 39-44); 10-25 H Napoli Basket L 90-92 (HT 47-41); 10-21 H San Pablo Burgo W 89-79 (HT 36-45); 10-18 H Maxima Roma L 75-89 (HT 38-47); 10-14 A Aris L 68-88 (HT 44-45)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Rigas Zelli: 11-14 H Kk Viimsi W 93-72 (HT 57-30); 11-11 A Aris L 81-105 (HT 32-63); 11-07 H Taltech W 92-66 (HT 42-31); 11-04 H Le Mans L 65-71 (HT 40-28); 10-31 A BC Kalev W 93-87 (HT 45-38); 10-28 A San Pablo Burgo W 79-71 (HT 39-35); 10-24 H Keila W 103-70 (HT 52-39); 10-21 A Hapoel Jerusale L 64-100 (HT 36-50); 10-17 H BK Liepaja W 85-69 (HT 41-34); 10-14 H Cedevita Olimpi W 89-79 (HT 56-40)",
+  "trends": "Derthona Eurocup: L 77-91 Hapoel, L 71-73 at Cedevita/Ljubljana, W 86-83 Rostock, W 89-79 Burgos, L 75-89 Roma, L 68-88 at Aris (3-4). Riga Eurocup 3-4: away L 81-105 Aris, W 79-71 Burgos, L 64-100 Hapoel. Derthona home margin small (+3,+10,-14,-14,-2). Market Derthona -10.5 / ML 1.18 looks steep for two 3-4 sides.",
+  "h2h": "Riga 86-84 Derthona (round 1, Riga).",
+  "absences": "Earlier-season absences Eboua and Di Meo; no current report.",
+  "context": "Eurocup round 8, both 3-4 tied for 4th - playoff-spot six-pointer (Tuttosport, club preview). Tip times differ (17:30 local per Tuttosport vs 16:30 per 365Scores = same 16:30 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derthona ML 1.18 and -10.5: Derthona 3-4 and lost the first meeting; Riga +18.5 catch also avoided (Riga lost away by 24 and 36).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tuttosport.com/news/piemonte-news/2026/11/17-152654880/derthona-riga_zelli_sfida_decisiva_per_un_posto_nei_playoff_di_eurocup",
+   "https://www.derthonabasket.it/sapore-di-spareggio-playoff-con-riga-zelli-in-eurocup-olejniczak-consci-dellimportanza-della-gara/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72902110"
+  ]
+ },
+ {
+  "eid": "sr:match:72902316",
+  "fx": "FC Universitatea Cluj v Maxima Roma",
+  "home_form": "Sportradar last 10 (team score first, HT in brackets): Universitatea Cluj: 11-14 H KD Ilirija W 77-71 (HT 39-28); 11-10 H Turk Telekom L 81-89 (HT 33-52); 11-08 H Bosna Royal L 91-93 (HT 52-42); 11-05 A Canarias L 73-113 (HT 41-59); 11-02 A Partizan Belgra L 77-97 (HT 49-57); 10-27 A Skyliners L 97-113 (HT 51-62); 10-23 H Studentski Cent W 100-78 (HT 53-46); 10-21 H L. Lions L 72-89 (HT 37-40); 10-18 A Spartak Subotic L 75-89 (HT 34-51); 10-14 A Siauliai W 94-75 (HT 41-40)",
+  "away_form": "Sportradar last 10 (team score first, HT in brackets): Maxima Roma: 11-15 A Venezia L 81-88 (HT 46-62); 11-12 A Skyliners W 113-89 (HT 64-41); 11-08 H Pallacanestro C W 99-87 (HT 54-44); 11-04 H L. Lions W 86-84 (HT 42-44); 11-01 A Trento W 88-62 (HT 28-26); 10-28 A Siauliai L 93-98 (HT 49-49); 10-25 H Udine W 81-75 (HT 35-40); 10-21 H Venezia W 90-79 (HT 45-45); 10-18 A Derthona Basket W 89-75 (HT 47-38); 10-14 A Canarias L 71-96 (HT 33-45)",
+  "trends": "Maxima Roma 7-3 last 10, won at Derthona 89-75, at Skyliners 113-89, at Trento 88-62. Cluj 3-7 last 10, Eurocup losses 81-89 v Turk Telekom (home), 73-113 at Canarias, 97-113 at Skyliners, 72-89 v Lions (home). Totals: Cluj 148,170,184,186,174,210,178,161,164,169; Roma 169,202,186,170,150,191,156,169,164,167. Line 177.5.",
+  "h2h": "Roma 89-55 Cluj (first meeting, Rome).",
+  "absences": "Cluj: Otis Livingston doubtful (foot infection, game-day decision), Uros Plavsic in recovery after eardrum surgery (cannot fly; missed first meeting). Roma: none reported.",
+  "context": "Eurocup round 8, Cluj home after a 34-point loss in Rome; Roma also played Sunday (L 81-88 at Venezia), Cluj Saturday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-8.5",
+    "desc": "Away (+8.5)",
+    "odds": 1.22,
+    "p": 0.80053,
+    "why": "Roma beat Cluj by 34 in the first meeting and have won 3 of 4 Eurocup road games; Cluj have lost 3 home games this autumn and may miss Livingston and Plavsic. Credible receiver. p 0.78."
+   },
+   {
+    "mid": "223",
+    "spec": "hcp=-6.5",
+    "desc": "Away (+6.5)",
+    "odds": 1.31,
+    "p": 0.7429674172,
+    "why": "Same mechanism at a longer price (p 0.73); use one, not both."
+   }
+  ],
+  "avoid": "Cluj ML/-handicaps; Roma ML 1.78 (p 0.54) below the ML floor.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.mediafax.ro/sport/u-bt-cluj-napoca-vrea-revansa-cu-maxima-roma-in-eurocup-italienii-au-castigat-la-34-de-puncte-diferenta-in-tur-23844719",
+   "https://www.sfin.ro/ubt-cluj-napoca-maxima-roma/",
+   "https://stats.fn.sportradar.com/betradar/en/Europe:Berlin/gismo/match_info/72902316"
+  ]
+ }
+]
