@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-16 21:15 UTC. Totals: 9 won · 79 dead · 1 alive · 183 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-17 04:38 UTC. Totals: 9 won · 76 dead · 0 alive · 187 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
@@ -8,7 +8,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 |---|---|---|---|---|---|
 | 1-7 legs | 16 | 7 | 16 | 11.4 | -29% |
 | 8-12 legs | 10 | 2 | 10 | 24.2 | +142% |
-| 13+ legs | 62 | 0 | 62 | 0.0 | -100% |
+| 13+ legs | 59 | 0 | 59 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -194,10 +194,10 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-05 | MGC0QL | KV9MF8-rm15 | – | – | N/A (expired) | |
 | 2026-11-06 | HVKHD0 | CORE 5 legs 2.95x | – | – | N/A (expired) | |
 | 2026-11-06 | RKVUMV | VALUE 8 legs 6.8x | – | – | N/A (expired) | |
-| 2026-11-06 | YG88BP | MAX 9 legs 12.7x | 9 | 6W/3L/0V/0P | DEAD | Virtus Bologna v Dubai Basketball — Handicap (incl. overtime) 9.5 Home (+9.5) (75:93); Dynamo Dresden v Greuther Furth — Asian Handicap -1.5 Away (+1.5) (3:0); KK Partizan Belgrade v Maccabi Tel-Aviv — Handicap (incl. overtime) -11.5 Away (+11.5) (88:67) |
-| 2026-11-06 | X4YNGN | T500 20 legs 510x | 20 | 16W/4L/0V/0P | DEAD | Lokomotiv Moscow v FK Rubin Kazan — Over/Under Over 1.5 (0:1); Silkeborg IF v Lyngby BK — Asian Handicap -0.5 Away (+0.5) (1:0); FC Viktoria Cologne v 1. FC Saarbrucken — Asian Handicap -1.5 Away (+1.5) (5:3); TOP Oss v RKC Waalwijk — Over/Under Over 2.5 (1:1) |
-| 2026-11-06 | M5YNPQ | T5000 28 legs 5416x | 28 | 22W/6L/0V/0P | DEAD | Lokomotiv Moscow v FK Rubin Kazan — Over/Under Over 1.5 (0:1); Silkeborg IF v Lyngby BK — Asian Handicap -0.5 Away (+0.5) (1:0); FC Viktoria Cologne v 1. FC Saarbrucken — Asian Handicap -1.5 Away (+1.5) (5:3); TOP Oss v RKC Waalwijk — Over/Under Over 2.5 (1:1); Raith Rovers FC v Dunfermline Athletic FC — Over/Under Over 1.5 (0:0); AB Gladsaxe v Vendsyssel FF — Asian Handicap -1.5 Away (+1.5) (3:0) |
-| 2026-11-06 | M4R1ZN | T50000 34 legs 52199x | 34 | 26W/8L/0V/0P | DEAD | Lokomotiv Moscow v FK Rubin Kazan — Over/Under Over 1.5 (0:1); Silkeborg IF v Lyngby BK — Asian Handicap -0.5 Away (+0.5) (1:0); FC Viktoria Cologne v 1. FC Saarbrucken — Asian Handicap -1.5 Away (+1.5) (5:3); TOP Oss v RKC Waalwijk — Over/Under Over 2.5 (1:1); Raith Rovers FC v Dunfermline Athletic FC — Over/Under Over 1.5 (0:0); AB Gladsaxe v Vendsyssel FF — Asian Handicap -1.5 Away (+1.5) (3:0); FK Septemvri Sofia v FC Lokomotiv 1929 Sofia — Asian Handicap -0.5 Away (+0.5) (1:0); Vejle BK v FC Fredericia — Over/Under Over 2.5 (1:0) |
+| 2026-11-06 | YG88BP | MAX 9 legs 12.7x | – | – | N/A (expired) | |
+| 2026-11-06 | X4YNGN | T500 20 legs 510x | – | – | N/A (expired) | |
+| 2026-11-06 | M5YNPQ | T5000 28 legs 5416x | – | – | N/A (expired) | |
+| 2026-11-06 | M4R1ZN | T50000 34 legs 52199x | – | – | N/A (expired) | |
 | 2026-11-06 | Y25S3H | DRAW35 T1000 9 legs 1254x | 9 | 4W/5L/0V/0P | DEAD | Peterborough United v Reading FC — 1X2 from 1 to 35 minute Draw (0:5); FC Seoul v Ulsan HD FC — 1X2 from 1 to 35 minute Draw (1:2); SK Rapid v Wolfsberger AC — 1X2 from 1 to 35 minute Draw (6:0); Qingdao Hainiu FC v Shenzhen Peng City — 1X2 from 1 to 35 minute Draw (2:2); Stuttgart v Werder Bremen — 1X2 from 1 to 35 minute Draw (1:0) |
 | 2026-11-06 | WZFF8V | DRAW35 T10000 12 legs 13226x | 12 | 4W/8L/0V/0P | DEAD | Peterborough United v Reading FC — 1X2 from 1 to 35 minute Draw (0:5); FC Seoul v Ulsan HD FC — 1X2 from 1 to 35 minute Draw (1:2); SK Rapid v Wolfsberger AC — 1X2 from 1 to 35 minute Draw (6:0); Milton Keynes Dons v Swindon Town — 1X2 from 1 to 35 minute Draw (2:1); Qingdao Hainiu FC v Shenzhen Peng City — 1X2 from 1 to 35 minute Draw (2:2); Stuttgart v Werder Bremen — 1X2 from 1 to 35 minute Draw (1:0); Maccabi Tel Aviv FC v Maccabi Petah Tikva FC — 1X2 from 1 to 35 minute Draw (2:2); Corum FK v Fenerbahce Istanbul — 1X2 from 1 to 35 minute Draw (0:5) |
 | 2026-11-06 | PLKF9M | TW70GZ rm-5 | – | – | N/A (expired) | |
@@ -274,10 +274,10 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-15 | M307AP | XJHWQ4-rm5 | 25 | 17W/7L/1V/0P | DEAD | CA Nacional Potosi v Real Potosi — Home Team or Over 2.5 Yes (0:2); Scotland v USA — Double Chance Home or Away (1:1); AZ Alkmaar v Ajax Amsterdam — Over/Under Over 2.5 (1:1); Enyimba v Ikorodu City — Over/Under Over 1.5 (0:1); Pontevedra CF B v CA Arteixo — CA Arteixo Over/Under Over 0.5 (2:0); Olimpico Totana v FC Cartagena B — Over/Under Over 2.5 (0:0); Club Haro Deportivo v CD Berceo — Over/Under Over 2.5 (2:0) |
 | 2026-11-15 | NXE9NT | XJHWQ4-rm10 | 20 | 13W/6L/1V/0P | DEAD | CA Nacional Potosi v Real Potosi — Home Team or Over 2.5 Yes (0:2); Scotland v USA — Double Chance Home or Away (1:1); AZ Alkmaar v Ajax Amsterdam — Over/Under Over 2.5 (1:1); Enyimba v Ikorodu City — Over/Under Over 1.5 (0:1); Pontevedra CF B v CA Arteixo — CA Arteixo Over/Under Over 0.5 (2:0); Olimpico Totana v FC Cartagena B — Over/Under Over 2.5 (0:0) |
 | 2026-11-15 | RZF5C0 | sun-evening-short | 5 | 4W/1L/0V/0P | DEAD | Envigado FC v Union Magdalena — Over/Under Under 3.5 (2:3) |
-| 2026-11-16 | ZR6DYG | GTKWL6-rm5 | 34 | 21W/6L/1V/6P | DEAD | Atletico Lanus v CA Talleres de Cordoba — 1X2 Away (1:0); Plymouth Argyle v Leicester City U21 — 2nd Half - Double Chance Home or Away (0:2); Greece v Iceland — Home Team to Win Either Half Yes (6:5); Zimbabwe v Equatorial Guinea — Asian Handicap -1 Away (+1.0) (3:0); VfB Stuttgart v Bayer Leverkusen — 2nd Half - Double Chance Home or Away (2:3); 1. FC Tatran Presov v MFK Zvolen — Both Halves Under 1.5 No (1:0) |
-| 2026-11-16 | KUSZW0 | GTKWL6-rm10 | 29 | 17W/6L/1V/5P | DEAD | Atletico Lanus v CA Talleres de Cordoba — 1X2 Away (1:0); Plymouth Argyle v Leicester City U21 — 2nd Half - Double Chance Home or Away (0:2); Greece v Iceland — Home Team to Win Either Half Yes (6:5); Zimbabwe v Equatorial Guinea — Asian Handicap -1 Away (+1.0) (3:0); VfB Stuttgart v Bayer Leverkusen — 2nd Half - Double Chance Home or Away (2:3); 1. FC Tatran Presov v MFK Zvolen — Both Halves Under 1.5 No (1:0) |
-| 2026-11-16 | MQ0P95 | GTKWL6-rm15 | 24 | 14W/5L/1V/4P | DEAD | Atletico Lanus v CA Talleres de Cordoba — 1X2 Away (1:0); Plymouth Argyle v Leicester City U21 — 2nd Half - Double Chance Home or Away (0:2); Zimbabwe v Equatorial Guinea — Asian Handicap -1 Away (+1.0) (3:0); VfB Stuttgart v Bayer Leverkusen — 2nd Half - Double Chance Home or Away (2:3); 1. FC Tatran Presov v MFK Zvolen — Both Halves Under 1.5 No (1:0) |
-| 2026-11-17 | MC6NPV | mon-night-10x | 10 | 0W/0L/0V/10P | ALIVE |  |
+| 2026-11-16 | ZR6DYG | GTKWL6-rm5 | 34 | 24W/8L/2V/0P | DEAD | Greece v Serbia — Over/Under Over 2 (1:0); Atletico Lanus v CA Talleres de Cordoba — 1X2 Away (1:0); Plymouth Argyle v Leicester City U21 — 2nd Half - Double Chance Home or Away (0:2); Greece v Iceland — Home Team to Win Either Half Yes (6:5); Albacete Balompie v RC Celta Fortuna — Over/Under Over 2 (1:0); Zimbabwe v Equatorial Guinea — Asian Handicap -1 Away (+1.0) (3:0); VfB Stuttgart v Bayer Leverkusen — 2nd Half - Double Chance Home or Away (2:3); 1. FC Tatran Presov v MFK Zvolen — Both Halves Under 1.5 No (1:0) |
+| 2026-11-16 | KUSZW0 | GTKWL6-rm10 | 29 | 19W/8L/2V/0P | DEAD | Greece v Serbia — Over/Under Over 2 (1:0); Atletico Lanus v CA Talleres de Cordoba — 1X2 Away (1:0); Plymouth Argyle v Leicester City U21 — 2nd Half - Double Chance Home or Away (0:2); Greece v Iceland — Home Team to Win Either Half Yes (6:5); Albacete Balompie v RC Celta Fortuna — Over/Under Over 2 (1:0); Zimbabwe v Equatorial Guinea — Asian Handicap -1 Away (+1.0) (3:0); VfB Stuttgart v Bayer Leverkusen — 2nd Half - Double Chance Home or Away (2:3); 1. FC Tatran Presov v MFK Zvolen — Both Halves Under 1.5 No (1:0) |
+| 2026-11-16 | MQ0P95 | GTKWL6-rm15 | 24 | 15W/7L/2V/0P | DEAD | Greece v Serbia — Over/Under Over 2 (1:0); Atletico Lanus v CA Talleres de Cordoba — 1X2 Away (1:0); Plymouth Argyle v Leicester City U21 — 2nd Half - Double Chance Home or Away (0:2); Albacete Balompie v RC Celta Fortuna — Over/Under Over 2 (1:0); Zimbabwe v Equatorial Guinea — Asian Handicap -1 Away (+1.0) (3:0); VfB Stuttgart v Bayer Leverkusen — 2nd Half - Double Chance Home or Away (2:3); 1. FC Tatran Presov v MFK Zvolen — Both Halves Under 1.5 No (1:0) |
+| 2026-11-17 | MC6NPV | mon-night-10x | 10 | 6W/4L/0V/0P | DEAD | Boston Celtics v Orlando Magic — Winner (incl. overtime) Home (105:115); Trinidad and Tobago v Antigua and Barbuda — Over/Under Over 2.5 (1:1); Denver Nuggets v Phoenix Suns — Winner (incl. overtime) Home (105:117); New Orleans Pelicans v Golden State Warriors — Over/Under (incl. overtime) 210.5 Over 210.5 (115:94) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
