@@ -1,0 +1,349 @@
+[
+ {
+  "eid": "sr:match:75802238",
+  "fx": "South Sudan v Angola",
+  "home_form": "South Sudan: lost all 3 group games (0-2 at Angola 14 Nov, 0-5 v Egypt H, 1-2 at Malawi). Home: 0-5 Egypt, 0-1 Djibouti, 0-0 Togo, 0-5 Senegal -> no goal in last 4 home games.",
+  "away_form": "Angola: W2-0 v South Sudan (H, 14 Nov, both goals in 2H stoppage time v 10 men), W3-1 Malawi, D0-0 at Egypt, W3-0 CAR, D1-1 Mauritania. 7 pts from 3; low totals (last 8: 2,4,0,3,2,0,2,3).",
+  "trends": {
+   "game_totals": "Angola games mostly 2-3 goals; South Sudan home games 0,1,0,5,5 (blowouts only v Egypt/Senegal).",
+   "team_totals": "South Sudan 0 goals in last 4 home games; Angola 2+ in 3 of last 5.",
+   "first_half": "First leg 0-0 at HT (goals 90+ minutes).",
+   "handicap": "Angola won first leg by 2 only via stoppage-time goals; Angola wins are by 1-3.",
+   "corners": "no data"
+  },
+  "h2h": "14 Nov 2026 Angola 2-0 South Sudan (Luanda; Chico Banza and Miro late, South Sudan down to 10).",
+  "absences": "No named absences found.",
+  "context": "AFCON 2027 qualifier Group B, Juba. Angola can nearly clinch qualification (depends on Egypt-Malawi). User pick AH Angola -1.0 @1.35: WEAKENED - first leg margin of 2 came only in stoppage time against 10 men; a 1-0 is a refund only, and the draw/Angola 1-0 is common. Safer conversion: Angola 1X2 @1.24 (p 0.787, away p >= 0.75) or GG No.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.24,
+    "p": 0.786706,
+    "why": "Angola p 0.787 (meets away >=0.75); won first leg, South Sudan lost all 3 group games and blanked in last 4 home games."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "No",
+    "odds": 1.35,
+    "p": 0.707076,
+    "why": "South Sudan scored 0 in last 4 home games and 0 in first leg; Angola conceded 1 or fewer in 7 of last 8."
+   }
+  ],
+  "avoid": [
+   "AH Angola -1.0/-1.5 (first-leg margin only came late v 10 men)",
+   "Over 2.5 / Angola Over 1.5 (Angola low-scoring)",
+   "Integer Over 2"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.cafonline.com/afcon2025/news/totalenergies-caf-afcon-2027-qualifiers-algeria-edge-togo-as-late-goals-rescue-angola-against-ten-man-south-sudan/",
+   "https://africasoccer.com/south-sudan-aim-to-halt-losing-run-as-angola-close-in-on-2027-qualification/",
+   "https://www.thestatszone.com/south-sudan-vs-angola-preview-prediction-2027-africa-cup-of-nations-qualifying-239375"
+  ]
+ },
+ {
+  "eid": "sr:match:75802322",
+  "fx": "Tanzania v Nigeria",
+  "home_form": "Tanzania: L1-3 at Nigeria (13 Nov), D1-1 at Madagascar, L0-2 v Guinea-Bissau (H), W6-0 Macau, L0-1 Liechtenstein (H). One win in 5 in 2026; 1 pt from 3 group games.",
+  "away_form": "Nigeria: W3-1 v Tanzania (H), D3-3 at Russia, L0-3 at Guinea-Bissau, W2-1 Madagascar, L1-2 at Portugal, D2-2 at Poland. Leak goals away.",
+  "trends": {
+   "game_totals": "Nigeria last 6 totals 4,6,3,3,3,4; Tanzania last 5: 4,2,2,6,1. First leg 4 goals.",
+   "team_totals": "Tanzania scored in 4 of last 5 (1,1,0,6,0 -> scored in 3 of 5); Nigeria 2+ in 4 of last 6.",
+   "first_half": "no fixture-specific data",
+   "handicap": "Nigeria won first leg by 2 at home; away form poor (L0-3 GB, D3-3).",
+   "corners": "no data"
+  },
+  "h2h": "Nigeria 7W 3D 0L in 10 (per preview); 13 Nov 2026 Nigeria 3-1 Tanzania (Uyo).",
+  "absences": "Nigeria: Osimhen (knee surgery) out, Chukwueze (hip) out, Lookman withdrawn/doubtful (knee), Semi Ajayi fitness check. Tanzania: captain Mbwana Samatta not in squad; Ibrahim Hamad knock.",
+  "context": "AFCON 2027 Group L, Amaan Stadium Zanzibar. Nigeria trail Guinea-Bissau by 3 -> must-win. User pick Over 2 @1.56 (integer Over, banned class): direction SUPPORTED (first leg 4 goals, Nigeria games 3+ in 6 straight) but convert to Over 1.5 @1.35. Nigeria win p 0.70 < 0.75 away gate, and attack is without Osimhen/Lookman/Chukwueze -> no result-side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.35,
+    "p": 0.7102017563,
+    "why": "Nigeria last 6 games all 3+ goals; first leg 3-1; Nigeria must-win v a side that scored in 3 of last 5. Conversion of user Over 2."
+   }
+  ],
+  "avoid": [
+   "Over 2 integer (user pick) - convert",
+   "Nigeria 1X2 @1.38 (p 0.70 < 0.75 away gate; Osimhen/Lookman/Chukwueze out)",
+   "Nigeria -1.0"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/tanzania/africa-cup-of-nations/preview/tanzania-vs-nigeria-prediction-team-news-lineups_609172.html",
+   "https://khelnow.com/football/tanzania-vs-nigeria-preview-afcon-qualifiers-202611",
+   "https://www.tvcnews.tv/afcon-qualifier-things-to-know-as-tanzania-host-nigeria-in-return-leg/"
+  ]
+ },
+ {
+  "eid": "sr:match:76123776",
+  "fx": "Japan v Paraguay",
+  "home_form": "Japan: W3-2 Brazil (14 Nov, Singapore), W2-1 NZ, W5-4 Ecuador, W2-1 Venezuela, W3-1 Uruguay. 5 straight wins, 2+ goals in all 5, totals 5,3,9,3,4.",
+  "away_form": "Paraguay: W4-1 Singapore (13 Nov), W1-0 at Colombia, W2-0 at Bolivia, L0-1 France, W5-4 Germany, D0-0 Australia. Mixed: tight v strong sides.",
+  "trends": {
+   "game_totals": "Japan last 5 all 3+ goals; Paraguay last 8 totals 5,1,2,1,9,0,1,5.",
+   "team_totals": "Japan scored 2+ in last 5; Paraguay scored in 5 of last 8.",
+   "first_half": "no data",
+   "handicap": "Japan wins by 1-2 mostly.",
+   "corners": "no data"
+  },
+  "h2h": "Japan 5W 4D 3L in 12 (one source); Japan unbeaten in 5 v Paraguay (other).",
+  "absences": "Japan: Kamada withdrew after Brazil game (club reasons), Ayase Ueda out (foot). Paraguay: Andres Cubas injured; Alfaro to change XI after experimental side.",
+  "context": "International friendly at Singapore National Stadium (neutral; consistent across sources, Japan designated home). Friendly -> goals only (L81). User pick Home or Over 2.5 @1.25: SUPPORTED by Japan's 5-game run of 3+ goal wins, but it carries a friendly result component; safer conversion Over 1.5 @1.22.",
+  "veto": false,
+  "veto_reason": "Neutral venue noted (Singapore) but no conflict between sources; goals-only picks unaffected.",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7900648272,
+    "why": "Japan last 5 all 3+ goals (incl. 3-2 v Brazil 3 days ago); Paraguay scored 4 v Singapore. Friendly: goals only."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.7,
+    "p": 0.558962,
+    "why": "Japan 5/5 games over 2.5 in current run; Paraguay rotating XI and missing Cubas (DM)."
+   }
+  ],
+  "avoid": [
+   "Japan 1X2 / AH (friendly result-side, L81)",
+   "Unders"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.jleague.jp/en/news/article/35289/?navicode=j2",
+   "https://www.sportsmole.co.uk/football/japan/preview/japan-vs-paraguay-prediction-team-news-lineups_609158.html",
+   "https://khelnow.com/football/japan-vs-paraguay-preview-international-friendly-202611"
+  ]
+ },
+ {
+  "eid": "sr:match:76806422",
+  "fx": "India v Pakistan",
+  "home_form": "India: W3-2 Pakistan (5 Nov group), W1-0 Maldives, W2-1 Bhutan; SR feed also shows L0-5/L0-3 v New Zealand on 12/15 Nov which clash with SAFF dates (likely another India team mixed in -> data conflict).",
+  "away_form": "Pakistan: W1-0 at Bangladesh (SF), W3-0 Maldives, L2-3 India; earlier L2-4 Vietnam, D2-2 Philippines, L0-4 Thailand.",
+  "trends": {
+   "game_totals": "Group meeting 5 goals; Pakistan knockouts tight (1-0).",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "5 Nov 2026 India 3-2 Pakistan (group).",
+  "absences": "Pakistan strengthened by overseas players for knockouts; no named India absences found.",
+  "context": "SAFF Championship FINAL in Dhaka (neutral), knockout -> settles at 90 min; derby. User pick DC Home or Away @1.31 is the hard-excluded 12-DC class and in a final the draw at 90' is live: CONTRADICTED. No safe conversion.",
+  "veto": true,
+  "veto_reason": "Knockout final + derby + neutral venue (board lists India as home) + SR form data conflict (India v NZ dates clash with SAFF).",
+  "picks": [],
+  "avoid": [
+   "DC Home or Away (12-DC excluded, final draw risk)",
+   "any result-side",
+   "Under/Over (no reliable data)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://khelnow.com/football/indian-football-saff-championship-2026-final-india-vs-pakistan-preview",
+   "https://www.etvbharat.com/en/sports/saff-championships-football-india-vs-pakistan-final-update-enn26111604111"
+  ]
+ },
+ {
+  "eid": "sr:match:76810112",
+  "fx": "United Arab Emirates v Syria",
+  "home_form": "UAE: W3-1 Honduras (13 Nov, H), L0-2 at Saudi, W1-0 Oman, D1-1 Qatar, W3-0 Bahrain, W4-0 Yemen. Home totals 4,1,2,4.",
+  "away_form": "Syria: L0-3 at Kuwait (13 Nov), L1-4 at Uzbekistan, D1-1 Jordan, L1-4 Belarus; 4 without a win, FIFA ~86.",
+  "trends": {
+   "game_totals": "UAE home 3 of 4 over 1.5; Syria away totals 3,5,2,5.",
+   "team_totals": "Syria scored 0-1 in each of last 4.",
+   "first_half": "n/a",
+   "handicap": "UAE wins by 1-4.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent meeting found.",
+  "absences": "None named.",
+  "context": "International friendly, Hazza bin Zayed Stadium Al Ain. Friendly -> goals only. User pick Over 2 @1.44 (integer Over, banned class): direction SUPPORTED (Syria conceded 3+ in 3 of last 4 away), convert to Over 1.5 @1.29. Kick-off time conflict in previews (2:10 pm vs 07:10 UTC) - board 14:10 UTC matches main source.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.29,
+    "p": 0.746197,
+    "why": "Syria conceded 3,4,1,4 in last 4 away; UAE home 3 of 4 over 1.5. Conversion of user Over 2."
+   }
+  ],
+  "avoid": [
+   "Over 2 integer",
+   "UAE 1X2 (friendly result-side)",
+   "GG Yes (Syria toothless)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportskeeda.com/football/uae-vs-syria-prediction-betting-tips-17th-november-2026",
+   "https://www.thestatszone.com/united-arab-emirates-vs-syria-preview-prediction-2026-international-friendly-239365"
+  ]
+ },
+ {
+  "eid": "sr:match:76169220",
+  "fx": "Saudi Arabia v Uzbekistan",
+  "home_form": "Saudi Arabia: W3-2 Korea (13 Nov, Doha), W2-0 UAE, W3-2 Qatar, W2-0 Iraq, W3-0 Oman, W1-0 Kuwait - 6 straight wins.",
+  "away_form": "Uzbekistan: L2-3 Russia, L0-2 at Korea, W4-1 Syria, W3-1 Iran; poor run since World Cup.",
+  "trends": {
+   "game_totals": "Saudi last 5 totals 5,2,5,2,3; Uzbek last 4: 5,2,5,4.",
+   "team_totals": "Uzbek scored in 3 of last 4.",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "12 meetings: Saudi 7W, Uzbekistan 4W, 1D.",
+  "absences": "None named.",
+  "context": "Friendly, training camp. User pick Over 2.5 @2.15: weakly supported by recent totals, but price near 2.2 cap and venue conflict -> skip.",
+  "veto": true,
+  "veto_reason": "Venue conflict: most sources Jassim bin Hamad Stadium Doha, one says King Fahd Stadium Riyadh.",
+  "picks": [],
+  "avoid": [
+   "Over 2.5 @2.15 (>2.2-ish, p 0.43)",
+   "friendly result-sides"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.thestatszone.com/saudi-arabia-vs-uzbekistan-preview-prediction-2026-international-friendly-239369",
+   "https://dailysports.net/predictions/saudi-arabia-look-to-extend-their-winning-run-saudi-arabia-vs-uzbekistan-prediction-17112026/",
+   "https://www.goal.com/en/news/history-favours-saudi-arabia-against-uzbekistan-with-a-slight-deficit-against-south-korea/bltc5086b8a592c6106"
+  ]
+ },
+ {
+  "eid": "sr:match:75802324",
+  "fx": "Guinea-Bissau v Madagascar",
+  "home_form": "Guinea-Bissau: D1-1 at Madagascar (12 Nov), W3-0 v Nigeria (H), W2-0 at Tanzania; top of Group L on 7. Home: W3-0 Nigeria, W2-0 Djibouti, D1-1 Sierra Leone.",
+  "away_form": "Madagascar: D1-1 GB, D1-1 Tanzania, L1-2 at Nigeria, L0-4 at Morocco; 2 pts, scored in 5 of last 6.",
+  "trends": {
+   "game_totals": "GB games 2,3,2,2,1,1; Madagascar 2,2,3,4,2.",
+   "team_totals": "GB clean sheets in 2 of 3 home; Madagascar scores 1 most games.",
+   "first_half": "n/a",
+   "handicap": "GB home wins by 2-3.",
+   "corners": "n/a"
+  },
+  "h2h": "12 Nov 2026 Madagascar 1-1 Guinea-Bissau.",
+  "absences": "None named.",
+  "context": "AFCON 2027 Group L. User pick Home or Over 2.5 @1.29 (OR combo): SUPPORTED - GB won both home group games by 2+ and only failed to win v Madagascar away. Accept as-is; draw at low score is the loss path.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "854",
+    "spec": "total=2.5",
+    "desc": "Yes",
+    "odds": 1.29,
+    "p": 0.7444761096,
+    "why": "GB lead Group L, won 3-0 v Nigeria at home and 2-0 at Tanzania; OR-combo also covers a high-scoring draw. User pick."
+   }
+  ],
+  "avoid": [
+   "DC Home or Away (12-DC excluded)",
+   "GB -1.0 (first meeting 1-1)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.beinsports.com/en-us/soccer/africa-cup-of-nations-qualification/articles-video/ivory-coast-vs-gambia-highlights-afcon-qualifiers-2026-11-12",
+   "https://dailysports.net/news/afcon-2027-qualifiers-gambia-v-cote-divoire-kenya-v-south-africa-tuesdays-fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:75802294",
+  "fx": "Togo v Algeria",
+  "home_form": "Togo: L0-1 at Algeria (14 Nov), L0-2 at Zambia, W1-0 Burundi (H), W5-1 Benin (H). Scored 1 goal in 3 qualifiers.",
+  "away_form": "Algeria: W1-0 Togo, W2-1 Niger, D2-2 at Burundi, W3-1 Zambia; unbeaten in qualifiers, 7 pts.",
+  "trends": {
+   "game_totals": "Togo last 8 totals 1,2,1,6,2,0,1,1; first leg 1-0.",
+   "team_totals": "Togo blanked in 2 of last 3 and 4 of last 8.",
+   "first_half": "First leg 0-0 HT (winner 76').",
+   "handicap": "Algeria wins by 1-2.",
+   "corners": "n/a"
+  },
+  "h2h": "14 Nov 2026 Algeria 1-0 Togo (Bensebaini 76').",
+  "absences": "Algeria: Ibrahim Maza and Anis Hadj Moussa ruled out (ankle sprains in first leg), did not travel; Hemdani cites 6-7 unavailable, Azzi doubtful; Chaibi/Abdelli to fill. Togo: Denkey, Dermane, Djene booked in first leg.",
+  "context": "AFCON 2027 Group I, Kegue Stadium Lome. User pick Away or Over 2.5 @1.43: WEAKENED - first leg 1-0, Togo 1 goal in 3, Algeria attack depleted; draw-low is the loss path. Safer conversion: Algeria DNB @1.25 (AH 0). Named attacking absences (Maza, Hadj Moussa) further argue against the Over 2.5 component.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Away (0)",
+    "odds": 1.25,
+    "p": 0.769467,
+    "why": "Algeria unbeaten in group, beat Togo 1-0; Togo scored once in 3 qualifiers. DNB refunds the draw. Conversion of user pick."
+   }
+  ],
+  "avoid": [
+   "Over 2.5 component",
+   "Away or Over 2.5 (user pick)",
+   "Togo to score"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.flashscore.com/news/patrice-neveu-confident-that-togo-can-avenge-defeat-to-algeria/rTH2H2Xr/",
+   "https://sportnewsafrica.com/en/news/afcon-2027-qualifiers-algeria-edge-togo-to-strengthen-grip-on-top-spot/",
+   "https://en.africatopsports.com/afcon-2027-qualifiers-togo-seek-revenge-against-algeria/",
+   "https://sportnewsafrica.com/en/alerts/algeria-maza-and-hadj-moussa-ruled-out-of-lome-trip/",
+   "https://www.goal.com/en-in/news/double-blow-algeria-duo-confirmed-to-miss-togo-clash/bltd5e258b165ce875f"
+  ]
+ },
+ {
+  "eid": "sr:match:75802246",
+  "fx": "Gambia v Ivory Coast",
+  "home_form": "Gambia: L1-2 at Ivory Coast (12 Nov), W4-2 at Ghana, W2-1 Somalia (H). Home games high-scoring (3,7,2).",
+  "away_form": "Ivory Coast: W2-1 Gambia, L0-1 Cameroon, W2-0 at Somalia, W2-0 Ghana; 9/9 in group.",
+  "trends": {
+   "game_totals": "Ivory Coast games 1-3 goals (last 8 all <=3).",
+   "team_totals": "Ivory Coast scored in 6 of last 8; Gambia scored in every game listed.",
+   "first_half": "n/a",
+   "handicap": "Ivory Coast wins by 1-2.",
+   "corners": "n/a"
+  },
+  "h2h": "12 Nov 2026 Ivory Coast 2-1 Gambia.",
+  "absences": "Ivory Coast: Kossounou, Guela Doue, Ghislain Konan injured, Agbadou released (thigh/knee); Solet eligibility unclear; Amad Diallo back. Gambia: Fadera, Sidibeh, Jesper Ceesay, Suleiman Camara out; Barrow and Minteh return (Minteh short of fitness); Yirajang suspended.",
+  "context": "AFCON 2027 Group C, Independence Stadium Bakau. User pick DC Home or Away @1.27 is the hard-excluded 12-DC class: CONTRADICTED by rules. Safer conversion: Ivory Coast DNB @1.22 (p 0.795). Ivory Coast clinch qualification with a win (motivation). Depleted CIV defence makes a Gambia goal likely -> avoid CIV clean sheet / win to nil; DNB still preferred.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.22,
+    "p": 0.794583,
+    "why": "Ivory Coast 3/3 wins, beat Gambia 2-1; DNB p 0.795. Conversion of user 12-DC."
+   }
+  ],
+  "avoid": [
+   "DC Home or Away (12-DC)",
+   "Unders (Gambia score in every game)",
+   "Ivory Coast win to nil / Gambia Under 0.5 (CIV back line depleted)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.beinsports.com/en-us/soccer/africa-cup-of-nations-qualification/articles-video/ivory-coast-vs-gambia-highlights-afcon-qualifiers-2026-11-12",
+   "https://dailysports.net/news/afcon-2027-qualifiers-gambia-v-cote-divoire-kenya-v-south-africa-tuesdays-fixtures/",
+   "https://africa.dailynewsegypt.com/afcon-qualifiers-ivory-coast-senegal/",
+   "https://www.sportsmole.co.uk/football/ivory-coast/preview/gambia-vs-ivory-coast-prediction-team-news-lineups_609159.html",
+   "https://africasoccer.com/cote-divoire-close-in-on-afcon-2027-qualification-against-gambia/"
+  ]
+ }
+]

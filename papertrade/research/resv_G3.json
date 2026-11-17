@@ -1,0 +1,309 @@
+[
+ {
+  "eid": "sr:match:68932630",
+  "fx": "Bosnia & Herzegovina v Romania",
+  "home_form": "Bosnia NL B4: L 2-3 @SWE (0-3 HT), W 1-0 POL, D 1-1 SWE, W 4-2 @ROU, D 0-0 @POL; 2nd place already secured. Home: 1-0 POL, 1-1 SWE, 3-1 QAT.",
+  "away_form": "Romania: W 2-1 POL, L 0-1 SWE, L 0-6 @POL, L 2-4 BIH, L 1-2 @SWE. Lost last two away, conceded 13 in 5 group games.",
+  "trends": "Totals: group avg 3.1 goals/game (31 in 10); ROU games 3,1,6,6,3 (O1.5 5/5); BIH 5,1,2,6,0 (O1.5 3/5). Team totals: ROU scored in 3/5. 1H: BIH 1H goals in 2/5. Handicap: BIH won 4-2 reverse. Corners: no data.",
+  "h2h": "Bosnia won 4-2 in Bucharest (Sep 28 2026).",
+  "absences": "ROU: Tudor Baluta suspended, Louis Munteanu (knock) out. BIH: Demirovic expected to lead the line, Zlomislic in goal.",
+  "context": "Zenica. Romania must win to avoid relegation play-off; Bosnia have 2nd secured (low motivation). User pick 12-DC (Home or Away @1.31) is a hard-excluded market class. Romania's must-win does reduce draw chance, so the evidence mildly supports it, but convert it to Over 1.5 @1.23 (ROU games all O1.5, chasing side).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.78588,
+    "why": "Group averages 3.1 goals; all 5 Romania group games had 2+; Romania must win and concede freely (13 in 5).",
+    "oid": "12"
+   }
+  ],
+  "avoid": [
+   "12-DC Home or Away (excluded class)",
+   "Under 2.5/3.5 (both sides concede, ROU must chase)",
+   "Romania team over 0.5 (Munteanu out, ROU blank in 2/5)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/news/bosnia-vs-romania-uefa-nations-league-preview",
+   "https://tips.gg/article/bosnia-and-herzegovina-vs-romania-17-11-2026/",
+   "https://www.windrawwin.com/tips/uefa-nations-league/bosniaherzegovina-v-romania/865093/"
+  ]
+ },
+ {
+  "eid": "sr:match:68932770",
+  "fx": "Hungary v Northern Ireland",
+  "home_form": "Hungary NL B2: W 2-0 @GEO, W 2-1 @UKR, W 1-0 GEO, D 0-0 @NIR, L 0-1 UKR. Home in group: 1-0, 0-1.",
+  "away_form": "Northern Ireland: W 1-0 UKR, D 0-0 GEO, W 3-0 @UKR, D 0-0 HUN, W 1-0 @GEO. 0 goals conceded in 5 group games.",
+  "trends": "Totals: all 10 group games of these sides had 3 or fewer goals; NIR games 1,0,3,0,1; HUN 2,3,1,0,1. Team totals: NIR clean sheets 5/5; HUN scored 0-2 each game. 1H: HUN 1H goals in 1/5, NIR 1H 0-0 in 4/5. Handicap: Hungary's wins by 1-2 goals; never by 2+ at home. Corners: no data.",
+  "h2h": "0-0 in Belfast (Sep 28 2026).",
+  "absences": "HUN: Willi Orban and Milan Vitalis suspended (Szalai in). NIR: manager Michael O'Neill suspended from touchline (Jimmy Nicholl in charge), Jamie Donley suspended.",
+  "context": "Budapest. NIR need only a draw to win group/promotion; Hungary must win. User pick NIR +1.0 @1.42: SUPPORTED (NIR unbeaten, no goals conceded, Hungary margins small); with Orban out Hungary's defence weaker but irrelevant to a +1 catch. Safer conversion: NIR +1.5 @1.28 (only a Hungary 2-goal win loses). Under 3.5 @1.24 (p 0.796) is fixture-supported but below the 0.82 Under gate.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.28,
+    "p": 0.7584219704,
+    "why": "NIR conceded 0 in 5 group games incl. 0-0 v HUN; Hungary must chase but have won by 2 only once (away at Georgia).",
+    "oid": "1715"
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Away (+1.0)",
+    "odds": 1.42,
+    "p": 0.680686,
+    "why": "User's pick; NIR need only a draw and have a 5-game clean-sheet run; 1-goal Hungary win = void.",
+    "oid": "1715"
+   }
+  ],
+  "avoid": [
+   "Over 2.5 (no game of either side in group went over 3)",
+   "Hungary -0.5/1X2 (fragile: Orban out, NIR no-concede)",
+   "BTTS Yes"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.whoscored.com/matches/1969802/preview/international-uefa-nations-league-b-2026-2027-hungary-northern-ireland",
+   "https://www.tntsports.co.uk/betting/tips/hungary-vs-northern-ireland-prediction-tips-and-odds-nations-league-17-11-26/",
+   "https://lovebelfast.co.uk/hungary-v-northern-ireland-nations-league-budapest-preview-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:68932742",
+  "fx": "Ireland v Kosovo",
+  "home_form": "Ireland NL B3: L 0-1 @AUT, D 1-1 ISR, D 2-2 AUT, W 3-0 @ISR, L 0-1 @KOS; unbeaten in last 10 at home (home group: 1-1, 2-2).",
+  "away_form": "Kosovo: D 0-0 ISR, D 1-1 AUT, D 0-0 @ISR, L 1-3 @AUT, W 1-0 IRL. Very low-event: 4 of 5 group games 2 goals or fewer.",
+  "trends": "Totals: KOS games 0,2,0,4,1; IRL 1,2,4,3,1. Team totals: KOS scored \u22641 in all 5, conceded \u22641 in 4/5. 1H: KOS 1H 0-0 in 4/5. Handicap: Ireland have no home win by 2+ in the group (1-1, 2-2). Corners: no data.",
+  "h2h": "Kosovo 1-0 Ireland (Pristina, Sep 24 2026).",
+  "absences": "KOS: Edon Zhegrova injured, Veldin Hodza suspended (red v Israel). IRL: Josh Cullen and Gavin Bazunu out; Nathan Collins doubt (scan, conflicting reports).",
+  "context": "Aviva Stadium. Ireland must win for 2nd; Kosovo need a point. User pick Kosovo +1.0 @1.36: SUPPORTED (Kosovo low-event, Ireland home results 1-1/2-2), slightly weakened by Zhegrova/Hodza absence. Safer: Kosovo +1.5 @1.24.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.24,
+    "p": 0.7806556464,
+    "why": "Kosovo concede \u22641 in 4/5 group games and only need a point; Ireland drew both home group games and lost the reverse 0-1.",
+    "oid": "1715"
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Away (+1.0)",
+    "odds": 1.36,
+    "p": 0.711451,
+    "why": "User's pick; 1-goal Ireland win voids; Kosovo unbeaten in 4 of 5 group games.",
+    "oid": "1715"
+   }
+  ],
+  "avoid": [
+   "Over 2.5",
+   "Ireland -0.5 (fragile favourite at p 0.46)",
+   "Kosovo to score (Zhegrova out)"
+  ],
+  "confidence": 0.28,
+  "sources": [
+   "https://www.racingpost.com/sport/football-tips/nations-league/ireland-vs-kosovo-predictions-team-news-odds-betting-tips-bet-builder-a69vC1C2tTom/",
+   "https://www.whoscored.com/matches/1969822/preview/international-uefa-nations-league-b-2026-2027-ireland-kosovo",
+   "https://thefootballfaithful.com/ireland-vs-kosovo-match-preview/"
+  ]
+ },
+ {
+  "eid": "sr:match:68932740",
+  "fx": "Israel v Austria",
+  "home_form": "Israel NL B3: D 0-0 @KOS, D 1-1 @IRL, D 0-0 KOS, L 0-3 IRL, L 1-3 @AUT. Winless, scored 2 in 5.",
+  "away_form": "Austria: W 1-0 IRL, D 1-1 @KOS, D 2-2 @IRL, W 3-1 KOS, W 3-1 ISR. Group won and promoted.",
+  "trends": "Totals: ISR games 0,2,0,3,4; AUT 1,2,4,4,4. Team totals: Israel scored \u22652 in 0/5. 1H: AUT 1H goals in 3/5. Handicap: AUT won 3-1 reverse. Corners: no data.",
+  "h2h": "Austria 3-1 Israel (Sep 24 2026).",
+  "absences": "ISR: Raz Shlomo suspended, Orian Goren injured. AUT: Rangnick says he will rotate.",
+  "context": "Played at Nagyerdei Stadion, Debrecen (Israel's usual neutral home); sources agree, so no venue conflict for settlement. Austria already top/promoted (dead rubber for them) and rotating; Israel fighting relegation. User pick Away or Over 2.5 @1.25: WEAKENED (rotated Austria with nothing to play for; Israel have scored 2 goals in 5). No safer conversion with enough evidence; Israel +1.5 @1.38 is the side the context points to, but evidence is soft.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Austria 1X2/DNB (rotation, dead rubber)",
+   "Away or Over 2.5 (user pick)",
+   "Israel team over 0.5/1.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/israel/uefa-nations-league/preview/israel-vs-austria-prediction-team-news-lineups_609141.html",
+   "https://www.squawka.com/en/news/previews/israel-vs-austria-predictions-tonight-17-11-2026/",
+   "https://dailysports.net/predictions/austria-secure-promotion-israel-vs-austria-prediction/"
+  ]
+ },
+ {
+  "eid": "sr:match:68932632",
+  "fx": "Poland v Sweden",
+  "home_form": "Poland NL B4: L 1-2 @ROU, L 0-1 @BIH, W 6-0 ROU, L 1-3 @SWE, D 0-0 BIH. Home in group: 6-0, 0-0.",
+  "away_form": "Sweden: W 3-2 BIH, W 1-0 @ROU, D 1-1 @BIH, W 3-1 POL, W 2-1 ROU. Scored in 5/5 group games; group won and promoted.",
+  "trends": "Totals: POL 3,1,6,4,0; SWE 5,1,2,4,3. Team totals: Sweden scored in 6 of last 7 (blank only 0-3 v France). Poland kept clean sheets in both home group games. 1H: SWE 1H goals in 3/5. Handicap: Sweden won 3-1 reverse. Corners: no data.",
+  "h2h": "Sweden 3-1 Poland (Sep 28 2026).",
+  "absences": "POL: Jakub Kiwior suspended; Matty Cash doubtful/left camp (conflicting). SWE: Lucas Bergvall, Patrik Walemark out; Potter may rest half the side, though Isak and Gyokeres are predicted to start.",
+  "context": "Wroclaw (sources differ on stadium name only). Sweden promoted (low stakes, rotation); Poland need a result. User pick Sweden Over 0.5 @1.27: mildly SUPPORTED (scored in every group game, Kiwior out of POL defence) but weakened by Sweden rotation and Poland's 2 home clean sheets. Away team-to-score is barred from cores; single only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.27,
+    "p": 0.766167,
+    "why": "Sweden scored in all 5 group games incl. 3-1 v Poland; Poland without Kiwior (and possibly Cash). Single only (away TTS not for cores).",
+    "oid": "12"
+   }
+  ],
+  "avoid": [
+   "Over 2.5 (rotation, Poland home clean sheets)",
+   "Sweden 1X2 (rotation)",
+   "Poland -0.5 (fragile)"
+  ],
+  "confidence": 0.22,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/poland/uefa-nations-league/preview/poland-vs-sweden-prediction-team-news-lineups_609183.html",
+   "https://thefalse9.com/2026/11/poland-vs-sweden-predicted-lineup-team-news-17-november.html",
+   "https://tips.gg/article/poland-vs-sweden-17-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76866266",
+  "fx": "Warrenpoint Town FC v Glenavon FC",
+  "home_form": "Warrenpoint last 10: D 1-1 @Newington, L 1-4 Queens Univ, W 5-2 Crusaders, D 2-2 @Ballinamallard, W 1-0 Strabane, D 1-1 Annagh, W 2-0 @Rathfriland, L 0-2 @Institute, W 6-2 Moyola, L 0-1 Newington. Home: 1-4, 5-2, 1-0, 1-1, 6-2, 0-1.",
+  "away_form": "Glenavon last 10: W 6-1 @Loughgall, W 2-0 Institute, W 4-2 @Queens, W 5-0 @Strabane, W 4-0 HW Welders, D 1-1 @Annagh, W 3-0 @Moyola, W 4-1 Loughgall, W 1-0 Newington, D 1-1 @Ballinamallard. Unbeaten 10 (W8 D2), away 4W 2D, scored 2+ in 7/10.",
+  "trends": "Totals: Glenavon games O2.5 6/10; Warrenpoint O2.5 4/10 (home 3/6). Team totals: Glenavon 2+ goals in 7/10 (away 4/6). 1H: data sparse (Glenavon 3-0 HT at Strabane). Handicap: Glenavon won by 2+ in 6/10. Corners: no data.",
+  "h2h": "Historic Premiership H2H heavily Glenavon (17W-6D-2L); last found meeting Apr 2022 (Glenavon 1-2 Warrenpoint). No 2026 meeting found.",
+  "absences": "No team news found (Sportradar: no lineup/injury coverage).",
+  "context": "NIFL Championship round 13 (Sportradar), 20:45 CET. No preview coverage found. User pick Over 2.5 @1.51: mildly SUPPORTED by Glenavon's scoring (avg ~3.3 goals in their games) but Warrenpoint games split. Safer conversion: Glenavon DNB @1.19 (unbeaten in 10).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.19,
+    "p": 0.796891,
+    "why": "Glenavon unbeaten in 10 (8W), 4W 2D away; Warrenpoint lost 1-4 at home to Queens last time out.",
+    "oid": "5"
+   }
+  ],
+  "avoid": [
+   "Warrenpoint +1.5",
+   "Under 2.5",
+   "Glenavon team Under 2.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/football/match/warrenpoint-town-glenavon/Idcseor",
+   "https://www.skysports.com/football/glenavon-vs-warrenpoint-town/463387",
+   "Sportradar gismo stats_team_lastx (uids 43204, 5183)"
+  ]
+ },
+ {
+  "eid": "sr:match:68932054",
+  "fx": "Denmark v Norway",
+  "home_form": "Denmark NL A4: W 4-1 @POR, W 1-0 @WAL, L 2-4 POR, W 2-0 WAL, L 2-3 @NOR. Home group: 2-4, 2-0.",
+  "away_form": "Norway: W 3-1 WAL, L 1-2 @POR, L 1-2 @WAL, L 1-2 POR, W 3-2 DEN. Scored in 7/7 incl. friendlies v ENG, BRA.",
+  "trends": "Totals: Norway games 4,3,3,3,5 (O2.5 5/5); Denmark 5,1,6,2,5 (O2.5 3/5). Team totals: Norway scored 1+ in 7/7; Denmark scored in 4/5. BTTS: Norway games 5/5, Denmark 3/5. 1H: Norway 1H goals in 3/5. Handicap: 4 of Norway's 5 group games decided by 1 goal. Corners: no data.",
+  "h2h": "Norway 3-2 Denmark (Oslo, Sep 24 2026), Haaland 2 goals.",
+  "absences": "DEN: Andreas Christensen (thigh), Anton Gaaei (knee), Kasper Dolberg (knee) out; Andersen doubt. NOR: Sondre Langas (groin) out; Haaland fit, not rested; Schjelderup expected.",
+  "context": "Parken. Denmark need a draw; Norway must win (open game expected). User pick Over 3 @1.67: integer Over is banned; evidence SUPPORTS goals: convert to Over 2.5 @1.45 or BTTS Yes @1.43. Denmark missing Christensen weakens their defence.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.45,
+    "p": 0.661866,
+    "why": "Norway's 5 group games all had 3+ goals; reverse fixture 3-2; Norway must win; Denmark without Christensen/Gaaei.",
+    "oid": "12"
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.43,
+    "p": 0.67507,
+    "why": "BTTS in all 5 Norway group games and the 3-2 reverse; Haaland fit and starting; Denmark scored in 4/5. Correlated with Over 2.5: use one, not both.",
+    "oid": "74"
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.18,
+    "p": 0.82342,
+    "why": "Norway scored in 7 straight; must-win. Away TTS: single only.",
+    "oid": "12"
+   }
+  ],
+  "avoid": [
+   "Over 3 integer line (user pick; banned class)",
+   "Result sides (big-match, both ~0.49)",
+   "Unders"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.whoscored.com/matches/1969862/preview/international-uefa-nations-league-a-2026-2027-denmark-norway",
+   "https://thefalse9.com/2026/11/denmark-vs-norway-predicted-lineup-team-news-17-november.html",
+   "https://www.sofascore.com/news/denmark-vs-norway-nations-league-preview-lineups-and-stats"
+  ]
+ },
+ {
+  "eid": "sr:match:75802230",
+  "fx": "Niger v Morocco",
+  "home_form": "Niger: L 1-5 @MAR (Nov 13), L 1-2 @DZA, L 0-2 @GAB, W 2-1 LES, D 1-1 @BEN.",
+  "away_form": "Morocco: W 5-1 NIG, D 1-1 MLI, W 2-0 @LES, W 2-0 GAB; World Cup run (beat NED 4-3, CAN 3-0, lost 0-2 FRA).",
+  "trends": "Totals: Niger games 6,3,2,3,2 (O2.5 3/5); Morocco AFCON-qual games 6,2,2,2 (O2.5 1/4). Team totals: Morocco no data line. 1H: goals before HT in 4/4 Morocco qualifiers and 4/5 Niger games; the Nov 13 game was 3-1 at HT. Handicap: Morocco 7/7 H2H wins, last 3 aggregate 12-2. Corners: no data.",
+  "h2h": "Morocco won all 7 meetings; 5-1 in Casablanca four days ago; last 3 aggregate 12-2.",
+  "absences": "No specific absences found; rotation risk for Morocco after a 5-1 four days earlier.",
+  "context": "Niger's designated home game is played at Prince Moulay Abdellah Stadium, Rabat (Niger has no approved stadium) \u2014 effectively a Morocco home game; sources agree, so no settlement conflict, but home-side markets are inverted in practice. Morocco win seals AFCON qualification. User pick Over 3 @1.7: integer Over banned; evidence (12-2 H2H aggregate) supports goals but Morocco's other qualifiers were 2-goal games. Convert to 1H Over 0.5 @1.22 or Over 2.5 @1.46.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "68",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.22,
+    "p": 0.7933325172,
+    "why": "First-half goals in all 4 Morocco qualifiers and 4/5 Niger games; 3-1 HT four days ago.",
+    "oid": "12"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.46,
+    "p": 0.656272,
+    "why": "H2H last 3 = 12-2 aggregate, 5-1 on Nov 13, Morocco effectively at home in Rabat; risk: Morocco's other qualifiers finished 2-0/2-0/1-1.",
+    "oid": "12"
+   }
+  ],
+  "avoid": [
+   "Over 3 integer (user pick)",
+   "Over 3.5",
+   "Niger anything"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.moroccoworldnews.com/2026/11/346234/morocco-vs-niger-match-preview-team-news-kickoff-time-and-where-to-watch/",
+   "https://en.yabiladi.com/articles/details/207869/morocco-look-seal-afcon-qualification.html",
+   "https://www.sportsmole.co.uk/football/niger/africa-cup-of-nations/preview/niger-vs-morocco-prediction-team-news-lineups_609175.html"
+  ]
+ }
+]
