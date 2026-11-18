@@ -36,3 +36,4 @@
 - 2026-11-15: snapshot 13598 outcomes / 212 events; graded total 168238 (+9076 new)   [2026-11-15 01:23 UTC]
 - 2026-11-16: snapshot 3743 outcomes / 65 events; graded total 180108 (+7770 new)   [2026-11-16 01:26 UTC]
 - 2026-11-17: snapshot 8512 outcomes / 137 events; graded total 183467 (+2026 new)   [2026-11-17 04:15 UTC]
+- 2026-11-18: snapshot 8228 outcomes / 115 events; graded total 189018 (+4630 new)   [2026-11-18 03:13 UTC]
