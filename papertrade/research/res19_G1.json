@@ -1,0 +1,723 @@
+[
+ {
+  "eid": "sr:match:75756106",
+  "fx": "Pergamino Basket v Central Entrerriano",
+  "home_form": "Pergamino 0-5 in 2026/27 (L 96-98 OT at Gimnasia LP, L 89-96 v Dep. Viedma at home, L 68-90 at Central Entrerriano, L 75-77 at Rocamora, L 64-79 at La Union Colon). Bottom of Conferencia Sur; losses mostly close except v CE.",
+  "away_form": "Central Entrerriano 4-4: home 4-1 (W 75-73 Rocamora, L 74-90 Provincial, W 85-74 Regatas, W 103-80 La Union, W 90-68 Pergamino) but 0-3 away (L 53-71 Union MdP, L 74-93 Quilmes, L 75-79 Gimnasia).",
+  "trends": {
+   "game_totals": "Pergamino games 194(OT),185,158,152,143; CE games 148,164,159,183,158,124,167,154 - line 157.5 central",
+   "team_totals": "CE away scoring 53,74,75 (weak); Pergamino 64-96",
+   "first_half": "CE 1H scoring at home 37-53, away 26-37",
+   "handicap": "CE beat Pergamino by 22 at home Oct 25 but CE away margins -18,-19,-4",
+   "corners": "n/a"
+  },
+  "h2h": "Oct 25 2026: Central Entrerriano 90-68 Pergamino (Gualeguaychu).",
+  "absences": "No named absences found. Pergamino added shooter Lorenzo Capponi.",
+  "context": "Liga Argentina Conferencia Sur, Wed 18 Nov 21:00 local at Ricardo Dorado (=00:00 UTC 19 Nov, consistent). CE's home/away split is extreme; away ML p 0.666 below 0.75 basketball ML gate.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Away ML 1.41 / Away -5.5: CE 0-3 away this season"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eldiaonline.com/central-entrerriano-va-por-la-recuperacion-ante-su-publico-frente-a-pergamino-basquet",
+   "https://www.analisisdigital.com.ar/deportes/2026/11/11/provincial-le-corto-la-racha-central-entrerriano-en-la-liga-argentina-de-basquet",
+   "https://laopinionline.ar/articulo/pergamino-basquet-perdio-en-suplementario"
+  ]
+ },
+ {
+  "eid": "sr:match:75755980",
+  "fx": "Union de Santa Fe v Hindu Club",
+  "home_form": "Union de Santa Fe 4-1 (W 104-92 OT at Riachuelo, W 88-82 at Amancay, W 96-82 v Comunicaciones, L 75-80 v Barrio Parque, W 96-87 v Bochas). Home 2-1. 3rd in table (dropped from Liga Nacional to Liga Argentina this season).",
+  "away_form": "Hindu Club 3-3/4-3 (L 93-94 at Santa Paula last night, W 94-65 v Independiente, L 76-80 v Amancay, W 87-84 v Bochas, L 74-85 at Salta, W 77-69 at Jujuy). Away 1-2.",
+  "trends": {
+   "game_totals": "Union games 196(OT),170,178,155,183; Hindu 187,159,156,171,159,146 - line 168.5 fair",
+   "team_totals": "Union scored 88-104 in 4 of 5",
+   "first_half": "no clear edge",
+   "handicap": "Union home margins +14,-5,+9; Hindu away -1,-11,+8",
+   "corners": "n/a"
+  },
+  "h2h": "No 2026/27 meeting found.",
+  "absences": "None found.",
+  "context": "Hindu on a back-to-back: played at Santa Paula (Galvez) on 17 Nov night and now at Santa Fe on 18 Nov 21:00 local (00:00 UTC). Union rested since 11-12 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-5.5",
+    "desc": "Home (-5.5)",
+    "odds": 1.52,
+    "p": 0.610479,
+    "why": "Union rested v Hindu on a back-to-back after a 1-pt loss last night; Union 4-1 and scoring 88+ in 4/5. Own p ~0.60 vs house 0.61 - fair-priced, low edge."
+   }
+  ],
+  "avoid": [
+   "Home -8.5 or wider: Union home margins only +14/+9/-5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lt10.com.ar/noticia/514210--union-busca-prolongar-su-buen-inicio-ante-hindu-en-el-malvicino",
+   "https://www.laliganacional.com.ar/laligaargentina/noticia/49328/agonica-victoria-de-hindu-en-santa-fe",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75755976",
+  "fx": "Barrio Parque v Sportivo Suardi",
+  "home_form": "Barrio Parque 3-2 (L 91-96 at Riachuelo, W 82-58 v Independiente, L 74-77 v Amancay, W 80-75 at Union, W 89-83 at Santa Paula). Home 1-1.",
+  "away_form": "Sportivo Suardi 4-3 (L 64-72 at Villa San Martin, L 68-79 at Mitre Posadas, W 101-90 OT at Comunicaciones, L 77-79 v San Isidro, W 83-79 OT v Jujuy, W 75-53 v Riachuelo, W 91-76 at Bochas). On a long road trip, lost last 2.",
+  "trends": {
+   "game_totals": "BP games 187,140,151,155,172; Suardi 136,147,191(OT),156,162,128,167 - line 157.5 fair",
+   "team_totals": "Suardi scored 64 and 68 in last two road games",
+   "first_half": "-",
+   "handicap": "BP home: +24, -3",
+   "corners": "n/a"
+  },
+  "h2h": "None this season found.",
+  "absences": "None found.",
+  "context": "Liga Argentina Conferencia Norte. Only a headline-level preview found (gefinforma 'Parque recibe a Sportivo Suardi').",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Home -5.5 coin-flip: BP home record only 1-1"
+  ],
+  "confidence": 0.12,
+  "sources": [
+   "https://www.gefinforma.com/el-h-estuvo-cerca/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)",
+   "https://www.laliganacional.com.ar/laligaargentina/noticia/49328/agonica-victoria-de-hindu-en-santa-fe"
+  ]
+ },
+ {
+  "eid": "sr:match:72016898",
+  "fx": "Illawarra Hawks v Adelaide 36ers",
+  "home_form": "Illawarra 4-6 last 10; away 5-1 but home 0-4 in window (L 81-98 Brisbane, L 82-108 Sydney, L 100-110 Cairns, L 112-122 Tasmania). Last: L 100-111 OT at Perth, W 120-110 at SEM, L 78-106 at Adelaide.",
+  "away_form": "Adelaide 5-5 last 10, won last 2 (W 101-93 Melbourne Utd, W 106-78 Illawarra). Away 3-1 in window (W at NZB, Tasmania, Sydney; L at SEM).",
+  "trends": {
+   "game_totals": "Illawarra games avg ~205, Adelaide ~190; line 196.5 fair",
+   "team_totals": "-",
+   "first_half": "-",
+   "handicap": "Adelaide won by 28 on Nov 7; Illawarra won by 22 at home on Oct 2",
+   "corners": "n/a"
+  },
+  "h2h": "2026/27: Oct 2 Illawarra 114-92 Adelaide (Wollongong); Nov 7 Adelaide 106-78 Illawarra (Adelaide).",
+  "absences": "No current (Nov 2026) injury report found - only stale 2025 reports. FIBA window: national-team call-ups possible on both sides, unverified.",
+  "context": "NBL regular season, Wollongong. Split H2H; Illawarra poor at home this season.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-2.5",
+    "desc": "Away (+2.5)",
+    "odds": 1.44,
+    "p": 0.659914,
+    "why": "Adelaide covers +2.5 unless losing by 3+; Illawarra 0-4 at home in last 10 and Adelaide won the last meeting by 28. Own p ~0.67 vs house 0.66 - small edge, no injury confirmation."
+   }
+  ],
+  "avoid": [
+   "Illawarra ML/handicap: home record 0-4 in window"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hawks.com.au/news/hawkeye-illawarra-hawks-v-adelaide-36ers-r12-preview",
+   "https://www.adelaide36ers.com/news/round-12-preview-v-illawarra-hawks",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74320776",
+  "fx": "Unifacisa v Flamengo RJ",
+  "home_form": "Unifacisa NBB home 5-0 (W 104-95 OT Botafogo 17 Nov, W 84-79 Corinthians, W 71-63 Paulistano, W 81-65 Pinheiros, W 96-70 Osasco); away L 57-88 at Minas, W at Sao Jose, L at Mogi.",
+  "away_form": "Flamengo: NBB 4-1 (L 73-84 v Franca at home, W 80-66 at Pato, W 91-87 at Brasilia). Played 3 Liga Sudamericana games 14-15 Nov (W Boca 82-74, L 83-84 Brasilia, W 104-71 Paisas).",
+  "trends": {
+   "game_totals": "Unifacisa home games 199(OT),163,134,146,166; Flamengo 158,167,157,146,178",
+   "team_totals": "-",
+   "first_half": "-",
+   "handicap": "Unifacisa home margins +9,+5,+8,+16,+26 - never lost at home this season",
+   "corners": "n/a"
+  },
+  "h2h": "No 2026/27 meeting.",
+  "absences": "None found. Flamengo heavy schedule (3 continental games in 2 days last weekend, travel to Campina Grande); Unifacisa played OT on 17 Nov.",
+  "context": "NBB round 6, Thu 19 Nov 19:00 Brasilia (22:00 UTC), SporTV - consistent with board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=4.5",
+    "desc": "Home (+4.5)",
+    "odds": 1.76,
+    "p": 0.533794,
+    "why": "Unifacisa unbeaten at home (5-0, all by 5+), Flamengo off a 3-games-in-2-days Sudamericana window and lost last NBB home game. Own p ~0.60 vs house 0.534."
+   }
+  ],
+  "avoid": [
+   "Flamengo -2.5/-3.5 and Away ML 1.58"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://lnb.com.br/noticias/agenda-da-semana-de-13-a-19-de-novembro/",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/17/corinthians-recebe-paulistano-em-rodada-do-nbb-veja-onde-assistir",
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74320774",
+  "fx": "Pato Basquete v SC Corinthians Paulista",
+  "home_form": "Pato 2-6 NBB (L 62-67 at UEC, W 79-77 at Caxias, L 78-98 v Bauru, L 66-80 v Flamengo, L 68-76 at Cruzeiro, L 65-86 at Minas, W 89-88 v Botafogo, L 74-80 v Paulistano). Home 1-3.",
+  "away_form": "Corinthians 5-3 NBB (W 79-73 Paulistano 17 Nov, W 84-74 Osasco, L 79-91 Pinheiros, W 75-68 at Fortaleza, L 79-84 at Unifacisa, W 78-48 Franca). Away 1-3.",
+  "trends": {
+   "game_totals": "Pato games 129-178, scoring 62-89; Corinthians 152-196",
+   "team_totals": "Pato scored <=79 in 6/8",
+   "first_half": "-",
+   "handicap": "Pato home losses by 20,14,6; Corinthians away 1-3",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "None found. Corinthians on back-to-back travel (home v Paulistano 17 Nov, then Pato Branco PR 19 Nov).",
+  "context": "NBB, 19:30 Brasilia at Ginasio do Sesi, Pato Branco - consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Corinthians -6.5: 1-3 away and travelling after a game 2 days earlier"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://lnb.com.br/noticias/agenda-da-semana-de-13-a-19-de-novembro/",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/17/corinthians-recebe-paulistano-em-rodada-do-nbb-veja-onde-assistir",
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74320780",
+  "fx": "Basquete Osasco v Minas Tenis Clube MG",
+  "home_form": "Osasco 1-5 NBB (L 74-84 at Corinthians, L 75-93 Mogi, L 81-90 Sao Jose, L 74-89 Pinheiros, W 93-69 at Fortaleza, L 70-96 at Unifacisa). Home 0-3.",
+  "away_form": "Minas 8-0 NBB (W 77-63 Fortaleza, W 88-57 Unifacisa, W 77-64 at Bauru, W 87-76 at Franca, W 100-61 Brasilia, W 86-65 Pato, W 88-71 at UEC, W 78-66 at Caxias).",
+  "trends": {
+   "game_totals": "Minas NBB games 140,145,141,163,161,151,159,144 - 8/8 under 166.5 (max 163); Osasco games 158,168,171,163,162,166",
+   "team_totals": "Minas scored 77,88,77,87,100,86,88,78 (7/8 under 93.5); Minas allowed 63,57,64,76,61,65,71,66 (7/8 <=71)",
+   "first_half": "Minas 1H 35-48",
+   "handicap": "Minas margins 14,31,13,11,39,21,17,12 - 4/8 above 17.5",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "None found.",
+  "context": "NBB 20:00 Brasilia; Minas = 'Minas Storm'. Minas elite defence, wins by controlling pace.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=166.5",
+    "desc": "Under 166.5",
+    "odds": 1.71,
+    "p": 0.548432,
+    "why": "Minas' 8 NBB games all finished <=163 (avg 151) on the back of a defence allowing 57-76; Osasco's games 158-171. Own p ~0.66 vs house 0.548. Fixture-specific pace mechanism, but it is an Under."
+   },
+   {
+    "mid": "228",
+    "spec": "total=93.5",
+    "desc": "Under 93.5",
+    "odds": 1.58,
+    "p": 0.595286,
+    "why": "Minas own team total: 7/8 NBB games under 93.5 (only 100 v Brasilia). Own p ~0.68 vs house 0.595. Correlated with the game Under - use one, not both."
+   }
+  ],
+  "avoid": [
+   "Osasco team Over 71.5 (Minas allowed >71 once in 8)",
+   "Minas -17.5 coin flip"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://lnb.com.br/noticias/agenda-da-semana-de-13-a-19-de-novembro/",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/17/corinthians-recebe-paulistano-em-rodada-do-nbb-veja-onde-assistir",
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:74320778",
+  "fx": "EC Pinheiros SP v Cruzeiro Basquete",
+  "home_form": "Pinheiros 6-2 NBB (W 91-79 at Corinthians, L 70-85 Mogi, W 103-87 Sao Jose, W 91-53 Caxias, W 89-74 at Osasco, W 75-63 UEC, W 98-63 at Fortaleza, L 65-81 at Unifacisa). Home 3-1.",
+  "away_form": "Cruzeiro 3-4 NBB (L 73-77 Fortaleza, L 77-98 at Franca, W 78-74 at Bauru, W 76-68 Pato, L 80-89 Brasilia, L 74-83 at UEC, W 72-61 at Caxias). Away 2-2.",
+  "trends": {
+   "game_totals": "Pinheiros games 170,155,190,144,163,138,161,146; Cruzeiro 150,175,152,144,169,157,133",
+   "team_totals": "-",
+   "first_half": "-",
+   "handicap": "Pinheiros home margins -15,+16,+38,+12",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "None found.",
+  "context": "NBB 20:00 Brasilia, YouTube - consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Pinheiros -9.5: Cruzeiro's away losses were by 21 and 9, wins at Bauru/Caxias - not a clear cover"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://lnb.com.br/noticias/agenda-da-semana-de-13-a-19-de-novembro/",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/17/corinthians-recebe-paulistano-em-rodada-do-nbb-veja-onde-assistir",
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75880398",
+  "fx": "Fujian Sturgeons v Beijing Royal Fighters",
+  "home_form": "Fujian 5-3 in CBA regular season (W 82-74 at Sichuan, W 95-86 Qingdao, W 102-90 Shandong, L at Jiangsu, L at Shanghai, W 95-76 Ningbo). Rested.",
+  "away_form": "Beijing Royal Fighters 7-2 (W 97-67 Jiangxi Ganchi 18 Nov Club Cup, W 99-97 OT at Shandong, W 106-84 Xinjiang, W 115-64 Sichuan, L 90-91 OT at Guangzhou, W 103-70 Shenzhen).",
+  "trends": {
+   "game_totals": "RF games 164-199; Fujian 156-196",
+   "team_totals": "-",
+   "first_half": "-",
+   "handicap": "RF margins large v weak teams; Fujian is mid-table",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "None found. Back-to-back: this team played a Club Cup game on 18 Nov; opponent did not. (Royal Fighters played 18 Nov in Wuhan zone).",
+  "context": "CBA Club Cup is played in zone bubbles (nominal home side, effectively neutral venue). RF fatigue v rested Fujian argues against -10.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Royal Fighters -10.5 on a back-to-back"
+  ],
+  "confidence": 0.12,
+  "sources": [
+   "https://www.livesport.com/en/basketball/china/cba-club-cup/",
+   "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211140.shtml",
+   "https://k.sina.com.cn/article_7857201856_1d45362c001908vd0s.html",
+   "https://baike.baidu.com/en/item/CBA%20Club%20Cup/665345",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75880534",
+  "fx": "Jilin Northeast Tigers v Hong Kong Bulls",
+  "home_form": "Jilin 4-6 (W 91-85 v Guangzhou 18 Nov Club Cup, L 109-110 OT at Shanghai, L 79-90 Guangzhou, L 81-82 Shenzhen, W at Ningbo, W at Guangsha).",
+  "away_form": "Hong Kong Bulls: NBL (China second tier) club, Group D guest; no 2026/27 results in Sportradar (last: 10-0 run in Apr 2026 NBL).",
+  "trends": {
+   "game_totals": "-",
+   "team_totals": "-",
+   "first_half": "-",
+   "handicap": "-",
+   "corners": "n/a"
+  },
+  "h2h": "None.",
+  "absences": "Unknown HK roster.",
+  "context": "CBA Club Cup is played in zone bubbles (nominal home side, effectively neutral venue). Board prices NBL side HK Bulls as favourite (1.48) over CBA Jilin - cannot explain from data; Jilin on back-to-back. No evidence base.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Everything - no reliable HK Bulls data"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesport.com/en/basketball/china/cba-club-cup/",
+   "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211140.shtml",
+   "https://k.sina.com.cn/article_7857201856_1d45362c001908vd0s.html",
+   "https://baike.baidu.com/en/item/CBA%20Club%20Cup/665345",
+   "https://www.sofascore.com/basketball/team/hong-kong-bulls/1091859"
+  ]
+ },
+ {
+  "eid": "sr:match:75880468",
+  "fx": "Nanjing Monkey Kings v Xinjiang Flying Tigers",
+  "home_form": "Nanjing 3-7 (L 93-95 Jiangsu, L 84-100 at Shanghai, L 83-84 at Xinjiang, W 91-81 at Sichuan, L 80-101 at Qingdao, L 81-114 Guangzhou). Rested.",
+  "away_form": "Xinjiang 5-5 (W 90-77 Hefei Kuangfeng 18 Nov, L 84-87 at Shanxi, L 84-106 at Royal Fighters, W 84-83 Nanjing, L 75-81 Golden Bulls).",
+  "trends": {
+   "game_totals": "-",
+   "team_totals": "-",
+   "first_half": "-",
+   "handicap": "Xinjiang beat Nanjing by only 1 on Oct 29; line -14.5",
+   "corners": "n/a"
+  },
+  "h2h": "Oct 29 2026: Xinjiang 84-83 Nanjing.",
+  "absences": "Xinjiang imports Simpson/Myers played 18 Nov. Back-to-back: this team played a Club Cup game on 18 Nov; opponent did not. ",
+  "context": "CBA Club Cup is played in zone bubbles (nominal home side, effectively neutral venue). Price (-14.5) implies a roster gap not visible in results; Nanjing weak. Rule: no 15-pt catch for weak team - Nanjing +14.5 borderline, skipped.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Nanjing +14.5 (weak receiver)",
+   "Xinjiang -14.5 (back-to-back, H2H margin 1)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesport.com/en/basketball/china/cba-club-cup/",
+   "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211140.shtml",
+   "https://k.sina.com.cn/article_7857201856_1d45362c001908vd0s.html",
+   "https://baike.baidu.com/en/item/CBA%20Club%20Cup/665345",
+   "https://www.sohu.com/a/1103268501_561585"
+  ]
+ },
+ {
+  "eid": "sr:match:75880378",
+  "fx": "Shenzhen Leopards v Tianjin Pioneers",
+  "home_form": "Shenzhen 4-6 (W 93-90 OT Golden Bulls, L 71-91 at Liaoning, W 82-81 at Jilin, W 95-83 Shanxi, L 70-103 RF, L 62-120 at Beijing Ducks). Rested.",
+  "away_form": "Tianjin 3-7 (W 86-77 Shanghai Blackbird 18 Nov, L 88-99 Guangsha, W 95-81 Ningbo, L 92-95 Guangsha, L at Qingdao, L at Shandong).",
+  "trends": {
+   "game_totals": "-",
+   "team_totals": "-",
+   "first_half": "-",
+   "handicap": "Shenzhen's losses are routs (33,58,34)",
+   "corners": "n/a"
+  },
+  "h2h": "None.",
+  "absences": "None found. Tianjin on back-to-back.",
+  "context": "CBA Club Cup is played in zone bubbles (nominal home side, effectively neutral venue). ",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesport.com/en/basketball/china/cba-club-cup/",
+   "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211140.shtml",
+   "https://k.sina.com.cn/article_7857201856_1d45362c001908vd0s.html",
+   "https://baike.baidu.com/en/item/CBA%20Club%20Cup/665345",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75880380",
+  "fx": "Zhejiang Zhe Zheng Lions v Jiangsu Dragons",
+  "home_form": "Zhejiang Lions (Guangsha) 6-4 (W 99-88 at Tianjin, L 76-114 at Beijing Ducks, W 95-92 at Tianjin, W 90-84 Liaoning, L 81-82 Jilin, W 99-94 at Fujian). Rested.",
+  "away_form": "Jiangsu 2-8 (L 76-89 Beijing Ducks 18 Nov Club Cup, W 95-93 at Nanjing, L 62-70 at Golden Bulls, L 80-82 at Guangdong, W 88-78 Fujian, L 79-101 at Shanxi, L 82-93 at RF, L 81-89 Shenzhen).",
+  "trends": {
+   "game_totals": "Jiangsu games 132-180, low scoring (avg ~165); line 172.5",
+   "team_totals": "Jiangsu scored 62-95",
+   "first_half": "-",
+   "handicap": "Jiangsu losses mostly by 2-22",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "None found. Jiangsu on back-to-back (Yantai zone, lost to Beijing Ducks 18 Nov).",
+  "context": "CBA Club Cup is played in zone bubbles (nominal home side, effectively neutral venue). Rested Lions v tired 2-8 Jiangsu.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-5.5",
+    "desc": "Home (-5.5)",
+    "odds": 1.65,
+    "p": 0.564477,
+    "why": "Rested Lions v Jiangsu (2-8, back-to-back after 76-89 loss on 18 Nov). Own p ~0.60 vs house 0.564; neutral bubble venue limits home edge."
+   }
+  ],
+  "avoid": [
+   "Jiangsu +7.5/+8.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.livesport.com/en/basketball/china/cba-club-cup/",
+   "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211140.shtml",
+   "https://k.sina.com.cn/article_7857201856_1d45362c001908vd0s.html",
+   "https://baike.baidu.com/en/item/CBA%20Club%20Cup/665345",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75880536",
+  "fx": "Guangdong Southern Tigers v Zhejiang Golden Bulls",
+  "home_form": "Guangdong 4-6 and in turmoil: L 65-69 v Shandong 18 Nov (new coach Berrocal's debut, back-to-back), L 109-112 Qingdao, L 76-85 at Shandong, W 82-80 Jiangsu.",
+  "away_form": "Zhejiang Golden Bulls 6-4 (L 90-93 OT at Shenzhen, W 70-62 Jiangsu, L 81-88 Shanghai, W 81-75 at Xinjiang, W 91-49 at Sichuan, W 88-80 Qingdao, W 89-75 Shandong). Rested.",
+  "trends": {
+   "game_totals": "Guangdong 18 Nov game only 134; GB games 131-183; line 163.5",
+   "team_totals": "Guangdong scored 65 last night",
+   "first_half": "-",
+   "handicap": "GB v weak sides won by 6-42",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "None found. Guangdong on back-to-back with a new coach.",
+  "context": "CBA Club Cup is played in zone bubbles (nominal home side, effectively neutral venue). Group D (Qionghai zone).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=6.5",
+    "desc": "Away (-6.5)",
+    "odds": 1.6,
+    "p": 0.588009,
+    "why": "Golden Bulls rested v Guangdong on a back-to-back under a new coach after scoring 65 on 18 Nov. Own p ~0.62 vs house 0.588."
+   }
+  ],
+  "avoid": [
+   "Guangdong +8.5/+9.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.livesport.com/en/basketball/china/cba-club-cup/",
+   "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211140.shtml",
+   "https://k.sina.com.cn/article_7857201856_1d45362c001908vd0s.html",
+   "https://baike.baidu.com/en/item/CBA%20Club%20Cup/665345",
+   "https://k.sina.com.cn/article_7857201856_1d45362c001908vd8i.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75880400",
+  "fx": "Shanghai Sharks v Sichuan Blue Whales",
+  "home_form": "Shanghai 9-1 (champions of last Club Cup: W 110-109 OT Jilin, W 100-84 Nanjing, W 88-81 at GB, W 99-87 Guangdong, W 94-89 Fujian, L 92-103 at Shanxi, W 105-92 at RF, W 102-68 Shenzhen). Rested.",
+  "away_form": "Sichuan 2-8 (L 63-99 v Qingdao 18 Nov Club Cup, L 74-82 Fujian, L 89-95 at Shanxi, L 64-115 at RF, L 81-91 Nanjing, L 49-91 GB).",
+  "trends": {
+   "game_totals": "-",
+   "team_totals": "Shanghai scored 88-110 (6/10 over 97.5); Sichuan conceded 82-115",
+   "first_half": "-",
+   "handicap": "Sichuan losses by 36,8,6,51,10,42,11; Shanghai beat Sichuan by 15 in Oct 2026",
+   "corners": "n/a"
+  },
+  "h2h": "Oct 10 2026: Sichuan 74-89 Shanghai.",
+  "absences": "None found; FIBA-window national-team absences for Shanghai unverified. Sichuan on back-to-back.",
+  "context": "CBA Club Cup is played in zone bubbles (nominal home side, effectively neutral venue). ",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Shanghai -21.5/-23.5: large spread, Shanghai margins v weak sides 15-34, only fair"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livesport.com/en/basketball/china/cba-club-cup/",
+   "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211140.shtml",
+   "https://k.sina.com.cn/article_7857201856_1d45362c001908vd0s.html",
+   "https://baike.baidu.com/en/item/CBA%20Club%20Cup/665345",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75880470",
+  "fx": "Shanxi Loongs v Ningbo Rockets",
+  "home_form": "Shanxi 8-2 (W 87-84 Xinjiang, W 95-89 Sichuan, W 113-93 at Guangzhou, L 83-95 at Shenzhen, W 101-79 Jiangsu, W 103-92 Shanghai, W 103-73 at Ningbo). Rested.",
+  "away_form": "Ningbo 0-10 (L 97-102 Liaoning 18 Nov - both sides all-Chinese lineups, L 88-120 Beijing Ducks, L 81-95 at Tianjin, L 91-107 Liaoning, L 73-103 v Shanxi).",
+  "trends": {
+   "game_totals": "-",
+   "team_totals": "Ningbo scored 71-97",
+   "first_half": "-",
+   "handicap": "Shanxi beat Ningbo by 30 on Oct 20; Ningbo losses 5-32",
+   "corners": "n/a"
+  },
+  "h2h": "Oct 20 2026: Ningbo 73-103 Shanxi.",
+  "absences": "Ningbo used an all-Chinese lineup on 18 Nov (import status unclear). Ningbo on back-to-back.",
+  "context": "CBA Club Cup is played in zone bubbles (nominal home side, effectively neutral venue). ",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Ningbo +28.5 catch (weak receiver)",
+   "Shanxi -28.5 huge number"
+  ],
+  "confidence": 0.12,
+  "sources": [
+   "https://www.livesport.com/en/basketball/china/cba-club-cup/",
+   "http://www.chinanews.com.cn/tp/hd2011/2026/11-18/1211140.shtml",
+   "https://k.sina.com.cn/article_7857201856_1d45362c001908vd0s.html",
+   "https://baike.baidu.com/en/item/CBA%20Club%20Cup/665345",
+   "https://k.sina.com.cn/article_7857201856_1d45362c001908vc80.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72663224",
+  "fx": "Vaerlose v Copenhagen Basketball",
+  "home_form": "Vaerlose 1-9 (L 76-86 Bears, L 59-86 at Svendborg, L 62-95 Naestved, W 107-99 OT at Herlev, L 64-68 Holbaek, L 82-123 Bakken). Home 0-6 in window.",
+  "away_form": "Copenhagen 5-5 (L 74-89 at Holbaek, L 90-96 Randers, W 93-67 at Herlev, L 98-103 OT Svendborg, W 97-96 Vejen, W 78-66 at Bears).",
+  "trends": {
+   "game_totals": "Vaerlose games 145-205; line 164.5",
+   "team_totals": "Vaerlose scored 59-85 in regulation",
+   "first_half": "-",
+   "handicap": "Vaerlose home losses by 10,33,4,41,4(OT); Copenhagen won H2H by 14",
+   "corners": "n/a"
+  },
+  "h2h": "Sep 22 2026: Copenhagen 88-74 Vaerlose.",
+  "absences": "None found.",
+  "context": "Basketligaen; date matches Sportradar (19 Nov 19:00 CET), not confirmed by league site.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=5.5",
+    "desc": "Away (-5.5)",
+    "odds": 1.36,
+    "p": 0.703742,
+    "why": "Vaerlose 0-6 at home in window with most losses by 10+, and Copenhagen beat them by 14 in Sept. Copenhagen inconsistent (5-5). Own p ~0.68 vs house 0.704 - no edge, fair at best."
+   }
+  ],
+  "avoid": [
+   "Copenhagen -10.5"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/en-us/basketball/team/copenhagen-basketball-57241",
+   "https://www.365scores.com/basketball/match/basketligaen-5896/copenhagen-basketball-v%C3%A6rl%C3%B8se-bbk-16664-57241-5896",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:75799562",
+  "fx": "Surrey 89ers v Caledonia Gladiators",
+  "home_form": "Surrey 89ers 3-5 SLB (L 77-80 at London Lions, W 68-53 at Bristol, L 76-81 Sheffield, W 107-91 at Cheshire, L 55-82 at Newcastle, W 107-102 OT Leicester, L 74-85 Liverpool). Home 1-2.",
+  "away_form": "Caledonia 3-5 (L 80-91 Leicester, L 93-119 at Liverpool, L 92-99 Newcastle, W 94-92 at Manchester, W 87-79 Sheffield, L 67-91 at Newcastle). Away 1-3.",
+  "trends": {
+   "game_totals": "-",
+   "team_totals": "-",
+   "first_half": "-",
+   "handicap": "Surrey home results: -5, +5 OT, -11",
+   "corners": "n/a"
+  },
+  "h2h": "Jan 2026: Caledonia 73-86 Surrey.",
+  "absences": "None found.",
+  "context": "SLB at Surrey Sports Park; start time differs between sources (FanDuel 2pm ET vs board 19:00 UTC) - date agrees.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Surrey -8.5 / ML 1.22: Surrey 1-2 at home, not a clear favourite"
+  ],
+  "confidence": 0.12,
+  "sources": [
+   "https://caledoniagladiators.com/mens-fixtures/",
+   "https://sportsbook.fanduel.com/basketball/british-slb/surrey-89ers-v-caledonia-gladiators-36328976?tab=popular",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72467044",
+  "fx": "Alftanes v UMF Grindavik",
+  "home_form": "Alftanes 5-1 (W 80-68 at Valur, L 94-102 KR, W 108-105 OT at Tindastoll, W 130-110 Keflavik, W 119-88 at IR, W 111-77 Hottur). 2nd in power ranking.",
+  "away_form": "Grindavik 4-2 (W 84-76 Sindri, W 100-81 at Armann, W 104-103 OT Njardvik, W 98-92 Stjarnan, L 74-81 at Valur, L 80-91 KR).",
+  "trends": {
+   "game_totals": "Alftanes games 148-240; Grindavik 160-207",
+   "team_totals": "-",
+   "first_half": "-",
+   "handicap": "top-5 v top-5",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "None found.",
+  "context": "Bonus deild round 7.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Alftanes -9.5: two top-5 sides"
+  ],
+  "confidence": 0.12,
+  "sources": [
+   "https://www.karfan.is/kr-eitt-a-toppnum-og-fyrsti-sigur-njardvikur-i-hofn/",
+   "https://www.karfan.is/kr-a-toppnum-i-nyrri-kraftrodun-run-gun-fyrir-bonusdeild-karla/",
+   "https://www.visir.is/p/bonuskarla",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72467052",
+  "fx": "Armann v Stjarnan",
+  "home_form": "Armann 0-6, promoted, last in power ranking (L 97-107 at Njardvik, L 81-100 Grindavik, L 84-87 at Valur, L 74-108 at KR, L 86-109 at Tindastoll, L 90-108 Keflavik). Lost by 10,19,3,34,23,18.",
+  "away_form": "Stjarnan 3-3, won last 3 (W 113-94 Keflavik, W 103-79 at Njardvik, W 102-96 IR; L 92-98 at Grindavik, L 98-103 Hottur, L 77-90 at Valur).",
+  "trends": {
+   "game_totals": "Armann games 171-204; Stjarnan 175-207; line 196.5",
+   "team_totals": "-",
+   "first_half": "-",
+   "handicap": "Armann lost by 13+ in 4/6",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "None found.",
+  "context": "Bonus deild; derby-free.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=12.5",
+    "desc": "Away (-12.5)",
+    "odds": 1.65,
+    "p": 0.565662,
+    "why": "Armann winless and conceding 100+ regularly (lost by 13+ in 4/6); Stjarnan in form (won last 2 by 19 and 24). Own p ~0.58 vs house 0.566 - thin edge."
+   }
+  ],
+  "avoid": [
+   "Armann +14.5"
+  ],
+  "confidence": 0.18,
+  "sources": [
+   "https://www.karfan.is/kr-eitt-a-toppnum-og-fyrsti-sigur-njardvikur-i-hofn/",
+   "https://www.karfan.is/kr-a-toppnum-i-nyrri-kraftrodun-run-gun-fyrir-bonusdeild-karla/",
+   "https://www.visir.is/p/bonuskarla",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72467046",
+  "fx": "Hottur v Valur Reykjavik",
+  "home_form": "Hottur 2-4 (L 92-112 at KR, L 73-80 Tindastoll, L 99-112 at Keflavik, W 108-96 IR, W 103-98 at Stjarnan, L 77-111 at Alftanes). Home 1-1.",
+  "away_form": "Valur 5-1 (L 68-80 Alftanes, W 86-73 at Sindri, W 87-84 Armann, W 93-85 at Njardvik, W 81-74 Grindavik, W 90-77 Stjarnan).",
+  "trends": {
+   "game_totals": "Hottur games 153-211 (4/6 >=188); Valur games 148-178 (all <=178) - conflicting pace",
+   "team_totals": "Valur scored 68-93",
+   "first_half": "-",
+   "handicap": "-",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "None found.",
+  "context": "Bonus deild; long trip to Egilsstadir for Valur.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Game total either side - pace profiles conflict"
+  ],
+  "confidence": 0.12,
+  "sources": [
+   "https://www.karfan.is/kr-eitt-a-toppnum-og-fyrsti-sigur-njardvikur-i-hofn/",
+   "https://www.karfan.is/kr-a-toppnum-i-nyrri-kraftrodun-run-gun-fyrir-bonusdeild-karla/",
+   "https://www.visir.is/p/bonuskarla",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ },
+ {
+  "eid": "sr:match:72467048",
+  "fx": "IR Reykjavik v KR Reykjavik",
+  "home_form": "IR 1-5 (L 87-94 at Tindastoll, L 90-100 Keflavik, L 96-102 at Stjarnan, L 96-108 at Hottur, L 88-119 Alftanes, W 97-91 at Sindri).",
+  "away_form": "KR 6-0, top of table (W 112-92 Hottur, W 102-94 at Alftanes, W 107-102 Sindri, W 108-74 Armann, W 84-73 Njardvik, W 91-80 at Grindavik).",
+  "trends": {
+   "game_totals": "KR games 157-209; IR 181-207; line 192.5",
+   "team_totals": "-",
+   "first_half": "-",
+   "handicap": "KR margins 20,8,5,34,11,11",
+   "corners": "n/a"
+  },
+  "h2h": "None this season.",
+  "absences": "None found.",
+  "context": "Reykjavik derby (IR v KR) - per rules no result-side in derbies.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "KR -8.5/-10.5 (derby)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.karfan.is/kr-eitt-a-toppnum-og-fyrsti-sigur-njardvikur-i-hofn/",
+   "https://www.karfan.is/kr-a-toppnum-i-nyrri-kraftrodun-run-gun-fyrir-bonusdeild-karla/",
+   "https://www.visir.is/p/bonuskarla",
+   "Sportradar gismo stats_team_lastx (engine/sr.py)"
+  ]
+ }
+]

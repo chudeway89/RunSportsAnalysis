@@ -1,0 +1,756 @@
+[
+ {
+  "eid": "sr:match:66887164",
+  "fx": "SC Corinthians SP v Botafogo FR RJ",
+  "home_form": "Corinthians (17th, 37 pts, relegation zone) last 8: A Sao Paulo 0-0, H Mirassol 2-0 W, A Vasco 2-3 L, H Vitoria 1-1, A Palmeiras 1-4 L, A Internacional 1-2 L, H Fluminense 1-3 L, H Estudiantes 0-1 L. Home: W1 D1 L2 in last 4, scored 0,1,1,2.",
+  "away_form": "Botafogo (42 pts) last 8: H Atletico-MG 1-0 W, A Remo 1-2 L, A Internacional 0-3 L, H Chapecoense 1-0 W, A Coritiba 1-1, H Vasco 1-2 L, A Mirassol 0-2 L, H Gremio 3-2 W. Away: D1 L3 in last 4, scored 1,0,1,0.",
+  "trends": {
+   "game_totals": "Corinthians last 8 totals 0,2,5,2,5,3,4,1 (O2.5 4/8); Botafogo 1,3,3,1,2,3,2,5. No clear under/over lean.",
+   "team_totals": "Botafogo away scored 0-1 in each of last 4 away games (team U1.5 4/4). Corinthians home scored <=2 in last 4 and lose striker Yuri Alberto (suspended).",
+   "first_half": "Corinthians HT goals at home: 0-0,0-1,0-1,0-0 -> slow starters.",
+   "handicap": "No margin pattern; Corinthians wins are 1-2 goals.",
+   "corners": "No reliable data pulled."
+  },
+  "h2h": "No recent H2H data pulled.",
+  "absences": "Corinthians: Yuri Alberto and Andre Ramalho suspended, Rodrigo Garro injured (knee), Andre (Data FIFA). Botafogo: Danilo, Barrera injured / Kadir injured (sources differ), Ferraresi on international duty.",
+  "context": "Round 35 of 38. Kickoff Wed 18 Nov 21:30 BRT = 00:30 UTC 19 Nov, Neo Quimica Arena. Corinthians must-win relegation scrap at home. Ref Wilton Pereira Sampaio (card-heavy).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.26,
+    "p": 0.761164,
+    "why": "Botafogo away scored 1,0,1,0 in last 4 away games (L3 D1); short-handed attack. My p ~0.80 vs house 0.761. Short price - filler only."
+   }
+  ],
+  "avoid": [
+   "Corinthians -0.5/1X2 at 1.70: home form W1 D1 L2, missing top scorer Yuri Alberto and Garro - house p 0.569 is fair at best",
+   "Over 2.5 (no edge)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://terra.com.br/esportes/corinthians/corinthians-x-botafogo-vai-passar-na-rede-globo-confira-onde-assistir-ao-jogo-pelo-brasileirao,505cac2cd6d6cc970260f6748b375793bvzayve4.html",
+   "https://ncnews.com.br/2026/11/18/corinthians-x-botafogo-onde-assistir-ao-vivo-horario-e-escalacoes-pelo-brasileirao/",
+   "https://folhadoleste.com.br/corinthians-x-botafogo-onde-assistir-escalacoes-18-11/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114633286",
+  "fx": "Bangalore Dream United v FC Agniputhra",
+  "home_form": "No data (no Sportradar coverage, no web previews found).",
+  "away_form": "No data.",
+  "trends": {
+   "game_totals": "unknown",
+   "team_totals": "unknown",
+   "first_half": "unknown",
+   "handicap": "unknown",
+   "corners": "none"
+  },
+  "h2h": "unknown",
+  "absences": "unknown",
+  "context": "Bangalore Super Division (regional amateur state league).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Everything: amateur regional league with no data"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://ifl.com.in/schedule/",
+   "https://www.sofascore.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114633287",
+  "fx": "Technico FF v Kickstart FC",
+  "home_form": "No data.",
+  "away_form": "No data.",
+  "trends": {
+   "game_totals": "House has Kickstart 1.03 favourites; O3.5 1.33 implies rout expectation, no data to verify",
+   "team_totals": "unknown",
+   "first_half": "unknown",
+   "handicap": "unknown",
+   "corners": "none"
+  },
+  "h2h": "unknown",
+  "absences": "unknown",
+  "context": "Bangalore Super Division regional amateur league.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Overs on an unverified rout - amateur regional"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://ifl.com.in/schedule/",
+   "https://www.sofascore.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114633288",
+  "fx": "HAL SC Bangalore v FC Real Bengaluru",
+  "home_form": "No data.",
+  "away_form": "No data.",
+  "trends": {
+   "game_totals": "unknown",
+   "team_totals": "unknown",
+   "first_half": "unknown",
+   "handicap": "unknown",
+   "corners": "none"
+  },
+  "h2h": "unknown",
+  "absences": "unknown",
+  "context": "Bangalore Super Division regional amateur league.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Everything"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://ifl.com.in/schedule/",
+   "https://www.sofascore.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:75834480",
+  "fx": "Dempo SC v Shillong Lajong FC",
+  "home_form": "Dempo (3rd, 6 pts from 3): H Chanmari 1-2 L, A Samaleswari 2-1 W, H FC Bengaluru Utd 1-0 W.",
+  "away_form": "Shillong Lajong (2nd, 7 pts, unbeaten): H Sreenidi Deccan 2-1 W, H Chanmari 1-1, A Mohammedan 1-0 W.",
+  "trends": {
+   "game_totals": "Dempo 3,3,1; Lajong 3,2,1 - small sample",
+   "team_totals": "Each side scoring 1-2",
+   "first_half": "no pattern",
+   "handicap": "tight games, all 1-goal margins",
+   "corners": "none"
+  },
+  "h2h": "No usable recent H2H.",
+  "absences": "None reported.",
+  "context": "IFL (2nd tier) matchweek 4, Fatorda Goa 4pm IST. Lajong would go top with a win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Lajong DNB 1.55: priced fairly, 3-game sample"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.morungexpress.com/ifl-unbeaten-shillong-lajong-eye-top-spot-against-dempo-nagaland-united-face-winless-samaleswari-1",
+   "https://khelnow.com/football/indian-football-ifl-2026-27-leg-1-fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:74846742",
+  "fx": "Persib Bandung v Shan United",
+  "home_form": "Persib last 8: A Java Utd 2-1 W, A Melbourne Victory 1-2 L(?), H Adhyaksa 4-0 W, H Melbourne Victory 2-0 W, A Garuda Yaksa 1-2 L, A Madura 1-0 W, H Persik 1-0 W, H Cong (VIE) 1-0 W. HT scores mostly 0-0/1-0.",
+  "away_form": "Shan United (Myanmar) last 8 mixed in domestic/regional games incl. heavy defeats (e.g. 0-4 type scores).",
+  "trends": {
+   "game_totals": "Persib totals 3,3,4,2,3,1,1,1 - many 1-0 wins, not routing",
+   "team_totals": "Persib scores 1-2 typically",
+   "first_half": "Persib HT: 2-0,0-0,3-0,0-0,0-1,0-0,0-0,1-0 -> 1H U1.5 6/8",
+   "handicap": "Persib wins mostly by 1 goal",
+   "corners": "none"
+  },
+  "h2h": "None.",
+  "absences": "None found.",
+  "context": "ASEAN Club Championship group stage, GBLA Bandung 19:00 WIB. Persib 1.07 favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Persib big handicaps / O3.5: Persib grind 1-0s",
+   "1H Under 1.5 at 1.85 is tempting (6/8) but opponent far weaker than Persib's domestic foes"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://bola.kompas.com/read/2026/11/13/09583658/jadwal-dan-harga-tiket-persib-vs-shan-united-di-asean-club-championship",
+   "https://tirto.id/jadwal-shopee-cup-2026-live-rcti-18-19-november-update-klasemen-idQy"
+  ]
+ },
+ {
+  "eid": "sr:match:72597092",
+  "fx": "PKR Svay Rieng v Port FC",
+  "home_form": "Svay Rieng last 8: H Nagaworld 3-1 W, H Tampines 2-0 W, A Tampines 1-5 L, H Visakha 2-2, H Boeung Ket 4-1 W, H Shanghai Shenhua 0-0, A JDT 0-6 L, A Isi Dangkor 1-1. Totals 4,2,6,4,5,0,6,2.",
+  "away_form": "Port FC last 8: H Chonburi 1-1, H Beijing Guoan 7-4, A JDT 0-3 L, H Rayong 4-1, A Bangkok Utd 0-2 L, A Kashiwa 5-1 (as listed), H Pattani 3-2, H Persib 1-3 L. Totals 2,11,3,5,2,6,5,4.",
+  "trends": {
+   "game_totals": "Port matches O2.5 in 6/8; Svay Rieng O2.5 5/8 (conceded 6 to JDT, 5 to Tampines). Combined 11/16.",
+   "team_totals": "Port score freely and concede (4 to Beijing, 3 to JDT, 3 to Persib)",
+   "first_half": "Port games often loaded first half (3-4 HT v Beijing)",
+   "handicap": "Port lost both ACC games; even pricing fair",
+   "corners": "none"
+  },
+  "h2h": "None recent.",
+  "absences": "None reported.",
+  "context": "ASEAN Club Championship group stage in Phnom Penh. Both lost their ACC opener(s); both need points -> open game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.73,
+    "p": 0.531962,
+    "why": "Port matches 6/8 over 2.5, Svay Rieng 5/8 incl. 6-0 and 5-1 defeats; both chasing a first ACC win. My p ~0.60 vs house 0.532."
+   }
+  ],
+  "avoid": [
+   "Under 3.5",
+   "Either side to win - coin flip"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://tirto.id/jadwal-shopee-cup-2026-live-rcti-18-19-november-update-klasemen-idQy",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_ASEAN_Club_Championship_group_stage"
+  ]
+ },
+ {
+  "eid": "sr:match:72597090",
+  "fx": "Cong An Ha Noi FC v Johor Darul Tazim FC",
+  "home_form": "Cong An Ha Noi last 8: H CA TP HCM 2-1 W, H Kyoto 0-0, A Nghe An 1-1, A Shanghai Port 2-3 L, H Thanh Hoa 1-1, H Hanoi 1-2 L, H Kashima 0-1 L, A Lion City 0-1 L. Home: W1 D2 L2 last 5, scored 2,0,1,1,0.",
+  "away_form": "JDT last 8: H Brunei DPMM 6-1 W, A Jeonbuk 0-2 L, H Port 3-0 W, A DPMM 2-0 W, A Terengganu 3-0 W, A Pohang 2-0 W, H Penang 4-1 W, H Svay Rieng 6-0 W. Away: W4 L1.",
+  "trends": {
+   "game_totals": "CAHN home games low (3,0,2,3,1); JDT games high (7,2,3,2,3,2,5,6)",
+   "team_totals": "CAHN home scored <=1 in 4 of last 5",
+   "first_half": "CAHN home HT mostly 0-0/0-1",
+   "handicap": "JDT away wins by 2-3 (Terengganu 3-0, Pohang 2-0, DPMM 2-0)",
+   "corners": "none"
+  },
+  "h2h": "None recent.",
+  "absences": "None reported.",
+  "context": "ACC Group B MD2 in Hanoi 19:30 WIB. JDT lead group after 6-0 v Svay Rieng and 3-0 v Port.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.32,
+    "p": 0.712564,
+    "why": "JDT won 6 of last 8 incl. away at Pohang 2-0 and Terengganu 3-0; CAHN won 1 of last 8 and score <=1 at home. My p ~0.74 vs house 0.713."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.39,
+    "p": 0.665715,
+    "why": "CAHN home goals 2,0,1,1,0 and JDT conceded 0 in 3 of last 4 away. My p ~0.72 vs 0.666."
+   }
+  ],
+  "avoid": [
+   "CAHN result-side",
+   "JDT -0.5 at 1.70 (fair, CAHN draw-prone at home)"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://tirto.id/jadwal-shopee-cup-2026-live-rcti-18-19-november-update-klasemen-idQy",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_ASEAN_Club_Championship_group_stage"
+  ]
+ },
+ {
+  "eid": "sr:match:75834482",
+  "fx": "Samaleswari SC v Nagaland United SC",
+  "home_form": "Samaleswari (winless, 0 pts from 3): H Rajasthan Utd 0-2 L, H Dempo 1-2 L, A Gokulam 2-3 L.",
+  "away_form": "Nagaland United: H Gokulam 1-2 L, A Real Kashmir 3-1 W.",
+  "trends": {
+   "game_totals": "Samaleswari games 2,3,5; Nagaland 3,4 - smallest samples",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "None.",
+  "absences": "None reported.",
+  "context": "IFL MW4, Rourkela 6.30pm IST. New-ish clubs, tiny samples.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Result-sides on 2-3 game samples"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.morungexpress.com/ifl-unbeaten-shillong-lajong-eye-top-spot-against-dempo-nagaland-united-face-winless-samaleswari-1",
+   "https://khelnow.com/football/indian-football-ifl-2026-27-leg-1-fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:76570790",
+  "fx": "Malavan Bandar Anzali FC v Gol Gohar Sirjan FC",
+  "home_form": "Malavan (15th) last 8: A Sepahan 0-4 L, H Chadormalu 1-2 L, A Peykan 1-1, H Tractor 3-0 W, H Foolad 1-2 L, A Aluminium 1-1, A Shahr-e Babak 2-1 W, H Nassaji 0-1 L. Home W1 L3.",
+  "away_form": "Gol Gohar (9th) last 8: H Isfahan 0-0, A Arkadag 1-0 W, H Arkadag 0-0, H Kheybar 0-1 L, A Esteghlal 1-0 W, A Al-Muharraq 2-0 W, H Esteghlal Khuz 3-0 W, H Al Jazira 0-0. Conceded 1 in 8.",
+  "trends": {
+   "game_totals": "Gol Gohar totals 0,1,0,1,1,2,3,0 (U2.5 7/8); Malavan 4,3,2,3,3,2,3,1 (U2.5 3/8)",
+   "team_totals": "Gol Gohar concede ~0.1/game",
+   "first_half": "Gol Gohar HT 0-0 in 6/8",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "Gol Gohar 1-0 Malavan (Feb 2026).",
+  "absences": "None found.",
+  "context": "Persian Gulf Pro League, Bandar Anzali. Low-scoring league.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Under 2.5 at 1.31 - fair price, Malavan games go over",
+   "Malavan home win - W1 L3 at home"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://onefootball.com/en/match/2739182",
+   "https://www.betexplorer.com/football/iran/persian-gulf-pro-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:75619134",
+  "fx": "Aigle Royal v Colombe Sportive Du Dja Et Lobo",
+  "home_form": "Aigle Royal (league leaders, 11 pts from 5, W3 D2, GD +11): H PWD Bamenda 3-0, A Canon 0-0, H Stade Renard 4-0, H Union Sportive 4-0, A Dynamo Douala 2-2. Home 3/3 wins, 11-0.",
+  "away_form": "Colombe (reigning champions, 7 pts from 3): H Dynamo 1-1 (16 Nov), H Victoria Utd 2-1, A Stade Renard 1-1; CAF games v PWD Bamenda/Teungueth.",
+  "trends": {
+   "game_totals": "Aigle home 3,4,4; Colombe 2,3,2",
+   "team_totals": "Aigle scored 3+ in every home game; Colombe concede rarely (13 in 26 last season)",
+   "first_half": "no HT data",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "Last meeting (Jun 2026): Colombe 1-0 Aigle Royal.",
+  "absences": "None found.",
+  "context": "Elite One midweek round. Colombe played Sun 16 Nov -> 3 days rest plus CAF CL travel load this autumn.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.74,
+    "p": 0.525447,
+    "why": "Aigle Royal top of the table and 3/3 home wins by 11-0; Colombe on 3 days rest after CAF campaign. My p ~0.57 vs house 0.525. Thin league - low stake."
+   }
+  ],
+  "avoid": [
+   "Over 2.5 - Colombe defensive champions",
+   "Colombe DNB"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnewsafrica.com/actualites/calendrier-elite-one-cameroun-programme-et-horaires-de-la-semaine-18-novembre-2026/",
+   "https://madeinfoot.ouest-france.fr/resultats/cameroun/elite-one/classement-general-0.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76805608",
+  "fx": "PFC Dobrudzha Dobrich v FC Fratria Varna",
+  "home_form": "Dobrudzha (13th, 2 wins): H Etar 2-2, A Spartak Pleven 1-1, A Ludogorets II 1-5 L, H Montana 2-1 W, H Chernomorets 0-3 L, A Belasitsa 1-2 L(as listed), A Hebar 1-2, H CSKA II 1-3 L.",
+  "away_form": "Fratria Varna (3rd): A Nesebar 3-2 W, H Sportist 6-2 W, H Montana 1-2 L, H Vratsa 1-2 L, A Etar 0-2 L, A Balkan 3-0 W, H Spartak Pleven 3-0 W, A Pirin 2-1 W. Away W3 L1.",
+  "trends": {
+   "game_totals": "Dobrudzha 4,2,6,3,3,3,3,4; Fratria 5,8,3,3,2,3,3,3 - overs common",
+   "team_totals": "Fratria scored 2+ in 3 of last 4 away",
+   "first_half": "n/a",
+   "handicap": "Fratria away wins by 1-3",
+   "corners": "none"
+  },
+  "h2h": "None recent (Dec 2024 2-0).",
+  "absences": "None found.",
+  "context": "Rescheduled Round 14 tie (postponed 2 Nov, waterlogged pitch). New date not found in Bulgarian press; Sportradar and SportyBet both list 19 Nov 15:00 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Away (-0.5)",
+    "odds": 1.62,
+    "p": 0.570977,
+    "why": "Fratria 3rd and W3 L1 away; Dobrudzha 13th with 2 wins, conceding 3 to Chernomorets and 5 to Ludogorets II. My p ~0.60 vs 0.571. Date of rescheduled game not independently confirmed - check before posting."
+   }
+  ],
+  "avoid": [
+   "Under 2.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.bta.bg/bg/news/sport/1239258-sreshtata-ot-vtora-liga-dobrudzha-dch-fratriya-varna-se-otlaga-za-neoprede",
+   "https://www.bta.bg/bg/news/sport/1212688-fratriya-si-varna-tretoto-myasto-vav-vtora-liga-s-pobeda-nad-spartak-pleven-d"
+  ]
+ },
+ {
+  "eid": "sr:match:76738344",
+  "fx": "Al Mokawloon Al Arab v El Qanah FC",
+  "home_form": "Al Mokawloon: H WE 1-0 W, A Al Ahly 0-1 L, A Zamalek 1-2 L, A ENPPI 3-0 W, H ZED 1-1, H El Gouna 2-0 W.",
+  "away_form": "El Qanah: A Modern 1-0 W, H Modern 1-0 W, H ENPPI 1-3 L, A Al Ahly 3-3, H Al-Masry 1-1, A Pyramids 2-3 L, A ZED 1-2 L.",
+  "trends": {
+   "game_totals": "Mokawloon 1,1,3,3,2,2; Qanah 1,1,4,6,2,5,3",
+   "team_totals": "Qanah scored in 6 of 7",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "None recent.",
+  "absences": "None found.",
+  "context": "Egypt Cup R16, single-leg knockout (90 min settles), Petro Sport Stadium. Qanah competitive v big sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Mokawloon 1X2 - knockout, Qanah drew Ahly/Masry",
+   "Qanah to fail to score"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ysscores.com/en/news/14094361/fa-announces-dates-for-5-matches-in-egypt-cup-round-of-16",
+   "https://africasoccer.com/egypt-cup-last-16-matches-set-for-18-20-november-but-al-ahly-zamalek-and-pyramids-fc-held-back/"
+  ]
+ },
+ {
+  "eid": "sr:match:76738342",
+  "fx": "Al-Masry v Asyut Petroleum",
+  "home_form": "Al-Masry (League Cup holders): H Misr Lel Makkasa 2-1 W, H Petrojet 0-0, A National Bank 1-1, H Abo Qair 1-1, A Qanah 1-1, A Ceramica 0-1 L, H Ittihad 0-2 L, A Petrojet 2-1 W.",
+  "away_form": "Asyut Petroleum: A El Gaish 0-1 L, A ENPPI 0-0, H El Gouna 1-1, H Zamalek 0-1 L, A Abo Qair 1-2 L, H Al Ahly 0-5 L, H Modern 0-2 L, A Ittihad 1-0 W. Scored 0 in 5 of 8.",
+  "trends": {
+   "game_totals": "Masry totals 3,0,2,2,2,1,2,3 (U2.5 6/8); Asyut 1,0,2,1,3,5,2,1 (U2.5 6/8) -> 12/16 combined",
+   "team_totals": "Asyut scored 3 goals in 8 games",
+   "first_half": "Masry HT mostly level",
+   "handicap": "Masry wins by 1",
+   "corners": "none"
+  },
+  "h2h": "None recent.",
+  "absences": "None found.",
+  "context": "Egypt Cup R16 single-leg knockout at New Suez Stadium; 90-minute settlement. Egyptian football low-scoring.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Under 2.5",
+    "odds": 1.48,
+    "p": 0.6405762593,
+    "why": "12 of the two sides' last 16 games stayed under 2.5; Asyut scored 3 goals in 8, Masry's last 6 had <=2 goals. My p ~0.70 vs house 0.641 (note engine Under gate p>=0.82 - this is below it)."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.734365617,
+    "why": "Masry unbeaten in 5 of last 6 at short-ish odds v blunt Asyut (0 goals in 5 of 8). Knockout -> DNB only. My p ~0.75 vs 0.734."
+   }
+  ],
+  "avoid": [
+   "Al-Masry -0.5 at 1.79 - Masry draw-prone (4 draws in 8), knockout",
+   "Over 1.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.ysscores.com/en/news/14094361/fa-announces-dates-for-5-matches-in-egypt-cup-round-of-16",
+   "https://www.365scores.com/en-us/football/team/petrol-asyut-12254"
+  ]
+ },
+ {
+  "eid": "sr:match:75949128",
+  "fx": "Al-Gharraf SC v Al Quwa Al Jawiya",
+  "home_form": "Al-Gharraf: A Erbil 1-1, A Karkh 2-1 W, H Naft 0-0, A Karbalaa 2-1 W, H Julan 0-0, A Zawraa 0-2 L, H Diyala 1-3 L, H Shorta 1-2 L. Home: no win in 4, scored 0,0,1,1.",
+  "away_form": "Al Quwa Al Jawiya (champions): H Karkh 0-1 L, A Al Wasl 3-4 L, H Minaa 0-0, H Pakhtakor 1-0 W, A Talaba 0-1 L, H Karma 0-0, H Al Ain 1-4 L, A Mosul 3-0 W. League form poor, AFC load.",
+  "trends": {
+   "game_totals": "Gharraf home 0,0,4,3; Quwa 1,7,0,1,1,0,5,3",
+   "team_totals": "Gharraf home scored <=1 in 4/4; Quwa scored <=1 in 6/8",
+   "first_half": "Quwa HT 0-0 in several",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Iraq Stars League. Al Quwa juggling ACL2 (Al Wasl, Pakhtakor) - out of form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Al Quwa DNB 1.41 - champions out of form (1 league win in 5)",
+   "Gharraf team to score 1.52"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/iraq/stars-league/",
+   "https://en.wikipedia.org/wiki/Al-Quwa_Al-Jawiya"
+  ]
+ },
+ {
+  "eid": "sr:match:75949130",
+  "fx": "Ghaz Al-Shamal SC v AL Karkh",
+  "home_form": "Ghaz Al-Shamal: A Talaba 2-2, A Erbil 1-1, H Naft Maysan 1-0 W, H Zawraa 1-0 W, A Minaa 0-2 L, H Newroz 0-0, A Shorta 0-0, A Duhok 1-1. Home: W2 D1, 0 conceded.",
+  "away_form": "Al Karkh: A Al Quwa 1-0 W, H Gharraf 1-2 L, H Mosul 1-1, A Shorta 1-1, A Karma 2-3 L, H Naft Maysan 3-2 W, H Duhok 3-2 W, A Talaba 2-3 L. Away W1 D1 L2.",
+  "trends": {
+   "game_totals": "Ghaz totals 4,2,1,1,2,0,0,2 (U2.5 7/8); Karkh 1,3,2,2,5,5,5,5",
+   "team_totals": "Ghaz home conceded 0 in 3",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "None found.",
+  "absences": "None found.",
+  "context": "Iraq Stars League, 17:00 CET (some sites list 20 Nov 00:00 local-time display - same moment, not a conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.55,
+    "p": 0.594104,
+    "why": "Ghaz unbeaten at home (W2 D1, 0 conceded) and lost 1 of last 8; Karkh lost 2 of last 4 away. My p ~0.62 vs 0.594."
+   }
+  ],
+  "avoid": [
+   "Over 2.5 (Ghaz games low)",
+   "Karkh +0.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betexplorer.com/football/iraq/stars-league/",
+   "https://www.aiscore.com/tournament-iraq-stars-league/1edq09im0ofyqxg"
+  ]
+ },
+ {
+  "eid": "sr:match:72044406",
+  "fx": "FC Fredericia v Hillerod Fodbold",
+  "home_form": "Fredericia (3rd, 23 pts from 13): A Vejle 0-1 L, H Gladsaxe 3-1 W, A Esbjerg 1-2 L, H Hobro 3-0 W, A Hillerod 2-0 W, H Vejle 2-2, A Kolding 0-0, H Esbjerg 1-0 W. Home unbeaten W3 D1 (9-3).",
+  "away_form": "Hillerod: H Kolding 3-1 W, A Aarhus Fremad 0-2 L, H Aalborg 2-1 W, A Hvidovre 0-1 L, H Fredericia 0-2 L, A Kolding 1-1, H Gladsaxe 1-0 W, A Vanlose 1-2 L. Away: W0 D1 L3, scored 0,0,1,1.",
+  "trends": {
+   "game_totals": "Fredericia home totals 4,3,4,1",
+   "team_totals": "Hillerod scored <=1 in all 4 recent away games; Fredericia scored 2+ in 3 of 4 home",
+   "first_half": "Fredericia 3-0 HT v Hobro; mixed",
+   "handicap": "Fredericia home wins by 2,3,1",
+   "corners": "no data"
+  },
+  "h2h": "Hillerod 0-2 Fredericia (10 Oct 2026).",
+  "absences": "None found.",
+  "context": "Danish 1. Division round 15 at Monjasa Park, 18:00 UTC. Fredericia in promotion race.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Home (-1.0)",
+    "odds": 1.48,
+    "p": 0.642505,
+    "why": "Fredericia home W3 D1 with 2+ margins in 2 of 3 wins; won 2-0 at Hillerod in October; Hillerod scored <=1 in every recent away game. Win by 1 = refund. My p(win) ~0.50, p(win or push) ~0.70 vs house 0.643."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.26,
+    "p": 0.763093,
+    "why": "Hillerod away scored 0,0,1,1 and 0 v Fredericia in H2H. My p ~0.80 vs 0.763 (short)."
+   }
+  ],
+  "avoid": [
+   "Hillerod +2.5 / Fredericia -1.5 at 1.86 (fair)",
+   "Over 3"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.365scores.com/football/match/1st-division-120/fc-fredericia-hiller%C3%B8d-1846-26432-120",
+   "https://footystats.org/denmark/fc-fredericia-vs-hillerod-fodbold-h2h-stats",
+   "https://www.fannews.dk/fc-fredericia/"
+  ]
+ },
+ {
+  "eid": "sr:match:76738346",
+  "fx": "Zed FC v Smouha SC",
+  "home_form": "ZED: H Minyat Samanod 5-1 W, H El Gaish 0-0, A Ceramica 1-2 W(as listed: ZED won 2-1), A Azam 0-1 W, H Modern 3-2 W, H Azam 1-1, A Mokawloon 1-1, A Zamalek 0-3 L. Home unbeaten W2 D2.",
+  "away_form": "Smouha: H Minya 2-0 W, H Pyramids 0-1 L, A Petrojet 1-1, A El Gouna 0-2 L, H El Mahallah 1-0 W, A El Gaish 0-1 L, H Ceramica 0-2 L, A Al Ahly 0-1 L. Away: D1 L3, scored 1 in 4.",
+  "trends": {
+   "game_totals": "Smouha totals mostly 1-2; ZED home 6,0,5,2",
+   "team_totals": "Smouha away scored 1 goal in last 4 away",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "None recent.",
+  "absences": "None found.",
+  "context": "Egypt Cup R16 single-leg knockout (90-min settlement), Cairo Stadium. Kickoff 18:00 UTC per board; FA says 8pm local (18:00 UTC) - consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.61,
+    "p": 0.583459,
+    "why": "ZED unbeaten in 7 of last 8 (home W2 D2); Smouha 1 goal in last 4 away and L3. Knockout -> DNB. My p ~0.63 vs 0.583."
+   }
+  ],
+  "avoid": [
+   "Smouha DC/+0.5",
+   "Over 2.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://scores24.live/en/soccer/m-19-11-2026-zed-smouha-prediction",
+   "https://www.ysscores.com/en/news/14094361/fa-announces-dates-for-5-matches-in-egypt-cup-round-of-16"
+  ]
+ },
+ {
+  "eid": "sr:match:72524032",
+  "fx": "Amiens v SM Caen",
+  "home_form": "Amiens (20 pts, unbeaten in 8): A Cambrai 3-0 W, A Aubagne 2-0 W, H Thionville 1-1, A Valenciennes 1-1, H Villefranche 3-0 W, A QRM 1-1, H Orleans 2-0 W, A Cannes 0-0. Home W2 D1, conceded 1.",
+  "away_form": "Caen (3rd, 22 pts): A Choisy-au-Bac 2-0 W (cup), H Versailles 1-0 W, A Le Puy 2-2, H La Roche 2-1 W, A Fleury 2-3 L, H Rouen 3-2 W, A Concarneau 0-2 L, H Paris 13 2-0 W. League away: D1 L2 in last 3.",
+  "trends": {
+   "game_totals": "Amiens totals 3,2,2,2,3,2,2,0 (U2.5 in 6/8); Caen 2,1,4,3,5,5,2,2",
+   "team_totals": "Amiens conceded 3 in 8; Caen away conceded 2,3,2",
+   "first_half": "Amiens HT mostly 0-0/0-1",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "Amiens 2-1 Caen (Mar 2025).",
+  "absences": "Amiens: Somon (ankle) doubtful, Pandor doubtful; Letono, Ribelin, Llort return after rest. Caen: Hafid out (older report).",
+  "context": "Ligue 3/National matchday 13, Licorne, 20:45 CET. Top-of-table clash (Caen 3rd 22, Amiens 20). Coach Pochat: 'not the turning point of the season'.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.61,
+    "p": 0.581354,
+    "why": "Amiens unbeaten in 8 (conceded 3), home W2 D1; Caen lost 2 of last 3 league away games. My p ~0.62 vs 0.581."
+   }
+  ],
+  "avoid": [
+   "Over 2.5 (Amiens games 6/8 under)",
+   "Caen +0.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://le11amienois.fr/amiens-sc-caen-alain-pochat-avant-match/",
+   "https://www.footmercato.net/live/2686963815504430788-amiens-sc-vs-caen",
+   "https://le11amienois.fr/amiens-sc-caen-pandor-somon-point-groupe/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887160",
+  "fx": "CR Vasco da Gama RJ v SC Internacional RS",
+  "home_form": "Vasco last 8: A Chapecoense 2-0 W, H Palmeiras 6-6 (cup, as listed), A Athletico 3-1 W, A Palmeiras 0-1 L, H Flamengo 1-4 L, H Corinthians 3-2 W, H Boca 1-3 L, A Sao Paulo 0-1 L.",
+  "away_form": "Internacional last 8: H Coritiba 1-0 W, A Fluminense 1-2 L, H Botafogo 3-0 W, A Mirassol 0-2 L, A Gremio 1-1, H Corinthians 2-1 W, A Sao Paulo 0-1 L, A Chapecoense 2-1 W. Away: W1 D1 L3, scored 1,0,1,0,2.",
+  "trends": {
+   "game_totals": "Inter away totals 3,2,2,1,3",
+   "team_totals": "Inter away scored <=1 in 4 of last 5 away; now without Maripan (susp), Thiago Maia, Rochet, Alan Patrick doubtful",
+   "first_half": "Inter away HT 0-0 in 3 of 5",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "No recent H2H pulled.",
+  "absences": "Vasco: Tche Tche, Cauan Barros, Carlos Cuesta out; Robert Renan doubtful; Thiago Mendes, Sosa, Nuno Moreira back. Inter: Kayky, Rochet, Matheus Cunha, Arhin out; Thiago Maia (thigh) out; Maripan suspended; Alan Patrick doubtful.",
+  "context": "Round 35, Sao Januario 19:30 BRT. Vasco won 2 straight away.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.28,
+    "p": 0.7450663495,
+    "why": "Inter away scored <=1 in 4 of last 5 and lose Alan Patrick (doubtful) and Thiago Maia. My p ~0.79 vs 0.745. Short."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.753859,
+    "why": "Inter away W1 D1 L3; Inter missing defensive spine (Maripan susp, Rochet). My p ~0.77 vs 0.754 - short, filler."
+   }
+  ],
+  "avoid": [
+   "Vasco -0.5 at 1.65 (home form L2 of last 3)",
+   "Over 2.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://trivela.com.br/onde-assistir/palpite-escalacoes-vasco-x-internacional-19-11-2026/",
+   "https://www.ogol.com.br/noticias/vasco-x-internacional-horario-escalacoes-e-onde-assistir-brasileirao-19-11/1262329",
+   "https://vascaino.net/noticias-do-vasco/vasco-internacional-ondeassistir/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887174",
+  "fx": "EC Vitoria BA v Red Bull Bragantino SP",
+  "home_form": "Vitoria last 8: H Fluminense 0-3 L, A Coritiba 0-2 L, H Athletico 1-1, A Corinthians 1-1, A Sao Paulo 1-2 L, H Chapecoense 4-0 W, H Cruzeiro 1-3 L, A Mirassol 2-2. Home W1 D1 L2.",
+  "away_form": "Bragantino last 8: H Santos 2-1 W, H Chapecoense 3-0 W, A Palmeiras 0-2 L, A Remo 1-1, H Cruzeiro 4-2 W, H Mirassol 1-1, A Atletico-MG 0-1 L, A Flamengo 1-2 L. Away: D1 L3, scored 1,0,1,0 (as listed).",
+  "trends": {
+   "game_totals": "Vitoria totals 3,2,2,2,3,4,4,4; Bragantino 3,3,2,2,6,2,1,3",
+   "team_totals": "Bragantino strong at home, weak away (2 goals in last 4 away)",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "No H2H pulled.",
+  "absences": "Vitoria: Dudu, Nathan Mendes, Fabiano injured. Bragantino: Lucas Barbosa suspended, Davi Gomes and Rodriguinho injured.",
+  "context": "Round 35 in Salvador. Kickoff date confirmed only by board/Sportradar (one preview lacked date) - consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.47,
+    "p": 0.631945,
+    "why": "Bragantino 0 wins in last 4 away (2 goals) and without Lucas Barbosa; Vitoria at Barradao. My p ~0.66 vs 0.632."
+   }
+  ],
+  "avoid": [
+   "Bragantino DNB/away",
+   "Over 2.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://atarde.com.br/esportes/ecvitoria/vitoria-x-rb-bragantino-onde-assistir-escalacoes-e-arbitragem-1409739",
+   "https://www.netvasco.com.br/n/385548/confira-desfalques-e-pendurados-de-vasco-e-red-bull-bragantino"
+  ]
+ },
+ {
+  "eid": "sr:match:76174034",
+  "fx": "Independiente Valle Del Cauca v Envigado FC",
+  "home_form": "Independiente Valle del Cauca (5 pts): A Boca Cali 2-1 W, H Magdalena 0-0, A Magdalena 1-1, H Boca Cali 2-4 L, A Envigado 0-2 L.",
+  "away_form": "Envigado (7 pts, group leader, Apertura champions): H Magdalena 2-3 L, H Boca 2-0 W, A Boca 0-1 L, A Magdalena 1-1, H IVC 2-0 W.",
+  "trends": {
+   "game_totals": "IVC 3,0,2,6,2; Envigado 5,2,1,2,2",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "none"
+  },
+  "h2h": "Envigado 2-0 IVC (29 Oct, same group).",
+  "absences": "None found.",
+  "context": "Primera B cuadrangular A, final matchday 6; group winner reaches promotion final. Envigado 7, IVC 5 - both must-win / Envigado may settle for a draw depending on Boca. Venue listed 'por definir' by WinSports.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "All result-sides: final-day must-win dynamics",
+   "Under 2.5 1.49 (fair)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.deportesrcn.com/futbol/torneo-betplay-asi-se-jugara-la-fecha-6-de-los-cuadrangulares-159711",
+   "https://www.winsports.co/futbol-colombiano/noticias/torneo-betplay-asi-se-jugara-la-fecha-6-de-los-cuadrangulares-479363"
+  ]
+ }
+]

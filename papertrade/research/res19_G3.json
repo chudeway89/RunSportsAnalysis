@@ -1,0 +1,667 @@
+[
+ {
+  "eid": "sr:match:73719688",
+  "fx": "Cleveland Cavaliers v Memphis Grizzlies",
+  "home_form": "Cavs W5 L5 last 10; home 116.2-110.6 (n5); beat CHI 126-115, DAL 127-117 last two home",
+  "away_form": "Grizzlies W6 L4; away 130.0-109.0 (n4): won at WAS 136-120, NOP 142-111, TOR 118-102",
+  "trends": {
+   "game totals": "CLE games avg 233, MEM 238; line 237.5",
+   "team totals": "CLE home 116; MEM scored 129-142 last 3",
+   "first half": "n/a",
+   "handicap": "no margin pattern",
+   "corners": "no corner market/data"
+  },
+  "h2h": "Apr 2026 CLE won 142-126 at MEM",
+  "absences": "CLE: Mobley OUT (toe), Tyson OUT, Tomlin OUT, Watson doubtful, Merrill Q. MEM: Jerome, Pippen Jr., GG Jackson, Saunders, I. Stewart OUT.",
+  "context": "Both sides one day of rest. Heavy absences on both sides; no clean edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cavs ML/handicaps (Mobley out); totals around 237.5 (no edge).",
+  "confidence": 0.15,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:73719690",
+  "fx": "Indiana Pacers v Houston Rockets",
+  "home_form": "Pacers W3 L7; home 104.2-106.5 (n6), lost to DEN, ATL, BKN at home",
+  "away_form": "Rockets W6 L4; away 116.8-116.3 (n4); lost 110-128 at MIA in last game",
+  "trends": {
+   "game totals": "both avg ~225; line 225.5",
+   "team totals": "IND home scoring 104",
+   "first half": "n/a",
+   "handicap": "HOU wins by 7-21 at home, closer away",
+   "corners": "no corner market/data"
+  },
+  "h2h": "HOU won both 2025-26 meetings by 4 and 7",
+  "absences": "IND: Haliburton OUT, Furphy OUT, Sheppard OUT, Nembhard Q, McConnell probable. HOU: Capela OUT, Amen Thompson Q.",
+  "context": "Rockets ML 1.34 p0.73 is below the 0.75 basketball ML gate; Amen Thompson status open.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rockets ML (p<0.75, Thompson Q); Pacers catches.",
+  "confidence": 0.15,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:73719692",
+  "fx": "Miami Heat v Milwaukee Bucks",
+  "home_form": "Heat W8 L2; home 135.8-118.3 (n4): beat HOU 128-110, DET 137-117, CLE 133-121, IND 145-125 (all by 12+)",
+  "away_form": "Bucks W0 L10; away 96.5-111.3 (n4): lost at ORL 99-107, NYK 85-117, BOS 102-109, MIN 100-112",
+  "trends": {
+   "game totals": "MIA games avg 241.6; MIL 220.6",
+   "team totals": "MIA scored 128/137/133/145 in last 4 home games (4/4 over 124.5); MIL allows 111-124",
+   "first half": "n/a",
+   "handicap": "MIL lost all 10 by 7,8,11,32,20,14,7,12,25,32 (8/10 by 8+); MIA home wins all by 12+",
+   "corners": "no corner market/data"
+  },
+  "h2h": "MIA won 119-86 (Jul) and 112-105 (Mar); MIL won 128-117 (Feb)",
+  "absences": "MIA: Gardner OUT; Adebayo, Jovic, Larsson, K. Thompson all AVAILABLE. MIL: Dieng OUT (finger), Rollins OUT (illness).",
+  "context": "Bucks 0-10 and losing by an average of 17; Heat fully stocked at home. ML 1.16 too short; value is in the handicap/team total.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-7.5",
+    "desc": "Home (-7.5)",
+    "odds": 1.48,
+    "p": 0.65755,
+    "why": "Bucks 0-10, lost 8/10 by 8+; Heat home wins by 18/20/12/20; Heat core available (Adebayo, Jovic, Thompson cleared). My p ~0.70 vs house 0.658."
+   },
+   {
+    "mid": "227",
+    "spec": "total=122.5",
+    "desc": "Over 122.5",
+    "odds": 1.71,
+    "p": 0.558251,
+    "why": "Heat scored 128,137,133,145 in last 4 home games; Bucks allowed 113-136 in 6 of last 10. My p ~0.62 vs house 0.558 (correlated with the -7.5)."
+   }
+  ],
+  "avoid": "Heat ML 1.16 (padding); Bucks + catches.",
+  "confidence": 0.3,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries",
+   "https://foxsports1070.iheart.com/content/2026-11-18-bucks-vs-heat-injury-report-nov-18/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719694",
+  "fx": "Orlando Magic v Philadelphia 76ers",
+  "home_form": "Magic W5 L5; home 99.3-103.3 (n3)",
+  "away_form": "76ers W8 L2; away 115.6-114.6 (n5)",
+  "trends": {
+   "game totals": "ORL games avg 219.5; PHI 228.9; line 221.5",
+   "team totals": "\u2014",
+   "first half": "n/a",
+   "handicap": "pick-em",
+   "corners": "no corner market/data"
+  },
+  "h2h": "PHI 2-1 in last 3 meetings",
+  "absences": "ORL: Banchero OUT, Isaac OUT, Nelson OUT, Penda OUT. PHI: Jaylen Brown OUT (hamstring), Hukporti, Bona, Barlow OUT; Wade Q.",
+  "context": "Coin-flip with star absences on both sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (50/50).",
+  "confidence": 0.1,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries",
+   "https://957wdae.iheart.com/content/2026-11-18-76ers-vs-magic-injury-report-nov-18/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719696",
+  "fx": "Brooklyn Nets v Chicago Bulls",
+  "home_form": "Nets W3 L7; home 110.3-116.3 (n3)",
+  "away_form": "Bulls W2 L8; away 109.0-125.3 (n6)",
+  "trends": {
+   "game totals": "CHI games avg 240; BKN 227; line 239.5",
+   "team totals": "\u2014",
+   "first half": "n/a",
+   "handicap": "no pattern",
+   "corners": "no corner market/data"
+  },
+  "h2h": "Split 2-1 BKN in 2025-26",
+  "absences": "CHI: Awaka OUT, C. Wilson OUT, P. Williams probable. BKN: none listed.",
+  "context": "Two poor teams; no fixture-specific edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All lines.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:73719698",
+  "fx": "Toronto Raptors v Washington Wizards",
+  "home_form": "Raptors W2 L8; home scores 102,108,93,102,114 (avg 103.8); played NYK last night (B2B)",
+  "away_form": "Wizards W2 L8; away 104.4-116.6 (n5)",
+  "trends": {
+   "game totals": "TOR home totals 213,220,191,220,235; WAS away 215,211,189,271,197",
+   "team totals": "TOR scored <=114 in all 5 home games",
+   "first half": "n/a",
+   "handicap": "TOR lost 5 straight home",
+   "corners": "no corner market/data"
+  },
+  "h2h": "TOR won 112-102 (Oct) and 134-125 (Mar)",
+  "absences": "TOR: Kawhi Leonard OUT, Scottie Barnes OUT, Bittle OUT, RJ Barrett Q. WAS: Beekman, Champagnie, Vukcevic, Watkins OUT.",
+  "context": "Raptors on 2nd night of B2B without their two best players.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "227",
+    "spec": "total=116.5",
+    "desc": "Under 116.5",
+    "odds": 1.68,
+    "p": 0.567215,
+    "why": "Raptors scored 102/108/93/102/114 in last 5 home games (5/5 under) and now lack Leonard AND Barnes (Barrett Q) on a back-to-back. Risk: Wizards defence poor (allowed 114-139 away). My p ~0.63 vs house 0.567."
+   }
+  ],
+  "avoid": "Raptors ML 1.56 / -handicaps (two stars out, B2B); game Over.",
+  "confidence": 0.25,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:75452308",
+  "fx": "Club Malvin v CS Larranaga",
+  "home_form": "Malvin W4 L6; home 78.7-80.5 (n6)",
+  "away_form": "Larranaga W4 L6; away 76.6-86.2 (n5), lost 4 of 5 away",
+  "trends": {
+   "game totals": "Malvin home totals 160,160,177,143,151,164",
+   "team totals": "\u2014",
+   "first half": "\u2014",
+   "handicap": "\u2014",
+   "corners": "no corner market/data"
+  },
+  "h2h": "none in feed",
+  "absences": "No news found.",
+  "context": "LUB round 8; thin coverage.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportradar/en/match/75452308",
+   "https://www.fubb.org.uy/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887170",
+  "fx": "Gremio FB Porto Alegrense RS v EC Bahia BA",
+  "home_form": "Gremio W3 D4 L3; home last 5: 2-0 Atletico-MG, 2-0 Paranaense, 2-4 Cruzeiro, 1-1 Inter, 0-0 Palmeiras (unbeaten 4/5)",
+  "away_form": "Bahia W5 D1 L4; away last 5: 2-3 Cruzeiro, 1-1 Santos, 0-1 Palmeiras, 1-2 Paranaense, 3-2 Bragantino (W1 in 5)",
+  "trends": {
+   "game totals": "Gremio 3/10 O2.5, Bahia 7/10",
+   "team totals": "\u2014",
+   "first half": "Bahia 1H goal 9/10",
+   "handicap": "\u2014",
+   "corners": "Gremio home corners 4,6,8,6 (no edge)"
+  },
+  "h2h": "Bahia 1-1 (May 2026), Bahia 4-0 (Oct 2025)",
+  "absences": "Gremio: Villasanti suspended, Kannemann suspended (3rd yellow, per Terra), Marlon doubt; Pavon, Danilo Barbosa back. Bahia: Leo Vieira injured, Marco Moreno bench.",
+  "context": "Round 35, Arena do Gremio, Wed 18 Nov 21:30 BRT (=00:30 UTC 19 Nov, consistent). Gremio 18th (relegation zone, must-win) v 6th-placed Bahia.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.42,
+    "p": 0.661312097,
+    "why": "Gremio unbeaten in 4 of last 5 home games and fighting relegation; Bahia have won 1 of last 5 away. Two Gremio defenders suspended keeps it modest. My p ~0.69 vs house 0.661."
+   }
+  ],
+  "avoid": "Bahia result side; Under 2.5 (Bahia games 7/10 over).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.terra.com.br/esportes/gremio/gremio-x-bahia-onde-assistir-provaveis-escalacoes-horario-e-arbitragem,dfad715065ea14f9be1217e207ac491bxwhb4jx0.html",
+   "https://www.band.com.br/esportes/futebol/brasileirao-serie-a/gremio-x-bahia-onde-assistir-e-provaveis-escalacoes",
+   "https://www.ogol.com.br/noticias/gremio-x-bahia-horario-escalacoes-e-onde-assistir-brasileirao-18-11/1261893"
+  ]
+ },
+ {
+  "eid": "sr:match:73719706",
+  "fx": "Dallas Mavericks v Golden State Warriors",
+  "home_form": "Mavs W5 L5; home 117.2-106.2 (n6): beat IND, BKN, UTA, HOU, OKC at home; lost 2 road games by 37/39",
+  "away_form": "Warriors W7 L3 but lost last 3 (all away) by 21, 38, 7; away scored 94, 85, 108",
+  "trends": {
+   "game totals": "line 225.5",
+   "team totals": "GSW away scoring 94/85/108/119; DAL home allows 106",
+   "first half": "n/a",
+   "handicap": "DAL home wins 3-37 margins",
+   "corners": "no corner market/data"
+  },
+  "h2h": "GSW won 3 of last 4",
+  "absences": "GSW: Curry OUT (oblique tear), Butler OUT, Moody OUT, Porzingis OUT (not with team), B. Williams OUT, Green Q, Horford Q. DAL: Lively OUT, de Larrea, Biberovic OUT, Christie Q.",
+  "context": "Warriors play at Memphis tomorrow (front of a B2B) so Green/Horford may be limited.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "228",
+    "spec": "total=112.5",
+    "desc": "Under 112.5",
+    "odds": 1.68,
+    "p": 0.57124,
+    "why": "Warriors without Curry, Butler, Moody, Porzingis (Green/Horford Q, B2B tomorrow) scored 94, 85, 108 in the last three road games; Dallas home allows 106. My p ~0.65 vs house 0.571."
+   },
+   {
+    "mid": "223",
+    "spec": "hcp=-2.5",
+    "desc": "Home (-2.5)",
+    "odds": 1.71,
+    "p": 0.565152,
+    "why": "Mavs 5-1 at home in last 6; Warriors lost last 3 road games by 7-38 and are down four rotation players. My p ~0.62 vs house 0.565 (correlated with the GSW Under)."
+   }
+  ],
+  "avoid": "Warriors catches; game Over.",
+  "confidence": 0.25,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries",
+   "https://iheartsportsbayarea.iheart.com/content/2026-11-18-warriors-vs-mavericks-injury-report-nov-18/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719700",
+  "fx": "New Orleans Pelicans v Detroit Pistons",
+  "home_form": "Pelicans W4 L6; home 113.6-117.7 (n7); just beat GSW 115-94",
+  "away_form": "Pistons W6 L4; won 105-93 at SAS last night (B2B)",
+  "trends": {
+   "game totals": "line 226.5",
+   "team totals": "\u2014",
+   "first half": "n/a",
+   "handicap": "\u2014",
+   "corners": "no corner market/data"
+  },
+  "h2h": "DET won both 2025-26 meetings",
+  "absences": "DET: Cunningham Q (knee), Duren OUT, Holland OUT. NOP: Murphy III, Murray, McGowens, Watford (and others) OUT.",
+  "context": "Pistons on B2B with Cunningham questionable: result too uncertain.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pistons ML/handicap until Cunningham confirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries",
+   "https://www.nba.com/pelicans/news/pelicans-vs-pistons-injury-report-game-preview-11-18-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73719702",
+  "fx": "Oklahoma City Thunder v Atlanta Hawks",
+  "home_form": "Thunder W5 L5; home 2 games (114-75, 124-116)",
+  "away_form": "Hawks W6 L4; away 111.4-112.2 (n5)",
+  "trends": {
+   "game totals": "line 228.5",
+   "team totals": "\u2014",
+   "first half": "n/a",
+   "handicap": "\u2014",
+   "corners": "no corner market/data"
+  },
+  "h2h": "ATL won both 2026 meetings (113-110, 82-77)",
+  "absences": "OKC: Holmgren OUT, Jalen Williams OUT, Cason Wallace OUT, Jaylin Williams Q. ATL: McCollum, Landale, Gueye, Newell, Flemings OUT.",
+  "context": "Depleted Thunder (3 starters/rotation out); ML 1.45 p0.675 fails ML gate.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thunder ML/handicaps.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:73719704",
+  "fx": "Denver Nuggets v Boston Celtics",
+  "home_form": "Nuggets W6 L4 but home only 1-3 in last 4 (lost to PHX, POR, GSW)",
+  "away_form": "Celtics W8 L2; away 109.7-96.2 (n6): won at TOR, PHI, MIL, CHA by 5-39",
+  "trends": {
+   "game totals": "BOS away totals 191,224,214,199,202,182 (5/6 under 220.5); DEN home 222,237,228,248",
+   "team totals": "BOS allows 96 per away game",
+   "first half": "n/a",
+   "handicap": "BOS road wins by 5,22,20,39,11",
+   "corners": "no corner market/data"
+  },
+  "h2h": "DEN won both 2025-26 meetings (103-84, 114-110)",
+  "absences": "DEN: Strawther OUT. BOS: no injuries (two-way players in G League).",
+  "context": "Healthy Celtics v Nuggets who are 1-3 at home recently.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.73,
+    "p": 0.564339,
+    "why": "Celtics 5-1 on the road in last 6 allowing 96/game and fully healthy; Nuggets lost 3 of last 4 at home. Fails the strict basketball ML p>=0.75 gate (house 0.564) - value leg only. My p ~0.61."
+   }
+  ],
+  "avoid": "Game Over 220.5 (Celtics road games mostly low).",
+  "confidence": 0.2,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries",
+   "https://www.si.com/nba/nuggets/onsi/denver-nuggets-injury-report-every-status-vs-boston-celtics"
+  ]
+ },
+ {
+  "eid": "sr:match:73719708",
+  "fx": "Los Angeles Lakers v Utah Jazz",
+  "home_form": "Lakers W9 L1; home wins by 4,6,21,6; played CHA last night (B2B)",
+  "away_form": "Jazz W1 L9 but won 132-107 at LAC last night (B2B); losses by 6-22",
+  "trends": {
+   "game totals": "line 231.5",
+   "team totals": "\u2014",
+   "first half": "n/a",
+   "handicap": "LAL home margins small (3/4 by <=6)",
+   "corners": "no corner market/data"
+  },
+  "h2h": "LAL won last 2 (132-123, 131-107)",
+  "absences": "LAL: Reaves OUT. UTA: Markkanen OUT, Jaren Jackson Jr OUT, Nurkic OUT, Hayes Q.",
+  "context": "Both on B2B. Lakers do not blow teams out at home; -12.5 line fair, ML 1.18 padding.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lakers big handicaps; Jazz +catches of 15+ (weak side).",
+  "confidence": 0.15,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries",
+   "https://sportssd.iheart.com/content/2026-11-18-jazz-vs-lakers-injury-report-nov-18/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719710",
+  "fx": "Sacramento Kings v Phoenix Suns",
+  "home_form": "Kings W1 L9; lost last 6 home games by 22,13,7,6,15,13",
+  "away_form": "Suns W5 L5; won 117-105 at DEN last game",
+  "trends": {
+   "game totals": "line 227.5",
+   "team totals": "SAC home scoring 105",
+   "first half": "n/a",
+   "handicap": "Kings home losses all by 6+",
+   "corners": "no corner market/data"
+  },
+  "h2h": "PHX won both 2025-26 meetings by 11 and 27",
+  "absences": "PHX: Mark Williams OUT. SAC: Simmons OUT, Raynaud OUT; Achiuwa, Hunter available.",
+  "context": "Kings in freefall at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=3.5",
+    "desc": "Away (-3.5)",
+    "odds": 1.57,
+    "p": 0.617029,
+    "why": "Kings lost all 6 of their last home games by 6+ (avg 12.7); Suns won both 2025-26 H2H by 11/27 and come off a road win at Denver. My p ~0.66 vs house 0.617."
+   }
+  ],
+  "avoid": "Kings + catches.",
+  "confidence": 0.25,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-18_05_00PM.pdf",
+   "https://www.espn.com/nba/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:74827372",
+  "fx": "Lions FC v Wollongong Wolves FC",
+  "home_form": "Lions FC W7 L3; group games 2-1,1-2,3-1,4-2,1-3 (all 3+ goals)",
+  "away_form": "Wollongong W5 L5; group games 2-0,6-5,1-3,1-2,4-1",
+  "trends": {
+   "game totals": "Lions last 10 O2.5 8/10, Wollongong 9/10; group-stage games 9 of 10 had 3+ goals",
+   "team totals": "both scored in nearly every game",
+   "first half": "1H goal: Lions 6/10, Wolly 7/10",
+   "handicap": "\u2014",
+   "corners": "no corner market/data"
+  },
+  "h2h": "Lions won 3-1 at Wollongong (31 Oct)",
+  "absences": "No news found.",
+  "context": "Australian Championship Group D final round: Lions 9 pts, Wollongong 8-9 pts, top 2 qualify -> both need a result, open game. Venue Luxury Paints Stadium, Brisbane (SBS).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.38,
+    "p": 0.681859,
+    "why": "Both sides' group games produced 3+ goals in 9 of 10 (Lions 4,3,4,6,4; Wollongong 2,11,4,3,5); last meeting 3-1; qualification decider so both must attack. My p ~0.74 vs house 0.682."
+   }
+  ],
+  "avoid": "Under lines; Wollongong +1.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sbs.com.au/ondemand/collection/live-and-upcoming-sport",
+   "https://australianchampionship.com.au/"
+  ]
+ },
+ {
+  "eid": "sr:match:74827374",
+  "fx": "Preston Lions FC v South Hobart FC",
+  "home_form": "Preston W4 D2 L4; group: beat Lions 3-1, won at Wollongong 2-1 and at S.Hobart 2-1; lost 1-2 at Lions, 5-6 v Wollongong",
+  "away_form": "South Hobart W5 L5; group: lost 1-4, 2-4, 1-2, 0-2; won 2-1 at Lions",
+  "trends": {
+   "game totals": "group-game totals: Preston 4,3,3,3,11; S.Hobart 5,6,3,2,3",
+   "team totals": "S.Hobart scored in 4/5 group games",
+   "first half": "Preston 1H goal 4/10",
+   "handicap": "SH lost by 3,2,1,2",
+   "corners": "no corner market/data"
+  },
+  "h2h": "Preston won 2-1 at South Hobart (31 Oct)",
+  "absences": "No news found.",
+  "context": "Preston top Group D (10 pts) need a win; South Hobart (3 pts) eliminated - dead rubber for them.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Preston -1.5 @1.47 (p0.638, margin evidence only ~0.6); Over 2.5 @1.23 too short.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sbs.com.au/ondemand/collection/live-and-upcoming-sport",
+   "https://australianchampionship.com.au/",
+   "https://www.southhobartfc.com/australian-championship-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73730322",
+  "fx": "Moik Baku v Sabail FK",
+  "home_form": "Moik W5 D2 L3; home 2.0-2.0 (n6) incl 1-9 v Shahdag",
+  "away_form": "Sabail W3 D4 L3; away 1.2-1.4",
+  "trends": {
+   "game totals": "Moik home O2.5 4/6",
+   "team totals": "\u2014",
+   "first half": "\u2014",
+   "handicap": "\u2014",
+   "corners": "no corner market/data"
+  },
+  "h2h": "2-2, MOIK 1-0, SAB 1-0",
+  "absences": "No news found.",
+  "context": "Azerbaijan First Division (2nd tier), thin coverage.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportradar/en/match/73730322",
+   "https://www.pfl.az/"
+  ]
+ },
+ {
+  "eid": "sr:match:73730326",
+  "fx": "Khankendi FK v FK Karvan Yevlakh",
+  "home_form": "Khankendi W2 D3 L5; home W1 in last 6 (0.83-1.5)",
+  "away_form": "Karvan W5 D2 L3; away 1.67-1.33",
+  "trends": {
+   "game totals": "Karvan O1.5 10/10",
+   "team totals": "\u2014",
+   "first half": "\u2014",
+   "handicap": "\u2014",
+   "corners": "no corner market/data"
+  },
+  "h2h": "none",
+  "absences": "No news found.",
+  "context": "2nd tier; Karvan DNB 1.53 lean only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Khankendi side.",
+  "confidence": 0.15,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportradar/en/match/73730326",
+   "https://www.pfl.az/"
+  ]
+ },
+ {
+  "eid": "sr:match:75049106",
+  "fx": "MB Rouissat v CR Belouizdad",
+  "home_form": "Rouissat W4 D3 L3; home 1.25-0.25 (n4): 1-1 Aknoun, 1-0 Saoura, 1-0 USMA, 2-0 Akbou",
+  "away_form": "Belouizdad unbeaten W6 D4; away 1.57-1.14 (n7); five 1-0 wins",
+  "trends": {
+   "game totals": "Rouissat 0/10 over 2.5 (avg 1.6 goals); Belouizdad 3/10 over 2.5",
+   "team totals": "Rouissat home conceded 1 in 4",
+   "first half": "Rouissat 1H goal 6/10, CRB 4/10",
+   "handicap": "CRB wins mostly 1-0",
+   "corners": "no corner market/data"
+  },
+  "h2h": "CRB 3-1 (Mar 2026), 1-1 (Oct 2025)",
+  "absences": "No absences reported.",
+  "context": "Round 10, kick-off 16:45 UTC confirmed (08:45 Pacific in US listings - not a conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Under 2.5",
+    "odds": 1.41,
+    "p": 0.6761887023,
+    "why": "Rouissat have had 2 or fewer goals in all of their last 10 games (avg 1.6) and conceded 1 in 4 home games; CRB won five of their last 7 games 1-0. My p ~0.76 vs house 0.676 (below the 0.82 Under gate - fixture-specific evidence only)."
+   }
+  ],
+  "avoid": "CRB result side (Rouissat strong at home); Over 1.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.shango.media/sport-news-africa-calendrier-ligue-1-algerienne-programme-et-horaires-de-la-semaine-18-19-novembre-2026-12054773",
+   "https://sportnewsafrica.com/en/fixtures/algerian-ligue-1/"
+  ]
+ },
+ {
+  "eid": "sr:match:75049114",
+  "fx": "MC Alger v Olympique Akbou",
+  "home_form": "MC Alger W7 D1 L2; home 2.5-0.0 (n6): 2-0 MC Oran, 2-0 Khenchela, 1-0 Temouchent, 2-0 Rouissat, 3-0/5-0 CAF - 6/6 home clean sheets",
+  "away_form": "Akbou W3 D4 L3; away 0.4-0.6 (n5): 0-0 MC Oran, 0-0 Saoura, 0-2 Rouissat, 0-1 USMA, 2-0 El Biar",
+  "trends": {
+   "game totals": "MCA 2/10 over 2.5; Akbou 3/10",
+   "team totals": "Akbou scored in 1 of last 5 away; MCA won all 4 league home games to nil",
+   "first half": "MCA 1H goal 5/10",
+   "handicap": "MCA home wins by 1-3",
+   "corners": "no corner market/data"
+  },
+  "h2h": "MCA 2-1 (Apr 2026), 1-0 away (Sep 2025); Akbou 1-0 (Apr 2025)",
+  "absences": "No absences reported; MCA get Abdellaoui, Khelif, Naidji back (Gaboneco).",
+  "context": "Round 10 at Stade Ali Ammar. MCA chasing the top (16 pts).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.680426,
+    "why": "MCA won all 4 league home games this season (and 2 CAF) without conceding; Akbou scored once in 5 away games; MCA regain three players. My p ~0.74 vs house 0.68."
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Under 0.5",
+    "odds": 1.6,
+    "p": 0.585384,
+    "why": "Akbou blanked in 4 of last 5 away games (0-0, 0-0, 0-2, 0-1); MCA 6/6 home clean sheets. My p ~0.66 vs house 0.585 (correlated with MCA win)."
+   }
+  ],
+  "avoid": "Over 2.5; Akbou to score.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.shango.media/sport-news-africa-calendrier-ligue-1-algerienne-programme-et-horaires-de-la-semaine-18-19-novembre-2026-12054773",
+   "https://sportnewsafrica.com/en/fixtures/algerian-ligue-1/",
+   "https://gaboneco.com/mc-alger-olympique-akbou-les-compos-probables-avant-le-choc/"
+  ]
+ },
+ {
+  "eid": "sr:match:75049116",
+  "fx": "JS Kabylie v USM Alger",
+  "home_form": "JSK W6 D3 L1; home 1.4-0.2 (n5), 4 straight home wins",
+  "away_form": "USMA W5 D4 L1; away 1.71-1.14 (n7)",
+  "trends": {
+   "game totals": "JSK 3/10 over 2.5; USMA 5/10",
+   "team totals": "JSK home conceded 1 in 5",
+   "first half": "USMA 1H goal 8/10",
+   "handicap": "\u2014",
+   "corners": "no corner market/data"
+  },
+  "h2h": "Last 4: JSK 1-0, USMA 2-1, JSK 1-0, 0-0 (all under 2.5)",
+  "absences": "No absences reported.",
+  "context": "The \"classico\" (big-club clash) at Hocine Ait Ahmed, 19:00 UTC confirmed by L'Express DZ. No result side; Under 2.5 is the lean but big-club totals need p>=0.82.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (classico); Under 2.5 @1.47 lean only (p0.648 < 0.82 big-club gate).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.shango.media/sport-news-africa-calendrier-ligue-1-algerienne-programme-et-horaires-de-la-semaine-18-19-novembre-2026-12054773",
+   "https://sportnewsafrica.com/en/fixtures/algerian-ligue-1/",
+   "https://www.expressdz.dz/2026/11/05/js-kabylie-usm-alger-la-date-et-lhoraire-du-classico-devoiles/"
+  ]
+ },
+ {
+  "eid": "sr:match:76028538",
+  "fx": "Club Ourense Baloncesto Sad v Palmer Basquet Mallorca Palma",
+  "home_form": "Ourense W6 L4; home 82.7-79.3 (n6): beat Caja 87 87-74, Bahia 83-73",
+  "away_form": "Palmer W7 L3; away 86.3-86.8 (n4)",
+  "trends": {
+   "game totals": "line 161.5; both avg 167-171 in last 10",
+   "team totals": "\u2014",
+   "first half": "\u2014",
+   "handicap": "\u2014",
+   "corners": "no corner market/data"
+  },
+  "h2h": "PAL won 72-56 (Apr 2026), OUR 82-69 (Oct 2025)",
+  "absences": "No news found.",
+  "context": "Copa Espana (Spanish 3rd/4th tier). Thin coverage.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://s5.sir.sportradar.com/sportradar/en/match/76028538",
+   "https://www.feb.es/"
+  ]
+ }
+]

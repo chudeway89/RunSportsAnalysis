@@ -1,0 +1,728 @@
+[
+ {
+  "eid": "sr:match:73657572",
+  "fx": "KT Sonicboom v Seoul SK Knights",
+  "home_form": "KT 6-9 (8th). Last: L Sakers 81-83, L DB 83-94, L Thunders 78-85, W Daegu 92-81 (H), W Skygunners 103-96, W Anyang 92-90, L Knights 79-90, L DB 95-102 (H), L Phoebus 80-96 (H). Home 1-2 in sample.",
+  "away_form": "SK 6-5 (3rd). Last: W Phoebus 92-76, L Egis 70-75, L Sakers 72-101, W DB 81-65, L Anyang 79-83, L Daegu 76-82, W Thunders 90-76, W Egis 96-87, W KT 90-79.",
+  "trends": {
+   "game_totals": "KT games 163-199 (avg ~178); SK games 145-183 (avg ~163); line 165.5 coinflip",
+   "team_totals": "SK scored 70-96; KT 78-103",
+   "first_half": "no clear trend",
+   "handicap": "SK -2.5 coinflip; SK beat KT by 11 on Oct 25",
+   "corners": "n/a"
+  },
+  "h2h": "SK 90-79 KT (Oct 25, at SK).",
+  "absences": "KT: injury-hit (Kim Sun-hyung return date unconfirmed per earlier previews); SK: reported injury issues and heavy schedule (played Nov 16).",
+  "context": "Telecom derby, last game before the international break. SK poor last 5 (2-3) and on a heavy schedule; KT injury-hit. No clean edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "SK -2.5 / SK ML: SK 2-3 in last 5 and fatigued; KT home poor too, so no side"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://jumpball.co.kr/news/newsview.php?ncode=1065548339950926",
+   "https://basketkorea.com/news/newsview.php?ncode=1065551202296123",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:75145548",
+  "fx": "Atletas Kaunas v VILNIUS RYTAS-2",
+  "home_form": "Atletas 2-7 last 9: L Palanga 81-115, L Omega 75-96 (H), W Silute 102-92 (H), L Klaipeda 74-83 (H), W Kedainiai 80-66, L Mazeikiai 88-97 (H), L Telsiai 76-100, L Suduva 63-113, L Vytis 85-97.",
+  "away_form": "Rytas-2 1-8 last 9: L Suduva 79-93, L Stekas 69-76, W Kretinga 91-79, L Zalgiris-2 90-95, L Alytus 91-101, L Vilkaviskis 72-74, L Klaipeda 62-74, L Kedainiai 69-83, L Plunge 64-89.",
+  "trends": {
+   "game_totals": "Atletas games 154-196; Rytas-2 145-192",
+   "team_totals": "mixed",
+   "first_half": "n/a",
+   "handicap": "both bottom-table; Rytas-2 priced fav 1.72 despite 1-8 run",
+   "corners": "n/a"
+  },
+  "h2h": "none found this season",
+  "absences": "none reported",
+  "context": "Rytas-2 is a RESERVE/farm side (Vilnius Rytas second team) - excluded by rule. Both teams very poor.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Any leg: reserve side involved; Rytas-2 favouritism contradicts its 1-8 form"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/turnyro-lentele/",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:75109956",
+  "fx": "BC Silute v Omega Tauras LSU",
+  "home_form": "Silute home (sample): W Mazeikiai 98-79, W Suduva 92-83, W Vytis 97-86, W Alytus 92-77 = 4-0 at home, avg margin +13.5; away: L Atletas 92-102, L Telsiai 63-103, W Jurbarkas 79-72, W Vilkaviskis 97-81, L Klaipeda 70-73.",
+  "away_form": "Omega Tauras: L Vytis 75-82 (H), W Atletas 96-75 (A), L Palanga 124-125 (A), L Jurbarkas 86-97 (H), L Kretinga 72-75 (H), W Zalgiris-2 93-82 (A), L Alytus 74-85 (H), L Vilkaviskis 73-82 (A), W Suduva 87-82 (A). 4-5, losing 3 of last 5.",
+  "trends": {
+   "game_totals": "Silute home totals 169-183; line 174.5 coinflip",
+   "team_totals": "Silute home pts 92-98 in all 4",
+   "first_half": "Silute led at half in 4/4 home wins",
+   "handicap": "Silute home margins +19,+9,+11,+15; Omega lost 3 of last 5",
+   "corners": "n/a"
+  },
+  "h2h": "Not found this season",
+  "absences": "none reported",
+  "context": "Mid-table NKL; Silute strong at home, Omega inconsistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.76,
+    "p": 0.529,
+    "why": "Silute 4-0 at home this season (avg +13.5, beat Suduva/Vytis/Alytus) v Omega who lost 3 of last 5. My p ~0.60 v house 0.53."
+   }
+  ],
+  "avoid": [
+   "Totals: no edge"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/turnyro-lentele/",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:75109962",
+  "fx": "Neptunas Klaipeda 2 v KK Vilkaviskio Perlas",
+  "home_form": "Neptunas-2 (reserve): 7-2 last 9 incl. W Zalgiris-2 94-86, W Jurbarkas 82-67.",
+  "away_form": "Vilkaviskis Perlas: 4-5 last 9 (W Kedainiai 97-80, L Mazeikiai, L Suduva 60-80, W Stekas 97-74, L Vytis 81-107...).",
+  "trends": {
+   "game_totals": "Klaipeda-2 low-scoring (totals 116-171); line 153.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Neptunas-2 -6.5",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "none reported",
+  "context": "Home side is Neptunas RESERVE team -> excluded by rule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Any leg: reserve side"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/turnyro-lentele/",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:75109950",
+  "fx": "Suduva Mantinga Marijampole v Plunges Olimpas",
+  "home_form": "Suduva home: W Palanga 88-78, W Vilkaviskis 80-60, W Kedainiai 98-64, W Atletas 113-63, L Telsiai 69-71 (margins +10,+20,+34,+50,-2). 7-2 last 9.",
+  "away_form": "Plunge away: L Jurbarkas 82-93, L Alytus 76-87, L Klaipeda 57-59, W Kedainiai 75-62, W Mazeikiai 80-72. Lost 2 straight.",
+  "trends": {
+   "game_totals": "Suduva games 140-176; Plunge games 116-187",
+   "team_totals": "n/a",
+   "first_half": "Suduva big first halves v weak sides (65-35 v Atletas)",
+   "handicap": "Line -14.5; Suduva home margins split around it; Plunge competitive away (-11,-11,-2,+13,+8)",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "none reported",
+  "context": "Suduva strong; Plunge mid-table and competitive away, so the big handicap is a coinflip.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Suduva -13.5/-14.5: Plunge away margins rarely worse than -11",
+   "Plunge +16.5: no edge either"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/turnyro-lentele/",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:75109958",
+  "fx": "BC Telsiai v Kretingos Kretinga",
+  "home_form": "Telsiai leads NKL (8-0 per infolaikas). Home: W Alytus 91-67, W Silute 103-63, W Atletas 100-76, W Stekas 104-70, W Vilkaviskis 94-70 = home margins +24,+40,+24,+34,+24 (all >=24). Only loss: 101-102 at Jurbarkas.",
+  "away_form": "Kretinga away: L Vytis 98-107, L Rytas-2 79-91, W Omega 75-72, L Alytus 70-90, W Atletas 84-72. Lost 4 of last 5 overall.",
+  "trends": {
+   "game_totals": "Telsiai home totals 140-174; line 169.5",
+   "team_totals": "Telsiai home pts 91,103,100,104,94 (4/5 >92.5); allowed 63-76 at home",
+   "first_half": "Telsiai led 4 of 5 home games by 14+ at half (46-32, 56-33, 46-29, 58-36); trailed 36-42 v Vilkaviskis then won by 24",
+   "handicap": "Telsiai home margins 24-40 in 5/5 v mid/low sides; Kretinga lost by 9-20 away to non-leaders",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "none reported",
+  "context": "Unbeaten league leader at home v struggling Kretinga (lost 4 of 5).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-18.5",
+    "desc": "Home (-18.5)",
+    "odds": 1.65,
+    "p": 0.565,
+    "why": "Telsiai won all 5 home games by 24+ (avg +29) v Alytus/Silute/Atletas/Stekas/Vilkaviskis; Kretinga lost 4 of last 5. My p ~0.67 v house 0.565."
+   }
+  ],
+  "avoid": [
+   "Kretinga team total Under: Kretinga scored 70-98, rarely below 75"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/turnyro-lentele/",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73833420",
+  "fx": "Csm Corona Brasov v CS Rapid Bucuresti",
+  "home_form": "Brasov: L Targu Mures 90-97, W Ploiesti 97-80 (H), L Steaua 89-94, L Valcea 80-81 (H), L Voluntari 78-83, W Timisoara 81-76, L Craiova 98-113 (H). League 2-5.",
+  "away_form": "Rapid: W Craiova 109-104 (H), L Targu Mures 80-105, W Oradea 96-79 (H), W Ploiesti 88-72 (A), L Sibiu 123-127 (H), L Steaua 88-98 (A), L Dinamo 62-87 (H). 3-4.",
+  "trends": {
+   "game_totals": "Brasov games 157-211; Rapid 149-250; line 182.5",
+   "team_totals": "mixed",
+   "first_half": "n/a",
+   "handicap": "Brasov -5.5 priced 1.40 ML despite 1-2 home league record in sample",
+   "corners": "n/a"
+  },
+  "h2h": "Last season: Brasov won 85-84 at Rapid (Dec 2025); Rapid won 92-81 at Brasov (Mar 2026).",
+  "absences": "none found",
+  "context": "Price (Brasov 1.40) not supported by form: Brasov lost 2 of 3 home league games. No pick.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Brasov ML/-5.5: home form 1-2"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://baschet.ro/liga-nationala-de-baschet-masculin/echipe/csm-corona-brasov-141/stiri",
+   "https://coronabrasov.ro/organisations/corona-brasov-baschet-masculin/",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:75109964",
+  "fx": "BC Jurbarkas-Karys v Vilniaus Stekas",
+  "home_form": "Jurbarkas home: W Gargzdai 88-85 (cup), W Plunge 93-82, W Telsiai 102-101, W Taurage 91-77 (cup), L Silute 72-79. Home NKL margins +11, +1, -7.",
+  "away_form": "Stekas away: W Plunge 96-91, L Vilkaviskis 74-97, L Kedainiai 76-97, L Telsiai 70-104, L Palanga (H) 76-107. Mostly heavy losses.",
+  "trends": {
+   "game_totals": "Jurbarkas games 147-203; Stekas 127-183",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "-15.5 is far above Jurbarkas home margins (+11,+1,-7) but Stekas lose big away (-21,-23,-34)",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "none reported",
+  "context": "Conflicting margin evidence; Stekas weak, so no catch of 14.5 for them (rule) and Jurbarkas home margins too small to lay 15.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Stekas +14.5 (weak receiver)",
+   "Jurbarkas -15.5 (home margins small)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/turnyro-lentele/",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:75109966",
+  "fx": "Kedainiu Sporto Centras v Alytaus Patriotai",
+  "home_form": "Kedainiai lost 5 straight: L Vilkaviskis 80-97, L Klaipeda 71-77 (H), L Vytis 90-98, L Atletas 66-80 (H), L Suduva 64-98. Home 2-3 in sample (W Stekas +21, W Rytas-2 +14 only v bottom sides).",
+  "away_form": "Alytus: W Mazeikiai 85-81, L Telsiai 67-91, W Stekas 73-58 (A), W Plunge 87-76, W Rytas-2 101-91 (A), L Palanga 81-84, W Omega 85-74 (A), W Kretinga 90-70. 6-2 last 8; away wins at Stekas, Rytas-2, Omega.",
+  "trends": {
+   "game_totals": "Kedainiai games 136-174; line 161.5",
+   "team_totals": "Kedainiai scored 62-97, 5 of last 9 under 78.5",
+   "first_half": "Kedainiai trailed at half in 5 straight losses",
+   "handicap": "Alytus away wins by 10-15 v lower sides",
+   "corners": "n/a"
+  },
+  "h2h": "Not found this season",
+  "absences": "none reported",
+  "context": "Form gap: Alytus top-half, Kedainiai on a 5-game losing run, home losses to Klaipeda/Atletas/Plunge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.5,
+    "p": 0.626,
+    "why": "Kedainiai lost 5 straight incl. home to Atletas/Klaipeda; Alytus 6-2 last 8 with away wins at Omega/Stekas/Rytas-2. My p ~0.68 v house 0.63."
+   }
+  ],
+  "avoid": [
+   "Kedainiai +4.5/+5.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/turnyro-lentele/",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:75109954",
+  "fx": "Vytis Sakiai v Palangos Olimpas",
+  "home_form": "Vytis 7-2 last 9: home W Kretinga 107-98, W Kedainiai 98-90, L Telsiai 88-91, W Atletas 97-85, W Zalgiris-2 104-92; away W Omega 82-75, W Mazeikiai 101-77, W Vilkaviskis 107-81.",
+  "away_form": "Palanga 7-2 last 9: W Atletas 115-81, L Suduva 78-88 (A), W Omega 125-124, W Kretinga 100-86 (A), W Zalgiris-2 112-100, W Alytus 84-81 (A), W Vilkaviskis 87-81, L Klaipeda 77-78 (A), W Stekas 107-76 (A).",
+  "trends": {
+   "game_totals": "Vytis games 157-205; Palanga 155-249; line 185.5 near both averages",
+   "team_totals": "n/a",
+   "first_half": "Vytis home first halves strong (59-37, 63-47, 56-41)",
+   "handicap": "Vytis home losses only by 3 (to leader Telsiai); Palanga away games close v good sides (-10, +14, +3, -1)",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "none reported",
+  "context": "Top-half clash; Vytis strong at home (4-1, only loss -3 v leader).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=5.5",
+    "desc": "Home (+5.5)",
+    "odds": 1.77,
+    "p": 0.524,
+    "why": "Vytis 4-1 at home (only loss 88-91 to unbeaten Telsiai), 7-2 overall; Palanga away games v good sides were close (W Alytus by 3, L Klaipeda by 1, L Suduva by 10). My p ~0.60 v house 0.524."
+   }
+  ],
+  "avoid": [
+   "Totals: no edge"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/turnyro-lentele/",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73659636",
+  "fx": "Skk Kotwica Kolobrzeg v LKS Lodz",
+  "home_form": "Kotwica home: W Krosno 95-78, L Poznan 84-90, L Tychy 83-96, L Polonia W 98-100 (home 1-3); away W Opole, W Bytom, W Resovia, L Stargard -3, L Starogard.",
+  "away_form": "LKS Lodz away: W Pelplin 98-91, L Stargard 96-105, L Opole 78-84, W Bytom 86-72, W Starogard 101-83. Home L Lancut 90-92 last game.",
+  "trends": {
+   "game_totals": "Kotwica games 167-198 (avg ~179); Lodz 139-201; line 175.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Lodz -2.5 coinflip",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "Date/venue confirmed: 19.11.2026 18:00 Hala Milenium, Kolobrzeg (PZKosz). No edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Kotwica home 1-3 but Lodz just lost at home; no side"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://rozgrywki.pzkosz.pl/liga/1/terminarz_i_wyniki.html",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73659658",
+  "fx": "AZS Politechnika Opolska v Resovia Rzeszow",
+  "home_form": "Opole lost 6 of last 7: L Polonia Leszno 66-67 (H), L Notec 76-80, L Kotwica 84-90 (H), L Lancut 84-104 (H), W Lodz 84-78 (H), L Stargard 79-105, L Krosno 89-97 (H). Home 1-4.",
+  "away_form": "Resovia won 3 straight: W Bytom 110-91, W Tychy 89-80, W Starogard 79-77 (A); before that 5 losses incl. away L Wroclaw 67-90, L Notec 62-75.",
+  "trends": {
+   "game_totals": "Opole games 133-188; line 168.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Opole fav 1.76 despite 1-4 home record",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "Date/venue confirmed: 19.11.2026 19:00 local (18:00 UTC), Hala Politechniki Opolskiej (PZKosz).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-2.5",
+    "desc": "Away (+2.5)",
+    "odds": 1.73,
+    "p": 0.539,
+    "why": "Opole lost 6 of 7 and are 1-4 at home (losses by 1-20); Resovia on a 3-game win streak. My p ~0.60 v house 0.54. Low confidence: Resovia away record poor before streak."
+   }
+  ],
+  "avoid": [
+   "Opole ML"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://rozgrywki.pzkosz.pl/liga/1/terminarz_i_wyniki.html",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73263180",
+  "fx": "Maccabi Tel-Aviv v Dubai Basketball",
+  "home_form": "Maccabi EL: L Olympiacos 95-97 (H), W Hapoel 80-73 (H), L Partizan 67-88 (A), L Paris 94-99 (H), L Zvezda 78-100 (A). Also L Hapoel Jerusalem 77-82 domestic.",
+  "away_form": "Dubai EL: W Anadolu 80-75, L Olympiacos 72-101 (A), W Virtus 93-75 (A), W Hapoel 97-83, L Paris 93-99.",
+  "trends": {
+   "game_totals": "Maccabi EL home totals 153-192; Dubai EL 155-192; line 176.5",
+   "team_totals": "n/a",
+   "first_half": "Maccabi trailed at half in 3 of last 5 EL",
+   "handicap": "Dubai -3.5 coinflip",
+   "corners": "n/a"
+  },
+  "h2h": "Not found this season",
+  "absences": "Maccabi: Lundberg OUT (quad, until Feb), Lavi uncertain. Dubai: Jaiteh, Bertans, Kondic OUT; Huertas GTD in R12; Anderson uncertain.",
+  "context": "Double-round week (both played Tue Nov 17). Dubai thin frontcourt but winning; Maccabi poor form. No clean edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Dubai ML/-3.5: depleted roster away on 2-day turnaround"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://basketnews.com/news-212393-euroleague-injury-report-updated.html",
+   "https://sportando.basketball/en/euroleague-injury-report-november-17-2026-round-12-absences-and-game-time-calls/"
+  ]
+ },
+ {
+  "eid": "sr:match:73263178",
+  "fx": "BC Zalgiris Kaunas v Panathinaikos BC",
+  "home_form": "Zalgiris 6 straight EL wins: W Bayern 117-114, W Milan 86-83 (A), W Besiktas 83-67 (A), W Partizan 87-80 (H), W Virtus 91-74 (A).",
+  "away_form": "Panathinaikos EL: L Virtus 79-84 (A), L Barcelona 74-76 (H), W Madrid 115-112 (A), L Anadolu 68-83 (A), W Milan 80-75 (H).",
+  "trends": {
+   "game_totals": "Zalgiris EL totals 150-231; Pana 147-227; line 167.5",
+   "team_totals": "Pana scored 68-80 in 4 of last 5 EL",
+   "first_half": "n/a",
+   "handicap": "Zalgiris -1.5 coinflip",
+   "corners": "n/a"
+  },
+  "h2h": "Not found this season",
+  "absences": "Zalgiris: Williams-Goss OUT (hamstring, back ~R14). Panathinaikos: Mantzoukas out (DNP), Rogkavopoulos back.",
+  "context": "Big-club clash: no result-side by rule. Zalgiris in form at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Result sides (big-club clash)",
+   "Totals: Zalgiris-Bayern 231 v other low totals, no consistent signal"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://basketnews.com/news-212393-euroleague-injury-report-updated.html",
+   "https://sportando.basketball/en/euroleague-injury-report-november-17-2026-round-12-absences-and-game-time-calls/"
+  ]
+ },
+ {
+  "eid": "sr:match:75108276",
+  "fx": "BK Levicki Patrioti v Basket Zielona Gora",
+  "home_form": "Levice: W Prievidza 81-78 (A), L Oostende 70-71 (A), W Iskra 88-79, L Girona 66-90 (A), W Dinamo 78-76 (A), W Nitra 85-73, L Szolnoki 79-85 (H), W Spisska 98-84, W at Zielona Gora 74-71. Two FEC wins incl. at Zastal.",
+  "away_form": "Zastal 4-2 in FEC group (3rd): L Wroclaw 85-91, W Szolnoki 103-66 (H), W Ostrow 74-69, W Dinamo 95-93 (H), L Torun 71-87, W Oostende 80-77 (H), L Girona 68-109 (A).",
+  "trends": {
+   "game_totals": "Levice games: 7 of last 9 under 166.5 (141-164; only 167 and 182 over). Zastal 5 of 9 under 166.5. H2H Oct 14 total 145.",
+   "team_totals": "Levice scored 66-88 in FEC",
+   "first_half": "H2H 31-28 at half",
+   "handicap": "Zastal -2.5 coinflip; Levice already won the reverse fixture",
+   "corners": "n/a"
+  },
+  "h2h": "Levice won 74-71 at Zielona Gora (Oct 14, FEC).",
+  "absences": "none found",
+  "context": "FEC group round 7 in Levice; Zastal (4-2) need the win to advance, Levice 2 wins. Venue/date confirmed by Polish outlets (Levice, 19:00 local).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=166.5",
+    "desc": "Under 166.5",
+    "odds": 1.56,
+    "p": 0.607,
+    "why": "H2H was 74-71 (145); Levice FEC/league games 7/9 under 166.5 (slow team, 66-88 pts); Zastal away FEC scored 68 at Girona. My p ~0.65 v house 0.607."
+   }
+  ],
+  "avoid": [
+   "Zastal -2.5: lost the reverse fixture at home"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://wzielonej.pl/sport/koszykowka/zastal-rusza-na-podboj-slowacji-trener-miloszewski-zdradza-plan-na-rewanz-i-sytuacje-kadrowa/",
+   "https://gorzow.tvp.pl/95910983/zastal-przed-kolejnym-wyzwaniem-w-europie-rywalem-patrioti-levice",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72672142",
+  "fx": "Gimle BK v Fyllingen BK",
+  "home_form": "Gimle 9-1, top of BLNO. Home: L Kongsberg 79-93, W Froya 95-65, W Nidaros 98-88, W Baerum 111-72, W Tromso 103-60. Away W at Fyllingen 80-68 (Sep 20).",
+  "away_form": "Fyllingen 8-2 (2nd, +251, champions). W Centrum 90-66, W Froya 83-76, W Tromso 116-81 (A), W Baerum, W Ammerud; L at Kongsberg 67-99. Also playing FIBA Europe Cup qualifiers.",
+  "trends": {
+   "game_totals": "Gimle home totals 153-185; Fyllingen 151-244; line ~176",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Gimle +2.5 home; Gimle won the first meeting by 12 away",
+   "corners": "n/a"
+  },
+  "h2h": "Gimle won 80-68 at Fyllingen (Sep 20, 2026).",
+  "absences": "none found",
+  "context": "Top-two clash, date confirmed 19.11.2026 19:00 (basket.no).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=2.5",
+    "desc": "Home (+2.5)",
+    "odds": 1.78,
+    "p": 0.512,
+    "why": "Gimle 9-1 leader, 4-1 at home, beat Fyllingen by 12 away in Sept; home dog +2.5. My p ~0.57 v house 0.51. Thin league, low confidence."
+   }
+  ],
+  "avoid": [
+   "Fyllingen -2.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://kamper.basket.no/standings?seasonId=201069&tournamentId=449378",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:72672144",
+  "fx": "Kongsberg Miners v Centrum Tigers Oslo",
+  "home_form": "Kongsberg 7-3 (5th). Home: W TNT 113-69, W Fyllingen 99-67, W Centrum 85-61 (Sep 27), W Nidaros 113-70. Home allowed 69, 67, 61, 70.",
+  "away_form": "Centrum 2-8 (8th), lost 4 straight: L Froya 67-92, L Fyllingen 66-90, L Ammerud 68-93, L Gimle 75-94. Scored 61-75 in last 5 v top-half sides.",
+  "trends": {
+   "game_totals": "line 170.5",
+   "team_totals": "Centrum scored 66, 67, 68, 75, 61 in their last games v top-half sides (5/5 under 72.5); Kongsberg home defence allowed 61-70 in 4/4",
+   "first_half": "Kongsberg led Centrum 55-31 at half in Sept",
+   "handicap": "-30.5 coinflip (Kongsberg home margins +44,+32,+24,+43)",
+   "corners": "n/a"
+  },
+  "h2h": "Kongsberg 85-61 Centrum (Sep 27, Kongsberg).",
+  "absences": "none found",
+  "context": "Date confirmed 19.11.2026 19:00 (basket.no). Thin board (46 outcomes).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "228",
+    "spec": "total=72.5",
+    "desc": "Under 72.5",
+    "odds": 1.53,
+    "p": 0.596,
+    "why": "Centrum away-team total: scored 61-75 in last 5 v top-half sides (all <=75, 4/5 <=68), 61 at Kongsberg in Sept; Kongsberg allowed 61-70 in all 4 home games. My p ~0.70 v house 0.596."
+   }
+  ],
+  "avoid": [
+   "Kongsberg -30.5 coinflip"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://kamper.basket.no/standings?seasonId=201069&tournamentId=449378",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ },
+ {
+  "eid": "sr:match:73263184",
+  "fx": "Bayern Munich v Baskonia Vitoria-Gasteiz",
+  "home_form": "Bayern EL: L Zalgiris 114-117 (A), L Valencia 87-102 (A), W Lyon 99-95 (A), L Zvezda 73-103 (A), L Barcelona 84-88 (H). Domestic W 91-61, 94-73, 108-66.",
+  "away_form": "Baskonia lost 4 straight EL: L Hapoel 82-85 (H), L Partizan 66-80 (A), L Fenerbahce 65-84 (A), L Lyon 79-94 (A), L Madrid 86-104 (H). Away EL margins -14, -19, -15.",
+  "trends": {
+   "game_totals": "line 177.5 coinflip",
+   "team_totals": "Baskonia scored 65-82 in 4 of last 5 EL",
+   "first_half": "Baskonia trailed at half in 3 of 4 EL away games",
+   "handicap": "Baskonia away EL losses by 14-19",
+   "corners": "n/a"
+  },
+  "h2h": "Not found this season",
+  "absences": "Baskonia: Faried OUT/uncertain (thigh), Santos OUT (calf), Sedekerskis OUT (thigh) - frontcourt depleted. Bayern: Hollatz, Lucic, Wiley DNP R12 (undisclosed) - status uncertain.",
+  "context": "Baskonia depleted and on a 4-game EL skid; Bayern home after Tue game at Zalgiris. Bayern absences are the risk.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-3.5",
+    "desc": "Home (-3.5)",
+    "odds": 1.52,
+    "p": 0.637,
+    "why": "Baskonia lost all 3 EL away games by 14-19 and are missing Santos, Sedekerskis and Faried. My p ~0.66 v house 0.637. Risk: Bayern Hollatz/Lucic/Wiley uncertain."
+   }
+  ],
+  "avoid": [
+   "Baskonia +7.5 etc"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://basketnews.com/news-212393-euroleague-injury-report-updated.html",
+   "https://sportando.basketball/en/euroleague-injury-report-november-17-2026-round-12-absences-and-game-time-calls/"
+  ]
+ },
+ {
+  "eid": "sr:match:73263182",
+  "fx": "Olimpia Milano v Fenerbahce Istanbul",
+  "home_form": "Milan EL: W Zvezda 91-77 (H), L Zalgiris 83-86 (H), L Valencia 73-84 (H), L Olympiacos 78-84 (A), L Panathinaikos 75-80 (A).",
+  "away_form": "Fenerbahce EL: W Lyon 115-81 (H), L Paris 109-111 (A), W Baskonia 84-65 (H), L Madrid 76-95 (A), L Valencia 78-86 (A). Away EL 0-3 in sample.",
+  "trends": {
+   "game_totals": "Milan home EL totals 157-169; line 166.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Fener -4.5",
+   "corners": "n/a"
+  },
+  "h2h": "Not found this season",
+  "absences": "Milan: Devin Booker OUT (~3 months, thigh tendon). Fenerbahce: Melli OUT (meniscus), Braxton Key OUT (finger).",
+  "context": "Big-club clash: no result-side. Fener 0-3 away in recent EL despite favouritism.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Fener ML/-4.5: 0-3 away in recent EL, Melli and Key out",
+   "Milan +4.5: no positive case"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://basketnews.com/news-212393-euroleague-injury-report-updated.html",
+   "https://dailysports.net/predictions/the-italians-will-try-to-stop-one-of-the-euroleague-favorites-prediction-olimpia-milano-vs-fenerbahce/"
+  ]
+ },
+ {
+  "eid": "sr:match:73263186",
+  "fx": "Paris Basketball v Hapoel Tel-Aviv",
+  "home_form": "Paris won 5 straight EL: W Barcelona 89-86 (A), W Fenerbahce 111-109 (H), W Anadolu 95-90 (A), W Maccabi 99-94 (A), W Dubai 99-93 (A). Domestic W 97-82, 107-77, 116-112. Scored 89-116 in last 9.",
+  "away_form": "Hapoel EL: W Baskonia 85-82 (A), L Maccabi 73-80 (A), L Barcelona 90-93 (H), L Dubai 83-97 (A), W Anadolu 118-88 (H).",
+  "trends": {
+   "game_totals": "Paris EL totals 175, 220, 185, 193, 192 (4/5 >179.5); Paris domestic 179-228; Hapoel EL 153-206 (3/5 >179.5)",
+   "team_totals": "Paris scored 89+ in 9/9, 90.5+ in 7/9",
+   "first_half": "n/a",
+   "handicap": "Paris home dog despite 5-game EL streak",
+   "corners": "n/a"
+  },
+  "h2h": "Not found this season",
+  "absences": "Hapoel: Caboclo doubtful (calf, missed R11-12), Ennis OUT. Paris: no injury absences (Ayayi/Hommes coach decisions).",
+  "context": "Paris fastest-paced EL side, in form; Hapoel without Caboclo.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=179.5",
+    "desc": "Over 179.5",
+    "odds": 1.52,
+    "p": 0.633,
+    "why": "Paris EL games 175/220/185/193/192 and domestic 179-228; Paris scored 89+ in 9 straight. My p ~0.69 v house 0.633."
+   },
+   {
+    "mid": "223",
+    "spec": "hcp=3.5",
+    "desc": "Home (+3.5)",
+    "odds": 1.65,
+    "p": 0.585,
+    "why": "Paris won 5 straight EL games (at Barca, v Fener, at Efes/Maccabi/Dubai); Hapoel missing Caboclo. My p ~0.64 v house 0.585."
+   }
+  ],
+  "avoid": [
+   "Hapoel -1.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://basketnews.com/news-212393-euroleague-injury-report-updated.html",
+   "https://sportando.basketball/en/euroleague-injury-report-november-17-2026-round-12-absences-and-game-time-calls/"
+  ]
+ },
+ {
+  "eid": "sr:match:73263188",
+  "fx": "Valencia Basket v Virtus Bologna",
+  "home_form": "Valencia EL: W Partizan 76-64 (A), W Bayern 102-87 (H), W Milan 84-73 (A), L Barcelona 94-98 (A), W Fenerbahce 86-78 (H). Home EL margins +15, +8.",
+  "away_form": "Virtus EL: W Panathinaikos 84-79 (H), L Anadolu 91-103 (A), L Dubai 75-93 (H), L Besiktas 101-103 (H), L Zalgiris 74-91 (H). 1-4 last 5.",
+  "trends": {
+   "game_totals": "line 185.5 coinflip",
+   "team_totals": "n/a",
+   "first_half": "Valencia led at half in both home EL wins",
+   "handicap": "Valencia -9.5 main; Virtus lost 4 of 5 EL, 3 by 12-18",
+   "corners": "n/a"
+  },
+  "h2h": "Not found this season",
+  "absences": "Valencia: Mirotic uncertain (muscle, DNP R9-12), Reuvers uncertain (foot). Virtus: Casarin OUT (to R21).",
+  "context": "Valencia strong home side; Virtus weak in EL. Both played Tue.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-6.5",
+    "desc": "Home (-6.5)",
+    "odds": 1.53,
+    "p": 0.636,
+    "why": "Valencia 4-1 last 5 EL (home wins by 15 and 8); Virtus 1-4 last 5 with losses by 12-18. My p ~0.66 v house 0.636. Thin edge."
+   }
+  ],
+  "avoid": [
+   "Valencia -9.5 and above"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://basketnews.com/news-212393-euroleague-injury-report-updated.html",
+   "https://sportando.basketball/en/euroleague-injury-report-november-17-2026-round-12-absences-and-game-time-calls/"
+  ]
+ },
+ {
+  "eid": "sr:match:73455670",
+  "fx": "Kk Primorje Hn 1945 v Kk Zivinice",
+  "home_form": "Primorje ABA2: L at Zlatibor 98-101, W Virtus Zagreb 91-81 (H). Montenegro league W Kotor 85-78, W Podgorica 99-89. High-scoring (85-99).",
+  "away_form": "Zivinice ABA2: W Virtus Zagreb 63-60 (H), L at Zlatibor 80-99. BiH league: L Orlovik 67-82, W Borac 80-76, W Promo 81-65, W Zrinjski 65-52, W Radnicki 78-77. Low-scoring (63-82).",
+  "trends": {
+   "game_totals": "line 161.5",
+   "team_totals": "Zivinice scored 63-82",
+   "first_half": "n/a",
+   "handicap": "Common opponents: Primorje beat Virtus Zagreb by 10 at home (Zivinice by 3); Primorje lost at Zlatibor by 3 (Zivinice by 19) -> Primorje ~+8 to +16 better",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "ABA2 Group D, Herceg Novi, 20:00 local (BH Basket preview Nov 18). Primorje used domestic break to prepare.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-6.5",
+    "desc": "Home (-6.5)",
+    "odds": 1.63,
+    "p": 0.573,
+    "why": "Common-opponent margins (Virtus Zagreb +10 v +3; Zlatibor -3 v -19) put Primorje 8-16 points better at home. My p ~0.62 v house 0.573. Small sample."
+   }
+  ],
+  "avoid": [
+   "Zivinice +8.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.bhbasket.ba/basket-zivinice-gostuje-u-herceg-novom-cvrsta-odbrana-i-kontrola-skoka-kljuc-protiv-primorja/",
+   "https://druga.aba-liga.com/calendar/",
+   "https://stats.fn.sportradar.com (gismo stats_team_lastx)"
+  ]
+ }
+]
