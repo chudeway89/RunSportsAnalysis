@@ -1,14 +1,14 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-18 03:34 UTC. Totals: 9 won · 74 dead · 1 alive · 195 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-18 19:43 UTC. Totals: 9 won · 76 dead · 2 alive · 197 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
 | Ticket size | Tickets | Won | Staked | Returned | ROI |
 |---|---|---|---|---|---|
 | 1-7 legs | 17 | 7 | 17 | 11.4 | -33% |
-| 8-12 legs | 9 | 2 | 9 | 24.2 | +169% |
-| 13+ legs | 57 | 0 | 57 | 0.0 | -100% |
+| 8-12 legs | 7 | 2 | 7 | 24.2 | +246% |
+| 13+ legs | 61 | 0 | 61 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -198,8 +198,8 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-06 | X4YNGN | T500 20 legs 510x | – | – | N/A (expired) | |
 | 2026-11-06 | M5YNPQ | T5000 28 legs 5416x | – | – | N/A (expired) | |
 | 2026-11-06 | M4R1ZN | T50000 34 legs 52199x | – | – | N/A (expired) | |
-| 2026-11-06 | Y25S3H | DRAW35 T1000 9 legs 1254x | 9 | 4W/5L/0V/0P | DEAD | Peterborough United v Reading FC — 1X2 from 1 to 35 minute Draw (0:5); FC Seoul v Ulsan HD FC — 1X2 from 1 to 35 minute Draw (1:2); SK Rapid v Wolfsberger AC — 1X2 from 1 to 35 minute Draw (6:0); Qingdao Hainiu FC v Shenzhen Peng City — 1X2 from 1 to 35 minute Draw (2:2); Stuttgart v Werder Bremen — 1X2 from 1 to 35 minute Draw (1:0) |
-| 2026-11-06 | WZFF8V | DRAW35 T10000 12 legs 13226x | 12 | 4W/8L/0V/0P | DEAD | Peterborough United v Reading FC — 1X2 from 1 to 35 minute Draw (0:5); FC Seoul v Ulsan HD FC — 1X2 from 1 to 35 minute Draw (1:2); SK Rapid v Wolfsberger AC — 1X2 from 1 to 35 minute Draw (6:0); Milton Keynes Dons v Swindon Town — 1X2 from 1 to 35 minute Draw (2:1); Qingdao Hainiu FC v Shenzhen Peng City — 1X2 from 1 to 35 minute Draw (2:2); Stuttgart v Werder Bremen — 1X2 from 1 to 35 minute Draw (1:0); Maccabi Tel Aviv FC v Maccabi Petah Tikva FC — 1X2 from 1 to 35 minute Draw (2:2); Corum FK v Fenerbahce Istanbul — 1X2 from 1 to 35 minute Draw (0:5) |
+| 2026-11-06 | Y25S3H | DRAW35 T1000 9 legs 1254x | – | – | N/A (expired) | |
+| 2026-11-06 | WZFF8V | DRAW35 T10000 12 legs 13226x | – | – | N/A (expired) | |
 | 2026-11-06 | PLKF9M | TW70GZ rm-5 | – | – | N/A (expired) | |
 | 2026-11-06 | SGG8ER | TW70GZ rm-10 | – | – | N/A (expired) | |
 | 2026-11-06 | YZZRC5 | TW70GZ rm-15 | – | – | N/A (expired) | |
@@ -283,8 +283,13 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-17 | RQWD70 | VJM0XX-rm5 | 34 | 23W/8L/3V/0P | DEAD | Ireland v Kosovo — Asian Handicap -1 Away (+1.0) (3:0); Israel v Austria — Away or Over 2.5 Yes (1:1); Gambia v Ivory Coast — Double Chance Home or Away (2:2); Ipojuca FC PE v Santa Cruz FC PE — Over/Under Over 2.5 (0:2); Dartford FC v Three Bridges — Over/Under Over 2.5 (1:0); Sweden v Portugal — Both Halves Under 1.5 No (1:0); Niger v Morocco — Over/Under Over 3 (0:1); Tanzania v Nigeria — Over/Under Over 2 (0:0) |
 | 2026-11-17 | LCJLG5 | VJM0XX-rm10 | 29 | 21W/6L/2V/0P | DEAD | Ireland v Kosovo — Asian Handicap -1 Away (+1.0) (3:0); Israel v Austria — Away or Over 2.5 Yes (1:1); Gambia v Ivory Coast — Double Chance Home or Away (2:2); Ipojuca FC PE v Santa Cruz FC PE — Over/Under Over 2.5 (0:2); Dartford FC v Three Bridges — Over/Under Over 2.5 (1:0); Sweden v Portugal — Both Halves Under 1.5 No (1:0) |
 | 2026-11-17 | LMQNJP | VJM0XX-rm15 | 24 | 17W/5L/2V/0P | DEAD | Ireland v Kosovo — Asian Handicap -1 Away (+1.0) (3:0); Israel v Austria — Away or Over 2.5 Yes (1:1); Gambia v Ivory Coast — Double Chance Home or Away (2:2); Ipojuca FC PE v Santa Cruz FC PE — Over/Under Over 2.5 (0:2); Dartford FC v Three Bridges — Over/Under Over 2.5 (1:0) |
-| 2026-11-18 | NCG3XX | wed-50x-lottery | 19 | 2W/0L/0V/17P | ALIVE |  |
-| 2026-11-18 | N9LYFT | wed-500x-lottery | 27 | 2W/1L/1V/23P | DEAD | French Guiana v Saint Vincent and the Grenadines — Asian Handicap -0.5 Away (+0.5) (1:0) |
+| 2026-11-18 | NCG3XX | wed-50x-lottery | 19 | 6W/1L/2V/10P | DEAD | San Antonio Spurs v Detroit Pistons — Winner (incl. overtime) Home (93:105) |
+| 2026-11-18 | N9LYFT | wed-500x-lottery | 27 | 7W/3L/3V/14P | DEAD | San Antonio Spurs v Detroit Pistons — Winner (incl. overtime) Home (93:105); Mexico v Jamaica — Over/Under Over 2.5 (1:0); French Guiana v Saint Vincent and the Grenadines — Asian Handicap -0.5 Away (+0.5) (1:0) |
+| 2026-11-18 | M3MY5E | core-from-L3ZN58 | 4 | 0W/0L/1V/3P | ALIVE |  |
+| 2026-11-18 | RWE065 | core-from-L3ZN58-v2 | 3 | 0W/0L/1V/2P | ALIVE |  |
+| 2026-11-18 | JPN7JL | L3ZN58-rm5 | 32 | 10W/2L/2V/18P | DEAD | Al Baqaa v Jerash Club — Double Chance Home or Away (5:4); Luks Sportowa Czworka Radom v Kkp Bydgoszcz — Over/Under Over 2.5 (0:0) |
+| 2026-11-18 | M1TJ7F | L3ZN58-rm10 | 27 | 9W/1L/2V/15P | DEAD | Al Baqaa v Jerash Club — Double Chance Home or Away (5:4) |
+| 2026-11-18 | QN6FWE | L3ZN58-rm15 | 22 | 9W/1L/2V/10P | DEAD | Al Baqaa v Jerash Club — Double Chance Home or Away (5:4) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
