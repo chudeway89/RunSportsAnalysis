@@ -1,14 +1,14 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-19 03:12 UTC. Totals: 9 won · 79 dead · 0 alive · 197 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-19 19:50 UTC. Totals: 7 won · 80 dead · 0 alive · 201 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
 | Ticket size | Tickets | Won | Staked | Returned | ROI |
 |---|---|---|---|---|---|
-| 1-7 legs | 19 | 7 | 19 | 11.4 | -40% |
+| 1-7 legs | 15 | 5 | 15 | 8.9 | -41% |
 | 8-12 legs | 8 | 2 | 8 | 24.2 | +202% |
-| 13+ legs | 61 | 0 | 61 | 0.0 | -100% |
+| 13+ legs | 64 | 0 | 64 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -211,7 +211,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-07 | WKLGFZ | KC60ZS rm-5 (32 legs) | – | – | N/A (expired) | |
 | 2026-11-07 | Z8KH1U | KC60ZS rm-10 (27 legs) | – | – | N/A (expired) | |
 | 2026-11-07 | VUAGSU | KC60ZS rm-15 (22 legs) | – | – | N/A (expired) | |
-| 2026-11-09 | N2LH39 | LEAN 3 legs 2.30x (Jena +8.5, Kristiansund-VIF O2.5, Botosani +0.5) | 3 | 2W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
+| 2026-11-09 | N2LH39 | LEAN 3 legs 2.30x (Jena +8.5, Kristiansund-VIF O2.5, Botosani +0.5) | – | – | N/A (expired) | |
 | 2026-11-09 | NT2PGQ | FOOTBALL 50x lottery 11 legs 52.9x | 11 | 7W/4L/0V/0P | DEAD | Chapelton Maroons FC v Racing United FC — Over/Under Over 1.5 (0:0); Independiente Valle Del Cauca v Union Magdalena — Over/Under Over 1.5 (0:0); Gezira SC v Ittihad El-Shorta — Over/Under Over 1.5 (1:0); ASD Pineto Calcio v Vis Pesaro 1898 — Vis Pesaro 1898 Over/Under Over 0.5 (1:0) |
 | 2026-11-09 | Q02LS8 | BASKETBALL 50x lottery 13 legs 52.6x | 13 | 8W/5L/0V/0P | DEAD | Pato Basquete v Bauru Basket SP — Over/Under (incl. overtime) 164.5 Under 164.5 (78:98); HKK Siroki v KK Cibona — Over/Under (incl. overtime) 181.5 Under 181.5 (93:102); Shimane Susanoo Magic v Toyama Grouses — Over/Under (incl. overtime) 179.5 Under 179.5 (108:75); Kk Zlatibor v KK Sloga Kraljevo — Handicap (incl. overtime) -10.5 Away (+10.5) (103:88); EPG Baskets Koblenz v VFL Kirchheim Knights — Handicap (incl. overtime) 9.5 Home (+9.5) (81:92) |
 | 2026-11-09 | NAK0G5 | user code 40 legs (original, tracked) | 38 | 22W/12L/4V/0P | DEAD | FC Iberia 1999 v FC Gagra — Over/Under Over 1.5 (1:0); AL Najma SC U21 v Al-Wehda — Over/Under Over 1.5 (0:1); Middlesbrough U21 v Derby County U21 — Over/Under Over 2.5 (1:1); Penarol Montevideo v Juventud de Las Piedras — Over/Under Over 2.5 (0:0); Calcio Foggia v Barletta Calcio — Over/Under Over 1.5 (0:1); Independiente Valle Del Cauca v Union Magdalena — Over/Under Over 1.5 (0:0); Najran SC v AL Nojoom FC — Over/Under Over 1.5 (0:1); CE Sabadell FC v Real Sociedad San Sebastian B — Over/Under Over 2 (0:0); AD Rosario v Pitbulls Santa Barbara FC — Over/Under Over 1.5 (0:0); Club Aurora v FC Universitario de Vinto — Over/Under Over 2.5 (1:1); SFC Etar Veliko Tarnovo v PFC Montana 1921 — Over/Under Over 2.5 (1:1); Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
@@ -290,10 +290,13 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-18 | JPN7JL | L3ZN58-rm5 | 32 | 14W/11L/7V/0P | DEAD | CD Alcoyano v Mallorca — Away or Over 2.5 Yes (1:3); Velez Sarsfield Reserve v Rosario Central Reserve — Goal Bounds 3-5+ (0:1); Resende FC RJ v Olaria AC RJ — Double Chance Home or Away (1:1); CD El Vencedor v CD Olimpico Litoral — GG/NG Yes (0:3); Gosport Borough v Chertsey Town — Over/Under Over 2.5 (1:1); Nottingham Forest U21 v Newcastle United U21 — Home Team to Win Either Half Yes (2:3); Al Baqaa v Jerash Club — Double Chance Home or Away (5:4); Newington FC v Harland And Wolff Welders — Over/Under Over 2.5 (2:0); Luks Sportowa Czworka Radom v Kkp Bydgoszcz — Over/Under Over 2.5 (0:0); Coritiba FC PR v Santos FC SP — Corners - Over/Under Over 8.5 (0:1); Juventus Turin W v Oud-Heverlee Leuven W — Over/Under Over 2.5 (2:0) |
 | 2026-11-18 | M1TJ7F | L3ZN58-rm10 | 27 | 13W/9L/5V/0P | DEAD | CD Alcoyano v Mallorca — Away or Over 2.5 Yes (1:3); Resende FC RJ v Olaria AC RJ — Double Chance Home or Away (1:1); CD El Vencedor v CD Olimpico Litoral — GG/NG Yes (0:3); Gosport Borough v Chertsey Town — Over/Under Over 2.5 (1:1); Nottingham Forest U21 v Newcastle United U21 — Home Team to Win Either Half Yes (2:3); Al Baqaa v Jerash Club — Double Chance Home or Away (5:4); Newington FC v Harland And Wolff Welders — Over/Under Over 2.5 (2:0); Coritiba FC PR v Santos FC SP — Corners - Over/Under Over 8.5 (0:1); Juventus Turin W v Oud-Heverlee Leuven W — Over/Under Over 2.5 (2:0) |
 | 2026-11-18 | QN6FWE | L3ZN58-rm15 | 22 | 13W/5L/4V/0P | DEAD | Resende FC RJ v Olaria AC RJ — Double Chance Home or Away (1:1); Al Baqaa v Jerash Club — Double Chance Home or Away (5:4); Newington FC v Harland And Wolff Welders — Over/Under Over 2.5 (2:0); Coritiba FC PR v Santos FC SP — Corners - Over/Under Over 8.5 (0:1); Juventus Turin W v Oud-Heverlee Leuven W — Over/Under Over 2.5 (2:0) |
-| 2026-11-19 | KXVSN6 | thu-50x-value | 11 | 0W/1L/0V/10P | DEAD | Miami Heat v Milwaukee Bucks — Handicap (incl. overtime) -7.5 Home (-7.5) (137:130) |
-| 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
-| 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
-| 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
+| 2026-11-19 | KXVSN6 | thu-50x-value | 11 | 3W/4L/0V/4P | DEAD | MC Alger v Olympique Akbou — 1X2 Home (0:1); Lions FC v Wollongong Wolves FC — Over/Under Over 2.5 (6:4); Miami Heat v Milwaukee Bucks — Handicap (incl. overtime) -7.5 Home (-7.5) (137:130); Kedainiu Sporto Centras v Alytaus Patriotai — Winner (incl. overtime) Away (89:80) |
+| 2026-11-19 | J1MHBN | TY5YV3-rm5 | 34 | 13W/7L/1V/13P | DEAD | MB Rouissat v CR Belouizdad — Draw No Bet Away (1:0); MC Alger v Olympique Akbou — Home Team to Win Either Half Yes (0:1); Al Ahli Doha SC v Al-Shamal — Over/Under Over 3 (1:1); Al Ain FC v Al Dhafra SSC — Excluded Number of Goals - First Half 1 (2:1); Samaleswari SC v Nagaland United SC — Over/Under Over 2.5 (0:2); NK Dob v NK Bistrica Slovenska Bistrica — Over/Under Over 2.5 (5:4); Kigezi Homeboyz FC v Express FC — Draw No Bet Away (2:1) |
+| 2026-11-19 | LLHMW2 | TY5YV3-rm10 | 29 | 13W/4L/1V/11P | DEAD | MB Rouissat v CR Belouizdad — Draw No Bet Away (1:0); MC Alger v Olympique Akbou — Home Team to Win Either Half Yes (0:1); Al Ain FC v Al Dhafra SSC — Excluded Number of Goals - First Half 1 (2:1); Kigezi Homeboyz FC v Express FC — Draw No Bet Away (2:1) |
+| 2026-11-19 | LNC1WY | TY5YV3-rm15 | 24 | 11W/3L/1V/9P | DEAD | MB Rouissat v CR Belouizdad — Draw No Bet Away (1:0); MC Alger v Olympique Akbou — Home Team to Win Either Half Yes (0:1); Al Ain FC v Al Dhafra SSC — Excluded Number of Goals - First Half 1 (2:1) |
+| 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | – | – | N/A (expired) | |
+| 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | – | – | N/A (expired) | |
+| 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | – | – | N/A (expired) | |
 | 2026-11-10 | WSS4L0 | single Pistons ML v Wizards (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-10 | XMHZJT | single Cavs ML at Hornets (1.30) | 1 | 0W/1L/0V/0P | DEAD | Charlotte Hornets v Cleveland Cavaliers — Winner (incl. overtime) Away (124:112) |
 | 2026-11-10 | GXLJ7A | single Spurs ML at Suns (1.29) | 1 | 1W/0L/0V/0P | **WON** |  |
