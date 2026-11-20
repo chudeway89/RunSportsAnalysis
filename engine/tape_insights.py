@@ -86,6 +86,8 @@ for z,k,s in cand[:45]: out(fmt(' / '.join(k),s))
 out(f'\n{ntest} slices tested; by chance alone ~{ntest*0.0124:.0f} would show |z| ≥ 2.5 and ~{ntest*0.0027:.1f} |z| ≥ 3.')
 # 3. Rule audit on the full board
 out('\n## 3. Rule audit — each binding rule tested on the whole board, not just our legs\n'+HDR)
+def _feat():
+    return globals().get('FEAT',{})
 def F(cond,rows=fb): return [r for r in rows if cond(r)]
 def ou(r,s,l=None): return r['mid']=='18' and r['desc'].startswith(s) and (l is None or line(r)==l)
 p1={}
@@ -111,12 +113,18 @@ audit=[
  ('BTTS Yes',F(lambda r:r['mid']=='29' and r['desc'] in ('Yes','GG'))),
  ('BTTS No',F(lambda r:r['mid']=='29' and r['desc'] in ('No','NG'))),
  ('Both halves U1.5 (m59) No',F(lambda r:r['mid']=='59' and r['desc']=='No')),
- ('Corners 166 (all)',F(lambda r:r['mid']=='166')),
- ('Team corners home 900300',F(lambda r:r['mid']=='900300')),
- ('Bookings 139',F(lambda r:r['mid']=='139')),
- ('Women — goals O/U',F(lambda r:tier(r['lg'])=='women' and r['mid']=='18')),
- ('Youth/reserves — goals O/U',F(lambda r:tier(r['lg'])=='youth/res' and r['mid']=='18')),
- ('Friendlies — 1X2',F(lambda r:tier(r['lg'])=='friendly' and r['mid']=='1')),
+ ('Corners 166 Over',F(lambda r:r['mid']=='166' and r['desc'].startswith('Over'))),
+ ('Corners 166 Under',F(lambda r:r['mid']=='166' and r['desc'].startswith('Under'))),
+ ('Team corners home 900300 Over',F(lambda r:r['mid']=='900300' and r['desc'].startswith('Over'))),
+ ('Team corners home 900300 Under',F(lambda r:r['mid']=='900300' and r['desc'].startswith('Under'))),
+ ('Team corners away 900301 Over',F(lambda r:r['mid']=='900301' and r['desc'].startswith('Over'))),
+ ('Team corners away 900301 Under',F(lambda r:r['mid']=='900301' and r['desc'].startswith('Under'))),
+ ('Bookings 139 Over',F(lambda r:r['mid']=='139' and r['desc'].startswith('Over'))),
+ ('Bookings 139 Under',F(lambda r:r['mid']=='139' and r['desc'].startswith('Under'))),
+ ('Women — Over (1.18-2.2)',F(lambda r:tier(r['lg'])=='women' and ou(r,'Over') and 1.18<=r['odds']<2.2)),
+ ('Women — Under (1.18-2.2)',F(lambda r:tier(r['lg'])=='women' and ou(r,'Under') and 1.18<=r['odds']<2.2)),
+ ('Youth/reserves — Over (1.18-2.2)',F(lambda r:tier(r['lg'])=='youth/res' and ou(r,'Over') and 1.18<=r['odds']<2.2)),
+ ('Friendlies — 1X2 favourite',F(lambda r:tier(r['lg'])=='friendly' and r['mid']=='1' and r['hp']>=0.5)),
  ('Cup — fav 1X2 p≥0.65',F(lambda r:tier(r['lg'])=='cup' and r['mid']=='1' and r['hp']>=0.65)),
  ('League — fav 1X2 p≥0.65',F(lambda r:tier(r['lg']) in ('other league','top5+UEFA') and r['mid']=='1' and r['hp']>=0.65)),
 ]
@@ -185,11 +193,11 @@ for t in ('top5+UEFA','other league','cup','friendly','youth/res','women'):
         s=stat([r for r in fb if tier(r['lg'])==t and 1.18<=r['odds']<2.2 and cond(r)])
         if s and s['n']>=200: out(fmt(f'{t} — {nm}',s))
 # 6. by country (O/U and 1X2 short prices), largest |z|
-out('\n## 6. Countries / competitions with the biggest goal-total miscalibration (O/U 1.18–2.2, n ≥ 300)\n'+HDR)
+out('\n## 6. Competitions with the biggest goal-total miscalibration (O/U 1.18–2.2, n ≥ 120)\n'+HDR)
 C=collections.defaultdict(list)
 for r in fb:
     if r['mid']=='18' and 1.18<=r['odds']<2.2: C[(r['lg'],side(r))].append(r)
-cc=[(stat(v)['res']/stat(v)['se'],k,stat(v)) for k,v in C.items() if len(v)>=300]
+cc=[(stat(v)['res']/stat(v)['se'],k,stat(v)) for k,v in C.items() if len(v)>=120]
 cc.sort(key=lambda x:-abs(x[0]))
 for z,k,s in cc[:25]: out(fmt(f'{k[0]} — {k[1]}',s))
 out(f'\n{len(cc)} competition×side slices tested (chance: ~{len(cc)*0.0124:.0f} at |z|≥2.5).')
