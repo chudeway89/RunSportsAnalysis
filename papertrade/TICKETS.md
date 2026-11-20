@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-20 03:07 UTC. Totals: 5 won · 68 dead · 0 alive · 215 expired.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-20 19:36 UTC. Totals: 5 won · 72 dead · 2 alive · 215 expired.
 
 ## Return per 1-unit stake (settled, non-expired tickets; odds as first seen)
 
@@ -8,7 +8,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 |---|---|---|---|---|---|
 | 1-7 legs | 10 | 3 | 10 | 6.9 | -31% |
 | 8-12 legs | 7 | 2 | 7 | 24.2 | +246% |
-| 13+ legs | 56 | 0 | 56 | 0.0 | -100% |
+| 13+ legs | 60 | 0 | 60 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -294,6 +294,12 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-19 | J1MHBN | TY5YV3-rm5 | 34 | 20W/13L/1V/0P | DEAD | Arsenal WFC v Olympique Lyon W — Over/Under Over 2.5 (0:2); MB Rouissat v CR Belouizdad — Draw No Bet Away (1:0); MC Alger v Olympique Akbou — Home Team to Win Either Half Yes (0:1); JS Kabylie v USM Alger — Asian Handicap -1 Away (+1.0) (2:0); Madureira EC RJ v Bangu AC RJ — Over/Under Over 2.5 (1:0); Al Ahli Doha SC v Al-Shamal — Over/Under Over 3 (1:1); Al Ain FC v Al Dhafra SSC — Excluded Number of Goals - First Half 1 (2:1); CA Progreso v Montevideo City Torque — Away Team to Win Either Half Yes (1:1); Budapest Honved FC v Ujpesti TE — Double Chance Home or Away (1:1); Samaleswari SC v Nagaland United SC — Over/Under Over 2.5 (0:2); NK Dob v NK Bistrica Slovenska Bistrica — Over/Under Over 2.5 (5:4); Kigezi Homeboyz FC v Express FC — Draw No Bet Away (2:1); Deportivo La Guaira v Anzoategui FC — Over/Under Over 1.5 (0:1) |
 | 2026-11-19 | LLHMW2 | TY5YV3-rm10 | 29 | 19W/9L/1V/0P | DEAD | Arsenal WFC v Olympique Lyon W — Over/Under Over 2.5 (0:2); MB Rouissat v CR Belouizdad — Draw No Bet Away (1:0); MC Alger v Olympique Akbou — Home Team to Win Either Half Yes (0:1); JS Kabylie v USM Alger — Asian Handicap -1 Away (+1.0) (2:0); Al Ain FC v Al Dhafra SSC — Excluded Number of Goals - First Half 1 (2:1); CA Progreso v Montevideo City Torque — Away Team to Win Either Half Yes (1:1); Budapest Honved FC v Ujpesti TE — Double Chance Home or Away (1:1); Kigezi Homeboyz FC v Express FC — Draw No Bet Away (2:1); Deportivo La Guaira v Anzoategui FC — Over/Under Over 1.5 (0:1) |
 | 2026-11-19 | LNC1WY | TY5YV3-rm15 | 24 | 16W/7L/1V/0P | DEAD | Arsenal WFC v Olympique Lyon W — Over/Under Over 2.5 (0:2); MB Rouissat v CR Belouizdad — Draw No Bet Away (1:0); MC Alger v Olympique Akbou — Home Team to Win Either Half Yes (0:1); Al Ain FC v Al Dhafra SSC — Excluded Number of Goals - First Half 1 (2:1); CA Progreso v Montevideo City Torque — Away Team to Win Either Half Yes (1:1); Budapest Honved FC v Ujpesti TE — Double Chance Home or Away (1:1); Deportivo La Guaira v Anzoategui FC — Over/Under Over 1.5 (0:1) |
+| 2026-11-20 | SH7VNM | fri-10x | 12 | 5W/0L/0V/7P | ALIVE |  |
+| 2026-11-20 | PBJ7CB | fri-50x-lottery | 16 | 6W/0L/0V/10P | ALIVE |  |
+| 2026-11-20 | UH580U | fri-500x-lottery | 18 | 7W/1L/1V/9P | DEAD | CS Dinamo Bucuresti v Steaua CSM Bucuresti — Handicap (incl. overtime) -16.5 Away (+16.5) (105:76) |
+| 2026-11-20 | ZMRRN6 | XMMA4C-rm5 | 33 | 7W/3L/0V/23P | DEAD | GKS Piast Gliwice v Korona Kielce — Corners - Over/Under Over 9.5 (2:0); AFC Inter Stars Sibiu v ACS Kids Tampa Brasov — Goal Bounds 3-5+ (1:0); ASO Chlef v USM Khenchela — Asian Handicap -1 Away (+1.0) (2:0) |
+| 2026-11-20 | G1QSAQ | XMMA4C-rm10 | 28 | 6W/3L/0V/19P | DEAD | GKS Piast Gliwice v Korona Kielce — Corners - Over/Under Over 9.5 (2:0); AFC Inter Stars Sibiu v ACS Kids Tampa Brasov — Goal Bounds 3-5+ (1:0); ASO Chlef v USM Khenchela — Asian Handicap -1 Away (+1.0) (2:0) |
+| 2026-11-20 | SPBYFR | XMMA4C-rm15 | 23 | 5W/3L/0V/15P | DEAD | GKS Piast Gliwice v Korona Kielce — Corners - Over/Under Over 9.5 (2:0); AFC Inter Stars Sibiu v ACS Kids Tampa Brasov — Goal Bounds 3-5+ (1:0); ASO Chlef v USM Khenchela — Asian Handicap -1 Away (+1.0) (2:0) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | – | – | N/A (expired) | |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | – | – | N/A (expired) | |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | – | – | N/A (expired) | |
