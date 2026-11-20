@@ -7,7 +7,16 @@
 # Usage: python3 tape_insights.py  -> ../papertrade/INSIGHTS.md
 import json,math,re,collections,glob,os,sys
 IN='../papertrade/tape_graded.jsonl'; OUT='../papertrade/INSIGHTS.md'
-R=[json.loads(l) for l in open(IN)]
+import sys as _s
+def _load():
+    for l in open(IN):
+        r=json.loads(l)
+        if not r.get('hp') or r['res'] not in ('W','L','Q') or not r.get('start'): continue
+        for k in ('ko','oid','ht'): r.pop(k,None)
+        for k in ('eid','sport','lg','fx','mid','mdesc','desc','spec','res','score'):
+            if isinstance(r.get(k),str): r[k]=_s.intern(r[k])
+        yield r
+R=list(_load())
 R=[r for r in R if r.get('hp') and r['res'] in ('W','L','Q') and r.get('start')]
 for r in R:
     r['y']=1.0 if r['res']=='W' else 0.0 if r['res']=='L' else (1.0 if r['ret']>1 else 0.0 if r['ret']<1 else 0.5)
