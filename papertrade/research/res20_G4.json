@@ -1,0 +1,991 @@
+[
+ {
+  "eid": "sr:match:67912876",
+  "fx": "FC Gagra v FC Dila Gori",
+  "home_form": "Gagra (SR): W4-0 at Dinamo, D1-1 Meshakhte, W3-0 at Samgurali, L1-3 Batumi, D0-0 at Spaeri, W/D v Rustavi, L0-1 at Iberia",
+  "away_form": "Dila: mixed, 2-1 W at Meshakhte, W3-1 at Batumi, W2-1 at Kutaisi, L0-2 v Dinamo",
+  "trends": "no strong totals edge",
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "Erovnuli Liga round: sources disagree on date (AiScore/Scores24 list same round on 21 Nov, FotMob/Sofascore 20 Nov)",
+  "veto": true,
+  "veto_reason": "Date conflict across sources for this Erovnuli Liga round (20 vs 21 Nov)",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Erovnuli_Liga",
+   "https://www.aiscore.com/live/football-dinamo-tbilisi-vs-torpedo-kutaisi",
+   "https://scores24.live/en/soccer/m-21-11-2026-spaeri-meshakhte-prediction",
+   "https://www.fotmob.com/en-GB/teams/7755/overview/dinamo-tbilisi"
+  ]
+ },
+ {
+  "eid": "sr:match:67912882",
+  "fx": "FC Spaeri v FC Meshakhte Tkibuli",
+  "home_form": "Spaeri: D2-2 Iberia, W3-2 Batumi, D0-0 Gagra, D0-0 at Samgurali, W3-1 at Dinamo",
+  "away_form": "Meshakhte bottom (relegated per Wikipedia), L2-3 Kutaisi, W1-0 at Batumi",
+  "trends": "Spaeri games mixed 0-0s and 3+ goals",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "Meshakhte bottom/relegated - possible dead rubber",
+  "veto": true,
+  "veto_reason": "Date conflict: Scores24/AiScore list Spaeri v Meshakhte on 21 Nov, board 20 Nov; Meshakhte relegated (motivation)",
+  "picks": [],
+  "avoid": [
+   "Spaeri 1X2 @1.73"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Erovnuli_Liga",
+   "https://www.aiscore.com/live/football-dinamo-tbilisi-vs-torpedo-kutaisi",
+   "https://scores24.live/en/soccer/m-21-11-2026-spaeri-meshakhte-prediction",
+   "https://www.fotmob.com/en-GB/teams/7755/overview/dinamo-tbilisi"
+  ]
+ },
+ {
+  "eid": "sr:match:75110512",
+  "fx": "Bengaluru FC v Mumbai City",
+  "home_form": "Bengaluru unbeaten, 3rd 10 pts from 4 (2W 2D: 3-2 Sporting, 2-0 Chennaiyin, 1-1 at NEUFC, 2-1 at Goa)",
+  "away_form": "Mumbai City winless, 11th on 2 pts, new coach Ashvir Singh Johal; scored 0,1,0,0,1,1,0,2 in last 8 (SR)",
+  "trends": "Mumbai scored <=1 in 7/8; Bengaluru home 2+ goals in 2/2 this season",
+  "h2h": "Mumbai lead all-time 10-7-3; last meeting 0-0 (Apr 2026)",
+  "absences": "Bengaluru: Suresh Wangjam, Shivaldo Singh, Mihailo Perovic, Ricky Meetei out; Mumbai: Wilmar Gil doubtful",
+  "context": "Return from international break; Mumbai searching for first win",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.3,
+    "p": 0.7293,
+    "why": "tight-ish: Mumbai winless and scored <=1 in 7 of last 8 (SR), facing unbeaten Bengaluru with Gurpreet in goal; own p 0.78"
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.33,
+    "p": 0.7164,
+    "why": "value: Bengaluru unbeaten in 4 this season v winless Mumbai (2 pts); DNB covers the draw; own p 0.74; 4 Bengaluru absentees keep confidence modest"
+   }
+  ],
+  "avoid": [
+   "Bengaluru -1 / big handicaps (4 absentees)",
+   "Over 2.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://ianslive.in/isl-2026-27-unbeaten-bengaluru-eye-top-spot-against-winless-mumbai-city--20261119180016",
+   "https://www.mumbaicityfc.com/news/match-preview-bengaluru-fc-vs-mumbai-city-fc-mg-isl13",
+   "https://www.indiasportshub.com/articles/bengaluru-fc-eye-isl-summit-as-winless-mumbai-city-fc-search-for-first-victory"
+  ]
+ },
+ {
+  "eid": "sr:match:75949134",
+  "fx": "AL Minaa v Karbalaa",
+  "home_form": "Al Minaa home unbeaten: 3-0 Naft Maysan, 1-1 Duhok, 2-0 Ghaz, 2-1 Karma; 0-0, 0-0 last two away",
+  "away_form": "Karbalaa away 0W in 4 (L1-2 Naft, D0-0 Kahrabaa, L2-5 Duhok, L0-1 Newroz)",
+  "trends": "Al Minaa games <=3 goals 8/8; Karbalaa 6/8 <=3",
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "Iraq Stars League, low scoring",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.7191,
+    "why": "value: Al Minaa unbeaten at home (3W1D, 8-2 goals) v Karbalaa winless away (1D3L) per SR last-x; own p 0.76"
+   },
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Under 3.5",
+    "odds": 1.23,
+    "p": 0.7736,
+    "why": "tight: Al Minaa 8/8 games <=3 goals, Iraq league low scoring; own p 0.80 (Unders flagged, single-Under max)"
+   }
+  ],
+  "avoid": [
+   "Karbalaa result-side"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/football/team/al-minaa",
+   "https://www.aiscore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:76834422",
+  "fx": "Al-Salmiya SC v Khaitan SC",
+  "home_form": "Salmiya: W3-2 Kazma, D2-2 at Salibikha, W1-0 Jahra, L0-2 Shabab (home)",
+  "away_form": "Khaitan: no 2026-27 data in SR (last results Feb 2026)",
+  "trends": "n/a",
+  "h2h": "Salmiya 21W 8D 4L v Khaitan (AiScore)",
+  "absences": "none found",
+  "context": "Crown Prince Cup group stage opener; new 19-club format",
+  "veto": true,
+  "veto_reason": "Venue conflict: Arab Times says Abdullah Al-Khalifa Stadium, AiScore lists Thamir Stadium; Khaitan form data missing",
+  "picks": [],
+  "avoid": [
+   "Salmiya -1"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.arabtimesonline.com/news/salmiya-tadamon-lead-crown-prince-cup-opening-fixtures/",
+   "https://www.aiscore.com/head-to-head/soccer-al-salmiyah-vs-khaitan"
+  ]
+ },
+ {
+  "eid": "sr:match:76570800",
+  "fx": "Sanat Naft Abadan FC v Esteghlal Khuzestan FC",
+  "home_form": "Sanat Naft: L0-1 at Shams Azar, W3-0? (SR A Tractor 3-0), mixed",
+  "away_form": "Esteghlal Khuzestan: D2-2 v Esteghlal, D0-0 at Isfahan, W2-0 Shams",
+  "trends": "both teams 1-4 goals per game, no clean edge",
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "Iran Pro League",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 2.5"
+  ],
+  "confidence": 0.12,
+  "sources": [
+   "https://www.sofascore.com",
+   "https://www.aiscore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:75949136",
+  "fx": "Al Zawraa v AL Talaba",
+  "home_form": "Al Zawraa home: W1-0, W2-0, L0-2 Shorta, W2-0 Diyala, L0-3 Julan (lost 2 of last 3 home)",
+  "away_form": "Talaba: many draws (2-2 at Karbalaa, 2-2 Ghaz, 0-0 Shorta)",
+  "trends": "Zawraa games <=3 goals 8/8; Talaba 7/8",
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "Iraq Stars League",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Under 3.5",
+    "odds": 1.23,
+    "p": 0.7734,
+    "why": "tight: Zawraa 8/8 and Talaba 7/8 last games <=3 goals (SR); own p 0.80; Unders flagged - use only one per ticket"
+   }
+  ],
+  "avoid": [
+   "Zawraa 1X2 (lost 2 of last 3 home)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com",
+   "https://www.aiscore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:75949124",
+  "fx": "Duhok FC v Erbil SC",
+  "home_form": "Duhok home: W3-0 Zawraa, W5-2 Karbalaa, D1-1 Ghaz",
+  "away_form": "Erbil away: W3-0 at Karbalaa, D1-1 Naft, L1-2 Zakho",
+  "trends": "Erbil games 8/8 <=3 goals",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "Iraq Stars League, evenly priced",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "result-sides"
+  ],
+  "confidence": 0.12,
+  "sources": [
+   "https://www.sofascore.com",
+   "https://www.aiscore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:76365880",
+  "fx": "Al Wehdat v AL Arabi",
+  "home_form": "Al Wehdat dreadful: 1 goal in last 8 (0-0,0-0,L0-1,L0-1,W1-0,L0-1,L0-1 home to Al Arabi,L0-1)",
+  "away_form": "Al Arabi: won 1-0 AT Al Wehdat on 30 Oct; 4-1 at Al Hussein, 2-2 at Doqarah",
+  "trends": "Wehdat games: 8/8 under 2.5, 8/8 BTTS-No; Arabi 6/8 under 3.5",
+  "h2h": "Al Arabi won 1-0 at Al Wehdat 30 Oct 2026",
+  "absences": "none found",
+  "context": "Jordan Cup Round of 16 knockout (90-min settlement); Wehdat priced 1.23 despite 1 goal in 8",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Under 3.5",
+    "odds": 1.23,
+    "p": 0.7698,
+    "why": "tight: Al Wehdat games total 0-1 goals in 8/8, Al Arabi 6/8 <=3; own p 0.85"
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "No",
+    "odds": 1.31,
+    "p": 0.711,
+    "why": "value: Wehdat 1 goal in 8 and BTTS-No in 8/8; Al Arabi beat them 1-0 three weeks ago; own p 0.78"
+   }
+  ],
+  "avoid": [
+   "Al Wehdat 1X2 @1.23 (1 goal in 8, lost to this opponent 30 Oct)",
+   "Over 1.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sofascore.com/football/team/al-wehdat/40650",
+   "https://www.365scores.com/en-us/football/team/al-wehdat-8275",
+   "https://scores24.live/en/soccer/m-20-11-2026-al-wehdat-jor-arabi-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:76640492",
+  "fx": "FC Prishtina v KF Drenica Skenderaj",
+  "home_form": "Prishtina: away wins at Gjilani, Ballkani, Llapi, Drita, Vushtrria; home D0-0 Dukagjini, L0-3 Drita (0 home goals in 2)",
+  "away_form": "Drenica away: L0-3 Gjilani, D1-1 Dukagjini, L0-4 Ballkani",
+  "trends": "Prishtina home scoring poor",
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "Single listing only (Footboom, stale metadata)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Prishtina 1X2 @1.26 (0 goals in last 2 home)"
+  ],
+  "confidence": 0.12,
+  "sources": [
+   "https://www.footboom1.com/en/tomorrow",
+   "https://www.sofascore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:67912874",
+  "fx": "FC Dinamo Tbilisi v FC Torpedo Kutaisi",
+  "home_form": "Dinamo Tbilisi: L0-2 at Dila, D0-0 Iberia, L0-2 at Rustavi - 1 win in last 5",
+  "away_form": "Torpedo: L2-3 at Meshakhte, W2-1 Dila, W3-2 at Iberia",
+  "trends": "both sides concede",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "Date conflict: AiScore lists 21 Nov 12:00 UTC",
+  "veto": true,
+  "veto_reason": "Date conflict (FotMob/Sofascore 20 Nov 16:00 v AiScore 21 Nov 12:00); Dinamo form poor anyway",
+  "picks": [],
+  "avoid": [
+   "Dinamo DNB @1.23 (1 win in 5)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Erovnuli_Liga",
+   "https://www.aiscore.com/live/football-dinamo-tbilisi-vs-torpedo-kutaisi",
+   "https://scores24.live/en/soccer/m-21-11-2026-spaeri-meshakhte-prediction",
+   "https://www.fotmob.com/en-GB/teams/7755/overview/dinamo-tbilisi"
+  ]
+ },
+ {
+  "eid": "sr:match:76802934",
+  "fx": "AS Korofina v Onze Createurs",
+  "home_form": "Korofina: 0-0, 0-0, L2-3 Derby Academie (Nov), 0-0 v Diarra",
+  "away_form": "Onze Createurs: 0-0, 0-0, W2-0 at Djoliba, 0-0 Stade Malien",
+  "trends": "Korofina 3 straight 0-0 in league restart pattern; Onze 7/8 <=2 goals",
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "Mali Ligue 1, thin data (no half scores)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Under 2.5",
+    "odds": 1.37,
+    "p": 0.6855,
+    "why": "value: Onze Createurs 7/8 and Korofina 6/8 last games <=2 goals, 4 of their last 6 combined 0-0; own p 0.74; thin data, Under - use sparingly"
+   }
+  ],
+  "avoid": [],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com",
+   "https://www.aiscore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:76834440",
+  "fx": "AL Tadhamon v AL Jazira FC (Kuwait)",
+  "home_form": "Tadhamon: L1-3 at Shabab, W3-2 Sahel, L2-6 Kuwait SC",
+  "away_form": "Al Jazira (Kuwait): almost no data",
+  "trends": "n/a",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "Crown Prince Cup group stage",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.arabtimesonline.com/news/salmiya-tadamon-lead-crown-prince-cup-opening-fixtures/",
+   "https://www.sofascore.com/football/tournament/kuwait/crown-prince-cup/939"
+  ]
+ },
+ {
+  "eid": "sr:match:76463324",
+  "fx": "Zabbar Saint Patrick FC v Gzira United FC",
+  "home_form": "Zabbar St Patrick: W5-0 Mosta, W2-1 Floriana, D1-1 at Birkirkara",
+  "away_form": "Gzira: L0-5 v Marsaxlokk, L0-3 v Balzan (both home)",
+  "trends": "n/a",
+  "h2h": "0-0 in Sept",
+  "absences": "none",
+  "context": "Malta PL",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com",
+   "https://www.aiscore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:76807840",
+  "fx": "Black Bulls FC v Ferroviario de Maputo",
+  "home_form": "Black Bulls: W2-0 and D1-1 v \"Ferroviario\" 14 & 17 Nov (SR)",
+  "away_form": "Ferroviario Maputo: low scoring, 7/8 <=2 goals",
+  "trends": "Mocambola low scoring",
+  "h2h": "SR shows meetings on 14/11 and 17/11 - ambiguous which Ferroviario",
+  "absences": "none",
+  "context": "data ambiguity",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 2.5"
+  ],
+  "confidence": 0.12,
+  "sources": [
+   "https://www.sofascore.com",
+   "https://www.aiscore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:72513992",
+  "fx": "Arminia Bielefeld v 1. FC Magdeburg",
+  "home_form": "Bielefeld unbeaten in last 10 at SchuecoArena (2-2 Heidenheim, 2-2 RWE, 2-1 Osnabrueck, 3-1 Braunschweig); 6th 17 pts",
+  "away_form": "Magdeburg 4th 20 pts; away D1-1 Fuerth, L0-2 Dresden, D1-1 Darmstadt; scored in 7/8",
+  "trends": "Bielefeld games 6/8 >=2 goals, Magdeburg 8/8 >=2; 2.BL high scoring",
+  "h2h": "Bielefeld won last two H2H",
+  "absences": "none reported",
+  "context": "Top-6 clash",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7872,
+    "why": "tight: Magdeburg games 8/8 >=2 goals, Bielefeld 6/8 (SR), 2. Bundesliga high-scoring; own p 0.82"
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.63,
+    "p": 0.5853,
+    "why": "value: Bielefeld unbeaten in 10 home games, won last two H2H; own p 0.62"
+   }
+  ],
+  "avoid": [
+   "Under 2.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/arminia-bielefeld-magdeburg-2490796",
+   "https://bulinews.com/2-bundesliga-five-things-look-out-for-matchday-12",
+   "https://scoregpt.app/ai-football-predictions/2-bundesliga/arminia-bielefeld-vs-1-fc-magdeburg-2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:72513984",
+  "fx": "Darmstadt v Heidenheim",
+  "home_form": "Darmstadt 17th 9 pts; L0-2 at Nuernberg, D1-1 Magdeburg, D0-0 St Pauli",
+  "away_form": "Heidenheim 7th 16 pts; away: D2-2 at Bielefeld, L1-3 Wolfsburg, L1-2 Karlsruhe (\"struggled defensively away\")",
+  "trends": "Heidenheim games 6/8 3+ goals; Darmstadt 4/8",
+  "h2h": "n/a",
+  "absences": "none reported",
+  "context": "relegation-zone home side v promotion chaser",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.5,
+    "p": 0.6391,
+    "why": "value: Heidenheim 6/8 games 3+ goals and leaky away; Darmstadt conceding; own p 0.66"
+   }
+  ],
+  "avoid": [
+   "Heidenheim 1X2/DNB (0W in last 3 league aways)"
+  ],
+  "confidence": 0.22,
+  "sources": [
+   "https://bulinews.com/2-bundesliga-five-things-look-out-for-matchday-12",
+   "https://footballpredictions.com/footballpredictions/bundesliga-2-predictions/"
+  ]
+ },
+ {
+  "eid": "sr:match:74325730",
+  "fx": "FK Auda Riga v Riga FC",
+  "home_form": "Auda (cup holders): L1-2 at Tukums, W4-3 Jelgava",
+  "away_form": "Riga FC 2nd in Virsliga, many draws in Europe",
+  "trends": "n/a",
+  "h2h": "Auda beat Riga FC 2-1 in last year's cup final",
+  "absences": "none",
+  "context": "Latvian Cup FINAL at Skonto Stadium (Riga FC's home ground) though board lists Auda as home",
+  "veto": true,
+  "veto_reason": "Venue/home-side conflict: final at Skonto Stadium (Riga FC home) while board lists Auda home; one-off final",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://eng.lsm.lv/article/culture/sport/19.11.2026-free-entry-to-latvian-cup-final-on-friday.a672614/",
+   "https://www.365scores.com/en-uk/football/match/latvijas-kauss-5085/auda-riga-11231-29362-5085"
+  ]
+ },
+ {
+  "eid": "sr:match:76802936",
+  "fx": "FC Diarra v AS Kayes",
+  "home_form": "Diarra: 0-0 Korofina, W1-0 at Stade Malien, 0-0 Djoliba; 7/8 games <=3 goals",
+  "away_form": "AS Kayes: W2-0 at Real Bamako, W3-1 at Derby Academie (3 games only)",
+  "trends": "Diarra 7/8 <=3, 5/8 <=2",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "Mali Ligue 1 thin data",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com",
+   "https://www.aiscore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:72680302",
+  "fx": "TSV Havelse v FC Viktoria Cologne",
+  "home_form": "Havelse 20th (bottom) but home: D2-2 Wuerzburg, W3-2 Saarbruecken, D1-1 Ingolstadt; conceded 2+ in 6/8",
+  "away_form": "Viktoria Koeln top of 3. Liga: won 5-2 at Aachen, 5-3 v Saarbruecken, 1-0 at Hoffenheim II; scored 2+ in 6/8",
+  "trends": "Havelse games 3+ goals 7/8, Viktoria 6/8",
+  "h2h": "Havelse won 3-2 at home in Mar 2026; Viktoria won 4-1 Oct 2025",
+  "absences": "none found",
+  "context": "bottom v top",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.7029,
+    "why": "value: Havelse games 3+ goals in 7/8 (concedes 2+ in 6/8), Viktoria 6/8; last H2H 3-2 and 4-1; own p 0.74"
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.36,
+    "p": 0.7033,
+    "why": "value: Viktoria scored 2+ in 6/8 v Havelse defence that conceded 2+ in 6/8; own p 0.72"
+   }
+  ],
+  "avoid": [
+   "Viktoria DNB @1.20 (Havelse unbeaten in 3 home, beat Viktoria 3-2 at home in March)"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportschau.de/fussball/bundesliga3/tsv-havelse-gegen-viktoria-koeln,audiostream-tsv-havelse-gegen-viktoria-koeln-100.html",
+   "https://www.news.de/sport/860204479/viktoria-koeln-gegen-tsv-havelse-am-20-11-2026-spielplan-fuer-naechste-spiele/1/",
+   "https://datencenter.dfb.de/datencenter/3-liga/2025-2026/10-spieltag/fc-viktoria-koeln-tsv-havelse-2400327"
+  ]
+ },
+ {
+  "eid": "sr:match:72037454",
+  "fx": "EA Guingamp v Rodez Aveyron Football",
+  "home_form": "Guingamp 11th: W3-0 St-Etienne, W3-0 at Dunkerque; home L1-3 Red Star, L1-2 Pau",
+  "away_form": "Rodez 13th: away L0-2 St-Etienne, W2-1 at Dijon, L0-1 at Clermont",
+  "trends": "Guingamp over 2.5 in 8/12 this season; Guingamp games >=2 goals 7/8, Rodez 6/8",
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "mid-table",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.8118,
+    "why": "tight: Guingamp over 2.5 in 8/12 league games and 7/8 recent >=2 goals; Rodez 6/8; own p 0.81 (Ligue 2 avg below 2.7 - keep <=3 O1.5 per ticket)"
+   }
+  ],
+  "avoid": [
+   "Guingamp 1X2"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://antichambre.eu/ligue-2-les-enjeux-de-la-13eme-journee/",
+   "https://programmetv.ouest-france.fr/sport/football/football-ligue-2-bkt-m210017142/football-ligue-2-bkt-c450956998/",
+   "https://www.soccerstats.com/en-gb/leagues/france/ligue-2/france2",
+   "https://www.predictz.com/predictions/france/ligue-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:72037452",
+  "fx": "FC Annecy v Clermont Foot",
+  "home_form": "Annecy home league: L1-2 Dijon, L1-2 Nancy, L0-3 Montpellier (3 straight home defeats)",
+  "away_form": "Clermont away league unbeaten in 3 (D1-1 Grenoble, D3-3 Laval, D1-1 Nantes)",
+  "trends": "Clermont 4 draws in last 8",
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.54,
+    "p": 0.5971,
+    "why": "value: Annecy lost last 3 home league games, Clermont unbeaten in last 3 league aways; own p 0.64"
+   }
+  ],
+  "avoid": [
+   "Annecy 1X2"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://antichambre.eu/ligue-2-les-enjeux-de-la-13eme-journee/",
+   "https://programmetv.ouest-france.fr/sport/football/football-ligue-2-bkt-m210017142/football-ligue-2-bkt-c450956998/",
+   "https://www.soccerstats.com/en-gb/leagues/france/ligue-2/france2"
+  ]
+ },
+ {
+  "eid": "sr:match:72037458",
+  "fx": "Metz v US Boulogne",
+  "home_form": "Metz (relegated from L1) 7th: home D2-2 St-Etienne, W3-2 Sochaux, L1-3 Pau",
+  "away_form": "Boulogne (promoted) 12th: away D0-0 Clermont, D1-1 Sochaux, W2-0 at Grenoble, L0-1 at Laval; 8/8 games <=3 goals",
+  "trends": "Boulogne low-scoring, Metz games high-scoring - conflict",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Metz -1"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://antichambre.eu/ligue-2-les-enjeux-de-la-13eme-journee/",
+   "https://programmetv.ouest-france.fr/sport/football/football-ligue-2-bkt-m210017142/football-ligue-2-bkt-c450956998/",
+   "https://www.soccerstats.com/en-gb/leagues/france/ligue-2/france2",
+   "https://www.pronosoft.com/fr/lotofoot/pronostics/loto-foot-8/2026-grille-160/"
+  ]
+ },
+ {
+  "eid": "sr:match:72037460",
+  "fx": "Nancy-Lorraine v Dijon",
+  "home_form": "Nancy 2nd 25 pts; home W1-0 Guingamp, W1-0 Laval, W1-0 Sochaux (3/3 home wins, all 1-0)",
+  "away_form": "Dijon 6th 18 pts; away W2-1 at Annecy, L2-4 at Reims, W3-1 at Grenoble",
+  "trends": "Nancy home games 1 goal each; Dijon away games 3,6,4",
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "Nancy on a winning run at home",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.2,
+    "p": 0.8013,
+    "why": "tight: Nancy 3/3 home league wins (clean sheets), 2nd in table; this is 1X; own p 0.80"
+   }
+  ],
+  "avoid": [
+   "Over 1.5 @1.21 (Nancy home games all 1-0)",
+   "Over 2.5"
+  ],
+  "confidence": 0.28,
+  "sources": [
+   "https://antichambre.eu/ligue-2-les-enjeux-de-la-13eme-journee/",
+   "https://programmetv.ouest-france.fr/sport/football/football-ligue-2-bkt-m210017142/football-ligue-2-bkt-c450956998/",
+   "https://www.soccerstats.com/en-gb/leagues/france/ligue-2/france2"
+  ]
+ },
+ {
+  "eid": "sr:match:72037464",
+  "fx": "Red Star FC v Pau FC",
+  "home_form": "Red Star home: W1-0 Metz, L0-1 St-Etienne, L1-4 Nancy",
+  "away_form": "Pau away league: W1-0 at Montpellier, W2-1 at Guingamp, W3-1 at Metz (3/3 wins)",
+  "trends": "n/a",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.67,
+    "p": 0.5424,
+    "why": "value: Pau won all 3 recent league aways (incl. at Metz and Guingamp); Red Star lost 2 of last 3 home; own p 0.60"
+   }
+  ],
+  "avoid": [
+   "Red Star 1X2"
+  ],
+  "confidence": 0.18,
+  "sources": [
+   "https://antichambre.eu/ligue-2-les-enjeux-de-la-13eme-journee/",
+   "https://programmetv.ouest-france.fr/sport/football/football-ligue-2-bkt-m210017142/football-ligue-2-bkt-c450956998/",
+   "https://www.soccerstats.com/en-gb/leagues/france/ligue-2/france2"
+  ]
+ },
+ {
+  "eid": "sr:match:73080444",
+  "fx": "FC De Montlouis v FC Borgo",
+  "home_form": "Montlouis: W2-1 at Racing? mixed, cup 7-6 pens",
+  "away_form": "Borgo away: mixed losses",
+  "trends": "n/a",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "France National-level; thin",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com",
+   "https://www.aiscore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:72304360",
+  "fx": "FK Mornar Bar v FK Sutjeska Niksic",
+  "home_form": "Mornar: D0-0 Petrovac, L0-1 at Bokelj",
+  "away_form": "Sutjeska: L0-3 Petrovac, L0-1 at Mladost",
+  "trends": "n/a",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "Montenegro",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com",
+   "https://www.aiscore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:72044830",
+  "fx": "Almere City FC v NAC Breda",
+  "home_form": "Almere home: 1-0 Volendam, 3-0 Eindhoven, 2-3 Roda, 6-1 Helmond; scored in 8/8; won last 3",
+  "away_form": "NAC unbeaten in 9; away D2-2 Vitesse, W2-0 Helmond, W2-0 Jong PSV, D0-0 Dordrecht",
+  "trends": "Almere 6/8 3+ goals; NAC 3/8",
+  "h2h": "Almere 4W NAC 7W 2D last 13",
+  "absences": "none found",
+  "context": "top-of-table clash",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.23,
+    "p": 0.7817,
+    "why": "tight: Almere scored in all 8 recent games (home 4/4, 12 goals); own p 0.83"
+   }
+  ],
+  "avoid": [
+   "result-sides (both in form)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bet-experts.nl/nieuws/wedtips-almere-city---nac-breda-voorspelling-odds-opstellingen-wie-wint-het-duel-om-de-top-van-de-eerste-divisie",
+   "https://squawka.com/nl/nieuws/kkd/almere-city-fc-nac-breda-opstellingen-statistieken-voorspelling",
+   "https://www.windrawwin.com/us/picks/netherlands-eerste-divisie/almere-city-v-nac/872771/"
+  ]
+ },
+ {
+  "eid": "sr:match:72513310",
+  "fx": "Bayern Munich v Cologne",
+  "home_form": "Bayern 1st, 6W 3D, 29-9; scored 2+ in last 8 (6-1 Leipzig, 6-1 Magdeburg, 3-1 at Freiburg, 2-0 at Atletico, 2-1 at Mainz)",
+  "away_form": "Koeln 15th 9 pts; away L1-2 Hamburg, L0-1 Frankfurt, D1-1 Union",
+  "trends": "Bayern win margin 2+ in 4/8 recent; Bayern scored 2+ 8/8",
+  "h2h": "n/a",
+  "absences": "Bayern: Neuer, Davies, Gnabry, Saibari out, Diaz doubtful, Musiala questionable (conflicting); Koeln: CBs Hubers & van den Berg, strikers Dallinga & Rondic, Skhiri out",
+  "context": "Home after international break; Koeln without both first-choice CBs and two strikers",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Home (-1.5)",
+    "odds": 1.31,
+    "p": 0.7416,
+    "why": "value: Koeln missing CBs Hubers + van den Berg and Skhiri; Bayern scored 2+ in 8/8; previews predict 3-0/4-1; own p 0.76"
+   }
+  ],
+  "avoid": [
+   "Koeln to score (missing Dallinga, Rondic)",
+   "Bayern -2.5 (Bayern only 6W from 9, 3 draws)"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-fc-bayern-vs.-koeln-bundesliga-md-10",
+   "https://thehardtackle.com/round-up/2026/11/19/bayern-munich-vs-fc-koln-preview-prediction-probable-lineups-tactics-team-news-key-stats/",
+   "https://www.whoscored.com/articles/6FmCwf6YREmHIcm7Fexz3g/show/cng111-20261120-bayern-munich-vs-cologne-prediction-1795174569"
+  ]
+ },
+ {
+  "eid": "sr:match:73093090",
+  "fx": "Hellas Verona v Cesena FC",
+  "home_form": "Verona 5th 16 pts, unbeaten in 5; home W2-1 Vicenza, D2-2 Catanzaro, D1-1 Pisa, W3-0 Carrarese",
+  "away_form": "Cesena 12th 15 pts; away L0-2 Benevento, L0-3 Modena, D1-1 Suedtirol; scored <=1 in 6/8",
+  "trends": "Cesena 0W in 4 recent aways, scored 2 away goals",
+  "h2h": "n/a",
+  "absences": "Verona: Korac, Compagnon out; Cesena: Klinsmann (GK), Schirone out; Shpendi (8 goals) fit",
+  "context": "",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7792,
+    "why": "tight: Verona unbeaten in 5 and unbeaten at home, Cesena winless in 4 aways and without GK Klinsmann; own p 0.80"
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.26,
+    "p": 0.7631,
+    "why": "value: Cesena scored <=1 in 6/8, 2 goals in 4 aways; own p 0.78 (but Shpendi is Serie B top scorer)"
+   }
+  ],
+  "avoid": [
+   "Cesena to score heavy"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.corrieredellosport.it/news/scommesse/2026/11/19-152685839/serie_b_pronostico_verona-cesena_marco_baroni_vede_il_quarto_posto",
+   "https://www.agimeg.it/hellas-verona-cesena-serie-b-2026-pronostico/",
+   "https://www.soccerpunter.com/news/hellas-verona-vs-cesena-match-preview-head-to-head-predictions/"
+  ]
+ },
+ {
+  "eid": "sr:match:73293368",
+  "fx": "AC Trento v AS Cittadella",
+  "home_form": "Trento home: W1-0 Folgore, W2-1 Juve NG, W2-1 Albinoleffe (3/3); L1-2 at Lumezzane",
+  "away_form": "Cittadella leaders; away L0-2 Novara, W2-1 at Union Brescia, D0-0 Giana",
+  "trends": "Trento 8/8 <=3 goals, Cittadella 7/8; Serie C low scoring",
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "Top-of-table clash (leaders v contender) - cagey",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Under 3.5",
+    "odds": 1.27,
+    "p": 0.7552,
+    "why": "tight: Trento 8/8 and Cittadella 7/8 recent games <=3 goals; top-of-table Serie C; own p 0.82 (Unders flagged - max one per ticket)"
+   }
+  ],
+  "avoid": [
+   "result-sides"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.tuttomercatoweb.com/serie-c/serie-c-15a-giornata-guida-completa-2295327",
+   "https://www.trentotoday.it/sport/calcio/trento-cittadella-formazioni-dove-vederla.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73294846",
+  "fx": "Casertana FC v Salernitana",
+  "home_form": "Casertana 20 pts; home W3-1 Monopoli, D1-1 Bari, W1-0 Casarano; always scored at home",
+  "away_form": "Salernitana 13th 18 pts; away W2-1 at Crotone?, D0-0 Casarano, L0-3? at Picerno",
+  "trends": "Casertana 7/8 <=3 goals",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "Campanian derby (no result-side)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.27,
+    "p": 0.7478,
+    "why": "tight: Casertana have scored in every home game this season (Agimeg), 4/4 recent home in SR; own p 0.80; derby = goals not result"
+   }
+  ],
+  "avoid": [
+   "result-sides (derby)"
+  ],
+  "confidence": 0.22,
+  "sources": [
+   "https://www.agimeg.it/casertana-salernitana-serie-c-2026-pronostico/",
+   "https://www.tuttomercatoweb.com/serie-c/serie-c-15a-giornata-guida-completa-2295327"
+  ]
+ },
+ {
+  "eid": "sr:match:72036308",
+  "fx": "ESTAC Troyes v Le Havre",
+  "home_form": "Troyes 17th 8 pts; home poor (L2-6 Strasbourg, L0-2 Marseille, L1-3 Lens, W2-0 Le Mans) but won at Lille, Angers, PSG",
+  "away_form": "Le Havre bottom 2 pts, no win; new coach Valerien Ismael debut",
+  "trends": "mixed totals",
+  "h2h": "n/a",
+  "absences": "Troyes: Junior Diaz suspended, Kone (ACL) out, Ouzenadji doubt; Le Havre: Mpasi, Mambimbi out, Zagadou out, Ndiaye/Jelert/Pembele doubtful",
+  "context": "relegation six-pointer; new-manager bounce risk",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Troyes 1X2 (poor home record, new-coach bounce)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://soccernet.ng/2026/11/troyes-vs-le-havre-preview-team-news-h2h-maja.html",
+   "https://www.sportsmole.co.uk/football/troyes/preview/troyes-vs-le-havre-prediction-team-news-lineups_609296.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72740814",
+  "fx": "Southend United v Boreham Wood FC",
+  "home_form": "Southend: BTTS in 16/17 league games; last 8 all BTTS, 6/8 3+ goals (3-3 Worthing, 3-2 Wealdstone, 2-1 Aldershot)",
+  "away_form": "Boreham Wood unbeaten leaders 14W 3D, 10 pts clear; 6/8 games 3+ goals (4-3 Hartlepool, 2-2 Yeovil)",
+  "trends": "Southend BTTS 16/17; both sides high scoring",
+  "h2h": "n/a",
+  "absences": "none found",
+  "context": "Southend 13 pts off pace, chasing",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.34,
+    "p": 0.7058,
+    "why": "value: Southend BTTS in 16 of 17 league games, BW 6/8 3+ goal games; own p 0.78"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.7034,
+    "why": "value: Southend 6/8 and Boreham Wood 6/8 recent games 3+ goals; own p 0.73"
+   }
+  ],
+  "avoid": [
+   "Under markets",
+   "Southend 1X2"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://news.williamhill.com/football/national-league/southend-v-boreham-wood-betting-tips-friday-20th-november-2026/",
+   "https://news.bet365.com/en-gb/article/southend-united-v-boreham-wood-tips-and-prediction-from-the-football-betting-club/2026111915325235450",
+   "https://www.dazn.com/en-US/news/soccer/national-league-games-this-weekend-southend-boreham-wood-yeovil-forest-green/gjlq4go4azz91tj562clcqhgk"
+  ]
+ },
+ {
+  "eid": "sr:match:76463326",
+  "fx": "Balzan FC v Mosta FC",
+  "home_form": "Balzan: W3-0 at Gzira, L1-2 Hibernians, L0-2 Birkirkara",
+  "away_form": "Mosta: L0-5 at St Patrick, D0-0 Birzebbuga",
+  "trends": "n/a",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "Malta",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com",
+   "https://www.aiscore.com"
+  ]
+ },
+ {
+  "eid": "sr:match:74063126",
+  "fx": "Huracanes Izcalli FC v Gorilas de Juanacatlan",
+  "home_form": "Huracanes: L1-3 at Internacional, W2-1? at Cruz Azul Lagunas",
+  "away_form": "Gorilas: W5-0, W7-0, W6-2, W3-1 at home; W2-0 at Irapuato; scored 2+ in 6/8",
+  "trends": "Gorilas high scoring (mostly at home)",
+  "h2h": "n/a",
+  "absences": "none",
+  "context": "Liga Premier Serie B (4th tier) - thin",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.56,
+    "p": 0.5878,
+    "why": "value (low conf): Gorilas scored 2+ in 6/8, incl. 2-0 at Irapuato; most big scores at home; own p 0.62; thin tier"
+   }
+  ],
+  "avoid": [],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com",
+   "https://www.aiscore.com"
+  ]
+ }
+]

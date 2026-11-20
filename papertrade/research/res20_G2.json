@@ -1,0 +1,1188 @@
+[
+ {
+  "eid": "sr:match:76741768",
+  "fx": "CA Batna v JSM Skikda",
+  "home_form": "CA Batna last 7 (SR): 0-0 Paradou (H), 1-1 at Teleghma, 2-0 Chaouia (H), 0-0 at Annaba, 1-0 Khroub (H), 0-0 at Magra, 0-1 (H). Every game 2 goals or fewer; home games 0,2,1,1 goals.",
+  "away_form": "JSM Skikda (promoted) last 7: 0-1 at Paradou, 3-2 Teleghma (H), 2-3 at Chaouia, 1-0 v Batna (H), 1-2 at Khroub, 2-1 Magra (H), 1-0 NRBO (H). Away: L,L,L (scored 0,2,1).",
+  "trends": {
+   "game_totals": "Batna 7/7 games <=2 goals (avg 0.9). Skikda 4/7 <=2 but 5-goal games at Chaouia and v Teleghma.",
+   "team_totals": "Batna scored 4 in 7; Skikda scored 0 or 1 in 4/7.",
+   "first_half": "no period data",
+   "handicap": "Batna 2 wins in 7, all by 1-2 goals",
+   "corners": "n/a"
+  },
+  "h2h": "Skikda 1-0 Batna (24 Oct 2026, Skikda home) in this season.",
+  "absences": "No news found (Ligue 2, thin coverage).",
+  "context": "Algerian Ligue 2 Centre-East group, round 10. Second tier, low-scoring; Batna scoring-shy at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Under 3.5",
+    "odds": 1.2,
+    "p": 0.7899,
+    "why": "tight: named trend, Batna 7/7 games <=2 goals, home games max 2 goals; own est 0.87"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Under 2.5",
+    "odds": 1.59,
+    "p": 0.5847,
+    "why": "value: Batna 7/7 <=2; Skikda away games 1,5,3 goals; own est 0.68"
+   }
+  ],
+  "avoid": "Over 1.5 (1.39): Batna 4/7 games had 0-1 goals. Batna -0 result side: Batna win rate 2/7.",
+  "confidence": 0.3,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Algerian_League_2",
+   "https://en.wikipedia.org/wiki/Algerian_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:76741798",
+  "fx": "El Bayadh v Jrb Taghit",
+  "home_form": "MC El Bayadh (relegated from L1) last 7: 0-1 at WA Mostaganem, 1-1 ASM Oran (H), 0-0 at El Harrach, 1-2 Saida (H), 0-3 at Hussein Dey, 0-0 Tlemcen (H), 0-1 at Kolea. 0 wins in 7, scored 2 goals in 7.",
+  "away_form": "JRB Taghit (promoted) last 7: 0-3 Arbaa (H), 0-4 at Kouba, 0-2 at Tlemcen, 0-6 Tiaret (H), 1-6 at ASM Oran, 1-1 WA Mostaganem (H), 0-4 at El Harrach. Scored 2, conceded 26; blank in 5/7, away blank 3/4.",
+  "trends": {
+   "game_totals": "El Bayadh games 1,2,0,3,3,0,1 goals (7/7 <=3). Taghit games 3,4,2,6,7,2,4 (blowouts v strong sides).",
+   "team_totals": "El Bayadh scored 0 in 5/7; Taghit scored 0 in 5/7.",
+   "first_half": "n/a",
+   "handicap": "El Bayadh has not won in 7; house makes them ~81% ML which their attack does not support",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Algerian Ligue 2 Centre-West, round 10. Bottom-of-table meeting; El Bayadh impotent in attack despite being heavy favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Under 0.5",
+    "odds": 1.6,
+    "p": 0.5707,
+    "why": "value: Taghit failed to score in 5/7 and 3/4 away, scored 2 all season; own est 0.66"
+   },
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Under 4.5",
+    "odds": 1.21,
+    "p": 0.785,
+    "why": "tight: El Bayadh games 7/7 <=3 goals, El Bayadh scored 2 in 7 so a 5-goal game needs a rout they have not shown; own est 0.86"
+   }
+  ],
+  "avoid": "El Bayadh ML (1.17, under 1.18 and 0 wins in 7); El Bayadh team Over 1.5/2.5; Over 2.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Algerian_League_2",
+   "https://en.wikipedia.org/wiki/Algerian_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:76741788",
+  "fx": "ES Mostaganem v ASM Oran",
+  "home_form": "ES Mostaganem (relegated from L1) last 7: 0-0 at Tiaret, 1-0 Saida (H), 0-0 at WA Mostaganem, 2-0 Tlemcen (H), 3-2 at Kolea, 0-1 Mascara (H), 2-2 at IRB SMB. Home: W,W,L.",
+  "away_form": "ASM Oran last 7: 0-0 Blida (H), 1-1 at El Bayadh, 0-0 IRB SMB (H), 0-0 at Kouba, 6-1 Taghit (H), 1-0 at Tiaret, 0-1 at Saida. 5th, 11 pts from 7 (wiki fragment).",
+  "trends": {
+   "game_totals": "Mostaganem games 0,1,0,2,5,1,4 (5/7 <=2). ASM Oran 0,2,0,0,7,1,1 (6/7 <=2; only outlier v Taghit).",
+   "team_totals": "ASM Oran away scored 1,0,1,0 (never >1).",
+   "first_half": "n/a",
+   "handicap": "Mostaganem lost 1 of 7",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Algerian Ligue 2 Centre-West; local Oran-region rivalry, both sides cagey (4 0-0s among 14 matches).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Under 2.5",
+    "odds": 1.45,
+    "p": 0.647,
+    "why": "value: 11/14 combined recent games <=2 goals, ASM Oran away never >1 scored; own est 0.73"
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.7689,
+    "why": "tight-candidate: Mostaganem lost 1 of 7, ASM Oran away W1 D2 L1; own est 0.78 (house 0.77)"
+   }
+  ],
+  "avoid": "Over 1.5 (1.49); BTTS Yes.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Algerian_League_2",
+   "https://en.wikipedia.org/wiki/Algerian_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:72814304",
+  "fx": "Skenderbeu Korce v KF Egnatia Rrogozhine",
+  "home_form": "Skenderbeu last 7: 2-1 Apolonia (H), 2-0 at Dinamo City, 1-1 Vllaznia (H), 1-1 Laci (H), 2-0 at Partizani, 2-1 Elbasani (H), 0-2 at Teuta. Unbeaten 6; conceded in each of last 4 home games.",
+  "away_form": "Egnatia (reigning champions) last 7: 5-1 Vora (H), 0-2 at U Craiova (UECL), 2-1 at Tirana, 1-0 Teuta (H), 1-2 at Dinamo City, 1-1 at Aarhus (UECL), 3-1 Vllaznia (H). Scored in every domestic game.",
+  "trends": {
+   "game_totals": "Skenderbeu home games 3,2,2,3 goals; Egnatia league games 6,3,1,3,4.",
+   "team_totals": "Egnatia scored in 5/5 league games listed (avg 2.4); Skenderbeu conceded 1 in each of last 4 home.",
+   "first_half": "Skenderbeu 1H 0-0 in 4 of last 7",
+   "handicap": "Skenderbeu wins by 1-2",
+   "corners": "n/a"
+  },
+  "h2h": "Season context only: Egnatia beat Dinamo City for the 2025-26 title.",
+  "absences": "None found. Egnatia have European (UECL) commitments; no midweek game this week (international break).",
+  "context": "Albanian Superiore round 12 (16:00 local). Top-of-table clash in form v champions.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.7985,
+    "why": "tight: Egnatia scored in every domestic game listed, Skenderbeu conceded in each of last 4 home; own est 0.84"
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.8,
+    "p": 0.5062,
+    "why": "value: Skenderbeu last 4 home all BTTS, Egnatia scored in all league games; own est 0.57"
+   }
+  ],
+  "avoid": "Skenderbeu result sides; Egnatia DNB (Skenderbeu unbeaten 6). Under 2.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://kohajone.com/sporti/abissnet-superiore-pese-sfida-ne-tre-dite-ja-kalendari-i-plote-i-javes-se-12-te",
+   "https://www.betexplorer.com/football/albania/abissnet-superiore/"
+  ]
+ },
+ {
+  "eid": "sr:match:75049110",
+  "fx": "ASO Chlef v USM Khenchela",
+  "home_form": "ASO Chlef (15th, 5 pts) last 7: 0-0 at Biskra, 1-2 Setif (H), 1-1 Rouissat (H), 1-1 at Temouchent, 1-1 MC Alger (H), 0-1 at Kabylie, 0-1 MC Oran (H). 0 wins; home 0W 3D 2L.",
+  "away_form": "USM Khenchela (13th, 7 pts) last 7: 1-1 at Saoura, 1-1 Temouchent (H), 0-2 at MC Alger, 0-3 Kabylie (H), 0-1 at MC Oran, 2-0 Constantine (H), 0-1 at Belouizdad. Away scored 1,0,0,0.",
+  "trends": {
+   "game_totals": "Chlef games 0,3,2,2,2,1,1 (6/7 <=2); Khenchela 2,2,2,3,1,2,1 (6/7 <=2).",
+   "team_totals": "Khenchela scored <=1 in 6/7, away 1,0,0,0.",
+   "first_half": "Khenchela 1H goals rare (1 in 7 away halves)",
+   "handicap": "Chlef no wins in 7; mostly draws",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Algerian Ligue 1, round 10 (17:00 local). Two bottom-half sides, very low scoring.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.21,
+    "p": 0.7892,
+    "why": "tight: Khenchela scored 2+ once in 7 (at home), away 1,0,0,0; own est 0.88"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Under 2.5",
+    "odds": 1.46,
+    "p": 0.6518,
+    "why": "value: 12/14 combined games <=2 goals; own est 0.74"
+   }
+  ],
+  "avoid": "Chlef ML (0 wins in 7); Over 1.5; BTTS Yes.",
+  "confidence": 0.3,
+  "sources": [
+   "https://algeriebrevesnews.dz/ligue-1-mobilis-10eme-journee-suite-et-fin-le-mc-oran-pour-un-retour-en-force/",
+   "https://www.fotmob.com/teams/1387869/overview/usm-khenchela",
+   "https://www.365scores.com/fr/football/match/ligue-1-560/es-setif-us-biskra-8222-28701-560"
+  ]
+ },
+ {
+  "eid": "sr:match:75049108",
+  "fx": "ES Setif v US Biskra",
+  "home_form": "ES Setif (11th, 9 pts) last 7: 1-1 Rouissat (H), 2-1 at Chlef, 1-2 Temouchent (H), 1-1 Kabylie (H), 0-0 at MC Oran, 5-1 Constantine (H), 0-1 at Belouizdad. Scored in every home game (1,1,1,5).",
+  "away_form": "US Biskra (16th/bottom, 4 pts) last 7: 0-0 Chlef (H), 1-1 at Temouchent, 0-1 MC Alger (H), 1-4 at Kabylie, 0-1 MC Oran (H), 0-4 at Constantine, 0-0 Saoura (H). Scored 2 in 7.",
+  "trends": {
+   "game_totals": "Setif home 2,3,2,6; Biskra 0,2,1,5,1,4,0 (two 4+ goal defeats away).",
+   "team_totals": "Setif scored at home every game; Biskra conceded in 5/7.",
+   "first_half": "Setif 1H 0-0 in 3 of 4 home",
+   "handicap": "Setif home W1 D2 L1 - weak conversion",
+   "corners": "n/a"
+  },
+  "h2h": "Footystats H2H page exists; no recent result found.",
+  "absences": "none found",
+  "context": "Algerian Ligue 1 round 10. Bottom side Biskra; Setif poor at home (1 win in 4).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.22,
+    "p": 0.7852,
+    "why": "tight: Setif scored in all 4 recent home games, Biskra conceded in 5/7 incl. 4 at Kabylie and Constantine; own est 0.84"
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Home (0)",
+    "odds": 1.22,
+    "p": 0.7849,
+    "why": "tight-candidate: Biskra bottom with 2 goals in 7; but Setif home W1 D2 L1 so draw risk voids; own est 0.80"
+   }
+  ],
+  "avoid": "Under 2.5 (Biskra conceded 4 twice away); Setif -1/-1.5 (home wins rare).",
+  "confidence": 0.25,
+  "sources": [
+   "https://algeriebrevesnews.dz/ligue-1-mobilis-10eme-journee-suite-et-fin-le-mc-oran-pour-un-retour-en-force/",
+   "https://www.fotmob.com/teams/1387869/overview/usm-khenchela",
+   "https://www.365scores.com/fr/football/match/ligue-1-560/es-setif-us-biskra-8222-28701-560",
+   "https://footystats.org/algeria/us-biskra-vs-es-setif-h2h-stats"
+  ]
+ },
+ {
+  "eid": "sr:match:72814300",
+  "fx": "Af Elbasani v FC Dinamo City",
+  "home_form": "AF Elbasani last 7: 0-1 at Vllaznia, 2-1 Laci (H), 2-1 Partizani (H), 0-0 at Teuta, 1-2 at Skenderbeu, 1-1 Vora (H), 2-2 at Tirana. Home W2 D1.",
+  "away_form": "Dinamo City last 7: 0-2 Skenderbeu (H), 2-2 at Vora, 1-1 at Tirana, 2-1 Egnatia (H), 0-2 Teuta (H), 0-1 at Vllaznia, 3-1 Laci (H). Away: D,D,L; 1 win in 6.",
+  "trends": {
+   "game_totals": "Elbasani 1,3,3,0,3,2,4 (6/7 <=3); Dinamo 2,4,2,3,2,1,4 (5/7 <=3). Albanian top flight is low scoring.",
+   "team_totals": "Elbasani home scored 2,2,1; Dinamo away scored 2,1,0.",
+   "first_half": "mixed",
+   "handicap": "tight games, 1-goal margins",
+   "corners": "n/a"
+  },
+  "h2h": "none found this season",
+  "absences": "none found",
+  "context": "Albanian Superiore round 12 (18:30 local); one outlet frames it as a rivalry derby. No result side per derby rule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Under 3.5",
+    "odds": 1.27,
+    "p": 0.7548,
+    "why": "value-ish (below the 0.82 Under gate, use only as filler): 11/14 combined games <=3 goals; own est 0.80"
+   }
+  ],
+  "avoid": "Any result side (derby, Dinamo away D,D,L but house makes Dinamo slight favourite); Over 2.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://kohajone.com/sporti/abissnet-superiore-pese-sfida-ne-tre-dite-ja-kalendari-i-plote-i-javes-se-12-te",
+   "https://www.betexplorer.com/football/albania/abissnet-superiore/"
+  ]
+ },
+ {
+  "eid": "sr:match:75049118",
+  "fx": "MC Oran v JS Saoura",
+  "home_form": "MC Oran (6th, 15 pts) last 7: 0-2 at MC Alger, 0-0 Akbou (H), 0-0 at El Biar, 1-0 Khenchela (H), 1-0 at Biskra, 0-0 Setif (H), 1-0 at Chlef. Home: 0-0,1-0,0-0 - conceded 0 at home.",
+  "away_form": "JS Saoura (14th, 7 pts) last 7: 1-1 Khenchela (H), 1-0 Constantine (H), 0-1 at Belouizdad, 0-0 Aknoun (H), 0-1 at Rouissat, 0-1 at USM Alger, 0-0 Akbou (H). Away last 4: 0 goals scored in every one.",
+  "trends": {
+   "game_totals": "MC Oran 2,0,0,1,1,0,1 (7/7 <=2); Saoura 2,1,1,0,1,1,0 (7/7 <=2).",
+   "team_totals": "Saoura away 0 goals in 4 straight; MC Oran home conceded 0 in 3.",
+   "first_half": "MC Oran 1H 0-0 in 6/7",
+   "handicap": "MC Oran draws 3 of last 7; DNB void risk",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Algerian Ligue 1 round 10 (20:00 local). Algerie Breves previews an MC Oran \"retour en force\". Extreme low-scoring profile both sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Under 0.5",
+    "odds": 1.69,
+    "p": 0.5517,
+    "why": "value: Saoura blanked in all 4 recent away games, MC Oran home clean sheets 3/3; own est 0.64"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Under 2.5",
+    "odds": 1.47,
+    "p": 0.6469,
+    "why": "value: 14/14 combined recent games <=2 goals; own est 0.75 (house 0.65)"
+   }
+  ],
+  "avoid": "MC Oran ML/-1 (they win 1-0 or draw); Over 1.5; BTTS Yes.",
+  "confidence": 0.3,
+  "sources": [
+   "https://algeriebrevesnews.dz/ligue-1-mobilis-10eme-journee-suite-et-fin-le-mc-oran-pour-un-retour-en-force/",
+   "https://www.fotmob.com/teams/1387869/overview/usm-khenchela",
+   "https://www.365scores.com/fr/football/match/ligue-1-560/es-setif-us-biskra-8222-28701-560"
+  ]
+ },
+ {
+  "eid": "sr:match:73113330",
+  "fx": "AGE CHALKIDAS v GS Lavriou",
+  "home_form": "AGE Chalkidas: L 75-87 at Papagou, W 78-61 Anagennisi (H), L at Komotini, L 86-94 Proteas (H), W at Esperos, L 83-89 Paneruthraikos (H), W at Psychikou. Home 1-2.",
+  "away_form": "Lavriou: L 78-93 Panionios (H), L 70-71 Papagou (H), W at Anagennisi, W 95-57 Komotini, W 81-59 at Proteas, W 95-77 Esperos, W at Paneruthraikos. Away 3-0 recent.",
+  "trends": {
+   "game_totals": "Chalkidas games 162,139,154,180,163,172,164; Lavriou 171,141,163,152,140,172,171; centre 161.5",
+   "team_totals": "n/a",
+   "first_half": "no period data",
+   "handicap": "Lavriou away wins by 5,22,1",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Greek Elite League (2nd tier). Lavriou lost last 2 at home. Thin coverage, no fixture-specific news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lavriou ML at 1.60 after two straight losses.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.basket.gr/",
+   "https://www.eurobasket.com/Greece/basketball-League-A2.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73529520",
+  "fx": "Fenerbahce Gelisim v Ilab Basketbol",
+  "home_form": "Fenerbahce Gelisim (Fener youth/dev side in TBL): L 100-105 at Konya, W 82-78 Ankaragucu (H), L 70-77 Ormanspor (H), W at Buyukcekmece, L 77-85 Mersin (H), L 51-74 at Yalova, L 68-81 Cedi Osman (H). Home 1-3.",
+  "away_form": "Ilab: L 76-85 Gaziantep (H), W 85-75 Goztepe (H), L 80-104 at Konya, W 95-92 Ankaragucu (H), W 93-91 Ormanspor (H), L 71-83 at Buyukcekmece, L 78-81 Mersin (H). Away 0-2.",
+  "trends": {
+   "game_totals": "centre 167.5; Gelisim 205,160,147,172,162,125,149",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "near pick-em",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Turkish TBL (2nd tier). Gelisim is a development/reserve-type side - excluded class.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: reserve/development side, coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tbf.org.tr/ligler/tbl-2026-2027",
+   "https://www.eurobasket.com/Turkey/basketball-TBL.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73833432",
+  "fx": "CS Dinamo Bucuresti v Steaua CSM Bucuresti",
+  "home_form": "Dinamo Bucuresti: L 73-104 at Szolnok (FIBA Europe Cup, Wed 18 Nov), L 68-76 Valcea (H), L 84-92 Girona (H, FEC), W 97-86 at Voluntari, L 93-95 at Zielona Gora, W 73-67 Timisoara (H), L 76-78 Levicki (H). Lost 5 of 7, second game in 3 days.",
+  "away_form": "Steaua: W 82-81 Arges (H), L 93-104 at Galati, W 94-89 Brasov (H), L 89-92 at Targu Mures, L 68-76 Ploiesti (H), W 98-88 Rapid (H), L 90-97 at Valcea. Losses by 1-11 only.",
+  "trends": {
+   "game_totals": "centre 164.5; Dinamo domestic 144,183,140; Steaua 163,197,183,181,144,186,187",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Dinamo -13.5/-14.5 centre line. Steaua has not lost any of last 7 by more than 11; Dinamo lost at home to Valcea by 8 on 15 Nov",
+   "corners": "n/a"
+  },
+  "h2h": "none found this season",
+  "absences": "none found",
+  "context": "Bucharest derby, Liga Nationala round 7. baschetromania table: Dinamo and Steaua level-ish mid-table (8 v 9 pts). Dinamo played Szolnok in FIBA Europe Cup on Wednesday (lost by 31).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-16.5",
+    "desc": "Away (+16.5)",
+    "odds": 1.55,
+    "p": 0.598,
+    "why": "value: Steaua lost by max 11 in last 7, Dinamo 2-5 and on a Wed-Fri Europe Cup turnaround, mid-table sides close in standings, derby compresses margins; own est 0.72"
+   }
+  ],
+  "avoid": "Dinamo big handicaps; HT/FT Home/Home (1.23).",
+  "confidence": 0.3,
+  "sources": [
+   "https://baschetromania.ro/calendar/program-si-rezultate-liga-nationala-de-baschet-masculin/",
+   "https://baschetromania.ro/clasament/clasament-liga-nationala-de-baschet-masculin/"
+  ]
+ },
+ {
+  "eid": "sr:match:73833424",
+  "fx": "CS Municipal Galati v Csm Targu Mures",
+  "home_form": "Municipal Galati: L 81-86 at Ploiesti, W 104-93 Steaua (H), L 67-97 at Valcea, L 94-101 at Voluntari, L 102-105 Timisoara (H), L at Craiova, L 74-101 Oradea (H). 1-6.",
+  "away_form": "CSM Targu Mures: W 97-90 Brasov, W 105-80 Rapid, W 110-81 at Ploiesti, W 92-89 Steaua, W 91-83 at Valcea, L 85-91 Voluntari, W at Timisoara. 6-1.",
+  "trends": {
+   "game_totals": "centre 179.5; Galati games 167,197,164,195,207,207,175",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Targu -11.5/-13.5; away wins by 29,8,6",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Liga Nationala round 7. Strong away favourite in form v struggling Galati.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Galati +15.5 (Galati lost by 27-30 twice at home/away); Targu -13.5 coin-flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://baschetromania.ro/calendar/program-si-rezultate-liga-nationala-de-baschet-masculin/",
+   "https://baschetromania.ro/clasament/clasament-liga-nationala-de-baschet-masculin/"
+  ]
+ },
+ {
+  "eid": "sr:match:73833428",
+  "fx": "BCMU Arges Pitesti v CSM Ploiesti",
+  "home_form": "Arges Pitesti: L 81-82 at Steaua, L 74-75 at Valcea, L 64-77 Voluntari (H), L 97-100 at Timisoara, W 95-84 Craiova (H), L at Oradea, W 90-86 Sibiu (H). Lost 4 straight, three by 1-3 pts.",
+  "away_form": "CSM Ploiesti: W 86-81 Galati (H), L 80-97 at Brasov, L 81-110 Targu (H), L 72-88 Rapid (H), W 76-68 at Steaua, L 67-93 Valcea (H), L 84-103 at Voluntari.",
+  "trends": {
+   "game_totals": "centre 168.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Arges -16.5/-17.5 centre; Arges recent games decided by 1-3 pts so a 17-pt margin is not their profile; Ploiesti also lose big",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Liga Nationala round 7.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Arges -15.5 or more (4-game losing streak, close games); Ploiesti catch.",
+  "confidence": 0.15,
+  "sources": [
+   "https://baschetromania.ro/calendar/program-si-rezultate-liga-nationala-de-baschet-masculin/",
+   "https://baschetromania.ro/clasament/clasament-liga-nationala-de-baschet-masculin/"
+  ]
+ },
+ {
+  "eid": "sr:match:73833430",
+  "fx": "CS Valcea 1924 Rm Valcea v CSU Sibiu",
+  "home_form": "CS Valcea (1st after 6 per table): W 76-68 at Dinamo, W 75-74 Arges (H), W 97-67 Galati (H), W 81-80 at Brasov, L 83-91 Targu (H), W 93-67 at Ploiesti, W 97-90 Steaua (H). 6-1, home 3-1.",
+  "away_form": "CSU Sibiu (4th): L 77-81 Voluntari (H), W 94-70 at Timisoara, L 105-107 Craiova (H), L 73-92 at Oradea, W 127-123 at Rapid, W 100-92 Dinamo (H), L 86-90 at Arges. Away 2-2.",
+  "trends": {
+   "game_totals": "centre 174.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Valcea -5.5 centre",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Liga Nationala round 7; top of table v 4th.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.7195,
+    "why": "value: Valcea 6-1 and top of the table, home 3-1, Sibiu lost at Oradea and Arges; own est 0.75"
+   }
+  ],
+  "avoid": "Big Valcea handicaps (home wins by 1 and 7 too).",
+  "confidence": 0.25,
+  "sources": [
+   "https://baschetromania.ro/calendar/program-si-rezultate-liga-nationala-de-baschet-masculin/",
+   "https://baschetromania.ro/clasament/clasament-liga-nationala-de-baschet-masculin/"
+  ]
+ },
+ {
+  "eid": "sr:match:74131786",
+  "fx": "KK FMP Belgrade v Igokea Aleksandrovac",
+  "home_form": "FMP Belgrade: L 77-80 at Cibona, L 73-76 Buducnost (H), L 73-88 Uralmash (H), L 87-96 at Cedevita, L 87-95 at Borac, L 66-78 Siroki (H), W 79-68 at Krka. 1-6.",
+  "away_form": "Igokea: L 73-77 at CSKA (Tue 17 Nov), W 104-100 Buducnost, W 89-81 at Slavia, L 67-73 at Krka, L 70-91 at Zenit, W 89-69 at Cibona, W 77-72 Slavia. Midweek European game Tuesday.",
+  "trends": {
+   "game_totals": "FMP 157,149,161,183,182,144,147; Igokea 150,204,170,140,161,158,149. Under 179.5 cleared in 12/14.",
+   "team_totals": "FMP scored <=80 in 5/7",
+   "first_half": "n/a",
+   "handicap": "FMP oddly favourite (ML 1.54) on a 1-6 run",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "ABA League round 9 (18:00 CET, Belgrade).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=179.5",
+    "desc": "Under 179.5",
+    "odds": 1.23,
+    "p": 0.7813,
+    "why": "tight: 12/14 combined recent games <=179, FMP scored <=80 in 5/7; own est 0.84"
+   }
+  ],
+  "avoid": "FMP ML (1.54) on a 1-6 run; Over 153.5 (FMP 3/7 under 153).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.aba-liga.com/calendar/",
+   "https://www.klix.ba/sport/kosarka/bosna-veceras-na-grbavici-docekuje-iliriju-i-ide-po-sestu-pobjedu-u-aba-ligi/261120016",
+   "https://www.oslobodjenje.ba/sport/kosarka/aba-liga/bosna-veceras-na-grbavici-docekuje-ljubljansku-iliriju-u-aba-ligi/"
+  ]
+ },
+ {
+  "eid": "sr:match:74131776",
+  "fx": "KK Krka Novo Mesto v KK Borac Cacak",
+  "home_form": "Krka: W 89-66 at Triglav (Tue), L 79-100 Siroki (H, ABA), W 96-65 Nova Gorica (H), W 73-67 Igokea (H, ABA), W 93-79 at Polzela, L 64-66 at Bratislava, W 98-78 Sencur (H). ABA home 1-1.",
+  "away_form": "Borac Cacak: L 66-98 Bratislava (H), L 71-85 Cedevita (H), L 72-105 at Buducnost, W 95-87 FMP (H), W 95-94 at Cibona, W 94-83 at Igokea, L 81-87 Siroki (H). Lost 3 straight by 14-33.",
+  "trends": {
+   "game_totals": "Krka 155,179,161,140,172,130,176; Borac 164,156,177,182,189,177,168; centre ~165",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Borac lost last 3 by 32,14,33",
+   "corners": "n/a"
+  },
+  "h2h": "Krka beat Igokea 73-67 (7 Nov) - common opponent; Borac won at Igokea.",
+  "absences": "none found",
+  "context": "ABA League round 9 (18:30 CET, Leon Stukelj Hall, Novo Mesto).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.6741,
+    "why": "value: Borac lost last 3 by 14-33, Krka home ABA win v Igokea; own est 0.71"
+   }
+  ],
+  "avoid": "Over 152.5 (Krka 2/7 games under 152).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.aba-liga.com/calendar/",
+   "https://www.klix.ba/sport/kosarka/bosna-veceras-na-grbavici-docekuje-iliriju-i-ide-po-sestu-pobjedu-u-aba-ligi/261120016",
+   "https://www.oslobodjenje.ba/sport/kosarka/aba-liga/bosna-veceras-na-grbavici-docekuje-ljubljansku-iliriju-u-aba-ligi/",
+   "https://www.biletwise.com/en/aba-league"
+  ]
+ },
+ {
+  "eid": "sr:match:74131972",
+  "fx": "KK Bosna Royal Sarajevo v KD Ilirija",
+  "home_form": "Bosna Royal (5-2 ABA): W 91-84 Panevezys (Wed 18 Nov, Eurocup), W 85-77 Mega (H), L 82-86 at Manresa, W 93-91 at Cluj, L 69-78 Balkan (H), W 88-81 at Vienna, W 85-80 at Roma.",
+  "away_form": "KD Ilirija (2-5 ABA): L 71-77 at Cluj, W 99-87 at Sencur, L 60-74 Vienna (H), L 66-77 at Rogaska, W 84-82 at Studentski Centar, W 79-73 Helios (H).",
+  "trends": {
+   "game_totals": "Bosna 175,162,168,175,147,169,165; Ilirija 148,186,134,143,166,152; centre 167.5",
+   "team_totals": "Ilirija scored <=77 in 4/6",
+   "first_half": "n/a",
+   "handicap": "Bosna wins by 2-8 mostly",
+   "corners": "n/a"
+  },
+  "h2h": "ABA: 1-1 all-time; Bosna won 93-78 in Sarajevo (7 Feb 2026).",
+  "absences": "No injury news. Coach Talic: third game in five days (fatigue).",
+  "context": "ABA round 9, 20:00 CET. Venue moved from Zetra to Grbavica (Goran Cengic hall), same city, announced by club/ABA - not a home/away conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7853,
+    "why": "tight: Bosna 5-2 v Ilirija 2-5, home, beat them by 15 last Feb; fatigue (3 games in 5 days) trims it; own est 0.79"
+   }
+  ],
+  "avoid": "Bosna -8.5+ (wins mostly by 2-8, tired legs); Over 154.5 (Ilirija games 134-152 in 4/6).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.aba-liga.com/calendar/",
+   "https://www.klix.ba/sport/kosarka/bosna-veceras-na-grbavici-docekuje-iliriju-i-ide-po-sestu-pobjedu-u-aba-ligi/261120016",
+   "https://www.oslobodjenje.ba/sport/kosarka/aba-liga/bosna-veceras-na-grbavici-docekuje-ljubljansku-iliriju-u-aba-ligi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73263190",
+  "fx": "Anadolu Efes SK v ASVEL Lyon-Villeurbanne",
+  "home_form": "Anadolu Efes: L 75-80 at Dubai (Tue 17 Nov), L 75-77 at Fenerbahce, W 103-91 Virtus (H), L 87-93 Tofas (H), L 90-95 Paris (H), W at Aliaga, W 83-68 Panathinaikos (H). Lost 4 of last 5.",
+  "away_form": "ASVEL: L 81-115 at Fenerbahce (Tue), L 93-109 at Le Mans, L 91-95 Besiktas (H), W 106-97 Pau, L 95-99 Munich (H), L at Saint-Quentin, W 94-79 Baskonia. Conceding 95+ routinely.",
+  "trends": {
+   "game_totals": "ASVEL games 196,202,186,203,194,193,173; Efes 155,152,194,180,185,164,151; centre ~176",
+   "team_totals": "ASVEL allowed 95+ in 5/7",
+   "first_half": "n/a",
+   "handicap": "Efes wins by 12,15 at home; but form poor",
+   "corners": "n/a"
+  },
+  "h2h": "none found this season",
+  "absences": "Efes OUT: Bruno Fernando, Mike James, Isaia Cordinier (club). ASVEL OUT: Joel Bolomboy (facial), Yves Pons; Mills and Crowder missed last roster.",
+  "context": "EuroLeague Round 13, 18:30 CET Istanbul, second game of a double week for both.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=163.5",
+    "desc": "Over 163.5",
+    "odds": 1.22,
+    "p": 0.7977,
+    "why": "tight: ASVEL games 173-203 in 7/7 (defence leaks 95+), double-week tired defences; Efes missing scorers trims it; own est 0.82"
+   }
+  ],
+  "avoid": "Efes ML 1.30 / -handicaps: Efes lost 4 of 5 and miss James, Fernando, Cordinier.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2038150/euroleague-updates-latest-injury-reports-before-final-round-13-games/",
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-13-fantasy-el2627/",
+   "https://basketballsphere.com/en/euroleague-round-13-preview/"
+  ]
+ },
+ {
+  "eid": "sr:match:73263192",
+  "fx": "BC Olympiakos Piraeus v Real Madrid",
+  "home_form": "Olympiacos: W 97-95 at Maccabi (Tue), L 78-100 at Aris, W 101-72 Dubai (H), W at Maroussi, L 57-62 Crvena zvezda (H), W 91-62 Peristeri, W 84-78 Milan (H).",
+  "away_form": "Real Madrid: L 79-83 at Besiktas (Wed 18 Nov), W 98-84 at Baskonia, W 105-84 Zvezda (H), W 90-71 Murcia, L 112-115 Panathinaikos (H), W 90-79 Burgos, W 95-76 Fenerbahce.",
+  "trends": {
+   "game_totals": "Olympiacos home EL 173,119,162; Madrid 162,182,189,161,227; centre ~174",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "pick-em-ish, Oly -2",
+   "corners": "n/a"
+  },
+  "h2h": "Classic rivalry; no current-season meeting yet.",
+  "absences": "Olympiacos: Milutinov GTD, Dorsey out, Montero out (knee, 6 months). Real: Campazzo (hamstring), Deck, Garuba out; Jantunen listed by one source; official report not submitted.",
+  "context": "EuroLeague Round 13 big-club clash. Real played Wednesday in Istanbul (2-day turnaround).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Any result side or catch (big-club clash rule); totals - Olympiacos home can produce 119-type defensive games and lineups uncertain.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2038150/euroleague-updates-latest-injury-reports-before-final-round-13-games/",
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-13-fantasy-el2627/",
+   "https://basketballsphere.com/en/euroleague-round-13-preview/"
+  ]
+ },
+ {
+  "eid": "sr:match:73263194",
+  "fx": "FC Barcelona v KK Crvena zvezda Belgrade",
+  "home_form": "Barcelona: L 86-89 Paris (H, Tue), W 108-83 Obradoiro, W 76-74 at Panathinaikos, W 99-91 Breogan, W 93-90 at Hapoel TA, W 92-89 at Malaga, W 98-94 Valencia.",
+  "away_form": "Crvena zvezda: L 77-91 at Milan (Tue), W 94-83 Cedevita, L 84-105 at Real, W 91-80 Bratislava, W 62-57 at Olympiacos, W 100-82 Siroki, W 103-73 Munich.",
+  "trends": {
+   "game_totals": "Barca 175,191,150,190,183,181,192 (6/7 >=175); Zvezda 168,177,189,171,119,182,176 (6/7 >=168). Over 159.5 cleared in 12/14.",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Barca -4.5 centre",
+   "corners": "n/a"
+  },
+  "h2h": "none found this season",
+  "absences": "Barcelona OUT: Punter, Evbuomwan (oblique, to early Dec), Gibson, Makoundou; Hayes questionable. Zvezda OUT: Moneke; Butler and Chris Jones GTD; Kramer plays with mask.",
+  "context": "EuroLeague Round 13, 20:30 CET. Big-club clash: no result side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=159.5",
+    "desc": "Over 159.5",
+    "odds": 1.23,
+    "p": 0.7902,
+    "why": "tight: 12/14 combined recent games >=168 (only outliers 150 and 119), Barca run fast; depleted rosters trim it; own est 0.82"
+   }
+  ],
+  "avoid": "Result sides and catches (big-club clash, many absences).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2038150/euroleague-updates-latest-injury-reports-before-final-round-13-games/",
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-13-fantasy-el2627/",
+   "https://basketballsphere.com/en/euroleague-round-13-preview/"
+  ]
+ },
+ {
+  "eid": "sr:match:73263196",
+  "fx": "KK Partizan Belgrade v Besiktas JK",
+  "home_form": "Partizan: L 64-76 Valencia (H, Tue), L 74-81 at Zadar, W 80-66 Baskonia (H), W 92-80 SC (H), W 88-67 Maccabi (H), W 97-77 Cluj (H), L 80-87 at Zalgiris. Home EL wins by 14,21.",
+  "away_form": "Besiktas: W 83-79 Real Madrid (H, Wed 18 Nov), W 76-71 Bursaspor, W 95-91 at ASVEL, L 83-84 at Karsiyaka, L 67-83 Zalgiris (H), W 93-76, W 103-101 at Virtus. 5-2 last 7; road wins at ASVEL, Virtus.",
+  "trends": {
+   "game_totals": "Partizan home 140,146,172,155,174; Besiktas 162,147,186,167,150,169,204; centre ~166",
+   "team_totals": "Partizan scored 64 and 74 in last 2",
+   "first_half": "n/a",
+   "handicap": "Partizan -5 centre; Besiktas lost by >13 once in 7 (Zalgiris -16)",
+   "corners": "n/a"
+  },
+  "h2h": "none found this season",
+  "absences": "Partizan: Ethan Thompson OUT (hip), Derek Willis OUT (ankle), Kevarrius Hayes GTD; Chris Silva debuted. Besiktas: Jaylen Nowell OUT, Berk Ugurlu absent, Mady Sissoko listed out by one report.",
+  "context": "EuroLeague Round 13, 20:45 CET Belgrade. Besiktas on a Wed-Fri double week after beating Real.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-13.5",
+    "desc": "Away (+13.5)",
+    "odds": 1.21,
+    "p": 0.8076,
+    "why": "tight: Besiktas a credible receiver (beat Real, won at ASVEL and Virtus), lost by 14+ once in 7; Partizan short-handed (Thompson, Willis) and scored 64/74 in last 2; own est 0.83"
+   }
+  ],
+  "avoid": "Over 153.5 (Partizan home games 140,146); Partizan ML (two straight losses, guards out).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2038150/euroleague-updates-latest-injury-reports-before-final-round-13-games/",
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-13-fantasy-el2627/",
+   "https://basketballsphere.com/en/euroleague-round-13-preview/"
+  ]
+ },
+ {
+  "eid": "sr:match:72676982",
+  "fx": "Gornik Walbrzych v GTK Gliwice",
+  "home_form": "Gornik Walbrzych: L 87-91 at Astoria, L 85-93 at Dabrowa, L 86-95 Szczecin (H), W 95-88 at Gdynia, W 74-71 Dziki (H), W 81-65 at Ostrow, L 87-88 at Anwil. Lost 3 straight.",
+  "away_form": "GTK Gliwice: L 83-87 at Lublin, W 84-77 Sopot, L 84-96 Wroclaw, W 90-69 Torun, L 76-84 Zielona Gora, W 75-74 at Astoria, L 78-89 Dabrowa.",
+  "trends": {
+   "game_totals": "Gornik 178,178,181,183,145,146,175; Gliwice 170,161,180,159,160,149,167. Over 153.5 cleared 11/14.",
+   "team_totals": "Gornik scored 85+ in 4 of last 5",
+   "first_half": "n/a",
+   "handicap": "Gornik -7 centre",
+   "corners": "n/a"
+  },
+  "h2h": "none this season",
+  "absences": "none found",
+  "context": "Orlen Basket Liga round 8, 18:00 CET (Polsat Sport Extra 4).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=153.5",
+    "desc": "Over 153.5",
+    "odds": 1.21,
+    "p": 0.7941,
+    "why": "tight: 11/14 combined recent games >=159, Gornik scoring 85+ in 4 of last 5; own est 0.83"
+   }
+  ],
+  "avoid": "Gornik ML (1.30, three straight losses).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.mecze24.pl/transmisje/gornik-walbrzych-gtk-gliwice-transmisja-meczu-na-zywo-20-11-2026",
+   "https://pilkarskiswiat.com/koszykowka-orlen-basket-liga-enea-astoria-bydgoszcz-energa-czarni-slupsk-gdzie-obejrzec-transmisja-na-zywo-20-11-2026/",
+   "https://www.gtk.gliwice.pl/terminarz-orlen-basket-liga.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72676980",
+  "fx": "Astoria Bydgoszcz v Energa Czarni Slupsk",
+  "home_form": "Astoria Bydgoszcz (promoted, 1. Liga champions 2025-26): W 91-87 Gornik (H), W 70-62 Lublin (H), W 90-87 at Sopot, L 77-100 at Wroclaw, L 96-110 at Torun, L 74-75 Gliwice (H), W 105-95 Zielona Gora (H). Home 4-1.",
+  "away_form": "Czarni Slupsk: L 90-100 Dabrowa (H), L 95-105 at Szczecin, L 72-84 Gdynia (H), L 81-91 at Dziki, L 84-87 Ostrow (H), L 78-79 at Anwil, L 76-79 Warszawa (H). 0-7.",
+  "trends": {
+   "game_totals": "Astoria 178,132,177,177,206,149,200; Czarni 190,200,156,172,171,157,155; centre ~173",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Czarni lost by 1-12, never routed",
+   "corners": "n/a"
+  },
+  "h2h": "none this season",
+  "absences": "none found",
+  "context": "Orlen Basket Liga round 8, 20:15 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.7305,
+    "why": "value: Czarni 0-7, Astoria 4-1 at home (only loss by 1); own est 0.77"
+   }
+  ],
+  "avoid": "Astoria big handicap (Czarni lose close: by 1-12).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.mecze24.pl/transmisje/gornik-walbrzych-gtk-gliwice-transmisja-meczu-na-zywo-20-11-2026",
+   "https://pilkarskiswiat.com/koszykowka-orlen-basket-liga-enea-astoria-bydgoszcz-energa-czarni-slupsk-gdzie-obejrzec-transmisja-na-zywo-20-11-2026/",
+   "https://www.gtk.gliwice.pl/terminarz-orlen-basket-liga.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73659638",
+  "fx": "Ksk Notec Inowroclaw v Spojnia Stargard",
+  "home_form": "Notec Inowroclaw: W 84-78 at Krosno, W 80-76 Opole (H), L 75-83 at Poznan, W 79-74 Bytom (H), L 77-96 at Tychy, W 85-80 Starogard (H), L 87-90 at Polonia W. Home 3-0, all by 4-5.",
+  "away_form": "Spojnia Stargard: W 85-82 Kolobrzeg (H), L 82-94 at Lancut, W 105-96 Lodz (H), L 92-99 at Pelplin, W 77-72 at Krosno, W 105-79 Opole (H), W 99-94 at Poznan. Away 2-2.",
+  "trends": {
+   "game_totals": "centre 167.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Spojnia -5.5 centre; Notec home games all within 5",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Polish 1. Liga (2nd tier).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=7.5",
+    "desc": "Home (+7.5)",
+    "odds": 1.64,
+    "p": 0.5718,
+    "why": "value: Notec 3-0 at home in their last 3 home games, all by 4-5 pts; Spojnia lost 2 of 4 away; own est 0.65"
+   }
+  ],
+  "avoid": "Spojnia ML 1.36 (Notec home 3-0).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.plk.pl/",
+   "https://www.eurobasket.com/Poland/basketball-1-Liga.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:72658516",
+  "fx": "Sbb Baskets Wolmirstedt v Rheinstars Cologne",
+  "home_form": "SBB Baskets Wolmirstedt: L 59-66 Paderborn (H, Tue), W 85-61 Bremerhaven (H), W 70-68 at Falcons, W 103-91 Essen (H), W 76-73 at Bochum, W 69-66 Koblenz (H), W 85-74 at Heidelberg. 6-1.",
+  "away_form": "Rheinstars Koln: W 87-63 Koblenz (H), L 69-96 at Crailsheim, L 76-97 Artland (H), W 84-81 at Orange Academy, L 87-112 Falcons (H), W 105-98 Bayreuth, W 78-76 at Giessen.",
+  "trends": {
+   "game_totals": "Wolmirstedt 125,146,138,194,149,135,159 (low, defensive); Koln 150,165,173,165,199,203,154",
+   "team_totals": "Wolmirstedt allow ~70",
+   "first_half": "n/a",
+   "handicap": "Koln lost by 21-27 three times",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found (no ProA preview located)",
+  "context": "German ProA (2nd tier), 19:30 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7779,
+    "why": "tight: Wolmirstedt 6-1, home 3-1, defence allows ~70; Koln heavy losses v top sides; own est 0.79"
+   }
+  ],
+  "avoid": "Over totals (Wolmirstedt games 125-159 mostly).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.2basketballbundesliga.de/",
+   "https://en.wikipedia.org/wiki/ProA"
+  ]
+ },
+ {
+  "eid": "sr:match:73451880",
+  "fx": "Wurzburg Baskets v Rasta Vechta",
+  "home_form": "Wurzburg: L 73-83 Iraklis (H, Tue 17 Nov, Europe Cup), L 84-91 at Hamburg, W 78-76 Larnaca (H), L 73-94 Bayern (H), W 113-79 Tartu, W 96-72 at Braunschweig, W 91-62 Dziki. Lost 3 of last 4; weak 3pt shooting (club preview).",
+  "away_form": "Rasta Vechta: L 75-86 at Rostock, W 90-85 at Hapoel Holon, W 99-90 Chemnitz (H), W 100-74 at Hagen, L 81-88 Holon, L 88-97 Trier, W 75-72 at Ludwigsburg. No game since Sunday (rested).",
+  "trends": {
+   "game_totals": "Wurzburg 156,175,154,167,192,168,153; Vechta 161,175,189,174,169,185,147; centre ~168",
+   "team_totals": "Wurzburg scored <=84 in 4 of last 4",
+   "first_half": "n/a",
+   "handicap": "Wurzburg -6 centre; their losses by 7-21",
+   "corners": "n/a"
+  },
+  "h2h": "Vechta won in Wurzburg in spring 2026 (club report \"Enttauschende Vorstellung im Heimspiel gegen Vechta\").",
+  "absences": "No current injury news found.",
+  "context": "easyCredit BBL, 20:00 CET (tectake Arena). Wurzburg on a Tue-Fri turnaround after Europe Cup home loss; Vechta rested.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-12.5",
+    "desc": "Away (+12.5)",
+    "odds": 1.24,
+    "p": 0.7903,
+    "why": "tight: Vechta a credible receiver (won at Holon, Hagen, Ludwigsburg; won in Wurzburg last season), Wurzburg cold (3 L in 4, <=84 pts) and on 2 days rest; own est 0.83"
+   }
+  ],
+  "avoid": "Wurzburg ML/-handicap; Over 155.5 (Wurzburg 3/7 games <=156).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.rasta-vechta.de/news/erneut-aussenseiter-was-geht-fur-rasta-in-wurzburg",
+   "https://www.wuerzburg-baskets.de/"
+  ]
+ },
+ {
+  "eid": "sr:match:72660470",
+  "fx": "Culture City Weimar v Ahorn Camp Baskets",
+  "home_form": "Culture City Weimar: L 54-82 at Dresden, W 78-76 Rhondorf (H), W 74-69 at Erfurt, L 88-94 at Oberhaching, L 62-75 Leitershofen (H), L 77-94 at Bayern II, L 66-68 Leverkusen (H).",
+  "away_form": "Ahorn Camp Baskets: L 77-83 Ludwigsburg, L 71-82 at Skyliners Jr, W 81-79 Oberhaching, L 73-83 at Bayern II, L 69-82 Langen, L 73-76 at Leverkusen, L 61-68 Dresden.",
+  "trends": {
+   "game_totals": "centre 152.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "pick-em",
+   "corners": "n/a"
+  },
+  "h2h": "none",
+  "absences": "none",
+  "context": "German ProB (3rd tier), two poor teams; opponents include reserve sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: coin-flip, thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.2basketballbundesliga.de/",
+   "https://en.wikipedia.org/wiki/ProA"
+  ]
+ },
+ {
+  "eid": "sr:match:72467042",
+  "fx": "UMF Sindri v UMFN Njardvik",
+  "home_form": "UMF Sindri (0-6, 11th): L 76-84 at Grindavik, L 73-86 Valur (H), L 102-107 at KR, L 71-78 Tindastoll (H), L 90-106 at Keflavik, L 91-97 IR (H). Home losses by 7,13,6.",
+  "away_form": "UMFN Njardvik (1-5, 9th): W 107-97 Armann (H), L 79-103 Stjarnan (H), L 103-104 at Grindavik, L 85-93 Valur (H), L 73-84 at KR, L 77-85 Tindastoll (H).",
+  "trends": {
+   "game_totals": "centre 177.5; Sindri 160,159,209,149,196,188; Njardvik 204,182,207,178,157,162",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Njardvik -5 centre",
+   "corners": "n/a"
+  },
+  "h2h": "none this season",
+  "absences": "none found",
+  "context": "Bonus deild round 7, 19:00 (karfan.is: relegation battle, Sindri 0 pts, Njardvik 2 pts).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Njardvik ML 1.45: they are 1-5 themselves; Sindri lose home games by only 6-13.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.karfan.is/tveir-leikir-i-bonusdeild-karla-i-dag-toppslagur-i-keflavik-og-fallbaratta-a-hofn/",
+   "https://www.visir.is/p/bonuskarla/287"
+  ]
+ },
+ {
+  "eid": "sr:match:72467050",
+  "fx": "Keflavik v UMF Tindastoll",
+  "home_form": "Keflavik: L 94-113 at Stjarnan, W 100-90 at IR, W 112-99 Hottur (H), L 110-130 at Alftanes, W 106-90 Sindri (H), W 108-90 at Armann. Home 2-0.",
+  "away_form": "Tindastoll: W 73-71 at Dubrava (Tue 17 Nov, Europe), W 79-69 Lausanne, W 94-87 IR, W 80-73 at Hottur, L 105-108 Alftanes, W 78-71 at Sindri, W 109-86 Armann. Won 6 of 7.",
+  "trends": {
+   "game_totals": "centre 192.5; Keflavik games 207,190,211,240,196,198 (all >=190); Tindastoll domestic 181,153,213,149,195",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Tindastoll -4 centre",
+   "corners": "n/a"
+  },
+  "h2h": "Last season: Keflavik 90-89 Tindastoll; Tindastoll 101-81 Keflavik (visir).",
+  "absences": "Keflavik may debut newly-registered Ingvi Thor Gudmundsson (karfan.is).",
+  "context": "Bonus deild round 7, 19:30, top-of-table game; Tindastoll travelling back from Croatia (Tue) - fatigue.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tindastoll ML 1.46 (Europe travel, Keflavik 2-0 home); Unders (Keflavik games all 190+).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.karfan.is/tveir-leikir-i-bonusdeild-karla-i-dag-toppslagur-i-keflavik-og-fallbaratta-a-hofn/",
+   "https://www.visir.is/p/bonuskarla/287"
+  ]
+ },
+ {
+  "eid": "sr:match:72319230",
+  "fx": "Heroes Den Bosch v Brussels Basketball",
+  "home_form": "Heroes Den Bosch: L 100-102 at Aalst, W 86-81 Leuven (H), W 95-86 Mechelen (H), W 80-71 at Liege, L 86-125 Antwerp (H), W 79-50 Rotterdam (H), L 59-70 at Landstede.",
+  "away_form": "Brussels: L 65-78 at Antwerp, W 91-77 Aalst (H), L 66-81 Charleroi (H), W 89-65 at Landstede, W 81-64 Oostende, W 77-61 at Zorg en Zekerheid, W 94-70 Liege.",
+  "trends": {
+   "game_totals": "centre 158.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Brussels -4",
+   "corners": "n/a"
+  },
+  "h2h": "none",
+  "absences": "none",
+  "context": "BNXT League. Den Bosch home 4-1 recent; no edge on Brussels ML 1.49.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Brussels ML (Den Bosch home 4-1).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.proballers.com/basketball/league/182/adriatic-liga-aba/schedule",
+   "https://www.betexplorer.com/basketball/"
+  ]
+ },
+ {
+  "eid": "sr:match:72319232",
+  "fx": "Cb Liege v Kortrijk Spurs ",
+  "home_form": "CB Liege: L 74-77 at Charleroi, W 88-84 Landstede (H), L 85-91 at Rotterdam, L 71-80 Den Bosch (H), L 78-96 at Mechelen, L 73-101 Limburg (H), L 70-94 at Brussels. 1-6.",
+  "away_form": "Kortrijk Spurs: W 83-63 Mons (H), W 93-83 at Mechelen, L 71-73 at Landstede, L 83-88 Limburg (H), L 69-72 at Leuven, L 106-113 at Antwerp, L 76-85 Groningen (H).",
+  "trends": {
+   "game_totals": "centre 168.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Kortrijk -4",
+   "corners": "n/a"
+  },
+  "h2h": "none",
+  "absences": "none",
+  "context": "BNXT League; both weak, Kortrijk won last 2.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kortrijk ML 1.52 (away record 1-3).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.proballers.com/basketball/league/182/adriatic-liga-aba/schedule",
+   "https://www.betexplorer.com/basketball/"
+  ]
+ },
+ {
+  "eid": "sr:match:72319234",
+  "fx": "Limburg United v Okapi Aalst",
+  "home_form": "Limburg United: L 84-88 at Landstede, W 96-73 at Groningen, L 80-88 at Antwerp, W 88-83 at Kortrijk, W 87-80 Rotterdam (H), W 101-73 at Liege, L 100-109 Mechelen (H).",
+  "away_form": "Okapi Aalst: W 102-100 Den Bosch (H), L 77-91 at Brussels, W 83-69 Mons, W 114-90 Groningen, L 77-92 at Zorg, W 94-79 at Mechelen, W 95-87 Oostende.",
+  "trends": {
+   "game_totals": "centre 182.5",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Limburg -5",
+   "corners": "n/a"
+  },
+  "h2h": "none",
+  "absences": "none",
+  "context": "BNXT League; Aalst in form (5-2).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Limburg ML 1.44 (Aalst 5-2).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.proballers.com/basketball/league/182/adriatic-liga-aba/schedule",
+   "https://www.betexplorer.com/basketball/"
+  ]
+ },
+ {
+  "eid": "sr:match:72016402",
+  "fx": "Jamtland Basket v Norrkoping Dolphins",
+  "home_form": "Jamtland: W 87-70 Lulea (H), W 105-79 Hogsbo (H), W 97-94 at Koping, W 92-74 Nassjo (H), W 86-83 at Norrkoping, W 111-80 Sloga (H), W 89-75 at Hogsbo. 7-0, home wins by 17-31.",
+  "away_form": "Norrkoping Dolphins: W 113-56 Sloga, L 90-93 at Nassjo, W 100-82 Uppsala, W 84-69 at Hogsbo, L 80-92 Lulea, L 83-86 Jamtland (H), W 88-85 at Boras.",
+  "trends": {
+   "game_totals": "centre 177.5; Jamtland home 157,184,166,191",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Jamtland -4.5 centre",
+   "corners": "n/a"
+  },
+  "h2h": "Jamtland won 86-83 at Norrkoping on 26 Oct 2026.",
+  "absences": "No absence news found.",
+  "context": "Swedish Basketligan, 19:04 local, Ostersunds Sporthall (\"ny toppmatch\" - OP).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.6,
+    "p": 0.589,
+    "why": "value: Jamtland 7-0 with every home win by 17+, already won at Norrkoping this season; own est 0.65"
+   }
+  ],
+  "avoid": "Norrkoping catches.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.op.se/sport/ny-toppmatch-for-jamtland-se-basketfredag-med-op",
+   "https://visitostersund.se/evenemang/jamtland-basket-vs-norrkoping-dolphins/"
+  ]
+ },
+ {
+  "eid": "sr:match:76748554",
+  "fx": "BC Goverla v BC Cherkaski Mavpy",
+  "home_form": "BC Goverla: L 77-80 at Rivne, W 66-64 at Volyn, W 75-70 Kyiv (H), L 69-73 Kharkiv (H), L 79-81 Khmelnytskyi (H), L 70-84 Dnipro (H), L 70-95 Zaporizhya (H). Home 1-4.",
+  "away_form": "Cherkaski Mavpy: L 75-106 Mykolaiv (H), L 65-74 at Zaporizhya, L 60-98 at Dnipro, L 66-75 Volyn (H), L 64-76 Rivne (H), L 57-105 at Kharkiv, L 61-93 at Kyiv. 0-7, away losses by 9,38,48,32.",
+  "trends": {
+   "game_totals": "centre 152.5",
+   "team_totals": "Cherkaski scored <=66 in 6/7",
+   "first_half": "n/a",
+   "handicap": "Goverla -9.5 centre; Goverla home results close/poor",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Ukrainian Superleague.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7862,
+    "why": "tight: Cherkaski 0-7 scoring <=66 in 6/7, lost every away game by 9+; Goverla weak but at home; own est 0.84"
+   }
+  ],
+  "avoid": "Goverla -9.5+ (Goverla home wins are narrow, 1-4 home record).",
+  "confidence": 0.25,
+  "sources": [
+   "https://fbu.ua/",
+   "https://www.eurobasket.com/Ukraine/basketball-Superleague.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:76748552",
+  "fx": "BC Khmelnytskyi v Niko-Basket-TSOP Mykolaiv",
+  "home_form": "BC Khmelnytskyi: L 78-94 at Rivne, L 72-73 at Volyn, L 64-75 Kharkiv (H), L 51-72 Kyiv (H), W 81-79 at Goverla, W 75-72 Zaporizhya (H), L 67-83 Dnipro (H). Lost 4 straight.",
+  "away_form": "Niko-Basket Mykolaiv: W 106-75 at Cherkaski, L 80-82 at Dnipro, W 89-73 at Zaporizhya, L 84-93 Rivne, W 92-81 Volyn, L 70-100 at Kyiv, L 65-82 at Kharkiv.",
+  "trends": {
+   "game_totals": "centre 155.5",
+   "team_totals": "Khmelnytskyi scored <=78 in 6/7",
+   "first_half": "n/a",
+   "handicap": "Mykolaiv -4.5 centre",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Ukrainian Superleague.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.45,
+    "p": 0.6469,
+    "why": "value: Khmelnytskyi lost 4 straight scoring 51-78; Mykolaiv won at Zaporizhya by 16 and lost only by 2 at Dnipro; own est 0.68"
+   }
+  ],
+  "avoid": "Khmelnytskyi catches.",
+  "confidence": 0.2,
+  "sources": [
+   "https://fbu.ua/",
+   "https://www.eurobasket.com/Ukraine/basketball-Superleague.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:75452316",
+  "fx": "Hebraica Macabi v Club Atletico Atenas",
+  "home_form": "Hebraica Macabi: L 76-86 at Defensor, W 82-77 at Aguada, W 96-76 Union Atletica (H), W 83-78 at Nacional, L 78-84 Malvin (H), W 80-77 Urunday (H), L 86-92 at Bigua.",
+  "away_form": "Atenas: L 83-105 Penarol (H), L 71-99 at Goes, L 73-109 at Larranaga, L 57-84 Aguada (H), W 82-73 at Union Atletica, L 77-90 Nacional (H), L 66-77 at Malvin. Losses by 22-36 recently.",
+  "trends": {
+   "game_totals": "centre 166.5",
+   "team_totals": "Atenas scored <=83 in 7/7",
+   "first_half": "n/a",
+   "handicap": "Hebraica -15.5 centre; Hebraica home wins by 3,20",
+   "corners": "n/a"
+  },
+  "h2h": "none found",
+  "absences": "none found",
+  "context": "Uruguay LUB, 19:15 local. Atenas weak; Hebraica only mid-table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Atenas +15.5 or wider (weak team, L26 15+ catch rule); Hebraica -15.5 (their home margins 3-20).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fubb.org.uy/",
+   "https://www.eurobasket.com/Uruguay/basketball-LUB.aspx"
+  ]
+ }
+]

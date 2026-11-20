@@ -1,0 +1,1152 @@
+[
+ {
+  "eid": "sr:match:76676798",
+  "fx": "Club S Hammam-Lif v ES Metlaoui",
+  "home_form": "Hammam-Lif (14th, 5pts) league: D1-1 at Marsa, D1-1 v Omrane, L0-1 at Sahel, W1-0 at Ben Guerdane, L0-1 v Esperance, W1-0 at Sakiet, L0-1 v Bizertin. Home: 0W 2D 2L, scored 2 in 4 home games.",
+  "away_form": "Metlaoui (12th, 6pts): W2-1 v Zarzis, L0-3 at Marsa, L1-2 v Stade Tunisien, L0-1 at Omrane, W1-0 v H.Sousse, L1-2 at Sahel, L0-1 v Africain. Away: scored 1 in 3 away games, 0 first-half away goals.",
+  "trends": {
+   "game totals": "Hammam-Lif all 7 league games <=2 goals; Metlaoui 4/7 <=2. Under 2.5 house 0.73.",
+   "team totals": "Hammam-Lif scored in 4/7; Metlaoui scored in 3/7, 1 goal in 3 away games.",
+   "first half": "Metlaoui scored a 1H goal in 1/7 league games (0/3 away). Hammam-Lif 1H goals in 2/7.",
+   "handicap": "Every Hammam-Lif game decided by <=1 goal.",
+   "corners": "n/a"
+  },
+  "h2h": "Not found for 2026-27.",
+  "absences": "None found.",
+  "context": "Matchday 8, 14:30 local, live on Watania 1, ref Khaled Gouider. Both lower-half sides; Tunisian L1 very low scoring this season.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "70",
+    "spec": "total=0.5",
+    "desc": "Under 0.5",
+    "mdesc": "1st half - ES Metlaoui Over/Under",
+    "odds": 1.29,
+    "p": 0.722,
+    "why": "Metlaoui 1H goals in 1/7 league games, 0/3 away; Hammam-Lif concede few early. Own est 0.78 v house 0.72 (tight-candidate, but sub-0.78 house p)."
+   }
+  ],
+  "avoid": "Hammam-Lif 1X DC 1.24 (0 home wins); any Over.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.lapresse.tn/2026/11/20/ligue-1-trois-rencontres-au-programme-aujourdhui-voici-les-chaines-de-diffusion",
+   "https://www.webdo.tn/fr/actualite/sport/ligue-1-le-derby-ca-est-sous-les-projecteurs-dune-8eme-journee-a-trois-temps/407458/",
+   "https://sportnewsafrica.com/en/fixtures/tunisian-ligue-1/",
+   "https://www.livesoccertv.com/competitions/tunisia/ligue-professionnelle-1/"
+  ]
+ },
+ {
+  "eid": "sr:match:76676802",
+  "fx": "ES Hammam Sousse v A Sakiet Edayer",
+  "home_form": "ES Hammam-Sousse (16th, 1pt): scored 2 goals in 7 league games. L1-3 at Bizertin, L0-2 v Ben Guerdane, L0-2 at Zarzis, L1-3 v Stade Tunisien, L0-1 at Metlaoui, L0-1 at Africain, D0-0 v Monastir.",
+  "away_form": "Progres Sakiet Eddaier (6th, 12pts, only winning record of the six Friday sides): D0-0 v Africain, L0-1 at Monastir, W1-0 v Sfaxien, D1-1 at Beja, W1-0 v Hammam-Lif, D0-0 at Marsa, W2-0 v Omrane. Away: L D D.",
+  "trends": {
+   "game totals": "Sakiet all 7 league games <=2 goals; Sousse 5/7 <=2.",
+   "team totals": "Sousse failed to score in 5/7 (house Sousse Over 0.5 0.615 looks rich).",
+   "first half": "Sousse scored 1H in 2/7.",
+   "handicap": "Sakiet games all decided by <=2.",
+   "corners": "n/a"
+  },
+  "h2h": "Last listed meeting May 2026: Sakiet 3-2 Sousse.",
+  "absences": "None found.",
+  "context": "Bottom side v 6th; Sousse winless (1pt).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "mdesc": "Double Chance",
+    "odds": 1.36,
+    "p": 0.676,
+    "why": "Sousse 0 wins in 7, 2 goals scored all season; Sakiet only side with winning record. Own est 0.75 v house 0.68 (value)."
+   },
+   {
+    "mid": "69",
+    "spec": "total=0.5",
+    "desc": "Under 0.5",
+    "mdesc": "1st half - ES Hammam Sousse Over/Under",
+    "odds": 1.4,
+    "p": 0.662,
+    "why": "Sousse 1H goals in 2/7 league games. Own est 0.74 v 0.66."
+   }
+  ],
+  "avoid": "Sousse Over 0.5; any Over 2.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.lapresse.tn/2026/11/20/ligue-1-trois-rencontres-au-programme-aujourdhui-voici-les-chaines-de-diffusion",
+   "https://www.webdo.tn/fr/actualite/sport/ligue-1-le-derby-ca-est-sous-les-projecteurs-dune-8eme-journee-a-trois-temps/407458/",
+   "https://sportnewsafrica.com/en/fixtures/tunisian-ligue-1/"
+  ]
+ },
+ {
+  "eid": "sr:match:76676800",
+  "fx": "Olympique de Beja v Avenir S Marsa",
+  "home_form": "Olympique Beja (15th, 3pts): D0-0 at Omrane, L1-2 v Sahel, L1-3 at Esperance, D1-1 v Sakiet, D1-1 at Bizertin, L1-2 v Ben Guerdane, W1-0 at Zarzis. Home 0W in 3.",
+  "away_form": "AS Marsa (11th, 6pts): D1-1 v Hammam-Lif, W3-0 v Metlaoui, D0-0 at Omrane, L1-2 at Esperance, D0-0 v Sakiet, L0-1 at Bizertin.",
+  "trends": {
+   "game totals": "Beja 4/7 <=2, Marsa 4/6 <=2.",
+   "team totals": "Marsa scored in 3/6.",
+   "first half": "Marsa 1H goal in 3/6 - no edge.",
+   "handicap": "Tight games.",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Two strugglers; no clear mechanism.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (Beja 0 home wins, Marsa poor away).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lapresse.tn/2026/11/20/ligue-1-trois-rencontres-au-programme-aujourdhui-voici-les-chaines-de-diffusion",
+   "https://www.webdo.tn/fr/actualite/sport/ligue-1-le-derby-ca-est-sous-les-projecteurs-dune-8eme-journee-a-trois-temps/407458/",
+   "https://sportnewsafrica.com/en/fixtures/tunisian-ligue-1/"
+  ]
+ },
+ {
+  "eid": "sr:match:68380656",
+  "fx": "Navbahor v FK Neftchi Fargona",
+  "home_form": "Navbahor (3rd, 55pts): L0-1 at Qizilqum, W1-0 v Andijon, L1-2 at Xorazm, W3-1 v Gazalkent, D1-1 v Pakhtakor, D2-2 at AGMK, W3-2 v Dinamo. Home W3 D1 of last 4.",
+  "away_form": "Neftchi Fargona (1st): W4-0 v Bunyodkor 14 Nov, W2-1 v AGMK, ACL Elite: D2-2 at Tractor, L1-2 v Al-Ittihad, L1-3 at Al Nassr; league L2-4 v Lokomotiv, W4-2 at Kokand, W3-1 at Pakhtakor. Scored in 8/8, every game >=3 goals.",
+  "trends": {
+   "game totals": "Neftchi last 8 all >=3 goals; Navbahor 6/8 >=2.",
+   "team totals": "Neftchi scored in 8/8; Navbahor scored in 7/8.",
+   "first half": "n/a",
+   "handicap": "Close top-3 clash.",
+   "corners": "n/a"
+  },
+  "h2h": "Footystats: last 10 meetings 2W each side (sources disagree).",
+  "absences": "None found.",
+  "context": "Round 28 title race (Neftchi 1st, Navbahor 3rd). Kickoff conflict: Sofascore 13:30 UTC, Neftchi club site 18:30 local (=13:30 UTC, consistent). Neftchi also in ACL Elite (fatigue/rotation risk).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "mdesc": "Over/Under",
+    "odds": 1.29,
+    "p": 0.735,
+    "why": "Neftchi games all >=3 goals in last 8 (league+ACL), Navbahor 6/8 >=2; both attack. Own est 0.78 v 0.735."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "mdesc": "GG/NG",
+    "odds": 1.7,
+    "p": 0.535,
+    "why": "Neftchi scored in 8/8, Navbahor 7/8; Neftchi conceded 2+ in 5 of last 8. Own est 0.58 v 0.535 (value, small)."
+   }
+  ],
+  "avoid": "Under 3.5; result sides.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/football/match/navbahor-namangan-neftchi-fergana/gAosnfq",
+   "https://fcneftchi.uz/en",
+   "https://footystats.org/uzbekistan/neftchi-fargona-vs-fk-navbahor-namangan-h2h-stats"
+  ]
+ },
+ {
+  "eid": "sr:match:75174744",
+  "fx": "Shabab Al Ahli Dubai v Ajman Club",
+  "home_form": "Shabab Al Ahli: D1-1 v Kalba 15 Nov, W2-0 at Sharjah, W2-0 at Al Hilal (ACLE), W2-0 v Esteghlal (ACLE), W3-2 v Al Ain, W2-0 v Al Ain, L1-2 at Al-Ittihad, W2-1 v Dubai Utd. Home: W4 D1 of last 5.",
+  "away_form": "Ajman: L0-1 at Al Dhafra, D1-1 v Baniyas, L0-1 at Al Jazira, L1-3 v Sharjah, W1-0 v Baniyas, W3-2 at Al Ain, W3-2 v Sharjah, L2-3 v Kalba. Away: L, L, W.",
+  "trends": {
+   "game totals": "Shabab games 2-5 goals; Ajman away games low (1,1,5).",
+   "team totals": "Shabab scored 2+ in 6/8; Ajman scored 0 in 2 of last 3 away.",
+   "first half": "Shabab 1H goal in 5/8.",
+   "handicap": "Shabab wins mostly by 2 (2-0 x4).",
+   "corners": "n/a"
+  },
+  "h2h": "Scores24: Shabab won 10 of last 11 v Ajman; last meeting Jan 2026 Shabab 1-0.",
+  "absences": "Coach Andre Jardine: squad back at full strength after the break.",
+  "context": "Matchweek 9, Rashid Stadium; Jardine says they need the three points; Shabab in ACL Elite (next ACLE round late Nov - mild rotation risk, none reported).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "mdesc": "Draw No Bet",
+    "odds": 1.18,
+    "p": 0.814,
+    "why": "tight: Shabab full-strength (Jardine), W4 D1 last 5 at home, 10/11 H2H wins; DNB voids the draw. Own est 0.85 v 0.814."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Home (-0.5)",
+    "mdesc": "Asian Handicap -0.5",
+    "odds": 1.44,
+    "p": 0.659,
+    "why": "value: same mechanism, Shabab won 6 of last 8 incl. 4 by 2+. Own est 0.70 v 0.66."
+   }
+  ],
+  "avoid": "Shabab -1.5 (international-break return; modal win 2-0 is fine but -1.5 is thin); Ajman Over 0.5.",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.shababalahli.ae/andre-jardine-4/",
+   "https://scores24.live/en/soccer/m-20-11-2026-shabab-al-ahli-dubai-ajman-club-prediction",
+   "https://sharjah24.ae/en/Articles/2026/11/06/Ma23"
+  ]
+ },
+ {
+  "eid": "sr:match:73019646",
+  "fx": "Namungo FC v Mbeya City FC",
+  "home_form": "Namungo (7th, 15pts): home W1-0 Polisi, W2-1 Coastal, W1-0 United (3/3 home wins); away L2-3 Simba, L0-1 Dodoma, L0-2 Azam, L2-3 Singida, L1-2 JKT. Unbeaten in 10 of last 11 home league games.",
+  "away_form": "Mbeya City (11th, 13pts): away L0-4 Azam, L1-2 JKT, L0-2 Polisi, D0-0 United, W2-0 Fountain; home W1-0 Singida, L1-3 Kagera.",
+  "trends": {
+   "game totals": "Namungo home games 1-3 goals; Mbeya away games 0-4.",
+   "team totals": "Mbeya scored in 2/5 away.",
+   "first half": "Namungo scored 1H in all 3 home wins.",
+   "handicap": "Namungo home wins all by 1.",
+   "corners": "n/a"
+  },
+  "h2h": "365Scores n/a.",
+  "absences": "None found.",
+  "context": "Round 12, Majaliwa Stadium (Ruangwa).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "mdesc": "Double Chance",
+    "odds": 1.32,
+    "p": 0.705,
+    "why": "Namungo 3/3 home league wins, 10 of 11 home unbeaten; Mbeya 1 away win in 5 (lost at Azam 0-4, Polisi 0-2). Own est 0.76 v 0.705 (value)."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "mdesc": "Mbeya City FC Over/Under",
+    "odds": 1.33,
+    "p": 0.714,
+    "why": "Mbeya scored 0,1,0,0,2 away; Namungo conceded <=1 in all 3 home games. Own est 0.80 v 0.714."
+   }
+  ],
+  "avoid": "Namungo -1 / big handicaps (home wins all by 1).",
+  "confidence": 0.3,
+  "sources": [
+   "https://scores24.live/en/soccer/m-20-11-2026-namungo-mbeya-city-prediction",
+   "https://www.365scores.com/football/team/mbeya-city-20409"
+  ]
+ },
+ {
+  "eid": "sr:match:72410042",
+  "fx": "Shakhtar D v FC Livyi Bereh Kyiv",
+  "home_form": "Shakhtar (1st; 8 clean sheets in 12, 0.42 GA/game): D0-0 v Dynamo, L0-1 v Sporting (UCL), W2-0 v Obolon, W3-0 v Dynamo (cup), D0-0 v Zorya, W2-1 v Kovalivka, W3-1 v AEK.",
+  "away_form": "Livyi Bereh (12th, 1 win in 11): D1-1 at Obolon, L0-3 v Bukovyna, L0-1 v Rivne, D0-0 v Cherkasy, L1-2 at Kharkiv, L1-3 v Zorya, L0-2 at Epitsentr, L0-1 at Polissya. Scored <=1 in all 8, blank in 5/8.",
+  "trends": {
+   "game totals": "Shakhtar home league games low (0-0 x2, 2-0, 2-1).",
+   "team totals": "Livyi Bereh failed to score in 5/8; Shakhtar concede 0.42/g.",
+   "first half": "Shakhtar 1H goal in 3/7.",
+   "handicap": "Shakhtar margins 0-3; two 0-0 home draws -> big handicaps risky.",
+   "corners": "n/a"
+  },
+  "h2h": "Shakhtar beat LB in both 2024-25 meetings.",
+  "absences": "Livyi Bereh first-choice goalkeeper injured (dailysports). Shakhtar predicted XI: Riznyk; Karavaev, Bondar, Matvienko, Pedro Henrique; Ocheretko, Nazaryna, Gomes; Alisson, Ryan Roberto, Traore.",
+  "context": "Post-international break; played at Arena Lviv (Shakhtar usual home). Shakhtar attack blunt (0-0 v Zorya and Dynamo at home).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Home (-0.5)",
+    "mdesc": "Asian Handicap -0.5",
+    "odds": 1.25,
+    "p": 0.768,
+    "why": "tight: LB 1 win in 11, blank in 5/8, GK injured; Shakhtar top with best defence. Own est 0.80 v 0.768."
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Under 0.5",
+    "mdesc": "FC Livyi Bereh Kyiv Over/Under",
+    "odds": 1.78,
+    "p": 0.522,
+    "why": "value: LB scored <=1 in 8/8 and 0 in 5/8; Shakhtar 8 clean sheets in 12 league games. Own est 0.60 v 0.52."
+   }
+  ],
+  "avoid": "Shakhtar -1.5 / Over 2.5 (Shakhtar two 0-0 home draws; low-scoring attack).",
+  "confidence": 0.35,
+  "sources": [
+   "https://dailysports.net/predictions/shakhtar-aim-to-strengthen-their-lead-in-the-upl-prediction-for-shakhtar-vs-livyi-bereh/",
+   "https://www.fotmob.com/teams/9728/overview/shakhtar-donetsk"
+  ]
+ },
+ {
+  "eid": "sr:match:76875246",
+  "fx": "Al Ittihad Ahli of Aleppo v Al-Jaish SC (Syr)",
+  "home_form": "Al Ittihad Aleppo: W3-2 at Al Wahda 6 Nov, D0-0 v Qamishli, AFC Challenge Lg W2-1 Paro, W5-1 Ahal, W2-0 at Al Ansar, L1-3 at Al Horiyah.",
+  "away_form": "Al-Jaish: D0-0 v Al Karamah, D1-1 at Al Futuwa, D1-1 at Al Wahda, W1-0 v Qamishli, W1-0 at Nawair; beat Ittihad 2-0 away in July.",
+  "trends": {
+   "game totals": "Jaish all last 8 <=3 goals, mostly 0-2.",
+   "team totals": "Jaish scored <=1 in 7/8.",
+   "first half": "low.",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Jaish won 2-0 at Ittihad on 3 Jul 2026; long H2H fairly even.",
+  "absences": "None found.",
+  "context": "Round 6. Sources conflict on kickoff (13:00/14:00/16:00 UTC) and venue (Aleppo International v Al Hamadaniah); board 16:00.",
+  "veto": true,
+  "veto_reason": "Kickoff time and venue conflict between sources (13:00/14:00/16:00; Aleppo International v Hamadaniah).",
+  "picks": [],
+  "avoid": "Ittihad 1X2 at 1.31 (Jaish hard to beat, beat them in July).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/football/match/al-ittihad-ahli-of-aleppo-sc-al-jaish-sc/bnqscnq",
+   "https://www.365scores.com/football/league/syrian-premier-league-564"
+  ]
+ },
+ {
+  "eid": "sr:match:72735908",
+  "fx": "Igdir FK v Umraniyespor",
+  "home_form": "Igdir FK (8W 4D 2L in 14): D1-1 at Sariyer, D1-1 v Antalyaspor, W1-0 at Eskisehir, L1-2 at Bandirma, W1-0 v Bolu, D0-0 at Keciorengucu, W2-1 v Batman, D2-2 at Mugla.",
+  "away_form": "Umraniyespor (4W 5D 4L, 17pts): W2-1 v Kayserispor, D1-1 at Bodrum, W2-1 v Kucukcekmece, W4-0 v Sivasspor, L0-2 at Van, D1-1 v Sariyer, L0-1 at Bandirma, L1-2 v Antalyaspor. Away: D, L, L.",
+  "trends": {
+   "game totals": "Igdir 7/8 <=3 goals (only 2-2 at Mugla =4); Umraniye 7/8 <=3.",
+   "team totals": "Igdir scored <=2 in 8/8; Umraniye away scored 1,0,0.",
+   "first half": "Igdir 1H goals in 2/8 (many 0-0 HT).",
+   "handicap": "Igdir wins all by 1.",
+   "corners": "n/a"
+  },
+  "h2h": "Last meeting 13 Feb 2026: 1-1.",
+  "absences": "No injury list found.",
+  "context": "Week 15 opener, 20:00 TRT; played at Ankara Aktepe Stadium (consistent across sources; Igdir 11 pts ahead of Umraniye). Ref Ayberk Demirbas.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "mdesc": "Double Chance",
+    "odds": 1.21,
+    "p": 0.785,
+    "why": "tight: Igdir 2 losses in 14, Umraniye away D-L-L scoring 1 goal. Own est 0.82 v 0.785."
+   },
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Under 3.5",
+    "mdesc": "Over/Under",
+    "odds": 1.34,
+    "p": 0.72,
+    "why": "Both sides 7/8 at <=3 goals; Igdir wins all by one goal. Own est 0.80 v 0.72 (the one Under)."
+   }
+  ],
+  "avoid": "Igdir -1 / Over 2.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sondakika.com/spor/haber-igdir-fk-1-lig-de-15-haftayi-yarin-saat-20-00-de-u-20441462",
+   "https://www.sporkolik.net/igdir-fk-umraniyespor-igdir-fk-11-puan-onde.html",
+   "https://www.gzt.com/spor/igdir-fk-umraniyespor-maci-hangi-kanalda-saat-kacta-igdir-fk-umraniyespor-puan-durumu-4280965"
+  ]
+ },
+ {
+  "eid": "sr:match:73019648",
+  "fx": "Azam FC v Singida Black Stars FC",
+  "home_form": "Azam (3rd, 23pts; coach Florent Ibenge): L1-2 v JKT, W4-0 v Mbeya, W1-0 v Zed (CAF), D1-1 at Zed, W2-0 at Coastal, L0-2 v Simba, W2-0 v Namungo.",
+  "away_form": "Singida Black Stars (9th, 14pts): L0-1 at Mbeya, W1-0 at Pamba, D1-1 v Tusker, W1-0 at Tusker (CAF), L0-1 at Coastal, D1-1 at Dodoma, W2-1 at Mashujaa.",
+  "trends": {
+   "game totals": "Singida last 8 all <=3 goals (mostly 1-2); Azam 7/8 <=3.",
+   "team totals": "Singida scored <=1 in 6/7 away.",
+   "first half": "low.",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "365Scores last 5: Azam 2W, 2D, Singida 1W.",
+  "absences": "None reported.",
+  "context": "Round 12 at Azam Complex, Chamazi; Ibenge stresses importance; Azam must win to keep pace (panafricafootball).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Under 3.5",
+    "mdesc": "Over/Under",
+    "odds": 1.28,
+    "p": 0.747,
+    "why": "tight: Singida 8/8 and Azam 7/8 at <=3 goals; Tanzanian league low-scoring. Own est 0.85 v 0.747."
+   }
+  ],
+  "avoid": "Azam DNB 1.16 (below band); Azam -1 (Singida concede little); Over 2.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.therespondents.co.tz/2026/11/azam-singida-black-stars-eye-crucial.html",
+   "https://panafricafootball.com/article/azam-fc-singida-win",
+   "https://www.365scores.com/football/match/ligi-kuu-bara-7304/azam-fc-singida-black-stars-sc-10537-82536-7304"
+  ]
+ },
+ {
+  "eid": "sr:match:72176648",
+  "fx": "Stade Lausanne Ouchy v SC Kriens",
+  "home_form": "Stade Lausanne-Ouchy (1st, 31pts/13): W5-1 at Nyon, W3-2 v Yverdon, D0-0 v Xamax, W3-0 v Carouge, W3-0 at Rapperswil, D0-0 at Yverdon, W4-0 v Wil, W2-0 at Kriens. Unbeaten in last 8; conceded 3 in 8.",
+  "away_form": "Kriens (4th, 19pts): W1-0 v Rapperswil, D2-2 at Carouge, L2-5 at Yverdon, D1-1 v Wil, W4-1 v Carouge, D2-2 at Aarau, L0-2 v SLO, D1-1 at Rapperswil.",
+  "trends": {
+   "game totals": "SLO games 0-6 goals (two 0-0); Kriens 1-7.",
+   "team totals": "SLO conceded 0 in 6 of last 8; Kriens scored 0 v SLO in Sept.",
+   "first half": "SLO 1H goals in 5/8.",
+   "handicap": "SLO wins by 1-4.",
+   "corners": "n/a"
+  },
+  "h2h": "Sep 2026: Kriens 0-2 SLO.",
+  "absences": "None found.",
+  "context": "Matchday 14, 19:30 local, Pontaise. Leader v 4th.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "mdesc": "Draw No Bet",
+    "odds": 1.18,
+    "p": 0.811,
+    "why": "tight: SLO unbeaten in 8, 6 wins, beat Kriens 2-0 away; DNB voids a draw. Own est 0.85 v 0.811."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "mdesc": "SC Kriens Over/Under",
+    "odds": 1.33,
+    "p": 0.716,
+    "why": "value: SLO conceded <=1 in 7/8 (0 in 6/8). Own est 0.80 v 0.716."
+   }
+  ],
+  "avoid": "SLO -1.5; Over 3.5.",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/stade-lausanne-ouchy-sc-kriens-2483300",
+   "https://www.rts.ch/sport/resultats/#/results/football/challenge-league",
+   "https://www.betexplorer.com/football/switzerland/challenge-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72176646",
+  "fx": "FC Stade Nyonnais v FC Wil 1900",
+  "home_form": "Stade Nyonnais (10th, 8pts): L1-5 v SLO, W4-1 at Rapperswil, L0-4 at Winterthur, L0-3 v Basel (cup), W2-1 v Aarau, L0-5 at Wil, L1-3 v Xamax, L1-4 at Yverdon. Conceded 3+ in 6 of 8.",
+  "away_form": "Wil (8th, 14pts): W3-0 at Aarau, L0-3 v Winterthur, D2-2 v Rapperswil, W1-0 at Bulle (cup), D1-1 at Kriens, W5-0 v Nyon, L0-4 at SLO, D1-1 at Carouge.",
+  "trends": {
+   "game totals": "Nyon games: 6,5,4,3,3,5,4,5 - all >=3. Wil 6/8 >=2.",
+   "team totals": "Nyon concede 3.4/g in sample; Wil scored 3 and 5 in two of last 3 away.",
+   "first half": "n/a",
+   "handicap": "Wil beat Nyon 5-0 in Sept.",
+   "corners": "n/a"
+  },
+  "h2h": "Sep 2026: Wil 5-0 Nyon.",
+  "absences": "None found.",
+  "context": "Matchday 14 at Colovray, Nyon.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "mdesc": "Over/Under",
+    "odds": 1.51,
+    "p": 0.634,
+    "why": "value: every Nyon game in sample had 3+ goals (8/8), Nyon concede 3+ in 6/8. Own est 0.70 v 0.634."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "mdesc": "FC Wil 1900 Over/Under",
+    "odds": 1.57,
+    "p": 0.596,
+    "why": "value: Nyon concede 3+ in 6/8; Wil scored 5 v Nyon in Sept and 3 at Aarau. Own est 0.64 v 0.596."
+   }
+  ],
+  "avoid": "Unders; Nyon +0.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/stade-lausanne-ouchy-sc-kriens-2483300",
+   "https://www.rts.ch/sport/resultats/#/results/football/challenge-league",
+   "https://www.betexplorer.com/football/switzerland/challenge-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72176642",
+  "fx": "FC Rapperswil-Jona v FC Aarau",
+  "home_form": "Rapperswil-Jona: L0-1 at Kriens, L1-4 v Nyon, D2-2 at Wil, L0-2 v St Gallen (cup), L0-3 v SLO, W3-0 at Xamax, W2-0 v Yverdon, L2-3 at Aarau. 1 win in last 6.",
+  "away_form": "Aarau: L0-3 v Wil, W3-1 at Xamax, L1-2 v Carouge, W2-0 v Zurich (cup), L1-2 at Nyon, L1-2 v YB (cup), L1-4 at GC (cup), L1-2 at Winterthur.",
+  "trends": {
+   "game totals": "Aarau 7/8 >=3? (3,4,3,2,3,3,5,3) - 7/8 >=3; Rapperswil 5/8 >=3.",
+   "team totals": "Aarau scored in 7/8; Rapperswil 5/8.",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Sep 2026: Aarau 3-2 Rapperswil.",
+  "absences": "None found.",
+  "context": "Two out-of-form sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "mdesc": "Over/Under",
+    "odds": 1.47,
+    "p": 0.649,
+    "why": "value: Aarau games 3+ goals in 7/8, previous meeting 3-2; Rapperswil leaky at home (1-4, 0-3). Own est 0.67 v 0.649."
+   }
+  ],
+  "avoid": "Result sides (both poor form).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/stade-lausanne-ouchy-sc-kriens-2483300",
+   "https://www.rts.ch/sport/resultats/#/results/football/challenge-league",
+   "https://www.betexplorer.com/football/switzerland/challenge-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72176640",
+  "fx": "Neuchatel Xamax v Etoile Carouge FC",
+  "home_form": "Xamax (5th, 17pts): D0-0 at Yverdon, L1-3 v Aarau, D0-0 at SLO, W3-2 at Langenthal (cup), W3-0 v Winterthur, L0-3 v Rapperswil, W3-1 at Nyon, L0-4 at Winterthur.",
+  "away_form": "Etoile Carouge (7th, 14pts): D2-2 at Winterthur, D2-2 v Kriens, W2-1 at Aarau, L0-3 at SLO, L0-2 v Yverdon, L1-4 at Kriens, L0-1 v Winterthur, D1-1 v Wil.",
+  "trends": {
+   "game totals": "Xamax alternates 0-0s and 3-4 goal games; Carouge 1-5.",
+   "team totals": "mixed",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Maladiere; mid-table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything - no fixture-specific mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/stade-lausanne-ouchy-sc-kriens-2483300",
+   "https://www.rts.ch/sport/resultats/#/results/football/challenge-league",
+   "https://www.betexplorer.com/football/switzerland/challenge-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72176644",
+  "fx": "Yverdon-Sport v FC Winterthur",
+  "home_form": "Yverdon (2nd): D0-0 v Xamax, L2-3 at SLO, W5-2 v Kriens, W2-1 at Old Boys (cup), W2-0 at Carouge, D0-0 v SLO, L0-2 at Rapperswil, W4-1 v Nyon.",
+  "away_form": "Winterthur (3rd): D2-2 v Carouge, W3-0 at Wil, W4-0 v Nyon, L0-1 v Luzern (cup), L0-3 at Xamax, W7-3? v Basel (cup), W2-1 v Aarau, W1-0 at Carouge.",
+  "trends": {
+   "game totals": "Both 0-0 to 7 goals; no pattern.",
+   "team totals": "n/a",
+   "first half": "n/a",
+   "handicap": "Opening-day meeting 2-2.",
+   "corners": "n/a"
+  },
+  "h2h": "Season opener 2026-27: Winterthur 2-2 Yverdon.",
+  "absences": "None found.",
+  "context": "2nd v 3rd promotion clash, 20:15 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (top-of-table clash, first meeting 2-2).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/stade-lausanne-ouchy-sc-kriens-2483300",
+   "https://www.rts.ch/sport/resultats/#/results/football/challenge-league",
+   "https://www.betexplorer.com/football/switzerland/challenge-league/",
+   "https://www.watson.ch/sport/challenge-league/427385961-challenge-league-aarau-misslingt-auftakt-gehoerig-winterthur-mit-remis"
+  ]
+ },
+ {
+  "eid": "sr:match:73068224",
+  "fx": "Real Madrid Castilla v Real Murcia CF",
+  "home_form": "Real Madrid Castilla (6th, 19pts; 7 of last 9 pts; 13 home goals).",
+  "away_form": "Real Murcia (4th, 20pts; best defence in group, 2nd best in Primera Federacion; 2 games without a win, last win 0-1 at Antequera).",
+  "trends": {
+   "game totals": "Murcia defence elite; Castilla home attack strong.",
+   "team totals": "n/a",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "Murcia: 22-man squad (Sergi Guillo).",
+  "context": "Jornada 13, Di Stefano, 21:15 local. Castilla is a RESERVE (filial) side.",
+  "veto": true,
+  "veto_reason": "Reserve side (Real Madrid Castilla) - excluded class.",
+  "picks": [],
+  "avoid": "All - reserve side, excluded by rule.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.realmadrid.com/es-ES/noticias/futbol/cantera-masculina/previas/real-madrid-castilla-real-murcia-a-por-la-victoria-en-el-di-stefano-20-11-2026",
+   "https://minutonoventa.com/castilla-murcia-13-goles-blancos-en-casa-frente-a-una-de-las-defensas-mas-solidas-de-primera-federacion/",
+   "https://www.realmurcia.es/hoy-juega-el-murcia-el-real-murcia-visita-al-real-madrid-castilla-en-la-jornada-13-de-primera-federacion/"
+  ]
+ },
+ {
+  "eid": "sr:match:76883192",
+  "fx": "CA Cerro v Club Nacional de Football",
+  "home_form": "Cerro: L0-1 v Maldonado, L1-2 v Central Espanol, L1-3 at Montevideo City, D1-1 v Cerro Largo, W3-2 at Defensor, L0-2 v Wanderers, D0-0 at Las Piedras. 0 home wins in last 4; scored <=1 in 7/8.",
+  "away_form": "Nacional: D1-1 v Albion, W2-1 at Maldonado, W2-1 at Ferro Carril (cup), W2-1 at Danubio, L0-1 v Liverpool, W3-2 v Maldonado, W3-0 v Rentistas, L0-1 at Central. W5 of last 8, 3 away wins in a row.",
+  "trends": {
+   "game totals": "Cerro games 1-5 goals, mostly 1-2.",
+   "team totals": "Cerro scored 0,1,1,1,3,0,0,1.",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Final Clausura round. Cerro MUST win/avoid defeat (relegation, 85 pts level with/above Wanderers); Nacional need a win for Libertadores/3rd in Anual. Desperation both ways.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "mdesc": "CA Cerro Over/Under",
+    "odds": 1.26,
+    "p": 0.758,
+    "why": "Cerro scored <=1 in 7/8 and 0 home wins in 4; Nacional motivated (Libertadores). Own est 0.80 v 0.758 (tight-candidate)."
+   }
+  ],
+  "avoid": "Nacional -0.5/1X2 (relegation-desperate opponent); Overs.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/18/ultima-jornada-del-clausura-uruguayo-decide-al-campeon-de-la-anual-y-al-ultimo-descendido/",
+   "https://www.elobservador.com.uy/futbol/asi-se-juega-la-ultima-fecha-del-torneo-clausura-penarol-definiendo-la-tabla-anual-y-nacional-buscando-entrar-la-libertadores-horarios-canchas-y-arbitros-n6064422",
+   "https://www.montevideo.com.uy/Deportes/Clausura-las-tres-tablas-como-va-el-descenso-y-que-se-juega-cada-club-en-la-ultima-fecha-uc982507"
+  ]
+ },
+ {
+  "eid": "sr:match:76883188",
+  "fx": "Liverpool Montevideo v Montevideo Wanderers",
+  "home_form": "Liverpool (Clausura champions): L1-2 v Danubio, L1-4 v Las Piedras, W2-0 at Gladiador (cup), W2-0 v Las Piedras, W1-0 at Nacional, W1-0 v Cerro Largo, W1-0 v Penarol, D1-1 at Maldonado. Lost last 2 at home.",
+  "away_form": "Wanderers: W2-1 v Las Piedras 17 Nov, L0-4 at CA Lito (cup), D1-1 at Penarol, L0-1 v Progreso, L0-3 at Racing, L1-3 v Boston River, W6-5 at Cerrito (cup), W2-0 at Cerro.",
+  "trends": {
+   "game totals": "Liverpool games mostly 1-2 goals; Wanderers 1-4.",
+   "team totals": "Liverpool scored <=2 in 8/8.",
+   "first half": "n/a",
+   "handicap": "Liverpool wins all by 1-2.",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Final round. Liverpool already Clausura champion, play Racing in championship semi later (motivation only Anual/cup places). Wanderers fighting the last relegation spot - must not lose.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "mdesc": "Asian Handicap -1.5",
+    "odds": 1.29,
+    "p": 0.739,
+    "why": "Relegation-desperate Wanderers v champions with nothing major left and two straight home defeats; Liverpool wins all by 1-2. Own est 0.77 v 0.739 (Wanderers lost 0-3 at Racing; Liverpool two recent 2-0s)."
+   }
+  ],
+  "avoid": "Liverpool 1X2 1.93 (motivation gap).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/18/ultima-jornada-del-clausura-uruguayo-decide-al-campeon-de-la-anual-y-al-ultimo-descendido/",
+   "https://www.elobservador.com.uy/futbol/asi-se-juega-la-ultima-fecha-del-torneo-clausura-penarol-definiendo-la-tabla-anual-y-nacional-buscando-entrar-la-libertadores-horarios-canchas-y-arbitros-n6064422",
+   "https://www.montevideo.com.uy/Deportes/Clausura-las-tres-tablas-como-va-el-descenso-y-que-se-juega-cada-club-en-la-ultima-fecha-uc982507"
+  ]
+ },
+ {
+  "eid": "sr:match:76883190",
+  "fx": "Racing Club Montevideo v Central Espanol FC",
+  "home_form": "Racing (Apertura champions): D2-2 at Montevideo City, W3-1 v Cerro Largo, D3-3 at Defensor, W3-0 v Wanderers, W2-0 at Las Piedras, L0-1 v Penarol, W2-1 at Progreso, D0-0 at Liverpool.",
+  "away_form": "Central Espanol: W1-0 v Boston River, W2-1 at Cerro, L1-3 v Albion, W1-0 at Danubio, L0-6 v Danubio (cup), L0-1 v Nacional, L0-3 at Maldonado, L1-2 v Liverpool.",
+  "trends": {
+   "game totals": "mixed 0-6.",
+   "team totals": "Central scored <=1 in 7/8.",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Racing already in championship semifinal v Liverpool (rotation possible). Central Espanol in the relegation trio but most comfortable (doubled average).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Racing 1X2 (semifinal ahead, rotation risk).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/18/ultima-jornada-del-clausura-uruguayo-decide-al-campeon-de-la-anual-y-al-ultimo-descendido/",
+   "https://www.elobservador.com.uy/futbol/asi-se-juega-la-ultima-fecha-del-torneo-clausura-penarol-definiendo-la-tabla-anual-y-nacional-buscando-entrar-la-libertadores-horarios-canchas-y-arbitros-n6064422",
+   "https://www.montevideo.com.uy/Deportes/Clausura-las-tres-tablas-como-va-el-descenso-y-que-se-juega-cada-club-en-la-ultima-fecha-uc982507"
+  ]
+ },
+ {
+  "eid": "sr:match:72522170",
+  "fx": "Airbus UK Broughton v Colwyn Bay",
+  "home_form": "Airbus UK: W3-2 at Holywell, W3-2 v Caernarfon, W3-2 at Cambrian, L1-2 v TNS, W4-1 at Llandudno, W3-0 v Trefelin, L1-2 at Pen-y-Bont, W4-1 v Flint. Every game 3+ goals, scored in 8/8.",
+  "away_form": "Colwyn Bay: W2-0 v Aberystwyth, W2-1 at Trefelin, W2-0 v Cambrian, D2-2 v Cardiff Met, cup 5-6 at Buckley, W1-0 at Flint, L0-1 at Briton Ferry, W1-0 v Haverfordwest.",
+  "trends": {
+   "game totals": "Airbus 8/8 games 3+ goals; Colwyn 6/8 >=2.",
+   "team totals": "Airbus scored 8/8; Colwyn scored 7/8.",
+   "first half": "Airbus 1H goals in 6/8.",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Cymru Premier phase one, 19:45.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "mdesc": "Over/Under",
+    "odds": 1.25,
+    "p": 0.774,
+    "why": "tight: all 8 Airbus games had 3+ goals; Airbus scored in 8/8 and Colwyn in 7/8. Own est 0.84 v 0.774."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "mdesc": "GG/NG",
+    "odds": 1.64,
+    "p": 0.564,
+    "why": "value: same scoring profile (Airbus concede in 6/8, score 8/8). Own est 0.62 v 0.564."
+   }
+  ],
+  "avoid": "Under 2.5; Colwyn -0.5 (Airbus strong at home 3/4 wins).",
+  "confidence": 0.3,
+  "sources": [
+   "https://sports.yahoo.com/articles/cymru-premier-friday-round-081255848.html",
+   "https://www.footballwebpages.co.uk/cymru-premier/fixtures-results",
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-premier-phase-one-fixtures-released/"
+  ]
+ },
+ {
+  "eid": "sr:match:72522172",
+  "fx": "Briton Ferry v Holywell Town",
+  "home_form": "Briton Ferry: L0-5 at TNS, L1-3 at Ammanford, W3-0 v Llandudno, L1-3 at Caernarfon, W5-0 v Afan Utd (cup), L1-2 v Connah's Quay, W1-0 v Colwyn, D1-1 at Holywell.",
+  "away_form": "Holywell: L0-4 at Caernarfon, L2-3 v Airbus, L0-5 at Flint, cup 7-8 Llay, L1-6 v TNS, L1-2 at Ammanford, D1-1 v Briton Ferry, L0-1 at Haverfordwest. 6 straight league defeats, conceded 4,3,5,6 in four.",
+  "trends": {
+   "game totals": "Holywell 5/7 league games 3+; BF 5/7.",
+   "team totals": "Holywell conceding 3+ in 4 of last 5.",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Sep 2026: Holywell 1-1 Briton Ferry.",
+  "absences": "None found.",
+  "context": "Phase one; Holywell in freefall.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "mdesc": "Over/Under",
+    "odds": 1.33,
+    "p": 0.721,
+    "why": "Holywell conceded 4,3,5,6 in last four league games; BF games 3+ in 5/7. Own est 0.75 v 0.721."
+   }
+  ],
+  "avoid": "BF -1.5 (BF scored 1 goal in 4 of last 6 league games).",
+  "confidence": 0.25,
+  "sources": [
+   "https://sports.yahoo.com/articles/cymru-premier-friday-round-081255848.html",
+   "https://www.footballwebpages.co.uk/cymru-premier/fixtures-results",
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-premier-phase-one-fixtures-released/"
+  ]
+ },
+ {
+  "eid": "sr:match:72522174",
+  "fx": "Caernarfon Town FC v Connah`s Quay Nomads FC",
+  "home_form": "Caernarfon: W4-0 v Holywell, L0-2 at Pen-y-Bont, L2-3 at Airbus, W3-1 v Briton Ferry, W3-1 at Flint, W2-1 at Haverfordwest, L0-1 v Barry, D2-2 at Cardiff Met.",
+  "away_form": "Connah's Quay: W6-0 v Mochdre (cup), W2-0 v Flint, D0-0 at TNS, W2-0 v Llandudno, W4-0 v Porthmadog (cup), W2-1 at Briton Ferry, W1-0 v Pen-y-Bont, W4-1 at Barry. Unbeaten in 8; 5 league clean sheets in last 6.",
+  "trends": {
+   "game totals": "Connah's league games 1-5, mostly 2.",
+   "team totals": "Connah's concede 0.3/g recent.",
+   "first half": "n/a",
+   "handicap": "Connah's unbeaten in 8.",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Phase one.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "mdesc": "Asian Handicap -1.5",
+    "odds": 1.2,
+    "p": 0.804,
+    "why": "tight: Connah's unbeaten in 8 with 5 league clean sheets in 6 (draw at TNS); Caernarfon lost 3 times by 1-2. Own est 0.86 v 0.804."
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "mdesc": "Double Chance",
+    "odds": 1.53,
+    "p": 0.597,
+    "why": "value: same mechanism; Connah's won away at BF and Barry. Own est 0.66 v 0.597."
+   }
+  ],
+  "avoid": "Caernarfon result; Over 2.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sports.yahoo.com/articles/cymru-premier-friday-round-081255848.html",
+   "https://www.footballwebpages.co.uk/cymru-premier/fixtures-results",
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-premier-phase-one-fixtures-released/"
+  ]
+ },
+ {
+  "eid": "sr:match:72522176",
+  "fx": "Cardiff Metropolitan University FC v Ammanford",
+  "home_form": "Cardiff Met: W6-0 v Dolgellau (cup), W3-0 at Haverfordwest, L0-5 v Pen-y-Bont, D2-2 at Colwyn, W4-0 v Ynyshir (cup), L1-3 v Trefelin, W1-0 at Llandudno, W1-0 v Haverfordwest. League home: L0-5, L1-3, W1-0.",
+  "away_form": "Ammanford: L1-3 at Haverfordwest, W3-1 v Briton Ferry, L0-1 v Haverfordwest, L0-9 at TNS, W4-2 at Cwmaman (cup), W1-0 at Cambrian, W2-1 v Holywell, L0-3 at Flint.",
+  "trends": {
+   "game totals": "mixed",
+   "team totals": "Ammanford scored 0 in 2 of 4 away.",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Students side; poor league home form despite 1.19 price.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cardiff Met 1X2 1.19 (lost 0-5 and 1-3 at home in league).",
+  "confidence": 0.15,
+  "sources": [
+   "https://sports.yahoo.com/articles/cymru-premier-friday-round-081255848.html",
+   "https://www.footballwebpages.co.uk/cymru-premier/fixtures-results",
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-premier-phase-one-fixtures-released/"
+  ]
+ },
+ {
+  "eid": "sr:match:72522178",
+  "fx": "Flint Town United v Cambrian United",
+  "home_form": "Flint: L0-2 at Connah's, W5-0 v Holywell, W2-0 at Trefelin, L1-3 v Caernarfon, L0-1 v Colwyn, W1-0 at Haverfordwest, W3-0 v Ammanford, L1-4 at Airbus.",
+  "away_form": "Cambrian United: W1-0 v Dinas Bangor (cup), D3-3 v Barry, L0-2 at Colwyn, L2-3 v Airbus, W5-0 v Trethomas (cup), L0-1 v Ammanford, L0-9 at TNS, W4-3 v Llandudno.",
+  "trends": {
+   "game totals": "mixed 1-9.",
+   "team totals": "Cambrian away: L0-2, L0-9.",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Phase one.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism found.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sports.yahoo.com/articles/cymru-premier-friday-round-081255848.html",
+   "https://www.footballwebpages.co.uk/cymru-premier/fixtures-results",
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-premier-phase-one-fixtures-released/"
+  ]
+ },
+ {
+  "eid": "sr:match:72522180",
+  "fx": "Llandudno FC v Barry Town United FC",
+  "home_form": "Llandudno: W6-1 v Y Felinheli (cup), L0-1 v TNS, L0-3 at Briton Ferry, L0-2 at Connah's, W1-0 at Llannefydd (cup), L1-4 v Airbus, L0-1 v Cardiff Met, L3-4 at Cambrian. Lost 6 straight league games, 1 goal in last 5 league.",
+  "away_form": "Barry: W4-3 at Baglan (cup), D3-3 at Cambrian, W3-0 v Trefelin, L1-3 v Haverfordwest, W2-0 v Tredegar (cup), L1-3 at Pen-y-Bont, W1-0 at Caernarfon, L1-4 v Connah's.",
+  "trends": {
+   "game totals": "Llandudno league games 1-2 goals recently.",
+   "team totals": "Llandudno scored 0,0,0,1,0 in last five league games.",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Phase one; Llandudno in a six-game league losing run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "mdesc": "Draw No Bet",
+    "odds": 1.87,
+    "p": 0.494,
+    "why": "value: Llandudno lost 6 straight league games scoring 1 in last 5; Barry scored 3 in each of last 2 league games. Own est 0.58 v 0.494."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "mdesc": "Llandudno FC Over/Under",
+    "odds": 1.73,
+    "p": 0.537,
+    "why": "Llandudno scored <=1 in 5/5 recent league games. Own est 0.68 v 0.537."
+   }
+  ],
+  "avoid": "Over 2.5 (Llandudno games low); Llandudno result.",
+  "confidence": 0.25,
+  "sources": [
+   "https://sports.yahoo.com/articles/cymru-premier-friday-round-081255848.html",
+   "https://www.footballwebpages.co.uk/cymru-premier/fixtures-results",
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-premier-phase-one-fixtures-released/"
+  ]
+ },
+ {
+  "eid": "sr:match:72522182",
+  "fx": "Pen-y-Bont FC v Haverfordwest County AFC",
+  "home_form": "Pen-y-Bont: W6-0 v Cardiff Draconians (cup), W2-0 v Caernarfon, W5-0 at Cardiff Met, W3-2 at Afan Lido, W3-1 v Barry, L0-1 at Connah's, W2-1 v Airbus, W5-1 at Ammanford. League home W3/3, conceded 1,1,0.",
+  "away_form": "Haverfordwest: W3-1 v Ammanford, L0-3 v Cardiff Met, W1-0 at Ammanford, W3-1 at Barry, W4-0 v Corinthians (cup), L1-2 v Caernarfon, L0-1 v Flint, L0-1 at Cardiff Met. Scored 0-1 in 5 of 7 league games.",
+  "trends": {
+   "game totals": "PyB home 2-6.",
+   "team totals": "HFW scored <=1 in 5/7 league; PyB conceded <=1 in 7/8.",
+   "first half": "n/a",
+   "handicap": "PyB wins mostly by 2+.",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Phase one.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "mdesc": "Haverfordwest County AFC Over/Under",
+    "odds": 1.18,
+    "p": 0.807,
+    "why": "tight: PyB conceded <=1 in 7/8 (home 1,1,0); HFW scored <=1 in 5/7 league. Own est 0.86 v 0.807."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Home (-0.5)",
+    "mdesc": "Asian Handicap -0.5",
+    "odds": 1.47,
+    "p": 0.645,
+    "why": "value: PyB 3/3 league home wins and 7 wins in 8. Own est 0.70 v 0.645."
+   }
+  ],
+  "avoid": "Haverfordwest +1.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sports.yahoo.com/articles/cymru-premier-friday-round-081255848.html",
+   "https://www.footballwebpages.co.uk/cymru-premier/fixtures-results",
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-premier-phase-one-fixtures-released/"
+  ]
+ },
+ {
+  "eid": "sr:match:72522184",
+  "fx": "The New Saints FC v Trefelin BGC",
+  "home_form": "TNS: W5-0 v Briton Ferry, W1-0 at Llandudno, D0-0 v Connah's, W9-0 v Ammanford, W2-1 at Airbus, W6-1 at Holywell, W9-0 v Cambrian, W3-1 at Trefelin.",
+  "away_form": "Trefelin: W6-0 v Coedpoeth (cup), L1-2 v Colwyn, L0-3 at Barry, L0-2 v Flint, W4-1 v Llantwit (cup), W3-1 at Cardiff Met, L0-3 at Airbus, L1-3 v TNS.",
+  "trends": {
+   "game totals": "TNS games 4+ in 5/8 (home 5,0,9,9).",
+   "team totals": "Trefelin conceded 2-3 in league defeats.",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Sep 2026: Trefelin 1-3 TNS.",
+  "absences": "None found; possible rotation (European commitments).",
+  "context": "Only totals offered.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 3.5 at 1.33 is fair (0-0 v Connah's shows TNS can stall).",
+  "confidence": 0.15,
+  "sources": [
+   "https://sports.yahoo.com/articles/cymru-premier-friday-round-081255848.html",
+   "https://www.footballwebpages.co.uk/cymru-premier/fixtures-results",
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-premier-phase-one-fixtures-released/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546174",
+  "fx": "Pontypridd Town v Carmarthen Town",
+  "home_form": "Pontypridd: L1-3 v Caerau Ely, W4-0 v Llanelli, D4-4 at Newport City, D1-1 at Baglan, W4-1 v Llantwit, L1-3 v Aberystwyth, L1-2 at Caerphilly, W2-1 at Ynyshir. Scored in 8/8.",
+  "away_form": "Carmarthen: L0-4 v Aberystwyth, W2-1 at Pontardawe, L1-3 v Caerphilly, L4-5 v Newport City, D2-2 at Cardiff Draconians, L1-2 v Llantwit, L1-2 at Baglan, W4-1 v Newport Saints. Every game 3+ goals.",
+  "trends": {
+   "game totals": "Carmarthen 8/8 games 3+; Pontypridd 7/8 3+.",
+   "team totals": "Carmarthen scored 7/8, Pontypridd 8/8.",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Cymru South (tier 2) matchday 15, 19:30 (FAW lists Pontypridd United; board/SR \"Pontypridd Town\" - naming only).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "mdesc": "Over/Under",
+    "odds": 1.33,
+    "p": 0.716,
+    "why": "value/tight: Carmarthen 8/8 games had 3+ goals, Pontypridd 7/8. Own est 0.80 v 0.716."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "mdesc": "GG/NG",
+    "odds": 1.43,
+    "p": 0.649,
+    "why": "value: Pontypridd scored 8/8, Carmarthen 7/8, both concede freely. Own est 0.72 v 0.649."
+   }
+  ],
+  "avoid": "Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-south-fixtures-released/",
+   "https://www.forebet.com/en/football/matches/caerphilly-athletic-llanelli-afc-2485367",
+   "https://www.betexplorer.com/football/wales/cymru-south/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546176",
+  "fx": "Swansea University v Trethomas Bluebirds",
+  "home_form": "Pure Swansea (Swansea Univ.): L2-3 v T. Stars, W2-0 v Cardiff Draconians, W4-2 at Ynyshir, D5-5 at Afan Lido, W3-1 v Caerphilly, D0-0 at Aberystwyth, L2-3 v Trethomas, W4-0 v Pontardawe.",
+  "away_form": "Trethomas Bluebirds: D2-2 v Llantwit, W2-1 at Aberystwyth, W3-1 v Cardiff Draconians, L0-5 at Cambrian (cup), L1-3 at T. Stars, L2-3 v Pontardawe, D1-1 at Ynyshir, W3-2 at Pure Swansea. Scored in 7/8.",
+  "trends": {
+   "game totals": "Swansea Univ 7/8 3+; Trethomas 7/8 3+ (except 1-1).",
+   "team totals": "Trethomas scored 7/8; Swansea 7/8.",
+   "first half": "n/a",
+   "handicap": "Sept meeting 2-3.",
+   "corners": "n/a"
+  },
+  "h2h": "Sep 2026: Pure Swansea 2-3 Trethomas.",
+  "absences": "None found.",
+  "context": "Cymru South matchday 15.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "mdesc": "Over/Under",
+    "odds": 1.3,
+    "p": 0.737,
+    "why": "value/tight: both sides 7/8 games with 3+ goals; reverse fixture 2-3. Own est 0.80 v 0.737."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "mdesc": "GG/NG",
+    "odds": 1.36,
+    "p": 0.685,
+    "why": "value: both scored in 7/8; reverse fixture 2-3. Own est 0.74 v 0.685."
+   }
+  ],
+  "avoid": "Unders; Swansea -1.",
+  "confidence": 0.3,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-south-fixtures-released/",
+   "https://www.forebet.com/en/football/matches/caerphilly-athletic-llanelli-afc-2485367",
+   "https://www.betexplorer.com/football/wales/cymru-south/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546170",
+  "fx": "Caerau Ely FC v Newport City FC",
+  "home_form": "Caerau Ely: W1-0 v Brickfield (cup), W3-1 at Pontypridd, W1-0 at Caerphilly, L0-2 v Llantwit, W6-0 v Llanelli, L0-1 at Aberystwyth, W2-0 v Afan Lido, L1-3 at Cardiff Draconians.",
+  "away_form": "Newport City: W1-0 at Llangennech (cup), D2-2 v T. Stars, L2-3 at Llantwit, D4-4 v Pontypridd, W5-4 at Carmarthen, L2-3 at Caerphilly, D1-1 at Cardiff Draconians, D0-0 at Afan Lido.",
+  "trends": {
+   "game totals": "Caerau games mostly 1-2 goals; Newport high 4-9.",
+   "team totals": "mixed",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Cymru South.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 (Caerau low-scoring); no mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-south-fixtures-released/",
+   "https://www.forebet.com/en/football/matches/caerphilly-athletic-llanelli-afc-2485367",
+   "https://www.betexplorer.com/football/wales/cymru-south/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546172",
+  "fx": "Caerphilly Athletic FC v Llanelli Town",
+  "home_form": "Caerphilly Athletic: W3-1 v Newtown (cup), W3-2 at Afan Lido, L0-1 v Caerau, W3-1 at Carmarthen, W1-0 v Chepstow (cup?), W3-2 v Newport City, L1-3 at Pure Swansea, L1-2 v Pontypridd.",
+  "away_form": "Llanelli Town: D3-3 v Pontardawe, L0-4 at Pontypridd, L0-3 v Afan Lido, L0-6 at Caerau, L2-6 at Ynyshir, L1-2 v Baglan, L0-2 at Llantwit. Lost every away game, conceded 2-6.",
+  "trends": {
+   "game totals": "Llanelli away games 2-8 goals.",
+   "team totals": "Llanelli conceded 4,6,6,2 in last four away games; Caerphilly scored 3 in four of last six.",
+   "first half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "None found.",
+  "context": "Cymru South matchday 15.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "mdesc": "Caerphilly Athletic FC Over/Under",
+    "odds": 1.24,
+    "p": 0.766,
+    "why": "tight: Llanelli conceded 2+ in every away game (4,6,6,2) and 3 at home twice; Caerphilly scored 3 in 4 of last 6. Own est 0.82 v 0.766."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Home (-1.0)",
+    "mdesc": "Asian Handicap -1",
+    "odds": 1.39,
+    "p": 0.684,
+    "why": "value: Llanelli lost every away game, by 4,6,4,2. Own est 0.72 v 0.684 (whole-goal: push on 1-goal win)."
+   }
+  ],
+  "avoid": "Llanelli Over 0.5; Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/2026-27-novira-cymru-south-fixtures-released/",
+   "https://www.forebet.com/en/football/matches/caerphilly-athletic-llanelli-afc-2485367",
+   "https://www.betexplorer.com/football/wales/cymru-south/"
+  ]
+ }
+]

@@ -1,0 +1,1172 @@
+[
+ {
+  "eid": "sr:match:74075868",
+  "fx": "BC Yambol v Botev 2012 Vratsa",
+  "home_form": "Yambol 0-8 in SR last results: L 83-105 @Minyor, L 93-96 v Bulteks, L 70-97 @Shumen, L 73-84 v Balkan, L 61-87 @Cherno More, L 64-96 v Rilski; avg margin about -16; NBL table showed 0-5 earlier.",
+  "away_form": "Botev (league newcomer) 2-6: W 85-84 v Levski, W 89-84 v Beroe (both home), away L 82-110 @Minyor, L 84-87 @Shumen, L 76-79 @Lokomotiv.",
+  "trends": {
+   "game_totals": "Yambol games 163-189; Botev games 152-192",
+   "team_totals": "Yambol scored 61-93 (avg ~74), conceded 84-105",
+   "first_half": "n/a",
+   "handicap": "Yambol losing by double digits in 5/6; Botev away losses by 3,3,28",
+   "corners": "n/a"
+  },
+  "h2h": "No H2H (Botev new to the league).",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "House makes winless Yambol a 0.57 home favourite; the form says otherwise. One source listed a different Yambol fixture on Saturday (Minyor v Yambol), so the date is only partly confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-3.5",
+    "desc": "Away (+3.5)",
+    "odds": 1.76,
+    "p": 0.5297,
+    "why": "Value: Yambol is winless and losing by ~16 on average; Botev lost close away games at Shumen and Lokomotiv. Own estimate ~0.60 v house 0.53. Low confidence because the schedule is partly unconfirmed."
+   }
+  ],
+  "avoid": [
+   "Yambol ML / Yambol -3.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://nbl.basketball.bg/games",
+   "https://sportal.bg/news-2026111412455689744",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:72686182",
+  "fx": "Korihait Uusikaupunki v Honka Espoo",
+  "home_form": "Korihait W 97-88 @Lahti, L 89-108 @Vilpas, L 78-87 @Kataja, W 87-79 v Karhu, L 100-105 @Kouvot, W 90-78 v Bisons, L 89-100 v KTP.",
+  "away_form": "Honka L 90-108 v Bisons, L 78-119 @Karhu, W 94-91 v Seagulls, W 119-105 @KTP, L 94-96 v Kipina, L 100-109 @Kipina, W 100-86 v Lahti, W 108-99 @Kataja.",
+  "trends": {
+   "game_totals": "Honka games 185-224 (Over 191.5 in 5/8); Korihait games 165-205 (3/8)",
+   "team_totals": "Honka scores 78-119, very volatile",
+   "first_half": "n/a",
+   "handicap": "Mixed",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Regular season round 12. Honka is volatile (lost by 41 at Karhu, won by 14 at KTP).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Korihait -6.5 (Honka beat KTP away by 14)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://basket.fi/sarjat/sarjat/korisliiga/",
+   "https://www.suomikoris.com/2026/09/23/korisliigan-kausiennakko-kataja-basket-loukkaantumistilanne-huolestuttaa/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:72686174",
+  "fx": "KTP Basket Kotka v Helsinki Seagulls",
+  "home_form": "KTP W 97-96 v Bisons, L 55-92 @Kataja, W 106-74 @Bisons, W 100-81 v Lahti, L 99-104 @Kipina, L 105-119 v Honka, W 99-75 v Kouvot.",
+  "away_form": "Seagulls L 91-94 @Karhu, W 98-83 v Kipina, L 68-76 v Karhu, W 98-80 v Kouvot, L 91-94 @Honka, W 94-92 v Pyrinto, W 86-79 v Vilpas.",
+  "trends": {
+   "game_totals": "KTP games 147-224; Seagulls 144-185",
+   "team_totals": "Seagulls score 68-98",
+   "first_half": "n/a",
+   "handicap": "Seagulls losses are all close (3,8,3); KTP home lost by 14 to Honka and won by 1 v Bisons",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches. (A preseason note mentions Seagulls injuries, but it is stale.)",
+  "context": "House has KTP 0.74. Seagulls lose narrowly and beat good sides at home; KTP home results are inconsistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-8.5",
+    "desc": "Away (+8.5)",
+    "odds": 1.73,
+    "p": 0.5388,
+    "why": "Value: Seagulls lost each recent defeat by 8 or less (3, 8, 3) and KTP won by 1 at home v Bisons. Own estimate ~0.62 v house 0.54."
+   }
+  ],
+  "avoid": [
+   "KTP ML 1.29 (not tight: house 0.74, form does not support)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://basket.fi/sarjat/sarjat/korisliiga/",
+   "https://www.suomikoris.com/2026/09/23/korisliigan-kausiennakko-kataja-basket-loukkaantumistilanne-huolestuttaa/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:72686176",
+  "fx": "Salon Vilpas Vikings v Kauhajoki Karhu Basket",
+  "home_form": "Vilpas W 104-95 @Antwerp (Europe Cup midweek), L 90-98 @Kouvot, W 108-89 v Korihait, L 86-87 @Kipina, W 77-69 v Antwerp, W 80-52 @Lahti, L 79-86 @Seagulls.",
+  "away_form": "Karhu W 94-91 v Seagulls, W 77-72 v Pyrinto, W 76-68 @Seagulls, W 119-78 v Honka, L 79-87 @Korihait, L 80-101 @Kataja.",
+  "trends": {
+   "game_totals": "Vilpas games 132-199; Karhu 144-197",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Karhu has won 4 straight, including at the Seagulls",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "Vilpas: Xavier DuSell had finger surgery in preseason (September report; current status unknown).",
+  "context": "Vilpas played a FIBA Europe Cup game away at Antwerp in midweek, so they have travel and fatigue going into a Friday game. Karhu are in form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-8.5",
+    "desc": "Away (+8.5)",
+    "odds": 1.74,
+    "p": 0.5337,
+    "why": "Value: Karhu won 4 straight, including 76-68 away at the Seagulls; Vilpas come off a European away trip to Antwerp midweek. Own estimate ~0.62 v house 0.53."
+   }
+  ],
+  "avoid": [
+   "Vilpas ML 1.27 / Vilpas -8.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://basket.fi/sarjat/sarjat/korisliiga/",
+   "https://www.suomikoris.com/2026/09/23/korisliigan-kausiennakko-kataja-basket-loukkaantumistilanne-huolestuttaa/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73063628",
+  "fx": "Hba-Marsky v Pantterit",
+  "home_form": "Hba-Marsky L 77-88 @Aanekoski, L 80-90 v Karkkila, W 83-53 @Raholan, W 81-59 v Kobrat, W 82-74 @ToPo.",
+  "away_form": "Pantterit W 93-66 v ToPo, L 78-92 @Oulun, W 92-75 v Pyrinto, L 71-80 @Lappeenranna, W 94-90 v Jyvaskyla, L 71-109 @Kobrat.",
+  "trends": {
+   "game_totals": "Both teams 140-180",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Pantterit away losses 14, 9, 38",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Finnish 1st Division (second tier).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.15,
+  "sources": [
+   "https://basket.fi/sarjat/",
+   "https://www.suomikoris.com/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73063630",
+  "fx": "Kobrat Lapua v Pyrinto Akatemia",
+  "home_form": "Kobrat W 106-83 @Raholan, W 105-72 v Lappeenranna, W 85-78 @HNMKY, L 75-81 v Jyvaskyla, W 109-71 v Pantterit.",
+  "away_form": "Pyrinto Akatemia L 76-92, L 68-79, L 75-92, W 85-75, L 52-95 @Karkkila.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "Akatemia scores 51-85",
+   "first_half": "n/a",
+   "handicap": "Kobrat home wins by 33 and 38",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Pyrinto Akatemia is an academy (youth development) side, so it is excluded under the youth rule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Any leg: academy/youth side"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://basket.fi/sarjat/",
+   "https://www.suomikoris.com/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73063632",
+  "fx": "Raholan Pyrkiva v Karkkila",
+  "home_form": "Raholan home results: L 83-106 v Kobrat, L 53-83 v Hba-Marsky, L 56-84 v Oulun, L 66-85 v Jyvaskyla. Away: W 83-68 @HNMKY, W 92-90 @ToPo, W 74-66 @Pyrinto.",
+  "away_form": "Karkkila W 91-74 v HNMKY, W 90-80 @Hba-Marsky, W 84-82 v ToPo, L 67-79 @Oulun, W 95-52 v Pyrinto, W 81-71 @Lappeenranna.",
+  "trends": {
+   "game_totals": "Raholan home games 136-189",
+   "team_totals": "Raholan home scores 53-83",
+   "first_half": "n/a",
+   "handicap": "Raholan lost its last 4 home games by 23, 30, 28 and 19",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Karkkila is near the top; Raholan has been beaten heavily at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=10.5",
+    "desc": "Away (-10.5)",
+    "odds": 1.68,
+    "p": 0.545,
+    "why": "Value: Raholan lost its last 4 home games by 19-30, including 53-83 v Hba-Marsky, whom Karkkila beat 90-80 away. Own estimate ~0.62 v house 0.55."
+   }
+  ],
+  "avoid": [
+   "Raholan +10.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://basket.fi/sarjat/",
+   "https://www.suomikoris.com/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:72838610",
+  "fx": "DSK Levharti Chomutov v ZVVZ USK Praha",
+  "home_form": "Chomutov mixed results.",
+  "away_form": "USK dominant (EuroLeague Women side).",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "n/a",
+  "context": "ZBL is the Czech women's league, excluded under the women's rule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "All legs (women's competition)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cbf.cz/",
+   "https://www.eurobasket.com/Czech-Republic/basketball.aspx",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:72629066",
+  "fx": "SKB Zlin v BK Opava B",
+  "home_form": "Zlin W 93-65, L 61-71, W 122-71, W 97-74, W 95-65, L 83-84.",
+  "away_form": "Opava B (the reserve side) L 63-85, L 72-78, W 77-63, W 89-87, L 67-72.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Zlin wins by 22-51",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "n/a",
+  "context": "Opava B is a reserve team, excluded under the reserves rule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "All legs (reserve side)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cbf.cz/",
+   "https://www.eurobasket.com/Czech-Republic/basketball.aspx",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:74998606",
+  "fx": "Kk Drina Princip Zvornik v Kk Radnicki Gorazde",
+  "home_form": "Drina L 66-80 @Sloboda, W 99-72 v Mladost, L 68-70 v Leotar, L 57-87 @Siroki, W 89-83 v Slavija, L 73-87 @Gradina, L 76-88 v Igman.",
+  "away_form": "Radnicki L 77-94 @Siroki, L 75-79 @Slavija, W 87-82 v Gradina, L 86-99 @Igman, L 77-78 v Zivinice, L 84-99 @Orlovik, W 85-84 @Sloboda.",
+  "trends": {
+   "game_totals": "Radnicki games 152-183, Drina 138-171",
+   "team_totals": "Radnicki scores 75-87",
+   "first_half": "n/a",
+   "handicap": "Drina home: 2-2",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Bosnian 1st Division, thin coverage.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://sportsport.ba/",
+   "https://www.eurobasket.com/Bosnia/basketball.aspx",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:74998602",
+  "fx": "Kk Slavija Istocno Sarajevo v Kk Promo Donji Vakuf",
+  "home_form": "Slavija home: W 79-75 v Radnicki, W 98-76 v Mladost, W 106-96 v Siroki, L 75-85 v Leotar, W 95-91 v Zrinjski. Away: L 79-87 @Zrinjski, W 72-70 @Sloboda.",
+  "away_form": "Promo away: L 81-85 @Igman, L 68-83 @Orlovik, L 60-68 @Leotar, L 65-86 @Zrinjski, W 98-92 @Student. Home W 80-59 v Gradina.",
+  "trends": {
+   "game_totals": "Promo away games 128-166",
+   "team_totals": "Promo scores 60-81 away",
+   "first_half": "n/a",
+   "handicap": "Slavija home wins by 4, 22, 10, 4",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Slavija won 4 of its last 5 home games; Promo has lost 4 of 5 away.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.7655,
+    "why": "Near-tight (house 0.77, just under the 0.78 bar): Slavija won 4 of its last 5 home games; Promo lost 4 of 5 away, scoring 60-81. Own estimate ~0.80."
+   }
+  ],
+  "avoid": [
+   "Slavija -7.5 (home wins only by 4 and 4 in 2 of 4)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://sportsport.ba/",
+   "https://www.eurobasket.com/Bosnia/basketball.aspx",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73860826",
+  "fx": "Kk Samobor v KK Dubrovnik",
+  "home_form": "Samobor home: L 77-82 v Split, L 78-89 v Skrljevo, L 64-73 v Cibona, L 91-95 v Alkar. Away: L 75-83 @Dinamo, W 97-89 @Virtus, L 72-79 @Zabok.",
+  "away_form": "Dubrovnik L 71-95 v Cibona, L 72-91 @Alkar, L 71-105 v Zadar, W 84-80 @Dubrava, L 81-91 v Kvarner, W 92-79 v Zabok.",
+  "trends": {
+   "game_totals": "Samobor home games 137-186",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Samobor has lost its last 4 home games (by 5, 11, 9, 4)",
+   "corners": "n/a"
+  },
+  "h2h": "Not found (round 9 preview checked).",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "SuperSport Premijer liga round 9.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-3.5",
+    "desc": "Away (+3.5)",
+    "odds": 1.72,
+    "p": 0.5431,
+    "why": "Value: Samobor has lost all of its last 4 home games, including to weak Skrljevo (whom Zabok beat by 16); Dubrovnik beat Zabok by 13. Own estimate ~0.58 v house 0.54. Weak edge."
+   }
+  ],
+  "avoid": [
+   "Samobor ML"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hks-cbf.hr/supersport-premijer/2026/supersport-premijer-liga-9-kolo-najava-zadar-i-cibona-cuvaju-vrh-split-na-velikom-zagrebackom-ispitu/",
+   "https://kkzadar.hr/",
+   "https://ezadar.net.hr/sport/4478543/favbet13-zadar-zabok/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73860952",
+  "fx": "KK Zabok v KK Zadar",
+  "home_form": "Zabok (2 wins) home: L 71-81 v Virtus, W 84-68 v Skrljevo, W 79-72 v Samobor. Away: L 75-81 @Dubrava, L 71-90 @Kvarner, L 79-92 @Dubrovnik, L 84-100 @Cibona.",
+  "away_form": "Zadar 8-0 in the league (unbeaten leader): W 95-60 @Dubrava, W 109-80 v Kvarner, W 105-71 @Dubrovnik, W 95-70 v Ilirija, W 87-61 v Dinamo. ABA: W 81-74 v Partizan, L 51-67 @Spartak, L 75-89 @Dubai.",
+  "trends": {
+   "game_totals": "Zadar league games 150-189",
+   "team_totals": "Zadar scores 87-109 in league games",
+   "first_half": "Zadar H1 56-34 @Dubrava, 57-42 v Kvarner",
+   "handicap": "Zadar league wins by 35, 29, 34, 25, 26; the teams Zabok lost to by 6-19 were beaten by Zadar by 29-35",
+   "corners": "n/a"
+  },
+  "h2h": "Not found this season.",
+  "absences": "None reported. The ABA League changed its 2026/27 calendar on 20 Nov (postponements), so the ABA weekend schedule is unclear and rotation is possible.",
+  "context": "The round 9 preview (hks-cbf.hr) names Zadar the clear favourite (8-0) and Zabok as having 2 wins.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=17.5",
+    "desc": "Away (-17.5)",
+    "odds": 1.7,
+    "p": 0.5494,
+    "why": "Value: Zadar has won league games by 25-35, including by 29 v Kvarner, who beat Zabok by 19. Own estimate ~0.62 v house 0.55. Risk: Zadar may rest players around the ABA schedule."
+   },
+   {
+    "mid": "228",
+    "spec": "total=89.5",
+    "desc": "Over 89.5",
+    "odds": 1.73,
+    "p": 0.5296,
+    "why": "Value: Zadar scored 95, 109, 105 and 95 in its last 4 league games; Zabok conceded 81-100 away and 81 at home v Virtus. Own estimate ~0.62 v house 0.53."
+   }
+  ],
+  "avoid": [
+   "Zabok +17.5 (no catch of 15+ points for a weak receiver)",
+   "Zadar ML 1.02 (padding)"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.hks-cbf.hr/supersport-premijer/2026/supersport-premijer-liga-9-kolo-najava-zadar-i-cibona-cuvaju-vrh-split-na-velikom-zagrebackom-ispitu/",
+   "https://kkzadar.hr/",
+   "https://ezadar.net.hr/sport/4478543/favbet13-zadar-zabok/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73810014",
+  "fx": "Bristol Flyers v Cheshire Phoenix",
+  "home_form": "Bristol W 86-84 @Manchester, W 81-66 v Dubrava, L 53-68 v Surrey, W 81-65 @Newcastle, L 74-78 v Manchester, L 76-82 @London, W 90-89 v Liverpool.",
+  "away_form": "Cheshire L 61-89 v Newcastle, L 84-86 @Sheffield, W 93-90 @Manchester, W 117-108 @Liverpool, L 91-107 v Surrey, L 83-87 v London.",
+  "trends": {
+   "game_totals": "Cheshire games 150-225 (high); Bristol 121-179 (low)",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Both teams win and lose close games",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Contrasting tempos, close match.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Totals (opposite profiles)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bristolflyers.co.uk/",
+   "https://basketball.realgm.com/international/league/161/Super-League-Basketball/team/959/London-Lions/schedule",
+   "https://newcastle-eagles.com/tag/leicester-riders/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73810016",
+  "fx": "Newcastle Eagles v Leicester Riders",
+  "home_form": "Newcastle W 89-61 @Cheshire, L 65-81 v Bristol, W 99-92 @Caledonia, W 101-80 @Leicester, L 74-77 @Liverpool, W 82-55 v Surrey, W 87-81 @Sheffield, L 78-81 v Manchester.",
+  "away_form": "Leicester W 91-80 @Caledonia, W 97-76 @London Lions, L 80-101 v Newcastle, L 87-89 v Manchester, L 102-107 @Surrey, L 75-85 @Sheffield.",
+  "trends": {
+   "game_totals": "Newcastle games 136-191",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Newcastle won the last meeting by 21 (away), but has lost 2 of its last 3 home games",
+   "corners": "n/a"
+  },
+  "h2h": "Newcastle won 101-80 at Leicester recently.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Leicester has won 2 straight away games, including 97-76 at the London Lions.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Newcastle ML 1.20 (Newcastle has lost home games to Bristol and Manchester; Leicester is improving)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bristolflyers.co.uk/",
+   "https://basketball.realgm.com/international/league/161/Super-League-Basketball/team/959/London-Lions/schedule",
+   "https://newcastle-eagles.com/tag/leicester-riders/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73810012",
+  "fx": "Sheffield Sharks v London Lions",
+  "home_form": "Sheffield L 68-81 @Liverpool, W 86-84 v Cheshire, W 81-76 @Surrey, L 76-85 @London, L 81-87 v Newcastle, W 85-75 v Leicester, W 98-76 v Caledonia.",
+  "away_form": "London Lions (European competition midweek): W 68-55 v Siauliai, W 80-77 v Surrey, W 80-76 v Venezia, L 76-97 v Leicester, L 84-86 @Roma, W 85-76 v Sheffield.",
+  "trends": {
+   "game_totals": "Lions games 123-173",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Lions beat Sheffield by 9",
+   "corners": "n/a"
+  },
+  "h2h": "Lions won 85-76 v Sheffield on Oct 30.",
+  "absences": "None found.",
+  "context": "Lions play European competition midweek and have just travelled. Close line.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bristolflyers.co.uk/",
+   "https://basketball.realgm.com/international/league/161/Super-League-Basketball/team/959/London-Lions/schedule",
+   "https://newcastle-eagles.com/tag/leicester-riders/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:74295764",
+  "fx": "Roanne Chorale v Limoges CSP",
+  "home_form": "Roanne W 90-77 @Bourg, W 80-68 v Saint-Quentin, W 89-69 @Gravelines, L 75-96 v Paris, L 70-72 @SIG, L 77-96 @ASVEL, L 78-80 @Antibes, W 93-83 v Nanterre.",
+  "away_form": "Limoges L 82-97 v Paris, W 79-77 @Nancy, L 74-90 @Dijon, L 89-99 v Boulazac, L 81-85 @Pau, L 94-97 v ASVEL, W 99-88 @Toulouse, L 96-108 @Dijon.",
+  "trends": {
+   "game_totals": "Limoges games 156-204: 8/8 over 153.5, average ~179. Roanne games 142-176: 6/8 over 153.5",
+   "team_totals": "Limoges conceded 77-108 (avg ~94)",
+   "first_half": "n/a",
+   "handicap": "Roanne has won 3 straight",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "None found in searches.",
+  "context": "Betclic Elite J9, confirmed by both club calendars for Fri 20 Nov 20:00 CET in Roanne.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=153.5",
+    "desc": "Over 153.5",
+    "odds": 1.21,
+    "p": 0.8006,
+    "why": "TIGHT: every one of Limoges' last 8 games went over 153.5 (lowest 156, average ~179) because Limoges concedes ~94 a game; Roanne games 6/8. Own estimate ~0.85 v house 0.80."
+   }
+  ],
+  "avoid": [
+   "Unders"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.chorale-roanne.com/calendrier/",
+   "https://www.limogescsp.com/telecharger-le-calendrier-des-matchs/pdf/saisoncsp.html",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:74295756",
+  "fx": "JDA Dijon Basket v Le Mans Sarthe Basket",
+  "home_form": "Dijon L 91-101 v Nanterre, W 97-71 @Cholet, W 90-74 v Limoges, L 94-108 v Nancy, W 91-81 @Saint-Quentin, W 92-83 @Gravelines.",
+  "away_form": "Le Mans L 86-96 @Aris (EuroCup midweek), W 109-93 v ASVEL, W 88-80 v Burgos, W 94-69 @SIG, W 71-65 @Riga, W 106-97 v Pau.",
+  "trends": {
+   "game_totals": "Dijon games 153-204; Le Mans 136-203",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Close",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "Dijon injury articles found are from 2025-26 (Holston and Narace); no current news.",
+  "context": "Le Mans returns from a midweek away game at Aris Thessaloniki, so travel fatigue. Dijon home form is mixed. No dates conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Over 166.5 tight (house 0.78; Dijon games 6/8, Le Mans 6/8, no edge)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bebasket.fr/la-jda-dijon-toujours-maudite-avec-les-blessures-holston-et-narace-out-un-pigiste-recherche",
+   "https://www.infos-dijon.com/news/sport/basket/basket-betclic-elite-une-pluie-de-blessures-s-abat-sur-la-jda-dijon.html",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73062898",
+  "fx": "Aix Maurienne Savoie Basket v Ada Blois Basket 41",
+  "home_form": "Aix L 78-95 @Orleans, L 93-94 v Nantes, W 95-81 @Toulon, L 70-93 @Alliance, W 89-86 v Rouen, W 85-78 v Levallois, L 77-95 @Denain, L 59-87 @Champagne.",
+  "away_form": "Blois W 99-82 v Alliance, W 95-70 @Saint-Chamond, L 96-98 @Beliers, W 93-73 v Denain, W 93-75 v Vichy, L 92-97 v Antibes, W 103-80 @Orleans, W 102-89 v La Rochelle.",
+  "trends": {
+   "game_totals": "Blois games 160-191",
+   "team_totals": "Blois scored 92-103 in 8/8 (93+ in 6/8); Aix conceded 78-95",
+   "first_half": "n/a",
+   "handicap": "Blois away: won by 25 and 23, lost by 2",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Elite 2 J11; LNB and Bebasket confirm Fri 20 Nov (19:00 vs 20:00 listing only).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.8137,
+    "why": "TIGHT: Blois won away by 25 at Saint-Chamond and by 23 at co-leader Orleans; Aix lost 4 of its last 5 to good sides. Own estimate ~0.83 v house 0.81."
+   },
+   {
+    "mid": "228",
+    "spec": "total=92.5",
+    "desc": "Over 92.5",
+    "odds": 1.63,
+    "p": 0.5627,
+    "why": "Value: Blois scored 93+ in 6 of its last 8 (99, 95, 96, 93, 93, 103, 102); Aix conceded 93-95 to Nantes, Alliance, Denain and Orleans. Own estimate ~0.62 v house 0.56."
+   }
+  ],
+  "avoid": [
+   "Aix +9.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bebasket.fr/ligue/pro-b",
+   "https://www.basketeurope.com/elite-2-10e-journee-quatre-co-leaders-orleans-laurent-vila/",
+   "https://www.scabbasket.fr/elite-2/calendrier/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:74345690",
+  "fx": "Basket Le Havre v JA Vichy-Clermont",
+  "home_form": "Le Havre L 87-95 @Antibes, L 78-95 v Levallois, L 92-95 v Orleans, W 101-74 @Evreux, L 95-103 v Denain, L 81-83 @Toulon.",
+  "away_form": "Vichy W 73-59 v Saint-Chamond, L 88-92 v Beliers, W 75-74 @Nantes, L 75-93 @Blois, W 93-84 v Toulon, L 82-91 @Champagne.",
+  "trends": {
+   "game_totals": "Le Havre games 166-198",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Close",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Coin-flip line.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/ligue/pro-b",
+   "https://www.basketeurope.com/elite-2-10e-journee-quatre-co-leaders-orleans-laurent-vila/",
+   "https://www.scabbasket.fr/elite-2/calendrier/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73062900",
+  "fx": "Hermine Nantes Basket v Saint-Chamond",
+  "home_form": "Nantes W 94-86 @Toulon, W 94-93 @Aix, L 74-75 v Vichy, L 72-96 @Denain, W 99-90 v Alliance, W 97-82 @Evreux, W 83-78 v Rouen.",
+  "away_form": "Saint-Chamond L 59-73 @Vichy, L 70-95 v Blois, W 84-81 v Rouen, L 63-74 @Fos, L 78-81 v Champagne, W 85-76 @Alliance.",
+  "trends": {
+   "game_totals": "Saint-Chamond games 129-165",
+   "team_totals": "Saint-Chamond scores 59-85",
+   "first_half": "n/a",
+   "handicap": "Nantes home wins by 9 and 5, home loss by 1",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "SCABB calendar confirms 20 Nov 20:00 at Nantes.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Nantes -7.5 (home margins small)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bebasket.fr/ligue/pro-b",
+   "https://www.basketeurope.com/elite-2-10e-journee-quatre-co-leaders-orleans-laurent-vila/",
+   "https://www.scabbasket.fr/elite-2/calendrier/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73062904",
+  "fx": "Orleans Loiret Basket v Poitiers Basket 86",
+  "home_form": "Orleans W 95-78 v Aix, W 90-69 @Evreux, W 95-92 @Le Havre, W 100-71 v Beliers, W 93-82 @Levallois, L 80-103 v Blois.",
+  "away_form": "Poitiers has lost 3 straight: L 84-102 v Beliers, L 77-102 @Rouen; W 82-80 v Caen.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "DATE CONFLICT: Bebasket and Sportradar list Fri 20 Nov, but Radio Intensite, the club site and lorleanais.fr list Sat 21 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (20 v 21 Nov).",
+  "picks": [],
+  "avoid": [
+   "All legs"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.intensite.net/orleans-45-basket-elite-2-calendrier-d-orleans-loiret-basket",
+   "https://lorleanais.fr/clubs/orleans-loiret-basket",
+   "https://www.bebasket.fr/ligue/pro-b",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73456706",
+  "fx": "Besancon Avenir Comtois v Pays Salonais Basket 13",
+  "home_form": "Besancon W 95-79 v Berck, L 78-93 @Orchies, L 68-77 v Berck, L 76-98 v Boulogne, L 74-96 v Saint-Chamond, L 67-89 @Mulhouse.",
+  "away_form": "Salon L 68-84 v Saint-Chamond, W 84-83 @Mulhouse, L 72-78 v Saint Vallier, W 103-78 @Charleville, L 73-89 v Loon, W 79-63 v Val de Seine.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Besancon lost 3 of its last 4 home games by 9-22",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "NM1 J13.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.15,
+  "sources": [
+   "https://nm1.ffbb.com/saison-reguliere/calendrier",
+   "https://www.bebasket.fr/ligue/nm1",
+   "https://www.bebasket.fr/nm1-2026-2027-mulhouse-challans-boulogne-les-forces-en-presence-avant-une-saison-deja-mouvementee",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73457056",
+  "fx": "Etoile Angers Basket v CEP Lorient",
+  "home_form": "Angers home: W 79-69 v Rennes, W 91-88 v Les Sables, L 70-71 v Laval, W 90-89 v Toulouse, L 77-79 v Caen.",
+  "away_form": "Lorient away: L 62-76 @Rennes, L 61-95 @Vendee, L 90-91 @Chartres, L 57-83 @Toulouse, W 77-70 @Bordeaux.",
+  "trends": {
+   "game_totals": "Lorient games 118-181",
+   "team_totals": "Lorient scores 57-62 in 3 of 5 away",
+   "first_half": "n/a",
+   "handicap": "Lorient away losses by 14, 34, 26",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "NM1 J13.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-2.5",
+    "desc": "Home (-2.5)",
+    "odds": 1.98,
+    "p": 0.471,
+    "why": "Value: Angers home 3-2 with wins over Rennes and Les Sables; Lorient lost away by 14, 34 and 26. Own estimate ~0.57 v house 0.47."
+   }
+  ],
+  "avoid": [],
+  "confidence": 0.2,
+  "sources": [
+   "https://nm1.ffbb.com/saison-reguliere/calendrier",
+   "https://www.bebasket.fr/ligue/nm1",
+   "https://www.bebasket.fr/nm1-2026-2027-mulhouse-challans-boulogne-les-forces-en-presence-avant-une-saison-deja-mouvementee",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73457058",
+  "fx": "JSA Bordeaux v Union Rennes Basket 35",
+  "home_form": "Bordeaux home: L 74-89 v Vendee, L 78-83 v Chartres, L 67-72 v Toulouse, W 78-59 v Laval, L 70-77 v Lorient.",
+  "away_form": "Rennes W 76-62 v Lorient, L 69-79 @Angers, L 69-73 @Boulogne, W 80-78 v Tours, W 87-86 @Tarbes, W 96-64 v Vitre, W 89-67 @Fougeres, W 81-80 @Vendee.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "Bordeaux home scores 67-78",
+   "first_half": "n/a",
+   "handicap": "Bordeaux lost 4 of its last 5 home games",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "NM1 J13.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=3.5",
+    "desc": "Away (-3.5)",
+    "odds": 1.83,
+    "p": 0.5111,
+    "why": "Value: Bordeaux lost 4 of its last 5 home games, scoring 67-78; Rennes won away at Vendee, Tarbes and Fougeres (by 22). Own estimate ~0.58 v house 0.51."
+   }
+  ],
+  "avoid": [
+   "Bordeaux +3.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://nm1.ffbb.com/saison-reguliere/calendrier",
+   "https://www.bebasket.fr/ligue/nm1",
+   "https://www.bebasket.fr/nm1-2026-2027-mulhouse-challans-boulogne-les-forces-en-presence-avant-une-saison-deja-mouvementee",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73457250",
+  "fx": "Les Sables D Olonne v US Laval",
+  "home_form": "Les Sables home: W 101-73 v Toulouse, W 84-82 v Tarbes, W 86-76 v Bordeaux, W 90-62 v Tours (4-0 recent).",
+  "away_form": "Laval away: L 76-89 @Chartres, L 81-92 @Vitre, W 71-70 @Angers, L 59-78 @Bordeaux.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "Laval away scores 59-81",
+   "first_half": "n/a",
+   "handicap": "Les Sables home wins by 28, 2, 10, 28; Laval away losses by 13, 11, 19",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "NM1 J13, confirmed on the FFBB calendar.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-6.5",
+    "desc": "Home (-6.5)",
+    "odds": 1.68,
+    "p": 0.5584,
+    "why": "Value: Les Sables won its last 4 home games by an average of 17; Laval lost 3 of 4 away by 11-19. Own estimate ~0.62 v house 0.56."
+   }
+  ],
+  "avoid": [],
+  "confidence": 0.25,
+  "sources": [
+   "https://nm1.ffbb.com/saison-reguliere/calendrier",
+   "https://www.bebasket.fr/ligue/nm1",
+   "https://www.bebasket.fr/nm1-2026-2027-mulhouse-challans-boulogne-les-forces-en-presence-avant-une-saison-deja-mouvementee",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73456704",
+  "fx": "Mulhouse Basket Agglomeration v Val de Seine Basket",
+  "home_form": "Mulhouse home: L 83-84 v Salon, L 62-71 v Berck, W 89-67 v Besancon, W 83-63 v Orchies, W 73-71 v Saint Vallier. Away: W 74-53 @Lyonso, L 69-84 @Boulogne.",
+  "away_form": "Val de Seine L 71-85 v Saint Vallier, L 78-81 @Loon, W 88-72 v Charleville, L 70-91 @Boulogne, W 86-79 v Lyonso, L 63-79 @Salon, L 69-87 @Berck.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "Val de Seine away scores 63-78",
+   "first_half": "n/a",
+   "handicap": "Val de Seine away losses by 3, 21, 16, 18",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Mulhouse was a preseason favourite but lost 2 of its last 4 home games.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Mulhouse ML 1.18 as tight (recent home losses to Salon and Berck)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://nm1.ffbb.com/saison-reguliere/calendrier",
+   "https://www.bebasket.fr/ligue/nm1",
+   "https://www.bebasket.fr/nm1-2026-2027-mulhouse-challans-boulogne-les-forces-en-presence-avant-une-saison-deja-mouvementee",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73456710",
+  "fx": "Som Boulogne-Sur-Mer v AB Berck RF",
+  "home_form": "Boulogne home: L 85-92 v Charleville, W 73-69 v Rennes, W 84-69 v Mulhouse, W 91-70 v Val de Seine, W 91-55 v Lyonso.",
+  "away_form": "Berck away: L 79-95 @Besancon, W 77-68 @Besancon, W 71-62 @Mulhouse, L 67-76 @Charleville.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Berck is a competent away side (won at Mulhouse)",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Derby-like local Pas-de-Calais tie.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "Boulogne -7.5"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://nm1.ffbb.com/saison-reguliere/calendrier",
+   "https://www.bebasket.fr/ligue/nm1",
+   "https://www.bebasket.fr/nm1-2026-2027-mulhouse-challans-boulogne-les-forces-en-presence-avant-une-saison-deja-mouvementee",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73456858",
+  "fx": "Saint Vallier v Loon Plage",
+  "home_form": "Saint Vallier W 85-71 @Val de Seine, W 78-72 @Salon, W 104-77 v Lyonso, L 72-79 @Berck, L 86-92 @Besancon, L 84-89 v Boulogne, L 68-87 v Saint-Chamond.",
+  "away_form": "Loon Plage 8 straight wins: W 81-78 v Val de Seine, W 92-65 @Lyonso, W 89-73 @Salon, W 80-70 @Orchies, W 79-77 @Berck, W 82-77 v Besancon, W 81-73 @Saint-Chamond, W 77-72 v Boulogne.",
+  "trends": {
+   "game_totals": "Loon games 144-170",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Loon won 5 away games in a row",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Loon Plage is on an 8-game winning streak, while the house makes Saint Vallier a 0.61 favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-4.5",
+    "desc": "Away (+4.5)",
+    "odds": 1.8,
+    "p": 0.5182,
+    "why": "Value: Loon Plage has won 8 straight, 5 of them away (by 27, 16, 10, 2, 8); Saint Vallier lost 2 of its last 3 home games. Own estimate ~0.62 v house 0.52."
+   }
+  ],
+  "avoid": [
+   "Saint Vallier ML"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://nm1.ffbb.com/saison-reguliere/calendrier",
+   "https://www.bebasket.fr/ligue/nm1",
+   "https://www.bebasket.fr/nm1-2026-2027-mulhouse-challans-boulogne-les-forces-en-presence-avant-une-saison-deja-mouvementee",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73457064",
+  "fx": "Toulouse BC v Vendee Challans Basket",
+  "home_form": "Toulouse home: W 102-72 v Chartres, W 84-71 v Fougeres, W 79-74 v Vitre, W 83-57 v Lorient. Away: L 73-101 @Les Sables, L 77-91 @Laval.",
+  "away_form": "Challans W 89-74 @Bordeaux, W 95-61 v Lorient, W 92-68 @Tours, W 81-69 v Angers, L 82-93 @Tarbes, L 82-90 v Vitre.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Toulouse strong at home; Challans strong away",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Strong v strong.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://nm1.ffbb.com/saison-reguliere/calendrier",
+   "https://www.bebasket.fr/ligue/nm1",
+   "https://www.bebasket.fr/nm1-2026-2027-mulhouse-challans-boulogne-les-forces-en-presence-avant-une-saison-deja-mouvementee",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73062886",
+  "fx": "Antibes Sharks v ALM Evreux Basket",
+  "home_form": "Antibes W 95-87 v Le Havre, L 78-85 @La Rochelle, W 91-90 @Poitiers, W 102-77 v Caen, W 97-92 @Blois, W 89-82 v Denain.",
+  "away_form": "Evreux W 106-79 v Denain, L 69-90 v Orleans, W 89-59 @Champagne, L 74-101 v Le Havre, W 85-79 @La Rochelle, L 82-97 v Nantes.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Evreux is erratic",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Elite 2 J11.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/ligue/pro-b",
+   "https://www.basketeurope.com/elite-2-10e-journee-quatre-co-leaders-orleans-laurent-vila/",
+   "https://www.scabbasket.fr/elite-2/calendrier/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73062892",
+  "fx": "BC Gries-Souffel v Champagne Basketball",
+  "home_form": "Alliance (Gries) L 82-99 @Blois, L 103-108 v Toulon, W 87-85 @Caen, L 87-93 v Nancy, W 93-70 v Aix, L 76-85 v Saint-Chamond.",
+  "away_form": "Champagne W 94-77 v La Rochelle, W 80-73 @Fos, L 59-89 v Evreux, W 95-89 v Levallois, W 81-78 @Saint-Chamond, W 91-82 v Vichy.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Elite 2 J11.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/ligue/pro-b",
+   "https://www.basketeurope.com/elite-2-10e-journee-quatre-co-leaders-orleans-laurent-vila/",
+   "https://www.scabbasket.fr/elite-2/calendrier/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73062890",
+  "fx": "Caen Basket Calvados v Stade Rochelais Basket",
+  "home_form": "Caen W 96-91 v Levallois, W 86-83 @Denain, L 80-82 @Poitiers, L 85-87 v Alliance, L 77-102 @Antibes, L 74-79 v Poitiers.",
+  "away_form": "La Rochelle L 77-94 @Champagne, W 85-78 v Antibes, W 85-73 v Denain, L 85-89 @Poitiers, L 79-85 v Evreux, L 75-76 @Rouen.",
+  "trends": {
+   "game_totals": "n/a",
+   "team_totals": "n/a",
+   "first_half": "n/a",
+   "handicap": "Close games",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Elite 2 J11.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/ligue/pro-b",
+   "https://www.basketeurope.com/elite-2-10e-journee-quatre-co-leaders-orleans-laurent-vila/",
+   "https://www.scabbasket.fr/elite-2/calendrier/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:74320784",
+  "fx": "Bauru Basket SP v Caxias Do Sul",
+  "home_form": "Bauru W 98-78 @Pato, L 64-77 v Minas, L 74-78 v Cruzeiro, L 75-83 @Paulistano, L 61-79 v Mogi, W 83-68 v Sao Jose, W 82-81 @Flamengo.",
+  "away_form": "Caxias winless and bottom (0-8): L 62-89 @Franca (Nov 18), L 77-79 v Pato, L 55-76 v Brasilia, L 53-91 @Pinheiros, L 59-77 @Flamengo, L 82-84 @Botafogo, L 66-78 v Minas.",
+  "trends": {
+   "game_totals": "Bauru games 140-176; Caxias 131-166",
+   "team_totals": "Caxias scored 53-66 in 5 of 7 (avg ~65)",
+   "first_half": "Caxias H1 26, 23, 21, 27 in recent away/heavy losses",
+   "handicap": "Bauru lost 3 of its last 4 home games (to good sides)",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches. Caxias played Wednesday (Nov 18), so this is a quick turnaround on the road.",
+  "context": "Venue Panela de Pressao, Bauru. Tip-off is 18h Brasilia per O Tempo and the LNB (= 21:00 UTC, matching the board).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "228",
+    "spec": "total=70.5",
+    "desc": "Under 70.5",
+    "odds": 1.57,
+    "p": 0.5964,
+    "why": "Value: winless Caxias scored 53-66 in 5 of its last 7 (62 at Franca on Wednesday) and is on a 2-day turnaround. Own estimate ~0.65 v house 0.60."
+   }
+  ],
+  "avoid": [
+   "Bauru -12.5 (Bauru home form poor)",
+   "Bauru ML 1.12 (padding)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/20/nbb-tem-tres-jogos-nesta-sexta-com-franca-x-uniao-corinthians-na-espn",
+   "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/franca-vence-caxias-do-sul-em-casa-e-sobe-para-o-sexto-lugar-do-nbb/",
+   "https://lnb.com.br/nbb/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:74320786",
+  "fx": "Fortaleza Basquete Cearense v Botafogo",
+  "home_form": "Fortaleza W 77-73 @Cruzeiro, L 63-77 @Minas, L 68-75 v Corinthians, W 65-58 v Paulistano, L 78-89 @Mogi, L 53-96 @Sao Jose, L 63-98 v Pinheiros, L 69-93 v Osasco.",
+  "away_form": "Botafogo L 95-104 @Unifacisa, L 60-83 v Franca, W 77-76 @Brasilia, L 80-87 v Corinthians, W 84-82 v Caxias, L 88-89 @Pato, L 71-81 @Flamengo.",
+  "trends": {
+   "game_totals": "Fortaleza games 123-161",
+   "team_totals": "Fortaleza scored 77 or fewer in 7 of 8 (53-78; avg ~67)",
+   "first_half": "n/a",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Not found.",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "18h Brasilia at the Centro de Formacao Olimpica, Fortaleza (O Tempo).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "227",
+    "spec": "total=77.5",
+    "desc": "Under 77.5",
+    "odds": 1.82,
+    "p": 0.5089,
+    "why": "Value: Fortaleza scored 77 or fewer in 7 of its last 8 (avg ~67, e.g. 63, 68, 65, 53, 63, 69). Own estimate ~0.64 v house 0.51."
+   }
+  ],
+  "avoid": [],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/20/nbb-tem-tres-jogos-nesta-sexta-com-franca-x-uniao-corinthians-na-espn",
+   "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/franca-vence-caxias-do-sul-em-casa-e-sobe-para-o-sexto-lugar-do-nbb/",
+   "https://lnb.com.br/nbb/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ },
+ {
+  "eid": "sr:match:74320782",
+  "fx": "Sesi/Franca BC SP v EC Uniao Corinthians",
+  "home_form": "Franca (6-3, 6th) W 89-62 v Caxias (Nov 18), W 83-60 @Botafogo, W 84-73 @Flamengo, W 98-77 v Cruzeiro, L 76-87 v Minas, L 62-65 @Paulistano, L 48-78 @Corinthians.",
+  "away_form": "Corinthians W 67-62 v Pato, W 70-61 v Brasilia, L 65-83 @Flamengo, W 87-80 @Botafogo, L 63-75 @Pinheiros, L 71-88 v Minas, W 83-74 v Cruzeiro.",
+  "trends": {
+   "game_totals": "Corinthians games 129-157 (low tempo); Franca 126-175",
+   "team_totals": "Corinthians scores 63-87",
+   "first_half": "n/a",
+   "handicap": "Franca lost 48-78 at Corinthians earlier this season (H2H by 30)",
+   "corners": "n/a"
+  },
+  "h2h": "Corinthians beat Franca 78-48 (Sportradar list; same SR naming caveat).",
+  "absences": "No fixture-specific news found in searches.",
+  "context": "Ginasio Pedrocao, 19h30 Brasilia (22:30 UTC), ESPN. First-round game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-16.5",
+    "desc": "Away (+16.5)",
+    "odds": 1.6,
+    "p": 0.5924,
+    "why": "Value: Corinthians is a credible receiver (won at Botafogo and beat Franca 78-48 earlier) and plays low-tempo games (129-157), which cap the margin. Own estimate ~0.66 v house 0.59."
+   }
+  ],
+  "avoid": [
+   "Franca -14.5",
+   "Franca ML 1.09 (padding)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/20/nbb-tem-tres-jogos-nesta-sexta-com-franca-x-uniao-corinthians-na-espn",
+   "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/franca-vence-caxias-do-sul-em-casa-e-sobe-para-o-sexto-lugar-do-nbb/",
+   "https://lnb.com.br/nbb/",
+   "Sportradar gismo stats_team_lastx (sr.py), pulled 2026-11-20"
+  ]
+ }
+]
