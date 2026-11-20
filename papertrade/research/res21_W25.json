@@ -1,0 +1,580 @@
+[
+ {
+  "eid": "sr:match:76999886",
+  "fx": "Imperia-Pro v Lions-Pro",
+  "sport": "volleyball",
+  "absences": "n/a",
+  "context": "Russia 'Liga Pro' volleyball: a betting-feed-only league (BetsAPI-style listings, machine-generated team bios, no federation or press coverage). All four matches priced 1.87/1.87.",
+  "news": "no news found; league is unverifiable outside betting aggregators",
+  "veto": true,
+  "veto_reason": "Betting-feed-only league with no independent source for teams, venue or schedule; treat like SRL/virtual class",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://betsapi.com/l/10421/Russia-Liga-Pro"
+  ]
+ },
+ {
+  "eid": "sr:match:75048436",
+  "fx": "Cool Smashers v Farm Fresh Foxies",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "PVL All-Filipino Conference, last elimination game for Creamline. Previews call it a must-win for Creamline, and the semifinal race for twice-to-win/twice-to-beat seeding is live. Sources disagree on Creamline's record (4-3 vs 5-2). Women's competition: no picks by rule; checked date/venue only.",
+  "news": "Creamline's last elimination game is v Farm Fresh on Nov 21; previews call it a must-win (BusinessWorld/Inquirer)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (women's; Creamline's record conflicts between sources)",
+  "confidence": 0.15,
+  "sources": [
+   "https://bworldonline.com/sports/2026/11/16/794385/nxled-and-creamline-face-off-in-pivotal-all-filipino-showdown/",
+   "https://www.manilatimes.net/2026/11/12/sports/nxled-outplays-akari-to-reach-pvl-semis/2468162",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_Volleyball_League_All-Filipino_Conference"
+  ]
+ },
+ {
+  "eid": "sr:match:76999888",
+  "fx": "Legion-Pro v Enerdzhi",
+  "sport": "volleyball",
+  "absences": "n/a",
+  "context": "Russia 'Liga Pro' volleyball: a betting-feed-only league (BetsAPI-style listings, machine-generated team bios, no federation or press coverage). All four matches priced 1.87/1.87.",
+  "news": "no news found; league is unverifiable outside betting aggregators",
+  "veto": true,
+  "veto_reason": "Betting-feed-only league with no independent source for teams, venue or schedule; treat like SRL/virtual class",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://betsapi.com/l/10421/Russia-Liga-Pro"
+  ]
+ },
+ {
+  "eid": "sr:match:76999890",
+  "fx": "Orly-Pro v Vityaz",
+  "sport": "volleyball",
+  "absences": "n/a",
+  "context": "Russia 'Liga Pro' volleyball: a betting-feed-only league (BetsAPI-style listings, machine-generated team bios, no federation or press coverage). All four matches priced 1.87/1.87.",
+  "news": "no news found; league is unverifiable outside betting aggregators",
+  "veto": true,
+  "veto_reason": "Betting-feed-only league with no independent source for teams, venue or schedule; treat like SRL/virtual class",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://betsapi.com/l/10421/Russia-Liga-Pro"
+  ]
+ },
+ {
+  "eid": "sr:match:76999892",
+  "fx": "Plamya Pro v Molot",
+  "sport": "volleyball",
+  "absences": "n/a",
+  "context": "Russia 'Liga Pro' volleyball: a betting-feed-only league (BetsAPI-style listings, machine-generated team bios, no federation or press coverage). All four matches priced 1.87/1.87.",
+  "news": "no news found; league is unverifiable outside betting aggregators",
+  "veto": true,
+  "veto_reason": "Betting-feed-only league with no independent source for teams, venue or schedule; treat like SRL/virtual class",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://betsapi.com/l/10421/Russia-Liga-Pro"
+  ]
+ },
+ {
+  "eid": "sr:match:75048438",
+  "fx": "Nxled Chameleons v Thunderbelles",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Nxled is 7-0, through to the semis and already twice-to-beat, so this is a DEAD RUBBER for Nxled (rotation risk). ZUS Coffee Thunderbelles is the opponent. Women's competition: no picks by rule; checked date/venue only.",
+  "news": "Nxled has clinched a semifinal and twice-to-beat; its final elimination game is v ZUS Coffee on Nov 21",
+  "veto": true,
+  "veto_reason": "Dead rubber for the 1.20 favourite (Nxled already seeded); women's",
+  "picks": [],
+  "avoid": "Nxled ML/handicaps (rotation); everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://bworldonline.com/sports/2026/11/16/794385/nxled-and-creamline-face-off-in-pivotal-all-filipino-showdown/",
+   "https://www.manilatimes.net/2026/11/12/sports/nxled-outplays-akari-to-reach-pvl-semis/2468162",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_Volleyball_League_All-Filipino_Conference"
+  ]
+ },
+ {
+  "eid": "sr:match:72775286",
+  "fx": "Budowlani Lodz v Bks Bielsko-Biala",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Tauron Liga Kobiet round 8. Budowlani are reigning champions (3rd, 12 pts), BKS ZGO is 9th (5 pts). Kickoff 12:00 CET confirmed (Polsat Sport 1). Women's competition: no picks by rule; checked date/venue only.",
+  "news": "Budowlani v BKS ZGO at 12:00 Sat, champions v 9th placed (sport1, bkssa.pl)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's rule)",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport1.pl/tauron-liga-kobiet-2026-2027-terminarz-mecze-wyniki-tabela-transmisje-gdzie-ogladac-kto-gra-kiedy-i-o-ktorej-godzinie",
+   "https://bkssa.pl/zapowiedz-pge-budowlani-lodz-bks-zgo-bielsko-biala/"
+  ]
+ },
+ {
+  "eid": "sr:match:73499112",
+  "fx": "Fakel Novy Urengoy v Dinamo Moscow",
+  "sport": "volleyball",
+  "absences": "no named absences found",
+  "context": "Superliga round 9, 16:00 MSK (one source says 14:00, but the board's 13:00 UTC matches 16:00 MSK). Dinamo Moscow is top 5 and chasing the leader. Fakel lost 2-3 to Yenisey last round. Dinamo is 8-2 over the last 10, Fakel 4-6 and 1-2 at home. Long trip to Novy Urengoy for Dinamo.",
+  "news": "Fakel lost 2-3 to Yenisey last round; Dinamo is in the top 5 and a loss hurts their chase (stavka.tv)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away/Away 1.33 (p 0.71, below the 0.75 away floor); 'No 5th set' 1.19 is an Under-type below 0.82; Dinamo ML 1.12 is below the odds floor",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sports.ru/volleyball/1117443070-chempionat-rossii-po-volejbolu-9-j-tur.html",
+   "https://stavka.tv/matches/volleyball/21-11-2026-fakel-novy-urengoy-dinamo-moscow",
+   "https://volley.ru/calendar/01KW9SZKA9FMZY1V2E57PF044W/current"
+  ]
+ },
+ {
+  "eid": "sr:match:75139440",
+  "fx": "Koll IL v NTNUI",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Norwegian Eliteserien men, 15:00 local Sat (NTB listing), which matches the board. Koll is 6-0 at home over the last 10; NTNUI (student team) is 1-9 and 1-4 away.",
+  "news": "Koll v NTNUI listed 15:00 Sat 21 Nov in the NTB weekend menu; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.788847,
+    "why": "Koll 6-0 at home v NTNUI 1-9 (1-4 away); house 0.79, mine ~0.82. Thin league, no team news, so small edge only."
+   }
+  ],
+  "avoid": "NTNUI +sets catches; point handicaps (trend data invalid for points)",
+  "confidence": 0.25,
+  "sources": [
+   "https://itromso.no/sport/n/qOLO8z/ntb-sportens-uke-pm-16-23-november-2026",
+   "https://itromso.no/sport/n/EbWX7G/ntb-sportens-helgemeny-21-23-november"
+  ]
+ },
+ {
+  "eid": "sr:match:72764968",
+  "fx": "Resovia Rzeszow v Skra Belchatow",
+  "sport": "volleyball",
+  "absences": "no current injury news found (Bednorz/Souza items are 2025, not current)",
+  "context": "PlusLiga round 7 'klasyk'. Skra started 3-0, lost to the champion and runner-up, then beat Olsztyn 3-1. Polsat broadcast 14:45 local (match ~15:00 local = 14:00 UTC, as on the board). Sofascore lists 17:00 UTC, so kickoff sources are minor-conflicted. Our form feed shows Resovia only 3-7 over the last 10, which is at odds with the 1.25 price.",
+  "news": "Polsat: Skra started with 3 wins, lost to the top two, beat Olsztyn 3-1 last round; TV 14:45 Polsat Sport 1",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Resovia ML/set handicap: big-club clash plus form-feed conflict (trend 0.35 v house 0.77)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.polsatsport.pl/wiadomosc/2026-11-20/tauron-liga-asseco-resovia-rzeszow-pge-giek-skra-belchatow-transmisja-tv-oraz-stream-online/",
+   "https://siatka.org/pokaz/plusliga-terminarz-2026-2027/",
+   "https://www.sofascore.com/volleyball/match/asseco-resovia-rzeszow-pge-skra-belchatow/fuksoCp"
+  ]
+ },
+ {
+  "eid": "sr:match:74602882",
+  "fx": "Csm Bucuresti v CSM Corona Brasov",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Divizia A1 round 6, 16:00 local (= board 14:00 UTC). Corona Brasov is 4th on 10 pts and 6-4 over the last 10. CSM Bucuresti is 1-9 and 0-5 at home, mostly losing 0-3/1-3.",
+  "news": "CSM Bucuresti v Corona Brasov 16:00 Sat; Corona 4th on 10 pts (frvolei, eMaramures round preview)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "201",
+    "spec": null,
+    "desc": "Away/Away",
+    "odds": 1.21,
+    "p": 0.78146,
+    "why": "CSM Bucuresti 0-5 at home, 1-9 overall; Corona 4th. Away p 0.78 clears the 0.75 floor; mine ~0.80."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.emaramures.ro/volei-divizia-a1-stiinta-explorari-joaca-in-deplasare-la-zalau/",
+   "https://frvolei.ro/etapa-6-volei-masculin-derby-dinamo-steaua/",
+   "https://frvolei.ro/"
+  ]
+ },
+ {
+  "eid": "sr:match:73499114",
+  "fx": "Gazprom-Ugra Surgut v VC Yenisey Krasnoyarsk",
+  "sport": "volleyball",
+  "absences": "no named absences found",
+  "context": "Superliga round 9, 17:00 MSK (one listing says 21:00 local Surgut time, which is the same slot). Yenisey beat Fakel 3-2 last round. Surgut is 2-8 over the last 10 and 1-4 at home. H2H 0-3, 0-3 to Yenisey.",
+  "news": "Yenisey beat Fakel 2-3 away in round 8 (sports.ru); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Yenisey ML 1.51 (away p 0.63 < 0.75)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sports.ru/volleyball/1117443070-chempionat-rossii-po-volejbolu-9-j-tur.html",
+   "https://stavka.tv/matches/volleyball/21-11-2026-fakel-novy-urengoy-dinamo-moscow",
+   "https://volley.ru/calendar/01KW9SZKA9FMZY1V2E57PF044W/current"
+  ]
+ },
+ {
+  "eid": "sr:match:75139238",
+  "fx": "Oksil v Randaberg Volleyball",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Norwegian Eliteserien women, 16:00 local (NTB), which matches the board. Women's competition: no picks by rule; checked date/venue only.",
+  "news": "Øksil v Randaberg 16:00 Sat (NTB)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://itromso.no/sport/n/qOLO8z/ntb-sportens-uke-pm-16-23-november-2026",
+   "https://itromso.no/sport/n/EbWX7G/ntb-sportens-helgemeny-21-23-november"
+  ]
+ },
+ {
+  "eid": "sr:match:74599456",
+  "fx": "CA Madalena v AA Espinho",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Portuguese Liga A1, 15:00 confirmed (vianatv agenda). Madalena has lost its last 6, mostly 1-3; AA Espinho is 4-6.",
+  "news": "Agenda lists CA Madalena x AA Espinho 15h00 Sat",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Espinho ML 1.28 (away p 0.745 < 0.75)",
+  "confidence": 0.15,
+  "sources": [
+   "https://vianatv.pt/voleibol-clube-de-viana-recebe-benfica-no-pavilhao-jose-natario/",
+   "https://www.zerozero.pt/equipa/castelo-da-maia/210957",
+   "https://www.flashscore.pt/voleibol/portugal/campeonato-nacional/"
+  ]
+ },
+ {
+  "eid": "sr:match:72774888",
+  "fx": "KS Lechia Tomaszow Mazowiecki v Kps Plock",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "TAURON 1. Liga. Every Polish source (Płock city calendar, KPS Płock site, PetroNews, Mecze24) lists this as KPS PŁOCK at HOME v Lechia (Szkoły Profesor / Włodkowica hall), but the board has Lechia as home. Sources also disagree on time (17:00 / 18:00 / 00:00). Lechia is 7th on a 3-win run (won at leaders Toruń); KPS is 16th with 1 win.",
+  "news": "KPS Płock hosts Lechia on Sat 21 Nov; Lechia is on a 3-match win run, KPS has 1 win (petronews, kpsplock.pl)",
+  "veto": true,
+  "veto_reason": "Venue conflict: the board has Lechia as home, but club and city sources have KPS Płock hosting; start time also disputed",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://kalendarzimprez.plock.eu/event/kps-plock-%f0%9f%86%9a-lechia-tomaszow-mazowiecki-%f0%9f%8f%90/",
+   "https://kpsplock.pl/terminarz",
+   "https://petronews.pl/pierwszy-sukces-kps-plock-w-debiutanckim-sezonie-bedzie-kolejny/"
+  ]
+ },
+ {
+  "eid": "sr:match:74599458",
+  "fx": "Vitoria SC v Leixoes SC",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Portuguese Liga A1, 21/11 confirmed by Flashscore listing. Even teams (both 6-4); H2H split.",
+  "news": "Vitória v Leixões listed 21/11; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip, no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://vianatv.pt/voleibol-clube-de-viana-recebe-benfica-no-pavilhao-jose-natario/",
+   "https://www.zerozero.pt/equipa/castelo-da-maia/210957",
+   "https://www.flashscore.pt/voleibol/portugal/campeonato-nacional/"
+  ]
+ },
+ {
+  "eid": "sr:match:74599460",
+  "fx": "Voleibol Clube de Viana v SL Benfica",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Viana hosts Benfica at Pavilhão José Natário (vianatv). Viana is 0-10 over the last 10 (0-5 at home). Benfica is 5-5 but its losses look like top-side games; it plays Castelo Maia next per one listing (22/11), so mild rotation risk.",
+  "news": "VC Viana host Benfica at Pavilhão José Natário (vianatv.pt)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "196",
+    "spec": "variant=sr:exact_sets:bestof:5",
+    "desc": "3",
+    "odds": 1.25,
+    "p": 0.7462038813,
+    "why": "Viana 0-10, 0-5 at home; Benfica's recent wins are all 3-0. Mine ~0.76. Rotation risk (possible quick turnaround) keeps it marginal."
+   }
+  ],
+  "avoid": "Benfica ML 1.03 (below floor)",
+  "confidence": 0.2,
+  "sources": [
+   "https://vianatv.pt/voleibol-clube-de-viana-recebe-benfica-no-pavilhao-jose-natario/",
+   "https://www.zerozero.pt/equipa/castelo-da-maia/210957",
+   "https://www.flashscore.pt/voleibol/portugal/campeonato-nacional/"
+  ]
+ },
+ {
+  "eid": "sr:match:74602886",
+  "fx": "Css Cne Lapi Dej Scm Zalau v CS Stiinta Explorari Baia Mare",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Romanian Divizia A1 round 6, 18:00 local in Zalău (eMaramures), which matches the board's 16:00 UTC. Zalău is 5-1 at home; Baia Mare is 3-7 and 1-4 away.",
+  "news": "Știința Explorări Baia Mare play away at SCM Zalău, Sat 18:00 (eMaramures)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "201",
+    "spec": null,
+    "desc": "Home/Home",
+    "odds": 1.25,
+    "p": 0.755587107,
+    "why": "Zalău 5-1 at home with 3-0 wins; Baia Mare 1-4 away, losing 0-3. Mine ~0.77."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.emaramures.ro/volei-divizia-a1-stiinta-explorari-joaca-in-deplasare-la-zalau/",
+   "https://frvolei.ro/etapa-6-volei-masculin-derby-dinamo-steaua/",
+   "https://frvolei.ro/"
+  ]
+ },
+ {
+  "eid": "sr:match:74602876",
+  "fx": "Rapid Bucharesti v CS Arcada Galati",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Divizia A1 round 6, 18:00 local. Arcada is 3rd (10 pts) and Rapid mid-table. Even price.",
+  "news": "Rapid v Arcada 18:00 Sat; Arcada 3rd on 10 pts (frvolei)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin flip",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.emaramures.ro/volei-divizia-a1-stiinta-explorari-joaca-in-deplasare-la-zalau/",
+   "https://frvolei.ro/etapa-6-volei-masculin-derby-dinamo-steaua/",
+   "https://frvolei.ro/"
+  ]
+ },
+ {
+  "eid": "sr:match:74603780",
+  "fx": "Csm Volei Alba Blaj v CSU Targu Mures",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Romanian women's A1 round 8, 18:00 local, which matches the board. Women's competition: no picks by rule; checked date/venue only.",
+  "news": "Alba Blaj host Medicina Târgu Mureș 18:00 (frvolei)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://frvolei.ro/corona-brasov-dinamo-etapa-8-volei-feminin/",
+   "https://www.flashscore.com/match/volleyball/alba-blaj-rwtHfH6N/targu-mures-IX6YQMpp/"
+  ]
+ },
+ {
+  "eid": "sr:match:74602878",
+  "fx": "Stiinta Bucuresti v CS Unirea Dej",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Divizia A1 round 6, 18:30 local, which matches the board. Unirea Dej is 7-3 (feed has a corrupted '12-15' entry); Știința is 3-7.",
+  "news": "CSU Știința București v Unirea Dej Sat 18:30 (frvolei round preview)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unirea ML 1.64 (away p 0.58 < 0.75); form feed corrupted",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.emaramures.ro/volei-divizia-a1-stiinta-explorari-joaca-in-deplasare-la-zalau/",
+   "https://frvolei.ro/etapa-6-volei-masculin-derby-dinamo-steaua/",
+   "https://frvolei.ro/"
+  ]
+ },
+ {
+  "eid": "sr:match:75721016",
+  "fx": "Ok Vojvodina Novi Sad v Ribnica Kraljevo",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Serbian Superliga round 5, small hall Spens 17:30, which matches the board. Promoted Ribnica is LAST with 0 wins and 0 points after 4 rounds; Vojvodina is going for a 4th straight win.",
+  "news": "Vojvodina host Ribnica seeking a 4th straight win; Ribnica bottom without a point (021.rs)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "201",
+    "spec": null,
+    "desc": "Home/Home",
+    "odds": 1.26,
+    "p": 0.7499,
+    "why": "Ribnica pointless and last; Vojvodina on a 3-win run. Mine ~0.78."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.021.rs/novi-sad/sport/461951/odbojkasi-vojvodine-protiv-ribnice-za-cetvrtu-vezanu-pobedu"
+  ]
+ },
+ {
+  "eid": "sr:match:72765154",
+  "fx": "Warta Zawiercie v MKS Slepsk Suwalki",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "PlusLiga. Warta Zawiercie (recent champions) is 7-3 with wins mostly 3-0; Ślepsk is 2-8 and losing tight 2-3s.",
+  "news": "no fixture-specific news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "201",
+    "spec": null,
+    "desc": "Home/Home",
+    "odds": 1.23,
+    "p": 0.7681317055,
+    "why": "Warta 7-3 with 3-0 wins v Ślepsk 2-8; first set plus match for the clear class gap. Mine ~0.79; Ślepsk takes sets late (2-3 losses), less so early."
+   }
+  ],
+  "avoid": "Exact 3 sets (Ślepsk has gone 5 sets often)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.polsatsport.pl/wiadomosc/2026-11-20/tauron-liga-asseco-resovia-rzeszow-pge-giek-skra-belchatow-transmisja-tv-oraz-stream-online/",
+   "https://siatka.org/pokaz/plusliga-terminarz-2026-2027/",
+   "https://www.sofascore.com/volleyball/match/asseco-resovia-rzeszow-pge-skra-belchatow/fuksoCp"
+  ]
+ },
+ {
+  "eid": "sr:match:74599462",
+  "fx": "Castelo Maia GC v AA Sao Mamede",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Portuguese Liga A1, 17:00 confirmed by vianatv and Zerozero. One Flashscore listing also had Castelo Maia v Benfica on 22/11 (back-to-back?), so this is weakly sourced.",
+  "news": "Castêlo da Maia x São Mamede 17h00 Sat (vianatv, zerozero)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "São Mamede ML 1.45 (away p 0.65)",
+  "confidence": 0.1,
+  "sources": [
+   "https://vianatv.pt/voleibol-clube-de-viana-recebe-benfica-no-pavilhao-jose-natario/",
+   "https://www.zerozero.pt/equipa/castelo-da-maia/210957",
+   "https://www.flashscore.pt/voleibol/portugal/campeonato-nacional/"
+  ]
+ },
+ {
+  "eid": "sr:match:74603786",
+  "fx": "Csm Corona Brasov v CS Dinamo Bucuresti",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Romanian women's A1 round 8, 19:00 local, which matches the board. Dinamo is the only unbeaten team. Women's competition: no picks by rule; checked date/venue only.",
+  "news": "Corona try to stop unbeaten Dinamo, 19:00 (frvolei)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://frvolei.ro/corona-brasov-dinamo-etapa-8-volei-feminin/",
+   "https://www.flashscore.com/match/volleyball/alba-blaj-rwtHfH6N/targu-mures-IX6YQMpp/"
+  ]
+ },
+ {
+  "eid": "sr:match:72775294",
+  "fx": "KS Palac Bydgoszcz v LKS Lodz",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Tauron Liga Kobiet, 19:00 local, which matches the board. Women's competition: no picks by rule; checked date/venue only.",
+  "news": "Pałac Bydgoszcz v ŁKS 19:00 Sat (sport1); TV uncertain",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport1.pl/tauron-liga-kobiet-2026-2027-terminarz-mecze-wyniki-tabela-transmisje-gdzie-ogladac-kto-gra-kiedy-i-o-ktorej-godzinie",
+   "https://bkssa.pl/zapowiedz-pge-budowlani-lodz-bks-zgo-bielsko-biala/"
+  ]
+ },
+ {
+  "eid": "sr:match:72764976",
+  "fx": "KS Arka Tempo Chelm v Trefl Gdansk",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "PlusLiga, evenly matched (both 4-6).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin flip",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.polsatsport.pl/wiadomosc/2026-11-20/tauron-liga-asseco-resovia-rzeszow-pge-giek-skra-belchatow-transmisja-tv-oraz-stream-online/",
+   "https://siatka.org/pokaz/plusliga-terminarz-2026-2027/",
+   "https://www.sofascore.com/volleyball/match/asseco-resovia-rzeszow-pge-skra-belchatow/fuksoCp"
+  ]
+ },
+ {
+  "eid": "sr:match:74599464",
+  "fx": "Ala Gondomar v SC Espinho",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Portuguese Liga A1, 'Ala Nun'Álvares (Gondomar) x SC Espinho' 20h00 (vianatv), which matches the board. SC Espinho is 7-3.",
+  "news": "Ala Nun'Álvares x SC Espinho 20h00 Sat (vianatv)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "SC Espinho ML 1.32 (away p 0.72 < 0.75)",
+  "confidence": 0.1,
+  "sources": [
+   "https://vianatv.pt/voleibol-clube-de-viana-recebe-benfica-no-pavilhao-jose-natario/",
+   "https://www.zerozero.pt/equipa/castelo-da-maia/210957",
+   "https://www.flashscore.pt/voleibol/portugal/campeonato-nacional/"
+  ]
+ },
+ {
+  "eid": "sr:match:76682398",
+  "fx": "Deportivo Soan v Regatas Lima",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Peru women's league round 6 at Coliseo Lucha Fuentes (neutral venue), 17:00 Lima, which matches the board's 22:00 UTC. Women's competition: no picks by rule; checked date/venue only.",
+  "news": "Soan v Regatas 5:00 pm Sat at Coliseo Lucha Fuentes (Ahora, El Comercio)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://ahora.com.pe/deportes/entradas-fecha-6-liga-peruana-voley-2026-2027",
+   "https://rpp.pe/voley/mas-voley/programacion-de-la-fecha-6-de-la-etapa-1-de-liga-peruana-de-voley-2026-2027-en-vivo-partidos-fechas-y-horarios-alianza-lima-universitario-san-martin-regatas-lima-noticia-1717948",
+   "https://elcomercio.pe/deporte-total/voley/liga-peruana-de-voley-2026-fixture-partidos-y-resultados-de-la-fecha-6-noticia/"
+  ]
+ },
+ {
+  "eid": "sr:match:76682480",
+  "fx": "Circolo v Universitario de Deportes",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Peru women's league round 6. Ahora and El Comercio say 19:00 Lima (= board 00:00 UTC), but RPP says 14:45. Neutral venue. Women's competition: no picks by rule; checked date/venue only.",
+  "news": "Circolo v Universitario: 19:00 (Ahora/El Comercio) vs 14:45 (RPP)",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (19:00 v 14:45 Lima); women's",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://ahora.com.pe/deportes/entradas-fecha-6-liga-peruana-voley-2026-2027",
+   "https://rpp.pe/voley/mas-voley/programacion-de-la-fecha-6-de-la-etapa-1-de-liga-peruana-de-voley-2026-2027-en-vivo-partidos-fechas-y-horarios-alianza-lima-universitario-san-martin-regatas-lima-noticia-1717948",
+   "https://elcomercio.pe/deporte-total/voley/liga-peruana-de-voley-2026-fixture-partidos-y-resultados-de-la-fecha-6-noticia/"
+  ]
+ }
+]

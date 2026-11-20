@@ -1,0 +1,662 @@
+[
+ {
+  "eid": "sr:match:72813940",
+  "fx": "Club Tijuana de Caliente v Atlante FC U21",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga MX U21 J17 (final regular round). KO 21:45 UTC Fri 20 Nov - may already be in play by posting time.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U21 youth fixture: no result/handicap picks by rule; goals only in clear mismatch (none here). Also likely already started: do not book.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.e-consulta.com/deportes/la-franja-esta-en-liguilla",
+   "https://es.besoccer.com/competicion/clasificacion/liga-mx-sub-21-apertura/2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74063618",
+  "fx": "Santiago FC v Dragones de Oaxaca",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Premier A (3rd tier, Group I) after Nov break. Santiago home 4/5 wins GF 4.8; Dragones 0W in 4 away.",
+  "news": "no news found (league schedule not confirmed by an independent source)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "thin 3rd-tier league, no news; Unders banned (amateur/regional); no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liga_Premier_de_M%C3%A9xico",
+   "https://www.flashscore.es/futbol/mexico/liga-premier-serie-a/partidos/",
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:74100788",
+  "fx": "Chapulineros de Oaxaca v H2O Purepechas FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Premier (new 3rd-tier top subdivision). H2O Purepechas 0W in 6 away, 0.17 GF away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 p0.73 < 0.82; no anchor",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liga_Premier_de_M%C3%A9xico",
+   "https://www.flashscore.es/futbol/mexico/liga-premier-serie-a/partidos/",
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72055316",
+  "fx": "Club Puebla v Atletico San Luis",
+  "sport": "football",
+  "absences": "Puebla: Heriberto Jurado (leg, out to Feb 2027), Sergio Sanabria, Eduardo Navarro (inj). San Luis: Jesus Medina (knee), Joao Pedro Galvao (ACL).",
+  "context": "Liga MX J17, Fri 19:00 CDMX = 01:00 UTC (matches board). Both on 19 pts (13th/14th), mathematically eliminated: dead rubber.",
+  "news": "Both eliminated; Puebla beat Queretaro 2-0, San Luis lost 0-1 to Juarez; several injuries each side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "dead rubber - no result-side; totals mid-band (O1.5 trend 0.65 v p0.80)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.record.com.mx/historia/liga-mx-horarios-y-canales-de-transmision-de-la-jornada-17-del-apertura-2026-2026111822100133426",
+   "https://www.tvazteca.com/aztecadeportes/asi-va-la-tabla-general-del-apertura-2026-antes-de-la-ultima-jornada-de-la-liga-bbva-mx/",
+   "https://queretaro.quadratin.com.mx/liguilla-del-apertura-2026-arrancara-el-25-de-noviembre/",
+   "https://www.periodicocentral.mx/deportes/club-puebla-se-despide-del-apertura-2026-ante-atletico-de-san-luis-con-la-liguilla-perdida/531497/",
+   "https://bolavip.com/mx/ligamx/alineaciones-de-puebla-y-atletico-san-luis-por-la-liga-mx-formaciones-probables"
+  ]
+ },
+ {
+  "eid": "sr:match:72055320",
+  "fx": "Club Tijuana de Caliente v Atlante FC",
+  "sport": "football",
+  "absences": "none reported; Atlante's Bermudez may play final game for club",
+  "context": "Liga MX J17, Fri 21:00 CDMX = 03:00 UTC (one outlet 21:10, ok). Tijuana 10th on 22 pts, must win (top 8 direct, no play-in). Atlante 16th-17th on 14 pts, last game of season, nothing to play for; 6L in last 10.",
+  "news": "Tijuana must win to keep Liguilla hope; Atlante dead rubber; Codere -176 Tijuana.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7927352021,
+    "why": "Must-win Tijuana v dead-rubber Atlante (6L/10, 1.8 GA). DNB protects against Tijuana's draw habit (6D/10). My p 0.81."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7830081926,
+    "why": "Tijuana must chase; Tijuana last6 had 2+ goals in 4/6, Atlante 6/6. Liga MX ~2.8 goals. My p 0.80."
+   }
+  ],
+  "avoid": "Tijuana 1X2 (trend 0.40 v p0.62, draw-heavy); -1 handicap",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.record.com.mx/historia/liga-mx-horarios-y-canales-de-transmision-de-la-jornada-17-del-apertura-2026-2026111822100133426",
+   "https://www.tvazteca.com/aztecadeportes/asi-va-la-tabla-general-del-apertura-2026-antes-de-la-ultima-jornada-de-la-liga-bbva-mx/",
+   "https://queretaro.quadratin.com.mx/liguilla-del-apertura-2026-arrancara-el-25-de-noviembre/",
+   "https://blog.codere.mx/futbol/2026/11/tijuana-vs-atlante-del-apertura-por-el-pase-a-la-liguilla/",
+   "https://heraldodemexico.com.mx/deportes/2026/11/17/tijuana-vs-atlante-a-que-hora-juegan-y-donde-ver-el-partido-de-la-jornada-17-de-la-liga-mx-2920668.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72055318",
+  "fx": "FC Juarez v Atlas FC",
+  "sport": "football",
+  "absences": "none: Squawka says both squads fully available",
+  "context": "Liga MX J17, Fri 21:00 CDMX = 03:00 UTC. Juarez last (11 pts), won 2 of last 3. Atlas 5th (27 pts), qualified-ish, playing for seeding/top 4.",
+  "news": "Atlas 5th seeking better seeding; Juarez bottom but 2 wins in 3; full squads; last H2H Juarez 3-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.46,
+    "p": 0.657157,
+    "why": "Atlas need points for seeding v bottom side; Atlas 3/4 away wins. DNB covers Juarez home-draw risk (last H2H 3-1 Juarez). My p 0.68."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.799756,
+    "why": "Atlas games 5/6 last with 2+ goals (avg 4.0 total); Juarez 4/6. My p 0.81."
+   }
+  ],
+  "avoid": "Atlas 1X2 (away p0.49 < 0.75)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.record.com.mx/historia/liga-mx-horarios-y-canales-de-transmision-de-la-jornada-17-del-apertura-2026-2026111822100133426",
+   "https://www.tvazteca.com/aztecadeportes/asi-va-la-tabla-general-del-apertura-2026-antes-de-la-ultima-jornada-de-la-liga-bbva-mx/",
+   "https://queretaro.quadratin.com.mx/liguilla-del-apertura-2026-arrancara-el-25-de-noviembre/",
+   "https://www.squawka.com/us-es/news/liga-mx/juarez-vs-atlas-pronostico-liga-mx-11-20-26/",
+   "https://libero.pe/estadisticas/partido/fc-juarez-vs-atlas-1551040"
+  ]
+ },
+ {
+  "eid": "sr:match:73866638",
+  "fx": "FC Politehnica Chisinau v FC Zimbru Chisinau",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Moldova Super Liga R19, FMF lists 21 Nov 13:00 local (=11:00 UTC). Zimbru 2nd (35), chasing Sheriff (39); Politehnica 6th (19). LiveSoccerTV lists Sunday 22 Nov (likely stale) - minor conflict.",
+  "news": "FMF official confirms 21 Nov; Zimbru 4 pts behind Sheriff.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Zimbru 1X2 p0.66 < 0.75 away; Home +1.5 banned (fav p >=0.55)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fmf.md/?lang=en",
+   "https://footballdatabase.com/league-scores-tables/moldova-super-liga-2026-2027",
+   "https://www.livesoccertv.com/competitions/moldova/moldovan-national-division/"
+  ]
+ },
+ {
+  "eid": "sr:match:73062432",
+  "fx": "Kelantan Red Warrior FC v Sabah FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malaysia Super League; Kelantan Red Warrior in first-ever top-flight season, conceded 3.5/game last 10 (2-5, 1-5, 0-5 at home). Sabah 5th. KO 21:00 MYT = 13:00 UTC (sources agree).",
+  "news": "Date/venue agree (Sultan Muhammad IV Stadium); Sabah dominated H2H v predecessor club (8W of 10).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.26,
+    "p": 0.750651,
+    "why": "Debutant Kelantan RW leaking 3.5 GA/game, lost 7/10; Sabah 5th. Meets away p>=0.75 gate. My p 0.77."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.695702,
+    "why": "Kelantan games last 6: 7,5,6,4,0,5 goals; GA 3.5. My p 0.72."
+   }
+  ],
+  "avoid": "Sabah -1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Sabah_F.C._season",
+   "https://www.sofascore.com/football/match/kelantan-darul-naim-sabah-fc/EqbsfGAc",
+   "https://www.aiscore.com/head-to-head/soccer-kelantan-the-real-warriors-vs-sabah-fc"
+  ]
+ },
+ {
+  "eid": "sr:match:74079782",
+  "fx": "Naxxar Lions FC v Attard FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Challenge League (2nd tier, semi-pro). Naxxar ~3rd on 16 pts after 7.",
+  "news": "Fixture confirmed on LiveSoccerTV; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur-level 2nd tier; no anchor",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/malta/challenge-league/",
+   "https://www.betexplorer.com/football/malta/challenge-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:74079784",
+  "fx": "Swieqi United FC v Mgarr United FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Challenge League. Swieqi 2nd (16 pts, 5-1-1); home GF 3.2. Mgarr mid-table.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.35,
+    "p": 0.6929142619,
+    "why": "Swieqi 2nd, 5W in 7, 3W1D1L at home v mid-table Mgarr; DNB removes draw. My p 0.70 (low confidence, semi-pro league)."
+   }
+  ],
+  "avoid": "Unders (regional), Swieqi 1X2",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/malta/challenge-league/",
+   "https://www.betexplorer.com/football/malta/challenge-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73866640",
+  "fx": "Sheriff Tiraspol v FC Milsami",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Moldova Super Liga R19, FMF 15:00 local = 13:00 UTC. Sheriff 1st (39 pts, 43-14 GD) need wins to stay ahead of Zimbru (35); Milsami 5th (25).",
+  "news": "FMF lists the match 21 Nov; Sheriff 4 pts clear at top.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.37,
+    "p": 0.687848,
+    "why": "Title race motivation; Sheriff home 3W2D, GF 4.6 at home; Milsami 5th. My p 0.70 (trend only 0.40 due to draws - keep stake small)."
+   }
+  ],
+  "avoid": "Sheriff -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fmf.md/?lang=en",
+   "https://footballdatabase.com/league-scores-tables/moldova-super-liga-2026-2027",
+   "https://www.livesoccertv.com/competitions/moldova/moldovan-national-division/"
+  ]
+ },
+ {
+  "eid": "sr:match:76462928",
+  "fx": "Valletta FC v Floriana FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Premier League; Valletta v Floriana is a historic capital-area rivalry (treat as derby). Sources conflict on Valletta's position (3rd v 4th).",
+  "news": "No reliable current news; only stale fixture listings.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby - no result-side; thin league totals",
+  "confidence": 0.1,
+  "sources": [
+   "https://birkirkarafc.com/",
+   "https://m.aiscore.com/team-valletta-fc/8vrqwni5j9sdqn2/standings",
+   "https://www.livesoccertv.com/competitions/malta/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72813942",
+  "fx": "Universidad Nacional v CF Monterrey U21",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga MX U21 J17; both sides' games very high scoring (Monterrey U21 avg 6.6 total).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U21 youth fixture: no result/handicap picks by rule; goals only in clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.e-consulta.com/deportes/la-franja-esta-en-liguilla",
+   "https://es.besoccer.com/competicion/clasificacion/liga-mx-sub-21-apertura/2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72813946",
+  "fx": "Pachuca U21 v Deportivo Toluca FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga MX U21 J17; Pachuca U21 led table at J9; Toluca U21 10/10 wins.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U21 youth fixture: no result/handicap picks by rule; goals only in clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.e-consulta.com/deportes/la-franja-esta-en-liguilla",
+   "https://es.besoccer.com/competicion/clasificacion/liga-mx-sub-21-apertura/2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74079786",
+  "fx": "Vittoriosa Stars v Victoria Hotspurs FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Challenge League. Standings (LiveSoccerTV) show Vittoriosa 14th and Victoria Hotspurs 15th, both 6 pts - but board prices Victoria as clear away fav (p0.57). Data conflict. Kick-off 16:30 local per BetExplorer (=15:30 UTC, matches).",
+  "news": "Bottom-of-table clash; standings v odds conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "data_conflict on team strength; no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/malta/challenge-league/",
+   "https://www.betexplorer.com/football/malta/challenge-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:74079788",
+  "fx": "Zurrieq v Zebbug Rangers FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Challenge League. Zurrieq 8th (10 pts).",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no anchor; Under 3.5 p0.70 < 0.82",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/malta/challenge-league/",
+   "https://www.betexplorer.com/football/malta/challenge-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:76802940",
+  "fx": "AS Real Bamako v AS Bakaridjan",
+  "sport": "football",
+  "absences": "n/a",
+  "context": "Mali Premiere Division J4. BetExplorer lists AS Kayes v Real Bamako on 21 Nov 17:00, another listing has Real Bamako v Bakaridjan - fixture conflict.",
+  "news": "Conflicting fixture listings for Real Bamako on 21 Nov.",
+  "veto": true,
+  "veto_reason": "fixture/opponent conflict between sources (AS Kayes v Real Bamako per BetExplorer)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/match/football/cs-bamako-2XMt29oT/djoliba-YBkx7bvs/",
+   "https://www.echosmedias.org/ligue-1-professionnelle-2026-2027-les-resultats-de-la-2e-journee/",
+   "https://www.betexplorer.com/football/mali/premiere-division/",
+   "https://us.soccerway.com/game/bougouba-UZZqsih6/usfas-bamako-Y1KHxbeg/"
+  ]
+ },
+ {
+  "eid": "sr:match:76802938",
+  "fx": "Djoliba AC v Centre Sportif de Bamako",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mali Premiere Division J4, Sat 17:00 local (=17:00 UTC per Flashscore; board says 16:00 UTC - 1h kick-off discrepancy, Mali is UTC+0) at Complexe Sportif Heremakono. Djoliba reigning champions, drew J1, beat Onze Createurs 2-0 in J2.",
+  "news": "Djoliba v CS Bamako confirmed for 21 Nov; KO time differs by 1h (17:00 v board 16:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7566121204,
+    "why": "Reigning champion Djoliba (6W/10, GA 0.8) at home v CS Bamako; DNB covers Mali's high draw rate. My p 0.76. Minor KO-time discrepancy only."
+   }
+  ],
+  "avoid": "Unders (p<0.82), Djoliba 1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.flashscore.com/match/football/cs-bamako-2XMt29oT/djoliba-YBkx7bvs/",
+   "https://www.echosmedias.org/ligue-1-professionnelle-2026-2027-les-resultats-de-la-2e-journee/",
+   "https://www.betexplorer.com/football/mali/premiere-division/",
+   "https://us.soccerway.com/game/bougouba-UZZqsih6/usfas-bamako-Y1KHxbeg/"
+  ]
+ },
+ {
+  "eid": "sr:match:76463328",
+  "fx": "Birzebbuga St. Peters FC v Birkirkara FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Premier League at National Stadium Ta' Qali, 17:30 local = 16:30 UTC (Birkirkara site agrees; Birkirkara listed as away). Birkirkara 1st on 16 pts in Opening Round per club site, but only 2W in last 10 per SR data; Birzebbuga 7th.",
+  "news": "Club site confirms date/time; Birkirkara top of table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "form v table conflict; Birkirkara 1X2 p0.51",
+  "confidence": 0.1,
+  "sources": [
+   "https://birkirkarafc.com/",
+   "https://m.aiscore.com/team-valletta-fc/8vrqwni5j9sdqn2/standings",
+   "https://www.livesoccertv.com/competitions/malta/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72813948",
+  "fx": "Santos Laguna v Club Leon",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga MX U21 J17.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U21 youth fixture: no result/handicap picks by rule; goals only in clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.e-consulta.com/deportes/la-franja-esta-en-liguilla",
+   "https://es.besoccer.com/competicion/clasificacion/liga-mx-sub-21-apertura/2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74063624",
+  "fx": "Mineros de Fresnillo FC v Artesanos Metepec FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Premier A; Mineros home 5W1D (GA 0.33), Artesanos 1 loss in 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no anchor; Unders banned in regional leagues",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liga_Premier_de_M%C3%A9xico",
+   "https://www.flashscore.es/futbol/mexico/liga-premier-serie-a/partidos/",
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:76802942",
+  "fx": "Derby Academie v Afrique Football Elite",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mali Premiere Division J4.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no anchor",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/match/football/cs-bamako-2XMt29oT/djoliba-YBkx7bvs/",
+   "https://www.echosmedias.org/ligue-1-professionnelle-2026-2027-les-resultats-de-la-2e-journee/",
+   "https://www.betexplorer.com/football/mali/premiere-division/",
+   "https://us.soccerway.com/game/bougouba-UZZqsih6/usfas-bamako-Y1KHxbeg/"
+  ]
+ },
+ {
+  "eid": "sr:match:76802944",
+  "fx": "Usfas Bamako v Union Sportive Bougouba",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mali Premiere Division J4; Soccerway confirms USFAS v Bougouba 21 Nov.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no anchor",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/match/football/cs-bamako-2XMt29oT/djoliba-YBkx7bvs/",
+   "https://www.echosmedias.org/ligue-1-professionnelle-2026-2027-les-resultats-de-la-2e-journee/",
+   "https://www.betexplorer.com/football/mali/premiere-division/",
+   "https://us.soccerway.com/game/bougouba-UZZqsih6/usfas-bamako-Y1KHxbeg/"
+  ]
+ },
+ {
+  "eid": "sr:match:74100792",
+  "fx": "Pioneros de Cancun v Lobos Ulmx",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Premier, Group B R13 21 Nov. Pioneros home 3W2D, GA 0.4.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7789986078,
+    "why": "Pioneros unbeaten at home (3W2D, 0.4 GA) v Lobos ULMX (4L in 10). Statistic-only anchor - fill at best. My p 0.78."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liga_Premier_de_M%C3%A9xico",
+   "https://www.flashscore.es/futbol/mexico/liga-premier-serie-a/partidos/",
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:74063130",
+  "fx": "Internacional Laguna v CD Ayense AC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Premier B (4th tier). Inter Laguna conceding 3.9/game incl. 0-10, but Ayense 0W in 5 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "thin 4th tier, conflicting form",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liga_Premier_de_M%C3%A9xico",
+   "https://www.flashscore.es/futbol/mexico/liga-premier-serie-a/partidos/",
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72055324",
+  "fx": "CF Pachuca v Deportivo Toluca FC",
+  "sport": "football",
+  "absences": "Toluca: Helinho suspended (5 yellows); Franco Romero may be rested before Liguilla. Pachuca: none reported.",
+  "context": "Liga MX J17, Sat 16:50 CDMX = 22:50 UTC (some list 17:00). Pachuca 9th on 22 pts, must win and hope. Toluca 4th on 27, already qualified; Liguilla QF starts 25-26 Nov (3-4 days later) -> rotation risk for Toluca. Big-club clash.",
+  "news": "Pachuca must win; Toluca qualified, Helinho banned, Romero could be rested; QFs 25-26 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.47,
+    "p": 0.651654,
+    "why": "Must-win Pachuca chasing v qualified, rotating Toluca without Helinho; Pachuca last 6 all had 3+ goals, Toluca 4/6. My p 0.68."
+   }
+  ],
+  "avoid": "result-sides (big-club clash), Toluca anything (rotation); Pachuca +1.0/+1.5 tempting (trend 0.85/0.95) but excluded under big-club rule",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.record.com.mx/historia/liga-mx-horarios-y-canales-de-transmision-de-la-jornada-17-del-apertura-2026-2026111822100133426",
+   "https://www.tvazteca.com/aztecadeportes/asi-va-la-tabla-general-del-apertura-2026-antes-de-la-ultima-jornada-de-la-liga-bbva-mx/",
+   "https://queretaro.quadratin.com.mx/liguilla-del-apertura-2026-arrancara-el-25-de-noviembre/",
+   "https://bolavip.com/mx/toluca-fc/las-2-bajas-que-tendria-toluca-vs-pachuca-para-la-jornada-17",
+   "https://news.jointly.mx/jornada-17-apertura-2026-liga-mx-escenarios-liguilla/",
+   "https://es-us.noticias.yahoo.com/tuzos-juegan-liguilla-diablos-clasificados-073707997.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74100798",
+  "fx": "Inter Playa Del Carmen v Cordobes FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Premier.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no anchor",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liga_Premier_de_M%C3%A9xico",
+   "https://www.flashscore.es/futbol/mexico/liga-premier-serie-a/partidos/",
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:74100794",
+  "fx": "Tapachula Soconusco FC v Irapuato",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Premier, 21 Nov (es.wikipedia lists Irapuato v Tapachula ordering - possible home/away ambiguity). Irapuato 9W/10, 4/4 away; Tapachula 8L/10.",
+  "news": "Fixture date agrees; one source orders it Irapuato v Tapachula (venue ambiguity).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "possible venue conflict -> no picks; Irapuato -1.5 only 0.60",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liga_Premier_de_M%C3%A9xico",
+   "https://www.flashscore.es/futbol/mexico/liga-premier-serie-a/partidos/",
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72055322",
+  "fx": "Club Santos Laguna v Club Leon",
+  "sport": "football",
+  "absences": "Leon: Ivan Rodriguez and Juan Guevara out (Mediotiempo: important absences). Santos: none reported.",
+  "context": "Liga MX J17, Sat 17:00 CDMX = 23:00 UTC at TSM Corona. Santos 6th (25): a draw seals Liguilla. Leon 7th-8th (23): must win to be safe. Santos 5/5 home wins, 0.2 GA at home, most clean sheets (6).",
+  "news": "Both playing for Liguilla; Santos need only a draw; Leon missing two key players.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.5,
+    "p": 0.639259,
+    "why": "= Santos win or draw. Santos 5/5 home wins conceding 0.2; draw is enough for them; Leon without Ivan Rodriguez and Guevara. My p 0.69."
+   }
+  ],
+  "avoid": "Unders (fav not clear, p<0.82); Leon anything",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.record.com.mx/historia/liga-mx-horarios-y-canales-de-transmision-de-la-jornada-17-del-apertura-2026-2026111822100133426",
+   "https://www.tvazteca.com/aztecadeportes/asi-va-la-tabla-general-del-apertura-2026-antes-de-la-ultima-jornada-de-la-liga-bbva-mx/",
+   "https://queretaro.quadratin.com.mx/liguilla-del-apertura-2026-arrancara-el-25-de-noviembre/",
+   "https://www.mediotiempo.com/futbol/liga-mx/sabor-liguilla-santos-leon-juegan-clasificacion-j17",
+   "https://www.elsiglodetorreon.com.mx/noticia/2026/santos-laguna-y-la-pelea-por-la-liguilla-apertura-2026.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74100796",
+  "fx": "Jaguares FC v Los Cabos United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Premier (draws go to shootouts: 7-8, 9-8 scores in feed).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no anchor",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liga_Premier_de_M%C3%A9xico",
+   "https://www.flashscore.es/futbol/mexico/liga-premier-serie-a/partidos/",
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ }
+]

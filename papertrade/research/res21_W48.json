@@ -1,0 +1,644 @@
+[
+ {
+  "eid": "sr:match:73113802",
+  "fx": "Olympiakos Pireaus v Panathlitikos SF Sykeon",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's GBL; Olympiakos 8-2 (95-58, 77-58 recently) v Panathlitikos 0-4 away, losing 64-95, 51-98 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no result-side picks; goals only in a clear mismatch. No total priced >=0.74 within 1.18-2.2; the -20.5 line is a coin flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/basketball/greece/"
+  ]
+ },
+ {
+  "eid": "sr:match:74750494",
+  "fx": "Iraklis 2022 v BC AEK Athens",
+  "sport": "basketball",
+  "absences": "Iraklis: Hasan Diarra (in USA, birth of first child), Giorgos Arnokouros (injured); Jacob Hatson left the club; new signing Michalis Liapis available.",
+  "context": "GBL round 8, Ivanofeio 15:00 local. Iraklis 4-2 at home; AEK 1-3 away. Flashscore listing (via search summary) dated the GBL round 22.11, but club/league Greek sources and BetExplorer/Proballers all give Sat 21/11 with local times matching SportyBet UTC kick-offs; treated as a search artefact, not a veto.",
+  "news": "Iraklis without Diarra and Arnokouros against AEK (sdna/novasports).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Iraklis ML/handicap (two rotation players out). The AEK +8.5 catch: sim 0.63 is far below house 0.68. Over 144.5: the absences cut home scoring and Iraklis scored 53 in a recent home game. No pick.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sdna.gr/mpasket/1488610_iraklis-horis-ntiara-kai-arnokoyro-apenanti-stin-aek",
+   "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15241372/iraklis-me-apousies-kontra-stin-aek/",
+   "https://allstarbasket.gr/ellada/greek-basketball-league/gbl-oi-arithmoi-prin-apo-tin-8i-agonistiki-ksexorizei-to-paok-aris",
+   "https://www.betexplorer.com/basketball/greece/basket-league/",
+   "https://www.proballers.com/basketball/league/50/greece-gbl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:74750496",
+  "fx": "BC Kolossos Rhodes v Promitheas Patras BC",
+  "sport": "basketball",
+  "absences": "none found for either side",
+  "context": "GBL round 8, Kallithea (Rhodes) 16:00 local. Kolossos 5-5, Promitheas 4-6 and 1-3 away. Flashscore listing (via search summary) dated the GBL round 22.11, but club/league Greek sources and BetExplorer/Proballers all give Sat 21/11 with local times matching SportyBet UTC kick-offs; treated as a search artefact, not a veto.",
+  "news": "Fixture and referees confirmed; no absence reports.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=176.5",
+    "desc": "Under 176.5",
+    "odds": 1.25,
+    "p": 0.7688,
+    "why": "Line centre 164.5; 80% of last-20 combined games under; sim 0.761; my p ~0.77."
+   }
+  ],
+  "avoid": "Kolossos ML 1.28 (sim 0.72, below the 0.75 gate).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sdna.gr/mpasket/1488610_iraklis-horis-ntiara-kai-arnokoyro-apenanti-stin-aek",
+   "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15241372/iraklis-me-apousies-kontra-stin-aek/",
+   "https://allstarbasket.gr/ellada/greek-basketball-league/gbl-oi-arithmoi-prin-apo-tin-8i-agonistiki-ksexorizei-to-paok-aris",
+   "https://www.betexplorer.com/basketball/greece/basket-league/",
+   "https://www.proballers.com/basketball/league/50/greece-gbl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:73451878",
+  "fx": "Medipolis SC Jena v Rostock Seawolves",
+  "sport": "basketball",
+  "absences": "Jena: Kristofer Krause back (defence); Jena roster stretched by injuries (BBL preview).",
+  "context": "BBL round 10, 16:00 local, live on MDR. Jena last place (2-7) and commit the most turnovers in the league (17/game); Rostock called a top side away too.",
+  "news": "BBL preview: 'Nagelprobe' at bottom side Jena; Rostock also strong away.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=156.5",
+    "desc": "Over 156.5",
+    "odds": 1.26,
+    "p": 0.7693,
+    "why": "Jena concede 90/game and turn it over 17 times (transition points); centre 168.5; trend 0.75, sim 0.745; my p ~0.77."
+   }
+  ],
+  "avoid": "Rostock ML 1.32 (p 0.74, below the 0.75 away gate; Rostock 1-3 away in our data). Jena +15.5 (15+ catch for a weak side, banned).",
+  "confidence": 0.3,
+  "sources": [
+   "https://easycredit-bbl.de/de/n/news/2026/november/live-und-free-im-mdr-nagelprobe-beim-schlusslicht-jena-rostock-auch-auswaerts-ein-spitzenteam",
+   "https://easycredit-bbl.de/de/n/news/2026/november/euro-heimspiele-in-chemnitz-frankfurt-trier-und-weissenfels-louis-olinde-mit-venedig-bei-den-skyliners",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-1bl100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72660468",
+  "fx": "Bba Ludwigsburg v Soba Dragons Rhondorf",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProB Süd, 16:00 local (schedule confirmed). Porsche BBA Ludwigsburg is the MHP academy/development side (youth-reserve character). Ludwigsburg 3-7, Rhöndorf 1-4 away.",
+  "news": "Schedule confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Academy side: no result-side picks; no total within the gates.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.2basketballbundesliga.de/spielplaene-prob/",
+   "https://www.2basketballbundesliga.de/wp-content/print/liga_db/Spielplan_ProB_Sued_2026_2027_Hauptrunde.pdf",
+   "https://www.2basketballbundesliga.de/wp-content/print/liga_db/Spielplan_ProB_Nord_2026_2027_Hauptrunde.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:73113798",
+  "fx": "Athinaikos v Panathinaikos BC",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's GBL; Panathinaikos women 9-1 (5-1 away) are priced as underdogs at 4.40 v Athinaikos 7-3. The price looks inconsistent with form; possible data or roster issue.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league; the price/form divergence is a red flag. Nothing.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/basketball/greece/"
+  ]
+ },
+ {
+  "eid": "sr:match:74750498",
+  "fx": "AE Doxa Lefkadas v Peristeri Athens",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "GBL round 8, Lefkada 17:00 local. Peristeri 7-3 recent; Doxa 2-3 at home. Flashscore listing (via search summary) dated the GBL round 22.11, but club/league Greek sources and BetExplorer/Proballers all give Sat 21/11 with local times matching SportyBet UTC kick-offs; treated as a search artefact, not a veto.",
+  "news": "Fixture and referees confirmed; no absence reports.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=148.5",
+    "desc": "Over 148.5",
+    "odds": 1.23,
+    "p": 0.7805,
+    "why": "Centre 160.5; 85% of the last 20 combined games went over; sim 0.759; my p ~0.78."
+   }
+  ],
+  "avoid": "Result sides (near pick'em).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sdna.gr/mpasket/1488610_iraklis-horis-ntiara-kai-arnokoyro-apenanti-stin-aek",
+   "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15241372/iraklis-me-apousies-kontra-stin-aek/",
+   "https://allstarbasket.gr/ellada/greek-basketball-league/gbl-oi-arithmoi-prin-apo-tin-8i-agonistiki-ksexorizei-to-paok-aris",
+   "https://www.betexplorer.com/basketball/greece/basket-league/",
+   "https://www.proballers.com/basketball/league/50/greece-gbl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:73113338",
+  "fx": "AEPS Machites Peiramatiko v Panerythraikos AS",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Greek Elite League (2nd tier) round 9, 17:00 local, HBF YouTube stream. Machites 4-0 at home; Panerythraikos 2-3 away. Preview calls it close.",
+  "news": "AllStarBasket confirms the 21/11 17:00 pairings; ERT's season schedule lists different pairings for that date.",
+  "veto": true,
+  "veto_reason": "Schedule conflict: ERT schedule gives different pairings for 21/11 than AllStarBasket/HBF; thin second-tier coverage.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.allstarbasket.gr/ellada/elite-league/elite-league-tzampol-stin-9i-agonistiki-me-agex-layrio",
+   "https://www.ertsports.gr/mpasket/elite-league/to-analytiko-programma-tis-elite-league/",
+   "https://www.foxbet.gr/prognostika/454873-machites-piramatiko-panerithraikos"
+  ]
+ },
+ {
+  "eid": "sr:match:73113336",
+  "fx": "AO Amintas v AE Glafkos Esperos",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Greek Elite League (2nd tier) round 9, 17:00 local, HBF YouTube stream. Amintas 4-0 at home; Glafkos 0-4 away.",
+  "news": "AllStarBasket confirms the 21/11 17:00 pairings; ERT's season schedule lists different pairings for that date.",
+  "veto": true,
+  "veto_reason": "Schedule conflict: ERT schedule gives different pairings for 21/11 than AllStarBasket/HBF; thin second-tier coverage.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.allstarbasket.gr/ellada/elite-league/elite-league-tzampol-stin-9i-agonistiki-me-agex-layrio",
+   "https://www.ertsports.gr/mpasket/elite-league/to-analytiko-programma-tis-elite-league/",
+   "https://www.foxbet.gr/prognostika/454873-machites-piramatiko-panerithraikos"
+  ]
+ },
+ {
+  "eid": "sr:match:73113334",
+  "fx": "Asa Koroivos v Proteas Voulas",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Greek Elite League (2nd tier) round 9, 17:00 local, HBF YouTube stream. Proteas Voulas led the Elite League earlier in the season; Koroivos 3-7.",
+  "news": "AllStarBasket confirms the 21/11 17:00 pairings; ERT's season schedule lists different pairings for that date.",
+  "veto": true,
+  "veto_reason": "Schedule conflict: ERT schedule gives different pairings for 21/11 than AllStarBasket/HBF; thin second-tier coverage.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.allstarbasket.gr/ellada/elite-league/elite-league-tzampol-stin-9i-agonistiki-me-agex-layrio",
+   "https://www.ertsports.gr/mpasket/elite-league/to-analytiko-programma-tis-elite-league/",
+   "https://www.foxbet.gr/prognostika/454873-machites-piramatiko-panerithraikos"
+  ]
+ },
+ {
+  "eid": "sr:match:73113328",
+  "fx": "GS Sofadon v AS Papagou",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Greek Elite League (2nd tier) round 9, 17:00 local, HBF YouTube stream. Sofadon 4-1 at home; Papagou 3-1 away.",
+  "news": "AllStarBasket confirms the 21/11 17:00 pairings; ERT's season schedule lists different pairings for that date.",
+  "veto": true,
+  "veto_reason": "Schedule conflict: ERT schedule gives different pairings for 21/11 than AllStarBasket/HBF; thin second-tier coverage.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.allstarbasket.gr/ellada/elite-league/elite-league-tzampol-stin-9i-agonistiki-me-agex-layrio",
+   "https://www.ertsports.gr/mpasket/elite-league/to-analytiko-programma-tis-elite-league/",
+   "https://www.foxbet.gr/prognostika/454873-machites-piramatiko-panerithraikos"
+  ]
+ },
+ {
+  "eid": "sr:match:74750500",
+  "fx": "Panathinaikos BC v BC Maroussi Athens",
+  "sport": "basketball",
+  "absences": "PAO (Nov 8 v AEK) missed Kendrick Nunn (Qatar trip), Kostas Sloukas (adductor), Gershon Yabusele (virus), Rogkavopoulos, Mantzoukas; Juancho Hernangomez and Bonga rested earlier. No update for Maroussi.",
+  "context": "GBL round 8, 17:30 local, Telekom Center. PAO is a heavy favourite (1.03, -18.5); big rotation risk around EuroLeague.",
+  "news": "Last absence report before the Maroussi game lists Nunn, Sloukas, Yabusele and others out.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=152.5",
+    "desc": "Over 152.5",
+    "odds": 1.24,
+    "p": 0.7753,
+    "why": "Centre 164.5; Maroussi concede 85; even a rotated PAO bench runs; trend 0.75, sim 0.75; my p ~0.76."
+   }
+  ],
+  "avoid": "Margin markets (rotation risk on -18.5); ML 1.03.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sdna.gr/mpasket/1488610_iraklis-horis-ntiara-kai-arnokoyro-apenanti-stin-aek",
+   "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15241372/iraklis-me-apousies-kontra-stin-aek/",
+   "https://allstarbasket.gr/ellada/greek-basketball-league/gbl-oi-arithmoi-prin-apo-tin-8i-agonistiki-ksexorizei-to-paok-aris",
+   "https://www.betexplorer.com/basketball/greece/basket-league/",
+   "https://www.proballers.com/basketball/league/50/greece-gbl/schedule",
+   "https://www.panhellenicpost.com/2026/11/08/stoiximan-gbl-%CE%B1%CE%B5%CE%BA-%CF%80%CE%B1%CE%BD%CE%B1%CE%B8%CE%B7%CE%BD%CE%B1%CF%8A%CE%BA%CF%8C%CF%82-aktor-74-83"
+  ]
+ },
+ {
+  "eid": "sr:match:74750502",
+  "fx": "PAOK BC v BC Aris Thessaloniki",
+  "sport": "basketball",
+  "absences": "Aris: Stefan Jovic (muscle problem) and Vasilis Charalampopoulos out; Athletiko also lists Giorgos Tanoulis.",
+  "context": "Thessaloniki DERBY and top-of-table clash, 17:30 local, PAOK Sports Arena: PAOK 7-0, Aris 6-1.",
+  "news": "Aris without Jovic and Charalampopoulos for the derby (novasports, allstarbasket, inpaok).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=172.5",
+    "desc": "Under 172.5",
+    "odds": 1.23,
+    "p": 0.7801,
+    "why": "Derby intensity plus Aris's two creators out (Jovic, Charalampopoulos); centre 159.5; sim 0.774; my p ~0.79."
+   }
+  ],
+  "avoid": "Any result-side or handicap (derby).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.novasports.gr/sport/mpasket/event/basket-league/article/15241514/aris-xoris-xaralampopoulo-kai-giovits-sto-ntermpi-me-ton-paok-xaralampidis-adiapragmateyti-i-pneymatiki-etoimotita/",
+   "https://www.allstarbasket.gr/ellada/greek-basketball-league/aris-xoris-giovits-sto-dermpi-koryfis-me-ton-paok-ti-eipe-o-xaralampidis",
+   "https://inpaok.com/923919/choris-giovits-kai-charalabopoulo-o-aris-kontra-ston-paok/",
+   "https://www.athletiko.gr/choris-aproopta-i-proetoimasia-toy-ari-gia-to-ntermpi-koryfis-me-ton-paok-117069"
+  ]
+ },
+ {
+  "eid": "sr:match:72658520",
+  "fx": "Orange Academy v EPG Baskets Koblenz",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProA round 11, 18:00 local. Orange Academy (Ulm's development side) v Koblenz (4-6, 13th). Preview calls it a 'Gradmesser'.",
+  "news": "Preview: a good test for the Orange Academy.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Academy side, pick'em. Nothing.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.2basketballbundesliga.de/vorberichte-proa-11-spieltag-6/",
+   "https://www.2basketballbundesliga.de/spielplan/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-2bl100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72658518",
+  "fx": "VFL Kirchheim Knights v Eisbaren Bremerhaven",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProA round 11, 18:00 local, billed as Saturday's top game. Kirchheim lead the table at 9-1, but lost 83-90 at Karlsruhe last time; Bremerhaven 5-5 (6th).",
+  "news": "Kirchheim v Bremerhaven is the top game of the matchday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.08 too short; no handicap or total within the gates.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.2basketballbundesliga.de/vorberichte-proa-11-spieltag-6/",
+   "https://www.2basketballbundesliga.de/spielplan/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-2bl100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74295754",
+  "fx": "Cholet Basket v Boulazac Basket Dordogne",
+  "sport": "basketball",
+  "absences": "Cholet: Jarrod West (out since Oct 27, until mid-December), Johnathan Williams (out since Nov 7). Boulazac: Patrick Beverley (hamstring, Nov 13), Godwin Omenaka (knee, since Oct 26).",
+  "context": "LNB Elite. Both sides depleted at guard and centre. Boulazac 1-5 away in our data.",
+  "news": "BasketGuru tracker: West and J. Williams out for Cholet; Beverley and Omenaka out for Boulazac.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=176.5",
+    "desc": "Under 176.5",
+    "odds": 1.27,
+    "p": 0.7604,
+    "why": "Four rotation players out (two lead guards); centre 164.5; 85% of the last 20 combined under; sim 0.754; my p ~0.78."
+   },
+   {
+    "mid": "223",
+    "spec": "hcp=3.5",
+    "desc": "Home (+3.5)",
+    "odds": 1.24,
+    "p": 0.7855,
+    "why": "Home favourite (-6.5) with a 3.5 cushion; Boulazac 1-5 away and missing Beverley/Omenaka; sim 0.769; my p ~0.77."
+   }
+  ],
+  "avoid": "Boulazac +15.5 (15+ catch for a weak side). Cholet ML (p 0.71).",
+  "confidence": 0.3,
+  "sources": [
+   "https://basketguru.fr/blessures",
+   "https://www.bebasket.fr/cholet-reussit-la-passe-de-deux-en-betclic-elite-face-a-boulazac"
+  ]
+ },
+ {
+  "eid": "sr:match:72658522",
+  "fx": "BG Gottingen v Medi Bayreuth",
+  "sport": "basketball",
+  "absences": "none found for Bayreuth or Göttingen (an earlier search hit about Bayreuth absences was from Feb 2026).",
+  "context": "ProA, 18:30 local. Bayreuth 1-9 and 0-5 away; Bayreuth reportedly lost a Franconia derby to Nürnberg 83-86 on Nov 15.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.12 too short; no in-range handicap or total within the gates.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.2basketballbundesliga.de/vorberichte-proa-11-spieltag-6/",
+   "https://www.2basketballbundesliga.de/spielplan/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-2bl100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72660014",
+  "fx": "Iserlohn Kangaroos v SC Rist Wedel",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProB Nord, 19:00 local (schedule confirmed). Iserlohn 1-4 at home; Wedel 3-2 away; Iserlohn beat Düsseldorf 80-75 last time.",
+  "news": "Schedule confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Iserlohn ML 1.56 (home form 1-4). Nothing.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.2basketballbundesliga.de/spielplaene-prob/",
+   "https://www.2basketballbundesliga.de/wp-content/print/liga_db/Spielplan_ProB_Sued_2026_2027_Hauptrunde.pdf",
+   "https://www.2basketballbundesliga.de/wp-content/print/liga_db/Spielplan_ProB_Nord_2026_2027_Hauptrunde.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72660018",
+  "fx": "TSV Neustadt Temps Shooters v Art Giants Dusseldorf",
+  "sport": "basketball",
+  "absences": "none found; ex-Neustadt players Aimé Olma and Max Brackmann now at Düsseldorf.",
+  "context": "ProB Nord round 10, 19:00 local, Shooters Dome. Both 4-5 (9th v 10th); Neustadt on two straight defeats.",
+  "news": "Preview: evenly matched 4-5 v 4-5. Yet Neustadt are priced at 1.33, which looks rich.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Neustadt ML/DNB (table says even).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.2basketballbundesliga.de/vorberichte-prob-nord-10-spieltag-5/",
+   "https://www.art-giants.de/"
+  ]
+ },
+ {
+  "eid": "sr:match:72658524",
+  "fx": "Giessen 46ers v Paderborn Baskets",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProA, 19:00 local. Giessen 4-1 at home; Paderborn 5-5.",
+  "news": "Schedule confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Giessen ML 1.26 (sim 0.70, trend 0.50 below house 0.755).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.2basketballbundesliga.de/vorberichte-proa-11-spieltag-6/",
+   "https://www.2basketballbundesliga.de/spielplan/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-2bl100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72660022",
+  "fx": "SC Itzehoe Eagles v Rostock Seawolves Academy",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProB Nord, 19:30 local. Seawolves Academy is Rostock's development/reserve side (1-?; conceded 133 in one game). Itzehoe 3-7, home 1-4.",
+  "news": "Schedule confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Itzehoe ML 1.25 (sim 0.70; home 1-4). Reserve side involved.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.2basketballbundesliga.de/spielplaene-prob/",
+   "https://www.2basketballbundesliga.de/wp-content/print/liga_db/Spielplan_ProB_Sued_2026_2027_Hauptrunde.pdf",
+   "https://www.2basketballbundesliga.de/wp-content/print/liga_db/Spielplan_ProB_Nord_2026_2027_Hauptrunde.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72660472",
+  "fx": "TV 1862 Langen v TSG Reutlingen",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProB Süd, 19:30 local. Reutlingen (TSG Schöller SI Ravens) 8-1 v Langen 7-3, home 4-1. A top-of-table clash.",
+  "news": "Schedule confirmed; source naming differs (TSG Reutlingen / Ravens) but it is the same club.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reutlingen away ML 1.35 (p 0.70 < 0.75).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.2basketballbundesliga.de/spielplaene-prob/",
+   "https://www.2basketballbundesliga.de/wp-content/print/liga_db/Spielplan_ProB_Sued_2026_2027_Hauptrunde.pdf",
+   "https://www.2basketballbundesliga.de/wp-content/print/liga_db/Spielplan_ProB_Nord_2026_2027_Hauptrunde.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72658528",
+  "fx": "PS Karlsruhe Lions v VfL Astrostars Bochum",
+  "sport": "basketball",
+  "absences": "none found; Bochum's JaMonta Black is one of the league's top scorers.",
+  "context": "ProA round 11, 19:30 local. Karlsruhe beat leaders Kirchheim 90-83 last time; Bochum 3-7, 1-4 away.",
+  "news": "Preview: Karlsruhe after the Kirchheim win; Bochum rely on Black.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Karlsruhe ML 1.37 (p 0.69). Nothing within the gates.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.2basketballbundesliga.de/vorberichte-proa-11-spieltag-6/",
+   "https://www.2basketballbundesliga.de/spielplan/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-2bl100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72658526",
+  "fx": "Tigers Tubingen v ETB Wohnbau Baskets",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProA round 11, 19:30 local. Tübingen bouncing back from a 64-74 derby loss to Kirchheim; ETB 0-4 away.",
+  "news": "Preview: Tigers want a home reaction.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tübingen ML 1.38 (p 0.69).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.2basketballbundesliga.de/vorberichte-proa-11-spieltag-6/",
+   "https://www.2basketballbundesliga.de/spielplan/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-2bl100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73062902",
+  "fx": "Beliers de Kemper - UJAP 1984 v Hyeres Toulon",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Élite 2 round 11 (Saturday, time not confirmed). Quimper on 3 straight wins; Hyères-Toulon lost 86-94 at home to Nantes.",
+  "news": "Preview confirms Quimper v HTV on Saturday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Quimper ML 1.47 (p 0.64). Nothing in range.",
+  "confidence": 0.15,
+  "sources": [
+   "https://basketeurope.com/elite-2-10e-journee-quatre-co-leaders-orleans-laurent-vila",
+   "https://www.bebasket.fr/equipe/fos-sur-mer",
+   "https://www.denain-voltaire.fr/",
+   "https://lemeridional.com/a-la-une/fos-seffondre-face-a-chalons-reims/"
+  ]
+ },
+ {
+  "eid": "sr:match:74835036",
+  "fx": "Fos Provence Basket v Asc Denain Voltaire Ph",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Élite 2 round 11 at Halle Dr Henri Giuitta. Fos last in the table (lost 73-80 to Champagne Basket, 105-113 at Rouen). Denain on 3 straight league losses incl. 79-106 at Évreux.",
+  "news": "Tip-off conflict: one source says 20:30, the Denain club site says 20:00 (SportyBet 19:00 UTC = 20:00 local).",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (20:00 v 20:30 local). Also, Denain's 3-game losing run makes the 1.25 away ML fragile.",
+  "picks": [],
+  "avoid": "Denain ML 1.25 (sim 0.72; out of form).",
+  "confidence": 0.15,
+  "sources": [
+   "https://basketeurope.com/elite-2-10e-journee-quatre-co-leaders-orleans-laurent-vila",
+   "https://www.bebasket.fr/equipe/fos-sur-mer",
+   "https://www.denain-voltaire.fr/",
+   "https://lemeridional.com/a-la-une/fos-seffondre-face-a-chalons-reims/"
+  ]
+ },
+ {
+  "eid": "sr:match:73457068",
+  "fx": "Tours Metropole Basket v Union Tarbes Lourdes Pyrenees Basket",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NM1 Group B round 13, 20:00 Paris, Halle Monconseil (date and time agree across sources). Tarbes-Lourdes lost 74-79 at Lorient and 82-84 at Les Sables, and play a congested week (at Angers Nov 17). Tours 1-3 at home.",
+  "news": "Date and venue confirmed; Tarbes on a losing run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tours ML 1.45 (p 0.65). Nothing.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/basketball/match/tours-metropole-basket-ball-union-tarbes-lourdes-pyrenees-basket/qricsPBDd",
+   "https://www.bebasket.fr/ligue/nm1/calendrier",
+   "https://nm1.ffbb.com/saison-reguliere/equipe/2937-tarbes-lourdes"
+  ]
+ },
+ {
+  "eid": "sr:match:73451884",
+  "fx": "Baskets Oldenburg v Skyliners Frankfurt",
+  "sport": "basketball",
+  "absences": "Oldenburg: ongoing injury worries; head coach Milenko Bogicevic and Tylan Pope were disqualified in the 65-81 loss at Ulm (a possible ban for this game is unconfirmed).",
+  "context": "BBL round 10, 20:00 local, EWE Arena. Oldenburg 4-5 (2-4 at home in our data). Frankfurt played a midweek EuroCup home game v Venice (Louis Olinde).",
+  "news": "Oldenburg have injury worries and two ejections at Ulm; Frankfurt come off a midweek Euro home game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-10.5",
+    "desc": "Away (+10.5)",
+    "odds": 1.21,
+    "p": 0.805,
+    "why": "Near pick'em (Oldenburg -1.5); a credible receiver with 10.5 points of cushion; Oldenburg depleted and 2-4 at home; trend 0.80, sim 0.748; my p ~0.79."
+   },
+   {
+    "mid": "225",
+    "spec": "total=150.5",
+    "desc": "Over 150.5",
+    "odds": 1.25,
+    "p": 0.7762,
+    "why": "Frankfurt concede 91.8 and score 88; centre 162.5; sim 0.765; my p ~0.77."
+   }
+  ],
+  "avoid": "Result sides at the centre.",
+  "confidence": 0.3,
+  "sources": [
+   "https://easycredit-bbl.de/de/n/news/2026/november/live-und-free-im-mdr-nagelprobe-beim-schlusslicht-jena-rostock-auch-auswaerts-ein-spitzenteam",
+   "https://easycredit-bbl.de/de/n/news/2026/november/euro-heimspiele-in-chemnitz-frankfurt-trier-und-weissenfels-louis-olinde-mit-venedig-bei-den-skyliners",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-1bl100.html",
+   "https://lees-corner.de/index.php?category-article-list%2F33-easycredit-bbl%2F="
+  ]
+ },
+ {
+  "eid": "sr:match:73451886",
+  "fx": "TBB Trier v Niners Chemnitz",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "BBL round 10, 20:00 local. Trier 2nd (7-1), unbeaten at home, 7 straight wins. Chemnitz have not won away this season (0-5). Both played midweek Euro home games.",
+  "news": "BBL preview: Trier unbeaten at home on a 7-game run; Chemnitz still without an away win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7956,
+    "why": "Trier perfect at home and 7 straight wins v Chemnitz 0-5 away; sim 0.76; my p ~0.80."
+   },
+   {
+    "mid": "225",
+    "spec": "total=195.5",
+    "desc": "Under 195.5",
+    "odds": 1.26,
+    "p": 0.7688,
+    "why": "Centre 183.5; 95% of the last 20 combined under 193.5; sim 0.764; my p ~0.80."
+   }
+  ],
+  "avoid": "Chemnitz catches (+17.5 and up; 15+ catch for a weak away side).",
+  "confidence": 0.35,
+  "sources": [
+   "https://easycredit-bbl.de/de/n/news/2026/november/live-und-free-im-mdr-nagelprobe-beim-schlusslicht-jena-rostock-auch-auswaerts-ein-spitzenteam",
+   "https://easycredit-bbl.de/de/n/news/2026/november/euro-heimspiele-in-chemnitz-frankfurt-trier-und-weissenfels-louis-olinde-mit-venedig-bei-den-skyliners",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/basketball-1bl100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72658530",
+  "fx": "Crailsheim Merlins v Nuremberg Falcons BC",
+  "sport": "basketball",
+  "absences": "Nürnberg: Drew Stover (long-term, back in the second half of the season), Lars Lenke (injured in the Bayreuth derby, out until the second half of the season), Jenö Pildner doubtful. Crailsheim: no reported absences.",
+  "context": "ProA round 11 'Frankenderby', 20:00 local. Crailsheim 9-1 and unbeaten at home (5-0).",
+  "news": "Derby; Nürnberg missing Stover and Lenke, with Pildner doubtful (tipsterio; club info).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (derby rule), though Nürnberg are badly depleted. ML 1.09 too short; no in-range total.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.2basketballbundesliga.de/vorberichte-proa-11-spieltag-6/",
+   "https://tipsterio.de/sportwetten-tipps/hakro-merlins-crailsheim-vs-nuernberg-falcons-bc-wett-tipp-prognose-21-11-2026"
+  ]
+ }
+]

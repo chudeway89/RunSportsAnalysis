@@ -1,0 +1,750 @@
+[
+ {
+  "eid": "sr:match:74873490",
+  "fx": "Auckland City FC v Napier City Rovers AFC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Round 9 NZ National League Championship, Kiwitea St 1pm local (=00:00 UTC, consistent). Auckland 13 pts (3W4D unbeaten), Napier 11 pts after 2-2 v Ferrymead.",
+  "news": "Friends of Football preview tips Auckland City home win; date/venue/time consistent across club site and preview.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7501,
+    "why": "Auckland unbeaten in last 10 (6W4D), home 3W2D; Napier lost 3 of last 5 away conceding 2.4/game; DNB removes the draw (30% of Auckland's last 10). Own p 0.76."
+   }
+  ],
+  "avoid": "Over 3.5 / Napier result; Over 2.5 is fill only (p 0.68).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.friendsoffootballnz.com/2026/11/20/template-mens-national-league-5/",
+   "https://www.aucklandcityfc.com/city-set-for-national-league-title-defence/",
+   "https://www.fotmob.com/teams/613355/overview/miramar-rangers"
+  ]
+ },
+ {
+  "eid": "sr:match:74873492",
+  "fx": "Miramar Rangers v Cashmere Technical",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Top-of-table six-pointer: leaders Cashmere (4W1L, 20-2 GD) away at Miramar; Miramar win would draw level on points. David Farrington Park 2pm local (01:00 UTC, consistent).",
+  "news": "Preview calls it a six-pointer; Cashmere lead the table; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result markets (evenly matched six-pointer, Cashmere away record only 2-0-2); totals have no mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.friendsoffootballnz.com/2026/11/20/template-mens-national-league-5/",
+   "https://www.aucklandcityfc.com/city-set-for-national-league-title-defence/",
+   "https://www.fotmob.com/teams/613355/overview/miramar-rangers"
+  ]
+ },
+ {
+  "eid": "sr:match:73884854",
+  "fx": "Yangon United v Ispe FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Myanmar National League 2026-27; Yangon United 5th (3-0-1) at 1 Nov snapshot; thin coverage.",
+  "news": "no news found beyond early-season table (Yangon United 3W1L).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.8004,
+    "why": "Yangon 7W in last 10 (home 3-0-1, 0.75 GA); house p 0.80, sim 0.77; own p 0.78 - thin-league, stats-only, fill-grade."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.26,
+    "p": 0.7494,
+    "why": "Trend 0.85 of combined last 10 had 3+ goals; ISPE concede 2.2/game and score 1.8; own p 0.75."
+   }
+  ],
+  "avoid": "Yangon -2.5 AH; integer lines.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_M_League",
+   "https://the-mnl.org.mm/"
+  ]
+ },
+ {
+  "eid": "sr:match:73884856",
+  "fx": "Mahar Sagaing United FC v Myawady FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Mahar United renamed Sagaing United (2026-27). Myawady 1W2D7L last 10, 0W away (4 games, 3.25 GA away).",
+  "news": "no news found (only renaming confirmed).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.7893,
+    "why": "Myawady winless in 4 away (0-1-3), conceding 2.9/game over last 10; DNB covers the draw; own p 0.80."
+   }
+  ],
+  "avoid": "Home -1.5 (Mahar only 3W in 10).",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_M_League",
+   "https://the-mnl.org.mm/"
+  ]
+ },
+ {
+  "eid": "sr:match:72304368",
+  "fx": "FK Otrant-Olympic Ulcinj v FK Bokelj Kotor",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Leaders Otrant-Olympic host Bokelj at Velika plaza, Ulcinj, 13:00 local (=12:00 UTC). Round 16.",
+  "news": "Portal Analitika preview: leader Otrant v Bokelj, 13:00 Saturday; consistent date/time.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.7786,
+    "why": "Otrant are league leaders; Bokelj 0W in 4 away scoring 1 goal (0.25/game); own p 0.80."
+   }
+  ],
+  "avoid": "Bokelj team Under 1.5 (Under p<0.82); Over 1.5 (Montenegrin league low-scoring).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.portalanalitika.me/clanak/derbi-na-topolici-lider-protiv-bokelja-decic-u-petrovcu-na-dg-areni-okrsaj-ekipa-sa-zacelja",
+   "https://fscg.me/takmicenja/meridianbet-1-cfl/",
+   "https://www.betexplorer.com/football/montenegro/prva-crnogorska-liga/",
+   "https://rtcg.me/sport/fudbal/624534/petrovac-prisao-lideru-na-minus-tri-decic-se-konacno-radovao-debakl-mornara.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72304364",
+  "fx": "OFK Mladost DG v FK Arsenal Tivat",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Bottom-of-table derby at DG Arena, 13:00 local. Mladost 2W in 10 (0.8 GF), Arsenal 1W in 10; Arsenal also play a rescheduled game Wed 25 Nov.",
+  "news": "Previewed as relegation-zone clash between the bottom sides; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: two weak attacks, relegation nerves; Unders below p 0.82.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.portalanalitika.me/clanak/derbi-na-topolici-lider-protiv-bokelja-decic-u-petrovcu-na-dg-areni-okrsaj-ekipa-sa-zacelja",
+   "https://fscg.me/takmicenja/meridianbet-1-cfl/",
+   "https://www.betexplorer.com/football/montenegro/prva-crnogorska-liga/",
+   "https://rtcg.me/sport/fudbal/624534/petrovac-prisao-lideru-na-minus-tri-decic-se-konacno-radovao-debakl-mornara.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72594682",
+  "fx": "VV Katwijk v Rijnsburgse Boys",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Bollenstreek DERBY at De Krom, 13:30 local (=12:30 UTC; one old club listing said 15:00, superseded). Katwijk 12th (15 pts), Rijnsburgse 16th (11 pts, relegation play-off spot), no away win, 1 away point all season.",
+  "news": "Local press: derby with extra edge; Katwijk have won every derby since 2023; Rijnsburgse still waiting for first away win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.36,
+    "p": 0.7002,
+    "why": "Rijnsburgse away games average 4.25 goals (0.5 for, 3.75 against); Katwijk home games 4.2 goals; trend 0.75; own p 0.72."
+   }
+  ],
+  "avoid": "Result sides (derby rule).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.allesoverkatwijk.nl/nieuws/algemeen/110878/derby-tussen-katwijk-en-rijnsburgse-boys-krijgt-extra-lading-",
+   "https://www.rijnsburgseboys.nl/",
+   "https://voetbalindebollenstreek.nl/katwijk-en-rijnsburgse-boys-treffen-elkaar-na-moeizame-competitiestart/",
+   "https://www.flashscore.com/football/netherlands/tweede-divisie/",
+   "https://www.knvb.nl/downloads/bestand/30112/tweede-divisie-2026-2027",
+   "https://www.vi.nl/competities/tweede-divisie/2026-2027/wedstrijden"
+  ]
+ },
+ {
+  "eid": "sr:match:72594672",
+  "fx": "Koninklijke HFC v HHC Hardenberg",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Tweede Divisie round; Hardenberg 5W2D3L, five wins in last six; HFC 4W5L conceding 2.0.",
+  "news": "no news found; fixture confirmed on Flashscore/VI (14:00 local).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.7999,
+    "why": "85% of combined last 10 had 2+ goals; HFC games average 3.7 goals; league scores ~3.2/game; own p 0.82."
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.19,
+    "p": 0.8069,
+    "why": "Hardenberg scored in 9 of last 10 (trend 0.9) v HFC conceding 2.0/game (2.33 at home); own p 0.84."
+   }
+  ],
+  "avoid": "Result sides (house 44% away).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.flashscore.com/football/netherlands/tweede-divisie/",
+   "https://www.knvb.nl/downloads/bestand/30112/tweede-divisie-2026-2027",
+   "https://www.vi.nl/competities/tweede-divisie/2026-2027/wedstrijden"
+  ]
+ },
+ {
+  "eid": "sr:match:72594676",
+  "fx": "Hoek v GVVV Veenendaal",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "GVVV 9W1L in last 10 (2.9 GF) yet house makes Hoek favourite - large form/price divergence.",
+  "news": "no news found; fixture confirmed on Flashscore.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.22,
+    "p": 0.7809,
+    "why": "GVVV scored in 19 of 20 sample games (trend 0.95), 2.9 goals/game last 10; Hoek concede 1.9; own p 0.83."
+   }
+  ],
+  "avoid": "GVVV result/DNB: research beats house by >15pp -> divergence rule, skip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.flashscore.com/football/netherlands/tweede-divisie/",
+   "https://www.knvb.nl/downloads/bestand/30112/tweede-divisie-2026-2027",
+   "https://www.vi.nl/competities/tweede-divisie/2026-2027/wedstrijden"
+  ]
+ },
+ {
+  "eid": "sr:match:72594678",
+  "fx": "Rkav Volendam v Amsterdamsche FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Volendam amateurs (6W, 2.7 GF) v AFC (5W, 3.0 GF away). Both open games.",
+  "news": "no news found; fixture confirmed on Flashscore.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.7961,
+    "why": "AFC score 3.0/game away and scored in 80% of sample; Volendam concede 1.8; own p 0.81."
+   }
+  ],
+  "avoid": "Result sides (coin-flip).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.flashscore.com/football/netherlands/tweede-divisie/",
+   "https://www.knvb.nl/downloads/bestand/30112/tweede-divisie-2026-2027",
+   "https://www.vi.nl/competities/tweede-divisie/2026-2027/wedstrijden"
+  ]
+ },
+ {
+  "eid": "sr:match:72595568",
+  "fx": "SC Genemuiden v ACV Assen",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Derde Divisie; Genemuiden strong at home (3W1D), ACV 6W2D2L.",
+  "news": "no news found; fixture not found in searched listings (no conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything - no mechanism, unconfirmed listing.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hollandsevelden.nl/competities/2026-2027/landelijk/derde-divisie-b/",
+   "https://derde-divisie.nl/stand/derde-divisie-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:72594674",
+  "fx": "BVV Barendrecht v VV Kloetinge",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kloetinge 1W2D7L in last 10, 0W in 4 away (0.75 GF, 3.25 GA away). Barendrecht 5W.",
+  "news": "no news found; fixture confirmed on Flashscore/KNVB schedule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.683,
+    "why": "Kloetinge lost all 4 away games and 7 of last 10; DNB trend 0.71; own p 0.72."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.38,
+    "p": 0.6929,
+    "why": "Trend 0.8; Barendrecht home games 5.5 goals avg, Kloetinge concede 2.7/game; own p 0.71."
+   }
+  ],
+  "avoid": "Home -1.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.flashscore.com/football/netherlands/tweede-divisie/",
+   "https://www.knvb.nl/downloads/bestand/30112/tweede-divisie-2026-2027",
+   "https://www.vi.nl/competities/tweede-divisie/2026-2027/wedstrijden"
+  ]
+ },
+ {
+  "eid": "sr:match:72594686",
+  "fx": "Jong Almere City FC v IJsselmeervogels",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Reserve side Jong Almere (14th, 0W at home in 4) v 2nd-placed IJsselmeervogels (28 pts).",
+  "news": "Kick-off conflict: club site 15:00 local vs Holland Sport 15:30 local (FotMob 14:00 UTC).",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (15:00 v 15:30 CET); also reserve side.",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/jong-almere-city-ijsselmeervogels-2508990",
+   "https://www.fotmob.com/teams/2153/fixtures/ijsselmeervogels",
+   "https://www.ijsselmeervogels.nl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72594680",
+  "fx": "Jong Sparta Rotterdam v K.v.v. Quick Boys",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Reserve side Jong Sparta (1W5D4L, conceding 2.5) v promotion-chasing Quick Boys (8W1D1L, 2.7 GF). Robey Academy, 15:00 local (=14:00 UTC, consistent).",
+  "news": "Fixture/venue/time confirmed by Voetbalprimeur and KNVB schedule; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.33,
+    "p": 0.7183,
+    "why": "Goals market in a clear mismatch (reserve-side rule): Jong Sparta's last 6 had 8,6,4,3,5,5 goals; trend 0.85; own p 0.76."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.34,
+    "p": 0.7088,
+    "why": "Quick Boys average 2.7 goals v a Jong side conceding 2.5/game (last 6: 3,3,3,2,4,3 conceded); own p 0.73."
+   }
+  ],
+  "avoid": "Result sides (reserve-side rule).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.voetbalprimeur.be/wedstrijden/2026-11-21/jong-sparta-vs-quick-boys",
+   "https://www.hollandsevelden.nl/competities/2026-2027/landelijk/tweede-divisie/programma/",
+   "https://www.flashscore.com/football/netherlands/tweede-divisie/",
+   "https://www.knvb.nl/downloads/bestand/30112/tweede-divisie-2026-2027",
+   "https://www.vi.nl/competities/tweede-divisie/2026-2027/wedstrijden"
+  ]
+ },
+ {
+  "eid": "sr:match:72594684",
+  "fx": "SV Spakenburg v Rohda Raalte",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Rohda Raalte 1W2D7L last 10, conceding 2.9 (lost 2-8 recently). Spakenburg unbeaten at home (2W2D).",
+  "news": "no news found; fixture confirmed on KNVB schedule (15:00 local).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.8079,
+    "why": "Rohda lost 7 of 10 and concede 2.9/game; Spakenburg unbeaten at home; house p 0.81, own p 0.80 - fill-grade, Spakenburg's own form is only 3W in 10."
+   }
+  ],
+  "avoid": "Home -1.5/-2 (Spakenburg -1.5 trend only 0.30).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.flashscore.com/football/netherlands/tweede-divisie/",
+   "https://www.knvb.nl/downloads/bestand/30112/tweede-divisie-2026-2027",
+   "https://www.vi.nl/competities/tweede-divisie/2026-2027/wedstrijden",
+   "https://www.voetbalprimeur.be/wedstrijden/2026-11-21/jong-sparta-vs-quick-boys",
+   "https://www.hollandsevelden.nl/competities/2026-2027/landelijk/tweede-divisie/programma/"
+  ]
+ },
+ {
+  "eid": "sr:match:76675296",
+  "fx": "Chabab Atlas Khenifra v Olympique Dcheira",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Botola D2 round 9: Khenifra 15th (4 pts) v co-leaders Dcheira (19 pts, 6W3D1L, 0.6 GA).",
+  "news": "Table after round 8: Wydad Fes and Dcheira top on 19, Khenifra 15th on 4.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dcheira away pick banned (Botola away rule L9); Unders below p 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://fr.allafrica.com/stories/202611160079.html",
+   "https://www.365scores.com/football/league/botola-2-5651/matches",
+   "https://www.betexplorer.com/football/morocco/botola-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:76675298",
+  "fx": "Olympique Club of Khouribga v KAC Kenitra",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Khouribga 9th (10) v Kenitra 10th (10). Kenitra extreme low-scoring (0.6 GF, 0.4 GA, 5D in 10).",
+  "news": "Table after round 8 only; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 strong trend (0.85) but p 0.63 < 0.82 rule; Under 3.5 1.16 below odds floor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://fr.allafrica.com/stories/202611160079.html",
+   "https://www.365scores.com/football/league/botola-2-5651/matches",
+   "https://www.betexplorer.com/football/morocco/botola-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:76675300",
+  "fx": "Stade Marocain v Jeunesse Sportive Soualem",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Stade Marocain 5th (13 pts) v Soualem 14th (6 pts), Soualem 2W in 10, 0.8 GF.",
+  "news": "Table after round 8; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.21,
+    "p": 0.7825,
+    "why": "Soualem 14th, 2W in 10 and 0.8 goals/game, won 2 of 5 away; Stade Marocain 5th; own p 0.80."
+   }
+  ],
+  "avoid": "Totals (Unders below 0.82).",
+  "confidence": 0.2,
+  "sources": [
+   "https://fr.allafrica.com/stories/202611160079.html",
+   "https://www.365scores.com/football/league/botola-2-5651/matches",
+   "https://www.betexplorer.com/football/morocco/botola-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:72041260",
+  "fx": "NEC Nijmegen v PSV Eindhoven",
+  "sport": "football",
+  "absences": "NEC: Perr Schuurs (hamstring, out/doubt), Emre Mor out, Bram Nuytinck (ankle surgery), Philippe Sandler (sources conflict: out v back), Dennis Geiger doubt. PSV: Jerdy Schouten, Adamo Nagalo, Alassane Plea, Sami Ouaissa out; Dest, Perisic, Wanner doubtful.",
+  "context": "Big-club clash, Goffertstadion 15:30 local. PSV coached by Bosz; both sides weakened after the international break.",
+  "news": "Previews agree on long PSV absence list (Schouten, Nagalo, Plea, Ouaissa) and NEC centre-back problems (Schuurs, Nuytinck); Sandler status conflicts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big-club rule); totals: Over 2.5 p 0.74 < 0.82 big-club totals rule even though NEC's CB crisis supports goals.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/nec/preview/nijmegen-vs-psv-prediction-team-news-lineups_609357.html",
+   "https://www.goal.com/en/news/where-to-watch-nec-v-psv-tv-channel-online-live-stream-kick-off-time-and-recent-form/blt7b6f67b6e9fea384",
+   "https://telecomasia.net/sports-betting/tips/football/netherlands-eredivisie/nec-nijmegen-vs-psv-eindhoven-match-prediction-21-november-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72044848",
+  "fx": "FC Eindhoven v RKC Waalwijk",
+  "sport": "football",
+  "absences": "RKC: Bjarn (long-term, per Headliner); otherwise none announced. FC Eindhoven: none reported.",
+  "context": "Eerste Divisie; RKC favourite away (3W4D3L), FC Eindhoven 3W in 10.",
+  "news": "Goal/Bet-experts: no injuries or suspensions announced; Headliner notes one long-term RKC absentee.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "RKC away 1X2 (p 0.53 < 0.75); no mechanism for totals.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.goal.com/en/news/where-to-watch-eindhoven-v-rkc-waalwijk-tv-channel-online-live-stream-kick-off-time-and-recent-form/blt515ac780dbb652cd",
+   "https://noordbrabant.headliner.nl/item/vooruitblik-fc-eindhoven-rkc-waalwijk-rkcwaalwijk-4973",
+   "https://www.bet-experts.nl/nieuws/wedtips-fc-eindhoven-rkc-waalwijk-voorspelling-odds-opstellingen"
+  ]
+ },
+ {
+  "eid": "sr:match:72304362",
+  "fx": "OFK Petrovac v FK Decic Tuzi",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Petrovac (closed to within 3 of leader earlier this autumn) v Decic, who have lost all 5 away games (2.6 GA away). 18:00 local at Mitar Mico Golis (one listing gave SRC Topolica, but that headline refers to another match; Portal Analitika confirms Petrovac).",
+  "news": "Previewed in Portal Analitika round-16 article 'Decic u Petrovcu', 18:00 Saturday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.4,
+    "p": 0.6624,
+    "why": "Decic 0W5L away, conceding 2.6 there; Petrovac home 2W1D2L, 1.0 GA; trend 0.75; own p 0.72."
+   }
+  ],
+  "avoid": "Over 1.5 (low-scoring league, Petrovac 1.3 GF).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.portalanalitika.me/clanak/derbi-na-topolici-lider-protiv-bokelja-decic-u-petrovcu-na-dg-areni-okrsaj-ekipa-sa-zacelja",
+   "https://fscg.me/takmicenja/meridianbet-1-cfl/",
+   "https://www.betexplorer.com/football/montenegro/prva-crnogorska-liga/",
+   "https://rtcg.me/sport/fudbal/624534/petrovac-prisao-lideru-na-minus-tri-decic-se-konacno-radovao-debakl-mornara.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76675302",
+  "fx": "Olympique Club de Safi v Wydad Fes",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Safi 6th (12) v co-leaders Wydad Fes (19, 7W2D1L). 18:00 local at El Massira (=17:00 UTC, consistent).",
+  "news": "Wydad Fes top of Botola D2 after round 8; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Wydad Fes away/X2 (Botola away rule L9); Under 3.5 p 0.81 < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://fr.allafrica.com/stories/202611160079.html",
+   "https://www.365scores.com/football/league/botola-2-5651/matches",
+   "https://www.betexplorer.com/football/morocco/botola-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:72594688",
+  "fx": "De Treffers Groesbeek v Kozakken Boys Werkendam",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "De Treffers (home 3W2D, 2.8 GF) v Kozakken Boys (away 4W1D, 3.4 GF).",
+  "news": "no news found; fixture confirmed on Flashscore.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: the automated trend feed (Over 1.5 trend 0.25, Under 3.5 trend 0.90) contradicts the listed last-6 scores (4-0, 3-3, 5-1, 3-1) - data conflict, no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/football/netherlands/tweede-divisie/",
+   "https://www.knvb.nl/downloads/bestand/30112/tweede-divisie-2026-2027",
+   "https://www.vi.nl/competities/tweede-divisie/2026-2027/wedstrijden"
+  ]
+ },
+ {
+  "eid": "sr:match:72596242",
+  "fx": "EVV Echt v VV Zwaluwen Vlaardingen",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Echt 1W3D6L last 10 (1.0 GF) v Zwaluwen 6W (away 3W1L, 2.5 GF away).",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.26,
+    "p": 0.747,
+    "why": "Echt won 1 of 10 and lost 5 of last 6; Zwaluwen 3W in 4 away; DNB (away 1X2 p 0.61 < 0.75 rule); own p 0.77."
+   }
+  ],
+  "avoid": "Away 1X2 straight, Over 2.5 (trend only 0.40).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hollandsevelden.nl/competities/2026-2027/landelijk/derde-divisie-b/",
+   "https://derde-divisie.nl/stand/derde-divisie-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:72595576",
+  "fx": "Hzvv Hoogeveen v SV Dvs 33 Ermelo",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Hoogeveen v DVS'33 (0W in 5 away, 2.8 GA away). 18:00 local (=17:00 UTC, consistent).",
+  "news": "Fixture listed 21 Nov 18:00; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.697,
+    "why": "Trend 0.8; Hoogeveen games average 4.3 goals, DVS'33 away games 4.0; own p 0.72."
+   }
+  ],
+  "avoid": "Result sides.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hollandsevelden.nl/competities/2026-2027/landelijk/derde-divisie-b/",
+   "https://derde-divisie.nl/stand/derde-divisie-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:72596246",
+  "fx": "VV Una v Achilles Veen",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Una (1W3D6L) v Achilles Veen (1W9L, 0W5L away, 0.4 GF away). 18:00 local (=17:00 UTC, consistent).",
+  "news": "Fixture listed 21 Nov 18:00; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.6345,
+    "why": "Achilles Veen lost all 5 away games scoring 2 goals; Una home poor too (0W1D3L) so DNB only; own p 0.66 - weak, fill only."
+   }
+  ],
+  "avoid": "Home 1X2 straight.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hollandsevelden.nl/competities/2026-2027/landelijk/derde-divisie-b/",
+   "https://derde-divisie.nl/stand/derde-divisie-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:74025196",
+  "fx": "SC Cambuur v de Graafschap",
+  "sport": "football",
+  "absences": "no news (youth)",
+  "context": "U21 Divisie 1 youth fixture.",
+  "news": "no news found; youth fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: youth result sides banned, no goals markets offered.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72596250",
+  "fx": "Dongen v RBC Roosendaal",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dongen v RBC Roosendaal: RBC's last 6 games all had 4+ goals (3-4, 3-3, 3-3, 2-4, 3-4, 3-1); RBC concede 2.9/game.",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.24,
+    "p": 0.766,
+    "why": "Trend 0.95; every one of RBC's last 6 had 4+ goals and they concede 3.4 away; Dongen home 3.25 goals/game; own p 0.82."
+   }
+  ],
+  "avoid": "Result sides (coin-flip).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.hollandsevelden.nl/competities/2026-2027/landelijk/derde-divisie-b/",
+   "https://derde-divisie.nl/stand/derde-divisie-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:72041250",
+  "fx": "FC Groningen v SC Heerenveen",
+  "sport": "football",
+  "absences": "Groningen: GK Etienne Vaessen and RB Hans Hateboer SUSPENDED (red cards at AZ) -> Lovro Stubljar in goal, Wouter Prins RB; Malcolm Jeng (Achilles) and Rijk Janse out; Travis Hernes, Ryan Metu doubtful; head coach Dick Lukkien absent (hip replacement), assistant Casper Goedkoop on touchline. Heerenveen: none.",
+  "context": "Derby van het Noorden at Euroborg 20:00 local. Heerenveen 6th (21 pts, 4 straight league wins); Groningen 9th, 1 point from last 4.",
+  "news": "Sports Mole/SportsGambler: Groningen without suspended Vaessen and Hateboer plus injured Jeng, coach Lukkien out after surgery; Heerenveen full squad, four straight wins.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.46,
+    "p": 0.6658,
+    "why": "Backup keeper Stubljar and makeshift RB behind a defence conceding 2.3/game; Groningen's last 6 averaged 5.2 goals; Heerenveen score 2.3/game; own p 0.72."
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.18,
+    "p": 0.8234,
+    "why": "Heerenveen scored in 17 of 20 sample games (trend 0.85), 4 straight wins, facing Groningen's reserve keeper and reshuffled back line; own p 0.86."
+   }
+  ],
+  "avoid": "Heerenveen win/DNB (derby rule, despite absences favouring them).",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/groningen/preview/groningen-vs-heerenveen-prediction-team-news-lineups_609452.html",
+   "https://www.sportsgambler.com/betting-tips/football/groningen-vs-heerenveen-prediction-lineups-odds-2026-11-21/",
+   "https://www.whoscored.com/matches/1982537/preview/netherlands-eredivisie-2026-2027-fc-groningen-sc-heerenveen"
+  ]
+ },
+ {
+  "eid": "sr:match:72041264",
+  "fx": "SC Telstar v PEC Zwolle",
+  "sport": "football",
+  "absences": "Telstar: Gerald Alders out, Rui Mendes doubtful. PEC Zwolle: Filip Krastev and Givaro Rahajaan out, Sherel Floranus doubtful.",
+  "context": "Lower-table Eredivisie: Telstar 16th, Zwolle 13th. BUKO Stadion 20:00 local.",
+  "news": "WhoScored preview lists Alders out for Telstar; Krastev, Rahajaan out and Floranus doubtful for Zwolle.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.806,
+    "why": "Eredivisie scores ~3.1/game; Telstar home games average 4.6 goals; Zwolle concede 2.1; trend 0.75; own p 0.82."
+   }
+  ],
+  "avoid": "Result sides (Zwolle 0W away in 4 but Telstar 1W in 10).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.whoscored.com/matches/1982536/preview/netherlands-eredivisie-2026-2027-telstar-pec-zwolle"
+  ]
+ }
+]

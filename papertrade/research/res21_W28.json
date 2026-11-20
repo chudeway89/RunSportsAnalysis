@@ -1,0 +1,723 @@
+[
+ {
+  "eid": "sr:match:72151372",
+  "fx": "Ventforet Kofu v Vanraure Hachinohe FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "J2 2026-27 MW18; Kofu 20th (bottom), Hachinohe 18th - both relegation-zone; Kofu lost last 3 league games, scored 0.7/g last 10",
+  "news": "Forebet confirms 21 Nov 05:00 UTC-equivalent; Kofu lost last three league games; sides 18th and 20th",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.38,
+    "p": 0.6792099015,
+    "why": "Kofu 1-2-7 last 10, 0.7 GF/g, three straight defeats; Hachinohe 2-1-3 away. Own est 0.70 v house 0.679"
+   }
+  ],
+  "avoid": "Home 1X2/DNB; Over 2.5 (two blunt attacks, sim 0.43); Under lines below 0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.forebet.com/en/football-tips-and-predictions-for-japan/j2-league",
+   "https://www.jleague.jp/en/j2/"
+  ]
+ },
+ {
+  "eid": "sr:match:72151370",
+  "fx": "Yokohama FC v Hokkaido Consadole Sapporo",
+  "sport": "football",
+  "absences": "Sapporo: DF Akito Fukumori (hamstring, from 25 Oct), FW Shirai (calf) and DF Nose (hamstring) recently listed injured - current status unconfirmed; Yokohama FC: none found",
+  "context": "Yokohama FC 2nd/5th (sources differ), Sapporo 7th/8th - promotion-chasing clash between two big J2 clubs at NHK Spring Mitsuzawa",
+  "news": "Sapporo kept clean sheets in last 4 away league games (0.2 GA/away game) but carry defensive injuries; Yokohama FC no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 (p0.555 v Sapporo away 4-0-1); +1.5 catch banned (fav p>=0.55); Over 2.5 (Sapporo away clean-sheet run); Under 3.5 p<0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.forebet.com/en/football-tips-and-predictions-for-japan/j2-league",
+   "https://www.jleague.jp/en/j2/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152218",
+  "fx": "Ehime FC v FC Gifu",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "J3 MW18, 14:00 JST at Ningineer Stadium; Ehime 4-0-6 last 10, Gifu 6-1-3",
+  "news": "fixture/venue confirmed by J.League schedule; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.38,
+    "p": 0.6733838613,
+    "why": "Gifu 6-1-3 last 10 with 0.9 GA/g; Ehime lost 6 of 10 incl. 0-4 and 2-4. Own est 0.68 (house 0.673) - thin edge, statistics only"
+   }
+  ],
+  "avoid": "Over 1.5 (J3 avg <2.7 rule); Home result",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/en/j3/match/",
+   "https://www.jleague.jp/en/match/j3/2026/112120/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152214",
+  "fx": "Gainare Tottori v AC Nagano Parceiro",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "J3 MW18 at Axis Bird Stadium; Tottori winless in 7 home games (0-2-5, 0.86 GF)",
+  "news": "fixture/venue confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.55,
+    "p": 0.5862072445,
+    "why": "Tottori 0-2-5 at home, 1-2-7 last 10; Nagano 5-0-5. Trend 0.70 v house 0.586; own est 0.61"
+   }
+  ],
+  "avoid": "Home 1X2 (p0.415 but winless at home); Over 1.5 thin-league rule",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/en/j3/match/",
+   "https://www.jleague.jp/en/match/j3/2026/112120/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152220",
+  "fx": "Kochi United SC v Fukushima United FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "J3 MW18 at GIKEN Stadium; Kochi 1-1-8 last 10 (0.7 GF, 2.3 GA)",
+  "news": "fixture/venue confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.38,
+    "p": 0.670844,
+    "why": "Kochi lost 8 of last 10 conceding 2.3/g; Fukushima 4-2-4 scoring 1.6/g. Trend 0.75 v house 0.671; own est 0.70"
+   }
+  ],
+  "avoid": "Home result; Under lines",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.jleague.jp/en/j3/match/",
+   "https://www.jleague.jp/en/match/j3/2026/112120/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152206",
+  "fx": "Matsumoto Yamaga FC v FC Ryukyu",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "J3 MW18 at Sunpro Alwin; Matsumoto very low-scoring (0.7 GF/0.9 GA last 10, 3-1-6)",
+  "news": "J.League match page confirms 21 Nov Sunpro Alwin; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home or Draw 1.27 (Matsumoto lost 6 of 10); Unders banned below p0.82; Over 2.5 (trend 0.35)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/en/j3/match/",
+   "https://www.jleague.jp/en/match/j3/2026/112120/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152212",
+  "fx": "Nara Club v SC Sagamihara",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "J3 MW18, 14:00 JST at Rohto Field Nara; Nara 4-0-1 at home (3.0 GF/g), Sagamihara 6-2-2 last 10",
+  "news": "fixture/venue/kickoff confirmed by J.League weekly schedule; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result markets (two in-form sides, near coin-flip); Over 1.5 thin-league rule",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/en/j3/match/",
+   "https://www.jleague.jp/en/match/j3/2026/112120/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152204",
+  "fx": "Thespa Gunma v Tochigi SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "J3 MW18, 14:00 JST at Shoda Shoyu Stadium Gunma (Thespa home); Gunma 2-1-7 last 10 (2.1 GA); Tochigi 4-3-3 with 0.4 GA/g, 0.25 GA away",
+  "news": "fixture/venue confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.25,
+    "p": 0.7550769888,
+    "why": "Tochigi concede 0.4/g (0.25 away) and lost 3 of 10; Gunma lost 7 of 10. Trend 0.75; own est 0.77 v house 0.755"
+   }
+  ],
+  "avoid": "Over 2.5 (Tochigi games 0.6+0.4 goals/g); Away 1X2 p0.494 (<0.75 rule)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.jleague.jp/en/j3/match/",
+   "https://www.jleague.jp/en/match/j3/2026/112120/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152208",
+  "fx": "Zweigen Kanazawa v Kagoshima United",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "J3 MW18 at Kanazawa Go Go Curry Stadium; Kagoshima 0-1-4 away last 5 (0.4 GF)",
+  "news": "fixture/venue confirmed by J.League; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.52,
+    "p": 0.596718,
+    "why": "Kagoshima winless in 5 away (0.4 GF/g) and lost 5 of 10; Kanazawa 5-1-4 scoring 1.7/g. Trend 0.65 v house 0.597; own est 0.63"
+   }
+  ],
+  "avoid": "Away 1X2/DNB (house fav but awful away form)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/en/j3/match/",
+   "https://www.jleague.jp/en/match/j3/2026/112120/"
+  ]
+ },
+ {
+  "eid": "sr:match:72339106",
+  "fx": "Mynavi Sendai Ladies v Cerezo Osaka Sakai Ladies",
+  "sport": "football",
+  "absences": "women's fixture - not researched for absences",
+  "context": "WE League MW11, 14:00 JST Yurtec Stadium Sendai; Sendai 5th, Cerezo Sakai 3rd (older snapshot)",
+  "news": "official WE League site and FotMob agree: 05:00 UTC, Yurtec Stadium Sendai",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's league - no result-sides; no clear goals mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://weleague.jp/en/",
+   "https://www.fotmob.com/matches/mynavi-sendai-ladies-vs-cerezo-osaka-sakai/a4c91ans",
+   "https://www.worldfootball.net/teams/te66033/chifure-as-elfen-saitama/all-matches/"
+  ]
+ },
+ {
+  "eid": "sr:match:72339108",
+  "fx": "Chifure AS Elfen Saitama v JEF United Ichihara Chiba",
+  "sport": "football",
+  "absences": "women's fixture - not researched for absences",
+  "context": "WE League MW11; JEF Chiba 2nd, Elfen Saitama 9th (older snapshot)",
+  "news": "official WE League site lists 'SAITAMA v CHIBA' at 15:00 JST but at Kashiwa (a Chiba-prefecture venue) - venue/home-side does not fit a Chifure Elfen Saitama home game",
+  "veto": true,
+  "veto_reason": "venue conflict: official listing shows Kashiwa, not a Saitama ground; home/away identity unverified",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://weleague.jp/en/",
+   "https://www.fotmob.com/matches/mynavi-sendai-ladies-vs-cerezo-osaka-sakai/a4c91ans",
+   "https://www.worldfootball.net/teams/te66033/chifure-as-elfen-saitama/all-matches/"
+  ]
+ },
+ {
+  "eid": "sr:match:74056932",
+  "fx": "Migori Youth FC v Leopards SC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "SportPesa League MW8 at Green Stadium, Awendo; AFC Leopards unbeaten, 3rd (13 pts/7); Migori debut top-flight season, 11th (7 pts/6) but 3-2-0 at home",
+  "news": "SportPesa blog (20 Nov) and league site agree 21 Nov, Green Stadium Awendo, 13:30 EAT = 10:30 UTC",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.37,
+    "p": 0.6791612484,
+    "why": "Leopards unbeaten this season and concede 0.6/g; Migori unbeaten at home though (home draws common). Own est 0.70 v house 0.679"
+   }
+  ],
+  "avoid": "Leopards 1X2 (draw-heavy fixture, Migori 3-2-0 home); Overs (Leopards games 0.9+0.6 goals)",
+  "confidence": 0.2,
+  "sources": [
+   "https://blog.ke.sportpesa.com/2026/11/20/sportpesa-league-round-eight-weekend-predictions-match-previews-team-news-current-form-h2h/",
+   "https://footballkenya.org/sportpesa-league",
+   "https://www.betexplorer.com/football/kenya/premier-league/",
+   "https://www.goal.com/en-ke/competition/premier-league/table/7wssxdqi4xihseeam8grqa2b8"
+  ]
+ },
+ {
+  "eid": "sr:match:74056942",
+  "fx": "Mombasa United FC v Ulinzi Stars FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "SportPesa League MW8; Mombasa United bottom (18th, 1 pt from 7 per Goal.com), 2-2-6 last 10; Ulinzi Stars 7 pts",
+  "news": "betexplorer and footballkenya agree on Mombasa Utd v Ulinzi on 21 Nov; an undated Eastleigh Voice preview has Mombasa v Kenya Police at Mbaraki in a different round (not a conflict for this date)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.43,
+    "p": 0.6453959102,
+    "why": "Mombasa United bottom with 1 point from 7, lost 6 of last 10; Ulinzi 4-4-2 and only 2 defeats. Trend 0.80 v house 0.645; own est 0.70"
+   }
+  ],
+  "avoid": "Home side; Overs",
+  "confidence": 0.2,
+  "sources": [
+   "https://blog.ke.sportpesa.com/2026/11/20/sportpesa-league-round-eight-weekend-predictions-match-previews-team-news-current-form-h2h/",
+   "https://footballkenya.org/sportpesa-league",
+   "https://www.betexplorer.com/football/kenya/premier-league/",
+   "https://www.goal.com/en-ke/competition/premier-league/table/7wssxdqi4xihseeam8grqa2b8"
+  ]
+ },
+ {
+  "eid": "sr:match:76640494",
+  "fx": "KF Llapi v KF Vushtrria",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Superliga; Vushtrria bottom, 1W 12L 3 pts after 13 (Wikipedia, 9 Nov), 0-0-6 away; Llapi 9th but poor at home (1-0-4, 0.4 GF)",
+  "news": "betexplorer and LiveSoccerTV agree 21 Nov 13:00 CET",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8044,
+    "why": "Vushtrria lost 12 of 13 and every away game; DNB protects against a stale draw given Llapi's blunt home form. Own est 0.82 v house 0.804"
+   }
+  ],
+  "avoid": "Home -1.5 (Llapi 0.4 GF at home); Over 2.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.betexplorer.com/football/kosovo/superliga/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Football_Superleague_of_Kosovo",
+   "https://www.livesoccertv.com/competitions/kosovo/superliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:76640496",
+  "fx": "KF Malisheva v KF Dukagjini",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Superliga; Malisheva 2nd (6-2-2, unbeaten at home 3-2-0), Dukagjini 6th (0.8 GF/g)",
+  "news": "betexplorer and LiveSoccerTV agree 21 Nov 13:00 CET; Malisheva play Llapi 27 Nov",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.732222,
+    "why": "Malisheva 2nd and unbeaten at home; Dukagjini score 0.8/g, 0.5 away. Own est 0.75 v house 0.732"
+   }
+  ],
+  "avoid": "Under 3.5 (p0.775 < 0.82 rule); Over 2.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betexplorer.com/football/kosovo/superliga/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Football_Superleague_of_Kosovo",
+   "https://www.livesoccertv.com/competitions/kosovo/superliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:76737962",
+  "fx": "FA Siauliai v FK Minija 2017",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "TOPLYGA promotion/relegation PLAYOFF 2nd leg in Siauliai; Siauliai (top flight) won 1st leg 2-0 away at Minija (Pirma Lyga runners-up). Knockout: 90-min settlement except To Qualify",
+  "news": "LRT/osportas: Siauliai won 2-0 in Kretinga, return 21 Nov in Siauliai; kickoff 12:00 UTC (Sofascore) = 13:00 CET (BetExplorer) = 14:00 Lithuanian time (osportas) - consistent",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.748208,
+    "why": "Knockout -> DNB only (no To Qualify market listed). 2-goal aggregate cushion v a second-tier side; Siauliai 1-1-3 at home and low-scoring so a draw (void) is likely; own est 0.76 of win given decided v house 0.748"
+   }
+  ],
+  "avoid": "1X2/DC (knockout rule); Overs (Siauliai 0.7 GF/g, leaders may sit on the cushion); Minija GA stats distorted by a 10-11 shootout-style result",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lrt.lt/naujienos/sportas/10/3115091/kretingoje-laimeje-siauliai-igijo-pranasuma-kovoje-del-vietos-toplygoje",
+   "https://osportas.lt/kretingoje-laimeje-siauliai-priartejo-prie-islikimo-toplygoje/",
+   "https://www.betexplorer.com/football/lithuania/toplyga/"
+  ]
+ },
+ {
+  "eid": "sr:match:75019722",
+  "fx": "Al Akhaa Al Ahli v Al Ahed FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Lebanese PL regular season at Amin Abdelnour Stadium; Al Ahed (giants) 4-4-2, conceding 0.8; Akhaa 2-1-7 (1.9 GA); H2H 0-4",
+  "news": "Sofascore/365Scores 12:15 UTC, Forebet 13:15 (local); AiScore 19:15 outlier looks like a timezone artefact (AiScore off for other Lebanon games too); Tribuna mislabels day as Friday",
+  "veto": false,
+  "veto_reason": "soft kickoff discrepancy on AiScore only - verify before posting",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.23,
+    "p": 0.7635896539,
+    "why": "Ahed lost only 2 of 10, Akhaa lost 7 of 10; last H2H 4-0 to Ahed. DNB covers Ahed's away-draw habit (0-3-0 last 3 away). Own est 0.78 v house 0.764"
+   }
+  ],
+  "avoid": "Ahed 1X2 1.63 (three straight away draws); Under 3.5 p<0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betexplorer.com/football/lebanon/premier-league/",
+   "https://www.forebet.com/en/predictions-lebanon/premier-league",
+   "https://www.transferhunt.com/competition/lebanese-premier-league-990021",
+   "https://www.365scores.com/en-us/football/match/premier-league-566/al-ahed-al-akhaa-al-ahli-8287-8293-566"
+  ]
+ },
+ {
+  "eid": "sr:match:75019718",
+  "fx": "Nejmeh SC v AL Mabarrah",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Lebanese PL; Nejmeh 7-2-1 v Mabarrah 1-1-8",
+  "news": "CONFLICT: BetExplorer lists Nejmeh v Al Ghazieh on 21 Nov and Transferhunt pairs Nejmeh with Shabab Al Ghazieh on 20 Nov; Forebet has Nejmeh v Mabarrah on 20 Nov 13:15. Nejmeh also at Safa 24/25 Nov",
+  "veto": true,
+  "veto_reason": "opponent/date conflict between sources (Al Ghazieh v Mabarrah; 20 v 21 Nov)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/lebanon/premier-league/",
+   "https://www.forebet.com/en/predictions-lebanon/premier-league",
+   "https://www.transferhunt.com/competition/lebanese-premier-league-990021",
+   "https://www.365scores.com/en-us/football/match/premier-league-566/al-ahed-al-akhaa-al-ahli-8287-8293-566"
+  ]
+ },
+ {
+  "eid": "sr:match:74056934",
+  "fx": "Kenya Police FC v Aps Bomet FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "SportPesa League MW8 at Police Sacco Stadium; Police 4th (12 pts), APS Bomet 5th (9 pts) after 2-1 v Bandari; Bomet have never beaten Police",
+  "news": "SportPesa blog: 3 PM EAT (=12:00 UTC); league site 12:30 - 30-min kickoff discrepancy",
+  "veto": false,
+  "veto_reason": "soft: 30-minute kickoff discrepancy (12:00 v 12:30 UTC) between SportPesa blog and league site - re-check before posting; date/venue agree",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.7773875203,
+    "why": "Police lost 1 of 10 (3-6-1); APS Bomet have never beaten Police. Own est 0.79 v house 0.777"
+   }
+  ],
+  "avoid": "Home 1X2 (draw-heavy, 6 draws in 10); Overs",
+  "confidence": 0.2,
+  "sources": [
+   "https://blog.ke.sportpesa.com/2026/11/20/sportpesa-league-round-eight-weekend-predictions-match-previews-team-news-current-form-h2h/",
+   "https://footballkenya.org/sportpesa-league",
+   "https://www.betexplorer.com/football/kenya/premier-league/",
+   "https://www.goal.com/en-ke/competition/premier-league/table/7wssxdqi4xihseeam8grqa2b8"
+  ]
+ },
+ {
+  "eid": "sr:match:73062430",
+  "fx": "Melaka FC v Star City FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Super League R7 at Hang Jebat Stadium; Melaka 6th (9 pts/6, won 2-1 at Penang), Star City (ex-Immigration FC) 9th (5 pts/6), Star City away 2.71 GA",
+  "news": "ticket listing confirms 21 Nov Hang Jebat; kickoff 12:15 UTC (Sofascore/FotMob) v 12:30 UTC (BetExplorer)",
+  "veto": false,
+  "veto_reason": "soft: 15-min kickoff discrepancy only",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.53,
+    "p": 0.61168,
+    "why": "Star City away games average 4.6 goals (1.86 GF/2.71 GA); 15 of last 20 combined went over 2.5 (trend 0.75). Own est 0.64 v house 0.612"
+   }
+  ],
+  "avoid": "Result-sides (near coin-flip); Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://tickethotline.com.my/MFL",
+   "https://www.fotmob.com/teams/1783730/overview/melaka-fc",
+   "https://www.betexplorer.com/football/malaysia/super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:76365878",
+  "fx": "Ramtha SC v Sahl Horan SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Jordan Cup ROUND OF 16 knockout (90-min settlement); Ramtha top-flight v Sahl Horan (newly promoted to the First Division); Ramtha low scoring (0.7 GF/g)",
+  "news": "Jordan News: Ramtha v Sahel Hauran Saturday 4pm local (=13:00 UTC), referees named; consistent",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "1X2/DC (knockout rule); DNB 1.11 below band; Over 2.5 (Ramtha 0.7 GF/g); Home -1.5 trend 0.10",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jordannews.jo/Section-71/Football/Referee-teams-named-for-Jordan-Cup-round-of-16-matches-59010"
+  ]
+ },
+ {
+  "eid": "sr:match:70381740",
+  "fx": "Chitipa United v Moyale Barracks",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Malawi Super League (FDH Bank Premiership)",
+  "news": "CONFLICT: league site sulommw.com lists Chitipa Utd v Moyale Barracks on Sunday 22 Nov at Chitipa Stadium; BetExplorer lists 21 Nov",
+  "veto": true,
+  "veto_reason": "date conflict (21 v 22 Nov)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://sulommw.com/2026-fixtures/",
+   "https://www.betexplorer.com/football/malawi/super-league/",
+   "https://www.sofascore.com/football/team/silver-strikers/305264"
+  ]
+ },
+ {
+  "eid": "sr:match:70381734",
+  "fx": "Creck SC v Malawi Armed Forces College FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Malawi Super League; MAFCO 0-0-4 away (0.25 GF, 2.25 GA), lost 7 of 10; MAFCO beat Ekhaya 1-0 on 31 Oct/1 Nov",
+  "news": "league site and BetExplorer agree on Saturday 21 Nov",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.7718965814,
+    "why": "MAFCO lost all 4 away games scoring once; Creck 3-0-2 at home. Trend 0.70; own est 0.79 v house 0.772"
+   }
+  ],
+  "avoid": "Overs (low-scoring league, 0.8/0.6 GF)",
+  "confidence": 0.2,
+  "sources": [
+   "https://sulommw.com/2026-fixtures/",
+   "https://www.betexplorer.com/football/malawi/super-league/",
+   "https://www.sofascore.com/football/team/silver-strikers/305264"
+  ]
+ },
+ {
+  "eid": "sr:match:70381748",
+  "fx": "Dedza Dynamos FC v Red Lions",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Malawi Super League",
+  "news": "CONFLICT: league site sulommw.com lists Dedza Dynamos v Red Lions on Sunday 22 Nov at Dedza Stadium; BetExplorer lists 21 Nov",
+  "veto": true,
+  "veto_reason": "date conflict (21 v 22 Nov)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://sulommw.com/2026-fixtures/",
+   "https://www.betexplorer.com/football/malawi/super-league/",
+   "https://www.sofascore.com/football/team/silver-strikers/305264"
+  ]
+ },
+ {
+  "eid": "sr:match:70381736",
+  "fx": "Ekhaya FC v Civil Service United FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Malawi Super League",
+  "news": "CONFLICT: league site sulommw.com lists Ekhaya and Civil Service United (Civo) fixtures on Saturday 28 Nov; no 21 Nov listing found for this pairing",
+  "veto": true,
+  "veto_reason": "date conflict (league site points to 28 Nov)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://sulommw.com/2026-fixtures/",
+   "https://www.betexplorer.com/football/malawi/super-league/",
+   "https://www.sofascore.com/football/team/silver-strikers/305264"
+  ]
+ },
+ {
+  "eid": "sr:match:70381738",
+  "fx": "Silver Strikers v Blue Eagles Malawi",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Malawi Super League; Silver Strikers 5-3-2 (2-2-1 home, 0.4 GA home), Blue Eagles 2-0-3 away; Silver Strikers won 1-0 at Red Lions recently; Blue Eagles beat Silver 1-0 in May 2026",
+  "news": "only Sofascore confirms 21 Nov 13:00 UTC (page metadata old); not found on league site extract - no conflict but unverified",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7444761096,
+    "why": "Silver Strikers concede 0.4/g at home and lose rarely (2 in 10); Blue Eagles lost 3 of 5 away. Own est 0.75 v house 0.744; low confidence - date single-sourced"
+   }
+  ],
+  "avoid": "Overs (Silver 1.1 GF, 0.8 GA); Home -0.5 (0-0 draws common)",
+  "confidence": 0.15,
+  "sources": [
+   "https://sulommw.com/2026-fixtures/",
+   "https://www.betexplorer.com/football/malawi/super-league/",
+   "https://www.sofascore.com/football/team/silver-strikers/305264"
+  ]
+ },
+ {
+  "eid": "sr:match:76834452",
+  "fx": "Al-Fahaheel v Burgan SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Crown Prince Cup GROUP C (new 19-club group format, not knockout) at Al-Shabab Stadium; Burgan 0-1-5 away (0.5 GF, 2.0 GA)",
+  "news": "Arab Times (19 Nov): Saturday 5:20pm local (=14:20 UTC) at Al-Shabab Stadium - matches board; AiScore shows a 26 Nov cup date but also a 21 Nov game between the same clubs (labelling error)",
+  "veto": false,
+  "veto_reason": "soft: AiScore lists 26 Nov for the cup game; Arab Times and board agree on 21 Nov 14:20 UTC",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.672233,
+    "why": "Burgan lost 5 of 6 away scoring 0.5/g; Fahaheel 2-1-2 at home with 1.8 GF. Group stage, not knockout. Own est 0.68 v house 0.672"
+   }
+  ],
+  "avoid": "Home -1.5 (Fahaheel 3-1-6 overall); Under markets",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.arabtimesonline.com/news/salmiya-tadamon-lead-crown-prince-cup-opening-fixtures/",
+   "https://kuwaittimes.com/article/37816/sports/football/crown-prince-cup-draw-ceremony-concludes/",
+   "https://www.aiscore.com/team-al-fahaheel-sc/o07dnidrrwt9knx"
+  ]
+ },
+ {
+  "eid": "sr:match:76365886",
+  "fx": "AL Faisaly (Jor) v Al-Ahly Amman",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Jordan Cup ROUND OF 16 knockout at Amman International Stadium; Faisaly heavy favourite (1.12) v Al-Ahly (2-3-5, 0.67 GF away)",
+  "news": "Jordan News: Faisaly v Ahli Saturday 7pm local (=16:00 UTC) at Amman International, ref Mahmoud Al-Swalmeh; consistent",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "No",
+    "odds": 1.18,
+    "p": 0.8000019598,
+    "why": "Ahly score 0.67/g away and Faisaly 1.17-0.8 at home; knockout favourite should control. Own est 0.79 v house 0.80 - no edge, only a filler"
+   }
+  ],
+  "avoid": "Result-sides (knockout); Home -1.5 (trend 0.20); Under markets p<0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jordannews.jo/Section-71/Football/Referee-teams-named-for-Jordan-Cup-round-of-16-matches-59010"
+  ]
+ },
+ {
+  "eid": "sr:match:76834442",
+  "fx": "Al-Nasr SC v Al Salibikhaet",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Crown Prince Cup GROUP B (Tadamon, Al-Jazeera, Al-Nasr, Sulaibikhat) at Mohammed Al-Hamad Stadium; Sulaibikhat winless in 10 (0-5-5), 2.86 GA away incl. 0-7",
+  "news": "Arab Times: Saturday 7:30pm local (=16:30 UTC) at Mohammed Al-Hamad Stadium - matches board",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.7724555387,
+    "why": "Sulaibikhat winless in 10 (0-5-5), 0-2-5 away; Al-Nasr 4-3-3. Trend 0.85; own est 0.80 v house 0.772"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.58,
+    "p": 0.587116,
+    "why": "Sulaibikhat away games avg 3.9 goals; Al-Nasr home 4.0 goals/g; trend 0.75. Own est 0.62 v house 0.587"
+   }
+  ],
+  "avoid": "Al-Nasr 1X2 1.73 (Sulaibikhat draw 5 of 10); Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.arabtimesonline.com/news/salmiya-tadamon-lead-crown-prince-cup-opening-fixtures/",
+   "https://kuwaittimes.com/article/37816/sports/football/crown-prince-cup-draw-ceremony-concludes/",
+   "https://www.aiscore.com/team-al-fahaheel-sc/o07dnidrrwt9knx"
+  ]
+ },
+ {
+  "eid": "sr:match:75019720",
+  "fx": "Safa SC v AL Ansar SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Lebanese PL top clash: Safa 7-1-2 (4-0-0 home, 4.0 GF) v Al Ansar 8-1-1; Safa host Nejmeh 24/25 Nov (midweek)",
+  "news": "BetExplorer: Safa v Al Ansar 21 Nov 20:30 CET = 19:30 UTC, consistent with board",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.27,
+    "p": 0.743301,
+    "why": "Both sides' last 10 all had 2+ goals (trend 1.00); Safa score 4.0/g at home, Ansar 2.0/g. Lebanon league avg is borderline for the O1.5 rule, so own est 0.77 v house 0.743"
+   }
+  ],
+  "avoid": "Result-sides (big-club clash); Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betexplorer.com/football/lebanon/premier-league/",
+   "https://www.forebet.com/en/predictions-lebanon/premier-league",
+   "https://www.transferhunt.com/competition/lebanese-premier-league-990021",
+   "https://www.365scores.com/en-us/football/match/premier-league-566/al-ahed-al-akhaa-al-ahli-8287-8293-566"
+  ]
+ }
+]

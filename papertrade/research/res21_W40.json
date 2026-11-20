@@ -1,0 +1,569 @@
+[
+ {
+  "eid": "sr:match:73711532",
+  "fx": "Udinese Calcio v FC Sudtirol Bolzano",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. Matchday 9, Tavagnacco Stadium.",
+  "news": "Udinese club site and MondoPrimavera list 11:00 CET (=board 10:00 UTC), but Diario FVG says the Lega B calendar lists 14:30 CET; YouTube stream.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (11:00 vs 14:30 CET); youth fixture.",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/",
+   "https://www.diariofvg.it/2026/11/20/udinese-sudtirol-primavera-diretta-youtube"
+  ]
+ },
+ {
+  "eid": "sr:match:73712042",
+  "fx": "US Salernitana v Spezia Calcio",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. Campo G. Troisi, Giffoni Valle Piana, 11:00 CET (matches board). Salernitana 1W in 10, 0.33 GF/home game.",
+  "news": "Fixture/time confirmed by Salernitana.it and MondoPrimavera; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (youth); Salernitana goals",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/",
+   "https://salernitana.it/news/campionato-primavera-2-cisalfa-sport-il-calendario-2026-27-della-salernitana/"
+  ]
+ },
+ {
+  "eid": "sr:match:73712038",
+  "fx": "Pescara Calcio v Cosenza Calcio",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. Stadio Petruzzi, Citta Sant'Angelo, 11:30 CET (matches board). Pescara home games avg 6.6 total goals (3.4 GF/3.2 GA); Cosenza 0W in 6 away, 3.17 GA away.",
+  "news": "Time/venue confirmed by MondoPrimavera; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.36,
+    "p": 0.693,
+    "why": "Goals-only youth mismatch: Pescara home games 3.4 GF/3.2 GA, Cosenza concede 3.17 per away game; Over 2.5 trend 0.70, sim 0.68. My p ~0.71."
+   }
+  ],
+  "avoid": "result sides (youth rule); Pescara -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73712028",
+  "fx": "Ascoli Calcio 1898 FC v Benevento Calcio",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. Picchio Village, 12:00 CET (matches board 11:00 UTC). Benevento 7W in 10; Ascoli 1W in 10.",
+  "news": "Time/venue confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth; no clear goals edge)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73712036",
+  "fx": "SSC Napoli v Perugia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. Stadio G. Piccolo, Cercola, 12:30 CET (matches board 11:30 UTC).",
+  "news": "Time/venue confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth, balanced)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73095070",
+  "fx": "Parma Calcio v SSC Napoli",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie A Women matchday 8, 12:30 CET (matches board). Parma bottom with 1 pt; Napoli 8 pts, 2D 1W in last 3.",
+  "news": "Previews confirm 12:30 CET kick-off; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's - no picks)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.acmilan.com/en/news/articles/women/2026-11-20/serie-a-women-ac-milan-vs-sassuolo-match-preview",
+   "https://www.sassuolocalcio.it/femminile/serie-a-women-athora-info-biglietti-milan-sassuolo/",
+   "https://it.wikipedia.org/wiki/Serie_A_2026-2027_(calcio_femminile)",
+   "https://www.goal.com/it/notizie/guarda-parma-calcio-1913-contro-s-s-d-napoli-femminile-in-diretta-oggi-chi-trasmette-la-partita-in-tv-e-in-live-streaming/blt4257094634e40581"
+  ]
+ },
+ {
+  "eid": "sr:match:73711528",
+  "fx": "AC Renate v Modena",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. Stadio Riboldi, 14:30 CET (matches board).",
+  "news": "Time/venue confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73712032",
+  "fx": "Frosinone Calcio v US Avellino",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. Citta dello Sport, Ferentino, 14:30 CET.",
+  "news": "Time/venue confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73712040",
+  "fx": "Pisa Calcio v Palermo FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. Stadio Pagni, Peccioli, 14:30 CET.",
+  "news": "Time/venue confirmed (MondoPrimavera, Pisa calendar); no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/",
+   "https://pisasportingclub.com/en/primavera-2-il-calendario-dei-nerazzurri/"
+  ]
+ },
+ {
+  "eid": "sr:match:73711530",
+  "fx": "Sampdoria Genoa v Pro Vercelli 1892",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. 3 Campanili, Bogliasco, 14:30 CET. Samp 3.1 GF/game last 10.",
+  "news": "Time/venue confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides; Over 2.5 1.40 (p0.67) plausible but not a clear mismatch",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73712030",
+  "fx": "SSC Bari v Catanzaro Calcio 2011",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. Stadio Palmiotta, Modugno, 14:30 CET. Regional (Apulia-Calabria) clash, both 6W in 10.",
+  "news": "Calcio Catanzaro preview confirms 'Primavera a Bari'; Catanzaro youth seeking a response after a defeat. No absences named.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth, balanced)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/",
+   "https://www.calciocatanzaro.it/2026/11/20/catanzaro-gli-aquilotti-cercano-il-riscatto-primavera-a-bari-tre-sfide-al-federale/"
+  ]
+ },
+ {
+  "eid": "sr:match:73711534",
+  "fx": "Union Brescia v AS Cittadella",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. C.S. San Filippo, Brescia, 14:30 CET.",
+  "news": "Time/venue confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73711536",
+  "fx": "Venezia FC v LR Vicenza",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primavera 2 (U20 youth) - no result-side picks by rule; goals only in clear mismatches. C.S. Taliercio, 14:30 CET; billed as the group A 'big match'.",
+  "news": "Time/venue confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth, top-of-table clash)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-2a/nona-giornanta-programma-date-orari-campi",
+   "https://www.footballscouting.it/campionato-primavera-2/primavera-2-2026-27-programma-nona-giornata-orari-campi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73293370",
+  "fx": "Treviso FBC 1993 v US Pergolettese Crema",
+  "sport": "football",
+  "absences": "Pergolettese: RB Luca Roversi suspended (5th booking); Riccardo Stronati and Zaid Jaouhari injured. Treviso: none reported.",
+  "context": "Serie C A matchday 15, 14:30 CET (matches board 13:30 UTC). Treviso 6th on 22 pts, 0.4 GA per home game (last 5).",
+  "news": "Crema-News: Pergolettese without Roversi (ban), Stronati and Jaouhari (injured); aiming to win in Treviso. No Treviso news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.755,
+    "why": "DNB covers the draw; Treviso concede 0.4 per home game and Pergolettese are missing suspended RB Roversi plus injured Stronati and Jaouhari. My p ~0.77."
+   }
+  ],
+  "avoid": "Treviso -1 (low-scoring side, 0.9 GF/game); Unders below 0.82",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.seriec.com/gironi/girone-a",
+   "https://www.diretta.it/calcio/italia/serie-c-girone-a/",
+   "https://crema-news.it/sport/calcio-auguri-pergo"
+  ]
+ },
+ {
+  "eid": "sr:match:73627190",
+  "fx": "Borgosesia Calcio v Biellese",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie D A matchday 13, 14:30 CET. 'Derby della Lana' (Piedmont derby). Biellese 2nd on 24 pts, joint-best attack (25 goals).",
+  "news": "SerieD.it previews the derby; Biellese pushing for the podium. No absences named.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (derby rule); thin Serie D goal lines",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://www.notiziariocalcio.com/serie-d/serie-d-13a-giornata-anticipi-sabato-orari-campi-arbitri-turno-382225",
+   "https://www.seried.it/2026/11/derby-della-lana-borgosesia-sfida-la-biellese-da-podio/"
+  ]
+ },
+ {
+  "eid": "sr:match:73628798",
+  "fx": "Usd Scanzorosciate Calcio v AC Chievo Verona",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie D B matchday 13, Saturday early fixture 14:30 CET. Chievo 5W in 10, 2.1 GF/game.",
+  "news": "Only the schedule was found; no preview or team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Chievo away 1X2 p0.51 (<0.75 rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://www.notiziariocalcio.com/serie-d/serie-d-13a-giornata-anticipi-sabato-orari-campi-arbitri-turno-382225"
+  ]
+ },
+ {
+  "eid": "sr:match:73628138",
+  "fx": "US Triestina Calcio 1918 v Brian Lignano Calcio",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie D C matchday 13, Stadio Nereo Rocco, 14:30 CET. Billed as a regional derby crucial for survival; Triestina 3 games unbeaten; Brian Lignano lost all 6 home games (they are away here).",
+  "news": "SerieD.it/NotiziarioCalcio: 'derby cruciale per la salvezza', Triestina unbeaten in 3. No absences named.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (derby/relegation six-pointer); Under 2.5 p0.51",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://www.notiziariocalcio.com/serie-d/serie-d-13a-giornata-anticipi-sabato-orari-campi-arbitri-turno-382225",
+   "https://www.seried.it/2026/11/serie-d-girone-c-triestina-brian-lignano-un-derby-cruciale-per-la-salvezza/"
+  ]
+ },
+ {
+  "eid": "sr:match:73294106",
+  "fx": "AS Ostiamare v Atalanta BC U23",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie C B matchday 15, 14:30 CET. Atalanta U23 is a reserve side; their home game with Pineto was postponed to Wed 25 Nov (game in hand, midweek fixture next). Atalanta U23 18 pts, Ostiamare 10 pts, 0W in 5 home.",
+  "news": "Designations confirm 14:30; U23 v Pineto postponed to 25 Nov. No absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side; not a clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tuttocampo.it/Italia/News/1882282/serie-c-girone-b-ecco-le-designazioni-della-giornata-15",
+   "https://www.tuttoatalanta.com/serie-c/serie-c-gir-b-14a-giornata-risultati-classifica-aggiornata-l-u23-rinvia-pineto-spezia-vola-141946"
+  ]
+ },
+ {
+  "eid": "sr:match:73294116",
+  "fx": "Vado FC v Latina Calcio",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie C B matchday 15, 14:30 CET. Latina 18 pts, Vado 16; Latina 0W in 5 away, 0.4 GF away.",
+  "news": "Designations confirm 14:30; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Latina DNB/X2 (no away form); Vado +1.5 p0.77 has no named mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tuttocampo.it/Italia/News/1882282/serie-c-girone-b-ecco-le-designazioni-della-giornata-15",
+   "https://www.tuttoatalanta.com/serie-c/serie-c-gir-b-14a-giornata-risultati-classifica-aggiornata-l-u23-rinvia-pineto-spezia-vola-141946"
+  ]
+ },
+ {
+  "eid": "sr:match:73294844",
+  "fx": "Audace Cerignola v Barletta Calcio",
+  "sport": "football",
+  "absences": "Barletta: Idris Voca suspended (one source also lists Della Rocca); Domenico Franco back from a ban; Partipilo fit.",
+  "context": "Serie C C matchday 15, 14:30 CET. Apulian regional derby. Cerignola 20 pts, 0 GA in last 5 at home; Barletta 12th on 18.",
+  "news": "BarlettaViva/AntennaSud: Paci without Voca (and maybe Della Rocca), Franco back. No Cerignola news found; sources disagree on Della Rocca.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (regional derby); Unders below 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fcinter1908.it/inter-under-23/news-inter-under-23/interu23-potenza-designazione/",
+   "https://www.barlettaviva.it/sport/barletta-a-cerignola-per-non-fermarsi/",
+   "https://antennasud.com/barletta-paci-dovremo-affrontare-il-cerignola-da-squadra"
+  ]
+ },
+ {
+  "eid": "sr:match:73294852",
+  "fx": "Inter Milano U23 v Potenza Calcio",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie C C matchday 15, Stadio Breda, Sesto San Giovanni, 14:30 CET. Reserve side. Potenza lead with 35 pts from 14 games (3 straight wins, 9W1D in 10); Inter U23 in the playoff zone. Referee Tropiano.",
+  "news": "Inter.it/FCInter1908 confirm date/venue/referee; no squad news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side; leaders v playoff side is not a clear mismatch)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fcinter1908.it/inter-under-23/news-inter-under-23/interu23-potenza-designazione/",
+   "https://www.barlettaviva.it/sport/barletta-a-cerignola-per-non-fermarsi/",
+   "https://antennasud.com/barletta-paci-dovremo-affrontare-il-cerignola-da-squadra",
+   "https://www.inter.it/it/notizie/inter-u23-potenza-guida-biglietti-serie-c-2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:75949138",
+  "fx": "AL Julan v AL Naft",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Iraq Stars League round 14, 14:00 UTC (365Scores, matches board). Tight, low-scoring profile (Al Naft concede 0.6/game).",
+  "news": "Fixture confirmed; no team news found; kick-off times vary across sites by time zone only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (Unders below 0.82; thin league)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/iraqi-league-6822/matches",
+   "https://www.ysscores.com/en/match/81056217/Newroz-SC-vs-Al-Karma"
+  ]
+ },
+ {
+  "eid": "sr:match:73095068",
+  "fx": "AC Milan v Sassuolo Calcio",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie A Women matchday 8, Stadio Vismara, 15:00 CET per club sites (Wikipedia lists 12:30). Milan 7 pts after a 3-3 at Napoli; Sassuolo 4 pts, joint bottom.",
+  "news": "AC Milan and Sassuolo official previews give 15:00 CET (= board 14:00 UTC); Wikipedia shows 12:30 (likely stale).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's - no picks)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.acmilan.com/en/news/articles/women/2026-11-20/serie-a-women-ac-milan-vs-sassuolo-match-preview",
+   "https://www.sassuolocalcio.it/femminile/serie-a-women-athora-info-biglietti-milan-sassuolo/",
+   "https://it.wikipedia.org/wiki/Serie_A_2026-2027_(calcio_femminile)"
+  ]
+ },
+ {
+  "eid": "sr:match:76570804",
+  "fx": "Foolad Khuzestan FC v Sepahan SC",
+  "sport": "football",
+  "absences": "Sepahan: top scorer Kasra Taheri (6 goals) out, muscle strain picked up with the national team.",
+  "context": "Persian Gulf Pro League week 13, Saturday 30 Aban, 18:00 Tehran (=14:30 UTC, matches board). Leaders Sepahan (26 pts) v 4th-placed Foolad (23 pts); Foolad unbeaten in 10 home league games, 0.2 GA at home in the last 5. Venue named as both Foolad Arena and Shohadaye Foolad (both Ahvaz).",
+  "news": "SNN/IRIB: Sepahan travel to Ahvaz without Kasra Taheri; billed as the key game of the week. Referee Seyed Reza Mahdavi.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sepahan DNB 1.25 (away side without its top scorer v an unbeaten home side); Under 3.5 1.16 below the odds floor",
+  "confidence": 0.2,
+  "sources": [
+   "https://snn.ir/fa/news/1492339",
+   "https://www.irib-news.ir/fa/news/5970598",
+   "https://fbtv3.ir/news/58964",
+   "https://www.betexplorer.com/football/iran/persian-gulf-pro-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:75949142",
+  "fx": "AL Naft Maysan v AL Mosul SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Iraq Stars League round 14, Maysan Stadium, 15:30 UTC (365Scores). Both 1W in 10, 0.7 GF/game.",
+  "news": "Fixture confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (Under 3.5 p0.79 < 0.82; thin league)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/iraqi-league-6822/matches",
+   "https://www.ysscores.com/en/match/81056217/Newroz-SC-vs-Al-Karma"
+  ]
+ },
+ {
+  "eid": "sr:match:75949140",
+  "fx": "Newroz SC v AL Karma",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Iraq Stars League round 14, Newroz International Stadium, 16:30 UTC (365Scores). Newroz unbeaten in 10, conceding 0.1/game.",
+  "news": "Fixture confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 1.18 p0.80 (just under the 0.82 Under gate)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/iraqi-league-6822/matches",
+   "https://www.ysscores.com/en/match/81056217/Newroz-SC-vs-Al-Karma"
+  ]
+ },
+ {
+  "eid": "sr:match:73293362",
+  "fx": "AS Giana Erminio v Juventus Next Gen",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie C A matchday 15, 17:30 CET (matches board 16:30 UTC), Sky 252. Juve Next Gen is a reserve side, 0W in 6 away. Giana 17th on 13 pts after a 1-1 at Carpi; coach Tacchinardi.",
+  "news": "TifoJuventus/TuttoTritium previews: no squad lists yet; Next Gen expected 3-4-2-1 (Mangiapoco, Konate).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seriec.com/gironi/girone-a",
+   "https://www.diretta.it/calcio/italia/serie-c-girone-a/",
+   "https://www.tifojuventus.it/2026/11/19/giana-juventus-next-gen-formazioni-dove-vederla/",
+   "https://www.tuttotritiumgiana.com/giana-erminio/giana-juventus-ng-ritrovare-rigenerante-posta-piena-28345"
+  ]
+ },
+ {
+  "eid": "sr:match:73293360",
+  "fx": "US Folgore Caratese v FC Arzignano Valchiampo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie C A matchday 15, 17:30 CET. Arzignano 5th on 24 pts, 6W in 10; Folgore 0W in 5 home, 0.4 GF and 1.8 GA per home game.",
+  "news": "Fixture confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.35,
+    "p": 0.692,
+    "why": "Fixture-specific: Folgore are winless in 5 home games (0.4 GF), Arzignano 5th with 6W in 10; X2 trend 0.85 v house 0.69. No news, so my p ~0.71 (statistics-only, fill-grade)."
+   }
+  ],
+  "avoid": "Arzignano 1X2 (p0.44 < 0.75 away rule)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.seriec.com/gironi/girone-a",
+   "https://www.diretta.it/calcio/italia/serie-c-girone-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:73294110",
+  "fx": "ASD Pineto Calcio v Delfino Pescara",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie C B matchday 15, Stadio Pavone-Mariani, 17:30 CET. Abruzzo derby. Originally calendared for 22 Nov; the latest preview and the referee designations both give Sat 21 Nov 17:30. Pescara top (25 pts); Pineto beat Vis Pesaro 1-0 last time out.",
+  "news": "TuttoPescaraCalcio preview and Tuttocampo designations confirm 21 Nov 17:30 (date moved from 22 Nov in the July calendar).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (derby rule); Under 3.5 p0.72",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tuttocampo.it/Italia/News/1882282/serie-c-girone-b-ecco-le-designazioni-della-giornata-15",
+   "https://www.tuttoatalanta.com/serie-c/serie-c-gir-b-14a-giornata-risultati-classifica-aggiornata-l-u23-rinvia-pineto-spezia-vola-141946",
+   "https://www.tuttopescaracalcio.com/primo-piano/pineto-pescara-derby-mette-prova-ambizioni-delfino-45363"
+  ]
+ },
+ {
+  "eid": "sr:match:73294098",
+  "fx": "Campobasso FC v Vis Pesaro 1898",
+  "sport": "football",
+  "absences": "Vis Pesaro: forward Nicastro suspended (2 games), so captain Di Paola starts beside Lari. Campobasso: Salines and Stoppa (both knocks at Latina) back in training and available.",
+  "context": "Serie C B matchday 15, 17:30 CET. Campobasso coming off a 0-4 at Latina ('a wounded but strong side', per Vis coach Aglietti); Vis 0W in 5 away, 0.4 GF away.",
+  "news": "Il Resto del Carlino: Vis without Nicastro, Di Paola yet to score. Il Giornale del Molise: Salines and Stoppa available.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.766,
+    "why": "DNB. Vis Pesaro lose suspended forward Nicastro and have 0W and 0.4 GF in their last 5 away games; Campobasso get Salines and Stoppa back. My p ~0.79."
+   }
+  ],
+  "avoid": "Vis +2.0/+1.5 catches; Campobasso -1",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.tuttocampo.it/Italia/News/1882282/serie-c-girone-b-ecco-le-designazioni-della-giornata-15",
+   "https://www.tuttoatalanta.com/serie-c/serie-c-gir-b-14a-giornata-risultati-classifica-aggiornata-l-u23-rinvia-pineto-spezia-vola-141946",
+   "https://www.ilrestodelcarlino.it/pesaro/sport/domani-alle-1730-la-936a7aef",
+   "https://www.ilgiornaledelmolise.it/2026/11/18/c-campobasso-in-vista-della-vis-pesaro-salines-e-stoppa-arruolabili/",
+   "https://youtvrs.it/vis-pesaro-aglietti-avvisa-affrontiamo-una-squadra-ferita-e-forte"
+  ]
+ }
+]

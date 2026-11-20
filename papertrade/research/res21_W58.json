@@ -1,0 +1,539 @@
+[
+ {
+  "eid": "sr:match:70899134",
+  "fx": "Tulsa Golden Hurricane v Charlotte 49ers",
+  "sport": "american football",
+  "absences": "none reported",
+  "context": "Charlotte 1-9 (1-9 last10, 36 ppg allowed) at Tulsa 6-4; 2pm ET ESPN+ confirmed by American schedule. Tulsa needs win for bowl positioning.",
+  "news": "Charlotte 1-9; B/R predicts Tulsa 38-17; kickoff 2pm ET (=19:00 UTC) matches.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tulsa ML 1.04 below price floor; -24.5 is a coin flip (p .46) and trend 0.3 against covering; no total edge.",
+  "confidence": 0.25,
+  "sources": [
+   "https://bleacherreport.com/articles/25534151-2026-week-12-college-football-predictions-every-game",
+   "https://theamerican.org/schedule.aspx?schedule=1466"
+  ]
+ },
+ {
+  "eid": "sr:match:70924672",
+  "fx": "Valparaiso Beacons v Saint Thomas Tommies",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Pioneer League: St. Thomas (7-3 last10) at Valparaiso (5-5); 1pm CT Brown Field (=19:00 UTC) ESPN+.",
+  "news": "Schedule confirms 1pm, no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "St. Thomas ML 1.24 (p .77) has only aggregate-form support, no named mechanism; FCS-lower-tier, skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_St._Thomas_Tommies_football_team",
+   "https://en.wikipedia.org/wiki/2026_Valparaiso_Beacons_football_team"
+  ]
+ },
+ {
+  "eid": "sr:match:70924698",
+  "fx": "West Georgia Wolves v West Florida Argonauts",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "UAC rivalry, first 'Borderline Brawl' at Carrollton; West Georgia 1-9 (14 ppg). West Florida lost 31-17 at Tarleton last week (UAC title gone). Kickoff 2pm ET per ESPN/AXS; Wikipedia 1pm = 1pm CT (Pensacola) — same instant, no real conflict.",
+  "news": "Rivalry branding announced; times 2pm ET/1pm CT consistent with 19:00 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rivalry game (derby rule: no result-side). West Florida ML 1.23 would otherwise qualify; West Florida may be flat after title elimination.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.axs.com/events/1419165/west-florida-argonauts-at-west-georgia-wolves-football-tickets",
+   "https://en.wikipedia.org/wiki/2026_West_Florida_Argonauts_football_team"
+  ]
+ },
+ {
+  "eid": "sr:match:70899164",
+  "fx": "Appalachian State Mountaineers v Louisiana-Monroe Warhawks",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "ULM 2-8 at App State 6-4, Kidd Brewer 2:30pm ET; App State off a win, ULM off a loss.",
+  "news": "Athlon: App State -13.5; B/R predicts 34-21.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "App ML 1.13 below floor; -15.5 trend 0.3 (App wins have been close); skip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://athlonsports.com/college-football/louisiana-monroe-warhawks-at-appalachian-state-mountaineers-ncaaf-prediction-picks-odds-week12-2026",
+   "https://bleacherreport.com/articles/25534151-2026-week-12-college-football-predictions-every-game"
+  ]
+ },
+ {
+  "eid": "sr:match:70899132",
+  "fx": "Florida Atlantic Owls v South Florida Bulls",
+  "sport": "american football",
+  "absences": "USF starting QB Michael Van Buren hurt Oct 31 v UAB, Kromenhoek starting since; FAU injury list unavailable",
+  "context": "In-state rivalry, Boca Raton 2:30pm ET. FAU pass attack #6 nationally (320.8 ypg; Messer 1,033 yds 13 TD, Valsin 923).",
+  "news": "USF on backup QB; FAU prolific passing; pick'em line.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pick'em 1.90/1.82 and total 63.5 at ~0.5; in-state rivalry; no edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://gousfbulls.com/news/2026/11/19/football-bulls-head-south-to-face-florida-atlantic-on-saturday"
+  ]
+ },
+ {
+  "eid": "sr:match:70899146",
+  "fx": "Illinois Fighting Illini v Iowa Hawkeyes",
+  "sport": "american football",
+  "absences": "Illinois: QB Katin Houser doubtful (broken nose + concussion, surgery Monday), backup QB Michael Clayton II OUT (hand) -> 3rd-string Carson Boyd expected to start; WR Hudson Clement out for season, S Tanner Heckel and WR Jayshon Platt doubtful. Iowa: S Xavier Styles likely out, WR Tony Diaz questionable, RB Kamari Moulton out for season, C Cael Winter back.",
+  "context": "Iowa must-win for playoff hopes; Iowa run D allows 83.6 ypg (6th). 1:30pm CT = 19:30 UTC.",
+  "news": "Illinois down to third-string QB; Iowa must-win; Iowa defence elite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.24,
+    "p": 0.769571,
+    "why": "Named mechanism: Illinois starts 3rd-string QB Carson Boyd (Houser doubtful, Clayton out) v Iowa defence allowing 11.7 ppg last 10; Iowa must-win. Own p ~0.82 vs house 0.77."
+   }
+  ],
+  "avoid": "Iowa -7.5 (p .51): Iowa offence low-output (27.8 ppg incl. weak opps) and Ferentz games stay close; Under team totals below p .82 threshold.",
+  "confidence": 0.35,
+  "sources": [
+   "https://247sports.com/college/illinois/article/katin-houser-illinois-fighting-illini-football-injury-update-quarterback-tanner-heckel-247sports-rankings-bennett-konkey-illini-women-basketball-ball-state-292957929/",
+   "https://247sports.com/college/iowa/article/iowa-football-injury-report-xavier-styles-tony-diaz-292895296/",
+   "https://ats.io/college-football/iowa-vs-illinois-prediction-november-21-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:70924684",
+  "fx": "Alabama State Hornets v Prairie View A&M Panthers",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "SWAC: Prairie View A&M at Alabama State; ESPN schedule lists Nov 21, time TBD in pre-season release (SportyBet 20:00 UTC).",
+  "news": "Date confirmed, no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Near pick'em, no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://fbschedules.com/swac-announces-2026-espn-football-tv-schedule/amp/",
+   "https://www.waff.com/2026/05/28/swac-announces-2026-tv-football-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:70924686",
+  "fx": "Alcorn State Braves v Jackson State Tigers",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "SWAC rivalry (Jackson State at Alcorn State), Nov 21, time TBD in schedule releases; only 8 markets on board.",
+  "news": "Date confirmed by two schedules; kickoff time unconfirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rivalry (no result-side); thin market; kickoff unverified.",
+  "confidence": 0.1,
+  "sources": [
+   "https://fbschedules.com/swac-announces-2026-espn-football-tv-schedule/amp/"
+  ]
+ },
+ {
+  "eid": "sr:match:71187118",
+  "fx": "Kennesaw State Owls v FIU Panthers",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "CUSA: FIU 4-6 at Kennesaw State 4-6, 3pm ET; FIU still alive for bowl (needs both remaining games).",
+  "news": "CBS: Kennesaw -2.5; B/R 24-21 Kennesaw.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Near pick'em; no edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://bleacherreport.com/articles/25534151-2026-week-12-college-football-predictions-every-game",
+   "https://www.on3.com/news/college-football-bowls-need-16-more-teams-and-45-are-still-alive-to-get-to-six-wins/"
+  ]
+ },
+ {
+  "eid": "sr:match:70992554",
+  "fx": "Lindenwood Lions v Western Illinois Leathernecks",
+  "sport": "american football",
+  "absences": "no news found (no source found for this game)",
+  "context": "OVC-Big South: Western Illinois at Lindenwood; could not confirm date/time from web sources.",
+  "news": "No news found; game not found in search.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unverified fixture details; WIU ML p .71 below threshold.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:70899172",
+  "fx": "Louisiana Ragin Cajuns v Coastal Carolina Chanticleers",
+  "sport": "american football",
+  "absences": "no injury news found",
+  "context": "Coastal Carolina 4-6 at Louisiana 7-3, home finale; Louisiana 5-0 at home. Sources list 2pm (CT), 3pm (ET) — same instant, 20:00 UTC; an 8pm listing appears to be a UTC display. Louisiana allows 21.7 ppg.",
+  "news": "Louisiana -10/-10.5, ML -410/-425; models give Louisiana ~80%. Coastal QB Deuce Bailey main threat.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.794472,
+    "why": "Home finale, unbeaten at home (5-0) v 4-6 Coastal who lost 4 of last 6; market consensus -410/-425 elsewhere. Own p ~0.80 vs house 0.79; mechanism is fixture-specific home form only, so modest confidence."
+   }
+  ],
+  "avoid": "-11.5 (trend 0.3: Louisiana wins narrow: 28-26, 23-20).",
+  "confidence": 0.25,
+  "sources": [
+   "https://sports.betmgm.com/en/blog/college-football/coastal-carolina-louisiana-prediction-odds-player-prop-bets-picks-ncaaf-week-12-jaa/",
+   "https://www.docsports.com/free-picks/football/2026/coastal-carolina-chanticleers-vs-louisiana-ragin-cajuns-prediction-11-21-2026-college-football-picks-best-bets-odds.html"
+  ]
+ },
+ {
+  "eid": "sr:match:70924700",
+  "fx": "Mercer Bears v East Tennessee State Buccaneers",
+  "sport": "american football",
+  "absences": "no injury news found",
+  "context": "SoCon decider: ETSU at Mercer 3pm ET Five Star Stadium; Mercer win clinches outright SoCon title + FCS auto bid; ETSU also in contention. Mercer home finale.",
+  "news": "Mercer can clinch SoCon outright with a win; both teams highly motivated.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mercer ML 1.38 (p .69) — both sides must-win, close title game; no pick.",
+  "confidence": 0.2,
+  "sources": [
+   "https://den.mercer.edu/3-things-to-know-about-mercer-vs-etsu-football-game-day-nov-21-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:71187030",
+  "fx": "New Mexico State Aggies v Delaware FightinÂ´ Blue Hens",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "CUSA: Delaware 5-5 at New Mexico State 3-7; Delaware chasing bowl eligibility as small road favourite.",
+  "news": "On3: Delaware road favourite needing 6th win; B/R predicts NMSU 27-26.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Delaware ML 1.60 p .59 below threshold; split predictions.",
+  "confidence": 0.15,
+  "sources": [
+   "https://bleacherreport.com/articles/25534151-2026-week-12-college-football-predictions-every-game",
+   "https://www.on3.com/news/college-football-bowls-need-16-more-teams-and-45-are-still-alive-to-get-to-six-wins/"
+  ]
+ },
+ {
+  "eid": "sr:match:70970792",
+  "fx": "South Dakota State Jackrabbits v Indiana State Sycamores",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "MVFC: Indiana State (2-8) at South Dakota State; kickoff 2pm CT (SDSU) / 3pm ET (ISU) = same instant 20:00 UTC.",
+  "news": "Times consistent once time zones applied; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "SDSU ML 1.01 below floor; -35.5 too wide (trend 0.1).",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_South_Dakota_State_Jackrabbits_football_team",
+   "https://en.wikipedia.org/wiki/2026_Indiana_State_Sycamores_football_team"
+  ]
+ },
+ {
+  "eid": "sr:match:70993220",
+  "fx": "Texas Southern Tigers v Arkansas-Pine Bluff Golden Lions",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "SWAC: Arkansas-Pine Bluff at Texas Southern, 3pm ET on HBCU GO (=20:00 UTC).",
+  "news": "Kickoff confirmed by SWAC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UAPB ML 1.39 p .68 below away threshold.",
+  "confidence": 0.1,
+  "sources": [
+   "https://swac.org/news/2026/5/7/swac-announces-2026-hbcu-go-football-schedule.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:70924618",
+  "fx": "Weber State Wildcats v Utah Tech Trailblaizers",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Big Sky: Utah Tech (1-9, season finale) at Weber State, 1pm MT Stewart Stadium (=20:00 UTC).",
+  "news": "Time confirmed; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Weber ML 1.09 below floor; -18.5 trend 0.25.",
+  "confidence": 0.15,
+  "sources": [
+   "https://bigskyconf.com/schedule.aspx?schedule=2561",
+   "https://utahtechtrailblazers.com/news/2026/7/7/game-times-are-set-for-utah-tech-footballs-2026-season.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:70899142",
+  "fx": "Baylor Bears v Texas Tech Red Raiders",
+  "sport": "american football",
+  "absences": "Texas Tech: QB Thomas Castellanos took a collision (encouraging update), a teammate Johnson sore back/shoulder, RB Cameron Dickey ankle. Baylor: S Jacob Redding knee (out), WR T.J. Williams Jr. collarbone, QB DJ Lagway expected healthy.",
+  "context": "Texas Tech 9-1 playoff push at Baylor (6-4), McLane 2:30pm CT FOX. Line moved TTU -1.5 -> -3.5/-4.5.",
+  "news": "Covers TTU -4.5 total 56.5; Baylor 'eyes upset'.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "TTU ML 1.44 p .66 below away threshold; in-state Big 12 rivalry.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.covers.com/ncaaf/texas-tech-vs-baylor-prediction-picks-odds-nov-21-2026",
+   "https://www.stakingtheplains.com/2026/11/17/the-week-ahead-texas-tech-vs-baylor/"
+  ]
+ },
+ {
+  "eid": "sr:match:70894870",
+  "fx": "Bethune-Cookman Wildcats v Florida A&M Rattlers",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Florida Classic rivalry (FAMU v Bethune-Cookman), 3:30pm ET ESPN+; FAMU 2-8 in last10 per data.",
+  "news": "Listed on ESPN schedule at 3:30pm.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rivalry classic — no result-side; pick'em.",
+  "confidence": 0.1,
+  "sources": [
+   "https://fbschedules.com/swac-announces-2026-espn-football-tv-schedule/amp/"
+  ]
+ },
+ {
+  "eid": "sr:match:70899130",
+  "fx": "Connecticut Huskies v Old Dominion Monarchs",
+  "sport": "american football",
+  "absences": "no injury news found",
+  "context": "Old Dominion 3-7 at UConn 5-5, 3:30pm ET CBSSN; UConn needs one win for 3rd straight bowl (first under coach Jason Candle). First meeting.",
+  "news": "CBS UConn -13.5; B/R 35-17.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UConn ML 1.13 below floor; -14.5 at p .48 no edge.",
+  "confidence": 0.25,
+  "sources": [
+   "https://odusports.com/news/2026/11/18/game-preview-old-dominion-at-uconn",
+   "https://bleacherreport.com/articles/25534151-2026-week-12-college-football-predictions-every-game"
+  ]
+ },
+ {
+  "eid": "sr:match:70900996",
+  "fx": "Florida State Seminoles v NC State Wolfpack",
+  "sport": "american football",
+  "absences": "NC State: QB Will Wilson OUT (downgraded from questionable), several starters out (On3); WR/other Keenan Jackson out, Popo Aguirre probable. FSU: without top three RBs; a starting edge rusher out; QB Ashton Daniels (27 total TD, 12 INT).",
+  "context": "FSU (5-5) seeking bowl eligibility at home after 3-week layoff, 3:30pm ET ACCN (=20:30 UTC; ESPN '8:30 PM' is UTC display).",
+  "news": "NC State starting QB out; FSU must-win for bowl.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.784693,
+    "why": "Named mechanism: NC State starting QB Will Wilson ruled out plus several starters; FSU at home must win for bowl eligibility. FSU's own RB absences cap margin, so ML not spread. Own p ~0.81 vs house 0.785."
+   }
+  ],
+  "avoid": "-11.5 (trend 0.3; FSU missing top 3 RBs, 12 INT QB) — margin risk.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.on3.com/teams/nc-state-wolfpack/news/nc-state-availability-report-several-starters-listed-out-vs-florida-state/",
+   "https://sports.yahoo.com/articles/updated-fsu-nc-state-injury-012017229.html",
+   "https://seminoles.com/sports/football/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:70894880",
+  "fx": "Harvard Crimson v Yale Bulldogs",
+  "sport": "american football",
+  "absences": "no notable injury news",
+  "context": "The Game (142nd) at Fenway Park, Boston (neutral-ish, Harvard designated home), 3:30pm ET. Harvard 8-1 has clinched share + FCS auto bid, plays for outright title; Yale 5-4 has won 4 straight in the series and seeks 5th.",
+  "news": "Harvard favourite, Yale has recent rivalry edge; venue Fenway not Harvard Stadium (SportyBet lists Harvard home — consistent).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result-side; Harvard ML 1.36 p .70; Yale has won 4 straight meetings.",
+  "confidence": 0.15,
+  "sources": [
+   "https://ivyleague.com/news/2026/11/20/football-week-10-preview.aspx",
+   "https://gocrimson.com/news/2026/11/17/no-17-17-football-to-face-yale-at-fenway-park-in-142nd-edition-of-the-game.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:70899148",
+  "fx": "Michigan Wolverines v UCLA Bruins",
+  "sport": "american football",
+  "absences": "Only stale/unreliable injury info (Covers page dated September).",
+  "context": "UCLA 10-0, 1st in Big Ten, at Michigan 5-5, 3:30pm ET CBS.",
+  "news": "No current injury report found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result-side; UCLA ML p .62 anyway.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.covers.com/sport/football/ncaaf/matchup/378960"
+  ]
+ },
+ {
+  "eid": "sr:match:70919040",
+  "fx": "Penn State Nittany Lions v Rutgers Scarlet Knights",
+  "sport": "american football",
+  "absences": "Rutgers: top three QBs all banged up, starter unknown; OL allowed 15 sacks/25 TFL in last 4.",
+  "context": "Penn State Senior Day / final home game, 3:30pm ET FS1; PSU on 3-game win streak.",
+  "news": "Rutgers QB crisis; Penn State heavy favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "PSU ML 1.02 below floor; -27.5 coin flip (p .47) though Rutgers QB situation is supportive; Rutgers team-total Under 10.5 only p .52 (< .82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.statecollege.com/articles/penn-state-football/penn-state-vs-rutgers-preview-and-score-prediction/"
+  ]
+ },
+ {
+  "eid": "sr:match:70901012",
+  "fx": "Tennessee Volunteers v LSU Tigers",
+  "sport": "american football",
+  "absences": "Tennessee: 10 out incl. WR Mike Matthews, DT Tyree Weathersby (season-ending), OL Nic Moore (illness); QB George MacIntyre off report (available after knee knock). LSU: LB Whit Weeks out (7th game), WRs Jackson Harris and Winston Watkins Jr. questionable, CB Aidan Anding probable.",
+  "context": "Neyland 2:30pm CT; pick'em.",
+  "news": "Both injury-hit; LSU top two WRs questionable.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club SEC clash: no result-side; total p .54.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sports.yahoo.com/articles/thursday-lsu-vs-tennessee-injury-025517633.html",
+   "https://www.si.com/college/tennessee/football/tennessee-vs-lsu-initial-availability-report-01m7rm7jfdmr"
+  ]
+ },
+ {
+  "eid": "sr:match:70972866",
+  "fx": "Texas Longhorns v Arkansas Razorbacks",
+  "sport": "american football",
+  "absences": "Texas: DE Colin Simmons, CB Warren Roberson, OL Laurence Seymore III questionable; RB Hollywood Smothers, LT Trevor Goosby, TE Nick Townsend, DT Hero Kanu, DE Richard Wesley out. Arkansas: DB Braydon Lee, TEs Lassiter and Garretson, OL Bryant Williams out; DB Brylan Green doubtful.",
+  "context": "No.5 Texas hosts Arkansas, 2:30pm CT.",
+  "news": "Texas heavy favourite with several O-line/RB absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Texas ML 1.05 below floor; -21.5 trend 0.35 with Texas OL/RB absences.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.si.com/college/arkansas/football/arkansas-vs-texas-updated-injury-report-includes-status-of-quincy-rhodes-colin-simmons",
+   "https://www.on3.com/teams/texas-longhorns/news/texas-football-injury-report-longhorns-arkansas-razorbacks-nov-18-sec-availability/"
+  ]
+ },
+ {
+  "eid": "sr:match:70920506",
+  "fx": "Washington Huskies v Indiana Hoosiers",
+  "sport": "american football",
+  "absences": "Indiana: RB Turbo Richard out, G Joe Brunner out (ACL), DE Kellan Wyatt, LB Clayton Allen, DB Garrett Reese out; CB A.J. Harris doubtful; LB Rolijah Hardy questionable. Washington: RB Trey Cooley doubtful (concussion); RBs Jordan Washington, Quaid Carr, WR Christian Moss, OL Landen Hatchett, S CJ Christian out; WRs Roebuck, Clay and edge Devin Hyde questionable.",
+  "context": "Indiana 9-1 at Washington Senior Day, 12:30pm PT Peacock (=20:30 UTC).",
+  "news": "Heavy absences both sides; some previews like Washington +7.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Indiana ML 1.25 (p .76): six Indiana defenders/starters out — fragile road favourite, skip; +7.5 handicap trend 0.7 but no protected mechanism.",
+  "confidence": 0.2,
+  "sources": [
+   "https://247sports.com/college/indiana/article/indiana-iu-football-vs-washington-availability-injury-report-rolijah-hardy-turbo-richard-kellan-wyatt-292951778/",
+   "https://iuhoosiers.com/news/2026/11/16/football-football-gameday-at-washington-week-12"
+  ]
+ },
+ {
+  "eid": "sr:match:70901010",
+  "fx": "Oklahoma Sooners v Texas A&M Aggies",
+  "sport": "american football",
+  "absences": "Texas A&M: DT Landon Rink out, S Marcus Ratcliffe out; QB Brandon Davis-Swain hurt v Tennessee but not on report. Oklahoma: DE Danny Okoye probable/questionable (sources differ).",
+  "context": "2:45pm CT ESPN2 Norman.",
+  "news": "A&M missing key run-stopper Rink.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club SEC clash: no result-side; OU ML p .73. Over 37.5 trend 0.65 but p .52 only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sports.yahoo.com/articles/danny-okoye-upgraded-probable-ou-045900970.html",
+   "https://gigemgazette.com/landon-rink-s-injury-status-could-spell-doom-for-texas-a-m-against-oklahoma"
+  ]
+ },
+ {
+  "eid": "sr:match:70924610",
+  "fx": "Eastern Washington Eagles v Portland State Vikings",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Big Sky: Portland State (2-8, 43 ppg allowed) at Eastern Washington (3-7); on official Nov 21 slate, time not found.",
+  "news": "Date confirmed via conference slate; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Two poor defences; EWU ML p .73 below threshold.",
+  "confidence": 0.1,
+  "sources": [
+   "https://bigskyconf.com/news/2025/10/28/big-sky-conference-announces-2026-football-schedule.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:70901014",
+  "fx": "Marshall Herd v Georgia State Panthers",
+  "sport": "american football",
+  "absences": "no injury news found",
+  "context": "Georgia State 5-5 at Marshall 5-5, 4pm ET: winner bowl-eligible (both must-win).",
+  "news": "CBS Marshall -2.5, total 55.5; B/R 34-27 Marshall.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin flip, both must-win.",
+  "confidence": 0.15,
+  "sources": [
+   "https://bleacherreport.com/articles/25534151-2026-week-12-college-football-predictions-every-game",
+   "https://www.on3.com/news/college-football-bowls-need-16-more-teams-and-45-are-still-alive-to-get-to-six-wins/"
+  ]
+ },
+ {
+  "eid": "sr:match:70924696",
+  "fx": "North Alabama Lions v Tarleton State Texans",
+  "sport": "american football",
+  "absences": "no injury news found",
+  "context": "Tarleton State 11-0, clinched UAC share + FCS auto bid; win = first outright UAC title and unbeaten regular season. North Alabama 7-4 needs upset for playoff hopes, Bank Independent Stadium, Florence.",
+  "news": "Tarleton beat UWF 31-17 to clinch; UNA motivated at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.22,
+    "p": 0.780826,
+    "why": "Tarleton 10-0 last10 and 5-0 away, plays for outright title and unbeaten record/seeding; UNA averages 23.9 ppg. Own p ~0.79 vs house 0.78; risk: auto-bid already clinched, UNA motivated at home."
+   }
+  ],
+  "avoid": "-9.5 (trend 0.35; UNA home games close).",
+  "confidence": 0.25,
+  "sources": [
+   "https://bvmsports.com/2026/11/14/tarleton-state-clinches-uac-title-share-fcs-playoff-bid/",
+   "https://heavy.com/sports/college-football/tarleton-state-make-history-north-alabama-game-this-weekend/"
+  ]
+ }
+]

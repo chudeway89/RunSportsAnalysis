@@ -1,0 +1,377 @@
+[
+ {
+  "eid": "sr:match:72340042",
+  "fx": "Norwich v Cardiff City",
+  "home_form": "Norwich 4 straight wins: W5-0 at Bristol C, W4-0 at Derby, W3-2 v Watford, W3-1 at Charlton; before that L0-1 v Portsmouth, L0-1 v Southampton, L1-2 at Swansea, L3-4 v Bolton. Home last 4: 3-2 W, 0-1 L, 0-1 L, 3-4 L.",
+  "away_form": "Cardiff (promoted) last 10: W5-4 v Burnley, D3-3 v West Ham, L0-3 at Wolves, W1-0 v Birmingham, D2-2 at Middlesbrough, W5-1 v Watford, L1-2 at Blackburn, W3-1 v Charlton, L0-1 at Bolton, D1-1 v Stoke. Away: L0-3, D2-2, L1-2, L0-1.",
+  "trends": {
+   "game_totals": "Norwich games O2.5 in 7/10 (5,4,5,4,1,1,3,7,5,7); Cardiff games O2.5 in 6/10 (9,6,3,1,4,6,3,4,1,2).",
+   "team_totals": "Norwich scored 3+ in each of last 4; 2+ in 6/10. Cardiff scored in 7/10, conceded 2+ in 6/10.",
+   "first_half": "Norwich 1H goals in 7/10; Cardiff 1H goals in 8/10.",
+   "handicap": "Norwich last 4 wins by 5,4,1,2.",
+   "corners": "no data used"
+  },
+  "h2h": "No recent league H2H found (Cardiff promoted).",
+  "absences": "Cardiff: defenders Dylan Lawlor, Gabriel Osho, Calum Chambers injured, Joel Bagan suspended (four defenders), Isaak Davies out. Norwich: Kenny McLean back fit; Papa Amadou Diallo out.",
+  "context": "Championship R16, first game after international break. Norwich on 4-win run. Cardiff defensively depleted; Salech in contention after brace off bench v Burnley.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.708204,
+    "why": "tight. Mechanism: Cardiff missing four defenders (Lawlor, Osho, Chambers injured, Bagan suspended) and their games averaged 3.9 goals over last 10; Norwich scored 3+ in each of last 4. Own p ~0.72."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.47,
+    "p": 0.653486,
+    "why": "Norwich team O1.5: 3+ goals in each of last 4, facing back line missing four defenders; Cardiff conceded 2+ in 6/10. Own p ~0.66."
+   }
+  ],
+  "avoid": [
+   "Any Under",
+   "Norwich -1/-1.5 (Norwich lost 3 of last 4 home before Watford; Cardiff score in 70%)",
+   "Cardiff U0.5/U1.5 team totals"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://the72.co.uk/2026/11/20/norwich-city-team-news-predicted-xi-cardiff-city/",
+   "https://dave.sport/news/norwich-vs-cardiff-injury-news-mclean-bagan",
+   "https://www.whoscored.com/matches/1989088/preview/england-championship-2026-2027-norwich-cardiff"
+  ]
+ },
+ {
+  "eid": "sr:match:72478706",
+  "fx": "Alaves v RC Deportivo de A Coruna",
+  "home_form": "Alaves last league: D0-0 at Sevilla, L1-6 at Barcelona, D1-1 v Malaga, L1-2 at Celta, L1-2 v Atletico, D0-0 at Bilbao, L0-1 v Valencia, L1-2 at Racing, W5-2 v Osasuna (cup W6-1 at Anaitasuna). Home: D1-1, L1-2, L0-1, W5-2 - 1 home win in 4.",
+  "away_form": "Deportivo: D0-0 at Espanyol, W2-1 v Osasuna, L0-1 at Atletico, D1-1 v Levante, L2-3 at Real Sociedad, D1-1 v Betis, L0-1 v Sevilla (cup W3-0 at Ourense CF). Away league: D0-0, L0-1, L2-3.",
+  "trends": {
+   "game_totals": "Low-scoring: Alaves league games U2.5 in 6/9; Depor U2.5 in 6/7 league.",
+   "team_totals": "Alaves scored 0-1 in 8 of last 9 league games.",
+   "first_half": "Many 0-0 halftimes (Alaves 5/10, Depor 5/10).",
+   "handicap": "Only one Alaves league win by 2+ in last 9 (5-2 v Osasuna). Depor losses all by 1 goal.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent H2H (Depor newly promoted).",
+  "absences": "Alaves: Facundo Garces, Mikel Rodriguez (ACL, out till April). Depor: Bright Ede, Zakaria Eddahchouri out; Aubameyang doubt (ankle) per WhoScored.",
+  "context": "Mid-table LaLiga (Alaves 12th 13pts, Depor 8th 15pts per WhoScored); one outlet's table conflicts (Alaves 4th) - discounted.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.22,
+    "p": 0.798474,
+    "why": "tight. Depor +1.5 (home favourite p 0.43 < 0.55 so +1.5 allowed). Alaves have one league win by 2+ in last 9 and have scored 0-1 in 8 of 9; Depor's league losses were all by a single goal. Own p ~0.83."
+   }
+  ],
+  "avoid": [
+   "Over 2.5",
+   "Alaves -0.5/-1",
+   "BTTS Yes"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/deportivo-la-coruna/preview/alaves-vs-deportivo-prediction-team-news-lineups_609413.html",
+   "https://www.whoscored.com/matches/1994035/preview/spain-laliga-2026-2027-deportivo-alaves-deportivo-de-a-coruna"
+  ]
+ },
+ {
+  "eid": "sr:match:72201718",
+  "fx": "Celtic v St Mirren FC",
+  "home_form": "Celtic last 10: W1-0 v Kilmarnock, W3-2 v Besiktas, L0-2 at Falkirk, D2-2 v Dundee Utd, W2-1 at Hibs, L1-2 v Celta, W7-1 v Hearts, L1-4 at Benfica, W2-0 at Motherwell, L0-1 v Rangers. Home league: W1-0, D2-2, W7-1, L0-1 - margins modest except Hearts.",
+  "away_form": "St Mirren: L0-2 v Rangers, L0-1 at Motherwell, D1-1 v Hibs, W2-1 v Dundee, L1-3 at Aberdeen, L0-5 at Hearts, L0-3 v Dundee Utd, L0-1 at Rangers, L1-2 v Celtic, W1-0 at Kilmarnock. Only 4 pts in 9 after fast start.",
+  "trends": {
+   "game_totals": "Celtic games O2.5 6/10; St Mirren 5/10.",
+   "team_totals": "St Mirren scored 0-1 in 9/10 (blank in 5/10). Celtic scored 2+ in only 5/10.",
+   "first_half": "Celtic 1H goal in 6/10.",
+   "handicap": "Celtic home league wins by 2+: 1 of last 4 (7-1). AH -1.5 not supported.",
+   "corners": "n/a"
+  },
+  "h2h": "Sep 5: St Mirren 1-2 Celtic.",
+  "absences": "Celtic: Mika Baur (~10 wks ankle), Alistair Johnston (hamstring), Nygren doubt (heel), Van den Berg knock; Trusty back. St Mirren: Kabia, Agrafiotis, Baccus, Dijksteel, Ayunga out; Carr, Nsio return.",
+  "context": "Celtic top, 4 pts clear of Rangers (game in hand) - motivated. Post-break; possible European game midweek after.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.827582,
+    "why": "tight. Celtic v St Mirren side with 4 pts from 9 games, 5 first-choice absentees and blank in 5 of last 10. Own p ~0.81 (Celtic home margins thin, so no handicap)."
+   }
+  ],
+  "avoid": [
+   "Celtic -1.5/-2 (home wins by 2+ rare lately)",
+   "Celtic team O2.5",
+   "St Mirren O0.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/celtic/preview/celtic-vs-st-mirren-prediction-team-news-lineups_609406.html",
+   "https://sports.yahoo.com/articles/celtic-v-st-mirren-team-172438879.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72221400",
+  "fx": "Coventry City v Crystal Palace",
+  "home_form": "Coventry (promoted) last 10: L1-3 at Everton, W3-1 v Sunderland, L0-1 v Fulham, L1-3 at Tottenham, W4-1 v Newcastle, W1-0 at Forest, L1-3 v Villa, L0-5 v Brighton, L0-1 at Man City. Home: W3-1, L0-1, W4-1, L1-3, L0-5.",
+  "away_form": "Crystal Palace: L1-3 v Liverpool, D1-1 v Hoffenheim, L0-2 at Tottenham, W1-0 at Fulham, L0-2 v Newcastle, D2-2 at Besiktas, L0-5 at Brighton, L2-3 at Lyon, W3-1 v Forest. Four straight PL defeats per previews.",
+  "trends": {
+   "game_totals": "Coventry last 5 totals 4,4,1,4,5; Palace last 5 4,2,2,1,2 -> O1.5 in 4/5 each.",
+   "team_totals": "Palace scored 0-1 in 8/10.",
+   "first_half": "mixed",
+   "handicap": "Palace away wins by 2+: none in last 10.",
+   "corners": "n/a"
+  },
+  "h2h": "No recent PL H2H.",
+  "absences": "Palace: Mateta suspended (straight red), Ismaila Sarr (groin), Tomiyasu, Chadi Riad out; Strand Larsen doubt. Coventry: Amenda, Haji Wright, Mason-Clark (knee, 3 wks), Eccles out/doubt; Bobby Thomas, Onyeka expected back.",
+  "context": "Relegation-zone clash; both need points.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.22,
+    "p": 0.795265,
+    "why": "tight. Coventry +1.0 loses only to a Palace win by 2+; Palace have no away win by 2+ in last 10, have lost four PL games in a row and are without both main forwards (Mateta suspended, Sarr injured, Strand Larsen doubt). Own p ~0.82."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7916568311,
+    "why": "tight. Both sides' last 5 O1.5 in 4/5 each; Coventry home games 4,1,5,4,5. Palace attack depleted lowers it slightly. Own p ~0.78."
+   }
+  ],
+  "avoid": [
+   "Palace win/AH -0.5",
+   "Palace team O1.5",
+   "Over 2.5 with Palace strikers out"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/coventry-city/relegation-battle/preview/coventry-vs-crystal-palace-prediction-team-news-lineups_609359.html",
+   "https://premierleaguenewsnow.com/2026/11/20/crystal-palace-injury-news-sarr-tomiyasu-coventry/"
+  ]
+ },
+ {
+  "eid": "sr:match:72201726",
+  "fx": "Kilmarnock FC v Aberdeen",
+  "home_form": "Kilmarnock: L0-1 at Celtic, D2-2 v St Johnstone, L1-3 at Dundee, L0-3 at Falkirk, W3-2 v Motherwell, L1-3 at Rangers, D1-1 v Hearts, W1-0 at Hibs, D1-1 v Aberdeen. Home: unbeaten in last 4 (D,W,D,D).",
+  "away_form": "Aberdeen: L0-4 v Hibs, L0-1 at Rangers, L0-1 v Falkirk, L2-3 at Dundee Utd, W3-1 v St Mirren, L0-1 v St Johnstone, W4-1 at Dunfermline, D1-1 at Hibs, W4-0 at Motherwell, D1-1 at Kilmarnock. Four straight league defeats.",
+  "trends": {
+   "game_totals": "Kilmarnock last 5 totals 1,4,4,3,5; Aberdeen 4,1,1,5,4. Scottish Prem below 2.7 avg -> no O1.5 per rules.",
+   "team_totals": "Aberdeen blank in 3 of last 4.",
+   "first_half": "Aberdeen 0-0 HT in 4 of last 6.",
+   "handicap": "Aberdeen away wins by 2+ only v Motherwell/Dunfermline.",
+   "corners": "n/a"
+  },
+  "h2h": "This season: 1-1 at Kilmarnock, 0-0 at Aberdeen.",
+  "absences": "Kilmarnock fully fit bar Stryjek. Aberdeen: Knoester, Gyamfi, Tobers, Cadden, Mayo, Ronan out; Mouloua may return.",
+  "context": "COACH CHANGE during break: Mario Frick's first game in charge of Aberdeen (new-manager uncertainty).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.23,
+    "p": 0.786485,
+    "why": "tight. Kilmarnock +1.0: unbeaten in 4 home games, both H2H this season drawn (1-1, 0-0), Aberdeen lost 4 straight with 6 absentees and a debuting manager. Loses only to an Aberdeen win by 2+. Own p ~0.80."
+   }
+  ],
+  "avoid": [
+   "Aberdeen win",
+   "Over 2.5",
+   "Over 1.5 (Scottish league scoring below the 2.7 threshold)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://sports.yahoo.com/articles/kilmarnock-v-aberdeen-team-news-174056659.html",
+   "https://www.sportsmole.co.uk/football/celtic/preview/celtic-vs-st-mirren-prediction-team-news-lineups_609406.html"
+  ]
+ },
+ {
+  "eid": "sr:match:71945422",
+  "fx": "Parma Calcio v Roma",
+  "home_form": "Parma: L1-2 v Bologna, W3-0 at Atalanta, D0-0 v Udinese, L1-2 at Lazio, L0-3 v Torino, L0-3 at Inter, W2-1 v Genoa, L1-2 at Como, D1-1 v Monza, L0-2 v Cremonese. Home: 1W in 6.",
+  "away_form": "Roma: W3-0 v Sassuolo, L2-3 at Man Utd, W5-2 at Udinese, W4-2 v Cagliari, D3-3 at Napoli, W4-0 v Slovan, W2-0 v Genoa, L3-4 v Real Madrid, D0-0 at Como, D2-2 v Inter.",
+  "trends": {
+   "game_totals": "Roma games avg 3.9 goals last 10.",
+   "team_totals": "Parma scored 0-1 in 8/10; Roma scored 2+ in 8/10.",
+   "first_half": "Roma 1H goals in 7/10.",
+   "handicap": "Roma away: W by 3 at Udinese; D at Napoli, Como.",
+   "corners": "n/a"
+  },
+  "h2h": "n/a recent",
+  "absences": "Parma: striker David Romero, Adrian Bernabe, Diego Carlos injured; Abdoulaye N'Diaye suspended. Roma: Gollini, Rensch, Lorenzo Pellegrini out; Dybala back in training and travels.",
+  "context": "Roma in Europe midweek around this round (possible light rotation). Parma bottom-half, attack weakened without Romero.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.18,
+    "p": 0.8227393376,
+    "why": "tight. Parma team Under 1.5 (p 0.823 meets the 0.82 Under gate; team total so the rout tail helps it). Parma scored 2+ in only 2 of last 10 and lose striker David Romero plus Bernabe. Own p ~0.85."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.34,
+    "p": 0.719904,
+    "why": "Roma team O1.5: scored 2+ in 8 of last 10 (incl. 5 at Udinese, 3 at Napoli); Parma without Diego Carlos and N'Diaye in defence. Own p ~0.72."
+   }
+  ],
+  "avoid": [
+   "Parma O0.5",
+   "Roma -1.5/-2 (Roma away draws at Como, Napoli)",
+   "Game Unders"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://sports.yahoo.com/articles/serie-preview-parma-vs-roma-092700360.html",
+   "https://sports.yahoo.com/articles/preview-parma-vs-roma-team-160000806.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72478724",
+  "fx": "Sevilla v Betis",
+  "home_form": "Sevilla: D0-0 v Alaves, L1-3 at Getafe, W3-0 at Sporting (cup), W2-0 v Osasuna, L1-4 at Real Madrid, D3-3 at Levante, L1-3 v Aston Villa, L1-3 v Barcelona, W1-0 at Depor, W1-0 v Valencia. One league win in last six.",
+  "away_form": "Betis: D2-2 at Navalcarnero (cup, Nov 12), W2-0 at Elche, L1-2 at Dortmund, W2-1 v Malaga, D0-0 at Celta, W1-0 v Feyenoord, L2-5 v Barcelona, W3-2 v Porto, W5-2 v Osasuna, D1-1 at Depor.",
+  "trends": {
+   "game_totals": "Sevilla last 5 totals 0,4,3,2,5; Betis 4,2,3,3,0.",
+   "team_totals": "Betis scored in 9 of last 10 (only blank 0-0 at Celta).",
+   "first_half": "Sevilla 1H 0-0 in 3/10; Betis 1H 0-0 in 4/10.",
+   "handicap": "n/a (derby)",
+   "corners": "n/a"
+  },
+  "h2h": "Betis lost only 1 of last 8 Seville derbies.",
+  "absences": "Sevilla: Ruben Vargas fitness doubt (Ejuke may start); Manu Bueno back from suspension. Betis: no new injuries.",
+  "context": "Seville derby; Betis 4th (26 pts), Sevilla 6th (18). Kick-off conflict noted: one Wikipedia entry lists 22 Nov but board, Sportradar (21/11 18:30 CET) and several previews agree on Sat 21 Nov - not a veto, but re-check before posting.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.27,
+    "p": 0.7628676002,
+    "why": "tight. Betis to score: scored in 9 of last 10 and lost only 1 of last 8 derbies; Sevilla conceded in 7 of last 10. Derby, so no result-side. Own p ~0.79."
+   }
+  ],
+  "avoid": [
+   "Any 1X2/DC/AH result-side (derby)",
+   "Unders",
+   "BTTS No"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportskeeda.com/football/sevilla-vs-real-betis-prediction-betting-tips-november-21st-2026",
+   "https://africasoccer.com/sevilla-derby-real-betis-aim-to-strengthen-top-four-position-against-sevilla-fc/"
+  ]
+ },
+ {
+  "eid": "sr:match:72345586",
+  "fx": "Grazer AK 1902 v SK Rapid",
+  "home_form": "GAK winless in 6 league: L1-2 at Lustenau, L0-4 v Hartberg, L0-4 v Altach, D1-1 at Tirol, L1-6 at Sturm, D0-0 v Salzburg, D2-2 v Austria.",
+  "away_form": "Rapid 9 unbeaten, 11 wins from 12 rounds: W6-0 v Wolfsberg, W2-0 at Austria, W3-0 at First Vienna, W5-1 v Lustenau, W3-1 v Hartberg, W2-0 at LASK, W3-0 v Tirol, W3-0 at Wolfsberg, W5-2 at Austria Klagenfurt.",
+  "trends": {
+   "game_totals": "GAK games 3,4,4,2,7,0,4,3,2,0; Rapid 6,2,3,6,4,2,1,3,3,7.",
+   "team_totals": "Rapid scored 2+ in 9/10; GAK conceded 4+ in 3 of last 5.",
+   "first_half": "Rapid led at HT in 7/10.",
+   "handicap": "Rapid beat GAK 8-0 in August; Rapid wins by 2+ in 8 of last 9.",
+   "corners": "n/a"
+  },
+  "h2h": "Rapid 8-0 GAK (Aug 2026).",
+  "absences": "None significant found.",
+  "context": "Rapid top, chasing a club-record 12th win in 13; GAK struggling.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.821103,
+    "why": "tight. Both last-5 support it (GAK 3,4,4,2,7; Rapid 6,2,3,6,4); Austrian league is high-scoring; Rapid scored 2+ in 9/10. Own p ~0.85."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.46,
+    "p": 0.651893,
+    "why": "Rapid team O1.5: 2+ goals in 9 of last 10, 8-0 v GAK in August, GAK conceded 4,4,6 in recent home/away defeats. Own p ~0.70."
+   }
+  ],
+  "avoid": [
+   "GAK +2.0/+2.5 catches (rout class)",
+   "Under 3.5",
+   "Rapid 1X2 (away p 0.67 below 0.75 gate)"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.laola1.at/de/red/fussball/bundesliga/news/rapid-geht-beim-gak-auf-das-dutzend-los/",
+   "https://www.austria.com/artikel/rapid-gastiert-beim-gak-historische-siegesserie-winkt/10037686"
+  ]
+ },
+ {
+  "eid": "sr:match:71945420",
+  "fx": "Napoli v Torino",
+  "home_form": "Napoli: D1-1 v Lazio, L1-4 at Porto, L0-2 at Juventus, W4-1 at Monza, D3-3 v Roma, W4-3 v Bodo/Glimt, L0-1 at Venezia, L1-3 at Villarreal, W3-0 v Frosinone. 1 win in last 5 league.",
+  "away_form": "Torino: D1-1 v Lecce, L0-2 at Frosinone, L1-3 v Como, W3-2 v Monza, W3-0 at Parma, W2-1 v Udinese, D1-1 at Bologna, L0-2 v Roma, W2-1 at Fiorentina.",
+  "trends": {
+   "game_totals": "Napoli last 5 totals 2,5,2,5,6; Torino 2,2,4,5,3 -> O1.5 5/5 both.",
+   "team_totals": "Torino scored in 7/10; Napoli conceded in 8/10.",
+   "first_half": "Napoli 1H goals 7/10.",
+   "handicap": "Napoli home margins thin (D,D,W by 1, W by 3).",
+   "corners": "n/a"
+  },
+  "h2h": "n/a",
+  "absences": "Napoli: Lobotka, Di Lorenzo, Badiashile, Alisson Santos out, Buongiorno long-term; Neres/Favasuli status conflicting between sources. Torino: Vlasic hamstring tightness, no tear, expected fit.",
+  "context": "Napoli injury-hit and in poor form; Torino mid-table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7930161359,
+    "why": "tight. Both sides' last 5 all O1.5; Napoli without Di Lorenzo/Buongiorno/Badiashile (defence) and conceded in 8/10. Own p ~0.81."
+   }
+  ],
+  "avoid": [
+   "Napoli -1/-1.5",
+   "Napoli DNB at 1.19 (house 0.815 above my ~0.77 given injuries/form)",
+   "Unders"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/napoli/preview/napoli-vs-torino-prediction-team-news-lineups_609322.html",
+   "https://sports.yahoo.com/articles/preview-napoli-vs-torino-team-190500528.html"
+  ]
+ }
+]

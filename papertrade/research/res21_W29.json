@@ -1,0 +1,669 @@
+[
+ {
+  "eid": "sr:match:76045172",
+  "fx": "FC Pohang Steelers v FC Anyang",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "K League 1 Final B R36 (05:00 UTC/14:00 KST confirmed). Pohang 9th 44pts v Anyang 8th 46pts: only 8th place at stake; survival race over (Gwangju in playoff) - near dead rubber per namu.wiki.",
+  "news": "Pohang must win to pass Anyang for 8th; local press notes Pohang attacking upturn; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (low stakes, Pohang 1W in 10); Unders <0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://fbref.com/en/comps/55/schedule/K-League-1-Scores-and-Fixtures",
+   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091497",
+   "https://www.pressian.com/pages/articles/2026112014584403535",
+   "https://topstarnews.net/news/articleView.html?idxno=16280482",
+   "https://besteleven.com/news/articleView.html?idxno=314163",
+   "https://kyeongin.com/article/1775086",
+   "https://en.wikipedia.org/wiki/2026_FC_Seoul_season"
+  ]
+ },
+ {
+  "eid": "sr:match:76045118",
+  "fx": "Jeonbuk FC v FC Seoul",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Final A R36. FC Seoul already 2026 champions (season page) -> motivation drop/rotation risk; Jeonbuk big-club clash ('legend match').",
+  "news": "Seoul champions per Wikipedia season page; no injury lists found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no result-side (big-club clash, champion rotation); totals p<0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://fbref.com/en/comps/55/schedule/K-League-1-Scores-and-Fixtures",
+   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091497",
+   "https://www.pressian.com/pages/articles/2026112014584403535",
+   "https://topstarnews.net/news/articleView.html?idxno=16280482",
+   "https://besteleven.com/news/articleView.html?idxno=314163",
+   "https://kyeongin.com/article/1775086",
+   "https://en.wikipedia.org/wiki/2026_FC_Seoul_season"
+  ]
+ },
+ {
+  "eid": "sr:match:68046848",
+  "fx": "Busan IPark v Chungbuk Cheongju FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "K League 2 final round. Busan IPark in promotion play-off spot (motivated to secure/ improve seeding); Chungbuk Cheongju mid-table, nothing to play for. Busan home 3-0-2 in last 5, gf 2.0.",
+  "news": "Promotion picture largely settled: Suwon Bluewings & Suwon FC promoted, Busan play-off place. Kickoff 13:00 KST in AiScore vs 14:00 in FotMob for this round (minor time discrepancy).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.27,
+    "p": 0.7368,
+    "why": "Busan play-off motivation v disinterested Cheongju (away form 2-0-2, ga 1.75); home 3W in last 5 at home. My p 0.76 v house 0.74."
+   }
+  ],
+  "avoid": "Busan -0.5/1X2 (only 0.48)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.soccerway.com/south-korea/k-league-2/",
+   "https://en.wikipedia.org/wiki/2026_in_South_Korean_football",
+   "https://www.fotmob.com/matches/suwon-samsung-bluewings-vs-gyeongnam-fc/bd2d50t",
+   "https://www.aiscore.com/tournament-korean-k-league-2/w34kgmi2vmu1ko9"
+  ]
+ },
+ {
+  "eid": "sr:match:68046846",
+  "fx": "Suwon Bluewings v Gyeongnam FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Suwon Bluewings already promoted (marked T); Gyeongnam bottom zone, away 0W 3D 3L, gf 0.5.",
+  "news": "Suwon clinched promotion before this round -> possible complacency/rotation in final game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Suwon 1X2 1.34 (promotion clinched, motivation risk); Overs (trend 0.6 v p 0.81)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.soccerway.com/south-korea/k-league-2/",
+   "https://en.wikipedia.org/wiki/2026_in_South_Korean_football",
+   "https://www.fotmob.com/matches/suwon-samsung-bluewings-vs-gyeongnam-fc/bd2d50t",
+   "https://www.aiscore.com/tournament-korean-k-league-2/w34kgmi2vmu1ko9"
+  ]
+ },
+ {
+  "eid": "sr:match:76045120",
+  "fx": "Gangwon FC v Daejeon Citizen FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Final A R36, 16:30 KST confirmed. Gangwon 4th 51pts v Daejeon 3rd 53pts (9 unbeaten): direct fight for 3rd/ACL spot. Tight, both motivated.",
+  "news": "Six-pointer for 3rd/ACL; Daejeon 9-match unbeaten run; Gangwon beat Jeonbuk 3-2 last round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (coin-flip), Under 3.5 p 0.76 <0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://fbref.com/en/comps/55/schedule/K-League-1-Scores-and-Fixtures",
+   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091497",
+   "https://www.pressian.com/pages/articles/2026112014584403535",
+   "https://topstarnews.net/news/articleView.html?idxno=16280482",
+   "https://besteleven.com/news/articleView.html?idxno=314163",
+   "https://kyeongin.com/article/1775086",
+   "https://en.wikipedia.org/wiki/2026_FC_Seoul_season"
+  ]
+ },
+ {
+  "eid": "sr:match:76045122",
+  "fx": "Incheon United FC v Ulsan HD FC",
+  "sport": "football",
+  "absences": "none reported (Incheon: club 'crisis' off-field per Kyeongin)",
+  "context": "Final A R36. Ulsan 2nd 57pts protecting runner-up v Daejeon; Incheon 6th 49 in ACL chase. Ulsan conceded in each of last 7; Incheon have league top scorer Yago (17) and top assister Lee Dong-gyeong (13).",
+  "news": "Ulsan defensive leak (7 straight games conceding) v Incheon attack; both motivated.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.67,
+    "p": 0.565,
+    "why": "Named mechanism: Ulsan conceded in all of last 7 + Incheon have league top scorer Yago; Ulsan scoring 1.8/g. My p 0.60 v house 0.565."
+   }
+  ],
+  "avoid": "result sides; Under",
+  "confidence": 0.25,
+  "sources": [
+   "https://fbref.com/en/comps/55/schedule/K-League-1-Scores-and-Fixtures",
+   "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091497",
+   "https://www.pressian.com/pages/articles/2026112014584403535",
+   "https://topstarnews.net/news/articleView.html?idxno=16280482",
+   "https://besteleven.com/news/articleView.html?idxno=314163",
+   "https://kyeongin.com/article/1775086",
+   "https://en.wikipedia.org/wiki/2026_FC_Seoul_season"
+  ]
+ },
+ {
+  "eid": "sr:match:68046850",
+  "fx": "Gimpo FC v Suwon FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Suwon FC already promoted (marked T); Gimpo in bottom zone. Suwon FC 7-2-1 last 10, ga 0.5.",
+  "news": "Suwon FC clinched promotion; Gimpo near bottom. Kick-off 15:30 KST matches board 07:30 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.32,
+    "p": 0.7084,
+    "why": "Suwon FC 7W 2D 1L, conceding 0.5/g v Gimpo ga 2.0 (lost 1-5 recently); DNB covers draw if promotion-clinched side eases off. My p 0.70 v house 0.71 - fair, fill only."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.54 <0.75); Gimpo +0.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.soccerway.com/south-korea/k-league-2/",
+   "https://en.wikipedia.org/wiki/2026_in_South_Korean_football",
+   "https://www.fotmob.com/matches/suwon-samsung-bluewings-vs-gyeongnam-fc/bd2d50t",
+   "https://www.aiscore.com/tournament-korean-k-league-2/w34kgmi2vmu1ko9"
+  ]
+ },
+ {
+  "eid": "sr:match:72011148",
+  "fx": "Seongnam Ilhwa v Yongin FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "K League 2 final round between two bottom sides (both marked low in table); nothing at stake.",
+  "news": "Dead rubber between low-table sides; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything - dead rubber, coin-flip",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/south-korea/k-league-2/",
+   "https://en.wikipedia.org/wiki/2026_in_South_Korean_football",
+   "https://www.fotmob.com/matches/suwon-samsung-bluewings-vs-gyeongnam-fc/bd2d50t",
+   "https://www.aiscore.com/tournament-korean-k-league-2/w34kgmi2vmu1ko9"
+  ]
+ },
+ {
+  "eid": "sr:match:73086746",
+  "fx": "ACSM Resita v Metaloglobus Bucuresti",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Romania Liga 2 R14, 11:00 local (09:00 UTC) confirmed by Digi Sport. Resita home 3-0-3; Metaloglobus away 3-1-1.",
+  "news": "Fixture/time confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Overs (thin Liga 2, low-scoring 1.0/0.9 gf/ga); Resita DNB (away side in better form)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.digisport.ro/fotbal/liga-2/fc-bihor-a-facut-spectacol-cu-gloria-bistrita-intr-un-meci-cu-sase-goluri-programul-complet-si-rezultatele-etapei-a-14-a-din-liga-2-4615265",
+   "https://golazo.ro/liga-2-etapa-14-live-192580",
+   "https://desteptarea.ro/fotbal-liga-2-fc-bacau-cs-dinamo-bucuresti-fara-alti-pasi-gresiti-pentru-gazde",
+   "https://www.sportarad.ro/2026/11/20/liga-a-ii-a-etapa-a-14-a-bihorul-a-surclasat-bistrita-cu-ex-utistii-tescan-si-hora-printre-marcatori/"
+  ]
+ },
+ {
+  "eid": "sr:match:73086758",
+  "fx": "CSC Dumbravita v CS Afumati",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Liga 2 R14 11:00 local. Dumbravita 22nd (last) with 4pts, 0W 1D 9L last 10, ga 2.5; Afumati 13th 18pts.",
+  "news": "Confirmed by Digi Sport; Dumbravita bottom with 4 pts (Golazo table).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.33,
+    "p": 0.7056,
+    "why": "Bottom side Dumbravita 0W in 10 (1D 9L, gf 0.6) v mid-table Afumati (gf 1.7). Draw refunded. My p 0.75 v house 0.71."
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.21,
+    "p": 0.7787,
+    "why": "Same mechanism: Dumbravita one draw and nine defeats in 10. My p 0.81 v house 0.78."
+   }
+  ],
+  "avoid": "Over 1.5 (thin league), Away 1X2 (p 0.53)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.digisport.ro/fotbal/liga-2/fc-bihor-a-facut-spectacol-cu-gloria-bistrita-intr-un-meci-cu-sase-goluri-programul-complet-si-rezultatele-etapei-a-14-a-din-liga-2-4615265",
+   "https://golazo.ro/liga-2-etapa-14-live-192580",
+   "https://desteptarea.ro/fotbal-liga-2-fc-bacau-cs-dinamo-bucuresti-fara-alti-pasi-gresiti-pentru-gazde",
+   "https://www.sportarad.ro/2026/11/20/liga-a-ii-a-etapa-a-14-a-bihorul-a-surclasat-bistrita-cu-ex-utistii-tescan-si-hora-printre-marcatori/"
+  ]
+ },
+ {
+  "eid": "sr:match:73086756",
+  "fx": "Csl Stefanestii de Jos v AFC Unirea 04 Slobozia",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Liga 2 R14 Sat 11:00 (Desteptarea, Digi Sport). Stefanestii 20th 9pts, 0-0-4 at home with ga 2.5; Unirea Slobozia 15th 14pts (relegated from Liga 1).",
+  "news": "Desteptarea/Digi confirm Sat 11:00. Sportarad lists 'Unirea 04 Slobozia - SC Popesti-Leordeni' 11:00 - possible listing mix-up (Sportarad also misdated the round); mild source conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.7515,
+    "why": "Stefanestii lost all 4 home games, 1W in 10 (ga 2.7). Unirea away gf only 0.6 so DNB not 1X2. My p 0.75 v house 0.75 - fill; drop if the Sportarad opponent conflict is confirmed."
+   }
+  ],
+  "avoid": "Overs (Unirea low-scoring away); Away 1X2 (0.575)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.digisport.ro/fotbal/liga-2/fc-bihor-a-facut-spectacol-cu-gloria-bistrita-intr-un-meci-cu-sase-goluri-programul-complet-si-rezultatele-etapei-a-14-a-din-liga-2-4615265",
+   "https://golazo.ro/liga-2-etapa-14-live-192580",
+   "https://desteptarea.ro/fotbal-liga-2-fc-bacau-cs-dinamo-bucuresti-fara-alti-pasi-gresiti-pentru-gazde",
+   "https://www.sportarad.ro/2026/11/20/liga-a-ii-a-etapa-a-14-a-bihorul-a-surclasat-bistrita-cu-ex-utistii-tescan-si-hora-printre-marcatori/"
+  ]
+ },
+ {
+  "eid": "sr:match:76080466",
+  "fx": "Atletico Clube de Portugal v Casa Pia Lisbon",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Taca de Portugal R4 (single leg, 90' settles markets), Atletico CP (Liga 3) v Casa Pia (Liga I) 11:00 at Tapadinha. Atletico 8W in 10, 5/5 at home, gf 3.0 at home; Casa Pia gf 0.7.",
+  "news": "Fixture/time confirmed (ESPN, Lusa). No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Casa Pia result-sides (in-form L3 hosts, Casa Pia attack 0.7/g; cup knockout); Casa Pia Over 1.5 team goals",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/por.taca.portugal",
+   "https://www.abola.pt/noticias/taca-de-portugal-ja-sao-conhecidos-os-horarios-dos-16-avos-de-final-2026103017515245849",
+   "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/doze-jogos-da-taca-de-portugal-vao-ter-transmissao-televisiva",
+   "https://sapo.pt/artigo/ja-sao-conhecidas-as-datas-e-os-horarios-da-4-eliminatoria-da-taca-de-portugal-6ae4e2bb7853f8c564f44cce",
+   "https://www.diariocoimbra.pt/2026/11/20/quarta-eliminatoria-da-taca-de-portugal-arranca-hoje-com-fc-porto-a-receber-paredes/"
+  ]
+ },
+ {
+  "eid": "sr:match:72874678",
+  "fx": "Sporting Clube Farense v Santa Clara SAD",
+  "sport": "football",
+  "absences": "youth",
+  "context": "U19 national championship - youth fixture; no date conflict found (no news).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fpf.pt/pt/competicoes/futebol/masculino/juniores-a-i-divisao",
+   "https://www.slbenfica.pt/pt-pt/agora/noticias/2026/08/23/futebol-formacao-juniores-jogo-benfica-torreense-3-jornada-campeonato-nacional-sub-19"
+  ]
+ },
+ {
+  "eid": "sr:match:73374572",
+  "fx": "AL Wakrah SC v Al-Sailiya SC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "QSL R10, 16:00 local (13:00 UTC) at Saoud bin Abdulrahman (QSL, QNA, FotMob agree). Al Sailiya bottom with 1 point; 0W in 10, ga 3.3, lost 0-5, 1-6, 0-5 recently.",
+  "news": "Round confirmed after AFC calendar change; Sailiya bottom with 1pt, Wakrah 11pts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.6918,
+    "why": "Bottom-placed Sailiya 0W 2D 8L, 4/4 away defeats ga 3.5 v Wakrah. My p 0.72 v house 0.69."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.43,
+    "p": 0.6723,
+    "why": "Sailiya concede 3.3/g (0-5,1-6,0-5); Wakrah home games 1.5+1.67 gf/ga. Qatar high-scoring league. My p 0.70 v house 0.67."
+   }
+  ],
+  "avoid": "Wakrah -1.5 (0.47)",
+  "confidence": 0.3,
+  "sources": [
+   "https://qna.org.qa/en/news/news-details?id=doha-bank-stars-league-schedule-updated&date=14%2F11%2F2026",
+   "https://www.qsl.qa/en",
+   "https://www.fotmob.com/matches/al-wakrah-vs-al-sailiya/9jh46aq",
+   "https://en.yenisafak.com/sports/football/live-match/al-shahaniya-al-rayyan-2078595",
+   "https://www.oddsportal.com/football/qatar/qsl/",
+   "https://www.qsl.qa/en/al-rayyan"
+  ]
+ },
+ {
+  "eid": "sr:match:76080474",
+  "fx": "CD Mafra v FC Arouca",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Taca R4: Mafra (Liga 3) v Arouca (Liga I), 14:00. Arouca coach Vitor Severino: not using the cup to give minutes, but won't reveal XI. Mafra games very open (6-5, 3-3, 3-2, 2-2 at home; 2.8 gf/2.0 ga at home).",
+  "news": "Arouca coach rules out treating game as rotation exercise (Roda Viva).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.28,
+    "p": 0.7529,
+    "why": "Mafra home games average 4.8 goals in last 5 (6-5, 3-2, 2-2, 2-1); Arouca score 1.2. My p 0.79 v house 0.75."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.3,
+    "p": 0.7335,
+    "why": "Knockout: DNB only. Liga I side v Liga 3, coach says full focus; Mafra concede 2.1/g. My p 0.74 v house 0.73 - fill."
+   }
+  ],
+  "avoid": "Arouca 1X2/-1 (cup, Mafra score at home)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/por.taca.portugal",
+   "https://www.abola.pt/noticias/taca-de-portugal-ja-sao-conhecidos-os-horarios-dos-16-avos-de-final-2026103017515245849",
+   "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/doze-jogos-da-taca-de-portugal-vao-ter-transmissao-televisiva",
+   "https://sapo.pt/artigo/ja-sao-conhecidas-as-datas-e-os-horarios-da-4-eliminatoria-da-taca-de-portugal-6ae4e2bb7853f8c564f44cce",
+   "https://www.diariocoimbra.pt/2026/11/20/quarta-eliminatoria-da-taca-de-portugal-arranca-hoje-com-fc-porto-a-receber-paredes/",
+   "https://rodaviva.pt/taca-de-portugal-fca-focado-em-bater-o-mafra-do-finlandes-tim-sparv/"
+  ]
+ },
+ {
+  "eid": "sr:match:72230880",
+  "fx": "Ruch Chorzow v Warta Poznan",
+  "sport": "football",
+  "absences": "Ruch reported 'weakened' before match (Tylko Slask headline, no names); Warta: defender back from broken leg, Tomasz Wojcinowicz may start",
+  "context": "I liga, 15:30 local at Stadion Slaski. Ruch 22pts/14 v Warta 19pts, Warta 3 defeats in last 5; Ruch home 3-1-0.",
+  "news": "Previews make Ruch clear favourite; unspecified Ruch absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7535,
+    "why": "Ruch 6W 3D 1L last 10 (ga 0.7), unbeaten at home; Warta lost 3 of last 5, away 1W in 5. DNB covers draw given unnamed Ruch absences. My p 0.76 v house 0.75."
+   }
+  ],
+  "avoid": "Ruch -1 / Over 2.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://tylkoslask.pl/zapowiedz-ruch-chorzow-warta-poznan-w-sobote-o-15-30-tabela-forma-transmisja/",
+   "https://sportowy-poznan.pl/pilka-nozna/przerwa-reprezentacyjna-pomoze-warcie-w-starciu-z-ruchem-to-byl-wartosciowy-czas/Y0bu6l9H9FTBtjAoe1QP",
+   "https://lvbet.pl/blog/ruch-chorzow-vs-warta-poznan-typy-21-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76080486",
+  "fx": "AVS Futebol SAD v CD Tondela",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Taca R4 AVS (II) v Tondela (II).",
+  "news": "DATE CONFLICT: one source lists AVS-Tondela Sunday 22 Nov 15:00, others Saturday 21 Nov 15:00.",
+  "veto": true,
+  "veto_reason": "date conflict between sources (Sat 21 vs Sun 22 Nov)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/por.taca.portugal",
+   "https://www.abola.pt/noticias/taca-de-portugal-ja-sao-conhecidos-os-horarios-dos-16-avos-de-final-2026103017515245849",
+   "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/doze-jogos-da-taca-de-portugal-vao-ter-transmissao-televisiva",
+   "https://sapo.pt/artigo/ja-sao-conhecidas-as-datas-e-os-horarios-da-4-eliminatoria-da-taca-de-portugal-6ae4e2bb7853f8c564f44cce",
+   "https://www.diariocoimbra.pt/2026/11/20/quarta-eliminatoria-da-taca-de-portugal-arranca-hoje-com-fc-porto-a-receber-paredes/"
+  ]
+ },
+ {
+  "eid": "sr:match:72874498",
+  "fx": "Academico Viseu U19 v Gil Vicente",
+  "sport": "football",
+  "absences": "youth",
+  "context": "U19 - youth fixture; no news.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fpf.pt/pt/competicoes/futebol/masculino/juniores-a-i-divisao",
+   "https://www.slbenfica.pt/pt-pt/agora/noticias/2026/08/23/futebol-formacao-juniores-jogo-benfica-torreense-3-jornada-campeonato-nacional-sub-19"
+  ]
+ },
+ {
+  "eid": "sr:match:72874680",
+  "fx": "CL Oriental v Sporting CP",
+  "sport": "football",
+  "absences": "youth",
+  "context": "U19; Oriental beat CD Mafra U19 in a rescheduled game on 14 Nov (FPF).",
+  "news": "No news on this fixture; no date conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fpf.pt/pt/competicoes/futebol/masculino/juniores-a-i-divisao",
+   "https://www.slbenfica.pt/pt-pt/agora/noticias/2026/08/23/futebol-formacao-juniores-jogo-benfica-torreense-3-jornada-campeonato-nacional-sub-19"
+  ]
+ },
+ {
+  "eid": "sr:match:72874504",
+  "fx": "FC Vizela v Rio Ave FC",
+  "sport": "football",
+  "absences": "youth",
+  "context": "U19 - youth fixture.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fpf.pt/pt/competicoes/futebol/masculino/juniores-a-i-divisao",
+   "https://www.slbenfica.pt/pt-pt/agora/noticias/2026/08/23/futebol-formacao-juniores-jogo-benfica-torreense-3-jornada-campeonato-nacional-sub-19"
+  ]
+ },
+ {
+  "eid": "sr:match:72874684",
+  "fx": "SCU Torreense v SL Benfica",
+  "sport": "football",
+  "absences": "youth",
+  "context": "U19; Benfica won reverse 3-2 on 23 Aug 2026. Benfica U19 7W in 10, gf 2.8.",
+  "news": "No news on this fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth; Over 2.5 p 0.58 not a clear enough edge)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fpf.pt/pt/competicoes/futebol/masculino/juniores-a-i-divisao",
+   "https://www.slbenfica.pt/pt-pt/agora/noticias/2026/08/23/futebol-formacao-juniores-jogo-benfica-torreense-3-jornada-campeonato-nacional-sub-19"
+  ]
+ },
+ {
+  "eid": "sr:match:74192012",
+  "fx": "CF Benfica W v Sl Benfica B",
+  "sport": "football",
+  "absences": "women",
+  "context": "Women's II Divisao.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74191854",
+  "fx": "FC Famalicao v Clube de Albergaria",
+  "sport": "football",
+  "absences": "women",
+  "context": "Women's II Divisao.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73374576",
+  "fx": "Al Shahaniya v Al Rayyan SC",
+  "sport": "football",
+  "absences": "none current (old Antonucci surgery report, Al Shahaniya, ~320 days old)",
+  "context": "QSL R10. Al Rayyan 2nd (21pts/9) v Shahaniya 10pts; coach Vicente Moreno.",
+  "news": "VENUE/TIME CONFLICT: QSL/QNA say Suhaim Bin Hamad 18:30; Yeni Safak says Al Sailiya Stadium 18:30; Oddsportal says Jassim Bin Hamad 16:30.",
+  "veto": true,
+  "veto_reason": "venue conflict between sources (Suhaim Bin Hamad v Al Sailiya Stadium v Jassim Bin Hamad)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://qna.org.qa/en/news/news-details?id=doha-bank-stars-league-schedule-updated&date=14%2F11%2F2026",
+   "https://www.qsl.qa/en",
+   "https://www.fotmob.com/matches/al-wakrah-vs-al-sailiya/9jh46aq",
+   "https://en.yenisafak.com/sports/football/live-match/al-shahaniya-al-rayyan-2078595",
+   "https://www.oddsportal.com/football/qatar/qsl/",
+   "https://www.qsl.qa/en/al-rayyan"
+  ]
+ },
+ {
+  "eid": "sr:match:76080484",
+  "fx": "Estoril Praia v FC Felgueiras 1932",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Taca R4 Estoril (I) v Felgueiras (II).",
+  "news": "KICK-OFF CONFLICT: Lusa programme 16:00, A Bola and Record 20:00 Lisbon (board 16:00 UTC).",
+  "veto": true,
+  "veto_reason": "kick-off time conflict (16:00 v 20:00)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/por.taca.portugal",
+   "https://www.abola.pt/noticias/taca-de-portugal-ja-sao-conhecidos-os-horarios-dos-16-avos-de-final-2026103017515245849",
+   "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/doze-jogos-da-taca-de-portugal-vao-ter-transmissao-televisiva",
+   "https://sapo.pt/artigo/ja-sao-conhecidas-as-datas-e-os-horarios-da-4-eliminatoria-da-taca-de-portugal-6ae4e2bb7853f8c564f44cce",
+   "https://www.diariocoimbra.pt/2026/11/20/quarta-eliminatoria-da-taca-de-portugal-arranca-hoje-com-fc-porto-a-receber-paredes/"
+  ]
+ },
+ {
+  "eid": "sr:match:72939284",
+  "fx": "SC Covilha v Lusitano GC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga 3: Covilha v Lusitano Evora; both 1W in 10, gf 0.7 each; met 2-2 in Sept 2026.",
+  "news": "Fixture for 21 Nov not found in any source (no news found); no explicit conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (thin, low-scoring; Under 3.5 p 0.81 <0.82)",
+  "confidence": 0.1,
+  "sources": [
+   "https://radio-covilha.pt/2026/09/noticias/sporting-da-covilha-empata-2-2-em-evora-frente-ao-lusitano/"
+  ]
+ },
+ {
+  "eid": "sr:match:76080480",
+  "fx": "Maritimo Madeira v GD Chaves",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Taca R4 Maritimo (I) v Chaves (II) 17:00 Funchal. Sportradar shows Maritimo 1W in 10 (ga 2.3) - poor form.",
+  "news": "Fixture/time confirmed (Lusa).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Maritimo DNB/1X2 (1W in 10; trend 0.35 v p 0.75); Unders",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/por.taca.portugal",
+   "https://www.abola.pt/noticias/taca-de-portugal-ja-sao-conhecidos-os-horarios-dos-16-avos-de-final-2026103017515245849",
+   "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/doze-jogos-da-taca-de-portugal-vao-ter-transmissao-televisiva",
+   "https://sapo.pt/artigo/ja-sao-conhecidas-as-datas-e-os-horarios-da-4-eliminatoria-da-taca-de-portugal-6ae4e2bb7853f8c564f44cce",
+   "https://www.diariocoimbra.pt/2026/11/20/quarta-eliminatoria-da-taca-de-portugal-arranca-hoje-com-fc-porto-a-receber-paredes/"
+  ]
+ },
+ {
+  "eid": "sr:match:76080464",
+  "fx": "Sporting v Uniao Serra",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Taca R4 Sporting v Uniao da Serra (Campeonato de Portugal) 18:00 Alvalade, ref Diogo Rosa. Sportradar form for 'Sporting' looks mismatched for this side.",
+  "news": "Most sources Sat 21 18:00; one Lusa-based piece lists it under Friday 20 Nov.",
+  "veto": true,
+  "veto_reason": "date conflict in one source (Fri 20 v Sat 21); no 1.18-2.2 market anyway (1.01)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/por.taca.portugal",
+   "https://www.abola.pt/noticias/taca-de-portugal-ja-sao-conhecidos-os-horarios-dos-16-avos-de-final-2026103017515245849",
+   "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/doze-jogos-da-taca-de-portugal-vao-ter-transmissao-televisiva",
+   "https://sapo.pt/artigo/ja-sao-conhecidas-as-datas-e-os-horarios-da-4-eliminatoria-da-taca-de-portugal-6ae4e2bb7853f8c564f44cce",
+   "https://www.diariocoimbra.pt/2026/11/20/quarta-eliminatoria-da-taca-de-portugal-arranca-hoje-com-fc-porto-a-receber-paredes/"
+  ]
+ },
+ {
+  "eid": "sr:match:72874682",
+  "fx": "FC Alverca v CD Mafra U19",
+  "sport": "football",
+  "absences": "youth",
+  "context": "U19 - youth fixture.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fpf.pt/pt/competicoes/futebol/masculino/juniores-a-i-divisao",
+   "https://www.slbenfica.pt/pt-pt/agora/noticias/2026/08/23/futebol-formacao-juniores-jogo-benfica-torreense-3-jornada-campeonato-nacional-sub-19"
+  ]
+ },
+ {
+  "eid": "sr:match:76080458",
+  "fx": "Vitoria SC Guimaraes v Braga",
+  "sport": "football",
+  "absences": "Vitoria: Beni Mukendi ankle sprain, conflicting reports (latest says fit); Borevkovic available (ban served in league). Braga: 7 internationals returned from break",
+  "context": "Taca R4 Minho derby, single leg, 20:30 Guimaraes; Lucas Furtado in Vitoria goal. Braga 8th in league, below expectations.",
+  "news": "Coaches' previews 20 Nov; Sapo's own table lists 22 Nov against its text (21 Nov).",
+  "veto": true,
+  "veto_reason": "date conflict (Sapo table 22 Nov v text/others 21 Nov); also derby + knockout -> no result-side",
+  "picks": [],
+  "avoid": "all result-sides (derby, knockout); Under 3.5 p 0.77 <0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/por.taca.portugal",
+   "https://www.abola.pt/noticias/taca-de-portugal-ja-sao-conhecidos-os-horarios-dos-16-avos-de-final-2026103017515245849",
+   "https://www.record.pt/futebol/futebol-nacional/taca-de-portugal/detalhe/doze-jogos-da-taca-de-portugal-vao-ter-transmissao-televisiva",
+   "https://sapo.pt/artigo/ja-sao-conhecidas-as-datas-e-os-horarios-da-4-eliminatoria-da-taca-de-portugal-6ae4e2bb7853f8c564f44cce",
+   "https://www.diariocoimbra.pt/2026/11/20/quarta-eliminatoria-da-taca-de-portugal-arranca-hoje-com-fc-porto-a-receber-paredes/",
+   "https://vitoriasc.pt/2026/11/20/tiago-margarido-os-adeptos-vao-ter-um-peso-muito-grande/",
+   "https://bolanarede.pt/nacional/taca-de-portugal/franclim-carvalho-antecipa-derbi-do-minho-para-a-taca-de-portugal-e-um-jogo-diferente-em-portugal/",
+   "https://ominho.pt/vitoria-braga-aquece-quarta-eliminatoria-da-taca-de-portugal/"
+  ]
+ }
+]

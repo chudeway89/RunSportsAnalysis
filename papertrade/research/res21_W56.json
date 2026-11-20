@@ -1,0 +1,788 @@
+[
+ {
+  "eid": "sr:match:72759490",
+  "fx": "Worksop Town v Chorley FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NL North mid-table both; H2H Dec-2025 1-1, Apr-2026 Chorley 2-1. Worksop home 3-0-3.",
+  "news": "No preview or team news indexed; fixture not contradicted.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip 1X2; thin non-league O1.5 banned",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/football/worksop-vs-chorley/539781",
+   "https://www.sofascore.com/football/match/chorley-fc-worksop-town-fc/Fbsre",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758314",
+  "fx": "AFC Totton v Dagenham and Redbridge FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Totton knocked out of FA Trophy on pens by Dartford last weekend (extra 120 min). Dagenham away 0-1-3 in last 4 away.",
+  "news": "Fixture confirmed by Dagenham club site and FWP; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dagenham away form poor (0W in 4 away) - no away side",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758316",
+  "fx": "Billericay Town v Slough Town",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Billericay drew 0-0 at Truro on Tue 17 Nov (long trip, 3rd game in a week). Billericay home 5-1-1, scoring 2.5/g; Slough 2-1-7, away 1-0-3 (beat Walton 3-1 on 7 Nov).",
+  "news": "Truro 0-0 Billericay Tue 17 Nov confirmed; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.38,
+    "p": 0.691449,
+    "why": "Home strength v Slough 2W in 10 and 1W in 4 away; own p ~0.70 (house 0.69) - midweek Cornwall trip is the risk"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.3,
+    "p": 0.737559,
+    "why": "Billericay home scores 3-1,5-0,2-2,4-0; Slough concede 2.0/g; trend 0.75; own p ~0.74"
+   }
+  ],
+  "avoid": "Billericay -1.5 handicaps (midweek fatigue)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://trurocity.co.uk/results/first-team/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758318",
+  "fx": "Braintree Town FC v Torquay United",
+  "sport": "football",
+  "absences": "Torquay: Callum Morton and Jake Wannell SUSPENDED; Tegan Finn (hamstring) out; Jordan Dyer (ACL) long-term; Kian Jenkins rehab; Oludare Olufunwa doubt (knee). Braintree: Ben Isaacson doubt (collision v Kettering).",
+  "context": "Torquay in a 'gruelling away run'; centre-forward options limited without Morton.",
+  "news": "Torbay Weekly: Torquay depleted - two key suspensions plus injuries.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Torquay away win / DNB (house 0.59/0.75 doesn't price the absences); Overs (Torquay lose their striker)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.torbayweekly.co.uk/sport/torquay-united-travel-to-braintree-in-latest-test-of-gruelling-away-run-9363615",
+   "https://torquayunited.com/unpacked-braintree-town/",
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758320",
+  "fx": "Chesham United v Hampton & Richmond Borough",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Chesham lost 2-0 at Tonbridge Tue 17 Nov; Chesham concede 2.9/g. Hampton 0W in last 10 (0-3-7), away 0-1-5.",
+  "news": "Tonbridge 2-0 Chesham midweek; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.53,
+    "p": 0.61271,
+    "why": "Hampton winless in 10 (0-1-5 away); DNB protects the draw; own p ~0.64 (house 0.61). Chesham defence leaky, low confidence"
+   }
+  ],
+  "avoid": "Chesham 1X2 / handicaps; Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758322",
+  "fx": "Dorking Wanderers v Ebbsfleet United FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Ebbsfleet top (35 pts/16), Dorking 7th (27). Dorking home 5-1-0, games average 5.2 goals; Ebbsfleet 3.1 scored/g.",
+  "news": "Table 17 Nov: Ebbsfleet 1st, Dorking 7th. Ebbsfleet have FA Trophy R3 at Weston on 12 Dec (no congestion).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.47,
+    "p": 0.646077,
+    "why": "Both attacks in form: Dorking 2.9 gf/2.3 ga, Ebbsfleet 3.1 gf; last-10 trend 0.80 v house 0.65; own p ~0.68"
+   }
+  ],
+  "avoid": "Result side - top-7 clash, Dorking unbeaten at home",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758324",
+  "fx": "Dover Athletic FC v Horsham FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Dover 13th (22 pts) but home 6-1-1; Horsham 12th (22). Horsham host Truro Tue 24 Nov.",
+  "news": "Table 17 Nov: both 22 pts; Dover home record strong.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Horsham away DNB (house 0.60) - Dover home 6-1-1",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758326",
+  "fx": "Farnborough FC v Salisbury FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Salisbury 9-1-0 in last 10, conceding 0.3/g; drew FA Trophy R3 tie at Boreham Wood (12 Dec). Farnborough 2-1-7, lost 0-6 and 0-5 at home recently.",
+  "news": "No team news; Salisbury in FA Trophy R3 v Boreham Wood on 12 Dec (not a congestion issue).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.4,
+    "p": 0.675505,
+    "why": "Salisbury 9W1D in 10, Farnborough conceding 2.7/g incl 0-6, 0-5 home defeats; away 1X2 p 0.52 < 0.75 so DNB; own p ~0.71 (house 0.68)"
+   }
+  ],
+  "avoid": "Salisbury 1X2 (p<0.75)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://www.skysports.com/football/farnborough-vs-salisbury-fc/515244",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758328",
+  "fx": "Maidenhead United FC v Folkestone Invicta",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Maidenhead home 0-3-2 (no home win in 5); Folkestone out of FA Trophy (lost to Cray). Maidenhead have Trophy R3 at Cray 12 Dec.",
+  "news": "no news found beyond fixture confirmed Sat 21 Nov 15:00 UTC; no postponement notice",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Maidenhead result side (no home win in 5)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758330",
+  "fx": "Maidstone United FC v Farnham Town",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Maidstone 2nd (32), Farnham 5th (29); Farnham beat Chelmsford 2-0 on 2 Nov. Maidstone home 2-0-4 in last 6 home despite table position.",
+  "news": "Table 17 Nov: Maidstone 2nd, Farnham 5th - top-5 clash.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Maidstone result side (top-5 clash, poor home record)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758332",
+  "fx": "Tonbridge Angels v Weston-super-Mare",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tonbridge beat Chesham 2-0 Tue 17 Nov; Tonbridge have Trophy R3 v Yeovil on 12 Dec; Weston away 0-0-5. Tonbridge then go to Dagenham Tue 24 Nov.",
+  "news": "Venue confirmed Tonbridge home (Weston club site lists as away).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Weston (0-0-5 away); midweek-heavy Tonbridge result side",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://wsmafc.co.uk/national-league-south-fixtures-confirmed-for-the-2026-2027-season/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758334",
+  "fx": "Truro City v Hemel Hempstead Town",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Truro 7-2-1, home 4-1-0, conceding 0.8/g; drew 0-0 v Billericay Tue (home, no travel). Hemel 1-2-7, scoring 0.8/g. Truro at Horsham Tue 24 Nov.",
+  "news": "Truro 0-0 Billericay midweek confirmed; Truro home v Hemel 3pm confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.43,
+    "p": 0.666929,
+    "why": "Truro strong at home (4-1-0, 0.8 conceded) v Hemel 1W in 10 scoring 0.8/g; own p ~0.68 (house 0.67). Draw risk from low totals"
+   }
+  ],
+  "avoid": "Overs (Truro games low: 0-0,1-0,1-0); handicaps",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://trurocity.co.uk/results/first-team/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72758336",
+  "fx": "Walton and Hersham FC v Chelmsford City",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Walton & Hersham bottom (8 pts); lost 3-1 at Slough 7 Nov and 0-3 v Torquay. Chelmsford away 4-0-2. Walton at Weston Tue 24 Nov.",
+  "news": "Walton bottom of the table; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.37,
+    "p": 0.6936353097,
+    "why": "Walton bottom on 8 pts, 1W in 5 home; Chelmsford 4W in 6 away; away 1X2 p 0.53 so DNB; own p ~0.71 (house 0.69)"
+   }
+  ],
+  "avoid": "Chelmsford 1X2 (p<0.75)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.kentsportsnews.com/the-weekend-fixtures-122-20-11-2026/",
+   "https://daggers.co.uk/2026-27-enterprise-national-league-south-fixtures-released/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/",
+   "https://www.kentonline.co.uk/dartford/sport/fa-trophy-third-round-draw-347440/",
+   "https://chelmsfordcityfc.com/match-preview-reports/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73018722",
+  "fx": "AFC Emley v Hyde United FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Emley home 3-0-2; Hyde away 0-0-5 but beat Redcar 4-2 on 7 Nov.",
+  "news": "no news found beyond fixture confirmed Sat 21 Nov 15:00 UTC; no postponement notice",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hyde away anything",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.thenpl.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/non-league-premier-northern/2026-27/fixtures",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73018716",
+  "fx": "Alfreton Town FC v Curzon Ashton FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Curzon Ashton 2nd in table, 7-0-3; Alfreton 3-2-5 scoring 0.9/g.",
+  "news": "Wikipedia table 14 Nov: Curzon Ashton 2nd behind Redcar.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Curzon away 1X2 (p 0.44)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.thenpl.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/non-league-premier-northern/2026-27/fixtures",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73018718",
+  "fx": "Bamber Bridge v Cleethorpes Town FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bamber Bridge 0-2-8 in last 10, 0 pts from last 4 home, lost 0-4 at Redcar 10 Nov; Cleethorpes 3rd in table.",
+  "news": "Cleethorpes top-3 per Wikipedia 14 Nov table; Bamber Bridge winless in 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.23,
+    "p": 0.763633,
+    "why": "Bamber Bridge winless in 10 (0-0-4 home, 0.8 scored/g) v top-3 Cleethorpes; away 1X2 p 0.60 so DNB; own p ~0.78 (house 0.76)"
+   }
+  ],
+  "avoid": "Cleethorpes 1X2 (p<0.75); O1.5 in thin league",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.thenpl.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/non-league-premier-northern/2026-27/fixtures",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73018720",
+  "fx": "Bury FC v Redcar Athletic FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Redcar top (41 pts/19); Bury ~8th-10th, lost 4-0 at Darlington in FA Trophy 14 Nov, 5-4 v Quorn 17 Nov. Redcar have North Riding Senior Cup tie Tue 24 Nov.",
+  "news": "DATA CONFLICT (minor, not a fixture conflict): web snippet calls Bury 5-4 Quorn a home defeat, Sportradar has it as Bury away (Quorn home 5-4). Gigg Lane 3pm confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result side (top v mid, Bury defence 2.0 ga); Overs plausible but unpicked due to conflicting form data",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.thenpl.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/non-league-premier-northern/2026-27/fixtures",
+   "https://buryfc.co.uk/mens-fixtures-results-2026-27/",
+   "https://www.thenpl.co.uk/clubs/bury",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73018724",
+  "fx": "FC United of Manchester v Warrington Rylands 1906 FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Warrington Rylands 6-2-2, 2.7 gf/g; FC United 2-5-3 (draw-heavy).",
+  "news": "no news found beyond fixture confirmed Sat 21 Nov 15:00 UTC; no postponement notice",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rylands away 1X2 (p 0.42)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.thenpl.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/non-league-premier-northern/2026-27/fixtures",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73018726",
+  "fx": "Lancaster City v Ashton United FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Lancaster 4-2-4 home 2-0-2; Ashton United 3-2-5.",
+  "news": "no news found beyond fixture confirmed Sat 21 Nov 15:00 UTC; no postponement notice",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lancaster -1 handicaps",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.thenpl.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/non-league-premier-northern/2026-27/fixtures",
+   "https://www.footballwebpages.co.uk/ashton-united/fixtures-results",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73018728",
+  "fx": "Quorn FC v Avro FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Quorn home games: 5-4 (v Bury 17 Nov), 2-3, 4-0, 3-2; Quorn 2.8 gf / 2.2 ga. Avro 4-1-5.",
+  "news": "Quorn beat Bury 5-4 midweek; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.36,
+    "p": 0.693081,
+    "why": "Quorn home games average 5+ goals (5-4,2-3,4-0,3-2), Quorn concede 2.2/g; trend 0.80 v house 0.69; own p ~0.72"
+   }
+  ],
+  "avoid": "Result side",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.thenpl.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/non-league-premier-northern/2026-27/fixtures",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73018730",
+  "fx": "Stockton Town v Ilkeston Town FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Ilkeston bottom of the table, 2-0-8 in 10, away 0-0-4, scoring 0.7/g. Stockton home only 1-1-2 recently.",
+  "news": "FWP table 17 Nov: Ilkeston last; fixture confirmed by Ilkeston club site.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.7939981185,
+    "why": "Bottom side Ilkeston 0 pts from 4 away, 0.7 gf/g; DNB covers Stockton's patchy home form; own p ~0.80 (house 0.79)"
+   }
+  ],
+  "avoid": "Stockton -1/-1.5 (home form 1-1-2)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.thenpl.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/non-league-premier-northern/2026-27/fixtures",
+   "https://ilkestontownfc.co.uk/2026-27-fixtures-confirmed/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73018732",
+  "fx": "Warrington Town v Guiseley FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Guiseley 3rd-4th (32-33 pts), 7-2-1, scored 4 v Bury; Warrington Town home 0-2-1, lost 0-2 to Redcar 14 Nov.",
+  "news": "Guiseley top-4 in all table snapshots.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.41,
+    "p": 0.661538,
+    "why": "Guiseley 7W in 10 (3-2-1 away) v Warrington Town with no home win in 3; away 1X2 p 0.50 so DNB; own p ~0.69 (house 0.66)"
+   }
+  ],
+  "avoid": "Guiseley 1X2 (p<0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.thenpl.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/non-league-premier-northern/2026-27/fixtures",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73018734",
+  "fx": "Whitby Town v Leek Town FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Whitby near the bottom, 2-1-7, conceding 2.8/g (1-5, 1-3, 0-5, 2-4 recently). Leek 4-2-4, games 4.2 goals/g.",
+  "news": "FWP table: Whitby in the relegation zone.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.49,
+    "p": 0.626618,
+    "why": "Whitby concede 2.8/g; Leek games 2.1+2.1; trend 0.80 v house 0.63; own p ~0.66"
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.29,
+    "p": 0.7200604705,
+    "why": "Whitby 1W in 5 home, 2W in 10; own p ~0.74 (house 0.72)"
+   }
+  ],
+  "avoid": "Whitby side; Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.thenpl.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/non-league-premier-northern/2026-27/fixtures",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73018736",
+  "fx": "Workington AFC v Gainsborough Trinity",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Workington 4-2-4; Gainsborough 5-1-4, away 3-0-1.",
+  "news": "no news found beyond fixture confirmed Sat 21 Nov 15:00 UTC; no postponement notice",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.53,
+    "p": 0.60824,
+    "why": "Both concede 1.8-1.9/g; last-10 trend 0.85 v house 0.61; own p ~0.63 (trend partly noise)"
+   }
+  ],
+  "avoid": "Result side (house 0.37/0.39)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.thenpl.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/non-league-premier-northern/2026-27/fixtures",
+   "https://www.timesandstar.co.uk/sport/workington-reds/fixtures/",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73022136",
+  "fx": "Banbury United v Alvechurch",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Alvechurch 7th (29 pts/15), away 3-3-1; Banbury 2-2-6 scoring 1.0/g.",
+  "news": "Fixture confirmed Banbury home 3pm.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Alvechurch away 1X2 (p 0.49)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.southern-football-league.co.uk/fixtures",
+   "https://www.skysports.com/southern-premier-league-central-scores-fixtures",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League",
+   "https://www.skysports.com/southern-premier-league-central-table",
+   "https://www.footballwebpages.co.uk/banbury-united/fixtures-results",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73022138",
+  "fx": "Hitchin Town v Anstey Nomads",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Hitchin home 3-0-1; host Worcester City Tue 24 Nov. Anstey away 1-3-0.",
+  "news": "Fixture confirmed; Hitchin play again Tue 24 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Anstey away 1X2",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.southern-football-league.co.uk/fixtures",
+   "https://www.skysports.com/southern-premier-league-central-scores-fixtures",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League",
+   "https://www.skysports.com/southern-premier-league-central-table",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73022140",
+  "fx": "Kettering Town v Needham Market",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kettering 5th (31 pts/18), home 4-0-0 in last 4 home. Torbay Weekly reports Braintree's last game was a defeat to Kettering. Needham Market 5-3-2.",
+  "news": "no news found beyond fixture confirmed Sat 21 Nov 15:00 UTC; no postponement notice",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result side - two in-form sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.southern-football-league.co.uk/fixtures",
+   "https://www.skysports.com/southern-premier-league-central-scores-fixtures",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League",
+   "https://www.skysports.com/southern-premier-league-central-table",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73022142",
+  "fx": "Leiston FC v Leighton Town",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Leighton Town 0-2-8 in last 10, conceding 2.4/g, away 0-1-4. Leiston home 2-0-3 (inconsistent).",
+  "news": "Fixture confirmed by Sky/SFL; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.33,
+    "p": 0.7068305473,
+    "why": "Leighton winless in 10, 0.9 gf/g; DNB covers Leiston's patchy home record; own p ~0.73 (house 0.71)"
+   }
+  ],
+  "avoid": "Leiston 1X2 and handicaps",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.southern-football-league.co.uk/fixtures",
+   "https://www.skysports.com/southern-premier-league-central-scores-fixtures",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League",
+   "https://www.skysports.com/southern-premier-league-central-table",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73022144",
+  "fx": "Peterborough Sports v Bromsgrove Sporting",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bromsgrove 6-3-1, away 4-1-1; Peterborough Sports 5-3-2 but home 1-2-2.",
+  "news": "no news found beyond fixture confirmed Sat 21 Nov 15:00 UTC; no postponement notice",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Bromsgrove away 1X2 (p 0.45)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.southern-football-league.co.uk/fixtures",
+   "https://www.skysports.com/southern-premier-league-central-scores-fixtures",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League",
+   "https://www.skysports.com/southern-premier-league-central-table",
+   "https://www.footballwebpages.co.uk/peterborough-sports/fixtures-results",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ },
+ {
+  "eid": "sr:match:73022146",
+  "fx": "RC Warwick v Real Bedford",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Real Bedford top (41 pts/18, 47 gf). RC Warwick home 1-2-3.",
+  "news": "Table (Sky, 17 Nov): Real Bedford 1st, 13-2-3.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.28,
+    "p": 0.731466,
+    "why": "League leaders Real Bedford (13-2-3, 2.6 gf/g) v Warwick 1W in 6 home; away 1X2 p 0.58 so DNB; own p ~0.75 (house 0.73)"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.38,
+    "p": 0.6793072163,
+    "why": "Bedford average 2.6 scored per game; trend 0.70 v house 0.68; own p ~0.69"
+   }
+  ],
+  "avoid": "Bedford 1X2 (p<0.75)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.southern-football-league.co.uk/fixtures",
+   "https://www.skysports.com/southern-premier-league-central-scores-fixtures",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League",
+   "https://www.skysports.com/southern-premier-league-central-table",
+   "https://www.metoffice.gov.uk/blog/2026/weekend-weather-frosty-sunshine-before-heavy-rain-arrives-in-the-southwest"
+  ]
+ }
+]

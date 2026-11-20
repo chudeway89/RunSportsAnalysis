@@ -1,0 +1,568 @@
+[
+ {
+  "eid": "sr:match:70919032",
+  "fx": "UCF Knights v Iowa State Cyclones",
+  "sport": "american football",
+  "absences": "UCF: S Demari Henderson OUT (4th straight); WR Waden Charles, DT Horace Lockett, LB Jayden Jennings questionable; RB Duke Watson probable (returns); QB Keyone Jenkins ankle, status unclear (not on Tue report). Iowa State: at least 4 out, QB Jaylen Raynor expected to start, RB Aiden Flora in form.",
+  "context": "UCF Senior Night, Friday 6pm ET Orlando (FS1) = 23:00 UTC, matches board. Near pick'em (ISU ~-1.5).",
+  "news": "UCF safety Henderson out, several UCF questionables; QB situation murky; ISU lighter report.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip ML/spread/total; UCF QB uncertainty; no edge.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.si.com/college/ucf/football/ucf-knights-senior-demari-henderson-ruled-out-for-senior-knight-vs-iowa-state-cyclones-injury-report-breakdown-duke-watson-scott-frost-01m7nzqzvqdc",
+   "https://www.heartlandcollegesports.com/2026/11/16/iowa-state-vs-ucf-prediction-pick-preview-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:70900994",
+  "fx": "Duke Blue Devils v Clemson Tigers",
+  "sport": "american football",
+  "absences": "Clemson: QB1 Tait Reynolds OUT for season (knee), QB2 Christopher Vizzina OUT (concussion) -> 3rd-string Trent Pearman starts; WR Tyler Brown, LB Jeremiah Alexander, RG Easton Ware, DT Champ Thompson OUT. C Harris Sewell, RB Gideon Davidson probable. Duke: depth-only injuries.",
+  "context": "Fri 7:30pm ET Wallace Wade = 00:30 UTC, matches. Duke -12.5/-13.5; ESPN FPI Duke 79%.",
+  "news": "Clemson down to its third-string QB plus four starters out; Duke solid favourite at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8086,
+    "why": "Named mechanism: Clemson third-string QB Pearman + 4 starters out. 1X2 (regulation, tie loses) - my p 0.84 vs house 0.81; regulation tie in CFB ~1-2%."
+   },
+   {
+    "mid": "64",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.778,
+    "why": "1st Half DNB Duke: Clemson offense with QB3 should struggle early; half tie refunds. My p 0.80."
+   }
+  ],
+  "avoid": "Duke -13.5 spread (Clemson defence still decent; coin-flip). Note: Clemson is a big-name programme; if the caller treats this as a big-club clash, drop the result-sides.",
+  "confidence": 0.35,
+  "sources": [
+   "https://rubbingtherock.com/clemson-will-now-be-without-4-major-contributors-ahead-of-friday-night-game-at-duke",
+   "https://www.tigernet.com/clemson-football/news/multiple-clemson-starters-ruled-out-for-duke-game-50139",
+   "https://athlonsports.com/college-football/clemson-tigers-at-duke-blue-devils-ncaaf-prediction-picks-odds-week12-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:70971506",
+  "fx": "Toledo Rockets v Bowling Green Falcons",
+  "sport": "american football",
+  "absences": "Bowling Green: starting QB Jay Kastantin OUT for season; leading rusher Austyn Dendy broken hand (status unconfirmed). Toledo: RB Cameron Pettaway OUT.",
+  "context": "Fri 7:30pm ET Glass Bowl = 00:30 UTC, matches. Toledo 8-2, 4 straight wins; BG 3-7. Line moved 15.5 -> 18.5/19.5 on board (already priced).",
+  "news": "BG lost its starting QB for the season and its leading rusher has a broken hand; Toledo rolling.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "60",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.799,
+    "why": "1st Half 1X2 Toledo (half tie loses): BG without QB1 and probably RB1; Toledo 8-2 at home. My p 0.82."
+   }
+  ],
+  "avoid": "Toledo -18.5 (market already moved 3+ points); HT/FT Home/Home 1.22 duplicates the same risk.",
+  "confidence": 0.3,
+  "sources": [
+   "https://athlonsports.com/college-football/bowling-green-falcons-at-toledo-rockets-ncaaf-prediction-picks-odds-week12-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:70901004",
+  "fx": "Air Force Falcons v UTEP Miners",
+  "sport": "american football",
+  "absences": "UTEP: head coach Scotty Walden dismissed (interim in charge). No confirmed injury report found for either side.",
+  "context": "Fri Falcon Stadium 01:00 UTC. UTEP 1-9, eight straight losses; Air Force run game #1 in FBS (344 ypg). Line -21.5/-24.5, total 47.5-48.5.",
+  "news": "UTEP fired its coach and has lost eight straight; Air Force heavy favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "83",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.784,
+    "why": "2nd Half 1X2 Air Force: option offence grinds down a demoralised, coachless UTEP late; half tie loses. My p 0.80."
+   }
+  ],
+  "avoid": "-24.5 spread (option teams shorten games, backdoor risk); ML 1.04 too short.",
+  "confidence": 0.3,
+  "sources": [
+   "https://milehighsports.com/air-force-falcons-vs-utep-miners-game-preview-picks-and-best-bets-for-week-12/",
+   "https://www.mwcconnection.com/air-force-falcons-football/96120/2026-mountain-west-football-week-12-game-preview-predictions"
+  ]
+ },
+ {
+  "eid": "sr:match:70901000",
+  "fx": "Michigan State Spartans v Oregon Ducks",
+  "sport": "american football",
+  "absences": "Michigan State: QB1 Alessio Milivojevic OUT; QB2 Cam Fancher questionable/out -> possibly true freshman Kayd Coffman; RB Cam Edwards, DT Ben Roberts, S Devin Vaught OUT. Oregon: QB Dante Moore out for season (Dylan Raiola starts), RB Jordon Davison and several starters OUT.",
+  "context": "MSU Senior Night, Fri Spartan Stadium 01:00 UTC (5pm PT / 8pm ET consistent). Oregon -16.5 to -17.5.",
+  "news": "MSU possibly on its third QB with several starters out; Oregon also missing QB Moore and RB Davison but much deeper.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "47",
+    "spec": null,
+    "desc": "Away/Away",
+    "odds": 1.19,
+    "p": 0.777,
+    "why": "HT/FT Oregon/Oregon: MSU QB crisis (freshman Coffman likely) caps scoring; Oregon depth. My p 0.79 - Oregon's own QB change keeps it near house."
+   }
+  ],
+  "avoid": "Oregon -15.5 (Oregon offence also weakened); 2H Away 1.30 adds little.",
+  "confidence": 0.25,
+  "sources": [
+   "https://sports.yahoo.com/articles/michigan-state-receives-brutal-injury-165500240.html",
+   "https://sports.yahoo.com/articles/michigan-state-oregon-scouting-report-100819013.html",
+   "https://www.cbssports.com/betting/news/oregon-michigan-state-prediction-odds-time-week-12-friday-college-football-picks-bets/"
+  ]
+ },
+ {
+  "eid": "sr:match:70972168",
+  "fx": "Wyoming Cowboys v New Mexico Lobos",
+  "sport": "american football",
+  "absences": "Wyoming: QB Tyler Hughes doubtful -> Landon Sims likely. New Mexico: QB injury since start of season, backup Toa Fa'avae continues.",
+  "context": "Fri Laramie 7pm MST = 02:00 UTC, matches. Weather game (cold). Line FELL from New Mexico -10.5 to -7.5.",
+  "news": "Wyoming likely without QB Hughes; New Mexico on backup QB; spread drifted toward Wyoming.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "New Mexico ML 1.26 (p 0.757): market drift of 3 points AGAINST New Mexico -> R5 drop. Under 37.5 coin-flip only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.wagertalk.com/news/college-football/new-mexico-vs-wyoming-predictions-picks-odds-november-20-2026/",
+   "https://www.tonyspicks.com/2026/11/20/new-mexico-vs-wyoming-prediction-picks-11-20-26/"
+  ]
+ },
+ {
+  "eid": "sr:match:70900990",
+  "fx": "Army Black Knights v East Carolina Pirates",
+  "sport": "american football",
+  "absences": "No injury report found.",
+  "context": "Sat 12pm ET Michie Stadium (CBSSN) = 17:00 UTC, matches. Army 5-4, ECU 6-4; Army -5.5/-6, total 44.5-45.5. Army rush 324.7 ypg.",
+  "news": "Previews split; AccuScore Army 68%; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Army ML 1.38 (p 0.68 < 0.75 gate).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.underdogdynasty.com/american-conference/47886/2026-week-12-preview-east-carolina-pirates-army-black-knights",
+   "https://www.bleachernation.com/picks/2026/11/18/army-vs-east-carolina-prediction-picks-live-odds-and-moneyline-november-21-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:70900992",
+  "fx": "Boston College Eagles v Syracuse Orange",
+  "sport": "american football",
+  "absences": "No current injury report found (older listing had Syracuse QB Amari Odom out - unverified for this week).",
+  "context": "Sat 17:00 UTC Chestnut Hill. Syracuse -1.5, total 51.5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip; Syracuse QB status unverified.",
+  "confidence": 0.1,
+  "sources": [
+   "https://fbschedules.com/college-football-schedule-tv-selections-for-november-21-2026/",
+   "https://www.covers.com/sport/football/ncaaf/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:70924628",
+  "fx": "Campbell Fighting Camels v Monmouth Hawks",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Monmouth at Campbell, Buies Creek. Both ~8-2/8-3, CAA standings stakes. Kick-off listed 1pm (Wikipedia) vs 12pm ET (CBS/board 17:00 UTC) - minor time conflict.",
+  "news": "Kick-off time conflict 12pm vs 1pm ET between sources; no team news.",
+  "veto": false,
+  "veto_reason": "Time conflict is 1h only, same date/venue - flag, not veto (caller may veto under strict date/venue rule).",
+  "picks": [],
+  "avoid": "Campbell ML 1.50 (p 0.63); high-total 63.5 coin flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hamptonpirates.com/sports/football/schedule",
+   "https://en.wikipedia.org/wiki/2026_North_Carolina_A&T_Aggies_football_team",
+   "https://en.wikipedia.org/wiki/2026_Campbell_Fighting_Camels_football_team"
+  ]
+ },
+ {
+  "eid": "sr:match:70995410",
+  "fx": "Central Connecticut Blue Devils v Duquesne Dukes",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "NEC: Duquesne at CCSU, 12pm Ryz Sports Network = 17:00 UTC, matches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "CCSU ML 1.31 (p 0.73 < 0.75).",
+  "confidence": 0.1,
+  "sources": [
+   "https://fbschedules.com/2026-nec-football-schedule-announced/",
+   "https://fbschedules.com/nec-unveils-2026-football-tv-schedule-on-ryz-sports-network-si-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:70919038",
+  "fx": "Cincinnati Bearcats v Colorado Buffaloes",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Sat 17:00 UTC. Cincinnati -3.5, total 56.5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Near coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://fbschedules.com/college-football-schedule-tv-selections-for-november-21-2026/",
+   "https://www.covers.com/sport/football/ncaaf/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:70924734",
+  "fx": "Columbia Lions v Cornell Big Red",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Ivy finale, Cornell at Columbia (Wien Stadium) 12pm ESPN+. Dimers Cornell 66%, -5.5.",
+  "news": "Ivy season finale; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cornell away ML 1.42 (p 0.67 < 0.75).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sportsgamblingpodcast.com/2026/11/19/fcs-college-football-week-12-preview-picks-ep-3207/",
+   "https://www.dimers.com/cfb/predictions"
+  ]
+ },
+ {
+  "eid": "sr:match:70971228",
+  "fx": "Florida Gators v Vanderbilt Commodores",
+  "sport": "american football",
+  "absences": "Vanderbilt: backup QB Blaze Berlowitz OUT; QB Jared Curtis banged up v Alabama but off injury report; CB Cobey Sellers, RB Evan Hampton OUT. Florida: WR Vernell Brown III, TE Lacota Dippre, LB Jaden Robinson, S DJ Coleman OUT; QB Aaron Philo starts.",
+  "context": "Florida Senior Day, home finale, 12pm ET SECN = 17:00 UTC, matches. Florida -12.5/-14.5, total 45.5-46.5. Florida won 31 of last 33 v Vandy.",
+  "news": "Vandy missing CB1/RB1 and its backup QB, freshman Curtis turnover-prone; Florida missing four defensive/skill players.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "64",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.7937,
+    "why": "1st Half DNB Florida: Senior Day, Vandy without CB Sellers and RB Hampton, Curtis turnover-prone; half tie refunds. My p 0.81."
+   }
+  ],
+  "avoid": "Spread -14.5 (both offences cold); 1H 1X2 1.28 (tie loses).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.alligator.org/article/2026/11/florida-vanderbilt-football-preview-26",
+   "https://sports.yahoo.com/articles/qb-jared-curtis-off-injury-012207864.html",
+   "https://sports.yahoo.com/articles/florida-football-injury-dj-coleman-014119679.html"
+  ]
+ },
+ {
+  "eid": "sr:match:70919034",
+  "fx": "Georgia Tech Yellow Jackets v Wake Forest Demon Deacons",
+  "sport": "american football",
+  "absences": "Georgia Tech: CB Jaylen Mbakwe OUT, WR Chris Elko doubtful, DT Shymeik Jones questionable. Wake Forest (earlier report): OL Tolu Olajide, OL Dalton DeBoer, WR Elijah Otieno, TE Landon Morris OUT.",
+  "context": "Sat 17:00 UTC. Wake -19.5 heavy favourite (data: Wake 9-1, 43.9 ppg).",
+  "news": "GT missing CB Mbakwe; Wake missing two OL; nothing decisive.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "2H Wake 1.28 p 0.74 - stats-only, no named edge; -19.5 big catch area.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.si.com/college/georgiatech/football/georgia-tech-week-112-availability-report-latest-updates-ahead-of-wake-forest-matchup-01m7rnxxdbn4",
+   "https://accsports.com/news/acc-injury-report-week-11/"
+  ]
+ },
+ {
+  "eid": "sr:match:70924662",
+  "fx": "Holy Cross Crusaders v Fordham Rams",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Patriot League, Fordham at Holy Cross (Fitton Field) 12pm ESPN+. Holy Cross won 6 of last 7; Dimers HC 75.6%.",
+  "news": "Holy Cross in form; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Holy Cross ML 1.28 p 0.746 - just below 0.75 gate, statistics-only reason (fill at best).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportsgamblingpodcast.com/2026/11/19/fcs-college-football-week-12-preview-picks-ep-3207/",
+   "https://www.dimers.com/cfb/predictions"
+  ]
+ },
+ {
+  "eid": "sr:match:70971338",
+  "fx": "Kansas Jayhawks v BYU Cougars",
+  "sport": "american football",
+  "absences": "BYU: RB LJ Martin ankle (aggravated, expected back for full game); QB Bear Bachmeier starts (workload managed). Kansas: no news.",
+  "context": "BYU 8-2 (No.10, CFP race, must-win), Kansas 4-6 off 37-14 win over WVU. 12pm ET Lawrence = 17:00 UTC. BYU -4.5/-5.5.",
+  "news": "BYU in CFP race, Martin back from ankle; Kansas pass rush (Leroy Harris III) the threat.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "BYU away ML 1.38 (p 0.68 < 0.75).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.deseret.com/sports/2026/11/16/byu-football-big-12-kalani-sitake-race-cfp-playoffs-commitee-kansas/",
+   "https://universe.byu.edu/sports/everything-is-on-the-line-as-no-10-byu-travels-to-kansas-for-morning-showdown"
+  ]
+ },
+ {
+  "eid": "sr:match:70993206",
+  "fx": "Mercyhurst Lakers v New Haven Chargers",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "NEC: New Haven at Mercyhurst, Nov 21 confirmed. Both weak (1-9 / 2-8 last 10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip between two bad sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://fbschedules.com/2026-nec-football-schedule-announced/",
+   "https://fbschedules.com/nec-unveils-2026-football-tv-schedule-on-ryz-sports-network-si-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:70993012",
+  "fx": "Merrimack Warriors v Sacred Heart Pioneers",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Season finale and Merrimack Senior Day at Duane Stadium, North Andover; noon ET ESPN+ (ESPN gameId 401866700). Merrimack 5-6, SHU 4-6.",
+  "news": "Date/venue confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://merrimackathletics.com/sports/football/schedule/2026"
+  ]
+ },
+ {
+  "eid": "sr:match:70901002",
+  "fx": "Minnesota Golden Gophers v Northwestern Wildcats",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Sat 17:00 UTC. Northwestern -1.5, total 41.5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://fbschedules.com/college-football-schedule-tv-selections-for-november-21-2026/",
+   "https://www.covers.com/sport/football/ncaaf/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:70899136",
+  "fx": "Navy Midshipmen v Memphis Tigers",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Memphis at Navy 12pm ET. Memphis -2.5/-3, total 66.5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip; very high total.",
+  "confidence": 0.1,
+  "sources": [
+   "https://fbschedules.com/college-football-schedule-tv-selections-for-november-21-2026/",
+   "https://www.covers.com/sport/football/ncaaf/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:70919042",
+  "fx": "Nebraska Cornhuskers v Ohio State Buckeyes",
+  "sport": "american football",
+  "absences": "Nebraska OUT: DT Jahsear Whittington (team-leading 5.5 sacks, knee), LB Owen Chambliss, CB Andrew Marshall (season), WR Larry Miles, DB Kahmir Prescott, RB Vincent Genatone, LB Jase Reynolds; DL Anthony Jones Jr doubtful; LG Paul Mubenga questionable. Ohio State OUT: QB Julian Sayin (fractured elbow), RB Ja'Kobi Jackson, S Deshawn Stewart, WR Brennen Schramm, OL Jaxon Powell, OL Max Riley, TE Maxence LeBlanc; Luke Montgomery back, Brock Boyd cleared.",
+  "context": "Noon ET FOX at Lincoln = 17:00 UTC, matches. Big-club clash (Ohio State). Ohio State -3.5.",
+  "news": "Both sides heavily depleted: OSU without QB Sayin, Nebraska without three defensive starters.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash - no result-sides; OSU QB out, totals coin-flip. Source conflict on OSU questionables (Eleven Warriors Thursday update most current).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.elevenwarriors.com/ohio-state-football/2026/11/165548/ohio-state-injury-report-luke-montgomery-cleared-to-return-vs-nebraska-phillip-daniels-and-brock-boyd-questionable",
+   "https://247sports.com/college/nebraska/article/nebraska-huskers-football-injury-report-jahsear-whittington-owen-chambliss-paul-mubenga-292955743/"
+  ]
+ },
+ {
+  "eid": "sr:match:70924644",
+  "fx": "Norfolk State Spartans v Howard Bison",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "MEAC, Norfolk State Senior Day, home finale at Dick Price Stadium, noon ET. Howard offence 279 ypg.",
+  "news": "Date/venue confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NSU ML 1.42 (p 0.66).",
+  "confidence": 0.1,
+  "sources": [
+   "https://nsuspartans.com/news/2026/3/10/norfolk-state-announces-2026-football-schedule.aspx",
+   "https://www.bleachernation.com/tickets/2026/11/15/norfolk-state-vs-howard-football-game-tickets-venue-start-time-nov-21/"
+  ]
+ },
+ {
+  "eid": "sr:match:70924630",
+  "fx": "North Carolina A&T Aggies v University At Albany Great Danes",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Albany at NC A&T, Truist Stadium Greensboro, noon ET (matches board home side). A stale FloFootball page shows a different venue (Truist Field Charlotte, 2 years old - discounted).",
+  "news": "No team news; venue confirmed by Wikipedia 2026 schedule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Albany away ML 1.29 (p 0.74 < 0.75 away gate).",
+  "confidence": 0.1,
+  "sources": [
+   "https://hamptonpirates.com/sports/football/schedule",
+   "https://en.wikipedia.org/wiki/2026_North_Carolina_A&T_Aggies_football_team",
+   "https://en.wikipedia.org/wiki/2026_Campbell_Fighting_Camels_football_team"
+  ]
+ },
+ {
+  "eid": "sr:match:70992978",
+  "fx": "Princeton Tigers v Pennsylvania Quakers",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Ivy finale, Penn at Princeton; Princeton still in hunt for Ivy title share (must-win). Low total 37.5.",
+  "news": "Princeton playing for a share of the Ivy title.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Princeton ML 1.42 (p 0.66); rivalry finale.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sportsgamblingpodcast.com/2026/11/19/fcs-college-football-week-12-preview-picks-ep-3207/",
+   "https://www.dimers.com/cfb/predictions"
+  ]
+ },
+ {
+  "eid": "sr:match:70919044",
+  "fx": "Purdue Boilermakers v Wisconsin Badgers",
+  "sport": "american football",
+  "absences": "Wisconsin: CB Javan Robinson (best cover man) doubtful, O-line issues; CB Jai'mier Scott and edge Sebastian Cheeks probable. Purdue: no news.",
+  "context": "Sat 17:00 UTC. Wisconsin -5.5.",
+  "news": "Wisconsin likely without CB Robinson and banged-up OL.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Wisconsin away ML 1.37 (p 0.69 < 0.75).",
+  "confidence": 0.15,
+  "sources": [
+   "https://si.com/college/wisconsin/football/wisconsin-football-gets-bad-news-on-javan-robinson-o-line-from-initial-purdue-injury-report"
+  ]
+ },
+ {
+  "eid": "sr:match:70924638",
+  "fx": "Richmond Spiders v William & Mary Tribe",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "Patriot League, William & Mary at Richmond (Robins Stadium), noon ESPN+. Dimers Richmond 71%, -6.5.",
+  "news": "no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Richmond ML 1.34 (p 0.71 < 0.75).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sportsgamblingpodcast.com/2026/11/19/fcs-college-football-week-12-preview-picks-ep-3207/",
+   "https://www.dimers.com/cfb/predictions"
+  ]
+ },
+ {
+  "eid": "sr:match:70924654",
+  "fx": "Robert Morris Colonials v Liu Sharks",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "NEC: LIU at Robert Morris, Nov 21 confirmed. Low total 34.5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://fbschedules.com/2026-nec-football-schedule-announced/",
+   "https://fbschedules.com/nec-unveils-2026-football-tv-schedule-on-ryz-sports-network-si-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:70924656",
+  "fx": "Stonehill Skyhawks v Wagner Seahawks",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "NEC: Wagner at Stonehill, 12pm SI TV, confirmed. Stonehill 4-6 last 10 scoring 17.4; Wagner 3-7 conceding 33.9.",
+  "news": "Date confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Stonehill ML 1.24 p 0.77 passes the gate but on statistics only (Stonehill offence weak, last-10 trend 0.55 v p 0.77) - fill at best.",
+  "confidence": 0.15,
+  "sources": [
+   "https://fbschedules.com/2026-nec-football-schedule-announced/",
+   "https://fbschedules.com/nec-unveils-2026-football-tv-schedule-on-ryz-sports-network-si-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:70924632",
+  "fx": "Stony Brook Seawolves v Hampton Pirates",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "CAA: Hampton at Stony Brook (LaValle Stadium) noon. Hampton 0-10 last 10 (12.4 ppg for, 39.9 against); Stony Brook 5-5/5-6.",
+  "news": "Hampton winless; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.04 too short; -21.5 coin-flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://hamptonpirates.com/sports/football/schedule",
+   "https://en.wikipedia.org/wiki/2026_North_Carolina_A&T_Aggies_football_team",
+   "https://en.wikipedia.org/wiki/2026_Campbell_Fighting_Camels_football_team"
+  ]
+ },
+ {
+  "eid": "sr:match:70900988",
+  "fx": "Tulane Green Wave v North Texas Mean Green",
+  "sport": "american football",
+  "absences": "no news found",
+  "context": "North Texas at Tulane (Yulman Stadium) 12pm ET. North Texas -5.5, high total 55.5 (UNT 41.8 ppg last 10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UNT away ML 1.36 (p 0.70 < 0.75).",
+  "confidence": 0.1,
+  "sources": [
+   "https://fbschedules.com/college-football-schedule-tv-selections-for-november-21-2026/",
+   "https://www.covers.com/sport/football/ncaaf/injuries"
+  ]
+ }
+]

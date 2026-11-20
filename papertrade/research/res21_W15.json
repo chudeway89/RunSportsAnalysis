@@ -1,0 +1,402 @@
+[
+ {
+  "eid": "sr:match:73535852",
+  "fx": "Clemson Tigers v Georgia Tech Ramblin Wreck",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "NCAA women ACC; Clemson 2-8 last 10, GT 5-5. Clemson home schedule lists Fri Nov 20 6pm ET at Jervey Gym (=23:00 UTC, matches board). April release had said Nov 20 in Atlanta, later schedule pages supersede (home-and-home, return leg Nov 22).",
+  "news": "Clemson and GT schedules agree: Nov 20 6:00 PM ET in Clemson; old April announcement said Atlanta (superseded).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's competition: no result-side picks by rule; only date/venue checked. Minor venue discrepancy in April release; GT ML 1.14 below band anyway.",
+  "confidence": 0.15,
+  "sources": [
+   "https://clemsontigers.com/sports/volleyball/schedule",
+   "https://clemsontigers.com/news/2026/04/24/2026-volleyball-announces-acc-slate",
+   "https://theacc.com/schedule.aspx?schedule=4660"
+  ]
+ },
+ {
+  "eid": "sr:match:73535856",
+  "fx": "Notre Dame Fighting Irish v North Carolina State Wolfpack",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "NCAA women ACC; Notre Dame 2-8 last 10, NC State 5-5. Notre Dame schedule: Nov 20 6:30 PM ET South Bend (matches board).",
+  "news": "Date/venue confirmed by ACC schedule; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's competition: no result-side picks by rule; only date/venue checked.",
+  "confidence": 0.15,
+  "sources": [
+   "https://theacc.com/schedule.aspx?schedule=4665"
+  ]
+ },
+ {
+  "eid": "sr:match:73535860",
+  "fx": "North Carolina Tar Heels v Miami Hurricanes",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "NCAA women ACC; Miami 15-10, 13-3 ACC after sweep of BC (3 straight sweeps); UNC ranked No.20, 5-0 at home in last 10. Nov 20 7pm ET Chapel Hill (matches board).",
+  "news": "Miami Hurricane: Miami 13-3 ACC heads to No.20 UNC Fri Nov 20 7pm.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's competition: no result-side picks by rule; only date/venue checked. Miami's ACC record makes UNC 1.26 (p0.76) shaky; trend 0.45 for UNC.",
+  "confidence": 0.15,
+  "sources": [
+   "https://goheels.com/sports/womens-volleyball/schedule",
+   "https://themiamihurricane.com/2026/11/15/miami-volleyball-breezes-past-boston-college/"
+  ]
+ },
+ {
+  "eid": "sr:match:73535868",
+  "fx": "Tcu Horned Frogs v Arizona State Sun Devils",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "NCAA women Big 12; Arizona State defending Big 12 champion, 9-1 last 10; TCU 6-4. TCU calendar: Fri Nov 20 6:30 PM CT Fort Worth (=00:30 UTC, matches). Big 12 release says 'Thursday Nov 20' (weekday typo).",
+  "news": "TCU hosts ASU Fri Nov 20 6:30pm CT on ESPN+; ASU road game before Baylor Nov 22.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's competition: no result-side picks by rule; only date/venue checked. Big 12 release weekday typo noted (date itself agrees).",
+  "confidence": 0.15,
+  "sources": [
+   "https://calendar.tcu.edu/event/tcu-womens-volleyball-vs-arizona-state",
+   "https://gofrogs.com/sports/womens-volleyball/schedule",
+   "https://big12sports.com/news/2026/4/16/big-12-reveals-2026-volleyball-schedule.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:75712646",
+  "fx": "Eczacibasi Istanbul v Kuzeyboru Genclik",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Sultanlar Ligi women round 10; Eczacibasi (7-3 last 10, 4-1 home) v Kuzeyboru. Confirmed Sat 21 Nov 14:00 local (=11:00 UTC) at Eczacibasi HDI Sigorta hall; club retro-kit day (60th anniversary).",
+  "news": "Eczacibasi Peron Istanbul v Kuzeyboru Sat 21 Nov 14:00, round 10, TRT Spor Yildiz.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's competition: no result-side picks by rule; only date/venue checked. Home ML 1.03 below band.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sporekrani.com/home/match/496456/2026/11/21/eczacibasi-kuzeyboru-tvf-sultanlar-ligi-hangi-kanalda",
+   "https://turksporajansi.com/2026/11/20/eczacibasinda-retro-forma-gunu/"
+  ]
+ },
+ {
+  "eid": "sr:match:75743072",
+  "fx": "Alanya Belediye v Ibb Spor",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Efeler Ligi week 7 (Alanya's fixture list has IBB as week-7 opponent, consistent). Alanya 6-4 last 10, 3-1 at home (avg 2.75 sets won); IBB 1-4 away. Last H2H 3-2 Alanya.",
+  "news": "No team news; fixture order confirmed by Alanya's published schedule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7806,
+    "why": "Alanya 3-1 at home, IBB 1-4 away (1.8 sets/won away); my p ~0.78, in line with house - fill-grade home favourite, no named absence."
+   }
+  ],
+  "avoid": "Alanya -1.5 sets (trend 0.25: they often drop a set); Under 4.5 sets (p<0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.akdenizmanset.com.tr/alanya-belediyesporun-efeler-ligi-2026-2027-sezonu-fiksturu-belli-oldu",
+   "https://www.sofascore.com/volleyball/tournament/turkey/efeler-ligi/967"
+  ]
+ },
+ {
+  "eid": "sr:match:75743066",
+  "fx": "Gaziantep Genclik Spor v Gebze Genclik",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Efeler Ligi; Gaziantep 2-8 last 10 (1.0 sets won/game), 1-4 home; Gebze 6-4, led the table after round 2 (6 pts).",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.21,
+    "p": 0.7944,
+    "why": "Away p 0.79 >=0.75 gate; Gaziantep 2-8 and won 1.2 sets/game at home, Gebze early leaders; my p ~0.80."
+   }
+  ],
+  "avoid": "Gebze -2.5 (3-0) at 2.45; Under 4.5 sets p0.77 (<0.82 gate).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.aksam.com.tr/canli-skor/voleybol/turkiye-efeler-ligi-puan-durumu-xWpDgxdenPCvfekQnAynZY/",
+   "https://www.sofascore.com/volleyball/tournament/turkey/efeler-ligi/967"
+  ]
+ },
+ {
+  "eid": "sr:match:75743068",
+  "fx": "Sultanbeyli Bld v Onikisubat Bld",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Efeler Ligi; Sultanbeyli 0-8 (0.62 sets/game, lost 0-3 x4 of last 6); Onikisubat 5-5, only 2-4 away. Market prices Sultanbeyli surprisingly high (p0.35).",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Onikisubat ML 1.46 (p0.65) fails nothing structurally but no mechanism and weak away form; -1.5 sets at 2.0 needs 3-0/3-1 from a 2-4 away side. Data vs market disagreement (Sultanbeyli 0-8 yet p0.35) suggests roster change house knows about - skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/turkey/efeler-ligi/967"
+  ]
+ },
+ {
+  "eid": "sr:match:75743074",
+  "fx": "Ziraat Bankasi Ankara v Galatasaray SK",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Efeler Ligi week 7 top clash: Ziraat Bankkart 7-0 leader (19 pts, +15) v Galatasaray 4-2 (13 pts). Confirmed Sat 21 Nov 16:00 local (=13:00 UTC) Ankara, TVF Ziraat Bankkart hall, TRT Spor Yildiz. Ziraat won the last meeting at Galatasaray 3-2.",
+  "news": "Ziraat took the lead from Galatasaray; match Sat 16:00 Ankara on TRT Spor Yildiz; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "314",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.46,
+    "p": 0.6507,
+    "why": "Leader v 4th-placed big club; last H2H went 5 sets (GS 2-3 Ziraat); GS won 3-1/3-0 at times and has won sets in most games. My p ~0.67."
+   }
+  ],
+  "avoid": "Ziraat ML 1.30 - big-club clash, no result-side by rule; -1.5 sets.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/turkey/efeler-ligi/967",
+   "https://www.voleybolaktuel.com/zi/",
+   "https://www.dogayidinle.com/spor/ziraat-bankkart-galatasaray-maci-ne-zaman-saat-kacta-hangi-kanalda/10132",
+   "https://tvf.org.tr/icerik/efeler-liginde-7-haftanin-heyecani-tek-karsilasma-ile-devam-etti"
+  ]
+ },
+ {
+  "eid": "sr:match:75743070",
+  "fx": "TFL Altekma v Corum Sungurlu Bld",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Efeler Ligi; Altekma 5-5 overall but 4-2 at home; Corum Sungurlu 2-8, 0-5 away winning 0.6 sets/game away.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7669,
+    "why": "Corum 0-5 away (0.6 sets per away game), Altekma 4-2 at home; my p ~0.80 vs house 0.77."
+   }
+  ],
+  "avoid": "Altekma -1.5 (trend 0.5); Under 4.5 sets p0.73.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/turkey/efeler-ligi/967"
+  ]
+ },
+ {
+  "eid": "sr:match:72779600",
+  "fx": "TSV Jona Volley v Colombier Volley",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Swiss NLA men: Jona 2nd (11 pts) v Colombier 3rd (8 pts, sets 12:11) after 5 rounds - top-3 clash. Jona 4-0 at home; Colombier plays many 5-setters.",
+  "news": "sport.de table after 14 Nov: Amriswil 15, Jona 11, Colombier 8.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "314",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.37,
+    "p": 0.6913,
+    "why": "2nd v 3rd, Colombier's 12:11 set ratio = long matches; trend 0.65; my p ~0.70 vs 0.69."
+   }
+  ],
+  "avoid": "Jona ML 1.54 (p0.62) - close contest.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sport.de/volleyball/schweiz-nla-vb/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:72779598",
+  "fx": "Volley Nafels v Volley Amriswil",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Swiss NLA men: Amriswil unbeaten leader 5-0, sets 15:2, 10-0 last 10 (6-0 away) v Nafels 6th (5 pts), 0-4 at home in last 10. H2H 0-3, 2-3, 0-3.",
+  "news": "sport.de: Amriswil 5/5 wins 15:2 sets; Nafels 6th.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amriswil ML 1.17 below band; Under 3.5 sets 1.84 p0.50 fails Under gate; -2.5 (3-0) at 2.05 is ~1-in-2.2. Nothing in 1.18-2.2 passes cleanly.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sport.de/volleyball/schweiz-nla-vb/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:75743076",
+  "fx": "Fenerbahce SK Istanbul v Spor Toto SK Ankara",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Efeler Ligi; Fenerbahce 5-1 (13 pts) v Spor Toto 11 pts from 6 - both upper half. Fenerbahce 8-2 last 10 but several 5-setters; Spor Toto 1-3 away.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.7021,
+    "why": "Fenerbahce 8-2 last 10, Spor Toto 1-3 away; my p ~0.72 vs 0.70. Big club at home v mid-table, not a big-club clash."
+   }
+  ],
+  "avoid": "Fener -1.5 at 1.80 (trend 0.4; they go long often); Over 4.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/turkey/efeler-ligi/967"
+  ]
+ },
+ {
+  "eid": "sr:match:72779602",
+  "fx": "Volley Schonenwerd v Chenois Geneve",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Swiss NLA men: Schonenwerd (4-2 home) v Chenois Geneve 7th (4 pts), 1-9 last 10, 1-4 away. H2H both 3-2 Schonenwerd.",
+  "news": "Chenois 7th of 8 after 5 rounds.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.7247,
+    "why": "Chenois 1-9 last 10 and 7th in table; Schonenwerd 4-2 at home; my p ~0.75 vs 0.72. H2H tight (two 3-2), so no set handicap."
+   }
+  ],
+  "avoid": "Home -1.5 (H2H both 3-2).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sport.de/volleyball/schweiz-nla-vb/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:72780002",
+  "fx": "Vbc Cheseaux v Vfm Franches-Montagnes",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Swiss NLA women; Cheseaux lost opener 0-3 to Dudingen; Franches-Montagnes 3 pts from opener. Near coin-flip.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's competition: no result-side picks by rule; only date/venue checked.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.volleyduedingen.ch/Spielplan-2026-2027",
+   "https://www.sport.de/volleyball/schweiz-nla-frauen-vb/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:72780004",
+  "fx": "Volley Dudingen v Volley Lugano",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Swiss NLA women; Dudingen home v Lugano 21 Nov 17:30 local per club schedule (=16:30 UTC, matches board; volleyballarena shows 16:30 local - time discrepancy between sources, likely UTC vs local). Last season the two met in the playoff QF.",
+  "news": "Dudingen schedule lists home v Lugano 21 Nov 17:30.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's competition: no result-side picks by rule; only date/venue checked. Minor kick-off time discrepancy between sources (17:30 vs 16:30, probably timezone).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.volleyduedingen.ch/Spielplan-2026-2027",
+   "https://www.sport.de/volleyball/schweiz-nla-frauen-vb/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:72780006",
+  "fx": "Volley Toggenburg v Geneve Volley",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Swiss NLA women; both sides bottom-tier: Toggenburg 0-10 last 10, Geneve 1-9 (lost opener 0-3).",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's competition: no result-side picks by rule; only date/venue checked.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.volleyduedingen.ch/Spielplan-2026-2027",
+   "https://www.sport.de/volleyball/schweiz-nla-frauen-vb/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:75721014",
+  "fx": "OK Partizan Beograd v OK Nis",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Serbian Superliga men round 5. Sofascore lists OK Partizan v OK Nis on Fri 20 Nov 15:00 UTC; SportyBet has Sat 21 Nov 17:00 UTC.",
+  "news": "Sofascore: Partizan - Nis Nov 20 15:00 UTC (Superliga round 5) - date conflict with board.",
+  "veto": true,
+  "veto_reason": "Date conflict: Sofascore lists Fri 20 Nov 15:00 UTC vs SportyBet Sat 21 Nov 17:00 UTC.",
+  "picks": [],
+  "avoid": "Everything - veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/match/ok-nis-ok-partizan-beograd/dlrsJlIb",
+   "https://srbijasport.net/league/8898-superliga/games"
+  ]
+ },
+ {
+  "eid": "sr:match:72779604",
+  "fx": "STV St Gallen v Lausanne UC",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Swiss NLA men: St Gallen bottom (8th, 2 pts), 1-9 last 10, 0-4 home; Lausanne UC 5th (7 pts), 2-3 away. H2H 1-3, 0-3 Lausanne.",
+  "news": "St Gallen last in sport.de table after 5 rounds.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lausanne ML 1.32 p0.72 fails away gate (>=0.75); Lausanne -1.5 at 1.68 needs 3-0/3-1 from an inconsistent 2-3 away side.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sport.de/volleyball/schweiz-nla-vb/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:75721010",
+  "fx": "Crvena Zvezda v Spartak Subotica",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Serbian Superliga men; Crvena Zvezda 8-2 last 10 v Spartak Subotica 0-4 away. Kick-off not confirmed: the women's Zvezda v Spartak league match is Friday 20:00 local (Novosti), and the same round's Partizan-Nis is listed a day earlier than SportyBet on Sofascore, so the men's round timing is uncertain.",
+  "news": "Only the women's Zvezda v Spartak (Fri 20:00) found; men's fixture date not independently confirmed.",
+  "veto": false,
+  "veto_reason": "No direct conflict found for this exact men's fixture, but schedule unverified and same-league fixture conflicts.",
+  "picks": [],
+  "avoid": "Skip until kick-off verified: Zvezda ML 1.24 (p0.77) would otherwise be a reasonable home pick (Spartak 0-4 away).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/match/ok-nis-ok-partizan-beograd/dlrsJlIb",
+   "https://srbijasport.net/league/8898-superliga/games",
+   "https://www.novosti.rs/sport/ostali-sportovi/1670635/zvezda-ceka-spartak-crveno-bele-odbojkasice-petak-sestom-kolu-superlige-ugostiti-suboticanke"
+  ]
+ }
+]

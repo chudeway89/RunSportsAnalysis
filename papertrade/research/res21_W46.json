@@ -1,0 +1,598 @@
+[
+ {
+  "eid": "sr:match:73583624",
+  "fx": "Real Betis Balompie C v CD Utrera",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Real Betis C is a reserve side, so no result-side picks.",
+  "news": "no news found beyond a TV listing (Betis C v Utrera, 17:00 local in one listing, undated; the board has 12:00 local). The time is unconfirmed rather than in conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (reserve side); Over 1.5 is tempting (tr0.8) but this is a thin amateur context, not a clear mismatch",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futbolenlatv.es/competicion/tercera-division",
+   "https://es.besoccer.com/competicion/equipos/tercera_division_rfef/2027"
+  ]
+ },
+ {
+  "eid": "sr:match:73585792",
+  "fx": "UD Villa Santa Brigida v UD Playas de Sotavento",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Playas de Sotavento 16th (~7 pts per a mixed-season BeSoccer snapshot) and 0-2-3 away. Santa Brigida lost 3-0 at Laguna last time (unverified).",
+  "news": "BeSoccer lists Villa Santa Brigida v Playas de Sotavento for 21 Nov 2026 13:00 Spanish time, which is 12:00 UTC and matches the board",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 at 1.47 (Santa Brigida only 2-3-5 in last 10); Overs (Playas scoring 0.9)",
+  "confidence": 0.15,
+  "sources": [
+   "https://es.besoccer.com/competicion/info/tercera_division_rfef/2027/grupo12",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_XII_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:76445416",
+  "fx": "Ostersunds FK v Varbergs BoIS",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "NOT a regular Allsvenskan game. This is the Allsvenskan qualifier (kval) round 1, FIRST LEG: Superettan 4th (Östersund) v 3rd (Varberg), with the return leg in Varberg on 28 Nov and the winner meeting Allsvenskan's 14th-placed club 3-6 Dec. It is a two-legged knockout, so first-leg caution applies.",
+  "news": "Confirmed Sat 21 Nov 13:00 CET at Jämtkraft Arena (TV4 Play). The odds lean slightly to Östersund. Both teams are draw-heavy (5 draws each in their last 10), and Östersund scored only 0.8 per game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (two-legged knockout first leg: only DNB/To Qualify allowed, and no edge there); Unders below the p 0.82 floor",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.442fantasy.se/2026/11/varbergs-bois-och-ostersund-till-allsvenska-kvalet/",
+   "https://www.oddsonline.se/nyheter/allsvenskan-vecka-47-i-helgen-med-kval-och-omgang-29/",
+   "https://www.tvsporten.nu/nyheter/kval-till-allsvenskan"
+  ]
+ },
+ {
+  "eid": "sr:match:72477620",
+  "fx": "CE Sabadell FC v Granada",
+  "sport": "football",
+  "absences": "Sabadell: Gioacchini (ACL, out for the season), Xavi Moreno (ankle, out to end of Nov) and Nuamah are out. Bonaldo, Eneko Aguilar, Miki Codina (hamstrings), Pipa/Urri (muscle/knee) and Quadri (concussion) are doubts. Granada: Casadesús is out, Owen Emeka is at the U17 World Cup, and Baïla Diallo is back but on the bench.",
+  "context": "LaLiga Hypermotion J15. Sabadell are 14th, 5 games without a win, but unbeaten at home. Granada are 3rd after 6 straight wins (Pacheta).",
+  "news": "Infobae/Radio Sabadell (20 Nov): Sabadell in an injury crisis against a Granada side on a run. bet365 lists the venue as Los Cármenes, but every other source says Nova Creu Alta, so this is a likely bet365 error. Kick-off of 14:00 CET matches the board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.49,
+    "p": 0.6198,
+    "why": "Granada 6 straight wins (4-0-1 away, 2.2 gf) v a Sabadell with 3 confirmed and up to 6 more injury absences, and 5 without a win. Sabadell are unbeaten at home but mostly through draws (1-3-0). Own p 0.66 v house 0.62."
+   }
+  ],
+  "avoid": "Granada away 1X2 (p 0.45, below the 0.75 away floor); Overs (LaLiga 2 is low-scoring)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/20/el-sabadell-a-recuperar-la-sonrisa-en-laliga-contra-un-granada-lanzado/",
+   "https://radiosabadell.fm/esports/ce-sabadell/previa-sabadell-granada-jornada-15-hypermotion",
+   "https://www.ceroacero.es/noticias/ce-sabadell-vs-granada-prediccion-noticias-de-equipos-y-alineaciones-segunda-division-21-11/1263231"
+  ]
+ },
+ {
+  "eid": "sr:match:67126886",
+  "fx": "AIK v Degerfors IF",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Allsvenskan round 29 (second-to-last round). AIK are 8th on 41 pts with nothing to play for. Degerfors are in the qualifier place on 20 pts (level with Örgryte and Halmstad), 8 games without a win, and must win.",
+  "news": "tvmatchen/speltips: AIK favourites; Degerfors 8 straight without a win and fighting to avoid the kval spot. Sat 15:00 CET at Strawberry Arena, matching the board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8174,
+    "why": "AIK home games are wild (last 6 at home include 3-2, 2-2, 2-2, 5-6; home-at-home gf 2.33 ga 2.83). Degerfors must chase the game for survival, and Allsvenskan averages about 2.8 goals. Own p 0.85 v house 0.82."
+   }
+  ],
+  "avoid": "AIK result-side: AIK are unmotivated and Degerfors are desperate, which blunts the favourite's edge",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.tvmatchen.nu/betting/speltips/aik-degerfors-21-11-allsvenskan/",
+   "https://speltips.se/speltips-21-11-infor-aik-degerfors-pavag-ur-allsvenskan",
+   "https://www.oddsonline.se/nyheter/allsvenskan-vecka-47-i-helgen-med-kval-och-omgang-29/"
+  ]
+ },
+ {
+  "eid": "sr:match:75024580",
+  "fx": "CD Egues v AD San Juan Pamplona",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Navarra group. Egüés and San Juan were both mid-to-upper table in 2025-26.",
+  "news": "no news found for the 2026-27 fixture (only 2025-26 tables surfaced)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: the market is near coin-flip and there is no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-15/3075/"
+  ]
+ },
+ {
+  "eid": "sr:match:73584738",
+  "fx": "CD Llosetense v PE Sant Jordi",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Balearic group. Sant Jordi (Ibiza) are 4-5-1 in their last 10; Llosetense 4-1-5 with 0.9 gf.",
+  "news": "no news found for this round. futbolme snapshots are inconsistent (mixed seasons)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: Sant Jordi's edge is only statistical",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-11/3065/"
+  ]
+ },
+ {
+  "eid": "sr:match:73584724",
+  "fx": "Inter Ibiza CD v CE Andratx",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Inter Ibiza are last (18th, 5 pts); Andratx 14th (10 pts).",
+  "news": "DATE CONFLICT: FutbolBalear lists Sat 21/11 16:00 at Can Canto (which matches the board), but the futbolme Inter Ibiza calendar lists 22/11 and an Andratx calendar showed 29/11 for J12",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (21/11 v 22/11 v 29/11)",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futbolbalear.es/resultados/",
+   "https://futbolme.com/resultados-directo/equipo/inter-ibiza-cd/13926/calendario",
+   "https://futbolme.com/resultados-directo/equipo/bueno/867/calendario/3065/tercera-federacion-grupo-11"
+  ]
+ },
+ {
+  "eid": "sr:match:73563038",
+  "fx": "CD Berceo v CD Anguiano",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). La Rioja group, J12.",
+  "news": "An aggregator lists Berceo v Anguiano on 21 Nov at '07:00' in a non-Spanish time zone. That equals 16:00 CET (15:00 UTC) in US Pacific time, so it is consistent with the board. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: Berceo are 5-0-5 and volatile, and Anguiano are poor away (1-1-2)",
+  "confidence": 0.1,
+  "sources": [
+   "https://soccer365.net/online/&competition_id=709"
+  ]
+ },
+ {
+  "eid": "sr:match:73562234",
+  "fx": "CD Belchite 97 v CF Atletico de Monzon",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Aragón group, J12. Belchite are 0-3-7 in their last 10 with 0.25 gf at home. Atlético Monzón finished 3rd in 2025-26.",
+  "news": "Flashscore confirms Tercera G17 J12 on 21.11.2026 15:00, matching the board's 15:00 UTC slot (16:00 CET; Flashscore ES may show local time). No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.7541,
+    "why": "Belchite are winless in 10 (0-3-7) and have scored 1 goal in 4 home games; Monzón are a top-3 calibre side. The draw is refunded. Own p 0.80 v house 0.75."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.56, below the 0.75 floor)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.flashscore.es/partido/futbol/atletico-monzon-xKLUOEgq/cd-belchite-97-rcQl8lwa/",
+   "https://en.wikipedia.org/wiki/Atl%C3%A9tico_Monz%C3%B3n"
+  ]
+ },
+ {
+  "eid": "sr:match:73560458",
+  "fx": "CD Guadalajara B v CD Manchego Ciudad Real",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera G18 (Castilla-La Mancha) J12. Guadalajara B is a RESERVE side and bottom-form (0-3-7, ga 2.6; 0-1-3 at home with ga 3.25). Manchego lead the group (27 pts) after beating CD Villa 2-1.",
+  "news": "Surco CLM: Manchego consolidated the lead after J11. Lanza Digital confirms the J12 weekend of 21-22 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.6,
+    "p": 0.5727,
+    "why": "Goals market in a clear mismatch (allowed for reserve sides). Leader Manchego (8-0-2, 1.9 gf) v a reserve side conceding 2.6 per game and 3.25 at home. Own p 0.62 v house 0.56."
+   }
+  ],
+  "avoid": "Away 1X2 (reserve-side rule; p 0.65 is below the 0.75 away floor)",
+  "confidence": 0.25,
+  "sources": [
+   "https://surcoclm.com/noticias-por-secciones/deportes/el-manchego-afianza-el-liderato-del-grupo-18-de-tercera-federacion-tras-la-jornada-11/",
+   "https://lanzadigital.com/deportes/futbol/tercera-rfef/el-villarrubia-recibe-al-noblejas-con-la-cuarta-victoria-consecutiva-en-el-horizonte"
+  ]
+ },
+ {
+  "eid": "sr:match:73578992",
+  "fx": "Atzeneta UE v CF Villarreal C",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera G6 (Valencia) J12. Villarreal C (RESERVE) still lead but have lost 2 in a row, their lead over Atlético Levante cut to 2 pts. Atzeneta are 12th on 12 pts, 2 above the drop, and draw-heavy at home (1-4-0).",
+  "news": "Golsmedia: Villarreal C visit El Regit on Sat 21 Nov, a 'prueba de fuego'. The date matches the board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (reserve side); goals (low totals, not a mismatch)",
+  "confidence": 0.15,
+  "sources": [
+   "https://golsmedia.com/villarreal-c-pone-juego-liderato-tras-encadenar-dos-derrotas-consecutivas/",
+   "https://actualidadcastellon.com/villarreal-c-pierde-aprieta-tercera-federacion-grupo-vi/"
+  ]
+ },
+ {
+  "eid": "sr:match:72477618",
+  "fx": "Real Sociedad San Sebastian B v Cadiz",
+  "sport": "football",
+  "absences": "Real Sociedad B: Ekain Orobengoa (ACL; ceroacero, unclear whether he is a B-team player). Cádiz: no absences listed.",
+  "context": "LaLiga Hypermotion J15 at Zubieta. Real Sociedad B (RESERVE) are 18th on 13 pts; Cádiz are also in or near the drop zone. Both are in a relegation fight.",
+  "news": "Sat 21 Nov 16:15 CET at Zubieta, matching the board. Cádiz have scored in each of their last 4.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (reserve home side); Overs in low-scoring LaLiga 2",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ceroacero.es/noticias/real-sociedad-vs-cadiz-prediccion-noticias-de-equipos-y-alineaciones-segunda-division-21-11/1263371",
+   "https://www.elperiodicodeceuta.es/real-sociedad-b-cadiz-horario-y-donde-ver/"
+  ]
+ },
+ {
+  "eid": "sr:match:73581366",
+  "fx": "Real Aranjuez CF v Cp Parla Escuela",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Madrid group.",
+  "news": "A TV listing has Real Aranjuez v Parla Escuela at 18:00 (undated) and a futbolme page has 16:30 (possibly an old season). The board has 16:30 CET (15:30 UTC). Unconfirmed, not a clear conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: the market is balanced and there is no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futbolenlatv.es/competicion/tercera-division",
+   "https://futbolme.com/partidos-televisados"
+  ]
+ },
+ {
+  "eid": "sr:match:73582210",
+  "fx": "UD Santa Marta v CD Palencia Cristo Atletico",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Castilla y León group. Two strong defences: Santa Marta (6-2-2, ga 0.7) and Palencia Cristo (7-3-0, ga 0.3, unbeaten).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders: U2.5 at p 0.63 is below the 0.82 floor and U3.5 at 1.16 is below the minimum odds; result-sides between two top sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/UD_Santa_Marta"
+  ]
+ },
+ {
+  "eid": "sr:match:73584730",
+  "fx": "CD Constancia v CF Platges de Calvia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Mallorca island fixture (local-derby type). Platges de Calvià are 8-0-2 and 4-0-0 away; Constància 4-5-1, draw-heavy.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (same-island derby; Constància draw-heavy)",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-11/3065/"
+  ]
+ },
+ {
+  "eid": "sr:match:73560466",
+  "fx": "Villarrubia CF v CD Noblejas",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera G18 J12. Villarrubia are 8th (16 pts) going for a 4th straight win (won 1-3 at Marchamalo). Noblejas are 11th (15 pts), drew 2-2 with Quintanar, and are 1-1-3 away with ga 2.0.",
+  "news": "Lanza Digital preview: 'El Villarrubia recibe al Noblejas con la cuarta victoria consecutiva en el horizonte', Saturday 17:00 CET, matching the board's 16:00 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.19,
+    "p": 0.7944,
+    "why": "Villarrubia on 3 straight wins (2-1-1 at home) v a Noblejas side that is 1-1-3 away, conceding 2.0. Own p 0.81 v house 0.78."
+   }
+  ],
+  "avoid": "Home 1X2 at 1.75 (the margin is thin)",
+  "confidence": 0.25,
+  "sources": [
+   "https://lanzadigital.com/deportes/futbol/tercera-rfef/el-villarrubia-recibe-al-noblejas-con-la-cuarta-victoria-consecutiva-en-el-horizonte",
+   "https://surcoclm.com/noticias-por-secciones/deportes/el-manchego-afianza-el-liderato-del-grupo-18-de-tercera-federacion-tras-la-jornada-11/"
+  ]
+ },
+ {
+  "eid": "sr:match:73557202",
+  "fx": "CD San Ignacio v SD Leioa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera G4 (Basque) J12. Leioa (2025-26 champions) are joint top with Aurrera (22 pts at J11), 6-3-1 with 2.8 gf. San Ignacio are around 10th.",
+  "news": "futbolme J11 table shows Leioa joint top. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.4,
+    "p": 0.6541,
+    "why": "Joint leader Leioa (6-3-1, 2-2-0 away, 2.8 gf) at 10th-placed San Ignacio. Own p 0.68 v house 0.64. Low confidence: statistics only."
+   }
+  ],
+  "avoid": "Leioa 1X2 (p 0.50)",
+  "confidence": 0.2,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-4/3064/"
+  ]
+ },
+ {
+  "eid": "sr:match:73557210",
+  "fx": "SCD Durango v CD Aurrera de Vitoria",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera G4 J12. Aurrera are joint top (22 pts); Durango around 6th.",
+  "news": "KICK-OFF/DATE CONFLICT: Dotb (local) says Saturday 17:45 at Tabira (16:45 UTC), while the board says 16:00 UTC (17:00 CET). Tifo and Tribuna list Sunday 22/11.",
+  "veto": true,
+  "veto_reason": "Kick-off time and date conflict between sources (Sat 17:45 local v board 17:00 local v Sun 22/11)",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://dotb.eus/la-cultural-recibe-la-visita-del-aurrera-de-vitoria-este-sabado/",
+   "https://www.flashscore.pe/partido/futbol/cd-aurrera-de-vitoria-IV2PZfX0/scd-durango-UoXC1PWH/",
+   "https://tifo.si/durango"
+  ]
+ },
+ {
+  "eid": "sr:match:73553842",
+  "fx": "CA Arteixo v Antela FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Galicia group J12.",
+  "news": "minutonoventa J12 preview: Atlético Arteixo v Antela on Saturday at 17:30 (16:30 UTC), matching the board; standings updated to 14 Nov",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: there is no mechanism (Antela draw-heavy, 0.75 gf away)",
+  "confidence": 0.1,
+  "sources": [
+   "https://minutonoventa.com/tercera-federacion-gallega-previa-jornada-12-boiro-silva-noviembre-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73585800",
+  "fx": "CD San Miguel v UD Los Llanos de Aridane",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Canary Islands group. CD San Miguel are about 3rd (23 pts from 11 per BeSoccer, unverified) and perfect at home (5-0-0, gf 3.2, ga 0.6). Los Llanos de Aridane are 0-1-3 away with 0.5 gf.",
+  "news": "no fixture-specific news (2026-27 group membership confirmed)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.6633,
+    "why": "San Miguel 5/5 home wins with 3.2 gf v a Los Llanos side that has 0 away wins in 4 (0.5 gf). Inter-island game, not a derby. Own p 0.69 v house 0.64."
+   }
+  ],
+  "avoid": "Home -1.5 at 2.15 (outside the band)",
+  "confidence": 0.25,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_XII_2026-27",
+   "https://es.besoccer.com/competicion/info/tercera_division_rfef/2027/grupo12"
+  ]
+ },
+ {
+  "eid": "sr:match:75024578",
+  "fx": "CF Gazte Berriak v FC Bidezarra",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Navarra group. Gazte Berriak were promoted in May 2026 and are unbeaten at home with 0 conceded (2-2-0). Bidezarra were near the bottom in 2025-26 and are 1-4-5 in their last 10, 0-2-3 away.",
+  "news": "no news found for the fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.18,
+    "p": 0.803,
+    "why": "Gazte Berriak have not conceded at home this season (4 games); Bidezarra are winless in 5 away. Own p 0.83 v house 0.80. It sits at the 1.18 floor."
+   }
+  ],
+  "avoid": "Overs (home games 0.5 gf, 0.0 ga)",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/CF_Gazte_Berriak",
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-15/3075/"
+  ]
+ },
+ {
+  "eid": "sr:match:73579006",
+  "fx": "CD Acero v CD Soneja",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Valencia group. Acero (Sagunto) are draw-heavy (3-6-1). Soneja beat Villarreal C 2-1 in a rearranged game and drew 1-1 with Vall de Uxó in J11.",
+  "news": "no fixture-specific news; the date was not confirmed or contradicted",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: Castellón/Valencia neighbours, draw-heavy",
+  "confidence": 0.1,
+  "sources": [
+   "https://diariodealicante.net/villarrealc-pierde-aprieta-tercera-federacion-grupo6/"
+  ]
+ },
+ {
+  "eid": "sr:match:73556482",
+  "fx": "CF Vimenor v SD Atletico Albericia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Cantabria group. Vimenor are 6-2-2 (3-1-1 at home, ga 0.6); Albericia are 0-3-1 away with 0.75 gf.",
+  "news": "no fixture-specific news found (both clubs appear in the 2026-27 Cantabria table)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.19,
+    "p": 0.7922,
+    "why": "Vimenor 8 unbeaten in 10 with a 0.6 home goals-against v an Albericia side without an away win in 4. Own p 0.81 v house 0.78. Statistics only, low confidence."
+   }
+  ],
+  "avoid": "Home 1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Tercera_Federaci%C3%B3n"
+  ]
+ },
+ {
+  "eid": "sr:match:73555770",
+  "fx": "UD Gijon Industrial v CD Lealtad de Villaviciosa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Asturias group. Lealtad have a strong defence (ga 0.5; 3-0-1 away, ga 0.25). Gijón Industrial are 4-2-4 and lost 0-5 recently.",
+  "news": "no current news. futbolme snapshots are of mixed seasons (Caudal 5th, Lealtad 6th, Siero 7th, Gijón Ind 10th, unverified)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lealtad 1X2 (p 0.49); Draw or Away at 1.23 (p 0.76) has no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-2/3067/"
+  ]
+ },
+ {
+  "eid": "sr:match:73577754",
+  "fx": "UE San Juan Atletico de Montcada v Cerdanyola del Valles",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Catalonia group (Vallès neighbours: Montcada v Cerdanyola, a local-derby type).",
+  "news": "no fixture news. The club calendar found lists the Cerdanyola fixture at J21 (Feb 2027), which is probably the return leg; not treated as a conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (local derby)",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/UE_San_Juan_Atl%C3%A9tico_de_Montcada"
+  ]
+ },
+ {
+  "eid": "sr:match:72559252",
+  "fx": "SD Ponferradina v CD Extremadura",
+  "sport": "football",
+  "absences": "Ponferradina: five absences (names not given in the preview).",
+  "context": "Primera Federación G1 J13. Ponferradina are 6 without a win (7 including the Copa), 4 pts from the last 18, a crisis under Mehdi Nafti. Extremadura are improving and average 3 goals per away game.",
+  "news": "The official club site plus Bierzo Diario and Infobierzo give 18:45 CET at El Toralín (17:45 UTC, matching the board). Only El Bierzo Digital says 18:15, an outlier. Nafti warns of Extremadura's attacking power.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.42,
+    "p": 0.6529,
+    "why": "Extremadura score 3.6 per away game (last 5 away 4-0-1, e.g. 5-0, 4-2, 2-5). Ponferradina are missing 5 players and winless in 6. Own p 0.72 v house 0.66."
+   }
+  ],
+  "avoid": "Ponferradina 1X2 (crisis); full-match Overs (Primera Federación is low-scoring and Ponferradina home games average 1.4 goals)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.heraldodeleon.es/deportes/ponferradinasd/ponferradina-busca-frenar-crisis-extremadura-alza/20261120174449118862.html",
+   "https://sdponferradina.com/2026/11/16/jornada-13-sd-ponferradina-cd-extremadura/",
+   "https://www.bierzodiario.es/?p=196608"
+  ]
+ },
+ {
+  "eid": "sr:match:73555420",
+  "fx": "Club Siero v Caudal Deportivo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tercera Federacion (Spanish 5th tier, amateur/regional). Asturias group. Siero have lost 5 of their last 6 (0-4, 0-2, 0-3, 1-2, 1-4) but are 3-0-2 at home. Caudal are about 5th.",
+  "news": "no current news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Caudal DNB at 1.21 (p 0.78): Siero's home record (3-0-2, ga 0.8) contradicts the form slump; no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/-espana-tercera-federacion-grupo-2/3067/"
+  ]
+ },
+ {
+  "eid": "sr:match:73068228",
+  "fx": "UE Sant Andreu v Atletico Madrid B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Federación G2 J13. Sant Andreu reopen the Narcís Sala after installing natural grass and come off a derby win over Europa (Alexis García scored 2). Atlético Madrid B (Atlético Madrileño, RESERVE) are in a survival fight and beat Teruel 1-0 on 15 Nov.",
+  "news": "The atletimedia preview says Sat 21 Nov 21:00 CET on Movistar+, matching the board's 20:00 UTC. One futbolme calendar lists 22/11 (likely a default), and gainblers shows 15:00 (a stale outlier).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (reserve opponent); Over 1.5 (p 0.81) is not a mismatch, so the reserve rule applies",
+  "confidence": 0.15,
+  "sources": [
+   "https://atletimedia.com/sant-andreu-atletico-madrileno/",
+   "https://www.cope.es/emisoras/catalunya/barcelona-provincia/barcelona/esports-cope/noticias/vuelta-casa-20261120_3479284.html",
+   "https://gainblers.com/us/bets/football/spain/primera-rfef-ii/santandreu-atleticomadridb/"
+  ]
+ },
+ {
+  "eid": "sr:match:72477624",
+  "fx": "Tenerife CD v Mallorca",
+  "sport": "football",
+  "absences": "Mallorca: Antonio Sánchez (confirmed by Luis García), Morlanes and Roca out, up to 5 injury absences; Luvumbo and Guillermo Fernández back from international duty. Tenerife: no confirmed absences.",
+  "context": "LaLiga Hypermotion J15. Tenerife are 13th (18 pts), playing their 3rd game in a week (Copa del Rey at Badajoz midweek), after a 2-0 win v Ceuta following the death of striker Jesús de Miguel. Mallorca (relegated last season) are 7th (23 pts), one point off the play-offs, and 'en horas bajas'.",
+  "news": "Infobae: Tenerife close a 3-game week against an injury-hit Mallorca. Sat 21:00 peninsular, matching the board (Goal's 12:00 is a stale outlier).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mallorca DNB at 1.57 (heavy absences) and Tenerife sides (fatigue and an emotional context); O1.5 not allowed (LaLiga 2 averages under 2.7)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/20/el-tenerife-cierra-una-semana-con-tres-partidos-ante-un-mallorca-en-horas-bajas/",
+   "https://www.ultimahora.es/deportes/real-mallorca/2026/11/20/2753855/luis-garcia-desvia-discurso-objetivos-cumplen-final-temporada.html",
+   "https://8sports.es/futbol/cd-tenerife/2026/11/20/horario-y-donde-ver-el-cd-tenerife-vs-mallorca-de-este-sabado/"
+  ]
+ }
+]

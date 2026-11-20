@@ -1,0 +1,617 @@
+[
+ {
+  "eid": "sr:match:73436614",
+  "fx": "Amed Sportif Faaliyetler U19 v Caykur Rizespor",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "U19 PAF Ligi youth fixture; away label lacks 'U19' on board (assumed Rizespor U19).",
+  "news": "no news found (youth league)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: youth fixture, no clear mismatch (both sides poor last 10).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72723330",
+  "fx": "Genclerbirligi SK v Gaziantep FK",
+  "sport": "football",
+  "absences": "Genclerbirligi: Metehan Baltaci (red-card ban), Goutas (ACL), Kevin Rodrigues (groin), Abdurrahim Dursun, Thalisson Kelven, Gokhan Akkan, Ensar Cavusoglu out; Pedro Pereira doubtful; Etebo listed out by Ajansspor. Gaziantep: GK Kacper Tobiasz (hamstring) and Fuat Bavuk out, Nazim Sangare doubtful; new coach Volkan Demirel serves 1-match touchline ban in his first game.",
+  "context": "Super Lig wk12 at Eryaman, both sides 2-1-7 in last 10; new-coach bounce for Gaziantep but coach in stands.",
+  "news": "Genclerbirligi 7 absentees incl. first-choice CB Goutas; Gaziantep without No.1 GK Tobiasz and coach Demirel on bench ban.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.7852,
+    "why": "Both defences depleted (Genc CB Goutas+Rodrigues out, Gaziantep backup GK); Genc home 2.17 gf/1.0 ga, Gaziantep concede 1.8/g; est 0.81."
+   }
+  ],
+  "avoid": "Result sides (both 2-1-7, new-coach noise); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://ajansspor.com/haber/genclerbirligi-gaziantep-fk-maci-ne-zaman-hangi-kanalda-muhtemel-11ler-sakat-ve-cezalilar-739036",
+   "https://www.haberankara.com/spor/hazirliklari-tamamlayan-genclerbirligi-7-eksikle-mac-saatini-beklemeye-basladi-324487",
+   "https://www.karar.com/spor-haberleri/volkan-demirel-ilk-macinda-takimin-basinda-yer-alamayacak-2085339"
+  ]
+ },
+ {
+  "eid": "sr:match:72735916",
+  "fx": "Istanbulspor AS v Ankara Keciorengucu",
+  "sport": "football",
+  "absences": "No absence news found for either side.",
+  "context": "TFF 1. Lig at Esenyurt Necmi Kadioglu, 13:30 local; Istanbulspor 0-0-4 at home (0.5 gf), Keciorengucu 5-3-2 last 10, 3-1-1 away.",
+  "news": "Fixture/referee (Kaan Kara) confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.27,
+    "p": 0.7419,
+    "why": "Istanbulspor lost all 4 home games scoring 0.5/g; Keciorengucu unbeaten in 8 of last 10; trend 0.75; est 0.77."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.49 < 0.75).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sporkolik.net/mardin-1969-bandirmaspor-bandirmaspor-5-haftadir-galibiyete-hasret.html",
+   "https://www.aksam.com.tr/spor/1-ligin-15-haftanin-hakemleri-aciklandi/haber-1715794"
+  ]
+ },
+ {
+  "eid": "sr:match:72735924",
+  "fx": "Mardin 1969 Spor v Bandirmaspor",
+  "sport": "football",
+  "absences": "Bandirmaspor: Enes Aydin suspended (red card). Mardin: none reported.",
+  "context": "Mardin 1969 in form (unbeaten 5 of last 6, home 3-1-1 ga 0.6); Bandirmaspor winless in 5.",
+  "news": "Sporkolik: Bandirmaspor 5 games without a win, Enes Aydin banned; ref Emrullah Baydar.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.21,
+    "p": 0.7859,
+    "why": "Named mechanism: Bandirmaspor winless in 5 with a suspension; Mardin home ga 0.6; est 0.81."
+   }
+  ],
+  "avoid": "Overs (Mardin home games low scoring).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sporkolik.net/mardin-1969-bandirmaspor-bandirmaspor-5-haftadir-galibiyete-hasret.html",
+   "https://www.aksam.com.tr/spor/1-ligin-15-haftanin-hakemleri-aciklandi/haber-1715794"
+  ]
+ },
+ {
+  "eid": "sr:match:72942570",
+  "fx": "Pattani FC v Sukhothai FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 1 MD9, Pattani v Sukhothai 18:00 local (11:00 UTC) confirmed; venue TBC on official site.",
+  "news": "Fixture confirmed on thaileague.co.th; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: no mechanism; Sukhothai away gf 0.4 undercuts O1.5.",
+  "confidence": 0.15,
+  "sources": [
+   "https://thaileague.co.th/fixtures/224",
+   "https://www.soccerway.com/thailand/thai-league-1/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075912",
+  "fx": "Mahasarakham United FC v Satun United FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 2; Satun 4-4-2 but drawish (several 0-0/1-1).",
+  "news": "Fixture listed 21 Nov; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: thin league, no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/thailand/thai-league-2/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72942572",
+  "fx": "Chonburi FC v Uthai Thani FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 1 MD9 at Chonburi Daikin Stadium 18:30 local (11:30 UTC).",
+  "news": "Fixture/venue confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: coin-flip, no mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://thaileague.co.th/fixtures/224",
+   "https://www.soccerway.com/thailand/thai-league-1/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075914",
+  "fx": "Chiangmai United v Nakhon Pathom United FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 2; drawish sides (Chiangmai 3-4-3, NP 3-5-2).",
+  "news": "Fixture listed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/thailand/thai-league-2/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:76612348",
+  "fx": "Enkopings SK v Orebro SK",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Superettan qualification playoff LEG 1 (two-legged; return at \u00d6rebro 28 Nov). Enk\u00f6ping (Ettan Norra runner-up, 7-2-1, home 3-2-0) host \u00d6rebro (13th in Superettan). Enavallen 13:00 local.",
+  "news": "Confirmed kval leg 1 by Superettan.se/SR; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.32,
+    "p": 0.7211,
+    "why": "First leg of a two-legged tie tends to be cagey; Enk\u00f6ping unbeaten 9 of last 10 and 3-2-0 at home; \u00d6rebro favourite only p 0.50; est 0.76. (90-min settlement.)"
+   }
+  ],
+  "avoid": "Result sides (knockout); Over 1.5 (Superettan/Ettan thin-Over class).",
+  "confidence": 0.25,
+  "sources": [
+   "https://superettan.se/nyheter/klart-for-kval-uppat-och-nedat-i-superettan/",
+   "https://www.sverigesradio.se/artikel/enkopings-sk-till-superettan-kval-mot-orebro-sk"
+  ]
+ },
+ {
+  "eid": "sr:match:76657338",
+  "fx": "Eskilsminne IF v Skara FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Ettan qualification LEG 2: Skara won leg 1 2-1 (15 Nov, Hellman late winner). Eskilsminne must win at Harlyckans IP, 13:00 local. Eskilsminne home ga 3.0; Skara 8-0-2.",
+  "news": "Skanesport: Eskils 'illa ute', coach Roar Hansen 'vi m\u00e5ste h\u00f6ja oss'; Skara won 2-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8186,
+    "why": "Must-win second leg for Eskilsminne vs in-form Skara (2.7 gf/g); Eskils home games avg 5.2 total; leg 1 had 3 goals; est 0.85."
+   }
+  ],
+  "avoid": "Result sides (knockout, settles 90 min); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://ettanfotboll.se/sa-spelas-kvalmatcherna/",
+   "https://skanesport.se/2026/11/15/lundblads-fem-intryck-fran-skara-fc-eskilsminne-if-2-1-eskils-illa-ute-i-kvalet-kan-de-gora-om-arianas-bedrift/",
+   "https://www.gp.se/sport/seger-pa-bortaplan-for-vasalund-mot-enskede.ab701ba4-fb6d-5366-8925-531cfa31bf2e"
+  ]
+ },
+ {
+  "eid": "sr:match:74170282",
+  "fx": "Chainat Hornbill FC v Muang Thong United",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 2; Muang Thong (relegated giant) away gf 0.6.",
+  "news": "Fixture listed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/thailand/thai-league-2/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72942576",
+  "fx": "Ratchaburi FC v Prachuap FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 1 MD9 at Ratchaburi Stadium 19:30 local; Prachuap 7-1-2 last 10 yet house favours Ratchaburi (p 0.59).",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ratchaburi result side (form contradicts); Away +1.5 banned (fav p 0.59 >= 0.55).",
+  "confidence": 0.15,
+  "sources": [
+   "https://thaileague.co.th/fixtures/224",
+   "https://www.soccerway.com/thailand/thai-league-1/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075918",
+  "fx": "Pattaya Dolphins United v Kasetsart FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 2; Kasetsart 1-2-7 last 10, 0-1-4 away.",
+  "news": "Fixture listed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.7728,
+    "why": "Kasetsart 1 win in 10, 0 away wins in 5 and 2.4 ga away; est 0.79 (fixture-specific form, no news)."
+   }
+  ],
+  "avoid": "Overs.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betexplorer.com/football/thailand/thai-league-2/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72723328",
+  "fx": "Amed Sportif Faaliyetler v Caykur Rizespor",
+  "sport": "football",
+  "absences": "Amed: Ermal Krasniqi (muscle) out; Dellova and Ali Turap Bulbul injured/doubtful; Samuel Ballet and CB Modibo Sagnan return from bans. Rizespor: Can Bozdogan out, Borrelli doubtful (Starting11: Aliqulov out, Laci doubtful - sources disagree).",
+  "context": "Super Lig wk12; Amed 5-0-0 at home (3.2 gf, 0.8 ga); 5 Amed players one booking from a ban.",
+  "news": "Amed regain Ballet and Sagnan; Rizespor missing Bozdogan, Borrelli doubtful.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.8201,
+    "why": "Amed home games avg 4.0 goals, Rizespor last 10 avg 2.9; Ballet returns to the attack; trend 0.85; est 0.85."
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.7891,
+    "why": "Amed perfect at home (5/5) with Ballet+Sagnan back; Rizespor without Bozdogan; est 0.81."
+   }
+  ],
+  "avoid": "Unders; Rizespor result sides.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.whoscored.com/matches/1999638/preview/turkey-super-lig-2026-2027-amed-sportif-rizespor",
+   "https://dogubayazitgazetesi.com/amedspor-rizespor-maci-oncesi-alarm-5-futbolcu-ceza-sinirinda"
+  ]
+ },
+ {
+  "eid": "sr:match:76676808",
+  "fx": "CS Sfaxien v JS Omrane",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Tunisian L1 J8 at Sfax, 13:30 GMT confirmed. Sfaxien 4-1-0 at home conceding 0.2; Omrane draw-heavy (3-5-2).",
+  "news": "Fixture/time confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 (Sfaxien 4-4-2, draws); Unders (p 0.64 < 0.82); Away +1.5 banned (fav p 0.65).",
+  "confidence": 0.15,
+  "sources": [
+   "https://africanmanager.com/ligue-1-8e-journee-le-derby-de-la-capitale-fixe-au-22-novembre/",
+   "https://sportnewsafrica.com/actualites/calendrier-ligue-1-tunisienne-programme-et-horaires-du-week-end-20-22-novembre-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76676804",
+  "fx": "Stade Tunisien v CA Bizertin",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Tunisian L1 J8 at Le Bardo 13:30 GMT; Stade Tunisien 2-2-0 at home (ga 0.5); Bizertin 1-0-4 away (0.6 gf).",
+  "news": "Fixture/venue confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.7891,
+    "why": "Bizertin 1 away win in 5 scoring 0.6/g; Stade Tunisien unbeaten at home; DNB voids the draw; est 0.80."
+   }
+  ],
+  "avoid": "Overs; Unders below 0.82.",
+  "confidence": 0.25,
+  "sources": [
+   "https://africanmanager.com/ligue-1-8e-journee-le-derby-de-la-capitale-fixe-au-22-novembre/",
+   "https://sportnewsafrica.com/actualites/calendrier-ligue-1-tunisienne-programme-et-horaires-du-week-end-20-22-novembre-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76676806",
+  "fx": "US Monastir v ES Sahel",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Tunisian L1 J8 at Monastir; ES Sahel is a big club (Sahel regional clash).",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big club v Sahel neighbour).",
+  "confidence": 0.15,
+  "sources": [
+   "https://africanmanager.com/ligue-1-8e-journee-le-derby-de-la-capitale-fixe-au-22-novembre/",
+   "https://sportnewsafrica.com/actualites/calendrier-ligue-1-tunisienne-programme-et-horaires-du-week-end-20-22-novembre-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:67126896",
+  "fx": "Mjallby AIF v Malmo",
+  "sport": "football",
+  "absences": "Malm\u00f6: Andrej Djuric suspended; injury list (Ekong, Kamanzi, Jansson, Busuladzic, Sj\u00f6strand) is from an older preview - unconfirmed for this date.",
+  "context": "Allsvenskan R29 (of 30), Strandvallen 15:00 local. Mj\u00e4llby 12th 28 pts (2 above Kalmar, 8 above 14th) - effectively safe; Malm\u00f6 7th 41 pts, nothing to play for. Mj\u00e4llby coach Andreas Br\u00e4nnstr\u00f6m (Aksum left Sept).",
+  "news": "Low-stakes late-season game; Malm\u00f6 FF site confirms date/venue.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big club); Overs (both teams 0.8-1.0 gf, trend O2.5 0.20); Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://fotbolldirekt.se/allsvenskan/tabell/",
+   "https://www.mff.se/matcher/mjallby-aif-vs-malmo-ff-herr-2026-11-21/",
+   "https://www.fotmob.com/matches/vasteras-sk-vs-gais/1qiqar"
+  ]
+ },
+ {
+  "eid": "sr:match:76582214",
+  "fx": "Lunds BK v Norrby IF",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Superettan qualification playoff LEG 1: Lunds BK (Ettan S\u00f6dra, 6-0-4) host Norrby (1-2-7, drew 1-1 with Brage to grab kval spot). Return 28 Nov.",
+  "news": "Superettan.se: Norrby v Lunds BK in kval, starts 21 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.18,
+    "p": 0.8181,
+    "why": "Norrby 1 win in 10 and 0 away wins in 5; first-leg caution; Lund only lose by 2+ for a loss (1-goal defeat voids); est 0.84."
+   }
+  ],
+  "avoid": "Result sides (knockout); Overs.",
+  "confidence": 0.25,
+  "sources": [
+   "https://superettan.se/nyheter/klart-for-kval-uppat-och-nedat-i-superettan/",
+   "https://www.sverigesradio.se/artikel/enkopings-sk-till-superettan-kval-mot-orebro-sk"
+  ]
+ },
+ {
+  "eid": "sr:match:76657340",
+  "fx": "Vasalunds IF v Enskede IK",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Ettan qualification LEG 2 at Skytteholms IP 15:00 local: Vasalund won leg 1 2-1 away at Enskede (Silwo 89'). Enskede must win; Vasalund home 1-1-3, ga 2.8.",
+  "news": "GP: Vasalund won 2-1 at Enskede; return Saturday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.34,
+    "p": 0.7148,
+    "why": "Enskede chasing (8-0-2 form) vs Vasalund leaking 2.8 at home; Vasalund need only avoid defeat, no incentive to win big; trend 1.0; est 0.78."
+   }
+  ],
+  "avoid": "Vasalund result side; knockout result sides.",
+  "confidence": 0.25,
+  "sources": [
+   "https://ettanfotboll.se/sa-spelas-kvalmatcherna/",
+   "https://skanesport.se/2026/11/15/lundblads-fem-intryck-fran-skara-fc-eskilsminne-if-2-1-eskils-illa-ute-i-kvalet-kan-de-gora-om-arianas-bedrift/",
+   "https://www.gp.se/sport/seger-pa-bortaplan-for-vasalund-mot-enskede.ab701ba4-fb6d-5366-8925-531cfa31bf2e"
+  ]
+ },
+ {
+  "eid": "sr:match:72525498",
+  "fx": "FC La Chaux De Fonds v CS Chenois",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Swiss 1. Liga Classic (amateur). Fixture listed for 21.11 on schedule page (no time).",
+  "news": "Fixture listed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (amateur).",
+  "confidence": 0.1,
+  "sources": [
+   "https://matchcenter.fvbj-afbj.ch/default.aspx?lng=1&cxxlnus=1&v=1386&bn=0",
+   "https://www.livesoccertv.com/teams/switzerland/lancy/",
+   "https://www.red.sport/de-ch/page/fc-basel-1893"
+  ]
+ },
+ {
+  "eid": "sr:match:72521074",
+  "fx": "FC Basel II v FC Paradiso",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Promotion League: FC Basel U21 (reserve) v Paradiso 14:30 confirmed.",
+  "news": "Fixture confirmed on Basel fixture page.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (reserve side, no clear mismatch).",
+  "confidence": 0.1,
+  "sources": [
+   "https://matchcenter.fvbj-afbj.ch/default.aspx?lng=1&cxxlnus=1&v=1386&bn=0",
+   "https://www.livesoccertv.com/teams/switzerland/lancy/",
+   "https://www.red.sport/de-ch/page/fc-basel-1893"
+  ]
+ },
+ {
+  "eid": "sr:match:72526488",
+  "fx": "FC Collina D Oro v FC Baden",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Swiss 1. Liga Classic (amateur); fixture not found in any source.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (amateur, unconfirmed).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72525990",
+  "fx": "FC Solothurn v FC Wohlen",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Swiss 1. Liga Classic (amateur).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (amateur).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73019652",
+  "fx": "Jkt Tanzania v Simba SC",
+  "sport": "football",
+  "absences": "Simba: CBs Abdulrazack Hamza and Wilson Nangu fit again after long injuries. JKT: none reported.",
+  "context": "NBC Premier League at Major General Isamuhyo Stadium 18:30 EAT (15:30 UTC). Simba top, 30 pts from 10, 10 straight wins; JKT 4th 17 pts, strong at home (4-0-1).",
+  "news": "Simba (Steve Barker) on 10-game win run, defenders back; JKT coach Ahmad Ally confident.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 (p 0.66 < 0.75); Home+2.0 catch (Simba in-form); 12-DC (excluded class); Overs (Tanzania low-scoring).",
+  "confidence": 0.2,
+  "sources": [
+   "https://panafricafootball.com/article/simba-hamza-nangu-jkt",
+   "https://www.therespondents.co.tz/2026/11/simba-jkt-tanzania-trade-confidence.html"
+  ]
+ },
+ {
+  "eid": "sr:match:67126890",
+  "fx": "GAIS v Vasteraas SK",
+  "sport": "football",
+  "absences": "GAIS: Asuman, Collander, Thorkelsson, Holm\u00e9n injured. V\u00e4ster\u00e5s: none reported.",
+  "context": "Allsvenskan R29 at Gamla Ullevi 17:30 local; GAIS 9th 40 pts (mid-table, little at stake); V\u00e4ster\u00e5s 6th 45 pts, 1 behind Elfsborg, chasing top-5/Europe.",
+  "news": "FotMob: four GAIS absentees, V\u00e4ster\u00e5s full squad; GAIS won 1-0 at V\u00e4ster\u00e5s in May.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.3,
+    "p": 0.7421,
+    "why": "V\u00e4ster\u00e5s concede 0.6/g (away 3-1-1, ga 0.6) with motivation; GAIS missing 4 incl. regulars; favourite GAIS p only 0.48; trend 0.90; est 0.78."
+   }
+  ],
+  "avoid": "GAIS result side; Overs (trend O2.5 0.45).",
+  "confidence": 0.3,
+  "sources": [
+   "https://fotbolldirekt.se/allsvenskan/tabell/",
+   "https://www.mff.se/matcher/mjallby-aif-vs-malmo-ff-herr-2026-11-21/",
+   "https://www.fotmob.com/matches/vasteras-sk-vs-gais/1qiqar"
+  ]
+ },
+ {
+  "eid": "sr:match:72525984",
+  "fx": "Grasshopper Club Zurich II v FC Schotz",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Swiss 1. Liga Classic; Grasshopper II is a reserve side (1-0-4 at home); Sch\u00f6tz 8-1-1, 3.5 gf/g.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.6868,
+    "why": "Goals market in a mismatch: Sch\u00f6tz average 3.5 gf, GC II concede 1.8/g; trend 0.70; est 0.71. Low confidence, amateur level."
+   }
+  ],
+  "avoid": "Result sides (reserve side).",
+  "confidence": 0.15,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72525490",
+  "fx": "FC Prishtina Bern v Lancy FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Swiss 1. Liga Classic Group 1.",
+  "news": "FVBJ matchcenter lists Prishtina Bern v Lancy on 21.11 at 19:00 but at 'Centre de la Tuili\u00e8re, Lausanne' (not a Bern venue); LiveSoccerTV agrees on time.",
+  "veto": true,
+  "veto_reason": "Venue conflict: home side Prishtina Bern listed at a Lausanne venue.",
+  "picks": [],
+  "avoid": "All (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://matchcenter.fvbj-afbj.ch/default.aspx?lng=1&cxxlnus=1&v=1386&bn=0",
+   "https://www.livesoccertv.com/teams/switzerland/lancy/",
+   "https://www.red.sport/de-ch/page/fc-basel-1893"
+  ]
+ },
+ {
+  "eid": "sr:match:72525496",
+  "fx": "FC Meyrin v FC Portalban/Gletterens",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Swiss 1. Liga Classic (amateur); Meyrin fixture on 21 Nov seen but opponent not confirmed.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (amateur).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74379722",
+  "fx": "FC Sion v Servette Geneva",
+  "sport": "football",
+  "absences": "Servette: GK Edvinas Gertmonas out 3-4 months (hip surgery) - L\u00e9o Besson starts; Stevanovic (capt.), Cognat, Mutandwa, Izquierdo out; David Datro Fofana returns. Burch/Mazikou bans apply to the following game, not this one. Sion: no news.",
+  "context": "Rh\u00f4ne derby at Tourbillon 20:30 local (19:30 UTC). Sion 3rd 26 pts, Servette 6th 17 pts.",
+  "news": "Servette lose No.1 GK before the derby; heavy absence list.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (derby); Unders below 0.82; Over 1.5 below 1.18.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lematin.ch/story/football-coup-dur-pour-servette-qui-perd-son-gardien-avant-le-derby-a-sion-103670740",
+   "https://www.blick.ch/fr/sport/football/super_league/leo-besson-sera-le-gardien-du-servette-fc-pour-le-derby-du-rhone/ssl08dn"
+  ]
+ }
+]

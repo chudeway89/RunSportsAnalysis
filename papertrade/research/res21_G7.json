@@ -1,0 +1,551 @@
+[
+ {
+  "eid": "sr:match:72044412",
+  "fx": "Vejle BK v HB Koege",
+  "home_form": "Vejle (2nd, ~27pts/14) last 9 W3 D4 L2, GF11 GA8; home: 1-0 Fredericia, 0-0 Aarhus Frem, 1-2 Hvidovre, 1-2 Broendby, 4-1 Vendsyssel. Low-scoring side; 2+ goals in only 2 of 9.",
+  "away_form": "HB Koege (11th, ~11pts) W2 D5 L2, GF17 GA14; away: 2-3 Kolding, 2-2 Hvidovre, 2-0 Vendsyssel, 2-2 Esbjerg, 0-0 Aalborg. Scored in 7/9, conceded in 8/9.",
+  "trends": {
+   "game_totals": "Vejle o2.5 4/9, Koege o2.5 5/9; Vejle games 4+ goals only 1/9",
+   "team_totals": "Koege scored in 7/9 (2 goals in 5 away games); Vejle 2+ goals in 2/9",
+   "first_half": "1H goal in 6/9 Vejle games, 8/9 Koege games",
+   "handicap": "Vejle home wins narrow (1-0) or losses; lost 2 of last 5 home",
+   "corners": "Vejle home corners 9,8,9,3,2"
+  },
+  "h2h": "Vejle won 2-0 in late July 2026 (the reverse fixture); long H2H roughly even.",
+  "absences": "One tipster reports Koege squad weakened by injuries (unnamed). No named Vejle absences found.",
+  "context": "1. Division round 15, first round after the international break. Promotion chase for Vejle.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "68",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.24,
+    "p": 0.774016,
+    "why": "tight: 1H goal in 6/9 Vejle and 8/9 Koege games; my p 0.78"
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.51,
+    "p": 0.6258337075,
+    "why": "Koege scored in 7/9 incl. 4 of last 5 away; Vejle kept only 3 clean sheets in 9; my p 0.67"
+   }
+  ],
+  "avoid": [
+   "Vejle team Over 1.5 (scored 2+ only 2/9)",
+   "Vejle -1.5 (narrow-margin side)",
+   "Under 3.5 (p<0.82)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hbkoge.dk/fixtures-results/vejle-hb-koege-5/",
+   "https://footystats.org/denmark/vejle-boldklub-vs-hb-koge-h2h-stats",
+   "https://www.betshoot.com/football/19753187-HB-K%C3%B8ge-vs-Vejle-Boldklub-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72735914",
+  "fx": "Kayserispor v Sariyer SK",
+  "home_form": "Kayserispor W5 D2 L2 last 9, GF24 GA12; home: 6-0 Mugla, 2-2 Batman, 3-2 Manisa, 4-0 Istanbulspor. 1H goal in 8/9.",
+  "away_form": "Sariyer W2 D4 L3, GF8 GA12; away: 0-1 Van, 1-1 Sivasspor, 1-1 Umraniye. Only 2/9 over 2.5.",
+  "trends": {
+   "game_totals": "Kayseri games 2+ goals 8/9, o2.5 8/9; Sariyer games 2+ goals 7/9",
+   "team_totals": "Kayseri scored 2+ in 7/9; Sariyer scored <=1 in 8/9",
+   "first_half": "Kayseri 1H goals 8/9 (3-0 HT in three home games)",
+   "handicap": "Kayseri home wins by 6,1,4; one home draw (2-2 Batman)",
+   "corners": "Kayseri corners low/erratic (1-7)"
+  },
+  "h2h": "No recent H2H found.",
+  "absences": "Kayserispor: no injured or suspended players reported; Sinan Kurt back in training (kayseri local press). Sariyer: none found.",
+  "context": "TFF 1. Lig round 15, 13:00 UTC (16:00 local) at Kadir Has. Relegated Kayseri pushing for promotion.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7909880545,
+    "why": "tight: 8/9 Kayseri games and 7/9 Sariyer games had 2+ goals; Kayseri scores heavily at home; my p 0.81"
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.682371,
+    "why": "Kayseri won 3 of last 4 home by 1-6 goals, full squad (no suspensions), Sariyer weak attack 8 GF in 9; my p 0.70"
+   }
+  ],
+  "avoid": [
+   "Sariyer team Over 0.5 at 1.69",
+   "Under markets"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.kayserianadoluhaber.com.tr/kayserispor-da-sariyer-maci-oncesi-beklenen-haber-geldi/203536",
+   "https://www.kayserihaber.com.tr/kayserisporda-sariyer-maci-oncesi-onemli-gelisme"
+  ]
+ },
+ {
+  "eid": "sr:match:72083144",
+  "fx": "FK Mladost Lucani v FK Zeleznicar Pancevo",
+  "home_form": "Mladost W2 D2 L5 last 9, GF10 GA21; home: 0-1 Radnik, 1-1 Vojvodina, 0-0 Beograd, 1-0 Radnicki Nis. Scored 0-1 in each of last 4 home games.",
+  "away_form": "Zeleznicar W7 D0 L2 (all comps), GF22 GA13; away league: 2-1 Radnicki Kg, 1-0 IMT, 3-0 Zemun. Played a cup tie Wed 18 Nov at Tekstilac (went to pens).",
+  "trends": {
+   "game_totals": "Mladost home games: 1,2,0,1 goals; Zeleznicar o2.5 6/9",
+   "team_totals": "Mladost home scored <=1 in 4/4",
+   "first_half": "Mladost 1H goals scored in only 1/9",
+   "handicap": "Zeleznicar away wins mostly by 1",
+   "corners": "Mladost corners low (1-6)"
+  },
+  "h2h": "None found for 2026/27.",
+  "absences": "None found.",
+  "context": "Superliga round 16, official kickoff 15:00 local (14:00 UTC) in Lucani, matches board. Zeleznicar 3 days after a cup tie that went to penalties (fatigue).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.21,
+    "p": 0.7869908164,
+    "why": "tight: Mladost won 1 of last 6, scored <=1 in every home game since Sept; Zeleznicar 7 wins in 9 though tired from Wed cup tie; my p 0.78"
+   }
+  ],
+  "avoid": [
+   "Away -0.5/1X2 at 1.78 (cup fatigue, narrow margins)",
+   "Under 2.5 (p<0.82 rule)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.superliga.rs/utakmica/16-kolo-crvena-zvezda-radnik/",
+   "https://www.danubeogradu.rs/2026/11/fudbal-super-liga-srbije-2026-27-16-kolo/"
+  ]
+ },
+ {
+  "eid": "sr:match:72278540",
+  "fx": "Olimpija Ljubljana v NK Radomlje",
+  "home_form": "Olimpija W5 D3 L1 last 9, GF16 GA9; home: 1-1 Celje, 3-3 Mura, 2-1 Slaven, 3-0 Brinje (cup). Draws 2 of last 3 home.",
+  "away_form": "Radomlje W2 D3 L4, GF11 GA19; away: 2-1 Race (cup, Wed 18 Nov), 0-5 Aluminij, 1-0 Podvinci (cup), 2-2 Bravo. o2.5 7/9.",
+  "trends": {
+   "game_totals": "2+ goals in 7/9 Olimpija games and 8/9 Radomlje games",
+   "team_totals": "Radomlje scored in 7/9",
+   "first_half": "1H goal in 8/9 Radomlje games",
+   "handicap": "Olimpija wins mostly by 1",
+   "corners": "n/a"
+  },
+  "h2h": "2025/26: Olimpija 2-1 Radomlje (Nov 2025), Radomlje 1-2 Olimpija (Mar 2026).",
+  "absences": "None found.",
+  "context": "PrvaLiga round 16; NZS lists 15:00 local (=14:00 UTC, matches board); FotMob shows 17:00 UTC - minor time discrepancy, official NZS agrees with board. Radomlje played cup Wed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.820901,
+    "why": "tight: 2+ goals in 7/9 Olimpija and 8/9 Radomlje games; last two H2H both 2-1; my p 0.83"
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.55,
+    "p": 0.606817,
+    "why": "Radomlje scored in 7/9 and both 2025/26 H2H; Olimpija home draws 1-1,3-3; my p 0.66"
+   }
+  ],
+  "avoid": [
+   "Olimpija -1.5",
+   "Under 2.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nzs.si/klubi/moski/prva-liga-telemach/tekme/sd-nk-olimpija-ljubljana-nk-radomlje-1snl2627-2026-11-21-150000",
+   "https://www.fotmob.com/matches/olimpija-ljubljana-vs-radomlje/i3qs5n0"
+  ]
+ },
+ {
+  "eid": "sr:match:72042342",
+  "fx": "MSK Zilina v MFk Dukla Banska Bystrica",
+  "home_form": "Zilina (3rd after R13) W4 D3 L2, GF24 GA18; home: 4-1 Michalovce, 2-3 Dunajska Streda, 2-1 Trencin. Over 2.5 in 9/9, 1H goal in 9/9.",
+  "away_form": "Dukla (8th) W5 D1 L3, GF12 GA10; away: 2-2 Slovan, 2-0 Vranov (cup), 1-0 Trencin, 0-1 Michalovce.",
+  "trends": {
+   "game_totals": "Zilina o2.5 9/9; Dukla 4/9",
+   "team_totals": "Zilina scored 2+ in 8/9",
+   "first_half": "Zilina 1H goals 9/9, Dukla 6/9",
+   "handicap": "Zilina home margins 3,-1,1",
+   "corners": "n/a"
+  },
+  "h2h": "Round 4 this season: Dukla 3-4 Zilina.",
+  "absences": "None found.",
+  "context": "Nike liga round 15, 15:30 local / 14:30 UTC at Zilina (matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "68",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.18,
+    "p": 0.810637,
+    "why": "tight: 1H goal in all 9 recent Zilina games, 6/9 Dukla; my p 0.84"
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.32,
+    "p": 0.7171098838,
+    "why": "Zilina scored 2+ in 8/9 and 4 v Dukla in R4; my p 0.76"
+   }
+  ],
+  "avoid": [
+   "Zilina -1.5 (concedes freely)",
+   "any Under"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.mskzilina.sk/matches?category=MUZ",
+   "https://sportnet.sme.sk/spravy/futbal-banska-bystrica-zilina-online-sumar-4-kolo-nike-liga-2026-2027/",
+   "https://www.sofascore.com/football/match/dukla-banska-bystrica-msk-zilina/cYsdPb"
+  ]
+ },
+ {
+  "eid": "sr:match:67015466",
+  "fx": "HamKam v Fredrikstad FK",
+  "home_form": "HamKam (11th, 30pts, GD -15) last 9 all comps W4 D1 L4, GF16 GA18; home: 3-0 Sarpsborg, 0-3 Rosenborg, 0-2 Bodo/Glimt, 1-5 Molde.",
+  "away_form": "Fredrikstad (12th, 30pts, 31-46) W2 D4 L3, GF14 GA18; away: 5-2 Ranheim (cup), 1-5 Molde, 2-3 Viking, 1-1 Valerenga.",
+  "trends": {
+   "game_totals": "2+ goals in 8/9 HamKam games and 8/9 Fredrikstad games; o2.5 7/9 and 5/9",
+   "team_totals": "both conceded 2+ often (HamKam 5/9, Fredrikstad 5/9)",
+   "first_half": "HamKam 1H goal 7/9, Fredrikstad 6/9",
+   "handicap": "level teams, house has HamKam 0.39",
+   "corners": "HamKam home corners 8,4,1,6"
+  },
+  "h2h": "None found for 2026.",
+  "absences": "No injury news found.",
+  "context": "Eliteserien round 27 of 30 - regular league round, NOT a play-off (Sportradar round 27; 30-round season). Six-pointer near the drop zone: both on 30 pts above Start (relegated, 19 pts). At Briskeby 16:00 local (15:00 UTC), matches board. NOR Unders are over-rated (UBIAS), which supports Overs.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.8025211885,
+    "why": "tight: 2+ goals in 8/9 games for each side, both defences leaky (GA 18 each in 9); my p 0.82"
+   }
+  ],
+  "avoid": [
+   "any result-side (relegation six-pointer, coin flip)",
+   "Under 3.5"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://no.wikipedia.org/wiki/Mal:Eliteserien_2026_tabell",
+   "https://www.fotball.no/fotballdata/turnering/hjem/?fiksId=206092",
+   "https://en.wikipedia.org/wiki/2026_Eliteserien"
+  ]
+ },
+ {
+  "eid": "sr:match:72202742",
+  "fx": "Dunfermline Athletic FC v Greenock Morton FC",
+  "home_form": "Dunfermline (2nd) 12 games unbeaten; last 9 W4 D4 L1, GF14 GA9; home: 5-1 Inverness, 1-1 Partick, 0-0 Livingston, 1-4 Aberdeen (cup). Many draws.",
+  "away_form": "Morton W4 D0 L5, GF12 GA14; away: 0-2 Livingston, 3-2 Partick, 2-1 Arbroath, 0-2 Inverness. Failed to score in 4/9.",
+  "trends": {
+   "game_totals": "Dunfermline o2.5 3/9; 0-0 twice",
+   "team_totals": "Morton blanked 4/9",
+   "first_half": "Dunfermline 1H goal 5/9, Morton 8/9",
+   "handicap": "Dunfermline wins by 1 except 5-1",
+   "corners": "Dunfermline corners variable 0-11"
+  },
+  "h2h": "Morton 0-1 Dunfermline (19 Sep 2026).",
+  "absences": "Dunfermline captain Charlie Gilmour a slight fitness doubt (Neil Lennon); striker Olly Thomas available again.",
+  "context": "Championship round 16. Dunfermline 6 pts behind leaders Partick, coming off a two-week break.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.7498,
+    "why": "tight but weak: 12 unbeaten and won reverse 1-0, yet home draw tendency (1-1, 0-0) makes house 0.75 generous; my p 0.71 - use only as filler"
+   }
+  ],
+  "avoid": [
+   "Dunfermline -1.5 (wins by 1)",
+   "Over 2.5 (3/9)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.thecourier.co.uk/fp/sport/football/5622400/dunfermline-athletic-boss-neil-lennon-shares-thoughts-on-raith-rovers-penis-social-media-post/",
+   "https://global.espn.com/football/match/_/gameId/742851/greenock-morton-dunfermline-athletic"
+  ]
+ },
+ {
+  "eid": "sr:match:72202748",
+  "fx": "Raith Rovers FC v Partick Thistle FC",
+  "home_form": "Raith W3 D2 L4, GF14 GA15; home: 0-0 Dunfermline, 0-2 Inverness, 2-0 Queens Park, 0-2 Livingston (2 goals in last 4 home).",
+  "away_form": "Partick (leaders, 6 pts clear) W7 D1 L1, GF19 GA7; away: 1-0 Queens Park, 3-0 Edinburgh City, 1-1 Dunfermline, 1-0 Ayr, 2-1 Livingston (unbeaten in 5 away).",
+  "trends": {
+   "game_totals": "Raith home games 0,2,2,2 goals",
+   "team_totals": "Partick scored in 8/9; Raith scored <=1 in 5/9",
+   "first_half": "Partick scored 1H in 7/9",
+   "handicap": "Partick away wins by 1-3",
+   "corners": "Partick corners 9,9,5,7,9"
+  },
+  "h2h": "No reliable 2026/27 H2H found.",
+  "absences": "None found.",
+  "context": "Championship round 16; Partick top, six clear.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.28,
+    "p": 0.748335088,
+    "why": "tight: Partick scored in 8/9 and in every away game; Raith kept 2 clean sheets in 9; my p 0.81"
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.36,
+    "p": 0.692376156,
+    "why": "Partick unbeaten in 5 away (W4 D1), Raith 2 goals in last 4 home; my p 0.73"
+   }
+  ],
+  "avoid": [
+   "Raith team Under 1.5 (Under rule p<0.82)",
+   "Home +1.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.thecourier.co.uk/fp/sport/football/5622400/dunfermline-athletic-boss-neil-lennon-shares-thoughts-on-raith-rovers-penis-social-media-post/",
+   "https://africa.espn.com/football/match/_/gameId/514355/partick-thistle-dunfermline-athletic"
+  ]
+ },
+ {
+  "eid": "sr:match:72083140",
+  "fx": "Crvena Zvezda v FK Radnik Surdulica",
+  "home_form": "Zvezda W7 D1 L1, GF25 GA10 (incl. UEL 2-1 IC Escaldes, 2-2 Copenhagen).",
+  "away_form": "Radnik W4 D3 L2, GF13 GA9; drew 0-0 with Zvezda in Sept.",
+  "trends": {
+   "game_totals": "Zvezda o2.5 7/9",
+   "team_totals": "Zvezda 2+ in 7/9",
+   "first_half": "Zvezda 1H goal 6/9",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Radnik 0-0 Zvezda (10 Sep 2026).",
+  "absences": "Not researched further after veto.",
+  "context": "Superliga round 16. Kickoff MOVED from 18:00 to 14:00 local (13:00 UTC) for Arandjelovdan per superliga.rs and previews; the board lists 17:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kickoff time conflict: official 14:00 local = 13:00 UTC vs board 17:00 UTC (match moved for Arandjelovdan). Board timing stale; leg may be live/started before posting.",
+  "picks": [],
+  "avoid": [
+   "all markets"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.superliga.rs/utakmica/16-kolo-crvena-zvezda-radnik/",
+   "https://www.svijetkladjenja.com/vesti-srbija/crvena-zvezda-radnik-gde-gledati-prenos-satnica/",
+   "https://naslovi.net/2026-11-20/danas/superliga-zvezda-docekuje-radnik-partizan-putuje-u-loznicu/42630757"
+  ]
+ },
+ {
+  "eid": "sr:match:67015478",
+  "fx": "Vaalerenga IF v IK Start",
+  "home_form": "Valerenga (8th, 32pts) W4 D1 L4 all comps, GF16 GA11; home: 4-0 Tromso, 3-1 Brann, 1-1 Fredrikstad.",
+  "away_form": "Start (16th, 19pts, bottom) W4 D0 L5 all comps, GF15 GA21; away: 1-4 Rosenborg, 1-6 Molde, 0-3 Sandefjord.",
+  "trends": {
+   "game_totals": "Start o2.5 6/9, Valerenga 5/9",
+   "team_totals": "Start conceded 3+ in 4/9; Valerenga home 4,3,1 goals",
+   "first_half": "Start conceded 1H goals in 5 of last 6",
+   "handicap": "Valerenga home wins by 4 and 2",
+   "corners": "n/a"
+  },
+  "h2h": "None found for 2026.",
+  "absences": "No injury news found.",
+  "context": "Eliteserien round 27 of 30, regular league round (not play-off). Start bottom, 11 pts from safety with 4 games left; no.wikipedia marks Start as relegated but this may not be mathematical yet (data_conflict on whether they are down; Wikipedia also claims a 10-game winless run while Sportradar lists a 1-0 win v Sandefjord on 25 Oct). Valerenga mid-table, little to play for.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.781108,
+    "why": "tight: Start conceding 2.3/game, lost 1-4 and 1-6 on the road; Valerenga home 4-0, 3-1; draw refunded; my p 0.80"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.38,
+    "p": 0.7071052185,
+    "why": "Start games o2.5 6/9 with leaky defence, Valerenga scored 3+ in two of last three home; my p 0.70"
+   }
+  ],
+  "avoid": [
+   "Start +1.5",
+   "Under 3.5"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://no.wikipedia.org/wiki/Eliteserien_i_fotball_for_menn_2026",
+   "https://en.wikipedia.org/wiki/2026_IK_Start_season",
+   "https://www.fotball.no/turneringer/eliteserien/?underside=kamper"
+  ]
+ },
+ {
+  "eid": "sr:match:72302694",
+  "fx": "Ferencvarosi Budapest v WKW ETO FC Gyor",
+  "home_form": "Ferencvaros W7 D2 L0 (all comps), GF23 GA5; 2-0 Vasas, 2-0 at Milan (UEL), 2-0 Paksi, 5-0 MTK. Slow starts: 1H goal in only 4/9.",
+  "away_form": "ETO Gyor (defending champions) W5 D2 L2, GF17 GA12; away: 1-1 Nyiregyhaza, 1-3 Zalaegerszeg, 2-1 Paksi, 2-1 MTK.",
+  "trends": {
+   "game_totals": "Fradi o2.5 4/9 (many 2-0s), ETO 6/9",
+   "team_totals": "Fradi scored 2+ in 7/9, clean sheets 5/9",
+   "first_half": "Fradi 0-0 at HT in 5 of last 9",
+   "handicap": "Fradi wins by exactly 2 common",
+   "corners": "Fradi home corners 10,9,7,7"
+  },
+  "h2h": "ETO beat Fradi 1-0 in Gyor (Apr 2026, title run) and won at Fradi in Jan 2026.",
+  "absences": "No current injury list found.",
+  "context": "NB I round 14. Big-club clash (champions ETO v Fradi). Fradi next UEL game ~5 days later (no <=4-day rotation trigger).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "any result-side (big-club clash rule)",
+   "totals (big-club totals need p>=0.82)",
+   "1H Over 0.5 (Fradi slow starts)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.kisalfold.hu/helyi-sport/2026/09/eto-fc-ferencvaros-elozetes",
+   "https://pestisracok.hu/exkluziv/2026/04/banati-kevin-kinyitotta-az-aranykaput-a-gyornek-labdarugo-nb-i-eto-fc-gyor-ferencvaros-1-0-0-0",
+   "https://www.origo.hu/sport/sport-futball/2026/01/ferencvaros-eto-fc-nb1-rangado-cimvedo-vereseg"
+  ]
+ },
+ {
+  "eid": "sr:match:72388110",
+  "fx": "FC Dinamo Bucuresti 1948 v FC Petrolul Ploiesti",
+  "home_form": "Dinamo W7 D1 L1, GF23 GA8; home: 2-0 UTA, 5-2 Chindia, 2-0 Botosani, 4-0 Farul.",
+  "away_form": "Petrolul W4 D3 L2, GF17 GA9; away: 1-0 UTA, 6-0 Progresul (cup), 3-1 Botosani, 1-3 Farul.",
+  "trends": {
+   "game_totals": "Dinamo o2.5 6/9",
+   "team_totals": "Dinamo 2+ in 8/9",
+   "first_half": "Dinamo 1H goal 8/9",
+   "handicap": "Dinamo home wins by 2-4",
+   "corners": "Dinamo corners 5-9 every game"
+  },
+  "h2h": "A Soccerway blog reports a round-2 Dinamo-Petrolul draw (season unconfirmed).",
+  "absences": "Petrolul head coach Ricardo Sousa suspended 2 games (assistant Tiago Ferreira on the bench); reports of Petrolul losing its most productive player; Dinamo missing a key player (Adnan/Pascalau injured per one report).",
+  "context": "Superliga round 16, 20:30 local (18:30 UTC). VENUE MOVED: Dinamo cannot use Arena Nationala (pitch) and play at Slobozia.",
+  "veto": true,
+  "veto_reason": "Venue conflict: match moved out of Bucharest to Slobozia (Arena Nationala pitch unusable), not the listed home venue. Rule: veto on any venue conflict. Without the veto, Dinamo DNB/team Over 1.5 would have been the candidates.",
+  "picks": [],
+  "avoid": [
+   "all markets (venue veto)"
+  ],
+  "confidence": 0.1,
+  "sources": [
+   "https://www.digisport.ro/fotbal/liga-1/dinamo-petrolul-live-video-2000-digi-sport-1-diferenta-de-10-locuri-in-clasament-4057585",
+   "https://www.prosport.ro/fotbal-intern/superliga/antrenor-portughez-inlocuitor-ricardo-sousa-dinamo-petrolul-20572808",
+   "https://www.observatorulph.ro/sport/2804552-pierdere-mare-pentru-petrolul-inaintea-meciului-cu-dinamo-ce-se-intampla-cu-cel-mai-productiv-fotbalist-al-echipei"
+  ]
+ },
+ {
+  "eid": "sr:match:73451882",
+  "fx": "Basketball Lowen Braunschweig v Bamberg Baskets",
+  "home_form": "Braunschweig 6 straight losses, 1 BBL win; last 9: 79-111 Chemnitz, 87-97 Bonn, 66-108 Munich, 72-96 Wurzburg, 73-88 Hagen, 75-102 Chemnitz, 98-107 Ludwigsburg, W 93-87 Vechta, W 83-82 Rostock.",
+  "away_form": "Bamberg W2 L7 all comps (BCL incl.): 71-85 Bonn, 66-98 at Murcia, 79-92 at Trier, W 88-78 Jena, 61-95 Varese, W 80-70 at Oldenburg, 71-83 at Berlin. Scored 61-88 (avg 73) in all 9.",
+  "trends": {
+   "game_totals": "Bamberg games: 156,164,171,166,156,150,154,153,159 (all <=171); Braunschweig games avg ~178, 4/9 over 181.5",
+   "team_totals": "Bamberg scored 90+ in 0/9; Braunschweig conceded 96+ in 5/9",
+   "first_half": "n/a",
+   "handicap": "Braunschweig losing by 10-42",
+   "corners": "n/a"
+  },
+  "h2h": "Met earlier this season (Loewen site: \"Schon wieder\" v Bamberg) - result not found.",
+  "absences": "None reported; Bamberg coach Jesus Ramirez returns to former club; Obiesie now at Bamberg (ex-Loewen).",
+  "context": "BBL round 10. No midweek game for either (Bamberg last played Fri 14 Nov). Braunschweig just above the drop places, under pressure.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=187.5",
+    "desc": "Under 187.5",
+    "odds": 1.3,
+    "p": 0.7479638909,
+    "why": "tight: every one of Bamberg last 9 games finished <=171, Bamberg scored <=88 in all 9; Braunschweig games 5/9 under 180; my p 0.78"
+   }
+  ],
+  "avoid": [
+   "Bamberg ML/handicap (p<0.75; Bamberg 2-7)",
+   "Bamberg team Over",
+   "Braunschweig +handicaps (weak, losing by 10-40)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fraenkischertag.de/sport/bamberg-baskets/bamberg-baskets-in-braunschweig-ramirez-trifft-auf-ex-klub-art-604848",
+   "https://www.basketball-loewen.de/schon-wieder-loewen-muessen-gegen-bamberg-ran/"
+  ]
+ },
+ {
+  "eid": "sr:match:73713606",
+  "fx": "Basquet Manresa v BC Andorra",
+  "home_form": "Kids&Us Manresa: two straight ACB wins (98-92 at Lleida, 100-99 Obradoiro); played FIBA Europe Cup v PAOK Wed 18 Nov (lost 80-88 at home). Home margins small: +1, +4, -8, -18, +20.",
+  "away_form": "MoraBanc Andorra in the ACB drop zone, 1-8 last 9: 84-90 Canarias, 100-103 at Coruna, 79-111 Valencia, 76-88 at Bilbao, W 108-102 Breogan, 75-96 at Badalona, 84-92 at Malaga, 85-90 Obradoiro, 65-91 at Murcia. Lost by <=12 in 6 of 8 defeats.",
+  "trends": {
+   "game_totals": "Manresa games 141-199, Andorra 156-210 - no edge",
+   "team_totals": "mixed",
+   "first_half": "n/a",
+   "handicap": "Andorra losses by 6,3,32,12,21,8,5,26; Manresa wins tight",
+   "corners": "n/a"
+  },
+  "h2h": "None found for 2026/27.",
+  "absences": "Manresa: base Rafa Villar out (usual); Chibuzo Agbo and Luka Scuka doubtful (muscle). Andorra: none confirmed.",
+  "context": "Liga Endesa round 9, 19:30 local Nou Congost. Manresa 3 days after a home European game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-14.5",
+    "desc": "Away (+14.5)",
+    "odds": 1.26,
+    "p": 0.7728235243,
+    "why": "tight: Andorra lost by 12 or fewer in 6 of 8 defeats; Manresa home wins by 1 and 4, two rotation doubts plus Villar out, midweek European game; catch <15 pts; my p 0.81"
+   }
+  ],
+  "avoid": [
+   "Manresa ML (p 0.705 < 0.75 rule)",
+   "Manresa -handicaps",
+   "game totals"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.basquetmanresa.com/en/news/baxi-manresa/la-previa/2026/baxi-manresa-hosts-a-competitive-and-dangerous-morabanc-andorra/",
+   "https://www.infobae.com/espana/agencias/2026/11/20/el-kidsus-manresa-a-seguir-con-el-modo-avion-en-la-liga-endesa/",
+   "https://acb.com/es/liga/noticias/previa-de-la-jornada-9-de-liga-endesa-2026-27-146490"
+  ]
+ }
+]

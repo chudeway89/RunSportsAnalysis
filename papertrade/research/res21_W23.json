@@ -1,0 +1,665 @@
+[
+ {
+  "eid": "sr:match:72712552",
+  "fx": "Kelowna Rockets v Prince George Cougars",
+  "sport": "ice hockey",
+  "absences": "Kelowna: Jaxon Kehrig expected back after 10 games out (lower body); D Peyton Kettles and D Dane Sorensen out week-to-week; Owen Folstrom day-to-day; captain Rowan Guest day-to-day. Prince George: no injury report found (top scorer Lee Shurgot 2G 11A).",
+  "context": "WHL major junior (ages 16-20), treated as junior. Kelowna's final homestand before a 5-game road trip, and the second of a back-to-back (Regina at home Sat). PG 7-10-1-2.",
+  "news": "The Rockets' own weekend preview lists Fri 20 Nov at 7:05 pm local Pacific (= 03:05 UTC); the board has 02:05 UTC (6:05 pm PT). OurSports lists 9:05 (ET). Kick-off conflict.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: the club preview says 7:05 pm PT (03:05 UTC) v the board's 02:05 UTC. Kelowna is also missing two defencemen.",
+  "picks": [],
+  "avoid": "All markets (time conflict, junior league).",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-rockets/article/nov-20-21-2026-weekend-preview/",
+   "https://westknews.com/2026/11/19/kelowna-rockets-face-cougars-pats-before-five-game-road-trip/",
+   "https://www.oursportscentral.com/services/schedule/prince-george-cougars/t-1270",
+   "https://www.620ckrm.com/2026/08/18/regina-pats-2026-27-schedule/",
+   "https://www.oursportscentral.com/services/schedule/penticton-vees/t-4751",
+   "https://chl.ca/whl-americans/article/preview-americans-thunderbirds-november-20-2026/",
+   "https://chl.ca/whl-chiefs/article/preview-chiefs-to-hot-victoria-royals-for-first-time-this-season/",
+   "https://www.eliteprospects.com/team/1537/everett-silvertips/schedule",
+   "https://www.oursportscentral.com/services/schedule/kamloops-blazers/t-1262"
+  ]
+ },
+ {
+  "eid": "sr:match:72712554",
+  "fx": "Penticton Vees v Regina Pats",
+  "sport": "ice hockey",
+  "absences": "No Penticton or Regina injury news found.",
+  "context": "WHL junior. Regina is on a BC road swing (Prince George, then Penticton Fri, Kelowna Sat): third game in four nights on Sat, second here. Penticton are a WHL expansion side (joined 2025-26).",
+  "news": "Start time conflicts between sources: 8:05 pm Regina time (= 02:05 UTC, matches the board) on the Regina radio and game-day listings, 9:05 pm (ET) on OurSports, 7:05 pm PT on ticket resellers. The most credible sources match the board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides and handicaps (junior league; Regina travel fatigue cuts both ways); integer totals.",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/whl-rockets/article/nov-20-21-2026-weekend-preview/",
+   "https://westknews.com/2026/11/19/kelowna-rockets-face-cougars-pats-before-five-game-road-trip/",
+   "https://www.oursportscentral.com/services/schedule/prince-george-cougars/t-1270",
+   "https://www.620ckrm.com/2026/08/18/regina-pats-2026-27-schedule/",
+   "https://www.oursportscentral.com/services/schedule/penticton-vees/t-4751",
+   "https://chl.ca/whl-americans/article/preview-americans-thunderbirds-november-20-2026/",
+   "https://chl.ca/whl-chiefs/article/preview-chiefs-to-hot-victoria-royals-for-first-time-this-season/",
+   "https://www.eliteprospects.com/team/1537/everett-silvertips/schedule",
+   "https://www.oursportscentral.com/services/schedule/kamloops-blazers/t-1262"
+  ]
+ },
+ {
+  "eid": "sr:match:72712560",
+  "fx": "Everett Silvertips v Kamloops Blazers",
+  "sport": "ice hockey",
+  "absences": "No injury news. Everett signed a defenceman (Nov 20) and made a trade (Nov 19), so the roster is in flux.",
+  "context": "WHL junior. Everett are the reigning WHL champions but sit 4th in the U.S. Division (7-9-5). Kamloops are 1st in the Central (14-5-3).",
+  "news": "Date confirmed Nov 20. Elite Prospects lists 7:05 pm PT (= board 03:05 UTC); OurSports lists 9:05 pm (likely ET). Minor listing conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (junior; Everett roster churn). Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/whl-rockets/article/nov-20-21-2026-weekend-preview/",
+   "https://westknews.com/2026/11/19/kelowna-rockets-face-cougars-pats-before-five-game-road-trip/",
+   "https://www.oursportscentral.com/services/schedule/prince-george-cougars/t-1270",
+   "https://www.620ckrm.com/2026/08/18/regina-pats-2026-27-schedule/",
+   "https://www.oursportscentral.com/services/schedule/penticton-vees/t-4751",
+   "https://chl.ca/whl-americans/article/preview-americans-thunderbirds-november-20-2026/",
+   "https://chl.ca/whl-chiefs/article/preview-chiefs-to-hot-victoria-royals-for-first-time-this-season/",
+   "https://www.eliteprospects.com/team/1537/everett-silvertips/schedule",
+   "https://www.oursportscentral.com/services/schedule/kamloops-blazers/t-1262"
+  ]
+ },
+ {
+  "eid": "sr:match:72712556",
+  "fx": "Seattle Thunderbirds v Tri-City Americans",
+  "sport": "ice hockey",
+  "absences": "No injury news in the preview.",
+  "context": "WHL junior. Tri-City are 9-9-1-1 (8th in the West) and last lost 4-3 in OT at Everett on Nov 14. Seattle are 7-10-2-1 (11th).",
+  "news": "The Americans' official preview confirms Tri-City at Seattle on Nov 20.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/whl-rockets/article/nov-20-21-2026-weekend-preview/",
+   "https://westknews.com/2026/11/19/kelowna-rockets-face-cougars-pats-before-five-game-road-trip/",
+   "https://www.oursportscentral.com/services/schedule/prince-george-cougars/t-1270",
+   "https://www.620ckrm.com/2026/08/18/regina-pats-2026-27-schedule/",
+   "https://www.oursportscentral.com/services/schedule/penticton-vees/t-4751",
+   "https://chl.ca/whl-americans/article/preview-americans-thunderbirds-november-20-2026/",
+   "https://chl.ca/whl-chiefs/article/preview-chiefs-to-hot-victoria-royals-for-first-time-this-season/",
+   "https://www.eliteprospects.com/team/1537/everett-silvertips/schedule",
+   "https://www.oursportscentral.com/services/schedule/kamloops-blazers/t-1262"
+  ]
+ },
+ {
+  "eid": "sr:match:72712558",
+  "fx": "Spokane Chiefs v Victoria Royals",
+  "sport": "ice hockey",
+  "absences": "No absences reported. Spokane: top scorer Chase Harrington 28 pts; G Carter Esler 1.76 GAA.",
+  "context": "WHL junior. Spokane lead the U.S. Division (14-4); Victoria are 'hot', 2nd in the B.C. Division. First meeting of the season.",
+  "news": "The Chiefs' official preview confirms Numerica Veterans Arena, Nov 20, 7:05 pm PT (= board 03:05 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 6.5 / team Unders (house p < 0.82); result-sides (junior). Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/whl-rockets/article/nov-20-21-2026-weekend-preview/",
+   "https://westknews.com/2026/11/19/kelowna-rockets-face-cougars-pats-before-five-game-road-trip/",
+   "https://www.oursportscentral.com/services/schedule/prince-george-cougars/t-1270",
+   "https://www.620ckrm.com/2026/08/18/regina-pats-2026-27-schedule/",
+   "https://www.oursportscentral.com/services/schedule/penticton-vees/t-4751",
+   "https://chl.ca/whl-americans/article/preview-americans-thunderbirds-november-20-2026/",
+   "https://chl.ca/whl-chiefs/article/preview-chiefs-to-hot-victoria-royals-for-first-time-this-season/",
+   "https://www.eliteprospects.com/team/1537/everett-silvertips/schedule",
+   "https://www.oursportscentral.com/services/schedule/kamloops-blazers/t-1262"
+  ]
+ },
+ {
+  "eid": "sr:match:72176046",
+  "fx": "TPS U20 v Ilves Tampere U20",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "U20 SM-sarja (youth). TPS U20 are 9-1 in their last 10.",
+  "news": "GoWith lists TPS-Ilves for Sat 21.11, but the same page also lists Tappara-TPS on 21.11. The board kick-off of 08:00 UTC (10:00 Finnish time) is unusually early. Unresolved date/time conflict.",
+  "veto": true,
+  "veto_reason": "Date/time conflict: a second TPS fixture is listed on 21.11, and the 10:00 local start is unusual.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.gowith.events/en/event/u20-sm-sarja-lukko-assat-2026",
+   "https://www.jypliiga.fi/otteluohjelma-u20/",
+   "https://www.eliteprospects.com/team/2484/jokerit-u20/schedule",
+   "https://www.eliteprospects.com/league/u20-sm-sarja/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72176036",
+  "fx": "Jukurit U20 v Kiekko-Espoo",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "U20 SM-sarja (youth). Jukurit U20 (7-3) v Kiekko-Espoo (5-5).",
+  "news": "No news found. The fixture was not found in the searched schedule snippets, which is neither a confirmation nor a conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.gowith.events/en/event/u20-sm-sarja-lukko-assat-2026",
+   "https://www.jypliiga.fi/otteluohjelma-u20/",
+   "https://www.eliteprospects.com/team/2484/jokerit-u20/schedule",
+   "https://www.eliteprospects.com/league/u20-sm-sarja/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72176038",
+  "fx": "KalPa U20 v Pelicans U20",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "U20 SM-sarja (youth). KalPa (4-6, conceding 4.3/game) v Pelicans (7-3, 1.5 GA away).",
+  "news": "No news found. The fixture was not found in the searched schedule snippets, which is neither a confirmation nor a conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.gowith.events/en/event/u20-sm-sarja-lukko-assat-2026",
+   "https://www.jypliiga.fi/otteluohjelma-u20/",
+   "https://www.eliteprospects.com/team/2484/jokerit-u20/schedule",
+   "https://www.eliteprospects.com/league/u20-sm-sarja/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72176032",
+  "fx": "Rovaniemen Kiekko U20 v KooKoo",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "U20 SM-sarja (youth). Rovaniemi (1-9, conceding 5.2/game) v KooKoo (3-7). Weak v weak, not a clear mismatch.",
+  "news": "No news found. The fixture was not found in the searched schedule snippets, which is neither a confirmation nor a conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here). KooKoo team Over 2.5 (p 0.715) is tempting v the leaky home side, but KooKoo themselves are 3-7: not a clear mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.gowith.events/en/event/u20-sm-sarja-lukko-assat-2026",
+   "https://www.jypliiga.fi/otteluohjelma-u20/",
+   "https://www.eliteprospects.com/team/2484/jokerit-u20/schedule",
+   "https://www.eliteprospects.com/league/u20-sm-sarja/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72176044",
+  "fx": "Lukko U20 v Assat",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "U20 SM-sarja (youth). Lukko (7-3, 1.8 GA at home) v Assat (4-6, 4.8 GA away). Satakunta derby.",
+  "news": "GoWith confirms Lukko-Assat in Rauma on 21 Nov 2026.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (youth, derby). Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.gowith.events/en/event/u20-sm-sarja-lukko-assat-2026",
+   "https://www.jypliiga.fi/otteluohjelma-u20/",
+   "https://www.eliteprospects.com/team/2484/jokerit-u20/schedule",
+   "https://www.eliteprospects.com/league/u20-sm-sarja/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72120218",
+  "fx": "HC Poruba v HC Dukla Jihlava",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech U20 Extraliga junior\u016f (youth), round 24. Poruba (3-7) v Dukla Jihlava (5-5).",
+  "news": "Poruba's club page lists a round-24 game on Sat 21.11 (opponent not shown in the snippet). Ceskyhokej lists Poruba-Jihlava on 21.11.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9",
+   "https://www.hcbilitygri.cz/matches/JUN",
+   "https://www.hcplzen.cz/matches?category=JUN&season=2027JUN&type=home",
+   "https://www.hcplzen.cz/",
+   "https://hcporuba.cz/matches/JUN",
+   "https://mladez.hcocelari.cz/cz/matches/JUN/2027?type=away"
+  ]
+ },
+ {
+  "eid": "sr:match:72120208",
+  "fx": "HC Slavia Prague v HC Ocelari Trinec",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech U20 (youth). Slavia (2-8) v Trinec (7-3).",
+  "news": "The Trinec youth page lists Slavia-Trinec on 21.11. Snippets also show a Litvinov-Trinec listing that may be another date.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away result-side (youth). Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9",
+   "https://www.hcbilitygri.cz/matches/JUN",
+   "https://www.hcplzen.cz/matches?category=JUN&season=2027JUN&type=home",
+   "https://www.hcplzen.cz/",
+   "https://hcporuba.cz/matches/JUN",
+   "https://mladez.hcocelari.cz/cz/matches/JUN/2027?type=away"
+  ]
+ },
+ {
+  "eid": "sr:match:72120206",
+  "fx": "HC Bili Tygri Liberec v Mountfield HK",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech U20 (youth).",
+  "news": "Ceskyhokej and the Liberec club both list Sat 21.11.2026 at 12:00 local (CET = 11:00 UTC) at Home Credit Arena. The board has 12:00 UTC (13:00 local). Kick-off conflict.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: the official listing says 12:00 CET (11:00 UTC) v the board's 12:00 UTC.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9",
+   "https://www.hcbilitygri.cz/matches/JUN",
+   "https://www.hcplzen.cz/matches?category=JUN&season=2027JUN&type=home",
+   "https://www.hcplzen.cz/",
+   "https://hcporuba.cz/matches/JUN",
+   "https://mladez.hcocelari.cz/cz/matches/JUN/2027?type=away"
+  ]
+ },
+ {
+  "eid": "sr:match:72120210",
+  "fx": "HC Skoda Plzen Youth v HC Vitkovice",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech U20 (youth), round 24. Plzen U20 are 9-1 (7-0 at home).",
+  "news": "The Plzen schedule and ceskyhokej list 12:00 local (11:00 UTC); the Plzen homepage shows 13:00 local (12:00 UTC, as on the board). Sources conflict.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (12:00 v 13:00 local).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9",
+   "https://www.hcbilitygri.cz/matches/JUN",
+   "https://www.hcplzen.cz/matches?category=JUN&season=2027JUN&type=home",
+   "https://www.hcplzen.cz/",
+   "https://hcporuba.cz/matches/JUN",
+   "https://mladez.hcocelari.cz/cz/matches/JUN/2027?type=away"
+  ]
+ },
+ {
+  "eid": "sr:match:72120212",
+  "fx": "HC Sparta Prague v HC Energie Karlovy Vary",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech U20 (youth). Sparta (6-4) v Karlovy Vary (9-1, 1.4 GA away).",
+  "news": "Ceskyhokej lists Sparta-Karlovy Vary on 21.11; time not verified. The 12:00 UTC board slot conflicts with the 12:00 local start seen for the other 12:00 games.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Possible time error (as Liberec/Plzen): treat as unverified. Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9",
+   "https://www.hcbilitygri.cz/matches/JUN",
+   "https://www.hcplzen.cz/matches?category=JUN&season=2027JUN&type=home",
+   "https://www.hcplzen.cz/",
+   "https://hcporuba.cz/matches/JUN",
+   "https://mladez.hcocelari.cz/cz/matches/JUN/2027?type=away"
+  ]
+ },
+ {
+  "eid": "sr:match:72120214",
+  "fx": "Rytiri Kladno v HC Litvinov",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech U20 (youth). Kladno (1-9, 0-5 at home) v Litvinov (2-8): the two weakest sides.",
+  "news": "Ceskyhokej lists Kladno-Litvinov on 21.11; time not verified (same 12:00 UTC slot as the conflicted games).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Possible time error. Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9",
+   "https://www.hcbilitygri.cz/matches/JUN",
+   "https://www.hcplzen.cz/matches?category=JUN&season=2027JUN&type=home",
+   "https://www.hcplzen.cz/",
+   "https://hcporuba.cz/matches/JUN",
+   "https://mladez.hcocelari.cz/cz/matches/JUN/2027?type=away"
+  ]
+ },
+ {
+  "eid": "sr:match:72176034",
+  "fx": "JYP v HIFK Helsinki U20",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "U20 SM-sarja (youth). JYP (4-6) v HIFK U20 (7-3).",
+  "news": "JYP's schedule lists Sat 21.11.2026 at 15:30 local (= board 13:30 UTC). Consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.gowith.events/en/event/u20-sm-sarja-lukko-assat-2026",
+   "https://www.jypliiga.fi/otteluohjelma-u20/",
+   "https://www.eliteprospects.com/team/2484/jokerit-u20/schedule",
+   "https://www.eliteprospects.com/league/u20-sm-sarja/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72176040",
+  "fx": "Jokerit v SaiPa Lappeenranta U20",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "U20 SM-sarja (youth). Jokerit U20 (3-7, 1-4 at home) v SaiPa (4-6).",
+  "news": "Elite Prospects lists 21 Nov 14:00 UTC with Jokerit at home, matching the board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.gowith.events/en/event/u20-sm-sarja-lukko-assat-2026",
+   "https://www.jypliiga.fi/otteluohjelma-u20/",
+   "https://www.eliteprospects.com/team/2484/jokerit-u20/schedule",
+   "https://www.eliteprospects.com/league/u20-sm-sarja/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72120204",
+  "fx": "BK Mlada Boleslav v HC Dynamo Pardubice",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech U20 (youth). Mlada Boleslav (3-7) v Pardubice U20 (7-3, 4.7 GF away).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away result-side (youth). Youth/junior side: no result-sides or handicaps; goals only in a clear mismatch (none here).",
+  "confidence": 0.1,
+  "sources": [
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9",
+   "https://www.hcbilitygri.cz/matches/JUN",
+   "https://www.hcplzen.cz/matches?category=JUN&season=2027JUN&type=home",
+   "https://www.hcplzen.cz/",
+   "https://hcporuba.cz/matches/JUN",
+   "https://mladez.hcocelari.cz/cz/matches/JUN/2027?type=away"
+  ]
+ },
+ {
+  "eid": "sr:match:72119052",
+  "fx": "SC Kolin v Horacka Trebic",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech 2nd tier (branded Maxa liga 2026/27). Kolin (6-4) v Trebic (7-3), evenly matched.",
+  "news": "No news found. Not seen in the club schedule snippets.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip 406; integer totals (Over 4/5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://vhkvsetin.cz/matches/MUZ",
+   "https://hokej.hcf-m.cz/",
+   "https://www.hokej.cz/klub/hc-tabor/121/zapasy"
+  ]
+ },
+ {
+  "eid": "sr:match:72119060",
+  "fx": "HC Banik Sokolov v PSG Berani Zlin",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech 2nd tier. Sokolov (2-8, conceding 3.8) v Zlin (3-7): both out of form.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away result-side (p 0.54 < 0.75).",
+  "confidence": 0.15,
+  "sources": [
+   "https://vhkvsetin.cz/matches/MUZ",
+   "https://hokej.hcf-m.cz/",
+   "https://www.hokej.cz/klub/hc-tabor/121/zapasy"
+  ]
+ },
+ {
+  "eid": "sr:match:72119056",
+  "fx": "HC Frydek Mistek v Pirati Chomutov",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech 2nd tier. Frydek-Mistek (5-5) v Chomutov (3-7, conceding 4.0/game away).",
+  "news": "The F-M club site lists Sat 21.11.2026 17:00 local v Pirati Chomutov (= board 16:00 UTC). Consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Integer Over 5.",
+  "confidence": 0.15,
+  "sources": [
+   "https://vhkvsetin.cz/matches/MUZ",
+   "https://hokej.hcf-m.cz/",
+   "https://www.hokej.cz/klub/hc-tabor/121/zapasy"
+  ]
+ },
+ {
+  "eid": "sr:match:72119054",
+  "fx": "HC Stadion Litomerice v HC Havirov Panthers",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech 2nd tier. Litomerice (7-3, 3.9 GF/game) v Havirov (2-8; 0-4 away, scoring 1.0 and conceding 4.2 per away game). H2H 4-2.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.35,
+    "p": 0.7087872504,
+    "why": "Fixture-specific form mismatch: Havirov have lost all 4 away games (1.0 GF, 4.2 GA) and 8 of 10; Litomerice are 7-3 and scoring 3.9/game. Incl. OT, my p 0.73 v house 0.709 (trend 0.75). Stats-only reason: fill grade, no named absence found."
+   }
+  ],
+  "avoid": "Integer Over 5/6; Litomerice -1.5 (p 0.47).",
+  "confidence": 0.2,
+  "sources": [
+   "https://vhkvsetin.cz/matches/MUZ",
+   "https://hokej.hcf-m.cz/",
+   "https://www.hokej.cz/klub/hc-tabor/121/zapasy"
+  ]
+ },
+ {
+  "eid": "sr:match:72119058",
+  "fx": "HC Zubr Prerov v HC Dukla Jihlava",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech 2nd tier. Prerov (5-5; 3-1 at home, 1.2 GA at home) v Dukla Jihlava (6-4, 4.2 GF away).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 406 at p 0.678 (< 0.75 rule; Prerov strong at home).",
+  "confidence": 0.15,
+  "sources": [
+   "https://vhkvsetin.cz/matches/MUZ",
+   "https://hokej.hcf-m.cz/",
+   "https://www.hokej.cz/klub/hc-tabor/121/zapasy"
+  ]
+ },
+ {
+  "eid": "sr:match:72119050",
+  "fx": "Hockey Club Tabor v HC Slavia Prague",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Czech 2nd tier. Tabor (6-4) v Slavia Prague (5-5).",
+  "news": "The HC Tabor schedule shows a Sat 21.11 17:00 local home game (opponent not legible in the snippet); consistent with the board's 16:00 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Slavia team Over 1.5 / Under 3.5 (no edge v trend).",
+  "confidence": 0.15,
+  "sources": [
+   "https://vhkvsetin.cz/matches/MUZ",
+   "https://hokej.hcf-m.cz/",
+   "https://www.hokej.cz/klub/hc-tabor/121/zapasy"
+  ]
+ },
+ {
+  "eid": "sr:match:72119062",
+  "fx": "Vhk Vsetin v HC Dynamo Pardubice B",
+  "sport": "ice hockey",
+  "absences": "No news found. Pardubice B is the extraliga club's farm side: its lineup depends on A-team call-ups and loans.",
+  "context": "Czech 2nd tier. Vsetin (8-2, 4.1 GF) v Pardubice B (7-3).",
+  "news": "The Vsetin club site confirms Sat 21.11.2026 17:00 local home v Dynamo Pardubice B (= board 16:00 UTC); on CT sport Plus.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.34,
+    "p": 0.710277,
+    "why": "Vsetin score 4.1/game (4.5 at home) and Pardubice B concede 2.8 (3.2 away); trend 0.75. My p 0.73 v house 0.71. Avoids the farm-team lineup variance that hits the result-side."
+   }
+  ],
+  "avoid": "406 Home (farm-team volatility: an unknown B roster can be loaded with A-team players).",
+  "confidence": 0.2,
+  "sources": [
+   "https://vhkvsetin.cz/matches/MUZ",
+   "https://hokej.hcf-m.cz/",
+   "https://www.hokej.cz/klub/hc-tabor/121/zapasy"
+  ]
+ },
+ {
+  "eid": "sr:match:73350488",
+  "fx": "Herning Blue Fox v Esbjerg Energy",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Metal Ligaen. Herning Blue Fox lead the league (54 pts on Elite Prospects), 9-1 in their last 10. Esbjerg (5-5) host Herning on 19 Nov, so this is the return leg two days later. H2H this season 2-0, 4-1 to Herning.",
+  "news": "Elite Prospects lists Esbjerg v Herning on 19 Nov. A Herning home return on 21 Nov is plausible, but no direct confirmation was found. No conflict, only unverified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.793629,
+    "why": "League leaders at home, 9-1 form, won both meetings this season (2-0, 4-1). Regulation 1X2 at p 0.794 v my ~0.78. Thin price, small edge at most; Esbjerg have the familiarity of the meeting two days earlier."
+   }
+  ],
+  "avoid": "Totals Overs (trend 0.35-0.375 v house p 0.57-0.59: H2H games low-scoring; Esbjerg team Over 1.5 at p 0.55); the -2.5 handicap.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eliteprospects.com/league/denmark",
+   "https://metalligaen.dk/nyheder/optakt-esbjerg-energy-herning-blue-fox-18/"
+  ]
+ },
+ {
+  "eid": "sr:match:72730866",
+  "fx": "Belfast Giants v Nottingham Panthers",
+  "sport": "ice hockey",
+  "absences": "Nottingham: captain Matt Alfaro back from a 3-week injury (Nov 7). Ollie Betteridge was on GB duty in early Nov (should be back). Mitch Fossier's injury-reserve status comes from an undated, likely old article. Belfast: none found.",
+  "context": "EIHL. Belfast are the defending champions, 7-3 in their last 10 and 4-1 at home (4.4 GF). Nottingham are 5-5, 2-3 away. The last H2H was 6-1 to Belfast.",
+  "news": "The Giants' game centre confirms 21 Nov 7:00 pm at The SSE/O2 Arena Belfast (one 'Friday 21st' typo on the page; 21 Nov 2026 is a Saturday).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.745815,
+    "why": "Defending champions at home (4-1, 4.4 GF) v a .500 Panthers side 2-3 away; last meeting 6-1. Incl. OT, my p 0.76 v house 0.746."
+   }
+  ],
+  "avoid": "Belfast -1.5 (p 0.50); integer Over 5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.belfastgiants.com/game-centre",
+   "https://live.belfastgiants.com/fixtures/page/8",
+   "https://www.panthers.co.uk/home/7th-november-2026-blaze-43-panthers",
+   "https://coventryblaze.co.uk/",
+   "https://www.sheffieldsteelers.co.uk/fixtures/",
+   "https://fifeflyers.co.uk/fixtures/",
+   "https://www.eliteleague.co.uk/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72730864",
+  "fx": "Coventry Blaze v Sheffield Steelers",
+  "sport": "ice hockey",
+  "absences": "No Coventry or Sheffield absences found.",
+  "context": "EIHL. Coventry are 'looking to get back to winning ways' (lost their last game); Ice Hockey Fights Cancer night. Sheffield are 7-3 in their last 10 and scoring 3.8/game. H2H 1-6 and 4-3 (Coventry beat Nottingham 4-3 on Nov 7).",
+  "news": "Coventry and Sheffield sites both confirm Skydome Arena, Sat 21 Nov 7 pm.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8123467,
+    "why": "Sheffield average 3.8 GF over the last 10 (3.0 away) and scored 6 in the last H2H; Coventry concede 2.7. Needs 2 Steelers goals incl. OT; my p 0.82 v house 0.812. Very short price, pad-grade."
+   }
+  ],
+  "avoid": "Away 406 at p 0.556 (< 0.75); Coventry +1.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.belfastgiants.com/game-centre",
+   "https://live.belfastgiants.com/fixtures/page/8",
+   "https://www.panthers.co.uk/home/7th-november-2026-blaze-43-panthers",
+   "https://coventryblaze.co.uk/",
+   "https://www.sheffieldsteelers.co.uk/fixtures/",
+   "https://fifeflyers.co.uk/fixtures/",
+   "https://www.eliteleague.co.uk/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72730862",
+  "fx": "Dundee Stars v Fife Flyers",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "EIHL Scottish derby (Tay-Forth). Dundee 4-6, Fife 3-7: both in the lower half and both leaky (3.6 / 3.9 GA).",
+  "news": "Fife's fixture list confirms an away game at Dundee, Sat 21 Nov 7:00 pm (Dundee Ice Arena).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.26,
+    "p": 0.757756175,
+    "why": "Fife's team Over 1.5 hit in 95% of the sample (trend 0.95) and Dundee concede 3.6/game; H2H 2-3, 4-3. Goals market avoids the derby result-side. My p 0.79 v house 0.758."
+   }
+  ],
+  "avoid": "Result-sides (derby; coin-flip); integer Over 5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.belfastgiants.com/game-centre",
+   "https://live.belfastgiants.com/fixtures/page/8",
+   "https://www.panthers.co.uk/home/7th-november-2026-blaze-43-panthers",
+   "https://coventryblaze.co.uk/",
+   "https://www.sheffieldsteelers.co.uk/fixtures/",
+   "https://fifeflyers.co.uk/fixtures/",
+   "https://www.eliteleague.co.uk/standings"
+  ]
+ }
+]

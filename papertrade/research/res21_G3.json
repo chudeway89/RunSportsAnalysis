@@ -1,0 +1,325 @@
+[
+ {
+  "eid": "sr:match:73495546",
+  "fx": "Turk Telekom v Tofas SK Bursa",
+  "home_form": "SR all comps: L 88-91 Canarias (H, Eurocup 17/11), L 84-88 at Petkim (BSL), W 89-81 at U Cluj, W 94-82 Korfez (H), W 98-78 Skyliners (H), W 89-71 at Esenler, L 61-79 at London Lions, W 97-76 Denizli (H), L 84-94 Siauliai (H), L 66-79 at Bordo. BSL 4-4. BSL home W 94-82, W 97-76.",
+  "away_form": "SR: W 94-85 at Chemnitz (Eurocup Wed 18/11), W 75-61 Trabzonspor, W 96-86 at Trento, W 93-87 at Anadolu, W 94-79 Klaipeda, L 77-88 at Fenerbahce, W 90-74 at Wroclaw, L 72-74 Petkim, L 101-105 at Napoli, W 71-69 at Korfez. 7-3 last 10; BSL away 2-1.",
+  "trends": "Game totals: Telekom last 10 totals 140-179 (8/10 above 152.5); Tofas 136-206 (7/10 above 152.5) - line ~163, no edge. Team totals: Telekom scoring 61-98, missing two forwards. 1H: no edge. Handicap: Tofas lost only by 11 (Fener) and 4/2 in last 10; Telekom home BSL wins by 12 and 21. Corners n/a.",
+  "h2h": "No current-season H2H found in sources.",
+  "absences": "Turk Telekom: Tim Schneider and Anthony Lamb have missed recent games; Yigitcan Saybir long-term injured (basketballsphere preview, single source). Tofas: Zach Nuttal missed last game; club cited unnamed injuries after Chemnitz.",
+  "context": "Tofas played Eurocup away in Germany on Wednesday then early (12:30 UTC) Saturday tip in Ankara - travel fatigue for Tofas; Telekom played at home Tuesday. Preview claim of Telekom 5-game win streak contradicts SR data (lost last 2) - treat preview with caution.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-11.5",
+    "desc": "Away (+11.5)",
+    "odds": 1.28,
+    "p": 0.7603,
+    "why": "tight. Tofas (7-3 last 10, credible Eurocup side) lost by >11 only once in last 10 (88-77 at Fenerbahce); Telekom short two forwards (Schneider, Lamb). Fatigue risk on Tofas after Wed trip. My p 0.76."
+   }
+  ],
+  "avoid": [
+   "Telekom ML 1.55 / Telekom -x handicaps (thin rotation, conflicting form reports)",
+   "Game total either side (no fixture-specific edge)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://basketballsphere.com/turk-telekom-vs-tofas-21-11-2026-analiza-i-tip-za-kladjenje",
+   "https://www.yenidonem.com.tr/spor/tofas-turk-telekom-deplasmaninda-447488",
+   "https://euroleaguebasketball.net/en/eurocup/news/pregame-quotes-injury-report-round-8-ec2627"
+  ]
+ },
+ {
+  "eid": "sr:match:71945410",
+  "fx": "Como 1907 v Cagliari",
+  "home_form": "Serie A home: W 1-0 Venezia, W 2-0 Sassuolo, D 0-0 Roma (3 clean sheets in last 3 league home); UCL home W 4-1 Man Utd. Overall last: L 0-2 at Inter, W 9-1 at Lens (UCL), W 3-1 at Torino, W 3-1 at Fiorentina.",
+  "away_form": "Cagliari away: L 1-2 at Lazio, L 2-4 at Roma, L 0-4 at Monza, W 1-0 at Udinese, W 2-1 at Atalanta - three straight away defeats. Last: W 1-0 Frosinone (H). 9th on 16 pts.",
+  "trends": "Game totals: Como home league 1,2,0 goals (Under 2.5 3/3) but 4-1 v Man Utd; Cagliari away games 3,6,4,1,3. Team totals: Como home conceded 0 in 3 league; Cagliari scored away 1,2,0,1,2. 1H: Como home league HT 1-0,0-0,0-0. Handicap: Como home margins +1,+2,0. Corners: Como possession side, typically dominant home corner counts (no fixture data pulled).",
+  "h2h": "Como won 2-1 at Cagliari (2025/26) and 3-1 home (2024/25) per WhoScored preview titles.",
+  "absences": "Como: Jayden Addai (muscle), Jesus Rodriguez (muscle) out; Chalobah fit (likely bench), Assane Diao returning. Cagliari: Yerry Mina, Harry Winks doubts; Nzola, Aurelio, Trepy back in training.",
+  "context": "Como are in the Champions League (UCL matchday likely Tue/Wed 24-25 Nov, <=4 days) - rotation risk per R3/L66; first round after international break. Como lost 0-2 at Inter before the break.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.7486,
+    "why": "tight. Como 3 straight home league clean sheets; Cagliari lost last 3 away (2-1, 4-2, 4-0) with Mina/Winks doubtful. Downgraded for UCL rotation risk. My p 0.74."
+   },
+   {
+    "mid": "900300",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.21,
+    "p": 0.79,
+    "why": "Different family (home corners 900300, the one market passing paper trade). Como dominate the ball at home v a deep-defending away side that has lost three in a row away. My p 0.79."
+   }
+  ],
+  "avoid": [
+   "Como -1.0/-1.5 (home margins +1,+2,0; sim for -1 win only 0.52)",
+   "Over 3.5",
+   "BTTS Yes"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.playmakerstats.com/news/preview-como-1907-vs-cagliari-team-news-lineups-predictions-serie-a-21-11/1263274",
+   "https://www.thestatszone.com/como-vs-cagliari-preview-team-news-prediction-240238",
+   "https://dailysports.net/predictions/can-como-protect-their-home-fortress-como-vs-cagliari-prediction-21112026/",
+   "https://www.whoscored.com/matches/1980975/preview/italy-serie-a-2026-2027-como-cagliari"
+  ]
+ },
+ {
+  "eid": "sr:match:73495542",
+  "fx": "Bahcesehir Koleji v Korfez Basket",
+  "home_form": "BSL leader. SR: W 92-70 at Roma (Eurocup Tue), W 93-57 at Esenler, W 99-61 Panevezys (H), W 97-86 Denizli (H), W 96-82 at Ulm, L 88-103 at Bordo, W 84-81 PAOK (H), W 100-96 Besiktas (H), L 77-86 at Bosna, W 90-80 at Bursaspor. 8-2 last 10, home 4-0.",
+  "away_form": "Korfez 3-5 BSL, 13th. SR: L 65-96 at Chalon (FIBA Europe Cup Tue), W 82-81 Galatasaray (H), W 101-75 Kalev, L 82-94 at Turk Telekom, W 72-62 Bashkimi, L 83-89 Trabzonspor, W 87-85 at Valmiera, L 77-93 at Anadolu, W Manchester, L 69-71 Tofas. BSL away: lost by 12 and 16.",
+  "trends": "Game totals: Bahcesehir totals 150-196, Korfez 134-183; line ~176, no edge (Over 163.5 only 6/10 for Bahcesehir). Handicap: Bahcesehir home wins by 38, 11, 3, 4; Korfez lost BSL aways by 12/16. Team totals: Bahcesehir 84-100 at home.",
+  "h2h": "None found for this season.",
+  "absences": "Bahcesehir: Fanatik report of Caleb Homesley season-ending injury (date unverified). Korfez: no injury news found.",
+  "context": "Both played midweek European games away (Bahcesehir in Rome, Korfez in France - Korfez lost by 31). Leader v 13th.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-2.5",
+    "desc": "Home (-2.5)",
+    "odds": 1.2,
+    "p": 0.8129,
+    "why": "tight. Leader 4-0 at home, Korfez lost both BSL road games to good sides by 12+ and were routed 96-65 in France on Tuesday. Effectively ML with 2.5 cover. My p 0.82."
+   }
+  ],
+  "avoid": [
+   "Korfez +15.5 or wider catches (weak receiver rule)",
+   "Game totals"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://kocaelihalkgazetesi.com/haber/29194492/korfez-basket-deplasmanda-lidere-konuk-olacak",
+   "https://ozgurkocaeli.com.tr/haber/29192514/korfez-basket-lidere-konuk-cayirova-evinde-cikis-ariyor",
+   "https://www.gzt.com/spor/bahcesehir-koleji-esenler-eroksporu-farkli-gecti-4279007"
+  ]
+ },
+ {
+  "eid": "sr:match:72341398",
+  "fx": "Notts County v Stevenage FC",
+  "home_form": "League home: D 1-1 Stockport, W 2-0 Sheff Wed, L 1-2 Oxford. Away league W 2-0 at Mansfield, L 0-2 at Wycombe, L 0-2 at Reading. Trophy/cup wins v Burton 3-0, Altrincham 5-4. Survival fight per Sports Mole.",
+  "away_form": "Stevenage league away: D 2-2 at Leicester, L 0-2 at Bradford, L 0-1 at Orient; home W 3-0 Plymouth, L 0-1 MK Dons, W 1-0 Wigan. Cup/Trophy W 1-0 at Oxford, 6-5 Fulham U21. Playoff-chasing.",
+  "trends": "Game totals: Stevenage league games 4,1,3,2,1,1 goals (low); Notts league home 2,2,3. Team totals: Stevenage away scored 2,0,0. Handicap: neither side has lost a league game by 3+ in last 10; Notts home margins 0,+2,-1. No sides lost by 2+ often.",
+  "h2h": "First meeting since March 2019; Notts unbeaten in last four v Stevenage (Sports Mole).",
+  "absences": "Notts: Lipsiuc and Finneran back from international duty; LiveScore reports clean bill of health. Stevenage: Luther James-Wildin and Jordan Roberts doubts.",
+  "context": "Previews predict 2-1, 1-0, 1-1 - cagey. Stevenage tight defensive side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.2,
+    "p": 0.8021,
+    "why": "tight. Notts favourite p only 0.42 so +1.5 catch allowed. Stevenage are a low-event side (league games mostly 1-3 goals) and have lost by 2 just twice (at Bradford; plus 0-2 type results); Notts home margins +2 max. My p 0.80."
+   }
+  ],
+  "avoid": [
+   "Over 2.5 / BTTS",
+   "Notts 1X2 (fragile, survival side)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/notts-county/preview/notts-county-vs-stevenage-prediction-team-news-lineups_609383.html",
+   "https://livescore.com/en/news/football/england-league-one/league-one-predictions-all-12-week-16-games",
+   "https://www.squawka.com/en/news/previews/notts-county-vs-stevenage-predictions-saturday-21-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72221398",
+  "fx": "Chelsea v Leeds United",
+  "home_form": "Chelsea PL home: W 2-0 Man Utd, L 0-2 Spurs, W 5-1 Bournemouth, D 2-2 Hull; away L 0-1 Sunderland (last before break), W 2-0 Everton, L 0-3 Brentford, L 1-2 Arsenal. Cup W 6-3 Leeds (EFL Cup, 9 Sep), out v Liverpool on pens (7-6 SR).",
+  "away_form": "Leeds PL away: L 0-2 Bournemouth, D 0-0 Sunderland, L 1-2 Arsenal, D 1-1 Brighton (no away league win in last 4); home W 1-0 Spurs, D 1-1 Man Utd, D 0-0 Palace, W 4-1 Newcastle.",
+  "trends": "Game totals: Leeds league games 1,2,0,2,3,0,5,2,2 goals (Under 2.5 in 6/9). Chelsea home league 2,2,6,4. Team totals: Leeds away scored 0,0,1,1. 1H: Leeds league HTs mostly 0-0/0-1. Handicap: Chelsea home wins by 2 and 4, plus loss and draw.",
+  "h2h": "Chelsea beat Leeds 6-3 in the EFL Cup on 9 Sep 2026 (SR, HT 0-1).",
+  "absences": "Chelsea: Reece James (knee), Lacroix out; Joao Pedro doubt/out (thigh, missed 4); Caicedo doubt (illness on Ecuador duty); Emi Martinez doubt; Hato, Acheampong fitness checks; Gittens back training. Leeds: full squad bar Mateo Joseph (knee); Stach back; Rodon fitness test.",
+  "context": "First game after international break; Chelsea lost last game before break and have several South American returnees (Caicedo) and no main striker. Fragile favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.3,
+    "p": 0.7449,
+    "why": "tight. Chelsea p 0.48 (<0.55) so +1.5 allowed. Leeds low-scoring defensive profile (6/9 Under 2.5), Chelsea possibly without Joao Pedro and Caicedo. Leeds lost by 2+ only to Bournemouth and in the 6-3 cup tie. My p 0.76."
+   }
+  ],
+  "avoid": [
+   "Chelsea 1X2/DNB (fragile favourite: striker out, Caicedo doubt; DNB sim win only 0.49)",
+   "Over 2.5",
+   "BTTS Yes"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/chelsea/preview/chelsea-vs-leeds-prediction-team-news-lineups_609370.html",
+   "https://thefalse9.com/2026/11/chelsea-vs-leeds-predicted-lineup-team-news-21-november.html",
+   "https://lastwordonsports.com/football/2026/11/20/chelsea-vs-leeds-united-2/",
+   "https://www.vavel.com/en/football/2026/11/20/1280002-preview-leeds-united-v-chelsea.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74379718",
+  "fx": "Young Boys Bern v FC Thun",
+  "home_form": "YB: W 3-2 at Luzern, L 3-5 Zurich (H), W 2-0 St Gallen (H), W 5-0 at Taverne (cup), W 2-0 at GC, W 2-1 at Aarau, W 3-2 Servette (H), D 2-2 at Lugano, D 3-3 Luzern (H), W 4-2 at Zurich. Unbeaten in 8 per preview apart from Zurich loss.",
+  "away_form": "Thun (defending champions): D 3-3 Basel (H), W 3-1 Hearts (UECL), W 5-4 at Lausanne, L 2-3 Lugano (H), L 0-1 Hajduk, W at Schaffhausen (cup, pens), L 0-1 at Twente, L 2-4 at Zurich, W 2-1 at Vaduz, L 2-4 Servette (H).",
+  "trends": "Game totals: YB league games 5,8,2,5,4,4,6,6 goals (Over 2.5 6/8); Thun league 6,9,5,6,3,6 (Over 2.5 6/6). BTTS: Thun league games 6/6 BTTS; YB league 6/8. 1H: YB HTs busy (3-2, 1-1, 1-2). Reverse fixture Thun 0-6 YB (Aug 2026).",
+  "h2h": "Thun 0-6 YB on 1 Aug 2026; YB 8-3 at Thun May 2026.",
+  "absences": "No confirmed absences found in sources.",
+  "context": "Swiss league is a high-scoring league; Thun leak goals away from home (fragile defence per sport.de).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.22,
+    "p": 0.7911,
+    "why": "tight. Thun league games all 3+ goals (6/6), YB 6/8; H2H 6-0 and 8-3. Swiss league high scoring. My p 0.82."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.36,
+    "p": 0.6993,
+    "why": "Second family. Thun have scored in 8/9 recent and every league game had BTTS; YB conceded in 6/8 league games. Correlated with Over 2.5 - do not put both on the same slip. My p 0.73."
+   }
+  ],
+  "avoid": [
+   "YB -1.5 (3-5 home loss to Zurich, Thun scoring)",
+   "Unders of any kind"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Swiss_Super_League",
+   "https://www.sport.de/sportwetten/tipps/bsc-young-boys-vs-fc-thun-berner-oberland-wett-tipp-21-11-2026/",
+   "https://footystats.org/switzerland/bsc-young-boys-vs-fc-thun-h2h-stats/predictions"
+  ]
+ },
+ {
+  "eid": "sr:match:73495554",
+  "fx": "Bursaspor v Bordo BK",
+  "home_form": "Bursaspor BSL home 0-4: L 59-78 Fenerbahce, L 83-86 Karsiyaka, L 80-90 Bahcesehir, L 69-78 Turk Telekom. Away: L 71-76 at Besiktas, W 93-88 at Galatasaray, L 64-83 at Cayirova, L 76-82 at Trabzonspor.",
+  "away_form": "Bordo BSL away 0-4: L 78-95 at Cayirova, L 68-102 at Galatasaray, L 80-83 at Trabzonspor, L 89-90 at Tofas. Home strong: W 83-75 Karsiyaka, W 103-88 Bahcesehir, W 79-66 Telekom.",
+  "trends": "Game totals: Bursaspor last 10 totals 147,137,169,147,170,181,147,158,161,174 (9/10 under 175.5); Bordo 158,173,191,170,145,163,164,179,152,154 (8/10 under 175.5). Bursaspor scoring 59-93, avg ~73. Line ~161.5. Handicap: coin flip, both 0-4 in respective venue.",
+  "h2h": "Bordo 83-71 Bursaspor (5 Sep 2026, preseason/cup t4788).",
+  "absences": "None found.",
+  "context": "Neither team in Europe - no midweek fatigue. Home team listed at Nilufer Tofas Spor Salonu, 20:30 TRT (17:30 UTC) - matches board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=175.5",
+    "desc": "Under 175.5",
+    "odds": 1.26,
+    "p": 0.7676,
+    "why": "tight. Bursaspor are the lowest-scoring side of these (59-93, 9/10 games under 175.5); Bordo 8/10 under. Line 14 points above centre. My p 0.80 (house 0.77 passes basketball totals p>=0.74)."
+   }
+  ],
+  "avoid": [
+   "Either ML/handicap (both 0-4 at that venue - no edge)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bursasaati.com.tr/bursaspor-basketbol-sahasinda-galibiyet-ariyor-rakip-pizza-bulls-bordo-bk",
+   "https://www.sporekrani.com/home/match/493814/2026/11/21/bursaspor-bandirma-bordo-basketbol-super-ligi-hangi-kanalda",
+   "https://www.habermeydan.com/spor/besiktas-bursaspor-engelini-kayipsiz-asti-h229572/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432178",
+  "fx": "Pallacanestro Trieste 2004 v Pallacanestro Reggiana",
+  "home_form": "Trieste LBA home 3-1: W 116-100 Roma, W 108-99 Verona, W 92-72 Cantu, L 82-87 Venezia. Away: L 89-90 at Napoli, W 100-93 at Virtus Bologna, L 84-85 at Varese, L 79-83 at Milan. Every loss by <=5.",
+  "away_form": "Reggiana LBA: L 84-99 Varese (H), L 78-83 Venezia (H), L 68-81 at Treviso, W 81-60 Cantu, L 81-94 at Verona, W 93-86 Derthona. Lost 4 of last 5 LBA. Played BCL on Tue 17/11 at Utena (Lithuania, W 102-95) - long trip.",
+  "trends": "Game totals: Trieste last 8 LBA totals 179,216,193,207,164,169,162,169; Reggiana 183,162,149,141,175,179. Team totals: Trieste home scored 116,108,92,82 (3/4 over 88.5). Handicap: Trieste never lost by more than 5 in 8 LBA games; Reggiana lost LBA aways by 13 and 13.",
+  "h2h": "Trieste lost badly at Reggiana in March 2026 amid an injury emergency (Pianetabasket).",
+  "absences": "No current injury news found for either side (search returned only old items).",
+  "context": "Reggiana fatigue: BCL away Tuesday in Lithuania, poor LBA form. Trieste no midweek game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=5.5",
+    "desc": "Home (+5.5)",
+    "odds": 1.25,
+    "p": 0.7806,
+    "why": "tight. Trieste have not lost by more than 5 in any of 8 LBA games, 3-1 at home; Reggiana lost 4 of 5 LBA and travelled to Lithuania midweek. My p 0.80."
+   },
+   {
+    "mid": "227",
+    "spec": "total=88.5",
+    "desc": "Over 88.5",
+    "odds": 1.62,
+    "p": 0.5921,
+    "why": "Different family (home team total). Trieste scored 116/108/92/82 at home; Reggiana conceded 99, 83, 81, 94 in recent LBA games. My p 0.63."
+   }
+  ],
+  "avoid": [
+   "Trieste ML (house p 0.64 < 0.75 rule)",
+   "Game total Under"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.pianetabasket.com/legabasket-serie-a/trieste-e-il-disastro-annunciato-tonfo-a-reggio-emilia-e-improvvisa-emergenza-infortuni-356258",
+   "https://en.wikipedia.org/wiki/Pallacanestro_Trieste"
+  ]
+ },
+ {
+  "eid": "sr:match:72478722",
+  "fx": "Real Madrid v Celta",
+  "home_form": "Real Madrid: 5 straight league wins - W 3-0 at Valencia, W 3-0 at Santander, W 2-1 at Barcelona, W 4-1 Sevilla (H), W 1-0 Villarreal (H); UCL W 3-2 at AEK, W 4-1 Leipzig, W 4-3 at Roma; L 1-2 at Atletico (Sep).",
+  "away_form": "Celta: W 5-0 at Salamanca (Copa), D 0-0 Levante (H), L 1-2 Union SG (UEL), L 0-3 at Vallecano, D 0-0 Betis, W 2-1 at Celtic (UEL), W 2-1 Alaves, D 0-0 at Elche. Only 10 league goals in 12.",
+  "trends": "Game totals: Celta league games 0,3,0,3,0 (low); RM league 3,3,3,5,1. Team totals: RM scored 3,3,2,4,1 league (Over 1.5 4/5); Celta scored 0,0,0,2,0 in last 5 league. 1H: RM HT leads in 4 of last 6. Handicap: RM league margins +3,+3,+1,+3,+1. BTTS No in RM league 3/5, Celta league 4/5.",
+  "h2h": "No current-season meeting found.",
+  "absences": "Real Madrid: Rodrygo (knee), Asencio (leg), Mendy (thigh) out; Tchouameni and Bernardo Silva back in training (Silva status conflicting); Vinicius available after suspension. Celta: Borja Iglesias (soleus/calf) out/doubt, Miguel Roman doubtful, Starfelt and Alvaro Nunez doubts.",
+  "context": "Both sides in Europe next week (RM UCL, Celta UEL) - possible rotation but RM at home chasing title; Celta expected to defend deep (Hard Tackle).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Home (-1.0)",
+    "odds": 1.23,
+    "p": 0.7859,
+    "why": "tight. Loses only if RM fail to win (house ~0.17); win by 1 = refund. 5 straight league wins, Vinicius back, Celta 10 league goals in 12 and leading striker Iglesias out. My p (not losing) 0.83."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "No",
+    "odds": 1.8,
+    "p": 0.5294,
+    "why": "Different family. Celta blanked in 4 of last 5 league games and Iglesias out; RM kept clean sheets in 3 of last 5 league games. My p 0.58."
+   }
+  ],
+  "avoid": [
+   "Celta team Over 0.5 / BTTS Yes",
+   "RM -2.5"
+  ],
+  "confidence": 0.35,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/real-madrid/injury-news/injuries-and-suspensions/tchouameni-bernardo-rodrygo-updates-real-madrid-injury-suspension-news-vs-celta_609336.html",
+   "https://thehardtackle.com/round-up/2026/11/20/real-madrid-vs-celta-vigo-preview-prediction-probable-lineups-tactics-team-news-key-stats",
+   "https://www.espn.com/soccer/story/_/id/50530429/real-madrid-vs-celta-vigo-tv-channel-how-watch-uk-kickoff-live-stream-team-news-referee-predicted-lineups",
+   "https://www.whoscored.com/matches/1993958/preview/spain-laliga-2026-2027-real-madrid-celta-vigo"
+  ]
+ }
+]

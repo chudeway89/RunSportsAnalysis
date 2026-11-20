@@ -1,0 +1,591 @@
+[
+ {
+  "eid": "sr:match:75452316",
+  "fx": "Hebraica Macabi v Club Atletico Atenas",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "LUB regular season. Hebraica Macabi 4-2 run, beat Union Atletica 96-76 and Nacional 83-78. Atenas lost 99-71 at Goes and 2-8 in last 10 (away 1-4, conceding 88). Tips 22:15 UTC Nov 20, so it may already be live when the slate is built.",
+  "news": "Atenas were thrashed by Goes 99-71; Hebraica Macabi climbed into the top group. No injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.05 is too short. The -16.5 centre is fair. No catch: data show Hebraica lost 6 of last 10 (inconsistent).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.elobservador.com.uy/basquetbol/goes-vapuleo-atenas-y-es-puntero-la-liga-uruguaya-basquetbol-hebraica-macabi-supero-union-atletica-y-trepo-la-zona-alta-la-tabla-posiciones-n6063453",
+   "https://ladiaria.com.uy/deporte/articulo/2026/11/liga-uruguaya-ganaron-defensor-sporting-y-aguada/",
+   "https://www.elobservador.com.uy/basquetbol/hebraica-macabi-vencio-83-78-nacional-que-perdio-tres-sus-primeros-cuatro-partidos-la-liga-uruguaya-basquetbol-n6063092"
+  ]
+ },
+ {
+  "eid": "sr:match:73697022",
+  "fx": "Cleveland Cavaliers v Indiana Pacers",
+  "sport": "basketball",
+  "absences": "CLE: Evan Mobley OUT (toe), Nae'Qwan Tomlin OUT; Peyton Watson, Jaylon Tyson day-to-day. IND: Tyrese Haliburton OUT (hamstring), Ben Sheppard OUT, Johnny Furphy OUT season, Andrew Nembhard day-to-day.",
+  "context": "Both teams are short of a core player. CLE 4-6 last 10, IND 3-7 (away 1-3).",
+  "news": "Mobley and Haliburton both out; Nembhard questionable.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Skip. CLE +4.5 (p .767) loses value without Mobley, and both totals are hard to read with two creators missing.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://www.espn.com/nba/injuries",
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_07_00AM.pdf",
+   "https://www.talkbasket.net/229297-nba-injury-report-reaves-sengun-cade-listed-on-friday-november-20",
+   "https://wncoam.iheart.com/content/2026-11-20-pacers-vs-cavaliers-injury-report-nov-20/"
+  ]
+ },
+ {
+  "eid": "sr:match:73697024",
+  "fx": "Detroit Pistons v Toronto Raptors",
+  "sport": "basketball",
+  "absences": "TOR: Kawhi Leonard OUT (knee management), RJ Barrett OUT (hamstring strain), Collin Murray-Boyles OUT (concussion). DET: Jalen Duren OUT (hamstring, 2+ weeks), Robinson OUT, Cade Cunningham PROBABLE (knee soreness; expected to play).",
+  "context": "DET 7-3 last 10. TOR 2-8 last 10, lost the last 3 home games, and is missing 3 rotation pieces including its 2 best wings.",
+  "news": "Raptors without Kawhi, Barrett and Murray-Boyles. Cade expected to play.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=3.5",
+    "desc": "Home (+3.5)",
+    "odds": 1.25,
+    "p": 0.7785,
+    "why": "Named mechanism: TOR missing Kawhi, Barrett and Murray-Boyles; DET 7-3 and Cade expected. Trend 0.75. My p ~0.81 vs house 0.778. Risk: Cade late scratch, so verify before posting."
+   }
+  ],
+  "avoid": "DET -6.5: Duren out thins the margin.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://www.espn.com/nba/injuries",
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_07_00AM.pdf",
+   "https://www.talkbasket.net/229297-nba-injury-report-reaves-sengun-cade-listed-on-friday-november-20",
+   "https://www.nba.com/news/raptors-updates-barrett-murray-boyles"
+  ]
+ },
+ {
+  "eid": "sr:match:75452310",
+  "fx": "Defensor Sporting v Club Nacional",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "LUB. Defensor Sporting 5-0 at home (last 10), 5-2 this season after Liga Sudamericana duty. Nacional lost 3 of its first 4 and is 2-3 away, conceding 92.6.",
+  "news": "Defensor beat Larranaga 91-85 and Hebraica 86-76. Nacional started 1-3.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Defensor ML p .61 and the -3.5 centre are fair. No line gives Defensor a catch above 0.74 in the band.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.elobservador.com.uy/basquetbol/goes-vapuleo-atenas-y-es-puntero-la-liga-uruguaya-basquetbol-hebraica-macabi-supero-union-atletica-y-trepo-la-zona-alta-la-tabla-posiciones-n6063453",
+   "https://ladiaria.com.uy/deporte/articulo/2026/11/liga-uruguaya-ganaron-defensor-sporting-y-aguada/",
+   "https://www.elobservador.com.uy/basquetbol/hebraica-macabi-vencio-83-78-nacional-que-perdio-tres-sus-primeros-cuatro-partidos-la-liga-uruguaya-basquetbol-n6063092"
+  ]
+ },
+ {
+  "eid": "sr:match:73697004",
+  "fx": "Chicago Bulls v Washington Wizards",
+  "sport": "basketball",
+  "absences": "CHI: Caleb Wilson OUT (hand surgery), Noa Essengue PROBABLE. WAS: Reece Beekman OUT (shoulder).",
+  "context": "Two bottom-half teams (CHI 3-7, WAS 2-8 last 10). Near pick'em; high-total profile.",
+  "news": "Only minor absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin flip. No pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://www.espn.com/nba/injuries",
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_07_00AM.pdf",
+   "https://www.talkbasket.net/229297-nba-injury-report-reaves-sengun-cade-listed-on-friday-november-20",
+   "https://heavy.com/sports/nba/chicago-bulls/injury-report-vs-wizards-november-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73697006",
+  "fx": "Oklahoma City Thunder v New Orleans Pelicans",
+  "sport": "basketball",
+  "absences": "NOP: Dejounte Murray OUT (ankle), Bennedict Mathurin OUT, Trendon Watford OUT, Bryce McGowens OUT, Trey Murphy III QUESTIONABLE. OKC: Chet Holmgren OUT (knee), Nikola Topic OUT, Thomas Sorber OUT, Alex Caruso QUESTIONABLE.",
+  "context": "NOP 3-7 last 10, conceding 125.8 (137 away). OKC 5-5 recent, but 2-1 at home allowing 102.7.",
+  "news": "Pelicans missing 4 rotation players, with Murphy doubtful too; OKC missing Holmgren.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8336,
+    "why": "Named mechanism: NOP without Murray, Mathurin and Watford, and Murphy questionable; they lost by 31 and 34 in recent games. My p ~0.86 vs house 0.834. Note OKC trend only 0.6 (Holmgren out)."
+   }
+  ],
+  "avoid": "OKC -11.5 centre: Holmgren out caps the margin.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://www.espn.com/nba/injuries",
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_07_00AM.pdf",
+   "https://www.talkbasket.net/229297-nba-injury-report-reaves-sengun-cade-listed-on-friday-november-20",
+   "https://heavy.com/sports/nba/oklahoma-city-thunder/injury-report-vs-pelicans-november-20/"
+  ]
+ },
+ {
+  "eid": "sr:match:75326646",
+  "fx": "Hobart Hurricanes v Sydney Thunder",
+  "sport": "cricket",
+  "absences": "none found (women's league)",
+  "context": "WBBL|12 match 29, Bellerive/Ninja Stadium Hobart. Hurricanes 0 wins, last; Thunder 4th. Date and venue agree.",
+  "news": "Women's competition: only the date and venue were checked, and they agree.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks by rule.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cricket.com.au/matches/series/CA:4687/weber-wbbl-12",
+   "https://femalecricket.com/wbbl12/100477-hobart-hurricanes-vs-sydney-thunder-wbbl-2026-match-29-where-to-watch-squads-and-pitch-report.html",
+   "https://www.cricket.com.au/news/4607709/wbbl-close-finishes-high-scores-centuries-crowds-highlights-wbbl12-womens-big-bash"
+  ]
+ },
+ {
+  "eid": "sr:match:73697008",
+  "fx": "Utah Jazz v Phoenix Suns",
+  "sport": "basketball",
+  "absences": "UTA: Lauri Markkanen OUT (wrist), Jaren Jackson Jr. OUT (knee), Jusuf Nurkic OUT (foot). PHX: Mark Williams OUT (shoulder).",
+  "context": "Utah 3-13 and 0-3 at home in the sample. Phoenix 6-4 last 10. Utah's top 2 scorers and starting C are all out.",
+  "news": "Jazz without Markkanen, JJJ and Nurkic; the Suns only lack Mark Williams.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-6.5",
+    "desc": "Away (+6.5)",
+    "odds": 1.24,
+    "p": 0.7872,
+    "why": "Named mechanism: Utah missing Markkanen, Jackson Jr. and Nurkic; PHX is a credible receiver. Trend 0.75. My p ~0.84 vs house 0.787."
+   }
+  ],
+  "avoid": "Phoenix -4.5 (house centre): fair.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://www.espn.com/nba/injuries",
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_07_00AM.pdf",
+   "https://www.talkbasket.net/229297-nba-injury-report-reaves-sengun-cade-listed-on-friday-november-20",
+   "https://foxsportsabq.iheart.com/content/2026-11-20-suns-vs-jazz-injury-report-nov-20/"
+  ]
+ },
+ {
+  "eid": "sr:match:73697012",
+  "fx": "Denver Nuggets v Houston Rockets",
+  "sport": "basketball",
+  "absences": "HOU: Clint Capela OUT (ankle), Alperen Sengun QUESTIONABLE (eye), Steven Adams QUESTIONABLE (quad). DEN: none confirmed.",
+  "context": "Both 7-3 last 10. Houston's frontcourt depends on Sengun's status.",
+  "news": "Sengun questionable and Capela out for Houston.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Near pick'em. Revisit only if Sengun is ruled out (then DEN handicap value). No pick now.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://www.espn.com/nba/injuries",
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_07_00AM.pdf",
+   "https://www.talkbasket.net/229297-nba-injury-report-reaves-sengun-cade-listed-on-friday-november-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73697010",
+  "fx": "Los Angeles Lakers v Sacramento Kings",
+  "sport": "basketball",
+  "absences": "LAL: Austin Reaves OUT. SAC: Ben Simmons OUT season, Precious Achiuwa DOUBTFUL, De'Andre Hunter QUESTIONABLE.",
+  "context": "Lakers 9-1 last 10. Kings 1-9 and lost 6 straight on the board (5 by 7+).",
+  "news": "Reaves out for LA; Kings thin in the frontcourt.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-5.5",
+    "desc": "Home (-5.5)",
+    "odds": 1.25,
+    "p": 0.7798,
+    "why": "Mechanism: SAC 1-9 with Achiuwa doubtful and Hunter questionable vs a 9-1 LAL. Trend 0.80. My p ~0.79, about equal to house 0.78, because Reaves out trims the margin. Secondary only."
+   }
+  ],
+  "avoid": "LAL ML 1.12 is below the band. No Kings catches (15+ for a weak side is banned).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.covers.com/sport/basketball/nba/injuries",
+   "https://www.espn.com/nba/injuries",
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-20_07_00AM.pdf",
+   "https://www.talkbasket.net/229297-nba-injury-report-reaves-sengun-cade-listed-on-friday-november-20"
+  ]
+ },
+ {
+  "eid": "sr:match:75326648",
+  "fx": "Sydney Sixers v Perth Scorchers",
+  "sport": "cricket",
+  "absences": "none found (women's league)",
+  "context": "WBBL|12 match 30, North Sydney Oval. Sixers and Scorchers both started 4-0. Date and venue agree.",
+  "news": "Women's: date and venue agree across sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks by rule.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cricket.com.au/matches/series/CA:4687/weber-wbbl-12",
+   "https://femalecricket.com/wbbl12/100477-hobart-hurricanes-vs-sydney-thunder-wbbl-2026-match-29-where-to-watch-squads-and-pitch-report.html",
+   "https://www.cricket.com.au/news/4607709/wbbl-close-finishes-high-scores-centuries-crowds-highlights-wbbl12-womens-big-bash"
+  ]
+ },
+ {
+  "eid": "sr:match:76113586",
+  "fx": "Fata Region v Islamabad Region",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Quaid-e-Azam Trophy Gold 2026-27, 16th match, Islamabad, 21-24 Nov per ESPNcricinfo (the page text was jumbled). First-class 4-day match; draws are common, so the DNB market fits.",
+  "news": "Fixture listed on Cricinfo for 21-24 Nov; no preview found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin data; no pick.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cricinfo.com/series/quaid-e-azam-trophy-gold-2026-27-1561011/match-schedule-fixtures-and-results"
+  ]
+ },
+ {
+  "eid": "sr:match:76189078",
+  "fx": "Sri Lanka A v Hong Kong, China",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Asia Cup Rising Stars 2026 (50 overs), Group A, UDST Doha, 06:00 GMT. Sri Lanka A are strong favourites over associate Hong Kong.",
+  "news": "Time and venue confirmed (09:00 local Doha).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "SL A ML 1.14 is below the band. No in-band market has a mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.wisden.com/series/asia-cup-rising-stars-2026-m/cricket-news/rising-stars-asia-cup-2026-all-you-need-to-know-full-schedule-format-squads-venues-and-match-timings",
+   "https://sports.yahoo.com/articles/rising-stars-asia-cup-2026-194900123.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76634452",
+  "fx": "Omr Checker v Elite Cricket Academy",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Pune Olympia T20 Trophy: local/amateur competition, only 3 markets, no data.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amateur: no picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74293514",
+  "fx": "Lions v South Western Districts",
+  "sport": "cricket",
+  "absences": "none found (women's)",
+  "context": "CSA women's List-A, Lions v South Western Districts (the board also labels the side Garden Route Badgers). Women's competition.",
+  "news": "no news found; the team naming differs within the board (SWD vs Garden Route Badgers), but it is the same franchise.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks by rule.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75363880",
+  "fx": "Australia v England",
+  "sport": "cricket",
+  "absences": "AUS: Pat Cummins and Josh Hazlewood rested; Mahli Beardman, Xavier Bartlett (injured) and Nathan Ellis (side strain) OUT; Billy Stanlake called up; Henry Thornton in line to debut; Josh Inglis sitting out. ENG: Jofra Archer, Joe Root, Ben Duckett not in the T20I squad; Brook captains, Cox to keep.",
+  "context": "1st T20I of 5, MCG, Sat 21 Nov. Australia's pace attack is heavily depleted.",
+  "news": "Australia without 5 frontline quicks; England at full T20 strength apart from Archer.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "England 1.85 (p .51): the depleted Aussie attack is a real mechanism, but the edge is below 15pp and outside the extreme bands. Optional lean only, no pick.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.cricinfo.com/series/england-in-australia-2026-27-1528677/australia-vs-england-1st-t20i-1528706/match-preview",
+   "https://www.cricket.com.au/news/4611669/australia-v-england-t20-series-guide-preview-team-squad-news-broadcast-details-tickets-harper-debut-brook-rew-marsh-david",
+   "https://www.flashscore.com/news/aussie-sensation-beardman-out-of-england-t20is-along-with-bartlett/djpDs5s9/"
+  ]
+ },
+ {
+  "eid": "sr:match:76189080",
+  "fx": "Bangladesh A v Afghanistan A",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Asia Cup Rising Stars, Group A, West End Park Doha, 10:00 GMT. A-teams (development sides). Recent Bangladesh A games are full of ties and 1-run finishes.",
+  "news": "Time and venue confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No pick; close, low-information match.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.wisden.com/series/asia-cup-rising-stars-2026-m/cricket-news/rising-stars-asia-cup-2026-all-you-need-to-know-full-schedule-format-squads-venues-and-match-timings",
+   "https://sports.yahoo.com/articles/rising-stars-asia-cup-2026-194900123.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73528724",
+  "fx": "Atletic Club d'Escaldes v FC Santa Coloma",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Andorra Primera Divisio, Estadi Comunal, 11:00 local (=10:00 UTC, matches the board). FC Santa Coloma lead the table 7W 1D (22 pts), scoring 2.9 per game. Atletic Escaldes 4-3-3, solid at home (concede 1.25).",
+  "news": "Leaders Santa Coloma unbeaten; fixture confirmed by BetExplorer only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7806,
+    "why": "Fixture-specific: Santa Coloma avg 2.9 GF, last 6 all had 2+ goals; trend 1.0 over 20 games. My p ~0.81 vs house 0.781."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.7505,
+    "why": "Leader 7-1-0 vs a mid-table host. DNB protects the draw (host drew 2 of 4 at home). My p ~0.77, trend 0.625, so secondary."
+   }
+  ],
+  "avoid": "Santa Coloma 1X2 at 1.6 (away result-side p .58 < 0.75).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.betexplorer.com/football/andorra/primera-divisio/",
+   "https://www.sofascore.com/football/team/inter-club-descaldes/37946",
+   "https://www.365scores.com/football/team/casa-de-portugal-93087/standings",
+   "https://en.yenisafak.com/sports/football/live-match/inter-club-escaldes-casa-de-portugal-2110715"
+  ]
+ },
+ {
+  "eid": "sr:match:76710066",
+  "fx": "Brescia Lions v Napoli Knights",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Italia T10: amateur, only 3 markets.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amateur: no picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76838306",
+  "fx": "Lumbini Lions v Sudurpaschim Royals",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "NPL Season 3 FINAL, TU Ground Kirtipur, 5:00 PM NST (=11:15 UTC, matches the board). Lumbini Lions beat Sudurpaschim in the opener (by 7 wkts) and in Qualifier 1 (by 6 wkts, 17 Nov). H2H on the board: 3 one-run/three-run margins.",
+  "news": "Final confirmed; Lumbini 2-0 v Sudurpaschim this season.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lumbini 1.57 (p .61) is a knockout result-side, so no pick by rule; lean Lumbini only.",
+  "confidence": 0.2,
+  "sources": [
+   "https://nplcricketleague.com/schedule",
+   "https://kathmandupost.com/cricket/2026/09/20/lumbini-lions-to-face-sudurpaschim-royals-in-npl-opener"
+  ]
+ },
+ {
+  "eid": "sr:match:76741776",
+  "fx": "NC Magra v MSP Batna",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Algeria Ligue 2 (East). NC Magra solid at home (concede 0.4), MSP Batna 6-2-2. Low-scoring league.",
+  "news": "no specific news found; standings sources conflict (Footlive vs Foot-actu).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No O1.5 (thin league). U3.5 p .80 < 0.82.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footlive.fr/classement/algerie/ligue-2/",
+   "https://www.matchendirect.fr/algerie/ligue-2_9hh6n2f84k31zmlcxyvmc1w2y/calendrier/",
+   "https://fr.wikipedia.org/wiki/Championnat_d'Alg%C3%A9rie_de_football_de_deuxi%C3%A8me_division_2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:76741770",
+  "fx": "Nrb Teleghma v JS Djidjel",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Algeria Ligue 2. Teleghma near the bottom (21st, 9 pts per Footlive). Djidjel 0 GF in 4 away games.",
+  "news": "Fixture confirmed 21 Nov 13:00 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U3.5 1.15 is below the band. No result-side.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footlive.fr/classement/algerie/ligue-2/",
+   "https://www.matchendirect.fr/algerie/ligue-2_9hh6n2f84k31zmlcxyvmc1w2y/calendrier/",
+   "https://fr.wikipedia.org/wiki/Championnat_d'Alg%C3%A9rie_de_football_de_deuxi%C3%A8me_division_2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:76741778",
+  "fx": "Paradou AC v Nrb Nezla",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Algeria Ligue 2. Paradou 4-1 at home (2.0 GF); Nezla 0-5 away, conceding 2.2. Paradou beat JSM Skikda 1-0 on 10 Nov. Data conflict on Nezla's status (Wikipedia: IRB Nezla promoted from Inter-regions; 365Scores lists it in Ligue 2 East).",
+  "news": "Paradou beat Skikda 1-0; Nezla's identity/league is ambiguous between sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Paradou 1.31 is a plausible home leg, but given the data conflict on Nezla, skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footlive.fr/classement/algerie/ligue-2/",
+   "https://www.matchendirect.fr/algerie/ligue-2_9hh6n2f84k31zmlcxyvmc1w2y/calendrier/",
+   "https://fr.wikipedia.org/wiki/Championnat_d'Alg%C3%A9rie_de_football_de_deuxi%C3%A8me_division_2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:76741782",
+  "fx": "USM Annaba v MO Constantine",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Algeria Ligue 2. USM Annaba (5th, unbeaten at home, conceding 0.2) v MO Constantine (beat Chaouia 2-1 on 7 Nov; 0W in 5 away). An eastern big-club regional rivalry.",
+  "news": "Fixture confirmed 21 Nov 13:00 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Regional big-club clash: no result-side. U2.5 p .61 < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footlive.fr/classement/algerie/ligue-2/",
+   "https://www.matchendirect.fr/algerie/ligue-2_9hh6n2f84k31zmlcxyvmc1w2y/calendrier/",
+   "https://fr.wikipedia.org/wiki/Championnat_d'Alg%C3%A9rie_de_football_de_deuxi%C3%A8me_division_2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:73528730",
+  "fx": "Inter Club de Escaldes v CE Casa de Portugal",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Andorra Primera Divisio. Inter 2nd (18 pts) v Casa de Portugal 8th (2-2-4).",
+  "news": "DATE/VENUE CONFLICT: Sofascore/BetExplorer give 21 Nov 13:00-14:00 at Estadi Comunal; 365Scores gives 22 Nov 13:00; Yeni Safak gives 22 Nov 16:00 at Aixovall.",
+  "veto": true,
+  "veto_reason": "Date/venue conflict between sources (21 Nov Estadi Comunal vs 22 Nov Aixovall)",
+  "picks": [],
+  "avoid": "Veto: date/venue conflict.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/andorra/primera-divisio/",
+   "https://www.sofascore.com/football/team/inter-club-descaldes/37946",
+   "https://www.365scores.com/football/team/casa-de-portugal-93087/standings",
+   "https://en.yenisafak.com/sports/football/live-match/inter-club-escaldes-casa-de-portugal-2110715"
+  ]
+ },
+ {
+  "eid": "sr:match:76710068",
+  "fx": "Milan Icons v Venice Livewire",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Italia T10: amateur, only 3 markets.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amateur: no picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76103468",
+  "fx": "Desert Vipers v Mi Emirates",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "ILT20 Season 5 OPENER, Dubai International Stadium, 6:30 PM GST (=14:30 UTC). Rematch of the 2026 final (Vipers won by 46). Wikipedia gives a 22 Nov season start; most sources say 21 Nov.",
+  "news": "Opener confirmed for 21 Nov by most sources; one source (Wikipedia) says the season starts 22 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Opener (transition regime) plus a minor date discrepancy: no pick.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.yardbarker.com/cricket/articles/ilt20_unveils_complete_fixtures_of_season_5_defending_champions_desert_vipers_to_face_mi_emirates_in_opener/s1_17756_44401588",
+   "https://en.wikipedia.org/wiki/2026_International_League_T20"
+  ]
+ },
+ {
+  "eid": "sr:match:72814308",
+  "fx": "KF Teuta v KF Laci",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Albania Superiore round 12, 16:00 CET (=15:00 UTC, matches the board) per the official calendar. Teuta concede 0.5 per game (0.4 at home) but lost 0-1 three times in the last 4. Laci 9th (3W 2D 6L), 0 wins in 4 away.",
+  "news": "Official calendar (Balkanweb/Koha Jone): Teuta-Laci 21.11 16:00. Fotmob's Laci page shows 22 Nov, but the official FSHF calendar confirms 21 Nov, so the conflict is resolved.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Teuta DNB 1.23 (p .774, trend 0.61): Teuta's attack is blunt (3 blanks in 4). Skip. Low-scoring league, so no O1.5.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.balkanweb.com/abissnet-superiore-percaktohet-kalendari-nga-java-e-12-te-deri-ne-javen-e-18-te/",
+   "https://partizani.al/sq/",
+   "https://www.fotmob.com/teams/10031/overview/laci",
+   "https://www.fotmob.com/matches/partizani-vs-vllaznia/3btqqr",
+   "https://fshf.org/competition/abissnet-superiore/"
+  ]
+ },
+ {
+  "eid": "sr:match:72814306",
+  "fx": "Partizani Tirana v Vllaznia Shkoder",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Albania Superiore round 12, Air Albania stadium, 18:30 CET (=17:30 UTC, matches the board) per the club and the official calendar. Big-club clash (Partizani v Vllaznia). Partizani 0-4 at home in the sample.",
+  "news": "Partizani site confirms 21 Nov 18:30 at Air Albania. Fotmob showed 22 Nov 16:00 UTC (stale page), overruled by official sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result-side. U3.5 p .78 < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.balkanweb.com/abissnet-superiore-percaktohet-kalendari-nga-java-e-12-te-deri-ne-javen-e-18-te/",
+   "https://partizani.al/sq/",
+   "https://www.fotmob.com/teams/10031/overview/laci",
+   "https://www.fotmob.com/matches/partizani-vs-vllaznia/3btqqr",
+   "https://fshf.org/competition/abissnet-superiore/"
+  ]
+ },
+ {
+  "eid": "sr:match:75257088",
+  "fx": "New South Wales Blues v Queensland Bulls",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Sheffield Shield, SCG, 22-25 Nov local (board 23:30 UTC 21 Nov = 10:30 AEDT 22 Nov, consistent). Queensland ahead of NSW in the early table. NSW Test players may be released or held.",
+  "news": "Cricket.com.au lists 21-25 Nov, others 22-25 Nov; consistent with the UTC kick-off. CricketWorld says the venue is 'SCG or Cricket Central', pending confirmation.",
+  "veto": true,
+  "veto_reason": "Venue not confirmed (SCG vs Cricket Central per CricketWorld/CricketWebs)",
+  "picks": [],
+  "avoid": "No pick (4-day match, venue not fully confirmed).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sydneycricketground.com.au/events/sheffield_shield_26_nsw_v_queensland_bulls",
+   "https://www.cricket.com.au/matches/series/CA:4689/sheffield-shield-2026-27",
+   "https://www.austadiums.com/sport/comp/sheffield-shield/fixture"
+  ]
+ }
+]

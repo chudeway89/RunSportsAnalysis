@@ -1,0 +1,741 @@
+[
+ {
+  "eid": "sr:match:67912880",
+  "fx": "FC Samgurali Tskaltubo v FC Iberia 1999",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Round 33 of 36: Iberia 1999 (defending champions) lead on ~60 pts, Dinamo Batumi 59, so Iberia must win; Samgurali 7th (~39 pts) with nothing to play for. Fixture confirmed Sat 21 Nov (worldfootball.net). Standings snapshots disagree between sources.",
+  "news": "Title race: Iberia 1st by a point, must win at mid-table Samgurali. No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.46,
+    "p": 0.637312,
+    "why": "DNB Iberia: title-race must-win v a 7th-placed side with no motivation; Samgurali 2W in last 10. My p(win | no draw) ~0.67 v house 0.64."
+   }
+  ],
+  "avoid": "Iberia 1X2 (p 0.48, below the 0.75 away gate); Over 1.5 in a thin league (house p 0.78 mid-band)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.worldfootball.net/competition/co1426/erovnuli-liga",
+   "https://x.com/fmeetsdata/status/2117207040623775809",
+   "https://www.sofascore.com/football/match/fc-iberia-1999-dinamo-batumi/XVosmBW"
+  ]
+ },
+ {
+  "eid": "sr:match:72513988",
+  "fx": "1 FC Nuremberg v Eintracht Braunschweig",
+  "sport": "football",
+  "absences": "Nürnberg: Zoma (top scorer, 7 in 8; shoulder surgery, out to late Dec), Becker (meniscus), Mandic (knee), Faye; Lubach doubtful (knock). Braunschweig: Di Benedetto (knee), Jäkel, Tempelmann (knee), Koutsidis (thigh) and Entrup (ankle) per one preview; Ehlers one booking from a ban.",
+  "context": "Matchday 12, kick-off 13:00 CET confirmed. Nürnberg 2nd (24 pts), Braunschweig 13th (11 pts), 4 points above the relegation play-off; Braunschweig 0/4 away (0.5 GF, 2.25 GA).",
+  "news": "Nürnberg without top scorer Zoma; Braunschweig missing up to five, including forwards Koutsidis and Entrup. Sources disagree on the full Braunschweig list.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.7822328403,
+    "why": "Braunschweig lost all 4 away (0.5 GF) and are missing attackers. Zoma's absence blunts Nürnberg's win chance but not the 1X. My p ~0.80."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.34,
+    "p": 0.7190296469,
+    "why": "DNB Nürnberg: 2nd v 13th, and the visitors are 0/4 away. My p ~0.74 (Zoma out keeps it near house)."
+   }
+  ],
+  "avoid": "Over 2.5 / Nürnberg team Over 1.5 (Zoma out); Home -1",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fussballnationalmannschaft.net/nuernberg-braunschweig-aufstellung-2-bundesliga-123337252.html",
+   "https://www.wettfreunde.net/zweite-liga-tipps/nuernberg-braunschweig-tipp-ki-prognose-quoten-21-11-2026/",
+   "https://sports.yahoo.com/articles/2-bundesliga-preview-1-fc-150800865.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73111820",
+  "fx": "AJ Auxerre v Dijon FCO",
+  "sport": "football",
+  "absences": "youth fixture: no news searched beyond the date",
+  "context": "U19 National, matchday 12. Fixture not found in any source for 21 Nov (no conflict, just unconfirmed). Auxerre 16 pts, Dijon 11 (Group B).",
+  "news": "Youth (U19) fixture; date unconfirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth, U19; no clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footmercato.net/france/championnat-national-u19/classement",
+   "https://www.ouest-france.fr/sport/football/rc-lens/calendrier-resultats/"
+  ]
+ },
+ {
+  "eid": "sr:match:73111852",
+  "fx": "EA Guingamp v Stade Brestois 29",
+  "sport": "football",
+  "absences": "youth fixture: no news searched beyond the date",
+  "context": "U19 National, matchday 12. Guingamp v Brest (Group C) listed at 14:30 CET, consistent with the board.",
+  "news": "Youth (U19) fixture; date confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth, U19; no clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footmercato.net/france/championnat-national-u19/classement",
+   "https://www.ouest-france.fr/sport/football/rc-lens/calendrier-resultats/"
+  ]
+ },
+ {
+  "eid": "sr:match:73111704",
+  "fx": "LOSC Lille v RC Lens",
+  "sport": "football",
+  "absences": "youth fixture: no news searched beyond the date",
+  "context": "U19 National, matchday 12. Lille v Lens (Group A) listed at 14:30 CET, consistent with the board.",
+  "news": "Youth (U19) fixture; date confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth, U19; no clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footmercato.net/france/championnat-national-u19/classement",
+   "https://www.ouest-france.fr/sport/football/rc-lens/calendrier-resultats/"
+  ]
+ },
+ {
+  "eid": "sr:match:73080452",
+  "fx": "Chantilly v Racing Club De France 92",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "National 1 Group A, matchday 10, 14:30 CET confirmed by the Ouest-France programme. Chantilly are last (16th, 3 pts, no wins all season, GD -16); Racing 4th (18 pts), unbeaten in 6 away (5W 1D).",
+  "news": "Bottom v 4th; Chantilly are still winless. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.19,
+    "p": 0.7955864787,
+    "why": "Chantilly 0 wins all season (0W in last 10, 0.67 GF at home); Racing 5W 1D away. My p ~0.84."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.3,
+    "p": 0.72252,
+    "why": "DNB Racing: same mechanism, a winless bottom side. My p ~0.76."
+   }
+  ],
+  "avoid": "Racing 1X2 (p 0.53, below the away gate); goals markets (amateur tier)",
+  "confidence": 0.3,
+  "sources": [
+   "https://footamateur.ouest-france.fr/national-1-le-programme-complet-des-20-et-21-novembre-2026/",
+   "https://statfootballclubfrance.fr/championnat.php?id=2792",
+   "https://www.footmercato.net/live/2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:72524034",
+  "fx": "AS Cannes v SC Aubagne Air Bel",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Ligue 3 matchday 13, Sat 14:45 CET. Cannes 7th (18 pts), unbeaten at home (3W 1D, GA 0.5); Aubagne lower table, 1W in 6 away with 0.5 GF.",
+  "news": "Ouest-France preview: Cannes host bottom-half Aubagne. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.804706,
+    "why": "DNB Cannes: unbeaten at home and conceding 0.5; Aubagne score 0.5 away. My p ~0.82."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.52,
+    "p": 0.626763,
+    "why": "Cannes win: same mechanism. My p ~0.65."
+   }
+  ],
+  "avoid": "Aubagne team Under 1.5 (Under gate needs p >= 0.82)",
+  "confidence": 0.3,
+  "sources": [
+   "https://footamateur.ouest-france.fr/ligue-3-le-programme-et-les-enjeux-de-la-treizieme-journee",
+   "https://www.foot-direct.com/live/6006629941946420712-le-puy-vs-paris-13-atletico",
+   "https://epreuves.fff.fr/competition/engagement/1-ligue-3-betclic/phase/1/1/accueil"
+  ]
+ },
+ {
+  "eid": "sr:match:72524024",
+  "fx": "FC Fleury 91 v FC Rouen",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Ligue 3 matchday 13. Rouen 2nd (26 pts) chasing leaders La Roche; Fleury 9th (16). Both sides' recent games are high scoring (Fleury 7-5, 3-2; Rouen 4-3, 2-3).",
+  "news": "Fleury v Rouen confirmed by Ouest-France. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.24,
+    "p": 0.7713900815,
+    "why": "Rouen to score: they scored in 19 of the last 20 games across both sides' records (trend 0.95), averaging 2.6 away; Fleury concede 1.7. My p ~0.81."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.27,
+    "p": 0.7566281954,
+    "why": "Fixture-specific trend 0.9; Fleury's last 6 averaged 3.8 goals and Rouen's 3.0. My p ~0.79."
+   }
+  ],
+  "avoid": "Result sides (2nd v 9th, but Fleury are unbeaten in 1 of 2 at home)",
+  "confidence": 0.3,
+  "sources": [
+   "https://footamateur.ouest-france.fr/ligue-3-le-programme-et-les-enjeux-de-la-treizieme-journee",
+   "https://www.foot-direct.com/live/6006629941946420712-le-puy-vs-paris-13-atletico",
+   "https://epreuves.fff.fr/competition/engagement/1-ligue-3-betclic/phase/1/1/accueil"
+  ]
+ },
+ {
+  "eid": "sr:match:72524030",
+  "fx": "FC Versailles 78 v Football Bourg-En-Bresse Peronnas 01",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Ligue 3 matchday 13. Versailles 4th (22 pts) host bottom-of-table Bourg-en-Bresse (1W in 10, 0.8 GF).",
+  "news": "Ouest-France: Versailles host a relegation-zone side. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.38,
+    "p": 0.695884,
+    "why": "Versailles 6W in 10 (3W 1D 1L at home) v Bourg on 1W in 10. Motivation: top-3 race. My p ~0.71."
+   }
+  ],
+  "avoid": "Home -1.5; BTTS",
+  "confidence": 0.25,
+  "sources": [
+   "https://footamateur.ouest-france.fr/ligue-3-le-programme-et-les-enjeux-de-la-treizieme-journee",
+   "https://www.foot-direct.com/live/6006629941946420712-le-puy-vs-paris-13-atletico",
+   "https://epreuves.fff.fr/competition/engagement/1-ligue-3-betclic/phase/1/1/accueil"
+  ]
+ },
+ {
+  "eid": "sr:match:72524026",
+  "fx": "La Roche Vendee Football v US Concarneau",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Ligue 3 matchday 13: leaders La Roche (27 pts) v 6th Concarneau (20). Top-six clash; La Roche unbeaten at home (3W 1D).",
+  "news": "Leaders v 6th. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.35,
+    "p": 0.6926823345,
+    "why": "Leaders unbeaten at home in 4. Concarneau are good (5W 4D 1L), so this sits near house. My p ~0.71."
+   }
+  ],
+  "avoid": "Home win, BTTS; Under 3.5 (p 0.77, below the Under gate)",
+  "confidence": 0.2,
+  "sources": [
+   "https://footamateur.ouest-france.fr/ligue-3-le-programme-et-les-enjeux-de-la-treizieme-journee",
+   "https://www.foot-direct.com/live/6006629941946420712-le-puy-vs-paris-13-atletico",
+   "https://epreuves.fff.fr/competition/engagement/1-ligue-3-betclic/phase/1/1/accueil"
+  ]
+ },
+ {
+  "eid": "sr:match:72524028",
+  "fx": "Le Puy-En Velay FC v Paris 13 Atletico",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Ligue 3 matchday 13, 14:45 CET confirmed (Foot Direct). Le Puy unbeaten at home (3W 2D, 2.4 GF); Paris 13 Atletico 0W in 4 away (0.75 GF). Standings tables conflict (8th/11th v 13th/9th).",
+  "news": "No team news; standings sources disagree.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.21,
+    "p": 0.7853844306,
+    "why": "Le Puy unbeaten at home; Paris 13 without an away win and scoring 0.75 away. My p ~0.81."
+   }
+  ],
+  "avoid": "Away +0.5; BTTS",
+  "confidence": 0.3,
+  "sources": [
+   "https://footamateur.ouest-france.fr/ligue-3-le-programme-et-les-enjeux-de-la-treizieme-journee",
+   "https://www.foot-direct.com/live/6006629941946420712-le-puy-vs-paris-13-atletico",
+   "https://epreuves.fff.fr/competition/engagement/1-ligue-3-betclic/phase/1/1/accueil"
+  ]
+ },
+ {
+  "eid": "sr:match:72524038",
+  "fx": "Quevilly-Rouen Metropole v Valenciennes FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Ligue 3 matchday 13. QRM unbeaten at home (3W 1D); Valenciennes 15th (10 pts), 1W in 5 away with 1.8 GA.",
+  "news": "Struggling Valenciennes travel to QRM. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.53,
+    "p": 0.599391447,
+    "why": "QRM unbeaten at home in 4; Valenciennes 15th with 1 away win. Trend 0.8 v house 0.60. My p ~0.64."
+   }
+  ],
+  "avoid": "Valenciennes DNB/1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://footamateur.ouest-france.fr/ligue-3-le-programme-et-les-enjeux-de-la-treizieme-journee",
+   "https://www.foot-direct.com/live/6006629941946420712-le-puy-vs-paris-13-atletico",
+   "https://epreuves.fff.fr/competition/engagement/1-ligue-3-betclic/phase/1/1/accueil"
+  ]
+ },
+ {
+  "eid": "sr:match:72524040",
+  "fx": "SC Bastia v FC Villefranche-Beaujolais",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Ligue 3 matchday 13. Bastia 13th (15 pts) host Villefranche, who are poor away (1W in 5, 2.8 GA).",
+  "news": "Listed in the Ouest-France J13 programme. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.19,
+    "p": 0.798632,
+    "why": "Villefranche concede 2.8 away with 1W in 5; Bastia 1L in their last 6. My p ~0.81."
+   }
+  ],
+  "avoid": "Bastia -0.5 (only 1W in 5 at home)",
+  "confidence": 0.25,
+  "sources": [
+   "https://footamateur.ouest-france.fr/ligue-3-le-programme-et-les-enjeux-de-la-treizieme-journee",
+   "https://www.foot-direct.com/live/6006629941946420712-le-puy-vs-paris-13-atletico",
+   "https://epreuves.fff.fr/competition/engagement/1-ligue-3-betclic/phase/1/1/accueil"
+  ]
+ },
+ {
+  "eid": "sr:match:72700304",
+  "fx": "RC Lens v Montpellier FC",
+  "sport": "football",
+  "absences": "women's fixture: not searched beyond the date",
+  "context": "Première Ligue matchday 10, 16:00 CET at Stade François-Blin (consistent). Lens 12th (3 pts), Montpellier 9th (6).",
+  "news": "Women's fixture; date/venue confirmed; no mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's, no clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footmercato.net/programme-tv/france/feminine-division-1",
+   "https://www.betexplorer.com/football/france/premiere-ligue-women/",
+   "https://www.espn.com/soccer/schedule/_/league/fra.w.1"
+  ]
+ },
+ {
+  "eid": "sr:match:67912878",
+  "fx": "FC Dinamo Batumi v FC Rustavi",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Erovnuli Liga title run-in: Dinamo Batumi 2nd (59 pts, one behind Iberia), 6/6 home wins (GA 0.5); Rustavi 4th (56 pts) and still mathematically in the race. Claim (X, unverified) that Batumi are banned from Europe by UEFA, which would not affect the title motivation.",
+  "news": "Title-race six-pointer; Batumi perfect at home. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.21,
+    "p": 0.7759843202,
+    "why": "Batumi 6W from 6 at home conceding 0.5, must win to stay in the title race. My p ~0.80."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.34,
+    "p": 0.6998159687,
+    "why": "DNB Batumi: same mechanism (home record plus must-win). My p ~0.73."
+   }
+  ],
+  "avoid": "Batumi 1X2 (Rustavi are a top-4 side); Overs",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.worldfootball.net/competition/co1426/erovnuli-liga",
+   "https://x.com/fmeetsdata/status/2117207040623775809",
+   "https://www.sofascore.com/football/match/fc-iberia-1999-dinamo-batumi/XVosmBW"
+  ]
+ },
+ {
+  "eid": "sr:match:74041584",
+  "fx": "FC Limonest Dardilly Saint-Didier v FC Goal",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "National 1 Group C, matchday 10. Lyon-metro local derby (Limonest v GOAL FC); Limonest 12th (8 pts). Sources disagree on the kick-off (statfootballclubfrance 17:00 CET v others).",
+  "news": "Local derby; kick-off time inconsistent across listings.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources; also a local derby with no result-side allowed",
+  "picks": [],
+  "avoid": "Everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://footamateur.ouest-france.fr/national-1-le-programme-complet-des-20-et-21-novembre-2026/",
+   "https://statfootballclubfrance.fr/championnat.php?id=2792",
+   "https://www.footmercato.net/live/2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:74041588",
+  "fx": "GFA Rumilly-Vallieres v Nimes",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "National 1 Group C: Nîmes 1st. Date and fixture conflict: OneFootball has Rumilly v Nîmes on 21 Nov at 17:00 UTC (board 16:00 UTC); Foot Direct and Graden list Rumilly v Nîmes on 7 Nov (J9); Footmercato lists Nîmes at home to Saint-Priest on 21 Nov.",
+  "news": "Sources conflict on the date, kick-off and Nîmes's opponent.",
+  "veto": true,
+  "veto_reason": "Date/kick-off/opponent conflict (7 Nov v 21 Nov; Nîmes also listed v Saint-Priest on 21 Nov; 16:00 v 17:00 UTC)",
+  "picks": [],
+  "avoid": "Everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://onefootball.com/en/match/2730974",
+   "https://www.foot-direct.com/resultats/gfa-rumilly-vallieres-vs-nimes-olympique",
+   "https://www.graden.fr/event/gfa-rumilly-vallieres-nimes-olympique",
+   "https://www.footmercato.net/live/2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:73080504",
+  "fx": "Aviron Bayonnais FC v Tarbes Pyrenees",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "National 1 Group B, matchday 10. Bayonne 3rd (17 pts); Tarbes very low scoring (0.56 GF, 0.56 GA, 0.2 GF away). Kick-off: Ouest-France/Footmercato 18:00 CET (= board), statfootballclubfrance 19:00.",
+  "news": "Kick-off listed at 18:00 by two sources and 19:00 by one.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (18:00 v 19:00 CET)",
+  "picks": [],
+  "avoid": "Everything (veto). Had it passed: DNB Bayonne 1.22, BTTS No",
+  "confidence": 0.15,
+  "sources": [
+   "https://footamateur.ouest-france.fr/national-1-le-programme-complet-des-20-et-21-novembre-2026/",
+   "https://statfootballclubfrance.fr/championnat.php?id=2792",
+   "https://www.footmercato.net/live/2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:74349348",
+  "fx": "Estac Troyes 2 v Lyon La Duchere",
+  "sport": "football",
+  "absences": "reserve side (Troyes B): not searched beyond the date",
+  "context": "National 1 Group C, 18:00 CET confirmed. Troyes reserves 3rd (16 pts), strong at home (4W 1D); La Duchère 13th (8 pts), 0W in 4 away.",
+  "news": "Reserve team (Estac Troyes 2); fixture confirmed; no clear mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (reserve side, no clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://footamateur.ouest-france.fr/national-1-le-programme-complet-des-20-et-21-novembre-2026/",
+   "https://statfootballclubfrance.fr/championnat.php?id=2792",
+   "https://www.footmercato.net/live/2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:73080618",
+  "fx": "FC Hauts Lyonnais v EFC Frejus Saint-Raphael",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "National 1 Group C, matchday 10/11, 18:00 CET at Stade Thomas Granjon (most sources). Hauts Lyonnais 2nd after J9 per Sports Infos; another table has them 7th. Fréjus scoring 2.2 per game. One listing mislabels it National 2 / 17:00 (UTC), which matches the board.",
+  "news": "Fixture confirmed; standings snapshots conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 at p 0.78 in an amateur tier (thin-league Over killer class); result sides (near pick'em)",
+  "confidence": 0.15,
+  "sources": [
+   "https://footamateur.ouest-france.fr/national-1-le-programme-complet-des-20-et-21-novembre-2026/",
+   "https://statfootballclubfrance.fr/championnat.php?id=2792",
+   "https://www.footmercato.net/live/2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:73080430",
+  "fx": "US Creteil-Lusitanos v Saint-Pryve Saint-Hilaire FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "National 1 Group A, 18:00 CET. Créteil 5th (17 pts), 4W in 5 at home (2.8 GF, 0.6 GA); Saint-Pryvé 1W in 10, 1W in 6 away.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.642256,
+    "why": "Créteil 4/5 home wins scoring 2.8; Saint-Pryvé 1W in 10. My p ~0.66."
+   }
+  ],
+  "avoid": "Home -1.5; BTTS",
+  "confidence": 0.25,
+  "sources": [
+   "https://footamateur.ouest-france.fr/national-1-le-programme-complet-des-20-et-21-novembre-2026/",
+   "https://statfootballclubfrance.fr/championnat.php?id=2792",
+   "https://www.footmercato.net/live/2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:73080474",
+  "fx": "Vendee Poire-Sur-Vie Football v US Avranches",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "National 1 Group B, 18:00 CET. Avranches 2nd (20 pts), 5W in 6 away (2.17 GF, 0.67 GA); Le Poiré 12th (10 pts).",
+  "news": "2nd travels to 12th; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.28,
+    "p": 0.7274502892,
+    "why": "Avranches 7W 2D 1L overall and 5/6 away wins conceding 0.67. My p ~0.76."
+   }
+  ],
+  "avoid": "Avranches 1X2 (p 0.43, away gate)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.ouest-france.fr/sport/football/resultats-matchs/match-briochin-dinan-lehon-1202-1060/",
+   "https://epreuves.fff.fr/competition/engagement/2-n1/phase/1/2/resultats-et-calendrier",
+   "https://footamateur.ouest-france.fr/national-1-le-programme-complet-des-20-et-21-novembre-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72700310",
+  "fx": "Le Havre AC v FC Nantes",
+  "sport": "football",
+  "absences": "women's fixture: not searched beyond the date",
+  "context": "Première Ligue matchday 10, 18:00 CET at Stade Océane (consistent). Nantes 6th (12), Le Havre 8th (9).",
+  "news": "Women's fixture; date confirmed; no mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's, no clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footmercato.net/programme-tv/france/feminine-division-1",
+   "https://www.betexplorer.com/football/france/premiere-ligue-women/",
+   "https://www.espn.com/soccer/schedule/_/league/fra.w.1"
+  ]
+ },
+ {
+  "eid": "sr:match:73080406",
+  "fx": "Entente Feignies Aulnoye v Colmar",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "National 1 Group A, 18:30 CET confirmed. Feignies 6th (16 pts), unbeaten at home (3W 2D, GA 0.6); Colmar 1W in 5 away (0.6 GF, 1.8 GA).",
+  "news": "Fixture confirmed (Ouest-France); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.77209,
+    "why": "Feignies unbeaten at home in 5 (GA 0.6); Colmar score 0.6 away. Trend 0.85. My p ~0.80."
+   }
+  ],
+  "avoid": "BTTS / Overs (low-scoring sides)",
+  "confidence": 0.3,
+  "sources": [
+   "https://footamateur.ouest-france.fr/national-1-le-programme-complet-des-20-et-21-novembre-2026/",
+   "https://statfootballclubfrance.fr/championnat.php?id=2792",
+   "https://www.footmercato.net/live/2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:73111656",
+  "fx": "US Quevilly-Rouen Metropole v Paris Saint-Germain FC",
+  "sport": "football",
+  "absences": "youth fixture: not searched beyond the date",
+  "context": "U19 National Group A: PSG 19 pts from 10, Quevilly 10. Fixture not found for 21 Nov in any source (unconfirmed, no conflict).",
+  "news": "Youth fixture; date unconfirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth; date unconfirmed, so Over 2.5 in the mismatch is skipped too)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footmercato.net/france/championnat-national-u19/classement",
+   "https://www.ouest-france.fr/sport/football/rc-lens/calendrier-resultats/"
+  ]
+ },
+ {
+  "eid": "sr:match:73080510",
+  "fx": "Stade Briochin v Dinan-Lehon FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "National 1 Group B, matchday 10, 19:00 CET at Stade Fred-Aubert (= board 18:00 UTC). Côtes-d'Armor derby. Briochin 11th (10 pts), Dinan 5th (15). Briochin won the last meeting 3-1.",
+  "news": "Local Breton derby; fixture confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (derby rule); Unders below the 0.82 gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ouest-france.fr/sport/football/resultats-matchs/match-briochin-dinan-lehon-1202-1060/",
+   "https://epreuves.fff.fr/competition/engagement/2-n1/phase/1/2/resultats-et-calendrier",
+   "https://footamateur.ouest-france.fr/national-1-le-programme-complet-des-20-et-21-novembre-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72037466",
+  "fx": "Reims v Saint-Etienne",
+  "sport": "football",
+  "absences": "Reims: Maël Debondt, Mory Gbane, Lenny Sylla, Hafiz Umar Ibrahim (injured). Saint-Étienne: first-choice keeper Gautier Larsonneur out, Paul Eymard and Elyes Dhaoui out; Svetlin return disputed (ICI says back, Foot-sur7 not fit).",
+  "context": "Ligue 2 matchday 13, Sat 20:00 CET. Promotion contenders (both relegated from L1). Away fans banned by the Interior Ministry. Treated as a big-club clash: no result-side.",
+  "news": "Four Reims absentees; ASSE without keeper Larsonneur; ASSE travelling support banned.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.23,
+    "p": 0.7824242665,
+    "why": "Reims unbeaten in 9 of 10 (home 2W 2D 0L) and ASSE's away travel weaker (GA 1.67) with no travelling fans; the favourite is only p 0.43, so +1.5 is allowed. My p ~0.80."
+   }
+  ],
+  "avoid": "1X2/DNB either way (big-club clash); ASSE to score (away team-to-score class)",
+  "confidence": 0.25,
+  "sources": [
+   "https://madeinsaint-etienne.ouest-france.fr/infos/article-stade-de-reims-quatre-absents-dans-le-groupe-remois-pour-le-match-face-a-l-asse-546431.html",
+   "https://www.envertetcontretous.fr/articles/ligue-2-de-nombreux-retours-a-l-asse-avant-d-affronter-reims-76142-1.html",
+   "https://www.foot-sur7.fr/795917-reims-asse-une-decision-ministerielle-qui-passe-mal-a-saint-etienne"
+  ]
+ },
+ {
+  "eid": "sr:match:72036294",
+  "fx": "Lille v Lyon",
+  "sport": "football",
+  "absences": "Lille: Tiago Santos (ACL, season), Igamane (back in Dec), Ueda doubtful (not in full training). Lyon: Morton (abductor surgery), Sulc (meniscus), Openda (fractured fibula), Ouedraogo (ACL, season), Mata (muscle); Kango possibly back.",
+  "context": "Ligue 1 matchday 11, Sat 20:45 CET at Pierre-Mauroy (Le Petit Lillois, Footmercato, Flashscore). Lille 2nd, 4 pts ahead of 5th Lyon ('six-pointer'). Lyon's first game under Carlos Vicens after Fonseca left for Sporting. Goal's TV page shows 11:45 and Topmercato's URL says 22-11, but five French sources confirm Sat 20:45 CET (= board 19:45 UTC), so this is flagged data_conflict, not vetoed.",
+  "news": "New-coach bounce risk for Lyon; Lyon missing five, including Openda, Sulc and Morton; Ueda doubtful for Lille.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.28,
+    "p": 0.7545126624,
+    "why": "Lille to score: Lille unbeaten at home (3W 1D 1L); Lyon concede 1.83 away with 1W in 6 and are without Morton/Sulc in midfield. My p ~0.78."
+   }
+  ],
+  "avoid": "All result sides (big-club clash, new-coach unknown); Lyon +1.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.whoscored.com/matches/1984146/preview/france-ligue-1-2026-2027-lille-lyon",
+   "https://lepetitlillois.com/2026/11/20/losc-ol-match-six-points-ligue-1/",
+   "https://www.footmercato.net/a6903944127761288659-ol-le-premier-groupe-de-carlos-vicens-pour-le-deplacement-a-lille",
+   "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-lille-v-lyon/blte1a6105848db616f"
+  ]
+ },
+ {
+  "eid": "sr:match:72036300",
+  "fx": "Monaco v AJ Auxerre",
+  "sport": "football",
+  "absences": "Monaco: Ansu Fati (hamstring, late Dec); Idumbo, Mawissa and Golovin doubts; Dier fit. Auxerre: Namaso out (ankle from international duty), Diousse and Okoh (ACL), Sekou Fofana (groin); Makosso doubt; Dioubate back from suspension.",
+  "context": "Ligue 1 matchday 11. Monaco unbeaten at home (4W 2D, GA 0.67); Auxerre 1W in 5 away conceding 3.6.",
+  "news": "Auxerre lose forward Namaso; Monaco without Fati, with Golovin a doubt.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.47,
+    "p": 0.672674,
+    "why": "Monaco unbeaten at home in 6; Auxerre concede 3.6 away and are missing Namaso, Diousse and Okoh. My p ~0.69."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.44,
+    "p": 0.671076,
+    "why": "Monaco 2+ goals: Auxerre's away defence (3.6 GA, lost 1-5 and 1-4 recently). My p ~0.70."
+   }
+  ],
+  "avoid": "Home -1.5 (Golovin doubt); Over 1.5 at 1.15 (below the odds floor)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.rotowire.com/soccer/headlines/danny-namaso-injury-ruled-out-against-monaco-547412",
+   "https://www.whoscored.com/matches/1984157/preview/france-ligue-1-2026-2027-monaco-auxerre",
+   "https://www.sportsmole.co.uk/football/as-monaco/preview/monaco-vs-auxerre-prediction-team-news-lineups_609420.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72700314",
+  "fx": "Paris Saint-Germain W v Saint Malo",
+  "sport": "football",
+  "absences": "women's fixture",
+  "context": "Première Ligue matchday 10. Footmercato: 21:00 CET on Canal+ (= board 20:00 UTC); ESPN: 15:00 at PSG's Poissy training centre.",
+  "news": "Kick-off and venue conflict between Footmercato and ESPN.",
+  "veto": true,
+  "veto_reason": "Kick-off/venue conflict (21:00 CET v 15:00 CET Poissy)",
+  "picks": [],
+  "avoid": "Everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footmercato.net/programme-tv/france/feminine-division-1",
+   "https://www.betexplorer.com/football/france/premiere-ligue-women/",
+   "https://www.espn.com/soccer/schedule/_/league/fra.w.1"
+  ]
+ }
+]

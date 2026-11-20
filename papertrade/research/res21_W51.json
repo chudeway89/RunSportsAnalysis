@@ -1,0 +1,743 @@
+[
+ {
+  "eid": "sr:match:72340040",
+  "fx": "Millwall FC v Queens Park Rangers",
+  "sport": "football",
+  "absences": "Millwall: Derek Mazou-Sacko suspended (Daniel Kelly in); Filip Marschall, Tristan Crama, Ryan Leonard injured; Lukas Jensen and Casper De Norre hoped back. QPR: Nicolas Madsen and Rumarn Burrell back in full training; Tariq Lamptey back in training.",
+  "context": "Millwall 16th, 1 win in 6. QPR beat Lincoln 2-1 last time out (Glen Kamara late winner). QPR away 0-3-2 this season. First game after the international break.",
+  "news": "Millwall short-handed (suspension plus 3 injuries) and in poor form; QPR getting Madsen/Burrell back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.7871,
+    "why": "Last 6: Millwall 5/6 and QPR 6/6 had 2+ goals (trend 0.85 v p 0.79); Millwall defence weakened by Mazou-Sacko ban and Crama injury. My p 0.80. Championship scoring is only ~2.5/game, so keep it as fill."
+   }
+  ],
+  "avoid": "Result sides (coin flip; QPR away 0-3-2 v Millwall 1 win in 6). Whole-line AH.",
+  "confidence": 0.25,
+  "sources": [
+   "https://dave.sport/news/millwall-vs-qpr-predicted-line-ups/",
+   "https://dave.sport/news/millwall-vs-qpr-injury-news-madsen-burrell/",
+   "https://www.whoscored.com/matches/1989085/preview/england-championship-2026-2027-millwall-queens-park-rangers"
+  ]
+ },
+ {
+  "eid": "sr:match:72341384",
+  "fx": "Blackpool FC v Wigan Athletic",
+  "sport": "football",
+  "absences": "Blackpool: sickness bug hit several players incl. Bailey Peacock-Farrell, George Honeyman, Finley Munroe. Wigan: Dara Costelloe and Luke Harris (forwards) still out.",
+  "context": "Blackpool parted with manager Ian Evatt this week, so this is the first game after the change (new-manager effect, unpredictable). Wigan away 2-0-4.",
+  "news": "Evatt gone at Blackpool; illness in their squad; Wigan short of two forwards and poor away.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.34,
+    "p": 0.7065,
+    "why": "Wigan away 2-0-4 at 1.17 goals per game and without Costelloe/Harris; Blackpool home 3-0-1. Their illness and the managerial change cap this. My p 0.71 (= house)."
+   }
+  ],
+  "avoid": "Blackpool win/DNB (managerial change and sickness bug); Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/blackpool/preview/blackpool-vs-wigan-prediction-team-news-lineups_609426.html",
+   "https://www.squawka.com/en/news/previews/blackpool-vs-wigan-predictions-saturday-21-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72342392",
+  "fx": "Gillingham FC v Crewe Alexandra",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Gillingham have won none of their last 8 L2 games but sit 2 points off the play-offs; Crewe were held late last weekend. Coin-flip prices.",
+  "news": "No team news; LiveScore tips 1-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: no mechanism, a coin flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livescore.com/en/news/football/tips/all-12-league-two-predictions-november-21-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72342396",
+  "fx": "Newport County v Swindon Town",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Newport home 3-1-2 (2.67 goals per game); Swindon away 1-1-3, conceded 4 at Grimsby last weekend while down to 10 men.",
+  "news": "No named absences found; Swindon were beaten 4-x by Grimsby last weekend.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.25,
+    "p": 0.758,
+    "why": "Swindon 2-3-5 in last 10 (1.0 goals per game), away 1-1-3, and conceded 4 at Grimsby last week; Newport score at home. My p 0.77."
+   }
+  ],
+  "avoid": "Unders; Swindon side.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livescore.com/en/news/football/tips/all-12-league-two-predictions-november-21-2026/",
+   "https://gtfc.co.uk/match-preview-rotherham-united-h"
+  ]
+ },
+ {
+  "eid": "sr:match:72340032",
+  "fx": "Bolton Wanderers v Portsmouth FC",
+  "sport": "football",
+  "absences": "Bolton: fully fit; four internationals returned without injury. Portsmouth: long injury list in Sept/Oct round-ups (stale, not confirmed for this game).",
+  "context": "Bolton have conceded 29 (a leaky defence) and lost to Derby before the break; home 1-0-4. Portsmouth away 1-3-1 with 0.4 scored and 0.4 conceded per game.",
+  "news": "Bolton fit but their defence is the talking point; nothing current on Pompey.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.41,
+    "p": 0.6725,
+    "why": "Bolton home 1-0-4 with 2.6 conceded per game and 29 conceded in total; Pompey lost 1 of 5 away. My p 0.68."
+   }
+  ],
+  "avoid": "Home side; Overs (Pompey away games average 0.8 total goals).",
+  "confidence": 0.25,
+  "sources": [
+   "https://the72.co.uk/2026/11/20/bolton-wanderers-team-news-predicted-xi-portsmouth/",
+   "https://championshipinsights.substack.com/p/championship-injury-round-up"
+  ]
+ },
+ {
+  "eid": "sr:match:72340036",
+  "fx": "Lincoln City v Wrexham AFC",
+  "sport": "football",
+  "absences": "Wrexham: Josh Windass, Callum O'Hare and Nathan Broadhead out.",
+  "context": "Lincoln have lost 6 of their last 8 (lost 2-1 at QPR last time). Wrexham away 0-1-3 with 0.25 scored per game. Low-scoring profile.",
+  "news": "Wrexham missing three attackers; Lincoln in a losing run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Overs (Wrexham blunt away and missing 3 forwards); Unders need p>=0.82 (U3.5 is 0.75); result sides are a coin flip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sports.yahoo.com/articles/wrexham-afc-vs-lincoln-city-180040459.html",
+   "https://www.si.com/soccer/wrexham-injury-news-latest-updates-potential-return-dates-seven-players"
+  ]
+ },
+ {
+  "eid": "sr:match:72340044",
+  "fx": "Sheffield United v Watford",
+  "sport": "football",
+  "absences": "Sheffield United: Femi Seriki out (season-ending injury); Patrick Bamford may return from a shoulder problem; Joe Rothwell may be back on the bench. Watford: Krepin Diatta has a slight hamstring issue but is likely in the squad.",
+  "context": "Blades have kept 3 clean sheets in 7; home 2-1-1 with 0.5 conceded per game. Watford away 0-0-4 (0.75 scored, 2.5 conceded per game).",
+  "news": "Blades favoured (LiveScore 2-0); Seriki long-term out; Bamford may return.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7893,
+    "why": "Watford have lost all 4 away games; Blades are tight at home (0.5 conceded per game, 3 clean sheets in 7). DNB covers the draw. My p 0.80."
+   }
+  ],
+  "avoid": "Watford side; the Watford team Under 1.5 is at p 0.78 (<0.82).",
+  "confidence": 0.3,
+  "sources": [
+   "https://sheffunitedway.co.uk/2026/11/19/sheffield-united-vs-watford-preview-2/",
+   "https://onefootball.com/en/news/sheffield-united-vs-watford-preview-43801773",
+   "https://www.livescore.com/en/news/football/england-championship/predictions/championship-predictions-all-12-matchday-16-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72340052",
+  "fx": "West Ham v Preston North End",
+  "sport": "football",
+  "absences": "West Ham: goalkeeper uncertain (Hermansen v Areola, Areola fitness doubts); Finlay Herrick has a fitness problem. Preston expected unchanged from the 1-0 win v Southampton (Callum Lang up front).",
+  "context": "Scott Parker's home debut as West Ham boss (\"must-win\"). West Ham 9th; Preston bottom (away 0-1-4). Caveat: West Ham only 1-1-3 at home this season.",
+  "news": "Preston bottom but won last time out; West Ham under a new manager with a goalkeeper question.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.7921,
+    "why": "Bottom side Preston are 0-1-4 away (2.8 conceded per game) v a new-manager home debut. Tempered by West Ham's 1-1-3 home record and the goalkeeper doubt. My p 0.78 (= house). Extreme-p leg, no edge claimed."
+   }
+  ],
+  "avoid": "Handicaps of -1.5 or more (trend 0.25); Preston +2.5 catch (fav p 0.79, rout class).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/west-ham-united/preview/west-ham-vs-preston-prediction-team-news-lineups_609387.html",
+   "https://claretandhugh.info/west-ham-v-preston-preview-team-news-lineups-as-parker-faces-must-win-home-debut",
+   "https://thehardtackle.com/round-up/2026/11/20/west-ham-vs-preston-preview-prediction-probable-lineups-tactics-team-news-key-stats/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341386",
+  "fx": "Bradford City FC v Doncaster Rovers",
+  "sport": "football",
+  "absences": "Bradford: midfielders Bobby Pointon and George Lapslie out injured. Doncaster: hope to welcome back 3 experienced players (unnamed).",
+  "context": "Bradford have the best defence in League One (8 conceded in 13); home 4-1-1 with 0.5 conceded per game. Doncaster near the drop zone, 3 wins in 13, lost 7 of 13; away 2-0-4 with 2.5 conceded per game. A stale (~97-day-old) Sky TV listing showed Wigan v Bradford on this date; the club matchday guide (19 Nov), Squawka and LiveScore all confirm Bradford v Doncaster at Valley Parade. Treated as resolved, not a veto.",
+  "news": "Duff confirms Pointon and Lapslie out; the club confirms the fixture; Squawka tips 1-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.7599,
+    "why": "Meanest defence v one of the leakiest away sides (Doncaster 7 losses in 13); DNB guards the draw. Pointon/Lapslie absences trim the attack. My p 0.77."
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.18,
+    "p": 0.8159,
+    "why": "The same mechanism; Bradford have lost 1 of their last 10 (5-4-1). My p 0.84."
+   }
+  ],
+  "avoid": "Overs (Bradford games are low-scoring); the Doncaster team Under 1.5 is p 0.75 (<0.82).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bradfordcityafc.com/news/2026/november/19/matchday-guide-bantams-v-doncaster-rovers",
+   "https://www.doncasterfreepress.co.uk/sport/football/doncaster-rovers/bradford-city-hit-with-real-blow-ahead-of-doncaster-rovers-clash-9344119",
+   "https://www.squawka.com/en/news/previews/bradford-vs-doncaster-predictions-saturday-21-11-2026/",
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-12-week-16-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341388",
+  "fx": "Burton Albion v Luton",
+  "sport": "football",
+  "absences": "Burton: concerns over Finn Delap, Caylan Vockers, Matthew Dennis, Kyran Lofthouse, George Evans. Luton: Hakeem Odoffin and Gideon Kodua expected to miss.",
+  "context": "Luton 8-1-1 in their last 10 (2.5 scored per game), away 3-1-1. Burton 3-2-5 with 2.0 conceded per game.",
+  "news": "Burton hit by 5 injury concerns; Luton miss two.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.29,
+    "p": 0.7453,
+    "why": "Luton 8-1-1 v a Burton side with 5 injury doubts; DNB because the away 1X2 p is 0.58 (<0.75). My p 0.77."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8027,
+    "why": "Luton games average 3.6 total goals and Burton concede 2.0 per game; trend 0.9 v p 0.80. My p 0.82."
+   }
+  ],
+  "avoid": "Away 1X2 (p<0.75); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-12-week-16-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341392",
+  "fx": "Huddersfield v Leicester",
+  "sport": "football",
+  "absences": "Huddersfield: Murray Wallace and Jack Whatmough (CBs) expected out; DSF and Joe Low over a stomach bug and available. Leicester: Jayden Joseph and Jakub Stolarczyk (GK) miss out; top scorer Emil Riis Jakobsen could return to the XI.",
+  "context": "Huddersfield top the table, unbeaten in 7 (5 wins). Leicester 11th, 10 points back, a big club chasing an immediate return. Venue name differs between sources (Accu Stadium per the club v John Smith's per Squawka): it is the same ground after a sponsor rename, not a real venue conflict.",
+  "news": "Leaders v a big-name side; Huddersfield missing 2 centre-backs; Leicester missing their first-choice GK.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.55,
+    "p": 0.6176,
+    "why": "Both attacks score 2.6\u20132.7 per game; Huddersfield lose two centre-backs (Wallace, Whatmough) and Leicester their GK Stolarczyk, while Riis may return. Trend 0.9 v p 0.62. My p 0.65."
+   }
+  ],
+  "avoid": "Result sides (big-club clash rule); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.htafc.com/news/2026/november/20/preview--leicester-city--h-",
+   "https://www.sportsmole.co.uk/football/huddersfield-town/preview/huddersfield-vs-leicester-prediction-team-news-lineups_609350.html",
+   "https://www.squawka.com/en/news/previews/huddersfield-vs-leicester-predictions-saturday-21-11-2026/",
+   "https://the72.co.uk/2026/11/19/huddersfield-town-vs-leicester-city-predictions/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341394",
+  "fx": "Leyton Orient London v AFC Wimbledon",
+  "sport": "football",
+  "absences": "Jayden Stockley serves a one-match ban (per WhoScored; the source does not make his club clear).",
+  "context": "London derby. Wimbledon away 0-1-4 with 2.4 conceded per game and 1-2-7 in their last 10. Orient home 4-0-2.",
+  "news": "Tipsters back Orient (2-0, 2-1); LiveScore 1-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.7787,
+    "why": "Wimbledon concede 2.4 per game away; Orient home games average 2.8 goals; trend 0.8 v p 0.78. My p 0.79. Fill-grade."
+   }
+  ],
+  "avoid": "Result sides (London derby rule), even though Wimbledon's away form is poor.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.whoscored.com/matches/1989612/preview/england-league-one-2026-2027-leyton-orient-afc-wimbledon",
+   "https://www.squawka.com/en/news/previews/leyton-orient-vs-afc-wimbledon-predictions-saturday-21-11-2026/",
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-12-week-16-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341396",
+  "fx": "Mansfield Town v Milton Keynes Dons",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "MK Dons have won their last 4 L1 games, 8-0-2 in their last 10 with 3.1 scored per game. Mansfield 4-3-3; Mansfield home games average 3.6 goals.",
+  "news": "MK Dons in form (LiveScore tips 1-2).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.8138,
+    "why": "MK Dons' last 6 had 8, 3, 3, 7, 5 and 1 goals; Mansfield home games average 3.6. Trend 0.9 v p 0.81. My p 0.83."
+   }
+  ],
+  "avoid": "Unders; Mansfield side.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-12-week-16-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341400",
+  "fx": "Oxford United v Wycombe Wanderers",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Two tight defences: Oxford concede 0.33 per game at home, Wycombe 0.75 per game away (2-2-0). Oxford have lost once in their last 6 home games v Wycombe. Local rivalry.",
+  "news": "No team news; LiveScore tips 2-1 Oxford.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Overs (both defences tight); Unders need p>=0.82 (the Wycombe team U2.5 is 0.80); result sides in a local rivalry.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-12-week-16-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341402",
+  "fx": "Plymouth Argyle v Peterborough United",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Plymouth 6th but have won 1 of their last 5. Peterborough away 1-1-4 (0.83 scored, 2.0 conceded per game); their last 6 read 0-3, 0-5, 0-2, 0-2, 1-1, 1-4 (scored 2, conceded 17).",
+  "news": "Plymouth in a dip but Posh in freefall; LiveScore tips 2-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.24,
+    "p": 0.7667,
+    "why": "Peterborough have scored 2 and conceded 17 in their last 6; Plymouth home 3-1-1. My p 0.79."
+   }
+  ],
+  "avoid": "Peterborough side; the +2 catch.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-12-week-16-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72342382",
+  "fx": "Accrington Stanley v Salford City",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Salford 7-1-2 in their last 10, away 4-0-2 with 2.83 scored per game; Accrington 5-3-2 with 2.4 scored per game. Both sides score freely.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7865,
+    "why": "Both score 2.3\u20132.4 per game; Salford away games average 4.7 goals; trend 0.85 v p 0.79. My p 0.81."
+   }
+  ],
+  "avoid": "Unders; Accrington side.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livescore.com/en/news/football/tips/all-12-league-two-predictions-november-21-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72342384",
+  "fx": "Barnet FC v Port Vale",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Barnet 7-2-1 with 2.9 scored per game; Port Vale 7-1-2 (lost 2 of their last 10) but away 0-1-2. Top-half clash.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.7803,
+    "why": "Barnet's last 6 had 6, 3, 2, 4, 2 and 4 goals; Vale's 6, 6, 6, 5, 2 and 2. Trend 0.9 v p 0.78. My p 0.81."
+   }
+  ],
+  "avoid": "Unders; result sides (two in-form sides).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livescore.com/en/news/football/tips/all-12-league-two-predictions-november-21-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72342386",
+  "fx": "Cheltenham Town v Bristol Rovers",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "West-country derby. Bristol Rovers have lost 8 of their last 10 and are 0-0-4 away (2.75 conceded per game); Cheltenham home 4-0-1 with 3.2 scored per game.",
+  "news": "Tipsters favour Cheltenham (2-1, 2-0); one source says 1-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.783,
+    "why": "Cheltenham home games average 5.6 goals and Rovers concede 2.75 per game away; trend 0.8 v p 0.78. My p 0.80."
+   }
+  ],
+  "avoid": "Result sides (derby rule), despite Rovers losing 8 of their last 10.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.squawka.com/en/news/previews/cheltenham-vs-bristol-rovers-predictions-saturday-21-11-2026/",
+   "https://www.livescore.com/en/news/football/tips/all-12-league-two-predictions-november-21-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72342388",
+  "fx": "Chesterfield FC v Shrewsbury Town",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Chesterfield 7th on 22 points; home 3-1-0 with 3.5 scored and 1.75 conceded per game. Shrewsbury away 3-1-0 with 2.5 scored per game. High-scoring profiles (Chesterfield's last 6: 2-0, 5-3, 4-3, 1-4, 5-1, 1-1).",
+  "news": "Tips are 2-1 and 2-2.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.7807,
+    "why": "Chesterfield home games average 5.25 goals and Shrewsbury away games 4.25; trend 0.85 v p 0.78. My p 0.82."
+   }
+  ],
+  "avoid": "Unders; the -1 handicap.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.squawka.com/en/news/previews/chesterfield-vs-shrewsbury-predictions-saturday-21-11-2026/",
+   "https://www.livescore.com/en/news/football/tips/all-12-league-two-predictions-november-21-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72342390",
+  "fx": "Crawley Town v Fleetwood Town",
+  "sport": "football",
+  "absences": "no news found (Fleetwood are managed by Kevin Blackwell until the end of the season)",
+  "context": "Crawley 2-2-6 in their last 10; Fleetwood 5-1-4 but away 0-0-3. Both concede (1.8 and 1.6 per game).",
+  "news": "LiveScore tips 1-2 Fleetwood.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8025,
+    "why": "Both concede 1.6\u20131.8 per game; Fleetwood games average 3.7 goals; trend 0.85 v p 0.80. My p 0.81."
+   }
+  ],
+  "avoid": "Fleetwood result side (0-0-3 away).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livescore.com/en/news/football/tips/all-12-league-two-predictions-november-21-2026/",
+   "https://www.crawleytownfc.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:72342394",
+  "fx": "Grimsby Town v Rotherham United",
+  "sport": "football",
+  "absences": "no news found (referee Jamie O'Connor)",
+  "context": "Grimsby scored 4 v 10-man Swindon last weekend; their recent games: 4-1, 0-3, 6-5, 5-2, 4-1, 2-2. Rotherham away 1-0-3 and 1-3-6 in their last 10. Rotherham won 2-1 at Blundell Park earlier this season.",
+  "news": "Grimsby in scoring form (LiveScore tips 4-1).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8223,
+    "why": "Grimsby's last 6 all had 3+ goals bar one; Rotherham concede 2.0 per game. Trend 0.85 v p 0.82. My p 0.84."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.7714,
+    "why": "Rotherham are 1-3-6 in their last 10 and 1-0-3 away; Grimsby are hitting 4+. DNB guards the draw (tempered by Rotherham's 2-1 win here earlier). My p 0.77."
+   }
+  ],
+  "avoid": "Unders; Rotherham catches.",
+  "confidence": 0.3,
+  "sources": [
+   "https://gtfc.co.uk/match-preview-rotherham-united-h",
+   "https://www.livescore.com/en/news/football/tips/all-12-league-two-predictions-november-21-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72342398",
+  "fx": "Northampton Town v Rochdale AFC",
+  "sport": "football",
+  "absences": "Rochdale: Will Jenkins and Dan Moss out for the season; Jonny Smith close to a return; Bryant Bilongo and Ryan East could be recalled.",
+  "context": "Northampton blunt (0.9 scored per game, home 1-0-3). Rochdale 2-2-6 with 2.6 conceded per game, away 1-1-3.",
+  "news": "Rochdale missing 2 long-term; LiveScore tips 1-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.21,
+    "p": 0.7886,
+    "why": "Rochdale have lost 6 of their last 10, concede 2.6 per game, and miss Jenkins/Moss. Northampton's weak home record caps it. My p 0.78."
+   }
+  ],
+  "avoid": "Overs (Northampton blunt); Northampton win.",
+  "confidence": 0.2,
+  "sources": [
+   "https://rochdaleafc.co.uk/preview-northampton-town-a/",
+   "https://www.whoscored.com/matches/1990205/preview/england-league-two-2026-2027-northampton-rochdale",
+   "https://www.livescore.com/en/news/football/tips/all-12-league-two-predictions-november-21-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76940980",
+  "fx": "CD Fas v CD Cacahuatique",
+  "sport": "football",
+  "absences": "n/a (reserve fixture)",
+  "context": "Reserve-team game (Reservas). The first teams of the same two clubs meet at 21:00 UTC the same day, which is separate and not a conflict.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: reserves, no clear mismatch (home p 0.67).",
+  "confidence": 0.1,
+  "sources": [
+   "https://diarioelsalvador.com/dedeportes/en-oriente-se-define-la-clasificacion-al-play-in-del-torneo-apertura-2026-de-la-primera-division/877043"
+  ]
+ },
+ {
+  "eid": "sr:match:74735332",
+  "fx": "CD Tecnico Universitario v CD Cuenca",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "LigaPro relegation hexagonal. Tecnico Universitario 37 points, 5th and inside the drop zone: a must-win at home at Bellavista (lost 1-2 to Manta on 9 Nov). Cuenca 47 points, comfortable, and beat Tecnico 2-1 in the first meeting on 16 Oct.",
+  "news": "Tecnico must win to survive; Cuenca have less at stake.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.26,
+    "p": 0.7407,
+    "why": "Must-win home side v a comfortable Cuenca with little at stake; Tecnico home 2-1-2. My p 0.75."
+   }
+  ],
+  "avoid": "Overs (both low-scoring); Unders need p>=0.82 (U3.5 is 0.77).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.primicias.ec/deportes/ligapro/tecnico-universitario/",
+   "https://elheraldo.com.ec/el-rodillo-a-prueba-para-cambiar-el-rumbo",
+   "https://elmercurio.com.ec/deportes/2026/10/16/deportivo-cuenca-tecnico-partido-ligapro-hexagonal/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075420",
+  "fx": "AD Isidro Metapan v Inter Santa Tecla",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Apertura 2026 final round (J22). Format: top 2 go straight to semis, 3rd-6th play-in. Table after J21 (TCS Ahora): Firpo 40, Metapan 38, FAS 35, Aguila 34, Inter 31 (play-in secured), Platense 27, Alianza 27, Balboa 26, Limeno 24, Cacahuatique 20. Alianza, Limeno, Platense and Balboa are chasing the last play-in place. Metapan (38) are chasing a top-2 semifinal bye; Inter (31) are already in the play-in.",
+  "news": "Final regular-season round; Metapan have a bye to play for.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.26,
+    "p": 0.7384,
+    "why": "Metapan are 5-1-0 at home and motivated for the top-2 bye; Inter are already through, so less is at stake for them. Trend 0.8 v p 0.74. My p 0.77."
+   }
+  ],
+  "avoid": "Overs; Inter side.",
+  "confidence": 0.25,
+  "sources": [
+   "https://diarioelsalvador.com/dedeportes/en-oriente-se-define-la-clasificacion-al-play-in-del-torneo-apertura-2026-de-la-primera-division/877043",
+   "https://www.tcsahora.com/lmf-elsalvador/",
+   "https://www.elsalvador.com/deportes/futbol/jornada-apertura-2026/1304175/2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075412",
+  "fx": "Atletico Balboa v CD Luis Angel Firpo Usulutan",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Apertura 2026 final round (J22). Format: top 2 go straight to semis, 3rd-6th play-in. Table after J21 (TCS Ahora): Firpo 40, Metapan 38, FAS 35, Aguila 34, Inter 31 (play-in secured), Platense 27, Alianza 27, Balboa 26, Limeno 24, Cacahuatique 20. Alianza, Limeno, Platense and Balboa are chasing the last play-in place. Leaders Firpo (40) need points for a top-2 bye; Balboa (26) need a win for the play-in. Both are fully motivated.",
+  "news": "High stakes for both sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: two-way motivation, no edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://diarioelsalvador.com/dedeportes/en-oriente-se-define-la-clasificacion-al-play-in-del-torneo-apertura-2026-de-la-primera-division/877043",
+   "https://www.tcsahora.com/lmf-elsalvador/",
+   "https://www.elsalvador.com/deportes/futbol/jornada-apertura-2026/1304175/2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075418",
+  "fx": "CD Aguila San Miguel v CD Platense Municipal Zacatecoluca",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Apertura 2026 final round (J22). Format: top 2 go straight to semis, 3rd-6th play-in. Table after J21 (TCS Ahora): Firpo 40, Metapan 38, FAS 35, Aguila 34, Inter 31 (play-in secured), Platense 27, Alianza 27, Balboa 26, Limeno 24, Cacahuatique 20. Alianza, Limeno, Platense and Balboa are chasing the last play-in place. Aguila (34) chasing the top 2; Platense (27) chasing the last play-in place.",
+  "news": "Aguila beat INCA Aruba late in J21.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7757,
+    "why": "Aguila are 4-1-0 at home (0.8 conceded per game) and need the win for the top 2; DNB guards a draw from a motivated Platense. My p 0.79."
+   }
+  ],
+  "avoid": "Platense side.",
+  "confidence": 0.25,
+  "sources": [
+   "https://diarioelsalvador.com/dedeportes/en-oriente-se-define-la-clasificacion-al-play-in-del-torneo-apertura-2026-de-la-primera-division/877043",
+   "https://www.tcsahora.com/lmf-elsalvador/",
+   "https://www.elsalvador.com/deportes/futbol/jornada-apertura-2026/1304175/2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075416",
+  "fx": "CD FAS Santa Ana v CD. Cacahuatique",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Apertura 2026 final round (J22). Format: top 2 go straight to semis, 3rd-6th play-in. Table after J21 (TCS Ahora): Firpo 40, Metapan 38, FAS 35, Aguila 34, Inter 31 (play-in secured), Platense 27, Alianza 27, Balboa 26, Limeno 24, Cacahuatique 20. Alianza, Limeno, Platense and Balboa are chasing the last play-in place. FAS (35) are chasing the top 2; Cacahuatique are bottom (20) with little to play for. FAS drew with Alianza 1-1 on 14 Nov and are drawish (2-6-2 in their last 10).",
+  "news": "FAS are motivated but draw a lot.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "FAS win (trend 0.3, drawish); the Cacahuatique +1.5 catch (fav p 0.66 >= 0.55).",
+  "confidence": 0.15,
+  "sources": [
+   "https://diarioelsalvador.com/dedeportes/en-oriente-se-define-la-clasificacion-al-play-in-del-torneo-apertura-2026-de-la-primera-division/877043",
+   "https://www.tcsahora.com/lmf-elsalvador/",
+   "https://www.elsalvador.com/deportes/futbol/jornada-apertura-2026/1304175/2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74735120",
+  "fx": "CD Universidad Catolica del Ecuador v Barcelona SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "LigaPro championship hexagonal, round 7. Barcelona are winless in 7 v U. Catolica.",
+  "news": "Sources conflict on date and venue: most give Sat 21 Nov 16:30 local at Estadio Olimpico Atahualpa, but OneFootball lists Sun 22 Nov and Primicias puts it at Independiente del Valle's ground in Chillo Jijon.",
+  "veto": true,
+  "veto_reason": "Date conflict (Sat 21 v Sun 22 on OneFootball) and venue conflict (Atahualpa v Chillo Jijon)",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.primicias.ec/deportes/futbol/precio-entradas-universidad-catolica-barcelona-sc-fecha-7-hexagonal-final-137527/",
+   "https://onefootball.com/en/match/2734500",
+   "https://www.elfutbolero.com.ec/liga-pro-a/barcelona-sc/barcelona-sc-enfrentara-a-universidad-catolica-el-21-de-noviembre-en-la-vuelta-de-la-ligapro-20261111.html",
+   "https://aficioncentral.com/universidad-catolica-vs-barcelona-sc-dia-hora-donde-ver-fecha-7-primer-hexagonal-ligapro-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73075414",
+  "fx": "Municipal Limeno v Alianza FC San Salvador",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Apertura 2026 final round (J22). Format: top 2 go straight to semis, 3rd-6th play-in. Table after J21 (TCS Ahora): Firpo 40, Metapan 38, FAS 35, Aguila 34, Inter 31 (play-in secured), Platense 27, Alianza 27, Balboa 26, Limeno 24, Cacahuatique 20. Alianza, Limeno, Platense and Balboa are chasing the last play-in place. Limeno (24) v Alianza (27) is a direct shoot-out for the last play-in place; Alianza miss out for the first time in a decade without a win.",
+  "news": "Must-win for both sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: mutual must-win, volatile.",
+  "confidence": 0.15,
+  "sources": [
+   "https://diarioelsalvador.com/dedeportes/en-oriente-se-define-la-clasificacion-al-play-in-del-torneo-apertura-2026-de-la-primera-division/877043",
+   "https://www.tcsahora.com/lmf-elsalvador/",
+   "https://www.elsalvador.com/deportes/futbol/jornada-apertura-2026/1304175/2026/"
+  ]
+ }
+]

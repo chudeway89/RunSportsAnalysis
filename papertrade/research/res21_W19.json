@@ -1,0 +1,727 @@
+[
+ {
+  "eid": "sr:match:76875426",
+  "fx": "St. Peters FC v Tge Dieppe Bay Eagles",
+  "sport": "football",
+  "absences": "none found",
+  "context": "SKN Premier League; St Peters beat Dieppe Bay 4-0 and 4-2 last season; no Sportradar form data",
+  "news": "Futbol24 lists St. Peters FC v Dieppe Bay Eagles 21.11.2026 (00:00 UTC = 20:00 local 20 Nov; consistent with a CET/UTC listing)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: 1.03 favourite, no form data, amateur-level league",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futbol24.com/team/St-Kitts-and-Nevis/St-Peters-FC",
+   "https://sknfa.com/event/development-bank-st-peters-vs-tge-dieppe-bay-eagles/"
+  ]
+ },
+ {
+  "eid": "sr:match:73937068",
+  "fx": "FC Ska-Khabarovsk v SK Rotor Volgograd",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Rotor faces a ~9-hour trip east to Khabarovsk; SKA home 4-1-1, Rotor away 1-2-2 and draw-heavy (5 draws in 10)",
+  "news": "Fixture confirmed 21 Nov on Rotor's FotMob schedule; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.56,
+    "p": 0.5835,
+    "why": "SKA home 4-1-1 (gf2.17 ga0.83) vs a draw-heavy Rotor (1 away win in 5) after a very long trip; 1X won in 85% of the pair's last 10 vs house 0.58; my estimate 0.63"
+   }
+  ],
+  "avoid": "Over 1.5 (low-scoring First League), Rotor 1X2",
+  "confidence": 0.25,
+  "sources": [
+   "https://stavka.tv/matches/soccer/21-11-2026-sochi-veles-moscow",
+   "https://stavka.tv/matches/soccer/21-11-2026-pari-nn-torpedo-moscow",
+   "https://www.fotmob.com/teams/196079/overview/fc-rotor-volgograd",
+   "https://futbolpressa.ru/news/kamaz-vs-spartak-kostroma-prognoz-match-21-noyabrya-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:76773552",
+  "fx": "FC Yenisey Krasnoyarsk v FC Volga Ulyanovsk",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Yenisey home 3-0-2, overall 3-1-6; Volga 5-2-3",
+  "news": "365Scores lists Volga as Yenisey's next opponent, no date given; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: mixed form, house ~coin flip",
+  "confidence": 0.15,
+  "sources": [
+   "https://stavka.tv/matches/soccer/21-11-2026-sochi-veles-moscow",
+   "https://stavka.tv/matches/soccer/21-11-2026-pari-nn-torpedo-moscow",
+   "https://www.fotmob.com/teams/196079/overview/fc-rotor-volgograd",
+   "https://futbolpressa.ru/news/kamaz-vs-spartak-kostroma-prognoz-match-21-noyabrya-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73323814",
+  "fx": "Csm Satu Mare v CS Concordia Chiajna",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Concordia Chiajna 5th on 25 pts, described as a promotion candidate; Satu Mare 1-5-4, scoring 0.8 per game",
+  "news": "Confirmed Liga 2 round 14, 11:00 local at Olimpia stadium; local press calls Chiajna 'one of the promotion candidates'",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.43,
+    "p": 0.65,
+    "why": "Chiajna (promotion chaser, gf2.8, away 3-1-1) v Satu Mare, who won 1 of their last 10 and score 0.8/game; DNB covers the home draw habit (5 draws); my estimate 0.68"
+   }
+  ],
+  "avoid": "Over 1.5 (Romania L2 is on the thin-league list), Chiajna 1X2",
+  "confidence": 0.25,
+  "sources": [
+   "https://liga2.prosport.ro/seria-1/programul-etapei-14-din-liga-2-a-fost-stabilit-19407487",
+   "https://www.fanatik.ro/liga-2-live-etapa-14-poli-timisoara-si-chindia-deplasari-la-suceava-si-pe-ghencea-21591754",
+   "https://www.satmareanul.net/2026/11/20/csm-olimpia-satu-mare-are-parte-de-un-adversar-dificil-concordia-chiajna-una-dintre-candidatele-la-promovare-vine-pe-stadionul-olimpia/"
+  ]
+ },
+ {
+  "eid": "sr:match:73086754",
+  "fx": "CSM Slatina v Asa Targu Mures",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "ASA Targu Mures away 0-1-5, scoring 0.33 per away game; Slatina home 3-0-2",
+  "news": "Confirmed Sat 21 Nov 11:00 local (prosport round 14 list)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.7388,
+    "why": "ASA have 0 away wins in 6, scoring 0.33 per away game and conceding 2.33; DNB removes the draw; my estimate 0.77"
+   }
+  ],
+  "avoid": "Overs (thin league), Slatina -1.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://liga2.prosport.ro/seria-1/programul-etapei-14-din-liga-2-a-fost-stabilit-19407487",
+   "https://www.fanatik.ro/liga-2-live-etapa-14-poli-timisoara-si-chindia-deplasari-la-suceava-si-pe-ghencea-21591754",
+   "https://www.satmareanul.net/2026/11/20/csm-olimpia-satu-mare-are-parte-de-un-adversar-dificil-concordia-chiajna-una-dintre-candidatele-la-promovare-vine-pe-stadionul-olimpia/"
+  ]
+ },
+ {
+  "eid": "sr:match:73086750",
+  "fx": "SC Popesti Leordeni v CSC 1599 Selimbar",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Selimbar 2-1-7, scoring 0.4 per game (0.33 away, 1-0-5 away); Popesti 7-1-2, home 4-0-1",
+  "news": "Confirmed Sat 21 Nov 11:00 local in round 14",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.56,
+    "p": 0.599,
+    "why": "Selimbar scored 1 goal in their last 6 and lost 5 of 6 away; Popesti 4-0-1 at home; win in 70% of the pair's last 10 vs house 0.60; my estimate 0.64"
+   }
+  ],
+  "avoid": "Overs (thin league), BTTS",
+  "confidence": 0.3,
+  "sources": [
+   "https://liga2.prosport.ro/seria-1/programul-etapei-14-din-liga-2-a-fost-stabilit-19407487",
+   "https://www.fanatik.ro/liga-2-live-etapa-14-poli-timisoara-si-chindia-deplasari-la-suceava-si-pe-ghencea-21591754",
+   "https://www.satmareanul.net/2026/11/20/csm-olimpia-satu-mare-are-parte-de-un-adversar-dificil-concordia-chiajna-una-dintre-candidatele-la-promovare-vine-pe-stadionul-olimpia/"
+  ]
+ },
+ {
+  "eid": "sr:match:72334430",
+  "fx": "FC Orenburg v FC Baltika Kaliningrad",
+  "sport": "football",
+  "absences": "Orenburg: Tataev and Palacios suspended; Mejia, Jesus, Vasiliev, Savelyev, Rudakov injured; Bosch unavailable. Baltika: Filin, Shnaptsev injured",
+  "context": "Orenburg have heavy absences; previews lean towards Baltika or a draw",
+  "news": "Several 20-21 Nov previews list 2 suspensions plus 5-6 injuries at Orenburg against 2 at Baltika",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.43,
+    "p": 0.6577,
+    "why": "Orenburg are missing 2 suspended players and 5-6 injured; Baltika lost 0 of 4 away (1-3-0); my estimate 0.71"
+   }
+  ],
+  "avoid": "Under 3.5 (p 0.81 is below the 0.82 gate), Orenburg 1X2",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.championat.com/football/article-6706020-rpl-2026-2027-raspisanie-15-go-tura-intrigi-rubin-zenit-cska-ahmat-dinamo-mh-spartak-dinamo-krasnodar.html",
+   "https://www.vseprosport.ru/news/2026/11/20/orenburg-baltika-prognoz-kf-3-20-i-stavki-na-match-premer-ligi-21-nojabrja-2026-goda",
+   "https://online-bookmakers.com/ru/prognozy/fk-orenburg-baltika-2026-11-21/",
+   "https://stavka.tv/matches/soccer/21-11-2026-orenburg-baltika-kaliningrad"
+  ]
+ },
+ {
+  "eid": "sr:match:73086744",
+  "fx": "FC Cetate Suceava v Stinta Poli Timisoara",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "3rd-v-top-half Liga 2 clash; Poli Timisoara unbeaten in 10 (5-5-0), Cetate home 3-2-0",
+  "news": "Confirmed Sat 21 Nov 12:30 local (= 10:30 UTC), live on Digi Sport 1",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result markets (even); Overs in a thin league",
+  "confidence": 0.15,
+  "sources": [
+   "https://liga2.prosport.ro/seria-1/programul-etapei-14-din-liga-2-a-fost-stabilit-19407487",
+   "https://www.fanatik.ro/liga-2-live-etapa-14-poli-timisoara-si-chindia-deplasari-la-suceava-si-pe-ghencea-21591754",
+   "https://www.satmareanul.net/2026/11/20/csm-olimpia-satu-mare-are-parte-de-un-adversar-dificil-concordia-chiajna-una-dintre-candidatele-la-promovare-vine-pe-stadionul-olimpia/"
+  ]
+ },
+ {
+  "eid": "sr:match:73937042",
+  "fx": "FC Nizhny Novgorod v Torpedo Moscow",
+  "sport": "football",
+  "absences": "Torpedo: Aleksandrov suspended (yellow-card accumulation)",
+  "context": "Nizhny Novgorod lead the First League and won 10 of 10, all 4 home games (gf4.75 ga0); Torpedo away 4-2-0",
+  "news": "Stavka previews back NN to win at 1.85; Torpedo lose Aleksandrov to suspension",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.35,
+    "p": 0.6995,
+    "why": "Leader NN won 10 of 10 (4-0-0 at home, 0 conceded) and Torpedo are without the suspended Aleksandrov; DNB because Torpedo are a stubborn away side (4-2-0); my estimate 0.74"
+   }
+  ],
+  "avoid": "Under markets; Torpedo +1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://stavka.tv/matches/soccer/21-11-2026-sochi-veles-moscow",
+   "https://stavka.tv/matches/soccer/21-11-2026-pari-nn-torpedo-moscow",
+   "https://www.fotmob.com/teams/196079/overview/fc-rotor-volgograd",
+   "https://futbolpressa.ru/news/kamaz-vs-spartak-kostroma-prognoz-match-21-noyabrya-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74089770",
+  "fx": "ACS Academica Transilvania Tg-Mures v CS Bihorul Beius",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Seria 8; Transilvania 0-2-8 (conceding 3.5 per game); Bihorul Beius 2-4-4 but scoring only 0.7",
+  "news": "Confirmed at Baza Luceafarul, Sanmartin, Sat 14:00 local",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.7968,
+    "why": "Transilvania have no win in 10 and concede 3.5 per game; DNB covers Bihorul's low scoring (0.7) and draw habit; my estimate 0.80"
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.65 < 0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://liga2.prosport.ro/liga-3/etapa-14-din-liga-3-primul-meci-al-zilei-se-disputa-acum-altele-19-incep-la-ora-1400-doar-doua-echipe-sunt-neinvinse-in-acest-sezon-19407947",
+   "https://www.graiul.ro/2026/11/20/in-cadrul-rundei-14-doua-echipe-maramuresene-joaca-acasa-una-in-deplasare/",
+   "https://www.crisana.ro/stiri/sport-7/una-acasa-trei-in-deplasare-in-liga-a-iii-a-crisul-santandrei-are-cel-mai-greu-meci-216557.html",
+   "https://www.sportarad.ro/2026/11/20/liga-a-iii-a-seria-7-a-etapa-a-14-a-ghiroda-intrerupe-seria-de-victorii-a-liderului-sagul-se-apropie-de-la-trei-puncte/"
+  ]
+ },
+ {
+  "eid": "sr:match:74089508",
+  "fx": "ACS Cil Blaj v AFC Nera Bogodinti",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Seria 7; Nera Bogodinti 0-1-9, 0-0-5 away, conceding 3.6 per away game",
+  "news": "Confirmed Sat 21 Nov 14:00, CIL Blaj v Nera Bogodinti",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.7851,
+    "why": "Nera lost 9 of 10 and all 5 away (conceding 3.6 per away game); Blaj unbeaten at home (2-3-0); my estimate 0.81"
+   }
+  ],
+  "avoid": "Handicaps",
+  "confidence": 0.25,
+  "sources": [
+   "https://liga2.prosport.ro/liga-3/etapa-14-din-liga-3-primul-meci-al-zilei-se-disputa-acum-altele-19-incep-la-ora-1400-doar-doua-echipe-sunt-neinvinse-in-acest-sezon-19407947",
+   "https://www.graiul.ro/2026/11/20/in-cadrul-rundei-14-doua-echipe-maramuresene-joaca-acasa-una-in-deplasare/",
+   "https://www.crisana.ro/stiri/sport-7/una-acasa-trei-in-deplasare-in-liga-a-iii-a-crisul-santandrei-are-cel-mai-greu-meci-216557.html",
+   "https://www.sportarad.ro/2026/11/20/liga-a-iii-a-seria-7-a-etapa-a-14-a-ghiroda-intrerupe-seria-de-victorii-a-liderului-sagul-se-apropie-de-la-trei-puncte/"
+  ]
+ },
+ {
+  "eid": "sr:match:74087826",
+  "fx": "ACS Progresul Mogosoaia v AFC Progresul 1944 Spartac",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Seria 5; Spartac 1-1-8, 0-0-5 away",
+  "news": "Confirmed Sat 21 Nov 14:00",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.6856,
+    "why": "Spartac lost all 5 away games and 8 of 10 overall (gf0.6); Mogosoaia 2-2-1 at home; DNB for safety; my estimate 0.74"
+   }
+  ],
+  "avoid": "Home -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://liga2.prosport.ro/liga-3/etapa-14-din-liga-3-primul-meci-al-zilei-se-disputa-acum-altele-19-incep-la-ora-1400-doar-doua-echipe-sunt-neinvinse-in-acest-sezon-19407947"
+  ]
+ },
+ {
+  "eid": "sr:match:74087438",
+  "fx": "CS Gloria Baneasa v ACS Inainte Modelu",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Seria 4; Modelu 5-0-5, high-variance (7-0, 5-2, 0-4); Gloria Baneasa 2-1-7",
+  "news": "Gloria Baneasa has a round 14 game on 21 Nov at 14:00 (clasament.ro); the opponent was not shown in the sources found. Not a conflict, just unconfirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.23,
+    "p": 0.7636,
+    "why": "Gloria Baneasa won 2 of 10 and concede 2.6 per game; Modelu score 2.4; my estimate 0.77; the pairing is only partly confirmed"
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.60); Under 3.5",
+  "confidence": 0.15,
+  "sources": [
+   "https://liga2.prosport.ro/liga-3/etapa-14-din-liga-3-primul-meci-al-zilei-se-disputa-acum-altele-19-incep-la-ora-1400-doar-doua-echipe-sunt-neinvinse-in-acest-sezon-19407947",
+   "https://clasament.ro/liga/romania-liga-3-serie-4/"
+  ]
+ },
+ {
+  "eid": "sr:match:74086966",
+  "fx": "CS Tunari v FC Petrolul Berca",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Seria 3 top-of-table: Tunari 2nd (32 pts) v Berca 3rd (23); Tunari home 5-0-0 (gf4.8); Berca's games average 5.5 goals; first meeting 2-2",
+  "news": "Confirmed Sat 21 Nov 14:00; standings Flacara Moreni 37, Tunari 32, Berca 23",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.83,
+    "p": 0.5,
+    "why": "Tunari's home games 8-1, 7-2, 4-0 and Berca's last 6 had 3, 3, 7, 8, 8 and 5 goals; the earlier meeting was 2-2; my estimate 0.56"
+   }
+  ],
+  "avoid": "Tunari 1X2 1.19 in a 2nd-v-3rd clash; -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://liga2.prosport.ro/liga-3/etapa-14-din-liga-3-primul-meci-al-zilei-se-disputa-acum-altele-19-incep-la-ora-1400-doar-doua-echipe-sunt-neinvinse-in-acest-sezon-19407947"
+  ]
+ },
+ {
+  "eid": "sr:match:74088432",
+  "fx": "CS Universitatea Craiova II v ACS Oltul Curtisoara",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Seria 6; home side is the Universitatea Craiova reserve team; Craiova II won 4-1 at Oltul on 12 Sep",
+  "news": "Confirmed Sat 21 Nov 14:00 local",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result-sides; not a clear goals mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://liga2.prosport.ro/liga-3/etapa-14-din-liga-3-primul-meci-al-zilei-se-disputa-acum-altele-19-incep-la-ora-1400-doar-doua-echipe-sunt-neinvinse-in-acest-sezon-19407947"
+  ]
+ },
+ {
+  "eid": "sr:match:74086590",
+  "fx": "CSM Corona Brasov v ACS Aro Muscelul C-Lung Muscel",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Seria 2; Corona home 3-0-1; Muscelul away 3-2-0",
+  "news": "Confirmed Sat 21 Nov 14:00, Corona at home",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.788,
+    "why": "Corona concede 0.5 per game (6-2-2); DNB covers a Muscelul side unbeaten away; my estimate 0.79; thin edge"
+   }
+  ],
+  "avoid": "Corona -1.5; Under 3.5 (p 0.58)",
+  "confidence": 0.15,
+  "sources": [
+   "https://liga2.prosport.ro/liga-3/etapa-14-din-liga-3-primul-meci-al-zilei-se-disputa-acum-altele-19-incep-la-ora-1400-doar-doua-echipe-sunt-neinvinse-in-acest-sezon-19407947",
+   "https://www.monitorulexpres.ro/2026/11/20/liga-3-etapa-14-liga-3-deplasari-grele-pentru-csm-sacele-si-kids-tampa-brasov-corona-si-olimpic-zarnesti-joaca-acasa/"
+  ]
+ },
+ {
+  "eid": "sr:match:74086596",
+  "fx": "Cso Teleajenul Valeni de Munte v CS Carpati Covasna",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Seria 2; Carpati Covasna 2 pts, 0-2-8, scoring 0.2 per game (2 goals in 10); Teleajenul 9th on 14 pts",
+  "news": "Confirmed Sat 21 Nov 14:00 at Stadionul Orasenesc, Valenii de Munte",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7369,
+    "why": "Covasna have 2 points, 2 goals in 10 games and 5 straight defeats without scoring; my estimate 0.80"
+   }
+  ],
+  "avoid": "Home -1.5 (Teleajenul concede 2.3)",
+  "confidence": 0.25,
+  "sources": [
+   "https://liga2.prosport.ro/liga-3/etapa-14-din-liga-3-primul-meci-al-zilei-se-disputa-acum-altele-19-incep-la-ora-1400-doar-doua-echipe-sunt-neinvinse-in-acest-sezon-19407947"
+  ]
+ },
+ {
+  "eid": "sr:match:74089776",
+  "fx": "FCM Baia Mare v CS Crisul Santandrei",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Seria 8 leader (local press: Minaur Baia Mare) v Crisul Santandrei, 3rd on 24 pts, the only side to beat them this season (0-1 in round 1)",
+  "news": "Confirmed at stadium Viorel Mateianu, Sat 14:00; sources name the club 'Minaur Baia Mare', while SportyBet uses 'FCM Baia Mare' (same club, not a date/venue conflict)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 1.31: a top-3 clash against the only side that has beaten them; revenge narrative only",
+  "confidence": 0.15,
+  "sources": [
+   "https://liga2.prosport.ro/liga-3/etapa-14-din-liga-3-primul-meci-al-zilei-se-disputa-acum-altele-19-incep-la-ora-1400-doar-doua-echipe-sunt-neinvinse-in-acest-sezon-19407947",
+   "https://www.graiul.ro/2026/11/20/in-cadrul-rundei-14-doua-echipe-maramuresene-joaca-acasa-una-in-deplasare/",
+   "https://www.crisana.ro/stiri/sport-7/una-acasa-trei-in-deplasare-in-liga-a-iii-a-crisul-santandrei-are-cel-mai-greu-meci-216557.html",
+   "https://www.sportarad.ro/2026/11/20/liga-a-iii-a-seria-7-a-etapa-a-14-a-ghiroda-intrerupe-seria-de-victorii-a-liderului-sagul-se-apropie-de-la-trei-puncte/"
+  ]
+ },
+ {
+  "eid": "sr:match:74087820",
+  "fx": "Oxigen Bucuresti v Scm Dunarea Giurgiu",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Seria 5; Dunarea Giurgiu unbeaten in 10 (6-4-0), away 3-2-0; Oxigen 5-0-5",
+  "news": "Confirmed Sat 21 Nov 14:00",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.29,
+    "p": 0.7229,
+    "why": "Giurgiu unbeaten in 10 and score 2.5 per game; Oxigen lost 3 of 5 at home; my estimate 0.75"
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.57)",
+  "confidence": 0.2,
+  "sources": [
+   "https://liga2.prosport.ro/liga-3/etapa-14-din-liga-3-primul-meci-al-zilei-se-disputa-acum-altele-19-incep-la-ora-1400-doar-doua-echipe-sunt-neinvinse-in-acest-sezon-19407947"
+  ]
+ },
+ {
+  "eid": "sr:match:72334438",
+  "fx": "FK Akron Tolyatti v FC Fakel Voronezh",
+  "sport": "football",
+  "absences": "Akron: Benchimol inactive, Zheleznov out (muscle). Fakel: Alshin inactive, Sutormin doubtful (hand)",
+  "context": "Previews back Akron (stronger in H2H); Akron home 2-0-0 this sample",
+  "news": "Vprognoze, Vseprosport and Stavka previews all lean to an Akron win; absences are minor on both sides",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.51,
+    "p": 0.6344,
+    "why": "Akron are stronger in H2H and Fakel are missing Alshin, with Sutormin doubtful; Fakel score 1.1; my estimate 0.65"
+   }
+  ],
+  "avoid": "Under 3.5 (p 0.77 < 0.82)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.championat.com/football/article-6706020-rpl-2026-2027-raspisanie-15-go-tura-intrigi-rubin-zenit-cska-ahmat-dinamo-mh-spartak-dinamo-krasnodar.html",
+   "https://vprognoze.ru/topforecast/8252325-akron-tolyatti-fakel-2026-11-21.html",
+   "https://stavka.tv/matches/soccer/21-11-2026-akron-tolyatti-fakel-voronezh"
+  ]
+ },
+ {
+  "eid": "sr:match:72388098",
+  "fx": "AFK Csikszereda Miercurea Ciuc v FC Corvinul Hunedoara 1921",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Superliga round 16; Csikszereda 2-2-6, scoring 0.8 per game; Corvinul 5-1-4",
+  "news": "Kick-off 15:00 local (= 13:00 UTC) per Digi Sport and the gendarmerie notice; Superliga.ro shows 13:00 (UTC). Consistent",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.42,
+    "p": 0.6696,
+    "why": "Csikszereda score 0.8 per game and lost 6 of 10; DNB covers the draw; my estimate 0.68"
+   }
+  ],
+  "avoid": "Corvinul 1X2 (p 0.49)",
+  "confidence": 0.2,
+  "sources": [
+   "https://lpf.ro/noutati/superliga-programul-etapelor-a-17-a-si-a-18-a/6893",
+   "https://www.amosnews.ro/masuri-de-asigurare-a-ordinii-publice-la-meciul-de-fotbal-dintre-echipe-a-f-k-csikszereda-f-c-corvinul-hunedoara/",
+   "https://www.pontul-zilei.com/ponturi-pariuri/csikszereda-vs-corvinul-ponturi-pariuri-superliga-21-noiembrie-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73937040",
+  "fx": "FC Kamaz Naberezhnye Chelny v Spartak Kostroma",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "KAMAZ 16th (14 pts after 17 rounds, GD 21-30); round 18; no clear favourite",
+  "news": "futbolpressa/metaratings previews: no favourite, projected 1-1",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: house even, no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://stavka.tv/matches/soccer/21-11-2026-sochi-veles-moscow",
+   "https://stavka.tv/matches/soccer/21-11-2026-pari-nn-torpedo-moscow",
+   "https://www.fotmob.com/teams/196079/overview/fc-rotor-volgograd",
+   "https://futbolpressa.ru/news/kamaz-vs-spartak-kostroma-prognoz-match-21-noyabrya-2026",
+   "https://metaratings.ru/prognozy/futbol/kamaz-spartak-kostroma-prognoz-na-match-pervoj-ligi-21-noyabrya-2026-goda/"
+  ]
+ },
+ {
+  "eid": "sr:match:73937048",
+  "fx": "FC Tekstilshchik Ivanovo v PFK Arsenal Tula",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Both bottom-half sides; Arsenal Tula away 0-0-5 (gf0.2), concede 2.4",
+  "news": "No preview found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 (trend 0.9, but the First League is low-scoring and Arsenal score 0.2 away); result markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://stavka.tv/matches/soccer/21-11-2026-sochi-veles-moscow",
+   "https://stavka.tv/matches/soccer/21-11-2026-pari-nn-torpedo-moscow",
+   "https://www.fotmob.com/teams/196079/overview/fc-rotor-volgograd",
+   "https://futbolpressa.ru/news/kamaz-vs-spartak-kostroma-prognoz-match-21-noyabrya-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73936988",
+  "fx": "FC Shinnik Yaroslavl v FC Neftekhimik Nizhnekamsk",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Neftekhimik 1-1-8, away 1-0-4; Shinnik home 3-2-1 but score 0.8 per game",
+  "news": "No preview found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.43,
+    "p": 0.662,
+    "why": "Neftekhimik lost 8 of 10; Shinnik lost 1 of 6 at home; DNB needed because Shinnik score only 0.8; my estimate 0.70"
+   }
+  ],
+  "avoid": "Overs; Shinnik -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://stavka.tv/matches/soccer/21-11-2026-sochi-veles-moscow",
+   "https://stavka.tv/matches/soccer/21-11-2026-pari-nn-torpedo-moscow",
+   "https://www.fotmob.com/teams/196079/overview/fc-rotor-volgograd",
+   "https://futbolpressa.ru/news/kamaz-vs-spartak-kostroma-prognoz-match-21-noyabrya-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73937062",
+  "fx": "FK Sochi v FK Veles Moscow",
+  "sport": "football",
+  "absences": "Sochi: Alves and Litvinov doubtful",
+  "context": "Sochi home 1-2-2, scoring 0.4 per home game; Veles 2 pts behind; Stavka expects Veles hard to beat away",
+  "news": "Stavka preview: Sochi win at 1.80, but notes Veles rarely lose away; Alves and Litvinov doubtful for Sochi",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.35,
+    "p": 0.7043,
+    "why": "Sochi score 0.4 per home game (2 in 5); Veles lost by 2+ in 1 of their last 10 (trend 0.90); favourite p 0.54 < 0.55 so the +1.5 catch is allowed; my estimate 0.76"
+   }
+  ],
+  "avoid": "Sochi 1X2/-1.5; Under 3.5 (p 0.72)",
+  "confidence": 0.3,
+  "sources": [
+   "https://stavka.tv/matches/soccer/21-11-2026-sochi-veles-moscow",
+   "https://stavka.tv/matches/soccer/21-11-2026-pari-nn-torpedo-moscow",
+   "https://www.fotmob.com/teams/196079/overview/fc-rotor-volgograd",
+   "https://futbolpressa.ru/news/kamaz-vs-spartak-kostroma-prognoz-match-21-noyabrya-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72334436",
+  "fx": "FK Rubin Kazan v FK Zenit Saint Petersburg",
+  "sport": "football",
+  "absences": "Zenit: Erokhin injured, Odoevsky inactive; Diveev and Wendel back. Rubin: sources conflict (no absences v Djukovic injured)",
+  "context": "Zenit 1st, 9-1-0, but conceded 2 in 3 of the last 5; Rubin home 1-1-3, scoring 0.6; a big-club fixture",
+  "news": "Previews 20 Nov: Zenit top; Rubin team news conflicting between sources",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.22,
+    "p": 0.7943,
+    "why": "Zenit's wins are narrow (3-2, 2-1, 3-2, 2-2 recently), conceding 1.67 per away game; +2.0 pushes on a 2-goal loss; a big-club clash so no result-side; my estimate 0.82"
+   }
+  ],
+  "avoid": "Zenit 1X2 / -1.5 (big-club, away p 0.61 < 0.75); Under 3.5 (p 0.73)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.championat.com/football/article-6706020-rpl-2026-2027-raspisanie-15-go-tura-intrigi-rubin-zenit-cska-ahmat-dinamo-mh-spartak-dinamo-krasnodar.html",
+   "https://www.vseprosport.ru/news/2026/11/20/rubin-zenit-prognoz-kf-2-00-i-stavki-na-match-premer-ligi-21-nojabrja-2026-goda",
+   "https://vprognoze.ru/topforecast/8252352-rubin-zenit-2026-11-21.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74088424",
+  "fx": "CSM Jiul Petrosani v CS Drobeta Turnu Severin",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3; Drobeta 7-2-1 v Jiul home 4-0-1 (ga0.6); series label differs between sources (Seria 5 v 6) but date/time agree (17:00 local = 15:00 UTC)",
+  "news": "Confirmed Sat 21 Nov 17:00 local by prosport and soccerway",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away DNB 1.22: Jiul are strong at home",
+  "confidence": 0.15,
+  "sources": [
+   "https://liga2.prosport.ro/liga-3/etapa-14-din-liga-3-primul-meci-al-zilei-se-disputa-acum-altele-19-incep-la-ora-1400-doar-doua-echipe-sunt-neinvinse-in-acest-sezon-19407947",
+   "https://ro.soccerway.com/romania/liga-3-seria-6/"
+  ]
+ },
+ {
+  "eid": "sr:match:73806124",
+  "fx": "Rayon Sports FC v Apr FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "1000 Hills Derby at Amahoro Stadium, 17:00 local; APR 8 pts from 3, Rayon 8 from 5; APR won 13 of the last 24 meetings",
+  "news": "New Times preview confirms Sat 21 Nov, Amahoro, 5pm (15:00 UTC)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result-side; no totals listed",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.newtimes.co.rw/article/40611/sports/football/1000-hills-derby-rayon-sports-apr-fc-renew-rivalry-in-league-clash"
+  ]
+ },
+ {
+  "eid": "sr:match:72388106",
+  "fx": "CFR Cluj v ASC Otelul Galati",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "CFR 4 straight league games without a win; Otelul 14th (13 pts from 15), 9 straight without a win, 0-5-5",
+  "news": "Confirmed Sat 21 Nov 17:30 local (= 15:30 UTC) on Digi Sport 1",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.6,
+    "p": 0.5903,
+    "why": "Otelul are 9 games without a win (5 draws, 5 losses) and concede 2.2 away; DNB because CFR are also out of form (4 without a win); my estimate 0.63"
+   }
+  ],
+  "avoid": "CFR 1X2 (2.25 is outside the band)",
+  "confidence": 0.2,
+  "sources": [
+   "https://lpf.ro/noutati/superliga-programul-etapelor-a-17-a-si-a-18-a/6893",
+   "https://www.digisport.ro/fotbal/liga-1/cfr-cluj-otelul-live-video-sambata-1730-pe-digi-sport-1-ardelenii-au-ajuns-la-4-meciuri-consecutive-fara-victorie-in-superliga-4615589"
+  ]
+ },
+ {
+  "eid": "sr:match:72334432",
+  "fx": "CSKA Moscow v RFK Akhmat Grozny",
+  "sport": "football",
+  "absences": "CSKA: Akinfeev, Gajic, Moises, Barinov (doubtful) injured; Joao Victor back from suspension. Akhmat: Ndong, Julio Romao out, Pryakhin out (knee); Sadulaev back",
+  "context": "CSKA home 4-1-0 (ga0.4), want to bounce back from a Krasnodar loss; Akhmat 12th, lost 3 straight away; coach situation unclear (Gusev v reported change during the break)",
+  "news": "Several 20 Nov previews: no suspensions; absences on both sides; Akhmat lost their last 3 away",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.34,
+    "p": 0.716,
+    "why": "CSKA 4-1-0 at home, conceding 0.4; Akhmat 0-1-4 away, lost 3 in a row and missing Ndong, Romao and Pryakhin; DNB because CSKA are missing Akinfeev, Moises and Gajic; my estimate 0.75"
+   }
+  ],
+  "avoid": "Over 1.5 (fine but no mechanism); Akhmat +1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.championat.com/football/article-6706020-rpl-2026-2027-raspisanie-15-go-tura-intrigi-rubin-zenit-cska-ahmat-dinamo-mh-spartak-dinamo-krasnodar.html",
+   "https://vprognoze.ru/topforecast/8252361-cska-moskva-ahmat-2026-11-21.html",
+   "https://www.vseprosport.ru/news/2026/11/20/cska-ahmat-prognoz-kf-2-75-i-stavki-na-match-premer-ligi-21-nojabrja-2026-goda",
+   "https://sportmaps.ru/2026/11/19/trener-axmata-gusev-vyskazalsya-o-gotovnosti-komandy-k-matchu-rpl-s-cska/"
+  ]
+ }
+]

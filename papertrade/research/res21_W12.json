@@ -1,0 +1,668 @@
+[
+ {
+  "eid": "sr:match:76649198",
+  "fx": "Velez Sarsfield v CA Belgrano de Cordoba",
+  "sport": "football",
+  "absences": "Velez: Lucas Robertone (soleus tear, out), Thiago Silvero (suspended, red v Union), Juan Cruz Policella & Simon Escobar (U17 World Cup). Belgrano: Alexis Maldonado (knee contusion).",
+  "context": "Torneo Clausura 2026 ROUND OF 16, single-leg KNOCKOUT (ET/pens; all markets except To Qualify settle at 90'). Fri 20 Nov 20:00 ART at Amalfitani = 23:00 UTC, matches board.",
+  "news": "Knockout opener of Clausura playoffs; Velez short of key midfielder Robertone and Silvero; Belgrano miss Maldonado.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result-sides (knockout). Under 3.5 p0.79 < 0.82 gate. Belgrano away scoring 0.83/g but sample thin.",
+  "confidence": 0.3,
+  "sources": [
+   "https://derechadiario.com.ar/deportes/velez-vs-belgrano-por-octavos-torneo-clausura-bajas-posibles-formaciones-como-llegan",
+   "https://canalshowsport.com.ar/una-figura-de-velez-se-lesiono-y-no-jugara-ante-belgrano/",
+   "https://www.labrujula24.com/notas/2026/11/20/velez-y-belgrano-inauguran-los-playoffs-del-torneo-clausura-n531707/"
+  ]
+ },
+ {
+  "eid": "sr:match:72897432",
+  "fx": "Auckland FC v Melbourne Victory FC",
+  "sport": "football",
+  "absences": "Auckland: Luka Vicelich (injured), Aaron Cartwright out, Cameron Howieson (calf) doubtful; James Mitchell, Matthew D'Hotman in (MW5 list, may be stale). Victory: no news found.",
+  "context": "A-League Men regular season after international break. Victory still winless (Neos Kosmos 10 Nov). Sat 21 Nov 5pm NZDT = 04:00 UTC at Go Media Stadium, matches.",
+  "news": "Victory winless start; Auckland home with minor absences. Coach name differs across sources (garbled), no date conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.7753,
+    "why": "A-League high-scoring (~3 g/g); both last-10 85% O1.5; Victory away games avg 3.7 goals. Own p 0.80."
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.44,
+    "p": 0.651,
+    "why": "Victory winless this season and 1W in last 6 away (SR); Auckland 5/6 unbeaten at home in data. Own p 0.68."
+   }
+  ],
+  "avoid": "Victory result-sides; Under markets.",
+  "confidence": 0.25,
+  "sources": [
+   "https://brisbaneroar.com.au/news/alm-mw5-preview-brisbane-roar-vs-sydney-fc/",
+   "https://aleagues.com.au/news/news-aleague-men-ins-outs-matchweek-5/",
+   "https://neoskosmos.com/en/2026/11/10/sport/football/a-league-men-wellington-hold-on-valkanis-roar-remain-unbeaten-victory-still-winless/",
+   "https://aucklandfc.co.nz/"
+  ]
+ },
+ {
+  "eid": "sr:match:74827350",
+  "fx": "Marconi Stallions v Sydney Olympic FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Australian Championship (national 2nd-tier tournament) Group C round 6, Sat 21 Nov 3pm AEDT = 04:00 UTC, matches. Marconi lost 4-1 to Bayswater (7 Nov), drew 2-2 v Oakleigh and won on pens (13 Nov); Olympic lost 2-1 to Bayswater.",
+  "news": "Group-stage fixture confirmed; no team news. NOTE: SR scores like 8-7 include penalty shootouts (drawn group games go to pens), so goal averages are inflated -> data conflict on goals.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Goals markets (SR averages contaminated by shootout scores); result-sides (coin-flip).",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Australian_Championship",
+   "https://australianchampionship.com.au/fixtures",
+   "https://greekherald.com.au/sports/marconi-stallions-edge-oakleigh-cannons-in-dramatic-penalty-shootout/"
+  ]
+ },
+ {
+  "eid": "sr:match:74827348",
+  "fx": "Oakleigh Cannons v Bayswater City",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Australian Championship Group C round 6. Bayswater lead group (13 pts from 5), Oakleigh 2nd (10). Sat 21 Nov Melbourne 04:00 UTC, matches.",
+  "news": "Top-of-group clash. House makes Oakleigh 0.60 favourite though Bayswater lead the group and are 9W in last 10 -> divergence; skip result-sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.46,
+    "p": 0.6394,
+    "why": "Bayswater's clean last 6 average 3.7 goals (2-1,4-1,2-4,2-1,3-1,2-0); Oakleigh's non-shootout games 2-0,4-2,4-2,3-4; NPL-level defences. Own p 0.70 (discounted for shootout inflation in SR data)."
+   }
+  ],
+  "avoid": "1X2/DNB both ways (house v table divergence >15pp).",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Australian_Championship",
+   "https://australianchampionship.com.au/fixtures",
+   "https://greekherald.com.au/sports/marconi-stallions-edge-oakleigh-cannons-in-dramatic-penalty-shootout/"
+  ]
+ },
+ {
+  "eid": "sr:match:73928188",
+  "fx": "Brisbane Roar FC v Melbourne City FC",
+  "sport": "football",
+  "absences": "Brisbane W: Grace Kuilamu (knee), Sharn Freier (knee) out.",
+  "context": "WOMEN'S A-League MW6, Kayo Stadium double-header 3:50pm AEST = 05:50 UTC, matches. City defending champions; Roar beat Victory 2-0 last home game.",
+  "news": "Women's fixture; date/venue confirmed by club and Sofascore.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks (not a clear enough mismatch for goals at p0.63).",
+  "confidence": 0.1,
+  "sources": [
+   "https://brisbaneroar.com.au/news/alw-mw6-preview-brisbane-roar-vs-melbourne-city/",
+   "https://aleagues.com.au/news/news-matchweek-6-ins-outs-teams/"
+  ]
+ },
+ {
+  "eid": "sr:match:72897434",
+  "fx": "Central Coast Mariners v Perth Glory FC",
+  "sport": "football",
+  "absences": "Mariners: Harry Steele named (MW5 list). Perth: captain Tom Lawrence missed previous trip; status unconfirmed.",
+  "context": "A-League Men regular season, Sat 21 Nov 5pm AEDT = 06:00 UTC, matches. Mariners 1W in last 10, conceding 3.1/g.",
+  "news": "Little news; Perth skipper Lawrence fitness unclear. SR 'A 11-12' is a shootout score (data noise).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.18,
+    "p": 0.8183,
+    "why": "Mariners conceded in nearly every game (3.1 GA/g in last 10, 0 clean sheets in last 6); Perth scored in 9/10 per trend. Own p 0.84."
+   }
+  ],
+  "avoid": "Perth 1X2 (away p 0.42 < 0.75); Mariners result-sides.",
+  "confidence": 0.25,
+  "sources": [
+   "https://brisbaneroar.com.au/news/alm-mw5-preview-brisbane-roar-vs-sydney-fc/",
+   "https://aleagues.com.au/news/news-aleague-men-ins-outs-matchweek-5/",
+   "https://neoskosmos.com/en/2026/11/10/sport/football/a-league-men-wellington-hold-on-valkanis-roar-remain-unbeaten-victory-still-winless/",
+   "https://aucklandfc.co.nz/"
+  ]
+ },
+ {
+  "eid": "sr:match:73928190",
+  "fx": "Sydney FC v Canberra United FC",
+  "sport": "football",
+  "absences": "Sydney FC W: Charlotte McLean returns; Jada Whyman (GK, knee) out. Canberra: no news found.",
+  "context": "WOMEN'S A-League MW6, Sat 21 Nov 5pm AEDT = 06:00 UTC at Sydney Olympic Park Athletic Centre, matches. Sydney 8th, Canberra 7th; Canberra beat Brisbane 1-0, Sydney lost 3-1 at Wellington.",
+  "news": "Women's fixture, mid-table; Sydney conceded in 8 straight home games.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://brisbaneroar.com.au/news/alw-mw6-preview-brisbane-roar-vs-melbourne-city/",
+   "https://aleagues.com.au/news/news-matchweek-6-ins-outs-teams/",
+   "https://www.sofascore.com/football/match/sydney-fc-canberra-united/YGubsgHub"
+  ]
+ },
+ {
+  "eid": "sr:match:72897436",
+  "fx": "Brisbane Roar FC v Sydney FC",
+  "sport": "football",
+  "absences": "Brisbane: Dimitri Valkanis (leg) out, Emmett Shaw (U17 World Cup). Sydney FC: Abel Walatee (ankle), Jake Hollman (hamstring) out; Akol Akon, Ethan Dyer (U17 World Cup).",
+  "context": "A-League Men, Kayo Stadium Redcliffe, Sat 21 Nov 6:40pm AEST = 08:40 UTC, matches. Roar unbeaten this season (Neos Kosmos).",
+  "news": "Roar unbeaten; Sydney without Hollman and two U17 call-ups.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.783,
+    "why": "Both sides 2.0+ GF/g; last-10 O1.5 85%; H2H 2-4. Own p 0.81."
+   },
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.25,
+    "p": 0.7669,
+    "why": "Roar unbeaten and scoring 2.5/g last 10 (scored in 9/10 per trend); Sydney missing midfielder Hollman. Own p 0.80."
+   }
+  ],
+  "avoid": "Result-sides (near coin-flip); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://brisbaneroar.com.au/news/alm-mw5-preview-brisbane-roar-vs-sydney-fc/",
+   "https://aleagues.com.au/news/news-aleague-men-ins-outs-matchweek-5/",
+   "https://neoskosmos.com/en/2026/11/10/sport/football/a-league-men-wellington-hold-on-valkanis-roar-remain-unbeaten-victory-still-winless/",
+   "https://aucklandfc.co.nz/"
+  ]
+ },
+ {
+  "eid": "sr:match:75881462",
+  "fx": "FC Syunik v FC Urartu Yerevan",
+  "sport": "football",
+  "absences": "Urartu: head coach left by mutual consent 28 Oct, interim in charge. Others: no news found.",
+  "context": "Armenian Premier League, Sat 21 Nov at Sisian City Stadium, 12:00 CET = 11:00 UTC, matches. Both bottom/mid-table (Urartu ~6th, Syunik ~11 pts).",
+  "news": "Urartu under interim coach; no player news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7839,
+    "why": "Syunik's last 6 all had 2+ goals (2-1,1-3,3-4,4-1,1-5,2-0); Urartu 5/6. Own p 0.79. Fill-grade (stats + coaching flux)."
+   }
+  ],
+  "avoid": "Under markets; Urartu away 1X2 (p0.50).",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Armenian_Premier_League",
+   "https://www.betexplorer.com/football/armenia/premier-league/",
+   "https://www.worldfootball.net/competition/co1105/armenia-premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72676174",
+  "fx": "FAC Wien Amateure v Gerasd. Stammersd.",
+  "sport": "football",
+  "absences": "Gerasdorf: new head coach Gokce Tuna; Antonio Paric joined from Marchfeld. FAC: no news found.",
+  "context": "Wiener Stadtliga (AMATEUR, 4th tier) round 14; FAC Wien Amateure is a RESERVE side. Preview lists Sat 21 Nov 13:00 CET = 12:00 UTC, matches. Gerasdorf relegation-threatened.",
+  "news": "Gerasdorf bottom half under new coach; H2H mixed (FAC 5-1 Nov 2025, Gerasdorf 4-0 May 2026).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve/amateur: no result-sides; H2H 0-4 undermines the mismatch read, so no goals pick either.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ligaportal.at/wien/wiener-liga/vorschau/44868-wiener-stadtliga-2026-2027-interwetten-vorschau-runde-14",
+   "https://ticker.ligaportal.at/mannschaft/942/sv-gerasdorf-stammersdorf/tabelle"
+  ]
+ },
+ {
+  "eid": "sr:match:72676178",
+  "fx": "LAC Inter v SK Slovan HAC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Wiener Stadtliga (AMATEUR) round 14, 13:00 UTC. No date conflict found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amateur: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ligaportal.at/wien/wiener-liga/vorschau/44868-wiener-stadtliga-2026-2027-interwetten-vorschau-runde-14",
+   "https://ticker.ligaportal.at/mannschaft/942/sv-gerasdorf-stammersdorf/tabelle"
+  ]
+ },
+ {
+  "eid": "sr:match:74436814",
+  "fx": "Petroleos Do Lobito v Recreativo Do Libolo",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Girabola 2026/27 round 11. Petroleos do Lobito score 0.4/g (1W in last 10); Libolo ~7th (15 pts).",
+  "news": "no news found (search returned Academica do Lobito, a different club).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 1.17 below price floor; Under 2.5 p0.62 fails gate; no result-side edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.zerozero.pt/competicao/liga-angolana",
+   "https://afaplay.com/palpite-interclube-x-petro-de-luanda-angola-girabola-21-11-2026/",
+   "https://pt.wikipedia.org/wiki/Girabola_de_2026%E2%80%9327"
+  ]
+ },
+ {
+  "eid": "sr:match:72440770",
+  "fx": "FC Liefering v Wacker Innsbruck",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Austrian 2. Liga MD13, Red Bull Arena Wals-Siezenheim, 15:30 CET = 14:30 UTC, matches. Liefering = Red Bull Salzburg farm/reserve side. Wacker host First Vienna next Fri 27 Nov.",
+  "news": "Fixture confirmed; no team news. Liefering ~20 pts, Innsbruck ~17.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result-sides; not a clear mismatch so no goals pick despite BTTS/O2.5 trends (80-85%).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.2liga.at/de/spielplan",
+   "https://www.weltfussball.at/wettbewerb/co38/oesterreich-2-liga/ergebnisse-und-tabellen/",
+   "https://fc-wacker-innsbruck.at/maenner/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72440772",
+  "fx": "First Vienna FC 1894 v Schwarz-Weiss Bregenz",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Austrian 2. Liga MD13 at Hohe Warte, 14:30 UTC, matches. First Vienna lead/near top (26 pts from 12); Bregenz 0W in last 4 away (1-0-? per SR, GA 2.0 away).",
+  "news": "Vienna listed favourite ~1.70 elsewhere; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.7305,
+    "why": "Table leader v Bregenz (2W in last 10, winless in 4 away). Caution: Vienna home form patchy (0-6, 0-3 home defeats). Own p 0.72."
+   }
+  ],
+  "avoid": "Vienna -1.5; Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.2liga.at/de/spielplan",
+   "https://www.weltfussball.at/wettbewerb/co38/oesterreich-2-liga/ergebnisse-und-tabellen/",
+   "https://fc-wacker-innsbruck.at/maenner/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72440780",
+  "fx": "SK Sturm Graz II v SKU Amstetten",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Austrian 2. Liga MD13, 14:30 UTC. Sturm Graz II is a RESERVE side.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no picks (even match).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.2liga.at/de/spielplan",
+   "https://www.weltfussball.at/wettbewerb/co38/oesterreich-2-liga/ergebnisse-und-tabellen/",
+   "https://fc-wacker-innsbruck.at/maenner/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:74436816",
+  "fx": "GD Interclube v Atletico Petroleos de Luanda",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Girabola round 11. Petro de Luanda (defending champions) 2nd, 22 pts, 6W 4D 0L, only 2 conceded in 10. Interclube 6th (15 pts).",
+  "news": "Petro unbeaten with best defence. Kick-off times differ across sites (15:00 zerozero, 12:00 Brasilia = 15:00 UTC; one site 06:00) - two agree with board 15:00 UTC; flagged, not vetoed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.22,
+    "p": 0.7728,
+    "why": "Petro unbeaten in league (0 defeats in 10) and conceded 2 all season; Interclube 4W in last 10, 1.0 GF/g. Own p 0.80."
+   }
+  ],
+  "avoid": "Petro 1X2 (away p0.57 < 0.75); Under 2.5 (p0.63 fails gate).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.zerozero.pt/competicao/liga-angolana",
+   "https://afaplay.com/palpite-interclube-x-petro-de-luanda-angola-girabola-21-11-2026/",
+   "https://pt.wikipedia.org/wiki/Girabola_de_2026%E2%80%9327"
+  ]
+ },
+ {
+  "eid": "sr:match:75881464",
+  "fx": "Ararat Yerevan FC v FC BKMA Yerevan",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Armenian Premier League, Vazgen Sargsyan Republican Stadium, 16:00 CET = 15:00 UTC, matches. Ararat Yerevan ~11 pts, bottom half; BKMA lost 5 of last 6 away.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.29,
+    "p": 0.726,
+    "why": "BKMA 1W in last 6 away (GA 2.83/g away); Ararat poor too (home GF 0.5) so fill-grade. Own p 0.73."
+   }
+  ],
+  "avoid": "Ararat -0.5/1X2 (home GF 0.5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Armenian_Premier_League",
+   "https://www.betexplorer.com/football/armenia/premier-league/",
+   "https://www.worldfootball.net/competition/co1105/armenia-premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73528728",
+  "fx": "FC Rangers v SC Escaldes",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Andorra Primera Divisio, Sat 21 Nov. Sporting Escaldes 1W in last 10, GA 2.5; Rangers mid-table (lost 1-0 at Penya MD8).",
+  "news": "Fixture confirmed on Betexplorer; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7523,
+    "why": "Escaldes 1W/10, 4 of 5 away games lost conceding 2.6/g. Rangers only 4W in 10 so fill-grade, stats only. Own p 0.73."
+   }
+  ],
+  "avoid": "Rangers -1.5 (Rangers score 1.1/g); Overs.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/andorra/primera-divisio/",
+   "https://www.foot-actu.com/classements-championnats-football-etrangers/1a-divisio-andorre-312"
+  ]
+ },
+ {
+  "eid": "sr:match:72345580",
+  "fx": "LASK Linz v TSV Hartberg",
+  "sport": "football",
+  "absences": "Hartberg: captain Paul Komposch (fibula fracture) out; Lukas Fridrikas, Manuel Pfeifer, Fabian Wilfinger reported out by one tipster site only. LASK: George Bello (muscle) out per one source, Ramiz Harakate doubtful; another source says no LASK injuries.",
+  "context": "Austrian Bundesliga round 13, Raiffeisen Arena, 17:00 CET = 16:00 UTC, matches. LASK 3rd (title contender), Hartberg 4th; Hartberg won 4-0 in Graz last round.",
+  "news": "Hartberg lose captain Komposch; LASK absences disputed. 3rd v 4th, both scoring ~2.8/g.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.36,
+    "p": 0.7082,
+    "why": "Both last-10 85% O2.5; LASK games avg 5.2 goals, Hartberg 4.3; Hartberg defence weakened by Komposch absence. Own p 0.74."
+   }
+  ],
+  "avoid": "LASK -0.5/-1.5: house p0.75 for 3rd v in-form 4th (Hartberg 6W 3D 1L last 10); trend 0.35. Away +1.5/+2.5 catch banned (fav p>=0.60).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bundesliga.at/de/news/artikel/vorschau-auf-die-13-runde-der-admiral-bundesliga-6",
+   "https://www.wetttippsheute.net/lask-tsv-hartberg-tipp-quoten-prognose-bundesliga-oesterreich-21-11-2026/",
+   "https://www.fotmob.com/matches/wsg-tirol-vs-austria-lustenau/13toy1?player=836442"
+  ]
+ },
+ {
+  "eid": "sr:match:72345590",
+  "fx": "WSG Tirol v Austria Lustenau",
+  "sport": "football",
+  "absences": "WSG Tirol: Quincy Butler (ACL) out. Lustenau: Sacha Delaye (muscle, 1-2 weeks) out.",
+  "context": "Austrian Bundesliga round 13, Tivoli Stadion Tirol 16:00 UTC, matches. Lustenau lost all 4 recent away games conceding 4.0/g.",
+  "news": "Minor absences both sides; Lustenau leaky away.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8208,
+    "why": "Lustenau away: 0W/4, 16 goals conceded; both last-10 95% O1.5; Austrian top flight avg ~3 g/g. Own p 0.85."
+   }
+  ],
+  "avoid": "WSG 1X2/DNB (WSG winless in last 4 home).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bundesliga.at/de/news/artikel/vorschau-auf-die-13-runde-der-admiral-bundesliga-6",
+   "https://www.wetttippsheute.net/lask-tsv-hartberg-tipp-quoten-prognose-bundesliga-oesterreich-21-11-2026/",
+   "https://www.fotmob.com/matches/wsg-tirol-vs-austria-lustenau/13toy1?player=836442"
+  ]
+ },
+ {
+  "eid": "sr:match:76649190",
+  "fx": "Defensa y Justicia v CA Barracas Central",
+  "sport": "football",
+  "absences": "No named absences found. Probable XIs published (Defensa: Borgogno; Loza, D. Fernandez, D. Martinez, Dominguez; Perez, Sosa Yung, Porcel, Gutierrez; L. Fernandez, Lucco - DT Julio Vaccari. Barracas: Espinola; Barrios, Capraro, Demartini, Insua; Bogarin, Miloc, Tapia; Porra, Orsini, Taborda).",
+  "context": "Torneo Clausura ROUND OF 16 single-leg KNOCKOUT (4A v 5B). Sat 21 Nov 15:00 ART = 18:00 UTC (another source 19:00 CET = same), matches.",
+  "news": "Knockout; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (knockout). Under 3.5 p0.815 just under the 0.82 gate - skip despite 85% trend.",
+  "confidence": 0.25,
+  "sources": [
+   "https://urgente24.com/golazo24/defensa-y-justicia-vs-barracas-que-hora-juegan-donde-ver-y-formaciones-n637218",
+   "https://www.labrujula24.com/notas/2026/11/20/velez-y-belgrano-inauguran-los-playoffs-del-torneo-clausura-n531707/"
+  ]
+ },
+ {
+  "eid": "sr:match:76675062",
+  "fx": "CA Talleres de Remedios v Real Pilar FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Primera B Metro REDUCIDO QF 2nd leg: Real Pilar lead 2-1 on aggregate; Talleres RE must win. Sat 21 Nov 15:00 ART = 18:00 UTC (earlier report 14:00, latest 15:00), matches board.",
+  "news": "Return leg at Pablo Comelli; Real Pilar won 1st leg 2-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout: no result-sides; O1.5 banned in Argentine lower tiers; Under 3.5 p0.80 < 0.82. Chasing home side raises open-game tail.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.inforegion.com.ar/2026/11/20/reducido-talleres-define-en-remedios-de-escalada/",
+   "https://www.mundoascenso.com.ar/noticia/171497-programacion-de-los-partidos-de-vuelta-del-reducido-de-primera-b",
+   "https://www.espn.com/soccer/schedule/_/league/arg.3"
+  ]
+ },
+ {
+  "eid": "sr:match:76427136",
+  "fx": "CS Italiano v CD Armenio",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Primera B Metro REDUCIDO QF 2nd leg: Armenio lead 1-0 on aggregate, at Italiano (Ciudad Evita). 18:00 UTC, matches.",
+  "news": "Armenio won 1st leg 1-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout: no result-sides; 1-goal cushion insufficient for To Qualify; Under 3.5 1.13 below floor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.inforegion.com.ar/2026/11/20/reducido-talleres-define-en-remedios-de-escalada/",
+   "https://www.mundoascenso.com.ar/noticia/171497-programacion-de-los-partidos-de-vuelta-del-reducido-de-primera-b",
+   "https://www.espn.com/soccer/schedule/_/league/arg.3"
+  ]
+ },
+ {
+  "eid": "sr:match:73528726",
+  "fx": "FC Ordino v FC Penya d`Andorra",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Andorra Primera Divisio; Ordino ~5th, Penya ~6th. Penya 0W in last 5 away.",
+  "news": "Fixture confirmed on Betexplorer; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No edge; house p near trend everywhere.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/andorra/primera-divisio/",
+   "https://www.foot-actu.com/classements-championnats-football-etrangers/1a-divisio-andorre-312"
+  ]
+ },
+ {
+  "eid": "sr:match:76966234",
+  "fx": "Newell's Old Boys v Union de Santa Fe",
+  "sport": "football",
+  "absences": "N/A (women's).",
+  "context": "WOMEN'S Argentine Primera, Clausura. Newell's beat Independiente 2-1 on 17 Nov.",
+  "news": "DATE CONFLICT: es.wikipedia fixture table lists Newell's v Union on 22 Nov; board says 21 Nov 19:00 UTC. One article also claims Newell's relegated (inconsistent).",
+  "veto": true,
+  "veto_reason": "Date conflict: Wikipedia lists 22 Nov vs board 21 Nov; women's fixture.",
+  "picks": [],
+  "avoid": "Women's + date conflict.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Campeonato_de_F%C3%BAtbol_Femenino_de_Primera_Divisi%C3%B3n_A_2026_(Argentina)",
+   "https://www.afa.com.ar/es/posts/futbol-femenino-cronograma-de-la-fecha-14-de-primera-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73528732",
+  "fx": "CF Esperanca D Andorra v CE Carroi",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Andorra Primera Divisio; Esperanca ~4th, Carroi last (relegation zone), 1W in 10, 0/4 away with 3.0 GA/g.",
+  "news": "Fixture confirmed on Betexplorer; Esperanca won 4-2 at Casa de Portugal MD8.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8024,
+    "why": "Top-4 side v bottom club Carroi (1W in 10, lost all 4 away, 0.5 GF away). Own p 0.82."
+   }
+  ],
+  "avoid": "Esperanca -1.5 (p0.41).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.betexplorer.com/football/andorra/primera-divisio/",
+   "https://www.foot-actu.com/classements-championnats-football-etrangers/1a-divisio-andorre-312"
+  ]
+ },
+ {
+  "eid": "sr:match:76649184",
+  "fx": "Argentinos Juniors v CA Independiente Avellaneda",
+  "sport": "football",
+  "absences": "Argentinos: Franco Paredes (suspended, 2 games), Matias Gimenez Rojas (injured, bench at best), Franco Vazquez (doubt, tear); Francisco Alvarez back from suspension, Brayan Cortes back from Chile duty. Independiente: no news found.",
+  "context": "Torneo Clausura ROUND OF 16 single-leg KNOCKOUT; Sat 21 Nov 17:00 ART = 20:00 UTC, matches. Argentinos reported to have unpaid wages.",
+  "news": "Argentinos weakened (Paredes, Gimenez Rojas) and in wage arrears; cagey knockout.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Under 3.5",
+    "odds": 1.18,
+    "p": 0.8203,
+    "why": "Knockout at 90' between two low scorers (Argentinos 1.0 GF/0.8 GA, Independiente 0.9/1.3); both last-10 95% U3.5; Argentinos lose an attacker. Fav p 0.48 (no rout tail). Own p 0.85."
+   }
+  ],
+  "avoid": "Result-sides (knockout); Independiente to qualify (no cushion).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.noticiasdebariloche.com.ar/argentinos-juniors-vs-independiente-por-los-octavos-de-final-del-torneo-clausura-2026-dia-horario-formaciones-y-tv/",
+   "https://elintransigente.com/2026/11/17/independiente-enfrenta-argentinos-juniors-arrastra-deudas-salariales/"
+  ]
+ },
+ {
+  "eid": "sr:match:76966236",
+  "fx": "Gimnasia Y Esgrima La Plata v CA Independiente",
+  "sport": "football",
+  "absences": "N/A (women's).",
+  "context": "WOMEN'S Argentine Primera, Clausura.",
+  "news": "DATE CONFLICT: es.wikipedia lists Gimnasia v Independiente on 22 Nov; board 21 Nov 20:00 UTC.",
+  "veto": true,
+  "veto_reason": "Date conflict: Wikipedia lists 22 Nov vs board 21 Nov; women's fixture.",
+  "picks": [],
+  "avoid": "Women's + date conflict.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Campeonato_de_F%C3%BAtbol_Femenino_de_Primera_Divisi%C3%B3n_A_2026_(Argentina)",
+   "https://www.afa.com.ar/es/posts/futbol-femenino-cronograma-de-la-fecha-14-de-primera-division"
+  ]
+ },
+ {
+  "eid": "sr:match:76938248",
+  "fx": "Club Ciudad de Bolivar v CA Atlanta",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Primera Nacional REDUCIDO QF 1st leg at Estadio Municipal Eva Peron, Sat 21 Nov 17:00 ART = 20:00 UTC, matches. Return 28 Nov (not firmly confirmed).",
+  "news": "Two-legged knockout first leg; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Two-legged knockout: no result-sides; Under 3.5 1.13 below floor; Under 2.5 p0.68 fails gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.unosantafe.com.ar/ovacion/el-reducido-entra-una-etapa-decisiva-dias-horarios-y-arbitros-los-cuartos-final-n10293373.html",
+   "https://www.cfin.com.ar/futbol/colon-vs-deportivo-moron-cuando-juegan-cuartos-reducido-2026/",
+   "https://santafedeportivo.com.ar/2026/11/19/confirmada-la-revancha-deportivo-moron-y-colon-jugaran-el-viernes-27-de-noviembre-a-las-2100/"
+  ]
+ },
+ {
+  "eid": "sr:match:76938246",
+  "fx": "Colon de Santa Fe v Deportivo Moron",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Primera Nacional REDUCIDO QF 1st leg; Colon (6th) host Moron (3rd, sporting advantage), Sat 21 Nov 17:30 ART = 20:30 UTC at Brigadier Lopez, ref Fabrizio Llobet, matches. Return Fri 27 Nov 21:00 at Moron. Moron won both regular-season meetings.",
+  "news": "Kick-off confirmed by several Santa Fe outlets.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Two-legged knockout: no result-sides (Colon 1X 1.19 tempting but Moron beat them twice); Under 3.5 1.12 below floor.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.unosantafe.com.ar/ovacion/el-reducido-entra-una-etapa-decisiva-dias-horarios-y-arbitros-los-cuartos-final-n10293373.html",
+   "https://www.cfin.com.ar/futbol/colon-vs-deportivo-moron-cuando-juegan-cuartos-reducido-2026/",
+   "https://santafedeportivo.com.ar/2026/11/19/confirmada-la-revancha-deportivo-moron-y-colon-jugaran-el-viernes-27-de-noviembre-a-las-2100/"
+  ]
+ }
+]

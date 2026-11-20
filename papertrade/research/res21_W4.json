@@ -1,0 +1,633 @@
+[
+ {
+  "eid": "sr:match:76123158",
+  "fx": "Joinville EC SC v Jaragua Futsal SC",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "LNF 2026 playoff, 2nd leg in Joinville (19h BRT = 22:00 UTC Nov 20, matches board). KNOCKOUT: 1X2 is on 40 min, aggregate decides.",
+  "news": "LNF playoff return leg; web (jdv.com.br) says Jaragua won leg 1 3-2 in Jaragua do Sul, but Sportradar records Joinville winning 3-2 away (h2h 3-2, Joinville last 'A 3-2').",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result side (knockout). First-leg result conflicts between web and Sportradar (data_conflict). Under 5.5 p 0.58 < 0.82 gate. May already be in play at posting.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.jdv.com.br/jaragua-futsal-playoffs-lnf-2026/",
+   "https://www.radiosideral.com.br/post/atl%C3%A2ntico-enfrenta-o-magnus-neste-s%C3%A1bado-pelo-primeiro-jogo-da-semifinal-da-liga-nacional-de-futsal",
+   "https://atualfm.com.br/liga-nacional-silver-de-futsal-define-finalistas/"
+  ]
+ },
+ {
+  "eid": "sr:match:74290534",
+  "fx": "Sibiryak v Fakel-GTS Surgut",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Superliga round 9. Surgut (Fakel) about 20 pts, Sibiryak near bottom. Sibiryak home games average ~8.8 goals.",
+  "news": "sports.ru round-9 list confirms Sibiryak v Surgut (Fakel), listed 18:00.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: sports.ru lists every 9th-round Superliga game at 18:00 (no time zone given), which does not match the board time in local time; single generic source, low severity, but binding per the date/venue/kick-off rule.",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.61 < 0.75 anyway.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sports.ru/futsal/1117441153-chempionat-rossii-po-futzalu-9-j-tur-sinara-sygraet-s-novoj-generaczie.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74672854",
+  "fx": "Lam Dong FC v Binh Minh Sai Gon",
+  "sport": "football",
+  "absences": "none found",
+  "context": "V.League 2 round 8, 15:30 local at Da Lat (=08:30 UTC, matches). Lam Dong (promoted, 4 pts, 1W in 8, 0.75 GF/g) v Binh Minh Sai Gon (ex-Dong Thap, renamed 13 Aug 2026; 13 pts).",
+  "news": "Tuoi Tre/SGGP: Lam Dong (4 pts) at home but uneasy v higher-placed Binh Minh Sai Gon (13 pts); round-8 date and venue confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.47,
+    "p": 0.6335,
+    "why": "9-point table gap; Lam Dong 1W/6L in 8 and score 0.75/g; DNB covers the draw. Trend 0.69 v house 0.63. Own est 0.67."
+   }
+  ],
+  "avoid": "Over 1.5 (thin 2nd-tier league, Lam Dong barely scores); away 1X2 p 0.45.",
+  "confidence": 0.25,
+  "sources": [
+   "https://tuoitre.vn/lich-truc-tiep-vong-8-giai-hang-nhat-tphcm-cham-tran-thai-nguyen-100261119194027683.htm",
+   "https://thethao.sggp.org.vn/lich-thi-dau-vong-8-giai-hang-nhat-2026-2027-post882595.html",
+   "https://thethao.sggp.org.vn/becamex-tphcm-dung-truoc-co-hoi-chiem-ngoi-dau-bang-post882667.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74290530",
+  "fx": "Norilsky Nickel v Tzms Tula",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Superliga round 9. Norilsk about 27 pts (3rd), TZMS Tula 21 pts; Tula concede 5.9/g over the last 10 (one 0-8 loss).",
+  "news": "sports.ru confirms Norilsk v TZMS Tula in round 9, listed 18:00.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: sports.ru lists every 9th-round Superliga game at 18:00 (no time zone given), which does not match the board time in local time; single generic source, low severity, but binding per the date/venue/kick-off rule.",
+  "picks": [],
+  "avoid": "Home 1X2 p 0.72 would be the only candidate, but vetoed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sports.ru/futsal/1117441153-chempionat-rossii-po-futzalu-9-j-tur-sinara-sygraet-s-novoj-generaczie.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74672858",
+  "fx": "Becamex Ho Chi Minh City v Huda Hue",
+  "sport": "football",
+  "absences": "none found",
+  "context": "V.League 2 round 8, 18:00 local at Binh Duong (=11:00 UTC, matches). Becamex (relegated last season, 8W in 10) go top if Thai Nguyen dropped points on Nov 20; Hue (promoted, 5 pts) won last round.",
+  "news": "Tuoi Tre/SGGP: Becamex can take top spot; Hue near the bottom with 5 pts; balance clearly favours the hosts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.07 is too short; Under 4.5 p 0.73 < 0.82; Over 2.5 trend 0.55 is below house 0.68. No priced edge.",
+  "confidence": 0.2,
+  "sources": [
+   "https://tuoitre.vn/lich-truc-tiep-vong-8-giai-hang-nhat-tphcm-cham-tran-thai-nguyen-100261119194027683.htm",
+   "https://thethao.sggp.org.vn/lich-thi-dau-vong-8-giai-hang-nhat-2026-2027-post882595.html",
+   "https://thethao.sggp.org.vn/becamex-tphcm-dung-truoc-co-hoi-chiem-ngoi-dau-bang-post882667.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74672856",
+  "fx": "Xuan Thien Phu Tho FC v Long An FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "V.League 2 round 8, 18:00 local (=11:00 UTC, matches). 'Reverse final' at the bottom: Phu Tho 2 pts v Long An 4 pts. Long An 0W in 10 with 0.7 GF/g; their last 6: 1-1, 0-0, 1-1, 1-3, 0-1, 0-0.",
+  "news": "SGGP calls it a reverse final at the bottom; date confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 (Long An games are 0-0/1-1 class; thin league); result sides close to 50/50 in a relegation six-pointer.",
+  "confidence": 0.15,
+  "sources": [
+   "https://tuoitre.vn/lich-truc-tiep-vong-8-giai-hang-nhat-tphcm-cham-tran-thai-nguyen-100261119194027683.htm",
+   "https://thethao.sggp.org.vn/lich-thi-dau-vong-8-giai-hang-nhat-2026-2027-post882595.html",
+   "https://thethao.sggp.org.vn/becamex-tphcm-dung-truoc-co-hoi-chiem-ngoi-dau-bang-post882667.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74090512",
+  "fx": "Binh Phuoc v Hanoi FC",
+  "sport": "football",
+  "absences": "no confirmed absences found",
+  "context": "SportyBet 'Binh Phuoc' = Truong Tuoi Dong Nai, at home in Binh Phuoc stadium, 18:00 local on 21/11 (=11:00 UTC, matches). Hosts are bottom with 4 pts after their first win (v SHB Da Nang); Hanoi FC 9th with 9 pts, 4 wins in 7, lost at HAGL and struggles away (1W in 5 away). Cong Phuong leads the hosts' attack.",
+  "news": "thethao247/Thanh Nien: 'difficulties pile up' for Hanoi after the HAGL defeat; hosts motivated to escape the bottom.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.21,
+    "p": 0.7913,
+    "why": "Fav p 0.61, so +2.0 rather than +1.5. Hanoi are poor away (1W in 5, GF 1.0) and under pressure; only a 3+ goal Hanoi win loses, and a 2-goal win is a push. Trend 0.88. Own est (win or push) 0.85."
+   }
+  ],
+  "avoid": "Hanoi 1X2/DNB (research-flagged fragile away favourite); Over 1.5 p 0.74 in a ~2.5-goal league.",
+  "confidence": 0.3,
+  "sources": [
+   "https://bongdaplus.vn/v-league/nhan-dinh-bong-da-nam-dinh-vs-hai-phong-18h00-ngay-21-11-co-hoi-cho-dat-cang-5294072611.html",
+   "https://thethao247.vn/63-nhan-dinh-truong-tuoi-dong-nai-vs-ha-noi-kho-khan-chong-chat-18h00-ngay-21-11-2026-c288-d446403.html",
+   "https://thanhnien.vn/nhan-dinh-tran-clb-tpdong-nai-vs-clb-ha-noi-thoat-day-nho-cong-phuong-185261120133223964.htm",
+   "https://baoquocte.vn/lich-thi-dau-bong-da-hom-nay-21-11-va-sang-22-11-lich-thi-dau-ngoai-hang-anh-newcastle-vs-arsenal-v-league-nam-dinh-vs-hai-phong-469661.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74090510",
+  "fx": "Nam Dinh FC v Hai Phong FC",
+  "sport": "football",
+  "absences": "Nam Dinh: Hong Duy (suspended, red card in round 7), Nguyen Xuan Son (injured, still recovering). Hai Phong: Manh Dung (suspended, sent off last match).",
+  "context": "V.League 1 round 8, 18:00 local on 21/11 (=11:00 UTC, matches). Nam Dinh top, 2 pts clear of CAHN; Hai Phong have Dylan Kerr back as coach (new-coach bounce).",
+  "news": "bongdaplus: Nam Dinh without Hong Duy and Xuan Son; Hai Phong without Manh Dung; Kerr's return could lift Hai Phong.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8173,
+    "why": "Nam Dinh score 2.2/g (2.6 at home) and Hai Phong concede 1.7/g away; Nam Dinh's last 6 all had 2+ goals; Hai Phong's 4 of 6. Trend 0.90 v house 0.82. Xuan Son's absence is the risk. Own est 0.82."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-2",
+    "desc": "Away (+2.0)",
+    "odds": 1.35,
+    "p": 0.7085,
+    "why": "Fav p 0.67, so +2.0 rather than +1.5. Without top scorer Xuan Son a 3+ margin is less likely; Hai Phong get a new-coach lift; a 2-goal loss is a push. Trend 0.72. Own est (win or push) 0.75."
+   }
+  ],
+  "avoid": "Nam Dinh 1X2/-1 (key striker out; new-coach bounce).",
+  "confidence": 0.3,
+  "sources": [
+   "https://bongdaplus.vn/v-league/nhan-dinh-bong-da-nam-dinh-vs-hai-phong-18h00-ngay-21-11-co-hoi-cho-dat-cang-5294072611.html",
+   "https://thethao247.vn/63-nhan-dinh-truong-tuoi-dong-nai-vs-ha-noi-kho-khan-chong-chat-18h00-ngay-21-11-2026-c288-d446403.html",
+   "https://thanhnien.vn/nhan-dinh-tran-clb-tpdong-nai-vs-clb-ha-noi-thoat-day-nho-cong-phuong-185261120133223964.htm",
+   "https://baoquocte.vn/lich-thi-dau-bong-da-hom-nay-21-11-va-sang-22-11-lich-thi-dau-ngoai-hang-anh-newcastle-vs-arsenal-v-league-nam-dinh-vs-hai-phong-469661.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74290532",
+  "fx": "Torpedo Nizhny Novgorod v Gazprom-Ugra Yugorsk",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Superliga round 9. Gazprom-Ugra lead the table with 37 pts (9W in 10, 5.9 GF/g); Torpedo about 20 pts.",
+  "news": "sports.ru confirms Torpedo v Gazprom-Ugra, listed 18:00; Ugra top of the table.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: sports.ru lists every 9th-round Superliga game at 18:00 (no time zone given), which does not match the board time in local time; single generic source, low severity, but binding per the date/venue/kick-off rule.",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.705 < 0.75 anyway.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sports.ru/futsal/1117441153-chempionat-rossii-po-futzalu-9-j-tur-sinara-sygraet-s-novoj-generaczie.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72629752",
+  "fx": "FS Valdepenas v Noia Portus Apostoli",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Spanish Primera futsal. Both sides are in poor form (Valdepenas 2W in 10, Noia 2W in 10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism; totals at 50/50.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76841390",
+  "fx": "FC Muza v Nkana FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Zambia Super League. Nkana top (16 pts), Muza 3rd (12) in the latest snapshot found. Low-scoring sides (Nkana concede 0.5/g).",
+  "news": "Kalumiana (Substack) fixture list dates Power Dynamos v Zanaco and FC Muza v Nkana 22/11/2026, not 21/11.",
+  "veto": true,
+  "veto_reason": "Date conflict: source lists the fixture on 22/11/2026, while the board has 21/11 13:00 UTC.",
+  "picks": [],
+  "avoid": "Everything (date conflict).",
+  "confidence": 0.1,
+  "sources": [
+   "https://kalumiana.substack.com/p/green-eagles-open-5-point-lead",
+   "https://www.sportytrader.com/en/results/football/zambia/premier-league-57320/yesterday/"
+  ]
+ },
+ {
+  "eid": "sr:match:74201092",
+  "fx": "Power Dynamos v Zanaco FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Zambia Super League. Zanaco 4th (11 pts), Power Dynamos 5th (10). Dynamos score 0.6/g.",
+  "news": "Kalumiana lists Power Dynamos v Zanaco on 22/11/2026; Sportytrader shows an older 18 Nov listing.",
+  "veto": true,
+  "veto_reason": "Date conflict: 22/11 in source v 21/11 on the board.",
+  "picks": [],
+  "avoid": "Everything (date conflict); Under 3.5 p 0.80 < 0.82 in any case.",
+  "confidence": 0.1,
+  "sources": [
+   "https://kalumiana.substack.com/p/green-eagles-open-5-point-lead",
+   "https://www.sportytrader.com/en/results/football/zambia/premier-league-57320/yesterday/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546178",
+  "fx": "Cardiff Draconians v Aberystwyth Town FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru South, 14:00 (FAW lists four 14:00 South games on 21/11). Aberystwyth 2nd behind Pontypridd and in a title race (7W in 10, 4W in 5 away, concede 0.8/g). Draconians lost 0-6 and 0-2 in their last 2 away games, though they are better at home (3W 2D 1L).",
+  "news": "FAW table (older snapshot): Pontypridd 1st, Aberystwyth 2nd. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.7599,
+    "why": "Title-chasing Aberystwyth (7W in 10, concede 0.8/g) v a mid-table side; DNB removes the draw. Trend 0.65, house 0.76. Own est 0.77."
+   }
+  ],
+  "avoid": "Away 1X2 at p 0.60 (< 0.75); Over 1.5 at 1.15 (below 1.18).",
+  "confidence": 0.2,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/cymru-south/",
+   "https://faw.cymru/cymru-leagues/cymru-south/fixtures-and-results/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546180",
+  "fx": "Pontardawe Town FC v Baglan Dragons",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru South, 14:00. Baglan on 20 pts near the top-half pack. Pontardawe won all 3 home games (4.0 GF/g). Pontardawe's last 6 totals: 6, 3, 8, 2, 5, 7; Baglan's: 7, 3, 1, 4, 2, 3.",
+  "news": "no news found (pairing not contradicted; four 14:00 South games listed on 21/11)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.8112,
+    "why": "Cymru South is a high-scoring tier (~3+ goals/game); 11 of the two sides' last 12 games had 2+ goals; trend 0.85 v house 0.81. Own est 0.84."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.3,
+    "p": 0.7385,
+    "why": "Close game (home p 0.48, so a +1.5 catch is allowed); Baglan lost only 4 of 10 and won 3 of 4 away. Trend 0.90. Own est 0.78."
+   }
+  ],
+  "avoid": "Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/cymru-south/",
+   "https://faw.cymru/cymru-leagues/cymru-south/fixtures-and-results/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546182",
+  "fx": "Treowen Stars v Afan Lido",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru South, 14:00. Treowen won 3-2 from behind at high-flying Pure Swansea (Hillman brace) in mid-November but are 0W 1D 2L at home this season (2.0 GA/g).",
+  "news": "FAW round-up: Treowen beat Pure Swansea 3-2 away (Tom Hillman 2).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.28,
+    "p": 0.7496,
+    "why": "Home p 0.45, so +1.5 is allowed; Treowen have no home win this season and Afan Lido lost 4 of 10. Trend 0.85. Own est 0.79."
+   }
+  ],
+  "avoid": "Treowen 1X2/DNB despite the away win; Under 4.5 p 0.71.",
+  "confidence": 0.2,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/cymru-south/",
+   "https://faw.cymru/cymru-leagues/cymru-south/fixtures-and-results/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546184",
+  "fx": "Ynyshir Albions v Llantwit Major",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru South, 14:00. Ynyshir unbeaten at home (3W 1D, 3.25 GF/g); Llantwit 2W 2D 2L away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.31,
+    "p": 0.731,
+    "why": "Home p 0.49, so +1.5 is allowed; Llantwit lost only 3 of 10. Ynyshir's home scoring (3.25/g) is the risk. Trend 0.80. Own est 0.75."
+   }
+  ],
+  "avoid": "Over 1.5 at 1.16 (below 1.18).",
+  "confidence": 0.2,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/cymru-south/",
+   "https://faw.cymru/cymru-leagues/cymru-south/fixtures-and-results/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546708",
+  "fx": "Brickfield Rangers v Newtown AFC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru North top-of-table clash, 14:00 at Clywedog Park (FAW). Leaders Brickfield (4 pts clear after a 3-1 win at Buckley) v 2nd-placed Newtown (game in hand). Brickfield lost 1-0 to Caerau Ely in the Welsh Cup last weekend. Newtown's Josh Astley in form (2-0 v Buckley, 2-0 v Ruthin, 2 goals in a 3-1 Welsh Cup win). Newtown concede 0.5/g.",
+  "news": "FAW Games to Watch and Rhyl Journal confirm Brickfield v Newtown, Sat 2pm, top two.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.7947,
+    "why": "Newtown scored in 8 of their last 10 (2.0 GF/g, 7W in 10) and Astley is in form; Brickfield concede 1.0/g. Trend 0.70 v house 0.79, so this is a thin edge. Own est 0.80. Not for a core (away team-to-score class)."
+   }
+  ],
+  "avoid": "Result sides (big top-two clash); Over 1.5/2.5 (cagey top-two clash, trend 0.40 for O2.5); Under 4.5 p 0.80 < 0.82.",
+  "confidence": 0.2,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/novira-cymru-leagues-games-to-watch-20-21-november/",
+   "https://rhyljournal.co.uk/sport/26744941.brickfield-host-newtown-lofty-cymru-north-showdown",
+   "https://bangorcityfootballclub.com/news/mens/2026-27-novira-cymru-north-fixture-list/",
+   "https://faw.cymru/cymru-leagues/cymru-north/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546710",
+  "fx": "Caersws v Denbigh Town",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru North. Denbigh recently won 7-1.",
+  "news": "FAW 21/11 listing seen in search pairs Caersws with Penrhyncoch and Denbigh with Bangor 1876 at 14:00, which conflicts with the board's Caersws v Denbigh; no source confirms this pairing.",
+  "veto": true,
+  "veto_reason": "Fixture conflict: the FAW Cymru North 21/11 listing (as surfaced) shows different opponents; pairing not confirmed.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/novira-cymru-leagues-games-to-watch-20-21-november/",
+   "https://rhyljournal.co.uk/sport/26744941.brickfield-host-newtown-lofty-cymru-north-showdown",
+   "https://bangorcityfootballclub.com/news/mens/2026-27-novira-cymru-north-fixture-list/",
+   "https://faw.cymru/cymru-leagues/cymru-north/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546714",
+  "fx": "Guilsfield FC v Bangor 1876 FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru North, 14:00. Bangor City 1876's club site confirms Guilsfield v CPD Dinas Bangor 1876 on Sat 21/11 at 14:00. Very volatile scorelines (Guilsfield 11-12; Bangor 9-0).",
+  "news": "Bangor 1876 fixture list confirms the date. The FAW snippet showed Guilsfield v Newtown, but the FAW's own preview has Newtown at Brickfield, so that is a mis-snippet.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No clear mechanism; Over 2.5 trend 0.45 is below house 0.66.",
+  "confidence": 0.15,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/novira-cymru-leagues-games-to-watch-20-21-november/",
+   "https://rhyljournal.co.uk/sport/26744941.brickfield-host-newtown-lofty-cymru-north-showdown",
+   "https://bangorcityfootballclub.com/news/mens/2026-27-novira-cymru-north-fixture-list/",
+   "https://faw.cymru/cymru-leagues/cymru-north/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546716",
+  "fx": "Holyhead Hotspur v Bala Town FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru North, 14:00 GMT. Rhyl Journal: fifth-placed Bala visit Holyhead; Holyhead unbeaten in 7 and recently beat Bala away (4-3); Bala's home form is patchy after a fine start, and they are 3W in 10 overall (2.4 GA/g).",
+  "news": "Rhyl Journal preview confirms Holyhead v Bala on 21/11. Forebet shows 15:00 (likely CET) and names Maes Tegid, a minor listing inconsistency; the board home/away matches Rhyl Journal.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.31,
+    "p": 0.7299,
+    "why": "Bala p 0.49, so +1.5 is allowed. Holyhead unbeaten in 7, won the last meeting 4-3 at Bala, and are 6W in 10; Bala are weak defensively (2.4 GA/g) and won only 3 of 10. Trend 0.95. Own est 0.82."
+   }
+  ],
+  "avoid": "Bala 1X2/DNB (DNB trend 0.33).",
+  "confidence": 0.3,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/novira-cymru-leagues-games-to-watch-20-21-november/",
+   "https://rhyljournal.co.uk/sport/26744941.brickfield-host-newtown-lofty-cymru-north-showdown",
+   "https://bangorcityfootballclub.com/news/mens/2026-27-novira-cymru-north-fixture-list/",
+   "https://faw.cymru/cymru-leagues/cymru-north/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546718",
+  "fx": "Llanuwchllyn v Ruthin Town",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru North, 14:00. Rhyl Journal confirms Llanuwchllyn host Ruthin Town. Ruthin score 0.6/g (lost 2-0 at Newtown recently), 1W in 5 away. Llanuwchllyn home games are high-scoring (3.17 GF, 3.0 GA).",
+  "news": "Rhyl Journal preview confirms the fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.35,
+    "p": 0.7046,
+    "why": "Equivalent to home-or-draw. Ruthin have scored 0.6/g over the last 10 with 1W in 5 away; Llanuwchllyn won 3 of 6 at home. Trend 0.56 for the home DNB. Own est 0.74."
+   }
+  ],
+  "avoid": "Over 1.5 at 1.16 (below 1.18).",
+  "confidence": 0.2,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/novira-cymru-leagues-games-to-watch-20-21-november/",
+   "https://rhyljournal.co.uk/sport/26744941.brickfield-host-newtown-lofty-cymru-north-showdown",
+   "https://bangorcityfootballclub.com/news/mens/2026-27-novira-cymru-north-fixture-list/",
+   "https://faw.cymru/cymru-leagues/cymru-north/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546720",
+  "fx": "Mold Alexandra FC v Porthmadog FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru North. Mold 6W in 10 (3.3 GF/g).",
+  "news": "FAW 21/11 listing surfaced in search shows Bala Town v Porthmadog at 14:00 (and a Rhyl v Mold game), which conflicts with the board's Mold v Porthmadog; no confirmation found.",
+  "veto": true,
+  "veto_reason": "Fixture conflict: FAW listing shows Porthmadog playing Bala on 21/11; pairing unconfirmed.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/novira-cymru-leagues-games-to-watch-20-21-november/",
+   "https://rhyljournal.co.uk/sport/26744941.brickfield-host-newtown-lofty-cymru-north-showdown",
+   "https://bangorcityfootballclub.com/news/mens/2026-27-novira-cymru-north-fixture-list/",
+   "https://faw.cymru/cymru-leagues/cymru-north/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546722",
+  "fx": "Penrhyncoch v CPD Y Rhyl 1879",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru North. Penrhyncoch lost all 10 of their last 10 (3.3 GA/g); Rhyl 0W in 10 (5 draws).",
+  "news": "FAW 21/11 listing surfaced in search shows Holyhead v Rhyl 1879 and Caersws v Penrhyncoch, which conflicts with the board's Penrhyncoch v Rhyl; Holyhead are confirmed playing Bala that day.",
+  "veto": true,
+  "veto_reason": "Fixture conflict: FAW listing pairs both clubs with other opponents; pairing unconfirmed.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/novira-cymru-leagues-games-to-watch-20-21-november/",
+   "https://rhyljournal.co.uk/sport/26744941.brickfield-host-newtown-lofty-cymru-north-showdown",
+   "https://bangorcityfootballclub.com/news/mens/2026-27-novira-cymru-north-fixture-list/",
+   "https://faw.cymru/cymru-leagues/cymru-north/"
+  ]
+ },
+ {
+  "eid": "sr:match:74290528",
+  "fx": "Kristall v Iraero Irkutsk",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Superliga round 9. Kristall (St Petersburg) 0W in 5 at home (5.2 GA/g); IrAero about 21 pts, 5W in 7 away.",
+  "news": "sports.ru confirms Kristall v IrAero, listed 18:00.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: sports.ru lists every 9th-round Superliga game at 18:00 (no time zone given), which does not match the board time in local time; single generic source, low severity, but binding per the date/venue/kick-off rule.",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.60 < 0.75.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sports.ru/futsal/1117441153-chempionat-rossii-po-futzalu-9-j-tur-sinara-sygraet-s-novoj-generaczie.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73987074",
+  "fx": "ASD Roma 1927 A5 v Sporting Sala Consilina",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Serie A futsal round 9. Moved to PalaRinaldi, Anzio, Sat 16:00 local (=15:00 UTC, matches the board); free entry, streamed on the Division's YouTube. Key game for a Coppa Italia Final Eight place.",
+  "news": "FutsalNow confirms the venue change to Anzio and the 16:00 start; Sky Sport calls it key for the Final Eight race.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No edge; home p 0.48 in a near coin-flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futsalnow.it/2026/11/19/roma-1927-futsal-sporting-sala-consilina-si-giochera-sabato-al-palarinaldi-di-anzio/",
+   "https://sport.sky.it/calcio/2026/11/20/futsal-serie-a-giornata-9-presentazione-partite"
+  ]
+ },
+ {
+  "eid": "sr:match:73322048",
+  "fx": "MOKS SÅoneczny Stok BiaÅystok v Bsf Bochnia",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Fogo Futsal Ekstraklasa round 12. Home side branded Jagiellonia Bialystok (same club as MOKS Sloneczny Stok); Sat 16:00 local (=15:00 UTC, matches; Statscore says 17:00). BSF Bochnia in the top 8, 4 pts above 7th-placed AZS.",
+  "news": "Official league preview lists Jagiellonia Bialystok v BSF ABJ Bochnia, Sat 16:00, YouTube.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.62 < 0.75; totals 50/50.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futsalekstraklasa.pl/aktualnosc/zapowiedz-12-kolejki-fogo-futsal-ekstraklasy",
+   "https://futsal-ekstraklasa.statscore.com/pl/futsal/futsal-ekstraklasa,6294/71147"
+  ]
+ },
+ {
+  "eid": "sr:match:73322044",
+  "fx": "AZS US Katowice v Wks Slask Wroclaw",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Ekstraklasa round 12, Sat 18:00 local (=17:00 UTC, matches). Katowice just outside the top 8 (7th per preview); Slask want to strengthen their top-8 place. Katowice lost 1-10 and 0-8 away but are 3W 1D 1L at home.",
+  "news": "Official preview lists AZS US Katowice v Jaxan WKS Slask Wroclaw, Sat 18:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.50; Under 6.5 p 0.56 < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futsalekstraklasa.pl/aktualnosc/zapowiedz-12-kolejki-fogo-futsal-ekstraklasy",
+   "https://futsal-ekstraklasa.statscore.com/pl/futsal/futsal-ekstraklasa,6294/71147"
+  ]
+ },
+ {
+  "eid": "sr:match:73623752",
+  "fx": "SK Amor Lazor Vyskov v FC Rapid Usti Nad Labem",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Czech futsal liga, Sat 19:00 local at ZS Purkynova hall, Vyskov (=18:00 UTC, matches). Vyskov 1 pt from 8 games (6.3 GA/g); Rapid Usti 11 pts; Usti won the reverse fixture 8-2.",
+  "news": "Vyskovsky denik (20 Nov): Rapid the favourite; Vyskov want to make amends for the eight-goal defeat.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 1.29 (p 0.735) is just under the 0.75 away gate, so no pick, though my estimate is ~0.80.",
+  "confidence": 0.2,
+  "sources": [
+   "https://vyskovsky.denik.cz/ostatni-sporty/futsaliste-amoru-chteji-reparat-za-liberec-favoritem-ale-zustava-rapid/"
+  ]
+ },
+ {
+  "eid": "sr:match:76123154",
+  "fx": "CER Atlantico Erechim RS v Magnus Sorocaba SP",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "LNF 2026 semi-final 2nd leg at Caldeirao do Galo, Erechim (21 Nov). Magnus won leg 1 3-2 in Sorocaba (web and Sportradar agree). Atlantico 9W in 10, 5W in 5 at home; Magnus unbeaten in 10. KNOCKOUT.",
+  "news": "Radio Sideral/AtualFM: Atlantico (2nd seed) host the decisive leg after a 3-2 defeat in Sorocaba.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result side (knockout); Under 5.5 p 0.54 < 0.82 (trend 0.75 noted).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jdv.com.br/jaragua-futsal-playoffs-lnf-2026/",
+   "https://www.radiosideral.com.br/post/atl%C3%A2ntico-enfrenta-o-magnus-neste-s%C3%A1bado-pelo-primeiro-jogo-da-semifinal-da-liga-nacional-de-futsal",
+   "https://atualfm.com.br/liga-nacional-silver-de-futsal-define-finalistas/"
+  ]
+ },
+ {
+  "eid": "sr:match:76882104",
+  "fx": "Barquisimeto SC v Urena SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga FUTVE 2 semi-final 2nd leg; leg 1 finished 2-2 at Urena (Nov 15). KNOCKOUT. Barquisimeto 0W in 4 at home.",
+  "news": "365Scores: semi-final 21 Nov 22:00; Futbol24 lists Barquisimeto v Urena on 22 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict (21 Nov v 22 Nov between sources) plus knockout.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/es/football/match/liga-futve-2-5602/barquisimeto-sc-urena-sc-13835-68891-5602",
+   "https://www.futbol24.com/national/Venezuela/Segunda-Division/2026"
+  ]
+ }
+]

@@ -1,0 +1,669 @@
+[
+ {
+  "eid": "sr:match:73296496",
+  "fx": "Southern District Football Club v Hong Kong Rangers",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "HKPL 2026-27; Southern home 4-1-1, Rangers 1-2-7 last 10",
+  "news": "Soccerway listing ambiguous: Southern v Rangers may be 22.11 not 21.11; no team news found",
+  "veto": true,
+  "veto_reason": "Date conflict: Soccerway date label suggests 22 Nov while board says 21 Nov 07:00 UTC; LiveSoccerTV listing stale",
+  "picks": [],
+  "avoid": "everything until date confirmed",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/hong-kong/premier-league/",
+   "https://www.livesoccertv.com/competitions/hong-kong/khfa-1st-division/",
+   "https://www.aiscore.com/en/team-kitchee/o17pji0pg0h27jw"
+  ]
+ },
+ {
+  "eid": "sr:match:73296478",
+  "fx": "Tai Po FC v Kitchee",
+  "sport": "football",
+  "absences": "Kitchee: Ruslan Mingazov (abdominal strain since 6 Nov), Marcos Junior (hip flexor), Lam Pak-yin (ACL) per AiScore; not confirmed for this match",
+  "context": "HKPL; Tai Po beat Kitchee 3-0 (May 2026) and 4-2 (last H2H); Tai Po beat Southern 4-2 on 19 Oct; high-scoring league",
+  "news": "Soccerway lists Tai Po v Kitchee on 21.11; Kitchee have 2-3 attacking absences; no preview found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.33,
+    "p": 0.7188603079,
+    "why": "Both sides 2+ goals per game (Tai Po 1.7/2.1, Kitchee 2.1 scored), H2H 4-2 and 3-0, HKPL high scoring; own p 0.72"
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.35,
+    "p": 0.7074451334,
+    "why": "Kitchee fav p 0.63 (+2.0 allowed); Tai Po won last two H2H and Kitchee missing Mingazov/Marcos Junior; void on exact 2-goal loss; own p 0.73"
+   }
+  ],
+  "avoid": "Kitchee 1X2 at 1.5 (away p 0.63 < 0.75; lost last two H2H)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.soccerway.com/hong-kong/premier-league/",
+   "https://www.livesoccertv.com/competitions/hong-kong/khfa-1st-division/",
+   "https://www.aiscore.com/en/team-kitchee/o17pji0pg0h27jw"
+  ]
+ },
+ {
+  "eid": "sr:match:73549270",
+  "fx": "Debreceni VSC v Varda Labdarugo Akademia",
+  "sport": "football",
+  "absences": "youth fixture, not researched for team news",
+  "context": "Hungary U19; Debrecen home 4-1-0",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth: no result-sides; no clear goals mismatch",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73690296",
+  "fx": "Asteras Tripolis v Aris",
+  "sport": "football",
+  "absences": "youth",
+  "context": "Greek K19 round 11; Aris 4-1-4 (13 pts), Asteras 2-1-6 (7 pts)",
+  "news": "Documento lists Asteras-Aris for 17:00 Monday 23 Nov (possibly senior fixture); U19 date unconfirmed",
+  "veto": true,
+  "veto_reason": "Date conflict: Asteras v Aris listed Mon 23 Nov in Documento vs board Sat 21 Nov 09:30 UTC",
+  "picks": [],
+  "avoid": "all (youth + date conflict)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.documentonews.gr/article/super-league-epistrofi-me-dynata-mats-imeres-ores-kai-tileoptikes-metadoseis/",
+   "https://www.politic.gr/sports/super-league-k19-ta-apotelesmata-tis-10is-agonistikis-kai-i-vathmologia"
+  ]
+ },
+ {
+  "eid": "sr:match:73690306",
+  "fx": "Panaitolikos v Volos NPS",
+  "sport": "football",
+  "absences": "youth",
+  "context": "Greek K19; Volos top (19 pts, 17-5), Panaitolikos 1-1-8, lost 1-4 to Aris last round",
+  "news": "Documento lists Panaitolikos-Volos at 17:00 (likely senior fixture); U19 kick-off unconfirmed",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: sources list 17:00 local vs board 10:00 UTC; youth anyway",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.documentonews.gr/article/super-league-epistrofi-me-dynata-mats-imeres-ores-kai-tileoptikes-metadoseis/",
+   "https://www.politic.gr/sports/super-league-k19-ta-apotelesmata-tis-10is-agonistikis-kai-i-vathmologia"
+  ]
+ },
+ {
+  "eid": "sr:match:73180734",
+  "fx": "Puskas Akademia Felcsut v Ferencvarosi Budapest",
+  "sport": "football",
+  "absences": "women's fixture",
+  "context": "Hungary NB I women; Ferencvaros v Puskas top clash",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women: no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73690302",
+  "fx": "Olympiacos Piraeus v POT Iraklis",
+  "sport": "football",
+  "absences": "youth",
+  "context": "Greek K19; Olympiacos 6-0-2 (21-9), Iraklis 3-2-4 conceded 26 in 9, lost 1-6 to Panathinaikos",
+  "news": "politic.gr lists Olympiacos-Iraklis K19 on Sunday 22 Nov",
+  "veto": true,
+  "veto_reason": "Date conflict: politic.gr says Sun 22 Nov vs board Sat 21 Nov 10:30 UTC",
+  "picks": [],
+  "avoid": "Over 2.5 mismatch goals would otherwise qualify; vetoed on date",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.documentonews.gr/article/super-league-epistrofi-me-dynata-mats-imeres-ores-kai-tileoptikes-metadoseis/",
+   "https://www.politic.gr/sports/super-league-k19-ta-apotelesmata-tis-10is-agonistikis-kai-i-vathmologia"
+  ]
+ },
+ {
+  "eid": "sr:match:73180730",
+  "fx": "Szent Mihaly SE v Pecsi MFC",
+  "sport": "football",
+  "absences": "women's fixture",
+  "context": "Hungary NB I women; lower-table",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women: no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72501234",
+  "fx": "Bvsc-Zuglo v Gyirmot FC Gyor",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NB II round 14; Gyirmot won last round (csakfoci); BVSC home 2-1-1; evenly priced",
+  "news": "Nemzeti Sport/hunfoci: Sat 21 Nov 13:00 CET; eredmenyek.com lists 22.11 (outlier)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result markets: coin-flip; minor date outlier (eredmenyek 22.11) - recheck before booking",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/11/meg-ket-nb-ii-es-meccs-kerul-iden-kepernyore",
+   "https://hunfoci.hu/tippek-es-jatekok/tippjatek-nb-ii-14-fordulo.html",
+   "https://www.eredmenyek.com/foci/magyarorszag/nb-ii/"
+  ]
+ },
+ {
+  "eid": "sr:match:72501244",
+  "fx": "FC Nagykanizsai v Mezokovesd Zsory SE",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NB II; Mezokovesd (relegated from NB I) 5-2-3, away 2-0-1; Nagykanizsa 3-0-7, scoring 1.2",
+  "news": "Same round as BVSC game: Sat 21 Nov 13:00 per Nemzeti Sport/hunfoci; eredmenyek lists 22.11",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Away (0)",
+    "odds": 1.35,
+    "p": 0.708875191,
+    "why": "Mezokovesd DNB: home side 3-0-7 last 10 and scores 1.2; draw voids; own p 0.72 (sim 0.53 win-only)"
+   }
+  ],
+  "avoid": "Mezokovesd 1X2 1.77 (away p 0.53 < 0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/11/meg-ket-nb-ii-es-meccs-kerul-iden-kepernyore",
+   "https://hunfoci.hu/tippek-es-jatekok/tippjatek-nb-ii-14-fordulo.html",
+   "https://www.eredmenyek.com/foci/magyarorszag/nb-ii/"
+  ]
+ },
+ {
+  "eid": "sr:match:74172546",
+  "fx": "AE Larissa FC v Asteras Tripolis B",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "SL2; Larissa ~4th (20 pts), home 3-2-0 GF 0.8 GA 0.2, drew 0-0 with Nestos 14 Nov; Asteras B beat PAOK B 4-0",
+  "news": "Betexplorer lists 13:45 at AEL FC Arena (time-zone unclear; board 12:45 UTC = 14:45 Greek)",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict 13:45 (source) vs 14:45 local (board); no pick lost",
+  "picks": [],
+  "avoid": "Under 3.5 (p 0.74 < 0.82 gate); Larissa DNB 1.21 fragile (Larissa scores 0.8 at home)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/greece/super-league-2/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2",
+   "https://www.livesoccertv.com/competitions/greece/super-league-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:72809392",
+  "fx": "FSV Frankfurt 1899 v SC Freiburg II",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Regionalliga SW MD17; FSV Frankfurt 14th (17 pts), home 0-0-4 conceding 2.5; Freiburg II 8th (21 pts)",
+  "news": "hessenschau/regionalliga.de: Sat 21 Nov 14:00 CET confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.35,
+    "p": 0.688211,
+    "why": "GG: FSV concede 2.5 at home, Freiburg II score in most away games (1.8); 8/10 trend; own p 0.71"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.39,
+    "p": 0.6742200063,
+    "why": "FSV home games average 3.25 goals; 7.5/10 trend; own p 0.69"
+   }
+  ],
+  "avoid": "result sides (both poor form)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-180.html",
+   "https://regionalliga.de/suedwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72809394",
+  "fx": "KSV Hessen Kassel v SGV Freiberg",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Regionalliga SW; SGV (Heilbronn-)Freiberg 1st on 32 pts, unbeaten 5-5-0 last 10; Kassel 11th (18), home 1-1-3",
+  "news": "Club now plays as SGV Heilbronn-Freiberg (moved to Heilbronn), same fixture; Sat 21 Nov 14:00 CET",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.34,
+    "p": 0.69673,
+    "why": "Leaders unbeaten in last 10 (3-1-0 away) v Kassel 1-1-3 at home; DNB covers draw; own p 0.73"
+   }
+  ],
+  "avoid": "Freiberg 1X2 1.75 (away p 0.53)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/fussball-180.html",
+   "https://regionalliga.de/suedwest"
+  ]
+ },
+ {
+  "eid": "sr:match:72808146",
+  "fx": "Borussia Monchengladbach II v Bonner SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Regionalliga West; Gladbach II 3rd (32 pts, 41:18), recent 7-0 and 3-0 wins; Bonner SC 6th, beat Schalke II 3-1",
+  "news": "sport.de lists Gladbach II game on Sat 21.11; post-break, Bundesliga fringe players may drop down",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.41,
+    "p": 0.6669154737,
+    "why": "Gladbach II 41 goals in 16; Bonner score 2.1/game; trend 7.5/10; own p 0.69"
+   }
+  ],
+  "avoid": "Gladbach II 1X2 (home 2-1-2 only; trend 0.40)",
+  "confidence": 0.22,
+  "sources": [
+   "https://www.sport.de/fussball/deutschland-regionalliga-west/ergebnisse-und-tabelle/",
+   "https://www.fussballdaten.de/regionalliga/west/"
+  ]
+ },
+ {
+  "eid": "sr:match:72808144",
+  "fx": "SV Rodinghausen v FC Schalke 04 II",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Regionalliga West; Rodinghausen 15th, Schalke II 11th, lost 0-7 at home to Gladbach II and 1-3 at Bonner",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.35,
+    "p": 0.6864112165,
+    "why": "GG in 8.5/10 of the sides' last 10; both defences 2.2 GA; own p 0.72"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.4,
+    "p": 0.670849,
+    "why": "Both concede 2.2/game; Rodinghausen had 5-6 and 2-3 recently; own p 0.69"
+   }
+  ],
+  "avoid": "result sides",
+  "confidence": 0.22,
+  "sources": [
+   "https://www.sport.de/fussball/deutschland-regionalliga-west/ergebnisse-und-tabelle/",
+   "https://www.fussballdaten.de/regionalliga/west/"
+  ]
+ },
+ {
+  "eid": "sr:match:74172550",
+  "fx": "Nestos Chrysoupoli FC v Hellas Syrou",
+  "sport": "football",
+  "absences": "Nestos: coach Sakis Papavasiliou sacked 10 Nov, interim since 12 Nov",
+  "context": "SL2; Nestos 1-2-7, home 0-1-4, drew 0-0 at Larissa; Hellas Syrou ~6th, beat Panthrakikos 2-0 on 14 Nov",
+  "news": "Wikipedia: Nestos coaching change; fixture listed 21 Nov",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.32,
+    "p": 0.6981020409,
+    "why": "Nestos 0-1-4 at home and score 0.6 at home; Syrou in form; new-coach bounce is the risk; own p 0.73"
+   }
+  ],
+  "avoid": "Under 3.5 (p 0.79 < 0.82); Syrou 1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betexplorer.com/football/greece/super-league-2/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2",
+   "https://www.livesoccertv.com/competitions/greece/super-league-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:74172554",
+  "fx": "Panthrakikos FC Komotini v Panionios Athens",
+  "sport": "football",
+  "absences": "Panionios: coach Juan Ferrando sacked 9 Nov, interim since 12 Nov",
+  "context": "SL2; Panionios ~5th (17 pts) but away 0-2-2 scoring 0.25; Panthrakikos lost 0-2 at Syrou",
+  "news": "Wikipedia: Panionios coaching change; fixture listed 21 Nov",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Panionios DNB 1.38 (away GF 0.25, coach turmoil); Under 3.5 p 0.78 < 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/greece/super-league-2/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2",
+   "https://www.livesoccertv.com/competitions/greece/super-league-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:74281442",
+  "fx": "OFI v Rea",
+  "sport": "football",
+  "absences": "women's fixture",
+  "context": "Greek women; Rea 5-1-4 v OFI 2-1-7",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women: no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74041328",
+  "fx": "AO Rethymniakos v Chania FC",
+  "sport": "football",
+  "absences": "Chania: Karriki suspended (3 yellows), Vogiatzis and Ntentakis injured, Adamopoulos, Georgiakakis, Oikonomakis, Giourtzidis left out; Mingos returns. Rethymniakos: none reported",
+  "context": "Cretan derby, Gamma Ethniki group round 9; Chania 1st (+4), Rethymniakos 2nd/3rd on 16 pts, home 3-0-1",
+  "news": "athletic.gr/sportcaster: Chania travel with 20 and several absences; house prices Rethymniakos at 8.4 despite being a top-3 side",
+  "veto": true,
+  "veto_reason": "Derby between top-3 sides, leader has 6 absentees, and the 8.4/1.26 price contradicts the table (data conflict)",
+  "picks": [],
+  "avoid": "all: derby, no result-side; amateur league so no Unders",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.athletic.gr/football-league-2/1066079-chania-me-arketa-problimata-apenanti-ston-rethumniako/",
+   "https://sportcaster.gr/2026/11/20/choris-treis-paiktes-ta-chania-sti-sochor/",
+   "https://fonimaleviziou.gr/2026/11/15/g%CE%84-ethniki-sto-4-ta-chania-apo-poa-kai-rethymniako-pou-akolouthoun/",
+   "https://www.athletic.gr/football-league-2/1066074-giouchtas-me-simantikes-apousies-kontra-stin-episkopi/",
+   "https://sportcaster.gr/2026/11/20/tesseris-apousies-kai-mia-epistrofi-s/"
+  ]
+ },
+ {
+  "eid": "sr:match:74041332",
+  "fx": "AO Tympakiou v PO Atsaleniou",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Gamma Ethniki Crete; Tympaki beat Ergotelis last round; POA (PO Atsaleniou) level 2nd; both low scoring (0.9/1.3 GF)",
+  "news": "Referee Misailidis; Phaistos municipal stadium, 21 Nov 15:00 local",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders banned in amateur league; POA DNB 1.40 (Tympaki unbeaten at home 2-3-0)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.athletic.gr/football-league-2/1066079-chania-me-arketa-problimata-apenanti-ston-rethumniako/",
+   "https://sportcaster.gr/2026/11/20/choris-treis-paiktes-ta-chania-sti-sochor/",
+   "https://fonimaleviziou.gr/2026/11/15/g%CE%84-ethniki-sto-4-ta-chania-apo-poa-kai-rethymniako-pou-akolouthoun/",
+   "https://www.athletic.gr/football-league-2/1066074-giouchtas-me-simantikes-apousies-kontra-stin-episkopi/",
+   "https://sportcaster.gr/2026/11/20/tesseris-apousies-kai-mia-epistrofi-s/"
+  ]
+ },
+ {
+  "eid": "sr:match:74037234",
+  "fx": "Apollon Paralimniou FC v Aetos Orfanou",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Gamma Ethniki group 1; Aetos Orfanou concede 3.6 away (0-1-4); Apollon Paralimniou score 0.7",
+  "news": "EPO/mikriliga: 21 Nov 15:00 local; opponent spelled Aetos Ofryniou in some listings (same club)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "thin amateur Overs; Apollon DNB 1.48 (home 2-1-3)",
+  "confidence": 0.1,
+  "sources": [
+   "https://starsports.gr/2026/11/20/g-ethniki-to-s-k-21-22-11-i-9i-agonistiki-ston-5o-omilo/",
+   "https://www.mikriliga.com/g-ethniki-oi-diaitites-tis-9is-agonistikis-kai-oi-allages-sto-programma/"
+  ]
+ },
+ {
+  "eid": "sr:match:74041336",
+  "fx": "Giouchtas v Episkopi FC",
+  "sport": "football",
+  "absences": "Giouchtas: Fazos and Perdikis suspended, Tzirakis and Fekkas injured (one player returns)",
+  "context": "Gamma Ethniki Crete; Giouchtas 4th on 14 pts, unbeaten 5-5-0 last 10",
+  "news": "athletic.gr/sportcaster: four absences for Giouchtas v Episkopi at Archanes",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Giouchtas 1X2 / DNB 1.19: fragile favourite with 4 absentees (R4 skip)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.athletic.gr/football-league-2/1066079-chania-me-arketa-problimata-apenanti-ston-rethumniako/",
+   "https://sportcaster.gr/2026/11/20/choris-treis-paiktes-ta-chania-sti-sochor/",
+   "https://fonimaleviziou.gr/2026/11/15/g%CE%84-ethniki-sto-4-ta-chania-apo-poa-kai-rethymniako-pou-akolouthoun/",
+   "https://www.athletic.gr/football-league-2/1066074-giouchtas-me-simantikes-apousies-kontra-stin-episkopi/",
+   "https://sportcaster.gr/2026/11/20/tesseris-apousies-kai-mia-epistrofi-s/"
+  ]
+ },
+ {
+  "eid": "sr:match:74038958",
+  "fx": "Tiva v AE Anagennisi Schimatariou",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Boeotian derby (Gamma Ethniki group 5); Tiva 1-2-7 scoring 0.5",
+  "news": "starsports: Thiva v Anagennisi Schimatariou Sat 21 Nov 15:00, referee Kokkoris",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby: no result-sides; amateur Unders banned",
+  "confidence": 0.1,
+  "sources": [
+   "https://starsports.gr/2026/11/20/g-ethniki-to-s-k-21-22-11-i-9i-agonistiki-ston-5o-omilo/",
+   "https://www.mikriliga.com/g-ethniki-oi-diaitites-tis-9is-agonistikis-kai-oi-allages-sto-programma/"
+  ]
+ },
+ {
+  "eid": "sr:match:72674454",
+  "fx": "Hannover 96 II v SV Drochtersen/Assel",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Regionalliga Nord top clash: Hannover 96 II 1st (~39 pts), Drochtersen/Assel near the top; both 3+ goals per game",
+  "news": "calovo: Sat 21 Nov 15:00 CET; standings sources conflict on exact points",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.36,
+    "p": 0.6902846077,
+    "why": "Hannover II games 4.5 goals/game, Drochtersen 4.9; 8/10 trend, O3.5 trend 0.70; own p 0.73"
+   }
+  ],
+  "avoid": "result sides (top-of-table clash)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sport.de/fussball/deutschland-regionalliga-nord/ergebnisse-und-tabelle/",
+   "https://calovo.de/fussball/regionalliga/regionalliga-nord/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72674468",
+  "fx": "SSV Jeddeloh II v SC Weiche Flensburg 08",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Regionalliga Nord; SSV Jeddeloh ~12th; Weiche Flensburg 2nd (~38 pts)",
+  "news": "calovo: Sat 21 Nov 15:00 CET",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.684398,
+    "why": "Jeddeloh concede 2.1, Weiche score 2.1; 7.5/10 trend; own p 0.70"
+   }
+  ],
+  "avoid": "Weiche 1X2 1.85 (p 0.50)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sport.de/fussball/deutschland-regionalliga-nord/ergebnisse-und-tabelle/",
+   "https://calovo.de/fussball/regionalliga/regionalliga-nord/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:74441526",
+  "fx": "Vision FC (GHA) v Debibi United FC",
+  "sport": "football",
+  "absences": "no news found (no injury news in previews)",
+  "context": "Ghana PL MD12, Tema; Vision 13th (11 pts), winless in 4 home games (3D 1L), home 0.25 GF; Debibi newcomers, 0-1-4 away, lost 3-1 to Port City",
+  "news": "GFA/ghanasoccernet: Sat 21 Nov 15:00 GMT at Nii Adjei Kraku II; first meeting",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vision 1X2/DNB: house p 0.58/0.79 rich v Vision home form; very low-scoring",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ghanafa.org/premier-league-vision-fc-seek-redemption-against-debibi-united-in-matchday-12-opener",
+   "https://ghanasoccernet.com/2026-27-ghana-premier-league-week-12-match-preview-vision-fc-vs-debibi-united"
+  ]
+ },
+ {
+  "eid": "sr:match:72475094",
+  "fx": "CSD Xelaju MC v CD Suchitepequez",
+  "sport": "football",
+  "absences": "none: no suspensions reported",
+  "context": "Guatemala Apertura J21 (penultimate); Xelaju 2nd on 34 pts chasing top/seeding, home 5-0-1 (2.17/0.67); Suchitepequez last (13 pts), away 0-0-5 conceding 2.8",
+  "news": "Antorcha/CRN: Sat 21 Nov 13:00 local at Mario Camposeco (ClaroSports text says 14 Nov, apparent typo)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Home (-1.0)",
+    "odds": 1.21,
+    "p": 0.7961065852,
+    "why": "Xelaju home wins 4-0, 2-0; Suchi lose away by 2.4 GA avg; void on 1-0; own p 0.82"
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.766353,
+    "why": "Xelaju team 2+ goals: home GF 2.17 v worst away defence; own p 0.76"
+   }
+  ],
+  "avoid": "Xelaju 1X2 at 1.15 (sub-1.18)",
+  "confidence": 0.3,
+  "sources": [
+   "https://crnnoticias.com/jornada-20-apertura-2026-resultados-tabla-posiciones/",
+   "https://antorchadeportiva.com/la-jornada-21-del-torneo-apertura-2026-enciende-la-recta-final/",
+   "https://www.clarosports.com/centroamerica/futbol-cenam/mixco-vs-malacateco-en-vivo-donde-mirar-el-apertura-2026-de-la-liga-de-guatemala/"
+  ]
+ },
+ {
+  "eid": "sr:match:72475096",
+  "fx": "Deportivo Mixco v CD Malacateco",
+  "sport": "football",
+  "absences": "none: ClaroSports says no suspended players on either side",
+  "context": "Guatemala J21; Mixco 3rd on 34 pts (title-race), home 3-2-0 GA 0.6; Malacateco 11th, away 0-1-5 scoring 0.5",
+  "news": "Sat 21 Nov 15:00 local, Santo Domingo de Guzman, TV Azteca",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.667543,
+    "why": "Mixco level on 34 pts with Xelaju chasing seeding; Malacateco 0-1-5 away with 0.5 GF; own p 0.70"
+   }
+  ],
+  "avoid": "Overs (Guatemala low scoring)",
+  "confidence": 0.25,
+  "sources": [
+   "https://crnnoticias.com/jornada-20-apertura-2026-resultados-tabla-posiciones/",
+   "https://antorchadeportiva.com/la-jornada-21-del-torneo-apertura-2026-enciende-la-recta-final/",
+   "https://www.clarosports.com/centroamerica/futbol-cenam/mixco-vs-malacateco-en-vivo-donde-mirar-el-apertura-2026-de-la-liga-de-guatemala/"
+  ]
+ },
+ {
+  "eid": "sr:match:76409728",
+  "fx": "CD Genesis PN v CA Independiente Siguatepeque",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Honduras Apertura J15 of 16; Genesis home 0-2-3; Independiente 10th (13 pts); bottom-half sides",
+  "news": "deportestvc: Sat 21 Nov 3:00pm at Roberto Suazo Cordova, no TV",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.38,
+    "p": 0.692421,
+    "why": "Genesis 0-2-3 at home with 0.6 GF; fav p 0.54 (< 0.55, +1.5 allowed); own p 0.73"
+   }
+  ],
+  "avoid": "Genesis 1X2/DNB (home form poor)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.deportestvc.com/liga-nacional/jornada-15-del-torneo-clausura-2026-27-liga-nacional-de-honduras-2026-11-18",
+   "https://www.worldfootball.net/competition/co1168/honduras-liga-nacional/results-and-standings/",
+   "https://www.radiohrn.hn/calendario-del-apertura-2026-fechas-y-horarios-de-jornadas-del-torneo-de-honduras-2026-09-26"
+  ]
+ },
+ {
+  "eid": "sr:match:76409738",
+  "fx": "CD Estrella Roja v Lobos UPNFM",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Honduras J15; Estrella Roja and Lobos both on 19 pts fighting for the liguilla (must-win for both)",
+  "news": "deportestvc: Sat 21 Nov 5:15pm at Marcelo Tinoco, Danli (earlier source had 18 Nov; 21 Nov is the latest)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.22,
+    "p": 0.781782,
+    "why": "Lobos concede 0.6 away and lost by 2+ rarely; home fav p only 0.43; own p 0.81"
+   }
+  ],
+  "avoid": "result sides (even, must-win both)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.deportestvc.com/liga-nacional/jornada-15-del-torneo-clausura-2026-27-liga-nacional-de-honduras-2026-11-18",
+   "https://www.worldfootball.net/competition/co1168/honduras-liga-nacional/results-and-standings/",
+   "https://www.radiohrn.hn/calendario-del-apertura-2026-fechas-y-horarios-de-jornadas-del-torneo-de-honduras-2026-09-26"
+  ]
+ }
+]

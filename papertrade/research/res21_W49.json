@@ -1,0 +1,608 @@
+[
+ {
+  "eid": "sr:match:76482928",
+  "fx": "Sheger Ketema v Hawassa Kenema SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Ethiopian PL; both sides low-scoring (0.9 gf each).",
+  "news": "Forebet lists Sheger Ketema v Awassa Kenema on 20 Nov, TheSportsDB on 21 Nov: date conflict.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (20 vs 21 Nov).",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.thesportsdb.com/season/4959-ethiopian-premier-league/2026-2027",
+   "https://www.forebet.com/en/predictions-ethiopia/premier-league/fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:76482936",
+  "fx": "Ethiopian Coffee SC v Wolaita Dicha SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Ethiopian PL; Coffee 2W in 10, 0.6 gf; Dicha unbeaten away in 3.",
+  "news": "Forebet lists Ethiopian Coffee v Welayta Dicha on 22 Nov and Dicha v Welwalo Adigrat on 21 Nov; TheSportsDB lists it on 21 Nov: date/pairing conflict.",
+  "veto": true,
+  "veto_reason": "Date/pairing conflict between sources (21 vs 22 Nov).",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.thesportsdb.com/season/4959-ethiopian-premier-league/2026-2027",
+   "https://www.forebet.com/en/predictions-ethiopia/premier-league/fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:72037456",
+  "fx": "Stade Lavallois MFC v Montpellier",
+  "sport": "football",
+  "absences": "Laval: Teddy Bouriaud (quad, out), Alessio Beaudoin (psoas, out), Francis Coquelin (minor muscle, doubtful/out), Yanis Court (knee surgery, long-term). Returns: William Bianda (capt), Trevis Dago. Montpellier: Gregory Ayem back from suspension; Benhattab and Chennahi trained normally.",
+  "context": "Ligue 2 MD13: Laval bottom, Montpellier 3rd. Laval midfield must be rebuilt. Montpellier away 3W1D1L, 2.6 gf away.",
+  "news": "ICI/Ouest-France: Laval missing Bouriaud, Beaudoin, likely Coquelin; Dago and Bianda return; Montpellier near full strength with Ayem back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.804,
+    "why": "Montpellier to score: away 2.6 gf/game in last 5 away, scored in all 6 recent games; Laval midfield depleted (Bouriaud, Beaudoin, Coquelin). My p 0.84."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.53,
+    "p": 0.6191,
+    "why": "Montpellier DNB: 3rd v bottom, Laval missing 3 midfielders; Montpellier 6W in last 10. My p 0.66."
+   }
+  ],
+  "avoid": "Laval +1.5 (backs depleted side); Over 2 integer line; Under markets",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.ici.fr/occitanie/herault-34/montpellier/ligue-2-j13-repartir-de-l-avant-les-echos-avant-le-deplacement-du-mhsc-a-laval-9370261",
+   "https://www.ouest-france.fr/sport/football/stade-lavallois/video-stade-lavallois-beaudoin-et-bouriaud-absents-un-milieu-a-recomposer-les-infos-avant-laval-montpellier-cd94cb09-0932-4cec-9776-7b4d6ccdc2c7",
+   "https://www.ici.fr/pays-de-la-loire/mayenne-53/laval/stade-lavallois-bouriaud-beaudouin-coquelin-encore-beaucoup-d-absents-pour-affronter-montpellier-2413442?at_locale=56"
+  ]
+ },
+ {
+  "eid": "sr:match:73022148",
+  "fx": "Rushall Olympic v Bishop\u00c2\u00b4s Stortford",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Bishop's Stortford 1W in 10, 0/5 away wins (1.2 gf, 2.6 ga away). Rushall 3W1D1L at home. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm 21 Nov; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7662,
+    "why": "Rushall DNB: Stortford 8 losses in 10 and 0 away wins in 5. My p 0.78."
+   }
+  ],
+  "avoid": "Overs/Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-central-division/fixtures-results",
+   "https://www.flashscore.com/football/england/southern-league-premier-central/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:73022150",
+  "fx": "Stamford AFC v Leamington FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Both bottom-half sides (each 1W in 10).",
+  "news": "LincsOnline (18 Nov): Stamford reversed home/away fixtures with Leamington due to Zeeco Stadium floodlight issues; game now at Leamington, while SportyBet lists Stamford at home.",
+  "veto": true,
+  "veto_reason": "Venue conflict: fixture reversed to Leamington's ground (SportyBet home/away labels may be wrong).",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lincsonline.co.uk/stamford/sport/fixtures-are-reversed-as-stamford-look-to-resolve-floodlight-9491816/",
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-central-division/fixtures-results",
+   "https://www.flashscore.com/football/england/southern-league-premier-central/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:73022152",
+  "fx": "Stourbridge FC v Redditch United",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Mid-table; Stourbridge 5W5L, Redditch leaky (2.2 ga). Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 (thin league class); result sides near coin-flip",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-central-division/fixtures-results",
+   "https://www.flashscore.com/football/england/southern-league-premier-central/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:73022154",
+  "fx": "Stratford Town v Halesowen Town FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Halesowen in form (6W in 10, 2.6 gf); Stratford unbeaten at home in 5. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (conflicting home/away form)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-central-division/fixtures-results",
+   "https://www.flashscore.com/football/england/southern-league-premier-central/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:73025180",
+  "fx": "Berkhamsted FC v Frome Town",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Frome 1W in 10. Frome 11th on 20 pts (Sky 14 Nov). Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 (thin league class); Berkhamsted only 1 home win in 3",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73025182",
+  "fx": "Chichester City FC v Basingstoke Town FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Chichester 7th (28 pts), 3/4 home wins; Basingstoke 13th, 0/5 away wins (1.0 gf, 3.0 ga away). Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.7353,
+    "why": "Chichester DNB: Basingstoke lost all 5 away games conceding 3.0/game. My p 0.77."
+   }
+  ],
+  "avoid": "Overs",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73025184",
+  "fx": "Chippenham Town v Bracknell Town FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Bracknell 1W in 10, 0/5 away (0.6 gf away). Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Chippenham only 2W in 10; no edge vs DNB 1.45",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73025186",
+  "fx": "Gosport Borough v Havant & Waterlooville",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Local Hampshire derby (Gosport v Havant & Waterlooville). Havant lost all 4 away. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (derby)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73025188",
+  "fx": "Hanworth Villa v Poole Town",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Hanworth Villa 2nd in table (Sky 14 Nov). Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 thin class",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73025190",
+  "fx": "Plymouth Parkway v Malvern Town",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Plymouth Parkway 4th, won all 6 home games (2.0 gf, 0.67 ga); Malvern lost all 6 away (3.5 ga). Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; Parkway in play-off places (Wikipedia 14 Nov); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.41,
+    "p": 0.6647,
+    "why": "Plymouth Parkway win: 6/6 home wins v Malvern 0/6 away conceding 3.5/game. My p 0.70."
+   }
+  ],
+  "avoid": "AH -1.5 (only 0.45); Overs",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73025192",
+  "fx": "Sholing FC v Evesham United",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Evesham 2W in 10, 0/4 away (0.75 gf). Sholing only 2W in 10 but 2W1D1L at home. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7465,
+    "why": "Sholing DNB: Evesham lost all 4 away, 8 losses in 10. My p 0.75 (Sholing's own form weak, so no premium)."
+   }
+  ],
+  "avoid": "Overs; Sholing 1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73025194",
+  "fx": "Taunton Town v Chertsey Town",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Two in-form sides; Chertsey unbeaten in 5 of last... 5W3D2L. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73025196",
+  "fx": "Uxbridge FC v Gloucester City",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Uxbridge top (36 pts from 16, Sky 14 Nov); Gloucester 18th. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm (Sky Sports); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Uxbridge DNB 1.55 is fair but no named mechanism beyond table; Over 1.5 thin class",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League",
+   "https://www.skysports.com/football-scores-fixtures/2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:73025198",
+  "fx": "Wimborne Town v Bath City FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Wimborne 5/6 home wins; Bath 6th, 6W in 10. Under 3.5 p 0.70 < 0.82 gate. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (below gate); result sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73025200",
+  "fx": "Yate Town v Hanwell Town FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Yate 1W in 10 but 4 draws at home. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Southern_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73026116",
+  "fx": "Carshalton Athletic FC v Aveley FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Carshalton 3W in 10 (2.8 ga); Aveley 0/5 away wins. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73026118",
+  "fx": "Chatham Town v Maldon & Tiptree FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Chatham 3W in 10 overall; house 0.61 home vs trend 0.40. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Chatham 1X2/DNB: house price looks rich vs their form",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73026120",
+  "fx": "Cray Wanderers v Whitehawk FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Cray 7W in 10 (2.6 gf); Whitehawk 1W in 10, 0.25 gf away in 4 away games. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm on official Isthmian fixtures; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7748,
+    "why": "Cray win: Whitehawk 1W in 10 and scored 1 goal in 4 away games. My p 0.78."
+   }
+  ],
+  "avoid": "AH -1.5 (0.57); Overs",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73026122",
+  "fx": "Dartford FC v Leatherhead FC",
+  "sport": "football",
+  "absences": "No injuries reported; Dartford unchanged XI after Tuesday's win over Three Bridges.",
+  "context": "Dartford 4th (33 pts), 3 straight league wins, 5/6 home wins; Leatherhead 7th (newly promoted). H2H Dartford 5-2, last 3 won without conceding. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Dartford FC preview (20 Nov): unchanged XI, chasing 4th straight league win; won last 3 v Leatherhead to nil.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.6699,
+    "why": "Dartford DNB: 3-game win streak, unchanged XI, 5/6 home wins, won last 3 H2H to nil. My p 0.72."
+   }
+  ],
+  "avoid": "Overs (Dartford games high-scoring but thin class)",
+  "confidence": 0.3,
+  "sources": [
+   "https://dartfordfc.com/2026/11/match-preview-dartford-v-leatherhead/",
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73026124",
+  "fx": "Dulwich Hamlet v Welling United",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Welling top (40 pts from 18, FWP 17 Nov), 7W in 10, 0.9 ga; Dulwich 1W in 10, 2.9 ga, 21 pts. South-London proximity but not a recognised derby. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Table: Welling 1st, Dulwich lower half; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.37,
+    "p": 0.6811,
+    "why": "Welling DNB: league leaders v side with 1 win in 10 conceding 2.9/game; away 1X2 p 0.52 below gate so DNB. My p 0.72."
+   }
+  ],
+  "avoid": "Away 1X2 (p<0.75)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73026126",
+  "fx": "Enfield Town v Eastbourne Borough",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Top-of-table clash: Enfield 2nd (37 pts) v Eastbourne (8W in 10). Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "Fixture confirmed 3pm; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (big clash, both in form)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73026128",
+  "fx": "Ramsgate FC v Lewes FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Lewes 4th (31), Ramsgate 5th (28). Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ramsgate DNB: trend 0.47 vs house 0.68",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73026130",
+  "fx": "St Albans City v AFC Whyteleafe",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "St Albans 24 pts from 14 (games in hand); Whyteleafe 24 from 17, 6W in 10. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "St Albans 1X2 1.54: trend 0.45 vs house 0.61",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73026132",
+  "fx": "Stanway Rovers v Burgess Hill Town",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Stanway 1W in 10, 0.8 gf; Burgess Hill 3W in 10 and leaky (3.0 ga away). Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Burgess Hill DNB 1.35 (their own away form poor, ga 3.0)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73026134",
+  "fx": "Three Bridges v Cheshunt FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Three Bridges 1W in 10 (lost to Dartford on Tuesday); Cheshunt 1W in 5 away. Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "No team news; Three Bridges played Tuesday (lost at Dartford).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cheshunt DNB: away form 1W in 5",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division",
+   "https://dartfordfc.com/2026/11/match-preview-dartford-v-leatherhead/"
+  ]
+ },
+ {
+  "eid": "sr:match:73026136",
+  "fx": "Wingate & Finchley v Brentwood Town FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Wingate home games wild (3.17 gf, 2.5 ga). Amateur step-3 English non-league: thin context; Unders need p>=0.82 (none qualify), O1.5/Overs avoided (English non-league is a known thin-Over killer class).",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:76482934",
+  "fx": "Adama City FC v Sidama Bunna SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Ethiopian PL; both sides 0.7 gf; H2H 0-1. Under 2.5 p 0.72 < 0.82 gate.",
+  "news": "Fixture confirmed 21 Nov by TheSportsDB and Forebet (Adama Kenema v Sidama Bunna); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 (below p gate though fixture is low-scoring); result sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.thesportsdb.com/season/4959-ethiopian-premier-league/2026-2027",
+   "https://www.forebet.com/en/predictions-ethiopia/premier-league/fixtures"
+  ]
+ }
+]

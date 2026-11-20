@@ -1,0 +1,371 @@
+[
+ {
+  "eid": "sr:match:72513978",
+  "fx": "Wolfsburg v Holstein Kiel",
+  "home_form": "2.BL 5th. League home: Cottbus 4-4, Darmstadt 5-1, Heidenheim 3-1, Osnabruck 2-0 (3W1D, scored 2+ every home game). Last: lost 1-2 at Hertha (Nov 7), Cleiton sent off.",
+  "away_form": "Bottom of 2.BL. Away league: lost 0-1 Heidenheim, 0-1 Braunschweig, 0-1 Greuther Furth (Sportradar); previews: 4 straight away league defeats without scoring. Last: lost 1-2 home to Bielefeld.",
+  "trends": {
+   "game_totals": "Wolfsburg home league totals 8,6,4,2; Kiel away 1,1,1",
+   "team_totals": "Wolfsburg home scored 4,5,3,2; Kiel away scored 0,0,0",
+   "first_half": "Wolfsburg led at HT in 3/4 home league games",
+   "handicap": "Wolfsburg home wins by 4,2,2",
+   "corners": "not checked"
+  },
+  "h2h": "No recent league H2H relevant (2024/25 Bundesliga + Pokal only).",
+  "absences": "Wolfsburg: Cleiton suspended (red v Hertha). Kiel: Adrian Kapralik broken metatarsal (international break).",
+  "context": "Kiel appointed new coach Mitch Kniat during the break (new-coach bounce risk). Wolfsburg in promotion push.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.745,
+    "why": "tight. Draw no bet: Wolfsburg unbeaten in 4 home league games, Kiel lost 4 straight away without scoring. My p 0.78."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.45,
+    "p": 0.657,
+    "why": "Wolfsburg scored 2+ in every home league game (2,3,4,5) v a side that is bottom. Kiel new coach may tighten up. My p 0.66."
+   }
+  ],
+  "avoid": [
+   "Kiel team goals Overs",
+   "Wolfsburg -1.0 (new-coach bounce, Wolfsburg concede a lot)"
+  ],
+  "confidence": 0.33,
+  "sources": [
+   "https://sports.yahoo.com/articles/2-bundesliga-preview-wolfsburg-vs-151000804.html",
+   "https://scoregpt.app/ai-football-predictions/2-bundesliga/vfl-wolfsburg-vs-holstein-kiel-2026-11-21",
+   "https://www.thestatszone.com/wolfsburg-vs-holstein-kiel-preview-team-news-prediction-109186"
+  ]
+ },
+ {
+  "eid": "sr:match:72723334",
+  "fx": "Galatasaray Istanbul v Samsunspor",
+  "home_form": "League home: Amed 4-3, Fenerbahce 2-1, Kasimpasa 3-1 (all W). UCL: beat Stuttgart 2-0, lost Barcelona 1-4.",
+  "away_form": "Samsunspor away: lost 2-5 Basaksehir, 1-4 Kasimpasa, 0-1 Erzurum, 0-1 Kocaeli; won 2-0 Rizespor. Beat Konyaspor 1-0 at home last time.",
+  "trends": {
+   "game_totals": "Gala home league totals 7,3,4; Samsun away 7,5,1,1,2",
+   "team_totals": "Gala scored 2+ in all 3 home league games",
+   "first_half": "Gala led at HT in all 3 home league games",
+   "handicap": "Gala home margins 1,1,2",
+   "corners": "not checked"
+  },
+  "h2h": "not checked",
+  "absences": "Gala: Osimhen out (knee arthroscopy), Leao out (hamstring), Sallai out (hamstring); Sanchez, Batrakov, keeper Cakir conflicting reports. Samsun: Celil Yuksel out, Fatih Kaya out/doubt, Sekongo doubt.",
+  "context": "One source (beIN) says the match is moved to Basaksehir Fatih Terim Stadium instead of RAMS Park for pitch maintenance. Gala UCL midweek next week.",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Basaksehir Fatih Terim Stadium vs RAMS Park), plus heavy, conflicting Galatasaray injury news (Osimhen, Leao, Sallai out; goalkeeper unclear).",
+  "picks": [],
+  "avoid": [
+   "Galatasaray -1/-1.5 handicaps (front three missing)",
+   "Galatasaray team Over 1.5 until the venue and line-up are confirmed"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://www.beinsports.com/en-us/soccer/sper-lig/articles/how-and-where-to-watch-galatasaray-vs-samsunspor-in-the-super-lig-live-on-bein-sports-2026-11-20",
+   "https://kantan.news/news/four-players-injured-at-galatasaray-amid-international-break",
+   "https://www.sportskeeda.com/football/galatasaray-vs-samsunspor-prediction-betting-tips-november-21st-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72513318",
+  "fx": "Union Berlin v RB Leipzig",
+  "home_form": "Union winless run (\"crisis\"). Home: Schalke L1-3, Elversberg W1-0, Dortmund D0-0, Cologne D1-1. Away: lost 0-2 Freiburg, 0-7 Bayern, 0-4 Leverkusen, 0-5 Cologne (cup).",
+  "away_form": "Leipzig dominant at home (Augsburg 5-2, Elversberg 4-0, Frankfurt 6-0). Away league: won 2-0 at Schalke, lost 1-6 Bayern, 0-2 Leverkusen; lost 1-2 at RW Essen (cup), 1-4 at Real Madrid.",
+  "trends": {
+   "game_totals": "Union home totals 4,1,0,2; Leipzig away league 2,7,2",
+   "team_totals": "Union conceded 0-1 in 3 of 4 home games; Leipzig away scored 2,1,0",
+   "first_half": "Union home HT 0-1,0-0,0-0,1-0 (low first halves)",
+   "handicap": "Union lost at home only to Schalke (by 2); heavy defeats were all away",
+   "corners": "not checked"
+  },
+  "h2h": "Union beat Leipzig 3-1 at home in 2025/26.",
+  "absences": "Union: Markgraf (ACL), Nsoki (muscle) out; Haberer ill (doubt); Uduokhai, Burcu missed training. Leipzig: Gebel, Guiu, Ouedraogo out; Finkgrafe doubt; El Aynaoui back early from international duty with ankle discomfort but expected to play.",
+  "context": "Leipzig played the UCL on Nov 4. Union lost heavily away but are compact at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.36,
+    "p": 0.711,
+    "why": "tight-ish. Leipzig fav p 0.65, so per the rules +2.0 is used (not +1.5/+2.5). Union lost by 2+ at home only once in 4 (1-3 Schalke, which would push). Leipzig away league scoring 2,1,0. My p 0.75."
+   }
+  ],
+  "avoid": [
+   "Leipzig -1.5",
+   "Over 2.5 (Union home totals 4,1,0,2)",
+   "Leipzig win: away league form W1 L2"
+  ],
+  "confidence": 0.22,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/union-berlin/preview/union-berlin-vs-rb-leipzig-prediction-team-news-lineups_609454.html",
+   "https://dailysports.net/predictions/can-leipzigs-record-breaking-attack-deepen-unions-crisis-union-berlin-vs-rb-leipzig-prediction-21112026/",
+   "https://www.thestatszone.com/union-berlin-vs-rb-leipzig-preview-team-news-prediction-240582"
+  ]
+ },
+ {
+  "eid": "sr:match:72340054",
+  "fx": "Wolves v Charlton Athletic",
+  "home_form": "Wolves 4th, unbeaten in 5 (W3 D2). Home: Cardiff 3-0, Watford 1-0, Portsmouth 1-1, WBA 1-0, Bolton L1-3. Clean sheets in 3 of the last 5 home games.",
+  "away_form": "Charlton 17th-19th, 1 win in 5 (beat Sheff Utd 2-1 before the break). Away: lost 0-3 Boro, 0-2 Watford, 1-3 Cardiff; drew 2-2 Burnley.",
+  "trends": {
+   "game_totals": "Wolves home totals 3,1,2,4,1; Charlton away 3,2,4,4",
+   "team_totals": "Charlton scored 0-1 in 8 of their last 10; away 0,0,2,1",
+   "first_half": "Wolves home HT mostly 0-0/1-0",
+   "handicap": "Wolves home wins by 3,1,1",
+   "corners": "not checked"
+  },
+  "h2h": "not checked",
+  "absences": "Wolves: Konan, Raul Jimenez out; James, B. Traore, Bo. Traore back from injury; Trippier, Mosquera, Bueno predicted to return. Charlton: Godden expected to replace Kelman up front.",
+  "context": "Previews unanimous for a Wolves win (Squawka/LiveScore 2-0, Sports Mole 2-1). Kick-off 15:00 UK (Goal lists 07:00, a listing error).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.18,
+    "p": 0.82,
+    "why": "tight. Charlton team Under 1.5 (house p 0.82 meets the Unders gate): Charlton scored 0-1 in 8 of 10, away 0,0,2,1, v a Wolves side with 3 home clean sheets in 5. My p 0.83."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.35,
+    "p": 0.728,
+    "why": "Wolves unbeaten in 5, back to a fuller squad v a Charlton side with 1 away point in 4. My p 0.72."
+   }
+  ],
+  "avoid": [
+   "Wolves team Over 1.5 (Wolves home scored 1 in 4 of 5)",
+   "Over 2.5",
+   "Wolves -1.5"
+  ],
+  "confidence": 0.33,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/wolves/preview/wolves-vs-charlton-prediction-team-news-lineups_609381.html",
+   "https://www.squawka.com/en/news/previews/wolves-vs-charlton-predictions-saturday-21-11-2026/",
+   "https://www.expressandstar.com/sport/football/wolverhampton-wanderers/watch-wolves-injury-update-and-team-news-ahead-of-charlton-clash-9364361"
+  ]
+ },
+ {
+  "eid": "sr:match:72201722",
+  "fx": "Falkirk FC v St. Johnstone FC",
+  "home_form": "Falkirk 3rd (21 pts), 5 straight wins (at Hearts 5-2, Celtic 2-0, at Aberdeen 1-0, Kilmarnock 3-0, at Hibs 2-1). Home: Celtic 2-0, Kilmarnock 3-0, Dundee FC L1-2, Hearts 2-1, Rangers L1-2.",
+  "away_form": "St Johnstone 7th (17 pts). Away: Kilmarnock 2-2, Rangers L0-4, Aberdeen W1-0, Dundee FC 1-1. Beat Dundee FC 2-1 at home last time.",
+  "trends": {
+   "game_totals": "Falkirk home totals 2,3,3,3,3 (all 2+); St J away 4,4,1,2",
+   "team_totals": "Falkirk scored in all 5 home games",
+   "first_half": "Falkirk home HT goals in 4/5",
+   "handicap": "Falkirk home: no draws in 5 (3W2L)",
+   "corners": "not checked"
+  },
+  "h2h": "1-1 at St Johnstone in September 2026.",
+  "absences": "Falkirk: Ryan Strain, Leon McCann out; Brad Spencer injured (Krauhaus in). St J: Gullan (groin), Boyes, Unax Alvares (calf) out; McAlear back; Mikulic plays with a broken nose; keeper Toby Steward suspension status conflicting.",
+  "context": "Previews all predict a Falkirk win (2-1, 2-0, 3-1).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.783,
+    "why": "tight. All 5 Falkirk home league games had 2+ goals; St J away 3 of 4. In-form Falkirk attack. My p 0.82."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.691,
+    "why": "Draw no bet: Falkirk 5 straight wins v a St J side missing Gullan and two defenders. My p 0.72."
+   }
+  ],
+  "avoid": [
+   "Under 2.5",
+   "St Johnstone +1.0/+1.5"
+  ],
+  "confidence": 0.32,
+  "sources": [
+   "https://www.squawka.com/en/news/previews/falkirk-vs-st-johnstone-predictions-saturday-21-11-2026/",
+   "https://sports.yahoo.com/articles/falkirk-v-st-johnstone-team-174318628.html",
+   "https://dave.sport/news/falkirk-vs-st-johnstone-predicted-line-ups/"
+  ]
+ },
+ {
+  "eid": "sr:match:72043340",
+  "fx": "Zaglebie Lubin v Gornik Zabrze",
+  "home_form": "Zaglebie 6th (23 pts), W2 D2 L1 in the last 5. Home: Korona 1-0, Jagiellonia 1-0, Katowice 2-1 (W), Wisla Plock L0-2.",
+  "away_form": "Gornik 2nd (about 31 pts), unbeaten in 6. Away: Widzew 1-1, Motor 0-0, at Korona W2-0, at Jagiellonia L1-3.",
+  "trends": {
+   "game_totals": "Zaglebie home totals 1,1,3,2; Gornik away 2,0,2,4",
+   "team_totals": "Gornik away scored 1,0,2,1",
+   "first_half": "low first halves both sides",
+   "handicap": "Zaglebie home: only defeat by 2 (0-2 Plock)",
+   "corners": "not checked"
+  },
+  "h2h": "Zaglebie won the last 4 meetings (LV BET).",
+  "absences": "Zaglebie described as heavily weakened (sport1.pl, no names found); Gornik also not at full strength.",
+  "context": "Kick-off 17:30 local in most sources (one ticket site says 18:00; same date and venue, not a conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.29,
+    "p": 0.741,
+    "why": "tight. Fav p 0.50 (<0.55), so +1.5 is allowed. Zaglebie won the last 4 H2H and are 3W1L at home; Gornik away scoring 1,0,2,1. My p 0.77 (cut for Zaglebie absences)."
+   }
+  ],
+  "avoid": [
+   "Gornik win (away W1 in 4)",
+   "Over 2.5",
+   "Gornik team Under 1.5 (fails the Unders p>=0.82 gate)"
+  ],
+  "confidence": 0.22,
+  "sources": [
+   "https://sport1.pl/zaglebie-lubin-gornik-zabrze-typy-kursy-analiza-sklady-gdzie-obejrzec-kiedy-i-o-ktorej-21-11-2026-pko-bp-ekstraklasa-15",
+   "https://blog.lvbet.pl/zaglebie-lubin-vs-gornik-zabrze-typy-21-11-2026/",
+   "https://pilkarskiswiat.com/zaglebie-lubin-gornik-zabrze-typy-kursy-kto-wygra-21-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72513324",
+  "fx": "Schalke v Stuttgart",
+  "home_form": "Schalke home: Leipzig L0-2, Mainz L0-1, Elversberg D0-0 (no goals in 3 home league games). Away: won 3-1 at Union; lost 1-2 at Hoffenheim and Freiburg.",
+  "away_form": "Stuttgart away league: won 4-2 at Leverkusen and 2-0 at Paderborn, lost 0-1 at Hamburg. Beat Bremen 1-0 before the break. UCL: lost 0-2 at Galatasaray (Nov 3).",
+  "trends": {
+   "game_totals": "Schalke home totals 2,1,0",
+   "team_totals": "Schalke home scored 0,0,0; Stuttgart away scored 4,2,0",
+   "first_half": "Schalke home HT 0-1,0-1,0-0",
+   "handicap": "Schalke home: no wins in 3",
+   "corners": "not checked"
+  },
+  "h2h": "not checked",
+  "absences": "Schalke: Wober, Vozar (hamstring), Timo Becker (foot), Hojlund (Achilles), Schallenberg (leg) out. Stuttgart: Angelo Stiller (adductor) out, Jaquez doubt (ribs).",
+  "context": "Stuttgart in the UCL, the next matchday is the following week. Schalke have a long injury list.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.26,
+    "p": 0.761,
+    "why": "tight. Schalke have no home league win or goal in 3 (0-2, 0-1, 0-0) and 5 absentees; Stuttgart won 2 of 3 away. My p 0.78."
+   }
+  ],
+  "avoid": [
+   "Schalke team Over 0.5",
+   "BTTS Yes",
+   "Schalke team Under 1.5 (supported but fails the Unders p>=0.82 gate)"
+  ],
+  "confidence": 0.28,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/schalke-04/preview/schalke-vs-stuttgart-prediction-team-news-lineups_609455.html",
+   "https://www.fotmob.com/matches/union-berlin-vs-rb-leipzig/80026ad"
+  ]
+ },
+ {
+  "eid": "sr:match:73432174",
+  "fx": "Aquila Basket Trento v Napoli Basket",
+  "home_form": "Trento 3-5 in the LBA. Home LBA: lost 75-88 Virtus, 62-88 Roma; beat Varese 87-85. Beat Klaipeda 96-83 in the Eurocup on Wed Nov 18.",
+  "away_form": "Napoli co-leaders 7-1 (best start in their history), 93.3 ppg (4th-best attack). Away LBA: won 91-89 Scafati, 92-90 Derthona. Lost 79-91 at Bourg (France) Wed Nov 18, their first Eurocup loss.",
+  "trends": {
+   "game_totals": "Napoli last 10 game totals: 182,179,202,180,169,180,179,182,206,180 (all >=169); Trento last 10: 179,163,182,174,169,150,186,168,169,172",
+   "team_totals": "Napoli scored 79-105",
+   "first_half": "n/a",
+   "handicap": "Trento lost home LBA games by 13 and 26",
+   "corners": "n/a"
+  },
+  "h2h": "Napoli won 90-79 at Trento in the Eurocup on Nov 3 (total 169, without Brown, Jakimovski, Tote).",
+  "absences": "Trento: Hassan out, Medina Bouza doubt. Napoli: Markel Brown (muscle, about 4 weeks from early Nov) and Jakimovski were out in early Nov.",
+  "context": "Both teams played Eurocup on Wed; Napoli travelled back from France (fatigue). Trento have the 3rd-best defence (84.1 allowed).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=165.5",
+    "desc": "Over 165.5",
+    "odds": 1.31,
+    "p": 0.741,
+    "why": "tight. All 10 of Napoli's recent games had 169+; H2H 16 days ago was 169. Trento's defence and the fatigue cap the upside, so the line is set 10 below the 175.5 centre. My p 0.77."
+   }
+  ],
+  "avoid": [
+   "Napoli ML (p 0.56 < 0.75)",
+   "Trento +8.5 or wider catches (Trento lost home games by 13 and 26)",
+   "Overs at the 175.5 centre"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.pianetabasket.com/legabasket-serie-a/laquila-trento-ospita-la-capolista-napoli-per-interrompere-il-trend-negativo",
+   "https://williamhillnews.it/basket/serie-a-numeri-e-curiosita-della-9a-giornata-napoli-apre-il-turno-a-trento/",
+   "https://www.ilroma.net/news/sport/866790/il-napoli-basket-non-si-ferma-piu-sconfitto-anche-trento-90-79.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72036306",
+  "fx": "Strasbourg v Brest",
+  "home_form": "Strasbourg 13th, lost 5 of the last 6 in Ligue 1 (lost 1-3 Toulouse, 0-3 Rennes, 1-3 PSG, 1-2 Nice, 1-2 Paris FC; beat Auxerre 5-1). Home: Auxerre 5-1, PSG 1-3, Monaco 1-1, Lens 2-1.",
+  "away_form": "Brest away: won 2-0 Lorient, 2-1 Le Havre; drew 1-1 Lille; lost 1-2 Auxerre. Beat Lyon 2-0 at home last time.",
+  "trends": {
+   "game_totals": "Strasbourg last 10 all had 2+ goals (home 6,4,2,3); Brest 9 of 10 had 2+",
+   "team_totals": "Strasbourg scored at home in 4/4",
+   "first_half": "mixed",
+   "handicap": "n/a",
+   "corners": "not checked"
+  },
+  "h2h": "not checked",
+  "absences": "Strasbourg: Panichelli (ACL) out; Balde, Reyna, Oyedele doubts; keeper Jorgensen doubt but expected to start. Brest: Chardonnet (calf), Le Guen (ankle) out.",
+  "context": "NEW COACH: Strasbourg sacked Hugo Oliveira on Nov 18; Vitor Matos (ex-Swansea) debuts on the bench. Result-sides are unpredictable.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.8,
+    "why": "tight. All of Strasbourg's last 10 games had 2+ goals; Brest 9/10. Strasbourg's defence is leaking (conceded 2-3 in five of the last six). My p 0.82."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.59,
+    "p": 0.606,
+    "why": "BTTS: Strasbourg 8/10 BTTS, Brest 7/10; Strasbourg scored in every home game. My p 0.62."
+   }
+  ],
+  "avoid": [
+   "Any result side (new coach debut)",
+   "Under 2.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/strasbourg/preview/strasbourg-vs-brest-prediction-team-news-lineups_609408.html",
+   "https://www.beinsports.com/en-us/soccer/championship/articles/matos-leaves-swansea-to-take-charge-at-strasbourg-2026-11-19",
+   "https://www.squawka.com/en/news/previews/strasbourg-vs-brest-predictions-saturday-21-11-2026/"
+  ]
+ }
+]

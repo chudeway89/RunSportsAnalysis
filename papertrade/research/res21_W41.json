@@ -1,0 +1,604 @@
+[
+ {
+  "eid": "sr:match:73050924",
+  "fx": "KS Arkonia Szczecin U19 v Uks Talent Warszawa U19",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 youth (Centralna Liga Juniorow, round 16). Youth: no result-side picks; no clear goals mismatch.",
+  "news": "CLJ round 16 listed for 21 Nov; Pomorski Futbol gives 15:30 CET, 90minut gives 11:00 CET (SportyBet 10:00 UTC = 11:00 CET).",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (11:00 vs 15:30 CET); youth fixture.",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4751",
+   "http://www.90minut.pl/liga/1/liga15142.html",
+   "https://akademia.legia.com/articles/u19-poznalismy-terminarz-centralnej-ligi-juniorow"
+  ]
+ },
+ {
+  "eid": "sr:match:73050916",
+  "fx": "Legia Warszawa v Bialystok",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 youth (Centralna Liga Juniorow, round 16). Youth: no result-side picks; no clear goals mismatch. Bialystok = Jagiellonia U19 (Legia academy schedule).",
+  "news": "Legia U19 v Jagiellonia U19 confirmed 21 Nov 12:00 CET (matches SportyBet 11:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4751",
+   "http://www.90minut.pl/liga/1/liga15142.html",
+   "https://akademia.legia.com/articles/u19-poznalismy-terminarz-centralnej-ligi-juniorow"
+  ]
+ },
+ {
+  "eid": "sr:match:73050922",
+  "fx": "Polonia Warszawa v Lech Poznan",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 youth (Centralna Liga Juniorow, round 16). Youth: no result-side picks; no clear goals mismatch.",
+  "news": "Polonia Warszawa U19 v Lech Poznan U19 confirmed 21 Nov 12:00 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth, evenly priced)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4751",
+   "http://www.90minut.pl/liga/1/liga15142.html",
+   "https://akademia.legia.com/articles/u19-poznalismy-terminarz-centralnej-ligi-juniorow"
+  ]
+ },
+ {
+  "eid": "sr:match:73050914",
+  "fx": "Slask Wroclaw v Arka Gdynia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 youth (Centralna Liga Juniorow, round 16). Youth: no result-side picks; no clear goals mismatch. Arka U19 0-1-4 away, conceding 3.8/away game, but sample is 5 games.",
+  "news": "Slask U19 v Arka U19 confirmed 21 Nov 12:00 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (youth); not a clear enough mismatch for goals",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4751",
+   "http://www.90minut.pl/liga/1/liga15142.html",
+   "https://akademia.legia.com/articles/u19-poznalismy-terminarz-centralnej-ligi-juniorow"
+  ]
+ },
+ {
+  "eid": "sr:match:72398830",
+  "fx": "Rekord Bielsko Biala v Slask II Wroclaw",
+  "sport": "football",
+  "absences": "none found",
+  "context": "II liga round 17. Rekord ~18 pts; Slask II 17th of 18 with 10 pts (-12 GD), 0-0-5 away in SR data.",
+  "news": "Confirmed 21 Nov 12:00 CET at Stadion BTS Rekord (matches SportyBet).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - opponent is a reserve side; Rekord itself in poor form (3-2-5)",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.tvp.pl/96586267/betclic-2-liga-202627-terminarz-i-plan-transmisji-17-kolejki-20-22112026",
+   "http://www.90minut.pl/liga/1/liga14677.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_II_liga"
+  ]
+ },
+ {
+  "eid": "sr:match:72398838",
+  "fx": "Sokol Kleczew v GKS Tychy",
+  "sport": "football",
+  "absences": "none found",
+  "context": "II liga round 17. GKS Tychy 3rd (promotion race, unbeaten-ish 6-3-1); Sokol Kleczew 15th, fighting relegation/playoff zone.",
+  "news": "TVP Sport schedule: 12:00 CET (matches SportyBet 11:00 UTC); 90minut schedule says 16:45 CET.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: TVP 12:00 CET vs 90minut 16:45 CET (SportyBet agrees with TVP; low severity).",
+  "picks": [],
+  "avoid": "all while conflict open; if cleared, Tychy DNB 1.25 is the obvious leg (Tychy 6-3-1, GA 0.6)",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.tvp.pl/96586267/betclic-2-liga-202627-terminarz-i-plan-transmisji-17-kolejki-20-22112026",
+   "http://www.90minut.pl/liga/1/liga14677.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_II_liga",
+   "https://www.podkarpacielive.pl/mecz/150622,sokol-kleczew-vs-gks-tychy"
+  ]
+ },
+ {
+  "eid": "sr:match:72514896",
+  "fx": "Jagiellonia II Bialystok v SK Mazovia Minsk Mazowiecki",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G1. Jagiellonia II 12th (20 pts); Mazovia Minsk Maz. Reserve home side.",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side)",
+  "confidence": 0.1,
+  "sources": [
+   "https://pl.wikipedia.org/wiki/III_liga_polska_w_pi%C5%82ce_no%C5%BCnej_(2026/2027)/Grupa_I",
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-iii-liga-grupa-i,spci,673,tab,tabele",
+   "https://igol.pl/3liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72514902",
+  "fx": "LKS 1926 Lomza v KS Pelikan Lowicz",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G1. Lomza 0-3-7 in last 10, winless; Pelikan Lowicz 3-2-5.",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under/O1.5 (thin regional context)",
+  "confidence": 0.1,
+  "sources": [
+   "https://pl.wikipedia.org/wiki/III_liga_polska_w_pi%C5%82ce_no%C5%BCnej_(2026/2027)/Grupa_I",
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-iii-liga-grupa-i,spci,673,tab,tabele",
+   "https://igol.pl/3liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72514888",
+  "fx": "Wisla Plock II v ZKS Olimpia Elblag",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G1. Wisla Plock II (reserve) v Olimpia Elblag (low scoring, 1.0:1.0).",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side)",
+  "confidence": 0.1,
+  "sources": [
+   "https://pl.wikipedia.org/wiki/III_liga_polska_w_pi%C5%82ce_no%C5%BCnej_(2026/2027)/Grupa_I",
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-iii-liga-grupa-i,spci,673,tab,tabele",
+   "https://igol.pl/3liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72516184",
+  "fx": "Lech II Poznan v MKS Viktoria Wrzesnia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G2. Lech II (reserve, high-scoring 2.9:1.9) v Viktoria Wrzesnia (8 draws in last 10, 5/5 away draws).",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side); Lech II home win at p 0.62 contradicted by Wrzesnia draw run",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4648",
+   "https://www.podkarpacielive.pl/statystyki/iii-liga-gr-ii",
+   "http://www.90minut.pl/liga/1/liga14743.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72516194",
+  "fx": "Sks Unia Swarzedz v Grom Nowy Staw",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G2. Unia Swarzedz ~18 pts mid-table; Grom Nowy Staw 4-0-6.",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4648",
+   "https://www.podkarpacielive.pl/statystyki/iii-liga-gr-ii",
+   "http://www.90minut.pl/liga/1/liga14743.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72516802",
+  "fx": "BKS Sparta Katowice v Zaglebie Lubin II",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G3. Sparta Katowice 7-2-1, 4-1-0 at home, GA 0.6; Zaglebie Lubin II reserve.",
+  "news": "Confirmed 21 Nov 12:00 CET (matches SportyBet).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side); not a goals mismatch (Sparta low-scoring)",
+  "confidence": 0.15,
+  "sources": [
+   "https://3ligagrupa3.pl/",
+   "https://tylkoslask.pl/zaglebie-sosnowiec-walka-o-11-zwyciestwo-z-rzedu-z-karkonoszami-jelenia-gora/",
+   "https://pilka.zaglebie.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72516794",
+  "fx": "Miedz Legnica II v Mkp Carina Gubin",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G3. Miedz Legnica II reserve v Carina Gubin (draw-heavy, 1.0:1.3).",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side)",
+  "confidence": 0.1,
+  "sources": [
+   "https://3ligagrupa3.pl/",
+   "https://tylkoslask.pl/zaglebie-sosnowiec-walka-o-11-zwyciestwo-z-rzedu-z-karkonoszami-jelenia-gora/",
+   "https://pilka.zaglebie.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72398834",
+  "fx": "Avia Swidnik v Legia Warszawa II",
+  "sport": "football",
+  "absences": "none found",
+  "context": "II liga round 17. Avia Swidnik just above relegation zone (~20 pts, low-scoring 1.0:1.1); Legia II ~22 pts. Legia II is a reserve side.",
+  "news": "Venue Stadion Swidnik; TVP 12:30 CET (= SportyBet 11:30 UTC), one schedule says 12:20 (10-minute difference, not treated as a conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side)",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tvp.pl/96586267/betclic-2-liga-202627-terminarz-i-plan-transmisji-17-kolejki-20-22112026",
+   "http://www.90minut.pl/liga/1/liga14677.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_II_liga",
+   "https://www.dziennikwschodni.pl/artykul/394075,gornik-na-miejscu-dajacym-awans-avia-znow-minimalnie-nad-strefa-spadkowa-wyniki-i-tabela-betclic-ii-ligi"
+  ]
+ },
+ {
+  "eid": "sr:match:72514900",
+  "fx": "MKS Mlawianka Mlawa v KS Warta Sieradz",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G1. Mlawianka 16th (~14 pts), bottom-three, conceding 2.9/game (2.6 at home); Warta Sieradz 5-4-1, 3-1-0 away.",
+  "news": "No match-specific news; tables (Interia/Wikipedia) show Mlawianka in the drop zone.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.44,
+    "p": 0.650915,
+    "why": "Mlawianka concede 2.9/g and score 2.2/g (8 of last 10 games went O2.5 per trend 0.80); Warta score 1.7/g. Own p ~0.68 vs house 0.651, sim 0.644. Thin league, low conf."
+   }
+  ],
+  "avoid": "Under, home side",
+  "confidence": 0.2,
+  "sources": [
+   "https://pl.wikipedia.org/wiki/III_liga_polska_w_pi%C5%82ce_no%C5%BCnej_(2026/2027)/Grupa_I",
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-iii-liga-grupa-i,spci,673,tab,tabele",
+   "https://igol.pl/3liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72514890",
+  "fx": "Swit Nowy Dwor Mazowiecki v MKS Polonia Lidzbark Warminski",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G1. Swit Nowy Dwor 4th (29 pts, 7-0-3); Polonia Lidzbark 5-1-4.",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.49 - statistics-only reason",
+  "confidence": 0.15,
+  "sources": [
+   "https://pl.wikipedia.org/wiki/III_liga_polska_w_pi%C5%82ce_no%C5%BCnej_(2026/2027)/Grupa_I",
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-iii-liga-grupa-i,spci,673,tab,tabele",
+   "https://igol.pl/3liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72514892",
+  "fx": "Zabkovia Zabki v Olimpia Zambrow",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G1. Zabkovia 6th (25 pts) v Olimpia Zambrow (4-3-3); evenly matched.",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://pl.wikipedia.org/wiki/III_liga_polska_w_pi%C5%82ce_no%C5%BCnej_(2026/2027)/Grupa_I",
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-iii-liga-grupa-i,spci,673,tab,tabele",
+   "https://igol.pl/3liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72516188",
+  "fx": "WDA Swiecie v Blekitni Stargard",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G2. WDA Swiecie ~3rd but 1-2-2 at home (0.8 gf); Blekitni 3-5-2.",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (home side weak at home despite table position)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4648",
+   "https://www.podkarpacielive.pl/statystyki/iii-liga-gr-ii",
+   "http://www.90minut.pl/liga/1/liga14743.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72516186",
+  "fx": "Zks Kluczevia Stargard v Chemik Bydgoszcz",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G2. Kluczevia 4-2-0 at home; Chemik Bydgoszcz near bottom (~12 pts).",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.59 - statistics only",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4648",
+   "https://www.podkarpacielive.pl/statystyki/iii-liga-gr-ii",
+   "http://www.90minut.pl/liga/1/liga14743.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72516806",
+  "fx": "LKS Goczalkowice-Zdroj v KS Stal Brzeg",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G3. Goczalkowice 4-0-1 at home; Stal Brzeg 0-2-3 away.",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - statistics only",
+  "confidence": 0.1,
+  "sources": [
+   "https://3ligagrupa3.pl/",
+   "https://tylkoslask.pl/zaglebie-sosnowiec-walka-o-11-zwyciestwo-z-rzedu-z-karkonoszami-jelenia-gora/",
+   "https://pilka.zaglebie.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72043328",
+  "fx": "KS Cracovia Krakow v Jagiellonia Bialystok",
+  "sport": "football",
+  "absences": "Cracovia: Filip Marchwinski (ACL, out for season), Mateusz Klich (red-card suspension). Jagiellonia: RB Norbert Wojtuszek (hernia); otherwise no injuries reported.",
+  "context": "Ekstraklasa round 15, first round after international break. Cracovia in crisis (1-1-8 last 10) but scored in each of last 5 league games; Jagiellonia (Siemieniec) in strong form, 6-0-4.",
+  "news": "Eurosport/Betfan previews: Cracovia without Marchwinski and suspended Klich; Jagiellonia only missing Wojtuszek; Eurosport tips 1-2.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.52,
+    "p": 0.62508,
+    "why": "Jagiellonia not to lose: Cracovia lose Klich (suspended) and Marchwinski (season), 1-1-8 in last 10; trend 0.75 vs house 0.625. Own p ~0.66."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8048307219,
+    "why": "Cracovia scored in each of last 5, Jagiellonia score 2.0/g; Ekstraklasa scoring league; trend 0.75, sim 0.798, own ~0.81."
+   }
+  ],
+  "avoid": "Cracovia result sides; integer Over 2/Over 3; Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://eurosport.tvn24.pl/zaklady/typy-dnia/cracovia-vs-jagiellonia-bialystok-prognoza-typy-i-kursy-21-11-26/",
+   "https://sport.betfan.pl/cracovia-jagiellonia-bialystok-typy-kursy-21-11/",
+   "https://www.fotmob.com/matches/jagiellonia-biaystok-vs-cracovia/541de",
+   "https://www.mecze24.pl/aktualnosci/kiedy-mecz-cracovia-jagiellonia-bialystok-21-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72230876",
+  "fx": "Pogon Grodzisk Mazowiecki v MKS Arka Gdynia",
+  "sport": "football",
+  "absences": "No named absences found. Arka coach Tomasz Grzegorczyk (permanent since 27 Sep) may spring a lineup surprise (Dziennik Baltycki).",
+  "context": "1. Liga round 15. Pogon ~7th (21 pts) but lost 4 in a row; Arka ~12th (18 pts), 0-1-3 away. First-ever official meeting.",
+  "news": "Kick-off 15:30 CET (= SportyBet 14:30 UTC). Venue conflict: Wikipedia and Arka official site say Pogon host in Pruszkow; mecze24 says Stadion Miejski Grodzisk Mazowiecki.",
+  "veto": true,
+  "veto_reason": "Venue conflict (Pruszkow vs Grodzisk Mazowiecki) between sources.",
+  "picks": [],
+  "avoid": "all while venue conflict open",
+  "confidence": 0.15,
+  "sources": [
+   "https://arka.gdynia.pl/news/pgmark-26-27",
+   "https://www.mecze24.pl/aktualnosci/kiedy-o-ktorej-mecz-pogon-grodzisk-mazowiecki-arka-gdynia-21-11-2026",
+   "https://dziennikbaltycki.pl/tak-arka-gdynia-zagra-w-meczu-z-pogonia-grodzisk-mazowiecki-trener-tomasz-grzegorczyk-moze-zaskoczyc/ar/c2p2-29540111",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_I_liga"
+  ]
+ },
+ {
+  "eid": "sr:match:72230878",
+  "fx": "Polonia Warszawa v FKS Stal Mielec",
+  "sport": "football",
+  "absences": "No named Polonia absences found. Stal: Prajsnar and Gmur back from national (youth) duty; predicted XI Chichkan; Tupaj, Koscielny, Puerto, Getinger; Kwiecien, Wlazlo; Gmur, Gerbowski, Cybulski; Cebula.",
+  "context": "1. Liga round 15. Polonia (Stokowiec) joint top on 25 pts, 15 pts from last 7; Stal 11th but 10 pts from last 5, 1-0-4 away. Polonia beat Stal 3-1 and 5-2 last season.",
+  "news": "Most previews: 15:30 CET at Konwiktorska (= SportyBet 14:30 UTC); one schedule on Stal's side lists 17:00.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict 15:30 vs 17:00 CET (majority and SportyBet agree on 15:30; low severity). If cleared: Polonia DNB 1.28 (p 0.744) is the leg.",
+  "picks": [],
+  "avoid": "Under 3.5 (Unders need p>=0.82); away side",
+  "confidence": 0.2,
+  "sources": [
+   "https://nowiny24.pl/betclic-1-liga-rozpedzona-stal-mielec-ma-w-warszawie-rachunki-do-wyrownania-w-sobote-mecz-z-liderujaca-polonia/ar/c2p2-29544257",
+   "https://podkarpacielive.pl/pl/wydarzenia/64698,polonia-warszawa---stal-mielec-typy-kursy-bukmacherskie-zapowiedz-21112026",
+   "https://wawa.info/artykul/polonia-warszawa-moze-n2582606",
+   "https://www.1liga.org/w/zapowied%C5%BA-15.-kolejki-betclic-1-ligi-2"
+  ]
+ },
+ {
+  "eid": "sr:match:73050912",
+  "fx": "Escola Varsovia Warszawa U19 v Rakow Czestochowa U19",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 youth (Centralna Liga Juniorow, round 16). Youth: no result-side picks; no clear goals mismatch.",
+  "news": "Escola Varsovia U19 v Rakow U19 confirmed 21 Nov 16:00 CET (= SportyBet 15:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4751",
+   "http://www.90minut.pl/liga/1/liga15142.html",
+   "https://akademia.legia.com/articles/u19-poznalismy-terminarz-centralnej-ligi-juniorow"
+  ]
+ },
+ {
+  "eid": "sr:match:72516182",
+  "fx": "Polonia Sroda Wielkopolska v Baltyk Koszalin",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G2. Polonia Sroda Wielkopolska leaders (40 pts after 17, 12-4-1, 46:22), 4-1-0 at home scoring 3.0/g; Baltyk Koszalin mid-table (~19 pts).",
+  "news": "Tables (Pomorski Futbol/Podkarpacielive) confirm Polonia Sroda top of group II; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.715997,
+    "why": "League leader at home (4-1-0, 3.0 gf) v mid-table Baltyk; promotion motivation. House 0.716, sim 0.693, own ~0.72 - fair price, statistics/motivation only, so fill not anchor."
+   }
+  ],
+  "avoid": "Home -1.5 (Baltyk 3-4-3, rarely routed)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4648",
+   "https://www.podkarpacielive.pl/statystyki/iii-liga-gr-ii",
+   "http://www.90minut.pl/liga/1/liga14743.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73074640",
+  "fx": "KS Polonia Nysa v Odra Bytom Odrzanski",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G3. Polonia Nysa 0-2-4 at home; Odra Bytom Odrzanski low-scoring (0.8:0.9).",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 (thin, low-scoring), Unders (amateur rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://3ligagrupa3.pl/",
+   "https://tylkoslask.pl/zaglebie-sosnowiec-walka-o-11-zwyciestwo-z-rzedu-z-karkonoszami-jelenia-gora/",
+   "https://pilka.zaglebie.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72398832",
+  "fx": "Sandecja Nowy Sacz v MKS Znicz Pruszkow",
+  "sport": "football",
+  "absences": "none found",
+  "context": "II liga round 17. Znicz Pruszkow league leaders (33 pts), 5-3-2; Sandecja 3-1 at home but 3-2-5 overall.",
+  "news": "TVP Sport: 16:45 CET (= SportyBet 15:45 UTC); 90minut lists 12:00 CET.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: TVP 16:45 vs 90minut 12:00 CET (SportyBet agrees with TVP; low severity).",
+  "picks": [],
+  "avoid": "all while conflict open; if cleared, Znicz +1.0 / +1.5 catches (trend 0.83-0.90)",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.tvp.pl/96586267/betclic-2-liga-202627-terminarz-i-plan-transmisji-17-kolejki-20-22112026",
+   "http://www.90minut.pl/liga/1/liga14677.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_II_liga",
+   "https://satkurier.pl/news/254121/2-liga-sandecja-znicz-i-zawisza-bydgoszcz-podhale-nowy-targ.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72516790",
+  "fx": "Zaglebie Sosnowiec v Karkonosze Jelenia Gora",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G3. Zaglebie Sosnowiec leaders (40 pts, 29:11), going for 11th straight win, last home game of 2026; Karkonosze 8th-9th (24 pts), 0-3-2 away. Opening-day meeting was 0-0.",
+  "news": "Tylko Slask and club site: Zaglebie chasing an 11th consecutive win; kick-off 17:00 CET at ArcelorMittal Park (= SportyBet 16:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.47,
+    "p": 0.639978,
+    "why": "10 straight wins (10-0-0 last 10, GA 0.4/g), 4-0-0 at home, v mid-table side winless away (0-3-2); last home game of the year. House 0.64, sim 0.62, own ~0.67. Caution: first meeting 0-0."
+   }
+  ],
+  "avoid": "Home -1.5 (Zaglebie win by small margins: 1-0, 2-0, 3-1); Over 2.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://3ligagrupa3.pl/",
+   "https://tylkoslask.pl/zaglebie-sosnowiec-walka-o-11-zwyciestwo-z-rzedu-z-karkonoszami-jelenia-gora/",
+   "https://pilka.zaglebie.eu/",
+   "https://pilka.zaglebie.eu/w/karkonosze-jelenia-g%C3%B3ra-zag%C5%82%C4%99bie-sosnowiec-0-0-.-sk%C5%82ady-dru%C5%BCyn"
+  ]
+ },
+ {
+  "eid": "sr:match:72516178",
+  "fx": "KKS 1925 Kalisz v MKS Flota Swinoujscie",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga G2. KKS Kalisz (~18 pts) very low-scoring 0.7:1.3, 5 draws in last 10; Flota Swinoujscie (~15 pts) 1-1-5 away, conceding 3.0 away.",
+  "news": "No match-specific news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 at 1.18 (trend 0.60 for this low-scoring pair); Under 3.5 (p < 0.82)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4648",
+   "https://www.podkarpacielive.pl/statystyki/iii-liga-gr-ii",
+   "http://www.90minut.pl/liga/1/liga14743.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72043330",
+  "fx": "RKS Radomiak Radom v Wisla Krakow",
+  "sport": "football",
+  "absences": "Radomiak: Ibrahima Camara (suspended, red card); Mateusz Cichocki, Kryspin Szczesniak, Anastasios Donis injured; Fernando Goure doubtful; Filip Koperski doubtful (stomach illness after U21 duty, decision within 24h per coach John Carver). Abdoul Tapsoba has served his ban and is available. Wisla: no injuries reported; Darijo Grujcic back in training, expected to start.",
+  "context": "Ekstraklasa round 15, 20:15 CET (= SportyBet 19:15 UTC). Promoted Wisla Krakow (Mariusz Jop) has not won away this season (\"it bothers us that we have not won away yet\"); Radomiak 3-1-6 last 10.",
+  "news": "Previews confirm several Radomiak absences; Wisla health improving after the break; Radomiak coach calls Wisla's weak away form \"not a coincidence\".",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.27,
+    "p": 0.7551893104,
+    "why": "Wisla favourite only at p 0.45 (catch allowed) and winless away all season; Wisla 1-2-3 away. Radomiak absences cut their upside but +1.5 only loses to a 2+ goal Wisla win. House 0.755, sim 0.750, own ~0.77."
+   }
+  ],
+  "avoid": "Wisla 1X2/X2 (no away win this season); integer Over 2/3; Radomiak result side (4-5 absentees)",
+  "confidence": 0.25,
+  "sources": [
+   "https://transfery.info/aktualnosci/moze-nie-zagrac-z-wisla-krakow-mamy-jeszcze-24-godziny/287115",
+   "https://gazetakrakowska.pl/wisla-krakow-wraca-do-gry-w-jakim-skladzie-na-radomiaka/ar/c2p2-29544669",
+   "https://www.podkarpacielive.pl/pl/wydarzenia/64901,mariusz-jop-przed-meczem-z-radomiakiem-uwiera-nas-ze-na-wyjezdzie-jeszcze-nie-wygralismy",
+   "https://sport.betfan.pl/radomiak-radom-wisla-krakow-typy-kursy-21-11-esa/",
+   "https://gol24.pl/to-nie-przypadek-trener-radomiaka-o-slabej-grze-wisly-na-wyjazdach/ar/c2-19151657"
+  ]
+ }
+]

@@ -1,0 +1,605 @@
+[
+ {
+  "eid": "sr:match:76914458",
+  "fx": "Olimpia Kings v Deportivo San Jose",
+  "sport": "basketball",
+  "absences": "none reported",
+  "context": "KNOCKOUT: Clausura 2026 final, best-of-5, game 4 at Polideportivo Coop. Capiatá (Kings' home), Fri 20 Nov 20:00 PY = 23:00 UTC (matches board). Olimpia leads 2-1; a win clinches the title; San Jose (Apertura champions) must win to force game 5 on Tue 24 Nov. Series scores 56-67, 84-70, 68-67 (totals 123/154/135), low-scoring finals.",
+  "news": "La Nacion: San Jose won G3 67-56 to cut it to 2-1; G4 Fri 20:00 Capiatá. Earlier G2 was postponed by a venue/financial dispute (CPB v Conmebol over SUMA arena).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result-side (knockout final). Main total 151.5 looks high vs series totals 123/154/135, but Unders here only p~0.60-0.66, below the 0.74 basketball totals gate; lean only. Venue disputes already postponed one game: re-check the venue/status before posting.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lanacion.com.py/otros_deportes_edicion_impresa/2026/11/19/san-jose-acorto-la-diferencia/",
+   "https://www.abc.com.py/deportes/polideportivo/2026/11/11/kings-van-de-local-en-el-polideportivo-de-capiata-en-finales-contra-san-jose/",
+   "https://elnacional.com.py/deportes/crisis-financiera-alcanza-basquet-postergan-segundo-juego-finales-olimpia-san-jose-n115052"
+  ]
+ },
+ {
+  "eid": "sr:match:75388804",
+  "fx": "Cheongju KB Stars v Incheon Shinhan Bank S-Birds",
+  "sport": "basketball",
+  "absences": "KB Stars: Park Ji-su returned on Nov 18 after missing the opening games with a thigh injury.",
+  "context": "WKBL (women's). This is a rematch three days after Shinhan beat KB 62-61 on Nov 18. Shinhan are tied for the lead; KB 1-3 early.",
+  "news": "SBS: Shinhan beat KB 62-61 (Park Ji-su 17 pts, 15 reb on her return). Kang Lee-seul left KB for Woori.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks. House makes KB a 0.565 home favourite while trailing Shinhan on form.",
+  "confidence": 0.15,
+  "sources": [
+   "https://news.sbs.co.kr/english/article.do?news_id=N1008852704",
+   "https://www.starnewskorea.com/en/sports/2026/11/07/2026110707031635486"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114166025",
+  "fx": "Whai Women v Mainland Pouakai Women",
+  "sport": "basketball",
+  "absences": "no data",
+  "context": "NZ women's NBL; no Sportradar form.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league, no data: no picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75388806",
+  "fx": "Busan BNK Sum v Asan Woori Won",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "WKBL (women's). Woori have added Kang Lee-seul from KB. Both teams are low-scoring (totals ~125).",
+  "news": "no news found for BNK; Woori roster note only",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://news.sbs.co.kr/english/article.do?news_id=N1008852704",
+   "https://www.starnewskorea.com/en/sports/2026/11/07/2026110707031635486"
+  ]
+ },
+ {
+  "eid": "sr:match:72676992",
+  "fx": "MKS Start Lublin v Twarde Pierniki Torun",
+  "sport": "basketball",
+  "absences": "no named absences found",
+  "context": "PLK round 8, Sat 21.11 12:30 CET at Hala Globus (club site + PLK). Start has 2 wins and is chasing a 3rd; local press says the mood has improved. Torun scores 92.4 a game but is 0-3 away.",
+  "news": "Club/PLK confirm 12:30 local = 11:30 UTC. Radio Pik's weekend guide lists 20:15, a minor conflict; the official sources agree.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=157.5",
+    "desc": "Over 157.5",
+    "odds": 1.22,
+    "p": 0.7875,
+    "why": "Torun games average 181 combined (92.4 for, 88.8 against); Start games 161. Trend 0.75, sim 0.76. My p 0.79."
+   },
+   {
+    "mid": "223",
+    "spec": "hcp=10.5",
+    "desc": "Home (+10.5)",
+    "odds": 1.29,
+    "p": 0.7431,
+    "why": "Start 3-2 at home, Torun 0-3 away (avg -10). A credible home receiver. My p 0.74 (sim 0.69, so it is the weaker leg)."
+   }
+  ],
+  "avoid": "Radio Pik lists a 20:15 tip-off; re-check the time. Skip Torun ML (0-3 away).",
+  "confidence": 0.25,
+  "sources": [
+   "https://plk.pl/terminarz",
+   "https://www.startlublin.pl/",
+   "https://www.lublin112.pl/pge-start-lublin-zagra-w-sobote-z-twardymi-piernikami-stawka-trzecie-zwyciestwo-w-sezonie/",
+   "https://radio.lublin.pl/2026/11/lepsza-atmosfera-i-wola-zwyciestwa-start-skruszy-twarde-pierniki/",
+   "https://szczecinportal.pl/co-sie-dzieje-w-weekend-w-szczecinie-20-22-listopada/",
+   "https://www.radiopik.pl/4,143869,sportowy-weekendowy-rozklad-jazdy-co-czeka-regio"
+  ]
+ },
+ {
+  "eid": "sr:match:72672150",
+  "fx": "Fyllingen BK v Baerums Verk Defenders",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "BLNO. The board is anomalous: no home ML is offered, Away ML is 11.0 with p=0, and the balanced handicap is Home -30.5 between a 6-4 and a 4-6 side (last h2h 116-78).",
+  "news": "no news found; fixture not confirmed",
+  "veto": true,
+  "veto_reason": "Phantom/inconsistent lines (home -30.5 balanced, Away ML p=0); data conflict.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/tromso-storm-kongsberg-miners/vMgcstFuc",
+   "https://www.flashscore.com/basketball/norway/blno/"
+  ]
+ },
+ {
+  "eid": "sr:match:72672148",
+  "fx": "Nidaros Jets v Centrum Tigers Oslo",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "BLNO bottom clash: Nidaros 1-9 (0-5 at home, conceding 117 there), Centrum 2-8 (0-5 away).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Centrum ML 1.23 (p 0.77) passes the gate, but sim is 0.72 and Centrum is 0-5 away, so skip. No totals pass.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/tromso-storm-kongsberg-miners/vMgcstFuc",
+   "https://www.flashscore.com/basketball/norway/blno/"
+  ]
+ },
+ {
+  "eid": "sr:match:72672146",
+  "fx": "Troemso Storm v Kongsberg Miners",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "BLNO round 10, Sofascore confirms 21 Nov 14:00 UTC. Kongsberg 8-2 (beat Fyllingen 99-67 on 18 Oct). Tromso 5-5, high-scoring.",
+  "news": "Fixture confirmed on Sofascore; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kongsberg ML 1.11 is padding (<1.18). Home +12.5 is a catch for a weaker side; skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/tromso-storm-kongsberg-miners/vMgcstFuc",
+   "https://www.flashscore.com/basketball/norway/blno/"
+  ]
+ },
+ {
+  "eid": "sr:match:72971454",
+  "fx": "CP Esgueira v CAB Madeira",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "LPB round 8 (eurobasket lists Esgueira v CAB Madeira on Nov 21). Esgueira 0-10 in the data; CAB Madeira 1-6 (10th), 0-6 away scoring 72.",
+  "news": "Eurobasket confirms the Nov 21 fixture; Esgueira lost 96-97 in OT at Portimonense in round 7.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=188.5",
+    "desc": "Under 188.5",
+    "odds": 1.23,
+    "p": 0.7833,
+    "why": "Two weak offences: CAB scores 72 away, Esgueira concedes 95. Projected ~170. Trend 0.80, sim 0.775. My p 0.80."
+   }
+  ],
+  "avoid": "Overs (trend 0.5). CAB ML 1.34 (0-6 away).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fpb.pt/noticia/sabado-de-partidas-disputadas-na-7a-jornada-da-liga-betclic-masculina/",
+   "https://www.eurobasket.com/Portugal/news/1041749/Liga-Betclic-Round-7-Regular-Season-Portimonense-record-their-first-victory",
+   "https://www.fpb.pt/calendario/clube_2326/",
+   "https://www.ojogo.pt/extra/artigo/saiba-o-que-pode-acompanhar-na-televisao-no-sabado/18150359"
+  ]
+ },
+ {
+  "eid": "sr:match:72971444",
+  "fx": "Sporting Cp v Portimonense SC",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "LPB round 8 at Pavilhao Joao Rocha. Portimonense 1-6 (first win 97-96 OT v Esgueira). Sporting beat Povoa 94-69. The 4-6 Sporting form line likely includes European games.",
+  "news": "Tip-off conflict: the FPB calendar says 18:30, the O Jogo TV guide says 14:55 live (board 15:00 UTC).",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (FPB 18:30 v TV guide 14:55/board 15:00).",
+  "picks": [],
+  "avoid": "Everything (veto). Sporting ML 1.04 is padding anyway.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fpb.pt/noticia/sabado-de-partidas-disputadas-na-7a-jornada-da-liga-betclic-masculina/",
+   "https://www.eurobasket.com/Portugal/news/1041749/Liga-Betclic-Round-7-Regular-Season-Portimonense-record-their-first-victory",
+   "https://www.fpb.pt/calendario/clube_2326/",
+   "https://www.ojogo.pt/extra/artigo/saiba-o-que-pode-acompanhar-na-televisao-no-sabado/18150359"
+  ]
+ },
+ {
+  "eid": "sr:match:72965700",
+  "fx": "AD Galomar v Illiabum Clube",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Proliga. Galomar 7-3 (3-1 at home); Illiabum 1-4 away. Round 8 pairings not confirmed by any source.",
+  "news": "no news found; fixture/date not confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Galomar ML 1.26 (p 0.751) is right on the gate, but sim is 0.70; skip. Fixture unconfirmed.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.diariocoimbra.pt/2026/11/14/momentos-distintos-na-proliga/",
+   "https://www.jornaldedesporto.pt/2026/11/basquetebol-no-campeonato-da-proliga.html",
+   "https://www.flashscore.pt/basquetebol/portugal/proliga/lista/"
+  ]
+ },
+ {
+  "eid": "sr:match:75047978",
+  "fx": "Kk Dynamic v SPD Radnicki Kragujevac",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "KLS Serbia. KLS news shows Dynamic facing Cacak in the current round, while SPD Radnicki hosts BKK Radnicki (round 7, Jezero hall).",
+  "news": "Opponent conflict: KLS site lists Dynamic v Cacak and SPD Radnicki v BKK Radnicki, not Dynamic v SPD Radnicki.",
+  "veto": true,
+  "veto_reason": "Fixture/opponent conflict with official KLS news.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://kls.rs/dinamik-docekuje-radnicki/",
+   "https://kls.rs/spd-radnicki-cilja-novu-pobedu-u-kragujevcu/",
+   "https://www.sofascore.com/basketball/match/spd-radnicki-kragujevac-kk-dynamic-belgrade/AnTbspCVd"
+  ]
+ },
+ {
+  "eid": "sr:match:72965704",
+  "fx": "SC Lusitania v Sangalhos DC",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Proliga. Lusitania (Azores) 8-2, 5-1 at home, but lost at home 80-85 to Santo Andre in round 5. Sangalhos 7-3.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Nothing passes the gates (ML p 0.645).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.diariocoimbra.pt/2026/11/14/momentos-distintos-na-proliga/",
+   "https://www.jornaldedesporto.pt/2026/11/basquetebol-no-campeonato-da-proliga.html",
+   "https://www.flashscore.pt/basquetebol/portugal/proliga/lista/"
+  ]
+ },
+ {
+  "eid": "sr:match:72674038",
+  "fx": "Asker Aliens v Ulriken Eagles",
+  "sport": "basketball",
+  "absences": "n/a",
+  "context": "BLNO women. Ulriken 8-2; h2h 77-64, 76-53, 63-66 (Asker won one).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks; ML 1.02 is padding.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/tromso-storm-kongsberg-miners/vMgcstFuc",
+   "https://www.flashscore.com/basketball/norway/blno/"
+  ]
+ },
+ {
+  "eid": "sr:match:73496724",
+  "fx": "Wisla Krakow v Basket 25 Bydgoszcz",
+  "sport": "basketball",
+  "absences": "n/a",
+  "context": "Polish women's league. The league fixture list confirms 21.11 17:00 local (16:00 UTC). Odds (Wisla 1.07) clash with form: both sides are 2-8, so the form line may be a different Wisla.",
+  "news": "Fixture confirmed on the league list.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks. Data/odds mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://basketligakobiet.pl/terminarz-i-wyniki.html",
+   "https://rozgrywki.pzkosz.pl/liga/3/terminarz_i_wyniki.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72965702",
+  "fx": "Maia Basket v Sl Benfica B",
+  "sport": "basketball",
+  "absences": "n/a",
+  "context": "Proliga v Benfica B (reserve side). Maia 5-0 at home; Benfica B 0-4 away. Maia lost 85-95 at Barreirense earlier in November.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result picks. Maia ML 1.08 is padding.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diariocoimbra.pt/2026/11/14/momentos-distintos-na-proliga/",
+   "https://www.jornaldedesporto.pt/2026/11/basquetebol-no-campeonato-da-proliga.html",
+   "https://www.flashscore.pt/basquetebol/portugal/proliga/lista/"
+  ]
+ },
+ {
+  "eid": "sr:match:72966684",
+  "fx": "Cde Francisco Franco v AD Sanjoanense",
+  "sport": "basketball",
+  "absences": "n/a",
+  "context": "PT women's league. The Sanjoanense club says 16:00 that Saturday; another schedule lists 17:00 (board 16:00 UTC).",
+  "news": "Kick-off time conflict 16:00 v 17:00.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources; women's.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://serbenfiquista.com/team/20262027-seniores-feminino-basket/sl-benfica",
+   "https://ads.pt/ad-sanjoanense/2026/basquetebol-feminino-ad-sanjoanense-heliotextil-cede-nos-detalhes-frente-ao-cp-esgueira/",
+   "https://www.noticiasdeaveiro.pt/basquetebol-liga-feminina-esgueira-perde-com-sporting-sanjoanense-vitoriosa/"
+  ]
+ },
+ {
+  "eid": "sr:match:73833426",
+  "fx": "Cso Voluntari v CSM CSU Oradea",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "LNBM round 8. CSM Oradea's site + Metropola TV: Sat 21.11 18:00 EET (=16:00 UTC) at Sala Gabriela Szabo, Voluntari. Voluntari 8-2 (just beat Sibiu 81-77), 4-1 at home. Oradea 2-4 away. A FIBA window starts 22 Nov.",
+  "news": "Fixture confirmed by both clubs' media; no absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No market passes the gates (Oradea ML p 0.67 away, Voluntari 8-2 at home: no away result-side).",
+  "confidence": 0.15,
+  "sources": [
+   "https://csmoradea.ro/csm-csu-raiffeisen-se-deplaseaza-la-voluntari-pentru-cel-de-al-17-lea-meci-oficial-in-sezonul-2026-27/",
+   "https://www.metropolatv.ro/sport/cso-voluntari-joaca-maine-acasa-cu-csm-oradea-hai-la-baschet/",
+   "https://baschetromania.ro/calendar/program-si-rezultate-liga-nationala-de-baschet-masculin/"
+  ]
+ },
+ {
+  "eid": "sr:match:73833422",
+  "fx": "SCM Timisoara v SCM Universitatea Craiova",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "LNBM. The baschetromania aggregator lists Timisoara v Craiova on 20 Nov 00:00, the same placeholder it used for Voluntari-Oradea (confirmed for 21 Nov). Not independently confirmed.",
+  "news": "Unconfirmed; aggregator date 20 Nov is likely a placeholder.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No picks; re-check the date before using.",
+  "confidence": 0.1,
+  "sources": [
+   "https://csmoradea.ro/csm-csu-raiffeisen-se-deplaseaza-la-voluntari-pentru-cel-de-al-17-lea-meci-oficial-in-sezonul-2026-27/",
+   "https://www.metropolatv.ro/sport/cso-voluntari-joaca-maine-acasa-cu-csm-oradea-hai-la-baschet/",
+   "https://baschetromania.ro/calendar/program-si-rezultate-liga-nationala-de-baschet-masculin/"
+  ]
+ },
+ {
+  "eid": "sr:match:72676986",
+  "fx": "Wilki Morskie Szczecin v Anwil Wloclawek",
+  "sport": "basketball",
+  "absences": "no named absences found",
+  "context": "PLK round 8, Sat 21.11 17:30 CET at SDS 2.0 (PLK + local listing; board 16:30 UTC matches). King/Wilki 9-1, 4-0 at home; Anwil 5-5 (2-3 away).",
+  "news": "Fixture and time confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=151.5",
+    "desc": "Over 151.5",
+    "odds": 1.22,
+    "p": 0.7892,
+    "why": "Szczecin games average 166 (88.1+78.3), Anwil games 163. Trend 0.75, sim 0.77. My p 0.79."
+   },
+   {
+    "mid": "225",
+    "spec": "total=177.5",
+    "desc": "Under 177.5",
+    "odds": 1.23,
+    "p": 0.7787,
+    "why": "Anwil games average 163 and Anwil scores 80.6 away. Trend 0.80, sim 0.77. My p 0.78."
+   }
+  ],
+  "avoid": "Anwil +11.5 (sim 0.65). Szczecin ML 1.36 (p 0.70) fails the gate.",
+  "confidence": 0.25,
+  "sources": [
+   "https://plk.pl/terminarz",
+   "https://www.startlublin.pl/",
+   "https://www.lublin112.pl/pge-start-lublin-zagra-w-sobote-z-twardymi-piernikami-stawka-trzecie-zwyciestwo-w-sezonie/",
+   "https://radio.lublin.pl/2026/11/lepsza-atmosfera-i-wola-zwyciestwa-start-skruszy-twarde-pierniki/",
+   "https://szczecinportal.pl/co-sie-dzieje-w-weekend-w-szczecinie-20-22-listopada/",
+   "https://www.radiopik.pl/4,143869,sportowy-weekendowy-rozklad-jazdy-co-czeka-regio"
+  ]
+ },
+ {
+  "eid": "sr:match:72965698",
+  "fx": "Ginasio Clube Olhanense v Academica De Coimbra",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Proliga. Olhanense 3-7; Academica 0-5 away (2-8). Round 8 pairing unconfirmed.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Nothing passes (Olhanense ML p 0.72).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diariocoimbra.pt/2026/11/14/momentos-distintos-na-proliga/",
+   "https://www.jornaldedesporto.pt/2026/11/basquetebol-no-campeonato-da-proliga.html",
+   "https://www.flashscore.pt/basquetebol/portugal/proliga/lista/"
+  ]
+ },
+ {
+  "eid": "sr:match:72965692",
+  "fx": "Sampaense Basket v Abc Santo Andre",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Proliga. Sampaense 6-0 at home; Santo Andre 4-2 away (won 85-80 at Lusitania).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip; no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diariocoimbra.pt/2026/11/14/momentos-distintos-na-proliga/",
+   "https://www.jornaldedesporto.pt/2026/11/basquetebol-no-campeonato-da-proliga.html",
+   "https://www.flashscore.pt/basquetebol/portugal/proliga/lista/"
+  ]
+ },
+ {
+  "eid": "sr:match:73496716",
+  "fx": "AZS Poznan v Katarzynki Torun",
+  "sport": "basketball",
+  "absences": "n/a",
+  "context": "Polish women's league. No November fixture found for AZS Poznan or Katarzynki Torun in the league listing.",
+  "news": "Fixture not confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://basketligakobiet.pl/terminarz-i-wyniki.html",
+   "https://rozgrywki.pzkosz.pl/liga/3/terminarz_i_wyniki.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73659634",
+  "fx": "Decka Pelplin v PTG Sokol Lancut",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Polish 1. Liga (2nd tier); evenly matched sides, high totals (~181).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72971450",
+  "fx": "CA Queluz v SC Braga",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "LPB round 8. Queluz 3-3 (beat CAB 90-86); Braga 4-3, 1-3 away; Braga lost at FC Porto in round 6.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=190.5",
+    "desc": "Under 190.5",
+    "odds": 1.23,
+    "p": 0.7813,
+    "why": "Both sides' games average ~170 (Queluz 173, Braga 166). Trend 0.90, sim 0.77. My p 0.80."
+   }
+  ],
+  "avoid": "Queluz +10.5 (sim 0.67). Braga ML 1.48 away.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fpb.pt/noticia/sabado-de-partidas-disputadas-na-7a-jornada-da-liga-betclic-masculina/",
+   "https://www.eurobasket.com/Portugal/news/1041749/Liga-Betclic-Round-7-Regular-Season-Portimonense-record-their-first-victory",
+   "https://www.fpb.pt/calendario/clube_2326/",
+   "https://www.ojogo.pt/extra/artigo/saiba-o-que-pode-acompanhar-na-televisao-no-sabado/18150359"
+  ]
+ },
+ {
+  "eid": "sr:match:72965696",
+  "fx": "Basquete de Barcelos v CB Queluz",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Proliga. Barcelos 4-5, low-scoring; CB Queluz 6-4. Round 8 pairing unconfirmed.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip; no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diariocoimbra.pt/2026/11/14/momentos-distintos-na-proliga/",
+   "https://www.jornaldedesporto.pt/2026/11/basquetebol-no-campeonato-da-proliga.html",
+   "https://www.flashscore.pt/basquetebol/portugal/proliga/lista/"
+  ]
+ },
+ {
+  "eid": "sr:match:72965694",
+  "fx": "Clube Dos Galitos v Galitos Barreiro",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Proliga. Galitos (Aveiro) 3-1 at home; Galitos Barreiro 1-3 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diariocoimbra.pt/2026/11/14/momentos-distintos-na-proliga/",
+   "https://www.jornaldedesporto.pt/2026/11/basquetebol-no-campeonato-da-proliga.html",
+   "https://www.flashscore.pt/basquetebol/portugal/proliga/lista/"
+  ]
+ },
+ {
+  "eid": "sr:match:72965706",
+  "fx": "FC Barreirense v Vasco Da Gama",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Proliga. Barreirense beat Maia 95-85 at home in early November (3-2 at home); Vasco 0-5 away, conceding 97.",
+  "news": "no news found for Vasco",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vasco ML 1.42 away (0-5 away): skip. No totals pass.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diariocoimbra.pt/2026/11/14/momentos-distintos-na-proliga/",
+   "https://www.jornaldedesporto.pt/2026/11/basquetebol-no-campeonato-da-proliga.html",
+   "https://www.flashscore.pt/basquetebol/portugal/proliga/lista/"
+  ]
+ },
+ {
+  "eid": "sr:match:72971448",
+  "fx": "UD Oliveirense v Vitoria Sport Clube",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "LPB round 8. Oliveirense 4-2 (4th); Vitoria SC 2-5 (9th), scoring 73 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=180.5",
+    "desc": "Under 180.5",
+    "odds": 1.23,
+    "p": 0.7812,
+    "why": "Vitoria scores 74.7 (73 away); combined average of the two sides ~164-168. Trend 0.85, sim 0.77. My p 0.80."
+   },
+   {
+    "mid": "225",
+    "spec": "total=154.5",
+    "desc": "Over 154.5",
+    "odds": 1.21,
+    "p": 0.7949,
+    "why": "Oliveirense games average 169 (90 at home). Trend 0.75, sim 0.77. My p 0.78."
+   }
+  ],
+  "avoid": "Oliveirense ML 1.13 is padding. Vitoria +10.5 (weak side).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fpb.pt/noticia/sabado-de-partidas-disputadas-na-7a-jornada-da-liga-betclic-masculina/",
+   "https://www.eurobasket.com/Portugal/news/1041749/Liga-Betclic-Round-7-Regular-Season-Portimonense-record-their-first-victory",
+   "https://www.fpb.pt/calendario/clube_2326/",
+   "https://www.ojogo.pt/extra/artigo/saiba-o-que-pode-acompanhar-na-televisao-no-sabado/18150359"
+  ]
+ },
+ {
+  "eid": "sr:match:72966694",
+  "fx": "CP Esgueira v SL Benfica",
+  "sport": "basketball",
+  "absences": "n/a",
+  "context": "PT women's round 7, Sat 21 Nov 21:30 (Benfica fan site; board 21:30 UTC matches). Benfica 9-1; h2h 75-69, 96-67.",
+  "news": "Fixture confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks; ML 1.08 is padding.",
+  "confidence": 0.1,
+  "sources": [
+   "https://serbenfiquista.com/team/20262027-seniores-feminino-basket/sl-benfica",
+   "https://ads.pt/ad-sanjoanense/2026/basquetebol-feminino-ad-sanjoanense-heliotextil-cede-nos-detalhes-frente-ao-cp-esgueira/",
+   "https://www.noticiasdeaveiro.pt/basquetebol-liga-feminina-esgueira-perde-com-sporting-sanjoanense-vitoriosa/"
+  ]
+ }
+]

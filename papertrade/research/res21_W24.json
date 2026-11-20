@@ -1,0 +1,549 @@
+[
+ {
+  "eid": "sr:match:72779774",
+  "fx": "Stings v Tokyo Great Bears",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Men R5 Game 1 of a Sat/Sun pair; records level (Stings 4-4, Great Bears 4-4 per Volleyball World snapshot). Stings home game staged at neutral-ish CNA Arena Akita.",
+  "news": "Official club sites confirm 21 Nov 12:05 JST (=03:05 UTC) at CNA Arena Akita; Game 2 on 22 Nov. Even standings.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Stings ML 1.43 (p0.66): level records and the 'home' game is played away from Aichi in Akita, so home edge is diluted.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.volleyballworld.com/volleyball/competitions/svleague-men/standings/",
+   "https://www.jtekt-stings.jp/match/",
+   "https://tokyo-greatbears.com/news/10044/",
+   "https://www.jsports.co.jp/volleyball/svleague_men/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:72636488",
+  "fx": "Blue Cats v Saitama Ageo Medics",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Women. Blue Cats 6-4 v Ageo Medics 3-7.",
+  "news": "No fixture-specific news found; no date/venue conflict found (only standings/live-score pages).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken). Blue Cats ML 1.26.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/volleyball/japan/sv-league-women/",
+   "https://m.aiscore.com/volleyball/tournament-sv-league-women/xvkj9i93x9br793"
+  ]
+ },
+ {
+  "eid": "sr:match:72636480",
+  "fx": "Gunma Bank v Aleeza Aichi",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Women. Gunma 7-3 v Aleeza Aichi 6-4 (strong form both).",
+  "news": "No fixture-specific news found; no date/venue conflict found (only standings/live-score pages).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken). Gunma ML 1.36.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/volleyball/japan/sv-league-women/",
+   "https://m.aiscore.com/volleyball/tournament-sv-league-women/xvkj9i93x9br793"
+  ]
+ },
+ {
+  "eid": "sr:match:72636486",
+  "fx": "Marvelous v Kurobe Aqua Fairies",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Women. Marvelous (2025-26 runners-up) 7-3 v Kurobe 7-3, Kurobe 4-0 away: coin-flip.",
+  "news": "No fixture-specific news found; no date/venue conflict found (only standings/live-score pages).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken). Both MLs.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/volleyball/japan/sv-league-women/",
+   "https://m.aiscore.com/volleyball/tournament-sv-league-women/xvkj9i93x9br793"
+  ]
+ },
+ {
+  "eid": "sr:match:72636490",
+  "fx": "Toray Arrows v Okayama Seagulls",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Women. Toray Arrows women 4-6 v Okayama 2-8 (0-4 away).",
+  "news": "No fixture-specific news found; no date/venue conflict found (only standings/live-score pages).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken). Toray ML 1.42.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/volleyball/japan/sv-league-women/",
+   "https://m.aiscore.com/volleyball/tournament-sv-league-women/xvkj9i93x9br793"
+  ]
+ },
+ {
+  "eid": "sr:match:72779770",
+  "fx": "Hokkaido Yellow Stars v Suntory Sunbirds Osaka",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Men R5 Game 1. Suntory (2024-25 champions, 2025-26 finalists) 5-3; Yellow Stars 3-5 and 1-3 at home in SR data.",
+  "news": "No team news found; Suntory 3rd at 5-3 in Volleyball World table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.19,
+    "p": 0.8013,
+    "why": "Away ML p0.80 >=0.75: Suntory a title contender v a bottom-half side (Yellow Stars 1-3 at home, 1.0 sets won/game at home). Own p ~0.80; no news to move it."
+   }
+  ],
+  "avoid": "Nothing else priced in range.",
+  "confidence": 0.3,
+  "sources": [
+   "https://en.volleyballworld.com/volleyball/competitions/svleague-men/standings/",
+   "https://www.jtekt-stings.jp/match/",
+   "https://tokyo-greatbears.com/news/10044/",
+   "https://www.jsports.co.jp/volleyball/svleague_men/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:72779776",
+  "fx": "Osaka Bluteon v Shinshu Matsumoto Tridents",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Men R5. Osaka Bluteon (reigning champions, 7-1, 9-1 in SR last 10) v Shinshu Tridents (3-7, 1-5 away).",
+  "news": "No team news; Bluteon 2nd at 7-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Bluteon ML 1.14 below the 1.18 floor.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.volleyballworld.com/volleyball/competitions/svleague-men/standings/",
+   "https://www.jtekt-stings.jp/match/",
+   "https://tokyo-greatbears.com/news/10044/",
+   "https://www.jsports.co.jp/volleyball/svleague_men/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:72779772",
+  "fx": "Thunders Hiroshima v Voreas Hokkaido",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Men R5. Thunders Hiroshima 4-6 in last 10 (1-1 home); Voreas 7th at 4-4.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thunders ML 1.29 (p0.73): Thunders' own form 4-6 does not support a 73% price; skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.volleyballworld.com/volleyball/competitions/svleague-men/standings/",
+   "https://www.jtekt-stings.jp/match/",
+   "https://tokyo-greatbears.com/news/10044/",
+   "https://www.jsports.co.jp/volleyball/svleague_men/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:72636478",
+  "fx": "Airybees v NEC Red Rockets",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Women. Airybees 2-8, 0-4 home v NEC 6-4.",
+  "news": "No fixture-specific news found; no date/venue conflict found (only standings/live-score pages).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken). NEC ML 1.27.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/volleyball/japan/sv-league-women/",
+   "https://m.aiscore.com/volleyball/tournament-sv-league-women/xvkj9i93x9br793"
+  ]
+ },
+ {
+  "eid": "sr:match:72636482",
+  "fx": "Hisamitsu Springs v Prestige International Aranmare",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Women. Hisamitsu (2025-26 champions) 8-2 v Aranmare 0-10.",
+  "news": "No fixture-specific news found; no date/venue conflict found (only standings/live-score pages).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken). Hisamitsu ML 1.07 below floor.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/volleyball/japan/sv-league-women/",
+   "https://m.aiscore.com/volleyball/tournament-sv-league-women/xvkj9i93x9br793"
+  ]
+ },
+ {
+  "eid": "sr:match:72636484",
+  "fx": "Hitachi Rivale v Himeji Victorina",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Women. Hitachi 4-6 v Himeji 6-4: near coin-flip.",
+  "news": "No fixture-specific news found; no date/venue conflict found (only standings/live-score pages).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken). Both MLs.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/volleyball/japan/sv-league-women/",
+   "https://m.aiscore.com/volleyball/tournament-sv-league-women/xvkj9i93x9br793"
+  ]
+ },
+ {
+  "eid": "sr:match:72779768",
+  "fx": "Fragolad Kagoshima v Wolfdogs Nagoya",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Men R5. Wolfdogs Nagoya top (8-1) v Kagoshima Fragolad (promoted, 1-8, 0-3 home).",
+  "news": "Wolfdogs top of the table at 8-1; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Wolfdogs ML 1.05 below floor; no other in-range market with a mechanism.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.volleyballworld.com/volleyball/competitions/svleague-men/standings/",
+   "https://www.jtekt-stings.jp/match/",
+   "https://tokyo-greatbears.com/news/10044/",
+   "https://www.jsports.co.jp/volleyball/svleague_men/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:72779778",
+  "fx": "Osaka Blazers Sakai v Toray Arrows",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV.League Men R5. Blazers Sakai 5-5 (3-3 home) v Toray Arrows men 3-7, 0-4 away (0.25 sets/game away).",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Blazers ML 1.31 (p0.72): home form only 3-3; Toray's away record is poor but no named mechanism; left as fill only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.volleyballworld.com/volleyball/competitions/svleague-men/standings/",
+   "https://www.jtekt-stings.jp/match/",
+   "https://tokyo-greatbears.com/news/10044/",
+   "https://www.jsports.co.jp/volleyball/svleague_men/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:75139234",
+  "fx": "Osi v Oslo Volley",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Eliteserien Women. OSI 0-6 v Oslo Volley 2-8; both near the bottom.",
+  "news": "Bettingexpert/Meczbol confirm Sat 21 Nov 11:30 local (=10:30 UTC). Standings differ between Wikipedia and Sofascore (not a date conflict). Oslo Volley also play Koll on Sunday (back-to-back).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bettingexpert.com/volleyball/norway/eliteserien-women",
+   "https://no.wikipedia.org/wiki/Eliteserien_i_volleyball_for_kvinner_2026/27",
+   "https://www.sofascore.com/volleyball/tournament/norway/eliteserien-women/11495"
+  ]
+ },
+ {
+  "eid": "sr:match:75139236",
+  "fx": "Foerde VBK v Finstad SK",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Eliteserien Women. Førde (Sofascore: top, 4-0) v Finstad (bottom).",
+  "news": "Confirmed Sat 21 Nov 13:30 local (=12:30 UTC). Sources disagree on Førde's table position (3rd v 1st).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken). Førde ML 1.01.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bettingexpert.com/volleyball/norway/eliteserien-women",
+   "https://no.wikipedia.org/wiki/Eliteserien_i_volleyball_for_kvinner_2026/27",
+   "https://www.sofascore.com/volleyball/tournament/norway/eliteserien-women/11495"
+  ]
+ },
+ {
+  "eid": "sr:match:76207636",
+  "fx": "Berel VC v VC Atyrau",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Kazakhstan National League men. Board: Atyrau 1.17 favourite; SR form Berel 1-8, Atyrau 5-5.",
+  "news": "Data conflict: volley.kz shows Berel beating Burevestnik 3-1 on 3 Nov and an undated table with Berel 5-0 (probably last season), plus an ambiguous round-3 Berel v Atyrau result; Sofascore early table has both teams 7th/8th. Strength cannot be reconciled.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Berel to win a set / +2.5 sets (trend 0.79 v p0.58) look tempting but rest on unreconciled data; skip. Atyrau ML 1.17 below floor.",
+  "confidence": 0.1,
+  "sources": [
+   "https://volley.kz/en/matches/tables",
+   "https://www.sofascore.com/volleyball/tournament/kazakhstan/national-league/24250",
+   "https://volley.kz/en/matches/2000-2026-11-03-burevestnik-almaty-berel"
+  ]
+ },
+ {
+  "eid": "sr:match:74512704",
+  "fx": "Op Rethymnou v PAOK Thessaloniki",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Novibet Volley League R5. Rethymno v PAOK.",
+  "news": "ERT schedule confirms 21/11 16:00 local (=14:00 UTC). No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "PAOK ML 1.06 below floor; point totals have no usable trend data (the SR trend column is computed on set scores).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ertsports.gr/bolei/volley-league/to-programma-ton-eksi-proton-agonistikon-tis-volley-league-andron-kai-oi-metadoseis-tis-ert/",
+   "https://sportday.gr/sports/volei/358278_volley-league-2026-27-ayto-einai-to-programma-tou-protathlimatos.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73934954",
+  "fx": "Sviluppo Sud Catania v Virtus Volley Napoli",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Serie A2 R6 early game.",
+  "news": "Corriere dello Sport/Vibo Sport: the 16:00 local game is Sviluppo Sud PALMI v UNION Napoli. The board title says 'Sviluppo Sud Catania v Virtus Volley Napoli' while its market labels say Palmi. Union Napoli 3rd on 10 pts.",
+  "veto": true,
+  "veto_reason": "Team-identity/venue conflict: board fixture name (Catania, Virtus Napoli) differs from official listings (Palmi, Union Napoli). SR form may belong to other teams.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.corrieredellosport.it/news/volley/a2-maschile/2026/11/20-152700805/palmi-napoli_e_lagonegro-reggio_calabria_gli_anticipi_della_6a",
+   "https://vibosport.it/volley-a2-maschile-palmi-apre-il-turno-con-napoli-e-la-domotek-fa-visita-a-lagonegro/"
+  ]
+ },
+ {
+  "eid": "sr:match:74512710",
+  "fx": "AOP Kifisias v AONS Milon",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Volley League R5. Kifisia 3-7 (2-3 home) v Milon 3-7 (1-4 away); H2H 0-3 Milon. Milon host Panathinaikos on 27 Nov.",
+  "news": "ERT schedule confirms 21/11 18:00 local (=16:00 UTC); sportday.gr lists different R5 pairings for Milon (minor source conflict, ERT/board agree).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "192",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.19,
+    "p": 0.7995,
+    "why": "Kifisia to win a set (p0.80): two 3-7 sides, Milon only 1-4 away and 1.0 sets/game won away; Kifisia +1.5 sets trend 0.70 v p0.57. Own p ~0.81. Low confidence: one listing differs on pairings."
+   }
+  ],
+  "avoid": "Milon ML 1.55 (Milon 1-4 away).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ertsports.gr/bolei/volley-league/to-programma-ton-eksi-proton-agonistikon-tis-volley-league-andron-kai-oi-metadoseis-tis-ert/",
+   "https://sportday.gr/sports/volei/358278_volley-league-2026-27-ayto-einai-to-programma-tou-protathlimatos.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73072856",
+  "fx": "AO Thiras v PAOK",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Greek A1 Women R7. Thira 7th (8 pts) v PAOK 4th (11 pts, from a 3-0 win).",
+  "news": "AC PAOK: 21/11 19:00 local (=17:00 UTC), Santorini. New Thira coach Sotiris Gkotsis debuts. Some listings give slightly different times (women's: no picks anyway).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken).",
+  "confidence": 0.1,
+  "sources": [
+   "https://acpaok.gr/%CE%B1%CE%BF-%CE%B8%CE%AE%CF%81%CE%B1%CF%82-%CF%80%CE%B1%CE%BF%CE%BA-fu-21-11-1900/",
+   "https://www.fosonline.gr/volleyball/a-gynaikon/article/396907/volley-league-gynaikon-me-eyropaiko-endiaferon-i-7i-agonistiki",
+   "https://www.sdna.gr/bolei/1487996_panathinaikos-ao-thiras-3-1"
+  ]
+ },
+ {
+  "eid": "sr:match:73072854",
+  "fx": "Asp Thetis v Panathinaikos Athens",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Greek A1 Women R7. Thetis v Panathinaikos (6/6 unbeaten, top).",
+  "news": "Fosonline: Voula, 19:30 local (=17:30 UTC). Panathinaikos unbeaten 6-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken). PAO ML 1.09 below floor.",
+  "confidence": 0.1,
+  "sources": [
+   "https://acpaok.gr/%CE%B1%CE%BF-%CE%B8%CE%AE%CF%81%CE%B1%CF%82-%CF%80%CE%B1%CE%BF%CE%BA-fu-21-11-1900/",
+   "https://www.fosonline.gr/volleyball/a-gynaikon/article/396907/volley-league-gynaikon-me-eyropaiko-endiaferon-i-7i-agonistiki",
+   "https://www.sdna.gr/bolei/1487996_panathinaikos-ao-thiras-3-1"
+  ]
+ },
+ {
+  "eid": "sr:match:73934948",
+  "fx": "Rinascita Lagonegro v SS Reggio Calabria",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Serie A2 R6. Lagonegro 2nd on 12 pts, coming off their first defeat (v Macerata); Domotek Reggio Calabria won a tie-break at Fano last round. Reggio 7-3 in last 10, 3-2 away.",
+  "news": "Confirmed Sat 21 Nov 18:30 local (=17:30 UTC) at Lagonegro. No absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "193",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.18,
+    "p": 0.8077,
+    "why": "Reggio to win a set (p0.81): in-form visitor (7-3, 2.2 sets/game away, fresh tie-break win at Fano) v a home side whose ML is only p0.62. Own p ~0.82."
+   }
+  ],
+  "avoid": "Lagonegro ML 1.53 (p0.62, SR trend 0.45); Under 4.5 sets (Unders need p>=0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.corrieredellosport.it/news/volley/a2-maschile/2026/11/20-152700805/palmi-napoli_e_lagonegro-reggio_calabria_gli_anticipi_della_6a",
+   "https://vibosport.it/volley-a2-maschile-palmi-apre-il-turno-con-napoli-e-la-domotek-fa-visita-a-lagonegro/"
+  ]
+ },
+ {
+  "eid": "sr:match:74512706",
+  "fx": "Olympiacos Piraeus v Panionios",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Volley League R5. Olympiacos (Giuliani) 7 pts v Panionios 8 pts. Panionios level or ahead in the table.",
+  "news": "Fosonline/club: start moved from 19:30 to 21:00 local (=19:00 UTC, matches the board), but some listings still show 19:30.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (19:30 original v 21:00 club announcement). Board time matches the new time, but the rule says veto on any conflict.",
+  "picks": [],
+  "avoid": "Olympiacos ML 1.11 below floor anyway; Panionios not a soft opponent (ahead in the table).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fosonline.gr/volleyball/a-andron/article/396811/allagi-oras-sto-olympiakos-panionios",
+   "https://www.olympiacossfp.gr/index.php/tmimata-el/bolei-andron"
+  ]
+ },
+ {
+  "eid": "sr:match:73314088",
+  "fx": "Sliedrecht Sport v Lycurgus Groningen",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Eredivisie men. Sliedrecht 5-5 v Lycurgus 5-5. Lycurgus beat Orion 3-0 and Limax; Sliedrecht played a thriller v Orion.",
+  "news": "volleybal.nl (15 Nov): Dynamo new leader; Lycurgus bounced back by beating Numidia VC Limax. No absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lycurgus ML 1.45 (SR trend 0.50 v p0.65); Over 3.5 sets (trend 0.60 v p0.71).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.volleybal.nl/nieuws/draisma-dynamo-nieuwe-koploper-eredivisie-mannen"
+  ]
+ },
+ {
+  "eid": "sr:match:73314086",
+  "fx": "VV Huizen v Sss Barneveld",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Eredivisie men. Huizen 3-7 (3-1 home) v Barneveld 6-4 (3-0 away).",
+  "news": "No fixture news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 4.5 sets (trend 0.95) blocked by the p>=0.82 Under rule; Barneveld ML 1.54.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.volleybal.nl/nieuws/draisma-dynamo-nieuwe-koploper-eredivisie-mannen"
+  ]
+ },
+ {
+  "eid": "sr:match:73314090",
+  "fx": "ZVH Volleyball v Topvolley Limburg",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Eredivisie men. ZVH 0-10 (0.5 sets/game) v the away side.",
+  "news": "Data conflict: the board titles the away team 'Topvolley Limburg' but its team-total market names 'Numidia VC Limax' (a different Eredivisie club per volleybal.nl).",
+  "veto": true,
+  "veto_reason": "Team-identity conflict inside the event (Topvolley Limburg v Numidia VC Limax); SR form may be for the wrong club.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.volleybal.nl/nieuws/draisma-dynamo-nieuwe-koploper-eredivisie-mannen"
+  ]
+ },
+ {
+  "eid": "sr:match:73313958",
+  "fx": "Apollo 8 v Booleans/ VV Utrecht",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Eredivisie Women. Apollo 8 9-1 v Utrecht 1-9.",
+  "news": "No news found; no date conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken). Apollo ML 1.15.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nevobo.nl/kenniscentrum/eredivisie/"
+  ]
+ },
+ {
+  "eid": "sr:match:73313962",
+  "fx": "Sudosa-Desto v Sliedrecht Sport",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Eredivisie Women. Sudosa-Desto 6-4 v Sliedrecht 9-1.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nevobo.nl/kenniscentrum/eredivisie/"
+  ]
+ },
+ {
+  "eid": "sr:match:73313960",
+  "fx": "VC Sneek v Draisma Dynamo Apeldoorn",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Eredivisie Women. Sneek 6-4 (1-3 home) v Dynamo 6-4.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nevobo.nl/kenniscentrum/eredivisie/"
+  ]
+ },
+ {
+  "eid": "sr:match:73076520",
+  "fx": "Agil Volley Novara v Chieri 76 Volleyball",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Serie A1 Women. Novara (6th, 16 pts, won 3-1 at Talmassons) v Chieri (3rd, 22 pts, 8-2 in last 10).",
+  "news": "OA Sport (R9): Chieri 3rd, Novara 6th. The round-10 fixture date and time were not confirmed by any source found. Board makes Novara a slight favourite despite the lower table place.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no volleyball analogue of a goals-market mismatch was taken). Data/price divergence (house favours the 6th-placed side).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.oasport.it/2026/11/volley-femminile-van-ryk-scatenata-e-scandicci-esulta-chieri-terza-forza-in-serie-a1-novara-promossa/"
+  ]
+ }
+]

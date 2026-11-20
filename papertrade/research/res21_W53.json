@@ -1,0 +1,576 @@
+[
+ {
+  "eid": "sr:match:72850664",
+  "fx": "Hadsten Haandbold v Ejstrup/Haervejen",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Women 1. Division; Hadsten ~10 pts mid-table; first round after Nov break",
+  "news": "no news found beyond standings (Hadsten 10 pts after 10)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides (women's fixture: no result-side/handicap picks by rule); coin-flip board",
+  "confidence": 0.1,
+  "sources": [
+   "https://tophaandbold.dk/stillinger/1-division-kvinder",
+   "https://www.roskildekongrescenter.dk/arrangementer/roskilde-haandbold-kvinder-dhg-haandbold",
+   "https://tophaandbold.dk/kampprogram/1-division-kvinder"
+  ]
+ },
+ {
+  "eid": "sr:match:72850666",
+  "fx": "GOG Haandbold v Roedovre HK",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Women 1. Division; GOG 10 pts v Roedovre 6 pts; GOG 4-0 at home",
+  "news": "no news found; standings only",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides/handicaps (women's fixture: no result-side/handicap picks by rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://tophaandbold.dk/stillinger/1-division-kvinder",
+   "https://www.roskildekongrescenter.dk/arrangementer/roskilde-haandbold-kvinder-dhg-haandbold",
+   "https://tophaandbold.dk/kampprogram/1-division-kvinder"
+  ]
+ },
+ {
+  "eid": "sr:match:72840360",
+  "fx": "Aalborg Haandbold v Soenderjyske HK",
+  "sport": "handball",
+  "absences": "Aalborg had several injury problems this autumn (Landin finger cut Oct, missed 2 CL games); current status not confirmed",
+  "context": "Herreligaen round after Nov break; both sides 8-2 in last 10; Aalborg likely has EHF CL midweek",
+  "news": "no Nov-21-specific team news found; Aalborg injury reports date from October",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Aalborg -3.5/-4.5 (Soenderjyske 8-2 form, last H2H only 24-21); Aalborg team-total Overs",
+  "confidence": 0.15,
+  "sources": [
+   "https://morsthy.dk/kampprogram",
+   "https://www.skjernhaandbold.dk/groenpower/kampkalender",
+   "https://tophaandbold.dk/kampprogram/herreligaen",
+   "https://nordjyske.dk/nyheder/sport/nye-problemer-for-aalborg-haandbold-flere-profiler-ramt-af-skader/6207612"
+  ]
+ },
+ {
+  "eid": "sr:match:72840358",
+  "fx": "Skive FH v Nordsjaelland Haandbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Herreligaen; Skive 0 wins in last 10 (0-5 at home, conceding 36/home game); Nordsjaelland 4-6 but won 35-33 in last H2H",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.51,
+    "p": 0.5684,
+    "why": "Skive 0W in 10 incl. 0/5 at home conceding 36 avg; Nordsjaelland won last H2H 35-33 away. Stats-only mechanism (fill). Own p ~0.62"
+   }
+  ],
+  "avoid": "Skive Home (+0.5/+1.5) despite house lean",
+  "confidence": 0.2,
+  "sources": [
+   "https://morsthy.dk/kampprogram",
+   "https://www.skjernhaandbold.dk/groenpower/kampkalender",
+   "https://tophaandbold.dk/kampprogram/herreligaen",
+   "https://nordjyske.dk/nyheder/sport/nye-problemer-for-aalborg-haandbold-flere-profiler-ramt-af-skader/6207612"
+  ]
+ },
+ {
+  "eid": "sr:match:72840830",
+  "fx": "AGF Aarhus v HC Midtjylland",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Men 1. Division; AGF 0 wins in last 10, avg -7.8 per game, lost 20-35 at HOEJ on Nov 15; Midtjylland 8-2",
+  "news": "HOEJ Elite news page confirms 35-20 win over AGF on 15 Nov (AGF collapse continuing)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=5.5",
+    "desc": "Away (-5.5)",
+    "odds": 1.74,
+    "p": 0.525,
+    "why": "AGF lost all 10 by avg 7.8 (20-35 last weekend), Midtjylland 8-2. Own p ~0.56"
+   }
+  ],
+  "avoid": "AGF +5.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://tophaandbold.dk/hoj",
+   "https://www.myplanetsport.dk/1-division-herrehaandbold/",
+   "https://www.myhandball.dk/haandbold-i-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:72850326",
+  "fx": "Copenhagen Handball v Viborg HK",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Kvindeligaen; Viborg 7-1-2 with strong defence (25.7 conceded); kick-off 14:00 CET confirmed (Danske Spil)",
+  "news": "no team news found; fixture/time confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides (women's fixture: no result-side/handicap picks by rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://dswebapp.sb.danskespil.dk/allekampe/den-lange?ev_categories_ids=25&ev_class_id=0&ev_type_id=0&date_filter=FUT",
+   "https://odensehaandbold.dk/kampprogram/",
+   "https://sport.tv2.dk/haandbold/danmark-dame-haandbold-ligaen/kvinder/turnering/kampprogram"
+  ]
+ },
+ {
+  "eid": "sr:match:72850330",
+  "fx": "Herning-Ikast Haandbold v Ringkoebing Haandbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Kvindeligaen; club now listed as Ikast Haandbold (formerly Herning-Ikast); Ringkoebing 0/4 away, conceding 35 away",
+  "news": "fixture confirmed 14:00 CET (Danske Spil); club name change only",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ikast -7.5 (women's fixture: no result-side/handicap picks by rule); ML 1.05 too short",
+  "confidence": 0.15,
+  "sources": [
+   "https://dswebapp.sb.danskespil.dk/allekampe/den-lange?ev_categories_ids=25&ev_class_id=0&ev_type_id=0&date_filter=FUT",
+   "https://odensehaandbold.dk/kampprogram/",
+   "https://sport.tv2.dk/haandbold/danmark-dame-haandbold-ligaen/kvinder/turnering/kampprogram"
+  ]
+ },
+ {
+  "eid": "sr:match:72850332",
+  "fx": "Skanderborg Haandbold v Team Esbjerg",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Kvindeligaen; Team Esbjerg top of the table, 9-1; Skanderborg 0/6 at home scoring 20.3; H2H 32-15 Esbjerg",
+  "news": "fixture confirmed 14:00 CET; Esbjerg top in standings snapshot",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Esbjerg -12.5 and Esbjerg team total 36.5 (Esbjerg likely rotates v bottom side; women's fixture: no result-side/handicap picks by rule)",
+  "confidence": 0.15,
+  "sources": [
+   "https://dswebapp.sb.danskespil.dk/allekampe/den-lange?ev_categories_ids=25&ev_class_id=0&ev_type_id=0&date_filter=FUT",
+   "https://odensehaandbold.dk/kampprogram/",
+   "https://sport.tv2.dk/haandbold/danmark-dame-haandbold-ligaen/kvinder/turnering/kampprogram"
+  ]
+ },
+ {
+  "eid": "sr:match:72850324",
+  "fx": "Soenderjyske HK v Hoej Elite",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Kvindeligaen; Soenderjyske 3-2-5, Hoej 3-7; listed on TV2 Saturday programme",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides (women's fixture: no result-side/handicap picks by rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://dswebapp.sb.danskespil.dk/allekampe/den-lange?ev_categories_ids=25&ev_class_id=0&ev_type_id=0&date_filter=FUT",
+   "https://odensehaandbold.dk/kampprogram/",
+   "https://sport.tv2.dk/haandbold/danmark-dame-haandbold-ligaen/kvinder/turnering/kampprogram"
+  ]
+ },
+ {
+  "eid": "sr:match:72850668",
+  "fx": "Sik Viborg v DHG Odense",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Women 1. Division; SIK Viborg 10 pts (4-1 at home) v DHG 6 pts",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (women's fixture: no result-side/handicap picks by rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://tophaandbold.dk/stillinger/1-division-kvinder",
+   "https://www.roskildekongrescenter.dk/arrangementer/roskilde-haandbold-kvinder-dhg-haandbold",
+   "https://tophaandbold.dk/kampprogram/1-division-kvinder"
+  ]
+ },
+ {
+  "eid": "sr:match:72850670",
+  "fx": "Roskilde Haandbold v Bjerringbro FH",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Women 1. Division; Roskilde 2nd (14 pts after 10), 5-0 at home; Bjerringbro bottom with 1 pt, 0/4 away",
+  "news": "fixture confirmed 21 Nov at Roskilde (Roskilde Kongrescenter listing)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Roskilde ML 1.23/-4.5 (women's fixture: no result-side/handicap picks by rule); no clear goals edge (total 55.5 coin-flip)",
+  "confidence": 0.15,
+  "sources": [
+   "https://tophaandbold.dk/stillinger/1-division-kvinder",
+   "https://www.roskildekongrescenter.dk/arrangementer/roskilde-haandbold-kvinder-dhg-haandbold",
+   "https://tophaandbold.dk/kampprogram/1-division-kvinder"
+  ]
+ },
+ {
+  "eid": "sr:match:72840838",
+  "fx": "Grindsted GIF v Odder Haandbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Men 1. Division; Grindsted only 1-4 at home; Odder 0-1-3 away conceding 35",
+  "news": "fixture listed on TV schedule, date not shown",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Grindsted 1.29 (home form 1/5 does not support p 0.73); -3.5",
+  "confidence": 0.1,
+  "sources": [
+   "https://tophaandbold.dk/hoj",
+   "https://www.myplanetsport.dk/1-division-herrehaandbold/",
+   "https://www.myhandball.dk/haandbold-i-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:72840836",
+  "fx": "Norddjurs Haandbold v Koge Handbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Men 1. Division; Norddjurs high-scoring (37.5 gf at home); Koge 1-3 away",
+  "news": "fixture listed on TV schedule, date not shown",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Norddjurs -4.5 (coin-flip); totals",
+  "confidence": 0.1,
+  "sources": [
+   "https://tophaandbold.dk/hoj",
+   "https://www.myplanetsport.dk/1-division-herrehaandbold/",
+   "https://www.myhandball.dk/haandbold-i-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:72840352",
+  "fx": "Mors-Thy Haandbold v Skjern Haandbold",
+  "sport": "handball",
+  "absences": "Skjern lost Jakob Rasmussen (Achilles, March 2026) - long-term, status unknown",
+  "context": "Herreligaen; Mors-Thy 1-4 at home (conceding 33); Skjern 6-1-3; 15:30 CET Thyhallen confirmed by both clubs",
+  "news": "both club calendars confirm Sat 21 Nov 15:30 Thyhallen; Mors-Thy preview dated 20 Nov",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.25,
+    "p": 0.7197,
+    "why": "Mors-Thy 1W in 5 at home conceding 33.2; Skjern 6-1-3. Fixture-specific form only. Own p ~0.74"
+   }
+  ],
+  "avoid": "Skjern -2.5/-3.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://morsthy.dk/kampprogram",
+   "https://www.skjernhaandbold.dk/groenpower/kampkalender",
+   "https://tophaandbold.dk/kampprogram/herreligaen",
+   "https://nordjyske.dk/nyheder/sport/nye-problemer-for-aalborg-haandbold-flere-profiler-ramt-af-skader/6207612",
+   "https://morsthy.dk/nyheder"
+  ]
+ },
+ {
+  "eid": "sr:match:72840834",
+  "fx": "Elitesport Vendsyssel v TM Toender Haandbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Men 1. Division; Toender 8-2 v Vendsyssel 6-1-3 (3-1-1 at home)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all sides: close match",
+  "confidence": 0.1,
+  "sources": [
+   "https://tophaandbold.dk/hoj",
+   "https://www.myplanetsport.dk/1-division-herrehaandbold/",
+   "https://www.myhandball.dk/haandbold-i-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:72840832",
+  "fx": "Hoej Elite v Lemvig-Thyboroen Haandbold",
+  "sport": "handball",
+  "absences": "none found (HOEJ news feed: one player returning home, two leaving at season end)",
+  "context": "Men 1. Division; HOEJ 9-1, beat AGF 35-20 on 15 Nov; Lemvig 5-1-4 (top of preseason table)",
+  "news": "HOEJ beat AGF 35-20 last weekend; a 25-34 loss to \"Viborg HK\" on 12 Nov on the same feed likely belongs to the HOEJ women team (unclear)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "HOEJ -5.5 (Lemvig credible, 3-2 away); ML 1.11 too short",
+  "confidence": 0.15,
+  "sources": [
+   "https://tophaandbold.dk/hoj",
+   "https://www.myplanetsport.dk/1-division-herrehaandbold/",
+   "https://www.myhandball.dk/haandbold-i-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:72850334",
+  "fx": "HH Elite v HC Odense",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Kvindeligaen; HH Elite (Horsens) v Odense, 16:00 CET on TV 2 confirmed by Odense calendar",
+  "news": "fixture/time confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Odense -9.5 (women's fixture: no result-side/handicap picks by rule)",
+  "confidence": 0.1,
+  "sources": [
+   "https://dswebapp.sb.danskespil.dk/allekampe/den-lange?ev_categories_ids=25&ev_class_id=0&ev_type_id=0&date_filter=FUT",
+   "https://odensehaandbold.dk/kampprogram/",
+   "https://sport.tv2.dk/haandbold/danmark-dame-haandbold-ligaen/kvinder/turnering/kampprogram"
+  ]
+ },
+ {
+  "eid": "sr:match:72629742",
+  "fx": "CD El Ejido FS v FS Garcia",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Liga Prime futsal; El Ejido 8th",
+  "news": "DATE/OPPONENT CONFLICT: an events agenda lists CD El Ejido v Industrias Santa Coloma at the same Sat 18:00 slot; SoloFutSal lists Sur Seeds El Ejido at home that day without confirming FS Garcia",
+  "veto": true,
+  "veto_reason": "opponent conflict between sources for the El Ejido 21 Nov home game",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://solofutsal.es/primera-division-futbol-sala",
+   "https://ciriaco.netlify.app/",
+   "https://www.flashscore.es/equipo/ad-sala-10-zaragoza/j5cQ8mnr/"
+  ]
+ },
+ {
+  "eid": "sr:match:72671232",
+  "fx": "RK Sisak v MRK Cakovec",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Croatian Premijer Liga (Liga B group), round 10, 18:00 Zeleni Brijeg Sisak; Cakovec beat Osijek 34-25 last round; Sisak came back for 25-25 draw at Trogir; Sisak has a new coach (Ivankovic, Oct)",
+  "news": "round-10 preview found; date not explicitly stated",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sisak 1.62 (Cakovec in form; H2H 32-29 Cakovec)",
+  "confidence": 0.1,
+  "sources": [
+   "https://handballinsider.com/2026/11/18/liga-b-radnic-debitira-na-klupi-trogira-protiv-karlovca-u-subotu-ga-cekaju-vodece-sesvete/",
+   "https://www.livesport.com/hr/rukomet/hrvatska/premijer-liga/",
+   "https://hrs.hr/"
+  ]
+ },
+ {
+  "eid": "sr:match:72670656",
+  "fx": "Spacva Vinkovci v RK Rudar Samobor",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Croatian Premijer Liga; Bjelin Spacva Vinkovci 3-1 at home; no confirmation of Rudar fixture date",
+  "news": "Livesport lists Vinkovci - Rudar in the schedule block; date not confirmed by a second source",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vinkovci 1.25 (last H2H lost 23-34; date unverified)",
+  "confidence": 0.1,
+  "sources": [
+   "https://handballinsider.com/2026/11/18/liga-b-radnic-debitira-na-klupi-trogira-protiv-karlovca-u-subotu-ga-cekaju-vodece-sesvete/",
+   "https://www.livesport.com/hr/rukomet/hrvatska/premijer-liga/",
+   "https://hrs.hr/"
+  ]
+ },
+ {
+  "eid": "sr:match:72749018",
+  "fx": "Limoges Handball v PAUC Handball",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Starligue J11; Limoges 3-0 at home; Aix 1-4 away; 18:00 CET confirmed by LNH",
+  "news": "LNH lists J11 Sat 21 Nov 18:00 Limoges v Aix",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Limoges -1.5/-2.5 (both ~55%)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lnh.fr/daikin-starligue/accueil",
+   "https://www.teamchambe.com/",
+   "https://hbcnantes.com/equipe-professionnelle/classement/"
+  ]
+ },
+ {
+  "eid": "sr:match:72841816",
+  "fx": "HSG Lipizzanerheimat v Bregenz Handball",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "HLA Meisterliga R11; Bregenz chasing first win at Lipizzanerheimat in a while; Bregenz 1-3 away",
+  "news": "time conflict: Handball-Papst 18:30 CET vs OeHB 19:00 CET, same date and hall (Baernbach); board 18:30 CET",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all sides: close, small time conflict",
+  "confidence": 0.1,
+  "sources": [
+   "https://handballpapst.de/hla-meisterliga/uhk-krems-empfaengt-atzgersdorf-naechste-chance-vor-heimischem-publikum/",
+   "https://handballpapst.de/hla-meisterliga/heimspiel-gegen-linz-fivers-wollen-wieder-ihr-wahres-gesicht-zeigen/",
+   "https://handballpapst.de/hla-meisterliga/bregenz-will-endlich-wieder-in-der-weststeiermark-siegen/",
+   "https://www.oehb.at/de/bewerbe/maennerbewerbe/nul-OoeHB-HLA--MEISTERLIGA"
+  ]
+ },
+ {
+  "eid": "sr:match:72841824",
+  "fx": "Alpla HC Hard v Handball Tirol",
+  "sport": "handball",
+  "absences": "Hard: early-season injuries to new signings (coach)",
+  "context": "HLA R11 Sat 19:00 Sporthalle am See; Tirol 2nd (14 pts), Hard 5th; Tirol have not won at Hard since Oct 2020",
+  "news": "DATE CONFLICT: HLA/laola1 schedule shows 20.11 19:00 while Handball-Papst/press say Sat 21.11 19:00 and the club site 16:30",
+  "veto": true,
+  "veto_reason": "date/kick-off conflict between official HLA calendar (20.11) and club/press (21.11, 16:30 vs 19:00)",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://handballpapst.de/hla-meisterliga/adler-wollen-die-harder-festung-knacken/",
+   "https://www.austria.com/artikel/schwaz-will-harder-auswaertsfluch-nach-sechs-jahren-beenden/10038096",
+   "https://matchcenter.laola1.at/Handball/Oesterreich/HLAMeisterliga/kalender",
+   "https://www.hchard.at/"
+  ]
+ },
+ {
+  "eid": "sr:match:72841820",
+  "fx": "UHK Krems v Wat Atzgersdorf",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "HLA R11 Sat 19:00 CET Sporthalle Krems; Atzgersdorf promoted and bottom, 0/4 away conceding 38",
+  "news": "Krems preview: \"next chance in front of home crowd\" v bottom side Atzgersdorf (one article wrongly names the Hard hall)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Krems -7.5 (Krems only 1-1-2 at home); ML 1.04 too short",
+  "confidence": 0.15,
+  "sources": [
+   "https://handballpapst.de/hla-meisterliga/uhk-krems-empfaengt-atzgersdorf-naechste-chance-vor-heimischem-publikum/",
+   "https://handballpapst.de/hla-meisterliga/heimspiel-gegen-linz-fivers-wollen-wieder-ihr-wahres-gesicht-zeigen/",
+   "https://handballpapst.de/hla-meisterliga/bregenz-will-endlich-wieder-in-der-weststeiermark-siegen/",
+   "https://www.oehb.at/de/bewerbe/maennerbewerbe/nul-OoeHB-HLA--MEISTERLIGA"
+  ]
+ },
+ {
+  "eid": "sr:match:72671230",
+  "fx": "MRK Sesvete v MRK Trogir",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Croatian Liga B; Sesvete leaders on 16 pts (after European run); Trogir under new coach Radnic, who debuted midweek v Karlovac (possible 2 games in a few days)",
+  "news": "Handball Insider 18 Nov confirms Trogir visit leaders Sesvete on Saturday",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sesvete ML 1.07 too short; no other markets",
+  "confidence": 0.15,
+  "sources": [
+   "https://handballinsider.com/2026/11/18/liga-b-radnic-debitira-na-klupi-trogira-protiv-karlovca-u-subotu-ga-cekaju-vodece-sesvete/",
+   "https://www.livesport.com/hr/rukomet/hrvatska/premijer-liga/",
+   "https://hrs.hr/"
+  ]
+ },
+ {
+  "eid": "sr:match:72749026",
+  "fx": "Saran Loiret Handball v Chambery Savoie",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Starligue J11; Saran 0/5 at home; Chambery 1-2-2 away",
+  "news": "time conflict: LNH 19:00 vs Chambery site 20:00 (same date, Palais des Sports Jean Ros)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all sides: both teams poor; kick-off time conflict",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lnh.fr/daikin-starligue/accueil",
+   "https://www.teamchambe.com/",
+   "https://hbcnantes.com/equipe-professionnelle/classement/"
+  ]
+ },
+ {
+  "eid": "sr:match:72841822",
+  "fx": "HC Fivers Wat Margareten v HC Linz AG",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "HLA R11 19:30 CET; Fivers out of form (\"want to show their true face again\"), 3-1 at home",
+  "news": "Fivers home v Linz 19:30 confirmed (Handball-Papst)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fivers -1.5 (coin flip)",
+  "confidence": 0.1,
+  "sources": [
+   "https://handballpapst.de/hla-meisterliga/uhk-krems-empfaengt-atzgersdorf-naechste-chance-vor-heimischem-publikum/",
+   "https://handballpapst.de/hla-meisterliga/heimspiel-gegen-linz-fivers-wollen-wieder-ihr-wahres-gesicht-zeigen/",
+   "https://handballpapst.de/hla-meisterliga/bregenz-will-endlich-wieder-in-der-weststeiermark-siegen/",
+   "https://www.oehb.at/de/bewerbe/maennerbewerbe/nul-OoeHB-HLA--MEISTERLIGA"
+  ]
+ },
+ {
+  "eid": "sr:match:72760358",
+  "fx": "JDA Dijon Handball v Toulon Metropole Var Handball",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "LFH J11 Sat 19:30 CET; Dijon 4th (22 pts); Toulon won 4 in a row incl. 30-27 v Besancon",
+  "news": "Toulon in form (4 straight wins)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dijon ML/-2.5 (women's fixture: no result-side/handicap picks by rule; Toulon in form)",
+  "confidence": 0.15,
+  "sources": [
+   "https://ligue-feminine-handball.fr/clubs/jdadijonhand/",
+   "https://pleinair.net/actualites/item/22255-handball-d1-feminine-l-esbf-battue-a-toulon"
+  ]
+ },
+ {
+  "eid": "sr:match:72629744",
+  "fx": "Sala 10 Zaragoza v Manzanares FS",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Liga Prime futsal; Manzanares 7th",
+  "news": "DATE CONFLICT: Flashscore lists AD Sala 10 Zaragoza v Manzanares FS on 29.11, an events agenda on 21.11 20:00",
+  "veto": true,
+  "veto_reason": "date conflict (21.11 vs 29.11)",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://solofutsal.es/primera-division-futbol-sala",
+   "https://ciriaco.netlify.app/",
+   "https://www.flashscore.es/equipo/ad-sala-10-zaragoza/j5cQ8mnr/"
+  ]
+ },
+ {
+  "eid": "sr:match:72749020",
+  "fx": "HBC Nantes v Selestat Alsace HB",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Starligue J11 Sat 20:30 CET; Nantes 4-1 at home (35-28 avg); Selestat 2-3 away",
+  "news": "LNH lists J11 Nantes v Selestat 20:30",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Nantes -6.5/-7.5 (Nantes likely European midweek; margin ~7 is the house line)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lnh.fr/daikin-starligue/accueil",
+   "https://www.teamchambe.com/",
+   "https://hbcnantes.com/equipe-professionnelle/classement/"
+  ]
+ }
+]

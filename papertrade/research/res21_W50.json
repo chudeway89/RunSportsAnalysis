@@ -1,0 +1,702 @@
+[
+ {
+  "eid": "sr:match:72121034",
+  "fx": "FK Napredak Krusevac v FK Teleoptik",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serbian Prva Liga 2026/27 (FSS lists it as round 19); Napredak home 3W/4 but scoring 0.7/game overall; Teleoptik is Partizan's development side (young squad).",
+  "news": "FSS/srbijasport confirm 21.11 13:00 local in Krusevac; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Napredak DC 1.23 (attack 0.7 gf/game, no mechanism); youth-feeder opponent volatile",
+  "confidence": 0.15,
+  "sources": [
+   "https://srbijasport.net/league/8626-mozzart-bet-prva-liga-srbije",
+   "https://fss.rs/takmicenje/mozzart-bet-prva-liga-srbije-26-27/?script=lat"
+  ]
+ },
+ {
+  "eid": "sr:match:72121036",
+  "fx": "FK Spartak Subotica v Backa Topola",
+  "sport": "football",
+  "absences": "none found",
+  "context": "'Backa Topola' = TSC (relegated, now Prva Liga). TSC 6W3D1L, 2.5 gf; Spartak 2W in 10, 0W in 4 at home conceding 3.0/game.",
+  "news": "Fixture Spartak-TSC confirmed 21.11 13:00 local Subotica (FSS/srbijasport); no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.3,
+    "p": 0.7050028232,
+    "why": "TSC 9 unbeaten in 10 v Spartak with 0 home wins in 4 (GA 3.0 at home); trend 0.85 v p 0.71; my p 0.75"
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.45 < 0.75); Spartak anything",
+  "confidence": 0.25,
+  "sources": [
+   "https://srbijasport.net/league/8626-mozzart-bet-prva-liga-srbije",
+   "https://fss.rs/takmicenje/mozzart-bet-prva-liga-srbije-26-27/?script=lat"
+  ]
+ },
+ {
+  "eid": "sr:match:73775068",
+  "fx": "AL Shoulla FC v Jubbah Club",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Saudi 2nd Division (Gulf thin-league class); Al Shoulla 4W/5 at home, Jubbah 2W in 10.",
+  "news": "no news found (only 2025/26 tables online).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Gulf second tier: no news coverage, house p already ~= form; Over 1.5 excluded (thin Gulf class)",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Saudi_Second_Division_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73775074",
+  "fx": "AL Qous Club v AL Nojoom FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Saudi 2nd Division; Al Qous 0W in 10 and 0.25 gf at home; Al Nojoom 4W/10. Low-scoring pair.",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders below p 0.82; result sides coin-flip; Gulf thin class",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Saudi_Second_Division_League"
+  ]
+ },
+ {
+  "eid": "sr:match:76224040",
+  "fx": "Cosmos Serravalle v SC Faetano",
+  "sport": "football",
+  "absences": "none found",
+  "context": "San Marino amateur league; Cosmos 6W2D2L (GA 0.7, unbeaten at home in 5); Faetano 0W in 10, GA 2.6.",
+  "news": "FSGC/Diretta confirm Cosmos-Faetano 21.11 15:00 local at Montecchio; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.792,
+    "why": "Faetano winless in 10 (0W3D7L, 0.5 gf) v Cosmos unbeaten at home; amateur league so sim 0.75 tempers; my p 0.79"
+   }
+  ],
+  "avoid": "Home -1.5 (sim 0.51); Unders (amateur)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fsgc.sm/it/campionato/campionato-sammarinese/1",
+   "https://www.diretta.it/calcio/san-marino/campionato-sammarinese/calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:76224044",
+  "fx": "FC Domagnano v FC Fiorentino",
+  "sport": "football",
+  "absences": "none found",
+  "context": "San Marino amateur league; Domagnano home 2W/5; even matchup. FSGC lists venue as Acquaviva (shared-venue league, not a conflict).",
+  "news": "Fixture confirmed 21.11 15:00 local (FSGC, Diretta); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism; coin-flip 1X2",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fsgc.sm/it/campionato/campionato-sammarinese/1",
+   "https://www.diretta.it/calcio/san-marino/campionato-sammarinese/calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:76224042",
+  "fx": "SS San Giovanni v SS Virtus",
+  "sport": "football",
+  "absences": "none found",
+  "context": "San Marino; Virtus (2025/26 champions) 8W1D1L, GA 0.4; San Giovanni 1W/5 at home. Only Over 2.5 priced in band.",
+  "news": "Fixture confirmed 21.11 15:00 (FSGC lists venue Fiorentino); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 1.54 (trend 0.45, Virtus concede 0.4/game)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fsgc.sm/it/campionato/campionato-sammarinese/1",
+   "https://www.diretta.it/calcio/san-marino/campionato-sammarinese/calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:72201724",
+  "fx": "Hibernian FC v Dundee United",
+  "sport": "football",
+  "absences": "Hibs: Felix Passlack out (hamstring); Obita and Devaney back. Dundee Utd: Neil Farrugia out, Agyei late fitness test, Merghem returns.",
+  "context": "Scottish Premiership, first game after international break; Hibs 0W in 4 at home; United 2W2D1L away scoring 2.0.",
+  "news": "Easter Road 3pm confirmed; Squawka predicts stalemate; minor knocks both sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.81746,
+    "why": "United away games average 3.2 goals, Hibs last 10 trend 0.85; both sides near-full attacks; my p 0.81"
+   }
+  ],
+  "avoid": "Hibs result side (0W in 4 at home, trend 0.25); Under lines",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.hibernianfc.co.uk/news/2026/november/19/preview-dundee-united-h-",
+   "https://www.sportsmole.co.uk/football/hibernian/preview/hibernian-vs-dundee-utd-prediction-team-news-lineups_609446.html",
+   "https://www.squawka.com/en/news/previews/hibernian-vs-dundee-united-predictions-saturday-21-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72202740",
+  "fx": "Arbroath FC v Stenhousemuir FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Championship; Arbroath 3W/10 (home 3W/5), Stenhousemuir 1W/4 away.",
+  "news": "no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism; integer O2 / U3 excluded",
+  "confidence": 0.1,
+  "sources": [
+   "https://spfl.co.uk/league/league-one/fixtures",
+   "https://spfl.co.uk/match-day",
+   "https://www.pressandjournal.co.uk/fp/sport/football/ross-county/7155525/ross-county-cove-rangers-manager-previews-november-19/",
+   "https://www.forebet.com/en/football/matches/east-fife-airdrieonians-fc-2481512"
+  ]
+ },
+ {
+  "eid": "sr:match:72202746",
+  "fx": "Queens Park FC v Livingston FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Championship; Livingston (relegated, 5W3D2L, away 3W2D0L, GA 0.2 away) v Queen's Park 2W8L, 0.5 gf at home. Livi won reverse 2-0 on 1 Aug.",
+  "news": "no team news found for this match.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.19,
+    "p": 0.8061352256,
+    "why": "Livingston unbeaten away (GA 0.2) v QP 8 defeats in 10 and 0.5 home gf; DNB removes draw; my p 0.83"
+   }
+  ],
+  "avoid": "Away 1X2 1.5 (p 0.64 < 0.75); QP U1.5 team goals (p 0.78 < 0.82)",
+  "confidence": 0.3,
+  "sources": [
+   "https://spfl.co.uk/clubs/queens-park",
+   "https://queensparkfc.co.uk/livingston-v-queens-park-match-hub/"
+  ]
+ },
+ {
+  "eid": "sr:match:72203986",
+  "fx": "East Fife FC v Airdrieonians FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish League One mid-table: Airdrie 5th (19 pts), East Fife 6th (18).",
+  "news": "SPFL confirms 3pm at Bayview; Forebet: East Fife 3W in last 6, Airdrie lost half of last 6.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Close mid-table game; Airdrie DC / O1.5 lack mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://spfl.co.uk/league/league-one/fixtures",
+   "https://spfl.co.uk/match-day",
+   "https://www.pressandjournal.co.uk/fp/sport/football/ross-county/7155525/ross-county-cove-rangers-manager-previews-november-19/",
+   "https://www.forebet.com/en/football/matches/east-fife-airdrieonians-fc-2481512"
+  ]
+ },
+ {
+  "eid": "sr:match:72203990",
+  "fx": "Peterhead FC v East Kilbride FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "League One: Peterhead 8th (13 pts) v promoted East Kilbride (scoring 2.8/game). Peterhead's home GA 0.6 conflicts with EK's attack.",
+  "news": "3pm KO confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 1.54 (Peterhead 0.9 gf, home GA 0.6)",
+  "confidence": 0.15,
+  "sources": [
+   "https://spfl.co.uk/league/league-one/fixtures",
+   "https://spfl.co.uk/match-day",
+   "https://www.pressandjournal.co.uk/fp/sport/football/ross-county/7155525/ross-county-cove-rangers-manager-previews-november-19/",
+   "https://www.forebet.com/en/football/matches/east-fife-airdrieonians-fc-2481512"
+  ]
+ },
+ {
+  "eid": "sr:match:72203992",
+  "fx": "Queen of the South FC v Hamilton Academical FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "League One: Hamilton 2nd (lost 2-1 at Ross County, 4-0 at Cove recently); QoS 9th, conceding 3.5/game at home, 1-7 home loss in last 6.",
+  "news": "SPFL confirms Palmerston Park 3pm; table snapshot Nov 16.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.819609,
+    "why": "QoS home games average 6.0 goals (GA 3.5); Hamilton score 2.0/game; my p 0.84"
+   }
+  ],
+  "avoid": "Hamilton DNB 1.26 (lost 2 of last 3 big games); integer O2",
+  "confidence": 0.25,
+  "sources": [
+   "https://spfl.co.uk/league/league-one/fixtures",
+   "https://spfl.co.uk/match-day",
+   "https://www.pressandjournal.co.uk/fp/sport/football/ross-county/7155525/ross-county-cove-rangers-manager-previews-november-19/",
+   "https://www.forebet.com/en/football/matches/east-fife-airdrieonians-fc-2481512"
+  ]
+ },
+ {
+  "eid": "sr:match:72203994",
+  "fx": "Ross County FC v Cove Rangers FC",
+  "sport": "football",
+  "absences": "Cove: three young Aberdeen loanees (Hartley hopes to keep them); Ross back from Scotland U19 duty.",
+  "context": "League One: Ross County top, 8 points clear, unbeaten all season (home 5W1D); Cove in form (beat Hamilton 4-0). P&J also says Cove bottom of a tight table, which conflicts with their 7W in 10 data form.",
+  "news": "P&J preview: Cove try to be first to beat 'red-hot' County; County beat Hamilton 2-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.809958,
+    "why": "Unbeaten runaway leader at home (3.3 gf/game, 9W1D in 10); my p 0.80"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.38,
+    "p": 0.694341,
+    "why": "County 3.3 gf/game and Cove scoring 2.3; trend 0.70 v p 0.69; my p 0.70"
+   }
+  ],
+  "avoid": "Home -1.5 (trend 0.35); Cove team goals",
+  "confidence": 0.3,
+  "sources": [
+   "https://spfl.co.uk/league/league-one/fixtures",
+   "https://spfl.co.uk/match-day",
+   "https://www.pressandjournal.co.uk/fp/sport/football/ross-county/7155525/ross-county-cove-rangers-manager-previews-november-19/",
+   "https://www.forebet.com/en/football/matches/east-fife-airdrieonians-fc-2481512"
+  ]
+ },
+ {
+  "eid": "sr:match:72204344",
+  "fx": "Annan Athletic FC v Forfar Athletic FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "League Two: Annan (won 5-0 at Dumbarton recently) v Forfar 0W in 5 away, GA 2.6 away.",
+  "news": "no team news found; no preview located.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.769583,
+    "why": "Forfar away games 3.8 goals/game, Annan last 6 all 2+ goals; trend 0.90 v p 0.77; my p 0.80"
+   }
+  ],
+  "avoid": "Result sides (coin-flip); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://spfl.co.uk/league/league-two/fixtures",
+   "https://spfl.co.uk/",
+   "https://www.skysports.com/scottish-league-two-scores-fixtures",
+   "https://www.aiscore.com/head-to-head/soccer-dumbarton-vs-spartans",
+   "https://mrfixitstips.co.uk/mark-walkers-scottish-football-tips-jags-to-sting-rovers/"
+  ]
+ },
+ {
+  "eid": "sr:match:72204346",
+  "fx": "Clyde FC v Stirling Albion FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "League Two: Clyde 2nd (30 pts), 3.1 gf/game, 4W/5 at home; Stirling 6th, away GA 2.83 (lost 7-3).",
+  "news": "SPFL lists 3pm; table snapshot Nov 16.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.39,
+    "p": 0.686885,
+    "why": "Clyde games average 5.1 goals over last 10; Stirling concede 2.83 away; trend 0.85 v p 0.69; my p 0.73"
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7553510309,
+    "why": "Clyde 2nd and 4W/5 at home v Stirling 1W/6 away; my p 0.78"
+   }
+  ],
+  "avoid": "Home -1 integer AH; Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://spfl.co.uk/league/league-two/fixtures",
+   "https://spfl.co.uk/",
+   "https://www.skysports.com/scottish-league-two-scores-fixtures",
+   "https://www.aiscore.com/head-to-head/soccer-dumbarton-vs-spartans",
+   "https://mrfixitstips.co.uk/mark-walkers-scottish-football-tips-jags-to-sting-rovers/"
+  ]
+ },
+ {
+  "eid": "sr:match:72204348",
+  "fx": "Edinburgh City FC v Kelty Hearts FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "League Two: Edinburgh City 8th v Kelty Hearts (tied 4th-6th). One SPFL homepage snippet listed 'Kelty Hearts v The Spartans' the same day, which conflicts with this fixture and with Spartans v Dumbarton.",
+  "news": "Fixture conflict across sources: SPFL fixtures page shows Edinburgh City v Kelty; another SPFL snippet shows Kelty v Spartans.",
+  "veto": true,
+  "veto_reason": "Fixture conflict: Kelty Hearts listed in two different 21 Nov fixtures across SPFL pages; unresolved",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://spfl.co.uk/league/league-two/fixtures",
+   "https://spfl.co.uk/",
+   "https://www.skysports.com/scottish-league-two-scores-fixtures",
+   "https://www.aiscore.com/head-to-head/soccer-dumbarton-vs-spartans",
+   "https://mrfixitstips.co.uk/mark-walkers-scottish-football-tips-jags-to-sting-rovers/"
+  ]
+ },
+ {
+  "eid": "sr:match:72204352",
+  "fx": "Spartans FC v Dumbarton FC",
+  "sport": "football",
+  "absences": "Dumbarton: new 28-year-old manager Martin Fellowes (per tipster page, unverified date); lost 0-5 at home to Annan.",
+  "context": "League Two: Spartans v Dumbarton (Dumbarton won reverse 3-0 on 19 Sep).",
+  "news": "Sky/AiScore list Spartans v Dumbarton 21 Nov, but an SPFL snippet lists Kelty Hearts v The Spartans the same day; unresolved.",
+  "veto": true,
+  "veto_reason": "Fixture conflict: Spartans appear in two different 21 Nov fixtures across sources",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://spfl.co.uk/league/league-two/fixtures",
+   "https://spfl.co.uk/",
+   "https://www.skysports.com/scottish-league-two-scores-fixtures",
+   "https://www.aiscore.com/head-to-head/soccer-dumbarton-vs-spartans",
+   "https://mrfixitstips.co.uk/mark-walkers-scottish-football-tips-jags-to-sting-rovers/"
+  ]
+ },
+ {
+  "eid": "sr:match:72204350",
+  "fx": "Stranraer FC v Elgin City FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "League Two: Stranraer 6W3D1L, unbeaten at home (3W3D); Elgin 5W/10 but lost 0-5 recently.",
+  "news": "no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.25,
+    "p": 0.7535324448,
+    "why": "Stranraer unbeaten in 6 home games (3W3D), 1 loss in 10; my p 0.77"
+   }
+  ],
+  "avoid": "Over 1.5 (Stranraer home 0-0 and Elgin low-scoring away)",
+  "confidence": 0.2,
+  "sources": [
+   "https://spfl.co.uk/league/league-two/fixtures",
+   "https://spfl.co.uk/",
+   "https://www.skysports.com/scottish-league-two-scores-fixtures",
+   "https://www.aiscore.com/head-to-head/soccer-dumbarton-vs-spartans",
+   "https://mrfixitstips.co.uk/mark-walkers-scottish-football-tips-jags-to-sting-rovers/"
+  ]
+ },
+ {
+  "eid": "sr:match:72121028",
+  "fx": "FK Loznica v RFK Graficar Beograd",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Prva Liga; Loznica 0W in last 6 (4 draws/1-goal games); Graficar 4W/10.",
+  "news": "Confirmed 21.11 16:30 local in Loznica (srbijasport/FSS); no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism; Loznica DNB 1.48 (trend 0.47)",
+  "confidence": 0.1,
+  "sources": [
+   "https://srbijasport.net/league/8626-mozzart-bet-prva-liga-srbije",
+   "https://fss.rs/takmicenje/mozzart-bet-prva-liga-srbije-26-27/?script=lat"
+  ]
+ },
+ {
+  "eid": "sr:match:72083142",
+  "fx": "OFK Beograd v FK Novi Pazar",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Superliga round 16: OFK Beograd (low in table, 0W in 4 at home) v Novi Pazar (4W3D3L, away GA 1.0).",
+  "news": "superliga.rs and Dan u Beogradu confirm Sat 21 Nov 17:00 local at Omladinski stadion; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.18,
+    "p": 0.815133,
+    "why": "OFK score 0.9/game and have 1 win in 10; Novi Pazar have lost by 2+ only rarely; trend 0.95 v p 0.82; my p 0.85"
+   }
+  ],
+  "avoid": "OFK result side; integer O2",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.danubeogradu.rs/2026/11/fudbal-super-liga-srbije-2026-27-16-kolo/",
+   "https://www.danas.rs/sport/superliga-srbije-zvezda-partizan-radmik-imt/",
+   "https://www.novosti.rs/sport/fudbal/1672445/partizan-tim-oslabljen-imt-superliga-srbije",
+   "https://www.superliga.rs/en/",
+   "https://gradskiportal018.rs/radnicki-sutra-docekuje-zemun-drincic-imamo-imperativ-pobede/",
+   "https://tvzonaplus.rs/radnicki-u-subotu-docekuje-ekipu-zemuna/"
+  ]
+ },
+ {
+  "eid": "sr:match:76967396",
+  "fx": "Dakar Sacre Coeur v Generation Foot",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Senegal Ligue 1 2026/27 (started 17 Oct); Dakar Sacre-Coeur 1W in 10 (0.4 gf); Generation Foot 5W in 10, opened with 3-0 win.",
+  "news": "365Scores lists 21 Nov 17:00; one Ouest-France page shows inconsistent placeholder results; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.29,
+    "p": 0.7196468413,
+    "why": "DSC 0.4 gf/game and winless in 4 at home v strong Generation Foot (GA 0.8); trend 0.80 v p 0.72; my p 0.75"
+   }
+  ],
+  "avoid": "Overs (very low-scoring league); away 1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.365scores.com/football/team/dakar-sc-18364",
+   "https://www.seneweb.com/fr/news/Sport/ligue-1-senegalaise-1-journee-generation-foot-demarre-en-force-lus-goree-et-diambars-assurent_n_999000997.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72083150",
+  "fx": "FK IMT Novi Beograd v FK Partizan Belgrade",
+  "sport": "football",
+  "absences": "Partizan: Stefan Milic suspended (yellows); Demba Seck and Sidni Lima doubts after PAOK friendly; Chaka Traore fit again.",
+  "context": "Superliga round 16; match moved to Lagator stadium, Loznica.",
+  "news": "Official schedule (Dan u Beogradu, Danas, Novosti) has IMT-Partizan on SUNDAY 22 Nov 15:00 in Loznica, not Sat 21 Nov 17:00 UTC as on SportyBet.",
+  "veto": true,
+  "veto_reason": "Date/venue conflict: sources give Sun 22 Nov 15:00 at Loznica",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.danubeogradu.rs/2026/11/fudbal-super-liga-srbije-2026-27-16-kolo/",
+   "https://www.danas.rs/sport/superliga-srbije-zvezda-partizan-radmik-imt/",
+   "https://www.novosti.rs/sport/fudbal/1672445/partizan-tim-oslabljen-imt-superliga-srbije",
+   "https://www.superliga.rs/en/",
+   "https://gradskiportal018.rs/radnicki-sutra-docekuje-zemun-drincic-imamo-imperativ-pobede/",
+   "https://tvzonaplus.rs/radnicki-u-subotu-docekuje-ekipu-zemuna/"
+  ]
+ },
+ {
+  "eid": "sr:match:72083138",
+  "fx": "FK Macva Sabac v FK Vojvodina Novi Sad",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Superliga round 16; Vojvodina near top.",
+  "news": "superliga.rs / Dan u Beogradu list Macva-Vojvodina on SUNDAY 22 Nov 17:00 in Sabac, not Sat 21 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict: official schedule says Sun 22 Nov",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.danubeogradu.rs/2026/11/fudbal-super-liga-srbije-2026-27-16-kolo/",
+   "https://www.danas.rs/sport/superliga-srbije-zvezda-partizan-radmik-imt/",
+   "https://www.novosti.rs/sport/fudbal/1672445/partizan-tim-oslabljen-imt-superliga-srbije",
+   "https://www.superliga.rs/en/",
+   "https://gradskiportal018.rs/radnicki-sutra-docekuje-zemun-drincic-imamo-imperativ-pobede/",
+   "https://tvzonaplus.rs/radnicki-u-subotu-docekuje-ekipu-zemuna/"
+  ]
+ },
+ {
+  "eid": "sr:match:72083146",
+  "fx": "FK Radnicki 1923 Kragujevac v Cukaricki",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Superliga round 16.",
+  "news": "Dan u Beogradu 16. kolo lists Radnicki 1923-Cukaricki on Sunday 22 Nov 13:00; another snippet puts it on the 21st; SportyBet has Sat 17:00 UTC.",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict between sources (Sun 22 Nov 13:00 vs Sat 21 Nov 17:00 UTC)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.danubeogradu.rs/2026/11/fudbal-super-liga-srbije-2026-27-16-kolo/",
+   "https://www.danas.rs/sport/superliga-srbije-zvezda-partizan-radmik-imt/",
+   "https://www.novosti.rs/sport/fudbal/1672445/partizan-tim-oslabljen-imt-superliga-srbije",
+   "https://www.superliga.rs/en/",
+   "https://gradskiportal018.rs/radnicki-sutra-docekuje-zemun-drincic-imamo-imperativ-pobede/",
+   "https://tvzonaplus.rs/radnicki-u-subotu-docekuje-ekipu-zemuna/"
+  ]
+ },
+ {
+  "eid": "sr:match:72083148",
+  "fx": "FK Radnicki Nis v FK Zemun",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Superliga round 16; Zemun bottom; Radnicki coach Drincic: 'imperative to win'.",
+  "news": "Official superliga.rs and Nis local media: Sat 21 Nov 13:00 local (12:00 UTC) at Cair; SportyBet lists 17:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: official 12:00 UTC vs board 17:00 UTC",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.danubeogradu.rs/2026/11/fudbal-super-liga-srbije-2026-27-16-kolo/",
+   "https://www.danas.rs/sport/superliga-srbije-zvezda-partizan-radmik-imt/",
+   "https://www.novosti.rs/sport/fudbal/1672445/partizan-tim-oslabljen-imt-superliga-srbije",
+   "https://www.superliga.rs/en/",
+   "https://gradskiportal018.rs/radnicki-sutra-docekuje-zemun-drincic-imamo-imperativ-pobede/",
+   "https://tvzonaplus.rs/radnicki-u-subotu-docekuje-ekipu-zemuna/"
+  ]
+ },
+ {
+  "eid": "sr:match:72203988",
+  "fx": "Montrose FC v Alloa Athletic FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "League One: Montrose 2W/10 v Alloa 1W/10 (both bottom half).",
+  "news": "SPFL match-day lists 17:30 at Links Park.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 1.18 (two weak attacks, ~0.9-1.0 gf); Alloa team-goal Unders below 0.82",
+  "confidence": 0.1,
+  "sources": [
+   "https://spfl.co.uk/league/league-one/fixtures",
+   "https://spfl.co.uk/match-day",
+   "https://www.pressandjournal.co.uk/fp/sport/football/ross-county/7155525/ross-county-cove-rangers-manager-previews-november-19/",
+   "https://www.forebet.com/en/football/matches/east-fife-airdrieonians-fc-2481512"
+  ]
+ },
+ {
+  "eid": "sr:match:72201720",
+  "fx": "Dundee FC v Heart of Midlothian FC",
+  "sport": "football",
+  "absences": "Dundee: only long-term absentees (Simon Murray, Fin Robertson, Jack Moorhouse, Bobby Wales). Hearts: Ageu, Borchgrevink, Rogers Mato back, but squad still described as depleted.",
+  "context": "Premiership 5:45pm Dens Park; Hearts 2W in 10, 1W/5 away and conceding 2.6 away; Dundee 4W/10.",
+  "news": "Pressley: 'good on the injury front'; Sports Mole calls Hearts depleted.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8097081543,
+    "why": "Hearts away GA 2.6, every game in both sides' last 10 had 2+ goals (trend 1.0); my p 0.84"
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.28,
+    "p": 0.7532053909,
+    "why": "Depleted Hearts 1W in 5 away v near-full Dundee; Hearts win p ~0.45 so +1.5 allowed; trend 0.90; my p 0.78"
+   }
+  ],
+  "avoid": "Hearts DNB/1X2 (trend 0.40); integer O2",
+  "confidence": 0.3,
+  "sources": [
+   "https://sports.yahoo.com/articles/dundee-v-hearts-team-news-173925069.html",
+   "https://www.thecourier.co.uk/fp/sport/football/dundee-fc/5620903/steven-pressley-dundee-changes-hearts-positive/",
+   "https://www.sportsmole.co.uk/football/hearts/preview/dundee-vs-hearts-prediction-team-news-lineups_609385.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72201728",
+  "fx": "Motherwell FC v Rangers",
+  "sport": "football",
+  "absences": "Rangers: Cammy Devlin and Lawrence Shankland out (early Dec), Min-su Kim doubt (hamstring), McCrorie conflicting reports; all 11 internationals back fit. Motherwell: Alex Lowry, Koutroumbis, Dylan Williams out.",
+  "context": "Premiership 8pm Fir Park; Rangers 2nd, unbeaten in 12; Motherwell 3 unbeaten.",
+  "news": "McInnes: no new injuries from the break; Motherwell plan to 'shock' Rangers.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.826804,
+    "why": "Rangers score 2.0/game, unbeaten run with goals; Motherwell missing Lowry; big-club total at p 0.83 >= 0.82; my p 0.83"
+   }
+  ],
+  "avoid": "Rangers result side (big-club rule; Motherwell 3 unbeaten); +2.5 catch (fav p 0.62)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/rangers/preview/motherwell-vs-rangers-prediction-team-news-lineups_609393.html",
+   "https://readrangers.com/2026/11/19/postive-rangers-team-injury-news-derek-mcinnes",
+   "https://www.scotsman.com/sport/football/rangers/latest-rangers-news/motherwell-vs-rangers-injury-news-6-out-and-several-doubts-as-derek-mcinnes-waits-on-two-at-fir-park-9356865"
+  ]
+ },
+ {
+  "eid": "sr:match:76875428",
+  "fx": "He Garden Hotspurs v Flow 4G Cayon Rockets",
+  "sport": "football",
+  "absences": "none found",
+  "context": "St Kitts & Nevis Premier League: Garden Hotspurs 8th (2W6L, 6 pts) v Cayon Rockets 6th (3W2D3L, 11 pts). No Sportradar form data.",
+  "news": "SKNFA standings; futbol24 shows Cayon losing 0-5 at home on Nov 8 while SKNFA reports a 5-0 win; results conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cayon 1X2 1.18 (p 0.81 looks rich for a 3W2D3L side; research >15pp below house => skip); Over 2.5",
+  "confidence": 0.1,
+  "sources": [
+   "https://sknfa.com/",
+   "https://www.nevispages.com/sknfa-nbg-premier-league-village-superstars-lead-the-title-race-as-the-first-round-concludes/",
+   "https://www.futbol24.com/national/St-Kitts-and-Nevis/Premier-League/2026-2027"
+  ]
+ }
+]

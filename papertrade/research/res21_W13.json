@@ -1,0 +1,676 @@
+[
+ {
+  "eid": "sr:match:73038668",
+  "fx": "Recoleta FC v Club Guarani Asuncion",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Clausura round 20 (of 22). Guarani chasing a Copa Sudamericana 2027 place (most in need). Guarani won the first-round meeting 2-0; away form 4W1D0L. KO 20:00 PY = 23:00 UTC 20 Nov.",
+  "news": "ABC/Sofascore: Fri 20 Nov 23:00 UTC. Venue conflict (ABC: Ricardo Gregor; Sofascore: Roque Batelhana), and FotMob lists 18 Nov.",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Ricardo Gregor vs Roque F. Batelhana) and a FotMob date of 18 Nov. Probably a stale listing, but the rule is binding.",
+  "picks": [],
+  "avoid": "Everything (veto). Without the veto the lean would be Guarani DNB 1.42, because they must win.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.abc.com.py/deportes/futbol/2026/11/20/recoleta-fc-vs-guarani-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay/",
+   "https://www.sofascore.com/football/match/recoleta-fc-guarani/UucsVbrc",
+   "https://www.fotmob.com/matches/guarani-vs-recoleta/d1jhdjxv",
+   "https://www.latribuna.com.py/deportes/2026/11/20/se-pone-en-marcha-la-fecha-20-con-dos-partidos/"
+  ]
+ },
+ {
+  "eid": "sr:match:76880306",
+  "fx": "Rancho Santana FC v Art Municipal Jalapa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Apertura 2026. Both clubs changed coach recently: Rancho Santana (Barrantes out Oct, Edward Urroz in) and ART Jalapa (Sept). Rancho have 2W in 10 and score 0.9 a game.",
+  "news": "Only coach changes found; no team news for this round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides: the coach churn makes them a coin flip. Over 1.5 at 1.23 is thin and the league's scoring is unverified.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liga_Primera",
+   "https://www.laprensani.com/2026/09/01/deportes/3776293-tabla-posiciones-liga-primera-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74873496",
+  "fx": "Wellington Olympic v Birkenhead United AFC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NZ National League (championship phase). Birkenhead (Northern League champions; 6-1 away win at Auckland FC Res on 25 Oct) v Wellington Olympic (home 3W of 4, 2.75 goals scored a game). Both attack well: home 2.1 and away 1.9 goals scored a game.",
+  "news": "The 2026 Wikipedia page gives the team list and results only; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.685523,
+    "why": "Both sides score about 2 a game, Olympic's home games average 4.0 goals and Birkenhead's away games 3.8; my p 0.70 (house 0.686)."
+   }
+  ],
+  "avoid": "Result sides: near coin flip.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_New_Zealand_National_League",
+   "https://www.aucklandcityfc.com/city-set-for-national-league-title-defence/"
+  ]
+ },
+ {
+  "eid": "sr:match:74873494",
+  "fx": "Ferrymead Bays v Auckland FC Reserves",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Auckland FC Reserves are a reserve side (2W in 10, 2.9 goals conceded a game, lost 1-6 at home to Birkenhead). Ferrymead Bays are on an active 4-game losing run.",
+  "news": "No news beyond the Wikipedia results table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve-side fixture and not a clear mismatch (home p 0.50), so no picks. Over 2.5 at 1.35 is the only data lean.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_New_Zealand_National_League",
+   "https://www.aucklandcityfc.com/city-set-for-national-league-title-defence/"
+  ]
+ },
+ {
+  "eid": "sr:match:72517408",
+  "fx": "Korona II Kielce SA v KS Naprzod Jedrzejow",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Polish III liga gr. IV round 18 (21-22 Nov), the last round before the winter break. Korona II is a reserve side.",
+  "news": "Round 18 fixture block confirmed on 21-22 Nov; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side, so no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14745.html",
+   "https://www.podkarpacielive.pl/terminarze/iii-liga-gr-iv"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114710815",
+  "fx": "Olimpia Asuncion v Sportivo Trinidense",
+  "sport": "football",
+  "absences": "n/a",
+  "context": "Paraguayan reserve league (Clausura). Olimpia reserves are 1.22 favourites.",
+  "news": "No news searched beyond date checks; nothing found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve fixture, so no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.abc.com.py/deportes/futbol/2026/11/20/recoleta-fc-vs-guarani-a-que-hora-juega-y-donde-ver-hoy-en-vivo-por-la-primera-division-de-paraguay/",
+   "https://www.sofascore.com/football/match/recoleta-fc-guarani/UucsVbrc",
+   "https://www.fotmob.com/matches/guarani-vs-recoleta/d1jhdjxv",
+   "https://www.latribuna.com.py/deportes/2026/11/20/se-pone-en-marcha-la-fecha-20-con-dos-partidos/"
+  ]
+ },
+ {
+  "eid": "sr:match:72045830",
+  "fx": "FK Skopje v FK Arsimi 1973",
+  "sport": "football",
+  "absences": "none found",
+  "context": "1. MFL. FK Skopje are in terrible form (1W in 10, 0.4 goals scored a game, 0W at home). Arsimi are leaky (2.0 conceded a game) and lost the opener 5-1 at Tikvesh. The H2H earlier was 0-0.",
+  "news": "No November team news found (FFM and macedonianfootball pages are stale).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 at p 0.72 is below the 0.82 gate. Result sides are too weak to back.",
+  "confidence": 0.15,
+  "sources": [
+   "https://macedonianfootball.com/1-mfl-2026-27-standings-fixtures/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Macedonian_First_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72517414",
+  "fx": "Siarka Tarnobrzeg v KS Hetman Zamosc",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga gr. IV round 18. Hetman Zamosc are in strong form (7W2D1L, 2.4 goals scored a game, 4W of 5 away). Siarka win at home (4W of 6, 0.67 conceded).",
+  "news": "Fixture block confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 at 1.16 is below the floor. Over 2.5 at 1.54 (trend 0.7) is only a statistical lean with no mechanism behind it.",
+  "confidence": 0.15,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14745.html",
+   "https://www.podkarpacielive.pl/terminarze/iii-liga-gr-iv"
+  ]
+ },
+ {
+  "eid": "sr:match:72517416",
+  "fx": "Wieczysta II Krakow v MKS Czarni Polaniec",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga gr. IV round 18. Wieczysta II is a reserve side.",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side, so no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14745.html",
+   "https://www.podkarpacielive.pl/terminarze/iii-liga-gr-iv"
+  ]
+ },
+ {
+  "eid": "sr:match:72045836",
+  "fx": "FK Vardar Skopje v GFK Tikvesh 1930",
+  "sport": "football",
+  "absences": "none found",
+  "context": "1. MFL. Tikvesh are unbeaten in 10 (6W4D), score 3.0 a game and are unbeaten in 6 away games. Vardar won the H2H 1-1 away earlier this season (22 Aug); Sportradar's last H2H was 1-3. Vardar are only 2W of 4 at home.",
+  "news": "No November team news; earlier 1-1 between the sides on 22 Aug 2026 confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.26,
+    "p": 0.750222,
+    "why": "Tikvesh score 3.0 a game away (3.5 in away games) and Vardar score 1.7. Tikvesh have scored in 7 of their last 10. My p 0.78."
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 2.1,
+    "p": 0.397020404,
+    "why": "Declared value. Tikvesh unbeaten in 10, and the Vardar home price (1.55) ignores Vardar's 2W of 4 at home. My p 0.45 v house 0.40."
+   }
+  ],
+  "avoid": "Vardar 1X2 / DNB.",
+  "confidence": 0.2,
+  "sources": [
+   "https://macedonianfootball.com/1-mfl-2026-27-standings-fixtures/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Macedonian_First_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72517420",
+  "fx": "Sokol Kolbuszowa Dolna v JKS 1909 Jaroslaw",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga gr. IV round 18. JKS Jaroslaw are in poor form: 1W in 10 and 0W4L1D away. Sokol are 2W2D1L at home.",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.44,
+    "p": 0.6302384466,
+    "why": "JKS have no away win in 5 and 1W in 10. Sokol lose rarely at home (1L in 5). Trend 0.75; my p 0.67."
+   }
+  ],
+  "avoid": "JKS DNB.",
+  "confidence": 0.2,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14745.html",
+   "https://www.podkarpacielive.pl/terminarze/iii-liga-gr-iv"
+  ]
+ },
+ {
+  "eid": "sr:match:67015476",
+  "fx": "Tromsoe IL v Viking FK",
+  "sport": "football",
+  "absences": "Troms\u00f8: Troy Nyhammer injured in the October meeting (status unknown). No Viking absences found.",
+  "context": "Eliteserien run-in: Viking top on 62 pts (GD +42), level with Bod\u00f8/Glimt (+40), so the title race forces a must-win. Troms\u00f8 are 6th (40 pts) with little to play for. The season ends 6 Dec. Viking won the last meeting 3-1 (25 Oct). Troms\u00f8's games average 3.2 goals (43-40).",
+  "news": "Viking are level on points with Bod\u00f8 at the top, Troms\u00f8 are mid-table, and there's no team news for Saturday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.49,
+    "p": 0.652422,
+    "why": "Viking score 2.65 a game (69 in 26) and Troms\u00f8 concede 1.5. Troms\u00f8's games average 3.2 goals. Norway's Overs are under-rated (UBIAS). My p 0.68."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.39,
+    "p": 0.697599,
+    "why": "Viking need the win in a title race level with Bod\u00f8, and Troms\u00f8 are mid-table with nothing at stake. My p 0.72 v house 0.70."
+   }
+  ],
+  "avoid": "Viking 1X2 (away p 0.54, below 0.75). Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://eliteserientabell.com/tabell",
+   "https://en.wikipedia.org/wiki/2026_Eliteserien",
+   "https://www.fotmob.com/matches/viking-vs-tromso/2ewx35"
+  ]
+ },
+ {
+  "eid": "sr:match:74886164",
+  "fx": "Ikorodu City v Kano Pillars FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NPFL MD14, Onikan (Mobolaji Johnson Arena), 16:00 WAT. Kano Pillars are 2nd (22 pts) and lost only once, but have NO away win this season (0W4D1L away, 0.4 goals scored a game). Ikorodu are 9th and unbeaten at home (2W2D). The last H2H was Ikorodu 3-0 (Apr 2026).",
+  "news": "Soccernet/Complete Sports: Pillars still chasing a first away win; predicted 1-1. No named absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.779691,
+    "why": "Pillars have no away win in the season (0W in 5 away, 0.4 goals a game) and NPFL home edge applies. A draw refunds. My p 0.80 v house 0.78."
+   }
+  ],
+  "avoid": "Ikorodu 1X2 at 1.53 (draw-heavy Pillars, 6 draws in 10). Under 3.5 at p 0.75 is below the gate.",
+  "confidence": 0.3,
+  "sources": [
+   "https://soccernet.ng/2026/11/ikorodu-city-vs-kano-pillars-preview-team-news-h2h.html",
+   "https://www.nigfooty.com/2026/11/npfl-matchday-14-fixtures-and-updated.html",
+   "https://dailysports.net/news/euromatch-npfl-202627-full-matchday-14-fixtures-kick-off-times-dates-and-stadiums/"
+  ]
+ },
+ {
+  "eid": "sr:match:74886176",
+  "fx": "Ranchers Bees v Plateau United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NPFL MD14.",
+  "news": "Date/venue conflict: NPFL, Soccernet and NigFooty list Fri 20 Nov 18:00 at Bako Kontagora (Minna); Plateau United's site lists Sun 22 Nov 16:00 at Kaduna Township; the board says Sat 21 15:00 UTC.",
+  "veto": true,
+  "veto_reason": "Three different dates (Fri 20 / Sat 21 / Sun 22) and two venues across the sources.",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://plateauunitedfc.com/",
+   "https://soccernet.ng/2026/11/npfl-matchday-14-rangers-kano-pillars-ikorodu-fixtures.html",
+   "https://npfl.com.ng/fixtures-results/",
+   "https://escore.com/en/en/game/ranchers-bees-kaduna-plateau-united/639039"
+  ]
+ },
+ {
+  "eid": "sr:match:72346422",
+  "fx": "Carrick Rangers v Coleraine FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NIFL Premiership, 3pm. Coleraine (7W in 10, 4W of 5 away) come off a 0-3 loss at Linfield. Carrick are mid-table, 3W4D3L.",
+  "news": "Fixture confirmed for Sat 3pm; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.8155881597,
+    "why": "Coleraine score 2.0 a game and their away games average 4.2 goals. Carrick concede 2.0. Trend 0.85; my p 0.83."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.28,
+    "p": 0.742991,
+    "why": "Coleraine's away record is 4W of 5. A bounce-back after the Linfield defeat is expected, and a draw refunds. My p 0.75 v house 0.74."
+   }
+  ],
+  "avoid": "Coleraine 1X2 (p 0.58, below 0.75).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-ireland-premiership/fixtures-results",
+   "https://www.nifootballleague.com/premiership/2026-2027/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72346426",
+  "fx": "Dungannon Swifts v Crusaders FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NIFL Premiership, Stangmore Park, 3pm. Crusaders are in bad form (2W in 10, 1W in 6 away, 2.4 conceded a game). Dungannon are 2W3D5L.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.46,
+    "p": 0.655537,
+    "why": "Crusaders concede 2.4 a game (5-0, 5-2, 4-1 defeats in their last 6) and Dungannon concede 2.0. My p 0.67."
+   }
+  ],
+  "avoid": "Dungannon 1X2/DNB: Dungannon's own form is weak (2W in 10) despite p 0.66, so this fails as a mechanism.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-ireland-premiership/fixtures-results",
+   "https://www.nifootballleague.com/premiership/2026-2027/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72346430",
+  "fx": "Linfield FC v Limavady United FC",
+  "sport": "football",
+  "absences": "Linfield: defender Darragh Leahy out long-term (stretchered off v Limavady earlier).",
+  "context": "NIFL Premiership, Windsor Park, 3pm. Linfield top and unbeaten at home (3W1D, 0.25 conceded a game) after beating Coleraine 3-0. Limavady (promoted) concede 1.9 a game. Healy warned Limavady 'could spring one'.",
+  "news": "Newsletter: Healy said Leahy will miss 'longer than hoped'; he was preparing for 'a big game' against Limavady after the Coleraine win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.36,
+    "p": 0.707313,
+    "why": "Linfield 2.0 goals a game against a promoted side conceding 1.9. Limavady's away games average 3.5 goals. My p 0.70."
+   }
+  ],
+  "avoid": "Linfield 1X2 at 1.12 is too short.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-ireland-premiership/fixtures-results",
+   "https://www.nifootballleague.com/premiership/2026-2027/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72346432",
+  "fx": "Portadown FC v Bangor FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NIFL Premiership, Shamrock Park, 3pm. Both struggle to score (Portadown 0.8 a game, Bangor 1.1).",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 at p 0.73 is below the gate. Result sides are a coin flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-ireland-premiership/fixtures-results",
+   "https://www.nifootballleague.com/premiership/2026-2027/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72347016",
+  "fx": "Ards FC v Newington FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NIFL Championship. Ards beat Moyola 1-0 last round; Newington drew 1-1 with Warrenpoint.",
+  "news": "Previous-round results only (NIFL site).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism found.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nifootballleague.com/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:72347018",
+  "fx": "Armagh City FC v Rathfriland Rangers",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NIFL Championship. Armagh are in terrible form (1W in 10, 0W of 5 at home, 3.0 conceded at home) and lost 0-5 at Institute last round. Rathfriland are 7W in 10, 3W of 3 away.",
+  "news": "The NIFL site confirms Institute 5-0 Armagh on 13 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.33,
+    "p": 0.6908844985,
+    "why": "Armagh have no home win in 5, concede 3.0 a game at home and were just beaten 0-5. Rathfriland have 7W in 10. Trend 0.85; my p 0.74."
+   }
+  ],
+  "avoid": "Rathfriland 1X2 (away p 0.44).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nifootballleague.com/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:72347022",
+  "fx": "Glenavon FC v Newry City AFC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NIFL Championship. Glenavon are dominant (9W1D0L, 3.3 goals scored and 0.5 conceded a game) and won 6-1 at Loughgall last round. Newry are 1W of 5 away.",
+  "news": "The NIFL site confirms Loughgall 1-6 Glenavon on 13 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.38,
+    "p": 0.680818,
+    "why": "Glenavon have won 9 of 10 including 4/4 at home, and Newry are weak away (1W in 5). My p 0.73 v house 0.68."
+   }
+  ],
+  "avoid": "Under 3.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nifootballleague.com/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:72347024",
+  "fx": "Harland And Wolff Welders v Annagh United FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NIFL Championship. Annagh United are in form (6W3D1L, 2.6 goals scored a game, unbeaten away at 3W2D). H&W Welders are 2W in 10.",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.43,
+    "p": 0.6366919817,
+    "why": "Annagh are unbeaten in 5 away and 9 of 10 overall. Welders have lost 7 of 10. Trend 0.85; my p 0.69."
+   }
+  ],
+  "avoid": "Annagh 1X2 (away p 0.39).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nifootballleague.com/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:72347026",
+  "fx": "Moyola Park FC v Queens University",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NIFL Championship. Moyola lost 0-1 at Ards and are 0W in 4 at home. Queens University are inconsistent (3W in 10, but 3W of 5 away).",
+  "news": "Previous-round result only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 at 1.16 is below the floor. The X2 lean at 1.36 has no mechanism beyond Moyola's poor home form.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nifootballleague.com/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:72347030",
+  "fx": "Warrenpoint Town FC v Institute FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NIFL Championship. Institute won 5-0 v Armagh. Warrenpoint drew 1-1 at Newington; their home games average 4.3 goals.",
+  "news": "The NIFL site confirms Institute 5-0 Armagh City and Newington 1-1 Warrenpoint.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.805654,
+    "why": "Warrenpoint's home games average 4.3 goals and Institute score 2.2 a game. Trend 0.9; my p 0.83."
+   }
+  ],
+  "avoid": "Result sides.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nifootballleague.com/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:72517406",
+  "fx": "Wislanie Skawina v Moravia Morawica",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III liga gr. IV round 18, 16:00 UTC (the search snippet showed 17:00 local kick-offs in this block, which is consistent). Moravia Morawica are 1W in 10. One search did not find Moravia in the group table snippet, so the data is thin.",
+  "news": "No team news. Moravia's group membership wasn't confirmed in the snippet; it's probably a snippet gap.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.793398,
+    "why": "Moravia have 1W in 10, and Wislanie score 2.2 a game at home. A draw refunds. My p 0.80 v house 0.79."
+   }
+  ],
+  "avoid": "Wislanie 1X2 at 1.49.",
+  "confidence": 0.2,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14745.html",
+   "https://www.podkarpacielive.pl/terminarze/iii-liga-gr-iv"
+  ]
+ },
+ {
+  "eid": "sr:match:74886182",
+  "fx": "Sporting Lagos FC v Kwara United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NPFL MD14, Mobolaji Johnson Arena, 19:00 WAT. Kwara United are toothless away (0W1D4L, 0.2 goals scored a game away).",
+  "news": "Daily Sports lists 7pm at Onikan, matching the board's 18:00 UTC. Single source; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.612175,
+    "why": "Kwara have scored once in 5 away games and lost 4 of them, and NPFL home advantage applies. My p 0.65 v house 0.61."
+   }
+  ],
+  "avoid": "Under 3.5 at p 0.795 is below the gate. DNB at 1.17 is below the floor.",
+  "confidence": 0.25,
+  "sources": [
+   "https://soccernet.ng/2026/11/ikorodu-city-vs-kano-pillars-preview-team-news-h2h.html",
+   "https://www.nigfooty.com/2026/11/npfl-matchday-14-fixtures-and-updated.html",
+   "https://dailysports.net/news/euromatch-npfl-202627-full-matchday-14-fixtures-kick-off-times-dates-and-stadiums/"
+  ]
+ },
+ {
+  "eid": "sr:match:72346428",
+  "fx": "Larne FC v Ballymena United",
+  "sport": "football",
+  "absences": "none confirmed",
+  "context": "NIFL Premiership, Inver Park, 18:00 (NIFL TV).",
+  "news": "Date conflict: NIFL listings show Sat 21 Nov 6pm, but Ballymena's club news page says the Larne fixture was rearranged to Tue 1 Dec (postponed over European commitments). That page may be stale.",
+  "veto": true,
+  "veto_reason": "Date conflict (21 Nov v 1 Dec rearrangement) between sources.",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-ireland-premiership/fixtures-results",
+   "https://www.nifootballleague.com/premiership/2026-2027/fixtures/",
+   "https://ballymenanews.co.uk/"
+  ]
+ },
+ {
+  "eid": "sr:match:76414552",
+  "fx": "Alianza Lima v FC Cajamarca",
+  "sport": "football",
+  "absences": "Alianza: Renzo Garc\u00e9s, Jairo V\u00e9lez, Marco Huam\u00e1n, Nicol\u00e1s D\u00edaz (tear). Cajamarca: Valentino Sandoval, Sebastien Pineau, Patrick Alegr\u00eda, Paulo Goyoneche (inj), Carlos G\u00f3mez (inj).",
+  "context": "Liga 1 Clausura final round (F17) at Matute. Cajamarca are effectively relegated: they need a 7-goal win to survive.",
+  "news": "RPP: 15:30 Peru (=20:30 UTC, matches the board); Libero: 12:30. Both sides missing 4-5 players.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (15:30 v 12:30 local). The board time matches RPP, but the rule is binding.",
+  "picks": [],
+  "avoid": "Everything (veto). Without the veto the lean would be Alianza home team Over 1.5 at 1.24, since Cajamarca are demotivated and missing 5.",
+  "confidence": 0.15,
+  "sources": [
+   "https://rpp.pe/futbol/descentralizado/alianza-lima-vs-fc-cajamarca-en-vivo-l1max-que-canal-transmite-fecha-17-torneo-clausura-2026-via-rpp-partidos-de-hoy-noticia-1718795",
+   "https://libero.pe/futbol-peruano/alianza-lima/2026/11/17/alianza-lima-sus-3-fuerte-bajas-enfrentar-cd-moquegua-torneo-clausura-2026-524518",
+   "https://libero.pe/futbol-peruano/liga-1/2026/11/20/fc-cajamarca-recibe-dura-noticia-poco-de-jugar-alianza-lima-en-matute-torneo-clausura-2026-1179660"
+  ]
+ },
+ {
+  "eid": "sr:match:74931196",
+  "fx": "Eastern Suburbs Auckland AFC v Waterside Karori",
+  "sport": "football",
+  "absences": "n/a",
+  "context": "NZ Women's National League. Eastern Suburbs are dominant (9W in 10, 3.6 goals scored and 0.3 conceded a game).",
+  "news": "Date checks only; no conflicts found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks under the house rules (Over 3.5 at 1.46 is the only data lean).",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_New_Zealand_National_League",
+   "https://www.aucklandcityfc.com/city-set-for-national-league-title-defence/"
+  ]
+ },
+ {
+  "eid": "sr:match:76880308",
+  "fx": "Unan Managua v Indigenas de Matagalpa FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Apertura 2026. Matagalpa sacked Roberto Chanampe in Oct (Javier Londo\u00f1o in) and are 1W in 10 (0.5 goals scored a game, 0W away). UNAN were an early-season surprise (14 pts by round 7).",
+  "news": "Coach change at Matagalpa found; no round news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.31,
+    "p": 0.7138344462,
+    "why": "Matagalpa have 1W in 10, score 0.5 a game and have no away win under the new coach. Trend 0.7; my p 0.74."
+   }
+  ],
+  "avoid": "UNAN 1X2 at 2.05.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liga_Primera",
+   "https://www.laprensani.com/2026/09/01/deportes/3776293-tabla-posiciones-liga-primera-2026"
+  ]
+ }
+]

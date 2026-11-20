@@ -1,0 +1,563 @@
+[
+ {
+  "eid": "sr:match:75448394",
+  "fx": "Chippa United FC v Richards Bay FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "PSL reserve (Diski Challenge). Chippa 1-2-7 L10, conceding 3.9/g; Richards Bay 6-0-4.",
+  "news": "Fixture confirmed 21 Nov by Betexplorer and PSL page (UJ AW Muller Stadium); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (reserve rule); Richards Bay away p 0.61 < 0.75.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/south-africa/diski-challenge/",
+   "https://www.psl.co.za/tournament/dstv-diski-challenge",
+   "https://oddspedia.com/football/south-africa/reserve-league"
+  ]
+ },
+ {
+  "eid": "sr:match:75448396",
+  "fx": "Mamelodi Sundowns v Golden Arrows",
+  "sport": "football",
+  "absences": "none found",
+  "context": "PSL reserve. Sundowns 7-1-2, Arrows 6-1-3 (scoring 2.6/g). Not a clear mismatch.",
+  "news": "Betexplorer lists 09:00, PSL page Seshego Stadium; board 08:00 UTC (=10:00 SAST). Minor time ambiguity, no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sundowns 1X2/DNB (reserve rule); Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/south-africa/diski-challenge/",
+   "https://www.psl.co.za/tournament/dstv-diski-challenge",
+   "https://oddspedia.com/football/south-africa/reserve-league"
+  ]
+ },
+ {
+  "eid": "sr:match:75448402",
+  "fx": "TS Galaxy FC v Siwelele FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "PSL reserve. Both low-scoring (0.9 and 1.1 GF/g); no mismatch.",
+  "news": "Betexplorer/Oddspedia list 21 Nov; PSL page gives Solomon Mahlangu Stadium. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 (trend 0.50 v p 0.74); Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/south-africa/diski-challenge/",
+   "https://www.psl.co.za/tournament/dstv-diski-challenge",
+   "https://oddspedia.com/football/south-africa/reserve-league"
+  ]
+ },
+ {
+  "eid": "sr:match:72579148",
+  "fx": "MFK Dukla Banska Bystrica v ZP Sport Podbrezova",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Slovak U19 league (youth): per rules goals markets only in clear mismatches. No mismatch strong enough.",
+  "news": "no news found (no fixture listing returned by search; no conflict detected).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (youth); Unders below 0.82.",
+  "confidence": 0.1,
+  "sources": [
+   "no fixture source found for Slovak U19 round"
+  ]
+ },
+ {
+  "eid": "sr:match:72579154",
+  "fx": "Slovan Bratislava v Zemplin Michalovce",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Slovak U19 league (youth): per rules goals markets only in clear mismatches. No mismatch strong enough.",
+  "news": "no news found (no fixture listing returned by search; no conflict detected).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (youth); Unders below 0.82.",
+  "confidence": 0.1,
+  "sources": [
+   "no fixture source found for Slovak U19 round"
+  ]
+ },
+ {
+  "eid": "sr:match:72579146",
+  "fx": "Spartak Trnava v MFK Ruzomberok",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Slovak U19 league (youth): per rules goals markets only in clear mismatches. No mismatch strong enough.",
+  "news": "no news found (no fixture listing returned by search; no conflict detected).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (youth); Unders below 0.82.",
+  "confidence": 0.1,
+  "sources": [
+   "no fixture source found for Slovak U19 round"
+  ]
+ },
+ {
+  "eid": "sr:match:72579152",
+  "fx": "Tatran Presov v FC Petrzalka U19",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Slovak U19 league (youth): per rules goals markets only in clear mismatches. No mismatch strong enough.",
+  "news": "no news found (no fixture listing returned by search; no conflict detected).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (youth); Unders below 0.82.",
+  "confidence": 0.1,
+  "sources": [
+   "no fixture source found for Slovak U19 round"
+  ]
+ },
+ {
+  "eid": "sr:match:72579150",
+  "fx": "Trencin v FC DAC 1904 Dunajska Streda",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Slovak U19 league (youth): per rules goals markets only in clear mismatches. Trencin U19 9-1-0 (5-0-0 home, 3.4 GF/g at home); DAC U19 concede 2.0/g, 2.2 away. Trencin matches avg 4.5 goals at home.",
+  "news": "no news found (no fixture listing returned; no conflict detected).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.3,
+    "p": 0.7282,
+    "why": "Goals mismatch: Trencin U19 scoring 3.4/g at home, DAC conceding 2.2 away; 8 of 10 trend; own p ~0.75. Youth: goals only."
+   }
+  ],
+  "avoid": "Trencin 1X2 (youth result-side).",
+  "confidence": 0.2,
+  "sources": [
+   "no fixture source found for Slovak U19 round"
+  ]
+ },
+ {
+  "eid": "sr:match:75448398",
+  "fx": "Orlando Pirates v Durban City",
+  "sport": "football",
+  "absences": "none found",
+  "context": "PSL reserve. Pirates senior side plays the Carling Knockout semi-final the same day, so reserve squad may be raided or boosted.",
+  "news": "Fixture conflict: Betexplorer 11:00, PSL page 12:00 at Seshego; Oddspedia lists Pirates v Maritzburg and Livesport lists Durban City v Golden Arrows on 21 Nov.",
+  "veto": true,
+  "veto_reason": "Opponent/kick-off conflict between sources (Oddspedia/Livesport show different pairings).",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/south-africa/diski-challenge/",
+   "https://www.psl.co.za/tournament/dstv-diski-challenge",
+   "https://oddspedia.com/football/south-africa/reserve-league"
+  ]
+ },
+ {
+  "eid": "sr:match:72508604",
+  "fx": "CD Tenerife B v UD Tamaraceite",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion R12. Tenerife B is a reserve side; Tamaraceite 0-0-5 away (0.4 GF, 2.8 GA).",
+  "news": "RFEF: round 12 played 21-22 Nov; no team news for this tie.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tenerife B DNB/1X2 (reserve-side rule).",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/es/noticias/establecidos-los-horarios-de-la-12a-jornada-de-segunda-federacion",
+   "https://www.osasuna.es/este-miercoles-se-habilita-la-reserva-de-localidades-para-el-encuentro-entre-osasuna-promesas-y-barbastro"
+  ]
+ },
+ {
+  "eid": "sr:match:73550146",
+  "fx": "Young Lions FC v Tanjong Pagar United FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "SPL Round 7. Young Lions (U23 national development side) 7th on 3 pts, conceding 3.5/g; Tanjong Pagar 6th on 7.",
+  "news": "Date and time agree (21 Nov 19:30 SGT). Venue conflict: club/Sofascore say Jalan Besar, 365Scores lists Yishun Stadium.",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Jalan Besar v Yishun); Young Lions is an U23 side.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://young-lions.com/",
+   "https://www.sofascore.com/football/match/young-lions-tanjong-pagar-united/NkbsHGn",
+   "https://www.365scores.com/football/match/premier-league-173/tanjong-pagar-young-lions-2358-8780-173",
+   "https://spl.sg/"
+  ]
+ },
+ {
+  "eid": "sr:match:72579144",
+  "fx": "MSK Zilina v FC Kosice",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Slovak U19 league (youth): per rules goals markets only in clear mismatches. No mismatch strong enough.",
+  "news": "no news found (no fixture listing returned by search; no conflict detected).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (youth); Unders below 0.82.",
+  "confidence": 0.1,
+  "sources": [
+   "no fixture source found for Slovak U19 round"
+  ]
+ },
+ {
+  "eid": "sr:match:76167710",
+  "fx": "FK Slovan Duslo Sala v Spartak Myjava",
+  "sport": "football",
+  "absences": "none found",
+  "context": "III. liga Zapad. Sala 16th (1W 10L in 14), scored 2 in last 10; Myjava 6th.",
+  "news": "Sofascore shows this fixture dated 31 Oct 2026 12:00 UTC (probably rescheduled); board says 21 Nov. No confirmation of new date.",
+  "veto": true,
+  "veto_reason": "Date conflict (Sofascore 31 Oct v board 21 Nov).",
+  "picks": [],
+  "avoid": "Myjava 1X2 p 0.71 would otherwise be the mismatch leg, but away 1X2 needs p 0.75 anyway.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/team/fk-slovan-duslo-saa/6666",
+   "https://futbalsfz.sk/3.liga"
+  ]
+ },
+ {
+  "eid": "sr:match:76072294",
+  "fx": "NK Svoboda Ljubljana v NK Sencur",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Pokal Pivovarna Union round of 16, single leg (extra time/pens possible); both third-tier clubs. Sencur knocked out 2. SNL Krsko 3-2 aet in the previous round.",
+  "news": "Cup fixture list confirms Svoboda Ljubljana v Sencur, Sat 21 Nov 13:30 CET (= board 12:30 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (knockout, settles on 90 min); Sencur away p 0.59.",
+  "confidence": 0.1,
+  "sources": [
+   "https://planetnogomet.si/novice/pokal-napoved-1-8-finala"
+  ]
+ },
+ {
+  "eid": "sr:match:72468734",
+  "fx": "FC Spartak Trnava v AS Trencin",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Slovak women's league: no picks per rules.",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (women).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72281478",
+  "fx": "Nd Slovan v NK Dekani",
+  "sport": "football",
+  "absences": "none found",
+  "context": "2. SNL R16. Slovan 10th (18 pts), Dekani 8th (20). Dekani 0.5 GF/0.5 GA L10: very low-scoring; 8 of last 10 combined games under 2.5.",
+  "news": "NZS: 21 Nov 14:00 CET at Kodeljevo (= board 13:00 UTC); Betexplorer agrees. Dekani beat Bistrica 1-0 on 6 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 (trend 0.40 v p 0.74: thin low-scoring league); Unders below 0.82 (Under 3.5 p 0.73).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nzs.si/klubi/moski/2-slovenska-nogometna-liga/tekme",
+   "https://www.betexplorer.com/football/slovenia/2-snl/",
+   "https://www.flashscore.si/nogomet/slovenija/2-snl/",
+   "https://top-nogomet.si/lestvice/2-snl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72468738",
+  "fx": "MFK Dukla Banska Bystrica v FC Tatran Presov",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Slovak women's league: no picks per rules.",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (women).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74058152",
+  "fx": "Hope FC v Casric Stars FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Motsepe Championship. Casric Stars renamed Real Native FC (4th); Hope FC 5th, a point behind leaders Cape Town City. Both tight (Hope 0.5 GA/g).",
+  "news": "Sofascore/footballpitch: 21 Nov 15:30 SAST, Athlone Stadium; Livesport lists 27 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict (Livesport 27 Nov v others 21 Nov).",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://farpost.co.za/2026/11/09/hope-fc-chase-cape-town-city-as-clayton-daniels-cools-title-talk/",
+   "https://www.betexplorer.com/football/south-africa/motsepe-foundation-championship/",
+   "https://www.livesport.com/en/soccer/south-africa/motsepe-foundation-championship/",
+   "https://www.sofascore.com/football/match/hope-fc-casric-stars-fc/VODdsZKgk",
+   "https://footballpitch.co.za/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:74058144",
+  "fx": "Lerumo Lions FC v Cape Town City FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Motsepe Championship top-of-table: Cape Town City lead; Lerumo Lions 6-2-2 L10. Low-scoring league.",
+  "news": "Betexplorer: 21 Nov 14:30 CET (= board 13:30 UTC). No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 @1.18 p 0.81 (just below 0.82); Over 1.5 in a thin SA league; result-sides near coin-flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://farpost.co.za/2026/11/09/hope-fc-chase-cape-town-city-as-clayton-daniels-cools-title-talk/",
+   "https://www.betexplorer.com/football/south-africa/motsepe-foundation-championship/",
+   "https://www.livesport.com/en/soccer/south-africa/motsepe-foundation-championship/",
+   "https://www.sofascore.com/football/match/hope-fc-casric-stars-fc/VODdsZKgk"
+  ]
+ },
+ {
+  "eid": "sr:match:74058150",
+  "fx": "Orbit College FC v Gomora United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Motsepe Championship. Orbit College 0-5-5 L10 (0.5 GF/g); Gomora 3-3-4.",
+  "news": "Livesport lists the fixture near 21 Nov, ambiguous; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Orbit 1X2/DNB (winless); Over 1.5 in a thin league; Under below 0.82.",
+  "confidence": 0.1,
+  "sources": [
+   "https://farpost.co.za/2026/11/09/hope-fc-chase-cape-town-city-as-clayton-daniels-cools-title-talk/",
+   "https://www.betexplorer.com/football/south-africa/motsepe-foundation-championship/",
+   "https://www.livesport.com/en/soccer/south-africa/motsepe-foundation-championship/",
+   "https://www.sofascore.com/football/match/hope-fc-casric-stars-fc/VODdsZKgk"
+  ]
+ },
+ {
+  "eid": "sr:match:74058148",
+  "fx": "Venda Football Academy v Leicesterford City",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Motsepe Championship. Venda 0-3-7 L10 (0.4 GF/g), yet priced as home favourite; Leicesterford 3-1-6.",
+  "news": "Listed by Livesport, no date confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Venda result-side (winless, scoring 0.4/g, house fav at p 0.44); Over 1.5.",
+  "confidence": 0.1,
+  "sources": [
+   "https://farpost.co.za/2026/11/09/hope-fc-chase-cape-town-city-as-clayton-daniels-cools-title-talk/",
+   "https://www.betexplorer.com/football/south-africa/motsepe-foundation-championship/",
+   "https://www.livesport.com/en/soccer/south-africa/motsepe-foundation-championship/",
+   "https://www.sofascore.com/football/match/hope-fc-casric-stars-fc/VODdsZKgk"
+  ]
+ },
+ {
+  "eid": "sr:match:76662482",
+  "fx": "Stellenbosch FC v Orlando Pirates FC",
+  "sport": "football",
+  "absences": "No confirmed injuries; Pirates U23 call-ups Cemrin Dansin and Simphiwe Selepe were with the U23s over the break (did not play). Ouaddou cites disrupted preparation.",
+  "context": "Carling Knockout SEMI-FINAL, single leg (90-min settlement for every market but To Qualify). Moved from Stellenbosch to Moses Mabhida, Durban (neutral; big Pirates crowd expected). Stellenbosch squad overhauled under Gavin Hunt. Pirates 9-0-1 L10, conceding 0.4/g.",
+  "news": "Club and EWN confirm Sat 21 Nov 15:30 SAST at Moses Mabhida Stadium (venue change agreed, not a conflict); Hunt \"anything can happen\", Ouaddou says Pirates are not favourites.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.28,
+    "p": 0.7317,
+    "why": "Knockout so DNB only. Neutral Durban venue with a Pirates crowd removes Stellenbosch home edge; Pirates 9-0-1 conceding 0.4/g. Own p ~0.75. Caveat: nominally an SA away side (L38/L63), so treat as singles-sheet only."
+   }
+  ],
+  "avoid": "Pirates 1X2 (knockout result-side); Under 2.5 p 0.64 < 0.82; Over 1.5 (cup semi, low-scoring PSL).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.stellenboschfc.com/media/view/2026/11/16/moses-mabhida-stadium-to-host-cko-semi-final-between-stellenbosch-fc-orlando-pirates/",
+   "https://www.ewn.co.za/ouaddou-wary-of-stellenbosch-threat-as-pirates-bid-for-carling-knockout-final",
+   "https://www.ewn.co.za/hunt-stellenbosch-ready-for-pirates-challenge-in-carling-knockout-semi-final",
+   "https://africasoccer.com/hunt-prepares-stellenbosch-for-unfamiliar-setting-against-orlando-pirates"
+  ]
+ },
+ {
+  "eid": "sr:match:72042344",
+  "fx": "AS Trencin v FK Zeleziarne Podbrezova",
+  "sport": "football",
+  "absences": "Trencin GK Andrija Katic injured earlier this season (Slavicek deputised); current status not confirmed.",
+  "context": "Nike liga R15/16. Trencin bottom (10 pts, \"posledny Trencin\"), 0-0-3 at home in sample with 0 goals scored; Podbrezova 5th (20 pts), 4-0-1 away. Trencin did draw 2-2 at Slovan on 7 Nov.",
+  "news": "Fixture confirmed Sat 21 Nov 15:30 CET (= board 14:30 UTC). Trencin drew 2-2 at Slovan before the break.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.36,
+    "p": 0.6864,
+    "why": "Bottom side Trencin scoreless in sampled home games; Podbrezova 4-0-1 away. DC removes the away-1X2 p<0.75 problem. Own p ~0.72."
+   }
+  ],
+  "avoid": "Podbrezova 1X2 (away p 0.44); Over 1.5 @1.16 below 1.18.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nikeliga.sk/tabulka",
+   "https://sportnet.sme.sk/spravy/futbal-slovan-bratislava-trencin-vysledok-dnes-14-kolo-nike-liga-2026-2027/",
+   "https://www.livesoccertv.com/competitions/slovakia/super-liga/",
+   "https://tnlive.sk/sport/clanok/1059909-slovan-ziskal-v-trencine-dolezite-tri-body-potrebne-vitazstvo-odstartoval-pokorny"
+  ]
+ },
+ {
+  "eid": "sr:match:72042336",
+  "fx": "MFK Ruzomberok v Slovan Bratislava",
+  "sport": "football",
+  "absences": "Slovan: Bajric came off injured v Trencin on 7 Nov (coach hoped not serious), status unknown.",
+  "context": "Nike liga. Slovan 2nd (28 pts) but \"utrapeny\" (struggling): 2-2 at home to bottom Trencin. Ruzomberok 10th, unbeaten at home in sample (2-3-0, 0.8 GA). Big club away.",
+  "news": "Fixture confirmed Sat 21 Nov 15:30 CET (= board 14:30 UTC). Slovan in poor form; Bajric knock.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Slovan DNB/1X2 (big club away, poor form, Ruzomberok solid at home); Over 1.5 @1.17 below 1.18; Unders below 0.82.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.nikeliga.sk/tabulka",
+   "https://sportnet.sme.sk/spravy/futbal-slovan-bratislava-trencin-vysledok-dnes-14-kolo-nike-liga-2026-2027/",
+   "https://www.livesoccertv.com/competitions/slovakia/super-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72507588",
+  "fx": "Elche Ilicitano CF v Club Deportiva Minera",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion R12. Deportiva Minera among group leaders (RFEF mid-Nov); Elche Ilicitano is a reserve side conceding 2.6/g at home.",
+  "news": "RFEF lists Minera among leaders; no dedicated preview; 365scores shows a 15:00 listing without a date.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Minera DNB @1.30 is the natural leg, but the fixture involves a reserve side (rule) and Minera away form only 2-0-2.",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/es/noticias/establecidos-los-horarios-de-la-12a-jornada-de-segunda-federacion",
+   "https://www.osasuna.es/este-miercoles-se-habilita-la-reserva-de-localidades-para-el-encuentro-entre-osasuna-promesas-y-barbastro"
+  ]
+ },
+ {
+  "eid": "sr:match:72281476",
+  "fx": "Primorje Ajdovscina v NK Krsko Posavje",
+  "sport": "football",
+  "absences": "none found",
+  "context": "2. SNL R16. Primorje (relegated from PrvaLiga) 12th on 16; Krsko Posavje 15th on 9, 1-1-8, lost 1-3 at home to Rudar on 7 Nov.",
+  "news": "NZS and Betexplorer: 21 Nov 17:00 CET Ajdovscina; Flashscore lists 22 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict (Flashscore 22 Nov v NZS/Betexplorer 21 Nov). Official NZS likely right; re-check before use.",
+  "picks": [],
+  "avoid": "Primorje 1X2 @1.35 would be the leg if the date is confirmed.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nzs.si/klubi/moski/2-slovenska-nogometna-liga/tekme",
+   "https://www.betexplorer.com/football/slovenia/2-snl/",
+   "https://www.flashscore.si/nogomet/slovenija/2-snl/",
+   "https://top-nogomet.si/lestvice/2-snl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72506836",
+  "fx": "CA Osasuna B v UD Barbastro",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion R12. Osasuna Promesas (reserve) 5-1-0 at home, conceding 0.17; Barbastro 0-7-3, draw machine.",
+  "news": "Osasuna official: 21 Nov 17:00 CET at Tajonar (= board 16:00 UTC); Promesas beat SD Logrones 2-0 in their last home game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Osasuna B result-sides (reserve rule); Under 2.5 p 0.58 < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/es/noticias/establecidos-los-horarios-de-la-12a-jornada-de-segunda-federacion",
+   "https://www.osasuna.es/este-miercoles-se-habilita-la-reserva-de-localidades-para-el-encuentro-entre-osasuna-promesas-y-barbastro",
+   "https://www.osasuna.es/en/m1"
+  ]
+ },
+ {
+  "eid": "sr:match:72505310",
+  "fx": "Club Marino de Luanco v Coruxo FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion R12. Marino Luanco 0-1-4 at home scoring 0.2/g; Coruxo 2-2-6. Relegation-zone game.",
+  "news": "no news found beyond round dates (21-22 Nov).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 p 0.61 < 0.82; DNB either way near coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/noticias/establecidos-los-horarios-de-la-12a-jornada-de-segunda-federacion",
+   "https://www.osasuna.es/este-miercoles-se-habilita-la-reserva-de-localidades-para-el-encuentro-entre-osasuna-promesas-y-barbastro"
+  ]
+ },
+ {
+  "eid": "sr:match:72278546",
+  "fx": "Mura Murska Sobota v Bravo Ljubljana",
+  "sport": "football",
+  "absences": "Mura: forward Niko Kasalo (top scorer) out about 6 months with a knee injury (reported around Oct 2026).",
+  "context": "PrvaLiga. Mura 0-7-3 L10, 0.2 GF/g at home (three 0-0s); Bravo 4-4-2, 2.0 GF/g away. Last H2H Bravo won 2-0.",
+  "news": "Mura lost top scorer Kasalo long-term (knee); no confirmed lineup news for this game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.52,
+    "p": 0.6038,
+    "why": "Mura winless in 10 and without top scorer Kasalo, scoring 0.2/g at home; Bravo X2 trend 0.90; last H2H 0-2. Own p ~0.67."
+   }
+  ],
+  "avoid": "Mura 1X2/DNB; Mura team Under 1.5 (an Under with p 0.60 < 0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://snportal.si/slovenska-tekmovanja/prva-liga/mura-ostala-brez-svojega-najboljsega-strelca-zdaj-je-znano-koliko-casa-bo-odsoten-kasala-caka-dolga-pot/",
+   "https://ekipa.svet24.si/sport/nogomet/prva-liga/niko-kasalo-mura-dogovor-pogodba-poskodba-1940964"
+  ]
+ },
+ {
+  "eid": "sr:match:72042340",
+  "fx": "MFK Zemplin Michalovce v Spartak Trnava",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Nike liga. Trnava 4th (25 pts), 4-3-0 away; Michalovce 7th.",
+  "news": "prvaliga.sk lists Michalovce v Trnava as round 16 on 28 Nov 15:30; another listing shows 12:00 without a date; board says 21 Nov 17:00 UTC.",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict (prvaliga.sk 28 Nov 15:30 v board 21 Nov 17:00 UTC).",
+  "picks": [],
+  "avoid": "Everything until the date is confirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://prvaliga.sk/futbal/timy/fc-spartak-trnava/",
+   "https://www.365scores.com/en-us/football/match/nike-liga-145/spartak-trnava-zemplin-michalovce-2110-2138-145",
+   "https://www.nikeliga.sk/tabulka",
+   "https://sportnet.sme.sk/spravy/futbal-slovan-bratislava-trencin-vysledok-dnes-14-kolo-nike-liga-2026-2027/",
+   "https://www.livesoccertv.com/competitions/slovakia/super-liga/"
+  ]
+ }
+]

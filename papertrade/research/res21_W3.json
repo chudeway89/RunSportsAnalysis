@@ -1,0 +1,584 @@
+[
+ {
+  "eid": "sr:match:76913254",
+  "fx": "Colo Colo v Universidad Catolica",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga Femenina 2026 FINAL (single match) at Estadio Santa Laura, Fri 20 Nov 19:00 Chile (=22:00 UTC, matches board). Colo Colo going for 5th straight title; UC's first-ever final. Colo Colo beat UC 2-0 and 2-1 this season (per Emol). Women's knockout; kicks off before the Nigeria day window.",
+  "news": "Women's final confirmed Fri 20 Nov 19:00 at Santa Laura; Colo Colo seeking pentacampeonato, UC debut final.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's + knockout final: no picks by rule; settles on 90 min.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.emol.com/noticias/Deportes/2026/11/19/1217555/final-futbolfemenino-colocolouc.html",
+   "https://redgol.cl/femenino/colo-colo-femenino-vs-u-catolica-horario-y-donde-ver-en-vivo-la-final-de-la-liga-femenina"
+  ]
+ },
+ {
+  "eid": "sr:match:67682114",
+  "fx": "CD Palestino v Deportes Union La Calera",
+  "sport": "football",
+  "absences": "no news found (no injury reports located)",
+  "context": "Fecha 28 of 30. Fri 20 Nov 20:30 Chile at Municipal de La Cisterna (=23:30 UTC, matches). Palestino 7th on 38 pts chasing a Sudamericana place; La Calera described as 'the team most complicated with relegation' (prensafutbol) - must-win for the visitors.",
+  "news": "Date/venue confirmed by Cooperativa; La Calera in the relegation fight, Palestino in the Sudamericana race. No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.27,
+    "p": 0.7547,
+    "why": "La Calera fighting relegation (must-not-lose) and tight defensively (1.1 GA/10); Palestino scoring only 1.5/g, last 6 never won by 2+ (0-1,0-1,1-1,2-2,2-1,2-3); trend 0.90 v house 0.755. Fav p 0.47 so +1.5 allowed. Own p 0.80."
+   }
+  ],
+  "avoid": "La Calera result-sides (must-win but poor); Unders (p<0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-y-audax-realizan-abren-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
+   "https://www.alairelibre.cl/futbol/campeonato-nacional/fecha-28-liga-de-primera-chile-2-sudamericana-descenso/",
+   "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
+   "https://www.prensafutbol.cl/la-calera-equipo-complicado-con-el-descenso/"
+  ]
+ },
+ {
+  "eid": "sr:match:76838158",
+  "fx": "CA Bucaramanga v America de Cali",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga BetPlay II-2026 cuadrangulares Group B, matchday 1 (Bucaramanga, America, Millonarios, Deportivo Cali; group winner reaches the final). Fri 20 Nov 18:35 COT at Americo Montanini (=23:35 UTC, matches). America top seed of Group B; last meeting 1-1 at the same ground on 18 Oct. Away fans allowed.",
+  "news": "Kick-off/venue confirmed (El Pais, Pulzo); last meeting 1-1 here; no absence news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (tight cuadrangular opener, p~0.32-0.38); Under 3.5 p 0.79 <0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.elpais.com.co/deportes/dimayor-confirmo-las-fechas-1-y-2-de-los-cuadrangulares-de-la-liga-betplay-hora-y-dia-del-clasico-america-vs-deportivo-cali-1607.html",
+   "https://www.elpais.com.co/deportes/atletico-bucaramanga-vs-america-de-cali-hora-y-por-donde-ver-el-juego-de-la-fecha-1-de-los-cuadrangulares-de-la-liga-betplay-1928.html",
+   "https://www.clarosports.com/colombia/liga-bet-play/millonarios-cuadrangulares-liga-betplay/",
+   "https://colombia.com/futbol/liga-colombiana/bucaramanga-vs-america-hoy-635-p-m-y-con-hinchas-rojos-613449"
+  ]
+ },
+ {
+  "eid": "sr:match:76838160",
+  "fx": "Deportivo Cali v Millonarios FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Cuadrangulares Group B matchday 1, Sat 21 Nov 01:40 UTC (20:40 COT Fri) at Estadio Deportivo Cali, Palmaseca. Millonarios entered as 7th seed. Group of 4, 6 rounds; cl\u00e1sico America-Cali follows Tue 24 Nov.",
+  "news": "Fixture/time confirmed (El Pais, ClaroSports); no absence news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.37,
+    "p": 0.6789,
+    "why": "Deportivo Cali unbeaten in 10 (5W-5D, 0.4 GA), Millonarios 0 wins in last 5 away (2.4 GA away); group-stage cuadrangular (not knockout). Trend 0.85 v house 0.68. Own p 0.74."
+   }
+  ],
+  "avoid": "Millonarios side; Under 3.5 p 0.81 just below the 0.82 gate.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.elpais.com.co/deportes/dimayor-confirmo-las-fechas-1-y-2-de-los-cuadrangulares-de-la-liga-betplay-hora-y-dia-del-clasico-america-vs-deportivo-cali-1607.html",
+   "https://www.elpais.com.co/deportes/atletico-bucaramanga-vs-america-de-cali-hora-y-por-donde-ver-el-juego-de-la-fecha-1-de-los-cuadrangulares-de-la-liga-betplay-1928.html",
+   "https://www.clarosports.com/colombia/liga-bet-play/millonarios-cuadrangulares-liga-betplay/"
+  ]
+ },
+ {
+  "eid": "sr:match:73095526",
+  "fx": "CD Escorpiones Belen v AD San Carlos",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Costa Rica Apertura 2026 regular season (late rounds). Escorpiones Belen are a weak, leaky side: shipped 4 at Cartagines (4-2, 8 Nov per ESPN). San Carlos won 0-1 at Puntarenas and drew 1-1 at Herediano recently - solid away. Sources disagree on several November results (Nacion vs ESPN vs Wikipedia), so recent-form detail is low confidence.",
+  "news": "Scattered results only; Escorpiones conceding freely, San Carlos picking up away points. Kick-off not independently confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.33,
+    "p": 0.7141,
+    "why": "Escorpiones lost 5 of last 6 at home (0.83 GF / 2.33 GA at home), conceded 4 twice recently; San Carlos 6W-2D-2L last 10, won 0-1 at Puntarenas. DNB covers the draw. Own p 0.75."
+   }
+  ],
+  "avoid": "San Carlos 1X2 (away p 0.54 <0.75); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nacion.com/puro-deporte/tabla-de-posiciones-del-torneo-de-apertura-2026/6XBGTX6TLRDYNPPK3Z2U4HRPPQ/story/",
+   "https://es.wikipedia.org/wiki/Campeonato_de_Apertura_2026_(Costa_Rica)",
+   "https://www.espn.com/soccer/scoreboard/_/league/crc.1"
+  ]
+ },
+ {
+  "eid": "sr:match:76801772",
+  "fx": "AC Taipei Reserves v Ming Chuan University",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Taiwan Second Division 2026/27. Home side is a RESERVE team (AC Taipei Reserves); Ming Chuan University relegated from the Premier League after 2025-26. Club lists for the season in sources are incomplete.",
+  "news": "No match news; reserve side involved; league composition partly unconfirmed in sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve fixture: no picks by rule. Note: house makes Ming Chuan away favourite (p 0.51) despite 0W-1D-9L last 10 (3.0 GA) - treat as unreliable; O2.5 trend 0.90 but no clear mismatch to justify a goals pick.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taiwan_Second_Division_Football_League",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Taiwan_Football_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:75107616",
+  "fx": "Guangxi  Dening v Guangdong Meizhou Hakka FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Chinese Women's Super League 2026; Sofascore lists the season ending 22 Nov, so this is the final or penultimate round (possible dead rubbers). Women's football.",
+  "news": "No fixture-specific news found; season ends ~22 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks by rule.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/tournament/china/cfa-womens-super-league/10580"
+  ]
+ },
+ {
+  "eid": "sr:match:75107612",
+  "fx": "Shandong Sports Lottery v Shaanxi Chang An Athletic FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Chinese Women's Super League 2026; Sofascore lists the season ending 22 Nov, so this is the final or penultimate round (possible dead rubbers). Women's football.",
+  "news": "No fixture-specific news found; season ends ~22 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks by rule.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/tournament/china/cfa-womens-super-league/10580"
+  ]
+ },
+ {
+  "eid": "sr:match:75107608",
+  "fx": "Sichuan WFC v Changchun Dazhong Zhuoyue",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Chinese Women's Super League 2026; Sofascore lists the season ending 22 Nov, so this is the final or penultimate round (possible dead rubbers). Women's football.",
+  "news": "No fixture-specific news found; season ends ~22 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks by rule.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/tournament/china/cfa-womens-super-league/10580"
+  ]
+ },
+ {
+  "eid": "sr:match:76801776",
+  "fx": "Babuza FC v Mfa Taiwan",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Taiwan Second Division 2026/27. MFA Taipei are in their first-ever second-division season (debut 3 Oct 2026); Babuza (Changhua) established member. Thin/semi-pro league, high-scoring profile in house lines (O2.5 p 0.73).",
+  "news": "No match news; MFA new entrant to the league.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "MFA -1.5 (coin flip); Babuza anything.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taiwan_Second_Division_Football_League",
+   "https://www.threads.com/@mfataipei.official/post/DcpmqITmKm9/"
+  ]
+ },
+ {
+  "eid": "sr:match:73349712",
+  "fx": "Phnom Penh Crown FC v Kirivong Soksen Chey",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Cambodian Premier League 2026-27 (11 teams). Phnom Penh Crown (8x champions) also in AFC Champions League Two 2026-27 - possible rotation if an ACL2 game is close. Kirivong finished 8th/11 last season, lost 1-2 to MOI Kompong Dewa in their last game; Crown beat them 3-1 in Jan 2026.",
+  "news": "Crown heavy favourite; Kirivong weak; Crown has ACL Two commitments.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Crown ML at 1.12 below the 1.18 floor; O3.5/AH-2.5 coin flips.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Cambodian_Premier_League",
+   "https://www.sofascore.com/football/match/kirivong-soksen-chey-phnom-penh-crown/fmoswjLc"
+  ]
+ },
+ {
+  "eid": "sr:match:73070226",
+  "fx": "Orijent 1919 Rijeka v NK Sesvete",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Prva NL (Croatian 2nd tier) round on 21 Nov confirmed by Soccerway. No team news.",
+  "news": "Fixture listed on Soccerway for 21 Nov; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: tight board, no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/croatia/prva-nl/",
+   "https://hnk-segesta.hr/"
+  ]
+ },
+ {
+  "eid": "sr:match:73070228",
+  "fx": "HNK Vukovar 1991 v NK Kustosija Zagreb",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Prva NL. Soccerway lists Vukovar-Kustosija in the 21 Nov block (positioned near a 22.11 marker - inferred 21st). Not confirmed elsewhere.",
+  "news": "Listed on Soccerway, date inferred; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: coin-flip prices, date only weakly confirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/croatia/prva-nl/",
+   "https://hnk-segesta.hr/"
+  ]
+ },
+ {
+  "eid": "sr:match:73070224",
+  "fx": "NK BSK Bijelo Brdo v NK Dugopolje",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Prva NL, listed by Soccerway for 21 Nov. No team news.",
+  "news": "Fixture listed; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/croatia/prva-nl/",
+   "https://hnk-segesta.hr/"
+  ]
+ },
+ {
+  "eid": "sr:match:73070222",
+  "fx": "NK Dubrava Zagreb v NK Mladost Zdralovi",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Prva NL, listed by Soccerway for 21 Nov. Mladost Zdralovi away favourite (p 0.475). No team news.",
+  "news": "Fixture listed; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mladost away 1X2 (p<0.75).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/croatia/prva-nl/",
+   "https://hnk-segesta.hr/"
+  ]
+ },
+ {
+  "eid": "sr:match:73070220",
+  "fx": "NK Hrvace v NK Segesta",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Prva NL. Board has Hrvace at home 13:30 CET; Segesta's club site lists the match on 21 Nov at 14:00 and (per search summary) as a Segesta home game. Segesta won the Druga NL 2025-26 (promoted).",
+  "news": "Segesta club site: 21 Nov 14:00, venue reading conflicts with the board's home/away and kick-off.",
+  "veto": true,
+  "veto_reason": "Venue/kick-off conflict: Segesta site lists 14:00 and appears to list it as a Segesta home match; board has Hrvace home 13:30 CET.",
+  "picks": [],
+  "avoid": "Whole fixture (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/croatia/prva-nl/",
+   "https://hnk-segesta.hr/"
+  ]
+ },
+ {
+  "eid": "sr:match:72952514",
+  "fx": "NK Bjelovar v NK Uljanik",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Druga NL (3rd tier, semi-pro). After 11 rounds Bjelovar 4th (18 pts), Uljanik 5th (17) - close sides.",
+  "news": "Close mid-table sides; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin league, coin-flip prices.",
+  "confidence": 0.1,
+  "sources": [
+   "https://zgnogomet.com/natjecanje/supersport-druga-nl/",
+   "https://nogometne-vijesti.hr/druga-nl-derbi-u-dugom-selu-uskok-na-borovistu-bjelovar-trazi-odgovor-u-solinu/",
+   "https://sportnet.hr/vijesti/nogomet-supersport-druga-nl/supersport-druga-nl-dugo-selo-i-dalje-u-odlicnoj-formi-solin-uspjesan-u-krizevcima/632882/"
+  ]
+ },
+ {
+  "eid": "sr:match:72952506",
+  "fx": "NK Grobnican v NK Trnje",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Druga NL. Trnje 9th (15 pts), Grobnican 13th (12) after 11 rounds.",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://zgnogomet.com/natjecanje/supersport-druga-nl/",
+   "https://nogometne-vijesti.hr/druga-nl-derbi-u-dugom-selu-uskok-na-borovistu-bjelovar-trazi-odgovor-u-solinu/",
+   "https://sportnet.hr/vijesti/nogomet-supersport-druga-nl/supersport-druga-nl-dugo-selo-i-dalje-u-odlicnoj-formi-solin-uspjesan-u-krizevcima/632882/"
+  ]
+ },
+ {
+  "eid": "sr:match:72952512",
+  "fx": "NK Inker Zapresic v NK Lucko",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Druga NL. Inker 6th (16 pts) after 11 rounds. Note: one source's 2026/27 team list omits Inker (others include it) - minor data inconsistency, fixture itself appears on other listings.",
+  "news": "No team news; minor club-list inconsistency.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin league; Inker result-side.",
+  "confidence": 0.1,
+  "sources": [
+   "https://zgnogomet.com/natjecanje/supersport-druga-nl/",
+   "https://nogometne-vijesti.hr/druga-nl-derbi-u-dugom-selu-uskok-na-borovistu-bjelovar-trazi-odgovor-u-solinu/",
+   "https://sportnet.hr/vijesti/nogomet-supersport-druga-nl/supersport-druga-nl-dugo-selo-i-dalje-u-odlicnoj-formi-solin-uspjesan-u-krizevcima/632882/"
+  ]
+ },
+ {
+  "eid": "sr:match:72952518",
+  "fx": "NK Jarun Zagreb v NK Hrvatski Dragovoljac",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Druga NL. Jarun Zagreb home favourite (p 0.56) v Hrvatski Dragovoljac. Jarun played a derby at Dugo Selo in round 12.",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin league; no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://zgnogomet.com/natjecanje/supersport-druga-nl/",
+   "https://nogometne-vijesti.hr/druga-nl-derbi-u-dugom-selu-uskok-na-borovistu-bjelovar-trazi-odgovor-u-solinu/",
+   "https://sportnet.hr/vijesti/nogomet-supersport-druga-nl/supersport-druga-nl-dugo-selo-i-dalje-u-odlicnoj-formi-solin-uspjesan-u-krizevcima/632882/"
+  ]
+ },
+ {
+  "eid": "sr:match:72952504",
+  "fx": "NK Radnik Krizevci v NK Dugo Selo",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Druga NL. Dugo Selo reported 'still in excellent form' (Sportnet), while Radnik Krizevci lost at home to Solin recently - yet the board has Radnik a home favourite (p 0.525).",
+  "news": "Sportnet: Dugo Selo in excellent form; Solin won at Krizevci.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Radnik Krizevci home win / DNB (form contradicts the price); Dugo Selo side not taken either (amateur tier, divergence unverified).",
+  "confidence": 0.1,
+  "sources": [
+   "https://zgnogomet.com/natjecanje/supersport-druga-nl/",
+   "https://nogometne-vijesti.hr/druga-nl-derbi-u-dugom-selu-uskok-na-borovistu-bjelovar-trazi-odgovor-u-solinu/",
+   "https://sportnet.hr/vijesti/nogomet-supersport-druga-nl/supersport-druga-nl-dugo-selo-i-dalje-u-odlicnoj-formi-solin-uspjesan-u-krizevcima/632882/"
+  ]
+ },
+ {
+  "eid": "sr:match:67682110",
+  "fx": "Coquimbo Unido v CD Everton Vina del Mar",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Fecha 28. Sat 21 Nov 12:00 Chile at Francisco Sanchez Rumoroso (=15:00 UTC). Coquimbo already have a Libertadores place as Copa de la Liga champions and will parade the cup before kick-off (festive, low stakes for them). Everton 5th (40) chasing Sudamericana but have lost 3 straight.",
+  "news": "Coquimbo exhibit their cup (already qualified); Everton lost 3 in a row and need points for Sudamericana.",
+  "veto": true,
+  "veto_reason": "Date conflict (minor): the official campeonatochileno.cl match page slug is dated 2026-11-22, while Cooperativa/Radio Agricultura/El Dia (18-20 Nov) all say Sat 21 Nov 12:00 at Sanchez Rumoroso. Likely a stale slug; caller may override.",
+  "picks": [],
+  "avoid": "If veto overridden: Coquimbo team Over 0.5 @1.22 (4/4 home wins, 2.75 GF at home, trend 0.95 v 0.785). Avoid result-sides (Coquimbo already qualified, festive cup parade).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-y-audax-realizan-abren-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
+   "https://www.alairelibre.cl/futbol/campeonato-nacional/fecha-28-liga-de-primera-chile-2-sudamericana-descenso/",
+   "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html",
+   "https://www.diarioeldia.cl/noticias/2026/11/20/157497-fiesta-pirata-en-el-sanchez-rumoroso-coquimbo-unido-exhibira-su-copa-ante-everton",
+   "https://www.alairelibre.cl/futbol/campeonato-nacional/coquimbo-unido-everton-previa-sudamericana-fecha-28/",
+   "https://www.campeonatochileno.cl/match/coquimbo-unido-everton-2026-11-22/"
+  ]
+ },
+ {
+  "eid": "sr:match:76565500",
+  "fx": "Cavalry FC v Atletico Ottawa",
+  "sport": "football",
+  "absences": "Cavalry: Ntignee and Baldisimo were out for weeks in Oct (status now unknown). Ottawa: earlier-season injuries (Abatneh, Timoteo long-term) - no final-specific report found.",
+  "context": "2026 CPL FINAL (one match) at ATCO Field, Calgary, Sat 21 Nov. Cavalry: Shield winners, league-record 58 GF / 23 GA, 4th straight final, chasing the double. Ottawa: defending champions (beat Cavalry 2-1 AET in the 2025 final). 2026 league H2H: 3-1, 3-0, 3-1 Cavalry, 3-2 Ottawa - all four had 3+ goals. Knockout: settles on 90 min except To Qualify. Kick-off reported '3pm ET / 2pm MT' (internally inconsistent; board 20:00 UTC = 3pm ET) - time detail only, date/venue agree.",
+  "news": "CPL Final rematch Sat 21 Nov at ATCO Field; Cavalry record-scoring Shield winners; all four 2026 meetings had 3+ goals.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8006,
+    "why": "Cavalry: Shield winners, record 58 GF, home 4W-1D last 5 (0.6 GA), beat Ottawa 3-1, 3-0, 3-1 in 2026. DNB only (final = knockout, 90-min settlement). Own p 0.82."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.46,
+    "p": 0.6405,
+    "why": "Fixture-specific: all four 2026 Cavalry-Ottawa meetings had 3+ goals (3-1,3-0,3-1,2-3); Cavalry 2.8 GF at home. Final caution (2025 final 1-1 at 90). Own p 0.66."
+   }
+  ],
+  "avoid": "Cavalry 1X2/-1.5 (knockout, no result-side); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Canadian_Premier_League_final",
+   "https://northerntribune.ca/2026-cpl-final-preview-cavalry-atletico-ottawa/",
+   "https://bvmsports.com/2026/11/20/cpl-final-preview-cavalry-ottawa-renew-snow-bowl-rematch/",
+   "https://calgarycitizen.com/p/cavalry-fc-cpl-final-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:67682116",
+  "fx": "CD O'Higgins v Universidad de Chile",
+  "sport": "football",
+  "absences": "no 2026 news found (search only returned 2025 articles: Assadi injury / Calderon suspension then)",
+  "context": "Fecha 28, Sat 21 Nov 18:00 Chile at El Teniente, Rancagua (=21:00 UTC, matches Cooperativa). Round billed as 'Chile 2, Sudamericana and relegation' with no title at stake.",
+  "news": "Date/venue confirmed; no current team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U de Chile away 1X2 (p 0.49 <0.75).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/cobresal-y-audax-realizan-abren-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
+   "https://www.alairelibre.cl/futbol/campeonato-nacional/fecha-28-liga-de-primera-chile-2-sudamericana-descenso/",
+   "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73203286",
+  "fx": "Colchagua CD v CD Concon National FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Segunda Division Profesional (3rd tier) final rounds / promotion liguilla. Colchagua and Concon National both near the top (22 and 21 pts in the latest table seen) - promotion stakes for both.",
+  "news": "Both in the promotion race; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin 3rd tier; no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Segunda_Divisi%C3%B3n_Profesional_de_Chile_de_2026",
+   "https://www.emol.com/noticias/Deportes/2026/11/10/1216638/futbol-chileno-segunda-division-profesional.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73358016",
+  "fx": "General Velasquez v Santiago Morning",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Segunda Division Profesional. Wikipedia tables put General Velasquez in the promotion liguilla and Santiago Morning in the relegation liguilla - if those are separate groups this fixture should not exist; sources inconsistent.",
+  "news": "Sources place the two teams in different end-of-season groups: fixture cannot be confirmed.",
+  "veto": true,
+  "veto_reason": "Data/fixture conflict: sources place General Velasquez (promotion liguilla) and Santiago Morning (relegation liguilla) in different groups.",
+  "picks": [],
+  "avoid": "Whole fixture.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Segunda_Divisi%C3%B3n_Profesional_de_Chile_de_2026",
+   "https://www.emol.com/noticias/Deportes/2026/11/10/1216638/futbol-chileno-segunda-division-profesional.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76913130",
+  "fx": "CD Cobreloa Calama v San Luis de Quillota",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Primera B championship 'partido de definicion' (single match): winner promoted directly, loser goes to the liguilla. NEUTRAL venue - Estadio Santa Laura, Santiago, Sat 21 Nov 18:30 (Cobreloa site; Encancha says 18:00; board 21:30 UTC = 18:30). Penalties if level after 90 (settles on 90).",
+  "news": "One-off promotion final at neutral Santa Laura; 'home' label is nominal; 18:00 vs 18:30 discrepancy between sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (knockout, neutral); totals in a cagey final.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.encancha.cl/futbol-chileno/primera-b/2026/11/15/cobreloa-vs-san-luis-fecha-y-estadio-confirmados-para-la-final-de-pr-325286.html",
+   "https://cobreloa.cl/entradas/",
+   "https://www.t13.cl/noticia/deportes13/partido-definicion-primera-b-fecha-horario-estadio-duelo-entre-cobreloa-san-luis-15-11-202"
+  ]
+ },
+ {
+  "eid": "sr:match:67682120",
+  "fx": "Universidad de Concepcion v Nublense",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Fecha 28, relegation six-pointer for UdeC: 15th, 26 pts, in the drop zone (must-win). Nublense 11th, 35 pts. La Nacion/El Rancaguino: Sat 21 Nov 20:30 at Estadio Ester Roa (=23:30 UTC). Sofascore lists 22 Nov 21:00 UTC at Municipal de Collao, and sabes.cl also says 22 Nov.",
+  "news": "UdeC must-win at the bottom; date/venue conflict between sources (21 Nov Ester Roa vs 22 Nov Collao).",
+  "veto": true,
+  "veto_reason": "Date/venue conflict: La Nacion/El Rancaguino say Sat 21 Nov 20:30 at Ester Roa; Sofascore and sabes.cl say 22 Nov (Sofascore: Municipal de Collao).",
+  "picks": [],
+  "avoid": "Whole fixture (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lanacion.com.ar/deportes/futbol/universidad-de-concepcion-vs-nublense-por-el-primera-division-chile-2026-dia-hora-y-como-seguir-nid20112026/",
+   "https://www.sofascore.com/football/match/nublense-universidad-de-concepcion/JacsEPc",
+   "https://sabes.cl/2026/11/13/la-udec-pelea-por-salir-del-descenso-en-el-cierre-del-torneo",
+   "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/estadisticas-la-tabla-de-posiciones-de-la-liga-de-primera-en-la-fecha-28/2026-11-20/122247.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72053708",
+  "fx": "Puntarenas FC v CS Herediano",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Costa Rica Apertura 2026 late regular season. Puntarenas lost 0-1 at home to San Carlos and 2-1 at Saprissa; Herediano lost 0-2 to Saprissa and drew 1-1 with San Carlos - both in poor recent form (results partly conflicting across sources).",
+  "news": "Both sides in poor recent form; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (close); nothing anchored.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nacion.com/puro-deporte/tabla-de-posiciones-del-torneo-de-apertura-2026/6XBGTX6TLRDYNPPK3Z2U4HRPPQ/story/",
+   "https://es.wikipedia.org/wiki/Campeonato_de_Apertura_2026_(Costa_Rica)"
+  ]
+ },
+ {
+  "eid": "sr:match:76881988",
+  "fx": "Deportes Copiapo v CD Antofagasta",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liguilla de Ascenso quarter-final FIRST LEG (two-legged). Copiapo (8th, 42 pts) host; Antofagasta (3rd) host the return. Estadio Luis Valenzuela Hermosilla, Sat 21 Nov - 21:00 (one source, delayed 30 min) vs 20:30 (ANFP); board 00:00 UTC = 21:00.",
+  "news": "QF first leg of two-legged liguilla tie; 20:30 vs 21:00 kick-off discrepancy, same date/venue.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7707,
+    "why": "Antofagasta 2.0 GF/g, last H2H 0-4; Copiapo games 1-1,1-1,0-1,2-1,3-0,4-1; trend 0.90 v house 0.77. First leg of two-legged tie lowers it. Own p 0.78."
+   }
+  ],
+  "avoid": "Result-sides (two-legged tie first leg).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.alairelibre.cl/futbol/primera-b/copiapo-vs-antofagasta-horario-donde-ver-liguilla-ascenso-2026/",
+   "https://duplos.cl/deportes/liguilla-primera-b-2026-clasificados-cruces-segundo-ascenso/285210/2026/11/16/",
+   "https://redgol.cl/chile/confirmado-la-anfp-da-a-conocer-el-fixture-oficial-de-la-liguilla-del-ascenso-primer-b"
+  ]
+ }
+]

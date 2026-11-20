@@ -1,0 +1,429 @@
+[
+ {
+  "eid": "sr:match:72221406",
+  "fx": "Man City v Fulham",
+  "home_form": "PL: 3 straight league defeats (Villa 2-1 A, Brighton 0-1 H, Forest 3-1 A); won 3-2 at Leipzig (UCL) in between. Home last 6 (all comps): 0-1 Brighton, 6-5 Brighton (cup), 5-1 AEK, 3-2 Ipswich, 2-4 PSG, 5-3 Sunderland: scored 2+ in 5/6 home, conceded in 5/6.",
+  "away_form": "Last 10: D1-1 Newcastle H, D1-1 Villa A, L0-1 Palace H, W1-0 Coventry A, W1-0 Hull H, L1-2 Ipswich A, D1-1 Man Utd H, W3-2 West Ham A, D0-0 Liverpool A, L2-3 Palace H. 7/10 games had <=2 goals; Fulham scored <=1 in 8/10.",
+  "trends": {
+   "game_totals": "City home games very open (5/6 had 3+ goals); Fulham games mostly <=2 goals (7/10). Conflict -> no match-total pick.",
+   "team_totals": "City scored 2+ in 5/6 home; Fulham scored 0-1 in 8/10.",
+   "first_half": "City home HT: 0-1,1-1,2-0,2-1,0-3,3-2 -> City scored 1H in 4/6.",
+   "handicap": "City wins over Fulham historically by 2+ often; City defence leaky now (conceded 2+ in 5 of last 10).",
+   "corners": "City home corners 8,3,8,2,11 (noisy) - no corners pick."
+  },
+  "h2h": "City have won the last 20 meetings with Fulham in all competitions (TribalFootball).",
+  "absences": "City: Semenyo out (knee, back Dec); Guehi conflicting reports (fit vs hip injury); Khusanov knock; Matheus Nunes doubt. Fulham: Smith Rowe out (hip), Cairney doubt (knee).",
+  "context": "Early KO 12:30 after international break. City on 3 straight PL defeats under Maresca, chasing leaders Arsenal - motivation high. Not a big-club clash. No date/venue conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "mdesc": "Man City Over/Under",
+    "odds": 1.38,
+    "p": 0.698058,
+    "why": "tight. City scored 2+ in 5 of last 6 home games and in their 20-game H2H dominance; Fulham concede to top sides; Haaland 9 PL goals. Own p ~0.70."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "mdesc": "1X2",
+    "odds": 1.42,
+    "p": 0.697228,
+    "why": "20 straight H2H wins; Fulham score <=1 in 8/10. But City lost 3 straight PL and centre-backs uncertain (Guehi/Khusanov) -> own p ~0.68, about house; use only as second leg."
+   }
+  ],
+  "avoid": [
+   "Under 3.5/4.5 (City home games 6-5, 5-3, 5-1, 3-2, 2-4)",
+   "Fulham Over 0.5 (Fulham scored <=1 in 8/10)",
+   "City -1.5 (defence leaky)"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.tribalfootball.com/article/soccer-premier-league-man-city-vs-fulham-confirmed-team-news-as-maresca-attempts-to-catch-leaders-arsenal-94256696-8b65-4cf2-945a-0509a874dead",
+   "https://www.sportsmole.co.uk/football/man-city/preview/man-city-vs-fulham-prediction-team-news-lineups_609367.html",
+   "https://www.101greatgoals.com/match-previews/premier-league-matches/manchester-city-v-fulham-preview-expected-line-ups-where-to-watch/"
+  ]
+ },
+ {
+  "eid": "sr:match:72513326",
+  "fx": "SV 07 Elversberg v Freiburg",
+  "home_form": "Promoted side, 7th on 13 pts. Home: W4-1 Mainz, L0-2 Darmstadt (cup?), W4-3 Augsburg, L1-2 Bayern, W3-2 Leverkusen. Scored in 4/5 home, 4/5 home games had 3+ goals. Last: L1-2 at Dortmund.",
+  "away_form": "Freiburg 3rd, 19 pts, won last 4 all comps (2-0 Union H, 1-0 at Trabzonspor UEL, 2-1 at Augsburg, 3-2 Wolfsburg). Away: 1-0 W Trabzon, 2-1 W Augsburg, 0-3 L Monaco, 1-2 L Leverkusen, 2-2 Frankfurt: scored in 4/5 away.",
+  "trends": {
+   "game_totals": "Elversberg home 4/5 over 2.5; Freiburg away 3/5 over 2.5.",
+   "team_totals": "Elversberg home goals 4,0,4,1,3 -> scored in 4/5; Freiburg scored in 4/5 away.",
+   "first_half": "Elversberg home HT 3-0,0-1,3-1,0-1,2-0 - lively 1H.",
+   "handicap": "Freiburg away wins all by 1 goal.",
+   "corners": "Elversberg home corners volatile (5,18,4,3)."
+  },
+  "h2h": "Few/no top-flight meetings (Elversberg newly promoted).",
+  "absences": "Elversberg: LB Nicholas Mickelson out (MCL, returned injured from international duty), CB Luis Seifert out (ankle), captain Lukas Pinckert doubtful -> weakened back line. Freiburg: Berkay Yilmaz suspended; Mio Backhaus available after knock on international duty.",
+  "context": "Freiburg in UEL; no midweek before this game (break). Elversberg weakened defence favours Freiburg scoring; Elversberg scoring at home consistently.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "mdesc": "SV 07 Elversberg Over/Under",
+    "odds": 1.31,
+    "p": 0.739013,
+    "why": "tight. Elversberg scored in 4 of 5 home Bundesliga games (4-1, 4-3, 1-2 v Bayern, 3-2 v Leverkusen); Freiburg conceded in 7 of last 10. Own p ~0.78."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "mdesc": "GG/NG",
+    "odds": 1.54,
+    "p": 0.624053,
+    "why": "Elversberg home games BTTS 4/5; Freiburg scored in 4/5 away and face a back line missing Mickelson + Seifert (Pinckert doubtful). Own p ~0.65."
+   }
+  ],
+  "avoid": [
+   "Freiburg 1X2/DNB (away wins all by one goal, Elversberg dangerous at home)",
+   "Unders"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/elversberg/preview/elversberg-vs-freiburg-prediction-team-news-lineups_609436.html",
+   "https://www.thestatszone.com/sv-elversberg-vs-freiburg-preview-team-news-prediction-240573",
+   "https://onefootball.com/en/news/sv-elversberg-vs-sc-freiburg-preview-high-flying-breisgauer-face-stern-test-against-impressive-newcomers-43807631"
+  ]
+ },
+ {
+  "eid": "sr:match:72340038",
+  "fx": "Middlesbrough FC v Bristol City",
+  "home_form": "2nd, level with leaders Birmingham; unbeaten at home. Home: W3-0 Charlton, D2-2 Cardiff, W1-0 Wolves, D2-2 Millwall, W4-3 Norwich (scored 2+ in 4/5). But pre-break slump: L0-2 Wrexham, D0-0 Watford (both away).",
+  "away_form": "17th. Last: L0-5 Norwich H, L1-2 Wolves H. Away: W3-2 Bolton, D0-0 Stoke, D1-1 Charlton, W2-0 at Palace -> unbeaten in last 4 away. Scored <=1 in 8/10.",
+  "trends": {
+   "game_totals": "Boro home 4/5 over 2.5; Bristol away 1/4 over 2.5 -> conflicting.",
+   "team_totals": "Boro 2+ goals in 4/5 home; Bristol 0-1 goals in 8/10.",
+   "first_half": "Boro trailed at HT at home twice (0-2 v Cardiff, 0-2 v Millwall).",
+   "handicap": "Boro home wins 3-0, 1-0, 4-3.",
+   "corners": "Boro home corners 8, 11, 4."
+  },
+  "h2h": "One source says Bristol City won 7 of last 10 v Middlesbrough (unverified).",
+  "absences": "Boro: Pukstas and Alfie Jones out; top scorer Will Lankshear back training after hamstring, likely bench. Bristol: Noah Eile conflicting (illness per Sports Mole vs fit per WhoScored).",
+  "context": "Hellberg may rotate after poor pre-break form. Bristol City 5-0 home hammering last time out.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "mdesc": "Middlesbrough FC Over/Under",
+    "odds": 1.42,
+    "p": 0.680081,
+    "why": "tight. Boro scored 2+ in 4 of 5 home league games; Bristol just conceded 5 at home. Lankshear only bench -> own p ~0.66, slightly below house; low confidence."
+   }
+  ],
+  "avoid": [
+   "Boro 1X2 1.40 (2 drawn of last 5 home, scoring slump pre-break, Bristol unbeaten in 4 away)",
+   "Over 2.5 (Bristol away games low)",
+   "Bristol Under 1.5 (Under rule p<0.82)"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/middlesbrough/preview/middlesbrough-vs-bristol-city-prediction-team-news-lineups_609411.html",
+   "https://www.sportskeeda.com/football/middlesbrough-vs-bristol-city-prediction-betting-tips-november-21st-2026",
+   "https://thehardtackle.com/round-up/2026/11/20/middlesbrough-vs-bristol-city-preview-prediction-probable-lineups-tactics-team-news-key-stats/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341390",
+  "fx": "Cambridge United v Stockport County FC",
+  "home_form": "10th, winless in 4 league (L0-3 Leyton Orient, L0-2 Bristol Rovers, D1-1 Sheff Wed). Home league: L2-3 Plymouth, D2-2 Wycombe, W1-0 Blackpool, W2-1 Northampton, D1-1 Wimbledon -> scored in 5/5 home league games.",
+  "away_form": "2nd, top scorers (29 in 15). Won 6 of last 8. Away: W3-2 Cray (cup), L0-1 Oxford, D1-1 Notts, W2-0 Doncaster, W2-0 Shrewsbury. Recent home 3-1, 4-3.",
+  "trends": {
+   "game_totals": "Cambridge home league games: 5,4,1,3,2 goals (4/5 over 1.5); Stockport last 5: 4,7,5,3,1 (cup incl.).",
+   "team_totals": "Cambridge scored in 5/5 home league; Stockport scored in 9/10.",
+   "first_half": "Cambridge home 1H quiet (0-1,0-1,0-0,1-0,0-1).",
+   "handicap": "Stockport away wins by 2 (Doncaster, Shrewsbury).",
+   "corners": "Cambridge home corners high (13,12,13)."
+  },
+  "h2h": "No fixture-specific H2H found.",
+  "absences": "Cambridge: Dominic Ball out, Gassan Ahadme doubt, Kaikai may return. Stockport: Adama Sidibeh out (hamstring), Kyle Wootton to start.",
+  "context": "YouTube preview title mentions 'new manager bounce' but Wikipedia (updated 7 Nov) still lists Neil Harris; unconfirmed - treat as data_conflict on the result side only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "mdesc": "Over/Under",
+    "odds": 1.21,
+    "p": 0.799367,
+    "why": "tight. Cambridge scored in all 5 home league games and 4/5 had 2+ goals; Stockport league top scorers (29 in 15) and scored in 9/10. Own p ~0.81."
+   },
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "mdesc": "Cambridge United Over/Under",
+    "odds": 1.37,
+    "p": 0.696785,
+    "why": "Cambridge scored in 5/5 home league games; Stockport conceded in 6 of last 10. Own p ~0.72."
+   }
+  ],
+  "avoid": [
+   "Stockport 1X2/X2 (possible manager change at Cambridge unconfirmed; Sidibeh out)",
+   "Under markets"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/cambridge-united/preview/cambridge-vs-stockport-prediction-team-news-lineups_609403.html",
+   "https://www.squawka.com/en/news/previews/cambridge-vs-stockport-predictions-saturday-21-11-2026/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Cambridge_United_F.C._season"
+  ]
+ },
+ {
+  "eid": "sr:match:72036302",
+  "fx": "Nice v PSG",
+  "home_form": "6th, 17 pts, won last 3 league (2-0 at Angers, 5-2 Rennes, 2-1 at Brest). Home: 5-2 Rennes, 2-1 Strasbourg, 2-1 Lille, 1-1 Le Mans, 0-0 Lorient.",
+  "away_form": "Leaders, 7 straight league wins. Away: 6-0 Villarreal, 5-1 Le Havre, 3-1 Strasbourg, 4-2 at Man City, 2-1 Marseille, 1-0 Brest -> scored 2+ in 5/6 away. Last: 1-0 v Troyes.",
+  "trends": {
+   "game_totals": "PSG away games 5/6 over 2.5; Nice home 3/5 over 2.5.",
+   "team_totals": "PSG 2+ goals in 5/6 away.",
+   "first_half": "PSG led at HT in 4 of 6 aways.",
+   "handicap": "PSG away margins: 6,4,2,2,1,1.",
+   "corners": "n/a"
+  },
+  "h2h": "PSG won 4-0 at Nice (Mar 2026) and 3-0 v Nice (Aug 2026); Nice's last win v PSG 3-1 in Paris Apr 2025.",
+  "absences": "PSG: Kvaratskhelia out long-term (ACL); Marquinhos doubtful per one source but named in Le Parisien XI with Dembele. Nice: Antoine Mendy, Laurent Abergel, Moise Bombito out; Abdelmonem, Ali Abdi doubtful.",
+  "context": "Lineup sources differ (Safonov/Ferran Torres/Akliouche XI vs Dembele/Marquinhos XI) -> some rotation risk before UCL week. Nice missing two first-choice CBs (Bombito, Mendy).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "mdesc": "Draw No Bet",
+    "odds": 1.21,
+    "p": 0.80589,
+    "why": "tight. PSG 7 straight league wins, won last 2 v Nice 4-0, 3-0; Nice without CBs Bombito and Mendy. DNB covers the draw. Own p ~0.80."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "mdesc": "PSG Over/Under",
+    "odds": 1.38,
+    "p": 0.702864,
+    "why": "PSG scored 2+ in 5 of last 6 away and 7 goals in last 2 v Nice; Nice defence depleted. Own p ~0.72."
+   }
+  ],
+  "avoid": [
+   "PSG -1.5 (rotation risk, Nice in form)",
+   "Under markets"
+  ],
+  "confidence": 0.35,
+  "sources": [
+   "https://thehardtackle.com/round-up/2026/11/20/ogc-nice-vs-psg-preview-prediction-probable-lineups-tactics-team-news-key-stats/",
+   "https://en.parisfans.fr/nice-vs-psg-the-paris-lineup-announced-with-dembele-and-marquinhos.html",
+   "https://africasoccer.com/nice-face-formidable-psg-as-leaders-chase-eighth-straight-ligue-1-win/"
+  ]
+ },
+ {
+  "eid": "sr:match:72936136",
+  "fx": "PAE PS Kalamata v AEK Athens",
+  "home_form": "Promoted; 12 pts (3-3-4). Home: D1-1 Iraklis, W4-3 OFI, L0-1 Panathinaikos, D1-1 Larissa, W3-1 Volos -> only 1 home loss, by 1 goal. Won 3-1 at PAOK; lost 0-5 at Olympiacos. Last: 1-1 at Asteras.",
+  "away_form": "Inconsistent: W2-1 Levadiakos H, L2-3 Real Madrid H, L0-2 at Panathinaikos, L1-3 at PAOK, W5-0 Panaitolikos H, L1-5 Man City, L1-3 Shakhtar. League away: L0-2 PAO, L1-3 PAOK, W2-1 Volos -> scored <=1 in 4 of last 5 away (all comps).",
+  "trends": {
+   "game_totals": "Kalamata home 3/5 over 2.5; AEK away games 4,2,4,3 goals.",
+   "team_totals": "AEK scored 2+ away only once in 5; Kalamata scored in 4/5 home.",
+   "first_half": "AEK away HT: 1-0 down x2, 0-0.",
+   "handicap": "Kalamata lost by 3+ only at Olympiacos (0-5). AEK away wins narrow (2-1 Volos).",
+   "corners": "n/a"
+  },
+  "h2h": "No recent top-flight H2H (Kalamata newly promoted).",
+  "absences": "No named absences found.",
+  "context": "AEK in Conference/Europa group (played Real Madrid 4 Nov) - away form poor. Scores24 claims AEK U2.5 in 14 straight aways - contradicted by Sportradar (1-3 PAOK, 1-5 City), treat as unreliable.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "mdesc": "Asian Handicap 2",
+    "odds": 1.43,
+    "p": 0.668555,
+    "why": "tight. AEK scored 2+ in only 1 of last 5 aways; Kalamata lost by 3+ only once (Olympiacos) and beat PAOK away. +2.0 (not +2.5, fav p 0.70). Own p ~0.85 not losing, ~0.70 win."
+   },
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "mdesc": "PAE PS Kalamata Over/Under",
+    "odds": 1.66,
+    "p": 0.567947,
+    "why": "Kalamata scored in 4/5 home (4-3, 3-1, 1-1, 1-1) and 3 at PAOK; AEK conceded in 6 of last 7. Own p ~0.62."
+   }
+  ],
+  "avoid": [
+   "AEK 1X2 1.38 (away p<0.75, poor away form)",
+   "AEK Over 1.5 team",
+   "Over 1.5 (Greek league low-scoring context)"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://scores24.live/en/soccer/m-21-11-2026-pae-ps-kalamata-aek-athens-prediction",
+   "https://www.betcosmos.com/stoiximatika-nea/kalamata-aek-apodoseis-eidika-paiktes-21112026/",
+   "https://statsultra.com/forecasts/greek-super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72041254",
+  "fx": "FC Utrecht v SC Cambuur",
+  "home_form": "14th, 12 pts, conceded 34 in 12 league games. Home: L2-3 NEC, D1-1 Zwolle, W3-1 Willem II, D3-3 GA Eagles, L1-6 PSV. Away: L2-4 Telstar, L0-5 Feyenoord.",
+  "away_form": "10th, 15 pts. L2-5 PSV H, W4-0 GA Eagles H, W6-1 at Willem II, D2-2 AZ, W1-0 at Zwolle, D1-1 at Den Haag. Scored in 9/10.",
+  "trends": {
+   "game_totals": "Utrecht league games 3+ goals in 8 of last 9 (only 1-1 Zwolle under).",
+   "team_totals": "Utrecht conceded in every league game listed; Cambuur scored in 9/10.",
+   "first_half": "Utrecht trailed at HT in 4 of last 9 league games.",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Cambuur winless in regulation in last 6 visits to Utrecht; 6 of last 8 Eredivisie H2H had 3+ goals (WhoScored).",
+  "absences": "Utrecht: Wout Asselman (Belgium int.) near return but major doubt.",
+  "context": "Relegation-zone-ish Utrecht with worst-type defence vs free-scoring Cambuur. Kick-off listed 17:45 UTC consistently; one Indonesian page says 22 Nov (time-zone artefact).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "mdesc": "SC Cambuur Over/Under",
+    "odds": 1.26,
+    "p": 0.766892,
+    "why": "tight. Utrecht conceded 34 in 12 (2.8/game) and conceded in every recent league game; Cambuur scored in 9 of last 10. Own p ~0.85."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "mdesc": "Over/Under",
+    "odds": 1.46,
+    "p": 0.665615,
+    "why": "8 of Utrecht's last 9 league games had 3+ goals; 6 of last 8 H2H had 3+. Own p ~0.70."
+   }
+  ],
+  "avoid": [
+   "Utrecht 1X2/DNB",
+   "Unders",
+   "Cambuur Under 2.5 team"
+  ],
+  "confidence": 0.35,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/fc-utrecht/preview/utrecht-vs-cambuur-prediction-team-news-lineups_609395.html",
+   "https://www.whoscored.com/matches/1982540/preview/netherlands-eredivisie-2026-2027-fc-utrecht-cambuur",
+   "https://www.bet-experts.nl/nieuws/wedtips-fc-utrecht-sc-cambuur-voorspelling-odds-opstellingen"
+  ]
+ },
+ {
+  "eid": "sr:match:72366464",
+  "fx": "Yellow-Red KV Mechelen v Club Brugge",
+  "home_form": "11th. W3-1 at Kortrijk, W1-0 Genk H, W5-1 Eupen H, W4-3 STVV H, L0-2 at Leuven last. Home: 1-0, 5-1, 4-3, 2-3 (cup), 0-1 Anderlecht, 0-4 Westerlo.",
+  "away_form": "2nd. D1-1 Anderlecht H last; away: W2-1 at PSV (UCL), W4-2 at Zulte, W4-3 at Inter (UCL), W4-1 at La Louviere -> 2+ goals in 4/4 aways, all aways 3+ goals.",
+  "trends": {
+   "game_totals": "Brugge away games 3,6,7,5 goals; Mechelen home 1,6,7,5,1,4.",
+   "team_totals": "Brugge scored 2+ in 4/4 away and 7 of last 10 overall.",
+   "first_half": "Brugge led at HT in 3 of 4 aways.",
+   "handicap": "Brugge away margins 1,2,1,3.",
+   "corners": "n/a"
+  },
+  "h2h": "Mechelen lost 27 of last 45 H2H v Brugge (Forebet).",
+  "absences": "No confirmed injury news found; predicted Brugge XI with Vanaken, Mechele.",
+  "context": "Brugge have UCL midweek next week - mild rotation risk. Kick-off time conflict between Goal (11:45) and Forebet/board (19:45 UTC) - date agrees; board time 19:45 UTC matches Sportradar 20:45 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "mdesc": "Brugge Over/Under",
+    "odds": 1.34,
+    "p": 0.711271,
+    "why": "tight. Brugge scored 2+ in all 4 recent aways (incl. at PSV and Inter); Mechelen conceded 2+ in 3 of last 6 home. Own p ~0.74."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "mdesc": "Over/Under",
+    "odds": 1.4,
+    "p": 0.687384,
+    "why": "Brugge's last 4 aways all had 3+ goals; Mechelen home games 4 of 6 had 3+. Own p ~0.70."
+   }
+  ],
+  "avoid": [
+   "Brugge 1X2 (away p 0.69 < 0.75)",
+   "Mechelen Under 1.5 team"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/kv-mechelen-club-brugge-2490234",
+   "https://www.sportskeeda.com/football/mechelen-vs-club-brugge-prediction-betting-tips-november-21st-2026",
+   "https://www.sportsgambler.com/betting-tips/football/mechelen-vs-club-brugge-prediction-lineups-odds-2026-11-21/"
+  ]
+ },
+ {
+  "eid": "sr:match:76609136",
+  "fx": "Inter Miami CF v Columbus Crew",
+  "home_form": "Home: D3-3 Charlotte, D2-2 Cincinnati, W2-0 NYCFC, W4-0 DC United, D2-2 San Diego -> scored 2+ in 6/6 home (incl. Cruz Azul). 'Dismal home record' on the season per Axios; coaching changes in season. Messi 26 goals (Golden Boot).",
+  "away_form": "Hottest team: won 8 of last 9, 6 straight. Away: W4-3 Chicago, W2-0 Dallas, W2-0 Cincinnati, L2-3 Orlando, W2-0 Montreal. Scored in 10/10. Beat Miami 2-1 at home 28 Sep.",
+  "trends": {
+   "game_totals": "Miami home 4/6 over 2.5; Columbus away 2/5 over 2.5.",
+   "team_totals": "Miami 2+ in 6/6 home; Columbus scored in 10/10.",
+   "first_half": "Miami home 1H goals in 5/6.",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "Columbus 2-1 Miami (28 Sep 2026); other 2026 meeting 1-0 Miami at Columbus (per SI).",
+  "absences": "No current injury report found for Game 1; Messi limped off in an earlier 2026 meeting but Mascherano downplayed it.",
+  "context": "MLS Cup playoffs Round One, best-of-three Game 1 (draw -> penalties; markets settle on 90 min). Knockout: no 1X2; DNB only and Miami fragile at home -> skip result side. Date/venue (Nu Stadium, 6pm ET 21 Nov) consistent across sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "mdesc": "Columbus Crew Over/Under",
+    "odds": 1.32,
+    "p": 0.722687,
+    "why": "tight. Columbus scored in all of last 10 (6 straight wins, 8 of 9) and scored 2 v Miami in Sept; Miami conceded in 3 of last 6 home incl. 3 v Charlotte. Own p ~0.76."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "mdesc": "Inter Miami CF Over/Under",
+    "odds": 1.4,
+    "p": 0.680857,
+    "why": "Miami scored 2+ in 6 of last 6 home games; Messi 26-goal Golden Boot. Playoff caution trims it -> own p ~0.68."
+   }
+  ],
+  "avoid": [
+   "Miami 1X2/DNB (knockout, Columbus hot, Miami poor home record)",
+   "Unders"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.mlssoccer.com/playoffs/2026/news/inter-miami-vs-columbus-crew-5-biggest-storylines-for-round-one-series",
+   "https://www.axios.com/local/miami/2026/11/18/inter-miami-fc-miami-playoff-run-against-columbus-crew-nu-stadium",
+   "https://prostinternational.com/2026/11/17/inter-miami-vs-columbus-crew-playoff-preview-coin-toss-or-foregone-conclusion/"
+  ]
+ }
+]

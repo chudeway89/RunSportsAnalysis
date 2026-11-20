@@ -1,0 +1,654 @@
+[
+ {
+  "eid": "sr:match:72466648",
+  "fx": "PFC Chernomorets Burgas v PFC Rilski Sportist Samokov",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Vtora Liga rd17. Chernomorets L10 7-2-1 (gf2.3); Rilski winless in last 6 (D-L-D-L-L-D).",
+  "news": "Referee appointments (taralej.bg) list Chernomorets 1919 v Rilski Sportist at Lazur, Burgas 12:15 local = SportyBet 10:15 UTC; vtoraliga.bg shows 18:00 (looks like placeholder) -> minor kick-off conflict flagged, official appointment agrees with SportyBet.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.7949,
+    "why": "No-news; home side 7-2-1 last 10 vs Rilski winless in 6; draw refunds. My p ~0.80 (house 0.79). Low-edge filler only."
+   }
+  ],
+  "avoid": "Over 1.5 (Rilski had two 0-0 in last 6); Unders; kick-off listed 18:00 on vtoraliga.bg - recheck before posting",
+  "confidence": 0.2,
+  "sources": [
+   "https://taralej.bg/sport/obqviha-sadiyskite-narqdi-za-kraga-ot-vtora-liga",
+   "https://bfu-tournaments.com/leagues/second?view=upcoming-matches",
+   "https://vtoraliga.bg/programa/",
+   "https://m.goal.bg/group/2000000/100/fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:73349822",
+  "fx": "Boeung Ket Angkor FC v Life FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Cambodian Premier League 2026-27 early season; Boeung Ket were 9th after 2 games in the last snapshot.",
+  "news": "No fixture preview or team news found; date not independently confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything: no news, thin data, Life FC away 4-3-3 (credible)",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Cambodian_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73349710",
+  "fx": "Nagaworld FC v Isi Dangkor Senchey FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Cambodian Premier League; ISI Dangkor Senchey 4th early in season, Nagaworld mid-table.",
+  "news": "No fixture preview or team news found; date not independently confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything: Nagaworld 4-2-4, ISI draw-heavy (2-5-3); no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Cambodian_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:76161554",
+  "fx": "FK BSK Banja Luka v HSK Zrinjski Mostar",
+  "sport": "football",
+  "absences": "Boro Eric (BSK) suspension was for an earlier round (Avaz); no current list found",
+  "context": "Premijer liga BiH rd14, first club round after the break. Zrinjski L10 8-1-1, away 4-0-1 gf3.2; BSK unbeaten at home (1-3-0).",
+  "news": "sportske.ba: Sat 21 Nov 13:00 local (=12:00 UTC, matches SportyBet), Arena 1 Premium TV; utakmice.me shows a generic 17:00 for all Saturday games (placeholder). No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.3,
+    "p": 0.7357,
+    "why": "Zrinjski away games avg 4.0 total goals; BSK's last 6 all had 2+ goals; Zrinjski scored 3+ in 5 of last 6. My p ~0.79 vs house 0.74."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.26,
+    "p": 0.7578,
+    "why": "BSK unbeaten at home (1-3-0) and conceded 2+ margin rarely; +2.0 voids on exactly 2-goal Zrinjski win (modal). My p ~0.78 vs house 0.76."
+   }
+  ],
+  "avoid": "Zrinjski 1X2 (away p 0.65 < 0.75); Home +1.5; Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://sportske.ba/clanak/ovo-je-raspored-14-kola-premijer-lige-bih-sve-utakmice-u-tv-prijenosu/",
+   "https://utakmice.me/liga/premijer-liga-bih/raspored",
+   "https://avaz.ba/sport/nogomet/1084838/sarajevo-bez-dva-igraca-docekuje-zrinjski-zeljeznicar-oslabljen-putuje-na-pecaru"
+  ]
+ },
+ {
+  "eid": "sr:match:73492060",
+  "fx": "NK Travnik v HNK Capljina",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Prva liga FBiH (2nd tier). Travnik 3rd on 29 pts; Capljina lost 0-3 at home to leaders Sloboda last time, away 1-0-4 gf0.4.",
+  "news": "Standings found (SportSport.ba) but no preview or confirmation of this fixture/date.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 1.16 below band; Home -1.5 (trend 0.20); Under 4.5 p 0.78 < 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nsfbih.ba/takmicenja/wwin-prva-liga-fbih",
+   "https://sportsport.ba/tabele-lige/fudbal/bosna-i-hercegovina/prva-liga-federacije-bih/2"
+  ]
+ },
+ {
+  "eid": "sr:match:72466646",
+  "fx": "FK Hebar Pazardzhik v Gorna Oryahovitsa",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Vtora Liga.",
+  "news": "Data conflict: taralej.bg and bfu-tournaments list Hebar v Lokomotiv GO on 21 Nov 14:30, but goal.bg lists Hebar v Pirin 22 instead and has Hebar-Lokomotiv on 30 Nov; vtoraliga.bg shows 18:00.",
+  "veto": true,
+  "veto_reason": "date/opponent/kick-off conflict between sources",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://taralej.bg/sport/obqviha-sadiyskite-narqdi-za-kraga-ot-vtora-liga",
+   "https://bfu-tournaments.com/leagues/second?view=upcoming-matches",
+   "https://vtoraliga.bg/programa/",
+   "https://m.goal.bg/group/2000000/100/fixtures",
+   "https://marek1915.com/marek-gostuva-v-razgrad-sadiyski-naryad-2/",
+   "https://novinata.bg/sport/bfs-obqvi-sadiite-za-16-iq-krag-na-vtora-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72466650",
+  "fx": "PFC Ludogorets Razgrad II v Marek Dupnica",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Vtora Liga rd17; Ludogorets II is a reserve side (no picks except goals in mismatches). Marek lost 4 of last 6.",
+  "news": "Marek club site and BFS: 21 Nov 14:30 (=12:30 UTC, matches); goal.bg's 30 Nov listing contradicts every other source and looks wrong. Referee Ivan Hristov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side: no result-side; not a goals mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://taralej.bg/sport/obqviha-sadiyskite-narqdi-za-kraga-ot-vtora-liga",
+   "https://bfu-tournaments.com/leagues/second?view=upcoming-matches",
+   "https://vtoraliga.bg/programa/",
+   "https://m.goal.bg/group/2000000/100/fixtures",
+   "https://marek1915.com/marek-gostuva-v-razgrad-sadiyski-naryad-2/",
+   "https://novinata.bg/sport/bfs-obqvi-sadiite-za-16-iq-krag-na-vtora-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72466654",
+  "fx": "PFC Spartak Pleven v OFC Nesebar",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Vtora Liga rd17.",
+  "news": "DATE CONFLICT: BFS rd17 programme lists Spartak Pleven v Nesebar on Sunday 22 Nov 14:30 (ref Ivaylo Nenkov), SportyBet has Sat 21 Nov 12:30 UTC.",
+  "veto": true,
+  "veto_reason": "date conflict (BFS says 22 Nov)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://taralej.bg/sport/obqviha-sadiyskite-narqdi-za-kraga-ot-vtora-liga",
+   "https://bfu-tournaments.com/leagues/second?view=upcoming-matches",
+   "https://vtoraliga.bg/programa/",
+   "https://m.goal.bg/group/2000000/100/fixtures",
+   "https://marek1915.com/marek-gostuva-v-razgrad-sadiyski-naryad-2/",
+   "https://novinata.bg/sport/bfs-obqvi-sadiite-za-16-iq-krag-na-vtora-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72466642",
+  "fx": "PFC Vihren Sandanski v FC Pirin Blagoevgrad",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Vtora Liga; Blagoevgrad-region derby (Vihren Sandanski v Pirin 22). Pirin 1-2-7 last 10, away 1-1-3 ga2.2.",
+  "news": "bfu-tournaments: 21 Nov 14:30 at Sandanski city stadium (matches). Goal.bg lists Hebar-Pirin for the round (unreliable). Only O/U 3.5 is offered.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "only O/U 3.5 offered at ~1.84; Under 3.5 p 0.50 fails the Under gate; derby",
+  "confidence": 0.15,
+  "sources": [
+   "https://taralej.bg/sport/obqviha-sadiyskite-narqdi-za-kraga-ot-vtora-liga",
+   "https://bfu-tournaments.com/leagues/second?view=upcoming-matches",
+   "https://vtoraliga.bg/programa/",
+   "https://m.goal.bg/group/2000000/100/fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:72466656",
+  "fx": "SFC Etar Veliko Tarnovo v PFK Sportist Svoge",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Vtora Liga. Sportist Svoge 1-3-6 last 10, away 0-1-4 conceding 2.6/game; every one of both sides' last 6 games had 2+ goals.",
+  "news": "bfu-tournaments: 21 Nov 14:30 local (=12:30 UTC, matches); vtoraliga.bg shows 18:00 (placeholder-looking) - flagged.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.7956,
+    "why": "All 12 of the two sides' last 6 games had 2+ goals; Svoge concede 2.6 away. My p ~0.84 vs house 0.80."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.7954,
+    "why": "Svoge winless in 5 away (0-1-4); draw refunds. My p ~0.82 vs house 0.80."
+   }
+  ],
+  "avoid": "Home -1.5; BTTS",
+  "confidence": 0.25,
+  "sources": [
+   "https://taralej.bg/sport/obqviha-sadiyskite-narqdi-za-kraga-ot-vtora-liga",
+   "https://bfu-tournaments.com/leagues/second?view=upcoming-matches",
+   "https://vtoraliga.bg/programa/",
+   "https://m.goal.bg/group/2000000/100/fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:71998270",
+  "fx": "PFC Slavia Sofia v FC Arda Kardzhali",
+  "sport": "football",
+  "absences": "no injury/suspension news found for this game",
+  "context": "Parva Liga rd15. Slavia have failed to score in 3 straight league games (0-0 x3), home 0-2-2 gf0.5; Arda won the last 2 H2H (2-1, 1-0). Arda coach Aleksandar Tunchev.",
+  "news": "Novinata/focus: Sat 21 Nov 14:45 at Aleksandar Shalamanov (=12:45 UTC, matches). Arda travelled after final training; no absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.28,
+    "p": 0.736,
+    "why": "Slavia blank in 3 straight and 0 home wins in 4; Arda won both recent H2H. My p ~0.77 vs house 0.74."
+   }
+  ],
+  "avoid": "Arda 1X2 (away p 0.45); Under 3.5 p 0.78 < 0.82; Overs",
+  "confidence": 0.25,
+  "sources": [
+   "https://novinata.bg/sport/slaviq-priema-arda/",
+   "https://novinata.bg/sport/arda-otpatuva-za-sofiq-predi-gostuvaneto-na-slaviq/",
+   "https://vprognoze.ru/topforecast/8253453-slaviya-sofiya-arda-kyrdazhali-2026-11-21.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76640338",
+  "fx": "CR Vasco da Gama RJ v CR Flamengo RJ",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Women's (Carioca Feminino): no picks by rule. Vasco women's 12-0 outlier inflates form.",
+  "news": "No fixture information found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73959810",
+  "fx": "Morupule Wanderers v Tonota FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Botswana Premier League: Tonota 3rd (17 pts) and unbeaten in last 9 (4-5-0); Morupule 10th on 8 pts, home 2-4-0.",
+  "news": "BetExplorer: 21 Nov 15:00 CET (=14:00 UTC, matches). Standings from FootyStats.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.37,
+    "p": 0.6606,
+    "why": "Tonota unbeaten in 9 and 3rd vs 10th-placed Morupule who draw a lot at home. My p ~0.70 vs house 0.66."
+   }
+  ],
+  "avoid": "Under 2.5 p 0.62 fails gate; 12 DC excluded",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betexplorer.com/football/botswana/premier-league/",
+   "https://footystats.org/botswana/botswana-premier-league"
+  ]
+ },
+ {
+  "eid": "sr:match:75591890",
+  "fx": "Sao Paulo FC SP v Santos FC SP",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Women's: Paulistao Feminino play-in 2nd leg at neutral Brinco de Ouro, Campinas, 11:00 BRT (=14:00 UTC, matches). Sao Paulo won 1st leg 3-1 on 17 Nov; winner meets Ferroviaria/Palmeiras in semis.",
+  "news": "CNN Brasil / SPFC confirm date, time and that SP lead 3-1 on aggregate. Women's -> no picks.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks; SP's 2-goal cushion may mean a conservative approach",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cnnbrasil.com.br/esportes/futebol/paulistao-feminino-2026-entenda-como-funciona-a-fase-de-play-in/",
+   "https://www.saopaulofc.net/calendario-de-jogos-femininos/"
+  ]
+ },
+ {
+  "eid": "sr:match:76161558",
+  "fx": "FK Radnik Bijeljina v FK Velez Mostar",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Premijer liga BiH rd14. Velez away 1-0-4 scoring 0.6/game; Radnik home 2-1-1.",
+  "news": "sportske.ba: Sat 16:00 local in Bijeljina, MYTV (=15:00 UTC, matches); utakmice.me shows a generic 17:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.27,
+    "p": 0.7434,
+    "why": "Velez have won 1 of 5 away and score 0.6/game there; Radnik solid at home. My p ~0.77 vs house 0.74."
+   }
+  ],
+  "avoid": "Velez team Under 1.5 (p 0.74 fails Under gate); Over 2.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportske.ba/clanak/ovo-je-raspored-14-kola-premijer-lige-bih-sve-utakmice-u-tv-prijenosu/",
+   "https://utakmice.me/liga/premijer-liga-bih/raspored"
+  ]
+ },
+ {
+  "eid": "sr:match:76161556",
+  "fx": "FK Zeljeznicar Sarajevo v FK Borac Banja Luka",
+  "sport": "football",
+  "absences": "no current list found (Karamarko/S. Jovanovic suspensions were for an earlier round)",
+  "context": "Premijer liga BiH rd14, billed as the round's main derby (Zeljeznicar v champions Borac) -> no result-side. Borac 8-0-2 last 10; Zeljo lost 0-4 at home recently.",
+  "news": "sportske.ba: Sat 16:00 at Grbavica, Arena 1 Premium (=15:00 UTC, matches).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.29,
+    "p": 0.7422,
+    "why": "Borac every one of last 6 had 2+ goals; Zeljo 5 of last 6; 19/20 trend 0.95. My p ~0.79 vs house 0.74."
+   }
+  ],
+  "avoid": "Borac 1X2/DNB (big-club derby rule); Home +2.0",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportske.ba/clanak/ovo-je-raspored-14-kola-premijer-lige-bih-sve-utakmice-u-tv-prijenosu/",
+   "https://utakmice.me/liga/premijer-liga-bih/raspored"
+  ]
+ },
+ {
+  "eid": "sr:match:71998276",
+  "fx": "FK Spartak 1918 Varna v PFC Cherno More Varna",
+  "sport": "football",
+  "absences": "no news found; nostrabet expects Cherno More 4-2-3-1 with Tomov, Atanasov, Telesh, Panayotov, Lazarov, Celso Sidney",
+  "context": "Varna derby, Parva Liga rd15 at Spartak stadium -> no result-side. Cherno More 0-3-4 on the road per nostrabet.",
+  "news": "Preview only (nostrabet); no official squads or absences yet.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (derby); Under 3.5 p 0.76 < 0.82; Over 1.5 mixed (Cherno More 3 of last 6 had <2 goals)",
+  "confidence": 0.15,
+  "sources": [
+   "https://nostrabet.com/novini/spartak-varna-cherno-more-parva-liga-21-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73492058",
+  "fx": "FK Sloboda Tuzla v FK Rudar Kakanj",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Prva liga FBiH: Sloboda Tuzla 1st on 30 pts after 14 (won 3-0 at Capljina); Rudar Kakanj drew 1-1 v GOSK on 15 Nov, lost 0-6 and 1-5 recently.",
+  "news": "Standings/results only; fixture date not independently confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 1.16 and Over 1.5 1.17 below band; Home -1.5 trend 0.35; Unders p<0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nsfbih.ba/takmicenja/wwin-prva-liga-fbih",
+   "https://sportsport.ba/tabele-lige/fudbal/bosna-i-hercegovina/prva-liga-federacije-bih/2"
+  ]
+ },
+ {
+  "eid": "sr:match:73959814",
+  "fx": "Gaborone United v Sua Flamingoes",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Botswana PL top-of-table: Gaborone United 1st (21 pts from 7) v Sua Flamingoes 2nd (18 from 9); Sua concede 0.3/game.",
+  "news": "BetExplorer 18:00 CET (=17:00 UTC, matches SportyBet); FootyStats shows 9:00 (likely time-zone error) - flagged.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "top-two clash: result-sides fragile; 12 DC excluded",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/botswana/premier-league/",
+   "https://footystats.org/botswana/botswana-premier-league"
+  ]
+ },
+ {
+  "eid": "sr:match:76582874",
+  "fx": "Niteroiense v Goytacaz FC RJ",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Carioca B1 semifinal 2nd leg (promotion to A2 at stake). Goytacaz won the 1st leg 1-0 in Campos. Knockout -> no result-side except To Qualify/DNB (no To Qualify listed). Niteroiense home leg.",
+  "news": "FutebolInterior/Conexao Fluminense: Goytacaz 1-0 first leg; return 21 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (knockout); Under 3.5 p 0.78 < 0.82; Goytacaz DNB not in band",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futebolinterior.com.br/carioca-serrano-goytacaz-largam-frente/",
+   "https://folhadoleste.com.br/duque-de-caxias-x-serrano-semifinal-acesso-serie-b1-2026/",
+   "https://folhadoleste.com.br/goytacaz-x-niteroiense-semifinal-acesso-serie-b1-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76582870",
+  "fx": "Serrano FC RJ v Duque de Caxias FC RJ",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Carioca B1 semifinal 2nd leg: Serrano won 1st leg 3-2 away at Xerem; return at Atilio Marotti, Petropolis. Serrano advance with a draw; Duque need a 2-goal win. Serrano led the first phase (24 pts), home 4-1-0 conceding 0.2.",
+  "news": "FutebolInterior, Folha do Leste, Tribuna de Petropolis agree on 3-2 and venue.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.41,
+    "p": 0.6588,
+    "why": "Knockout - DNB only. Serrano home 4-1-0 conceding 0.2/game; Duque must chase, leaving space. My p ~0.70 vs house 0.66."
+   }
+  ],
+  "avoid": "Serrano 1X2 / DC (knockout rule); Serrano may sit on the draw",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.futebolinterior.com.br/carioca-serrano-goytacaz-largam-frente/",
+   "https://folhadoleste.com.br/duque-de-caxias-x-serrano-semifinal-acesso-serie-b1-2026/",
+   "https://folhadoleste.com.br/goytacaz-x-niteroiense-semifinal-acesso-serie-b1-2026/",
+   "https://tribunadepetropolis.com.br/noticias/serrano-vence-sao-cristovao-em-partida-de-ida-das-semis-do-carioca-b1/"
+  ]
+ },
+ {
+  "eid": "sr:match:76815960",
+  "fx": "CF Com Vida Saf RS v Real SC Tramandai RS",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Gaucho Serie B FINAL 1st leg at Futebol com Vida's CT, Viamao; 2nd leg 28 Nov in Tramandai. Both already promoted to the 2027 Divisao de Acesso. Real unbeaten all campaign (gf 4.0 last 10). Knockout -> no result-side.",
+  "news": "Jornal Semanario / Litoral na Rede: final 1st leg 21 Nov in Viamao, return 28 Nov 15:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.32,
+    "p": 0.7265,
+    "why": "Real's last 6 all had 3+ goals; Com Vida 5 of last 6 had 2+; both promoted so little to protect. Final 1st legs can be cagey -> my p ~0.75 (house 0.73)."
+   }
+  ],
+  "avoid": "result-sides (knockout); Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://jornalsemanario.com.br/real-sport-e-futebol-com-vida-saf-vencem-garantem-acesso-e-decidem-o-titulo-do-gauchao-serie-b/",
+   "https://litoralnarede.com.br/real-garante-volta-a-divisao-de-acesso-do-gauchao-e-busca-titulo-invicto-da-serie-b"
+  ]
+ },
+ {
+  "eid": "sr:match:75837334",
+  "fx": "AE Paracatu v Venda Nova FC MG",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Mineiro Segunda Divisao final hexagonal, last round; top 2 promoted to Modulo II 2027. Paracatu home 4-2-0 with 0 conceded.",
+  "news": "Hexagonal schedule lists Paracatu x Venda Nova at Frei Norberto; exact date not given in sources (30 days old).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no clear market; standings/stakes unknown",
+  "confidence": 0.1,
+  "sources": [
+   "https://novatvaltotiete.com.br/noticia/23422/segunda-divisao-do-mineiro-veja-tabela-do-hexagonal-final.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75837336",
+  "fx": "Nacional AC Muriae MG v Novo Esporte MG",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Mineiro Segunda Divisao final hexagonal, last round (promotion at stake). Novo Esporte averages are inflated by a 23-1 win.",
+  "news": "Hexagonal schedule lists Nacional de Muriae x Novo Esporte at Soares de Azevedo; date not given.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything: distorted data, stakes unknown",
+  "confidence": 0.1,
+  "sources": [
+   "https://novatvaltotiete.com.br/noticia/23422/segunda-divisao-do-mineiro-veja-tabela-do-hexagonal-final.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76809646",
+  "fx": "Botafogo FR RJ v CR Vasco da Gama RJ",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U20 Carioca FINAL 1st leg at Nilton Santos, 15:00 BRT (=18:00 UTC, matches); return 28 Nov at Vasco. Youth -> no picks.",
+  "news": "FFERJ / ogol: Vasco and Botafogo knocked out Flamengo and Fluminense in the semis on 14 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth final: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fferj.com.br/noticias/vasco-e-botafogo-vao-decidir-o-carioca-sub-20",
+   "https://www.ogol.com.br/equipe/vasco/27266"
+  ]
+ },
+ {
+  "eid": "sr:match:76585468",
+  "fx": "Santa Cruz FC PE v Ipojuca FC PE",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U20 Pernambucano semifinal (Santa Cruz v Ipojuca); youth.",
+  "news": "Data conflict: Diario de Pernambuco had the 1st leg on 11 Nov; Sofascore lists the tie from 24 Oct; no source confirms a 21 Nov leg.",
+  "veto": true,
+  "veto_reason": "date conflict between sources; youth",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diariodepernambuco.com.br/esportes-dp/santa-cruz/2026/10/11726979-pernambucano-sub-20-ipojuca-elimina-nautico-e-se-junta-a-santa-cruz-sport-e-retro-nas-semifinais.html",
+   "https://www.sofascore.com/football/match/ipojuca-u20-santa-cruz-u20/dpTbsirYc"
+  ]
+ },
+ {
+  "eid": "sr:match:74201260",
+  "fx": "Real Clube Itumbiara GO v Itumbiara EC GO",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Goiano 3a Divisao final round, local classico at Estadio JK, 15:30 BRT (=18:30 UTC, matches). Real Clube reportedly need a 2+ goal win to take the title from Atletico Itumbiara; both promoted.",
+  "news": "Esporte Goiano/FutebolInterior: title decider. Possible identity conflict: sources describe the leader as 'Atletico Itumbiara' (0-0 with Real Clube on 12 Oct) while SportyBet lists 'Itumbiara EC'; SR form (Itumbiara EC 4-0-6, ga 3.4) does not fit a leader.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby -> no result-side; opponent identity unclear, so no Over pick despite Real needing a 2-goal win",
+  "confidence": 0.1,
+  "sources": [
+   "https://esportegoiano.com.br/ultima-rodada-da-terceira-divisao-comeca-nesta-sexta-campeao-sera-conhecido-no-sabado",
+   "https://www.futebolinterior.com.br/go-2026-temporada-termina-nesta-semana/"
+  ]
+ },
+ {
+  "eid": "sr:match:75449092",
+  "fx": "Academia del Balompie Boliviano v Club Aurora",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Bolivia Division Profesional fecha 26 at Municipal de El Alto (altitude ~4,000 m). ABB on 7 straight league defeats (L10 2-0-8, home 0-0-3); Aurora 6th-ish.",
+  "news": "Wikipedia/ESPN: 21 Nov 17:15 local (=21:15 UTC, matches). Forebet: ABB 7 consecutive defeats.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Away (+1.0)",
+    "odds": 1.27,
+    "p": 0.752,
+    "why": "ABB lost 7 in a row; Aurora only lose this if ABB win by 2+ (refund on exactly 1). Altitude helps ABB a little. My p ~0.80 vs house 0.75."
+   }
+  ],
+  "avoid": "Over 1.5 below band; ABB DNB",
+  "confidence": 0.3,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Bolivia_2026",
+   "https://www.espn.com/soccer/team/fixtures/_/id/6046/league/bol.1/aurora",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-bolivia/division-profesional"
+  ]
+ },
+ {
+  "eid": "sr:match:75449094",
+  "fx": "Oriente Petrolero v Independiente Petrolero",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Bolivia fecha 26 at Ramon Tahuichi Aguilera, 19:30 local (=23:30 UTC, matches). Oriente home 4-2-0; Independiente away 0-2-3 scoring 0.6.",
+  "news": "Wikipedia/ESPN confirm date and time.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8128,
+    "why": "Oriente unbeaten at home (4-2-0); Independiente winless away (0-2-3); draw refunds. My p ~0.84 vs house 0.81."
+   }
+  ],
+  "avoid": "Home -1.5 (trend 0.20); Over 2.5 (trend 0.35)",
+  "confidence": 0.3,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Primera_Divisi%C3%B3n_de_Bolivia_2026",
+   "https://www.espn.com/soccer/team/fixtures/_/id/6046/league/bol.1/aurora",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-bolivia/division-profesional"
+  ]
+ },
+ {
+  "eid": "sr:match:66887196",
+  "fx": "Chapecoense SC v Cruzeiro EC MG",
+  "sport": "football",
+  "absences": "Cruzeiro: Luis Sinisterra, Gabriel Pec (injured); Gerson and Kaio Jorge (suspended, 3rd yellow); doubts William, Lucas Romero (or Joao Marcelo, Felipe Morais per another source). Chapecoense: Rafael Carvalheira (ACL), Mauricio Garcez (injured), Giovanni Augusto (suspended); doubts Bruno Pacheco, Heitor, Yago Felipe, Dylan Borrero. Arroyo and Wesley back from international duty.",
+  "context": "Brasileirao round 36, Arena Conda 21:00 BRT (=00:00 UTC 22 Nov, matches). Chapecoense already relegated (L10 1-2-7). Cruzeiro L10 8-0-2. Sources disagree on Chape's coach.",
+  "news": "noataque/ogol/ESPN previews dated 20-21 Nov agree on date and main absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.19,
+    "p": 0.8122,
+    "why": "Relegated Chape (1 win in 10) v Cruzeiro (8 in 10); the draw refunds. Cruzeiro lose Gerson, Kaio Jorge, Sinisterra and Pec, so no 1X2/handicap. My p ~0.81 (house 0.81)."
+   }
+  ],
+  "avoid": "Cruzeiro 1X2 (away p 0.66 < 0.75); Home +2.5 (fav p >= 0.60); Over 2.5 (four Cruzeiro attackers/creators out)",
+  "confidence": 0.3,
+  "sources": [
+   "https://noataque.com.br/futebol/brasileirao-serie-a/time/cruzeiro/noticia/2026/11/20/chapecoense-x-cruzeiro-desfalques-e-provaveis-escalacoes-pelo-brasileiro/",
+   "https://www.ogol.com.br/noticias/chapecoense-x-cruzeiro-horario-escalacoes-e-onde-assistir-brasileirao-21-11/1263649",
+   "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17536521/chapecoense-x-cruzeiro-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao"
+  ]
+ }
+]

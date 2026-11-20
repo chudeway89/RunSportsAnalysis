@@ -1,0 +1,691 @@
+[
+ {
+  "eid": "sr:match:72416548",
+  "fx": "Stars Kobe v Red Eagles Hokkaido",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Red Eagles top of Asia League (9-3-1, 27 pts per Eliteprospects), Stars Kobe (2nd-season club) near bottom (3 pts); Kobe 1-9 last 10, GA 4.7; Hokkaido beat Yokohama 7-2 last game.",
+  "news": "Fixture confirmed Sat 21 Nov 05:00 UTC (14:00 JST); no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.53,
+    "p": 0.6153,
+    "why": "Red Eagles team Over 3.5 (reg.): Kobe concede 4.7/game (4.67 at home), H2H 3-0,5-3; Hokkaido scored 7 last game. Own p 0.64 vs house 0.615."
+   }
+  ],
+  "avoid": "Away 1X2 1.28 (p 0.737 < 0.75 away rule); Kobe +2.5 coin-flip.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/ice-hockey/team/red-eagles-hokkaido/402365",
+   "https://www.eliteprospects.com/league/asia-league",
+   "https://www.sofascore.com/ice-hockey/team/tohoku-free-blades/264908",
+   "https://www.flashscore.com/team/tohoku-free-blades/O6VEU06E/"
+  ]
+ },
+ {
+  "eid": "sr:match:72416550",
+  "fx": "Tohoku Free Blades v Yokohama Grits",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Tohoku (2nd, ~21 pts) v Yokohama; even form (6-4 v 5-5). Asia League plays weekend two-game sets.",
+  "news": "Sofascore lists 21 Nov 05:00 UTC, Flashscore lists Tohoku-Yokohama on 22.11 and 28.11 - date conflict between sources; no team news.",
+  "veto": true,
+  "veto_reason": "Date conflict: Flashscore lists the fixture on 22.11 (and 28.11), Sofascore/board on 21.11.",
+  "picks": [],
+  "avoid": "All markets near coin-flip; date conflict.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/ice-hockey/team/red-eagles-hokkaido/402365",
+   "https://www.eliteprospects.com/league/asia-league",
+   "https://www.sofascore.com/ice-hockey/team/tohoku-free-blades/264908",
+   "https://www.flashscore.com/team/tohoku-free-blades/O6VEU06E/"
+  ]
+ },
+ {
+  "eid": "sr:match:73708554",
+  "fx": "HC Norilsk v HC Kaluga",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Norilsk 7-3 last 10 (3-1 at home, 3.75 GF at home); Kaluga 1-3 away, only 1.25 GF away; long trip to Arctic Norilsk for Kaluga. Only H2H Norilsk 4-2.",
+  "news": "Fixture confirmed 09:00 MSK at Arktika arena; previews favour Norilsk; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.36,
+    "p": 0.7102,
+    "why": "Norilsk team Over 1.5 (reg.): 9/10 recent games cleared it, 3.75 GF at home, H2H 4 goals; Kaluga concede 2.5 away after long travel. Own p 0.75 vs house 0.71."
+   }
+  ],
+  "avoid": "Norilsk 1X2 at 2.0 (OT risk); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.vseprosport.ru/news/2026/11/20/norilsk-hc-kaluga-prognoz-kf-1-39-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://stavkiprognozy.ru/prognozy/hockey/vkhl/sp_prognoz-gornyak-ugmk-verkhnyaya-pyshma-dizel-penza-21-noyabrya-2026",
+   "https://www.vseprosport.ru/news/2026/11/20/dinamo-s-pb-jugra-prognoz-kf-1-23-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vseprosport.ru/news/2026/11/20/ska-vmf-rubin-prognoz-kf-1-22-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vhlru.ru/calendar/311/0/5439"
+  ]
+ },
+ {
+  "eid": "sr:match:73708556",
+  "fx": "Chelmet Chelyabinsk v Kristall Saratov",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Chelmet 5-5, Kristall 5-5; Kristall away games very low-scoring (1.0 GF / 1.25 GA, results 1-0, 0-1). Name: board 'Kristall Saratov' = calendar 'Kristall S' (same club).",
+  "news": "Fixture confirmed 11:00 MSK; only betting previews, no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=-2.5",
+    "desc": "Away (+2.5)",
+    "odds": 1.2,
+    "p": 0.8076,
+    "why": "Kristall +2.5 incl. OT: Kristall's away games decided by 1 goal (1-0, 0-1), trend 0.9; home favourite only p 0.58 so not a rout profile. Own p 0.83 vs house 0.81."
+   }
+  ],
+  "avoid": "Chelmet 1X2 (p 0.46); Overs given Kristall's low away totals.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.vseprosport.ru/news/2026/11/20/norilsk-hc-kaluga-prognoz-kf-1-39-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://stavkiprognozy.ru/prognozy/hockey/vkhl/sp_prognoz-gornyak-ugmk-verkhnyaya-pyshma-dizel-penza-21-noyabrya-2026",
+   "https://www.vseprosport.ru/news/2026/11/20/dinamo-s-pb-jugra-prognoz-kf-1-23-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vseprosport.ru/news/2026/11/20/ska-vmf-rubin-prognoz-kf-1-22-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vhlru.ru/calendar/311/0/5439"
+  ]
+ },
+ {
+  "eid": "sr:match:73708552",
+  "fx": "Gornyak-UGMK Verkhnyaya Pyshma v Dizel Penza",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Dizel Penza in crisis: 1-9 last 10, GA 3.6; Gornyak 4-6 but home favourite.",
+  "news": "Previews call Gornyak a clear favourite with Dizel 'going through hard times'; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.3,
+    "p": 0.7426,
+    "why": "Gornyak team Over 1.5 (reg.): Dizel concede 3.6/game and 3.25 away, Gornyak cleared it in 85% of last 10. Own p 0.78 vs house 0.74."
+   }
+  ],
+  "avoid": "Gornyak 1X2 regulation (home 2-4 at home recently).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.vseprosport.ru/news/2026/11/20/norilsk-hc-kaluga-prognoz-kf-1-39-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://stavkiprognozy.ru/prognozy/hockey/vkhl/sp_prognoz-gornyak-ugmk-verkhnyaya-pyshma-dizel-penza-21-noyabrya-2026",
+   "https://www.vseprosport.ru/news/2026/11/20/dinamo-s-pb-jugra-prognoz-kf-1-23-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vseprosport.ru/news/2026/11/20/ska-vmf-rubin-prognoz-kf-1-22-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vhlru.ru/calendar/311/0/5439"
+  ]
+ },
+ {
+  "eid": "sr:match:73708558",
+  "fx": "HK Dinamo St. Petersburg v HC Yugra Khanty-Mansiysk",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Dinamo SPb lost 5 of last 6 (1.9 GF); Yugra won 5 of last 6 with 18 goals, 4-2 away.",
+  "news": "Fixture 13:00 MSK confirmed; previews favour Yugra on form; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.31,
+    "p": 0.7129,
+    "why": "Yugra or draw in regulation: SPb lost 5/6 (scored ≤2 in 5 of 6), Yugra 5/6 wins. Own p 0.75 vs house 0.713."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.33,
+    "p": 0.7291,
+    "why": "Yugra team Over 1.5 (reg.): 3.33 GF away, 18 goals in last 6; trend 0.75. Own p 0.75 vs house 0.73."
+   }
+  ],
+  "avoid": "Yugra regulation 1X2 (away rule p<0.75); Overs on match total (SPb low-scoring).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.vseprosport.ru/news/2026/11/20/norilsk-hc-kaluga-prognoz-kf-1-39-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://stavkiprognozy.ru/prognozy/hockey/vkhl/sp_prognoz-gornyak-ugmk-verkhnyaya-pyshma-dizel-penza-21-noyabrya-2026",
+   "https://www.vseprosport.ru/news/2026/11/20/dinamo-s-pb-jugra-prognoz-kf-1-23-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vseprosport.ru/news/2026/11/20/ska-vmf-rubin-prognoz-kf-1-22-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vhlru.ru/calendar/311/0/5439"
+  ]
+ },
+ {
+  "eid": "sr:match:72116548",
+  "fx": "Kiekko-Espoo v Assat Pori",
+  "sport": "ice hockey",
+  "absences": "Assat: fan injury list (Aug, likely stale) had Knihti, Lipiainen, Heinila out - unconfirmed",
+  "context": "Mid-table vs lower-mid; even form.",
+  "news": "K-Espoo v Assat 12:00 UTC (14:00 local) confirmed by liiga.fi; no current injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism; all markets near house.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.liiga.fi/en/schedule?kausi=2026-2027&sarja=runkosarja",
+   "https://www.suomikiekko.com/2026/10/lukolta-karuja-loukkaantumisuutisia-kaksi-pelaajaa-pitkaan-sivussa/",
+   "https://keskustelu.jatkoaika.com/threads/liigan-poissaolot-2026%E2%80%932027.84143/"
+  ]
+ },
+ {
+  "eid": "sr:match:74117378",
+  "fx": "HS Riga v HK Liepaja",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "HS Riga/Dinaburga 3-7 last 10, conceding 5.4/game (lost 0-10, 1-8, 3-10 to Liepaja). Liepaja 6-4, 4-0 recently away.",
+  "news": "Fixture confirmed 16:00 local (14:00 UTC) on 21.11 by Sportacentrs/Betexplorer; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.8069,
+    "why": "Liepaja regulation win: beat HS Riga 10-3 in the H2H, Riga concede 5.4/game; away p 0.807 ≥ 0.75. Own p 0.83."
+   }
+  ],
+  "avoid": "Liepaja team totals (trend below house).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.betexplorer.com/hockey/latvia/optibet-hokeja-liga/fixtures/",
+   "https://sportacentrs.com/hokejs/latvijas_cempionats/17112026-zemgale_ipasas_formas_svines_latviju_un_u",
+   "https://www.flashscore.com/hockey/latvia/optibet-hokeja-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72124126",
+  "fx": "Gjovik Mammuts v Kongsvinger IL",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Gjovik 8-2 (4.1 GF), Kongsvinger 3-7 (lost 0-8 at home). Norwegian 2nd tier (HockeyLiga1).",
+  "news": "No news found; league renamed HockeyLiga1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Gjovik team O3.5 at 1.27 (trend 0.65 < house 0.75); no news coverage.",
+  "confidence": 0.15,
+  "sources": [
+   "https://no.wikipedia.org/wiki/HockeyLiga1"
+  ]
+ },
+ {
+  "eid": "sr:match:73708560",
+  "fx": "Neftyanik Almetyevsk v Dinamo-Altai Barnaul",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Neftyanik 8-2 last 10 but low-event (2.6 GF / 2.0 GA); Dinamo-Altai 6-4.",
+  "news": "Fixture 17:00 MSK confirmed in schedule; no previews or team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.34,
+    "p": 0.7198,
+    "why": "Over 3.5 regulation: 80% trend across both sides' last 10 (Altai games 5.3 avg); Own p 0.74 vs house 0.72."
+   }
+  ],
+  "avoid": "Neftyanik regulation 1X2 at 1.60 (p 0.60).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.vseprosport.ru/news/2026/11/20/norilsk-hc-kaluga-prognoz-kf-1-39-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://stavkiprognozy.ru/prognozy/hockey/vkhl/sp_prognoz-gornyak-ugmk-verkhnyaya-pyshma-dizel-penza-21-noyabrya-2026",
+   "https://www.vseprosport.ru/news/2026/11/20/dinamo-s-pb-jugra-prognoz-kf-1-23-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vseprosport.ru/news/2026/11/20/ska-vmf-rubin-prognoz-kf-1-22-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vhlru.ru/calendar/311/0/5439"
+  ]
+ },
+ {
+  "eid": "sr:match:73708562",
+  "fx": "Ska-Vmf v Rubin Tyumen",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "SKA-VMF 7th (34 pts/23 gp), 8-2 last 10, GA only 1.0; Rubin 24th (21 pts), lost 7 of 8 before a recent win v Dinamo.",
+  "news": "Previews favour SKA-VMF; Rubin bottom group; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.7009,
+    "why": "SKA-VMF win incl. OT: 8-2 last 10, concede 1.0/game; Rubin 24th, 7 losses in 8 before last win. Own p 0.74 vs house 0.70."
+   }
+  ],
+  "avoid": "SKA team totals (low scoring, 2.5 GF).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.vseprosport.ru/news/2026/11/20/norilsk-hc-kaluga-prognoz-kf-1-39-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://stavkiprognozy.ru/prognozy/hockey/vkhl/sp_prognoz-gornyak-ugmk-verkhnyaya-pyshma-dizel-penza-21-noyabrya-2026",
+   "https://www.vseprosport.ru/news/2026/11/20/dinamo-s-pb-jugra-prognoz-kf-1-23-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vseprosport.ru/news/2026/11/20/ska-vmf-rubin-prognoz-kf-1-22-i-stavki-na-match-vhl-21-noyabrya-2026-goda-ot-vps",
+   "https://www.vhlru.ru/calendar/311/0/5439"
+  ]
+ },
+ {
+  "eid": "sr:match:74117382",
+  "fx": "Hockey Punks Vilnius v HK Mogo/RSU",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Punks Vilnius 2-8, GA 5.9 (lost 0-11, 4-10); Mogo/RSU 2nd in league; H2H 9-1 Mogo.",
+  "news": "Fixture confirmed 16:30 local at Pramogu arena Vilnius; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mogo win priced below 1.18; Mogo team O5.5 trend 0.4 < house.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/hockey/latvia/optibet-hokeja-liga/fixtures/",
+   "https://sportacentrs.com/hokejs/latvijas_cempionats/17112026-zemgale_ipasas_formas_svines_latviju_un_u",
+   "https://www.flashscore.com/hockey/latvia/optibet-hokeja-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72116550",
+  "fx": "Jukurit Mikkeli v TPS Turku",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Jukurit 6-4, GA 2.0; TPS 5-5 but concede 3.6/game (2-7, 3-6 recent).",
+  "news": "Fixture 15:00 UTC (17:00 local) confirmed; no lineup/injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.31,
+    "p": 0.7411,
+    "why": "Jukurit team Over 1.5 (reg.): TPS concede 3.6/game, Jukurit cleared it in 9 of last 10. Own p 0.77 vs house 0.74."
+   }
+  ],
+  "avoid": "Result sides (both ~even).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.liiga.fi/en/schedule?kausi=2026-2027&sarja=runkosarja",
+   "https://www.suomikiekko.com/2026/10/lukolta-karuja-loukkaantumisuutisia-kaksi-pelaajaa-pitkaan-sivussa/",
+   "https://keskustelu.jatkoaika.com/threads/liigan-poissaolot-2026%E2%80%932027.84143/"
+  ]
+ },
+ {
+  "eid": "sr:match:72116552",
+  "fx": "KalPa Hockey v HIFK Helsinki",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "KalPa 4-6 and leaky lately (3-7, 1-4, 1-4); HIFK 6-4.",
+  "news": "Fixture confirmed; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.26,
+    "p": 0.7682,
+    "why": "Over 3.5 regulation: trend 0.85 across both sides, KalPa conceding 2.9 with recent 3-7/1-4. Own p 0.78 vs house 0.77."
+   }
+  ],
+  "avoid": "KalPa home DC (trend 0.4).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.liiga.fi/en/schedule?kausi=2026-2027&sarja=runkosarja",
+   "https://www.suomikiekko.com/2026/10/lukolta-karuja-loukkaantumisuutisia-kaksi-pelaajaa-pitkaan-sivussa/",
+   "https://keskustelu.jatkoaika.com/threads/liigan-poissaolot-2026%E2%80%932027.84143/"
+  ]
+ },
+ {
+  "eid": "sr:match:72116554",
+  "fx": "Karpat Oulu v Jokerit Helsinki",
+  "sport": "ice hockey",
+  "absences": "Jokerit: Olli Juolevi listed injured in an off-season forum thread (stale, unconfirmed)",
+  "context": "Karpat 5-5 (2.9 GF / 3.0 GA), Jokerit 3-7 with GA 3.3; both high-event.",
+  "news": "Fixture confirmed; no current injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.5,
+    "p": 0.6402,
+    "why": "Over 4.5 regulation: combined ~6 goals/game in both sides' last 10 (trend 0.75); Own p 0.67 vs house 0.64."
+   }
+  ],
+  "avoid": "Result sides.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.liiga.fi/en/schedule?kausi=2026-2027&sarja=runkosarja",
+   "https://www.suomikiekko.com/2026/10/lukolta-karuja-loukkaantumisuutisia-kaksi-pelaajaa-pitkaan-sivussa/",
+   "https://keskustelu.jatkoaika.com/threads/liigan-poissaolot-2026%E2%80%932027.84143/"
+  ]
+ },
+ {
+  "eid": "sr:match:72116556",
+  "fx": "Lukko Rauma v HPK Hameenlinna",
+  "sport": "ice hockey",
+  "absences": "Lukko: D Virtanen out several months (surgery), Hamalainen out until February; Antti Saarela expected back weeks 47-48",
+  "context": "Lukko 10-0 last 10 (3.8 GF / 1.6 GA) despite injuries; HPK 4-6, 2.0 GF.",
+  "news": "Suomikiekko (Oct): two Lukko players long-term out, Saarela returning around now; fixture confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.7496,
+    "why": "Lukko win incl. OT: 10 straight wins, +22 goal diff in last 10, HPK score 2.0; injuries already priced in that run, Saarela may return. Own p 0.78 vs house 0.75."
+   }
+  ],
+  "avoid": "Lukko -2.5/1X2 regulation at 1.50 (OT risk).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.liiga.fi/en/schedule?kausi=2026-2027&sarja=runkosarja",
+   "https://www.suomikiekko.com/2026/10/lukolta-karuja-loukkaantumisuutisia-kaksi-pelaajaa-pitkaan-sivussa/",
+   "https://keskustelu.jatkoaika.com/threads/liigan-poissaolot-2026%E2%80%932027.84143/"
+  ]
+ },
+ {
+  "eid": "sr:match:72116558",
+  "fx": "Vaasan Sport v Pelicans Lahti",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Both 4-6; Pelicans conceding 3.0 and losing heavily (0-3,1-4,2-5).",
+  "news": "Fixture confirmed; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.liiga.fi/en/schedule?kausi=2026-2027&sarja=runkosarja",
+   "https://www.suomikiekko.com/2026/10/lukolta-karuja-loukkaantumisuutisia-kaksi-pelaajaa-pitkaan-sivussa/",
+   "https://keskustelu.jatkoaika.com/threads/liigan-poissaolot-2026%E2%80%932027.84143/"
+  ]
+ },
+ {
+  "eid": "sr:match:72117468",
+  "fx": "Imatran Kettera v TuTo Hockey Turku",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Finland Mestis (2nd tier).",
+  "news": "Mestis/club sites list the game 21.11 17:00 local, but Flashscore and suomikiekko group these three pairings under 25.11; Pyry site also lists Pyry v Ketterä same day.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (21.11 vs 25.11).",
+  "picks": [],
+  "avoid": "Whole Mestis round vetoed on date conflict.",
+  "confidence": 0.1,
+  "sources": [
+   "https://mestis.fi/fi/joukkueet/k-vantaa/otteluohjelma",
+   "https://www.flashscore.fi/jaakiekko/suomi/mestis/",
+   "https://pyryhockey.com/",
+   "https://www.suomikiekko.com/mestis/"
+  ]
+ },
+ {
+  "eid": "sr:match:72117470",
+  "fx": "Kiekko-Vantaa v Kokkolan Hermes",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Finland Mestis (2nd tier).",
+  "news": "Mestis/club sites list the game 21.11 17:00 local, but Flashscore and suomikiekko group these three pairings under 25.11; Pyry site also lists Pyry v Ketterä same day.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (21.11 vs 25.11).",
+  "picks": [],
+  "avoid": "Whole Mestis round vetoed on date conflict.",
+  "confidence": 0.1,
+  "sources": [
+   "https://mestis.fi/fi/joukkueet/k-vantaa/otteluohjelma",
+   "https://www.flashscore.fi/jaakiekko/suomi/mestis/",
+   "https://pyryhockey.com/",
+   "https://www.suomikiekko.com/mestis/"
+  ]
+ },
+ {
+  "eid": "sr:match:72117472",
+  "fx": "Pyry v Rovaniemen Kiekko",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Finland Mestis (2nd tier).",
+  "news": "Mestis/club sites list the game 21.11 17:00 local, but Flashscore and suomikiekko group these three pairings under 25.11; Pyry site also lists Pyry v Ketterä same day.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (21.11 vs 25.11).",
+  "picks": [],
+  "avoid": "Whole Mestis round vetoed on date conflict.",
+  "confidence": 0.1,
+  "sources": [
+   "https://mestis.fi/fi/joukkueet/k-vantaa/otteluohjelma",
+   "https://www.flashscore.fi/jaakiekko/suomi/mestis/",
+   "https://pyryhockey.com/",
+   "https://www.suomikiekko.com/mestis/"
+  ]
+ },
+ {
+  "eid": "sr:match:74117380",
+  "fx": "Airwell Energija v HK Zemgale/Llu",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Energija 2-8 (GA 4.0) v Zemgale/LBTU 6-4 (4.0 GF); Zemgale wearing special Latvia-day kits this week.",
+  "news": "Fixture 17:00 local at Elektrenai confirmed; Energija also play Mogo 22.11 (back-to-back).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No priced market in range with an edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/hockey/latvia/optibet-hokeja-liga/fixtures/",
+   "https://sportacentrs.com/hokejs/latvijas_cempionats/17112026-zemgale_ipasas_formas_svines_latviju_un_u",
+   "https://www.flashscore.com/hockey/latvia/optibet-hokeja-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72124128",
+  "fx": "Manglerud Star Oslo v Lorenskog IK",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Manglerud 6-4 v Lorenskog 5-5; Lorenskog high-variance (8-0, 8-1 wins, 1-4 losses).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lorenskog favourite trend 0.45 < house 0.615.",
+  "confidence": 0.1,
+  "sources": [
+   "https://no.wikipedia.org/wiki/HockeyLiga1"
+  ]
+ },
+ {
+  "eid": "sr:match:72124132",
+  "fx": "Ski Ishockey Elite v Comet",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Comet 9-1 last 10 (4.7 GF, 10-2, 9-2 away wins); Ski 2-8 (1.4 GF, 3.7 GA).",
+  "news": "No news found for HockeyLiga1 round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.19,
+    "p": 0.7996,
+    "why": "Comet regulation win: 9-1 last 10, +29 goal diff, Ski score 1.4/game; away p 0.80 ≥ 0.75. Own p 0.83."
+   }
+  ],
+  "avoid": "Comet team totals.",
+  "confidence": 0.25,
+  "sources": [
+   "https://no.wikipedia.org/wiki/HockeyLiga1"
+  ]
+ },
+ {
+  "eid": "sr:match:74117376",
+  "fx": "HC Panter v Kyiv Capitals",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Kyiv Capitals top (12 W in 15), 6.0 GF last 10; Panter 6-4, played at Zemgale 17 Nov; previous H2H Kyiv won 3-2 (close).",
+  "news": "Fixture 18:00 local confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kyiv 1X2 1.32 (p 0.71 < 0.75); 406 Away 1.18 at house with close H2H.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/hockey/latvia/optibet-hokeja-liga/fixtures/",
+   "https://sportacentrs.com/hokejs/latvijas_cempionats/17112026-zemgale_ipasas_formas_svines_latviju_un_u",
+   "https://www.flashscore.com/hockey/latvia/optibet-hokeja-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:73579866",
+  "fx": "EK Zeller Eisbaren v HC Gherdeina",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Zell am See 8-2 last 10 (4.0 GF); Gherdeina (defending champion) still without an away win this season, GA 4.5; last H2H 8-2 Zell.",
+  "news": "Suedtirolnews preview: Gherdeina still seeking first away win; 18:00 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7967,
+    "why": "Zell win incl. OT: Gherdeina winless away this season, H2H 8-2, Zell 8-2 form. Own p 0.82 vs house 0.80."
+   }
+  ],
+  "avoid": "Regulation 1X2 at 1.36 (OT risk).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.suedtirolnews.it/sport/wiedererstarktes-cortina-gastiert-bei-tabellenfuehrer-jesenice",
+   "https://alps.hockey/en/season/games",
+   "https://ecrbs.redbulls.com/de/news/261119-SGCvsRBJ",
+   "https://italia.hockey/2026/11/11/alps-hockey-league-giovedi-trasferte-per-unterland-broncos-e-cortina-venerdi-il-match-clou-a-jesenice-la-capolista-affronta-il-merano/"
+  ]
+ },
+ {
+  "eid": "sr:match:73579868",
+  "fx": "Jesenice v SG Cortina",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Jesenice league leaders but lost both meetings with Cortina this season; Cortina 'resurgent'.",
+  "news": "Suedtirolnews: 'Wiedererstarktes Cortina gastiert bei Tabellenführer Jesenice'; Jesenice lost twice to Cortina.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Jesenice result sides (fragile favourite v Cortina).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.suedtirolnews.it/sport/wiedererstarktes-cortina-gastiert-bei-tabellenfuehrer-jesenice",
+   "https://alps.hockey/en/season/games",
+   "https://ecrbs.redbulls.com/de/news/261119-SGCvsRBJ",
+   "https://italia.hockey/2026/11/11/alps-hockey-league-giovedi-trasferte-per-unterland-broncos-e-cortina-venerdi-il-match-clou-a-jesenice-la-capolista-affronta-il-merano/"
+  ]
+ },
+ {
+  "eid": "sr:match:72176042",
+  "fx": "HPK Hameenlinna U20 v Tappara",
+  "sport": "ice hockey",
+  "absences": "youth fixture - not researched for absences",
+  "context": "U20 SM-sarja: HPK U20 (9th) v Tappara U20 (7th); met 14 Nov (HPK won 4-2 away per EP). Not a mismatch.",
+  "news": "Eliteprospects lists 21.11 18:00 UTC, consistent with board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth: no result sides; not a mismatch for goals.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eliteprospects.com/team/2468/hpk-u20/schedule",
+   "https://www.sofascore.com/ice-hockey/match/hpk-u20-tappara-tampere-u20/oVfcsjagc"
+  ]
+ },
+ {
+  "eid": "sr:match:73579870",
+  "fx": "Red Bull Hockey Juniors v HC Asiago",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "RB Juniors (development/reserve side, just outside Master Round places) v Asiago (2nd).",
+  "news": "Red Bull site confirms 19:15 local at Eisarena Salzburg.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side, no clear mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.suedtirolnews.it/sport/wiedererstarktes-cortina-gastiert-bei-tabellenfuehrer-jesenice",
+   "https://alps.hockey/en/season/games",
+   "https://ecrbs.redbulls.com/de/news/261119-SGCvsRBJ",
+   "https://italia.hockey/2026/11/11/alps-hockey-league-giovedi-trasferte-per-unterland-broncos-e-cortina-venerdi-il-match-clou-a-jesenice-la-capolista-affronta-il-merano/"
+  ]
+ },
+ {
+  "eid": "sr:match:73579872",
+  "fx": "HC Merano v EC KAC Future Team",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Merano 6th (games in hand) v KAC Future Team (reserve side, 12th).",
+  "news": "Italia Hockey mid-Nov preview gives table positions; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve opponent, Merano 3-7 last 10 per data - conflicting form; no pick.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.suedtirolnews.it/sport/wiedererstarktes-cortina-gastiert-bei-tabellenfuehrer-jesenice",
+   "https://alps.hockey/en/season/games",
+   "https://ecrbs.redbulls.com/de/news/261119-SGCvsRBJ",
+   "https://italia.hockey/2026/11/11/alps-hockey-league-giovedi-trasferte-per-unterland-broncos-e-cortina-venerdi-il-match-clou-a-jesenice-la-capolista-affronta-il-merano/"
+  ]
+ },
+ {
+  "eid": "sr:match:73579874",
+  "fx": "Khl Sisak v EC Die Adler Kitzbuhel",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Sisak (7th in late Oct, 4.2 GF) v Kitzbuhel (5th); Merano beat Kitzbuhel 4-0 last week.",
+  "news": "No injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No priced market with an edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.suedtirolnews.it/sport/wiedererstarktes-cortina-gastiert-bei-tabellenfuehrer-jesenice",
+   "https://alps.hockey/en/season/games",
+   "https://ecrbs.redbulls.com/de/news/261119-SGCvsRBJ",
+   "https://italia.hockey/2026/11/11/alps-hockey-league-giovedi-trasferte-per-unterland-broncos-e-cortina-venerdi-il-match-clou-a-jesenice-la-capolista-affronta-il-merano/"
+  ]
+ }
+]

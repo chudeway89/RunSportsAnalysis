@@ -1,0 +1,662 @@
+[
+ {
+  "eid": "sr:match:74779094",
+  "fx": "Merrimack Warriors v Boston University Terriers",
+  "sport": "ice hockey",
+  "absences": "Merrimack lost 2026 HE tournament MVP goalie Max Lundgren (signed with Bruins); no other named absences found",
+  "context": "Hockey East, Fri 7pm ET Lawler Rink (date/venue match). BU (preseason HE favourite) played midweek (Wed Nov 18, Murtagh 2 goals) so short rest",
+  "news": "Hockey East gameday confirms BU at Merrimack Fri Nov 20 7pm; Merrimack's goaltending is the open question after Lundgren left",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=5.5",
+    "desc": "Over 5.5",
+    "odds": 1.64,
+    "p": 0.575972,
+    "why": "Merrimack in goal without Lundgren; last-10 combined GF 7.7, trend 0.65 v house 0.58; my p 0.60 - marginal"
+   }
+  ],
+  "avoid": "Result sides (coin-flip, house 0.49/0.51); integer Over 6",
+  "confidence": 0.2,
+  "sources": [
+   "https://hockeyeastonline.com/men/gameday/index.php",
+   "https://www.si.com/college/bostoncollege/hockey-hub/can-reigning-hockey-east-champion-merrimack-do-the-spectacular-again-season-preview"
+  ]
+ },
+ {
+  "eid": "sr:match:74832336",
+  "fx": "Michigan Wolverines v Michigan State Spartans",
+  "sport": "ice hockey",
+  "absences": "No hockey injury news found (search returned football reports only)",
+  "context": "Rivalry DERBY at Yost, Fri 7pm. No.1 Michigan (10-1) v No.9 MSU (6-3-1, 1 win in last 4)",
+  "news": "Official schedules confirm Fri Nov 20 at Yost; Michigan 10-1, MSU 1 win in last 4; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.46,
+    "p": 0.64702,
+    "why": "Michigan 5.3 GF/game last 10, 5/5 home wins; MSU concedes only 1.9 so modest; my p 0.66"
+   }
+  ],
+  "avoid": "All result sides and catches - derby rule",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.maizenbrew.com/michigan-hockey/128749/michigan-hockey-vs-michigan-state-spartans-series-preview-2026-season",
+   "https://mgoblue.com/sports/mens-ice-hockey/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:74779082",
+  "fx": "Niagara Purple Eagles v Canisius Golden Griffins",
+  "sport": "ice hockey",
+  "absences": "No news found",
+  "context": "'Battle of the Bridge' DERBY, Dwyer Arena Fri 7pm (one AXS listing 8pm - time only, same date/venue)",
+  "news": "Niagara hosts rival Canisius Nov 20 (and again Nov 24); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result sides; Canisius +1.5 catch",
+  "confidence": 0.1,
+  "sources": [
+   "https://purpleeagles.com/news/2026/5/20/mens-ice-hockey-hockey-unveils-2026-27-schedule.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:74779088",
+  "fx": "Rensselaer Engineers v Brown Bears",
+  "sport": "ice hockey",
+  "absences": "No named absences found",
+  "context": "ECAC; Brown has played only ONE game (Ivy rules, lost 2-1 to Yale) and opens road conference play at RPI Fri, Union Sat. RPI 'better than expected' but was swept by Union. NOTE data conflict: Sportradar last-10 for Brown (2-0-8) is mostly last season",
+  "news": "Brown preview confirms at RPI Nov 20; Brown rusty with 1 game played",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.61,
+    "p": 0.585743,
+    "why": "Brown's 1 game in 2026-27 and first road trip v an RPI side with 7+ games played; my p 0.62"
+   }
+  ],
+  "avoid": "Totals (form data stale for Brown)",
+  "confidence": 0.2,
+  "sources": [
+   "https://brownbears.com/news/2026/10/27/mens-ice-hockey-brown-mens-hockey-2026-27-season-preview",
+   "https://clarksonblog.substack.com/p/ecac-hockey-preview"
+  ]
+ },
+ {
+  "eid": "sr:match:74779084",
+  "fx": "Sacred Heart Pioneers v Robert Morris Colonials",
+  "sport": "ice hockey",
+  "absences": "No news found",
+  "context": "AHA, Martire Family Arena Fri 7pm, rematch Sat 5pm. SHU were AHA runners-up last season",
+  "news": "Sacred Heart schedule confirms Nov 20 7pm v Robert Morris; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "SHU 406 1.47 has no named mechanism; RMU +1.5 catch (SHU p 0.645 >= 0.55)",
+  "confidence": 0.15,
+  "sources": [
+   "https://sacredheartpioneers.com/sports/mens-ice-hockey/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:74779090",
+  "fx": "Union Dutchmen v Yale Bulldogs",
+  "sport": "ice hockey",
+  "absences": "Union lost 3 of top 5 scorers from last season; Yale lost top scorer David Chen",
+  "context": "ECAC; Union opens 6-game homestand (Yale Fri, Brown Sat, 7pm). Union 5-2 start incl. sweep of RPI, nation-best PP 16/38 (42.1%). Yale picked near bottom",
+  "news": "BVM Sports: Union home v Yale Fri 7pm; Union PP best in country",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.734085,
+    "why": "Union PP 42% nationally best, home homestand opener v a Yale side picked near bottom; my p 0.75"
+   }
+  ],
+  "avoid": "Union -1.5 (1.78, p 0.52) - margin too fine",
+  "confidence": 0.3,
+  "sources": [
+   "https://bvmsports.com/2026/11/18/union-hockey-opens-six-game-homestand-against-yale-brown/"
+  ]
+ },
+ {
+  "eid": "sr:match:72734764",
+  "fx": "Bridgeport Islanders v Belleville Senators",
+  "sport": "ice hockey",
+  "absences": "No named absences; Belleville lost 8-4 at Laval Wed and plays again Sat at Syracuse",
+  "context": "DATA CONFLICT: SportyBet lists 'Bridgeport Islanders' but the franchise has relocated - game is Belleville at HAMILTON HAMMERS, TD Coliseum Hamilton (board's own team-total market is labelled 'Hamilton Hammers'). Hamilton 6-11-0-2, Belleville 8-8-2-0",
+  "news": "Belleville Sens and InsideTheRink: Senators at Hamilton Hammers Fri Nov 20 7pm, TD Coliseum",
+  "veto": true,
+  "veto_reason": "Team name/venue mismatch: listed as Bridgeport Islanders, played as Hamilton Hammers in Hamilton (relocated franchise)",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://bellevillesens.com/gabriel-pizza-gameday-build-up-senators-look-to-get-back-on-track-against-hammers-in-steel-town/",
+   "https://insidetherink.com/ahl-game-preview-belleville-senators-at-hamilton-hammers-with-projected-lines-11-20-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72734762",
+  "fx": "Hershey Bears v Rochester Americans",
+  "sport": "ice hockey",
+  "absences": "No named absences found; Rochester's Matthew Peca 19 pts (top AHL scorers)",
+  "context": "AHL, GIANT Center 7pm; Hershey (10-6-0-0) ends a 4-game homestand, beat Charlotte 4-3 Sun; Rochester 9-6-0-1",
+  "news": "Hershey preview: Bears have won last five meetings at GIANT Center v Rochester",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.81,
+    "p": 0.518646,
+    "why": "Fixture-specific: Hershey 5 straight home wins v Rochester; my p 0.55 - thin"
+   }
+  ],
+  "avoid": "Away +1.5 catch",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hersheybears.com/news/game-preview-bears-vs-americans-7-pm"
+  ]
+ },
+ {
+  "eid": "sr:match:72734340",
+  "fx": "Manitoba Moose v Rockford Icehogs",
+  "sport": "ice hockey",
+  "absences": "No news found",
+  "context": "AHL, Canada Life Centre Fri; Manitoba 2/2 at home in sample, Rockford concedes 3.4",
+  "news": "No team news found for Manitoba or Rockford",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.31,
+    "p": 0.726604,
+    "why": "Rockford scored 2+ in 95% of the teams' last-10 sample (trend 0.95 v 0.73), Manitoba concedes 3.1; my p 0.76"
+   }
+  ],
+  "avoid": "Result sides (near coin-flip)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eliteprospects.com/league/ahl"
+  ]
+ },
+ {
+  "eid": "sr:match:72734766",
+  "fx": "Lehigh Valley Phantoms v Wilkes-Barre/Scranton Penguins",
+  "sport": "ice hockey",
+  "absences": "No named absences found",
+  "context": "AHL, PPL Center; Phantoms (3-7 last 10, conceding 4.2) open a 4-game homestand",
+  "news": "Phantoms preview Game 17 v WBS; InsideTheRink projected lines; no key injuries reported",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.56,
+    "p": 0.602434,
+    "why": "Lehigh Valley conceding 4.2/game over last 10; WBS 3+ in 75% of sample; my p 0.63"
+   }
+  ],
+  "avoid": "WBS away result (p 0.58 < 0.75)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.phantomshockey.com/blog/2026/11/20/preview-phantoms-vs-w-b-scranton-game-17/",
+   "https://insidetherink.com/ahl-game-preview-wilkes-barre-scranton-penguins-at-lehigh-valley-phantoms-with-projected-lines-11-20-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72734768",
+  "fx": "Springfield Thunderbirds v Charlotte Checkers",
+  "sport": "ice hockey",
+  "absences": "No named absences found",
+  "context": "AHL, MassMutual Center 7:05pm. Springfield 4-6-2-3 (13 pts, 1 home win in last 6 home in sample) v Charlotte 10-8-1-0; Charlotte lost 4-3 at Hershey Sun",
+  "news": "InsideTheRink/MassMutual Center confirm Fri 7:05pm",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.789152,
+    "why": "Springfield conceding 3.7 last 10 and 4-6-2-3 overall; my p 0.81"
+   }
+  ],
+  "avoid": "Charlotte away result (p 0.55)",
+  "confidence": 0.25,
+  "sources": [
+   "https://insidetherink.com/ahl-game-preview-charlotte-checkers-at-springfield-thunderbirds-with-projected-lines-11-20-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74779098",
+  "fx": "Bowling Green Falcons v Augustana Vikings",
+  "sport": "ice hockey",
+  "absences": "No news found",
+  "context": "CCHA, Slater Family Ice Arena 7:07pm ET. Augustana 8-2-0 last 10 (GA 1.6), incl. 12-0 v Northern Michigan",
+  "news": "USCHO schedule confirms Augustana at Bowling Green Fri 7:07 ET",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.784372,
+    "why": "Augustana scored 2+ in 100% of sample games (trend 1.0 v 0.78), 3.9 GF/game; my p 0.82"
+   }
+  ],
+  "avoid": "BG +1.5 catch (Augustana p 0.585 >= 0.55); Augustana away 1X2 (p 0.47)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.uscho.com/scoreboard/ccha"
+  ]
+ },
+ {
+  "eid": "sr:match:74779100",
+  "fx": "Ferris State Bulldogs v Northern Michigan Wildcats",
+  "sport": "ice hockey",
+  "absences": "No news found",
+  "context": "CCHA, Ewigleben Arena 7:07 ET; both weak (NMU lost 0-12 at Augustana)",
+  "news": "USCHO lists Fri 7:07 ET; Playoff Status lists a different NMU schedule but is flagged unreliable (shows unplayed scores)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "12-DC 'Home or Away' (excluded class); coin-flip sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.uscho.com/scoreboard/ccha",
+   "https://www.playoffstatus.com/ccha-hockey/ccha-hockey-schedule.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74779102",
+  "fx": "Lake Superior State Lakers v Bemidji State Beavers",
+  "sport": "ice hockey",
+  "absences": "No news found",
+  "context": "CCHA, Taffy Abel Arena 7:07 ET. Bemidji 1-2-7 last 10, 0/4 away, conceding 3.7",
+  "news": "USCHO lists Bemidji at Lake Superior Fri 7:07 ET",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7836322644,
+    "why": "Bemidji 1-2-7 conceding 3.7/game; LSSU 2+ in 95% of sample; my p 0.80"
+   }
+  ],
+  "avoid": "Result sides",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.uscho.com/scoreboard/ccha"
+  ]
+ },
+ {
+  "eid": "sr:match:74779104",
+  "fx": "UMass Lowell R. Hawks v Vermont Catamounts",
+  "sport": "ice hockey",
+  "absences": "No named absences; Vermont G Jacob Oster 1.76 GAA / .936",
+  "context": "Hockey East, Tsongas Center 7:15pm. UML 4-8-0 (0-4-0 HE); No.20 Vermont 5-4-2 (4-2-2 HE)",
+  "news": "UML release and BVM Sports confirm Fri 7:15 / Sat 6pm series",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vermont away result (p 0.54 < 0.75); 12-DC; Unders (p < 0.82)",
+  "confidence": 0.15,
+  "sources": [
+   "https://goriverhawks.com/news/2026/11/19/mens-ice-hockey-river-hawks-welcome-vermont-for-two-game-home-set",
+   "https://bvmsports.com/2026/11/19/no-20-vermont-visits-umass-lowell-for-hockey-east-series/"
+  ]
+ },
+ {
+  "eid": "sr:match:74780212",
+  "fx": "Lindenwood Lions v Liu Sharks",
+  "sport": "ice hockey",
+  "absences": "No named absences",
+  "context": "Independents, Centene Community Ice Center 7pm CT (LIU lists 8pm - time only). Lindenwood on 6-game winless streak; LIU 2-9-0, lost 4 straight",
+  "news": "Lindenwood preview: hosts LIU Fri/Sat; Lions 3-6 all-time v LIU",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8092595749,
+    "why": "LIU 2-9-0, 4 straight losses, conceding 4.5 last 10; my p 0.83"
+   }
+  ],
+  "avoid": "Lindenwood result (6-game winless, both poor)",
+  "confidence": 0.2,
+  "sources": [
+   "https://lindenwoodlions.com/news/2026/11/19/mens-hockey-returns-home-to-host-liu.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:74780214",
+  "fx": "Nebraska Omaha Mavericks v Western Michigan Broncos",
+  "sport": "ice hockey",
+  "absences": "No named absences found",
+  "context": "NCHC, Baxter Arena. No.4 Western Michigan (KRACH 6th) at Omaha (4-5-1)",
+  "news": "WMU release: rises to #4; series at Omaha Fri",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "WMU away 1X2 (p 0.63) and 406 (p 0.74) both under 0.75; Omaha +1.5 catch",
+  "confidence": 0.15,
+  "sources": [
+   "https://wmubroncos.com/news/2026/11/16/mens-ice-hockey-hockey-rises-4-4-in-national-polls.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:74832340",
+  "fx": "Wisconsin Badgers v Penn State Nittany Lions",
+  "sport": "ice hockey",
+  "absences": "No named absences found",
+  "context": "Big Ten, Kohl Center Fri 7pm (Black Shoe Diaries says 8pm - time only). No.2 Wisconsin off first loss (Ohio State) = 'get-right' series; Penn State 2-9-1, 0-5-1 B1G, dismal at Michigan last weekend",
+  "news": "UW Quick Six and BSD preview; BSD predicts 6-2 Wisconsin. Series history conflicting (PSU won last 4 at Kohl vs road team won last 10)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.71862,
+    "why": "PSU 2-9-1 and 0-5-1 in B1G, 0/4 away; Wisconsin 9-0-1, GA 1.0, after first loss; my p 0.75"
+   },
+   {
+    "mid": "19",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.53,
+    "p": 0.6149946135,
+    "why": "PSU conceding 4.2/game last 10; Wisconsin 4.3 GF; my p 0.64"
+   }
+  ],
+  "avoid": "Wisconsin -2.5 (margin), Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://uwbadgers.com/news/2026/11/19/mens-hockey-quick-six-no-2-badgers-host-penn-state",
+   "https://www.blackshoediaries.com/penn-state-hockey/92879/penn-state-nittany-lions-hockey-wisconsin-badgers-big-ten-justin-poirier-kohl-center"
+  ]
+ },
+ {
+  "eid": "sr:match:72734342",
+  "fx": "Texas Stars v San Jose Barracuda",
+  "sport": "ice hockey",
+  "absences": "Texas: Luke Krys undisclosed (unclear if current). San Jose: F Brett Leason recalled to NHL Sharks (Nov 18)",
+  "context": "AHL, H-E-B Center; Texas beat Tucson 2-1 Sunday",
+  "news": "Leason recall weakens Barracuda attack; little else",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (coin-flip)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-18-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74780218",
+  "fx": "Minnesota Duluth Bulldogs v Arizona State Sun Devils",
+  "sport": "ice hockey",
+  "absences": "No named absences found",
+  "context": "NCHC, AMSOIL Arena. No.5 UMD (9-3-2) on 3-game win streak incl. back-to-back 4-0 shutouts; ASU (5-5-0, 1-3 NCHC) lost both at Denver",
+  "news": "ASU athletics preview confirms Nov 20-21 at Duluth",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.73416,
+    "why": "UMD back-to-back shutouts, GA 1.3 last 10; ASU off two losses at Denver; my p 0.76"
+   }
+  ],
+  "avoid": "UMD -1.5 (p 0.52); Overs",
+  "confidence": 0.3,
+  "sources": [
+   "https://thesundevils.com/news/2026/11/19/sun-devil-hockey-returns-to-nchc-action-at-no-5-minnesota-duluth"
+  ]
+ },
+ {
+  "eid": "sr:match:74780216",
+  "fx": "Minnesota State Mankato Mavericks v Michigan Tech Huskies",
+  "sport": "ice hockey",
+  "absences": "No news found",
+  "context": "CCHA, Mayo Clinic HS Event Center 7:07 CT; tight low-scoring pair (many draws)",
+  "news": "USCHO lists Fri 7:07 CT; Playoff Status lists another date but is unreliable",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "12-DC; sides; Unders below 0.82",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.uscho.com/scoreboard/ccha"
+  ]
+ },
+ {
+  "eid": "sr:match:74780220",
+  "fx": "North Dakota Fighting Hawks v St. Cloud State Huskies",
+  "sport": "ice hockey",
+  "absences": "No named absences found",
+  "context": "NCHC, Ralph Engelstad Arena Fri 7pm. UND allowed 5 goals in 4 November games; discipline flagged as the key",
+  "news": "St. Cloud Live preview: UND's discipline could be key",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.769553,
+    "why": "UND conceding 1.25/game in November; SCSU 1/4 away in sample; my p 0.79"
+   }
+  ],
+  "avoid": "UND -1.5 (p 0.56); SCSU +1.5 catch",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.stcloudlive.com/sports/college/nchc-preview-unds-discipline-could-be-key-against-st-cloud-state"
+  ]
+ },
+ {
+  "eid": "sr:match:74780578",
+  "fx": "Colorado College Tigers v Miami Ohio Redhawks",
+  "sport": "ice hockey",
+  "absences": "No named absences found",
+  "context": "NCHC, Ed Robson Arena 7pm MT; both 3-1 entering",
+  "news": "CHN: Miami hasn't beaten Colorado College since Jan 10, 2020",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.33,
+    "p": 0.715821,
+    "why": "Fixture-specific: Miami winless v CC since Jan 2020; my p 0.74"
+   }
+  ],
+  "avoid": "CC -1.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.collegehockeynews.com/news/2026/11/19_This-Week-in-College-Hockey.php"
+  ]
+ },
+ {
+  "eid": "sr:match:74780580",
+  "fx": "Denver Pioneers v St Thomas Tommies",
+  "sport": "ice hockey",
+  "absences": "No named absences found",
+  "context": "NCHC, Magness Arena, Hockey Parents Weekend 7pm MT. Denver No.3; St Thomas had a 3-game win streak a week earlier",
+  "news": "Denver schedule confirms Nov 20/21; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Denver -2.5; St Thomas +2.5 catch (Denver p 0.77 >= 0.60); Denver 1X2 has no named mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://denverpioneers.com/sports/mens-ice-hockey/schedule/2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:72734136",
+  "fx": "Abbotsford Canucks v Tucson Roadrunners",
+  "sport": "ice hockey",
+  "absences": "No named absences found",
+  "context": "AHL Pacific top-of-table: Tucson 10-3-2-0 (1st, point streak ended 2-1 at Texas) at Abbotsford 9-5-0-3 (lost 5 of last 6). Tucson allows just 26 shots/game",
+  "news": "Tucson release: first place on the line",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tucson away result (p 0.5); Unders below 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tucsonroadrunners.com/news/first-place-on-the-line-as-roadrunners-head-north-to-face-canucks"
+  ]
+ },
+ {
+  "eid": "sr:match:72734138",
+  "fx": "Colorado Eagles v Grand Rapids Griffins",
+  "sport": "ice hockey",
+  "absences": "Kevin Lombardi moved Rockford->Colorado (Nov 14)",
+  "context": "AHL, Blue Arena 7:05 MT. Grand Rapids 8-0-2 last 10, 4.2 GF",
+  "news": "No team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.72,
+    "p": 0.542226,
+    "why": "Grand Rapids 4.2 GF last 10, 3+ in 75% of sample; my p 0.57 - thin"
+   }
+  ],
+  "avoid": "GR away result (p 0.53)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eliteprospects.com/league/ahl"
+  ]
+ },
+ {
+  "eid": "sr:match:72733778",
+  "fx": "San Diego Gulls v Iowa Wild",
+  "sport": "ice hockey",
+  "absences": "Iowa traded Gerry Mayhew to Henderson this week; G Filip Gustavsson (conditioning) debuts Saturday, not Friday",
+  "context": "AHL, Pechanga Arena 7pm PT. Iowa 6-9-2-1, lost 3 straight; San Diego 8-6-3-0",
+  "news": "Iowa preview/InsideTheRink: Wild on 3-game skid",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.64,
+    "p": 0.574039,
+    "why": "Iowa 3-game skid, lost Mayhew, Gustavsson held to Saturday; SD 4/6 at home; my p 0.61"
+   }
+  ],
+  "avoid": "Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://insidetherink.com/ahl-game-preview-iowa-wild-at-san-diego-gulls-with-projected-lines-11-20-2026/",
+   "https://www.nhl.com/news/nhl-status-report-news-and-notes-november-19-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74780732",
+  "fx": "Alaska Fairbanks Nanooks v Alaska Anchorage Seawolves",
+  "sport": "ice hockey",
+  "absences": "No news found",
+  "context": "Governor's Cup DERBY, Carlson Center 7:07pm AKST. UAF won 6 of 8 v UAA last season",
+  "news": "Fri/Sat series confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result sides or catches",
+  "confidence": 0.1,
+  "sources": [
+   "https://alaskananooks.com/news/2026/11/4/mens-ice-hockey-nanooks-hockey-announces-bogo-alaska-airlines-governors-cup-ticket-deal.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:72734770",
+  "fx": "Toronto Marlies v Chicago Wolves",
+  "sport": "ice hockey",
+  "absences": "No news found",
+  "context": "AHL Sat 1:30pm ET at Scotiabank Arena (matches 18:30 UTC; Wolves site 12:30 CT = same)",
+  "news": "Time/venue consistent; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.scotiabankarena.com/events/detail/toronto-marlies-vs-chicago-wolves"
+  ]
+ },
+ {
+  "eid": "sr:match:72734772",
+  "fx": "Laval Rocket v Calgary Wranglers",
+  "sport": "ice hockey",
+  "absences": "Calgary Wranglers' D depth hit by Flames call-ups after Kevin Bahl's season-ending Achilles injury",
+  "context": "AHL Sat 3pm ET Place Bell (matches 20:00 UTC; Calgary site's 3pm MDT is a timezone error). Laval scored 8 v Belleville Wed",
+  "news": "InsideTheRink: Bahl injury tests Flames' AHL D depth",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8123719631,
+    "why": "Wranglers' D thinned by Flames recall; Laval 3.9 GF last 10, 8 goals Wed; my p 0.84"
+   }
+  ],
+  "avoid": "Calgary +1.5 catch",
+  "confidence": 0.25,
+  "sources": [
+   "https://insidetherink.com/kevin-bahls-season-ending-injury-puts-calgary-flames-ahl-defensive-depth-to-the-test/",
+   "https://www.tourismelaval.com/en/explore-offer/events/match-du-rocket-de-laval/"
+  ]
+ }
+]

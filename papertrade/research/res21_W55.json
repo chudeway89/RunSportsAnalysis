@@ -1,0 +1,695 @@
+[
+ {
+  "eid": "sr:match:72206398",
+  "fx": "Naerboe IL v Sandnes HK",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Norwegian men's league. Sandnes are 0-10 in their last 10 (0-5 away), scoring 25.6 and conceding 31.4; Naerboe are 3-7 but 2-3 at home. KO 14:30 local; no conflict found.",
+  "news": "no news found (fixture not covered by search results)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7811,
+    "why": "Sandnes have lost 10 of 10 (all 5 away) with the league's weakest attack (25.6/g); home edge in a low-variance spot. Own p ~0.80 vs house 0.78. Only mechanism is form, so treat it as fill."
+   }
+  ],
+  "avoid": "Sandnes handicaps (no line in range)",
+  "confidence": 0.25,
+  "sources": [
+   "https://sandefjord.woow.no/",
+   "https://www.nrk.no/sport/elverum-klar-for-nm-finale-_-danske-herjet-mot-sandefjord-1.18080779",
+   "https://www.sofascore.com/handball/tournament/norway/rema-1000-ligaen/221"
+  ]
+ },
+ {
+  "eid": "sr:match:72206400",
+  "fx": "Sandefjord Haandball v Elverum Handball",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Elverum (holders, 8-2 last 10) beat Sandefjord 41-35 in the NM cup semi on 12 Nov and reached the cup final. Sandefjord's ticketing page lists the league game at Jotunhallen on Sat 21 Nov at 16:00 local (15:00 UTC); SportyBet lists 14:00 UTC.",
+  "news": "Elverum beat Sandefjord 41-35 in the cup on 12 Nov; club ticketing has KO 16:00 local, one hour later than the board",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: the club ticket page says 16:00 CET = 15:00 UTC, SportyBet says 14:00 UTC.",
+  "picks": [],
+  "avoid": "all markets (Away 1X2 1.15 is below the range anyway)",
+  "confidence": 0.1,
+  "sources": [
+   "https://sandefjord.woow.no/",
+   "https://www.nrk.no/sport/elverum-klar-for-nm-finale-_-danske-herjet-mot-sandefjord-1.18080779",
+   "https://www.sofascore.com/handball/tournament/norway/rema-1000-ligaen/221"
+  ]
+ },
+ {
+  "eid": "sr:match:72207006",
+  "fx": "Fredrikstad BK v Larvik HK",
+  "sport": "handball",
+  "absences": "women's fixture: not researched for absences",
+  "context": "Women's league, two top-half sides (Larvik were playoff quarter-finalists last season). The Women's EHF EURO starts in early December. Not a mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/handball/tournament/norway/rema-1000-ligaen-women/223"
+  ]
+ },
+ {
+  "eid": "sr:match:74123148",
+  "fx": "MOL Esztergomi KC v Neka",
+  "sport": "handball",
+  "absences": "women's fixture",
+  "context": "Esztergom are 4th (13 pts from 9); NEKA (the academy side) are in the bottom group. Confirmed for Sat 21 Nov 16:00 local (Nemzeti Sport).",
+  "news": "date confirmed; Esztergom 4th, NEKA in the bottom group",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's result-sides and handicaps; goals lines are all at p ~0.50 with no edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/noi-kezilabda-nb-i-2026-2027",
+   "https://nemzetisport.hu/minden-mas-foci/2026/11/heti-program-az-eszakirek-ellen-zarjuk-az-nl-csoportkort-atp-vb-torinoban",
+   "https://magyarkezilabda.hu/"
+  ]
+ },
+ {
+  "eid": "sr:match:74123152",
+  "fx": "Vasas SC v Mosonmagyarovari KCSE",
+  "sport": "handball",
+  "absences": "women's fixture",
+  "context": "Vasas are 6th (10 pts); Mosonmagyarovar are in the bottom group. Confirmed for 21 Nov 16:00 local (Sport1 broadcast listing).",
+  "news": "date confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's result-sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/noi-kezilabda-nb-i-2026-2027",
+   "https://nemzetisport.hu/minden-mas-foci/2026/11/heti-program-az-eszakirek-ellen-zarjuk-az-nl-csoportkort-atp-vb-torinoban",
+   "https://magyarkezilabda.hu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72207008",
+  "fx": "Sola HK v Molde HK",
+  "sport": "handball",
+  "absences": "women's fixture",
+  "context": "Sola were last season's playoff finalists and beat Molde in the semi. Both are top sides; not a mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's result-sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/handball/tournament/norway/rema-1000-ligaen-women/223"
+  ]
+ },
+ {
+  "eid": "sr:match:74123150",
+  "fx": "Vaci NKSE v Szombathelyi Kka",
+  "sport": "handball",
+  "absences": "women's fixture",
+  "context": "Vac are 5th (11 pts); Szombathely are in the bottom group. Confirmed for 21 Nov 17:00 local (16:00 UTC), which matches the board.",
+  "news": "date and time confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's handicaps and results",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/noi-kezilabda-nb-i-2026-2027",
+   "https://nemzetisport.hu/minden-mas-foci/2026/11/heti-program-az-eszakirek-ellen-zarjuk-az-nl-csoportkort-atp-vb-torinoban",
+   "https://magyarkezilabda.hu/"
+  ]
+ },
+ {
+  "eid": "sr:match:73756158",
+  "fx": "Cso Teutonii Ghimbav v HC Vaslui",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Liga Zimbrilor round 8, 21 Nov 18:00 EET at Arena Ghimbav (matches 16:00 UTC). Ghimbav are last at 0-7 with goals 196-270 (-10.6 per game); CSM Vaslui are 7th at 4-3 (194-198).",
+  "news": "round 8 confirmed; Ghimbav winless and conceding 38.6 per game",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=6.5",
+    "desc": "Away (-6.5)",
+    "odds": 1.73,
+    "p": 0.5273,
+    "why": "Ghimbav are losing by 10.6 a game on average over 7 games (0-7); Vaslui are a mid-table side. Own p ~0.57 vs house 0.53. Modest edge; the margin rests on aggregate stats only."
+   }
+  ],
+  "avoid": "totals (Ghimbav games average 66.6 goals, Vaslui games 56; they conflict)",
+  "confidence": 0.2,
+  "sources": [
+   "https://handbalmania.ro/2026/11/17/clasament-liga-zimbrilor-2026-2027-actualizat-program-si-top-golgheteri/",
+   "https://www.tvtotal.ro/handbal-liga-zimbrilor-etapa-a-viii-a-teutonii-ghimbav-csm-vaslui/"
+  ]
+ },
+ {
+  "eid": "sr:match:72982656",
+  "fx": "BM Nava v BM Puente Genil",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Liga Asobal J10. Nava are 15th (3 pts) and lost 22-33 at Aranda on 13 Nov; Puente Genil are 14th (5 pts) and beat Cangas 33-28. A bottom-four six-pointer. Last H2H 26-28 (Mar 2026).",
+  "news": "relegation six-pointer; Puente Genil won last week",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=58.5",
+    "desc": "Over 58.5",
+    "odds": 1.62,
+    "p": 0.5796,
+    "why": "Both defences concede 32.6-35.1 per game; the last-10 trend is 0.80 vs house 0.58. Last H2H was only 54, so I estimate p ~0.61."
+   }
+  ],
+  "avoid": "1X2 (two weak sides, coin flip)",
+  "confidence": 0.2,
+  "sources": [
+   "https://asobal.es/liga/calendario/",
+   "https://www.aragonplay.es/aragondeporte/resultados/balonmano/liga-asobal",
+   "https://asobal.es/liga/resultados/8/",
+   "https://www.eldebate.com/espana/la-voz-de-cordoba/deportes/20261115/angel-ximenez-reencuentra-triunfo-respira-asobal_480992.html",
+   "https://scores24.live/en/handball/m-21-11-2026-morrazo-cangas-bm-sevilla-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72473874",
+  "fx": "TUS N-Lubbecke v TuS Ferndorf",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "2. HBL round 12 at the Merkur Arena. Lubbecke are 3-1 at home in the last 4; Ferndorf are 1-4 away.",
+  "news": "fixture listed for round 12; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.24,
+    "p": 0.7251,
+    "why": "Lubbecke's home form (3-1) is against Ferndorf's away record (1-4). Own p ~0.75 vs house 0.725. Thin, stats-only."
+   }
+  ],
+  "avoid": "Ferndorf +2.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.handball-world.news/verein/die-eulen-ludwigshafen/termine",
+   "https://www.opel-hbl.de/en/2-hbl/schedule",
+   "https://handballpapst.de/2-bundesliga-maenner/asv-hamm-westfalen-will-gegen-coburg-seine-heimstaerke-nutzen/",
+   "https://www.fraenkischertag.de/sport/hsc-coburg/asv-hamm-westfalen-hsc-coburg-handball-vorschau-mit-jan-gorr-art-604692"
+  ]
+ },
+ {
+  "eid": "sr:match:72473880",
+  "fx": "TV 05/07 Huttenberg v Eulen Ludwigshafen",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "2. HBL round 12, 21 Nov 18:00 local (Eulen schedule), which matches the board. Huttenberg are 2-8 in their last 10; Eulen just beat Hamm 28-26.",
+  "news": "KO confirmed; Eulen beat Hamm 28-26 last round",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Huttenberg 1X2/DC: the home favourite has 2-8 form, a fragile favourite",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.handball-world.news/verein/die-eulen-ludwigshafen/termine",
+   "https://www.opel-hbl.de/en/2-hbl/schedule",
+   "https://handballpapst.de/2-bundesliga-maenner/asv-hamm-westfalen-will-gegen-coburg-seine-heimstaerke-nutzen/",
+   "https://www.fraenkischertag.de/sport/hsc-coburg/asv-hamm-westfalen-hsc-coburg-handball-vorschau-mit-jan-gorr-art-604692"
+  ]
+ },
+ {
+  "eid": "sr:match:74119578",
+  "fx": "Dabas KK v Szigetszentmiklosi KSK",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Nemzeti Sport lists Dabas v Szigetszentmiklos for 21 Nov, but eredmenyek.com lists different 21 Nov pairings (Szigetszentmiklos v NEKA, Balatonfured v Dabas).",
+  "news": "sources conflict on the pairing for 21 Nov",
+  "veto": true,
+  "veto_reason": "Fixture/pairing conflict between Nemzeti Sport and eredmenyek.com",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/ferfi-kezilabda-nb-i-2026-2027",
+   "https://www.eredmenyek.com/kezilabda/magyarorszag/nb-i/",
+   "https://www.tatabanyahandball.com/meccsek/versenynaptar",
+   "https://www.fradi.hu/kezilabda/ferfi-kezilabda/esemenyek"
+  ]
+ },
+ {
+  "eid": "sr:match:74119576",
+  "fx": "Ferencvarosi TC v Balatonfuredi Kse",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Confirmed by fradi.hu for 21 Nov 18:00 at the Elek Gyula Arena. FTC are 4-6 in their last 10 and concede 35.4; Balatonfured are 5-1-4.",
+  "news": "date, venue and KO confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-2.5",
+    "desc": "Away (+2.5)",
+    "odds": 1.57,
+    "p": 0.5963,
+    "why": "FTC are a weak favourite (p 0.56) on 4-6 form, conceding 35.4, against a 5-1-4 Fured; the +2.5 trend is 0.75. Own p ~0.63 vs house 0.60."
+   }
+  ],
+  "avoid": "FTC 1X2 and -1.5; home Under 32.5 (Under below p 0.82)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/ferfi-kezilabda-nb-i-2026-2027",
+   "https://www.eredmenyek.com/kezilabda/magyarorszag/nb-i/",
+   "https://www.tatabanyahandball.com/meccsek/versenynaptar",
+   "https://www.fradi.hu/kezilabda/ferfi-kezilabda/esemenyek"
+  ]
+ },
+ {
+  "eid": "sr:match:74119574",
+  "fx": "Neka v Csurgoi KK",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Nemzeti Sport puts NEKA v Csurgo on Wed 18 Nov (round 10); eredmenyek.com has Sun 22 Nov; SportyBet has Sat 21 Nov.",
+  "news": "three different dates across sources",
+  "veto": true,
+  "veto_reason": "Date conflict: 18 Nov (NS) / 22 Nov (eredmenyek) / 21 Nov (SportyBet)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/ferfi-kezilabda-nb-i-2026-2027",
+   "https://www.eredmenyek.com/kezilabda/magyarorszag/nb-i/",
+   "https://www.tatabanyahandball.com/meccsek/versenynaptar",
+   "https://www.fradi.hu/kezilabda/ferfi-kezilabda/esemenyek"
+  ]
+ },
+ {
+  "eid": "sr:match:74119580",
+  "fx": "Veszprem KC v Tatabanya KC",
+  "sport": "handball",
+  "absences": "none found by name",
+  "context": "Round 10, 21 Nov 18:00 at the ONE Veszprem Arena, confirmed by both Tatabanya and Nemzeti Sport. Veszprem are 9-1 and have midweek Champions League commitments (rotation or easing likely); Tatabanya are a top-4 side (6-1-3).",
+  "news": "date confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-10.5",
+    "desc": "Away (+10.5)",
+    "odds": 1.57,
+    "p": 0.5974,
+    "why": "Tatabanya are a credible receiver (6-1-3, 33 goals per game); the +10.5 trend is 0.80. In domestic games after Champions League weeks Veszprem often ease off. Own p ~0.64 vs house 0.60."
+   },
+   {
+    "mid": "20",
+    "spec": "total=27.5",
+    "desc": "Over 27.5",
+    "odds": 1.64,
+    "p": 0.5641,
+    "why": "Tatabanya average 33.2 goals over their last 10; the trend is 0.85 vs house 0.56. Own p ~0.62. Correlated with the +10.5 pick."
+   }
+  ],
+  "avoid": "Veszprem team Under (p<0.82); Veszprem -8.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/ferfi-kezilabda-nb-i-2026-2027",
+   "https://www.eredmenyek.com/kezilabda/magyarorszag/nb-i/",
+   "https://www.tatabanyahandball.com/meccsek/versenynaptar",
+   "https://www.fradi.hu/kezilabda/ferfi-kezilabda/esemenyek"
+  ]
+ },
+ {
+  "eid": "sr:match:73307836",
+  "fx": "SL Benfica v Povoa de Varzim AC",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Andebol 1 table (blog): Benfica 4th (27 pts), Povoa 5th (23). Benfica beat V. Guimaraes 37-25 on 1 Nov. I could not confirm the date of this fixture; no source contradicts it.",
+  "news": "no fixture-specific news; Povoa a solid 5th",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-7.5",
+    "desc": "Away (+7.5)",
+    "odds": 1.72,
+    "p": 0.5326,
+    "why": "Povoa are 7-3 in their last 10 and close to Benfica in the table, so a credible receiver; the trend is 0.70. Own p ~0.58 vs house 0.53. Date unverified."
+   }
+  ],
+  "avoid": "total Under 62.5 (Under below p 0.82)",
+  "confidence": 0.2,
+  "sources": [
+   "https://superportistas.pt/modalidades/andebol/competicao/andebol-1/",
+   "https://banhadasandebol.blogspot.com/2026/",
+   "https://www.flashscore.pt/andebol/portugal/andebol-1/"
+  ]
+ },
+ {
+  "eid": "sr:match:72982654",
+  "fx": "Fertiberia Puerto Sagunto v BM Ciudad Encantada Cuenca",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Asobal J10, 21 Nov 18:00 local at Sagunto (the official calendar matches 17:00 UTC). Sagunto lost 24-34 to Bidasoa; Cuenca lost 29-30 at Ciudad Real. Evenly matched.",
+  "news": "KO confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "1X2 (coin flip)",
+  "confidence": 0.15,
+  "sources": [
+   "https://asobal.es/liga/calendario/",
+   "https://www.aragonplay.es/aragondeporte/resultados/balonmano/liga-asobal",
+   "https://asobal.es/liga/resultados/8/",
+   "https://www.eldebate.com/espana/la-voz-de-cordoba/deportes/20261115/angel-ximenez-reencuentra-triunfo-respira-asobal_480992.html",
+   "https://scores24.live/en/handball/m-21-11-2026-morrazo-cangas-bm-sevilla-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72473290",
+  "fx": "SG BBM Bietigheim v Bergischer HC",
+  "sport": "handball",
+  "absences": "none named",
+  "context": "Relegation six-pointer: Bietigheim 17th (5 pts), BHC 14th (6). BHC are playing their 4th game in 10 days (fatigue), but they beat Eisenach 29-23 on 14 Nov; Bietigheim drew 31-31 with Melsungen. Article body says 19:00 CET (matches the board); a page header said 20:00.",
+  "news": "BHC in a heavy schedule but in form; KO header inconsistency (body 19:00 = board)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.54,
+    "p": 0.6093,
+    "why": "Bietigheim are 0-5 at home and 1-1-8 in their last 10; BHC are 5-1-4. The +1.5 trend is 0.75. BHC fatigue trims it: own p ~0.62 vs house 0.61."
+   }
+  ],
+  "avoid": "Bietigheim 1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.handball-world.news/artikel/gummersbach-ohne-hallbaeck-nach-nordmazedonien-1272143",
+   "https://handballpapst.de/ehf-european-league-maenner/gummersbach-rutscht-durch-knappe-niederlage-in-bitola-auf-platz-zwei-der-gruppe-g/",
+   "https://www.news-on-tour.de/346416/gummersbach-auswaertsspiel-lemgo/",
+   "https://www.wuppertaler-rundschau.de/sport/sporttexte/bhc-im-dauereinsatz-und-kampf-um-klassenerhalt_aid-158718213",
+   "https://www.sportschau.de/regional/wdr/wdr-bhc-ueberholt-eisenach-im-tabellenkeller-der-hbl-102.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Handball-Bundesliga"
+  ]
+ },
+ {
+  "eid": "sr:match:72473288",
+  "fx": "ThSV Eisenach v MT Melsungen",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Eisenach are 15th and lost 23-29 at BHC last week. Melsungen are 4th and drew 31-31 at Bietigheim. Melsungen were knocked out of the cup.",
+  "news": "Eisenach lost 23-29 at BHC; Melsungen drew at Bietigheim",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Melsungen 1X2 (away p 0.69 < 0.75); Draw or Away 1.17 is below the range",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.handball-world.news/artikel/gummersbach-ohne-hallbaeck-nach-nordmazedonien-1272143",
+   "https://handballpapst.de/ehf-european-league-maenner/gummersbach-rutscht-durch-knappe-niederlage-in-bitola-auf-platz-zwei-der-gruppe-g/",
+   "https://www.news-on-tour.de/346416/gummersbach-auswaertsspiel-lemgo/",
+   "https://www.wuppertaler-rundschau.de/sport/sporttexte/bhc-im-dauereinsatz-und-kampf-um-klassenerhalt_aid-158718213",
+   "https://www.sportschau.de/regional/wdr/wdr-bhc-ueberholt-eisenach-im-tabellenkeller-der-hbl-102.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Handball-Bundesliga"
+  ]
+ },
+ {
+  "eid": "sr:match:73307830",
+  "fx": "ABC Braga / Uminho v FC Porto",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "FC Porto's schedule confirms ABC v Porto on 21 Nov, round 13. Porto are 2nd and beat Sporting 34-32 on 1 Nov; last H2H 24-39. Porto play Benfica on 28 Nov.",
+  "news": "date confirmed; Porto in form",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 67.5 (Under below p 0.82); no other line in range",
+  "confidence": 0.15,
+  "sources": [
+   "https://superportistas.pt/modalidades/andebol/competicao/andebol-1/",
+   "https://banhadasandebol.blogspot.com/2026/",
+   "https://www.flashscore.pt/andebol/portugal/andebol-1/"
+  ]
+ },
+ {
+  "eid": "sr:match:73307834",
+  "fx": "AD Carvalhos v Vitoria SC",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Vitoria SC were thrashed 47-21 by Porto and 37-25 by Benfica; both sides are bottom-dwellers (Carvalhos 1-9, Vitoria 2-1-7).",
+  "news": "no fixture news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vitoria 1X2 1.25 (p 0.754 just meets the bar, but Vitoria are 2-1-7, so a fragile away favourite)",
+  "confidence": 0.1,
+  "sources": [
+   "https://superportistas.pt/modalidades/andebol/competicao/andebol-1/",
+   "https://banhadasandebol.blogspot.com/2026/",
+   "https://www.flashscore.pt/andebol/portugal/andebol-1/"
+  ]
+ },
+ {
+  "eid": "sr:match:72982644",
+  "fx": "BM Logrono La Rioja v Ademar Leon",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Asobal J10, 21 Nov 19:00 local in Logrono (official calendar). Logrono beat Granollers 35-32 on 14 Nov. Ademar lost 27-37 at Torrelavega and 33-37 at home to Bidasoa, so they are in poor form (3-7).",
+  "news": "Logrono in form; Ademar have lost 2 straight heavily",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7811,
+    "why": "Logrono are 5-3-2 and won last week; Ademar are 3-7 and conceded 37 in each of their last two games. Own p ~0.81 vs house 0.78."
+   },
+   {
+    "mid": "20",
+    "spec": "total=29.5",
+    "desc": "Over 29.5",
+    "odds": 1.53,
+    "p": 0.6117,
+    "why": "Ademar average 33.4 goals and Logrono concede 31.2; the trend is 0.80 vs house 0.61. Own p ~0.65."
+   }
+  ],
+  "avoid": "Logrono -4.5/-5.5 (trend 0.15)",
+  "confidence": 0.3,
+  "sources": [
+   "https://asobal.es/liga/calendario/",
+   "https://www.aragonplay.es/aragondeporte/resultados/balonmano/liga-asobal",
+   "https://asobal.es/liga/resultados/8/",
+   "https://www.eldebate.com/espana/la-voz-de-cordoba/deportes/20261115/angel-ximenez-reencuentra-triunfo-respira-asobal_480992.html",
+   "https://scores24.live/en/handball/m-21-11-2026-morrazo-cangas-bm-sevilla-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72760360",
+  "fx": "Saint-Amand Porte Du Hainaut v HB Plan de Cuques",
+  "sport": "handball",
+  "absences": "women's fixture",
+  "context": "LFH J11 (last round before the EURO break). This fixture's date was not found in the sources (no conflict found).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's result-sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.brest-bretagnehandball.fr/actualites/ligue-butagaz-energie-2026-2027-les-rebelles-connaissent-leur-calendrier",
+   "https://www.macommune.info/lesbf-connait-son-calendrier-pour-la-saison-2026-2027-de-ligue-butagaz-energie/",
+   "https://ligue-feminine-handball.fr/ligue-butagaz-energie-le-calendier-officiel-de-la-saison-2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:72473872",
+  "fx": "ASV Hamm-Westfalen v HSC 2000 Coburg",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Bottom clash: Coburg are last in the 2. HBL after 5 straight defeats and must win (coach Jan Gorr). Hamm, the promoted side, have won all 3 of their wins at home but lost 26-28 at Ludwigshafen. KO 19:30 local, matching the board.",
+  "news": "Coburg on a 5-loss run, 'zum Siegen verdammt'; Hamm strong at home",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.31,
+    "p": 0.6834,
+    "why": "All 3 of Hamm's wins came at home and Coburg have lost 5 straight (0-4 away). Own p ~0.72 vs house 0.68. Coburg's desperation is the risk."
+   }
+  ],
+  "avoid": "Hamm -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.handball-world.news/verein/die-eulen-ludwigshafen/termine",
+   "https://www.opel-hbl.de/en/2-hbl/schedule",
+   "https://handballpapst.de/2-bundesliga-maenner/asv-hamm-westfalen-will-gegen-coburg-seine-heimstaerke-nutzen/",
+   "https://www.fraenkischertag.de/sport/hsc-coburg/asv-hamm-westfalen-hsc-coburg-handball-vorschau-mit-jan-gorr-art-604692"
+  ]
+ },
+ {
+  "eid": "sr:match:72760356",
+  "fx": "Chambray Touraine v Paris 92",
+  "sport": "handball",
+  "absences": "women's fixture",
+  "context": "Chambray v Paris 92 was not confirmed in sources (no conflict found). Paris 92 are 1-2-7.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's handicaps",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.brest-bretagnehandball.fr/actualites/ligue-butagaz-energie-2026-2027-les-rebelles-connaissent-leur-calendrier",
+   "https://www.macommune.info/lesbf-connait-son-calendrier-pour-la-saison-2026-2027-de-ligue-butagaz-energie/",
+   "https://ligue-feminine-handball.fr/ligue-butagaz-energie-le-calendier-officiel-de-la-saison-2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:72760354",
+  "fx": "ES Besancon Feminin v OGC Nice Cote D`Azur HB",
+  "sport": "handball",
+  "absences": "women's fixture",
+  "context": "The Besancon club calendar lists Nice at home on 21 Nov, all games at 20:00 local (19:00 UTC, matches the board).",
+  "news": "date confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's result-sides (Home 1.36 not allowed)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.brest-bretagnehandball.fr/actualites/ligue-butagaz-energie-2026-2027-les-rebelles-connaissent-leur-calendrier",
+   "https://www.macommune.info/lesbf-connait-son-calendrier-pour-la-saison-2026-2027-de-ligue-butagaz-energie/",
+   "https://ligue-feminine-handball.fr/ligue-butagaz-energie-le-calendier-officiel-de-la-saison-2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:72473286",
+  "fx": "TBV Lemgo Lippe v VfL Gummersbach",
+  "sport": "handball",
+  "absences": "Gummersbach: Ludvig Hallback (leg, collided with own keeper vs Hannover; diagnosis pending), Kay Smits and Nikola Roganovic all missed the midweek EHF European League game",
+  "context": "Gummersbach lost 28-29 at Eurofarm Pelister (Bitola, North Macedonia) midweek: travel plus congestion. KO 20:00 local at the PHOENIX CONTACT arena (matches the board). Previews call it a 'difficult away task' for Gummersbach.",
+  "news": "Gummersbach without Hallback/Smits/Roganovic in Bitola; travel back for Lemgo",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.5,
+    "p": 0.6266,
+    "why": "Gummersbach are missing three named players including scorer Smits, and come off a midweek trip to North Macedonia. Lemgo at home cover a win or a draw. Own p ~0.67 vs house 0.63."
+   }
+  ],
+  "avoid": "Gummersbach 1X2 and -1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.handball-world.news/artikel/gummersbach-ohne-hallbaeck-nach-nordmazedonien-1272143",
+   "https://handballpapst.de/ehf-european-league-maenner/gummersbach-rutscht-durch-knappe-niederlage-in-bitola-auf-platz-zwei-der-gruppe-g/",
+   "https://www.news-on-tour.de/346416/gummersbach-auswaertsspiel-lemgo/",
+   "https://www.wuppertaler-rundschau.de/sport/sporttexte/bhc-im-dauereinsatz-und-kampf-um-klassenerhalt_aid-158718213",
+   "https://www.sportschau.de/regional/wdr/wdr-bhc-ueberholt-eisenach-im-tabellenkeller-der-hbl-102.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Handball-Bundesliga"
+  ]
+ },
+ {
+  "eid": "sr:match:72982648",
+  "fx": "Bidasoa Irun v FC Barcelona",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Asobal J10 at Artaleku, Irun (official calendar). Barca are 10-0 and beat Sevilla 37-28; Bidasoa are 8-2 and won 37-33 at Ademar and 34-24 v Sagunto. Bidasoa are the strongest home side in the league.",
+  "news": "Bidasoa in strong form; Barca unbeaten",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=9.5",
+    "desc": "Home (+9.5)",
+    "odds": 1.54,
+    "p": 0.6116,
+    "why": "Bidasoa are a credible receiver (5-0 at home, scoring 34.4); the trend is 0.80 vs house 0.61. Own p ~0.67."
+   },
+   {
+    "mid": "19",
+    "spec": "total=27.5",
+    "desc": "Over 27.5",
+    "odds": 1.5,
+    "p": 0.6226,
+    "why": "Bidasoa average 34.4 goals; the trend is 0.70 vs house 0.62. Barca concede 26.6, so the margin is tighter: own p ~0.64."
+   }
+  ],
+  "avoid": "Barca -7.5; Barca team Under (p<0.82)",
+  "confidence": 0.3,
+  "sources": [
+   "https://asobal.es/liga/calendario/",
+   "https://www.aragonplay.es/aragondeporte/resultados/balonmano/liga-asobal",
+   "https://asobal.es/liga/resultados/8/",
+   "https://www.eldebate.com/espana/la-voz-de-cordoba/deportes/20261115/angel-ximenez-reencuentra-triunfo-respira-asobal_480992.html",
+   "https://scores24.live/en/handball/m-21-11-2026-morrazo-cangas-bm-sevilla-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72982658",
+  "fx": "CB Cangas v BM Triana",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Cangas are last (2 pts) and have lost their last 4 at home; they lost 28-33 to Puente Genil and 23-29 at home to EON. Triana are 12th (6 pts). Bottom-half clash.",
+  "news": "Cangas bottom and lost 4 straight at home",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Triana 1X2 (away p 0.54 < 0.75); totals (Cangas scored only 23 and 28 recently, which conflicts with the high Over trends)",
+  "confidence": 0.15,
+  "sources": [
+   "https://asobal.es/liga/calendario/",
+   "https://www.aragonplay.es/aragondeporte/resultados/balonmano/liga-asobal",
+   "https://asobal.es/liga/resultados/8/",
+   "https://www.eldebate.com/espana/la-voz-de-cordoba/deportes/20261115/angel-ximenez-reencuentra-triunfo-respira-asobal_480992.html",
+   "https://scores24.live/en/handball/m-21-11-2026-morrazo-cangas-bm-sevilla-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72760362",
+  "fx": "Stella Sports Saint-Maur Handball v Brest Bretagne HB",
+  "sport": "handball",
+  "absences": "women's fixture",
+  "context": "Brest's club calendar confirms J11 at Stella Saint-Maur (Gymnase Brossolette) on 21 Nov 20:30 local (19:30 UTC, matches the board). Saint-Maur are 1-1-8.",
+  "news": "date, venue and KO confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "only total 59.5 in range, p ~0.5",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.brest-bretagnehandball.fr/actualites/ligue-butagaz-energie-2026-2027-les-rebelles-connaissent-leur-calendrier",
+   "https://www.macommune.info/lesbf-connait-son-calendrier-pour-la-saison-2026-2027-de-ligue-butagaz-energie/",
+   "https://ligue-feminine-handball.fr/ligue-butagaz-energie-le-calendier-officiel-de-la-saison-2026-2027/"
+  ]
+ }
+]

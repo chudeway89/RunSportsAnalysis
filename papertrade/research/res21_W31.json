@@ -1,0 +1,540 @@
+[
+ {
+  "eid": "sr:match:75020374",
+  "fx": "Formosa Dreamers v Kaohsiung Poseidon Aquas",
+  "sport": "basketball",
+  "absences": "Aquas No.1 draft pick Adam Hinton played the Oct 19 opener in a mask after a nasal fracture; current status unknown",
+  "context": "TPBL regular season; Dreamers won the Oct 19 meeting 115-114. Dreamers 5-5, Aquas 4-6 (2-5 away).",
+  "news": "No Nov 21 team news found; only the Oct 19 opener report (Dreamers 115-114, Hinton debut in mask).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 1.32 (p 0.71 < 0.75); the first meeting was a 1-point game.",
+  "confidence": 0.15,
+  "sources": [
+   "https://focustaiwan.tw/sports/202610190007"
+  ]
+ },
+ {
+  "eid": "sr:match:72904698",
+  "fx": "Tapiolan Honka v Torpan Pojat",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; Honka 1-9 v Torpan Pojat 6-4; a clear mismatch, but the ML is 1.01 and there is no totals edge.",
+  "news": "No news found; fixture not confirmed by a source (no conflict found).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (women; no in-band edge).",
+  "confidence": 0.1,
+  "sources": [
+   "https://basket.fi/uutiset/honka-ja-catz-naisten-korisliigan-karjessa-joulutauolle/"
+  ]
+ },
+ {
+  "eid": "sr:match:76692534",
+  "fx": "Dalian Wenti v Shanxi Flame",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; WCBA. Asia-basket lists \"Liaoning v Shanxi\" on Nov 21; Dalian Wenti is the Liaoning-province club, so this is probably the same game under a different name.",
+  "news": "The only schedule source (possibly stale) lists Liaoning v Shanxi Nov 21. The pairing matches if Dalian Wenti = Liaoning; time not verified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (women; ML 1.04; naming ambiguity).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.asia-basket.com/China/Womens-Chinese-Basketball-Association.aspx?women=1"
+  ]
+ },
+ {
+  "eid": "sr:match:76692532",
+  "fx": "Guangdong Vermilion Birds v Shanghai Pudong Development Bank",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; WCBA; Guangdong 3-7, Shanghai 5-5.",
+  "news": "Asia-basket schedule lists Guangdong v Shanghai on Nov 21, so the date is consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (women).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.asia-basket.com/China/Womens-Chinese-Basketball-Association.aspx?women=1"
+  ]
+ },
+ {
+  "eid": "sr:match:76692536",
+  "fx": "Henan Phoenix v Jiangsu Phoenix",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; WCBA; Henan 7-3 (85.0-70.6), Jiangsu 4-6.",
+  "news": "Asia-basket schedule lists Henan v Jiangsu on Nov 21, so the date is consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (women); the house makes Jiangsu favourite despite Henan's better form, a possible roster factor we cannot verify.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.asia-basket.com/China/Womens-Chinese-Basketball-Association.aspx?women=1"
+  ]
+ },
+ {
+  "eid": "sr:match:74503112",
+  "fx": "Cardiff Met Archers v London Lions",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; SLBW Championship; Cardiff Met 2-8, London Lions 5-5.",
+  "news": "The London Lions site lists Cardiff Archers v London Lions on Nov 21 at 13:30 GMT, BUT the fixture card status reads \"Cancelled/Forfeited\" (the label also appears on played games, so it may be unreliable).",
+  "veto": true,
+  "veto_reason": "Fixture status conflict: club page shows Cancelled/Forfeited.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.thelondonlions.com/fixtures/november-21-2026-13-30-00",
+   "https://newcastle-eagles.com/news/preview-eagles-women-vs-oaklands-wolves-3/"
+  ]
+ },
+ {
+  "eid": "sr:match:74797820",
+  "fx": "Cholet Basket v Boulazac Dordogne Reserve",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "U21 Espoirs Elite (youth/reserve) J9; Cholet 8-2 v Boulazac reserve 1-9. Clear mismatch, but ML 1.01 and a 25.5 handicap.",
+  "news": "Bebasket lists Cholet-Boulazac on J9 at 14:30 CET (=13:30 UTC), consistent with the board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (youth; no goals-type market in band with an edge).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/ligue/espoirs-elite",
+   "https://www.be-basketball.com/team/espoirs-paris-basketball"
+  ]
+ },
+ {
+  "eid": "sr:match:72627114",
+  "fx": "SK Slavia Prague v Basket Brno",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Maxa NBL regular season. Slavia 7-3 (95.1-79.7, unbeaten-ish at home 3-1) v Brno 5-5 (83.8-83.2). Expected total ~175.",
+  "news": "Prazsky denik and the club listing confirm Slavia ERA NBK v PUMPA Basket Brno, Sat 15:00 CET at Kralovka (=14:00 UTC). No injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=162.5",
+    "desc": "Over 162.5",
+    "odds": 1.2,
+    "p": 0.7999,
+    "why": "Slavia score 95/g overall (97+ at home in last 6) and Brno concede 83; a combined average near 175 gives ~12 pts of cushion. Trend only 0.65, so my estimate is p ~0.78 (house 0.80). Weak pick."
+   }
+  ],
+  "avoid": "Unders (house p <0.82 despite an 0.85 trend); Slavia big handicaps (trend 0.2 at -15.5).",
+  "confidence": 0.2,
+  "sources": [
+   "https://prazsky.denik.cz/ostatni-sporty/kam-o-vikendu-v-praze-za-sportem-96",
+   "https://cz.basketball/basket-v-tv",
+   "https://www.livesport.com/en/basketball/czech-republic/nbl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72904700",
+  "fx": "Vimpelin Veto v Espoo Basket Team",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; Vimpelin Veto 1-9 v Espoo 5-5.",
+  "news": "No news found for the Nov 21 fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away ML 1.22 (women: no result-side).",
+  "confidence": 0.1,
+  "sources": [
+   "https://basket.fi/uutiset/honka-ja-catz-naisten-korisliigan-karjessa-joulutauolle/"
+  ]
+ },
+ {
+  "eid": "sr:match:72686178",
+  "fx": "Kipina Basket v Kataja Basket Joensuu",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Korisliiga R12. Kipina 8-2 (4-0 home) v Kataja 5-5 (1-3 away); the house makes Kataja the 1.64 favourite.",
+  "news": "Official schedule confirms Kipina v Kataja Sat 21.11 16:00 EET (=14:00 UTC) at Jyvaskylan Monitoimitalo. No injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kataja ML (form contradicts the price; p 0.57).",
+  "confidence": 0.15,
+  "sources": [
+   "https://basket.fi/wp-content/uploads/2026/07/2026-2027-Sarjaohjelma-Korisliiga-VAHVISTETTU-260708.pdf",
+   "https://www.suomikoris.com/korisliigan-otteluohjelma/"
+  ]
+ },
+ {
+  "eid": "sr:match:72686180",
+  "fx": "Bisons Loimaa v Kouvot Kouvola",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Korisliiga R12. Bisons 2-8 v Kouvot 3-7 (0-5 away).",
+  "news": "Official schedule confirms Bisons Loimaa v Kouvot Sat 21.11 17:00 EET (=15:00 UTC), Loimaan Liikuntahalli. No news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (two out-of-form sides; no in-band p).",
+  "confidence": 0.1,
+  "sources": [
+   "https://basket.fi/wp-content/uploads/2026/07/2026-2027-Sarjaohjelma-Korisliiga-VAHVISTETTU-260708.pdf",
+   "https://www.suomikoris.com/korisliigan-otteluohjelma/"
+  ]
+ },
+ {
+  "eid": "sr:match:74797830",
+  "fx": "Espoirs Paris v Gravelines Dunkerque Reserve",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "U21 Espoirs Elite J9; Paris 8-2 (5-0 home), last result W 90-84 v Limoges; Gravelines reserve 1-9.",
+  "news": "Bebasket lists Paris-Gravelines 16:00 CET (=15:00 UTC); Be-basketball confirms the Nov 21 date.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 1.14 (below 1.18, youth).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/ligue/espoirs-elite",
+   "https://www.be-basketball.com/team/espoirs-paris-basketball"
+  ]
+ },
+ {
+  "eid": "sr:match:73932602",
+  "fx": "Ka Zana Lelas v Kk FSV Rijeka",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; Croatia women; Lelas 3-7 v Rijeka 4-6.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74797824",
+  "fx": "JSF Nanterre v Strasbourg IG",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "U21 Espoirs Elite J9; Nanterre 3-7 v Strasbourg 2-8; a coin flip.",
+  "news": "Bebasket lists Nanterre-Strasbourg 16:30 CET (=15:30 UTC), consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (youth, coin flip).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/ligue/espoirs-elite",
+   "https://www.be-basketball.com/team/espoirs-paris-basketball"
+  ]
+ },
+ {
+  "eid": "sr:match:73932606",
+  "fx": "ZKK Ragusa Dubrovnik v Jolly Jbs Sibenik",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; Ragusa 8-2 v Sibenik 8-2; top-of-table clash.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72627120",
+  "fx": "BK Decin v BK Opava",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Maxa NBL. Decin 5-5 (3-1 home, 85.1-81.7) v Opava 2-8 (0-5 away, 83.6-89.4 conceded). Opava were 2nd in 2025-26 but are badly out of form.",
+  "news": "CT Sport lists BK ARMEX ENERGY Decin v BK Opava, Sat 21.11.2026 17:00 CET (=16:00 UTC), streamed; consistent with the board. No injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=155.5",
+    "desc": "Over 155.5",
+    "odds": 1.23,
+    "p": 0.7819,
+    "why": "Opava concede 89/g and score 84; Decin 85-82, so the combined average is ~170 and 85% of the two sides' last 20 games cleared 155.5. My estimate is p ~0.81 (house 0.78, sim 0.76)."
+   }
+  ],
+  "avoid": "Opava +11.5 (weak current form; p 0.72); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://prazsky.denik.cz/ostatni-sporty/kam-o-vikendu-v-praze-za-sportem-96",
+   "https://cz.basketball/basket-v-tv",
+   "https://www.livesport.com/en/basketball/czech-republic/nbl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72838612",
+  "fx": "BK Zabiny Brno v SBS Ostrava",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; Czech ZBL women; Zabiny Brno 10-0 (96.5-53.3) v Ostrava 5-5; a huge mismatch (-28.5).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (women; no totals edge in band).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72838614",
+  "fx": "DSK Basketball v Slovanka MB",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; Czech ZBL women; DSK 4-6 v Slovanka 0-10 (59.5-91.3); house has DSK -29.5, consistent with form.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (women; no totals edge in band).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72686184",
+  "fx": "Pyrinto Tampere v Lahti Basketball",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Korisliiga R12. Pyrinto 5-5 (4-1 home) v Lahti 4-6 (1-3 away).",
+  "news": "Official schedule confirms Tampereen Pyrinto v Lahti Basketball Sat 21.11 18:00 EET (=16:00 UTC), Pyynikin Palloiluhalli. No injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pyrinto ML 1.39 (p 0.68).",
+  "confidence": 0.15,
+  "sources": [
+   "https://basket.fi/wp-content/uploads/2026/07/2026-2027-Sarjaohjelma-Korisliiga-VAHVISTETTU-260708.pdf",
+   "https://www.suomikoris.com/korisliigan-otteluohjelma/"
+  ]
+ },
+ {
+  "eid": "sr:match:73932600",
+  "fx": "ZKK Medvescak Zagreb v ZKK Brod Na Savi",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; Medvescak 1-9 v Brod 5-5; +41.5 line.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72627116",
+  "fx": "BK Nova Hut Ostrava v BK Olomoucko",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Maxa NBL. NH Ostrava 6-4 (5-1 home, 85.1-80.7) v Olomoucko 1-9 (1-6 away, 68.8-87.8).",
+  "news": "No source confirmed the Nov 21 date or time (no conflict found either); no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=148.5",
+    "desc": "Over 148.5",
+    "odds": 1.23,
+    "p": 0.7771,
+    "why": "NH Ostrava home games average ~165 total and Olomoucko concede 88/g; 80% of their last 20 cleared 148.5. Risk: Olomoucko only score 69/g, so a blowout with a slow tail could stay low. My estimate is p ~0.79 (house 0.78)."
+   }
+  ],
+  "avoid": "Home -14.5/-15.5 (trend 0.45); Unders (p <0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://prazsky.denik.cz/ostatni-sporty/kam-o-vikendu-v-praze-za-sportem-96",
+   "https://cz.basketball/basket-v-tv",
+   "https://www.livesport.com/en/basketball/czech-republic/nbl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72627118",
+  "fx": "BK Pardubice v BK Hradec Kralove",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Maxa NBL. Pardubice 6-4 (87.5-83.9) v Hradec Kralove 4-6 (82.7-89.1 conceded).",
+  "news": "No source confirmed the Nov 21 date or time (no conflict found); no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=159.5",
+    "desc": "Over 159.5",
+    "odds": 1.24,
+    "p": 0.771,
+    "why": "Both sides concede 84-89 and the combined average is ~172; 70% of the last 20 cleared. My estimate is p ~0.77, equal to the house; marginal."
+   }
+  ],
+  "avoid": "Pardubice -15.5+ (trend 0.3-0.4); Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://prazsky.denik.cz/ostatni-sporty/kam-o-vikendu-v-praze-za-sportem-96",
+   "https://cz.basketball/basket-v-tv",
+   "https://www.livesport.com/en/basketball/czech-republic/nbl/"
+  ]
+ },
+ {
+  "eid": "sr:match:73932604",
+  "fx": "Plamen Pozega v KK Studio Zagreb",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; Pozega 5-5 v Studio Zagreb 7-3.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74295752",
+  "fx": "Elan Chalon v Saint Quentin",
+  "sport": "basketball",
+  "absences": "Chalon: Aher Uguak and Carl Ponsar picked up knocks v Boulazac (status unclear); Yannis Tonnellier back after ~2 months. Saint-Quentin: no injuries reported (Neal, Anderson, Toupane, Munanga, Krubally all featured Nov 14).",
+  "context": "Betclic Elite. Chalon 7-3 (home 4-1, 94.3-79.4). Saint-Quentin was reinstated after Monaco's relegation and sits 3-6, second-last; it was called the league's worst defence during a 4-5 game losing run. It lost 75-81 to Cholet on Nov 14 but beat ASVEL 99-94 on Nov 1.",
+  "news": "Bebasket: Chalon may lose Uguak and Ponsar but regain Tonnellier. SQBB is 3-6 with a porous defence (Erick Neal 38 eval v ASVEL).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=164.5",
+    "desc": "Over 164.5",
+    "odds": 1.24,
+    "p": 0.7807,
+    "why": "SQ have the worst defence in the league, Chalon average 94 at home, and SQ's last 10 averaged 181 total. The main line is 176.5, so 164.5 leaves 12 pts. The trend is 0.70 because of slow Chalon games (68-74). My estimate is p ~0.79."
+   },
+   {
+    "mid": "223",
+    "spec": "hcp=-6.5",
+    "desc": "Home (-6.5)",
+    "odds": 1.24,
+    "p": 0.7846,
+    "why": "Chalon at home v the bottom-two SQ, who are 0-4 away, losing by 6-12. The Uguak/Ponsar knocks trim depth, so my estimate is p ~0.76 (house 0.785). Use only one of the two legs per ticket if correlation matters."
+   }
+  ],
+  "avoid": "SQ +22.5 to +26.5 catches (15+ catch for a weak side, banned); Chalon -10.5 or more while the Uguak/Ponsar status is unknown.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bebasket.fr/chalon-recupere-son-facteur-victoire-yannis-tonnellier-apres-2-mois-d-absence-mais-perd-2-joueurs",
+   "https://www.bebasket.fr/l-asvel-n-est-plus-invaincue-la-folle-redemption-d-erick-neal-offre-un-exploit-xxl-a-saint-quentin",
+   "https://www.ouest-france.fr/sport/basket/cholet/direct-saint-quentin-cholet-basket-cb-doit-relancer-une-dynamique-suivez-le-match-de-betclic-elite-en-live-4e5e1e7c-4b66-49c1-9950-caead2863e85"
+  ]
+ },
+ {
+  "eid": "sr:match:73860822",
+  "fx": "Kk Alkar Sinj v KK Dubrava",
+  "sport": "basketball",
+  "absences": "none reported",
+  "context": "SuperSport Premijer liga R9. Alkar has 3 league wins (beat Kvarner away last round). Dubrava has 1 win, sits near the bottom, lost at home to Zadar, then played midweek in the ENBL (lost to Tindastoll): a travel and fatigue spot.",
+  "news": "The HKS preview confirms Alkar v Dubrava Sat 21 Nov 19:00 CET (=18:00 UTC) in Sinj. Note the board shows 18:00 UTC, consistent. Dubrava is fatigued after the ENBL.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Alkar ML 1.29 (p 0.74, just below the 0.75 bar). Lean Alkar only as a no-pick.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hks-cbf.hr/supersport-premijer/2026/supersport-premijer-liga-9-kolo-najava-zadar-i-cibona-cuvaju-vrh-split-na-velikom-zagrebackom-ispitu/"
+  ]
+ },
+ {
+  "eid": "sr:match:73932608",
+  "fx": "Zkk Zadar Plus v ZKK Tresnjevka 2009",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; Zadar Plus 1-9 v Tresnjevka; -20.5 line.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73860830",
+  "fx": "Kk Cedevita Zagreb Junior v Kk Split",
+  "sport": "basketball",
+  "absences": "none reported",
+  "context": "R9. Split beat Skrljevo in the league, then lost to Trepca in the FIBA Europe Cup midweek (fatigue).",
+  "news": "CONFLICT: the HKS round-9 preview lists the Split game on 21 Nov at 20:00 CET in Zagreb as \"Virtus Zagreb - Split\", not Cedevita Junior. Time and venue city match the board (19:00 UTC), so it may be a renamed club, but team identity is unverified.",
+  "veto": true,
+  "veto_reason": "Team-identity conflict: official HKS round 9 lists Virtus Zagreb v Split, not Cedevita Junior v Split.",
+  "picks": [],
+  "avoid": "Split ML 1.22 (also sim 0.72 < 0.75; midweek Europe Cup).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hks-cbf.hr/supersport-premijer/2026/supersport-premijer-liga-9-kolo-najava-zadar-i-cibona-cuvaju-vrh-split-na-velikom-zagrebackom-ispitu/"
+  ]
+ },
+ {
+  "eid": "sr:match:73860828",
+  "fx": "KK Skrljevo v KK Dinamo Zagreb",
+  "sport": "basketball",
+  "absences": "none reported",
+  "context": "R9. Dinamo Zagreb has 5 league wins (mid-table, beat Samobor). Skrljevo lost narrowly to Split last round; a win would draw it level with rivals.",
+  "news": "The HKS preview confirms DepoLink Skrljevo v Dinamo Zagreb Sat 21 Nov 20:00 CET (=19:00 UTC) in Kostrena (MAXSport). No injuries reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (home ML p 0.60; even contest).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hks-cbf.hr/supersport-premijer/2026/supersport-premijer-liga-9-kolo-najava-zadar-i-cibona-cuvaju-vrh-split-na-velikom-zagrebackom-ispitu/"
+  ]
+ },
+ {
+  "eid": "sr:match:74503114",
+  "fx": "Sheffield Hatters v Leicester Riders",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league: no result-side picks by rule; Sheffield 7-3 v Leicester 1-9; -32.5 line; no ML offered.",
+  "news": "No news found for this date; Oaklands Wolves reportedly beat Sheffield earlier this season.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.thelondonlions.com/fixtures/november-21-2026-13-30-00",
+   "https://newcastle-eagles.com/news/preview-eagles-women-vs-oaklands-wolves-3/"
+  ]
+ },
+ {
+  "eid": "sr:match:74503116",
+  "fx": "Newcastle Eagles v Oaklands Wolves",
+  "sport": "basketball",
+  "absences": "Eagles: Kendall Currence re-signed to replace forward Cordasia Harris",
+  "context": "Women's league: no result-side picks by rule; Eagles 3-3 v Oaklands Wolves 5-1 (the only loss to unbeaten Caledonia; they beat Sheffield).",
+  "news": "Eagles preview confirms Sat Nov 21, 7:30pm at the Vertu Arena; Wolves 5-1 and transition-heavy.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Wolves ML 1.44 (women).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.thelondonlions.com/fixtures/november-21-2026-13-30-00",
+   "https://newcastle-eagles.com/news/preview-eagles-women-vs-oaklands-wolves-3/"
+  ]
+ }
+]

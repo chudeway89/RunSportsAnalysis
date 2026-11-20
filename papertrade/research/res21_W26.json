@@ -1,0 +1,578 @@
+[
+ {
+  "eid": "sr:match:75044442",
+  "fx": "Toyota Boshoku Sunshine Rabbits v Aisin Aw Wings",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's W League wk4, Nagoya double-header game 1 (13:00 JST = 04:00 UTC, consistent). Boshoku 2-8 but house 0.90 v Aisin (3-7, conceding 77.6).",
+  "news": "Nagoya venue 1st game 13:00 JST confirmed by ticket page; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league (W League): no result/handicap picks per rules; only totals in clear mismatches, none in 1.18-2.2 at p>=0.74. ML 1.07 too short; form (Boshoku 0-3 at home) contradicts house 0.90.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.jp.fujitsu.com/redwave/games/49053",
+   "https://lp.p.pia.jp/event/sports/511192/index.html",
+   "https://antelopes.toyotatimes-sports.toyota/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703234",
+  "fx": "Ehime Orange Vikings v Tryhoop Okayama",
+  "sport": "basketball",
+  "absences": "Ehime: Matt Haarms (Achilles, listed Jun 15 - long-term, status unconfirmed)",
+  "context": "B.League One; Okayama 10-0 (6-0 away) v Ehime 2-8. 14:05 JST confirmed.",
+  "news": "Schedule confirmed 14:05 JST; no fresh injury news beyond old Haarms listing",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Okayama ML 1.13 below 1.18 floor; no main-line handicap/total with p>=0.74 in range.",
+  "confidence": 0.2,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703230",
+  "fx": "Tokyo Hachioji Trains v Fukushima Firebonds",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "B.League One; Fukushima 5-5 (5-2 away) v Hachioji 3-7. 14:05 JST at Esforta Arena confirmed.",
+  "news": "Schedule/venue confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fukushima ML 1.07 too short; trend only 0.6 v house 0.90.",
+  "confidence": 0.15,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703232",
+  "fx": "Veltex Shizuoka v Bambitious Nara",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "B.League One; Shizuoka 5-5 v Nara 2-8 (0-2 away). 14:05 JST at Hamamatsu confirmed.",
+  "news": "Schedule/venue confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 1.27 p0.742 below 0.75 ML gate; sim 0.69.",
+  "confidence": 0.15,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:75044444",
+  "fx": "Chanson V-Magic v Denso Iris",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's W League wk4. Denso 7-3 v Chanson 6-4 (3-1 home).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league (W League): no result/handicap picks per rules; only totals in clear mismatches, none in 1.18-2.2 at p>=0.74. Denso away 1.24 p0.766 would otherwise be the candidate; trend only 0.55.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.jp.fujitsu.com/redwave/games/49053",
+   "https://lp.p.pia.jp/event/sports/511192/index.html",
+   "https://antelopes.toyotatimes-sports.toyota/"
+  ]
+ },
+ {
+  "eid": "sr:match:75044446",
+  "fx": "Fujitsu Red Wave v Hitachi High-Tech Cougars",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's W League wk4 GAME 1 of a 2-game series (Nov 21/22, 15:00 JST, Todoroki Arena) - matches 06:00 UTC.",
+  "news": "Fujitsu official site confirms 11/21 15:00 JST v Hitachi High-Tech at Todoroki",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league (W League): no result/handicap picks per rules; only totals in clear mismatches, none in 1.18-2.2 at p>=0.74. ML 1.04 too short.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.jp.fujitsu.com/redwave/games/49053",
+   "https://lp.p.pia.jp/event/sports/511192/index.html",
+   "https://antelopes.toyotatimes-sports.toyota/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703236",
+  "fx": "Aomori Wats v Koshigaya Alphas",
+  "sport": "basketball",
+  "absences": "Koshigaya: Kaito Shike (left thigh muscle injury, on injury list since Oct 30, cannot return before Nov 29)",
+  "context": "B.League One; Koshigaya 9-1 v Aomori 2-8. 15:05 JST confirmed.",
+  "news": "B.League injury list: Koshigaya Shike out to at least Nov 29; schedule confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Koshigaya ML 1.02 too short.",
+  "confidence": 0.2,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703242",
+  "fx": "Fukui Blowwinds v Niigata Albirex BB",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "B.League One; Niigata 8-2 v Fukui 4-6; house makes Fukui home fav 0.68 against form (trend 0.3). 15:05 JST Tsuruga confirmed.",
+  "news": "Schedule/venue confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Data conflict between form (Niigata 8-2, H2H 2-0 Niigata) and house (Fukui 0.68) - no side.",
+  "confidence": 0.15,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703244",
+  "fx": "Gifu Swoops v Rizing Zephyr Fukuoka",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "B.League One; Fukuoka 4-6 (1-3 away) v Gifu 2-8 (2-2 home). 15:05 JST confirmed.",
+  "news": "Schedule/venue confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fukuoka away ML 1.26 p0.751 only just at the 0.75 away gate, sim 0.72, away form 1-3 - skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703248",
+  "fx": "Kagoshima Rebnise v Kagawa Five Arrows",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "B.League One; coin-flip (Kagoshima 0.55). 15:05 JST Satsumasendai confirmed.",
+  "news": "Schedule/venue confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703240",
+  "fx": "Saitama Broncos v Tachikawa Dice",
+  "sport": "basketball",
+  "absences": "Saitama: Luis Kurihara (Achilles rupture, listed Jul 10 - long-term)",
+  "context": "B.League One; both 9-1 (Tachikawa = promoted 2025-26 B3 champion). 15:05 JST confirmed.",
+  "news": "Schedule confirmed; only old long-term injury listing found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 1.10 too short; top-of-table clash between two 9-1 sides.",
+  "confidence": 0.15,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703246",
+  "fx": "Tokushima Gambarous v Iwate Big Bulls",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "B.League One; Tokushima 7-3 (4-0 home) v Iwate 6-4. 15:05 JST confirmed.",
+  "news": "Schedule confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 1.43 p0.66 below gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703238",
+  "fx": "Yamagata Wyverns v Kanazawa Samurai Orchestra",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "B.League One; Yamagata 1-9 (0-4 home) v Kanazawa 4-6. 15:05 JST confirmed.",
+  "news": "Schedule confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away ML 1.31 p0.72 below 0.75 away gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:75044448",
+  "fx": "Toyota Antelopes v Eneos Sunflowers",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's W League wk4, Nagoya game 2 17:00 JST (= 08:00 UTC, consistent) Toyota Antelopes v ENEOS; one source mentions a second Toyota-ENEOS meeting in the same series.",
+  "news": "Toyota official site lists 11/21 17:00 home v ENEOS (Meito Sports Center vs Nagoya pia listing - venue naming differs, time agrees)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league (W League): no result/handicap picks per rules; only totals in clear mismatches, none in 1.18-2.2 at p>=0.74. Home ML 1.21 p0.786 would be the candidate.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.jp.fujitsu.com/redwave/games/49053",
+   "https://lp.p.pia.jp/event/sports/511192/index.html",
+   "https://antelopes.toyotatimes-sports.toyota/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703250",
+  "fx": "Earthfriends Tokyo Z v Tokyo United",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "B.League One; Tokyo United 6-4 v Earthfriends 2-8. Fixture not found in aggregator listing for 11/21 (not a conflict, just unconfirmed).",
+  "news": "no news found; fixture not confirmed by schedule search",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away ML 1.31 p0.72 below gate; fixture unconfirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:72703252",
+  "fx": "Yokohama Excellence v Kumamoto Volters",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "B.League One sec.11 at Yokohama BUNTAI, 17:35 JST (=08:35 UTC) confirmed; Yokohama 7-3, Kumamoto 5-5 (2-5 away).",
+  "news": "Yokohama Excellence official: GAME1 11/21 17:35 at Yokohama BUNTAI",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 1.46 p0.64 below gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://www.bleague.jp/news/injury.html",
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:75109968",
+  "fx": "Palangos Olimpas v BC Silute",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL; Palanga 8-2, 4-0 at home scoring 109.8 ppg; Silute 6-4 (2-3 away). 14:00 local (=12:00 UTC) confirmed.",
+  "news": "Infolaikas lists Palanga v Silute 14:00 Nov 21; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.79028,
+    "why": "Palanga 4-0 at home (avg +13), 8-2 overall; Silute 2-3 away. Mechanism is home form, statistics-led (fill level). My p 0.78 (house 0.79, sim 0.74)."
+   }
+  ],
+  "avoid": "Handicaps: NKL scoring volatile.",
+  "confidence": 0.25,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/",
+   "https://muge.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:75109978",
+  "fx": "Kretingos Kretinga v Mazeikiai M Basket",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL; near coin-flip (Kretinga 2-8, 0-4 home; Mazeikiai 3-7).",
+  "news": "KICK-OFF CONFLICT: Infolaikas lists 16:00 local (=14:00 UTC) vs board 12:10 UTC",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: board 12:10 UTC (14:10 local) vs Infolaikas 16:00 local (14:00 UTC).",
+  "picks": [],
+  "avoid": "Vetoed on time conflict.",
+  "confidence": 0.1,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/",
+   "https://muge.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:75109970",
+  "fx": "KK Vilkaviskio Perlas v BC Jurbarkas-Karys",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL; Jurbarkas (2nd in table) 7-3 v Perlas 4-6 but 4-1 at home. 15:00 local (=13:00 UTC) confirmed by Infolaikas + NKL team page.",
+  "news": "Schedule confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away ML 1.39 p0.68 below gate; Perlas strong at home.",
+  "confidence": 0.15,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/",
+   "https://muge.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:75145546",
+  "fx": "Plunges Olimpas v Atletas Kaunas",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL; Plunge 3-1 at home v Atletas 3-7 (1-4 away, conceding 98). 15:00 local (=13:00 UTC) confirmed, LRT broadcast.",
+  "news": "NKL team page + Infolaikas confirm 15:00 at Plunge sports arena",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 1.07 too short; no handicap/total at p>=0.74 in range.",
+  "confidence": 0.15,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/",
+   "https://muge.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:75109976",
+  "fx": "BC Zalgiris Kaunas II v Kedainiu Sporto Centras",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL; Zalgiris-2 is a RESERVE side (3-7) v Kedainiai 3-7 (0-4 away). 16:00 local (=14:00 UTC) confirmed by Kedainiu muge.",
+  "news": "Kedainiu muge: game Sat Nov 21 16:00 in Kaunas, LRT.lt stream; earlier meetings went to OT/close",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side - no result picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/",
+   "https://muge.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:75109984",
+  "fx": "Vilniaus Stekas v Suduva Mantinga Marijampole",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL; Suduva 8-2 v Stekas 3-7. Infolaikas names host as \"Ukmerge Stekas\" at 16:00 local (=14:00 UTC); board says Vilniaus Stekas - naming only, time agrees.",
+  "news": "Infolaikas lists Stekas v Suduva 16:00 Nov 21",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away ML 1.06 too short.",
+  "confidence": 0.1,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/",
+   "https://muge.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:75109982",
+  "fx": "VILNIUS RYTAS-2 v Vytis Sakiai",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL; Rytas-2 is a RESERVE side (1-9) v Vytis 7-3. 16:00 local (=14:00 UTC) confirmed.",
+  "news": "Infolaikas lists Rytas-2 v Vytis-VDU 16:00 Nov 21",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side - no result picks (Vytis 1.21 p0.788 would otherwise qualify).",
+  "confidence": 0.1,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/",
+   "https://muge.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:75109974",
+  "fx": "Alytaus Patriotai v Neptunas Klaipeda 2",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL; Neptunas-2 RESERVE side (9-1, 4-0 away) at Alytus (6-4). 16:00/16:05 local (=14:00/14:05 UTC) consistent.",
+  "news": "NKL Alytus page 16:05 local; Infolaikas 16:00",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side; coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/",
+   "https://muge.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:73659022",
+  "fx": "Gargzdai Basketball v Taurages Krepsinio Klubas",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "LKL; Gargzdai 6-4 (3-0 home) v Taurage 2-8 (1-5 away). Time sources 16:30-16:50 local (=14:30-14:50 UTC), board 14:50 - within 20 min, not a conflict.",
+  "news": "LKL official 16:30 local, basket.lt/krepsinis.net 16:50; no injury news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=158.5",
+    "desc": "Over 158.5",
+    "odds": 1.22,
+    "p": 0.7870921649,
+    "why": "10 of last 12 games of these sides went over 158.5 (Gargzdai 171 avg, Taurage 165); H2H 159/184. Statistics-only, fill level. My p 0.78 (house 0.787). Third LKL Over - use at most two of the three on any ticket."
+   }
+  ],
+  "avoid": "Away +10.5 (p0.725, sim 0.675 below house).",
+  "confidence": 0.2,
+  "sources": [
+   "https://lkl.lt/tvarkarastis",
+   "https://www.sportas.lt/tvarkarasciai/krepsinio-tvarkarasciai/lkl-tvarkarastis",
+   "https://www.basket.lt/lkl-tvarkarastis/"
+  ]
+ },
+ {
+  "eid": "sr:match:75109980",
+  "fx": "Omega Tauras LSU v BC Telsiai",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL; Telsiai leading the table (8-0 per Infolaikas, 9-1 last 10) at Omega-Tauras-LSU (0-4 at home). Time not confirmed (Infolaikas line garbled).",
+  "news": "Infolaikas lists Omega-Tauras-LSU v Telsiai for Nov 21 but time/venue unreadable; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away ML 1.33 p0.713 below 0.75 away gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://infolaikas.lt/krepsinis/nkl/",
+   "https://nkl.lt/",
+   "https://muge.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:73659024",
+  "fx": "BC Neptunas Klaipeda v BC Jonava",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "LKL; Neptunas 4-6 (3-1 home, games avg 177) v Hipocredit Jonava 3-7. 17:00 local (=15:00 UTC) confirmed by LKL/basket.lt/sportas.lt.",
+  "news": "Time confirmed 17:00 local; no injury news (only Zalgiris injury items found)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=157.5",
+    "desc": "Over 157.5",
+    "odds": 1.22,
+    "p": 0.787692,
+    "why": "Neptunas last 6 games all 162+ (avg 177, 177.8 at home); trend 0.8; Jonava away games lower (152) is the risk. My p 0.79 (house 0.788)."
+   }
+  ],
+  "avoid": "Home ML 1.29 p0.748 just below gate; handicaps p<0.7.",
+  "confidence": 0.25,
+  "sources": [
+   "https://lkl.lt/tvarkarastis",
+   "https://www.sportas.lt/tvarkarasciai/krepsinio-tvarkarasciai/lkl-tvarkarastis",
+   "https://www.basket.lt/lkl-tvarkarastis/"
+  ]
+ },
+ {
+  "eid": "sr:match:73659026",
+  "fx": "BC Siauliai v BC Nevezis Kedainiai",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "LKL; Siauliai 4-6 (home games avg 176) v Nevezis 5-5. Time 18:50-19:10 local (=16:50-17:10 UTC), board 17:10 - consistent.",
+  "news": "LKL homepage 19:00, basket.lt 19:10, sportas.lt 18:50; no injury news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=157.5",
+    "desc": "Over 157.5",
+    "odds": 1.22,
+    "p": 0.7875272358,
+    "why": "Siauliai home games avg 176, Nevezis games 167.6 (last 6: 200,179,169,159,163,156); trend 0.75. My p 0.79 (house 0.788)."
+   }
+  ],
+  "avoid": "Home ML 1.30 p0.743 below gate; Away +12.5 trend 0.9 but sim 0.65 - basketball handicaps FAIL on paper trade.",
+  "confidence": 0.25,
+  "sources": [
+   "https://lkl.lt/tvarkarastis",
+   "https://www.sportas.lt/tvarkarasciai/krepsinio-tvarkarasciai/lkl-tvarkarastis",
+   "https://www.basket.lt/lkl-tvarkarastis/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432798",
+  "fx": "Ueb Cividale v Juvecaserta 2021",
+  "sport": "basketball",
+  "absences": "Juvecaserta: G Alessandro Sperduto (left foot, does not travel)",
+  "context": "Serie A2 round 11 anticipo, 20:00 CET (=19:00 UTC) confirmed. Caserta on a double northern trip (Cividale then recovery game at Torino midweek); Caserta 0-4 away.",
+  "news": "Casertanews: Sperduto stays home for foot therapy; Caserta double away trip Cividale + Torino recovery",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 1.29 p0.734 below 0.75 gate even with Sperduto absent (my p ~0.75).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-dell11-giornata",
+   "https://www.casertanews.it/sport/basket/juvecaserta-cividale-torino-doppia-trasferta.html",
+   "https://pianetabasket.com/serie-a2/torino-ospita-rimini-moretti-servira-una-partita-solida-per-tutti-i-quaranta-minuti"
+  ]
+ },
+ {
+  "eid": "sr:match:73432810",
+  "fx": "Basket Torino v Rinascita Basket Rimini",
+  "sport": "basketball",
+  "absences": "Rimini: Davide Denegri (right leg muscle strain, out)",
+  "context": "Serie A2 round 11 anticipo, 20:30 CET (=19:30 UTC) confirmed. Both 7-3; Torino coach Moretti expects a 40-minute fight.",
+  "news": "Rimini without Denegri at Torino; Torino will also host Caserta in a midweek recovery game",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip (Rimini 0.53); Denegri absence tilts slightly to Torino but no qualifying market.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-dell11-giornata",
+   "https://www.casertanews.it/sport/basket/juvecaserta-cividale-torino-doppia-trasferta.html",
+   "https://pianetabasket.com/serie-a2/torino-ospita-rimini-moretti-servira-una-partita-solida-per-tutti-i-quaranta-minuti"
+  ]
+ }
+]

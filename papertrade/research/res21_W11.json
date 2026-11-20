@@ -1,0 +1,585 @@
+[
+ {
+  "eid": "sr:match:74127054",
+  "fx": "Kentucky Wildcats v Marshall Thundering Herd",
+  "sport": "basketball",
+  "absences": "none reported",
+  "context": "Kentucky (5-0, AP No.12) hosts Marshall (28-9 last season), 6pm ET Lexington. Women.",
+  "news": "UK confirms 6pm ET Friday home game; KO matches board (23:00 UTC); no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's college game: no result-side/handicap picks by rule; board only offers 50/50 centre lines. Handicap -30.5 is a catch line.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ukathletics.com/news/2026/11/20/listen-to-kentucky-womens-basketball-vs-marshall/",
+   "https://www.espn.com/womens-college-basketball/story/_/id/50514128/womens-basketball-2026-2027-power-rankings-top-16-teams",
+   "https://www.foxsports.com/womens-college-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:73697002",
+  "fx": "Atlanta Hawks v Charlotte Hornets",
+  "sport": "basketball",
+  "absences": "ATL out: CJ McCollum (calf, 4+ wks), Mouhamed Gueye, Asa Newell, Henri Veesaar (season); Jock Landale out/questionable (toe vs hip, sources differ); Kingston Flemings DTD (back). CHA: Kon Knueppel and Dennis Schroder out/DTD (hamstring), Grayson Allen concussion (out per SI), Grant Williams out.",
+  "context": "NBA Cup group game, State Farm Arena 7pm ET. Hawks 7-3 L10; Hornets 1-9 L10 and 0-6 on the road, averaging 98.6 pts.",
+  "news": "Both sides depleted; Charlotte missing its top scorers (Knueppel, Schroder, Allen) makes the Hawks a more secure side than ML p 0.695 suggests.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=4.5",
+    "desc": "Home (+4.5)",
+    "odds": 1.25,
+    "p": 0.782982,
+    "why": "Hawks receiving 4.5 v a Hornets side 0-6 away and missing Knueppel/Schroder/Allen; Hawks 7-3 L10. Own p 0.81 (sim 0.80, trend 0.80)."
+   },
+   {
+    "mid": "225",
+    "spec": "total=207.5",
+    "desc": "Over 207.5",
+    "odds": 1.3,
+    "p": 0.7473133766,
+    "why": "Hawks last 6 games all 219+; trend 0.80 over 20 games v house 0.747, sim 0.735. Charlotte absences trim their output, so own p only 0.75 - second choice."
+   }
+  ],
+  "avoid": "Hornets catches (weak, depleted side); Hawks -8.5+ (McCollum out).",
+  "confidence": 0.3,
+  "sources": [
+   "https://heavy.com/sports/nba/atlanta-hawks/injury-report-vs-hornets-november-20/",
+   "https://1049foxsports.iheart.com/content/2026-11-20-hornets-vs-hawks-injury-report-nov-20/",
+   "https://www.si.com/betting/hornets-vs-hawks-prediction-odds-and-best-prop-bets-for-nba-cup-group-play-2026",
+   "https://statz.ai/nba/teams/charlotte-hornets/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:73547834",
+  "fx": "Oklahoma State Cowgirls v Arkansas Little Rock Trojans",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Oklahoma State (5-1, No.25) hosts Little Rock (1-4); second OSU game in three days. Women.",
+  "news": "okstate.com confirms 6:30pm CT Stillwater (=00:30 UTC, matches board); Liv McGill back-to-back 30-pt games.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's college game: no result-side/handicap picks by rule; board only offers 50/50 centre lines. -41.5 catch not allowed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://okstate.com/news/2026/11/19/cowgirl-basketball-hosts-little-rock-for-second-game-in-three-days"
+  ]
+ },
+ {
+  "eid": "sr:match:73697020",
+  "fx": "Brooklyn Nets v Orlando Magic",
+  "sport": "basketball",
+  "absences": "ORL out: Paolo Banchero (ankle), Jonathan Isaac (knee), Izaiyah Nelson, Noah Penda. BKN: Grant Nelson (two-way) out - ankle vs hamstring, one iHeart report lists no Nets injuries.",
+  "context": "NBA Cup group game, Barclays 7:30pm ET. Nets on a losing streak (3-7 L10, conceding 117+); Magic 5-5, 4-2 away; Franz Wagner 27+ in three straight.",
+  "news": "Banchero out for Orlando; Nets on a losing streak; Wagner in form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-4.5",
+    "desc": "Away (+4.5)",
+    "odds": 1.22,
+    "p": 0.797347,
+    "why": "Magic +4.5: Nets lost last three by 30, 12, 37 at home/away and are 1-3 at home; Wagner carrying Orlando without Banchero. Own p 0.79 (sim 0.78, trend only 0.60) - lower confidence."
+   }
+  ],
+  "avoid": "Totals (Banchero out cuts Magic scoring, trend 0.65 vs house 0.75); Nets +12.5+ catch (weak side).",
+  "confidence": 0.22,
+  "sources": [
+   "https://sports.yahoo.com/articles/full-nets-injury-report-fridays-032121754.html",
+   "https://www.netsdaily.com/nets-game-previews/116450/nets-magic-preview-nba-cup-losing-streak",
+   "https://957wdae.iheart.com/content/2026-11-20-magic-vs-nets-injury-report-nov-20/"
+  ]
+ },
+ {
+  "eid": "sr:match:74802242",
+  "fx": "Connecticut Huskies v Seton Hall Pirates",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "UConn (No.7, 3-2, offensive struggles incl. loss at Louisville) hosts Seton Hall (2-3), PeoplesBank Arena 8pm ET. Women.",
+  "news": "Date/venue consistent; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's college game: no result-side/handicap picks by rule; board only offers 50/50 centre lines.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ukathletics.com/news/2026/11/20/listen-to-kentucky-womens-basketball-vs-marshall/",
+   "https://www.espn.com/womens-college-basketball/story/_/id/50514128/womens-basketball-2026-2027-power-rankings-top-16-teams",
+   "https://www.foxsports.com/womens-college-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:75922408",
+  "fx": "Hawaii Hilo Vulcans v Cal State Monterey Bay Otters",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Big Island Invitational, Hilo home. D2.",
+  "news": "Hilo lists Afook-Chinen Civic Auditorium 5pm HST; CSUMB lists Vulcan Gym 7pm PT (same time, both in Hilo - minor venue wording difference, home side unchanged).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA Division II (thin coverage); no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hiloathletics.com/sports/mens-basketball/schedule/2026-27",
+   "https://otterathletics.com/sports/mens-basketball/schedule/2026-27",
+   "https://www.westhawaiitoday.com/2026/11/19/sports/uh-hilo-hoops-men-splash-15-treys-in-home-opening-win-women-fall-to-alaska-anchorage/"
+  ]
+ },
+ {
+  "eid": "sr:match:74799746",
+  "fx": "Washington Huskies v Stanford Cardinal",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "No.16 Washington hosts Stanford, Hec Edmundson Pavilion. Women.",
+  "news": "Fox lists Friday Nov 20 at Seattle (3:00 UTC matches board); no preview or injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's college game: no result-side/handicap picks by rule; board only offers 50/50 centre lines. ML 1.09 below range; -13.5 catch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ukathletics.com/news/2026/11/20/listen-to-kentucky-womens-basketball-vs-marshall/",
+   "https://www.espn.com/womens-college-basketball/story/_/id/50514128/womens-basketball-2026-2027-power-rankings-top-16-teams",
+   "https://www.foxsports.com/womens-college-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:75922410",
+  "fx": "Stanislaus State Warriors v St Martins Saints",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Likely part of the Big Island Invitational in Hilo (neutral site?), D2.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA Division II (thin coverage); no picks. Possible neutral venue despite home listing.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hiloathletics.com/sports/mens-basketball/schedule/2026-27",
+   "https://otterathletics.com/sports/mens-basketball/schedule/2026-27",
+   "https://www.westhawaiitoday.com/2026/11/19/sports/uh-hilo-hoops-men-splash-15-treys-in-home-opening-win-women-fall-to-alaska-anchorage/"
+  ]
+ },
+ {
+  "eid": "sr:match:75922412",
+  "fx": "Westmont Warriors v Simon Fraser Clan",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Likely part of the Big Island Invitational in Hilo (neutral site?), D2.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA Division II (thin coverage); no picks. Westmont ML p 0.757 but no team info and possible neutral site.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hiloathletics.com/sports/mens-basketball/schedule/2026-27",
+   "https://otterathletics.com/sports/mens-basketball/schedule/2026-27",
+   "https://www.westhawaiitoday.com/2026/11/19/sports/uh-hilo-hoops-men-splash-15-treys-in-home-opening-win-women-fall-to-alaska-anchorage/"
+  ]
+ },
+ {
+  "eid": "sr:match:74270450",
+  "fx": "Saint Marys Gaels v Saint Louis Billikens",
+  "sport": "basketball",
+  "absences": "none reported",
+  "context": "Saint Mary's (4-1, 4 straight home wins) v Saint Louis (3-1, coming off 68-58 home loss, 7-31 3PT). 11pm ET Moraga.",
+  "news": "Previews split (most SMC by 4-6; one picks SLU). Market spread 1.5-2.5, total ~160.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; board shows only centre lines (~50/50) or ML outside 1.18-2.2.",
+  "confidence": 0.15,
+  "sources": [
+   "https://ats.io/college-basketball/saint-louis-vs-saint-marys-prediction-november-20-2026/",
+   "https://sports.betmgm.com/en/blog/ncaab/saint-louis-saint-marys-prediction-odds-picks-nov-20-college-basketball-jaa/",
+   "https://www.wagertalk.com/news/college-basketball/saint-louis-vs-saint-marys-predictions-picks-and-odds-november-20-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73934842",
+  "fx": "USC Trojans v Baylor Bears",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "USC (No.4, 3-1) v unbeaten Baylor at Intuit Dome, Inglewood (neutral-ish), 11pm ET. Women.",
+  "news": "Venue Intuit Dome (USC listed home); no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's college game: no result-side/handicap picks by rule; board only offers 50/50 centre lines. Big-club clash; ML 1.10 below range.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ukathletics.com/news/2026/11/20/listen-to-kentucky-womens-basketball-vs-marshall/",
+   "https://www.espn.com/womens-college-basketball/story/_/id/50514128/womens-basketball-2026-2027-power-rankings-top-16-teams",
+   "https://www.foxsports.com/womens-college-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:73665318",
+  "fx": "Bucknell Bison v Siena Saints",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Bucknell (1-4) hosts Siena (3-2), Sojka Pavilion 11am ET; Pachucki double figures every game.",
+  "news": "Bucknell confirms 11am ET Saturday (=16:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; board shows only centre lines (~50/50) or ML outside 1.18-2.2.",
+  "confidence": 0.12,
+  "sources": [
+   "https://bucknellbison.com/news/2026/11/20/mens-basketball-entertains-siena-saturday-morning-at-sojka",
+   "https://uncgspartans.com/news/2026/11/20/mens-basketball-mens-basketball-welcomes-usc-upstate-for-saturday-morning-showdown.aspx",
+   "https://stonybrookathletics.com/sports/mens-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:73738926",
+  "fx": "North Carolina Greensboro Spartans v USC Upstate Spartans",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "UNCG hosts USC Upstate (picked 8th in Big South), Bodford Arena 11am ET. UNCG won last three H2H; 3-0 at home averaging 90; Upstate 0-4 away.",
+  "news": "UNCG release confirms date/time/venue.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.755019,
+    "why": "UNCG DNB: won last 3 H2H, 3-0 home (avg +25), Upstate 0-4 away and picked 8th. Own p 0.77. ML p 0.748 just under the 0.75 gate, DNB is the gated instrument."
+   }
+  ],
+  "avoid": "Handicap -7.5 (catch-type, November).",
+  "confidence": 0.22,
+  "sources": [
+   "https://bucknellbison.com/news/2026/11/20/mens-basketball-entertains-siena-saturday-morning-at-sojka",
+   "https://uncgspartans.com/news/2026/11/20/mens-basketball-mens-basketball-welcomes-usc-upstate-for-saturday-morning-showdown.aspx",
+   "https://stonybrookathletics.com/sports/mens-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:74979406",
+  "fx": "Michigan State Spartans v Detroit Mercy Titans",
+  "sport": "basketball",
+  "absences": "MSU: Kaleb Glenn out for season; starters Jordan Scott (shoulder) and Coen Carr (knee tendinitis) questionable.",
+  "context": "No.2 Michigan State bouncing back from 61-46 loss at Tennessee v winless Detroit Mercy; noon ET Breslin (BTN).",
+  "news": "Noon ET confirmed by multiple previews; old 6:30pm Breslin page is last season's.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; board shows only centre lines (~50/50) or ML outside 1.18-2.2. -41.5 catch; questionable starters add margin variance.",
+  "confidence": 0.15,
+  "sources": [
+   "https://fieldlevelmedia.com/ncaab/no-2-michigan-state-not-looking-past-winless-detroit-mercy/",
+   "https://sports.yahoo.com/articles/pair-spartans-questionable-vs-detroit-010412122.html",
+   "https://bvmsports.com/2026/11/19/detroit-mercy-visits-no-2-michigan-state-after-season-opening-loss/"
+  ]
+ },
+ {
+  "eid": "sr:match:74271096",
+  "fx": "Cleveland State Vikings v Kent State Golden Flashes",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Kent State at Cleveland State 1pm ET.",
+  "news": "Kent State schedule confirms road game 1pm ET; Sports Media Watch also lists Cleveland State v Case Western 7pm the same day (likely a different team/listing error) - minor data conflict, no veto.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; board shows only centre lines (~50/50) or ML outside 1.18-2.2. Listing conflict for Cleveland State.",
+  "confidence": 0.1,
+  "sources": [
+   "https://emueagles.com/news/2026/11/19/mens-basketball-eastern-hosting-denver-saturday",
+   "https://kentstatesports.com/sports/mens-basketball/schedule",
+   "https://www.sportsmediawatch.com/tv-schedules/college-sports/college-basketball-tv-schedule-men/"
+  ]
+ },
+ {
+  "eid": "sr:match:74271088",
+  "fx": "Eastern Michigan Eagles v Denver Pioneers",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "EMU (3-1, two straight wins) hosts Denver, 1pm ET Ypsilanti, Dad's/Alumni Day.",
+  "news": "EMU release confirms 1pm ET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "EMU ML p 0.729 below 0.75; trend 0.50.",
+  "confidence": 0.12,
+  "sources": [
+   "https://emueagles.com/news/2026/11/19/mens-basketball-eastern-hosting-denver-saturday",
+   "https://kentstatesports.com/sports/mens-basketball/schedule",
+   "https://www.sportsmediawatch.com/tv-schedules/college-sports/college-basketball-tv-schedule-men/"
+  ]
+ },
+ {
+  "eid": "sr:match:73691838",
+  "fx": "Bowling Green Falcons v Northern Illinois Huskies",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Bowling Green v Northern Illinois 2pm ET (ESPN+). Venue not confirmed in sources.",
+  "news": "Only a TV listing found; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; board shows only centre lines (~50/50) or ML outside 1.18-2.2.",
+  "confidence": 0.1,
+  "sources": [
+   "https://emueagles.com/news/2026/11/19/mens-basketball-eastern-hosting-denver-saturday",
+   "https://kentstatesports.com/sports/mens-basketball/schedule",
+   "https://www.sportsmediawatch.com/tv-schedules/college-sports/college-basketball-tv-schedule-men/"
+  ]
+ },
+ {
+  "eid": "sr:match:74062452",
+  "fx": "Portland Pilots v Fordham Rams",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Acrisure Series, Acrisure Arena Palm Desert (neutral) 11am PT. Portland 3-2.",
+  "news": "Portland official: neutral site 11am PT (=19:00 UTC, matches board); board lists Portland home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fordham ML p 0.715 below away 0.75 gate; neutral site.",
+  "confidence": 0.12,
+  "sources": [
+   "https://portlandpilots.com/sports/mens-basketball/schedule/2026-27",
+   "https://lmulions.com/sports/mens-basketball/schedule/2026-27",
+   "https://ucirvinesports.com/sports/mens-basketball/schedule/2025-26",
+   "https://www.flohoops.com/articles/16326161-acrisure-series-2026-early-schedule-teams-and-game-times"
+  ]
+ },
+ {
+  "eid": "sr:match:75052520",
+  "fx": "Saint Peter's Peacocks v Stony Brook Seawolves",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Stony Brook at Saint Peter's, Jersey City 2pm ET.",
+  "news": "Stony Brook schedule confirms; no preview.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; board shows only centre lines (~50/50) or ML outside 1.18-2.2.",
+  "confidence": 0.1,
+  "sources": [
+   "https://bucknellbison.com/news/2026/11/20/mens-basketball-entertains-siena-saturday-morning-at-sojka",
+   "https://uncgspartans.com/news/2026/11/20/mens-basketball-mens-basketball-welcomes-usc-upstate-for-saturday-morning-showdown.aspx",
+   "https://stonybrookathletics.com/sports/mens-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72714582",
+  "fx": "Wake Forest Demon Deacons v Western Carolina Catamounts",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Wake Forest (Juke Harris 21.3 ppg) hosts Western Carolina, LJVM Coliseum 2pm ET (ACCNX).",
+  "news": "Fox lists 1pm ET vs ESPN/Rotowire 2pm ET; board 19:00 UTC = 2pm ET matches majority.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.05 below range; -15.5 is a catch (November).",
+  "confidence": 0.12,
+  "sources": [
+   "https://www.foxsports.com/college-basketball/western-carolina-catamounts-vs-wake-forest-demon-deacons-nov-21-2026-game-boxscore-267714",
+   "https://www.rotowire.com/betting/college-basketball/game/wake-forest-vs-western-carolina-odds-2026-11-21-3006259"
+  ]
+ },
+ {
+  "eid": "sr:match:74324284",
+  "fx": "Wichita State Shockers v New Mexico Lobos",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Home-and-home series opener at Charles Koch Arena; Wichita 5-0 home L10; New Mexico won last 3 H2H.",
+  "news": "Date/venue confirmed by Wichita State; times differ (1pm/2pm/7pm across listings), board 19:00 UTC = 1pm CT.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; board shows only centre lines (~50/50) or ML outside 1.18-2.2. Coin-flip lines.",
+  "confidence": 0.12,
+  "sources": [
+   "https://goshockers.com/news/2026/7/8/mens-basketball-shockers-lobos-announce-home-and-home-series.aspx",
+   "https://www.cbssports.com/college-basketball/teams/WICHST/wichita-state-shockers/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:74148998",
+  "fx": "Missouri State Bears v Drake Bulldogs",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Missouri State (4-0) hosts Drake (3-1), 2pm CT Great Southern Bank Arena; 75th meeting.",
+  "news": "Official release confirms.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; board shows only centre lines (~50/50) or ML outside 1.18-2.2.",
+  "confidence": 0.12,
+  "sources": [
+   "https://missouristatebears.com/news/2026/11/19/mens-basketball-missouri-state-hosts-drake-in-saturday-shootout-at-gsb",
+   "https://www.espn.com/watch/schedule/_/type/upcoming/startDate/20261121",
+   "https://www.teamrankings.com/ncb/schedules/season/"
+  ]
+ },
+ {
+  "eid": "sr:match:74067030",
+  "fx": "Wisconsin Milwaukee Panthers v St. Thomas (MN) Tommies",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Milwaukee hosts St. Thomas, 3pm ET (ESPN).",
+  "news": "Time consistent; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; board shows only centre lines (~50/50) or ML outside 1.18-2.2.",
+  "confidence": 0.1,
+  "sources": [
+   "https://missouristatebears.com/news/2026/11/19/mens-basketball-missouri-state-hosts-drake-in-saturday-shootout-at-gsb",
+   "https://www.espn.com/watch/schedule/_/type/upcoming/startDate/20261121",
+   "https://www.teamrankings.com/ncb/schedules/season/"
+  ]
+ },
+ {
+  "eid": "sr:match:75000400",
+  "fx": "La Salle Explorers v Penn Quakers",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Big 5 city game: Penn at La Salle, John Glaser Arena 4pm ET.",
+  "news": "Time consistent; no news. Local rivalry.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; board shows only centre lines (~50/50) or ML outside 1.18-2.2. Derby-type game.",
+  "confidence": 0.1,
+  "sources": [
+   "https://missouristatebears.com/news/2026/11/19/mens-basketball-missouri-state-hosts-drake-in-saturday-shootout-at-gsb",
+   "https://www.espn.com/watch/schedule/_/type/upcoming/startDate/20261121",
+   "https://www.teamrankings.com/ncb/schedules/season/"
+  ]
+ },
+ {
+  "eid": "sr:match:74062560",
+  "fx": "San Diego Toreros v UC Irvine Anteaters",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Acrisure Series, Palm Desert (neutral) - UCI official 1:30pm PT.",
+  "news": "Times conflict across listings (1:30pm PT official, Yahoo 4:30pm, ESPN 10pm ET); board 21:30 UTC matches UCI official. Neutral venue though San Diego listed home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; board shows only centre lines (~50/50) or ML outside 1.18-2.2. Time conflict across sources.",
+  "confidence": 0.1,
+  "sources": [
+   "https://portlandpilots.com/sports/mens-basketball/schedule/2026-27",
+   "https://lmulions.com/sports/mens-basketball/schedule/2026-27",
+   "https://ucirvinesports.com/sports/mens-basketball/schedule/2025-26",
+   "https://www.flohoops.com/articles/16326161-acrisure-series-2026-early-schedule-teams-and-game-times"
+  ]
+ },
+ {
+  "eid": "sr:match:75394948",
+  "fx": "UTSA Roadrunners v Air Force Falcons",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Military Classic, San Antonio; Air Force 0-5 away L10.",
+  "news": "ESPN 5pm ET matches board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UTSA ML p 0.716 below gate; trend 0.50.",
+  "confidence": 0.12,
+  "sources": [
+   "https://gopoly.com/news/2026/11/20/mens-basketball-mustangs-back-home-to-host-northern-arizona-saturday-afternoon",
+   "https://sports.yahoo.com/articles/2026-27-men-college-basketball-134830611.html",
+   "https://www.espn.com/watch/schedule/_/type/upcoming/startDate/20261121"
+  ]
+ },
+ {
+  "eid": "sr:match:74605546",
+  "fx": "Cal Poly Mustangs v Northern Arizona Lumberjacks",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Cal Poly (2-3, Hamad Mousa one of the nation's top scorers) hosts NAU at Mott Center 4pm PT; Cal Poly 3-0 home avg 96; NAU 0-8 away L10.",
+  "news": "Cal Poly release confirms 4pm PT Saturday (=00:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7572902288,
+    "why": "Cal Poly DNB: 3-0 home scoring 96, NAU 0-8 on the road in last 10, Mousa elite scorer. Own p 0.77."
+   }
+  ],
+  "avoid": "Handicap -7.5 (catch-type).",
+  "confidence": 0.2,
+  "sources": [
+   "https://gopoly.com/news/2026/11/20/mens-basketball-mustangs-back-home-to-host-northern-arizona-saturday-afternoon",
+   "https://sports.yahoo.com/articles/2026-27-men-college-basketball-134830611.html",
+   "https://www.espn.com/watch/schedule/_/type/upcoming/startDate/20261121"
+  ]
+ },
+ {
+  "eid": "sr:match:74027074",
+  "fx": "Elon Phoenix v Morehead St Eagles",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Elon hosts Morehead State, Schar Center 7pm ET (FLO).",
+  "news": "Date/time consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.12 below range; -12.5 catch. Elon 2-8 L10 per data despite heavy favouritism - data likely last season.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.rotowire.com/betting/college-basketball/game/elon-vs-morehead-state-odds-2026-11-21-3024427",
+   "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2210/elon-phoenix"
+  ]
+ },
+ {
+  "eid": "sr:match:74062562",
+  "fx": "Loyola Marymount Lions v California Baptist Lancers",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Acrisure Series, Palm Desert (neutral) 4pm PT.",
+  "news": "LMU official: Acrisure Arena 4pm PT (=00:00 UTC); neutral site though LMU listed home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.12 below range; -13.5 catch; neutral venue.",
+  "confidence": 0.1,
+  "sources": [
+   "https://portlandpilots.com/sports/mens-basketball/schedule/2026-27",
+   "https://lmulions.com/sports/mens-basketball/schedule/2026-27",
+   "https://ucirvinesports.com/sports/mens-basketball/schedule/2025-26",
+   "https://www.flohoops.com/articles/16326161-acrisure-series-2026-early-schedule-teams-and-game-times"
+  ]
+ },
+ {
+  "eid": "sr:match:74101530",
+  "fx": "Villanova Wildcats v Michigan Wolverines",
+  "sport": "basketball",
+  "absences": "none reported",
+  "context": "Michigan (3-1, No.18/21) v Villanova (3-2, lost by 20 at Pitt) at Xfinity Mobile Arena, Philadelphia, 7pm ET FOX. Michigan to Players Era (Vegas) Tuesday.",
+  "news": "ESPN predictor Michigan 52.7%; Michigan frontcourt (Estrella 16.8/9) edge. Big-club clash.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result-side; coin-flip lines.",
+  "confidence": 0.12,
+  "sources": [
+   "https://mgoblue.com/news/2026/11/18/mens-basketball-michigan-villanova-to-renew-rivalry-in-philadelphia",
+   "https://sports.yahoo.com/articles/villanova-vs-michigan-game-preview-140000898.html",
+   "https://www.espn.com/mens-college-basketball/game/_/gameId/401921776/michigan-villanova"
+  ]
+ }
+]

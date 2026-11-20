@@ -1,0 +1,544 @@
+[
+ {
+  "eid": "sr:match:72491468",
+  "fx": "FC Badalona Women v RC Deportivo De La Coruna",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Women's fixture: goals-only rule; date/venue only checked. Liga F J12 at Municipal de Palamós (Badalona home venue), 12:00 CET = 11:00 UTC matches board. Badalona 0 home wins in 4 (0 goals scored at home).",
+  "news": "Liga F/LaLiga list it Sat 21 Nov 12:00 CET, Palamós; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything (women's, no clear mismatch: home 0.42)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.laliga.com/en-GB/futbol-femenino",
+   "https://en.ligaf.es/",
+   "https://www.elsevillista.es/2026/11/decimosegunda-jornada-de-la-liga-f.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72883774",
+  "fx": "CA Osasuna v Real Zaragoza",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 3. Osasuna 1W in 5 at home, conceding 3.2/home game; Zaragoza U19 4W4D2L.",
+  "news": "Listed Sat 12:00 CET (lapreferente quiniela); RFEF PDF dates J10 as 22-11 (nominal weekend date, not a conflict). No team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides, Unders, handicaps (youth)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fcbarcelona.es/es/futbol/juvenil-a/calendario",
+   "https://rfef.es/sites/default/files/2026-07/DHJ_Calendario_Grupo_3.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72883770",
+  "fx": "FC Barcelona v CF Badalona",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 3. Barça U19 heavy favourite (0.90) but only 5W4D1L in last 10; Badalona U19 4W4D1L, scoring 2.4/g.",
+  "news": "Barça club calendar: Sat 21 Nov 12:00 CET, Ciutat Esportiva Joan Gamper; RFEF PDF nominal J10 date 22-11. No absences found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Barça 1X2 at 1.07 (sub-1.15 padding); Over 2.5 1.27 is plausible but Badalona have drawn 4 of 9 and Barça drew 3-3/1-1/1-1 recently: not taken",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fcbarcelona.es/es/futbol/juvenil-a/calendario",
+   "https://rfef.es/sites/default/files/2026-07/DHJ_Calendario_Grupo_3.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72882632",
+  "fx": "RC Deportivo De La Coruna v ED Val Minor Nigran",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Galician youth group. Depor U19 8W/10, 4/4 home wins (3.5 gf); Val Miñor 6W/10 but beat Depor 2-1 in last H2H.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides, Unders, handicaps (youth)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:72885380",
+  "fx": "CF Acodetti v CD Tenerife",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Canarias youth group. Tenerife U19 8W1D1L, 2.8 gf, 0.7 ga; Acodetti strong at home (4/5 W, 2.2 gf).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.57,
+    "p": 0.5943,
+    "why": "Fixture-specific scoring: 5 of Tenerife's last 6 and 5 of Acodetti's last 6 had 3+ goals; trend 0.85 vs house 0.59; Acodetti scores 2.2/home game. Youth Over, so fill only. My p ~0.64"
+   }
+  ],
+  "avoid": "Tenerife 1X2 away (p 0.71 < 0.75)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:72559244",
+  "fx": "CD Mirandes v Athletic Bilbao B",
+  "sport": "football",
+  "absences": "Mirandés: Markel Lozano suspended (red card v Lugo). Athletic B: no news found",
+  "context": "Primera Federación G1 J13. Mirandés (relegated from Segunda in May) 4th; won 3-1 at leaders Lugo last round. Athletic B is a reserve side.",
+  "news": "KICK-OFF CONFLICT: Movistar Plus lists Sat 21 13:00 CET (=12:00 UTC, board), bilbaohiria preview says 16:30 CET",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (13:00 vs 16:30 CET); also reserve away side",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.movistarplus.es/deportes/real-zaragoza",
+   "https://www.cdmirandes.com/noticias/markel-lozano-baja-por-sancion-ante-el-bilbao-athletic",
+   "https://bilbaohiria.com/deportes/mirandes-bilbao-athletic-horario-tv-primera-federacion/"
+  ]
+ },
+ {
+  "eid": "sr:match:72884878",
+  "fx": "AD Alcorcon v Albacete Balompie",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 5. Both weak: Alcorcón 2W/10, Albacete 0W in 5 away and 0 away goals.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides, Unders, handicaps (youth)",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/sites/default/files/2026-07/DHJ_Calendario_Grupo_5.pdf",
+   "https://www.lapreferente.com/E5076/club-atletico-de-madrid-sad-juvenil"
+  ]
+ },
+ {
+  "eid": "sr:match:72885896",
+  "fx": "CD Castellon SAD v Murcia Promises CF",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 7 (Valencia/Murcia). Only 8 markets listed (thin book). Castellón 3/4 home W.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything (thin market, home result-side in youth)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/division-de-honor-juvenil-grupo-7/94/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72884882",
+  "fx": "Merida v Atletico Madrid",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 5 J10. Atlético U19 8W/10 (2.7 gf); Mérida 1W/9, conceding 2.44/g.",
+  "news": "lapreferente J10 quiniela lists Atlético S-16:00 Sat 21/11 (=15:00 UTC, board); RFEF PDF nominal 22-11; futbolme page shows Fri 20 but is the 2025-26 page (stale, discounted). No team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.6949,
+    "why": "Clear mismatch with leaky home side: 5 of Mérida's last 6 and 5 of Atlético's last 6 had 3+ goals (trend 0.79 v house 0.695). My p ~0.73"
+   }
+  ],
+  "avoid": "Atlético 1X2 1.20 (youth result side), AH",
+  "confidence": 0.2,
+  "sources": [
+   "https://rfef.es/sites/default/files/2026-07/DHJ_Calendario_Grupo_5.pdf",
+   "https://www.lapreferente.com/E5076/club-atletico-de-madrid-sad-juvenil"
+  ]
+ },
+ {
+  "eid": "sr:match:72885892",
+  "fx": "Real Murcia v CD San Francisco",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 7. Real Murcia U19 3/4 home W; San Francisco 1W in 4 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides, Unders, handicaps (youth)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/division-de-honor-juvenil-grupo-7/94/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72884872",
+  "fx": "CF Talavera v Rayo Vallecano",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 5. Talavera 3W/10, 1W in 4 at home; Rayo U19 6W2D2L, mostly 1-goal games.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides, Unders, handicaps (youth)",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/sites/default/files/2026-07/DHJ_Calendario_Grupo_5.pdf",
+   "https://www.lapreferente.com/E5076/club-atletico-de-madrid-sad-juvenil"
+  ]
+ },
+ {
+  "eid": "sr:match:73068218",
+  "fx": "Antequera CF v Juventud Torremolinos CF",
+  "sport": "football",
+  "absences": "Antequera: Dani Alvocer (injured)",
+  "context": "Primera Federación G2 J13, Málaga provincial DERBY at El Maulí, Sat 16:30 CET (=15:30 UTC, board). Antequera 4 pts from last 5, lost 2-1 at Algeciras; 11 of their points at home. Torremolinos unbeaten since 3 Oct (points in 6 straight rounds).",
+  "news": "Previews (101TV, El Sol de Antequera) confirm Sat 21 at El Maulí; one older calendar article says J13 22 Nov (nominal), previews consistent on Saturday",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (derby rule); Antequera 1.67 is fragile v an unbeaten Torremolinos",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.101tv.es/deportes/fer-perez-portero-del-antequera-cf-antes-del-duelo-con-juventud-torremolinos-en-el-mauli-estoy-seguro-de-que-el-sabado-vamos-a-ganar/",
+   "https://elsoldeantequera.com/deportes/el-derbi-malagueno-se-juega-primero-en-antequera-este-sabado-el-juventud-de-torremolinos/"
+  ]
+ },
+ {
+  "eid": "sr:match:73068232",
+  "fx": "Real Zaragoza v CF Rayo Majadahonda",
+  "sport": "football",
+  "absences": "Real Zaragoza: Sergio Escudero ruled out; Ander Herrera and Iker Vadillo doubtful/unlikely. Majadahonda: no news found",
+  "context": "Primera Federación G2 J13, Ibercaja Estadio Sat 16:30 CET (=15:30 UTC, board). Zaragoza leaders on 27 pts (+4), unbeaten in last 10 (7W3D, 2.4 gf/0.7 ga). Rayo Majadahonda penultimate on 7 pts, ZERO away points, new coach Carlos Martínez; 0.33 away goals/game.",
+  "news": "Leader v penultimate; coach warns of overconfidence; 3 Zaragoza absentees incl. Herrera",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.6758,
+    "why": "Leader unbeaten in 10 v side with 0 away points and new coach; Majadahonda score 0.33/away game. Absences (Herrera, Escudero, Vadillo) trim it. My p ~0.70"
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "No",
+    "odds": 1.73,
+    "p": 0.5219,
+    "why": "Majadahonda failed to score in 4 of last 6 (0.6 gf/10, 0.33 away); Zaragoza concede 0.7. Trend 0.75 v house 0.52. My p ~0.57 (fill only)"
+   }
+  ],
+  "avoid": "Zaragoza -1.5 AH (sim 0.41); Over 2.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportaragon.com/futbol-aragon/real-zaragoza/real-zaragoza-rayo-majadahonda-lider-quiere-seguir-disfrutando-mas-alto-primera-rfef/20261120100721163392.html",
+   "https://www.aragondigital.es/articulo/real-zaragoza/horario-ver-real-zaragoza-majadahonda/202611201048371023191.html",
+   "https://www.aragondigital.es/articulo/real-zaragoza/entrenador-real-zaragoza-exceso-confianza/202611201756011023331.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72491460",
+  "fx": "SD Eibar v Atletico Madrid W",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Women's fixture: goals-only rule; date/venue only checked. Liga F J12 at Ipurúa 17:00 CET (=16:00 UTC, board). Atlético 7W/10.",
+  "news": "Liga F/LaLiga/El Sevillista agree on Sat 17:00 CET; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything (women's; Atlético 0.72 not a clear-enough mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.laliga.com/en-GB/futbol-femenino",
+   "https://en.ligaf.es/",
+   "https://www.elsevillista.es/2026/11/decimosegunda-jornada-de-la-liga-f.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72884880",
+  "fx": "ADS Hortaleza v AD Union Adarve",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 5. Hortaleza 3/4 home W but conceding 1.9; Adarve 2W/10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides, Unders, handicaps (youth)",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/sites/default/files/2026-07/DHJ_Calendario_Grupo_5.pdf",
+   "https://www.lapreferente.com/E5076/club-atletico-de-madrid-sad-juvenil"
+  ]
+ },
+ {
+  "eid": "sr:match:72885900",
+  "fx": "Patacona CF v RCD Mallorca",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 7. Mallorca U19 6W3D1L (0.7 ga) v Patacona 2W/10 (2.6 ga).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mallorca 1.14 (padding); Unders below 0.82; AH +2.5 Patacona (fav p 0.83 > 0.60)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/division-de-honor-juvenil-grupo-7/94/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72883226",
+  "fx": "UD Logrones Promesas v Danok Bat",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Basque/Navarre group. Both concede 2+/g; Danok Bat 0W in 5 away (3.4 ga).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides, Unders, handicaps (youth)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:72883768",
+  "fx": "CE Sabadell FC v CD Oberena",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Catalan/Navarre group. Sabadell unbeaten at home (3W1D); Oberena 1W in 5 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides, Unders, handicaps (youth)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fcbarcelona.es/es/futbol/juvenil-a/calendario",
+   "https://rfef.es/sites/default/files/2026-07/DHJ_Calendario_Grupo_3.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72885886",
+  "fx": "Penya Arrabal v Villarreal CF",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 7. Villarreal U19 7W2D1L, 3.0 gf; Penya Arrabal 2W/9, 0.89 gf. Villarreal's away games low-scoring (1.5 gf/0.5 ga).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Villarreal 1X2 1.26 (youth result side); Over 2.5 1.44 (Villarreal away games avg 2.0 goals)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/division-de-honor-juvenil-grupo-7/94/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72884328",
+  "fx": "Malaga CF v Real Betis Balompie",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Andalusia youth group. Málaga v Betis U19 = Andalusian derby; both high scoring (Betis 3.3 gf).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (derby + youth)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:72506830",
+  "fx": "Espanyol Barcelona B v FC Barcelona Atletic",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Segunda Federación G3: Barcelona reserve DERBY (Espanyol B v Barça Atlètic), both reserve sides. Barça Atlètic 7W/10, 0.6 ga.",
+  "news": "LiveSoccerTV lists Sat 21 Nov 12:00 ET (=17:00 UTC, board); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve v reserve derby)",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/noticias/competiciones-masculinas/segunda-federacion",
+   "https://www.livesoccertv.com/competitions/spain/segunda-division-rfef/"
+  ]
+ },
+ {
+  "eid": "sr:match:72505314",
+  "fx": "RS Gimnastica de Torrelavega v Club Portugalete",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Segunda Federación G1 J12 at El Malecón, Sat 18:00 CET (=17:00 UTC, board). Gimnástica 18th, 1W in last 10; Portugalete 5W3D2L.",
+  "news": "Cantabrialdia preview + Portugalete club calendar: Sat 21 Nov 18:00 El Malecón. BetsAPI aggregator shows 22 Nov 10:00 (stale/weak source, flagged)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Portugalete away 1X2 (p 0.46 < 0.75); minor aggregator date discrepancy",
+  "confidence": 0.1,
+  "sources": [
+   "https://cantabrialdia.com/duelo-clave-gimnastica-rompa-su-mala-racha/",
+   "https://clubportugalete.eus/primer-equipo/calendario/",
+   "https://es.betsapi.com/soccer/ts/46583/gimnastica-de-torrelavega"
+  ]
+ },
+ {
+  "eid": "sr:match:72884884",
+  "fx": "CD Toledo v Las Rozas CF",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 5. Toledo 0W in 4 at home (3.75 ga); Las Rozas 0.5 gf, 0W in 5 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides, Unders, handicaps (youth)",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/sites/default/files/2026-07/DHJ_Calendario_Grupo_5.pdf",
+   "https://www.lapreferente.com/E5076/club-atletico-de-madrid-sad-juvenil"
+  ]
+ },
+ {
+  "eid": "sr:match:72885888",
+  "fx": "Torrent CF U19 v Levante UD",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U19 youth fixture (División de Honor Juvenil): goals markets only in clear mismatches. Grupo 7. Thin book (8 markets). Torrent unbeaten at home; Levante U19 unbeaten in 5 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything (thin market)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/division-de-honor-juvenil-grupo-7/94/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73492984",
+  "fx": "Real Madrid C v CD Numancia",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Segunda Federación G5. Real Madrid C (reserve; 0.5 gf/10, 5 draws) v Numancia (4W5D1L, unbeaten in 5 away).",
+  "news": "Futbolme lists Sat 21 Nov; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve home side; Numancia away p 0.39)",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/",
+   "https://rfef.es/es/noticias/confirmados-los-horarios-de-la-13a-jornada-de-segunda-federacion"
+  ]
+ },
+ {
+  "eid": "sr:match:73068216",
+  "fx": "Aguilas FC v CE Europa",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Primera Federación G2 J13, relegation six-pointer at El Rubial, Sat 18:45 CET (=17:45 UTC, board). Águilas 16th (12 pts), back home after a month away (pitch reseeding), coming off a win; 1W in last 10. Europa lost 2-0 to Sant Andreu, 1W in 5 away.",
+  "news": "COPE/VAVEL: 'first final' at El Rubial, must-win for Águilas",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Águilas 1.66 (1W/10, fragile); Unders below 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/lorca/deportes-cope-lorca/noticias/aguilas-fc-conjura-ninos-primera-final-rubial-europa-20261119_3478330.html",
+   "https://www.vavel.com/es/futbol/2026/11/20/1280025-aguilas-fc-ce-europa-al-rubial-se-vuelve-con-victoria.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72559254",
+  "fx": "Pontevedra CF v CD Lugo",
+  "sport": "football",
+  "absences": "Lugo: Kevin Presa, Arturo Palma, Mario Nájera out; Fernando Embadje back. Pontevedra: Compa out (~2 weeks); Tiago Rodríguez returns after ACL",
+  "context": "Primera Federación G1 J13, Galician DERBY at Pasarón, Sat 18:45 CET (=17:45 UTC, board). Lugo leaders (8W/10) but lost 1-3 at home to Mirandés last round; Pontevedra 3rd (21 pts), tight at home (0.75 ga).",
+  "news": "Coaches' pressers name absences; one preview guide says 'no confirmed absences' (contradicted by coach)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (derby rule); Under 3.5 (p 0.79 < 0.82); Lugo team-to-score away",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.pontevedraviva.com/es/deportes/cal-otra-arena-pontevedra-recupera-tiago-pierde-compa-medirse-lugo_522958_102.html",
+   "https://www.elprogreso.es/deporte-local-lugo/borja-fernandez-antes-visitar-pasaron-pontevedra-hace-jugar-mal/202611201347402015383.html",
+   "https://cdlugo.com/borja-fernandez-tenemos-que-ser-fieles-a-nuestro-futbol-y-saber-adaptarnos-a-lo-que-nos-plantee-el-rival/"
+  ]
+ },
+ {
+  "eid": "sr:match:72508594",
+  "fx": "CD Estepona v Sevilla Atletico",
+  "sport": "football",
+  "absences": "Sevilla Atlético: Miguel Sierra (injury, per FotMob). Estepona: no news found",
+  "context": "Segunda Federación G4 J12, Sat 19:00 CET (=18:00 UTC, board). Estepona 7th (18 pts), strong at home (2.8 gf); Sevilla Atlético reserve side, 5 draws in 10.",
+  "news": "El Sevillista/FotMob confirm time; little team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides v reserve side with many draws; Over 2.5 p 0.52",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.elsevillista.es/2026/11/cd-estepona-sevilla-atletico-hora-donde.html",
+   "https://www.fotmob.com/matches/sevilla-atletico-vs-cd-estepona/gkuyyvo"
+  ]
+ },
+ {
+  "eid": "sr:match:72507590",
+  "fx": "CF Intercity v UD Poblense",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Segunda Federación G3. Intercity 0W in 4 at home; Poblense 0W in 5 away (0.6 gf).",
+  "news": "365Scores lists 18:00 kick-off; no preview found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Intercity 1.68 (0 home wins in 4)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/football/match/segunda-rfef-7741/castellon-b-yeclano-10163-89406-7741"
+  ]
+ },
+ {
+  "eid": "sr:match:72491458",
+  "fx": "Logrono United v Deportivo Alaves",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Women's fixture: goals-only rule; date/venue only checked. Liga F J12 at Las Gaunas 19:00 CET (=18:00 UTC, board). Near coin-flip.",
+  "news": "Liga F/LaLiga agree on time; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything (women's, no mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.laliga.com/en-GB/futbol-femenino",
+   "https://en.ligaf.es/",
+   "https://www.elsevillista.es/2026/11/decimosegunda-jornada-de-la-liga-f.html"
+  ]
+ }
+]

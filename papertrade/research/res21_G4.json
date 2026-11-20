@@ -1,0 +1,385 @@
+[
+ {
+  "eid": "sr:match:72340046",
+  "fx": "Southampton v Derby County",
+  "home_form": "Last10 (SR): L0-1 Preston(a), D1-1 WBA(a), W4-1 QPR(h), W3-2 West Ham(a), D0-0 Bolton(h), W1-0 Norwich(a), W1-0 Portsmouth(h), L1-2 Wrexham(a), W4-1 Bristol C(h), W3-1 Swansea(h). Home last5: W4-1,D0-0,W1-0,W4-1,W3-1 (unbeaten, 12-3). 7th, described as Championship best home side.",
+  "away_form": "Last10: W3-1 Bolton(h), L0-4 Norwich(h), L1-4 Millwall(a), D1-1 Sheff Utd(a), L0-1 Stoke(h), L1-4 QPR(a), D1-1 Wrexham(h), D1-1 Burnley(a), L1-2 Birmingham(h), L0-1 WBA(h). Away last5: L1-4,D1-1,L1-4,D1-1 (+Burnley) - conceded 4 twice. 23rd, 2 wins in 15.",
+  "trends": {
+   "game_totals": "Soton home games 5,0,1,5,4 goals; Derby conceded 2+ in 6/10, 4 three times",
+   "team_totals": "Soton scored 3+ in 3 of last 5 home; Derby scored <=1 in 9/10",
+   "first_half": "Derby trailed at HT in 6/10 (0-3 HT three times)",
+   "handicap": "Soton home wins by 3 twice, by 1 once",
+   "corners": "no data pulled"
+  },
+  "h2h": "No recent fixture-specific H2H found",
+  "absences": "Soton: Keven Schlotterbeck out (dislocated shoulder ~6 wks); Cyle Larin fit again, Caspar Jander back. Derby: Charlie Taylor (hamstring), Craig Forsyth, Sondre Langas, Derry Murkin out; Agyemang/Clarke returning, not sure starters.",
+  "context": "Post-break; Soton 5 pts off auto promotion under Tonda Eckert; Derby in relegation zone. 12:30 UK KO, no date/venue conflict (SR + Sky/SportsMole agree 21 Nov).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.723892,
+    "why": "tight: Derby 2 wins in 15, conceded 4 in three of last 7; Soton unbeaten at home in last 5 (12-3), Larin back. Own est 0.74."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.39,
+    "p": 0.6972412059,
+    "why": "Soton scored 3+ in 3 of last 5 home games; Derby conceded 2+ in 6/10 and lose LB Taylor + Forsyth/Murkin. Own est 0.69."
+   }
+  ],
+  "avoid": [
+   "Derby team Over 0.5 (Derby scored <=1 in 9/10 but scored in 7/10 - coin flip)",
+   "Southampton -1.5 (two of five home wins by 1 goal)"
+  ],
+  "confidence": 0.35,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/southampton/preview/southampton-vs-derby-prediction-team-news-lineups_609410.html",
+   "https://the72.co.uk/2026/11/20/derby-county-team-news-predicted-xi-southampton/",
+   "https://dave.sport/news/southampton-vs-derby-injury-news-larin-clarke/"
+  ]
+ },
+ {
+  "eid": "sr:match:72513314",
+  "fx": "Eintracht Frankfurt v Hoffenheim",
+  "home_form": "Last10: D2-2 Paderborn(a), W3-1 Hamburg(h), W3-1 Hamburg(a), L0-1 Dortmund(a), W1-0 Cologne(h), L0-6 Leipzig(a), D2-2 Freiburg(h), W3-1 Mainz(a), L1-4 Augsburg(h), D3-3 Union(a). Home: W3-1,W1-0,D2-2,L1-4.",
+  "away_form": "Last10 (incl. Europe): W2-1 Schalke(h), D1-1 Crystal Palace(a), L0-2 Bremen(a), L4-5 Kiel(a), W3-0 Leverkusen(h), W3-0 Lyon(h), W2-1 Gladbach(a), L2-3 Besiktas(h), L2-3 Hamburg(h), L1-3 Paderborn(a).",
+  "trends": {
+   "game_totals": "3+ goals in 8/10 for BOTH sides (Frankfurt 4,4,4,1,1,6,4,4,5,6; Hoffenheim 3,2,2,9,3,3,3,5,5,4)",
+   "team_totals": "Frankfurt scored in 9/10, Hoffenheim scored in 9/10; BTTS 7/10 each",
+   "first_half": "1H goal in 7/10 Frankfurt games",
+   "handicap": "genuine coin-flip side market",
+   "corners": "n/a"
+  },
+  "h2h": "Hessenschau notes Huetter has an excellent record v Hoffenheim; no numbers verified",
+  "absences": "Frankfurt: Elias Baum suspended (yellow-red v Paderborn) -> Kosugi; Ngankam (adductor) out; Can Uzun doubtful (cold); Robin Koch fit. Hoffenheim: four defenders out - Hajdari, Hranac, De Cat (meniscus), Gendrey (broken fibula); Prass knock; Conte back/doubtful.",
+  "context": "Post-break; Hoffenheim in Europe (Conference/Europa) - next European tie later in week. Hoffenheim back line badly depleted, both defences leaky.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.710509,
+    "why": "tight: 3+ goals in 8/10 for both teams; Hoffenheim missing 4 defenders (Hajdari, Hranac, Gendrey, De Cat), Frankfurt without RB Baum. Own est 0.75."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.35,
+    "p": 0.7173502632,
+    "why": "Both teams scored in 9/10 of their own games; BTTS 7/10 each; depleted Hoffenheim defence. Own est 0.73."
+   }
+  ],
+  "avoid": [
+   "any result side / DNB (39/37 coin flip)",
+   "Unders"
+  ],
+  "confidence": 0.35,
+  "sources": [
+   "https://hessenschau.de/sport/fussball/eintracht-frankfurt/news-zu-eintracht-frankfurt--huetter-mit-traum-bilanz-gegen-hoffenheim,bundesliga-ticker-104.html",
+   "https://www.sportsmole.co.uk/football/eintracht-frankfurt/preview/frankfurt-vs-hoffenheim-prediction-team-news-lineups_609435.html",
+   "https://magazin.comunio.de/eintracht-frankfurt-tsg-hoffenheim-voraussichtliche-aufstellungen-4/"
+  ]
+ },
+ {
+  "eid": "sr:match:72340048",
+  "fx": "Stoke City v Birmingham City",
+  "home_form": "Last10: W2-1 Portsmouth(a), W2-1 Blackburn(a), W2-0 Preston(h), D0-0 Bristol C(h), W1-0 Derby(a), L2-3 Middlesbrough(h), W2-1 Bolton(a), W2-1 Sheff Utd(h), W2-1 Watford(a), D1-1 Cardiff(a). 3 straight wins; only loss since Aug v Boro.",
+  "away_form": "Last10: W2-1 Swansea(h), W3-0 Millwall(h), W3-1 Lincoln(a), L0-1 Cardiff(a), W3-0 QPR(h), W4-0 Preston(h), W1-0 WBA(a), D2-2 Boro(h), W2-1 Derby(a), L1-2 Norwich(a). Away: W3-1,L0-1,W1-0,W2-1,L1-2.",
+  "trends": {
+   "game_totals": "Stoke games mostly 2-3 goals (3,3,2,0,1,5,3,3,3,2)",
+   "team_totals": "Stoke conceded 2+ only once in 10 (Boro 3)",
+   "first_half": "Stoke home 1H often 0-0 (3 of last 4)",
+   "handicap": "Birmingham away wins all by 1 except Lincoln 3-1; Stoke lose by 2+ in 0/10",
+   "corners": "n/a"
+  },
+  "h2h": "Both on 29 pts after 15 (Birmingham top on GD, Stoke 3rd); top-of-table clash",
+  "absences": "Stoke: Lamine Cisse, Eric Bocat doubts. Birmingham: Jhon Solis (Colombia) and Liam Millar (Canada) returned unscathed - travel fatigue possible for Solis.",
+  "context": "Top-of-table six-pointer; previews split (2-2, 1-0 Stoke, 1-1). Treated as big clash - no straight result-side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.26,
+    "p": 0.772612,
+    "why": "tight: Stoke lost by 2+ in 0 of last 10 (only defeat 2-3), Birmingham away wins by 2+ only 1 of 5; void if Brum win by exactly 1. Own est 0.82 (win-or-push)."
+   }
+  ],
+  "avoid": [
+   "Over 1.5 / Over 2.5 (Championship below 2.7 avg, tight six-pointer)",
+   "either side to win"
+  ],
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/stoke-city/preview/stoke-vs-birmingham-prediction-team-news-lineups_609425.html",
+   "https://the72.co.uk/2026/11/19/one-of-the-championships-games-of-the-weekend-stoke-city-vs-birmingham-city-predictions/",
+   "https://thehardtackle.com/round-up/2026/11/20/stoke-city-vs-birmingham-city-preview-prediction-probable-lineups-tactics-team-news-key-stats/"
+  ]
+ },
+ {
+  "eid": "sr:match:72221394",
+  "fx": "Bournemouth v Nottingham Forest",
+  "home_form": "Last10 (incl. Europe): W2-1 Ipswich(a), W3-1 Sparta Prague(a), W2-0 Leeds(h), W3-0 Villa(h), W3-0 Man Utd(a), W3-0 Milan(h), W2-0 Sunderland(h), W3-0 Sturm Graz(h), L1-5 Chelsea(a), L0-1 Liverpool(h). 8 straight wins, 6 clean sheets; home last6: 5W (all to nil) 1L.",
+  "away_form": "Last10: W3-1 Man City(h), L0-2 Brentford(a), D1-1 Ipswich(a), L0-1 Arsenal(h), L1-3 Palace(a), L0-1 Coventry(h), W2-1 Villa(a), D0-0 Spurs(h), D2-2 Liverpool(a), L0-2 Leeds(h). Away: L,D,L,W,D. Scored 0-1 in 7/10.",
+  "trends": {
+   "game_totals": "Bournemouth home 2,3,2,3,1 recent; Forest games low (<=2 goals in 6/10)",
+   "team_totals": "Bournemouth scored in 9/10 (2+ in 8/10); Forest scored <=1 in 7/10",
+   "first_half": "Bournemouth led at HT in 7 of 8 wins",
+   "handicap": "Bournemouth wins by 2-3 goals mostly",
+   "corners": "n/a"
+  },
+  "h2h": "No verified recent H2H",
+  "absences": "Bournemouth: Alex Toth (thigh), Juanlu Sanchez (ankle) out, Araujo unlikely, Christie conflicting (ankle per one source); Alex Scott back; Rose: all 13 internationals back healthy. Forest: Hudson-Odoi out, Nicolas Dominguez long-term; Schlager (hamstring) and Neco Williams doubts; two players delayed at Abidjan airport after break.",
+  "context": "Market prices Bournemouth only 0.50 to win despite 8-game winning run; Forest travel disruption. Bournemouth in Europe midweek (rotation later, not now).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.21,
+    "p": 0.804831,
+    "why": "tight: Bournemouth scored in 9/10 (2+ in 8 straight wins); Forest midfield weakened (Schlager doubt, Dominguez out). Own est 0.85."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.43,
+    "p": 0.673548,
+    "why": "8 straight wins incl. 3-0 v Villa and 3-0 at Man Utd; Forest won 1 of last 5 away and had players stranded at Abidjan airport. Own est 0.72."
+   }
+  ],
+  "avoid": [
+   "Forest team Over 0.5",
+   "Over 2.5 (Forest games low-scoring)"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/bournemouth/preview/bournemouth-vs-nottm-forest-prediction-team-news-lineups_609373.html",
+   "https://thefalse9.com/2026/11/bournemouth-vs-nottingham-forest-predicted-lineup-team-news-21-november.html",
+   "https://thehardtackle.com/round-up/2026/11/20/bournemouth-vs-nottingham-forest-preview-prediction-probable-lineups-tactics-team-news-key-stats/"
+  ]
+ },
+ {
+  "eid": "sr:match:72478720",
+  "fx": "Rayo Vallecano v Valencia",
+  "home_form": "Last10: L0-1 Sociedad(a), W3-0 Celta(h), W3-2 Huelva(a), L0-3 Elche(h), D1-1 Getafe(a), D1-1 Osasuna(a), W2-1 Espanyol(h), L1-4 Real Madrid(a), W3-2 Racing(h), L2-5 Barcelona(a). Home: W3-0,L0-3,W2-1,W3-2.",
+  "away_form": "Last10: W6-0 UE Tavernes (cup,a), L0-3 Real Madrid(h), W1-0 Elche(a), L1-2 Villarreal(h), D0-0 Bilbao(h), D2-2 Racing(a), L2-3 Sociedad(h), W1-0 Alaves(a), L0-1 Sevilla(a), L0-5 Barcelona(h). League: scored <=1 in 8/9.",
+  "trends": {
+   "game_totals": "Rayo home 3,3,3,5 goals; Valencia away 1,4,1,1",
+   "team_totals": "Rayo scored in 8/10 (3 of 4 home); Valencia scored <=1 in 8/9 league",
+   "first_half": "mixed",
+   "handicap": "n/a",
+   "corners": "n/a"
+  },
+  "h2h": "No verified recent H2H",
+  "absences": "Rayo: GK Augusto Batalla (tibia fracture), captain Oscar Valentin and Luiz Felipe (knee) out; Alvaro Garcia, Kumbulla, Vertrouwd doubts. Valencia: Gaya suspended (red v Real Madrid); Jesus Vazquez injured; Diego Lopez, Sergi Canos long-term; Otorbi and Danjuma likely available.",
+  "context": "Relegation six-pointer; Valencia (under Mexican coach Aguirre per Latingoles) \"obliged to win\" per VAVEL. Rayo backup keeper.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.23,
+    "p": 0.790671,
+    "why": "tight: Rayo scored in 3 of 4 home league games and 8/10 overall; Valencia without Gaya and Jesus Vazquez in defence. Own est 0.80 (thin evidence)."
+   }
+  ],
+  "avoid": [
+   "result sides (relegation six-pointer, both sides injured)",
+   "Valencia team goals Over"
+  ],
+  "confidence": 0.2,
+  "sources": [
+   "https://www.vavel.com/es/futbol/2026/11/20/valencia-cf/1280004-rayo-vs-valencia-la-obligacion-de-ganar-en-vallecas.html",
+   "https://www.comuniate.com/noticias/39226/rayo-vallecano-valencia-previa-alineaciones-probables-y-consejos-fantasy-jornada-13-de-laliga",
+   "https://latingoles.com/duelo-por-la-permanencia-el-mexicano-aguirre-busca-oxigeno-ante-un-rayo-que-nece/"
+  ]
+ },
+ {
+  "eid": "sr:match:74379720",
+  "fx": "Lugano v Grasshopper Club Zurich",
+  "home_form": "Last10 (incl. Europe/cup): L0-5 St Gallen(a), W3-0 Kauno(h), W2-1 Basel(h), W3-2 Thun(a), W5-2 Getafe(a), W4-0 Pully(a, cup), W3-2 Crvena Zvezda(h), W4-0 Luzern(h), L1-3 Verona(h), W4-0 Lausanne(a). League leaders, 34 pts from 13.",
+  "away_form": "Last10: D1-1 Lausanne(h), D2-2 Vaduz(h), D0-0 Basel(a), W8-0 Grenchen(a, cup), L0-2 Young Boys(h), W4-1 Aarau(h), L1-5 Luzern(a), L2-5 Sion(h), W1-0 Thun(a), D2-2 Zurich(h). No league win in 6.",
+  "trends": {
+   "game_totals": "Lugano games 3+ goals in 10/10 (5,3,3,5,7,4,5,4,4,4); GC 6/10",
+   "team_totals": "Lugano scored 2+ in 8/10; GC conceded 2+ in 5/10",
+   "first_half": "Lugano 1H goal in 8/10",
+   "handicap": "Lugano home wins 3-0, 2-1, 3-2, 4-0",
+   "corners": "n/a"
+  },
+  "h2h": "Lugano won the earlier meeting this season 4-1",
+  "absences": "No named absentees found in sources.",
+  "context": "Leaders v mid/lower-table GC (6 league games without a win, 3 straight draws). First GC visit to new AIL Arena. KO 18:00 CET = 17:00 UTC consistent with board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.31,
+    "p": 0.7303881559,
+    "why": "tight: Lugano scored 2+ in 8/10 incl. 4-1 v GC earlier this season; GC conceded 5 twice in last 8. Own est 0.75."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.709703,
+    "why": "Leaders at home (W3-0,W2-1,W3-2,W4-0 recent home); GC winless in 6 league. Own est 0.72 - note 0-5 at St Gallen last time out."
+   }
+  ],
+  "avoid": [
+   "GC +2.5 catch (fav p 0.71 - rule)",
+   "Unders"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.gcz.ch/news/artikel/1/auswaerts-beim-fc-basel-1/",
+   "https://fclugano.com/en/match-center/lugano-vs-grasshoppers-2026-11-21",
+   "https://www.skysports.com/football/fc-lugano-vs-grasshopper-club-zurich/558117"
+  ]
+ },
+ {
+  "eid": "sr:match:72477608",
+  "fx": "CD Castellon v CD Eldense",
+  "home_form": "Last10: W1-0 Valladolid(a), D1-1 Burgos(a), W3-0 Conquense(a, cup), W4-0 Gijon(h), W3-0 Las Palmas(a), L0-1 Andorra(a), D1-1 Ceuta(h), W2-0 Leganes(a), W5-0 Tenerife(h), W2-1 Girona(a). Unbeaten at Castalia; can go top with a win.",
+  "away_form": "Last10: W2-0 Sabadell(h), L0-2 Las Palmas(a), L0-2 Granada(h), W1-0 At. Baleares(a), L0-2 Albacete(a), W3-2 Valladolid(a), W2-1 Cordoba(h), W4-1 Oviedo(h), L0-1 Burgos(a), L1-2 Eibar(h). League away: L0-2,L0-2,W3-2,L0-1.",
+  "trends": {
+   "game_totals": "Castellon home 4,2,5 goals",
+   "team_totals": "Castellon scored 2+ in 7/10; Eldense failed to score in 3 of 4 league aways",
+   "first_half": "Castellon led at HT in 6/10",
+   "handicap": "Castellon home wins 4-0, 5-0",
+   "corners": "n/a"
+  },
+  "h2h": "No verified recent H2H",
+  "absences": "Castellon: CB Fabrizio Brignani (ACL), Fran Castillo, Rodrigo Rego injured. Eldense (coach Javi Calleja): Jesus Clemente (shoulder dislocation), Fidel Chaves (muscular) out; Guirao back. Sources conflict on some.",
+  "context": "Promotion-chasing Castellon unbeaten at home v mid/low Eldense. Segunda is low-scoring league -> avoid game O1.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.43,
+    "p": 0.671627,
+    "why": "tight: unbeaten at Castalia (4-0 Gijon, 5-0 Tenerife), can go top; Eldense lost 3 of 4 league aways without scoring, missing Fidel Chaves. Own est 0.70."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.46,
+    "p": 0.653035,
+    "why": "Castellon scored 2+ in 7/10 incl. 4 and 5 at home; Eldense conceded 2 in three of last 4 aways. Own est 0.67."
+   }
+  ],
+  "avoid": [
+   "game Over 1.5 / Over 2 (Segunda low-scoring)",
+   "Eldense team Over 0.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-cd-eldense-busca-dar-la-campanada-en-castalia-y-evitar-el-liderato-del-cd-castellon",
+   "https://www.ceroacero.es/noticias/castellon-vs-eldense-prediccion-noticias-de-equipos-y-alineaciones-segunda-division-21-11/1263464",
+   "https://www.flashscore.es/partido/futbol/cd-castellon-QyHHzdwl/eldense-8WUSyF3F/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887184",
+  "fx": "Palmeiras v Flamengo",
+  "home_form": "Last10: L1-2 Cruzeiro(a), D6-6 Vasco(a), W6-1 Remo(h), W1-0 Vasco(h), D0-0 Santos(a), W2-0 Bragantino(h), W5-4 Fluminense(h), W2-0 Paranaense(a), W2-1 Fluminense(a), W4-1 Corinthians(h). Home: 5 wins, very high-scoring (7,1,2,9,5).",
+  "away_form": "Last10: W2-1 Paranaense(h), W3-1 Gremio(h), W4-1 Vasco(a), W3-2 Atletico MG(h), L2-3 Estudiantes(h), W3-0 Bahia(a), D0-0 Estudiantes(a), W1-0 Fluminense(h), D2-2 Santos(a), W2-1 Bragantino(h). Away: W4-1,W3-0,D0-0,D2-2.",
+  "trends": {
+   "game_totals": "2+ goals in 8/10 Palmeiras and 9/10 Flamengo games",
+   "team_totals": "Flamengo scored in 9/10",
+   "first_half": "Palmeiras home 1H goals in 4/5",
+   "handicap": "n/a - big-club clash",
+   "corners": "n/a"
+  },
+  "h2h": "Flamengo leader by 6 pts, needs a draw to clinch the title",
+  "absences": "Palmeiras: Alexander Barboza suspended; Murilo, Paulinho doubts; Piquerez/Jefte injured or doubtful; Gustavo Gomez back from Paraguay duty; possible rotation for Libertadores. Flamengo: Leo Pereira and Erick Pulgar suspended (3rd yellow); Samuel Lino to be assessed.",
+  "context": "Title decider (36th round), Nubank Parque Sao Paulo, 16:30 BRT = 19:30 UTC consistent. Big-club clash: no result side; big-club totals need p>=0.82 - nothing qualifies. Palmeiras rotation risk (Libertadores).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": [
+   "any result side / DNB (big-club title clash, Flamengo happy with draw)",
+   "Over 1.5 p 0.777 < 0.82 big-club threshold despite supportive last-5",
+   "Flamengo away corners (900301 failing class)"
+  ],
+  "confidence": 0.15,
+  "sources": [
+   "https://trivela.com.br/onde-assistir/palpite-escalacoes-palmeiras-x-flamengo-21-11-2026/",
+   "https://www.dgabc.com.br/Noticia/4369767/palmeiras-x-flamengo-veja-onde-assistir-e-as-provaveis-escalacoes",
+   "https://www.verdazzo.com.br/pre-jogo-palmeiras-x-flamengo-campeonato-brasileiro-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:66887194",
+  "fx": "Bahia v Coritiba",
+  "home_form": "Last10: D0-0 Gremio(a), L2-3 Cruzeiro(a), W3-2 Sao Paulo(h), D1-1 Santos(a), L0-3 Flamengo(h), W1-0 Mirassol(h), L0-1 Palmeiras(a), L1-2 Paranaense(a), W2-1 Remo(h), W3-2 Bragantino(a). Home: W3-2,L0-3,W1-0,W2-1. 6th, 54 pts.",
+  "away_form": "Last10: L0-1 Santos(h), L0-1 Internacional(a), W2-0 Vitoria(h), L0-1 Gremio(h), L0-1 Atletico MG(a), D1-1 Botafogo(h), L0-4 Fluminense(a), L0-5 Vasco(a), D3-3 Paranaense(h), L1-2 Mirassol(h). Last 4 away: 0 goals scored (0-1,0-1,0-4,0-5). 13th, 42 pts, interim coach.",
+  "trends": {
+   "game_totals": "Coritiba games <=2 goals in 7/10",
+   "team_totals": "Coritiba scored <=1 in 9/10, 0 in all of last 4 away",
+   "first_half": "Coritiba scored a 1H goal in only 2/10",
+   "handicap": "Coritiba lost by 4 and 5 away",
+   "corners": "n/a"
+  },
+  "h2h": "No verified recent H2H",
+  "absences": "Coritiba: Jacy and Nicolas Fonseca suspended (3rd yellow); Lucas Ronier and Rodrigo Moledo injured; GK Pedro Morisco back from national team; interim coach Guilherme Bossle. Bahia (Rogerio Ceni): no suspensions per ESPN; Kike Olivera doubt (pubalgia).",
+  "context": "Bahia chasing Libertadores place at Fonte Nova; Coritiba 4 pts above drop with interim coach. 17:30 BRT = 20:30 UTC consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.8002671147,
+    "why": "tight: Coritiba scored 0 in last 4 aways (0-1,0-1,0-4,0-5), interim coach, Jacy + Nicolas Fonseca suspended, Moledo injured. Own est 0.82."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.52,
+    "p": 0.638414,
+    "why": "Same mechanism; Bahia 3 of last 4 home won. Own est 0.66."
+   }
+  ],
+  "avoid": [
+   "Coritiba team Over 0.5",
+   "Coritiba U1.5 / 1H U0.5 (strong trend but Under p<0.82 - rule)",
+   "Over 2.5"
+  ],
+  "confidence": 0.3,
+  "sources": [
+   "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17536467/bahia-x-coritiba-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao",
+   "https://www.ogol.com.br/noticias/bahia-x-coritiba-horario-escalacoes-e-onde-assistir-brasileirao-21-11/1263574",
+   "https://radioplugaraucaria.com/guia-pratico-para-o-confronto-entre-bahia-e-coritiba-no-brasileirao/"
+  ]
+ }
+]

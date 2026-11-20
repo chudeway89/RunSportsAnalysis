@@ -1,0 +1,620 @@
+[
+ {
+  "eid": "sr:match:73409342",
+  "fx": "Shamakhi FK v Turan Tovuz",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Turan Tovuz top/near top of 2026-27 table per Turkish standings aggregators; Shamakhi mid-table (8th last season). Kick-off 14:30 local = 10:30 UTC matches board.",
+  "news": "No team news found; Operativmm lists Shamakhi 14:30 Turan Tovuz (undated round), consistent with board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.22,
+    "p": 0.7797004879,
+    "why": "Turan are title-race side v mid-table hosts; Turan away record tight (0.83 GF/GA, 4/6 unbeaten away incl draws). Own p 0.77 (sim 0.76) - roughly fair, filler only."
+   }
+  ],
+  "avoid": "Turan win 1X2 (away p 0.52 < 0.75); Shamakhi home games are open (2.33 GF/2.0 GA) so no Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://operativmm.az/en/premyer-liqa",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Azerbaijan_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:76645344",
+  "fx": "FC Baranovichi v FC Belshina Bobruisk",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Penultimate round (29 of 30) of Belarus season ending 29 Nov. Belshina weak (2W3D5L, 2.1 GA).",
+  "news": "No match-specific news; SoccerPunter lists the fixture on 21/11. Belarus kick-offs on bel.football are 19:00 local for other ties in this round vs SportyBet 11:00 UTC - kick-off for this tie not verified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Belarus is a thin/low-scoring league per rules (no O1.5); kick-off times for the round conflict across sources - treat as unverified.",
+  "confidence": 0.1,
+  "sources": [
+   "https://bel.football/tournaments/vysshaya-liga/matches/dnepr-mogilev-vitebsk-12704",
+   "https://bel.football/tournaments/vysshaya-liga/matches/dinamo-brest-naftan-12705",
+   "https://www.vseprosport.ru/news/2026/11/20/gomel-bate-prognoz-kf-1-14-i-stavki-na-match-vysshaja-liga-belarusi-21-noyabrya-2026-goda-ot-vps",
+   "https://www.soccerpunter.com/results/27091/Belarus-Vysshaya-Liga-2026",
+   "https://footystats.org/belarus/vysheyshaya-liga/fixtures",
+   "https://en.wikipedia.org/wiki/2026_Belarusian_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:76645342",
+  "fx": "FC Dnepr Mogilev v FC Vitebsk",
+  "sport": "football",
+  "absences": "none found",
+  "context": "bel.football: Round 29, Vitebsk 1st (62 pts) v Dnepr 15th (23 pts); but Sportradar last-10 for Vitebsk is 3W2D5L, inconsistent with a leader (possible ML Vitebsk / FC Vitebsk identity confusion).",
+  "news": "bel.football lists Dnepr-Mogilev v Vitebsk 21 Nov 19:00 local (16:00 UTC) vs SportyBet 11:00 UTC; FootyStats lists Minsk v Dnepr Mogilev on 21 Nov.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict (11:00 UTC board vs 19:00 local) plus opponent conflict (FootyStats has Dnepr v Minsk) and team-identity conflict (ML Vitebsk vs Vitebsk).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://bel.football/tournaments/vysshaya-liga/matches/dnepr-mogilev-vitebsk-12704",
+   "https://bel.football/tournaments/vysshaya-liga/matches/dinamo-brest-naftan-12705",
+   "https://www.vseprosport.ru/news/2026/11/20/gomel-bate-prognoz-kf-1-14-i-stavki-na-match-vysshaja-liga-belarusi-21-noyabrya-2026-goda-ot-vps",
+   "https://www.soccerpunter.com/results/27091/Belarus-Vysshaya-Liga-2026",
+   "https://footystats.org/belarus/vysheyshaya-liga/fixtures",
+   "https://en.wikipedia.org/wiki/2026_Belarusian_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:76645340",
+  "fx": "FC Gomel v Bate Borisov",
+  "sport": "football",
+  "absences": "none found",
+  "context": "vseprosport preview: BATE bottom (10th) in relegation zone - must-win for BATE; Gomel mid-table.",
+  "news": "Preview dated 20 Nov lists Gomel v BATE 21 Nov 19:00 local (16:00 UTC) vs SportyBet 11:00 UTC; no lineup/injury info.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: board 11:00 UTC vs 19:00 local (16:00 UTC) in two sources.",
+  "picks": [],
+  "avoid": "All markets; BATE must-win motivation also cuts against Gomel result-sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://bel.football/tournaments/vysshaya-liga/matches/dnepr-mogilev-vitebsk-12704",
+   "https://bel.football/tournaments/vysshaya-liga/matches/dinamo-brest-naftan-12705",
+   "https://www.vseprosport.ru/news/2026/11/20/gomel-bate-prognoz-kf-1-14-i-stavki-na-match-vysshaja-liga-belarusi-21-noyabrya-2026-goda-ot-vps",
+   "https://www.soccerpunter.com/results/27091/Belarus-Vysshaya-Liga-2026",
+   "https://footystats.org/belarus/vysheyshaya-liga/fixtures",
+   "https://en.wikipedia.org/wiki/2026_Belarusian_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72303008",
+  "fx": "Raal La Louviere v Oud-Heverlee Leuven W",
+  "sport": "football",
+  "absences": "n/a (women's, team news not researched)",
+  "context": "Women's Super League. La Louviere strong at home (4W1D, 3.0 GF); OHL Women poor away (0W1D4L, 3.2 GA) yet house makes OHL 0.59 favourite - trend/house divergence.",
+  "news": "Foot24 lists RAAL La Louviere v OHL at 13:30 local (=12:30 UTC), consistent with board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's side: no result-sides; not a clear mismatch so no goals picks either.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.foot24.be/nl/competities/lotto-super-league-5",
+   "https://www.voetbalexpress.be/seizoen2026-2027/superdames.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72676180",
+  "fx": "SV Post Vienna v SV Schwechat",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Wiener Stadtliga (amateur) round 14: Schwechat 16 pts, Post SV 11 pts. Post reportedly beat Auhof 2:1 last round.",
+  "news": "Ligaportal preview: Post SV Wien v SV Schwechat Sat 21.11 14:00 local (=13:00 UTC), consistent; expert tip 1:1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amateur regional - no Unders; no edge on sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ligaportal.at/wien/wiener-liga/vorschau/44868-wiener-stadtliga-2026-2027-interwetten-vorschau-runde-14",
+   "https://www.ligaportal.at/wien/wiener-liga/expertentipp/44886-wiener-stadtliga-2026-2027-betway-expertentipp-runde-14"
+  ]
+ },
+ {
+  "eid": "sr:match:72549360",
+  "fx": "FC Wolfurt v FC Dornbirn",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga West R17: Wolfurt bottom on 4 pts (0W1D9L last 10), Dornbirn 24 pts.",
+  "news": "Ligaportal R17 preview puts Wolfurt v Dornbirn on Sunday 22 Nov 14:00; another listing has Saturday 21 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict (Sat 21 vs Sun 22 Nov).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ligaportal.at/regionalliga-west/vorschau/14818-regionalliga-west-2026-2027-interwetten-vorschau-runde-17",
+   "https://www.ligaportal.at/regionalliga-west/expertentipp/14821-regionalliga-west-2026-2027-betway-expertentipp-runde-17",
+   "https://www.weltfussball.at/wettbewerb/co5525/oesterreich-regionalliga-west/alle-spiele/"
+  ]
+ },
+ {
+  "eid": "sr:match:72549364",
+  "fx": "SC Rothis v SC Schwaz",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga West R17: Schwaz 2nd (31 pts, 9W in last 10), Rothis 24 pts. Expert tip 1:2.",
+  "news": "R17 previews list the fixture but its date varies by source.",
+  "veto": true,
+  "veto_reason": "Date conflict across Regionalliga West listings.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ligaportal.at/regionalliga-west/vorschau/14818-regionalliga-west-2026-2027-interwetten-vorschau-runde-17",
+   "https://www.ligaportal.at/regionalliga-west/expertentipp/14821-regionalliga-west-2026-2027-betway-expertentipp-runde-17",
+   "https://www.weltfussball.at/wettbewerb/co5525/oesterreich-regionalliga-west/alle-spiele/"
+  ]
+ },
+ {
+  "eid": "sr:match:72549370",
+  "fx": "SV Lochau v FC Kufstein",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga West R17: Lochau 11 pts, Kufstein 14 pts; expert tip Lochau 1:2 Kufstein.",
+  "news": "Preview lists Lochau v Kufstein Sat 21 Nov 14:00 local (=13:00 UTC), consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.53 (<0.75); amateur regional - no Unders.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ligaportal.at/regionalliga-west/vorschau/14818-regionalliga-west-2026-2027-interwetten-vorschau-runde-17",
+   "https://www.ligaportal.at/regionalliga-west/expertentipp/14821-regionalliga-west-2026-2027-betway-expertentipp-runde-17",
+   "https://www.weltfussball.at/wettbewerb/co5525/oesterreich-regionalliga-west/alle-spiele/"
+  ]
+ },
+ {
+  "eid": "sr:match:73409332",
+  "fx": "Safa v Gabala FK",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Shafa (Baku) v Gabala; Gabala were 11th and in relegation play-off last season; Safa 1W in last 10.",
+  "news": "Operativmm lists Shafa 17:00 local (=13:00 UTC) v Gabala, consistent; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism either way; house p ~fair.",
+  "confidence": 0.1,
+  "sources": [
+   "https://operativmm.az/en/premyer-liqa",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Azerbaijan_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72676170",
+  "fx": "A-Xiii Auhof Center v Simmeringer SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Wiener Stadtliga: Auhof 14 pts, Simmeringer 9 pts with -25 goal difference.",
+  "news": "Ligaportal R14 preview lists Austria XIII Auhof Center v Simmeringer SC on Sunday 22.11.2026 11:15, not Saturday 14:00 UTC.",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict (Sun 22 Nov 11:15 local vs board Sat 21 Nov 14:00 UTC).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ligaportal.at/wien/wiener-liga/vorschau/44868-wiener-stadtliga-2026-2027-interwetten-vorschau-runde-14",
+   "https://www.ligaportal.at/wien/wiener-liga/expertentipp/44886-wiener-stadtliga-2026-2027-betway-expertentipp-runde-14"
+  ]
+ },
+ {
+  "eid": "sr:match:75947240",
+  "fx": "AL Budaiya v AL Tadamun Buri",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bahrain 2nd tier. Budaiya won 2-0 at Al Hala last round (Adriano brace) but have 0W1D4L at home in last 5 home games.",
+  "news": "Sofascore: Al Hala 0-2 Budaiya 13 Nov; Buri 2-0 Qalali 14 Nov. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 (p 0.60) contradicted by home record; Gulf league - no O1.5.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/budaiya-al-hala/yjtshqBb",
+   "https://www.sofascore.com/football/match/al-bahrain-al-shabab/BjtsDiz",
+   "https://www.aiscore.com/tournament-bahrain-division-2/4ndqmlixzvi5kve",
+   "https://www.futbol24.com/team/Bahrain/Umm-Al-Hassam"
+  ]
+ },
+ {
+  "eid": "sr:match:75947244",
+  "fx": "Um Alhassam v Al-Shabab",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Al-Shabab reportedly 1st (Sofascore) after 3-2 v Al Bahrain; Um Alhassam won 2-1 at Ittihad Al Reef. Standings inconsistent across sources.",
+  "news": "Results only; no team news. Standings conflict between Sofascore and Futbol24.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Draw or Away @1.28 considered but sim 0.71 < house 0.72; Gulf thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/budaiya-al-hala/yjtshqBb",
+   "https://www.sofascore.com/football/match/al-bahrain-al-shabab/BjtsDiz",
+   "https://www.aiscore.com/tournament-bahrain-division-2/4ndqmlixzvi5kve",
+   "https://www.futbol24.com/team/Bahrain/Umm-Al-Hassam"
+  ]
+ },
+ {
+  "eid": "sr:match:72303006",
+  "fx": "SV Zulte Waregem v RSC Anderlecht",
+  "sport": "football",
+  "absences": "n/a (women's)",
+  "context": "Women's Super League: Anderlecht (8W in last 10) heavy favourite v Zulte (2W).",
+  "news": "Foot24/Voetbalexpress schedule: Zulte-Waregem v Anderlecht 16:00 local (=15:00 UTC), consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: result-sides banned; odds on the mismatch outcomes sit below 1.18 or the goals lines are not convincing (O2.5 trend 0.55 < p 0.66).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.foot24.be/nl/competities/lotto-super-league-5",
+   "https://www.voetbalexpress.be/seizoen2026-2027/superdames.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72366462",
+  "fx": "Royal Charleroi SC v St. Truidense VV",
+  "sport": "football",
+  "absences": "FotMob snapshot lists Charleroi out: Massamba Sow, Adama Bojang, Mardochee Nzita; Antoine Bernier day-to-day (snapshot age uncertain). No STVV absences listed.",
+  "context": "Charleroi 4th (27 pts, 9W 0D 2L) v STVV 12th (11 pts, 22-22) in poor form (W L L L L per 365Scores). Kick-off confirmed 16:00 CET (=15:00 UTC) by Sporza.",
+  "news": "Strong-form Charleroi host struggling STVV; no confirmed fresh injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.52,
+    "p": 0.628415,
+    "why": "Charleroi 9W/0D in 11 league games and 8 of last 10 won v STVV on a losing run; DNB removes the draw. Own p 0.66 (house 0.63, trend 0.68)."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.826867,
+    "why": "Pro League ~2.9 goals/game; Charleroi last 6 scorelines 5-1,5-2,0-3,1-0,1-0,3-2 and STVV 4-1,1-1,1-2,2-3,1-0,4-1 (STVV leak 1.6/game). Own p 0.84 (sim 0.82)."
+   }
+  ],
+  "avoid": "Charleroi -1.5 / win-to-nil (STVV score 1.8/game); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/charleroi/preview/charleroi-vs-sint-truiden-prediction-team-news-lineups_578458.html",
+   "https://www.fotmob.com/matches/sporting-charleroi-vs-sttruiden/3avu6d",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Belgian_Pro_League",
+   "https://sporza.be/nl/tag/voetbal/ploegen/charleroi~4500/kalender/"
+  ]
+ },
+ {
+  "eid": "sr:match:72302216",
+  "fx": "KAS Eupen v Sporting Hasselt",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Eupen 3rd on 18 pts (won 3-2 at Lierse 8 Nov); Hasselt 15 pts, strong away (5W in 6 away, 2.33 GF but 1.83 GA).",
+  "news": "Fixture confirmed 21 Nov 15:00 (local 16:00) on footballtransfers/365Scores; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.44,
+    "p": 0.658392,
+    "why": "Both open: Hasselt last 5 = 1-2,4-3,1-2,4-3,3-1 (all 3+), Eupen last 5 = 3-2,1-2,1-2,1-5,2-0 (4/5 3+); 0 draws in either side's last 10. Own p 0.68 (house 0.66, trend 0.70, sim 0.65)."
+   }
+  ],
+  "avoid": "Eupen 1X2 (Hasselt away record 5W/6); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/football/league/challenger-pro-league-6142/standings",
+   "https://www.footballtransfers.com/en/leagues-cups/national/be/challenger-pro-league/matches",
+   "https://www.betexplorer.com/football/belgium/challenger-pro-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72302214",
+  "fx": "RFC Liege v RSC Anderlecht Futures",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liege 15th (5 pts) v Anderlecht Futures (U23 reserve side) 14th (7 pts).",
+  "news": "Fixture confirmed 21 Nov; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side (RSCA Futures) and not a clear mismatch - no picks; goals look live (O2.5 trend 0.70) but rule bars it.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/football/league/challenger-pro-league-6142/standings",
+   "https://www.footballtransfers.com/en/leagues-cups/national/be/challenger-pro-league/matches",
+   "https://www.betexplorer.com/football/belgium/challenger-pro-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:76645346",
+  "fx": "FC Brest v Naftan Novopolotsk",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Dinamo Brest strong v Naftan, listed as relegated on Wikipedia (Naftan lost 0-5 to ML Vitebsk 8 Nov). Round 29 of 30.",
+  "news": "bel.football lists Dinamo Brest v Naftan 21 Nov 19:00 local (=16:00 UTC) vs board 15:30 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict (15:30 UTC board vs 16:00 UTC bel.football); also Belarus thin-league class.",
+  "picks": [],
+  "avoid": "All markets despite the mismatch.",
+  "confidence": 0.15,
+  "sources": [
+   "https://bel.football/tournaments/vysshaya-liga/matches/dnepr-mogilev-vitebsk-12704",
+   "https://bel.football/tournaments/vysshaya-liga/matches/dinamo-brest-naftan-12705",
+   "https://www.vseprosport.ru/news/2026/11/20/gomel-bate-prognoz-kf-1-14-i-stavki-na-match-vysshaja-liga-belarusi-21-noyabrya-2026-goda-ot-vps",
+   "https://www.soccerpunter.com/results/27091/Belarus-Vysshaya-Liga-2026",
+   "https://footystats.org/belarus/vysheyshaya-liga/fixtures",
+   "https://en.wikipedia.org/wiki/2026_Belarusian_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:75947242",
+  "fx": "AL Bahrain v AL Hala",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Al Bahrain lost 3-2 at Al-Shabab 13 Nov; Al Hala lost 0-2 to Budaiya.",
+  "news": "AiScore shows Bahrain SC v Al-Hala at 22 Nov 00:30 in its display timezone (consistent with 16:30 UTC if UTC+8, not verified).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Trends contradict house (Away trend 0.55 v p 0.29); Gulf - no O1.5; display-time ambiguity.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/budaiya-al-hala/yjtshqBb",
+   "https://www.sofascore.com/football/match/al-bahrain-al-shabab/BjtsDiz",
+   "https://www.aiscore.com/tournament-bahrain-division-2/4ndqmlixzvi5kve",
+   "https://www.futbol24.com/team/Bahrain/Umm-Al-Hassam"
+  ]
+ },
+ {
+  "eid": "sr:match:72303004",
+  "fx": "KAA Gent v KRC Genk",
+  "sport": "football",
+  "absences": "n/a (women's)",
+  "context": "Women's Super League; Genk favourite.",
+  "news": "Foot24 schedule data lists GENK v KAA GENT at 19:30 - reversed venue vs board (Gent home 18:30 UTC = 19:30 local).",
+  "veto": true,
+  "veto_reason": "Venue conflict (home/away reversed in schedule source).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.foot24.be/nl/competities/lotto-super-league-5",
+   "https://www.voetbalexpress.be/seizoen2026-2027/superdames.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72303010",
+  "fx": "Standard Liege v Club Brugge KV",
+  "sport": "football",
+  "absences": "n/a (women's)",
+  "context": "Women's Super League; Club YLA favourite.",
+  "news": "Voetbalexpress lists Standard Femina v Club YLA on 20/11/2026 (Friday), not 21/11.",
+  "veto": true,
+  "veto_reason": "Date conflict (20 Nov vs 21 Nov).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.foot24.be/nl/competities/lotto-super-league-5",
+   "https://www.voetbalexpress.be/seizoen2026-2027/superdames.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72595218",
+  "fx": "Union Saint-Gilloise B v RFC Meux",
+  "sport": "football",
+  "absences": "none found",
+  "context": "D1 ACFF R14: Meux top (25 pts) v Union SG B (24 pts, reserve side).",
+  "news": "Walfoot lists Union SG v Meux 21/11; foot.be snippet garbled.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side, top-of-table clash - no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.walfoot.be/belgique/division-1-acff",
+   "https://www.walfoot.be/news/2026-11-07/d1-ffa-meux-frustre-le-rwdm-mons-facile-face-au-sl-16-tubize-limite-la-casse-contre-lolympic",
+   "https://foot.be/ligues/belgique/eerste-nationale/"
+  ]
+ },
+ {
+  "eid": "sr:match:72533346",
+  "fx": "KFC Dessel Sport v KSK Heist",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Nationale 1 VV: Dessel and Heist both mid-table.",
+  "news": "No news; fixture not shown in calendar snippet (not contradicted).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/kalender",
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/stand",
+   "https://www.voetbalexpress.be/seizoen2026-2027/herenamateurs1.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72302220",
+  "fx": "RFC Seraing v Patro Eisden Maasmechelen",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Seraing 12th (8 pts) v Patro Eisden (15 pts, won 2-1 at Hasselt 6 Nov).",
+  "news": "Kick-off 19:00 (footballtransfers) vs 20:00 (BetExplorer) = same time in UTC vs CET, consistent with board 19:00 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.28,
+    "p": 0.7467,
+    "why": "CPL is a high-scoring league; Patro last 5 2-1,3-1,3-2,0-2,1-0 and Seraing 0-1,1-0,3-1,0-3,2-3; trend 0.80. Own p 0.77 (sim 0.74) - thin, filler only."
+   }
+  ],
+  "avoid": "Result-sides (house ~fair, no mechanism); Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.365scores.com/football/league/challenger-pro-league-6142/standings",
+   "https://www.footballtransfers.com/en/leagues-cups/national/be/challenger-pro-league/matches",
+   "https://www.betexplorer.com/football/belgium/challenger-pro-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72595222",
+  "fx": "Olympic Club De Charleroi v FC Flenu",
+  "sport": "football",
+  "absences": "none found",
+  "context": "D1 ACFF: Flenu bottom with 2 pts from 13 games (0W1D9L last 10, 0.25 GF away); Olympic Charleroi 19 pts. Tubize \"limited the damage\" v Olympic last round.",
+  "news": "Walfoot lists Olympic Charleroi v Flenu 21/11; standings confirm the gap.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.734031,
+    "why": "Clear mismatch: Flenu have 2 pts from 13, scored 0.8/game and lost 9 of last 10. Own p 0.76 (house 0.73, sim 0.70)."
+   }
+  ],
+  "avoid": "Olympic -1.5 (only 4W in last 10, 1.8 GA - not a rout side).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.walfoot.be/belgique/division-1-acff",
+   "https://www.walfoot.be/news/2026-11-07/d1-ffa-meux-frustre-le-rwdm-mons-facile-face-au-sl-16-tubize-limite-la-casse-contre-lolympic",
+   "https://foot.be/ligues/belgique/eerste-nationale/"
+  ]
+ },
+ {
+  "eid": "sr:match:72595220",
+  "fx": "R AEC Mons v Sporting Charleroi B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "D1 ACFF: Mons 23 pts (beat SL16 easily last round) v Sporting Charleroi B (reserve side, 15 pts).",
+  "news": "Walfoot lists Mons v Charleroi 21/11.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve opponent - result-sides barred; no goals edge (O2.5 trend 0.45 < p 0.59).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.walfoot.be/belgique/division-1-acff",
+   "https://www.walfoot.be/news/2026-11-07/d1-ffa-meux-frustre-le-rwdm-mons-facile-face-au-sl-16-tubize-limite-la-casse-contre-lolympic",
+   "https://foot.be/ligues/belgique/eerste-nationale/"
+  ]
+ },
+ {
+  "eid": "sr:match:72595224",
+  "fx": "Royale Union Tubize-Braine v RWDM Brussels",
+  "sport": "football",
+  "absences": "none found",
+  "context": "D1 ACFF: Tubize 24 pts v RWDM Brussels 21 pts (RWDM held by Meux last round).",
+  "news": "Walfoot and foot.be both list Tubize v RWDM on 21/11.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Close top-half match, house fair.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.walfoot.be/belgique/division-1-acff",
+   "https://www.walfoot.be/news/2026-11-07/d1-ffa-meux-frustre-le-rwdm-mons-facile-face-au-sl-16-tubize-limite-la-casse-contre-lolympic",
+   "https://foot.be/ligues/belgique/eerste-nationale/"
+  ]
+ },
+ {
+  "eid": "sr:match:72533352",
+  "fx": "KFC Mandel United v Royal Knokke FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Nationale 1 VV: Mandel United top (25 pts) v Knokke near bottom; Knokke away 0W1D3L, 0.25 GF.",
+  "news": "Voetbalkrant calendar: Mandel United v Knokke 21/11 20:00 local (=19:00 UTC), consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.55,
+    "p": 0.592505,
+    "why": "Leader at home (5W/6 home) v bottom-half side scoring 0.25/game away; DNB covers the draw. Own p 0.66 (house 0.59, trend 0.68) - house rates it closer than the table, so keep stake small."
+   }
+  ],
+  "avoid": "Home 1X2 @2.05 (house only 0.44 - unexplained gap, possible news we lack).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/kalender",
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/stand",
+   "https://www.voetbalexpress.be/seizoen2026-2027/herenamateurs1.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72533350",
+  "fx": "KVC Houtvenne v KSV Roeselare",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Nationale 1 VV top-3 clash: Houtvenne (22-23 pts) v Roeselare (22-25 pts; 0.5 GA away).",
+  "news": "Voetbalkrant: 21/11 20:00 local (=19:00 UTC); older Voetbalexpress page showed 8 Nov (stale).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Top clash - no result-side.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/kalender",
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/stand",
+   "https://www.voetbalexpress.be/seizoen2026-2027/herenamateurs1.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72366466",
+  "fx": "SV Zulte Waregem v Royal Antwerp FC",
+  "sport": "football",
+  "absences": "Zulte: Dirk Asare, Wilguens Paugain listed out (ScoreGPT); Mbodji red card may bring a ban. Antwerp: Vermeeren and Somers rumoured out (unconfirmed). Bet-experts.nl reports no absences - conflicting.",
+  "context": "Bottom-of-table scrap (\"who escapes at the bottom\"); Zulte under an interim coach, lost last two home league games; Antwerp 2W2D6L last 10.",
+  "news": "Relegation-zone six-pointer, Zulte interim coach; injury lists conflict between sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.793584,
+    "why": "Both defences leaking (Zulte 1.9 GA, Antwerp 2.3 GA); Zulte last 6 all 2+ goals (1-4,2-4,0-3,3-0,0-2,0-3), Antwerp 5/6 2+; trend 0.85. Own p 0.81 (sim 0.79)."
+   }
+  ],
+  "avoid": "Result-sides (both poor, interim coach); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://scoregpt.app/ai-football-predictions/belgian-pro-league/zulte-waregem-vs-antwerp-2026-11-21",
+   "https://bet-experts.nl/nieuws/wedtips-zulte-waregem---antwerp-voorspelling-odds-opstellingen-wie-ontsnapt-onderaan"
+  ]
+ }
+]

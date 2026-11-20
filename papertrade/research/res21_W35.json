@@ -1,0 +1,677 @@
+[
+ {
+  "eid": "sr:match:75724962",
+  "fx": "FC Banik Ostrava v FC Viktoria Plzen",
+  "sport": "football",
+  "absences": "none known",
+  "context": "Czech U19 league; Plzen U19 strong (7W in 10, 0.2 GA away). Youth (U19) fixture: no picks allowed except goals markets in clear mismatches; not a clear mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides (youth)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76682428",
+  "fx": "Slavia Prague v Sigma Olomouc",
+  "sport": "football",
+  "absences": "none known",
+  "context": "Czech U19 league; both sides high-scoring and volatile. Youth (U19) fixture: no picks allowed except goals markets in clear mismatches; not a clear mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets (youth)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76682566",
+  "fx": "1 FC Slovacko v SK Dynamo Ceske Budejovice",
+  "sport": "football",
+  "absences": "none known",
+  "context": "Czech U19; Slovacko U19 lost 5 of last 6. Youth (U19) fixture: no picks allowed except goals markets in clear mismatches; not a clear mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets (youth)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76631986",
+  "fx": "SK Dynamo Ceske Budejovice v Sparta Prague B",
+  "sport": "football",
+  "absences": "none known",
+  "context": "CFL (3rd tier) Group A round 15; Dynamo CB 3rd, Sparta B (U21 reserve) 8th. Dynamo club in financial/ownership turmoil (B team withdrew, sale to region collapsed).",
+  "news": "Sofascore confirms 21 Nov 12:00 UTC; Blesk reports club chaos at Dynamo; reserve opponent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve-side fixture: no result-sides; data thin",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/football/match/sparta-prahau21-sk-dynamo-ceske-budejovice/wUsqXb",
+   "https://isport.blesk.cz/clanek/fotbal-domaci-souteze/478462/ostuda-pro-dynamo-odhlaseni-becka-za-pul-milionu-majitelka-odmitla-nabidku-kraje.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72652512",
+  "fx": "Asa Aarhus v FC Copenhagen",
+  "sport": "football",
+  "absences": "none known",
+  "context": "A-Liga women round 16, 13:00 local confirmed. Women's fixture: no picks except goals in clear mismatches.",
+  "news": "Fixture list confirms 21 Nov 13:00 CET; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://campo.dk/competition/gjensidige-kvindeliga/",
+   "https://www.sofascore.com/football/match/agf-brondby-if/tCsdDac",
+   "https://sport.tv2.dk/fodbold/danmark-a--liga/kvinder/turnering/overblik"
+  ]
+ },
+ {
+  "eid": "sr:match:72652518",
+  "fx": "Broendby IF v AGF Aarhus",
+  "sport": "football",
+  "absences": "none known",
+  "context": "A-Liga women round 16; Brondby 3rd (27 pts) v AGF 10th (3 pts) - clear mismatch, but O2.5 1.28 p0.74 vs trend 0.60 and Brondby home wins mostly 2-0: no edge on goals.",
+  "news": "Sofascore/campo confirm 21 Nov 12:00 UTC; Brondby 3rd, AGF bottom",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "1X2 at 1.03 (sub-1.15); Over 2.5 (no edge, Brondby home scores ~2)",
+  "confidence": 0.15,
+  "sources": [
+   "https://campo.dk/competition/gjensidige-kvindeliga/",
+   "https://www.sofascore.com/football/match/agf-brondby-if/tCsdDac",
+   "https://sport.tv2.dk/fodbold/danmark-a--liga/kvinder/turnering/overblik"
+  ]
+ },
+ {
+  "eid": "sr:match:72652516",
+  "fx": "Odense Q v Koldingq",
+  "sport": "football",
+  "absences": "none known",
+  "context": "A-Liga women round 16, 13:00 local. Women's fixture: no picks except goals in clear mismatches.",
+  "news": "Fixture confirmed 21 Nov 13:00 CET; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://campo.dk/competition/gjensidige-kvindeliga/",
+   "https://www.sofascore.com/football/match/agf-brondby-if/tCsdDac",
+   "https://sport.tv2.dk/fodbold/danmark-a--liga/kvinder/turnering/overblik"
+  ]
+ },
+ {
+  "eid": "sr:match:72952508",
+  "fx": "NK Uskok v Slavonija Pozega",
+  "sport": "football",
+  "absences": "none known",
+  "context": "Druga NL round 13; Uskok top (9W in 11) chasing 6-pt gap over Solin; but only 3W/2L at home in last 5.",
+  "news": "Uskok leader hosts Slavonija Pozega at Klis, 13:30 local",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.33 (p0.70, home form 3W2L - no edge); DNB 1.11 sub-1.15",
+  "confidence": 0.15,
+  "sources": [
+   "https://nogometne-vijesti.hr/druga-nl-derbi-u-dugom-selu-uskok-na-borovistu-bjelovar-trazi-odgovor-u-solinu/",
+   "https://varazdinski.net.hr/vijesti/sport/13474210/varteksu-stize-zagora-segovic-u-subotu-nam-igraju-samo-tri-boda",
+   "https://dalmatinskinogomet.hr/solin-odradio-posao-u-koprivnici-zagora-ide-po-bodove-kod-varteksa/"
+  ]
+ },
+ {
+  "eid": "sr:match:72952510",
+  "fx": "NK Varteks v NK Zagora",
+  "sport": "football",
+  "absences": "none known",
+  "context": "Druga NL round 13; Varteks 2nd-last (8 pts, 9 goals), coach Segovic: 'only three points count' (must-win); Zagora favourite.",
+  "news": "Sources disagree on venue: Hrascica vs Bumbareni",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Hrascica vs Bumbareni)",
+  "picks": [],
+  "avoid": "everything (venue conflict)",
+  "confidence": 0.1,
+  "sources": [
+   "https://nogometne-vijesti.hr/druga-nl-derbi-u-dugom-selu-uskok-na-borovistu-bjelovar-trazi-odgovor-u-solinu/",
+   "https://varazdinski.net.hr/vijesti/sport/13474210/varteksu-stize-zagora-segovic-u-subotu-nam-igraju-samo-tri-boda",
+   "https://dalmatinskinogomet.hr/solin-odradio-posao-u-koprivnici-zagora-ide-po-bodove-kod-varteksa/"
+  ]
+ },
+ {
+  "eid": "sr:match:74084602",
+  "fx": "Digenis Akritas Morphou FC v Enosis Neon Paralimni FC",
+  "sport": "football",
+  "absences": "none known",
+  "context": "Cyprus 2nd Div; Paralimni top/near top (13 pts in early table), Digenis 1W in 10.",
+  "news": "Fixture confirmed in round listings; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away DNB 1.45 - thin league, no news",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bettingexpert.com/football/cyprus/2-division",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-cyprus/second-division",
+   "https://www.besoccer.com/competition/info/2_division_cyprus"
+  ]
+ },
+ {
+  "eid": "sr:match:74084594",
+  "fx": "Ermis Aradippou FC v Ayia Napa FC",
+  "sport": "football",
+  "absences": "none known",
+  "context": "Cyprus 2nd Div; both 3W in 10.",
+  "news": "Opponent conflict between sources: BettingExpert lists Ermis v Spartakos Kitiou, Forebet lists Ermis v Ayia Napa (matches board)",
+  "veto": true,
+  "veto_reason": "Fixture/opponent conflict between sources (Ayia Napa vs Spartakos Kitiou)",
+  "picks": [],
+  "avoid": "everything (data conflict)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bettingexpert.com/football/cyprus/2-division",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-cyprus/second-division",
+   "https://www.besoccer.com/competition/info/2_division_cyprus"
+  ]
+ },
+ {
+  "eid": "sr:match:74084596",
+  "fx": "Ethnikos Achnas FC v Asil Lysis",
+  "sport": "football",
+  "absences": "none known",
+  "context": "Cyprus 2nd Div; Ethnikos Achnas 1st/2nd in table; Asil Lysi draw-heavy (4D in 10).",
+  "news": "Kick-off 12:30 (FotMob) v 13:30 local in others - same time in UTC; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.9/DNB 1.44 - no news-backed mechanism",
+  "confidence": 0.12,
+  "sources": [
+   "https://www.bettingexpert.com/football/cyprus/2-division",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-cyprus/second-division",
+   "https://www.besoccer.com/competition/info/2_division_cyprus"
+  ]
+ },
+ {
+  "eid": "sr:match:74084588",
+  "fx": "M E A P Nisou v Apea Akrotiriou",
+  "sport": "football",
+  "absences": "none known",
+  "context": "Cyprus 2nd Div; MEAP Nisou 0W 3D 7L in last 10, scoring 0.5/game; APEA Akrotiri 5W in 10.",
+  "news": "Fixture confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.21,
+    "p": 0.7697,
+    "why": "Nisou winless in 10 (0.5 GF), trend 0.85 vs house 0.77; own est 0.79. Thin league, low weight."
+   }
+  ],
+  "avoid": "Away 1X2 1.82 (p0.50 < 0.75)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bettingexpert.com/football/cyprus/2-division",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-cyprus/second-division",
+   "https://www.besoccer.com/competition/info/2_division_cyprus"
+  ]
+ },
+ {
+  "eid": "sr:match:72300880",
+  "fx": "FK Arsenal Ceska Lipa v SK Hanacka Slavia Kromeriz",
+  "sport": "football",
+  "absences": "Ceska Lipa: Adam Ondracek suspended (4 yellows)",
+  "context": "First club weekend after the international break (R1 transition board). FNL round 15; Ceska Lipa 10th (17 pts), Kromeriz 16th (12 pts). Both last-6 high-scoring (Lipa games 2-5 goals, Kromeriz 1-5).",
+  "news": "Fotbalzpravy + Denik confirm 21.11 13:30 at Plouznice (one generic Livesport page said 22.11 - stale)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.7953,
+    "why": "Both sides concede ~1.6/game; 17 of 20 last-10 games had 2+ goals (trend 0.85 v p0.80); own est 0.81."
+   }
+  ],
+  "avoid": "result-sides (relegation six-pointer, close)",
+  "confidence": 0.2,
+  "sources": [
+   "https://isport.blesk.cz/clanek/fotbal-domaci-souteze-chance-narodni-liga/479731/dukla-je-po-vyhre-prvni-obrat-trince-proti-karvine-z-0-2-na-3-2-prestrelka-v-taborsku.html",
+   "https://www.fotbalzpravy.cz/rubriky/cesko/chance-narodni-liga-program-vysledky-zapasu-a-tabulka_1162.html",
+   "https://ceskolipsky.denik.cz/sport/fotbal-vysledky/tymy/2026/sk-hanacka-slavia-kromeriz-a-s-198328/"
+  ]
+ },
+ {
+  "eid": "sr:match:72300884",
+  "fx": "FK Fotbal Trinec v Dukla Prague",
+  "sport": "football",
+  "absences": "none found",
+  "context": "First club weekend after the international break (R1 transition board). FNL round 15; Dukla 2nd (8W3D3L, 24:19), Trinec 15th (14 pts, 16:24), Trinec 1W 4L in last 5 home games.",
+  "news": "Isport preview: second-placed Dukla travel to Trinec, Sat 13:30",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.28,
+    "p": 0.7357,
+    "why": "Promotion-chasing Dukla v 15th Trinec who lost 4 of 5 at home; own est 0.76 v house 0.74."
+   }
+  ],
+  "avoid": "Away 1X2 1.97 (p0.48 < 0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://isport.blesk.cz/clanek/fotbal-domaci-souteze-chance-narodni-liga/479731/dukla-je-po-vyhre-prvni-obrat-trince-proti-karvine-z-0-2-na-3-2-prestrelka-v-taborsku.html",
+   "https://www.fotbalzpravy.cz/rubriky/cesko/chance-narodni-liga-program-vysledky-zapasu-a-tabulka_1162.html",
+   "https://ceskolipsky.denik.cz/sport/fotbal-vysledky/tymy/2026/sk-hanacka-slavia-kromeriz-a-s-198328/"
+  ]
+ },
+ {
+  "eid": "sr:match:72044416",
+  "fx": "Vendsyssel FF v Hvidovre IF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "First club weekend after the international break (R1 transition board). Danish 1. Division; Hvidovre 2nd and unbeaten in 10 (6W4D), Vendsyssel 1W in 10, 0W at home in 4. Danish Unders are over-rated (UBIAS) - Overs favoured.",
+  "news": "Standings (da.wikipedia) Hvidovre 2nd, Vendsyssel 8th; one older Campo page listed Esbjerg v Hvidovre on 21 Nov (stale, conflicts with Livescore/board)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.31,
+    "p": 0.7207,
+    "why": "Hvidovre unbeaten in 10 v Vendsyssel winless at home; trend 0.95 v p0.72; own est 0.76."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.7951,
+    "why": "18 of 20 last-10 games 2+ goals (trend 0.90), Danish under bias; own est 0.82."
+   }
+  ],
+  "avoid": "Away 1X2 2.1 (p0.46 < 0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://bold.dk/fodbold/kamp/esbjerg-fb-vs-ab-gladsaxe/betinia-liga/16355211",
+   "https://da.wikipedia.org/wiki/1._division_2026-27_(fodbold)",
+   "https://www.livescore.dk/1-division/kampprogram/",
+   "https://www.foxsports.com/soccer/ab-gladsaxe-team-standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72695418",
+  "fx": "Naestved HG v B93 Copenhagen",
+  "sport": "football",
+  "absences": "none known",
+  "context": "Danish women's B Liga. Women's fixture: no picks except goals in clear mismatches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://campo.dk/competition/gjensidige-kvindeliga/",
+   "https://www.sofascore.com/football/match/agf-brondby-if/tCsdDac",
+   "https://sport.tv2.dk/fodbold/danmark-a--liga/kvinder/turnering/overblik"
+  ]
+ },
+ {
+  "eid": "sr:match:72695420",
+  "fx": "Sundby BK v Team Viborg",
+  "sport": "football",
+  "absences": "none known",
+  "context": "Danish women's B Liga. Women's fixture: no picks except goals in clear mismatches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://campo.dk/competition/gjensidige-kvindeliga/",
+   "https://www.sofascore.com/football/match/agf-brondby-if/tCsdDac",
+   "https://sport.tv2.dk/fodbold/danmark-a--liga/kvinder/turnering/overblik"
+  ]
+ },
+ {
+  "eid": "sr:match:71913050",
+  "fx": "NK Lokomotiva Zagreb v HNK Hajduk Split",
+  "sport": "football",
+  "absences": "Lokomotiva: Fran Karacic (adductor), Marko Pajac (collarbone), Marko Vesovic (muscle) - three defenders out. Hajduk: Roko Brajkovic, Adrion Pajaziti, Dennis Hadzikadunic out; Mathieu Acapandie doubtful.",
+  "context": "HNL; Lokomotiva second-last (11 pts in 13 rounds), Hajduk top-3 chaser; Hajduk away form only 2W2D2L.",
+  "news": "Sportnet: Loko without three defenders, Hajduk without three; 15:00 local at Maksimir",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.29,
+    "p": 0.7379,
+    "why": "Loko 2nd-last and missing 3 defenders (Karacic, Pajac, Vesovic); DNB covers Hajduk's patchy away draws; own est 0.76."
+   }
+  ],
+  "avoid": "Away 1X2 1.69 (p0.56 < 0.75); Hajduk catch markets",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportnet.hr/vijesti/nogomet-supersport-hnl/lokomotiva-protiv-hajduka-bez-trojice-igraca-poznato-tko-nece-biti-na-raspolaganju-jelavicu/635678",
+   "https://sportske-kladionice.com/lokomotiva-vs-hajduk-tipovi-savjeti-i-kvote-21-11-2026-1500/",
+   "https://www.windrawwin.com/us/picks/croatia-1-hnl/rudes-v-varazdin/870046/",
+   "https://tribuna.1xbet.kz/prognozy/21-11-2026-rudes-vs-varazdin/"
+  ]
+ },
+ {
+  "eid": "sr:match:73160482",
+  "fx": "Omonia Aradippou v Pafos FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cyprus 1st Div; Pafos (reigning champions 2025-26 era, but only 7th, 11 pts in Oct snapshot) away to Omonia Aradippou (11th). Pafos 6/6 H2H wins v Omonia Aradippou.",
+  "news": "No current preview; Forebet H2H Pafos 6/6; Betimate October standings",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.22,
+    "p": 0.7852,
+    "why": "Pafos won all 6 H2H v Omonia Aradippou; Aradippou concede 1.6/game; own est 0.80 v house 0.79 - modest."
+   }
+  ],
+  "avoid": "Away 1X2 1.56 (p0.61 < 0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fotmob.com/matches/omonia-nicosia-vs-apoel-nicosia/2aon02",
+   "https://www.forebet.com/en/football/matches/omonia-nicosia-apoel-2527070",
+   "https://betimate.com/en/football-predictions/nea-salamis-famagusta-vs-pafos-fc/2026-10-26/game",
+   "https://www.forebet.com/en/football/matches/pafos-omonia-aradippou-2357960"
+  ]
+ },
+ {
+  "eid": "sr:match:72796032",
+  "fx": "FC Banik Ostrava v FK Teplice",
+  "sport": "football",
+  "absences": "Possible suspensions for Nogha/Kubala (club unclear); predicted XI only",
+  "context": "First club weekend after the international break (R1 transition board). Chance Liga round 15; Banik 13th (14 pts) and 0W in 3 at home (0.33 GF), lost 0-4 to Plzen 1 Nov; Teplice ~6th, 3W in 5 away.",
+  "news": "Official schedule 21 Nov 15:00 CET; no confirmed team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2/DNB (Banik home form poor); Over 1.5 (Banik scoring 0.33 at home)",
+  "confidence": 0.15,
+  "sources": [
+   "https://fotbalportal.cz/cesko/synot-liga/81946-sigma-olomouc-slavia-monroy-sejk-preview-andruv-stadion",
+   "https://www.forebet.com/en/football/matches/sigma-olomouc-slavia-praha-2474941",
+   "https://www.fotbalportal.cz/cesko/synot-liga/81956-bohemians-plzen-centry-cermak-preview-dolicek/",
+   "https://www.fotbalportal.cz/cesko/synot-liga/81958-mlada-boleslav-zlin-preview-hoftych-majer-rohy-domaci-bilance/",
+   "https://www.chanceliga.cz/rozpis-zapasu",
+   "https://infotbal.cz/15-kolo-chance-fantasy-predpokladane-sestavy-plus-levne-kaufy-ktere-bys-nemel-prehlednout/",
+   "https://7sport.cz/fotbal/artis-brno-jablonec-mol-cup-11-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72796030",
+  "fx": "FK Mlada Boleslav v FC Zlin",
+  "sport": "football",
+  "absences": "Zlin: Mukuba suspended (red card), Jugas, Kolar, Penkevics injured",
+  "context": "First club weekend after the international break (R1 transition board). Chance Liga round 15; Mlada Boleslav 3rd, only side with 100% home record (4/4 in data, 2.25 GF); Zlin last, 0 wins in 14; ex-Boleslav coach Hoftych returns.",
+  "news": "fotbalportal/Denik: perfect-home Boleslav v bottom Zlin; official schedule 21 Nov 15:00 CET",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.8019,
+    "why": "Boleslav 100% at home v winless Zlin missing Mukuba (susp) + 3 injured; own est 0.83."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.51,
+    "p": 0.6368,
+    "why": "Same mechanism; own est 0.66 v house 0.64."
+   }
+  ],
+  "avoid": "Zlin catches (+1.5/+2.5 banned, fav p0.64)",
+  "confidence": 0.3,
+  "sources": [
+   "https://fotbalportal.cz/cesko/synot-liga/81946-sigma-olomouc-slavia-monroy-sejk-preview-andruv-stadion",
+   "https://www.forebet.com/en/football/matches/sigma-olomouc-slavia-praha-2474941",
+   "https://www.fotbalportal.cz/cesko/synot-liga/81956-bohemians-plzen-centry-cermak-preview-dolicek/",
+   "https://www.fotbalportal.cz/cesko/synot-liga/81958-mlada-boleslav-zlin-preview-hoftych-majer-rohy-domaci-bilance/",
+   "https://www.chanceliga.cz/rozpis-zapasu",
+   "https://infotbal.cz/15-kolo-chance-fantasy-predpokladane-sestavy-plus-levne-kaufy-ktere-bys-nemel-prehlednout/",
+   "https://7sport.cz/fotbal/artis-brno-jablonec-mol-cup-11-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72796024",
+  "fx": "SK Artis Brno v FK Jablonec",
+  "sport": "football",
+  "absences": "none found",
+  "context": "First club weekend after the international break (R1 transition board). Chance Liga round 15; Artis Brno 14th (10 pts), Jablonec 7th (21 pts). Same sides met in MOL Cup round of 16 on 11 Nov (repeat fixture, result unknown).",
+  "news": "Cup tie on 11 Nov + league match on 21 Nov (official schedule) - not a true conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (no mechanism; Jablonec scoring 1.0/game)",
+  "confidence": 0.12,
+  "sources": [
+   "https://fotbalportal.cz/cesko/synot-liga/81946-sigma-olomouc-slavia-monroy-sejk-preview-andruv-stadion",
+   "https://www.forebet.com/en/football/matches/sigma-olomouc-slavia-praha-2474941",
+   "https://www.fotbalportal.cz/cesko/synot-liga/81956-bohemians-plzen-centry-cermak-preview-dolicek/",
+   "https://www.fotbalportal.cz/cesko/synot-liga/81958-mlada-boleslav-zlin-preview-hoftych-majer-rohy-domaci-bilance/",
+   "https://www.chanceliga.cz/rozpis-zapasu",
+   "https://infotbal.cz/15-kolo-chance-fantasy-predpokladane-sestavy-plus-levne-kaufy-ktere-bys-nemel-prehlednout/",
+   "https://7sport.cz/fotbal/artis-brno-jablonec-mol-cup-11-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72796026",
+  "fx": "SK Sigma Olomouc v Slavia Prague",
+  "sport": "football",
+  "absences": "Sigma: Vaclav Sejk suspended (red card; 6 of 22 league goals); Barath, Hadas, Kral doubtful. Slavia: Kante, Ogbu (Achilles), Ouanda, Pitak (ankle) injured; Chory removed from squad; Chaloupek, Provod doubtful.",
+  "context": "First club weekend after the international break (R1 transition board). Chance Liga round 15; Slavia 1st (34 pts) v Sigma 5th (24); new Sigma coach Jaime Monroy's first game; Sigma 4W1L at home.",
+  "news": "fotbalportal: Monroy debut without Sejk v Slavia who conceded once away",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.32,
+    "p": 0.7256,
+    "why": "Sigma lose top scorer Sejk (susp) + new-coach debut; Slavia leaders, 1 away goal conceded; but Slavia have 4-6 absentees. Own est 0.74."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7939,
+    "why": "17 of 20 last-10 games 2+ goals (trend 0.85), both average ~2 GF; own est 0.80."
+   }
+  ],
+  "avoid": "Away 1X2 1.73 (p0.55 < 0.75); BTTS (Sigma without Sejk)",
+  "confidence": 0.22,
+  "sources": [
+   "https://fotbalportal.cz/cesko/synot-liga/81946-sigma-olomouc-slavia-monroy-sejk-preview-andruv-stadion",
+   "https://www.forebet.com/en/football/matches/sigma-olomouc-slavia-praha-2474941",
+   "https://www.fotbalportal.cz/cesko/synot-liga/81956-bohemians-plzen-centry-cermak-preview-dolicek/",
+   "https://www.fotbalportal.cz/cesko/synot-liga/81958-mlada-boleslav-zlin-preview-hoftych-majer-rohy-domaci-bilance/",
+   "https://www.chanceliga.cz/rozpis-zapasu",
+   "https://infotbal.cz/15-kolo-chance-fantasy-predpokladane-sestavy-plus-levne-kaufy-ktere-bys-nemel-prehlednout/",
+   "https://7sport.cz/fotbal/artis-brno-jablonec-mol-cup-11-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72044414",
+  "fx": "Esbjerg FB v AB Gladsaxe",
+  "sport": "football",
+  "absences": "none found",
+  "context": "First club weekend after the international break (R1 transition board). Danish 1. Division round 15 at Blue Water Arena; AB Gladsaxe 4th (21 pts), Esbjerg 10th (14 pts).",
+  "news": "Bold.dk confirms 21 Nov 15:00 CET (Onefootball 09:00 outlier); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 1.14 sub-1.18; result-sides (AB 1W in 3 away)",
+  "confidence": 0.12,
+  "sources": [
+   "https://bold.dk/fodbold/kamp/esbjerg-fb-vs-ab-gladsaxe/betinia-liga/16355211",
+   "https://da.wikipedia.org/wiki/1._division_2026-27_(fodbold)",
+   "https://www.livescore.dk/1-division/kampprogram/",
+   "https://www.foxsports.com/soccer/ab-gladsaxe-team-standings"
+  ]
+ },
+ {
+  "eid": "sr:match:73160474",
+  "fx": "AC Omonia Nicosia v APOEL Nikosia",
+  "sport": "football",
+  "absences": "Omonia: Loic Nego (muscle/knock) doubtful, Eiting (knee) out, Christou (metatarsal), Balkovec (adductor), Kakoullis (muscular) per Forebet; Kitsos long-term. APOEL: Kattirtzis (ACL), Sastre suspended (per Forebet; FotMob lists none).",
+  "context": "Nicosia derby at GSP; APOEL in strong form (2.6 GF/game), Omonia won last derby 3-0 (May 2026).",
+  "news": "FotMob 15:00 UTC, Forebet 16:00 CET (same); injury lists conflict between sources",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.27,
+    "p": 0.7597,
+    "why": "18 of 20 last-10 games 2+ goals (trend 0.90 v p0.76), APOEL scoring 2.6/game; derby tension tempers it; own est 0.78."
+   }
+  ],
+  "avoid": "all result-sides (derby); BTTS",
+  "confidence": 0.18,
+  "sources": [
+   "https://www.fotmob.com/matches/omonia-nicosia-vs-apoel-nicosia/2aon02",
+   "https://www.forebet.com/en/football/matches/omonia-nicosia-apoel-2527070",
+   "https://betimate.com/en/football-predictions/nea-salamis-famagusta-vs-pafos-fc/2026-10-26/game",
+   "https://www.forebet.com/en/football/matches/pafos-omonia-aradippou-2357960"
+  ]
+ },
+ {
+  "eid": "sr:match:71913132",
+  "fx": "NK Rudes Zagreb v NK Varazdin",
+  "sport": "football",
+  "absences": "Varazdin/Rudes: Ellison unavailable, Stefan Vukic not playing (per betting preview, team unclear)",
+  "context": "HNL; Rudes 8th (16 pts) won last 3 home games 1-0; Varazdin 5th (19) lost last two 1-6 aggregate.",
+  "news": "Kick-off 17:00/18:00 local reported (17:00 UTC consistent); tipsters lean draw/BTTS/U2.5",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 1.34 (p0.72 < 0.82); result-sides",
+  "confidence": 0.12,
+  "sources": [
+   "https://sportnet.hr/vijesti/nogomet-supersport-hnl/lokomotiva-protiv-hajduka-bez-trojice-igraca-poznato-tko-nece-biti-na-raspolaganju-jelavicu/635678",
+   "https://sportske-kladionice.com/lokomotiva-vs-hajduk-tipovi-savjeti-i-kvote-21-11-2026-1500/",
+   "https://www.windrawwin.com/us/picks/croatia-1-hnl/rudes-v-varazdin/870046/",
+   "https://tribuna.1xbet.kz/prognozy/21-11-2026-rudes-vs-varazdin/"
+  ]
+ },
+ {
+  "eid": "sr:match:73160472",
+  "fx": "Aris Limassol v Nea Salamina Famagusta",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cyprus 1st Div; Aris Limassol 5th (12 pts Oct) v Nea Salamina 12th (4 pts), Salamina 1W 4L away.",
+  "news": "Fixture appears on 21.11 round listings; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.8028,
+    "why": "Aris v Salamina near bottom and 1W 4L away; own est 0.81 v house 0.80."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.51,
+    "p": 0.6345,
+    "why": "Same; own est 0.64."
+   }
+  ],
+  "avoid": "Salamina catches",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fotmob.com/matches/omonia-nicosia-vs-apoel-nicosia/2aon02",
+   "https://www.forebet.com/en/football/matches/omonia-nicosia-apoel-2527070",
+   "https://betimate.com/en/football-predictions/nea-salamis-famagusta-vs-pafos-fc/2026-10-26/game",
+   "https://www.forebet.com/en/football/matches/pafos-omonia-aradippou-2357960"
+  ]
+ },
+ {
+  "eid": "sr:match:72796020",
+  "fx": "Bohemians Prague 1905 v Viktoria Plzen",
+  "sport": "football",
+  "absences": "Bohemians: Jasir, Plestil injured; Javorcek, Smrz doubtful. Plzen: none found.",
+  "context": "First club weekend after the international break (R1 transition board). Chance Liga round 15 at Dolicek 18:00 CET; both on 20 pts (8th/9th). Plzen most goals from crosses (8), Bohemians conceded none from crosses; Bohemians 0 GA in last 3 home.",
+  "news": "Bohemians site + fotbalportal preview",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 2.0 (p0.48 < 0.75); Plzen team over (style clash)",
+  "confidence": 0.15,
+  "sources": [
+   "https://fotbalportal.cz/cesko/synot-liga/81946-sigma-olomouc-slavia-monroy-sejk-preview-andruv-stadion",
+   "https://www.forebet.com/en/football/matches/sigma-olomouc-slavia-praha-2474941",
+   "https://www.fotbalportal.cz/cesko/synot-liga/81956-bohemians-plzen-centry-cermak-preview-dolicek/",
+   "https://www.fotbalportal.cz/cesko/synot-liga/81958-mlada-boleslav-zlin-preview-hoftych-majer-rohy-domaci-bilance/",
+   "https://www.chanceliga.cz/rozpis-zapasu",
+   "https://infotbal.cz/15-kolo-chance-fantasy-predpokladane-sestavy-plus-levne-kaufy-ktere-bys-nemel-prehlednout/",
+   "https://7sport.cz/fotbal/artis-brno-jablonec-mol-cup-11-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114669211",
+  "fx": "Moca FC v Salcedo FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Dominicana de Futbol Apertura 2026 SEMIFINAL first leg (2nd leg 29 Nov at Salcedo); Salcedo best regular-season side and reigning champion; Moca 4th, qualified on final day.",
+  "news": "CDN Deportes: Sat 21 Nov 6pm local (22:00 UTC) consistent with board",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides (knockout first leg); Under 3.5 1.18 (p0.81 < 0.82)",
+  "confidence": 0.12,
+  "sources": [
+   "https://cdndeportes.com.do/salcedo-y-moca-abren-las-semifinales-de-la-ldf-en-un-duelo-de-rivalidad-regional/",
+   "https://hoy.com.do/deportes/moca-salcedo-iniciaran-manana-semifinales-ldf_1109298.html"
+  ]
+ }
+]

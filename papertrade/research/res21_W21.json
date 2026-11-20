@@ -1,0 +1,604 @@
+[
+ {
+  "eid": "sr:match:72162150",
+  "fx": "Reading Royals v Kalamazoo Wings",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "ECHL regular season; only 1X2 (60-min) offered.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "3-way hockey 1X2 in ECHL; no edge",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74307718",
+  "fx": "Hong Kong v Tonga",
+  "sport": "rugby",
+  "absences": "none found",
+  "context": "Nations Cup round 6 (final pool round); Tonga favourites v weak Hong Kong; Tonga away form poor (conceded 45/game away).",
+  "news": "Round confirmed on schedule (World Rugby round-six preview); no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=23.5",
+    "desc": "Home (+23.5)",
+    "odds": 1.42,
+    "p": 0.6657,
+    "why": "Tonga leaking 37 pts/game in last 10 and only 1-3 away; HK lost by 2 and 21 in last two home games. Own p ~0.68 (house 0.666) - thin, trend-only."
+   }
+  ],
+  "avoid": "Tonga -17.5/-11.5 (Tonga away form 1-3)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.world.rugby/nations-cup/en/news/1049572/world-rugby-nations-cup-2026-round-six-preview",
+   "https://www.skysports.com/rugby-union/georgia-vs-usa/114194",
+   "https://www.ultimaterugby.com/world-rugby-nations-cup-2026/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72875670",
+  "fx": "Saracens FC v Harlequins FC",
+  "sport": "rugby",
+  "absences": "none found",
+  "context": "Premiership Rugby Cup R5 during Test window: both clubs without England internationals (Quins have 3 in England 23 incl. Marcus Smith); academy-heavy sides, wide variance.",
+  "news": "Fixture confirmed 13:00 CET/12:00 UTC (all.rugby vs Sky - consistent after timezone); no team sheets found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Saracens 1.18 ML and big handicaps - squads unknown",
+  "confidence": 0.1,
+  "sources": [
+   "https://all.rugby/",
+   "https://www.skysports.com/rugby-union/competitions/premiership-rugby-cup/fixtures",
+   "https://www.quins.co.uk/article/trio-named-in-england-squad-to-face-new-zealand"
+  ]
+ },
+ {
+  "eid": "sr:match:74307720",
+  "fx": "Georgia v USA",
+  "sport": "rugby",
+  "absences": "none found",
+  "context": "Nations Cup R6 at Tbilisi: Georgia and USA have both already won their pools - match only for a perfect record (reduced stakes / rotation risk).",
+  "news": "Both already crowned pool champions; kick-off 14:00 UTC (Sky 2pm, Ultimate Rugby 18:00 = Tbilisi local) - consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Georgia -15.5/-21.5 (dead-ish rubber, rotation)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.world.rugby/nations-cup/en/news/1049572/world-rugby-nations-cup-2026-round-six-preview",
+   "https://www.skysports.com/rugby-union/georgia-vs-usa/114194",
+   "https://www.ultimaterugby.com/world-rugby-nations-cup-2026/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:71184196",
+  "fx": "England v New Zealand",
+  "sport": "rugby",
+  "absences": "England: Feyi-Waboso, Alex Mitchell injured (otherwise strongest available, 9 changes back to first choice: George, Chessum, Curry, Fin Smith, Freeman, Furbank return). NZ: near full strength, Will Jordan back from hamstring, B. Barrett 150th cap, McKenzie at 10.",
+  "context": "Nations Championship R6 at Allianz Stadium; Hillary Shield and finals place at stake for NZ after 35-28 loss in Cardiff; England at home with first-choice XV.",
+  "news": "Both full-strength teams named; NZ bounce-back motivation after Wales defeat; England strongest available.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=9.5",
+    "desc": "Home (+9.5)",
+    "odds": 1.33,
+    "p": 0.7164,
+    "why": "England full-strength at home; recent England-NZ Tests decided by 1, 7, 2 and 14 pts. Own p ~0.75 (house 0.716)."
+   }
+  ],
+  "avoid": "Any result side (big-team clash); totals (H2H often 40-50 pts vs line 55+)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.englandrugby.com/follow/news-and-media/england-team-face-new-zealand-allianz-stadium-nations-championship",
+   "https://super.rugby/therugbychampionship/news/rd6-all-blacks-team-to-play-england/",
+   "https://www.irishtimes.com/sport/2026/11/19/england-name-strongest-available-team-for-all-blacks-clash-at-twickenham/"
+  ]
+ },
+ {
+  "eid": "sr:match:71184198",
+  "fx": "Scotland v Japan",
+  "sport": "rugby",
+  "absences": "Scotland: 10-11 changes; captain Rory Darge OUT (shoulder) after naming - McDowall captain, Freddy Douglas onto bench; Duhan van der Merwe, Josh McKay not involved. Japan: Komura at 10, Saito 9, Matsunaga 15.",
+  "context": "Heavily rotated Scotland v Eddie Jones' Japan at Murrayfield; three Scotland captains in a week.",
+  "news": "Scotland make wholesale changes and lose Darge; Japan named full side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-36.5",
+    "desc": "Away (+36.5)",
+    "odds": 1.5,
+    "p": 0.6306,
+    "why": "Scotland 11 changes + Darge late withdrawal blunts the rout case; Scotland's last-10 margin small (28.7 v 29.6). Own p ~0.70 (house 0.631)."
+   }
+  ],
+  "avoid": "Scotland -18.5/-24.5; Overs",
+  "confidence": 0.3,
+  "sources": [
+   "https://scottishrugby.org/news-and-features/10-changes-as-scotland-name-team-to-face-japan/",
+   "https://www.scotsman.com/sport/rugby-union/three-captains-in-a-week-but-scotland-backed-to-handle-the-disruption-against-japan-9364236",
+   "https://en.rugby-japan.jp/2026/11/20/brave-blossoms-set-for-murrayfield-showdown/"
+  ]
+ },
+ {
+  "eid": "sr:match:74307722",
+  "fx": "Portugal v Uruguay",
+  "sport": "rugby",
+  "absences": "none found",
+  "context": "Nations Cup R6; Portugal strong home record (3-1, 8-2 overall) v inconsistent Uruguay (4-1-5).",
+  "news": "Fixture on schedule; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Portugal ML 1.25 - no mechanism beyond form",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.world.rugby/nations-cup/en/news/1049572/world-rugby-nations-cup-2026-round-six-preview",
+   "https://www.skysports.com/rugby-union/georgia-vs-usa/114194",
+   "https://www.ultimaterugby.com/world-rugby-nations-cup-2026/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:74307724",
+  "fx": "Spain v Samoa",
+  "sport": "rugby",
+  "absences": "none found",
+  "context": "Nations Cup R6 in Malaga; Spain lost 25-20 to Chile last weekend; Samoa won both away games by big margins (36-5, 43-7).",
+  "news": "Spain bouncing back from Chile defeat (World Rugby preview); no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.2,
+    "p": 0.7969,
+    "why": "Samoa away 2-0 (+67 pts), Spain just lost to Chile; Samoa winner incl. OT. Own p ~0.80 (house 0.797) - away price satisfies p>=0.75."
+   }
+  ],
+  "avoid": "Samoa -10.5 (Spain home 2-1)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.world.rugby/nations-cup/en/news/1049572/world-rugby-nations-cup-2026-round-six-preview",
+   "https://www.skysports.com/rugby-union/georgia-vs-usa/114194",
+   "https://www.ultimaterugby.com/world-rugby-nations-cup-2026/matches",
+   "https://www.world.rugby/nations-cup/en/match/27945fca-c138-4cf7-bd66-eee0741af210"
+  ]
+ },
+ {
+  "eid": "sr:match:72875632",
+  "fx": "Exeter RC Chiefs v Gloucester Rugby",
+  "sport": "rugby",
+  "absences": "none found",
+  "context": "Prem Rugby Cup R5 (Test window, depleted squads). Exeter 3-7 last 10; Gloucester 6-1-3 and won last H2H 45-24.",
+  "news": "Kick-off 16:30 UTC (17:30 CET all.rugby) consistent; no team sheets found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-14.5",
+    "desc": "Away (+14.5)",
+    "odds": 1.41,
+    "p": 0.6703,
+    "why": "Exeter poor (3-7, conceding 33/game), Gloucester beat them 45-24 last meeting. Own p ~0.75 (house 0.67)."
+   }
+  ],
+  "avoid": "Exeter ML/-8.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://all.rugby/",
+   "https://www.skysports.com/rugby-union/competitions/premiership-rugby-cup/fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:71184200",
+  "fx": "Ireland v South Africa",
+  "sport": "rugby",
+  "absences": "Ireland: Caelan Doris, Jack Conan injured - no specialist No.8, Dan Sheehan (capt) starts at 8; 5 changes from Fiji win; Keenan 50th cap. SA: head coach Rassie Erasmus suspended 6 Tests by World Rugby (immediate).",
+  "context": "Nations Championship R6, sold-out Aviva, Ireland 5-0 at home in last 10; Boks ~10-pt favourites.",
+  "news": "Ireland makeshift back row (Sheehan at 8); Erasmus banned for six Tests.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=14.5",
+    "desc": "Home (+14.5)",
+    "odds": 1.54,
+    "p": 0.6155,
+    "why": "Ireland unbeaten at home in last 10 (avg +19); Ireland-SA Tests since 2023 decided by 5, 7 and 1 pts; Erasmus absent from the box. Own p ~0.70 (house 0.616)."
+   }
+  ],
+  "avoid": "SA ML/-8.5 (big clash); totals",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.balls.ie/rugby/whos-in-whos-out-ireland-south-africa-667558",
+   "https://www.irishtimes.com/sport/rugby/2026/11/19/live-ireland-squad-announcement-andy-farrell-to-name-team-to-play-south-africa/",
+   "https://espn.co.uk/espn/story/_/id/50508598/ireland-south-africa-kick-how-watch-springboks-nations-championship"
+  ]
+ },
+ {
+  "eid": "sr:match:71184202",
+  "fx": "Italy v Fiji",
+  "sport": "rugby",
+  "absences": "none found",
+  "context": "Nations Championship R6 in Udine; both sides poor last-10 (Italy 2-8, Fiji 3-7); Italy lost 19-14 to Argentina last week.",
+  "news": "Partial line-ups only (Allan, Capuozzo, Miotti for Italy); no confirmed Fiji XV found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - conflicting form, no full team sheets",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.planetrugby.com/news/nations-championship-round-six-teams-predictions-global-tv-channels-and-more"
+  ]
+ },
+ {
+  "eid": "sr:match:74307726",
+  "fx": "Zimbabwe v Chile",
+  "sport": "rugby",
+  "absences": "none found",
+  "context": "Nations Cup R6 in Zimbabwe (home, altitude); Chile beat Spain 25-20 last week.",
+  "news": "Listed 17:15 on schedule; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=19.5",
+    "desc": "Home (+19.5)",
+    "odds": 1.41,
+    "p": 0.6698,
+    "why": "Zimbabwe home 3-3 (avg -1 at home), Chile away 2-4; a 20+ Chile win at altitude unlikely. Own p ~0.74 (house 0.67)."
+   }
+  ],
+  "avoid": "Chile -13.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.world.rugby/nations-cup/en/news/1049572/world-rugby-nations-cup-2026-round-six-preview",
+   "https://www.skysports.com/rugby-union/georgia-vs-usa/114194",
+   "https://www.ultimaterugby.com/world-rugby-nations-cup-2026/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72875672",
+  "fx": "Newcastle Red Bulls v Northampton Saints",
+  "sport": "rugby",
+  "absences": "none found",
+  "context": "Prem Rugby Cup R5; Newcastle 2-8 last 10 but home favourite; Northampton 0-4 away and many internationals away; last H2H Northampton won 59-26.",
+  "news": "Kick-off 17:30 UTC (18:30 CET) consistent; no team sheets found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-12.5",
+    "desc": "Away (+12.5)",
+    "odds": 1.64,
+    "p": 0.569,
+    "why": "Newcastle 2-8 in last 10 (conceding 38/game) - price on them looks inflated by Saints' Test absences; Saints beat them by 33 last meeting. Own p ~0.63 (house 0.569)."
+   }
+  ],
+  "avoid": "Newcastle ML 1.24",
+  "confidence": 0.15,
+  "sources": [
+   "https://all.rugby/",
+   "https://www.skysports.com/rugby-union/competitions/premiership-rugby-cup/fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:72909580",
+  "fx": "Carolina Hurricanes v Edmonton Oilers",
+  "sport": "ice hockey",
+  "absences": "Oilers: G Frederik Andersen (knee, out to Jan), Janmark, Savoie, Regula out; Nugent-Hopkins doubtful (missed 3, saw doctors). Starter Levi or Jarry unannounced. Hurricanes: Jarvis activated; Staal IR per one source vs healthy per NHL.com (minor conflict).",
+  "context": "1pm ET matinee (18:00 UTC matches); Carolina won 8 of last 9; no back-to-back (no NHL games Fri Nov 20).",
+  "news": "Oilers short a top C and No.1 goalie; Carolina hot and favoured ~62%.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.56,
+    "p": 0.6199,
+    "why": "Carolina 8/9 recent wins, 5-1 at home (GA 1.33); Oilers without Andersen, likely RNH. Own p ~0.65 (house 0.62)."
+   }
+  ],
+  "avoid": "Overs (Carolina home GA 1.3)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nhl.com/news/edmonton-oilers-carolina-hurricanes-game-preview-november-21-2026",
+   "https://www.espn.com/nhl/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:71184204",
+  "fx": "France v Argentina",
+  "sport": "rugby",
+  "absences": "France: Romain Ntamack (shoulder), Thomas Ramos, Antoine Hastoy out; Jalibert recalled from thigh injury. Argentina: 7 changes, Montoya back as captain.",
+  "context": "Stade de France, 20:10 UTC; France 5-0 at home in last 10; Argentina beat Italy 19-14.",
+  "news": "France lose both first-choice 10s and Ramos, Jalibert returns; Pumas rotate 7.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-25.5",
+    "desc": "Away (+25.5)",
+    "odds": 1.48,
+    "p": 0.6405,
+    "why": "France without Ntamack/Ramos (main kicker) lowers points ceiling; Argentina rarely lose by 26+ (only 1 of last 10 by >25). Own p ~0.72 (house 0.641)."
+   }
+  ],
+  "avoid": "France -15.5 and Overs",
+  "confidence": 0.3,
+  "sources": [
+   "https://france24.com/en/live-news/20261119-france-recall-jalibert-for-argentina-nations-championship-clash",
+   "https://americasrugbynews.com/2026/11/19/nations-championship-2026-france-vs-argentina-arn-guide"
+  ]
+ },
+ {
+  "eid": "sr:match:72909582",
+  "fx": "Calgary Flames v Chicago Blackhawks",
+  "sport": "ice hockey",
+  "absences": "Blackhawks: Connor Bedard (shoulder) OUT, Byram IR. Flames: Huberdeau IR, Bahl LTIR, Zary out.",
+  "context": "Calgary lost 4-1 at Minnesota Thursday.",
+  "news": "Bedard out for Chicago; Calgary ~-162 favourite.",
+  "veto": true,
+  "veto_reason": "Start-time conflict: NHL.com/Pickswise 3:30pm ET (=20:30 UTC, board) vs CBS/ESPN 8:30pm ET.",
+  "picks": [],
+  "avoid": "All until time confirmed",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nhl.com/news/chicago-blackhawks-calgary-flames-game-preview-november-21-2026",
+   "https://www.cbssports.com/nhl/gametracker/expert-picks/NHL_20261121_CHI@CGY/"
+  ]
+ },
+ {
+  "eid": "sr:match:72734774",
+  "fx": "Hartford Wolf Pack v Milwaukee Admirals",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AHL; 6pm ET (23:00 UTC) confirmed by EliteProspects schedule.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - coin-flip market",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eliteprospects.com/league/ahl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72909584",
+  "fx": "Florida Panthers v Buffalo Sabres",
+  "sport": "ice hockey",
+  "absences": "Panthers: Barkov and Marchand on IR (Barkov return date conflicts: Nov 21 ESPN vs Nov 27). Sabres: Grzelcyk (LB) day-to-day, Helenius returning.",
+  "context": "Florida 5-5 last 10, home GA 3.8.",
+  "news": "Florida still missing Barkov/Marchand; no confirmed preview found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Panthers ML (missing two top forwards)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/nhl/injuries",
+   "https://livinghockey.com/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:72909586",
+  "fx": "Nashville Predators v Pittsburgh Penguins",
+  "sport": "ice hockey",
+  "absences": "Penguins: Malkin (UB, not travelling), Rust, Graves, Robertson, Soderblom out. Predators: Trudeau out.",
+  "context": "Pittsburgh 7-12-2 on 2-game road trip; Nashville 11-6-5.",
+  "news": "Penguins without Malkin and Rust; Preds the healthier, better team.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.73,
+    "p": 0.5528,
+    "why": "Pens missing Malkin + Rust + Graves, 7-12-2 and 3-7 last 10; Nashville 7-3 last 10. Own p ~0.60 (house 0.553)."
+   }
+  ],
+  "avoid": "Pens +1.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nhl.com/news/pittsburgh-penguins-nashville-predators-game-preview-november-21-2026",
+   "https://www.cbssports.com/nhl/gametracker/expert-picks/NHL_20261121_PIT@NSH/"
+  ]
+ },
+ {
+  "eid": "sr:match:72734776",
+  "fx": "Wilkes-Barre/Scranton Penguins v Rochester Americans",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AHL; only 1X2 offered.",
+  "news": "no news found (schedule for this pairing not confirmed in search)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72734140",
+  "fx": "Abbotsford Canucks v Tucson Roadrunners",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AHL; only 1X2 offered.",
+  "news": "EliteProspects schedule shows Abbotsford v Tucson on Nov 18, not Nov 21.",
+  "veto": true,
+  "veto_reason": "Date conflict: search schedule lists this pairing on 18 Nov; Nov 21 not confirmed.",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eliteprospects.com/league/ahl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72734780",
+  "fx": "Cleveland Monsters v Utica Comets",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AHL; Utica 7-3 last 10, Cleveland 4-6.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72734778",
+  "fx": "Syracuse Crunch v Belleville Senators",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AHL; only 1X2.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72909560",
+  "fx": "Boston Bruins v Washington Capitals",
+  "sport": "ice hockey",
+  "absences": "Capitals: Sandin (knee), Desharnais out. Bruins: James Hagens (back).",
+  "context": "Both 4-6/5-5 last 10.",
+  "news": "Minor absences both sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - near pick'em",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cbssports.com/nhl/gametracker/expert-picks/NHL_20261121_WAS@BOS/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909568",
+  "fx": "Detroit Red Wings v New York Islanders",
+  "sport": "ice hockey",
+  "absences": "Red Wings: Dylan Larkin suspended (to ~Dec 20), Edvinsson contract dispute, Wallinder questionable. Islanders: Pulock/Stanley day-to-day.",
+  "context": "Detroit 3-7 last 10; Islanders lost 4-3 OT at Winnipeg Thursday.",
+  "news": "Detroit without captain Larkin; line DET -104.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Detroit ML",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cbssports.com/nhl/gametracker/expert-picks/NHL_20261121_NYI@DET/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909564",
+  "fx": "Montreal Canadiens v Philadelphia Flyers",
+  "sport": "ice hockey",
+  "absences": "Canadiens: Kreider, Josh Anderson, Matheson out; Fowler projected in goal. Flyers: starter TBD (Woll 4 of last 6).",
+  "context": "Centre Bell 7pm ET (00:00 UTC matches); Montreal 14-5-4 v Flyers 8-11-6 on 2-game win streak.",
+  "news": "Game confirmed by NHL gamecenter; Montreal missing three regulars.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Montreal -1.5",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nhl.com/gamecenter/phi-vs-mtl/2026/11/21/2026020365",
+   "https://northeasttimes.com/2026/11/20/flyers-weekend-preview-canadiens-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909566",
+  "fx": "Ottawa Senators v Los Angeles Kings",
+  "sport": "ice hockey",
+  "absences": "Kings: Panarin expected back from personal absence; Trevor Moore out.",
+  "context": "Kings won 4-3 SO at Toronto Thursday after trailing 3-0.",
+  "news": "Panarin returns for LA.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ottawa ML",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/nhl/injuries",
+   "https://livinghockey.com/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:72909570",
+  "fx": "St. Louis Blues v New Jersey Devils",
+  "sport": "ice hockey",
+  "absences": "Devils: Mantha, Kovacevic out, Casey due back. Blues: Krug LTIR, Dube, Tucker out, Johnston DTD.",
+  "context": "7pm ET (00:00 UTC) consistent.",
+  "news": "Devils ~-130 road favourites; Devils PK 66.7%.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - priced fairly",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cbssports.com/nhl/gametracker/expert-picks/NHL_20261121_NJ@STL/",
+   "https://bangthebook.com/new-jersey-devils-vs-st-louis-blues-prediction-2026-11-21/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909562",
+  "fx": "Toronto Maple Leafs v Columbus Blue Jackets",
+  "sport": "ice hockey",
+  "absences": "Blue Jackets: Monahan, Garland out. Leafs: Knies returning.",
+  "context": "Toronto 8-13-3, 1-9 last 10 (eight-game skid); Columbus snapped 5-game skid Thursday.",
+  "news": "Toronto in crisis; Columbus missing two top-six forwards.",
+  "veto": true,
+  "veto_reason": "Start-time conflict: Bleacher Report 8:00pm ET vs SportsJaw 7:00pm ET (board 00:00 UTC = 7pm).",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://bleacherreport.com/game/columbus-blue-jackets-vs-toronto-maple-leafs-2026-11-22-2-00",
+   "https://ats.io/nhl/news/columbus-blue-jackets-toronto-maple-leafs-11-21-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909572",
+  "fx": "Winnipeg Jets v Vegas Golden Knights",
+  "sport": "ice hockey",
+  "absences": "Jets: DeMelo out 4-6 weeks. Vegas: Hanifin out (return ~Nov 24).",
+  "context": "Winnipeg beat Islanders 4-3 OT Thursday; Vegas lost in SO at Dallas Thursday.",
+  "news": "No preview found confirming this game; injuries only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - game not confirmed in sources",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espn.com/nhl/injuries",
+   "https://livinghockey.com/injuries"
+  ]
+ }
+]
