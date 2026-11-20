@@ -46,7 +46,7 @@ def result(eid):
     sid=m.get('_sid'); ft=p.get('ft') or {}; h1=p.get('p1') or {}
     # rh/ra = final result incl. OT (sets for tennis/volleyball/table tennis, frames for snooker)
     d=dict(fh=r['home'],fa=r['away'],rh=r['home'],ra=r['away'],winner=r.get('winner'),sid=sid,soccer=(sid==1),
-           per=[(p[k]['home'],p[k]['away']) for k in sorted(p,key=lambda x:int(x[1:])) if k[0]=='p' and k[1:].isdigit() and p[k].get('home') is not None])
+           per=[(p[k]['home'],p[k]['away']) for k in sorted((k for k in p if k[:1]=='p' and k[1:].isdigit()),key=lambda x:int(x[1:])) if isinstance(p[k],dict) and p[k].get('home') is not None])
     if d['soccer']:
         if ft.get('home') is not None: d.update(fh=ft['home'],fa=ft['away'])  # 90 minutes
         if h1.get('home') is not None: d.update(h1h=h1['home'],h1a=h1['away'])
