@@ -45,11 +45,11 @@ def trend(o,e,F):
     if d.startswith(('Over','Under')) and tl:
         L=float(tl[1]); over=d.startswith('Over')
         def ev(x): return None if x is None else (0.5 if x==L else (1.0 if (x>L)==over else 0.0))
-        if hn.split()[0] in md and not half and 'total' not in md.split(hn.split()[0])[0][-3:]:
+        if md.startswith(hn+' ') and not half:
             vals=[ev(g['gf']) for g in H]+[ev(g['ga']) for g in A]; return rate(vals)
-        if an.split()[0] in md and not half:
+        if md.startswith(an+' ') and not half:
             vals=[ev(g['gf']) for g in A]+[ev(g['ga']) for g in H]; return rate(vals)
-        if half and ('over/under' in md or 'total' in md) and hn.split()[0] not in md and an.split()[0] not in md:
+        if half and ('over/under' in md or 'total' in md) and not md.startswith(hn+' ') and not md.startswith(an+' ') and hn not in md and an not in md:
             vals=[ev(None if g['h1f'] is None else g['h1f']+g['h1a']) for g in H+A]; return rate(vals)
         if not half and (md.startswith('over/under') or md.startswith('total') or 'incl. overtime' in md and 'over/under' in md):
             vals=[ev(g['gf']+g['ga']) for g in H+A]; return rate(vals)
