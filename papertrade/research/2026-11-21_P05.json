@@ -1,0 +1,581 @@
+[
+ {
+  "eid": "sr:match:74063632",
+  "fx": "Guerreros de Autlan v Club Calor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Premier Serie A J13 (3rd tier, semi-pro). Both on ~15 pts mid-table Grupo 1; Calor relocated from Reynosa in Jul 2026 (nomadic club). Kickoff 16:00 local = 22:00 UTC matches board.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Only market in band is Home 1.16 (below 1.18); thin semi-pro tier, no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://soccer365.net/clubs/32241/",
+   "https://www.flashscore.com.mx/futbol/mexico/liga-premier-serie-a/",
+   "https://en.wikipedia.org/wiki/Club_Calor"
+  ]
+ },
+ {
+  "eid": "sr:match:74063626",
+  "fx": "Saltillo Soccer FC v Halcones Negros FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Premier Serie A. Halcones Negros ~20 pts (2nd-3rd Grupo 1), Saltillo ~14 pts; Saltillo lost 1-4 at Real Refineros last week. Both sides high-scoring (Saltillo last 6 totals 2-9). Kickoff 22:00 UTC consistent (BetExplorer/Flashscore).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 1.29 (p .73) is stats-only, no mechanism; Halcones away 1X2 p .52 fails away gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.flashscore.com.mx/futbol/mexico/liga-premier-serie-a/",
+   "https://www.betexplorer.com/football/mexico/liga-premier-serie-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:74063130",
+  "fx": "Internacional Laguna v CD Ayense AC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Premier Serie B (4th tier). Internacional Laguna is a 2026 expansion side, 1W in 8.",
+  "news": "Sources disagree on home side: FootballTransfers lists Inter Laguna home 22:00, 365Scores lists Ayense v Inter Laguna 21:30.",
+  "veto": true,
+  "veto_reason": "Venue/home-side and kickoff conflict between sources (FootballTransfers vs 365Scores).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballtransfers.com/en/leagues-cups/national/mx/liga-premier-serie-b/matches",
+   "https://www.365scores.com/es-mx/football/league/liga-premier-serie-b-8076/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:75884780",
+  "fx": "Atletico Mineiro MG v Boca Juniors",
+  "sport": "football",
+  "absences": "Atletico MG: CB Alan Franco suspended (red card in SF 2nd leg v Montevideo City Torque, also adductor issue); Reinier and Alan Minda expected out; Maycon, Victor Hugo, Thiago Borbas awaiting clearance. Boca: GK Marchesin out (knee, not registered); Lautaro Blanco and Milton Delgado back in training; no suspensions.",
+  "context": "Copa Sudamericana FINAL, single match at neutral Barranquilla (board \"home\" Atletico is nominal). Knockout: settles on 90 min except To Qualify. Big-club clash. Atletico form 3W2D5L, 0.9 gf in last 10; Boca 8W1D1L, 0.7 ga. Coaches: Eduardo Dominguez (CAM), Rodolfo Arruabarrena (Boca).",
+  "news": "Final in Barranquilla; Atletico missing CB Alan Franco (suspended) plus Reinier/Minda; Boca at full strength bar GK Marchesin.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.49,
+    "p": 0.6416,
+    "why": "DNB is the only result instrument allowed in a knockout. Mechanism: Atletico lose starting CB Alan Franco (suspension) and attackers Reinier/Minda while Boca have Blanco and Delgado back; Boca 8-1-1 v Atletico 3-2-5 with 0.9 gf. Draw at 90 = void. My p(Boca win | no draw) ~0.67 v house .64."
+   }
+  ],
+  "avoid": "No 1X2/DC result sides (final, big-club). Unders below .82 (U2.5 .65). Atletico +1.5 catch skipped (finals are tight but no mechanism beyond price).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/atletico-mineiro/preview/atletico-mineiro-vs-boca-juniors-prediction-team-news-lineups_609477.html",
+   "https://www.365scores.com/es/news/boca-vs-atletico-mineiro-convocados-baja/",
+   "https://www.beinsports.com/en-us/soccer/conmebol-sudamericana/articles/boca-juniors-predicted-lineup-vs-atl%C3%A9tico-mineiro-in-the-copa-sudamericana-final-2026-11-20",
+   "https://cronicadelquindio.com/deporte/atletico-mineiro-boca-juniors-final-copa-sudamericana-barranquilla"
+  ]
+ },
+ {
+  "eid": "sr:match:72055324",
+  "fx": "CF Pachuca v Deportivo Toluca FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Liga MX Apertura 2026 Jornada 17 (final regular round), Estadio Hidalgo 16:50 local = 22:50 UTC. Pachuca 10th (22 pts) MUST WIN to reach the liguilla; Toluca 5th (27 pts), already qualified, chasing a top-4 seed. Liguilla QF first legs Nov 25-26.",
+  "news": "Pachuca must win to qualify; Toluca chasing top-4 seeding; no injury reports found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.47,
+    "p": 0.651,
+    "why": "Must-win Pachuca has to open up at home; Toluca still playing for top-4. Pachuca last 6 totals 5,3,3,3,3,6 and Toluca 4,4,2,4,2,5 (10 of 12 over 2.5). My p ~0.69 v house .65."
+   }
+  ],
+  "avoid": "Result sides (Pachuca DNB 1.94 coin-flip); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://es-us.noticias.yahoo.com/horarios-canales-jornada-17-apertura-141547877.html",
+   "https://www.eluniversal.com.mx/deportes/liga-mx-horarios-y-canales-para-ver-la-jornada-17-del-apertura-2026-hoy-sabado-21-de-noviembre/"
+  ]
+ },
+ {
+  "eid": "sr:match:72055322",
+  "fx": "Club Santos Laguna v Club Leon",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Liga MX J17. Direct shoot-out for a liguilla place: Santos 7th (25 pts), Leon 9th (23 pts), so a draw keeps Santos above Leon and Leon must win. Santos 5W from 5 at home (2.2 gf, 0.2 ga); Leon away 1W2D2L. One source listed 21:00 at Estadio Universitario (that is Tigres-America; mixed-up listing); majority confirm 17:00 Torreon = 23:00 UTC.",
+  "news": "Santos v Leon is a winner-takes-place game in Torreon; a draw suits Santos; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.45,
+    "p": 0.6438,
+    "why": "Settlement structure: a draw qualifies Santos ahead of Leon, so Leon must chase at the ground where Santos are 5/5 with 1 goal conceded in 5. My p ~0.70 v house .64."
+   }
+  ],
+  "avoid": "Unders (Leon must attack); Leon result sides.",
+  "confidence": 0.3,
+  "sources": [
+   "https://es-us.noticias.yahoo.com/horarios-canales-jornada-17-apertura-141547877.html",
+   "https://es-us.noticias.yahoo.com/deportes/tabla-general-apertura-2026-partidos-150001506.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74100798",
+  "fx": "Inter Playa Del Carmen v Cordobes FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Premier (new 3rd-tier subdivision created Aug 2026), Grupo B J13; kickoff Sat 21 Nov listed 23:00 consistent.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; new league with no reliable data.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.365scores.com/football/match/primera-premier-9119/cordobes-fc-inter-playa-del-carmen-57674-82886-9119"
+  ]
+ },
+ {
+  "eid": "sr:match:74931196",
+  "fx": "Eastern Suburbs Auckland AFC v Waterside Karori",
+  "sport": "football",
+  "absences": "women's fixture - not researched for absences",
+  "context": "NZ Women's National League. Eastern Suburbs top end (9W1L, 4.2 gf at home, 0.17 ga); Waterside Karori 2W8L. Fixture on Nov 22 local confirmed by BetExplorer/Soccerway.",
+  "news": "no news found (women's, date check only)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no result sides. Over 3.5 1.30 p .73 is a fair price, not a pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/new-zealand/national-league-women/",
+   "https://cn.soccerway.com/new-zealand/national-league-women/"
+  ]
+ },
+ {
+  "eid": "sr:match:74100796",
+  "fx": "Jaguares FC v Los Cabos United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Premier. Jaguares games extremely open (9-8, 7-8 results); Los Cabos tight (1.0 gf/1.0 ga away).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; conflicting team profiles, new league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:74063628",
+  "fx": "La Tribu de Ciudad Juarez v Real Refineros Cds",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Premier Serie A. La Tribu de Cd Juarez top of Grupo 1 (26 pts in 12), 5W1L at home with 3.33 gf; Real Refineros ~19 pts, just beat Saltillo 4-1. Both sides' games high-scoring.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.24,
+    "p": 0.7635,
+    "why": "Top-of-group La Tribu (3.0 gf/game, wins of 7-0, 8-0, 5-0) v a Refineros side that concedes 2.9/game and whose last 6 totals were 5,4,5,6,6,5. Stats-led in a high-scoring 3rd tier, so low confidence. My p ~0.78 v house .76."
+   }
+  ],
+  "avoid": "Home 1.24 result side in a semi-pro league; Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.flashscore.com.mx/futbol/mexico/liga-premier-serie-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:72055326",
+  "fx": "Pumas UNAM v CF Monterrey",
+  "sport": "football",
+  "absences": "Monterrey: Stefan Medina and Uros Durdevic (injured), Ricardo Chavez (suspended). Pumas: Pedro Vite suspended (5th yellow); Oliver Torres and Carlos Salcedo back from suspension.",
+  "context": "Liga MX J17. Pumas 11th (21 pts, -2 GD) must win and need other results; Monterrey 8th (24 pts) clinging to the last spot. Pumas home 1W3D1L but 2.2 gf / 2.0 ga.",
+  "news": "Pumas must win; Monterrey without striker Durdevic, Medina and suspended Chavez.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.7691,
+    "why": "Must-win Pumas (their home games average 4.2 goals) v a Monterrey defence missing Medina and suspended Chavez; Monterrey also need a result. Pumas last 6 totals 4,3,2,2,3,6. My p ~0.80 v house .77."
+   }
+  ],
+  "avoid": "Result sides (both absences cut each way); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.elimparcial.com/deporte/2026/11/20/que-necesita-pumas-para-clasificar-a-la-liguilla-del-apertura-2026-y-que-pasa-si-gana-empata-o-pierde-contra-monterrey/",
+   "https://abcnoticias.mx/deportes/2026/11/21/que-necesita-rayados-para-clasificar-a-la-liguilla-del-apertura-2026-296132.html",
+   "https://clarosports.com/futbol/liga-mx/pumas-vs-monterrey-en-vivo-la-liga-mx-horario-alineaciones-y-donde-ver-el-partido-del-apertura-2026-jornada-17"
+  ]
+ },
+ {
+  "eid": "sr:match:74100800",
+  "fx": "Club Celaya FC v Zacatepec FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Premier. Wikipedia notes Celaya FC was dissolved to cede its franchise to a refounded Atletico Celaya; team identity in this listing is ambiguous (name conflict, not a date conflict).",
+  "news": "no news found; club identity ambiguity (Celaya FC vs Atletico Celaya)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; identity unclear, no data edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Primera_Premier",
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:74931198",
+  "fx": "Canterbury United Pride v West Coast Rangers FC",
+  "sport": "football",
+  "absences": "women's fixture - not researched for absences",
+  "context": "NZ Women's National League. Canterbury Pride 3W7L, concede 2.8/game (lost 0-8 recently); West Coast Rangers 5W2D3L; last H2H 0-5.",
+  "news": "no news found (women's, date check only; Nov 22 local confirmed)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.23,
+    "p": 0.7706,
+    "why": "Goals market in a clear mismatch (allowed for women's): Canterbury concede 2.8/game, H2H 0-5, Rangers away 2.5 gf. Trend 15/20 over. My p ~0.78 v house .77."
+   }
+  ],
+  "avoid": "No result sides (women's).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/new-zealand/national-league-women/"
+  ]
+ },
+ {
+  "eid": "sr:match:74931194",
+  "fx": "Fencibles Utd v Auckland United FC",
+  "sport": "football",
+  "absences": "women's fixture - not researched for absences",
+  "context": "NZ Women's National League. Auckland United near the top (8W2L, 0.5 ga); Fencibles 4W3L.",
+  "news": "no news found (women's)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result sides (women's); Over 2.5 1.32 fair.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/new-zealand/national-league-women/"
+  ]
+ },
+ {
+  "eid": "sr:match:76911552",
+  "fx": "Atletico Morelia v Club Atletico La Paz",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Liga de Expansion MX Apertura 2026 FINAL, 1st leg at Estadio Morelos (2nd leg in La Paz Nov 28). La Paz (3rd, 26 pts; first-ever final) beat Venados 4-2 agg and Piratas; Morelia beat Leones Negros 1-0 agg in SF, chasing 2nd title (Clausura 2022). First legs of finals tend to be cagey.",
+  "news": "Final 1st leg; kickoff conflict: Informador/enjuego 20:00 CDMX (=02:00 UTC, matches board) v 365Scores 17:00.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (20:00 v 17:00 local; likely a timezone display issue, but binding).",
+  "picks": [],
+  "avoid": "All; knockout first leg, Under 4.5 p .818 just below the .82 gate anyway.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.informador.mx/deportes/liga-de-expansion-mx-confirma-fechas-y-horarios-de-la-gran-final-20261117-0215.html",
+   "https://www.clarosports.com/futbol/liga-de-expansion-mx/atletico-la-paz-vs-atletico-morelia-asi-sera-la-final-del-apertura-2026-de-la-liga-de-expansion/",
+   "https://www.365scores.com/es/football/match/liga-de-expansion-mx-5514/atletico-la-paz-atletico-morelia-66652-70132-5514"
+  ]
+ },
+ {
+  "eid": "sr:match:72055328",
+  "fx": "Tigres UANL v CF America",
+  "sport": "football",
+  "absences": "America: Erick Sanchez and Kevin Alvarez (suspended, yellows), Brian Rodriguez (thigh), Victor Davila (ACL, season), also Jose Zuniga and Raphael Veiga listed out; Santiago Bueno returns. Tigres: Francisco Reyes (Achilles) and Marcelo Flores out; doubts Jesus Angulo, Romulo, Osvaldo Rodriguez, Marco Farfan; Alan Franco may return.",
+  "context": "Liga MX J17, Estadio Universitario 21:00 local = 03:00 UTC. Tigres ALREADY ELIMINATED (ends run of 23 straight liguillas) - playing for pride; America 2nd (30 pts) chasing 1st. Big-club clash; America may rest players with 4 yellows before the QF.",
+  "news": "Tigres eliminated; America chasing top seed but with 5-6 absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result sides; big-club totals need p>=.82 (O1.5 .80 fails). America DNB 1.55 skipped: heavy absences and possible rotation before liguilla.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.mediotiempo.com/futbol/liga-mx/liga-mx-jornada-17-apertura-2026-tigres-vs-america-cierre-torneo-dignidad-liderato",
+   "https://juanfutbol.com/liga-mx/america-buscara-el-liderato-del-apertura-2026-ante-tigres-con-tres-posibles-bajas",
+   "https://www.si.com/es-us/lesionados-y-suspendidos-de-america-para-enfrentarse-a-tigres-uanl-21-11-2026",
+   "https://www.tvazteca.com/aztecadeportes/liga-mx/america-llega-con-5-bajas-al-partido-con-tigres-lesionados-y-suspendidos/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152222",
+  "fx": "Roasso Kumamoto v Giravanz Kitakyushu",
+  "sport": "football",
+  "absences": "none found",
+  "context": "J3 2026/27 MD18, Egao Kenko Stadium 13:00 JST = 04:00 UTC (J.League official). J.League page: Kumamoto 2W3D1L, Kitakyushu 0W3D3L in their recent 6 (season start).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kumamoto DNB 1.35 tempting on Kitakyushu winless run but stats-only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/match/j3/2026/112203/",
+   "https://roasso-k.com/games"
+  ]
+ },
+ {
+  "eid": "sr:match:72665102",
+  "fx": "Iwate Grulla Morioka v J-Lease FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL 28th (2026/27) MD13. Iwate ~12th, J-Lease mid-table; Iwate 0W at home in 5. Low-scoring league.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; JFL thin/low-scoring.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tokyofootball.com/result/2026-27jfl/result.php"
+  ]
+ },
+ {
+  "eid": "sr:match:72665106",
+  "fx": "Minebea Mitsumi FC v Reinmeer Aomori",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL MD13. Minebea 1W3L at home (0.5 gf).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tokyofootball.com/result/2026-27jfl/result.php"
+  ]
+ },
+ {
+  "eid": "sr:match:72665100",
+  "fx": "Okinawa SV v Maruyasu Okazaki",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL MD13, Okinawa Sogo Undokoen 13:00 JST (official, matches board). Okinawa SV ~7th (17 pts); Maruyasu Okazaki 1W1D8L last 10, 1W4L away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Okinawa DNB 1.34 is stats-only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.okinawasv.com/result/",
+   "https://fc-maruyasu.jp/"
+  ]
+ },
+ {
+  "eid": "sr:match:72665098",
+  "fx": "Veertien Mie v Criacao Shinjuku",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL MD13. Criacao Shinjuku top (24 pts in 12), Veertien ~11th.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; Criacao away price fails gates.",
+  "confidence": 0.1,
+  "sources": [
+   "https://criacao.co.jp/ranking/",
+   "https://www.tokyofootball.com/result/2026-27jfl/result.php"
+  ]
+ },
+ {
+  "eid": "sr:match:72665108",
+  "fx": "Yokogawa Musashino FC v Honda FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL MD13, Musashino Athletics Stadium 13:00 JST (both clubs' official sites agree). Honda FC 2nd (23 pts in 12), one point behind leaders Criacao - title race; Yokogawa Musashino ~14th (11 pts), 0W1D3L at home.",
+  "news": "no news found; venue/time confirmed by both clubs",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.23,
+    "p": 0.7659,
+    "why": "Away side below .75 on 1X2 so DNB used. Honda in a title race 1 pt off top v 14th-placed Yokogawa winless at home (0-1-3). My p ~0.79 v house .77."
+   }
+  ],
+  "avoid": "Honda 1X2 1.59 (p .59 fails away gate).",
+  "confidence": 0.25,
+  "sources": [
+   "https://fc.yokogawa-musashino.jp/view/702",
+   "https://www.honda-fc.gr.jp/game/list.php",
+   "https://www.tokyofootball.com/result/2026-27jfl/result.php"
+  ]
+ },
+ {
+  "eid": "sr:match:72152216",
+  "fx": "Renofa Yamaguchi v Mio Biwako Shiga",
+  "sport": "football",
+  "absences": "none found",
+  "context": "J3 MD18. Renofa Yamaguchi 4th in a tight promotion race (top 7 within 3 pts) host 16th Reilac Shiga (formerly MIO Biwako Shiga). Renofa drew 1-1 with Sanuki last week after leading. Shiga 1W1D4L away.",
+  "news": "4th v 16th; Renofa in promotion race (footballchannel preview).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.77,
+    "why": "Motivation gap: Renofa in a 7-team promotion race (1st-7th within 3 pts) v a 16th-placed Shiga side 1-1-4 away, 0.7 gf last 10. My p ~0.79 v house .77."
+   }
+  ],
+  "avoid": "Renofa -1/-1.5 (they failed to close out a lead last week).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/21/post1058479/",
+   "https://www.jleague.jp/news/article/35399/"
+  ]
+ },
+ {
+  "eid": "sr:match:72665110",
+  "fx": "Azul Claro Numazu v YSCC Yokohama",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL MD13, kick-off 14:00 JST = 05:00 UTC (Numazu official). Mid-table both.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.azul-claro.jp/"
+  ]
+ },
+ {
+  "eid": "sr:match:72151380",
+  "fx": "Tokushima Vortis v Shonan Bellmare",
+  "sport": "football",
+  "absences": "Shonan: MF Matsumoto and FW Fabian Gonzalez injuries announced Nov 11; FW Yutaro Oda out (meniscus, Oct 10).",
+  "context": "J2 2026/27 MD18 (mid-season, not final round), Pocari Sweat Stadium 14:00 JST = 05:00 UTC. Shonan ~5th, Tokushima lower mid-table; Tokushima 1W4L at home.",
+  "news": "Shonan missing Fabian Gonzalez, Matsumoto, Oda; mid-season game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip 1X2; Unders below gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague-ticket.jp/sales/perform/2639242/001",
+   "https://www.bellmare.co.jp/405387",
+   "https://soccer.yahoo.co.jp/jleague/team/130"
+  ]
+ },
+ {
+  "eid": "sr:match:74459142",
+  "fx": "Gamba Osaka U21 v Tokyo Verdy U21",
+  "sport": "football",
+  "absences": "youth (U21) - not researched for absences",
+  "context": "U21 J League reserve/youth competition.",
+  "news": "no news found (youth)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth: no result sides; not a clear goals mismatch.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74058686",
+  "fx": "Tung Sing v Hoi King",
+  "sport": "football",
+  "absences": "none found",
+  "context": "HK First Division (2nd tier). No 2026/27 table found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://footystats.org/hong-kong/hkfa-first-division-league"
+  ]
+ },
+ {
+  "eid": "sr:match:72152210",
+  "fx": "FC Osaka v Kamatamare Sanuki",
+  "sport": "football",
+  "absences": "none found",
+  "context": "J3 MD18, Hanazono Rugby Stadium 15:00 JST = 06:00 UTC. FC Osaka 6th (promotion race) v Kamatamare Sanuki 18th/19th (sources differ); Sanuki drew 1-1 at Renofa last week.",
+  "news": "6th v bottom-three Sanuki.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "FC Osaka 1X2 1.46: trend only 9/20 v house .65, Osaka score 1.2/game; DNB 1.17 below band.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/21/post1058479/",
+   "https://www.fc-osaka.com/game-schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:74058690",
+  "fx": "WSE v Central & Western",
+  "sport": "football",
+  "absences": "none found",
+  "context": "HK First Division. WSE 4W from 4 at home; Central & Western score 3.2/game.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://footystats.org/hong-kong/hkfa-first-division-league"
+  ]
+ },
+ {
+  "eid": "sr:match:73296524",
+  "fx": "Shatin v Eastern SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "HK Premier League R12, Shatin Sports Ground, 15:00 HKT = 07:00 UTC (TheSportsDB, BetExplorer, SportyTrader agree; one LiveSoccerTV page lists Fri 20 Nov - outdated listing). Shatin promoted 2025-26; Eastern 0W1D5L away in last 10.",
+  "news": "Kick-off confirmed by 3 sources; one stale listing shows Nov 20.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Eastern DNB 1.44 contradicted by 0-1-5 away form.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sportytrader.com/en/results-live/shatin-eastern-sports-club-8693220/",
+   "https://www.thesportsdb.com/event/2553780-shatin-vs-eastern-sc"
+  ]
+ }
+]

@@ -85,6 +85,8 @@ def main():
     ap.add_argument('--board',required=True,action='append'); ap.add_argument('--research',required=True,action='append')
     ap.add_argument('--targets',default='50,500'); ap.add_argument('--sport'); ap.add_argument('--exclude')
     ap.add_argument('--nest',action='store_true'); ap.add_argument('--post',action='store_true')
+    ap.add_argument('--extend',action='store_true',help='each later target = the previous ticket plus new fixtures (fixture on <=2 slips)')
+    ap.add_argument('--min-conf',type=float,default=0.2,help='skip research entries rated below this confidence (statistics-only fill)')
     ap.add_argument('--date',default=dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%d')); ap.add_argument('--label',default='ticket')
     ap.add_argument('--lead-min',type=float,default=45); ap.add_argument('--drift',type=float,default=0.06)
     a=ap.parse_args()
@@ -104,6 +106,7 @@ def main():
     for r in RES:
         e=BE.get(r.get('eid'))
         if not e or r.get('veto') or e['start']<komin or r['eid'] in excl: continue
+        if float(r.get('confidence') or 0)<a.min_conf: drop['research confidence below --min-conf']+=1; continue
         if a.sport and e['sport']!=a.sport: continue
         if JUNK.search(e['lg']) and not any(str(p.get('desc','')).startswith('Over') for p in r.get('picks') or []): continue
         fp=max([o['p'] for o in e['mk'] if o['mid']=='1' and o['desc'] in ('Home','Away')] or [0])
@@ -135,6 +138,12 @@ def main():
         X=build(cands,tg[2]/oA,used,6,max_unders=0,over_frac=0.45,sport_cap=cap); used|={l['eid'] for l in X}
         Y=build(cands,tg[3]/oB,used,7,max_unders=0,over_frac=0.45,sport_cap=cap)
         tickets=[(tg[0],A),(tg[1],B),(tg[2],A+X),(tg[3],B+Y)]
+    elif a.extend:
+        prev=[]
+        for i,t in enumerate(tg):
+            base=math.prod(l['odds'] for l in prev) if prev else 1.0
+            X=build(cands,t/base,used,4+2*i if not a.sport else 6,sport_cap=cap,max_unders=0 if i else 1)
+            used|={l['eid'] for l in X}; prev=prev+X; tickets.append((t,list(prev)))
     else:
         for t in tg:
             T=build(cands,t,used,4 if not a.sport else 6,sport_cap=cap); used|={l['eid'] for l in T}; tickets.append((t,T))

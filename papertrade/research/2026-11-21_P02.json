@@ -1,0 +1,562 @@
+[
+ {
+  "eid": "sr:match:74320788",
+  "fx": "EC Pinheiros SP v Minas Tenis Clube MG",
+  "sport": "basketball",
+  "absences": "No named absences found for either side.",
+  "context": "NBB 2026/27 1st turn; Minas Storm league leader and unbeaten (8-0 before this, beat Osasco 81-64 on Nov 19 = 2 days' rest); Pinheiros 4th at 6-2, young squad. Venue Ginasio Henrique Villaboim SP, 19h BRT = 22:00 UTC (matches board).",
+  "news": "Minas unbeaten leader (10-0 last 10, 66 conceded) visit 6-2 Pinheiros; date/venue confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=170.5",
+    "desc": "Under 170.5",
+    "odds": 1.24,
+    "p": 0.7706,
+    "why": "Minas last 6 totals 145/140/145/141/163/161 (max 163) and concede 66/g; Pinheiros last 6 max 190 but 4 of 6 under 165; trend 0.95. Own p ~0.80."
+   }
+  ],
+  "avoid": "Minas ML 1.76 (away, p 0.54 < 0.75); Over 144.5 (Minas games sit 140-145 often).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/21/minas-enfrenta-pinheiros-e-cruzeiro-visita-osasco-em-sabado-de-nbb-saiba-onde-assistir",
+   "https://www.gazetaesportiva.com/campeonatos/nbb-novo-basquete-brasil/minas-vence-osasco-lideranca-nbb-2026-27/",
+   "https://www.ecp.org.br/motivado-o-jovem-pinheiros-enfrenta-o-minas-na-unibh-pelo-nbb/"
+  ]
+ },
+ {
+  "eid": "sr:match:76783616",
+  "fx": "Paisas Basketball v Toros Del Valle",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Liga Senal Colombia 2026-II FINAL, best-of-five, Game 3 (Games 1-2 in Cali Nov 18-19; results not found). Paisas home in Medellin, 5pm COT = 22:00 UTC (matches). Toros reigning champions (beat Paisas 3-1 in 2026-I final), 11-1 regular season.",
+  "news": "Final series Game 3 at Paisas; knockout series = no result-side; Games 1-2 scores not found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: knockout/series game, thin board (13 markets), series state unknown.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.radionacional.co/actualidad/deportes/liga-senal-colombia-de-baloncesto-2026-ii-fechas-y-horarios-de-la-gran-final",
+   "https://www.minuto30.com/definido-el-calendario-toros-del-valle-y-paisas-abren-la-final-del-baloncesto-profesional-el-miercoles/1730444/",
+   "https://www.elpais.com.co/deportes/toros-del-valle-buscara-el-bicampeonato-de-la-liga-profesional-de-baloncesto-ante-paisas-de-medellin-asi-se-jugara-la-final-1605.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75916690",
+  "fx": "Alabama–Huntsville Chargers v Southern Arkansas Muleriders",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA D2 non-conference (UAH Gulf South v Southern Arkansas GAC). UAH 6-0 at home averaging 93-76 in data; SAU 3-4 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8098,
+    "why": "UAH unbeaten at home (93-76 avg, incl. 112-56) v a .500 GAC side; ML not a catch. Own p ~0.82. D2 November variance: low confidence."
+   }
+  ],
+  "avoid": "Any handicap/catch (NCAA November).",
+  "confidence": 0.15,
+  "sources": [
+   "https://basketball.realgm.com/ncaa-dii/teams"
+  ]
+ },
+ {
+  "eid": "sr:match:76040632",
+  "fx": "Barton Bulldogs v Emory And Henry Wasps",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA D2 (Barton Conference Carolinas v Emory & Henry). Emory & Henry 0-6 away in data.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML p 0.55 - no gate passes.",
+  "confidence": 0.1,
+  "sources": [
+   "https://basketball.realgm.com/ncaa-dii/teams"
+  ]
+ },
+ {
+  "eid": "sr:match:75916570",
+  "fx": "Michigan Tech  Huskies v Minnesota-Duluth Bulldogs",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA D2 GLIAC v NSIC; Michigan Tech reportedly 2026 D2 national finalist/champion (NCAA bracket page, unverified); UMD 7-3 last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML p 0.62 - below 0.75.",
+  "confidence": 0.1,
+  "sources": [
+   "https://basketball.realgm.com/ncaa-dii/teams"
+  ]
+ },
+ {
+  "eid": "sr:match:75916688",
+  "fx": "Montevallo Falcons v Georgia Southwestern Hurricanes",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA D2 (Montevallo Gulf South v Georgia Southwestern Peach Belt).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Montevallo ML p 0.69 < 0.75.",
+  "confidence": 0.1,
+  "sources": [
+   "https://basketball.realgm.com/ncaa-dii/teams"
+  ]
+ },
+ {
+  "eid": "sr:match:75124080",
+  "fx": "Aguilas Del Zulia v Bravos de Margarita",
+  "sport": "baseball",
+  "absences": "Starting pitchers not found.",
+  "context": "LVBP 2026-27: Bravos (12-20) v Aguilas (12-21), both near the bottom; Estadio Luis Aparicio, 6pm VET (one preview says 5pm) = 22:00/23:00 UTC; board 23:00 UTC. Bravos 1-9 last 10 and 0-4 away in data.",
+  "news": "Bottom-table clash in Maracaibo; starters unannounced; minor first-pitch time discrepancy (5 vs 6pm VET).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML both sides (no confirmed starter mismatch); house makes Bravos fav despite 1-9 form - divergence, skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://beisbol.love/beis/lvbp/bravos-de-margarita-vs-aguilas-del-zulia-2026-11-21/",
+   "https://meridiano.net/beisbol/beisbol-venezolano/duelo-por-la-cima-y-choque-de-eternos-rivales-la-previa-del-fin-de-semana-en-la-lvbp-2026112020270"
+  ]
+ },
+ {
+  "eid": "sr:match:75124078",
+  "fx": "Navegantes Del Magallanes v Leones del Caracas",
+  "sport": "baseball",
+  "absences": "Caracas expected starter Connor Van Scoyoc (import); Magallanes starter not found.",
+  "context": "LVBP eternal-rivals series, Estadio Jose Bernardo Perez Valencia, 8pm VET = 00:00 UTC (matches). Caracas 17-13, Magallanes 16-14; Magallanes won earlier meeting 11-8 in extras. One source lists Caracas as home; venue is Magallanes' park and board has Magallanes home.",
+  "news": "Rivalry game in Valencia; Van Scoyoc probable for Caracas; minor home/away labelling inconsistency in one preview.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML (rivalry, no confirmed starter mismatch).",
+  "confidence": 0.15,
+  "sources": [
+   "https://beisbol.love/beis/lvbp/leones-del-caracas-vs-magallanes-2026-11-21/",
+   "https://www.beisbolplay.com/video/4to-round-leones-del-caracas-visita-a-navegantes-del-magallanes-134212",
+   "https://hsmdeportes.com/lvbp/lvbp-magallanes-primer-triunfo-ante-caracas/"
+  ]
+ },
+ {
+  "eid": "sr:match:75335854",
+  "fx": "CD Chanares v UD San Jose",
+  "sport": "basketball",
+  "absences": "Women's league - not researched for absences.",
+  "context": "Argentina Liga Femenina 2026/27 Zona A; Chanares lost 74-93 to Rocamora on Nov 16. Women's fixture.",
+  "news": "Women's fixture; no date conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's, no clear mismatch).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.analisisdigital.com.ar/deportes/2026/11/16/tomas-rocamora-gano-y-aseguro-los-playoffs-en-la-liga-femenina-de-basquet",
+   "https://www.laliganacional.com.ar/laligaargentina/noticia/50706/Agenda%20completa%20en%20La%20Liga%20Femenina%202026"
+  ]
+ },
+ {
+  "eid": "sr:match:76190854",
+  "fx": "Hindu Club v Tomas de Rocamora",
+  "sport": "basketball",
+  "absences": "Women's league - not researched for absences.",
+  "context": "Liga Femenina Zona A; Rocamora (clinched playoffs Nov 16) on Cordoba trip v Hindu Club and Instituto this weekend - consistent with the board date.",
+  "news": "Rocamora's Cordoba trip v Hindu confirmed for this weekend; women's.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.analisisdigital.com.ar/deportes/2026/11/16/tomas-rocamora-gano-y-aseguro-los-playoffs-en-la-liga-femenina-de-basquet",
+   "https://www.laliganacional.com.ar/laligaargentina/noticia/50706/Agenda%20completa%20en%20La%20Liga%20Femenina%202026"
+  ]
+ },
+ {
+  "eid": "sr:match:76847380",
+  "fx": "Pollitas de Isabela v Gigantes de Carolina",
+  "sport": "basketball",
+  "absences": "Women's league - not researched.",
+  "context": "Puerto Rico BSNF women; Isabela 9-1 last 10, 3-0 H2H.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Isabela ML p 0.73 (women's, below gate).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74998120",
+  "fx": "La Union Formosa v Independiente de Oliva",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Argentina LNB. 365Scores team page lists La Union v Independiente de Oliva on BOTH 17/11 and 21/11, its match page shows a 17 Nov game with partial score, league page shows 22/11 00:30 - schedule conflict.",
+  "news": "Schedule conflict between source listings (17 Nov vs 21/22 Nov) for this fixture.",
+  "veto": true,
+  "veto_reason": "Date conflict: 365Scores lists the fixture on 17/11 and on 21-22/11 with a partial 17 Nov score; cannot confirm which game this is.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/en-uk/basketball/team/la-union-8795",
+   "https://www.365scores.com/es/basketball/league/liga-nacional-403",
+   "https://www.365scores.com/basketball/match/liga-a-403/independiente-de-oliva-la-union-8795-72002-403"
+  ]
+ },
+ {
+  "eid": "sr:match:72704690",
+  "fx": "Canberra Capitals v Tasmania Jewels",
+  "sport": "basketball",
+  "absences": "Women's (WNBL) - no injury list found for this game.",
+  "context": "WNBL27; Canberra described as red-hot early; Tasmania new-look squad.",
+  "news": "Women's fixture; no conflicts found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.wnbl.com.au/news/crunch-time-the-key-storylines-leading-into-round-4"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114166026",
+  "fx": "Tokomanawa Queens Women v Southern Hoiho Women",
+  "sport": "basketball",
+  "absences": "Women's - not researched.",
+  "context": "NZ women's NBL (Tauihi). No Sportradar data.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's, no data).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72704692",
+  "fx": "Townsville Fire v Bendigo Spirit",
+  "sport": "basketball",
+  "absences": "Bendigo without reigning MVP Izzy Borlase (injury) per WNBL R4 preview.",
+  "context": "WNBL27; Townsville defending champions (8-2 last 10); Bendigo were winless after 3 rounds (1-9 last 10, 0-4 away).",
+  "news": "Bendigo missing MVP Borlase; Townsville in form. Women's fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Townsville ML 1.29 p 0.74 (women's: no result-sides; just below 0.75).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.wnbl.com.au/news/crunch-time-the-key-storylines-leading-into-round-4"
+  ]
+ },
+ {
+  "eid": "sr:match:72016906",
+  "fx": "SE Melbourne Phoenix v Cairns Taipans",
+  "sport": "basketball",
+  "absences": "Cairns: Jaylin Galloway (back) out until R14; Walter Brown (knee/ankle) and Sunday Dech (hamstring) TBD. SEM: Hunter Goodrick (knee) TBC.",
+  "context": "NBL27 regular season; SEM 4-6 last 10 (103-102 avg), Cairns 7-3.",
+  "news": "Cairns injury-hit (Galloway out, Brown/Dech doubtful); SEM high-scoring.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=186.5",
+    "desc": "Over 186.5",
+    "odds": 1.21,
+    "p": 0.7924,
+    "why": "SEM games average 205 points (103.4-101.8), Cairns 192; 5 of SEM's last 6 totals >=197; trend 0.90. Own p ~0.82."
+   }
+  ],
+  "avoid": "SEM ML 1.60 (p 0.60); Cairns +9.5 (injury list).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.basketball.com.au/news/nbl-injury-report",
+   "https://www.nbl.com.au/news/how-to-watch-talking-points-south-east-melbourne-cairns",
+   "https://www.espn.com/nbl/story/_/id/50332611/nbl-melbourne-united-hammer-cairns-injuries-strike-taipans"
+  ]
+ },
+ {
+  "eid": "sr:match:72703254",
+  "fx": "Kagoshima Rebnise v Kagawa Five Arrows",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "B.ONE weekend double-header game 2 at Sun Arena Sendai; Kagoshima won game 1 97-94 in OT on Nov 21. Kagoshima 6-9. Board time 04:05 UTC = 13:05 JST (matches Kagawa schedule).",
+  "news": "Kagoshima beat Kagawa 97-94 OT yesterday; same venue today.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML both ~coin flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://news.ksb.co.jp/article/17069205",
+   "https://373news.com/news/local/detail/243165",
+   "https://hoopfriends.jp/hub/t/fa/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72703256",
+  "fx": "Fukui Blowwinds v Niigata Albirex BB",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "B.ONE double-header game 2. House has Fukui 0.67 though Fukui 4-6 (2-4 home) and Niigata 7-3 - divergence.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fukui ML (p 0.67, form contradicts).",
+  "confidence": 0.1,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://bleague.jp/schedule/?club=1363&fb=1&ha=1&mon=all&tab=2&year=2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72703260",
+  "fx": "Tokushima Gambarous v Iwate Big Bulls",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "B.ONE double-header game 2; Tokushima 4-0 at home; won H2H 68-57 (likely game 1).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tokushima ML p 0.70 < 0.75.",
+  "confidence": 0.1,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://bleague.jp/schedule/?club=1363&fb=1&ha=1&mon=all&tab=2&year=2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72703258",
+  "fx": "Veltex Shizuoka v Bambitious Nara",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "B.ONE; Shizuoka v Nara at Hamamatsu Arena 14:05 JST = 05:05 UTC (matches). Nara 0-3 away, 2-8 last 10; Shizuoka won H2H 85-72, 85-81.",
+  "news": "Date/venue confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Shizuoka ML 1.15 (below 1.18).",
+  "confidence": 0.15,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://bleague.jp/schedule/?club=1363&fb=1&ha=1&mon=all&tab=2&year=2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72016908",
+  "fx": "Brisbane Bullets v Sydney Kings",
+  "sport": "basketball",
+  "absences": "Brisbane: Arnas Velicka - CONFLICT: NBL.com.au says returning from lower-limb injury for the Kings clash; Bets.com.au says out until early December. Sydney: Keli Leaupepe (ACL, season), Matthew Dellavedova (calf) TBC.",
+  "context": "NBL27 R10; Sydney 6-4, Brisbane 4-6 (100.7 conceded).",
+  "news": "Velicka availability conflicting between sources; Kings missing Leaupepe, Dellavedova doubtful.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=177.5",
+    "desc": "Over 177.5",
+    "odds": 1.21,
+    "p": 0.7915,
+    "why": "Brisbane games average 196 (95.3-100.7), Sydney 185.5; Brisbane last 6 totals all >=184; trend 0.85. Holds with or without Velicka. Own p ~0.81."
+   }
+  ],
+  "avoid": "Sydney ML 1.35 (away p 0.71 < 0.75); anything tied to Velicka status.",
+  "confidence": 0.3,
+  "sources": [
+   "https://nbl.com.au/news/arnas-velicka-return-brisbane-bullets",
+   "https://bets.com.au/basketball/nbl/brisbane-bullets-vs-sydney-kings-nbl27-round-10-tips-20261118-0013",
+   "https://www.basketball.com.au/news/nbl-injury-report"
+  ]
+ },
+ {
+  "eid": "sr:match:75044452",
+  "fx": "Chanson V-Magic v Denso Iris",
+  "sport": "basketball",
+  "absences": "Women's - not researched.",
+  "context": "W League Premier, Imabari municipal gym 15:00 JST = 06:00 UTC (matches). Women's.",
+  "news": "Women's fixture; date/venue consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Denso ML p 0.72 (women's).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.jp.fujitsu.com/redwave/pages/nextgames",
+   "https://ja.wikipedia.org/wiki/WJBL_2025-26"
+  ]
+ },
+ {
+  "eid": "sr:match:75044454",
+  "fx": "Fujitsu Red Wave v Hitachi High-Tech Cougars",
+  "sport": "basketball",
+  "absences": "Women's - not researched.",
+  "context": "W League Premier wk4 at Todoroki Arena Kawasaki 15:00 JST (matches). Hitachi High-Tech promoted from Future division. Women's.",
+  "news": "Fujitsu home v promoted Hitachi; women's.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fujitsu ML 1.12 too short; women's.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.jp.fujitsu.com/redwave/pages/nextgames",
+   "https://ja.wikipedia.org/wiki/WJBL_2025-26"
+  ]
+ },
+ {
+  "eid": "sr:match:72703262",
+  "fx": "Aomori Wats v Koshigaya Alphas",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "B.ONE; Koshigaya 15-2, 1st North; Aomori 2-8. Game 2 of weekend set, 15:05 JST.",
+  "news": "Koshigaya runaway leader.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Koshigaya ML 1.03 too short.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.aiscore.com/basketball/tournament-b2-league/yzrknxs9whjqle4/standings",
+   "https://en.wikipedia.org/wiki/Koshigaya_Alphas",
+   "https://b-arekore.net/schedule.html",
+   "https://bleague.jp/schedule/?club=1363&fb=1&ha=1&mon=all&tab=2&year=2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72703266",
+  "fx": "Earthfriends Tokyo Z v Tokyo United",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "B.ONE Tokyo derby-lite, game 2 of set, 15:05 JST (matches). Tokyo United won game 1 77-62 on Nov 21; Tokyo Z 2-8 last 10 (1-4 home), scoring 68/g.",
+  "news": "Tokyo United beat Tokyo Z 77-62 yesterday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.26,
+    "p": 0.753,
+    "why": "Tokyo Z 2-8, 68 pts/g, 1-4 home; Tokyo U won game 1 by 15 and is 6-4. Own p ~0.77 (second-game bounce risk)."
+   }
+  ],
+  "avoid": "Handicaps (board thin).",
+  "confidence": 0.2,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://bleague.jp/schedule/?club=1363&fb=1&ha=1&mon=all&tab=2&year=2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72703270",
+  "fx": "Gifu Swoops v Rizing Zephyr Fukuoka",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "B.ONE game 2 of set, 15:05 JST (matches). Fukuoka won game 1 89-79 on Nov 21; Gifu 2-8 last 10, conceding 84.5.",
+  "news": "Fukuoka beat Gifu 89-79 yesterday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.24,
+    "p": 0.7661,
+    "why": "Gifu 2-8 (conceding 84.5); Fukuoka won game 1 by 10. Own p ~0.77; Fukuoka only 2-3 away, so modest."
+   }
+  ],
+  "avoid": "Handicaps.",
+  "confidence": 0.2,
+  "sources": [
+   "https://b-arekore.net/schedule.html",
+   "https://bleague.jp/schedule/?club=1363&fb=1&ha=1&mon=all&tab=2&year=2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72703264",
+  "fx": "Saitama Broncos v Tachikawa Dice",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "B.ONE; Saitama 12-4 East leader, won game 1 98-83. Tachikawa 8-2 last 10.",
+  "news": "Saitama beat Tachikawa 98-83 yesterday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Saitama ML 1.08 too short; -12.5 at 1.83 is a coin flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aiscore.com/basketball/tournament-b2-league/yzrknxs9whjqle4/standings",
+   "https://en.wikipedia.org/wiki/Koshigaya_Alphas"
+  ]
+ },
+ {
+  "eid": "sr:match:72703268",
+  "fx": "Yokohama Excellence v Kumamoto Volters",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "B.ONE game 2, Yokohama BUNTAI 15:05 JST (matches). Kumamoto won game 1 107-83 on Nov 21; house still makes Yokohama 0.68 fav - divergence.",
+  "news": "Kumamoto routed Yokohama 107-83 yesterday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Yokohama ML (house fav after a 24-point home loss).",
+  "confidence": 0.1,
+  "sources": [
+   "https://yokohama-ex.jp/lp/game_20261121_20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:75020376",
+  "fx": "Formosa Dreamers v New Taipei CTBC DEA",
+  "sport": "basketball",
+  "absences": "Dreamers imports Bentil and Tompkins were injured early season (Tompkins targeted late-Nov return) - current status unconfirmed. CTBC: no news found.",
+  "context": "TPBL; Dreamers 'Thanksgiving' home week game 2 at Taichung Intercontinental mini-dome, 14:30 local = 06:30 UTC (matches). Dreamers defending champions facing 7 days/4 games stretch (congestion).",
+  "news": "Dreamers on a 4-games-in-7-days home stretch; import injury status unclear.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dreamers ML p 0.59.",
+  "confidence": 0.15,
+  "sources": [
+   "https://tw.sports.yahoo.com/news/tpbl-%E6%84%9F%E6%81%A9%E7%AF%80%E4%B8%BB%E5%A0%B4%E8%BF%8E%E6%95%B5-%E5%A4%A2%E6%83%B3%E5%AE%B6%E5%A5%BD%E7%A6%AE%E8%B4%88%E7%90%83%E8%BF%B7-103737474.html",
+   "https://www.mirrormedia.mg/external/setn_1924073"
+  ]
+ },
+ {
+  "eid": "sr:match:75388808",
+  "fx": "Cheongju KB Stars v Yongin Life Blue Minx",
+  "sport": "basketball",
+  "absences": "Park Ji-su returned from hamstring for KB on Nov 14 (19 pts/15 reb).",
+  "context": "WKBL women's; KB 1-3 (5th) lost 72-79 to Samsung Life on Nov 14; Cheongju 16:00 KST = 07:00 UTC (matches). Women's.",
+  "news": "Women's; Park Ji-su back for KB; Samsung Life won last meeting.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's, ~coin flip).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.newspim.com/news/view/20261114000071",
+   "https://spodb.spojoy.com/?game_id=856004"
+  ]
+ }
+]

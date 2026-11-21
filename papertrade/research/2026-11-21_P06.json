@@ -1,0 +1,594 @@
+[
+ {
+  "eid": "sr:match:76875428",
+  "fx": "He Garden Hotspurs v Flow 4G Cayon Rockets",
+  "sport": "football",
+  "absences": "none found",
+  "context": "SKNFA Premier League, amateur. Sources disagree on the season: SKNFA site shows a table after 8 rounds (Cayon Rockets 6th, 11 pts), while Sofascore says the 2026-27 season starts 21 Nov (an opener). Sportradar has no form data for either side.",
+  "news": "No team news. Cayon Rockets are 1.22 away favourites despite sitting 6th on the SKNFA table; season status unclear.",
+  "veto": true,
+  "veto_reason": "data conflict (opener vs mid-season table) plus no form data, amateur league; away 1.22 favourite not supported by the visible table",
+  "picks": [],
+  "avoid": "everything; no data",
+  "confidence": 0.1,
+  "sources": [
+   "https://sknfa.com/",
+   "https://www.sofascore.com/football/tournament/saint-kitts-and-nevis/sknfa-premier-league/16732",
+   "https://en.wikipedia.org/wiki/SKNFA_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72322474",
+  "fx": "Sporting Jacksonville v Carolina Ascent USLW",
+  "sport": "football",
+  "absences": "none found",
+  "context": "USL Super League (women), regular season. Hodges Stadium 5pm ET listed (matches 22:00 UTC). Jacksonville have drawn a lot of high-scoring games (4-4, 3-3 x2); Carolina are strong defensively (0.7 GA).",
+  "news": "Schedule confirmed by ESPN and LiveSoccerTV; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets (women's, no mismatch)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/usa.w.usl.1",
+   "https://www.livesoccertv.com/competitions/united-states/usl-super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:76882104",
+  "fx": "Barquisimeto SC v Urena SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga FUTVE 2 semifinal, SECOND LEG, aggregate 2-2 after the first leg on 15 Nov at Urena. Knockout: the outcome is decided by To Qualify. Barquisimeto lost all 4 recent home games (0.75 GF), but led the H2H 6W-6D-3L, including a 3-0 on 26 Sep. Urena drew 6 of their last 7. Kick-off is listed as 22:00 by most sources and 23:00 by one betting site.",
+  "news": "Semifinal decider at Estadio Farid Richa, tied 2-2 on aggregate; minor kick-off time discrepancy (22:00 vs 23:00).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "1X2/DNB/AH (knockout, rule bans result-sides; there is no To Qualify market on the board); Under 3.5 p 0.69 < 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/es/football/match/liga-futve-2-5602/barquisimeto-sc-urena-sc-13835-68891-5602",
+   "https://scores24.live/en/soccer/m-21-11-2026-barquisimeto-urena-sc-prediction",
+   "https://www.aiscore.com/live/football-barquisimeto-vs-urena-sc"
+  ]
+ },
+ {
+  "eid": "sr:match:76880308",
+  "fx": "Unan Managua v Indigenas de Matagalpa FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Nicaragua Liga Primera Apertura, late regular season. UNAN were 3rd at round 10 and beat Real Esteli 1-0 on 8 Oct. Indigenas are 1W-1D-8L in their last 10, scoring 0.5 a game, and 0W in 4 away.",
+  "news": "No specific team news found; UNAN were in the top half in October.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.4,
+    "p": 0.6622,
+    "why": "Indigenas are 1W in 10 with 0.5 GF/game and 0 away wins; UNAN were top-4 in Oct and won 1-0 v Real Esteli. My p ~0.74 vs house 0.66 (within 15pp)."
+   }
+  ],
+  "avoid": "Unders; away side",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/football/match/unan-managua-real-esteli/dhkslKac",
+   "https://www.livefutbol.com/competition/co1458/nicaragua-liga-primera/all-matches/"
+  ]
+ },
+ {
+  "eid": "sr:match:72322476",
+  "fx": "Tampa Bay Sun FC v Brooklyn FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "USL Super League (women), regular season, Suncoast Credit Union Field 6pm ET listed. Tampa 2W in 10; Brooklyn 0W in 5 away.",
+  "news": "Schedule confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's, no clear mismatch)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/usa.w.usl.1",
+   "https://www.livesoccertv.com/competitions/united-states/usl-super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:76609136",
+  "fx": "Inter Miami CF v Columbus Crew",
+  "sport": "football",
+  "absences": "Inter Miami: Tadeo Allende and Mateo Silvetti out for the season; David Ayala and Sergio Reguilon out or doubtful (lower body); Cesar Abadia-Reda out; Fricio Caicedo doubtful. Messi expected to start. Columbus: Wessam Abou Ali out (ACL). VAVEL says the official reports list no injuries, which conflicts with the other sources.",
+  "context": "MLS Cup Playoffs round one, best-of-three, GAME 1 at Nu Stadium. Game 2 is 27 Nov at Columbus. Drawn games go to a shootout, so markets settle on 90 minutes. Columbus closed the season on 6 straight wins (2.7 GF). Miami are the reigning champions and their last 6 included 3-3 and 2-2. Knockout context.",
+  "news": "Playoff R1 Game 1. Miami are missing Allende, Silvetti, Ayala, Reguilon and Abadia-Reda; Columbus are without Abou Ali. Both attacks are in form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.39,
+    "p": 0.6923,
+    "why": "Two in-form attacks: Columbus 2.7 GF over the last 10 on a 6-game win run, Miami 2.5 GF at home. Miami's back line is depleted (Reguilon, Ayala out). Over 2.5 landed in 4 of 6 recent games for each side. My p ~0.72."
+   }
+  ],
+  "avoid": "All result-sides (knockout series; rule: DNB/To Qualify only). Under lines. AH +1.5 catch (favourite p 0.59).",
+  "confidence": 0.3,
+  "sources": [
+   "https://worldsoccertalk.com/news/lionel-messis-inter-miami-confirm-two-new-absences-for-first-round-of-mls-cup-playoffs-against-columbus-crew/",
+   "https://www.whoscored.com/articles/cZZe2wZNtkW2p1XlFJI6ww/show/cng111-20261121-inter-miami-vs-columbus-crew-prediction-1795273599",
+   "https://www.sportsmole.co.uk/football/inter-miami/preview/inter-miami-vs-columbus-crew-prediction-team-news-lineups_609351.html",
+   "https://www.vavel.com/en-us/soccer/2026/11/21/1280189-inter-miami-cf-vs-columbus-crew-live-score-updates-stream-info-and-results-in-mls.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76851944",
+  "fx": "America Del Sud v Barracas Central",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "AFA Primera Division Futsal playoffs. Barracas Central reached the semifinals (beat Kimberley 4-3 on pens after 2-2) and have the league's top scorer, Facundo Fontanella (43). This is most likely a semifinal (knockout). America del Sud's playoff status was not confirmed.",
+  "news": "Barracas are in the playoff semifinals; Fontanella has 43 goals. Probable knockout tie.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (probable knockout, coin-flip prices)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.barracascentral.com/2026/11/15/a-semis/",
+   "https://assets1.afa.com.ar/2026/BOLETINES/Boletin-Especial-6856---Reglamento-de-Primera-Division-A-Futsal-Masculino-2026.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72181028",
+  "fx": "Erie Otters v Owen Sound Attack",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "OHL regular season, confirmed Sat 21 Nov 6pm ET at Erie. Owen Sound 0-3 in recent away games; Erie 1-2 at home, conceding 5.0 there.",
+  "news": "Schedule confirmed (CHL weekly preview); no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.45 (Erie's home form is poor)",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/ohl/article/ohl-this-week-nov-19-to-22-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72712564",
+  "fx": "Lethbridge Hurricanes v Edmonton Oil Kings",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL regular season. Both teams are sub-.500 over the last 10; Edmonton have played 5 straight road games.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; coin-flip",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl/",
+   "https://www.oursportscentral.com/services/releases/game-day-hub-november-21-vs-moose-jaw/n-6426478"
+  ]
+ },
+ {
+  "eid": "sr:match:72712562",
+  "fx": "Moose Jaw Warriors v Portland Winter Hawks",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL. Portland close a long road trip here on a back-to-back after a Friday loss at Prince Albert. Moose Jaw also played Friday (shootout win v Brandon). Both teams are on a back-to-back.",
+  "news": "Portland's road-trip finale on a back-to-back after losing in Prince Albert Friday; Moose Jaw beat Brandon in a shootout Friday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Portland ML 1.56 (road fatigue, last 6 all away)",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/whl/",
+   "https://www.oursportscentral.com/services/releases/game-day-hub-november-21-vs-moose-jaw/n-6426478"
+  ]
+ },
+ {
+  "eid": "sr:match:72181030",
+  "fx": "Windsor Spitfires v Peterborough Petes",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "OHL, confirmed Sat 7:05pm ET at Windsor (Country Night). Windsor are 8-2 in the last 10 and 3-0 at home (0.67 GA); Peterborough 7-3. Windsor also played Thursday v Sault Ste. Marie.",
+  "news": "Schedule confirmed; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "none strong; Windsor +1.5 at 1.33 is a reasonable fill but no named mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/ohl/article/ohl-this-week-nov-19-to-22-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76877574",
+  "fx": "Rams Village Superstars v Old Road Jets",
+  "sport": "football",
+  "absences": "none found",
+  "context": "SKNFA Premier League, amateur. SKNFA table: Village Superstars 1st (22 pts after 8), Old Road Jets 3rd (16); Old Road are the 2025-26 champions per Wikipedia. Sofascore suggests the season starts 21 Nov. Sportradar has no form data.",
+  "news": "Top-of-table clash per the SKNFA site; season status conflicting across sources.",
+  "veto": true,
+  "veto_reason": "data conflict on season status; no form data; amateur league",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://sknfa.com/",
+   "https://www.sofascore.com/football/tournament/saint-kitts-and-nevis/sknfa-premier-league/16732",
+   "https://en.wikipedia.org/wiki/SKNFA_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72181032",
+  "fx": "Barrie Colts v Kitchener Rangers",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "OHL, confirmed Sat 7:30pm ET at Barrie. Kitchener are 8-2 over the last 10 (4.4 GF, 2.2 GA) and 4-1 on the road; Barrie are 3-7 (2.3 GF) and 1-2 at home. Last H2H: Kitchener won 4-2.",
+  "news": "Schedule confirmed; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.24,
+    "p": 0.7706,
+    "why": "ML includes OT/shootout. Kitchener are 8-2 v Barrie's 3-7, scoring nearly twice as much (4.4 v 2.3) and winning 4 of 5 on the road. Trend 0.75. My p ~0.78."
+   }
+  ],
+  "avoid": "Puck-line -1.5 at 1.71 (adds margin risk)",
+  "confidence": 0.3,
+  "sources": [
+   "https://chl.ca/ohl/article/ohl-this-week-nov-19-to-22-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74931200",
+  "fx": "Wellington United Diamonds v Wellington Phoenix",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NZ Women's National League; Phoenix here are the women's academy/reserve side. Diamonds 3.0 GF / 0.7 GA over the last 10; Phoenix concede 2.6 away and lost 0-5, 1-5 and 0-3 recently. Over 2.5 trend 0.80.",
+  "news": "No news found. Women's fixture: per rules no picks except goals in a clear mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.22,
+    "p": 0.7801,
+    "why": "Women's goals-only exception for a clear mismatch: Diamonds score 3.0/game; Phoenix concede 2.6 away (0-5, 1-5, 0-3). Trend 0.80. My p ~0.78. Low stake/fill only."
+   }
+  ],
+  "avoid": "result-sides (women's)",
+  "confidence": 0.2,
+  "sources": [
+   "https://wellingtonphoenix.com/news/dettol-national-league-preview/"
+  ]
+ },
+ {
+  "eid": "sr:match:76880310",
+  "fx": "San Marcos FC v Real Esteli FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Nicaragua Liga Primera Apertura. Real Esteli, the traditional power, were 4th at round 10, are 5W-3D-2L over the last 10 and won the last H2H 2-0. San Marcos are 3W in 10.",
+  "news": "No team news found; Real Esteli lost 0-1 at UNAN on 8 Oct.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.19,
+    "p": 0.8058,
+    "why": "DNB protects the draw. Real Esteli are 5W-3D-2L v San Marcos' 3W in 10 and won the last H2H 2-0. An away 1X2 at p 0.65 is below the 0.75 gate, so DNB. My p ~0.80."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.65 < 0.75); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/football/match/unan-managua-real-esteli/dhkslKac",
+   "https://www.livefutbol.com/competition/co1458/nicaragua-liga-primera/all-matches/"
+  ]
+ },
+ {
+  "eid": "sr:match:76841894",
+  "fx": "Washington Spirit v Kansas City Current",
+  "sport": "football",
+  "absences": "Washington: Hal Hershfelt (ACL, season), Deborah Abiodun (hip), Kate Wiesner (ankle), Aubrey Kingsbury (maternity). Kansas City: Alana Cook (knee), Clare Gagne (head), Mary Long (ACL), Ellie Bravo-Young (maternity). Chawinga status not confirmed.",
+  "context": "NWSL CHAMPIONSHIP FINAL (one-off knockout) at Audi Field, Sat 21 Nov evening ET. Washington's 3rd straight final; KC 'peaking'. Women's and knockout.",
+  "news": "NWSL final; both sides missing midfielders (Hershfelt for Washington; Cook and Long for KC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's + knockout final; no mismatch)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/story/_/id/50542867/nwsl-championship-kansas-city-current-washington-spirit",
+   "https://wjla.com/sports/dc-united/spirit-womens-soccer-nwsl-washington-spirit-playoffs-audi-field-district-of-columbia-portland-trinity-rodman-hal-hershfelt-kansis-city",
+   "https://bvmsports.com/2026/11/20/nwsl-championship-2026-spirit-vs-current-time-and-how-to-watch/"
+  ]
+ },
+ {
+  "eid": "sr:match:72712568",
+  "fx": "Prince Albert Raiders v Medicine Hat Tigers",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL. Prince Albert are 8-2 over the last 10 and 6-1 at home, and beat Portland on Friday (back-to-back). Medicine Hat are 5-1 on the road with 4.8 GF away, yet are road favourites at 1.57. Conflicting signals.",
+  "news": "Prince Albert beat Portland Friday night.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Medicine Hat ML (PA home form 6-1)",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/whl/",
+   "https://www.oursportscentral.com/services/releases/game-day-hub-november-21-vs-moose-jaw/n-6426478"
+  ]
+ },
+ {
+  "eid": "sr:match:72712570",
+  "fx": "Kelowna Rockets v Regina Pats",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL. Kelowna hosted Prince George on Friday (back-to-back). Kelowna's home games are wild (10-3, 1-7, 8-5). Regina 7-3 over the last 10.",
+  "news": "Kelowna played Prince George at home Friday 20 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip ML",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl/",
+   "https://www.oursportscentral.com/services/releases/game-day-hub-november-21-vs-moose-jaw/n-6426478"
+  ]
+ },
+ {
+  "eid": "sr:match:76967052",
+  "fx": "CD Arabe Unido v San Francisco FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "LPF Apertura 2026 SEMIFINAL FIRST LEG, Sat 21 Nov 8:30pm at Armando Dely Valdes, Colon. Return leg 27 Nov at Rommel Fernandez; final 5 Dec. Arabe Unido beat San Francisco 2-1 in round 9 and reached this stage 3-2 v Veraguas United.",
+  "news": "Two-legged semifinal, first leg in Colon; first legs tend to be cagey.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (knockout tie); Under 3.5 p 0.77 < 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.critica.com.pa/deportes/arabe-unido-y-san-francisco-abren-su-serie-semifinal-en-colon-520208",
+   "https://www.prensa.com/deportes/arabe-unido-y-san-francisco-abren-las-semifinales/",
+   "https://www.rpctv.com/liga-panamena-futbol-lpf/futbol/lpf-cuales-son-los-cruces-semifinales-del-apertura-2026-y-cuando-se-juegan-n6099084"
+  ]
+ },
+ {
+  "eid": "sr:match:72322478",
+  "fx": "Dallas Trinity FC v Lexington SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "USL Super League (women), Cotton Bowl 8:30pm ET listed. Dallas 4-1-0 at home; Lexington 1W in 5 away.",
+  "news": "Schedule confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/usa.w.usl.1",
+   "https://www.livesoccertv.com/competitions/united-states/usl-super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72712578",
+  "fx": "Vancouver Giants v Prince George Cougars",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL. Prince George are on a back-to-back after playing at Kelowna on Friday. Vancouver are only 4-6 over the last 10 and 2-4 at home, yet are priced 1.25. H2H: Vancouver won 5-3 and 5-2 earlier, lost 4-5.",
+  "news": "Prince George played at Kelowna Friday (back-to-back travel).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vancouver ML 1.25 (p 0.77 not backed by 4-6 form; trend 0.50)",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/whl/",
+   "https://www.oursportscentral.com/services/releases/game-day-hub-november-21-vs-moose-jaw/n-6426478"
+  ]
+ },
+ {
+  "eid": "sr:match:72712576",
+  "fx": "Everett Silvertips v Seattle Thunderbirds",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL I-5 rivalry (derby). Seattle hosted Tri-City on Friday (back-to-back). Both teams around .500.",
+  "news": "Seattle played Tri-City Friday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (derby)",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl/",
+   "https://www.oursportscentral.com/services/releases/game-day-hub-november-21-vs-moose-jaw/n-6426478"
+  ]
+ },
+ {
+  "eid": "sr:match:72712572",
+  "fx": "Spokane Chiefs v Penticton Vees",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL; Penticton are the 2025-26 expansion entrant (one search result wrongly placed them in the BCHL). Spokane hosted Victoria on Friday (back-to-back). Penticton 7-3 over the last 10 and 4-1 on the road.",
+  "news": "Spokane played Victoria Friday; Penticton in good road form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Spokane ML 1.48 (back-to-back, Penticton 4-1 away)",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/whl/",
+   "https://www.oursportscentral.com/services/releases/game-day-hub-november-21-vs-moose-jaw/n-6426478"
+  ]
+ },
+ {
+  "eid": "sr:match:74873498",
+  "fx": "Eastern Suburbs AFC v Wellington Phoenix FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NZ National League championship, Round 9, Sun 22 Nov 4pm NZT at Madills Farm (= 03:00 UTC, matches the board). Phoenix here are the RESERVES (academy). Phoenix reserves are 1W-2D-7L over the last 10 and 0-4 away (4.0 GA, including 0-10). Sofascore's pre-match table (Suburbs 8th, Phoenix 7th) may be stale.",
+  "news": "Kick-off and venue confirmed by the Phoenix club preview; reserve side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.28,
+    "p": 0.74,
+    "why": "Reserve side, goals only. Phoenix reserves concede 4.0 per away game (0-10, 1-3) and Suburbs score 1.8. My p ~0.74, close to the house; fill only."
+   }
+  ],
+  "avoid": "result-sides (reserve side, 1.07 price); Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://wellingtonphoenix.com/news/dettol-national-league-preview/",
+   "https://www.sofascore.com/football/match/eastern-suburbs-wellington-phoenix-reserve/ugybsoXTb",
+   "https://en.wikipedia.org/wiki/2026_New_Zealand_National_League"
+  ]
+ },
+ {
+  "eid": "sr:match:76045174",
+  "fx": "Gimcheon Sangmu FC v Jeju SK FC",
+  "sport": "football",
+  "absences": "none found (Gimcheon is a military club with constant rotation as conscripts discharge)",
+  "context": "K League 1 Final B, Sun 22 Nov 14:00 KST at Gimcheon Stadium (confirmed). Gimcheon are RELEGATED to K League 2 whatever their position (the club's agreement expires). Jeju lead Final B (~46 pts) with nothing tangible left to play for. Dead rubber for both.",
+  "news": "Gimcheon relegated regardless of final position; Jeju safe at the top of Final B. Dead rubber.",
+  "veto": true,
+  "veto_reason": "dead rubber: Gimcheon automatically relegated, Jeju safe",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.khan.co.kr/article/202610261526003/",
+   "https://www.osen.co.kr/article/G1112902435",
+   "https://fbref.com/en/comps/55/schedule/K-League-1-Scores-and-Fixtures",
+   "https://en.wikipedia.org/wiki/2026_in_South_Korean_football"
+  ]
+ },
+ {
+  "eid": "sr:match:76045176",
+  "fx": "Gwangju FC v Bucheon FC 1995",
+  "sport": "football",
+  "absences": "none found",
+  "context": "K League 1 Final B, Sun 22 Nov 14:00 KST at Gwangju World Cup Stadium. Gwangju are 12th (21 pts), 13 points adrift, so effectively locked into the relegation play-off (only 12th goes to the play-off because Gimcheon drop automatically). Bucheon (newly promoted, 32 pts) are effectively safe. Gwangju beat Bucheon 3-0 earlier.",
+  "news": "Gwangju's play-off place appears fixed and Bucheon are safe, so little is at stake; Gwangju may rest players before the play-off.",
+  "veto": true,
+  "veto_reason": "dead rubber / rotation risk ahead of Gwangju's relegation play-off",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.khan.co.kr/article/202610261526003/",
+   "https://www.osen.co.kr/article/G1112902435",
+   "https://fbref.com/en/comps/55/schedule/K-League-1-Scores-and-Fixtures",
+   "https://en.wikipedia.org/wiki/2026_in_South_Korean_football"
+  ]
+ },
+ {
+  "eid": "sr:match:68046854",
+  "fx": "Daegu FC v Gimhae FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "K League 2 (17-team league), late season; Daegu are 4th per Namuwiki and chasing a play-off place (semi-playoffs 2 Dec, 3rd v 6th and 4th v 5th, hosted by the higher seed). Gimhae are a first-season club, 1W in 10. Date not confirmed by any source found: the 29 Nov fixtures (Cheonan v Daegu, Gimhae v Seongnam on 28 Nov) were found, and no source contradicts 22 Nov.",
+  "news": "Daegu are in the play-off race (home advantage at stake); 22 Nov date not independently confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.7212,
+    "why": "Motivation edge: Daegu are 4th and fighting for a home play-off seed, 6W-3D-1L over the last 10 and unbeaten in 5 at home (2.2 GF). Gimhae are an expansion side, 1W in 10, conceding 2.75 away. My p ~0.74."
+   }
+  ],
+  "avoid": "Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.besteleven.com/news/articleView.html?idxno=313496",
+   "https://news.sbs.co.kr/english/article.do?news_id=N1008816854",
+   "https://namu.wiki/w/%ED%8B%80:K%EB%A6%AC%EA%B7%B82%20%EC%88%9C%EC%9C%84%ED%91%9C%202026"
+  ]
+ },
+ {
+  "eid": "sr:match:68046856",
+  "fx": "Jeonnam Dragons v Ansan Greeners FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "K League 2. Ansan are near the bottom (15th per Namuwiki, -24 GD). Jeonnam are mid/upper table; their round-39 game v Suwon on 29 Nov was moved to Suncheon. 22 Nov date not independently confirmed.",
+  "news": "Ansan near the bottom with a -24 goal difference; no specific team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.26,
+    "p": 0.7421,
+    "why": "Ansan are 2W in 10 with a -24 season goal difference and near the bottom; Jeonnam are 3-2-2 at home. My p ~0.76. Weak-ish anchor (statistical), fill only."
+   }
+  ],
+  "avoid": "Over 2.5 (Ansan blank often); Jeonnam -0.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.besteleven.com/news/articleView.html?idxno=313496",
+   "https://news.sbs.co.kr/english/article.do?news_id=N1008816854",
+   "https://namu.wiki/w/%ED%8B%80:K%EB%A6%AC%EA%B7%B82%20%EC%88%9C%EC%9C%84%ED%91%9C%202026"
+  ]
+ },
+ {
+  "eid": "sr:match:70771630",
+  "fx": "Nagoya Oceans v Bardral Urayasu",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "F.League Division 1, Round 19, 22 Nov 05:00 UTC (Sofascore, matches the board). Nagoya are the defending champions (17 titles) and 4-1 at home; Bardral won the last H2H 6-3.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Nagoya 1X2 1.38 (Bardral won the last H2H 6-3)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/futsal/match/nagoya-oceans-bardral-urayasu/uxVsCxV#id:16006940",
+   "https://en.wikipedia.org/wiki/F.League"
+  ]
+ },
+ {
+  "eid": "sr:match:76733984",
+  "fx": "Mendiola FC v Kaya FC–Iloilo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "PFL 2026-27. Sofascore lists Kaya v Mendiola on 22 Nov 07:00 UTC, but the official PFL ticketing site (Ticketmax) lists MAHARLIKA FC vs KAYA FC-ILOILO on 22 Nov at Rizal Memorial. Opponent conflict.",
+  "news": "Sources conflict on Kaya's opponent for 22 Nov (Mendiola per Sofascore, Maharlika per the PFL ticketing site).",
+  "veto": true,
+  "veto_reason": "date/opponent conflict between sources",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/team/kaya-iloilo/142194",
+   "https://pfl.ticketmax.ph/"
+  ]
+ }
+]

@@ -1,0 +1,565 @@
+[
+ {
+  "eid": "sr:match:111111114669211",
+  "fx": "Moca FC v Salcedo FC",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "LDF Apertura 2026 semifinal FIRST LEG (two-legged; return at Salcedo Nov 29). Salcedo 1st in regular season (35 pts), Moca 4th (20). Salcedo unbeaten in both league meetings (won 1-0 away). Kick-off 18:00 local at Moca 85 = 22:00 UTC, matches board.",
+  "news": "Semi 1st leg; Salcedo (table-toppers) unbeaten v Moca this season; no Sportradar form data.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout first leg: no result-sides; Under 3.5 is 1.17 (below range); no form data.",
+  "confidence": 0.15,
+  "sources": [
+   "https://listindiario.com/el-deporte/futbol/20261120/primer-capitulo-semis-apertura-ldf-2026-moca-salcedo-vega-real-cibao_930944.html",
+   "https://hoy.com.do/deportes/moca-salcedo-iniciaran-manana-semifinales-ldf_1109298.html",
+   "https://cdndeportes.com.do/salcedo-y-moca-abren-las-semifinales-de-la-ldf-en-un-duelo-de-rivalidad-regional/"
+  ]
+ },
+ {
+  "eid": "sr:match:76409738",
+  "fx": "CD Estrella Roja v Lobos UPNFM",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Honduras Apertura J15. Estrella Roja 5th 19 pts, Lobos UPNFM 6th 19 pts: playoff-place six-pointer. 17:15 local at Marcelo Tinoco, Danli = 23:15 UTC, matches board (one AiScore listing said Nov 19, outvoted by Diez/HRN/TVC).",
+  "news": "Level-on-points battle for playoff places; Lobos concede 0.7/game over last 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.24,
+    "p": 0.7743,
+    "why": "Home is no strong favourite (p 0.44); Lobos last-10 GA 0.7 and W5 D2 L3, so a 2+ goal home win is unlikely. Own est 0.79."
+   }
+  ],
+  "avoid": "Home 1X2 (Estrella Roja GA 1.9/game); Under 3.5 (p 0.70 < 0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.diez.hn/liganacionaldehonduras/estrella-roja-vs-lobos-en-vivo-transmision-hora-canal-jornada-15-liga-nacional-GG32709618",
+   "https://www.radiohrn.hn/estrella-roja-vs-lobos-upnfm-en-vivo-hora-donde-ver-marcador-liga-nacional-de-honduras-2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:75449094",
+  "fx": "Oriente Petrolero v Independiente Petrolero",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Bolivia Division Profesional R26. Oriente 4th/5th, Independiente 10th/11th and struggling (recent L,D,L,L,D). Independiente (Sucre) descend to lowland Santa Cruz, so no altitude edge for them. 19:30 local at Tahuichi Aguilera = 23:30 UTC, matches.",
+  "news": "Oriente in form at home v struggling Independiente (no win in last 5).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.6843,
+    "why": "Oriente W5 D3 L2 last 10; Independiente winless in 5 and away from altitude. Own est 0.69."
+   }
+  ],
+  "avoid": "Away +2.5 (banned, fav p 0.68); Over 1.5 at 1.15 (below range).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sofascore.com/football/match/club-independiente-petrolero-oriente-petrolero/vBnsAjZc",
+   "https://m.aiscore.com/head-to-head/soccer-independiente-petrolero-vs-oriente-petrolero"
+  ]
+ },
+ {
+  "eid": "sr:match:67682120",
+  "fx": "Universidad de Concepcion v Nublense",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Chile Primera relegation fight: U de Concepcion 15th (26 pts, in the drop zone), Nublense 11th (35). Both W2 in last 10. TNT lists kick-off 20:15 local = 23:15 UTC v board 23:30 UTC. La Tercera: UdeC still had no agreement with the agents union, which could affect the relegation outcome off the field.",
+  "news": "UdeC must-win in relegation zone; kick-off time conflict 23:15 v 23:30 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: source 20:15 local (23:15 UTC) v board 23:30 UTC.",
+  "picks": [],
+  "avoid": "All markets (veto). Both sides in bad form; must_win for UdeC.",
+  "confidence": 0.15,
+  "sources": [
+   "https://tntsports.cl/nacional/Matchday-Sabado-Universidad-de-Chile-quiere-mantener-el-Chile-2-e-ir-a-Copa-Libertadores-20261121-0001.html",
+   "https://www.365scores.com/es/news/que-equipo-pueden-descender-liga-primera/",
+   "https://www.latercera.com/el-deportivo/noticia/otra-vez-la-disputa-entre-los-clubes-y-los-representantes-que-puede-terminar-resolviendo-el-descenso-en-el-escritorio/"
+  ]
+ },
+ {
+  "eid": "sr:match:72053708",
+  "fx": "Puntarenas FC v CS Herediano",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Costa Rica Apertura J17 (of 18). Teletica: both Puntarenas and Herediano are out of the race for qualification, so this is a dead rubber. 17:30 local at Lito Perez = 23:30 UTC, matches.",
+  "news": "Dead rubber: neither side can qualify for the semifinals.",
+  "veto": true,
+  "veto_reason": "Dead rubber: both sides eliminated from qualification.",
+  "picks": [],
+  "avoid": "All markets: dead rubber.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.teletica.com/nacional/arbitros-con-gafetes-fifa-estaran-a-cargo-de-crucial-jornada-del-torneo-nacional_421486",
+   "https://www.nacion.com/puro-deporte/vuelve-el-torneo-de-apertura-2026-asi-se-jugaran/OWWOH5H27FC6NBXIUC546B6J7Y/story/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887196",
+  "fx": "Chapecoense SC v Cruzeiro EC MG",
+  "sport": "football",
+  "absences": "Chapecoense: Giovanni Augusto (suspended); Yago Felipe, Dylan Borrero, Mauricio Garcez (injured); Rafael Carvalheira and Robert per Flashscore; Heitor doubtful. Cruzeiro: about 11 out, 5 starters. Gerson and Kaio Jorge suspended; William, Lucas Romero, Felipe Morais, Gabriel Pec and Sinisterra injured; Arroyo, Romero and William possibly rested for load management.",
+  "context": "Brasileirao R36. Chapecoense already relegated. Cruzeiro (Artur Jorge) chasing a 6th straight league win but heavily depleted. 21:00 BRT at Arena Conda = 00:00 UTC, matches.",
+  "news": "Relegated Chape (1W in 10, 0.6 GF/game) host a Cruzeiro side missing about 11 including Gerson and Kaio Jorge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away DNB 1.21 (own est 0.78 is below house 0.80 because of Cruzeiro's ~11 absences and rotation); Away 1X2 (p 0.64 < 0.75); Away -1.5; Overs (Chape 0.6 GF/game).",
+  "confidence": 0.2,
+  "sources": [
+   "https://itatiaia.com.br/esportes/futebol/futebol-nacional/brasileirao-serie-a/desfalcado-cruzeiro-visita-rebaixada-chapecoense-por-6a-vitoria-seguida-no-brasileirao",
+   "https://noataque.com.br/futebol/brasileirao-serie-a/time/cruzeiro/noticia/2026/11/20/chapecoense-x-cruzeiro-desfalques-e-provaveis-escalacoes-pelo-brasileiro/",
+   "https://www.diarioceleste.com.br/noticias-do-cruzeiro/chapecoense-x-cruzeiro-escalacoes-onde-assistir-brasileirao-2026/",
+   "https://www.vavel.com/br/futebol/2026/11/21/1280130-chapecoense-x-cruzeiro-pelo-brasileirao-retrospecto-escalacoes-e-onde-assistir.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76881988",
+  "fx": "Deportes Copiapo v CD Antofagasta",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Sources place this fixture in the Liga de Primera 2026, 20:55 local (23:55 UTC), not Primera B as the board labels it. Copiapo also flagged by La Tercera in the agents-union dispute.",
+  "news": "Competition label conflict (board Primera B v sources Liga de Primera); kick-off 23:55 v 00:00 UTC.",
+  "veto": true,
+  "veto_reason": "Data conflict: competition label (Primera B v Liga de Primera) and a 5-minute kick-off mismatch.",
+  "picks": [],
+  "avoid": "All markets (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://tntsports.cl/nacional/Matchday-Sabado-Universidad-de-Chile-quiere-mantener-el-Chile-2-e-ir-a-Copa-Libertadores-20261121-0001.html",
+   "https://www.latercera.com/el-deportivo/noticia/otra-vez-la-disputa-entre-los-clubes-y-los-representantes-que-puede-terminar-resolviendo-el-descenso-en-el-escritorio/"
+  ]
+ },
+ {
+  "eid": "sr:match:76938250",
+  "fx": "Gimnasia y Esgrima de Jujuy v Deportivo Madryn",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Primera Nacional Reducido QUARTER-FINAL FIRST LEG (two-legged; return at Madryn Nov 27 or 28, sources disagree). Repeat of the 2025 Reducido tie: the Jujuy leg was awarded 3-0 to Madryn after threats by officials, and Madryn won the return 1-0. Hostile atmosphere. 21:30 ART = 00:30 UTC, matches. Referee Bruno Amiconi.",
+  "news": "Knockout 1st leg, grudge rematch of the 2025 Reducido; Madryn concede 0.7/game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout: no result-sides or catches; Under 3.5 p 0.76 < 0.82; Over 1.5 in Argentine lower tier banned.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.todojujuy.com/deportes/gimnasia-jujuy-vs-deportivo-madryn-otra-vez-el-reducido-horario-arbitro-y-antecedentes-n299146",
+   "https://www.diariocronica.com.ar/noticias/2026/11/20/179160-deportivo-madryn-juega-en-jujuy",
+   "https://cholilaonline.ar/2026/11/madryn-vs-gimnasia-de-jujuy-revancha-reducido-afa.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76838154",
+  "fx": "CD Once Caldas v Atletico Nacional",
+  "sport": "football",
+  "absences": "Nacional: Milton Casco (suspended, 5th yellow); Ian Poveda and Cristian Arango (injured until 2027); Neider Parra not called up. Rengifo, Velasquez and Marin back from national duty; James Rodriguez in the squad. Once Caldas: Felipe Gomez (suspended, red card in the Copa semi).",
+  "context": "Liga BetPlay II-2026 cuadrangulares, matchday 1, Palogrande. Comes days after the two met in the Copa BetPlay semifinal. Once Caldas unbeaten in 10 (W6 D4). Nacional is a big club.",
+  "news": "Cuadrangular opener; Nacional without Casco, Poveda and Arango; Once Caldas lose scorer Felipe Gomez.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (Nacional is a big club; opening playoff group match); Over 1.5 (Colombia averages under 2.7 goals); Under 3.5 p 0.74.",
+  "confidence": 0.15,
+  "sources": [
+   "https://espndeportes.espn.com/futbol/colombia/nota/_/id/17539385/nacional-vs-once-caldas-20-convocados-james-rodriguez-fecha-1-cuadrangulares",
+   "https://www.deportesrcn.com/futbol/liga-betplay/nacional-tendra-una-baja-por-sancion-en-la-fecha-1-de-cuadrangulares-159781",
+   "https://www.noticiascaracol.com/golcaracol/futbol-colombiano/con-james-rodriguez-a-la-cabeza-la-lista-de-convocados-de-nacional-para-duelo-con-once-caldas-rg10"
+  ]
+ },
+ {
+  "eid": "sr:match:75443202",
+  "fx": "Hong Kong Cricket Club v Diasqua Little Sai Wan Cricket Club",
+  "sport": "cricket",
+  "absences": "No news found.",
+  "context": "Hong Kong Premier League cricket. No listing found for a Nov 22 meeting (only earlier seasons). Diasqua 2-6 in last 8, yet the house makes them 0.59 favourites.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Moneyline: house and form disagree, and the fixture is unverified.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espncricinfo.com/ci/engine/match/1504682.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76409682",
+  "fx": "Real CD Espana San Pedro Sula v CD Marathon San Pedro Sula",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Clasico sampedrano (DERBY), Honduras Apertura J15, 19:30 local at Francisco Morazan = 01:30 UTC, matches. Real Espana 29 pts, unbeaten in 20 home games; Marathon on two straight wins.",
+  "news": "San Pedro Sula derby; Real Espana unbeaten in 20 at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result-sides; Under 3.5 p 0.76 < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://hondurasfutbol.com/los-clasicos-destacan-en-la-fecha-15-del-apertura/",
+   "https://diarioroatan.com/liga-nacional-regresa-con-la-jornada-15-cargada-de-clasicos-y-partidos-decisivos/"
+  ]
+ },
+ {
+  "eid": "sr:match:72897438",
+  "fx": "Wellington Phoenix FC v Macarthur FC",
+  "sport": "football",
+  "absences": "Phoenix: Fin Roa Conchie and Jayden Smith unavailable; otherwise an unchanged squad (8 All Whites back from the India double-header). Macarthur: Jonathan Aspropotamitis and Kosta Grozos return from injury.",
+  "context": "A-League R5 after the international break (transition caveat). Phoenix 10 of 12 pts, GF 7, GA 1. Macarthur winless in 3, and their away record over the last 5 is W1 D1 L3 with 2.6 GA/game. Last H2H (Apr 2026) was 0-4 to Macarthur. 15:00 NZDT at Hnry Stadium = 02:00 UTC, matches.",
+  "news": "In-form, defensively solid Phoenix (1 conceded in 4) v Macarthur, winless in 3.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.26,
+    "p": 0.764,
+    "why": "Phoenix have conceded once in 4 games and are unbeaten; Macarthur winless in 3 and poor away. Own est 0.77. Post-break board, so modest confidence."
+   }
+  ],
+  "avoid": "Home -1.5 (Phoenix are low-event); Unders below 0.82.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.friendsoffootballnz.com/2026/11/21/squads-for-sundays-mens-a-league-game-between-phoenix-and-macarthur/",
+   "https://wellingtonphoenix.com/news/a-league-men-matchweek-5-preview/",
+   "https://www.bets.com.au/soccer/a-league/wellington-phoenix-vs-macarthur-fc-a-league-round-5-tips-prediction-20261120-0005/"
+  ]
+ },
+ {
+  "eid": "sr:match:72053710",
+  "fx": "Perez Zeledon v Deportivo Saprissa San Jose",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Costa Rica Apertura J17. Saprissa joint top on 31 with Cartagines (must-win for 1st place). Press (CRHoy, Teletica) say Sat Nov 21 20:00 local (02:00 UTC Nov 22, matching the board), but the Saprissa official calendar lists J17 as Nov 22.",
+  "news": "Saprissa joint leaders, must win; date conflict between the club calendar and the press.",
+  "veto": true,
+  "veto_reason": "Date conflict: Saprissa official calendar says Nov 22 v press Nov 21 20:00 local.",
+  "picks": [],
+  "avoid": "All markets (veto).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.saprissa.com/noticias/saprissa-ya-conoce-su-ruta-para-el-torneo-de-apertura-2026",
+   "https://www.teletica.com/nacional/arbitros-con-gafetes-fifa-estaran-a-cargo-de-crucial-jornada-del-torneo-nacional_421486",
+   "https://crhoy.com/deportes/fecha-17-alajuelense-y-cartagines-sera-el-plato-fuerte/"
+  ]
+ },
+ {
+  "eid": "sr:match:72475102",
+  "fx": "CD Guastatoya v Comunicaciones FC",
+  "sport": "football",
+  "absences": "Comunicaciones: Juan Osorio (red card v Coban). Guastatoya: Andy Contreras (red card v Xelaju).",
+  "context": "Guatemala Apertura J21 (penultimate round). Guastatoya 5th 31 pts (W9 D4 L7); Comunicaciones 7th 26 pts (W8 D2 L10) and need a result to reach the fase final. Kick-off moved officially from 19:00 to 20:00 local = 02:00 UTC, which matches the board. Guastatoya won the reverse 2-1 away.",
+  "news": "Must-win Comunicaciones visit 5th-placed Guastatoya, who beat them 2-1 away earlier.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.22,
+    "p": 0.7864,
+    "why": "Guastatoya above them in the table and won the reverse fixture away; Comunicaciones W8 L10 and without Osorio. Must-win pressure falls on the away side. Own est 0.78 (trend data only 0.50, so low confidence)."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.21); Under 3.5 p 0.78 < 0.82.",
+  "confidence": 0.2,
+  "sources": [
+   "https://guatefutbol.com/2026/11/17/nuevo-horario-para-el-partido-de-guastatoya-vs-comunicaciones/",
+   "https://www.365scores.com/es/news/apertura-de-guatemala-comunicaciones/",
+   "https://www.clarosports.com/centroamerica/futbol-cenam/guastatoya-vs-comunicaciones-nuevo-horario-para-un-duelo-que-puede-definir-la-clasificacion/"
+  ]
+ },
+ {
+  "eid": "sr:match:76631360",
+  "fx": "E Rajasthan v Mizoram",
+  "sport": "cricket",
+  "absences": "Squads only: Rajasthan led by Deepak Chahar (with Rahul Chahar and Manav Suthar); Mizoram led by Jehu Anderson.",
+  "context": "SMAT Elite group. Mizoram 1-9 in last 10; huge mismatch, but the only market is 1.04.",
+  "news": "Big mismatch; no market in range.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Moneyline 1.04 (sub-1.15 padding).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.rajasthanroyals.com/latest-news/syed-mushtaq-ali-trophy-2026-squads-players-list",
+   "https://khelnow.com/cricket/syed-mushtaq-ali-trophy-squad-all-teams-202611"
+  ]
+ },
+ {
+  "eid": "sr:match:73928192",
+  "fx": "Melbourne Victory v Perth Glory FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "WOMEN'S fixture (A-League Women). The only date source is a stale Austadiums listing (Sun 22 Nov 15:00, Lakeside), consistent with the board's 04:00 UTC.",
+  "news": "Women's league; only a stale listing confirms the date.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: goals only in clear mismatches; not clear enough here.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.austadiums.com/sport/events"
+  ]
+ },
+ {
+  "eid": "sr:match:74827324",
+  "fx": "Adelaide City FC v Broadmeadow Magic FC",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Australian Championship final group match (Group B), Adelaide City Park, 14:30 ACDT = 04:00 UTC, matches. Adelaide City last 10: GF 3.3, GA 3.3; earlier group meeting 2-3 to Broadmeadow. Qualification permutations not found.",
+  "news": "Final group game; Adelaide City games average 6.6 goals over the last 10; first meeting finished 2-3.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.46,
+    "p": 0.641,
+    "why": "Adelaide City concede and score 3.3/game; 85% of both sides' last 20 games went over 2.5; first meeting finished 2-3. Semi-pro national championship with open games. Own est 0.70."
+   }
+  ],
+  "avoid": "Unders; result-sides (unknown qualification state).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.adelaidecityfc.com.au/post/city-s-australian-championship-fixtures-confirmed",
+   "https://en.wikipedia.org/wiki/2026_Australian_Championship",
+   "https://northernnswfootball.com.au/news/2026-australian-championship-round-three-preview-magic-eye-faster-start-against-adelaide-city"
+  ]
+ },
+ {
+  "eid": "sr:match:74827326",
+  "fx": "Avondale FC v APIA Leichhardt",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Australian Championship final group match, Avenger Park, 15:00 AEDT = 04:00 UTC, matches. The opponent is named Wests APIA in the 2026 sources (same club as APIA Leichhardt). Avondale GF 2.8 GA 2.3; APIA GF 2.4. Earlier meeting 2-5.",
+  "news": "Final group game between two high-scoring sides; earlier meeting 2-5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.42,
+    "p": 0.6585,
+    "why": "Both sides score 2.4 to 2.8/game; 75% of their last 20 went over 2.5; first meeting 2-5. Own est 0.69."
+   }
+  ],
+  "avoid": "Unders; result-sides.",
+  "confidence": 0.25,
+  "sources": [
+   "https://australianchampionship.com.au/fixtures",
+   "https://en.wikipedia.org/wiki/2026_Australian_Championship",
+   "https://avondalefc.com.au/australian-championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:75326650",
+  "fx": "Brisbane Heat v Adelaide Strikers",
+  "sport": "cricket",
+  "absences": "No news found.",
+  "context": "WOMEN'S (WBBL Match 31, Allan Border Field, 14:40 local = 04:40 UTC, matches).",
+  "news": "Women's T20; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://femalecricket.com/wbbl12/100548-brisbane-heat-vs-adelaide-strikers-wbbl-2026-match-31-where-to-watch-squads-and-pitch-report.html",
+   "https://www.austadiums.com/sport/event/34782"
+  ]
+ },
+ {
+  "eid": "sr:match:76122408",
+  "fx": "Netherlands v Sri Lanka",
+  "sport": "cricket",
+  "absences": "No news found.",
+  "context": "WOMEN'S Emerging Nations Trophy Super Sixes, Match 24, Karwan Ground, Ajman, 05:00 GMT, matches. Both unbeaten in the group; Sri Lanka 3-0.",
+  "news": "Women's; both unbeaten, Sri Lanka favourites.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks; Sri Lanka ML 1.15 (below range).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.icc-cricket.com/media-releases/sri-lanka-netherlands-stay-unbeaten-on-day-3-of-icc-women-s-emerging-nations-trophy-2026",
+   "https://www.cricketworld.com/match-predictions-icc-womens-emerging-nations-trophy-2026-november-22-super-sixes-cricket-previews-winning-predictions-and-matches-24-25-and-26/114473.htm"
+  ]
+ },
+ {
+  "eid": "sr:match:76122410",
+  "fx": "Pakistan v Scotland",
+  "sport": "cricket",
+  "absences": "No news found.",
+  "context": "WOMEN'S Emerging Nations Trophy Super Sixes, Match 25, Seven Districts, Ajman, 05:00 GMT, matches. Pakistan lost to the Netherlands; Scotland beat the UAE by 7 wickets.",
+  "news": "Women's; both still in contention.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.icc-cricket.com/tournaments/icc-women-s-emerging-nations-trophy-2026/news/icc-women-s-emerging-nations-trophy-day-3-wrap-x6531"
+  ]
+ },
+ {
+  "eid": "sr:match:76122668",
+  "fx": "Bengal v Baroda",
+  "sport": "cricket",
+  "absences": "Squads: Bengal (Abhimanyu Easwaran capt., Abishek Porel); Baroda (Krunal Pandya capt., Deepak Hooda, Jitesh Sharma). No confirmed XIs.",
+  "context": "SMAT Elite group; near coin-flip (0.53/0.47).",
+  "news": "Coin-flip T20 between two strong sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Moneyline near 50/50.",
+  "confidence": 0.1,
+  "sources": [
+   "https://khelnow.com/cricket/syed-mushtaq-ali-trophy-squad-all-teams-202611"
+  ]
+ },
+ {
+  "eid": "sr:match:76122672",
+  "fx": "Delhi v Haryana",
+  "sport": "cricket",
+  "absences": "Squads: Delhi (Ayush Badoni capt., Priyansh Arya, Yash Dhull, Suyash Sharma). Haryana squad not found.",
+  "context": "SMAT Elite group. Delhi 0.65 favourites.",
+  "news": "no news found beyond squads",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Moneyline p 0.65: T20 variance, no confirmed XI.",
+  "confidence": 0.1,
+  "sources": [
+   "https://khelnow.com/cricket/syed-mushtaq-ali-trophy-squad-all-teams-202611"
+  ]
+ },
+ {
+  "eid": "sr:match:76122674",
+  "fx": "Kerala v Puducherry",
+  "sport": "cricket",
+  "absences": "Squads: Kerala (Sanju Samson capt., Rohan Kunnummal, Azharuddeen, Vishnu Vinod, Jalaj Saxena); Puducherry (Pugazhendi Akash, Aman Khan, Shashank Singh).",
+  "context": "SMAT Elite group. Kerala 0.66 favourites; Puducherry 6-4 in last 10.",
+  "news": "no news found beyond squads",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Moneyline p 0.66: Samson availability unconfirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://khelnow.com/cricket/syed-mushtaq-ali-trophy-squad-all-teams-202611"
+  ]
+ },
+ {
+  "eid": "sr:match:74058688",
+  "fx": "Leaper v Kui Tan SC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Hong Kong 1st Division (second tier, semi-amateur). Leaper W1 in 10; Kui Tan GA 2.8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin league: no picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76189082",
+  "fx": "United Arab Emirates v Nepal",
+  "sport": "cricket",
+  "absences": "Nepal squad includes Kushal Bhurtel and Sandeep Lamichhane.",
+  "context": "ACC Men's Asia Cup Rising Stars 2026, Match 7, Doha (UDST), 06:00 GMT, matches. Both lost their openers. Sources disagree on whether it is an official ODI or a List-A match.",
+  "news": "Both lost their openers; format-status ambiguity.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Moneyline near 50/50.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.crictracker.com/live-scores/uae-vs-nep-7th-match-lista-acc-mens-asia-cup-rising-stars-22-nov-2026/",
+   "https://cricketwebs.com/uae-vs-nepal-prediction-7th-match-group-b-acc-mens-asia-cup-rising-stars-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:75107614",
+  "fx": "Beijing WFC v Wuhan Jianghan",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "WOMEN'S Chinese Super League. No source confirms Nov 22 fixtures; a video from ~104 days ago says the 2026 CWSL season had already concluded (final round 11). Fixture status unverified.",
+  "news": "Women's; season reportedly finished in August, so the fixture is unverified.",
+  "veto": true,
+  "veto_reason": "Data conflict: 2026 CWSL reported concluded; Nov 22 fixture unverified.",
+  "picks": [],
+  "avoid": "All markets (women's + veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.youtube.com/watch?v=DGBspMKqg4Q"
+  ]
+ },
+ {
+  "eid": "sr:match:75107618",
+  "fx": "Jiangsu LFC v Liaoning Shenbei Hefeng",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "WOMEN'S Chinese Super League. No source confirms Nov 22 fixtures; a video from ~104 days ago says the 2026 CWSL season had already concluded (final round 11). Fixture status unverified.",
+  "news": "Women's; season reportedly finished in August, so the fixture is unverified.",
+  "veto": true,
+  "veto_reason": "Data conflict: 2026 CWSL reported concluded; Nov 22 fixture unverified.",
+  "picks": [],
+  "avoid": "All markets (women's + veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.youtube.com/watch?v=DGBspMKqg4Q"
+  ]
+ },
+ {
+  "eid": "sr:match:75107610",
+  "fx": "Shanghai Shengli v Zhejiang Hangzhou",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "WOMEN'S Chinese Super League. No source confirms Nov 22 fixtures; a video from ~104 days ago says the 2026 CWSL season had already concluded (final round 11). Fixture status unverified.",
+  "news": "Women's; season reportedly finished in August, so the fixture is unverified.",
+  "veto": true,
+  "veto_reason": "Data conflict: 2026 CWSL reported concluded; Nov 22 fixture unverified.",
+  "picks": [],
+  "avoid": "All markets (women's + veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.youtube.com/watch?v=DGBspMKqg4Q"
+  ]
+ },
+ {
+  "eid": "sr:match:74795138",
+  "fx": "Taichung Futuro FC v New Taipei Hang Yuan",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Taiwan Football Premier League 2026-27. Sofascore lists kick-off 07:30 UTC v board 07:00 UTC. Hang Yuan unbeaten (W1 D3) after 4.",
+  "news": "Kick-off conflict 07:30 v 07:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: Sofascore 07:30 UTC v board 07:00 UTC.",
+  "picks": [],
+  "avoid": "All markets (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/team/taichung-futuro-fc/319340",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Taiwan_Football_Premier_League"
+  ]
+ }
+]
