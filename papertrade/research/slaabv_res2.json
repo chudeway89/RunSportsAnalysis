@@ -1,0 +1,412 @@
+[
+ {
+  "eid": "sr:match:72345580",
+  "fx": "LASK Linz v TSV Hartberg",
+  "market_on_code": "Over/Under | total=3 | Over 3",
+  "odds": 1.54,
+  "p": 0.622,
+  "fresh_news": "Previews (SN/VOL/laola1) confirm 17:00 CET; Hartberg won 5 of 6 with 3 straight clean sheets; no new LASK injuries confirmed.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=2.5",
+   "desc": "Over 2.5",
+   "odds": 1.36,
+   "p": 0.708
+  },
+  "own_p": 0.6,
+  "reason": "Integer Over 3 is hard-excluded (needs 4+ goals; 3 = void). Over 2.5 keeps the high-scoring thesis (both sides ~2.8 g/game) but Hartberg's 3 clean sheets trim it.",
+  "sources": [
+   "https://www.sn.at/sport/fussball/bundesliga/rapid-geht-auf-das-dutzend-los-lask-gegen-tsv-gefordert-art-685256",
+   "https://www.vol.at/rapid-geht-auf-das-dutzend-los-lask-gegen-tsv-gefordert/11363894"
+  ]
+ },
+ {
+  "eid": "sr:match:72036302",
+  "fx": "Nice v PSG",
+  "market_on_code": "Over/Under | total=3 | Over 3",
+  "odds": 1.55,
+  "p": 0.617,
+  "fresh_news": "Lineups still conflict: one preview has Dembele/Marquinhos out, another (parisfans) has both starting; Safonov/Ferran Torres XI suggests rotation. Nice: Abergel, Mendy, Bombito out; Witsel back.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=2.5",
+   "desc": "Over 2.5",
+   "odds": 1.38,
+   "p": 0.697
+  },
+  "own_p": 0.56,
+  "reason": "Integer Over 3 is hard-excluded. Over 2.5: PSG average 3.5 goals scored away and Nice are without two first-choice CBs. Rotation adds some risk. Over 1.5 at 1.11 is below the odds floor.",
+  "sources": [
+   "https://thehardtackle.com/round-up/2026/11/20/ogc-nice-vs-psg-preview-prediction-probable-lineups-tactics-team-news-key-stats/",
+   "https://en.parisfans.fr/nice-vs-psg-the-paris-lineup-announced-with-dembele-and-marquinhos.html",
+   "https://www.goal.com/en-ng/betting/tips/nice-vs-psg-predictions-21-11-2026/A%3Ablt5f28de3e45e9bb15"
+  ]
+ },
+ {
+  "eid": "sr:match:71945422",
+  "fx": "Parma Calcio v Roma",
+  "market_on_code": "Asian Handicap 1 | hcp=1 | Away (-1.0)",
+  "odds": 1.34,
+  "p": 0.724,
+  "fresh_news": "Roma unbeaten (8W 3D), won the last 4 v Parma (11 goals); Dybala back. Svilar is fit per one source and out per another (Vasquez would start). Parma: Bernabe, Romero, Diego Carlos, Drobnic out, N'Diaye banned.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "16",
+   "spec": "hcp=0.5",
+   "desc": "Away (-0.5)",
+   "odds": 1.28,
+   "p": 0.759
+  },
+  "own_p": 0.47,
+  "reason": "Away -1.0 is a result-side that also refunds a 1-goal win, so it is strictly weaker than the plain win. Roma at -0.5 (= away win) p 0.759 just clears the away-result gate of 0.75. Parma have one home win in six and are missing their striker.",
+  "sources": [
+   "https://www.sportsmole.co.uk/football/parma/preview/parma-vs-roma-prediction-team-news-lineups_609422.html",
+   "https://www.goal.com/it/notizie/formazioni-parma-roma-le-ultime-sulla-partita-e-dove-vederla-in-tv-e-streaming/blt39cfad558baa833e"
+  ]
+ },
+ {
+  "eid": "sr:match:72796020",
+  "fx": "Bohemians Prague 1905 v Viktoria Plzen",
+  "market_on_code": "Away or Over 2.5 | total=2.5 | Yes",
+  "odds": 1.34,
+  "p": 0.706,
+  "fresh_news": "ruik.cz: KO 18:00 at Dolicek; Bohemians without Yasser, Plestil, Smrz, and likely Javorcek. Plzen: no news. Both on 20 pts.",
+  "verdict": "CUT",
+  "replacement": null,
+  "own_p": 0.68,
+  "reason": "Transition board (first weekend after the break). Plzen win p is only 0.48. Bohemians' home games are very low-scoring (0.67 GF, 0 GA, 0 conceded in last 3 home) and they concede nothing from crosses, Plzen's main route. That leaves 1-1/0-0/1-0 as live losers, and no mechanism anchors the leg.",
+  "sources": [
+   "https://www.ruik.cz/tipy-na-sazeni/bohemians-vs-viktoria-plzen-chance-liga-zive-v-tv-21112026/",
+   "https://www.fotbalportal.cz/cesko/synot-liga/81956-bohemians-plzen-centry-cermak-preview-dolicek/"
+  ]
+ },
+ {
+  "eid": "sr:match:74379718",
+  "fx": "Young Boys Bern v FC Thun",
+  "market_on_code": "Over/Under | total=3 | Over 3",
+  "odds": 1.28,
+  "p": 0.75,
+  "fresh_news": "Blick/nau: KO 18:00; Edimilson Fernandes back from ban; YB beat Thun 6-0 and 8-3 in the last two meetings. Note it is the Bernese cantonal derby.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=2.5",
+   "desc": "Over 2.5",
+   "odds": 1.22,
+   "p": 0.791
+  },
+  "own_p": 0.8,
+  "reason": "Integer Over 3 is hard-excluded. Over 2.5 fits the mechanism: Thun concede 3.8 a game away, and the H2H was 6-0 and 8-3. Derby flag only blocks result-sides.",
+  "sources": [
+   "https://blick.ch/sport/fussball/superleague/das-yb-inside-der-14-runde-wird-thun-wieder-abgeschossen/sfmjrzv",
+   "https://nau.ch/sport/fussball/yb-alles-zum-kantons-derby-gegen-den-fc-thun-67204754"
+  ]
+ },
+ {
+  "eid": "sr:match:72221408",
+  "fx": "Newcastle v Arsenal",
+  "market_on_code": "Away or Over 2.5 | total=2.5 | Yes",
+  "odds": 1.26,
+  "p": 0.762,
+  "fresh_news": "Confirmed: Saka, Zubimendi out, Dowman banned, Saliba back; Newcastle without Joelinton and keeper Jaouen. Most previews predict Arsenal 1-0, one predicts 1-1.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=4.5",
+   "desc": "Under 4.5",
+   "odds": 1.2,
+   "p": 0.82
+  },
+  "own_p": 0.75,
+  "reason": "Big-club clash: the binding rule bars result-sides, and Away-or-O2.5 is a result-side combo. Its losing paths (1-1, 0-0, a Newcastle 1-0) are exactly what previews predict. Under 4.5 sits exactly on the 0.82 gate (Newcastle home GF 1.0); the max is one Under per core.",
+  "sources": [
+   "https://dave.sport/news/newcastle-vs-arsenal-team-news/",
+   "https://www.rotowire.com/soccer/article/newcastle-vs-arsenal-prediction-predicted-lineups-team-news-147039"
+  ]
+ },
+ {
+  "eid": "sr:match:74886182",
+  "fx": "Sporting Lagos FC v Kwara United",
+  "market_on_code": "Over/Under | total=1.5 | Over 1.5",
+  "odds": 1.4,
+  "p": 0.673,
+  "fresh_news": "Kwara without Gata Issa, Tosin Olawale, Ouattara and Sani Mohammed, and winless in 5. KO conflict: 6pm (club site) / 7pm / 15:00 GMT; Onikan venue agrees.",
+  "verdict": "CUT",
+  "replacement": null,
+  "own_p": 0.64,
+  "reason": "NPFL is a thin, low-scoring league, well under the 2.7 average needed for Over 1.5. Kwara score 0.2 a game away, so 1-0/0-0 is the modal outcome. The kick-off time also conflicts across sources (date and venue agree). Sporting Lagos Home 1.46 p0.61 is optional fill, not an anchor.",
+  "sources": [
+   "https://www.completesports.com/euromatch-npfl-suleiman-demands-full-concentration-from-kwara-united-players-ahead-sporting-lagos-clash/",
+   "https://soccernet.ng/2026/11/npfl-matchday-14-rangers-kano-pillars-ikorodu-fixtures.html",
+   "https://www.sportinglagos.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:72345586",
+  "fx": "Grazer AK 1902 v SK Rapid",
+  "market_on_code": "Asian Handicap 1 | hcp=1 | Away (-1.0)",
+  "odds": 1.65,
+  "p": 0.572,
+  "fresh_news": "laola1: Rapid chasing a 12th win in 13 at 19:30; GAK winless in the league since mid-September. Hoff Thorup cautious on Yusuf Demir's return.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=1.5",
+   "desc": "Over 1.5",
+   "odds": 1.18,
+   "p": 0.821
+  },
+  "own_p": 0.82,
+  "reason": "Away -1.0 is a result-side catch (Rapid away p 0.67 < 0.75 gate) and refunds a 1-goal win. Over 1.5 instead: Austrian league is high-scoring and GAK concede 2.0 a game at home. Rapid have scored 2+ in each of their last 6.",
+  "sources": [
+   "https://www.laola1.at/de/red/fussball/bundesliga/news/rapid-geht-beim-gak-auf-das-dutzend-los/",
+   "https://abseits.at/fusball-in-osterreich/bundesliga/hoff-thorup-ueber-demir-wir-duerfen-kein-zu-grosses-risiko-eingehen"
+  ]
+ },
+ {
+  "eid": "sr:match:66887184",
+  "fx": "SE Palmeiras SP v CR Flamengo RJ",
+  "market_on_code": "Corners - Over/Under | total=8.5 | Over 8.5",
+  "odds": 1.28,
+  "p": 0.742,
+  "fresh_news": "Confirmed 16:30 BRT; Flamengo champions with a draw. Flamengo: Leo Pereira, Pulgar banned, De La Cruz left out (synthetic pitch). Palmeiras: Barboza banned, Murilo and Piquerez out, Paulinho injured; Abel may rotate for Libertadores.",
+  "verdict": "CUT",
+  "replacement": null,
+  "own_p": 0.72,
+  "reason": "Corners 166 is a hard-excluded class. It is a big-club title decider where Flamengo only need a draw (game-state kills corners if Fla sit), with no qualifying replacement (big-club totals need p>=0.82; Under 4.5 1.15 is below the odds floor).",
+  "sources": [
+   "https://www.band.com.br/esportes/futebol/brasileirao-serie-a/palmeiras-x-flamengo-fazem-final-do-brasileiro-escalacoes-e-onde-assistir",
+   "https://colunadofla.com/2026/11/jogo-ao-vivo-escalacoes-e-desfalques-saiba-tudo-sobre-palmeiras-x-flamengo-pelo-brasileirao"
+  ]
+ },
+ {
+  "eid": "sr:match:72513980",
+  "fx": "FC St. Pauli v Bochum",
+  "market_on_code": "Bochum Over/Under | total=0.5 | Over 0.5",
+  "odds": 1.32,
+  "p": 0.721,
+  "fresh_news": "Confirmed (Reviersport/Sportschau): Bochum near full squad, three straight wins; St. Pauli without Oppie (banned), Pereira Lage, Thordarson, and winless in 4. KO 20:30 CET.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "16",
+   "spec": "hcp=-1.5",
+   "desc": "Away (+1.5)",
+   "odds": 1.26,
+   "p": 0.762
+  },
+  "own_p": 0.77,
+  "reason": "Away team-to-score is banned in a core (0W/3L+). Bochum +1.5 keeps the same read (Bochum in form, Pauli toothless at 1.1 GF and without Oppie) and loses only to a Pauli win by 2+. The +1.5 catch rule does not bite because the favourite's p is only 0.45.",
+  "sources": [
+   "https://www.reviersport.de/fussball/2bundesliga/a632263---vfl-bochum-vor-st-pauli-kaum-ausfaelle-konkurrenzkampf-wird-immer-groesser.html",
+   "https://www.sportschau.de/regional/ndr/Zweite-Bundesliga-FC-St-Pauli-VfL-Bochum-Vorbericht,pauli-724.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72036306",
+  "fx": "Strasbourg v Brest",
+  "market_on_code": "Over/Under | total=2 | Over 2",
+  "odds": 1.36,
+  "p": 0.705,
+  "fresh_news": "Panichelli out (knee), Brest's Chardonnet recovering from his calf; Vitor Matos debuts on the Strasbourg bench. KO confirmed 21:45 local (terrikon).",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=1.5",
+   "desc": "Over 1.5",
+   "odds": 1.21,
+   "p": 0.8
+  },
+  "own_p": 0.79,
+  "reason": "Integer Over 2 is hard-excluded (2 goals = void, needs 3). Over 1.5: Strasbourg games average 3.75 goals at home and 4.0 in the last 10. A new coach debuting adds variance to the result, not to the goals.",
+  "sources": [
+   "https://footballwhispers.com/blog/strasbourg-vs-brest-prediction-21-11-2026",
+   "https://sports.orange.fr/football/ligue-1/avant-match/l1-j11-tout-savoir-sur-strasbourg-brest-exclu-CNT000002tW3iB.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72366464",
+  "fx": "Yellow-Red KV Mechelen v Club Brugge",
+  "market_on_code": "Over/Under | total=3 | Over 3",
+  "odds": 1.59,
+  "p": 0.604,
+  "fresh_news": "Sporza/voetbalkrant: KO 20:45 local confirmed (resolves last night's time conflict). Brugge: Potts back from ban, Tresoldi fit, Spileers not fully fit, Virgili and Ordonez out; 'heads at Liverpool' (UCL midweek). Mechelen: Hammar banned plus about 6 injured (Boersma, Salifou, Struyf, Ayodele, Hjelde, St. Jago).",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=2.5",
+   "desc": "Over 2.5",
+   "odds": 1.4,
+   "p": 0.687
+  },
+  "own_p": 0.67,
+  "reason": "Integer Over 3 is hard-excluded. Over 2.5: Brugge average 3.5 goals scored away and Mechelen's depleted side leaks. Mild UCL-distraction risk.",
+  "sources": [
+   "https://sporza.be/nl/matches/voetbal/jupiler-pro-league/2026-2027/regulier/12/kv-mechelen-club-brugge-live-2045-uur-club-brugge-kan-tegen-kv-mechelen-rekenen-op-topschutter-tresoldi-potts-keert-terug-na-schorsing~1781871794249/",
+   "https://www.voetbalkrant.com/nieuws/2026-11-20/ivan-leko-krijgt-belangrijke-pion-terug-bij-club-brugge-twee-wijzigingen-in-selectie-voor-mechelen"
+  ]
+ },
+ {
+  "eid": "sr:match:72036294",
+  "fx": "Lille v Lyon",
+  "market_on_code": "Over/Under | total=1.5 | Over 1.5",
+  "odds": 1.38,
+  "p": 0.694,
+  "fresh_news": "KO 21:45 local Sat confirmed (terrikon), resolving the date conflict. Vicens' first Lyon game; Lyon without Openda, Sulc, Morton, Ouedraogo, Mata. No new Lille news.",
+  "verdict": "CUT",
+  "replacement": null,
+  "own_p": 0.7,
+  "reason": "Over 1.5 needs both sides' last 5 to support it. Lille's last 6 include 0-0, 1-0, 1-1, 1-1 (home GF 1.1), and Lyon have lost their striker Openda and score 0.67 away. A cagey six-pointer under a debuting coach makes 1-0/0-0 live. The odds have also drifted 1.38 -> 1.33.",
+  "sources": [
+   "https://www.getfootballnewsfrance.com/2026/ligue-1-predictions-round-11-revived-ogc-nice-host-psg-carlos-vicens-lyon-head-to-lille/",
+   "https://terrikon.com/en/football/france/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:72036300",
+  "fx": "Monaco v AJ Auxerre",
+  "market_on_code": "Over/Under | total=2.5 | Over 2.5",
+  "odds": 1.66,
+  "p": 0.574,
+  "fresh_news": "No fresh team news beyond last night: Fati out, Golovin doubt; Auxerre without Namaso, Fofana, Diousse, Okoh. KO confirmed.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "11",
+   "spec": null,
+   "desc": "Draw No Bet Home",
+   "odds": 1.18,
+   "p": 0.823
+  },
+  "own_p": 0.8,
+  "reason": "Over 2.5 at p 0.64 is a thin leg because Monaco concede only 0.67 at home (a 2-0 kills it). Monaco DNB uses the real mechanism: unbeaten at home (4W 2D) v Auxerre with 1 away win in 5 and their forward out. It sits at the 1.18 floor.",
+  "sources": [
+   "https://terrikon.com/en/football/france/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:72478722",
+  "fx": "Real Madrid v Celta",
+  "market_on_code": "Asian Handicap -1 | hcp=-1 | Home (-1.0)",
+  "odds": 1.25,
+  "p": 0.779,
+  "fresh_news": "Vinicius back from his 4-game ban (start uncertain); Madrid near full strength otherwise. Celta still without Borja Iglesias; Goal tips 2-0 RM. KO 20:00 UK (21:00 local).",
+  "verdict": "KEEP",
+  "replacement": null,
+  "own_p": 0.77,
+  "reason": "House prices Home -1.0 at 0.786 (win by 2+, refund on 1). Madrid have won all 3 home games by 2+ goals (3.0 GF), Celta have lost their striker, and the predicted 2-0 lands it. A deep Celta block makes a 1-0 the main risk, but that is a refund, not a loss.",
+  "sources": [
+   "https://www.managingmadrid.com/115622/real-madrid-vs-celta-vigo-2026-la-liga-lineups",
+   "https://www.goal.com/en-ng/betting/tips/real-madrid-vs-celta-vigo-predictions-21-11-2026/A%3Ablt01daefc3f2314db0"
+  ]
+ },
+ {
+  "eid": "sr:match:72041250",
+  "fx": "FC Groningen v SC Heerenveen",
+  "market_on_code": "Away or Over 2.5 | total=2.5 | Yes",
+  "odds": 1.25,
+  "p": 0.767,
+  "fresh_news": "No new team news found beyond last night (Vaessen and Hateboer banned, Jeng out, coach Lukkien absent). VI: Van Bergen and Willumsson have 17 league goals between them; high-scoring expected.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=2.5",
+   "desc": "Over 2.5",
+   "odds": 1.46,
+   "p": 0.666
+  },
+  "own_p": 0.7,
+  "reason": "Derby van het Noorden: the binding rule bars result-sides, and Away-or-O2.5 leans on a Heerenveen win. Keep only the goals half: Groningen's home games average 4.3 goals and their second-choice keeper (Stubljar) starts. Over 1.5 at 1.14 is below the floor.",
+  "sources": [
+   "https://vi.nl/nieuws/gronings-doelpuntenkanon-van-bergen-kan-in-illuster-rijtje-treden-tegen-heerenveen"
+  ]
+ },
+ {
+  "eid": "sr:match:72041264",
+  "fx": "SC Telstar v PEC Zwolle",
+  "market_on_code": "Away or Over 2.5 | total=2.5 | Yes",
+  "odds": 1.35,
+  "p": 0.71,
+  "fresh_news": "Sports Mole: Alders out, Mendes doubtful (one Dutch source says both fit); Zwolle without Krastev and Rahajaan, Floranus doubtful. KO 20:00 local (one Dutch source says 21:00; date agrees).",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=1.5",
+   "desc": "Over 1.5",
+   "odds": 1.21,
+   "p": 0.806
+  },
+  "own_p": 0.8,
+  "reason": "Zwolle win p is only ~0.29, so Away-or-O2.5 mostly rides on 3+ goals, and the odds have drifted against it (1.35 -> 1.40). Over 1.5 instead: Eredivisie averages about 3 goals, Telstar home games average 4.6, and last 5s show only one sub-2 game each.",
+  "sources": [
+   "https://www.sportsmole.co.uk/football/telstar/preview/telstar-vs-pec-zwolle-prediction-team-news-lineups_609428.html",
+   "https://news.bet365.nl/nl-nl/article/telstar-pec-zwolle-waar-te-zien-mogelijke-opstellingen-tips-en-teamnieuws/2026112012530273902"
+  ]
+ },
+ {
+  "eid": "sr:match:76565500",
+  "fx": "Cavalry FC v Atletico Ottawa",
+  "market_on_code": "Both Halves Under 1.5 | total=1.5 | No",
+  "odds": 1.28,
+  "p": 0.74,
+  "fresh_news": "CPL Final confirmed Sat 21 Nov at ATCO Field (Spruce Meadows). Cavalry still without Ntignee and Baldisimo; Ottawa have 'numerous injuries'. No final-day XI found.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "11",
+   "spec": null,
+   "desc": "Draw No Bet Home",
+   "odds": 1.18,
+   "p": 0.801
+  },
+  "own_p": 0.79,
+  "reason": "Market 59 'No' is hard-excluded. In a knockout only DNB or To Qualify is allowed, and it settles on 90 min with a draw = void. Cavalry won 3 of 4 league meetings 3-0/3-1 and are 4-1-0 at home, against an injury-hit Ottawa. Over 1.5 is not offered; Over 2.5 1.46 p0.64 suits a cagey final less well.",
+  "sources": [
+   "https://westernwheel.ca/local-sports/cavalry-fc-confident-ahead-of-cpl-final-at-home-13044009",
+   "https://northerntribune.ca/2026-cpl-final-preview-cavalry-atletico-ottawa/"
+  ]
+ },
+ {
+  "eid": "sr:match:72201728",
+  "fx": "Motherwell FC v Rangers",
+  "market_on_code": "Away Team to Win Either Half | None | Yes",
+  "odds": 1.29,
+  "p": 0.739,
+  "fresh_news": "Confirmed 20:00 GMT, Fir Park. Rangers: Kim back, Chermiti, Shankland, Devlin, Yokota out; McInnes about one change. Motherwell: Lowry, Koutroumbis, Williams out; 1 win in 9.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=1.5",
+   "desc": "Over 1.5",
+   "odds": 1.18,
+   "p": 0.827
+  },
+  "own_p": 0.81,
+  "reason": "Win-either-half is hard-excluded, and a Rangers result-side is barred (big club). Over 1.5: only one sub-2-goal game in each side's last 6, and Rangers score 1.75 away.",
+  "sources": [
+   "https://www.sportsmole.co.uk/football/rangers/preview/motherwell-vs-rangers-prediction-team-news-lineups_609393.html",
+   "https://www.rangersnews.uk/match/motherwell-vs-rangers-preview-minsu-kim-injury-latest-predicted-lineup-and-how-to-watch/"
+  ]
+ },
+ {
+  "eid": "sr:match:72055324",
+  "fx": "CF Pachuca v Deportivo Toluca FC",
+  "market_on_code": "Both Halves Under 1.5 | total=1.5 | No",
+  "odds": 1.29,
+  "p": 0.752,
+  "fresh_news": "Confirmed Sat 17:00 CDMX at Estadio Hidalgo (board 22:50 UTC = 16:50, about 10 min apart). Pachuca must win and need help; Toluca already qualified, QF on 25-26 Nov, Helinho banned. No official XIs.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=2.5",
+   "desc": "Over 2.5",
+   "odds": 1.47,
+   "p": 0.652
+  },
+  "own_p": 0.64,
+  "reason": "Market 59 'No' is hard-excluded. Over 2.5 is the closest clean goals market: Pachuca must win so the game opens up, and Toluca's rested defence leaks (1.83 GA away). It is thin (p 0.65), so treat it as fill, not anchor. Over 1.5 at 1.14 is below the floor.",
+  "sources": [
+   "https://unanimodeportes.com/deportes/futbol/liga-mx/alineaciones-pachuca-vs-toluca-2627/",
+   "https://nnc.mx/articulo/cf-pachuca-vs-toluca-en-vivo-horario-alineaciones-resultado"
+  ]
+ }
+]

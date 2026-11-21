@@ -1,0 +1,410 @@
+[
+ {
+  "eid": "sr:match:71945414",
+  "fx": "Lazio v Lecce",
+  "market_on_code": "Asian Handicap -1 | Home (-1.0) (hcp=-1)",
+  "odds": 1.79,
+  "p": 0.534,
+  "fresh_news": "Lazio top and unbeaten; KO confirmed Sat 21 Nov 15:00 CET (=14:00 UTC board), so the date veto is LIFTED. Zaccagni and Nuno Tavares out (confirmed); Frattesi late check; Rovella (and maybe Gudmundsson) back. Predictions 2-0 / 2-1 / 3-1.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "1",
+   "spec": null,
+   "desc": "Home",
+   "odds": 1.44,
+   "p": 0.686
+  },
+  "own_p": 0.47,
+  "reason": "AH -1.0 loses on a draw and only refunds on a 1-0 type win; with Zaccagni/Tavares out and Lecce's typical low block, a 1-goal Lazio win is a modal outcome. A plain home win keeps the edge without the 2-goal requirement. (DNB 1.16 is below the floor.)",
+  "sources": [
+   "https://www.sportsmole.co.uk/football/lazio/preview/lazio-vs-lecce-prediction-team-news-lineups_609407.html",
+   "https://jen.jiji.com/serie-a-today-lazio-lecce-time-probable-lineups-and-where-to-watch-it/",
+   "https://www.whoscored.com/articles/EWv2jx5NNUiQj-pPxd473A/show/cng111-20261121-lazio-vs-lecce-prediction-1795241144"
+  ]
+ },
+ {
+  "eid": "sr:match:67126886",
+  "fx": "AIK v Degerfors IF",
+  "market_on_code": "Home Team or Over 2.5 | Yes (total=2.5)",
+  "odds": 1.29,
+  "p": 0.741,
+  "fresh_news": "No XI published yet. Degerfors: Faqa may return in defence. AIK have nothing to play for but scored 2+ in each of their last 4 home games. KO 15:00 CET confirmed.",
+  "verdict": "KEEP",
+  "replacement": null,
+  "own_p": 0.74,
+  "reason": "OR combo (AIK win OR 3+ goals). AIK's home games are high-scoring (3-2, 2-2, 2-2, 5-6) and desperate Degerfors must open up. It loses only on a low-scoring Degerfors win or draw. Not an excluded class.",
+  "sources": [
+   "https://www.tvmatchen.nu/betting/speltips/aik-degerfors-21-11-allsvenskan/",
+   "https://www.svenskafans.com/fotboll/infor-aik-degerfors-avsluta-sasongen-snyggt-703546"
+  ]
+ },
+ {
+  "eid": "sr:match:72546184",
+  "fx": "Ynyshir Albions v Llantwit Major",
+  "market_on_code": "Both Halves Under 1.5 | No (total=1.5)",
+  "odds": 1.3,
+  "p": 0.728,
+  "fresh_news": "No fresh news (Cymru South coverage is thin).",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=1.5",
+   "desc": "Over 1.5",
+   "odds": 1.16,
+   "p": 0.83
+  },
+  "own_p": 0.8,
+  "reason": "Market 59 'No' is hard-excluded; D2 converts it to O1.5. Both sides' last 6 all had 2+ goals (Ynyshir home 3.25 GF/g). Caveat: 1.16 is below the 1.18 floor. The in-range fallback is last night's Away (+1.5) at 1.31 (p 0.731).",
+  "sources": [
+   "https://www.sofascore.com/football/match/ynyshir-albions-llantwit-major/LjUbsUAfd"
+  ]
+ },
+ {
+  "eid": "sr:match:72546708",
+  "fx": "Brickfield Rangers v Newtown AFC",
+  "market_on_code": "Away or Over 2.5 | Yes (total=2.5)",
+  "odds": 1.31,
+  "p": 0.723,
+  "fresh_news": "No new news; top-two clash confirmed (FAW). Last night's Over 0.5 has collapsed to 1.03.",
+  "verdict": "CUT",
+  "replacement": null,
+  "own_p": 0.68,
+  "reason": "Away or O2.5 loses on any Brickfield win with 2 or fewer goals, and on 0-0/1-1. In a cagey top-two game (Newtown concede 0.5/g; Brickfield home 3W1D1L) those are the modal scores. The only in-range alternative, Away +1.0, is a result-side in a big clash, which research said to avoid.",
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/novira-cymru-north-round-up-newtown-close-in-on-the-top-with-victory-over-buckley-town/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546716",
+  "fx": "Holyhead Hotspur v Bala Town FC",
+  "market_on_code": "Both Halves Under 1.5 | No (total=1.5)",
+  "odds": 1.32,
+  "p": 0.712,
+  "fresh_news": "No fresh news.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=1.5",
+   "desc": "Over 1.5",
+   "odds": 1.17,
+   "p": 0.819
+  },
+  "own_p": 0.83,
+  "reason": "Market 59 'No' is hard-excluded; convert to O1.5. Bala's last 6 all had 3+ goals (3-3, 3-4, 2-3, 3-3), Holyhead's last 6 all had 2+, and the H2H was 4-3. Caveat: 1.17 is just below the floor. The in-range fallback is Home (+1.5) at 1.31 (p 0.73).",
+  "sources": [
+   "https://faw.cymru/cymru-leagues/news/novira-cymru-north-round-up-newtown-close-in-on-the-top-with-victory-over-buckley-town/"
+  ]
+ },
+ {
+  "eid": "sr:match:72513320",
+  "fx": "Borussia M\u00b4gladbach v Borussia Dortmund",
+  "market_on_code": "Away Team to Win Either Half | Yes",
+  "odds": 1.29,
+  "p": 0.735,
+  "fresh_news": "Guirassy still doubtful (Fabio Silva would start); Anton doubtful. Gladbach: Itakura suspended, Kleindienst injured; Sports Mole also lists Castrop suspended. Predictions range from 1-3 to 3-1 to 1-1.",
+  "verdict": "CUT",
+  "replacement": null,
+  "own_p": 0.7,
+  "reason": "Win-either-half is hard-excluded, and any result-side in the Borussia derby is banned. Totals in range need p >= 0.82 (O1.5 is 1.15, below the floor), so there is no legal replacement.",
+  "sources": [
+   "https://www.sportsmole.co.uk/football/borussia-monchengladbach/preview/borussia-mbach-vs-dortmund-prediction-team-news-lineups_609317.html",
+   "https://www.whoscored.com/articles/M0Oa1fo5a0eyNOvLOMRSdQ/show/cng111-20261121-borussia-mgladbach-vs-borussia-dortmund-prediction-1795242948"
+  ]
+ },
+ {
+  "eid": "sr:match:72513314",
+  "fx": "Eintracht Frankfurt v Hoffenheim",
+  "market_on_code": "Over/Under | Over 3 (total=3)",
+  "odds": 1.43,
+  "p": 0.669,
+  "fresh_news": "Confirmed: Frankfurt without Baum (suspended) and Ngankam; Uzun late call/bench. Hoffenheim without Gendrey, Hajdari, Hranac (+De Cat). Predictions 2-2 (WhoScored/Squawka/Sportskeeda), 3-2 (Sports Mole).",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=2.5",
+   "desc": "Over 2.5",
+   "odds": 1.34,
+   "p": 0.717
+  },
+  "own_p": 0.72,
+  "reason": "Integer Over 3 is excluded (void on 3, needs 4). Both back lines are depleted and the consensus scores (2-2, 3-2) all land 3+, so the .5 line captures the mechanism.",
+  "sources": [
+   "https://www.sportsmole.co.uk/football/eintracht-frankfurt/preview/frankfurt-vs-hoffenheim-prediction-team-news-lineups_609435.html",
+   "https://www.tipico.de/wett-tipps/sportwetten-news/eintracht-frankfurt-vs-tsg-hoffenheim-voraussichtliche-aufstellungen",
+   "https://www.squawka.com/en/news/previews/eintracht-frankfurt-vs-hoffenheim-predictions-today-21-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72440772",
+  "fx": "First Vienna FC 1894 v Schwarz-Weiss Bregenz",
+  "market_on_code": "Over/Under | Over 2 (total=2)",
+  "odds": 1.4,
+  "p": 0.688,
+  "fresh_news": "Vienna 2nd (26 pts) v Bregenz 9th; Bregenz have taken only 2 away points (weakest away side) and are worried about their top scorer. No Vienna absences reported. H2H favours Bregenz (4 of the last 6).",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "11",
+   "spec": null,
+   "desc": "Home",
+   "odds": 1.3,
+   "p": 0.731
+  },
+  "own_p": 0.72,
+  "reason": "Integer Over 2 is excluded. O1.5 (1.27) is thin: 2 of Bregenz's last 5 had fewer than 2 goals (1-0, 0-0). Home DNB backs the clearer mechanism, the weakest away side with its top scorer doubtful, and refunds the draw.",
+  "sources": [
+   "https://www.forebet.com/en/football/matches/first-vienna-bregenz-2477006",
+   "https://www.ligaportal.at/2-liga/expertentipp/9452-mannis-match-prognosen-fuer-2-liga-runde-13-3-0-siege-fuer-blau-weiss-linz-vienna-und-young-violets"
+  ]
+ },
+ {
+  "eid": "sr:match:72334436",
+  "fx": "FK Rubin Kazan v FK Zenit Saint Petersburg",
+  "market_on_code": "Away Team to Win Either Half | Yes",
+  "odds": 1.32,
+  "p": 0.717,
+  "fresh_news": "Rubin: full squad per Vseprosport. Zenit: Erokhin injured, Odoevsky out; Diveev and Wendel back; Alip, Barrios, Wendel, Sobolev one booking from a ban.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "16",
+   "spec": "hcp=-2",
+   "desc": "Home (+2.0)",
+   "odds": 1.22,
+   "p": 0.794
+  },
+  "own_p": 0.8,
+  "reason": "Win-either-half is hard-excluded, and Zenit away p 0.61 is under the 0.75 away gate. Home +2.0 loses only on a 3-goal Zenit win and refunds on 2. Rubin score just 0.6/g, but they have a full squad and Zenit have conceded in most away games, which caps rout margins. +2.0 is legal (it is +2.5 that is banned at fav p >= 0.60).",
+  "sources": [
+   "https://www.vseprosport.ru/news/2026/11/20/rubin-zenit-prognoz-kf-2-00-i-stavki-na-match-premer-ligi-21-nojabrja-2026-goda",
+   "https://www.sport-weekend.com/futbol/premer-liga-2026-27/263085-pochemu-ne-vse-igroki-osnovnogo-sostava-zenita-sygrayut-s-rubinom"
+  ]
+ },
+ {
+  "eid": "sr:match:72221394",
+  "fx": "Bournemouth v Nottingham Forest",
+  "market_on_code": "Home Team to Win Either Half | Yes",
+  "odds": 1.5,
+  "p": 0.63,
+  "fresh_news": "Bournemouth: Toth and Juanlu out; Araujo, Rayan doubtful; squad otherwise healthy (Rose). Forest: Hudson-Odoi, Dominguez out; Savona, N. Williams, Schlager doubtful (bet365 instead flags Munoz/Diomande/Sangare). Predictions 2-1 / 1-1.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "11",
+   "spec": null,
+   "desc": "Home",
+   "odds": 1.43,
+   "p": 0.674
+  },
+  "own_p": 0.69,
+  "reason": "Win-either-half is hard-excluded. Bournemouth have won 8 straight and conceded 0.17/g at home; Forest have travel disruption and fitness doubts. DNB keeps the home-edge mechanism and protects the draw.",
+  "sources": [
+   "https://www.sportsmole.co.uk/football/bournemouth/injury-news/team-news/bournemouth-vs-nottm-forest-injury-suspension-list-predicted-xis_609374.html",
+   "https://news.bet365.com/en-gb/article/bournemouth-v-nottingham-forest-team-news-and-predicted-lineups/2026111910012876552"
+  ]
+ },
+ {
+  "eid": "sr:match:72221400",
+  "fx": "Coventry City v Crystal Palace",
+  "market_on_code": "Over/Under | Over 3 (total=3)",
+  "odds": 2.25,
+  "p": 0.413,
+  "fresh_news": "Palace: Mateta suspended, Sarr, Tomiyasu, Riad out. It is Thomas Frank's first game in charge; Strand Larsen expected to lead the line. Coventry: Amenda, Wright, Mason-Clark, Eccles out; Woolfenden, Thomas, Yirenkyi doubts.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "16",
+   "spec": "hcp=1",
+   "desc": "Home (+1.0)",
+   "odds": 1.22,
+   "p": 0.795
+  },
+  "own_p": 0.8,
+  "reason": "Over 3 at 2.25 is an integer Over and above 2.2, and both attacks are weakened (Palace without Mateta and Sarr). Coventry +1.0 wins on a Coventry win or draw and refunds on a 1-goal Palace loss; a weakened Palace under a new coach rarely win by 2+.",
+  "sources": [
+   "https://3addedminutes.com/sport/football/crystal-palace-fc/crystal-palace-predicted-lineup-coventry-sarr-frank-9363015",
+   "https://www.racingpost.com/sport/football-tips/premier-league/saturday-premier-league-betting-tips-predictions-and-odds-aiTes5c7e4wg/"
+  ]
+ },
+ {
+  "eid": "sr:match:72221410",
+  "fx": "Tottenham v Ipswich Town",
+  "market_on_code": "Over/Under | Over 3 (total=3)",
+  "odds": 1.81,
+  "p": 0.523,
+  "fresh_news": "Spurs are close to a first-choice XI for the first time under De Zerbi (Savio, Bergvall, Udogie back). Ipswich have lost 4 of their last 7.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=1.5",
+   "desc": "Over 1.5",
+   "odds": 1.18,
+   "p": 0.817
+  },
+  "own_p": 0.82,
+  "reason": "Integer Over 3 is excluded. Ipswich concede 2.6/g away and Spurs' attack is restored; only 1 of each side's last 6 stayed under 2 goals. Over 2.5 (1.59, p 0.60) is too thin for a core.",
+  "sources": [
+   "https://www.sportsmole.co.uk/football/spurs/preview/spurs-vs-ipswich-prediction-team-news-lineups_609360.html",
+   "https://www.aol.co.uk/articles/predicted-tottenham-team-vs-ipswich-073229000.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72340050",
+  "fx": "Swansea City v West Bromwich Albion",
+  "market_on_code": "Asian Handicap -1 | Away (+1.0) (hcp=-1)",
+  "odds": 1.23,
+  "p": 0.792,
+  "fresh_news": "Ashley Williams is interim head coach (with Britton, Allen, O'Leary) after Matos left for Strasbourg. Swansea 6th v WBA 5th, both within 3 points of the top. No new injury news.",
+  "verdict": "KEEP",
+  "replacement": null,
+  "own_p": 0.79,
+  "reason": "WBA +1.0 wins on a draw or WBA win and refunds on a 1-goal Swansea win. With an interim coach debuting and WBA solid away (0.8 GA), a 2+ goal Swansea win is a tail outcome.",
+  "sources": [
+   "https://swanseabaynews.com/swans-getting-the-band-back-together-williams-on-his-return/",
+   "https://britbrief.co.uk/sports/football/swansea-confirm-matos-exit-as-williams-leads-interim-team.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75947244",
+  "fx": "Um Alhassam v Al-Shabab",
+  "market_on_code": "Double Chance | Home or Away",
+  "odds": 1.29,
+  "p": 0.718,
+  "fresh_news": "Not searched (no coverage last night; Gulf second tier).",
+  "verdict": "CUT",
+  "replacement": null,
+  "own_p": 0.71,
+  "reason": "'Home or Away' double chance is hard-excluded and this is a thin Gulf league with conflicting standings. No researched replacement.",
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72366462",
+  "fx": "Royal Charleroi SC v St. Truidense VV",
+  "market_on_code": "Corners - Over/Under | Over 8.5 (total=8.5)",
+  "odds": 1.34,
+  "p": 0.71,
+  "fresh_news": "No fresh line-up/injury news for this fixture.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=1.5",
+   "desc": "Over 1.5",
+   "odds": 1.18,
+   "p": 0.827
+  },
+  "own_p": 0.8,
+  "reason": "Corners 166 are hard-excluded. Charleroi score 2.3/g (3.0 at home) and STVV score 1.8/g but concede; Belgian Pro League averages about 2.9. Two of Charleroi's last 6 were 1-0, so own p sits a little under the house.",
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74886176",
+  "fx": "Ranchers Bees v Plateau United",
+  "market_on_code": "Over/Under | Over 1.5 (total=1.5)",
+  "odds": 1.39,
+  "p": 0.678,
+  "fresh_news": "Conflict persists: NPFL/Soccernet/NigFooty list Fri 20 Nov 18:00 WAT at Bako Kontagora, Minna; the club site lists Sun 16:00 at Kaduna Township; Escore lists Sun 22. No result found.",
+  "verdict": "CUT",
+  "replacement": null,
+  "own_p": 0.0,
+  "reason": "Binding date/venue veto still stands (three dates, two venues). NPFL O1.5 is also a thin/low-scoring class (Ranchers home 1.0 GF, 0.4 GA).",
+  "sources": [
+   "https://soccernet.ng/2026/11/npfl-matchday-14-rangers-kano-pillars-ikorodu-fixtures.html",
+   "https://www.nigfooty.com/2026/11/npfl-matchday-14-fixtures-and-updated.html",
+   "https://plateauunitedfc.com/",
+   "https://escore.com/en/en/game/ranchers-bees-kaduna-plateau-united/639039"
+  ]
+ },
+ {
+  "eid": "sr:match:72201718",
+  "fx": "Celtic v St Mirren FC",
+  "market_on_code": "Over/Under | Over 2.5 (total=2.5)",
+  "odds": 1.36,
+  "p": 0.713,
+  "fresh_news": "Celtic: Baur out 6-10 weeks, Nygren major doubt (heel), Donovan conflicting, Trusty back. St Mirren: Agrafiotis, Baccus out. Celtic 4 pts clear. Odds have shortened to 1.29 (p 0.753).",
+  "verdict": "KEEP",
+  "replacement": null,
+  "own_p": 0.69,
+  "reason": "Celtic need 3 or 2-1 against a St Mirren side scoring 0.4/g away with a long absence list. Celtic home games have been lively (3-2, 2-2, 1-2). Marginal; own p is below the house. Not a big-club clash.",
+  "sources": [
+   "https://www.scotsman.com/sport/football/celtic/latest-celtic-news/celtic-vs-st-mirren-injury-news-4-out-and-several-doubts-as-martin-oneill-sweats-on-key-trio-9357875",
+   "https://dave.sport/news/celtic-team-news-st-mirren-baur-nygren/"
+  ]
+ },
+ {
+  "eid": "sr:match:72221392",
+  "fx": "Aston Villa v Sunderland AFC",
+  "market_on_code": "Over/Under | Over 1.5 (total=1.5)",
+  "odds": 1.25,
+  "p": 0.773,
+  "fresh_news": "Villa (official): Onana, Ruggeri out, Cash concussion; Manzambi, Wan-Bissaka back. Sunderland: Xhaka, Brobbey, Mundle, Diarra, Ballard all out. Predictions 1-1 / 3-2.",
+  "verdict": "KEEP",
+  "replacement": null,
+  "own_p": 0.78,
+  "reason": "Villa's last 6 league games all had 2+ goals (4-4, 1-1, 2-1, 3-1) and Sunderland's defence is without Ballard and Xhaka. Premier League O1.5 meets the 2.7 average gate.",
+  "sources": [
+   "https://www.avfc.co.uk/news/2026/november/20/prematch-team-news-for-black-cats-battle/",
+   "https://www.sportsmole.co.uk/football/aston-villa/injury-news/team-news/aston-villa-vs-sunderland-injury-suspension-list-predicted-xis_609376.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72041260",
+  "fx": "NEC Nijmegen v PSV Eindhoven",
+  "market_on_code": "Over/Under | Over 3 (total=3)",
+  "odds": 1.4,
+  "p": 0.693,
+  "fresh_news": "NEC: Schuurs, Nuytinck, Emre Mor out; Sandler suffered a setback (out, per most sources; Squawka disagrees); Fonville doubtful. PSV: Schouten, Plea, Ouaissa, Nagalo out; Dest doubtful/out; Wanner uncertain; Bosz rests a regular.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=2.5",
+   "desc": "Over 2.5",
+   "odds": 1.31,
+   "p": 0.745
+  },
+  "own_p": 0.75,
+  "reason": "Integer Over 3 is excluded. NEC are fielding a makeshift back line (3-4 centre-backs missing) against PSV's attack (2.4 GF/g), and NEC home games are open. Over 1.5 is 1.09, below the floor. Flag: last night applied the big-club totals gate (p >= 0.82) here; I read it as a one-big-club fixture, not a clash. If the caller applies the gate, CUT.",
+  "sources": [
+   "https://www.voetbalnieuws.nl/nieuws/2160861/nec-kampt-met-defensieve-zorgen-terugslag-sandler-fonville-vraagteken-vn.html",
+   "https://www.forzanec.nl/nieuws/de-opstelling-problemen-in-achterhoede-in-aanloop-naar-clash-met-psv/",
+   "https://www.fcupdate.nl/voetbalnieuws/2026/11/peter-bosz-vermoedelijke-opstelling-psv-nec"
+  ]
+ },
+ {
+  "eid": "sr:match:72680292",
+  "fx": "Alemannia Aachen v SV Waldhof Mannheim 07",
+  "market_on_code": "Double Chance | Home or Away",
+  "odds": 1.27,
+  "p": 0.746,
+  "fresh_news": "Not re-searched this morning; last night: Aachen without Koester (suspended), Mannheim with no official absences.",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "18",
+   "spec": "total=1.5",
+   "desc": "Over 1.5",
+   "odds": 1.17,
+   "p": 0.827
+  },
+  "own_p": 0.81,
+  "reason": "'Home or Away' DC is hard-excluded (D2 converts it to O1.5/DNB). 3. Liga averages above 3 goals; Mannheim's last 6 all had 2+ goals, Aachen's 5 of 6. Caveat: 1.17 is just below the floor; no researched result-side (near-even, Koester out).",
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72723336",
+  "fx": "Kocaelispor v Fenerbahce Istanbul",
+  "market_on_code": "Over/Under | Over 3 (total=3)",
+  "odds": 2.15,
+  "p": 0.44,
+  "fresh_news": "KO 19:00 TRT Sat confirmed (beIN 1; one outlet says 20:00). Fener (Belozoglu): Asensio, Ake out, Archie Brown suspended; Lukaku, Greenwood, Kante expected. Kocaeli: Petkovic, Haidara, Show out, Zoukrou doubt. Fener unbeaten in the last 10 H2H (8W 2D).",
+  "verdict": "CONVERT",
+  "replacement": {
+   "mid": "16",
+   "spec": "hcp=0",
+   "desc": "Away (0)",
+   "odds": 1.23,
+   "p": 0.791
+  },
+  "own_p": 0.78,
+  "reason": "Integer Over 3 at 2.15 needs 4+ goals and Kocaeli concede just 0.4/g at home, so it is excluded. Fener away p 0.62 is below the 0.75 gate, so DNB, backed by an unbeaten H2H run and a full-strength attack.",
+  "sources": [
+   "https://www.aydinlik.com.tr/haber/kocaelispor-fenerbahce-maci-saat-kacta-hangi-kanalda-21-kasim-2026-muhtemel-11ler-599938",
+   "https://www.gzt.com/spor/kocaelispor-fenerbahce-maci-muhtemel-11leri-emre-belozoglu-kocaelispor-fb-mac-kadrosunu-belirledi-iki-takimda-da-uc-eksik-var-4281251",
+   "https://www.aspor.com.tr/fenerbahce/2026/11/21/fenerbahce-seriye-baslamak-istiyor-iste-emre-belozoglunun-kocaelispor-maci-muhtemel-11i"
+  ]
+ }
+]
