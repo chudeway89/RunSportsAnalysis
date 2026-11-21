@@ -1,0 +1,583 @@
+[
+ {
+  "eid": "sr:match:75335854",
+  "fx": "CD Chanares v UD San Jose",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women. Chanares 1-6 in Apertura (lost 74-93 at Rocamora); San Jose 2-5 after losing 61-66 at Hindu. Bottom-half clash.",
+  "news": "Standings only; no team news found. No date conflict found for this game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks per rules.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.unocontraunoweb.com/2026/11/16/rocamora-y-el-talar-ganaron-en-la-noche-del-domingo",
+   "https://www.analisisdigital.com.ar/deportes/2026/11/16/tomas-rocamora-gano-y-aseguro-los-playoffs-en-la-liga-femenina-de-basquet",
+   "https://www.losandes.com.ar/deportes/liga-femenina-basquet-rocamora-el-talar-e-independiente-lideran-las-tres-conferencias-n6014655"
+  ]
+ },
+ {
+  "eid": "sr:match:76190854",
+  "fx": "Hindu Club v Tomas de Rocamora",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women. Rocamora 6-0, clinched playoffs; Hindu 6-2, second in Conferencia Norte. Top-of-table clash.",
+  "news": "A Nov 17 preview lists Hindu v Rocamora at 21:00 but names both Wed 18 and Sat 21 Nov as the date.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (Wed 18 vs Sat 21 Nov); women's league.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.unocontraunoweb.com/2026/11/16/rocamora-y-el-talar-ganaron-en-la-noche-del-domingo",
+   "https://www.analisisdigital.com.ar/deportes/2026/11/16/tomas-rocamora-gano-y-aseguro-los-playoffs-en-la-liga-femenina-de-basquet",
+   "https://www.losandes.com.ar/deportes/liga-femenina-basquet-rocamora-el-talar-e-independiente-lideran-las-tres-conferencias-n6014655"
+  ]
+ },
+ {
+  "eid": "sr:match:74998120",
+  "fx": "La Union Formosa v Independiente de Oliva",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "LNB 2026-27; Oliva near the bottom (18th per Wikipedia). Met in last season's playoffs (Oliva won 3 of 4).",
+  "news": "365Scores lists an Independiente de Oliva v La Union game on Tue 17 Nov 18:00, with an unclear status; the official league site gave no detail.",
+  "veto": true,
+  "veto_reason": "Possible date conflict: same fixture listed on 17 Nov by 365Scores, not reconciled with the 22 Nov 00:30 UTC SportyBet slot.",
+  "picks": [],
+  "avoid": "Wide-line Over 156.5 (p 0.80) would otherwise be the only candidate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/basketball/match/liga-a-403/independiente-de-oliva-la-union-8795-72002-403",
+   "https://es.wikipedia.org/wiki/Liga_Nacional_de_B%C3%A1squet_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:72704690",
+  "fx": "Canberra Capitals v Tasmania Jewels",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women, WNBL27 Indigenous Round. Canberra 3-2 at home (AIS Arena, 1pm AEDT = 02:00 UTC, matches).",
+  "news": "Date and time confirmed by WNBL and Austadiums.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.wnbl.com.au/fixtures-current-season",
+   "https://www.austadiums.com/sport/comp/wnbl/events",
+   "https://bendigospirit.wnbl.com.au/news/wnbl27-fixture-release-spirit-again-set-to-connect-regional-victoria"
+  ]
+ },
+ {
+  "eid": "sr:match:72016906",
+  "fx": "SE Melbourne Phoenix v Cairns Taipans",
+  "sport": "basketball",
+  "absences": "Cairns: Jaylin Galloway (back, ~R14), Lachlan Anderson (back, ~Dec 15) out; Walter Brown (ankle) due back ~R9; Sunday Dech (hamstring) fitness test. SEM: Hunter Goodrick (knee) TBC.",
+  "context": "NBL27 regular season. Cairns 7-3 over last 10 despite injuries; SEM 4-6 and scoring 103/conceding 102.",
+  "news": "Injury lists only (NBL page updated Nov 20); no game preview found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=186.5",
+    "desc": "Over 186.5",
+    "odds": 1.22,
+    "p": 0.7895,
+    "why": "Fixture-specific: 18 of last 20 team games went over 186.5 (trend 0.90); SEM games average ~205 total. Cairns' thin rotation does not lower pace much. My p ~0.81."
+   }
+  ],
+  "avoid": "Under 210.5-212.5 (Unders need p>=0.82); ML near 50/50.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.basketball.com.au/news/nbl-injury-report",
+   "https://www.nbl.com.au/news/nbl26-the-latest-injury-updates",
+   "https://nbl.com.au/news/kings-duo-kendric-davis-torrey-craig-in-doubt-for-bullets-fixture",
+   "https://www.bets.com.au/basketball/nbl/brisbane-bullets-vs-sydney-kings-nbl27-round-10-tips-20261118-0013/",
+   "https://www.taipans.com/news/taipans-injury-update-round-9"
+  ]
+ },
+ {
+  "eid": "sr:match:72704692",
+  "fx": "Townsville Fire v Bendigo Spirit",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women, WNBL27 Indigenous Round. Townsville 5-2, four straight wins, second; Bendigo 1-9 over last 10.",
+  "news": "WNBL/Austadiums list it for Sun 22 Nov at 3pm AEDT, but Bendigo's own fixture release had their Indigenous Round game v Tasmania on Thu 26 Nov.",
+  "veto": true,
+  "veto_reason": "Fixture-list conflict for Bendigo's Indigenous Round game; women's league.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.wnbl.com.au/fixtures-current-season",
+   "https://www.austadiums.com/sport/comp/wnbl/events",
+   "https://bendigospirit.wnbl.com.au/news/wnbl27-fixture-release-spirit-again-set-to-connect-regional-victoria"
+  ]
+ },
+ {
+  "eid": "sr:match:72016908",
+  "fx": "Brisbane Bullets v Sydney Kings",
+  "sport": "basketball",
+  "absences": "Sydney: Kendric Davis (quad, 23.3ppg) and Torrey Craig (groin, 18.6ppg) DOUBTFUL, game-day fitness tests. Brisbane: Arnas Velicka (lower limb, out to early Dec), Sam McDaniel (lower leg) and Jacob Holt (ankle) out for R10.",
+  "context": "NBL27 Round 10. Sydney top at 9-4; Brisbane 7th at 6-8 and has lost three straight, with a league-high 14.5 turnovers.",
+  "news": "The Kings' top two scorers are doubtful; Brisbane is also short-handed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=11.5",
+    "desc": "Home (+11.5)",
+    "odds": 1.41,
+    "p": 0.6742,
+    "why": "Mechanism: Sydney's top two scorers (42ppg) are doubtful, which caps the Kings' winning margin; Brisbane is at home. Last 6 Kings wins were by 9, 11, 3, 8 points. My p ~0.72 vs house 0.67."
+   }
+  ],
+  "avoid": "Kings ML/-6.5 (star status unknown); Over 179.5 (Kings scoring falls if Davis/Craig sit); Unders (p<0.82).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.basketball.com.au/news/nbl-injury-report",
+   "https://www.nbl.com.au/news/nbl26-the-latest-injury-updates",
+   "https://nbl.com.au/news/kings-duo-kendric-davis-torrey-craig-in-doubt-for-bullets-fixture",
+   "https://www.bets.com.au/basketball/nbl/brisbane-bullets-vs-sydney-kings-nbl27-round-10-tips-20261118-0013/",
+   "https://www.taipans.com/news/taipans-injury-update-round-9"
+  ]
+ },
+ {
+  "eid": "sr:match:75303454",
+  "fx": "Tainan TSG Ghosthawks v Taoyuan Pauian Pilots",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "P.League+. Taoyuan reigning champions per EASL, but 4-6 over last 10; Tainan 5-5 and won both recent H2H (115-94, 105-79).",
+  "news": "No schedule or news found for this date.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 0.65 is below threshold; no total at p>=0.74 in range.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/P._League+",
+   "https://www.easl.basketball/news/3-p-league-teams-set-for-2026-27-easl-season"
+  ]
+ },
+ {
+  "eid": "sr:match:72838616",
+  "fx": "BK Loko Trutnov v Sokol Hradec Kralove",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women, ZBL round 8. Both sides poor (Trutnov 3-7, Hradec 1-9).",
+  "news": "Official ZBL site: TRU v HKR on 22.11 at 10:30 CET (09:30 UTC, matches).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://zbl.basketball/",
+   "https://srsni.com/article/182-Rozpis-zapasu",
+   "https://cz.basketeurope.com/rozpis/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114292381",
+  "fx": "Manchester Basketball Women v Nottingham Wildcats Women",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women; no Sportradar form data. Handicap centre -39.5 means a huge mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league with no data: no picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74320794",
+  "fx": "Sao Jose dos Campos v SC Corinthians Paulista",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NBB 2026-27. SC Corinthians played Thu 19 Nov (beat Pato with a strong three-point night), so this is a short turnaround on the road. Sao Jose 3-7.",
+  "news": "Confirmed Sun 22 Nov 11h BRT (14:00 UTC) at Ginasio Linneu de Moura; round numbering differs between sources (9th/10th/7th).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Corinthians ML 0.60 is below threshold.",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://agoravale.com.br/noticias/esporte/sao-jose-basketball-enfrenta-o-corinthians-neste-domingo-22-pelo-nbb",
+   "https://pbesportes.net/2026/11/20/em-noite-inspirada-unifacisa-atropela-o-flamengo-e-mantem-100-em-casa-no-nbb-2026-27/",
+   "https://www.meutimao.com.br/noticias-do-corinthians/544425/com-show-de-bolas-de-tres-corinthians-segura-reacao-do-pato-e-vence-mais-uma-pelo-nbb",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/20/nbb-tem-tres-jogos-nesta-sexta-com-franca-x-uniao-corinthians-na-espn",
+   "https://www.correiodamanha.com.br/nacional/sao-paulo/campinas/2026/11/336325-corinthians-busca-protecao-judicial-para-renegociar-divida.html",
+   "https://www.lance.com.br/nbb/mogi-supera-sao-jose-e-vence-a-sexta-seguida-no-nbb.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74320796",
+  "fx": "Brasilia Basquete v Pato Basquete",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NBB. Pato 2-6 per the LNB table; played Thu 19 Nov in Sao Paulo (lost to Corinthians), then travels to Brasilia. Brasilia lost 87-91 to Flamengo earlier.",
+  "news": "LNB and Sofascore: 22/11 11:15 BRT at Arena Nilson Nelson (14:15 UTC, matches).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.14 is below the odds floor; no handicap of 8.5+ at p>=0.6 inside the odds band.",
+  "confidence": 0.2,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://agoravale.com.br/noticias/esporte/sao-jose-basketball-enfrenta-o-corinthians-neste-domingo-22-pelo-nbb",
+   "https://pbesportes.net/2026/11/20/em-noite-inspirada-unifacisa-atropela-o-flamengo-e-mantem-100-em-casa-no-nbb-2026-27/",
+   "https://www.meutimao.com.br/noticias-do-corinthians/544425/com-show-de-bolas-de-tres-corinthians-segura-reacao-do-pato-e-vence-mais-uma-pelo-nbb",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/20/nbb-tem-tres-jogos-nesta-sexta-com-franca-x-uniao-corinthians-na-espn",
+   "https://www.correiodamanha.com.br/nacional/sao-paulo/campinas/2026/11/336325-corinthians-busca-protecao-judicial-para-renegociar-divida.html",
+   "https://www.lance.com.br/nbb/mogi-supera-sao-jose-e-vence-a-sexta-seguida-no-nbb.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73496006",
+  "fx": "Swarco Raiders Tirol v Mattersburg Rocks",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Austrian Zweite Liga. Raiders took 1st in the West with a 90-85 away win at the previously unbeaten Worthersee Piraten. Mattersburg have won 3 of their last 5 and beat the Raiders 101-65 in Jan 2026 (last season).",
+  "news": "Raiders site and MCI page: Sun 22 Nov 16:00 CET at Landessportcenter Tirol (15:00 UTC, matches).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.8001,
+    "why": "Mechanism: West leaders at home after beating the unbeaten Piraten; Mattersburg score 71.8 v Raiders 92.9 over last 10. Last season's 101-65 loss is a caution. My p ~0.78."
+   }
+  ],
+  "avoid": "Handicap -8.5 (thin league, Mattersburg on an upswing).",
+  "confidence": 0.25,
+  "sources": [
+   "https://mattersburg-rocks.at/2026/vorschau-auf-den-8-spieltag-rocks-muessen-nach-tirol/",
+   "https://www.raiders-tirol.com/basketball/",
+   "https://www.mci4me.at/en/student-life/student-life-swarco-raiders-tirol"
+  ]
+ },
+ {
+  "eid": "sr:match:74075858",
+  "fx": "Rilski Sportist v Cherno More IG",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Bulgarian NBL round 7. Rilski playing midweek FIBA Europe Cup (5th straight group-stage loss: fatigue and morale). Cherno More beat Politehnika on Nov 14, ending a two-game losing run.",
+  "news": "Official league site: Rilski v Cherno More 22 Nov 18:00 local (16:00 UTC), but SportyBet lists 15:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict (18:00 EET = 16:00 UTC per the league vs 15:00 UTC on SportyBet); Rilski in European-cup congestion.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.15,
+  "sources": [
+   "https://nbl.basketball.bg/games",
+   "https://www.bta.bg/bg/news/sport/1249717-basketbolniyat-rilski-sportist-dopusna-peta-zaguba-v-grupovata-faza-na-turnira-f",
+   "https://www.budnavarna.com/2026/11/14/basketbolniyat-cherno-more-pobedi-politehnika-v-nbl/",
+   "https://basketball.realgm.com/international/league/26/bulgarian-nbl"
+  ]
+ },
+ {
+  "eid": "sr:match:73063634",
+  "fx": "Helsingin Nmky v Aanekosken Huima",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Finnish I-divisioona A. HNMKY 1-9 over last 10; Huima 5-5.",
+  "news": "The Flashscore season page lists the fixture but without a date, and it is absent from the dated 13-22 Nov entries.",
+  "veto": false,
+  "veto_reason": "Date not confirmed by any source (not a direct conflict).",
+  "picks": [],
+  "avoid": "All markets: thin league, near 50/50, no data.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.fi/koripallo/suomi/i-divisioona-a/",
+   "https://tulospalvelu.basket.fi/team/661/info"
+  ]
+ },
+ {
+  "eid": "sr:match:74075862",
+  "fx": "Lokomotiv Plovdiv 1926 v Shumen",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Bulgarian NBL. Lokomotiv runners-up last season; Shumen 4-6 over last 10.",
+  "news": "Not found on the 22 Nov league programme in search; a stale RealGM page shows Shumen @ Loko on Nov 23 (likely an old season).",
+  "veto": false,
+  "veto_reason": "Date unconfirmed; no picks.",
+  "picks": [],
+  "avoid": "ML 1.05 is below the floor; handicap -14.5 is the centre.",
+  "confidence": 0.1,
+  "sources": [
+   "https://nbl.basketball.bg/games",
+   "https://www.bta.bg/bg/news/sport/1249717-basketbolniyat-rilski-sportist-dopusna-peta-zaguba-v-grupovata-faza-na-turnira-f",
+   "https://www.budnavarna.com/2026/11/14/basketbolniyat-cherno-more-pobedi-politehnika-v-nbl/",
+   "https://basketball.realgm.com/international/league/26/bulgarian-nbl"
+  ]
+ },
+ {
+  "eid": "sr:match:72629072",
+  "fx": "Basket Brno U23 v Turi Svitavy",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Czech 1. Liga. Brno U23 is a youth/reserve side.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth side: no picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72838618",
+  "fx": "Basket Ostrava v KP Brno",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women, ZBL round 8. KP Brno heavy favourite (p 0.89).",
+  "news": "Official ZBL site: OVA v KPB on 22.11 at 17:00 CET (16:00 UTC, matches).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://zbl.basketball/",
+   "https://srsni.com/article/182-Rozpis-zapasu",
+   "https://cz.basketeurope.com/rozpis/"
+  ]
+ },
+ {
+  "eid": "sr:match:73810020",
+  "fx": "Liverpool v Leicester Riders",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "SLB. Liverpool 5-5 (strong at home: 4-1 in the last 5 home games); Leicester 2-8 over last 10.",
+  "news": "Wheres The Match: 22 Nov 16:00 GMT at M&S Bank Arena; RealGM: 10:00 ET (15:00 GMT).",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (15:00 vs 16:00 GMT).",
+  "picks": [],
+  "avoid": "Liverpool ML 0.65 is below threshold anyway.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.wheresthematch.com/live-basketball-on-tv/",
+   "https://basketball.realgm.com/international/league/161/Super-League-Basketball/team/957/Leicester-Riders/schedule",
+   "https://www.koobit.com/super-league-basketball-c220",
+   "https://www.manchester.basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:73810018",
+  "fx": "Manchester Basketball v London Lions",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "SLB. London 7-3 over last 10; Manchester 5-5.",
+  "news": "Wheres The Match gives 15:00 GMT (SportyBet 16:00 UTC); venue differs (Belle Vue per Koobit v the NBPC per the club site).",
+  "veto": true,
+  "veto_reason": "Kick-off and venue conflict between sources.",
+  "picks": [],
+  "avoid": "London ML p 0.73 is below 0.75.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.wheresthematch.com/live-basketball-on-tv/",
+   "https://basketball.realgm.com/international/league/161/Super-League-Basketball/team/957/Leicester-Riders/schedule",
+   "https://www.koobit.com/super-league-basketball-c220",
+   "https://www.manchester.basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:73829036",
+  "fx": "BK Duchess v Basket Flames",
+  "sport": "basketball",
+  "absences": "Duchess added Flora God and Iva Ilic to the roster on Nov 20; earlier reports describe a depleted (ersatzgeschwacht) squad.",
+  "context": "Women, Austrian Superliga. Flames beat Duchess 60-54 on Oct 18 (round 5); Duchess want revenge at home. Direct table neighbours.",
+  "news": "Confirmed Sun 22 Nov in Klosterneuburg (Happyland).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks. Also the Flames won the last H2H, so the Duchess -11.5 centre looks rich.",
+  "confidence": 0.1,
+  "sources": [
+   "https://bk-klosterneuburg.at/duchess-brennen-auf-revanche-gegen-die-basket-flames/",
+   "https://bk-klosterneuburg.at/flora-goed-und-iva-ilic-neu-im-duchess-kader/",
+   "https://basketflames.at/news/pink-game-sensation/"
+  ]
+ },
+ {
+  "eid": "sr:match:72628590",
+  "fx": "Baketball Polabi v Valecnici Decin",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Czech 1. Liga. Decin 7-3 (likely the Armex Decin B/farm side) v Polabi 2-8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Possible reserve side; ML 1.35 p 0.70 is below threshold.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74998608",
+  "fx": "Mladost Mrkonjic v KK Sloboda Tuzla",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Bosnian 1st Division. Sloboda 7-3 (91.3 for, 76.9 against); Mladost 3-7. Historic H2H in Mrkonjic Grad favours the home side (83-76, 79-66 wins), but Sloboda won 104-77 in Nov 2025.",
+  "news": "No 2026 coverage found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sloboda away ML 1.23 (p 0.77): no news and an awkward away venue history, so skipped.",
+  "confidence": 0.15,
+  "sources": [
+   "https://tuzlanski.ba/sport/kosarka/kosarkasi-slobode-porazeni-od-mladosti-u-mrkonjic-gradu/581676",
+   "https://www.proballers.com/basketball/game/851472/okk-sloboda-tuzla-mladost-mrkonjic-grad-2025-11-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72627124",
+  "fx": "Sluneta Usti nad Labem v USK Prague",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Czech NBL. Usti 6-4 (3rd per one table); USK 6-4.",
+  "news": "No current preview; the schedule sources are inconsistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML p 0.63 is below threshold.",
+  "confidence": 0.1,
+  "sources": [
+   "https://zbl.basketball/",
+   "https://srsni.com/article/182-Rozpis-zapasu",
+   "https://cz.basketeurope.com/rozpis/"
+  ]
+ },
+ {
+  "eid": "sr:match:72627122",
+  "fx": "Srsni Pisek v BK Lokomotiva Plzen",
+  "sport": "basketball",
+  "absences": "Plzen announced a new signing (Denik).",
+  "context": "Czech NBL round 14. Pisek 7-3 and beat Plzen 88-81 away in round 3; Plzen 1-9.",
+  "news": "Pisek official schedule: Sun 22 Nov 17:00 CET (16:00 UTC); SportyBet lists 17:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict (16:00 UTC per the club v 17:00 UTC on SportyBet).",
+  "picks": [],
+  "avoid": "ML 1.02; -22.5 is the centre.",
+  "confidence": 0.15,
+  "sources": [
+   "https://zbl.basketball/",
+   "https://srsni.com/article/182-Rozpis-zapasu",
+   "https://cz.basketeurope.com/rozpis/",
+   "https://plzensky.denik.cz/basketbal/basketbal-lokomotiva-plzen-srsni-pisek-nova-posila/"
+  ]
+ },
+ {
+  "eid": "sr:match:73810022",
+  "fx": "Cheshire Phoenix v Caledonia Gladiators",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "SLB. Cheshire 5-5; Caledonia 4-6.",
+  "news": "Koobit lists it on 22 Nov at Cheshire Oaks Arena; no time conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.13 is below the floor; +10.5 is the centre.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.wheresthematch.com/live-basketball-on-tv/",
+   "https://basketball.realgm.com/international/league/161/Super-League-Basketball/team/957/Leicester-Riders/schedule",
+   "https://www.koobit.com/super-league-basketball-c220",
+   "https://www.manchester.basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:74320792",
+  "fx": "Fortaleza Basquete Cearense v Flamengo RJ",
+  "sport": "basketball",
+  "absences": "Flamengo played Fri 20 Nov and were routed at Unifacisa: a two-day turnaround with travel to Fortaleza.",
+  "context": "NBB. Fortaleza (Basquete Cearense) 2-8; Flamengo 7-3.",
+  "news": "Flamengo.com.br and PB Esportes give 16h BRT (19:00 UTC), but the official LNB table lists 11h.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict (LNB table 11h v club/news 16h); Flamengo on a short rest.",
+  "picks": [],
+  "avoid": "ML 1.02; -20.5 is the centre.",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://agoravale.com.br/noticias/esporte/sao-jose-basketball-enfrenta-o-corinthians-neste-domingo-22-pelo-nbb",
+   "https://pbesportes.net/2026/11/20/em-noite-inspirada-unifacisa-atropela-o-flamengo-e-mantem-100-em-casa-no-nbb-2026-27/",
+   "https://www.meutimao.com.br/noticias-do-corinthians/544425/com-show-de-bolas-de-tres-corinthians-segura-reacao-do-pato-e-vence-mais-uma-pelo-nbb",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/20/nbb-tem-tres-jogos-nesta-sexta-com-franca-x-uniao-corinthians-na-espn",
+   "https://www.correiodamanha.com.br/nacional/sao-paulo/campinas/2026/11/336325-corinthians-busca-protecao-judicial-para-renegociar-divida.html",
+   "https://www.lance.com.br/nbb/mogi-supera-sao-jose-e-vence-a-sexta-seguida-no-nbb.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74320798",
+  "fx": "Mogi das Cruzes v CA Paulistano SP",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NBB. Mogi 9-1, six straight wins; Paulistano 3-7, struggling away (1-5 in recent away games).",
+  "news": "LNB and Correio da Manha: 22/11 17h BRT (20:00 UTC, matches); an older Lance note said Mon 16 (stale).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.17 is below the floor; handicaps 8.5+ are priced outside 1.18-2.2 at p>=0.6.",
+  "confidence": 0.2,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://agoravale.com.br/noticias/esporte/sao-jose-basketball-enfrenta-o-corinthians-neste-domingo-22-pelo-nbb",
+   "https://pbesportes.net/2026/11/20/em-noite-inspirada-unifacisa-atropela-o-flamengo-e-mantem-100-em-casa-no-nbb-2026-27/",
+   "https://www.meutimao.com.br/noticias-do-corinthians/544425/com-show-de-bolas-de-tres-corinthians-segura-reacao-do-pato-e-vence-mais-uma-pelo-nbb",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/20/nbb-tem-tres-jogos-nesta-sexta-com-franca-x-uniao-corinthians-na-espn",
+   "https://www.correiodamanha.com.br/nacional/sao-paulo/campinas/2026/11/336325-corinthians-busca-protecao-judicial-para-renegociar-divida.html",
+   "https://www.lance.com.br/nbb/mogi-supera-sao-jose-e-vence-a-sexta-seguida-no-nbb.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74320800",
+  "fx": "Bauru Basket SP v EC Uniao Corinthians",
+  "sport": "basketball",
+  "absences": "Uniao Corinthians played Fri 20 Nov at Franca: a two-day turnaround with travel.",
+  "context": "NBB. Bauru 3-7 (beat Flamengo 82-81 in round 1); Uniao Corinthians 5-5.",
+  "news": "Confirmed 22/11 18h BRT (21:00 UTC) at Panela de Pressao.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Bauru ML p 0.59 is below threshold; the visitors' fatigue leans home but there is no market to exploit.",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://agoravale.com.br/noticias/esporte/sao-jose-basketball-enfrenta-o-corinthians-neste-domingo-22-pelo-nbb",
+   "https://pbesportes.net/2026/11/20/em-noite-inspirada-unifacisa-atropela-o-flamengo-e-mantem-100-em-casa-no-nbb-2026-27/",
+   "https://www.meutimao.com.br/noticias-do-corinthians/544425/com-show-de-bolas-de-tres-corinthians-segura-reacao-do-pato-e-vence-mais-uma-pelo-nbb",
+   "https://www.otempo.com.br/sports/basquete/nbb/2026/11/20/nbb-tem-tres-jogos-nesta-sexta-com-franca-x-uniao-corinthians-na-espn",
+   "https://www.correiodamanha.com.br/nacional/sao-paulo/campinas/2026/11/336325-corinthians-busca-protecao-judicial-para-renegociar-divida.html",
+   "https://www.lance.com.br/nbb/mogi-supera-sao-jose-e-vence-a-sexta-seguida-no-nbb.html"
+  ]
+ },
+ {
+  "eid": "sr:match:77003734",
+  "fx": "SESI / Araraquara v Campinas Basquete",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women, Paulista semifinal (best of five). SESI won G1 90-68, Campinas won G2 62-44, SESI won G3 78-61 (Nov 16). G4 was Fri 20; Sportradar shows SESI lost 41-42, so G5 is on.",
+  "news": "Game 5 announced for Sun 22 Nov 19h BRT (22:00 UTC) in Araraquara v SportyBet 21:00 UTC; Portal Morada headline says SESI already reached the final.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict (22:00 v 21:00 UTC) and a conflicting report that the series already ended; women's.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://araraquara.sesisp.org.br/noticia/sesi-araraquara-enfrenta-unimed-campinas-pelo-campeonato-paulista-de-basquete-feminino",
+   "https://portalmorada.com.br/sesi-araraquara-vence-campinas-e-vai-a-final-do-paulista-feminino/",
+   "https://portalmorada.com.br/em-campinas-sesi-araraquara-vence-jogo-3-da-semifinal-do-paulista"
+  ]
+ }
+]

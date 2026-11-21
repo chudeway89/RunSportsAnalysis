@@ -1,0 +1,547 @@
+[
+ {
+  "eid": "sr:match:73734728",
+  "fx": "CSKA Moscow v BC Uniks Kazan",
+  "sport": "basketball",
+  "absences": "UNICS: Alexei Shved out (hand, return targeted 6 Dec). CSKA: Elatontsev reported out (stavka.tv, unofficial).",
+  "context": "VTB League; CSKA defending champion, 10-0 in league (7-0 home); UNICS 3rd, beat Yenisei 82-68 on 18 Nov, beat CSKA 79-59 in 2026 Supercup. Bogachev tied the UNICS players' extended break (next game 6 Dec) to performance v CSKA -> motivated receiver. Tip 17:00 MSK = 14:00 UTC (official CSKA site) matches SportyBet; one ticket site shows 00:00 (data error).",
+  "news": "Shved still out; UNICS motivated before a 2-week break; CSKA unbeaten in league.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7548,
+    "why": "CSKA 10-0 league / 7-0 home; UNICS without Shved. But UNICS beat CSKA in Supercup and is motivated (break bonus) -> my p ~0.75, no edge over house; marginal ML at the 0.75 floor, fill only."
+   }
+  ],
+  "avoid": "Handicap -8.5 (UNICS credible, motivated); totals at ~0.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://cskabasket.com/game/4687/",
+   "https://matchtv.ru/basketball/matchtvnews_NI2387289_Prezident_UNIKSa_Bogachev_Budem_nadejatsa_chto_Aleksej_Shved_vernetsa_6_dekabra",
+   "https://tvchelny.ru/news/tsentralnye-temy/bogacev-postavil-basketbolistam-uniksa-uslovie-po-igre-s-cska",
+   "https://stavka.tv/matches/basketball/22-11-2026-cska-moscow-uniks-kazan"
+  ]
+ },
+ {
+  "eid": "sr:match:73432176",
+  "fx": "Derthona Basket v Olimpia Milano",
+  "sport": "basketball",
+  "absences": "No named absences found for this round.",
+  "context": "Serie A; Milano 2 pts behind leader Virtus; tip 16:00 local = 15:00 UTC matches. Milano EuroLeague midweek (Thu/Fri) -> possible fatigue. Big-club away side.",
+  "news": "Preview (OA Sport) confirms fixture/time; no injury report found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Milano away ML p 0.68 < 0.75; big-club clash -> no result-side.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.oasport.it/2026/11/basket-trasferta-a-tortona-per-lolimpia-milano-in-serie-a-la-virtus-bologna-attende-la-bc-roma-napoli-sfida-trento/",
+   "https://sportando.basketball/pallacanestro-varese-reyer-venezia-la-situazione-e-dove-vederla-in-tv/",
+   "https://www.virtus.it/calendari/calendario-eurolega-virtus-bologna/"
+  ]
+ },
+ {
+  "eid": "sr:match:73442106",
+  "fx": "Milano Basket Stars v CUS Cagliari Basketball",
+  "sport": "basketball",
+  "absences": "n/a",
+  "context": "Women's Serie A2.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (only goals/points markets in clear mismatches, none qualifies at p>=0.74 total).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lfootball.it/2026/11/basket-serie-a1-femminile-risultati-classifica-sesta-giornata-2026-27",
+   "https://www.oasport.it/2026/11/basket-femminile-vittorie-per-venezia-e-schio-in-serie-a1-si-ritrova-campobasso-stupisce-livorno/"
+  ]
+ },
+ {
+  "eid": "sr:match:73439760",
+  "fx": "Reggio Calabria v Pallacanestro Brescia",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Serie B Nazionale round 10; Brescia 2nd (14 pts), Reggio Calabria 8th (4-5). Tip 17:00 local = 16:00 UTC matches (Reggio a Canestro, free on LNP platform).",
+  "news": "Fixture/time confirmed; Brescia favoured, standings gap.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Brescia away ML p 0.58 < 0.75.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.reggioacanestro.com/doppio-anticipo-in-b-nazionale/",
+   "https://menssanabasketballsiena.it/calendari/calendario-serie-b-nazionale-2026-27/",
+   "https://basketball.eurobasket.com/team/ASD-Pallacanestro-Viola-Reggio-Calabria/22062/Games"
+  ]
+ },
+ {
+  "eid": "sr:match:73432182",
+  "fx": "Basket Scafati 1969 v Pallacanestro Cantu",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Serie A; Scafati under new coach Antimo Martino (new-coach bounce unpredictable). Cantu 0-10 last 10. Tip 17:30 local = 16:30 UTC matches.",
+  "news": "Scafati coaching change confirmed by OA Sport preview.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Scafati ML p 0.59, new coach -> skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.oasport.it/2026/11/basket-trasferta-a-tortona-per-lolimpia-milano-in-serie-a-la-virtus-bologna-attende-la-bc-roma-napoli-sfida-trento/",
+   "https://sportando.basketball/pallacanestro-varese-reyer-venezia-la-situazione-e-dove-vederla-in-tv/",
+   "https://www.virtus.it/calendari/calendario-eurolega-virtus-bologna/"
+  ]
+ },
+ {
+  "eid": "sr:match:73440926",
+  "fx": "Asd Broni 2022 v Panthers Roseto",
+  "sport": "basketball",
+  "absences": "n/a",
+  "context": "Women's A1. Roseto lost 52-94 to Schio in round 6.",
+  "news": "no news found for this round",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (only goals/points markets in clear mismatches, none qualifies at p>=0.74 total).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lfootball.it/2026/11/basket-serie-a1-femminile-risultati-classifica-sesta-giornata-2026-27",
+   "https://www.oasport.it/2026/11/basket-femminile-vittorie-per-venezia-e-schio-in-serie-a1-si-ritrova-campobasso-stupisce-livorno/"
+  ]
+ },
+ {
+  "eid": "sr:match:73440924",
+  "fx": "Geas San Sesto Giovanni v Umana Venezia",
+  "sport": "basketball",
+  "absences": "n/a",
+  "context": "Women's A1; Venezia 2nd (10 pts after 6), Geas 4th.",
+  "news": "no news found for this round",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (only goals/points markets in clear mismatches, none qualifies at p>=0.74 total). Venezia ML is a result-side.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lfootball.it/2026/11/basket-serie-a1-femminile-risultati-classifica-sesta-giornata-2026-27",
+   "https://www.oasport.it/2026/11/basket-femminile-vittorie-per-venezia-e-schio-in-serie-a1-si-ritrova-campobasso-stupisce-livorno/"
+  ]
+ },
+ {
+  "eid": "sr:match:73440928",
+  "fx": "PB63 Lady v Magnolia Basket",
+  "sport": "basketball",
+  "absences": "n/a",
+  "context": "Women's A1; Magnolia Campobasso beat Geas 67-65 in round 6.",
+  "news": "no news found for this round",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (only goals/points markets in clear mismatches, none qualifies at p>=0.74 total).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lfootball.it/2026/11/basket-serie-a1-femminile-risultati-classifica-sesta-giornata-2026-27",
+   "https://www.oasport.it/2026/11/basket-femminile-vittorie-per-venezia-e-schio-in-serie-a1-si-ritrova-campobasso-stupisce-livorno/"
+  ]
+ },
+ {
+  "eid": "sr:match:73440920",
+  "fx": "PF Schio v Brixia Basket",
+  "sport": "basketball",
+  "absences": "n/a",
+  "context": "Women's A1; Schio 6-0 leader, Brixia 1 win (11th). Clear mismatch.",
+  "news": "Schio unbeaten; Brixia first win only in round 6.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (only goals/points markets in clear mismatches, none qualifies at p>=0.74 total). Schio ML not offered in range.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lfootball.it/2026/11/basket-serie-a1-femminile-risultati-classifica-sesta-giornata-2026-27",
+   "https://www.oasport.it/2026/11/basket-femminile-vittorie-per-venezia-e-schio-in-serie-a1-si-ritrova-campobasso-stupisce-livorno/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432180",
+  "fx": "Maxima Roma v Universo Treviso Basket",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Serie A; Maxima Roma v Treviso 18:00 local = 17:00 UTC matches (PalaEur). Roma lost 81-88 at Venezia last round.",
+  "news": "Fixture/time/referees confirmed; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Roma ML p 0.64; totals ~0.5.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.oasport.it/2026/11/basket-trasferta-a-tortona-per-lolimpia-milano-in-serie-a-la-virtus-bologna-attende-la-bc-roma-napoli-sfida-trento/",
+   "https://sportando.basketball/pallacanestro-varese-reyer-venezia-la-situazione-e-dove-vederla-in-tv/",
+   "https://www.virtus.it/calendari/calendario-eurolega-virtus-bologna/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432170",
+  "fx": "Virtus Bologna v BC Roma Spqr",
+  "sport": "basketball",
+  "absences": "No named absences found for this game.",
+  "context": "Serie A leader Virtus v BC Roma. Virtus EuroLeague away at Valencia 19 Nov (official calendar) -> short turnaround, rotation risk. Venue: old Virtus Arena reportedly closed Jul 2026 (new arena) - venue not cross-checked; date/time 18:00 local per OA Sport preview.",
+  "news": "Fixture confirmed by OA Sport; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.14 below 1.18 floor; first-half markets after EuroLeague trip - skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.oasport.it/2026/11/basket-trasferta-a-tortona-per-lolimpia-milano-in-serie-a-la-virtus-bologna-attende-la-bc-roma-napoli-sfida-trento/",
+   "https://sportando.basketball/pallacanestro-varese-reyer-venezia-la-situazione-e-dove-vederla-in-tv/",
+   "https://www.virtus.it/calendari/calendario-eurolega-virtus-bologna/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432806",
+  "fx": "AS Pistoia Basket 2000 v New Basket Brindisi",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "A2 round 11; Brindisi 1st (14), Pistoia 2nd (12), both on 3 straight wins; Brindisi coach Brienza returns as ex. Brindisi handed Livorno its only loss midweek -> Brindisi played midweek.",
+  "news": "Top-of-table clash, both in form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pistoia ML p 0.63 v leader - skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-dell11-giornata",
+   "https://www.sportfriends.it/2026/11/20/brindisi-trasferta-a-pistoia-il-ritorno-da-ex-di-coach-brienza/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432796",
+  "fx": "Benedetto Xiv Cento v Fortitudo Bologna",
+  "sport": "basketball",
+  "absences": "Fortitudo: Simon Anumba doubtful (pain, re-evaluated 21 Nov).",
+  "context": "A2 derby Cento v Fortitudo; away sector sold out. Fortitudo beat Rieti last round; Cento 2-8.",
+  "news": "Anumba doubtful; derby.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby -> no result-side; Fortitudo away ML p 0.73 < 0.75 anyway.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ilrestodelcarlino.it/bologna/sport/basket-serie-a2-anumba-ancora-81dbea2c"
+  ]
+ },
+ {
+  "eid": "sr:match:73432812",
+  "fx": "Elachem Vigevano 1955 v Juvi Cremona 1952",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "A2 round 11.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vigevano ML p 0.65.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-dell11-giornata"
+  ]
+ },
+ {
+  "eid": "sr:match:73432808",
+  "fx": "Real Sebastiani Rieti v Urania Milano",
+  "sport": "basketball",
+  "absences": "Urania: Gentile absent; new American just signed (unsettled lineup).",
+  "context": "A2 round 11, 18:00 local = 17:00 UTC at PalaSojourner (all sources agree). Rieti unbeaten at home this season (5-0), coming off loss at Fortitudo that ended a 3-game streak. Urania penultimate, no win since round 5, lost 65-79 at home to Pistoia.",
+  "news": "Rieti home-perfect; Urania depleted and winless for 5 rounds.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.7914,
+    "why": "Named mechanism: Urania without Gentile + new import integrating, winless since round 5; Rieti 5-0 at home, bounce-back spot. My p ~0.82 vs house 0.79."
+   }
+  ],
+  "avoid": "Handicaps (Rieti margins at home modest: +18,+8,+7).",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.rietilife.com/2026/11/20/sebastiani-domenica-al-palasojourner-arriva-lurania-milano-obiettivo-tornare-subito-al-successo/",
+   "https://www.rietisportnews.it/2026/11/20/la-sebastiani-torna-al-palasojourner-domenica-arriva-lurania-milano/",
+   "https://uraniabasket.it/calendar/calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432804",
+  "fx": "US Victoria Libertas v Montecatiniterme Basketball",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "A2: Vuelle Pesaro (new coach Pete Strobl) v Montecatini (1-9, 2 pts). 18:00 local matches.",
+  "news": "Strobl wants defensive improvement; Montecatini bottom.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pesaro ML 1.12 below floor; new coach -> no handicap.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.viverepesaro.it/2026/11/20/vuelle-domenica-arriva-montecatini-strobl-voglio-vedere-miglioramenti-a-partire-dalla-difesa/213815",
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-dell11-giornata"
+  ]
+ },
+ {
+  "eid": "sr:match:73440396",
+  "fx": "ASD Latina Basket v Pelle Livorno",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Serie B girone B, 18:00 local per Mens Sana calendar = 17:00 UTC matches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Livorno away ML p 0.58.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.reggioacanestro.com/doppio-anticipo-in-b-nazionale/",
+   "https://menssanabasketballsiena.it/calendari/calendario-serie-b-nazionale-2026-27/"
+  ]
+ },
+ {
+  "eid": "sr:match:73440408",
+  "fx": "Cestistica Citta Di San Severo v Luiss Roma",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Serie B.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "San Severo ML p 0.69.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.reggioacanestro.com/doppio-anticipo-in-b-nazionale/",
+   "https://menssanabasketballsiena.it/calendari/calendario-serie-b-nazionale-2026-27/"
+  ]
+ },
+ {
+  "eid": "sr:match:73440392",
+  "fx": "Fabriano Basket v Basket Golfo Piombino",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Serie B girone B, 18:00 local matches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fabriano ML p 0.67.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.reggioacanestro.com/doppio-anticipo-in-b-nazionale/",
+   "https://menssanabasketballsiena.it/calendari/calendario-serie-b-nazionale-2026-27/"
+  ]
+ },
+ {
+  "eid": "sr:match:73439756",
+  "fx": "Ferrara Basket 2018 v Andrea Costa Imola",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Serie B girone A; Ferrara-Imola described as a derby, hosts slightly favoured. Imola played a noon game v Reggio Calabria earlier.",
+  "news": "Derby, home slightly favoured.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby -> no result-side.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.reggioacanestro.com/doppio-anticipo-in-b-nazionale/",
+   "https://menssanabasketballsiena.it/calendari/calendario-serie-b-nazionale-2026-27/"
+  ]
+ },
+ {
+  "eid": "sr:match:73439768",
+  "fx": "Pallacanestro Vicenza v Siaz Basket",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Serie B girone A; Vicenza newly promoted (1-9), Siaz Piazza Armerina favoured.",
+  "news": "Promoted host v favoured visitor.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Siaz away ML p 0.69 < 0.75.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.reggioacanestro.com/doppio-anticipo-in-b-nazionale/",
+   "https://menssanabasketballsiena.it/calendari/calendario-serie-b-nazionale-2026-27/"
+  ]
+ },
+ {
+  "eid": "sr:match:73439764",
+  "fx": "Rucker Sanve San Vendemiano v Fortitudo Agrigento",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Serie B girone A; preview notes Agrigento \"in salute\" (in form).",
+  "news": "Agrigento in good form per Reggio a Canestro.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rucker ML p 0.72 < 0.75 and visitor in form.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.reggioacanestro.com/doppio-anticipo-in-b-nazionale/",
+   "https://menssanabasketballsiena.it/calendari/calendario-serie-b-nazionale-2026-27/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432172",
+  "fx": "Scaligera Basket Verona v APU Udine",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Serie A; 18:15 local = 17:15 UTC matches (Sky).",
+  "news": "Fixture/time confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip ML; totals ~0.5.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.oasport.it/2026/11/basket-trasferta-a-tortona-per-lolimpia-milano-in-serie-a-la-virtus-bologna-attende-la-bc-roma-napoli-sfida-trento/",
+   "https://sportando.basketball/pallacanestro-varese-reyer-venezia-la-situazione-e-dove-vederla-in-tv/",
+   "https://www.virtus.it/calendari/calendario-eurolega-virtus-bologna/"
+  ]
+ },
+ {
+  "eid": "sr:match:74527792",
+  "fx": "Hapoel Eilat v Maccabi Ironi Ramat Gan",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Israeli Super League; sport5 lists 22.11.26 19:55 local = 17:55 UTC (matches). One schedule names the club \"Ironi Eilat\" (naming only).",
+  "news": "Date/time confirmed by sport5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Eilat ML p 0.61.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sport5.co.il/liga.aspx?FolderID=273",
+   "https://ibasketball.co.il/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432184",
+  "fx": "Pallacanestro Varese v Reyer Venezia",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Serie A; both 5-3; Venezia two straight wins (88-81 v Roma), Varese beat Reggio 99-84. 19:00 local = 18:00 UTC matches. Venezia EuroCup midweek likely.",
+  "news": "Even matchup.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip; \"No to win both halves\" markets excluded class-wise.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.oasport.it/2026/11/basket-trasferta-a-tortona-per-lolimpia-milano-in-serie-a-la-virtus-bologna-attende-la-bc-roma-napoli-sfida-trento/",
+   "https://sportando.basketball/pallacanestro-varese-reyer-venezia-la-situazione-e-dove-vederla-in-tv/",
+   "https://www.virtus.it/calendari/calendario-eurolega-virtus-bologna/"
+  ]
+ },
+ {
+  "eid": "sr:match:74527798",
+  "fx": "Hapoel Haemek v Bnei Herzliya Basket",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Israeli Super League, 20:05 local = 18:05 UTC (sport5). IBBA listing names a different Galil team v Herzliya - likely typo; sport5 matches SportyBet.",
+  "news": "Minor listing discrepancy (IBBA), sport5 consistent with SportyBet.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sport5.co.il/liga.aspx?FolderID=273",
+   "https://ibasketball.co.il/"
+  ]
+ },
+ {
+  "eid": "sr:match:74527794",
+  "fx": "Maccabi Rishon LeZion v Hapoel Galil Elyon",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "Israeli Super League, 20:15 local = 18:15 UTC (sport5 and IBBA agree). Galil Elyon 3rd per sport5 table.",
+  "news": "Galil Elyon in good form; tables inconsistent across sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rishon ML p 0.68 v in-form visitor.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sport5.co.il/liga.aspx?FolderID=273",
+   "https://ibasketball.co.il/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432800",
+  "fx": "Pallacanestro 2.015 Forli v Basket Mestre 1958",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "A2 round 11 (Forli v Mestre).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Forli ML p 0.68.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-dell11-giornata"
+  ]
+ },
+ {
+  "eid": "sr:match:73432794",
+  "fx": "S.S. Avellino Basket v Pallacanestro Ruvo di Puglia",
+  "sport": "basketball",
+  "absences": "No named absences found.",
+  "context": "A2 top-of-table host Avellino (9-1, 5-0 home) v Ruvo (2-8). Tip moved 18:00 -> 20:00 local (police request, Avellino Calcio at 15:00) = 19:00 UTC, matches SportyBet.",
+  "news": "KO moved to 20:00 local; consistent with SportyBet time.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.05 below floor; no handicap line at p>=0.74.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tuttoavellino.it/basket/avellino-basket-ruvo-puglia-posticipata-palla-due-orario-147164",
+   "https://www.sportavellino.it/basket/avellino-basket-ruvo-di-puglia-prevendita-orario-dettagli/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432802",
+  "fx": "Libertas Livorno v Dinamo Sassari",
+  "sport": "basketball",
+  "absences": "Sassari: Kaze Kajami-Keane out (weeks); Bryce Nze doubtful/probable return. Livorno: Giovanni Vildera expected back after missing 2 games.",
+  "context": "A2 round 11, 20:45 local = 19:45 UTC at Modigliani Forum (matches). Livorno 9-1, only loss midweek v Brindisi (played midweek); Sassari coach Vitali calls Livorno title favourites; Sassari lost 67-68 at Avellino.",
+  "news": "Sassari without starting PG Kajami-Keane; Livorno get Vildera back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7848,
+    "why": "Named mechanism: Sassari missing PG Kajami-Keane (Nze doubtful), Livorno get Vildera back; Livorno 9-1, bounce-back after first loss. Sassari competitive (lost by 1 at Avellino) so ML not handicap. My p ~0.80 vs house 0.785."
+   }
+  ],
+  "avoid": "Handicap (Sassari credible).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.unionesarda.it/sport/basket/la-dinamo-a-livorno-prova-a-sovvertire-il-pronostico-poxaum46",
+   "https://livornopress.it/basket-la-libertas-livorno-sfida-sassari-al-modigliani-forum-unaltra-contender-serviranno-difesa-e-intensita",
+   "https://sardies.it/la-dinamo-si-prepara-per-livorno/"
+  ]
+ }
+]

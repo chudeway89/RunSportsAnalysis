@@ -1,0 +1,646 @@
+[
+ {
+  "eid": "sr:match:73211698",
+  "fx": "Massachusetts Minutemen v Maine Black Bears",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NCAA non-conf; UMass 4-6 (2-2 home), Maine 3-7 (3-4 away). ML 1.09 (p .887) looks generous to a 4-6 side but within range of house.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.09 below range; no catches (NCAA November). No pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/watch/catalog/11965179-4504-3b99-983e-83ea0e36d5f3/ncaa-men-s-basketball",
+   "https://www.cbssports.com/college-basketball/scoreboard/"
+  ]
+ },
+ {
+  "eid": "sr:match:74297882",
+  "fx": "Norfolk State Spartans v UNC Wilmington Seahawks",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "UNCW 6-4 avg 83.5 pts vs Norfolk St 3-7 (lost by 25, 31 recently). Away fav ML 1.08.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.08 below range; NCAA catches banned. No pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/watch/catalog/11965179-4504-3b99-983e-83ea0e36d5f3/ncaa-men-s-basketball",
+   "https://www.cbssports.com/college-basketball/scoreboard/"
+  ]
+ },
+ {
+  "eid": "sr:match:74605546",
+  "fx": "Cal Poly Mustangs v Northern Arizona Lumberjacks",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Cal Poly 3-0 at home (96 ppg at home); Northern Arizona 0-8 away, 1-9 last 10. Game at Mott Athletics Center, 4pm PT, ESPN+ (Cal Poly schedule confirms home).",
+  "news": "Schedule confirmed (Cal Poly home, ESPN+); no injury news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7621,
+    "why": "NAU 0-8 on the road and 1-9 overall vs Cal Poly 3-0 home; fixture-specific road failure. Est 0.79 vs house 0.76."
+   }
+  ],
+  "avoid": "Handicaps (NCAA Nov catch ban).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.espn.com/watch/catalog/11965179-4504-3b99-983e-83ea0e36d5f3/ncaa-men-s-basketball",
+   "https://www.cbssports.com/college-basketball/scoreboard/",
+   "https://gopoly.com/sports/mens-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:74523022",
+  "fx": "Chattanooga Mocs v Radford Highlanders",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Chattanooga hosts at McKenzie Arena, first of 7 straight home games; Radford 0-5 away (avg 65 pts away).",
+  "news": "Gomocs.com confirms home game 7pm ET Nov 21; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7639,
+    "why": "Radford 0-5 on the road, scoring 65 away vs Chattanooga 86.5 ppg; venue confirmed. Est 0.78 vs house 0.764."
+   }
+  ],
+  "avoid": "Handicaps.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.espn.com/watch/catalog/11965179-4504-3b99-983e-83ea0e36d5f3/ncaa-men-s-basketball",
+   "https://www.cbssports.com/college-basketball/scoreboard/",
+   "https://gomocs.com/sports/mens-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:74027074",
+  "fx": "Elon Phoenix v Morehead St Eagles",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Elon 2-8 (1-3 home) priced ML 1.09 (p .887) vs Morehead St 6-4 (1-4 away). Price looks inconsistent with form; possible feed/mapping issue.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Suspicious price vs form (2-8 side at 1.09). Avoid entirely.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espn.com/watch/catalog/11965179-4504-3b99-983e-83ea0e36d5f3/ncaa-men-s-basketball",
+   "https://www.cbssports.com/college-basketball/scoreboard/"
+  ]
+ },
+ {
+  "eid": "sr:match:74062562",
+  "fx": "Loyola Marymount Lions v California Baptist Lancers",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "LMU listed as -1200 favourite; game reported at neutral Acrisure Arena (Palm Desert) while CBS schedule lists LMU @ Cal Baptist.",
+  "news": "Neutral-site (Acrisure Arena) vs '@ Cal Baptist' venue conflict between sources",
+  "veto": true,
+  "veto_reason": "Venue conflict: neutral Acrisure Arena (bangthebook) vs @ Cal Baptist (CBS schedule); SportyBet lists LMU home.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espn.com/watch/catalog/11965179-4504-3b99-983e-83ea0e36d5f3/ncaa-men-s-basketball",
+   "https://www.cbssports.com/college-basketball/scoreboard/",
+   "https://bangthebook.com/california-baptist-lancers-vs-loyola-marymount-lions-prediction-2026-11-21",
+   "https://www.cbssports.com/college-basketball/teams/LOYMRY/loyola-marymount-lions/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:75143666",
+  "fx": "Mercer Bears v Charleston Southern Buccaneers",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Mercer 3-1 home (83.5 ppg home); Charleston Southern 1-3 away, conceding 85 away. ESPN+ listing 'Charleston Southern vs. Mercer' 7pm (order only, venue not independently confirmed).",
+  "news": "Game listed Sat 7pm ESPN+; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7839,
+    "why": "CSU 1-3 away conceding 85; Mercer 3-1 at home. Est 0.79 vs house 0.784. Venue not independently confirmed - lower confidence."
+   }
+  ],
+  "avoid": "Handicaps.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.espn.com/watch/catalog/11965179-4504-3b99-983e-83ea0e36d5f3/ncaa-men-s-basketball",
+   "https://www.cbssports.com/college-basketball/scoreboard/"
+  ]
+ },
+ {
+  "eid": "sr:match:74301016",
+  "fx": "Vermont Catamounts v Brown Bears",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Vermont 5-1 at home vs Brown 2-3 away; ML 1.50 (p .63) below threshold.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML p .63 < 0.75; no picks.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/watch/catalog/11965179-4504-3b99-983e-83ea0e36d5f3/ncaa-men-s-basketball",
+   "https://www.cbssports.com/college-basketball/scoreboard/"
+  ]
+ },
+ {
+  "eid": "sr:match:74101530",
+  "fx": "Villanova Wildcats v Michigan Wolverines",
+  "sport": "basketball",
+  "absences": "Michigan: Brandon McCoy Jr. (ACL, out season); Joseph Hartman (shoulder) may debut. Villanova: Matt Hodge (ACL) out; Luigi Suigo (knee) limited; Thiam ramping up.",
+  "context": "No. 18 Michigan (3-1) at Villanova (3-2), Xfinity Mobile Arena Philadelphia, 7pm ET FOX. Big-club clash; Michigan coming off record romp (123-79).",
+  "news": "Michigan favoured; preview picks Michigan 81-75; Villanova coach under pressure",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result-side; away ML p .63 < 0.75; NCAA catches banned.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.921theticket.com/2026/11/20/no-18-michigan-visits-villanova-after-record-setting-romp/",
+   "https://sports.yahoo.com/articles/mike-boynton-delivers-encouraging-joseph-183000935.html",
+   "https://www.vuhoops.com/villanova-basketball/35679/villanova-vs-michigan-game-preview"
+  ]
+ },
+ {
+  "eid": "sr:match:73691830",
+  "fx": "VMI Keydets v Gardner-Webb Runnin\u00b4 Bulldogs",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "VMI hosts at Cameron Hall (official release), 3-1 at home; Gardner-Webb 2-8, 1-6 away (lost by 48, 40, 22 recently). VMI leads series 10-6.",
+  "news": "VMI release confirms home game Sat 7pm; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.784,
+    "why": "Gardner-Webb 1-6 away with heavy road losses; VMI 3-1 home; venue confirmed by VMI. Est 0.81 vs house 0.784."
+   }
+  ],
+  "avoid": "Handicaps.",
+  "confidence": 0.3,
+  "sources": [
+   "https://vmikeydets.com/news/2026/11/20/mens-basketball-vmi-basketball-hosts-gardner-webb-this-saturday.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:73719722",
+  "fx": "New York Knicks v Portland Trail Blazers",
+  "sport": "basketball",
+  "absences": "POR: Ja Morant (hamstring), Shaedon Sharpe (meniscus), Vit Krejci (ankle), Chris Youngblood out; Deni Avdija Q (foot, missed 2). Robert Williams available. NYK: OG Anunoby Q (calf), Jordan Clarkson out (foot) per Heavy; other sources list no designations.",
+  "context": "Blazers played Thu (W 124-114 at MIL), 1 day rest, end of East road trip. Knicks 3-1 home. Spread NYK -5.5.",
+  "news": "Portland depleted (Morant, Sharpe out, Avdija Q); Knicks Anunoby Q - conflicting reports",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=5.5",
+    "desc": "Home (+5.5)",
+    "odds": 1.25,
+    "p": 0.7824,
+    "why": "Knicks at MSG v Portland missing Morant, Sharpe and maybe Avdija; Knicks only lose by 6+ in a rare upset. Est 0.81 vs house 0.78."
+   },
+   {
+    "mid": "225",
+    "spec": "total=204.5",
+    "desc": "Over 204.5",
+    "odds": 1.26,
+    "p": 0.7727,
+    "why": "Portland games avg 228 total (116 pf/112 pa); 204.5 is ~13 below main line. Est 0.77 (Blazer absences trim scoring)."
+   }
+  ],
+  "avoid": "Portland big catches (they are the depleted side); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.blazersedge.com/trail-blazers-injury-report/118709/portland-trail-blazers-deni-avdija-injury-report-new-york-knicks-nba-news-robert-williams-ja-morant",
+   "https://heavy.com/sports/nba/new-york-knicks/knicks-og-anunoby-injury-news-blazers/",
+   "https://www.sportsmole.co.uk/basketball/new-york-knicks/preview/portland-trail-blazers-vs-new-york-knicks-player-props-injury-report-and-prediction--nba_609485.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74149538",
+  "fx": "Tennessee Tech Golden Eagles v Presbyterian Blue Hose",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Tennessee Tech 5-0 home (+28 margin at home); Presbyterian 1-5 away. ML 1.28 p .743 just under 0.75.",
+  "news": "Listed Sat 7:30pm ESPN+; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML p .743 < 0.75 threshold; NCAA catches banned.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/watch/catalog/11965179-4504-3b99-983e-83ea0e36d5f3/ncaa-men-s-basketball",
+   "https://www.cbssports.com/college-basketball/scoreboard/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719724",
+  "fx": "Dallas Mavericks v LA Clippers",
+  "sport": "basketball",
+  "absences": "LAC: Bradley Beal out (knee/hip), Brandon Ingram doubtful/out (heel), Jordan Miller out. DAL: PJ Washington Q (shoulder), Walter Clayton Jr. Q (knee), Dereck Lively II out.",
+  "context": "Clippers played Thu at SA; 0-4 away last 10, conceding 127 away. Mavs 5-1 home.",
+  "news": "Clippers without Beal and likely Ingram; Mavs have two questionables; preview tips Dallas and over 220.5",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=5.5",
+    "desc": "Home (+5.5)",
+    "odds": 1.25,
+    "p": 0.7817,
+    "why": "Mavs 5-1 at home v Clippers 0-4 away and missing Beal/Ingram. Est 0.82 vs house 0.78."
+   },
+   {
+    "mid": "225",
+    "spec": "total=216.5",
+    "desc": "Over 216.5",
+    "odds": 1.26,
+    "p": 0.7713,
+    "why": "Clippers' road games conceding 127; 85% of combined last-10 cleared this line. Est 0.78 vs house 0.77 (absences trim LAC offense)."
+   }
+  ],
+  "avoid": "Clippers catches; Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://dallassportsjournal.com/pj-washington-walter-clayton-questionable-mavericks-clippers/",
+   "https://statz.ai/nba/teams/la-clippers/injuries",
+   "https://www.sportsmole.co.uk/basketball/la-clippers/preview/la-clippers-vs-dallas-mavericks-player-props-injury-report-and-prediction--nba_609470.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73719726",
+  "fx": "Minnesota Timberwolves v Memphis Grizzlies",
+  "sport": "basketball",
+  "absences": "MIN: Anthony Edwards out (knee arthroscopy), Donte DiVincenzo out, Jaylen Clark out. MEM: Cam Boozer out (ankle), Scotty Pippen Jr. out, GG Jackson out; Zach Edey & Jerami Grant Q; Ty Jerome probable.",
+  "context": "Grizzlies 12-4, 8 straight road wins; Wolves 11-5. MIN -5.5. Grizzlies played Thu (beat GSW 126-98).",
+  "news": "Edwards OUT for Minnesota; Memphis missing Boozer but 8-0 on road",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-14.5",
+    "desc": "Away (+14.5)",
+    "odds": 1.27,
+    "p": 0.7709,
+    "why": "Memphis (12-4, 8-0 road) v Wolves without Anthony Edwards: a 15+ Memphis loss needs a rout from an Edwards-less side. Credible receiver. Est 0.84 vs house 0.77."
+   }
+  ],
+  "avoid": "Wolves result-side (Edwards out); Unders.",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.squawka.com/ca/news/nba/grizzlies-vs-timberwolves-prediction-team-news/",
+   "https://www.yardbarker.com/nba/articles/grizzlies_hope_to_keep_road_record_perfect_despite_cam_boozer_injury/s1_17045_44594628",
+   "https://heavy.com/sports/nba/memphis-grizzlies/ty-jerome-injury-update-timberwolves/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719728",
+  "fx": "San Antonio Spurs v New Orleans Pelicans",
+  "sport": "basketball",
+  "absences": "SAS: Dylan Harper out (hip, 1-3 wks); Champagnie starts. NOP: Dejounte Murray out, Benedict Mathurin out, Trey Murphy III Q.",
+  "context": "Spurs 13-3 (9-1 last 10). Pelicans on a back-to-back after losing 126-120 at OKC Fri; 3-7 last 10, conceding 125.8.",
+  "news": "Pelicans b2b with Murray/Mathurin out; Spurs only missing Harper",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=214.5",
+    "desc": "Over 214.5",
+    "odds": 1.25,
+    "p": 0.7767,
+    "why": "Pelicans concede 126 per game (b2b legs); Spurs score 117.6; 80% of last-10 cleared. Est 0.80 vs house 0.78."
+   },
+   {
+    "mid": "223",
+    "spec": "hcp=-7.5",
+    "desc": "Home (-7.5)",
+    "odds": 1.25,
+    "p": 0.7793,
+    "why": "Spurs 13-3 vs tired Pelicans (b2b) missing Murray/Mathurin; NOP lost by 31, 34, 51 at times. Est 0.80 vs house 0.78."
+   }
+  ],
+  "avoid": "Pelicans big catches (+24.5 and up: weak b2b side).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.si.com/nba/spurs/onsi/injury-update-san-antonio-spurs-guard-dylan-harper-to-miss-several-weeks-with-hip-injury",
+   "https://www.yardbarker.com/nba/articles/final_injury_report_for_pelicans_thunder_will_alex_caruso_trey_murphy_iii_play/s1_17615_44593557",
+   "https://www.nba.com/news/emirates-nba-cup-live-updates-november-20"
+  ]
+ },
+ {
+  "eid": "sr:match:73528198",
+  "fx": "Oral Roberts Golden Eagles v Texas A&M-Corpus Christi Islanders",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Oral Roberts hosts at Mabee Center 7pm CT; both 2-3 per preview. ML 1.63 p .58.",
+  "news": "Venue confirmed (BVM Sports); no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML p .58; no picks.",
+  "confidence": 0.15,
+  "sources": [
+   "https://bvmsports.com/2026/11/20/oral-roberts-hosts-texas-am-corpus-christi-saturday-night"
+  ]
+ },
+ {
+  "eid": "sr:match:74125324",
+  "fx": "Troy Trojans v Valparaiso Beacons",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Troy 6-1 home vs Valpo 7-3 (2-3 away); away fav ML 1.48 p .64.",
+  "news": "TV listing only (Sat 8pm ET); home side not confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away ML p .64 < 0.75.",
+  "confidence": 0.15,
+  "sources": [
+   "https://tvlok.com/guide/date/2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:74828264",
+  "fx": "Texas Southern Tigers v New Orleans Privateers",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Coin-flip (1.78/1.93). Matchup only seen in a mislabelled TV listing ('LSU New Orleans').",
+  "news": "Fixture not independently confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No market qualifies.",
+  "confidence": 0.1,
+  "sources": [
+   "https://tvlok.com/guide/date/2026-11-21"
+  ]
+ },
+ {
+  "eid": "sr:match:73719730",
+  "fx": "Sacramento Kings v Boston Celtics",
+  "sport": "basketball",
+  "absences": "BOS: Jayson Tatum Q (rest), Derrick White Q (AC joint). SAC: Precious Achiuwa, Maxime Raynaud, (Ben Simmons per one source) out.",
+  "context": "Kings 1-13, 0-7 home (lost every home game by 6-21). Celtics 7-3 last 10, 5-2 away. Celtics ML -680. Celtics Friday status not found.",
+  "news": "Celtics may rest Tatum; White new knock; Kings 1-13",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=2.5",
+    "desc": "Away (-2.5)",
+    "odds": 1.2,
+    "p": 0.8175,
+    "why": "Kings 0-7 at home, losing every one by 6+; even with Tatum rested Boston's depth covers 3. Est 0.80 vs house 0.82 (Tatum/White risk)."
+   },
+   {
+    "mid": "225",
+    "spec": "total=204.5",
+    "desc": "Over 204.5",
+    "odds": 1.24,
+    "p": 0.7811,
+    "why": "Kings concede 120 at home; 85% of last-10 cleared 204.5. Est 0.78 vs house 0.78."
+   }
+  ],
+  "avoid": "Kings catches +20.5 up (weak side); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.hoopshype.com/story/sports/nba/rumors/2026/11/20/celtics-may-sit-jayson-tatum-against-sacramento/92888061007/",
+   "https://sports.yahoo.com/articles/celtics-bad-news-2-stars-041632864.html",
+   "https://bangthebook.com/boston-celtics-vs-sacramento-kings-prediction-2026-11-21/"
+  ]
+ },
+ {
+  "eid": "sr:match:74246744",
+  "fx": "Pacific Tigers v Bradley Braves",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Pacific 4-1 home (82.6 pf, 57.4 pa at home); Bradley 1-1 away. H2H 63-52. DirecTV lists Bradley at Pacific (consistent with SportyBet). 10pm ET.",
+  "news": "Listed 10pm ET ESPN+ at Pacific; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.793,
+    "why": "Pacific dominant at home (+25 avg margin), Bradley rarely on the road. Est 0.78 vs house 0.79; lower confidence - Bradley is a decent MVC side."
+   }
+  ],
+  "avoid": "Handicaps.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.espn.com/watch/catalog/11965179-4504-3b99-983e-83ea0e36d5f3/ncaa-men-s-basketball",
+   "https://www.cbssports.com/college-basketball/scoreboard/",
+   "https://www.directv.com/insider/college-basketball-on-tv-today/"
+  ]
+ },
+ {
+  "eid": "sr:match:73529030",
+  "fx": "Duke Blue Devils v Washington State Cougars",
+  "sport": "basketball",
+  "absences": "Both teams reported at full strength.",
+  "context": "No. 5 Duke (3-2) v Washington State (2-3), Acrisure Arena Palm Desert (neutral, Acrisure Series), 11pm ET. Duke off 99-78 loss to Illinois; UConn next (sandwich spot). Spread Duke -26.5.",
+  "news": "Duke heavy favourite; letdown/sandwich-spot warning",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.01; big spread is an NCAA catch/rout market - avoid.",
+  "confidence": 0.15,
+  "sources": [
+   "https://balldurham.com/duke-vs-washington-state-how-to-watch-odds-injuries-more-or-acrisure-series",
+   "https://bvmsports.com/2026/11/20/no-5-duke-opens-west-coast-trip-vs-washington-state-saturday/"
+  ]
+ },
+ {
+  "eid": "sr:match:73495550",
+  "fx": "Cayirova Belediyesi v Esenler Erokspor",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Cayirova 3-7 v Esenler 7-3; close price (2.08/1.79).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No qualifying market.",
+  "confidence": 0.15,
+  "sources": [
+   "https://beinsports.com.tr/lig/basketbol-super-ligi",
+   "https://www.fenerbahce.org/branslar/basketbolerkek/fikstur"
+  ]
+ },
+ {
+  "eid": "sr:match:73466370",
+  "fx": "Fenerbahce SK v Ogm Ormanspor",
+  "sport": "basketball",
+  "absences": "n/a (women's)",
+  "context": "Women's Super Lig: Fenerbahce 8-2 v Ormanspor 0-4 away. Only 1X2 away listed; women's fixture.",
+  "news": "no news found (women's: date/venue only checked)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's - no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://beinsports.com.tr/lig/basketbol-super-ligi",
+   "https://www.fenerbahce.org/branslar/basketbolerkek/fikstur"
+  ]
+ },
+ {
+  "eid": "sr:match:73466366",
+  "fx": "Kayseri Basketbol v CBK Mersin",
+  "sport": "basketball",
+  "absences": "n/a (women's)",
+  "context": "Women's Super Lig: Kayseri 2-8 v CBK Mersin 7-3.",
+  "news": "no news found (women's)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's - no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://beinsports.com.tr/lig/basketbol-super-ligi",
+   "https://www.fenerbahce.org/branslar/basketbolerkek/fikstur"
+  ]
+ },
+ {
+  "eid": "sr:match:73495548",
+  "fx": "Trabzonspor Basketbol v Anadolu Efes SK",
+  "sport": "basketball",
+  "absences": "Anadolu Efes: unspecified injury announcement (beIN headline only).",
+  "context": "BSL; venue Hayri Gur Arena Trabzon. Efes EuroLeague midweek.",
+  "news": "Date conflict: TV/ticket listings say Sun 22 Nov 15:30 TRT, Sofascore lists 20 Nov 12:00 UTC (week 9)",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (22 Nov vs 20 Nov on Sofascore).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/tr/basketball/match/trabzonspor-anadolu-efes/pvbsxat",
+   "https://www.sporekrani.com/home/team/anadolu-efes",
+   "https://www.biletwise.com/en/anadolu-efes-basketball-tickets"
+  ]
+ },
+ {
+  "eid": "sr:match:73529530",
+  "fx": "Balikesir Buyuksehir Belediyesi Spor v OGM Ormanspor",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TBL week 12, Balikesir v OGM Ormanspor 16:00 local per Basketfaul; TBF/Mackolik fixture pages show Ormanspor v Darussafaka instead.",
+  "news": "Pairing conflict between TBF/Mackolik and local press",
+  "veto": true,
+  "veto_reason": "Fixture pairing/kick-off conflict (TBF/Mackolik list Ormanspor v Darussafaka 13:00).",
+  "picks": [],
+  "avoid": "All markets; only 8 market types listed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://basketfaul.com.tr/ekran-basina/",
+   "https://www.yenimeram.com.tr/konya-bs-istanbul-da-galibiyet-ariyor/540985",
+   "https://www.mackolik.com/basketbol/puan-durumu/t%C3%BCrkiye-t%C3%BCrkiye-sigorta-tbl/fikstur/8m2pj89s7j6bd6k6htyol1xgl"
+  ]
+ },
+ {
+  "eid": "sr:match:73529526",
+  "fx": "Final Spor v Mersin MSK",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TBL: Final Spor 6-4 priced ML 1.01 v Mersin MSK 8-2 (4-1 away) - price contradicts form.",
+  "news": "Listed Sun 16:00 local (YouTube); price looks erroneous",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Suspicious 1.01 price vs form; avoid.",
+  "confidence": 0.1,
+  "sources": [
+   "https://basketfaul.com.tr/ekran-basina/",
+   "https://www.yenimeram.com.tr/konya-bs-istanbul-da-galibiyet-ariyor/540985",
+   "https://www.mackolik.com/basketbol/puan-durumu/t%C3%BCrkiye-t%C3%BCrkiye-sigorta-tbl/fikstur/8m2pj89s7j6bd6k6htyol1xgl"
+  ]
+ },
+ {
+  "eid": "sr:match:73529518",
+  "fx": "Darussafaka v Konya BBSK",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TBL: Darussafaka (13th, 4W) v Konya BBSK (16th, 3W), 16:30 local at Ayhan Sahenk; Konya the away fav 1.58.",
+  "news": "Local press confirms venue/time; Konya seeking win in Istanbul",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away ML p .59 < 0.75.",
+  "confidence": 0.15,
+  "sources": [
+   "https://basketfaul.com.tr/ekran-basina/",
+   "https://www.yenimeram.com.tr/konya-bs-istanbul-da-galibiyet-ariyor/540985",
+   "https://www.mackolik.com/basketbol/puan-durumu/t%C3%BCrkiye-t%C3%BCrkiye-sigorta-tbl/fikstur/8m2pj89s7j6bd6k6htyol1xgl"
+  ]
+ },
+ {
+  "eid": "sr:match:73495544",
+  "fx": "Galatasaray SK v Petkim Spor Aliaga",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Galatasaray 4-1 home v Petkim 7-3 (3-1 away). ML 1.33 p .73 just under threshold.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML p .73 < 0.75; Petkim in good form.",
+  "confidence": 0.15,
+  "sources": [
+   "https://beinsports.com.tr/lig/basketbol-super-ligi",
+   "https://www.fenerbahce.org/branslar/basketbolerkek/fikstur"
+  ]
+ },
+ {
+  "eid": "sr:match:73495556",
+  "fx": "Besiktas JK v Fenerbahce Istanbul",
+  "sport": "basketball",
+  "absences": "Fenerbahce: two stars with injury announcement (names not in result, beIN); Besiktas: Jonah Mathews (Achilles, June surgery) likely still out.",
+  "context": "Istanbul derby, Sun 20:30 local; both EuroLeague/EuroCup midweek.",
+  "news": "Derby; Fenerbahce injury announcement on two stars (unnamed)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result-side; no qualifying totals.",
+  "confidence": 0.15,
+  "sources": [
+   "https://beinsports.com.tr/lig/basketbol-super-ligi",
+   "https://www.fenerbahce.org/branslar/basketbolerkek/fikstur",
+   "https://basketnews.com/news-249864-besiktas-top-scorer-undergoes-surgery-for-ruptured-achilles.html"
+  ]
+ }
+]

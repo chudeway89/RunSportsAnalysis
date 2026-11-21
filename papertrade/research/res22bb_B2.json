@@ -1,0 +1,562 @@
+[
+ {
+  "eid": "sr:match:74750504",
+  "fx": "AO Mykonoy v Vikos Falcon BC",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Greek Basket League regular season; both sides weak (Mykonos 3-7, Vikos 4-6 last 10; Vikos 1-4 away).",
+  "news": "Flashscore confirms Mykonos v Vikos on 22.11; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 0.61 and handicaps near pick'em; no market reaches gates.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.flashscore.com/basketball/greece/basket-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:74131976",
+  "fx": "KK Mega Basket Belgrade v KK Studentski centar Podgorica",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ABA League; Mega 4-6 last 10, SC Podgorica 0-5 away.",
+  "news": "Proballers lists Mega v Studentski Centar 22 Nov 11:00 CET (=10:00 UTC) vs board 11:00 UTC: probable timezone mismatch, flag data_conflict. No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 0.62, no market passes gates; kick-off time disagreement between aggregators.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2033031/injury-report-round-11-partizans-vildoza-jekiri-gtd-hayes-out/",
+   "https://www.aba-liga.com/calendar/",
+   "https://www.proballers.com/basketball/league/182/adriatic-liga-aba/schedule",
+   "https://www.tntsports.co.uk/basketball/euroleague/calendar-results.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:73734730",
+  "fx": "BK Uralmash Yekaterinburg v Enisey Krasnoyarsk",
+  "sport": "basketball",
+  "absences": "Enisey lost much of its perimeter rotation in the offseason (Danilo Tasic moved to Uralmash).",
+  "context": "VTB United League round 10; Uralmash beat Enisey 88-81 in Krasnoyarsk in round 8; Enisey had lost 5 straight then (2-8 last 10).",
+  "news": "Eurobasket R8 review: Uralmash beat Enisey 88-81 away, Enisey's 5th straight loss. Start time disagrees across aggregators (RealGM 2PM ET, Proballers 7PM CET, board 11:00 UTC), most likely timezone errors; data_conflict flag.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.776725,
+    "why": "Uralmash won the reverse fixture 88-81 away 4 weeks ago; Enisey thin on guards after losing Tasic to Uralmash, 2-8 last 10, 1-3 away. My p 0.79 (house 0.777)."
+   }
+  ],
+  "avoid": "Handicaps: no line at >=8.5 with value. Kick-off times disagree across aggregators: re-verify before posting.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.eurobasket.com/VTB-United-League/news/1041932/VTB-United-League-Day-8-Regular-Season-Uralmash-beats-Enisey",
+   "https://twowayhoops.substack.com/p/vtb-united-league-2026-27-preview",
+   "https://www.proballers.com/basketball/league/272/vtb-united-league/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:74131790",
+  "fx": "KK Crvena zvezda Belgrade v KK Cibona",
+  "sport": "basketball",
+  "absences": "Crvena zvezda: Stefan Miljenovic (ankle surgery) out, per R11 report.",
+  "context": "ABA League; Zvezda play EuroLeague midweek (TNT calendar lists a Zvezda game on 20 Nov), so Sunday rotation is likely. Cibona 8-2 last 10.",
+  "news": "Only Miljenovic reported injured (older R11 report); possible EuroLeague game on Fri 20 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.07 too short; -13.5..-15.5 lines with a credible Cibona (8-2) and Zvezda rotating after EuroLeague: skip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2033031/injury-report-round-11-partizans-vildoza-jekiri-gtd-hayes-out/",
+   "https://www.aba-liga.com/calendar/",
+   "https://www.proballers.com/basketball/league/182/adriatic-liga-aba/schedule",
+   "https://www.tntsports.co.uk/basketball/euroleague/calendar-results.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:74750746",
+  "fx": "AS Karditsas v BC Olympiakos Piraeus",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Greek League; Olympiacos (champions) likely played EuroLeague midweek (TNT calendar lists an Olympiacos game on 20 Nov); Karditsa 4-1 at home.",
+  "news": "Fixture confirmed on Flashscore; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.06 too short; big handicap with rotation risk after EuroLeague and Karditsa strong at home: skip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.flashscore.com/basketball/greece/basket-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73496324",
+  "fx": "Charnay Basket Bourgogne Sud v Tango Bourges Basket",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's fixture: no picks by rule; checked only for date/venue conflicts and obvious mismatches. LFB J9; bebasket lists Charnay-Bourges 22/11 15:15 local = 14:15 UTC, matches board.",
+  "news": "Date/time confirmed (J9, 15h15). One site shows a phantom 90-83 score, a data error.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/equipe/charnay/calendrier",
+   "https://www.bebasket.fr/ligue/lfb"
+  ]
+ },
+ {
+  "eid": "sr:match:73496330",
+  "fx": "Basket Lattes Montpellier v Landerneau Bretagne Basket",
+  "sport": "basketball",
+  "absences": "Lattes-Montpellier signed two reinforcements earlier to cover Romane Bernies' injury (dated item).",
+  "context": "Women's fixture: no picks by rule; checked only for date/venue conflicts and obvious mismatches.",
+  "news": "No current news; the Bernies injury item is several months old.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/equipe/charnay/calendrier",
+   "https://www.bebasket.fr/ligue/lfb"
+  ]
+ },
+ {
+  "eid": "sr:match:73496322",
+  "fx": "BC La Tronche Meylan v UF Angers Basket 49",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's fixture: no picks by rule; checked only for date/venue conflicts and obvious mismatches. La Tronche 1-7 in last 8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/equipe/charnay/calendrier",
+   "https://www.bebasket.fr/ligue/lfb"
+  ]
+ },
+ {
+  "eid": "sr:match:73496328",
+  "fx": "C Chartres Basket Feminin v Basket Landes",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's fixture: no picks by rule; checked only for date/venue conflicts and obvious mismatches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks; ML 1.07",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/equipe/charnay/calendrier",
+   "https://www.bebasket.fr/ligue/lfb"
+  ]
+ },
+ {
+  "eid": "sr:match:73496326",
+  "fx": "ESB Villeneuve d\u00c2\u00b4Ascq v Flammes Carolo Basket",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's fixture: no picks by rule; checked only for date/venue conflicts and obvious mismatches. bebasket lists Villeneuve d'Ascq v Charleville-Mezieres 22/11 15:30 local (=14:30 UTC), matches board.",
+  "news": "Date/time confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/equipe/charnay/calendrier",
+   "https://www.bebasket.fr/ligue/lfb"
+  ]
+ },
+ {
+  "eid": "sr:match:73496332",
+  "fx": "SAS Toulouse Metropole v Asvel Feminin",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's fixture: no picks by rule; checked only for date/venue conflicts and obvious mismatches. Toulouse 1-9 last 10; ASVEL 7-3.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks (ASVEL ML 1.27 would otherwise be the candidate)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bebasket.fr/equipe/charnay/calendrier",
+   "https://www.bebasket.fr/ligue/lfb"
+  ]
+ },
+ {
+  "eid": "sr:match:72905672",
+  "fx": "Pharmaserv Marburg v Herner TC",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's fixture: no picks by rule; checked only for date/venue conflicts and obvious mismatches. DBBL matchday 7 confirmed by Sportschau (BC Marburg v Herner TC, 22.11).",
+  "news": "Fixture confirmed; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-dbbl-frauen/spiele-und-ergebnisse",
+   "https://toyota-dbbl.de/"
+  ]
+ },
+ {
+  "eid": "sr:match:72905678",
+  "fx": "Angels Nordlingen v Alba Berlin",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's fixture: no picks by rule; checked only for date/venue conflicts and obvious mismatches. Angels Nordlingen v ALBA Berlin confirmed for 22.11 (Sportschau).",
+  "news": "Fixture confirmed; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-dbbl-frauen/spiele-und-ergebnisse",
+   "https://toyota-dbbl.de/"
+  ]
+ },
+ {
+  "eid": "sr:match:73113808",
+  "fx": "Mgs Panseraikos v Kronos Agiou Dimitriou",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's fixture: no picks by rule; checked only for date/venue conflicts and obvious mismatches. Panseraikos 2-8 last 10 yet priced at 0.79: odd pricing, no picks.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74476638",
+  "fx": "Kk Viimsi v BK Liepaja",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Estonian-Latvian League; Viimsi 2-9 (bottom tier), Liepaja 4-6. Liepaja only 1-4 in last 5 away.",
+  "news": "RealGM and BettingExpert both list Liepaja @ Viimsi on 22 Nov (16:00 local = 14:00 UTC per BettingExpert vs board 15:00 UTC: minor time disagreement). Viimsi 2-9 in the standings.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.21,
+    "p": 0.7921435501,
+    "why": "Viimsi 2-9 and conceding 86.6 per game; Liepaja won 92-65 away at Keila and scores 84.8 per game. The 1-4 away record caps confidence. My p 0.76 (house 0.792)."
+   }
+  ],
+  "avoid": "Handicaps: Liepaja's away form is too weak to give big points.",
+  "confidence": 0.25,
+  "sources": [
+   "https://basketball.realgm.com/international/league/123/Estonian-Latvian-Basketball-League/standings",
+   "https://www.eurobasket.com/Lat-Est-BL/news/1040693/Latvian-Estonian-Basketball-League-Day-6-Regular-Season-Liepaja-beat-Rigas-BS",
+   "https://www.bettingexpert.com/basketball/international/latvia-estonian-league"
+  ]
+ },
+ {
+  "eid": "sr:match:73063636",
+  "fx": "Oulun Basketball v Lappeenrannan Nmky",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Finland I divisioona A; Oulu's club page (ACO Basket) lists v Lappeenrannan NMKY Sun 22.11 17:00 local (=15:00 UTC) vs board 15:30 UTC; team naming ('Oulun Basketball') uncertain.",
+  "news": "Date confirmed; small time mismatch; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.01; amateur-level tier; no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://acobasket.fi/ottelut/2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74295762",
+  "fx": "Paris Basketball v BCM Gravelines Dunkerque",
+  "sport": "basketball",
+  "absences": "none found for Paris; Gravelines reportedly has injuries (no names).",
+  "context": "Betclic Elite; Paris 7-0 (beat Bourg 107-77), Gravelines 0-7. Paris is in the EuroLeague, so a midweek game is likely.",
+  "news": "Paris unbeaten at 7-0, Gravelines winless at 0-7 with unspecified injuries.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.07 too short; large-handicap lines not in band. Paris totals are high-variance.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ski-nordique.net/basketball-betclic-elite-20262027-classement-apres-j7-paris-ecrase-bourg-et-reste-invaincu-gravelines-toujours-a-zero.6754332-399118.html",
+   "https://www.be-basketball.com/team/bourg-en-bresse",
+   "https://www.tntsports.co.uk/basketball/euroleague/calendar-results.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:72905680",
+  "fx": "TK Hannover v Saarlouis Royals",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's fixture: no picks by rule; checked only for date/venue conflicts and obvious mismatches. Hannover v Saarlouis confirmed for 22.11.",
+  "news": "Fixture confirmed; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sportschau.de/live-und-ergebnisse/basketball/deutschland-dbbl-frauen/spiele-und-ergebnisse",
+   "https://toyota-dbbl.de/"
+  ]
+ },
+ {
+  "eid": "sr:match:73451892",
+  "fx": "Hamburg Towers v Phoenix Hagen",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "BBL; Hamburg 3-7 last 10 but reportedly strengthened the roster after a slump; Hagen 3-7 and lost 79-93 to Ludwigsburg on 13 Nov.",
+  "news": "No injury reports found; Hamburg added players after a slump (Lee's Corner).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-9.5",
+    "desc": "Away (+9.5)",
+    "odds": 1.36,
+    "p": 0.714713,
+    "why": "Two 3-7 sides; Hagen is a credible BBL receiver (scores 85.8, 2-3 away in last 5). The +9.5 catch covered in 75% of the last-10 trend sample. My p 0.73 (house 0.715). Lower tier: below the 0.74 preference."
+   }
+  ],
+  "avoid": "Hamburg ML 0.62: fragile favourite.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.easycredit-bbl.de/newscenter",
+   "https://lees-corner.de/index.php?category-article-list%2F33-easycredit-bbl%2F=",
+   "https://www.telekom-baskets-bonn.de/presse/newsarchiv/fuenf-siege-im-ruecken-baskets-empfangen-ulm",
+   "https://berliner-abendblatt.de/berlin-news/klatsche-statt-neues-wunder-alba-bei-bayern-chancenlos-id349646"
+  ]
+ },
+ {
+  "eid": "sr:match:73451888",
+  "fx": "Riesen Ludwigsburg v Mitteldeutscher BC",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "BBL; MBC 8-2 last 10, Ludwigsburg 5-5 (beat Hagen 93-79 on 13 Nov).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Near pick'em; MBC +6.5 at p 0.695 is below the gates.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.easycredit-bbl.de/newscenter",
+   "https://lees-corner.de/index.php?category-article-list%2F33-easycredit-bbl%2F=",
+   "https://www.telekom-baskets-bonn.de/presse/newsarchiv/fuenf-siege-im-ruecken-baskets-empfangen-ulm",
+   "https://berliner-abendblatt.de/berlin-news/klatsche-statt-neues-wunder-alba-bei-bayern-chancenlos-id349646"
+  ]
+ },
+ {
+  "eid": "sr:match:74476640",
+  "fx": "Keila Basket v Kk Parnu",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Estonian-Latvian League; Keila Coolbet 0-10, Parnu 4-4. Liepaja beat Keila 92-65.",
+  "news": "Fixture confirmed (RealGM, BettingExpert 16:30 local = 14:30 UTC vs board 15:30 UTC). Keila winless.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.04 too short; Parnu 0-3 away, so a big handicap is not trusted.",
+  "confidence": 0.15,
+  "sources": [
+   "https://basketball.realgm.com/international/league/123/Estonian-Latvian-Basketball-League/standings",
+   "https://www.eurobasket.com/Lat-Est-BL/news/1040693/Latvian-Estonian-Basketball-League-Day-6-Regular-Season-Liepaja-beat-Rigas-BS",
+   "https://www.bettingexpert.com/basketball/international/latvia-estonian-league"
+  ]
+ },
+ {
+  "eid": "sr:match:74131980",
+  "fx": "FC Universitatea Cluj v KK Zadar",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ABA Group B; the ABA calendar confirms Sun 22.11 16:30 CET (=15:30 UTC), matches board. Zadar 8-2 last 10, while Cluj is priced at 0.72.",
+  "news": "Time confirmed on the official calendar; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cluj ML 1.34: the trend (0.25) contradicts the price (Zadar 8-2, 4-2 away); skip as a divergence.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2033031/injury-report-round-11-partizans-vildoza-jekiri-gtd-hayes-out/",
+   "https://www.aba-liga.com/calendar/",
+   "https://www.proballers.com/basketball/league/182/adriatic-liga-aba/schedule",
+   "https://www.tntsports.co.uk/basketball/euroleague/calendar-results.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:72658532",
+  "fx": "Artland Dragons v MLP Academics Heidelberg",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProA; Heidelberg was relegated from the BBL after 2025-26 and is a top-tier roster in ProA (7-3 last 10, 4-1 away, conceding 68.4 away). Artland 3-7, 1-3 at home.",
+  "news": "Ticketing and club calendars confirm Sun 22 Nov 17:00 at Artland Arena, Quakenbr\u00fcck (=16:00 UTC, matches board). No injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.26,
+    "p": 0.7583456542,
+    "why": "Relegated-BBL Heidelberg (7-3, 4-1 away, -9.2 point differential) v Artland (3-7, 1-3 home). My p 0.78 (house 0.758)."
+   }
+  ],
+  "avoid": "Handicaps: no line >=8.5 within band.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.mlp-academics.de/saison/spielplan",
+   "https://calovo.de/f/artland-dragons/artland-dragons-spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:74238620",
+  "fx": "DVTK Miskolc v Nke Csata",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's fixture: no picks by rule; checked only for date/venue conflicts and obvious mismatches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74131788",
+  "fx": "Buducnost Podgorica v HKK Siroki",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ABA; Buducnost 5-0 at home (+15.6), Siroki 6-4. Buducnost plays EuroCup midweek.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.09 too short; spread not in band.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2033031/injury-report-round-11-partizans-vildoza-jekiri-gtd-hayes-out/",
+   "https://www.aba-liga.com/calendar/",
+   "https://www.proballers.com/basketball/league/182/adriatic-liga-aba/schedule",
+   "https://www.tntsports.co.uk/basketball/euroleague/calendar-results.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:73062896",
+  "fx": "Levallois Basketball v Rouen Metropole Basket",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Elite 2 J11, 22 Nov 18:00 local (=17:00 UTC, confirmed by LNB and both clubs). Levallois 13th (5-6), lost 96-91 at Caen on Tue; Rouen 14th (4-6), two straight wins (113-105 v Fos on Tue) but 0-4 away this season. Both played Tuesday.",
+  "news": "LNB J11 preview: Rouen 0-4 away, Levallois lost at Caen after trailing by 22 at half.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pick'em ML; Levallois ML 1.78 at p 0.52 is outside the gates even with Rouen 0-4 away.",
+  "confidence": 0.2,
+  "sources": [
+   "https://lnb.fr/fr/news/elite-2-preview-de-la-j11",
+   "https://www.rouenmetrobasket.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:73451894",
+  "fx": "Alba Berlin v Bayern Munich",
+  "sport": "basketball",
+  "absences": "No current list found; Alba's earlier game at Bayern this season was played without Agbakoko, Hermannsson and Kayil (old dpa preview).",
+  "context": "BBL big-club clash (finals rematch: Alba won the 2026 title). Alba 5-0 at home (+14.4); Bayern 2-4 away. Bayern plays EuroLeague midweek.",
+  "news": "No preview for 22 Nov found; Alba lost heavily in Munich earlier this season with injuries.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result-sides. Alba +9.5 (p 0.70) is tempting given 5-0 at home, but excluded by the big-club rule.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.easycredit-bbl.de/newscenter",
+   "https://lees-corner.de/index.php?category-article-list%2F33-easycredit-bbl%2F=",
+   "https://www.telekom-baskets-bonn.de/presse/newsarchiv/fuenf-siege-im-ruecken-baskets-empfangen-ulm",
+   "https://berliner-abendblatt.de/berlin-news/klatsche-statt-neues-wunder-alba-bei-bayern-chancenlos-id349646"
+  ]
+ },
+ {
+  "eid": "sr:match:73451890",
+  "fx": "Baskets Bonn v Ratiopharm Ulm",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "BBL matchday 10; Bonn on a 5-game winning streak, 3rd at 6-3, 5-0 at home (+16). Ulm won 1 of its last 5 (BBL+EuroCup). Bonn's preview confirms 18:30 local (=17:30 UTC).",
+  "news": "Bonn preview 'F\u00fcnf Siege im R\u00fccken': coach praises Ulm's size; Ulm in poor form, with a EuroCup midweek load.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Bonn ML p 0.71 is below the 0.75 gate; Ulm +10.5 (p 0.66) runs against Bonn's form.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.easycredit-bbl.de/newscenter",
+   "https://lees-corner.de/index.php?category-article-list%2F33-easycredit-bbl%2F=",
+   "https://www.telekom-baskets-bonn.de/presse/newsarchiv/fuenf-siege-im-ruecken-baskets-empfangen-ulm",
+   "https://berliner-abendblatt.de/berlin-news/klatsche-statt-neues-wunder-alba-bei-bayern-chancenlos-id349646"
+  ]
+ },
+ {
+  "eid": "sr:match:74295766",
+  "fx": "ASVEL Lyon-Villeurbanne v JL Bourg Basket",
+  "sport": "basketball",
+  "absences": "Bourg: earlier injury trouble (Keith Jordan; McDowell-White hand, ~8 weeks, undated).",
+  "context": "Betclic Elite; ASVEL played EuroLeague at Anadolu Efes on Fri 20 Nov (TNT calendar), so Sunday follows a road trip. ASVEL 4-6 last 10 (3 straight away losses by 16-34). Bourg 2-5 (lost 107-77 at Paris).",
+  "news": "ASVEL won 93-81 at Pau in J7; Bourg hit by injuries (dates unclear).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ASVEL ML p 0.72 is below the gate, and EuroLeague travel adds fatigue: skip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ski-nordique.net/basketball-betclic-elite-20262027-classement-apres-j7-paris-ecrase-bourg-et-reste-invaincu-gravelines-toujours-a-zero.6754332-399118.html",
+   "https://www.be-basketball.com/team/bourg-en-bresse",
+   "https://www.tntsports.co.uk/basketball/euroleague/calendar-results.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:74131978",
+  "fx": "KK Partizan Belgrade v Dubai Basketball",
+  "sport": "basketball",
+  "absences": "Partizan: Jekiri (adductor), Hayes (shoulder) and Vildoza (forearm) were injured as of R11; current status unknown.",
+  "context": "ABA headline game; both are EuroLeague clubs, and Partizan likely played the Belgrade derby with Zvezda on 20 Nov (TNT calendar). Dubai 8-2 last 10.",
+  "news": "Partizan injury list from the R11 window (Jekiri, Hayes, Vildoza); TNT lists Dubai v Partizan in EuroLeague on 25 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pick'em with Partizan's injury doubts: no picks.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eurohoops.net/en/euroleague/2033031/injury-report-round-11-partizans-vildoza-jekiri-gtd-hayes-out/",
+   "https://www.aba-liga.com/calendar/",
+   "https://www.proballers.com/basketball/league/182/adriatic-liga-aba/schedule",
+   "https://www.tntsports.co.uk/basketball/euroleague/calendar-results.shtml"
+  ]
+ }
+]

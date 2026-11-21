@@ -13,6 +13,7 @@ for f in glob.glob('../papertrade/research/res21_*.json')+glob.glob(f'{SP}/resB*
     try: RES+=json.load(open(f))
     except Exception as ex: print('BAD',f,ex)
 KOMIN=time.time()*1000+45*60e3
+EXCL=set(json.load(open('cache/excl_bb.json')))
 junk=re.compile(r'women|female|femenina|feminin|wnbl|u1\d|u2\d|youth|junior|academy|reserve|\bii\b| 2$| b$|espoirs',re.I)
 def reprice(eid,mid,spec,desc):
     d=curl_get(f'https://www.sportybet.com/api/ng/factsCenter/event?eventId={eid}&productId=3').get('data') or {}
@@ -24,7 +25,7 @@ def reprice(eid,mid,spec,desc):
 legs=[];drop=[]
 for r in RES:
     e=BE.get(r.get('eid'))
-    if not e or r.get('veto') or e['start']<KOMIN: continue
+    if not e or r.get('veto') or e['start']<KOMIN or r.get('eid') in EXCL: continue
     if junk.search(e['lg']) or junk.search(e['home']) or junk.search(e['away']): continue
     for p in r.get('picks') or []:
         mid=str(p['mid']); spec=p.get('spec') or ''; desc=p['desc']; tag=f"{r['fx']} | {desc}"
