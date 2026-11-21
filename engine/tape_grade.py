@@ -1,42 +1,45 @@
 # Bias-free market tape: settle EVERY score-settleable outcome on EVERY fixture in the stored board harvests
 # (cache/board_*.json = the full SportyBet board, not our picks), at the earliest pre-match price we saw.
-# Output: ../papertrade/tape_graded.jsonl (one row per outcome) -> analyse with tape_report.py
+# Output: cache/tape_graded/<kick-off date>.jsonl.gz (one row per outcome, grouped by fixture) -> tape_report.py
+# Incremental: each run re-grades only the last 6 kick-off days; `python3 tape_grade.py all` rebuilds everything.
 # Settlement: football markets on the 90-minute score (+ 1st-half score from Sportradar periods.p1);
 # integer O/U and AH lines push -> void (observed SportyBet behaviour, L71/L80). Markets that need the goal
 # timeline (1UP/2UP, first goal, early goals, leads-by, goals in a row, player props) are skipped.
 # Nov 8: all sports (winner/totals/handicaps incl. OT, set points, hockey regulation) + football corners/bookings.
-import json,glob,re,os,sys,concurrent.futures as cf
+import json,re,os,sys,time,gzip,csv,datetime as dt,collections,concurrent.futures as cf
 import sr
-OUT='../papertrade/tape_graded.jsonl'
+from tapelib import PART_DIR,tape_files,file_date,part_path
 
-def load_tape():
+FIN=('Ended','AET','AP','Ended after extra time','Ended after penalties','After overtime','AOT','Ended after overtime','After penalties','Retired','Walkover')
+
+def load_tape(d0,d1):
+    """Outcomes from the committed tape files harvested between d0 and d1 (inclusive, YYYY-MM-DD), earliest price first."""
     seen={}
-    for f in sorted(glob.glob('cache/board_*.json')+glob.glob('cache/tapeboard_*.json'), key=os.path.getmtime):
-        ev=json.load(open(f)); ev=ev if isinstance(ev,list) else ev.get('events',[])
-        for e in ev:
-            for o in e.get('mk',[]):
-                k=(e['eid'],o['mid'],o.get('spec'),o['oid'])
-                if k in seen: continue
-                seen[k]=dict(eid=e['eid'],sport=e['sport'],lg=e.get('lg'),fx=e.get('fx'),ko=e.get('ko'),start=e.get('start'),
-                             mid=o['mid'],mdesc=o.get('mdesc'),spec=o.get('spec'),desc=o['desc'],oid=o['oid'],
-                             odds=o.get('odds'),hp=o.get('p'))
-    import gzip,csv
-    for f in sorted(glob.glob('../papertrade/tape/*.csv.gz')):   # committed tape (written daily by tape_store.py)
+    for f in tape_files():
+        if not (d0<=file_date(f)<=d1): continue
         with gzip.open(f,'rt') as g:
             for r in csv.reader(g):
+                if len(r)!=12: continue
                 eid,sport,lg,fx,start,mid,mdesc,spec,desc,oid,odds,hp=r
-                k=(eid,mid,spec or None,oid)
+                k=(eid,mid,spec,oid)
                 if k in seen: continue
-                seen[k]=dict(eid=eid,sport=sport,lg=lg,fx=fx,ko=None,start=int(start) if start and start!='None' else None,
-                             mid=mid,mdesc=mdesc,spec=spec or None,desc=desc,oid=oid,odds=float(odds),hp=float(hp) if hp and hp!='None' else None)
+                try: o=float(odds)
+                except ValueError: continue
+                if o<=1.0: continue
+                seen[k]=dict(eid=eid,sport=sport,lg=lg,fx=fx,start=int(float(start)) if start and start!='None' else None,
+                             mid=mid,mdesc=mdesc,spec=spec or None,desc=desc,oid=oid,odds=o,hp=float(hp) if hp and hp!='None' else None)
     return list(seen.values())
 
-def result(eid):
+def _done(m):
+    return bool(m) and (m.get('canceled') or m.get('postponed') or ((m.get('status') or {}).get('name','') in FIN and (m.get('result') or {}).get('home') is not None))
+
+def result(eid,start=None):
     mid=eid.split(':')[-1]
     m=sr.match_info(mid,maxage=None)
-    fin=('Ended','AET','AP','Ended after extra time','Ended after penalties','After overtime','AOT','Ended after overtime','After penalties','Retired','Walkover')
-    if not m or ((m.get('status') or {}).get('name','') not in fin and not m.get('canceled') and not m.get('postponed')):
-        m=sr.match_info(mid,maxage=0)   # cached copy was pre-match: refetch
+    # A match looked up before it finished must not stay cached as "no result" for ever (bug found Nov 21):
+    # once its kick-off is 2h+ in the past, re-fetch unless the cached copy is recent.
+    if not _done(m) and start and start<time.time()*1000-2*3600e3: m=sr.match_info(mid,maxage=2*3600)
+    fin=FIN
     if not m: return None
     if m.get('canceled') or m.get('postponed'): return 'void'
     st=(m.get('status') or {}).get('name','')
@@ -235,34 +238,73 @@ def settle(o,r):
         w=(h>a) if mid=='854' else (a>h); y=(w or t>L); return y==(d=='Yes')
     return None
 
-def main():
-    tape=load_tape()
-    tape=[o for o in tape if o.get('odds') and o['odds']>1.0]   # every sport
-    evs=sorted({o['eid'] for o in tape})
-    print('outcomes',len(tape),'events',len(evs),flush=True)
+def grade(tape):
+    """Settle a list of tape outcomes -> rows (dicts) plus counters."""
+    starts={}
+    for o in tape: starts.setdefault(o['eid'],o.get('start'))
+    evs=sorted(starts)
     R={}
     with cf.ThreadPoolExecutor(12) as ex:
-        for i,(e,r) in enumerate(zip(evs,ex.map(result,evs))):
-            R[e]=r
-            if i%300==0: print('results',i,len(evs),flush=True)
-    n=0; skipped=0
-    with open(OUT,'w') as f:
-        for o in tape:
-            r=R.get(o['eid'])
-            if r is None: continue
-            if r=='void': y='V'
-            else:
-                try: y=settle(o,r)
-                except Exception: y=None
-            if y is None: skipped+=1; continue
-            if isinstance(y,tuple):  # quarter line
-                _,a,b=y; pay=0
-                for z in (a,b): pay+= (o['odds'] if z is True else 1.0 if z=='V' else 0)/2
-                ret=pay
-            else: ret=o['odds'] if y is True else 1.0 if y=='V' else 0.0
-            o2=dict(o); o2['ret']=round(ret,4); o2['res']=('V' if y=='V' else 'Q' if isinstance(y,tuple) else 'W' if y else 'L')
-            if r!='void': o2.update(score=f"{r['fh']}:{r['fa']}", ht=(f"{r.get('h1h')}:{r.get('h1a')}" if r.get('h1h') is not None else None))
-            f.write(json.dumps(o2)+'\n'); n+=1
+        for e,r in zip(evs,ex.map(lambda e:_safe_result(e,starts[e]),evs)): R[e]=r
+    rows=[]; skipped=0
+    for o in tape:
+        r=R.get(o['eid'])
+        if r is None: continue
+        if r=='void': y='V'
+        else:
+            try: y=settle(o,r)
+            except Exception: y=None
+        if y is None: skipped+=1; continue
+        if isinstance(y,tuple):  # quarter line
+            _,a,b=y; ret=sum((o['odds'] if z is True else 1.0 if z=='V' else 0)/2 for z in (a,b))
+        else: ret=o['odds'] if y is True else 1.0 if y=='V' else 0.0
+        o2=dict(o); o2['ret']=round(ret,4); o2['res']=('V' if y=='V' else 'Q' if isinstance(y,tuple) else 'W' if y else 'L')
+        if r!='void': o2.update(score=f"{r['fh']}:{r['fa']}", ht=(f"{r.get('h1h')}:{r.get('h1a')}" if r.get('h1h') is not None else None))
+        rows.append(o2)
     done=sum(1 for e in evs if isinstance(R.get(e),dict)); voids=sum(1 for e in evs if R.get(e)=='void')
-    print(f'events with results {done} (+{voids} void) of {len(evs)}; graded outcomes {n}; unsettleable-by-score {skipped}')
+    return rows,dict(events=len(evs),with_result=done,void=voids,graded=len(rows),unsettleable=skipped)
+
+def _safe_result(eid,start):
+    try: return result(eid,start)
+    except Exception as ex:
+        print('result error',eid,repr(ex)[:120],flush=True); return None
+
+def kick_day(o): return dt.datetime.utcfromtimestamp(o['start']/1000).strftime('%Y-%m-%d') if o.get('start') else None
+
+def run_window(days):
+    """(Re)write the graded partition of every kick-off day in `days` (a sorted list of YYYY-MM-DD)."""
+    d0=(dt.date.fromisoformat(days[0])-dt.timedelta(days=4)).isoformat(); d1=days[-1]
+    tape=[o for o in load_tape(d0,d1) if kick_day(o) in set(days)]
+    rows,st=grade(tape) if tape else ([],dict(events=0,with_result=0,void=0,graded=0,unsettleable=0))
+    by={d:[] for d in days}        # an empty partition is still written: it marks the day as processed
+    for r in rows: by[kick_day(r)].append(r)
+    os.makedirs(PART_DIR,exist_ok=True)
+    for d,v in by.items():
+        v.sort(key=lambda r:(r['eid'],r['mid'],r.get('spec') or '',r['oid']))   # grouped by fixture: reports stream it
+        tmp=part_path(d)+'.tmp'
+        with gzip.open(tmp,'wt') as f:
+            for r in v: f.write(json.dumps(r)+'\n')
+        os.replace(tmp,part_path(d))
+    print(f"kick-off {days[0]}..{days[-1]}: events {st['events']} with result {st['with_result']} (+{st['void']} void) graded {st['graded']} unsettleable {st['unsettleable']}",flush=True)
+    return st
+
+def main():
+    """Default: re-grade only the last DAYS kick-off days (results settle within a few days). `all` = full backfill."""
+    arg=sys.argv[1] if len(sys.argv)>1 else '6'
+    today=dt.datetime.utcnow().date()
+    fdays=sorted({file_date(f) for f in tape_files()})
+    if not fdays: print('no tape files'); return
+    every=[]; d=dt.date.fromisoformat(fdays[0])
+    while d<=today: every.append(d.isoformat()); d+=dt.timedelta(days=1)
+    if arg=='all': days=every
+    else:   # the last N kick-off days, plus any older day that has no partition yet (fresh checkout / lost cache)
+        recent=(today-dt.timedelta(days=int(arg))).isoformat()
+        days=[x for x in every if x>=recent or not os.path.exists(part_path(x))]
+    groups=[]                         # runs of consecutive days, at most 3 per window (bounded memory)
+    for x in days:
+        if groups and len(groups[-1])<3 and dt.date.fromisoformat(x)-dt.date.fromisoformat(groups[-1][-1])==dt.timedelta(days=1): groups[-1].append(x)
+        else: groups.append([x])
+    tot=collections.Counter()
+    for g in groups: tot.update(run_window(g))
+    print(f"TOTAL events {tot['events']} with result {tot['with_result']} (+{tot['void']} void); graded outcomes {tot['graded']}; unsettleable-by-score {tot['unsettleable']}")
 if __name__=='__main__': main()

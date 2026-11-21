@@ -1,7 +1,9 @@
 # Automated data research on EVERY fixture of a board (all sports): Sportradar last-10 for both teams,
 # venue form, H2H, and a "trend hit-rate" for every market outcome we can evaluate from past scores
 # (results, DNB, double chance, handicaps, game totals, team totals, 1st-half totals, BTTS).
-# Usage: python3 allform.py cache/allboard_sat21.json cache/allform21.json
+# Usage: python3 allform.py <board.json> <out.json> [predictions.csv.gz]
+# The optional third file is the compact, committed record of what the data research predicted BEFORE kick-off
+# (eid,mid,spec,oid,odds,house p,trend,n) -> papertrade/form/; learn.py later grades it against the results.
 import json,sys,re,collections,concurrent.futures as cf
 import sr
 B=json.load(open(sys.argv[1])); OUT=sys.argv[2]
@@ -39,6 +41,11 @@ def trend(o,e,F):
     H,A=F['H'],F['A']; d=o['desc']; md=(o.get('mdesc') or '').lower(); sp=o.get('spec') or ''
     hn,an=e['home'].lower(),e['away'].lower()
     tl=re.search(r'total=([\d.]+)',sp); hc=re.search(r'hcp=([-\d.:]+)',sp)
+    sport=e.get('sport','')
+    # Sportradar's final result is SETS in volleyball and includes overtime/shoot-outs elsewhere, so:
+    if sport=='volleyball' and ('point' in md or (tl and float(tl[1])>10) or (hc and abs(float(hc[1].split(':')[-1] or 0))>4)): return (None,0)
+    reg=not ('overtime' in md or 'incl.' in md)
+    if sport in ('ice hockey','basketball','american football','baseball') and reg and (md.startswith(('1x2','double chance','draw no bet')) or 'handicap' in md): return (None,0)
     half='1st half' in md or '1st' in md and 'half' in md
     def res(g,side):   # side: +1 = this team is the one the outcome backs
         return g['gf']-g['ga']
@@ -105,3 +112,14 @@ for e in EV:
 json.dump(out,open(OUT,'w'))
 print(len(out),'fixtures;',sum(1 for v in out.values() if v.get('data')),'with Sportradar form;',ntr,'market outcomes with a trend hit-rate')
 print(collections.Counter((v['sport'],v.get('data')) for v in out.values()).most_common(20))
+if len(sys.argv)>3:
+    import gzip,csv,os
+    os.makedirs(os.path.dirname(os.path.abspath(sys.argv[3])),exist_ok=True)
+    oid={(e['eid'],o['mid'],o.get('spec') or '',o['desc']):o.get('oid') for e in EV for o in e['mk']}
+    n=0
+    with gzip.open(sys.argv[3],'wt',newline='') as g:
+        w=csv.writer(g)
+        for eid,v in out.items():
+            for t in v.get('trends',[]):
+                w.writerow([eid,t['mid'],t.get('spec') or '',oid.get((eid,t['mid'],t.get('spec') or '',t['desc'])),t.get('odds'),t.get('p'),t['trend'],t['n']]); n+=1
+    print('predictions',sys.argv[3],n)

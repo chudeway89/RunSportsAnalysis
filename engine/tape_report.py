@@ -1,10 +1,9 @@
-# Analyse ../papertrade/tape_graded.jsonl: flat-stake ROI and calibration for EVERY market slice on the
+# Analyse the graded tape (cache/tape_graded/, see tapelib.py) in ONE streaming pass (constant memory): flat-stake ROI and calibration for EVERY market slice on the
 # unfiltered board.  Guards against data-mining: ROI SE is clustered by fixture, and a slice only counts
 # as a candidate if it is positive in BOTH the early and the late half of the data (by kick-off).
 # Writes ../papertrade/TAPE.md
-import json,math,re,collections,statistics as st
-rows=[json.loads(l) for l in open('../papertrade/tape_graded.jsonl')]
-rows=[r for r in rows if r['res']!='V' or True]
+import json,math,re,collections,datetime as dt
+from tapelib import iter_graded,part_days,part_path
 FAM={'1':'1X2','10':'Double Chance','11':'DNB','12':'Home No Bet','13':'Away No Bet','14':'Euro Handicap','15':'Winning Margin',
  '16':'Asian Handicap','18':'Total O/U','19':'Home team O/U','20':'Away team O/U','21':'Exact Goals','23':'Home Exact Goals',
  '24':'Away Exact Goals','25':'Goal Range','26':'Odd/Even','27':'Home Odd/Even','28':'Away Odd/Even','29':'GG/NG','30':'Teams to Score',
@@ -38,37 +37,58 @@ def tier(lg):
     if any(t in l for t in top): return 'top'
     if any(t in l for t in ('women','u19','u20','u21','u23','youth','reserve','amateur','friendly')): return 'junk'
     return 'other'
-def stats(G):
-    n=len(G)
-    if n==0: return None
-    ev=collections.defaultdict(list)
-    for r in G: ev[r['eid']].append(r['ret']-1)
-    per=[sum(v)/len(v) for v in ev.values()]
-    roi=sum(r['ret']-1 for r in G)/n
-    se=(st.pstdev(per)/math.sqrt(len(per))) if len(per)>1 else 9
-    dec=[r for r in G if r['res'] in ('W','L')]
-    hit=sum(r['res']=='W' for r in dec)/len(dec) if dec else 0
-    hp=[r['hp'] for r in dec if r.get('hp')]
-    exp=sum(hp)/len(hp) if hp else 0
-    return dict(n=n,ev=len(per),roi=roi,se=se,hit=hit,exp=exp,odds=sum(r['odds'] for r in G)/n)
-rows.sort(key=lambda r:r.get('start') or 0)
-cut=rows[len(rows)//2].get('start') or 0
-def split(G): return [r for r in G if (r.get('start') or 0)<cut],[r for r in G if (r.get('start') or 0)>=cut]
+class Acc:
+    """Running totals for one slice. Rows arrive grouped by fixture, so the fixture-clustered SE is accumulated
+    from per-fixture mean returns without keeping any rows in memory."""
+    __slots__=('n','pnl','odds','dec','hit','hpn','hps','k','m1','m2','_e','_s','_c')
+    def __init__(s): s.n=s.pnl=s.odds=s.dec=s.hit=s.hpn=s.hps=s.k=s.m1=s.m2=0.0; s._e=None; s._s=0.0; s._c=0
+    def _flush(s):
+        if s._c: m=s._s/s._c; s.k+=1; s.m1+=m; s.m2+=m*m
+        s._s=0.0; s._c=0
+    def add(s,r):
+        if r['eid']!=s._e: s._flush(); s._e=r['eid']
+        p=r['ret']-1; s.n+=1; s.pnl+=p; s.odds+=r['odds']; s._s+=p; s._c+=1
+        if r['res'] in ('W','L'):
+            s.dec+=1; s.hit+=r['res']=='W'
+            if r.get('hp'): s.hpn+=1; s.hps+=r['hp']
+    def stats(s):
+        s._flush()
+        if not s.n: return None
+        var=max(s.m2/s.k-(s.m1/s.k)**2,0.0) if s.k else 0.0
+        return dict(n=int(s.n),ev=int(s.k),roi=s.pnl/s.n,se=(math.sqrt(var)/math.sqrt(s.k)) if s.k>1 else 9,
+                    hit=s.hit/s.dec if s.dec else 0,exp=s.hps/s.hpn if s.hpn else 0,odds=s.odds/s.n)
+# halves: split at the kick-off day where the cumulative row count passes one half (counted from partition sizes)
+import gzip
+days=part_days(); cnt={}
+for d in days:
+    with gzip.open(part_path(d),'rb') as f: cnt[d]=sum(1 for _ in f)
+tot=sum(cnt.values()); run=0; cut_day=days[-1] if days else None
+for d in days:
+    run+=cnt[d]
+    if run>=tot/2: cut_day=d; break
+cut=dt.datetime.strptime(cut_day,'%Y-%m-%d').replace(tzinfo=dt.timezone.utc).timestamp()*1000+86400e3 if cut_day else 0
+def trio(): return [Acc(),Acc(),Acc()]            # whole, early half, late half
+S1=collections.defaultdict(Acc); FAMS=collections.defaultdict(trio); FINE=collections.defaultdict(trio)
+nrows=0; nfx=0; last=None
+for r in iter_graded(days):
+    nrows+=1
+    if r['eid']!=last: nfx+=1; last=r['eid']
+    b=band(r['odds']); f=FAM.get(r['mid'],r['mid']); sd=side(r); h=1 if (r.get('start') or 0)<cut else 2
+    if r['sport'] in ('football','basketball'): S1[(r['sport'],b)].add(r)
+    for key,store in (((r['sport'],f,sd),FAMS),((r['sport'],f,sd,b,tier(r['lg'])),FINE)):
+        t=store[key]; t[0].add(r); t[h].add(r)
 out=['# Market tape — every market on every fixture (no selection)\n',
- f"{len(rows):,} settled outcomes on {len({r['eid'] for r in rows}):,} fixtures, priced at the earliest pre-match price we stored. Flat 1-unit stake on every outcome. ROI = return per unit staked; SE clustered by fixture. Voids return the stake.\n"]
-# 1. calibration by odds band (is SportyBet's own probability honest?)
+ f"{nrows:,} settled outcomes on {nfx:,} fixtures (kick-offs {days[0] if days else '-'} to {days[-1] if days else '-'}), priced at the earliest pre-match price we stored. "
+ f"Flat 1-unit stake on every outcome. ROI = return per unit staked; SE clustered by fixture. Voids return the stake. Halves split after {cut_day}.\n"]
 out.append('\n## 1. Does the house probability match reality? (all outcomes)\n\n| Sport | Odds band | n | Fixtures | House p | Actual win % | ROI | SE |\n|---|---|---|---|---|---|---|---|')
 for sp in ('football','basketball'):
     for b in ('<1.30','1.30-1.59','1.60-2.19','2.20-3.99','4.00+'):
-        s=stats([r for r in rows if r['sport']==sp and band(r['odds'])==b])
+        s=S1[(sp,b)].stats() if (sp,b) in S1 else None
         if s: out.append(f"| {sp} | {b} | {s['n']:,} | {s['ev']:,} | {s['exp']:.3f} | {s['hit']:.3f} | {s['roi']:+.3f} | {s['se']:.3f} |")
-# 2. market family level
-fam=collections.defaultdict(list)
-for r in rows: fam[(r['sport'],FAM.get(r['mid'],r['mid']),side(r))].append(r)
 tab=[]
-for k,G in fam.items():
-    s=stats(G)
-    if s and s['ev']>=60: a,b=split(G); s1,s2=stats(a),stats(b); tab.append((k,s,s1,s2))
+for k,t in FAMS.items():
+    s=t[0].stats()
+    if s and s['ev']>=60: tab.append((k,s,t[1].stats(),t[2].stats()))
 tab.sort(key=lambda x:-x[1]['roi'])
 hdr='| Sport | Market | Side | n | Fixtures | Avg odds | House p | Actual | ROI | SE | Early half | Late half |\n|---|---|---|---|---|---|---|---|---|---|---|---|'
 def line(k,s,s1,s2): return f"| {k[0]} | {k[1]} | {k[2]} | {s['n']:,} | {s['ev']:,} | {s['odds']:.2f} | {s['exp']:.3f} | {s['hit']:.3f} | {s['roi']:+.3f} | {s['se']:.3f} | {(s1 or {}).get('roi',0):+.3f} | {(s2 or {}).get('roi',0):+.3f} |"
@@ -77,20 +97,19 @@ out.append(f"\n## 2. Candidates: ROI positive by >1.5 SE AND positive in both ha
 out+= [line(*t) for t in cand] or ['| none | | | | | | | | | | | |']
 out.append('\n## 3. Best 30 market slices by ROI (≥60 fixtures)\n\n'+hdr); out+=[line(*t) for t in tab[:30]]
 out.append('\n## 4. Worst 20 market slices\n\n'+hdr); out+=[line(*t) for t in tab[-20:]]
-# 5. market x odds band x tier for the families we actually bet
-fb=collections.defaultdict(list)
-for r in rows: fb[(r['sport'],FAM.get(r['mid'],r['mid']),side(r),band(r['odds']),tier(r['lg']))].append(r)
 t5=[]
-for k,G in fb.items():
-    s=stats(G)
+for k,t in FINE.items():
+    s=t[0].stats()
     if s and s['ev']>=80:
-        a,b=split(G); s1,s2=stats(a),stats(b)
+        s1,s2=t[1].stats(),t[2].stats()
         if s1 and s2 and s1['roi']>0 and s2['roi']>0 and s['roi']-1.5*s['se']>0: t5.append((k,s,s1,s2))
 t5.sort(key=lambda x:-(x[1]['roi']/max(x[1]['se'],1e-3)))
 out.append(f"\n## 5. Finer slices (market × side × odds band × league tier), stable in both halves, ROI > 1.5 SE ({len(t5)})\n\n| Sport | Market | Side | Band | Tier | n | Fixtures | House p | Actual | ROI | SE | Early | Late |\n|---|---|---|---|---|---|---|---|---|---|---|---|---|")
 for k,s,s1,s2 in t5[:40]:
     out.append(f"| {k[0]} | {k[1]} | {k[2]} | {k[3]} | {k[4]} | {s['n']:,} | {s['ev']:,} | {s['exp']:.3f} | {s['hit']:.3f} | {s['roi']:+.3f} | {s['se']:.3f} | {s1['roi']:+.3f} | {s2['roi']:+.3f} |")
-n_tests=len(fb)
+n_tests=len(FINE)
 out.append(f"\n_Multiple-testing note: section 5 searched {n_tests:,} slices; at a 1.5-SE bar roughly {int(n_tests*0.067):,} would pass by chance alone before the both-halves filter. Treat everything here as a hypothesis to forward-test, not a proven edge._")
-open('../papertrade/TAPE.md','w').write('\n'.join(out)+'\n')
-print('\n'.join(out[:60]))
+if nrows:
+    open('../papertrade/TAPE.md','w').write('\n'.join(out)+'\n')
+    json.dump(dict(rows=nrows,fixtures=nfx,first=days[0],last=days[-1],candidates=len(cand)),open('../papertrade/tape_status.json','w'))
+print('\n'.join(out[:14]))

@@ -1,0 +1,82 @@
+{
+ "as_of": "2026-11-21 20:49 UTC",
+ "outcomes": 4001086,
+ "first": "2026-10-12",
+ "last": "2026-11-21",
+ "calibration": {
+  "football|25|Goal Range|other|1.60-2.19": 0.0206,
+  "football|25|Goal Range|other|2.20-3.99": -0.0132,
+  "football|37|1X2 & Over/Under 3.5|other|2.20-3.99": 0.0131,
+  "football|37|1X2 & Over/Under 3.5|other|4.00+": -0.0049,
+  "football|68|1st Half - Over/Under|Under|<1.30": 0.0117,
+  "football|900301|Away Team Total Corners|Under|2.20-3.99": 0.0191,
+  "football|15|Winning Margin|other|2.20-3.99": 0.0141,
+  "football|854|Home Team or Over 2.5|No|4.00+": -0.0162,
+  "football|14|Handicap 0:1|Draw level|2.20-3.99": 0.0181,
+  "football|900300|Home Team Total Corners|Over|<1.30": -0.0176,
+  "football|83|2nd Half - 1X2|Home|4.00+": -0.0131,
+  "football|29|GG/NG|Yes|2.20-3.99": 0.0174,
+  "football|14|Handicap 1:0|Draw level|2.20-3.99": 0.0176
+ },
+ "slices_tested": 1142,
+ "form": {
+  "football": {
+   "b": 0.0536,
+   "se": 0.0537,
+   "z": 1.0,
+   "n": 23442,
+   "fixtures": 654,
+   "use": 0.0
+  },
+  "basketball": {
+   "b": 0.0828,
+   "se": 0.1291,
+   "z": 0.64,
+   "n": 12766,
+   "fixtures": 196,
+   "use": 0.0
+  },
+  "volleyball": {
+   "b": -0.3539,
+   "se": 0.3772,
+   "z": -0.94,
+   "n": 104,
+   "fixtures": 56,
+   "use": 0.0
+  },
+  "ice hockey": {
+   "b": 0.749,
+   "se": 0.3303,
+   "z": 2.27,
+   "n": 1739,
+   "fixtures": 76,
+   "use": 0.0
+  }
+ },
+ "research": {
+  "vetoed fixtures: short-priced main markets": {
+   "n": 2272,
+   "fx": 152,
+   "resid": -0.0057013224677376715,
+   "se": 0.0075666929075849975,
+   "z": -0.7534761272024872,
+   "roi": -0.07610035211267593
+  },
+  "researched, not vetoed: same markets": {
+   "n": 43696,
+   "fx": 1994,
+   "resid": -0.0016842701796640238,
+   "se": 0.002338512597482784,
+   "z": -0.7202313904475015,
+   "roi": -0.06219402233614106
+  },
+  "research picks": {
+   "n": 973,
+   "fx": 755,
+   "resid": -0.013330843727543706,
+   "se": 0.01618823836936556,
+   "z": -0.8234894633606856,
+   "roi": -0.06204522096608431
+  }
+ }
+}

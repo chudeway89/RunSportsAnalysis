@@ -13,12 +13,17 @@ ev=json.load(open(f)); ev=ev if isinstance(ev,list) else ev.get('events',[])
 SKIP=re.compile(r'^(8002\d\d|80009\d|77\d|900[0-9]{3})$')
 KEEP_900={'900036','900037','900038','900052','900029','900030','900031','900032','900300','900301'}
 seen=set(); n=0
-import glob
-for old in glob.glob('../papertrade/tape/*.csv.gz'):   # keep only the EARLIEST price of each outcome across all files
+import datetime as _dt
+from tapelib import tape_files,file_date
+# Keep only the EARLIEST price of each outcome. A fixture is listed at most ~2 days before kick-off, so only tape
+# files from the last 5 days can hold the same outcome; reading the whole tape on every run grew without bound.
+_lo=(_dt.datetime.utcnow().date()-_dt.timedelta(days=5)).isoformat()
+for old in tape_files():
+    if file_date(old)<_lo: continue
     try:
         with gzip.open(old,'rt') as g:
             for r in csv.reader(g): seen.add((r[0],r[5],r[7],r[9]))
-    except Exception: pass
+    except Exception as ex: print('tape_store: unreadable',old,ex)
 rows=[]
 for e in ev:
     for o in e.get('mk',[]):

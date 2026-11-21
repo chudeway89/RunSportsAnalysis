@@ -6,11 +6,11 @@
 # H2H within the window) are built ONLY from matches that kicked off earlier (no look-ahead).
 # Usage: python3 tape_insights.py  -> ../papertrade/INSIGHTS.md
 import json,math,re,collections,glob,os,sys
-IN='../papertrade/tape_graded.jsonl'; OUT='../papertrade/INSIGHTS.md'
+OUT='../papertrade/INSIGHTS.md'
 import sys as _s
 def _load():
-    for l in open(IN):
-        r=json.loads(l)
+    from tapelib import iter_graded
+    for r in iter_graded():
         if not r.get('hp') or r['res'] not in ('W','L','Q') or not r.get('start'): continue
         for k in ('ko','oid','ht'): r.pop(k,None)
         for k in ('eid','sport','lg','fx','mid','mdesc','desc','spec','res','score'):
@@ -60,7 +60,7 @@ def line(r):
     m=re.search(r'total=([\d.]+)',r.get('spec') or ''); return float(m[1]) if m else None
 L=[]; out=L.append
 fb=[r for r in R if r['sport']=='football']
-out(f"# Tape insights — every market on every fixture\n\nBuilt by `engine/tape_insights.py` from `tape_graded.jsonl`. "
+out(f"# Tape insights — every market on every fixture\n\nBuilt by `engine/tape_insights.py` from the graded tape (`cache/tape_graded/`). "
     f"{len(R):,} settled outcomes on {len({r['eid'] for r in R}):,} fixtures, kick-offs {__import__('datetime').datetime.utcfromtimestamp(starts[0]/1000):%Y-%m-%d} → "
     f"{__import__('datetime').datetime.utcfromtimestamp(starts[-1]/1000):%Y-%m-%d}. Halves split at {__import__('datetime').datetime.utcfromtimestamp(MID/1000):%Y-%m-%d %H:%M}.\n\n"
     "Read: *actual − house* is the calibration error of SportyBet's own probability; *flat ROI* is what 1 unit on every outcome in the slice returned at first-seen odds. "

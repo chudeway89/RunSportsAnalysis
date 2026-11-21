@@ -2,6 +2,8 @@
 
 You are a team of data analysts, statisticians, actuaries and quant engineers. You analyse SportyBet Nigeria booking codes, research fixtures, and post edited or new tickets through SportyBet's API (never the UI).
 
+**Purpose of the repository:** every night it harvests every fixture and market on SportyBet, researches them, settles them after they are played and learns from all of it (`engine/learn.py` → `papertrade/LEARNED.md`, `learned.json`). Tickets come last and are built from what was learned. Design and data flow: `docs/ARCHITECTURE.md`.
+
 **This file is the compact core and is always loaded.** The full verbatim history is in `docs/HISTORY.md` (every rule L1–L82, R1–R7, v3–v9 engine notes, and the day-by-day calibration log from Jun 9 → Nov 7, 3,000 lines). Nothing was deleted. Open it with grep when you need a specific past case, for example `grep -n "Betis\|L81" docs/HISTORY.md`. The full-journey review behind these rules is `docs/REVIEW_v7.md`.
 
 ---
@@ -103,8 +105,15 @@ You are a team of data analysts, statisticians, actuaries and quant engineers. Y
   - Sportradar gismo feed `sr.py`: `sr:match:N` = gismo id N.
   - ESPN `espn_hist.py` (NBA/WNBA/MLB closing lines).
   - football-data CSVs via `fd_fetch.sh` (needs `curl -L`).
-- **Automation:** `.github/workflows/papertrade.yml` on branch `claude/sports-accumulator-analysis-8su67`, 21:40 and 11:00 UTC. It runs `daily.py` (harvest → price → snapshot → grade), `tape_harvest.py` (every TEAM sport, every fixture and market SportyBet lists; individual sports, esports and simulated events excluded by user directive; both runs) → `tape_store`/`tape_grade`/`tape_report` (settles winner/totals/handicaps incl. OT for all sports, set points, hockey regulation, football corners and bookings), `journal.py` and `settle_tickets.py`. Outputs:
-  - `papertrade/status.json`, `JOURNAL.md`, `TICKETS.md`, `CLASSES.md`, `TAPE.md`, `FACTORS.md`, `legs.jsonl`.
+- **Automation:** `.github/workflows/papertrade.yml` on branch `claude/sports-accumulator-analysis-8su67`, 21:40 and 11:00 UTC. Every step runs through `health.py` (results in `papertrade/health.json`; a failed step turns the run red). In order:
+  - `daily.py` or `grade.py`: our own corners/cards/basketball/baseball models, priced and graded.
+  - `tape_harvest.py` → `tape_store.py`: every TEAM sport, every fixture and market (individual sports, esports and simulated events excluded by user directive) → `papertrade/tape/`.
+  - `allform.py`: Sportradar last-10 and a trend rate per market for every harvested fixture, stored before kick-off → `papertrade/form/`.
+  - `tape_grade.py 6`: settles the last 6 kick-off days (and any day with no partition) → `engine/cache/tape_graded/`. `tape_grade.py all` rebuilds everything.
+  - `tape_report.py` → `TAPE.md`; `learn.py` → `LEARNED.md`, `learned.json`, `learning_log.jsonl`.
+  - `settle_tickets.py` → `ticket_ledger.jsonl` (permanent), `TICKETS.md`, `CLASSES.md`, `legs.jsonl`; `journal.py` → `JOURNAL.md`.
+- **Ticket builder:** `build_tickets.py --board <board.json> --research '<glob>' --targets 50,500 [--nest] [--sport basketball] [--exclude file] [--post]`. It applies the §5 gates, re-prices live, drops legs that drifted, ranks by house probability plus the learned correction, posts, verifies every leg's identity and appends the code to `tickets.txt`. Do not write a new dated build script.
+- **Checks:** `cd engine && python3 -m unittest discover -s tests` (also run by `ci.yml` on every push).
 
 ## 4. What the evidence says (the numbers every decision rests on)
 1. **The house price is accurate and the board is efficient.**
@@ -224,10 +233,10 @@ You are a team of data analysts, statisticians, actuaries and quant engineers. Y
   - tape_store now writes a new, never-modified file per run (`<date>_<HHMMSS>_<ci|session>.csv.gz`).
   - `.gitattributes` union-merges tickets.txt, legs.jsonl and LOG.md.
   - The workflow falls back to a merge preferring its own regenerated outputs.
-- Tape size: ~5–7 MB/day committed under `papertrade/tape/`. Review in ~2 months (prune to monthly aggregates if the repo passes ~1 GB).
+- Tape size: ~5–7 MB/day under `papertrade/tape/` plus ~1 MB/day under `papertrade/form/`. Review in ~2 months (prune to monthly aggregates if the repo passes ~1 GB).
 - SportyBet codes expire after ~2 weeks; `legs.jsonl` keeps the legs after expiry.
-- `fixsim.py` output path is hard-coded; daypack can't take an end hour past midnight (rolls over now, but verify).
-- **`fixsim.py` simulates `cache/winmodel_legs.json`, not the baseline you pass.** Run `winmodel.py price <board> <auto.json>` first, or it re-simulates stale legs (found Nov 16: the Nov 14–15 runs re-simulated Nov 12 legs).
+- `fixsim.py <baseline.json> [out.json] [legs.json]` refuses to run when the legs file is older than the baseline (stale-simulation bug, Nov 14–15). Run `winmodel.py price <board> <auto.json>` first.
+- **Nov 21 engineering review** (details in `docs/ARCHITECTURE.md`): the grading crash, the hidden step failures, the ever-cached unfinished matches, the lost ticket history and the missing learning loop are fixed. Web research still needs a session; everything else is automatic.
 
 ## 9. Memory: durable insights (panel review v7, Nov 8 2026; details in docs/REVIEW_v7.md)
 1. The house is right about probabilities; our edge is selection (+6pp on legs), and it is small.

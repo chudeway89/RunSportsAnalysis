@@ -1,0 +1,27 @@
+# Fast checks on every push and pull request: every engine script must compile, and the settlement / health /
+# tape unit tests must pass. Keeps a syntax error or a settlement regression from reaching the nightly run.
+name: ci
+on:
+  push:
+    paths: ['engine/**', '.github/workflows/**']
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 1}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install -q numpy scipy pyflakes
+      - name: Compile every script
+        run: python3 -m compileall -q engine
+      - name: Undefined names
+        working-directory: engine
+        run: "! python3 -m pyflakes *.py | grep -E \": undefined name \""
+      - name: Unit tests
+        working-directory: engine
+        run: python3 -m unittest discover -s tests -v

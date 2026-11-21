@@ -3,17 +3,23 @@ SID={'football':'sr:sport:1','basketball':'sr:sport:2','baseball':'sr:sport:3'}
 H=['-A','Mozilla/5.0 (Linux; Android 12; SM-G991B)','-H','Accept: application/json',
    '-H','Origin: https://www.sportybet.com','-H','Referer: https://www.sportybet.com/ng/',
    '-H','X-Requested-With: XMLHttpRequest']
-def curl_get(url):
-    for i in range(3):
-        r=subprocess.run(['curl','-s']+H+[url],capture_output=True,text=True,timeout=45)
+def curl_get(url,tries=3):
+    """GET a SportyBet JSON endpoint. Returns {} on any failure (timeout, bad JSON), never raises: one slow
+    response must not kill a whole harvest thread pool."""
+    for i in range(tries):
         try:
+            r=subprocess.run(['curl','-s','-m','40']+H+[url],capture_output=True,text=True,timeout=50)
             d,_=json.JSONDecoder().raw_decode(r.stdout); return d
-        except Exception: time.sleep(2)
+        except Exception: time.sleep(2*(i+1))
     return {}
-def curl_post(payload):
-    r=subprocess.run(['curl','-s','-X','POST']+H+['-H','Content-Type: application/json','-d',json.dumps(payload),
-       'https://www.sportybet.com/api/ng/orders/share'],capture_output=True,text=True,timeout=45)
-    d,_=json.JSONDecoder().raw_decode(r.stdout); return d
+def curl_post(payload,tries=2):
+    for i in range(tries):
+        try:
+            r=subprocess.run(['curl','-s','-m','40','-X','POST']+H+['-H','Content-Type: application/json','-d',json.dumps(payload),
+               'https://www.sportybet.com/api/ng/orders/share'],capture_output=True,text=True,timeout=50)
+            d,_=json.JSONDecoder().raw_decode(r.stdout); return d
+        except Exception: time.sleep(3)
+    return {}
 def sel(l):
     s={'eventId':l['eid'],'marketId':l['mid'],'outcomeId':l['oid'],'productId':3,'sportId':l['sid']}
     if l.get('spec'): s['specifier']=l['spec']

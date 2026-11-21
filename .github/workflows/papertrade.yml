@@ -1,4 +1,4 @@
-# Daily paper-trade pipeline: runs on GitHub's own runners, so it needs no Claude session, no container and no
+# Daily harvest -> research -> settle -> learn pipeline: runs on GitHub's own runners, so it needs no Claude session, no container and no
 # repo attachment. Evening run = harvest + price + grade; midday run = grade only (results of last night settle).
 # Any failure (bad exit code, empty snapshot, push conflict) marks the run red and GitHub emails the repo owner.
 name: papertrade
@@ -34,22 +34,31 @@ jobs:
           MODE="${{ github.event.inputs.mode }}"
           if [ -z "$MODE" ]; then [ "${{ github.event.schedule }}" = '0 11 * * *' ] && MODE=grade || MODE=full; fi
           echo "mode=$MODE"
-          if [ "$MODE" = grade ]; then python3 grade.py; else python3 daily.py; fi
+          python3 health.py reset
+          if [ "$MODE" = grade ]; then python3 health.py run grade --timeout 3600 -- python3 grade.py
+          else python3 health.py run daily --timeout 5400 -- python3 daily.py; fi
+      # Every step below runs through health.py: a failure is recorded in papertrade/health.json and shown in the
+      # journal, later steps still run, and the final step turns the run red. Nothing fails silently any more.
       - name: Market tape (every market on every fixture, unfiltered)
         if: always()
         working-directory: engine
         run: |
-          python3 -W ignore tape_harvest.py 30 || echo 'all-sports tape harvest failed (non-fatal)'
-          for f in cache/board_*.json; do [ -f "$f" ] && python3 tape_store.py "$f"; done
-          python3 tape_grade.py && python3 tape_report.py > /dev/null || echo 'tape step failed (non-fatal)'
+          python3 health.py run tape_harvest --timeout 2400 -- python3 -W ignore tape_harvest.py 30
+          # Automated data research on EVERY harvested fixture, stored BEFORE kick-off so it can be graded honestly
+          B="cache/tapeboard_$(date -u +%F).json"
+          [ -f "$B" ] && python3 health.py run form_research --timeout 2400 -- python3 -W ignore allform.py "$B" cache/allform_ci.json "../papertrade/form/$(date -u +%F_%H%M)_ci.csv.gz"
+          python3 health.py run tape_grade   --timeout 3000 -- python3 -W ignore tape_grade.py 6
+          python3 health.py run tape_report  --timeout 900  -- python3 -W ignore tape_report.py
+          # The learning loop: calibration corrections, form-vs-price weight, research scorecard -> learned.json
+          python3 health.py run learn        --timeout 900  -- python3 -W ignore learn.py
       - name: Settle posted tickets
         if: always()
         working-directory: engine
-        run: python3 settle_tickets.py || echo 'ticket settlement failed (non-fatal)'
+        run: python3 health.py run settle_tickets --timeout 900 -- python3 -W ignore settle_tickets.py
       - name: Journal (always, so failures are recorded too)
         if: always()
         working-directory: engine
-        run: python3 journal.py
+        run: python3 health.py run journal --timeout 300 -- python3 -W ignore journal.py
       - name: Commit and push results
         if: always()
         run: |
@@ -69,3 +78,7 @@ jobs:
             sleep $((i*i*5))
           done
           echo 'push failed after 5 attempts'; exit 1
+      - name: Fail the run if any step failed (after results are pushed)
+        if: always()
+        working-directory: engine
+        run: python3 health.py check

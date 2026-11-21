@@ -1,6 +1,12 @@
 # 100,000 independent simulations of EVERY fixture on the board; settles every priced leg of that fixture on the same draws.
-import json,sys,collections,numpy as np
-L=json.load(open('cache/winmodel_legs.json')); BASE={b['eid']:b for b in json.load(open(sys.argv[1]))}
+# Usage: python3 fixsim.py <baseline.json> [out.json=cache/fixsim04.json] [legs.json=cache/winmodel_legs.json]
+# The legs file must be the one `winmodel.py price` wrote for THIS board: the script refuses to run when it is older
+# than the baseline (the Nov 14-15 runs silently re-simulated Nov 12 legs).
+import json,sys,os,collections,numpy as np
+BASEF=sys.argv[1]; OUTF=sys.argv[2] if len(sys.argv)>2 else 'cache/fixsim04.json'; LEGF=sys.argv[3] if len(sys.argv)>3 else 'cache/winmodel_legs.json'
+if os.path.getmtime(LEGF)<os.path.getmtime(BASEF)-60 and not os.environ.get('ALLOW_STALE'):
+    sys.exit(f'STALE INPUT: {LEGF} is older than {BASEF}. Run `python3 winmodel.py price <board> <auto.json>` first (or set ALLOW_STALE=1).')
+L=json.load(open(LEGF)); BASE={b['eid']:b for b in json.load(open(BASEF))}
 N=100000; rng=np.random.default_rng(4)
 def settle(x,draw):
     m,sp,d=x['mid'],x['spec'] or '',x['desc']
@@ -37,7 +43,7 @@ for eid,xs in G.items():
         if r is None: continue
         w=float((r==1).mean()); v=float((r==0).mean())
         out.append(dict(x,sim=w,simv=v,simev=w*x['odds']+v))
-json.dump(out,open('cache/fixsim04.json','w'))
+json.dump(out,open(OUTF,'w'))
 fx={o['eid'] for o in out}
-print(len(fx),'fixtures simulated x',N,'| legs settled',len(out))
+print(len(fx),'fixtures simulated x',N,'| legs settled',len(out),'->',OUTF)
 d=np.array([o['sim']-o['p'] for o in out if o['simv']==0]); print('sim vs model p: mean abs diff %.4f, max %.4f'%(abs(d).mean(),abs(d).max()))

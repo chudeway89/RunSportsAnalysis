@@ -1,81 +1,81 @@
 # Leg-class scorecard (auto)
 
-From `papertrade/legs.jsonl` (2715 unique legs). Expected = house probability at first sighting. A class whose actual win rate sits well below expected over 30+ decided legs is a candidate pick.py gate.
+From `papertrade/legs.jsonl` (2857 unique legs). Expected = house probability at first sighting. A class whose actual win rate sits well below expected over 30+ decided legs is a candidate pick.py gate.
 
 | Class | Split | Decided | W | L | V | Win % | Expected % | Gap (pp) |
 |---|---|---|---|---|---|---|---|---|
-| Over | all | 562 | 402 | 160 | 5 | 72 | 59 | +13 |
-| Over | weekend | 288 | 215 | 73 | 2 | 75 | 61 | +14 |
+| Over | all | 587 | 419 | 168 | 5 | 71 | 59 | +13 |
+| Over | weekend | 313 | 232 | 81 | 2 | 74 | 60 | +14 |
 | Over | weekday | 274 | 187 | 87 | 3 | 68 | 57 | +11 |
-| Under | all | 165 | 117 | 48 | 0 | 71 | 80 | -9 |
-| bball AH catch +2+ | all | 163 | 103 | 60 | 0 | 63 | 59 | +5 |
-| Over integer | all | 149 | 93 | 56 | 58 | 62 | 56 | +6 |
-| AH catch +1.5 | all | 140 | 99 | 41 | 0 | 71 | 64 | +7 |
-| team Over | all | 137 | 98 | 39 | 1 | 72 | 52 | +19 |
-| AH catch +0.5-1 | all | 130 | 95 | 35 | 14 | 73 | 68 | +5 |
-| Double Chance | all | 103 | 79 | 24 | 1 | 77 | 75 | +2 |
-| 1X2 Home | all | 95 | 79 | 16 | 0 | 83 | 76 | +8 |
+| bball AH catch +2+ | all | 172 | 111 | 61 | 0 | 65 | 60 | +5 |
+| Under | all | 166 | 118 | 48 | 0 | 71 | 80 | -9 |
+| Over integer | all | 154 | 97 | 57 | 59 | 63 | 56 | +7 |
+| AH catch +1.5 | all | 143 | 102 | 41 | 0 | 71 | 64 | +7 |
+| team Over | all | 140 | 101 | 39 | 1 | 72 | 52 | +20 |
+| AH catch +0.5-1 | all | 133 | 98 | 35 | 14 | 74 | 68 | +6 |
+| 1X2 Home | all | 107 | 87 | 20 | 0 | 81 | 75 | +7 |
+| Double Chance | all | 105 | 80 | 25 | 1 | 76 | 75 | +2 |
 | bball AH catch +2+ | weekday | 93 | 58 | 35 | 0 | 62 | 58 | +4 |
 | Under | weekday | 88 | 61 | 27 | 0 | 69 | 80 | -11 |
-| AH catch +1.5 | weekend | 79 | 56 | 23 | 0 | 71 | 62 | +9 |
-| Under | weekend | 77 | 56 | 21 | 0 | 73 | 80 | -7 |
+| AH catch +1.5 | weekend | 82 | 59 | 23 | 0 | 72 | 63 | +9 |
+| DNB | all | 79 | 61 | 18 | 34 | 77 | 77 | -0 |
+| Over integer | weekend | 79 | 56 | 23 | 34 | 71 | 60 | +11 |
+| bball AH catch +2+ | weekend | 79 | 53 | 26 | 0 | 67 | 61 | +6 |
+| Under | weekend | 78 | 57 | 21 | 0 | 73 | 79 | -6 |
+| team Over | weekend | 77 | 56 | 21 | 0 | 73 | 53 | +20 |
 | Double Chance | weekday | 75 | 60 | 15 | 1 | 80 | 78 | +2 |
 | Over integer | weekday | 75 | 41 | 34 | 25 | 55 | 53 | +2 |
-| Over integer | weekend | 74 | 52 | 22 | 33 | 70 | 59 | +11 |
-| team Over | weekend | 74 | 53 | 21 | 0 | 72 | 52 | +19 |
-| bball AH catch +2+ | weekend | 70 | 45 | 25 | 0 | 64 | 59 | +5 |
-| DNB | all | 69 | 55 | 14 | 32 | 80 | 77 | +3 |
-| bball ML | all | 68 | 46 | 22 | 0 | 68 | 73 | -6 |
-| AH catch +0.5-1 | weekend | 67 | 43 | 24 | 7 | 64 | 66 | -1 |
+| AH catch +0.5-1 | weekend | 70 | 46 | 24 | 7 | 66 | 66 | -1 |
+| bball ML | all | 70 | 48 | 22 | 0 | 69 | 74 | -5 |
 | Under (bball) | all | 67 | 47 | 20 | 0 | 70 | 60 | +10 |
 | AH catch +0.5-1 | weekday | 63 | 52 | 11 | 7 | 83 | 70 | +13 |
 | team Over | weekday | 63 | 45 | 18 | 1 | 71 | 52 | +20 |
+| 1X2 Home | weekend | 61 | 50 | 11 | 0 | 82 | 73 | +9 |
 | AH catch +1.5 | weekday | 61 | 43 | 18 | 0 | 70 | 67 | +4 |
-| GG/BTTS | all | 52 | 33 | 19 | 0 | 63 | 70 | -6 |
-| corners | all | 51 | 35 | 16 | 0 | 69 | 62 | +7 |
-| 1X2 Home | weekend | 49 | 42 | 7 | 0 | 86 | 75 | +11 |
+| GG/BTTS | all | 55 | 35 | 20 | 0 | 64 | 70 | -7 |
+| corners | all | 53 | 37 | 16 | 0 | 70 | 62 | +7 |
+| Over (bball) | all | 50 | 41 | 9 | 0 | 82 | 73 | +9 |
 | Goal Bounds | all | 47 | 31 | 16 | 0 | 66 | 64 | +2 |
 | 1X2 Home | weekday | 46 | 37 | 9 | 0 | 80 | 76 | +4 |
-| AH catch +2+ | all | 43 | 34 | 9 | 7 | 79 | 71 | +8 |
+| AH catch +2+ | all | 46 | 36 | 10 | 7 | 78 | 68 | +10 |
+| other m858 | all | 45 | 32 | 13 | 1 | 71 | 73 | -2 |
+| DNB | weekend | 44 | 34 | 10 | 15 | 77 | 84 | -7 |
 | Under (bball) | weekend | 43 | 29 | 14 | 0 | 67 | 57 | +10 |
-| other m858 | all | 42 | 30 | 12 | 1 | 71 | 73 | -1 |
-| Over (bball) | all | 40 | 32 | 8 | 0 | 80 | 72 | +8 |
-| other m59 | all | 38 | 25 | 13 | 2 | 66 | 72 | -6 |
-| bball ML | weekend | 36 | 25 | 11 | 0 | 69 | 74 | -4 |
+| other m59 | all | 40 | 26 | 14 | 2 | 65 | 72 | -7 |
+| bball ML | weekend | 38 | 27 | 11 | 0 | 71 | 75 | -4 |
+| Over (bball) | weekend | 37 | 32 | 5 | 0 | 86 | 76 | +10 |
+| corners | weekend | 36 | 27 | 9 | 0 | 75 | 63 | +12 |
 | DNB | weekday | 35 | 27 | 8 | 19 | 77 | 69 | +8 |
-| DNB | weekend | 34 | 28 | 6 | 13 | 82 | 85 | -2 |
-| corners | weekend | 34 | 25 | 9 | 0 | 74 | 63 | +10 |
+| other m29 | all | 34 | 18 | 16 | 1 | 53 | 45 | +8 |
 | GG/BTTS | weekday | 33 | 19 | 14 | 0 | 58 | 71 | -13 |
-| other m29 | all | 33 | 18 | 15 | 1 | 55 | 46 | +8 |
+| other m854 | all | 33 | 22 | 11 | 0 | 67 | 73 | -7 |
 | bball ML | weekday | 32 | 21 | 11 | 0 | 66 | 73 | -7 |
-| other m854 | all | 32 | 22 | 10 | 0 | 69 | 73 | -5 |
-| Double Chance | weekend | 28 | 19 | 9 | 0 | 68 | 67 | +1 |
-| Over (bball) | weekend | 27 | 23 | 4 | 0 | 85 | 76 | +9 |
+| Double Chance | weekend | 30 | 20 | 10 | 0 | 67 | 67 | -0 |
+| AH give -1 | all | 28 | 24 | 4 | 15 | 86 | 69 | +17 |
 | Under integer | all | 27 | 25 | 2 | 2 | 93 | 84 | +9 |
 | other m90 | all | 26 | 17 | 9 | 10 | 65 | 77 | -11 |
 | other m90 | weekend | 26 | 17 | 9 | 10 | 65 | 77 | -11 |
-| AH give -1 | all | 25 | 21 | 4 | 15 | 84 | 69 | +15 |
 | Goal Bounds | weekday | 24 | 14 | 10 | 0 | 58 | 59 | -1 |
 | Under (bball) | weekday | 24 | 18 | 6 | 0 | 75 | 65 | +10 |
 | AH catch +2+ | weekday | 23 | 17 | 6 | 3 | 74 | 74 | +0 |
+| AH catch +2+ | weekend | 23 | 19 | 4 | 4 | 83 | 62 | +20 |
 | Goal Bounds | weekend | 23 | 17 | 6 | 0 | 74 | 68 | +6 |
+| other m858 | weekend | 23 | 16 | 7 | 0 | 70 | 72 | -2 |
 | team Under | all | 23 | 17 | 6 | 0 | 74 | 86 | -12 |
+| GG/BTTS | weekend | 22 | 16 | 6 | 0 | 73 | 70 | +3 |
+| other m854 | weekend | 22 | 17 | 5 | 0 | 77 | 74 | +3 |
 | other m858 | weekday | 22 | 16 | 6 | 1 | 73 | 74 | -1 |
 | other m59 | weekday | 21 | 12 | 9 | 1 | 57 | 72 | -14 |
-| other m854 | weekend | 21 | 17 | 4 | 0 | 81 | 74 | +7 |
-| AH catch +2+ | weekend | 20 | 17 | 3 | 4 | 85 | 69 | +16 |
-| other m858 | weekend | 20 | 14 | 6 | 0 | 70 | 71 | -1 |
-| GG/BTTS | weekend | 19 | 14 | 5 | 0 | 74 | 68 | +5 |
 | bball AH catch +1.5 | all | 19 | 14 | 5 | 0 | 74 | 64 | +9 |
 | other m29 | weekday | 19 | 12 | 7 | 1 | 63 | 51 | +12 |
+| other m59 | weekend | 19 | 14 | 5 | 1 | 74 | 72 | +2 |
 | other m68 | all | 19 | 12 | 7 | 0 | 63 | 61 | +2 |
 | Under integer | weekend | 18 | 16 | 2 | 1 | 89 | 83 | +6 |
+| AH give -1 | weekend | 17 | 15 | 2 | 8 | 88 | 71 | +17 |
 | corners | weekday | 17 | 10 | 7 | 0 | 59 | 60 | -1 |
-| other m59 | weekend | 17 | 13 | 4 | 1 | 76 | 72 | +5 |
 | other m85 | all | 16 | 8 | 8 | 0 | 50 | 72 | -22 |
+| other m29 | weekend | 15 | 6 | 9 | 0 | 40 | 37 | +3 |
 | 1X2 Away | all | 14 | 11 | 3 | 1 | 79 | 69 | +9 |
-| AH give -1 | weekend | 14 | 12 | 2 | 8 | 86 | 71 | +15 |
-| other m29 | weekend | 14 | 6 | 8 | 0 | 43 | 40 | +3 |
 | other m68 | weekend | 14 | 9 | 5 | 0 | 64 | 66 | -1 |
 | Over (bball) | weekday | 13 | 9 | 4 | 0 | 69 | 65 | +4 |
 | bball AH catch +1.5 | weekday | 13 | 10 | 3 | 0 | 77 | 64 | +13 |
@@ -91,20 +91,20 @@ From `papertrade/legs.jsonl` (2715 unique legs). Expected = house probability at
 | team Under | weekend | 10 | 6 | 4 | 0 | 60 | 81 | -21 |
 | Goal Bounds team | all | 9 | 5 | 4 | 0 | 56 | 63 | -8 |
 | Under integer | weekday | 9 | 9 | 0 | 1 | 100 | 84 | +16 |
-| AH give 0 | all | 8 | 5 | 3 | 0 | 62 | 62 | +0 |
+| AH give 0 | all | 8 | 5 | 3 | 1 | 62 | 62 | +0 |
 | other m60100 | weekend | 8 | 8 | 0 | 0 | 100 | 68 | +32 |
 | other m60200 | weekend | 7 | 7 | 0 | 0 | 100 | 64 | +36 |
 | Goal Bounds team | weekday | 6 | 3 | 3 | 0 | 50 | 54 | -4 |
 | bball AH catch +1.5 | weekend | 6 | 4 | 2 | 0 | 67 | 65 | +2 |
+| bball AH give -5.5 | all | 6 | 3 | 3 | 0 | 50 | 43 | +7 |
 | other m547 | all | 6 | 3 | 3 | 0 | 50 | 66 | -16 |
+| AH give -0.5 | all | 5 | 4 | 1 | 0 | 80 | 54 | +26 |
 | AH give 0 | weekday | 5 | 3 | 2 | 0 | 60 | 58 | +2 |
-| bball AH give -5.5 | all | 5 | 3 | 2 | 0 | 60 | 47 | +13 |
+| bball AH give -10.5 | all | 5 | 5 | 0 | 0 | 100 | 70 | +30 |
 | other m68 | weekday | 5 | 3 | 2 | 0 | 60 | 49 | +11 |
 | other m856 | all | 5 | 5 | 0 | 0 | 100 | 79 | +21 |
 | 1X2 Away | weekend | 4 | 3 | 1 | 1 | 75 | 64 | +11 |
-| AH give -0.5 | all | 4 | 3 | 1 | 0 | 75 | 54 | +21 |
 | AH give -2 | all | 4 | 2 | 2 | 0 | 50 | 53 | -3 |
-| bball AH give -10.5 | all | 4 | 4 | 0 | 0 | 100 | 75 | +25 |
 | bball AH give -5.5 | weekday | 4 | 2 | 2 | 0 | 50 | 41 | +9 |
 | other m2 | all | 4 | 2 | 2 | 0 | 50 | 57 | -7 |
 | other m2 | weekday | 4 | 2 | 2 | 0 | 50 | 57 | -7 |
@@ -115,9 +115,10 @@ From `papertrade/legs.jsonl` (2715 unique legs). Expected = house probability at
 | other m810002 | weekday | 4 | 3 | 1 | 0 | 75 | 65 | +10 |
 | AH give -0.5 | weekday | 3 | 2 | 1 | 0 | 67 | 73 | -6 |
 | AH give -2 | weekday | 3 | 2 | 1 | 0 | 67 | 53 | +14 |
-| AH give 0 | weekend | 3 | 2 | 1 | 0 | 67 | 69 | -3 |
+| AH give 0 | weekend | 3 | 2 | 1 | 1 | 67 | 69 | -3 |
 | Goal Bounds team | weekend | 3 | 2 | 1 | 0 | 67 | 83 | -16 |
 | bball AH give -10.5 | weekday | 3 | 3 | 0 | 0 | 100 | 79 | +21 |
+| bball AH give -2.5 | all | 3 | 3 | 0 | 0 | 100 | 43 | +57 |
 | bball AH give -4.5 | all | 3 | 2 | 1 | 0 | 67 | 73 | -6 |
 | bball AH give -7.5 | all | 3 | 2 | 1 | 0 | 67 | 71 | -4 |
 | other m547 | weekday | 3 | 2 | 1 | 0 | 67 | 63 | +3 |

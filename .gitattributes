@@ -3,3 +3,4 @@ papertrade/legs.jsonl merge=union
 papertrade/LOG.md merge=union
 papertrade/tape/*.csv.gz binary
 papertrade/singles.txt merge=union
+papertrade/learning_log.jsonl merge=union
