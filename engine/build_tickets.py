@@ -56,16 +56,25 @@ def kind(leg):
     if d.startswith('Over') or (leg['mid']=='29' and d in ('Yes','GG')): return 'O'
     return 'R'
 
-def build(cands,target,used,ctry_cap=4,max_unders=1,over_frac=0.4,sport_cap=None):
-    """Greedy cheapest-cost fill to `target` odds with the concentration rules (S3)."""
-    T=[];o=1.0;cc=collections.Counter();sc=collections.Counter();u=0
+def is_o15(l): return l.get('mid')=='18' and l.get('desc','').startswith('Over') and (l.get('spec') or '').endswith('total=1.5')
+def build(cands,target,used,ctry_cap=4,max_unders=1,over_frac=0.4,sport_cap=None,base=(),max_o15=3):
+    """Greedy cheapest-cost fill to `target` odds with the concentration rules (S3).
+    `base` = legs already on the ticket (nested slips): they count towards every cap, so B+X obeys the rules as one ticket."""
+    T=[];o=1.0;B=list(base)
+    cc=collections.Counter(x['ctry'] for x in B);sc=collections.Counter(x['sport'] for x in B)
+    u=sum(x['kind']=='U' for x in B);o15=sum(is_o15(x) for x in B)
+    lt=collections.Counter((x['lg'],x['kind']) for x in B if x['kind'] in 'OU')   # <=2 same-direction totals per league
     for l in sorted((c for c in cands if c['eid'] not in used),key=lambda l:l['cost']):
         if o>=target: break
         if cc[l['ctry']]>=ctry_cap: continue
         if sport_cap and sc[l['sport']]>=sport_cap.get(l['sport'],99): continue
         if l['kind']=='U' and u>=max_unders: continue
-        if l['kind']=='O' and len(T)>=5 and sum(x['kind']=='O' for x in T)+1>over_frac*(len(T)+1): continue
-        T.append(l);o*=l['odds'];cc[l['ctry']]+=1;sc[l['sport']]+=1;u+=l['kind']=='U'
+        if is_o15(l) and o15>=max_o15: continue
+        if l['kind'] in 'OU' and lt[(l['lg'],l['kind'])]>=2: continue
+        n=len(T)+len(B)
+        if l['kind']=='O' and n>=5 and sum(x['kind']=='O' for x in T+B)+1>over_frac*(n+1): continue
+        T.append(l);o*=l['odds'];cc[l['ctry']]+=1;sc[l['sport']]+=1;u+=l['kind']=='U';o15+=is_o15(l)
+        if l['kind'] in 'OU': lt[(l['lg'],l['kind'])]+=1
     return T
 
 def sel(l):
@@ -89,6 +98,7 @@ def main():
     ap.add_argument('--extend',action='store_true',help='each later target = the previous ticket plus new fixtures (fixture on <=2 slips)')
     ap.add_argument('--min-conf',type=float,default=0.2,help='skip research entries rated below this confidence (statistics-only fill)')
     ap.add_argument('--date',default=dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%d')); ap.add_argument('--label',default='ticket')
+    ap.add_argument('--min-p',type=float,default=0.0,help='skip legs whose house probability is below this (tight tickets)')
     ap.add_argument('--lead-min',type=float,default=45); ap.add_argument('--drift',type=float,default=0.06)
     a=ap.parse_args()
     BE={}
@@ -124,6 +134,7 @@ def main():
             l=dict(eid=r['eid'],sid=e['sid'],sport=e['sport'],fx=e.get('fx') or r.get('fx'),lg=e['lg'],start=e['start'],mid=mid,spec=spec or None,desc=desc,
                    oid=oid,mdesc=mdesc,odds=odds,p=hp,ctry=e['lg'].split(' / ')[0],why=(p.get('why') or '')[:160])
             why=gate(l,fp,e['lg'])
+            if not why and hp<a.min_p: why=f'house p below --min-p {a.min_p}'
             if why or hp<=0: drop[why or 'no house probability']+=1; continue
             l['kind']=kind(l); l['q'],l['adj']=adjust(l,LRN,_side(l)); l['cost']=-math.log(l['q'])/math.log(odds); legs.append(l)
     print(f"{len(legs)} legs pass the gates ({sum(1 for l in legs if l['adj'])} with a learned correction, learned as of {LRN.get('as_of','never')}); dropped: {dict(drop)}")
@@ -136,14 +147,14 @@ def main():
         A=build(cands,tg[0],used,3,sport_cap=cap); used|={l['eid'] for l in A}
         B=build(cands,tg[1],used,4,sport_cap=cap); used|={l['eid'] for l in B}
         oA=math.prod(l['odds'] for l in A) or 1; oB=math.prod(l['odds'] for l in B) or 1
-        X=build(cands,tg[2]/oA,used,6,max_unders=0,over_frac=0.45,sport_cap=cap); used|={l['eid'] for l in X}
-        Y=build(cands,tg[3]/oB,used,7,max_unders=0,over_frac=0.45,sport_cap=cap)
+        X=build(cands,tg[2]/oA,used,6,max_unders=1,over_frac=0.45,sport_cap=cap,base=A); used|={l['eid'] for l in X}
+        Y=build(cands,tg[3]/oB,used,7,max_unders=1,over_frac=0.45,sport_cap=cap,base=B)
         tickets=[(tg[0],A),(tg[1],B),(tg[2],A+X),(tg[3],B+Y)]
     elif a.nest and len(tg)==3:   # A and B disjoint, C = B + new fixtures (each fixture on <= 2 slips)
         A=build(cands,tg[0],used,4,sport_cap=cap); used|={l['eid'] for l in A}
-        B=build(cands,tg[1],used,5,sport_cap=cap); used|={l['eid'] for l in B}
+        B=build(cands,tg[1],used,4,sport_cap=cap); used|={l['eid'] for l in B}
         oB=math.prod(l['odds'] for l in B) or 1
-        X=build(cands,tg[2]/oB,used,6,max_unders=0,over_frac=0.45,sport_cap=cap)
+        X=build(cands,tg[2]/oB,used,5,max_unders=1,over_frac=0.45,sport_cap=cap,base=B)
         tickets=[(tg[0],A),(tg[1],B),(tg[2],B+X)]
     elif a.extend:
         prev=[]
