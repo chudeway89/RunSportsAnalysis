@@ -1,0 +1,602 @@
+[
+ {
+  "eid": "sr:match:72891400",
+  "fx": "Silifke Belediyespor v Kirikkale Buyuk Anadoluspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 3. Lig Grup 3. 1964 Silifkespor in a long bad run (1W-1D-8L last 10, 0.5 gf at home); Kirikkale FK on a 9-match unbeaten run (7W-2D-1L last 10). Local press: KO 13:00 TRT at Silifke Sehir Stadyumu = 10:00 UTC, matches board.",
+  "news": "Kirikkale chasing a 9-match unbeaten streak extension at struggling Silifkespor; no named absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.22,
+    "p": 0.7702532811,
+    "why": "Mechanism: home side 0W in 4 at home, 0.8 gf/2.8 ga last 10; Kirikkale unbeaten 9. DNB because amateur away 1X2 is only p .60. Own p 0.80."
+   }
+  ],
+  "avoid": "Away 1X2 (p<0.75), Overs in amateur tier",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.kalehaber.net/kirikkale-fk-9-maclik-seri-icin-silifke-yolunda",
+   "https://cukurovagazetesi.com/silifkespor-kotu-gidisata-kirikkale-fk-karsisinda-son-vermek-istiyor"
+  ]
+ },
+ {
+  "eid": "sr:match:73436618",
+  "fx": "Konyaspor v Besiktas JK",
+  "sport": "football",
+  "absences": "n/a (youth)",
+  "context": "U19 PAF Ligi youth fixture. Besiktas U19 8W in last 10 incl. 5/5 away; Konyaspor U19 0W at home in 5. No date/venue conflict found.",
+  "news": "no news found (youth fixture)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (youth rule); not a clear goals mismatch (Konya scoring 0.4 at home)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72550346",
+  "fx": "Probiy Gorodenka v FC Metalist Kharkiv",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Persha Liga. Probiy Horodenka (2W-4D-4L) v Metalist Kharkiv (4W-2D-4L, 0.83 gf away). Fixture confirmed by Flashscore/Futbol24 at 11:00 local (=10:00 UTC est). Ukrainian games subject to air-raid suspensions.",
+  "news": "no team news found; fixture listed on Flashscore/Futbol24.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 at p .48; coin-flip totals",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.flashscore.com/football/ukraine/persha-liga/",
+   "https://www.futbol24.com/national/Ukraine/Persha-Liga/2026-2027",
+   "https://www.365scores.com/en-uk/football/league/division-2-397"
+  ]
+ },
+ {
+  "eid": "sr:match:74672860",
+  "fx": "DH van Hien v Binh Dinh FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "V.League 2. Flashscore (stale page) lists Van Hien v Quy Nhon United for 27.11, not 22.11; board/Sportradar say 22.11 10:00 UTC. Binh Dinh appears renamed (Quy Nhon United).",
+  "news": "Date conflict: Flashscore lists this pairing on 27 Nov.",
+  "veto": true,
+  "veto_reason": "date conflict between sources (Flashscore 27.11 vs board 22.11)",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/football/vietnam/v-league-2/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_V.League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:74672862",
+  "fx": "K. Khanh Hoa v Hung Yen FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "V.League 2. Flashscore lists Khanh Hoa v Hung Yen on 27.11 (page metadata stale) vs board 22.11. Hung Yen took over PVF-CAND B slot in Aug 2026.",
+  "news": "Date conflict: Flashscore lists this pairing on 27 Nov.",
+  "veto": true,
+  "veto_reason": "date conflict between sources (Flashscore 27.11 vs board 22.11)",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/football/vietnam/v-league-2/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_V.League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:72837344",
+  "fx": "Menemenspor AS v Sanliurfaspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig Beyaz Grup week 13 at Menemen Ilce Stadi. Sanliurfaspor 5th (24 pts, 7W-3D-2L). KO conflict: Sanliurfa Gazetesi/Mackolik 15:00 TRT (=12:00 UTC), fixture page 12:00, board 11:00 UTC.",
+  "news": "Kick-off time conflict between sources (15:00 TRT vs board 14:00 TRT).",
+  "veto": true,
+  "veto_reason": "kick-off time conflict (sources 15:00 TRT = 12:00 UTC vs board 11:00 UTC)",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://arsiv.mackolik.com/Karsilastirma/4500032/Menemen-FK-Sanliurfaspor",
+   "https://www.sanliurfagazetesi.com/sanliurfaspor-menemen-fk-icin-sahaya-indi"
+  ]
+ },
+ {
+  "eid": "sr:match:72550342",
+  "fx": "FC Oleksandriya v FC Ucsa Tarasivka",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Persha Liga. Oleksandriya (relegated ex-UPL side, low-scoring: 0.9 gf/0.8 ga last 10; drew 0-0 at Nyva 15 Nov) v UCSA Tarasivka (0W in 4 away, drew 3-3 v Polissya-2 on 17 Nov = 5 days rest). Futbol24 lists 12:00 local; 365Scores listing inconsistent (shows UCSA v FC Ternopil).",
+  "news": "No absences found; UCSA conceded 3 midweek; 365Scores pairing looks garbled but Flashscore/Futbol24 agree on the fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.713234,
+    "why": "Mechanism: UCSA 0W-1D-3L away, 1.6 ga; Oleksandriya 2W-1D-1L at home, only 0.8 ga. Low-scoring home side keeps draw risk. Own p 0.70."
+   }
+  ],
+  "avoid": "Overs (Oleksandriya games low scoring), -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.flashscore.com/football/ukraine/persha-liga/",
+   "https://www.futbol24.com/national/Ukraine/Persha-Liga/2026-2027",
+   "https://www.365scores.com/en-uk/football/league/division-2-397"
+  ]
+ },
+ {
+  "eid": "sr:match:72409796",
+  "fx": "FC Dynamo Kyiv v FC Obolon Kyiv",
+  "sport": "football",
+  "absences": "Dynamo: Denys Popov (knee surgery), Vitaliy Buyalskyi (injury), Oleksandr Tymchyk (hamstring), Mykola Ponomarenko (injury), Andriy Yarmolenko (suspended, red card). Obolon: M. Grysjo (knee).",
+  "context": "UPL round. Dynamo 4W in last 6 league, 3W-1D at home, 0.25 ga at home. Obolon 0W in 8 away, 0.25 gf away. Possible European fixture later in week (unconfirmed) -> mild rotation risk.",
+  "news": "Forebet (15 Nov list): Dynamo without Popov, Buyalskyi, Tymchyk, Ponomarenko; Yarmolenko suspended.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.770507,
+    "why": "Mechanism: Obolon 0W/3D/5L away with 0.25 gf; Dynamo concede 0.25 at home. Absences hit depth not the spine. Own p 0.77."
+   }
+  ],
+  "avoid": "-1.5 (Dynamo 1.3 gf last 10, low-margin wins), Overs",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/dynamo-kyiv-fc-obolon-brovar-2482321",
+   "https://betimate.com/en/news/previews/dynamo-kiev-vs-obolon-kyiv-prediction-odds-betting-tips-11222026-3006328"
+  ]
+ },
+ {
+  "eid": "sr:match:72409798",
+  "fx": "Veres Rivne v FSC Bukovyna Chernivtsi",
+  "sport": "football",
+  "absences": "none found",
+  "context": "UPL round 13. Veres lost 5 in a row; Bukovyna (promoted champions) ~8th. Date conflict: Sofascore 22 Nov 11:00 UTC (matches board), Footlive 21 Nov 14:00 UTC, Fox Sports has pages for both 21st and 22nd.",
+  "news": "Veres on a 5-game losing run; date listed differently by sources.",
+  "veto": true,
+  "veto_reason": "date conflict (Footlive/Fox 21 Nov vs Sofascore/board 22 Nov)",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/nk-veres-rivne-bukovyna-chernivtsi/LqrsypFb",
+   "https://www.footlive.com/score/veres-rivne-vs-fc-bukovyna-chernivtsi-2026-11-21/",
+   "https://scores24.live/en/soccer/m-21-11-2026-veres-fsc-bukovyna-chernivtsi-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:68380658",
+  "fx": "PFK Dinamo Samarqand v FC Bunyodkor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Uzbek Super League late season (27 played). Club site: Dinamo 8th (37 pts), Bunyodkor 14th (26 pts, relegation zone pressure). Dinamo won 3-0 at Mashal and 3-1 at Sogdiana. Date conflict: club site 22 Nov, Sportytrader 19 Nov 09:00, Terrikon 20 Nov.",
+  "news": "Dates differ across sources (19/20/22 Nov).",
+  "veto": true,
+  "veto_reason": "date conflict (Sportytrader 19 Nov, Terrikon 20 Nov vs club site/board 22 Nov)",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://dinamo-pfc.uz/en/",
+   "https://www.sportytrader.com/en/results-live/pfk-dinamo-samarqand-fc-bunyodkor-8299217/",
+   "https://terrikon.com/en/football/teams/2467"
+  ]
+ },
+ {
+  "eid": "sr:match:74672864",
+  "fx": "PVF Cong An Nhan Dan FC v Quang Ninh FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "V.League 2. PVF-CAND (relegated from VL1, renamed Aug 2026) v Quang Ninh (renamed Sep 2026; 0.6 gf away). Flashscore (stale) lists PVF-CAND v Thep Can Tho 27.11 and PVF-CAND v Van Hien 28.11 - internally inconsistent, schedule data unreliable for this league.",
+  "news": "no team news found; league schedule sources unreliable.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.29 tempting but league date data conflicted; no researched mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.flashscore.com/football/vietnam/v-league-2/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_V.League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:74090516",
+  "fx": "Hong Linh Ha Tinh FC v Cong an TP Ho Chi Minh",
+  "sport": "football",
+  "absences": "none found",
+  "context": "V.League 1 2026-27, ~round 6. Ha Tinh 6th (10 pts), CAHCM 5th (10 pts). Betexplorer: 22 Nov at Ha Tinh Stadium (time consistent with board).",
+  "news": "Mid-table clash of level sides; no absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 p .80 below 0.82 gate; result-sides coin-flip",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/vietnam/v-league-1/",
+   "https://www.flashscore.com/football/vietnam/v-league-1/",
+   "https://kqbd.mobi/bang-xep-hang/v-league"
+  ]
+ },
+ {
+  "eid": "sr:match:74090514",
+  "fx": "SHB Da Nang v Ninh Binh FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "V.League 1. Ninh Binh 4th (10 pts), Da Nang 9th (6 pts). Betexplorer lists Da Nang v Phu Dong Ninh Binh on the following day 12:00; Flashscore gives 27 Nov; board 22 Nov.",
+  "news": "Date conflict across sources.",
+  "veto": true,
+  "veto_reason": "date conflict (Betexplorer 23 Nov, Flashscore 27 Nov vs board 22 Nov)",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/vietnam/v-league-1/",
+   "https://www.flashscore.com/football/vietnam/v-league-1/",
+   "https://kqbd.mobi/bang-xep-hang/v-league"
+  ]
+ },
+ {
+  "eid": "sr:match:72837934",
+  "fx": "Halide Edip Adivarspor v Inegolspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig. Adivarspor home 1W-2D-1L but 2.2 gf last 10; Inegolspor 0W in 4 away (2.25 ga), 2W in last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.7947025005,
+    "why": "Mechanism: Inegolspor lost all 4 away (0.75 gf); home side scores 2.2/game. DNB covers draw. Own p 0.80."
+   }
+  ],
+  "avoid": "Overs in amateur tier",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.tff.org/default.aspx?ftxtID=2966&pageID=600",
+   "https://www.mackolik.com/puan-durumu/t%C3%BCrkiye-nesine-2-lig/2026-2027/2nttcoriwf5co73vmz1vr8frm",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_TFF_2._Lig"
+  ]
+ },
+ {
+  "eid": "sr:match:72837360",
+  "fx": "Inegol Kafkas Genclikspor v Arnavutkoy Belediyesi Genclik Ve Spor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig. Inegol Kafkas (early-season 5th, beat Menemen 3-1 in Sep) v Arnavutkoy Belediyespor (16th, 3-point deduction, 1W-1D-8L last 10, 1W in 6 away).",
+  "news": "Arnavutkoy bottom with 3-pt deduction; no named absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.72183,
+    "why": "Mechanism: Arnavutkoy 1W-0D-5L away, 0.5 gf; Kafkas 6W last 10. Own p 0.73."
+   }
+  ],
+  "avoid": "-1.5 (Kafkas concede 1.4/game)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.tff.org/default.aspx?ftxtID=2966&pageID=600",
+   "https://www.mackolik.com/puan-durumu/t%C3%BCrkiye-nesine-2-lig/2026-2027/2nttcoriwf5co73vmz1vr8frm",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_TFF_2._Lig",
+   "https://www.mackolik.com/takim/menemen-fk/ma%C3%A7lar/7rrmbyz3cs034vdbvbi3tc06s"
+  ]
+ },
+ {
+  "eid": "sr:match:72889738",
+  "fx": "Galata Spor Kulubu v Orduspor 1967",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 3. Lig. Galata v Orduspor 1967 (6th, 17 pts) at IBB Beyoglu Stadi, 15:00 TRT (=12:00 UTC, matches board), referee Cenk Ulucinar. Orduspor unbeaten in 4 away (1W-3D).",
+  "news": "Orduspor 1967 call it a critical away trip; no absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p .41; draw-prone Orduspor away",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tivibu.com.tr/tff-ucuncu-lig/maclar",
+   "https://hayatgazetesiordu.com/haber/29180096/orduspor-1967-kritik-galata-deplasmanina-cikiyor"
+  ]
+ },
+ {
+  "eid": "sr:match:72890768",
+  "fx": "Karsiyaka v Alanya Kestelspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 3. Lig. Karsiyaka 9W-1D-0L last 10, 5/5 at home, 0.5 ga. Fixture list names the opponent as Alanya 1221 FSK (15:00 TRT = 12:00 UTC, matches board) while board says Alanya Kestelspor - probable rename, flagged data_conflict on naming only.",
+  "news": "Karsiyaka perfect at home; opponent listed as Alanya 1221 FSK on Tivibu fixture list.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.78116,
+    "why": "Mechanism: Karsiyaka 5/5 home wins, visitors concede 2.6 away. Naming mismatch only (time/venue agree). Own p 0.80."
+   }
+  ],
+  "avoid": "-1.5 at 1.64 (most Karsiyaka wins by 1), Overs",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.tivibu.com.tr/tff-ucuncu-lig/maclar"
+  ]
+ },
+ {
+  "eid": "sr:match:72550340",
+  "fx": "FC Niva Ternopil v SC Poltava",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Persha Liga. Nyva Ternopil unbeaten-ish at home (3W-2D-1L, drew 0-0 v Oleksandriya 15 Nov); SC Poltava 1W-5L away.",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.3,
+    "p": 0.7087025605,
+    "why": "Mechanism: Poltava lost 5 of 6 away; Nyva 1 home defeat in 6. Own p 0.73."
+   }
+  ],
+  "avoid": "Home 1X2 (Nyva draw-prone, 5D in 10)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.flashscore.com/football/ukraine/persha-liga/",
+   "https://www.futbol24.com/national/Ukraine/Persha-Liga/2026-2027",
+   "https://www.365scores.com/en-uk/football/league/division-2-397"
+  ]
+ },
+ {
+  "eid": "sr:match:72837946",
+  "fx": "52 Orduspor FK v 12 Bingol Spor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig Kirmizi Grup leader 52 Orduspor v 12 Bingolspor at Ordu 19 Eylul Stadi, 22 Nov 15:30 TRT (=12:30 UTC, matches board). Bingol 2W last 10, 0.7 gf.",
+  "news": "52 Orduspor (group leaders) completed preparations; no absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.33,
+    "p": 0.709322,
+    "why": "Mechanism: group leader v side scoring 0.7/game; Orduspor 7W last 10. Own p 0.72."
+   }
+  ],
+  "avoid": "-1.5, Overs",
+  "confidence": 0.25,
+  "sources": [
+   "https://hayatgazetesiordu.com/foto/29200858/52-ordusporda-12-bingolspor-maci-hazirliklari-tamamlandi"
+  ]
+ },
+ {
+  "eid": "sr:match:72837942",
+  "fx": "Sakaryaspor v Serik Belediyespor",
+  "sport": "football",
+  "absences": "Sakaryaspor: Mertcan Acikgoz (injury, ~15 days), Baris Sagir (muscle tear, ~3 weeks). Serkan Odabasoglu, Evren Korkmaz, Salih Sarikaya one booking from a ban.",
+  "context": "TFF 2. Lig Kirmizi Grup week 13, Yeni Sakarya Ataturk Stadi 15:30 TRT (=12:30 UTC). Coach Ercument Coskundere. Sakarya only 2W-1D-3L at home.",
+  "news": "Sakaryaspor without Acikgoz and Sagir; three players on yellow-card limit.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 at p .65 with two absences and weak home form; DNB/O1.5 below 1.18",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.halk54.com/sakaryasporda-serikspor-maci-oncesi-iki-onemli-eksik",
+   "https://www.halk54.com/sakaryasporda-serikspor-maci-oncesi-sari-kart-alarmi-3-futbolcu-sinirda",
+   "https://www.yenisakarya.com/sakaryasporda-serikspor-maci-oncesi-kritik-uyari"
+  ]
+ },
+ {
+  "eid": "sr:match:75548172",
+  "fx": "Emirates Club v AL Ittifaq",
+  "sport": "football",
+  "absences": "none found",
+  "context": "UAE First Division. Emirates Club 2nd (6W-0D-3L, 18 pts) chasing promotion v Al Ittifaq 14th (1W-1D-6L, 4 pts).",
+  "news": "Promotion-chasing Emirates host bottom-end Ittifaq; no absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.750087,
+    "why": "Mechanism: Ittifaq 1W in 8, 0.7 gf; Emirates 3W-1L at home, 0.5 ga. DNB covers Gulf draw risk. Own p 0.80."
+   }
+  ],
+  "avoid": "Over 1.5 (Gulf thin-league rule)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/united-arab-emirates/division-1-group-a/",
+   "https://en.wikipedia.org/wiki/UAE_First_Division_League"
+  ]
+ },
+ {
+  "eid": "sr:match:75548174",
+  "fx": "Fujairah FC v Al Urooba (UAE)",
+  "sport": "football",
+  "absences": "none found",
+  "context": "UAE First Division. Fujairah 9th (4W-4L) v Al Urooba 4th (3W-5D-1L). Fujairah home games wild (2.5 gf/2.33 ga).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away result-side p .51; Urooba draw-prone",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/united-arab-emirates/division-1-group-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:75186220",
+  "fx": "AL Jazira v Khorfakkan",
+  "sport": "football",
+  "absences": "n/a (youth)",
+  "context": "UAE U23 Pro League youth fixture; Khorfakkan U23 1W-1D-8L. No date/venue conflict found.",
+  "news": "no news found (youth fixture)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth rule; no clear goals mismatch)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75186216",
+  "fx": "AL Nasr v Baniyas",
+  "sport": "football",
+  "absences": "n/a (youth)",
+  "context": "UAE U23 Pro League youth fixture; both sides poor form. No date/venue conflict found.",
+  "news": "no news found (youth fixture)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth rule; no clear goals mismatch)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:111111114542773",
+  "fx": "Al Wahda U23 v United FC U23",
+  "sport": "football",
+  "absences": "n/a (youth)",
+  "context": "UAE U23 Pro League youth fixture; no Sportradar form. No date/venue conflict found.",
+  "news": "no news found (youth fixture)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth rule; no clear goals mismatch)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:111111114285969",
+  "fx": "Briton Ferry Women v Barry Town United Women",
+  "sport": "football",
+  "absences": "n/a (women's)",
+  "context": "Wales Adran Premier (women). No date/venue conflict found.",
+  "news": "no news found (women's fixture)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's rule)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:111111114285970",
+  "fx": "Cardiff Metropolitan Women FC v Cardiff City FC Women",
+  "sport": "football",
+  "absences": "n/a (women's)",
+  "context": "Wales Adran Premier (women). No date/venue conflict found.",
+  "news": "no news found (women's fixture)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's rule)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73961752",
+  "fx": "Express FC v Vipers SC",
+  "sport": "football",
+  "absences": "Express: Abasi Muluya and Moses Sseruyidde return; Nicholas Jjonga and Rogers Atube major doubts. Vipers: growing injury list (unnamed).",
+  "context": "Uganda Premier League MD12 at Hamz Stadium Nakivubo. Express 14th (11 pts, 2W in 11), Vipers 6th (17 pts). Vipers lost once to Express in last 10. Kick-off conflict: Kawowo says Sat 21 Nov 6pm (text says Sunday), 365Scores 13:00 UTC, Sportytrader 08:00, others 15:00.",
+  "news": "Two limping giants; kick-off date/time inconsistent across sources.",
+  "veto": true,
+  "veto_reason": "date/kick-off conflict (Kawowo 21 Nov 18:00 local; 365Scores 13:00 UTC vs board 15:00 UTC)",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://kawowo.com/2026/11/21/two-limping-giants-express-vipers-lock-horns-at-nakivubo/",
+   "https://www.365scores.com/en-us/football/match/premier-league-6995/express-fc-vipers-50869-50872-6995"
+  ]
+ },
+ {
+  "eid": "sr:match:76907548",
+  "fx": "Nashville SC v FC Cincinnati",
+  "sport": "football",
+  "absences": "Cincinnati: Teenage Hadebe (out to mid-Dec), Tah Anunga (muscle, out to early Dec); CBs Miles Robinson and Nick Hagglund withdrawn at half-time of the Wild Card win (doubts). Nashville: clean bill of health per WhoScored.",
+  "context": "MLS Cup Playoffs East Round One Game 1 (best-of-three; drawn games go to penalties - 90-min settlement), GEODIS Park, 3pm CT = 21:00 UTC (matches board). Nashville 1st overall, record 77 pts, unbeaten at home (15W-2D), beat Cincinnati 4-0 in Aug and won at Cincinnati on Decision Day. Cincinnati on two days rest after Wild Card v Orlando. Rivalry fixture, knockout.",
+  "news": "Nashville at full strength host a Cincinnati side on 2 days rest with Hadebe, Anunga out and Robinson/Hagglund doubtful.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.43,
+    "p": 0.66801,
+    "why": "Mechanism: depleted Cincinnati CB pairing on 2 days rest v Nashville 2.4 gf at home; Cincinnati away games 3.6 goals avg. Own p 0.70."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.41,
+    "p": 0.677011,
+    "why": "Mechanism: Nashville home team total O1.5 - Hadebe/Anunga out, Robinson/Hagglund doubts; Nashville scored 4 v Cincy at home in Aug. Own p 0.70."
+   }
+  ],
+  "avoid": "All result-sides (knockout + rivalry); integer Overs",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.sixonefivesoccer.com/playoff-preview-nashville-sc-vs-fc-cincinnati-2026/",
+   "https://www.whoscored.com/matches/2040805/preview/usa-major-league-soccer-2026-nashville-sc-fc-cincinnati",
+   "https://www.nashvillesc.com/playoffs",
+   "https://www.mlssoccer.com/playoffs/2026/news/nashville-sc-vs-fc-cincinnati-how-to-watch-stream-eastern-conference-round-one-game-1"
+  ]
+ },
+ {
+  "eid": "sr:match:75833946",
+  "fx": "Metropolitanos FC v Deportivo La Guaira",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga FUTVE Clausura quadrangular Group A, round 6 (likely final group round - title/final stakes). La Guaira 2nd, Metropolitanos 3rd; met 3 times this season. Sofascore 21:00 UTC matches board.",
+  "news": "Decisive quadrangular round; no absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (high-stakes, balanced); O1.5 in a mid-scoring league",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/football/match/metropolitanos-deportivo-la-guaira/MDosFZob",
+   "https://us.soccerway.com/game/deportivo-la-guaira-4SRaHjat/metropolitanos-GjYmyonC/odds/"
+  ]
+ }
+]

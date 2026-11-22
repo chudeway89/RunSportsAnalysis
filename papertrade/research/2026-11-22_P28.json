@@ -1,0 +1,581 @@
+[
+ {
+  "eid": "sr:match:74232058",
+  "fx": "HC Dinamo Molodechno v HK Vitebsk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Molodechno 4-6 last 10 (3-3 home); Vitebsk 2-8 last 10, 2-6 away. AiScore lists the game 22 Nov 18:00 in its own time zone (GMT+8), which matches 10:00 UTC.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Molodechno ML at 1.52 (p 0.61): the house already prices Vitebsk's slump, and Molodechno's own form is 4-6.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aiscore.com/en/ice-hockey/tournament-extraliga/8vrqwwbw3ycjqn2",
+   "https://www.eurohockey.com/league/150-belarus-open-league.html",
+   "https://www.eliteprospects.com/league/belarus"
+  ]
+ },
+ {
+  "eid": "sr:match:72982652",
+  "fx": "Eon Horneo Alicante v Villa de Aranda",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Liga Asobal round 10, 12:00 CET (=11:00 UTC, consistent). Alicante 7 pts, Aranda 6 pts: both near the bottom, a relegation six-pointer. Alicante 1-3 at home.",
+  "news": "Ceroacero preview confirms 22 Nov 12:00 Horneo EON Alicante v Tubos Aranda Villa de Aranda.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home or Draw 1.27: Alicante concede 34.75 at home, and a bottom-zone match is too close for a result side.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ceroacero.es/partido/2026-11-22-horneo-eon-alicante-tubos-aranda-villa-de-aranda/12314435",
+   "https://www.mibalonmano.com/liga/liga-asobal/26-27/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:74232060",
+  "fx": "HK Lida v HK Neman Grodno",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Lida lost 2-3 at home to Neman in the previous game of a back-to-back home pair (AiScore lists a 21 Nov 00:00 GMT+8 game = 20 Nov UTC). Lida 1-4 at home.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Neman ML 1.68 (p 0.54): coin-flip territory.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aiscore.com/en/ice-hockey/tournament-extraliga/8vrqwwbw3ycjqn2",
+   "https://www.eurohockey.com/league/150-belarus-open-league.html",
+   "https://www.eliteprospects.com/league/belarus"
+  ]
+ },
+ {
+  "eid": "sr:match:72518634",
+  "fx": "Quabit BM Guadalajara v Cisne BM",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "DH Plata round 11, 12:30 local (=11:30 UTC, consistent). Guadalajara 6th (12 pts/10), Cisne 10th (10 pts/9). Guadalajara played Barca Atletic 4 days earlier. Sources disagree on venue (Palacio Multiusos v Pabellon David Santamaria) but agree on the city and home side.",
+  "news": "El Decano: Guadalajara (coach Juan Carlos Requena) want to bounce back from a defeat; midweek game v Barca Atletic 4 days earlier.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.45 (p 0.64): one game in 4 days, and Cisne won 6 of their last 10.",
+  "confidence": 0.15,
+  "sources": [
+   "https://eldecanodeguadalajara.com/index.php/news/21412/el-balonmano-guadalajara-busca-reencontrarse-con-la-victoria-ante-el-cisne-en-el-david-santamar%C3%ADa",
+   "https://www.aragonplay.es/aragondeporte/resultados/balonmano/division-honor-plata"
+  ]
+ },
+ {
+  "eid": "sr:match:73712676",
+  "fx": "HC Zenit Saint Petersburg v HC Victor Stavropol",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Superliga. Zenit 5th, Victor 8th (undated table). Zenit won 9 of the last 10 H2H, but the last meeting was 27-26.",
+  "news": "Scores24 rates Zenit the favourite. Oddshub confirms Sun 22 Nov 12:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "1st-half Home 1.28 (p 0.74) and -5.5: Zenit's recent margins are thin (27-26, 27-28, 26-26).",
+  "confidence": 0.15,
+  "sources": [
+   "https://scores24.live/en/handball/m-22-11-2026-universitet-neva-dinamo-viktor-prediction",
+   "https://www.oddshub.io/handball/russia-super-league"
+  ]
+ },
+ {
+  "eid": "sr:match:73712678",
+  "fx": "Skif Krasnodar v AK Bars Kazan",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Skif lead the table (8 wins from 10); AK Bars bottom with 0 wins. Skif won the first meeting 30-29 in Kazan.",
+  "news": "Date conflict: Skif's official club schedule shows no game on 22 Nov (after 12 Nov v CSKA, the next fixture is 7 Dec v Victor). Oddshub lists Skif v AK Bars on Sun 22 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict between the club's official schedule (no game on 22 Nov) and the odds listing.",
+  "picks": [],
+  "avoid": "Everything; the date is unconfirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://skif-kuban.ru/season/schedule",
+   "https://www.oddshub.io/handball/russia-super-league",
+   "https://sport.evening-kazan.ru/interesnoe/news/ak-bars-ustupil-skifu-v-pervom-domashnem-matche-superligi"
+  ]
+ },
+ {
+  "eid": "sr:match:74232062",
+  "fx": "Metallurg Zhlobin v HK Gomel",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Top-of-table clash: Zhlobin (defending champions, 2nd) 9-1 last 10; Gomel 9-1 last 10. Zhlobin won the last meeting 5-1.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Both sides: two in-form teams, priced near even.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aiscore.com/en/ice-hockey/tournament-extraliga/8vrqwwbw3ycjqn2",
+   "https://www.eurohockey.com/league/150-belarus-open-league.html",
+   "https://www.eliteprospects.com/league/belarus"
+  ]
+ },
+ {
+  "eid": "sr:match:72206402",
+  "fx": "Kolstad Handball v OIF Arendal Elite",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Eliteserien round 11, 16:00 local (=15:00 UTC, consistent). Kolstad beat Arendal 42-30 in Arendal in October.",
+  "news": "NTB weekend menu and the handball.no TV listing confirm Kolstad v OIF Arendal 16:00 today.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No board market lies in 1.18-2.2 (Kolstad 1X2 is 1.14).",
+  "confidence": 0.15,
+  "sources": [
+   "https://fvn.no/sport/n/Pv9XMb/ntb-sportens-helgemeny-21-23-november",
+   "https://www.handball.no/regioner/nhf-sentralt/kampaktivitet/topphandball/handball-pa-tv/",
+   "https://www.vg.no/sport/i/Ey3Xrj/kolstad-lekte-seg-mot-oeif-forlenget-seiersrekken"
+  ]
+ },
+ {
+  "eid": "sr:match:73238586",
+  "fx": "Fehervar AV19 v HC Bolzano-Bozen Foxes",
+  "sport": "ice hockey",
+  "absences": "No current injury news for either side.",
+  "context": "Bolzano top (45 pts/20 games), 8-2 last 10, scoring 4.5 a game; Fehervar 24 pts and conceding 4.0 a game (3-1 at home).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.49,
+    "p": 0.633812,
+    "why": "Bolzano team Over 2.5: Bolzano scored 3+ in most of their last 6 (8,4,2,4,2,3) and Fehervar concede 4.0 a game; my p 0.67 v house 0.634. Stats-led fill, low confidence."
+   }
+  ],
+  "avoid": "Bolzano ML 1.57: an away result side at p 0.60.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eliteprospects.com/league/icehl",
+   "https://www.sport.de/eishockey/oesterreich-ehl/ergebnisse-und-tabelle/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Champions_Hockey_League"
+  ]
+ },
+ {
+  "eid": "sr:match:74232064",
+  "fx": "HK Brest v HC Shakhtyor Soligorsk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Brest 6-4 last 10; Soligorsk 7-3. Soligorsk won the last meeting 2-1 in Brest.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Both sides, coin flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aiscore.com/en/ice-hockey/tournament-extraliga/8vrqwwbw3ycjqn2",
+   "https://www.eurohockey.com/league/150-belarus-open-league.html",
+   "https://www.eliteprospects.com/league/belarus"
+  ]
+ },
+ {
+  "eid": "sr:match:72207014",
+  "fx": "Gjerpen HK v Follo HK",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Women's league: date check only.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no result sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://fvn.no/sport/n/Pv9XMb/ntb-sportens-helgemeny-21-23-november",
+   "https://www.handball.no/regioner/nhf-sentralt/kampaktivitet/topphandball/handball-pa-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:73307828",
+  "fx": "AM Madeira Andebol S.A.D. v GC Santo Tirso",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "FPA portal lists 22 Nov 16:00 Maritimo Madeira Andebol SAD v GC Santo Tirso at Pav. CS Maritimo (16:00 Madeira = 16:00 UTC, consistent). Madeira 8-2; Santo Tirso recently lost 47-30 to Porto and 28-24 to Caldas.",
+  "news": "Date, time and venue confirmed on the FPA portal.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "-8.5 (p 0.53): Madeira's home margins are erratic (43-27, but also a 27-41 loss and 26-22, 32-31).",
+  "confidence": 0.15,
+  "sources": [
+   "https://portal.fpa.pt/"
+  ]
+ },
+ {
+  "eid": "sr:match:72523144",
+  "fx": "HSC Suhr Aarau v HC GS Stafa",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Swiss QHL. Suhr Aarau 3-7, Stafa 3-7; the sides met 36-37 recently.",
+  "news": "Could not confirm the 22 Nov fixture from sources (no source found, but no conflict either).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 59.5 at p 0.60: below the threshold and unconfirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.handball.ch/de/quickline-handball-league/quickline-fairplay-award/"
+  ]
+ },
+ {
+  "eid": "sr:match:72523146",
+  "fx": "TSV St. Otmar St. Gallen v RTV 1879 Basel",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Swiss QHL. St. Otmar 6-4; Basel 1-3 away, conceding 36.25 there.",
+  "news": "Fixture not confirmed by sources (no conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 59.5 (p 0.67): below the Under threshold of 0.82, and Basel's away games run high.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.handball.ch/de/quickline-handball-league/quickline-fairplay-award/"
+  ]
+ },
+ {
+  "eid": "sr:match:73238588",
+  "fx": "Milano HC v Vienna Capitals",
+  "sport": "ice hockey",
+  "absences": "Vienna: Richter, Wolf and Wraneschitz were injured in a September report (may be stale).",
+  "context": "Back-to-back: Vienna won 2-1 in OT at Milano on 21 Nov (Lilja at 60:16); the rematch is today 17:00 local (=16:00 UTC, consistent).",
+  "news": "Italia Hockey: Milano lost 1-2 OT to Vienna on Saturday; immediate rematch on Sunday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Totals: the integer lines (5/6) carry an Under p < 0.82; low-event series.",
+  "confidence": 0.15,
+  "sources": [
+   "https://italia.hockey/2026/11/21/ice-hockey-league-milano-hc-superato-allovertime-dai-vienna-capitals-finisce-1-2-alla-fiera-ice-arena-domenica-alle-17-00-subito-la-rivincita",
+   "https://www.hockeyweb.de/icehl/vienna-capitals-zweimal-beim-milano-hockey-club-115734"
+  ]
+ },
+ {
+  "eid": "sr:match:73238594",
+  "fx": "Black Wings Linz v EC Villacher SV",
+  "sport": "ice hockey",
+  "absences": "Linz: Gerd Kragl (illness) out; Marlon Tschofen out after a hard check in Innsbruck. Coach Philipp Lukas makes several lineup changes.",
+  "context": "Round 22, 17:30 local (=16:30 UTC, consistent). Linz in their best form since 2011/12, 9 of 10 home games won, and won 2-1 OT in Innsbruck on 20 Nov (5 games in 10 days). VSV 10th (25 pts/20) after five straight away defeats and lost 2-6 at home to Olimpija on 20 Nov.",
+  "news": "Linz missing Kragl and Tschofen; VSV in crisis after 5 away losses in a row.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8119696098,
+    "why": "Linz ML incl. OT: 9/10 home wins (4-0 at home, gf 4.5) v a VSV side that lost all 3 recent aways, conceding 4.67 a game and 6 at home to Olimpija on 20 Nov. Kragl/Tschofen absences and a 5-in-10 schedule trim it; my p 0.82 v house 0.81."
+   }
+  ],
+  "avoid": "-2.5 puck line (p 0.46): absences plus fatigue.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.hockey-news.info/black-wings-linz-muessen-vor-heimspiel-gegen-den-vsv-einige-aenderungen-vornehmen/",
+   "https://www.5min.at/villach/5202611211310/nach-fuenf-auswaertspleiten-steht-vsv-vor-naechster-mammutaufgabe/",
+   "https://www.ecvsv.at/adler-vor-schwieriger-auswaertsaufgabe-in-linz/",
+   "https://www.nachrichten.at/sport/wintersport/black_wings/haelt-die-stolze-heimserie-der-black-wings-auch-im-traditionsduell-gegen-villach;art107,4235515"
+  ]
+ },
+ {
+  "eid": "sr:match:73238592",
+  "fx": "HC TWK Innsbruck v Red Bull Salzburg",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Innsbruck last in the table and 0-10 in their last 10 (scoring 1.4 a game); they lost 1-2 OT to Linz on 20 Nov. Salzburg lost 3-4 OT to Graz on 20 Nov; they are in the CHL (R16 legs 10/11 and 17/18 Nov), and no midweek game is due before this one.",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.23,
+    "p": 0.780764,
+    "why": "Salzburg ML incl. OT: Innsbruck have lost 10 straight (5 at home, gf 1.4 a game) and are bottom of the table, and OT removes the draw. My p 0.80 v house 0.78 (away result side; meets p >= 0.75)."
+   }
+  ],
+  "avoid": "Salzburg -1.5 (p 0.55): Innsbruck lose narrowly (four 1-goal or 2-goal defeats in their last 6).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.eliteprospects.com/league/icehl",
+   "https://www.sport.de/eishockey/oesterreich-ehl/ergebnisse-und-tabelle/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Champions_Hockey_League",
+   "https://sport.orf.at/live/stories/3163921/"
+  ]
+ },
+ {
+  "eid": "sr:match:73238590",
+  "fx": "KAC Klagenfurt v Ferencvaros-Esmtk",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "KAC 4th; lost 2-3 at home to Pustertal on 20 Nov. KAC are in the CHL (R16 legs 17/18 Nov). Ferencvaros 5-5 last 10 but concede 4.1 a game (4.0 away).",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.799918,
+    "why": "KAC ML incl. OT: 3-1 at home with 5.0 gf there, v a Ferencvaros side conceding 4.1 a game; the 20 Nov home loss to Pustertal is a minor knock. My p 0.80 = house."
+   }
+  ],
+  "avoid": "-2.5 and the KAC team Over 4.5: thin.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eliteprospects.com/league/icehl",
+   "https://www.sport.de/eishockey/oesterreich-ehl/ergebnisse-und-tabelle/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Champions_Hockey_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72207018",
+  "fx": "Oppsal IF Oslo v Byaasen HE",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Women's league: date check only. Byaasen 6-2-2 v Oppsal 4-6.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no markets in range anyway.",
+  "confidence": 0.1,
+  "sources": [
+   "https://fvn.no/sport/n/Pv9XMb/ntb-sportens-helgemeny-21-23-november",
+   "https://www.handball.no/regioner/nhf-sentralt/kampaktivitet/topphandball/handball-pa-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:72206404",
+  "fx": "Bergsoey IL v Kristiansand Topphandball",
+  "sport": "handball",
+  "absences": "Bergsoey (promoted) reported injury problems pre-season (Vestlandsnytt, ~84 days old).",
+  "context": "Promoted Bergsoey 2-8 last 10 in a relegation fight; Kristiansand 6-1-3.",
+  "news": "no current news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1.26 (p 0.749): misses the away 1X2 threshold of p >= 0.75, and handball draws are live.",
+  "confidence": 0.15,
+  "sources": [
+   "https://fvn.no/sport/n/Pv9XMb/ntb-sportens-helgemeny-21-23-november",
+   "https://www.handball.no/regioner/nhf-sentralt/kampaktivitet/topphandball/handball-pa-tv/",
+   "https://www.vestlandsnytt.no/nyhende/o/k0y7k9/ein-historisk-sesong-er-her"
+  ]
+ },
+ {
+  "eid": "sr:match:72206406",
+  "fx": "Fjellhammer IL v Viking TIF",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Fjellhammer 5-1-4 last 10 (2-3 at home); Viking 1-3 away, conceding 38 a game there (lost 26-45, 24-37).",
+  "news": "no current news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.716933,
+    "why": "Fjellhammer 1X2: Viking conceded 38 a game away (26-45, 24-37 defeats), and Fjellhammer are 4 wins from their last 5. My p 0.73 v house 0.72. Stats-led fill, low confidence; handball draw risk is about 6%."
+   }
+  ],
+  "avoid": "Large Fjellhammer handicaps.",
+  "confidence": 0.2,
+  "sources": [
+   "https://fvn.no/sport/n/Pv9XMb/ntb-sportens-helgemeny-21-23-november",
+   "https://www.handball.no/regioner/nhf-sentralt/kampaktivitet/topphandball/handball-pa-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:73307838",
+  "fx": "AA Avanca v Sporting Clube Portugal",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Avanca 1-1-8 last 10; Sporting 8-1-1, scoring 37.6 a game. The 22 Nov fixture is not confirmed from the 2026/27 calendar (search only found older seasons), but no conflicting date was found either.",
+  "news": "Fixture not confirmed by search; no conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Total 65.5 at p ~0.5: no edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://portal.fpa.pt/jogo/302882/",
+   "https://www.zerozero.pt/equipa/artistica-de-avanca/210845/jogos"
+  ]
+ },
+ {
+  "eid": "sr:match:73238596",
+  "fx": "HK Olimpija Ljubljana v Pustertal Wolfe",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Olimpija 3rd, won 6-2 at Villach on 20 Nov; Pustertal won 3-2 at KAC on 20 Nov (7-3 last 10, 4-1 away). Olimpija won the last meeting 6-3.",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Olimpija ML 1.32: Pustertal arrive in form. Pustertal team Under 3.5 at p 0.80 is below the Under threshold of 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eliteprospects.com/league/icehl",
+   "https://www.sport.de/eishockey/oesterreich-ehl/ergebnisse-und-tabelle/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Champions_Hockey_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72181034",
+  "fx": "Brampton Steelheads v Brantford Bulldogs",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Junior (CHL, ages 16-20) league = youth class: goals markets only in clear mismatches. Brantford at Brampton 2:00 pm ET (=19:00 UTC, consistent). Brampton 1-3 at home, conceding 4.5 there.",
+  "news": "Schedule confirmed by CHL 'OHL This Week'.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (youth); Brantford ML p 0.67.",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/ohl/article/ohl-this-week-nov-19-to-22-2026/",
+   "https://www.oursportscentral.com/services/schedule/brantford-bulldogs/t-3892",
+   "https://tickets.sarniasting.com/events/42039-soo-greyhounds-vs-sarnia-sting"
+  ]
+ },
+ {
+  "eid": "sr:match:72181036",
+  "fx": "North Bay Battalion v Niagara Icedogs",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Junior (CHL, ages 16-20) league = youth class: goals markets only in clear mismatches. 2:00 pm ET (=19:00 UTC, consistent).",
+  "news": "Schedule confirmed by CHL 'OHL This Week'.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (youth).",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/ohl/article/ohl-this-week-nov-19-to-22-2026/",
+   "https://www.oursportscentral.com/services/schedule/brantford-bulldogs/t-3892",
+   "https://tickets.sarniasting.com/events/42039-soo-greyhounds-vs-sarnia-sting"
+  ]
+ },
+ {
+  "eid": "sr:match:72181040",
+  "fx": "Sarnia Sting v Marie Greyhounds",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Junior (CHL, ages 16-20) league = youth class: goals markets only in clear mismatches. 2:05 pm ET (=19:05 UTC, consistent). Special Olympics night in Sarnia.",
+  "news": "Schedule confirmed by the Sarnia and Soo schedules.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (youth).",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/ohl/article/ohl-this-week-nov-19-to-22-2026/",
+   "https://www.oursportscentral.com/services/schedule/brantford-bulldogs/t-3892",
+   "https://tickets.sarniasting.com/events/42039-soo-greyhounds-vs-sarnia-sting"
+  ]
+ },
+ {
+  "eid": "sr:match:72182924",
+  "fx": "Rimouski Oceanic v Quebec Remparts",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Junior (CHL, ages 16-20) league = youth class: goals markets only in clear mismatches. Rimouski 2-8 last 10 and lost 2-5 to Victoriaville on 20 Nov; Quebec 7-3 last 10 and won both meetings (3-2, 4-2).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.27,
+    "p": 0.7471469924,
+    "why": "Quebec team Over 2.5 (goals market in a youth mismatch): Rimouski concede 4.4 a game and lost 5-2 two days ago; Quebec scored 3+ in 5 of their last 6. My p 0.76 v house 0.747. Low confidence (youth)."
+   }
+  ],
+  "avoid": "Result sides (youth).",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/lhjmq/en/schedule/",
+   "https://www.eliteprospects.com/team/885/halifax-mooseheads/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72182926",
+  "fx": "Sherbrooke Phoenix v Victoriaville Tigres",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Junior (CHL, ages 16-20) league = youth class: goals markets only in clear mismatches. Sherbrooke lost 3-4 OT to Shawinigan on 20 Nov. Victoriaville won 5-2 at Rimouski on 20 Nov and are 7-3 last 10, which runs against Sherbrooke being the 1.33 favourite.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sherbrooke ML 1.33: Victoriaville's form and a youth league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/lhjmq/en/schedule/",
+   "https://www.eliteprospects.com/team/885/halifax-mooseheads/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72182928",
+  "fx": "Chicoutimi Sagueneens v Rouyn Noranda Huskies",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Junior (CHL, ages 16-20) league = youth class: goals markets only in clear mismatches. Chicoutimi 7-3; Rouyn-Noranda 6-4.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (youth).",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/lhjmq/en/schedule/",
+   "https://www.eliteprospects.com/team/885/halifax-mooseheads/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72182930",
+  "fx": "Drummondville Voltigeurs v Halifax Mooseheads",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Junior (CHL, ages 16-20) league = youth class: goals markets only in clear mismatches. Halifax play their 3rd game in 3 days (at Blainville-Boisbriand 20 Nov, Shawinigan 21 Nov, Drummondville 22 Nov, 4:00 pm ET = 21:00 UTC, consistent) but have won 3 straight on the road. Drummondville are rested (next game 25 Nov).",
+  "news": "Halifax on a 3-in-3 road trip; Drummondville rested.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (youth). Halifax fatigue favours Drummondville, but the youth rule bars result picks.",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/lhjmq/en/schedule/",
+   "https://www.eliteprospects.com/team/885/halifax-mooseheads/schedule",
+   "https://chl.ca/lhjmq-mooseheads/"
+  ]
+ }
+]

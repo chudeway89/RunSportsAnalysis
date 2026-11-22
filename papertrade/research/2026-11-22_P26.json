@@ -1,0 +1,623 @@
+[
+ {
+  "eid": "sr:match:72837352",
+  "fx": "68 Aksaray Belediyespor v Isparta 32 Spor",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "2. Lig group game; Aksaray 3-1-6 L10 but 2-0-2 home scoring 2.0; Isparta 5-2-3, 4-1-1 away. Both sides' recent games high-total (Aksaray last6 totals 5,5,3,5,4,3).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8092595749,
+    "why": "Both sides' last-6 totals: Aksaray 6/6 >=3 goals, Isparta 4/6 >=2; trend 0.80 vs house 0.81; own est 0.83 (stat-led fill, not a named-mechanism anchor)."
+   }
+  ],
+  "avoid": "1X2 (Aksaray 3-1-6 form contradicts favourite price)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.tff.org/default.aspx?pageID=600",
+   "https://www.tivibu.com.tr/tff-ikinci-lig"
+  ]
+ },
+ {
+  "eid": "sr:match:72837354",
+  "fx": "Adana Demirspor v Aliaga Futbol",
+  "sport": "football",
+  "absences": "Adana Demirspor: club on roughly -55 pts after repeated FIFA point deductions (unpaid player debts); squad heavily depleted.",
+  "context": "Adana Demirspor last in Beyaz Grup on about -55 points; Aliaga Futbol 4th on 26 pts. Ali Hosfikirler Stadium, 13:00 local (=10:00 UTC), matches board.",
+  "news": "Bottom side Adana Demirspor (-55 pts, FIFA deductions) host 4th-placed Aliaga; kick-off 13:00 local confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Aliaga 1.11 below range; Over 3.5 not supported (Aliaga games low-total: 2-0,1-1,0-0,1-0,2-1).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sondakika.com/spor/haber-sonuncu-adana-demirspor-yarin-4-uncu-siradaki-20448386/",
+   "https://www.yenisafak.com/spor/aliaga-fk-adana-demirspor-deplasmaninda-sahaya-cikiyor-4875132",
+   "https://www.karar.com/spor-haberleri/adana-demirsporun-puani-neden-silindi-adana-demirspor-kacinci-ligde-195-2070244"
+  ]
+ },
+ {
+  "eid": "sr:match:72837358",
+  "fx": "Ankaraspor v Corluspor 1947",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Mid-table 2. Lig; Ankaraspor 4-1-5, Corlu 4-2-4 (3-1-1 away).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 at 1.19 marginal (own ~0.81 = house).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tff.org/default.aspx?pageID=600",
+   "https://www.tivibu.com.tr/tff-ikinci-lig"
+  ]
+ },
+ {
+  "eid": "sr:match:72837936",
+  "fx": "Belediye Kutahyaspor v Hekimoglu Trabzon",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kutahyaspor (9th, 16 pts) v 1461 Trabzon FK (8th, 18 pts) - SportyBet 'Hekimoglu Trabzon' is the same club (renamed 1461 Trabzon FK after 2021). Dumlupinar Stadium, 13:00 local = 10:00 UTC, matches board. Ref Burak Akdag.",
+  "news": "Kutahyaspor v 1461 Trabzon (ex-Hekimoglu) confirmed 22 Nov 13:00 local; two points apart.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Close game; nothing passes.",
+  "confidence": 0.15,
+  "sources": [
+   "https://dumlupinargazetesi.com/kutahyaspor-1461-trabzon-fk-maci-ne-zaman-bilet-fiyatlari-belli-oldu",
+   "https://en.wikipedia.org/wiki/1461_Trabzon_F.K.",
+   "https://www.haberturk.com/spor/mac-detay/kutahyaspor-futbol-sk-vs-kct-1461-trabzon-fk-2076960"
+  ]
+ },
+ {
+  "eid": "sr:match:72837944",
+  "fx": "Kahramanmaras Istiklalspor v Adana 1954 FK",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Top-of-group clash: Istiklalspor 7-0-3 (4-0-0 home, 3.0 gf) v Adana 1954 7-2-1.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home DNB 1.46 (own ~0.66, no edge without news).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tff.org/default.aspx?pageID=600",
+   "https://www.tivibu.com.tr/tff-ikinci-lig"
+  ]
+ },
+ {
+  "eid": "sr:match:72837356",
+  "fx": "Kastamonuspor v Erbaaspor",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kastamonuspor collapsing: 1-2-7 L10, conceded 1-6 (Sanliurfaspor, 14 Nov), 0-6, 0-5, 1-4, 1-5. Erbaaspor 9th, 17 pts. Home game at Gazi Stadium, 22 Nov (preview confirms).",
+  "news": "Kastamonuspor (conceding 3.6/g) host Erbaaspor at Gazi on 22 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.698153,
+    "why": "Kastamonu's last 6 all had 4+ goals, they concede 3.6/g; Erbaa scores 1.4/g. Own est 0.73 vs house 0.70."
+   }
+  ],
+  "avoid": "Home +2.5 catch banned (fav p 0.85); Erbaa result 1.13 below range.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.aciksoz.com.tr/haber/29194504/kastamonuspor-gazide-erbaayi-agirlayacak",
+   "https://www.sporx.com/turkiye-2-lig-fikstur"
+  ]
+ },
+ {
+  "eid": "sr:match:72837932",
+  "fx": "Kirklarelispor v Fethiyespor",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kirmizi Grup week 13; both low-scoring (Kirklareli 1.0 gf/1.7 ga).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Low-scoring, nothing qualifies.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tff.org/default.aspx?pageID=600"
+  ]
+ },
+ {
+  "eid": "sr:match:72837348",
+  "fx": "Mus 1984 Musspor v Hatayspor Antakya",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Musspor new group leader (8-1-1, 5-0-0 home) v Hatayspor fighting relegation (1-0-9, 0-0-4 away). Mu\u015f Sehir Stadium; ref Ahmet Resuloglu; free tickets.",
+  "news": "Club/press say 22 Nov 13:00 local, but Sporx fixture page lists 29 Nov - date conflict.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (Sporx 29 Nov v club/Haber49 22 Nov).",
+  "picks": [],
+  "avoid": "All markets (date conflict); Mus 1.05 anyway below range.",
+  "confidence": 0.1,
+  "sources": [
+   "https://haber49.net/musspor-hatayspor-macinin-hakem-kadrosu-aciklandi",
+   "https://www.alparslandiyari.com/haber/musspor-dan-taraftara-buyuk-jest_82573/",
+   "https://m.sporx.com/hatayspor-fiksturu-ve-mac-sonuclari"
+  ]
+ },
+ {
+  "eid": "sr:match:72837350",
+  "fx": "Sebat Genclik Spor v Belediye Derincespor",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Sebat home 3-1-1 (3.0 gf); Derincespor games high-total (last 6 totals 3,2,7,5,4,5).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.791608,
+    "why": "Sebat last-6 totals 2,6,6,0,3,5 and Derince 3,2,7,5,4,5; own est 0.83 vs house 0.79 (stat-led fill)."
+   }
+  ],
+  "avoid": "1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.tff.org/default.aspx?pageID=600",
+   "https://www.tivibu.com.tr/tff-ikinci-lig"
+  ]
+ },
+ {
+  "eid": "sr:match:72837346",
+  "fx": "Somaspor v Elazigspor",
+  "sport": "football",
+  "absences": "no news found (no Elazigspor team news found)",
+  "context": "Soma Nazim Yavuz Stadium, 13:00 local = 10:00 UTC. Elazigspor 5-3-2 (3-2-0 away, ga 0.6); Somaspor scoring 0.9/g.",
+  "news": "Fixture confirmed 13:00 local; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.70 < 0.75; 12-DC banned.",
+  "confidence": 0.15,
+  "sources": [
+   "https://zafergazetesi.org/bugun-hangi-maclar-var-22-kasim-gunun-futbol-programi"
+  ]
+ },
+ {
+  "eid": "sr:match:72723338",
+  "fx": "Erzurumspor FK v Goztepe Izmir",
+  "sport": "football",
+  "absences": "Goztepe: Luka Gugeshashvili (left out of squad), Furkan Bayir (knee), Ibrahim Sabra (ankle ligament) out; Sonko Sundberg doubtful; Juan, Antunes, Matos one booking from bans. Erzurumspor: Mustafa Yumlu fitness monitored.",
+  "context": "Super Lig week 12, Kazim Karabekir Stadium 13:30 local = 10:30 UTC (matches). Goztepe picked up most points away (3-1-1 away, 2.4 gf).",
+  "news": "Goztepe without Gugeshashvili, Furkan Bayir, Sabra; Yumlu doubt for Erzurum.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 p 0.76 < 0.82; result-sides near coin-flip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.mynet.com/erzurumspor-fk-goztepe-2026-11-22-maci-oncesi-analiz-527071-myspor",
+   "https://ajansspor.com/haber/erzurumspor-fk-goztepe-maci-ne-zaman-hangi-kanalda-muhtemel-11ler-sakat-ve-cezalilar-739066",
+   "https://dokuzeylul.com/goztepenin-erzurum-maci-hangi-kanalda"
+  ]
+ },
+ {
+  "eid": "sr:match:72735922",
+  "fx": "Batman Petrolspor v Muglaspor",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "1. Lig week 15, 13:30 local = 10:30 UTC (matches). Batman Petrolspor 2nd on 23 pts (home 3-0-1, 3.0 gf / 2.25 ga); Muglaspor 18 pts with wild results (0-5, 0-6, 5-0, 4-3, 0-3).",
+  "news": "Batman (2nd, 23 pts) v Muglaspor (18 pts) 13:30 local confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.7957206041,
+    "why": "Batman home games avg 5.25 goals; Muglaspor last-6 totals 5,6,5,7,3,2. Own est 0.86 vs house 0.80."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.7366532819,
+    "why": "Batman 2nd and 3-0-1 at home v Muglaspor conceding 2.3/g; draw void. Own est 0.76 vs house 0.74."
+   }
+  ],
+  "avoid": "Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sporkolik.net/bursaspor-sivasspor-yaklasik-8-yil-sonra-ilk-randevu.html",
+   "https://www.sporkolik.net/erokspor-antalyaspor-antalyaspor-puan-farkini-korumak-istiyor.html",
+   "https://www.sporkolik.net/manisa-fk-pendikspor-pendikspor-rakibinden-1-puan-onde.html",
+   "https://www.milligazete.com.tr/bugun-hangi-maclar-var-22-kasim-pazar-futbolda-mac-programi",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_TFF_1._Lig"
+  ]
+ },
+ {
+  "eid": "sr:match:72942580",
+  "fx": "Bangkok United FC v Ayutthaya United FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 1 round 9, 18:00 Thai = 11:00 UTC (matches). Venue listed as True BG Stadium by Siamsport, Thammasat Stadium by Siamnews (home venue either way). BU home 4-0-1; Siamsport preview tips a 2-2.",
+  "news": "Fixture confirmed; minor venue listing difference (both home grounds); no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.37 no edge (own 0.70 = house); Over 1.5 1.16 below range.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.siamsport.co.th/football-program/2026-11-22/",
+   "https://www.siamsport.co.th/football-thailand/thaileague-1/112320/",
+   "https://www.siamnews.com/football/match/1598080"
+  ]
+ },
+ {
+  "eid": "sr:match:73075920",
+  "fx": "Nakhon Ratchasima FC v Khon Kaen United FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 2; LST 6:00am ET = 11:00 UTC (matches). Khon Kaen United 8-0-2 L10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Khon Kaen form strong vs home favourite price - conflicting, skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/thailand/thai-division-1/",
+   "https://www.betexplorer.com/football/thailand/thai-league-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075922",
+  "fx": "Songkhla FC v Kanchanaburi Power FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 2; Songkhla 1-4-5 (0-2-1 home) v Kanchanaburi 4-5-1.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "nothing qualifies",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/thailand/thai-division-1/",
+   "https://www.betexplorer.com/football/thailand/thai-league-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:72837938",
+  "fx": "24Erzincanspor v Karacabey Belediyespor",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kirmizi Grup week 13: 24Erzincanspor 2nd on 24 pts (20 gf, 11 ga) host Karacabey at 13 Subat Sehir Stadium, 14:00 local = 11:00 UTC; ref Can Cengiz.",
+  "news": "Erzincanspor (2nd) v Karacabey confirmed 14:00 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home DNB 1.17 below range; Erzincan home only 1.0 gf.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.erzincanguncel.com/erzincanspor-zirve-yarisinda-karacabeyi-agirlayacak/"
+  ]
+ },
+ {
+  "eid": "sr:match:72837940",
+  "fx": "Iskenderun FK v MKE Ankaragucu",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Iskenderunspor bottom on -1 pts (3-pt deduction), winless in 11, 0.5 gf/g. Ankaraguncu second game under new coach Ilker Avcibay (1-1 v Kirklarelispor). Sariseki Fuat Tosyali complex, 14:00 local = 11:00 UTC.",
+  "news": "Ankaragucu's 2nd game under new coach Ilker Avcibay at bottom side Iskenderun (-1 pts).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.67 < 0.75; Ankaragucu draw-prone (3-5-2) and in coaching transition; 12-DC banned.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.haberankara.com/spor/iskenderunspor-ankaragucu-maci-ne-zaman-oynanacak-hangi-kanalda-izlenebilecek-324478",
+   "https://www.gapgundemi.com/haber/29202235/iskenderunspor-ankaragucu-maci-hangi-kanalda-saat-kacta"
+  ]
+ },
+ {
+  "eid": "sr:match:72942582",
+  "fx": "Chiangrai United v Lamphun Warriors FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 1, 18:30 Thai = 11:30 UTC (matches). Both low-scoring (Chiangrai 0.8 gf/1.0 ga; H2H 0-0).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 p 0.74 < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.siamsport.co.th/football-program/2026-11-22/",
+   "https://www.siamsport.co.th/football-thailand/thaileague-1/112320/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075924",
+  "fx": "Muang Loei United FC v Uttaradit Saksiam FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 2, kick-off consistent with listings.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "nothing qualifies",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/thailand/thai-division-1/",
+   "https://www.betexplorer.com/football/thailand/thai-league-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:72942584",
+  "fx": "Rayong FC v Rasisalai United",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 1, 19:00 Thai = 12:00 UTC (matches). Rasisalai United 0-2-8 L10, 0-1-5 away conceding 3.17/g; Rayong weak too (2-3-5, home 1-3-2).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7867864116,
+    "why": "Rasisalai winless in 10 (0-1-5 away, 3.2 ga); draw void covers Rayong's draw-heavy home record. Own est 0.80 vs house 0.79."
+   }
+  ],
+  "avoid": "Over 1.5 1.17 below range; Rayong -1.5 (own home attack weak).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.siamsport.co.th/football-program/2026-11-22/",
+   "https://www.siamsport.co.th/football-thailand/thaileague-1/112320/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075926",
+  "fx": "Phrae United v Nongbua Pitchaya FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Thai League 2; no 22 Nov listing found for Nongbua Pitchaya in searched sources (not a conflict, just no coverage).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "nothing qualifies",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/thailand/thai-division-1/",
+   "https://www.betexplorer.com/football/thailand/thai-league-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:72723324",
+  "fx": "Kasimpasa Istanbul v Alanyaspor",
+  "sport": "football",
+  "absences": "Kasimpasa: Kamil Ahmet Corekci, Godfried Frimpong, Fousseni Diabate, Kevin Mouanga, Andri Fannar Baldursson injured; Elson Mendes suspended. Alanyaspor: no absences reported (one source), others unclear.",
+  "context": "Super Lig week 12, 16:00 local = 13:00 UTC (matches), beIN Sports 2.",
+  "news": "Kasimpasa missing five injured plus suspended Elson Mendes; Alanyaspor reportedly full squad.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2/DNB - six absentees undermine Kasimpasa's 2-3-0 home record; Unders below p 0.82.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.yenialanya.com/kasimpasa-alanyaspor-maci-ne-zaman-saat-kacta-hangi-kanalda-muhtemel-11ler-sakat-ve-cezali",
+   "https://aksam.com.tr/spor/kasimpasanin-konugu-alanyaspor/haber-1716407"
+  ]
+ },
+ {
+  "eid": "sr:match:72723332",
+  "fx": "Konyaspor v Besiktas Istanbul",
+  "sport": "football",
+  "absences": "Besiktas: captain Orkun Kokcu suspended (yellow cards); Fabio Miretti (shoulder) likely out; Emmanuel Agbadou knee, return late Dec per one source (others list him in XI - conflict); Emirhan Topcu and Trossard one booking from missing the Galatasaray derby. Konyaspor: Adil Demirbag (ACL, season), Awaziem doubtful (muscle); Enis Bardhi suspension disputed between sources.",
+  "context": "Super Lig week 12, 16:00 local = 13:00 UTC (matches). Big-club away. Konyaspor scoring 0.6/g (2-2-6 L10). Besiktas face Galatasaray derby next week.",
+  "news": "Besiktas without suspended Orkun Kokcu (and likely Miretti); Konyaspor without Demirbag, Awaziem doubtful.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Under 4.5",
+    "odds": 1.18,
+    "p": 0.8266806435,
+    "why": "Konyaspor 0.6 gf/g with 4 of last 6 games <=1 goal; Besiktas lose playmaker Kokcu. Big-club total needs p>=0.82: house 0.83, own 0.86."
+   }
+  ],
+  "avoid": "Besiktas result-side (big-club, Kokcu out, derby next week); Bardhi/Agbadou data conflicting.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.mynet.com/tumosan-konyaspor-besiktas-2026-11-22-maci-oncesi-analiz-527093-myspor",
+   "https://www.sporx.com/futbol/superlig/besiktas/besiktas-ta-konyaspor-oncesi-tek-eksik-SXHBQ1183518SXQ",
+   "https://12punto.com.tr/spor/konyaspor-besiktas-maci-ne-zaman-saat-kacta-hangi-kanalda-iste-muhtemel-11ler-sakat-ve-cezalilar-159926"
+  ]
+ },
+ {
+  "eid": "sr:match:72735918",
+  "fx": "Esenler Erokspor v Antalyaspor",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "1. Lig, Esenler Stadium 16:00 local = 13:00 UTC (TRT Spor), matches. Antalyaspor 20 pts (away 4-1-0, ga 0.4) v Erokspor 18 pts.",
+  "news": "Fixture confirmed; Antalyaspor protecting gap over Erokspor; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 - Antalyaspor's away record contradicts the price.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sporkolik.net/bursaspor-sivasspor-yaklasik-8-yil-sonra-ilk-randevu.html",
+   "https://www.sporkolik.net/erokspor-antalyaspor-antalyaspor-puan-farkini-korumak-istiyor.html",
+   "https://www.sporkolik.net/manisa-fk-pendikspor-pendikspor-rakibinden-1-puan-onde.html",
+   "https://www.milligazete.com.tr/bugun-hangi-maclar-var-22-kasim-pazar-futbolda-mac-programi",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_TFF_1._Lig"
+  ]
+ },
+ {
+  "eid": "sr:match:72735920",
+  "fx": "Manisa Futbol Kulubu v Pendikspor",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "1. Lig, Mumin Ozkasap facilities 16:00 local = 13:00 UTC, matches. Pendikspor 14 pts, one point ahead of Manisa FK.",
+  "news": "Low-table Manisa v Pendikspor confirmed; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 1.20 (own 0.80 = house).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sporkolik.net/bursaspor-sivasspor-yaklasik-8-yil-sonra-ilk-randevu.html",
+   "https://www.sporkolik.net/erokspor-antalyaspor-antalyaspor-puan-farkini-korumak-istiyor.html",
+   "https://www.sporkolik.net/manisa-fk-pendikspor-pendikspor-rakibinden-1-puan-onde.html",
+   "https://www.milligazete.com.tr/bugun-hangi-maclar-var-22-kasim-pazar-futbolda-mac-programi",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_TFF_1._Lig"
+  ]
+ },
+ {
+  "eid": "sr:match:76676810",
+  "fx": "Africain v Esperance Sportive de Tunis",
+  "sport": "football",
+  "absences": "Esperance: Hazem Mastouri (muscle, ~2 weeks), Mohamed Belhadj-Mahmoud (suspended, accumulated bookings), Arkem Taboubi (ACL). Club Africain: no current absence list found.",
+  "context": "Tunis derby, round 8, Rades, 22 Nov. Derby - no result-sides.",
+  "news": "Esperance without Mastouri, Belhadj-Mahmoud and Taboubi for the Rades derby.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (derby); Under 2.5 p 0.71 < 0.82.",
+  "confidence": 0.2,
+  "sources": [
+   "https://e-s-tunis.com/fr/news/2026/11/21/16136-ca-est-les-sang-et-or-pr%C3%AAts-pour-le-derby",
+   "https://www.ysscores.com/en/news/14102057/another-blow-for-esperance-tunis-mastouri-to-miss-derby-against-club-africain"
+  ]
+ },
+ {
+  "eid": "sr:match:76676812",
+  "fx": "ES Zarzis v US Ben Guerdane",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Ben Guerdane lead on 17 pts (4 straight wins per one source); Zarzis 13th on 6 pts. Sources disagree: 22 Nov 13:30 GMT (sportnewsafrica, ghanasoccernet) v 21 Nov (LiveSoccerTV, Ouest-France); venue Abdessalem Kazouz v Stade Jlidi.",
+  "news": "Date and venue conflict across listings.",
+  "veto": true,
+  "veto_reason": "Date conflict (21 v 22 Nov) and venue conflict between sources.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportnewsafrica.com/actualites/calendrier-ligue-1-tunisienne-programme-et-horaires-du-week-end-20-22-novembre-2026/",
+   "https://www.livesoccertv.com/match/zarzis-vs-ben-guerdane/1ku0e7#5123498",
+   "https://www.ysscores.com/en/match/17468971/ES-Zarzis-vs-Union-Sportive-de-Ben-Guerdane"
+  ]
+ },
+ {
+  "eid": "sr:match:72723322",
+  "fx": "Trabzonspor v Eyupspor",
+  "sport": "football",
+  "absences": "Trabzonspor: Batagov and Franculino injured, Aral doubtful; Nwaiwu suspended (one list also has Okay Yokuslu and Folcarelli suspended). Eyupspor: Simone Giordano, Talha Ulvan, Bilal Boutobba injured.",
+  "context": "Super Lig week 12, Papara Park 19:00 local = 16:00 UTC (matches), ref Gurcan Hasova. Trabzonspor 2nd on 25 pts chasing a 7th straight win; Eyupspor last on 3 pts, one win, 8 straight defeats (0.3 gf, 4.5 ga away).",
+  "news": "Trabzonspor (6 straight wins) host bottom Eyupspor (8 straight defeats); Trabzon missing Franculino, Batagov, suspended Nwaiwu.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Home (-1.5)",
+    "odds": 1.42,
+    "p": 0.67867,
+    "why": "Eyupspor lost last 8, away 0-0-4 with 4.5 ga; Trabzon home ga 0.2 and on 6 straight wins. Own est 0.71 vs house 0.68 (absences are defensive/rotation, not attack core)."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.804162,
+    "why": "Trabzonspor team 2+ goals: Eyupspor concede 2.9/g overall, 4.5 away. Own est 0.83 vs house 0.80."
+   }
+  ],
+  "avoid": "Home 1X2 1.14 below range; Eyupspor team Under (Unders need p>=0.82).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.aspor.com.tr/trabzonspor/2026/11/22/trabzonspor-eyupspor-hangi-kanalda-saat-kacta-macin-detaylari",
+   "https://www.haber61.net/trabzonspor/trabzonspor-eyupspor-u-agirliyor-firtina-nin-hedefi-ust-uste-yedinci-galibiyet/650169",
+   "https://ajansspor.com/haber/trabzonspor-eyupspor-maci-ne-zaman-hangi-kanalda-muhtemel-11ler-sakat-ve-cezalilar-739069"
+  ]
+ },
+ {
+  "eid": "sr:match:72735912",
+  "fx": "Bursaspor v Sivasspor",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "1. Lig week 15, 19:00 local = 16:00 UTC (beIN Sports 2), matches. Bursaspor leaders on 32 pts (7-2-1 L10); Sivasspor 18th on 13 pts. Venue listed as Timsah Arena (Sivasspor site) v Yuzuncu Yil Ataturk Stadium (Haberci TV) - both Bursa home grounds, no home/away swap.",
+  "news": "Leaders Bursaspor host 18th-placed Sivasspor, first meeting in ~8 years.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.816999,
+    "why": "League leader (32 pts, home 3-1-1, 2.4 gf) v 18th-placed Sivasspor (away 1-2-2, 2.0 ga). Own est 0.81 vs house 0.82 - fair price, cheapest margin band."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.27,
+    "p": 0.7525505368,
+    "why": "Bursaspor 2.4 gf/g overall and at home; Sivasspor conceded 3, 4 in two of last 5. Own est 0.77 vs house 0.75."
+   }
+  ],
+  "avoid": "Bursa -1.5 (2.4 gf but Sivasspor draw-prone 2-5-3).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sporkolik.net/bursaspor-sivasspor-yaklasik-8-yil-sonra-ilk-randevu.html",
+   "https://www.habercitv.com.tr/bursaspor-sivasspor-maci-ne-zaman-saat-kacta-hangi-kanalda",
+   "https://sivasspor.org.tr/"
+  ]
+ },
+ {
+  "eid": "sr:match:73019658",
+  "fx": "Geita Gold FC v Mashujaa FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NBC Premier League, Geita Gold Mine Stadium 17:30 GMT (matches). Geita 12th on 7 pts (2-1-5); Mashujaa unbeaten in 11 of last 12 away per one preview (SR shows 1-0-5 away - data conflict on form, not date).",
+  "news": "Geita (12th, 2W 1D 5L) v Mashujaa; previews lean Geita not winning.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 p 0.79 < 0.82; form data conflicting on Mashujaa away record.",
+  "confidence": 0.15,
+  "sources": [
+   "https://ghanasoccernet.com/geita-gold-vs-mashujaa-hosts-seek-home-improvement-as-visitors-target-another-away-win",
+   "https://ligikuu.co.tz/event/17390/"
+  ]
+ }
+]
