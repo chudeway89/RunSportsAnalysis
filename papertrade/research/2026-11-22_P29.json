@@ -1,0 +1,291 @@
+[
+ {
+  "eid": "sr:match:74781230",
+  "fx": "SIF Stocke v Gislaveds VBK",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Women's Elitserien. Stocke 0-4 this season (0.5 sets/game). Svensk Volleyboll schedule: 11:00 local = 10:00 UTC, matches board.",
+  "news": "Kick-off 11:00 CET confirmed by the federation schedule; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture: no result-side picks by rule; checked only for date/venue conflicts; Gislaved 1.06 too short anyway",
+  "confidence": 0.15,
+  "sources": [
+   "https://elitserienvolleyboll.se/2026/11/06/dukat-for-maxad-elitseriehelg-13-matcher-vantar/",
+   "https://www.profixio.com/app/lx/competition/leagueid27935?t=schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:75743064",
+  "fx": "Istanbul Genclik Spor v Halkbank Ankara",
+  "sport": "volleyball",
+  "absences": "no named absences found",
+  "context": "Efeler Ligi week 7. Halkbank 9-1 last 10 and 4/4 away, all 3-0 or 3-1 away; IGS 1-9. Venue Sehit Mustafa Ozel Spor Salonu, 22 Nov 14:00 TRT = 11:00 UTC (one sporekrani page lists 21 Nov, but the federation fixture and the same site's 22 Nov page say 22 Nov, so it is treated as a listing error).",
+  "news": "IGS beat Halkbank 3-1 at home in March 2026 and took them to 5 sets in the first meeting last season, so they can upset at home; but the form gap this season is wide",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.815713,
+    "why": "Halkbank 9-1 last 10 and 4/4 away, v IGS 1-9 and 1-4 at home. The house 0.816 is fair; my estimate is 0.82. IGS's home upset of Halkbank last March keeps this from being higher."
+   }
+  ],
+  "avoid": "Set handicap and Under 4.5 sets (sets Under p 0.79 < 0.82); point handicaps",
+  "confidence": 0.3,
+  "sources": [
+   "https://voleybolaktuel.com/sms-grup-efeler-liginde-7hafta-basliyor",
+   "https://www.sporekrani.com/home/match/496596/2026/11/22/istanbul-genclik-halkbank-tvf-efeler-ligi-hangi-kanalda",
+   "https://www.trtspor.com.tr/haber/voleybol/halkbanka-istanbul-genclik-surprizi-24776705"
+  ]
+ },
+ {
+  "eid": "sr:match:73499118",
+  "fx": "Nova Novokuybyishevsk v Zenit St. Petersburg",
+  "sport": "volleyball",
+  "absences": "no named absences found",
+  "context": "Russian Superliga. Championat lists 16:00 MSK = 13:00 UTC, matches board. Zenit 8-2 and 4/4 away, conceding 1 set in 4 away games; Nova 4-2 at home. The last meeting (Jan 2026) went 3-2 to Zenit after Nova levelled at 2-2.",
+  "news": "Schedule confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "202",
+    "spec": "setnr=1",
+    "desc": "Away",
+    "odds": 1.26,
+    "p": 0.76,
+    "why": "Zenit took the first set in all 4 away games (1 set conceded in total). My estimate is 0.77, which is only house level, so treat this as fill: Nova are decent at home (4-2) and took 2 sets off Zenit in January."
+   }
+  ],
+  "avoid": "Match winner (1.12, too short); Under 4.5 sets (p 0.80); +2.5 set catch",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.championat.com/volleyball/news-6709166-raspisanie-matchej-muzhskoj-superligi-po-volejbolu-na-22-noyabrya.html",
+   "https://spbdnevnik.ru/news/2026-01-11/vk-zenit-spb-v-matche-muzhskoy-superligi-pobedil-novu-iz-novokuybyshevska"
+  ]
+ },
+ {
+  "eid": "sr:match:74781232",
+  "fx": "Linkopings VC v Sollentuna VK",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Women's Elitserien. 14:00 local = 13:00 UTC, matches board. Sollentuna beat Engelholm 3-0 on 14 Nov.",
+  "news": "Schedule confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture: no result-side picks by rule; checked only for date/venue conflicts",
+  "confidence": 0.15,
+  "sources": [
+   "https://elitserienvolleyboll.se/2026/11/06/dukat-for-maxad-elitseriehelg-13-matcher-vantar/",
+   "https://www.everysport.com/volleyboll-dam/2026-2027/match/elitserien/2026-11-14/sollentuna-vk-vs-engelholms-vs/5228460"
+  ]
+ },
+ {
+  "eid": "sr:match:73499122",
+  "fx": "VC Zenit-Kazan v Kuzbass Kemerovo",
+  "sport": "volleyball",
+  "absences": "no named absences found",
+  "context": "Russian Superliga, 17:00 MSK per Championat = 14:00 UTC, matches board. Zenit-Kazan recently lost to Belogorie in the 'Klassika' game; Kuzbass 6-4 last 10, a credible side.",
+  "news": "Kazan coming off a loss to Belogorie; no lineup news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kazan 1.08 too short; Kuzbass is credible enough that set-level markets at 1.21-1.25 do not have enough margin",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.championat.com/volleyball/news-6709166-raspisanie-matchej-muzhskoj-superligi-po-volejbolu-na-22-noyabrya.html",
+   "https://zenit-kazan.com/press-center/team-news/zenit-kazan-ustupil-belogoryu-v-klassike-otechestvennogo-voleybola.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74781234",
+  "fx": "Hylte/Halmstad Volley v Engelholms VS",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Women's Elitserien. Federation schedule gives 15:00 local = 14:00 UTC, matches board. Engelholm lost 0-3 at Sollentuna on 14 Nov. H2H is split 2-2.",
+  "news": "Schedule confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture: no result-side picks by rule; checked only for date/venue conflicts",
+  "confidence": 0.15,
+  "sources": [
+   "https://elitserienvolleyboll.se/2026/11/06/dukat-for-maxad-elitseriehelg-13-matcher-vantar/",
+   "https://www.everysport.com/volleyboll-dam/2026-2027/match/elitserien/2026-11-14/sollentuna-vk-vs-engelholms-vs/5228460"
+  ]
+ },
+ {
+  "eid": "sr:match:74780862",
+  "fx": "Uppsala VBS v Hylte/Halmstad Volley",
+  "sport": "volleyball",
+  "absences": "no named absences found",
+  "context": "Men's Elitserien. Hylte/Halmstad are the reigning champions (13th title, 2025/26) and 8-2 last 10. Uppsala finished 9th of 10 in 2025/26 with 9 points and are 1-4 at home (1.0 sets/game). Hylte beat Uppsala 3-0 at the same stage last season.",
+  "news": "No team news found; time not independently confirmed (no conflict found)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "202",
+    "spec": "setnr=1",
+    "desc": "Away",
+    "odds": 1.21,
+    "p": 0.782,
+    "why": "Mismatch: the champions v last season's 9th, who are 1-4 at home this season. My estimate is 0.80."
+   }
+  ],
+  "avoid": "Match winner 1.08 (too short)",
+  "confidence": 0.25,
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Elitserien_i_volleyboll_f%C3%B6r_herrar_2025/2026",
+   "https://www.unt.se/sport/volleyboll/artikel/tung-forlust-nar-uppsala-besegrades-av-hylte-halmstad/lzz7qw1l"
+  ]
+ },
+ {
+  "eid": "sr:match:73499126",
+  "fx": "Gorkii Nizhny Novgorod v Belogorie Belgorod",
+  "sport": "volleyball",
+  "absences": "no named absences found",
+  "context": "Russian Superliga round 9. Belogorie are 3rd, with 6 wins from 8; Gorky are 10th and have lost 3 straight. Championat lists 18:00 MSK = 15:00 UTC, the same as Stavka/Scores24's 15:00 UTC, so the times agree.",
+  "news": "Belogorie in form (they recently beat Zenit-Kazan and beat MGTU 3-0); Gorky have lost 3 in a row",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "202",
+    "spec": "setnr=1",
+    "desc": "Away",
+    "odds": 1.21,
+    "p": 0.793,
+    "why": "Belogorie (3rd, 6/8) v Gorky (10th, 3 straight losses). My estimate is 0.80, roughly house level. Gorky are 3-2 at home, which caps the edge."
+   }
+  ],
+  "avoid": "Match winner 1.07 (too short)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.championat.com/volleyball/news-6709166-raspisanie-matchej-muzhskoj-superligi-po-volejbolu-na-22-noyabrya.html",
+   "https://stavka.tv/matches/volleyball/22-11-2026-gorkii-nizhny-novgorod-belogorie-belgorod",
+   "https://championat.com/volleyball/news-6708408-kolodinskij-nazval-tri-klyucha-k-uspehu-belogorya-v-matche-s-kazanskim-zenitom.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73499120",
+  "fx": "Mgtu Moscow v Dinamo-Ural UFA",
+  "sport": "volleyball",
+  "absences": "no named absences found",
+  "context": "Russian Superliga round 9, 18:00 MSK = 15:00 UTC (Championat), matches board. Both sides are poor: MGTU 2-8 (1-5 at home), Ufa 3-7 (1-4 away). MGTU recently lost 0-3 to Belogorie.",
+  "news": "Schedule confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ufa at 1.38 (p 0.69) is a weak away favourite and below the 0.75 bar; the set totals have no mechanism behind them",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.championat.com/volleyball/news-6709166-raspisanie-matchej-muzhskoj-superligi-po-volejbolu-na-22-noyabrya.html",
+   "https://matchtv.ru/volleyball/matchtvnews_NI2385849_Belogorje_obygralo_MGTU_v_matche_Superligi_po_volejbolu"
+  ]
+ },
+ {
+  "eid": "sr:match:74780892",
+  "fx": "Sodertelge VBK v Lunds Vk",
+  "sport": "volleyball",
+  "absences": "no named absences found",
+  "context": "Men's Elitserien. A coin-flip: Sodertelge finished 6th and Lund 7th in 2025/26 (30 v 29 points). Both have mostly short recent results (several 0-3), which argues against Over 3.5 sets.",
+  "news": "No news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: 50/50 game with no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Elitserien_i_volleyboll_f%C3%B6r_herrar_2025/2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72780008",
+  "fx": "Aesch Pfeffingen v NUC Volleyball",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Women's NLA. Sofascore table: NUC 4-0 and top, Sm'Aesch 3-1. Aesch 6/6 at home.",
+  "news": "No team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture: no result-side picks by rule; checked only for date/venue conflicts",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/switzerland/nationalliga-a-women/9517"
+  ]
+ },
+ {
+  "eid": "sr:match:72780010",
+  "fx": "Btv Aarau v VC Kanti Schaffhausen",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Women's NLA. Aarau 1-3 and 0/4 at home; Schaffhausen 2-1.",
+  "news": "No team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture: no result-side picks by rule; checked only for date/venue conflicts",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/switzerland/nationalliga-a-women/9517"
+  ]
+ },
+ {
+  "eid": "sr:match:73240780",
+  "fx": "VK Pirane Brusno v Slavia Eu Bratislava",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Women's Nike Extraliga round 9, 17:00 CET = 16:00 UTC per Sportnet's Sunday programme, matches board. Slavia EUBA unbeaten early in the season; Brusno lost to Slovan.",
+  "news": "Fixture confirmed for today 17:00 local",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture: no result-side picks by rule; checked only for date/venue conflicts",
+  "confidence": 0.15,
+  "sources": [
+   "https://sportnet.sme.sk/spravy/sportovy-program-na-dnes-nedela-22-november-2026",
+   "https://sportnet.sme.sk/spravy/volejbal-vysledky-dnes-sobota-3-kolo-nike-extraliga-zien-2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:74781236",
+  "fx": "Lunds Vk v Kfuk-Kfum Goteborg",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Women's Elitserien. Kfuk-Kfum Goteborg 0/4 away with 0 sets won; Lund 3-1 at home. 16:30 UTC not independently confirmed (no conflict found).",
+  "news": "No news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture: no result-side picks by rule; checked only for date/venue conflicts",
+  "confidence": 0.1,
+  "sources": [
+   "https://elitserienvolleyboll.se/2026/11/06/dukat-for-maxad-elitseriehelg-13-matcher-vantar/"
+  ]
+ },
+ {
+  "eid": "sr:match:74781492",
+  "fx": "Suac Canarias v Intasa San Sadurnino",
+  "sport": "volleyball",
+  "absences": "no named absences found",
+  "context": "Spanish Superliga round 6. Both promoted in 2026; SUAC (debutants) still chasing a first league win. 18:00 Canary time = 18:00 UTC at Pabellon Carlos Garcia San Roman, Las Palmas, matches board. Last meeting 3-2.",
+  "news": "SUAC still winless and at home; even game",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip; Over 3.5 sets at 1.34 (p 0.71) has no edge (4 of the last 6 for each side went 4+ sets, roughly the house price)",
+  "confidence": 0.1,
+  "sources": [
+   "https://esvoley.es/comunicacion/noticias/suac-canarias-debutara-e-intasa-san-sadurnino-retornara-a-la-division-de-honor-masculina",
+   "https://www.infobae.com/espana/agencias/2026/04/25/el-suac-canarias-asciende-a-la-superliga-masculina-de-voleibol/"
+  ]
+ }
+]
