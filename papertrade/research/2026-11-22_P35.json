@@ -1,0 +1,584 @@
+[
+ {
+  "eid": "sr:match:73584734",
+  "fx": "CE Mercadal v CD Manacor",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Mercadal 15th (10 pts, 0W in 4 at home) v Manacor 5th (21). Kick-off 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.32,
+    "p": 0.711281,
+    "why": "Manacor 5th v 15th Mercadal winless at home (0W1D3L, conceding 2.75/g); DNB protects draw. Own p 0.72."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.51 < 0.75); all Unders (amateur).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.futbolbalear.es/resultados/2026-2027/tercera-2041/j-12/"
+  ]
+ },
+ {
+  "eid": "sr:match:73584722",
+  "fx": "SD Formentera v CD Cardassar",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Formentera 10th (16) v Cardassar 9th (17): near-equal mid-table. 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides: teams level on points; Unders (amateur).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futbolbalear.es/resultados/2026-2027/tercera-2041/j-12/"
+  ]
+ },
+ {
+  "eid": "sr:match:75024584",
+  "fx": "CD Subiza v CD Pamplona",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Subiza 3rd (19, game in hand) won all 5 home games (2.8 gf) v CD Pamplona 16th (10), 0W in 4 away scoring 0.5/g. 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.24,
+    "p": 0.755814226,
+    "why": "Subiza 5/5 home wins, 3rd v 16th; Pamplona 0W1D3L away scoring 0.5/g. Own p 0.80."
+   }
+  ],
+  "avoid": "Unders (amateur).",
+  "confidence": 0.3,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-15/3075/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73563034",
+  "fx": "CD Varea v Casalarreina CF",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Varea 9th (19) v Casalarreina bottom (3 pts, lost all last 10, 2.9 ga/g). 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.796359,
+    "why": "Casalarreina bottom with 3 pts and 10 straight defeats (0.8 gf, 2.9 ga); Varea 4W/5 at home conceding 0.6. Own p 0.81."
+   }
+  ],
+  "avoid": "Varea team Over (Varea scores only ~1.0/g at home); AH -1.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-16/3081/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73562228",
+  "fx": "CD Cuarte v CD Binefar",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Cuarte 3rd (19) v Binefar 11th (14). Binefar draw-heavy (5D in 10). 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.741258,
+    "why": "3rd v 11th; Binefar 3L in 6 away conceding 2.17/g; DNB covers Binefar's draw tendency. Own p 0.75."
+   }
+  ],
+  "avoid": "Unders (amateur); Binefar draws often so no 1X2.",
+  "confidence": 0.25,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-17/3071/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73560452",
+  "fx": "CD Illescas v CD Toledo Sad",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Illescas 8th (17, conceded 0.2/g at home) v Toledo 2nd (23). 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away sides: Illescas tight at home (3W1D1L, 1 conceded in 5); Unders banned (amateur).",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-18/3066/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73560462",
+  "fx": "UD Socuellamos CF v CD Villacanas",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Socuellamos 13th (13, unbeaten at home 2W2D) v Villacanas 3rd (21). 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything; draw-heavy profile, low totals.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-18/3066/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73555506",
+  "fx": "Condal Club v Sporting Atletico",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Condal v Sporting Atletico = Sporting Gijon RESERVE side. 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result picks; Condal unbeaten at home (0 conceded in 4) so no goals mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futbolasturiano.es/categoria/3rfef/"
+  ]
+ },
+ {
+  "eid": "sr:match:73555728",
+  "fx": "El San Martin Ra v UP Langreo",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. San Martin v UP Langreo, 12:00 local confirmed. Nothing separates them in form.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futbolasturiano.es/categoria/3rfef/"
+  ]
+ },
+ {
+  "eid": "sr:match:73555396",
+  "fx": "UC Ceares v CD Covadonga",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Ceares (1W in 10) v Covadonga (7W in 10, 2.3 gf). 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.769263,
+    "why": "Covadonga scoring 2.3/g (team O1.5 priced 0.62) v Ceares conceding 1.6; amateur thin-league caveat. Own p 0.77."
+   }
+  ],
+  "avoid": "Covadonga 1X2 (away p 0.70 < 0.75); AH -1.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.futbolasturiano.es/categoria/3rfef/"
+  ]
+ },
+ {
+  "eid": "sr:match:73556486",
+  "fx": "CD Cayon v Castro FC",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Cayon 5th (23, 7W in 10, conceding 0.4/g) v Castro 16th (8, 0W in 4 away, conceding 2.75 away). 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.41,
+    "p": 0.664678,
+    "why": "5th v 16th; Cayon concede 0.4/g, Castro 0W1D3L away conceding 2.75. Own p 0.68."
+   }
+  ],
+  "avoid": "Overs (Cayon low-scoring at home, 0.75 gf); AH -1.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-3/3063/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73556484",
+  "fx": "CD Guarnizo v Tropezon",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Guarnizo 11th (11) v Tropezon 2nd (26, 7W in 10, 3W1D away). 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.27,
+    "p": 0.7392158248,
+    "why": "Tropezon 2nd, unbeaten away (3W1D) v 11th Guarnizo who lost 5 of 10; DNB covers the draw. Own p 0.75."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.54 < 0.75).",
+  "confidence": 0.25,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-3/3063/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73582208",
+  "fx": "Burgos CF Promesas v Atletico Bembibre",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Burgos CF Promesas = RESERVE side (5th, 21) v Bembibre 10th. 12:00 local confirmed. Bembibre also have a postponed J11 game on 9 Dec.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result picks; no clear goals mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-8/3068/jornada/12",
+   "https://www.tribunapalencia.com/noticias/453379/calendario-de-tercera-federacion-para-el-palencia-cf-y-cristo-atletico"
+  ]
+ },
+ {
+  "eid": "sr:match:73582204",
+  "fx": "Palencia CF v CD Guijuelo",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Palencia CF 8th (17, strong at home 3W1D1L) v Guijuelo 9th (16). 12:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Even game; no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-8/3068/jornada/12",
+   "https://www.tribunapalencia.com/noticias/453379/calendario-de-tercera-federacion-para-el-palencia-cf-y-cristo-atletico"
+  ]
+ },
+ {
+  "eid": "sr:match:73555820",
+  "fx": "CD Colunga v CD Llanes",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Colunga (concedes 2.4/g, 3.0 at home; last-6 includes 5-5, 0-4, 2-3) v Llanes. 15:45 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.759851,
+    "why": "Colunga conceded 3.0/g at home, and 5 of their last 6 games had 2+ goals. Own p 0.79."
+   }
+  ],
+  "avoid": "Result sides (even).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.futbolasturiano.es/categoria/3rfef/"
+  ]
+ },
+ {
+  "eid": "sr:match:73562240",
+  "fx": "Andorra CF v CD Caspe",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Andorra 14th (12) v Caspe 5th (18; 6D in 10, 0W away). 16:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Caspe away (0W4D1L away); Unders (amateur).",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-17/3071/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73562242",
+  "fx": "CDJ Tamarite v CD La Almunia",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Tamarite 16th (9, 7L in 10) v La Almunia 4th (19). 16:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "La Almunia away p 0.41; only 2W in 5 away.",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-17/3071/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73563042",
+  "fx": "CD Cenicero v CD Alfaro",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Cenicero 14th (9) v Alfaro 4th (23, 7W in 10 but low-scoring at 1.3 gf). 16:15 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Alfaro away 1X2 (p 0.66 < 0.75); Overs (Alfaro games tight, 1-0s).",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-16/3081/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73584736",
+  "fx": "UE Porreres v CD Ibiza Islas Pitiusas",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Porreres 4th (22) v leaders Ibiza Islas Pitiusas (25, unbeaten, 0.2 ga/g). 16:30 local confirmed. Top-4 clash.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (top-of-table clash); Unders (amateur).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futbolbalear.es/resultados/2026-2027/tercera-2041/j-12/"
+  ]
+ },
+ {
+  "eid": "sr:match:73562226",
+  "fx": "CF Epila v AD Almudevar",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Epila 12th (13) v Almudevar 9th (15; 0W in 5 away, 0.4 gf away). Low-scoring both sides. 16:30 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Overs (both ~1.0 gf); Unders banned (amateur).",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-17/3071/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73555730",
+  "fx": "CD Mosconia v Aviles Stadium CF",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Mosconia (unbeaten at home 3W2D) v Aviles Stadium. 16:45 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mosconia 1X2 p 0.63 only; no mechanism beyond form.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futbolasturiano.es/categoria/3rfef/"
+  ]
+ },
+ {
+  "eid": "sr:match:73563032",
+  "fx": "CA Vianes v Yague CF",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Vianes 16th (7) v Yague 12th (12). Both leaky: Vianes ga 2.0, Yague concede 3.2/g away. 17:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.779146,
+    "why": "Two bottom-half defences (Vianes 2.0 ga, Yague 3.2 ga away); 6 of Yague's last 6 had 3+ goals. Own p 0.81."
+   }
+  ],
+  "avoid": "Result sides.",
+  "confidence": 0.25,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-16/3081/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73563048",
+  "fx": "CDFC La Calzada v SD Oyonesa",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. La Calzada 2nd (27, 4/4 home wins) v Oyonesa 7th (20). 17:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Top-table game, small margins.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-16/3081/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73563036",
+  "fx": "Comillas CF v CD Calahorra",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Comillas 17th (6, 0W in 10, 0/5 at home) v Calahorra 3rd (24, 8W in 10, 3.2 gf). 17:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.38,
+    "p": 0.679068,
+    "why": "Calahorra score 3.2/g and Comillas concede 2.2 at home; last-6 Calahorra games 6,4,3,5,3,4 goals. Own p 0.70."
+   }
+  ],
+  "avoid": "AH +2.5 for Comillas (Calahorra p high, rout class); Calahorra -2.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-16/3081/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73560464",
+  "fx": "CD Quintanar del Rey v CF La Solana",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Quintanar del Rey 17th (7, 0W at home) v La Solana 14th (12, 1W in 5 away, 0.4 gf away). 17:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: two weak sides, low scoring.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-18/3066/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73560460",
+  "fx": "CD Tarancon v CD Huracan de Balazote",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Tarancon 10th (15, 2W in 5 at home) v Huracan Balazote 16th (10, conceding 2.75 away). 17:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tarancon 1X2 1.41: home form only 2W1D2L, no named mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-18/3066/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73560450",
+  "fx": "CP Villarrobledo v CD Marchamalo",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Villarrobledo 5th (18, 1L in 10) v Marchamalo 15th (12, 1W in 5 away conceding 2.2). 17:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.2,
+    "p": 0.7878501746,
+    "why": "Villarrobledo lost 1 of last 10 (0.6 ga) v 15th Marchamalo who lost 4 of 5 away. Own p 0.80."
+   }
+  ],
+  "avoid": "Overs (Villarrobledo low-scoring at home, 0.8 gf).",
+  "confidence": 0.25,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-18/3066/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73556480",
+  "fx": "CD Barquereno v UM Escobedo",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Barquereno 17th (8) v Escobedo bottom (7). Relegation six-pointer; both score <0.7/g. 17:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Overs (both teams score under 0.7/g); result sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-3/3063/jornada/12"
+  ]
+ },
+ {
+  "eid": "sr:match:73582198",
+  "fx": "Arandina CF v CD Mirandes B",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Arandina 13th (12) v Mirandes B = RESERVE side, bottom (4 pts, 0.3 gf). 17:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result picks; Unders banned (amateur).",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-8/3068/jornada/12",
+   "https://www.tribunapalencia.com/noticias/453379/calendario-de-tercera-federacion-para-el-palencia-cf-y-cristo-atletico"
+  ]
+ },
+ {
+  "eid": "sr:match:73555394",
+  "fx": "Astur CF v L'Entregu CF",
+  "sport": "football",
+  "absences": "no named absences found (amateur Tercera Federacion; no team-news coverage)",
+  "context": "J12. Astur (0W in 10, 6D) v L'Entregu (1W in 5 away). 18:00 local confirmed.",
+  "news": "no news found; fixture date/time confirmed by league listing (local = UTC+1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything; low-scoring, draw-heavy.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futbolasturiano.es/categoria/3rfef/"
+  ]
+ }
+]

@@ -1,0 +1,620 @@
+[
+ {
+  "eid": "sr:match:72045834",
+  "fx": "FC Bregalnica 2008 AD v FC Struga Trim Lum",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Prva MFL 26/27 return fixture; Struga TL (8W-1D-1L last 10, GF 3.2 GA 0.6) won the reverse 4-0 at Bregalnica on 28 Aug; Bregalnica lower half, 2W-3L at home last 5.",
+  "news": "No preview found for Nov 22; Struga beat Bregalnica 4-0 in August (round 5).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.32,
+    "p": 0.710205,
+    "why": "Struga clear quality edge (4-0 reverse, 4W of 6 away, GA 0.6); draw voids. Own p 0.75."
+   }
+  ],
+  "avoid": "Struga 1X2 (p 0.55 < 0.75 away rule); Bregalnica games are erratic (6-7, 4-3) so no Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.ffm.mk/en/natprevaruvanje/prva-mfl27/",
+   "https://sportsport.mk/2026/08/28/%D0%BF%D0%BC%D1%84%D0%BB-%D1%81%D1%82%D1%80%D1%83%D0%B3%D0%B0-%D1%83%D0%B1%D0%B5%D0%B4%D0%BB%D0%B8%D0%B2%D0%B0-%D0%BF%D1%80%D0%BE%D1%82%D0%B8%D0%B2-%D0%B1%D1%80%D0%B5%D0%B3%D0%B0%D0%BB%D0%BD%D0%B8%D1%86%D0%B0"
+  ]
+ },
+ {
+  "eid": "sr:match:72230884",
+  "fx": "Unia Skierniewice v Pogon Siedlce",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "I liga round 15; Unia Skierniewice poor (2W in 10, GA 2.1); Pogon Siedlce mid-table. Date 22 Nov 12:00 local confirmed by sportowefakty and 90minut.",
+  "news": "No team news found; date confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 at 1.16 is below the price band; 1X2/DNB home not supported by Unia form.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sportowefakty.wp.pl/pilka-nozna/betclic-i-liga",
+   "http://www.90minut.pl/liga/1/liga14676.html",
+   "https://www.flashscore.pl/pilka-nozna/polska/betclic-1-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72398842",
+  "fx": "KS Hutnik Krakow SSA v CWKS Resovia",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "II liga round 17; Resovia BOTTOM on 6 points, 0 wins in last 10, scoring 0.5/game (0.8 away); Hutnik 12th, weak themselves (2W in 10).",
+  "news": "Resovia bottom of II liga on 6 pts; Hutnik 12th; date 22 Nov 12:00 local confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.21,
+    "p": 0.7816681462,
+    "why": "Resovia winless in 10 and scoring 0.5/game: they cannot easily win away. Own p 0.81."
+   }
+  ],
+  "avoid": "Hutnik 1X2 (only 1W in last 5 at home); Overs (Resovia attack 0.5/game).",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportowefakty.wp.pl/pilka-nozna/betclic-ii-liga/terminarz",
+   "https://sport.tvp.pl/96586267/betclic-2-liga-202627-terminarz-i-plan-transmisji-17-kolejki-20-22112026",
+   "http://www.90minut.pl/liga/1/liga14677.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72514898",
+  "fx": "LKS Lodz II v Wigry Suwalki",
+  "sport": "football",
+  "absences": "reserve side (LKS Lodz II)",
+  "context": "III liga group 1; LKS Lodz II is a reserve team; Wigry 8W in 10.",
+  "news": "Reserve fixture: no team news checked beyond date; no conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result-sides; no clear goals mismatch.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73050920",
+  "fx": "Zaglebie Lubin v MKS Korona Kielce",
+  "sport": "football",
+  "absences": "youth (CLJ U19)",
+  "context": "Centralna Liga Juniorow (U19): Zaglebie Lubin U19 v Korona Kielce U19.",
+  "news": "Youth fixture: not researched beyond date; no conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth: no picks (no clear mismatch).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72043334",
+  "fx": "Rakow Czestochowa v Widzew Lodz",
+  "sport": "football",
+  "absences": "Rakow: Lamine Diaby-Fadiga out, Marko Perovic doubtful; Flashscore also lists Tudor and Ameyaw out. Widzew: Szymon Czyz and Lukas Lerager out; Carlos Isaac, Mariusz Fornalczyk, Dani Silva doubtful.",
+  "context": "Ekstraklasa, 11:15 UTC confirmed (FotMob). Widzew 1W in last 10, 0W in last 3 away; Rakow 2-1-2 at home. Widzew's absence list is longer, per Betfan.",
+  "news": "Both sides weakened; Widzew worse (Czyz, Lerager out plus 3 doubts).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.32,
+    "p": 0.7163719034,
+    "why": "Widzew's midfield is thinned (Lerager, Czyz out) and they have 1 win in 10; Rakow avoid defeat. Own p 0.75."
+   }
+  ],
+  "avoid": "Rakow 1X2 at 2.1 (Rakow also missing attackers); totals are near coin flips.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.flashscore.pl/wiadomosci/pi-ka-nozna-pko-bp-ekstraklasa-kontuzje-w-rakowie-przed-meczem-z-widzewem-tudor-i-ameyaw-poza-sk-adem/UeAhu2h2/",
+   "https://sport.betfan.pl/rakow-czestochowa-widzew-lodz-zapowiedz-i-analiza/",
+   "https://www.fotmob.com/matches/rakow-czestochowa-vs-widzew-odz/177vq8"
+  ]
+ },
+ {
+  "eid": "sr:match:72398836",
+  "fx": "Olimpia Grudziadz v Gornik Leczna",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "II liga round 17, 12:30 local; Gornik Leczna 2nd (7W in 10, GA 0.7) away at Olimpia Grudziadz (GF 1.0).",
+  "news": "Gornik Leczna 2nd in table; date confirmed by sportowefakty.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away result at p 0.37 (rule); X2 1.43 adds too little over the house.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportowefakty.wp.pl/pilka-nozna/betclic-ii-liga/terminarz",
+   "https://sport.tvp.pl/96586267/betclic-2-liga-202627-terminarz-i-plan-transmisji-17-kolejki-20-22112026",
+   "http://www.90minut.pl/liga/1/liga14677.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72313286",
+  "fx": "KF Kamjani Kamenjane v FK Euromilk Gorno Lisice",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "North Macedonia 2. MFL; thin second-tier coverage.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin league, no coverage; DNB home at 1.13 is below the band.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76617094",
+  "fx": "Roea v Arna-Bjornar",
+  "sport": "football",
+  "absences": "women's",
+  "context": "Toppserien qualification playoff, 2nd leg: Roa lost the first leg 2-7 at Arna-Bjornar (Roa 'crisis-hit'). 12:00 GMT listed; matches the board.",
+  "news": "Women's playoff 2nd leg; Arna-Bjornar lead 7-2 on aggregate; no date conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no result-sides. Over 2.5 at 1.26 p 0.75 is possible on goals, but Arna-Bjornar may rotate with the tie decided, so skip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportsbibelen.no/kriserammede-roa-knust-2-7-i-kvalikkamp/",
+   "https://www.footballstreams.com/matches/roaw-vs-arna-bjornarw-20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:72514904",
+  "fx": "Lechia Tomaszow Mazowiecki v Kts Weszlo",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga group 1 (regional 4th tier); Weszlo 6W in 10.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Regional tier: thin data, no picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76665538",
+  "fx": "Odds BK v Bryne FK",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "KNOCKOUT: Eliteserien promotion playoff round 1 (single match), Odd (5th OBOS) v Bryne (6th), 13:30 local at Skagerak Arena; winner plays Stabaek on 29 Nov. Settles on 90 minutes.",
+  "news": "One-legged promotion playoff, date and venue confirmed by NFF and Stabaek.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result-sides (knockout; draw goes to ET). Over 1.5 at 1.15 is below the band; Over 2.5 at 1.50 is too thin for a cagey knockout.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fotball.no/fotballdata/turnering/hjem/?fiksId=211838&underside=kamper",
+   "https://www.stabak.no/nyheter/slik-spilles-eliteseriekvaliken",
+   "https://no.wikipedia.org/wiki/Kvalifisering_til_Eliteserien_i_fotball_for_menn_2027"
+  ]
+ },
+ {
+  "eid": "sr:match:76709718",
+  "fx": "Davao Aguilas v Stallion Laguna FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Philippines Football League; Davao side now 'Aguilas-UMak'. The only listing found (Sofascore) put Aguilas v Stallion Laguna on 15 Nov 2026, not 22 Nov.",
+  "news": "Fixture date could not be confirmed; a Sofascore listing shows 15 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict: the only source found lists the match on 15 Nov, not 22 Nov.",
+  "picks": [],
+  "avoid": "All markets (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/team/davao-aguilas/253131"
+  ]
+ },
+ {
+  "eid": "sr:match:76998828",
+  "fx": "Sur SC v Sohar",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Omantel League round 8, 1st leg at Sur Sports Complex, 12:35 UTC (YSScores). Lo3btna's Sohar page lists Sohar v Al-Nahda for 22 Nov and Sur v Sohar on 4 Nov.",
+  "news": "Pairing confirmed by YSScores/Winwin; Lo3btna gives a conflicting opponent and date.",
+  "veto": true,
+  "veto_reason": "Fixture/date conflict: Lo3btna lists Sohar v Al-Nahda on 22 Nov and Sur v Sohar on 4 Nov.",
+  "picks": [],
+  "avoid": "All markets (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ysscores.com/en/match/6325280/Sur-SC-vs-Sohar-SC",
+   "https://www.ysscores.com/en/match/6325281/Al-Mussanah-Club-vs-Dhofar-Club",
+   "https://lo3btna.com/team/%D8%B5%D8%AD%D8%A7%D8%B1-5-2/",
+   "https://www.livesoccertv.com/channels/oman-tv-sport/"
+  ]
+ },
+ {
+  "eid": "sr:match:72230870",
+  "fx": "KS Lechia Gdansk v Odra Opole",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "I liga round 15. Sportowefakty and 90minut give 22 Nov 14:30 local; Flashscore.pl gives 23 Nov.",
+  "news": "Date conflict between sources (22 Nov vs 23 Nov).",
+  "veto": true,
+  "veto_reason": "Date conflict: Flashscore.pl lists 23 Nov; sportowefakty/90minut list 22 Nov.",
+  "picks": [],
+  "avoid": "All markets (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportowefakty.wp.pl/pilka-nozna/betclic-i-liga",
+   "http://www.90minut.pl/liga/1/liga14676.html",
+   "https://www.flashscore.pl/pilka-nozna/polska/betclic-1-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:74886168",
+  "fx": "Enugu Rangers International FC v Shooting Stars",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NPFL matchday 14, Sunday 22 Nov 16:00 WAT (sportspoule, NigFooty). Rangers lead the table (25 pts), drew 1-1 at Niger Tornadoes last week, 4/4 home wins (GA 0.25). Shooting Stars 7th, 0W in last 5 away, but beat Bendel Insurance 2-1. Rangers play again Tue 24 Nov at Sporting Lagos (congestion).",
+  "news": "Leaders Rangers host 3SC; date confirmed by 2 sources; Rangers have a midweek game on Tuesday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.44,
+    "p": 0.624276,
+    "why": "NPFL home edge: Rangers won 4/4 at home conceding 1; 3SC 0W in last 5 away. Own p 0.66 (tempered by the midweek game and the 3SC upset of Bendel)."
+   }
+  ],
+  "avoid": "Overs (Rangers' home games are low-scoring); away anything.",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportspoule.com/en/blog/rangers-vs-shooting-stars-npfl-matchday-14-prediction",
+   "https://www.nigfooty.com/2026/11/npfl-matchday-14-fixtures-and-updated.html",
+   "https://soccernet.ng/2026/11/npfl-matchday-14-rangers-kano-pillars-ikorodu-fixtures.html",
+   "https://www.betexplorer.com/football/nigeria/npfl/"
+  ]
+ },
+ {
+  "eid": "sr:match:74886178",
+  "fx": "Kun Khalifat FC v Katsina United FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NPFL matchday 14, Sunday 16:00 (NigFooty). Kun Khalifat poor (3W in 10, GF 0.8); Katsina beat Nasarawa 2-1 last round.",
+  "news": "Date confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 (Kun Khalifat form weak); Under 3.5 p 0.79 < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sportspoule.com/en/blog/rangers-vs-shooting-stars-npfl-matchday-14-prediction",
+   "https://www.nigfooty.com/2026/11/npfl-matchday-14-fixtures-and-updated.html",
+   "https://soccernet.ng/2026/11/npfl-matchday-14-rangers-kano-pillars-ikorodu-fixtures.html",
+   "https://www.betexplorer.com/football/nigeria/npfl/"
+  ]
+ },
+ {
+  "eid": "sr:match:74886180",
+  "fx": "Nasarawa United v Warri Wolves FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NPFL matchday 14. Nasarawa 5th (20 pts), lost 1-2 at Katsina last round, 4W-1D at home (GA 0.4). Warri Wolves 14th, 0W in last 4 away, scoring 0.25 away.",
+  "news": "No team news; Nasarawa 5th v 14th-placed Warri.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.74098,
+    "why": "NPFL home edge plus Warri's away attack (0.25 GF/game, winless away). Own p 0.76."
+   }
+  ],
+  "avoid": "Totals (both low-scoring).",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportspoule.com/en/blog/rangers-vs-shooting-stars-npfl-matchday-14-prediction",
+   "https://www.nigfooty.com/2026/11/npfl-matchday-14-fixtures-and-updated.html",
+   "https://soccernet.ng/2026/11/npfl-matchday-14-rangers-kano-pillars-ikorodu-fixtures.html",
+   "https://www.betexplorer.com/football/nigeria/npfl/"
+  ]
+ },
+ {
+  "eid": "sr:match:74886166",
+  "fx": "Rivers United FC v Niger Tornadoes FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NPFL matchday 14. Rivers United 6th, 7 draws in last 10 (drew 1-1 at Kwara); Niger Tornadoes 11th, drew 1-1 with leaders Rangers.",
+  "news": "No team news; Rivers' draw-heavy form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 at 1.33 (7 draws in 10); Under 3.5 p 0.81 < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sportspoule.com/en/blog/rangers-vs-shooting-stars-npfl-matchday-14-prediction",
+   "https://www.nigfooty.com/2026/11/npfl-matchday-14-fixtures-and-updated.html",
+   "https://soccernet.ng/2026/11/npfl-matchday-14-rangers-kano-pillars-ikorodu-fixtures.html",
+   "https://www.betexplorer.com/football/nigeria/npfl/"
+  ]
+ },
+ {
+  "eid": "sr:match:76998830",
+  "fx": "AL Musannah SC v Dhofar SCSC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Omantel League round 8. Venue listed as Rustaq Sports Complex; kick-off times conflict across sources (07:00 / 10:00 / 15:00 UTC); the board says 15:00 UTC.",
+  "news": "Kick-off time conflict between sources.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict (sources give 07:00, 10:00 and 18:00 local).",
+  "picks": [],
+  "avoid": "All markets (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ysscores.com/en/match/6325280/Sur-SC-vs-Sohar-SC",
+   "https://www.ysscores.com/en/match/6325281/Al-Mussanah-Club-vs-Dhofar-Club",
+   "https://lo3btna.com/team/%D8%B5%D8%AD%D8%A7%D8%B1-5-2/",
+   "https://www.livesoccertv.com/channels/oman-tv-sport/"
+  ]
+ },
+ {
+  "eid": "sr:match:67015480",
+  "fx": "Aalesunds FK v Rosenborg BK",
+  "sport": "football",
+  "absences": "Aalesund: Simen Haram out (FotMob). Rosenborg: Johan Bakke out; Amin Chiakha left Algeria camp injured but coach Freyr Alexandersson expects him fit.",
+  "context": "Eliteserien round 27, 17:00 local (NFF). Rosenborg 3rd (46 pts) fighting Lillestrom (45) for 3rd; unbeaten in 5, 5/5 away wins (GF 3.2 GA 0.4). Aalesund concede 2.0/game.",
+  "news": "Rosenborg chase 3rd, 1 pt ahead of Lillestrom; Chiakha expected fit.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.31,
+    "p": 0.739075283,
+    "why": "Rosenborg motivated for 3rd and 5/5 away wins; draw voids. Own p 0.77."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.7215160386,
+    "why": "Aalesund's last 6 had 5+ goals in 4 games; Rosenborg away GF 3.2. Norway Unders are overrated (UBIAS). Own p 0.75."
+   }
+  ],
+  "avoid": "Rosenborg 1X2 (away p 0.59 < 0.75).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fotball.no/fotballdata/turnering/hjem/?fiksId=206092",
+   "https://www.sportsidioten.no/resultater/eliteserien-2026/",
+   "https://www.eliteserien.no/tabell",
+   "https://www.fotmob.com/matches/aalesund-vs-rosenborg/2caf6d",
+   "https://indkast.dk/chiakha-forlod-landsholdet-med-skade-rosenborg-traener-har-nyt-om-hans-comeback/"
+  ]
+ },
+ {
+  "eid": "sr:match:67015468",
+  "fx": "KFUM Oslo v SK Brann",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Eliteserien round 27, 17:00 local. Brann 7th (33 pts), lost 3 in a row; KFUM mid/low table.",
+  "news": "Brann on a 3-game losing run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Brann result (form collapse); no strong angle.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fotball.no/fotballdata/turnering/hjem/?fiksId=206092",
+   "https://www.sportsidioten.no/resultater/eliteserien-2026/",
+   "https://www.eliteserien.no/tabell"
+  ]
+ },
+ {
+  "eid": "sr:match:67015470",
+  "fx": "Kristiansund BK v Sandefjord Fotball",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Eliteserien round 27, 17:00 local per NFF. Sportsidioten's round-28 page shows different pairings (a minor conflict; NFF is official and matches the board).",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip 1X2; nothing at a usable price.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fotball.no/fotballdata/turnering/hjem/?fiksId=206092",
+   "https://www.sportsidioten.no/resultater/eliteserien-2026/",
+   "https://www.eliteserien.no/tabell"
+  ]
+ },
+ {
+  "eid": "sr:match:76706166",
+  "fx": "Club Alianza Lima v Universitario de Deportes",
+  "sport": "football",
+  "absences": "women's",
+  "context": "Liga Femenina Clausura final, 2nd leg at Matute, 11:00 Peru (16:00 UTC, matches the board). Universitario lead 3-1 from the first leg; a draw makes them champions.",
+  "news": "Women's final 2nd leg; Universitario 3-1 up on aggregate.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no result-sides; this is a final (knockout).",
+  "confidence": 0.1,
+  "sources": [
+   "https://elcomercio.pe/deporte-total/futbol-peruano/alianza-lima-vs-universitario-fecha-hora-y-canales-tv-de-la-final-vuelta-del-torneo-clausura-liga-femenina-2026-noticia/",
+   "https://larepublica.pe/deportes/2026/11/18/alianza-lima-universitario-fecha-hora-y-canal-confirmado-para-ver-la-final-de-la-liga-femenina-2026-1286622"
+  ]
+ },
+ {
+  "eid": "sr:match:72230882",
+  "fx": "ZKS Stal Rzeszow v Polonia Bytom",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "I liga round 15. Sportowefakty and 90minut give 22 Nov 17:00 local; Flashscore.pl gives 23 Nov.",
+  "news": "Date conflict between sources.",
+  "veto": true,
+  "veto_reason": "Date conflict: Flashscore.pl lists 23 Nov.",
+  "picks": [],
+  "avoid": "All markets (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportowefakty.wp.pl/pilka-nozna/betclic-i-liga",
+   "http://www.90minut.pl/liga/1/liga14676.html",
+   "https://www.flashscore.pl/pilka-nozna/polska/betclic-1-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:67015474",
+  "fx": "Sarpsborg 08 v Lillestroem SK",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Eliteserien round 27, 19:15 local. Lillestrom 4th (45 pts), 1 pt behind Rosenborg for 3rd, unbeaten in 5, 3W-1D away (GA 0.5). Sarpsborg concede 2.5 at home.",
+  "news": "Lillestrom chasing 3rd; Sarpsborg leaky at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.710964,
+    "why": "Sarpsborg home games: GA 2.5 with 5 of their last 6 at 3+ goals; Lillestrom must chase. Own p 0.73."
+   }
+  ],
+  "avoid": "Result-sides (house has Sarpsborg as favourite, against form).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fotball.no/fotballdata/turnering/hjem/?fiksId=206092",
+   "https://www.sportsidioten.no/resultater/eliteserien-2026/",
+   "https://www.eliteserien.no/tabell"
+  ]
+ },
+ {
+  "eid": "sr:match:72398840",
+  "fx": "Zawisza Bydgoszcz v Podhale Nowy Targ",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "II liga round 17, 19:30 local. Zawisza Bydgoszcz 5th; Podhale mid-table (5 draws in 10).",
+  "news": "Date confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Close match; nothing at a usable price.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sportowefakty.wp.pl/pilka-nozna/betclic-ii-liga/terminarz",
+   "https://sport.tvp.pl/96586267/betclic-2-liga-202627-terminarz-i-plan-transmisji-17-kolejki-20-22112026",
+   "http://www.90minut.pl/liga/1/liga14677.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76414592",
+  "fx": "Sport Huancayo v Universitario de Deportes",
+  "sport": "football",
+  "absences": "no news found (searched; no Universitario/Huancayo injury reports)",
+  "context": "Liga 1 Clausura final round (fecha 17), simultaneous 15:00 Peru, IPD Huancayo (altitude). Huancayo lead on 34 points and win the Clausura with a win; Universitario and Cristal are on 32. Huancayo 9W in last 10.",
+  "news": "Title decider: Huancayo top on 34, Universitario 32 needing a win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result-side (big-club, title-decider clash); totals not at a usable p.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.infobae.com/peru/deportes/2026/11/22/que-pasa-si-universitario-sporting-cristal-y-sport-huancayo-ganan-pierden-o-empatan-en-la-ultima-fecha-del-torneo-clausura-2026/",
+   "https://rpp.pe/futbol/descentralizado/torneo-clausura-2026-fecha-17-con-universitario-alianza-lima-cristal-huancayo-programacion-de-partidos-y-horarios-de-la-ultima-fecha-de-la-liga-1-noticia-1716997",
+   "https://ahora.com.pe/deportes/sport-huancayo-universitario-horario-clausura-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:76414550",
+  "fx": "Sporting Cristal v Cienciano",
+  "sport": "football",
+  "absences": "Cienciano: Maximiliano Amondarain out (suspended), Horacio Melgarejo suspended; one source also lists Alejandro Hohberg and Cristian Souza as absent. Cristal recover centre-back Miguel Araujo.",
+  "context": "Liga 1 Clausura fecha 17, Alberto Gallardo, 15:00 Peru. Cristal on 32 points need a win (and a Huancayo slip) for the Clausura; 6/6 home wins (GF 3.67). Cienciano 1W in 5 away.",
+  "news": "Cristal must win; Cienciano missing suspended Amondarain and Melgarejo.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.41,
+    "p": 0.680784,
+    "why": "Must-win Cristal (6/6 home wins) v a depleted Cienciano (2 suspensions, 1W in 5 away). Own p 0.73."
+   }
+  ],
+  "avoid": "Cienciano anything; Under.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.infobae.com/peru/deportes/2026/11/22/que-pasa-si-universitario-sporting-cristal-y-sport-huancayo-ganan-pierden-o-empatan-en-la-ultima-fecha-del-torneo-clausura-2026/",
+   "https://rpp.pe/futbol/descentralizado/torneo-clausura-2026-fecha-17-con-universitario-alianza-lima-cristal-huancayo-programacion-de-partidos-y-horarios-de-la-ultima-fecha-de-la-liga-1-noticia-1716997",
+   "https://www.futbolperuano.com/liga-1/noticias/sporting-cristal-recupera-a-figura-importante-para-enfrentar-a-cienciano-en-partido-clave-por-el-torneo-clausura-2026-613680",
+   "https://libero.pe/futbol-peruano/sporting-cristal/2026/11/21/sporting-cristal-suma-seleccionado-peruano-crucial-partido-cienciano-torneo-clausura-1642326"
+  ]
+ },
+ {
+  "eid": "sr:match:73038664",
+  "fx": "Club Olimpia v Sportivo Trinidense",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Clausura fecha 20, Defensores del Chaco, 18:00 local. Olimpia lead on 42 points and a DRAW clinches the title (star 49). Referee Blas Romero. Trinidense 6W in 10 (GA 1.0).",
+  "news": "Olimpia need only a draw to be champions.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.2,
+    "p": 0.7906100668,
+    "why": "Title-clinching motivation; a draw is enough for Olimpia, who are 7W-2D-1L in 10. Own p 0.82."
+   }
+  ],
+  "avoid": "Olimpia -1 handicaps; Overs (a draw suits Olimpia, so it may be cagey).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.abc.com.py/deportes/futbol/2026/11/09/el-titulo-del-clausura-2026-podria-definirse-el-domingo-22/",
+   "https://www.latribuna.com.py/deportes/2026/11/09/se-programo-la-fecha-20-del-torneo-clausura/",
+   "https://d10.ultimahora.com/blas-romero-impartira-justicia-en-la-cita-que-puede-consagrar-a-olimpia",
+   "https://www.lanacion.com.py/futboledicion-impresa/2026/11/22/olimpia-por-su-estrella-49/"
+  ]
+ },
+ {
+  "eid": "sr:match:73038662",
+  "fx": "Rubio Nu v Libertad Asuncion",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Clausura fecha 20, La Arboleda, 18:00 local. Rubio Nu fighting relegation (must-win); Libertad have only remote title hopes.",
+  "news": "Relegation-threatened Rubio Nu host Libertad.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Libertad 1X2 (p 0.56) and DNB: home relegation motivation against a side with little at stake.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.abc.com.py/deportes/futbol/2026/11/09/el-titulo-del-clausura-2026-podria-definirse-el-domingo-22/",
+   "https://www.latribuna.com.py/deportes/2026/11/09/se-programo-la-fecha-20-del-torneo-clausura/",
+   "https://d10.ultimahora.com/blas-romero-impartira-justicia-en-la-cita-que-puede-consagrar-a-olimpia"
+  ]
+ }
+]
