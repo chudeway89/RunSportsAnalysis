@@ -1,0 +1,557 @@
+[
+ {
+  "eid": "sr:match:73578998",
+  "fx": "SC Torrevieja CF v CD Bunol",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Torrevieja 1W in last 10; Bunol 3-4-3.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; coin-flip 1X2",
+  "confidence": 0.15,
+  "sources": [
+   "https://golsmedia.com/comunidad-valenciana/futbol/tercera-rfef/grupo-6/"
+  ]
+ },
+ {
+  "eid": "sr:match:73577756",
+  "fx": "FE Grama v CF Peralada",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Grama concede 0.5/g (last 10); Peralada 0W in 4 away.",
+  "news": "no news found; fixture confirmed on G5 J12 calendar context only",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.19,
+    "p": 0.7903,
+    "why": "Stats-only fill: Grama GA 0.5/g, Peralada 0 away wins in 4. Own p 0.79 = house. No named mechanism -> fill only."
+   }
+  ],
+  "avoid": "Unders/O1.5 (amateur)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/cf-badalona/371/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73578990",
+  "fx": "FC Jove Espanol San Vicente v CD Utiel",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Both sides weak form (Jove 2W, Utiel 1W in 10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "https://golsmedia.com/comunidad-valenciana/futbol/tercera-rfef/grupo-6/"
+  ]
+ },
+ {
+  "eid": "sr:match:73578996",
+  "fx": "Hercules CF B v Atletico Saguntino",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Hercules B is a RESERVE side (unbeaten in 10).",
+  "news": "no news found; reserve fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides (reserve)",
+  "confidence": 0.15,
+  "sources": [
+   "https://golsmedia.com/comunidad-valenciana/futbol/tercera-rfef/grupo-6/"
+  ]
+ },
+ {
+  "eid": "sr:match:73579002",
+  "fx": "Torrent CF v Atletico Levante UD",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Atletico Levante = Levante reserve (6W4D0L, GA 0.2).",
+  "news": "no news found; reserve fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve away fav)",
+  "confidence": 0.15,
+  "sources": [
+   "https://golsmedia.com/comunidad-valenciana/futbol/tercera-rfef/grupo-6/"
+  ]
+ },
+ {
+  "eid": "sr:match:73577768",
+  "fx": "CE Europa B v Cfj Mollerussa",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. CE Europa B is a RESERVE side; Mollerussa 0W4L away.",
+  "news": "no news found; reserve fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (reserve)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/cf-badalona/371/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73577762",
+  "fx": "CF Montanesa v Atletic Lleida CE",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Even contest; both mid/upper table.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/cf-badalona/371/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73577764",
+  "fx": "CP San Cristobal v UE Tona",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. San Cristobal 2W7L, GA 2.4; Tona GA 0.8 but scores 0.9.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "away 1X2 (p 0.33)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/cf-badalona/371/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73577760",
+  "fx": "FC Martinenc v UE Cornella",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Cornella (ex-Primera Fed club) away fav at 1.87 p0.50 - below away 1X2 gate.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "away 1X2 (<0.75); DNB away 1.39 p0.67 stats-only",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/cf-badalona/371/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73553850",
+  "fx": "Racing Club Villalbes v CD BARCO",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Galicia G1 J12, 12:00 local (=11:00 UTC, matches board). Barco (19 pts) won 2-1 v leader Boiro last week; new coach Brais Prados effect. Villalbes 15 pts, 2 defeats in 11.",
+  "news": "Barco riding new-coach bounce after beating leader Boiro; Villalbes hard to beat",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; balanced",
+  "confidence": 0.15,
+  "sources": [
+   "https://minutonoventa.com/tercera-federacion-gallega-previa-jornada-12-boiro-silva-noviembre-2026/",
+   "https://minutonoventa.com/tercera-federacion-gallega-siete-partidos-el-domingo-y-el-boiro-defiende-el-liderato-en-barrana/",
+   "https://minutonoventa.com/el-barco-pone-a-prueba-el-efecto-brais-prados-en-a-magdalena-tras-tumbar-al-lider/"
+  ]
+ },
+ {
+  "eid": "sr:match:73553854",
+  "fx": "Viveiro CF v UD Somozas",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Local derby, relegation zone: Viveiro bottom (8 pts), Somozas 14 pts. 12:00 local.",
+  "news": "bottom-of-table derby (Viveiro last)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides (derby)",
+  "confidence": 0.15,
+  "sources": [
+   "https://minutonoventa.com/tercera-federacion-gallega-previa-jornada-12-boiro-silva-noviembre-2026/",
+   "https://minutonoventa.com/tercera-federacion-gallega-siete-partidos-el-domingo-y-el-boiro-defiende-el-liderato-en-barrana/"
+  ]
+ },
+ {
+  "eid": "sr:match:73583632",
+  "fx": "Chiclana CF v UD Tomares",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. G10 J12, 12:00 local confirmed. Chiclana 0W in 4 home.",
+  "news": "kick-off 12:00 local confirmed (Huelva Buenas Noticias)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "home 1X2 at 2.0 (Chiclana 0W home)",
+  "confidence": 0.15,
+  "sources": [
+   "https://huelvabuenasnoticias.com/2026/11/21/san-roque-conil-y-bollullos-cadiz-mirandilla-completan-el-domingo-el-protagonismo-de-los-equipos-de-huelva-en-la-tercera-federacion/"
+  ]
+ },
+ {
+  "eid": "sr:match:73583618",
+  "fx": "RC Portuense v Cordoba CF B",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "G10 J12, 12:00 local confirmed. Cordoba B is a reserve side in the relegation zone, 8 games without a win. Portuense (promoted) 3W1D1L at home, 2.2 GF/g.",
+  "news": "Cordoba B in relegation zone, winless in 8",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.644,
+    "why": "Mechanism: Cordoba B winless in 8, relegation zone, 0W in 4 away (GA 2.25 away); Portuense strong at home. Own p 0.65 vs house 0.64. Opponent is reserve - pick is on senior side."
+   }
+  ],
+  "avoid": "Unders; Cordoba B anything",
+  "confidence": 0.25,
+  "sources": [
+   "https://huelvabuenasnoticias.com/2026/11/21/san-roque-conil-y-bollullos-cadiz-mirandilla-completan-el-domingo-el-protagonismo-de-los-equipos-de-huelva-en-la-tercera-federacion/"
+  ]
+ },
+ {
+  "eid": "sr:match:73583620",
+  "fx": "Sevilla FC C v Real Balompedica Linense",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Sevilla C is a reserve (3rd team); 12:00 local confirmed.",
+  "news": "no news; reserve fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve)",
+  "confidence": 0.15,
+  "sources": [
+   "https://huelvabuenasnoticias.com/2026/11/21/san-roque-conil-y-bollullos-cadiz-mirandilla-completan-el-domingo-el-protagonismo-de-los-equipos-de-huelva-en-la-tercera-federacion/"
+  ]
+ },
+ {
+  "eid": "sr:match:73553844",
+  "fx": "Atletico Coruna Montaneros CF v Pontevedra CF B",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Pontevedra B reserve side, 0W in 4 away. Morning slot in G1 J12 (time not stated by source).",
+  "news": "no news; reserve fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve)",
+  "confidence": 0.15,
+  "sources": [
+   "https://minutonoventa.com/tercera-federacion-gallega-previa-jornada-12-boiro-silva-noviembre-2026/",
+   "https://minutonoventa.com/tercera-federacion-gallega-siete-partidos-el-domingo-y-el-boiro-defiende-el-liderato-en-barrana/"
+  ]
+ },
+ {
+  "eid": "sr:match:73583626",
+  "fx": "Xerez Deportivo FC v CD Pozoblanco",
+  "sport": "football",
+  "absences": "Xerez: full squad available per club news; Robe Moreno back after a month injured. Pozoblanco: no news.",
+  "context": "G10 J12 at Chapin, 11:30 GMT (footballstreams) = board. One Flashscore list shows Nov 29 alternatively, but club news (Nov 18) prepares this game -> treated as noise. Xerez two straight draws, unbeaten 5W4D1L in 10.",
+  "news": "Xerez fully fit squad, want to end 2-draw run",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.6408,
+    "why": "Mechanism: Xerez coach has every player available incl. Robe Moreno returning; unbeaten at home (2W2D in 4). Pozoblanco 1W in 4 away. Own p 0.64 = house; draw risk (2 straight draws)."
+   }
+  ],
+  "avoid": "Unders; AH -1.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.vivajerez.es/deportes/vuelta-trabajo-xerez-dfc-preparar-partido-pozoblanco/20261118153012008395.html",
+   "https://www.footballstreams.com/matches/xerez-deportivo-fc-vs-cd-pozoblanco-20261122/",
+   "https://www.flashscore.es/partido/futbol/pozoblanco-88ts1cm1/xerez-deportivo-fc-pICBvnHI/"
+  ]
+ },
+ {
+  "eid": "sr:match:73586678",
+  "fx": "CD Algar v CD Bala Azul",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Murcia G13. Algar 16th (6 pts after 9, relegation zone), 1W4L at home conceding 3.2/g; Bala Azul 8th (13 pts). Standings source may lag.",
+  "news": "Algar in relegation zone",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "away 1X2 p0.65 (<0.75 gate); DNB away 1.14 too short; Bala Azul team O1.5 1.61 p0.57 mid-band",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_XIII_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:73586674",
+  "fx": "UCAM Murcia II v Union Molinense CF 2020",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. UCAM II is a reserve side; G13 had postponed midweek games on Nov 18 (Aguilas B v UCAM B listed) - possible congestion.",
+  "news": "reserve; possible midweek game Nov 18",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_XIII_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:73586672",
+  "fx": "SFC Minerva v CA Pulpileno",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Source shows Minerva won 3-1 at Molinense Nov 14 and had a rescheduled game v Alcantarilla Nov 18; Pulpileno also had a Nov 18 rescheduled game v Maritimo. Sources' dates unreliable.",
+  "news": "possible midweek congestion both sides",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_XIII_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:73586684",
+  "fx": "Deportivo Maritimo v Aguilas FC B",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Aguilas B is a reserve side (6W4D0L); both teams may have played Nov 18.",
+  "news": "reserve away fav",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_XIII_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:73579000",
+  "fx": "AC Torrellano v Crevillente Deportivo",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Even local Alicante contest.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "https://golsmedia.com/comunidad-valenciana/futbol/tercera-rfef/grupo-6/"
+  ]
+ },
+ {
+  "eid": "sr:match:73579004",
+  "fx": "UD Vall de Uxo v CD Roda",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Vall de Uxo (top-half last season) 2W1D1L home; Roda 0W in 5 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.2,
+    "p": 0.7892,
+    "why": "Stats-only fill: Roda 0W2D3L away, Vall de Uxo GA 0.8. Own p 0.79 = house."
+   }
+  ],
+  "avoid": "Unders (amateur), O1.5 (p0.65 thin)",
+  "confidence": 0.15,
+  "sources": [
+   "https://golsmedia.com/comunidad-valenciana/futbol/tercera-rfef/grupo-6/",
+   "https://futbolme.com/resultados-directo/equipo/ud-vall-de-uxo/3041/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73553856",
+  "fx": "Alondras CF v Gran Pena FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "G1 J12, 16:30 local (=15:30 UTC). Alondras poor recent form (0W in last 6).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "home 1X2 1.94 (0W in 6)",
+  "confidence": 0.15,
+  "sources": [
+   "https://minutonoventa.com/tercera-federacion-gallega-previa-jornada-12-boiro-silva-noviembre-2026/",
+   "https://minutonoventa.com/tercera-federacion-gallega-siete-partidos-el-domingo-y-el-boiro-defiende-el-liderato-en-barrana/"
+  ]
+ },
+ {
+  "eid": "sr:match:73553848",
+  "fx": "CD Boiro v Portonovo SD",
+  "sport": "football",
+  "absences": "Boiro lost 2-1 at Barco last week (first defeat streak breaker).",
+  "context": "G1 J12 at Barrana; Boiro LEADER (23 pts) defends top spot. Kick-off: 16:30 local per minutonoventa (=board 15:30 UTC); one siguetuliga page says 13:00 local - minor time conflict, same date and venue.",
+  "news": "Boiro leader, 3W1D at home conceding 0.25/g; minor kick-off time discrepancy between sources",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.779,
+    "why": "Mechanism: league leader at home (3W1D, GA 0.25 home) v Portonovo; DNB covers draw. Own p 0.78 = house. Note kick-off time discrepancy (16:30 vs 13:00 local) - re-verify before posting."
+   }
+  ],
+  "avoid": "Unders; home 1X2 after loss",
+  "confidence": 0.25,
+  "sources": [
+   "https://minutonoventa.com/tercera-federacion-gallega-previa-jornada-12-boiro-silva-noviembre-2026/",
+   "https://minutonoventa.com/tercera-federacion-gallega-siete-partidos-el-domingo-y-el-boiro-defiende-el-liderato-en-barrana/",
+   "https://www.siguetuliga.com/equipo/cd-boiro"
+  ]
+ },
+ {
+  "eid": "sr:match:73586688",
+  "fx": "San Javier Mar Menor CF v Olimpico Totana",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. San Javier strong at home (3W1D, GA 0.25); Totana 1W in 5 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "home 1X2 2.3",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_XIII_2026-27",
+   "https://soccertab.com/league.php?id=1280"
+  ]
+ },
+ {
+  "eid": "sr:match:73577766",
+  "fx": "CF Badalona v CF Pobla de Mafumet",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Badalona v Pobla de Mafumet (Nastic de Tarragona reserve/affiliate, promoted). Fixture date 22/11 J12 confirmed on Badalona calendar.",
+  "news": "date confirmed; Pobla is a filial",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "DNB home 1.19 p0.79 - Badalona only 2W in 5 home, stats-only",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/cf-badalona/371/calendario",
+   "https://en.wikipedia.org/wiki/CF_Pobla_de_Mafumet"
+  ]
+ },
+ {
+  "eid": "sr:match:73553852",
+  "fx": "CD Estradense v CD Arenteiro",
+  "sport": "football",
+  "absences": "Arenteiro: rebuilt squad after administrative relegation (RFEF conditional admission).",
+  "context": "G1 J12 at A Estrada, 17:00 local (=board). One source 13:00 local - minor conflict. Estradense 11th (15 pts), Arenteiro 16th (11 pts) but arrive on two straight wins.",
+  "news": "Arenteiro rebuilt after admin relegation, won last two",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "DNB home 1.27 p0.74 - Arenteiro improving; skip",
+  "confidence": 0.15,
+  "sources": [
+   "https://muchacalidad.com/equipos-gallegos-tercera-federacion-2026-27/",
+   "https://minutonoventa.com/cd-arenteiro-inscrito-tercera-reconstruccion/",
+   "https://www.siguetuliga.com/equipo/a-estrada-88"
+  ]
+ },
+ {
+  "eid": "sr:match:73583622",
+  "fx": "Bollullos CF v Cadiz CF Mirandilla",
+  "sport": "football",
+  "absences": "Cadiz Mirandilla: recent coaching change.",
+  "context": "G10 J12 at Eloy Avila Cano, 17:00 local (=board). Mirandilla (Cadiz reserve) in delicate moment despite coach change; very low-scoring (0.5 GF, 0.6 GA).",
+  "news": "Mirandilla new coach, poor run; reserve side",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve; low-scoring but Unders barred in amateur)",
+  "confidence": 0.15,
+  "sources": [
+   "https://huelvabuenasnoticias.com/2026/11/21/san-roque-conil-y-bollullos-cadiz-mirandilla-completan-el-domingo-el-protagonismo-de-los-equipos-de-huelva-en-la-tercera-federacion/"
+  ]
+ },
+ {
+  "eid": "sr:match:73577770",
+  "fx": "UE Vilassar de Mar v CF Vilanova I LA Geltru",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Amateur 5th tier (Tercera Federacion), low-scoring, thin coverage; CLAUDE rules bar Unders and thin-league O1.5 here. Vilanova 5W in 10, 3W in 5 away; Vilassar GA 2.0.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/cf-badalona/371/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73583628",
+  "fx": "CD San Roque de Lepe v Conil CF",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "G10 J12 at Ciudad de Lepe, 17:30 local (=board 16:30 UTC); footballstreams says 16:00 GMT - minor time conflict. San Roque on a winning run (7W in 10, 3/3 home); Conil 9 GF/15 GA, 0W4L away. H2H: Conil won 1-0 in Apr 2026, San Roque 1-0 home Dec 2025.",
+  "news": "San Roque seek to extend winning run v Conil",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.6632,
+    "why": "Mechanism: San Roque 3/3 home wins, 7W in 10; Conil 0W in 5 away with GA 2.4 away. Own p 0.67 vs house 0.66. H2H tight (1-0s) so no handicap."
+   }
+  ],
+  "avoid": "AH -1.5; Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://huelvabuenasnoticias.com/2026/11/21/san-roque-conil-y-bollullos-cadiz-mirandilla-completan-el-domingo-el-protagonismo-de-los-equipos-de-huelva-en-la-tercera-federacion/",
+   "https://sportshuelva.com/el-san-roque-de-lepe-quiere-prolongar-su-racha-triunfal-ante-el-conil/",
+   "https://futbolportv.com/equipo/san-roque-lepe"
+  ]
+ }
+]

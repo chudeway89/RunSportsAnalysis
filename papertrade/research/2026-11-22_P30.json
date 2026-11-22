@@ -1,0 +1,652 @@
+[
+ {
+  "eid": "sr:match:72676176",
+  "fx": "WAF Vorwarts Brigittenau v Union Mauer",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Amateur Wiener Stadtliga round 14. Union Mauer top (30 pts, 9-3-1, 32:10) but lost the top-of-table game to Red Star Penzing on Nov 15; Brigittenau 11th-12th (14 pts). Ligaportal KO 11:15 local = board 10:15 UTC.",
+  "news": "Mauer leaders, lost last week's top game; Brigittenau mid/lower table; KO confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amateur regional: no Unders; away 1X2 p 0.714 < 0.75; Overs are stats-only (no mechanism).",
+  "confidence": 0.15,
+  "sources": [
+   "https://ticker.ligaportal.at/mannschaft/955/union-ac-mauer/spielplan",
+   "https://checklive.com/sport-football/austria-amateur-wiener-stadtliga"
+  ]
+ },
+ {
+  "eid": "sr:match:73409336",
+  "fx": "Araz Nakhchivan PFK v Neftchi Baku PFC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Araz Nakhchivan winless in 11 league games (4 pts); Neftchi are league leaders. Neftchi scored 2+ in 4 straight league meetings with Araz. KO 10:30 GMT agrees with board.",
+  "news": "Leaders Neftchi visit winless Araz; Neftchi 2+ goals in last 4 H2H.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "547",
+    "spec": "total=1.5",
+    "desc": "Draw/Away & Over 1.5",
+    "odds": 1.24,
+    "p": 0.7383990382,
+    "why": "Araz 0 wins in 11 and 0W at home last 5; Neftchi scored 2+ in 4 straight H2H, so Neftchi-not-losing with 2+ goals ~0.77 vs house 0.738."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.4,
+    "p": 0.674341,
+    "why": "Neftchi team 2+ goals: 4 straight H2H with 2+, Araz concede 1.8/g; my p 0.70 vs 0.674."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.694 < 0.75); Home +1.5/+2.5 catches (fav p >= 0.55/0.60).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.idman.biz/en/news/azerbaijan-championship/167717",
+   "https://www.footballstreams.com/matches/araz-nakhchivan-vs-fc-neftci-baku-20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:76645348",
+  "fx": "FK Arsenal Dzerzhinsk v FC Neman Grodno",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Belarus round 29 (penultimate). Arsenal 12th (27 pts) still not mathematically safe, a draw may be enough; Neman 5th (49) must win and need Dinamo Brest to drop points for 4th (Europe). KO 14:00 local = 11:00 UTC matches board.",
+  "news": "Neman need a win for 4th; Arsenal near safety and score only 0.5/g.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.31,
+    "p": 0.722288,
+    "why": "Neman must win for 4th place (named stake); Arsenal 1W in 10, 0.5 GF/g; DNB covers draw-friendly Arsenal approach. My p 0.76 vs 0.722."
+   }
+  ],
+  "avoid": "Belarus Over 1.5 (thin league); Unders below p 0.82; away 1X2 p 0.534.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sport-express.net/belarus/reviews/chempionat-belarusi-po-futbolu-2026-turnirnaya-tablica-raspisanie-29-go-i-30-go-turov-prognoz-na-chempionstvo-translyacii-2476279/",
+   "https://bel.football/articles/chto-mozhet-sluchitsya-v-29-m-ture-bvl-chempionstvo-ml-vylet-dnepra-i-chetvertoe-mesto-bresta",
+   "https://football.by/news/226687"
+  ]
+ },
+ {
+  "eid": "sr:match:72366458",
+  "fx": "KV Waasland-Beveren v Gent",
+  "sport": "football",
+  "absences": "Beveren: Ilyes Najim, Kurt Abrahams out; Christophe Janssens out/suspended (Robatsch to replace); Cheick Conde doubtful. Gent: Michel-Ange Balikwisha, Christian Burgess, El Bachir Ngom out.",
+  "context": "Pro League; Beveren (newly promoted, low table) after a win over Kortrijk; Gent 3rd-ish after 1-0 over Kortrijk. KO 13:30 local matches board.",
+  "news": "Both sides have 3 absentees; Beveren may be unchanged after beating Kortrijk.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.28,
+    "p": 0.758874,
+    "why": "Beveren games 6/6 had a goal and 5/6 had 2+; Beveren missing defender Janssens; Belgian league ~2.9 g/g. My p 0.78 vs 0.759."
+   }
+  ],
+  "avoid": "Result sides: Gent away p 0.48, missing three; Under 2.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.whoscored.com/matches/1985750/preview/belgium-jupiler-pro-league-2026-2027-sk-beveren-gent"
+  ]
+ },
+ {
+  "eid": "sr:match:73492064",
+  "fx": "NK Stupcanica Olovo v NK Bratstvo Gracanica",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "FBiH Prva liga (2nd tier). Stupcanica league leaders per earlier reports; no current round news found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "2nd-tier regional, no fresh news: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nsfbih.ba/takmicenja",
+   "https://reprezentacija.ba/462975-prva-liga-fbih-stupcanica-pobijedila-u-derbiju-sada-ima-plus-devet-na-vrhu-tabele",
+   "https://sportsport.ba/tabele-lige/fudbal/bosna-i-hercegovina/prva-liga-federacije-bih/2"
+  ]
+ },
+ {
+  "eid": "sr:match:73492050",
+  "fx": "NK TOSK Tesanj v HSK Posusje",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "FBiH Prva liga; TOSK strong at home (4W1D last 5). No current news.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip result, thin league totals.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nsfbih.ba/takmicenja",
+   "https://reprezentacija.ba/462975-prva-liga-fbih-stupcanica-pobijedila-u-derbiju-sada-ima-plus-devet-na-vrhu-tabele",
+   "https://sportsport.ba/tabele-lige/fudbal/bosna-i-hercegovina/prva-liga-federacije-bih/2"
+  ]
+ },
+ {
+  "eid": "sr:match:73492052",
+  "fx": "NK Zvijezda Gradacac v FK Buducnost Banovici",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "FBiH Prva liga; Zvijezda decent at home, Buducnost 0W in last 4 away. No current news.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No fresh mechanism; thin league Overs.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nsfbih.ba/takmicenja",
+   "https://reprezentacija.ba/462975-prva-liga-fbih-stupcanica-pobijedila-u-derbiju-sada-ima-plus-devet-na-vrhu-tabele",
+   "https://sportsport.ba/tabele-lige/fudbal/bosna-i-hercegovina/prva-liga-federacije-bih/2"
+  ]
+ },
+ {
+  "eid": "sr:match:72517962",
+  "fx": "SK Rapid Wien v Linz AG Blau-Weiss / Kleinmunchen",
+  "sport": "football",
+  "absences": "not checked (women's)",
+  "context": "Women's Austrian Bundesliga. Both teams in poor form; no obvious mismatch.",
+  "news": "Women's fixture; no date/venue conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks (no clear mismatch).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73409340",
+  "fx": "FK Kapaz v Qarabag",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Kapaz unbeaten in 6 of last 7 league games and beat Qarabag 2-0 and 1-0 last season; Qarabag lost 1-0 to Turan Tovuz last round but unbeaten in 7 away. Possible European fixture for Qarabag next week (rotation risk unconfirmed). Sources list KO 14:00 and 17:00 local; 17:00 Baku = 13:00 UTC = 14:00 CET, consistent with board.",
+  "news": "Kapaz beat Qarabag twice last season, Qarabag lost last game; tight low-scoring profile.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.35,
+    "p": 0.7096938649,
+    "why": "Kapaz won both meetings last season, unbeaten 6/7, concede 0.9/g; Qarabag away avg 0.8 GF. +2.0 (fav p 0.69 so no +1.5/+2.5). My p 0.80 vs 0.71."
+   }
+  ],
+  "avoid": "Qarabag 1X2 (p 0.69 < 0.75); +2.5 catch banned; Kapaz +1.5 banned.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.idman.biz/en/news/azerbaijan-championship/167717",
+   "https://www.footballstreams.com/matches/araz-nakhchivan-vs-fc-neftci-baku-20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:76846036",
+  "fx": "Bangu AC RJ v Madureira EC RJ",
+  "sport": "football",
+  "absences": "youth (U20)",
+  "context": "Taca Rio U20 final, second leg (first leg Madureira v Bangu on Nov 19). KO 10:00 BRT = 13:00 UTC matches board. Knockout + youth.",
+  "news": "U20 final second leg; first leg Nov 19.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth + knockout: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com.br/jogo/futebol/bangu-82lJ5dFF/madureira-bFHo6lfb/",
+   "https://www.footboom1.com/en/football/leagues/brazil/carioca-u20"
+  ]
+ },
+ {
+  "eid": "sr:match:72595228",
+  "fx": "RCS Onhaye v Sl16 Football Campus",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Belgian Nationale 1 ACFF (amateur; SL16 = Standard academy side). No news.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amateur/academy side: no picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72595226",
+  "fx": "RSC Habay v Union Rochefortoise",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Belgian Nationale 1 ACFF amateur. No news.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amateur, no mechanism.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76645352",
+  "fx": "FC Dinamo Minsk v FC Minsk",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Belarus title race: Dinamo Minsk 61 pts, one behind ML Vitebsk (62), level with Isloch; must win. FC Minsk 9th (35), nothing at stake, poor recent form. Minsk city derby. KO 17:00 local = 14:00 UTC matches board.",
+  "news": "Dinamo must win to stay in title race; FC Minsk have little to play for.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Minsk city derby: no result-side per rules; Belarus Over 1.5 banned (thin league); Unders < 0.82.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sport-express.net/belarus/reviews/chempionat-belarusi-po-futbolu-2026-turnirnaya-tablica-raspisanie-29-go-i-30-go-turov-prognoz-na-chempionstvo-translyacii-2476279/",
+   "https://bel.football/articles/chto-mozhet-sluchitsya-v-29-m-ture-bvl-chempionstvo-ml-vylet-dnepra-i-chetvertoe-mesto-bresta",
+   "https://football.by/news/226687"
+  ]
+ },
+ {
+  "eid": "sr:match:76645350",
+  "fx": "FC Isloch v FC Torpedo Belaz Zhodino",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Isloch 61 pts in title race, 5 straight wins, must win; Torpedo-BelAZ 8th with nothing at stake. KICK-OFF CONFLICT: football.by lists 14:00 local (=11:00 UTC), bel.football lists 17:00 local (=14:00 UTC, matching board).",
+  "news": "Isloch must win for title; kick-off time disagrees between football.by (14:00) and bel.football (17:00).",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (14:00 vs 17:00 Minsk time)",
+  "picks": [],
+  "avoid": "Veto on KO conflict; otherwise strongest motivation edge on the slate.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sport-express.net/belarus/reviews/chempionat-belarusi-po-futbolu-2026-turnirnaya-tablica-raspisanie-29-go-i-30-go-turov-prognoz-na-chempionstvo-translyacii-2476279/",
+   "https://bel.football/articles/chto-mozhet-sluchitsya-v-29-m-ture-bvl-chempionstvo-ml-vylet-dnepra-i-chetvertoe-mesto-bresta",
+   "https://football.by/news/226687"
+  ]
+ },
+ {
+  "eid": "sr:match:76645354",
+  "fx": "Maxline Vitebsk v Slavia Mozyr",
+  "sport": "football",
+  "absences": "none found",
+  "context": "ML Vitebsk lead on 62 pts and can clinch the title with a win plus Isloch and Dinamo defeats; must win. Slavia 10th (34), possible spoiler but little at stake. Vitebsk home last 5: 4W1D, 2.4-0.2. KO 17:00 local = board.",
+  "news": "Leaders Vitebsk need a win at home to Slavia in the title run-in.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.758672,
+    "why": "Title-deciding must-win for leaders (named stake), home 4W1D last 5 conceding 0.2/g, Slavia 1W in 6 away. My p 0.79 vs 0.759."
+   }
+  ],
+  "avoid": "Belarus Over 1.5 (thin); Away +1.5 catch (fav p >= 0.55).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sport-express.net/belarus/reviews/chempionat-belarusi-po-futbolu-2026-turnirnaya-tablica-raspisanie-29-go-i-30-go-turov-prognoz-na-chempionstvo-translyacii-2476279/",
+   "https://bel.football/articles/chto-mozhet-sluchitsya-v-29-m-ture-bvl-chempionstvo-ml-vylet-dnepra-i-chetvertoe-mesto-bresta",
+   "https://football.by/news/226687"
+  ]
+ },
+ {
+  "eid": "sr:match:72533354",
+  "fx": "Belisia Bilzen SV v Oud-Heverlee Leuven",
+  "sport": "football",
+  "absences": "reserve side (OH Leuven U23)",
+  "context": "Belgian Nationale 1 VV amateur; away team is OHL's U23 reserve side. Bilzen 20 pts from 12 per older table.",
+  "news": "Reserve/amateur fixture; no conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/kalender",
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/stand"
+  ]
+ },
+ {
+  "eid": "sr:match:72533358",
+  "fx": "KFC Merelbeke v K. Lyra-Lierse",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Belgian Nationale 1 VV amateur; Merelbeke mid-table (18 pts), Lyra-Lierse 2W in 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amateur, no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/kalender",
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/stand"
+  ]
+ },
+ {
+  "eid": "sr:match:72533356",
+  "fx": "KRC Harelbeke v Cercle Brugge",
+  "sport": "football",
+  "absences": "reserve side (Cercle Brugge U23)",
+  "context": "Belgian Nationale 1 VV; away is Cercle U23 reserves; Harelbeke low (7 pts).",
+  "news": "Reserve/amateur fixture; no conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/kalender",
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/stand"
+  ]
+ },
+ {
+  "eid": "sr:match:72533360",
+  "fx": "KVK Tienen v KVV Zelzate",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Belgian Nationale 1 VV amateur; Tienen 12 pts.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amateur, no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/kalender",
+   "https://www.voetbalkrant.com/belgie/1e-nationale-vv/stand"
+  ]
+ },
+ {
+  "eid": "sr:match:76161562",
+  "fx": "NK Celik Zenica v FK Sloga Doboj",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Bosnian Premijer liga: Celik 8th (11 pts), Sloga Doboj last (9 pts from 13). NFSBiH KO 15:00 local = 14:00 UTC matches board; Arena TV.",
+  "news": "Bottom-of-table clash, Celik 8th v last-placed Sloga.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.19,
+    "p": 0.8101064165,
+    "why": "Two weak attacks (Celik 1.4 GF, 1W in 4 at home); low-scoring league; Celik beating anyone by 2+ is rare. My p 0.83 vs 0.81."
+   }
+  ],
+  "avoid": "Result sides (near coin-flip); Unders < 0.82.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.nfsbih.ba/takmicenja/nogomet-muskarci/wwin-liga-bih/raspored-kola-wwin-lige-bih/",
+   "https://www.nfsbih.ba/takmicenja/nogomet-muskarci/wwin-liga-bih/"
+  ]
+ },
+ {
+  "eid": "sr:match:73959818",
+  "fx": "Mochudi Centre Chiefs v Matebele",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Botswana Premiership. Soccerway listing ambiguous between 22.11 and 24.11 for this fixture.",
+  "news": "Possible date conflict (22 vs 24 Nov).",
+  "veto": true,
+  "veto_reason": "Date ambiguity (Soccerway 22.11 vs 24.11)",
+  "picks": [],
+  "avoid": "Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/botswana/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72366456",
+  "fx": "KV Kortrijk v Union Gilloise",
+  "sport": "football",
+  "absences": "Kortrijk: Jamie Roche (knee), Basile Vroninks (knock), status day-to-day. USG: Kevin Mac Allister (ACL, out), Mateo Biondic (ankle, back late Nov), Ondrej Kricfalusi (knock); Olaru/Kevin Rodriguez recently back from injury.",
+  "context": "Kortrijk 18th with 4 pts v leaders Union SG (29 pts). USG away last 4: 4W, 2.2-0.5. Kortrijk 1W in 10, conceding 2.4.",
+  "news": "Bottom v top: Kortrijk 4 pts, USG leaders; USG missing Mac Allister and Biondic.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.809566,
+    "why": "USG score 2.4/g and Kortrijk concede 2.4/g (1W in 10); Belgian top flight ~2.9 g/g. My p 0.84 vs 0.81."
+   },
+   {
+    "mid": "858",
+    "spec": "total=2.5",
+    "desc": "Yes",
+    "odds": 1.18,
+    "p": 0.8137374059,
+    "why": "Away win OR Over 2.5: leaders v 4-point bottom side; either USG win or an open game. My p 0.84 vs 0.814."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.701 < 0.75); Home +1.5/+2.5 catches; Kortrijk Under (p < 0.82).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/kv-kortrijk-union-saint-gilloise-2490235",
+   "https://www.fotmob.com/matches/union-stgilloise-vs-kortrijk/29jchm",
+   "https://www.telecomasia.net/sports-betting/tips/football/belgium-first-division-a/kortrijk-vs-union-st-gilloise-match-prediction-22-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72302224",
+  "fx": "K Beerschot VA v Jong KRC Genk",
+  "sport": "football",
+  "absences": "none found; away side is Genk's U23 reserve team",
+  "context": "Challenger Pro League: Beerschot top with 27 pts from 10 (10 straight wins), 7 clear of Dender; Jong Genk 11th (10 pts). Sporza KO 16:00 local = 15:00 UTC matches board.",
+  "news": "Unbeaten leaders Beerschot (10/10) host Genk U23.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.7096533808,
+    "why": "Goals in a clear mismatch: Beerschot 10/10 wins at 2.8-1.0 (home 3.4 GF), Jong Genk concede 1.7 and young defence. My p 0.74 vs 0.71."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.29,
+    "p": 0.740138794,
+    "why": "Beerschot team 2+ goals: home 3.4 GF/g, 5/5 home wins with 2+ scored. My p 0.77 vs 0.74."
+   }
+  ],
+  "avoid": "Result-side involving a reserve side (rule); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sporza.be/nl/categorie/voetbal/eerste-klasse-b-proximus-league/",
+   "https://www.voetbalnieuws.be/news/935775/beerschot-brengt-hoopvol-nieuws-kiel-weldra-weer-vol"
+  ]
+ },
+ {
+  "eid": "sr:match:76161560",
+  "fx": "FK Sarajevo v NK Siroki Brijeg",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Bosnian Premijer liga top-4 clash: Sarajevo 3rd (20 pts) v Siroki Brijeg 4th (17). NFSBiH KO 17:30 local = 16:30 UTC matches board. Both teams draw-heavy and low-scoring (Sarajevo 1.3 GF, several 0-0/1-1).",
+  "news": "3rd v 4th, both low-scoring and draw-heavy.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-2",
+    "desc": "Away (+2.0)",
+    "odds": 1.3,
+    "p": 0.7339908366,
+    "why": "Top-4 clash between close sides (3 pts apart); Sarajevo score 1.3/g; 2-goal win pushes, 3+ needed to lose. +2.0 used because fav p 0.684 (>= 0.55). My p 0.80 vs 0.734."
+   }
+  ],
+  "avoid": "Away +1.5 (banned at fav p >= 0.55); Sarajevo -1.5; Unders below 0.82.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nfsbih.ba/takmicenja/nogomet-muskarci/wwin-liga-bih/raspored-kola-wwin-lige-bih/",
+   "https://www.nfsbih.ba/takmicenja/nogomet-muskarci/wwin-liga-bih/"
+  ]
+ },
+ {
+  "eid": "sr:match:73959816",
+  "fx": "Police Xi v Jwaneng Galaxy",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Botswana Premiership. Soccerway listing ambiguous between 22.11 and 24.11 for this fixture.",
+  "news": "Possible date conflict (22 vs 24 Nov).",
+  "veto": true,
+  "veto_reason": "Date ambiguity (Soccerway 22.11 vs 24.11)",
+  "picks": [],
+  "avoid": "Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/botswana/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72366454",
+  "fx": "RSC Anderlecht v Oud-Heverlee Leuven",
+  "sport": "football",
+  "absences": "Anderlecht: Giulian Biancone suspended (5th yellow), Lucas Hey injured. OHL: Birger Verstraete suspended (bet365; another preview says no absences).",
+  "context": "Pro League; Anderlecht home 3W1L last 4 at 2.5-0.8; OHL away 1W1D2L.",
+  "news": "Anderlecht without Biancone (ban) and Hey; OHL without suspended Verstraete.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.8129740775,
+    "why": "Anderlecht strong at home (2.5-0.8); OHL missing midfield anchor Verstraete (ban); DNB covers draw. My p 0.83 vs 0.813."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.823756,
+    "why": "Anderlecht home games average 3.3 goals; OHL scored in most recent games. My p 0.84 vs 0.824."
+   }
+  ],
+  "avoid": "Anderlecht -1.5; Away +2.5 catch (banned at fav p >= 0.60).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.voetbalkrant.com/nieuws/2026-11-20/bruno-zal-moeten-puzzelen-anderlecht-mist-belangrijke-speler-tegen-oh-leuven",
+   "https://news.bet365.nl/nl-nl/article/anderlecht-oh-leuven-wedtips-mogelijke-opstellingen-en-waar-te-kijken/2026112101364389721",
+   "https://www.bet-experts.nl/nieuws/anderlecht-oh-leuven-voorspelling-wedtips"
+  ]
+ },
+ {
+  "eid": "sr:match:72366460",
+  "fx": "Lommel SK v Standard Liege",
+  "sport": "football",
+  "absences": "Standard: Andi Zeqiri out 10-15 days (adductor), Marlon Fossey out (ACL), Casper Nielsen out (back ~Nov 30), Homawoo out; Epolo status unclear; Mohr back in training. Lommel: Ralf Seuntjens out for weeks (heel); FotMob also lists De Grand, Wouters, Banguera (another preview says none).",
+  "context": "Pro League matchday; Lommel and Standard are neighbours in the table. Standard away 1W in last 5. KO 19:15 local = 18:15 UTC matches board.",
+  "news": "Standard without striker Zeqiri and Fossey/Nielsen; poor away form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.27,
+    "p": 0.75887,
+    "why": "Standard weak away (1W in 5) and without striker Zeqiri plus Nielsen/Fossey; Lommel conceded only 0.3/g at home. Fav p 0.447 so +1.5 is allowed. My p 0.80 vs 0.759."
+   }
+  ],
+  "avoid": "Standard 1X2/DNB (depleted, poor away); totals (Lommel low-scoring at home v GG profile).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.lavenir.net/sports/football/d1a/2026/11/20/standard-andi-zeqiri-est-forfait-pour-le-deplacement-a-lommel-33CVUFMPEFCGVB2253Z52EDYVA/",
+   "https://www.walfoot.be/news/2026-11-22/les-compositions-probables-de-lommel-standard",
+   "https://www.voetbalbelgie.be/artikel/lommel-nog-langer-zonder-seuntjens",
+   "https://www.fotmob.com/matches/lommel-vs-standard-liege/2awj55"
+  ]
+ },
+ {
+  "eid": "sr:match:72302218",
+  "fx": "Jeugd KAA Gent B v Royal Francs Borains",
+  "sport": "football",
+  "absences": "reserve side (Gent U23)",
+  "context": "Challenger Pro League MD11; Francs Borains 4th-6th. KO 19:15 local (FBref/Sofascore) = 18:15 UTC matches board; OneFootball's 13:15 looks like a display error.",
+  "news": "Gent U23 v Francs Borains; KO 18:15 UTC confirmed by two sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side, coin-flip: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://onefootball.com/en/match/2693079",
+   "https://www.sofascore.com/football/team/royal-francs-borains/328498",
+   "https://fbref.com/en/squads/c2531814/Francs-Borains-Stats"
+  ]
+ },
+ {
+  "eid": "sr:match:75449096",
+  "fx": "Real Potosi v Club Bolivar",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Bolivian top flight; Bolivar 8W in last 10 but play at Potosi (very high altitude, though Bolivar are a La Paz altitude side). No current round preview found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.638 < 0.75; DNB at 1.19 has no named mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://larazon.bo/tabla-de-posiciones/",
+   "https://en.wikipedia.org/wiki/2026_FBF_Divisi%C3%B3n_Profesional"
+  ]
+ },
+ {
+  "eid": "sr:match:75449098",
+  "fx": "The Strongest v Blooming Santa Cruz",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Bolivian top flight; The Strongest at home in La Paz (altitude) v lowland Santa Cruz side Blooming, who are 1W in 6 away and conceding 2.2 away. No current preview found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.33,
+    "p": 0.718801,
+    "why": "Altitude mechanism: lowland Blooming travel to La Paz; Strongest home 3W in 4 at 3.0 GF; Blooming 1W in 6 away. My p 0.74 vs 0.719."
+   }
+  ],
+  "avoid": "Over 2.5 (Strongest also concede 2.2 at home, but no news); Blooming catches.",
+  "confidence": 0.2,
+  "sources": [
+   "https://larazon.bo/tabla-de-posiciones/",
+   "https://en.wikipedia.org/wiki/2026_FBF_Divisi%C3%B3n_Profesional"
+  ]
+ }
+]
