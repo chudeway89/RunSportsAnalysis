@@ -1,0 +1,526 @@
+[
+ {
+  "eid": "sr:match:73690300",
+  "fx": "FC Levadiakos v Atromitos Athinon",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "U19 youth fixture (curtain-raiser to senior Levadiakos v Atromitos at 14:00). Levadiakos U19 3W-7L, GA 3.1/g; Atromitos U19 5W4D1L, GA 0.6.",
+  "news": "Youth fixture; no date/venue conflict found (none searched in depth).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth: no result-sides; goals mismatch not clear enough at O2.5 p0.65.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74172560",
+  "fx": "Anagennisi Karditsas 1904 v Kallithea FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL2 Group: Kallithea in promotion race but away form 1W2D2L; Karditsa unbeaten at home (2W2D, GA 0.25). Low-scoring both sides (0.7 / 1.1 GF).",
+  "news": "Kallithea won recent derby and 'look to promotion'; no team news found for this match.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 p0.68 < 0.82 gate; X2/DNB away has no mechanism v unbeaten home side.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.flashscore.com/football/greece/super-league-2/",
+   "https://www.onsports.gr/podosfairo/superleague-2/story/877865/super-league-2-pire-to-dermpi-kai-koitazei-anodo-i-kallithea-skontapse-stin-karditsa-i-marko"
+  ]
+ },
+ {
+  "eid": "sr:match:74281450",
+  "fx": "Panathinaikos v AEK Athens",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Women's top flight, Athens derby (PAO v AEK), both strong.",
+  "news": "One schedule lists PAO-AEK women at Rouf 15:00 local (13:00 UTC); board says 11:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: source 15:00 local (13:00 UTC) vs board 11:00 UTC; also women's derby.",
+  "picks": [],
+  "avoid": "Women's: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://kingsport.gr/a-ethniki-gynaikon-ta-apotelesmata-tis-7is-agonistikis-4/"
+  ]
+ },
+ {
+  "eid": "sr:match:74172556",
+  "fx": "APS Zakynthos v Panserraikos FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Zakynthos bottom, 0W in last 10 (GF 0.6, GA 2.3). Panserraikos had 4 points deducted by EPO appeals; but 0W in last 4 away (GF 0.5).",
+  "news": "12th round; Zakynthos last, lost 0-2 to Niki Volos; Sportal lists match Sunday 15:00 local, board 12:00 UTC (=14:00 local).",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: Sportal 15:00 local vs board 14:00 local; fragile away favourite (0W in 4 away).",
+  "picks": [],
+  "avoid": "Away 1X2 p0.66 < 0.75; DNB 1.15 below range; O1.5 thin league.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportal.gr/podosfairo/article/superbet-league-2-to-panorama-tis-12is-agonistikis"
+  ]
+ },
+ {
+  "eid": "sr:match:74172558",
+  "fx": "Olympiacos Piraeus B v Apollon Kalamarias",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Olympiacos B second-last (1W in 10, home 0W1D4L); Apollon Kalamarias changed coach late Oct/Nov, away 0W1D5L.",
+  "news": "12th round Sunday 15:00 local (matches board 13:00 UTC); no absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Both sides in poor form; 1X 1.19 tempting but home side winless at home; 12-DC banned; O1.5 thin.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportal.gr/podosfairo/article/superbet-league-2-to-panorama-tis-12is-agonistikis",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2"
+  ]
+ },
+ {
+  "eid": "sr:match:74281440",
+  "fx": "AE Kifisia Wfc v Sirina Grevenon",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Women's league. Sirines Grevenon beat OFI 1-0 last round; Kifisia lost 0-4 to Volos.",
+  "news": "No date/venue info found for this women's game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks, no clear mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://kingsport.gr/a-ethniki-gynaikon-ta-apotelesmata-tis-7is-agonistikis-4/"
+  ]
+ },
+ {
+  "eid": "sr:match:74281446",
+  "fx": "Asteras Tripolis v PAOK Thessaloniki",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Women's league; both strong sides (Asteras home 4/4, PAOK women league leaders).",
+  "news": "Men's Asteras v Aris is Mon 23/11 - not this fixture; women's fixture date unverified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks; not a mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sdna.gr/hantmpol/1487185_a1-gynaikon-monos-protos-o-paok-apotelesmata-bathmologia-kai-programma"
+  ]
+ },
+ {
+  "eid": "sr:match:74040810",
+  "fx": "Aer Afantou v AO Egaleo 1931 PAE",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 8: Egaleo 2nd (19 pts/8), Afantou 3rd (15); Afantou unbeaten at home (2W3D, GA 0.2).",
+  "news": "Confirmed 22/11 15:00 local at Afantou municipal ground (EPO).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Egaleo DNB 1.27 v unbeaten home side: no.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.epo.gr/el/competition/3/stage/1407/group/2073/matches",
+   "https://www.gazzetta.gr/football/g-ethniki/2578548/g-ethniki-apolyto-ton-nikon-gia-aigaleo-kai-doxa-byrona-triponto-kai-gia"
+  ]
+ },
+ {
+  "eid": "sr:match:74037458",
+  "fx": "Akrites Sykeon v PAOK Kristonis",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 2: Akrites 0W in 3 at home.",
+  "news": "Confirmed Sunday at DAK Sykeon (EPO/Metrosport).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.epo.gr/el/competition/3/stage/1407/group/2067/matches",
+   "https://www.metrosport.gr/g-ethniki-polla-ntermpi-sto-simerino-programma-22-11-1334449"
+  ]
+ },
+ {
+  "eid": "sr:match:74040812",
+  "fx": "Amfiali v Diagoras Rhodes",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 8: Amfiali 11th on 5 pts, home GF 0.5; Diagoras 5th on 14.",
+  "news": "Confirmed 22/11 15:00 (EPO); Diagoras beat Proodeftiki 1-0 recently.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.755221,
+    "why": "DNB removes draw; Amfiali 11th (5 pts), 1W in 4 at home scoring 0.5/g v 5th-placed Diagoras. Fill-grade (standings mechanism). My p 0.76."
+   }
+  ],
+  "avoid": "Away 1X2 p0.56 < 0.75; Unders banned (amateur).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.epo.gr/el/competition/3/stage/1407/group/2073/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:74039746",
+  "fx": "Aris Filiaton v Panachaiki 1891 FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 6: Panachaiki 8W1D1L, GF 3.0.",
+  "news": "Sunday 15:00 local in Group 6 schedule; Panachaiki among group leaders.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p0.61 < 0.75; DNB 1.17 below range.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.metrosport.gr/g-ethniki-polla-ntermpi-sto-simerino-programma-22-11-1334449",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Gamma_Ethniki"
+  ]
+ },
+ {
+  "eid": "sr:match:74038956",
+  "fx": "Asteras Stavrou v AO Neas Artakis",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Neas Artakis 6W2D2L, GA 0.5; Stavrou 2W in 10.",
+  "news": "no news found (no fixture listing found for Artakis today).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "DNB 1.16 below range; away 1X2 p0.62.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74038328",
+  "fx": "Ethnikos Keramidiou v AO Trikala 1963",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Local derby (Keramidi); Trikala on winning run (1-0 v Anthoupoli), Keramidiou 'back to the wall'.",
+  "news": "Sunday 15:00 local; described as a derby.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result-side.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.foxbet.gr/prognostika/454357-ethnikos-keramidiou-trikala"
+  ]
+ },
+ {
+  "eid": "sr:match:74040808",
+  "fx": "Ethnikos OFPF v Proodeftiki FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 8: Ethnikos 6th (11 pts), home 3W1D1L GA 0.4; Proodeftiki away 0W2D2L GF 0.25.",
+  "news": "Confirmed 22/11 15:00 (EPO).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.662535,
+    "why": "Proodeftiki 0W in 4 away scoring 0.25/g v Ethnikos 3W1D1L at home conceding 0.4. Statistics-only mechanism = fill. My p 0.66."
+   }
+  ],
+  "avoid": "AH -1.5 / Unders.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.epo.gr/el/competition/3/stage/1407/group/2073/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:74037814",
+  "fx": "FC Kastoria v PAS Giannina",
+  "sport": "football",
+  "absences": "PAS Giannina: Panos, Siatravanis (injured, not in squad).",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 3: PAS Giannina (relegated ex-Super League club) on a league winning run; Kastoria 0W in 3 at home (GF 0.33).",
+  "news": "Match moved from Sat 21 to Sun 22/11 15:00 local at Kastoria municipal stadium (board agrees: Sun 13:00 UTC). PAS travels with two absences aiming for win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.21,
+    "p": 0.775344,
+    "why": "PAS Giannina on league win streak, 6W2D2L last 10; Kastoria winless at home scoring 0.33/g. Two PAS absences minor. My p 0.79."
+   }
+  ],
+  "avoid": "Away 1X2 p0.50.",
+  "confidence": 0.25,
+  "sources": [
+   "https://super-fm.gr/152260/kyriaki-22-11-anti-savvatoy-i-anametrisi-kastorias-pas-giannina/",
+   "https://www.agon.gr/athlitika/165386/me-dyo-apoysies-o-pas-taxideyei-to-proi/",
+   "https://super-fm.gr/152685/stin-kastoria-o-pas-giannina-gia-synechisi-toy-seri-nikon-sto-protathlima/"
+  ]
+ },
+ {
+  "eid": "sr:match:74037456",
+  "fx": "Foinikas Polichnis v Iraklis Thermaikou",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 2 top clash: leaders Foinikas v Iraklis Thermaikou (unbeaten 5W5D, GA 0.1).",
+  "news": "Confirmed Sunday (EPO/Metrosport): leader Foinikas hosts Iraklis Thermaikou.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Top-of-table clash v near-impenetrable defence: no result-side.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.epo.gr/el/competition/3/stage/1407/group/2067/matches",
+   "https://www.metrosport.gr/g-ethniki-polla-ntermpi-sto-simerino-programma-22-11-1334449"
+  ]
+ },
+ {
+  "eid": "sr:match:74041086",
+  "fx": "GS Ilioupoli v Ethnikos Asteras FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Both weak (Ilioupoli 2W in 10; Ethnikos Asteras 1W in 7).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74040806",
+  "fx": "Ionikos Nikea FC v Vyrona",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Vyronas (Doxa Vyrona) perfect run per Gazzetta; SR data has Ionikos 2W2D6L but a standings snapshot lists Ionikos near top of group 9.",
+  "news": "Data conflict on Ionikos form/standing.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "data_conflict: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://grandsport.gr/g-ethniki-vathmologia/",
+   "https://www.gazzetta.gr/football/g-ethniki/2578548/g-ethniki-apolyto-ton-nikon-gia-aigaleo-kai-doxa-byrona-triponto-kai-gia"
+  ]
+ },
+ {
+  "eid": "sr:match:74041080",
+  "fx": "Kyanous Asteras Varis v Neas Ionias",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Varis derby; Kyanous Asteras 6W3D1L, home GA 0.33.",
+  "news": "Foxbet preview calls it a derby, draw likely; ambiguous text about Fotopoulos scoring twice.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result-side.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.foxbet.gr/prognostika/454361-kianos-asteras-varis-ao-neas-ionias"
+  ]
+ },
+ {
+  "eid": "sr:match:74039754",
+  "fx": "OF Agiou Mathaiou v AO Plataria",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 6; only 8 markets.",
+  "news": "Confirmed Sunday 15:00 local (Metrosport Group 6 list).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.metrosport.gr/g-ethniki-polla-ntermpi-sto-simerino-programma-22-11-1334449"
+  ]
+ },
+ {
+  "eid": "sr:match:74040802",
+  "fx": "Pao Rouf v Apollon Smyrnis",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 8: Apollon Smyrnis 18 pts (2nd/3rd), Rouf 7th (10).",
+  "news": "Confirmed 22/11 15:00 (EPO); Rouf lost 0-1 to Egaleo previously.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p0.44; DNB 1.51 no mechanism beyond table.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.epo.gr/el/competition/3/stage/1407/group/2073/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:74037236",
+  "fx": "Paop Neas Amisou v AO Kavala 1965",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 1: Amisou 3/3 home wins; Kavala strong away (3W1D).",
+  "news": "Sunday 15:00 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p0.73 < 0.75 v perfect home record.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.foxbet.gr/prognostika/454357-ethnikos-keramidiou-trikala"
+  ]
+ },
+ {
+  "eid": "sr:match:74040538",
+  "fx": "PAS Korinthos v AE Asteras Vlachioti",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 7; both 2W in 10.",
+  "news": "Listed for 22/11 (EPO Group 7).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.epo.gr/el/competition/3/stage/1407/group/2073/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:74038334",
+  "fx": "Po Elassonas v AE Karitsas",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Group 1, 9th round.",
+  "news": "Taklin confirms PO Elassonas - AE Karitsas 15:00 local today.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.taklin.gr/2026/11/22/oi-agones-tis-imeras-se-souper-ligk-2-kai-g-ethniki-22-11-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:74041088",
+  "fx": "Saronikos Anavisou v A.P.O. Thyella Rafina FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki = Greek amateur/regional 3rd tier: no Unders, no O1.5 (thin league). Saronikos 2W0D8L GF 0.3.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders banned (amateur); away 1X2 p0.41.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72936138",
+  "fx": "APO Levadiakos FC v Atromitos Athinon",
+  "sport": "football",
+  "absences": "Atromitos: Gerasimos Mitoglou (injury, ~1 week, FotMob); Giobber doubtful. Levadiakos: Batzi doubtful (Foxbet); no squad lists announced.",
+  "context": "Super League 11th round. Levadiakos in a slump: 1W3D6L last 10, GF 0.4/g; Atromitos 3W3D4L.",
+  "news": "FotMob: 22/11 14:00 UTC at Levadia municipal (matches board). No squad lists yet; both 'seeking return to wins'.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Away (+1.0)",
+    "odds": 1.21,
+    "p": 0.7947345523,
+    "why": "Levadiakos have scored 0.4/g and won 1 of last 10: a 2+ goal home win is unlikely; 1-goal home win voids. Mitoglou absence minor. My p 0.82."
+   }
+  ],
+  "avoid": "Under 3.5 p0.81 just under 0.82 gate; integer O2 banned; 1X2 sides.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fotmob.com/matches/levadiakos-vs-atromitos/1s5qhl#3975205",
+   "https://www.foxbet.gr/prognostika/454642-levadiakos-atromitos",
+   "https://www.astratv.gr/levadeiakos-atromitos-me-koino-stocho/"
+  ]
+ },
+ {
+  "eid": "sr:match:74441536",
+  "fx": "Bibiani Gold Stars FC v Swedru All Blacks",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Ghana PL MD12 at Dun's Park, Bibiani. Low-scoring league; Bibiani 3W3D4L GF 0.8.",
+  "news": "One GHANAsoccernet piece calls it the hosts' first league game of the campaign and lists 15:00 GMT; another summary says 16:00 local; SR shows 10 games played.",
+  "veto": true,
+  "veto_reason": "Kick-off/data conflict (15:00 vs 16:00; 'opening game' claim v 10 games played).",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ghanasoccernet.com/bibiani-gold-stars-vs-swedru-all-blacks-hosts-aim-to-start-strongly-on-22-november",
+   "https://www.ghanafa.org/premier-league-matchday-12-preview-2"
+  ]
+ },
+ {
+  "eid": "sr:match:74441534",
+  "fx": "Dreams FC v FC Samartex",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Ghana PL MD12 at Tuba Astroturf. Dreams winless at home (3D2L) but unbeaten at home v Samartex (2W2D). Samartex 4th (19 pts), held Hearts 0-0.",
+  "news": "No team news found; referee Gideon Nii-Cofie.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dreams DNB 1.26 v home-winless record: no.",
+  "confidence": 0.15,
+  "sources": [
+   "https://ghanasoccernet.com/2026-27-ghana-premier-league-week-12-match-preview-medeama-sc-vs-fc-ashantigold",
+   "https://www.ghanafa.org/premier-league-matchday-12-preview-2"
+  ]
+ },
+ {
+  "eid": "sr:match:74441528",
+  "fx": "Hearts of Oak v Aduana FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Ghana PL MD12 top-liner at Legon. Hearts (coach Nebojsa Kapor) 2nd, only side without a home goal conceded (4W1D). Aduana 2W3D1L in last 6 visits to Hearts.",
+  "news": "15:00 GMT, University of Ghana Stadium (GFA); referee Rustum Gameli Senorgbe; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders p<0.82; Hearts win p0.62 v Aduana's good record at Hearts.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ghanafa.org/premier-league-title-chasing-hearts-of-oak-welcome-aduana-fc-in-matchday-12-top-liner",
+   "https://ghanasoccernet.com/hearts-of-oaks-perfect-home-defence-faces-aduana-fc-test"
+  ]
+ },
+ {
+  "eid": "sr:match:74441532",
+  "fx": "Medeama SC v FC AshantiGold 04",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Ghana PL MD12 in Tarkwa: leaders Medeama (24 pts) won all 5 home games (10-2). AshantiGold: GHANAsoccernet says 6th on 18 pts; Adomonline says bottom on 8 pts.",
+  "news": "Kick-off 15:00 vs 15:30 GMT between sources; standings conflict on AshantiGold.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict (15:00 v 15:30 GMT) and data conflict on AshantiGold's standing. Otherwise Medeama home win (1.37, p0.69) would be the candidate.",
+  "picks": [],
+  "avoid": "All while conflict stands.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.adomonline.com/2026-27-ghpl-md12-hearts-of-oak-host-aduana-as-medeama-clash-with-ashantigold-04/",
+   "https://ghanasoccernet.com/medeama-vs-ashanti-gold-hosts-aim-to-extend-strong-run",
+   "https://ghanasoccernet.com/ghana-premier-league-match-officials-confirmed-for-matchday-12"
+  ]
+ }
+]
