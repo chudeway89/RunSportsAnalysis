@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-21 21:43 UTC. Totals: 15 won · 191 dead · 0 alive · 0 expired before settling · 97 never seen live.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-22 01:48 UTC. Totals: 15 won · 193 dead · 0 alive · 0 expired before settling · 97 never seen live.
 
 ## Return per 1-unit stake (all settled tickets, from papertrade/ticket_ledger.jsonl; odds as first seen; 7 early wins with unrecorded odds left out)
 
@@ -8,7 +8,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 |---|---|---|---|---|---|
 | 1-7 legs | 31 | 5 | 31 | 10.2 | -67% |
 | 8-12 legs | 19 | 3 | 19 | 25.7 | +35% |
-| 13+ legs | 149 | 0 | 149 | 0.0 | -100% |
+| 13+ legs | 151 | 0 | 151 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -309,6 +309,8 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-21 | GPYRGU | SLAABV core (6 legs, 3.3x, 1 in 4) | 6 | 6W/0L/0V/0P | **WON** |  |
 | 2026-11-21 | KZR1EX | SLAABV rm5 trim (36 legs) | 36 | 18W/7L/1V/10P | DEAD | Holyhead Hotspur v Bala Town FC — Both Halves Under 1.5 No (0:1); FK Rubin Kazan v FK Zenit Saint Petersburg — Away Team to Win Either Half Yes (3:1); Um Alhassam v Al-Shabab — Double Chance Home or Away (1:1); Brickfield Rangers v Newtown AFC — Away or Over 2.5 Yes (0:0); Eintracht Frankfurt v Hoffenheim — Over/Under Over 3 (1:0); AIK v Degerfors IF — Home Team or Over 2.5 Yes (0:0); Aston Villa v Sunderland AFC — Over/Under Over 1.5 (0:0) |
 | 2026-11-21 | WYZZ8T | SLAABV rm10 trim (31 legs) | 31 | 14W/7L/1V/9P | DEAD | Holyhead Hotspur v Bala Town FC — Both Halves Under 1.5 No (0:1); FK Rubin Kazan v FK Zenit Saint Petersburg — Away Team to Win Either Half Yes (3:1); Um Alhassam v Al-Shabab — Double Chance Home or Away (1:1); Brickfield Rangers v Newtown AFC — Away or Over 2.5 Yes (0:0); Eintracht Frankfurt v Hoffenheim — Over/Under Over 3 (1:0); AIK v Degerfors IF — Home Team or Over 2.5 Yes (0:0); Aston Villa v Sunderland AFC — Over/Under Over 1.5 (0:0) |
+| 2026-11-22 | RPQFAB | Overnight 50x (13 legs, 1 in 115) | 13 | 3W/3L/0V/7P | DEAD | CF Pachuca v Deportivo Toluca FC — Over/Under Over 2.5 (2:0); Oriente Petrolero v Independiente Petrolero — 1X2 Home (2:2); Club Santos Laguna v Club Leon — Double Chance Home or Draw (1:2) |
+| 2026-11-22 | KMHB2A | Overnight 500x (21 legs, 1 in 1,287) | 21 | 6W/3L/0V/12P | DEAD | CF Pachuca v Deportivo Toluca FC — Over/Under Over 2.5 (2:0); Oriente Petrolero v Independiente Petrolero — 1X2 Home (2:2); Club Santos Laguna v Club Leon — Double Chance Home or Draw (1:2) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |

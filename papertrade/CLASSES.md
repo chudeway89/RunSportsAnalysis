@@ -1,28 +1,28 @@
 # Leg-class scorecard (auto)
 
-From `papertrade/legs.jsonl` (2857 unique legs). Expected = house probability at first sighting. A class whose actual win rate sits well below expected over 30+ decided legs is a candidate pick.py gate.
+From `papertrade/legs.jsonl` (2875 unique legs). Expected = house probability at first sighting. A class whose actual win rate sits well below expected over 30+ decided legs is a candidate pick.py gate.
 
 | Class | Split | Decided | W | L | V | Win % | Expected % | Gap (pp) |
 |---|---|---|---|---|---|---|---|---|
-| Over | all | 587 | 419 | 168 | 5 | 71 | 59 | +13 |
-| Over | weekend | 313 | 232 | 81 | 2 | 74 | 60 | +14 |
+| Over | all | 589 | 420 | 169 | 5 | 71 | 59 | +13 |
+| Over | weekend | 315 | 233 | 82 | 2 | 74 | 60 | +14 |
 | Over | weekday | 274 | 187 | 87 | 3 | 68 | 57 | +11 |
 | bball AH catch +2+ | all | 172 | 111 | 61 | 0 | 65 | 60 | +5 |
 | Under | all | 166 | 118 | 48 | 0 | 71 | 80 | -9 |
 | Over integer | all | 154 | 97 | 57 | 59 | 63 | 56 | +7 |
-| AH catch +1.5 | all | 143 | 102 | 41 | 0 | 71 | 64 | +7 |
-| team Over | all | 140 | 101 | 39 | 1 | 72 | 52 | +20 |
+| AH catch +1.5 | all | 144 | 103 | 41 | 0 | 72 | 65 | +7 |
+| team Over | all | 141 | 102 | 39 | 1 | 72 | 52 | +20 |
 | AH catch +0.5-1 | all | 133 | 98 | 35 | 14 | 74 | 68 | +6 |
-| 1X2 Home | all | 107 | 87 | 20 | 0 | 81 | 75 | +7 |
-| Double Chance | all | 105 | 80 | 25 | 1 | 76 | 75 | +2 |
+| 1X2 Home | all | 108 | 87 | 21 | 0 | 81 | 74 | +7 |
+| Double Chance | all | 107 | 81 | 26 | 1 | 76 | 75 | +1 |
 | bball AH catch +2+ | weekday | 93 | 58 | 35 | 0 | 62 | 58 | +4 |
 | Under | weekday | 88 | 61 | 27 | 0 | 69 | 80 | -11 |
-| AH catch +1.5 | weekend | 82 | 59 | 23 | 0 | 72 | 63 | +9 |
-| DNB | all | 79 | 61 | 18 | 34 | 77 | 77 | -0 |
+| AH catch +1.5 | weekend | 83 | 60 | 23 | 0 | 72 | 63 | +9 |
+| DNB | all | 80 | 62 | 18 | 34 | 78 | 78 | -0 |
 | Over integer | weekend | 79 | 56 | 23 | 34 | 71 | 60 | +11 |
 | bball AH catch +2+ | weekend | 79 | 53 | 26 | 0 | 67 | 61 | +6 |
 | Under | weekend | 78 | 57 | 21 | 0 | 73 | 79 | -6 |
-| team Over | weekend | 77 | 56 | 21 | 0 | 73 | 53 | +20 |
+| team Over | weekend | 78 | 57 | 21 | 0 | 73 | 53 | +20 |
 | Double Chance | weekday | 75 | 60 | 15 | 1 | 80 | 78 | +2 |
 | Over integer | weekday | 75 | 41 | 34 | 25 | 55 | 53 | +2 |
 | AH catch +0.5-1 | weekend | 70 | 46 | 24 | 7 | 66 | 66 | -1 |
@@ -30,7 +30,7 @@ From `papertrade/legs.jsonl` (2857 unique legs). Expected = house probability at
 | Under (bball) | all | 67 | 47 | 20 | 0 | 70 | 60 | +10 |
 | AH catch +0.5-1 | weekday | 63 | 52 | 11 | 7 | 83 | 70 | +13 |
 | team Over | weekday | 63 | 45 | 18 | 1 | 71 | 52 | +20 |
-| 1X2 Home | weekend | 61 | 50 | 11 | 0 | 82 | 73 | +9 |
+| 1X2 Home | weekend | 62 | 50 | 12 | 0 | 81 | 72 | +8 |
 | AH catch +1.5 | weekday | 61 | 43 | 18 | 0 | 70 | 67 | +4 |
 | GG/BTTS | all | 55 | 35 | 20 | 0 | 64 | 70 | -7 |
 | corners | all | 53 | 37 | 16 | 0 | 70 | 62 | +7 |
@@ -38,8 +38,8 @@ From `papertrade/legs.jsonl` (2857 unique legs). Expected = house probability at
 | Goal Bounds | all | 47 | 31 | 16 | 0 | 66 | 64 | +2 |
 | 1X2 Home | weekday | 46 | 37 | 9 | 0 | 80 | 76 | +4 |
 | AH catch +2+ | all | 46 | 36 | 10 | 7 | 78 | 68 | +10 |
+| DNB | weekend | 45 | 35 | 10 | 15 | 78 | 84 | -6 |
 | other m858 | all | 45 | 32 | 13 | 1 | 71 | 73 | -2 |
-| DNB | weekend | 44 | 34 | 10 | 15 | 77 | 84 | -7 |
 | Under (bball) | weekend | 43 | 29 | 14 | 0 | 67 | 57 | +10 |
 | other m59 | all | 40 | 26 | 14 | 2 | 65 | 72 | -7 |
 | bball ML | weekend | 38 | 27 | 11 | 0 | 71 | 75 | -4 |
@@ -49,8 +49,8 @@ From `papertrade/legs.jsonl` (2857 unique legs). Expected = house probability at
 | other m29 | all | 34 | 18 | 16 | 1 | 53 | 45 | +8 |
 | GG/BTTS | weekday | 33 | 19 | 14 | 0 | 58 | 71 | -13 |
 | other m854 | all | 33 | 22 | 11 | 0 | 67 | 73 | -7 |
+| Double Chance | weekend | 32 | 21 | 11 | 0 | 66 | 68 | -3 |
 | bball ML | weekday | 32 | 21 | 11 | 0 | 66 | 73 | -7 |
-| Double Chance | weekend | 30 | 20 | 10 | 0 | 67 | 67 | -0 |
 | AH give -1 | all | 28 | 24 | 4 | 15 | 86 | 69 | +17 |
 | Under integer | all | 27 | 25 | 2 | 2 | 93 | 84 | +9 |
 | other m90 | all | 26 | 17 | 9 | 10 | 65 | 77 | -11 |
