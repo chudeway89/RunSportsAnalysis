@@ -1,0 +1,569 @@
+[
+ {
+  "eid": "sr:match:73686986",
+  "fx": "Avto Yekaterinburg v JHC Spartak Moskow",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "MHL junior regular season. Avto 4/5 at home; Spartak 5/5 away, 8-2 L10. MHL is a junior (U20) league: youth rule, no picks except goals markets in clear mismatches; none qualifies.",
+  "news": "Listed in the MHL schedule for 22 Nov at 11:00 MSK (08:00 UTC), as on the board; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth).",
+  "confidence": 0.15,
+  "sources": [
+   "https://allhockey.ru/news/show/616755-MHL_raspisanie_matchej_22_noyabrya_2026_goda",
+   "https://mhl.khl.ru/news/20025/1176610/",
+   "https://kushvsporte.ru/event/7095472-avto-mhk-spartak"
+  ]
+ },
+ {
+  "eid": "sr:match:73686994",
+  "fx": "Tolpar UFA v Loko-76 Yaroslavl",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "MHL junior. Loko-76 is 8-2 L10 and 5/6 away; Tolpar 2/5 at home. MHL is a junior (U20) league: youth rule, no picks except goals markets in clear mismatches; none qualifies.",
+  "news": "Schedule confirms 11:00 MSK (08:00 UTC); no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth).",
+  "confidence": 0.15,
+  "sources": [
+   "https://allhockey.ru/news/show/616755-MHL_raspisanie_matchej_22_noyabrya_2026_goda",
+   "https://mhl.khl.ru/news/20025/1176610/",
+   "https://kushvsporte.ru/event/7095472-avto-mhk-spartak"
+  ]
+ },
+ {
+  "eid": "sr:match:74326964",
+  "fx": "Beliye Medveditsy Chelyabinsk v Agidel UFA",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Women's ZhHL. Agidel 8-2, GF 5.6; Beliye Medveditsy 0-10. A mismatch, but women's: no picks.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74326966",
+  "fx": "Skso v Sakhalin",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Women's ZhHL. Skso 0-10, GA 7.3; only the O/U 7.5 is offered. Women's: no picks.",
+  "news": "no news found; date not independently checked.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73686990",
+  "fx": "SKA-1946 Saint Petersburg v Dinamo Shinnik Bobruysk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "MHL junior.",
+  "news": "Kick-off conflict: mhl.khl.ru gives 19:00 MSK, Allhockey gives 13:00 MSK (board 10:00 UTC = 13:00 MSK). Allhockey and Tribuna also show a finished 2:3 Dinamo-Shinnik win for this pairing, which may be an earlier meeting (H2H shows 2-3).",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (13:00 v 19:00 MSK) and a reported result for this pairing; plus youth league.",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://mhl.khl.ru/news/20025/1176610/",
+   "https://allhockey.ru/news/show/616755-MHL_raspisanie_matchej_22_noyabrya_2026_goda",
+   "https://by.tribuna.com/hockey/1113097529-mxl-regulyarny-chempiyanat-dynamashynnik-supracz-ska1946/"
+  ]
+ },
+ {
+  "eid": "sr:match:73686988",
+  "fx": "JHC Spartak Mah v Mikhaylov Academy Novomoskovsk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "MHL junior. Mikhaylov Academy 3/3 away. MHL is a junior (U20) league: youth rule, no picks except goals markets in clear mismatches; none qualifies.",
+  "news": "Schedule confirms 14:00 MSK (11:00 UTC); no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth).",
+  "confidence": 0.15,
+  "sources": [
+   "https://allhockey.ru/news/show/616755-MHL_raspisanie_matchej_22_noyabrya_2026_goda",
+   "https://mhl.khl.ru/news/20025/1176610/",
+   "https://kushvsporte.ru/event/7095472-avto-mhk-spartak"
+  ]
+ },
+ {
+  "eid": "sr:match:72166676",
+  "fx": "HK Avangard Omsk v Ak Bars Kazan",
+  "sport": "ice hockey",
+  "absences": "Avangard: Cedric Paquette (back) out again for several weeks per previews; Livesport claims no injuries (sources disagree). Ak Bars: no fresh injury news.",
+  "context": "KHL regular season, East top-of-table clash ('battle for the East'). Elite Prospects has Avangard 16-9-2, 2nd East. Avangard 4/4 home in data, 7-3 L10. Ak Bars 3-7 L10, 1/4 away, conceding 3.2/game. Last H2H 4-0 Avangard. Big-club clash, so no result-side.",
+  "news": "Confirmed 14:00 MSK in Omsk (11:00 UTC). Lineups not yet out; Paquette doubtful or out.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.26,
+    "p": 0.767645943,
+    "why": "Avangard team Over 1.5. Mechanism: Ak Bars conceding 3.2/g over L10 and 1/4 away; Avangard 2.8 GF, 4/4 home, beat Ak Bars 4-0 last meeting. Avangard scored 3+ in 5 of the last 6. My p 0.80 v house 0.77."
+   }
+  ],
+  "avoid": "1X2 / 406 result-sides (big-club clash rule); Ak Bars team Under.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.eliteprospects.com/team/186/avangard-omsk",
+   "https://www.livesport.ru/tips/hockey/2026/11/22/avangard-omsk-ak-bars-kazan/",
+   "https://stavka.tv/matches/ice-hockey/22-11-2026-avangard-omsk-ak-bars-kazan",
+   "https://www.ak-bars.ru/news/14942"
+  ]
+ },
+ {
+  "eid": "sr:match:72166680",
+  "fx": "HC Barys v HC Dinamo Minsk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "KHL. Barys 4-6 L10; Dinamo Minsk 11-10-7, 8th West, on a road trip (at Magnitorsk 24 Nov). Low-scoring Minsk (GF 2.0, GA 1.9).",
+  "news": "Confirmed 16:30 Astana local (11:30 UTC). The Barys ticket page also shows a second Barys v Dinamo Minsk game on 25 Nov, unconfirmed elsewhere (EP has Minsk at Magnitogorsk 24 Nov). No named absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 3.5 at 1.23 is stats-only fill; no mechanism, so no pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eliteprospects.com/team/1678/dinamo-minsk",
+   "https://en.hcbarys.kz/tickets/"
+  ]
+ },
+ {
+  "eid": "sr:match:72124474",
+  "fx": "Stjernen Hockey v Nidaros U20",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Norway U20 Elite (youth). No picks.",
+  "news": "A TVkampen listing exists; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tvkampen.com/kamp/stjernen-hockey-nidaros-1911474"
+  ]
+ },
+ {
+  "eid": "sr:match:73810710",
+  "fx": "HC Aktobe v Saryarka Karaganda",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Kazakhstan PHL. Saryarka 1st/2nd tier (16 W in 28, GD 113-68) v Aktobe (14 pts in 28, 0/6 home in data). Saryarka have won all 8 H2H meetings.",
+  "news": "Club calendar: 17:00 Aktobe local = 15:00 MSK = 12:00 UTC, but the board has 14:00 UTC. Stavka.tv also lists an Aktobe v Saryarka game on 23 Nov (likely a double-header).",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: the club calendar (17:00 local / 15:00 MSK = 12:00 UTC) v board 14:00 UTC; plus a second listing on 23 Nov.",
+  "picks": [],
+  "avoid": "Away 1X2 at p 0.72 is below the 0.75 away-1X2 threshold anyway.",
+  "confidence": 0.15,
+  "sources": [
+   "https://saryarka-hc.kz/ru/season/saryarka",
+   "https://kushvsporte.ru/event/7099623-aktobe-saryarka",
+   "https://sportandbets.com/prognozy-na-hokkey/drugie-chempionaty-hock/aktobe-saryarka-prognoz-2026-11-22.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73737392",
+  "fx": "Gyergyoi HK v HSC Csikszereda",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Erste Liga Szekler derby (Gyergyo v Csikszereda). Derby: no result-side.",
+  "news": "On the 22 Nov round per DEAC; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (derby).",
+  "confidence": 0.15,
+  "sources": [
+   "https://deac.hu/jegkorong/az-elmenok-talalkoznak/",
+   "https://www.nemzetisport.hu/jegkorong/2026/09/erste-liga-adatbank-2026-2027",
+   "https://sport.szekelyhon.ro/jegkorong/debrecenben-nagyon-elvertek-az-acelbikakat"
+  ]
+ },
+ {
+  "eid": "sr:match:73737394",
+  "fx": "CSM Corona Brasov v Dunaujvarosi Acelbikak",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Erste Liga. Brasov 3rd (30 pts), 4/4 home; Dunaujvaros near the bottom, 0-10 L10, GA 5.5 (lost 0-7, 2-11, 3-6; Szekelyhon 'Debrecen thrashed Acelbikak').",
+  "news": "On the 22 Nov round (Corona Brasov v Dunaujvarosi Acelbikak); no absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "14",
+    "spec": "hcp=0:3",
+    "desc": "Home (0:3)",
+    "odds": 1.33,
+    "p": 0.7118258529,
+    "why": "Brasov to win by 4+. Mechanism: Dunaujvaros 0-10 with 5.5 GA/g, 0/5 away; Brasov 4/4 home, scoring 3.4. Market AH -5.5 sits at 0.44, so 4+ looks right. My p 0.73 v house 0.71."
+   }
+  ],
+  "avoid": "Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://deac.hu/jegkorong/az-elmenok-talalkoznak/",
+   "https://www.nemzetisport.hu/jegkorong/2026/09/erste-liga-adatbank-2026-2027",
+   "https://sport.szekelyhon.ro/jegkorong/debrecenben-nagyon-elvertek-az-acelbikakat"
+  ]
+ },
+ {
+  "eid": "sr:match:73579876",
+  "fx": "Ritten Sport v WSV Broncos",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AlpsHL R20. Ritten lost two straight at home (early Nov) and are 1/4 at home in data; Broncos 3/4 away. Local derby (South Tyrol).",
+  "news": "Confirmed 16:30 local (15:30 UTC) at Ritten Arena per Sofascore, the tourism site and the Broncos calendar.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ritten 406 at 1.27 (fragile home form).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/ice-hockey/match/wipptal-broncos-rittner-buam/bZjsyxx",
+   "https://www.tageszeitung.it/2026/11/05/harter-gegner/",
+   "https://www.broncos.it/de/wipptal-broncos.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72677620",
+  "fx": "Eispiraten Crimmitschau v EV Landshut",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "DEL2. Landshut (coach Uwe Krupp) 3rd with 30 pts, coming off a Friday game at Bietigheim. Crimmitschau won 5-1 in Landshut in October.",
+  "news": "Crimmitschau club site confirms 22 Nov 17:00 CET (16:00 UTC) at the Sahnpark. del-2.org shows stray results (Crimmitschau 1:4 DEG, Lausitz 1:3 Landshut) that look like the previous round, not this fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Close game; no edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eispiraten-crimmitschau.de/eispiraten-vor-anspruchsvollem-wochenende-auswaerts-nach-bietigheim-zuhause-gegen-landshut/",
+   "https://www.del-2.org/spielplan/"
+  ]
+ },
+ {
+  "eid": "sr:match:73737398",
+  "fx": "Budapest Jegkorong Akademia HC v UJPEST Budapest",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Erste Liga Budapest derby (BJA v UTE); UTE 4th (29 pts). Derby: no result-side.",
+  "news": "On the 22 Nov round (BJA HC v UTE); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (derby).",
+  "confidence": 0.15,
+  "sources": [
+   "https://deac.hu/jegkorong/az-elmenok-talalkoznak/",
+   "https://www.nemzetisport.hu/jegkorong/2026/09/erste-liga-adatbank-2026-2027",
+   "https://sport.szekelyhon.ro/jegkorong/debrecenben-nagyon-elvertek-az-acelbikakat"
+  ]
+ },
+ {
+  "eid": "sr:match:72124480",
+  "fx": "Manglerud Star v Kongsvinger IL",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Norway U20 Elite (youth). No picks.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tvkampen.com/kamp/stjernen-hockey-nidaros-1911474"
+  ]
+ },
+ {
+  "eid": "sr:match:72122190",
+  "fx": "Narvik Ishockeyklubb v Frisk Asker",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "EHL round 18. Frisk Asker 7-3 L10; Narvik 4-6, low-scoring (2.2 GF).",
+  "news": "Frisk Asker schedule and HockeyLive confirm Sunday 17:00 CET (16:00 UTC). An unverified report has Narvik beating Valerenga 5-3 on 20 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Frisk -1.5 at p 0.54: mid-band.",
+  "confidence": 0.15,
+  "sources": [
+   "https://live.hockey.no/",
+   "https://www.friskaskerhockey.no/article/2kdatg0-254l1/view",
+   "https://sportsbasen.no/tv/helgen/"
+  ]
+ },
+ {
+  "eid": "sr:match:72122192",
+  "fx": "Nidaros Hockey v Stavanger Oilers",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "EHL. Nidaros 7-3 L10, 4/5 home; Oilers 6-4.",
+  "news": "Date conflict: the Oilers' schedule as surfaced reads '22.10.2026, Sunday, Nidaros v Stavanger Oilers, Leangen Arena', while HockeyLive lists 22.11.2026 17:00.",
+  "veto": true,
+  "veto_reason": "Date conflict between the Oilers' schedule (22.10) and HockeyLive (22.11); unresolved.",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.oilers.no/article/77jatg0-415l1/view",
+   "https://live.hockey.no/"
+  ]
+ },
+ {
+  "eid": "sr:match:72122196",
+  "fx": "Storhamar Hockey v Lillehammer IK",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "EHL. Storhamar 7-3, 4.1 GF; Lillehammer 1-9, GA 4.7, 0/4 away; last H2H 6-0.",
+  "news": "TV listing (TV 2 Play) and hockey.no list Storhamar v Lillehammer on 22 Nov 17:00 at CC-Amfi. No absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lillehammer team Under 1.5 (p 0.63 < 0.82). The 0:3 home handicap at p 0.61 is mid-band, so no pick.",
+  "confidence": 0.2,
+  "sources": [
+   "https://live.hockey.no/",
+   "https://www.friskaskerhockey.no/article/2kdatg0-254l1/view",
+   "https://sportsbasen.no/tv/helgen/"
+  ]
+ },
+ {
+  "eid": "sr:match:72122188",
+  "fx": "Vaalerenga IF Oslo v Stjernen Hockey Fredrikstad",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "EHL. Valerenga 9-1 L10, 5/5 home, 4.4 GF; Stjernen 2-8, 1/5 away.",
+  "news": "Valerenga club site and hockey4you list 22 Nov 17:00 at Jordal Amfi. A stale, internally inconsistent HockeyLive page (Lillehammer listed twice at the same time) showed 20 Nov; the club site resolves it. Unverified report of a Valerenga 3-5 loss at Narvik on 20 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.745079,
+    "why": "Valerenga regulation win. Mechanism: 5/5 home wins, 9-1 L10 and 4.4 GF v Stjernen 1/5 away and 3.4 GA. Possible bounce-back after a reported loss at Narvik. My p 0.76 v house 0.745."
+   }
+  ],
+  "avoid": "Stjernen team Under 2.5 (p 0.73 < 0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.hockey4you.no/en/kampoversikt-ehl/",
+   "https://www.vif-hockey.no/",
+   "https://live.hockey.no/"
+  ]
+ },
+ {
+  "eid": "sr:match:73739518",
+  "fx": "Aksam Unia Oswiecim v STS Sanok",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "PHL. Unia 6-4; Sanok 2-8, 0/3 away. Only 3 markets offered.",
+  "news": "Flashscore lists Unia Oswiecim v STS Sanok on 22 Nov; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin market.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.pl/hokej/polska/tauron-hokej-liga/",
+   "https://polskihokej.eu/games/results/tauron-hokej-liga/1"
+  ]
+ },
+ {
+  "eid": "sr:match:73739520",
+  "fx": "JKH GKS Jastrzebie v Cracovia Krakow",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "PHL. Jastrzebie 2/2 home; Cracovia 3-7, 0/4 away.",
+  "news": "Listed on 22 Nov (Flashscore, polskihokej.eu); no absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism beyond form.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.flashscore.pl/hokej/polska/tauron-hokej-liga/",
+   "https://polskihokej.eu/games/results/tauron-hokej-liga/1"
+  ]
+ },
+ {
+  "eid": "sr:match:73739516",
+  "fx": "KH Zaglebie Sosnowiec v Gorniczy Klub Sportowy Tychy",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "PHL. Tychy 1st, 10-0 L10, 5/5 away (last season's finalist, swept Sosnowiec 4-0 in the March semi).",
+  "news": "Flashscore lists Zaglebie v Tychy on 22 Nov, but polskihokej.eu's round listing shows GKS Tychy v GKS Katowice in the same round.",
+  "veto": true,
+  "veto_reason": "Fixture conflict: one source lists Tychy v Katowice in the same round.",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.pl/hokej/polska/tauron-hokej-liga/",
+   "https://polskihokej.eu/games/results/tauron-hokej-liga/1"
+  ]
+ },
+ {
+  "eid": "sr:match:73739522",
+  "fx": "TKH Torun v TMH Polonia Bytom",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "PHL. Torun 2nd per TVP table; Bytom mid-table.",
+  "news": "TVP lists the Energa Torun v Polonia Bytom broadcast at 15:40 CET (14:40 UTC) on 22 Nov; the board has 16:00 UTC (17:00 CET).",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: TVP 15:40 CET v board 17:00 CET.",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tvp.pl/transmisje/hokej",
+   "https://www.flashscore.pl/hokej/polska/tauron-hokej-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72677628",
+  "fx": "Dusseldorfer EG v Lausitzer Fuchse",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "DEL2. DEG 1st with 41 pts, 8-2 L10, 4/5 home; Lausitz 6th with 25.",
+  "news": "sport.de and hessenschau confirm DEG v Lausitzer Fuchse on Sun 22.11 at 18:30 CET (17:30 UTC). No absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.75358,
+    "why": "DEG to win incl. OT/pens. Mechanism: table leader, 16 pts clear of Lausitz, 4/5 home, scoring 4.1/g. My p 0.77 v house 0.754."
+   }
+  ],
+  "avoid": "Lausitz +1.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sport.de/eishockey/deutschland-del-2/ergebnisse-und-tabelle/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/eishockey-108.html",
+   "https://www.del-2.org/spielplan/"
+  ]
+ },
+ {
+  "eid": "sr:match:72677630",
+  "fx": "EC Bad Nauheim v Bietigheim Steelers",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "DEL2. Bietigheim 6-4, Bad Nauheim 4-6; Bad Nauheim hosted Bietigheim on the previous round too (preview), so this is a back-to-back of sorts.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Possible repeat-fixture confusion; no pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sport.de/eishockey/deutschland-del-2/ergebnisse-und-tabelle/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/eishockey-108.html",
+   "https://www.del-2.org/spielplan/"
+  ]
+ },
+ {
+  "eid": "sr:match:72677626",
+  "fx": "EHC Freiburg v Ravensburg Towerstars",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "DEL2. Freiburg 3/4 home; Ravensburg 4-6, GA 3.8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sport.de/eishockey/deutschland-del-2/ergebnisse-und-tabelle/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/eishockey-108.html",
+   "https://www.del-2.org/spielplan/"
+  ]
+ },
+ {
+  "eid": "sr:match:72677622",
+  "fx": "EV Blue Devils Weiden v Dresdner Eislowen",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "DEL2. Weiden 4-6 with GA 4.5 (recently lost 0-8 and 1-7); Dresden 4/5 away, 3.7 GF.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.26,
+    "p": 0.758157,
+    "why": "Dresden team Over 2.5. Mechanism: Weiden conceding 4.5/g with recent 0-8 and 1-7 defeats; Dresden 3.7 GF and 4/5 away. My p 0.78 v house 0.758."
+   }
+  ],
+  "avoid": "Weiden team Under (p 0.79 < 0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sport.de/eishockey/deutschland-del-2/ergebnisse-und-tabelle/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/eishockey-108.html",
+   "https://www.del-2.org/spielplan/"
+  ]
+ },
+ {
+  "eid": "sr:match:72677624",
+  "fx": "Memmingen Indians v Kassel Huskies",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "DEL2. Kassel 7th (24 pts) but 2-8 in the data with 1.5 GF (odd for Kassel: data conflict on form); Memmingen 2-8.",
+  "news": "sport.de confirms Sun 18:30 CET (17:30 UTC). No absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Form data looks inconsistent with the table, so no pick.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sport.de/eishockey/deutschland-del-2/ergebnisse-und-tabelle/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/eishockey-108.html",
+   "https://www.del-2.org/spielplan/"
+  ]
+ },
+ {
+  "eid": "sr:match:73737400",
+  "fx": "Debreceni Egyetem AC v DVTK Jegesmedvek",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Erste Liga: 1st (DEAC, 34 pts) v 2nd (DVTK, 33). DEAC 6/6 home. Top clash: no result-side.",
+  "news": "DEAC confirms Sun 18:30 CET (17:30 UTC) at the Debreceni Jegcsarnok ('the leaders meet').",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (top-of-table clash).",
+  "confidence": 0.15,
+  "sources": [
+   "https://deac.hu/jegkorong/az-elmenok-talalkoznak/",
+   "https://www.nemzetisport.hu/jegkorong/2026/09/erste-liga-adatbank-2026-2027",
+   "https://sport.szekelyhon.ro/jegkorong/debrecenben-nagyon-elvertek-az-acelbikakat"
+  ]
+ }
+]

@@ -1,0 +1,554 @@
+[
+ {
+  "eid": "sr:match:75448406",
+  "fx": "Marumo Gallants v Polokwane City",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Diski Challenge = reserve/U23 league; Marumo 14th, Polokwane 9th in table snapshot",
+  "news": "no news found (reserves); date not contradicted",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side: no result-sides; goals markets only in clear mismatch (not one)",
+  "confidence": 0.1,
+  "sources": [
+   "https://supersport.com/football/tour/dstv-diski-challenge/results",
+   "https://nasiscore.co.za/south-africa/ddc/table",
+   "https://africasoccer.com/kaizer-chiefs-maintain-perfect-start-in-dstv-diski-challenge/"
+  ]
+ },
+ {
+  "eid": "sr:match:75448408",
+  "fx": "Milford FC Reserve v AmaZulu",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Diski Challenge reserves; Milford lost 1-0 to Polokwane in late Oct",
+  "news": "no news found (reserves)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://supersport.com/football/tour/dstv-diski-challenge/results",
+   "https://nasiscore.co.za/south-africa/ddc/table",
+   "https://africasoccer.com/kaizer-chiefs-maintain-perfect-start-in-dstv-diski-challenge/"
+  ]
+ },
+ {
+  "eid": "sr:match:72579156",
+  "fx": "MFk Tatran Liptovsky Mikulas U19 v MFk Skalica U19",
+  "sport": "football",
+  "absences": "n/a youth",
+  "context": "Slovak U19 league; both sides near bottom (1-1-8 and 1-0-9)",
+  "news": "no news found (youth fixture)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth (U19) - no picks; no mismatch for goals market",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75448400",
+  "fx": "Stellenbosch FC v Kaizer Chiefs",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Diski Challenge reserves; Chiefs reserves perfect start (5/5), Stellenbosch 6th. Chiefs senior side plays Sundowns at 13:00 same day (separate squad)",
+  "news": "no news found for this date; Chiefs reserves top of table",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side - no result-sides; Chiefs reserves may lose players to senior bench for KO semi",
+  "confidence": 0.1,
+  "sources": [
+   "https://supersport.com/football/tour/dstv-diski-challenge/results",
+   "https://nasiscore.co.za/south-africa/ddc/table",
+   "https://africasoccer.com/kaizer-chiefs-maintain-perfect-start-in-dstv-diski-challenge/"
+  ]
+ },
+ {
+  "eid": "sr:match:73295834",
+  "fx": "Atletico Madrid B v UD Granadilla Tenerife Sur B",
+  "sport": "football",
+  "absences": "n/a women",
+  "context": "Women's Primera Federacion, B teams",
+  "news": "no news found (women's reserve fixture)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's/reserve - no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73550148",
+  "fx": "Hougang United FC v BG Tampines Rovers",
+  "sport": "football",
+  "absences": "Hougang: D Milos Drincic back from suspension",
+  "context": "SPL MW7. Hougang winless, 1 pt from 6; Tampines unbeaten (4W1D), 5 straight H2H wins",
+  "news": "Tampines heavy favourites; venue conflict: previews say Bishan Stadium, others Hougang Stadium; SPL banner mentions season restart Jan 2027 (unverified)",
+  "veto": true,
+  "veto_reason": "venue conflict between sources (Bishan vs Hougang Stadium)",
+  "picks": [],
+  "avoid": "Tampines away 1X2 p 0.70 < 0.75; Hougang +1.5/+2.5 catches barred (fav p 0.70)",
+  "confidence": 0.2,
+  "sources": [
+   "https://spl.sg/news/matchweek-7-preview/",
+   "https://littlebigreddot.com/spl-matchweek-7-lion-city-sailors-geylang-international-jalan-besar/",
+   "https://www.fotmob.com/matches/hougang-united-fc-vs-tampines-rovers-fc/466vk2r",
+   "https://www.xscores.com/soccer/match/hougang-united-fc-vs-tampines-rovers-fc/22-11-2026/2934301"
+  ]
+ },
+ {
+  "eid": "sr:match:73550150",
+  "fx": "Lion City Sailors FC v Geylang International FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SPL MW7 top-of-table: leaders Geylang (14 pts, 6 GP) at Sailors (13 pts, game in hand) at Jalan Besar 7:30pm local",
+  "news": "top clash, Sailors 7-2-1 last 10 with 0.5 GA; Geylang leaders",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "top-of-table clash - treat as big-club clash, no result-side; Over 1.5 1.11 too short",
+  "confidence": 0.2,
+  "sources": [
+   "https://spl.sg/news/matchweek-7-preview/",
+   "https://littlebigreddot.com/spl-matchweek-7-lion-city-sailors-geylang-international-jalan-besar/",
+   "https://www.fotmob.com/matches/hougang-united-fc-vs-tampines-rovers-fc/466vk2r",
+   "https://www.xscores.com/soccer/match/hougang-united-fc-vs-tampines-rovers-fc/22-11-2026/2934301"
+  ]
+ },
+ {
+  "eid": "sr:match:72121032",
+  "fx": "FK Smederevo 1924 v FK Metalac Gornji Milanovac",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Prva Liga Srbije round 19 Sunday pairing confirmed (Max-Sport). Smederevo 5th (28 pts) but lost 1-5 to Graficar in R17",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "thin league, both sides low-scoring: no Overs; p mid-band",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.max-sport.rs/prva-liga-srbije-tri-utakmice-tri-pobede-10-tsc-u-derbi-backe-763267/",
+   "https://srbijasport.net/league/8626-mozzart-bet-prva-liga-srbije",
+   "https://www.prvaliga.rs/en/sezona/raspored-i-rezultati/"
+  ]
+ },
+ {
+  "eid": "sr:match:73774594",
+  "fx": "Hetten FC v Arar",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Saudi Second Division; no fixture-specific coverage found",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "thin league, both sides poor form - no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73806132",
+  "fx": "Etincelles FC v AS Kigali",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Rwanda PL; fixture listed 22 Nov 15:00 local (=13:00 UTC, matches board) by league site and aggregator",
+  "news": "no news found; very low-scoring sides (AS Kigali 0.7 GF)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rwanda low-scoring: no Overs; no Unders (thin)",
+  "confidence": 0.1,
+  "sources": [
+   "https://rwandapremierleague.rw/info/fixtures",
+   "https://www.betexplorer.com/football/rwanda/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73806126",
+  "fx": "Gicumbi FC v Musanze FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Rwanda PL; Gicumbi led early table (13 pts at ~MD7), Musanze 9 pts",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "p mid-band, low-scoring league - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://rwandapremierleague.rw/info/fixtures",
+   "https://www.betexplorer.com/football/rwanda/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73806128",
+  "fx": "Mukura VS v Sunrise FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Rwanda PL; Mukura 12 pts early table; both sides draw-heavy (5 and 6 draws in last 10)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "draw-heavy - no home 1X2; no Overs",
+  "confidence": 0.1,
+  "sources": [
+   "https://rwandapremierleague.rw/info/fixtures",
+   "https://www.betexplorer.com/football/rwanda/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72281474",
+  "fx": "Tabor Sezana v NK Jesenice",
+  "sport": "football",
+  "absences": "none found",
+  "context": "2. SNL: Tabor Sezana top (35 pts, 11-2-2), Jesenice 9th; Tabor 6-0-0 at home",
+  "news": "kick-off conflict: NK Jesenice club fixture list gives 22 Nov 15:00 local (=14:00 UTC) vs board 13:00 UTC",
+  "veto": true,
+  "veto_reason": "kick-off time conflict (club site 15:00 CET vs board 13:00 UTC)",
+  "picks": [],
+  "avoid": "would otherwise be Home DNB 1.19 - vetoed on time conflict",
+  "confidence": 0.2,
+  "sources": [
+   "https://nkjesenice.si/vsi-rezultati-2-snl/",
+   "https://top-nogomet.si/lestvice/2-snl/"
+  ]
+ },
+ {
+  "eid": "sr:match:76662480",
+  "fx": "Mamelodi Sundowns v Kaizer Chiefs",
+  "sport": "football",
+  "absences": "Chiefs: Inacio Miguel suspended (2-match ban from Soweto derby red), Reeve Frosler doubt. Sundowns: Onyango (inj on Uganda duty), Bryan Leon, Khuliso Mudau, Grant Kekana, Keanu Cupido, Kegan Johannes injured; 11 Bafana players returned late Wednesday, Mokoena being assessed",
+  "context": "Carling Knockout Cup semi-final (single leg, knockout) at Loftus; winner meets Orlando Pirates. Chiefs unbeaten in last 4 v Sundowns (1-1 in August); Duba 4 goals in the competition",
+  "news": "Sources give 3pm SAST kick-off (=13:00 UTC) vs board 13:30 UTC; big-club knockout with fatigue on Sundowns side",
+  "veto": true,
+  "veto_reason": "kick-off conflict (3pm SAST = 13:00 UTC per Daily Dispatch vs board 13:30); also knockout big-club clash - no result-side",
+  "picks": [],
+  "avoid": "all result-sides (knockout + big-club); Under 3.5 p 0.74 < 0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://dailydispatch.co.za/sport/soccer/2026-11-19-sundowns-and-chiefs-set-for-blockbuster-carling-knockout-semifinal/",
+   "https://www.goal.com/en-za/news/kaizer-chiefs-suffer-selection-blow-ahead-of-mouth-watering-carling-knockout-cup-semi-final-against-mamelodi-sundowns/bltcd37cb7a72371fbc",
+   "https://www.kickoff.com/psl/mamelodi-sundowns/sundowns-vs-chiefs-cardoso-warns-over-brutal-tackles",
+   "https://fullview.co.za/fernando-da-cruz-not-taking-wounded-sundowns-lightly/"
+  ]
+ },
+ {
+  "eid": "sr:match:76224050",
+  "fx": "AC Libertas v San Marino Academy",
+  "sport": "football",
+  "absences": "none found",
+  "context": "San Marino amateur league; Libertas 7th, SM Academy last (0-5-5, 0.3 GF)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur league - Home 1.55 p 0.59 mid-band; no Unders in amateur comps",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/san-marino/campionato-sammarinese/",
+   "https://www.besoccer.com/competition/table/campionato_san_marino"
+  ]
+ },
+ {
+  "eid": "sr:match:76224046",
+  "fx": "SS Murata v SP Cailungo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "San Marino; Murata 14th (4 pts), Cailungo 12th",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur, away side 1-3-6 - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/san-marino/campionato-sammarinese/",
+   "https://www.besoccer.com/competition/table/campionato_san_marino"
+  ]
+ },
+ {
+  "eid": "sr:match:76224048",
+  "fx": "SS Pennarossa v SP Tre Penne",
+  "sport": "football",
+  "absences": "none found",
+  "context": "San Marino; Tre Penne 2nd (20 pts after 8), Pennarossa 13th; fixture confirmed 22 Nov 15:00 (BetExplorer)",
+  "news": "no news found; Tre Penne 8-2-0 last 10",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tre Penne away 1X2 p 0.725 < 0.75 gate; amateur league",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/san-marino/campionato-sammarinese/",
+   "https://www.besoccer.com/competition/table/campionato_san_marino"
+  ]
+ },
+ {
+  "eid": "sr:match:72121038",
+  "fx": "FK Jedinstvo UB v FK Javor Ivanjica",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Prva Liga R19 (Max-Sport lists Jedinstvo-Javor Sunday). Javor Matis league leaders (35 pts after 18), unbeaten last 10 (5-5-0, 2-4-0 away); Jedinstvo 3-2-5, lost 1-5 at home recently",
+  "news": "leader Javor away at mid-table Jedinstvo; kick-off 15:00 local listed (=14:00 UTC, matches board)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.7969,
+    "why": "Leaders Javor unbeaten in 10 (5W5D), Jedinstvo conceding 1.9/g; DNB refunds the draw (Javor drew 4 of 6 away). My p 0.80"
+   }
+  ],
+  "avoid": "Javor away 1X2 (p 0.63 < 0.75)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.max-sport.rs/prva-liga-srbije-tri-utakmice-tri-pobede-10-tsc-u-derbi-backe-763267/",
+   "https://srbijasport.net/league/8626-mozzart-bet-prva-liga-srbije",
+   "https://www.prvaliga.rs/en/sezona/raspored-i-rezultati/"
+  ]
+ },
+ {
+  "eid": "sr:match:72121030",
+  "fx": "FK Vozdovac Belgrade v FK Bor 1919",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Prva Liga R19. Bor 1919 0W-0D-10L last 10, 0.1 GF/game (scored 1 in 10); Vozdovac draw-heavy (2-4-4, 0.7 GF), lost 0-1 at home to Borac in R17",
+  "news": "no team news; Bor in freefall",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.7949,
+    "why": "Bor 1919 lost 10/10 scoring once; Vozdovac low-scoring so draw is main risk, DNB refunds it. Bor winning needs them to score. My p 0.83"
+   }
+  ],
+  "avoid": "Vozdovac -1 or Overs (Vozdovac 0.7 GF/g)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.max-sport.rs/prva-liga-srbije-tri-utakmice-tri-pobede-10-tsc-u-derbi-backe-763267/",
+   "https://srbijasport.net/league/8626-mozzart-bet-prva-liga-srbije",
+   "https://www.prvaliga.rs/en/sezona/raspored-i-rezultati/"
+  ]
+ },
+ {
+  "eid": "sr:match:73221952",
+  "fx": "Gfk Dubocica v OFK Vrsac",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Prva Liga R19 Dubocica v OFK Vrsac per Max-Sport; srbijasport shows Dubocica lost 1-4 to Proleter in prior round (round numbering differs between sources, pairing itself not contradicted)",
+  "news": "no team news; two low-scoring sides (0.7 GF each)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip 1X2; flag minor data_conflict on round numbering",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.max-sport.rs/prva-liga-srbije-tri-utakmice-tri-pobede-10-tsc-u-derbi-backe-763267/",
+   "https://srbijasport.net/league/8626-mozzart-bet-prva-liga-srbije",
+   "https://www.prvaliga.rs/en/sezona/raspored-i-rezultati/"
+  ]
+ },
+ {
+  "eid": "sr:match:72278538",
+  "fx": "NK Maribor v Nafta 1903 Lendava",
+  "sport": "football",
+  "absences": "none found",
+  "context": "PrvaLiga R16, 15:00 local Ljudski vrt (=14:00 UTC, matches). Maribor have lost last 3 league games, 0-3-1 at home in last 4",
+  "news": "Maribor in a 3-game losing run",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Maribor 1X2 1.45 - fragile favourite (3 straight losses); Under 4.5 p 0.81 < 0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.nzs.si/podrocja/novinarji/novice/pred-tekmo-maribor-nafta-431040",
+   "https://www.nzs.si/podrocja/novinarji/novice/pred-tekmo-celje-brinje-431041",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Slovenian_PrvaLiga"
+  ]
+ },
+ {
+  "eid": "sr:match:72042346",
+  "fx": "FK Kosice v MFK Skalica",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Nike liga R15, Sun 15:30 local (=14:30 UTC, matches; Voyo TV). Kosice 6th (18 pts, +6), Skalica 12th (10 pts), coach sacked 15 Sep, Stanislav Macek in since 22 Sep; Skalica no league win since mid-August",
+  "news": "Kosice bouncing back after 2-3 loss at DAC; Skalica winless for 3 months",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7864,
+    "why": "Skalica without a league win since mid-August under new coach Macek; Kosice score 2.3/g. DNB covers the draw. My p 0.80"
+   }
+  ],
+  "avoid": "Over 1.5 1.17 too short; Kosice defence leaky (1.7 GA) so no Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://parameter.sk/1406766/nike-liga-15-fordulo-a-csallokozi-rangadon-biztosithatja-be-oszi-elsoseget-a-dac-de-a-magara-talalo-komarom-szivesen-elrontana-az-unneplest/",
+   "https://www.nikeliga.sk/clanok/4961-televizne-zapasy-v-15-az-18-kole-nike-ligy-2026-2027",
+   "https://sportnet.sme.sk/spravy/sportovy-program-na-dnes-nedela-22-november-2026/",
+   "https://sportky.zoznam.sk/c/482627/fc-dac-1904-dunajska-streda-kfc-komarno-online-prenos-z-15-kola-nike-ligy"
+  ]
+ },
+ {
+  "eid": "sr:match:72083138",
+  "fx": "FK Macva Sabac v FK Vojvodina Novi Sad",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serbian SuperLiga, 17:00 local (=16:00 UTC, matches). Vojvodina lost the derby to Crvena zvezda last time out; Macva beat Partizan before the break",
+  "news": "Macva in form at home after beating Partizan; Vojvodina off a derby loss",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vojvodina away 1X2 p 0.64 < 0.75; DNB 1.18 skipped - Macva just beat Partizan (fragile favourite signal)",
+  "confidence": 0.2,
+  "sources": [
+   "https://max-sport.rs/marko-savic-vojvodina-macva-sabac-prvenstvo-763187",
+   "https://mozzartsport.com/fudbal/vesti/zeleznicar-se-seta-mozzart-bet-superligom-sad-se-probio-do-deobe-drugog-mesta/559378"
+  ]
+ },
+ {
+  "eid": "sr:match:72281480",
+  "fx": "NK Rudar Velenje v ND Beltinci",
+  "sport": "football",
+  "absences": "none found",
+  "context": "2. SNL; Beltinci 3rd (32 pts, 44 GF), Rudar Velenje 6th (23 pts); 22 Nov date not confirmed by any source (not contradicted)",
+  "news": "no news found; fixture date unconfirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "unconfirmed date - no picks; Beltinci away 1X2 p 0.44",
+  "confidence": 0.1,
+  "sources": [
+   "https://nkjesenice.si/vsi-rezultati-2-snl/",
+   "https://top-nogomet.si/lestvice/2-snl/"
+  ]
+ },
+ {
+  "eid": "sr:match:76967402",
+  "fx": "Stade de Mbour v Ajel de Rufisque",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Senegal Ligue 1; no 2026-27 fixture coverage found. Very low-scoring sides (Mbour 0.6 GF, AJEL 0.8 GF / 0.4 GA)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders p < 0.82; no Overs in low-scoring league",
+  "confidence": 0.1,
+  "sources": [
+   "https://madeinfoot.ouest-france.fr/resultats/senegal/ligue-1/journee-22.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76967400",
+  "fx": "Teungueth FC v ASC Diambars",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Senegal Ligue 1; no coverage found",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "low-scoring, coin-flip - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://madeinfoot.ouest-france.fr/resultats/senegal/ligue-1/journee-22.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76967406",
+  "fx": "US Ouakam v Hlm",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Senegal Ligue 1; no coverage found",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip 1X2 - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://madeinfoot.ouest-france.fr/resultats/senegal/ligue-1/journee-22.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72278542",
+  "fx": "NK Celje v NK Brinje Grosuplje",
+  "sport": "football",
+  "absences": "none found",
+  "context": "PrvaLiga R16, 17:30 local (=16:30 UTC, matches) at Z'dezele. Celje 4th, 6-3-1 last 10 incl. 5 straight away/home wins; Brinje 8th",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.38,
+    "p": 0.6928,
+    "why": "Celje 6-3-1 last 10 (won last 5 listed), Brinje 4-2-4 and lost 2-1 at home to Nafta; gap 4th v 8th. Stats-led, no news edge. My p 0.70"
+   }
+  ],
+  "avoid": "Away +2.5 barred (fav p 0.69); BTTS",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nzs.si/podrocja/novinarji/novice/pred-tekmo-maribor-nafta-431040",
+   "https://www.nzs.si/podrocja/novinarji/novice/pred-tekmo-celje-brinje-431041",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Slovenian_PrvaLiga"
+  ]
+ },
+ {
+  "eid": "sr:match:76967408",
+  "fx": "Guediawaye FC v ASC Jaraaf",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Senegal Ligue 1; Jaraaf unbeaten last 10 (5-5-0, 0.2 GA)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Draw or Away 1.27 p 0.74 is stats-only (no mechanism)",
+  "confidence": 0.1,
+  "sources": [
+   "https://madeinfoot.ouest-france.fr/resultats/senegal/ligue-1/journee-22.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72042338",
+  "fx": "DAC 1904 Dunajska Streda v KFC Komarno",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Nike liga R15 South Slovakia derby, 18:00 local MOL Arena (=17:00 UTC, matches). DAC unbeaten leaders, 10 pts clear; Komarno 9th, \"finding form\"",
+  "news": "DAC can seal autumn title; derby",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby - no result-side (Home 1.42, DNB 1.15); Over 1.5 1.16 below band; Under 3.5 p 0.59",
+  "confidence": 0.2,
+  "sources": [
+   "https://parameter.sk/1406766/nike-liga-15-fordulo-a-csallokozi-rangadon-biztosithatja-be-oszi-elsoseget-a-dac-de-a-magara-talalo-komarom-szivesen-elrontana-az-unneplest/",
+   "https://www.nikeliga.sk/clanok/4961-televizne-zapasy-v-15-az-18-kole-nike-ligy-2026-2027",
+   "https://sportnet.sme.sk/spravy/sportovy-program-na-dnes-nedela-22-november-2026/",
+   "https://sportky.zoznam.sk/c/482627/fc-dac-1904-dunajska-streda-kfc-komarno-online-prenos-z-15-kola-nike-ligy"
+  ]
+ }
+]
