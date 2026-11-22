@@ -1,0 +1,594 @@
+[
+ {
+  "eid": "sr:match:68046858",
+  "fx": "Paju Frontier FC v Cheonan City FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "K League 2 late regular season (round 33 area); Paju Frontier is a new 2026 entrant; both sides low-scoring (1.1-1.2 gf), many draws",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: thin info, draw-heavy profiles (Paju 5D in 10)",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_K_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:68046860",
+  "fx": "Seoul E-Land FC v Chungnam Asan FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "K League 2 Round 33, Seoul E-Land final regular-season home game at Mokdong with a club \"One Team\" support event; E-Land 4W1D1L at home (2.5-1.3); Chungnam away 1W3D1L scoring 0.6",
+  "news": "Final home game of the regular season at Mokdong; Starnews kickoff 16:30 KST = board 07:30 UTC (AiScore shows 15:30, likely a timezone display)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.24,
+    "p": 0.753791309,
+    "why": "Mechanism: E-Land lost only 1 of 6 at home and it is the final home game with a staged support event; Chungnam score 0.6/game away. My p 0.77"
+   }
+  ],
+  "avoid": "Over lines (Chungnam away games are low-scoring), Home -0.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.starnewskorea.com/en/sports/2026/11/18/2026111817415164868",
+   "https://www.aiscore.com/tournament-korean-k-league-2/w34kgmi2vmu1ko9"
+  ]
+ },
+ {
+  "eid": "sr:match:73937006",
+  "fx": "FK Ufa v FK Ural Yekaterinburg",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Russian First League round 18; Ural 3rd (34 pts) v Ufa 9th (23 pts); Ural won reverse 3-0",
+  "news": "Previews (futbolpressa) date the match 21 Nov, board says 22 Nov 08:30 UTC; venue also conflicts (Neftyanik v BetBoom Arena)",
+  "veto": true,
+  "veto_reason": "Date conflict (21 v 22 Nov) and venue conflict between sources",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolpressa.ru/news/fc-ufa-vs-ural-prognoz-match-21-noyabrya-2026",
+   "https://futbolpressa.ru/news/fc-ufa-vs-ural-first-league-match-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:73086752",
+  "fx": "Scm Ramnicu Valcea v AFC Metalul Buzau",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Romania Liga 2 round 14; Metalul 7th (24 pts), Valcea 10th (20 pts); Valcea home 3W2L",
+  "news": "Digi Sport lists Sun 22 Nov 12:30 local (=board 10:30 UTC), but the LPF fixture page lists 21 Nov 11:00",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict between the LPF official schedule and media listings",
+  "picks": [],
+  "avoid": "All markets; Romania L2 is a thin-Over league anyway",
+  "confidence": 0.1,
+  "sources": [
+   "https://digisport.ro/fotbal/liga-2/poli-timisoara-a-revenit-pe-primul-loc-cs-dinamo-umilita-liga-2-etapa-14-program-rezultate-clasament-4615265",
+   "https://lpf2.ro/liga2/html/programul_meciurilor/Program_SCM_Ramnicu_Valcea-553.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76080482",
+  "fx": "AD Sanjoanense v Academica de Coimbra",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taca de Portugal 4th round, single-leg knockout (90 min settles all but To Qualify); Sanjoanense strong at home 4W1D0L conceding 0.4",
+  "news": "Kick-off 11:00 confirmed by Liga Portugal; referee Miguel Fonseca",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Academica result-side (knockout, home side concedes 0.4 at home); Under 4 p 0.81 below 0.82 gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ligaportugal.pt/news/29160/resultados-da-4.a-eliminatoria-da-taca-de-portugal",
+   "https://www.dominiodebola.com/taca-portugal-arbitros-quarta-eliminatoria-novembro-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73842746",
+  "fx": "Afk Csikszereda Miercurea Ciuc v FC Farul Constanta",
+  "sport": "football",
+  "absences": "not researched (women)",
+  "context": "Romanian women Superliga; Farul scoring 4.4/game (5.5 away), H2H 3-2",
+  "news": "WOMEN fixture: no date/venue conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women, not a clear enough mismatch: Farul only p 0.575)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72334440",
+  "fx": "FK Dinamo Moscow v FK Krasnodar",
+  "sport": "football",
+  "absences": "Krasnodar: Nikita Krivtsov (tendon) out as of late Oct; Boselli suspension reported (date unclear). Dinamo: Zaynutdinov injured, Kutitsky due back mid-Nov",
+  "context": "RPL round 15 after international break; Dinamo won all 4 home games (2.25-0.75), 8W in last 10; Krasnodar title contender, 3W4D3L last 10 conceding 1.5",
+  "news": "No current team news beyond late-Oct injury list",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.8034557031,
+    "why": "Mechanism: Dinamo scored in all 4 home games (2.25/game) and Krasnodar have conceded 1.5/game over their last 10 incl. 4-2, 3-3, 1-2. My p 0.83"
+   }
+  ],
+  "avoid": "Result-sides (big-club clash); Over 1.5 (RPL average below 2.7)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fotmob.com/matches/dinamo-moscow-vs-fc-krasnodar/7bf4k2m#3385389",
+   "https://www.sportsgambler.com/injuries/football/russia-premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72516792",
+  "fx": "Warta Gorzow Wielkopolski v KS Row 1964 Rybnik",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Polish III Liga group 3 (regional); Warta 1W in last 10 (0.6-2.1, lost 0-6, 0-3); ROW Rybnik promoted, won the reverse 5-1 on opening day",
+  "news": "Reverse fixture 1 Aug: ROW 5-1 Warta",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.38,
+    "p": 0.679202468,
+    "why": "Mechanism: fixture-specific - ROW won the reverse 5-1; Warta have scored 0.6/game and won 1 of 10. Draw voids. My p 0.74 (regional, low confidence)"
+   }
+  ],
+  "avoid": "Unders (regional), Away 1X2 (p 0.51)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.rybnik.com.pl/wiadomosci,jesli-witac-sie-z-3-liga-to-tylko-w-taki-sposob-row-rybnik-wygral-debiutancki-mecz-z-warta-foto,wia5-3270-65743.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73806130",
+  "fx": "Al-Merrikh SC (SDN) v Gorilla FC",
+  "sport": "football",
+  "absences": "Al-Merrikh parted ways with coach Darko Novic on 8 Nov",
+  "context": "Sudanese club playing in Rwanda Premier League (war displacement), round 9; Gorilla defensive away (0.5-0.2)",
+  "news": "Coach change at Al-Merrikh; Sofascore lists 16:30 UTC and RPL site 18:30 local (=16:30 UTC) v board 13:00 UTC",
+  "veto": true,
+  "veto_reason": "Kick-off conflict (board 13:00 UTC v 16:30 UTC on Sofascore/RPL site); coach change",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/team/al-merrikh/69320",
+   "https://rwandapremierleague.rw/",
+   "https://www.flashscore.com/match/football/al-merreikh-C4TaurIK/gorilla-Kn4iXZwh/"
+  ]
+ },
+ {
+  "eid": "sr:match:72334426",
+  "fx": "FC Dynamo-Makhachkala v FK Spartak Moscow",
+  "sport": "football",
+  "absences": "Spartak: GK Aleksandr Maksimenko suspended, Igor Dmitriev out 3-4 weeks, Daniil Zorin long-term, Christopher Martins recovering, Ruslan Litvinov doubtful. Makhachkala: Idar Shumakhov (ACL), Aleksandr Sandrachuk out",
+  "context": "Spartak 3rd travel to Kaspiysk where they traditionally struggle; Makhachkala 11th, 0.8 gf, draw-heavy at home vs big sides (1-1 last season)",
+  "news": "Spartak without first-choice keeper Maksimenko (suspended) plus several injuries; preview model 45% draw",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Spartak 1X2 (p 0.65 < 0.75); Spartak DNB 1.19 (GK suspended, Kaspiysk record); Makhachkala team Under 1.5 p 0.79 < 0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://futbolpressa.ru/news/dinamo-makhachkala-vs-spartak-moscow-match-preview",
+   "https://scores24.live/en/soccer/m-21-11-2026-dynamo-makhachkala-spartak-moscow-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72043336",
+  "fx": "GKS Katowice v KKS Lech Poznan",
+  "sport": "football",
+  "absences": "Lech: Mikael Ishak, Pablo Rodriguez, Patrik Walemark (all out; Rodriguez+Walemark 13 G 10 A), Alex Douglas, Joao Moutinho (fracture) out; Sayyadmanesh doubtful. GKS: Paluszek (knee), Jesse Bosch, Straczek out; Zrelak doubtful",
+  "context": "Ekstraklasa round 15 after international break; leaders Lech v GKS who won 5 of 6 at home",
+  "news": "Lech without three key attackers; GKS nearly full strength. Kick-off 14:45 local = board 13:45 UTC confirmed by several sources (venue named Arena Katowice / Furtok stadium - same home ground naming)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.26,
+    "p": 0.757858241,
+    "why": "Mechanism: named absences - Lech lose Ishak, Rodriguez and Walemark (13G/10A between the last two); GKS won 5/6 at home. Lech need a 2+ goal win to beat this. My p 0.80"
+   }
+  ],
+  "avoid": "Lech result-side; Overs (Lech attack depleted)",
+  "confidence": 0.3,
+  "sources": [
+   "https://stolicasportu.pl/newsy/pilka-nozna/ekstraklasa/lech-powaznie-oslabiony-w-ofensywie-na-mecz-z-gks-em-katowice/17608",
+   "https://sport.dziennik.pl/pilka-nozna/ekstraklasa/artykuly/11348873,lech-poznan-powaznie-oslabiony-w-meczu-z-gks-katowice-zagra-bez-trzech-kluczowych-pilkarzy.html",
+   "https://www.mecze24.pl/transmisje/gks-katowice-lech-poznan-gdzie-obejrzec-kiedy-mecz-transmisja-tv-i-online-22-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:76080476",
+  "fx": "GD Vitoria Sernache v Lusitania FC Lourosa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taca de Portugal 4th round knockout; Lourosa (Liga 2) away 4W1D1L v Sernache (lower tier)",
+  "news": "Kick-off 14:00 confirmed (Liga Portugal list)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lourosa DNB p 0.65 (cup upset risk); X2 is a result-side in a knockout",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ligaportugal.pt/news/29160/resultados-da-4.a-eliminatoria-da-taca-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:76080468",
+  "fx": "Gil Vicente Barcelos v SC Olhanense",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taca de Portugal 4th round; Gil Vicente (Liga) v Olhanense (lower tier); winner meets Braga/Guimaraes winner",
+  "news": "Kick-off 14:00 confirmed; referee Diogo Araujo",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 p 0.71 - Gil Vicente scoring only 1.1 overall; possible rotation in cup",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ligaportugal.pt/news/29160/resultados-da-4.a-eliminatoria-da-taca-de-portugal",
+   "https://www.dominiodebola.com/taca-portugal-arbitros-quarta-eliminatoria-novembro-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76080470",
+  "fx": "SC Vianense v Rio Ave FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taca de Portugal 4th round at Estadio Dr. Jose de Matos, Viana do Castelo, 14:00; Vianense home 2.5-1.3 with high-scoring games (3-3, 2-2, 1-3); Rio Ave 3W1D6L conceding 2.1",
+  "news": "Vianense hosts per Record/Dia de Jogo/ESPN (SAPO wrote \"Rio Ave-Vianense\" - treated as typo, multiple sources agree on Viana)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.792078,
+    "why": "Mechanism: fixture-specific last-6 - Vianense games average ~3.7 goals at home, Rio Ave concede 2.1/game; a top-flight side at a lower-tier ground. My p 0.81"
+   }
+  ],
+  "avoid": "Rio Ave result-side (knockout upset risk, poor away form)",
+  "confidence": 0.25,
+  "sources": [
+   "https://diadejogo.pt/noticias/sc-vianense-rio-ave-a-que-horas-onde-ver-2026-11-22",
+   "https://www.espn.com/soccer/schedule/_/league/por.taca.portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:76536152",
+  "fx": "FC Vizela v CD Feirense",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Portugal 2; Feirense 1W1D8L last 10, 0W in 6 away (0.2 gf); Feirense won once in 14 visits to Vizela",
+  "news": "Local sources: Sun 22 Nov 14:00 Lisbon at Vizela; Sofascore/FotMob still list the game as round 11 on 15 Nov",
+  "veto": true,
+  "veto_reason": "Date conflict between aggregators (15 Nov) and local media (22 Nov)",
+  "picks": [],
+  "avoid": "All until date confirmed",
+  "confidence": 0.1,
+  "sources": [
+   "https://diadejogo.pt/noticias/vizela-feirense-a-que-horas-onde-ver-2026-11-22",
+   "https://www.sofascore.com/football/match/vizela-feirense/bPbsLcc",
+   "https://www.radiovizela.pt/noticia-jornada-11-da-liga-2-prossegue-este-domingo-"
+  ]
+ },
+ {
+  "eid": "sr:match:76080472",
+  "fx": "SC Farense v CD Fatima",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taca de Portugal 4th round at Estadio de Sao Luis, Faro 15:00; Farense home 2.4-1.6; Fatima scoring 2.4/game (6-1, 4-1)",
+  "news": "Kick-off 15:00 confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.784654,
+    "why": "Mechanism: both sides in high-scoring runs - Farense home games 4.0 goals avg, Fatima 2.4 gf; favourite p 0.78 at home in a cup tie. My p 0.82"
+   }
+  ],
+  "avoid": "Farense -1.5/1X2 (knockout result-side)",
+  "confidence": 0.25,
+  "sources": [
+   "https://diadejogo.pt/noticias/farense-fatima-a-que-horas-onde-ver-2026-11-22"
+  ]
+ },
+ {
+  "eid": "sr:match:76404716",
+  "fx": "FC Alpendorada v UD Sousense",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Campeonato de Portugal (4th tier, amateur) - league game, not cup; Sousense winless in 8",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (amateur tier, thin data)",
+  "confidence": 0.1,
+  "sources": [
+   "https://placardojogo.com.br/jogos-de-amanha/"
+  ]
+ },
+ {
+  "eid": "sr:match:72874500",
+  "fx": "CD Feirense v SC Braga",
+  "sport": "football",
+  "absences": "not researched (youth)",
+  "context": "U19 national championship",
+  "news": "YOUTH fixture: no conflict checked beyond board",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72874686",
+  "fx": "Uniao de Leiria v Casa Pia AC",
+  "sport": "football",
+  "absences": "not researched (youth)",
+  "context": "U19 national championship",
+  "news": "YOUTH fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73268518",
+  "fx": "Rp FC v CS Maritimo Madeira",
+  "sport": "football",
+  "absences": "not researched (women)",
+  "context": "Women top flight; Maritimo 2W1D7L conceding 2.9 (0-8, 0-5, 0-5 away) but RP FC score only 0.7",
+  "news": "WOMEN fixture: no conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women; goals markets not priced at the gate)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73268522",
+  "fx": "Valadares Gaia FC v SCU Torreense",
+  "sport": "football",
+  "absences": "not researched (women)",
+  "context": "Women top flight; Torreense 7W1D2L",
+  "news": "WOMEN fixture: no 22 Nov confirmation found, no conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women)",
+  "confidence": 0.1,
+  "sources": [
+   "https://desportonofeminino.substack.com/p/a-liga-bpi-regressa-apos-a-pausa"
+  ]
+ },
+ {
+  "eid": "sr:match:74191856",
+  "fx": "SC Braga B v S.C. Rio Tinto",
+  "sport": "football",
+  "absences": "not researched (women reserves)",
+  "context": "Women II Divisao, Braga B",
+  "news": "WOMEN/reserve fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women/reserve)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72388108",
+  "fx": "FC Uta Arad v CS Universitatea Craiova",
+  "sport": "football",
+  "absences": "Craiova: striker Assad Al-Hamlawi did not travel (report says two strikers missing)",
+  "context": "Superliga round 16; Craiova unbeaten in 10 (7W3D, 2.1-0.4), 4W2D away; UTA home 4W1D1L",
+  "news": "Craiova without Al-Hamlawi; kick-off 17:30 local = board 15:30 UTC",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.21,
+    "p": 0.7943213446,
+    "why": "Mechanism: Craiova unbeaten in 10 conceding 0.4/game and unbeaten in 6 away; striker absence hits their goals, not their defence. My p 0.80"
+   }
+  ],
+  "avoid": "Craiova 1X2 (p 0.54) and Overs (striker out)",
+  "confidence": 0.25,
+  "sources": [
+   "https://fanatik.ro/lovitura-dura-pentru-universitatea-craiova-fara-atacanti-la-meciul-cu-uta-exclusiv-21597521",
+   "https://www.digisport.ro/fotbal/liga-1/uta-arad-universitatea-craiova-live-video-duminica-1730-digi-sport-1-oltenii-au-castigat-clar-in-tur-4617389"
+  ]
+ },
+ {
+  "eid": "sr:match:72334434",
+  "fx": "Rodina Moscow v Lokomotiv Moscow",
+  "sport": "football",
+  "absences": "Rodina: Yordi Reyna suspended (yellow cards); Montes and Ramirez doubtful. Lokomotiv: no injuries reported",
+  "context": "RPL round 15 Moscow derby; Lokomotiv debut of new coach Sergei Ovchinnikov after the break; both leaky (Rodina 1.2-1.9, Loko 1.4-2.0); last-6 totals Loko 1,4,4,2,6,6 and Rodina 1,3,3,1,4,6",
+  "news": "New Lokomotiv coach first game; kick-off 19:00 MSK = board 16:00 UTC",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.7950339515,
+    "why": "Mechanism: fixture-specific last-6 - 10 of 12 recent games for the two sides had 2+ goals, both concede ~2/game; new-coach debut. RPL avg below 2.7 so treat as fill. My p 0.82"
+   }
+  ],
+  "avoid": "Result-sides (Moscow derby, new-coach bounce uncertainty)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sports.ru/football/match/lokomotiv-vs-rodina-moscow/",
+   "https://bombardir.ru/prognozy/835698-rpl-shansy-rodiny-i-lokomotiva-na-pobedu-v-matche-15-go-tura",
+   "https://futbolpressa.ru/news/rodina-moskva-vs-lokomotiv-prognoz-sostavy"
+  ]
+ },
+ {
+  "eid": "sr:match:72043342",
+  "fx": "Wisla Plock v Legia Warszawa",
+  "sport": "football",
+  "absences": "Wisla: Markus Haglind-Sangre reported out (conflicting predicted XI). Legia: reported not at full squad",
+  "context": "Ekstraklasa round 15 at ORLEN Stadium 17:30 local; Wisla 12th (15 pts), 3 clear of drop, unbeaten in 4 at home (3W1D, 2.2-1.0); Legia 3rd, lost 4-2 at home to Rakow before the break",
+  "news": "Legia patchy and short of a full squad; Wisla coach Majewski targeting points",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.21,
+    "p": 0.79663,
+    "why": "Mechanism: Wisla unbeaten in 4 at home; Legia 2W2D1L away and shipped 4 at home last time; Legia need a 2+ goal win. My p 0.81"
+   }
+  ],
+  "avoid": "Legia result-side (big club away, p 0.58)",
+  "confidence": 0.25,
+  "sources": [
+   "https://weszlo.com/bukmacherzy/typy/wisla-plock-legia-warszawa-zapowiedz-i-typy-na-pko-bp-ekstraklase-22-11-2026",
+   "https://www.eska.pl/news/sport/wisla-plock-podejmuje-legie-warszawa-trener-majewski-liczy-na-punkty-aa-mGUQ-eMqt-ftta.html",
+   "https://panoramaplock.pl/wielki-mecz-w-plocku-wisla-zmierzy-sie-z-legia-a-trener-liczy-na-wsparcie-kibicow,7353420514110496a"
+  ]
+ },
+ {
+  "eid": "sr:match:73268520",
+  "fx": "FC Porto v Sporting Cp",
+  "sport": "football",
+  "absences": "not researched (women)",
+  "context": "Women Liga BPI big-club clash",
+  "news": "WOMEN fixture: no 22 Nov confirmation found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women, big-club clash)",
+  "confidence": 0.1,
+  "sources": [
+   "https://desportonofeminino.substack.com/p/a-liga-bpi-regressa-apos-a-pausa"
+  ]
+ },
+ {
+  "eid": "sr:match:76080488",
+  "fx": "Estrela Amadora v Portimonense SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taca de Portugal 4th round 18:00; Estrela (Liga) poor at home 1W1D3L; Portimonense (Liga 2) away 4W0D2L, low-scoring",
+  "news": "Kick-off 18:00 confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Estrela DNB (poor home form, knockout); Under 3.5 p 0.74 < 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ligaportugal.pt/news/29160/resultados-da-4.a-eliminatoria-da-taca-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:72388096",
+  "fx": "ACS Champions FC Arges v Fotbal Club FCSB",
+  "sport": "football",
+  "absences": "FCSB: Dennis Politic (meniscus surgery), Juri Cisotti, Arnold Garita, Ronny Labonne, Meriton Korenica out; Ngezana long-term out; Denis Dragus returns. Arges: near full squad, Mario Tudose a doubt",
+  "context": "Superliga round 16 at Mioveni, 20:30 local (=board 18:30 UTC); Arges home 0.6-0.8 (tight); FCSB away 2W0D4L",
+  "news": "FCSB five absent per Reghecampf; Arges president Coman: almost everyone available",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.28,
+    "p": 0.747527,
+    "why": "Mechanism: named absences - FCSB without Politic, Cisotti, Garita, Labonne, Korenica; Arges concede 0.8 at home and FCSB have lost 4 of 6 away. FCSB need a 2+ goal win. My p 0.80"
+   }
+  ],
+  "avoid": "FCSB result-side (depleted, poor away form); Overs (Arges home games low-scoring)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sport.ro/liga-1/cinci-jucatori-out-de-la-fcsb-laurentiu-reghecampf-a-spus-o-inaintea-meciului-cu-fc-arges.html",
+   "https://www.eurosport.ro/fotbal/superliga/2026-2027/laurentiu-reghecampf-a-anuntat-revenirea-lui-denis-dragus-ce-probleme-de-lot-are-inaintea-partidei-cu-fc-arges_sto23357351/story.shtml",
+   "https://golazo.ro/dani-coman-fcsb-fc-arges-superliga-192691"
+  ]
+ },
+ {
+  "eid": "sr:match:76080478",
+  "fx": "UD Leiria v Leca FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taca de Portugal 4th round 19:30; winner hosts FC Porto in the last 16; UD Leiria (Liga 2) 7W2D1L; Leca (Liga 3) solid away 4W1D2L conceding 0.7, low-scoring games",
+  "news": "Kick-off 19:30 confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.810548,
+    "why": "DNB allowed in knockout. Mechanism: tier gap plus Leiria 7W in 10; draw (likely 90-min outcome of a tight cup tie) voids. My p 0.82, low edge"
+   }
+  ],
+  "avoid": "Over 1.5 (Leca games 0-0, 1-0, 0-1); Leiria -1 (Leca concede 0.7)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ligaportugal.pt/news/29160/resultados-da-4.a-eliminatoria-da-taca-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:76080460",
+  "fx": "SCU Torreense v Benfica",
+  "sport": "football",
+  "absences": "Benfica: Fredrik Aursnes, Daniel Banjaqui, Leandro Barreiro out; Tomas Araujo back. Torreense: GK Lucas Paes injured",
+  "context": "Taca de Portugal 4th round; Torreense are the holders (beat Sporting in final); Benfica (Marco Silva) expected to rotate",
+  "news": "Most sources: Torres Vedras, Sun 20:45; one source (World Today Journal) says the Jamor",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Torres Vedras v Jamor); knockout + rotation (no result-side anyway)",
+  "picks": [],
+  "avoid": "All (venue conflict; Benfica handicaps are knockout result-sides)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sporttv.pt/noticias/883450/marco-silva-anuncia-duas-ausencias-para-o-jogo-com-o-torreense",
+   "https://world-today-journal.com/benfica-face-holders-torreense-in-taca-de-portugal-fourth-round/",
+   "https://observador.pt/2026/10/26/sorteio-da-taca-de-portugal-benfica-defronta-campeao-em-titulo-torreense-fc-porto-e-sporting-comecam-em-casa/"
+  ]
+ }
+]

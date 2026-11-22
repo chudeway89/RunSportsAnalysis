@@ -1,0 +1,522 @@
+[
+ {
+  "eid": "sr:match:76800138",
+  "fx": "Jiangxi Dingnan United v Guizhou Guiyang Athletic",
+  "sport": "football",
+  "absences": "none found",
+  "context": "China League One 2026 regular season ended 7 Nov per Wikipedia; Jiangxi Dingnan finished 14th of 16. Fixture appears to be a promotion/relegation playoff tie v Guizhou: Besoccer lists a 8 Nov \"final\" Guizhou won 2-1 plus 15 Nov and 22 Nov meetings; Sofascore names a different Guizhou club (Zhucheng).",
+  "news": "Playoff/knockout context with conflicting dates and opponent identity across sources.",
+  "veto": true,
+  "veto_reason": "Date/opponent conflict between sources (Besoccer vs Sofascore vs Wikipedia season dates); knockout playoff structure unclear",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.besoccer.com/team/matches/guizhou-zhucheng-jingji",
+   "https://en.wikipedia.org/wiki/2026_China_League_One",
+   "https://www.sofascore.com/football/team/heilongjiang-ice-city/196341",
+   "https://www.soccerway.com/china/league-one/"
+  ]
+ },
+ {
+  "eid": "sr:match:74795136",
+  "fx": "Taichung Rock FC v Tatung FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taiwan Football Premier League 2026-27. Taichung Rock (2025 promoted, previously champions of lower tier) in poor form W2 D1 L7, conceding 2.2/g; Tatung draw-heavy (W1 D6 L3, 0.7 gf).",
+  "news": "No news found; FootyStats shows an undated \"Nov 21\" entry for this pairing, no confirmed 22 Nov source.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tatung 1X2 (away p 0.61 < 0.75); Under markets (house p < 0.82)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/football/match/taichung-rock-fc-tatung/qaocsrCzh",
+   "https://footystats.org/clubs/taichung-rock-fc-1546294"
+  ]
+ },
+ {
+  "eid": "sr:match:71998272",
+  "fx": "POFC Botev Vratsa v FC CSKA 1948",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bulgarian Parva Liga 2026/27. Botev Vratsa without a home win in last 4 (0.5 gf at home); CSKA 1948 W6 of last 10, 2.4 gf.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Stats-only edge to CSKA 1948 (+0.5 at 1.24, p 0.77) - no named mechanism, so not picked",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.bulgarian-football.com/season-2026-2027/parva-liga.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73349814",
+  "fx": "PKR Svay Rieng v Angkor Tiger FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cambodian Premier League. Official CPL site lists Preah Khan Reach Svay Rieng v Angkor Tiger at Svay Rieng Stadium, Sun 22 Nov 18:00 local (=11:00 UTC, matches board). Svay Rieng were 2025-26 table leaders; Angkor Tiger 3rd - strong opponent.",
+  "news": "Date/venue confirmed by league site; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Svay Rieng 1X2 at p 0.72 v a top-3 side; -1.5",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cpl-cambodia.com/",
+   "https://soccer365.net/competitions/535/"
+  ]
+ },
+ {
+  "eid": "sr:match:73349818",
+  "fx": "Tiffy Army FC v MOI Kompong Dewa FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cambodian Premier League. CPL site lists Royal Cambodian Armed Forces (Tiffy Army) v MOI Kompong Dewa at Army Stadium, 22 Nov - consistent. Tiffy Army W1 L9 last 10, conceding 4.2/g.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 (p 0.72 < 0.75) and away -1.5 (result side)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cpl-cambodia.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:72466658",
+  "fx": "PFC Montana 1921 v PFC Dobrudzha Dobrich",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bulgarian Vtora Liga; both clubs relegated from Parva Liga in 2025-26. Montana lost all 3 recent home games.",
+  "news": "Kick-off/date conflict: Sofascore and ScoresTV list 21 Nov 12:30 UTC; Betexplorer 22 Nov 13:30 local (11:30 UTC); AiScore lists Stadion Druzhba instead of Ogosta.",
+  "veto": true,
+  "veto_reason": "Date (21 v 22 Nov), kick-off time and venue conflict between sources",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/team/pfk-montana-1921/32642",
+   "https://www.betexplorer.com/football/bulgaria/vtora-liga/fixtures/",
+   "https://m.aiscore.com/head-to-head/soccer-fc-dobrudzha-vs-pfk-montana",
+   "https://www.scorestv.com/en/league/bulgarian-vtora-liga-327/fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:71998282",
+  "fx": "PFC Levski Sofia v FC Lokomotiv 1929 Sofia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Parva Liga; Levski are reigning champions (2025/26). Levski home form weak lately (W1 L2 in last 3 home, incl 0-3); Lokomotiv Sofia W2 D4 L4.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Levski -1.5/-0.5 at 1.21 - stats only, home form poor, no mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.bulgarian-football.com/season-2026-2027/parva-liga.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75591892",
+  "fx": "SC Corinthians SP v Red Bull Bragantino SP",
+  "sport": "football",
+  "absences": "women's fixture - not checked",
+  "context": "Paulistao Feminino play-in 2nd leg, 22 Nov 11:00 BRT (=14:00 UTC, matches), Fazendinha. Bragantino won 1st leg 2-0; Corinthians need a 3-goal win to go straight to the semi.",
+  "news": "Women's knockout second leg; Corinthians must chase.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's - no result picks; Over 2.5 p 0.57 not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.otempo.com.br/sports/futebol-feminino/2026/11/21/corinthians-enfrenta-bragantino-para-buscar-vaga-na-semifinal-do-paulistao-feminino"
+  ]
+ },
+ {
+  "eid": "sr:match:76913296",
+  "fx": "Cruzeiro EC MG v Atletico Mineiro MG",
+  "sport": "football",
+  "absences": "women's fixture - not checked",
+  "context": "Mineiro Feminino derby Cruzeiro v Atletico. No date confirmation found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's derby - no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75619112",
+  "fx": "Pwd Bamenda v Union Sportive D Abong Mbang",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cameroon Elite One 2026-27 early season. PWD Bamenda W1 in last 10; Abong Mbang W0 in last 5. Low-scoring league.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - thin league, no news",
+  "confidence": 0.1,
+  "sources": [
+   "https://footystats.org/cameroon/elite-one"
+  ]
+ },
+ {
+  "eid": "sr:match:75619108",
+  "fx": "Canon Sportif Yaounde v Panthere Sportive",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cameroon Elite One; Canon Yaounde draw-heavy (D5 of 10), Panthere winless away in 5.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://footystats.org/cameroon/elite-one"
+  ]
+ },
+ {
+  "eid": "sr:match:75619110",
+  "fx": "Dynamo de Douala v Unisport Du Haut Nkam",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cameroon Elite One; Dynamo Douala (2025-26 runners-up, 8th after 5 rounds per FootyStats) v Unisport Haut Nkam (lost 7-2 to Dynamo last season).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dynamo 1X2 at p 0.47",
+  "confidence": 0.1,
+  "sources": [
+   "https://footystats.org/cameroon/elite-one",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Elite_One"
+  ]
+ },
+ {
+  "eid": "sr:match:67682118",
+  "fx": "Huachipato v Deportes Concepcion",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga de Primera R28, Estadio Huachipato CAP 12:00 local (=15:00 UTC, matches). Concepcion 8th (38 pts), won last 2 (1-0, 2-0); Huachipato lost 1-0 at La Calera. Neither involved in relegation - low stakes.",
+  "news": "Mid-table, nothing at stake for either side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (p < 0.82); result sides (coin-flip)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lanacion.com.ar/deportes/futbol/huachipato-vs-deportes-concepcion-primera-division-chile-2026-dia-hora-y-como-seguir-online-nid21112026/",
+   "https://www.prensafutbol.cl/huachipato-vs-concepcion-donde-cuando-ver/"
+  ]
+ },
+ {
+  "eid": "sr:match:76881990",
+  "fx": "San Marcos de Arica v Deportes Magallanes",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera B Liguilla de Ascenso. TVN lists MAGALLANES (5th) v San Marcos (6th) on Sun 22 Nov 12:00 - i.e. Magallanes at home, board has San Marcos at home. TVN also lists Antofagasta v San Marcos on 21 Nov.",
+  "news": "Home/venue conflict between board and TVN listing; knockout liguilla.",
+  "veto": true,
+  "veto_reason": "Venue/home-side conflict (TVN lists Magallanes as host) and duplicate San Marcos fixture listing; knockout",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tvn.cl/deportes/futbol-nacional/rumbo-a-primera-revisa-los-cruces-de-la-liguilla",
+   "https://en.wikipedia.org/wiki/2026_Liga_de_Ascenso"
+  ]
+ },
+ {
+  "eid": "sr:match:71998274",
+  "fx": "Botev Plovdiv v PFC CSKA Sofia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Parva Liga: Botev Plovdiv (W7 last 10) v CSKA Sofia (big club, W5 D3 L2). Big-club clash.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big-club rule); Unders (p < 0.82); Over 1.5 p 0.79 below big-club 0.82 threshold",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.bulgarian-football.com/season-2026-2027/parva-liga.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76845396",
+  "fx": "SE Belford Roxo RJ v Serra Macaense FC RJ",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Carioca Serie B2 (amateur/regional). Reverse fixture 11 Oct ended 1-1 (round 8); Serra Macaense W9 D1 in last 10. FFERJ match page exists, no date detail retrieved.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - regional tier",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.gfesporte.com.br/noticias/futebol/belford-roxo-e-serra-macaense-ficam-no-empate-pela-s-c-rie-b2-do-carioca/29593/",
+   "https://www.fferj.com.br/partidas/4115"
+  ]
+ },
+ {
+  "eid": "sr:match:76012074",
+  "fx": "Gremio FB Porto Alegrense RS v Brasil de Farroupilha RS",
+  "sport": "football",
+  "absences": "women's fixture - not checked",
+  "context": "Gaucho Feminino. No date confirmation found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76012136",
+  "fx": "SC Internacional RS v EC Juventude RS",
+  "sport": "football",
+  "absences": "women's fixture - not checked",
+  "context": "Gaucho Feminino Inter v Juventude. No date confirmation found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74975128",
+  "fx": "Alecrim RN v Baraunas RN",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Potiguar 2a Divisao (regional). Alecrim scoring 2.2/g; Baraunas tight away (0.6 gf/0.6 ga).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - regional tier, O1.5 banned in thin leagues",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:66887192",
+  "fx": "CA Paranaense PR v Clube do Remo PA",
+  "sport": "football",
+  "absences": "Athletico: Leonel Picco (susp, 3rd yellow), Kevin Viveros (susp), Gabriel Poveda and Jaderson (muscle injuries); Luiz Gustavo doubtful; Arthur Dias and Dantas return.",
+  "context": "Brasileirao R36. VAVEL (22 Nov): match in doubt after a postponement request due to a problem with the visiting Remo delegation's aircraft.",
+  "news": "Postponement request pending for Athletico v Remo.",
+  "veto": true,
+  "veto_reason": "Possible postponement (Remo travel/aircraft problem, adiamento requested) - date conflict",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.vavel.com/br/futebol/2026/11/22/atletico-pr/1280235-athletico-x-remo-duelo-decisivo-pelo-brasileirao-ganha-duvida-apos-pedido-de-adiamento.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76848804",
+  "fx": "Criciuma EC SC v Fortaleza EC CE",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie B promotion playoff semi-final FIRST LEG, Heriberto Hulse, 16:00 BRT (=19:00 UTC, matches). Fortaleza 4th (65 pts) v Criciuma 5th (62). Aggregate tie goes to the better regular-season side - Fortaleza - who also host the 2nd leg on 28 Nov.",
+  "news": "Two-legged playoff; Fortaleza only need to avoid a big first-leg defeat.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.23,
+    "p": 0.781222,
+    "why": "Settlement/structure mechanism: Fortaleza hold the aggregate tiebreak and home 2nd leg, so they will play this first leg for damage limitation; +1.5 loses only to a Criciuma 2+ goal win in a cagey first leg (Criciuma 1.0 gf/g last 10). Own p ~0.81."
+   }
+  ],
+  "avoid": "Result sides (knockout); Unders below 0.82",
+  "confidence": 0.3,
+  "sources": [
+   "https://diariodonordeste.verdesmares.com.br/opiniao/colunistas/alexandre-mota/fortaleza-conhece-adversario-dos-playoffs-da-serie-b-rodada-final-define-vantagem-1.3804193",
+   "https://www.folhadelondrina.com.br/esporte/playoffs-da-serie-b-comecam-domingo-com-quatro-clubes-na-disputa-3329575e.html",
+   "https://abcdjornal.com.br/esporte/noticia/2026/11/14/duelos-dos-playoffs-da-serie-b-2026-sao-definidos-confira/"
+  ]
+ },
+ {
+  "eid": "sr:match:76908800",
+  "fx": "SC Corinthians SP v SE Palmeiras SP",
+  "sport": "football",
+  "absences": "youth fixture - not checked",
+  "context": "Paulista Sub-20 final 1st leg (derby), 16:00 BRT (=19:00 UTC) Neo Quimica Arena; return 30 Nov at Barueri.",
+  "news": "Youth derby final, date confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.gazetaesportiva.com/campeonatos/paulista/corinthians-x-palmeiras-fpf-define-detalhes-da-final-do-campeonato-paulista-sub-20/",
+   "https://nossopalestra.com.br/noticias/corinthians-x-palmeiras-onde-assistir-final-paulista-sub-20"
+  ]
+ },
+ {
+  "eid": "sr:match:76894692",
+  "fx": "CN Marcilio Dias SC v Joinville EC SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Copa Santa Catarina FINAL 1st leg, 22 Nov 17:00 BRT (=20:00 UTC, matches) in Itajai (FCF: Hercilio Luz / Diarinho: Gigantao das Avenidas - same city). Return 29 Nov in Jaragua do Sul; Joinville hold the better campaign advantage. Marcilio unbeaten in 18 v JEC (9W 9D), won all 3 meetings in 2026.",
+  "news": "Two-legged final; Marcilio Dias long unbeaten run v Joinville.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (knockout); H2H is a regime stat, not a mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://fcf.com.br/definida-a-tabela-da-final-da-copa-santa-catarina-2026/",
+   "https://diarinho.net/materia/677082/Primeira-partida-da-final-entre-Marcilio-e-JEC-sera-no-domingo-em-Itajai"
+  ]
+ },
+ {
+  "eid": "sr:match:74835688",
+  "fx": "CF Atletas do Tirol CE v Palmacia EC CE",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taca Fares Lopes R6, Presidente Vargas 17:00 BRT. Tirol won reverse 1-0; Palmacia lost 8 of 9.",
+  "news": "Some sources give the date as 21 Nov instead of 22 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict (21 v 22 Nov) in sources; regional tier",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://diariodonordeste.verdesmares.com.br/jogada/tabela-da-fares-lopes-2026-e-definida-veja-datas-e-ordem-dos-confrontos-1.3787926",
+   "https://www.cearaenoticia.com.br/2026/10/taca-fares-lopes-2026-tem-rodadas.html"
+  ]
+ },
+ {
+  "eid": "sr:match:67682106",
+  "fx": "Colo-Colo v CD Universidad Catolica",
+  "sport": "football",
+  "absences": "Colo-Colo: Arturo Vidal (ankle overload), Javier Correa (meniscus surgery, out for season), Claudio Aquino (appendicitis), Leandro Hernandez (ankle sprain); Diego Ulloa doubtful/out (rib fracture). UC: Jimmy Martinez suspended (5 yellows).",
+  "context": "Clasico, Liga de Primera R28, Monumental 18:00 local (=21:00 UTC, matches). UC 3rd and close to 2nd.",
+  "news": "Colo-Colo 4-5 absentees incl. Vidal and Correa for the clasico.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (derby rule); Over 1.5 p 0.81 below big-club 0.82 threshold; Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.cooperativa.cl/noticias/deportes/futbol/colo-colo/dura-baja-para-colo-colo-vidal-quedo-fuera-del-clasico-con-universidad/2026-11-21/201744.html",
+   "https://redgol.cl/colocolo/colo-colo-tiene-cuatro-bajas-para-el-clasico-con-universidad-catolica",
+   "https://www.encancha.cl/futbol-chileno/primera/2026/11/18/las-posibles-formaciones-de-colo-colo-y-la-uc-para-el-clasico-en-el-monumental-325617.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73357724",
+  "fx": "Brujas de Salamanca v CD Trasandino de Los Andes",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Chile Segunda Division (third tier).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - thin league",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73203288",
+  "fx": "Santiago City FC v Provincial Osorno",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Chile Segunda Division (third tier).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - thin league",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:66887178",
+  "fx": "Fluminense FC RJ v Mirassol FC SP",
+  "sport": "football",
+  "absences": "Fluminense: Savarino and Canobbio (on international duty). Mirassol: Edson Carioca (suspended, red v Atletico-MG), Neto Moura (3rd yellow), Negueba (knee).",
+  "context": "Brasileirao R36, Maracana 18:30 BRT (=21:30 UTC, matches). Mirassol need points to secure survival; Fluminense chasing the upper table.",
+  "news": "Mirassol without their suspended striker and a starting midfielder plus Negueba; Flu missing two attackers.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.765403,
+    "why": "Named absences: Mirassol lose Edson Carioca (susp), Neto Moura (susp) and Negueba (inj), outweighing Flu missing Savarino/Canobbio; at the Maracana the draw refunds. Own p ~0.78."
+   }
+  ],
+  "avoid": "Home -1 / -1.5 (Mirassol motivated by survival); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17538943/fluminense-x-mirassol-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao",
+   "https://www.ogol.com.br/noticias/fluminense-x-mirassol-horario-escalacoes-e-onde-assistir-brasileirao-22-11/1264358",
+   "https://www.gazetaderiopreto.com.br/mirassol-vai-ao-rio-de-janeiro-e-enfrenta-o-fluminense-neste-domingo/"
+  ]
+ },
+ {
+  "eid": "sr:match:76848806",
+  "fx": "AC Goianiense GO v Vila Nova FC GO",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie B promotion playoff semi-final FIRST LEG, Antonio Accioly 18:30 BRT (=21:30 UTC, matches). Vila Nova 3rd (66 pts) v Atletico-GO 6th (61). Vila Nova hold the aggregate tiebreak and host the 2nd leg on 27 Nov. Goiania derby.",
+  "news": "Two-legged playoff derby; Vila Nova only need to stay within reach.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.24,
+    "p": 0.7759043759,
+    "why": "Structure mechanism: Vila Nova advance on an aggregate draw and host the return, so a cagey first leg; Atletico-GO scored 1.0/g in last 10, so a 2+ goal home win is unlikely. Own p ~0.81."
+   }
+  ],
+  "avoid": "Result sides (knockout/derby); Under 3.5 p 0.80 < 0.82",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.folhadelondrina.com.br/esporte/playoffs-da-serie-b-comecam-domingo-com-quatro-clubes-na-disputa-3329575e.html",
+   "https://abcdjornal.com.br/esporte/noticia/2026/11/14/duelos-dos-playoffs-da-serie-b-2026-sao-definidos-confira/",
+   "https://tmc.com.br/esporte/serie-b-playoffs-datas-horarios-onde-assistir/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887186",
+  "fx": "Red Bull Bragantino SP v CR Vasco da Gama RJ",
+  "sport": "football",
+  "absences": "Bragantino: Fernando and Matheus Fernandes (suspended, 3rd yellow), Davi Gomes (ACL), Fabricio (inj). Vasco: Tche Tche out; Cuesta, Barros, Nuno Moreira reported injured/doubtful (sources disagree).",
+  "context": "Brasileirao R36, Braganca Paulista 19:30 BRT (=22:30 UTC, matches). Sources disagree on Bragantino coach (Seabra v Mancini).",
+  "news": "Bragantino missing two suspended midfielders; Vasco absences unclear.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (coin-flip, data conflict on line-ups); Over 1.5 (league avg < 2.7)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ogol.com.br/noticias/red-bull-bragantino-x-vasco-horario-escalacoes-e-onde-assistir-brasileirao-22-11/1264397",
+   "https://paponacolina.com.br/bragantino-x-vasco-onde-assistir-horario/",
+   "https://www.tribunadosertao.com.br/esportes/2026/11/21/1027152-red-bull-bragantino-x-vasco-escalacoes-desfalques-retrospecto-e-onde-assistir"
+  ]
+ }
+]

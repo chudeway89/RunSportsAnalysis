@@ -1,0 +1,614 @@
+[
+ {
+  "eid": "sr:match:74795134",
+  "fx": "Taiwan Power Company v Tainan City",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taiwan TFPL 2026-27; Tainan City (Taiwan Steel TSG) are the league powerhouse and won 3-0 on Nov 1; Taipower lost 0-3 to Kaohsiung on Nov 1.",
+  "news": "No team news found; fixture not independently confirmed for Nov 22 (no conflicting date found either).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.8001,
+    "why": "Mechanism: league-power mismatch (Taiwan Steel/Tainan City perennial champions; Taipower beaten 0-3 last round). Fill-grade, statistics plus club strength. My p 0.80."
+   }
+  ],
+  "avoid": "Tainan -1.5 / win-to-nil; Under 3.5 (p 0.73 < 0.82).",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Taiwan_Football_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72300890",
+  "fx": "FK Viktoria Zizkov v SFC Opava",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Czech FNL, Zizkov 13th (15 pts) v Opava 10th (18 pts); confirmed 09:15 UTC at Seifertova ulice.",
+  "news": "No team news; Zizkov and Opava have both scored in 7 of last 8 H2H.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (near coin-flip, both draw-heavy); Over 1.5 at 0.80 with Zizkov scoring 1.0/game.",
+  "confidence": 0.15,
+  "sources": [
+   "https://scores24.live/en/soccer/m-21-11-2026-viktoria-zizkov-opava-prediction",
+   "https://onefootball.com/en/match/2695453",
+   "https://www.chnliga.cz/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114375780",
+  "fx": "FC Kaohsiung v AC Taipei",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taiwan TFPL; Kaohsiung (Attackers) beat Taipower 3-0 on Nov 1. AC Taipei = Sunny Bank AC Taipei.",
+  "news": "No team news found; no Sportradar form; fixture not independently confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: no data and no news.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Taiwan_Football_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73070214",
+  "fx": "NK Croatia Zmijavci v NK Karlovac 1919",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Croatia Prva NL (2nd tier). Zmijavci 22 pts from 12.",
+  "news": "DATE CONFLICT: Betexplorer lists Zmijavci v Karlovac on 21 Nov 17:00, LiveSoccerTV 21 Nov 11:00; board says 22 Nov 11:45 UTC.",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict between sources (21 Nov vs board 22 Nov).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/croatia/prva-nl/",
+   "https://www.livesoccertv.com/teams/croatia/croatia-zmijavci/",
+   "https://jadranlp.hr/"
+  ]
+ },
+ {
+  "eid": "sr:match:72796034",
+  "fx": "FK Pardubice v FC Zbrojovka Brno",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Czech 1. Liga; Pardubice 7-1-2 in last 10 (2.4 GF/0.9 GA), Brno 3-1-6 conceding 2.1. Pardubice last 6 totals 5,3,5,3,3,2; Brno 4,3,4,4,3,1.",
+  "news": "No team news found for this round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7916062602,
+    "why": "Fixture-specific last-6: 11 of 12 games for the two sides had 2+ goals; Brno concede 2.1/game away-heavy. Czech top flight ~2.7 goals avg. My p 0.81."
+   }
+  ],
+  "avoid": "Under markets; Brno away result.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fotbalportal.cz/cesko/synot-liga/81969-sparta-liberec-preview-kusej-hoever-protiutoky-letna/",
+   "https://www.fotbalzpravy.cz/rubriky/cesko/chance-liga-preview-2026-11-22_5200.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72652514",
+  "fx": "FC Midtjylland v HB KOEGE W",
+  "sport": "football",
+  "absences": "n/a (women)",
+  "context": "Danish women A-Liga; K\u00f8ge W favourites (p 0.58), H2H 0-4 to K\u00f8ge.",
+  "news": "Women's fixture; LiveScore lists 22 Nov 12:00 (matches board); no other source.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No picks on women's fixtures; not a clear enough mismatch for goals.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livescores.com/football/2026-11-22/",
+   "https://www.besoccer.com/competition/info/2_division_cyprus",
+   "https://24live.com/page/sport/event/soccer-5/458?lang=en"
+  ]
+ },
+ {
+  "eid": "sr:match:73070216",
+  "fx": "NK Jadran LP v HNK Cibalia Vinkovci",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Croatia Prva NL (2nd tier).",
+  "news": "DATE CONFLICT: Jadran official site says Sun 22 Nov 13:30 local (matches board 12:30 UTC) but Betexplorer lists 21 Nov 17:00.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (club site 22 Nov vs Betexplorer 21 Nov).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/croatia/prva-nl/",
+   "https://www.livesoccertv.com/teams/croatia/croatia-zmijavci/",
+   "https://jadranlp.hr/"
+  ]
+ },
+ {
+  "eid": "sr:match:74084590",
+  "fx": "Aep Polemidion v Anagennisi Deryneia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cyprus 2nd Division.",
+  "news": "DATE CONFLICT: LiveScore 22 Nov 12:30, BeSoccer 21 Nov 13:30, 24live 22 Nov 04:30.",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict between sources.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livescores.com/football/2026-11-22/",
+   "https://www.besoccer.com/competition/info/2_division_cyprus",
+   "https://24live.com/page/sport/event/soccer-5/458?lang=en"
+  ]
+ },
+ {
+  "eid": "sr:match:74084598",
+  "fx": "Akritas Chlorakas v Doxa Katokopias",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cyprus 2nd Division; Akritas 1-3-6 (0.8 GF), Doxa 5-2-3.",
+  "news": "LiveScore confirms 22 Nov 12:30; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin league, home side scoring 0.8; no Overs, no Unders (p too low).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livescores.com/football/2026-11-22/",
+   "https://www.besoccer.com/competition/info/2_division_cyprus",
+   "https://24live.com/page/sport/event/soccer-5/458?lang=en"
+  ]
+ },
+ {
+  "eid": "sr:match:72300894",
+  "fx": "FC Vlasim v 1.SK Prostejov",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Czech FNL; Vlasim ~5th (21 pts), Prostejov ~14th (14 pts).",
+  "news": "No team news; fixture date not independently confirmed (no conflict found).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vlasim result at p 0.51-0.68 (statistics only).",
+  "confidence": 0.15,
+  "sources": [
+   "https://scores24.live/en/soccer/m-21-11-2026-viktoria-zizkov-opava-prediction",
+   "https://onefootball.com/en/match/2695453",
+   "https://www.chnliga.cz/"
+  ]
+ },
+ {
+  "eid": "sr:match:72300888",
+  "fx": "SK Kladno v FC Vysocina Jihlava",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Czech FNL; Jihlava ~3rd (26 pts) v Kladno ~12th (17 pts). Kladno last 6 totals 3,4,4,2,5,1; Jihlava 4,4,7,2,4,4; Kladno home 0-1-3.",
+  "news": "No team news; fixture date not independently confirmed (no conflict found).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8118362734,
+    "why": "Fixture-specific last-6: 11 of 12 games 2+ goals, Jihlava averaging 4.3 total in last 6, Kladno conceding 1.8. My p 0.83. 2nd tier, keep as fill."
+   }
+  ],
+  "avoid": "Under markets; Kladno result.",
+  "confidence": 0.2,
+  "sources": [
+   "https://scores24.live/en/soccer/m-21-11-2026-viktoria-zizkov-opava-prediction",
+   "https://onefootball.com/en/match/2695453",
+   "https://www.chnliga.cz/"
+  ]
+ },
+ {
+  "eid": "sr:match:73160480",
+  "fx": "Olympiakos Nicosia v AEK Larnaca",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cyprus 1st Div: AEK Larnaca top (17 pts after 8) v Olympiakos Nicosia (6 pts, relegation-group zone, 2-6-2 drawish). No midweek European fixture (post international break).",
+  "news": "No team news found for this round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.759866,
+    "why": "Mechanism: table gap (leaders 17 pts v 6 pts), AEK 7-2-1 last 10 conceding 0.9; DNB covers Olympiakos draw habit (6 draws in 10). Statistics-led fill. My p 0.77."
+   }
+  ],
+  "avoid": "AEK 1X2 (p 0.59, away <0.75); Olympiakos team totals.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Cypriot_First_Division",
+   "https://www.foxbet.gr/prognostika/454840-karmiotissa-fc-ael-lemesou"
+  ]
+ },
+ {
+  "eid": "sr:match:71925098",
+  "fx": "AC Horsens v Silkeborg IF",
+  "sport": "football",
+  "absences": "Horsens: Herdonsson and Saine one yellow from a ban (not absent).",
+  "context": "Danish Superliga; last H2H 3-3; Silkeborg 1-1-3 away.",
+  "news": "No injury/suspension news found for this round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides near coin-flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportsgambler.com/betting-tips/football/fc-nordsjaelland-vs-fc-copenhagen-prediction-lineups-odds-2026-11-22/",
+   "https://tipsbladet.dk/nyhed/superliga/soenderjyske-ob-2",
+   "https://superstats.dk/kort/fare"
+  ]
+ },
+ {
+  "eid": "sr:match:71925102",
+  "fx": "Viborg FF v Randers FC",
+  "sport": "football",
+  "absences": "Randers: Sabil Hansen on card watch; no confirmed absences found.",
+  "context": "Danish Superliga; Viborg 0.62 fav; Randers 2-1-7 last 10 (1.2 GF/2.1 GA), away 2-1-3; last H2H 2-0 Viborg.",
+  "news": "No team news found for this round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.774132,
+    "why": "Randers in poor run (2 wins in 10, conceding 2.1); DNB removes draw. Statistics-only = fill. My p 0.77."
+   }
+  ],
+  "avoid": "Viborg -1.5; Randers team Over 0.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsgambler.com/betting-tips/football/fc-nordsjaelland-vs-fc-copenhagen-prediction-lineups-odds-2026-11-22/",
+   "https://tipsbladet.dk/nyhed/superliga/soenderjyske-ob-2",
+   "https://superstats.dk/kort/fare"
+  ]
+ },
+ {
+  "eid": "sr:match:71913134",
+  "fx": "GNK Dinamo Zagreb v NK Istra 1961",
+  "sport": "football",
+  "absences": "Dinamo: Scott McKenna and Robert Mudrazija injured; Iker Almena suspended (red card).",
+  "context": "HNL; Istra in strong form (6-2-2 last 10, won 3-1 at Osijek) and drew 2-2 with Dinamo earlier this season.",
+  "news": "Dinamo without McKenna, Mudrazija and suspended Almena; Istra in form and drew 2-2 v Dinamo earlier.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dinamo 1X2/-1.5 (fragile favourite with absences v in-form Istra); Istra team Under 1.5 (Istra scored 2 v Dinamo earlier).",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportske-kladionice.com/dinamo-zagreb-vs-istra-1961-tipovi-savjeti-i-kvote-22-11-2026-1500"
+  ]
+ },
+ {
+  "eid": "sr:match:72796028",
+  "fx": "1. FC Slovacko Uherske Hradiste v FC Hradec Kralove",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Czech 1. Liga; Slovacko 0-2-3 at home conceding 1.8; Hradec 3-1-1 away. Slovacko last 6 totals 1,4,5,6,3,2; Hradec 5,4,4,3,0,6.",
+  "news": "Match confirmed 15:00 local; no absence info found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.7760782102,
+    "why": "Fixture-specific last-6: 10 of 12 games 2+ goals, Slovacko leaking (1.8 GA). My p 0.80."
+   }
+  ],
+  "avoid": "Result sides (coin-flip).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fotbalportal.cz/cesko/synot-liga/81969-sparta-liberec-preview-kusej-hoever-protiutoky-letna/",
+   "https://www.fotbalzpravy.cz/rubriky/cesko/chance-liga-preview-2026-11-22_5200.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73160478",
+  "fx": "Karmiotissa FC v AEL Limassol",
+  "sport": "football",
+  "absences": "AEL: Mouge injured, Jovetic doubtful. Karmiotissa: Elhmidi and Tachtsidis injured.",
+  "context": "Cyprus 1st Div; Karmiotissa 6 pts (relegation group), AEL 4th 15 pts.",
+  "news": "AEL without Mouge, Jovetic doubtful (attack weakened); Karmiotissa missing Elhmidi and Tachtsidis.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "AEL DNB/1X2 with Jovetic doubtful; Under 4.5 p 0.817 < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Cypriot_First_Division",
+   "https://www.foxbet.gr/prognostika/454840-karmiotissa-fc-ael-lemesou"
+  ]
+ },
+ {
+  "eid": "sr:match:71925106",
+  "fx": "SonderjyskE v Odense Boldklub",
+  "sport": "football",
+  "absences": "SonderjyskE: Sefer Emini suspended; Ebube Duru injured; Ismail Seydi back from suspension. OB: James Gomez one yellow from ban.",
+  "context": "Danish Superliga; SonderjyskE sacked coach before the break, interim duo Poulsen/Pearce in charge. SonderjyskE concede 2.3/game; last 6 totals 4,2,6,4,3,6.",
+  "news": "SonderjyskE under interim coaches after sacking; Emini out, Seydi returns; Duru injured.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.81374,
+    "why": "SonderjyskE defence (2.3 GA, all last 6 games 2+ goals) plus coaching upheaval; Danish Unders historically over-rated (UBIAS). My p 0.83."
+   }
+  ],
+  "avoid": "Result sides (new interim coach = variance).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsgambler.com/betting-tips/football/fc-nordsjaelland-vs-fc-copenhagen-prediction-lineups-odds-2026-11-22/",
+   "https://tipsbladet.dk/nyhed/superliga/soenderjyske-ob-2",
+   "https://superstats.dk/kort/fare"
+  ]
+ },
+ {
+  "eid": "sr:match:74735334",
+  "fx": "Manta FC v Delfin SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "LigaPro hexagonal (fecha 7), first round back after FIFA break (transition). Manta v Delfin at Estadio Jocay 11:30 ECT = 16:30 UTC (matches board).",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Post-break; low-scoring Ecuador profile, no Overs; no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://elcrackdeportes.com/2026/11/vuelve-ligapro-fecha-fifa-idv-ldu-aucas-barcelona-ecuador-macara-conmebol-libertadores",
+   "https://www.betexplorer.com/football/ecuador/liga-pro/",
+   "https://www.elcomercio.com/deportes/futbol/libertadores-barcelona-liga-aucas-cupos-ecuador/",
+   "https://www.benditofutbol.com/deportes/liga-quito-jugara-superclasico-capitalino-aucas-sin-hinchada-visitante/"
+  ]
+ },
+ {
+  "eid": "sr:match:76906754",
+  "fx": "AD Sarchi v Municipal Grecia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Costa Rica Liga de Ascenso (2nd tier); Grecia low-scoring (1.0/0.9).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin league; no Overs, no results.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.teletica.com/liga-de-ascenso/inter-san-carlos-lo-consigue-y-es-el-nuevo-inquilino-de-la-primera-division_409330"
+  ]
+ },
+ {
+  "eid": "sr:match:71913136",
+  "fx": "HNK Rijeka v HNK Gorica",
+  "sport": "football",
+  "absences": "none found",
+  "context": "HNL; Rijeka 5-1-4 scoring 2.3; Gorica 1-5-4 conceding 2.1. Rijeka last 6 totals 4,4,2,3,5,3; Gorica 3,8,5,0,2,3.",
+  "news": "No team news found for this fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.783067,
+    "why": "Rijeka scoring 2.3/game, Gorica conceding 2.1; 11 of 12 recent games 2+ goals. My p 0.80."
+   }
+  ],
+  "avoid": "Gorica +2.5 (fav p 0.70 rout class); Under markets.",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportske-kladionice.com/dinamo-zagreb-vs-istra-1961-tipovi-savjeti-i-kvote-22-11-2026-1500"
+  ]
+ },
+ {
+  "eid": "sr:match:73160484",
+  "fx": "Apollon Limassol v Als Omonia",
+  "sport": "football",
+  "absences": "Not confirmed for this round (Apollon absence articles found were undated/old).",
+  "context": "Cyprus 1st Div; Apollon 2nd (16 pts) at home (2-2-0). NOTE opponent is ALS Omonia (Omonia 29M Aradippou), NOT Omonia Nicosia; search results about Omonia Nicosia are irrelevant. Omonia Aradippou away 1-1-3 conceding 1.9.",
+  "news": "No confirmed team news; name ambiguity resolved by prices (Apollon 1.16).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.792551,
+    "why": "Apollon scoring 2.1/game, opponent conceding 1.9 and 1-1-3 away; Apollon team 2+ goals. My p 0.80."
+   }
+  ],
+  "avoid": "Apollon -2.5/win to nil; Under 4.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Cypriot_First_Division",
+   "https://www.foxbet.gr/prognostika/454840-karmiotissa-fc-ael-lemesou"
+  ]
+ },
+ {
+  "eid": "sr:match:72796022",
+  "fx": "Sparta Prague v FC Slovan Liberec",
+  "sport": "football",
+  "absences": "Sparta: Ki-Jana Hoever suspended (4 yellows); Andersen, Karabec, Penxa, Rynes, Uchenna injured; Sevinsky doubtful; Mercado knock. Liberec: Baboula, Knapik, Krollis injured; Drakpe and Faye doubtful.",
+  "context": "Czech 1. Liga 18:00 local at Letna. Liberec 7-1-2 last 10 conceding 0.5 and strong away (4-1-1); Sparta 3-4-3.",
+  "news": "Sparta short of 6-8 players incl. suspended Hoever; Liberec in excellent defensive form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sparta 1X2/DNB (research-flagged fragile favourite, R4: skip); Liberec +1.5 (fav p 0.55 rule); Unders (p < 0.82).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fotbalportal.cz/cesko/synot-liga/81969-sparta-liberec-preview-kusej-hoever-protiutoky-letna/",
+   "https://www.fotbalzpravy.cz/rubriky/cesko/chance-liga-preview-2026-11-22_5200.html"
+  ]
+ },
+ {
+  "eid": "sr:match:71925096",
+  "fx": "Nordsjaelland v Copenhagen",
+  "sport": "football",
+  "absences": "Nordsjaelland: Peter Ankersen (yellow cards), Araphat Mohammed, Garananga injured, Salquist knock. Copenhagen: Magnus Mattsson (ACL), possibly Huescas.",
+  "context": "Danish Superliga big-club clash.",
+  "news": "VENUE CONFLICT: SportsGambler lists Nordsjaelland v Copenhagen 22 Nov, but FotMob Nordsjaelland page lists the next fixture away at FC Kobenhavn; Mattsson also listed under both clubs.",
+  "veto": true,
+  "veto_reason": "Venue (home/away) conflict between sources plus data conflict.",
+  "picks": [],
+  "avoid": "All markets; big-club clash anyway.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportsgambler.com/betting-tips/football/fc-nordsjaelland-vs-fc-copenhagen-prediction-lineups-odds-2026-11-22/",
+   "https://tipsbladet.dk/nyhed/superliga/soenderjyske-ob-2",
+   "https://superstats.dk/kort/fare",
+   "https://www.fotmob.com/vi/teams/10202/overview/nordsjaelland"
+  ]
+ },
+ {
+  "eid": "sr:match:76940984",
+  "fx": "CD Fuerte San Francisco v CD Inca Aruba U20",
+  "sport": "football",
+  "absences": "n/a (reserves/U20)",
+  "context": "El Salvador reserves fixture.",
+  "news": "Reserve/U20 fixture; Salvadoran first-team pairing listed by one source on 21 Nov (date conflict for the pairing).",
+  "veto": true,
+  "veto_reason": "Reserve/U20 side and date conflict for this pairing.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballstreams.com/matches/fuerte-san-francisco-vs-cd-inca-aruba-20261121/",
+   "https://diarioelsalvador.com/dedeportes/inca-aruba-aprovecho-su-localia-para-doblegar-al-fuerte-san-francisco/854811"
+  ]
+ },
+ {
+  "eid": "sr:match:74735330",
+  "fx": "Orense SC v Mushuc Runa SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "LigaPro hexagonal fecha 7, first round after FIFA break. Orense v Mushuc Runa, Estadio 9 de Mayo Machala, 14:00 ECT = 19:00 UTC (matches board). Mushuc 0-2-3 away.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Post-break transition; Orense DNB p 0.73 statistics only; Unders p < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://elcrackdeportes.com/2026/11/vuelve-ligapro-fecha-fifa-idv-ldu-aucas-barcelona-ecuador-macara-conmebol-libertadores",
+   "https://www.betexplorer.com/football/ecuador/liga-pro/",
+   "https://www.elcomercio.com/deportes/futbol/libertadores-barcelona-liga-aucas-cupos-ecuador/",
+   "https://www.benditofutbol.com/deportes/liga-quito-jugara-superclasico-capitalino-aucas-sin-hinchada-visitante/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075410",
+  "fx": "CD Fuerte San Francisco Morazan v CD Inca",
+  "sport": "football",
+  "absences": "none found",
+  "context": "El Salvador Primera; Inca beat Fuerte 2-1 on 19 Sep.",
+  "news": "DATE CONFLICT: footballstreams lists Fuerte San Francisco v Inca on 21 Nov at Estadio Correcaminos; board 22 Nov 21:00 UTC.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (21 Nov vs 22 Nov).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballstreams.com/matches/fuerte-san-francisco-vs-cd-inca-aruba-20261121/",
+   "https://diarioelsalvador.com/dedeportes/inca-aruba-aprovecho-su-localia-para-doblegar-al-fuerte-san-francisco/854811"
+  ]
+ },
+ {
+  "eid": "sr:match:74735118",
+  "fx": "LDU Quito v SD Aucas",
+  "sport": "football",
+  "absences": "none found (no squad lists published in results)",
+  "context": "Quito Superclasico (derby), hexagonal fecha 7, 16:30 ECT at Rodrigo Paz Delgado (matches board 21:30 UTC). LDU, Aucas and U. Catolica level on 54 pts for last Libertadores spot; no away fans; last meeting 1-1 (17 Oct). First round after FIFA break.",
+  "news": "Derby with Libertadores place at stake, both level on points; no away supporters allowed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (derby rule); Unders (p 0.74 < 0.82).",
+  "confidence": 0.2,
+  "sources": [
+   "https://elcrackdeportes.com/2026/11/vuelve-ligapro-fecha-fifa-idv-ldu-aucas-barcelona-ecuador-macara-conmebol-libertadores",
+   "https://www.betexplorer.com/football/ecuador/liga-pro/",
+   "https://www.elcomercio.com/deportes/futbol/libertadores-barcelona-liga-aucas-cupos-ecuador/",
+   "https://www.benditofutbol.com/deportes/liga-quito-jugara-superclasico-capitalino-aucas-sin-hinchada-visitante/"
+  ]
+ },
+ {
+  "eid": "sr:match:72053704",
+  "fx": "Inter San Carlos v Sporting FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Costa Rica Primera; Inter San Carlos newly promoted (0-3-2 home), Sporting 6-1-3. Inter last 6 totals 2,2,5,4,5,3; Sporting 2,4,1,6,6,6.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.772331,
+    "why": "Promoted Inter concede 1.9, Sporting games averaging 4.2 goals in last 6; 11 of 12 recent games 2+ goals. My p 0.80."
+   }
+  ],
+  "avoid": "Sporting away 1X2 (p 0.42).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.teletica.com/liga-de-ascenso/inter-san-carlos-lo-consigue-y-es-el-nuevo-inquilino-de-la-primera-division_409330"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114669212",
+  "fx": "Vega Real v Cibao CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Dominican Liga Mayor; Cibao won 2-1 v Vega Real on 5 Sep; no Sportradar form.",
+  "news": "No news found; H2H records conflict between sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: no form data, thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://eldia.com.do/cibao-fc-se-impone-a-atletico-vega-real-2-1/"
+  ]
+ }
+]
