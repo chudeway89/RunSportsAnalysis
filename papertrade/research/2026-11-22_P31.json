@@ -1,0 +1,658 @@
+[
+ {
+  "eid": "sr:match:73113804",
+  "fx": "AE Kavalas v AO Amintas",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Greek women A1; near pick-em (house Amintas 0.54)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's side: no picks; checked only date/venue; tip 10:30 UTC may already be live",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73113800",
+  "fx": "AEO Proteas Voulas v Aris Thessaloniki",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Greek women A1; Voulas 0.89 fav, Aris 1-6 last 7",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's side: no picks; checked only date/venue",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74750504",
+  "fx": "AO Mykonoy v Vikos Falcon BC",
+  "sport": "basketball",
+  "absences": "none named; Vikos asst coach Aggelou: preparation completed without problems",
+  "context": "GBL R8 bottom-two \"final\" for survival: Mykonos 1-6, Vikos 1-6; 13:00 local Ano Mera hall (=11:00 UTC, matches board)",
+  "news": "Relegation six-pointer, both 1-6; Vikos fully fit; Mykonos no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-10.5",
+    "desc": "Away (+10.5)",
+    "odds": 1.28,
+    "p": 0.748442,
+    "why": "two equal 1-6 sides; Vikos credible receiver, Mykonos avg margin at home -4.6; my p 0.78"
+   },
+   {
+    "mid": "225",
+    "spec": "total=151.5",
+    "desc": "Over 151.5",
+    "odds": 1.25,
+    "p": 0.7695767112,
+    "why": "Mykonos games avg 158, Vikos 166 (Vikos conceded 104 and 93 recently); my p 0.78"
+   }
+  ],
+  "avoid": "ML either side (coin flip)",
+  "confidence": 0.3,
+  "sources": [
+   "https://super-fm.gr/152651/kyriaki-stis-13-00-to-ntermpi-oyragon-mykonos-vikos-falcons/",
+   "https://epirusonline.gr/eidiseis/athlitismos/sti-mykono-gia-ti-deyteri-niki-oi-vikos-falcons/"
+  ]
+ },
+ {
+  "eid": "sr:match:74131976",
+  "fx": "KK Mega Basket Belgrade v KK Studentski centar Podgorica",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ABA R9, 12:00 local (=11:00 UTC). Mega 4-6 (lost 87-98 at home to Dubai R7); SC Podgorica 2-8, 0-5 away",
+  "news": "no team news found; schedule confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=163.5",
+    "desc": "Over 163.5",
+    "odds": 1.27,
+    "p": 0.751225,
+    "why": "Mega games avg 173, SC 172; SC away avg 78-93 = 171; my p 0.78"
+   }
+  ],
+  "avoid": "SC +10.5 (SC lose away by ~15 avg)",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportsport.ba/raspored/kosarka/medunarodni/aba-liga/36",
+   "https://www.eurobasket.com/ABA-League/news/1040965/ABA-League-Round-7-Regular-Season-Buducnost-takes-over-a-leadership-position"
+  ]
+ },
+ {
+  "eid": "sr:match:73734730",
+  "fx": "BK Uralmash Yekaterinburg v Enisey Krasnoyarsk",
+  "sport": "basketball",
+  "absences": "none named",
+  "context": "VTB, 14:00 MSK (=11:00 UTC). Enisey 1-7, 10th, 5 straight losses; Uralmash won 88-81 in Krasnoyarsk on Nov 14 (Clemons 32)",
+  "news": "Uralmash beat Enisey away 8 days ago; Enisey on 5-game losing run",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.7702275711,
+    "why": "fresh H2H 88-81 away win + Enisey 5-game skid, Clemons in form; my p 0.80"
+   }
+  ],
+  "avoid": "totals (p<0.74)",
+  "confidence": 0.3,
+  "sources": [
+   "https://sportmaps.ru/2026/11/22/edinaya-liga-raspisanie-matchej-22-noyabrya/",
+   "https://www.sport-express.ru/basketball/vtb-league/news/enisey-uralmash-schet-i-rezultat-matcha-edinoy-ligi-vtb-14-noyabrya-2026-2474787/"
+  ]
+ },
+ {
+  "eid": "sr:match:74131790",
+  "fx": "KK Crvena zvezda Belgrade v KK Cibona",
+  "sport": "basketball",
+  "absences": "none found (Zvezda EuroLeague week: rotation possible)",
+  "context": "ABA R9 Sunday 22.11 confirmed by aba-liga.com; Cibona 8-2 in last 10, Zvezda 5-0 at home avg 97.6-79.2",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=165.5",
+    "desc": "Over 165.5",
+    "odds": 1.28,
+    "p": 0.748242,
+    "why": "Zvezda home games avg 177, Cibona games avg 169; Cibona scored 102 at Siroki R7; my p 0.78"
+   }
+  ],
+  "avoid": "ML 1.07 too short; Cibona +19.5 catch (15+ ban); Zvezda -9.5 (EuroLeague rotation)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.aba-liga.com/match/66/21/1/Overview/q1/1/home/crvena-zvezda-meridianbet-cibona/",
+   "https://www.aba-liga.com/calendar/"
+  ]
+ },
+ {
+  "eid": "sr:match:74750746",
+  "fx": "AS Karditsas v BC Olympiakos Piraeus",
+  "sport": "basketball",
+  "absences": "Olympiacos absences reported in preview, names not confirmed",
+  "context": "GBL R8, 15:00 local (=13:00 UTC) per Olympiacos schedule; Karditsa 4-1 at home; Olympiacos in EuroLeague week (rotation risk)",
+  "news": "Olympiacos travel with some absences; Karditsa strong at home",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=147.5",
+    "desc": "Over 147.5",
+    "odds": 1.24,
+    "p": 0.776593,
+    "why": "Olympiacos games avg 159, Karditsa 152; even rotated Oly scores ~80; my p 0.78"
+   }
+  ],
+  "avoid": "Olympiacos -8.5/-9.5 (rotation + Karditsa 4-1 home); ML 1.07 too short",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.olympiacosbc.gr/el/agones/ellada/programma/2026.html",
+   "https://www.reader.gr/athlitismos/karditsa-olympiakos-ti-ora-paizoyn-simera-kanali-toy-agona/670077"
+  ]
+ },
+ {
+  "eid": "sr:match:72660020",
+  "fx": "SG Braunschweig v Bba Hagen",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProB Nord MD10, 15:00 local (=14:00 UTC). Braunschweig 0-3 at home; Hagen 6-3",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hagen ML 1.08 too short; totals p 0.67",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.2basketballbundesliga.de/spielplaene-prob/",
+   "https://www.sport.de/basketball/deutschland-pro-b/spielplan/"
+  ]
+ },
+ {
+  "eid": "sr:match:73734728",
+  "fx": "CSKA Moscow v BC Uniks Kazan",
+  "sport": "basketball",
+  "absences": "none named; Uniks rebuilt roster (only Belenitsky, Zakharov, Reynolds, Shved remain from last final)",
+  "context": "VTB top clash, 17:00 MSK (=14:00 UTC) Megasport. CSKA 10-0, only unbeaten side, 7-0 home, swept Uniks 4-0 in last final; Uniks 8-2, 3rd",
+  "news": "CSKA unbeaten 10-0; Uniks coach Karakash previews; Reynolds broke Uniks scoring record",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7634786089,
+    "why": "CSKA 10-0 (7-0 home, avg +20), 4-0 final sweep vs Uniks, Uniks roster turned over; my p 0.79"
+   }
+  ],
+  "avoid": "Uniks catches; totals (p<0.70)",
+  "confidence": 0.3,
+  "sources": [
+   "https://cskabasket.com/game/4687/",
+   "https://www.championat.com/basketball/news-6708952-trener-uniksa-karakash-nazval-glavnuyu-opasnost-cska-pered-matchem-edinoj-ligi.html",
+   "https://sportmaps.ru/2026/11/22/edinaya-liga-raspisanie-matchej-22-noyabrya/"
+  ]
+ },
+ {
+  "eid": "sr:match:72905672",
+  "fx": "Pharmaserv Marburg v Herner TC",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "DBBL women MD7, 15:30 local (=14:30 UTC) per DBBL PDF",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's side: no picks; checked only date/venue; ML 1.06 too short",
+  "confidence": 0.1,
+  "sources": [
+   "https://toyota-dbbl.de/app/uploads/2026/07/DBBL_Spielplan_1_DBBL_2026-27_final.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72660478",
+  "fx": "Bbc Coburg v Fraport Skyliners II",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProB Süd MD10, 16:00 local (=15:00 UTC). Coburg 2-8; Skyliners Juniors 5-5 (reserve/development side of Frankfurt)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Skyliners II is a reserve side: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.2basketballbundesliga.de/spielplaene-prob/",
+   "https://www.sport.de/basketball/deutschland-pro-b/spielplan/"
+  ]
+ },
+ {
+  "eid": "sr:match:72660476",
+  "fx": "Dresden Titans v SV Fellbach Flashers",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProB Süd MD10, 16:00 local (=15:00 UTC). Dresden 8-2, Fellbach 7-3",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dresden ML p 0.70 < 0.75; totals p 0.67",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.2basketballbundesliga.de/spielplaene-prob/",
+   "https://www.sport.de/basketball/deutschland-pro-b/spielplan/"
+  ]
+ },
+ {
+  "eid": "sr:match:72905678",
+  "fx": "Angels Nordlingen v Alba Berlin",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "DBBL women MD7, 16:00 local (=15:00 UTC), confirmed by Alba women schedule",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's side: no picks; checked only date/venue",
+  "confidence": 0.1,
+  "sources": [
+   "https://toyota-dbbl.de/app/uploads/2026/07/DBBL_Spielplan_1_DBBL_2026-27_final.pdf",
+   "https://www.albaberlin.de/spielplan/frauen/spieltermine"
+  ]
+ },
+ {
+  "eid": "sr:match:72905676",
+  "fx": "Stars Keltern v Eisvogel Freiburg",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "DBBL women MD7, 16:00 local; Keltern perennial leader, Freiburg was last in 2025/26",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's side: no picks; checked only date/venue; ML 1.02",
+  "confidence": 0.1,
+  "sources": [
+   "https://toyota-dbbl.de/app/uploads/2026/07/DBBL_Spielplan_1_DBBL_2026-27_final.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:73113808",
+  "fx": "Mgs Panseraikos v Kronos Agiou Dimitriou",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Greek women A1; Panseraikos 2-8 yet 0.79 fav",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's side: no picks; checked only date/venue",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74476638",
+  "fx": "Kk Viimsi v BK Liepaja",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Est-Lat league; estlatbl.com lists VMS-BKL on 22.11. Viimsi 2-8 (avg -12), last H2H Liepaja 112-54",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.23,
+    "p": 0.77657,
+    "why": "Viimsi 2-8 conceding 87, last meeting a 58-pt Liepaja win; away ML p 0.78 >= 0.75; my p 0.80"
+   }
+  ],
+  "avoid": "totals p<0.70",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.estlatbl.com/et/"
+  ]
+ },
+ {
+  "eid": "sr:match:72905680",
+  "fx": "TK Hannover v Saarlouis Royals",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "DBBL women MD7, 16:30 local (=15:30 UTC)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's side: no picks; checked only date/venue",
+  "confidence": 0.1,
+  "sources": [
+   "https://toyota-dbbl.de/app/uploads/2026/07/DBBL_Spielplan_1_DBBL_2026-27_final.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:73451888",
+  "fx": "Riesen Ludwigsburg v Mitteldeutscher BC",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "BBL; Ludwigsburg 5-5, MBC 8-2 in last 10 (avg 93-84)",
+  "news": "no preview found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-8.5",
+    "desc": "Away (+8.5)",
+    "odds": 1.32,
+    "p": 0.736246,
+    "why": "MBC in better form (8-2) than Ludwigsburg (5-5): credible receiver at +8.5; my p 0.80"
+   },
+   {
+    "mid": "225",
+    "spec": "total=155.5",
+    "desc": "Over 155.5",
+    "odds": 1.28,
+    "p": 0.757731,
+    "why": "MBC games avg 177, Ludwigsburg 169; my p 0.80"
+   }
+  ],
+  "avoid": "ML either side",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.kicker.de/syntainics-mbc-gegen-mhp-riesen-ludwigsburg"
+  ]
+ },
+ {
+  "eid": "sr:match:74131980",
+  "fx": "FC Universitatea Cluj v KK Zadar",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ABA R9 Group B, 16:30 CET (=15:30 UTC) per aba-liga calendar and RTV SLO. Zadar 8-2 last 10 (incl. Croatian league; lost 67-51 at Spartak R7); Cluj 3-7",
+  "news": "no team news found; time confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-11.5",
+    "desc": "Away (+11.5)",
+    "odds": 1.36,
+    "p": 0.703016,
+    "why": "Zadar 8-2 vs Cluj 3-7 in last 10, level on ABA points: credible receiver at +11.5; my p 0.78"
+   },
+   {
+    "mid": "225",
+    "spec": "total=155.5",
+    "desc": "Over 155.5",
+    "odds": 1.25,
+    "p": 0.769025,
+    "why": "Cluj games avg 174, Zadar 160; my p 0.78"
+   }
+  ],
+  "avoid": "Cluj -1.5/-3.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.aba-liga.com/calendar/",
+   "https://www.rtvslo.si/sport/kosarka/jadranska-liga/cedevita-olimpija-slovan-bratislava/800848"
+  ]
+ },
+ {
+  "eid": "sr:match:74476640",
+  "fx": "Keila Basket v Kk Parnu",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Est-Lat league; Keila 0-10 (avg -23)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Parnu ML 1.06 too short; totals p 0.67",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.estlatbl.com/et/"
+  ]
+ },
+ {
+  "eid": "sr:match:72658532",
+  "fx": "Artland Dragons v MLP Academics Heidelberg",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProA, 17:00 local (=16:00 UTC) Artland Arena Quakenbrück; Heidelberg relegated from BBL, 7-3; Artland 3-7, club calls it a \"schwere Aufgabe\"",
+  "news": "Artland preview: tough task vs BBL-relegated Heidelberg",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.763072,
+    "why": "Heidelberg 7-3 (allow 72), ex-BBL roster vs Artland 3-7; away ML p 0.76 >= 0.75; my p 0.78"
+   }
+  ],
+  "avoid": "totals p<0.70",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.artland-dragons.de/"
+  ]
+ },
+ {
+  "eid": "sr:match:74238620",
+  "fx": "DVTK Miskolc v Nke Csata",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Hungarian women NB I A",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's side: no picks; checked only date/venue; ML 1.12 too short",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74131788",
+  "fx": "Buducnost Podgorica v HKK Siroki",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ABA R9, 17:00 local (=16:00 UTC) per SportSport.ba and RTV SLO; Buducnost led table after R7; Siroki lost 102-93 at Cibona",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=161.5",
+    "desc": "Over 161.5",
+    "odds": 1.26,
+    "p": 0.7623657861,
+    "why": "Buducnost games avg 173, Siroki 166 (Siroki conceded 102 at Cibona); my p 0.79"
+   }
+  ],
+  "avoid": "ML 1.05; Siroki +20.5 catch (15+ ban for weak side)",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportsport.ba/raspored/kosarka/medunarodni/aba-liga/36",
+   "https://www.rtvslo.si/sport/kosarka/jadranska-liga/cedevita-olimpija-slovan-bratislava/800848",
+   "https://www.eurobasket.com/ABA-League/news/1040965/ABA-League-Round-7-Regular-Season-Buducnost-takes-over-a-leadership-position"
+  ]
+ },
+ {
+  "eid": "sr:match:74476642",
+  "fx": "Rigas Ekselences Juniori v Taltech",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Est-Lat league; Riga Ekselences Juniori = youth academy side",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth side: no picks; ML 1.05",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.estlatbl.com/et/"
+  ]
+ },
+ {
+  "eid": "sr:match:72660024",
+  "fx": "Baskets Juniors TSG Westerstede v Uni Baskets Munster",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProB Nord MD10, 18:00 local (=17:00 UTC) Westerstede; Baskets Juniors = Oldenburg development side, 0-10",
+  "news": "no news found (minor group listing conflict Nord/Süd on one page, date/time agree)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side; ML 1.02",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.2basketballbundesliga.de/spielplaene-prob/",
+   "https://www.sport.de/basketball/deutschland-pro-b/spielplan/"
+  ]
+ },
+ {
+  "eid": "sr:match:72660474",
+  "fx": "Giants Leverkusen v BG Hessing Leitershofen",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ProB Süd MD10, 18:00 local (=17:00 UTC). Leverkusen 8-2, Leitershofen 6-4",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML p 0.62; totals p 0.67",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.2basketballbundesliga.de/spielplaene-prob/",
+   "https://www.sport.de/basketball/deutschland-pro-b/spielplan/"
+  ]
+ },
+ {
+  "eid": "sr:match:73451894",
+  "fx": "Alba Berlin v Bayern Munich",
+  "sport": "basketball",
+  "absences": "ALBA: Jack Kayil calf injury (Oct, several weeks) status unconfirmed; Hermannsson/Agbakoko missed the September meeting, return unconfirmed",
+  "context": "BBL big-club clash, 18:00 local (=17:00 UTC) Uber Arena, 12,000+ tickets; Bayern (coach Anton Gavel) won first meeting in September, EuroLeague week for Bayern",
+  "news": "Sell-out-style crowd, ALBA seeking revenge; no confirmed injury list",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=160.5",
+    "desc": "Over 160.5",
+    "odds": 1.27,
+    "p": 0.764339,
+    "why": "both teams avg 176-178 total in last 10; my p 0.79"
+   }
+  ],
+  "avoid": "result-sides and handicaps (big-club clash, uncertain ALBA availability)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.albaberlin.de/news/details/ueber-12000-tickets-weg-alba-empfaengt-am-sonntag-bayern-in-der-uber-arena"
+  ]
+ },
+ {
+  "eid": "sr:match:73451890",
+  "fx": "Baskets Bonn v Ratiopharm Ulm",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "BBL R10, Telekom Dome, start moved to 18:30 local (=17:30 UTC, matches board). Bonn 6-3, 3rd, five straight wins; Ulm 4-5, 10th",
+  "news": "Bonn on five-game win streak, start time postponed to 18:30",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=156.5",
+    "desc": "Over 156.5",
+    "odds": 1.28,
+    "p": 0.75731,
+    "why": "Bonn games avg 165, Ulm 171; my p 0.79"
+   }
+  ],
+  "avoid": "Ulm +12.5 (Ulm 3-7 last 10), Bonn ML p 0.71",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.telekom-baskets-bonn.de/presse/newsarchiv/fuenf-siege-im-ruecken-baskets-empfangen-ulm",
+   "https://www.telekom-baskets-bonn.de/team/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:74527792",
+  "fx": "Hapoel Eilat v Maccabi Ironi Ramat Gan",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Winner League; 365Scores lists Begin Arena (Eilat) 5:55 PM, matches board 17:55 UTC; Ramat Gan lost 90-74 at home to Ness Ziona Nov 15",
+  "news": "no team news found (365Scores lists teams in reverse order but venue = Eilat home; minor)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-10.5",
+    "desc": "Away (+10.5)",
+    "odds": 1.3,
+    "p": 0.738111,
+    "why": "two mid/low sides (Eilat 4-6, Ramat Gan 3-7), credible receiver; my p 0.77"
+   },
+   {
+    "mid": "225",
+    "spec": "total=162.5",
+    "desc": "Over 162.5",
+    "odds": 1.29,
+    "p": 0.7425762339,
+    "why": "both teams avg 170 total; my p 0.78"
+   }
+  ],
+  "avoid": "ML",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/en-us/basketball/team/maccabi-ironi-ramat-gan-635"
+  ]
+ },
+ {
+  "eid": "sr:match:74131978",
+  "fx": "KK Partizan Belgrade v Dubai Basketball",
+  "sport": "basketball",
+  "absences": "Partizan: coach cannot count on everyone (injuries unnamed in Telegraf preview)",
+  "context": "ABA R9, 19:30 local (=18:30 UTC) Belgrade Arena; rematch of last ABA final (Dubai champions); Dubai has EuroLeague home game Wednesday, Dubai 8-2 last 10",
+  "news": "Partizan with unnamed injuries; Dubai warm-up before EuroLeague",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=158.5",
+    "desc": "Over 158.5",
+    "odds": 1.25,
+    "p": 0.764997,
+    "why": "Dubai games avg 172, Partizan 160; my p 0.77"
+   }
+  ],
+  "avoid": "ML/handicaps (coin flip, big-club, unnamed Partizan injuries)",
+  "confidence": 0.25,
+  "sources": [
+   "https://telegraf.rs/sport/kosarka/4437303-evo-gde-mozete-da-gledate-uzivo-tv-prenos-meca-partizan-dubai-u-9-kolu-aba-lige"
+  ]
+ }
+]
