@@ -1,0 +1,640 @@
+[
+ {
+  "eid": "sr:match:72176052",
+  "fx": "Assat v HPK Hameenlinna U20",
+  "sport": "ice hockey",
+  "absences": "n/a (youth)",
+  "context": "U20 SM-sarja youth fixture; no picks on youth sides.",
+  "news": "Livesport lists Tappara U20 v Hameenlinna(HPK) U20 on 22.11, which conflicts with this HPK U20 fixture at Assat.",
+  "veto": true,
+  "veto_reason": "Date conflict: HPK U20 listed v Tappara on 22.11 by Livesport; youth fixture",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesport.com/fi/jaakiekko/suomi/sm-sarja-u20/otteluohjelma/",
+   "https://www.flashscore.fi/jaakiekko/suomi/sm-sarja-u20/"
+  ]
+ },
+ {
+  "eid": "sr:match:72118554",
+  "fx": "HPK Hameenlinna v Lahti Pelicans",
+  "sport": "ice hockey",
+  "absences": "n/a (women's)",
+  "context": "Auroraliiga is Finland's women's top league; only 3 board markets; nothing in range.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets (women's league, no in-range markets)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesport.com/fi/jaakiekko/suomi/sm-sarja-u20/otteluohjelma/",
+   "https://www.flashscore.fi/jaakiekko/suomi/sm-sarja-u20/"
+  ]
+ },
+ {
+  "eid": "sr:match:72176048",
+  "fx": "Lukko U20 v Ilves Tampere U20",
+  "sport": "ice hockey",
+  "absences": "n/a (youth)",
+  "context": "U20 youth fixture; Lukko 7-3 last 10, Ilves 6-4; no mismatch.",
+  "news": "No confirmation of the pairing found; Livesport lists Assat U20 v Ilves U20 on 26.11 (no direct conflict found for 22.11).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets (youth, no mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesport.com/fi/jaakiekko/suomi/sm-sarja-u20/otteluohjelma/",
+   "https://www.flashscore.fi/jaakiekko/suomi/sm-sarja-u20/"
+  ]
+ },
+ {
+  "eid": "sr:match:72484126",
+  "fx": "ERC Ingolstadt v Red Bull Munich",
+  "sport": "ice hockey",
+  "absences": "No named absences found for 22.11.",
+  "context": "Bavarian derby. Munich 8-2 last 10 (2-2 after regulation v Koln on Fri 20.11, so second game in 3 days). Ingolstadt 3-1 at home, gf 4.0.",
+  "news": "DEL schedule confirms Sun 22.11 14:00 CET; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.3,
+    "p": 0.7435,
+    "why": "Both teams average 3.4 gf; Ingolstadt concede 3.6; 9/10 trend; derby with no result-side allowed. My p 0.75."
+   }
+  ],
+  "avoid": "result-sides (derby); Under 8.5 padding",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.penny-del.org/spiele",
+   "https://www.penny-del.org/teams/ehc-red-bull-muenchen/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72484124",
+  "fx": "Nuremberg Ice Tigers v Fischtown Pinguins",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Nuremberg 4-0 at home scoring 6.0/game; Bremerhaven 6-4 last 10. Regular-season game.",
+  "news": "DEL schedule confirms 22.11 14:00 CET; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.43,
+    "p": 0.676,
+    "why": "Nuremberg home gf 6.0, Bremerhaven gf 3.3; 8/10 trend. My p 0.70."
+   }
+  ],
+  "avoid": "Away +2.5 (low odds)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.penny-del.org/spiele",
+   "https://www.penny-del.org/teams/ehc-red-bull-muenchen/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72484128",
+  "fx": "Straubing Tigers v Eisbaren Berlin",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Berlin 7-3 last 10, gf 4.0; Straubing 3-1 at home. Berlin lost 1-3 at home to Mannheim on 01.11.",
+  "news": "Schedule confirmed 22.11 14:00 CET; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away ML (p 0.56 < 0.75 away rule); Over 4.5 is viable (p 0.69) but kept to 2 DEL Overs",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.penny-del.org/spiele",
+   "https://www.penny-del.org/teams/ehc-red-bull-muenchen/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:73350492",
+  "fx": "Frederikshavn White Hawks v Rungsted Seier Capital",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Rungsted took 14 of 15 points off Frederikshavn last season; home side 2-3 at home this season.",
+  "news": "Hockeymagasinet/fodbold-tv confirm 15:00 local at Nordjyske Bank Arena (=14:00 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 1.53 (H2H history favours Rungsted); totals coin-flips",
+  "confidence": 0.15,
+  "sources": [
+   "https://hockeymagasinet.dk/metal-ligaen-dagens-kamp-og-dommere-83/",
+   "https://www.fodbold-tv.com/sport/ishockey/ligaer/metal-ligaen",
+   "https://metalligaen.dk/nyheder/kampen-kort-rungsted-slog-igen-frederikshavn/"
+  ]
+ },
+ {
+  "eid": "sr:match:72178168",
+  "fx": "Cergy-Pontoise v Grenoble Bruleurs de Loups",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Grenoble 8-2 last 10; Cergy 5-0 at home.",
+  "news": "Official calendar shows the kick-off as 16:00 in one version and 15:00 in another; a separate listing also has Grenoble v Anglet at 21:15 the same day.",
+  "veto": true,
+  "veto_reason": "Kick-off/date conflict between official calendar versions (15:00 v 16:00, plus a same-day Grenoble v Anglet listing)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hockeyhebdo.com/news-magnus---programme-17eme---22-nov--2026,35476.html",
+   "https://liguemagnus.com/calendrier/",
+   "https://www.flashscore.fr/hockey/france/ligue-magnus/"
+  ]
+ },
+ {
+  "eid": "sr:match:72019384",
+  "fx": "Bili Tygri Liberec v BK Mlada Boleslav",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Liberec 4-1 at home (gf 3.4, ga 1.8); Mlada Boleslav scoring only 1.7/game, 4-6 last 10.",
+  "news": "Fixture confirmed on extraliga calendar; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.6652,
+    "why": "Boleslav's attack is the weakest here (1.7 gf); Liberec strong at home. My p 0.69."
+   }
+  ],
+  "avoid": "Away +2.5 (low odds); Unders (p < 0.82)",
+  "confidence": 0.25,
+  "sources": [
+   "https://ceskyhokej.cz/souteze-muzi/tipsport-extraliga",
+   "https://www.hokej.cz/klub/hc-kometa-brno/22/zapasy",
+   "https://isport.blesk.cz/clanek/hokej-tipsport-extraliga/301460/prestupy-v-extralize-online-kladno-reaguje-na-marodku-zkousi-kanadskeho-utocnika.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72019386",
+  "fx": "HC Rytiri Kladno v HC Litvinov",
+  "sport": "ice hockey",
+  "absences": "Litvinov: extensive injury list - signed Ondrej Najman from Sparta on loan (Blesk, 19.11) to cover it. Kladno: released D Jeremie Blain (October).",
+  "context": "Kladno 7-3 last 10; Litvinov 4-6 with 2.1 gf.",
+  "news": "Litvinov depleted by injuries (club signing reaction 19.11).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.6851,
+    "why": "Named mechanism: Litvinov's injury crisis plus 2.1 gf; Kladno 7-3. My p 0.72."
+   }
+  ],
+  "avoid": "Kladno -1.5 at 2.20",
+  "confidence": 0.3,
+  "sources": [
+   "https://ceskyhokej.cz/souteze-muzi/tipsport-extraliga",
+   "https://www.hokej.cz/klub/hc-kometa-brno/22/zapasy",
+   "https://isport.blesk.cz/clanek/hokej-tipsport-extraliga/301460/prestupy-v-extralize-online-kladno-reaguje-na-marodku-zkousi-kanadskeho-utocnika.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72019388",
+  "fx": "HC Plzen v Energie Karlovy Vary",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Low-scoring matchup (KV gf 2.3 ga 2.2). Plzen 4-1-1 at home.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away +1.5 (favourite p 0.57 >= 0.55 rule); Unders below p 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://ceskyhokej.cz/souteze-muzi/tipsport-extraliga",
+   "https://www.hokej.cz/klub/hc-kometa-brno/22/zapasy",
+   "https://isport.blesk.cz/clanek/hokej-tipsport-extraliga/301460/prestupy-v-extralize-online-kladno-reaguje-na-marodku-zkousi-kanadskeho-utocnika.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72484130",
+  "fx": "Adler Mannheim v Kolner Haie",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Rivalry game (Mannheim v Koln). Koln played at Munich Fri 20.11 (2-2 after regulation), so second game in 3 days. Mannheim 4-1 at home.",
+  "news": "Schedule confirmed 22.11; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.34,
+    "p": 0.7195,
+    "why": "Both teams score ~3.2-3.3; last H2H 6-5; Koln on a back-to-back. My p 0.72."
+   }
+  ],
+  "avoid": "result-sides (big-club rivalry)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.penny-del.org/spiele",
+   "https://www.penny-del.org/teams/ehc-red-bull-muenchen/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72484134",
+  "fx": "Wild Wings v Augsburger Panther",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Schwenningen 7-3 last 10 but low gf 2.5; Augsburg concede 3.5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 1.80 (coin-flip), totals",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.penny-del.org/spiele",
+   "https://www.penny-del.org/teams/ehc-red-bull-muenchen/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72019394",
+  "fx": "HC Kometa Brno v Ceske Budejovice",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Brno 10th, Budejovice 4th in pre-round table.",
+  "news": "Kick-off listed as 16:30 by the league page and 17:00 by Kometa's official site.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (16:30 v 17:00 CET)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://ceskyhokej.cz/souteze-muzi/tipsport-extraliga",
+   "https://www.hokej.cz/klub/hc-kometa-brno/22/zapasy",
+   "https://isport.blesk.cz/clanek/hokej-tipsport-extraliga/301460/prestupy-v-extralize-online-kladno-reaguje-na-marodku-zkousi-kanadskeho-utocnika.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72019392",
+  "fx": "HC Vitkovice v Mountfield HK",
+  "sport": "ice hockey",
+  "absences": "Vitkovice: one defenceman listed out until December (Eliteprospects, undated).",
+  "context": "Vitkovice 13th; both teams low-scoring (2.2 v 2.7 gf).",
+  "news": "Fixture confirmed for 17:00 CET; no fresh news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.32,
+    "p": 0.7355,
+    "why": "Low-event matchup and near-pick'em (HK p 0.52); Vitkovice only lose by 2+ in tight low-scoring games. My p 0.75."
+   }
+  ],
+  "avoid": "Unders (p < 0.82)",
+  "confidence": 0.25,
+  "sources": [
+   "https://ceskyhokej.cz/souteze-muzi/tipsport-extraliga",
+   "https://www.hokej.cz/klub/hc-kometa-brno/22/zapasy",
+   "https://isport.blesk.cz/clanek/hokej-tipsport-extraliga/301460/prestupy-v-extralize-online-kladno-reaguje-na-marodku-zkousi-kanadskeho-utocnika.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72730868",
+  "fx": "Sheffield Steelers v Cardiff Devils",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Top-of-table clash: Sheffield 7-3, Cardiff 7-3.",
+  "news": "League schedule confirms Sun 22.11 16:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away +1.5 (favourite p 0.56 >= 0.55); result-sides (big clash)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eliteleague.co.uk/schedule",
+   "https://www.belfastgiants.com/game-centre",
+   "https://www.panthers.co.uk/latest-news/202627-elite-league-fixtures-announced",
+   "https://fifeflyers.co.uk/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72176050",
+  "fx": "Tappara v TPS U20",
+  "sport": "ice hockey",
+  "absences": "n/a (youth)",
+  "context": "U20 youth fixture.",
+  "news": "Livesport lists Tappara U20 v Hameenlinna U20 on 22.11, which conflicts with Tappara v TPS U20.",
+  "veto": true,
+  "veto_reason": "Opponent/date conflict: Tappara U20 listed v HPK U20 on 22.11",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesport.com/fi/jaakiekko/suomi/sm-sarja-u20/otteluohjelma/",
+   "https://www.flashscore.fi/jaakiekko/suomi/sm-sarja-u20/"
+  ]
+ },
+ {
+  "eid": "sr:match:72677618",
+  "fx": "Eisbaren Regensburg v Starbulls Rosenheim",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Round 19; Rosenheim played at home v Freiburg Fri 20.11. Regensburg 7-3 (gf 4.2). They met in last season's QF (Regensburg won 4-2).",
+  "news": "DEL2, Starbulls and Hessenschau all give Sun 22.11 17:00 CET at the Donau-Arena (=16:00 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.32,
+    "p": 0.7259,
+    "why": "Pick'em (p 0.50 each), so +1.5 on a 6-4 Rosenheim side covers every one-goal game and OT. My p 0.73."
+   }
+  ],
+  "avoid": "ML coin-flip",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.del-2.org/spielplan/",
+   "https://www.starbulls.de/en/saison/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72019390",
+  "fx": "HC Pardubice v Sparta Prague",
+  "sport": "ice hockey",
+  "absences": "Sparta loaned Ondrej Najman to Litvinov (19.11).",
+  "context": "Big-club clash: Pardubice 2nd, Sparta 6th.",
+  "news": "No injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (big-club clash); Over 3.5 at 1.20 is thin",
+  "confidence": 0.15,
+  "sources": [
+   "https://ceskyhokej.cz/souteze-muzi/tipsport-extraliga",
+   "https://www.hokej.cz/klub/hc-kometa-brno/22/zapasy",
+   "https://isport.blesk.cz/clanek/hokej-tipsport-extraliga/301460/prestupy-v-extralize-online-kladno-reaguje-na-marodku-zkousi-kanadskeho-utocnika.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72730872",
+  "fx": "Belfast Giants v Nottingham Panthers",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Belfast 7-3 last 10, 4-1 at home (gf 4.4 ga 2.0); Nottingham 5-5, gf 2.4. Last H2H 6-1.",
+  "news": "Belfast Game Centre and Panthers site confirm 17:00 at The O2 Belfast.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.35,
+    "p": 0.7074,
+    "why": "Belfast's home attack against a 2.4-gf Nottingham side; 6-1 last H2H. My p 0.72."
+   }
+  ],
+  "avoid": "Home -1.5 at 2.00",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eliteleague.co.uk/schedule",
+   "https://www.belfastgiants.com/game-centre",
+   "https://www.panthers.co.uk/latest-news/202627-elite-league-fixtures-announced",
+   "https://fifeflyers.co.uk/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72730870",
+  "fx": "Fife Flyers v Manchester Storm",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Fife 3-7, 1-3 at home conceding 4.0; Manchester 5-5 gf 3.5. H2H 3-6, 2-1, 2-6.",
+  "news": "Fife's official fixtures confirm home game at 17:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=5.5",
+    "desc": "Over 5.5",
+    "odds": 1.6,
+    "p": 0.5901,
+    "why": "Fife's defence concedes ~4/game at home; Manchester score 3.5. My p 0.60."
+   }
+  ],
+  "avoid": "Away ML (p 0.59 < 0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eliteleague.co.uk/schedule",
+   "https://www.belfastgiants.com/game-centre",
+   "https://www.panthers.co.uk/latest-news/202627-elite-league-fixtures-announced",
+   "https://fifeflyers.co.uk/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72178166",
+  "fx": "HC Amiens Somme v Rouen Dragons",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Amiens 5-0 at home; Rouen 9-1 last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away ML (p 0.68 < 0.75 away rule)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hockeyhebdo.com/news-magnus---programme-17eme---22-nov--2026,35476.html",
+   "https://liguemagnus.com/calendrier/",
+   "https://www.flashscore.fr/hockey/france/ligue-magnus/"
+  ]
+ },
+ {
+  "eid": "sr:match:72484132",
+  "fx": "Iserlohn Roosters v Lowen Frankfurt",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Iserlohn 4-1 at home (gf 3.8); Frankfurt 3-7 last 10, gf 2.1. Last H2H 1-4.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.62,
+    "p": 0.5969,
+    "why": "Frankfurt's poor form (3-7, 2.1 gf) against a strong home record. My p 0.62."
+   }
+  ],
+  "avoid": "Unders (p < 0.82)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.penny-del.org/spiele",
+   "https://www.penny-del.org/teams/ehc-red-bull-muenchen/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72178172",
+  "fx": "Bordeaux GHC v Les Aigles de Nice",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Bordeaux 2-3 at home; Nice 4-6.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 1.44 (weak home record)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hockeyhebdo.com/news-magnus---programme-17eme---22-nov--2026,35476.html",
+   "https://liguemagnus.com/calendrier/",
+   "https://www.flashscore.fr/hockey/france/ligue-magnus/"
+  ]
+ },
+ {
+  "eid": "sr:match:72178174",
+  "fx": "Spartiates de Marseille v Chamonix Mont-Blanc Pionieers",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Chamonix 2-8 last 10, concede 4.6 (2-6, 2-8, 4-10 recently); Marseille 3-7.",
+  "news": "Fixture confirmed on Journee 17 card.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.52,
+    "p": 0.6219,
+    "why": "Chamonix's collapse (2-8, 4.6 ga). My p 0.64."
+   }
+  ],
+  "avoid": "Away +1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hockeyhebdo.com/news-magnus---programme-17eme---22-nov--2026,35476.html",
+   "https://liguemagnus.com/calendrier/",
+   "https://www.flashscore.fr/hockey/france/ligue-magnus/"
+  ]
+ },
+ {
+  "eid": "sr:match:72730874",
+  "fx": "Guildford Flames v Coventry Blaze",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Guildford 2-8 last 10 (ga 4.2); Coventry 5-5.",
+  "news": "Only found on the league schedule mirror; no time or venue confirmed, but no conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.31,
+    "p": 0.7273,
+    "why": "Pick'em pricing (fav p 0.51) and Guildford's 2-8 form. My p 0.74."
+   }
+  ],
+  "avoid": "ML coin-flip",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eliteleague.co.uk/schedule",
+   "https://www.belfastgiants.com/game-centre",
+   "https://www.panthers.co.uk/latest-news/202627-elite-league-fixtures-announced",
+   "https://fifeflyers.co.uk/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72178170",
+  "fx": "Anglet Hormadi Elite v Rapaces de Gap",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Anglet 2-8 last 10; Gap 5-5.",
+  "news": "Three sources list Anglet v Gap, but an official listing also has Grenoble v Anglet at 21:15 the same day.",
+  "veto": true,
+  "veto_reason": "Date conflict: same-day Grenoble v Anglet listing",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hockeyhebdo.com/news-magnus---programme-17eme---22-nov--2026,35476.html",
+   "https://liguemagnus.com/calendrier/",
+   "https://www.flashscore.fr/hockey/france/ligue-magnus/"
+  ]
+ },
+ {
+  "eid": "sr:match:72484136",
+  "fx": "Krefeld Pinguine v Grizzlys Wolfsburg",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "Krefeld 2-8 last 10 (gf 2.0).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML coin-flip; Home +1.5 (Krefeld form too poor)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.penny-del.org/spiele",
+   "https://www.penny-del.org/teams/ehc-red-bull-muenchen/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72712580",
+  "fx": "Calgary Hitmen v Swift Current Broncos",
+  "sport": "ice hockey",
+  "absences": "Calgary: Rylan Ng (upper body, week-to-week) and Wyatt Pisarczyk (lower body, day-to-day) as of 7 Nov.",
+  "context": "WHL is a junior (U21) league; youth rules apply.",
+  "news": "Injury report is two weeks old.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (junior league, no clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-hitmen/article/game-preview-calgary-at-swift-current-11-0726/",
+   "https://www.eliteprospects.com/league/whl"
+  ]
+ },
+ {
+  "eid": "sr:match:72712582",
+  "fx": "Saskatoon Blades v Medicine Hat Tigers",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "WHL junior league; Saskatoon 2-8, Medicine Hat 6-4.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (junior league; away ML p 0.63 < 0.75)",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-hitmen/article/game-preview-calgary-at-swift-current-11-0726/",
+   "https://www.eliteprospects.com/league/whl"
+  ]
+ }
+]

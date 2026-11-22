@@ -1,0 +1,596 @@
+[
+ {
+  "eid": "sr:match:111111114313966",
+  "fx": "AAK UNISEL FC v Malaysia University",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malaysia A1 Semi-Pro League (semi-pro/university side); no Sportradar data; no markets on board.",
+  "news": "No source confirms a Nov 22 AAK UNISEL v Malaysian University-UiTM fixture; AFL site lists them meeting Oct 17 and separate Nov 15 fixtures.",
+  "veto": true,
+  "veto_reason": "Date unconfirmed / possible date conflict; semi-pro, no data, no board markets.",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://the-afl.my/"
+  ]
+ },
+ {
+  "eid": "sr:match:73062434",
+  "fx": "Kuala Lumpur City FC v Penang FA",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malaysia Super League 2026-27; both sides poor (KL 3W in 10, home GF 0.25; Penang 6L in 10).",
+  "news": "FotMob/Flashscore/Scores24 list Nov 22 09:30 UTC at KL Stadium, but Soccerway lists the fixture on 27.11.",
+  "veto": true,
+  "veto_reason": "Date conflict: Soccerway lists Kuala Lumpur City v Penang on 27 Nov vs 22 Nov elsewhere.",
+  "picks": [],
+  "avoid": "all markets (date conflict)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/match/football/kuala-lumpur-city-re2YdYmN/penang-YDrUEgY3/standings/over_under/overall/5.5/?mid=AcHo0BVP",
+   "https://www.soccerway.com/malaysia/super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:74056930",
+  "fx": "Shabana FC v Mara Sugar FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kenya PL: Shabana 7th 9pts level with Mara Sugar 8th. Shabana 0W in 4 at home; game moved to Afraha Stadium (Nakuru), 1:30pm EAT = 10:30 UTC (consistent).",
+  "news": "Mozzart preview: Shabana host Mara Sugar at Afraha; mid-table, low-scoring both sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Shabana result (0 home wins, neutral-ish venue); Under 2.5 p 0.66 < 0.82 gate",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.mozzartsport.co.ke/football/news/fkf-pl-gor-mahia-kcb-target-top-spot-as-shabana-host-mara-sugar/70856",
+   "https://www.betexplorer.com/football/kenya/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:74079790",
+  "fx": "Tarxien Rainbows FC v Gudja United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Challenge League (2nd tier): Tarxien top (19 pts from 7 per LiveSoccerTV) v Gudja bottom on 0 pts; Gudja lost 8 of last 10, last 6 all defeats.",
+  "news": "Gudja lost 1-2 to Swieqi Nov 7; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.743295,
+    "why": "Mechanism: league leader v pointless bottom side (Gudja 6 straight losses, 0 pts). Tarxien 8W in 10. Own p 0.78 vs house 0.743."
+   }
+  ],
+  "avoid": "Tarxien -1.5 (Gudja lose by 1 often: 1-2,1-2,0-1,0-1)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/malta/challenge-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:74056936",
+  "fx": "Kenya Commercial Bank v 3K FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kenya PL: KCB 2nd (14 pts, two behind leaders AFC Leopards) chasing top spot; home at Police Sacco Stadium 3pm EAT = 12:00 UTC (consistent). KCB home 3W in 4, GA 0.5; 3K 1 loss in 10.",
+  "news": "Mozzart: KCB target top spot v 3K FC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.738654,
+    "why": "Mechanism: KCB title push at home, tight defence (home GA 0.5); DNB covers the draw v a hard-to-beat 3K side. Own p 0.75 vs 0.739."
+   }
+  ],
+  "avoid": "Unders (p 0.80 < 0.82); KCB 1X2 (3K 4W5D1L, draw-prone)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.mozzartsport.co.ke/football/news/fkf-pl-gor-mahia-kcb-target-top-spot-as-shabana-host-mara-sugar/70856",
+   "https://www.betexplorer.com/football/kenya/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:76640498",
+  "fx": "Ballkani v SC Gjilani",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kosovo Superliga R14: Ballkani (5th, 19 pts) lost 0-1 at Feronikeli Nov 7; Gjilani unbeaten in 5, scored in 21 of last 23.",
+  "news": "Kickoff 12:00 UTC confirmed by FanDuel/Stavka/Scores24.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ballkani result (alternating form, p 0.43); no edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.korrektpress.net/feronikeli-74-fiton-ne-frymen-e-fundit-ndaj-ballkanit-cervadiku-hero-i-drenicasve/",
+   "https://scores24.live/en/soccer/m-22-11-2026-ballkani-gjilani-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:75019726",
+  "fx": "AL Tadamon Sour v Jwaaya FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Lebanon PL: Tadamon (10th last season) lost 3-4 to Ansar Nov 8; Jwaya (promoted 2025-26) 7W in 10 but away 1W 1D 1L.",
+  "news": "Betexplorer/Forebet: 22 Nov 13:15 CET (12:15 UTC) consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Jwaya 1X2 (p 0.649 < 0.75 away gate); DNB 1.14 below range",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/lebanon/premier-league/",
+   "https://www.forebet.com/en/predictions-lebanon/premier-league"
+  ]
+ },
+ {
+  "eid": "sr:match:75019724",
+  "fx": "Tripoli AC v Reyady Abaseya",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Lebanon PL: Tripoli v Riyadi Abbasiyah at Tripoli Municipal Stadium.",
+  "news": "Betexplorer lists 22 Nov 13:15 CET; official LFA ticketing site lists 21 Nov 14:15.",
+  "veto": true,
+  "veto_reason": "Date conflict: LFA ticketing site 21 Nov vs 22 Nov on betting/score sites.",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/lebanon/premier-league/",
+   "https://lfa-ticketing.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:70381744",
+  "fx": "Big Bullets v Mighty Wanderers FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Blantyre derby (Big Bullets 1st v Wanderers 2nd; Wanderers 2025 champions, won 2026 Charity Shield). Round 20.",
+  "news": "Kickoff given as 12:30 UTC (Sofascore) vs 13:00; Soccerway season list puts Round 20 incl. this game on 28.11.",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict (Soccerway 28 Nov; 12:30 vs 13:00 UTC); derby = no result-side anyway.",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/malawi/super-league/",
+   "https://www.sofascore.com/football/match/mighty-mukuru-wanderers-nyasa-big-bullets/MyBbsGUId"
+  ]
+ },
+ {
+  "eid": "sr:match:70381746",
+  "fx": "Karonga United FC v Kamuzu Barracks FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malawi SL Round 20; SULOM sanctioned Kamuzu Barracks in Nov 2026 (details unknown).",
+  "news": "Sofascore 22 Nov 12:30 UTC; Soccerway season list 28.11.",
+  "veto": true,
+  "veto_reason": "Date conflict: Soccerway fixture list 28 Nov vs 22 Nov; unexplained SULOM sanction on Kamuzu Barracks.",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/malawi/super-league/",
+   "https://www.sofascore.com/football/team/kamuzu-barracks/290615",
+   "https://sulommw.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:70381742",
+  "fx": "Mitundu Baptist v Masters FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malawi SL Round 20; both draw-heavy (Mitundu 6D in 10, Masters 5D).",
+  "news": "Soccerway lists Mitundu Baptist v Masters on 28.11; SULOM site shows a garbled Masters v \"Luanar Mitundu\" Nov 22 15:00.",
+  "veto": true,
+  "veto_reason": "Date/venue conflict (28 Nov per Soccerway; SULOM listing possibly reversed home/away).",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/malawi/super-league/",
+   "https://sulommw.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:74079794",
+  "fx": "Fgura United FC v Pieta Hotspurs FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Challenge League: Fgura 4th (15 pts, beat Attard 1-0 Nov 8) v Pieta 6th (12 pts); Fgura 0 home wins in 4; Pieta away 4W in 5.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result markets (conflicting home/away splits)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/malta/challenge-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73713108",
+  "fx": "ACF Brescia v San Marino Academy Calcio",
+  "sport": "football",
+  "absences": "n/a (women)",
+  "context": "Women Serie B; Brescia struggling, San Marino Academy bottom half.",
+  "news": "Wikipedia lists Nov 22; no conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women: no result-sides; no clear goals mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://it.wikipedia.org/wiki/Serie_B_2026-2027_(calcio_femminile)"
+  ]
+ },
+ {
+  "eid": "sr:match:73713110",
+  "fx": "Cesena FC v Calcio Catania",
+  "sport": "football",
+  "absences": "n/a (women)",
+  "context": "Women Serie B matchday 10: Cesena top v promoted Catania.",
+  "news": "Catania club site: Sunday 22 Nov, 14:30 local (13:30 UTC) - consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women: no result-sides; only Over 3.5 at 2.15 available",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cataniafc.it/it/notizie/serie-b-femminile-20262027-il-calendario-del-catania-women/",
+   "https://it.wikipedia.org/wiki/Serie_B_2026-2027_(calcio_femminile)"
+  ]
+ },
+ {
+  "eid": "sr:match:73713112",
+  "fx": "Frosinone v Asd Vicenza Calcio",
+  "sport": "football",
+  "absences": "n/a (women)",
+  "context": "Women Serie B: Frosinone (2nd) v Vicenza.",
+  "news": "Italian Wikipedia season page lists Frosinone v Vicenza on 21 Nov, not 22 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict (21 Nov per Wikipedia vs 22 Nov board).",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://it.wikipedia.org/wiki/Serie_B_2026-2027_(calcio_femminile)"
+  ]
+ },
+ {
+  "eid": "sr:match:73093076",
+  "fx": "US Avellino v Mantova 1911",
+  "sport": "football",
+  "absences": "Avellino: Favilli, Di Maggio, Iannarilli (muscle), Fila (long-term) out; Simic doubtful; Sounas back. Mantova: Jonathan Silva out; Gliozzi slight knock but expected to start.",
+  "context": "Serie B R12, Sun 15:00 CET. Avellino home 3W1D1L; Mantova chasing playoffs, 1 loss in last 4 away.",
+  "news": "Nesta (Avellino) calls Mantova a tricky opponent; settled XI with Cheddira-Russo up front.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.18,
+    "p": 0.8174580038,
+    "why": "Mechanism: Avellino missing striker Favilli plus Fila/Di Maggio; Mantova only lose by 2+ ~15%. Favourite Avellino p 0.45 (<0.55) so +1.5 catch allowed. Own p 0.84 vs 0.817."
+   }
+  ],
+  "avoid": "Avellino 1X2/Overs; integer O2/U3 lines",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.avellinotoday.it/sport/calcio/avellino-mantova-serie-b-22-novembre-2026.html",
+   "https://www.pianetaserieb.it/news/523578019334/avellino-mantova-le-probabili-undici-collaudato-per-nesta",
+   "https://www.dazn.com/it-IT/news/calcio/serie-bkt-probabili-formazioni-titolari-indisponibili-squalificati/1t3ry65w0th981tmvv3ks0tc54"
+  ]
+ },
+ {
+  "eid": "sr:match:76640500",
+  "fx": "FC Drita v KF Feronikeli",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kosovo Superliga R14: Drita defending champions, 3rd (24 pts); Feronikeli 7th (15 pts) just beat Ballkani 1-0, but away 0W in 5 (GF 0.4).",
+  "news": "Kickoff 14:00 UTC consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Drita 1X2 at 1.41 (Drita home only 1W in 4; edge unclear); DNB 1.12 below range",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.korrektpress.net/feronikeli-74-fiton-ne-frymen-e-fundit-ndaj-ballkanit-cervadiku-hero-i-drenicasve/",
+   "https://www.footballstreams.com/matches/fc-drita-vs-fc-feronikeli-74-20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:76834454",
+  "fx": "Al Shabab Kuwait v Al Sahel",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kuwait Crown Prince Cup Group C Round 1 (group game, not knockout); at Tadamon Stadium per Arab Times (neutral-ish). Al Sahel 1W in 10, Al Shabab 3W in 10.",
+  "news": "Sofascore 22 Nov 14:20 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (Gulf thin league, venue ambiguity, two poor sides)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.arabtimesonline.com/news/salmiya-tadamon-lead-crown-prince-cup-opening-fixtures/",
+   "https://www.sofascore.com/football/match/al-shabab-sc-al-sahel-sc/rdxsudx"
+  ]
+ },
+ {
+  "eid": "sr:match:72963850",
+  "fx": "F91 Dudelange v Residence Walferdange",
+  "sport": "football",
+  "absences": "none found",
+  "context": "BGL Ligue R13 (confirmed 22.11). Dudelange home GF 2.8 GA 1.8; Walferdange away GF 2.2 GA 2.2; 5 of last 6 for each side had 3+ goals.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.38,
+    "p": 0.68925,
+    "why": "Mechanism: both defences leaky (Walferdange lost 0-6, 1-4; drew 3-3), Luxembourg top flight ~3.3 goals/game; 10 of the two sides last 12 went 3+. Own p 0.74 vs 0.689."
+   }
+  ],
+  "avoid": "Dudelange -1.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/football/league/bgl-ligue-6241/matches",
+   "https://www.betexplorer.com/football/luxembourg/bgl-ligue/"
+  ]
+ },
+ {
+  "eid": "sr:match:72963862",
+  "fx": "FC Differdange 03 v FC Progres Niederkorn",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Differdange-Progres Niederkorn local derby (BGL Ligue R13, confirmed 22.11 15:00). Differdange won 10 of last 10 (GF 3.2), home 6/6. H2H 15-9-3 Differdange.",
+  "news": "Previous derbies: Differdange won away at Progres; one recent 0-0-type stalemate reported by L'essentiel.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.36,
+    "p": 0.6979776639,
+    "why": "Derby = goals only. Mechanism: Differdange scored 2+ in 9 of last 10 (home avg 3.17); Progres concede 1.3. Own p 0.72 vs 0.698."
+   }
+  ],
+  "avoid": "Differdange 1X2/AH (derby rule)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fotmob.com/matches/fc-differdange-03-vs-fc-progres-niederkorn/23b02p",
+   "https://www.365scores.com/football/league/bgl-ligue-6241/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72963858",
+  "fx": "FC Etzella Ettelbruck v FC Una Strassen",
+  "sport": "football",
+  "absences": "none found",
+  "context": "BGL Ligue R13: Etzella (2W in 10; recent 7-8 and 1-5 defeats) v UNA Strassen (8W in 10, away 5W in 6).",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Strassen 1X2 p 0.728 < 0.75 away gate; +1.5/+2.5 catches barred (fav p >= 0.60)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/football/league/bgl-ligue-6241/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72963864",
+  "fx": "FC Victoria Rosport v AS La Jeunesse D Esch/Alzette",
+  "sport": "football",
+  "absences": "none found",
+  "context": "BGL Ligue R13: Rosport (home games avg 4.2 goals) v Jeunesse Esch (away games avg 6.8; lost 6-7). 5/6 and 4/6 of last six went 3+.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.56,
+    "p": 0.60459,
+    "why": "Mechanism: two of the leakiest defences (Rosport GA 2.2, Jeunesse away GA 3.6). Own p 0.66 vs 0.605. Lower-confidence fill."
+   }
+  ],
+  "avoid": "result markets (coin-flip)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/football/league/bgl-ligue-6241/matches",
+   "https://www.betexplorer.com/football/luxembourg/bgl-ligue/"
+  ]
+ },
+ {
+  "eid": "sr:match:72963852",
+  "fx": "RFC Union Luxembourg v FC Wiltz 71",
+  "sport": "football",
+  "absences": "none found",
+  "context": "BGL Ligue R13 (Racing Luxembourg - Wiltz listed 22.11). Union home GF 3.75; Wiltz 1W in 10, away GA 3.67.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.23,
+    "p": 0.780339,
+    "why": "Mechanism: Wiltz concede 3.1/game (away 3.67), Union score 3.75 at home; Wiltz games recently 5-4,3-3,1-4,2-4. Own p 0.82 vs 0.780."
+   }
+  ],
+  "avoid": "Union -2.0 (Wiltz score often)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.365scores.com/football/league/bgl-ligue-6241/matches",
+   "https://www.betexplorer.com/football/luxembourg/bgl-ligue/"
+  ]
+ },
+ {
+  "eid": "sr:match:72963860",
+  "fx": "Swift Hesperange v Atert Bissen",
+  "sport": "football",
+  "absences": "none found",
+  "context": "BGL Ligue R13 at Stade Alphonse Theis (confirmed 22.11 15:00). Swift Hesperange started on -12 pts (tax/player-payment debts); 0 points, 0 goals scored in last 10 (lost 0-3 x5, 0-5). Bissen 6W in 10, GF 2.9.",
+  "news": "No forfeit or withdrawal reported; FotMob lists the 0-3 defeats as played matches.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.22,
+    "p": 0.787555,
+    "why": "Mechanism: crisis club Swift (financial deduction, 0 GF in 10, GA 3.6) v Bissen scoring 2.9/game; 9 of Swift last 10 had 3+ goals. If a forfeit occurs the leg voids. Own p 0.82 vs 0.788."
+   }
+  ],
+  "avoid": "Overs 3.5+ (Swift contribute nothing)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fotmob.com/teams/2113/overview/swift-hesperange",
+   "https://www.365scores.com/football/league/bgl-ligue-6241/matches",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Luxembourg_National_Division"
+  ]
+ },
+ {
+  "eid": "sr:match:72963856",
+  "fx": "Un Kaerjeng 97 v US Mondorf-Les-Bains",
+  "sport": "football",
+  "absences": "none found",
+  "context": "BGL Ligue R13: Kaerjeng (7W in 10; home games avg 4.75 goals) v Mondorf (7W in 10; away games avg 3.8). All 12 of their last-six games had 3+ goals.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.57,
+    "p": 0.604359,
+    "why": "Mechanism: both sides attack-first (GF 2.8 and 2.0), last six each 6/6 over 2.5. Own p 0.67 vs 0.604."
+   }
+  ],
+  "avoid": "1X2 (evenly matched)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.365scores.com/football/league/bgl-ligue-6241/matches",
+   "https://www.betexplorer.com/football/luxembourg/bgl-ligue/"
+  ]
+ },
+ {
+  "eid": "sr:match:72963854",
+  "fx": "US Hostert v US Rumelange",
+  "sport": "football",
+  "absences": "none found",
+  "context": "BGL Ligue R13: Hostert (home GF 0.0 in 4) v Rumelange (1W in 10, GA 3.1). Relegation-zone six-pointer.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 (Hostert blank at home); result markets",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/football/league/bgl-ligue-6241/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:76802946",
+  "fx": "Stade Malien de Bamako v Binga FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mali Ligue 1 2026-27 Round 4 (early season). Stade Malien 2nd last season, Binga 5th; Stade won 2-1 in June meeting.",
+  "news": "Soccerway lists 22 Nov Round 4; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (early-season board, thin data)",
+  "confidence": 0.15,
+  "sources": [
+   "https://us.soccerway.com/game/binga-neuJuAnR/stade-malien-dCu6JsVb/"
+  ]
+ },
+ {
+  "eid": "sr:match:73093072",
+  "fx": "SS Arezzo v Calcio Padova",
+  "sport": "football",
+  "absences": "Padova: Lovato, Sgarbi, Dellavalle, Varas, Seghetti, Lasagna, Caprari, Buonaiuto out (sources agree broadly). Arezzo: D. Mancini out; Cerri doubtful; conflicting reports on Chierico/Olivieri/Viviani.",
+  "context": "Serie B R12, 17:15 CET. Arezzo still seeking first home win (home 0W2D3L, GF 0.6).",
+  "news": "Corriere di Arezzo: Mancuso starts up front; Padova heavily depleted in attack.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.2,
+    "p": 0.803485,
+    "why": "Mechanism: Arezzo have no home win and score 0.6/game at home; losing by 2+ to them is rare even for a depleted Padova. Fav Arezzo p 0.41 so catch allowed. Own p 0.83 vs 0.803."
+   }
+  ],
+  "avoid": "Padova 1X2 (8 absentees incl. Lasagna, Caprari)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.corrierediarezzo.it/news/sport/469931/l-arezzo-riparte-col-padova-alla-caccia-della-prima-vittoria-in-casa-mancuso-dall-inizio.html",
+   "https://www.pianetaserieb.it/news/248700112390/arezzo-padova-le-probabili-chance-per-mancuso-capelli",
+   "https://www.dazn.com/it-IT/news/calcio/serie-bkt-probabili-formazioni-titolari-indisponibili-squalificati/1t3ry65w0th981tmvv3ks0tc54"
+  ]
+ },
+ {
+  "eid": "sr:match:74695540",
+  "fx": "Chapelton Maroons FC v Cavalier FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Jamaica PL rivalry at Drax Hall: Chapelton 11th (10 pts, GF 0.5) v Cavalier 6th (3 wins in last 4).",
+  "news": "Gleaner preview; kickoff 3pm local = 20:00 UTC consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (rivalry clash); Unders below 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://jamaica-gleaner.com/article/sports/20261122/mobay-waterhouse-chase-new-leaders"
+  ]
+ },
+ {
+  "eid": "sr:match:74695544",
+  "fx": "Montego Bay United v Waterhouse FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Jamaica PL top-three clash at Jarrett Park: MBU 2nd (beat Tivoli 4-0) v Waterhouse 3rd, both chasing leaders Tru-Juice.",
+  "news": "Gleaner: 3pm local (20:00 UTC) consistent with 365Scores.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (big-club-style clash, evenly matched)",
+  "confidence": 0.15,
+  "sources": [
+   "https://jamaica-gleaner.com/article/sports/20261122/mobay-waterhouse-chase-new-leaders"
+  ]
+ }
+]
