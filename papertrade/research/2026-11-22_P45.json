@@ -1,0 +1,253 @@
+[
+ {
+  "eid": "sr:match:73535898",
+  "fx": "Baylor Bears v Arizona State Sun Devils",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Women's NCAA; #8 Arizona State (9-1 L10) at #20 Baylor, Baylor alumni weekend, Ferrell Center 2pm CT (=20:00 UTC, matches board).",
+  "news": "ASU 8th v Baylor 20th; time/venue consistent; women's fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's NCAA volleyball: no picks per rules (women's).",
+  "confidence": 0.15,
+  "sources": [
+   "https://baylorbears.com/news/2026/10/23/volleyball-vb-alumni-weekend-set-for-nov-20-22",
+   "https://www.espn.com/watch/player/_/id/6fb5f058-4855-446c-96fe-49de9d0637c9"
+  ]
+ },
+ {
+  "eid": "sr:match:73535904",
+  "fx": "Stanford Cardinal v Boston College Eagles",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Women's NCAA ACC; Stanford (No.24, 17-9) hosts Boston College at Maples Pavilion.",
+  "news": "Start time conflict: Stanford official 12:00 PT (=board 20:00 UTC) vs BC preview 4pm ET / 1pm PT and a BC page 3pm.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (12pm PT vs 1pm PT); women's fixture.",
+  "picks": [],
+  "avoid": "Women's NCAA volleyball: no picks per rules (women's).",
+  "confidence": 0.1,
+  "sources": [
+   "https://gostanford.com/sports/womens-volleyball/schedule",
+   "https://bceagles.com/news/2026/11/19/volleyball-travel-to-the-west-coasts-for-a-pair-of-acc-contests"
+  ]
+ },
+ {
+  "eid": "sr:match:72162190",
+  "fx": "Atlanta Gladiators v Indy Fuel",
+  "sport": "ice hockey",
+  "absences": "no named absences found",
+  "context": "ECHL; Atlanta (6-8-1) v Indy (4-9-4), final game of a weekend series; Atlanta won Saturday 4-3 OT (4th straight win). Back-to-back for both.",
+  "news": "ECHL lists 3:10pm ET (=board 20:10 UTC) but Indy Fuel site lists 7:10pm ET and Nightout 3:00pm.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (ECHL 3:10pm ET vs Indy Fuel site 7:10pm ET).",
+  "picks": [],
+  "avoid": "Everything: time conflict. If cleared, Atlanta home form 4-0 L4 was the angle.",
+  "confidence": 0.15,
+  "sources": [
+   "https://echl.com/games/2026/11/22/atlanta-gladiators-vs-indy-fuel",
+   "https://www.oursportscentral.com/services/releases/gladiators-clinch-series-over-indy-fuel-4-3-in-overtime-win-fourth-straight-game/n-6426599",
+   "https://indyfuelhockey.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:72733786",
+  "fx": "Ontario Reign v Henderson Silver Knights",
+  "sport": "ice hockey",
+  "absences": "no named absences found",
+  "context": "AHL; Henderson (11-5-0-0) at Ontario (9-8-1-0), 3pm PT Toyota Arena (=board 23:00 UTC). Both played Saturday: Henderson won 5-1 at Bakersfield (3 straight wins), Ontario lost 6-4 to Coachella Valley (streak of 4 snapped). Henderson 2-0 v Ontario this season.",
+  "news": "Henderson seeking 4th straight win, won both meetings; both on back-to-back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.29,
+    "p": 0.7397497597,
+    "why": "Henderson in form (5-1, 5-2 recent), won both meetings this season, Ontario conceding 2.8/g and on a back-to-back after conceding 6. Own p ~0.76."
+   }
+  ],
+  "avoid": "Ontario +1.5 / Unders (Ontario home games average 6.7 goals).",
+  "confidence": 0.3,
+  "sources": [
+   "https://insidetherink.com/ahl-game-preview-henderson-silver-knights-at-ontario-reign-with-projected-lines-11-22-2026/",
+   "https://prohockeynews.com/firebirds-get-best-of-reign-6-4/"
+  ]
+ },
+ {
+  "eid": "sr:match:76682400",
+  "fx": "Alianza Lima v Atletico Atenea",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Women's Liga Peruana fecha 6, Fase 1; Polideportivo Lucha Fuentes 18:30 Lima (=board 23:30 UTC). Alianza uses the next 3 league games as warm-ups before the Club World Championship (rotation risk). Last meeting Alianza 3-2 Atenea.",
+  "news": "Alianza lost last game (sources conflict: 0-3 v Dep. Wanka vs 1-3 v USMP); Atenea lost 1-3 to G\u00e9minis.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks. Alianza possible rotation pre-Club World Championship.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.infobae.com/peru/deportes/2026/11/19/los-3-partidos-que-alianza-lima-jugara-previo-al-mundial-de-clubes-de-voley-programacion-de-los-ensayos-en-la-liga-peruana-20262027/",
+   "https://rpp.pe/voley/mas-voley/alianza-lima-vs-atletico-atenea-en-vivo-a-que-hora-juegan-y-donde-ver-fecha-6-fase-1-liga-peruana-de-voley-2026-2027-via-latina-y-youtube-voley-noticia-1719055"
+  ]
+ },
+ {
+  "eid": "sr:match:72909590",
+  "fx": "Dallas Stars v Pittsburgh Penguins",
+  "sport": "ice hockey",
+  "absences": "PIT: Malkin (UBI), Rust (LBI), Nick Robertson (LBI), Soderblom (UBI), Graves (knee, IR). DAL: Myers, Bichsel (IR), Back & Capobianco (LTIR), Duchene (to Jan). Harley expected to play.",
+  "context": "NHL; Pittsburgh (7-13-2) at Dallas (14-6-2), 7pm ET (=board 00:00 UTC). Oettinger expected for DAL (12-4-1, 2.20 GAA). DAL allows 2.46 GA/g, PIT 3.59 GA/g on 28.4 shots.",
+  "news": "Pens without Malkin, Rust and Robertson; Dallas 14-point gap and Oettinger in net.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.45,
+    "p": 0.671002,
+    "why": "Mechanism: Pittsburgh missing three top-9 forwards (Malkin, Rust, Robertson) plus Graves; Dallas Oettinger starts; 14-pt standings gap. Own p ~0.70."
+   },
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.4,
+    "p": 0.692302,
+    "why": "Pittsburgh concede 3.59/g (4.0 L10) with unstable D pairs; Dallas top line Benn-Johnston-Rantanen intact. Own p ~0.71 (correlated with ML; use one per slip)."
+   }
+  ],
+  "avoid": "Pittsburgh Over 1.5 (scoring depth out), Unders.",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.nhl.com/news/pittsburgh-penguins-dallas-stars-game-preview-november-22-2026",
+   "https://insidetherink.com/nhl-game-preview-pittsburgh-penguins-at-dallas-stars-with-line-combinations-11-22-2026/",
+   "https://www.pensburgh.com/penguins-lines-game-time-watch/83456/game-preview-pittsburgh-penguins-dallas-stars-11-22-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72909588",
+  "fx": "St. Louis Blues v Edmonton Oilers",
+  "sport": "ice hockey",
+  "absences": "EDM: Andersen (knee, IR to Jan 9), Nugent-Hopkins cleared but unlikely, Hyman questionable (migraine), Janmark, Savoie, Regula out. STL: McMichael questionable; Dube, Tucker listed injured (older).",
+  "context": "NHL; both on second night of back-to-back: EDM lost 7-4 at Carolina Sat, STL beat NJ 9-6 Sat. Projected goalies Jarry (EDM) and Hofer (STL). Enterprise Center 7:10pm ET (=board 00:00 UTC).",
+  "news": "Back-to-back both sides, second-choice goalies, Blues games 9-6, 8-6 recently.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.37,
+    "p": 0.703982,
+    "why": "Both on back-to-backs with goalie changes (Jarry/Hofer); Blues home games average 9.75 goals in L4, Oilers conceded 7 Sat. Own p ~0.73."
+   },
+   {
+    "mid": "768",
+    "spec": "variant=pre:playerprops:72909588:852994",
+    "desc": "McDavid, Connor 1+",
+    "odds": 1.19,
+    "p": 0.7816,
+    "why": "McDavid v a tired Blues D on B2B with Hofer in net; RNH/Hyman absences concentrate ice time on McDavid-Draisaitl. Own p ~0.80."
+   }
+  ],
+  "avoid": "Edmonton result-side (B2B, Hyman/RNH doubts); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://insidetherink.com/nhl-game-preview-edmonton-oilers-at-st-louis-blues-with-line-combinations-11-22-2026/",
+   "https://www.hockey.com/news/jarry-and-hofer-set-to-start-as-oilers-visit-blues-x84ezn",
+   "https://www.nhl.com/oilers/news/projected-lineup-oilers-at-blues-11-22-26"
+  ]
+ },
+ {
+  "eid": "sr:match:72909592",
+  "fx": "Vancouver Canucks v Chicago Blackhawks",
+  "sport": "ice hockey",
+  "absences": "CHI: Bedard (shoulder surgery, months), Byram (UBI, IR), Frondell likely out (new injury Sat), Ellis (season), Kaiser match penalty (suspension pending). VAN: Pettersson (UBI) likely out, Gallagher (IR), Demko (hip, IR), Brisebois (IR).",
+  "context": "NHL; Chicago on 2nd night of B2B after Calgary. Goalies: Drew Commesso first NHL start of season (CHI), Nikita Tolopilo 2nd start (VAN). Rogers Arena, board 01:00 UTC = 5pm PT.",
+  "news": "Both depleted; backup goalies both ends; Chicago tired.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.3,
+    "p": 0.744323,
+    "why": "Two third-choice/backup goalies (Commesso first start, Tolopilo 2nd), both teams conceding 4.0-4.5/g L10, Chicago tired on B2B. Own p ~0.77."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.806401,
+    "why": "Vancouver v Commesso (first start) and a Chicago D missing Byram/Ellis on a B2B. Own p ~0.83."
+   }
+  ],
+  "avoid": "Result-sides (both rosters gutted; Vancouver +1.5 is a catch v a ~0.6 favourite).",
+  "confidence": 0.3,
+  "sources": [
+   "https://thehockeynews.com/nhl/vancouver-canucks/game-day/vancouver-canucks-gameday-preview-26-facing-the-bedard-less-blackhawks-on-a-back-to-back",
+   "https://www.bleachernation.com/blackhawks/2026/11/22/blackhawks-at-canucks-lineups-broadcast-info-game-thread-6/",
+   "https://chicagohockeynow.com/chicago-blackhawks-recall-center-depth-hints-frondell-could-miss-canucks-game/"
+  ]
+ },
+ {
+  "eid": "sr:match:72733788",
+  "fx": "Bakersfield Condors v Coachella Valley Firebirds",
+  "sport": "ice hockey",
+  "absences": "no named absences found",
+  "context": "AHL; Coachella Valley (9-6-3-1, 22 pts) at Bakersfield (5-9-1-2, 13 pts), Dignity Health Arena 5:10pm PT (=board 01:10 UTC). Both played Sat: Bakersfield lost 5-1 to Henderson, CV won 6-4 at Ontario.",
+  "news": "Bakersfield 2-8 L10 conceding 3.7/g; one FloHockey listing names a different venue (Mechanics Bank Arena = same building, renamed) - not a real conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7849197886,
+    "why": "Bakersfield concede 3.7/g (4.0 at home), lost 1-5 Saturday; CV scored 6 Sat. Own p ~0.80."
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.33,
+    "p": 0.646664669,
+    "why": "Standings gap 22 v 13 pts, Bakersfield 1-5 home L6. Own p ~0.67."
+   }
+  ],
+  "avoid": "Bakersfield +1.5, Bakersfield goals Overs.",
+  "confidence": 0.3,
+  "sources": [
+   "https://insidetherink.com/ahl-game-preview-coachella-valley-firebirds-at-bakersfield-condors-with-projected-lines-11-22-2026/",
+   "https://cvfirebirds.com/schedule/2026-27-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:77061014",
+  "fx": "Titans v Tornado",
+  "sport": "volleyball",
+  "absences": "n/a",
+  "context": "Russia \"Liga Pro\" volleyball (Titans-Pro v Tornado-Pro): high-frequency betting-circuit league with the same teams meeting repeatedly; no team news exists.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: no information edge, betting-circuit league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://betsapi.com/volleyball/r/9131972/titans-pro-vs-tornado-pro",
+   "https://www.sofascore.com/team/volleyball/titans/347115"
+  ]
+ }
+]
