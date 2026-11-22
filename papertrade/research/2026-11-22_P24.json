@@ -1,0 +1,523 @@
+[
+ {
+  "eid": "sr:match:73295836",
+  "fx": "FC Barcelona B v Cacereno Femenino",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Women's Primera Federacion matchday 9; Barca B is a reserve side. Kick-off 11:00 local (10:00 UTC) matches board.",
+  "news": "Fixture and time confirmed by futboleras; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result markets (women's/reserve). Over 1.5 at 1.19: Cacereno 5W in last 10, so not a clear mismatch.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futboleras.es/primera-federacion-femenina.html",
+   "https://lasfutbolistas.com/calendario-de-primera-rfef-femenina-2026-2027-todas-las-jornadas/"
+  ]
+ },
+ {
+  "eid": "sr:match:72509494",
+  "fx": "Getafe CF B v RSD Alcala SAD",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G5. Getafe B is a reserve side; both teams draw-heavy (Getafe B 5D, Alcala 4D in last 10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result-side picks. Unders below p 0.82.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fotmob.com/teams/189672/overview/getafe-b"
+  ]
+ },
+ {
+  "eid": "sr:match:72507596",
+  "fx": "SCR Pena Deportiva v CF Lorca Deportiva",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G3. Pena Deportiva 2W in last 10 (0.9 GF); Lorca 4W3D3L. Fixture is on the RFEF G3 calendar, but no date was confirmed online.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip prices; no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_iii.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:73295832",
+  "fx": "Athletic Bilbao B v Real Union de Tenerife Santa Cruz",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Women's Primera Federacion; Athletic B is a reserve side. 12:00 local (11:00 UTC) per futboleras matches board.",
+  "news": "Time confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: rule allows only goals markets in clear mismatches.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futboleras.es/primera-federacion-femenina.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73295840",
+  "fx": "Sport Extremadura CD v Real Madrid B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Women's Primera Federacion; Real Madrid B is a reserve side (0W in last 10, conceding 2.6). 12:00 local per futboleras.",
+  "news": "Time confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: rule allows only goals markets in clear mismatches. Not a clear mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futboleras.es/primera-federacion-femenina.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73295842",
+  "fx": "Villarreal CF v Alhama CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Women's Primera Federacion; 12:00 local per futboleras.",
+  "news": "Time confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: rule allows only goals markets in clear mismatches.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futboleras.es/primera-federacion-femenina.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72507586",
+  "fx": "CD Atletico Baleares v Real Murcia Imperial FC",
+  "sport": "football",
+  "absences": "Imperial: Binjamin suspended (red card, two yellows); top scorer Divine Yeboah returns from suspension.",
+  "context": "Segunda Federacion G3, Estadio Balear, 12:00 local. Baleares are 9th, 16 pts (4W4D3L), last game a 2-1 win at Ilicitano. Imperial is Real Murcia's reserve side.",
+  "news": "Real Murcia preview: Yeboah back, Binjamin out. Baleares only mid-table, with a weak home record (2W1D3L in their last 6 home games).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Baleares win at 1.30 (p 0.71) looks rich for a 9th-placed side with a poor home record against an opponent getting its top scorer back. Fragile favourite. Reserve opponent.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.realmurcia.es/el-imperial-visita-al-atletico-baleares-con-ganas-de-reencontrarse-con-la-victoria/"
+  ]
+ },
+ {
+  "eid": "sr:match:73760500",
+  "fx": "CD Atletico Paso v Real Valladolid Promesas",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G5; Valladolid Promesas (coach Javi Baraja) is a reserve side. Venue: Municipal de El Paso, La Palma.",
+  "news": "Pasion Violeta lists the kick-off as 13:00. The board has 11:00 UTC (12:00 peninsular, 11:00 Canary), so neither reading matches.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: source says 13:00, board says 11:00 UTC.",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pasionvioleta.com/t13935-c-d-atletico-paso-real-valladolid-promesas-domingo-22-de-noviembre-1300"
+  ]
+ },
+ {
+  "eid": "sr:match:73760350",
+  "fx": "CD Castellon B v UD Castellonense",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Castellon city derby, Segunda Federacion G3, 12:00 local. Golsmedia frames it as a direct playoff duel with 3 pts between the sides. Castellon B (reserve) led the group in October.",
+  "news": "Derby, 3-pt gap; H2H last 6: Castellon B 3W, Castellonense 1W, 2D.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby plus a reserve side: no result-sides. U3.5 p 0.59 is below the 0.82 Under gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://golsmedia.com/castellonense-quiere-igualar-castellon-b-duelo-directo-por-playoff/",
+   "https://www.vavel.com/es/futbol/2026/10/07/segunda-b/1274325-cd-castellon-b-el-lider-destacado-del-grupo-iii-de-la-segunda-federacion.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72508592",
+  "fx": "CD Don Benito v Marbella FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G4. Marbella scored 0.2 goals per away game over their last 5 away; Don Benito 3W1D1L at home.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism. U2.5 p 0.57 is below the gate.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72508590",
+  "fx": "Club Atletico Central v CD Xerez",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G4, Nuevo Estadio Ciudad de Alcala, 12:00 local. Xerez (coach Abel Segovia) have won 4 straight and sit 6th. Central are newly promoted and were in the drop zone a few weeks ago, but are strong at home (3W1L, 0.2 GA in their last 4 home games).",
+  "news": "Xerez chasing a 5th straight win; first 500 tickets sold out.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Xerez DNB at 1.44 (p 0.64): their form run conflicts with Central's tight home record, so no edge over the house.",
+  "confidence": 0.15,
+  "sources": [
+   "https://andaluciainformacion.es/jerez/jerez-deportes/xerez-cd-buscara-alcala-quinta-victoria-consecutiva/202611191618233542465.html",
+   "https://www.andaluciainformacion.es/jerez/jerez-deportes/xerez-cd-prepara-partido-domingo-central/202611181806023541351.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72508600",
+  "fx": "CP Mijas-Las Lagunas v UD Las Palmas Atletico",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G4, 12:00 local. Las Palmas Atletico (reserve) have 8 pts from 11 games (2W2D7L) and are poor away (1W4L, 0.6-2.6).",
+  "news": "Fixture and time confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: goals only, and O2.5 at p 0.53 is not a clear mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolaspalmas.com/segunda-rfef/grupo-5-canarias-LD8.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72505300",
+  "fx": "Deportivo Alaves B v SD Compostela",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G1, Ibaia 3, 12:00 local. Alaves B (reserve) are 2nd, 23 pts, best attack (24 goals). Compostela are 7th, 17 pts, chasing a 4th straight away win, but lost 0-1 at home to Ourense last time.",
+  "news": "Top-of-table clash; both teams in form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve home side: no result-side. Goals are coin-flip prices.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sdcompostela.com/2026/11/20/el-compostela-buscara-ganar-en-vitoria/",
+   "https://minutonoventa.com/compostela-ourense-cf-y-bergantinos-tres-partidos-que-pueden-reordenar-la-zona-alta/"
+  ]
+ },
+ {
+  "eid": "sr:match:72506832",
+  "fx": "Girona FC B v UD Logrones B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G2, 11:00 GMT. Girona B are 4th, 22 pts, 4 wins in their last 5 (4-0 Olot, 3-0 Naxara, 1-0 at Barcelona B). Logrones B have 10 pts and are winless in 5 (-7 GD). Both are reserve sides.",
+  "news": "Girona B in strong form v a struggling Logrones B. Betfair has Girona B at 1.30.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve v reserve: no result-sides. Goals markets are U3.5/O3.5 only (U below the 0.82 gate).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballstreams.com/matches/girona-b-vs-ud-logrones-b-20261122/",
+   "https://gainblers.com/la/apuestas/futbol/espana/segunda-rfef-ii/gironab-udlogronesb/"
+  ]
+ },
+ {
+  "eid": "sr:match:72506834",
+  "fx": "Naxara CD v CD Ebro",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G2. Naxara are toothless: 0.5 GF per game over their last 10 (1W3D6L), and lost 0-3 at Girona B. Ebro 6W1D3L, 1.9 GF; they won 4-1 v Naxara in January 2026.",
+  "news": "no news found for this fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.26,
+    "p": 0.7361087009,
+    "why": "Naxara score 0.5 per game (0.6 at home) and have 1 win in 10; Ebro unbeaten in 7 of their last 10. Statistics-only (fill). My estimate is 0.75."
+   }
+  ],
+  "avoid": "Ebro win at 1.97: away 1X2 below p 0.75.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fotmob.com/ar/teams/190077/overview/naxara",
+   "https://cdebro.com/ebro-cf-calamocha-tercera-victoria-consecutiva/"
+  ]
+ },
+ {
+  "eid": "sr:match:72507592",
+  "fx": "RCD Mallorca B v CD Cieza",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G3; Mallorca B is a reserve side.",
+  "news": "Besoccer lists the match on 21 Nov; Futbolme lists it on 22/11 (televised).",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (21 v 22 Nov).",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.besoccer.com/team/matches/mallorca-b",
+   "https://futbolme.com/resultados-directo/equipo/rcd-mallorca-b/220/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73493052",
+  "fx": "Real Oviedo Vetusta v Atletico Astorga FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G5, El Requexon 1, 12:00 local per Leonoticias and Futbolasturiano. Vetusta (reserve) are chasing the playoff. Astorga (coach Jose Luis Lago) have 2 pts from their last 5 and lost all 5 recent away games.",
+  "news": "Diario de Leon: a demanding test for Astorga. FootyStats lists the fixture on 23/11 at La Eragudina (Astorga's ground).",
+  "veto": true,
+  "veto_reason": "Date/venue conflict: FootyStats has 23/11 at La Eragudina, other sources have 22/11 at El Requexon. Most sources favour 22/11, but the venue rule applies. Reserve side regardless.",
+  "picks": [],
+  "avoid": "Everything (veto, reserve).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diariodeleon.es/deportes/261121/2103899/reto-exigente-astorga.html",
+   "https://www.leonoticias.com/deportes/horarios-partidos-distintas-competiciones-deporte-leon-fin-20261120150619-nt.html",
+   "https://www.futbolasturiano.es/evento/real-oviedo-vetusta-atletico-astorga-fc-2/",
+   "https://footystats.org/es/clubs/real-oviedo-cf-vetusta-10722"
+  ]
+ },
+ {
+  "eid": "sr:match:72507598",
+  "fx": "UCAM Murcia v Yeclano Deportivo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Murcia-region derby (Murcia v Yecla), Heredia 21 La Condomina, 12:00 local, Movember charity match. UCAM (coach Jose Carlos Romero 'Checa') are 2nd with 22 pts after a 0-1 win v Imperial. Yeclano 0W in their last 5 away.",
+  "news": "COPE: a key round for the Murcian clubs; UCAM 2nd.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UCAM DNB 1.29 is tempting (form 7W in last 10), but this is a regional derby, so no result-side is allowed.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cope.es/emisoras/region-de-murcia/murcia-provincia/murcia-san-javier/deportes-cope-en-murcia/noticias/deportiva-minera-defiende-liderato-segunda-rfef-jornada-clave-equipos-murcianos-20261120_3478883.html",
+   "https://yeclasport.com/ucam-yeclano-deportivo/"
+  ]
+ },
+ {
+  "eid": "sr:match:73760262",
+  "fx": "Utebo FC v CF Calamocha",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G2, Estadio Santa Ana. Calamocha are in their first Segunda RFEF season: 1W2D7L, 0.5 GF, and 0.2 GF away over their last 4. Utebo also blunt (0.6 GF at home over their last 5).",
+  "news": "no news found for this fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.794859,
+    "why": "Calamocha are newly promoted and have scored 1 goal in their last 4 away games; Utebo finished 4th last season. Draw refunds. Statistics-only (fill). My estimate is 0.79."
+   }
+  ],
+  "avoid": "Utebo -0.5 at 1.50: Utebo's own attack is poor (0.6 GF at home).",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/CF_Calamocha",
+   "https://en.wikipedia.org/wiki/Utebo_FC"
+  ]
+ },
+ {
+  "eid": "sr:match:73760430",
+  "fx": "CA Antoniano v Puente Genil FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G4. Antoniano 1W in last 10, conceding 1.9 per game; Puente Genil 3W3D4L.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.estadioteca.es/2a-rfef/grupo-4"
+  ]
+ },
+ {
+  "eid": "sr:match:72506838",
+  "fx": "Reus FC Reddis v UE Olot",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G2, 12:30 local (11:30 GMT) per footballstreams and Futbolme. Reus 6W2D2L in their last 10; Olot lost 0-4 at Girona B on 08/11.",
+  "news": "No current preview found beyond the fixture listing.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.41,
+    "p": 0.654664,
+    "why": "Reus are in good form (6W in last 10, 3W1D1L at home); Olot were beaten 0-4 at Girona B recently. Draw refunds. Statistics-only (fill). My estimate is 0.67."
+   }
+  ],
+  "avoid": "U2.5 p 0.60 is below the Under gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballstreams.com/matches/reus-fc-reddis-vs-ue-olot-20261122/"
+  ]
+ },
+ {
+  "eid": "sr:match:72508596",
+  "fx": "CD Linares v Atletico Sanluqueno",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G4, Estadio Municipal de Linarejos. Sanluqueno have 10 pts from 11 games (2W4D5L). Partido a Partido says Linares are in good form.",
+  "news": "Kick-off conflict: Partido a Partido and Forebet say 13:00 local, Planomato says 17:00.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (13:00 v 17:00 local).",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.partidoapartido.es/el-linares-deportivo-quiere-seguir-sumando-ante-el-sanluqueno/",
+   "https://www.planomato.com/es/linares/p/partido-linares-deportivo-atletico-sanluqueno",
+   "https://www.forebet.com/es/football/matches/linares-deportivo-atl%C3%A9tico-sanluque%C3%B1o-2536855"
+  ]
+ },
+ {
+  "eid": "sr:match:72509482",
+  "fx": "Atletico Albacete v CD Guadalajara",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G5; Atletico Albacete is a reserve side. Both teams mid-table; Guadalajara concede 2.0 per game.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/atletico-albacete/615/clasificacion/"
+  ]
+ },
+ {
+  "eid": "sr:match:72505308",
+  "fx": "UD Llanera v Ourense CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G1.",
+  "news": "Minutonoventa lists the fixture as Ourense at home to Llanera, 16:00 at Pepe Quimaran. The board has Llanera at home.",
+  "veto": true,
+  "veto_reason": "Venue/home-side conflict: the source lists Ourense as the home side.",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://minutonoventa.com/segunda-federacion-el-coruxo-abre-el-sabado-y-compostela-ourense-y-arosa-juegan-el-domingo/"
+  ]
+ },
+ {
+  "eid": "sr:match:72509490",
+  "fx": "CDA Navalcarnero v Gimnastica Segoviana CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G5. Navalcarnero have 17 pts and are ahead of Segoviana; Segoviana 0W in their last 5 away.",
+  "news": "No preview found; fixture is on the round listing.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_v.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72505302",
+  "fx": "Arosa SC v SD Eibar B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G1, A Lomba, 17:00 local (16:00 UTC, matches board). Eibar B (reserve) are 3rd. Arosa are 15th with 9 pts, 1 win all season, and 4 games without a win.",
+  "news": "Eibar B preview: 'a lo nuestro'; Arosa winless in 4.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve away side: no result-side, even though the mechanism favours Eibar B.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sdeibar.com/noticias/previa-or-a-lo-nuestro",
+   "https://minutonoventa.com/segunda-federacion-el-coruxo-abre-el-sabado-y-compostela-ourense-y-arosa-juegan-el-domingo/"
+  ]
+ },
+ {
+  "eid": "sr:match:72505304",
+  "fx": "Bergantinos FC v CD Basconia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G1, As Eiroas (Carballo), 17:00 local. Bergantinos are 4th with 19 pts, unbeaten at home (3W2D in their last 5). Basconia are 10th with 14 pts, lost 0-1 to Alaves B, and are Athletic Club's farm team (young squad).",
+  "news": "Fixture confirmed by Minutonoventa.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Bergantinos DNB 1.27 (p 0.74) is plausible, but Basconia is a farm/reserve-type side and there is no named mechanism. O2.5 is a coin-flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://minutonoventa.com/compostela-ourense-cf-y-bergantinos-tres-partidos-que-pueden-reordenar-la-zona-alta/"
+  ]
+ },
+ {
+  "eid": "sr:match:72506844",
+  "fx": "CD Tudelano v Pena Sport FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G2. Pena Sport are 10th with 13 pts (3W4D4L) after promotion as Tercera champions. Tudelano 1W in their last 6 at home, conceding 2.7.",
+  "news": "Kick-off conflict: Fotmob says 16:00, Flashscore says 10:00.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources.",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fotmob.com/teams/8211/overview/pena-sport"
+  ]
+ },
+ {
+  "eid": "sr:match:72509498",
+  "fx": "CF Talavera de La Reina v SDA Tordesillas",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G5. Talavera are unbeaten at home (4W1D) but lost 4-1 at Puertollano on 15/11. Tordesillas beat Atletico Paso 3-2 on 15/11 and are 11th.",
+  "news": "Kick-off listed as 12:00 local (11:00 GMT) by one source and 16:00 GMT by another.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict: 11:00 v 16:00 UTC.",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballstreams.com/matches/cf-talavera-de-la-reina-vs-atletico-tordesillas-20261122/",
+   "https://gainblers.com/us/bets/football/spain/segunda-rfef-v/talavera-attordesillas/"
+  ]
+ },
+ {
+  "eid": "sr:match:72507594",
+  "fx": "Orihuela CF v CF La Nucia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Federacion G3. Orihuela 0W in their last 5 at home (0.6 GF).",
+  "news": "Besoccer lists Orihuela v La Nucia on 21 Nov; the board has 22 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict (21 v 22 Nov).",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.besoccer.es/equipo/partidos/orihuela"
+  ]
+ }
+]
