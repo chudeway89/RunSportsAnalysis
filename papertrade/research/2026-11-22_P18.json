@@ -1,0 +1,534 @@
+[
+ {
+  "eid": "sr:match:72749472",
+  "fx": "Skkp Hanball Brno v TJ Sokol Nove Veseli",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Czech Extraliga. handball.cz lists it for Sun 22 Nov at 10:30 local (09:30 UTC), matching the board. Brno 5-0-5 in the last 10; Nove Veseli 6-1-3.",
+  "news": "Kick-off confirmed by handball.cz; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets: coin-flip lines with no mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.handball.cz/souteze/muzi/extraliga/detail/tym/f34d432b-c2ad-40c9-8705-3332a4d4011c"
+  ]
+ },
+ {
+  "eid": "sr:match:72749482",
+  "fx": "Talent Plzen v HBC Strakonice 1921",
+  "sport": "handball",
+  "absences": "Strakonice signed LB Leonard Kaplan from Talent in the summer.",
+  "context": "Talent Plzen are the 2026 champions (9 titles) and 8-1-1 in the last 10; Strakonice are 1-1-8.",
+  "news": "No team news found. Line is -10.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "AH -10.5 is a coin flip; the 1X2 at 1.01 is not playable",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.handball.cz/souteze/muzi/extraliga/detail/tym/f34d432b-c2ad-40c9-8705-3332a4d4011c"
+  ]
+ },
+ {
+  "eid": "sr:match:74290536",
+  "fx": "Norilsky Nickel v Tzms Tula",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Russian Superliga. Norilsk are 3rd on 25 pts per the Sport-Express table; Tula conceded 6.1 per game over the last 10 (3-0-7). Norilsk won the last H2H 8-5.",
+  "news": "Table position confirmed; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.770173,
+    "why": "Norilsk 3rd in the table at home v a Tula side conceding 6.1/game (3W in 10); Norilsk won the last H2H 8-5. Own est 0.78, close to the house price, so weak value."
+   }
+  ],
+  "avoid": "totals",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sport-express.net/futsal/L/russia/2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:74290538",
+  "fx": "Torpedo Nizhny Novgorod v Gazprom-Ugra Yugorsk",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Gazprom-Ugra top the Superliga on 37 pts (8-0-2 in the last 10, 6.4 goals scored per game); Torpedo are 7th on 18. Last H2H 10-9.",
+  "news": "Table confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=6.5",
+    "desc": "Over 6.5",
+    "odds": 1.73,
+    "p": 0.532912,
+    "why": "Yugra games average 9.7 goals and Torpedo games 9.0 over the last 10; last H2H 10-9; trend 0.65. Own est 0.57."
+   }
+  ],
+  "avoid": "Away 1X2 at p 0.72 is below the 0.75 away gate",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sport-express.net/futsal/L/russia/2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:76888904",
+  "fx": "Green Eagles v Red Arrows",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Zambia Super League, rescheduled matchweek 3 at Independence Stadium, Choma. Green Eagles lead on 17 pts, 5 clear, after beating Buffaloes 2-1 midweek. Red Arrows (2026 ABSA Cup holders, in the CAF Confederation Cup) lost 2-1 at ZESCO on 19 Nov, so both sides played midweek. Betexplorer's 14:00 is most likely CET (=13:00 UTC, matching the board), so no conflict.",
+  "news": "Eagles top with a 5-pt lead; Arrows lost at ZESCO on 19 Nov; both played midweek.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 at p 0.69 is below the 0.82 Under gate; Over 1.5 is out in a low-scoring league (1.7-2.0 goals per game); result-side is a top-of-table clash",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lusakatimes.com/2026/11/19/super-league-eagles-open-five-point-lead/",
+   "https://www.betexplorer.com/football/zambia/super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:76869116",
+  "fx": "Nchanga Rangers v Trident FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Rescheduled matchweek 3 at Nchanga Stadium, Chingola. Trident are 8th after a 0-0 at Kansanshi; Nchanga are 3-2-5 in the last 10.",
+  "news": "No team news; kick-off consistent across sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: low-scoring and thin; Unders below the gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lusakatimes.com/2026/11/19/super-league-eagles-open-five-point-lead/",
+   "https://www.betexplorer.com/football/zambia/super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72850674",
+  "fx": "Aarhus United v Ajax Copenhagen",
+  "sport": "handball",
+  "absences": "not checked (women's)",
+  "context": "Women's Danish 1. Division: no result-side picks. Ajax 7-0-3 in the last 10.",
+  "news": "no news found (no source covered this league)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/danmark-dame-haandbold-ligaen/kvinder/turnering/overblik"
+  ]
+ },
+ {
+  "eid": "sr:match:72850672",
+  "fx": "Fredericia HK v AGF Aarhus",
+  "sport": "handball",
+  "absences": "not checked (women's)",
+  "context": "Women's Danish 1. Division. AGF 8-0-2 in the last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/danmark-dame-haandbold-ligaen/kvinder/turnering/overblik"
+  ]
+ },
+ {
+  "eid": "sr:match:72850328",
+  "fx": "EH Aalborg v Nordvestjysk Elite",
+  "sport": "handball",
+  "absences": "not checked (women's)",
+  "context": "Kvindeligaen, 22 Nov 14:00 local (13:00 UTC), confirmed. Aalborg are bottom at 1-0-9 (239-316 goals).",
+  "news": "Date confirmed; Aalborg bottom with 2 pts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no result-side; totals not a clear mismatch play",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/danmark-dame-haandbold-ligaen/kvinder/turnering/overblik",
+   "https://tophaandbold.dk/stillinger/kvindeligaen"
+  ]
+ },
+ {
+  "eid": "sr:match:72850336",
+  "fx": "Silkeborg Voel KFUM v Nykoebing Falster HB",
+  "sport": "handball",
+  "absences": "not checked (women's)",
+  "context": "Kvindeligaen, 22 Nov 14:00 local, confirmed. Nykobing 3rd on 15 pts; Silkeborg-Voel 9th on 8. Last H2H 21-35.",
+  "news": "Date confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/danmark-dame-haandbold-ligaen/kvinder/turnering/overblik",
+   "https://tophaandbold.dk/stillinger/kvindeligaen"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114285971",
+  "fx": "Swansea City Women v Aberystwyth Town Women",
+  "sport": "football",
+  "absences": "not checked (women's)",
+  "context": "Adran Premier. Aberystwyth's club fixtures list Sun 22 Nov at Swansea, 14:00 KO, Garden Village Park, matching the board. Clear mismatch (Swansea 1.06), but there is no Sportradar form to size the total.",
+  "news": "Date and venue confirmed by Aberystwyth.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: Over 3.5 (p 0.67) lacks form data, so no pick",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.atfc.org.uk/women-fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72473282",
+  "fx": "FRISCH AUF! Goppingen v Fuchse Berlin",
+  "sport": "handball",
+  "absences": "Fuchse: Nils Lichtlein (shoulder, back mid-Dec). Goppingen: captain Ymir Orn Gislason doubtful after surgery on his throwing hand.",
+  "context": "HBL matchday 13. Fuchse recently beat Kiel; Goppingen 5-0-5 in the last 10.",
+  "news": "Lichtlein out for Fuchse; Gislason doubtful for Goppingen (betting-preview source, single).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "AH -3.5/-4.5 near the house price; both sides missing key players",
+  "confidence": 0.2,
+  "sources": [
+   "https://tipsterio.de/sportwetten-tipps/frisch-auf-goeppingen-vs-fuechse-berlin-wett-tipp-prognose-22-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72207010",
+  "fx": "Fjellhammer IL v Storhamar HE",
+  "sport": "handball",
+  "absences": "not checked (women's)",
+  "context": "Women's REMA/Elkjop-ligaen. Fjellhammer qualified via play-off and are near the top early; Storhamar were 2025/26 runners-up.",
+  "news": "no news found for this round",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/handball/tournament/norway/rema-1000-ligaen-women/223"
+  ]
+ },
+ {
+  "eid": "sr:match:72840362",
+  "fx": "Skanderborg-Aarhus Haandbold v Ribe-Esbjerg HH",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Herreligaen. Ribe-Esbjerg's club page lists Sun 22 Nov 16:00 at FREJA Arena, Skanderborg (15:00 UTC = board). Flashscore's snippet also shows 22.11, and its 26.11 entry looks like the next game. Both mid-table (6th/5th earlier).",
+  "news": "Date and venue confirmed by club page; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "lines near the house price, no mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://rehh.dk/",
+   "https://www.flashscore.dk/hold/ribe-esbjerg/pliS0VZ1/",
+   "https://sport.tv2.dk/haandbold/danmark-herre-haandbold-ligaen/herrer/turnering/stilling"
+  ]
+ },
+ {
+  "eid": "sr:match:72207012",
+  "fx": "Flint Toensberg v Tertnes HE Bergen",
+  "sport": "handball",
+  "absences": "not checked (women's)",
+  "context": "Promoted Flint are 0-10 in the last 10 (bottom, 0 pts); Tertnes near the top.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/handball/tournament/norway/rema-1000-ligaen-women/223"
+  ]
+ },
+ {
+  "eid": "sr:match:72473276",
+  "fx": "SG Flensburg-Handewitt v Rhein-Neckar Lowen",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "HBL, Sun 22 Nov 16:30 local (15:30 UTC), confirmed on the Lowen site. Flensburg 8-0-2 in the last 10 (8 home wins listed); Lowen 2-2-6 with 0 away wins in recent away games. Flensburg won the previous meetings 36-33.",
+  "news": "Kick-off confirmed; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-3.5",
+    "desc": "Home (-3.5)",
+    "odds": 1.58,
+    "p": 0.593219,
+    "why": "Flensburg 8-0-2 v a Lowen side at 2-2-6 who conceded 31/game; Flensburg's last-10 average margin is +3.6. Own est 0.60; marginal, statistics-based."
+   }
+  ],
+  "avoid": "Over lines",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.rhein-neckar-loewen.de/"
+  ]
+ },
+ {
+  "eid": "sr:match:73322056",
+  "fx": "FC Gmina Sierakowice v Lecha Poznan",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Polish Ekstraklasa. The 22 Nov round was not visible in the snippets (pages may be cached); no conflicting date found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futsal-polska.pl/futsal-ekstraklasa/terminarz"
+  ]
+ },
+ {
+  "eid": "sr:match:72749028",
+  "fx": "Fenix Toulouse Handball v Montpellier Handball",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Starligue. Montpellier won the 2026 Coupe de France but are 3-2-5 in the last 10; Toulouse home 7-0-3.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Montpellier -0.5/-1.5: form contradicts price",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/LNH_Division_1"
+  ]
+ },
+ {
+  "eid": "sr:match:72749022",
+  "fx": "Paris Saint-Germain v Tremblay En France",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Starligue J11. The PSG ticketing site and Tremblay's calendar give Sun 22 Nov 17:00 at Coubertin (16:00 UTC = board). PSG's older season calendar said Fri 20 Nov TBC, superseded. PSG host Wisla Plock in the Champions League on Thu 26 Nov (4 days later), so rotation risk. Tremblay 7-1-2 in the last 10.",
+  "news": "Latest sources agree on 22 Nov; an earlier 'TBC 20 Nov' was a placeholder (data_conflict flag, no veto).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "PSG -5.5/-6.5: rotation before the CL game and a Tremblay side in form",
+  "confidence": 0.15,
+  "sources": [
+   "https://billetterie.psg.fr/en/hand/schedule",
+   "https://www.psg.fr/en/handball/fixtures/season/2026-27",
+   "https://www.tremblayhandball.com/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:72473278",
+  "fx": "HSV Hamburg v SC Magdeburg",
+  "sport": "handball",
+  "absences": "Magdeburg: Oscar Bergendahl (ankle at GOG in the CL, duration unknown), Antonio Serradilla (missed the cup game).",
+  "context": "Magdeburg lead the HBL at 11-0-1 (+54) and are 10-0 in the last 10; Hamburg are 13th at 3-1-8. Magdeburg won the cup tie 43-32 earlier in November.",
+  "news": "Magdeburg missing Bergendahl and possibly Serradilla, but they are deep.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=3.5",
+    "desc": "Away (-3.5)",
+    "odds": 1.54,
+    "p": 0.61038,
+    "why": "Magdeburg 10-0 with a +5.0 average margin v 13th-placed Hamburg (-10 goal difference); won the November cup meeting 43-32. Absences are rotation-level. Own est 0.64."
+   }
+  ],
+  "avoid": "Over 61.5: Hamburg game totals average 61",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.handball-world.news/spiel/magdeburg-gegen-hc-hamburg-2026-dhb-pokal-5269381/bericht",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Handball-Bundesliga",
+   "https://www.nacionale.com/de/articles/warum-wurde-sc-magdeburg-spiel-gog-unterbrochen-handball-champions-league-notfall"
+  ]
+ },
+ {
+  "eid": "sr:match:72473878",
+  "fx": "HC Elbflorenz 2006 v 1. VfL Potsdam",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "2. HBL top-of-table clash: both on 18:4 pts. Dresden BallsportArena, 22 Nov.",
+  "news": "Top-of-table meeting confirmed by Handball-Papst; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-side in a top clash",
+  "confidence": 0.15,
+  "sources": [
+   "https://handballpapst.de/2-bundesliga-maenner/hc-elbflorenz-empfaengt-den-vfl-potsdam-zum-spitzenspiel/",
+   "https://www.handball-world.news/artikel/die-schiedsrichter-ansetzungen-der-2-hbl-1272291"
+  ]
+ },
+ {
+  "eid": "sr:match:72473888",
+  "fx": "SC DHfK Leipzig v TV Emsdetten",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "2. HBL round 12, Leipzig (relegated from the HBL in 2025/26) at home, QUARTERBACK Immobilien Arena. Referee list gives 22 Nov at 17:00 (local); board says 16:00 UTC = 17:00 CET, consistent. Leipzig 8-0-2; Emsdetten 2-1-7.",
+  "news": "Kick-off confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "AH -6.5 is a coin flip (Leipzig average margin +3.1)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.handball-world.news/artikel/die-schiedsrichter-ansetzungen-der-2-hbl-1272291"
+  ]
+ },
+ {
+  "eid": "sr:match:72207016",
+  "fx": "Fana HE Bergen v Utleira",
+  "sport": "handball",
+  "absences": "not checked (women's)",
+  "context": "Women's league: Fana 11th, Utleira 12th in an early table.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/handball/tournament/norway/rema-1000-ligaen-women/223"
+  ]
+ },
+ {
+  "eid": "sr:match:73322042",
+  "fx": "FC  Torun v Futsal Swiecie",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Polish Ekstraklasa. Torun 0-1-9 in the last 10 but the home favourite at 1.78; Swiecie 4-0-6, conceding 4.8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: price contradicts form",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futsal-polska.pl/futsal-ekstraklasa/terminarz"
+  ]
+ },
+ {
+  "eid": "sr:match:72473274",
+  "fx": "THW Kiel v HSG Wetzlar",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "HBL matchday 13, 22 Nov 18:00 local (17:00 UTC = board). Kiel's only home game in November; their two league losses were at Magdeburg and Fuchse. Wetzlar are fighting relegation and just won their first league game, at Balingen. Wetzlar beat Kiel 33-25 in May 2026. Venue named as both Ostseehalle and Wunderino Arena (the same arena, renamed).",
+  "news": "Kiel's only home game in November; Wetzlar's first win came last round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kiel -6.5/-7.5: trend 0.25 and Wetzlar won the last meeting",
+  "confidence": 0.2,
+  "sources": [
+   "https://thw-handball.de/bundesliga/2026/11/thw-kiel-handball-bundesliga-saison-2026-2027-hsg-wetzlar-heimspiel-vorbericht/",
+   "https://www.sportschau.de/regional/hr/hr-handball-bundesliga-hsg-wetzlar-trumpft-gegen-rekordmeister-kiel-auf-100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74119582",
+  "fx": "Budai Farkasok Nkft v Agrofeed ETO-Szese",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Hungarian NB I. ETO are on 8 straight wins (27-26 v Csurgo); Budai won 2 straight (36-25 v PLER).",
+  "news": "The Nemzeti Sport 2026-27 schedule puts Budai Farkasok v ETO on Sat 21 Nov; the board says Sun 22 Nov 17:00 UTC.",
+  "veto": true,
+  "veto_reason": "Date conflict: the published schedule says 21 Nov, the board 22 Nov",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/ferfi-kezilabda-nb-i-2026-2027",
+   "https://www.nemzetisport.hu/kezilabda/2026/11/ferfi-kezilabda-nb-i-a-csurgo-ellen-folytatta-remek-sorozatat-az-eto"
+  ]
+ },
+ {
+  "eid": "sr:match:74319334",
+  "fx": "Thor Akureyri v KA Akureyri",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Akureyri derby, Olis deild. The Olis page lists Thor v KA on a Sunday at 18:00 (Iceland = UTC, matching the board). Thor won the reverse fixture 35-31 at KA in September.",
+  "news": "Derby; Thor won the reverse fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby: no result-side",
+  "confidence": 0.1,
+  "sources": [
+   "https://ob.olis.is/deildin",
+   "https://www.visir.is/p/oliskarla"
+  ]
+ },
+ {
+  "eid": "sr:match:73866216",
+  "fx": "Up Venda Nova v SC Braga",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Liga Placard round 8, 22 Nov 19:00 (Portugal = UTC), confirmed by FPF/Flashscore. Venda Nova are promoted non-professionals who train mornings and afternoons; Braga around 3rd.",
+  "news": "Kick-off confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Braga 1X2 at 1.10 is below the minimum odds; Under 6.5 p 0.54 is below the gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.flashscore.com/match/futsal/braga-aaum-0lHxaD7d/venda-nova-EqkVTkpc/",
+   "https://www.record.pt/futebol/futsal/detalhe/os-desafios-do-venda-nova-na-liga-placard-iremos-sentir-as-consequencias-de-trabalhar-de-manha-e-de-tarde"
+  ]
+ },
+ {
+  "eid": "sr:match:72840364",
+  "fx": "Bjerringbro-Silkeborg Haandbold v GOG Handbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Herreligaen Sun 22 Nov. GOG led the table at 12-1-0 earlier in the season and played Magdeburg in the CL midweek, so congestion. Bjerringbro 7-0-3 in the last 10. GOG won the last H2H 34-29.",
+  "news": "No injury news found; GOG played a Champions League game midweek.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "GOG -1.5 (p 0.61): CL fatigue and a Bjerringbro side in form",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/danmark-herre-haandbold-ligaen/herrer/turnering/stilling",
+   "https://www.nacionale.com/de/articles/warum-wurde-sc-magdeburg-spiel-gog-unterbrochen-handball-champions-league-notfall"
+  ]
+ },
+ {
+  "eid": "sr:match:72629746",
+  "fx": "Cartagena FS v Jaen FS",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Spanish Primera. Jimbee Cartagena (2026 Supercopa winners) are 3-1-6 in the last 10 and priced as underdogs at 3.57; Jaen Paraiso Interior (2026 Copa del Rey holders) are 7-1-2. The fixture date was not confirmed by any source found.",
+  "news": "Could not confirm the date; Cartagena in a slump despite their status.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 at p 0.57 is below the away gate; status v form conflict",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/futsal/match/cartagena-fs-jaen-paraiso-interior/PeDsNvxc"
+  ]
+ }
+]
