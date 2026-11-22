@@ -1,0 +1,558 @@
+[
+ {
+  "eid": "sr:match:76407506",
+  "fx": "Shanghai v Jiangsu",
+  "sport": "volleyball",
+  "absences": "Reports of setter Xu Xiaoting being injured belong to Shanghai's WOMEN's team (in the Beijing game); no men's absences found.",
+  "context": "Men's Super League round 5, 15:30 local at Luwan gym (matches the board's 07:30 UTC). Shanghai Guangming are 3-1, 9 pts, 2nd. Jiangsu are 0-4 away in last-10 form, 0.25 sets per away game.",
+  "news": "Shanghai 2nd (3-1) at home to a weak Jiangsu; kick-off confirmed 15:30 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "237",
+    "spec": "hcp=-11.5",
+    "desc": "Home (-11.5)",
+    "odds": 1.56,
+    "p": 0.6025972237,
+    "why": "Fill (statistics-only): Jiangsu 0-4 away (1 set won), Shanghai 7-3 last 10. A typical 3-0 (25-20 x3 = +15) covers. My p 0.62 vs house 0.60."
+   }
+  ],
+  "avoid": "Shanghai ML 1.14 is under the range. Set handicap -2.5 is a coin flip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sohu.com/a/1104708250_122290245",
+   "https://www.sohu.com/a/1103930355_122261407",
+   "https://www.sohu.com/a/1104722638_122341234"
+  ]
+ },
+ {
+  "eid": "sr:match:76407510",
+  "fx": "Tianjin v Fujian",
+  "sport": "volleyball",
+  "absences": "No men's absences found.",
+  "context": "Top-of-table clash: Tianjin Food Group (holders, 4-0, 11 pts, 5-0 at home) v Fujian Fuqing (3-1, 8 pts). The last H2H went 2-3.",
+  "news": "Billed as the round-5 'top-of-the-table battle'; Tianjin unbeaten.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tianjin ML 1.17 is under the range and Fujian is a credible opponent. Lean Over 3.5 sets (1.74) but there is no edge at the extremes; no pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sohu.com/a/1104708250_122290245",
+   "https://www.sohu.com/a/1103930355_122261407",
+   "https://www.sohu.com/a/1104722638_122341234"
+  ]
+ },
+ {
+  "eid": "sr:match:76407508",
+  "fx": "Hebei Baoding v Qingdao",
+  "sport": "volleyball",
+  "absences": "No absences found.",
+  "context": "Hebei Baoding lost to Shanghai in round 4. Qingdao have lost all 10 of their last 10 (0-7 away). H2H: Hebei won 3-0 and 3-1.",
+  "news": "No team news; Qingdao winless, Hebei lost the previous round to Shanghai.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.76234,
+    "why": "Mechanism: Qingdao 0-10 last 10 and 0-7 away, and Hebei won both H2H (3-0, 3-1). Hebei 5-3 at home. My p 0.80 vs house 0.76."
+   }
+  ],
+  "avoid": "Set handicap -1.5 (1.54): Qingdao have taken sets in 4 of their last 6.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sohu.com/a/1104708250_122290245",
+   "https://www.sohu.com/a/1103930355_122261407",
+   "https://www.sohu.com/a/1104722638_122341234"
+  ]
+ },
+ {
+  "eid": "sr:match:76407512",
+  "fx": "Guangdong v Beijing",
+  "sport": "volleyball",
+  "absences": "No men's absences found (the 'Shanghai swept Beijing' report is the women's league).",
+  "context": "Guangdong Taishan Lvdaofeng v Beijing BAIC (former champions), 19:30 local (matches 11:30 UTC). One Sohu round-4 summary lists the time inconsistently. H2H Beijing 3-0, 3-0.",
+  "news": "Kick-off 19:30 local per the round preview; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Beijing away ML 1.30 (p 0.74) is under the 0.75 away floor. Points catch Home +11.5 is a catch for a 3-7 side; skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sohu.com/a/1104708250_122290245",
+   "https://www.sohu.com/a/1103930355_122261407",
+   "https://www.sohu.com/a/1104722638_122341234"
+  ]
+ },
+ {
+  "eid": "sr:match:72986882",
+  "fx": "Farum VK v Ikast KFUM Volleyball",
+  "sport": "volleyball",
+  "absences": "Women's: not checked beyond date/venue.",
+  "context": "Danish women's league. Ikast KFUM's club page lists this as an IKAST HOME match v Farum on 22 Nov at 13:30, but the board has Farum at home (12:30 UTC = 13:30 local). The time matches; the home side is reversed. Both clubs are also in the cup semi-final draw.",
+  "news": "Venue conflict: the Ikast club page lists Ikast as hosts; the board lists Farum.",
+  "veto": true,
+  "veto_reason": "Venue conflict: Ikast club page lists Ikast at home; board has Farum VK at home.",
+  "picks": [],
+  "avoid": "Everything (venue conflict, women's).",
+  "confidence": 0.1,
+  "sources": [
+   "https://volleyball.dk/2026/11/16/semifinalerne-i-andelskassen-pokalturneringen-er-trukket/",
+   "https://volleyligaen.dk/klubber/ikast-kfum-kvinder/",
+   "https://volleyball.dk/2026/10/07/ny-saeson-nye-hold-og-aabent-titelkaploeb-volleyligaen-er-tilbage/"
+  ]
+ },
+ {
+  "eid": "sr:match:72986886",
+  "fx": "Hvidovre Vk v ASV Elite",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Newly promoted Hvidovre (0-5) v reigning champions ASV Elite. Only ML 1.05 is listed.",
+  "news": "Clear mismatch; date not contradicted.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball). ML 1.05 is under the range anyway.",
+  "confidence": 0.1,
+  "sources": [
+   "https://volleyball.dk/2026/11/16/semifinalerne-i-andelskassen-pokalturneringen-er-trukket/",
+   "https://volleyligaen.dk/klubber/ikast-kfum-kvinder/",
+   "https://volleyball.dk/2026/10/07/ny-saeson-nye-hold-og-aabent-titelkaploeb-volleyligaen-er-tilbage/"
+  ]
+ },
+ {
+  "eid": "sr:match:72520558",
+  "fx": "Vk Lvi Praha v TJ Ostrava",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Czech women's Extraliga: VK Lvice Praha v TJ Ostrava, 15:00 local at UNYP arena (matches the board's 14:00 UTC; Prazsky denik and sportmap agree).",
+  "news": "Date and time confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://prazsky.denik.cz/ostatni-sporty/kam-o-vikendu-v-praze-za-sportem-96",
+   "https://www.sportmap.cz/club/volejbal/vk-lvi-praha"
+  ]
+ },
+ {
+  "eid": "sr:match:73399792",
+  "fx": "Eurospin Ford Sara Pinerolo v Akademia Sant Anna Messina",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A2 women round 10 (A2 sources disagree on round numbering, 6th v 10th). Wash4Green Monviso (Pinerolo, relegated from A1) v Akademia Messina, 15:00 local (matches the board).",
+  "news": "Date confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportparma.com/volley_sport_parma/serie-a2-il-club-italia-cerca-conferme-nella-capitale.html",
+   "https://www.volleynews.it/calendario-serie-a2-femminile-2026-2027-tutte-le-giornate-di-andata-e-di-ritorno/",
+   "https://www.legavolley.it/2026/6a-giornata-and-22-11-2026-regular-season-serie-a2-credem-banca-stagione-2026-risultati-classifica-anticipi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73399782",
+  "fx": "Sigel Marsala v Trentino Volley Femminile",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A2 women: Sigel Marsala v Itas Trentino, 15:00 local (matches 14:00 UTC). The Club Italia site also lists it in the previous round (minor inconsistency, likely a listing error).",
+  "news": "Date confirmed by the official calendar.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportparma.com/volley_sport_parma/serie-a2-il-club-italia-cerca-conferme-nella-capitale.html",
+   "https://www.volleynews.it/calendario-serie-a2-femminile-2026-2027-tutte-le-giornate-di-andata-e-di-ritorno/",
+   "https://www.legavolley.it/2026/6a-giornata-and-22-11-2026-regular-season-serie-a2-credem-banca-stagione-2026-risultati-classifica-anticipi/"
+  ]
+ },
+ {
+  "eid": "sr:match:72986888",
+  "fx": "Holte IF v Gentofte Volley",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Danish women's league: Holte v Gentofte (the board prices Holte at 1.02 although Gentofte were the previous champions; odd pricing). No confirmed Nov fixture list found.",
+  "news": "No confirmation of this date found; no contradiction either.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball). ML 1.02 is under the range.",
+  "confidence": 0.1,
+  "sources": [
+   "https://volleyball.dk/2026/11/16/semifinalerne-i-andelskassen-pokalturneringen-er-trukket/",
+   "https://volleyligaen.dk/klubber/ikast-kfum-kvinder/",
+   "https://volleyball.dk/2026/10/07/ny-saeson-nye-hold-og-aabent-titelkaploeb-volleyligaen-er-tilbage/"
+  ]
+ },
+ {
+  "eid": "sr:match:74512702",
+  "fx": "AO Kalamata 80 v OFI",
+  "sport": "volleyball",
+  "absences": "No absences found.",
+  "context": "Greek Volley League round 5, 16:30 local at Paralias (matches 14:30 UTC). Kalamata 0 pts (lost 1-3 at Syros 15 Nov); OFI 9 pts and beat Kalamata 3-0 in the League Cup semi-final on 14 Nov. Fixture congestion is low.",
+  "news": "OFI 9 pts v winless Kalamata, whom they beat 3-0 eight days ago in the cup.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "OFI away ML 1.51 (p 0.63) is under the away floor. Kalamata +8.5 points is a catch for a winless side.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportal.gr/sports/article/novibet-volley-league-to-programma-tis-5is-agonistikis-xechorizoun-ta-nterbi-ton-protoporon",
+   "https://www.gazzetta.gr/volleyball/volley-league/2586791/foinikas-syroy-kalamata-80-3-1-kerdisan-toys-messinioys-kai",
+   "https://allaboutaris.gr/erasitexnis/volei-diathesima-ta-eisitiria-gia-ton-agona-aris-foinikas-syroy/"
+  ]
+ },
+ {
+  "eid": "sr:match:72521570",
+  "fx": "Valepa Sastamala v Akaa Volley",
+  "sport": "volleyball",
+  "absences": "No absences found.",
+  "context": "Finnish men's Mestaruusliiga: Valepa (Sastamala) v Akaa-Volley, 17:00 local at Vexve Areena (matches 15:00 UTC). Two of the strongest Finnish clubs: Valepa 3-0 at home, Akaa 5-0 away. Akaa are also in the CEV Champions League (date of their Austria trip not confirmed).",
+  "news": "Top Finnish clash, priced as a coin flip; date and venue confirmed by both clubs.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "314",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.33,
+    "p": 0.71534,
+    "why": "Mechanism: evenly matched top two (house 50/50, last H2H 2-3; Akaa 3-2 in 2 of last 6). Needs a single set from the underdog side. My p 0.74 vs house 0.72."
+   }
+  ],
+  "avoid": "Either side's ML (coin flip).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.akaavolley.com/event-details/akaa-volley-vs-valepa-2",
+   "https://www.valepa.fi/otteluohjelma/",
+   "https://www.mestaruusliiga.fi/uutiset/akaa-volley-miesten-lentopallon-mestarien-liigassa-alkavalla-viikolla-itavallassa.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72524708",
+  "fx": "VCO Berlin v Barock Volleys MTV Ludwigsburg",
+  "sport": "volleyball",
+  "absences": "No absences found.",
+  "context": "VCO Berlin is the German federation's YOUTH development team (Nachwuchsleistungszentrum), 10th, and lost 0-3 to Netzhoppers on 11 Nov. 16:00 local (matches 15:00 UTC).",
+  "news": "Youth team v Ludwigsburg; date confirmed (Hessenschau).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth side: no picks. Ludwigsburg ML 1.08 is under the range.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-132~team_id-925.html",
+   "https://volleyball-insider.com/national/maenner/netzhoppers-lassen-dem-vco-berlin-keine-chance/"
+  ]
+ },
+ {
+  "eid": "sr:match:72527706",
+  "fx": "SCU Emlichheim v VV Grimma",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "2. Liga Pro women: Emlichheim (3rd, 10 pts) v Grimma (11th, 1 pt), 16:00 local at Vechtetalhalle (matches).",
+  "news": "Date confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.reservix.de/tickets-sc-union-emlichheim-i/t16577",
+   "https://www.sport.de/volleyball/co8486/2-bundesliga/md1/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:73072852",
+  "fx": "GS Panionios v Zirinios Aon",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Greek women's A1: Panionios v Zirinios. Not searched (no picks by rule).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball). ML 1.13 is under the range.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73399788",
+  "fx": "Roma Volley Club v Club Italia Crai",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A2 women: Roma v Club Italia (federation youth project), 16:00 local per SportParma (matches 15:00 UTC; Diretta.it shows 10:00, likely a timezone or stale listing).",
+  "news": "Club Italia 'seeking confirmation in the capital'.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball). Club Italia is a youth side.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportparma.com/volley_sport_parma/serie-a2-il-club-italia-cerca-conferme-nella-capitale.html",
+   "https://www.volleynews.it/calendario-serie-a2-femminile-2026-2027-tutte-le-giornate-di-andata-e-di-ritorno/",
+   "https://www.legavolley.it/2026/6a-giornata-and-22-11-2026-regular-season-serie-a2-credem-banca-stagione-2026-risultati-classifica-anticipi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73076530",
+  "fx": "Polisportiva SG Marignano v Cuneo Granda Volley",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A1 women: 'Polisportiva SG Marignano' = Consolini, now playing at PalaCervia (Cervia), not San Giovanni in Marignano. This is a venue name, not a home/away conflict. Cuneo lost 0-3 to Vero Volley on 15 Nov.",
+  "news": "Consolini won 3-0 at Brescia on 15 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diretta.it/volley/italia/serie-a1-femminile/",
+   "https://www.verovolley.com/a1-femminile/",
+   "https://sport2u.tv/serie-a1-volley-femminile-2026-conegliano-e-milano-travolgenti-nella-sesta-giornata/"
+  ]
+ },
+ {
+  "eid": "sr:match:73399796",
+  "fx": "Narconon Melendugno Le v VBC Cremonese",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A2 women: Melendugno v Cremonese, 16:30 local per round preview (matches 15:30 UTC).",
+  "news": "Date confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportparma.com/volley_sport_parma/serie-a2-il-club-italia-cerca-conferme-nella-capitale.html",
+   "https://www.volleynews.it/calendario-serie-a2-femminile-2026-2027-tutte-le-giornate-di-andata-e-di-ritorno/",
+   "https://www.legavolley.it/2026/6a-giornata-and-22-11-2026-regular-season-serie-a2-credem-banca-stagione-2026-risultati-classifica-anticipi/"
+  ]
+ },
+ {
+  "eid": "sr:match:72524710",
+  "fx": "Netzhoppers Konigs Wusterhausen v TV Rottenburg",
+  "sport": "volleyball",
+  "absences": "No absences found.",
+  "context": "Men's Bundesliga: Netzhoppers KW (9th) v promoted TV Rottenburg, 17:00 local at Paul-Dinter-Halle (matches 16:00 UTC). Netzhoppers beat VCO 3-0 on 11 Nov but were 0-4 at home in last-10 form; Hessenschau table shows them without a win (stale?). Rottenburg lost to Warnemuende last time.",
+  "news": "Rottenburg club preview confirms the time and venue; the Netzhoppers record is inconsistent across sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Netzhoppers ML 1.22 (p 0.79): they lost all 4 recent home games, and the sources disagree on their record (data conflict). Skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://volleyball-rottenburg.de/2026/11/20/naechste-herausforderung-in-brandenburg-tvr-gastiert-bei-den-netzhoppers/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-132~team_id-930.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74512700",
+  "fx": "Aris Thessaloniki v Foinikas Syroy",
+  "sport": "volleyball",
+  "absences": "No absences found.",
+  "context": "Greek Volley League round 5 closer, 18:00 local at Mikra (matches 16:00 UTC). Aris 0 pts; Foinikas Syros 9 pts (3-1), beat Kalamata 3-1 on 15 Nov.",
+  "news": "Winless Aris host Foinikas; tickets on sale; time confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Foinikas ML 1.10 is under the range. Set handicap -2.5 is a coin flip, and Aris +16.5 points is a 15+ catch for a weak side (banned).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportal.gr/sports/article/novibet-volley-league-to-programma-tis-5is-agonistikis-xechorizoun-ta-nterbi-ton-protoporon",
+   "https://www.gazzetta.gr/volleyball/volley-league/2586791/foinikas-syroy-kalamata-80-3-1-kerdisan-toys-messinioys-kai",
+   "https://allaboutaris.gr/erasitexnis/volei-diathesima-ta-eisitiria-gia-ton-agona-aris-foinikas-syroy/"
+  ]
+ },
+ {
+  "eid": "sr:match:73399784",
+  "fx": "Imola Volley v Cbl Costa Volpino BG",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A2 women: Imola v Costa Volpino, 17:00 local (matches 16:00 UTC).",
+  "news": "Date confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportparma.com/volley_sport_parma/serie-a2-il-club-italia-cerca-conferme-nella-capitale.html",
+   "https://www.volleynews.it/calendario-serie-a2-femminile-2026-2027-tutte-le-giornate-di-andata-e-di-ritorno/",
+   "https://www.legavolley.it/2026/6a-giornata-and-22-11-2026-regular-season-serie-a2-credem-banca-stagione-2026-risultati-classifica-anticipi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73399794",
+  "fx": "Perugia Volley v Podio Volley Club Fasano",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A2 women: Bartoccini Perugia v Fasano, 17:00 local per SportParma (matches).",
+  "news": "Date confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportparma.com/volley_sport_parma/serie-a2-il-club-italia-cerca-conferme-nella-capitale.html",
+   "https://www.volleynews.it/calendario-serie-a2-femminile-2026-2027-tutte-le-giornate-di-andata-e-di-ritorno/",
+   "https://www.legavolley.it/2026/6a-giornata-and-22-11-2026-regular-season-serie-a2-credem-banca-stagione-2026-risultati-classifica-anticipi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73399786",
+  "fx": "Volley Offanengo v Futura Volley Giovani Busto Arsizio",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A2 women: Offanengo v Futura Busto Arsizio, 17:00 local (matches).",
+  "news": "Date confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportparma.com/volley_sport_parma/serie-a2-il-club-italia-cerca-conferme-nella-capitale.html",
+   "https://www.volleynews.it/calendario-serie-a2-femminile-2026-2027-tutte-le-giornate-di-andata-e-di-ritorno/",
+   "https://www.legavolley.it/2026/6a-giornata-and-22-11-2026-regular-season-serie-a2-credem-banca-stagione-2026-risultati-classifica-anticipi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73076526",
+  "fx": "Busto Arsizio Volley v Azzurra Volley Firenze",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A1 women: UYBA Busto Arsizio (lost 1-3 at Scandicci on 15 Nov) v Firenze (1-9 last 10).",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diretta.it/volley/italia/serie-a1-femminile/",
+   "https://www.verovolley.com/a1-femminile/",
+   "https://sport2u.tv/serie-a1-volley-femminile-2026-conegliano-e-milano-travolgenti-nella-sesta-giornata/"
+  ]
+ },
+ {
+  "eid": "sr:match:73076524",
+  "fx": "Helvia Recina Macerata v Volley Vallefoglia",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A1 women: Macerata v Vallefoglia.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diretta.it/volley/italia/serie-a1-femminile/",
+   "https://www.verovolley.com/a1-femminile/",
+   "https://sport2u.tv/serie-a1-volley-femminile-2026-conegliano-e-milano-travolgenti-nella-sesta-giornata/"
+  ]
+ },
+ {
+  "eid": "sr:match:73076532",
+  "fx": "Pallavolo Scandicci v Millenium Brescia",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A1 women: Scandicci (beat Busto 3-1) v Brescia (lost 0-3 to Consolini).",
+  "news": "Clear mismatch; ML 1.02.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diretta.it/volley/italia/serie-a1-femminile/",
+   "https://www.verovolley.com/a1-femminile/",
+   "https://sport2u.tv/serie-a1-volley-femminile-2026-conegliano-e-milano-travolgenti-nella-sesta-giornata/"
+  ]
+ },
+ {
+  "eid": "sr:match:73076528",
+  "fx": "Volley Bergamo v Cda Talmassons",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "Serie A1 women: Bergamo (lost 1-3 to Conegliano) v Talmassons (lost 1-3 to Novara).",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diretta.it/volley/italia/serie-a1-femminile/",
+   "https://www.verovolley.com/a1-femminile/",
+   "https://sport2u.tv/serie-a1-volley-femminile-2026-conegliano-e-milano-travolgenti-nella-sesta-giornata/"
+  ]
+ },
+ {
+  "eid": "sr:match:75468320",
+  "fx": "Pirin Razlog v CSKA Sofia",
+  "sport": "volleyball",
+  "absences": "No absences found.",
+  "context": "Bulgarian Super Volley round 6: BGvolleyball lists 22 Nov 19:00 at 'Septemvri' hall, Razlog (matches 17:00 UTC), but Livesport lists Pirin Razlog v CSKA on 27.11. Pirin are 2nd-bottom (1-4); CSKA 6th (2-2). Pirin beat CSKA 3-2 in the January 2026 cup semi-final.",
+  "news": "Date conflict (22.11 v 27.11 on Livesport).",
+  "veto": true,
+  "veto_reason": "Date conflict: BGvolleyball 22.11 19:00 v Livesport 27.11.",
+  "picks": [],
+  "avoid": "Everything (date conflict).",
+  "confidence": 0.1,
+  "sources": [
+   "https://bgvolleyball.com/new.php?id=381649",
+   "https://www.livesport.com/bg/team/pirin-razlog/rVWupw64/"
+  ]
+ },
+ {
+  "eid": "sr:match:72518110",
+  "fx": "Vk Lvi Praha v Skv Usti Nad Labem",
+  "sport": "volleyball",
+  "absences": "No absences found.",
+  "context": "Czech men's Extraliga: Lvi Praha v Usti nad Labem, 18:00 local at UNYP arena (matches 17:00 UTC per Prazsky denik, 21 Nov). Sportmap shows an Oct 25 date (stale or other fixture). Lvi beat Usti 3-0 twice last season.",
+  "news": "Fresh local source confirms 22 Nov 18:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lvi ML 1.06 is under the range; no value in the totals.",
+  "confidence": 0.15,
+  "sources": [
+   "https://prazsky.denik.cz/ostatni-sporty/kam-o-vikendu-v-praze-za-sportem-96",
+   "https://prazsky.denik.cz/ostatni-sporty/lvi-si-pohrali-s-ustim-cenu-pro-mvp-prevzal-daniel-cech/"
+  ]
+ },
+ {
+  "eid": "sr:match:76616416",
+  "fx": "Skurios Volleys Borken v Alemannia Aachen",
+  "sport": "volleyball",
+  "absences": "Women's: not checked.",
+  "context": "DVV Cup women's QUARTER-FINAL (knockout): Borken v Ladies in Black Aachen, 18:00 local at Mergelsberg Sporthalle (matches 17:00 UTC). Aachen 1st Bundesliga 8th; Borken 12th with 1 pt. Last meeting 2022: Aachen won 3-0 in Borken.",
+  "news": "Date and venue confirmed (DVV-Pokal site, Borken club preview).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks by rule (no goals-type market in volleyball). Knockout too.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.skurios-volleys-borken.de/borken-hat-bock-auf-aachen/",
+   "https://www.dvv-pokal.de/"
+  ]
+ }
+]
