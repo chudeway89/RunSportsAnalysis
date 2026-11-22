@@ -1,0 +1,675 @@
+[
+ {
+  "eid": "sr:match:73581372",
+  "fx": "AD Cala Pozuelo v AD Torrejon CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Coin-flip pricing; Torrejon 0-2-2 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All sides: no edge, no team news.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.rffm.es/competicion/calendario?temporada=22&tipojuego=1&competicion=26738226&grupo=26738227",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_(Grupo_VII)"
+  ]
+ },
+ {
+  "eid": "sr:match:73581374",
+  "fx": "CD Leganes B v CF Fuenlabrada",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Reserve side involved (B team): no result-side picks per rules. Leganes B home games high-scoring (2.5:2.0).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (reserve). Goals not a clear mismatch.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.rffm.es/competicion/calendario?temporada=22&tipojuego=1&competicion=26738226&grupo=26738227",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_(Grupo_VII)"
+  ]
+ },
+ {
+  "eid": "sr:match:73557204",
+  "fx": "CD Santurtzi KE v SD Erandio Club",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Jornada 12 G4, 22/11 confirmed by futbolme. Erandio newly promoted from Division de Honor Vizcaya, 1-0-9 last 10, 0-0-4 away (GA 2.5). Santurtzi weak too (3-0-7, 0.7 gf).",
+  "news": "Fixture date confirmed (J12, 22/11); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.55,
+    "p": 0.595,
+    "why": "Promoted Erandio 1W in 10, lost all 4 away conceding 2.5/g; DNB covers the draw given Santurtzi own poor scoring. Est 0.62."
+   }
+  ],
+  "avoid": "Unders (amateur), Overs (both sides 0.7 gf).",
+  "confidence": 0.2,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_IV_2026-27",
+   "https://futbolme.com/resultados-directo/equipo/cd-santurtzi/622/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73581376",
+  "fx": "CD Galapagar v Mexico FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Mexico FC 1-3-6, 0-0-5 away with 1.6:2.6 (4.2 goals/g away). Galapagar 2.0:1.6.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.771,
+    "why": "Fixture-specific: Mexico FC away games average 4.2 goals, last 6 of Mexico all had 2+ goals; Galapagar last 6 had 2+ in 5. Est 0.80."
+   }
+  ],
+  "avoid": "Away side; Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.rffm.es/competicion/calendario?temporada=22&tipojuego=1&competicion=26738226&grupo=26738227",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_(Grupo_VII)"
+  ]
+ },
+ {
+  "eid": "sr:match:73581380",
+  "fx": "CF Trival Valderas Alcoron v UD Sanse",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Trival 2-5-3 (draw-heavy, 1.2 gf) priced 1.66 fav vs Sanse (listed as UD Sanse B in group list).",
+  "news": "Team listed as U.D. Sanse \"B\" in the 2026-27 group list (board says UD Sanse); no other news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 at 1.66: Trival 1 win in last 5 home, 5 draws in 10.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.rffm.es/competicion/calendario?temporada=22&tipojuego=1&competicion=26738226&grupo=26738227",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_(Grupo_VII)"
+  ]
+ },
+ {
+  "eid": "sr:match:73586682",
+  "fx": "CF Santomera v Alcantarilla FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Santomera 4-0-0 home (2.5:0.0); Alcantarilla solid 5-2-3, GA 0.9, won 3-0 v Bullas 14/11; Alcantarilla had a postponed game 18/11 (midweek).",
+  "news": "Alcantarilla played a rearranged midweek game (18/11, J7 postponed); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home -1.5; home win at 1.38 thin edge vs a strong-defence visitor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/",
+   "https://www.maratonfutbol.com/competiciones-oficiales/tercera-federacion-grupo-13-murcia-2026-2027?view=results"
+  ]
+ },
+ {
+  "eid": "sr:match:72884314",
+  "fx": "Sevilla FC v Granada CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 Division de Honor Juvenil: youth. Only goals markets in a clear mismatch. Sevilla U19 8-2-0, 5-0-0 home 3.8:0.4; Granada 4-4-2 not a mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth, no clear mismatch at sub-1.18 goals prices).",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil",
+   "https://www.aragonplay.es/aragondeporte/resultados/futbol/division-honor-juvenil-grupo-3"
+  ]
+ },
+ {
+  "eid": "sr:match:73581364",
+  "fx": "CF Pozuelo de Alarcon v CD Mostoles URJC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Mostoles URJC 8-1-1 (2.6:0.7), 4-0-1 away; Pozuelo 4-3-3, 1.4:1.7.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.49,
+    "p": 0.624,
+    "why": "Form gap: Mostoles 8 wins in 10 incl 4/5 away, +1.9 goal diff per game vs Pozuelo -0.3; DNB protects draw. Est 0.66."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.45 < 0.75).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.rffm.es/competicion/calendario?temporada=22&tipojuego=1&competicion=26738226&grupo=26738227",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_(Grupo_VII)"
+  ]
+ },
+ {
+  "eid": "sr:match:73581368",
+  "fx": "Las Rozas CF v Siello Nuevo Boadilla FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Las Rozas 4-1-0 home (3.2:1.8); Siello Nuevo Boadilla 2-1-7, 0.8:2.6, 1-0-3 away (0.5:2.5), recent 1-4, 1-6, 0-4.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.725,
+    "why": "Mismatch: Boadilla lost 7 of 10 conceding 2.6/g incl 1-6 and 0-4; Las Rozas unbeaten at home scoring 3.2. Statistics-only (no team news), est 0.74."
+   }
+  ],
+  "avoid": "Draw/away; Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.rffm.es/competicion/calendario?temporada=22&tipojuego=1&competicion=26738226&grupo=26738227",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_(Grupo_VII)"
+  ]
+ },
+ {
+  "eid": "sr:match:73586686",
+  "fx": "FC Cartagena B v Mazarron FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Reserve side involved (B team): no result-side picks per rules. Mazarron 0-0-5 away; Mazarron had a rearranged midweek game v Los Garres 18/11.",
+  "news": "Mazarron played midweek (18/11 rearranged J7 v Los Garres).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (reserve home side).",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/",
+   "https://www.maratonfutbol.com/competiciones-oficiales/tercera-federacion-grupo-13-murcia-2026-2027?view=results"
+  ]
+ },
+ {
+  "eid": "sr:match:72882630",
+  "fx": "Ural CF v RS Gimnastica de Torrelavega",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 Division de Honor Juvenil: youth. Only goals markets in a clear mismatch. Ural 4-2-3 v Torrelavega U19 1-2-7 (1.0:2.2). Not a clear mismatch at 1.83 home.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth).",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil",
+   "https://www.aragonplay.es/aragondeporte/resultados/futbol/division-honor-juvenil-grupo-3"
+  ]
+ },
+ {
+  "eid": "sr:match:73581370",
+  "fx": "Rayo Vallecano B v AD Union Adarve",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Reserve side involved (B team): no result-side picks per rules. Rayo B 3-2-5; Adarve 0-2-2 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (reserve).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.rffm.es/competicion/calendario?temporada=22&tipojuego=1&competicion=26738226&grupo=26738227",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_(Grupo_VII)"
+  ]
+ },
+ {
+  "eid": "sr:match:73586676",
+  "fx": "UD Los Garres v Atletico Santa Cruz",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Atletico Santa Cruz 6-3-1 (1.5:1.0); Los Garres 4-2-4 1.1:1.1 and played a rearranged midweek game at Mazarron 18/11.",
+  "news": "Los Garres had a midweek rearranged game (18/11); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.37,
+    "p": 0.683,
+    "why": "Santa Cruz 1 loss in 10; Los Garres low-scoring (1.1 gf) and on a midweek turnaround (18/11). DNB. Est 0.69."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.49); Unders (amateur).",
+  "confidence": 0.2,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/",
+   "https://www.maratonfutbol.com/competiciones-oficiales/tercera-federacion-grupo-13-murcia-2026-2027?view=results"
+  ]
+ },
+ {
+  "eid": "sr:match:72885376",
+  "fx": "UD Las Palmas v CD Longuera Toscal",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 Division de Honor Juvenil: youth. Only goals markets in a clear mismatch. Las Palmas U19 1.06 fav; but home form only 3-0-2, 2.0:1.2 so goals line 3.5 not safe.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 3.5 at 1.49 (home scoring only 2.0/g at home).",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil",
+   "https://www.aragonplay.es/aragondeporte/resultados/futbol/division-honor-juvenil-grupo-3"
+  ]
+ },
+ {
+  "eid": "sr:match:72885894",
+  "fx": "Elche CF U19 v Kelme CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 Division de Honor Juvenil: youth. Only goals markets in a clear mismatch. Elche U19 1.12 fav v Kelme (0-5-4, 0.33 gf). Elche itself only 1.8 gf, 2-1-2 home.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 (Elche home 1.6 gf, Kelme rarely scores).",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil",
+   "https://www.aragonplay.es/aragondeporte/resultados/futbol/division-honor-juvenil-grupo-3"
+  ]
+ },
+ {
+  "eid": "sr:match:72478710",
+  "fx": "Barcelona v Villarreal",
+  "sport": "football",
+  "absences": "Barcelona: Rodri (hamstring, till Dec), Bardghji (ACL), Xavi Espart (ankle), Christensen (calf, out per ESPN), Cubarsi (hip, not fit to start), Kounde (ankle, doubtful), Olmo (adductor, doubtful). Villarreal: Diatta out; Gerard Moreno, Foyth, Akhomach doubtful (muscle).",
+  "context": "LaLiga MD13. Barca top (33 pts from 12), Villarreal 9th. Post-international-break round. Barca home 4-0-1, 4.0:1.0.",
+  "news": "Barca centre-back crisis: Eric Garcia + Gerard Martin expected at CB; Villarreal missing Diatta, Moreno doubtful.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Home (-1.0)",
+    "odds": 1.24,
+    "p": 0.781,
+    "why": "Barca home 4.0 gf/g, Villarreal attack weakened (Moreno doubtful, Akhomach doubt); one-goal win refunds. Est 0.79."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.49,
+    "p": 0.646,
+    "why": "Barca without Christensen, Cubarsi (not starting) and Kounde: makeshift CB pair Eric Garcia/Gerard Martin; Barca conceded in 7 of last 10. Est 0.68."
+   }
+  ],
+  "avoid": "Under markets; Villarreal +2.5 (fav p 0.82, rout class).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.espn.com/soccer/story/_/id/50549701/barcelona-injuries-team-news-christensen-cubarsi",
+   "https://www.whoscored.com/articles/zhUWTHWaG0SVz6FQ0rt_6A/show/cng111-20261122-barcelona-vs-villarreal-prediction-1795323955",
+   "https://khelnow.com/football/barcelona-injury-news-ahead-villarreal-laliga-202611",
+   "https://www.tufutbolero.com/en/news/barcelona-villarreal-barca-top-of-laliga-with-three-injury-fcf0d2"
+  ]
+ },
+ {
+  "eid": "sr:match:72477614",
+  "fx": "Cordoba CF v Real Oviedo",
+  "sport": "football",
+  "absences": "No absence list published.",
+  "context": "LaLiga Hypermotion MD15 at Nuevo Arcangel, 14:00 CET (=13:00 UTC, matches board). Cordoba 18th 11 pts, Oviedo 8th per LaLiga snapshot (relegated from LaLiga). Cordoba home 3-0-0 (2.67:0.67); Oviedo away 2.17:3.0.",
+  "news": "Kick-off and venue confirmed by LaLiga/Real Oviedo; no team news. One Cordopolis article names wrong opponent (Mallorca) - editorial error, other sources agree.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.814,
+    "why": "Fixture-specific: all of Cordoba last 6 and Oviedo last 6 had 2+ goals; Oviedo away games average 5.2 goals (incl 5-7). LaLiga2 is low-scoring overall, so est 0.82 (house 0.81)."
+   }
+  ],
+  "avoid": "Unders; Oviedo result.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.laliga.com/en-GB/match/temporada-2026-2027-laliga-hypermotion-cordoba-cf-real-oviedo-15",
+   "https://www.realoviedo.es/en/matches/season-2026-2027-laliga-hypermotion-15-cordoba-cf-vs-real-oviedo-3459",
+   "https://cordopolis.eldiario.es/deportes/ccf/horario-ver-television-cordoba-cf-real-oviedo_1_13683300.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72884874",
+  "fx": "Getafe CF v CF Rayo Majadahonda",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 Division de Honor Juvenil: youth. Only goals markets in a clear mismatch. Getafe U19 5-0-0 home (3.0:0.4) v Rayo Majadahonda (5-1-3, GA 0.89) - not a mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth).",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil",
+   "https://www.aragonplay.es/aragondeporte/resultados/futbol/division-honor-juvenil-grupo-3"
+  ]
+ },
+ {
+  "eid": "sr:match:72478718",
+  "fx": "Racing Santander v Real Sociedad",
+  "sport": "football",
+  "absences": "Racing: Maguette Gueye (4-6 weeks), Alvaro Mantilla and Andres Martin (late checks/out per FotMob). Real Sociedad: Odriozola, Mamadou Sarr, Barrenetxea out; Kubo and Carlos Soler expected to start.",
+  "context": "LaLiga MD13 at El Sardinero, 16:15 local (15:15 UTC, matches board). Real Sociedad 5th (22 pts; 4W 1L last 5), Racing 10th-12th. Racing conceding 2.5/g last 10; Real Sociedad away 3.2:1.4.",
+  "news": "Racing short in attack (Andres Martin doubtful) and defence; Real Sociedad near full strength with Kubo/Soler.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.38,
+    "p": 0.696,
+    "why": "Racing concede 2.5/g, Real Sociedad away 3.2 gf/g (6-0, 5-2 recent away); Racing scored in 4 of last 6. Est 0.71."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.58,
+    "p": 0.61,
+    "why": "Real Sociedad 4W in last 5 with Kubo/Soler fit v Racing missing Gueye and possibly Andres Martin. DNB. Est 0.63."
+   }
+  ],
+  "avoid": "Racing result; Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/real-sociedad/preview/racing-vs-real-sociedad-prediction-team-news-lineups_609535.html",
+   "https://www.fotmob.com/matches/real-sociedad-vs-racing-santander/2gnhl8",
+   "https://world-today-journal.com/racing-santander-hosts-real-sociedad-maguette-out-4-6-weeks/",
+   "https://www.tufutbolero.com/en/news/racing-real-sociedad-racing-hosts-with-three-players-ruled-fcf0d2"
+  ]
+ },
+ {
+  "eid": "sr:match:72477622",
+  "fx": "Sporting Gijon v Las Palmas",
+  "sport": "football",
+  "absences": "Sporting: Gelabert (meniscus), Konrad de la Fuente (arthroscopy), Manu Rodriguez (shoulder), Juan Otero (red-card ban), Corredera - up to 8 out. Las Palmas: 7 out - Ale Garcia, Opoku (sent off), Sandro, Enrique Clemente, Cedeno, Sergio Ruiz, Viti Rozada.",
+  "context": "LaLiga2 MD15, El Molinon 16:15 local (15:15 UTC). Sporting 8th 23 pts, Las Palmas 10th 20 pts under new coach Albert Sanchez. Last meeting 0-0.",
+  "news": "Both heavily depleted; Las Palmas new coach, 7 absences incl Sandro and Ale Garcia.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.31,
+    "p": 0.719,
+    "why": "Las Palmas lose 7 incl attackers Sandro/Ale Garcia and CB Opoku, new coach bedding in; Sporting 6-1-3 last 10. Est 0.73."
+   }
+  ],
+  "avoid": "Overs (both attacks depleted); Las Palmas side.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ceroacero.es/noticias/sporting-gijon-vs-las-palmas-prediccion-noticias-de-equipos-y-alineaciones-segunda-division-22-11/1264013",
+   "https://futeros.com/ale-garcia-amplia-el-parte-de-bajas-de-las-palmas-a-siete-y-andres-rodriguez-se-apunta-para-quedarse-fijo-en-su-nueva-posicion/",
+   "https://www.futbolasturiano.es/el-sporting-necesita-hacerse-fuerte-en-el-molinon/",
+   "https://www.udlaspalmas.net/2026/11/22/previa-gijon-para-alzar-el-vuelo/"
+  ]
+ },
+ {
+  "eid": "sr:match:72883760",
+  "fx": "CD Espanyol Barcelona v Racing Club Zaragoza",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 Division de Honor Juvenil: youth. Only goals markets in a clear mismatch. Espanyol U19 lead G3 (25 pts from 9, J10 22/11 confirmed); home 5-0-0 3.6:0.2; Zaragoza 0-0-4 away (0.75:3.75).",
+  "news": "Fixture confirmed J10 22/11 (Aragon CARTV); Espanyol top on 25 pts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 3.5 at 1.52 (house 0.61, no edge vs form ~0.6).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aragonplay.es/aragondeporte/resultados/futbol/division-honor-juvenil-grupo-3"
+  ]
+ },
+ {
+  "eid": "sr:match:72884324",
+  "fx": "CD Mosquito v Arenas Armilla CD U19",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 Division de Honor Juvenil: youth. Only goals markets in a clear mismatch. Arenas Armilla 1-0-4 away conceding 3.6 (0-5, 0-8). Only 1X2 and O/U 3.5 offered.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth; Over 3.5 at 2.05 outside band).",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil",
+   "https://www.aragonplay.es/aragondeporte/resultados/futbol/division-honor-juvenil-grupo-3"
+  ]
+ },
+ {
+  "eid": "sr:match:72884876",
+  "fx": "Rayo Ciudad Alcobendas Juvenil v CD Leganes",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 Division de Honor Juvenil: youth. Only goals markets in a clear mismatch. Leganes U19 5-3-2 (1.8:0.8) away v Alcobendas juvenil 3-3-4.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth).",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil",
+   "https://www.aragonplay.es/aragondeporte/resultados/futbol/division-honor-juvenil-grupo-3"
+  ]
+ },
+ {
+  "eid": "sr:match:73581378",
+  "fx": "Rayo Ciudad Alcobendas v CD Colonia Moscardo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spanish 5th tier (Tercera Federacion), amateur regional football. Colonia Moscardo unbeaten 4-6-0 (6 draws), 0-5-0 away; Rayo Ciudad Alcobendas 1-4-5, 1.3:2.3. Kick-off 18:00 local.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.44,
+    "p": 0.645,
+    "why": "Moscardo unbeaten in 10 v Alcobendas 1 win in 10 conceding 2.3; Moscardo draw-heavy away so DNB not 1X2. Est 0.66."
+   }
+  ],
+  "avoid": "Away 1X2 (6 draws in 10).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.rffm.es/competicion/calendario?temporada=22&tipojuego=1&competicion=26738226&grupo=26738227",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_(Grupo_VII)"
+  ]
+ },
+ {
+  "eid": "sr:match:72478716",
+  "fx": "Osasuna v Malaga CF",
+  "sport": "football",
+  "absences": "Osasuna: Abel Bretones (soleus), Aitor Fernandez (calf, till mid-Dec); Del Castillo doubtful/back in group. Malaga: Julen Lobete (ACL), Adam Aznou (yellow-card ban), Aaron Ochoa (meniscus), Rafita (injury); Diego Murillo returns.",
+  "context": "LaLiga MD13 El Sadar 18:30 local (17:30 UTC, matches board; some outlets list 17:00/20:00). Osasuna 12 pts from 12; promoted Malaga 5 pts, bottom area. Coach data conflict: previews name Arrasate, Wikipedia had Lisci appointed - not a date/venue conflict.",
+  "news": "Malaga without Lobete, Aznou, Ochoa, Rafita; Osasuna missing Bretones.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Home (0)",
+    "odds": 1.38,
+    "p": 0.701,
+    "why": "Malaga 5 pts from 12, 1 win in 10, missing Lobete/Aznou/Ochoa/Rafita; Osasuna home 1-2-1 is soft so AH0 (DNB) covers the draw. Est 0.72."
+   }
+  ],
+  "avoid": "Osasuna -1.5; Overs (Osasuna 1.0:1.0 at home).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.futbolfantasy.com/partidos/22548-osasuna-malaga",
+   "https://www.ceroacero.es/noticias/osasuna-vs-malaga-cf-prediccion-noticias-de-equipos-y-alineaciones-laliga-22-11/1264186",
+   "https://101tvsevilla.es/murillo-reaparece-en-la-lista-del-malaga-para-visitar-a-osasuna/",
+   "https://latingoles.com/el-sadar-exige-una-victoria-osasuna-recibe-al-malaga-que-busca-romper-su-sequia-/"
+  ]
+ },
+ {
+  "eid": "sr:match:72477616",
+  "fx": "Girona v Eibar",
+  "sport": "football",
+  "absences": "Girona: Alex Moreno (suspended, only LB), Javi Bonar, Mauro Furtado, Jastin Garcia, Bryan Gil (injured), Holmes Junior (Spain U18). Asprilla and Vanat back. Eibar: no injuries reported; Arbilla one yellow from ban.",
+  "context": "LaLiga2 MD15, Montilivi 18:30 local (17:30 UTC). 4th v 5th, both 24 pts. Girona (relegated) home 3-1-1, GA 0.4; Eibar 5 league games without a win but 4-0-2 away last 10.",
+  "news": "Top-of-table clash; Girona lose Alex Moreno (ban) and Bryan Gil; Eibar winless in 5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Home (0)",
+    "odds": 1.42,
+    "p": 0.67,
+    "why": "Girona concede 0.4/g at home and get Asprilla/Vanat back; Eibar winless in 5. AH0 because Eibar strong away. Est 0.68."
+   }
+  ],
+  "avoid": "Overs (Girona games low-scoring, 1.8:0.4 home).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/21/duelo-en-la-zona-alta-entre-el-girona-y-un-eibar-que-busca-romper-su-mala-racha/",
+   "https://www.sdeibar.com/noticias/previa-or-hambre-de-mas-en-montilivi",
+   "https://rcdm.es/alineaciones-de-girona-contra-eibar/"
+  ]
+ },
+ {
+  "eid": "sr:match:72477610",
+  "fx": "RC Celta Fortuna v Valladolid",
+  "sport": "football",
+  "absences": "Celta Fortuna: Pablo Gavian, Somuah (long-term), Hugo Cuenca (knock on Paraguay duty); Joel Lopez and Ribes back from ban. Valladolid: Latasa (striker) and Trilli injured, Ojeda suspended; Alejo back.",
+  "context": "LaLiga2 MD15, Balaidos. Celta Fortuna (Celta reserve side promoted to LaLiga2) winless in 5, 1-3-6 last 10 conceding 2.2. Valladolid 2 wins in a row, chasing play-off.",
+  "news": "Valladolid without top striker Latasa; Celta Fortuna recovers suspended pair, still 3 out.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.778,
+    "why": "Celta Fortuna concede 2.2/g; Celta games 3.4 goals/g and Valladolid 3.5; 11 of the two sides last 12 had 2+ goals. Latasa out trims Valladolid a little. Est 0.80."
+   }
+  ],
+  "avoid": "Valladolid 1X2 (away p 0.45); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/21/celta-fortuna-y-valladolid-miden-sus-necesidades-en-balaidos/",
+   "https://www.tribunavalladolid.com/noticias/467536/el-valladolid-busca-en-balaidos-una-victoria-para-no-alejarse-del-playoff",
+   "https://www.goal.com/es-mx/noticias/celta-fortuna-v-real-valladolid-Segunda%20Division-previa/blt6e7d70da1a818277"
+  ]
+ },
+ {
+  "eid": "sr:match:72883236",
+  "fx": "Real Sociedad v Santutxu FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 Division de Honor Juvenil: youth. Only goals markets in a clear mismatch. Real Sociedad U19 3-1-0 home v Santutxu (1-0-3 away). Moderate gap only.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth).",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil",
+   "https://www.aragonplay.es/aragondeporte/resultados/futbol/division-honor-juvenil-grupo-3"
+  ]
+ },
+ {
+  "eid": "sr:match:72478712",
+  "fx": "Getafe v Atletico Madrid",
+  "sport": "football",
+  "absences": "Getafe: Gudelj (suspended), Uche, Juanmi (injured), Zaid Romero (injured/doubtful). Atletico: Lookman (knee sprain, Nigeria); Grimaldo (illness) and Pubill (Spain knock) doubtful; Hjulmand may return.",
+  "context": "LaLiga MD13, Coliseum 21:00 local (20:00 UTC). Madrid-area derby: no result side per rules. Getafe 3-2-5, GA 2.0; Atletico 7-1-2, away 3-1-0 (GA 0.5).",
+  "news": "Getafe lose Gudelj, Uche, Juanmi; Atletico without Lookman.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.19,
+    "p": 0.819,
+    "why": "Atletico scored in 9 of last 10 and Getafe concede 2.0/g, now missing midfield anchor Gudelj and Uche. Est 0.84."
+   }
+  ],
+  "avoid": "Result sides (derby); Under 3.5 (p 0.77 < 0.82).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/atletico-madrid/preview/getafe-vs-atletico-prediction-team-news-lineups_609490.html",
+   "https://www.playmakerstats.com/news/preview-getafe-cf-vs-atletico-de-madrid-team-news-lineups-predictions-la-liga-22-11/1264320",
+   "https://tips.gg/article/getafe-vs-atletico-madrid-predicted-lineups-team-news-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72477606",
+  "fx": "Burgos CF v Albacete Balompie",
+  "sport": "football",
+  "absences": "Burgos: Brais Martinez (broken nose), Jon Karrikaburu and David Gonzalez (two leading scorers, not recovered); EFE list also names Javi Moreno, Gamez, Puertas, Obeng and Corpas (ban), attribution unclear. Albacete: no clear list.",
+  "context": "LaLiga2 MD15, El Plantio 21:00 local (20:00 UTC). Burgos 6th after 3-1 loss at Leganes; Albacete in relegation zone but 5 straight wins (league+cup).",
+  "news": "Burgos without top scorers Karrikaburu and David Gonzalez; Albacete on a 5-win run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.25,
+    "p": 0.769,
+    "why": "Burgos lose two leading scorers (Karrikaburu, D. Gonzalez); Burgos home games 1.0 gf/g; Albacete 5 straight wins. Burgos p 0.47 < 0.55 so +1.5 is allowed. Est 0.80."
+   }
+  ],
+  "avoid": "Burgos 1X2 / -0.5; Overs.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.5maseldescuento.es/2026/11/el-albacete-visita-a-un-burgos-sin-karrikaburu-y-david-gonzalez-dos-de-sus-principales-goleadores/",
+   "https://www.infobae.com/espana/agencias/2026/11/21/el-burgos-confia-en-superar-a-un-albacete-en-racha-para-mantenerse-en-puestos-de-playoff/",
+   "https://www.burgosconecta.es/burgoscf/sergio-francisco-albacete-puede-volver-pasar-encajemos-20261120174905-nt.html"
+  ]
+ }
+]
