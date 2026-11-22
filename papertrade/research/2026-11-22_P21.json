@@ -1,0 +1,584 @@
+[
+ {
+  "eid": "sr:match:73111866",
+  "fx": "Cavigal Nice SF U19 v AS Saint-Etienne",
+  "sport": "football",
+  "absences": "youth side - not researched individually",
+  "context": "France U19 National, Journee 12 (league phase). Youth fixture: picks barred except goals in clear mismatches.",
+  "news": "J12 on 22 Nov confirmed by FFF calendar; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides and handicaps (youth); goals lines not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://epreuves.fff.fr/competition/engagement/8-championnat-national-u19/phase/1/2/resultats-et-calendrier",
+   "https://www.fc-annecy.fr/u19-nationaux",
+   "https://www.footmercato.net/live/6298854188088545067-sa-merignac-u19-vs-beaucouze-u19"
+  ]
+ },
+ {
+  "eid": "sr:match:73111832",
+  "fx": "Estac Troyes v FC Annecy U19",
+  "sport": "football",
+  "absences": "youth side - not researched individually",
+  "context": "France U19 National, Journee 12 (league phase). Youth fixture: picks barred except goals in clear mismatches.",
+  "news": "Annecy club site lists Troyes v Annecy J12 at 14:30 local (13:30 UTC); board kick-off 10:00 UTC.",
+  "veto": true,
+  "veto_reason": "kick-off conflict: FC Annecy site 14:30 local vs board 10:00 UTC",
+  "picks": [],
+  "avoid": "all result-sides and handicaps (youth); goals lines not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://epreuves.fff.fr/competition/engagement/8-championnat-national-u19/phase/1/2/resultats-et-calendrier",
+   "https://www.fc-annecy.fr/u19-nationaux",
+   "https://www.footmercato.net/live/6298854188088545067-sa-merignac-u19-vs-beaucouze-u19"
+  ]
+ },
+ {
+  "eid": "sr:match:73111876",
+  "fx": "Merignac Sa Youth v SC Beaucouze",
+  "sport": "football",
+  "absences": "youth side - not researched individually",
+  "context": "France U19 National, Journee 12 (league phase). Youth fixture: picks barred except goals in clear mismatches.",
+  "news": "Foot Mercato confirms Merignac U19 v Beaucouze U19, J12, 22/11 at 11:00 local (=10:00 UTC, matches board). No news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides and handicaps (youth); goals lines not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://epreuves.fff.fr/competition/engagement/8-championnat-national-u19/phase/1/2/resultats-et-calendrier",
+   "https://www.fc-annecy.fr/u19-nationaux",
+   "https://www.footmercato.net/live/6298854188088545067-sa-merignac-u19-vs-beaucouze-u19"
+  ]
+ },
+ {
+  "eid": "sr:match:73111842",
+  "fx": "Paris FC v CA Pontarlier Youth",
+  "sport": "football",
+  "absences": "youth side - not researched individually",
+  "context": "France U19 National, Journee 12 (league phase). Youth fixture: picks barred except goals in clear mismatches.",
+  "news": "FFF listing shows Paris FC at 11:00 local on 22 Nov but pairing unclear; one reading has Pontarlier hosting Lyon at 12:00 (board has Pontarlier at Paris FC).",
+  "veto": true,
+  "veto_reason": "pairing conflict: FFF snippet places Pontarlier v Lyon at 12:00; unverified",
+  "picks": [],
+  "avoid": "all result-sides and handicaps (youth); goals lines not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://epreuves.fff.fr/competition/engagement/8-championnat-national-u19/phase/1/2/resultats-et-calendrier",
+   "https://www.fc-annecy.fr/u19-nationaux",
+   "https://www.footmercato.net/live/6298854188088545067-sa-merignac-u19-vs-beaucouze-u19"
+  ]
+ },
+ {
+  "eid": "sr:match:76638664",
+  "fx": "Viimsi JK v FC Kuressaare",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Premium Liiga promotion/relegation play-off (uleminekumang), FIRST LEG at Viimsi; return leg at Kuressaare 28 Nov. Two-legged tie: no result-sides; first-leg caution. Same pairing in 2025 play-off: Kuressaare (top-flight side) won first leg by one goal despite finishing with 10 men, then 2-0.",
+  "news": "Two-legged relegation play-off, leg 1 at Viimsi 12:30 local (=10:30 UTC, matches board). Kuressaare weak away (0.5 GF away). No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.35,
+    "p": 0.7007675815,
+    "why": "DNB allowed in knockout: Kuressaare are the Premium Liiga side and beat Viimsi in both legs of the same 2025 play-off; draw void protects the cautious first-leg scenario. Own p 0.70 (= house); fill, not anchor."
+   }
+  ],
+  "avoid": "Over lines (Kuressaare last 6: 3 games with <2 goals); Viimsi home 10-0 inflates their GF; any 1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://soccernet.ee/liiga/2026/premium-liiga",
+   "https://soccernet.ee/artikkel/vaata-jarele-viimsi-naitas-hambaid-ent-vahemuses-lopetanud-kuressaare-tagas-uheväravalise-edumaa",
+   "https://www.footballstreams.com/matches/viimsi-mrjk-vs-fc-kuressaare-20261122/",
+   "https://www.betexplorer.com/football/estonia/meistriliiga/"
+  ]
+ },
+ {
+  "eid": "sr:match:73111802",
+  "fx": "Olympique Lyon v Stade Reims",
+  "sport": "football",
+  "absences": "youth side - not researched individually",
+  "context": "France U19 National, Journee 12 (league phase). Youth fixture: picks barred except goals in clear mismatches.",
+  "news": "FFF snippet lists Olympique Lyonnais at 12:00 local and Stade de Reims HOME v FC Metz at 14:30 on 22 Nov; board has Lyon v Reims 11:00 UTC.",
+  "veto": true,
+  "veto_reason": "pairing conflict: FFF lists Reims v Metz and Lyon (likely) at Pontarlier on 22 Nov",
+  "picks": [],
+  "avoid": "all result-sides and handicaps (youth); goals lines not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://epreuves.fff.fr/competition/engagement/8-championnat-national-u19/phase/1/2/resultats-et-calendrier",
+   "https://www.fc-annecy.fr/u19-nationaux",
+   "https://www.footmercato.net/live/6298854188088545067-sa-merignac-u19-vs-beaucouze-u19"
+  ]
+ },
+ {
+  "eid": "sr:match:72340034",
+  "fx": "Burnley v Blackburn Rovers",
+  "sport": "football",
+  "absences": "Burnley: Bashir Humphreys doubtful, Ben Amos/Ashley Barnes not in 25-man squad, Ahmedhodzic back. Blackburn: GK Balazs Toth injured on international duty (Aynsley Pears in goal); Tony Mowbray stood down for health reasons, Damien Johnson & Mike Dodds interim.",
+  "context": "East Lancashire DERBY (Championship). Burnley unbeaten in 11 derbies / Blackburn winless in last 10 league meetings; Burnley the only Championship side without a home win (0W 3D 1L last 4 home).",
+  "news": "Derby; Blackburn under interim management and backup GK; Burnley no home win all season.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.27,
+    "p": 0.767661,
+    "why": "Blackburn backup GK Pears + Burnley conceding 1.9/game; 11 of the teams' last 12 games had 2+ goals (only 0-0, 1-0). Championship avg is ~2.5, below the 2.7 O1.5 threshold, so derby-tight risk; own p 0.77. Fill only."
+   }
+  ],
+  "avoid": "all result-sides (derby); Over 2.5/integer lines; Unders below p 0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.burnleyexpress.net/sport/football/burnley-fc/burnley-v-blackburn-rovers-team-news-predicted-teams-tv-details-9364207",
+   "https://www.burnleyexpress.net/sport/football/burnley-fc/burnley-injury-update-blackburn-rovers-derby-9364145",
+   "https://www.sportsmole.co.uk/football/burnley/preview/burnley-vs-blackburn-prediction-team-news-lineups_609471.html",
+   "https://thehardtackle.com/round-up/2026/11/21/burnley-vs-blackburn-rovers-preview-prediction-probable-lineups-tactics-team-news-key-stats/"
+  ]
+ },
+ {
+  "eid": "sr:match:73346136",
+  "fx": "Birmingham City WFC v Manchester United WFC",
+  "sport": "football",
+  "absences": "women's side - not researched individually",
+  "context": "Barclays WSL 2026-27, matchday on Sun 22 Nov. Women's fixture: picks barred except goals in clear mismatches.",
+  "news": "WSL site: 12:00 at St Andrew's @ Knighthead Park (matches board). Birmingham promoted as WSL2 champions. No news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides/handicaps (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.wslfootball.com/fixtures/wsl",
+   "https://www.espn.com/soccer/schedule/_/league/eng.w.1",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Women%27s_Super_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73346126",
+  "fx": "Manchester City WFC v Tottenham Hotspur FC",
+  "sport": "football",
+  "absences": "women's side - not researched individually",
+  "context": "Barclays WSL 2026-27, matchday on Sun 22 Nov. Women's fixture: picks barred except goals in clear mismatches.",
+  "news": "Fixture on 22 Nov at 12:00 consistent. City won 8 of first 9 WSL games, beat West Ham 5-0; not a clear goals mismatch vs Spurs.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides/handicaps (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.wslfootball.com/fixtures/wsl",
+   "https://www.espn.com/soccer/schedule/_/league/eng.w.1",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Women%27s_Super_League"
+  ]
+ },
+ {
+  "eid": "sr:match:76964614",
+  "fx": "Ethio Electric v Halaba Ketema",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Ethiopian Premier League 2026-27, Halaba Ketema newly promoted.",
+  "news": "Date conflict: Soccerway lists Ethio Electric v Halaba Ketema on 27.11, Betexplorer on 20.11, board 22.11.",
+  "veto": true,
+  "veto_reason": "date conflict between sources (20.11 / 22.11 / 27.11)",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/ethiopia/premier-league/",
+   "https://www.betexplorer.com/football/ethiopia/premier-league/fixtures/",
+   "https://www.besoccer.com/competition/table/premier_league_ethiopia/2027"
+  ]
+ },
+ {
+  "eid": "sr:match:73685138",
+  "fx": "Brentford U21 v Hull City U21",
+  "sport": "football",
+  "absences": "reserve sides - not researched",
+  "context": "Premier League Cup (U21/B-team). Brentford B v Hull U21; no clear mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserves, no clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/football/england/premier-league-cup/"
+  ]
+ },
+ {
+  "eid": "sr:match:73684980",
+  "fx": "Peterborough United U21 v Luton Town Reserves",
+  "sport": "football",
+  "absences": "reserve sides - not researched",
+  "context": "Premier League Cup (U21). Luton Reserves 1W 9L last 10 (GA 3.2), Peterborough U21 GA 2.7.",
+  "news": "no news found (fixture not confirmed by any source found; no conflicting date found either)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.24,
+    "p": 0.7726028413,
+    "why": "Goals mismatch: Luton Reserves conceded 3.2/game losing 9 of 10; last 6 totals Peterborough 2,1,2,9,4,4 and Luton 5,5,4,2,7,3 (10/12 over 2.5). Own p 0.80. Reserve-side caveat."
+   }
+  ],
+  "avoid": "result-sides/handicaps (reserves)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.flashscore.com/football/england/premier-league-cup/"
+  ]
+ },
+ {
+  "eid": "sr:match:76838994",
+  "fx": "Negelle Arsi v Gamo Chencha",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Ethiopian Premier League 2026-27; Gamo Chencha newly promoted (1 pt), Negelle Arsi top/near top.",
+  "news": "Date conflict: Soccerway 27.11, Betexplorer 20.11, board 22.11.",
+  "veto": true,
+  "veto_reason": "date conflict between sources (20.11 / 22.11 / 27.11)",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/ethiopia/premier-league/",
+   "https://www.betexplorer.com/football/ethiopia/premier-league/fixtures/",
+   "https://www.besoccer.com/competition/table/premier_league_ethiopia/2027"
+  ]
+ },
+ {
+  "eid": "sr:match:73111672",
+  "fx": "Amiens SC v C Chartres Football",
+  "sport": "football",
+  "absences": "youth side - not researched individually",
+  "context": "France U19 National, Journee 12 (league phase). Youth fixture: picks barred except goals in clear mismatches.",
+  "news": "No news; FFF J12 on 22 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides and handicaps (youth); goals lines not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://epreuves.fff.fr/competition/engagement/8-championnat-national-u19/phase/1/2/resultats-et-calendrier",
+   "https://www.fc-annecy.fr/u19-nationaux",
+   "https://www.footmercato.net/live/6298854188088545067-sa-merignac-u19-vs-beaucouze-u19"
+  ]
+ },
+ {
+  "eid": "sr:match:73111794",
+  "fx": "FC Metz v Nancy-Lorraine",
+  "sport": "football",
+  "absences": "youth side - not researched individually",
+  "context": "France U19 National, Journee 12 (league phase). Youth fixture: picks barred except goals in clear mismatches.",
+  "news": "FFF snippet lists FC Metz AWAY at Stade de Reims 14:30 and Nancy v Sochaux 14:30 on 22 Nov; board has Metz v Nancy.",
+  "veto": true,
+  "veto_reason": "pairing conflict: FFF lists Reims v Metz and Nancy v Sochaux",
+  "picks": [],
+  "avoid": "all result-sides and handicaps (youth); goals lines not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://epreuves.fff.fr/competition/engagement/8-championnat-national-u19/phase/1/2/resultats-et-calendrier",
+   "https://www.fc-annecy.fr/u19-nationaux",
+   "https://www.footmercato.net/live/6298854188088545067-sa-merignac-u19-vs-beaucouze-u19"
+  ]
+ },
+ {
+  "eid": "sr:match:73111680",
+  "fx": "FC Rouen U19 v SM Caen",
+  "sport": "football",
+  "absences": "youth side - not researched individually",
+  "context": "France U19 National, Journee 12 (league phase). Youth fixture: picks barred except goals in clear mismatches.",
+  "news": "No news; FFF J12 on 22 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides and handicaps (youth); goals lines not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://epreuves.fff.fr/competition/engagement/8-championnat-national-u19/phase/1/2/resultats-et-calendrier",
+   "https://www.fc-annecy.fr/u19-nationaux",
+   "https://www.footmercato.net/live/6298854188088545067-sa-merignac-u19-vs-beaucouze-u19"
+  ]
+ },
+ {
+  "eid": "sr:match:73111686",
+  "fx": "Racing Club de France 92 v US Orleans",
+  "sport": "football",
+  "absences": "youth side - not researched individually",
+  "context": "France U19 National, Journee 12 (league phase). Youth fixture: picks barred except goals in clear mismatches.",
+  "news": "No news; FFF J12 on 22 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides and handicaps (youth); goals lines not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://epreuves.fff.fr/competition/engagement/8-championnat-national-u19/phase/1/2/resultats-et-calendrier",
+   "https://www.fc-annecy.fr/u19-nationaux",
+   "https://www.footmercato.net/live/6298854188088545067-sa-merignac-u19-vs-beaucouze-u19"
+  ]
+ },
+ {
+  "eid": "sr:match:73111892",
+  "fx": "Stade Briochin U19 v Stade Lavallois Mayenne",
+  "sport": "football",
+  "absences": "youth side - not researched individually",
+  "context": "France U19 National, Journee 12 (league phase). Youth fixture: picks barred except goals in clear mismatches.",
+  "news": "No news; FFF J12 on 22 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides and handicaps (youth); goals lines not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://epreuves.fff.fr/competition/engagement/8-championnat-national-u19/phase/1/2/resultats-et-calendrier",
+   "https://www.fc-annecy.fr/u19-nationaux",
+   "https://www.footmercato.net/live/6298854188088545067-sa-merignac-u19-vs-beaucouze-u19"
+  ]
+ },
+ {
+  "eid": "sr:match:72221402",
+  "fx": "Hull City v Brighton",
+  "sport": "football",
+  "absences": "Hull: Matt Targett (ankle), Hidemasa Morita (muscle), Eliot Matazo (knee), Ilyas Ansah (back) out; Belloumi and Nobel Mendy declared fit by Jakirovic; Matt Crooks back from suspension. Brighton: Kaoru Mitoma (hamstring), Evan Ferguson (ankle), Zadok Yohanna (thigh) out; Tzimas back training but not an option; Hadjam ~75%.",
+  "context": "Premier League, MKM Stadium 14:00 UTC. Brighton 2nd (5 pts off Arsenal); Hull 13th, 11 pts, winless in 9 but 4 draws in last 4 home games (1-1, 2-2, 2-2...). Pascal Gross 300th Brighton game.",
+  "news": "Hull winless in 9 but hard to beat at home; Brighton without Mitoma and Ferguson.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.33,
+    "p": 0.726983,
+    "why": "Brighton fav p 0.66 so +2.5 banned and +1.5 too thin; +2.0 refunds the modal 2-goal away win. Hull 0W4D0L at home last 4, last-10 losses all by 1 goal; Brighton without Mitoma/Ferguson, away wins 1-0,1-0,2-0. Own p 0.76."
+   }
+  ],
+  "avoid": "Brighton 1X2/-0.5 (p 0.66 < 0.75 away rule); Hull +2.5 (fav >= 0.60); Unders below 0.82",
+  "confidence": 0.3,
+  "sources": [
+   "https://thefalse9.com/2026/11/hull-city-vs-brighton-predicted-lineup-team-news-22-november.html",
+   "https://premierleaguenewsnow.com/2026/11/22/hull-city-brighton-preview-jakirovic-gross/",
+   "https://www.sportsmole.co.uk/football/hull-city/preview/hull-city-vs-brighton-prediction-team-news-lineups_609478.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73346134",
+  "fx": "Charlton Athletic v Aston Villa WFC",
+  "sport": "football",
+  "absences": "women's side - not researched individually",
+  "context": "Barclays WSL 2026-27, matchday on Sun 22 Nov. Women's fixture: picks barred except goals in clear mismatches.",
+  "news": "WSL site: 14:00 at The Valley (matches board). No news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides/handicaps (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.wslfootball.com/fixtures/wsl",
+   "https://www.espn.com/soccer/schedule/_/league/eng.w.1",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Women%27s_Super_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73346132",
+  "fx": "Everton FC Women v Brighton and Hove Albion WFC",
+  "sport": "football",
+  "absences": "women's side - not researched individually",
+  "context": "Barclays WSL 2026-27, matchday on Sun 22 Nov. Women's fixture: picks barred except goals in clear mismatches.",
+  "news": "WSL site: 14:00 at Goodison Park (matches board). No news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides/handicaps (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.wslfootball.com/fixtures/wsl",
+   "https://www.espn.com/soccer/schedule/_/league/eng.w.1",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Women%27s_Super_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73685108",
+  "fx": "Stoke City U21 v Stockport County Reserves",
+  "sport": "football",
+  "absences": "reserve sides - not researched",
+  "context": "Premier League Cup (U21). Stoke U21 v Stockport Reserves.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserves, thin market of 69)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/football/england/premier-league-cup/"
+  ]
+ },
+ {
+  "eid": "sr:match:73607450",
+  "fx": "Ipswich Town Lfc v Southampton FC",
+  "sport": "football",
+  "absences": "women's side - not researched individually",
+  "context": "FA Women's League Cup (Subway) group stage. Women's fixture: picks barred except goals in clear mismatches.",
+  "news": "Listed on WSL League Cup page at 14:00, missing from Football Web Pages listing; unconfirmed but no conflicting date. Southampton drew 1-1 v Leicester (lost pens) on 1 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides/handicaps (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/womens-league-cup/fixtures-results",
+   "https://www.wslfootball.com/fixtures/players-cup",
+   "https://www.betexplorer.com/football/england/women-s-league-cup/"
+  ]
+ },
+ {
+  "eid": "sr:match:73607452",
+  "fx": "Leicester City WFC v Wolverhampton Wanderers WFC",
+  "sport": "football",
+  "absences": "women's side - not researched individually",
+  "context": "FA Women's League Cup (Subway) group stage. Women's fixture: picks barred except goals in clear mismatches.",
+  "news": "Football Web Pages lists Leicester v Wolves at 15:00 local (=15:00 UTC) vs board 14:00 UTC.",
+  "veto": true,
+  "veto_reason": "kick-off conflict: 15:00 listed vs board 14:00 UTC",
+  "picks": [],
+  "avoid": "all result-sides/handicaps (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/womens-league-cup/fixtures-results",
+   "https://www.wslfootball.com/fixtures/players-cup",
+   "https://www.betexplorer.com/football/england/women-s-league-cup/"
+  ]
+ },
+ {
+  "eid": "sr:match:73607370",
+  "fx": "Newcastle United WFC v Nottingham Forest Lfc",
+  "sport": "football",
+  "absences": "women's side - not researched individually",
+  "context": "FA Women's League Cup (Subway) group stage. Women's fixture: picks barred except goals in clear mismatches.",
+  "news": "14:00 at Gateshead International Stadium; one betting listing 15:00 (likely CET). Newcastle won 5-1 at Durham, Forest beat Burnley 4-0 on 1 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides/handicaps (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/womens-league-cup/fixtures-results",
+   "https://www.wslfootball.com/fixtures/players-cup",
+   "https://www.betexplorer.com/football/england/women-s-league-cup/"
+  ]
+ },
+ {
+  "eid": "sr:match:73607368",
+  "fx": "Sheffield United LFC v Durham LFC",
+  "sport": "football",
+  "absences": "women's side - not researched individually",
+  "context": "FA Women's League Cup (Subway) group stage. Women's fixture: picks barred except goals in clear mismatches.",
+  "news": "14:00 listed, consistent. Sunderland beat Sheffield Utd 1-0, Durham lost 1-5 to Newcastle on 1 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides/handicaps (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/womens-league-cup/fixtures-results",
+   "https://www.wslfootball.com/fixtures/players-cup",
+   "https://www.betexplorer.com/football/england/women-s-league-cup/"
+  ]
+ },
+ {
+  "eid": "sr:match:75011796",
+  "fx": "Sunderland AFC v Burnley FC Women",
+  "sport": "football",
+  "absences": "women's side - not researched individually",
+  "context": "FA Women's League Cup (Subway) group stage. Women's fixture: picks barred except goals in clear mismatches.",
+  "news": "14:00 listed, consistent. Burnley lost 0-4 at Forest on 1 Nov; Sunderland beat Sheffield Utd 1-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides/handicaps (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/womens-league-cup/fixtures-results",
+   "https://www.wslfootball.com/fixtures/players-cup",
+   "https://www.betexplorer.com/football/england/women-s-league-cup/"
+  ]
+ },
+ {
+  "eid": "sr:match:73346124",
+  "fx": "Arsenal WFC v West Ham United FC Women",
+  "sport": "football",
+  "absences": "women's side - not researched individually",
+  "context": "Barclays WSL 2026-27, matchday on Sun 22 Nov. Women's fixture: picks barred except goals in clear mismatches.",
+  "news": "WSL site: 14:30 at Emirates Stadium (matches board). West Ham lost 5-0 at City recently. Sportradar Arsenal WFC last-10 (3W5D2L, 1.5 GF) looks inconsistent with their standing - data_conflict; no goals pick.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides/handicaps (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.wslfootball.com/fixtures/wsl",
+   "https://www.espn.com/soccer/schedule/_/league/eng.w.1",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Women%27s_Super_League"
+  ]
+ },
+ {
+  "eid": "sr:match:76638680",
+  "fx": "Viljandi JK Tulevik v FC Tallinn",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Esiliiga/Esiliiga B promotion/relegation play-off ('uleminekumang I'), FIRST LEG at Viljandi (Mannimae indoor hall per Tulevik site), 18:00 local = 16:00 UTC; return leg 28 Nov. Two-legged: no result-sides. Sofascore lists Lasnamae as FC Tallinn's own ground only, not a venue clash.",
+  "news": "Two-legged play-off leg 1 in Viljandi indoor hall; FanDuel has Tallinn slight favourites.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.7904616778,
+    "why": "Both sides leak: Tulevik 2.6 GF/2.2 GA, Tallinn 3.1 GA; Tulevik last 6 all had 2+ goals, Tallinn 5 of last 6 (3,3,3,7,3). Indoor artificial pitch, lower tier. Own p 0.82."
+   }
+  ],
+  "avoid": "1X2/DNB (two-legged first leg); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.jktulevik.ee/",
+   "https://www.sofascore.com/football/match/fc-tallinn-viljandi-jk-tulevik/XOEsDznc",
+   "https://sportsbook.fanduel.com/soccer/estonian-esiliiga/tulevik-viljandi-v-fc-tallinn-36349457"
+  ]
+ },
+ {
+  "eid": "sr:match:72221404",
+  "fx": "Liverpool v Man Utd",
+  "sport": "football",
+  "absences": "Liverpool: Conor Bradley, Giovanni Leoni (back training, miss), Hugo Ekitike (Achilles) out; Van Dijk fit; Frimpong and Gravenberch in contention (Gravenberch managing pain). Man Utd: Benjamin Sesko (calf), Manuel Ugarte (knee), Carlos Baleba (hamstring), GK Karl Darlow out; Rashford (hip) expected out, Shaw likely out; Maguire & Dorgu trained; Lisandro Martinez back from ban.",
+  "context": "BIG-CLUB CLASH at Anfield 16:30 UTC. Man Utd new manager Mauricio Pochettino's first game (replaced Michael Carrick in the international break) - new-manager variance. Liverpool (Iraola) 7W in last 10 but conceding 2.1/game; Utd 0W in last 5 away.",
+  "news": "Pochettino debut for Utd with 6 absentees incl. Sesko/Rashford; Liverpool near full strength bar Ekitike/Bradley.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides/DNB (big-club clash, new-manager bounce); totals: big-club totals need p >= 0.82 and Over 1.5 is 1.15 (below band); integer Over 2 banned",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.liverpoolfc.com/news/liverpool-v-manchester-united-team-news-premier-league-112026",
+   "https://www.sportsmole.co.uk/football/liverpool/injury-news/news/four-midable-liverpool-receive-quadruple-injury-boost-for-man-utd-clash_609497.html",
+   "https://www.thesportsbank.net/football/manchester-united/rashford-shaw-darlow/",
+   "https://sports.yahoo.com/articles/liverpool-vs-manchester-united-injury-180852838.html"
+  ]
+ }
+]
