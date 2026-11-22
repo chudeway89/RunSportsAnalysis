@@ -1,0 +1,569 @@
+[
+ {
+  "eid": "sr:match:73068214",
+  "fx": "AD Alcorcon v CF Algeciras",
+  "sport": "football",
+  "absences": "No current absence list found.",
+  "context": "Primera Federacion G2. Alcorcon (coach Fran Justo) 5W4D1L last 10; Algeciras (Adrian Colunga) ~10th, local press 'Algeciras, levantate y anda' implies poor run. 12:00 local Santo Domingo confirmed.",
+  "news": "KO 12:00 CET Santo Domingo confirmed; Algeciras in a slump per local press; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.6451,
+    "why": "Home form 5W4D1L, Algeciras slumping (deportesalminuto). Own p 0.64 ~ house; fill only, no named absences."
+   }
+  ],
+  "avoid": "Over 1.5 (Primera Federacion is a low-scoring league <2.5 goals avg); Away +1.5 catch (fav p 0.65).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.deportesalminuto.es/algeciras-cf/el-alcorcon-algeciras-el-domingo-22-de-noviembre-a-las-12-00h/",
+   "https://www.deportesalminuto.es/algeciras-cf/algeciras-levantate-y-anda-dom-12-00h/",
+   "https://es.wikipedia.org/wiki/Primera_Federaci%C3%B3n_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:72559262",
+  "fx": "Arenas Club de Getxo v Real Aviles CF",
+  "sport": "football",
+  "absences": "Real Aviles: Samu Mayo (yellow-card suspension), Carmona (sent off at Zamora). Arenas: none found.",
+  "context": "Primera Federacion G1 J13. Arenas 19th but 10 of last 12 points (best run of season); Aviles coach Yago Iglesias. Venue Fadura per Aviles club (one stale March listing says Gobela - Arenas moved to Fadura; not treated as conflict).",
+  "news": "Aviles without suspended Samu Mayo and Carmona; Arenas in best form (10/12 pts).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.49,
+    "p": 0.6254,
+    "why": "Named mechanism: Aviles two suspensions + Arenas 10/12 recent points at home. Own p 0.66 vs house 0.63."
+   }
+  ],
+  "avoid": "Aviles result-side; Over lines (Primera Fed low scoring).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.realavilesindustrial1903.com/mision-getxo/",
+   "https://arenasclub.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:73068222",
+  "fx": "SD Huesca v UD Ibiza",
+  "sport": "football",
+  "absences": "Huesca: Ivan Rodriguez (muscular) out; Gorostidi and Diego Gomez back from suspension, Sielva and Guillem Molina training normally. Ibiza: Gonzalo Almenara and Victor Garcia not travelling.",
+  "context": "Primera Federacion G2. Huesca (relegated from Segunda) changed coach (Albert Rude), two straight away defeats; Ibiza 3 pts above, lost 0-1 to Cartagena. 12:00 El Alcoraz.",
+  "news": "Huesca recovers Gorostidi, Diego Gomez, Sielva; Ibiza without Almenara and Victor Garcia.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.53,
+    "p": 0.6065,
+    "why": "Huesca gets 3 starters back while Ibiza lose two; home at Alcoraz. DNB removes draw risk (draw-heavy Huesca 5D/10). Own p 0.63 vs 0.61."
+   }
+  ],
+  "avoid": "Under 3.5 (p 0.77 <0.82); Huesca -0.5 straight.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportaragon.com/futbol-aragon/sd-huesca/previa-sd-huesca-ud-ibiza/20261121120000163417.html",
+   "https://www.periodicodeibiza.es/deportes/deporte-ibiza/2026/11/21/2754751/ibiza-ante-necesidad-reivindicarse-ante-huesca.html",
+   "https://www.cope.es/emisoras/aragon/huesca-provincia/huesca/deportes-cope-en-huesca/noticias/albert-rude-recupera-efectivos-decisivo-duelo-huesca-ibiza-20261119_3478590.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73107792",
+  "fx": "UD Ourense v Racing Club de Ferrol",
+  "sport": "football",
+  "absences": "Ourense: Rufo, Viti, Cristian Carro, Lucas Puime (micro-tear). Ferrol: Fabio Gonzalez and Monjonell (suspended), Lucas Diaz (shoulder, season); Unai Ropero doubtful.",
+  "context": "Galician derby, Primera Fed G1 J13, 12:00 O Couto. Ourense bottom (8 pts, 0.6 goals/game); Ferrol 8th (18 pts) but only 2 points from recent games.",
+  "news": "Derby: bottom Ourense v struggling Ferrol, both with 3-4 absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result sides (derby rule); Under 3.5 p 0.71 <0.82; Ferrol DNB tempting but derby + Ferrol slump + 3 Ferrol absences.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.laregion.es/deporte-local/ud-ourense-juega-racing-ferrol_1_20261120-4500767.html",
+   "https://minutonoventa.com/el-racing-viaja-a-o-couto-con-tres-bajas-y-la-obligacion-de-recuperar-el-gol/"
+  ]
+ },
+ {
+  "eid": "sr:match:72491466",
+  "fx": "Granada CF v Real Madrid W",
+  "sport": "football",
+  "absences": "Not researched in detail (women's).",
+  "context": "Women's Liga F (J12, last round before international break): no picks (women's hard-excluded). Granada-Real Madrid 12:00 Ciudad Deportiva Granada; Real Madrid 'looking to resurge'.",
+  "news": "Date/time confirmed 22/11 12:00 CET; no conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/20/el-barca-defiende-su-renta-duelo-directo-en-el-heliodoro-y-el-real-madrid-busca-resurgir/",
+   "https://lasfutbolistas.com/jornada-11-de-liga-f-previa-horarios-y-donde-ver-los-partidos/",
+   "https://en.ligaf.es/"
+  ]
+ },
+ {
+  "eid": "sr:match:72491470",
+  "fx": "Real Sociedad San Sebastian v Sevilla FC",
+  "sport": "football",
+  "absences": "Not researched in detail (women's).",
+  "context": "Women's Liga F (J12, last round before international break): no picks (women's hard-excluded). Real Sociedad lost 1-4 to Athletic last round; Sevilla lost 1-2 to Atletico.",
+  "news": "Date/time confirmed 22/11 12:00 CET; no conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/20/el-barca-defiende-su-renta-duelo-directo-en-el-heliodoro-y-el-real-madrid-busca-resurgir/",
+   "https://lasfutbolistas.com/jornada-11-de-liga-f-previa-horarios-y-donde-ver-los-partidos/",
+   "https://en.ligaf.es/"
+  ]
+ },
+ {
+  "eid": "sr:match:72885898",
+  "fx": "CD Roda v UCAM Murcia",
+  "sport": "football",
+  "absences": "Not researched (youth).",
+  "context": "U19 youth fixture: no picks (youth hard-excluded). No date/venue conflict found; Valladolid-Unionistas U19 confirmed 22/11 (DHJ Grupo 2 J10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth U19 hard-excluded).",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/real-valladolid-cf/2574/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72884320",
+  "fx": "CD Utrera U19 v FC Alhendin Balompie",
+  "sport": "football",
+  "absences": "Not researched (youth).",
+  "context": "U19 youth fixture: no picks (youth hard-excluded). No date/venue conflict found; Valladolid-Unionistas U19 confirmed 22/11 (DHJ Grupo 2 J10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth U19 hard-excluded).",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/real-valladolid-cf/2574/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72885890",
+  "fx": "CF Valencia v FC Cartagena",
+  "sport": "football",
+  "absences": "Not researched (youth).",
+  "context": "U19 youth fixture: no picks (youth hard-excluded). No date/venue conflict found; Valladolid-Unionistas U19 confirmed 22/11 (DHJ Grupo 2 J10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth U19 hard-excluded).",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/real-valladolid-cf/2574/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72883234",
+  "fx": "Ef Mareo Logrono Youth v SD Leioa Youth",
+  "sport": "football",
+  "absences": "Not researched (youth).",
+  "context": "U19 youth fixture: no picks (youth hard-excluded). No date/venue conflict found; Valladolid-Unionistas U19 confirmed 22/11 (DHJ Grupo 2 J10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth U19 hard-excluded).",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/real-valladolid-cf/2574/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72882636",
+  "fx": "RC Celta de Vigo v CD Marina Youth",
+  "sport": "football",
+  "absences": "Not researched (youth).",
+  "context": "U19 youth fixture: no picks (youth hard-excluded). No date/venue conflict found; Valladolid-Unionistas U19 confirmed 22/11 (DHJ Grupo 2 J10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth U19 hard-excluded).",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/real-valladolid-cf/2574/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72883222",
+  "fx": "Real Valladolid CF v CD Unionistas Salamanca CF U19",
+  "sport": "football",
+  "absences": "Not researched (youth).",
+  "context": "U19 youth fixture: no picks (youth hard-excluded). No date/venue conflict found; Valladolid-Unionistas U19 confirmed 22/11 (DHJ Grupo 2 J10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (youth U19 hard-excluded).",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/real-valladolid-cf/2574/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72559250",
+  "fx": "Barakaldo CF v Unionistas de Salamanca CF",
+  "sport": "football",
+  "absences": "None reported for either side.",
+  "context": "Primera Fed G1 J13, moved by RFEF from Sat 13:00 to Sun 16:00 Lasesarre (matches board 15:00 UTC). Barakaldo unbeaten at Lasesarre all season (only such ground in group); Unionistas in relegation zone with 1 point from 6 away games. Barakaldo had Copa del Rey tie v Reus midweek.",
+  "news": "Barakaldo unbeaten at home; Unionistas 1 pt in 6 away; kickoff move confirmed by both clubs' media.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.34,
+    "p": 0.6996,
+    "why": "Mechanism: fortress home record (unbeaten) v worst-but-one away side (1 pt/6). Own p 0.74 vs 0.70. Copa midweek = mild rotation risk."
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.21,
+    "p": 0.7813,
+    "why": "Same mechanism; Unionistas have taken 1 point away all season. Own p 0.82 vs 0.78."
+   }
+  ],
+  "avoid": "Over 2.5; Under 3.5 (0.76 <0.82).",
+  "confidence": 0.3,
+  "sources": [
+   "https://salamancartvaldia.es/noticia/2026-11-09-unionistas-jugara-finalmente-en-lasesarre-el-domingo-22-a-las-16-00-horas-400537",
+   "https://www.lagacetadesalamanca.es/deportes/futbol-local/unionistas/marotias-motiva-jugar-unionistas-mamado-futbol-lado-20261120112122-nt.html",
+   "https://www.deia.eus/futbol/2026/11/17/deberes-barakaldo-copa-11761388.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73068220",
+  "fx": "FC Cartagena v Real Jaen CF",
+  "sport": "football",
+  "absences": "Real Jaen: Cristian Pehlivanov, Mauro Cabello, Jose Alvarez, Peke/Peque Polo (fibre tear) out; Mario Martos doubtful. Cartagena: no absences for first time this season.",
+  "context": "Primera Fed G2, 16:00 Cartagonova; both on 19 pts. Cartagena beat Ibiza 1-0 last round but played Copa del Rey extra time midweek; Jaen on a bad run (coach Manolo Herrero).",
+  "news": "Cartagena full squad vs a Jaen missing 4 and on a poor run; Cartagena fatigue after Copa extra time.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.7362,
+    "why": "Mechanism: Jaen 4 named absentees + bad run; Cartagena full squad. Own p 0.77 vs 0.74 (Copa ET fatigue limits it)."
+   }
+  ],
+  "avoid": "Over 1.5 in low-scoring Primera Fed; Jaen +0.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://murciaplaza.com/murciaplaza/deportes-murcia/un-cartagena-con-confianza-recibe-al-jaen-en-un-partido-de-la-parte-alta",
+   "https://www.horajaen.com/2026/11/21/real-jaen-cortar-mala-racha-cartagena-herrero/",
+   "https://jaen24h.com/cartagena-real-jaen-domingo-22-noviembre-horario-donde-ver/"
+  ]
+ },
+ {
+  "eid": "sr:match:72559258",
+  "fx": "RC Deportivo Fabril v CD Coria",
+  "sport": "football",
+  "absences": "Fabril: Manu Ferreiro (tear, weeks); Dipanda close to return. Coria: none found.",
+  "context": "Reserve side (Deportivo B). Primera Fed G1 J13, 16:00 Abegondo. Fabril 18th (12 pts) v Coria 13th (15). Fabril drew 2-2 at Barakaldo.",
+  "news": "Fabril without Manu Ferreiro; date/venue confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (reserve side).",
+  "confidence": 0.15,
+  "sources": [
+   "https://minutonoventa.com/el-fabril-repite-en-abegondo-el-coria-visita-el-arsenio-iglesias-el-domingo-a-las-1600/",
+   "https://dxtcampeon.elidealgallego.com/deportivo/cantera/2026-11-20/manuel-pablo-confirma-que-manu-ferreiro-sufre-una-rotura-892119.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72509488",
+  "fx": "Real Avila CF v UB Conquense",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Segunda Federacion G5. Real Avila 17th (7 pts in 10, lost 1-3 at home to Salamanca); Conquense among leaders. 12:00 local per Real Avila calendar? Board 16:00 UTC (17:00 local).",
+  "news": "Real Avila club calendar lists 22/11 (one aggregator read it as 12:00) vs board 17:00 local - kickoff-time conflict.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict: summary of Real Avila calendar gave 12:00 v board 16:00 UTC; unverified.",
+  "picks": [],
+  "avoid": "All until kickoff verified; Conquense away 1X2 p 0.42.",
+  "confidence": 0.15,
+  "sources": [
+   "https://eldeporteconquense.com/noticias/futbol-noticias/noticias-futbol-segunda-division-b/la-ia-situa-al-conquense-como-favorito-para-acabar-2026-lider-pero-le-espera-un-exigente-reto-a-domicilio/",
+   "https://www.ud-sanse.com/equipos/primer-equipo/"
+  ]
+ },
+ {
+  "eid": "sr:match:72509496",
+  "fx": "Salamanca CF UDS v Calvo Sotelo Puertollano",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Segunda Federacion G5. Salamanca UDS co-leader (19 pts with Numancia and Sanse), won 3-1 at Avila; played midweek Wed 18 Nov v Atletico Albacete. Calvo Sotelo 2W2D6L last 10.",
+  "news": "Co-leader Salamanca v struggling Calvo Sotelo; midweek game for Salamanca.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7515,
+    "why": "Table/form gap (co-leader v 2 wins in 10); statistics-led so fill only. Own p 0.76 vs 0.75."
+   }
+  ],
+  "avoid": "Over 2.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lagacetadesalamanca.es/deportes/futbol-local/salamancauds/queda-clasificacion-grupo-segunda-federacion-tras-jornada-20261108215331-nt.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72505306",
+  "fx": "SD Gernika Club v Rayo Cantabria",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Segunda Fed G1 J12 (RFEF calendar 22/11). Rayo Cantabria is Racing Santander's reserve side.",
+  "news": "no news found (fixture confirmed in RFEF calendar)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (reserve opponent, no news).",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_i.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72491456",
+  "fx": "CD Tenerife v Madrid CFF",
+  "sport": "football",
+  "absences": "Not researched (women's).",
+  "context": "Women's Liga F (J12, last round before international break): no picks (women's hard-excluded). Tenerife v Madrid CFF is a direct duel, 17:00 Heliodoro Rodriguez Lopez (16:00 UTC, matches).",
+  "news": "Date/venue confirmed; no conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/20/el-barca-defiende-su-renta-duelo-directo-en-el-heliodoro-y-el-real-madrid-busca-resurgir/",
+   "https://lasfutbolistas.com/jornada-11-de-liga-f-previa-horarios-y-donde-ver-los-partidos/",
+   "https://en.ligaf.es/"
+  ]
+ },
+ {
+  "eid": "sr:match:72508598",
+  "fx": "CD Ciudad de Lucena v Betis Deportivo Balompie",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Segunda Fed G4 J12, 17:30 local. Betis Deportivo is Real Betis' reserve side, 'looking to keep climbing'; even H2H history.",
+  "news": "no team news found; fixture confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (reserve side).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betisweb.com/web/previa-el-betis-deportivo-quiere-seguir-escalando-en-lucena/",
+   "https://www.lucenadeporte.com/ciudad-de-lucena-cf/analisis-asi-llega-betis-deportivo-lucena-choque-domingo/20261120123747003829.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72508602",
+  "fx": "RC Recreativo de Huelva v CD Badajoz",
+  "sport": "football",
+  "absences": "Recreativo: Hugo Lopez, Fernando Padilla, Matias Chavarria (injured), Segura (suspended). Badajoz: none found.",
+  "context": "Segunda Fed G4 J12 top-of-table: leader Recreativo (21, game in hand) v 3rd Badajoz (20), newly promoted, 8 unbeaten, lost only once, won derby v Don Benito.",
+  "news": "Recre missing 4 incl. suspended Segura v unbeaten-in-8 Badajoz.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Recreativo Home 1.46 (p 0.63 looks rich given 4 absences and Badajoz form) - fragile favourite; Away +1.5 banned (fav p 0.63 >= 0.55).",
+  "confidence": 0.25,
+  "sources": [
+   "https://lagacetadehuelva.es/galvan-confirma-cuatro-bajas-para-recibir-al-cd-badajoz/",
+   "https://lagacetadehuelva.es/asi-es-el-badajoz-que-visita-al-recreativo-ocho-jornadas-sin-perder-y-a-un-punto-del-liderato/",
+   "https://badajozdeportes.com/2026/11/21/el-badajoz-quiere-discutirle-el-liderato-al-recreativo/"
+  ]
+ },
+ {
+  "eid": "sr:match:72506840",
+  "fx": "SD Logrones v CD Arnedo",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Segunda Fed G2, La Rioja derby. Both poor: Logrones 1W in 10, 0.7 goals/game; Arnedo 1W in 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (derby, home side 1W/10).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72505316",
+  "fx": "Sestao River Club v SD Amorebieta",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Segunda Fed G1 J12 Biscay derby (RFEF calendar 22/11). Sestao 8W2D last 10 (0.6 GA); Amorebieta 6W.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (derby); Under 2.5 p 0.58 <0.82.",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_i.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72509486",
+  "fx": "Atletico Madrid C v UD San Sebastian Reyes",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Segunda Fed G5; Atletico Madrid C (reserve, 18 pts in 10) v Sanse (co-leader 19, drew 3-3 v Atl. Albacete).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (reserve side).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ud-sanse.com/equipos/primer-equipo/"
+  ]
+ },
+ {
+  "eid": "sr:match:72506842",
+  "fx": "Terrassa FC v CE Manresa",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Segunda Fed G2 Catalan (Barcelona-province) derby, 18:00 local. Terrassa 2nd, fewest conceded in group (5); Manresa won at Najera last week.",
+  "news": "Terrassa meanest defence (5 GA) hosts Manresa.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (local derby); Under 2.5 p 0.55 <0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://naciodigital.cat/manresa/esports/el-ce-manresa-posa-a-prova-la-seva-ambicio-al-camp-del-terrassa-el-menys-golejat-del-grup.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72507602",
+  "fx": "Valencia CF Mestalla v CD Alcoyano",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Segunda Fed G3 J12, 18:00 Antonio Puchades. Mestalla (Valencia reserve) 8 pts below Alcoyano (7th, 17 pts, won 4-1 v Intercity).",
+  "news": "Kickoff 18:00 CET confirmed by Valencia CF (365Scores 17:00 = UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (reserve side).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.valenciacf.com/previa-vcf-mestalla-cd-alcoyano"
+  ]
+ },
+ {
+  "eid": "sr:match:72559260",
+  "fx": "Cultural Leonesa v Zamora CF",
+  "sport": "football",
+  "absences": "Cultural: Delgado out.",
+  "context": "Castilla y Leon derby, Primera Fed G1 J13, 18:15 Reino de Leon. Both on 13 pts in relegation zone; Cultural 5 league games without a win and new coach Fernando Estevez debuts.",
+  "news": "New-coach debut in relegation derby; one aggregator (AuPa) lists 29/11 but club, Zamora CF and press confirm 22/11 18:15.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (AuPa Athletic lists 29/11); official sources say 22/11 - soft veto.",
+  "picks": [],
+  "avoid": "All (derby, new-coach bounce uncertainty, date conflict).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.leonoticias.com/deportes/cultural/cultural-encuentra-ordenes-estevez-20261119191102-nt.html",
+   "https://www.zamoracf.es/rueda-de-prensa-jornada-13-alex-hidalgo-y-oscar-cano/",
+   "https://www.aupaathletic.com/bancodatos/equipo-calendario.asp?id=45"
+  ]
+ },
+ {
+  "eid": "sr:match:72559248",
+  "fx": "Merida AD v Real Union de Irun",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Primera Fed G1 J13, Estadio Romano. Merida 5th (19 pts, 3W1D1L last 5) v Real Union 11th (16).",
+  "news": "Real Union official calendar 18:15 local (=17:15 UTC, matches board) but TuFutbolero preview says 12:15.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict (12:15 vs 18:15) between sources.",
+  "picks": [],
+  "avoid": "All (time conflict).",
+  "confidence": 0.15,
+  "sources": [
+   "https://realunionclub.com/calendario-primer-equipo/",
+   "https://www.tufutbolero.com/en/news/merida-real-union-preview-the-hosts-sit-fifth-with-19-points-fcefe6"
+  ]
+ },
+ {
+  "eid": "sr:match:72491464",
+  "fx": "FC Barcelona W v Athletic Bilbao",
+  "sport": "football",
+  "absences": "Not researched (women's).",
+  "context": "Women's Liga F (J12, last round before international break): no picks (women's hard-excluded). Barca defending league lead, 19:00 Johan Cruyff (18:00 UTC matches); Athletic beat Real Sociedad 4-1 last round.",
+  "news": "Date/venue confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/20/el-barca-defiende-su-renta-duelo-directo-en-el-heliodoro-y-el-real-madrid-busca-resurgir/",
+   "https://lasfutbolistas.com/jornada-11-de-liga-f-previa-horarios-y-donde-ver-los-partidos/",
+   "https://en.ligaf.es/"
+  ]
+ },
+ {
+  "eid": "sr:match:72559256",
+  "fx": "CP Cacereno SAD v UD Logrones",
+  "sport": "football",
+  "absences": "Cacereno: Exposito returns from suspension. Logrones: none found.",
+  "context": "Primera Fed G1 J13, 20:30 Principe Felipe (19:30 UTC matches). Logrones 2nd, best away record (15/18 pts, 16 goals in 6 away); Cacereno 13/18 at home, 4 clean sheets in 6 home games (only loss 0-1 v leader Lugo). Coach Julio Cobos expects a very hard game; Mendia expects an open one.",
+  "news": "Strong home defence v best away attack; no absences of note.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (evenly matched, p ~0.36 each); Over 1.5 (Primera Fed low-scoring, Cacereno home clean sheets).",
+  "confidence": 0.2,
+  "sources": [
+   "https://nuevecuatrouno.com/2026/11/21/cacereno-ud-logrones-primera-federacion-jornada-partido-principe-felipe",
+   "https://nuevecuatrouno.com/2026/11/21/deportes-primera-federacion-udlogrones-cacereno-entrenador-julio-cobos"
+  ]
+ }
+]
