@@ -1,0 +1,624 @@
+[
+ {
+  "eid": "sr:match:77027616",
+  "fx": "Beijing Ducks v Shenzhen Leopards",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "CBA Club Cup (3rd edition) single-game knockout in the Yinchuan zone; winners go to the Feb 2027 finals in Nanning. Beijing 10-0 last 10.",
+  "news": "Board has 0 markets. A report says Beijing beat Shenzhen by 58 (record margin), and allform h2h already shows 120-62, so it is unclear whether this fixture was already played or is a rematch.",
+  "veto": true,
+  "veto_reason": "data_conflict: no markets on board, and a 58-point Beijing win over Shenzhen is already reported/recorded (h2h 120-62); fixture status unclear",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://bifen.ip138.com/saishi/24276.htm",
+   "https://www.sohu.com/a/1104709102_122289792",
+   "https://www.163.com/dy/article/LCAFU6E50556BUWI.html"
+  ]
+ },
+ {
+  "eid": "sr:match:77027634",
+  "fx": "Shandong Kirin v Zhejiang Golden Bulls",
+  "sport": "basketball",
+  "absences": "none named in sources",
+  "context": "Club Cup knockout, last 16 (winner to the Feb 2027 finals). Zhejiang Golden Bulls (Chouzhou) beat Guangdong in the Nov 21 crossover knockout, so they are on a back-to-back (<24h). Shandong 4-6 last 10; lost both h2h (84-86, 75-89).",
+  "news": "Knockout tie; Golden Bulls are coming off a win over Guangdong the night before. No Shandong injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.764744,
+    "why": "In a one-game knockout, ML incl. OT works as To Qualify. Golden Bulls beat Guangdong last night; 7-3 v Shandong's 4-6, won both h2h. Back-to-back fatigue cuts it to my p 0.74 (not above house)."
+   }
+  ],
+  "avoid": "handicaps and totals (back-to-back pace is uncertain)",
+  "confidence": 0.2,
+  "sources": [
+   "https://bifen.ip138.com/saishi/24276.htm",
+   "https://www.sohu.com/a/1104709102_122289792",
+   "https://www.163.com/dy/article/LCAFU6E50556BUWI.html"
+  ]
+ },
+ {
+  "eid": "sr:match:77027626",
+  "fx": "Shanxi Loongs v Ningbo Rockets",
+  "sport": "basketball",
+  "absences": "Ningbo played all-Chinese (no imports) in the Nov 21 87-83 comeback win over Hefei; import status for today unknown",
+  "context": "Club Cup knockout at Ningxia Gymnasium, Yinchuan, 15:30 Beijing time (07:30 UTC, matches the board); winner goes to the finals. Shanxi (last edition's runner-up) 8-2, 5-0 at home; Ningbo 1-9.",
+  "news": "Ningbo reached the last 16 with an all-Chinese line-up win over Hefei; Shanxi big favourite (-18.5).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Shanxi -16.5/-18.5: knockout motivation plus a catch-up win for Ningbo the night before makes a garbage-time cover uncertain; Over lines are p<0.74",
+  "confidence": 0.15,
+  "sources": [
+   "https://bifen.ip138.com/saishi/24276.htm",
+   "https://www.sohu.com/a/1104709102_122289792",
+   "https://www.163.com/dy/article/LCAFU6E50556BUWI.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73829030",
+  "fx": "Danubz Linz v UBI Holding Graz",
+  "sport": "basketball",
+  "absences": "none found (women's league; only date/venue checked)",
+  "context": "Austrian women's Superliga. ORF's Sunday schedule lists Linz v UBI Graz.",
+  "news": "ORF fixture list confirms Linz v UBI Graz on Sunday; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "https://bk-klosterneuburg.at/duchess/"
+  ]
+ },
+ {
+  "eid": "sr:match:73496004",
+  "fx": "Upper Austrian Ballers v Raiffeisen Radenthein Garnets",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Austrian 2nd tier, round 8; Raiffeisen Arena Wels 14:30 local (13:30 UTC, matches). Both 2-8 last 10; Radenthein 0-4 away (59.5 ppg).",
+  "news": "Round-8 preview confirms kick-off and venue; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "handicap/total near 50/50, no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://mattersburg-rocks.at/2026/vorschau-auf-den-8-spieltag-rocks-muessen-nach-tirol/",
+   "https://www.sport.de/basketball/co13079/zweite-liga/spielplan/",
+   "https://tipsterio.de/sportwetten-tipps/raiders-tirol-vs-vienna-timberwolves-wett-tipp-prognose-24-10-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73829032",
+  "fx": "Vienna United PSV v UBSC-DBBC Graz",
+  "sport": "basketball",
+  "absences": "none found (women's)",
+  "context": "Women's Superliga, both bottom sides (Vienna United 1-9, 0-6 at home).",
+  "news": "ORF lists Vienna United v UBSC Graz on Sunday; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "https://bk-klosterneuburg.at/duchess/"
+  ]
+ },
+ {
+  "eid": "sr:match:72816528",
+  "fx": "Bavi Vilvoorde v Basket Willebroek",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Belgian 3rd tier (Top Division 1). Stedelijke Sporthal Vilvoorde 15:00 local (14:00 UTC, matches). Willebroek 3rd/4th; Vilvoorde 11th/13th (2-6) – tables disagree by date.",
+  "news": "Federation calendar, club site and Eurobasket agree on date/venue; Willebroek won at Ieper last round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Willebroek ML p 0.72 is below the 0.75 away threshold; Willebroek is 1-3 away, conceding 93.5",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.basketbal.vlaanderen/resultaten/reeks/BVBL26279180NAHSE11A",
+   "https://www.eurobasket.com/Belgium/news/1041983/Top-Division-I-Round-9-Regular-Season-Willebroek-beats-Ieper-by-two-after-a-very-close-game",
+   "https://basketwillebroek.be/"
+  ]
+ },
+ {
+  "eid": "sr:match:74320794",
+  "fx": "Sao Jose dos Campos v SC Corinthians Paulista",
+  "sport": "basketball",
+  "absences": "no news found for either side",
+  "context": "NBB round 7; Ginasio Linneu de Moura 11:00 BRT (14:00 UTC, matches). Corinthians on a 3-game win streak; Sao Jose 3-7.",
+  "news": "Corinthians are chasing a 4th straight win; no absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Corinthians away ML p 0.64 (<0.75); Sao Jose catches are not a credible receiver at +10.5 (lost by 20 and 16 at home recently)",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://www.metropoles.com/esportes/nbb-desfalcado-brasilia-basquete-e-derrotado-pelo-uniao-corinthians",
+   "https://meutimao.com.br/noticias-do-corinthians/544453/corinthians-emenda-terceira-vitoria-consecutiva-no-nbb-e-busca-ampliar-sequencia-positiva"
+  ]
+ },
+ {
+  "eid": "sr:match:74320796",
+  "fx": "Brasilia Basquete v Pato Basquete",
+  "sport": "basketball",
+  "absences": "Brasilia were missing Fernandez in the Nov 9 loss to Uniao Corinthians; his status today is unknown",
+  "context": "NBB round 7; Arena Nilson Nelson 11:15 BRT (14:15 UTC, matches). Brasilia return from the South American League trip. Pato 2-8 (lost 73-74 to Corinthians).",
+  "news": "Brasilia come back from a South American League trip and may be short-handed (Fernandez); Pato are weak away (1-4).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=145.5",
+    "desc": "Over 145.5",
+    "odds": 1.29,
+    "p": 0.7430092664,
+    "why": "Projection about 154 (Brasilia home 82-79, Pato away 69-80); travel fatigue could slow the pace. My p 0.76."
+   }
+  ],
+  "avoid": "Brasilia ML/-6.5: home 1-3 and post-trip fatigue; the 1X2 at 1.18 also carries a draw leg",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://www.metropoles.com/esportes/nbb-desfalcado-brasilia-basquete-e-derrotado-pelo-uniao-corinthians",
+   "https://meutimao.com.br/noticias-do-corinthians/544453/corinthians-emenda-terceira-vitoria-consecutiva-no-nbb-e-busca-ampliar-sequencia-positiva"
+  ]
+ },
+ {
+  "eid": "sr:match:73829034",
+  "fx": "Vienna D.C. Timberwolves v DBB LZ OO",
+  "sport": "basketball",
+  "absences": "none found (women's)",
+  "context": "Women's Superliga. ORF lists Vienna Timberwolves v DBB Wels at 15:30 local (14:30 UTC); DBB LZ OO is assumed to be the Upper Austria/Wels academy side – the opponent naming differs, but date and time match.",
+  "news": "No team news; the schedule matches apart from the opponent label.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "https://bk-klosterneuburg.at/duchess/",
+   "https://sport.orf.at/stories/3162854"
+  ]
+ },
+ {
+  "eid": "sr:match:73496006",
+  "fx": "Swarco Raiders Tirol v Mattersburg Rocks",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Austrian 2nd tier, round 8; Landessportcenter Tirol 16:00 local (15:00 UTC, matches). Raiders are league leaders (unbeaten early, beat Radenthein 110-66); Mattersburg 1-3 away.",
+  "news": "Mattersburg's preview confirms the trip to Tirol; no absences named.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Raiders ML 1.11 is below range; -11.5 is a coin flip",
+  "confidence": 0.15,
+  "sources": [
+   "https://mattersburg-rocks.at/2026/vorschau-auf-den-8-spieltag-rocks-muessen-nach-tirol/",
+   "https://www.sport.de/basketball/co13079/zweite-liga/spielplan/",
+   "https://tipsterio.de/sportwetten-tipps/raiders-tirol-vs-vienna-timberwolves-wett-tipp-prognose-24-10-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74075858",
+  "fx": "Rilski Sportist v Cherno More IG",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Bulgarian NBL. Standings: Rilski 11 pts, Cherno More 10 pts (2026 Cup winners).",
+  "news": "BTA (1 day old) lists Rilski v Cherno More on Sunday, but RealGM's listing shows Rilski playing EUR on Nov 21: a date conflict between sources.",
+  "veto": true,
+  "veto_reason": "date_conflict: RealGM has Rilski playing on Nov 21; BTA has Rilski v Cherno More on Sunday",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bta.bg/",
+   "https://basketball.realgm.com/international/league/26/bulgarian-nbl",
+   "https://www.flashscore.com/basketball/bulgaria/nbl/"
+  ]
+ },
+ {
+  "eid": "sr:match:74075862",
+  "fx": "Lokomotiv Plovdiv 1926 v Shumen",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Bulgarian NBL. Lokomotiv 9 pts/5 games, 5-1 at home; Shumen 10 pts/6.",
+  "news": "BTA lists Lokomotiv v Shumen for Sunday, but RealGM lists it for Nov 23: a date conflict.",
+  "veto": true,
+  "veto_reason": "date_conflict: RealGM lists the game on Nov 23, the board on Nov 22",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bta.bg/",
+   "https://basketball.realgm.com/international/league/26/bulgarian-nbl",
+   "https://www.flashscore.com/basketball/bulgaria/nbl/"
+  ]
+ },
+ {
+  "eid": "sr:match:73829036",
+  "fx": "BK Duchess v Basket Flames",
+  "sport": "basketball",
+  "absences": "none found (women's)",
+  "context": "Women's Superliga; Klosterneuburg Duchess v Basket Flames 17:30 local (16:30 UTC, matches). Duchess want revenge for the 54-60 loss, after the national-team break.",
+  "news": "The club site confirms the home game v Flames; no absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks; ML 1.11 is below range anyway",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288202/",
+   "https://bk-klosterneuburg.at/duchess/"
+  ]
+ },
+ {
+  "eid": "sr:match:73496010",
+  "fx": "Vienna D.C. Timberwolves v Future Team Steiermark",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Austrian 2nd tier; Timberwolves v Future Team Steiermark (a development/youth side) in Vienna, 18:00 local (17:00 UTC, matches). Timberwolves won the earlier meeting 122-59 away.",
+  "news": "Schedule confirmed; Future Team is a youth development team and a severe mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no board market in range (ML not offered at a usable price); youth side",
+  "confidence": 0.1,
+  "sources": [
+   "https://mattersburg-rocks.at/2026/vorschau-auf-den-8-spieltag-rocks-muessen-nach-tirol/",
+   "https://www.sport.de/basketball/co13079/zweite-liga/spielplan/",
+   "https://tipsterio.de/sportwetten-tipps/raiders-tirol-vs-vienna-timberwolves-wett-tipp-prognose-24-10-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74998608",
+  "fx": "Mladost Mrkonjic v KK Sloboda Tuzla",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Bosnian 1st division. Sloboda 7-3, 4-1 away (94 ppg); Mladost 3-7, 2-4 at home. Last season's meetings were split.",
+  "news": "No November 2026 coverage found; date unverified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.802869,
+    "why": "Stats-only fill (no named mechanism): Sloboda average +14 in the last 10, Mladost -8. My p 0.80, the same as the house."
+   }
+  ],
+  "avoid": "handicaps",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportsport.ba/klub/kk-mladost-mrkonjic-grad/975",
+   "https://sportsport.ba/klub/okk-sloboda-tuzla/985"
+  ]
+ },
+ {
+  "eid": "sr:match:71516036",
+  "fx": "Buffalo Bills v Miami Dolphins",
+  "sport": "american football",
+  "absences": "MIA: QB Malik Willis (IR, groin/core, earliest return Wk14) -> Kyle McCord 2nd start; RB De'Von Achane IR; DL Zach Sieler IR; P Pinion, WR Jared Wayne out. BUF: CB Christian Benford, LB Dorian Williams out; TE Dalton Kincaid doubtful; DT Ed Oliver questionable",
+  "context": "Week 11. Bills 8-1 with the No. 2 rushing attack; Dolphins 1-9 with a backup QB. Spread -15.5.",
+  "news": "Miami start 2nd-year QB McCord without Achane; Buffalo's defence is thinned at CB/LB.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "60",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7910848976,
+    "why": "Mechanism: Miami's backup QB (McCord) without Achane facing Allen. The Bills lead at the half in about 80%; the 1H draw risk is small. My p 0.81."
+   }
+  ],
+  "avoid": "Bills -15.5 (Buffalo's CB/LB absences raise backdoor risk)",
+  "confidence": 0.3,
+  "sources": [
+   "https://pickinsplinters.com/2026/11/19/dolphins-bills-preview-three-storylines-two-keys-to-the-game-one-x-factor-2/",
+   "https://bangedupbills.com/2026/11/20/buffalo-bills-vs-miami-dolphins-week-11-injury-preview/",
+   "https://nbcsports.com/nfl/profootballtalk/rumor-mill/news/bills-add-ed-oliver-to-injury-report-list-him-as-questionable"
+  ]
+ },
+ {
+  "eid": "sr:match:71516038",
+  "fx": "Carolina Panthers v Baltimore Ravens",
+  "sport": "american football",
+  "absences": "BAL: QB Lamar Jackson IR (thumb, est. return Dec 27); CB Marlon Humphrey out (disciplinary); DT Nnamdi Madubuike, S Jaylinn Hawkins out. CAR: LB Bobby Okereke, Isaiah Simmons out; RB Jonathon Brooks questionable; QB Bryce Young full practice (foot), no designation",
+  "context": "Week 11. Ravens without Lamar; Panthers home favourite -0.5/-1.5.",
+  "news": "Lamar Jackson on IR, plus Humphrey and Madubuike out; Young is cleared.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Panthers ML/handicap: the house has already priced the Lamar absence (p 0.57) – no extreme edge",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.covers.com/sport/football/nfl/matchup/380070",
+   "https://www.espn.com/nfl/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:71516040",
+  "fx": "Chicago Bears v New Orleans Saints",
+  "sport": "american football",
+  "absences": "NO: C Erik McCoy, RT Taliese Fuaga, T Asim Richards, CB Martin Emerson Jr. out (5 ruled out); LB Pete Werner, CB Decamerion Richardson questionable. CHI: no game designations; WR Luther Burden III cleared concussion protocol; TE Hockenson off the report",
+  "context": "Week 11, Soldier Field, noon CT. Bears 8-2 with a clean report; rain forecast.",
+  "news": "Saints lose their starting C and RT (O-line) plus CB Emerson; Bears fully healthy.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "64",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7854420038,
+    "why": "Mechanism: Saints without their starting C/RT and CB1 against a fully healthy Bears side. Bears lead at the half in about 80%; DNB voids a tie. My p 0.81."
+   }
+  ],
+  "avoid": "Totals (rain forecast); big handicap",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bleachernation.com/bears/2026/11/20/saints-injury-report-3/",
+   "https://sports.yahoo.com/articles/bears-final-injury-report-brings-015045804.html",
+   "https://heavy.com/sports/nfl/chicago-bears/caleb-williams-rain-forecast-injury-vikings-saints/"
+  ]
+ },
+ {
+  "eid": "sr:match:71516042",
+  "fx": "Dallas Cowboys v Tennessee Titans",
+  "sport": "american football",
+  "absences": "DAL: WR CeeDee Lamb questionable (concussion protocol); CB DaRon Bland placed on IR (ankle). TEN: RB Tyjae Spears IR (knee)",
+  "context": "Week 11. Titans 1-8, Cowboys 4-6 (1-4 at home; poor pass defence). Titans 10-2 ATS as a 7+ point dog with QB Ward.",
+  "news": "Lamb doubtful-ish; Bland on IR weakens a defence that already leaks.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cowboys ML/handicap (Dallas 1-4 at home, Titans' cover trend); total too high to find an edge",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.espn.com/nfl/story/_/id/50522208/week-11-picks-predictions-schedule-fantasy-odds-2026",
+   "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-nov-21"
+  ]
+ },
+ {
+  "eid": "sr:match:71516044",
+  "fx": "Detroit Lions v Tampa Bay Buccaneers",
+  "sport": "american football",
+  "absences": "TB: QB Baker Mayfield questionable (foot/plantar fascia + right thumb; limited Thu/Fri, 'trending right'); S Antoine Winfield Jr., CB Josh Hayes out; LB Bachie, DE Lacy, RB Vaki questionable; Yaya Diaby questionable. DET: no key absences confirmed",
+  "context": "Week 11, 1pm ET. Lions 7-2, 5-0 at home; Bucs 3-6.",
+  "news": "Mayfield is playing hurt in an orthotic, with two DBs out (Winfield, Hayes).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.651968,
+    "why": "Mechanism: a compromised Mayfield plus missing Winfield/Hayes against an unbeaten home Lions side. My p 0.68 v house 0.65 – modest."
+   }
+  ],
+  "avoid": "Lions -6.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.buccaneers.com/news/2026-game-preview-buccaneers-lions-week-11",
+   "https://sports.yahoo.com/articles/buccaneers-vs-lions-final-injury-222030306.html"
+  ]
+ },
+ {
+  "eid": "sr:match:71516046",
+  "fx": "Kansas City Chiefs v Arizona Cardinals",
+  "sport": "american football",
+  "absences": "KC: QB Patrick Mahomes full participant (knee/right elbow UCL sprain), no designation; Kelce, Rice full; RB Kenneth Walker III (groin) DNP early week; Norman-Lott, Woods questionable. ARI: QB Carson Beck limited (back); Roy Lopez limited",
+  "context": "Week 11 at Arrowhead. Chiefs 4-0-1 at home; Cardinals 3-7 with a rookie QB playing hurt.",
+  "news": "Mahomes is cleared; Arizona's Beck is limited with a back injury.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "60",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.785092,
+    "why": "Mechanism: Mahomes is cleared while Arizona's rookie QB Beck has a back issue; KC allow 13.4 at home. My p 0.80."
+   }
+  ],
+  "avoid": "Chiefs -15.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.chiefs.com/news/week-11-injury-report-cardinals-vs-chiefs-2026",
+   "https://arizonasports.com/arizona-cardinals-injury-report/cardinals-chiefs-injury-report"
+  ]
+ },
+ {
+  "eid": "sr:match:71516054",
+  "fx": "Philadelphia Eagles v Pittsburgh Steelers",
+  "sport": "american football",
+  "absences": "PHI: QB Jalen Hurts on IR (calf, per ESPN); backup QB T. McKee listed with a rib injury; LB Zack Baun, WR Dontayvion Wicks on IR/out; LB Smael Mondon doubtful; DeVonta Smith cleared. PIT: WR Michael Pittman out; Herbig, Queen, Elliott, Dunker questionable; Roman Wilson activated",
+  "context": "Week 11, 4:25pm ET. Eagles 2-8 without Hurts; Steelers road favourite.",
+  "news": "Hurts is out and his backup is banged up; the Steelers have several defensive starters questionable.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Steelers -1.5/-2.5 is an away result-side at p 0.60-0.62 (<0.75); Unders need p ≥ 0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.philadelphiaeagles.com/news/steelers-vs-eagles-injury-report-2026-nfl-week-11-salute-to-service",
+   "https://www.yardbarker.com/nfl/articles/eagles_put_zack_baun_dontayvion_wicks_on_injured_reserve_before_steelers_game/s1_17668_44599903",
+   "https://www.espn.com/nfl/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:74320792",
+  "fx": "Fortaleza Basquete Cearense v Flamengo RJ",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NBB round 7, Centro de Formacao Olimpica, Fortaleza. Flamengo 6th (5-3), Basquete Cearense 16th (2-7).",
+  "news": "Kick-off conflict: the LNB table shows 11:00 BRT (14:00 UTC), while a broadcast guide shows 16:00 BRT (19:00 UTC, as on the board).",
+  "veto": true,
+  "veto_reason": "kickoff_conflict: LNB table 11h BRT v broadcast guide/board 16h BRT",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://www.olimpiadatododia.com.br/basquete/774511-basquete-cearense-x-flamengo-nbb-2026-2027-onde-assistir"
+  ]
+ },
+ {
+  "eid": "sr:match:74320798",
+  "fx": "Mogi das Cruzes v CA Paulistano SP",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NBB round 7, Ginasio Hugo Ramos 17:00 BRT (20:00 UTC, matches). Mogi are 2nd on a 6-game win streak, 5-0 at home (87-75); Paulistano 1-5 away (68.7 ppg).",
+  "news": "Mogi (vice-leaders) aim to extend a 6-game win streak at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "64",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7736771139,
+    "why": "Mechanism: Mogi's 6-game streak and 5-0 home record (+12.4) against Paulistano's 1-5 away. My p 0.80."
+   },
+   {
+    "mid": "225",
+    "spec": "total=141.5",
+    "desc": "Over 141.5",
+    "odds": 1.28,
+    "p": 0.748644,
+    "why": "Projection about 155 (Mogi home 87.4 scored; Paulistano concede 76.5 away). My p 0.80."
+   }
+  ],
+  "avoid": "Mogi -8.5 (correlated with the 1H DNB)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.olimpiadatododia.com.br/basquete/774562-mogi-paulistano-nbb-onde-assistir",
+   "https://lnb.com.br/nbb/tabela-de-jogos/"
+  ]
+ },
+ {
+  "eid": "sr:match:74320800",
+  "fx": "Bauru Basket SP v EC Uniao Corinthians",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NBB round 7, 18:00 BRT (21:00 UTC, matches the LNB table). Bauru 3-7 and only 1-6 at home; Uniao Corinthians 4-6, 1-4 away, but beat Brasilia on Nov 9.",
+  "news": "No team news; Uniao beat a short-handed Brasilia on Nov 9.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-11.5",
+    "desc": "Away (+11.5)",
+    "odds": 1.32,
+    "p": 0.72639,
+    "why": "Credible receiver: Bauru are 1-6 at home with a 69.6-73.4 home scoring line, so not built to win big; Uniao beat Brasilia recently. My p 0.78."
+   }
+  ],
+  "avoid": "Bauru ML (1-6 at home)",
+  "confidence": 0.2,
+  "sources": [
+   "https://lnb.com.br/nbb/tabela-de-jogos/",
+   "https://www.metropoles.com/esportes/nbb-desfalcado-brasilia-basquete-e-derrotado-pelo-uniao-corinthians"
+  ]
+ },
+ {
+  "eid": "sr:match:77003734",
+  "fx": "SESI / Araraquara v Campinas Basquete",
+  "sport": "basketball",
+  "absences": "none found (women's)",
+  "context": "Paulista women's Divisao Especial; SESI Araraquara (4-time champions) v Campinas – an established rivalry, 6 meetings this season, results split.",
+  "news": "No 2026 report found for this date; no conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://araraquara.sesisp.org.br/noticia/sesi-araraquara-e-tetracampeao-paulista-de-basquete-feminino"
+  ]
+ },
+ {
+  "eid": "sr:match:71516050",
+  "fx": "Los Angeles Chargers v New York Jets",
+  "sport": "american football",
+  "absences": "LAC: WR Ladd McConkey questionable (back); LB Daiyan Henley, Rodney Shelley, Kendall Williamson out; WR Brenen Thompson doubtful; TE Charlie Kolar questionable (concussion). NYJ: QB Geno Smith full (ankle); OL Dylan Parham, Edge Joseph Ossai questionable. Herbert status not found",
+  "context": "Week 11. Chargers winless (seeking their 1st win), 0-5 at home; Jets 2-8.",
+  "news": "Chargers banged up at WR/LB; Geno Smith cleared for the Jets.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Chargers ML (0-5 at home, Herbert status unconfirmed)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.chargers.com/news/chargers-vs-jets-injury-report-ladd-mcconkey-daiyan-henley-week-10-2026",
+   "https://www.newyorkjets.com/news/jets-injury-report-week-11-vs-chargers-friday-11-20-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:71516052",
+  "fx": "Denver Broncos v Las Vegas Raiders",
+  "sport": "american football",
+  "absences": "LV: DT Tonka Hemingway out; TE Brock Bowers questionable (ankle/quad); DT Fatukasi, K Matt Gay questionable. DEN: TE Caleb Lohner out; S Brandon Jones questionable",
+  "context": "Week 11 divisional (AFC West rivalry). Broncos 8-2, 5-0 at home (allow 16.6); Raiders 4-6.",
+  "news": "Bowers (LV's top weapon) and kicker Gay are questionable; Denver are mostly healthy.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "64",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7807539647,
+    "why": "Mechanism: Bowers/Gay doubts for Las Vegas, and Denver are 5-0 at home with a strong defence. DNB voids a tie at the half; divisional familiarity is a caveat. My p 0.78."
+   }
+  ],
+  "avoid": "Broncos big handicap",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.raiders.com/news/raiders-broncos-week-11-injury-report",
+   "https://sports.yahoo.com/articles/analyzing-raiders-final-week-11-221623808.html"
+  ]
+ },
+ {
+  "eid": "sr:match:71516048",
+  "fx": "New York Giants v Jacksonville Jaguars",
+  "sport": "american football",
+  "absences": "JAX: C Robert Hainsey out (knee, Jonah Monheim starts); BJ Green II out; RB Bhayshul Tuten expected to play (ankle/foot). NYG: CB Nic Jones (knee) per Yahoo, otherwise no designations",
+  "context": "Week 11. Jaguars 8-2 on the road at the Giants (6-3-1).",
+  "news": "Jacksonville lose their starting C; the Giants are near full health.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Jaguars away ML p 0.69 (<0.75)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bigcatcountry.com/jacksonville-jaguars-injuries/91653/jaguars-injury-report-tuten-downgraded-ahead-of-giants-matchup",
+   "https://sports.yahoo.com/articles/giants-injury-report-looks-solid-221518709.html"
+  ]
+ }
+]
