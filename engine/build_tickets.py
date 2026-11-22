@@ -6,7 +6,8 @@
 #           --targets 50,500 --date 2026-11-21 --label 'Sat lottery' [--sport basketball] [--nest] [--post]
 #
 # --targets a,b[,c,d]  odds targets. Without --nest every ticket uses different fixtures. With --nest (4 targets):
-#                      A and B are disjoint, C = A + new fixtures, D = B + new fixtures (each fixture on <= 2 slips).
+#                      A and B are disjoint, C = A + new fixtures, D = B + new fixtures (each fixture on <= 2 slips);
+#                      (3 targets): A and B disjoint, C = B + new fixtures. --extend: each target = previous + new.
 # --exclude FILE       JSON list of event ids that are already on two of the day's slips (S3).
 # Selection ranks legs by the HOUSE probability (cost = -ln p / ln odds): the whole-board study (INSIGHTS.md) showed
 # research does not beat the price, so research acts as a filter (vetoes, named mechanism), not as a probability.
@@ -138,6 +139,12 @@ def main():
         X=build(cands,tg[2]/oA,used,6,max_unders=0,over_frac=0.45,sport_cap=cap); used|={l['eid'] for l in X}
         Y=build(cands,tg[3]/oB,used,7,max_unders=0,over_frac=0.45,sport_cap=cap)
         tickets=[(tg[0],A),(tg[1],B),(tg[2],A+X),(tg[3],B+Y)]
+    elif a.nest and len(tg)==3:   # A and B disjoint, C = B + new fixtures (each fixture on <= 2 slips)
+        A=build(cands,tg[0],used,4,sport_cap=cap); used|={l['eid'] for l in A}
+        B=build(cands,tg[1],used,5,sport_cap=cap); used|={l['eid'] for l in B}
+        oB=math.prod(l['odds'] for l in B) or 1
+        X=build(cands,tg[2]/oB,used,6,max_unders=0,over_frac=0.45,sport_cap=cap)
+        tickets=[(tg[0],A),(tg[1],B),(tg[2],B+X)]
     elif a.extend:
         prev=[]
         for i,t in enumerate(tg):
