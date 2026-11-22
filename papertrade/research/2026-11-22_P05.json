@@ -1,0 +1,683 @@
+[
+ {
+  "eid": "sr:match:74058694",
+  "fx": "Resources Capital FC v Lucky Mile",
+  "sport": "football",
+  "absences": "none found",
+  "context": "HK 1st Division (2nd tier, semi-pro). Only goal/handicap lines offered, no 1X2. Resources Capital 7-2-1 last 10, 4.8 GF; Lucky Mile 1-1-8.",
+  "news": "no news found; HKFA lists Lucky Mile in the 1st Division, nothing on this fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Every market: thin semi-pro league, no news, and a 5.5-goal line is a variance trap",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hkfa.com/en/competitions/leagues/1st-division",
+   "https://www.sofascore.com/football/match/yuen-long-district-sa-south-china/MrosldW"
+  ]
+ },
+ {
+  "eid": "sr:match:74058692",
+  "fx": "Supreme FC v Citizen AA",
+  "sport": "football",
+  "absences": "none found",
+  "context": "HK 1st Division. Supreme 2-1-7 (0.9 GF, 2.8 GA, includes a 0-9); Citizen 4-2-4.",
+  "news": "no news found; Forebet lists Supreme v Citizen on 22/11",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides: Citizen are only 4-2-4. No mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hkfa.com/en/competitions/leagues/1st-division",
+   "https://www.sofascore.com/football/match/yuen-long-district-sa-south-china/MrosldW",
+   "https://www.forebet.com/en/predictions-for-hong-kong"
+  ]
+ },
+ {
+  "eid": "sr:match:73576734",
+  "fx": "Adhyaksa Farmel FC v Borneo Samarinda",
+  "sport": "football",
+  "absences": "Adhyaksa Farmel: none found; Borneo: none found",
+  "context": "Super League Indonesia. Farmel (Palangka Raya) 3-2-5, only 0.5 GF/game; Borneo 5-2-3, won 3 of last 5. First ever meeting.",
+  "news": "Preview backs Borneo at ~1.50 on better form; no team news found. Some sources use other club names (Isenmulang Kalteng); same fixture and date.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.24,
+    "p": 0.7662,
+    "why": "Farmel score 0.5/game (3 blanks in their last 6), so a Borneo loss needs Farmel to outscore them. Est 0.78, close to the house 0.77. Statistics-only fill."
+   }
+  ],
+  "avoid": "Over 2.5 (Farmel's attack is too weak)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballstreams.com/matches/adhyaksa-farmel-fc-vs-borneo-fc-samarinda-20261122/",
+   "https://www.fotmob.com/teams/585858/overview/borneo-samarinda"
+  ]
+ },
+ {
+  "eid": "sr:match:74058696",
+  "fx": "South China FC v Yuen Long FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "HK 1st Division, 17:30 local at Happy Valley (HKFA and Sofascore agree). Yuen Long 8-1-1, 2.9 GF; South China 6-2-2, 0.6 GA.",
+  "news": "Fixture confirmed by HKFA (17:30 HKT, Happy Valley); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8051,
+    "why": "Yuen Long score 2.9/game and 5 of their last 6 games had 2+ goals; South China had 2+ in 4 of 6. Est 0.82 v house 0.805. Thin league, so small stake."
+   }
+  ],
+  "avoid": "Result-sides: two in-form sides, coin flip",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hkfa.com/en/competitions/leagues/1st-division",
+   "https://www.sofascore.com/football/match/yuen-long-district-sa-south-china/MrosldW"
+  ]
+ },
+ {
+  "eid": "sr:match:72880062",
+  "fx": "Budapest Honved MFA v Vasas SC II",
+  "sport": "football",
+  "absences": "n/a (reserve side)",
+  "context": "NB III Southeast round 17, the final autumn round, 11:00 CET. Honved MFA is Honved's academy/reserve side; Vasas II is a reserve side.",
+  "news": "Fixture time confirmed by Hunfoci; reserve sides, no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (two reserve sides)",
+  "confidence": 0.1,
+  "sources": [
+   "https://hunfoci.hu/nb3/eredmenyek-nb-iii-del-keleti-csoport-17-fordulo.html",
+   "https://budafok1912.hu/budafokimte/merkozesek/menetrend/",
+   "https://www.fcdabas.hu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72878620",
+  "fx": "Nyiregyhaza Spartacus FC II v Fuzesabony SC Eross Ut",
+  "sport": "football",
+  "absences": "n/a (reserve side)",
+  "context": "NB III (Northeast group). Nyiregyhaza II 0-1-9, 2.9 GA; Fuzesabony 3-2-5.",
+  "news": "No date/venue conflict found; reserve side, no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (reserve side; no goals line on the board)",
+  "confidence": 0.1,
+  "sources": [
+   "https://hunfoci.hu/nb3/eredmenyek-nb-iii-del-keleti-csoport-17-fordulo.html",
+   "https://budafok1912.hu/budafokimte/merkozesek/menetrend/",
+   "https://www.fcdabas.hu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72880066",
+  "fx": "Ujpest FC II v Sandorfalvi Ske",
+  "sport": "football",
+  "absences": "n/a (reserve side)",
+  "context": "NB III Southeast round 17, 11:00 CET. Ujpest II 5-2-3; Sandorfalva 2-5-3, only 0.6 GF and 0.9 GA (very low-scoring).",
+  "news": "Fixture confirmed by Hunfoci; no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ujpest II 1X2 at 1.23: a reserve result-side v a low-event side that draws a lot",
+  "confidence": 0.1,
+  "sources": [
+   "https://hunfoci.hu/nb3/eredmenyek-nb-iii-del-keleti-csoport-17-fordulo.html",
+   "https://budafok1912.hu/budafokimte/merkozesek/menetrend/",
+   "https://www.fcdabas.hu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72439996",
+  "fx": "SS Lazio v AC Milan",
+  "sport": "football",
+  "absences": "n/a (youth)",
+  "context": "Primavera 1 round 11 at Formello, 11:00 CET, on Sportitalia. The sides are two points apart.",
+  "news": "Date, time and venue agree across sources; youth fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (U20 youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mondoprimavera.com/primavera-1/lazio-milan-data-orario-dove-vederla-tv-streaming",
+   "https://www.lalaziosiamonoi.it/settore-giovanile/primavera-lazio-milan-vedere-partita-tv-streaming-255674"
+  ]
+ },
+ {
+  "eid": "sr:match:71945412",
+  "fx": "Juventus v Venezia FC",
+  "sport": "football",
+  "absences": "Juventus OUT: Grabara (ACL), Kalulu (thigh), K. Thuram (knee), Locatelli (meniscus), Yildiz (back in training), N. Gonzalez; Cambiaso doubtful or recovered (sources differ). Venezia OUT: Sverko (thigh), Adorante (back, striker); Franjic doubtful; Mazzocchi unclear.",
+  "context": "Serie A R12, 12:30 CET. Juve 5-3-2 but missing their midfield core. Venezia lost all 4 away games (0.75 GF, 2.0 GA).",
+  "news": "Juve are without Thuram, Locatelli and Yildiz; Venezia are without striker Adorante and Sverko",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.24,
+    "p": 0.7835,
+    "why": "Venezia score 0.75/game away and are without striker Adorante; Juve's back line (Bremer, Kalulu missing) still conceded 1.2. Est 0.80 v house 0.784."
+   }
+  ],
+  "avoid": "Juve -1/-1.5: their midfield is depleted and they have 3 draws in 10; Juve 1X2 is fair but not an anchor",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.espn.com/soccer/story/_/id/50539529/juventus-vs-venezia-tv-channel-how-watch-uk-kickoff-live-stream-team-news-referee-predicted-lineups",
+   "https://www.archyde.com/juventus-vs-venezia-kicks-off-sunday-1230-at-allianz-stadium/",
+   "https://www.sportsgambler.com/betting-tips/football/juventus-vs-venezia-prediction-lineups-odds-2026-11-22/"
+  ]
+ },
+ {
+  "eid": "sr:match:73293366",
+  "fx": "Pro Vercelli 1892 v Novara FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie C Group A R15, the Piedmont 'derby delle risaie', 12:30 CET at the Piola (Sky 258). Pro Vercelli 11th, Novara 14th (Goal.com). Novara manager Iori: 'it will be a battle'.",
+  "news": "Derby confirmed for date and time; no absentee news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (derby). Under 3.5 is p0.73, below the 0.82 floor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.goal.com/it/notizie/guarda-pro-vercelli-contro-novara-in-diretta-oggi-chi-trasmette-la-partita-in-tv-e-in-live-streaming/blt896e67dfd6222823",
+   "https://www.lavocedinovara.com/sport/calcio/novara-trasferta-vercelli-per-il-derby-delle-risaie-iori-sara-una-battaglia-dovremo-dare-tutto/",
+   "https://primavercelli.it/sport/pro-vercelli-definita-la-programmazione-delle-partite-dal-9-al-20-turno-derby-allora-di-pranzo/"
+  ]
+ },
+ {
+  "eid": "sr:match:72880074",
+  "fx": "Dabas FC v Monori SE",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB III Southeast R17, the final autumn round, 13:00 CET at Wellis Sportpark, Dabas. Both mid/low table (2-3-5 and 2-4-4).",
+  "news": "Fixture confirmed by the club site; no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: no mechanism, coin flip",
+  "confidence": 0.1,
+  "sources": [
+   "https://hunfoci.hu/nb3/eredmenyek-nb-iii-del-keleti-csoport-17-fordulo.html",
+   "https://budafok1912.hu/budafokimte/merkozesek/menetrend/",
+   "https://www.fcdabas.hu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72880072",
+  "fx": "Esmtk Budapest v Csepel SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB III Southeast R17, 13:00 CET. ESMTK 8-2-0 last 10, 2.9 GF, 0.8 GA; Csepel 3-2-5, 2.1 GA. A Budapest local match.",
+  "news": "Fixture confirmed; no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ESMTK 1X2 at 1.30: statistics-only home fav in a third-tier Budapest local game. Leave it unless a later check adds a mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://hunfoci.hu/nb3/eredmenyek-nb-iii-del-keleti-csoport-17-fordulo.html",
+   "https://budafok1912.hu/budafokimte/merkozesek/menetrend/",
+   "https://www.fcdabas.hu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72880688",
+  "fx": "Pte Peac v Budafoki Mte",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB III Southwest R17 (not Southeast), 13:00 CET at PMFC Stadion, Pecs; the club site and Sofascore agree. PEAC 1-5-4; Budafok 3-2-5.",
+  "news": "Date and venue confirmed; no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://budafok1912.hu/budafokimte/merkozesek/menetrend/",
+   "https://www.bama.hu/helyi-sport/2026/11/idei-utolso-meccset-jatssza-a-pmfc-ellovassal-talalkozik-a-lorinc"
+  ]
+ },
+ {
+  "eid": "sr:match:72501242",
+  "fx": "Szentlorinc SE v Kecskemeti TE",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB II R14. KO moved to 13:00 CET for M4 Sport (=12:00 UTC, matches the board). Kecskemet top on 29 pts (8-1-1, 2.8 GF); Szentlorinc 12th on 14 pts (1.9 GA).",
+  "news": "Leader v lower half; TV slot confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8005,
+    "why": "Kecskemet score 2.8/game; all 6 of Szentlorinc's last 6 had 2+ goals (1-3, 0-3, 3-4, 2-0, 1-2, 1-1), and 5 of Kecskemet's last 6 had 3+. Est 0.85 v house 0.80."
+   }
+  ],
+  "avoid": "Kecskemet 1X2 (away p0.67 is below 0.75); AH +1.5 catch for Szentlorinc (fav p>=0.55)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/11/meg-ket-nb-ii-es-meccs-kerul-iden-kepernyore",
+   "https://hunfoci.hu/nb2/merkantil-bank-liga-nb2-beharangozo-2026-2027-14-fordulo.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73576736",
+  "fx": "Persib Bandung v Bali United FC",
+  "sport": "football",
+  "absences": "Persib OUT: Berguinho (injury/fitness). Rest of the squad fit (Tolic). Bali: none reported.",
+  "context": "Super League Indonesia, 19:00 WIB at GBLA. Persib lost 1-2 to Java United on Nov 8 and need to respond; Bali 3rd, 26 goals in 9 league games. Persib historically dominant in H2H.",
+  "news": "Persib all fit except Berguinho; national-team non-call-ups were rested",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.49,
+    "p": 0.6357,
+    "why": "Bali average 3.2 GF (26 in 9); Persib's home games were 6-0, 4-0, 2-0. Bali's attack v Persib needing a win. Est 0.66 v house 0.636. Thin edge."
+   }
+  ],
+  "avoid": "Result-sides: a top-3 domestic clash (treated as a big-club clash)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.radarbandung.id/2026/11/22/preview-persib-bandung-vs-bali-united-igor-tolic-bongkar-kondisi-skuad-siapa-yang-absen/",
+   "https://news.republika.co.id/berita/tovylo451/lawan-bali-united-persib-kecuali-berginho-semuanya-siap-bermain",
+   "https://pasjabar.com/2026/11/22/persib-siap-tempur-hadapi-bali-united-berguinho-masih-absen/"
+  ]
+ },
+ {
+  "eid": "sr:match:73929138",
+  "fx": "Persikad Depok v FC Adhyaksa Bekasi",
+  "sport": "football",
+  "absences": "Persikad: coach Achmad Zulkifli plans ROTATION (JawaPos). Adhyaksa: none named.",
+  "context": "Championship Group A R10, 19:00 WIB at Pakansari, Bogor (the home side plays away from Depok, sources agree). Persikad won the first meeting 2-1 in Bekasi. Adhyaksa want revenge. Sources disagree on the table (Persikad 1st or 3rd).",
+  "news": "Persikad rotating; the board shows Persikad as the home side and the sources agree",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Persikad result-sides (rotation flagged). Over 1.5 in an Indonesian second tier where Adhyaksa score 0.9/game with 5 draws.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jawapos.com/sepak-bola-indonesia/2611210520/persikad-depok-bidik-tiga-poin-atas-adhyaksa-fc-achmad-zulkifli-siapkan-rotasi",
+   "https://www.jawapos.com/sepak-bola-indonesia/2611220151/prediksi-persikad-depok-vs-adhyaksa-fc-tuan-rumah-bawa-modal-bagus",
+   "https://www.sofascore.com/football/match/fc-bekasi-city-persikad-depok/GifcsxRDi"
+  ]
+ },
+ {
+  "eid": "sr:match:72302684",
+  "fx": "Zalaegerszeg TE v Vasas FC",
+  "sport": "football",
+  "absences": "none found for either side",
+  "context": "NB I R14 (Sunday). ZTE home games: 3-0, 3-1, 1-1, 5-1; Vasas (promoted) concede 1.9; their away games were 2-2, 4-3, 0-1.",
+  "news": "Fixture confirmed in the round preview; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.7991,
+    "why": "ZTE score 2.0/game and Vasas concede 1.9; 10 of the two sides' last 12 games had 2+ goals. NB I averages ~2.9. Est 0.84 v house 0.80."
+   }
+  ],
+  "avoid": "Result-sides: ZTE are only p0.44",
+  "confidence": 0.3,
+  "sources": [
+   "https://ulloi129.hu/2026/11/21/igy-alakul-az-nbi-14-forduloja-14/",
+   "https://www.paksifc.hu/news/view/13152/nb-i/helyzetjelentes-serultjeinkrol"
+  ]
+ },
+ {
+  "eid": "sr:match:75110518",
+  "fx": "Churchill Brothers SC v Mohun Bagan Super Giant",
+  "sport": "football",
+  "absences": "Churchill: fully fit squad (KhelNow). Mohun Bagan: none reported.",
+  "context": "ISL 2026-27, 19:30 IST at Fatorda, Goa. Churchill entered after Jamshedpur withdrew and lost 3 of 4, conceding 10. Bagan on a 4-win streak and top. Neither side has drawn this season.",
+  "news": "Bagan in form and top; Churchill conceding 2.5/game",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.22,
+    "p": 0.7816,
+    "why": "Churchill lost 3 of 4 and conceded 10; Bagan won 4 straight and score 3.7/game (last 10). DNB covers the draw, and neither side has drawn yet. Est 0.82 v house 0.78."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.8118,
+    "why": "Churchill concede 2.5/game in the ISL; Bagan score heavily. Churchill's last 6 had 2+ goals in 5. Est 0.85 v house 0.81."
+   }
+  ],
+  "avoid": "Bagan 1X2 (away p0.62 < 0.75); Churchill +2.5 catch (fav p>=0.60)",
+  "confidence": 0.3,
+  "sources": [
+   "https://khelnow.com/football/indian-football-isl-churchill-brothers-vs-mohun-bagan-preview",
+   "https://www.mykhel.com/football/mohun-bagan-look-to-extend-winning-run-as-churchill-brothers-prepare-for-tough-isl-test-459597.html"
+  ]
+ },
+ {
+  "eid": "sr:match:71945408",
+  "fx": "Bologna v Udinese",
+  "sport": "football",
+  "absences": "Bologna OUT: Holm, Miranda (thigh), Enem, De Silvestri, Cambiaghi (doubt); Heggem left out for discipline. Udinese OUT: I. Gueye, Bertola; Alaba and Zanoli out or doubtful (sources differ); Davis fitness doubt (Bayo on standby); possible GK switch Okoye to Mrozek debut.",
+  "context": "Serie A R12, 15:00 CET at the Dall'Ara. No suspensions. Udinese 0-2-8 in their last 10 (0.9 GF, 2.3 GA).",
+  "news": "Udinese in freefall with defensive absentees and a possible debutant keeper; Bologna missing full-backs",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.34,
+    "p": 0.7199,
+    "why": "Udinese have won 0 of their last 10 and may lose Alaba, Zanoli, Davis and keeper Okoye; Bologna won 5 of 10. Est 0.76 v house 0.72."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.28,
+    "p": 0.7545,
+    "why": "Udinese score 0.9/game, and striker Davis is a fitness doubt. Est 0.78 v house 0.754."
+   }
+  ],
+  "avoid": "Bologna -1 (Bologna missing several defenders; tight margins)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.dazn.com/it-IT/news/calcio/probabili-formazioni-serie-a-chi-gioca-indisponibili-e-squalificati/n7xdzcbuno6l1pzsf52p6y1cw",
+   "https://www.goal.com/it/notizie/bologna-udinese-pre-partita-ultime-notizie-infortuni-assenti/bltdbd69952c6cf22d8",
+   "https://sportnews.betflag.it/2026/11/22/bologna-udinese-serie-a-probabili-formazioni-e-pronostico"
+  ]
+ },
+ {
+  "eid": "sr:match:71945424",
+  "fx": "Sassuolo v Genoa",
+  "sport": "football",
+  "absences": "Sassuolo OUT: I. Kone, Leysen, Boloca, Volpato, Adzic; Berardi returning (likely starts, one source says still out). Genoa: Frendrup doubtful (some say out with Nuredini); otherwise full squad.",
+  "context": "Serie A R12, 15:00 CET. Sassuolo 2-2-6, 3.0 GA last 10 (2-4, 2-6, 0-3 at home and away); Genoa 5-1-4, 1.1 GA.",
+  "news": "Sassuolo's midfield is depleted (Kone, Boloca out) and their defence is leaking; Genoa nearly full",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.49,
+    "p": 0.6472,
+    "why": "Sassuolo concede 3.0/game and are missing midfielders Kone and Boloca; Genoa concede 1.1 and have lost only 4 of 10. Est 0.68 v house 0.647."
+   }
+  ],
+  "avoid": "Sassuolo result-sides; Unders (Sassuolo games average 4.8 goals)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sassuolonews.net/news/sassuolo-genoa-probabili-formazioni-berardi-volpato-ritorno-adzic-ko-67188",
+   "https://www.direttafanta.com/berardi-torna-subito-dal-1-de-rossi-va-con-la-certezza-osmajic-le-probabili-formazioni-di-sassuolo-genoa/",
+   "https://www.infobetting.com/blog/sassuolo-genoa-22-11-2026-formazioni-quote-pronostici-20262027-serie-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:72936146",
+  "fx": "Panaitolikos Agrinio v Volos NPS",
+  "sport": "football",
+  "absences": "Volos without SEVEN: Kompa and Karga (suspended), Charalampoglou, Lykourinos, Bare, Katsikas, Tasiouras (injured). Panaitolikos: no list found.",
+  "context": "Super League R11, 17:00 local in Agrinio, a 'critical battle' between two bottom-half sides. Volos 0-2-8 last 10; Panaitolikos 3-0-7 (0.8 GF).",
+  "news": "Volos travel heavily depleted; relegation-zone game",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.36,
+    "p": 0.7049,
+    "why": "Volos have won 0 of 10 and are missing 7, including suspended Kompa and Karga. Panaitolikos at home only needs not to lose. Est 0.75 v house 0.705."
+   }
+  ],
+  "avoid": "Overs: both sides score under 1 goal/game. Under 3.5 is p0.77, below 0.82.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.athletiko.gr/choris-epta-o-volos-elabet-apenanti-ston-panaitoliko-117250",
+   "https://www.sdna.gr/podosfairo/1488688_bolos-horis-karga-kai-kompa-sto-agrinio",
+   "https://astratv.gr/panaitolikos-volos-krisimi-machi-chori"
+  ]
+ },
+ {
+  "eid": "sr:match:72302692",
+  "fx": "Nyiregyhaza Spartacus FC v Debreceni VSC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB I R14. Debrecen 7-2-1 (2.6 GF); Nyiregyhaza 3-3-4 (2.0 GF, 1.7 GA). The two sides' last 12 games: 11 had 2+ goals.",
+  "news": "Fixture confirmed in the round preview; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8073,
+    "why": "Both attack: Nyiregyhaza 2.0 GF and Debrecen 2.6 GF; 11 of the last 12 combined games had 2+ goals. Est 0.85 v house 0.807."
+   }
+  ],
+  "avoid": "Nyiregyhaza result-sides; Debrecen 1X2 (away p0.39)",
+  "confidence": 0.3,
+  "sources": [
+   "https://ulloi129.hu/2026/11/21/igy-alakul-az-nbi-14-forduloja-14/",
+   "https://www.paksifc.hu/news/view/13152/nb-i/helyzetjelentes-serultjeinkrol",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Debreceni_VSC_season"
+  ]
+ },
+ {
+  "eid": "sr:match:72936144",
+  "fx": "Panathinaikos v OFI Crete",
+  "sport": "football",
+  "absences": "Panathinaikos OUT: Kristiansen, Unai, Pantelidis, Ingason; Palmer-Brown and Salah-Eddine back from illness. OFI OUT: Kontro, Krizmanic, Iseka (not match-fit); Christogeorgos and Apostolakis return.",
+  "context": "Super League R11, 17:30 local. PAO top by 4 points, 9-0-1, 0.7 GA. Conference League v Nordsjaelland on 26/11 (4 days later), so rotation risk (L66).",
+  "news": "PAO top with minor absences; a European tie in 4 days",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7896,
+    "why": "PAO 9-0-1 and concede 0.7/game; OFI 3-2-5 with a weakened spine (Kontro, Krizmanic out). Rotation risk before Nordsjaelland on Thursday trims the estimate to 0.79, roughly the house p."
+   }
+  ],
+  "avoid": "PAO -1.5/-2 (rotation before the Conference League); Overs above 2.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.politic.gr/sports/i-apostoli-tou-panathinaikou-gia-to-mats-me-ton-ofi",
+   "https://www.athletic.gr/ofi/1066183-ofi-me-apousies-alla-kai-epistrofes-i-apostoli-kontra-ston-panathinaiko/",
+   "https://www.skai.gr/news/sports/panathinaikos-ofi-gia-to-nikiforo-seri-oi-prasinoi-kontra-stous-epikindynous-kritikous"
+  ]
+ },
+ {
+  "eid": "sr:match:72501240",
+  "fx": "Soroksar SC v Szeged-Csanad Grosics Akademia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB II R14, 17:00 CET (NSO live). Soroksar 2nd on 25 pts, 4 behind Kecskemet; Szeged-Csanad mid-table (4-2-4).",
+  "news": "Soroksar chasing the leader; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: Soroksar p0.41 only; Szeged 3-0 and 3-1 home wins but mixed away",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/11/meg-ket-nb-ii-es-meccs-kerul-iden-kepernyore",
+   "https://hunfoci.hu/nb2/merkantil-bank-liga-nb2-beharangozo-2026-2027-14-fordulo.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72936140",
+  "fx": "Olympiacos v POT Iraklis",
+  "sport": "football",
+  "absences": "Olympiacos OUT: Hezze, Puerta, Chiquinho (midfield injuries); youngster Filis called up. Iraklis: none found.",
+  "context": "Super League R11, 19:00 local at Karaiskakis. Olympiacos 8-2-0 last 10, 0.3 GA, 4 points behind PAO.",
+  "news": "Olympiacos missing 3 midfielders but defensively elite",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8285,
+    "why": "Olympiacos concede 0.3/game and are unbeaten in 10; Iraklis 2-4-4. The midfield absences cut chance creation, not the defence. Est 0.84 v house 0.83. Minimum price, fill only."
+   }
+  ],
+  "avoid": "Olympiacos -1.5/-2: their midfield is depleted and they drew 0-0 and 1-1 recently",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sport-fm.gr/article/5162501",
+   "https://www.politic.gr/sports/olybiakos-i-apostoli-gia-ton-agona-me-ton-irakli-meta-tis-apousies-sti-mesaia-grammi",
+   "https://newsit.gr/athlitika/olympiakos-i-apostoli-tou-imanol-gia-irakli/4828078"
+  ]
+ },
+ {
+  "eid": "sr:match:71945416",
+  "fx": "AC Milan v Frosinone",
+  "sport": "football",
+  "absences": "Milan OUT: Gabbia, Loftus-Cheek, Saelemaekers, Chukwueze; Tomori doubtful/out; Pavlovic (shoulder) doubt; Maignan back to start. Frosinone OUT: Raimondo (ankle, top scorer), Terzic (muscle); Bracaglia suspended; Grillitsch doubtful.",
+  "context": "Serie A R12, 18:00 CET at San Siro. Frosinone (promoted) 5-2-3, high-event games (2.5 GF, 1.9 GA).",
+  "news": "Frosinone lose their top scorer Raimondo and a suspended defender; Milan's defence is patched up",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.7548,
+    "why": "Frosinone are without top scorer Raimondo, Terzic and suspended Bracaglia; Milan won 6 of 10 at San Siro with Maignan back. Est 0.78 v house 0.755."
+   }
+  ],
+  "avoid": "Unders (Milan's defence missing Gabbia, Tomori and Pavlovic); Milan -1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://africa.espn.com/football/story/_/id/50540372/ac-milan-vs-frosinone-tv-channel-how-watch-uk-kickoff-live-stream-team-news-referee-predicted-lineups",
+   "https://sempremilan.com/ac-milan-frosinone-preview-team-news-stats-2026-27",
+   "https://www.sportsmole.co.uk/football/ac-milan/preview/ac-milan-vs-frosinone-prediction-team-news-lineups_609496.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72936142",
+  "fx": "PAOK v AE Kifisia FC",
+  "sport": "football",
+  "absences": "PAOK OUT: Pelkas, Jakic, Monastirlis, Taylor (treatment), Soretire (virus, late withdrawal). Michailidis and Despodov fit again.",
+  "context": "Super League R11, 19:30 local at Toumba. Coach Alessio Lisci; 4-4-2. PAOK home games: 3-1, 2-1, 3-1, 2-1. Kifisia away games: 3-1, 2-0, 3-2 (1.6 GF last 10).",
+  "news": "PAOK without Pelkas and Jakic (creative and holding midfield); Kifisia score freely",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7883,
+    "why": "Every one of PAOK's last 4 home games had 3 goals, and Kifisia's last 3 away games had 2+. Pelkas/Jakic out weakens PAOK's control more than their attack. Est 0.84 v house 0.788."
+   }
+  ],
+  "avoid": "PAOK -1/-1.5 (Pelkas and Jakic missing; Kifisia score)",
+  "confidence": 0.3,
+  "sources": [
+   "https://gazzetta.gr/football/superleague/2588629/paok-ektos-kai-o-soretire-apo-tin-apostoli-gia-kifisia",
+   "https://paokfc.gr/nea/20261121-i-apostoli-gia-kifisia",
+   "https://www.athletiko.gr/proponisi-kai-apostoli-ston-paok-enopsei-kifisias-poioys-den-mporei-na-ypologizei-o-lisi-117161"
+  ]
+ },
+ {
+  "eid": "sr:match:72302686",
+  "fx": "Budapest Honved FC v Paksi FC",
+  "sport": "football",
+  "absences": "Paks: Windecker (4.7 cm partial thigh tear, Nov 11) likely out; other names on the injury list not published. Honved: none found.",
+  "context": "NB I R14, 18:30 CET (Paks site; matches 17:30 UTC). Paks 6-1-3; Honved 4-2-4.",
+  "news": "Paks lose midfielder Windecker",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (close, p0.40 v 0.35). Over 1.5 is below 1.18.",
+  "confidence": 0.15,
+  "sources": [
+   "https://ulloi129.hu/2026/11/21/igy-alakul-az-nbi-14-forduloja-14/",
+   "https://www.paksifc.hu/news/view/13152/nb-i/helyzetjelentes-serultjeinkrol"
+  ]
+ },
+ {
+  "eid": "sr:match:71945406",
+  "fx": "Atalanta v Inter",
+  "sport": "football",
+  "absences": "Atalanta OUT: Hien (maybe bench), Kossounou (maybe bench), Kristensen, Gaetano, Raspadori; Bellanova back or out (sources differ). Inter: sources conflict (Luis Henrique and Bonny OUT in one; Akanji and A. Stankovic OUT in another); Lautaro back from hamstring, likely bench; M. Thuram doubt after an international-duty hamstring scare.",
+  "context": "Serie A R12 Sunday night, 20:45 CET. Atalanta 12th, 1 win in 5. Inter top of the xG table. Big-club clash.",
+  "news": "Conflicting Inter injury reports; Lautaro probably on the bench",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (big-club clash; R4/R5). Big-club totals need p>=0.82 (Over 1.5 p0.87 is only 1.12). Inter's injury reports conflict (data_conflict).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/atalanta-bc/preview/atalanta-vs-inter-milan-prediction-team-news-lineups_609517.html",
+   "https://khelnow.com/football/atalanta-vs-inter-milan-preview-serie-a-202611",
+   "https://www.sportsgambler.com/betting-tips/football/atalanta-vs-inter-milan-prediction-lineups-odds-2026-11-22/"
+  ]
+ },
+ {
+  "eid": "sr:match:72475100",
+  "fx": "CSD Coban Imperial v Deportivo San Pedro",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Nacional Apertura R21 (late regular season, playoff race), 15:00 local at the Jose Angel Rossi, Coban (altitude), on FOX. They drew 1-1 in Sep. Sofascore (possibly stale): Coban 10th, San Pedro 6th, yet the board makes Coban a 1.48 favourite.",
+  "news": "Date, time and venue agree (21:00 UTC); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coban 1X2 at 1.48 (p0.64; the table position doesn't match the price); San Pedro catches",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.clarosports.com/centroamerica/futbol-cenam/coban-imperial-vs-san-pedro-en-vivo-donde-mirar-el-apertura-2026-de-la-liga-de-guatemala/",
+   "https://www.sofascore.com/football/match/deportivo-san-pedro-coban-imperial/wkGbszDtc",
+   "https://www.prensalibre.com/deportes/futbol-nacional/san-pedro-rescata-el-empate-1-1-ante-coban-y-sigue-invicto-como-local-en-el-apertura-2026-breaking/"
+  ]
+ }
+]
