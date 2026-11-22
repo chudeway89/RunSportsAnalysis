@@ -1,0 +1,587 @@
+[
+ {
+  "eid": "sr:match:76161508",
+  "fx": "Zimbabwe A v Ireland A",
+  "sport": "cricket",
+  "absences": "none reported",
+  "context": "Ireland A tour of Zimbabwe, one-day leg; Zimbabwe A won the previous one-dayer by 1 wicket (Nov 20, Harare)",
+  "news": "Zimbabwe A edged Ireland A by 1 wkt on Nov 20; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ireland A 1.47: no named mechanism; Zimbabwe A just beat them at home",
+  "confidence": 0.15,
+  "sources": [
+   "https://khelnow.com/live-cricket-score/zimbabwe-a-vs-ireland-a-ireland-a-tour-of-zimbabwe-20th-november-2026-41797",
+   "https://www.cricinfo.com/series/ireland-a-in-zimbabwe-2026-27-1558227/zimbabwe-a-vs-ireland-a-1st-unofficial-test-1558236/full-scorecard"
+  ]
+ },
+ {
+  "eid": "sr:match:76075826",
+  "fx": "MID West Rhinos v Eagles",
+  "sport": "cricket",
+  "absences": "unknown (Zimbabwe players may be on A-team duty v Ireland A the same day)",
+  "context": "Zimbabwe Pro50 domestic round",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "near coin-flip domestic one-dayer, squads unknown",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74292054",
+  "fx": "Garden Route Badgers v Eastern Cape Linyathi",
+  "sport": "cricket",
+  "absences": "unknown",
+  "context": "CSA Provincial One-Day Div 2; the sides also met in a 3-day game Nov 19-21",
+  "news": "venue conflict: Daily Dispatch/CSA list Oudtshoorn, Crex lists City Oval Pietermaritzburg",
+  "veto": true,
+  "veto_reason": "venue conflict between sources (Oudtshoorn vs Pietermaritzburg)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://dailydispatch.co.za/sport/cricket/2026-11-18-iinyathi-return-to-action-with-red-ball-and-pro50-trip-to-badgers/",
+   "https://crex.com/cricket-live-score/eci-vs-grb-7th-match-csa-provincial-one-day-challenge-division-two-2026-27-match-updates-14AG",
+   "https://www.cricket.co.za/up-next/"
+  ]
+ },
+ {
+  "eid": "sr:match:74318596",
+  "fx": "Lions v South Western Districts",
+  "sport": "cricket",
+  "absences": "n/a (women)",
+  "context": "WOMEN: CSA women T20 series; CSA lists a Lions women game on Nov 22 (opponent not confirmed in snippet)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture: no picks by rule",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cricket.co.za/up-next/"
+  ]
+ },
+ {
+  "eid": "sr:match:74318594",
+  "fx": "Western Province v Dolphins",
+  "sport": "cricket",
+  "absences": "n/a (women)",
+  "context": "WOMEN: CSA women T20 series",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture: no picks by rule",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76122412",
+  "fx": "Ireland v Zimbabwe",
+  "sport": "cricket",
+  "absences": "n/a (women)",
+  "context": "WOMEN: T20 Emerging Nations Trophy",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture: no picks by rule",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76189084",
+  "fx": "India A v Pakistan A",
+  "sport": "cricket",
+  "absences": "none reported; India A full-strength list",
+  "context": "Asia Cup Rising Stars (50 overs), Group B match 8 in Doha, 3:30pm IST (10:00 UTC, matches board). India A: Tilak Varma (c), Abhishek Sharma, Vaibhav Sooryavanshi, Rinku Singh, Prabhsimran Singh, Ayush Badoni, Harshit Rana, Prince Yadav. Pakistan A: Abdul Samad (c), Haider Ali, Mohammad Hasnain, Sufyan Moqim",
+  "news": "India A fields near-senior T20I batting core vs Pakistan A; Cricinfo and myKhel squads differ slightly for Pakistan (Akif Javed vs Ali Raza)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "340",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.35,
+    "p": 0.711,
+    "why": "Named mechanism: India A squad has several capped internationals (Tilak, Abhishek, Rinku, Harshit Rana) against an uncapped-heavy Pakistan A; India A avg 322 runs over last 10. My p 0.74 vs house 0.711. Rivalry game variance noted."
+   }
+  ],
+  "avoid": "Pakistan A",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.cricinfo.com/series/asia-cup-rising-stars-50-overs-2026-27-1562333/india-a-vs-pakistan-a-8th-match-group-b-1562349/match-squads",
+   "https://www.etvbharat.com/en/sports/india-a-vs-pakistan-a-rising-asian-stars-live-streaming-details-where-to-watch-details-enn26112104312",
+   "https://www.mykhel.com/cricket/india-a-vs-pakistan-a-playing-11-rising-stars-asia-cup-2026-ind-a-vs-pak-a-team-news-predicted-li-459765.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76103470",
+  "fx": "Sharjah Warriors v Gulf Giants",
+  "sport": "cricket",
+  "absences": "none reported",
+  "context": "ILT20 Season 5 opener for Gulf Giants (defending champions), Sharjah. Captains: Sikandar Raza (SW), Heinrich Klaasen (GG). 2pm local (10:00 UTC) per Gulf News, matching board; other sites list 6:30pm local",
+  "news": "previews split on the favourite; season-opening game",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "season opener coin-flip, R1 transition",
+  "confidence": 0.15,
+  "sources": [
+   "https://gulfnews.com/sport/gulf-giants-complete-schedule-for-ilt20-season-5-revealed-1.500701688",
+   "https://www.bjsports.live/premier-league/ilt20-2026-match-2-top-3-player-battles",
+   "https://www.indiacricketschedule.com/2026/10/sw-vs-gg-2nd-match-ilt20-2026.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76122688",
+  "fx": "Tamil Nadu v Bihar",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Syed Mushtaq Ali Trophy Elite B, match 79, 4:30pm IST (11:00 UTC, matches board); group stage (Nov 14 to Dec 6)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "T20 domestic variance, no mechanism for TN 1.52",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.crictracker.com/live-scores/tn-vs-bihar-79th-match-t20-syed-mushtaq-ali-trophy-elite-22-nov-2026/",
+   "https://smat.com.in/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:76122690",
+  "fx": "Uttar Pradesh v Jharkhand",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "SMAT Elite A, 4:30pm IST; Jharkhand are defending champions",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UP 1.50 v defending champions Jharkhand: no edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://smat.com.in/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:76710070",
+  "fx": "Napoli Knights v Venice Livewire",
+  "sport": "cricket",
+  "absences": "unknown",
+  "context": "Italia T10, amateur-level; no Sportradar data",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets (no data, amateur T10)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74311590",
+  "fx": "FS La Massana v UE Sant Julia",
+  "sport": "football",
+  "absences": "unknown",
+  "context": "Andorra Segona Divisio (amateur)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur league: no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72814302",
+  "fx": "FK Vora v KF Tirana",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Abissnet Superiore week 12, 13:30 local (12:30 UTC, matches board); billed by local press as a derby; mid-table (Tirana ~7th, Vora ~8th on older table)",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby: no result-side; Albania top flight too low-scoring for O1.5 at p 0.78",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.balkanweb.com/abissnet-superiore-percaktohet-kalendari-nga-java-e-12-te-deri-ne-javen-e-18-te/",
+   "https://kohajone.com/sporti/abissnet-superiore-pese-sfida-ne-tre-dite-ja-kalendari-i-plote-i-javes-se-12-te/"
+  ]
+ },
+ {
+  "eid": "sr:match:73753188",
+  "fx": "KF Oriku v FK Kukesi",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kategoria e Pare week 11, Sun 22 Nov 13:30 local (confirmed, FSHF schedule)",
+  "news": "no team news found; Oriku 0W in 10 (0.4 goals/game), 0 home wins in 5",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.22,
+    "p": 0.7736,
+    "why": "Oriku winless in 10 and scoring 0.4/game, lost all 5 at home; DNB protects against the draw. Kukesi away form weak (1W in 4), so my p 0.78 is about the house 0.774. Fill grade."
+   }
+  ],
+  "avoid": "Over lines (thin second-tier league)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.balkanweb.com/?p=3083558"
+  ]
+ },
+ {
+  "eid": "sr:match:73753180",
+  "fx": "KS Burreli v KS Pogradeci",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kategoria e Pare week 11, 13:30 local (confirmed)",
+  "news": "no team news found; Burreli 0 home wins in 5, Pogradeci 1 loss in 10",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.8006,
+    "why": "Pogradeci W5 D4 L1 in their last 10 at 2.4 goals/game; Burreli no home win in 5 and 0.7 goals/game. DNB away. My p 0.82 vs house 0.801."
+   }
+  ],
+  "avoid": "Overs (thin league); away 1X2 p 0.61 < 0.75",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.balkanweb.com/?p=3083558"
+  ]
+ },
+ {
+  "eid": "sr:match:73753186",
+  "fx": "Sopoti Librazhd v Korabi Peshkopi",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kategoria e Pare week 11, 13:30 local (confirmed)",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "both sides poor; no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.balkanweb.com/?p=3083558"
+  ]
+ },
+ {
+  "eid": "sr:match:75881466",
+  "fx": "FC Pyunik Yerevan v Sardarapat FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Armenian PL: Pyunik 2nd (unbeaten, about 31 pts from 13) v Sardarapat. Pyunik site: 17:00 Yerevan at Freedom Arena (13:00 UTC, matches board). One FotMob page mentions Nov 20, but the club, Forebet and scores24 all say Nov 22",
+  "news": "Pyunik title race, won all 5 home games (3.4 scored, 0.4 conceded); beat Sardarapat 4-2 away in September",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7833,
+    "why": "Pyunik unbeaten in 10, 5/5 home wins at 3.4 goals for; chasing leaders Noah (must keep pace). My p 0.80 vs house 0.783."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.33,
+    "p": 0.7149,
+    "why": "Pyunik scored 2+ in 4 of the last 6 and at home average 3.4; 4 goals v Sardarapat in September. My p 0.73 vs house 0.715."
+   }
+  ],
+  "avoid": "AH -1.5/-2 (Sardarapat draw-heavy: D4 in 10)",
+  "confidence": 0.3,
+  "sources": [
+   "https://fcpyunik.am/en/matchcenter",
+   "https://www.forebet.com/en/tips-and-predictions-for-armenia/premier-league",
+   "https://scores24.live/en/soccer/m-20-11-2026-pyunik-sardarapat-fc-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:76710072",
+  "fx": "Brescia Lions v Roma Gladiators",
+  "sport": "cricket",
+  "absences": "unknown",
+  "context": "Italia T10, amateur-level; no Sportradar data",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72345588",
+  "fx": "SCR Altach v Sturm Graz",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Austrian BL round 13: new Altach head coach makes his debut (derStandard/VOL); Altach 10th (10 pts), Sturm 5th (19 pts) with no league win in a month",
+  "news": "new-coach bounce risk for Altach; Sturm winless in 4 league games",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.18,
+    "p": 0.8136,
+    "why": "Sturm scored in each of their last 6 (3,2,1,2,2,1) and Altach concede at home only modestly; the new coach adds uncertainty to the result, not to Sturm scoring. My p 0.83 vs house 0.814."
+   }
+  ],
+  "avoid": "Sturm 1X2/-0.5 (new-coach bounce, Sturm out of form); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.derstandard.at/consent/tcf/story/3000000307628/fu223ball-sturm-gegen-senfts-ried-auf-reaktion-aus-deb252ts-in-altach",
+   "https://tipsterio.de/sportwetten-tipps/scr-altach-vs-sk-sturm-graz-wett-tipp-prognose-22-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72345582",
+  "fx": "Wolfsberger AC v SV Ried",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Austrian BL round 13, 14:30 local (Sky listing, matches board); WAC in a slump (1W in 10, 0 home wins in 4); Ried 6th (16 pts)",
+  "news": "no preview or team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.19,
+    "p": 0.8055,
+    "why": "Ried scored in all of their last 6 (2,1,4,2,3,2; 2.6/game over 10); WAC concede 3.0/game over 10. My p 0.84 vs house 0.805."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8083,
+    "why": "Ried last 6 matches had 6,2,9,4,5,3 goals; WAC defence leaking (0-6, 0-3 recently); Austrian BL averages about 3 goals. My p 0.82 vs house 0.808."
+   }
+  ],
+  "avoid": "WAC result-sides; Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://abseits.at/in-depth/fankurve/abseits-at-tv-uebersicht-zur-kw-47-48-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:76103472",
+  "fx": "Dubai Capitals v Abu Dhabi Knight Riders",
+  "sport": "cricket",
+  "absences": "Dubai Capitals: Phil Salt (England duty)",
+  "context": "ILT20 Season 5 match 3, Dubai; 6:30pm local (14:30 UTC, matches board) per few.ae",
+  "news": "DC without opener Salt; previews split",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ADKR 1.70 p 0.57: absence is real but no clear edge; season opener",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.thestatszone.com/dubai-capitals-vs-abu-dhabi-knight-riders-preview-prediction-2026-ilt20-league-stage-240904",
+   "https://www.few.ae/dubai-capitals-face-abu-dhabi-knight-riders/",
+   "https://cricketwebs.com/dubai-capitals-vs-abu-dhabi-knight-riders-prediction-3rd-match-ilt20-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74436822",
+  "fx": "Kabuscorp SCP v FC Luanda",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Girabola round 11; Kabuscorp 15th (7 pts from 10)",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 1.15 below range; Under 2.5 p 0.63 < 0.82; thin, low-scoring league",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.zerozero.pt/competicao/liga-angolana"
+  ]
+ },
+ {
+  "eid": "sr:match:75881468",
+  "fx": "FC Alashkert Yerevan v FC Noah Yerevan",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Armenian PL top-4 clash: Noah lead (34 pts from 13), Alashkert 4th (25). Noah site: 20:00 Yerevan (16:00 UTC, matches board)",
+  "news": "Noah 8W in last 10, beat Shirak 1-0 (Nov 7), won 3-1 at Syunik (Nov 1); Alashkert strong at home (3W 1D, 4.0 goals/game)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Away (0)",
+    "odds": 1.33,
+    "p": 0.7171,
+    "why": "League leaders Noah (8W in 10, 3.0 away goals); the draw is void, which covers the Alashkert home-strength risk. My p 0.72 vs house 0.717. Marginal value."
+   }
+  ],
+  "avoid": "Noah 1X2 1.77 (p 0.53 < 0.75 for away 1X2)",
+  "confidence": 0.2,
+  "sources": [
+   "https://noah.am/en",
+   "https://www.forebet.com/en/tips-and-predictions-for-armenia/premier-league"
+  ]
+ },
+ {
+  "eid": "sr:match:72345584",
+  "fx": "FK Austria Wien v Salzburg",
+  "sport": "football",
+  "absences": "Salzburg: Haris Tabakovic (knee, long-term, top scorer), Kevin Boma, Sota Kitano, John Mellberg, Justin Omoregie OUT; Dominik Schmid ill; Damir Redzic doubtful; Veratschnig disputed; coach Danny Röhl suspended (in the stands). Austria Wien: Philipp Wiesinger out (muscle), Sarkaria and Lee reported injured",
+  "context": "Round 13, Generali Arena, 17:00 local. Salzburg 2nd (30 pts) and won 8 of the last 9 league meetings; Austria Wien winless in 5 league games",
+  "news": "Salzburg weakened by 6+ absentees incl. top scorer Tabakovic and defenders Boma/Mellberg, coach banned; Austria in a slump",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.38,
+    "p": 0.6902,
+    "why": "Salzburg defence depleted (Boma, Mellberg, Omoregie out; Schmid ill); Austria scored in 4 of the last 6 incl. 4 v a top side; open Austria matches (4-6, 2-3). My p 0.72 vs house 0.69."
+   }
+  ],
+  "avoid": "Salzburg -1/1X2 (Tabakovic out, coach banned; big-club clash, no result-side); Over 2.5 also reasonable but Salzburg attack weakened",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sn.at/sport/fussball/red-bull-salzburg/verletzt-krank-oder-angeschlagen-ueppige-ausfallsliste-bei-red-bull-salzburg-art-685193",
+   "https://www.laola1.at/de/red/fussball/bundesliga/news/vor-fak-duell--weiter-verletzungssorgen-bei-salzburg/",
+   "https://www.ligaportal.at/bundesliga/allgemein/23005-neuerlicher-rueckschlag-fk-austria-wien-abwehr-routinier-mit-naechster-verletzungspause",
+   "https://www.sn.at/sport/mixed/salzburg-mit-zaungast-roehl-beim-lieblingsgegner-gefordert-art-685337"
+  ]
+ },
+ {
+  "eid": "sr:match:74436824",
+  "fx": "Wiliete SC v Sagrada Esperanca",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Girabola round 11: leaders Wiliete (26 pts, unbeaten, 3 conceded in 10) v Sagrada Esperanca",
+  "news": "DATE CONFLICT: Wiliete club site lists 21 Nov, BeSoccer lists 22 Nov in one entry and 25 Nov in another",
+  "veto": true,
+  "veto_reason": "date conflict between sources (21 / 22 / 25 Nov)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://wilietesc.ao/liga-unitel-girabola-2026-2027/",
+   "https://www.besoccer.com/competition/info/girabola/2027",
+   "https://www.zerozero.pt/competicao/liga-angolana"
+  ]
+ },
+ {
+  "eid": "sr:match:76913274",
+  "fx": "Club Estrella Del Sur (Alejandro Korn) v Canuelas FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "KNOCKOUT: Primera C Reducido semi-final first leg at Estadio Ciudad de San Vicente; Cañuelas have the return leg at home. Kick-off listed 15:30 local (18:30 UTC) in most sources, 15:00 in one",
+  "news": "Estrella beat Deportivo Español on pens, Cañuelas beat Central Córdoba 6-5 on pens",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "two-legged knockout, fourth tier, low scoring: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Campeonato_de_Primera_C_2026_(Argentina)",
+   "https://www.eldiariosur.com/articulos/estrella-del-sur-se-prepara-para-las-semifinales-con-el-sueno-del-ascenso-este-equipo-no-les-va-a-fallar",
+   "https://noticiasmercedinas.com/site/2026/11/21/se-aproxima-otra-instancia-de-la-primera-c/"
+  ]
+ },
+ {
+  "eid": "sr:match:76649188",
+  "fx": "CA Rosario Central v Gimnasia y Esgrima Mendoza",
+  "sport": "football",
+  "absences": "none reported in previews",
+  "context": "KNOCKOUT (single leg): Clausura 2026 round of 16 at the Gigante, 16:00 local (19:00 UTC, matches board). Rosario 1st in Zone B (34 pts, 5 straight wins, coach Jorge Almirón) v Gimnasia Mendoza 8th in Zone B (22 pts, coach Darío Franco). One listing showed 21 Nov 18:45 UTC, but every Argentine outlet says Sun 22 16:00",
+  "news": "Rosario on a 5-win run after losing the annual title race; Gimnasia barely qualified",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "To Qualify 1.17 below the 1.18 floor; result-sides banned in knockouts; LPF too low-scoring for O1.5 at 0.765",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lanacion.com.ar/deportes/futbol/rosario-central-vs-gimnasia-mendoza-por-el-torneo-clausura-2026-dia-hora-y-como-ver-online-nid21112026/",
+   "https://www.cadena3.com/noticia/deportes-rosario/rosario-central-recibe-a-gimnasia-de-mendoza-por-los-octavos-de-final-del-clausura_615398",
+   "https://www.diariopanorama.com/noticia/573795/tras-golpe-anual-rosario-central-busca-clasificacion-ante-gimnasia-mendoza"
+  ]
+ },
+ {
+  "eid": "sr:match:76914650",
+  "fx": "Douglas Haig v Club Olimpo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "KNOCKOUT: Federal A final-stage two-legged tie (the board has no To Qualify, consistent with a first leg); Douglas Haig topped its zone (31 pts). Exact 2026 bracket not confirmed",
+  "news": "no current team news found; bracket/date confirmation only from an older La Nación fixture page",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "knockout first leg, low-scoring regional tier; Under 2.5 p 0.66 < 0.82",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Torneo_Federal_A",
+   "https://canchallena.lanacion.com.ar/futbol/federal-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:76649196",
+  "fx": "CA River Plate (ARG) v CA Lanus",
+  "sport": "football",
+  "absences": "River: Gonzalo Montiel (suspended), Aníbal Moreno (lumbar disc, surgery), Fausto Vera doubtful (tendinitis/ankle). Lanús: Agustín Cardozo out (fibula); Lanús recover two regulars",
+  "context": "KNOCKOUT (single leg): Clausura round of 16 at the Monumental, 19:00 local (22:00 UTC, matches board); coach Ponzio (River) v Pellegrino (Lanús); big club",
+  "news": "River missing Montiel and Moreno (two midfield/defence starters); Lanús compact (0.5 conceded per game over 10)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "River To Qualify 1.27 / DNB 1.21: absences cut the edge (my p about 0.73); result-sides banned; Under 3.5 p 0.80 < 0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.diariopanorama.com/noticia/573793/sin-margen-error-river-pone-juego-continuidad-clausura-ante-lanus-monumental",
+   "https://soydelmillo.com/river-en-la-liga/2026/11/21/ponzio-resolvio-bajas-river-enfrentar-lanus-no-estaran-disponibles/",
+   "https://www.noticiasdebariloche.com.ar/con-un-nuevo-pibe-la-lista-de-ponzio-para-los-octavos-del-clausura-ante-lanus/",
+   "https://misionesonline.net/2026/11/21/a-todo-o-nada-este-domingo-river-recibe-a-lanus/"
+  ]
+ },
+ {
+  "eid": "sr:match:76914648",
+  "fx": "CA Sarmiento de la Banda v Club Cipolletti",
+  "sport": "football",
+  "absences": "none found",
+  "context": "KNOCKOUT: Federal A final-stage two-legged tie (first leg likely; return Nov 29 per an older La Nación fixture page). Sarmiento LB and Cipolletti both reached the championship phase",
+  "news": "no current team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "knockout first leg, low-scoring; Unders below p 0.82",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Torneo_Federal_A",
+   "https://canchallena.lanacion.com.ar/futbol/federal-a/"
+  ]
+ }
+]
