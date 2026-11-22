@@ -1,0 +1,487 @@
+[
+ {
+  "eid": "sr:match:76515010",
+  "fx": "Union Comercio v CDU San Martin",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Liga 2 semifinal 2nd leg (knockout, two-legged); first leg San Martin 1-1 Union Comercio. Winner reaches promotion final. 3pm Lima = 20:00 UTC matches board.",
+  "news": "Semifinal return leg, tie level at 1-1 after first leg; kick-off confirmed 3pm Lima.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (knockout); no To Qualify market on board; Under 2.5 p 0.485 below gate",
+  "confidence": 0.2,
+  "sources": [
+   "https://elcomercio.pe/deporte-total/futbol-peruano/liga-2-define-a-sus-finalistas-programacion-y-que-necesitan-mannucci-san-martin-ada-jaen-y-union-comercio-para-ascender-noticia/",
+   "https://www.espn.com.pe/futbol/peru/nota/_/id/17482065/asi-se-jugaran-las-semifinales-de-la-liga-2-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72162186",
+  "fx": "Worcester Railers v Reading Royals",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "ECHL regular season; Reading 8-4-0, Worcester 5-6-0; first meeting this season. 3:05pm ET = 20:05 UTC matches (one preview says 3:00).",
+  "news": "Reading in better form (Hunter Strand 8 pts in 5); Worcester led by Jordan Kaplan 8 pts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Integer total lines; Reading ML p 0.435 (away, below 0.75)",
+  "confidence": 0.15,
+  "sources": [
+   "https://echl.com/games/2026/11/22/worcester-railers-vs-reading-royals",
+   "https://insidetherink.com/echl-game-preview-reading-royals-at-worcester-railers-with-projected-line-combinations-11-22-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76409726",
+  "fx": "Platense FC Puerto Cortes v CD Choloma",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Apertura J15, relegation-table clash (both near bottom). 3pm at Estadio Excelsior, Puerto Cortes = 21:00 UTC matches.",
+  "news": "Platense v Choloma J15 confirmed; both in no-descenso fight; no named absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.43,
+    "p": 0.6630025033,
+    "why": "Platense defence collapse: conceded 2.7/g, 5 of last 6 games 3+ goals (2-4,1-3,1-4,3-4,0-2); Choloma 4/6 3+. Must-win for both at bottom. My p ~0.68."
+   }
+  ],
+  "avoid": "Result sides (two poor sides); Choloma scores only 0.9/g so no BTTS",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.radiohrn.hn/platense-vs-cd-choloma-en-vivo-hora-donde-ver-marcador-liga-nacional-de-honduras-2026-11-22",
+   "https://www.deportestvc.com/liga-nacional/jornada-15-del-torneo-clausura-2026-27-liga-nacional-de-honduras-2026-11-18"
+  ]
+ },
+ {
+  "eid": "sr:match:76916566",
+  "fx": "Deportivo Lara v Aragua FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Division playoff semifinal 2nd leg; Aragua won first leg 2-0 in Maracay (Nov 16).",
+  "news": "DATE CONFLICT: FootyStats lists the return leg Nov 21 as postponed/suspended, FootballStreams lists Nov 22 22:00 GMT; no official confirmation.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (postponed listing vs today); also knockout with Aragua 2-goal cushion makes home 1X2 price unreliable",
+  "picks": [],
+  "avoid": "Everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://elsiglo.com.ve/aragua-fc-vence-2-0-al-deportivo-lara-y-da-un-paso-firme-hacia-la-final/",
+   "https://footystats.org/venezuela/aragua-fc-vs-cd-lara-h2h-stats",
+   "https://www.footballstreams.com/matches/deportivo-lara-vs-aragua-fc-20261121/"
+  ]
+ },
+ {
+  "eid": "sr:match:76880312",
+  "fx": "CD Walter Ferretti v HYH Sebaco FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Primera Apertura; Ferretti 5th (~17-21 pts), Sebaco 6th (~17). Mid-table, nothing decisive. Standings sources differ by date.",
+  "news": "No team news found; mid-table meeting.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.55,
+    "p": 0.61139,
+    "why": "Both sides high-event: Ferretti last 6 had 3+ goals in 5 (4-1,3-1,5-1,4-2), Sebaco 5 of 6 (2-4,0-3,1-3,1-4,3-1), Sebaco concedes 2.0/g. My p ~0.65 (statistics-only, fill)."
+   }
+  ],
+  "avoid": "Home 1X2/DNB (Ferretti home 2-1-2)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/first-division-6108/standings",
+   "https://www.sport.de/fussball/co1458/liga-primera/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:72181044",
+  "fx": "London Knights v Peterborough Petes",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "OHL regular season; Peterborough stronger last 10 (7-3) vs London 4-6. 6pm ET = 23:00 UTC matches.",
+  "news": "No injury news found; schedule confirmed (source indexed old).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Integer totals; London ML p 0.406",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.oursportscentral.com/services/schedule/london-knights/t-1308",
+   "https://sports.yahoo.com/articles/2026-27-ohl-power-rankings-120020770.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72712584",
+  "fx": "Vancouver Giants v Kamloops Blazers",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL; Kamloops 14-6-2-1 (7-2-1 last 10, 2nd in GA, best PP 28%) at Giants 11-7-1-2, last game of 8-game homestand; Giants played Saturday (back-to-back).",
+  "news": "KICK-OFF CONFLICT: Giants official preview 4:00pm PT (00:00 UTC Nov 23) vs board 23:00 UTC; OurSports Central lists 6:00pm. Venue Langley Events Centre.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (official 4pm PT vs board 23:00 UTC vs 6pm listing)",
+  "picks": [],
+  "avoid": "Everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-giants/article/preview-giants-host-blazers-on-sunday-to-wrap-homestand/",
+   "https://www.oursportscentral.com/services/schedule/kamloops-blazers/t-1262"
+  ]
+ },
+ {
+  "eid": "sr:match:72475104",
+  "fx": "CSD Municipal v Antigua GFC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Apertura J21 (penultimate round): Antigua leader 39 pts, Municipal 4th 33 pts with a game in hand. Top-of-table clash at El Trebol, 17:05 = 23:05 UTC matches (one source 17:00).",
+  "news": "Direct duel of title candidates; both low-scoring (Municipal 1.1 gf/0.8 ga, Antigua 0.7 ga).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big-club clash); Under 3.5 p 0.713 below 0.82 gate",
+  "confidence": 0.2,
+  "sources": [
+   "https://emisorasunidas.com/deportes/2026/11/20/previa-de-la-penultima-jornada-del-torneo-apertura-2026/",
+   "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-cinco-equipos-pelean-por-el-ultimo-boleto-a-la-fase-final-del-torneo-breaking/"
+  ]
+ },
+ {
+  "eid": "sr:match:72181046",
+  "fx": "Oshawa Generals v Flint Firebirds",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "OHL; Flint 13-5-1 (power rankings) at Oshawa 7-10-5. Sunday night home game confirmed.",
+  "news": "Flint clearly stronger on record; no named absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Flint ML p 0.596 (away, below 0.75); integer totals",
+  "confidence": 0.15,
+  "sources": [
+   "https://sports.yahoo.com/articles/2026-27-ohl-power-rankings-120020770.html",
+   "https://chl.ca/ohl-generals/"
+  ]
+ },
+ {
+  "eid": "sr:match:72055330",
+  "fx": "CD Guadalajara v CF Cruz Azul",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Liga MX Apertura J17 (final regular round). Both already in quarterfinals; game decides overall leader/seeding. Cruz Azul leader 32 pts, 5 straight wins; Chivas unbeaten away only. Big-club clash. 5:07pm local at Akron = 23:07 UTC matches.",
+  "news": "Seeding decider, both qualified (Liguilla 2-3 days later is not before this); Cruz Azul eliminated Chivas from last two Liguillas.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big-club clash); Over 1.5 p 0.796 below big-club 0.82 totals gate; possible rotation/caution with quarterfinals next",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.infobae.com/mexico/deportes/2026/11/21/chivas-vs-cruz-azul-a-que-hora-y-donde-ver-en-vivo-la-pelea-por-el-liderato-del-torneo-apertura-2026/",
+   "https://www.clarosports.com/us/chivas-vs-cruz-azul-lo-que-se-juegan-en-la-ultima-jornada-antes-de-la-liguilla/"
+  ]
+ },
+ {
+  "eid": "sr:match:76409730",
+  "fx": "FC Motagua Tegucigalpa v CD Olimpia Tegucigalpa",
+  "sport": "football",
+  "absences": "Olimpia: Edwin Rodriguez, Nicolas Dibble, Christian Canales suspended",
+  "context": "Clasico capitalino J15, moved to neutral Estadio Carlos Miranda, Comayagua (Estadio Nacional occupied by religious event) - consistent across sources. Olimpia leader, already qualified; standings sources differ on Motagua position (2nd vs 4th).",
+  "news": "Derby at neutral venue; Olimpia missing three suspended players.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything result-side (derby, neutral venue removes Motagua home edge); Under 3.5 p 0.715 below gate",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.deportestvc.com/liga-nacional/olimpia-bajas-clasico-motagua-comayagua-edwin-rodriguez-dibble-canales-2026-11-20",
+   "https://www.365scores.com/es/news/motagua-olimpia-por-que-juega-comayagua/",
+   "https://www.tunota.com/deportes/motagua-busca-revancha-ante-olimpia-en-un-clasico-decisivo-del-apertura-2026-2026-11-22"
+  ]
+ },
+ {
+  "eid": "sr:match:76967054",
+  "fx": "Tauro FC v CD Plaza Amador Panama City",
+  "sport": "football",
+  "absences": "none found",
+  "context": "LPF Apertura semifinal FIRST leg (two-legged, return Nov 28 at COS Sports Plaza); Clasico Nacional; Plaza Amador defending tri-champion, won regular-season meeting 3-2. Rommel Fernandez 6:15pm = 23:15 UTC matches (RPC says 6:00pm).",
+  "news": "Semifinal first leg; Tauro beat CAI 4-1 to get here; coaches Mario Mendez (Tauro) / Franklin Narvaez.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (knockout first leg, derby); first-leg caution argues against totals",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.infobae.com/panama/2026/11/21/arrancan-las-semifinales-del-futbol-panameno-con-plaza-amador-en-busca-de-su-cuarto-titulo-consecutivo/",
+   "https://www.prensa.com/deportes/plaza-amador-y-tauro-fc-reeditan-el-clasico-nacional-en-las-semifinales-de-la-lpf/"
+  ]
+ },
+ {
+  "eid": "sr:match:76877578",
+  "fx": "Newtown United FC v Sol Island Auto Conaree",
+  "sport": "football",
+  "absences": "none found",
+  "context": "SKNFA Premier League (regional/amateur level). Newtown United ~4th (15 pts/8, 16 goals in 7), Conaree ~9th (4 pts/8, lost 5-0 to Cayon). Futbol24 lists 23 Nov 00:30 (board 23:30 UTC) - 1h difference, minor.",
+  "news": "Clear mismatch on table; no team news; no Sportradar form data.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: amateur regional league, no form data, board offers only totals; Over 3.5 p 0.62 has no edge over house",
+  "confidence": 0.1,
+  "sources": [
+   "https://sknfa.com/old-road-united-jets-go-top-of-the-table-with-dominant-win/",
+   "https://www.futbol24.com/national/St-Kitts-and-Nevis/Premier-League/2026-2027",
+   "https://www.oddalerts.com/leagues/saint-kitts-and-nevis/premier-league"
+  ]
+ },
+ {
+  "eid": "sr:match:76609138",
+  "fx": "Chicago Fire v Charlotte FC",
+  "sport": "football",
+  "absences": "Charlotte: Tim Ream main concern; Chicago: four players listed doubtful",
+  "context": "MLS Cup Playoffs Round One, Game 1 of best-of-three (tie after 90 -> straight to penalties; markets settle on 90). No.4 Chicago v No.5 Charlotte, one point apart. SeatGeek Stadium 6:30pm ET = 23:30 UTC matches club/league sources; one CBS piece gives Monday 5:30pm (likely stale) - minor data conflict.",
+  "news": "Playoff G1; Charlotte historically scored just once in round-one playoff games; Ream doubt.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.7008384273,
+    "why": "Both sides high-event: Chicago last 6 had 3+ goals in 5 (3-4,4-2,2-2,3-2,1-3), Charlotte 6/6 (3-3,4-0,4-0,2-3,2-2,1-3); Chicago concedes 1.9/g, Ream doubt weakens Charlotte back line. Playoff tightness trims it: my p ~0.71."
+   }
+  ],
+  "avoid": "Result sides (playoff, knockout-style); integer O3/U4 lines",
+  "confidence": 0.2,
+  "sources": [
+   "https://sports.yahoo.com/articles/chicago-fire-fc-vs-charlotte-164100554.html",
+   "https://www.charlottefootballclub.com/news/charlotte-fc-to-play-chicago-fire-fc-in-round-one-of-audi-2026-mls-cup-playoffs",
+   "https://www.sportsmole.co.uk/football/chicago-fire/preview/chicago-fire-vs-charlotte-fc-prediction-team-news-lineups_609451.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76515008",
+  "fx": "Carlos Mannucci v Club Ada Jaen",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Liga 2 semifinal 2nd leg; first leg ADA Jaen 0-0 Mannucci. 7:30pm Lima = 00:30 UTC matches. Knockout.",
+  "news": "Tie level 0-0; both defensively strong (Mannucci 0.7 ga, Jaen 0.6 ga).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (knockout); Under 2.5 p 0.549 below gate",
+  "confidence": 0.2,
+  "sources": [
+   "https://elcomercio.pe/deporte-total/futbol-peruano/liga-2-define-a-sus-finalistas-programacion-y-que-necesitan-mannucci-san-martin-ada-jaen-y-union-comercio-para-ascender-noticia/",
+   "https://ahora.com.pe/deportes/liga-2-2026-semifinalistas-cruces-ascenso"
+  ]
+ },
+ {
+  "eid": "sr:match:77056312",
+  "fx": "Puerto Rico Surf SC v San Juan FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "LPR Pro (thin league). Surf 0-1-9 last 10 (conceding 3.4/g), San Juan 2-1-7; last H2H 0-6. No fixture confirmation found for Nov 2026.",
+  "news": "no news found (no confirmation of date/venue either way)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: thin league, no confirmation of fixture, weak sides both ways",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.aiscore.com/head-to-head/soccer-pr-san-juan-vs-puerto-rico-surf-sc",
+   "https://en.wikipedia.org/wiki/Puerto_Rico_Surf_SC"
+  ]
+ },
+ {
+  "eid": "sr:match:76880314",
+  "fx": "Diriangen FC Diriamba v Managua FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Primera top-two clash: Managua FC leader (unbeaten, 35-41 pts) v Diriangen 2nd (30-38). H2H last 3-3.",
+  "news": "Top-of-table meeting; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.782319,
+    "why": "Both attack well: Diriangen 2.1 gf, Managua 2.9 gf (2.8 away); Diriangen last 6 had 2+ goals in 5, Managua 5/6; last H2H 3-3. Top clash could tighten. My p ~0.80."
+   }
+  ],
+  "avoid": "Result sides (top clash, coin-flip); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/first-division-6108/standings",
+   "https://www.sport.de/fussball/co1458/liga-primera/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:72475098",
+  "fx": "CD Marquense v Aurora FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Apertura J21; both on 25 pts with slim chances of the final phase. 19:10 = 01:10 UTC matches.",
+  "news": "Low-stakes match, Marquense scoring only 0.8/g.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: Under 3.5 p 0.73 below gate, no mechanism for result",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lared1061.com/posts/liga-nacional-partidos-y-horarios-que-completan-la-penultima-fecha",
+   "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-cinco-equipos-pelean-por-el-ultimo-boleto-a-la-fase-final-del-torneo-breaking/"
+  ]
+ },
+ {
+  "eid": "sr:match:72055332",
+  "fx": "Queretaro FC v Club Necaxa",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Liga MX J17 final round; no play-in this season. Necaxa (13 pts) eliminated; Queretaro (20 pts) needs a 6+ goal win plus help - effectively a dead rubber for both. La Corregidora 7:10pm = 01:10 UTC matches.",
+  "news": "Dead rubber: Necaxa out, Queretaro mathematically alive only with a 6-goal win.",
+  "veto": true,
+  "veto_reason": "Dead rubber (R3)",
+  "picks": [],
+  "avoid": "Everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tudn.com/futbol/liga-mx/queretaro-vs-necaxa-a-que-hora-y-donde-ver-el-partido-de-la-jornada-17-de-la-liga-mx-apertura-2026",
+   "https://bettorsinsider.com/soccer/2026/11/20/queretaro-chasing-a-liga-mx-miracle-on-final-matchday/"
+  ]
+ },
+ {
+  "eid": "sr:match:76409740",
+  "fx": "Juticalpa FC v Olancho FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Derbi olanchano, J15, Estadio Juan Ramon Breve Vargas 7:30pm = 01:30 UTC matches. Juticalpa 2-0-8 last 10 (lost 0-8), relegation zone; Olancho 1-6-3.",
+  "news": "Derby; Juticalpa in relegation trouble after losing to Choloma.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (derby; Olancho away p 0.695 below 0.75 anyway); Over 1.5 1.17 below odds band",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.radiohrn.hn/platense-vs-cd-choloma-en-vivo-hora-donde-ver-marcador-liga-nacional-de-honduras-2026-11-22",
+   "https://www.laprensa.hn/deportes/choloma-juticalpa-liga-nacional-honduras-hector-vargas-cronica-GH32357908"
+  ]
+ },
+ {
+  "eid": "sr:match:76907552",
+  "fx": "Vancouver Whitecaps FC v Real Salt Lake",
+  "sport": "football",
+  "absences": "Whitecaps: Andres Cubas, Emmanuel Sabbi, Sam Adekugbe, Kenji Cabrera, Belal Halbouni out/doubtful (Badwal possibly back). RSL: Diego Luna (knee, out per Yahoo; doubt per WhoScored), Emeka Eneli; Zach Booth and Ariath Piol doubtful; Juan Arias out.",
+  "context": "MLS Cup Playoffs Round One G1 best-of-three (Fox headline says conference semifinals - naming conflict only), No.1 Vancouver v No.9 RSL at BC Place; 90-min settlement, ties go to pens. RSL played Thursday (wildcard win at Seattle) - short rest.",
+  "news": "Whitecaps missing midfield anchor Cubas; RSL missing Luna/Eneli and on short rest after Thursday win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.38,
+    "p": 0.693866,
+    "why": "Vancouver home 4.0 gf in last 3 (5-1,4-1); RSL last 6 all 3+ goals (5-3,2-1,1-2,2-1,3-0,3-1); Cubas absence weakens Vancouver screen, RSL tired legs after Thursday. My p ~0.71."
+   }
+  ],
+  "avoid": "Result sides (playoff); Vancouver -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://sports.yahoo.com/articles/vancouver-whitecaps-vs-real-salt-185500411.html",
+   "https://www.whoscored.com/articles/Yol7MdUD30yG6teI9bACdQ/show/cng111-20261122-vancouver-whitecaps-fc-vs-real-salt-lake-prediction-1795368954",
+   "https://www.foxsports.com/articles/soccer/vancouver-whitecaps-host-real-salt-lake-in-western-conference-semifinals"
+  ]
+ },
+ {
+  "eid": "sr:match:72339116",
+  "fx": "Albirex Niigata v Sanfrecce Hiroshima Regina",
+  "sport": "football",
+  "absences": "not checked (women's)",
+  "context": "WOMEN'S WE League R11 at Denka Big Swan, 04:00 UTC matches; one aggregator lists Sanfrecce v Urawa that day (conflict likely aggregator error; official not confirmed).",
+  "news": "Women's fixture; minor schedule-listing conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's; no clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fotmob.com/matches/albirex-niigata-ladies-vs-sanfrecce-hiroshima-regina/lu8gjaxt",
+   "https://weleague.jp/news/2001/"
+  ]
+ },
+ {
+  "eid": "sr:match:72339112",
+  "fx": "Kanagawa Sagamihara v RB Omiya Ardija",
+  "sport": "football",
+  "absences": "not checked (women's)",
+  "context": "WOMEN'S WE League R11, Nojima Stella Kanagawa Sagamihara v RB Omiya Ardija WOMEN at Sagamihara Gion Stadium, 13:00 JST = 04:00 UTC matches.",
+  "news": "Women's fixture; date/venue consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's; no clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://weleague.jp/news/2001/",
+   "https://www.sportzorg24.tv/football-league-2026-15"
+  ]
+ },
+ {
+  "eid": "sr:match:75049702",
+  "fx": "Osaki Osol v Sakai Liaison Osaka",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "League H 2026-27 men R7 at Wako City Gymnasium, 13:00 JST = 04:00 UTC matches. Sakai Liaison Osaka is a new club this season (promoted from Challenge Games); Osaki is an established side.",
+  "news": "Newcomer Sakai 1-1-3 conceding 35.4/g; Osaki 3-0 at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.734507,
+    "why": "Established Osaki (3-0 home, 35.3 gf at home) v first-season newcomer Sakai (1-1-3, conceding 35.4, lost by 14 and 10). Draw risk ~6% in handball. My p ~0.78."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.osaki-osol.net/",
+   "https://leagueh.jp/",
+   "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%82%B0H_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:72339114",
+  "fx": "AC Nagano Parceiro v Urawa Red Diamonds",
+  "sport": "football",
+  "absences": "not checked (women's)",
+  "context": "WOMEN'S WE League R11, Nagano Parceiro Ladies v Urawa Reds Ladies at Nagano U Stadium, 14:00 JST = 05:00 UTC matches.",
+  "news": "Women's fixture; Urawa favourites (p 0.72); date/venue consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (women's; no result side allowed; not a goals mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://parceiro.co.jp/ladies/matches/",
+   "https://weleague.jp/news/2001/"
+  ]
+ }
+]
