@@ -1,0 +1,677 @@
+[
+ {
+  "eid": "sr:match:72773808",
+  "fx": "Sportunion St Polten/2 v Steelvolleys Linz Steg",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Austrian 2. Bundesliga men; home side is St Polten's reserve (/2) team, 0-7 in last 7 matches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no picks under the rules (Linz ML 1.34 p0.70 is not eligible).",
+  "confidence": 0.1,
+  "sources": [
+   "https://volleynet.at/levels/39837"
+  ]
+ },
+ {
+  "eid": "sr:match:72773836",
+  "fx": "UVC Graz II v Union Leibnitz",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Austrian 2. Bundesliga men; UVC Graz II is a reserve side (4-0 at home).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no picks (Graz II ML 1.18 is not eligible).",
+  "confidence": 0.1,
+  "sources": [
+   "https://volleynet.at/levels/39837"
+  ]
+ },
+ {
+  "eid": "sr:match:72123574",
+  "fx": "Geneve-Servette HC v HC Lausanne",
+  "sport": "ice hockey",
+  "absences": "Both clubs described as among the most injury-hit in the NL earlier in the season; Servette: Vili Saarijarvi (D, 6 weeks), Manninen and Granlund were listed hurt (status for Nov 22 unconfirmed).",
+  "context": "Lemanic derby (Geneva v Lausanne). Both teams concede 3.7 per game over their last 10; Lausanne 0-5 away, Servette 1-3 at home.",
+  "news": "No match-specific news found; earlier-season reports say both rosters are depleted by injuries.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.4,
+    "p": 0.688059,
+    "why": "Both defences leak (3.7 GA per game each over the last 10, Lausanne 3.8 GA away); injury-depleted rosters and a derby tempo. Own p 0.70."
+   }
+  ],
+  "avoid": "Derby: no result-side. Under 7.5 (p0.77) fails the Under gate.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.24heures.ch/national-league-les-blessures-saccumulent-dans-les-clubs-674510206344",
+   "https://www.rts.ch/sport/hockey/2026/article/national-league-geneve-servette-renverse-davos-3-2-29382138.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72123576",
+  "fx": "SC Rapperswil-Jona Lakers v SCL Tigers Langnau",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Tigers 5th (32 pts from 21), Lakers 13th (22 pts, -19 goal difference). Tigers average 3.4 goals per game away.",
+  "news": "No team news found; the standings snapshot confirms the gap between the sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7910558283,
+    "why": "Tigers score 3.5 per game over their last 10 (3.4 away); Lakers concede 3.2 at home and sit 13th with a -19 goal difference. Own p 0.81."
+   }
+  ],
+  "avoid": "Rapperswil +1.5 (Tigers are not a strong enough favourite to fade).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.blick.ch/sport/eishockey/nl/national-league-sc-rapperswil-jona-lakers-scl-tigers-22112026/80ljmff"
+  ]
+ },
+ {
+  "eid": "sr:match:72983762",
+  "fx": "VBC Waremme v VC Haasrode Leuven",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Belgian Liga Heren men. 365Scores and sportuitslagen agree on 22 Nov at 13:00 UTC (14:00 local). Haasrode leads the H2H 11-4. Haasrode 3-0 away, Waremme 4-6 over their last 10.",
+  "news": "No team news found. The date and kick-off match across sources; one sportuitslagen row also shows a 21 Nov meeting, which looks like a data error.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.19,
+    "p": 0.805936,
+    "why": "H2H 11-4 for Haasrode; Haasrode 7-3 over their last 10 and 3-0 away v Waremme at 4-6. Own p 0.80."
+   }
+  ],
+  "avoid": "Set and point handicaps.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/en-uk/volleyball/match/liga-heren-5753/haasrode-leuven-waremme-16357-24243-5753",
+   "https://www.sportuitslagen.org/volleybal-vbc-waremme-identiteit-uitslagen-equ17385.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72710520",
+  "fx": "GCK Lions Kusnacht v EHC Chur Capricorns",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Swiss League. GCK Lions are the ZSC Lions' young farm team (2-8 over their last 10, 4.2 GA) but beat Arosa 6-4 last week. Chur lost 1-2 to La Chaux-de-Fonds. Kick-off 15:45 local matches.",
+  "news": "GCK Lions beat Arosa 6-4 and Chur lost 1-2 to La Chaux-de-Fonds on Nov 15; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.7003162151,
+    "why": "GCK concede 4.2 per game (4.17 at home), a farm/development side. Own p 0.70."
+   }
+  ],
+  "avoid": "Chur ML 1.36 p0.70: away result-side below 0.75.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.bluewin.ch/en/sport/leader-sierre-defeats-basel-in-top-of-the-table-clash-li.3674706",
+   "https://www.sport.de/eishockey/schweiz-swiss-league/spielplan/",
+   "https://hcsierre.ch/",
+   "https://www.ehco.ch/1-mannschaft/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:73741278",
+  "fx": "Halmstad Hammers v HC Vita Hasten",
+  "sport": "ice hockey",
+  "absences": "Vita Hasten lost forward Albin Ivarsson-Hamberg (contract terminated this week, now at Nykoping).",
+  "context": "HockeyEttan Sodra. Sunday 16:00 CET confirmed by hockeyettan.se. Halmstad 6-0 at home (4.3 GF per game); Vita Hasten 9-1 over their last 10 and beat Dalen in a shootout on Friday (back-to-back weekend); Halmstad did not play Friday.",
+  "news": "Vita Hasten beat Dalen 3-2 in a shootout on Fri; Ivarsson-Hamberg has left Vita Hasten.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.41,
+    "p": 0.6692638256,
+    "why": "Halmstad are 6-0 at home, rested, and Vita Hasten are on their second game in three days and a forward down; this loses only to a Vita Hasten win by 2+. Own p 0.71."
+   }
+  ],
+  "avoid": "Moneylines.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hockeyettan.se/2026/11/20/gameday-20-november/"
+  ]
+ },
+ {
+  "eid": "sr:match:73741272",
+  "fx": "Huddinge IK v HC Dalen",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "HockeyEttan Sodra, Sunday 16:00 CET confirmed. Dalen lost a shootout at Vita Hasten on Friday; Dalen are 1-4 away.",
+  "news": "Dalen lost 2-3 in a shootout at Vita Hasten on Fri.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dalen ML 1.50 p0.62: away and mid-band; no mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hockeyettan.se/2026/11/20/gameday-20-november/"
+  ]
+ },
+ {
+  "eid": "sr:match:73742116",
+  "fx": "Jarfalla HC v Norrtalje IK",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "HockeyEttan Norra, Sunday 16:00 CET confirmed. Jarfalla lost 2-4 at Stromsbro on Friday; both teams leak (3.5 and 3.8 GA).",
+  "news": "Jarfalla lost 2-4 at Stromsbro on Fri.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hockeyettan.se/2026/11/20/gameday-20-november/"
+  ]
+ },
+ {
+  "eid": "sr:match:73741270",
+  "fx": "Tyringe SoS v IF Troja-Ljungby",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "HockeyEttan Sodra, Sunday 16:00 CET confirmed. Bottom-table clash: Tyringe 3-7, Troja 2-8. Troja won 2-1 v Grums on Friday behind new goalkeeper Anton Svensson (27/29 and 20/21 saves); Tyringe lost 2-4 at Morrum.",
+  "news": "Troja-Ljungby beat Grums 2-1 on Fri with new 37-year-old goalkeeper Anton Svensson; Tyringe lost 2-4 at Morrum.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.34,
+    "p": 0.705405,
+    "why": "Two weak sides; Troja are 1-4 away and 2-8 overall, and favouritism rests only on a new goalkeeper's two games. Tyringe loses this only to a Troja win by 2+. Own p 0.73."
+   }
+  ],
+  "avoid": "Troja moneyline.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hockeyettan.se/2026/11/20/gameday-20-november/"
+  ]
+ },
+ {
+  "eid": "sr:match:72710522",
+  "fx": "HC Sierre v HC La Chaux-de-Fonds",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Swiss League top-4 clash: leader Sierre (15 wins in 16; won 5-1 at Basel) v 4th-placed La Chaux-de-Fonds (8-2 over their last 10, won 2-1 at Chur). Sunday 16:00 local confirmed by the club site.",
+  "news": "Sierre won 5-1 at Basel and La Chaux-de-Fonds won 2-1 at Chur on Nov 15.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sierre ML 1.25 p0.77: the opponent is in strong form, the H2H trend is only 0.45 and the H2H was 1-2; no edge over the house.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.bluewin.ch/en/sport/leader-sierre-defeats-basel-in-top-of-the-table-clash-li.3674706",
+   "https://www.sport.de/eishockey/schweiz-swiss-league/spielplan/",
+   "https://hcsierre.ch/",
+   "https://www.ehco.ch/1-mannschaft/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72771672",
+  "fx": "Sportunion St Polten v VBK WSL Klagenfurt",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Austrian Volley League men: St Polten 6th v Klagenfurt 8th. ORF confirms 16:00 local. Klagenfurt are 0-4 away (0.75 sets per game).",
+  "news": "Fixture confirmed by the ORF schedule; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mid-band home ML (p0.62); no mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288204/",
+   "https://volleynet.at/levels/39838"
+  ]
+ },
+ {
+  "eid": "sr:match:72771666",
+  "fx": "UVC Graz v TJ Sokol V/Post SV Vienna",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Austrian Volley League men: UVC Graz 4th v Sokol/Post 9th. 16:00 local confirmed by ORF and the Sokol site.",
+  "news": "Fixture and venue (Raiffeisen Sportpark) confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "237",
+    "spec": "hcp=-9.5",
+    "desc": "Home (-9.5)",
+    "odds": 1.44,
+    "p": 0.65888,
+    "why": "4th v 9th; Graz ML p0.84 implies straight-set wins are common, and a 3-0 typically clears 9.5 points. Own p 0.66."
+   }
+  ],
+  "avoid": "Under 4.5 sets (p0.805) fails the Under gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288204/",
+   "https://volleynet.at/levels/39838"
+  ]
+ },
+ {
+  "eid": "sr:match:74972032",
+  "fx": "Lokomotiv Plovdiv v Slavia Sofia",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Bulgarian Super League men. Slavia are 0-10 over their last 10 (0.4 sets per game). Lokomotiv swept Slavia 3-0 last season.",
+  "news": "No current news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Only odd/even markets are on the board; nothing priced 1.18-2.2 with a mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sportal.bg/news.php?news=874682"
+  ]
+ },
+ {
+  "eid": "sr:match:73741274",
+  "fx": "Morrum Gois IK v Tingsryds AIF",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "HockeyEttan Sodra local derby, which is also this year's 'Enkronan' match and a jersey-retirement night (Per-Anders Gustavsson) in Jossarinken; 16:10 CET confirmed. Tingsryd are 10-0 over their last 10 and won 1-0 at Nykoping on Friday; Morrum beat Tyringe 4-2.",
+  "news": "Derby plus Enkronan and a jersey-retirement ceremony for the home side; both won on Friday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result-side (Tingsryd 1X2 1.28 p0.736 also misses the 0.75 away gate).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hockeyettan.se/2026/11/20/gameday-20-november/",
+   "https://www.hockeyettan.se/2026/11/06/supersondagen-22-november-derby-trojhissning-enkronan-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72771664",
+  "fx": "VCA Amstetten No v TSV Hartberg",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Austrian Volley League men: Amstetten 7th v Hartberg 3rd. 16:30 local confirmed by ORF. Hartberg 5-1 away, 0.83 sets conceded per game.",
+  "news": "Fixture confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "237",
+    "spec": "hcp=9.5",
+    "desc": "Away (-9.5)",
+    "odds": 1.45,
+    "p": 0.65354,
+    "why": "3rd v 7th; Hartberg concede 0.83 sets per away game, so a sweep is likely and clears -9.5 points. Own p 0.66."
+   }
+  ],
+  "avoid": "Under 4.5 sets fails the Under gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288204/",
+   "https://volleynet.at/levels/39838"
+  ]
+ },
+ {
+  "eid": "sr:match:73742118",
+  "fx": "Sollentuna HC v Wings Arlanda HC",
+  "sport": "ice hockey",
+  "absences": "Sollentuna captain Andreas Ekstrom is suspended for three games 'until 22 November' (exact return date ambiguous).",
+  "context": "HockeyEttan Norra, 17:00 CET confirmed. Wings are 0-10 over their last 10, 0-5 away conceding 7.4 per game, and lost 3-7 at Vallentuna on Friday. Sollentuna lost 0-3 at Vasby on Friday.",
+  "news": "Wings lost 3-7 at Vallentuna on Fri; Sollentuna lost 0-3 at Vasby; Sollentuna captain Ekstrom is suspended through around Nov 22.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7657609915,
+    "why": "Wings are winless in 10, concede 6.1 per game (7.4 away) and shipped 7 on Friday. Own p 0.80."
+   }
+  ],
+  "avoid": "1X2 regulation.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.hockeyettan.se/2026/11/20/gameday-20-november/"
+  ]
+ },
+ {
+  "eid": "sr:match:72710526",
+  "fx": "Bellinzona Snakes v EHC Basel",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Swiss League: Bellinzona 8th, lost 0-8 at Thurgau last week (2-8 over their last 10, 4.1 GA). Basel 2nd, lost 1-5 to Sierre. 17:00 local confirmed.",
+  "news": "Bellinzona were thrashed 0-8 by Thurgau; Basel lost 1-5 to leader Sierre.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.27,
+    "p": 0.7516916886,
+    "why": "2nd v 8th; Bellinzona concede 4.1 per game and lost 0-8 last week. Own p 0.77."
+   },
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.29,
+    "p": 0.7349499073,
+    "why": "Basel score 3.4 per game v a 4.1 GA side. Own p 0.75."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bluewin.ch/en/sport/leader-sierre-defeats-basel-in-top-of-the-table-clash-li.3674706",
+   "https://www.sport.de/eishockey/schweiz-swiss-league/spielplan/",
+   "https://hcsierre.ch/",
+   "https://www.ehco.ch/1-mannschaft/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72710524",
+  "fx": "EHC Arosa v EHC Olten",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Swiss League: Arosa are bottom tier (1-9 over their last 10, 5.5 GA; 10th with a -56 goal difference); Olten 5th but lost 1-4 at home to Visp. 17:00 local confirmed. H2H 10-3 and 4-0 to Olten.",
+  "news": "Arosa lost 4-6 at GCK and Olten lost 1-4 to Visp on Nov 15.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Olten lines are already inflated (Olten TT 4.5, AH -3.5); Arosa TT Under 2.5 fails the Under gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bluewin.ch/en/sport/leader-sierre-defeats-basel-in-top-of-the-table-clash-li.3674706",
+   "https://www.sport.de/eishockey/schweiz-swiss-league/spielplan/",
+   "https://hcsierre.ch/",
+   "https://www.ehco.ch/1-mannschaft/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72909594",
+  "fx": "New York Rangers v Carolina Hurricanes",
+  "sport": "ice hockey",
+  "absences": "NYR: Igor Shesterkin (G) out for the season (knee, LTIR Nov 15); Pavel Dorofeyev on IR; Oliver Bjorkstrand on IR (upper body, doubtful); Sean Durzi game-time decision. CAR: Nikolaj Ehlers (lower body) did not travel; Jordan Staal back since Nov 14.",
+  "context": "Carolina on the second leg of a back-to-back after a Saturday win (four wins in a row); Rangers off a five-day break. Korpisalo projected in the NYR net; CAR goalie TBD (Kochetkov 12-1).",
+  "news": "Shesterkin is out for the season and Korpisalo starts; Ehlers is out for Carolina, which is on a back-to-back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.34,
+    "p": 0.7218711741,
+    "why": "Without Shesterkin, NYR's goaltending drops sharply (Korpisalo); Carolina score 4.1 per game over their last 10 and are on a back-to-back. Own p 0.75."
+   }
+  ],
+  "avoid": "Carolina ML (away, p0.58) and puckline: back-to-back and Ehlers out.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nhl.com/hurricanes/news/preview-november-22-at-ny-rangers",
+   "https://www.foreverblueshirts.com/new-york-rangers-news/preview-lines-notes-how-to-watch-return-five-day-break-vs-hurricanes",
+   "https://heavy.com/sports/nhl/new-york-rangers/new-york-rangers-injury-report-oliver-bjorkstrand-news/",
+   "https://og.com/learn/hurricanes-vs-rangers-prediction-lineups-2026-11-22"
+  ]
+ },
+ {
+  "eid": "sr:match:72771996",
+  "fx": "Sportunion St Polten v Steelvolleys Linz Steg",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Austrian Volley League Women. St Polten have 1 point; Linz are the cup holders.",
+  "news": "Women's fixture: no date or venue conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://volleynet.at/levels/39839",
+   "https://sport.orf.at/stories/3163052/"
+  ]
+ },
+ {
+  "eid": "sr:match:72772000",
+  "fx": "UVC Graz v VB NO Sokol/Post",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Austrian Volley League Women, top clash: UVC Graz (runner-up) v Sokol/Post (champion).",
+  "news": "Women's fixture: no date or venue conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://volleynet.at/levels/39839",
+   "https://sport.orf.at/stories/3163052/"
+  ]
+ },
+ {
+  "eid": "sr:match:72734788",
+  "fx": "Cleveland Monsters v Utica Comets",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AHL back-to-back rematch at Rocket Arena: Utica won 2-1 on Saturday (Rittich 23 saves; Vilen scored). Sunday 3pm ET = 20:00 UTC matches. Cleveland 8-9-0-0, 7th in the North.",
+  "news": "Utica beat Cleveland 2-1 on Sat; rematch Sunday 3pm ET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Low-event rematch, near 50/50; no edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.oursportscentral.com/services/releases/monsters-game-summary-monsters-comeback-falls-short-in-2-1-loss-to-comets/n-6426557",
+   "https://nightout.com/events/v/utica-comets-at-cleveland-monsters-rocket-arena-cleveland-2026-11-22/tickets"
+  ]
+ },
+ {
+  "eid": "sr:match:72734786",
+  "fx": "Hartford Wolf Pack v Springfield Thunderbirds",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AHL: Hartford (10-8-1) host Springfield; Hartford also played Milwaukee on Saturday (5-2 listed). Hartford lead the H2H 3-0 this season (3-2, 5-2, 4-2). Springfield 2-8 over their last 10, 3.9 GA.",
+  "news": "Hartford on a back-to-back; Liam Greentree leads Hartford (8 goals, 14 points).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7839792937,
+    "why": "Hartford scored 3, 5 and 4 in three meetings with Springfield this season; Springfield concede 3.9 per game. Own p 0.81."
+   }
+  ],
+  "avoid": "Integer Over 5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://insidetherink.com/ahl-game-preview-milwaukee-admirals-at-hartford-wolf-pack-with-projected-lines-11-21-2026/",
+   "https://insidetherink.com/ahl-game-preview-calgary-wranglers-at-laval-rocket-with-projected-lines-11-21-2026/",
+   "https://insidetherink.com/ahl-game-preview-charlotte-checkers-at-providence-bruins-with-projected-lines-11-21-2026/",
+   "https://www.flohockey.tv/articles/16416207-5-must-watch-ahl-games-this-weekend-nov-20-22-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72734790",
+  "fx": "Laval Rocket v Calgary Wranglers",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AHL: Laval (one of the AHL's top teams; Luke Mittelstadt 24 points) host Calgary for the 3rd meeting (1-1 so far); both teams also met on Saturday.",
+  "news": "Back-to-back series at the Bell Centre; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Laval ML p0.60 is mid-band; series split 1-1.",
+  "confidence": 0.15,
+  "sources": [
+   "https://insidetherink.com/ahl-game-preview-milwaukee-admirals-at-hartford-wolf-pack-with-projected-lines-11-21-2026/",
+   "https://insidetherink.com/ahl-game-preview-calgary-wranglers-at-laval-rocket-with-projected-lines-11-21-2026/",
+   "https://insidetherink.com/ahl-game-preview-charlotte-checkers-at-providence-bruins-with-projected-lines-11-21-2026/",
+   "https://www.flohockey.tv/articles/16416207-5-must-watch-ahl-games-this-weekend-nov-20-22-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72734346",
+  "fx": "Manitoba Moose v Rockford Icehogs",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AHL back-to-back rematch (Manitoba v Rockford also on Nov 21). Manitoba 3-0 at home; Rockford 0-3 away, 3.5 GA.",
+  "news": "Second game of a weekend pair; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.795178,
+    "why": "Rockford are 0-3 away and concede 3.5 per game; Manitoba 6-4 over their last 10 at 2.6 GF. Own p 0.79 (roughly the house price; fill only)."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.15,
+  "sources": [
+   "https://insidetherink.com/ahl-game-preview-milwaukee-admirals-at-hartford-wolf-pack-with-projected-lines-11-21-2026/",
+   "https://insidetherink.com/ahl-game-preview-calgary-wranglers-at-laval-rocket-with-projected-lines-11-21-2026/",
+   "https://insidetherink.com/ahl-game-preview-charlotte-checkers-at-providence-bruins-with-projected-lines-11-21-2026/",
+   "https://www.flohockey.tv/articles/16416207-5-must-watch-ahl-games-this-weekend-nov-20-22-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72734792",
+  "fx": "Providence Bruins v Milwaukee Admirals",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AHL: Milwaukee (10-5-1) visit Providence, whose home record is 3-0. Both played Saturday (Milwaukee at Hartford, Providence v Charlotte), so both are on a back-to-back.",
+  "news": "Both teams on a back-to-back; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.34,
+    "p": 0.711028,
+    "why": "Providence are 7-3 over their last 10 (3-0 at home, 4.0 GF); Milwaukee are a slight away favourite on a back-to-back. Own p 0.75."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.2,
+  "sources": [
+   "https://insidetherink.com/ahl-game-preview-milwaukee-admirals-at-hartford-wolf-pack-with-projected-lines-11-21-2026/",
+   "https://insidetherink.com/ahl-game-preview-calgary-wranglers-at-laval-rocket-with-projected-lines-11-21-2026/",
+   "https://insidetherink.com/ahl-game-preview-charlotte-checkers-at-providence-bruins-with-projected-lines-11-21-2026/",
+   "https://www.flohockey.tv/articles/16416207-5-must-watch-ahl-games-this-weekend-nov-20-22-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72734794",
+  "fx": "Toronto Marlies v Chicago Wolves",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "AHL back-to-back rematch; Chicago won Saturday's game 2-1 in a shootout (listing dated 11/21/2026, needs confirming).",
+  "news": "Chicago won 2-1 (SO) at Toronto on Sat, a low-event game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Toronto TT Over 1.5 (p0.80) after a 1-1 regulation game: no edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://insidetherink.com/ahl-game-preview-milwaukee-admirals-at-hartford-wolf-pack-with-projected-lines-11-21-2026/",
+   "https://insidetherink.com/ahl-game-preview-calgary-wranglers-at-laval-rocket-with-projected-lines-11-21-2026/",
+   "https://insidetherink.com/ahl-game-preview-charlotte-checkers-at-providence-bruins-with-projected-lines-11-21-2026/",
+   "https://www.flohockey.tv/articles/16416207-5-must-watch-ahl-games-this-weekend-nov-20-22-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74779136",
+  "fx": "Princeton Tigers v Air Force Falcons",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "NCAA non-conference series finale at Hobey Baker Rink; Princeton won game 1 4-3 in OT (two extra-attacker goals late; Kai Greaves 1G 3A; shots 37-36). 4:00/4:05pm ET = 21:00 UTC matches the board. Air Force 5-8-0, power play struggling.",
+  "news": "Princeton beat Air Force 4-3 in OT on Sat; game 2 Sun 4pm ET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.792118,
+    "why": "Princeton scored 4 and put 37 shots on goal in game 1; Air Force concede 3.4 per game (3.67 away). Own p 0.81."
+   }
+  ],
+  "avoid": "Princeton ML (game-1 OT win, even shots).",
+  "confidence": 0.2,
+  "sources": [
+   "https://goprincetontigers.com/news/2026/11/21/mens-ice-hockey-kai-greaves-caps-four-point-night-with-ot-winner-to-knock-off-air-force",
+   "https://goairforcefalcons.com/news/2026/11/21/mens-ice-hockey-princeton-rallies-for-4-3-overtime-win-over-air-force",
+   "https://gazette.com/2026/11/20/power-play-goals-are-at-a-premium-for-air-force-as-falcons-head-east/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909596",
+  "fx": "Tampa Bay Lightning v Buffalo Sabres",
+  "sport": "ice hockey",
+  "absences": "TBL: Brandon Hagel out (lower body), Conor Geekie out (upper body), Girgensons day-to-day; reports also list Brayden Point out and Cirelli/Cernak hurt (conflicting). BUF: Helenius and Danforth on IR, Grzelcyk out; Alex Lyon back from IR.",
+  "context": "Game at Tampa, 5pm ET = 22:00 UTC (matches). Lightning 15-5-2, Sabres 9-10-4. The earlier meeting this season ended 8-3 to Tampa.",
+  "news": "Tampa missing several forwards (Hagel, Geekie, possibly Point and Cirelli); Lyon starting for Buffalo; injury reports conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.29,
+    "p": 0.7498611465,
+    "why": "Buffalo concede 3.6 per game (3.33 away) and Tampa score 3.8; last meeting 8-3. Own p 0.75 (forward injuries trim Tampa's side)."
+   }
+  ],
+  "avoid": "Tampa ML: depleted forward group, injury reports conflict.",
+  "confidence": 0.2,
+  "sources": [
+   "https://957wdae.iheart.com/content/2026-11-22-sabres-vs-lightning-time-tv-live-stream-11222026/",
+   "https://og.com/learn/sabres-vs-lightning-prediction-lineups-2026-11-22",
+   "https://www.sportpreferred.com/nhl/sabres-vs-lightning-where-to-watch-team-news-lineups-and-key-storylines/11900"
+  ]
+ }
+]

@@ -1,0 +1,624 @@
+[
+ {
+  "eid": "sr:match:73630706",
+  "fx": "Atletico Ascoli v Santegidiese Calcio",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone F R13, 14:30 CET Sun 22 Nov (LND). Santegidiese 1W in last 10, 0W/4L away (0.8 gf, 2.0 ga). Serie D (LND amateur/semi-pro tier); board offers only 1X2 and O/U 2.5. Unders barred (p<0.82, amateur), no result-side without named mechanism.",
+  "news": "Fixture confirmed by LND; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.6,
+    "p": 0.5833,
+    "why": "Statistics-led fill only: Santegidiese 0 away wins, 7L in 10; own est 0.60 vs house 0.58. No named mechanism -> fill, not anchor."
+   }
+  ],
+  "avoid": "Under 2.5 (amateur, p<0.82)",
+  "confidence": 0.2,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://rete8.it/sport/calcio/calcio-serie-d-la-tredicesima-giornata",
+   "https://www.seried.it/2026/11/serie-d-girone-f-il-teramo-allunga-pari-ancona-e-laquila/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630712",
+  "fx": "Forsempronese 1949 SD ARL v AC Foligno 1928",
+  "sport": "football",
+  "absences": "Fossombrone suspensions (Fabbri, Giometti) reported for R12 only; nothing confirmed for R13",
+  "context": "Girone F R13. Foligno 3rd-ish (23 pts after R12) chasing top; Forsempronese leaky at home (2.75 ga). Board offers 1X2 only.",
+  "news": "No current news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Any result side: no mechanism, coin-flip prices",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://rete8.it/sport/calcio/calcio-serie-d-la-tredicesima-giornata",
+   "https://www.seried.it/2026/11/serie-d-girone-f-il-teramo-allunga-pari-ancona-e-laquila/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630714",
+  "fx": "Giulianova Calcio v Notaresco Calcio",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Abruzzo derby (Giulianova v Notaresco, Teramo province). Girone F R13.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result sides; Under barred",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://rete8.it/sport/calcio/calcio-serie-d-la-tredicesima-giornata",
+   "https://www.seried.it/2026/11/serie-d-girone-f-il-teramo-allunga-pari-ancona-e-laquila/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630710",
+  "fx": "Lanciano FC v Angelana 1930",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone F R13. Lanciano drew 1-1 at Ancona last round (good form signal). Angelana 0W/4L away, 0.25 away gf; lost 0-1 at home to L'Aquila last week.",
+  "news": "Lanciano 1-1 at Ancona in R12 (SerieD.it); no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.7,
+    "p": 0.5475,
+    "why": "Angelana cannot score away (1 goal in 4 away games); Lanciano held leaders-chasing Ancona away. Own est 0.56 vs 0.55 - fill only."
+   }
+  ],
+  "avoid": "Under 2.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://rete8.it/sport/calcio/calcio-serie-d-la-tredicesima-giornata",
+   "https://www.seried.it/2026/11/serie-d-girone-f-il-teramo-allunga-pari-ancona-e-laquila/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630716",
+  "fx": "L’Aquila Calcio 1927 v Maceratese",
+  "sport": "football",
+  "absences": "L'Aquila: Zini suspended, Sforza and Saia unavailable (Rete8)",
+  "context": "Girone F R13; L'Aquila 2nd on 28, one behind Teramo. Three absentees incl. a suspension.",
+  "news": "L'Aquila without Zini (susp), Sforza, Saia.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "L'Aquila 1X2 1.51: three named absences make the short home price fragile",
+  "confidence": 0.2,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://rete8.it/sport/calcio/calcio-serie-d-la-tredicesima-giornata",
+   "https://www.seried.it/2026/11/serie-d-girone-f-il-teramo-allunga-pari-ancona-e-laquila/",
+   "https://rete8.it/sport/calcio/calcio-serie-d-la-tredicesima-giornata"
+  ]
+ },
+ {
+  "eid": "sr:match:73630718",
+  "fx": "SC Trestina v K-Sport Montecchio Gallo",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone F R13; Trestina weak scorers (0.6 gf L10).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://rete8.it/sport/calcio/calcio-serie-d-la-tredicesima-giornata",
+   "https://www.seried.it/2026/11/serie-d-girone-f-il-teramo-allunga-pari-ancona-e-laquila/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630720",
+  "fx": "Teramo Calcio v US Ancona 1905",
+  "sport": "football",
+  "absences": "Teramo: Casciano and Diakite reported unavailable (Rete8, date uncertain); Ancona list (Balestra, Menghi, Messori, Pandolfi) was for R12",
+  "context": "Top-of-table big match: leaders Teramo (29) v Ancona (22). Live on Vivo Azzurro TV / LND YouTube. Ancona games very high-scoring (2.9 gf, 1.8 ga L10).",
+  "news": "Big match of Girone F; Teramo leads by 1 over L'Aquila.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result sides; totals need p>=0.82 (Over 2.5 p 0.49)",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://rete8.it/sport/calcio/calcio-serie-d-la-tredicesima-giornata",
+   "https://www.seried.it/2026/11/serie-d-girone-f-il-teramo-allunga-pari-ancona-e-laquila/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630708",
+  "fx": "Termoli v Polisportiva Pietralunghese",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone F R13; both sides low scoring (0.8/0.7 gf).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 1.58 p0.59 - barred (p<0.82, amateur)",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://rete8.it/sport/calcio/calcio-serie-d-la-tredicesima-giornata",
+   "https://www.seried.it/2026/11/serie-d-girone-f-il-teramo-allunga-pari-ancona-e-laquila/"
+  ]
+ },
+ {
+  "eid": "sr:match:73632856",
+  "fx": "AC Nardo v ASD Real Normanna",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone H R13. Nardò bottom on 8 (-2 penalty). Opponent naming conflict: LND lists 'Puteoli Real Normanna'; Tuttocampo/TuttocalcioCampano pages showed Nardò v Real Aversa (likely stale page). LND (official) agrees with board.",
+  "news": "Nardò bottom with penalty; Real Normanna 4W4D2L L10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - minor source conflict on opponent (official LND matches board, so no veto)",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
+   "https://www.tuttocalciopuglia.com/serie-d/serie-d-girone-h-risultati-classifica-12a-giornata-82953",
+   "https://www.tuttoseried.com/2026/11/20/news/serie-d-il-programma-della-tredicesima-giornata-si-parte-con-tre-anticipi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73632830",
+  "fx": "AS Bisceglie v Real Forio 2014",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone H R13; Bisceglie 15 pts, lost 0-2 at Gravina; Real Forio 12 pts drew 2-2 v Nardò.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Bisceglie 1.74: 3W7L in L10, no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
+   "https://www.tuttocalciopuglia.com/serie-d/serie-d-girone-h-risultati-classifica-12a-giornata-82953"
+  ]
+ },
+ {
+  "eid": "sr:match:73632852",
+  "fx": "AS Melfi 1929 v ASD Gladiator 1924",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone H R13; Melfi won 2-1 at Martina last round; Gladiator 21 pts.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
+   "https://www.tuttocalciopuglia.com/serie-d/serie-d-girone-h-risultati-classifica-12a-giornata-82953"
+  ]
+ },
+ {
+  "eid": "sr:match:73632834",
+  "fx": "ASC Ebolitana 1925 v Turris Calcio",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone H R13; Ebolitana 10 pts (2nd bottom area) v Turris 22 pts. Away fav p 0.54 < 0.75.",
+  "news": "Turris beat Francavilla 1-0 in R12.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Turris away 1X2 (p<0.75 rule)",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
+   "https://www.tuttocalciopuglia.com/serie-d/serie-d-girone-h-risultati-classifica-12a-giornata-82953"
+  ]
+ },
+ {
+  "eid": "sr:match:73632838",
+  "fx": "FC Francavilla 1931 v SS Manfredonia Calcio",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone H R13; Francavilla 8 pts (relegation zone) v Manfredonia 18 pts (lost 1-4 to Palmese).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
+   "https://www.tuttocalciopuglia.com/serie-d/serie-d-girone-h-risultati-classifica-12a-giornata-82953"
+  ]
+ },
+ {
+  "eid": "sr:match:73632842",
+  "fx": "SSD Ischia Calcio v Fidelis Andria",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone H R13; Ischia 10 pts v Fidelis Andria 20 pts (beat Nocerina 1-0).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Andria away p 0.40",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
+   "https://www.tuttocalciopuglia.com/serie-d/serie-d-girone-h-risultati-classifica-12a-giornata-82953"
+  ]
+ },
+ {
+  "eid": "sr:match:73632864",
+  "fx": "US Palmese 1914 v FBC Gravina",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone H R13; Palmese 17 pts (won 4-1 at Manfredonia) v Gravina 2nd on 23.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
+   "https://www.tuttocalciopuglia.com/serie-d/serie-d-girone-h-risultati-classifica-12a-giornata-82953"
+  ]
+ },
+ {
+  "eid": "sr:match:73632248",
+  "fx": "Asd Digiesse Praiatortora v SSD Nissa FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone I R13.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://vibosport.it/serie-d-girone-i-pasqualini-dirige-sambiase-vibonese-tutti-gli-arbitri-della-13a-giornata/",
+   "https://www.tuttoreggina.com/spazio-serie-d/serie-girone-i-programma-tredicesima-giornata-clou-sambiase-vibonese-109466",
+   "https://www.iamcalcio.it/classifiche/28/serie-d-girone-i/"
+  ]
+ },
+ {
+  "eid": "sr:match:73632256",
+  "fx": "ASD Polisportiva Modica Calcio v Calcio Avola 1949",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone I R13; Modica in goal-heavy form (5-3, 0-4, 5-1).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://vibosport.it/serie-d-girone-i-pasqualini-dirige-sambiase-vibonese-tutti-gli-arbitri-della-13a-giornata/",
+   "https://www.tuttoreggina.com/spazio-serie-d/serie-girone-i-programma-tredicesima-giornata-clou-sambiase-vibonese-109466",
+   "https://www.iamcalcio.it/classifiche/28/serie-d-girone-i/"
+  ]
+ },
+ {
+  "eid": "sr:match:73632252",
+  "fx": "Licata 1931 v Vigor Lamezia",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone I R13; Licata lost 4 of last 5 (0-1,0-1,0-4,0-3) - home 1.69 not supported by form; Lamezia 0W/4L away.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Licata 1X2: form contradicts price",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://vibosport.it/serie-d-girone-i-pasqualini-dirige-sambiase-vibonese-tutti-gli-arbitri-della-13a-giornata/",
+   "https://www.tuttoreggina.com/spazio-serie-d/serie-girone-i-programma-tredicesima-giornata-clou-sambiase-vibonese-109466",
+   "https://www.iamcalcio.it/classifiche/28/serie-d-girone-i/"
+  ]
+ },
+ {
+  "eid": "sr:match:73632254",
+  "fx": "SS Milazzo v Trapani Calcio",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone I R13; Trapani carrying 5-pt penalty (Tuttocampo table). Sicilian derby (Messina v Trapani provinces). Trapani drew 3-3 v Athletic Palermo in R12.",
+  "news": "Trapani -5 penalty; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result sides; Under barred",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://vibosport.it/serie-d-girone-i-pasqualini-dirige-sambiase-vibonese-tutti-gli-arbitri-della-13a-giornata/",
+   "https://www.tuttoreggina.com/spazio-serie-d/serie-girone-i-programma-tredicesima-giornata-clou-sambiase-vibonese-109466",
+   "https://www.iamcalcio.it/classifiche/28/serie-d-girone-i/",
+   "https://www.bottadiculo.it/trapani-penalizzato-di-5-punti-la-reggina-arriva-a-capaci-con-un-record-perfetto/"
+  ]
+ },
+ {
+  "eid": "sr:match:73632246",
+  "fx": "Ssd Athletic Club Palermo v Reggina 1914",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone I R13; leaders Reggina (29) after 3-2 v Sambiase; away fav p 0.62 < 0.75. Big club away.",
+  "news": "Reggina top on 29, Athletic Palermo drew 3-3 at Trapani.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reggina away 1X2 (p<0.75; big club)",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://vibosport.it/serie-d-girone-i-pasqualini-dirige-sambiase-vibonese-tutti-gli-arbitri-della-13a-giornata/",
+   "https://www.tuttoreggina.com/spazio-serie-d/serie-girone-i-programma-tredicesima-giornata-clou-sambiase-vibonese-109466",
+   "https://www.iamcalcio.it/classifiche/28/serie-d-girone-i/"
+  ]
+ },
+ {
+  "eid": "sr:match:73294114",
+  "fx": "SEF Torres Sassari v Spezia Calcio",
+  "sport": "football",
+  "absences": "Torres: Mastinu (vertebrae fracture), Di Stefano (hamstring), Sorrentino. Spezia: Bright, Limonelli, Kalaj, Florenzi (long-term) out; Bastoni, Capolupo, Fontanarosa doubtful",
+  "context": "Serie C B R15, 14:30 CET Vanni Sanna. Leaders Spezia (38, 9W1D L10, 4/4 away wins, 0.25 ga away) v 3rd-placed Torres (25; unbeaten at home 4W1D, 0.4 ga at home). Torres concede little at home.",
+  "news": "Both sides have 3-4 absences; Spezia also has three doubts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.2,
+    "p": 0.7992,
+    "why": "Torres unbeaten at home (4W1D, 0.4 ga); a 3-goal Spezia win is needed to lose it, and 2-0 is a refund. Spezia attack thinned (Bright, Kalaj out, Bastoni doubt). Own est win-or-push 0.86 vs house 0.80."
+   }
+  ],
+  "avoid": "Spezia 1X2 (p 0.58 away < 0.75); Under 3.5 (p 0.68)",
+  "confidence": 0.3,
+  "sources": [
+   "https://news.bet365.it/it-it/article/cp-torres-spezia-probabili-formazioni-orario-e-dove-vederla-in-tv-e-streaming/2026111715092568548",
+   "https://www.agimeg.it/torres-spezia-serie-c-2026-pronostico/",
+   "https://www.calciotorres.it/"
+  ]
+ },
+ {
+  "eid": "sr:match:73294104",
+  "fx": "US Livorno 1915 v Ravenna FC 1913",
+  "sport": "football",
+  "absences": "Livorno: GK Martinez and Andrea Bacciardi doubtful (muscle issue v Reggiana); no new suspensions on 17 Nov",
+  "context": "Serie C B R15, 14:30 CET Picchi. Ravenna 2nd (32, 10 wins in 14) v Livorno (21; 2W5D3L L10).",
+  "news": "Ravenna in strong form; Livorno with keeper doubt.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.35,
+    "p": 0.7001,
+    "why": "Ravenna 7W in L10 incl. 3 away wins; Livorno 2 wins in 10 and possible GK change (Martinez doubt). Draw refunds. Own est 0.72 vs house 0.70."
+   }
+  ],
+  "avoid": "Over 1.5 (Serie C B average < 2.7 rule even though fixture totals are high)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.agimeg.it/livorno-ravenna-serie-c-2026-pronostico/",
+   "https://www.goal.com/it/notizie/guarda-livorno-contro-ravenna-in-diretta-oggi-chi-trasmette-la-partita-in-tv-e-in-live-streaming/bltc821cdcea48030a6"
+  ]
+ },
+ {
+  "eid": "sr:match:73294108",
+  "fx": "US Pianese v AS Gubbio",
+  "sport": "football",
+  "absences": "Gubbio: Carraro, Cesari, La Mantia, Di Noia injured; Meconi suspended (5 out). Pianese: none reported",
+  "context": "Serie C B R15 relegation six-pointer, 14:30 CET Piancastagnaio: Pianese 16th (13) six unbeaten v Gubbio 17th (11), 0W/5L away (2.2 ga away).",
+  "news": "Gubbio without five incl. La Mantia; Pianese coach Zanchetta stresses six-game unbeaten run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.25,
+    "p": 0.7531,
+    "why": "Named mechanism: Gubbio missing 5 (4 inj + Meconi susp) and lost all 5 away games; Pianese unbeaten in 6. Own est 0.80 vs house 0.75."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.43,
+    "p": 0.6585,
+    "why": "Same absences; draw refunds. Own est 0.70 vs 0.66. Correlated with the 1X pick - use one per slip."
+   }
+  ],
+  "avoid": "Over 2.5 (Pianese 0-0 x3 in last 6)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.grossetosport.com/2026/11/21/la-pianese-ospita-il-gubbio-per-ripartire-zanchetta-ai-ragazzi-chiedo-di-giocarla-con-il-massimo-della-grinta-e-della-cattiveria/",
+   "https://www.tuttoc.com/girone-b/pianese-zanchetta-gubbio-ottimi-valori-uniti-unico-obiettivo-449568",
+   "https://www.calciosi.it/pianese-vs-gubbio-1910-22-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630722",
+  "fx": "FC Vigor Senigallia v US Recanatese",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone F R13, 15:00 CET (matches board 14:00 UTC). Vigor Senigallia 22 pts but poor home (1W in 4, 2.0 ga); Recanatese 1W in 10.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Senigallia 1.62: home form contradicts price",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-13a-giornata/",
+   "https://rete8.it/sport/calcio/calcio-serie-d-la-tredicesima-giornata",
+   "https://www.seried.it/2026/11/serie-d-girone-f-il-teramo-allunga-pari-ancona-e-laquila/"
+  ]
+ },
+ {
+  "eid": "sr:match:73632860",
+  "fx": "ASD Nocerina 1910 v Virtus Francavilla Calcio",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone H R13, 15:00 CET per Tuttocampo (board 14:00 UTC consistent). Leaders Virtus Francavilla (27) lost 1-2 at home to Real Aversa; Nocerina 13 pts, lost 5 straight.",
+  "news": "Virtus Francavilla still top despite home loss; Nocerina lost 0-1 at Andria.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Virtus away p 0.36",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
+   "https://www.tuttocalciopuglia.com/serie-d/serie-d-girone-h-risultati-classifica-12a-giornata-82953",
+   "https://www.tuttocampo.it/Italia/SerieD/GironeH/Risultati"
+  ]
+ },
+ {
+  "eid": "sr:match:73632258",
+  "fx": "AS Sambiase v US Vibonese Calcio",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone I R13 big match / Calabrian derby, 15:00 CET (board 14:00 UTC consistent; one source said 15:30 Saturday - outlier). Vibonese 2nd (27), Sambiase 3rd (26), Sambiase 5/5 home wins.",
+  "news": "Clou of the round per TuttoReggina; referee Pasqualini.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://vibosport.it/serie-d-girone-i-pasqualini-dirige-sambiase-vibonese-tutti-gli-arbitri-della-13a-giornata/",
+   "https://www.tuttoreggina.com/spazio-serie-d/serie-girone-i-programma-tredicesima-giornata-clou-sambiase-vibonese-109466",
+   "https://www.iamcalcio.it/classifiche/28/serie-d-girone-i/"
+  ]
+ },
+ {
+  "eid": "sr:match:73632244",
+  "fx": "Gela v Igea Virtus Barcellona",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone I R13, 16:00 CET per Vibo Sport/TuttoReggina (= board 15:00 UTC); one Igea page shows 14:30 (minor, likely stale). Sicilian derby.",
+  "news": "Kick-off 16:00 confirmed by two sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby; minor kick-off discrepancy",
+  "confidence": 0.1,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://vibosport.it/serie-d-girone-i-pasqualini-dirige-sambiase-vibonese-tutti-gli-arbitri-della-13a-giornata/",
+   "https://www.tuttoreggina.com/spazio-serie-d/serie-girone-i-programma-tredicesima-giornata-clou-sambiase-vibonese-109466",
+   "https://www.iamcalcio.it/classifiche/28/serie-d-girone-i/"
+  ]
+ },
+ {
+  "eid": "sr:match:73632846",
+  "fx": "ASD Martina Calcio 1947 v Brindisi FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Girone H R13 Apulian derby, 17:00 CET at Tursi (= board 16:00 UTC; OneFootball shows 14:30 - outlier). Both on 22 pts in playoff race; Martina lost 1-2 to Melfi, Brindisi drew 1-1 v Ischia.",
+  "news": "Derby on 22 pts each; Martina coach Laterza wants return to winning.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://lnd.it/seried/campionato-la-guida-completa-alla-13a-giornata/",
+   "https://trnews.it/2026/11/15/serie-d-girone-h-12a-giornata-risultati-e-classifica",
+   "https://www.tuttocalciopuglia.com/serie-d/serie-d-girone-h-risultati-classifica-12a-giornata-82953",
+   "https://www.seried.it/2026/11/serie-d-girone-h-martina-brindisi-sfida-dalta-quota/",
+   "https://www.tuttocalciopuglia.com/serie-d/martina-laterza-carica-ambiente-vista-brindisi-derby-bello-giocare-vogliamo-tornare-vittoria-83056"
+  ]
+ },
+ {
+  "eid": "sr:match:73294100",
+  "fx": "Forli FC v Reggiana 1919",
+  "sport": "football",
+  "absences": "Reggiana: Rozzio, Castagnetti, Sipos, Rover, Vallarelli unavailable; Perini and Tordiglione also out (7). Forlì: none reported",
+  "context": "Serie C B R15, 17:30 CET. Forlì (15) under coach Lamberto Zauli, unbeaten at home (1W3D, 0.5 ga). Reggiana (21; Tesser) 1W/4L away.",
+  "news": "Reggiana travel with 22 but seven absent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.24,
+    "p": 0.7763,
+    "why": "Seven Reggiana absences + Reggiana 4 away defeats in 5; Forlì concede 0.5/home game and are unbeaten at home. Loses only to a 2+ Reggiana win; 1-goal loss refunds. Own est 0.82 vs house 0.78."
+   }
+  ],
+  "avoid": "Reggiana 1X2",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.tuttoreggiana.com/news/420740500998/probabili-formazioni-forli-reggiana-tuttoreggiana",
+   "https://sport.quotidiano.net/locale/calcio/serie-c-forli-primo-duro-3d563929",
+   "https://www.classificadi.it/partita/serie-c-girone-b"
+  ]
+ },
+ {
+  "eid": "sr:match:73294112",
+  "fx": "US Sambenedettese v Perugia Calcio Spa",
+  "sport": "football",
+  "absences": "Perugia: Kabashi and Quirini suspended, Riccardi injured, Papazov not recovered; coach Diana reportedly suspended (conflicting). Samb: Camigliano injured",
+  "context": "Serie C B R15, 17:30 CET Riviera delle Palme. Both clubs in ownership crisis; Samb lost 3 straight; Perugia 17 pts.",
+  "news": "Perugia depleted (2 susp, 2 inj); Samb in losing run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Both sides weakened in opposite directions - no edge; Over 1.5 barred by league-average rule",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.calciogrifo.it/2026/11/22/sambenedettese-perugia-le-probabili-formazioni-torna-vergani-si-candida-van-amersfoort/",
+   "https://www.perugiatoday.it/sport/calcio/serie-c-sambenedettese-perugia-22-11-2026-probabili-formazioni-dove-seguire-sfida-diretta.html"
+  ]
+ }
+]
