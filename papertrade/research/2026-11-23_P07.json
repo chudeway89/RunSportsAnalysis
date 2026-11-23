@@ -1,0 +1,506 @@
+[
+ {
+  "eid": "sr:match:73326512",
+  "fx": "AL Jabalain FC U21 v AL Kholood U21",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "Saudi U21 Elite League; youth side - no picks by rule. Home 3W6D1L, away side 1W4L away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets (U21)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72936134",
+  "fx": "Asteras Tripolis v Aris Thessaloniki",
+  "sport": "football",
+  "absences": "Asteras: Dimitris Kourbelis, Julian Bartolo out; Nikos Kaltsas out of squad; Franz Bronson back from suspension. Aris: none reported.",
+  "context": "Greek Super League. Asteras 1 home win in 6 (gf 0.83); Aris poor away (1W in 5). FotMob page shows a Nov 21 listing (stale/injury data from Sep-Oct) vs board Nov 23 15:00 - most sources give Nov 23.",
+  "news": "Asteras without Kourbelis and Bartolo vs Aris; low-scoring profile on both sides",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 p0.81 below 0.82 gate; Aris away result-side (p<0.75, poor away form)",
+  "confidence": 0.2,
+  "sources": [
+   "https://gazzetta.gr/football/superleague/2588825/asteras-tripolis-horis-koyrmpeli-kai-mpartolo-kontra-ston-ari",
+   "https://www.fotmob.com/matches/aris-thessaloniki-fc-vs-asteras-tripolis/1tccefm"
+  ]
+ },
+ {
+  "eid": "sr:match:73930278",
+  "fx": "Maccabi Haifa v Maccabi Petah Tikva",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "Israel U19; Haifa unbeaten in 10 (gf 3.2), Petah Tikva 9W in 10 - top clash, not a mismatch. Youth - no picks.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets (U19, no mismatch)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76998834",
+  "fx": "Bahla Club v Samail SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Oman Professional League round 7/8 at Nizwa Sports Complex. Bahla won last three league games (Forebet); Samail 0 away wins in 4 (ga 2.25), last match 1-2 loss to Al-Shabab Oct 23 and has a postponed round-7 game. KO times on sites (YSScores 07:00 US display, Forebet 16:00 CET) both reconcile to 15:00 UTC - no conflict.",
+  "news": "Bahla on 3-win run, Samail winless away",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.21,
+    "p": 0.7765122124,
+    "why": "Bahla 3 straight league wins, Samail 0W in 4 away and rusty after postponement; est p 0.79 vs house 0.78. Gulf league - thin, keep as fill."
+   }
+  ],
+  "avoid": "Overs (Gulf thin-league class); home 1X2 at p0.51",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.forebet.com/en/oman/professional-league",
+   "https://www.ysscores.com/en/match/6325283/Bahla-Club-vs-Samail-SC",
+   "https://www.aiscore.com/team-smail/oj7x9iw9pxir7g3"
+  ]
+ },
+ {
+  "eid": "sr:match:73206592",
+  "fx": "Jeddah Club v Damac FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Saudi First Division round 12. Damac (relegated from Pro League) 5th, form D W W W L, coach Abderrazek Chebbi; Jeddah 12th-13th, 1 win in last 10 (gf 0.6), last game 1-1 v Al Zulfi, coach Ian Foster. Venue differs across listings (King Abdullah Sports City vs Alinma Stadium - both in Jeddah, same city, KO 15:15 UTC agreed).",
+  "news": "Damac chasing promotion vs low-scoring Jeddah",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.26,
+    "p": 0.750023,
+    "why": "Damac promotion chasers (5th, 3 wins in last 5) vs Jeddah 1W in 10 scoring 0.6/g; DNB removes the draw; est p 0.76 vs 0.75."
+   }
+  ],
+  "avoid": "Away 1X2 (p0.55<0.75); Overs (Gulf thin)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/football/team/jeddah-club/265323",
+   "https://www.365scores.com/football/league/first-division-5502/standings",
+   "https://www.footaz.net/match/jeddah-club-vs-damac/"
+  ]
+ },
+ {
+  "eid": "sr:match:73835898",
+  "fx": "Al Ain FC v Esteghlal FC Tehran",
+  "sport": "football",
+  "absences": "Esteghlal: no injury/suspension report found. Al Ain expected XI: Khalid Eisa; Rafa Rodriguez, Rami Rabia, Benkhalek, Scocco; Traore, Palacios, Kaku, Lazaro; Laba, Rahimi (Voice of Emirates).",
+  "context": "ACL Elite league stage MD5 (not knockout) at Hazza bin Zayed. Al Ain 4/4 wins in ACLE, top of West; Esteghlal 3W1L, 5th in Iran league, mixed domestic form. AFC lists 20:00 local = 16:00 UTC, matches board.",
+  "news": "Al Ain perfect 4/4 in ACLE at home vs Esteghlal",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.48,
+    "p": 0.651324,
+    "why": "Al Ain 4 from 4 in ACLE incl. 4-1 home win, strong home attack (2.0 gf); est p 0.67 vs 0.65."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.7694493327,
+    "why": "Al Ain home games avg 3.75 goals; Al Ain score 1.9/g; est p 0.79 vs 0.77."
+   }
+  ],
+  "avoid": "Esteghlal-side catches; Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/preview-al-ain-fc-uae-v-esteghlal-fc-irn",
+   "https://www.voiceofemirates.com/en/emirates/2026/11/23/al-ains-expected-lineup-against-esteghlal-tehran-in-the-afc-champions-league-elite/",
+   "https://thesportsencounter.com/2026/10/12/al-ain-air-force-4-1-esteghlal-al-gharafa-2-1-afc-elite-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76412122",
+  "fx": "FC Koper v Aluminij Kidricevo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Slovenian PrvaLiga MD16 at Bonifika, 16:30 (Footaz/FootyStats). Sofascore stale page shows Nov 21 - treated as stale, majority agree Nov 23. Koper beat Aluminij 1-0 (Aug 2026) and 4-2 away (Mar 2026); Koper home gf 2.6, Aluminij 1W in 6 away.",
+  "news": "Koper strong at home, beat Aluminij twice in 2026",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.787795,
+    "why": "Koper 3W1D1L at home scoring 2.6/g, beat Aluminij in last two meetings; DNB est p 0.80 vs 0.79."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.803306,
+    "why": "Koper home games avg 3.4 goals, Aluminij away games 3.2; est p 0.82 vs 0.80."
+   }
+  ],
+  "avoid": "Unders; Aluminij catches",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footaz.net/match/aluminij-vs-koper/",
+   "https://footystats.org/slovenia/nk-aluminij-vs-fc-koper-h2h-stats",
+   "https://cornerflick.com/football/prvaliga/matches/aluminij-vs-koper-prvaliga-2026-08-28"
+  ]
+ },
+ {
+  "eid": "sr:match:72961104",
+  "fx": "Bayern Munich W v TSG Hoffenheim W",
+  "sport": "football",
+  "absences": "none found (women)",
+  "context": "Frauen-Bundesliga MD11 Monday game, SPORT1 free-TV 17:45 CET (KO ~16:45-17:00 UTC; board 17:00 UTC consistent with 18:00 CET start). Leaders Bayern vs 7th Hoffenheim. Women - goals only in clear mismatch; Over 3.5 p0.62 too thin.",
+  "news": "Leaders Bayern host Hoffenheim, Monday SPORT1 game",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result markets (women); Over 3.5 only p0.62",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sport1.de/news/fussball/frauen-bundesliga/2026/11/frauen-bundesliga-live-im-free-tv-und-livestream-montagsspiel-bei-sport1"
+  ]
+ },
+ {
+  "eid": "sr:match:72735926",
+  "fx": "Bodrum FK v Van Spor FK",
+  "sport": "football",
+  "absences": "Bodrum: striker Vincent Aboubakar suspended (red card, appeal rejected by TFF arbitration Nov 20); Boran, Kerem, Ahmet, Celal injured. Returning: Furkan, Devrim, Kenan. Vanspor: no news found.",
+  "context": "TFF 1. Lig, 20:00 local (17:00 UTC) at Bodrum Ilce Stadi. Vanspor can climb 5 places with a win.",
+  "news": "Bodrum without suspended Aboubakar and four injured players",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Bodrum home side (top scorer out, house p0.42 likely overstated); Vanspor DC at p0.58 too thin",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.haberler.com/spor/bodrum-fk-yarin-cezali-aboubakar-dan-yoksun-arti-20450712-haberi/",
+   "https://www.egetelgraf.com/bodrum-fk-sahasinda-kazanmak-istiyor-vanspor-maci-oncesi-son-durum",
+   "https://www.bolgegazetesivan.com/vanspor-icin-kritik-deplasman-galibiyetle-5-basamak-yukselebilir"
+  ]
+ },
+ {
+  "eid": "sr:match:73267018",
+  "fx": "Futsal Club Veszprem v Hope Futsal",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Hungarian futsal NB I; only 1X2 listed, Veszprem home 1.05 (below range). Veszprem 6/6 home wins.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (only sub-1.18 price)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76437400",
+  "fx": "Futsal Minerva v FC Stalitsa Minsk",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "UEFA Futsal CL round of 16 FIRST LEG (2nd legs 4-5 Dec), UEFA lists 18:30 CET = 17:30 UTC. Minerva was in Barca main-round group.",
+  "news": "R16 first leg, two-legged tie",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Stalitsa away 1X2 p0.53 (<0.75, knockout)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.uefa.com/uefafutsalchampionsleague/news/02ab-21fda70543af-5d88c0509234-1000--uefa-futsal-champions-league-round-of-16-starts-monday/"
+  ]
+ },
+ {
+  "eid": "sr:match:76437412",
+  "fx": "Kauno Zalgiris v SL Benfica",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "UEFA Futsal CL round of 16 first leg; UEFA 19:00 CET = 18:00 UTC matches board. Benfica 1.09 below range.",
+  "news": "R16 first leg, two-legged tie",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (Benfica price below 1.18; knockout first leg)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.uefa.com/uefafutsalchampionsleague/news/02ab-21fda70543af-5d88c0509234-1000--uefa-futsal-champions-league-round-of-16-starts-monday/"
+  ]
+ },
+ {
+  "eid": "sr:match:73835914",
+  "fx": "Al Quwa Al Jawiya v Al Gharafa SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "ACL Elite league stage MD5 (not knockout). Al Gharafa (coach Pedro Martins) last with 0 points from 4, weakest defence in competition; Al Quwa Al Jawiya 3 pts, coach Rashid Jaber. KO 6:15pm UK = 18:15 UTC matches; venue reported as Basra International (goal.com: venue unconfirmed) - no date conflict.",
+  "news": "Al Gharafa pointless with weakest defence; Air Force at home",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.26,
+    "p": 0.7625869016,
+    "why": "Gharafa conceded 4 straight ACLE defeats incl. 1-4 at Al Ain, last-10 ga 2.0; Air Force last-10 games avg 2.5 goals; est p 0.79 vs 0.76."
+   }
+  ],
+  "avoid": "result-sides (p0.39/0.33, coin-flip)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.ysscores.com/en/news/14103224/al-quwa-al-jawiya-on-a-mission-to-grab-three-points-against-al-gharafa-in-afc-champions-league-elite",
+   "https://www.thestatszone.com/al-quwa-al-jawiya-vs-al-gharafa-preview-prediction-2026-27-afc-champions-league-elite-league-stage-240887",
+   "https://www.goal.com/en-in/news/live-stream-online-tv-where-to-watch-al-quwa-al-jawiya-v-al-gharafa/blt2d0eac8aefc41cb2"
+  ]
+ },
+ {
+  "eid": "sr:match:72044828",
+  "fx": "Jong PSV Eindhoven v Jong FC Utrecht",
+  "sport": "football",
+  "absences": "none found (reserve sides)",
+  "context": "Eerste Divisie, KNVB lists 20:00 CET (19:00 UTC), ESPN 3. Jong PSV 17 pts, Jong Utrecht 19th 14 pts. Reserve sides, not a mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve sides, no mismatch; Over 1.5 at 1.09 too short)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.knvb.nl/competities/keuken-kampioen-divisie/programma"
+  ]
+ },
+ {
+  "eid": "sr:match:76708934",
+  "fx": "Vitesse Arnhem v De Graafschap",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Gelderland DERBY, rescheduled: original date (Nov 8) was abandoned after De Graafschap fans blocked their own team bus protesting an away-fan ban; KNVB referred to disciplinary bodies (possible point deduction). Now confirmed for Nov 23 20:00 CET on Vitesse site and ESPN, played without De Graafschap fans. Teams level on 18 pts.",
+  "news": "Rescheduled derby after fan blockade, KNVB sanctions pending",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (derby); Over 1.5 at 1.17 below range",
+  "confidence": 0.15,
+  "sources": [
+   "https://nos.nl/artikel/2638547-boze-fans-de-graafschap-blokkeren-eigen-spelersbus-duel-bij-vitesse-gaat-niet-door",
+   "https://www.gld.nl/sport/8544682/vitesse-de-graafschap-afgelast-knvb-noemt-actie-de-graafschap-supporters-onacceptabel",
+   "https://www.fcupdate.nl/voetbalteams/nederland/vitesse/programma-uitslagen"
+  ]
+ },
+ {
+  "eid": "sr:match:72491462",
+  "fx": "RCD Espanyol Barcelona v Valencia CF",
+  "sport": "football",
+  "absences": "Espanyol: Anna Torroda injured. Valencia: Gema Climent suspended.",
+  "context": "Liga F MD12, 20:00 CET at Ciudad Deportiva Dani Jarque (Futbolred lists 14:00, outlier; majority 20:00). Espanyol 7th 15 pts, knocked out of Copa by 4th-tier side; Valencia last on 7 pts but 3 unbeaten. Women - no picks.",
+  "news": "Espanyol 7th vs bottom Valencia unbeaten in 3",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women, no mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.vavel.com/es/futbol/2026/11/22/futbol-femenino/1280363-el-espanyol-recibe-a-un-valencia-resurgido.html",
+   "https://news.bet365.es/es-es/article/liga-f-espanyol-vs-valencia-alineaciones-estadisticas-horario-donde-ver/2026112308245118739"
+  ]
+ },
+ {
+  "eid": "sr:match:76437404",
+  "fx": "Mnk Olmissum v FC Barcelona",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "UEFA Futsal CL round of 16 first leg, 20:00 CET = 19:00 UTC. Barca 1.02 below range.",
+  "news": "R16 first leg",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (price below range)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.uefa.com/uefafutsalchampionsleague/news/02ab-21fda70543af-5d88c0509234-1000--uefa-futsal-champions-league-round-of-16-starts-monday/"
+  ]
+ },
+ {
+  "eid": "sr:match:75009686",
+  "fx": "Sochaux-Montbeliard v USL Dunkerque",
+  "sport": "football",
+  "absences": "none found beyond probable XI (Jeannin; N'Gatta, Peybernes, Gomis, Tavares; Bayanginisa, Masson, Lobry; Deedson, Djoco, Clairicia)",
+  "context": "Ligue 2 MD13, 20:45 Paris. Sochaux 4 straight league defeats, relegation zone (16th-17th, 11 pts), league-worst attack (8 goals), coach Vincent Hognon under pressure - must-win. Dunkerque 10th, won 3-0 at Guingamp. Sochaux kept 5 clean sheets in 6 L2 meetings with Dunkerque.",
+  "news": "Struggling Sochaux (4 losses) host Dunkerque fresh from 3-0 away win",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: must-win host with worst attack vs in-form visitor; Under 3.5 p0.71 below gate",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ici.fr/bourgogne-franche-comte/doubs-25/sochaux/ligue-2-sochaux-determine-a-sortir-de-l-orniere-contre-dunkerque-4321383?at_locale=56",
+   "https://www.usldunkerque.com/fcsmusld-lavant-match-en-5-points/",
+   "https://www.befoot.net/sochaux-dunkerque-compos-probables-chaine-tv-heure/"
+  ]
+ },
+ {
+  "eid": "sr:match:72524036",
+  "fx": "US Orleans v Thionville US Lusitanos",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Ligue 3 MD13, moved from Sat Nov 21 to Mon Nov 23 20:45 Paris (19:45 UTC, matches board; footballstreams still shows the old Nov 21 date). Orleans 14th 11 pts, 0 home wins in 4 (home gf 0.25), 4 draws in last 5; Thionville 13th 16 pts.",
+  "news": "Postponed-to-Monday game; Orleans winless at home",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Orleans home win (p0.50, 0W at home); draw-heavy home side",
+  "confidence": 0.15,
+  "sources": [
+   "https://news.footeo.com/2026/11/23/orleans-thionville-a-quelle-heure-et-sur-quelle-chaine-voir-le-match-de-ligue-3-18351",
+   "https://tv-programme.com/football-ligue-3-sport/orleans-thionville-e1179723"
+  ]
+ },
+ {
+  "eid": "sr:match:73293364",
+  "fx": "Calcio Lecco 1912 v AC Lumezzane",
+  "sport": "football",
+  "absences": "Lecco: possible attacking emergency (TuttoC: Arena, Capello, Casarotto out) vs Resegone listing Arena/Casarotto as starters - unresolved. Lumezzane: none reported.",
+  "context": "Serie C Girone A MD15, 20:45 CET at Rigamonti-Ceppi. Lecco 7th 21 pts, unbeaten at home this season, 7 straight unbeaten in league; Lumezzane 12th 16 pts.",
+  "news": "Lecco unbeaten at home, 7 games without defeat",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.7782088839,
+    "why": "Lecco unbeaten at home (1W4D in Sportradar home sample, unbeaten all season per Giornale di Brescia) and 7 straight unbeaten; Lumezzane 2W in 5 away; est p 0.80 vs 0.78."
+   }
+  ],
+  "avoid": "Lecco win (attacking absences possible, many home draws); Overs",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.giornaledibrescia.it/sport/calcio/serie-c-lecco-lumezzane-presentazione-fg17a4th",
+   "https://www.resegoneonline.it/serie-c-il-lecco-cerca-lottavo-risultato-utile-consecutivo-lunedi-al-rigamonti-ceppi-arriva-il-lumezzane/40931/",
+   "https://www.tuttoc.com/girone-a/lecco-lumezzane-emergenza-offensiva-valente-probabili-formazioni-449705"
+  ]
+ },
+ {
+  "eid": "sr:match:72478714",
+  "fx": "Levante v Elche CF",
+  "sport": "football",
+  "absences": "Elche: Marc Aguado (ankle) out; Yago Santiago and Adam Boayar likely out; Lemar and Buba Sangare fit again. Levante: no absentees; Manu Sanchez, Mathew Ryan, Ivan Romero available. Ali Houary doubtful.",
+  "context": "LaLiga relegation six-pointer: Levante 18th 11 pts, Elche 19th 10 pts. Elche strong away recently (3W2D in 5 away, ga 0.6). Levante reportedly unbeaten at home v Elche for 44 years. One source gives 14:00 local KO vs majority 21:00 CET (board 20:00 UTC) - minor outlier.",
+  "news": "Bottom-three six-pointer; Elche without Aguado",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (tight relegation clash); Overs (cagey six-pointer)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.whoscored.com/articles/PhJN3JDKKUOfOMKOJIiHRA/show/cng111-20261123-levante-vs-elche-prediction-1795435546",
+   "https://dailysports.net/predictions/levante-have-not-lost-to-elche-at-home-in-44-years-will-the-streak-end-in-a-relegation-battle-levante-vs-elche-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:73038666",
+  "fx": "CS 2 de Mayo v Sportivo San Lorenzo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Paraguay Clausura round 20 at Rio Parapiti, Pedro Juan Caballero, 18:00 local = 21:00 UTC. San Lorenzo already mathematically relegated but picking up surprise wins; 2 de Mayo 6th, 5 games without a win, lost 0-3 last time, home gf 0.5. 2 de Mayo won reverse 2-1.",
+  "news": "Winless 2 de Mayo host already-relegated San Lorenzo",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "2 de Mayo home win (fragile favourite: 5 winless, 0.6 gf); dead-rubber visitor",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.abc.com.py/deportes/futbol/2026/11/23/2-de-mayo-vs-san-lorenzo-el-gallo-recibe-en-la-terraza-a-un-descendido-rival/",
+   "https://1000noticias.com.py/2026/11/23/2-de-mayo-recibira-en-el-norte-a-san-lorenzo/"
+  ]
+ },
+ {
+  "eid": "sr:match:72962364",
+  "fx": "Santa Clara v Maritimo Madeira",
+  "sport": "football",
+  "absences": "unknown (U23)",
+  "context": "Portugal Liga Revelacao U23. Sportytrader lists 23 Nov 15:00 (timezone not given) vs board 21:00 UTC - kick-off conflict unresolved.",
+  "news": "no news found; kick-off time conflict",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: Sportytrader 15:00 vs board 21:00 UTC; youth fixture",
+  "picks": [],
+  "avoid": "all (U23)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sportytrader.com/en/results-live/football/portugal/u23-championship-86835/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114710578",
+  "fx": "Penarol Montevideo v Montevideo Wanderers",
+  "sport": "football",
+  "absences": "unknown (reserves)",
+  "context": "Uruguay Tercera Division (reserves). No sportradar form data. Reserve sides - no picks.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserves)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74695548",
+  "fx": "Tru-Juice FC v Dunbeholden FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Jamaica Premier League at Anthony Spaulding Sports Complex, 5:00-5:05pm local (22:00-22:05 UTC, matches board). Tru-Juice league leaders on 23 pts, 5 straight wins; Dunbeholden 12th, 1W 6L, 0 away wins in last 5 scoring 0.2/g away.",
+  "news": "Leaders Tru-Juice (5 straight wins) host bottom-half Dunbeholden",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.44,
+    "p": 0.658351,
+    "why": "Leaders on 5-win run, 7W in last 10 conceding 0.4/g; Dunbeholden 0W in 5 away scoring 0.2/g; est p 0.70 vs 0.66."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Home (0)",
+    "odds": 1.18,
+    "p": 0.81656,
+    "why": "Same mechanism with draw refunded; est p 0.84 vs 0.82."
+   }
+  ],
+  "avoid": "Overs above 1.5 (Tru-Juice wins often 1-0/2-0); Dunbeholden to score",
+  "confidence": 0.3,
+  "sources": [
+   "https://jamaica-gleaner.com/article/sports/20261122/mobay-waterhouse-chase-new-leaders",
+   "https://www.jamaicaobserver.com/2026/11/22/top-teams-clash-mbu-host-waterhouse-jpl/",
+   "https://www.forebet.com/en/predictions-jamaica/premier-league"
+  ]
+ }
+]
