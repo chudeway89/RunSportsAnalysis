@@ -1,0 +1,456 @@
+[
+ {
+  "eid": "sr:match:73712686",
+  "fx": "Dinamo Astrakhan v Muor Akademiya Moscow",
+  "sport": "handball",
+  "absences": "none reported",
+  "context": "Superliga R12, 17:30 MSK (=14:30 UTC, matches board). MUOR-Akademiya is an academy/reserve-type development side; Astrakhan won 37-33 at Kaustik last time out but home form 2-0-2.",
+  "news": "Schedule confirmed, no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 1.34 (p 0.70): result-side v an academy side, house fair; Under 60.5 trend 0.70 but p 0.50 (not >=0.82)",
+  "confidence": 0.15,
+  "sources": [
+   "https://tvmag.ru/article/sport/2026-11-22-gandbol-superliga-na-kanalakh-trikolor-sport/",
+   "https://kushvsporte.ru/event/7100551-dinamo-astrahan-muor-akademiya"
+  ]
+ },
+ {
+  "eid": "sr:match:74232068",
+  "fx": "HC Lokomotiv Orsha v HC Aviator Baranovichi",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Extraliga, 17:55 Minsk (=14:55 UTC, matches). Orsha 2-0-8 last 10, lost H2H 1-3; FHB calendar has venue Orsha. Tribuna headline may already carry results for this round (check before use).",
+  "news": "Bookmakers' preview only; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away winner 1.64 p0.56 below away threshold",
+  "confidence": 0.15,
+  "sources": [
+   "https://belarushockey.com/rb/news/2026/11/23/bukmekery-nazvali-favoritov-v-matchah-23-nojabrja/",
+   "https://by.tribuna.com/hockey/1113097688-ekstraliga-lakamatyu-supracz-aviyatara-magilyou-zgulyae-sa/",
+   "https://hockey.by/calendar/"
+  ]
+ },
+ {
+  "eid": "sr:match:73115014",
+  "fx": "Diomidis Argous v Aris Nikaias",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "Handball Premier R9; date moved from 21/11 to 23/11, 17:00 local at Nea Kios (=15:00 UTC, matches board; Nea Kios is Diomidis' home area). Diomidis 5th (10 pts), win run ended 24-31 at PAOK; Aris Nikaias 10th of 10ish with 3 pts, 1-1-8 last 10, 24.4 GF.",
+  "news": "Diomidis 5th after loss at PAOK; Aris Nikaias near bottom with 3 pts",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "60",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.7911365039,
+    "why": "Mechanism: Aris Nikaias bottom (3 pts, 24.4 goals/game, 1-1-8) v 5th-placed Diomidis who average 32.6 at home; first-half lead needs ~+1 at 30'. Own p 0.80."
+   }
+  ],
+  "avoid": "Handicaps -6.5 / -3.5 coin flips",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.anagnostis.org/2026/11/16/telos-sto-nikiforo-seri-tou-diomidi-argous-me-itta-31-24-apo-ton-paok/",
+   "https://www.handball.org.gr/handball-premier/5515-handball-premier-2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:73712682",
+  "fx": "Sgau-Saratov v Chekhovskie Medvedi",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "Superliga R12, Saratov 18:00 MSK (=15:00 UTC, matches). Chekhovskie Medvedi 8-1-2 in table, won all 10 H2H v SGAU; SGAU 9th with 7 pts, but home 1-3-0 (draw-prone, 25:25 avg).",
+  "news": "Medvedi 10/10 H2H v SGAU; SGAU 9th",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "60",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.23,
+    "p": 0.766920493,
+    "why": "Mechanism: 10/10 H2H wins and +3.0 goal/game form edge for Medvedi; SGAU home draws (3 of 4) are the risk. Own p 0.78."
+   }
+  ],
+  "avoid": "Under 1H/FT lines: p ~0.5; SGAU home games low-scoring but not >=0.82",
+  "confidence": 0.3,
+  "sources": [
+   "https://vprognoze.ru/topforecast/8256804-sgau-saratov-chehovskie-medvedi-2026-11-23.html",
+   "https://tvmag.ru/article/sport/2026-11-22-gandbol-superliga-na-kanalakh-trikolor-sport/"
+  ]
+ },
+ {
+  "eid": "sr:match:73712680",
+  "fx": "HC Kaustik Volgograd v HC CSKA Moscow",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "Superliga R12, Volgograd 18:30 MSK (=15:30 UTC, matches). Kaustik 2-0-9, five straight losses incl 33-37 home v Astrakhan, 0-5 at home; CSKA reigning champions, 9-0-1 last 10 but away margin only +1.25.",
+  "news": "Kaustik lost five in a row; CSKA champions",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away -7.5 (p 0.52): CSKA away margins small (H2H 38-35); no in-band edge",
+  "confidence": 0.2,
+  "sources": [
+   "https://kushvsporte.ru/event/7100707-kaustik-cska-moskva",
+   "https://tvmag.ru/article/sport/2026-11-22-gandbol-superliga-na-kanalakh-trikolor-sport/"
+  ]
+ },
+ {
+  "eid": "sr:match:74232066",
+  "fx": "HK Mogilev v Slavutych Smolensk",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Extraliga 18:30 Minsk (=15:30 UTC). Slavutych 2nd in table, won last 5 H2H incl 6-0; Mogilev 1-0-4 at home. Tribuna headline suggests Slavutych won big (unverified).",
+  "news": "Slavutych heavy favourite; won last 5 H2H",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 1.28 p0.734 < 0.75 away threshold; -2.5 coin flip",
+  "confidence": 0.2,
+  "sources": [
+   "https://belarushockey.com/rb/news/2026/11/23/bukmekery-nazvali-favoritov-v-matchah-23-nojabrja/",
+   "https://by.tribuna.com/hockey/1113097688-ekstraliga-lakamatyu-supracz-aviyatara-magilyou-zgulyae-sa/",
+   "https://hockey.by/calendar/"
+  ]
+ },
+ {
+  "eid": "sr:match:74232070",
+  "fx": "Khimik-Ska v Yunost Minsk",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Extraliga 18:30 Minsk at Novopolotsk. Both poor (Khimik 2-0-8, Yunost 3-0-7, Yunost away 2-0-5). Tribuna headline mentions Yunost win on shootout (unverified).",
+  "news": "Bookmakers' preview only",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets near 50/50",
+  "confidence": 0.1,
+  "sources": [
+   "https://belarushockey.com/rb/news/2026/11/23/bukmekery-nazvali-favoritov-v-matchah-23-nojabrja/",
+   "https://by.tribuna.com/hockey/1113097688-ekstraliga-lakamatyu-supracz-aviyatara-magilyou-zgulyae-sa/"
+  ]
+ },
+ {
+  "eid": "sr:match:74326968",
+  "fx": "Khimik Voskresensk v Biryusa Krasnoyarsk",
+  "sport": "ice hockey",
+  "absences": "women's side, not researched",
+  "context": "Women's hockey (ZhHL).",
+  "news": "Kick-off conflict: r-hockey shows 22:00, prediction sites 18:30, and stavka.tv also has a 24 Nov page for the same fixture",
+  "veto": true,
+  "veto_reason": "women's fixture plus date/time conflict between sources (23 v 24 Nov)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://stavka.tv/matches/ice-hockey/24-11-2026-khimik-voskresensk-biryusa-krasnoyarsk-w-",
+   "https://r-hockey.ru/stat/center/2026-11-23"
+  ]
+ },
+ {
+  "eid": "sr:match:73708574",
+  "fx": "Ska-Vmf v HC Yugra Khanty-Mansiysk",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "VHL, 19:00 MSK (=16:00 UTC, matches). Yugra 8th (35 pts after 26) ends a road trip on three straight wins; SKA-VMF lost last two but strong at home defensively (0.83 GA/home game).",
+  "news": "Yugra 3 straight away wins; SKA-VMF lost 2 in a row",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "GG Yes 1.27 p0.76: SKA-VMF home GA 0.83 makes it no better than house; Under 5.5 p0.77 < 0.82; Yugra +1.5 catch v home p 0.56 favourite",
+  "confidence": 0.15,
+  "sources": [
+   "https://72hockey.ru/yugra-zavershit-vyezdnuyu-seriyu-matchem-protiv-ska-vmf/",
+   "https://sportandbets.com/prognozy-na-hokkey/vkhl/ska-vmf-yugra-prognoz-2026-11-23.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72674864",
+  "fx": "Su Lavovi v Radnicki",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "ARKUS Superliga; Lavovi low in table (4 pts in older snapshot), Radnicki 5; Lavovi home 4-0-1.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All coin flips",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.arkus-liga.rs/ekipeview.php?id=2"
+  ]
+ },
+ {
+  "eid": "sr:match:73892872",
+  "fx": "Maccabi Petah Tikva v AK Ness Ziona",
+  "sport": "handball",
+  "absences": "women's side, not researched",
+  "context": "Israel women's league R8, 19:00 local (=17:00 UTC) at Meiri hall, Petah Tikva per IHA schedule; no conflict.",
+  "news": "Schedule confirmed by IHA",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://handballisr.co.il/"
+  ]
+ },
+ {
+  "eid": "sr:match:72231690",
+  "fx": "WKS Slask Wroclaw v KPR Legionowo",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "Orlen Superliga R10, Monday 18:00 local (=17:00 UTC, matches). Slask 10th (7 pts), three straight losses; Legionowo 7th (14 pts), H2H 5-2 but Slask won the last meeting 28-27.",
+  "news": "Slask lost 3 in a row; Legionowo 7th",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 1.54 p0.61 < 0.75; DC Draw/Away 1.27 p0.71 has no named mechanism beyond form",
+  "confidence": 0.15,
+  "sources": [
+   "https://orlen-superliga.pl/kto-rzadzi-na-pomorzu-10-seria-lotto-superligi-z-derbami-i-meczem-o-pierwsze-punkty/"
+  ]
+ },
+ {
+  "eid": "sr:match:72674858",
+  "fx": "RK Dinamo Pancevo v RK Metaloplastika",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "ARKUS Superliga, league site lists 23.11 18:00 local (=17:00 UTC, matches). Dinamo 5-0-0 at home (+10.8 avg) and ~3rd; Metaloplastika near top too (4-1-1 away).",
+  "news": "Dinamo strong at home; Metaloplastika also top-4",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.33 p0.71: Metaloplastika is a credible top side, no edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.arkus-liga.rs/ekipeview.php?id=2",
+   "https://scores24.live/en/handball/m-21-11-2026-dinamo-pancevo-rk-metaloplastika-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72120216",
+  "fx": "HC Kometa Brno v HC Motor Ceske Budejovice",
+  "sport": "ice hockey",
+  "absences": "youth (U20), not researched",
+  "context": "Czech junior extraliga; Kometa site lists home v Motor 23.11 18:00 local (=17:00 UTC), no conflict.",
+  "news": "Fixture confirmed by club",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth fixture: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hc-kometa.cz/clanek.asp?id=16691"
+  ]
+ },
+ {
+  "eid": "sr:match:75953652",
+  "fx": "HC Dukla Jihlava v HC Slavia Prague",
+  "sport": "ice hockey",
+  "absences": "youth (U20), not researched",
+  "context": "Czech junior extraliga; Dukla's academy page shows other dates and no 23.11 Dukla-Slavia game was found (new eventId, possibly a rescheduled game).",
+  "news": "Fixture not confirmed by club sources",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth fixture: no picks; date unconfirmed",
+  "confidence": 0.1,
+  "sources": [
+   "https://akademie.hcdukla.cz/"
+  ]
+ },
+ {
+  "eid": "sr:match:72888046",
+  "fx": "GF Kroppskultur v HK Varberg",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "Allsvenskan (Swedish 2nd tier), Agnebergshallen 19:00 local (=18:00 UTC, matches). Varberg favourite; Kroppskultur won the last meeting 31-29 (Jan 2026).",
+  "news": "Schedule confirmed by HK Varberg",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1.42 p0.66 < 0.75",
+  "confidence": 0.1,
+  "sources": [
+   "https://hkvarberg.myclub.se/menu/pages/28091"
+  ]
+ },
+ {
+  "eid": "sr:match:73873306",
+  "fx": "United Hradec Kralove v Academy Plzen",
+  "sport": "ice hockey",
+  "absences": "amateur university league, not researched",
+  "context": "Czech university league; no 23.11 fixture found in search (unconfirmed, not contradicted).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hokej.cz/klub/vste-black-dogs-budweis/2717/zapasy"
+  ]
+ },
+ {
+  "eid": "sr:match:72473886",
+  "fx": "TSV Bayer Dormagen v Dessau-Rosslauer HV 06",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "2. HBL MD12, Mo 23.11 19:30 at TSV Bayer Sportcenter (=18:30 UTC, matches). Dormagen 3-0-1 at home; Dessau 0-0-4 away conceding 37.8; Dormagen won the last two meetings 32-31 (a) and 42-35 (h). Both mid-table (11 pts in an older preview).",
+  "news": "Dormagen won last two meetings, 42-35 at home in May",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.26,
+    "p": 0.7124780497,
+    "why": "Mechanism: Dessau 0-4 on the road conceding 37.8/game and lost the last two meetings; Dormagen 3-1 at home. Own p 0.74."
+   }
+  ],
+  "avoid": "Totals ~50/50",
+  "confidence": 0.25,
+  "sources": [
+   "https://handballpapst.de/2-bundesliga-maenner/heimspiel-am-montag-dormagen-empfaengt-dessau/",
+   "https://www.sport.de/handball/deutschland-2-hbl/ma11407025/tsv-bayer-dormagen_dessau-rosslauer-hv-2006/liveticker/"
+  ]
+ },
+ {
+  "eid": "sr:match:73873308",
+  "fx": "Black Dogs Budweis v Vse Falcons Prague",
+  "sport": "ice hockey",
+  "absences": "amateur university league, not researched",
+  "context": "Czech university league; Black Dogs page lists a November Falcons game at 19:30 local (=18:30 UTC) but the date is not readable.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hokej.cz/klub/vste-black-dogs-budweis/2717/zapasy"
+  ]
+ },
+ {
+  "eid": "sr:match:73892878",
+  "fx": "Hapoel Kiryat - Ono v Hapoel Rishon Letzion",
+  "sport": "handball",
+  "absences": "women's side, not researched",
+  "context": "Israel women's league; IHA search showed only Petah Tikva-Ness Ziona on 23.11 (not contradicted, just unconfirmed).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://handballisr.co.il/"
+  ]
+ },
+ {
+  "eid": "sr:match:73892870",
+  "fx": "Maccabi Tel Aviv v HC Holon",
+  "sport": "handball",
+  "absences": "women's side, not researched",
+  "context": "Israel women's league; not confirmed on IHA schedule search.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://handballisr.co.il/"
+  ]
+ },
+ {
+  "eid": "sr:match:76546580",
+  "fx": "Handbol Club Eivissa v Cisne BM",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "Division de Honor Plata J9, 20:00 local (=19:00 UTC, matches). Cisne won the last known meeting 31-20 (Feb 2025).",
+  "news": "Only a betting listing confirms the time",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.62 p0.57 no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://betmaster.com.mx/es-mx/sportsbook/sports/handball/match/5823331"
+  ]
+ },
+ {
+  "eid": "sr:match:76437406",
+  "fx": "Murcia FS v Anderlecht Futsal",
+  "sport": "futsal",
+  "absences": "ElPozo: none, all 14 available (coach Josan Gonzalez); Anderlecht: none reported (ex-ElPozo Grello in squad)",
+  "context": "UEFA Futsal CL Round of 16 FIRST LEG (two-legged knockout, return 4 Dec in Belgium). Palacio de los Deportes, 20:30 local (=19:30 UTC, matches). Murcia two-time runners-up; Anderlecht 2023 finalists.",
+  "news": "No absences on either side; first leg of R16",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout: no result-side (Home 1.80 p0.52)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.murcianoticias.es/futbol-sala/elpozo-murcia-anderlecht-hoy-hora-donde-ver-entradas-champions-23-noviembre/",
+   "https://www.ceroacero.es/partido/2026-11-23-elpozo-murcia-costa-calida-anderlecht/12824885",
+   "https://www.uefa.com/uefafutsalchampionsleague/news/02ab-21fda70543af-5d88c0509234-1000--uefa-futsal-champions-league-round-of-16-starts-23-november/"
+  ]
+ },
+ {
+  "eid": "sr:match:72629740",
+  "fx": "Palma Futsal v Inter FS",
+  "sport": "futsal",
+  "absences": "no news found",
+  "context": "Liga Prime (Primera FS) Apertura R9, Son Moix 20:30 local (=19:30 UTC, matches). Palma leads with 24/24 pts but returns tired from the Intercontinental Cup in Brazil (lost the final 4-5); Inter 4th with four straight wins. Big-club clash.",
+  "news": "Palma 8/8 but fatigued after Intercontinental final; Inter four straight wins",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=5.5",
+    "desc": "Over 5.5",
+    "odds": 1.55,
+    "p": 0.599829,
+    "why": "Mechanism: Palma's last 6 games all had 6+ goals (avg 8.75 at home); Inter in form and attacking; fatigue tends to open games, not close them. Own p 0.66."
+   }
+  ],
+  "avoid": "Home 1.40: big-club clash plus Palma fatigue",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.palmafutsal.com/regreso-a-la-liga-lunes-2030-horas/",
+   "https://rfef.es/es/competiciones/primera-division-fs"
+  ]
+ },
+ {
+  "eid": "sr:match:76437398",
+  "fx": "L84 v Hit Kyiv",
+  "sport": "futsal",
+  "absences": "no news found",
+  "context": "UEFA Futsal CL Round of 16 first leg; debutants L84 Torino conceded only 1 in the main round; HIT Kyiv lost narrowly to Palma in R16 last year. Return leg 4 Dec.",
+  "news": "Venue/time conflict: UEFA PT page lists the first leg as HIT Kyiv - L84 Torino at 17h00, while the board and UEFA EN have L84 at home",
+  "veto": true,
+  "veto_reason": "venue/kick-off conflict between UEFA pages (home side and time differ); also a knockout",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.uefa.com/uefafutsalchampionsleague/news/02ab-21fda70543af-5d88c0509234-1000--uefa-futsal-champions-league-round-of-16-starts-23-november/",
+   "https://pt.uefa.com/uefafutsalchampionsleague/news/02ab-21fdc9d2eb9c-25e58f9ba857-1000--oitavos-de-final-da-uefa-futsal-champions-league-arrancam-a/",
+   "https://www.futsalnow.it/2026/11/23/uefa-futsal-champions-league-l84-torino-appuntamenti-con-la-storia-ottavi-in-diretta-su-futsal-tv-il-programma-completo/"
+  ]
+ }
+]
