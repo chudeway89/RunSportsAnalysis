@@ -1,0 +1,269 @@
+[
+ {
+  "eid": "sr:match:73463716",
+  "fx": "El Gouna FC v Zamalek SC",
+  "sport": "football",
+  "absences": "Zamalek: no named absences found; reports of a worsening financial crisis (unpaid players). El Gouna: none found.",
+  "context": "Round 9. El Gouna bottom of the table and still without a league win; Zamalek 3rd, chasing 2nd. Khaled Bichara Stadium, 17:00 Egypt time = 15:00 UTC (consistent). Zamalek won 12 of 21 H2H meetings.",
+  "news": "Bottom and winless Gouna host 3rd-placed Zamalek; Zamalek pay-crisis noise; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.3,
+    "p": 0.7412244098,
+    "why": "Mechanism: Gouna winless, bottom, 1W in last 10 (scoring 0.8 a game); Zamalek 7W in last 10 and 3-0-1 away, conceding 0.25. The draw is the main risk on a thin Egyptian pitch, and DNB refunds it. Own p for no Gouna win ~0.76."
+   }
+  ],
+  "avoid": "Over 1.5 / any Over (Egypt is a thin-scoring league, banned class); away 1X2 at p 0.54 (<0.75); Under 3.5 at 1.17 (below the price floor).",
+  "confidence": 0.3,
+  "sources": [
+   "https://africasoccer.com/zamalek-target-second-place-against-bottom-side-gouna-in-egyptian-premier-league/",
+   "https://www.ysscores.com/en/news/14102747/zamalek-conclude-preparations-today-for-el-gouna-clash",
+   "https://africasoccer.com/zamalek-to-face-el-gouna-on-23-november-as-egyptian-premier-league-resumes/"
+  ]
+ },
+ {
+  "eid": "sr:match:71998278",
+  "fx": "Ludogorets v FC Dunav Ruse",
+  "sport": "football",
+  "absences": "No current injury news found for either side.",
+  "context": "Round 15, Huvepharma Arena, Razgrad. Ludogorets 3rd, Dunav 10th. Kick-off 18:00 local = 16:00 UTC (club site, FotMob, Sofascore). Ludogorets have no midweek European game found; next match is away at Botev Vratsa on Nov 28, so no congestion.",
+  "news": "Routine home game for Ludogorets against mid-table Dunav; no team news. One aggregator archive (tips.gg) shows Nov 21 11:00, contradicted by the club's official site.",
+  "veto": false,
+  "veto_reason": "tips.gg date outlier noted, but the official club site, FotMob, Sofascore and Footaz all agree on Nov 23 16:00 UTC, so not treated as a real conflict.",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.7670272488,
+    "why": "Mechanism: Ludogorets home form 3W 2D, scoring 3.0 a game, with recent 5-0, 5-0, 3-0, 3-0 results; Dunav concede 1.6 away. No rotation pressure (no midweek game). Own p ~0.78."
+   }
+  ],
+  "avoid": "Ludogorets -1.5 at p 0.66 (mid-band); Over 3.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://ludogorets.com/en",
+   "https://www.fotmob.com/teams/210173/overview/ludogorets-razgrad",
+   "https://www.sofascore.com/football/team/ludogorets/43840",
+   "https://tips.gg/archive/fc-dunav-ruse-football-vs-ludogorets-razgrad-football/"
+  ]
+ },
+ {
+  "eid": "sr:match:73160476",
+  "fx": "Krasava ENY Ypsonas FC v Anorthosis Famagusta",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Matchweek 10. Ypsonas lost 3-1 to AEL in their last game; Anorthosis 0-5-0 in their last 5 away. Sources disagree on venue: Ammochostos Stadium (Anorthosis' ground) vs Stelios Chari Stadium, Ypsonas. They also disagree on date and kick-off: scores24 and footballstreams give 21-11-2026; others give 17:00, 19:00 or 12:00 local.",
+  "news": "No team news; date and venue conflicts between sources.",
+  "veto": true,
+  "veto_reason": "Date conflict (21 Nov vs 23 Nov) and venue conflict (Ammochostos vs Ypsonas) between sources.",
+  "picks": [],
+  "avoid": "Everything: veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fotmob.com/matches/anorthosis-vs-krasava-ypsonas-fc/7gp3idar",
+   "https://scores24.live/en/soccer/m-21-11-2026-ypsonas-anorthosis-famagusta-prediction",
+   "https://www.footballstreams.com/matches/ypsonas-fc-vs-anorthosis-famagusta-fc-20261121/",
+   "https://www.sportytrader.com/en/results-live/ypsonas-fc-anorthosis-famagusta-8680370/"
+  ]
+ },
+ {
+  "eid": "sr:match:71925104",
+  "fx": "Broendby IF v FC Midtjylland",
+  "sport": "football",
+  "absences": "No confirmed team news found; FotMob shows only a predicted Br\u00f8ndby 4-3-3.",
+  "context": "Round 15, Br\u00f8ndby Stadion, 18:00 UTC (ESPN's 1 PM matches in US Eastern time, so no conflict). Big-club clash: Br\u00f8ndby 4th v Midtjylland. Midtjylland won the last two meetings 4-1 (Sep 2026) and 3-2 (May 2026), and Br\u00f8ndby lost 4 of the last 6 meetings. Possible European midweek for Midtjylland, unconfirmed.",
+  "news": "Top-four clash; recent H2H high-scoring (4-1, 3-2); no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.54,
+    "p": 0.619363,
+    "why": "Mechanism: fixture-specific H2H (last two meetings 5 goals each), both sides' last-10 matches average ~3.2-3.5 goals, and Midtjylland concede 1.8 a game. Danish Unders are over-rated by the house (UBIAS). p is mid-band, so this is fill. Own p ~0.64."
+   }
+  ],
+  "avoid": "Any result-side (big-club clash); integer Over 2/3.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/football/match/fc-midtjylland-brondby-if/GAsOA",
+   "https://www.forebet.com/en/football/matches/br%C3%B8ndby-midtjylland-2469586",
+   "https://www.fotmob.com/matches/fc-midtjylland-vs-brondby-if/2b40n1",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Danish_Superliga"
+  ]
+ },
+ {
+  "eid": "sr:match:73463718",
+  "fx": "AL Ahly SC (EGY) v Pyramids FC",
+  "sport": "football",
+  "absences": "Al Ahly: eight unavailable (four not fully fit, four left out for technical reasons); Emam Ashour returns after missing 4 games. Pyramids: none reported; Mokwena may play an attacking trio of Mostafa Fathi, Nasser Maher and Mostafa Zico.",
+  "context": "Round 9 title six-pointer: leaders Pyramids (24 pts from 8) v Al Ahly (20). Coach Hussein Ammouta is under pressure. Al Ahly have not beaten Pyramids in the league since July 2024. 20:00 local = 18:00 UTC; 'Cairo International Stadium' and 'Cairo Stadium' name the same ground.",
+  "news": "Title clash, Pyramids top and unbeaten-form; Al Ahly missing 8 but Ashour back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.37,
+    "p": 0.693524,
+    "why": "Mechanism: Pyramids won all 10 of their last 10 (scoring 2.8 a game, 2.0 away) and are unbeaten v Al Ahly in the league since Jul 2024, with an attacking trio planned; Al Ahly are without 8 players. Own p ~0.72. Note: away team-to-score is a weak class in cores."
+   }
+  ],
+  "avoid": "Any result-side or AH catch (big-club clash); Unders (p<0.82); Over 1.5 (Egypt is a thin league).",
+  "confidence": 0.2,
+  "sources": [
+   "https://africasoccer.com/al-ahly-missing-eight-players-for-egyptian-premier-league-clash-with-pyramids/",
+   "https://www.ysscores.com/en/news/14102514/emam-ashour-returns-al-ahlys-squad-for-pyramids-match-in-egyptian-league",
+   "https://africasoccer.com/rulani-mokwena-plans-attacking-trio-as-pyramids-prepare-for-al-ahly-showdown/",
+   "https://www.world-today-news.com/al-ahly-host-league-leaders-pyramids-fc-in-egyptian-premier-league-match/",
+   "https://africasoccer.com/al-ahly-target-first-victory-over-pyramids-in-two-years/"
+  ]
+ },
+ {
+  "eid": "sr:match:75449102",
+  "fx": "Cdt Real Oruro v Guabira Montero",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Fecha 26 at Estadio Jes\u00fas Berm\u00fadez, Oruro (~3,700 m altitude). Guabir\u00e1 8th (33 pts), Real Oruro 9th (31); both are chasing an international place. 15:00 local = 19:00 UTC (consistent).",
+  "news": "Both teams in the race for an international spot; Guabir\u00e1 under pressure away at altitude.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.749499,
+    "why": "Mechanism: altitude plus Guabir\u00e1's 0W/4L away run in their last 4 (conceding 3.0); Real Oruro unbeaten at home (3W 2D, conceding 0.6). DNB refunds the draw. Own p ~0.77."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.33,
+    "p": 0.7177284105,
+    "why": "Altitude venue; Guabir\u00e1 concede 3.0 a game away, and Real Oruro's recent results include 3-1, 4-0, 1-5. Own p ~0.72 (= house), so this is fill."
+   }
+  ],
+  "avoid": "Away side; Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://diez.bo/futbol/guabira-visita-a-real-oruro-con-la-mision-de-defender-su-lugar-en-zona-internacional_1795437023",
+   "https://lapatria.bo/deportes/futbol/cdt-real-oruro-juega-parte-chance-frente-guabira/",
+   "https://www.vision360.bo/noticias/2026/11/23/78393-en-oruro-sigue-la-pelea-por-un-premio-internacional-en-el-valle-la-lucha-por-no-descender"
+  ]
+ },
+ {
+  "eid": "sr:match:72221396",
+  "fx": "Brentford v Everton",
+  "sport": "football",
+  "absences": "Brentford: Igor Thiago SUSPENDED (3-match ban for his red card at Brighton; the appeal failed); Nathan Collins (knee, ~2 weeks) and Aaron Hickey (thigh/hamstring) out after international duty; Rico Henry and Kaye Furo out; Josh Dasilva and Antoni Milambo still recovering; F\u00e1bio Carvalho doubtful. Everton: no new injuries; Jack Grealish's status conflicts (back in contention vs an internal suspension).",
+  "context": "Monday-night Premier League game after the international break, Gtech Community Stadium, 20:00 GMT (consistent). Coach Keith Andrews. Post-break round.",
+  "news": "Brentford without top scorer Thiago (banned) and centre-backs Collins/Hickey; Everton fully fit apart from Grealish's uncertain status.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.23,
+    "p": 0.7911911611,
+    "why": "Mechanism: Brentford lose their striker Igor Thiago to a ban, which blunts their ceiling; Everton have no new absences and 5W in last 10 (conceding 1.0). Brentford's p is only 0.42, so the +1.5 catch rule does not apply. Own p ~0.82."
+   }
+  ],
+  "avoid": "Brentford result-side (main striker banned); Unders (p<0.82); integer lines.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.brentfordfc.com/en/news/first-team-brentford-v-everton-team-news-aaron-hickey-nathan-collins-injury-update",
+   "https://www.sportsmole.co.uk/football/brentford/injury-news/news/andrews-confirms-double-brentford-injury-blow-ahead-of-everton-meeting_609532.html",
+   "https://sports.yahoo.com/articles/brentford-vs-everton-team-news-123000572.html",
+   "https://www.brentfordfc.com/en/news/match-previews-brentford-v-everton-premier-league-23-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73204194",
+  "fx": "Real San Joaquin v Atletico Colina",
+  "sport": "football",
+  "absences": "None found.",
+  "context": "Relegation-stage (Fase 2) Fecha 13. Sofascore and 365Scores give Nov 23 21:00 UTC at Estadio Municipal de La Pintana; TheSportsDB gives Nov 22 at Estadio Municipal de Rengo. Teams 5th-7th in the group.",
+  "news": "No team news; date and venue conflict between sources.",
+  "veto": true,
+  "veto_reason": "Date conflict (22 vs 23 Nov) and venue conflict (La Pintana vs Rengo).",
+  "picks": [],
+  "avoid": "Everything: veto. Also a thin Chilean third-level league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/real-san-joaquin-atletico-colina/GWzcstDod",
+   "https://www.thesportsdb.com/event/2545905-real-san-joaqu%C3%ADn-vs-atl%C3%A9tico-colina",
+   "https://www.365scores.com/es/football/match/segunda-division-5652/deportes-colina-real-san-joaquin-56357-69469-5652"
+  ]
+ },
+ {
+  "eid": "sr:match:75449104",
+  "fx": "FC Universitario de Vinto v GV Club Deportivo San Jose de Oruro",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Relegation battle in Cochabamba, 17:15 local = 21:15 UTC (consistent). GV San Jos\u00e9 on 20 points, under heavy relegation pressure after a 3-1 loss to Real Oruro; Vinto also fighting to stay up. Must-win for both.",
+  "news": "Relegation six-pointer; San Jos\u00e9 in deep trouble.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.781979,
+    "why": "Mechanism: San Jos\u00e9 lost all 5 of their last 5 away (scoring 0.8); Vinto 3W in 5 at home (2.0 scored). DNB covers the draw in a nervy six-pointer. Own p ~0.78."
+   }
+  ],
+  "avoid": "Over 1.5 at 1.15 (below the price floor); away side.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.vision360.bo/noticias/2026/11/23/78393-en-oruro-sigue-la-pelea-por-un-premio-internacional-en-el-valle-la-lucha-por-no-descender",
+   "https://www.365scores.com/football/match/division-profesional-5055/gv-san-jose-universitario-de-vinto-49843-74521-5055",
+   "https://lapatria.bo/deportes/futbol/cdt-real-oruro-pone-conflictos-gv-san-jose/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887190",
+  "fx": "SC Internacional RS v EC Vitoria BA",
+  "sport": "football",
+  "absences": "Inter: Alan Patrick SUSPENDED (yellow cards); Alexandro Bernabei out (right-knee sprain); reports say Inter lose 'two top scorers' for the match. Marip\u00e1n returns from suspension; Thiago Maia (thigh) and Matheus Bahia return to the squad. Vit\u00f3ria: right-back Mateus Silva SUSPENDED; Luan C\u00e2ndido and Nacho return; 7 players on two yellows.",
+  "context": "Round 36 relegation six-pointer at Beira-Rio, 19:30 Bras\u00edlia = 22:30 UTC (consistent). Inter 17th (38 pts) v Vit\u00f3ria (41 pts). Must-win for Inter.",
+  "news": "Relegation six-pointer; Inter without Alan Patrick and a second top scorer; Vit\u00f3ria without Mateus Silva.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7689089581,
+    "why": "Mechanism: must-win home game for 17th-placed Inter (3W/4 at home); Vit\u00f3ria winless in their last 4 away (0W 2D 2L). Inter's attacking losses (Alan Patrick suspended) cap the confidence. Own p ~0.75 (near house)."
+   }
+  ],
+  "avoid": "Overs (Inter attack depleted, relegation tension); Unders (p<0.82); AH -1.",
+  "confidence": 0.2,
+  "sources": [
+   "https://atarde.com.br/esportes/ecvitoria/internacional-perde-artilheiros-para-confronto-direto-com-o-vitoria-1410342",
+   "https://www.bnews.com.br/noticias/esporte/internacional-x-vitoria-onde-assistir-arbitragem-e-provaveis-escalacoes-da-36-rodada-do-brasileirao.html",
+   "https://www.gazetaesportiva.com/times/internacional/internacional-x-vitoria-pelo-brasileirao-onde-assistir-estatisticas-historico-e-provaveis-escalacoes/",
+   "https://n1n.com.br/esportes/120243/internacional-perde-dois-artilheiros-para-enfrentar-o-vitoria-pelo-brasileirao/"
+  ]
+ }
+]
