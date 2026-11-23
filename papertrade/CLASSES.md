@@ -1,24 +1,24 @@
 # Leg-class scorecard (auto)
 
-From `papertrade/legs.jsonl` (3002 unique legs). Expected = house probability at first sighting. A class whose actual win rate sits well below expected over 30+ decided legs is a candidate pick.py gate.
+From `papertrade/legs.jsonl` (3015 unique legs). Expected = house probability at first sighting. A class whose actual win rate sits well below expected over 30+ decided legs is a candidate pick.py gate.
 
 | Class | Split | Decided | W | L | V | Win % | Expected % | Gap (pp) |
 |---|---|---|---|---|---|---|---|---|
-| Over | all | 605 | 432 | 173 | 5 | 71 | 59 | +13 |
-| Over | weekend | 331 | 245 | 86 | 2 | 74 | 60 | +14 |
-| Over | weekday | 274 | 187 | 87 | 3 | 68 | 57 | +11 |
-| bball AH catch +2+ | all | 177 | 114 | 63 | 0 | 64 | 60 | +4 |
+| Over | all | 608 | 435 | 173 | 5 | 72 | 59 | +13 |
+| Over | weekend | 332 | 246 | 86 | 2 | 74 | 60 | +14 |
+| Over | weekday | 276 | 189 | 87 | 3 | 68 | 58 | +11 |
+| bball AH catch +2+ | all | 178 | 115 | 63 | 0 | 65 | 60 | +4 |
 | Under | all | 167 | 118 | 49 | 0 | 71 | 80 | -9 |
 | Over integer | all | 157 | 99 | 58 | 59 | 63 | 56 | +7 |
 | AH catch +1.5 | all | 148 | 107 | 41 | 0 | 72 | 65 | +7 |
 | team Over | all | 147 | 106 | 41 | 1 | 72 | 52 | +20 |
 | AH catch +0.5-1 | all | 140 | 104 | 36 | 14 | 74 | 68 | +6 |
-| 1X2 Home | all | 115 | 93 | 22 | 0 | 81 | 75 | +6 |
-| Double Chance | all | 110 | 83 | 27 | 1 | 75 | 75 | +1 |
-| bball AH catch +2+ | weekday | 93 | 58 | 35 | 0 | 62 | 58 | +4 |
+| 1X2 Home | all | 116 | 94 | 22 | 0 | 81 | 75 | +6 |
+| Double Chance | all | 111 | 84 | 27 | 1 | 76 | 75 | +1 |
+| bball AH catch +2+ | weekday | 94 | 59 | 35 | 0 | 63 | 59 | +4 |
 | Under | weekday | 88 | 61 | 27 | 0 | 69 | 80 | -11 |
 | AH catch +1.5 | weekend | 87 | 64 | 23 | 0 | 74 | 64 | +9 |
-| DNB | all | 84 | 66 | 18 | 35 | 79 | 78 | +0 |
+| DNB | all | 86 | 68 | 18 | 35 | 79 | 79 | +0 |
 | bball AH catch +2+ | weekend | 84 | 56 | 28 | 0 | 67 | 62 | +4 |
 | team Over | weekend | 84 | 61 | 23 | 0 | 73 | 52 | +20 |
 | Over integer | weekend | 82 | 58 | 24 | 34 | 71 | 60 | +11 |
@@ -26,27 +26,27 @@ From `papertrade/legs.jsonl` (3002 unique legs). Expected = house probability at
 | AH catch +0.5-1 | weekend | 77 | 52 | 25 | 7 | 68 | 67 | +1 |
 | Double Chance | weekday | 75 | 60 | 15 | 1 | 80 | 78 | +2 |
 | Over integer | weekday | 75 | 41 | 34 | 25 | 55 | 53 | +2 |
+| 1X2 Home | weekend | 70 | 57 | 13 | 0 | 81 | 74 | +7 |
 | bball ML | all | 70 | 48 | 22 | 0 | 69 | 74 | -5 |
-| 1X2 Home | weekend | 69 | 56 | 13 | 0 | 81 | 74 | +7 |
 | Under (bball) | all | 68 | 48 | 20 | 0 | 71 | 60 | +11 |
 | AH catch +0.5-1 | weekday | 63 | 52 | 11 | 7 | 83 | 70 | +13 |
 | team Over | weekday | 63 | 45 | 18 | 1 | 71 | 52 | +20 |
 | AH catch +1.5 | weekday | 61 | 43 | 18 | 0 | 70 | 67 | +4 |
 | GG/BTTS | all | 58 | 37 | 21 | 0 | 64 | 71 | -7 |
-| Over (bball) | all | 54 | 43 | 11 | 0 | 80 | 71 | +9 |
+| Over (bball) | all | 55 | 44 | 11 | 0 | 80 | 72 | +8 |
 | corners | all | 53 | 37 | 16 | 0 | 70 | 62 | +7 |
+| DNB | weekend | 50 | 40 | 10 | 16 | 80 | 85 | -5 |
 | AH catch +2+ | all | 49 | 39 | 10 | 7 | 80 | 68 | +11 |
-| DNB | weekend | 49 | 39 | 10 | 16 | 80 | 85 | -6 |
 | other m858 | all | 48 | 33 | 15 | 1 | 69 | 73 | -4 |
 | Goal Bounds | all | 47 | 31 | 16 | 0 | 66 | 64 | +2 |
 | 1X2 Home | weekday | 46 | 37 | 9 | 0 | 80 | 76 | +4 |
 | Under (bball) | weekend | 44 | 30 | 14 | 0 | 68 | 57 | +11 |
-| Over (bball) | weekend | 41 | 34 | 7 | 0 | 83 | 73 | +10 |
+| Over (bball) | weekend | 42 | 35 | 7 | 0 | 83 | 74 | +10 |
 | other m59 | all | 41 | 27 | 14 | 2 | 66 | 72 | -6 |
 | bball ML | weekend | 38 | 27 | 11 | 0 | 71 | 75 | -4 |
+| DNB | weekday | 36 | 28 | 8 | 19 | 78 | 70 | +8 |
+| Double Chance | weekend | 36 | 24 | 12 | 0 | 67 | 68 | -2 |
 | corners | weekend | 36 | 27 | 9 | 0 | 75 | 63 | +12 |
-| DNB | weekday | 35 | 27 | 8 | 19 | 77 | 69 | +8 |
-| Double Chance | weekend | 35 | 23 | 12 | 0 | 66 | 68 | -2 |
 | other m29 | all | 35 | 19 | 16 | 1 | 54 | 45 | +9 |
 | other m854 | all | 35 | 24 | 11 | 0 | 69 | 74 | -5 |
 | GG/BTTS | weekday | 33 | 19 | 14 | 0 | 58 | 71 | -13 |
