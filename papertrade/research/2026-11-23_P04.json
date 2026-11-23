@@ -1,0 +1,191 @@
+[
+ {
+  "eid": "sr:match:73326520",
+  "fx": "AL Qadisiya v AL Hilal (Ksa)",
+  "sport": "football",
+  "absences": "no news found (U21 side)",
+  "context": "Saudi U21 Elite League round 11; first match at Al-Qadsiah's new Aramco Stadium. Al-Qadsiah U21 12th on 11 pts (3-2-4); Al Hilal U21 near top, 17 pts from 8 (5-2-1, GD +11). Youth fixture.",
+  "news": "Youth (U21) fixture; date 23 Nov 17:00 confirmed by Goal and Sahadan; a garbled Sahadan entry dated 24.11 with 2-0 does not clearly match this fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: U21 youth fixture, not a clear mismatch (Hilal p 0.61); youth Overs are an excluded class.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.goal.com/en/news/in-the-presence-of-al-hilal-the-joy-elite-league-inaugurates-al-qadsiah-s-new-stadium/blt1fb8405288524fb2",
+   "https://www.sahadan.com/en/league/u21-elite-league/1gnrbp9kbxxiit10bv9ocq1hw"
+  ]
+ },
+ {
+  "eid": "sr:match:72723326",
+  "fx": "Istanbul BB v Corum FK",
+  "sport": "football",
+  "absences": "Basaksehir: Yusuf Sari out (knee, until January); Christopher Operi (muscle), Muhammed Sengezer, Abbosbek Fayzullaev doubtful. Corum: Berat Ozdemir out (thigh, until mid-Dec); Fredy doubtful/not in squad (sources differ).",
+  "context": "Super Lig GW12, Mon 23 Nov 20:00 local, Fatih Terim Stadium. Basaksehir 8th, 17 pts, seeking 3rd straight win; Corum (promoted) 10th, 16 pts. Basaksehir home last 5: 3-1-1, 2.8 scored; Corum away last 5: 2.6 scored, 2.0 conceded.",
+  "news": "Basaksehir chase third straight win at home v promoted Corum; Yusuf Sari out, Corum without Berat Ozdemir and probably Fredy.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.55,
+    "p": 0.624,
+    "why": "Basaksehir home 2.8 GF/1.4 GA, Corum away 2.6 GF/2.0 GA; both sides' last 6 show 5-2, 4-0, 0-5, 3-1 type scores. Own p ~0.64."
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.31,
+    "p": 0.73,
+    "why": "Basaksehir on a 2-game win run, home 3-1-1 last 5; Corum missing Berat Ozdemir and likely Fredy. Own p ~0.74."
+   }
+  ],
+  "avoid": "Over 1.5 at 1.17 (below 1.18 floor); integer Over 2/3.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/istanbul-basaksehir/preview/istanbul-vs-orum-belediyespor-prediction-team-news-lineups_609560.html",
+   "https://mynet.com/istanbul-basaksehir-arca-corum-fk-2026-11-23-maci-oncesi-analiz-527188-myspor",
+   "https://birgun.net/haber/basaksehir-corum-fk-karsisinda-ust-uste-ucuncu-galibiyetini-ariyor-747743",
+   "https://www.whoscored.com/matches/1999637/preview/turkey-super-lig-2026-2027-istanbul-basaksehir-corum-fk"
+  ]
+ },
+ {
+  "eid": "sr:match:67126888",
+  "fx": "Hammarby IF v IFK Goteborg",
+  "sport": "football",
+  "absences": "Hammarby: Amin Boudri, Oliver Hagen (injured). Goteborg: Tobias Heintz, Jonas Bager (suspended) plus several injured.",
+  "context": "Allsvenskan round 29, Mon 23 Nov 19:00 CET, 3Arena. Title race: Hammarby 2nd on 58 pts after 28, three behind Sirius (who have played one more) - must-win. Hammarby on 5 straight wins. Reverse fixture 1-0 Hammarby.",
+  "news": "Hammarby must win to stay in the title race (5 straight wins); Goteborg without suspended Heintz and Bager plus injuries.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.822,
+    "why": "Must-win title chase, 5 straight wins, home 4-0-1 last 5 (GA 0.6); Goteborg missing two suspended starters incl. captain-level Bager. Own p ~0.83."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.791,
+    "why": "Hammarby home 2.0 GF last 5, needs goals/wins in title race v weakened Goteborg defence (Bager suspended). Own p ~0.78."
+   }
+  ],
+  "avoid": "Goteborg-to-score markets; -2.5 lines.",
+  "confidence": 0.35,
+  "sources": [
+   "https://allsvenskan.se/matcher/2026/6530054/hammarby-mot-ifk-goteborg",
+   "https://www.tvmatchen.nu/sport/fotboll/hammarby-ifk-goteborg-23-november-2026/",
+   "https://news.bet365.com/sv-sv/article/hammarby-ifk-goteborg-tv-stream-startelvor-statistik-tid/2026112215152978907",
+   "https://www.oddsonline.se/nyheter/allsvenskan-vecka-48-hammarby-kan-na-serieledning/"
+  ]
+ },
+ {
+  "eid": "sr:match:67126892",
+  "fx": "Orgryte IS v Kalmar FF",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Allsvenskan round 29, Mon 23 Nov 19:00 CET, Gamla Ullevi. Kalmar need one point to secure survival; Orgryte near the bottom on a losing run. 'Krigarmatch' expected. Kalmar won reverse 3-0. Kalmar scored 0.3/game last 10 (0.4 away).",
+  "news": "Relegation six-pointer: Kalmar need a point to stay up, Orgryte bottom-end on a losing run; Kalmar won July meeting 3-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.31,
+    "p": 0.723,
+    "why": "Kalmar only need a draw and will set up to protect it; Orgryte 1-3-6 last 10 and on a losing run. Own p ~0.72 (no edge, mechanism only)."
+   }
+  ],
+  "avoid": "Overs (Kalmar 0.3 GF/game, tense survival match); Unders below 0.82; Kalmar win 1X2 (away, p 0.47).",
+  "confidence": 0.2,
+  "sources": [
+   "https://kalmarff.se/infor-orgryte-is-kalmar-ff-vi-forvantar-oss-en-match-med-hog-intensitet/",
+   "https://www.barometern.se/sport/kff-kan-sakra-allsvenskt-kontrakt-krigarmatch",
+   "https://www.tvmatchen.nu/sport/fotboll/orgryte-kalmar-23-november-2026/",
+   "https://www.allsvenskantabell.se/odds/orgryte-kalmar-ff-fotboll-herrar/"
+  ]
+ },
+ {
+  "eid": "sr:match:72477612",
+  "fx": "AD Ceuta v Almeria",
+  "sport": "football",
+  "absences": "Almeria: Jorge Pulido out (ankle, late), Rodrigo Ely and Nico Melemed out; Marcos Luna back from suspension, Dzodic and Cipenga back from international duty. Ceuta: defenders Lapena, Toni Abad, Anuar and forward Kone reported out injured (single source).",
+  "context": "LaLiga 2 MD15, Mon 23 Nov 20:30 local, Alfonso Murube. Almeria leaders (32 pts, unbeaten in 11 league games); Ceuta bottom with 5 pts on a long losing run (5-6 straight defeats) - 'only a win will do'.",
+  "news": "Leader Almeria (unbeaten 11) visit bottom side Ceuta, who lose three defenders to injury; Almeria lose Pulido late but get Luna, Dzodic, Cipenga back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.47,
+    "p": 0.646,
+    "why": "Almeria 8-2-0 last 10, unbeaten in 11; Ceuta 2-2-6, defence depleted (Lapena, Toni Abad, Anuar out). DNB protects the draw. Own p ~0.68."
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.2,
+    "p": 0.801,
+    "why": "Almeria 2.0 GF last 10, scored in all last 6; Ceuta conceding 1.8/game with three defenders injured. Own p ~0.83."
+   }
+  ],
+  "avoid": "Almeria 1X2 (away p 0.48 < 0.75); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.noticiasdealmeria.com/noticia/243120/deportes/el-almeria-recupera-a-tres-y-pierde-a-pulido-para-ceuta.html",
+   "https://www.lavozdealmeria.com/ud-almeria/712174/baja-ultima-hora-almeria-ceuta.html",
+   "https://www.elpueblodeceuta.es/sec/deportes/ceuta-le-vale-ganar-ud_1_1200497.html",
+   "https://www.canalsur.es/noticias/deportes/futbol/recuperacion-liderato-almeria-pasa-colista_1_1455153.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76883194",
+  "fx": "CA Juventud de Las Piedras v Defensor Sporting",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Uruguay Clausura final matchday (fecha 15), Mon 23 Nov 16:30 local, Parque Artigas. Juventud 10th (18 pts), Defensor 13th (13 pts) in the Clausura; Juventud's Libertadores hopes run via the Copa AUF, not this game. Largely low-stakes end-of-season match.",
+  "news": "Final Clausura round, little at stake for either side; El Observador lists 'Lunes 21' vs majority Monday 23 Nov (likely a typo).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: low-motivation final round, no team news, house prices near coin-flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://ladiaria.com.uy/deporte/articulo/2026/11/se-cierra-la-ultima-fecha-del-clausura/",
+   "https://www.tudn.com/futbol/uruguay-primera/juventud-de-las-piedras-vs-defensor-sporting-club-uruguay-primera-clausura-2026-11-23",
+   "https://www.elobservador.com.uy/futbol/asi-se-juega-la-ultima-fecha-del-torneo-clausura-penarol-definiendo-la-tabla-anual-y-nacional-buscando-entrar-la-libertadores-horarios-canchas-y-arbitros-n6064422"
+  ]
+ },
+ {
+  "eid": "sr:match:76883196",
+  "fx": "Albion FC v Danubio FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Uruguay Clausura final matchday, Mon 23 Nov 19:30 local, Estadio Franzini. Danubio already relegated; result has no bearing on Tabla Anual or relegation. Albion's Sudamericana place depends on Copa AUF outcome, not this match.",
+  "news": "Dead rubber: Danubio already relegated, nothing at stake on the table for either side.",
+  "veto": true,
+  "veto_reason": "Dead rubber (Danubio relegated, no table stakes); minor date conflict (El Observador 'Lunes 21' vs 23 Nov elsewhere).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ladiaria.com.uy/deporte/articulo/2026/11/se-cierra-la-ultima-fecha-del-clausura/",
+   "https://en.wikipedia.org/wiki/2026_Liga_AUF_Uruguaya",
+   "https://www.elobservador.com.uy/futbol/asi-se-juega-la-ultima-fecha-del-torneo-clausura-penarol-definiendo-la-tabla-anual-y-nacional-buscando-entrar-la-libertadores-horarios-canchas-y-arbitros-n6064422"
+  ]
+ }
+]
