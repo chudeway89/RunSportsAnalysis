@@ -1,0 +1,234 @@
+[
+ {
+  "eid": "sr:match:73206590",
+  "fx": "AL Jeel v AL Saqer FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Saudi Division 1 (Yelo), promoted pair: Al-Jeel 18th, Al-Saqer 9th; Al-Saqer beat Al-Jeel on pens in last season 2nd Division final. Al-Jeel 0 goals in last 4 home games.",
+  "news": "Kick-off 14:30 UTC confirmed; VENUE CONFLICT: Hajer Club Stadium (Al-Hofuf) vs Prince Abdullah bin Jalawi Stadium (Sofascore).",
+  "veto": true,
+  "veto_reason": "venue conflict between sources; thin Gulf second tier with no team news",
+  "picks": [],
+  "avoid": "all markets; Unders (home U1.5 p0.68) fail the p>=0.82 gate anyway",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footaz.net/match/al-jeel-vs-al-saqer/",
+   "https://www.sofascore.com/football/match/al-saqer-al-jeel/RlrbsxwQg",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Saudi_Second_Division_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72962378",
+  "fx": "Sporting Braga v Leixoes SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga Revelacao U23 (youth). Braga U23 15 pts/11, Leixoes U23 10 pts/10. Leixoes won 2 of the last 3 H2H.",
+  "news": "Date 23 Nov agreed; KICK-OFF CONFLICT: 15:00 UTC (365Scores, Oddspedia) vs 10:00 (Sportytrader list).",
+  "veto": true,
+  "veto_reason": "youth (U23) fixture + kick-off time conflict between sources",
+  "picks": [],
+  "avoid": "all; youth side, no mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/en-us/football/match/liga-revelacao-u23-7260/braga-u23-leixoes-u23-56999-57003-7260",
+   "https://www.sportytrader.com/en/results-live/football/portugal/u23-championship-86835/",
+   "https://oddspedia.com/football/portugal/u23-league"
+  ]
+ },
+ {
+  "eid": "sr:match:76765206",
+  "fx": "Csa Steaua Bucuresti v AFC Chindia Targoviste",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Romania Liga 2 round 14 at Ghencea; Chindia in form (8W in last 10), Steaua unbeaten at home (2W3D). Third meeting of the season (earlier 1-1 at Targoviste).",
+  "news": "Digi Sport and footballstreams give 23 Nov 17:00 local (15:00 UTC) at Ghencea; DATE CONFLICT: Sofascore lists 21 Nov 09:00 UTC.",
+  "veto": true,
+  "veto_reason": "date conflict between sources (Sofascore 21 Nov vs Digi Sport 23 Nov); Romania L2 is also a thin-league class",
+  "picks": [],
+  "avoid": "Chindia away result-side (p0.49) fails the away gate regardless",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.digisport.ro/fotbal/liga-2/steaua-chindia-live-video-1700-dgs-1-liga-2-etapa-14-4615265",
+   "https://www.sofascore.com/football/match/steaua-bucuresti-chindia-targoviste/CxxsMxGc",
+   "https://www.footballstreams.com/matches/steaua-bucuresti-vs-chindia-targoviste-20261121/"
+  ]
+ },
+ {
+  "eid": "sr:match:75944518",
+  "fx": "Podbeskidzie Bielsko-Bia\u0142a v Bruk-Bet Termalica Nieciecza",
+  "sport": "football",
+  "absences": "no named absences found (no confirmed lineups)",
+  "context": "Poland 1. Liga round 15, Mon 18:00 local at Stadion Miejski Bielsko-Biala. Podbeskidzie unbeaten in last 10 home games; Termalica (favourite) 1 loss in last 10.",
+  "news": "Previews agree on date/time/venue; bookmakers favour Termalica (~39/27/34).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.31,
+    "p": 0.731876,
+    "why": "Podbeskidzie unbeaten in 10 home games (sr home form 2W2D0L, 0.75 GA at home); +1.0 refunds a one-goal defeat; my p 0.74. Statistics-led, fill grade."
+   }
+  ],
+  "avoid": "Over 1.5 (Podbeskidzie games low-scoring, 0.9 GF); Termalica result-side (away p0.42)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.mecze24.pl/aktualnosci/podbeskidzie-bielsko-biala-bruk-bet-termalica-nieciecza-typy-statystyki-kursy-i-zapowiedz-meczu-23-11-2026",
+   "https://pilkarskiswiat.com/podbeskidzie-bielsko-biala-bruk-bet-termalica-nieciecza-typy-kursy-zaklady-23-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72043326",
+  "fx": "Wieczysta Krakow v LKP Motor Lublin",
+  "sport": "football",
+  "absences": "Motor: Ivo Rodrigues (out until early 2027), minor knocks per coach Mariusz Misiura. Wieczysta: sources conflict (no major absences vs defensive problems); new coach Jacek Zielinski reports minor health issues.",
+  "context": "Ekstraklasa round 15. Wieczysta 18th, 7 losses in last 10, 28 GA; new coach Jacek Zielinski debut. Motor 10th, beat Nafciarze 3-2 last round.",
+  "news": "Coach change at Wieczysta (Zielinski debut); Motor without Ivo Rodrigues; Wieczysta defensive availability disputed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.47,
+    "p": 0.651577,
+    "why": "Motor last 6 all had 3+ goals (3-2,2-1,2-4,2-2,3-2,3-2); Wieczysta 5 of last 6 had 3+; Wieczysta conceding 1.9/g with a disputed back line; my p 0.69."
+   },
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.19,
+    "p": 0.8090707684,
+    "why": "Wieczysta Krakow team Over 0.5: scored in 5 of last 6; Motor concede 1.8/g away from a high-tempo game; new-coach debut; my p 0.82."
+   }
+  ],
+  "avoid": "result-sides (new-coach bounce uncertainty); integer Over 2/3",
+  "confidence": 0.3,
+  "sources": [
+   "https://gol24.pl/mecz-wieczysta-krakow-motor-lublin-online-debiut-trenera-zielinskiego-transmisja-i-stream-z-15-kolejki-pko-ekstraklasy/ar/c2-19151869",
+   "https://sport.betfan.pl/wieczysta-krakow-szuka-przelamania-motor-nie-chce/",
+   "https://www.forebet.com/en/football/matches/wieczysta-krak%C3%B3w-motor-lublin-2473561"
+  ]
+ },
+ {
+  "eid": "sr:match:72388102",
+  "fx": "ACS Sepsi OSK Sfantu Gheorghe v Rapid Bucuresti 1923",
+  "sport": "football",
+  "absences": "Rapid (Xbets only): Baroan (broken leg), Graovac (knee), Iliev, Talisson (knee). Sepsi (Xbets): Bamgboye (muscle), Matei (doping ban), Vatajelu doubt; Gambling.com says no major Sepsi absences.",
+  "context": "Superliga round 16, 20:00 local, Sepsi Arena. Sepsi 11th (18 pts), Rapid 3rd (31 pts). Sepsi lost 0-5 and 0-2 in recent home games.",
+  "news": "Rapid probable XI agreed across sources (Aioani; Stojilkovic, Petrila, Morutan); Sepsi XI disputed; Rapid missing Graovac in defence.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.24,
+    "p": 0.773974,
+    "why": "Rapid 3rd v 11th, Sepsi beaten 0-5/0-2 at home recently; Rapid 7W2D1L last 10; covers the draw. Graovac/Baroan absences trim it; my p 0.77."
+   }
+  ],
+  "avoid": "Rapid 1X2 (p0.51, away gate 0.75); Under 3.5 (p0.75 < 0.82)",
+  "confidence": 0.25,
+  "sources": [
+   "https://xbets.ro/ponturi/fotbal/liga-1/sepsi-vs-rapid-23-noiembrie-2026/",
+   "https://www.gambling.com/ro/news/pariuri-acs-sepsi-rapid-bucuresti-superliga",
+   "https://www.pontul-zilei.com/ponturi-pariuri/sepsi-vs-rapid-ponturi-pariuri-superliga-23-noiembrie-2026/",
+   "https://oficiuldestiri.ro/cine-transmite-la-tv-sepsi-rapid-in-etapa-16-din-superliga-unde-se-joaca-ora-meciului-si-echipele-probabile"
+  ]
+ },
+ {
+  "eid": "sr:match:72044826",
+  "fx": "Jong Ajax Amsterdam v Jong AZ Alkmaar",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Reserve sides (Jong teams) in Eerste Divisie round 15, 20:00 CET at De Toekomst. Jong AZ 10th (20 pts), Jong Ajax 13th (19 pts); Jong AZ won 3-0 in July.",
+  "news": "Date/time/venue confirmed by Ajax.nl; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: reserve sides with no clear mismatch (Over 2.5 p0.75 is not a mismatch case); first-team call-ups make lineups unpredictable",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bet-experts.nl/nieuws/jong-ajax-jong-az-live-gratis-kijken-23-11-2026",
+   "https://www.ajax.nl/wedstrijden/?team=Jong+Ajax"
+  ]
+ },
+ {
+  "eid": "sr:match:73268524",
+  "fx": "SC Braga v SL Benfica Lisbon W",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Women's Liga BPI round 7, 19:00 at Estadio Amelia Morais (confirmed by SC Braga). Benfica lead (15 pts/5), Braga 6th; Benfica 22-4 in 28 H2H; Benfica coach Ivan Baptista notes midweek UWCL game v AS Roma.",
+  "news": "Fixture confirmed by club; Benfica coming off Champions League v Roma (congestion).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: women's fixture, Benfica p0.72 is not a clear mismatch; UWCL rotation risk",
+  "confidence": 0.1,
+  "sources": [
+   "https://scbraga.pt/pt/news/bilhetes-or-sc-braga-vs-sl-benfica-feminino-liga-bpi",
+   "https://www.slbenfica.pt/pt-pt/agora/noticias/2026/11/22/futebol-feminino-benfica-antevisao-sc-braga-7-jornada-liga-bpi",
+   "https://www.zerozero.pt/jogo/2026-11-23-sc-braga-benfica/12361865"
+  ]
+ },
+ {
+  "eid": "sr:match:73294102",
+  "fx": "US Grosseto v Guidonia Montecelio 1937 FC",
+  "sport": "football",
+  "absences": "none confirmed by any source",
+  "context": "Serie C Group B round 15, Mon 20:30 local at Stadio Carlo Zecchini; first ever meeting. Grosseto (coach Paolo Indiani) lost the last two; Guidonia drew 2-2 v Ostiamare.",
+  "news": "No absences reported; Grosseto lineup disputed (4-2-3-1 per TuttoC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 (p0.80) despite high-scoring recent games: Serie C averages below the 2.7 gate; result-sides near coin-flip; no named mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tuttoc.com/girone-b/grosseto-guidonia-sfida-inedita-zecchini-probabili-formazioni-449700",
+   "https://www.derbyderbyderby.it/streaming/dove-vedere-grosseto-guidonia-in-tv-e-streaming-orario-e-probabili-formazioni/",
+   "https://www.infobetting.com/blog/grosseto-guidonia-montecelio-23-11-2026-formazioni-quote-pronostici-20262027-serie-c/"
+  ]
+ },
+ {
+  "eid": "sr:match:71945418",
+  "fx": "Monza v Fiorentina",
+  "sport": "football",
+  "absences": "Monza: Maye, Folorunsho out (Sports Mole says Folorunsho recovered), Ngonge or Birindelli out (Sky v Goal conflict); coach Ivan Juric suspended, Paro on the bench. Fiorentina: Parisi (weeks), Pongracic out; Atta near return, Njie doubt.",
+  "context": "Serie A round 12, 20:45 CET (19:45 UTC) at U-Power Stadium. Monza lost 4 league games in a row; Fiorentina (Vanoli) beat Sassuolo and drew with Atalanta and Juventus. Monza striker Varela 9 goals in 10.",
+  "news": "Monza on a 4-game losing run with Juric banned from the bench; Fiorentina unbeaten in 3 without Parisi/Pongracic.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.57,
+    "p": 0.609338,
+    "why": "Monza last 6 all 3+ goals except one (0-1); Fiorentina last 6 all 3+ goals; Fiorentina missing Pongracic at the back, Varela in form; my p 0.66."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.3,
+    "p": 0.7427786753,
+    "why": "Monza lost 4 straight with coach Juric suspended; Fiorentina unbeaten in 3 incl. draws at Atalanta/Juventus level; covers the draw; my p 0.76."
+   }
+  ],
+  "avoid": "Fiorentina 1X2 (p0.50, away gate 0.75); integer Over 2/3; Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/monza/preview/monza-vs-fiorentina-prediction-team-news-lineups_609549.html",
+   "https://sport.sky.it/calcio/serie-a/partite/2026/giornata-12/monza-fiorentina/formazioni",
+   "https://www.goal.com/it/notizie/monza-fiorentina-pre-partita-ultime-notizie-infortuni-assenti/blt9783736f4ddc9228",
+   "https://dailysports.net/predictions/monza-have-lost-four-matches-in-a-row-but-fiorentina-have-problems-of-their-own-monza-vs-fiorentina-prediction/"
+  ]
+ }
+]
