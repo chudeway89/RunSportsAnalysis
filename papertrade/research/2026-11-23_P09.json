@@ -1,0 +1,275 @@
+[
+ {
+  "eid": "sr:match:73662638",
+  "fx": "Minchanka Minsk v L. St Petersburg",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Russian women's Superliga round 9; Minchanka lost 1-3 at Dinamo Krasnodar on Nov 18 (3-7 last 10).",
+  "news": "Scheduled 18:00 MSK (15:00 UTC) per championat.ru calendar; matches board. No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per rules no picks (no goals-type mismatch market applies). Leningradka winner 1.17 is below band anyway.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.championat.ru/volleyball/_wsuperliga.html",
+   "https://vldinamo.ru/calendar/"
+  ]
+ },
+ {
+  "eid": "sr:match:73686996",
+  "fx": "AKM-Junior Novomoskovsk v Chaika Nizhny Novgorod",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "MHL (U20 junior league) Silver division; AKM 3rd in division, holding last playoff spot; Chaika reportedly won last 3.",
+  "news": "Confirmed 19:00 MSK (16:00 UTC) on MHL official schedule/stream page. No lineup news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth (U20) league: no result-sides; goals markets not a clear enough mismatch (Over 4.5 p 0.62).",
+  "confidence": 0.15,
+  "sources": [
+   "https://allhockey.ru/news/show/617148-MHL_raspisanie_matchej_23_noyabrya_2026_goda",
+   "https://mhl.khl.ru/media/video/3572/1176576/",
+   "https://mhl.khl.ru/media/video/3572/1176577/",
+   "https://sportandbets.com/prognozy-na-hokkey/mkhl/akm-yunior-novomoskovsk-chayka-prognoz-2026-11-23.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73687000",
+  "fx": "MHC Dynamo Moscow v Krylya Sovetov Moscow",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "MHL (U20) Moscow local fixture; Dynamo 7-3 last 10 (but lost 2-8 to Krasnaya Armiya), KS 1-9; Dynamo won last 5 H2H per preview.",
+  "news": "19:00 MSK (16:00 UTC) confirmed by allhockey schedule. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth league, Moscow local rivalry; Over 4.5 p 0.60 and Dynamo team O2.5 p 0.65 not strong enough.",
+  "confidence": 0.15,
+  "sources": [
+   "https://allhockey.ru/news/show/617148-MHL_raspisanie_matchej_23_noyabrya_2026_goda",
+   "https://mhl.khl.ru/media/video/3572/1176576/",
+   "https://mhl.khl.ru/media/video/3572/1176577/",
+   "https://stavka.tv/matches/ice-hockey/23-11-2026-dinamo-moskva-krylia-sovetov"
+  ]
+ },
+ {
+  "eid": "sr:match:73686998",
+  "fx": "Red Machine Atlant U20 v Red Machine Yunior",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "MHL (U20) Open Championship; Red Machine Yunior (federation U18 project side) 1-9 last 10, three straight losses (1-4, 0-2, 1-2).",
+  "news": "19:00 MSK (16:00 UTC) confirmed on MHL schedule. Previews disagree on H2H record (7-0 vs a single 4-1 meeting): minor data conflict, not date/venue.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth sides; H2H data conflicting; no picks.",
+  "confidence": 0.12,
+  "sources": [
+   "https://allhockey.ru/news/show/617148-MHL_raspisanie_matchej_23_noyabrya_2026_goda",
+   "https://mhl.khl.ru/media/video/3572/1176576/",
+   "https://mhl.khl.ru/media/video/3572/1176577/",
+   "https://sportandbets.com/prognozy-na-hokkey/mkhl/krasnaya-mashina-atlant-krasnaya-mashina-yunior-prognoz-2026-11-23.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73662636",
+  "fx": "Dinamo Moscow v VK Dinamo Kazan",
+  "sport": "volleyball",
+  "absences": "none found (roster sources conflict on squad lists)",
+  "context": "Women's Superliga round 9 top-of-table: Dinamo-Ak Bars Kazan sole leader, 10-0 last 10; Dinamo Moscow 8-2.",
+  "news": "19:00 MSK (16:00 UTC) at USZ Druzhba per club site; matches board. No injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per rules no picks (no goals-type mismatch market applies). Kazan ML 1.25 (p 0.76) would otherwise be the angle.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.championat.ru/volleyball/_wsuperliga.html",
+   "https://vldinamo.ru/calendar/",
+   "https://vldinamo.ru/roaster_aMain2627/"
+  ]
+ },
+ {
+  "eid": "sr:match:72523360",
+  "fx": "Arctic Volley v Liigaploki",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's fixture. Finnish women's Mestaruusliiga (10-team league, season started Oct 2). Board 'Liigaploki' = LP Pihtipudas (telsu lists Arctic Volley - LP Pihtipudas).",
+  "news": "Fixture listed on telsu.fi for 23.11; no kick-off time confirmed from a second source. No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per rules no picks (no goals-type mismatch market applies).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.telsu.fi/lentopallo",
+   "https://mestaruusliiga.fi/",
+   "https://www.mestaruusliiga.fi/uutiset/mestaruusliigan-otteluohjelmat-kaudelle-2026-2027-julkaistu.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75287534",
+  "fx": "LP Kangasala v Puma Helsinki",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's fixture. Finnish women's Mestaruusliiga (10-team league, season started Oct 2). ",
+  "news": "telsu.fi lists LP Kangasala - Pfeifer Kuusamo for 23.11, not PuMa Helsinki: opponent conflict with board.",
+  "veto": true,
+  "veto_reason": "Fixture conflict: TV listing gives Kangasala's 23.11 opponent as Pfeifer Kuusamo, board says PuMa Helsinki.",
+  "picks": [],
+  "avoid": "Women's fixture: per rules no picks (no goals-type mismatch market applies).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.telsu.fi/lentopallo",
+   "https://mestaruusliiga.fi/",
+   "https://www.mestaruusliiga.fi/uutiset/mestaruusliigan-otteluohjelmat-kaudelle-2026-2027-julkaistu.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72523362",
+  "fx": "Orpo v LP Vampula",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's fixture. Finnish women's Mestaruusliiga (10-team league, season started Oct 2). OrPo = Oriveden Ponnistus; 2-8 last 10.",
+  "news": "OrPo - LP-Vampula listed on telsu.fi for 23.11; no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per rules no picks (no goals-type mismatch market applies).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.telsu.fi/lentopallo",
+   "https://mestaruusliiga.fi/",
+   "https://www.mestaruusliiga.fi/uutiset/mestaruusliigan-otteluohjelmat-kaudelle-2026-2027-julkaistu.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72523364",
+  "fx": "Salon Viesti v Jymy Volley",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's fixture. Finnish women's Mestaruusliiga (10-team league, season started Oct 2). ",
+  "news": "LP Viesti - JymyVolley listed on telsu.fi for 23.11; no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per rules no picks (no goals-type mismatch market applies).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.telsu.fi/lentopallo",
+   "https://mestaruusliiga.fi/",
+   "https://www.mestaruusliiga.fi/uutiset/mestaruusliigan-otteluohjelmat-kaudelle-2026-2027-julkaistu.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72775288",
+  "fx": "Chemik Police v Stal Mielec",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Tauron Liga round 8: Chemik 4th (14 pts, 5-2), Stal 10th but beat Radomka 3-0 last round; Stal won 3-1 in Szczecin last March.",
+  "news": "Most sources 17:30 at Enea Arena (16:30 UTC, matches board); a local listing gives 18:00 at Netto Arena Szczecin.",
+  "veto": true,
+  "veto_reason": "Kick-off time and venue conflict between sources (17:30 Enea Arena vs 18:00 Netto Arena).",
+  "picks": [],
+  "avoid": "Women's fixture: per rules no picks (no goals-type mismatch market applies).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mecze24.pl/siatkowka/chemik-police-stal-mielec",
+   "https://szczecin.naszemiasto.pl/tauron-liga-chemik-police-vs-stal-mielec/kw/c2-3315461",
+   "https://twojeradio.fm/chemik-police-podejmie-stal-mielec.html",
+   "https://sportowefakty.wp.pl/siatkowka/1285662/wicemistrz-polski-niepokonany-szykuje-sie-spacerek"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114712184",
+  "fx": "Hapoel Kfar Saba v Maccabi Haifa",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Israeli Premier League: Maccabi XT Haifa 2nd (4-2), Hapoel Kfar Saba 6th (2-3). No Sportradar form data.",
+  "news": "Listing gives 18:00 UTC, board 17:40 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict (18:00 vs 17:40 UTC); no form data.",
+  "picks": [],
+  "avoid": "Women's fixture: per rules no picks (no goals-type mismatch market applies).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/volleyball/league/premier-league-(w)-8437/standings",
+   "https://betmaster.com.mx/es-mx/sportsbook/sports/volleyball/match/5813876"
+  ]
+ },
+ {
+  "eid": "sr:match:72764988",
+  "fx": "LKPS Lublin v MKS Slepsk Suwalki",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Men's PlusLiga: Bogdanka LUK Lublin (Polish champions) 8-2 last 10 with recent 3-0/3-1 run; Slepsk Malow 2-8 last 10 with several 2-3 losses. Last season Lublin won 3-0 away but needed a 3-2 comeback from 0-2 down at home v Slepsk.",
+  "news": "Confirmed Mon 23.11.2026 20:30 local (19:30 UTC) at Hala Globus Lublin, Polsat Sport (mecze24). No injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "201",
+    "spec": null,
+    "desc": "Home/Home",
+    "odds": 1.2,
+    "p": 0.7897557539,
+    "why": "Champion v bottom-half side at home; Lublin ~92% match (house) and 82% set 1. Mechanism: class gap + home; but Slepsk took 2 sets in Lublin last season. My p ~0.80."
+   }
+  ],
+  "avoid": "Winner 1.05 sub-band; avoid Over 134.5 (sweep 25-19 type sets lands ~132-138) and 5th-set markets.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.mecze24.pl/transmisje/plusliga-luk-lublin-slepsk-suwalki-gdzie-obejrzec-transmisja-online-stream-za-darmo-23-11-2026",
+   "https://www.mecze24.pl/siatkowka/luk-lublin-slepsk-suwalki",
+   "https://kurierlubelski.pl/bogdanka-luk-odwrocila-losy-meczu-lublinianie-przegrywali-juz-0-2-ze-slepskiem-malow-suwalki-ale-wygrali-po-tie-breaku-zobacz-zdjecia/ar/c2p2-28751405",
+   "https://www.polsatsport.pl/wiadomosc/2025-11-29/slepsk-malow-suwalki-bogdanka-luk-lublin-siatkowka-plusliga-wynik-kto-wygral-mecz/"
+  ]
+ },
+ {
+  "eid": "sr:match:75360662",
+  "fx": "Sesi Bauru v Norde Volei",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Men's Superliga round 5: Sesi Bauru 7th (2-2, 6 pts); Norde (Ceara, promoted) 0-4 with 0 points, seeking first points in the top flight. Bauru host Sao Jose Friday (3 days rest).",
+  "news": "Confirmed 18:30 BRT (21:30 UTC) at Arena Paulo Skaf, Bauru, SporTV2. No injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "526",
+    "spec": null,
+    "desc": "No",
+    "odds": 1.22,
+    "p": 0.7749805243,
+    "why": "Promoted Norde 0-4 and pointless (no 5th set means no point taken; 2-3 gives a point they have not got in 4 games). Home side ~85% to win; no 5th set ~0.78 house, my p ~0.80."
+   }
+  ],
+  "avoid": "Avoid Norde +16.5/+14.5 catches and Bauru -8.5 (Bauru only 5-5 last 10, mid-table).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.otempo.com.br/sports/volei/2026/11/23/superliga-masculina-de-volei-hoje-23-11-jogo-e-onde-assistir",
+   "https://noataque.com.br/volei/superliga-masculina-de-volei/noticia/2026/11/23/agenda-do-jogo-de-hoje-23-11-da-superliga-masculina-de-volei/",
+   "https://webvolei.com.br/classificacao-superliga-masculina-20-novembro-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:75360812",
+  "fx": "Minas v Sesi Volei Bauru",
+  "sport": "volleyball",
+  "absences": "Minas middle blocker Luzia returns from injury",
+  "context": "Women's Superliga round 7 direct clash: Minas 2nd (6-0, 17 pts), Bauru 3rd (17 pts from 7) after first loss 0-3 to Flamengo on Nov 18; Jheovana (Minas opposite) 84 pts.",
+  "news": "18:30 BRT (21:30 UTC), GE TV. Venue given as Arena UniBH by most sources, Arena MTC by one.",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Arena UniBH vs Arena MTC); also women's and a near coin-flip.",
+  "picks": [],
+  "avoid": "Women's fixture: per rules no picks (no goals-type mismatch market applies).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.otempo.com.br/sports/volei/2026/11/23/gerdau-minas-recebe-o-sesi-bauru-em-confronto-direto-pela-parte-de-cima-da-superliga-feminina",
+   "https://www.terra.com.br/esportes/volei/minas-recebe-o-sesi-bauru-de-olho-na-lideranca,57c44e73bd336759556d9f06982255bei5a9stev.html",
+   "https://www.94fm.com.br/noticias/sesi-volei-bauru-encara-o-minas-pela-superliga-feminina-apos-perder-a-invencibilidade/"
+  ]
+ }
+]
