@@ -1,14 +1,14 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-23 02:12 UTC. Totals: 16 won · 204 dead · 2 alive · 0 expired before settling · 97 never seen live.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-23 22:41 UTC. Totals: 17 won · 213 dead · 4 alive · 0 expired before settling · 97 never seen live.
 
 ## Return per 1-unit stake (all settled tickets, from papertrade/ticket_ledger.jsonl; odds as first seen; 7 early wins with unrecorded odds left out)
 
 | Ticket size | Tickets | Won | Staked | Returned | ROI |
 |---|---|---|---|---|---|
-| 1-7 legs | 34 | 6 | 34 | 14.5 | -57% |
-| 8-12 legs | 21 | 3 | 21 | 25.7 | +22% |
-| 13+ legs | 158 | 0 | 158 | 0.0 | -100% |
+| 1-7 legs | 37 | 7 | 37 | 14.5 | -61% |
+| 8-12 legs | 22 | 3 | 22 | 25.7 | +17% |
+| 13+ legs | 164 | 0 | 164 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -323,8 +323,20 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-22 | XFJA8M | YAA301 rm-15 TRIM (23 legs, 494x, 1 in 1,492) | 23 | 14W/1L/1V/7P | DEAD | SCR Altach v Sturm Graz — Over/Under Over 2 (1:0) |
 | 2026-11-22 | LG9BNS | BB totals CORE (5 legs, 3.0x, 1 in 3.5) | 5 | 3W/1L/0V/1P | DEAD | Basket Scafati 1969 v Pallacanestro Cantu — Over/Under (incl. overtime) 155.5 Over 155.5 (83:67) |
 | 2026-11-22 | LEEXNA | BB totals MAX (10 legs, 9.6x, 1 in 13.5) | 10 | 3W/2L/0V/5P | DEAD | Basket Scafati 1969 v Pallacanestro Cantu — Over/Under (incl. overtime) 155.5 Over 155.5 (83:67); Galatasaray SK v Petkim Spor Aliaga — Over/Under (incl. overtime) 156.5 Over 156.5 (81:64) |
-| 2026-11-22 | UER81F | Sunday night 5x (7 legs, 1 in 7) | 7 | 2W/0L/0V/5P | ALIVE |  |
-| 2026-11-22 | K6UFL5 | Sunday night 5.2x (7 legs, 1 in 7) | 7 | 5W/0L/0V/2P | ALIVE |  |
+| 2026-11-22 | UER81F | Sunday night 5x (7 legs, 1 in 7) | 7 | 6W/1L/0V/0P | DEAD | Diriangen FC Diriamba v Managua FC — Over/Under Over 1.5 (0:1) |
+| 2026-11-22 | K6UFL5 | Sunday night 5.2x (7 legs, 1 in 7) | 7 | 7W/0L/0V/0P | **WON** |  |
+| 2026-11-23 | QD2A13 | RLNZAW EDIT (10 legs, 7.2x, 1 in 10.8) | 10 | 6W/2L/0V/2P | DEAD | Brentford v Everton — Asian Handicap -1.5 Away (+1.5) (4:0); Ludogorets v FC Dunav Ruse — Ludogorets Over/Under Over 1.5 (1:0) |
+| 2026-11-23 | JSS5BN | RLNZAW CORE (5 legs, 2.6x, 1 in 3.1) | 5 | 3W/1L/0V/1P | DEAD | Brentford v Everton — Asian Handicap -1.5 Away (+1.5) (4:0) |
+| 2026-11-23 | K9WNBF | RLNZAW full 18-leg edit (18 legs, 52.3x, 1 in 109) | 18 | 13W/3L/0V/2P | DEAD | Cdt Real Oruro v Guabira Montero — Draw No Bet Home (0:3); Ludogorets v FC Dunav Ruse — Ludogorets Over/Under Over 1.5 (1:0); Brentford v Everton — Asian Handicap -1.5 Away (+1.5) (4:0) |
+| 2026-11-23 | XKEGP7 | RLNZAW rm-5 TRIM (34 legs, 13,757x, 1 in 80,199) | 34 | 23W/6L/1V/4P | DEAD | Ludogorets v FC Dunav Ruse — Both Halves Under 1.5 No (1:0); Reading U21 v Exeter City Reserve — Over/Under Over 2.5 (1:0); Jong Ajax Amsterdam v Jong AZ Alkmaar — GG/NG Yes (3:0); Sporting Braga v Leixoes SC — Over/Under Over 2.5 (0:1); ACS Sepsi OSK Sfantu Gheorghe v Rapid Bucuresti 1923 — Corners - Over/Under Over 8.5 (1:3); Orgryte IS v Kalmar FF — Corners - Over/Under Over 8.5 (3:2) |
+| 2026-11-23 | Q7K1TT | RLNZAW rm-10 TRIM (29 legs, 1,506x, 1 in 6,672) | 29 | 21W/4L/0V/4P | DEAD | Ludogorets v FC Dunav Ruse — Both Halves Under 1.5 No (1:0); Reading U21 v Exeter City Reserve — Over/Under Over 2.5 (1:0); Jong Ajax Amsterdam v Jong AZ Alkmaar — GG/NG Yes (3:0); Orgryte IS v Kalmar FF — Corners - Over/Under Over 8.5 (3:2) |
+| 2026-11-23 | MNNT0Q | RLNZAW rm-15 TRIM (24 legs, 409x, 1 in 1,337) | 24 | 18W/4L/0V/2P | DEAD | Ludogorets v FC Dunav Ruse — Both Halves Under 1.5 No (1:0); Reading U21 v Exeter City Reserve — Over/Under Over 2.5 (1:0); Jong Ajax Amsterdam v Jong AZ Alkmaar — GG/NG Yes (3:0); Orgryte IS v Kalmar FF — Corners - Over/Under Over 8.5 (3:2) |
+| 2026-11-23 | SNCMU1 | Monday clean 18.5x (13 legs, 1 in 35) | 13 | 8W/3L/0V/2P | DEAD | Al Ain FC v Esteghlal FC Tehran — 1X2 Home (1:1); NK Slaven Belupo v NK Osijek — Over/Under Over 1.5 (1:0); Sgau-Saratov v Chekhovskie Medvedi — 1st Half - 1X2 Away (24:27) |
+| 2026-11-23 | VKWXY7 | Monday 50x (SNCMU1 + 5 RLNZAW-researched legs; 18 legs, 50.4x, 1 in 117) | 18 | 10W/5L/0V/3P | DEAD | Al Ain FC v Esteghlal FC Tehran — 1X2 Home (1:1); NK Slaven Belupo v NK Osijek — Over/Under Over 1.5 (1:0); Sgau-Saratov v Chekhovskie Medvedi — 1st Half - 1X2 Away (24:27); Brentford v Everton — Asian Handicap -1.5 Away (+1.5) (4:0); Ludogorets v FC Dunav Ruse — Ludogorets Over/Under Over 1.5 (1:0) |
+| 2026-11-23 | GJWRJU | Monday night basketball NBA 5.9x (6 legs, 1 in 7) | 6 | 0W/0L/0V/6P | ALIVE |  |
+| 2026-11-23 | ZZUCLJ | Monday night basketball max clean (9 legs, 10.8x, 1 in 14.4) | 9 | 0W/0L/0V/9P | ALIVE |  |
+| 2026-11-23 | RYAGDM | NCAA handicap 5000x LOTTERY (14 legs, 6,380x, 1 in 18,943) | 14 | 0W/0L/0V/14P | ALIVE |  |
+| 2026-11-23 | M7CUU0 | NCAA handicap 50000x LOTTERY (18 legs, 75,467x, 1 in 306,521) | 18 | 0W/0L/0V/18P | ALIVE |  |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |

@@ -1,91 +1,94 @@
 {
- "as_of": "2026-11-23 02:11 UTC",
- "outcomes": 4233543,
+ "as_of": "2026-11-23 22:40 UTC",
+ "outcomes": 4271645,
  "first": "2026-10-12",
  "last": "2026-11-23",
  "calibration": {
-  "football|25|Goal Range|other|1.60-2.19": 0.0189,
-  "football|25|Goal Range|other|2.20-3.99": -0.013,
-  "football|37|1X2 & Over/Under 3.5|other|2.20-3.99": 0.0134,
+  "football|25|Goal Range|other|1.60-2.19": 0.0188,
+  "football|25|Goal Range|other|2.20-3.99": -0.0127,
+  "football|29|GG/NG|No|2.20-3.99": 0.0186,
+  "football|37|1X2 & Over/Under 3.5|other|2.20-3.99": 0.0135,
   "football|37|1X2 & Over/Under 3.5|other|4.00+": -0.0051,
   "football|37|1X2 & Over/Under 4.5|other|4.00+": -0.0035,
-  "football|68|1st Half - Over/Under|Under|<1.30": 0.0124,
-  "football|900301|Away Team Total Corners|Under|2.20-3.99": 0.0194,
-  "football|15|Winning Margin|other|2.20-3.99": 0.0164,
-  "football|58|Both Halves Over 1.5|No|1.30-1.59": -0.0184,
-  "football|854|Home Team or Over 2.5|No|4.00+": -0.0158,
-  "football|97|2nd Half - Away Team Clean Sheet|Yes|1.60-2.19": 0.018,
-  "football|14|Handicap 0:1|Draw level|2.20-3.99": 0.0192,
-  "football|83|2nd Half - 1X2|Home|4.00+": -0.0136,
-  "football|14|Handicap 1:0|Draw level|2.20-3.99": 0.0183
+  "football|68|1st Half - Over/Under|Under|<1.30": 0.0127,
+  "football|900301|Away Team Total Corners|Over|1.30-1.59": -0.0187,
+  "football|900301|Away Team Total Corners|Under|2.20-3.99": 0.0201,
+  "football|15|Winning Margin|other|2.20-3.99": 0.017,
+  "football|58|Both Halves Over 1.5|No|1.30-1.59": -0.018,
+  "football|854|Home Team or Over 2.5|No|4.00+": -0.0162,
+  "football|97|2nd Half - Away Team Clean Sheet|Yes|1.60-2.19": 0.0177,
+  "football|14|Handicap 0:1|Draw level|2.20-3.99": 0.0195,
+  "football|83|2nd Half - 1X2|Home|4.00+": -0.0133,
+  "football|29|GG/NG|Yes|2.20-3.99": 0.0183,
+  "football|14|Handicap 1:0|Draw level|2.20-3.99": 0.0187
  },
- "slices_tested": 1182,
+ "slices_tested": 1190,
  "form": {
   "football": {
-   "b": 0.0419,
-   "se": 0.0374,
-   "z": 1.12,
-   "n": 44724,
-   "fixtures": 1303,
+   "b": 0.0462,
+   "se": 0.0364,
+   "z": 1.27,
+   "n": 48066,
+   "fixtures": 1388,
    "use": 0.0
   },
   "american football": {
-   "b": 0.0939,
-   "se": 0.2974,
-   "z": 0.32,
-   "n": 1764,
-   "fixtures": 74,
+   "b": 0.1016,
+   "se": 0.2939,
+   "z": 0.35,
+   "n": 1790,
+   "fixtures": 75,
    "use": 0.0
   },
   "basketball": {
-   "b": 0.1837,
-   "se": 0.0818,
-   "z": 2.24,
-   "n": 31786,
-   "fixtures": 469,
+   "b": 0.1556,
+   "se": 0.0796,
+   "z": 1.95,
+   "n": 34342,
+   "fixtures": 505,
    "use": 0.0
   },
   "volleyball": {
-   "b": -0.1693,
-   "se": 0.2909,
-   "z": -0.58,
-   "n": 215,
-   "fixtures": 118,
+   "b": -0.2562,
+   "se": 0.2805,
+   "z": -0.91,
+   "n": 232,
+   "fixtures": 127,
    "use": 0.0
   },
   "ice hockey": {
-   "b": 0.3181,
-   "se": 0.1922,
-   "z": 1.66,
-   "n": 5129,
-   "fixtures": 222,
+   "b": 0.2766,
+   "se": 0.1861,
+   "z": 1.49,
+   "n": 5523,
+   "fixtures": 240,
    "use": 0.0
   }
  },
  "research": {
   "vetoed fixtures: short-priced main markets": {
-   "n": 4111,
-   "fx": 272,
-   "resid": 0.000554701523619555,
-   "se": 0.0056545886026850714,
-   "z": 0.0980975916366676,
-   "roi": -0.06923862807102892
+   "n": 4236,
+   "fx": 281,
+   "resid": 0.0010936087470963156,
+   "se": 0.0055316935509962485,
+   "z": 0.19769872228358684,
+   "roi": -0.068300283286119
   },
   "researched, not vetoed: same markets": {
-   "n": 61507,
-   "fx": 2982,
-   "resid": -0.0020143035530996423,
-   "se": 0.001892954419346394,
-   "z": -1.0641056818447578,
-   "roi": -0.06433885573999787
+   "n": 63627,
+   "fx": 3084,
+   "resid": -0.0014978858822103792,
+   "se": 0.0018722376656219544,
+   "z": -0.8000511418579883,
+   "roi": -0.06367296902258547
   },
   "research picks": {
-   "n": 1357,
-   "fx": 1083,
-   "resid": -0.0064523418226234315,
-   "se": 0.013316588690926204,
-   "z": -0.48453413801238715,
-   "roi": -0.05318349299926304
+   "n": 1411,
+   "fx": 1122,
+   "resid": -0.006678232585613037,
+   "se": 0.012995302095122589,
+   "z": -0.5138959092085684,
+   "roi": -0.05314670446491845
   }
  }
 }
