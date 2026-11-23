@@ -1,0 +1,248 @@
+[
+ {
+  "eid": "sr:match:73719746",
+  "fx": "Charlotte Hornets v Memphis Grizzlies",
+  "sport": "basketball",
+  "absences": "CHA: Kon Knueppel (hamstring), Dennis Schroder (hamstring), Grayson Allen (concussion protocol), Grant Williams (hamstring mgmt) out; Brandon Miller probable/GTD (knee bone bruise). MEM: Cameron Boozer OUT on NBA 4PM report (ankle; some outlets DTD), Jerami Grant (calf), GG Jackson (foot), Scotty Pippen Jr (back), Richie Saunders (knee) out.",
+  "context": "Hornets 4-11, 1-9 last 10, 1-3 at home, scoring 99.4; Grizzlies 12-5, 4-1 away. Both heavily depleted. Regular season, no back-to-back noted.",
+  "news": "Both sides missing 4-5 rotation players; Boozer ruled out on official report; Charlotte without its top two guards plus Knueppel.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-8.5",
+    "desc": "Away (+8.5)",
+    "odds": 1.23,
+    "p": 0.791165808,
+    "why": "Memphis is the road favourite (credible receiver) taking +8.5 against a 4-11 Hornets side without Knueppel/Schroder/Allen/Williams that has lost 9 of 10 and scores ~99; Memphis only loses by 9+ in a blowout. Boozer out already on the report. Own p ~0.81."
+   }
+  ],
+  "avoid": "Memphis ML (away, p 0.57 < 0.75); totals (both rosters gutted, wide uncertainty); Hornets catches.",
+  "confidence": 0.3,
+  "sources": [
+   "https://ak-static.cms.nba.com/referee/injury/Injury-Report_2026-11-23_04_00PM.pdf",
+   "https://www.talkbasket.net/229770-nba-injury-report-wembanyama-fox-listed-on-monday-november-23",
+   "https://sports.yahoo.com/articles/cameron-boozer-playing-tonight-grizzlies-172858514.html",
+   "https://1049foxsports.iheart.com/content/2026-11-23-grizzlies-vs-hornets-injury-report-nov-23/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719748",
+  "fx": "Philadelphia 76ers v Portland Trail Blazers",
+  "sport": "basketball",
+  "absences": "PHI: Joel Embiid questionable (illness, late addition 10:45 CT; one CBS item says knee); Jaylen Brown, Adem Bona, Dean Wade probable. POR: Ja Morant (hamstring), Shaedon Sharpe (meniscus), Vit Krejci (ankle), Chris Youngblood (heel) out.",
+  "context": "76ers on a 5-game win streak, 8-2 last 10, 4-1 at home. Portland 3-4 away, without Morant and Sharpe.",
+  "news": "Embiid late-listed questionable with illness; Portland missing Morant and Sharpe.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=8.5",
+    "desc": "Home (+8.5)",
+    "odds": 1.26,
+    "p": 0.777336,
+    "why": "Home favourite (credible receiver) on a 5-game streak taking +8.5 v a Portland side missing Morant and Sharpe; even if Embiid sits Philly should stay within 8. Embiid illness is the risk -> re-check line before posting; drop if the spread flips to Portland. Own p ~0.79."
+   }
+  ],
+  "avoid": "Philly ML/minus handicaps until Embiid status known; totals (Embiid status swings pace/total).",
+  "confidence": 0.25,
+  "sources": [
+   "https://sports.yahoo.com/articles/joel-embiid-questionable-illness-monday-170331674.html",
+   "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-23/joel-embiid-illness-questionable-monday-vs-por",
+   "https://www.phillyvoice.com/sixers-news-76ers-analysis-joel-embiid-downgraded-questionable-sixers-vs-trail-blazers-nba-rumors/",
+   "https://athlonsports.com/nba/philadelphia-76ers/final-injury-report-for-trail-blazers-76ers-will-jaylen-brown-ja-morant-play"
+  ]
+ },
+ {
+  "eid": "sr:match:73719750",
+  "fx": "Indiana Pacers v Oklahoma City Thunder",
+  "sport": "basketball",
+  "absences": "IND: Tyrese Haliburton (hamstring), Johnny Furphy (ACL, season), Ben Sheppard (meniscus) out; Pascal Siakam questionable (hip mgmt); T.J. McConnell out/DTD (sources differ); one preview says Aaron Nesmith out (unconfirmed). OKC: Jalen Williams (ankle), Chet Holmgren (knee), Cason Wallace (shoulder), Thomas Sorber (knee) out; Shai Gilgeous-Alexander status disputed (questionable back/neck vs off report); Caruso, Topic, Jaylin Williams, Mara DTD.",
+  "context": "Pacers 5-12; Thunder 10-7, 2-4 away last 6 road. Both teams depleted.",
+  "news": "SGA status conflicting between sources; OKC already without J.Williams, Holmgren, Wallace; Pacers without Haliburton, Siakam questionable.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything on OKC (ML, catches) while SGA status is unresolved \u2014 the whole price rests on him; Pacers catches (no credible receiver at full strength); totals.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sports.yahoo.com/articles/full-injury-report-mondays-thunder-140139359.html",
+   "https://heavy.com/sports/nba/indiana-pacers/pascal-siakam-injury-thunder/",
+   "https://www.si.com/nba/thunder/onsi/news/okc-thunder-vs-indiana-pacers-injury-report",
+   "https://buzztulsa.iheart.com/content/2026-11-23-thunder-vs-pacers-injury-report-nov-23/"
+  ]
+ },
+ {
+  "eid": "sr:match:73719754",
+  "fx": "Minnesota Timberwolves v Brooklyn Nets",
+  "sport": "basketball",
+  "absences": "MIN: Anthony Edwards out (arthroscopic right knee surgery Oct 29, ~2 months), Donte DiVincenzo (Achilles), Jaylen Clark (hamstring) out; Joan Beringer available (mask). BKN: Nolan Traore (hamstring) out; Grant Nelson ankle probable/questionable.",
+  "context": "Wolves 12-5, 8-2 last 10 and 6-2 at home, mostly without Edwards (out since late Oct). Nets 3-12, 2-4 away, conceding 117.6 over last 10. Julius Randle returns to Minnesota (storyline).",
+  "news": "Edwards already out since Oct 29 so the Wolves' form is the Edwards-less version; Nets 3-12.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.81869,
+    "why": "ML at p 0.82 (>=0.75). Minnesota have gone 12-5 largely without Edwards, 6-2 at home, defence holding opponents to ~101 at home; Brooklyn 3-12 with Traore out and losing by 18/30/37 on recent trips. Own p ~0.84."
+   }
+  ],
+  "avoid": "Minus handicaps beyond -4.5 (Wolves offence thin without Edwards, home wins were by 1-11); Nets +catches; totals.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sports.yahoo.com/articles/timberwolves-vs-nets-injury-report-174508353.html",
+   "https://sportsradio957.iheart.com/content/2026-11-23-nets-vs-timberwolves-injury-report-nov-23/",
+   "https://athlonsports.com/nba/brooklyn-nets-at-minnesota-timberwolves-nba-prediction-picks-odds-nov23-2026",
+   "https://www.squawka.com/ca/news/nba/nets-vs-timberwolves-prediction-team-news/"
+  ]
+ },
+ {
+  "eid": "sr:match:77073642",
+  "fx": "Utah Valley Wolverines v Stephen F Austin Lumberjacks",
+  "sport": "basketball",
+  "absences": "no absences found",
+  "context": "Multi-team event game: SFA beat Temple Nov 22 and also plays Nov 24 (3 games in 3 days). Utah Valley reported 5-0 (RV).",
+  "news": "Venue conflict: one preview lists Utah Valley home (Orem/'Elridge Blake Sports & Fitness Center'), another a neutral-site event in the Virgin Islands; Barttorvik line UVU -1.6 vs board -3.5ish.",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (home Orem vs neutral Virgin Islands event); November NCAA, no mechanism.",
+  "picks": [],
+  "avoid": "All markets (venue conflict).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bleachernation.com/picks/2026/11/23/utah-valley-vs-sfa-prediction-expert-picks-odds-stats-and-best-bets-monday-november-23-2026/",
+   "https://barttorvik.com/schedule.php",
+   "https://khey1380.iheart.com/content/2026-11-23-sfa-vs-utah-valley-time-tv-stream-nov-23/"
+  ]
+ },
+ {
+  "eid": "sr:match:74066364",
+  "fx": "Providence Friars v VCU Rams",
+  "sport": "basketball",
+  "absences": "PRO: Devin Vanterpool (leading scorer, shoulder) expected to return though one report says questionable; coach says near full strength (Saunders, Mela available). VCU: no absences found; Lazar Djokovic foul-trouble note.",
+  "context": "Maui Invitational opener, neutral site (Lahaina Civic Center), not a true home game despite board listing. Providence -1.5.",
+  "news": "Vanterpool slated to return for Providence; neutral-site Maui opener, pick'em game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All sides (coin-flip neutral game, Vanterpool uncertainty); totals (house p ~0.62-0.67 max, below 0.74).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cbssports.com/college-basketball/news/providence-set-to-be-at-full-strength-for-maui-opener-against-vcu/",
+   "https://fieldlevelmedia.com/ncaab/devin-vanterpool-slated-to-return-for-providence-in-maui-opener-vs-vcu/",
+   "https://vsin.com/college-basketball/vcu-vs-providence-basketball-prediction-monday-november-23-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:77101738",
+  "fx": "Loyola Chicago Ramblers v Seattle Redhawks",
+  "sport": "basketball",
+  "absences": "no absences found",
+  "context": "Acrisure Series (Acrisure Arena, Palm Desert) winners' bracket game, neutral site, 6:30pm PT; both played Nov 22 (Loyola beat San Jose State 72-63, Seattle beat UC San Diego 90-64) - back-to-back. Barttorvik Seattle -1.6.",
+  "news": "Bracket consistent with board (winners meet Nov 23 6:30pm PT); one Seattle box-score placeholder lists 'Loyola Chicago/San Jose State' (pre-result placeholder, not a conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (coin-flip neutral game, no mechanism; totals p < 0.74).",
+  "confidence": 0.15,
+  "sources": [
+   "https://goseattleu.com/boxscore/8935",
+   "https://sjsuspartans.com/news/2026/11/21/spartans-set-to-compete-in-acrisure-series-mte",
+   "https://ucsdtritons.com/news/2026/8/6/mens-basketball-matchups-game-times-announced-for-2026-acrisure-series.aspx",
+   "https://barttorvik.com/schedule.php"
+  ]
+ },
+ {
+  "eid": "sr:match:75211558",
+  "fx": "Pepperdine Waves v North Carolina Greensboro Spartans",
+  "sport": "basketball",
+  "absences": "no absences found",
+  "context": "True home game at Firestone Fieldhouse, Malibu, 6:30pm PT (UNCG release confirms). First-ever meeting. Pepperdine 3-3, UNCG 4-2 (on a two-game California trip). Pepperdine -10.5, total 155.5.",
+  "news": "Venue/time confirmed by both schools; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pepperdine ML 1.14 (below 1.18); UNCG +10.5 catch (no NCAA catches in November); totals (p < 0.74).",
+  "confidence": 0.15,
+  "sources": [
+   "https://pepperdinewaves.com/news/2026/11/22/mens-basketball-mens-basketball-readies-to-host-unc-greensboro-and-cal-state-bakersfield",
+   "https://uncgspartans.com/news/2026/11/22/mens-basketball-mens-basketball-travels-to-california-for-two-games.aspx",
+   "https://sports.betmgm.com/en/blog/ncaab/unc-greensboro-pepperdine-prediction-odds-picks-nov-23-college-basketball-jaa/"
+  ]
+ },
+ {
+  "eid": "sr:match:74456484",
+  "fx": "California Golden Bears v Alabama State Hornets",
+  "sport": "basketball",
+  "absences": "no absences found",
+  "context": "Haas Pavilion, Berkeley, 7pm PT (Cal site and ESPN agree). Cal 4-2 (lost to Houston). Cal -19.5, total 145.5; SWAC guarantee-game opponent.",
+  "news": "no news found beyond schedule confirmation; heavy mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cal ML 1.01 (no value); Alabama State +19.5 catch (weak receiver, 15+ catch banned); totals p < 0.74.",
+  "confidence": 0.15,
+  "sources": [
+   "https://calbears.com/sports/mens-basketball/schedule",
+   "https://www.bleachernation.com/picks/2026/11/23/cal-vs-alabama-state-prediction-picks-and-betting-odds-monday-november-23-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73662948",
+  "fx": "UNLV Rebels v Eastern Washington Eagles",
+  "sport": "basketball",
+  "absences": "no absences found",
+  "context": "Thomas & Mack Center, 7pm PT (UNLV official schedule). UNLV 5-5 last 10 (incl. last season), 4-1 at home; EWU 1-3 away. Total 160.5.",
+  "news": "no news found beyond schedule confirmation.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UNLV ML 1.25 p 0.759 passes the numeric gate but has no named mechanism (UNLV conceding 80/game, no team news) - fill at best, not picked; EWU catch (November NCAA ban).",
+  "confidence": 0.15,
+  "sources": [
+   "https://unlvrebels.com/news/2026/8/11/2026-27-mens-basketball-schedule-announced",
+   "https://www.bleachernation.com/picks/2026/11/23/unlv-vs-eastern-washington-prediction-expert-picks-odds-stats-and-best-bets-monday-november-23-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74066374",
+  "fx": "Arizona Wildcats v Colorado State Rams",
+  "sport": "basketball",
+  "absences": "ARI: RJ Godfrey (frontcourt) very unlikely to play in Maui. CSU: none found.",
+  "context": "Maui Invitational, neutral site (Lahaina Civic Center), 11:30pm ET, ESPN2 - board lists Arizona as home but it is neutral. No.12 Arizona (4-1, wins over UConn, at Auburn) v CSU (4-1). Arizona -16.5, total 158.5; KenPom 91% Arizona; CSU's five games all under 159 total.",
+  "news": "Godfrey likely out for Arizona; neutral-site Maui game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Arizona ML 1.03 (no value); CSU +16.5 catch (November NCAA ban); 2nd-half 1X2 (no mechanism); totals p < 0.74 (lean Under per CSU pace but house p ~0.62-0.66).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.covers.com/ncaab/colorado-state-vs-arizona-prediction-picks-nov-23-2026",
+   "https://sports.yahoo.com/articles/colorado-state-vs-arizona-prediction-163046593.html",
+   "https://www.si.com/college/arizona/basketball/arizona-colorado-state-betting-odds-point-spread-over-under-maui-invitational"
+  ]
+ },
+ {
+  "eid": "sr:match:77101930",
+  "fx": "San Jose State Spartans v UC San Diego Tritons",
+  "sport": "basketball",
+  "absences": "no absences found",
+  "context": "Acrisure Series consolation game (losers of Nov 22: SJSU lost 63-72 to Loyola, UCSD lost 64-90 to Seattle), neutral site Acrisure Arena, 9pm PT; both on a back-to-back.",
+  "news": "Pairing and 9pm PT time confirmed by SJSU/UCSD bracket notes (one UCSD page mislabels; outlier).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (neutral consolation coin-flip, both on back-to-back after losses; totals p < 0.74).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sjsuspartans.com/news/2026/11/21/spartans-set-to-compete-in-acrisure-series-mte",
+   "https://ucsdtritons.com/news/2026/8/6/mens-basketball-matchups-game-times-announced-for-2026-acrisure-series.aspx",
+   "https://loyolaramblers.com/news/2026/11/21/mens-basketball-ramblers-set-for-acrisure-series.aspx"
+  ]
+ }
+]
