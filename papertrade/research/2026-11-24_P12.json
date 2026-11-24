@@ -1,0 +1,542 @@
+[
+ {
+  "eid": "sr:match:76126736",
+  "fx": "Charlton Athletic U21 v Coventry City U21",
+  "sport": "football",
+  "absences": "unknown (youth side)",
+  "context": "U21 Professional Development League; youth fixture.",
+  "news": "DATE CONFLICT: Sofascore and Footballtransfers list Charlton U21 v Coventry U21 on 17 Nov 2026 13:00; Futbol24, AiScore and FootyStats list 24 Nov (AiScore at 21:00).",
+  "veto": true,
+  "veto_reason": "date conflict between sources (17 Nov vs 24 Nov) and kick-off time conflict (13:00 vs 21:00); U21 side",
+  "picks": [],
+  "avoid": "all markets: date/kick-off conflict, youth",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/team/football/charlton-athletic-u21/325681",
+   "https://www.futbol24.com/team/England/Charlton-U21",
+   "https://www.footballtransfers.com/en/teams/gb/charlton-athletic-u21/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:73685080",
+  "fx": "Ipswich Town U21 v Bromley FC U21",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "Premier League Cup group H, U21; at Portman Road 19:00 GMT per Wikipedia/Sofascore.",
+  "news": "Date and venue confirmed (Portman Road, 19:00); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth result-sides; no clear goals mismatch (Ipswich U21 conceded 7 at home recently)",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League_Cup",
+   "https://www.sofascore.com/football/team/ipswich-town-u21/325745"
+  ]
+ },
+ {
+  "eid": "sr:match:73684660",
+  "fx": "Queens Park Rangers U21 v Southampton U21",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "Premier League Cup U21; venue Hayes (SKYex Community Stadium is the Hayes ground, consistent).",
+  "news": "Date and 19:00 kick-off confirmed; no team news. Southampton U21 high-scoring (3.0 gf).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth result-sides; O2.5 at p 0.74 not a clear mismatch",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League_Cup",
+   "https://www.365scores.com/en-uk/football/league/premier-league-cup-7752/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:73685030",
+  "fx": "Sheffield United U21 v Millwall U21",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "Premier League Cup U21; Wikipedia lists the game at York (LNER Community Stadium), consistent internally.",
+  "news": "Date and 19:00 kick-off confirmed by Wikipedia and 365Scores; unusual neutral-ish venue (York). No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth, no mismatch)",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League_Cup",
+   "https://www.365scores.com/en-uk/football/league/premier-league-cup-7752/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114520679",
+  "fx": "Cambridge City v Brightlingsea Regent",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Isthmian North (step 4, regional). Cambridge City 2nd: 17 played, 11W 2D 4L, GF 45 GA 16, 35 pts (table to 21 Nov). Brightlingsea position not confirmed.",
+  "news": "Fixture confirmed Tue 24 Nov 19:45 at Cambridge City (Isthmian site, FWP). No Sportradar form for either side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.8001,
+    "why": "Cambridge City 2nd with +29 GD in 17 games; my p 0.79 (house 0.80), no away-side data so no edge claimed"
+   }
+  ],
+  "avoid": "goals markets (no form data, regional)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.isthmian.co.uk/fixtures",
+   "https://www.footballwebpages.co.uk/cambridge-city/league-table",
+   "https://www.isthmian.co.uk/match/6a5907d6ce9ef452b61f3ea6"
+  ]
+ },
+ {
+  "eid": "sr:match:72759492",
+  "fx": "AFC Telford United v Buxton FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NLN mid-table. Telford high-scoring at home (2.6 gf/3.0 ga, incl. 7-6).",
+  "news": "Buxton fixture list confirms Tue 24 Nov 19:45 away at Telford; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (near coin-flip); integer lines",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.vavel.com/en/data/buxton/fixtures/",
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results",
+   "https://darlingtonfc.co.uk/league-table"
+  ]
+ },
+ {
+  "eid": "sr:match:72759494",
+  "fx": "Brackley Town FC v Hereford FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Hereford 2nd (33 pts from 17); beat Darlington 2-0 on 21 Nov (Cawley Cox, Kyle Howkins), ending four home defeats. Brackley low-scoring (1.3 gf/1.4 ga).",
+  "news": "Listed 24/11 19:45 by NLN listing; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 (p 0.72 < 0.82); Hereford result-side (away, p 0.40)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results",
+   "https://darlingtonfc.co.uk/league-table",
+   "https://thenonleaguefootballpaper.com/latest-news/step-2/national-league-north-and-south/national-league-north/632697/fin-has-final-say-to-deny-hornets"
+  ]
+ },
+ {
+  "eid": "sr:match:72759496",
+  "fx": "Chorley FC v Hebburn Town",
+  "sport": "football",
+  "absences": "no news found (Hebburn manager Daniel Moore per older source)",
+  "context": "Chorley poor form (3W in 10, home 1-1-3); Hebburn 1W 5D 4L, draw-prone.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Chorley result-side despite p 0.51: home form weak",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results",
+   "https://darlingtonfc.co.uk/league-table",
+   "https://www.southportcentral.co.uk/new-faces-and-familiar-names-a-look-at-southports-new-national-league-north-opponents/"
+  ]
+ },
+ {
+  "eid": "sr:match:72759498",
+  "fx": "Darlington FC v Southport FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Darlington 22nd (3W, 12 pts from 17), in bottom four; new manager Craig Elliott appointed 6 Nov. Lost 0-2 at Hereford Sat. Darlington unbeaten at home in last 5 (2W 3D, ga 0.6); Southport away 1W 1D 4L scoring 0.33/game.",
+  "news": "Fixture confirmed 24/11 19:45; new-manager Darlington must-win in relegation zone; Southport manager situation unclear between sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.19,
+    "p": 0.7985423587,
+    "why": "Darlington home 2-3-0 ga 0.6 v Southport scoring 0.33 away; relegation must-win under new manager; my p 0.81"
+   }
+  ],
+  "avoid": "Darlington 1X2 (3 wins all season)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results",
+   "https://darlingtonfc.co.uk/league-table",
+   "https://footballclubforums.com/darlington-fc/"
+  ]
+ },
+ {
+  "eid": "sr:match:72759500",
+  "fx": "Harborough Town FC v Chester FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Chester 3rd (32 pts, 11W from 20 per Forebet); Harborough 3-1-0 at home but 0W in last 5 away.",
+  "news": "Fixture confirmed (Harborough site 7.45pm; Forebet 20:45 GMT is a TZ artefact). Chester beat/played Macclesfield Sat 21 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Chester away 1X2 (p 0.42); X2 at 1.36 has no mechanism beyond table",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/harborough-town-chester-fc-2500067",
+   "https://www.footballwebpages.co.uk/harborough-town/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72759502",
+  "fx": "Hednesford Town v Oxford City",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Hednesford 8W in last 10 (home 5-0-1, 2.67 gf); Oxford City away 3W 2D 0L.",
+  "news": "Hednesford fixtures page confirms H v Oxford City 7.45pm.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hednesford 1X2 at 2.25 (>2.2); both sides in form, no mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/hednesford-town/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72759504",
+  "fx": "Kings Lynn FC v Radcliffe FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kings Lynn home 3W 1D 0L, conceded 0 at home in last 4; Radcliffe 6L in 10, ga 2.3.",
+  "news": "No result found for this fixture in search; Sportradar/board list it 24 Nov 19:45.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.2,
+    "p": 0.7887088175,
+    "why": "Kings Lynn unbeaten with 4 home clean sheets v Radcliffe conceding 2.3; my p 0.80 (house 0.79); statistics-only so fill"
+   }
+  ],
+  "avoid": "overs (Kings Lynn home games low-scoring)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results",
+   "https://darlingtonfc.co.uk/league-table"
+  ]
+ },
+ {
+  "eid": "sr:match:72759506",
+  "fx": "Macclesfield FC v Morecambe FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Title rivals (preseason three-horse race South Shields/Macclesfield/Morecambe); Morecambe manager Adam Lakeland (since Apr 2026). Standings sources conflict (Macc 6th/2nd).",
+  "news": "Fixture at Moss Rose Tue 24 Nov 19:45 per Morecambe fixture list; table snapshots disagree.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (big-club clash of the division); O1.5 at 1.16 is sub-1.18",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.morecambefc.com/matches",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.racingpost.com/sport/football-tips/national-league/national-league-2026-27-predictions-title-promotion-and-odds-a9CPW2F7mVFb/"
+  ]
+ },
+ {
+  "eid": "sr:match:72759508",
+  "fx": "Marine FC v Spennymoor Town FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Marine home 2W 1D 0L (ga 0.33); Spennymoor 7L in 10, away 0W 4L (0.5 gf, 2.5 ga).",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.2,
+    "p": 0.7917994163,
+    "why": "Spennymoor lost all 4 recent away games scoring 0.5; Marine unbeaten at home; my p 0.81 (house 0.79)"
+   }
+  ],
+  "avoid": "Marine 1X2 (lost heavily away recently, 0-7)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results",
+   "https://darlingtonfc.co.uk/league-table"
+  ]
+ },
+ {
+  "eid": "sr:match:72759510",
+  "fx": "Merthyr Town v Bedford Town Football Club",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Merthyr 2W in 10; Bedford 6L in 10 but 2.5 gf away; both concede ~2.",
+  "news": "No news found; Bedford beaten by leaders South Shields Sat 21 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (Merthyr poor); integer lines",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results",
+   "https://darlingtonfc.co.uk/league-table"
+  ]
+ },
+ {
+  "eid": "sr:match:72759512",
+  "fx": "Scarborough Athletic v Spalding United",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Scarborough 0W at home in last 4; Spalding away 1W 4L.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: two out-of-form sides, no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results",
+   "https://darlingtonfc.co.uk/league-table"
+  ]
+ },
+ {
+  "eid": "sr:match:72759514",
+  "fx": "South Shields v Worksop Town",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "South Shields top (35 pts from 16, 11W); won at Bedford Sat. 7W in last 10. Worksop away 0W 2D 1L.",
+  "news": "Fixture confirmed by South Shields and Worksop sites 24/11 19:45; venue naming differs (Wolf Competitions Stadium = sponsor name of Mariners Park), not a conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.7526101444,
+    "why": "Leaders with 7W in 10 v Worksop winless away; DNB covers draw; my p 0.77 (house 0.75)"
+   }
+  ],
+  "avoid": "South Shields 1X2 win-only is fine at 1.59 but DNB preferred",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.southshieldsfc.co.uk/",
+   "https://www.yorkshire.com/sport/football/worksop-town/2026-27/fixtures",
+   "https://www.footballstreams.com/matches/south-shields-vs-worksop-town-20261124/"
+  ]
+ },
+ {
+  "eid": "sr:match:72758340",
+  "fx": "Dagenham and Redbridge FC v Tonbridge Angels",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Level on 28 pts (Tonbridge GD +11, Daggers +3); Dagenham won 1-0 at Totton Sat; Daggers home 3W 2D 0L.",
+  "news": "Confirmed Tue 24 Nov 7.45pm at Victoria Road (Tonbridge club preview).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (evenly matched)",
+  "confidence": 0.15,
+  "sources": [
+   "https://tonbridgeangels.co.uk/dagenham-redbridge-match-preview/",
+   "https://matchside.co/event/dagenham-redbridge-v-tonbridge-angels-2026-11-24"
+  ]
+ },
+ {
+  "eid": "sr:match:72758342",
+  "fx": "Ebbsfleet United FC v Billericay Town",
+  "sport": "football",
+  "absences": "no team news (lineups not out)",
+  "context": "Ebbsfleet top (34-36 pts, 10W 4D 1L); drew Sat via late Dom Samuel penalty; Billericay 6th/7th (26-30 pts), won 4-1 v Slough, 6W 3D 1L last 10. Ebbsfleet beat Farnborough 6-0 on 3 Nov.",
+  "news": "Kick-off 19:45 confirmed; venue named Stonebridge Road / Kuflink Stadium (same ground, sponsor rename) - not a conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7727703796,
+    "why": "Leaders at home 3W 1D unbeaten (3.25 gf) v Billericay drawing both recent away games; DNB covers draw; my p 0.78 (house 0.77)"
+   }
+  ],
+  "avoid": "Ebbsfleet 1X2 / handicaps: Billericay in form, 6W 3D 1L",
+  "confidence": 0.25,
+  "sources": [
+   "https://thenonleaguefootballpaper.com/latest-news/step-2/national-league-north-and-south/national-league-south/632715/samuel-fleet-at-rescues-the-last",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.statshub.com/fixture/ebbsfleet-united-vs-billericay-town-fc-mvykc1/583349"
+  ]
+ },
+ {
+  "eid": "sr:match:72758344",
+  "fx": "Farnham Town v Maidenhead United FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Farnham 6W in 10 (home 3-1-2); Maidenhead 2W 4D 4L, away 2.6 gf/2.4 ga.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides; integer lines",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72758348",
+  "fx": "Hampton & Richmond Borough v Dover Athletic FC",
+  "sport": "football",
+  "absences": "Dover: Jack Bates fitness doubt (came off v Horsham)",
+  "context": "Hampton 22nd, 0W in last 10 (8L); Alan Dowson quit after 2-0 loss to Ebbsfleet, Richard Thomas now in charge (new-manager bounce risk). Dover 7W 2D 1L last 10 under Jake Leberl; play at Truro Sat then FA Cup v Leicester.",
+  "news": "Kentonline preview: Dover travel to strugglers Hampton under new management; Bates doubt.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.56,
+    "p": 0.5811629338,
+    "why": "Hampton winless in 10 (0.9 gf) v Dover 7W 2D 1L conceding 0.7; X2 survives a bounce draw; my p 0.63 (house 0.58)"
+   }
+  ],
+  "avoid": "Dover 1X2 (away, p 0.33): new-manager bounce and FA Cup on horizon",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.kentonline.co.uk/dover/sport/manager-on-midweek-match-as-dover-hit-the-road-again-347660/",
+   "https://en.wikipedia.org/wiki/Alan_Dowson"
+  ]
+ },
+ {
+  "eid": "sr:match:72758352",
+  "fx": "Horsham FC v Truro City",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Truro City title-chasing (8W 1D 1L last 10, ga 0.6; Kentonline calls them title-chasing); Horsham 4W 2D 4L, lost 1-2 at Dover.",
+  "news": "Search found no Truro/Horsham specific listing; Sportradar/board 24 Nov 19:45 (no conflict found).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.33,
+    "p": 0.6999613672,
+    "why": "Truro 8-1-1 conceding 0.6 v Horsham lost at Dover; X2 avoids away 1X2 (p 0.42 < 0.75); my p 0.72 (house 0.70)"
+   }
+  ],
+  "avoid": "Truro 1X2 (away, p 0.42)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.kentonline.co.uk/dover/sport/manager-on-midweek-match-as-dover-hit-the-road-again-347660/",
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72758354",
+  "fx": "Salisbury FC v AFC Totton",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Salisbury 8W 2D 0L last 10, home 5W 1D (3.5 gf, 0.17 ga); scored in last 9. Totton 7L in 10, conceded in last 10; lost 0-1 at home to Dagenham Sat.",
+  "news": "Kick-off 19:45 confirmed (FWP, Betting Tips Today); standings snapshots conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.64,
+    "p": 0.576679,
+    "why": "Salisbury unbeaten in 10 with 0.17 home GA v Totton losing 7 of 10; my p 0.63 (house 0.58)"
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.19,
+    "p": 0.7983787484,
+    "why": "same mechanism, protected; my p 0.83"
+   }
+  ],
+  "avoid": "Totton goals markets",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results",
+   "https://bettingtips.today/correct-score-predictions-tips/tomorrow"
+  ]
+ },
+ {
+  "eid": "sr:match:72758356",
+  "fx": "Slough Town v Farnborough FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Slough 2W 1D 7L (ga 2.3), lost 1-4 at Billericay; Farnborough 6L in 10 (ga 2.8) incl. 0-6 v Ebbsfleet and 0-5, lost 1-2 at Chelmsford.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.36,
+    "p": 0.702465,
+    "why": "two worst defences in the sample (2.3 and 2.8 ga/game); my p 0.71 (house 0.70); English non-league Over class - fill only"
+   }
+  ],
+  "avoid": "result-sides",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72758358",
+  "fx": "Torquay United v Chesham United",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Chesham near bottom (six points from safety per preview), away 1W 4L ga 3.0; Torquay low-scoring (1.2 gf/0.8 ga), drew 1-1 last home; played at Braintree Sat.",
+  "news": "Bookmakers 3/5 Torquay; 19:45 confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.34,
+    "p": 0.706818,
+    "why": "Chesham concede 3.0 away and sit in relegation trouble; DNB covers Torquay low-scoring draw risk; my p 0.73 (house 0.71)"
+   }
+  ],
+  "avoid": "overs (Torquay games low-scoring); Torquay 1X2 win-only",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south",
+   "https://www.oddschecker.com/football/english/non-league/national-league-south"
+  ]
+ }
+]

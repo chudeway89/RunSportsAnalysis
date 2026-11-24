@@ -1,0 +1,473 @@
+[
+ {
+  "eid": "sr:match:72734348",
+  "fx": "Manitoba Moose v Grand Rapids Griffins",
+  "sport": "ice hockey",
+  "absences": "None named. Nov 18 meeting: Trey Augustine in goal for GR (37 saves), Domenic DiVincentiis for Manitoba.",
+  "context": "AHL top-two clash: Griffins 1st (16-2-1-1, 34 pts), Moose tied 2nd (14-7, 28 pts). School-day game; back-to-back series, same teams again Wed Nov 25. Griffins beat Moose 6-3 on Nov 18.",
+  "news": "Ticket listings give 10:30 a.m. local Winnipeg (=16:30 UTC); board says 15:30 UTC: one-hour kick-off conflict.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict: listings 10:30 CST (16:30 UTC) v board 15:30 UTC; also a school-day game (atypical morning, line-up/goalie unknown).",
+  "picks": [],
+  "avoid": "All markets; morning school-day game, goalie unknown.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eventticketscenter.com/manitoba-moose-vs-grand-rapids-griffins-winnipeg-11-24-2026/8123570/t",
+   "https://www.canadalifecentre.ca/calendar-events/moose-vs-griffins-school-day/",
+   "https://woodradio.iheart.com/featured/wood-radio-local-news/content/2026-11-18-griffins-double-up-the-manitoba-moose-extend-their-undefeated-streak-on-home-ice/",
+   "https://illegalcurve.com/manitoba-moose-erase-deficit-against-top-ranked-griffins-but-fall-6-3/"
+  ]
+ },
+ {
+  "eid": "sr:match:75554534",
+  "fx": "Eczacibasi Istanbul v OK Tent Obrenovac",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Women's CEV Champions League pool D opener (Eczacibasi, Scandicci, Tent, qualifier). Tent came through qualifying. Eurosport 17:00 CET / Eurovolley 16:00 (timezone), consistent with 16:00 UTC.",
+  "news": "Group opener, heavy mismatch; women's competition.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks per rule; ML 1.0x untradeable.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_CEV_Women's_Champions_League",
+   "https://www.eurosport.de/volleyball/cev-champions-league/zeitplan-kalender-ergebnisse.shtml",
+   "https://www.eurovolley.tv/pages/xKv3Rmll2"
+  ]
+ },
+ {
+  "eid": "sr:match:75554436",
+  "fx": "Fenerbahce Istanbul v Vasas Obuda Budapest",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Women's CEV Champions League pool C opener; Vasas Obuda a qualifier. Eurosport 17:00 CET.",
+  "news": "Mismatch, women's competition.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_CEV_Women's_Champions_League",
+   "https://www.eurosport.de/volleyball/cev-champions-league/zeitplan-kalender-ergebnisse.shtml",
+   "https://www.eurovolley.tv/pages/xKv3Rmll2"
+  ]
+ },
+ {
+  "eid": "sr:match:72764982",
+  "fx": "Trefl Gdansk v Exact Systems Norwid Czestochowa",
+  "sport": "volleyball",
+  "absences": "No injuries reported for either side.",
+  "context": "PlusLiga (Tauron Liga) round 8, Ergo Arena 17:30 local (=16:30 UTC, matches board). Trefl 8th, 9 pts after 8; Norwid 12th, 6 pts after 7, lost 1-3 to Projekt last time and have yet to win away this season (Gazeta Regionalna headline).",
+  "news": "Trefl modest favourite; Norwid winless away; previews call it close-ish.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.37,
+    "p": 0.698149,
+    "why": "Norwid have no away win this season and sit 12th; Trefl at home in Ergo Arena 8th. My p ~0.71, roughly house; fill-grade, no named absence."
+   }
+  ],
+  "avoid": "Set handicap -1.5 (0.54) and point lines are coin flips.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.trojmiasto.pl/sport/Siatkowka-mezczyzn-ENERGA-TREFL-Gdansk-Neonet-Norwid-Czestochowa-imp606372.html",
+   "https://www.podkarpacielive.pl/pl/wydarzenia/65360,energa-trefl-gdansk---neonet-norwid-czestochowa-typy-kursy-bukmacherskie-zapowiedz-24112026",
+   "https://gazetaregionalna.com/2026/11/23/czy-bedzie-pierwsze-wyjazdowe-zwyciestwo-w-gdansku/",
+   "https://zycieczestochowy.pl/norwid-czestochowa-jedzie-do-gdanska-przed-siatkarzami-kolejny-ligowy-sprawdzian/"
+  ]
+ },
+ {
+  "eid": "sr:match:76765538",
+  "fx": "Black Volley Beskydy v Vk Pribram",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Czech Cup (Chance Cesky pohar) tie; Beskydy (Extraliga, 2023/24 cup winners) v Pribram.",
+  "news": "volej.tv listing shows 9:00 start v board 17:00 UTC (18:00 local): kick-off conflict.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between volej.tv (09:00) and board (17:00 UTC).",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://volej.tv/",
+   "https://www.cvf.cz/souteze/celostatni-souteze?gameId=923991&competitionId=18658&mode=program",
+   "https://www.livesport.cz/tym/dobrichovice/jqPtZc2e/"
+  ]
+ },
+ {
+  "eid": "sr:match:74607372",
+  "fx": "Hapoel Husam Nazerath v Hapoel Arayot Jerusalem",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Israeli men's Premier League; both sides poor form (home 1-6, away 2-8 last 10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin league, no coverage; coin-flip prices.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/volleyball/match/premier-league-8402/hapoel-mate-asher-maccabi-tel-aviv-16512-22968-8402"
+  ]
+ },
+ {
+  "eid": "sr:match:74607374",
+  "fx": "Hapoel Mate-Asher v Hapoel Sva Rehovot",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Israeli Premier League; Mate-Asher top of table with a perfect record per 365scores (10-0 last 10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.05 too short; no in-range market with mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/volleyball/match/premier-league-8402/hapoel-mate-asher-maccabi-tel-aviv-16512-22968-8402"
+  ]
+ },
+ {
+  "eid": "sr:match:74607378",
+  "fx": "Maccabi Ashdod v Hapoel Hamaapil/Menashe/Emek Hefer",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Israeli Premier League; Ashdod 3-7, visitors 3-7 last 10; H2H split 3-1/2-3.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.29 not supported by form (3-7); skip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/volleyball/match/premier-league-8402/hapoel-mate-asher-maccabi-tel-aviv-16512-22968-8402"
+  ]
+ },
+ {
+  "eid": "sr:match:74607376",
+  "fx": "Maccabi Tel Aviv v MS Eilabun",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Israeli Premier League; Maccabi Tel Aviv 2nd per 365scores, Eilabun 5-5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.01 untradeable.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/volleyball/match/premier-league-8402/hapoel-mate-asher-maccabi-tel-aviv-16512-22968-8402"
+  ]
+ },
+ {
+  "eid": "sr:match:72986834",
+  "fx": "Team Koge v Farum VK",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Danish women's Volleyligaen; Koge 1-9 last 10 (9th last season), Farum 6-4; Farum won both recent H2H.",
+  "news": "no 2026 news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://volleyligaen.dk/kvinder/",
+   "https://women.volleybox.net/farum-vk-t18387/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:76615302",
+  "fx": "SV Warnemünde v SWD Powervolleys Duren",
+  "sport": "volleyball",
+  "absences": "None named.",
+  "context": "DVV-Pokal men quarter-final, single match, ARENA Rostock 19:00 local (=18:00 UTC). Warnemuende needed a tie-break at 2nd-tier Neustrelitz in R16 after trailing 1-2; Dueren beat Munich 3-0 (club/federation) and already beat Warnemuende earlier this season. Semis in December, final 27 Feb Cologne.",
+  "news": "Dueren clear favourite, live on Dyn.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dueren ML 1.09 too short; 1st-set 1.21 is noisy (cup home crowd). Knockout: result-side only as qualify.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.volleyball-verband.de/de/redaktion/2026/november/viertelfinals-der-maenner--der-weg-nach-koeln-fuehrt-ueber-vier-pokalduelle/",
+   "https://www.radiorur.de/artikel/powervolleys-trifft-auf-sv-warnemuende-im-viertelfinale-2801390",
+   "https://www.swd-powervolleys.de/de/news/mit-30-ins-pokal-viertelfinale/",
+   "https://www.dvv-pokal.de/cms/home/pokalfinale/infos/teamportraits.xhtml"
+  ]
+ },
+ {
+  "eid": "sr:match:72761074",
+  "fx": "TJ Sokol Dobrichovice v Kolin",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Czech 1. liga men, cvf.cz lists Tue 24 Nov 19:30 local (=18:30 UTC, matches). Dobrichovice 9-1 last 10 and beat Kolin 3-0 away on 30 Oct.",
+  "news": "Date/time consistent with federation listing.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.04 untradeable; no in-range market.",
+  "confidence": 0.15,
+  "sources": [
+   "https://volej.tv/",
+   "https://www.cvf.cz/souteze/celostatni-souteze?gameId=923991&competitionId=18658&mode=program",
+   "https://www.livesport.cz/tym/dobrichovice/jqPtZc2e/"
+  ]
+ },
+ {
+  "eid": "sr:match:76615304",
+  "fx": "SSC Karlsruhe v Svg Luneburg",
+  "sport": "volleyball",
+  "absences": "None named.",
+  "context": "DVV-Pokal quarter-final, single match, 19:30 local (=18:30 UTC). Lueneburg are cup holders (won the 2026 final in Mannheim) and beat Karlsruhe 3-0 away in last season's R16.",
+  "news": "Holders travel to Karlsruhe; same tie as last season (3-0 Lueneburg).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.8111,
+    "why": "Single-match cup tie, so Winner = To Qualify. Holders Lueneburg won this exact tie 3-0 away last season; Karlsruhe 5-5 form. My p ~0.84 v house 0.81."
+   }
+  ],
+  "avoid": "Set handicaps; cup-night upset risk in the 1st set.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.volleyball-verband.de/de/redaktion/2026/november/viertelfinals-der-maenner--der-weg-nach-koeln-fuehrt-ueber-vier-pokalduelle/",
+   "https://www.radiorur.de/artikel/powervolleys-trifft-auf-sv-warnemuende-im-viertelfinale-2801390",
+   "https://www.swd-powervolleys.de/de/news/mit-30-ins-pokal-viertelfinale/",
+   "https://www.dvv-pokal.de/cms/home/pokalfinale/infos/teamportraits.xhtml"
+  ]
+ },
+ {
+  "eid": "sr:match:76906478",
+  "fx": "HC La Chaux-de-Fonds v EHC Visp",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Swiss League: Visp (2nd, promotion race, ~37 pts/17 GP) at La Chaux-de-Fonds (~35 pts/18 GP), Patinoire des Melezes 19:45 local (=18:45 UTC, matches). HCC won 3-2 in Visp on Nov 17.",
+  "news": "Close top-table rematch a week after HCC's 3-2 away win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Visp ML 1.73 at p 0.54 and totals near 50/50: no edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nau.ch/sport/matchcenter/swiss-league-ehc-visp-gegen-la-chaux-de-fonds-ab-1930-live-67203228",
+   "https://www.ehc-visp.ch/de",
+   "https://www.hccnet.ch/"
+  ]
+ },
+ {
+  "eid": "sr:match:76500076",
+  "fx": "Arago de Sete v St. Nazaire VB",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Coupe de France men round of 16, single match, Tue 24 Nov 20:00 local (FFvolley programme lists Sete-St Nazaire, Cannes-Royan, Nancy-Poitiers, Rennes-Toulouse, Chalon-Nice, Chaumont-Tourcoing, Narbonne-Montpellier, St Quentin-Tours). Sete 2-8 last 10.",
+  "news": "Fixture confirmed in R16 programme.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip prices.",
+  "confidence": 0.1,
+  "sources": [
+   "https://jhm.fr/le-chuamont-vb52-doit-reprendre-le-manche/",
+   "https://cvb52.com/",
+   "https://www.ffvb.org/front/index.php?mduuseid=MTY%253D&dsgtypid=36&page=result&search=coupe+de+france&search.x=0&search.y=0"
+  ]
+ },
+ {
+  "eid": "sr:match:76500074",
+  "fx": "AS Cannes Volley-Ball v Royan Atlantique Volleyball",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Coupe de France men round of 16, single match, Tue 24 Nov 20:00 local (FFvolley programme lists Sete-St Nazaire, Cannes-Royan, Nancy-Poitiers, Rennes-Toulouse, Chalon-Nice, Chaumont-Tourcoing, Narbonne-Montpellier, St Quentin-Tours). Cannes (Ligue A) 7-3 last 10 v Royan 4-6; beat Royan 3-1 in last H2H.",
+  "news": "Fixture confirmed in R16 programme.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.768396,
+    "why": "Single-match cup tie, Winner = To Qualify; Cannes 7-3 form at home, won last H2H 3-1. My p ~0.78. Statistic-grade, not named-mechanism: fill only."
+   }
+  ],
+  "avoid": "Point handicap -10.5/-12.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://jhm.fr/le-chuamont-vb52-doit-reprendre-le-manche/",
+   "https://cvb52.com/",
+   "https://www.ffvb.org/front/index.php?mduuseid=MTY%253D&dsgtypid=36&page=result&search=coupe+de+france&search.x=0&search.y=0"
+  ]
+ },
+ {
+  "eid": "sr:match:76501212",
+  "fx": "Chaumont 52 v Tourcoing Lille Metropole",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Coupe de France men round of 16, single match, Tue 24 Nov 20:00 local (FFvolley programme lists Sete-St Nazaire, Cannes-Royan, Nancy-Poitiers, Rennes-Toulouse, Chalon-Nice, Chaumont-Tourcoing, Narbonne-Montpellier, St Quentin-Tours). Chaumont v Tourcoing at Palestra 20:00 local, confirmed by club.",
+  "news": "Confirmed by Chaumont club site.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Close prices, no edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://jhm.fr/le-chuamont-vb52-doit-reprendre-le-manche/",
+   "https://cvb52.com/",
+   "https://www.ffvb.org/front/index.php?mduuseid=MTY%253D&dsgtypid=36&page=result&search=coupe+de+france&search.x=0&search.y=0"
+  ]
+ },
+ {
+  "eid": "sr:match:76501216",
+  "fx": "FL Saint-Quentin Volleyball v Tours Volley-Ball",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Coupe de France men round of 16, single match, Tue 24 Nov 20:00 local (FFvolley programme lists Sete-St Nazaire, Cannes-Royan, Nancy-Poitiers, Rennes-Toulouse, Chalon-Nice, Chaumont-Tourcoing, Narbonne-Montpellier, St Quentin-Tours). Saint-Quentin is a Ligue B side v Ligue A Tours.",
+  "news": "Tier mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tours 1.06 too short; points totals coin flips.",
+  "confidence": 0.15,
+  "sources": [
+   "https://jhm.fr/le-chuamont-vb52-doit-reprendre-le-manche/",
+   "https://cvb52.com/",
+   "https://www.ffvb.org/front/index.php?mduuseid=MTY%253D&dsgtypid=36&page=result&search=coupe+de+france&search.x=0&search.y=0"
+  ]
+ },
+ {
+  "eid": "sr:match:76501214",
+  "fx": "Nancy Volley Maxeville Jarville v Stade Poitevin Poitiers",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Coupe de France men round of 16, single match, Tue 24 Nov 20:00 local (FFvolley programme lists Sete-St Nazaire, Cannes-Royan, Nancy-Poitiers, Rennes-Toulouse, Chalon-Nice, Chaumont-Tourcoing, Narbonne-Montpellier, St Quentin-Tours). Both 5-5 last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Poitiers 1.21 unsupported by form (5-5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://jhm.fr/le-chuamont-vb52-doit-reprendre-le-manche/",
+   "https://cvb52.com/",
+   "https://www.ffvb.org/front/index.php?mduuseid=MTY%253D&dsgtypid=36&page=result&search=coupe+de+france&search.x=0&search.y=0"
+  ]
+ },
+ {
+  "eid": "sr:match:76501220",
+  "fx": "Narbonne Volley v Montpellier Volley UC",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Coupe de France men round of 16, single match, Tue 24 Nov 20:00 local (FFvolley programme lists Sete-St Nazaire, Cannes-Royan, Nancy-Poitiers, Rennes-Toulouse, Chalon-Nice, Chaumont-Tourcoing, Narbonne-Montpellier, St Quentin-Tours). Narbonne 2-8 last 10; Montpellier 5-5, won last H2H 3-1.",
+  "news": "Fixture confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Montpellier -1.5 sets 1.63 at 0.58: no edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://jhm.fr/le-chuamont-vb52-doit-reprendre-le-manche/",
+   "https://cvb52.com/",
+   "https://www.ffvb.org/front/index.php?mduuseid=MTY%253D&dsgtypid=36&page=result&search=coupe+de+france&search.x=0&search.y=0"
+  ]
+ },
+ {
+  "eid": "sr:match:76501218",
+  "fx": "Rennes Etudiants Club v Spacers Toulouse Volley",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Coupe de France men round of 16, single match, Tue 24 Nov 20:00 local (FFvolley programme lists Sete-St Nazaire, Cannes-Royan, Nancy-Poitiers, Rennes-Toulouse, Chalon-Nice, Chaumont-Tourcoing, Narbonne-Montpellier, St Quentin-Tours). Both 5-5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://jhm.fr/le-chuamont-vb52-doit-reprendre-le-manche/",
+   "https://cvb52.com/",
+   "https://www.ffvb.org/front/index.php?mduuseid=MTY%253D&dsgtypid=36&page=result&search=coupe+de+france&search.x=0&search.y=0"
+  ]
+ },
+ {
+  "eid": "sr:match:76500072",
+  "fx": "Vbc Chalon Sur Saone v Nice Volley Ball",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Coupe de France men round of 16, single match, Tue 24 Nov 20:00 local (FFvolley programme lists Sete-St Nazaire, Cannes-Royan, Nancy-Poitiers, Rennes-Toulouse, Chalon-Nice, Chaumont-Tourcoing, Narbonne-Montpellier, St Quentin-Tours). Nice (Ligue A, last season's cup finalist v Paris) at Chalon.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Nice 1.11 short; trend says Over 3.5 sets 75% but price is 50/50 noise.",
+  "confidence": 0.1,
+  "sources": [
+   "https://jhm.fr/le-chuamont-vb52-doit-reprendre-le-manche/",
+   "https://cvb52.com/",
+   "https://www.ffvb.org/front/index.php?mduuseid=MTY%253D&dsgtypid=36&page=result&search=coupe+de+france&search.x=0&search.y=0"
+  ]
+ },
+ {
+  "eid": "sr:match:76760534",
+  "fx": "HAOK Mladost v Kaposvar SE",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "CEV Champions League men qualifying R3 2nd leg, Zagreb. Mladost won leg 1 3-0 away (25-23, 25-15, 25-20; Leo Andric 20 pts). Mladost need only 2 sets to qualify; Kaposvar need a 3-0/3-1 win to force a golden set. First main-phase entry in 27 years at stake.",
+  "news": "Mladost huge aggregate cushion.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.12 short; the aggregate cushion can lower the effort once 2 sets are won, so avoid set/point handicaps.",
+  "confidence": 0.2,
+  "sources": [
+   "https://worldofvolley.com/latest_news/cev/337366/mladost-zagreb-kaposvar-champions-league.html",
+   "https://www.zerozero.pt/jogo/2026-11-19-kaposvar-se-haok-mladost/12310595"
+  ]
+ },
+ {
+  "eid": "sr:match:75830784",
+  "fx": "Altafratte v Altino Volley",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Italian women's Serie A2: AltaFratte Padova (17 pts, beat Busto 3-2 on Nov 15) v bottom side Altino (4 pts, lost 3-1 at Messina). Tue 20:00 at Pala BCC Trebaseleghe (=19:00 UTC, matches). One report's venue wording is ambiguous, but the preview names Trebaseleghe.",
+  "news": "Top-half v bottom; women's.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.padovaoggi.it/sport/volley/padova-a2-altefratte-campionato-22-novembre-2026.html",
+   "https://www.abruzzopopolare.com/2026/11/18/volley-a2-donne-altino-a-picco/",
+   "https://www.padovaoggi.it/sport/volley/padova-vittoria-alta-fratte-15-novembre-2026.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75360816",
+  "fx": "Brasilia Volei v EC Pinheiros",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Brazilian women's Superliga: Brasilia 0-6 (no wins) host Pinheiros (7th, no away win this season). Ginasio FVDF 18:30 local (=21:30 UTC, matches).",
+  "news": "Brasilia winless; Pinheiros winless away.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks; Pinheiros 1.37 conflicts with their 0-4 away record.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.otempo.com.br/sports/volei/2026/11/24/superliga-feminina-desta-terca-feira-24-11-jogos-e-onde-assistir",
+   "https://www.correiobraziliense.com.br/esportes/2026/11/7542982-superliga-feminina-brasilia-segue-em-busca-da-primeira-vitoria.html",
+   "https://webvolei.com.br/barueri-vence-brasilia-superliga-feminina/"
+  ]
+ }
+]

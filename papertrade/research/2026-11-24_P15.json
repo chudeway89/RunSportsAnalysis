@@ -1,0 +1,608 @@
+[
+ {
+  "eid": "sr:match:73463722",
+  "fx": "Smouha SC v National Bank of Egypt SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Smouha (9th) and NBE (8th) level on 11 pts from 8; Smouha played Egypt Cup v ZED Nov 19 (0-0). Smouha last-10 GF 0.7 GA 0.6 - very low scoring.",
+  "news": "Fixture confirmed 15:00 GMT Alexandria Stadium; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3",
+    "desc": "Under 3",
+    "odds": 1.18,
+    "p": 0.821777,
+    "why": "Smouha games avg 1.3 total goals over last 10 (0.7/0.6); integer line voids at exactly 3. Statistics-led, Egypt low scoring. My p 0.84."
+   }
+  ],
+  "avoid": "No O1.5 (Egypt thin/low-scoring context); no result side - evenly matched.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/egyptian-premier-league-fixtures-midweek-schedule-and-kick-off-times-24-25-november-2026/",
+   "https://www.soccerway.com/egypt/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73463720",
+  "fx": "Zed FC v Abo Qair Semads",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Abo Qair Semad 19th on 4 pts, 0 wins in last 10 (0-2-8, GF 0.5). ZED unbeaten at home in last 6 (4-2-0).",
+  "news": "No team news found; fixture listed 24 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.24,
+    "p": 0.7730812189,
+    "why": "Abo Qair winless in 10 (0-2-8) and 0-2-4 away, scoring 0.5/game; ZED 4-2-0 at home. My p 0.80."
+   }
+  ],
+  "avoid": "Unders below 0.82; Home 1X2 at 2.05 too thin.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/egyptian-premier-league-fixtures-midweek-schedule-and-kick-off-times-24-25-november-2026/",
+   "https://www.soccerway.com/egypt/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73959824",
+  "fx": "Tafic FC v Morupule Wanderers",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Botswana PL; both mid/low table, draw-heavy profiles (Tafic 4-4-2, Morupule 2-5-3).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything - coin-flip fixture, no coverage.",
+  "confidence": 0.1,
+  "sources": [
+   "https://footystats.org/botswana/township-rollers-fc-vs-prisons-xi-gaborone-h2h-stats",
+   "https://www.sofascore.com/football/tournament/botswana/premier-league/11420"
+  ]
+ },
+ {
+  "eid": "sr:match:73959822",
+  "fx": "Township Rollers v Prisons Xi Gaborone",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Township Rollers ~2.0 PPG at home; Prisons XI near bottom (16th on one table), 1 PPG away, last-10 2-2-6, GF 0.8.",
+  "news": "Fixture confirmed 24 Nov (FootyStats); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.79168293,
+    "why": "Prisons 2-2-6 last 10 and 1-1-3 away scoring 0.8; Rollers home 2-2-1. DNB removes draw. Stats-only, thin coverage. My p 0.80."
+   }
+  ],
+  "avoid": "Over 2.5; Rollers -0.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://footystats.org/botswana/township-rollers-fc-vs-prisons-xi-gaborone-h2h-stats",
+   "https://www.sofascore.com/football/tournament/botswana/premier-league/11420"
+  ]
+ },
+ {
+  "eid": "sr:match:76676130",
+  "fx": "Botafogo Fr RJ v CR Vasco da Gama RJ",
+  "sport": "football",
+  "absences": "n/a (women)",
+  "context": "Women: Carioca Feminino 2nd phase (Botafogo, Flamengo, Vasco, Fluminense), Rio derby.",
+  "news": "Women's fixture; no score/date info found for this pairing.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women + derby: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flamengo.com.br/noticias/futebol-feminino/flamengo-marica-conhece-a-tabela-do-carioca-feminino-2026",
+   "https://www.fluminense.com.br/noticia/fluminense-conhece-tabela-e-regulamento-do-carioca-feminino-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:76642742",
+  "fx": "CR Flamengo RJ v Fluminense FC RJ",
+  "sport": "football",
+  "absences": "n/a (women)",
+  "context": "Women: Carioca Feminino 2nd phase Fla-Flu derby.",
+  "news": "Flamengo's published Carioca Feminino table lists Flamengo x Fluminense on 18/11, not 24/11.",
+  "veto": true,
+  "veto_reason": "Date conflict: club table lists Flamengo x Fluminense on 18 Nov vs board 24 Nov (possible rescheduling or return fixture unverified). Women + derby anyway.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flamengo.com.br/noticias/futebol-feminino/flamengo-marica-conhece-a-tabela-do-carioca-feminino-2026",
+   "https://www.fluminense.com.br/noticia/fluminense-conhece-tabela-e-regulamento-do-carioca-feminino-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73463728",
+  "fx": "Al Mokawloon Al Arab v El Qanah FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Arab Contractors (Mokawloon) unbeaten in last 5 at home (3-2-0), last-10 6-2-2; El Qanah 2-4-4, GA 1.9; last H2H 6-4.",
+  "news": "Fixture listed 24 Nov; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.27,
+    "p": 0.752414,
+    "why": "Mokawloon 3-2-0 at home, 6-2-2 last 10; El Qanah 1-2-3 away conceding 1.9. My p 0.78."
+   }
+  ],
+  "avoid": "Unders (6-4 H2H, El Qanah leaky); 1X2 home at 2.25.",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/egyptian-premier-league-fixtures-midweek-schedule-and-kick-off-times-24-25-november-2026/",
+   "https://www.soccerway.com/egypt/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73463724",
+  "fx": "Al-Masry v Asyut Petroleum",
+  "sport": "football",
+  "absences": "Al Masry: Moustafa Zeidan (muscle) missed Egypt Cup R16 Nov 19, status unknown",
+  "context": "Al Masry form WWLLL, played Egypt Cup R16 on Nov 19 at Suez; Asyut Petroleum on 3 straight defeats, last-10 GF 0.4.",
+  "news": "Preview: hosts look to revive form; Asyut lost three in a row. One listing shows 25 Nov 02:00 (UTC+8 conversion of 18:00 GMT - consistent).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.44,
+    "p": 0.673786,
+    "why": "Asyut score 0.4/game over last 10 and lost 3 straight; Al Masry 2-2-2 at home but defensively solid (GA 0.9). My p 0.69 - only marginally above house."
+   }
+  ],
+  "avoid": "AH -1.5 (low-scoring hosts); Unders below 0.82.",
+  "confidence": 0.25,
+  "sources": [
+   "https://ghanasoccernet.com/al-masry-vs-asyut-petrol-hosts-look-to-revive-form-in-november-24-league-clash",
+   "https://www.sofascore.com/football/match/asyut-petroleum-al-masry/kwrshqic"
+  ]
+ },
+ {
+  "eid": "sr:match:73661256",
+  "fx": "Oxford United v Tottenham Hotspur U21",
+  "sport": "football",
+  "absences": "Spurs U21 youth side",
+  "context": "EFL Trophy group, final round. Oxford won 4-0 v Cheltenham and are already through to Round 2 (rotation likely); Spurs U21 lost both group games (eliminated). Spurs U21 last-10 GF 2.9 GA 2.3.",
+  "news": "Oxford already qualified; Spurs U21 pointless; KO 19:00 confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.2,
+    "p": 0.8048084024,
+    "why": "Goals-only pick in youth mismatch: Spurs U21 games average 5.2 goals (2.9/2.3, incl. 8-9), Oxford 4-0 in previous group game. Rotation lowers Oxford quality but not goal volume. My p 0.82."
+   }
+  ],
+  "avoid": "No result side (youth, Oxford dead rubber/rotation); Over 3.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_Trophy",
+   "https://www.thefootballfinder.com/competition/efl-trophy-england",
+   "https://www.365scores.com/en-uk/football/match/efl-trophy-6986/everton-u21-tranmere-33-53474-6986"
+  ]
+ },
+ {
+  "eid": "sr:match:73701308",
+  "fx": "Salford City v Sunderland U21",
+  "sport": "football",
+  "absences": "Sunderland U21 youth side",
+  "context": "EFL Trophy group; Sunderland U21 on 1 pt.",
+  "news": "Sources conflict: The Football Finder lists Salford v Sunderland U21 as POSTPONED; Wikipedia/Live-Football-on-TV/footaz still list 19:00; LiveSoccerTV shows 14:00.",
+  "veto": true,
+  "veto_reason": "Status/kick-off conflict (postponed vs 19:00 vs 14:00).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_Trophy",
+   "https://www.thefootballfinder.com/competition/efl-trophy-england",
+   "https://www.365scores.com/en-uk/football/match/efl-trophy-6986/everton-u21-tranmere-33-53474-6986",
+   "https://www.footaz.net/match/salford-city-vs-sunderland-u21/"
+  ]
+ },
+ {
+  "eid": "sr:match:73661202",
+  "fx": "Tranmere Rovers FC v Everton U21",
+  "sport": "football",
+  "absences": "Everton U21 youth side",
+  "context": "EFL Trophy group; Tranmere 2nd (1W 1L), Everton U21 0 pts after 2 games.",
+  "news": "KO 19:00 per 365Scores; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Not a clear mismatch (Tranmere only 1.99) - youth rule: no picks.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_Trophy",
+   "https://www.thefootballfinder.com/competition/efl-trophy-england",
+   "https://www.365scores.com/en-uk/football/match/efl-trophy-6986/everton-u21-tranmere-33-53474-6986"
+  ]
+ },
+ {
+  "eid": "sr:match:72340060",
+  "fx": "Charlton Athletic v Lincoln City",
+  "sport": "football",
+  "absences": "Charlton: Rob Apter (knee) out; Miles Leaburn expected back after stitches. Lincoln: Conor McGrandles back from suspension.",
+  "context": "Championship relegation scrap: Charlton 19th on 17 pts, Lincoln two points behind on four straight defeats. Charlton GF 0.8 last 10.",
+  "news": "Nathan Jones expects Leaburn back; Godden pushing for a start; Lincoln seeking to end 4-game losing run. KO 19:45 The Valley.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.22,
+    "p": 0.792609,
+    "why": "Lincoln on 4 straight defeats and 1-1-3 away; Charlton at home with Leaburn back - Lincoln winning by 2+ is the only loss (by 1 = void... no, +1.0 by exactly 1 is push/void). My p 0.81."
+   }
+  ],
+  "avoid": "Overs; 1X2 either side.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/charlton-athletic/preview/charlton-vs-lincoln-prediction-team-news-lineups_609618.html",
+   "https://staceywest.net/2026/11/23/charlton-expect-striker-back-for-lincoln-city-clash-after-bizarre-injury/",
+   "https://dave.sport/news/rob-apter-injury-news-charlton-lincoln/"
+  ]
+ },
+ {
+  "eid": "sr:match:72340062",
+  "fx": "Middlesbrough FC v Swansea City",
+  "sport": "football",
+  "absences": "Middlesbrough: Neto Borges back fit; Lankshear back (13 min sub). Swansea: Josh Tymon, Marko Stamenic out; Alfie Jones, Rokas Pukstas sidelined; Eustaquio possible return.",
+  "context": "Boro 1st on 32 pts from 16, unbeaten at home (8 home league wins). Swansea under interim coaches after Vitor Matos left for Strasbourg; away 2-0-3 GA 2.2.",
+  "news": "Boro aim for 9th home win unbeaten; Swansea managerless with 4 absentees; drew 2-2 v West Brom Saturday.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.813761,
+    "why": "League leaders unbeaten at home v managerless Swansea missing Tymon/Stamenic/A.Jones/Pukstas; DNB covers the 1-1 several previews predict. My p 0.84."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.48,
+    "p": 0.661415,
+    "why": "Same mechanism (Boro 3-2-0 last 5 home, GA 0.8; Swansea 2-0-3 away). My p 0.68 - small edge only."
+   }
+  ],
+  "avoid": "Overs 3.5; Swansea +AH.",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.gazettelive.co.uk/sport/football/football-news/middlesbrough-predicted-team-vs-swansea-34955663",
+   "https://the72.co.uk/2026/11/24/middlesbrough-neto-borges-injury-latest-pre-swansea-city/",
+   "https://dave.sport/news/middlesbrough-v-swansea-preview-november-2026/",
+   "https://thehardtackle.com/round-up/2026/11/23/middlesbrough-vs-swansea-city-preview-prediction-probable-lineups-tactics-team-news-key-stats/"
+  ]
+ },
+ {
+  "eid": "sr:match:72340068",
+  "fx": "Sheffield United v Southampton",
+  "sport": "football",
+  "absences": "Sheff Utd: Doherty, Rothwell, Ryan One, Seriki injured; Tanganga suspended; Brereton Diaz ineligible v parent club; Kalvin Phillips back in contention. Southampton: Keven Schlotterbeck (shoulder) out, Caspar Jander doubtful.",
+  "context": "Sheff Utd 9th on 25 pts; Southampton top-6 (position differs by source due to 2-pt deduction). Blades have not taken a league point off Saints since 2009.",
+  "news": "8 players set to miss for Blades; two forced changes.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.49,
+    "p": 0.6340435111,
+    "why": "Blades missing 6 incl. suspended Tanganga and Brereton Diaz; Saints 6-2-2 last 10 (GA 0.8) and unbeaten H2H run since 2009. My p 0.67."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.8000486757,
+    "why": "Both sides GF 1.7 last 10; Blades home last 5 4-0,1-0,1-1; Championship ~2.6 avg. My p 0.81."
+   }
+  ],
+  "avoid": "Unders; Blades result side.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/sheffield-united/preview/sheff-utd-vs-southampton-prediction-team-news-lineups_609653.html",
+   "https://footballleagueworld.co.uk/8-players-set-to-miss-sheffield-united-vs-southampton/",
+   "https://the72.co.uk/2026/11/24/sheffield-united-mark-mcguinness-recall-southampton-bogey-tie/"
+  ]
+ },
+ {
+  "eid": "sr:match:75094672",
+  "fx": "Stevenage FC v Sheffield Wednesday",
+  "sport": "football",
+  "absences": "Stevenage: Jasper Pattenden, Dan Kemp, Jordan Roberts out. Sheff Wed: Reece James, Max Lowe, Tyler Onyango, Mason Burstow, Ali Al-Hamadi out.",
+  "context": "League One. Stevenage last-10 7-1-2, 4-0-1 at home. Wednesday played Friday (won), quick turnaround; Challinor keeping \"the same group\".",
+  "news": "Sports Mole predicts 0-1 Wednesday; Stevenage likely unchanged after weekend away win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.22,
+    "p": 0.792704,
+    "why": "Stevenage 4-0-1 at home and 7-1-2 last 10; Wednesday 1-1-3 away with 5 absentees on a Fri-Tue turnaround. Only a 2+ goal Wednesday win loses. My p 0.81."
+   }
+  ],
+  "avoid": "Wednesday result side (preview tip conflicts with form); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/stevenage/preview/stevenage-vs-sheff-weds-prediction-team-news-lineups_609655.html",
+   "https://thestar.co.uk/sport/football/sheffield-wednesday/stick-or-twist-for-stevenage-sheffield-wednesday-managers-selection-dilemma-for-busy-period-9367062"
+  ]
+ },
+ {
+  "eid": "sr:match:75464906",
+  "fx": "Port Vale v Northampton Town",
+  "sport": "football",
+  "absences": "Port Vale: Onel Hernandez suspended (red card at Barnet); Max Watters may be rested.",
+  "context": "League Two. Vale chasing 9th straight home win in all comps (last-10 home 7-0-0, GF 2.3); Northampton 1-3-1 away, GF 1.1. Winner moves within 2 pts of play-offs.",
+  "news": "Squawka and SoccerPunter both tip 1-0 Port Vale; one stale page dated Nov 20 (newer previews all 24 Nov).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.29,
+    "p": 0.7337476211,
+    "why": "8 straight home wins (4-2, 4-2, 4-2, 5-0 recently) v Northampton 1-3-1 away; Hernandez ban the only dent. My p 0.77."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.39,
+    "p": 0.6920016934,
+    "why": "Vale home games recently 6,6,6,5 goals; Northampton last 5 all had 2+ except 1-1... (3-2,1-1,1-2,0-4,0-1). My p 0.71 - marginal."
+   }
+  ],
+  "avoid": "Vale -1.5; Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://news.bet365.com/en-gb/article/how-to-watch-port-vale-v-northampton-town-live-stream-tv-channel-kick-off-time-and-head-to-head-stats/2026112312032491431",
+   "https://www.onevalefan.co.uk/2026/11/port-vale-v-northampton-town-preview-can-valiants-bounce-back-after-away-loss/",
+   "https://www.squawka.com/en/news/previews/port-vale-vs-northampton-predictions-betting-tips-24-11-26/"
+  ]
+ },
+ {
+  "eid": "sr:match:72740850",
+  "fx": "AFC Hornchurch v Sutton United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "National League; Hornchurch 4-0-6 last 10, Sutton 6-0-4.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - no coverage; non-league O1.5 banned.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.soccerstats.com/en-gb/leagues/england/national-league/england5"
+  ]
+ },
+ {
+  "eid": "sr:match:72740840",
+  "fx": "Altrincham FC v Wealdstone FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "National League; Wealdstone ~17th. Both high-scoring (Alty GF 1.9 GA 2.2; Wealdstone GF 2.0 GA 1.8).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "O1.5 (English non-league thin-context rule), result sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.soccerstats.com/en-gb/leagues/england/national-league/england5"
+  ]
+ },
+ {
+  "eid": "sr:match:72740842",
+  "fx": "Boston United FC v Barrow AFC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "National League; Boston 19th, lost 6-0 at Yeovil in Oct, GA 2.6 last 10. Barrow 8th, away 5-0-0 last 5, GA 0.7.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.38,
+    "p": 0.6718935411,
+    "why": "Barrow won all of their last 5 away (GA 0.7 last 10); Boston concede 2.6/game. Stats-only, no news. My p 0.70."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.41 < 0.75); Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.soccerstats.com/en-gb/leagues/england/national-league/england5"
+  ]
+ },
+ {
+  "eid": "sr:match:72740844",
+  "fx": "Carlisle United v Tamworth FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Carlisle 6th on 29 pts, last-10 9-1-0, GA 0.5; Tamworth on four-game winless run in all comps.",
+  "news": "Club matchday guide confirms Brunton Park, Tue 24 Nov 19:45 (ESPN 2:45 PM = US Eastern, consistent). Live on DAZN.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.43,
+    "p": 0.669749,
+    "why": "Carlisle 9-1-0 last 10 conceding 0.5; Tamworth 4 without a win and 1-0-2 away. My p 0.71."
+   }
+  ],
+  "avoid": "AH -1.5 (Tamworth have kept clean sheets); Overs.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.carlisleunited.co.uk/news/matchday-guide-tamworth-h",
+   "https://tipstercompetition.com/previews/carlisle-vs-tamworth/534cb32a017fcbcca1ad1c2ce1e61f18",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.soccerstats.com/en-gb/leagues/england/national-league/england5"
+  ]
+ },
+ {
+  "eid": "sr:match:72740846",
+  "fx": "Eastleigh FC v Yeovil Town",
+  "sport": "football",
+  "absences": "none found",
+  "context": "National League; Yeovil 5th (29-32 pts depending on snapshot), GF 3.1 last 10; Eastleigh 3-2-5, home 2-1-3.",
+  "news": "Sky/SoccerStats list Tue 24 Nov 19:45; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.37,
+    "p": 0.682738448,
+    "why": "Yeovil top-5 scoring 3.1/game last 10 v Eastleigh 2-1-3 at home and losing 1-2, 1-2 in last home games. My p 0.70."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.43); O1.5 non-league rule.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.skysports.com/national-league-scores-fixtures",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.soccerstats.com/en-gb/leagues/england/national-league/england5"
+  ]
+ },
+ {
+  "eid": "sr:match:72740848",
+  "fx": "Forest Green Rovers v Southend United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "National League; both mid-table, draw/goals-prone (FGR 2-4-4, Southend 3-3-4).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.soccerstats.com/en-gb/leagues/england/national-league/england5"
+  ]
+ },
+ {
+  "eid": "sr:match:72740852",
+  "fx": "Scunthorpe United v Gateshead FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "National League; Gateshead last-10 1-1-8, away 0-0-4 (GF 0.9). Scunthorpe own form also poor (2-1-7, GA 3.1).",
+  "news": "SoccerPunter preview only (odds quoted look stale); fixture date not independently confirmed beyond board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.810679,
+    "why": "Gateshead lost all 4 recent aways and 8 of 10; DNB at house floor. Scunthorpe form also poor - low conviction. My p 0.81."
+   }
+  ],
+  "avoid": "Scunthorpe 1X2/-1.5; Unders.",
+  "confidence": 0.15,
+  "sources": [
+   "https://soccerpunter.com/news/scunthorpe-united-vs-gateshead-match-preview-betting-analysis",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.soccerstats.com/en-gb/leagues/england/national-league/england5"
+  ]
+ },
+ {
+  "eid": "sr:match:72740854",
+  "fx": "Woking FC v Worthing FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "National League; Woking 5-0-5 (GA 2.4), Worthing 5-2-3.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://www.soccerstats.com/en-gb/leagues/england/national-league/england5"
+  ]
+ },
+ {
+  "eid": "sr:match:75424546",
+  "fx": "Coquimbo Unido v Deportes Union La Calera",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Copa Chile QF 2nd leg (knockout). Coquimbo won 1st leg 2-0 AWAY at La Calera (Elvis Hernandez, Alejandro Camargo). Coquimbo home 5-0-0 last 5, last-10 8-0-2. Winner meets Universidad de Chile in SF. Ref Fernando Vejar, 19:00 local at Francisco Sanchez Rumoroso.",
+  "news": "Coquimbo host La Calera seeking to seal SF place with 2-goal cushion; La Calera must attack.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.7465114673,
+    "why": "2-goal aggregate cushion v weaker side, Coquimbo 5-0-0 at home; La Calera must open up (counter space). DNB voids a managed draw. Knockout: DNB only (no To Qualify market on board). My p 0.76."
+   }
+  ],
+  "avoid": "1X2/AH -1 (cushion may slow Coquimbo); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.cooperativa.cl/noticias/deportes/futbol/copa-chile/coquimbo-recibe-a-la-calera-en-busca-de-abrochar-el-pase-a-semis-de-copa/2026-11-23/212021.html",
+   "https://www.encancha.cl/futbol-chileno/copa-chile/2026/11/4/coquimbo-unido-vence-2-0-a-union-la-calera-y-tiene-un-pie-en-las-semifinales-de-la-copa-chile-324151.html"
+  ]
+ }
+]
