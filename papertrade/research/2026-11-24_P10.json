@@ -1,0 +1,180 @@
+[
+ {
+  "eid": "sr:match:73206588",
+  "fx": "Al-Raed Club v Al-Okhdood Club",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Saudi First Division (Yelo) R12 at King Abdullah Sports City, Buraidah. Al-Raed 11th (13 pts) v Al-Okhdood 15th (7 pts, relegated from SPL, 1-4-5 last 10, conceding 2.1/g). Okhdood won both prior H2H.",
+  "news": "Fixture/date/KO 12:15 UTC confirmed (Sofascore, Footaz); Okhdood last result 0-1 loss to Al-Jabalain.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.7735698061,
+    "why": "Okhdood in a relegation-zone slump (1 win in 10, 2.1 GA) away to mid-table Raed; but H2H 2-0 Okhdood and Raed only 3-1-6 -> own p 0.76, statistics-only, fill grade"
+   }
+  ],
+  "avoid": "Raed 1X2/AH -0.5 (Raed 3-1-6 last 10); Unders (p<0.82)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/football/team/al-okhdood/336456",
+   "https://www.footaz.net/match/al-raed-vs-al-okhdood/",
+   "https://www.ysscores.com/en/match/13640730/Al-Raed-SFC-vs-Al-Okhdood-Club"
+  ]
+ },
+ {
+  "eid": "sr:match:73206594",
+  "fx": "AL Jabalain FC v Al-Zlfe",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Yelo League R12. Al-Jabalain 2nd (promotion race, unbeaten 10: 7-3-0, 0.2 GA/g, 0 GA at home in 5) v Al-Zulfi ~6th (3-6-1, draw-heavy).",
+  "news": "Fixture confirmed 24/11 R12 (365scores); Jabalain chasing leaders, beat Okhdood and Raed 1-0 recently.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.21,
+    "p": 0.7773597758,
+    "why": "Promotion-chasing Jabalain unbeaten in 10 with the best defence (2 GA in 10, none at home); Zulfi draw-heavy and scored 0-1 in 3 of last 5 -> own p 0.80"
+   }
+  ],
+  "avoid": "Overs (Jabalain games very low scoring); Unders below p 0.82",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.365scores.com/football/match/first-division-5502/al-jeel-al-kawkab-13433-14897-5502",
+   "https://english.ajel.sa/sports/ln7iqltue"
+  ]
+ },
+ {
+  "eid": "sr:match:73206596",
+  "fx": "Al-Orobah v Al-Najma",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Yelo League R12. Al-Orobah ~13th (1-6-3 last 10, 0.6 GF at home) v Al-Najma 3rd (4-4-2, won 4 of last 5 incl. 2-0 v Zulfi).",
+  "news": "Fixture confirmed 24/11 12:20 R12 (365scores); Orobah lost to Al-Ula, struggling; Najma in top-3 promotion race.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.19,
+    "p": 0.7906141284,
+    "why": "Promotion-chasing Najma (4 wins in last 5) v Orobah with 1 win in 10 and 0.6 GF/g at home -> own p 0.80"
+   }
+  ],
+  "avoid": "Najma 1X2 (p 0.53); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.365scores.com/football/match/first-division-5502/al-jeel-al-kawkab-13433-14897-5502",
+   "https://english.ajel.sa/sports/ln7iqltue",
+   "https://www.fotmob.com/teams/1523707/overview/al-najma"
+  ]
+ },
+ {
+  "eid": "sr:match:77059654",
+  "fx": "Bugesera FC v Rayon Sports FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Rwanda Premier League. Bugesera (5-1-4) v Rayon Sports (unbeaten in 5, draw-heavy 2-6-2). Rayon won the May 2026 meeting 2-0; Bugesera won Dec 2025 2-1. Appears to be a rescheduled round (stale listings show Oct 24 / Nov 4).",
+  "news": "Tribuna/Soccerway list 24 Nov 13:00 UTC at Bugesera Stadium, Nyamata; older pages show other dates (likely rescheduled fixture).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rayon DNB/1X2 (draw-heavy, no mechanism); low-scoring league, no Overs",
+  "confidence": 0.15,
+  "sources": [
+   "https://tribuna.com/en/match/bugesera-vs-rayon-sports/",
+   "https://us.soccerway.com/game/bugesera-SKx51sGI/rayon-sport-A7FS3VKA/",
+   "https://rwandapremierleague.rw/info/fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:72344032",
+  "fx": "FK Akron Tolyatti v CSKA Moscow",
+  "sport": "football",
+  "absences": "CSKA: Mois\u00e9s (ACL, out to May 2027) reported; Barinov and Gaji\u0107 listed knee/day-to-day (conflicting injury sources); Akinfeev muscle per AiScore (unconfirmed)",
+  "context": "Russian Cup RPL path, Group D matchday 6 (final group game) at Solidarnost Samara Arena, Samara (not Tolyatti). Rostov 12 pts, CSKA 8, Akron 7: Akron must win to overtake CSKA; CSKA need a result. Akron won reverse fixture 1-0 in Moscow (Aug 18). Group game, not knockout, but cup = rotation risk for CSKA.",
+  "news": "Championat confirms 24 Nov 17:00 MSK (=14:00 UTC) in Samara; one weak listing said 28 Nov 21:30, contradicted by Championat/Wikipedia/Oddspedia/365Scores.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.808355,
+    "why": "Final group game with Akron needing a win (must_win) and CSKA averaging 2.0 GF; Akron concede 1.8/g (1-6, 1-2, 0-2 recently); 18/20 of both sides' last 10 had 2+ goals -> own p 0.83"
+   }
+  ],
+  "avoid": "Result-sides (CSKA rotation risk in cup, Akron won reverse fixture; away 1X2 p 0.54); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://championat.com/football/news-6711850-akron-cska-vo-skolko-nachalo-matcha-puti-rpl-kubka-rossii-2026-2027-gde-smotret-translyaciyu-24-noyabrya-2026.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Russian_Cup",
+   "https://www.fotmob.com/teams/9760/squad/cska-moscow",
+   "https://www.aiscore.com/team-pfc-cska-moscow/4ndqmliv3jfgkve"
+  ]
+ },
+ {
+  "eid": "sr:match:73326526",
+  "fx": "AL Ettifaq U21 v AL Nassr",
+  "sport": "football",
+  "absences": "youth fixture - not researched for absences",
+  "context": "Saudi U21 Elite League (Jawwy). Ettifaq U21 (5-0-5, 3.0 GF) v Al-Nassr U21 (4-2-4). Youth, no mismatch.",
+  "news": "no news found (U21 league coverage absent; no date/venue conflict found)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets - youth (U21) fixture, hard-excluded class",
+  "confidence": 0.1,
+  "sources": [
+   "https://globalsportsarchive.com/en/soccer/competition/jawwy-u21-elite-league-2026-2027/81548",
+   "https://www.saff.com.sa/en/news.php?id=3447"
+  ]
+ },
+ {
+  "eid": "sr:match:73326524",
+  "fx": "AL Khaleej Saihat v AL Ansar U21",
+  "sport": "football",
+  "absences": "youth fixture - not researched for absences",
+  "context": "Saudi U21 Elite League. Al-Khaleej U21 (2-2-6) v Al-Ansar U21 (0-2-6, 0.4 GF). Youth; weak v weak, no clear mismatch.",
+  "news": "no news found (U21 league coverage absent; no date/venue conflict found)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets - youth (U21) fixture, hard-excluded class",
+  "confidence": 0.1,
+  "sources": [
+   "https://globalsportsarchive.com/en/soccer/competition/jawwy-u21-elite-league-2026-2027/81548",
+   "https://www.saff.com.sa/en/news.php?id=3447"
+  ]
+ },
+ {
+  "eid": "sr:match:73206598",
+  "fx": "Hajer FC v Al-Tai",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Yelo League R12 at Hajer Club Stadium, Al-Hofuf. Hajer ~16th (0-1-4 at home, 2.4 GA) v Al-Tai (4-2-4, 3.2 GA away). Near toss-up.",
+  "news": "Kick-off conflict: one listing 14:30 UTC (17:30 KSA), another 09:30 local for the same R12 fixture.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (14:30 UTC vs 09:30 local)",
+  "picks": [],
+  "avoid": "All - kick-off conflict",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ysscores.com/en/match/50066486/Hajer-Club-vs-Al-Tai-FC",
+   "https://www.footballstreams.com/matches/hajer-vs-al-tai-20261124/",
+   "https://www.365scores.com/en-uk/football/match/first-division-5502/al-ta'i-hajer-8944-14904-5502"
+  ]
+ }
+]

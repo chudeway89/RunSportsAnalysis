@@ -1,0 +1,499 @@
+[
+ {
+  "eid": "sr:match:76075804",
+  "fx": "Bhayangkara Presisi Indonesia FC v Semen Padang FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "I.League Cup 2026/27 Group B MD2, 19:00 WIB at PKOR Sumpah Pemuda, Lampung (=12:00 UTC). Bhayangkara top group with 3 pts after MD1; Semen Padang yet to play. New cup competition: rotation risk.",
+  "news": "Bhayangkara lead Group B on 3 pts; Semen Padang play first group game; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides and handicaps: cup group stage with rotation risk and no lineup news; Bhayangkara low-scoring profile (last-6 totals avg ~2) makes O2.5 thin.",
+  "confidence": 0.2,
+  "sources": [
+   "https://bantenraya.co/olah-raga/jadwal-ileague-cup-2026/",
+   "https://www.liga.id/jadwal-i-league-cup-hari-ini-selasa-24-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76076100",
+  "fx": "Madura United v Persela Lamongan",
+  "sport": "football",
+  "absences": "none named; Persela fatigue (played Sat 21/11, short recovery)",
+  "context": "I.League Cup Group I MD2, East Java derby at Gelora Madura Ratu Pamelingan, Pamekasan, 19:00 WIB. Persela (2nd tier) 3 pts, Madura 0 pts.",
+  "news": "East Java derby; Persela on short recovery after Saturday match; Madura must respond after MD1 loss",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result-side in a derby; totals mid-band without mechanism.",
+  "confidence": 0.2,
+  "sources": [
+   "https://tirto.id/jadwal-league-cup-2026-24-25-november-klasemen-live-di-mana-id6n",
+   "https://www.jawapos.com/sepak-bola-indonesia/2611240372/jadwal-padat-menghantui-persela-bima-sakti-harus-putar-otak-hadapi-madura-united?page=all"
+  ]
+ },
+ {
+  "eid": "sr:match:73836098",
+  "fx": "Cong An Ha Noi FC v Vissel Kobe",
+  "sport": "football",
+  "absences": "CAHN: injury run but Quang Hai and Leo Artur back (Polking). Vissel: CB Tetsushi Yamakawa sent off in J1 v Mito, ACL eligibility unconfirmed",
+  "context": "ACLE East MD5 at Hang Day 19:15 ICT (12:15 UTC). Vissel top East on 12 pts unbeaten (8-3 GD); CAHN 4 scored 7 conceded; CAHN home form 1-2-3.",
+  "news": "Vissel unbeaten group leaders; CAHN struggling, key players returning; Yamakawa status uncertain",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.29,
+    "p": 0.7398,
+    "why": "Vissel unbeaten 12 pts, CAHN 1W in last 6 at home; DNB removes draw risk. Own p ~0.75."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.55 < 0.75); Vissel -1.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/preview-cong-an-ha-noi-fc-vie-v-vissel-kobe-jpn",
+   "https://soha.vn/hlv-polking-cahn-co-doi-hinh-manh-nhat-tiep-vissel-kobe-198261123224227291.htm",
+   "https://thethaovanhoa.vn/cahn-vs-vissel-kobe-thu-thach-to-lon-19h15-ngay-24-11-vtv6-truc-tiep-20261123150442072.htm"
+  ]
+ },
+ {
+  "eid": "sr:match:73836092",
+  "fx": "Ratchaburi FC v Johor Darul Tazim FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "ACLE East MD5 at Ratchaburi Stadium 19:15 (12:15 UTC). Ratchaburi 1 pt from 4; JDT 7 pts, lost 0-2 at Jeonbuk MD4. JDT last 10: 9W, 3.6 GF.",
+  "news": "Ratchaburi 1 pt from 4 games; JDT 7 pts and heavy favourites; no named absences",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.2,
+    "p": 0.7976,
+    "why": "JDT 9-0-1 last 10, Ratchaburi bottom-end with 1 pt; DNB covers draw. Own p ~0.81."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.36,
+    "p": 0.7054,
+    "why": "JDT avg 3.6 GF, Ratchaburi concede 1.5 and their last-6 totals 1,5,3,5,7,0; O2.5 in 9 of combined last 12. Own p ~0.72."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.65 < 0.75); JDT -1.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/preview-ratchaburi-fc-tha-v-johor-darul-ta%E2%80%99zim-mas",
+   "https://www.liga.id/prediksi-ratchaburi-vs-johor-darul-takzim-fc-24-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73836090",
+  "fx": "Shanghai Port FC v Buriram United",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "ACLE East MD5 at Pudong Football Stadium 20:15 local (12:15 UTC). Port 5th on 7 pts, scored in 4 straight ACLE games; Buriram 12th on 3 pts, only 2 goals in 4 (must-win for Buriram). Buriram won last meeting 2-0.",
+  "news": "Port near Ro16 and scoring every game; Buriram goal drought (2 in 4)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.27,
+    "p": 0.7441,
+    "why": "Buriram 2 goals in 4 ACLE games and Port at home scoring in every game; Buriram need to score to win. Own p ~0.76."
+   }
+  ],
+  "avoid": "Home 1X2 at 0.50 (Buriram solid away, 0.6 GA); BTTS.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/preview-shanghai-port-fc-chn-v-buriram-united-tha",
+   "https://jawapos.com/sepak-bola-dunia/2611240298/prediksi-skor-shanghai-port-vs-buriram-united-di-acl-elite-20262027-tuan-rumah-unggul-1-bola"
+  ]
+ },
+ {
+  "eid": "sr:match:75834492",
+  "fx": "Sreenidi Deccan FC v Chanmari FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "IFL (I-League) Round 5 at Deccan Arena, Hyderabad, 18:30 IST (13:00 UTC). Chanmari strong form (7-2-1 last 10, 3-2-0 away); Sreenidi drawn 3 of last 6.",
+  "news": "Fixture confirmed; standings snapshots conflict (Fotmob: Chanmari 4 pts/2 games); last H2H Sreenidi 2-1",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-2",
+    "desc": "Away (+2.0)",
+    "odds": 1.21,
+    "p": 0.7933,
+    "why": "Home p 0.59 so +1.5 banned; +2.0 voids on a 2-goal loss. Chanmari 7-2-1 last 10 and unbeaten away in 5; Sreenidi rarely win big (last 6 margins <=1). Own p ~0.84."
+   }
+  ],
+  "avoid": "Home 1X2 (Chanmari in better form); thin-league Overs.",
+  "confidence": 0.25,
+  "sources": [
+   "https://khelnow.com/football/indian-football-ifl-sreenidi-deccan-vs-chanmari-fc-preview",
+   "https://www.espn.com/soccer/match/_/gameId/401930687/chanmari-fc-sreenidi-deccan-fc"
+  ]
+ },
+ {
+  "eid": "sr:match:76075976",
+  "fx": "Persiraja Banda v Dewa United",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "I.League Cup Group C MD2, 20:30 WIB (13:30 UTC), Banda Aceh. Dewa United (Super League) won MD1 3-1 under Osmar Loss; Persiraja 2nd tier.",
+  "news": "Dewa won opener 3-1; minor venue-name discrepancy (Harapan Bangsa per ticket reports v H. Dimurthala per club site), same city",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.746 just below 0.75 gate; Dewa -1.5; cup rotation risk. Venue label conflict in Banda Aceh flagged (data_conflict).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.jawapos.com/sepak-bola-indonesia/2611240067/prediksi-skor-persiraja-banda-aceh-vs-dewa-united-modal-tiga-kemenangan-laskar-rencong-waspada",
+   "https://persiraja.id/match/competition169.html",
+   "https://www.merahputih.com/post/read/dewa-united-bidik-tiket-lolos-dengan-modal-penting-osmar-loss-waspadai-ancaman-persiraja"
+  ]
+ },
+ {
+  "eid": "sr:match:75110520",
+  "fx": "Northeast United FC v Sporting Club Delhi",
+  "sport": "football",
+  "absences": "SC Delhi: both starting CBs Duvan Viafara and Clarence Fernandes out (knocks v East Bengal). NEU: Nikola Ninkovic doubtful",
+  "context": "ISL GW7 at Khuman Lampak, Imphal (first ISL game in Manipur; official ISL site), 19:30 IST (14:00 UTC). NEU best defence (3 conceded in 6); SC Delhi top attack (12 in 6), 4 unbeaten.",
+  "news": "SC Delhi without both first-choice centre-backs; NEU switch home game to Imphal (one preview said Guwahati, official ISL confirms Imphal)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.6967,
+    "why": "SC Delhi lose both starting CBs; NEU meanest defence (3 GA in 6). DNB protects v Delhi's attack. Own p ~0.72."
+   }
+  ],
+  "avoid": "Under markets (Delhi attack); O3.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.indiansuperleague.com/news/northeast-united-square-off-against-delhi-as-manipur-hosts-first-ever-mg-isl-game",
+   "https://khelnow.com/football/indian-football-isl-2026-27-northeast-united-fc-vs-sc-delhi-preview",
+   "https://khelnow.com/football/indian-football-isl-northeast-united-vs-sc-delhi-preview-202604"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114568698",
+  "fx": "Al-Riffa v Al-Zawraa",
+  "sport": "football",
+  "absences": "Al Zawraa: coach absent from the delegation in Manama; club withdrew from pre-match press conference in protest",
+  "context": "Gulf Club CL group round 4 in Bahrain, 17:30 Baghdad/Manama (14:30 UTC). Zawraa 3rd with 2 pts from 3 games; first meeting 1-1. No Sportradar form data.",
+  "news": "Al Zawraa in off-field turmoil: coach missing, boycott of coordination conference",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.53,
+    "p": 0.6052,
+    "why": "Zawraa without their coach on the bench and in a delegation dispute; Riffa at home, first leg 1-1. Own p ~0.64 (conf low, thin Gulf context)."
+   }
+  ],
+  "avoid": "Overs in Gulf context; Home 1X2.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ysscores.com/en/news/14103866/al-zawraa-withdraws-from-the-coordination-conference-ahead-of-crucial-riffa-clash",
+   "https://www.newsofbahrain.com/en/article/riffa-host-al-zawraa-in-gulf-club-champions-league"
+  ]
+ },
+ {
+  "eid": "sr:match:67912894",
+  "fx": "FC Gagra v FC Dinamo Tbilisi",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Erovnuli Liga late round (listed R35), 19:00 Tbilisi (15:00 UTC). Dinamo 3rd-4th, 1 loss in 11; Gagra winless in 5 at home. Gagra share Tbilisi grounds.",
+  "news": "Official league page: David Petriashvili Stadium; one stream site says Mtskheta Park (both Tbilisi; Gagra a displaced club)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.675 < 0.75; Away DNB 1.15 below the odds floor; venue label conflict flagged.",
+  "confidence": 0.2,
+  "sources": [
+   "https://erovnuliliga.ge/en/calendar",
+   "https://www.sofascore.com/football/match/fc-gagra-dinamo-tbilisi/wdcspMo#id:13356794"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114473445",
+  "fx": "Ajman Club v Al-Ettifaq FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gulf Club CL group round 4 at Ajman Stadium. Kick-off listed 15:30, 17:30 and 19:30 across sources (board 15:30 UTC = 19:30 UAE). Ettifaq won first meeting 2-0. No Sportradar data.",
+  "news": "Kick-off time inconsistent across listings; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kick-off-time conflict across sources plus no form data: no picks (data_conflict).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+   "https://www.ysscores.com/en/championship/596133/Gulf-Club-Champions-League"
+  ]
+ },
+ {
+  "eid": "sr:match:73835920",
+  "fx": "Shabab Al Ahli Dubai v Al Qadsiah",
+  "sport": "football",
+  "absences": "Al Qadsiah regain Nacho Fernandez, Jehad Thakri, Nahitan Nandez; Haitham Asiri back in training",
+  "context": "ACLE West MD5 at Rashid Stadium, Dubai. Shabab 4th 9 pts (unbeaten in 6 ACLE home games, 4 straight home clean sheets, coach Andre Jardine); Qadsiah 5th 8 pts unbeaten under Brendan Rodgers (won 5-0 at Al Gharafa). Kick-off listed 19:00 or 20:00 local.",
+  "news": "Qadsiah return three starters; Shabab four home clean sheets in a row; kick-off time varies between sources (AFC: 20:00 UAE = board 16:00 UTC)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7937,
+    "why": "Qadsiah 2.8 GF last 10 (3.6 away) with attackers back; Shabab 2.17 GF at home. Own p ~0.79; home clean-sheet run is the risk."
+   }
+  ],
+  "avoid": "Result-sides in a top-of-table clash; BTTS (Shabab home clean sheets).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.the-afc.com/en/club/afc_champions_league_elite.html/news/preview-shabab-al-ahli-uae-v-al-qadsiah-club-ksa",
+   "https://www.ysscores.com/en/news/14098383/qadsia-regain-3-players-ahead-of-shabab-al-ahli"
+  ]
+ },
+ {
+  "eid": "sr:match:76552892",
+  "fx": "Al Duhail SC v Neom SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Gulf Club CL group round 4. Opponent conflict: 365Scores lists Al Duhail v NEOM (17:00/18:00), The Football Finder lists Al Duhail v Al Suqoor at 20:00. NEOM won first meeting 3-0.",
+  "news": "Fixture listings conflict on Al Duhail's opponent and kick-off time",
+  "veto": true,
+  "veto_reason": "Opponent and kick-off conflict between sources (NEOM v Al Suqoor; 17:00/18:00/20:00)",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/gulf-club-champions-league-8400",
+   "https://www.thefootballfinder.com/competition/agcff-gulf-champions-league-world"
+  ]
+ },
+ {
+  "eid": "sr:match:72758360",
+  "fx": "Weston-super-Mare v Walton and Hersham FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "National League South at the Optima Stadium, 19:45. Weston (13th-14th, ~21-22 pts) unbeaten in November (1-1 at Tonbridge last); Walton & Hersham second-bottom with 9 pts.",
+  "news": "Weston unbeaten in November; Walton second-bottom on 9 pts (club preview)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.787,
+    "why": "Walton & Hersham second-bottom (9 pts), 1 away win in last 4 and 1.9 GA; Weston unbeaten in Nov and 2-2-0 at home. Own p ~0.80."
+   }
+  ],
+  "avoid": "English non-league O1.5 (thin-league class); Weston -1.",
+  "confidence": 0.25,
+  "sources": [
+   "https://wsmafc.co.uk/preview-walton-home-2627/",
+   "https://wsmafc.co.uk/matches/2026-27/41395/weston-super-mare-vs-walton-hersham/"
+  ]
+ },
+ {
+  "eid": "sr:match:75799142",
+  "fx": "Leek Town FC v Gainsborough Trinity",
+  "sport": "football",
+  "absences": "none found",
+  "context": "England Amateur / Northern Premier League Premier, step 3-4 English non-league, 24 Nov listing not found in search (footballwebpages league page only); no postponement found. Statistics-only context.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism: result-sides are statistics-only fill; English non-league O1.5 is a known thin-league failure class; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/20261124"
+  ]
+ },
+ {
+  "eid": "sr:match:77098318",
+  "fx": "Anstey Nomads v Redditch United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "England Amateur / Southern League Premier Central, step 3-4 English non-league, listed 19:45 Tuesday. Statistics-only context.",
+  "news": "no news found beyond fixture confirmation (19:45 local)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism: result-sides are statistics-only fill; English non-league O1.5 is a known thin-league failure class; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-central-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:73022080",
+  "fx": "Hitchin Town v Worcester City",
+  "sport": "football",
+  "absences": "none found",
+  "context": "England Amateur / Southern League Premier Central, step 3-4 English non-league, listed 19:45 Tuesday. Statistics-only context.",
+  "news": "no news found beyond fixture confirmation (19:45 local)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism: result-sides are statistics-only fill; English non-league O1.5 is a known thin-league failure class; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-central-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:77098268",
+  "fx": "Peterborough Sports v Alvechurch",
+  "sport": "football",
+  "absences": "none found",
+  "context": "England Amateur / Southern League Premier Central, step 3-4 English non-league, listed 19:45 Tuesday. Statistics-only context.",
+  "news": "no news found beyond fixture confirmation (19:45 local)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism: result-sides are statistics-only fill; English non-league O1.5 is a known thin-league failure class; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/football/peterborough-sports-vs-alvechurch/572513"
+  ]
+ },
+ {
+  "eid": "sr:match:76942584",
+  "fx": "Basingstoke Town FC v Sholing FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "England Amateur / Southern League Premier South, step 3-4 English non-league, 24 Nov listing not found in search (footballwebpages league page only); no postponement found. Statistics-only context.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism: result-sides are statistics-only fill; English non-league O1.5 is a known thin-league failure class; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:73025600",
+  "fx": "Bracknell Town FC v Berkhamsted FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "England Amateur / Southern League Premier South, step 3-4 English non-league, 24 Nov listing not found in search (footballwebpages league page only); no postponement found. Statistics-only context.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism: result-sides are statistics-only fill; English non-league O1.5 is a known thin-league failure class; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:75898018",
+  "fx": "Chippenham Town v Havant & Waterlooville",
+  "sport": "football",
+  "absences": "none found",
+  "context": "England Amateur / Southern League Premier South, step 3-4 English non-league, 24 Nov listing not found in search (footballwebpages league page only); no postponement found. Statistics-only context.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism: result-sides are statistics-only fill; English non-league O1.5 is a known thin-league failure class; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:75584384",
+  "fx": "Yate Town v Evesham United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "England Amateur / Southern League Premier South, step 3-4 English non-league, 24 Nov listing not found in search (footballwebpages league page only); no postponement found. Statistics-only context.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism: result-sides are statistics-only fill; English non-league O1.5 is a known thin-league failure class; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:76915004",
+  "fx": "Cray Wanderers v Wingate & Finchley",
+  "sport": "football",
+  "absences": "none found",
+  "context": "England Amateur / Isthmian League, Pr. Div, step 3-4 English non-league, listed 19:45 Tuesday. Statistics-only context.",
+  "news": "no news found beyond fixture confirmation (19:45 local)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism: result-sides are statistics-only fill; English non-league O1.5 is a known thin-league failure class; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:75997136",
+  "fx": "Eastbourne Borough v Aveley FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "England Amateur / Isthmian League, Pr. Div, step 3-4 English non-league, listed 19:45 Tuesday. Statistics-only context.",
+  "news": "no news found beyond fixture confirmation (19:45 local)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism: result-sides are statistics-only fill; English non-league O1.5 is a known thin-league failure class; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:75997140",
+  "fx": "Leatherhead FC v Ramsgate FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "England Amateur / Isthmian League, Pr. Div, step 3-4 English non-league, listed 19:45 Tuesday. Statistics-only context.",
+  "news": "no news found beyond fixture confirmation (19:45 local)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism: result-sides are statistics-only fill; English non-league O1.5 is a known thin-league failure class; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results"
+  ]
+ }
+]

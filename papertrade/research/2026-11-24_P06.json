@@ -1,0 +1,500 @@
+[
+ {
+  "eid": "sr:match:76638382",
+  "fx": "FC Fard Alborz v FC Pars Jonoubi Jam",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Azadegan League; Pars Jonoubi Jam lead the table (22 pts after 10, per Soccer365), unbeaten in last 10 (6-4-0, conceding 0.4/game; 0.25 away). Fard 3rd on 18.",
+  "news": "Betexplorer lists Fard v Pars Janoobi Jam on 24 Nov (date consistent); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.32,
+    "p": 0.700401929,
+    "why": "Mechanism: league leader unbeaten in 10 with the best defence (0.25 GA away), v 3rd-placed Fard. My p ~0.73 v house 0.70. Low-scoring league keeps draws live, which this pick covers."
+   }
+  ],
+  "avoid": "Unders (house p < 0.82); Fard result-sides",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.betexplorer.com/football/iran/azadegan-league/",
+   "https://soccer365.net/competitions/621/"
+  ]
+ },
+ {
+  "eid": "sr:match:74025184",
+  "fx": "Pec Zwolle U21 v FC Twente Heracles",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "U21 reserve league (Divisie 1 O21). PEC Zwolle O21 3rd/4th, Twente/Heracles 6th/11th (sources conflict on table). Date/time agree: 12:30 CET = 11:30 UTC.",
+  "news": "Fixture confirmed 24 Nov 12:30 local; standings sources disagree; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: reserve side, no clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "http://www.voetbalopzaterdag.com/mannen/competities/2627/1AO21/competitie.cfm",
+   "https://www.footballstreams.com/matches/pec-zwolle-u21-vs-fc-twente-heracles-academie-u21-20261124/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114718738",
+  "fx": "Luanda Villa v Equity",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kenya National Super League (2nd tier); FKF tables inconsistent; no Sportradar data.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: thin 2nd-tier league with no data",
+  "confidence": 0.1,
+  "sources": [
+   "https://footballkenya.org/national-super-league"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114718737",
+  "fx": "MOFA FC v Nairobi City Stars",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kenya National Super League (2nd tier); no Sportradar data.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: thin league, no data",
+  "confidence": 0.1,
+  "sources": [
+   "https://footballkenya.org/national-super-league"
+  ]
+ },
+ {
+  "eid": "sr:match:74056944",
+  "fx": "Bandari FC v Mathare United FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kenya PL round 9: Bandari 14th (7 pts, 1-4-3), Mathare 9th (9 pts, 2-3-3). Both score 0.9/game. H2H skewed to Bandari historically.",
+  "news": "365Scores lists the fixture 24/11 (round 9); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p < 0.82); O1.5 (low-scoring league); no mechanism for a side",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/football/match/premier-league-5575/bandari-mathare-united-13320-13322-5575"
+  ]
+ },
+ {
+  "eid": "sr:match:74560638",
+  "fx": "Arsenal FC v Borussia Dortmund",
+  "sport": "football",
+  "absences": "no news found for the U19 squads (senior Arsenal v Dortmund the same night; some U19s may be on the senior bench)",
+  "context": "UEFA Youth League MD5. Arsenal U19 2-1-7 last 10; Dortmund U19 5-3-2. Both sides' games are high-scoring.",
+  "news": "Fixture confirmed in the MD5 list; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: youth fixture, not a clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Youth_League"
+  ]
+ },
+ {
+  "eid": "sr:match:74560644",
+  "fx": "Como 1907 v AEK Athens",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "UEFA Youth League MD5; 13:00 UTC confirmed by 365Scores. AEK U19 7-1-2 last 10, but lost 1-4 at home to Real Madrid.",
+  "news": "Fixture and time confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: youth fixture, no clear mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/football/league/uefa-youth-league-6297",
+   "https://en.parisfans.fr/youth-league-matchday-5-fixtures-and-standings.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75828304",
+  "fx": "Slovan Bratislava v Real Betis Balompie",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "UEFA Youth League MD5. Betis U19 score 3.6/game (4.6 away; incl. an 11-1); Slovan U19 4-1-5 and lost 0-5 recently.",
+  "news": "Fixture confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.787715,
+    "why": "Goals-only, clear mismatch: Betis U19 average 4.6 away goals, and Slovan conceded 5 in a recent game. My p ~0.80 v house 0.79."
+   }
+  ],
+  "avoid": "Result-sides and AH (youth rule)",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.parisfans.fr/youth-league-matchday-5-fixtures-and-standings.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76811384",
+  "fx": "FK Arsenal Tivat v FK Decic Tuzi",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Montenegro 1. CFL. Arsenal Tivat 1-2-7 (0 home wins in 6); De\u010di\u0107 2-3-5, also playing a cup tie.",
+  "news": "DATE CONFLICT: FotMob/fscg list Arsenal Tivat v De\u010di\u0107 as a league game on 8 Oct 2026 (and the reverse on 9 Dec); 24 Nov is not confirmed by any source",
+  "veto": true,
+  "veto_reason": "Date conflict: the fixture was listed for 8 Oct 2026; 24 Nov is unconfirmed (possible reschedule).",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fotmob.com/matches/decic-tuzi-vs-fk-arsenal-tivat/pg8r99c",
+   "https://fscg.me/klubovi/arsenal-40074/?cid=9315843&pg=2&tab=fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:76459574",
+  "fx": "FK Jedinstvo Bijelo Polje v FK Sutjeska Niksic",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Montenegrin Cup knockout (R16 was 13-14 Oct; this is likely a QF, which has historically been two-legged, so aggregate structure is unknown). Sutjeska drew De\u010di\u0107 in R16.",
+  "news": "No confirmation of this tie or its leg format found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (knockout); totals (no mechanism)",
+  "confidence": 0.1,
+  "sources": [
+   "https://cgsport.me/2026/09/30/odredjeni-parovi-osmine-finala-kupa-crne-gore/",
+   "https://fscg.me/takmicenja/kup-crne-gore/"
+  ]
+ },
+ {
+  "eid": "sr:match:76459576",
+  "fx": "FK Mornar Bar v FK Jezero Plav",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Montenegrin Cup knockout; Mornar are the holders (beat De\u010di\u0107 1-0 in the May 2026 final) and were drawn away at Otrant in R16. Leg format unconfirmed.",
+  "news": "Tie not confirmed by any source; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (knockout, possible first leg); totals",
+  "confidence": 0.1,
+  "sources": [
+   "https://cgsport.me/2026/09/30/odredjeni-parovi-osmine-finala-kupa-crne-gore/",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Montenegrin_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:76806528",
+  "fx": "AD Vilankulo v UD Do Songo",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Mo\u00e7ambola 2026, end of season (season end given as 8 Nov or 29 Nov; sources disagree).",
+  "news": "DATE CONFLICT: Jornal Domingo (22 Nov) has Vilankulo v Ferrovi\u00e1rio da Beira on Thursday and Songo at Ferrovi\u00e1rio de Lichinga on Friday that round, not Vilankulo v Songo on Tue 24 Nov",
+  "veto": true,
+  "veto_reason": "Date conflict: the round listing has both clubs playing other opponents this week.",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://jornaldomingo.co.mz/desporto/mocambola-2026-chingale-alcanca-primeira-vitoria/",
+   "https://www.rm.co.mz/mocambola-2026-ferroviario-de-maputo-recebe-ad-de-vilankulo-na-abertura-da-22-a-jornada/"
+  ]
+ },
+ {
+  "eid": "sr:match:76638384",
+  "fx": "Shahin Bandar Ameri v Naft Masjed Soleyman FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Azadegan League; Naft MIS 8th (14 pts, beat Shenavarsazi 3-2 on 16 Nov); Shahin mid-table, 3-4-3.",
+  "news": "No news; fixture dates on aggregator sites are inconsistent for this league",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: coin-flip price, no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://soccer365.net/competitions/621/",
+   "https://www.soccerway.com/iran/azadegan-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:74560642",
+  "fx": "Manchester City FC v SSC Napoli U20",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "UEFA Youth League MD5. Man City U19 score 2.7/game; Napoli U20 2-3-5, 0-1-3 away conceding 3.5/game (lost 0-5, 0-3).",
+  "news": "Fixture confirmed in the MD5 list; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.27,
+    "p": 0.7557902352,
+    "why": "Goals-only, clear mismatch: City are 0.83 favourites and Napoli concede 3.5 away; City's games average 5.0 goals. My p ~0.78 v house 0.756."
+   }
+  ],
+  "avoid": "Result-sides and AH (youth rule)",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_UEFA_Youth_League"
+  ]
+ },
+ {
+  "eid": "sr:match:74560646",
+  "fx": "Real Madrid v PSV Eindhoven",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "UEFA Youth League MD5 at the Alfredo Di St\u00e9fano. Real Madrid Juvenil A have won all 4 (Inter 3-0, Leipzig 5-2, Roma 0-1, AEK 1-4). PSV won 3 of 4 (lost 3-1 in Porto). Top-of-table clash, not a mismatch.",
+  "news": "Official RM preview: Juvenil A unbeaten leaders; KO 16:00 Madrid = 15:00 UTC (consistent)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: youth, no clear mismatch (PSV strong)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.realmadrid.com/es-ES/noticias/futbol/cantera-masculina/previas/juvenil-a-psv-a-seguir-con-el-pleno-de-triunfos-en-la-youth-league-en-directo-por-realmadrid-tv-23-11-2026",
+   "https://www.zerozero.pt/jogo/2026-11-24-real-madrid-psv/12650746"
+  ]
+ },
+ {
+  "eid": "sr:match:73469306",
+  "fx": "Lithuania v Faroe Islands",
+  "sport": "football",
+  "absences": "n/a (women's youth)",
+  "context": "Women's U19 EURO qualifier, Round 1.",
+  "news": "VENUE/TIME CONFLICT: UEFA lists the game at T\u00f3rsv\u00f8llur, T\u00f3rshavn (Faroe Islands host, though Lithuania is the home side on the board); KO given as 07:00 / 10:00 UTC / 14:00 UTC v board 15:00",
+  "veto": true,
+  "veto_reason": "Venue and kick-off conflict (Faroe venue with Lithuania as home; KO times disagree); women's youth.",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.uefa.com/womensunder19/match/2048414--lithuania-vs-faroe-islands/",
+   "https://www.sofascore.com/football/match/lithuania-u19-faroe-islands-u19/LWosZWo"
+  ]
+ },
+ {
+  "eid": "sr:match:73835254",
+  "fx": "Al-Seeb v Al Shorta SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "ACL Two Group D, round 5, at Al Seeb Stadium. Al Shorta top Group D and are unbeaten in 5 (5-5-0 last 10, 0.6 GA away) and won the reverse 1-0. Al-Seeb 3rd in the group.",
+  "news": "Group leaders Al Shorta unbeaten in 5; KO 16:00 UTC consistent (11:00 ET / 08:00 PT listings are the same time)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.5,
+    "p": 0.632717,
+    "why": "Mechanism: group leader unbeaten in 10 (0 losses, 0.6 GA away), won the reverse fixture 1-0. My p ~0.67 v house 0.633."
+   }
+  ],
+  "avoid": "Unders; Al-Seeb result",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.beinsports.com/en-us/soccer/afc-champions-league-two/al-seeb-vs-al-shorta-2026-11-24",
+   "https://www.indiasportshub.com/scores/6ad51e73a19bb1936a03e856"
+  ]
+ },
+ {
+  "eid": "sr:match:73093146",
+  "fx": "Juve Stabia v US Catanzaro",
+  "sport": "football",
+  "absences": "Juve Stabia: Sandrucci, Patan\u00e8, Pietrangeli, Bettella, Douglas (defensive emergency per PianetaSerieB; Bettella/Douglas disputed). Catanzaro: Iemmello start in doubt (Koffi/Pecorino).",
+  "context": "Serie B R13, Romeo Menti. Catanzaro come off a win over Palermo, Mignani 3-5-2; Juve Stabia 3-1-1 at home.",
+  "news": "Juve Stabia defensive emergency (5 defenders listed unavailable); Catanzaro confident after beating Palermo",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.3,
+    "p": 0.7357609295,
+    "why": "Mechanism: Juve Stabia's back line is decimated, so a home rout is less likely and Catanzaro scoring more likely; favourite p 0.48 < 0.55, so +1.5 is allowed. My p ~0.76 v house 0.736."
+   }
+  ],
+  "avoid": "Juve Stabia DNB/1X2 (defensive emergency); O1.5 (Serie B under 2.7 goals)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.pianetaserieb.it/news/101060611590/probabili-formazioni-juve-stabia-catanzaro-serie-b",
+   "https://www.corrieredellacalabria.it/2026/11/24/juve-stabia-catanzaro-mignani-punta-al-bis-dopo-il-successo-sul-palermo-probabili-formazioni/"
+  ]
+ },
+ {
+  "eid": "sr:match:73093092",
+  "fx": "Benevento Calcio v Empoli",
+  "sport": "football",
+  "absences": "Benevento: Okereke back in the XI. Empoli: Zedadka rested (Egan in); attack Ceesay or Distefano with Shpendi.",
+  "context": "Serie B R13, Ciro Vigorito, 20:00 local. Benevento unbeaten at home (2-3-0); Empoli 1-3-6 last 10, 0 wins in last 6.",
+  "news": "Okereke returns for Benevento; Empoli rotate (Zedadka rests)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.803074,
+    "why": "Mechanism: Okereke returns for an unbeaten home side v an Empoli side without a win in 6 that is resting Zedadka. My p ~0.81 v house 0.803 (DNB removes the draw)."
+   }
+  ],
+  "avoid": "Under (house p < 0.82); Home -1",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.pianetaserieb.it/news/238499565062/le-probabili-di-benevento-empoli-si-rivede-okereke",
+   "https://www.calciomagazine.net/benevento-empoli-diretta-risultato-24-novembre-2026-253261.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73093094",
+  "fx": "Cesena FC v Ascoli Calcio 1898",
+  "sport": "football",
+  "absences": "Cesena: Klinsmann, Schirone injured; 'half the midfield' out per PianetaSerieB (currency unclear). Ascoli: Alagna, Acampora listed out in a recent list.",
+  "context": "Serie B R13. Ascoli lost 1 of their last 10 (4-5-1, 0.7 GA). Cesena 2-3-0 at home.",
+  "news": "Cesena midfield absences (list date uncertain); no confirmed XI",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.48,
+    "p": 0.641571,
+    "why": "Mechanism: Cesena reported missing several midfielders plus Klinsmann; Ascoli lost 1 in 10. My p ~0.66 v house 0.642. Absence list is not fully confirmed: fill-grade."
+   }
+  ],
+  "avoid": "Unders; Cesena result",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.pianetaserieb.it/news/492775050758/novita-assenti-serie-b",
+   "https://pianetaserieb.it/news/492775050758/assenti-serie-b-2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:73093148",
+  "fx": "L.R. Vicenza v Carrarese Calcio",
+  "sport": "football",
+  "absences": "Vicenza: none reported (Gallo). Carrarese: no news found.",
+  "context": "Serie B R13, Romeo Menti Vicenza. Vicenza 1-4-5 last 10, 0 home wins in 4; Carrarese 4-0-6.",
+  "news": "Vicenza report no injuries or suspensions; Goal's 11:00 (US time) = 19:00 UTC, consistent",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 (p 0.74 < 0.82); sides: statistics only, no mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://goal.com/it/notizie/guarda-lr-vicenza-contro-carrarese-in-diretta-oggi-chi-trasmette-la-partita-in-tv-e-in-live-streaming/blt2de2ffc5232bd6b2"
+  ]
+ },
+ {
+  "eid": "sr:match:75974240",
+  "fx": "Carrick Rangers v Glenavon FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "BetMcLean Cup Round 2, single-leg knockout (settles on 90 min). Glenavon's last 10 are 9-1-0 with 3.3 GF, yet the house makes Carrick favourites: form and price conflict.",
+  "news": "Fixture confirmed in the NIFL Round 2 draw (24/25 Nov)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.7554331595,
+    "why": "Mechanism: NI Premiership averages about 2.8 goals; Glenavon score 3.3/game (3.67 away) and Carrick concede 1.8. In a knockout, the trailing side must chase. My p ~0.78 v house 0.755."
+   }
+  ],
+  "avoid": "Any result-side (knockout + form/price conflict)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nifootballleague.com/news/2026/october/betmclean-cup-round-2-draw"
+  ]
+ },
+ {
+  "eid": "sr:match:75974244",
+  "fx": "Glentoran FC v Larne FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "BetMcLean Cup R2 knockout at The Oval; the same sides meet again in the league on Fri 27 Nov, so rotation is likely.",
+  "news": "Ticket notice confirms Tue 24 Nov at the Oval; league rematch Fri 27 Nov",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: rotation risk (league rematch in 3 days), knockout, Glentoran low-scoring",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.glentoran.com/",
+   "https://www.nifootballleague.com/news/2026/october/betmclean-cup-round-2-draw"
+  ]
+ },
+ {
+  "eid": "sr:match:75974248",
+  "fx": "Limavady United FC v Rathfriland Rangers",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "BetMcLean Cup R2 knockout; Limavady (Championship) v Rathfriland (lower tier). Thin, low-coverage tier.",
+  "news": "Fixture confirmed in the Round 2 draw; no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: thin lower-tier knockout, no coverage",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nifootballleague.com/news/2026/october/betmclean-cup-round-2-draw"
+  ]
+ },
+ {
+  "eid": "sr:match:74166018",
+  "fx": "Arsenal v Borussia Dortmund",
+  "sport": "football",
+  "absences": "Arsenal: Raya OUT (shoulder; Kepa starts), Saka OUT (~4 weeks), Zubimendi OUT. Dortmund: Guirassy (hamstring) and Chukwuemeka doubtful but trained and travelled; Emre Can, Lerma, Konstantelias, In\u00e1cio OUT; Anton fit. Nwaneri (on loan from Arsenal) likely on the bench.",
+  "context": "UCL league phase MD5, Emirates. Big-club clash. Arsenal won 4/4 at home in their last 10 (0.25 GA).",
+  "news": "Arsenal lose Raya, Saka and Zubimendi; Guirassy a doubt but travelled. Goal's 'no injuries' preview is outdated.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-2",
+    "desc": "Away (+2.0)",
+    "odds": 1.33,
+    "p": 0.729406,
+    "why": "Mechanism: Arsenal without Saka (main creator), Zubimendi and Raya; Dortmund 6-3-1 last 10 and lose by 3+ rarely; a 2-goal loss voids. Favourite p 0.665, so +2.0 is used per the AH rule (+2.5 and +1.5 banned). My p ~0.75 v house 0.729."
+   }
+  ],
+  "avoid": "Arsenal 1X2/-0.5 (big-club clash, no result-side); Under 4.5 (fav p >= 0.65 rout tail); O1.5 (big-club totals need p >= 0.82); +2.5 catch banned",
+  "confidence": 0.3,
+  "sources": [
+   "https://sports.yahoo.com/articles/arsenal-vs-borussia-dortmund-preview-162000175.html",
+   "https://www.espn.com/soccer/story/_/id/50559609/arsenal-vs-borussia-dortmund-tv-channel-how-watch-uk-kickoff-live-stream-team-news-referee-predicted-lineups",
+   "https://www.uefa.com/uefachampionsleague/news/025a-0ea72295eb66-43369e6956a4-1000--preview-arsenal-v-dortmund"
+  ]
+ }
+]

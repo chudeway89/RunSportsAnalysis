@@ -1,0 +1,640 @@
+[
+ {
+  "eid": "sr:match:73708576",
+  "fx": "Sokol Krasnoyarsk v HC Kaluga",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "VHL regular season; Sokol bottom of this group (21 pts, 10-14-1) v Kaluga 2nd-ish (33 pts). Kickoff 15:00 MSK = 12:00 UTC consistent across VHL calendar/betexplorer/eliteprospects.",
+  "news": "No team news found; date/time confirmed by the VHL calendar and Eliteprospects.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.24,
+    "p": 0.7853,
+    "why": "Both sides 2.0 GF / 2.3 GA; 9 of the last 10 combined games went 3+; my p ~0.80. A low-scoring pair, so stats-only fill."
+   }
+  ],
+  "avoid": "Result sides (coin flip, Sokol 1-3 at home); Unders below 0.82.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.vhlru.ru/en/calendar/",
+   "https://www.betexplorer.com/hockey/russia/vhl/",
+   "https://www.eliteprospects.com/league/vhl"
+  ]
+ },
+ {
+  "eid": "sr:match:73708578",
+  "fx": "Omskie Kryliya v HC Bars Kazan",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "VHL: Omskie Kryliya are league leaders (40 pts) and 4-0 at home (GA 1.0); Bars Kazan 23 pts, 1-2 away. Time 14:00 CET = 13:00 UTC consistent.",
+  "news": "Omskie Kryliya top the VHL table and are 4-0 at home; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.7519,
+    "why": "Table-leader v mid-table side; Omsk 4/4 home wins, Bars 3-7 in last 10. My p ~0.77, incl. OT."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7905,
+    "why": "Omsk scored 2+ in most home games (2.0 GF at home) v a Bars defence conceding 2.7; my p ~0.78."
+   }
+  ],
+  "avoid": "Omsk -1.5 (scored only 1.9 GF over last 10, low-margin wins 2-1 x2); any Overs above 4.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.vhlru.ru/en/calendar/",
+   "https://www.betexplorer.com/hockey/russia/vhl/",
+   "https://www.eliteprospects.com/league/vhl"
+  ]
+ },
+ {
+  "eid": "sr:match:73810718",
+  "fx": "Gornyak Rudnyi v HC Almaty",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Kazakhstan Pro Hockey League regular season. Gornyak only 1-4 at home in the last 5 (GA 3.2) despite being 0.77 favourite; Almaty concede 3.9 per game.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Gornyak 406 Home at 1.22: the price disagrees with the home form (1-4, trend 0.55), so a data conflict and no pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.hcbarys.kz/media/news/regulyarnyy-chempionat-pro-hokei-ligasy-startuet-1-sentyabrya/",
+   "https://www.eliteprospects.com/league/kazakhstan"
+  ]
+ },
+ {
+  "eid": "sr:match:73810722",
+  "fx": "HK Arlan Kokschetau v HK Beibarys Atyrau",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Kazakhstan PHL. Arlan 8-2 last 10, 4-0 at home with 5.25 GF; Beibarys 1-4 away, GA 4.4. Previous meeting 5-2 Arlan.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7765,
+    "why": "Regulation home win: Arlan won all 4 home games by multiple goals (5.25 v 1.75) and Beibarys lost 4 of 5 away; my p ~0.79."
+   }
+  ],
+  "avoid": "Totals around 5.5 (coin flip); -2.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.hcbarys.kz/media/news/regulyarnyy-chempionat-pro-hokei-ligasy-startuet-1-sentyabrya/",
+   "https://www.eliteprospects.com/league/kazakhstan"
+  ]
+ },
+ {
+  "eid": "sr:match:73810720",
+  "fx": "Nomad Nur-Sultan v Torpedo Ust Kamenogorsk",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Kazakhstan PHL top-of-table clash: Torpedo 10-0 in their last 10 (3.9 GF, 1.2 GA) v Nomad, 2025-26 champions and leaders in an earlier snapshot. H2H: Torpedo won the last three (3-2, 3-0, 6-3).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Torpedo away p 0.64 < 0.75 (away rule); Nomad +1.5 is a catch with the favourite at p >= 0.55 (banned). Top-two clash.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.hcbarys.kz/media/news/regulyarnyy-chempionat-pro-hokei-ligasy-startuet-1-sentyabrya/",
+   "https://www.eliteprospects.com/league/kazakhstan"
+  ]
+ },
+ {
+  "eid": "sr:match:73708580",
+  "fx": "HC Tambov v HC Khimik Voskresensk",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "VHL: Khimik (32 pts) v Tambov (25 pts in 23 games). Tambov 3-1 at home but have lost 4 straight away; Khimik 4-1 away with 4.4 GF. Time 16:30 CET = 15:30 UTC consistent.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.27,
+    "p": 0.7652,
+    "why": "Khimik average 4.4 away goals and scored 2+ in 8 of their last 10 (trend 0.8); my p ~0.79."
+   }
+  ],
+  "avoid": "Khimik away 406 (p 0.62 < 0.75); Tambov +2.5 (favourite p 0.62 >= 0.60, banned).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.vhlru.ru/en/calendar/",
+   "https://www.betexplorer.com/hockey/russia/vhl/",
+   "https://www.eliteprospects.com/league/vhl"
+  ]
+ },
+ {
+  "eid": "sr:match:72116562",
+  "fx": "SaiPa Lappeenranta v Lukko Rauma",
+  "sport": "ice hockey",
+  "absences": "no news found (Dec 2025 Lukko illness list is stale)",
+  "context": "Liiga regular season. Lukko 10-0 in their last 10 (4.0 GF), 4-0 away; SaiPa 5-5, leaking 3.2. 16:30 UTC = 18:30 EET (SaiPa page 18:30 local), consistent.",
+  "news": "No current team news found; Lukko on a 10-game win streak by Sportradar.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.38,
+    "p": 0.7025,
+    "why": "The favourite is SaiPa at only p 0.53 (< 0.55, so the catch is allowed). Lukko have won 10 straight, so they lose by 2+ only in a blowout; trend 0.85; my p ~0.74."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.33,
+    "p": 0.7261,
+    "why": "Lukko scored 2+ in 9/10 (4.75 away GF) v SaiPa GA 3.2; my p ~0.80."
+   }
+  ],
+  "avoid": "SaiPa ML (house p 0.53 but 0.25 trend); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.liiga.fi/en/schedule?kausi=2026-2027&sarja=runkosarja",
+   "https://kiekko-espoo.fi/ottelu/sport-k-espoo-24112026/",
+   "https://lansivayla.fi/paikalliset/9978490"
+  ]
+ },
+ {
+  "eid": "sr:match:72116564",
+  "fx": "Vaasan Sport v Kiekko-Espoo",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Liiga. K-Espoo beat Ässät 6-1 on Sat 21 Nov after a 2-5 loss to Ilves; this opens a run of three away games in a week. Sport are 2-4 at home (1.5 GF). 16:30 UTC = 18:30 EET, consistent.",
+  "news": "K-Espoo won 6-1 v Ässät on 21 Nov; Sport game starts a three-away-game week (Länsiväylä).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.29,
+    "p": 0.7495,
+    "why": "K-Espoo 3.2 GF (scored 2+ in 8.5/10 per trend) v a Sport side conceding 2.5 at home; my p ~0.76. First game of the road trip, so fatigue is not an issue."
+   }
+  ],
+  "avoid": "K-Espoo away 406 (p 0.54); Sport +1.5/+2.5 catches.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.liiga.fi/en/schedule?kausi=2026-2027&sarja=runkosarja",
+   "https://kiekko-espoo.fi/ottelu/sport-k-espoo-24112026/",
+   "https://lansivayla.fi/paikalliset/9978490"
+  ]
+ },
+ {
+  "eid": "sr:match:74117386",
+  "fx": "HK Prizma v Airwell Energija",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Latvian Optibet league (minor, semi-pro). Prizma beat Energija 9-1 at home on 15 Sep, but Energija won the reverse 5-2; Prizma 0-5 at home in the last 5 (GA 5.4). Energija 1-9 last 10. Schedule: 24.11 19:00 local at Volvo SC = 17:00 UTC, consistent.",
+  "news": "No team news; schedule confirmed by LHF (game #68).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Prizma 406 at 1.44: home form 0-5 conflicts with the price; volatile minor league.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lhf.lv/lv/turniri/optibet-hokeja-liga/2026-2027/1245/speles/pri-ene/20260915/35822",
+   "https://sportacentrs.com/sportacentrs_tv/live/24112026-b_hk_prizma_rtu_hc_energija_b_br_optibet_"
+  ]
+ },
+ {
+  "eid": "sr:match:75560394",
+  "fx": "Gorniczy Klub Sportowy Tychy v JKH GKS Jastrzebie",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Polish Super Cup, single game at Stadion Zimowy, Tychy, 18:00 CET (17:00 UTC), live on TVP Sport. Tychy are champions and holders, on 13 straight league wins (10-0 last 10, 4.4 GF at home); Jastrzebie are cup winners, 1-6 away. A Silesian regional rivalry, one-off trophy game.",
+  "news": "Tychy on 13 straight league wins host the Super Cup v cup winners Jastrzebie (sport1.pl, hokej.net).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.33,
+    "p": 0.7109,
+    "why": "Tychy scored 3+ in 8 of 10 (trend 0.8; 4.4 home GF) v Jastrzebie conceding 3.86 away; my p ~0.74. A goals market avoids the result-side ban on a knockout or derby."
+   }
+  ],
+  "avoid": "406/1X2 result sides: one-off trophy game and a regional derby (rule: To Qualify/DNB only). Tychy -1.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sport1.pl/superpuchar-polski-w-hokeju-2026-kiedy-gks-tychy-zagra-z-jkh-jastrzebie",
+   "https://hokej.net/artykul/zapowiada-sie-wielkie-widowisko-oto-data-meczu-o-superpuchar-polski",
+   "https://polskihokej.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72122200",
+  "fx": "Lillehammer IK v Stjernen Hockey Fredrikstad",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "EHL Norway round 19, Eidsiva Arena 18:30 CET = 17:30 UTC. Both struggling: Lillehammer 1-9 (GA 4.6), Stjernen 2-8. HockeyLive also lists 'Lillehammer - Frisk Asker' on the same day (likely a youth/other-level listing).",
+  "news": "No news found; HockeyLive shows an extra Lillehammer-Frisk Asker listing the same day (probably another age group).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Stjernen away 406 (p 0.61); Unders below 0.82. Two weak sides, no anchor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.gauldalsposten.no/norgeogverden/n/R1R7V5/sportsmeny-tirsdag-24-november",
+   "https://www.hockey4you.no/en/kampoversikt-ehl/",
+   "https://live.hockey.no/"
+  ]
+ },
+ {
+  "eid": "sr:match:72122202",
+  "fx": "Narvik Ishockeyklubb v Ringerike IHK Hoenefoss",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "EHL round 19 at Nordkraft Arena. Narvik 4-3 at home (GA 2.0); Ringerike 2-8 last 10 (1.4 GF), 1-4 away, long trip north. Previous meeting 3-2 Narvik.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.6493,
+    "why": "Narvik solid at home (GA 2.0) v Ringerike's weak attack (1.4 GF, 2-8). Incl. OT; my p ~0.68."
+   }
+  ],
+  "avoid": "Narvik -1.5; Overs (Ringerike rarely score).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.gauldalsposten.no/norgeogverden/n/R1R7V5/sportsmeny-tirsdag-24-november",
+   "https://www.hockey4you.no/en/kampoversikt-ehl/",
+   "https://live.hockey.no/"
+  ]
+ },
+ {
+  "eid": "sr:match:72122204",
+  "fx": "Stavanger Oilers v Storhamar Hockey",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "EHL round 19, DNB Arena. Top-of-table clash: Storhamar 8-2 (4.1 GF) v Stavanger 6-4; previous meeting 6-2 Storhamar.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result side; Storhamar away p 0.65 < 0.75; totals near coin flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.gauldalsposten.no/norgeogverden/n/R1R7V5/sportsmeny-tirsdag-24-november",
+   "https://www.hockey4you.no/en/kampoversikt-ehl/",
+   "https://live.hockey.no/"
+  ]
+ },
+ {
+  "eid": "sr:match:73739648",
+  "fx": "KH GKS Katowice v TKH Torun",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Polska Hokej Liga. Two high scorers: Katowice 8-2 (4.2 GF, 5-1 at home); Torun 7-3 (4.7 GF, incl. an 11-4). Listed at 18:30 CET = 17:30 UTC (schedule snippet only).",
+  "news": "No news found; fixture appears on polskihokej.eu for 18:30 CET.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.31,
+    "p": 0.7241,
+    "why": "Torun average 4.7 GF (4.8 away); they were held under 2 only twice in 10; my p ~0.76."
+   }
+  ],
+  "avoid": "Katowice 406 (p 0.64, Torun 7-3); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://sport1.pl/superpuchar-polski-w-hokeju-2026-kiedy-gks-tychy-zagra-z-jkh-jastrzebie",
+   "https://hokej.net/artykul/zapowiada-sie-wielkie-widowisko-oto-data-meczu-o-superpuchar-polski",
+   "https://polskihokej.eu/"
+  ]
+ },
+ {
+  "eid": "sr:match:72484140",
+  "fx": "Augsburger Panther v Krefeld Pinguine",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "DEL matchday 19, Tue 24 Nov 19:30 CET (= 18:30 UTC), confirmed by both clubs' schedules. Krefeld (newly promoted, 2026-27) 0-3 away and concede 5.0 away; Augsburg concede 4.2 at home.",
+  "news": "No injury news found; fixture confirmed by the AEV and Kicker/Krefeld schedules.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.39,
+    "p": 0.6933,
+    "why": "Both defences are poor: Augsburg's home games average 7.6 total, Krefeld's away games 6.7; my p ~0.72."
+   }
+  ],
+  "avoid": "Augsburg ML 1.62 (Augsburg 4-6); Under lines.",
+  "confidence": 0.25,
+  "sources": [
+   "https://tipsterio.de/sportwetten-tipps/eisbaeren-berlin-vs-loewen-frankfurt-wett-tipp-prognose-24-11-2026",
+   "https://www.penny-del.org/news/detail/news-update-kaderplanung-in-der-penny-del-1",
+   "https://www.straubing-tigers.de/spielplan/",
+   "https://www.lanxess-arena.de/veranstaltungsreihe/koelner-haie-1",
+   "https://www.aev-panther.de/panther/spielplan",
+   "https://fischtown-pinguins.de/spielplan-4/"
+  ]
+ },
+ {
+  "eid": "sr:match:72484138",
+  "fx": "Eisbaren Berlin v Lowen Frankfurt",
+  "sport": "ice hockey",
+  "absences": "Frankfurt: captain Maksim Matushkin out ~3 months; Daniel Pfaffengut and Daniel Wirt out for now (PENNY DEL news ~8 days old; a betting preview says no official absences). Berlin: Jonas Neffin starting in goal.",
+  "context": "DEL matchday 19. Berlin are the 2025-26 champions, 7-3 last 10 (4.2 GF); Frankfurt 2-8 and 0-4 away (GA 4.0).",
+  "news": "Frankfurt without captain Matushkin (long-term) and possibly Pfaffengut and Wirt; Berlin at full strength per a preview.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.8013,
+    "why": "Champions at home v a 2-8 side that is 0-4 away and missing its captain; my p ~0.82, incl. OT."
+   }
+  ],
+  "avoid": "Berlin -2.5 (2.2); Frankfurt team totals.",
+  "confidence": 0.35,
+  "sources": [
+   "https://tipsterio.de/sportwetten-tipps/eisbaeren-berlin-vs-loewen-frankfurt-wett-tipp-prognose-24-11-2026",
+   "https://www.penny-del.org/news/detail/news-update-kaderplanung-in-der-penny-del-1",
+   "https://www.straubing-tigers.de/spielplan/",
+   "https://www.lanxess-arena.de/veranstaltungsreihe/koelner-haie-1",
+   "https://www.aev-panther.de/panther/spielplan",
+   "https://fischtown-pinguins.de/spielplan-4/"
+  ]
+ },
+ {
+  "eid": "sr:match:72484142",
+  "fx": "ERC Ingolstadt v Fischtown Pinguins",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "DEL matchday 19, 24.11 19:30 CET confirmed by Bremerhaven's schedule. Ingolstadt concede 4.1 (lost 5-8 and three 3-5s); Bremerhaven beat Ingolstadt 6-2 earlier.",
+  "news": "No injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.34,
+    "p": 0.7217,
+    "why": "9 of the combined last 10 games went 5+ (trend 0.9); Ingolstadt's games average 7.6 goals; my p ~0.75."
+   }
+  ],
+  "avoid": "Result sides (Ingolstadt p 0.62 v the better-form visitor); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://tipsterio.de/sportwetten-tipps/eisbaeren-berlin-vs-loewen-frankfurt-wett-tipp-prognose-24-11-2026",
+   "https://www.penny-del.org/news/detail/news-update-kaderplanung-in-der-penny-del-1",
+   "https://www.straubing-tigers.de/spielplan/",
+   "https://www.lanxess-arena.de/veranstaltungsreihe/koelner-haie-1",
+   "https://www.aev-panther.de/panther/spielplan",
+   "https://fischtown-pinguins.de/spielplan-4/"
+  ]
+ },
+ {
+  "eid": "sr:match:72484146",
+  "fx": "Kolner Haie v Nuremberg Ice Tigers",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "DEL matchday 19 at Lanxess Arena, 19:30 CET, confirmed by the Haie schedule. Nürnberg 7-3 last 10 (4.0 GF); Köln 5-5. Köln played at Mannheim on 22 Nov.",
+  "news": "No injury news found; fixture and venue confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.31,
+    "p": 0.7386,
+    "why": "Nürnberg scored 2+ in 8.5/10 (4.0 GF) v a Köln side conceding 3.5 at home; my p ~0.78."
+   }
+  ],
+  "avoid": "Nürnberg +1.5 (Köln favourite p 0.63 >= 0.55, banned); Köln ML.",
+  "confidence": 0.3,
+  "sources": [
+   "https://tipsterio.de/sportwetten-tipps/eisbaeren-berlin-vs-loewen-frankfurt-wett-tipp-prognose-24-11-2026",
+   "https://www.penny-del.org/news/detail/news-update-kaderplanung-in-der-penny-del-1",
+   "https://www.straubing-tigers.de/spielplan/",
+   "https://www.lanxess-arena.de/veranstaltungsreihe/koelner-haie-1",
+   "https://www.aev-panther.de/panther/spielplan",
+   "https://fischtown-pinguins.de/spielplan-4/"
+  ]
+ },
+ {
+  "eid": "sr:match:72484144",
+  "fx": "Straubing Tigers v Adler Mannheim",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "DEL matchday 19, Eisstadion am Pulverturm, 19:30 CET (straubing-tigers.de). Mannheim 7-1-2 last 10 (3.6 GF); Straubing 5-5, 3-2 at home.",
+  "news": "No injury news found; fixture confirmed by the Straubing schedule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7975,
+    "why": "Mannheim scored 2+ in 9/10 (trend 0.9) v Straubing GA 3.2; my p ~0.83."
+   },
+   {
+    "mid": "410",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.36,
+    "p": 0.7113,
+    "why": "Favourite Straubing only p 0.52 (< 0.55, allowed). Mannheim are in better form (7-1-2), so a 2+ goal defeat is needed to lose; my p ~0.73."
+   }
+  ],
+  "avoid": "Straubing ML; Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://tipsterio.de/sportwetten-tipps/eisbaeren-berlin-vs-loewen-frankfurt-wett-tipp-prognose-24-11-2026",
+   "https://www.penny-del.org/news/detail/news-update-kaderplanung-in-der-penny-del-1",
+   "https://www.straubing-tigers.de/spielplan/",
+   "https://www.lanxess-arena.de/veranstaltungsreihe/koelner-haie-1",
+   "https://www.aev-panther.de/panther/spielplan",
+   "https://fischtown-pinguins.de/spielplan-4/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114623268",
+  "fx": "HC Cholet Dogs v Rouen Dragons",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Coupe de France round of 16, single game. Rouen are the holders, putting their title on the line at Cholet on Tue 24 Nov. Coupe de France round of 16, single-game knockout (OT/shootout decides); quarter-finals 15-16 Dec. Tie confirmed for Tue 24 Nov in the official programme (only Valenciennes-Grenoble is on 25 Nov).",
+  "news": "Rouen (holders) visit Cholet on Tue 24 Nov; confirmed in the programme.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No board markets in 1.18-2.2; knockout result sides are To Qualify only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hockeyhebdo.com/news-coupe-de-france---programme-des-8eme---24-et-25-novembre-2026,35439.html",
+   "https://www.hockeyfrance.com/competitions/2026/11/23/cdf-le-programme-des-8emes-de-finale/",
+   "https://fr.wikipedia.org/wiki/Coupe_de_France_de_hockey_sur_glace_2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114623269",
+  "fx": "HC Francais Volants v Diables Rouges de Briançon",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Coupe de France round of 16: Français Volants (Paris, lower division) v Briançon (Ligue Magnus). Coupe de France round of 16, single-game knockout (OT/shootout decides); quarter-finals 15-16 Dec. Tie confirmed for Tue 24 Nov in the official programme (only Valenciennes-Grenoble is on 25 Nov).",
+  "news": "Confirmed in the Hockey Hebdo programme; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Totals only on the board and no form data; Overs 6.5 are too speculative without data.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hockeyhebdo.com/news-coupe-de-france---programme-des-8eme---24-et-25-novembre-2026,35439.html",
+   "https://www.hockeyfrance.com/competitions/2026/11/23/cdf-le-programme-des-8emes-de-finale/",
+   "https://fr.wikipedia.org/wiki/Coupe_de_France_de_hockey_sur_glace_2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114623271",
+  "fx": "Meudon Hockey Club v Anglet Hormadi Elite",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Coupe de France round of 16: Meudon (lower division) v Anglet (Ligue Magnus). A clear class mismatch. Coupe de France round of 16, single-game knockout (OT/shootout decides); quarter-finals 15-16 Dec. Tie confirmed for Tue 24 Nov in the official programme (only Valenciennes-Grenoble is on 25 Nov).",
+  "news": "Confirmed in the programme; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=5.5",
+    "desc": "Over 5.5",
+    "odds": 1.32,
+    "p": 0.7173,
+    "why": "A Magnus side v a lower-division club in a cup game: Anglet should account for most of 6+ goals; my p ~0.70. No form data, so low confidence."
+   }
+  ],
+  "avoid": "Anglet away 406 (p 0.71 < 0.75).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hockeyhebdo.com/news-coupe-de-france---programme-des-8eme---24-et-25-novembre-2026,35439.html",
+   "https://www.hockeyfrance.com/competitions/2026/11/23/cdf-le-programme-des-8emes-de-finale/",
+   "https://fr.wikipedia.org/wiki/Coupe_de_France_de_hockey_sur_glace_2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:76121338",
+  "fx": "Bordeaux GHC v Cergy-Pontoise",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Coupe de France round of 16, Magnus v Magnus. Bordeaux 6-4 (4.4 GF at home) and won 7-0 at Toulouse in the last-32; Cergy 6-4. Coupe de France round of 16, single-game knockout (OT/shootout decides); quarter-finals 15-16 Dec. Tie confirmed for Tue 24 Nov in the official programme (only Valenciennes-Grenoble is on 25 Nov).",
+  "news": "Bordeaux won their last-32 tie 7-0 at Toulouse; tie confirmed for 24 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.36,
+    "p": 0.6957,
+    "why": "Bordeaux home games average 7.2 goals and Cergy's 7.2 overall; 8.5/10 of the combined games went 5+; my p ~0.73."
+   }
+  ],
+  "avoid": "Bordeaux 406 (p 0.69, home trend only 0.5).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.hockeyhebdo.com/news-coupe-de-france---programme-des-8eme---24-et-25-novembre-2026,35439.html",
+   "https://www.hockeyfrance.com/competitions/2026/11/23/cdf-le-programme-des-8emes-de-finale/",
+   "https://fr.wikipedia.org/wiki/Coupe_de_France_de_hockey_sur_glace_2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:76141138",
+  "fx": "Spartiates de Marseille v Chamonix Mont-Blanc Pionieers",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Coupe de France round of 16. Both struggling: Marseille 2-8, Chamonix 2-8 (GA 4.6, conceded 8 and 10 recently). Previous meeting 3-4. Coupe de France round of 16, single-game knockout (OT/shootout decides); quarter-finals 15-16 Dec. Tie confirmed for Tue 24 Nov in the official programme (only Valenciennes-Grenoble is on 25 Nov).",
+  "news": "Tie confirmed for 24 Nov; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.31,
+    "p": 0.7254,
+    "why": "Chamonix concede 4.6 per game (4.4 away); 8.5/10 of the combined games went 5+; my p ~0.74."
+   }
+  ],
+  "avoid": "Result sides in a knockout between two 2-8 teams.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.hockeyhebdo.com/news-coupe-de-france---programme-des-8eme---24-et-25-novembre-2026,35439.html",
+   "https://www.hockeyfrance.com/competitions/2026/11/23/cdf-le-programme-des-8emes-de-finale/",
+   "https://fr.wikipedia.org/wiki/Coupe_de_France_de_hockey_sur_glace_2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:76121340",
+  "fx": "Angers Ducs v HC Amiens Somme",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Coupe de France round of 16 at the IceParc, Angers, Tue 24 Nov 20:30 CET (= 19:30 UTC, consistent). Angers 3-2 at home (GA 1.6); Amiens 7-3 last 10 but concede 5.0 away. Coupe de France round of 16, single-game knockout (OT/shootout decides); quarter-finals 15-16 Dec. Tie confirmed for Tue 24 Nov in the official programme (only Valenciennes-Grenoble is on 25 Nov).",
+  "news": "Tie confirmed at the IceParc for 24 Nov, 20:30.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Angers 406 at 1.27 (p 0.76, but a 0.4 trend and Amiens 7-3: no edge); totals near coin flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hockeyhebdo.com/news-coupe-de-france---programme-des-8eme---24-et-25-novembre-2026,35439.html",
+   "https://www.hockeyfrance.com/competitions/2026/11/23/cdf-le-programme-des-8emes-de-finale/",
+   "https://fr.wikipedia.org/wiki/Coupe_de_France_de_hockey_sur_glace_2026-2027"
+  ]
+ }
+]
