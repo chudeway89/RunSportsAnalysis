@@ -1,6 +1,6 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-24 06:11 UTC. Totals: 17 won · 217 dead · 0 alive · 0 expired before settling · 97 never seen live.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-24 21:14 UTC. Totals: 17 won · 220 dead · 16 alive · 0 expired before settling · 97 never seen live.
 
 ## Return per 1-unit stake (all settled tickets, from papertrade/ticket_ledger.jsonl; odds as first seen; 7 early wins with unrecorded odds left out)
 
@@ -8,7 +8,7 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 |---|---|---|---|---|---|
 | 1-7 legs | 38 | 7 | 38 | 14.5 | -62% |
 | 8-12 legs | 23 | 3 | 23 | 25.7 | +12% |
-| 13+ legs | 166 | 0 | 166 | 0.0 | -100% |
+| 13+ legs | 169 | 0 | 169 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -337,6 +337,25 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-23 | ZZUCLJ | Monday night basketball max clean (9 legs, 10.8x, 1 in 14.4) | 9 | 6W/3L/0V/0P | DEAD | Chicago Bulls v Cleveland Cavaliers — Winner (incl. overtime) Away (122:108); Philadelphia 76ers v Portland Trail Blazers — Handicap (incl. overtime) 8.5 Home (+8.5) (111:128); Iona Gaels v Fairleigh Dickinson Knights — Winner (incl. overtime) Home (46:49) |
 | 2026-11-23 | RYAGDM | NCAA handicap 5000x LOTTERY (14 legs, 6,380x, 1 in 18,943) | 14 | 5W/8L/0V/1P | DEAD | Santa Clara Broncos v Illinois State Redbirds — Handicap (incl. overtime) -2.5 Away (+2.5) (102:99); Providence Friars v VCU Rams — Handicap (incl. overtime) -1.5 Away (+1.5) (72:66); Pepperdine Waves v North Carolina Greensboro Spartans — Handicap (incl. overtime) -10.5 Away (+10.5) (89:62); UNLV Rebels v Eastern Washington Eagles — Handicap (incl. overtime) -8.5 Away (+8.5) (82:61); Wichita State Shockers v Texas A&M-Corpus Christi Islanders — Handicap (incl. overtime) -19.5 Home (-19.5) (91:73); North Florida Ospreys v Central Arkansas Bears — Handicap (incl. overtime) 8.5 Home (+8.5) (66:80); South Carolina State Bulldogs v North Carolina A&T Aggies — Handicap (incl. overtime) 1.5 Home (+1.5) (60:62); Loyola Chicago Ramblers v Seattle Redhawks — Handicap (incl. overtime) 1.5 Home (+1.5) (63:76) |
 | 2026-11-23 | M7CUU0 | NCAA handicap 50000x LOTTERY (18 legs, 75,467x, 1 in 306,521) | 18 | 7W/9L/0V/2P | DEAD | Santa Clara Broncos v Illinois State Redbirds — Handicap (incl. overtime) -2.5 Away (+2.5) (102:99); Providence Friars v VCU Rams — Handicap (incl. overtime) -1.5 Away (+1.5) (72:66); Pepperdine Waves v North Carolina Greensboro Spartans — Handicap (incl. overtime) -10.5 Away (+10.5) (89:62); UNLV Rebels v Eastern Washington Eagles — Handicap (incl. overtime) -8.5 Away (+8.5) (82:61); Wichita State Shockers v Texas A&M-Corpus Christi Islanders — Handicap (incl. overtime) -19.5 Home (-19.5) (91:73); North Florida Ospreys v Central Arkansas Bears — Handicap (incl. overtime) 8.5 Home (+8.5) (66:80); South Carolina State Bulldogs v North Carolina A&T Aggies — Handicap (incl. overtime) 1.5 Home (+1.5) (60:62); Loyola Chicago Ramblers v Seattle Redhawks — Handicap (incl. overtime) 1.5 Home (+1.5) (63:76); Kansas Jayhawks v Denver Pioneers — Handicap (incl. overtime) -31.5 Home (-31.5) (84:67) |
+| 2026-11-24 | XKEPZR | YR0046 EDIT (2H O0.5 + team O0.5) (10 legs, 6.8x, 1 in 8.8) pre-research | 10 | 0W/0L/0V/10P | ALIVE |  |
+| 2026-11-24 | LC0AH8 | YR0046 CORE (5 legs, 2.4x, 1 in 2.8) pre-research | 5 | 0W/0L/0V/5P | ALIVE |  |
+| 2026-11-24 | P7X0LW | YR0046 rm-3 TRIM (36 legs, 3,376x, 1 in 11,653) | 36 | 0W/0L/0V/36P | ALIVE |  |
+| 2026-11-24 | YHNDR3 | YR0046 rm-6 TRIM (33 legs, 1,503x, 1 in 4,476) | 33 | 0W/0L/0V/33P | ALIVE |  |
+| 2026-11-24 | XQQZ4U | YR0046 rm-9 TRIM (30 legs, 701x, 1 in 1,860) | 30 | 0W/0L/0V/30P | ALIVE |  |
+| 2026-11-24 | MN298K | N0X5MU CORE (6 legs, 3.2x, 1 in 3.8) | 6 | 3W/0L/0V/3P | ALIVE |  |
+| 2026-11-24 | TPNPF8 | N0X5MU EDIT (12 legs, 14.0x, 1 in 20.1) | 12 | 7W/0L/0V/5P | ALIVE |  |
+| 2026-11-24 | PC6Q45 | N0X5MU full conversion (24 legs, 237.0x, 1 in 554.0) | 24 | 11W/2L/0V/11P | DEAD | East Bengal FC v Al Hussein Irbid — Over/Under Over 1.5 (1:0); Virtus Entella v Hellas Verona — Double Chance Draw or Away (2:1) |
+| 2026-11-24 | JV7NFP | Tuesday 50x (18 legs, 1 in 102) | 18 | 8W/3L/0V/7P | DEAD | KK Crvena zvezda Belgrade v Virtus Bologna — Winner (incl. overtime) Home (84:108); Omskie Kryliya v HC Bars Kazan — Winner (incl. overtime and penalties) Home (1:2); Cong An Ha Noi FC v Vissel Kobe — Draw No Bet Away (3:1) |
+| 2026-11-24 | UK89KE | Tuesday 500x (30 legs, 1 in 1,932) | 30 | 14W/4L/1V/11P | DEAD | KK Crvena zvezda Belgrade v Virtus Bologna — Winner (incl. overtime) Home (84:108); Omskie Kryliya v HC Bars Kazan — Winner (incl. overtime and penalties) Home (1:2); Cong An Ha Noi FC v Vissel Kobe — Draw No Bet Away (3:1); FK Akron Tolyatti v CSKA Moscow — Over/Under Over 1.5 (0:1) |
+| 2026-11-24 | P94Y66 | Tuesday night max clean (13 legs, 18.2x, 1 in 32) | 13 | 0W/0L/0V/13P | ALIVE |  |
+| 2026-11-24 | QWU603 | Tuesday night 50x (clean + 3 lower-grade) (16 legs, 36.4x, 1 in 73) | 16 | 0W/0L/0V/16P | ALIVE |  |
+| 2026-11-24 | X7LRAY | Tuesday night 50x LOTTERY (QWU603 + Harvard ML; 17 legs, 51.4x, 1 in 108) | 17 | 0W/0L/0V/17P | ALIVE |  |
+| 2026-11-24 | G47XVV | Tuesday night basketball 50000x LOTTERY (10 research + 26 data-Unders; 36 legs, 65,809x, 1 in 439,170) | 36 | 0W/0L/0V/36P | ALIVE |  |
+| 2026-11-24 | VKXGH6 | Tuesday night basketball 50000x FORM-LED LOTTERY (38 legs, 55,132x, 1 in 428,238) | 38 | 0W/0L/0V/38P | ALIVE |  |
+| 2026-11-24 | PCTSR5 | Tuesday night basketball 50000x FORM-LED LOTTERY v2 (no away team Overs; 38 legs, 52,897x, 1 in 405,481) | 38 | 0W/0L/0V/38P | ALIVE |  |
+| 2026-11-24 | SWRJ95 | Tuesday night basketball 500x (10 legs, 541x, 1 in 1,155) | 10 | 0W/0L/0V/10P | ALIVE |  |
+| 2026-11-24 | NG7JWE | Tuesday night basketball 500x v2 (9 legs, 420x, 1 in 749) | 9 | 0W/0L/0V/9P | ALIVE |  |
+| 2026-11-24 | RXQ2AJ | Tuesday night basketball 500x v3 (9 legs, 495x, 1 in 888) | 9 | 0W/0L/0V/9P | ALIVE |  |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
