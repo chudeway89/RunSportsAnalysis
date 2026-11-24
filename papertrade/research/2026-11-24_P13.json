@@ -1,0 +1,462 @@
+[
+ {
+  "eid": "sr:match:76710080",
+  "fx": "Brescia Lions v Venice Livewire",
+  "sport": "cricket",
+  "absences": "No named absences; Venice signed Vijay Shankar (19 Nov) to replace Bhanuka Rajapaksa; Dawid Malan captains Venice.",
+  "context": "Inaugural Italia T10, match 10 at Roma Cricket Ground. Brescia unbeaten (3W); Venice 1W-1L-1NR. One preview says both already through to Super 4, so this may be a near-dead rubber.",
+  "news": "Brescia unbeaten and favoured; both reportedly qualified for Super 4; start time differs across sources (12:15/12:45/13:15 UTC).",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (crex 1:15 PM local, Sandbrix 12:45, IST listings 13:15 UTC) plus possible dead rubber; amateur-level T10 with no form data.",
+  "picks": [],
+  "avoid": "Everything: winner 1.65/2.2 only market, no Sportradar form, possible dead rubber.",
+  "confidence": 0.1,
+  "sources": [
+   "https://crex.com/cricket-live-score/bl-vs-vl-10th-t10-italia-t10-league-2026-match-updates-157M",
+   "https://ianslive.in/venice-livewires-rope-in-vijay-shankar-for-italia-t10-2026-as-bhanuka-rajapaksas-replacement--20261119212318",
+   "https://www.sandbrix.com/en/cricket/italy-t10-2026/6afc5822eb3f87e5861dabe4"
+  ]
+ },
+ {
+  "eid": "sr:match:76103476",
+  "fx": "Gulf Giants v Mi Emirates",
+  "sport": "cricket",
+  "absences": "No confirmed injuries or XIs found. Captains: Heinrich Klaasen (GG), Kieron Pollard (MIE).",
+  "context": "ILT20 2026 match 5, Dubai International Cricket Stadium, 8 PM IST (14:30 UTC, matches board). Both 1-0: GG beat Sharjah by 7 (Ibrahim Zadran 84); MIE beat Desert Vipers by 52 (Kusal Perera 58, Chris Jordan). MIE get Dubai conditions; GG switching from Sharjah. H2H GG 5-4.",
+  "news": "Both won openers; MIE slight favourites with Dubai familiarity; previews split.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Winner market near coin-flip (1.80/2.05); player and over-by-over props have no mechanism. Previews split.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.thestatszone.com/gulf-giants-vs-mi-emirates-preview-prediction-2026-ilt20-league-stage-241849",
+   "https://cricketaddictor.com/fantasy-cricket/gg-vs-mie-dream11-prediction-today-match-dream11-team-today-fantasy-cricket-tips-playing-xi-pitch-report-injury-update-uae-t20-2026-match-5-466376/",
+   "https://en.wikipedia.org/wiki/2026_International_League_T20"
+  ]
+ },
+ {
+  "eid": "sr:match:75111966",
+  "fx": "Akron Zips v Belmont Bruins",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "Akron (4-2) hosts Belmont (5-1) at State Farm Field House, 12:30 ET (17:30 UTC, matches). Akron won three straight at home. Near pick-em (Akron -2.5).",
+  "news": "Akron hosts Belmont, coin-flip line; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.61 p 0.58 below 0.75; spread/totals coin-flips. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.bleachernation.com/how-to-watch/2026/11/23/how-to-watch-akron-zips-vs-belmont-bruins-live-stream-or-on-tv/",
+   "https://www.cbssports.com/college-basketball/teams/akron/akron-zips/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:74068306",
+  "fx": "Northern Colorado Bears v SE Louisiana Lions",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "SE Louisiana 1-4, Northern Colorado 3-3. Venue conflict: Bleacher Nation says neutral Hard Rock Riviera Maya (Cancun), a betting listing says Bank of Colorado Arena, Greeley.",
+  "news": "Venue conflict Cancun vs Greeley; UNC about -3.5.",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Cancun neutral vs Greeley home).",
+  "picks": [],
+  "avoid": "All markets (venue conflict).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bleachernation.com/how-to-watch/2026/11/23/how-to-watch-northern-colorado-bears-vs-se-louisiana-lions-live-stream-or-on-tv/",
+   "https://www.rotowire.com/betting/college-basketball/game/northern-colorado-vs-se-louisiana-odds-2026-11-24-3006882"
+  ]
+ },
+ {
+  "eid": "sr:match:75211168",
+  "fx": "FIU Panthers v Southern Utah Thunderbirds",
+  "sport": "basketball",
+  "absences": "No injuries found. Records conflict (FIU 4-1 or 3-1; SUU 3-4 or 3-3).",
+  "context": "FIU MTE at Ocean Bank Convocation Center, Miami (FIU home), 1 PM ET (18:00 UTC, matches). FIU -8.5. Southern Utah won all 3 previous meetings, but SUU last 4 road games: L102-104, L68-92, L51-89, L59-88.",
+  "news": "FIU home favourite -8.5 in own MTE; SUU poor on the road.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.768493,
+    "why": "Home MTE edge, SUU lost last 4 away games by 2-38 points (allform); market -8.5. Own est 0.77. Caveat: SUU 3-0 H2H, so small stake only."
+   }
+  ],
+  "avoid": "FIU -8.5 (coin flip); SUU catches (no NCAA catches in November). NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bleachernation.com/picks/2026/11/23/florida-international-vs-southern-utah-prediction-expert-picks-odds-stats-and-best-bets-tuesday-november-24-2026/",
+   "https://fiusports.com/news/2026/11/21/thanksgiving-week-commences-for-mens-basketball-to-host-fiu-mte.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:74068294",
+  "fx": "Oklahoma Sooners v Pittsburgh Panthers",
+  "sport": "basketball",
+  "absences": "Oklahoma: F Duke Brennan OUT (broken right ankle, 15 Nov, back mid-Feb); G T. Hendricks and D. Forsythe questionable (Covers, 17 Nov, may be stale). Pitt: none reported.",
+  "context": "Skechers Fort Myers Tip-Off (neutral), 1:30 PM ET (18:30 UTC, matches; BR 10:30 = PT). Pitt 6-0, Oklahoma 4-1 on four-game streak. Jeff Capel faces former team. Pitt ML -148.",
+  "news": "Unbeaten Pitt slight favourite; Oklahoma without Duke Brennan.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pitt ML p 0.556 < 0.75; Brennan absence already in line. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://pittsburghpanthers.com/news/2026/11/23/mens-basketball-pitt-puts-unbeaten-record-on-the-line-against-oklahoma-in-skechers-fort-myers-tip-off",
+   "https://fieldlevelmedia.com/ncaab/jeff-capel-faces-former-team-as-unbeaten-pitt-meets-oklahoma/",
+   "https://www.covers.com/sport/basketball/ncaab/injuries",
+   "https://bangthebook.com/oklahoma-sooners-vs-pittsburgh-panthers-prediction-2026-11-24/"
+  ]
+ },
+ {
+  "eid": "sr:match:75000802",
+  "fx": "Rice Owls v Illinois Chicago Flames",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "Scout Jacksonville Classic at The Reef, Jacksonville (neutral), 12:30 CT (18:30 UTC, matches). Rice 4-2, UIC 4-2; first meeting. UIC about -7.5; UIC played Miami (OH) in the opener.",
+  "news": "Neutral-site MTE; UIC favoured about 7.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UIC ML p 0.733 < 0.75; spread coin-flip. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://riceowls.com/news/2026/11/23/mens-basketball-mens-basketball-continues-play-at-scout-jacksonville-classic-against-uic",
+   "https://uicflames.com/news/2026/11/21/mens-basketball-takes-on-miami-ohio-in-scout-jacksonville-classic-opener.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:74062880",
+  "fx": "San Francisco Dons v Oregon State Beavers",
+  "sport": "basketball",
+  "absences": "No injury statuses for either side (Bang the Book check).",
+  "context": "Acrisure Series, Acrisure Arena, Palm Desert/Springs (neutral, not San Francisco), 11 AM PT (19:00 UTC, matches). Oregon State 7-0 after beating Tulsa 69-66 on a buzzer-beater Monday (back-to-back days). USF 4-2, lost last game to Nevada 71-62. OSU -9.5.",
+  "news": "Unbeaten Oregon State favoured 9.5 v USF on day two of Acrisure Series.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.19,
+    "p": 0.8069007892,
+    "why": "Oregon State 7-0, -9.5; USF lost to Nevada last time out. Own est 0.79 (slightly under house: back-to-back day after a buzzer-beater v Tulsa)."
+   }
+  ],
+  "avoid": "USF +8.5 catch (banned in November); OSU spread coin-flip. Board lists USF as home but the venue is neutral.",
+  "confidence": 0.25,
+  "sources": [
+   "https://osubeavers.com/news/2026/11/21/mens-basketball-beavers-headed-to-palm-springs-for-acrisure-series",
+   "https://www.on3.com/teams/oregon-state-beavers/news/oregon-state-heads-to-acrisure-series-unbeaten-faces-tulsa-and-san-francisco/",
+   "https://www.bleachernation.com/picks/2026/11/23/oregon-state-vs-san-francisco-prediction-expert-picks-odds-stats-and-best-bets-tuesday-november-24-2026/",
+   "https://katu.com/sports/college/beavers-win-on-final-shot-to-stay-perfect-on-season"
+  ]
+ },
+ {
+  "eid": "sr:match:77119644",
+  "fx": "Ole Miss Rebels v BYU Cougars",
+  "sport": "basketball",
+  "absences": "BYU: Robert Wright III (lower leg, missed last 2, 24.3 ppg) day-to-day/questionable. Ole Miss: Santiago Trouet questionable (one source). Sources conflict on whether anyone is listed.",
+  "context": "Maui Invitational semifinal, Lahaina Civic Center, 2:30 PM ET (19:30 UTC, matches). Pick-em.",
+  "news": "Maui semi; BYU star Robert Wright III doubtful-ish, injury reports conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pick-em; injury status of Wright uncertain. Data conflict on injuries. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tonyspicks.com/2026/11/23/ole-miss-vs-byu-prediction-picks-11-24-26/",
+   "https://www.capperspicks.com/free-picks/ai/ole-miss-rebels-vs-byu-cougars-pick-ncaa-basketball-prediction-preview-odds-11-24-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74068308",
+  "fx": "Detroit Mercy Titans v North Dakota Fighting Hawks",
+  "sport": "basketball",
+  "absences": "No injuries found. Detroit Mercy 0-5; leading scorer Samuel Hincapie 15.5 ppg.",
+  "context": "Cancun Challenge, Hard Rock Riviera Maya (neutral), 3 PM ET (20:00 UTC, matches). UND 3-3, -4.5, total ~151-154.",
+  "news": "Winless Detroit Mercy v UND in Cancun; UND -4.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UND ML p 0.64 < 0.75. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://fightinghawks.com/news/2026/11/23/notes-mens-basketball-opens-cancun-challenge-against-detroit-mercy.aspx",
+   "https://www.espn.com/mens-college-basketball/game/_/gameId/401920546/north-dakota-detroit-mercy"
+  ]
+ },
+ {
+  "eid": "sr:match:74064926",
+  "fx": "Miami Hurricanes v TCU Horned Frogs",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "Players Era Championship opening round, Las Vegas (neutral), 3 PM ET (20:00 UTC, matches; TCU site lists 2 PM CT). Miami 5-1 (last 106-54 v Manhattan), TCU 4-1. Miami -7.5/ML -285 in previews; board -6.5.",
+  "news": "Players Era: Miami favoured about 7 over TCU.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Miami ML p 0.709 < 0.75; big-conference neutral clash. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://gofrogs.com/news/2026/5/21/mens-basketball-brackets-set-for-2026-players-era-championship",
+   "https://bangthebook.com/miami-hurricanes-vs-tcu-horned-frogs-prediction-2026-11-24/"
+  ]
+ },
+ {
+  "eid": "sr:match:74064916",
+  "fx": "Tennessee Volunteers v Maryland Terrapins",
+  "sport": "basketball",
+  "absences": "No injuries found. Maryland leader Pharrel Payne 19.6 ppg.",
+  "context": "Players Era opening round, Michelob ULTRA Arena, Las Vegas (neutral). Tennessee 5-0, allows 56.2 ppg (5th); Maryland 3-2. Spread 4.5-5.5, total ~145.5.",
+  "news": "Tennessee 5-0 elite defence v Maryland; Vols -4.5/-5.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tennessee ML p 0.66 < 0.75; big-club neutral clash. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://utsports.com/news/2026/5/21/mens-basketball-tournament-bracket-schedule-set-for-2026-players-era-mens-championship",
+   "https://www.fanduel.com/research/tennessee-vs-maryland-college-basketball-predictions-odds-picks-best-bets-for-11-24-2026",
+   "https://bangthebook.com/tennessee-volunteers-vs-maryland-terrapins-prediction-2026-11-24/"
+  ]
+ },
+ {
+  "eid": "sr:match:75111942",
+  "fx": "Yale Bulldogs v Appalachian State Mountaineers",
+  "sport": "basketball",
+  "absences": "App State: Vasser (foot) cleared and healthy. Yale: none found.",
+  "context": "ESPN Invitational, Kissimmee FL (neutral), 3 PM ET (20:00 UTC, matches). One Yale events page shows a Monday 23 Nov row (looks like a listing error; all other sources say Tuesday). Pick-em.",
+  "news": "ESPN Invitational pick-em; App State Vasser cleared.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pick-em, minor date-listing anomaly. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.1,
+  "sources": [
+   "https://yalebulldogs.com/sports/mens-basketball/schedule",
+   "https://appstatesports.com/sports/mens-basketball/schedule/2026-27",
+   "https://www.rotowire.com/betting/college-basketball/game/yale-vs-appalachian-state-odds-2026-11-24-3035617"
+  ]
+ },
+ {
+  "eid": "sr:match:73935674",
+  "fx": "Long Beach State Beach v Arkansas State Red Wolves",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "FIU Thanksgiving Tournament, Ocean Bank Convocation Center, Miami (neutral), 3:30 PM ET (20:30 UTC, matches; Fox lists 8:30 PM, outlier). Arkansas State -4.5.",
+  "news": "Neutral MTE game; Arkansas State about -4.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ark State ML p 0.65 < 0.75. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://longbeachstate.com/news/2026/11/23/mens-basketball-fiu-thanksgiving-tournament-continues-tuesday-for-the-beach-against-arkansas-state",
+   "https://bigwest.org/schedule.aspx?schedule=2874"
+  ]
+ },
+ {
+  "eid": "sr:match:74029370",
+  "fx": "Lindenwood Lions v New Haven Chargers",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Lindenwood v New Haven (New Haven in D1 transition). No venue/time confirmation found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Low-major, no coverage; ML p 0.556. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74062882",
+  "fx": "Illinois State Redbirds v Tulsa Golden Hurricane",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "Acrisure Series, Acrisure Arena (neutral), 4:30 PM ET on CBSSN (21:30 UTC, matches; only ESPN confirms the venue). Tulsa lost 66-69 to Oregon State Monday on a buzzer-beater (back-to-back). Pick-em.",
+  "news": "Acrisure Series pick-em; Tulsa on second day after a last-second loss.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pick-em. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espn.com/mens-college-basketball/team/_/id/2287/illinois-state-redbirds",
+   "https://sports.yahoo.com/articles/deshawn-gory-3-2-1-232005992.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74064932",
+  "fx": "Creighton Bluejays v Michigan Wolverines",
+  "sport": "basketball",
+  "absences": "No injuries found. Michigan lead scorer Trey McKenney 18.0 ppg; Creighton Wes Enis 15.4, BJ Davis 14.0.",
+  "context": "Players Era opener, T-Mobile Arena, Las Vegas (neutral). Michigan (3-2) is the defending Players Era champion, coming off a loss. Creighton 4-1, undersized but good defensively. Michigan -5.5/-6.5, total 162.5. Start-time listings differ (2:30 PT = 22:30 UTC matches board).",
+  "news": "Defending champ Michigan, -5.5 to -6.5 v Creighton; Michigan coming off a loss.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Michigan ML p 0.707 < 0.75; big-club clash. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://gocreighton.com/news/2026/11/20/mens-basketball-mens-hoops-opens-players-era-16-against-defending-champ-michigan",
+   "https://www.si.com/college/michigan/basketball/michigan-basketball-preview-wolverines-look-to-bounce-back-against-creighton-2026",
+   "https://www.bleachernation.com/picks/2026/11/23/michigan-vs-creighton-prediction-spread-total-points-moneyline-picks-tuesday-november-24-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74064918",
+  "fx": "San Diego State Aztecs v Iowa State Cyclones",
+  "sport": "basketball",
+  "absences": "No current statuses (Bang the Book). Taj Manning calf note is from October (stale).",
+  "context": "Players Era, Michelob ULTRA Arena, Las Vegas (neutral), 4:30 PM PT/ESPNU vs Rotowire 5:30 PM ET (22:30 UTC matches the latter). SDSU 4-0 (Latrell Davis 20 ppg), turnover-prone (17.8% TO, #180); Iowa State 3-1 forces turnovers on 27.2% (5th). Iowa St ML -380; On3 82%.",
+  "news": "Iowa State -7.5 v unbeaten SDSU; turnover mismatch favours ISU.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Iowa State ML 1.27 has house p 0.749, just under the 0.75 ML gate, so no pick despite the turnover-mechanism lean (own est 0.79). Neutral-site tip time conflict (4:30 PT vs 5:30 ET). NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.2,
+  "sources": [
+   "https://eastvillagetimes.com/2026-players-era-16-preview-san-diego-state-vs-iowa-state/",
+   "https://www.yardbarker.com/college_basketball/articles/undefeated_san_diego_state_faces_streaking_iowa_state_at_players_era/s1_17048_44608651",
+   "https://bangthebook.com/san-diego-state-aztecs-vs-iowa-state-cyclones-prediction-2026-11-24/",
+   "https://www.on3.com/college/basketball/scoreboard/2037456/"
+  ]
+ },
+ {
+  "eid": "sr:match:74067504",
+  "fx": "Wyoming Cowboys v Kent State Golden Flashes",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "Sunshine Slam, Ocean Center, Daytona Beach (neutral), day two (Wyoming played Duquesne 22 Nov). Wyoming 5-1, allows 63.2 ppg (37th); Kent State 2-3, shoots 23% from three. Wyoming -9.5, ML -410 to -476. ESPN lists 10:30 PM (UTC), consistent with 5:30 PM ET.",
+  "news": "Wyoming -9.5 v struggling Kent State at the Sunshine Slam.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7823519208,
+    "why": "Wyoming 5-1 with a top-40 defence v Kent State shooting 23% from three; market -9.5, ML -410 to -476 (about 0.80). Own est 0.80. Neutral site."
+   }
+  ],
+  "avoid": "Wyoming -8.5 (coin flip); Kent State catches (banned).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bleachernation.com/picks/2026/11/23/wyoming-vs-kent-state-prediction-spread-total-points-moneyline-picks-tuesday-november-24-2026/",
+   "https://www.wyomingnews.com/wyosports/university_of_wyoming/cowboys-hoops-releases-2026-27-schedule/article_5dca28c7-cf89-45bd-b5c1-7b8c5b0422b9.html",
+   "https://www.espn.com/mens-college-basketball/preview/_/gameId/401921707"
+  ]
+ },
+ {
+  "eid": "sr:match:74803408",
+  "fx": "Florida Atlantic Owls v Mercer Bears",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "FAU hosts Mercer at Baldwin Arena, 6 PM ET (23:00 UTC, matches). FAU -6.5, total 160.5.",
+  "news": "FAU home -6.5 v Mercer; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "FAU ML p 0.73 < 0.75. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/mercer-@-florida-atlantic-36357447?tab=popular",
+   "https://www.espn.com/mens-college-basketball/team/schedule/_/id/2226/florida-atlantic-owls"
+  ]
+ },
+ {
+  "eid": "sr:match:74068318",
+  "fx": "Kennesaw State Owls v Eastern Michigan Eagles",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "Cancun Challenge, Hard Rock Riviera Maya (neutral; board shows Kennesaw as home), 6 PM ET (23:00 UTC, matches). EMU then plays UTEP or Charleston Wednesday.",
+  "news": "Neutral Cancun game; Kennesaw -4.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "KSU ML p 0.625. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://emueagles.com/news/2026/11/23/mens-basketball-heads-to-cancun-for-two-game-swing"
+  ]
+ },
+ {
+  "eid": "sr:match:74068298",
+  "fx": "Purdue Boilermakers v DePaul Blue Demons",
+  "sport": "basketball",
+  "absences": "Purdue: C.J. Cox questionable (knee) per AI pick page; Covers shows none. DePaul: Amsal Delalic out (knee), Mason Lockett IV questionable (foot), per the same AI page (unreliable).",
+  "context": "Fort Myers Tip-Off (neutral), 5 PM CT FS1 (23:00 UTC, matches). Purdue 4-2 on a 4-game streak (Daniel Jacobsen 19/8.8); DePaul 5-0, takes 56% of shots from three. Purdue gives up a 24.3% offensive-rebound rate.",
+  "news": "Purdue v unbeaten DePaul in Fort Myers; injury reports conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Purdue ML p 0.63; injury data conflict. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hammerandrails.com/purdue-mens-basketball/62464/the-three-pointer-purdue-4-2-vs-depaul-5-0",
+   "https://www.si.com/college/purdue/basketball/how-watch-purdue-vs-depaul-fort-myers-tip-off-with-tv-radio-stats-preview-college-basketball",
+   "https://www.capperspicks.com/free-picks/ai/purdue-boilermakers-vs-depaul-blue-demons-pick-ncaa-basketball-prediction-preview-odds-11-24-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74777138",
+  "fx": "Rutgers Scarlet Knights v Sacred Heart Pioneers",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "Rutgers (4-2) hosts Sacred Heart at Jersey Mike's Arena, 6 PM ET (23:00 UTC, matches). Tune-up before the Big Ten opener at Indiana on 1 Dec.",
+  "news": "Rutgers home tune-up v Sacred Heart; line -23.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.01 below the odds floor; -23.5 coin flip; nothing at p>=0.74 inside 1.18-2.2. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.1,
+  "sources": [
+   "https://scarletknights.com/news/2026/11/20/mens-basketball-mens-basketball-returns-home-tuesday-to-host-sacred-heart"
+  ]
+ },
+ {
+  "eid": "sr:match:73691908",
+  "fx": "VMI Keydets v Southern Indiana Screaming Eagles",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "VMI hosts Southern Indiana (2-5) at Cameron Hall, 6 PM ET. They met earlier this month: VMI won 78-74 away (TJ Johnson career-high 32). VMI -5.5.",
+  "news": "VMI home -5.5 v 2-5 Southern Indiana; VMI won the earlier meeting by 4.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "VMI ML p 0.66. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.15,
+  "sources": [
+   "https://vmikeydets.com/news/2026/11/23/mens-basketball-vmi-basketball-set-to-entertain-southern-indiana-in-pre-thanksgiving-tilt.aspx",
+   "https://bangthebook.com/southern-indiana-screaming-eagles-vs-vmi-keydets-prediction-2026-11-24/"
+  ]
+ },
+ {
+  "eid": "sr:match:73498176",
+  "fx": "Wofford Terriers v Queens (NC) Royals",
+  "sport": "basketball",
+  "absences": "No injuries found.",
+  "context": "Wofford hosts Queens at Jerry Richardson Indoor Stadium, 6 PM ET. Queens won the 14 Nov meeting 97-92 away at Wofford; Queens are the 2026 ASUN champions. Total 173.5 (high-tempo).",
+  "news": "Rematch: Queens beat Wofford 97-92 on 14 Nov; Wofford slight home favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pick-em; Queens defence concedes 95 ppg. NCAA November: no catches; ML only p>=0.75; no totals reach p>=0.74 inside 1.18-2.2",
+  "confidence": 0.1,
+  "sources": [
+   "https://woffordterriers.com/sports/mens-basketball/schedule/2026-27",
+   "https://www.rotowire.com/betting/college-basketball/game/wofford-vs-queens-university-odds-2026-11-24-3007366"
+  ]
+ }
+]
