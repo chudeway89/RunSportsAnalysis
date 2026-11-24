@@ -1,0 +1,545 @@
+[
+ {
+  "eid": "sr:match:73687008",
+  "fx": "Omskie Yastreby v JHC Spartak Moskow",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "MHL (junior U20) round 23; Spartak 5-0 away, gf 4.0 away; Omsk 4-2 home",
+  "news": "Confirmed 15:30 MSK (12:30 UTC) at Avangard academy, Omsk; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Junior league: no result-sides; Spartak away ML p0.55 below away gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://fanat1k.ru/news-424866-den-matcha-omskie-yastrebi-mhk-spartak.php",
+   "https://vprognoze.ru/topforecast/8258163-omskie-yastreby-mhk-spartak-moskva-2026-11-24.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73687006",
+  "fx": "JHC Molot v Sputnik Almetievsk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "MHL junior; both sides 1-9 in last 10 and conceding 4.4/game",
+  "news": "Listed 17:00 MSK (14:00 UTC), consistent with board; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Junior league, not a clear mismatch: no picks (Over 5.5 tempting on two leaky defences but youth rule)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.championat.com/hockey/news-6711816-raspisanie-matchej-mhl-na-24-noyabrya-2026-goda.html",
+   "https://allhockey.ru/news/show/617245-MHL_raspisanie_matchej_24_noyabrya_2026_goda"
+  ]
+ },
+ {
+  "eid": "sr:match:72166688",
+  "fx": "Metallurg Magnitogorsk v HC Dinamo Minsk",
+  "sport": "ice hockey",
+  "absences": "Metallurg: Kozlov, Mikhailis (injured), Morozov doubtful. Dinamo Minsk: D Nicolas Meloche out",
+  "context": "KHL regular season. Metallurg home games very open (gf 5.0 ga 3.6); Dinamo away low-event (2.17/2.0)",
+  "news": "Preview sources list Metallurg missing two forwards; Fucale/Prokhorov in Minsk net",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Two Metallurg forwards out vs a tight Dinamo road side: home ML 1.43 not worth it; totals split by style",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.championat.com/hockey/news-6711806-raspisanie-matchej-khl-na-24-noyabrya-2026-goda.html",
+   "https://stavka.tv/matches/ice-hockey/24-11-2026-metallurg-magnitogorsk-dinamo-minsk",
+   "https://metaratings.ru/prognozy/hokkey/metallurg-dinamo-minsk-prognoz-na-match-khl-24-noyabrya-2026-goda"
+  ]
+ },
+ {
+  "eid": "sr:match:72166686",
+  "fx": "Salavat Yulaev UFA v Neftekhimik Nizhnekamsk",
+  "sport": "ice hockey",
+  "absences": "none named",
+  "context": "KHL; Salavat won 5 of last 6 H2H and beat Neftekhimik 2-0 and 4-3 at home this season; Neftekhimik just ended a 3-game losing run (3-1 v Spartak)",
+  "news": "19:00 Ufa (14:00 UTC) at Ufa-Arena; one site says 14:00 MSK-style time, mkset says 19:00 local = 14:00 UTC, consistent with board",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.6,
+    "p": 0.6077,
+    "why": "Fixture-specific H2H: 5/6 Salavat wins incl. both home meetings this season; Salavat 4-3 at home. My p 0.63 (house 0.61), mid-band so weak signal"
+   }
+  ],
+  "avoid": "Neftekhimik +2.5 banned (fav p >=0.60)",
+  "confidence": 0.25,
+  "sources": [
+   "https://mkset.ru/news/2026-11-20/salavat-yulaev-i-neftehimik-poboryutsya-za-ochki-v-ufe-5737085",
+   "https://www.vseprosport.ru/news/2026/11/23/salavat-julaev-neftehimik-prognoz-kf-1-91-i-stavki-na-match-khl-24-nojabrja-2026-goda",
+   "https://www.sovsport.ru/predictions/hockey/khl/salavat-yulaev-neftehimik-v-ufe-volki-nikak-ne-mogut-slavno-poohotitsya"
+  ]
+ },
+ {
+  "eid": "sr:match:72166684",
+  "fx": "Traktor Chelyabinsk v HC Lada Togliatti",
+  "sport": "ice hockey",
+  "absences": "Traktor: Vitaly Kravtsov out (injury); Gorbunov, Rykov doubtful. Lada: Artyom Karpov, Ivan Savchik out (one source only)",
+  "context": "KHL; Heukeland in Traktor goal; Lada short of scoring per Stavka",
+  "news": "Both sides missing players; Lada absences only in Livesport",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.35,
+    "p": 0.7193,
+    "why": "Traktor (incl. OT) v Lada, which is also missing Karpov and Savchik and scores 2.0 away; Kravtsov out caps the edge. My p 0.72 = house"
+   }
+  ],
+  "avoid": "Traktor -1.5 at 2.10 (Lada keep games tight); Under 5.5 p0.62 below Under gate",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livesport.ru/tips/hockey/2026/11/24/traktor-lada-togliatti/",
+   "https://stavka.tv/matches/ice-hockey/24-11-2026-traktor-chelyabinsk-lada"
+  ]
+ },
+ {
+  "eid": "sr:match:74326972",
+  "fx": "Khimik Voskresensk v Biryusa Krasnoyarsk",
+  "sport": "ice hockey",
+  "absences": "not researched (women)",
+  "context": "Women ZhHL: Biryusa 2nd (16 pts/13 games), Khimik 4th (14 pts/10)",
+  "news": "18:30 MSK (15:30 UTC) Voskresensk, consistent. Standings suggest Biryusa is not the underdog the 1.19 home price implies",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women: no picks. Data conflict in strength (Biryusa 2nd in table v Khimik 1.19 favourite)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.redyarsk.ru/news/detail.php?id=89980",
+   "https://stavka.tv/matches/ice-hockey/24-11-2026-khimik-voskresensk-biryusa-krasnoyarsk-w-"
+  ]
+ },
+ {
+  "eid": "sr:match:73708582",
+  "fx": "Buran Voronezh v Zvezda Moscow",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "VHL; Buran 1-4 at home, Zvezda 0-4 away",
+  "news": "VHL schedule confirms Buran v Zvezda 19:00 MSK (16:00 UTC); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Buran ML 1.47 with a 1-4 home record: skip",
+  "confidence": 0.15,
+  "sources": [
+   "https://allhockey.ru/news/show/617244-VHL_raspisanie_matchej_24_noyabrya_2026_goda",
+   "https://sportmaps.ru/2026/11/24/raspisanie-matchej-vxl-na-24-noyabrya-2026-goda/"
+  ]
+ },
+ {
+  "eid": "sr:match:72166692",
+  "fx": "HC Dynamo Moscow v Avtomobilist Yekaterinburg",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "KHL; Dynamo (Kudashov) and Avtomobilist (Zavarukhin) both 7-3 in last 10, low-scoring (ga 1.7/1.9)",
+  "news": "19:30 MSK (16:30 UTC) at VTB Arena small arena; no lineup news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.33,
+    "p": 0.7267,
+    "why": "Two evenly matched 7-3 sides, house fav p only 0.54 (catch rule OK); both teams win by narrow margins (5 of Avto last 6 decided by 1-2 goals). My p 0.73 = house; empty-net risk is the threat"
+   }
+  ],
+  "avoid": "Result-sides (coin flip)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.championat.com/hockey/news-6711854-dinamo-m-avtomobilist-vo-skolko-nachalo-matcha-khl-sezona-2026-2027-gde-smotret-pryamuyu-translyaciyu-24-noyabrya-2026.html",
+   "https://metaratings.ru/prognozy/hokkey/dinamo-avtomobilist-prognoz-na-match-khl-24-noyabrya-2026-goda/"
+  ]
+ },
+ {
+  "eid": "sr:match:72709936",
+  "fx": "HC 05 Banska Bystrica v Dukla Michalovce",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Slovak Extraliga round 22; Michalovce 1-3 away, ga 5.0 away",
+  "news": "17:30 CET (16:30 UTC) confirmed by two sources",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "BB lost 4 of last 6: no ML",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnet.sme.sk/spravy/sportovy-program-na-dnes-utorok-24-november-2026/",
+   "https://www.hokejspravy.sk/rubriky/extraliga/tipsport-liga-tv-program-zapasy-22-kolo-dnes-2026-11-24_3691.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72709942",
+  "fx": "HC Kosice v Spisska Nova Ves",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Extraliga R22; Kosice 3-0 at home (gf 4.33)",
+  "news": "17:30 CET (16:30 UTC) confirmed, Sport1/JOJ play",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kosice ML p0.62 mid-band, no mechanism",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnet.sme.sk/spravy/sportovy-program-na-dnes-utorok-24-november-2026/",
+   "https://www.hokejspravy.sk/rubriky/extraliga/tipsport-liga-tv-program-zapasy-22-kolo-dnes-2026-11-24_3691.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72709940",
+  "fx": "HK Poprad v HK Dukla Trencin",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Extraliga R22; Poprad 4-0 home (gf 4.5), Trencin 2-4 away and lost 4 of last 6",
+  "news": "17:30 CET (16:30 UTC) confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.7019,
+    "why": "Poprad perfect at home (4-0, 4.5 gf) v Trencin 2-4 away and 1-5 in last 6; my p 0.71 (house 0.70); statistics only, fill"
+   }
+  ],
+  "avoid": "Poprad -1.5 2.05",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnet.sme.sk/spravy/sportovy-program-na-dnes-utorok-24-november-2026/",
+   "https://www.hokejspravy.sk/rubriky/extraliga/tipsport-liga-tv-program-zapasy-22-kolo-dnes-2026-11-24_3691.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72709944",
+  "fx": "HK Nitra v HC Presov",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Extraliga R22; Presov 1-9 last 10 (ga 4.1); Nitra 4-1 at home",
+  "news": "18:00 CET (17:00 UTC) confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.755,
+    "why": "Regulation win: Presov 1-9 and shipping 4.1/game, Nitra 4-1 at home gf 3.6. My p 0.76 (house 0.75)"
+   }
+  ],
+  "avoid": "406 Home at 1.15 below odds floor",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportnet.sme.sk/spravy/sportovy-program-na-dnes-utorok-24-november-2026/",
+   "https://www.hokejspravy.sk/rubriky/extraliga/tipsport-liga-tv-program-zapasy-22-kolo-dnes-2026-11-24_3691.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72709934",
+  "fx": "Slovan Bratislava v Mhk 32 Liptovsky Mikulas",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Extraliga R22 headline game (JOJ Sport); Liptovsky Mikulas 7-3 in last 10 — strong opponent",
+  "news": "18:00 CET (17:00 UTC) confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Slovan ML 1.33 v an in-form 7-3 side: skip",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnet.sme.sk/spravy/sportovy-program-na-dnes-utorok-24-november-2026/",
+   "https://www.hokejspravy.sk/rubriky/extraliga/tipsport-liga-tv-program-zapasy-22-kolo-dnes-2026-11-24_3691.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73705560",
+  "fx": "Nove Zamky v HK Martin",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Slovak 2nd tier (SHL); Martin 6-0 away (gf 5.0)",
+  "news": "No source confirming the Nov 24 fixture found (only a Sep 23 meeting); no conflict either",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Martin away ML p0.64 below away gate; thin coverage",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.sk/hokej/slovensko/slovenska-hokejova-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72119562",
+  "fx": "Linkopings HC v Lulea HF/MSSK",
+  "sport": "ice hockey",
+  "absences": "not researched (women)",
+  "context": "SDHL round 12 at Saab Arena",
+  "news": "18:00 CET (17:00 UTC) confirmed by venue and Sofascore",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://visitlinkoping.se/evenemang/sdhl-lhc-lulea-hockey-mssk-3/",
+   "https://www.sofascore.com/ice-hockey/match/lulea-hf-linkoping-hc/qVtbsywHb#id:16338744"
+  ]
+ },
+ {
+  "eid": "sr:match:72709938",
+  "fx": "HK Vlci Zilina v HKM Zvolen",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Extraliga R22; Zilina 4-1 home; Zvolen lost 5 of last 6",
+  "news": "18:30 CET (17:30 UTC) confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.33,
+    "p": 0.7181,
+    "why": "Zvolen 1-5 in last 6 (ga 3.4); Zilina 4-1 at home, won H2H 3-2; my p 0.72 = house; statistics-led fill"
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnet.sme.sk/spravy/sportovy-program-na-dnes-utorok-24-november-2026/",
+   "https://www.hokejspravy.sk/rubriky/extraliga/tipsport-liga-tv-program-zapasy-22-kolo-dnes-2026-11-24_3691.html"
+  ]
+ },
+ {
+  "eid": "sr:match:71696612",
+  "fx": "HC Orebro v Frolunda HC",
+  "sport": "ice hockey",
+  "absences": "Frolunda: earlier Puistola (surgery) and Olausson (finger) injuries, status unknown (article ~6 weeks old)",
+  "context": "SHL; Frolunda 2nd (41 pts/20), Orebro 4th; Orebro won last 3 H2H and 6 straight at Behrn Arena",
+  "news": "19:00 CET (18:00 UTC) confirmed, TV4",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Frolunda ML 1.68 into Orebro 6-game home streak; Orebro +1.5 banned (fav p 0.57 >=0.55)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.tvmatchen.nu/sport/ishockey/orebro-frolunda-24-november-2026/",
+   "https://www.tvmatchen.nu/betting/speltips/orebro-hk-frolunda-hc-24-11-shl/"
+  ]
+ },
+ {
+  "eid": "sr:match:71696610",
+  "fx": "Lulea Hockey v Malmo IF",
+  "sport": "ice hockey",
+  "absences": "Malmo: Hugo Pettersson out until after New Year; Pontus Andreasson foot injury",
+  "context": "SHL; near coin-flip (Lulea 0.53)",
+  "news": "Injury news per TVmatchen",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.35,
+    "p": 0.7152,
+    "why": "Coin-flip game (fav p 0.53, catch rule OK); Malmo concede 1.9/game and 5 of their last 6 decided by <=2; Pettersson absence trims Malmo. My p 0.71 (house 0.72)"
+   }
+  ],
+  "avoid": "Result-sides",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.tvmatchen.nu/sport/ishockey/lulea-malmo-shl-24-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72123590",
+  "fx": "EV Zug v EHC Kloten",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Swiss NL; Zug 5-1 home (gf 4.17, ga 1.83); Kloten 2-2 away, ga 3.3. CHL R16 ended Nov 17-18, QF Dec 1-2: no midweek European game this week.",
+  "news": "19:45 CET (18:45 UTC) confirmed by hockeyfans and nau.ch; Zug lost 4-3 OT at Ambri on Nov 21",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.7841,
+    "why": "Zug dominant at home (5-1, +2.3/game) v Kloten conceding 3.3; incl. OT. My p 0.79 (house 0.78)"
+   }
+  ],
+  "avoid": "Zug -1.5 1.72 (p0.56)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.hockeyfans.ch/",
+   "https://www.nau.ch/sport/matchcenter/leagues/national-league/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72123580",
+  "fx": "HC Davos v Geneve-Servette HC",
+  "sport": "ice hockey",
+  "absences": "Servette: Sakari Manninen lower body (stale, due back end Nov); Davos: Nico Gross knee (stale)",
+  "context": "Swiss NL; both 4-5 in last 10; Servette beaten by Lausanne 3-4 OT on Nov 22",
+  "news": "19:45 CET confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Injury data stale, mid-band prices: no pick",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hockeyfans.ch/",
+   "https://www.nau.ch/sport/matchcenter/leagues/national-league/matches",
+   "https://www.eliteprospects.com/league/nl"
+  ]
+ },
+ {
+  "eid": "sr:match:72123582",
+  "fx": "HC Fribourg-Gotteron v ZSC Lions Zurich",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Swiss NL; ZSC 8-2 last 10, 5-0 away (gf 4.4); ZSC beat Lugano 4-1 Nov 21. CHL R16 ended Nov 17-18, QF Dec 1-2: no midweek European game this week.",
+  "news": "19:45 CET confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "412",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.33,
+    "p": 0.7303,
+    "why": "ZSC games: 5 of last 6 went 5+ goals (incl. OT market); ZSC away 4.4 gf; Fribourg 4 of last 6 over. My p 0.74 (house 0.73)"
+   }
+  ],
+  "avoid": "ZSC away ML p0.67 below away gate; Fribourg +1.5 banned (fav p 0.67)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.hockeyfans.ch/",
+   "https://www.nau.ch/sport/matchcenter/leagues/national-league/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72123584",
+  "fx": "HC Lausanne v SC Rapperswil-Jona Lakers",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Swiss NL; Lausanne won 4-3 OT at Servette Nov 22; Rapperswil beat Langnau 5-2 Nov 22",
+  "news": "Fixture not yet shown on hockeyfans 24 Nov block at snapshot; no conflicting date found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "412",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.3,
+    "p": 0.7424,
+    "why": "Lausanne last 6 totals 7,7,4,5,4,12; Rapperswil 7,3,4,6,6,7; Lausanne ga 3.7. My p 0.74 = house"
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hockeyfans.ch/",
+   "https://www.nau.ch/sport/matchcenter/leagues/national-league/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72123586",
+  "fx": "HC Lugano v EHC Biel",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Swiss NL; Biel conceded 9 v Bern Nov 21, ga 3.8 last 10 and 4.0 away; Lugano lost 1-4 at ZSC",
+  "news": "19:45 CET (18:45 UTC); not shown on hockeyfans snapshot, no conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "412",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.3,
+    "p": 0.7479,
+    "why": "Biel last 6 all 5+ goals (14,7,7,5,6,7) and leak 4.0 away; Lugano 5 of 6 at 4+. My p 0.76 (house 0.75)"
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.hockeyfans.ch/",
+   "https://www.nau.ch/sport/matchcenter/leagues/national-league/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72123578",
+  "fx": "SC Bern v HC Ambri-Piotta",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Swiss NL; Bern 8-2 last 10 and won 9-5 at Biel Nov 21; Ambri 0-4 away (ga 5.0) but beat Zug 4-3 OT Nov 21",
+  "news": "19:45 CET; no conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "412",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.32,
+    "p": 0.7358,
+    "why": "Every one of both sides last 6 except one went 5+ (Bern 14,7,7,7,5,9; Ambri 7,10,4,5,7,7); Ambri concede 5.0 away. My p 0.77 (house 0.74)"
+   }
+  ],
+  "avoid": "Bern ML 1.53 mid-band",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.hockeyfans.ch/",
+   "https://www.nau.ch/sport/matchcenter/leagues/national-league/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72123588",
+  "fx": "SCL Tigers Langnau v HC Ajoie Porrentruy",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Swiss NL; Langnau 3-1 home (gf 4.25); lost 2-5 at Rapperswil Nov 22; Ajoie 2-3 away",
+  "news": "19:45 CET; no conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.7021,
+    "why": "Langnau strong at home v Ajoie (2.2 gf away); incl. OT. My p 0.70 = house; stats-only fill"
+   }
+  ],
+  "avoid": "Ajoie +2.5 banned (fav p 0.70)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hockeyfans.ch/",
+   "https://www.nau.ch/sport/matchcenter/leagues/national-league/matches"
+  ]
+ }
+]
