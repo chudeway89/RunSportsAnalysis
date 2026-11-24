@@ -176,5 +176,332 @@
    "https://www.footballstreams.com/matches/hajer-vs-al-tai-20261124/",
    "https://www.365scores.com/en-uk/football/match/first-division-5502/al-ta'i-hajer-8944-14904-5502"
   ]
+ },
+ {
+  "eid": "sr:match:72962382",
+  "fx": "FC Felgueiras 1932 U23 v Academico Viseu",
+  "sport": "football",
+  "absences": "youth fixture - not researched for absences",
+  "context": "Portugal Liga Revela\u00e7\u00e3o U23. Felgueiras U23 v Acad\u00e9mico Viseu U23. Youth.",
+  "news": "no news found; no date conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - U23 youth fixture, hard-excluded class",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fastscore.com/br/futebol/portugal/liga-revelacao-sub-23",
+   "https://oddspedia.com/br/futebol/portugal/liga-revelacao",
+   "https://www.sportytrader.com/en/results-live/football/portugal/u23-championship-86835/"
+  ]
+ },
+ {
+  "eid": "sr:match:72962372",
+  "fx": "Portimonense v Estrela Amadora",
+  "sport": "football",
+  "absences": "youth fixture - not researched for absences",
+  "context": "Portugal Liga Revela\u00e7\u00e3o U23. Portimonense U23 v Estrela Amadora U23, 24/11 15:00 UTC confirmed (FastScore, Oddspedia). Youth.",
+  "news": "no news found; no date conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - U23 youth fixture, hard-excluded class",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fastscore.com/br/futebol/portugal/liga-revelacao-sub-23",
+   "https://oddspedia.com/br/futebol/portugal/liga-revelacao",
+   "https://www.sportytrader.com/en/results-live/football/portugal/u23-championship-86835/"
+  ]
+ },
+ {
+  "eid": "sr:match:72962374",
+  "fx": "Rio Ave v UD Leiria U23",
+  "sport": "football",
+  "absences": "youth fixture - not researched for absences",
+  "context": "Portugal Liga Revela\u00e7\u00e3o U23. Rio Ave U23 v UD Leiria U23, 24/11 15:00 UTC confirmed (Oddspedia, SportyTrader). Youth.",
+  "news": "no news found; no date conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - U23 youth fixture, hard-excluded class",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fastscore.com/br/futebol/portugal/liga-revelacao-sub-23",
+   "https://oddspedia.com/br/futebol/portugal/liga-revelacao",
+   "https://www.sportytrader.com/en/results-live/football/portugal/u23-championship-86835/"
+  ]
+ },
+ {
+  "eid": "sr:match:76083582",
+  "fx": "MSK Zilina v MFK Ruzomberok",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Slovnaft Cup round of 16, single-leg knockout. Holders \u017dilina (beat Ko\u0161ice 3-1 in last final; 2.6 GF/g) v league rival Ru\u017eomberok. Ref Michal Smol\u00e1k.",
+  "news": "Ru\u017eomberok club site says Tue 24 Nov 17:00 CET; SFZ Futbalnet (Sportnet) lists 25.11.2026 17:30 - date conflict.",
+  "veto": true,
+  "veto_reason": "Date conflict: 24 Nov 17:00 (club site, Footaz) vs 25 Nov 17:30 (SFZ Futbalnet)",
+  "picks": [],
+  "avoid": "All - date conflict; knockout result-sides banned anyway",
+  "confidence": 0.1,
+  "sources": [
+   "https://rkmagazin.sk/ruzomberok-caka-velmi-narocny-poharovy-zapas-vyzve-obhajcu-trofeje/",
+   "https://sportnet.sme.sk/futbalnet/z/sfz/zapas/6ad9fd8b3d2c18f1856307dc/",
+   "https://www.footaz.net/match/zilina-vs-ruzomberok/",
+   "https://spravy.stvr.sk/2026/10/slovnaft-cup-2026-27-zreb-osemfinale"
+  ]
+ },
+ {
+  "eid": "sr:match:77062294",
+  "fx": "SC Kiyovu  v AL Hilal (SDN)",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Rwanda Premier League. Kiyovu (~11th, 4-4-2, 0.5 GA) v Al-Hilal Omdurman (Sudanese giants playing in Rwanda league; 8-1-1 last 10, 6-0-1 away, 0.4 GA). Hilal beat Kiyovu 5-0 in an Aug 2026 friendly; Kiyovu won the April 2026 league meeting 2-1.",
+  "news": "Only aggregator listings for 24 Nov (footballstreams); KO not independently confirmed, no conflicting date found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.26,
+    "p": 0.7446927744,
+    "why": "Al-Hilal's squad quality gap (CAF Champions League level, 6-0-1 away, 0.4 GA) v mid-table Kiyovu; DNB covers the draw-heavy Rwandan league -> own p 0.77"
+   }
+  ],
+  "avoid": "Al-Hilal 1X2 (p 0.54, below 0.75 away gate); Under 2.5 (p 0.63 < 0.82)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.footballstreams.com/matches/kiyovu-fc-vs-al-hilal-omdurman-20261124/",
+   "https://allafrica.com/stories/202608180082.html",
+   "https://www.besoccer.com/team/matches/al-hilal-omdurman"
+  ]
+ },
+ {
+  "eid": "sr:match:72962376",
+  "fx": "Torreense v FC Vizela",
+  "sport": "football",
+  "absences": "youth fixture - not researched for absences",
+  "context": "Portugal Liga Revela\u00e7\u00e3o U23. Torreense U23 v Vizela U23. Youth.",
+  "news": "Date conflict: 365Scores/Oddspedia 24 Nov 17:00, SportyTrader 25 Nov 17:00 UTC.",
+  "veto": true,
+  "veto_reason": "Date conflict 24 Nov vs 25 Nov between sources",
+  "picks": [],
+  "avoid": "All - date conflict and youth",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fastscore.com/br/futebol/portugal/liga-revelacao-sub-23",
+   "https://oddspedia.com/br/futebol/portugal/liga-revelacao",
+   "https://www.sportytrader.com/en/results-live/football/portugal/u23-championship-86835/",
+   "https://www.365scores.com/pt-br/football/league/liga-revelacao-u23-7260/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:73326532",
+  "fx": "AL Ittihad Jeddah v AL Hazem U21",
+  "sport": "football",
+  "absences": "youth fixture - not researched for absences",
+  "context": "Saudi U21 Elite League. Al-Ittihad U21 (8-2-0, 0.4 GA) v Al-Hazem U21 (5-1-4). Youth.",
+  "news": "no news found; no date/venue conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - U21 youth fixture, hard-excluded class",
+  "confidence": 0.1,
+  "sources": [
+   "https://globalsportsarchive.com/en/soccer/competition/jawwy-u21-elite-league-2026-2027/81548"
+  ]
+ },
+ {
+  "eid": "sr:match:73326534",
+  "fx": "AL Riyadh SC U21 v AL Ahli Jeddah",
+  "sport": "football",
+  "absences": "youth fixture - not researched for absences",
+  "context": "Saudi U21 Elite League. Al-Riyadh U21 (5-0-0 at home) v Al-Ahli U21 (6-4-0). Youth, no mismatch.",
+  "news": "no news found; no date/venue conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - U21 youth fixture, hard-excluded class",
+  "confidence": 0.1,
+  "sources": [
+   "https://globalsportsarchive.com/en/soccer/competition/jawwy-u21-elite-league-2026-2027/81548"
+  ]
+ },
+ {
+  "eid": "sr:match:75974250",
+  "fx": "Loughgall FC v Queens University",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "BetMcLean (NI League) Cup round 2, knockout; only all-Championship tie, at Lakeview Park. Loughgall poor at home (1-0-3, 3.0 GA) v Queen's University (4-0-1 away, 2.8 GF). Cup winner gets European play-off final spot.",
+  "news": "Confirmed 24 Nov 19:45 at Lakeview Park (NIFL match centre).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (knockout); Over 2.5 at p 0.62 only; thin second-tier league",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nifootballleague.com/betmclean-cup/2026-2027/fixtures/2026-11-24-loughgall-v-queens-university",
+   "https://www.nifootballleague.com/news/2026/october/betmclean-cup-round-2-draw"
+  ]
+ },
+ {
+  "eid": "sr:match:75974252",
+  "fx": "Moyola Park FC v Ballymena United",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "BetMcLean Cup round 2, knockout: Championship Moyola Park (0-0-4 at home, 2.8 GA) v Premiership Ballymena United (poor form: L 0-4, L 0-3, L 0-1 in last 5).",
+  "news": "Confirmed 24 Nov 19:45 at H.A.J Stadium (NIFL match centre).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ballymena 1X2/AH (knockout, Ballymena out of form); Over 1.5 at 1.17 below range",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nifootballleague.com/betmclean-cup/2026-2027/fixtures/2026-11-24-moyola-park-v-ballymena-united",
+   "https://www.nifootballleague.com/news/2026/october/betmclean-cup-round-2-draw"
+  ]
+ },
+ {
+  "eid": "sr:match:76478064",
+  "fx": "Arbroath FC v Airdrieonians FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Scottish Challenge Cup (KDM Evolution Trophy) round of 16, single-leg knockout (pens after 90 - market settles on 90 min). Arbroath (8th, 17 pts) v Airdrieonians (4th, 22 pts; beat Elgin 5-0 in R1). Arbroath strong at home (4-0-2).",
+  "news": "Confirmed 24 Nov at Gayfield; KO time differences across sites are time-zone only (19:45 UK).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (knockout, close teams)",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Challenge_Cup",
+   "https://spfl.co.uk/league/challenge-cup",
+   "https://www.espn.com/soccer/schedule/_/league/sco.challenge",
+   "https://www.betexplorer.com/football/scotland/challenge-cup/"
+  ]
+ },
+ {
+  "eid": "sr:match:76478066",
+  "fx": "Ayr United FC v Inverness Caledonian Thistle FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Scottish Challenge Cup (KDM Evolution Trophy) round of 16, single-leg knockout (pens after 90 - market settles on 90 min). Ayr United (7th, 19 pts) v Inverness CT (6th, 21 pts). Last H2H 0-0. Evenly matched.",
+  "news": "Confirmed 24 Nov at Somerset Park.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (knockout, even); Over 2.5 (p 0.47)",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Challenge_Cup",
+   "https://spfl.co.uk/league/challenge-cup",
+   "https://www.espn.com/soccer/schedule/_/league/sco.challenge"
+  ]
+ },
+ {
+  "eid": "sr:match:76478068",
+  "fx": "Clydebank FC v Queens Park FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Scottish Challenge Cup (KDM Evolution Trophy) round of 16, single-leg knockout (pens after 90 - market settles on 90 min). Clydebank (8-1-1, 0.7 GA, 5-1-0 at home) v Queen's Park (10th, 7 pts; 2-0-8 last 10, 1-0-5 away). Lower-tier home side in form v struggling higher-tier side.",
+  "news": "Confirmed 24 Nov at Holm Park.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (knockout); Clydebank DNB tempting (form) but stats-only and knockout - skip",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Challenge_Cup",
+   "https://spfl.co.uk/league/challenge-cup",
+   "https://www.espn.com/soccer/schedule/_/league/sco.challenge"
+  ]
+ },
+ {
+  "eid": "sr:match:76478060",
+  "fx": "Dunfermline Athletic FC v Kelty Hearts FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Scottish Challenge Cup (KDM Evolution Trophy) round of 16, single-leg knockout (pens after 90 - market settles on 90 min). Dunfermline (5-4-1) v Kelty Hearts (5-0-5, low scoring). Board thin (47 markets).",
+  "news": "Listed 24 Nov 19:45 (Betimate, Scores24); no preview found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - thin board, knockout",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Challenge_Cup",
+   "https://spfl.co.uk/league/challenge-cup",
+   "https://www.espn.com/soccer/schedule/_/league/sco.challenge",
+   "https://scores24.live/en/soccer/m-24-11-2026-dunfermline-athletic-kelty-hearts-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:76478058",
+  "fx": "East Kilbride FC v Partick Thistle FC",
+  "sport": "football",
+  "absences": "no named absences found; Alex Samuel Thistle's top scorer, Lewis McGrattan (7) EK's",
+  "context": "Scottish Challenge Cup (KDM Evolution Trophy) round of 16, single-leg knockout (pens after 90 - market settles on 90 min). Third-tier East Kilbride (3rd in League One, beat Stirling 7-3 last round, conceded in 17 of 18) v Championship leaders Partick Thistle (8-1-1, 0.3 GA away). Thistle's Robbie Crawford: manager wants to go far and win it (no rotation signal).",
+  "news": "Confirmed 24 Nov 19:45 (SPFL) at K-Park; other listed times are time-zone artefacts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.34,
+    "p": 0.6960977993,
+    "why": "Tier gap: Championship leaders (5-1-0 away, 0.3 GA) v League One side, and Thistle publicly taking the cup seriously (Crawford) -> own p 0.72; DNB only per knockout rule"
+   }
+  ],
+  "avoid": "Partick 1X2 (knockout, banana-skin risk); Unders (EK high scoring)",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Challenge_Cup",
+   "https://spfl.co.uk/league/challenge-cup",
+   "https://www.espn.com/soccer/schedule/_/league/sco.challenge",
+   "https://thethistle1876.substack.com/p/crawford-insists-thistle-are-taking",
+   "https://dailysports.net/stat/football/east-kilbride-vs-partick-thistle/",
+   "https://scores24.live/en/soccer/m-24-11-2026-east-kilbride-partick-thistle-fc-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:76478056",
+  "fx": "Hamilton Academical FC v Cove Rangers FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Scottish Challenge Cup (KDM Evolution Trophy) round of 16, single-leg knockout (pens after 90 - market settles on 90 min). Hamilton (6-2-2, 2.5 GF at home) v Cove Rangers (6-1-3; Paul Hartley urging players to 'keep the faith' after a heavy defeat). Last H2H 0-4 (Cove win).",
+  "news": "Confirmed 24 Nov 19:45 at New Douglas Park (SPFL, Press and Journal).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hamilton DNB 1.26 (p 0.74): H2H 0-4 to Cove and Cove 6-1-3 - no mechanism; result-sides in knockout",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Challenge_Cup",
+   "https://spfl.co.uk/league/challenge-cup",
+   "https://www.espn.com/soccer/schedule/_/league/sco.challenge",
+   "https://www.pressandjournal.co.uk/fp/sport/football/ross-county/7154961/ross-county-stuart-kettlewell-challenge-cup-preview/"
+  ]
+ },
+ {
+  "eid": "sr:match:76478054",
+  "fx": "Livingston FC v Peterhead FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Scottish Challenge Cup (KDM Evolution Trophy) round of 16, single-leg knockout (pens after 90 - market settles on 90 min). Livingston (Championship 2nd; 6-2-2, 0.6 GA) v Peterhead (lower tier, 1-0-4 away, 2.2 GA). Peterhead's Danny Strachan 'building on winning feeling'.",
+  "news": "Confirmed 24 Nov 19:45 at Tony Macaroni Arena (SPFL).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "AH -1.5 home (result-side in knockout); Under 3.5 (p 0.57)",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Challenge_Cup",
+   "https://spfl.co.uk/league/challenge-cup",
+   "https://www.espn.com/soccer/schedule/_/league/sco.challenge",
+   "https://www.pressandjournal.co.uk/fp/sport/football/ross-county/7154961/ross-county-stuart-kettlewell-challenge-cup-preview/"
+  ]
  }
 ]

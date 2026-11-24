@@ -1,0 +1,520 @@
+[
+ {
+  "eid": "sr:match:76692544",
+  "fx": "Dalian Wenti v Hefei",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league (WCBA): per rules no picks except goals/points markets in clear mismatches; only date/venue checked. Hefei 7-3 L10 v Dalian 6-4; H2H last two won by Hefei (97-79, 123-80).",
+  "news": "no news found; 2026-27 WCBA schedule not confirmable online, no conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture; house makes Dalian fav but H2H/form lean Hefei - data_conflict on side, avoid result markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Women%27s_Chinese_Basketball_Association"
+  ]
+ },
+ {
+  "eid": "sr:match:76692546",
+  "fx": "Guangdong Vermilion Birds v Henan Phoenix",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league (WCBA): per rules no picks except goals/points markets in clear mismatches; only date/venue checked. Henan 7-3 (allows 70.8) v Guangdong 4-6.",
+  "news": "no news found; one source lists no 'Henan Phoenix' entry for 2025-26 (club naming unclear), no date conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Women%27s_Chinese_Basketball_Association"
+  ]
+ },
+ {
+  "eid": "sr:match:76692548",
+  "fx": "Shanxi Flame v Wuhan Shengfan",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's league (WCBA): per rules no picks except goals/points markets in clear mismatches; only date/venue checked. Shanxi (2026 WCBA Club Cup winners per Wikipedia) 7-3 v Wuhan 3-7; clear mismatch (-24.5) but no total has p>=0.74 in band.",
+  "news": "no news found; club naming conflict Shanxi Flame vs Shanxi Xingrui in sources (name only, not date/venue)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture; huge spread, garbage-time variance",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Women%27s_Chinese_Basketball_Association"
+  ]
+ },
+ {
+  "eid": "sr:match:75111952",
+  "fx": "St. Bonaventure Bonnies v Wright State Raiders",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "ESPN Events Invitational, neutral site State Farm Field House, Kissimmee FL; Wright State 6-0, St. Bonaventure 5-1. ESPN line SBU -1.5 but ESPN BPI gives Wright State 60.3%. Tip 10:00 ET = 15:00 UTC (consistent across ESPN/CBS/WSU). Tournament game - teams may play again within 24-48h.",
+  "news": "Neutral-site invitational, coin-flip; ESPN BPI leans Wright State (60%) vs house 49%",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NCAA November: no catches; side is a coin flip and research diverges >10pp from house - skip",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/mens-college-basketball/game/_/gameId/401927398/wright-st-st-bonaventure",
+   "https://wsuraiders.com/game-center/10652",
+   "https://www.cbssports.com/college-basketball/teams/stbon/st-bonaventure-bonnies/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:76806632",
+  "fx": "BC Zalgiris Kaunas II v BC Telsiai",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Zalgiris Kaunas II is a reserve/farm side (2-8 L10). Telsiai lead NKL at 14-1 (Eurobasket, Nov 21). Official nkl.lt: 2026-11-24 18:00 local (16:00 UTC), KA Zalgiris sports complex - matches board.",
+  "news": "Telsiai 14-1 league leaders v reserve side; date confirmed by nkl.lt (Livesport showed a separate Telsiai-Zalgiris 2 meeting on 26.11, read as another round)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side; Telsiai -14.5 is a big-spread result-side, Telsiai ML 1.07 below band",
+  "confidence": 0.15,
+  "sources": [
+   "https://nkl.lt/nkl-tvarkarastis/",
+   "https://www.eurobasket.com/Lithuania/Nacionaline-Krepsinio-Lyga.aspx",
+   "https://www.livesport.com/basketball/lithuania/nkl/"
+  ]
+ },
+ {
+  "eid": "sr:match:75000814",
+  "fx": "Ohio Bobcats v New Mexico State Aggies",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Non-conference. Ohio -4.5 (FanDuel, ML -192). VENUE CONFLICT: Ohio athletics describes the game as part of the Scout Jacksonville Classic (Jacksonville, FL); Rotowire lists Convocation Center, Athens OH; NMSU lists 'at Ohio'. Time consistent 11:00 ET.",
+  "news": "Venue conflict between sources (Jacksonville neutral v Athens home)",
+  "veto": true,
+  "veto_reason": "venue conflict: Jacksonville Classic neutral site vs Convocation Center Athens",
+  "picks": [],
+  "avoid": "veto - venue conflict; NCAA November no catches",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.rotowire.com/betting/college-basketball/game/ohio-vs-new-mexico-state-odds-2026-11-24-3032239",
+   "https://sportsbook.fanduel.com/basketball/ncaa-basketball-mens-games/new-mexico-state-@-ohio-36357154",
+   "https://nmstatesports.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:75109986",
+  "fx": "Alytaus Patriotai v KK Vilkaviskio Perlas",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL. nkl.lt: Alytaus Patriotai v Vilkaviskio Perlas Go, 18:05 local (16:05 UTC), Alytus Sports & Recreation Centre, on LRT - matches board. Vilkaviskis 0 away wins in last-10 away sample, 3-7 L10.",
+  "news": "date/venue confirmed by nkl.lt; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Alytus ML p 0.70 < 0.75; no total with p>=0.74",
+  "confidence": 0.15,
+  "sources": [
+   "https://nkl.lt/nkl-tvarkarastis/",
+   "https://www.eurobasket.com/Lithuania/Nacionaline-Krepsinio-Lyga.aspx",
+   "https://www.livesport.com/basketball/lithuania/nkl/"
+  ]
+ },
+ {
+  "eid": "sr:match:75019256",
+  "fx": "Elitzur Netanya v Hapoel Haifa BC",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Israel Liga Leumit round 8, Tue 24.11 18:15 local (16:15 UTC) at Netanya Arena - matches board. Netanya (relegated from Premier League) top of table, 88.3 ppg (league best), 38.4% from three; Haifa on two straight losses.",
+  "news": "Top-of-table Netanya hosts Haifa who have lost two in a row (IBBA preview)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Netanya ML p 0.72 < 0.75; no total p>=0.74 in band",
+  "confidence": 0.2,
+  "sources": [
+   "https://ibasketball.co.il/news/2026/11/%D7%A7%D7%A8%D7%91-%D7%A2%D7%A0%D7%A7%D7%99%D7%95%D7%AA-%D7%91%D7%90%D7%A8%D7%A0%D7%94-%D7%A0%D7%AA%D7%A0%D7%99%D7%94-%D7%90%D7%9C%D7%99%D7%A6%D7%95%D7%A8-%D7%A0%D7%AA%D7%A0%D7%99%D7%94-%D7%9E%D7%90/",
+   "https://www.sport5.co.il/articles.aspx?FolderID=1379&docID=568797",
+   "https://sports.walla.co.il/item/3875227"
+  ]
+ },
+ {
+  "eid": "sr:match:75019250",
+  "fx": "Maccabi Kiryat Motzkin v Elitzur Yavne",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Liga Leumit bottom-of-table clash (sport5): Yavne on six straight losses; IBBA broadcast list 24/11 18:30 local - matches board. Motzkin 1-9 L10 yet house favours Motzkin 1.40.",
+  "news": "Relegation-zone six-pointer; Yavne on a 6-game losing run",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "both sides 1-9/2-8; Motzkin fav at p 0.67 below ML threshold; avoid",
+  "confidence": 0.15,
+  "sources": [
+   "https://ibasketball.co.il/news/2026/11/%D7%A7%D7%A8%D7%91-%D7%A2%D7%A0%D7%A7%D7%99%D7%95%D7%AA-%D7%91%D7%90%D7%A8%D7%A0%D7%94-%D7%A0%D7%AA%D7%A0%D7%99%D7%94-%D7%90%D7%9C%D7%99%D7%A6%D7%95%D7%A8-%D7%A0%D7%AA%D7%A0%D7%99%D7%94-%D7%9E%D7%90/",
+   "https://www.sport5.co.il/articles.aspx?FolderID=1379&docID=568797",
+   "https://sports.walla.co.il/item/3875227"
+  ]
+ },
+ {
+  "eid": "sr:match:75019248",
+  "fx": "Maccabi Rehovot v AS Ashkelon/Kiryat Gat",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Liga Leumit; Rehovot trying to improve home record v Ashkelon/Kiryat Gat (sport5). Rehovot beat Yavne recently. Date not independently verified beyond the board.",
+  "news": "Rehovot home v Ashkelon/Kiryat Gat; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rehovot ML 1.15 below band; Rehovot home record only 1 win in last-5 home sample",
+  "confidence": 0.15,
+  "sources": [
+   "https://ibasketball.co.il/news/2026/11/%D7%A7%D7%A8%D7%91-%D7%A2%D7%A0%D7%A7%D7%99%D7%95%D7%AA-%D7%91%D7%90%D7%A8%D7%A0%D7%94-%D7%A0%D7%AA%D7%A0%D7%99%D7%94-%D7%90%D7%9C%D7%99%D7%A6%D7%95%D7%A8-%D7%A0%D7%AA%D7%A0%D7%99%D7%94-%D7%9E%D7%90/",
+   "https://www.sport5.co.il/articles.aspx?FolderID=1379&docID=568797",
+   "https://sports.walla.co.il/item/3875227"
+  ]
+ },
+ {
+  "eid": "sr:match:75019254",
+  "fx": "AS Ramat Hasharon v Elizur Ashkelon",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Liga Leumit; Ramat Hasharon 5/5 home wins in last-10 home sample v Elizur Ashkelon 1 away win.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip line, no band markets with p>=0.74",
+  "confidence": 0.1,
+  "sources": [
+   "https://ibasketball.co.il/news/2026/11/%D7%A7%D7%A8%D7%91-%D7%A2%D7%A0%D7%A7%D7%99%D7%95%D7%AA-%D7%91%D7%90%D7%A8%D7%A0%D7%94-%D7%A0%D7%AA%D7%A0%D7%99%D7%94-%D7%90%D7%9C%D7%99%D7%A6%D7%95%D7%A8-%D7%A0%D7%AA%D7%A0%D7%99%D7%94-%D7%9E%D7%90/",
+   "https://www.sport5.co.il/articles.aspx?FolderID=1379&docID=568797",
+   "https://sports.walla.co.il/item/3875227"
+  ]
+ },
+ {
+  "eid": "sr:match:75019252",
+  "fx": "Elitzur Shomron Hlp v Hapoel Migdal Haemek Jezreel",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Liga Leumit; Elitzur Shomron won away at Maccabi Petah Tikva recently (walla). Migdal HaEmek 3-7 L10, conceding 93.1.",
+  "news": "Shomron in form; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Shomron ML 1.09 below band; -11.5 big spread",
+  "confidence": 0.15,
+  "sources": [
+   "https://ibasketball.co.il/news/2026/11/%D7%A7%D7%A8%D7%91-%D7%A2%D7%A0%D7%A7%D7%99%D7%95%D7%AA-%D7%91%D7%90%D7%A8%D7%A0%D7%94-%D7%A0%D7%AA%D7%A0%D7%99%D7%94-%D7%90%D7%9C%D7%99%D7%A6%D7%95%D7%A8-%D7%A0%D7%AA%D7%A0%D7%99%D7%94-%D7%9E%D7%90/",
+   "https://www.sport5.co.il/articles.aspx?FolderID=1379&docID=568797",
+   "https://sports.walla.co.il/item/3875227"
+  ]
+ },
+ {
+  "eid": "sr:match:73263198",
+  "fx": "Besiktas JK v Paris Basketball",
+  "sport": "basketball",
+  "absences": "Besiktas: Wenyen Gabriel OUT, Jaylen Nowell OUT. Paris: Leo Cavaliere back (R13), Daulton Hommes playing.",
+  "context": "EuroLeague Round 14. Paris 9-1 L10 scoring 101.4 ppg (allowing 92.7); Besiktas 6-4, 85.2/84.5.",
+  "news": "Besiktas without Gabriel and Nowell v high-scoring Paris (9-1)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-8.5",
+    "desc": "Away (+8.5)",
+    "odds": 1.28,
+    "p": 0.7616,
+    "why": "Paris +8.5: Paris 9-1 L10 and a credible receiver, Besiktas missing Gabriel and Nowell; own p ~0.80"
+   },
+   {
+    "mid": "225",
+    "spec": "total=172.5",
+    "desc": "Over 172.5",
+    "odds": 1.25,
+    "p": 0.7733,
+    "why": "Paris games average ~194 combined, Besiktas ~170; Paris pace drives total; own p ~0.80"
+   }
+  ],
+  "avoid": "Besiktas ML / Besiktas -handicap",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-14-fantasy-sloukas/",
+   "https://www.eurohoops.net/en/euroleague/2039943/injury-report-round-14-sloukas-rivero-peters-out-bolmaro-martin-gtd/"
+  ]
+ },
+ {
+  "eid": "sr:match:74980608",
+  "fx": "Maccabi Haifa v Elitzur Holon",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Israeli WBL (women). Only date/venue checked.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture",
+  "confidence": 0.1,
+  "sources": [
+   "https://ibasketball.co.il/"
+  ]
+ },
+ {
+  "eid": "sr:match:75109988",
+  "fx": "BC Jurbarkas-Karys v Vytis Sakiai",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL: nkl.lt lists Jurbarkas-Karys-Manvesta v Sakiai Vytis-VDU 19:00 local (17:00 UTC) at Jurbarkas A.G.G. hall, LRT - matches board. Jurbarkas 12-2 (4th), Vytis 10-4 (6th) per Eurobasket Nov 21.",
+  "news": "Top-6 clash: Jurbarkas 12-2 v Vytis 10-4",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Jurbarkas ML p 0.76 but statistics-only reason against a credible 10-4 opponent - fill at best, not picked",
+  "confidence": 0.15,
+  "sources": [
+   "https://nkl.lt/nkl-tvarkarastis/",
+   "https://www.eurobasket.com/Lithuania/Nacionaline-Krepsinio-Lyga.aspx",
+   "https://www.livesport.com/basketball/lithuania/nkl/"
+  ]
+ },
+ {
+  "eid": "sr:match:76777330",
+  "fx": "Kretingos Kretinga v BC Silute",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL; Kretinga lost 64-88 at Telsiai (Nov 19) and 76-87 to Mazeikiai (Nov 21) - third game in 6 days; Silute 8-6 (7th) lost 80-113 at Palanga Nov 21.",
+  "news": "Kretinga 2-8, playing third game in six days",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Silute ML p 0.56 - not a pick; no band totals p>=0.74",
+  "confidence": 0.15,
+  "sources": [
+   "https://nkl.lt/nkl-tvarkarastis/",
+   "https://www.eurobasket.com/Lithuania/Nacionaline-Krepsinio-Lyga.aspx",
+   "https://www.livesport.com/basketball/lithuania/nkl/"
+  ]
+ },
+ {
+  "eid": "sr:match:73263200",
+  "fx": "KK Crvena zvezda Belgrade v Virtus Bologna",
+  "sport": "basketball",
+  "absences": "Virtus: Bobi Klintman OUT, Davide Casarin OUT (since R11); Hackett, K. Edwards, Alston, Kokila rested in LBA but available; new signings Abass/Lonati may debut. Zvezda: no report filed; Chris Jones, Tyson Carter, Semi Ojeleye did not play ABA last weekend (status unclear); Moneke back in ABA; Butler returned R13.",
+  "context": "EuroLeague Round 14 in Belgrade. Zvezda 8-2 L10, 6 home wins in home sample, 92.9 ppg; Virtus 4-6 L10, allowing 92.7, 1 away win.",
+  "news": "Virtus short two rotation players; Zvezda strong at home, but three Zvezda guards/forwards sat out ABA (watch report)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.774,
+    "why": "Zvezda ML: home fortress (8-2, strong home sample) v Virtus 4-6 missing Klintman and Casarin; own p ~0.78 - recheck Zvezda report for Jones/Carter/Ojeleye"
+   },
+   {
+    "mid": "225",
+    "spec": "total=162.5",
+    "desc": "Over 162.5",
+    "odds": 1.31,
+    "p": 0.74,
+    "why": "Zvezda games ~177 combined avg, Virtus ~183; 162.5 is ~15 below both; own p ~0.80"
+   }
+  ],
+  "avoid": "big Zvezda handicaps",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-14-fantasy-sloukas/",
+   "https://www.eurohoops.net/en/euroleague/2039943/injury-report-round-14-sloukas-rivero-peters-out-bolmaro-martin-gtd/"
+  ]
+ },
+ {
+  "eid": "sr:match:75110018",
+  "fx": "Omega Tauras LSU v Mazeikiai M Basket",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NKL. Date/venue CONFLICT: Livesport lists the Omega-Tauras v Mazeikiai meeting on 26.11 in Mazeikiai; official nkl.lt result for Nov 24 did not confirm this pairing. Mazeikiai 5-11 (15th) but beat Kretinga Nov 21; Omega-Tauras 0 home wins in last-10 home sample yet house fav 1.15.",
+  "news": "Fixture date/venue not confirmed; sources conflict",
+  "veto": true,
+  "veto_reason": "date/venue conflict: Livesport shows this pairing on 26.11 at Mazeikiai",
+  "picks": [],
+  "avoid": "veto",
+  "confidence": 0.1,
+  "sources": [
+   "https://nkl.lt/nkl-tvarkarastis/",
+   "https://www.eurobasket.com/Lithuania/Nacionaline-Krepsinio-Lyga.aspx",
+   "https://www.livesport.com/basketball/lithuania/nkl/"
+  ]
+ },
+ {
+  "eid": "sr:match:73263202",
+  "fx": "Bayern Munich v Maccabi Tel-Aviv",
+  "sport": "basketball",
+  "absences": "Maccabi: Iffe Lundberg OUT. Bayern: no major concerns; Oscar da Silva, Miles Norris, Justus Hollatz day-to-day (preview site; official report pending).",
+  "context": "EuroLeague Round 14. Bayern 6-4, 92.3/84.6; Maccabi 3-7 L10 with 0 wins in away sample.",
+  "news": "Maccabi without Lundberg and poor away; Bayern near full strength",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=167.5",
+    "desc": "Over 167.5",
+    "odds": 1.24,
+    "p": 0.7794,
+    "why": "Bayern games ~177 combined avg, Maccabi ~169; line ~10 below Bayern's average; own p ~0.79"
+   }
+  ],
+  "avoid": "Maccabi catches (0 away wins, Lundberg out); Bayern ML p 0.60 below threshold",
+  "confidence": 0.25,
+  "sources": [
+   "https://basketballsphere.com/en/bayern-vs-maccabi-tel-aviv-prediction-odds-euroleague-november-24-2026/",
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-14-fantasy-sloukas/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114712092",
+  "fx": "Basket Frascati Women v Thunder Basket Matelica Women",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Italian Serie A2 women. Only date/venue checked; no form data.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture, no data",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75240802",
+  "fx": "Aurore Vitre Basketball v Etoile Angers Basket",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "NM1 Poule B, rescheduled J4 game (postponed earlier for Covid cases), Tue 24.11 20:30 local (19:30 UTC) Salle Poultiere, Vitre (FFBB, club site). One Angers listing says 20:00 - minor time discrepancy, date/venue consistent. Angers on four straight wins (76-71 v Lorient Nov 20) and best defence in the pool; Vitre won 90-82 at Challans Nov 17, lost 66-69 at home to Les Sables.",
+  "news": "Angers chasing 5th straight win with the pool's best defence; house makes Vitre 1.36 fav",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vitre ML/handicap - research (Angers form, best defence) contradicts the 0.70 favourite; low-total game but no Under p>=0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://competitions.ffbb.com/competitions/nm1/match/200000014596806",
+   "https://www.ouest-france.fr/sport/basket/etoile-angers-basket/basket-ball-nationale-1-leab-pour-la-passe-de-cinq-f506bc92-e770-11f1-b9ed-164c427aef07",
+   "https://aurore-vitre-basket.fr/matchs/apercu/6491/20261124-etoile-angers-basket-1"
+  ]
+ },
+ {
+  "eid": "sr:match:73263204",
+  "fx": "Valencia Basket v Panathinaikos BC",
+  "sport": "basketball",
+  "absences": "Valencia: Nate Reuvers OUT (foot, since R7), Jasiel Rivero OUT. Panathinaikos: Lefteris Mantzoukas OUT; Jerian Grant returned R13.",
+  "context": "EuroLeague Round 14. Valencia 9-1, 98.5/86.7 (5 home wins in home sample); Panathinaikos 6-4, 84.0/82.2.",
+  "news": "Valencia without two bigs (Reuvers, Rivero) v Panathinaikos with Grant back",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-9.5",
+    "desc": "Away (+9.5)",
+    "odds": 1.25,
+    "p": 0.7821,
+    "why": "PAO +9.5: elite receiver, Grant back, Valencia frontcourt thinned by Reuvers+Rivero absences; own p ~0.81"
+   },
+   {
+    "mid": "225",
+    "spec": "total=164.5",
+    "desc": "Over 164.5",
+    "odds": 1.28,
+    "p": 0.7554,
+    "why": "Valencia averaging 98.5 scored at high pace; combined average ~185 Valencia / ~166 PAO; own p ~0.78"
+   }
+  ],
+  "avoid": "Valencia -handicap",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-14-fantasy-sloukas/",
+   "https://www.eurohoops.net/en/euroleague/2039943/injury-report-round-14-sloukas-rivero-peters-out-bolmaro-martin-gtd/",
+   "https://basketballsphere.com/en/valencia-vs-panathinaikos-prediction-odds-euroleague-november-24-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:75689144",
+  "fx": "Basket Torino v Juvecaserta 2021",
+  "sport": "basketball",
+  "absences": "Juvecaserta: Alessandro Sperduto OUT. Torino: none reported.",
+  "context": "Serie A2 recupero of round 5, Tue 24.11 20:30 local (19:30 UTC) at PalaGianni Asti, Torino, live on RaiSport (LNP) - matches board. Caserta (coach Lardo) chasing first away win; one day of preparation after Cividale game.",
+  "news": "Caserta tired (game ~48h earlier) and without Sperduto; still winless away",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Torino ML p 0.71 < 0.75; Torino -6.5 not a protected instrument; no band total p>=0.74",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-di-torino-caserta-recupero-del-marted%C3%AC",
+   "https://www.pianetabasket.com/serie-a2/juvecaserta-a-torino-per-il-recupero-della-quinta-giornata-lardo-vogliamo-la-prima-vittoria-in-trasferta"
+  ]
+ },
+ {
+  "eid": "sr:match:73263206",
+  "fx": "ASVEL Lyon-Villeurbanne v Olimpia Milano",
+  "sport": "basketball",
+  "absences": "ASVEL: no R14 report filed; R12 had Bolomboy (fractured nose), Begarin, Pons OUT - status unconfirmed. Milano: Devin Booker OUT (thigh tendon).",
+  "context": "EuroLeague Round 14. ASVEL 3-7 L10 conceding 97.6 (lost 81-107, 81-115, 93-109 away); Milano 5-5, 82.4/80.2.",
+  "news": "ASVEL leaking points in a 3-7 run; Milano without Booker",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=162.5",
+    "desc": "Over 162.5",
+    "odds": 1.27,
+    "p": 0.7611,
+    "why": "ASVEL games average ~188 combined (97.6 allowed); Milano ~163; line below both; own p ~0.79"
+   }
+  ],
+  "avoid": "ASVEL catches (blown out repeatedly, injury report missing)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-14-fantasy-sloukas/",
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-12-fantasy-el2627/"
+  ]
+ },
+ {
+  "eid": "sr:match:73263208",
+  "fx": "FC Barcelona v Fenerbahce Istanbul",
+  "sport": "basketball",
+  "absences": "Barcelona: Josh Nebo OUT 3-4 months (knee, announced Nov 22), Kevin Punter OUT to end of December (ankle); Killian Hayes may debut. Fenerbahce: Nicolo Melli, Braxton Key, Onuralp Bitim OUT (club; may be outdated).",
+  "context": "EuroLeague Round 14 at Palau. Barcelona 7-3 L10 (92.2/89.1) but now short their starting centre and top scorer; Fenerbahce 5-5, 1 away win in away sample.",
+  "news": "Barcelona injury crisis (Nebo, Punter) explains home-dog price; Fenerbahce also missing three",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=11.5",
+    "desc": "Home (+11.5)",
+    "odds": 1.24,
+    "p": 0.7862,
+    "why": "Barca +11.5 at home: Fener only 1 away win in sample and also missing Melli/Key/Bitim; Palau receiver credible; own p ~0.82"
+   },
+   {
+    "mid": "225",
+    "spec": "total=159.5",
+    "desc": "Over 159.5",
+    "odds": 1.28,
+    "p": 0.7545,
+    "why": "Barca games ~181 combined avg, Fener ~168; own p ~0.78"
+   }
+  ],
+  "avoid": "Fenerbahce ML (away p 0.62 < 0.75)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.euroleaguebasketball.net/en/euroleague/news/injury-report-round-14-fantasy-sloukas/",
+   "https://sportando.basketball/en/euroleague-injury-report-november-17-2026-round-12-absences-and-game-time-calls/"
+  ]
+ }
+]
