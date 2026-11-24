@@ -1,0 +1,404 @@
+[
+ {
+  "eid": "sr:match:75916786",
+  "fx": "Millersville Marauders v Fairmont State Fighting Falcons",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; PSAC non-conference; Fairmont State ranked in D2 poll; Pucillo Gym, Millersville 5:00 PM ET (=22:00 UTC, matches board). Fairmont State's schedule labels it 'at Millersville' (consistent).",
+  "news": "Fairmont State (D2 ranked) at Millersville 5pm ET confirmed by both schools' schedules.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fairmont State ML p0.60 (away 1X2 needs p>=0.75); total 161.5 is a 50/50 placeholder line.",
+  "confidence": 0.15,
+  "sources": [
+   "https://millersvilleathletics.com/sports/mens-basketball/schedule",
+   "https://fightingfalcons.com/sports/mens-basketball/schedule/2026-27",
+   "https://www.versussportssimulator.com/CBB/D2/rankings"
+  ]
+ },
+ {
+  "eid": "sr:match:77142458",
+  "fx": "Providence Friars v Arizona Wildcats",
+  "sport": "basketball",
+  "absences": "Providence: Joseph Pinion and Derek Simpson unavailable (eligibility litigation); Ryan Mela played through a lower-leg/calf issue (23 pts last game). Arizona: RJ Godfrey ineligible (hearing early December); Ugnius Jarusevicius missed 2 games with a lingering injury.",
+  "context": "Maui Invitational SEMIFINAL at Lahaina Civic Center (neutral site; the board lists Providence as home). Tournament knockout game. #8 Arizona (5-1) beat Colorado State on Monday, with all five starters playing 29+ minutes (fatigue on a back-to-back). Tip 5 PM ET = 22:00 UTC matches the board; ESPN's page shows 10 PM (time-zone display issue).",
+  "news": "#8 Arizona v Providence, Maui semifinal on a back-to-back; Providence missing 2 guards on eligibility, Arizona missing Godfrey.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Arizona ML 1.27 p0.75 sits exactly on the threshold, but this is a big-club tournament knockout game on a back-to-back: no result-side. No total at p>=0.74 in range.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.covers.com/ncaab/providence-vs-arizona-prediction-picks-nov-24-2026",
+   "https://allsportstucson.com/2026/11/23/no-8-arizona-gets-past-pesky-colorado-state-at-maui-invitational-to-face-providence-in-semifinals/",
+   "https://247sports.com/college/arizona/article/arizona-wildcats-mens-basketball-maui-invitational-colorado-state-rams-takeaways-providence-friars-preview-2026-27-293242424/",
+   "https://www.kmjnow.com/2026/11/24/no-8-arizona-providence-strive-for-a-spot-in-maui-title-game/"
+  ]
+ },
+ {
+  "eid": "sr:match:76964172",
+  "fx": "Coker Cobras v Benedict Tigers",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; non-conference. H2H last 93-90. No current source found confirming date or venue.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coker ML p0.61 is below threshold; total is a 50/50 line.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75915580",
+  "fx": "Dominican (NY) Chargers v Chestnut Hill Griffins",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; CACC conference game at Dominican (Orangeburg, NY). Chestnut Hill's schedule lists an 8:00 PM ET tip (=01:00 UTC 11-25); the board has 23:00 UTC.",
+  "news": "Kick-off conflict: Chestnut Hill's official schedule says 8 PM ET, which is 2h after the board time.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between the board (23:00 UTC) and Chestnut Hill's official schedule (8 PM ET = 01:00 UTC).",
+  "picks": [],
+  "avoid": "Dominican ML p0.73 would fail the 0.75 gate anyway.",
+  "confidence": 0.1,
+  "sources": [
+   "https://griffinathletics.com/sports/mens-basketball/schedule/2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:75916788",
+  "fx": "Fayetteville State Broncos v South Carolina–Aiken Pacers",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; non-conference at Capel Arena, Fayetteville 6 PM ET (=23:00 UTC, matches board). FSU 2-3 (1-1 CIAA), USC Aiken 3-1; Aiken out-rebounds them 45.8 to 34.4. FSU won 84-80 at Aiken last season.",
+  "news": "FSU hosts USC Aiken 6pm ET; Aiken has the big rebounding edge.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip ML; 50/50 total line.",
+  "confidence": 0.15,
+  "sources": [
+   "https://fsubroncos.com/news/2026/11/24/mens-basketball-broncos-return-home-to-host-usc-aiken-in-midweek-nonconference-clash.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:75916792",
+  "fx": "Valdosta State Blazers v Georgia Bobcats",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; Gulf South. No current source found for this date.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Valdosta ML p0.64 is below threshold.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76123072",
+  "fx": "Augustana (SD) Vikings v Wayne State NE Wildcats",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; NSIC conference play opens this week; Augustana 0-2 per NSIC standings.",
+  "news": "no news found (Augustana 0-2 per NSIC standings)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Augustana ML p0.63 is below threshold.",
+  "confidence": 0.1,
+  "sources": [
+   "https://northernsun.org/standings.aspx?path=mbball"
+  ]
+ },
+ {
+  "eid": "sr:match:75916800",
+  "fx": "Bemidji State Beavers v Minnesota-Duluth Bulldogs",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; NSIC opener; defending NSIC champion UMD (2-2, just beat #19 Michigan Tech) at Bemidji State, 5:30 PM CT (=23:30 UTC, matches board).",
+  "news": "UMD opens its NSIC title defence at Bemidji, coming off a win over #19 Michigan Tech.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UMD away ML p0.64 (away needs p>=0.75).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.northernnewsnow.com/2026/11/24/umd-mens-basketball-begins-nsic-title-defense/"
+  ]
+ },
+ {
+  "eid": "sr:match:74298886",
+  "fx": "Furman Paladins v Elon Phoenix",
+  "sport": "basketball",
+  "absences": "no injury news found",
+  "context": "Furman (6-1) hosts Elon (3-3) at Timmons Arena, 6:30 PM ET (=23:30 UTC, matches board). Furman has won the last 4 meetings (97-88 at Elon last December). BetMGM: Furman -7.5, total 148.5; model 74.7% Furman.",
+  "news": "Furman 6-1, has won 4 straight v Elon; line -7.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Furman ML 1.28 p0.743 is just below the 0.75 gate; the -7.5 handicap is a coin flip; totals near 50/50.",
+  "confidence": 0.2,
+  "sources": [
+   "https://bvmsports.com/2026/11/23/furman-vs-elon-tipoff-time-preview-and-recent-results/",
+   "https://sports.betmgm.com/en/blog/ncaab/elon-furman-prediction-odds-picks-nov-24-college-basketball-jaa/",
+   "https://elonphoenix.com/sports/mens-basketball/opponent-history/furman-university/10"
+  ]
+ },
+ {
+  "eid": "sr:match:75916802",
+  "fx": "Jamestown Jimmies v Northern State Wolves",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; NSIC. No current source found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Near coin-flip ML.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75916804",
+  "fx": "Minnesota Crookston Golden Eagles v Minnesota State Moorhead Dragons",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; NSIC; Crookston 1-3, MSU Moorhead 0-2 per NSIC standings.",
+  "news": "Moorhead 0-2 start (NSIC standings); no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Moorhead away ML 1.28 p0.745, below 0.75, and Moorhead is 0-2: skip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://northernsun.org/standings.aspx?path=mbball"
+  ]
+ },
+ {
+  "eid": "sr:match:75916806",
+  "fx": "Minot State Beavers v Mary Marauders",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; NSIC in-state rivalry (Minot State v UMary). UMary 1-2 per NSIC standings. UMary won the Nov 2025 meeting 78-73 from 20 down. No current source confirms the Nov 24 2026 date.",
+  "news": "Rivalry game; date not confirmed by any current source.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Minot State ML 1.27 p0.751 is on the threshold, but it's a rivalry/derby (no result-side) and the date is unconfirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://msubeavers.com/news/2025/11/25/mens-basketball-yale-scores-20-points-in-minot-states-78-73-loss-to-mary.aspx",
+   "https://northernsun.org/standings.aspx?path=mbball"
+  ]
+ },
+ {
+  "eid": "sr:match:75000806",
+  "fx": "Robert Morris Colonials v Lamar Cardinals",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Venue conflict: the board lists Robert Morris as home; one source places it at Lamar (The Reef, Beaumont); a bracket site lists it in the Jacksonville Classic (neutral); an old RMU page lists Nov 22. BetMGM: Lamar -3.5, total 155.5.",
+  "news": "Sources disagree on venue (at Lamar vs Jacksonville Classic neutral vs board RMU home).",
+  "veto": true,
+  "veto_reason": "Venue conflict across sources (board RMU home vs at Lamar vs Jacksonville Classic neutral), plus a stale date listing (Nov 22).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.betmgm.com/en/blog/ncaab/robert-morris-lamar-prediction-odds-picks-nov-24-college-basketball-jaa/",
+   "https://www.bloggingthebracket.com/early-season-tournaments/10292/2026-27-mens-college-basketball-early-season-tournaments",
+   "https://rmucolonials.com/coverage"
+  ]
+ },
+ {
+  "eid": "sr:match:75916810",
+  "fx": "Southwest Minnesota State Mustangs v Sioux Falls Cougars",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; NSIC. No current source found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "SMSU ML p0.69 is below threshold.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75916812",
+  "fx": "St. Cloud State Huskies v Minnesota State Mankato Mavericks",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; NSIC; H2H last 87-82. No current source found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "St. Cloud ML p0.60.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75916808",
+  "fx": "Winona State Warriors v Concordia-St. Paul Golden Bears",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; NSIC opener for Winona State, at home 5:30 PM CT (=23:30 UTC, matches board); they face #19 Michigan Tech at a neutral site next.",
+  "news": "Winona hosts CSP in its NSIC opener; confirmed by the school.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip ML.",
+  "confidence": 0.1,
+  "sources": [
+   "https://winonastatewarriors.com/news/2026/11/23/mens-basketball-warriors-to-host-concordia-st-paul-then-face-no-19-michigan-tech-at-neutral-site.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:75916814",
+  "fx": "Barton Bulldogs v Francis Marion Patriots",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; Conference Carolinas; 7 PM ET at Wilson Gym (=00:00 UTC, matches board). Barton's homepage also shows a Nov 24 game v Emory & Henry at Mount Olive (likely a stale or other-sport item). Francis Marion went 7-22 last season.",
+  "news": "Barton v FMU 7pm confirmed by the regional calendar and Barton's schedule; a conflicting homepage item.",
+  "veto": true,
+  "veto_reason": "Conflicting listing on Barton's own site (Nov 24 v Emory & Henry at Mount Olive); conservative veto.",
+  "picks": [],
+  "avoid": "Barton ML p0.69 is below threshold anyway.",
+  "confidence": 0.1,
+  "sources": [
+   "https://wilsontimes.com/sports/area-calendar-nov-24-25-2026-930a8fe6",
+   "https://bartonbulldogs.com/sports/mens-basketball"
+  ]
+ },
+ {
+  "eid": "sr:match:73662134",
+  "fx": "Bellarmine Knights v Georgia Southern Eagles",
+  "sport": "basketball",
+  "absences": "no injury news found",
+  "context": "Neutral site at Truist Arena, Highland Heights KY (NKU's arena), 7 PM ET (=00:00 UTC, matches board); Bellarmine is the designated home team. Bellarmine 2-5 (Sam Donald career-high 24 v EKU); Georgia Southern 2-4 (Dallas Gardner 19.3 ppg). Georgia Southern -1.5/-2.5; AccuScore 61% GS.",
+  "news": "Neutral-site game at NKU; Georgia Southern a slight favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Georgia Southern ML p0.57; near-even lines.",
+  "confidence": 0.15,
+  "sources": [
+   "https://athletics.bellarmine.edu/news/2026/11/23/mens-basketball-mens-basketball-prepares-for-mid-week-contests-with-georgia-southern-and-nku.aspx",
+   "https://bvmsports.com/2026/11/23/bellarmine-basketball-faces-georgia-southern-northern-kentucky/",
+   "https://www.accuscore.com/game/cmwu3ebvkwofwuf013lt43qs6"
+  ]
+ },
+ {
+  "eid": "sr:match:75916816",
+  "fx": "Belmont Abbey Crusaders v Converse Valkyries",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; Conference Carolinas. No current source found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip ML.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75916818",
+  "fx": "Bluefield State Big Blues v Virginia-Wise Cavaliers",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; No current source found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UVA Wise away ML p0.60.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73691840",
+  "fx": "Bowling Green Falcons v Gardner-Webb Runnin´ Bulldogs",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Stroh Center 7 PM ET (=00:00 UTC, matches board). BGSU 3-2 on a 2-game losing streak (Tristan Beckford 16.0 ppg); Gardner-Webb 1-5 (lost 71-68 at VMI). ESPN: BGSU -12.5, 90.7% win probability. First meeting.",
+  "news": "BGSU -12.5 v 1-5 Gardner-Webb; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "BGSU ML 1.10 is below the 1.18 floor (no sub-1.15 padding); no handicap or total at p>=0.74 in the 1.18-2.2 range.",
+  "confidence": 0.2,
+  "sources": [
+   "https://gwusports.com/news/2026/11/23/mens-basketball-runnin-bulldogs-head-to-bowling-green-for-tuesday-night-matchup",
+   "https://www.espn.com/mens-college-basketball/game/_/gameId/401911027/gardner-webb-bowling-green",
+   "https://bgsufalcons.com/game-center/25243"
+  ]
+ },
+ {
+  "eid": "sr:match:75916844",
+  "fx": "Cameron Aggies v Southern Nazarene Crimson Storm",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; MIAA/GAC non-conference. No current source found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Southern Nazarene away ML p0.69.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74523024",
+  "fx": "Chattanooga Mocs v Delaware State Hornets",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "McKenzie Arena 7 PM ET (=00:00 UTC, matches board). Chattanooga 3-3 (lost 73-65 to Radford, shooting 6/33 from three). Delaware State 2-4, coming off a 103-101 2OT loss to Niagara on Nov 20. First meeting.",
+  "news": "Chattanooga 3-3 hosts Delaware State 2-4; DSU played a 2OT game 4 days earlier.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Chattanooga ML 1.04 is far below the floor; no handicap/total at p>=0.74 in range.",
+  "confidence": 0.2,
+  "sources": [
+   "https://gomocs.com/news/2026/11/23/mens-basketball-mens-basketball-welcomes-delaware-state-on-tuesday-night",
+   "https://www.docsports.com/free-picks/ncaa-college-basketball/2026/delaware-state-hornets-vs-chattanooga-mocs-prediction-11-24-2026-college-basketball-picks-best-bets-odds.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75916760",
+  "fx": "Chowan Hawks v Elizabeth City Vikings",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II men's game; Chowan v Elizabeth City State in Murfreesboro NC. Chowan and the CIAA list 7:00 PM ET (=00:00 UTC, matches board); ECSU's own schedule lists 6:00 PM.",
+  "news": "Tip-time conflict: ECSU schedule 6 PM v Chowan/CIAA 7 PM.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between the official schedules (ECSU 6 PM v Chowan 7 PM ET).",
+  "picks": [],
+  "avoid": "Chowan ML 1.28 p0.745 is below the gate anyway.",
+  "confidence": 0.1,
+  "sources": [
+   "https://gocuhawks.com/sports/mens-basketball/schedule/2026-2027",
+   "https://ecsuvikings.com/sports/mens-basketball/schedule",
+   "https://theciaa.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:73506006",
+  "fx": "Coastal Carolina Chanticleers v Campbell Fighting Camels",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "HTC Center, Conway 7 PM ET (=00:00 UTC, matches board). Coastal 2-4 (lost at Wisconsin and Tennessee; 10-2 in non-conference home games under Justin Gray). Campbell 2-4 but just beat Kansas State 80-70 (Inglemon 20.8 ppg, Waddles 19.5 ppg). Former Big South rivals.",
+  "news": "Campbell comes in off an upset of Kansas State; Coastal is strong at home in non-conference games.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Near coin-flip ML; totals near 50/50.",
+  "confidence": 0.15,
+  "sources": [
+   "https://goccusports.com/news/2026/11/23/mens-basketball-coastal-returns-home-to-face-campbell"
+  ]
+ }
+]
