@@ -1,0 +1,233 @@
+[
+ {
+  "eid": "sr:match:73326528",
+  "fx": "AL Fateh v AL Taawoun U21",
+  "sport": "football",
+  "absences": "not researched (youth)",
+  "context": "Saudi U21 Elite League; Al Fateh U21 3rd (20 pts/9), Taawoun U21 4th (18 pts/8) - close top-4 sides",
+  "news": "Youth fixture; date/time 24 Nov 14:30 UTC confirmed by Sofascore and Betmaster; no mismatch",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth side, no clear mismatch: no result or goals picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/al-taawoun-u21-u21-al-fateh-u21/gAhcsfgYi",
+   "https://www.365scores.com/en-us/football/league/elite-league-u21-8883/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72344002",
+  "fx": "FK Zenit Saint Petersburg v PFK Krylia Sovetov Samara",
+  "sport": "football",
+  "absences": "Krylia: Kostanza suspended (yellows); Kramaric, Saltykov doubtful; GK Pesyakov back. Zenit: Erokhin, Odoevsky doubtful; heavy rotation expected (Adamov, Volkov, Alip, Karavaev, Shilov, Kondakov...); Glushenkov, Luiz Henrique, Pedro likely bench",
+  "context": "Russian Cup RPL-path group C round 6 (group game, 90-min settlement; a draw goes to penalties for a bonus point). Zenit already won the group (14 pts) = dead rubber for them; Krylia (9 pts, 2nd) qualify for the QF with a draw",
+  "news": "Zenit have nothing to play for and will rotate; Krylia need only a draw in St Petersburg",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-2",
+    "desc": "Away (+2.0)",
+    "odds": 1.27,
+    "p": 0.753969,
+    "why": "Dead rubber for Zenit with a rotated XI v a Krylia side that must not lose; only a Zenit win by 3+ loses, by exactly 2 refunds. Own p(win) ~0.80, push ~0.11"
+   }
+  ],
+  "avoid": "Zenit 1X2/-1 (rotation, no motivation); Over 2.5 (Krylia will sit deep); +1.5 banned by rule (fav p 0.63)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.livesport.ru/tips/football/2026/11/24/zenit-krylya/",
+   "https://bel.football/tournaments/kubok-rossii/matches/zenit-krylya-sovetov-24862",
+   "https://vprognoze.ru/topforecast/8257056-zenit-krylya-sovetov-2026-11-24.html",
+   "https://futbolpressa.ru/news/zenit-krylia-sovetov-match-24-novembra"
+  ]
+ },
+ {
+  "eid": "sr:match:73258892",
+  "fx": "Orlando Pirates FC v Lamontville Golden Arrows",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Betway Premiership, Orlando Amstel Arena, 19:30 SAST (=17:30 UTC, matches board). Pirates unbeaten (8W1D, 21-2), 7-game winning streak, a win takes them top. Arrows have scored only 3 in 9 league games (fewest in league)",
+  "news": "Pirates in title-chasing form and can go top; Arrows the most toothless attack in the league; Pirates did an 8-1 aggregate double over Arrows last season",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.686508,
+    "why": "Pirates 8W1D, conceded 2 in 9; Arrows 3 goals in 9 so the draw route is limited; motivation to go top. Own p ~0.72"
+   }
+  ],
+  "avoid": "Arrows +2.5 (rule: fav p>=0.60); Unders (p<0.82); SA away side",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.orlandopiratesfc.com/news/betway-premiership-preview-lamontville-golden-arrows-6/",
+   "https://explain.co.za/2026/11/23/orlando-pirates-vs-golden-arrows-time-and-tv-channel/",
+   "https://dailysports.net/predictions/pirates-remain-unbeaten-orlando-pirates-vs-golden-arrows-prediction/"
+  ]
+ },
+ {
+  "eid": "sr:match:75974246",
+  "fx": "Harland And Wolff Welders v Linfield FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "BetMcLean (NI League) Cup round 2, knockout; Blanchflower Stadium 19:45 (fixture page confirms date/time). Linfield holders; Welders a Championship side (3W6L last 10). Cup winner gets a European play-off final spot",
+  "news": "Holders Linfield away at second-tier Welders; no team news published",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.4,
+    "p": 0.668838,
+    "why": "Mismatch: Linfield 2.4 GF/10, Welders concede 1.8; holders v second tier in a cup tie. Own p ~0.69 (cup rotation risk keeps it near house)"
+   }
+  ],
+  "avoid": "Linfield 1X2/-1.5 (knockout: result-side banned)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nifootballleague.com/betmclean-cup/2026-2027/fixtures/2026-11-24-hw-welders-v-linfield",
+   "https://www.nifootballleague.com/news/2026/october/betmclean-cup-round-2-draw"
+  ]
+ },
+ {
+  "eid": "sr:match:75974254",
+  "fx": "Warrenpoint Town FC v Cliftonville FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "BetMcLean Cup round 2, knockout; Warrenpoint knocked out Crusaders in R1 and got another home tie. Ties are spread over 24-25 Nov; no source confirms this tie is on the 24th or its venue/time",
+  "news": "Draw confirms the tie; date within the 24/25 Nov block not confirmed by any source",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Only 1X2 on board (away result-side in knockout banned); date not independently confirmed",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nifootballleague.com/news/2026/october/betmclean-cup-round-2-draw"
+  ]
+ },
+ {
+  "eid": "sr:match:74982104",
+  "fx": "Hibernian FC v Dundee FC",
+  "sport": "football",
+  "absences": "Hibs: Passlack doubt (Alex Williams option); Hanley, Bushiri, Megwa, Mayor, Nathan Lowe injured, none due back; Klidje/Callum Wright may start. Dundee: Simon Murray, Finlay Robertson, Jack Moorhouse out for season",
+  "context": "Scottish Premiership, Tuesday 19:45 at Easter Road. Hibs lost 4-0 at home to Dundee United; Dundee lost 8-0 at home to Hearts. Dundee 7th (17 pts/13), six points and four places above Hibs. Hibs won the first meeting 2-1",
+  "news": "Both defences shredded at the weekend; Hibs missing two first-choice centre-backs (Hanley, Bushiri)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.806832,
+    "why": "Hibs without CBs Hanley and Bushiri; Dundee just conceded 8 and concede 2.2/10. Own p ~0.82"
+   }
+  ],
+  "avoid": "Hibs 1X2 (3W in 10, injury crisis, beaten 4-0 at home); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/hibernian/preview/hibernian-vs-dundee-prediction-team-news-lineups_609710.html",
+   "https://www.hibsobserver.co.uk/news/26754527.hibs-injury-latest-team-news-ahead-dundee-clash/",
+   "https://dave.sport/news/felix-passlack-injury-news-hibernian-dundee/"
+  ]
+ },
+ {
+  "eid": "sr:match:76478062",
+  "fx": "Ross County FC v Stenhousemuir FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Scottish Challenge Cup round of 16, knockout (90-min settlement), Global Energy Stadium 19:45 GMT (club site). Ross County 9W1D0L at home in last 10 yet priced only 1.87 = market expects a weakened/rotated XI",
+  "news": "No team news; price far longer than form implies (likely rotation)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout result-side; DNB 1.42 tempting but the price/form gap is unexplained by news; goals markets thin",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Challenge_Cup",
+   "https://rosscountyfootballclub.co.uk/",
+   "https://scores24.live/en/soccer/m-24-11-2026-ross-county-f-c-stenhousemuir-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:76793576",
+  "fx": "Holywell Town v Pen-y-Bont FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Cymru Premier round 14, Bartons North Wales Stadium 19:45 Tue 24 Nov. Penybont top-3 (9W1L last 10, 3.1 GF), Holywell 16th (1W8L, 3.5 GA). One Flashscore page shows an older 23 Oct date for the pairing (likely a postponed/stale entry); current listings agree on 24 Nov",
+  "news": "Bottom v top-3 mismatch; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.28,
+    "p": 0.7551893104,
+    "why": "Holywell concede 3.5/game in last 10, Penybont score 3.1. Own p ~0.78"
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Away (-1.5)",
+    "odds": 1.45,
+    "p": 0.654142,
+    "why": "Penybont 9W in 10 v a side losing 8 of 10. Own p ~0.67"
+   }
+  ],
+  "avoid": "Away 1X2 1.16 (too short); Holywell +2.5/+3.5 catches (rout class)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.flashscore.com.ng/match/football/holywell-town-fc-0QWr1oIb/penybont-zym4viel/",
+   "https://www.livescore.mobi/football/wales/cymru-premier/holywell-town-vs-penybont/1813166/",
+   "https://www.sofascore.com/football/match/penybont-holywell-town/dyHsKdW"
+  ]
+ },
+ {
+  "eid": "sr:match:72201704",
+  "fx": "Rangers v Aberdeen",
+  "sport": "football",
+  "absences": "Aberdeen: CBs Tobers (knee), Knoester (thigh, 2 months), Mayo (fractured foot) out; Ronan out up to 3 weeks; Cadden doubtful (hamstring). Rangers: Chermiti (ACL), Shankland, Devlin out; Scotsman lists 9 out, 2 doubts",
+  "context": "Scottish Premiership, Ibrox 20:00 Tue. Rangers 13 unbeaten, 7 straight home wins (18-2); a win moves them within a point of Celtic. Aberdeen under new coach Mario Frick (won 4-2 at Kilmarnock), promising attacking \"heavy metal\" football at Ibrox",
+  "news": "Aberdeen without three centre-backs and with an attack-minded new coach; Rangers missing several attackers incl. Shankland/Chermiti",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.42,
+    "p": 0.680034,
+    "why": "Aberdeen missing 3 CBs (Tobers, Knoester, Mayo) and Frick says he will attack at Ibrox; his first win ended 4-2. Own p ~0.71"
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.27,
+    "p": 0.752492,
+    "why": "Rangers home team total v a makeshift Aberdeen back line; Rangers 7 home wins 18-2. Own p ~0.77 (Rangers attack depleted)"
+   }
+  ],
+  "avoid": "Rangers 1X2/-1.5 (big-club rivalry rule); Aberdeen +2.5 catch (fav p 0.78); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.skysports.com/football/news/13615718/rangers-vs-aberdeen-derek-mcinnes-ready-for-different-dons-challenge-under-mario-frick-live-on-sky",
+   "https://www.scotsman.com/sport/football/rangers/latest-rangers-news/rangers-v-aberdeen-injury-news-9-out-and-2-major-doubts-as-derek-mcinnes-bid-to-cut-gap-at-top-9367247",
+   "https://pressandjournal.co.uk/fp/sport/football/aberdeen-fc/7159364/aberdeen-fc-kristers-tobers-injury-mario-frick",
+   "https://www.pressandjournal.co.uk/fp/sport/football/aberdeen-fc/7159185/aberdeen-fc-mario-frick-rangers-ibrox-attack/",
+   "https://www.sportsmole.co.uk/football/rangers/preview/rangers-vs-aberdeen-prediction-team-news-lineups_609699.html"
+  ]
+ }
+]
