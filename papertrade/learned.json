@@ -1,94 +1,92 @@
 {
- "as_of": "2026-11-23 22:40 UTC",
- "outcomes": 4271645,
+ "as_of": "2026-11-24 05:42 UTC",
+ "outcomes": 4282223,
  "first": "2026-10-12",
- "last": "2026-11-23",
+ "last": "2026-11-24",
  "calibration": {
-  "football|25|Goal Range|other|1.60-2.19": 0.0188,
-  "football|25|Goal Range|other|2.20-3.99": -0.0127,
-  "football|29|GG/NG|No|2.20-3.99": 0.0186,
-  "football|37|1X2 & Over/Under 3.5|other|2.20-3.99": 0.0135,
+  "football|25|Goal Range|other|1.60-2.19": 0.0189,
+  "football|25|Goal Range|other|2.20-3.99": -0.0129,
+  "football|29|GG/NG|No|2.20-3.99": 0.0187,
+  "football|37|1X2 & Over/Under 3.5|other|2.20-3.99": 0.0133,
   "football|37|1X2 & Over/Under 3.5|other|4.00+": -0.0051,
-  "football|37|1X2 & Over/Under 4.5|other|4.00+": -0.0035,
-  "football|68|1st Half - Over/Under|Under|<1.30": 0.0127,
-  "football|900301|Away Team Total Corners|Over|1.30-1.59": -0.0187,
-  "football|900301|Away Team Total Corners|Under|2.20-3.99": 0.0201,
-  "football|15|Winning Margin|other|2.20-3.99": 0.017,
+  "football|68|1st Half - Over/Under|Under|<1.30": 0.0126,
+  "football|900301|Away Team Total Corners|Over|1.30-1.59": -0.0186,
+  "football|900301|Away Team Total Corners|Under|2.20-3.99": 0.0202,
+  "football|15|Winning Margin|other|2.20-3.99": 0.0166,
   "football|58|Both Halves Over 1.5|No|1.30-1.59": -0.018,
   "football|854|Home Team or Over 2.5|No|4.00+": -0.0162,
-  "football|97|2nd Half - Away Team Clean Sheet|Yes|1.60-2.19": 0.0177,
-  "football|14|Handicap 0:1|Draw level|2.20-3.99": 0.0195,
+  "football|14|Handicap 0:1|Draw level|2.20-3.99": 0.0191,
   "football|83|2nd Half - 1X2|Home|4.00+": -0.0133,
   "football|29|GG/NG|Yes|2.20-3.99": 0.0183,
-  "football|14|Handicap 1:0|Draw level|2.20-3.99": 0.0187
+  "football|14|Handicap 1:0|Draw level|2.20-3.99": 0.0185
  },
- "slices_tested": 1190,
+ "slices_tested": 1197,
  "form": {
   "football": {
-   "b": 0.0462,
+   "b": 0.054,
    "se": 0.0364,
-   "z": 1.27,
-   "n": 48066,
-   "fixtures": 1388,
+   "z": 1.48,
+   "n": 48712,
+   "fixtures": 1403,
    "use": 0.0
   },
   "american football": {
-   "b": 0.1016,
-   "se": 0.2939,
-   "z": 0.35,
-   "n": 1790,
-   "fixtures": 75,
+   "b": 0.1255,
+   "se": 0.2912,
+   "z": 0.43,
+   "n": 1816,
+   "fixtures": 76,
    "use": 0.0
   },
   "basketball": {
-   "b": 0.1556,
-   "se": 0.0796,
-   "z": 1.95,
-   "n": 34342,
-   "fixtures": 505,
+   "b": 0.1386,
+   "se": 0.0761,
+   "z": 1.82,
+   "n": 37051,
+   "fixtures": 540,
    "use": 0.0
   },
   "volleyball": {
-   "b": -0.2562,
-   "se": 0.2805,
-   "z": -0.91,
-   "n": 232,
-   "fixtures": 127,
+   "b": -0.2923,
+   "se": 0.2729,
+   "z": -1.07,
+   "n": 237,
+   "fixtures": 130,
    "use": 0.0
   },
   "ice hockey": {
-   "b": 0.2766,
-   "se": 0.1861,
-   "z": 1.49,
-   "n": 5523,
-   "fixtures": 240,
+   "b": 0.2476,
+   "se": 0.1822,
+   "z": 1.36,
+   "n": 5776,
+   "fixtures": 248,
    "use": 0.0
   }
  },
  "research": {
   "vetoed fixtures: short-priced main markets": {
-   "n": 4236,
-   "fx": 281,
-   "resid": 0.0010936087470963156,
-   "se": 0.0055316935509962485,
-   "z": 0.19769872228358684,
-   "roi": -0.068300283286119
+   "n": 4371,
+   "fx": 286,
+   "resid": 0.004590722853854952,
+   "se": 0.00589446351592675,
+   "z": 0.7788194534499856,
+   "roi": -0.06285060626858846
   },
   "researched, not vetoed: same markets": {
-   "n": 63627,
-   "fx": 3084,
-   "resid": -0.0014978858822103792,
-   "se": 0.0018722376656219544,
-   "z": -0.8000511418579883,
-   "roi": -0.06367296902258547
+   "n": 65012,
+   "fx": 3122,
+   "resid": -0.0014595138471097623,
+   "se": 0.0018650681991596342,
+   "z": -0.7825525349514794,
+   "roi": -0.06353042515228031
   },
   "research picks": {
-   "n": 1411,
-   "fx": 1122,
-   "resid": -0.006678232585613037,
-   "se": 0.012995302095122589,
-   "z": -0.5138959092085684,
-   "roi": -0.05314670446491845
+   "n": 1421,
+   "fx": 1132,
+   "resid": -0.007699569685925401,
+   "se": 0.012957628473455145,
+   "z": -0.5942113328606894,
+   "roi": -0.05416608022519347
   }
  }
 }

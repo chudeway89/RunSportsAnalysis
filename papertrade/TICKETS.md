@@ -1,14 +1,14 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-23 22:41 UTC. Totals: 17 won · 213 dead · 4 alive · 0 expired before settling · 97 never seen live.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-24 05:43 UTC. Totals: 17 won · 217 dead · 0 alive · 0 expired before settling · 97 never seen live.
 
 ## Return per 1-unit stake (all settled tickets, from papertrade/ticket_ledger.jsonl; odds as first seen; 7 early wins with unrecorded odds left out)
 
 | Ticket size | Tickets | Won | Staked | Returned | ROI |
 |---|---|---|---|---|---|
-| 1-7 legs | 37 | 7 | 37 | 14.5 | -61% |
-| 8-12 legs | 22 | 3 | 22 | 25.7 | +17% |
-| 13+ legs | 164 | 0 | 164 | 0.0 | -100% |
+| 1-7 legs | 38 | 7 | 38 | 14.5 | -62% |
+| 8-12 legs | 23 | 3 | 23 | 25.7 | +12% |
+| 13+ legs | 166 | 0 | 166 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -333,10 +333,10 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-23 | MNNT0Q | RLNZAW rm-15 TRIM (24 legs, 409x, 1 in 1,337) | 24 | 18W/4L/0V/2P | DEAD | Ludogorets v FC Dunav Ruse — Both Halves Under 1.5 No (1:0); Reading U21 v Exeter City Reserve — Over/Under Over 2.5 (1:0); Jong Ajax Amsterdam v Jong AZ Alkmaar — GG/NG Yes (3:0); Orgryte IS v Kalmar FF — Corners - Over/Under Over 8.5 (3:2) |
 | 2026-11-23 | SNCMU1 | Monday clean 18.5x (13 legs, 1 in 35) | 13 | 8W/3L/0V/2P | DEAD | Al Ain FC v Esteghlal FC Tehran — 1X2 Home (1:1); NK Slaven Belupo v NK Osijek — Over/Under Over 1.5 (1:0); Sgau-Saratov v Chekhovskie Medvedi — 1st Half - 1X2 Away (24:27) |
 | 2026-11-23 | VKWXY7 | Monday 50x (SNCMU1 + 5 RLNZAW-researched legs; 18 legs, 50.4x, 1 in 117) | 18 | 10W/5L/0V/3P | DEAD | Al Ain FC v Esteghlal FC Tehran — 1X2 Home (1:1); NK Slaven Belupo v NK Osijek — Over/Under Over 1.5 (1:0); Sgau-Saratov v Chekhovskie Medvedi — 1st Half - 1X2 Away (24:27); Brentford v Everton — Asian Handicap -1.5 Away (+1.5) (4:0); Ludogorets v FC Dunav Ruse — Ludogorets Over/Under Over 1.5 (1:0) |
-| 2026-11-23 | GJWRJU | Monday night basketball NBA 5.9x (6 legs, 1 in 7) | 6 | 0W/0L/0V/6P | ALIVE |  |
-| 2026-11-23 | ZZUCLJ | Monday night basketball max clean (9 legs, 10.8x, 1 in 14.4) | 9 | 0W/0L/0V/9P | ALIVE |  |
-| 2026-11-23 | RYAGDM | NCAA handicap 5000x LOTTERY (14 legs, 6,380x, 1 in 18,943) | 14 | 0W/0L/0V/14P | ALIVE |  |
-| 2026-11-23 | M7CUU0 | NCAA handicap 50000x LOTTERY (18 legs, 75,467x, 1 in 306,521) | 18 | 0W/0L/0V/18P | ALIVE |  |
+| 2026-11-23 | GJWRJU | Monday night basketball NBA 5.9x (6 legs, 1 in 7) | 6 | 4W/2L/0V/0P | DEAD | Chicago Bulls v Cleveland Cavaliers — Winner (incl. overtime) Away (122:108); Philadelphia 76ers v Portland Trail Blazers — Handicap (incl. overtime) 8.5 Home (+8.5) (111:128) |
+| 2026-11-23 | ZZUCLJ | Monday night basketball max clean (9 legs, 10.8x, 1 in 14.4) | 9 | 6W/3L/0V/0P | DEAD | Chicago Bulls v Cleveland Cavaliers — Winner (incl. overtime) Away (122:108); Philadelphia 76ers v Portland Trail Blazers — Handicap (incl. overtime) 8.5 Home (+8.5) (111:128); Iona Gaels v Fairleigh Dickinson Knights — Winner (incl. overtime) Home (46:49) |
+| 2026-11-23 | RYAGDM | NCAA handicap 5000x LOTTERY (14 legs, 6,380x, 1 in 18,943) | 14 | 5W/8L/0V/1P | DEAD | Santa Clara Broncos v Illinois State Redbirds — Handicap (incl. overtime) -2.5 Away (+2.5) (102:99); Providence Friars v VCU Rams — Handicap (incl. overtime) -1.5 Away (+1.5) (72:66); Pepperdine Waves v North Carolina Greensboro Spartans — Handicap (incl. overtime) -10.5 Away (+10.5) (89:62); UNLV Rebels v Eastern Washington Eagles — Handicap (incl. overtime) -8.5 Away (+8.5) (82:61); Wichita State Shockers v Texas A&M-Corpus Christi Islanders — Handicap (incl. overtime) -19.5 Home (-19.5) (91:73); North Florida Ospreys v Central Arkansas Bears — Handicap (incl. overtime) 8.5 Home (+8.5) (66:80); South Carolina State Bulldogs v North Carolina A&T Aggies — Handicap (incl. overtime) 1.5 Home (+1.5) (60:62); Loyola Chicago Ramblers v Seattle Redhawks — Handicap (incl. overtime) 1.5 Home (+1.5) (63:76) |
+| 2026-11-23 | M7CUU0 | NCAA handicap 50000x LOTTERY (18 legs, 75,467x, 1 in 306,521) | 18 | 7W/9L/0V/2P | DEAD | Santa Clara Broncos v Illinois State Redbirds — Handicap (incl. overtime) -2.5 Away (+2.5) (102:99); Providence Friars v VCU Rams — Handicap (incl. overtime) -1.5 Away (+1.5) (72:66); Pepperdine Waves v North Carolina Greensboro Spartans — Handicap (incl. overtime) -10.5 Away (+10.5) (89:62); UNLV Rebels v Eastern Washington Eagles — Handicap (incl. overtime) -8.5 Away (+8.5) (82:61); Wichita State Shockers v Texas A&M-Corpus Christi Islanders — Handicap (incl. overtime) -19.5 Home (-19.5) (91:73); North Florida Ospreys v Central Arkansas Bears — Handicap (incl. overtime) 8.5 Home (+8.5) (66:80); South Carolina State Bulldogs v North Carolina A&T Aggies — Handicap (incl. overtime) 1.5 Home (+1.5) (60:62); Loyola Chicago Ramblers v Seattle Redhawks — Handicap (incl. overtime) 1.5 Home (+1.5) (63:76); Kansas Jayhawks v Denver Pioneers — Handicap (incl. overtime) -31.5 Home (-31.5) (84:67) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
