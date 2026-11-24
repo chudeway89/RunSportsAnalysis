@@ -98,6 +98,7 @@ def main():
     ap.add_argument('--extend',action='store_true',help='each later target = the previous ticket plus new fixtures (fixture on <=2 slips)')
     ap.add_argument('--min-conf',type=float,default=0.2,help='skip research entries rated below this confidence (statistics-only fill)')
     ap.add_argument('--date',default=dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%d')); ap.add_argument('--label',default='ticket')
+    ap.add_argument('--ctry-cap',type=int,default=None,help='override the per-country leg cap (e.g. a one-country NCAA/NBA night)')
     ap.add_argument('--min-p',type=float,default=0.0,help='skip legs whose house probability is below this (tight tickets)')
     ap.add_argument('--lead-min',type=float,default=45); ap.add_argument('--drift',type=float,default=0.06)
     a=ap.parse_args()
@@ -164,7 +165,7 @@ def main():
             used|={l['eid'] for l in X}; prev=prev+X; tickets.append((t,list(prev)))
     else:
         for t in tg:
-            T=build(cands,t,used,4 if not a.sport else 6,sport_cap=cap); used|={l['eid'] for l in T}; tickets.append((t,T))
+            T=build(cands,t,used,a.ctry_cap or (4 if not a.sport else 6),sport_cap=cap); used|={l['eid'] for l in T}; tickets.append((t,T))
     out=[]
     for t,T in tickets:
         if not T: print(f'\ntarget {t:g}x: no legs available'); continue
