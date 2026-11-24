@@ -160,7 +160,7 @@ def main():
         prev=[]
         for i,t in enumerate(tg):
             base=math.prod(l['odds'] for l in prev) if prev else 1.0
-            X=build(cands,t/base,used,4+2*i if not a.sport else 6,sport_cap=cap,max_unders=0 if i else 1)
+            X=build(cands,t/base,used,4 if not a.sport else 99,sport_cap=cap,max_unders=1,base=prev)
             used|={l['eid'] for l in X}; prev=prev+X; tickets.append((t,list(prev)))
     else:
         for t in tg:
