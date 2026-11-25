@@ -1,0 +1,40 @@
+[
+ {
+  "eid": "sr:match:76705576",
+  "fx": "CD Longuera Toscal v Cef Puertos de Las Palmas",
+  "sport": "football",
+  "absences": "no news found (U19 youth side)",
+  "context": "Spain Division de Honor Juvenil Grupo 6 (Canarias), round 9. Longuera Toscal around 14th; Las Palmas U19 beat them 7-0 on Nov 22. Puertos around 11th. Youth fixture.",
+  "news": "Kick-off conflict: Sofascore says 17:00 UTC, Xscores says 19:00 (time zone unclear). Youth competition.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (17:00 UTC v 19:00); youth U19 fixture, excluded class, and no clear goals mismatch (data shows 0-7 and 3-3 type volatility).",
+  "picks": [],
+  "avoid": "All markets: youth fixture, kick-off conflict. The board's Over 2.5 at p 0.67 would only be a goals pick, and this is not a clear mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/cef-puertos-de-las-palmas-u19-longuera-toscal-u19/qNtcsbBYc",
+   "https://www.xscores.com/soccer/match/spain/cd-longuera-toscal-vs-cef-puertos-de-las-palmas-u19/2026-2027/3024470",
+   "https://eldeportivo.es/resultados/division-honor-juvenil-grupo-6/"
+  ]
+ },
+ {
+  "eid": "sr:match:77108966",
+  "fx": "Deportivo Tachira v Carabobo FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Copa Venezuela 2026 semifinal, single match at Pueblo Nuevo (San Cristobal), knockout (penalties if level; markets settle on 90 min). The same two clubs meet in the Liga FUTVE Clausura final on Nov 29 at the same venue, which makes heavy rotation likely. Copa rules (art. 30) require young players on the pitch. Tachira went through only because Academia Puerto Cabello was disqualified for an ineligible line-up, after Tachira had lost on penalties. Both teams were unbeaten leaders in the league quadrangular.",
+  "news": "Cup semifinal 4 days before both sides meet in the league final: rotation and youth-quota line-ups expected; kick-off listed as 'night, to be confirmed'.",
+  "veto": true,
+  "veto_reason": "Knockout with rotation risk (league final v the same opponent 4 days later, cup youth-player quota); kick-off not confirmed by sources (board says 22:30 UTC); the Venezuelan context is low-scoring and thin for Over 1.5.",
+  "picks": [],
+  "avoid": "Result-sides (knockout). Over 1.5 p 0.70 (thin league, cagey semi with rotated XIs; my p is ~0.68). Under 3.5 p 0.77 is below the 0.82 gate. Away team-to-score.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/es/news/copa-venezuela-2026-cruces-final-duelo/",
+   "https://www.365scores.com/es/news/copa-venezuela-por-que-tachira-si-perdio/",
+   "https://www.lavinotinto.com/deportivo-tachira-clasifico-a-semifinales-de-la-copa-venezuela",
+   "https://elperiodiquito.com/deportes/125865/carabobo-y-tachira-llegan-invictos-a-par-de-finales/",
+   "https://lanacionweb.com/deportes/tachira-por-la-clasificacion-a-la-final-de-la-copa-venezuela/"
+  ]
+ }
+]
