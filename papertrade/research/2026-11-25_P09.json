@@ -1,0 +1,504 @@
+[
+ {
+  "eid": "sr:match:72909616",
+  "fx": "Buffalo Sabres v New York Rangers",
+  "sport": "ice hockey",
+  "absences": "NYR: Igor Shesterkin out for season (Korpisalo starts), Veleno, Smits, Dorofeyev, Bjorkstrand, Sykora out. BUF: Grzelcyk, Danforth IR; Helenius status conflicting; Luukkonen projected.",
+  "context": "BUF 10-10-4 coming off 6-2 win over TB; NYR 13-9-1. Regular season, 7pm ET (00:00 UTC) KeyBank Center.",
+  "news": "Shesterkin out for season; Korpisalo in net for NYR; Buffalo -137 favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.53,
+    "p": 0.6269410093,
+    "why": "Sabres 3+ goals: Shesterkin (season-ending) replaced by Korpisalo, Thompson 17 goals, BUF scored 6 v TB; own p ~0.66 v house 0.63."
+   }
+  ],
+  "avoid": "ML both ways (coin-flip); integer total lines.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nhl.com/news/new-york-rangers-buffalo-sabres-game-preview-november-25-2026",
+   "https://www.cbssports.com/nhl/gametracker/expert-picks/NHL_20261125_NYR@BUF/",
+   "https://sports.yahoo.com/nhl/articles/rangers-lines-notes-watch-thanksgiving-154007230.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72909628",
+  "fx": "Columbus Blue Jackets v New Jersey Devils",
+  "sport": "ice hockey",
+  "absences": "CBJ: Garland out, Olivier IR (Nov 24), Monahan day-to-day (may return). NJD: Mantha, Kovacevic, Casey IR.",
+  "context": "Back-to-back rematch (NJ beat CBJ Nov 23). CBJ last in NHL at 2.32 goals/game; NJ 32 pts v CBJ 18 pts. Jack Hughes 30 pts.",
+  "news": "Columbus missing Garland/Olivier, worst offence in league; Talbot projected in goal.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.53,
+    "p": 0.629979,
+    "why": "Devils 3+ goals: NJ scoring 4.3/g last 10 (4.8 away), CBJ depleted forward group; own p ~0.66 v 0.63."
+   }
+  ],
+  "avoid": "Devils ML away (p 0.58 < 0.75 away rule); CBJ team overs (league-worst attack).",
+  "confidence": 0.3,
+  "sources": [
+   "https://insidetherink.com/nhl-game-preview-new-jersey-devils-at-columbus-blue-jackets-with-line-combinations-11-25-2026/",
+   "https://newjerseyhockeynow.com/devils-game-25-projected-lines-how-to-watch-vs-blue-jackets-11-25-26/",
+   "https://thehockeynews.com/nhl/columbus-blue-jackets/latest-news/columbus-blue-jackets-18-pts-vs-new-jersey-devils-32-pts-game-preview"
+  ]
+ },
+ {
+  "eid": "sr:match:72909620",
+  "fx": "Florida Panthers v Ottawa Senators",
+  "sport": "ice hockey",
+  "absences": "FLA: Barkov and Marchand injured, Barkov possible return unconfirmed. OTT: none notable.",
+  "context": "OTT 16-6-3 v FLA 13-8-3. Ullmark .941 v Markstrom .894. OTT PP 32nd. Total 5.5-6.5 across books.",
+  "news": "Barkov status unconfirmed; Ottawa in better form; goaltending edge Ottawa.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: house near coin-flip, Barkov uncertainty is a data conflict on the favourite's strength.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.covers.com/nhl/senators-vs-panthers-prediction-picks-nov-25-2026",
+   "https://www.squawka.com/ca/news/nhl/panthers-vs-senators-prediction-team-news/",
+   "https://dimers.com/nhl/news/ottawa-senators-vs-florida-panthers-prediction-11-25-2026-ac"
+  ]
+ },
+ {
+  "eid": "sr:match:72909622",
+  "fx": "New York Islanders v St. Louis Blues",
+  "sport": "ice hockey",
+  "absences": "NYI: Pulock out 1-2 weeks, Palmieri IR, Romanov listed out. STL: McMichael, Carlo IR; Buchnevich and Snuggerud day-to-day (Buchnevich expected back).",
+  "context": "Blues on 4-game win streak with high scores (8-6, 9-6, 5-4). NYI 1-4 at home last 5.",
+  "news": "Islanders defence short Pulock and Romanov; Blues scoring heavily.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.27,
+    "p": 0.7663104533,
+    "why": "Blues 2+ goals: STL scored 5,9,5,8 in last 4; NYI missing two top-4 D (Pulock, Romanov); own p ~0.81 v 0.77."
+   }
+  ],
+  "avoid": "Result sides (NYI favoured on house but 1-4 at home).",
+  "confidence": 0.3,
+  "sources": [
+   "https://insidetherink.com/nhl-game-preview-st-louis-blues-at-new-york-islanders-with-line-combinations-11-25-2026/",
+   "https://sportsnewsreport.com/stories/islanders-host-blues-on-thanksgiving-eve-as-injuries-impact-lineup-mww73zrz-s3qp"
+  ]
+ },
+ {
+  "eid": "sr:match:72909624",
+  "fx": "Pittsburgh Penguins v Calgary Flames",
+  "sport": "ice hockey",
+  "absences": "PIT: Rust, Graves, Robertson, Soderblom, Chinakhov out; Malkin day-to-day. CGY: Bahl out for season, Pospisil out; Morgan Frost status conflicting (NHL.com out v ITR day-to-day).",
+  "context": "PIT 7-14-2, 0-4 at home last 4; CGY 10-13-2. Silovs v Wolf.",
+  "news": "Penguins badly depleted yet house favourite (p 0.61); Frost status conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Penguins ML/handicap (injury-hit, 0-4 home form contradicts price); totals no edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nhl.com/news/calgary-flames-pittsburgh-penguins-game-preview-november-25-2026",
+   "https://insidetherink.com/nhl-game-preview-calgary-flames-at-pittsburgh-penguins-with-line-combinations-11-25-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909618",
+  "fx": "Tampa Bay Lightning v Carolina Hurricanes",
+  "sport": "ice hockey",
+  "absences": "TB: Hagel IR (lower body, missed 3), Geekie out (shoulder surgery), Girgensons day-to-day. CAR: Ehlers out/day-to-day (lower body).",
+  "context": "CAR 18-3-3 league-best; TB lost 6-2 to BUF Sunday. Starters unconfirmed (Kochetkov 13-1-1 / Vasilevskiy). One source lists 4pm start v most 7pm ET.",
+  "news": "Carolina top of NHL; Hagel out for Tampa; start time discrepancy in one listing (TNT 4pm) v 7pm ET elsewhere.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8069472693,
+    "why": "Carolina 2+ goals: CAR 4.7 goals/g last 10, TB without Hagel conceded 6 last game; own p ~0.83 v 0.81."
+   }
+  ],
+  "avoid": "Result sides (big-club clash, coin-flip ML). Minor kick-off-time discrepancy noted; board 00:00 UTC matches majority 7pm ET.",
+  "confidence": 0.25,
+  "sources": [
+   "https://insidetherink.com/nhl-game-preview-carolina-hurricanes-at-tampa-bay-lightning-with-line-combinations-11-25-2026/",
+   "https://www.beatlinesports.com/2026/11/23/beatline-nhl-car-at-tb-2026-11-26/",
+   "https://bleacherreport.com/game/carolina-hurricanes-vs-tampa-bay-lightning-2026-11-25-18-00"
+  ]
+ },
+ {
+  "eid": "sr:match:72909626",
+  "fx": "Washington Capitals v Philadelphia Flyers",
+  "sport": "ice hockey",
+  "absences": "WSH: Kyrou (upper body, ~1 week), Sandin, Desharnais (appendectomy) out; Logan Thompson activated from IR, expected to start. PHI: Grebenkin out, Hagens among 6 on IR; Woll expected in goal.",
+  "context": "WSH on 5-game losing streak, allowing 5+ in each loss (4.9 GA/g last 10, 5.4 at home). PHI 3-game win streak.",
+  "news": "Capitals defensive slide; Thompson returns from IR; Flyers hot.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.26,
+    "p": 0.7675865719,
+    "why": "Flyers 2+ goals: WSH conceded 5+ in each of 5 straight losses, Sandin/Desharnais out on D; Flyers 2+ in 10/10 trend; own p ~0.84 v 0.77."
+   },
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.31,
+    "p": 0.7367853335,
+    "why": "5+ regulation goals: WSH games last 10 avg 8.2 goals, trend 0.95; Thompson returning off injury; own p ~0.78 v 0.74."
+   }
+  ],
+  "avoid": "Capitals ML (5-game skid); Unders.",
+  "confidence": 0.35,
+  "sources": [
+   "https://particle.news/story/capitals-face-flyers-as-defensive-slide-reaches-five-games",
+   "https://sportsnewsreport.com/stories/flyers-prepare-to-face-capitals-in-road-matchup-tonight-mww26pqv-5iyu",
+   "https://www.beatlinesports.com/2026/11/22/beatline-nhl-phi-at-wsh-2026-11-26/"
+  ]
+ },
+ {
+  "eid": "sr:match:72734800",
+  "fx": "Hershey Bears v Wilkes-Barre/Scranton Penguins",
+  "sport": "ice hockey",
+  "absences": "No named absences found. WBS lost 8-1 to Rochester Saturday.",
+  "context": "WBS 9-7-3-0, HER 11-7-0-0, Hershey won 3 of last 4 (3-1 over Lehigh). Jonny Brodzinski leads HER with 19 pts. AHL minor-pro league: NHL call-up/assignment volatility, thin news coverage; no picks without lineup confirmation.",
+  "news": "Hershey in form; WBS coming off 8-1 defeat.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (no mechanism beyond form).",
+  "confidence": 0.15,
+  "sources": [
+   "https://insidetherink.com/ahl-game-preview-wilkes-barre-scranton-at-hershey-bears-with-projected-lines-11-25-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72734802",
+  "fx": "Utica Comets v Hartford Wolf Pack",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "AHL. UTI 5-1 at home last 6, HFD 7-3 last 10. AHL minor-pro league: NHL call-up/assignment volatility, thin news coverage; no picks without lineup confirmation.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:111111114717631",
+  "fx": "Cangallo Voley v Club Italiano",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Metrovoley lists Cangallo v Club Italiano as a men's Primera play-off quarter-final, Wed 25 Nov 21:00 (one listing 21:30) local = 00:00/00:30 UTC; board 00:00 UTC consistent. Knockout. Argentina Metropolitana Superiores: amateur regional club volleyball; checked date/venue only, no picks.",
+  "news": "Play-off QF confirmed for Wed 25 Nov night at Escuela Cangallo; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (amateur, knockout, no data).",
+  "confidence": 0.1,
+  "sources": [
+   "https://metrovoley.com.ar/",
+   "https://metrovoley.com.ar/clubs/574",
+   "https://metrovoley.com.ar/clubs/425"
+  ]
+ },
+ {
+  "eid": "sr:match:72734804",
+  "fx": "Lehigh Valley Phantoms v Providence Bruins",
+  "sport": "ice hockey",
+  "absences": "No named absences found.",
+  "context": "PRO 11-8-0-0, five straight wins (4-1 v Milwaukee Sunday). LV 6-11-1-0, four straight losses averaging 1.5 goals in the skid. AHL minor-pro league: NHL call-up/assignment volatility, thin news coverage; no picks without lineup confirmation.",
+  "news": "Providence on 5-game win streak; Phantoms scoring 1.5/g during 4-game skid.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Providence ML (away p 0.60 < 0.75); Phantoms team Unders (house p 0.54-0.74 < 0.82 rule). Providence team O2.5 considered (own p ~0.64) but no lineup confirmation in AHL.",
+  "confidence": 0.15,
+  "sources": [
+   "https://insidetherink.com/ahl-game-preview-providence-bruins-at-lehigh-valley-phantoms-with-projected-lines-11-25-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909630",
+  "fx": "Detroit Red Wings v Vancouver Canucks",
+  "sport": "ice hockey",
+  "absences": "VAN: Demko out (hip, ~1 month), Gallagher and Brisebois IR, Elias Pettersson day-to-day/out (upper body, conflicting). DET: Montembeault IR, Wallinder day-to-day, Edvinsson unavailable (contract dispute); Kirby Dach debut after trade from MTL.",
+  "context": "VAN 6-19-1, league-worst, conceding 4.2/g last 10. DET 2-8 last 10, 0-4 at home.",
+  "news": "Canucks without Demko and likely Pettersson; Detroit also slumping with goalie and D absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.39,
+    "p": 0.69253,
+    "why": "Red Wings 3+ goals: Vancouver without Demko (backup in net), 4.2 GA/g last 10, worst team in NHL; own p ~0.72 v 0.69."
+   }
+  ],
+  "avoid": "Detroit ML/-1.5 (DET 0-4 home, own goalie out).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nhl.com/news/vancouver-canucks-detroit-red-wings-game-preview-november-25-2026",
+   "https://detroithockeynow.com/red-wings-nhl-preview-vancouver-canucks-tonight-little-caesars-arena/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114717632",
+  "fx": "Atletico Defensores de Moreno v Gimnasia y Esgrima de Ituzaingó",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Argentina Metropolitana Superiores, 00:30 UTC (21:30 local Wed 25 Nov). Argentina Metropolitana Superiores: amateur regional club volleyball; checked date/venue only, no picks.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://metrovoley.com.ar/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114707218",
+  "fx": "Ferro Carril Oeste B v Unión Vecinal General Belgrano",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Argentina Metropolitana Superiores, 00:30 UTC (21:30 local Wed 25 Nov). Argentina Metropolitana Superiores: amateur regional club volleyball; checked date/venue only, no picks.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://metrovoley.com.ar/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114707219",
+  "fx": "GEVP Voley v Universitario de La Plata",
+  "sport": "volleyball",
+  "absences": "No news found.",
+  "context": "Argentina Metropolitana Superiores, 00:30 UTC (21:30 local Wed 25 Nov). Argentina Metropolitana Superiores: amateur regional club volleyball; checked date/venue only, no picks.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://metrovoley.com.ar/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909632",
+  "fx": "Dallas Stars v Nashville Predators",
+  "sport": "ice hockey",
+  "absences": "NSH: Juuse Saros expected to start; William Trudeau out (upper body, to at least Nov 30). DAL: no injury news found.",
+  "context": "Second of four meetings; NSH won the last one 2-1. Both 8-2 last 10.",
+  "news": "Saros starts for Nashville; little Dallas news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (balanced, no mechanism).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cbssports.com/nhl/teams/NSH/nashville-predators/injuries/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909634",
+  "fx": "Minnesota Wild v Utah Mammoth",
+  "sport": "ice hockey",
+  "absences": "MIN: Quinn Hughes and Olli Maatta out (upper body); Wallstedt starts. UTA: John Marino, Nick Schmaltz, Nate Schmidt, Maveric Lamoureux out.",
+  "context": "MIN on franchise-record 15-game point streak (12-0-3), 4.3 goals/g last 10. UTA lost 6 straight (Nov 5-16) then won two (v COL, ANA); 1-4 away last 5.",
+  "news": "Wild on record point streak but without Hughes; Utah missing three regular defencemen and Schmaltz.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.53,
+    "p": 0.629508,
+    "why": "Wild 3+ goals: MIN 4.3 GF/g last 10, Utah without D Marino, Schmidt, Lamoureux, UTA 4.0 GA/g away; own p ~0.67 v 0.63."
+   }
+  ],
+  "avoid": "Wild ML (house 0.57, Hughes out); away Utah sides.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nhl.com/wild/news/game-preview-wild-vs-mammoth-112526",
+   "https://hockeyupdates.substack.com/p/november-25-2026-hockey-updates"
+  ]
+ },
+ {
+  "eid": "sr:match:72734352",
+  "fx": "Manitoba Moose v Grand Rapids Griffins",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "GR 9-1 last 10; MB 4-1 at home last 5. Flashscore lists game 25.11. AHL minor-pro league: NHL call-up/assignment volatility, thin news coverage; no picks without lineup confirmation.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/hockey/usa/ahl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72734354",
+  "fx": "Rockford Icehogs v Milwaukee Admirals",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "AHL Central rivalry, both 4-6 last 10. AHL minor-pro league: NHL call-up/assignment volatility, thin news coverage; no picks without lineup confirmation.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72734356",
+  "fx": "Texas Stars v Tucson Roadrunners",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "Flashscore shows the game under 26.11 (European time); board 01:00 UTC Nov 26 = 7pm CT Nov 25, consistent, not a conflict. TUC 8-2 last 10. AHL minor-pro league: NHL call-up/assignment volatility, thin news coverage; no picks without lineup confirmation.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/hockey/usa/ahl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909636",
+  "fx": "Colorado Avalanche v Montreal Canadiens",
+  "sport": "ice hockey",
+  "absences": "COL: Nathan MacKinnon out long-term (lower body), Manson out past holidays, L'Heureux IR, Brindley concussion; Cale Makar returns after 3 games. MTL: 7 on IR incl. Matheson, Demidov, Anderson, Kreider, Gustafsson, Dvorak, Pickford; Jacob Fowler starts.",
+  "context": "MTL 14-7 v COL 13-7; both heavily injured. 9:30pm ET (02:30 UTC).",
+  "news": "MacKinnon out long-term; Makar back; Montreal missing seven to IR.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (offsetting injuries, house coin-flip).",
+  "confidence": 0.2,
+  "sources": [
+   "https://sports.yahoo.com/nhl/articles/avalanche-game-24-vs-montreal-190321794.html",
+   "https://www.tsn.ca/nhl/article/ice-chips-maple-leafs-recall-g-akhtyamov-from-ahl/",
+   "https://insidetherink.com/nhl-game-preview-montreal-canadiens-at-colorado-avalanche-with-line-combinations-11-25-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72909640",
+  "fx": "Seattle Kraken v Chicago Blackhawks",
+  "sport": "ice hockey",
+  "absences": "CHI: Connor Bedard IR (shoulder surgery), Bowen Byram IR, Wyatt Kaiser suspended, Frondell day-to-day. SEA: McCann, O'Brien, Douglas IR. Goalies Grubauer v Knight.",
+  "context": "CHI conceding 4.3/g last 10 (4.8 away); 9:40pm ET.",
+  "news": "Chicago without Bedard, Byram and suspended Kaiser.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.49,
+    "p": 0.645154,
+    "why": "Kraken 3+ goals: Chicago missing D Byram and Kaiser (suspension), 4.8 GA/g away last 5; own p ~0.68 v 0.65."
+   }
+  ],
+  "avoid": "Chicago team overs (Bedard out).",
+  "confidence": 0.25,
+  "sources": [
+   "https://chicagohockeynow.com/blackhawks-vs-kraken-glendening-debut-preview-lineups-how-to-watch-game-25/",
+   "https://www.bleachernation.com/blackhawks/2026/11/25/blackhawks-at-kraken-lineups-broadcast-info-game-thread-7/",
+   "https://insidetherink.com/nhl-game-preview-chicago-blackhawks-at-seattle-kraken-with-line-combinations-11-25-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909638",
+  "fx": "Anaheim Ducks v San Jose Sharks",
+  "sport": "ice hockey",
+  "absences": "SJ: Jacob Trouba (lower body), Kiefer Sherwood IR, Chernyshov, Musty out. ANA: Poehling, Sennecke, Greer IR; Leo Carlsson day-to-day (conflicting); Brossoit expected in goal.",
+  "context": "California derby. ANA lost 4 straight (all road); ANA 3.8 GA/g, SJ 4.0 GA/g last 10. 10pm ET.",
+  "news": "Both blue lines depleted; Carlsson status conflicting.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.25,
+    "p": 0.774931,
+    "why": "5+ regulation goals: both concede ~4/g last 10, trend 0.95, Trouba out for SJ, Brossoit (backup) in ANA net; own p ~0.80 v 0.77."
+   }
+  ],
+  "avoid": "Result sides (derby).",
+  "confidence": 0.3,
+  "sources": [
+   "https://insidetherink.com/nhl-game-preview-san-jose-sharks-at-anaheim-ducks-with-line-combinations-11-25-2026/",
+   "https://lastwordonsports.com/hockey/2026/11/25/nhl-predictions-sjs-ana/"
+  ]
+ },
+ {
+  "eid": "sr:match:72733794",
+  "fx": "Henderson Silver Knights v Abbotsford Canucks",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "HSK 5-1 at home last 6 (GA 1.5); ABB 1-3 away. AHL minor-pro league: NHL call-up/assignment volatility, thin news coverage; no picks without lineup confirmation.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (Abbotsford Unders below 0.82).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72733792",
+  "fx": "San Jose Barracuda v Coachella Valley Firebirds",
+  "sport": "ice hockey",
+  "absences": "No news found.",
+  "context": "CV 7-3 last 10; SJ Barracuda 2.3 GF/g. AHL minor-pro league: NHL call-up/assignment volatility, thin news coverage; no picks without lineup confirmation.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": []
+ }
+]
