@@ -1,52 +1,52 @@
 {
- "started": "2026-11-24 21:02",
+ "started": "2026-11-25 04:34",
  "steps": {
-  "grade": {
+  "daily": {
    "ok": true,
    "rc": 0,
-   "seconds": 405.8,
+   "seconds": 602.4,
    "error": ""
   },
   "tape_harvest": {
    "ok": true,
    "rc": 0,
-   "seconds": 37.6,
+   "seconds": 35.8,
    "error": ""
   },
   "form_research": {
    "ok": true,
    "rc": 0,
-   "seconds": 43.4,
+   "seconds": 13.4,
    "error": ""
   },
   "tape_grade": {
    "ok": true,
    "rc": 0,
-   "seconds": 111.1,
+   "seconds": 76.6,
    "error": ""
   },
   "tape_report": {
    "ok": true,
    "rc": 0,
-   "seconds": 61.1,
+   "seconds": 31.1,
    "error": ""
   },
   "learn": {
    "ok": true,
    "rc": 0,
-   "seconds": 40.0,
+   "seconds": 21.5,
    "error": ""
   },
   "settle_tickets": {
    "ok": true,
    "rc": 0,
-   "seconds": 19.2,
+   "seconds": 25.0,
    "error": ""
   },
   "journal": {
    "ok": true,
    "rc": 0,
-   "seconds": 1.5,
+   "seconds": 1.0,
    "error": ""
   }
  }

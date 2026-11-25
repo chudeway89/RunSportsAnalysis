@@ -1,92 +1,93 @@
 {
- "as_of": "2026-11-24 21:14 UTC",
- "outcomes": 4316769,
+ "as_of": "2026-11-25 04:47 UTC",
+ "outcomes": 4354192,
  "first": "2026-10-12",
- "last": "2026-11-24",
+ "last": "2026-11-25",
  "calibration": {
-  "football|25|Goal Range|other|1.60-2.19": 0.0182,
-  "football|25|Goal Range|other|2.20-3.99": -0.0123,
-  "football|29|GG/NG|No|2.20-3.99": 0.0183,
-  "football|37|1X2 & Over/Under 3.5|other|2.20-3.99": 0.0134,
-  "football|37|1X2 & Over/Under 3.5|other|4.00+": -0.0051,
-  "football|68|1st Half - Over/Under|Under|<1.30": 0.0124,
-  "football|900301|Away Team Total Corners|Over|1.30-1.59": -0.0196,
-  "football|900301|Away Team Total Corners|Under|2.20-3.99": 0.021,
+  "football|25|Goal Range|other|1.60-2.19": 0.019,
+  "football|25|Goal Range|other|2.20-3.99": -0.0126,
+  "football|29|GG/NG|No|2.20-3.99": 0.0186,
+  "football|37|1X2 & Over/Under 3.5|other|2.20-3.99": 0.0132,
+  "football|37|1X2 & Over/Under 3.5|other|4.00+": -0.005,
+  "football|68|1st Half - Over/Under|Over|4.00+": -0.011,
+  "football|68|1st Half - Over/Under|Under|<1.30": 0.013,
+  "football|900301|Away Team Total Corners|Over|1.30-1.59": -0.02,
+  "football|900301|Away Team Total Corners|Under|2.20-3.99": 0.0213,
   "football|15|Winning Margin|other|2.20-3.99": 0.0168,
-  "football|58|Both Halves Over 1.5|No|1.30-1.59": -0.0179,
+  "football|58|Both Halves Over 1.5|No|1.30-1.59": -0.0182,
   "football|854|Home Team or Over 2.5|No|4.00+": -0.0163,
-  "football|14|Handicap 0:1|Draw level|2.20-3.99": 0.0198,
-  "football|83|2nd Half - 1X2|Home|4.00+": -0.0135,
+  "football|14|Handicap 0:1|Draw level|2.20-3.99": 0.0197,
+  "football|83|2nd Half - 1X2|Home|4.00+": -0.0138,
   "football|29|GG/NG|Yes|2.20-3.99": 0.0187,
-  "football|14|Handicap 1:0|Draw level|2.20-3.99": 0.0188
+  "football|14|Handicap 1:0|Draw level|2.20-3.99": 0.0185
  },
- "slices_tested": 1202,
+ "slices_tested": 1213,
  "form": {
   "football": {
-   "b": 0.0415,
-   "se": 0.0352,
-   "z": 1.18,
-   "n": 51666,
-   "fixtures": 1478,
+   "b": 0.0339,
+   "se": 0.0342,
+   "z": 0.99,
+   "n": 54636,
+   "fixtures": 1548,
    "use": 0.0
   },
   "american football": {
-   "b": 0.1255,
-   "se": 0.2912,
-   "z": 0.43,
-   "n": 1816,
-   "fixtures": 76,
+   "b": 0.1864,
+   "se": 0.2892,
+   "z": 0.64,
+   "n": 1878,
+   "fixtures": 78,
    "use": 0.0
   },
   "basketball": {
-   "b": 0.1381,
-   "se": 0.0744,
-   "z": 1.86,
-   "n": 38705,
-   "fixtures": 563,
+   "b": 0.0833,
+   "se": 0.0709,
+   "z": 1.17,
+   "n": 43398,
+   "fixtures": 633,
    "use": 0.0
   },
   "volleyball": {
-   "b": -0.2957,
-   "se": 0.2638,
-   "z": -1.12,
-   "n": 265,
-   "fixtures": 144,
+   "b": -0.3221,
+   "se": 0.2606,
+   "z": -1.24,
+   "n": 270,
+   "fixtures": 147,
    "use": 0.0
   },
   "ice hockey": {
-   "b": 0.2183,
-   "se": 0.1602,
-   "z": 1.36,
-   "n": 7406,
-   "fixtures": 311,
+   "b": 0.2141,
+   "se": 0.1581,
+   "z": 1.35,
+   "n": 7497,
+   "fixtures": 314,
    "use": 0.0
   }
  },
  "research": {
   "vetoed fixtures: short-priced main markets": {
-   "n": 4636,
-   "fx": 303,
-   "resid": 0.0038052764412208795,
-   "se": 0.0057198460191878655,
-   "z": 0.6652760281405571,
-   "roi": -0.06444132873166525
+   "n": 4908,
+   "fx": 312,
+   "resid": 0.0029552780650570496,
+   "se": 0.005453066333136556,
+   "z": 0.5419479398405189,
+   "roi": -0.06565199674001627
   },
   "researched, not vetoed: same markets": {
-   "n": 67068,
-   "fx": 3252,
-   "resid": -0.0016116139630032167,
-   "se": 0.0018350683375893137,
-   "z": -0.8782310336847489,
-   "roi": -0.06370072165563388
+   "n": 70264,
+   "fx": 3388,
+   "resid": -0.0014531965244805286,
+   "se": 0.0017857323093360114,
+   "z": -0.813781840023307,
+   "roi": -0.0635405043834687
   },
   "research picks": {
-   "n": 1490,
-   "fx": 1196,
-   "resid": -0.006101187362281874,
-   "se": 0.012578424476978031,
-   "z": -0.48505179432040324,
-   "roi": -0.052040268456375806
+   "n": 1550,
+   "fx": 1241,
+   "resid": -0.0043480881852903195,
+   "se": 0.012276772967528075,
+   "z": -0.3541719144591957,
+   "roi": -0.04919354838709674
   }
  }
 }
