@@ -1,34 +1,37 @@
 {
- "as_of": "2026-11-25 04:47 UTC",
- "outcomes": 4354192,
+ "as_of": "2026-11-25 20:37 UTC",
+ "outcomes": 4400548,
  "first": "2026-10-12",
  "last": "2026-11-25",
  "calibration": {
-  "football|25|Goal Range|other|1.60-2.19": 0.019,
-  "football|25|Goal Range|other|2.20-3.99": -0.0126,
-  "football|29|GG/NG|No|2.20-3.99": 0.0186,
-  "football|37|1X2 & Over/Under 3.5|other|2.20-3.99": 0.0132,
-  "football|37|1X2 & Over/Under 3.5|other|4.00+": -0.005,
-  "football|68|1st Half - Over/Under|Over|4.00+": -0.011,
-  "football|68|1st Half - Over/Under|Under|<1.30": 0.013,
-  "football|900301|Away Team Total Corners|Over|1.30-1.59": -0.02,
+  "football|25|Goal Range|other|1.60-2.19": 0.0187,
+  "football|25|Goal Range|other|2.20-3.99": -0.0125,
+  "football|37|1X2 & Over/Under 3.5|other|2.20-3.99": 0.0137,
+  "football|37|1X2 & Over/Under 3.5|other|4.00+": -0.0052,
+  "football|37|1X2 & Over/Under 4.5|other|4.00+": -0.0035,
+  "football|46|Half Time/Full Time Correct Score|other|4.00+": 0.0004,
+  "football|552|1st Half - Multigoals|other|4.00+": -0.0062,
+  "football|68|1st Half - Over/Under|Over|4.00+": -0.0115,
+  "football|68|1st Half - Over/Under|Under|<1.30": 0.0135,
+  "football|900301|Away Team Total Corners|Over|1.30-1.59": -0.0202,
   "football|900301|Away Team Total Corners|Under|2.20-3.99": 0.0213,
-  "football|15|Winning Margin|other|2.20-3.99": 0.0168,
-  "football|58|Both Halves Over 1.5|No|1.30-1.59": -0.0182,
-  "football|854|Home Team or Over 2.5|No|4.00+": -0.0163,
-  "football|14|Handicap 0:1|Draw level|2.20-3.99": 0.0197,
-  "football|83|2nd Half - 1X2|Home|4.00+": -0.0138,
-  "football|29|GG/NG|Yes|2.20-3.99": 0.0187,
-  "football|14|Handicap 1:0|Draw level|2.20-3.99": 0.0185
+  "football|15|Winning Margin|other|2.20-3.99": 0.0166,
+  "football|58|Both Halves Over 1.5|No|1.30-1.59": -0.018,
+  "football|854|Home Team or Over 2.5|No|4.00+": -0.0162,
+  "football|14|Handicap 0:1|Draw level|2.20-3.99": 0.0201,
+  "football|83|2nd Half - 1X2|Home|4.00+": -0.0132,
+  "football|29|GG/NG|Yes|2.20-3.99": 0.0194,
+  "football|30|Teams to Score|Both teams|2.20-3.99": 0.0181,
+  "football|14|Handicap 1:0|Draw level|2.20-3.99": 0.0174
  },
- "slices_tested": 1213,
+ "slices_tested": 1225,
  "form": {
   "football": {
-   "b": 0.0339,
-   "se": 0.0342,
-   "z": 0.99,
-   "n": 54636,
-   "fixtures": 1548,
+   "b": 0.0321,
+   "se": 0.0331,
+   "z": 0.97,
+   "n": 58693,
+   "fixtures": 1658,
    "use": 0.0
   },
   "american football": {
@@ -40,27 +43,27 @@
    "use": 0.0
   },
   "basketball": {
-   "b": 0.0833,
-   "se": 0.0709,
-   "z": 1.17,
-   "n": 43398,
-   "fixtures": 633,
+   "b": 0.0792,
+   "se": 0.0693,
+   "z": 1.14,
+   "n": 45867,
+   "fixtures": 673,
    "use": 0.0
   },
   "volleyball": {
-   "b": -0.3221,
-   "se": 0.2606,
-   "z": -1.24,
-   "n": 270,
-   "fixtures": 147,
+   "b": -0.308,
+   "se": 0.2158,
+   "z": -1.43,
+   "n": 308,
+   "fixtures": 167,
    "use": 0.0
   },
   "ice hockey": {
-   "b": 0.2141,
-   "se": 0.1581,
-   "z": 1.35,
-   "n": 7497,
-   "fixtures": 314,
+   "b": 0.2497,
+   "se": 0.1471,
+   "z": 1.7,
+   "n": 8537,
+   "fixtures": 363,
    "use": 0.0
   }
  },
@@ -74,20 +77,20 @@
    "roi": -0.06565199674001627
   },
   "researched, not vetoed: same markets": {
-   "n": 70264,
-   "fx": 3388,
-   "resid": -0.0014531965244805286,
-   "se": 0.0017857323093360114,
-   "z": -0.813781840023307,
-   "roi": -0.0635405043834687
+   "n": 70553,
+   "fx": 3398,
+   "resid": -0.0014529323698155986,
+   "se": 0.001780383569312118,
+   "z": -0.8160782849602258,
+   "roi": -0.0635342224993982
   },
   "research picks": {
-   "n": 1550,
-   "fx": 1241,
-   "resid": -0.0043480881852903195,
-   "se": 0.012276772967528075,
-   "z": -0.3541719144591957,
-   "roi": -0.04919354838709674
+   "n": 1552,
+   "fx": 1243,
+   "resid": -0.004679513921778347,
+   "se": 0.012270536286236963,
+   "z": -0.38136180951007365,
+   "roi": -0.04963917525773193
   }
  }
 }
