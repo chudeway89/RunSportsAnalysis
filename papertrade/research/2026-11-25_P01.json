@@ -1,0 +1,314 @@
+[
+ {
+  "eid": "sr:match:73959832",
+  "fx": "Matebele v Gaborone United",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Botswana PL 2026-27: Gaborone United top, 8/8 wins (SR last 10 8-1-1, away 3/4 wins, gf 1.9); Matebele 15th, 5 pts from 9 games (last 10 1-2-7, gf 0.9). Kick-off 17:00 matches AFREEQUE listing. H2H: GU unbeaten in last 4 (3W 1D), including 3-0 at Matebele in Mar 2026.",
+  "news": "GU perfect start v struggling Matebele; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 1.40 (p 0.66 < 0.75 away gate); Home +1.5 catch (fav p 0.66 >= 0.55); Goal Bounds (multigoals excluded); 12-DC excluded. My estimate for GU win is ~0.70, still below the gate. GU win via DNB is not offered in range.",
+  "confidence": 0.2,
+  "sources": [
+   "https://afreeque.com/en/football/competition/botswana-premier-league/matchday-11",
+   "https://www.royalscore.com/football/match/botswana/matebele-fc-vs-gaborone-united/2025-2026/2573250",
+   "https://www.aiscore.com/head-to-head/soccer-gaborone-united-vs-matebele-fc"
+  ]
+ },
+ {
+  "eid": "sr:match:76552894",
+  "fx": "Qatar SC v Al-Nasr Dubai CSC",
+  "sport": "football",
+  "absences": "No named absences found. Al Nasr coach Milos Milojevic; scorers Ramon Mierez and Mehdi Ghayedi.",
+  "context": "Gulf Club CL Group B round 4, return fixture at Suheim bin Hamad. Al Nasr top on 9 pts (3/3: 3-0 Riffa, 1-0 at Zawraa, 4-1 v Qatar SC on Nov 5). Qatar SC on 1 pt and need the win to survive. Kick-off conflict: 365Scores 17:00 (matches the board), one listing says 09:00. Treated as a listing error, not a veto.",
+  "news": "Al Nasr thrashed Qatar SC 4-1 three weeks ago and lead the group with 3/3; Qatar SC near-eliminated.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.41,
+    "p": 0.6573,
+    "why": "Mechanism: same pairing 4-1 on Nov 5 plus Al Nasr 3/3 in the group (Mierez/Ghayedi firing) v a Qatar SC side with 1 pt. The draw is voided. My p 0.69 v house 0.66. Gulf context: keep as fill, not an anchor."
+   }
+  ],
+  "avoid": "Away 1X2 1.88 (p 0.50 < 0.75); Overs in the Gulf (thin-league class); Al Nasr away_away form in SR data is 0W in 4 (domestic), which tempers confidence.",
+  "confidence": 0.25,
+  "sources": [
+   "https://thepeninsulaqatar.com/article/05/11/2026/qatar-sc-slump-to-4-1-defeat-against-al-nasr",
+   "https://sharjah24.ae/en/Articles/2026/11/05/KMR12",
+   "https://www.365scores.com/football/league/gulf-club-champions-league-8400/matches",
+   "https://www.ysscores.com/en/match/38352371/Qatar-SC-vs-Al-Nasr-SC-(UAE)"
+  ]
+ },
+ {
+  "eid": "sr:match:74166032",
+  "fx": "Sabah Masazir v Barcelona",
+  "sport": "football",
+  "absences": "Barcelona: Lamine Yamal OUT (ankle). Rodri OUT (hamstring, back ~Dec 2). Joan Garcia doubtful (knee). Christensen doubtful (calf). Cubarsi unlikely to start. Adeyemi or Gabriel Jesus to replace Yamal. Sabah: no news found.",
+  "context": "UCL league phase in Baku. Huge mismatch (Barca p 0.92). Barca away avg 3.2 gf in last 10 (SR). Sabah conceded 4 and 3 in recent away games but are solid at home (1.0 ga). Atletico v Barca follows on ~Dec 2, so rotation is possible but the squad depth remains elite.",
+  "news": "Yamal out, plus defensive absences (Christensen, Cubarsi, Rodri); Barca still overwhelming favourites in Baku.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Away (-1.5)",
+    "odds": 1.21,
+    "p": 0.8020299018,
+    "why": "Mechanism: talent gulf, with Barca averaging 3.2 gf away. Yamal absence and possible rotation trim the edge. My p 0.79 v house 0.80, so no edge; fair as fill only."
+   }
+  ],
+  "avoid": "Barca -2.5/-3 (rotation, Yamal out); Under lines (defensive absences make Sabah goals live; team Over 0.5 Sabah p 0.51).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.espn.com/soccer/story/_/id/50571569/lamine-yamal-barcelona-champions-league-sabah",
+   "https://www.sportsmole.co.uk/football/barcelona/champions-league/injuries-and-suspensions/rodri-christensen-bardghji-update-barcelona-injury-suspension-list-vs-sabah_609657.html",
+   "https://sports.yahoo.com/soccer/articles/barcelona-first-team-regular-major-070000446.html",
+   "https://www.espn.com/soccer/story/_/id/50549701/barcelona-injuries-team-news-christensen-cubarsi"
+  ]
+ },
+ {
+  "eid": "sr:match:74166034",
+  "fx": "Slavia Prague v Villarreal",
+  "sport": "football",
+  "absences": "Villarreal: Gerard Moreno, Ilias Akhomach, Juan Foyth, Alassane Diatta OUT; Nathan Saliba OUT (one source). Slavia: Chaloupek, Moses, Pitak, Ogbu, Ouanda out or doubtful; Provod and Sturm being assessed; Chory and Kolar reported suspended (one source).",
+  "context": "UCL league phase. Slavia must-win at home (home last 5: 2W 2D 1L, ga 0.8). Villarreal away last 5: 2W 3L. Both sides depleted; sources conflict on Slavia names.",
+  "news": "Both sides hit by injuries. Slavia framed as must-win at home; Villarreal missing Moreno, Foyth and Akhomach.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.35,
+    "p": 0.718744,
+    "why": "Mechanism: Slavia strong at home (ga 0.8, unbeaten in 4 of last 5 home) and in a must-win spot v a Villarreal side missing Moreno, Foyth and Akhomach. Wins on a Slavia win or draw, pushes on a 1-goal loss. My p 0.74 v house 0.72. Caveat: possible Chory suspension blunts the Slavia attack."
+   }
+  ],
+  "avoid": "Villarreal result-side; Over 2/Over 3 (integer Overs banned); Unders (p < 0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/villarreal/champions-league/preview/slavia-prague-vs-villarreal-prediction-team-news-lineups_609704.html",
+   "https://www.whoscored.com/matches/2029216/preview/europe-champions-league-2026-2027-slavia-prague-villarreal",
+   "https://tips.gg/article/sk-slavia-praha-vs-villarreal-cf-predicted-lineups-team-news-2026/",
+   "https://www.archyde.com/slavia-prague-host-villarreal-in-must-win-champions-league-clash/"
+  ]
+ },
+ {
+  "eid": "sr:match:76969870",
+  "fx": "CA Lanus v CA River Plate (Arg) Reserve",
+  "sport": "football",
+  "absences": "No named absences (reserve sides).",
+  "context": "RESERVES: Torneo Proyeccion Clausura 2026 quarter-final, a SINGLE-LEG KNOCKOUT (extra time and penalties if level). Venue: Cabrero y Guidi, 16:00 ART = 19:00 UTC (consistent with board). Referee Sebastian Milessi. River beat Lanus 3-1 in the Apertura QF.",
+  "news": "Reserve knockout QF; date, time and venue confirmed by the Lanus club site; River won the previous QF meeting 3-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side plus knockout (no result-sides; settles on 90 min). Not a clear mismatch, so no goals pick either.",
+  "confidence": 0.1,
+  "sources": [
+   "https://clublanus.com/lanus-juega-ante-river-en-el-proyeccion-clausura-2026/",
+   "https://lapaginamillonaria.com/river-plate/torneo-de-reserva-dia-y-horario-confirmado-para-river-vs-lanus-por-los-cuartos-de-final",
+   "https://soydelmillo.com/juveniles/2026/11/21/reserva-clasifico-river-torneo-proyeccion/"
+  ]
+ },
+ {
+  "eid": "sr:match:76883428",
+  "fx": "America PE v Central SC PE",
+  "sport": "football",
+  "absences": "No news found on absences.",
+  "context": "Pernambucano 2026/27 Quadrangular Final, round 2. Central lead after beating Ibis; America-PE lost round 1 (0 pts). Kick-off 16:00 BRT = 19:00 UTC per Gazeta/Sofascore/SportyTrader, matching the board. Forebet shows 20:00 GMT (minor listing discrepancy, not a veto). Low-scoring profile (Central ga 0.7).",
+  "news": "Central top of the final quadrangular; America-PE need points after a round-1 defeat.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (U3.5 p 0.79 < 0.82); Overs in a low-scoring state final stage; result-sides near coin-flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.gazetaesportiva.com/campeonatos/pernambucano/central-vence-o-ibis-em-casa-e-assume-lideranca-do-quadrangular-final-do-pernambucano/",
+   "https://www.sofascore.com/football/match/america-pe-central-sc/ULisfau",
+   "https://www.sportytrader.com/en/results-live/america-pe-central-pe-9014741/",
+   "https://www.forebet.com/en/football/matches/am%C3%A9rica-pe-central-pe-2565586"
+  ]
+ },
+ {
+  "eid": "sr:match:72340072",
+  "fx": "Bolton Wanderers v West Bromwich Albion",
+  "sport": "football",
+  "absences": "West Brom: Isaac Price doubtful (knee, subbed v Swansea). Bolton: Gaizka Larrazabal doubtful (knock); Ethan Erhahon not back yet.",
+  "context": "Championship, 19:45 GMT. West Brom unbeaten in 7 league games (SR away last 5: 2W 2D 1L). Bolton poor at home (1W in last 5 home, ga 2.2). Sam Dalby is Bolton's main scorer.",
+  "news": "WBA unbeaten in 7; Price a doubt; Bolton weak at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.28,
+    "p": 0.7467288071,
+    "why": "Mechanism: WBA 7-game unbeaten run v Bolton with 1 home win in 5 and 2.2 ga at home. Price doubt is a small minus. My p 0.76 v house 0.75; a short edge only."
+   }
+  ],
+  "avoid": "WBA 1X2 2.00 (away gate); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/bolton-wanderers/preview/bolton-vs-west-brom-prediction-team-news-lineups_609702.html",
+   "https://the72.co.uk/2026/11/25/west-brom-isaac-price-injury-update-pre-bolton-wanderers/",
+   "https://dave.sport/news/bolton-vs-west-brom-injury-news-november-2026/",
+   "https://dave.sport/news/bolton-vs-west-brom-preview-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72340078",
+  "fx": "Watford v Blackburn Rovers",
+  "sport": "football",
+  "absences": "Watford: Kwadwo Baah, Krepin Diatta injured; Michail Antonio, Jeremy Ngakia unfit; Sam Morsy, Tom Etcheson doubts (one source). Pollock, Keben and Payero one booking from a ban.",
+  "context": "Championship, 19:45 GMT. Watford SACKED Alessio Dionisi; interim (Mariappa) in charge, so a new-manager bounce is possible. Watford last 10: 2-1-7, gf 0.7 (home: 2W 1D 2L). Blackburn away last 5: 1-2-2. Most previews tip Blackburn 2-1.",
+  "news": "Watford managerless after the Dionisi sacking, injury-hit and scoring 0.7/game; previews lean Blackburn.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Away (+1.0)",
+    "odds": 1.25,
+    "p": 0.775304,
+    "why": "Mechanism: Watford attack blunt (0.7 gf per game, Baah/Diatta/Antonio out) under an interim. Blackburn win/draw wins, a 1-goal loss pushes. My p 0.79 v house 0.78. Interim-bounce risk is the caveat."
+   }
+  ],
+  "avoid": "Watford home result (manager chaos); Unders (p < 0.82); Overs (Watford 0.7 gf).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/blackburn-rovers/preview/watford-vs-blackburn-prediction-team-news-lineups_609670.html",
+   "https://www.whoscored.com/articles/7BIHhHr2NEeKf76buxCpfg/show/cng111-20261125-watford-vs-blackburn-prediction-1795607522",
+   "https://www.sportsgambler.com/betting-tips/football/watford-vs-blackburn-prediction-lineups-odds-2026-11-25/",
+   "https://dailysports.net/predictions/can-watford-avoid-slipping-into-the-relegation-zone-championship-prediction-watford-vs-blackburn/"
+  ]
+ },
+ {
+  "eid": "sr:match:72740858",
+  "fx": "Harrogate Town v Kidderminster Harriers FC",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "National League (English non-league). Harrogate 2nd in a promotion race but on a mixed run (last 6: L W L D L W). Home last 5: 4W 1L, 2.8 gf. Kidderminster away last 4: 0W, 0.5 gf; one preview says no wins in 10 since mid-September, though they have lost only 1 of their last 5. Kick-off listing conflict (7.45pm v \"11:45\"); board 19:45 UTC matches the 7.45pm sources and Goal TV listing.",
+  "news": "Harrogate need to arrest a slide in the promotion race; Kidderminster winless away.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.7690089383,
+    "why": "Mechanism: Harrogate home 4/5 wins at 2.8 gf v Kidderminster 0 away wins in 4 (0.5 gf). DNB covers the draw-heavy Kidderminster profile (5 draws in 10). My p 0.79 v house 0.77."
+   }
+  ],
+  "avoid": "O1.5/Overs (English non-league thin-Over class); Kidderminster +catches.",
+  "confidence": 0.25,
+  "sources": [
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-24-25-november-2026/",
+   "https://www.goal.com/en-ca/news/live-stream-online-tv-where-to-watch-harrogate-town-v-kidderminster-harriers/blt33b7aec710a96f6a",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72740860",
+  "fx": "Hartlepool United v Solihull Moors FC",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "National League relegation six-pointer: Hartlepool 20th v Solihull 21st, both on 19 pts. Solihull have won 4 in a row and are going for five. Both won 2-1 last round. All of the last 6 games for both sides had 2+ goals. William Hill tips 1-1.",
+  "news": "Bottom-four clash; Solihull on a 4-game winning run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.26,
+    "p": 0.75825,
+    "why": "Mechanism: Solihull 4 straight wins v a Hartlepool side with 2W in 6 at home; near-level teams (fav p 0.46 < 0.55, so the +1.5 catch is allowed). Loses only on a Hartlepool win by 2+. My p 0.79 v house 0.76."
+   }
+  ],
+  "avoid": "O1.5 1.20 (English non-league thin-Over class, despite all 12 recent games having 2+ goals); Over 2/Over 3 (integer Overs).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.solihullmoorsfc.co.uk/statistical-preview-hartlepool-vs-moors",
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-24-25-november-2026/",
+   "https://www.footballwebpages.co.uk/national-league"
+  ]
+ },
+ {
+  "eid": "sr:match:72340076",
+  "fx": "Stoke City v Millwall FC",
+  "sport": "football",
+  "absences": "Stoke: unspecified injury concerns (Daily Sports). Probable XI includes Bozenik and Manhoef. Millwall: no named absences found.",
+  "context": "Championship, 20:00 GMT (Forebet 21:00 CET = 20:00 UTC, consistent; a Daily Sports \"14:00\" listing is a different timezone or an error). Stoke 2nd (10-2-4), last 10: 8W, ga 0.8. Millwall 16th: 3 straight defeats, no goals in 3, 28 conceded in 16. Caveat: Stoke winless in their last 6 meetings with Millwall.",
+  "news": "Stoke flying (2nd); Millwall on three straight blanks and defeats; poor Stoke H2H record v Millwall.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.3,
+    "p": 0.7347734064,
+    "why": "Mechanism: Stoke 8W in last 10 with 0.8 ga v Millwall blanking in 3 straight. The H2H hoodoo argues for protection over the win. My p 0.77 v house 0.73."
+   }
+  ],
+  "avoid": "Unders (p < 0.82); Stoke -1.5 (low-scoring Stoke wins, 1-0/2-1 typical).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.forebet.com/en/football-match-previews/32557-stoke-city-aim-to-extend-dominant-home-run-against-struggling-millwall",
+   "https://dailysports.net/predictions/the-potters-are-flying-but-the-lions-have-history-on-their-side-stoke-city-vs-millwall-prediction-25112026",
+   "https://news.williamhill.com/football/championship-betting-tips-and-predictions-wednesday-25th-november-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74166036",
+  "fx": "Atletico Madrid v Viking FK",
+  "sport": "football",
+  "absences": "Atletico: Ademola Lookman OUT (knee, until new year). Marc Pubill (ankle) and Cristian Romero doubtful or out. Viking: Nicholas D'Agostino, Sondre Bjorshol, Anders Baertelsen, Martin Roseth OUT.",
+  "context": "UCL league phase, 20:00 UTC. Atletico framed as must-win. Viking in their first UCL campaign since 1992 (22nd-25th). Viking score a lot and concede a lot (last 10: 2.8 gf, 1.7 ga; away 2.0/1.8). Atletico gf only 1.5 in last 10. Atletico host Barca ~Dec 2.",
+  "news": "Atletico must-win v UCL debutants Viking; Lookman out; Viking missing four, including D'Agostino.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.26,
+    "p": 0.7640601241,
+    "why": "Mechanism: Viking open profile (games average 4.5 goals over their last 10) with defensive absences (Roseth, Bjorshol) v a must-win Atletico. My p 0.77 v house 0.76."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Home (-1.5)",
+    "odds": 1.36,
+    "p": 0.710534,
+    "why": "Mechanism: talent gap plus Viking defensive absences; previews predict 3-1. Caveat: Atletico's recent attack is 1.5 gf and Lookman is out. My p 0.70 v house 0.71; fill only, not an anchor."
+   }
+  ],
+  "avoid": "Atletico -2.5 or more; Viking team Under 0.5 (they score in most games).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/atletico-madrid/champions-league/preview/atletico-vs-viking-fk-prediction-team-news-lineups_609709.html",
+   "https://www.intothecalderon.com/previews/30131/atletico-de-madrid-viking-fk-champions-league-preview-team-news",
+   "https://khelnow.com/football/atletico-madrid-vs-viking-fk-preview-champions-league-202611",
+   "https://tips.gg/article/atletico-madrid-vs-viking-predicted-lineups-team-news-2026/"
+  ]
+ }
+]

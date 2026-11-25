@@ -1,0 +1,275 @@
+[
+ {
+  "eid": "sr:match:76627462",
+  "fx": "Atalanta BC U23 v ASD Pineto Calcio",
+  "sport": "football",
+  "absences": "Pineto: Di Renzo, Ienco suspended. Atalanta U23 XI disputed (4-3-1-2 v 4-3-3 between outlets).",
+  "context": "Serie C Gir. B recupero (rd 14) at Caravaggio, 18:00 CET = 17:00 UTC (matches board). 12th v 13th, one point apart; Pineto seeking first away league win.",
+  "news": "Reserve (U23) side; KO and venue consistent; no mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: reserve side, no mismatch (rule: goals only in clear mismatches).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tuttoc.com/girone-b/atalanta-u23-pineto-recupero-zona-play-off-probabili-formazioni-449796",
+   "https://www.lega-calcio-serie-c.it/atalanta-u23-pineto-probabili-formazioni-e-corsa-play-off/",
+   "https://www.tuttoatalanta.com/serie-c/diretta-atalanta-u23-pineto-i-frana-gomme-madone-i-segui-live-18-142527"
+  ]
+ },
+ {
+  "eid": "sr:match:72344030",
+  "fx": "Lokomotiv Moscow v FK Rostov",
+  "sport": "football",
+  "absences": "No lineup/injury news found.",
+  "context": "Russian Cup group D matchday 6: DEAD RUBBER. Rostov already top (12 pts), Lokomotiv (3 pts, 0 wins) cannot progress. Expect rotation both sides.",
+  "news": "Group decided; Rostov won the Aug 18 reverse 1-0; Lokomotiv have conceded in 6 straight home games.",
+  "veto": true,
+  "veto_reason": "Dead rubber (group already decided both ways) -> rotation risk (R3).",
+  "picks": [],
+  "avoid": "Everything; especially Rostov result-sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://scores24.live/en/soccer/m-25-11-2026-lokomotiv-moscow-rostov-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:73093096",
+  "fx": "US Cremonese v US Avellino",
+  "sport": "football",
+  "absences": "Cremonese: Bonazzoli suspended (sent off). Expected XI 4-2-3-1 with Stuckler lone striker. Avellino (Nesta) 3-5-2, Cheddira + Biasci.",
+  "context": "Serie B midweek round 13; KO 19:00 CET = 18:00 UTC (matches board). Cremonese home GA 0.5 last 4 home.",
+  "news": "Bonazzoli out for Cremonese; otherwise standard midweek Serie B.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": 10,
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.25,
+    "p": 0.7605913881,
+    "why": "Cremonese concede 0.5/game at home and Avellino have 1 win in 5 away (1.0 gf); stats-led, Bonazzoli loss trims home attack, not defence. Own est 0.77. Fill-grade only."
+   }
+  ],
+  "avoid": "Home 1X2 (Bonazzoli out, p 0.47); Unders (p<0.82).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.calciomagazine.net/cremonese-avellino-diretta-risultato-25-novembre-2026-253300.html",
+   "https://www.ilsussidiario.net/news/probabili-formazioni-serie-b-moduli-titolari-e-assenti-per-la-13-giornata-24-25-novembre-2026/3021696/"
+  ]
+ },
+ {
+  "eid": "sr:match:73093152",
+  "fx": "Calcio Padova v Sampdoria Genoa",
+  "sport": "football",
+  "absences": "Padova: centre-backs Lovato and Sgarbi out. Sampdoria: no confirmed news found.",
+  "context": "Serie B round 13, 20:00 CET = 19:00 UTC (matches). Sampdoria away form poor: 1W 1D 4L last 6 away, 0.67 gf.",
+  "news": "Padova without both first-choice centre-backs (AGIMEG).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": 16,
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.24,
+    "p": 0.770887,
+    "why": "Sampdoria score 0.67/game away (1 win in 6 away); Padova last 10 only 4 losses. Whole-line +1 voids a 1-goal loss. Missing CBs Lovato/Sgarbi cut it. Own est 0.76."
+   }
+  ],
+  "avoid": "Over 1.5 (Serie B < 2.7 goals avg); Sampdoria result-side away (p<0.75).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.agimeg.it/schedina-serie-b-25-novembre-2026/",
+   "https://www.ilveggente.it/2026/11/24/pronostici-serie-b-25-novembre-quattro-match-da-seguire-con-attenzione/"
+  ]
+ },
+ {
+  "eid": "sr:match:73093156",
+  "fx": "SC Pisa v Modena FC",
+  "sport": "football",
+  "absences": "No confirmed absences found; one unverified source has Scuffet (Pisa) and Chichizola (Modena) in goal.",
+  "context": "Serie B round 13. Modena strong (6W 2D 2L last 10, 0.9 ga); Pisa erratic at home (3-3, 2-2, 3-1).",
+  "news": "No news found beyond unverified probable XIs.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pisa home 1X2/DNB (Modena better form); Overs (Serie B, Over 1.5 rule).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pianetaserieb.it/news/110650887686/serie-b-probabili-formazioni-2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:76486868",
+  "fx": "RBC Roosendaal v VV Gemert",
+  "sport": "football",
+  "absences": "No news found (amateur).",
+  "context": "Derde Divisie B (amateur 4th tier). Standings sources conflict (RBC 13th v 4th; Gemert 7th v 11th). Sportytrader dates the fixture 24 Oct 2026 while Sofascore/Footballstreams give 25 Nov 19:00 UTC.",
+  "news": "Date conflict between sources (24 Oct vs 25 Nov) - possibly a rescheduled game, unverified.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (Sportytrader 24 Oct 2026 v Sofascore 25 Nov) plus standings conflict; amateur league.",
+  "picks": [],
+  "avoid": "All markets. (RBC home games are very high-scoring: 3-4, 3-3, 3-3, 2-4, but amateur + conflict.)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/vv-gemert-rbc-roosendaal/ujbsQjb",
+   "https://www.sportytrader.com/en/results-live/rbc-roosendaal-vv-gemert-8612667/",
+   "https://www.footballstreams.com/matches/rbc-roosendaal-vs-gemert-20261125/"
+  ]
+ },
+ {
+  "eid": "sr:match:74166038",
+  "fx": "Club Brugge v Liverpool",
+  "sport": "football",
+  "absences": "Brugge: Ordonez (ankle, long-term) out; Jan Virgili (groin) out/doubt - sources conflict. Liverpool: Gakpo (calf), Gravenberch (heel) out; Bradley, Leoni, Ekitike long-term.",
+  "context": "UCL league phase MD5, Jan Breydel, 20:00 UTC. Liverpool 'seeking a response' after a UCL loss. Brugge 9W 1D last 10 (3.0 gf); Liverpool away 3.25 gf / 2.0 ga.",
+  "news": "Liverpool without Gakpo and Gravenberch; Brugge in strong form; Goal lists no injuries (outdated).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": 18,
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.32,
+    "p": 0.7280508834,
+    "why": "Both attacks scoring 3.0/game over last 10; Liverpool away games avg 5.25 total, Brugge recent 5-1, 4-2, 3-2; Liverpool defence leaky (2.1 ga) and without Gravenberch's midfield screen. Own est 0.76."
+   },
+   {
+    "mid": 19,
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.29,
+    "p": 0.7515446852,
+    "why": "Brugge (home team) scored in each of their last 6 and every home game in last 5; Liverpool concede 2.0/game away. Own est 0.80."
+   }
+  ],
+  "avoid": "Liverpool 1X2 (away p 0.59 < 0.75); Brugge result-sides; Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.thisisanfield.com/2026/11/club-brugge-vs-liverpool-team-news-lineups-tv-info-preview/",
+   "https://sports.yahoo.com/articles/club-brugge-vs-liverpool-champions-194056277.html",
+   "https://www.vavel.com/en/football/2026/11/25/liverpool-fc/1280530-club-brugge-vs-liverpool-champions-league-preview.html",
+   "https://www.espn.com/soccer/story/_/id/50570994/club-brugge-vs-liverpool-channel-how-watch-uk-kickoff-live-stream-team-news-predicted-lineups"
+  ]
+ },
+ {
+  "eid": "sr:match:74166040",
+  "fx": "Inter v Stuttgart",
+  "sport": "football",
+  "absences": "Inter: Calhanoglu (thigh) and Bonny (muscle) out; Zielinski doubt; Lautaro back in training but not expected to start; Bastoni back from suspension. Stuttgart: Jaquez (rib), Sauer, Stiller (groin), Diehl reported out by some outlets; SoccerNews says all available (conflict).",
+  "context": "UCL MD5, San Siro. Inter leaky lately (4-4 at Atalanta Sunday). Stuttgart tight away (0.71 ga last 7 away), 0-0 at Schalke.",
+  "news": "Inter lose Calhanoglu and start without Lautaro; Stiller fitness disputed for Stuttgart.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Inter -1/-1.5 (Lautaro + Calhanoglu out, Stuttgart concede 0.7 away); Inter 1X2 1.42 is fragile-ish; Overs (Stuttgart away games low). Team-news conflict on Stuttgart squad.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livescore.com/en/news/football/champions-league/champions-league-preview-inter-vs-stuttgart-team-news-lineups-prediction-the-cult-of-calcio/",
+   "https://khelnow.com/football/inter-milan-vs-vfb-stuttgart-preview-champions-league-202611",
+   "https://www.soccernews.com/inter-vs-stuttgart-prediction/408875/"
+  ]
+ },
+ {
+  "eid": "sr:match:74166044",
+  "fx": "Lille v Bayern Munich",
+  "sport": "football",
+  "absences": "Bayern: Kane (ankle/syndesmosis) OUT, Neuer out (Urbig in goal), Gnabry, Saibari, Davies out; Olise major doubt (bruised foot). Lille: Tiago Santos, Igamane (ACL) out; Nianzou out/doubt; Ethan Mbappe back from UCL suspension.",
+  "context": "UCL MD5, Stade Pierre-Mauroy. Lille 35th with 1 pt and low-scoring (0.9 gf, 1-0/0-1/0-0 type games). Bayern unbeaten in 10 but drew 1-1 with Koln at weekend.",
+  "news": "Bayern without Kane and Neuer, Olise doubtful - the house p 0.595 for Bayern carries a weakened XI.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": 16,
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.23,
+    "p": 0.7911911611,
+    "why": "Bayern fav p 0.595 >= 0.55 so +2.0 not +1.5. Named mechanism: Kane (and Neuer) out, Olise major doubt, Gnabry/Davies out - Bayern's goal threat sharply reduced; Lille lost by more than 2 in none of their last 6 (worst 2-4). +2 voids a 2-goal loss. Own est 0.83."
+   }
+  ],
+  "avoid": "Bayern 1X2 / -1 (Kane out, away p<0.75); Overs (Lille games 0.9 gf, Kane absent).",
+  "confidence": 0.3,
+  "sources": [
+   "https://fcbayern.com/en/news/matchpreviews/2026/11/preview-losc-lille-vs.-fc-bayern-champions-league",
+   "https://sports.yahoo.com/articles/lille-vs-bayern-munich-preview-104700395.html",
+   "https://www.whoscored.com/matches/2029186/preview/europe-champions-league-2026-2027-lille-bayern-munich",
+   "https://www.sportsmole.co.uk/football/lille/champions-league/preview/lille-vs-bayern-prediction-team-news-lineups_609676.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74166046",
+  "fx": "PSG v Roma",
+  "sport": "football",
+  "absences": "PSG: Doue (ACL, season), Kvaratskhelia (ACL), Longoni out; Dembele back to start; Marquinhos, Nuno Mendes fit. Roma: Pellegrini (thigh) out, Rensch out/doubt, Balerdi (ankle) out/doubt, Bah out; Dybala and Svilar back.",
+  "context": "UCL MD5, Parc des Princes. PSG 4/4 in UCL, 10/10 last 10. Roma 20th after blowing 2-goal lead v Man Utd; Malen 4 goals v Parma. Big-club clash.",
+  "news": "PSG missing Doue and Kvaratskhelia but Dembele returns; Roma get Dybala and Svilar back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (big-club clash). Totals: big-club rule needs p>=0.82 - Over 2.5 (p 0.73) fails; flagged as attractive otherwise (both sides 3+ gf, Roma ga 1.5-1.8).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/psg/champions-league/preview/psg-vs-roma-prediction-team-news-lineups_609703.html",
+   "https://www.whoscored.com/matches/2029111/preview/europe-champions-league-2026-2027-paris-saint-germain-roma",
+   "https://sports.yahoo.com/articles/champions-league-preview-psg-vs-154500506.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74166048",
+  "fx": "Sporting v Man Utd",
+  "sport": "football",
+  "absences": "Man Utd: Cunha suspended (red v Roma); Baleba, Ugarte, Sesko injured; Rashford out/doubt (hip); Shaw back in squad but short of fitness. Sporting: Debast, Nuno Santos fitness tests (muscle); Ioannidis, Flavio Goncalves back.",
+  "context": "UCL MD5, Alvalade 20:00 UTC (Goal lists 12:00 - looks like a different timezone/outdated page; Sports Mole, ESPN give evening KO). Man Utd away: 0W 2D 4L last 6, 0.5 gf, 2.33 ga. Big-club clash.",
+  "news": "Man Utd without Cunha, Sesko, Baleba, Ugarte; dreadful away form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": 19,
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.21,
+    "p": 0.8033062893,
+    "why": "Sporting score 2.0/game at home and in 5 of last 6; Man Utd concede 2.33/game away, missing two DMs (Baleba, Ugarte) -> midfield screen gone. Team-goal market, not a result-side. Own est 0.85."
+   }
+  ],
+  "avoid": "Result-sides (big-club clash rule) despite Utd absences; Man Utd anything.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/sporting-lisbon/champions-league/team-news/sporting-vs-man-utd-injury-suspension-list-predicted-xis_609674.html",
+   "https://sports.yahoo.com/articles/man-united-dealt-injury-blow-185000213.html",
+   "https://www.espn.com/soccer/story/_/id/50574436/sporting-man-united-channel-how-watch-uk-kickoff-live-stream-team-news-predicted-lineups"
+  ]
+ },
+ {
+  "eid": "sr:match:77025114",
+  "fx": "Guerreros de Autlan v Heroes de Zaci FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Liga Premier Serie A (3rd tier). Sofascore: 25 Nov 22:00 UTC regular season (second meeting; first was 11 Oct rd 7). Autlan 5/5 home wins, 3.6 gf; Zaci 0W in 10 away-ish run, 0.43 gf / 4.0 ga away (0-5, 0-6, 0-5).",
+  "news": "No news; schedule consistent on Sofascore.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": 18,
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.27,
+    "p": 0.747136,
+    "why": "Mismatch: Autlan 3.6 gf at home (8-1, 3-1), Zaci concede 4.0/game away with 0-5, 0-6, 0-5 results; house Autlan 1X2 p 0.90. Thin league, stats-led. Own est 0.79."
+   }
+  ],
+  "avoid": "Unders; Autlan 1X2 (1.07, below band).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/football/team/heroes-de-zaci-fc/1114792",
+   "https://www.sofascore.com/football/match/heroes-de-zaci-fc-guerreros-de-autlan/MKDisRVVi"
+  ]
+ }
+]
