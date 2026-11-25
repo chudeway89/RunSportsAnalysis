@@ -1,0 +1,517 @@
+[
+ {
+  "eid": "sr:match:73697026",
+  "fx": "Philadelphia 76ers v Miami Heat",
+  "sport": "basketball",
+  "absences": "PHI: Joel Embiid OUT (illness, ruled out late Nov 25), Ariel Hukporti OUT (Achilles, season). MIA: Giannis Antetokounmpo questionable/probable (right groin tendinitis), sources conflict.",
+  "context": "NBA Cup group game, Thanksgiving Eve, 5pm ET Xfinity Mobile Arena. PHI centre rotation reduced to Barlow/Walker/Bona.",
+  "news": "Embiid out for PHI; Giannis status for MIA uncertain (upgraded to probable per SI, questionable per NBA listing).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-8.5",
+    "desc": "Away (+8.5)",
+    "odds": 1.3,
+    "p": 0.752332,
+    "why": "Heat already favoured and PHI without Embiid and its backup C Hukporti; PHI needs a 9+ win. Own p ~0.77 (lower if Giannis sits)."
+   },
+   {
+    "mid": "225",
+    "spec": "total=225.5",
+    "desc": "Over 225.5",
+    "odds": 1.26,
+    "p": 0.7735530106,
+    "why": "Both sides' recent games run high (PHI last 6 all 235+ combined; MIA home games 236/267); without Embiid PHI defence at rim weakens. Own p ~0.78."
+   }
+  ],
+  "avoid": "PHI ML/spread; anything assuming Giannis plays fully.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nbcsports.com/fantasy/basketball/player-news/2026-11-25/joel-embiid-illness-out-wednesday-vs-heat",
+   "https://www.si.com/nba/heat/onsi/final-update-on-giannis-embiid-s-status-as-heat-face-philadelphia-76ers-injuries-odds-how-to-watch-01m8a4z7snbq",
+   "https://www.nba.com/sixers/news/sixers-vs-heat-nba-cup-game-preview-injury-report-and-how-to-watch-11-25-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73841582",
+  "fx": "Dartmouth Big Green v Holy Cross Crusaders",
+  "sport": "basketball",
+  "absences": "no named absences found",
+  "context": "NCAA non-conference, Leede Arena Hanover 5pm ET. Dartmouth 4-2, Holy Cross 0-6. BetMGM Dartmouth -11.5, total 147.5.",
+  "news": "Date/venue consistent; Holy Cross winless (0-6); top scorers McNamee (DAR 13.8) and Wilson (HC 12.0).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No NCAA catches in November; totals below p 0.74; Dartmouth spread is a result-side at ~0.5.",
+  "confidence": 0.15,
+  "sources": [
+   "https://dartmouthsports.com/news/2026/11/23/mens-basketball-to-host-holy-cross",
+   "https://sports.betmgm.com/en/blog/ncaab/holy-cross-dartmouth-prediction-odds-picks-nov-25-college-basketball-jaa/"
+  ]
+ },
+ {
+  "eid": "sr:match:73268478",
+  "fx": "Nebraska Cornhuskers v Southern University Jaguars",
+  "sport": "basketball",
+  "absences": "no named absences found",
+  "context": "NCAA non-conference mismatch, Pinnacle Bank Arena 5pm ET (BTN). Nebraska 6-0 (edged Butler 76-74), Southern 1-5. Line ~ -34.5, total 149.5.",
+  "news": "Date/venue consistent; Nebraska unbeaten, 5-0 all-time v Southern.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No NCAA catches in November (Southern +34.5); 30+ spreads volatile; totals below 0.74.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.foxsports.com/stories/mens-college-basketball/how-watch-southern-university-vs-nebraska-tv-channel-live-stream-time-nov-25-2026",
+   "https://sports.betmgm.com/en/blog/ncaab/southern-university-nebraska-prediction-odds-picks-nov-25-college-basketball-jaa/"
+  ]
+ },
+ {
+  "eid": "sr:match:72348092",
+  "fx": "Gigantes Del Cibao v Toros Del Este",
+  "sport": "baseball",
+  "absences": "starting pitchers not found for Nov 25",
+  "context": "LIDOM regular season. Gigantes home 3-2, Toros away 1-4 (allform).",
+  "news": "no news found (no confirmed starters for Nov 25)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "MLB-style ML needs a confirmed starter mismatch at p>=0.65; none confirmed. Run-line only +-1.5 on board (banned/too narrow).",
+  "confidence": 0.1,
+  "sources": [
+   "https://noticiassin.com/deportes/beisbol/2026/11/17/licey-anuncia-su-rotacion-abridora-para-cinco-juegos-clave-2171490",
+   "https://cdndeportes.com.do/gigantes-del-cibao-presentan-su-rotacion-de-abridores-para-los-proximos-encuentros/"
+  ]
+ },
+ {
+  "eid": "sr:match:75111468",
+  "fx": "Gigantes de Carolina v Indios de Mayagüez",
+  "sport": "baseball",
+  "absences": "starting pitchers not found",
+  "context": "LBPRC (Puerto Rico). Carolina won by 6 on Nov 24 (Edwin Diaz, Javier Vaz); Mayaguez 7-8, 5th, came from behind 7-6 v San Juan Nov 24.",
+  "news": "Both teams won Nov 24; league schedule page shows a different Nov 25 game (San Juan v Caguas) but is dated/unreliable; no confirmation of this fixture found - treat with caution.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No starter info; ML p 0.61 < 0.65.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.metro.pr/deportes/2026/11/25/gigantes-cangrejeros-e-indios-se-apuntan-victorias-en-la-lbprc/",
+   "https://ligapr.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:75124094",
+  "fx": "Cardenales de Lara v Aguilas Del Zulia",
+  "sport": "baseball",
+  "absences": "no named absences",
+  "context": "LVBP, Estadio Antonio Herrera Gutierrez, Barquisimeto, 7pm local. Starters reported as Ian Kahaloa v Leam Mendez (team assignment unclear). Cardenales ~16-15.",
+  "news": "Fixture/venue confirmed (Meridiano TV); starters Kahaloa v Mendez, side assignment unverified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No verified starter mismatch; ML p 0.58.",
+  "confidence": 0.1,
+  "sources": [
+   "https://unionradio.net/la-pasion-de-la-lvbp-sigue-esta-noche-con-dos-juegos/",
+   "https://elestimulo.com/deportes/2026-11-24/lvbp-2026-2027-hora-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:75124092",
+  "fx": "Tiburones De La Guaira v Navegantes Del Magallanes",
+  "sport": "baseball",
+  "absences": "no named absences",
+  "context": "LVBP, Estadio Universitario Caracas, 7pm local (IVC). Magallanes ~17-14, 4-0 away in allform; Tiburones ~14-18.",
+  "news": "Fixture/venue confirmed; starters not found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No starter info; ML p 0.55.",
+  "confidence": 0.1,
+  "sources": [
+   "https://unionradio.net/la-pasion-de-la-lvbp-sigue-esta-noche-con-dos-juegos/",
+   "https://elestimulo.com/deportes/2026-11-24/lvbp-2026-2027-hora-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:72348094",
+  "fx": "Leones Del Escogido v Aguilas Cibaenas",
+  "sport": "baseball",
+  "absences": "starting pitchers not found for Nov 25",
+  "context": "LIDOM regular season. Escogido and Aguilas both poor recently (Escogido lost 5 of last 6).",
+  "news": "no news found (no confirmed starters for Nov 25)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "MLB-style ML needs a confirmed starter mismatch at p>=0.65; none confirmed. Run-line only +-1.5 on board (banned/too narrow).",
+  "confidence": 0.1,
+  "sources": [
+   "https://noticiassin.com/deportes/beisbol/2026/11/17/licey-anuncia-su-rotacion-abridora-para-cinco-juegos-clave-2171490",
+   "https://cdndeportes.com.do/gigantes-del-cibao-presentan-su-rotacion-de-abridores-para-los-proximos-encuentros/"
+  ]
+ },
+ {
+  "eid": "sr:match:72348096",
+  "fx": "Estrellas Orientales v Tigres Del Licey",
+  "sport": "baseball",
+  "absences": "starting pitchers not found for Nov 25",
+  "context": "LIDOM regular season. Licey off Thursday, then hosts Gigantes Friday 27th (Vladimir Gutierrez) per Licey rotation note.",
+  "news": "no news found (no confirmed starters for Nov 25)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "MLB-style ML needs a confirmed starter mismatch at p>=0.65; none confirmed. Run-line only +-1.5 on board (banned/too narrow).",
+  "confidence": 0.1,
+  "sources": [
+   "https://noticiassin.com/deportes/beisbol/2026/11/17/licey-anuncia-su-rotacion-abridora-para-cinco-juegos-clave-2171490",
+   "https://cdndeportes.com.do/gigantes-del-cibao-presentan-su-rotacion-de-abridores-para-los-proximos-encuentros/"
+  ]
+ },
+ {
+  "eid": "sr:match:74009816",
+  "fx": "Mayos de Navojoa v Tomateros de Culiacan",
+  "sport": "baseball",
+  "absences": "starters not found",
+  "context": "LMP second half (segunda vuelta) began; Navojoa last (9-26), Culiacan 19-16. Culiacan beat Navojoa 7-4 in the series game on Nov 24.",
+  "news": "Navojoa bottom of LMP; Culiacan won the previous game of the series 7-4.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Culiacan ML (1.38, p 0.69) is the obvious lean but no confirmed starter mismatch -> not picked under the MLB ML rule.",
+  "confidence": 0.15,
+  "sources": [
+   "https://psn.si/lmp-juegos-posiciones-rm-114/2026/11/25/",
+   "https://vallarta.meridiano.mx/2026/11/24/hermosillo-se-lleva-los-diez-puntos-y-charros-apenas-cinco-comienza-otra-batalla-en-el-pacifico"
+  ]
+ },
+ {
+  "eid": "sr:match:73697028",
+  "fx": "Charlotte Hornets v Chicago Bulls",
+  "sport": "basketball",
+  "absences": "CHA: Kon Knueppel OUT, Dennis Schroder OUT (hamstrings), Ryan Kalkbrenner doubtful/day-to-day (hip), Grayson Allen questionable (concussion), Sion James probable. CHI: Norman Powell OUT (hamstring), Caleb Wilson OUT (hand), Jalen Smith questionable (illness).",
+  "context": "NBA Cup group game, 7pm ET. Charlotte 1-4 at home in last 5, struggling; injury lists conflict between sources.",
+  "news": "Hornets heavily depleted (Knueppel, Schroder out; Kalkbrenner doubtful); Bulls without Powell and Wilson.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-11.5",
+    "desc": "Away (+11.5)",
+    "odds": 1.31,
+    "p": 0.744529,
+    "why": "Charlotte missing two starters plus likely Kalkbrenner and 1-4 at home (avg -14); a 12+ home win is unlikely. Own p ~0.79."
+   }
+  ],
+  "avoid": "Hornets ML/spread (depleted home side).",
+  "confidence": 0.3,
+  "sources": [
+   "https://clutchpoints.com/nba/chicago-bulls/jalen-smith-bulls-hornets-nba-cup-injury-report",
+   "https://1049foxsports.iheart.com/content/2026-11-25-bulls-vs-hornets-injury-report-nov-25/",
+   "https://sports.yahoo.com/betting/articles/bulls-vs-hornets-prediction-pick-135140816.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75756134",
+  "fx": "Centenario de Venado Tuerto v La Union Colon Entre Rios",
+  "sport": "basketball",
+  "absences": "no named absences found",
+  "context": "Liga Argentina Conferencia Sur, Estadio Mateo Migliore, 21:30 local (00:30 UTC) - consistent. Centenario 5-4 (lost last v Central Entrerriano); La Union 2-6, lost 87-72 at Pico FC, 2nd-last in zone.",
+  "news": "Kick-off/venue consistent; La Union winless away (0-5 in allform) and 2-6 overall.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.782764,
+    "why": "La Union 0-5 away (avg -16) and 2-6 overall v a 5-4 Centenario at home. Own p ~0.79 (Centenario only 3-4 at home keeps it close to house)."
+   }
+  ],
+  "avoid": "Centenario -7.5 or larger (home form mixed).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.laliganacional.com.ar/laligaargentina/noticia/53875/triple-tanda-para-el-miercoles-de-liga-argentina",
+   "https://www.unoentrerios.com.ar/ovacion/liga-argentina-la-union-colon-tropezo-la-pampa-n10293848.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73697058",
+  "fx": "New York Knicks v Cleveland Cavaliers",
+  "sport": "basketball",
+  "absences": "NYK: OG Anunoby OUT (calf), Jordan Clarkson OUT (plantar fasciitis), Miles McBride OUT (adductor), Jalen Brunson questionable (illness); Towns, Hart probable. CLE: Evan Mobley OUT (toe), Nae'Qwan Tomlin OUT (back).",
+  "context": "NBA Cup group game at MSG 7:30pm ET. Knicks 4-1 at home (avg +12); Cavs 1-3 away.",
+  "news": "Brunson questionable (illness); Knicks without Anunoby/Clarkson/McBride; Cavs without Mobley.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=8.5",
+    "desc": "Home (+8.5)",
+    "odds": 1.3,
+    "p": 0.746897,
+    "why": "Knicks 4-1 at home and Cavs 1-3 away, Cleveland without Mobley; Knicks lose by 9+ only in a blowout. Own p ~0.78 (risk: Brunson scratch)."
+   }
+  ],
+  "avoid": "Knicks ML (Brunson doubt); totals.",
+  "confidence": 0.25,
+  "sources": [
+   "https://cavaliersnation.com/2026/11/25/jalen-brunson-questionable-as-knicks-release-full-injury-report-vs-cavs/",
+   "https://cavaliersnation.com/2026/11/24/cavs-release-full-injury-report-ahead-of-nba-cup-game-vs-knicks/",
+   "https://clutchpoints.com/nba/new-york-knicks/knicks-news-karl-anthony-towns-og-anunoby-josh-hart-nba-cup-injury-report-cavs"
+  ]
+ },
+ {
+  "eid": "sr:match:73697056",
+  "fx": "Oklahoma City Thunder v Minnesota Timberwolves",
+  "sport": "basketball",
+  "absences": "OKC: Chet Holmgren, Jalen Williams, Cason Wallace, Thomas Sorber OUT; Mara/Jaylin Williams/Topic conflicting (out vs day-to-day); Caruso day-to-day (hip). MIN: Anthony Edwards OUT (knee arthroscopy), Donte DiVincenzo OUT (Achilles), Jaylen Clark OUT.",
+  "context": "NBA Cup group game, Paycom Center 7:30pm ET. MIN 13-5, OKC 10-8. SGA available (38 pts Monday).",
+  "news": "10 players out between both sides; Edwards out for MIN; OKC missing Chet and J-Dub.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip with heavy absences on both sides and conflicting OKC lists - no pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://clutchpoints.com/nba/nba-stories/timberwolves-thunder-nba-cup-injury-report-10-players",
+   "https://mykfan.iheart.com/content/2026-11-25-timberwolves-vs-thunder-injury-report-nov-25/"
+  ]
+ },
+ {
+  "eid": "sr:match:71492556",
+  "fx": "Los Angeles Rams v Green Bay Packers",
+  "sport": "american football",
+  "absences": "LAR: TE Terrance Ferguson OUT (IR), OL Steve Avila and Coleman Shelton OUT, Puka Nacua and Davante Adams on IR; Myles Garrett cleared, Kobie Turner returns. GB: eight questionable incl. Josh Jacobs (finger), Micah Parsons (knee, expected to play), Zaire Franklin, Sean Rhyan, Kevin Zeitler.",
+  "context": "NFL Week 12, Wednesday Thanksgiving Eve game at SoFi Stadium (date confirmed by multiple sources).",
+  "news": "Rams without top two WRs and two OL starters; Parsons expected back for GB.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rams -2.5 (receiving corps and OL depleted); no qualifying mechanism for a pick.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sports.yahoo.com/articles/rams-packers-injury-report-la-193248291.html",
+   "https://www.si.com/nfl/packers/onsi/packers-rams-final-injury-report-one-interesting-questionable-for-showdown",
+   "https://www.sportsbettingdime.com/news/nfl/packers-vs-rams-injury-reports-will-micah-parsons-josh-jacobs-play-on-wednesday/"
+  ]
+ },
+ {
+  "eid": "sr:match:73697032",
+  "fx": "Memphis Grizzlies v LA Clippers",
+  "sport": "basketball",
+  "absences": "MEM: Cameron Boozer OUT (ankle, month), Jerami Grant OUT (calf), Scotty Pippen Jr OUT (back), GG Jackson OUT (foot), Richie Saunders OUT (knee). LAC: Bradley Beal OUT (knee), Jordan Miller OUT; Brandon Ingram RETURNS (Achilles). Beatline lists extra MEM outs (Allen, Knueppel, Schroder) - conflicts, likely wrong team.",
+  "context": "NBA Cup group game, FedExForum 8pm ET. Memphis 13-5; Clippers 4-12 and 0-4 away (avg -14).",
+  "news": "Memphis missing five incl. Boozer and Grant; Clippers skidding but get Ingram back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=4.5",
+    "desc": "Home (+4.5)",
+    "odds": 1.22,
+    "p": 0.803249,
+    "why": "Clippers 0-4 away (avg -14) and 4-12 without Beal; Memphis at home lose by 5+ only if Ingram's return transforms LAC. Own p ~0.81."
+   }
+  ],
+  "avoid": "Memphis -7.5 (five absences, Ingram return).",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportssd.iheart.com/content/2026-11-25-clippers-vs-grizzlies-injury-report-nov-25/",
+   "https://www.640wxsm.com/2026/11/24/surging-grizzlies-deal-with-key-injuries-as-skidding-clippers-await/",
+   "https://www.squawka.com/ca/news/nba/clippers-vs-grizzlies-prediction-team-news/"
+  ]
+ },
+ {
+  "eid": "sr:match:73697030",
+  "fx": "Milwaukee Bucks v Brooklyn Nets",
+  "sport": "basketball",
+  "absences": "BKN: Nolan Traore OUT (hamstring, 8-10 wks); G League assignees out. MIL: healthy per most previews (ESPN lists Ousmane Dieng out - conflict). Grant Nelson questionable per ESPN only.",
+  "context": "NBA Cup group game, Fiserv Forum 8pm ET. Bucks 2-16, Nets 3-13 (5-game losing streak); previews cite the two worst defences.",
+  "news": "Both teams near the bottom; Bucks won 116-111 at Toronto Monday; Nets on a five-game skid.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "225",
+    "spec": "total=220.5",
+    "desc": "Over 220.5",
+    "odds": 1.24,
+    "p": 0.7830354868,
+    "why": "Two of the league's worst defences: MIL concede 119.6 at home, BKN 123.2 away; recent combined totals mostly 225+. Own p ~0.80."
+   }
+  ],
+  "avoid": "Sides (two bad teams, coin-flip).",
+  "confidence": 0.3,
+  "sources": [
+   "https://foxsports1070.iheart.com/content/2026-11-25-nets-vs-bucks-injury-report-nov-25/",
+   "https://www.netsdaily.com/nets-game-previews/116588/nets-bucks-preview-brooklyn-losing-streak-mikel-brown-jr",
+   "https://www.brewhoop.com/bucks-game-previews/82449/milwaukee-vs-brooklyn-nets-game-preview-discussion-start-time-tv-schedule-injury-report"
+  ]
+ },
+ {
+  "eid": "sr:match:73697034",
+  "fx": "Houston Rockets v Phoenix Suns",
+  "sport": "basketball",
+  "absences": "PHX: Mark Williams OUT (shoulder); Ryan Dunn off report. HOU: only two-way players listed; Clint Capela back after 10 games (ankle).",
+  "context": "NBA Cup group game, Toyota Center 8:30pm ET. Rockets 4-1 at home; Suns 'surging', 4-0 away in allform.",
+  "news": "Rockets essentially healthy with Capela back; Suns without Mark Williams.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.779153,
+    "why": "Houston at full strength with Capela back v a Suns frontcourt missing Mark Williams; Rockets 4-1 at home. Own p ~0.76 (Suns 4-0 away is the risk)."
+   }
+  ],
+  "avoid": "Rockets -9.5 (Suns strong away).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.si.com/nba/suns/onsi/phoenix-suns-get-good-news-injury-report-houston-rockets",
+   "https://foxsports1450.iheart.com/content/2026-11-25-suns-vs-rockets-injury-report-nov-25/",
+   "https://nba.com/suns/news/11-25-2026-suns-vs-rockets-game-preview"
+  ]
+ },
+ {
+  "eid": "sr:match:74009814",
+  "fx": "Caneros De Los Mochis v Algodonerose Guasave",
+  "sport": "baseball",
+  "absences": "starters not found",
+  "context": "LMP 2nd half. Guasave 19-13 (2nd), Los Mochis 19-16; Guasave beat Los Mochis 4-2 in previous game (Nov 24).",
+  "news": "Guasave won series opener 4-2.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No starter info; only ML at 0.50.",
+  "confidence": 0.1,
+  "sources": [
+   "https://psn.si/lmp-juegos-posiciones-rm-114/2026/11/25/",
+   "https://vallarta.meridiano.mx/2026/11/24/hermosillo-se-lleva-los-diez-puntos-y-charros-apenas-cinco-comienza-otra-batalla-en-el-pacifico"
+  ]
+ },
+ {
+  "eid": "sr:match:74009812",
+  "fx": "Jaguares de Nayarit v Naranjeros de Hermosillo",
+  "sport": "baseball",
+  "absences": "starters not found",
+  "context": "LMP 2nd half. Hermosillo 21-14 (1st), Nayarit near bottom; Hermosillo won 10-2 v Nayarit on Nov 24.",
+  "news": "Hermosillo blew out Nayarit 10-2 in game 1 of the series.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hermosillo ML p 0.56 < 0.65, no starter confirmed (game-1 blowout prior favours Hermosillo).",
+  "confidence": 0.1,
+  "sources": [
+   "https://psn.si/lmp-juegos-posiciones-rm-114/2026/11/25/",
+   "https://vallarta.meridiano.mx/2026/11/24/hermosillo-se-lleva-los-diez-puntos-y-charros-apenas-cinco-comienza-otra-batalla-en-el-pacifico"
+  ]
+ },
+ {
+  "eid": "sr:match:74009810",
+  "fx": "Venados de Mazatlan v Yaquis de Obregon",
+  "sport": "baseball",
+  "absences": "starters not found",
+  "context": "LMP 2nd half. Obregon beat Mazatlan 7-1 in Mazatlan on Nov 24; Mazatlan 2-5 at home in allform.",
+  "news": "Yaquis won game 1 7-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Obregon ML p 0.54, no starter confirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://psn.si/lmp-juegos-posiciones-rm-114/2026/11/25/",
+   "https://vallarta.meridiano.mx/2026/11/24/hermosillo-se-lleva-los-diez-puntos-y-charros-apenas-cinco-comienza-otra-batalla-en-el-pacifico"
+  ]
+ },
+ {
+  "eid": "sr:match:73697038",
+  "fx": "Golden State Warriors v Sacramento Kings",
+  "sport": "basketball",
+  "absences": "GSW: Stephen Curry OUT (oblique, 6th straight game), Jimmy Butler OUT, Moses Moody OUT, Kristaps Porzingis OUT (not with team); Yaxel Lendeborg (illness) and Brandon Williams (hamstring) questionable. SAC: Ben Simmons OUT (season), Maxime Raynaud OUT (knee).",
+  "context": "NBA Cup group game, Chase Center 7pm PT. Warriors lost 5 of last 6 (four by 20+, away); 5-0 at home.",
+  "news": "Warriors without Curry, Butler, Porzingis and Moody; Kings without Simmons and Raynaud.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-14.5",
+    "desc": "Away (+14.5)",
+    "odds": 1.36,
+    "p": 0.71819,
+    "why": "Warriors missing their top scorers (Curry, Butler, Porzingis) yet priced -7.5; a 15+ win from this depleted roster is unlikely. Own p ~0.78. Kings are weak, so line kept below 15."
+   }
+  ],
+  "avoid": "Warriors spread/ML; Kings 15+ catches (weak receiver rule).",
+  "confidence": 0.25,
+  "sources": [
+   "https://heavy.com/sports/nba/golden-state-warriors/injury-report-vs-kings-november-25/",
+   "https://sports.iheart.com/content/2026-11-25-kings-vs-warriors-injury-report-nov-25/",
+   "https://www.si.com/nba/kings/onsi/kings-get-favorable-news-vs-warriors-with-star-studded-injury-report"
+  ]
+ },
+ {
+  "eid": "sr:match:73697036",
+  "fx": "Portland Trail Blazers v San Antonio Spurs",
+  "sport": "basketball",
+  "absences": "SAS: Victor Wembanyama questionable (low back), De'Aaron Fox questionable (shin; one source says out), Dylan Harper OUT, Tobias Harris OUT, Jayden Quaintance OUT. POR: Ja Morant OUT (hamstring), Shaedon Sharpe OUT, Vit Krejci OUT, Chris Youngblood OUT.",
+  "context": "NBA Cup group game, Portland. Spurs 6-0 away in allform; Wemby and Fox missed Monday's win v SAC.",
+  "news": "Wembanyama and Fox both questionable (Fox listed out by one source); Blazers without Morant and Sharpe.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything until Wembanyama/Fox status is confirmed - star availability swings the line.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.blazersedge.com/trail-blazers-injury-report/118872/portland-trail-blazers-san-antonio-spurs-nba-injury-report-ja-morant-victor-wembanyama-dylan-harper-deaaron-fox-nba-news",
+   "https://bytewire.news/spurs-at-trail-blazers-wembanyama-questionable-fox-out-for-nba-cup-game/",
+   "https://airalamo.com/spurs-vs-trail-blazers-injury-report-wembanyama-and-fox-s-status-plus-why-portland-wants-this-one"
+  ]
+ },
+ {
+  "eid": "sr:match:74009818",
+  "fx": "Aguilas de Mexicali v Charros de Jalisco",
+  "sport": "baseball",
+  "absences": "starters not found",
+  "context": "LMP 2nd half. Mexicali 20-15 (3rd); Charros beat Aguilas 3-1 on Nov 24.",
+  "news": "Charros won game 1 3-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No starter info; ML 0.53.",
+  "confidence": 0.1,
+  "sources": [
+   "https://psn.si/lmp-juegos-posiciones-rm-114/2026/11/25/",
+   "https://vallarta.meridiano.mx/2026/11/24/hermosillo-se-lleva-los-diez-puntos-y-charros-apenas-cinco-comienza-otra-batalla-en-el-pacifico"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114416856",
+  "fx": "Fiji v Hong Kong",
+  "sport": "basketball",
+  "absences": "no named absences found",
+  "context": "FIBA Asia Cup 2029 Pre-Qualifiers Round 2 in Ulaanbaatar, Mongolia (cold/altitude). Fiji advanced by beating Vietnam in Round 1.",
+  "news": "Kick-off time conflicts across sources (Fiji Village 5pm local, FIBA 05:00, GSA 06:00/09:00); board prices look broken (Fiji 1X2 13.0 with p 0.001, Hong Kong -35.5 v a side that beat Vietnam).",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources and implausible house line (HK -35.5; 1X2 p 0.001); no Sportradar form data.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fijivillage.com/news/we-are-not-going-to-mongolia-to-make-up-the-numbers-puamau-5ddde2/",
+   "https://www.fbcnews.com.fj/sports/basketball/basketball-fiji-battles-extreme-cold-ahead-of-second-round-qualifiers/",
+   "https://www.fiba.basketball/en/events/fiba-asia-cup-2029-pre-qualifiers"
+  ]
+ }
+]

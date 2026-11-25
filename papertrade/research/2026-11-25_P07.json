@@ -1,0 +1,451 @@
+[
+ {
+  "eid": "sr:match:77028606",
+  "fx": "Unan Managua v HYH Sebaco FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Nicaragua Liga Primera Apertura 2026 late regular season; UNAN 4th (~25 pts) per 365Scores table, HYH Sebaco mid/low table. Thin league.",
+  "news": "no news found; Nov 25 fixture date not independently confirmed by any source (no conflict found either)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: thin league, no team news, house p 0.51 away is a coin flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/es/football/league/primera-division-6108/standings",
+   "https://www.laprensani.com/2026/10/07/deportes/3795712-tabla-posiciones-liga-primera-nicaragua",
+   "https://www.flashscore.es/futbol/nicaragua/liga-primera/partidos/"
+  ]
+ },
+ {
+  "eid": "sr:match:72162198",
+  "fx": "Maine Mariners v Worcester Railers",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "ECHL regular season, Worcester at Maine, Cross Insurance Arena 6:00 PM ET (=23:00 UTC, matches board).",
+  "news": "Opponent conflict: Mariners/Cross Arena event page lists Maine v Wheeling on Nov 25 6 PM, ECHL lists Worcester; Wheeling is at home v Indy that night, so arena page is likely wrong.",
+  "veto": true,
+  "veto_reason": "Source conflict on the Nov 25 opponent (arena page says Wheeling, ECHL says Worcester).",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://echl.com/games/2026/11/25/maine-mariners-vs-worcester-railers",
+   "https://www.crossarenaportland.com/events/maine-mariners"
+  ]
+ },
+ {
+  "eid": "sr:match:72181048",
+  "fx": "Brantford Bulldogs v Sudbury Wolves",
+  "sport": "ice hockey",
+  "absences": "no OHL injury news found",
+  "context": "OHL regular season. Brantford 6-4 last 10, Sudbury 5-5 with poor road form. Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "no news found (searched OHL Nov 25 previews; nothing team-specific)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result/handicap markets (youth rule); totals near 50/50.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hockeyupdates.substack.com/p/november-25-2026-hockey-updates"
+  ]
+ },
+ {
+  "eid": "sr:match:72181050",
+  "fx": "Erie Otters v London Knights",
+  "sport": "ice hockey",
+  "absences": "no OHL injury news found",
+  "context": "OHL regular season. Erie 6-4 last 10; London 3-7 last 10, 1-5 on road - unusually weak London. Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "no news found (searched OHL Nov 25 previews; nothing team-specific)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result/handicap markets (youth rule); totals near 50/50.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hockeyupdates.substack.com/p/november-25-2026-hockey-updates"
+  ]
+ },
+ {
+  "eid": "sr:match:72181052",
+  "fx": "Flint Firebirds v Saginaw Spirit",
+  "sport": "ice hockey",
+  "absences": "no OHL injury news found",
+  "context": "OHL regular season. Flint 5-5; Saginaw 3-7 and 0-4 away. Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "no news found (searched OHL Nov 25 previews; nothing team-specific)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result/handicap markets (youth rule); totals near 50/50.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hockeyupdates.substack.com/p/november-25-2026-hockey-updates"
+  ]
+ },
+ {
+  "eid": "sr:match:72182932",
+  "fx": "Drummondville Voltigeurs v Shawinigan Cataractes",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "QMJHL regular season. Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "Venue conflict: sync2cal schedule lists the game as Shawinigan hosting Drummondville at Centre Marcel Dionne; board has Drummondville at home.",
+  "veto": true,
+  "veto_reason": "Home/away (venue) conflict between schedule source and board.",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eliteprospects.com/team/4586/charlottetown-islanders/schedule",
+   "https://www.sync2cal.com/sports/hockey/qmjhl/all-qmjhl-games"
+  ]
+ },
+ {
+  "eid": "sr:match:72182934",
+  "fx": "Sherbrooke Phoenix v Charlottetown Islanders",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "QMJHL regular season, 7 PM ET (=00:00 UTC). Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "Venue/home-side conflict: EliteProspects lists Sherbrooke at Charlottetown on Charlottetown's schedule, sync2cal places it at Sherbrooke's Palais des Sports Leopold-Drolet; Charlottetown hosts Gatineau the next night.",
+  "veto": true,
+  "veto_reason": "Home/away (venue) conflict between sources.",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eliteprospects.com/team/4586/charlottetown-islanders/schedule",
+   "https://www.sync2cal.com/sports/hockey/qmjhl/all-qmjhl-games"
+  ]
+ },
+ {
+  "eid": "sr:match:72909614",
+  "fx": "Boston Bruins v Winnipeg Jets",
+  "sport": "ice hockey",
+  "absences": "BOS: James Hagens (C, back) out/doubtful since Nov 5. WPG IR: Namestnikov (LB, back ~Nov 28), Isak Rosen (back ~Nov 27), Dylan DeMelo (LB, to ~Dec 26), Nick Bjugstad (pectoral, to March).",
+  "context": "NHL regular season, TD Garden 7 PM ET. Boston 15-7-1, on a 2-game win streak; Winnipeg 12-9-4, first game of a 3-game road trip (then NYI, NJD), rested (beat Utah 4-2 Monday). Not a back-to-back. Swayman expected for BOS; WPG starter unconfirmed (Daws vs Skinner).",
+  "news": "Swayman to start for Boston; Jets without DeMelo and Bjugstad; Jets goalie unconfirmed; Boston -163.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.29,
+    "p": 0.751403,
+    "why": "Both teams scoring heavily: WPG last 10 GF 4.5/GA 3.0, BOS 3.4/3.3 (last-10 avg combined ~7 goals); Jets missing top-4 D DeMelo, backup-type goalie possibly in net. Regulation Over 4.5 own p ~0.78 vs house 0.75."
+   }
+  ],
+  "avoid": "Bruins ML (Jets 8-2 last 10, 3-0 away); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bostonglobe.com/2026/11/25/sports/bruins-jets-preview-november-25-tv-lines/",
+   "https://www.cbssports.com/nhl/gametracker/NHL_20261125_WPG@BOS/",
+   "https://sports.yahoo.com/nhl/articles/line-combinations-jets-bruins-174954857.html",
+   "https://www.squawka.com/ca/news/nhl/bruins-vs-jets-prediction-team-news-25-november/",
+   "https://www.covers.com/sport/hockey/nhl/matchup/382665"
+  ]
+ },
+ {
+  "eid": "sr:match:72181054",
+  "fx": "Windsor Spitfires v Kitchener Rangers",
+  "sport": "ice hockey",
+  "absences": "no OHL injury news found",
+  "context": "OHL regular season, top-of-table type clash: Windsor 8-2 (4-0 home), Kitchener 9-1 (5-0 away). Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "no news found (searched OHL Nov 25 previews; nothing team-specific)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result/handicap markets (youth rule); totals near 50/50.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hockeyupdates.substack.com/p/november-25-2026-hockey-updates"
+  ]
+ },
+ {
+  "eid": "sr:match:72162212",
+  "fx": "Wheeling Nailers v Indy Fuel",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "ECHL regular season, WesBanco Arena 7:10 PM ET (=00:10 UTC, matches). Wheeling beat Indy 5-2 on Nov 14; Indy 44 GF / 63 GA season (weak defence). Wheeling 0-3 at home in last 10 per data.",
+  "news": "no team news found; fixture confirmed by both teams' schedules",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Integer Over 6 (banned); ML near coin flip.",
+  "confidence": 0.12,
+  "sources": [
+   "https://echl.com/games/2026/11/25/wheeling-nailers-vs-indy-fuel",
+   "https://www.oursportscentral.com/services/schedule/wheeling-nailers/t-235",
+   "https://echl.com/teams/indy-fuel"
+  ]
+ },
+ {
+  "eid": "sr:match:77108994",
+  "fx": "Deportivo Toluca FC v Atlas FC",
+  "sport": "football",
+  "absences": "Toluca: GK Hugo Gonzalez suspended (red card).",
+  "context": "Liga MX Apertura 2026 Liguilla quarter-final FIRST LEG (two-legged knockout) at Nemesio Diez, Wed 19:00 CDMX (=01:00 UTC, matches). Toluca 5th, Atlas 4th: aggregate draw sends Atlas through. Coach Antonio Mohamed confirmed leaving Toluca after the Liguilla/Intercontinental Cup. Toluca 1W in last 10 (5D).",
+  "news": "Toluca without suspended GK Hugo Gonzalez; Mohamed's exit announced; Atlas advance on aggregate tie.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.5,
+    "p": 0.639315,
+    "why": "Toluca's first-choice GK suspended; Atlas away games 5 of last 6 over 2.5 (3-3, 1-4, 4-3, 2-5); Liga MX ~2.9 goals/game. Own p ~0.65 vs house 0.64 - thin edge, fill only."
+   }
+  ],
+  "avoid": "Any result-side/handicap (knockout first leg; Toluca form 1W/10 makes the 0.67 home price fragile).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eluniversal.com.mx/deportes/toluca-vs-atlas-horario-y-canales-para-ver-en-vivo-la-liguilla-de-la-liga-mx-este-miercoles-25-de-noviembre/",
+   "https://eltiempomx.com/noticia/2026/toluca-fc-vs-atlas-arranca-la-liguilla-del-apertura-2026.html",
+   "https://www.palcoquintanarroense.com.mx/toluca-vs-atlas-previa-cuartos-de-final-ida-liguilla-apertura-2026/",
+   "https://digitalmex.mx/deportes/story/72806/toluca-atlas-numeros-contrastantes-cuartos-final-apertura-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:77028608",
+  "fx": "Managua FC v CD Walter Ferretti",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Nicaragua Liga Primera Apertura 2026: Managua FC 1st (41 pts/16), Walter Ferretti 5th (21). Managua 8-1-1 last 10, 3-1-0 home; Ferretti 2-2-0 away. Thin league.",
+  "news": "no news found; date not independently confirmed (no conflict found)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.38,
+    "p": 0.6835269276,
+    "why": "League leader (8W in 10, GA 0.9) at home v 5th; DNB removes the draw. Own p ~0.70 vs house 0.684. Statistics-based only (no named mechanism) -> fill at best."
+   }
+  ],
+  "avoid": "Overs (thin league); 1X2 home at 1.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/es/football/league/primera-division-6108/standings",
+   "https://www.laprensani.com/2026/10/07/deportes/3795712-tabla-posiciones-liga-primera-nicaragua",
+   "https://www.flashscore.es/futbol/nicaragua/liga-primera/partidos/"
+  ]
+ },
+ {
+  "eid": "sr:match:77028610",
+  "fx": "Real Esteli FC v Rancho Santana FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Nicaragua Liga Primera Apertura 2026: Real Esteli ~3rd (31 pts), Rancho Santana bottom (6 pts at matchday 14). Esteli wins narrowly (1-0, 2-1, 2-1 recently): trend for -1.5 only 25%.",
+  "news": "no news found; coaching change at Rancho Santana noted on Wikipedia (undated); date not independently confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Esteli -1.5/-2.5 (narrow-margin profile); Over 2.5 at p 0.73 (trend 45%).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/es/football/league/primera-division-6108/standings",
+   "https://www.laprensani.com/2026/10/07/deportes/3795712-tabla-posiciones-liga-primera-nicaragua",
+   "https://www.flashscore.es/futbol/nicaragua/liga-primera/partidos/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liga_Primera"
+  ]
+ },
+ {
+  "eid": "sr:match:76959304",
+  "fx": "Udelas FC v Chorrillo FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Panama Liga Prom FINAL (knockout) at COS Sports Plaza; Udelas finished 2nd; Chorrillo strong attack (both 8W in last 10).",
+  "news": "Kick-off conflict: 365Scores league page 01:00, Chorrillo page and Betmaster 00:15.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (01:00 vs 00:15) in a one-off final.",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/football/league/liga-prom-8124",
+   "https://www.365scores.com/football/team/fc-chorrillo-85971",
+   "https://betmaster.com.mx/es-mx/sportsbook/sports/soccer/match/5844090"
+  ]
+ },
+ {
+  "eid": "sr:match:72712590",
+  "fx": "Calgary Hitmen v Red Deer Rebels",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL: Calgary (13-8-1-1) hosts Red Deer (15-5-1-2), last game of a 3-game homestand. Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "Hitmen preview gives 7:00 PM at Scotiabank Saddledome = 02:00 UTC (Alberta MST), board says 01:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: official preview 7 PM MST (02:00 UTC) vs board 01:00 UTC.",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-hitmen/article/gme-preview-calgary-vs-red-deer-11-25-26"
+  ]
+ },
+ {
+  "eid": "sr:match:72712594",
+  "fx": "Edmonton Oil Kings v Saskatoon Blades",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL: Oil Kings open a 6-game homestand (first home game since Nov 8) v Saskatoon, who won in OT v Medicine Hat on Sunday. Both teams poor (4-6, 3-7). Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "no injury news; preview gives no start time (Alberta 7 PM would be 02:00 UTC vs board 01:00 - unverified)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result markets (youth); start time unverified.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.oursportscentral.com/services/releases/oil-kings-open-homestand-against-blades/n-6427086"
+  ]
+ },
+ {
+  "eid": "sr:match:72712592",
+  "fx": "Lethbridge Hurricanes v Brandon Wheat Kings",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL: Lethbridge second game of 3-game homestand v Brandon. Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "Hurricanes' own release: puck drop 7:00 PM (MST = 02:00 UTC) vs board 01:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: team release 7 PM MST (02:00 UTC) vs board 01:00 UTC.",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-hurricanes/article/canes-chatter-november-23rd-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72712588",
+  "fx": "Moose Jaw Warriors v Swift Current Broncos",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL: Moose Jaw v Swift Current (Saskatchewan, 7 PM CST = 01:00 UTC would match). Both 4-6 last 10, leaky defences. Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "no news found (only a teaser headline for the matchup)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result markets (youth).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:77113822",
+  "fx": "Inter Santa Tecla v CD Aguila San Miguel",
+  "sport": "football",
+  "absences": "none found",
+  "context": "El Salvador Primera Division Apertura 2026 (likely playoff stage); Inter 5th with 31 pts from 21.",
+  "news": "Date conflict: OneFootball lists Inter Santa Tecla v Aguila on Thursday 26 Nov 16:00, board has 26 Nov 02:00 UTC (Wed evening local); a return Aguila v Inter is listed for Sun 29th.",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict (OneFootball Thu 16:00 vs board 02:00 UTC); possible two-legged knockout.",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://onefootball.com/en/match/2740493",
+   "https://onefootball.com/en/match/2740495",
+   "https://www.fotmob.com/teams/1783449/overview/inter-santa-tecla"
+  ]
+ },
+ {
+  "eid": "sr:match:76410088",
+  "fx": "CSD Municipal v Aurora FC",
+  "sport": "football",
+  "absences": "Municipal: Nicolas Samayoa and Pedro Altan suspended (red cards v Antigua GFC). Aurora: no suspensions.",
+  "context": "Guatemala Liga Nacional Apertura 2026, rescheduled Jornada 19 (moved from Nov 7 for Municipal's national-team call-ups), El Trebol 20:00 local (=02:00 UTC; ESPN's 9 PM is ET, consistent). Municipal 4th, 34 pts, already qualified; Aurora 25 pts, must win to keep playoff hopes. Municipal very low scoring (last 10 GF 0.8, GA 0.8; 2W 5D).",
+  "news": "Municipal without suspended Samayoa and Altan, already qualified; Aurora need a win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Municipal 1X2/-0.5 at p 0.735 (fragile: two suspensions, 2W in 10, qualified v must-win opponent); Under 4.5 p 0.81 just below 0.82 gate; Over 1.5 (low-scoring league/team).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.prensalibre.com/deportes/futbol-nacional/municipal-recibira-a-aurora-en-un-duelo-clave-los-rojos-buscan-acercarse-a-semis-y-los-aurinegros-pelean-por-la-liguilla/",
+   "https://emisorasunidas.com/deportes/2026/11/04/liga-nacional-oficializa-reprogramacion-municipal-vs-aurora/",
+   "https://www.futbolquetzal.com/municipal-vs-aurora-en-vivo-jornada-19-apertura-2026.html",
+   "https://www.espn.com/soccer/team/fixtures/_/id/7258/league/gua.1/municipal"
+  ]
+ },
+ {
+  "eid": "sr:match:72712596",
+  "fx": "Victoria Royals v Regina Pats",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL: Victoria (7-3 last 10) v Regina (6-4); 6:05 PM PT = 02:05 UTC plausible. Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result markets (youth).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72712602",
+  "fx": "Everett Silvertips v Vancouver Giants",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL: Everett v Vancouver (US Division). Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result markets (youth).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72712598",
+  "fx": "Seattle Thunderbirds v Tri-City Americans",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL: third of eight Seattle-Tri-City meetings; Tri-City won the Nov 13 meeting (Xavier Wendt 29-save shutout) and is coming off a 4-3 OT win at Victoria after leading 3-0. Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "Tri-City preview confirms Nov 25 at Seattle; Wendt in form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result markets (youth).",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-americans/article/preview-americans-thunderbirds-november-25-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72712600",
+  "fx": "Spokane Chiefs v Kelowna Rockets",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "WHL: Spokane (6-4) v Kelowna (5-5). Junior (CHL) hockey: players aged 16-20, treated as youth -> no result/handicap picks; goals only in clear mismatches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result markets (youth).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:77108992",
+  "fx": "CF Monterrey v CF America",
+  "sport": "football",
+  "absences": "America: Raphael Veiga (shoulder surgery), Victor Davila, Jose Raul Zuniga out; Henry Martin doubt (muscle); Brian Rodriguez conflicting reports (cleared to travel vs decided hours before). Monterrey: Carlos Salcedo suspended, Stefan Medina out, Uros Djurdjevic (ankle) out, GK Esteban Andrada doubt; Ricardo Chavez returns.",
+  "context": "Liga MX Apertura 2026 Liguilla quarter-final FIRST LEG, Estadio BBVA, Wed 21:10 CDMX (=03:10 UTC, matches); return Sat Nov 28 at Estadio Banorte. Big-club clash.",
+  "news": "Heavy absences on both sides; America without Veiga/Davila/Zuniga, Monterrey without Salcedo/Medina/Djurdjevic, Andrada doubtful.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (big-club knockout first leg); Under 3.5 p 0.72 (<0.82); Over 1.5 p 0.75 (big-club totals need 0.82).",
+  "confidence": 0.15,
+  "sources": [
+   "https://heraldodemexico.com.mx/deportes/2026/11/25/rayados-vs-america-hoy-posibles-alineaciones-y-donde-ver-los-cuartos-de-final-de-ida-en-liguilla-2923734.html",
+   "https://www.publimetro.com.mx/deportes/2026/11/24/rayados-vs-america-donde-y-a-que-hora-ver-en-vivo-la-ida-de-los-4tos-de-final-del-apertura-2026/",
+   "https://juanfutbol.com/liga-mx/america-arranca-la-liguilla-con-tres-bajas-y-una-incognita-para-la-ida-ante-rayados-de-monterrey-del-apertura-2026",
+   "https://juanfutbol.com/rayados-monterrey/rayados-de-monterrey-pierde-tres-piezas-y-duda-en-la-porteria-para-la-ida-ante-america-del-apertura-2026",
+   "https://americamonumental.bolavip.com/ligamx/los-jugadores-que-america-recuperara-para-los-cuartos-de-final-del-apertura-2026-ante-monterrey"
+  ]
+ }
+]
