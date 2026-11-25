@@ -1,0 +1,487 @@
+[
+ {
+  "eid": "sr:match:77082426",
+  "fx": "Fortaleza EC CE v Ceara SC CE",
+  "sport": "football",
+  "absences": "Both clubs field U20 squads (O Povo)",
+  "context": "Taca Fares Lopes quarter-final, single-leg knockout, Classico-Rei derby; winner gets 2027 Copa do Brasil slot. 19h BRT at Presidente Vargas matches 22:00 UTC.",
+  "news": "U20 squads in a one-off derby quarter-final; no named-player news.",
+  "veto": true,
+  "veto_reason": "Youth (U20) sides in a derby knockout: youth excluded, and no result-side in a derby or knockout",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.opovo.com.br/esportes/futebol/times/cearenses/2026/11/23/com-sub-20-ceara-e-fortaleza-fazem-ultimo-classico-rei-de-2026.html",
+   "https://boainformacao.com.br/2026/11/fortaleza-e-ceara-decidem-vaga-na-semifinal-da-taca-fares-lopes/"
+  ]
+ },
+ {
+  "eid": "sr:match:76845260",
+  "fx": "Real Potosi v Always Ready",
+  "sport": "football",
+  "absences": "None reported",
+  "context": "Copa Bolivia final 2nd leg. Always Ready won the 1st leg 3-1 in El Alto (Nov 18). Real Potosi must win by 2+ at Victor Agustin Ugarte (19:00 local = 23:00 UTC, matches). Both sides are altitude clubs, so altitude gives no edge. The winner gets Bolivia 3 in the Libertadores.",
+  "news": "Always Ready lead 3-1 from the 1st leg; Potosi must chase the game at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.58,
+    "p": 0.598777,
+    "why": "Settlement mechanism: Potosi need 2+ goals, so they must open up, leaving space for Always Ready (2.5 GF/10, 2.2 away) to counter. Potosi home games average 4.25 goals (5-5 recently). My p ~0.63"
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.24,
+    "p": 0.7689755398,
+    "why": "Always Ready to score: Potosi chasing a 2-goal deficit leaves gaps; AR scored in 5 of their last 6 and 3 in the 1st leg. My p ~0.80 (away team-to-score: keep out of a core)"
+   }
+  ],
+  "avoid": "Any result-side (2-leg knockout, settles on 90 min); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://diez.bo/futbol/real-potosi-o-always-ready-este-miercoles-se-define-al-campeon-de-la-copa-bolivia_1795612618",
+   "https://lapatria.bo/deportes/futbol/always-ready-golpea-primero-final-copa-bolivia/",
+   "https://www.vision360.bo/noticias/2026/11/25/78759-real-potosi-o-always-ready-uno-de-los-dos-se-coronara-campeon-del-torneo-seriado"
+  ]
+ },
+ {
+  "eid": "sr:match:66887188",
+  "fx": "Atletico Mineiro MG v SC Corinthians SP",
+  "sport": "football",
+  "absences": "Atletico-MG: Fred (suspended per one outlet), Alan Franco, Reinier, Minda, Maycon (muscle, doubt); Tomas Perez returns. Corinthians: Gabriel Paulista (MCL knee); Yuri Alberto and Andre Carrillo reported suspended by one source but Yuri listed in another XI (conflict); Andre and Garro return.",
+  "context": "Brasileirao round 36 at Arena MRV, 20h BRT (23:00 UTC, matches). Coaches Eduardo Dominguez and Clarence Seedorf. Atletico are in poor form (2W/10, 0.7 GF).",
+  "news": "Atletico missing several players; Corinthians squad news conflicts (Yuri Alberto suspended or not).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result-side; Unders below p 0.82; O1.5 not allowed (Serie A averages under 2.7 goals); Corinthians goals while the Yuri Alberto status is unclear",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.terra.com.br/esportes/atletico-mg-x-corinthians-onde-assistir-provaveis-escalacoes-desfalques-e-arbitragem,6a4c34326f1b80653d7814bd68a71851w7awfnpq.html",
+   "https://rede98.com.br/esportes/atletico/provavel-escalacao-atletico-corinthians-25-11/",
+   "https://centraldotimao.com.br/noticias/atletico-mg-x-corinthians-onde-assistir-desfalques-escalacoes-arbitragem-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:77117820",
+  "fx": "Universidad de El Salvador v CD Olimpico Litoral",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "El Salvador second tier. Olimpico Litoral qualified for the quarter-finals from the Centro Oriente group; the Liga de Ascenso quarter-finals start on a Wednesday. The fixture itself (likely a quarter-final leg) could not be confirmed.",
+  "news": "no news found (fixture not confirmed in any source)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: thin regional second tier, likely a knockout leg, no confirmation",
+  "confidence": 0.1,
+  "sources": [
+   "https://diarioelsalvador.com/dedeportes/definidos-los-cuartos-de-final-en-la-liga-de-ascenso/879581"
+  ]
+ },
+ {
+  "eid": "sr:match:76880486",
+  "fx": "Independiente Santa Fe v CD Once Caldas",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Liga BetPlay 2026-II cuadrangular A, matchday 2, 6:20pm COT (23:20 UTC, matches). Santa Fe lost 0-1 to Medellin on matchday 1 and are under must-win pressure at El Campin. Once Caldas drew 0-0 v Nacional. Once Caldas are unbeaten in 10 (5W5D).",
+  "news": "Santa Fe must respond after losing the opener; Once Caldas are unbeaten in 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.3,
+    "p": 0.7267859351,
+    "why": "Fill-grade only: must-win Santa Fe at altitude in Bogota (4W/5 at home, 4.0 GF). Once Caldas draw-prone (5D/10). My p ~0.73, equal to the house, so this is not an anchor"
+   }
+  ],
+  "avoid": "O1.5 (Colombian league is low-scoring); Unders below 0.82; Santa Fe -0.5 (Once Caldas unbeaten in 10)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lafm.com.co/deportes/cuadrangulares-liga-betplay-fechas-horarios-tv-fecha-2-418104",
+   "https://www.semana.com/deportes/articulo/cuadrangulares-de-la-liga-betplay-horarios-confirmados-para-las-fechas-1-y-2-de-los-grupos/202633/"
+  ]
+ },
+ {
+  "eid": "sr:match:74800558",
+  "fx": "Vanderbilt Commodores v Oregon State Beavers",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA women, neutral site (The Reef, Jacksonville FL). Vanderbilt (No. 12, 6-1) are ~21.5-point favourites. Tip time conflict: 6:30pm ET (23:30 UTC, matches the board) v 12pm ET in one BVM notice.",
+  "news": "Women's game; Vanderbilt are heavy favourites; previews disagree on the tip time.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bleachernation.com/picks/2026/11/24/vanderbilt-vs-oregon-state-womens-college-basketball-odds-and-prediction-nov-25/",
+   "https://bvmsports.com/2026/11/24/oregon-state-takes-on-12-vanderbilt-wednesday/"
+  ]
+ },
+ {
+  "eid": "sr:match:74149858",
+  "fx": "Texas Longhorns v Southeastern Louisiana Lions",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA women at Moody Center, 6:00pm CT (00:00 UTC, matches). Texas won last season’s meeting 120-38. The line is 59.5.",
+  "news": "Women's mismatch (line 59.5); no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://texaslonghorns.com/sports/womens-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:76711706",
+  "fx": "Boca Juniors v Independiente Rivadavia",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Torneo Clausura round of 16, single leg at La Bombonera, 21:00 ART (00:00 UTC; one outlet says 19:00). Boca just won the 2026 Copa Sudamericana (possible hangover/rotation). Rivadavia are the 7th seed in Zone B in poor form (0-5 recently). Winner meets Gimnasia LP.",
+  "news": "Boca host the out-of-form 7th seed Rivadavia in a one-off round of 16, days after winning the Sudamericana.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "2",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7781,
+    "why": "To Qualify (includes extra time and pens). Boca 8W1D1L last 10, 0.5 GA, at home v the 7th seed with 2.1 GA/10. Pens remove most of the draw risk. Hangover after the Sudamericana is the risk. My p ~0.79"
+   }
+  ],
+  "avoid": "1X2/AH result-sides (knockout settles on 90 min); O1.5 (Argentina is low-scoring); Unders below 0.82",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-boca-vs-independiente-rivadavia-por-los-octavos-de-final-del-torneo-clausura-2026-nid24112026/",
+   "https://www.benditofutbol.com/deportes/futbol/boca-cambia-chip-pone-mira-independiente-rivadavia/",
+   "https://www.archysport.com/2026/11/boca-juniors-hosts-independiente-rivadavia-in-torneo-clausura-round-of-16/"
+  ]
+ },
+ {
+  "eid": "sr:match:76966928",
+  "fx": "Barcelona SC v CSD Independiente del Valle",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Rescheduled LigaPro hexagonal matchday-1 game at the Monumental, 19:00 ECT (00:00 UTC; 365scores says 17:00, minority). IDV already clinched the 2026 title, so motivation is low beyond Ecuador 1 seeding, with rotation possible. Barcelona (6th, 52 pts) are chasing Ecuador 3 in a near must-win.",
+  "news": "Champions IDV, title clinched, visit a Barcelona side chasing a Libertadores spot.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.25,
+    "p": 0.7667893958,
+    "why": "Motivation asymmetry: IDV have clinched (rotation/dead-rubber risk) and Barcelona must win for Ecuador 3. Barcelona unbeaten in 4 home games (1W3D). Wins on draw or home win, void on a 1-goal loss. My p ~0.79"
+   }
+  ],
+  "avoid": "IDV side markets (clinched champion, rotation); Overs",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.teleamazonas.com/deportes/futbol/ligapro/barcelona-sc-vs-independiente-valle-juega-cotejo-diferido-ligapro-133992/",
+   "https://www.eluniverso.com/deportes/campeonato-ecuatoriano/cuando-a-que-hora-y-donde-ver-en-vivo-barcelona-sc-vs-independiente-del-valle-el-partido-pendiente-de-la-liga-pro-nota/"
+  ]
+ },
+ {
+  "eid": "sr:match:77113824",
+  "fx": "CD Platense Municipal Zacatecoluca v CD FAS Santa Ana",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Apertura 2026 Play-In 1st leg (two-legged; return leg Saturday). Diario El Salvador says Platense host FAS in San Salvador (not Zacatecoluca) at 7pm (01:00 UTC, matches). Platense in poor form (lost 1-2 to Balboa, 1W in last 6); FAS draw-heavy (6D/10).",
+  "news": "Play-In 1st leg; Platense are hosting in San Salvador and in poor form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.36,
+    "p": 0.681954,
+    "why": "DNB is allowed in a knockout. Platense have 1W in last 6 and are not at their usual ground (San Salvador). FAS draw-heavy, and the draw is void. My p ~0.69"
+   }
+  ],
+  "avoid": "1X2 result-sides (knockout 1st leg); totals",
+  "confidence": 0.2,
+  "sources": [
+   "https://diarioelsalvador.com/dedeportes/se-viene-lo-bueno-en-el-apertura-2026-inician-los-play-in/880026",
+   "https://www.elsalvador.com/deportes/futbol/balboa-vence-platense-apertura/1304241/2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:77158184",
+  "fx": "UTEP Miners v Eastern Michigan Eagles",
+  "sport": "basketball",
+  "absences": "UTEP won the semi without their top scorers (Yahoo); status for the final unclear",
+  "context": "Cancun Challenge Mayan Division final, neutral (Hard Rock Riviera Maya). UTEP -1.5, total 131.5. Tip time conflict across sources: 1pm MT / 6:30pm MT / 8:30pm.",
+  "news": "Neutral-site final with conflicting tip times; UTEP top-scorer availability unclear.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (1pm MT v 6:30pm MT v 8:30pm)",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://emueagles.com/news/2026/11/23/mens-basketball-heads-to-cancun-for-two-game-swing",
+   "https://sports.yahoo.com/mens-college-basketball/articles/depth-delivers-utep-men-win-040559451.html",
+   "https://sports.betmgm.com/en/blog/ncaab/eastern-michigan-utep-prediction-odds-picks-nov-25-college-basketball-jaa/"
+  ]
+ },
+ {
+  "eid": "sr:match:76880488",
+  "fx": "Atletico Nacional v Independiente Medellin",
+  "sport": "football",
+  "absences": "Nacional assistant Alexis Henriquez suspended (3 games). Medellin: Quintero returns; Didier Moreno and Diego Moreno listed as absent (per one probable XI).",
+  "context": "Clasico paisa, cuadrangular A matchday 2 at the Atanasio Girardot, 8:30pm COT (01:30 UTC, matches most sources). Semana listed it as Tuesday Nov 24 (date conflict). Medellin lead the group on 3 pts; Nacional are on 1 with the bonus point.",
+  "news": "Derby; most sources say Wed 8:30pm, but Semana gave Tue Nov 24.",
+  "veto": true,
+  "veto_reason": "Date conflict (Semana: Tue Nov 24 v others Wed Nov 25), and a derby rules out result-sides",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futbolred.com/amp/futbol-colombiano/liga-betplay/atletico-nacional-vs-independiente-medellin-alineaciones-cuentas-y-donde-ver-en-vivo-clasico-paisa-275688",
+   "https://www.semana.com/deportes/articulo/cuadrangulares-de-la-liga-betplay-horarios-confirmados-para-las-fechas-1-y-2-de-los-grupos/202633/",
+   "https://www.elcolombiano.com/deportes/futbol/clasico-paisa-dim-nacional-cuadrangulares-liga-betplay-KO43903595"
+  ]
+ },
+ {
+  "eid": "sr:match:74347010",
+  "fx": "Loyola Marymount Lions v Eastern Washington Eagles",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Gersten Pavilion, 6pm PT (02:00 UTC, matches). LMU (4-3) -7.5, total 152.5; EWU 2-4, 1-4 away and conceding 83.",
+  "news": "LMU are a 7.5-point home favourite over a 2-4 EWU.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "EWU +8.5/+9.5 (no NCAA catches in November); ML p 0.742 below 0.75; totals below 0.74",
+  "confidence": 0.15,
+  "sources": [
+   "https://sports.betmgm.com/en/blog/ncaab/eastern-washington-loyola-marymount-prediction-odds-picks-nov-25-college-basketball-jaa/",
+   "https://www.dimers.com/cbb/predictions/2026_25_lmu_ewu"
+  ]
+ },
+ {
+  "eid": "sr:match:73529642",
+  "fx": "New Mexico Lobos v Mississippi Valley State Delta Devils",
+  "sport": "basketball",
+  "absences": "no absences; Jake Hall (25.4 ppg, preseason MW POY) is available",
+  "context": "The Pit. The Lobos site gives 7pm MT (02:00 UTC, matches); ESPN lists 9pm (conflict, likely ET). NM 3-2 after a 2-game road skid; MVSU 0-5, ranked 365/365 in NET and KenPom. Line -36.5, total 152.5.",
+  "news": "Massive mismatch; NM come in off a two-game road skid.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "-35.5/-36.5 spreads are coin-flips; totals below 0.74; ML below 1.18",
+  "confidence": 0.15,
+  "sources": [
+   "https://golobos.com/news/2026/11/24/lobos-open-homestand-wednesday-against-mississippi-valley-state",
+   "https://sports.yahoo.com/mens-college-basketball/articles/mexico-puts-home-win-streak-092724157.html",
+   "https://www.abqjournal.com/sports/lobos-in-need-of-a-pit-reset-after-two-game-road-skid/3169197"
+  ]
+ },
+ {
+  "eid": "sr:match:77182218",
+  "fx": "Colorado Buffaloes v Grand Canyon Lopes",
+  "sport": "basketball",
+  "absences": "no injury news found",
+  "context": "Acrisure Series final at Acrisure Arena, Palm Desert (neutral), 7:30pm Phoenix (02:30 UTC, matches). Colorado came back to beat Stanford 70-65; GCU beat Saint Louis 91-88. Second game in two days for both.",
+  "news": "Neutral final; GCU 8-2 and scoring 88/game against a 4-6 Colorado.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.22,
+    "p": 0.7814005768,
+    "why": "1X2 (regulation; Winner incl. OT is 1.17). GCU 8-2, +16 margin over last 10 v Colorado 4-6. Neutral court removes the home edge. Draw risk at end of regulation ~4%. My p ~0.77, so fill-grade"
+   }
+  ],
+  "avoid": "Colorado +9.5/+10.5 (no November NCAA catches); totals",
+  "confidence": 0.2,
+  "sources": [
+   "https://cubuffs.com/news/2026/11/25/mens-basketball-colorado-advances-to-acrisure-series-championship-with-historic-comeback-win",
+   "https://gculopes.com/news/2026/11/25/mens-basketball-grand-canyon-strikes-back-huge-2nd-half-tops-saint-louis"
+  ]
+ },
+ {
+  "eid": "sr:match:75922460",
+  "fx": "Cal State Los Angeles Golden Eagles v St Martins Saints",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II (CCAA v GNAC). Cal State LA schedule: Nov 25, 7pm PT at University Gym (03:00 UTC, matches). Their live-events page also lists a Saint Martin’s game on Nov 19 (minor conflict).",
+  "news": "D2 non-conference game; minor schedule inconsistency.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: D2 coverage is thin and St Martins ML p 0.61",
+  "confidence": 0.1,
+  "sources": [
+   "https://lagoldeneagles.com/sports/mens-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:77164522",
+  "fx": "Washington Huskies v VCU Rams",
+  "sport": "basketball",
+  "absences": "Washington: G Wesley Yates III missed both Maui games (calf, day-to-day); Traore (knee) available",
+  "context": "Maui Invitational, neutral, 10pm ET (03:00 UTC, matches). VCU favoured by ~3.5; VCU pressure v a UW perimeter missing Yates.",
+  "news": "UW without Yates for both Maui games; VCU slight favourites.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "VCU ML p 0.64 below 0.75; spreads below 8.5; totals at coin-flip",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.rotowire.com/betting/college-basketball/game/vcu-vs-washington-odds-2026-11-25-3006857",
+   "https://sports.betmgm.com/en/blog/ncaab/washington-vs-vcu-prediction-win-probability-model-nov-25-bm31/"
+  ]
+ },
+ {
+  "eid": "sr:match:76227670",
+  "fx": "Central Zone v North East Zone",
+  "sport": "cricket",
+  "absences": "not researched (women)",
+  "context": "Women’s Inter-Zonal T20. North East Zone 0-10 last 10 (lost 80-325 in the H2H). Date/venue not independently verified.",
+  "news": "Women's domestic T20; no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no picks",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75922462",
+  "fx": "Biola Eagles v Cal State Dominguez Hills Toros",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "D2 CCAA game at Chase Gymnasium, La Mirada, 7:30pm PT (03:30 UTC). Both schools’ schedules agree.",
+  "news": "Schedules agree; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: thin D2 market, home ML p 0.54",
+  "confidence": 0.1,
+  "sources": [
+   "https://athletics.biola.edu/sports/mens-basketball/schedule/2026-27",
+   "https://gotoros.com/sports/mens-basketball/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:74246976",
+  "fx": "Jacksonville State Gamecocks v Pacific Tigers",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Neutral (Resorts World, Las Vegas), 10:30pm ET (03:30 UTC, matches). Pacific 5-1 on a 3-game win streak; Jax State 3-3. Pacific ~-5.5.",
+  "news": "Neutral-site holiday event; Pacific slight favourites.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pacific ML p 0.63 below 0.75; spreads below 8.5",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bleachernation.com/how-to-watch/2026/11/25/how-to-watch-pacific-tigers-vs-jacksonville-state-gamecocks-live-stream-or-on-tv/",
+   "https://www.cbssports.com/college-basketball/teams/JAXST/jacksonville-state-gamecocks/schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:76122724",
+  "fx": "Jammu And Kashmir v Haryana",
+  "sport": "cricket",
+  "absences": "no news found",
+  "context": "SMAT Elite Group B, Match 104, The Daly College, Indore (neutral), 03:30 UTC per BCCI (matches). Haryana were last season’s runners-up.",
+  "news": "Fixture confirmed by BCCI; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Haryana ML p 0.61: no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bcci.tv/matches/19264d85-89df-46ea-954c-26c2bd4ec045/jammu-kashmir-vs-haryana"
+  ]
+ },
+ {
+  "eid": "sr:match:76339230",
+  "fx": "Multan Region v Peshawar Blues",
+  "sport": "cricket",
+  "absences": "no news found",
+  "context": "Quaid-e-Azam Trophy Gold. The PCB fixture list gives Multan v Peshawar Blues on 27 Nov at Diamond Ground, Islamabad, but the board says 26 Nov 04:30 UTC.",
+  "news": "Date conflict: PCB says 27 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict: PCB/Wisden list 27 Nov, board lists 26 Nov",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pcb.com.pk/quaideazam-trophy-gold-202627/tournament/1477.html",
+   "https://www.wisden.com/cricket-news/quaid-e-azam-trophy-2026-all-you-need-to-know-full-schedule-squads-captains-venues-and-live-streaming-details"
+  ]
+ },
+ {
+  "eid": "sr:match:75326656",
+  "fx": "Sydney Thunder v Adelaide Strikers",
+  "sport": "cricket",
+  "absences": "no news found",
+  "context": "WBBL match 34, North Sydney Oval. The Strikers site says 3:10pm AEDT (04:10 UTC) v board 04:40 UTC. Showers forecast. Strikers lead the H2H 7-5.",
+  "news": "Women's; start-time mismatch with the board; rain forecast.",
+  "veto": true,
+  "veto_reason": "Start-time conflict (club 04:10 UTC v board 04:40 UTC); women’s anyway",
+  "picks": [],
+  "avoid": "Women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.adelaidestrikers.com.au/news/4529687/adelaide-oval-to-headline-adelaide-strikers-wbbl12-campaign",
+   "https://www.espn.com/cricket/series/21284/game/1543977/sydney-thunder-women-vs-adelaide-strikers-women-34th-match-womens-big-bash-league-2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:75174366",
+  "fx": "Hawaii Rainbow Warriors v Incarnate Word Cardinals",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Thanksgiving Eve home game at Stan Sheriff Center, 7pm HST (05:00 UTC, matches). Hawaii 3-2; UIW 1-5 (1-5 away, conceding 77). First ever meeting. Line ~-17.",
+  "news": "Hawaii host a weak UIW; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "UIW +16.5/+17.5 (15+ catch for a weak side, and November NCAA); Hawaii -16.5 is a coin-flip; totals at coin-flip",
+  "confidence": 0.1,
+  "sources": [
+   "https://hawaiiathletics.com/news/2026/11/23/mens-basketball-returns-home-to-host-incarnate-word.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:77182220",
+  "fx": "Stanford Cardinal v Saint Louis Billikens",
+  "sport": "basketball",
+  "absences": "no injury news found",
+  "context": "Acrisure Series Pod 2 third-place game, Palm Desert (neutral), 9pm PT (05:00 UTC, matches). Both lost close games Tuesday (Stanford 65-70 v Colorado, SLU 88-91 v GCU). Back-to-back for both. SLU 3-3, Stanford 5-2.",
+  "news": "Consolation game after narrow losses; motivation uncertain.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "SLU ML p 0.63 below 0.75; spreads below 8.5",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.theticket.com/2026/11/25/saint-louis-seeks-bounce-back-effort-vs-stanford-in-third-place-game-in-palm-desert/",
+   "https://gostanford.com/news/2026/08/06/cardinal-set-to-play-in-acrisure-series"
+  ]
+ }
+]
