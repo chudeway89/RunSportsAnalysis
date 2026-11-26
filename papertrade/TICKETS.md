@@ -1,14 +1,14 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-26 09:58 UTC. Totals: 17 won · 234 dead · 5 alive · 0 expired before settling · 97 never seen live.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-26 20:14 UTC. Totals: 17 won · 238 dead · 6 alive · 0 expired before settling · 97 never seen live.
 
 ## Return per 1-unit stake (all settled tickets, from papertrade/ticket_ledger.jsonl; odds as first seen; 7 early wins with unrecorded odds left out)
 
 | Ticket size | Tickets | Won | Staked | Returned | ROI |
 |---|---|---|---|---|---|
 | 1-7 legs | 40 | 7 | 40 | 14.5 | -64% |
-| 8-12 legs | 28 | 3 | 28 | 25.7 | -8% |
-| 13+ legs | 176 | 0 | 176 | 0.0 | -100% |
+| 8-12 legs | 29 | 3 | 29 | 25.7 | -12% |
+| 13+ legs | 179 | 0 | 179 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -339,9 +339,9 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-23 | M7CUU0 | NCAA handicap 50000x LOTTERY (18 legs, 75,467x, 1 in 306,521) | 18 | 7W/9L/0V/2P | DEAD | Santa Clara Broncos v Illinois State Redbirds — Handicap (incl. overtime) -2.5 Away (+2.5) (102:99); Providence Friars v VCU Rams — Handicap (incl. overtime) -1.5 Away (+1.5) (72:66); Pepperdine Waves v North Carolina Greensboro Spartans — Handicap (incl. overtime) -10.5 Away (+10.5) (89:62); UNLV Rebels v Eastern Washington Eagles — Handicap (incl. overtime) -8.5 Away (+8.5) (82:61); Wichita State Shockers v Texas A&M-Corpus Christi Islanders — Handicap (incl. overtime) -19.5 Home (-19.5) (91:73); North Florida Ospreys v Central Arkansas Bears — Handicap (incl. overtime) 8.5 Home (+8.5) (66:80); South Carolina State Bulldogs v North Carolina A&T Aggies — Handicap (incl. overtime) 1.5 Home (+1.5) (60:62); Loyola Chicago Ramblers v Seattle Redhawks — Handicap (incl. overtime) 1.5 Home (+1.5) (63:76); Kansas Jayhawks v Denver Pioneers — Handicap (incl. overtime) -31.5 Home (-31.5) (84:67) |
 | 2026-11-24 | XKEPZR | YR0046 EDIT (2H O0.5 + team O0.5) (10 legs, 6.8x, 1 in 8.8) pre-research | 10 | 0W/0L/0V/10P | ALIVE |  |
 | 2026-11-24 | LC0AH8 | YR0046 CORE (5 legs, 2.4x, 1 in 2.8) pre-research | 5 | 0W/0L/0V/5P | ALIVE |  |
-| 2026-11-24 | P7X0LW | YR0046 rm-3 TRIM (36 legs, 3,376x, 1 in 11,653) | 36 | 0W/0L/0V/36P | ALIVE |  |
-| 2026-11-24 | YHNDR3 | YR0046 rm-6 TRIM (33 legs, 1,503x, 1 in 4,476) | 33 | 0W/0L/0V/33P | ALIVE |  |
-| 2026-11-24 | XQQZ4U | YR0046 rm-9 TRIM (30 legs, 701x, 1 in 1,860) | 30 | 0W/0L/0V/30P | ALIVE |  |
+| 2026-11-24 | P7X0LW | YR0046 rm-3 TRIM (36 legs, 3,376x, 1 in 11,653) | 36 | 0W/0L/1V/35P | ALIVE |  |
+| 2026-11-24 | YHNDR3 | YR0046 rm-6 TRIM (33 legs, 1,503x, 1 in 4,476) | 33 | 0W/0L/1V/32P | ALIVE |  |
+| 2026-11-24 | XQQZ4U | YR0046 rm-9 TRIM (30 legs, 701x, 1 in 1,860) | 30 | 0W/0L/1V/29P | ALIVE |  |
 | 2026-11-24 | MN298K | N0X5MU CORE (6 legs, 3.2x, 1 in 3.8) | 6 | 4W/2L/0V/0P | DEAD | Feyenoord v Porto — Over/Under Over 1.5 (0:1); Cardiff City v Preston North End — Draw No Bet Home (0:4) |
 | 2026-11-24 | TPNPF8 | N0X5MU EDIT (12 legs, 14.0x, 1 in 20.1) | 12 | 10W/2L/0V/0P | DEAD | Feyenoord v Porto — Over/Under Over 1.5 (0:1); Cardiff City v Preston North End — Draw No Bet Home (0:4) |
 | 2026-11-24 | PC6Q45 | N0X5MU full conversion (24 legs, 237.0x, 1 in 554.0) | 24 | 11W/2L/0V/11P | DEAD | East Bengal FC v Al Hussein Irbid — Over/Under Over 1.5 (1:0); Virtus Entella v Hellas Verona — Double Chance Draw or Away (2:1) |
@@ -359,6 +359,11 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-25 | XW8T3R | LGAEWX CORE (5 legs, 3.0x, 1 in 3.7) | 5 | 3W/2L/0V/0P | DEAD | Hartlepool United v Solihull Moors FC — Asian Handicap -1.5 Away (+1.5) (2:0); Atletico Madrid v Viking FK — Over/Under Over 2.5 (2:0) |
 | 2026-11-25 | ST2YLW | LGAEWX EDIT (11 legs, 13.9x, 1 in 21.7) | 11 | 6W/3L/2V/0P | DEAD | Hartlepool United v Solihull Moors FC — Asian Handicap -1.5 Away (+1.5) (2:0); Atletico Madrid v Viking FK — Over/Under Over 2.5 (2:0); US Cremonese v US Avellino — Double Chance Home or Draw (0:1) |
 | 2026-11-25 | G48C1P | Wednesday night basketball 500x (22 legs, 603x, 1 in 1,593) | 22 | 13W/3L/0V/6P | DEAD | Richmond Spiders v Bethune Cookman Wildcats — 1st Half - Draw No Bet Home (86:79); New Mexico Lobos v Mississippi Valley State Delta Devils — Over/Under (incl. overtime) 159.5 Under 159.5 (100:77); Nebraska Cornhuskers v Southern University Jaguars — Over/Under (incl. overtime) 156.5 Under 156.5 (101:72) |
+| 2026-11-26 | YQE3CZ | Thursday 50x (16 legs, 1 in 79) | 16 | 5W/2L/1V/8P | DEAD | Lithuania v Serbia — Handicap (incl. overtime) -12.5 Away (+12.5) (97:78); FK Kauno Zalgiris v Riga FC — Asian Handicap -0.5 Away (+0.5) (2:0) |
+| 2026-11-26 | GYL3FM | Thursday 500x (27 legs, 1 in 1,489) | 27 | 10W/5L/1V/11P | DEAD | Lithuania v Serbia — Handicap (incl. overtime) -12.5 Away (+12.5) (97:78); FK Kauno Zalgiris v Riga FC — Asian Handicap -0.5 Away (+0.5) (2:0); Salzburg v FC Ararat-Armenia — Over/Under Over 2.5 (2:0); Abha Club v Al-Shabab FC (SA) — Over/Under Over 1.5 (0:1); FC Nizhny Novgorod v FC Tekstilshchik Ivanovo — FC Nizhny Novgorod Over/Under Over 1.5 (1:2) |
+| 2026-11-26 | XBA7QX | SGPJPT CORE (6 legs, 3.1x, 1 in 3.5) | 6 | 3W/0L/0V/3P | ALIVE |  |
+| 2026-11-26 | WAEBA8 | SGPJPT EDIT (12 legs, 10.6x, 1 in 14.4) | 12 | 5W/1L/0V/6P | DEAD | Viktoria Plzen v Benfica — Draw No Bet Away (4:0) |
+| 2026-11-26 | LEGHSL | SGPJPT full 21-leg conversion (21 legs, 105.9x, 1 in 197) | 21 | 6W/2L/0V/13P | DEAD | Union Gilloise v KKS Lech Poznan — 1X2 Home (2:2); Viktoria Plzen v Benfica — Draw No Bet Away (4:0) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
