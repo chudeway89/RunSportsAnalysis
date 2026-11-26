@@ -1,0 +1,608 @@
+[
+ {
+  "eid": "sr:match:73075942",
+  "fx": "Uttaradit Saksiam FC v Songkhla FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Thai L2: Uttaradit 2nd (19 pts/10 at last snapshot), home unbeaten 3W2D; Songkhla 17th (7 pts), 1W in last 10, away 1-1-4 conceding 2.17. KO 18:00 local = 11:00 UTC (Betfair) consistent with board.",
+  "news": "Promotion-chasing Uttaradit host bottom-three Songkhla; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.7137,
+    "why": "Mechanism: table gap 2nd v 17th, Uttaradit home unbeaten, Songkhla 1 win in 10; DNB removes the draw. My p 0.74 vs house 0.714."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.55,
+    "p": 0.6023,
+    "why": "Songkhla away games average 3.67 goals, 4/6 last Songkhla games 3+; Thai L2 high-scoring. My p 0.62 vs 0.60 (same-league Over with Nongbua: use at most one per slip)."
+   }
+  ],
+  "avoid": "1X2 Home at 1.71 (draw risk); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.betfair.com/betting/football/thai-league-2/c-4608858",
+   "https://www.livesoccertv.com/competitions/thailand/thai-division-1/",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-thailand/thai-league-2"
+  ]
+ },
+ {
+  "eid": "sr:match:77062282",
+  "fx": "KF Ramiz Sadiku v KF Kika",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kosovo Liga e Pare round 18; both low-scoring (0.8 gf each over last 10). Last season Ramiz Sadiku 7th, Kika 14th. 12:00 UTC per Sofascore, consistent.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 p 0.60 fails the Under gate; no result-side edge in a coin-flip second-tier game",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/kika-ramiz-sadiku/tiRbsmJfc",
+   "https://www.flashscore.com/match/football/kika-MR5C7tAq/ramiz-sadiku-0vtne2ub/"
+  ]
+ },
+ {
+  "eid": "sr:match:73075944",
+  "fx": "Nongbua Pitchaya FC v Muang Loei United FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Thai L2: Nong Bua Pitchaya 3rd/4th (18 pts at snapshot), home 3W1D, scoring 3.0/home game; Muang Loei 14th (12 pts). 5 of Nongbua last 6 had 3+ goals.",
+  "news": "Top-four Nongbua host mid/low-table Muang Loei; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7735,
+    "why": "Mechanism: Nongbua unbeaten at home scoring 3.0/game v 14th-placed side; DNB. My p 0.79 vs 0.773."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.52,
+    "p": 0.6135,
+    "why": "Nongbua 5/6 and Muang Loei 4/6 recent games went 3+; both concede 1.5+. My p 0.65 vs 0.613."
+   }
+  ],
+  "avoid": "Under 3.5; integer lines",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.betfair.com/betting/football/thai-league-2/c-4608858",
+   "https://www.livesoccertv.com/competitions/thailand/thai-division-1/",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-thailand/thai-league-2"
+  ]
+ },
+ {
+  "eid": "sr:match:76806532",
+  "fx": "Costa Do Sol v Baia de Pemba FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Mocambola round 28 per Sofascore (26 Nov 13:00 UTC). Costa do Sol challenging near the top (Desafio Oct 22: closing on leader), home 4-0-1; Baia de Pemba away 1-0-3 scoring 0.25. Baia beat Costa do Sol 1-0 in August.",
+  "news": "Soft data conflict: Soccerway lists a Costa do Sol game on 21 Nov v \"AD Pemba\" (possibly a different club); Zerozero has Baia v Maxaquene on 22 Nov. Neither contradicts 26 Nov directly.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.7108,
+    "why": "Mechanism: title-chasing Costa do Sol at home (4W in last 5 home) v a Baia side scoring 0.25/away game. My p 0.72 vs 0.711; confirm the date on the board at posting."
+   }
+  ],
+  "avoid": "AH -1.5 (low-scoring league), Overs",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/football/match/baia-de-pemba-fc-costa-do-sol/vPmcsMJHc",
+   "https://www.jornaldesafio.co.mz/index.php/2026/10/22/costa-do-sol-encurta-distancia-da-lider/",
+   "https://www.zerozero.co.mz/equipa/baia-de-pemba/225175",
+   "https://ke.soccerway.com/match/ad-pemba-lloJrjIi/costa-do-sol-W2iauOq4/"
+  ]
+ },
+ {
+  "eid": "sr:match:73961764",
+  "fx": "Kampala Capital City Authority FC v Bul FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "UPL matchday 12 at MTN Omondi Stadium, Lugogo, 4pm local (13:00 UTC). BUL unbeaten and 6 points ahead of KCCA; KCCA drew with Police last time. H2H since 2013: KCCA 14 wins, BUL 6 of 28.",
+  "news": "BUL unbeaten run on the line at KCCA (Kawowo, Nov 25). An earlier Kawowo piece (Nov 21) listed matchday 12 for Nov 21, so the round was rescheduled; latest source confirms Nov 26.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Both result-sides (BUL unbeaten 8W2D v KCCA home edge); Under 2.5 p 0.63 fails gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://kawowo.com/2026/11/25/buls-unbeaten-run-on-the-line-at-kcca/",
+   "https://kawowo.com/2026/11/21/kitara-return-to-action-against-struggling-lugazi-as-upl-matchday-12-kicks-off/",
+   "https://urafc.co.ug/team/kigezi-homeboyz-fc/"
+  ]
+ },
+ {
+  "eid": "sr:match:74201374",
+  "fx": "Chirundu United v Zesco United",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Zambia SL at Edwin Imboela Stadium, Lusaka. Zesco 2nd on 13 pts; away 2W3D0L conceding 0.2. Chirundu only 7 matches in data, low-scoring (0.71 gf).",
+  "news": "Second-placed Zesco visit Chirundu (Lusaka Times, Nov 25).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.23,
+    "p": 0.7607,
+    "why": "Mechanism: Zesco unbeaten away (5 games, 1 conceded), 2nd v lower side; X2 covers the low-scoring draw. My p 0.78 vs 0.761."
+   }
+  ],
+  "avoid": "Zesco 1X2 (p 0.43); Overs (league scores little)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.lusakatimes.com/2026/11/25/super-league-nkana-eagles-seek-to-stay-top/",
+   "https://www.betexplorer.com/football/zambia/super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:74201108",
+  "fx": "Makeni All Stars v Power Dynamos",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Zambia SL at REIZ Arena, Lusaka. Makeni All Stars bottom, 1 pt from 7 games (conceding 2.43); champions Power Dynamos 4th on 13.",
+  "news": "Bottom side Makeni host Power Dynamos (Lusaka Times, Nov 25).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Power Dynamos 1X2 1.41 is p 0.67 (< away 0.75 gate); DNB below 1.18; Home +1.5 catch banned (favourite p > 0.55). Clear mismatch but no gated market in range.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lusakatimes.com/2026/11/25/super-league-nkana-eagles-seek-to-stay-top/",
+   "https://www.betexplorer.com/football/zambia/super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:74201376",
+  "fx": "Mutondo Stars v Green Eagles",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Zambia SL at Arthur Davies Stadium, Kitwe. Leaders Green Eagles 17 pts v bottom Mutondo Stars 3 pts. Eagles away 3W1D1L conceding 0.4.",
+  "news": "Leaders Eagles visit bottom club Mutondo (Lusaka Times, Nov 25).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.33,
+    "p": 0.705,
+    "why": "Mechanism: league leaders v bottom side (14-point gap), Eagles concede 0.4 away; DNB as away 1X2 p 0.49 fails the gate. My p 0.73 vs 0.705."
+   }
+  ],
+  "avoid": "Eagles 1X2; Overs",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.lusakatimes.com/2026/11/25/super-league-nkana-eagles-seek-to-stay-top/",
+   "https://www.betexplorer.com/football/zambia/super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72343934",
+  "fx": "FC Orenburg v FK Spartak Moscow",
+  "sport": "football",
+  "absences": "Spartak: Ezequiel Barco (injury, not travelling).",
+  "context": "Russian Cup Path of RPL group stage round 6 (final). Spartak 13 pts, Orenburg 10; Orenburg need a 4-goal win to top the group, so Spartak are effectively through as group winner. Spartak 3rd in RPL, play Fakel away in RPL at the weekend. KO 17:00 MSK = 14:00 UTC.",
+  "news": "Near-dead rubber for Spartak (top spot all but secured), Barco out; rotation likely before the RPL trip to Voronezh. Spartak won the August meeting 5-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides and totals: rotation_risk / dead-rubber profile for the favourite",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sport-express.net/football/rus_cup/news/orenburg-spartak-vo-skolko-nachalo-matcha-kubka-rossii-gde-smotret-translyaciyu-26-noyabrya-2026-2479139/",
+   "https://futbolpressa.ru/news/fc-orenburg-vs-spartak-moscow-kubok-rossii",
+   "https://metaratings.ru/news/barko-ne-poletit-so-spartakom-v-orenburg-na-match-kubka-rossii-674550"
+  ]
+ },
+ {
+  "eid": "sr:match:72578452",
+  "fx": "FK Ural Yekaterinburg v PFK Arsenal Tula",
+  "sport": "football",
+  "absences": "Arsenal Tula: CB Oleg Isaenko suspended.",
+  "context": "FNL round 19, 17:00 MSK (14:00 UTC) in Yekaterinburg; one sports.ru item says 14:00 MSK (minority). Ural 2nd, 37 pts/18, 12 behind leaders Nizhny; Arsenal 13th, 20 pts, the only FNL side with no away win this season (0-1-5 away in data).",
+  "news": "Ural pushing for promotion v Arsenal, who have zero away wins and lose a suspended defender. Ural played... note Arsenal fixture list had Ural on 25 Nov but tula-football.ru confirms 26 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.6833,
+    "why": "Mechanism: Arsenal winless away all season (0W), Isaenko suspended; Ural 2nd chasing promotion. Ural home form patchy (1W in last 3 home), so my p 0.70 vs 0.683."
+   }
+  ],
+  "avoid": "Over 2/3 integer lines; AH -1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://tula-football.ru/news/287402",
+   "https://tula-football.ru/news/288136",
+   "https://www.championat.com/football/news-6714606-raspisanie-matchej-pervoj-ligi-2026-2027-na-26-noyabrya.html",
+   "https://bombardir.ru/prognozy/836240-pervaya-liga-shansy-urala-i-arsenala-tula-na-pobedu-v-matche-19-go-tura",
+   "https://www.fotmob.com/en-GB/teams/1677/overview/arsenal-tula"
+  ]
+ },
+ {
+  "eid": "sr:match:74289544",
+  "fx": "Muaither SC v AL Waab",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Qatar 2nd Division; Muaither and Al-Waab level on 7 pts from 6 (FotMob).",
+  "news": "Kick-off and venue conflict between sources: Forebet 15:15 GMT at Al-Khwar Stadium; Footballstreams 14:15 GMT at Khalifa International; Football Finder 17:15 local at Hamad bin Khalifa Stadium.",
+  "veto": true,
+  "veto_reason": "Venue/kick-off conflict across three sources (Al-Khwar v Khalifa International v Hamad bin Khalifa; 14:15 v 15:15 GMT).",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/muaither-sc-al-waab-sc-2523199",
+   "https://www.footballstreams.com/matches/muaither-sc-vs-al-wabb-20261126/",
+   "https://www.thefootballfinder.com/city/doha-qatar",
+   "https://www.footballstreams.com/matches/umm-salal-vs-al-rayyan-b-20261126/",
+   "https://www.fotmob.com/teams/101903/table/umm-salal,players"
+  ]
+ },
+ {
+  "eid": "sr:match:75992116",
+  "fx": "Al-Salmiya SC v AL Tadhamon",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kuwait Emir Cup quarter-final, single match (knockout, 90-min settlement except To Qualify). Salmiya beat Khaitan 4-2 last Saturday (Crown Prince Cup); Tadamon lost 7 of last 10, conceding 2.6. Arab Times: 5:20pm local at Mohammed Al-Hamad Stadium = 14:20 UTC, matching the board. Winner plays semi on Dec 24.",
+  "news": "Data conflict: the Arab Times preview is dated Nov 25 and says \"today\"; 24live lists Nov 26, not started, and the board is open for Nov 26. Most likely the print-edition dating; the kick-off times match the board exactly.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7813,
+    "why": "Knockout: DNB only. Mechanism: Salmiya home 5W of 7, Tadamon concede 2.6/game and lost 7 of 10; H2H 2-0. My p 0.80 vs 0.781. data_conflict flag: drop if the board shows anything other than open pre-match."
+   }
+  ],
+  "avoid": "1X2 (knockout); Overs (Gulf)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.arabtimesonline.com/news/arabi-and-salmiya-eye-amir-cup-semifinal-berths/",
+   "https://24live.com/page/sport/event/soccer-5/12732;sid=71932?lang=en"
+  ]
+ },
+ {
+  "eid": "sr:match:76638676",
+  "fx": "Al-Fateh SC v Al-Riyadh SC",
+  "sport": "football",
+  "absences": "no current absentee list found for either side",
+  "context": "SPL, Prince Abdullah bin Jalawi Stadium, Al-Hofuf (ESPN). Al-Fateh 1W in 10, no home win in last 5 (0.8 gf, 2.4 ga at home); Al-Riyadh 3-3-4, conceding 2.1 including a 0-6.",
+  "news": "Two struggling defences; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7843,
+    "why": "Both concede 2.1/game over last 10; Al-Fateh home games average 3.2 goals; SPL is a high-scoring league. My p 0.80 vs 0.784."
+   }
+  ],
+  "avoid": "Result-sides (both poor, no mechanism); integer Over 2/3",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/ksa.1",
+   "https://www.fotmob.com/matches/al-shabab-vs-abha/emi1239",
+   "https://www.ysscores.com/en/news/14105846/pereira-al-shabab-a-strong-competitor-but-we-are-ready-to-face-them"
+  ]
+ },
+ {
+  "eid": "sr:match:73086770",
+  "fx": "CS Gloria Bistrita v CSM Slatina",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 2 round 15 opener, 16:45 local (14:45 UTC) at Stadionul Jean Padureanu. Slatina 3rd, 31 pts/14; Bistrita 14th, 18 pts after a 3-point deduction (match awarded against them). Slatina won 2-1 at Bistrita in March; Slatina unbeaten in 17 of last 20 Liga 2 games.",
+  "news": "Third-placed Slatina visit 14th-placed Bistrita (propolitica.ro, Nov 26).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.3,
+    "p": 0.7138,
+    "why": "Mechanism: 13-point table gap, Slatina unbeaten in 17 of 20, won this fixture in March; away 1X2 fails the gate so X2. My p 0.74 vs 0.714."
+   }
+  ],
+  "avoid": "Overs (Romania L2 is in the thin-league list); away 1X2",
+  "confidence": 0.25,
+  "sources": [
+   "https://propolitica.ro/2026/11/26/gloria-bistrita-si-csm-slatina-joaca-in-meciul-de-deschidere-al-etapei-a-15-a-a-ligii-2-astazi-ora-16-45-pe-stadionul-jean-padureanu/",
+   "https://bistrita-nasaudexpres.ro/local/cs-gloria-bistrita-intalneste-csm-slatina-in-meciul-de-deschidere-al-etapei-a-15-a-a-ligii-2-fliw",
+   "https://www.forebet.com/en/football/matches/gloria-bistrita-csm-slatina-2485733"
+  ]
+ },
+ {
+  "eid": "sr:match:76638666",
+  "fx": "Abha Club v Al-Shabab FC (SA)",
+  "sport": "football",
+  "absences": "Abha: Nabil Fekir, Abdou Diallo, Georges-Kevin N'Koudou, Khaled Al Shamrani (injured, \"a few weeks\"), Basil Al Sayyali (ligament, out to Feb 2027). Al-Shabab: Mohammed Hurbush (injury); Ali Al-Bulayhi back in training; Abdulrahman Al-Oboud recovering (wrist).",
+  "context": "SPL round 13 at Prince Sultan bin Abdulaziz Sports City, Abha; listing 15:05 UTC matches the board. Abha 0W in last 10 (0.6 gf); Shabab 3-5-2, scoring 1.9.",
+  "news": "Abha without five players including their main creator Fekir; Shabab largely fit.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.39,
+    "p": 0.6894,
+    "why": "Mechanism: five Abha absentees incl. Fekir and Diallo, Abha winless in 10 scoring 0.6; away 1X2 p 0.53 fails the gate, so DNB. My p 0.73 vs 0.689."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8076,
+    "why": "SPL high-scoring; Shabab score 1.9/game (6-1, 3-1, 3-0 recently). Weaker because Abha score little. My p 0.81 vs 0.808."
+   }
+  ],
+  "avoid": "Shabab 1X2; integer Over 2/3",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/ksa.1",
+   "https://www.fotmob.com/matches/al-shabab-vs-abha/emi1239",
+   "https://www.ysscores.com/en/news/14105846/pereira-al-shabab-a-strong-competitor-but-we-are-ready-to-face-them"
+  ]
+ },
+ {
+  "eid": "sr:match:74056960",
+  "fx": "Gor Mahia FC v Mombasa United FC",
+  "sport": "football",
+  "absences": "none reported for Gor; Mombasa expected 4-3-3 with Rodgers Oporia and Kouya Aristide Mabea up front",
+  "context": "FKF PL at Nyayo National Stadium, 7pm local = 16:00 UTC (Sofascore), matching the board. Gor 2nd/3rd on 16 pts/7, one behind leaders KCB; first ever competitive meeting. Mombasa United promoted, bottom, winless (2 pts from 8).",
+  "news": "Gor (coach Akonnor) chase the summit against winless newcomers Mombasa United (The Star, Mozzart, Eastleigh Voice).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7621,
+    "why": "Mechanism: winless promoted bottom side (0W from 8) v title-chasing Gor with a winning run and leadership motive. Gor home record in data is only 2-1-3, so my p 0.78 vs 0.762."
+   }
+  ],
+  "avoid": "AH -1.5 / -1 (Kenyan games low-scoring); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.the-star.co.ke/sports/football/2026-11-25-gor-marshal-forces-for-mombasa-assault",
+   "https://eastleighvoice.co.ke/football/428183/gor-mahia-target-fkfpl-summit-against-winless-mombasa-united",
+   "https://www.mozzartsport.co.ke/football/news/gor-mahia-coach-akonnor-sets-demands-ahead-of-mombasa-united-showdown/70929"
+  ]
+ },
+ {
+  "eid": "sr:match:72578440",
+  "fx": "FC Nizhny Novgorod v FC Tekstilshchik Ivanovo",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "FNL round 19, 19:00 MSK (16:00 UTC) at Sovcombank Arena. Leaders Nizhny Novgorod 49 pts v Tekstilshchik 12 (37-point gap). Nizhny won all of last 10, 4.4 gf and 0 ga at home; Tekstilshchik drew 2-2 with Arsenal, lost 0-3 to SKA.",
+  "news": "Runaway leaders v second-bottom side; previews widely tip a home win by 2+.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Home (-1.5)",
+    "odds": 1.52,
+    "p": 0.6222,
+    "why": "Mechanism: 10/10 wins, home average 4.4-0.0, 37-point gap; Tekstilshchik away 0W in 6 conceding 2.17. My p 0.65 vs 0.622."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.7694,
+    "why": "Nizhny scored 2+ in 9 of last 10 (home 4.4/game). My p 0.80 vs 0.769."
+   }
+  ],
+  "avoid": "Integer Over 2/3; AH -2.5",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.sports.ru/football/1117448388-nizhnij-novgorod-tekstilshhik-vo-skolko-i-gde-smotret-translyacziyu-ma.html",
+   "https://www.euro-football.ru/prognozy/1006425830_nadejnaya_stavka_i_prognoz_na_match_nijniy_novgorod_-_tekstilschik_ligi_pari_-_26_noyabrya_2026",
+   "https://www.livesport.ru/tips/express/2026/11/26/express/"
+  ]
+ },
+ {
+  "eid": "sr:match:73961766",
+  "fx": "URA FC v Kigezi Homeboyz FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "UPL matchday 12 at Hamz Stadium, Nakivubo, 7pm local = 16:00 UTC. URA seek a 5th straight win; Kigezi HomeBoyz near the bottom, 0W from 4 away games (0.5 gf, 2.25 ga).",
+  "news": "URA chase five wins in a row v struggling Kigezi (Kawowo Nov 25). Matchday was rescheduled from Nov 21; latest source confirms Nov 26.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.726,
+    "why": "Mechanism: URA 4 straight wins, home ga 0.4; Kigezi lost all 4 away games. My p 0.75 vs 0.726."
+   }
+  ],
+  "avoid": "AH -1.5; Overs (Uganda low-scoring)",
+  "confidence": 0.25,
+  "sources": [
+   "https://kawowo.com/2026/11/25/buls-unbeaten-run-on-the-line-at-kcca/",
+   "https://kawowo.com/2026/11/21/kitara-return-to-action-against-struggling-lugazi-as-upl-matchday-12-kicks-off/",
+   "https://urafc.co.ug/team/kigezi-homeboyz-fc/"
+  ]
+ },
+ {
+  "eid": "sr:match:74289548",
+  "fx": "Umm-Salal SC v AL Rayyan Nextgen",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Qatar 2nd Division; Al Rayyan Nextgen is a RESERVE (B) side, 11th on 4 pts; Umm Salal top on 11 pts/6. Footballstreams 15:30 GMT v Football Finder 19:30 local (16:30 UTC, matching the board) at Thani Bin Jassim Stadium.",
+  "news": "Reserve opponent; minor kick-off time discrepancy between sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides banned v a reserve side; Overs (Gulf thin league; Umm Salal home only 0.8 gf)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/muaither-sc-al-waab-sc-2523199",
+   "https://www.footballstreams.com/matches/muaither-sc-vs-al-wabb-20261126/",
+   "https://www.thefootballfinder.com/city/doha-qatar",
+   "https://www.footballstreams.com/matches/umm-salal-vs-al-rayyan-b-20261126/",
+   "https://www.fotmob.com/teams/101903/table/umm-salal,players"
+  ]
+ },
+ {
+  "eid": "sr:match:72343960",
+  "fx": "FK Dinamo Moscow v FC Fakel Voronezh",
+  "sport": "football",
+  "absences": "Dinamo: Zaynutdinov, Chaves, Kutitsky, Marichal (all injured). Fakel: no confirmed list.",
+  "context": "Russian Cup Path of RPL group stage round 6 (final), 19:30 MSK (16:30 UTC). Dinamo must beat Fakel by at least 2 goals to reach the quarter-final (stavka.tv); coach Sandro Schwarz. Dinamo won 1-0 in Voronezh in August.",
+  "news": "Must-win-by-two for Dinamo; Fakel can defend a narrow loss, so a low block is likely.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.51,
+    "p": 0.6237,
+    "why": "Mechanism: Dinamo must win by 2+ and will chase goals all game; home 2.25 gf. Fakel away concede only 0.6, so this is not a lock. My p 0.64 vs 0.624."
+   }
+  ],
+  "avoid": "AH -1.5 (Fakel compact, away ga 0.6); Dinamo team Under; Fakel +2.0 catch",
+  "confidence": 0.25,
+  "sources": [
+   "https://stavka.tv/matches/soccer/26-11-2026-dynamo-moscow-fakel-voronezh",
+   "https://vprognoze.ru/topforecast/8260176-dinamo-moskva-fakel-2026-11-26.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75992124",
+  "fx": "Al Arabi v Khaitan SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Kuwait Emir Cup quarter-final, single match (90-min settlement), 8:20pm local at Thamer Stadium = 17:20 UTC, matching the board. Khaitan are a First Division (second-tier) side, 2nd on 7 pts; they lost 4-2 to Salmiya last weekend.",
+  "news": "Same Arab Times dated-Nov-25 \"today\" conflict as Salmiya v Tadamon; board and 24live show Nov 26.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Al Arabi 1X2 (knockout; DNB 1.12 below the range); Overs (Gulf)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.arabtimesonline.com/news/arabi-and-salmiya-eye-amir-cup-semifinal-berths/",
+   "https://24live.com/page/sport/event/soccer-5/12732;sid=71932?lang=en"
+  ]
+ },
+ {
+  "eid": "sr:match:76638746",
+  "fx": "Al-Faisaly FC v Diriyah Club",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "SPL at King Abdullah Sport City Stadium, Buraidah (ESPN). Al-Faisaly 2-4-4; Diriyah 3-3-4, scoring 0.9.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (no mechanism); integer Over 2/3; a third SPL Over 1.5 would break the same-league totals cap",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/ksa.1",
+   "https://www.fotmob.com/matches/al-shabab-vs-abha/emi1239",
+   "https://www.ysscores.com/en/news/14105846/pereira-al-shabab-a-strong-competitor-but-we-are-ready-to-face-them"
+  ]
+ },
+ {
+  "eid": "sr:match:73322068",
+  "fx": "Red Dragons Pniewy v FC Gmina Sierakowice",
+  "sport": "futsal",
+  "absences": "no news found",
+  "context": "Futsal Ekstraklasa. Pniewy winless in 10 (ga 4.9).",
+  "news": "Date conflict: the club fixture page lists Pniewy v We-Met Sierakowice for 28-29 Nov (round 14); the league homepage shows it under 26.11.2026.",
+  "veto": true,
+  "veto_reason": "Date conflict: club schedule 28-29 Nov v league site/board 26 Nov.",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "http://futsalpniewy.pl/nasze-mecze/",
+   "https://www.futsalekstraklasa.pl/"
+  ]
+ },
+ {
+  "eid": "sr:match:77028612",
+  "fx": "Art Municipal Jalapa v San Marcos FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Nicaragua Liga Primera Apertura 2026. San Marcos won the earlier meeting 3-1 (league site). Standings disagree: Wikipedia has Jalapa 7th and San Marcos 8th, Worldfootball has Jalapa bottom.",
+  "news": "Conflicting standings and no current reports; round status unclear.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: no reliable current information",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liga_Primera",
+   "https://www.worldfootball.net/teams/te20911/art-municipal-jalapa/all-matches/",
+   "https://www.ligaprimera.com/noticias/1924"
+  ]
+ },
+ {
+  "eid": "sr:match:76940258",
+  "fx": "Cerro Porteno v Libertad Asuncion",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Copa Paraguay THIRD-PLACE match (both lost semi-finals on penalties), Thursday 26th at Estadio Defensores del Chaco (ABC, Nov 21); final is Sol de America v Recoleta on Dec 6. Single match; a level score likely goes to penalties.",
+  "news": "Big-club clash in a consolation game; motivation uncertain after both semi-final exits.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (big-club clash, knockout); Under 3.5 p 0.73 fails gate; Over 1.5 p 0.73 with no fixture mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.abc.com.py/deportes/futbol/copa-paraguay/2026/11/21/entradas-para-la-final-de-la-copa-paraguay-y-para-el-premio-consuelo/",
+   "https://www.npy.com.py/noticias/deportes/cuatro-equipos-van-por-el-boleto-a-la-final-de-la-copa-paraguay-2026"
+  ]
+ }
+]

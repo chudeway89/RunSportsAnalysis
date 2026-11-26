@@ -282,5 +282,236 @@
    "https://news.bet365.com/sv-sv/article/kairat-almaty-mjallby-forvantade-startelvor-skador-avstangningar/2026112510105476764",
    "https://www.futbol24.com/betting-tips/preview/26-11-2026-fk-kairat-mjallby-aif-betting-tip/"
   ]
+ },
+ {
+  "eid": "sr:match:73959834",
+  "fx": "Mochudi Centre Chiefs v Orapa United",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Botswana Premier League. Centre Chiefs 6W in last 10 (gf 1.2, ga 0.8); Orapa 3W5D. Low-scoring pairing.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: low scoring, no news",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/orapa-united-mochudi-centre-chiefs/WKdbskeuc"
+  ]
+ },
+ {
+  "eid": "sr:match:72044418",
+  "fx": "Aalborg BK v Esbjerg FB",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Danish 1. Division (Betinia Liga) Round 16 at Aalborg Portland Park, 19:00 CET. AaB ~6th (16 pts), Esbjerg ~10th (14). AaB 7 draws in last 10. Previous meetings 1-1 (Mar 2026), 3-3 (Oct 2026).",
+  "news": "no news found; fixture confirmed (TV3 Sport)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 at 1.18 (p 0.82) no edge; result sides: draw-heavy AaB",
+  "confidence": 0.1,
+  "sources": [
+   "https://bold.dk/fodbold/kamp/aab-vs-esbjerg-fb/betinia-liga/16355214",
+   "https://www.tvsporten.dk/program/aab-esbjerg-fb-1901320"
+  ]
+ },
+ {
+  "eid": "sr:match:73685004",
+  "fx": "Burnley Reserves v Wolverhampton Wanderers U21",
+  "sport": "football",
+  "absences": "reserve/U21 sides - not checked",
+  "context": "Premier League Cup (U21/reserves). Reserve/youth fixture: no picks per rules.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: reserve/youth",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76969868",
+  "fx": "Velez Sarsfield Reserve v Boca Juniors",
+  "sport": "football",
+  "absences": "reserve sides - not checked",
+  "context": "Torneo Proyeccion (Reserva) Clausura 2026 quarter-final, single match with extra time and penalties if level; 16:30 ART 26 Nov (=19:30 UTC). Winner meets Gimnasia Mendoza/Independiente winner.",
+  "news": "Knockout QF, reserves",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: reserves + knockout (settles 90 min)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/es/news/cuadro-reserva-cuartos-de-final/",
+   "https://canchallena.lanacion.com.ar/futbol/torneo-proyeccion/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341410",
+  "fx": "Doncaster Rovers v Huddersfield",
+  "sport": "football",
+  "absences": "Huddersfield: Murray Wallace, Jack Whatmough, David Kasumu, Herbie Kane, Marcus McGuane out; Derensili Sanches Fernandes available (foot knock), Cam Ashia trained. Doncaster: James Husband, Tommi O'Reilly, Francis Okoronkwo out; Harry Clifton, Will Keane likely out; Alfie May on loan from Huddersfield",
+  "context": "League One, Club Doncaster Sports Village 20:00 UK. Yorkshire derby. Huddersfield 2nd (29 pts/15), Doncaster 5th from bottom (13/14). Doncaster club preview dated 25 Nov in one place but clubs/Sports Mole confirm Thu 26 Nov.",
+  "news": "Derby; Huddersfield title hopefuls with 5 absentees; Doncaster missing 3-5 incl Keane, Clifton",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.80524,
+    "why": "Huddersfield score 2.4/g; Doncaster concede 1.9/g and 5 absentees; League One ~2.6 goals. Own p 0.81"
+   }
+  ],
+  "avoid": "all result sides (derby rule), Huddersfield DNB 1.29 tempting but barred",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.htafc.com/news/2026/november/25/preview--doncaster-rovers--a-",
+   "https://www.sportsmole.co.uk/football/preview/doncaster-vs-huddersfield-prediction-team-news-lineups_609754.html",
+   "https://www.yorkshirepost.co.uk/sport/football/huddersfield-town-boss-provides-update-on-derensili-sanches-fernandes-and-three-other-players-ahead-of-doncaster-rovers-derby-9374062"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114734795",
+  "fx": "Atletico Colina v General Velasquez",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Chile Segunda Division, relegation group round 14. Colina in Liguilla de Descenso.",
+  "news": "DATE CONFLICT: Soccerway/Flashscore list 26 Nov; Emol lists Fecha 14 on 29 Nov; BioBioChile (23 Nov) reports Colina already played General Velasquez 0-0 on Sunday 22 Nov",
+  "veto": true,
+  "veto_reason": "date conflict between sources; fixture may already have been played",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://us.soccerway.com/game/atletico-colina-Akun0Y7A/general-velasquez-M9qt7QOc/",
+   "https://www.emol.com/noticias/Deportes/2026/11/10/1216638/futbol-chileno-segunda-division-profesional.html",
+   "https://www.biobiochile.cl/noticias/deportes/futbol/futbol-nacional/2026/11/23/segunda-division-colina-condeno-a-san-joaquin-y-santiago-morning-al-amateurismo.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:77117822",
+  "fx": "CD Audaz v AD Izalco",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "El Salvador Liga de Ascenso (Copa FOX) quarter-final FIRST LEG at La Coyotera, Apastepeque, 15:00 local (=21:00 UTC). Izalco 1st Centro Occidente (45 pts, won 4-0 last round); Audaz 4th Centro Oriente (34 pts, lost 4-2). Return 28-29 Nov.",
+  "news": "Knockout first leg",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (knockout); Izalco DNB 1.88 only option, too thin",
+  "confidence": 0.1,
+  "sources": [
+   "https://diarioelsalvador.com/dedeportes/definidos-los-cuartos-de-final-en-la-liga-de-ascenso/879581",
+   "https://www.elmetropolitanodigital.com/2026/11/cuartos-de-final-de-la-copa-fox-asi-es-el-calendario-y-horarios-de-los-partidos-de-ida/"
+  ]
+ },
+ {
+  "eid": "sr:match:77001378",
+  "fx": "Independiente Reserve v Gimnasia de Mendoza Reserve",
+  "sport": "football",
+  "absences": "reserve sides - not checked",
+  "context": "Torneo Proyeccion (Reserva) Clausura QF, single match, ET/pens; 19:00 ART (=22:00 UTC). Independiente 1st Zona A.",
+  "news": "Knockout QF, reserves",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: reserves + knockout",
+  "confidence": 0.1,
+  "sources": [
+   "https://locoxelrojo.com/independiente/2026/11/19/gimnasia-de-mendoza-rival-reserva-de-independiente/",
+   "https://www.365scores.com/es/news/reserva-argentina-2026-cruces-fechas/"
+  ]
+ },
+ {
+  "eid": "sr:match:77082428",
+  "fx": "CF Atletas do Tirol CE v Guarani de Juazeiro CE",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Taca Fares Lopes (Ceara) playoffs quarter-final in Fortaleza. Tirol topped Group C (8 gf, 2 ga in 4); Guarani lost 2-1 to Icasa last out. Kick-off 19:00 local = 22:00 UTC (consistent).",
+  "news": "Knockout QF; Tirol runners-up last year",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tirol 1X2 1.24: result side in a knockout barred; Overs: Tirol home ga 0.2",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ogol.com.br/competicao/ta-a-fares-lopes-do-cear",
+   "https://www.sofascore.com/football/match/tirolcefat-guarani-de-juazeiro/mAnsvnjd"
+  ]
+ },
+ {
+  "eid": "sr:match:76881992",
+  "fx": "Santiago Wanderers v Deportes Recoleta",
+  "sport": "football",
+  "absences": "Wanderers recover Camarda; Wanderers had a man sent off before 20 min in first leg",
+  "context": "Primera B Liguilla de Ascenso QF SECOND LEG at Estadio Elias Figueroa, Valparaiso, 19:00 local. Recoleta won first leg 3-1 (20 Nov) - Wanderers need to win by 2+ in 90 min to force on. Coach Palladino says squad believes in comeback.",
+  "news": "Wanderers trail 1-3 on aggregate, must attack",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7682073039,
+    "why": "Settlement structure: Wanderers must win by 2+, Recoleta (who scored 3 in first leg) get counter space; H2H 1-3, 1-2 both 3+ goals. Own p 0.81"
+   }
+  ],
+  "avoid": "result sides (knockout); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.encancha.cl/futbol-chileno/primera-b/2026/11/21/wanderers-buscara-remontar-ante-recoleta-en-la-liguilla-325883.html",
+   "https://www.alairelibre.cl/futbol/primera-b/liguilla-primera-b-vuelta-cuartos-wanderers-magallanes-remontar/",
+   "https://redgol.cl/chile/liguilla-del-ascenso-primera-b-recoleta-se-anota-un-triunfazo-y-se-viste-de-bestia-negra-de-wanderers"
+  ]
+ },
+ {
+  "eid": "sr:match:66887202",
+  "fx": "Sao Paulo FC SP v Clube do Remo PA",
+  "sport": "football",
+  "absences": "Sao Paulo: Wendell (suspended), Nicolas, Buta, Domingos Duarte, Marcos Antonio, Rafael Toloi, Sabino (injured); Lucas and Artur back. Remo: Jaja, Marllon, Edson (suspended), Matheus Felipe (injured); Picco returns",
+  "context": "Brasileirao round 37 at Morumbis 20:00 BRT. Remo already relegated (19th, 32 pts, confirmed 22 Nov after 4-2 loss at Athletico) - dead rubber for Remo. Remo 0W in last 5 away (ga 2.6). Sao Paulo low-scoring at home (0.83 gf).",
+  "news": "Remo relegated, three suspensions; Sao Paulo final home game, Lucas returns",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.37,
+    "p": 0.70924,
+    "why": "Remo relegated (dead rubber), 3 suspended incl. Jaja, 0W/4L last 5 away; Sao Paulo with Lucas/Calleri back at Morumbis. Own p 0.73"
+   }
+  ],
+  "avoid": "Overs: Sao Paulo home games 0-1, 0-0, 1-0; Sao Paulo -1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.gazetaesportiva.com/times/sao-paulo/sao-paulo-reforcos-provavel-escalacao-remo/",
+   "https://olhardigital.com.br/2026/11/26/internet-e-redes-sociais/sao-paulo-x-remo-onde-assistir-ao-jogo-do-brasileirao-2026",
+   "https://www.noticiasaominuto.com.br/esporte/2431863/brasileirao-2026-veja-os-rebaixados-e-quem-ainda-luta-pela-libertadores"
+  ]
+ },
+ {
+  "eid": "sr:match:76515492",
+  "fx": "SE Palmeiras SP v Operario Ferroviario EC PR",
+  "sport": "football",
+  "absences": "youth side - not checked",
+  "context": "Copa do Brasil Sub-20 semi-final SECOND LEG at Arena Barueri, 20:00 BRT. Palmeiras won first leg (likely 3-0 at Ponta Grossa per Sportradar H2H). Minor date conflict: early Operario preview said 25 Nov, Palmeiras site (25 Nov post) says Thu 26.",
+  "news": "Youth knockout second leg; Palmeiras likely 3-0 up",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: youth + knockout; Over 1.5 too short",
+  "confidence": 0.1,
+  "sources": [
+   "https://palmeiras.com.br/noticias/apos-vitoria-na-ida-palmeiras-recebe-operario-pr-pela-semifinal-da-copa-do-brasil/",
+   "https://arede.info/esporte/693802/operario-enfrenta-o-palmeiras-por-vaga-inedita-na-final-da-copa-do-brasil-sub-20-veja-onde-assistir"
+  ]
  }
 ]

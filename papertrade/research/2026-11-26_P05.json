@@ -430,5 +430,198 @@
   "sources": [
    "https://hockeyresultat.se/spelschema-shl/"
   ]
+ },
+ {
+  "eid": "sr:match:72119552",
+  "fx": "MODO Hockey v Linkopings HC",
+  "sport": "ice hockey",
+  "absences": "not researched (women's)",
+  "context": "SDHL women's game. No SDHL schedule found for 26 Nov; no contradicting source.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hockeyresultat.se/spelschema-shl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72119554",
+  "fx": "SDE Hockey v Lulea HF/MSSK",
+  "sport": "ice hockey",
+  "absences": "not researched (women's)",
+  "context": "SDHL women's game. No SDHL schedule found for 26 Nov; no contradicting source.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hockeyresultat.se/spelschema-shl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72127742",
+  "fx": "Vasteras IK  v Farjestads BK",
+  "sport": "ice hockey",
+  "absences": "not researched (youth)",
+  "context": "Swedish U20 Nationell, youth. Both sides 8-2 in last 10; no mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth: no picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75208618",
+  "fx": "Ferro Carril Oeste v Ciudad de Buenos Aires",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Superliga Tour 3 in Rosario (neutral). Ferro bottom on 4 pts; Ciudad unbeaten, 2nd on 15 pts. Source lists Ferro-Ciudad Thu 15:00 local (=18:00 UTC, matches). Ciudad face leaders UPCN the next evening (Fri 21:00) - rotation risk.",
+  "news": "Ciudad v bottom side Ferro on eve of the UPCN title clash.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ciudad ML 1.12 (below floor); set lines with Ciudad possibly resting starters before UPCN.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sanjuan8.com/ovacion/upcn-juega-el-tour-3-el-choque-invictos-ciudad-n1620000",
+   "https://www.0264noticias.com.ar/noticias/2026/11/25/118494-con-el-clasico-ante-ciudad-upcn-abre-el-tour-3-en-rosario",
+   "https://www.diariocronica.com.ar/noticias/2026/11/25/180030-waiwen-vuelve-a-la-competencia-frente-a-san-lorenzo-y-en-rosario",
+   "https://www.diariodecuyo.com.ar/pasion-deportiva/upcn-afronta-el-tour-3-un-clasico-ciudad-que-puede-definir-la-cima-la-superliga-n6589518"
+  ]
+ },
+ {
+  "eid": "sr:match:72123592",
+  "fx": "HC Ajoie Porrentruy v EHC Biel",
+  "sport": "ice hockey",
+  "absences": "No current list for this date. Recent reports: Ajoie without Pilet, Smirnovs (inj), Julius Honka (susp); Biel without Grossmann, Haas (inj), Aeschbach (ill).",
+  "context": "No preview found for 26 Nov. Biel games average 7.6 goals in last 10 (3.7 GF, 3.9 GA), 4.2 GA away; Ajoie home 3.5 GF.",
+  "news": "no news found for this date; older injury lists only.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.37,
+    "p": 0.708,
+    "why": "Over 4.5 regulation: Biel games 7.6 goals avg, 1-4 away conceding 4.2; Ajoie 3.5 GF at home. Own p ~0.72 (house 0.71)."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8262,
+    "why": "Biel 2+ goals: Biel 3.7 GF overall, Ajoie concede 2.9. Own p ~0.83 (house 0.83)."
+   }
+  ],
+  "avoid": "Result-sides (near pick-em); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bluewin.ch/en/sport/zugs-liberation-under-new-coach-langnau-fails-against-ajoie-scb-top-away-from-home-li.3064004",
+   "https://www.swisshabs.ch/de/artikel/gotteron-zwei-weitere-spieler-fehlen-gegen-ajoie",
+   "https://www.bluewin.ch/en/sport/champion-fribourg-gotteron-defeats-ajoie-by-a-wide-margin-li.3629247"
+  ]
+ },
+ {
+  "eid": "sr:match:72123594",
+  "fx": "HC Fribourg-Gotteron v EV Zug",
+  "sport": "ice hockey",
+  "absences": "No current list for this date. Earlier reports: Fribourg-Gottéron had a long injury list (De la Rose, Glauser, Marchon, Nemeth, Streule, Sörensen, Walser); Zug without Riva, Bengtsson, Künzle.",
+  "context": "Zug under a new coach (\"liberation\"), 7-3 in last 10 (3.9 GF). Fribourg 3-1-6 in last 10. No preview found for 26 Nov.",
+  "news": "no news found for this date.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.22,
+    "p": 0.7983,
+    "why": "Over 3.5 regulation: Zug games 6.2 goals avg (3.9 GF), Fribourg 4.9; injury-hit Fribourg defence. Own p ~0.81 (house 0.80)."
+   }
+  ],
+  "avoid": "Zug +1.5 catch and DC lines (near pick-em, big-club feel).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bluewin.ch/en/sport/zugs-liberation-under-new-coach-langnau-fails-against-ajoie-scb-top-away-from-home-li.3064004",
+   "https://www.swisshabs.ch/de/artikel/gotteron-zwei-weitere-spieler-fehlen-gegen-ajoie",
+   "https://www.bluewin.ch/en/sport/champion-fribourg-gotteron-defeats-ajoie-by-a-wide-margin-li.3629247",
+   "https://www.watson.ch/sport/ev-zug/659160939-national-league-zsc-gewinnt-deutlich-gegen-fribourg-davos-verliert"
+  ]
+ },
+ {
+  "eid": "sr:match:72881746",
+  "fx": "Pontypool v Cardiff",
+  "sport": "rugby",
+  "absences": "Cardiff RFC team news posted 25 Nov (names not retrieved).",
+  "context": "Super Rygbi Cymru. Pontypool 2-8 in last 10; Cardiff 7-3, won H2H 43-5. Club and broadcaster list Thu 26 Nov 19:30 (=19:30 UTC).",
+  "news": "Dragons' published fixture list places Pontypool v Cardiff in Round 10 on 28/11/2026, conflicting with the 26 Nov club listing.",
+  "veto": true,
+  "veto_reason": "Date conflict: Dragons fixture list 28/11 v club/broadcaster 26/11.",
+  "picks": [],
+  "avoid": "Cardiff -8.5 (would otherwise be the pick, p 0.69).",
+  "confidence": 0.1,
+  "sources": [
+   "https://pontypoolrugby.co.uk/stats-fixtures-results",
+   "https://dragonsrfc.wales/news/2026/june/super-rygbi-cymru-fixtures-for-2627-season.html",
+   "https://cardiffrfc.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:72876390",
+  "fx": "AC Brive v Biarritz Olympique",
+  "sport": "rugby",
+  "absences": "Heavy rotation: Brive made 9 changes and Biarritz 11 changes to their starting XVs (AllRugby). Brive XV incl. Abdaladze, Tuivuaka, Olding, Krone; Biarritz incl. Coria Marchetti, Sonzogni, Britz.",
+  "context": "Pro D2 J12, Stade Municipal, ref Adrien Marbot, Canal+. Brive 5th 31 pts (7W-4L), Biarritz 7th 28 pts; Biarritz 1-4 away conceding 39. Kick-off: ICI and AllRugby 21:00 (=20:00 UTC, matches board), AllezBriveRugby says 22:00.",
+  "news": "Both sides heavily rotated; kick-off time differs between sources (21h v 22h).",
+  "veto": true,
+  "veto_reason": "Kick-off conflict (21:00 v 22:00 local) plus 9/11 changes to the XVs (rotation).",
+  "picks": [],
+  "avoid": "Brive -13.5/-15.5 (rotation); totals.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.allrugby.com/news/pro-d2-2027-j12-composition-brive-biarritz-3915.html",
+   "https://www.ici.fr/nouvelle-aquitaine/pyrenees-atlantiques-64/biarritz/pro-d2-le-biarritz-olympique-promet-d-etre-guerrier-face-a-brive-ce-jeudi-soir-6048235?at_locale=41",
+   "https://www.allezbriverugby.com/news/pro-d2-brive-biarritz-composition-du-bopb-25-11-2026/",
+   "https://www.allezbriverugby.com/classement/"
+  ]
+ },
+ {
+  "eid": "sr:match:75208620",
+  "fx": "Waiwen Comodoro Rivadavia v San Lorenzo de Almagro",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Superliga Tour 3 in Rosario (neutral venue, no real home edge). Waiwen 11 pts return to competition; San Lorenzo bottom on 4 pts, 1-3 away in last 10. Source lists Thu 18:00 local (=21:00 UTC, matches). H2H 0-3 earlier.",
+  "news": "Waiwen return v bottom side San Lorenzo in Rosario.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.6719,
+    "why": "Waiwen ML: 11 pts v San Lorenzo 4 pts (bottom), San Lorenzo 3-7 in last 10. Neutral venue. Own p ~0.68 (house 0.67); fill, H2H 0-3 caveat."
+   }
+  ],
+  "avoid": "Set handicaps; 5th-set markets.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sanjuan8.com/ovacion/upcn-juega-el-tour-3-el-choque-invictos-ciudad-n1620000",
+   "https://www.0264noticias.com.ar/noticias/2026/11/25/118494-con-el-clasico-ante-ciudad-upcn-abre-el-tour-3-en-rosario",
+   "https://www.diariocronica.com.ar/noticias/2026/11/25/180030-waiwen-vuelve-a-la-competencia-frente-a-san-lorenzo-y-en-rosario",
+   "https://www.diariodecuyo.com.ar/pasion-deportiva/upcn-afronta-el-tour-3-un-clasico-ciudad-que-puede-definir-la-cima-la-superliga-n6589518"
+  ]
  }
 ]
