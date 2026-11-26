@@ -1,37 +1,37 @@
 {
- "as_of": "2026-11-25 20:37 UTC",
- "outcomes": 4400548,
+ "as_of": "2026-11-26 04:01 UTC",
+ "outcomes": 4429752,
  "first": "2026-10-12",
- "last": "2026-11-25",
+ "last": "2026-11-26",
  "calibration": {
-  "football|25|Goal Range|other|1.60-2.19": 0.0187,
-  "football|25|Goal Range|other|2.20-3.99": -0.0125,
-  "football|37|1X2 & Over/Under 3.5|other|2.20-3.99": 0.0137,
+  "football|25|Goal Range|other|1.60-2.19": 0.0189,
+  "football|25|Goal Range|other|2.20-3.99": -0.0124,
+  "football|29|GG/NG|No|2.20-3.99": 0.0182,
+  "football|37|1X2 & Over/Under 3.5|other|2.20-3.99": 0.0138,
   "football|37|1X2 & Over/Under 3.5|other|4.00+": -0.0052,
-  "football|37|1X2 & Over/Under 4.5|other|4.00+": -0.0035,
+  "football|37|1X2 & Over/Under 4.5|other|4.00+": -0.0036,
   "football|46|Half Time/Full Time Correct Score|other|4.00+": 0.0004,
-  "football|552|1st Half - Multigoals|other|4.00+": -0.0062,
-  "football|68|1st Half - Over/Under|Over|4.00+": -0.0115,
-  "football|68|1st Half - Over/Under|Under|<1.30": 0.0135,
-  "football|900301|Away Team Total Corners|Over|1.30-1.59": -0.0202,
-  "football|900301|Away Team Total Corners|Under|2.20-3.99": 0.0213,
-  "football|15|Winning Margin|other|2.20-3.99": 0.0166,
-  "football|58|Both Halves Over 1.5|No|1.30-1.59": -0.018,
-  "football|854|Home Team or Over 2.5|No|4.00+": -0.0162,
-  "football|14|Handicap 0:1|Draw level|2.20-3.99": 0.0201,
-  "football|83|2nd Half - 1X2|Home|4.00+": -0.0132,
+  "football|552|1st Half - Multigoals|other|4.00+": -0.0064,
+  "football|68|1st Half - Over/Under|Over|4.00+": -0.012,
+  "football|68|1st Half - Over/Under|Under|<1.30": 0.014,
+  "football|900301|Away Team Total Corners|Over|1.30-1.59": -0.0208,
+  "football|900301|Away Team Total Corners|Under|2.20-3.99": 0.0221,
+  "football|15|Winning Margin|other|2.20-3.99": 0.016,
+  "football|854|Home Team or Over 2.5|No|4.00+": -0.0159,
+  "football|14|Handicap 0:1|Draw level|2.20-3.99": 0.0196,
+  "football|83|2nd Half - 1X2|Home|4.00+": -0.013,
   "football|29|GG/NG|Yes|2.20-3.99": 0.0194,
   "football|30|Teams to Score|Both teams|2.20-3.99": 0.0181,
-  "football|14|Handicap 1:0|Draw level|2.20-3.99": 0.0174
+  "football|14|Handicap 1:0|Draw level|2.20-3.99": 0.0176
  },
- "slices_tested": 1225,
+ "slices_tested": 1230,
  "form": {
   "football": {
-   "b": 0.0321,
-   "se": 0.0331,
-   "z": 0.97,
-   "n": 58693,
-   "fixtures": 1658,
+   "b": 0.0313,
+   "se": 0.0327,
+   "z": 0.96,
+   "n": 60476,
+   "fixtures": 1701,
    "use": 0.0
   },
   "american football": {
@@ -43,54 +43,54 @@
    "use": 0.0
   },
   "basketball": {
-   "b": 0.0792,
-   "se": 0.0693,
-   "z": 1.14,
-   "n": 45867,
-   "fixtures": 673,
+   "b": 0.0379,
+   "se": 0.0664,
+   "z": 0.57,
+   "n": 49408,
+   "fixtures": 724,
    "use": 0.0
   },
   "volleyball": {
-   "b": -0.308,
-   "se": 0.2158,
-   "z": -1.43,
-   "n": 308,
-   "fixtures": 167,
+   "b": -0.1916,
+   "se": 0.2109,
+   "z": -0.91,
+   "n": 324,
+   "fixtures": 177,
    "use": 0.0
   },
   "ice hockey": {
-   "b": 0.2497,
-   "se": 0.1471,
-   "z": 1.7,
-   "n": 8537,
-   "fixtures": 363,
+   "b": 0.253,
+   "se": 0.1398,
+   "z": 1.81,
+   "n": 9313,
+   "fixtures": 391,
    "use": 0.0
   }
  },
  "research": {
   "vetoed fixtures: short-priced main markets": {
-   "n": 4908,
-   "fx": 312,
-   "resid": 0.0029552780650570496,
-   "se": 0.005453066333136556,
-   "z": 0.5419479398405189,
-   "roi": -0.06565199674001627
+   "n": 5184,
+   "fx": 326,
+   "resid": 0.0010816435978973752,
+   "se": 0.005262465823269063,
+   "z": 0.20553931070006537,
+   "roi": -0.06829668209876538
   },
   "researched, not vetoed: same markets": {
-   "n": 70553,
-   "fx": 3398,
-   "resid": -0.0014529323698155986,
-   "se": 0.001780383569312118,
-   "z": -0.8160782849602258,
-   "roi": -0.0635342224993982
+   "n": 72115,
+   "fx": 3470,
+   "resid": -0.0014888826735824688,
+   "se": 0.001760609348762188,
+   "z": -0.8456632782446833,
+   "roi": -0.06342771961450519
   },
   "research picks": {
-   "n": 1552,
-   "fx": 1243,
-   "resid": -0.004679513921778347,
-   "se": 0.012270536286236963,
-   "z": -0.38136180951007365,
-   "roi": -0.04963917525773193
+   "n": 1589,
+   "fx": 1275,
+   "resid": -0.006118571378728758,
+   "se": 0.012114247754618541,
+   "z": -0.5050723332281247,
+   "roi": -0.051403398363750755
   }
  }
 }

@@ -1,14 +1,14 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-25 20:38 UTC. Totals: 17 won · 231 dead · 5 alive · 0 expired before settling · 97 never seen live.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-26 04:01 UTC. Totals: 17 won · 234 dead · 5 alive · 0 expired before settling · 97 never seen live.
 
 ## Return per 1-unit stake (all settled tickets, from papertrade/ticket_ledger.jsonl; odds as first seen; 7 early wins with unrecorded odds left out)
 
 | Ticket size | Tickets | Won | Staked | Returned | ROI |
 |---|---|---|---|---|---|
-| 1-7 legs | 39 | 7 | 39 | 14.5 | -63% |
-| 8-12 legs | 27 | 3 | 27 | 25.7 | -5% |
-| 13+ legs | 175 | 0 | 175 | 0.0 | -100% |
+| 1-7 legs | 40 | 7 | 40 | 14.5 | -64% |
+| 8-12 legs | 28 | 3 | 28 | 25.7 | -8% |
+| 13+ legs | 176 | 0 | 176 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -356,6 +356,9 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-24 | SWRJ95 | Tuesday night basketball 500x (10 legs, 541x, 1 in 1,155) | 10 | 4W/4L/0V/2P | DEAD | Purdue Boilermakers v DePaul Blue Demons — Over/Under Over 130.5 (56:65); South Alabama Jaguars v Florida A&M Rattlers — Over/Under (incl. overtime) 142.5 Over 142.5 (74:49); Bellarmine Knights v Georgia Southern Eagles — Over/Under (incl. overtime) 152.5 Over 152.5 (82:67); Clemson Tigers v Washington Huskies — Over/Under Over 150.5 (63:64) |
 | 2026-11-24 | NG7JWE | Tuesday night basketball 500x v2 (9 legs, 420x, 1 in 749) | 9 | 2W/5L/0V/2P | DEAD | Orlando Magic v Detroit Pistons — Orlando Magic Over/Under (incl. overtime) 106.5 Over 106.5 (86:104); Washington Wizards v Boston Celtics — Handicap (incl. overtime) 9.5 Home (+9.5) (116:131); Wofford Terriers v Queens (NC) Royals — Over/Under (incl. overtime) 174.5 Over 174.5 (86:77); Old Dominion Monarchs v Hampton Pirates — Over/Under (incl. overtime) 131.5 Over 131.5 (71:59); Missouri Tigers v Evansville Purple Aces — Over/Under (incl. overtime) 147.5 Over 147.5 (78:67) |
 | 2026-11-24 | RXQ2AJ | Tuesday night basketball 500x v3 (9 legs, 495x, 1 in 888) | 9 | 2W/6L/0V/1P | DEAD | Orlando Magic v Detroit Pistons — Orlando Magic Over/Under (incl. overtime) 106.5 Over 106.5 (86:104); Washington Wizards v Boston Celtics — Handicap (incl. overtime) 9.5 Home (+9.5) (116:131); Kennesaw State Owls v Eastern Michigan Eagles — Handicap (incl. overtime) -5.5 Home (-5.5) (56:60); Old Dominion Monarchs v Hampton Pirates — Over/Under (incl. overtime) 131.5 Over 131.5 (71:59); Southern Arkansas Muleriders v West Alabama Tigers — Over/Under (incl. overtime) 143.5 Over 143.5 (65:69); Tennessee Tech Golden Eagles v West Georgia Wolves — Over/Under (incl. overtime) 163.5 Under 163.5 (124:85) |
+| 2026-11-25 | XW8T3R | LGAEWX CORE (5 legs, 3.0x, 1 in 3.7) | 5 | 3W/2L/0V/0P | DEAD | Hartlepool United v Solihull Moors FC — Asian Handicap -1.5 Away (+1.5) (2:0); Atletico Madrid v Viking FK — Over/Under Over 2.5 (2:0) |
+| 2026-11-25 | ST2YLW | LGAEWX EDIT (11 legs, 13.9x, 1 in 21.7) | 11 | 6W/3L/2V/0P | DEAD | Hartlepool United v Solihull Moors FC — Asian Handicap -1.5 Away (+1.5) (2:0); Atletico Madrid v Viking FK — Over/Under Over 2.5 (2:0); US Cremonese v US Avellino — Double Chance Home or Draw (0:1) |
+| 2026-11-25 | G48C1P | Wednesday night basketball 500x (22 legs, 603x, 1 in 1,593) | 22 | 13W/3L/0V/6P | DEAD | Richmond Spiders v Bethune Cookman Wildcats — 1st Half - Draw No Bet Home (86:79); New Mexico Lobos v Mississippi Valley State Delta Devils — Over/Under (incl. overtime) 159.5 Under 159.5 (100:77); Nebraska Cornhuskers v Southern University Jaguars — Over/Under (incl. overtime) 156.5 Under 156.5 (101:72) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
