@@ -1,0 +1,508 @@
+[
+ {
+  "eid": "sr:match:74056948",
+  "fx": "Mara Sugar FC v Kenya Police FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kenya PL 2026-27 early season (~round 10-11); both sides low-scoring (Mara 0.9 gf, Police 1.1 gf last 10). Police were 2025-26 champions.",
+  "news": "no news found for this fixture (Goal.com table: KCB 1st, Police 4th, Mara 8th, undated)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides and Overs: draw-heavy, low-scoring pair; U3.5 1.14 below odds floor; U2.5 p 0.67 fails Unders gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.goal.com/en-ke/team/murang-a-seal/table/1d3i80tmwhan00mwoe29zihyi",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Kenyan_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:74056950",
+  "fx": "Muranga Seal v Kenya Commercial Bank",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kenya PL; KCB reportedly top of table (14 pts from 7, undated snapshot), 7W in last 10. Muranga 5th.",
+  "news": "no news found for this fixture; KCB also listed v Mara Sugar on Nov 21 (round 11)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "KCB away result at p 0.38 below away gate; Kenya thin league for Overs.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.goal.com/en-ke/team/murang-a-seal/table/1d3i80tmwhan00mwoe29zihyi",
+   "https://www.365scores.com/en-us/football/match/premier-league-5575/kenya-commercial-bank-mara-sugar-13319-82997-5575"
+  ]
+ },
+ {
+  "eid": "sr:match:76882414",
+  "fx": "AL Sareeh v Al Aqaba",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Jordan First Division (second tier), no web coverage of the round. House makes Al Sareeh 0.77 favourite despite Sareeh 2W3D5L last 10 (home 0.8 gf) v Aqaba 2W8L; price not explained by form (possible relegated-club or squad change info).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Al Sareeh 1X2 1.23: house p far above form data with no research to explain it (data_conflict); thin second tier.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/football/league/pro-league-565"
+  ]
+ },
+ {
+  "eid": "sr:match:76882388",
+  "fx": "Al Yarmouk v Jerash Club",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Jordan First Division (second tier), no web coverage of the round. Jerash 7W last 10 (2.4 gf), Yarmouk 6W.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip result; second-tier Overs barred by thin-league rule.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76882400",
+  "fx": "Amman FC v Maan SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Jordan First Division (second tier), no web coverage of the round. Amman FC draw-heavy (5D, three 0-0 in last 6).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amman home 1X2 at p 0.545 with three recent 0-0s; Overs in thin league.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76882418",
+  "fx": "Hay AL Amir Hassan v Ittihad AL Ramtha",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Jordan First Division (second tier), no web coverage of the round. Hay Al Amir Hassan 0 goals in 4 home games.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ramtha away 1X2 p 0.52 below away gate.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76882386",
+  "fx": "Sahl Horan SC v Al Hashemehya",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Jordan First Division (second tier), no web coverage of the round. Al Hashemehya 1W4D away; Sahl Horan unbeaten at home (2W3D).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Draw-prone pair; no result side.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76882404",
+  "fx": "Sama AL Sarhan SC v Al-Ahly Amman",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Jordan First Division (second tier), no web coverage of the round.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76570806",
+  "fx": "Chador Malu Yazd v Mes Shahr-e Babak",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Iran Pro League. Mes Shahr-e Babak bottom (18th, 5 pts from 12, 0 wins, -16 GD), 0W4D6L last 10, 0.6 gf. Chadormalu mid-table but draw-heavy (5D last 10, 1W3D1L at home). Venue Nassiri Stadium Yazd, 12:45 UTC confirmed across listings.",
+  "news": "Mes winless all season; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Chadormalu 1X2 1.54 stat-only and draw-prone home side; Iran Overs (low-scoring). Mes Under 0.5 team goals p 0.59 below Unders gate.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ysscores.com/en/match/61863322/Chadormalu-SC-vs-Mes-Shahr-Babak-FC",
+   "https://onefootball.com/en/match/2739189",
+   "https://www.soccerway.com/iran/persian-gulf-pro-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73469294",
+  "fx": "Montenegro v North Macedonia",
+  "sport": "football",
+  "absences": "n/a",
+  "context": "Women's U19 EURO 2027 qualifying round 1 (UEFA lists 26 Nov 13:00 UTC; NMK then v Azerbaijan 29 Nov). Women's youth: no picks. Note house favours North Macedonia (p 0.60) while form data favours Montenegro (home 2.3 gf v NMK 2.6 ga) \u2014 data_conflict.",
+  "news": "Date/kick-off confirmed by UEFA",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's youth: excluded. Board v form conflict on who is favourite.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.uefa.com/womensunder19/match/2048412--montenegro-vs-north-macedonia/"
+  ]
+ },
+ {
+  "eid": "sr:match:75178864",
+  "fx": "Al Baqaa v AL Jazeera Club Amman",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Jordan Pro League round 9; 365Scores lists 26/11/2026 15:00, matches board. Al Jazeera strong away (2W2D, 2.75 gf).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Three-way coin-flip; nothing to anchor.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/football/league/pro-league-565"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114287677",
+  "fx": "Hapoel Nof Hagalil FC v Maccabi Kiryat Ata-Bialik",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Israel Liga Alef (third tier). Nof HaGalil 7th (16 pts/9), Kiryat Ata 10th (11/10).",
+  "news": "AiScore lists the fixture on 28 Nov 2026, board says 26 Nov 16:00",
+  "veto": true,
+  "veto_reason": "Date conflict: AiScore head-to-head lists Hapoel Nof HaGalil v Maccabi Ironi Kiryat Ata Bialik on 2026-11-28, board kick-off 2026-11-26.",
+  "picks": [],
+  "avoid": "Everything (date conflict; Israel lower tiers in thin-Overs list).",
+  "confidence": 0.1,
+  "sources": [
+   "https://m.aiscore.com/head-to-head/soccer--hapoel-nof-hagalil-vs-maccabi-ironi-bat-yam",
+   "https://soccer365.net/competitions/1858/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114287374",
+  "fx": "Hapoel Mahane Yehuda v Hapoel Marmorek FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Israel Liga Alef. No Sportradar form data; Hapoel Marmorek not found in any 2026-27 Liga Alef listing, Mahane Yehuda's division listed inconsistently.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No coverage, no form data; Israel lower-tier Overs barred.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.wikiwand.com/en/Liga_Alef"
+  ]
+ },
+ {
+  "eid": "sr:match:73734950",
+  "fx": "Stoke City U21 v Milan Futuro",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "PL International Cup group game 2; bet365 Stadium, 26 Nov 20:00 CET (=19:00 UTC, matches board). Milan Futuro is a senior Serie D side (4th, 26 pts/12) and won 2-1 at Everton U21 in game 1; Stoke U21 lost 0-2 to Gladbach and Nordsjaelland. Stoke U21 last 10: 1W, 1.6 gf / 2.5 ga.",
+  "news": "Milan Futuro won at Everton; Stoke pointless after two 0-2 defeats",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.8105,
+    "why": "Goals-only in a clear mismatch (senior Serie D side v pointless U21 that concedes 2.5/game; Stoke last-10 games avg 4.1 goals). Own p 0.82."
+   }
+  ],
+  "avoid": "Result sides (youth/reserve rule); Stoke catches.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.acmilan.com/en/news/articles/focus/2026-11-24/milan-futuro-strength-in-unity",
+   "https://www.milanpress.it/stoke-city-milan-futuro-dove-vederla/"
+  ]
+ },
+ {
+  "eid": "sr:match:74173078",
+  "fx": "Crystal Palace v Real Sociedad",
+  "sport": "football",
+  "absences": "Palace: Ismaila Sarr (groin, weeks), Chadi Riad (knee), Tomiyasu, Mingueza (doubt/out), Adam Wharton (suspended); Mateta availability disputed (Sports Mole: domestic ban only). Real Sociedad: Odriozola (knee), Barrenetxea (hamstring surgery), Yangel Herrera, Aramburu.",
+  "context": "EL league phase MD5. Both on 5 pts, in the bottom two of the EL table; Palace bottom of the Premier League under Thomas Frank. Must-win-ish for both.",
+  "news": "Palace without Wharton and Sarr; Sociedad without four regulars",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (both depleted, Palace in crisis); O1.5 1.16 below floor; Mateta status conflict (data_conflict).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/crystal-palace/europa-league/preview/crystal-palace-vs-real-sociedad-prediction-team-news-lineups_609735.html",
+   "https://www.dazn.com/en-US/news/soccer/ismaila-sarr-injury-update-crystal-palace-thomas-frank/1gm4jeyir4e6r1uhu6i1v9fmqe",
+   "https://africasoccer.com/crystal-palace-v-real-sociedad-europa-league-sides-meet-with-qualification-at-stake/",
+   "https://www.whoscored.com/matches/2029559/preview/europe-europa-league-2026-2027-crystal-palace-real-sociedad"
+  ]
+ },
+ {
+  "eid": "sr:match:74173080",
+  "fx": "Ferencvarosi Budapest v NK Celje",
+  "sport": "football",
+  "absences": "Ferencvaros: none reported. Celje: Jost Pisek only.",
+  "context": "EL MD5. Ferencvaros 4/4 wins in the EL (beat Celtic, Plzen, Torreense, Milan), 16 goals in last 6, chasing 12-13 unbeaten in Europe and an R16 place. Celje 25th, conceded 9 in 4 EL games, but unbeaten in 9 overall.",
+  "news": "Ferencvaros perfect in EL; Celje only Pisek out",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.41,
+    "p": 0.69977,
+    "why": "Ferencvaros 4/4 EL wins incl. Milan and Celtic, full squad, Celje leaking 2.25/game in EL. Own p 0.72."
+   },
+   {
+    "mid": "547",
+    "spec": "total=1.5",
+    "desc": "Home/Draw & Over 1.5",
+    "odds": 1.27,
+    "p": 0.7407541845,
+    "why": "Home side scores 2.4/game, Celje conceding 9 in 4 EL; covers the draw. Own p 0.75."
+   }
+  ],
+  "avoid": "Celje unbeaten in 9 - avoid big handicaps (-1.5).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.archyde.com/ferencvaros-targets-record-12th-unbeaten-match-vs-celje-to-reach-europa-league-round-of-16/",
+   "https://www.whoscored.com/matches/2029551/preview/europe-europa-league-2026-2027-ferencvaros-nk-celje",
+   "https://www.forebet.com/en/football/matches/ferencvaros-celje-2550420"
+  ]
+ },
+ {
+  "eid": "sr:match:74173094",
+  "fx": "Hoffenheim v Sturm Graz",
+  "sport": "football",
+  "absences": "Hoffenheim: De Cat (knee), Gendrey (broken leg), Hajdari (foot), Hranac (knee), Wimmer (hamstring). Sturm Graz: Kiteishvili, Rozga, Grgic, Khudyakov out; Koller (illness) doubt; Malic and Vallci doubts.",
+  "context": "EL MD5. Sturm winless in 6 and conceded 14 in those 6; Hoffenheim scored in each of last 3 EL games.",
+  "news": "Sturm without Kiteishvili/Rozga and possibly two CBs; 14 conceded in 6",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.3,
+    "p": 0.742108,
+    "why": "Hoffenheim to score 2+: Sturm conceded 14 in 6, possible absence of Malic/Vallci/Koller at the back. Hoffenheim home gf 2.4. Own p 0.77."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.34,
+    "p": 0.734763,
+    "why": "Sturm winless in 6 with Kiteishvili (playmaker) out; Hoffenheim absences are defensive. Own p 0.75."
+   }
+  ],
+  "avoid": "Unders; Sturm catches (+1.5/+2).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/hoffenheim/europa-league/preview/hoffenheim-vs-sturm-graz-prediction-team-news-lineups_609774.html",
+   "https://www.whoscored.com/matches/2029615/preview/europe-europa-league-2026-2027-hoffenheim-sturm-graz",
+   "https://sports.yahoo.com/soccer/articles/tsg-hoffenheim-vs-sturm-graz-075900008.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74173082",
+  "fx": "Juventus v AC Omonia Nicosia",
+  "sport": "football",
+  "absences": "Juventus: Kenan Yildiz, Khephren Thuram, Manuel Locatelli (long-term); Neto may start in goal; Jeff Ekhator set for first start; F. Conceicao back. Omonia: none reported; Diony scored in 3 straight.",
+  "context": "EL MD5. Juve 5th (10 pts), unbeaten in 4; Omonia 18th (6 pts). Juve won all 4 previous meetings. Signs of rotation.",
+  "news": "Juve rotating (Neto, Ekhator) but unbeaten in 4; 4-0 H2H record v Omonia",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.827679,
+    "why": "Juve 4/4 H2H, Omonia 18th; rotation (Neto/Ekhator) trims the margin, not the result. Own p 0.82."
+   }
+  ],
+  "avoid": "Handicaps -1.5/-2 and Juve team O2.5 (rotation, Juve only 1.7 gf last 10); Omonia have a scorer in form (Diony).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/europa-league/preview/juventus-vs-omonia-prediction-team-news-lineups_609764.html",
+   "https://football-italia.net/uel-juventus-omonia-probable-line-ups",
+   "https://www.blackwhitereadallover.com/previews-reviews/43053/juventus-omonoia-nicosia-2026-europa-league-league-phase-matchday-5-preview-team-news-schedule-how-to-watch"
+  ]
+ },
+ {
+  "eid": "sr:match:74173088",
+  "fx": "Lyon v Lillestroem SK",
+  "sport": "football",
+  "absences": "Lyon: Tyler Morton, Clinton Mata out; Openda status disputed (injured per Football Whispers, back in squad per L'Equipe). Lillestrom: Kamil Djebara, Espen Garnas, Lars Mogstad Ranger out.",
+  "context": "EL MD5. Lyon 13th (7 pts) under new coach Carlos Vicens (Fonseca left for Sporting), just beat Lille. Lillestrom 34th (1 pt, 2 scored, 10 conceded). Lyon 4/4 home wins last 10 at 2.75 gf.",
+  "news": "New-coach Lyon v Lillestrom with 1 pt and 2 goals in 4",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.799519,
+    "why": "Lillestrom 1 pt, 2-10 goals in EL, three absentees; Lyon 4/4 at home. Own p 0.82."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Home (-1.0)",
+    "odds": 1.3,
+    "p": 0.746064,
+    "why": "Push on 1-goal win; Lillestrom conceding 2.5/EL game. Own p 0.76."
+   }
+  ],
+  "avoid": "Lillestrom catches; Lyon -2 (possible rotation of Openda, Himbert/Duranville kids starting).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/lyon/europa-league/preview/lyon-vs-lillestrom-prediction-team-news-lineups_609716.html",
+   "https://www.whoscored.com/matches/2029580/preview/europe-europa-league-2026-2027-lyon-lillestroem",
+   "https://www.getfootballnewsfrance.com/2026/lyon-predicted-xi-v-lillestrom-remi-himbert-to-earn-chance-to-impress-lois-openda-back-in-the-squad/"
+  ]
+ },
+ {
+  "eid": "sr:match:74173084",
+  "fx": "NEC Nijmegen v Rennes",
+  "sport": "football",
+  "absences": "Rennes: Eliezer Mayenda, Valentin Rongier doubtful. NEC: Mitchel Bakker, Bram Nuytinck, Perr Schuurs possibly out.",
+  "context": "EL MD5 at the Goffertstadion. NEC 12th (7 pts), Rennes 17th (6 pts, unbeaten in EL 1W3D) but winless in 4 domestically. Linssen 4 EL goals.",
+  "news": "Both defences depleted/doubtful; predictions split 2-1/1-1",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (coin-flip, predictions split); O1.5 1.15 below odds floor.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.whoscored.com/matches/2029628/preview/europe-europa-league-2026-2027-nec-nijmegen-rennes",
+   "https://www.sportskeeda.com/football/nec-nijmegen-vs-rennes-prediction-betting-tips-november-26th-2026",
+   "https://footballwhispers.com/blog/nec-vs-rennes-prediction-26-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74173086",
+  "fx": "OFI Crete v RSC Anderlecht",
+  "sport": "football",
+  "absences": "OFI: Kenan Kodro (hamstring), Krizmanic, Koutsoupias, Lagoudakis, Chnaris, Marinakis (pubic), Leya Iseka; Yahoo lists Bouchalakis, Fountas, Poungouras suspended (conflicts with another source saying Fountas is fit). Anderlecht: Ilay Camara (foot, out/doubt), Lucas Hey (broken leg); Coosemans and Sikan in squad.",
+  "context": "EL MD5 in Heraklion. OFI 1W1D1L home last 10 at 0.67 gf; Anderlecht chasing a third EL win.",
+  "news": "OFI missing 6-7 players plus possibly 3 suspended",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.38,
+    "p": 0.702718,
+    "why": "OFI without 6-7 players (Kodro, Koutsoupias, Lagoudakis...) and possibly 3 suspended; OFI 0.9 gf last 10. DNB because Anderlecht's away form is mixed (2W1D3L last 6 away). Own p 0.71."
+   }
+  ],
+  "avoid": "Anderlecht 1X2 (away p 0.53 below gate); OFI suspension list disputed (data_conflict).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/anderlecht/europa-league/preview/ofi-crete-vs-anderlecht-prediction-team-news-lineups_609757.html",
+   "https://sports.yahoo.com/soccer/articles/preview-ofi-vs-anderlecht-team-193500268.html",
+   "https://www.anderlecht-online.be/en"
+  ]
+ },
+ {
+  "eid": "sr:match:74173090",
+  "fx": "SCU Torreense v Celtic",
+  "sport": "football",
+  "absences": "Celtic: Mika Baur, Alistair Johnston, Benjamin Nygren out; Jota added to EL squad. Torreense: no list found.",
+  "context": "EL MD5. Torreense (Portuguese 2nd tier) 2W2D? / 2W2L, 19th; Celtic beat Besiktas from behind last time out under O'Neill.",
+  "news": "Venue and kick-off conflict between sources (Leiria Dr. Magalhaes Pessoa v Estadio Manuel Marques; Goal lists 12:00 v 20:00; one preview says Thursday 28 November)",
+  "veto": true,
+  "veto_reason": "Venue/kick-off conflict: most sources give Estadio Dr. Magalhaes Pessoa (Leiria) 20:00 GMT, one gives Estadio Manuel Marques (Torres Vedras), Goal gives 12:00 and one preview dates it 28 Nov. Probably benign (UEFA ground move), but binding veto on venue/date conflict.",
+  "picks": [],
+  "avoid": "All markets (veto). Without veto the candidate would have been Celtic DNB 1.29.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/torreense/europa-league/preview/torreense-vs-celtic-prediction-team-news-lineups_609752.html",
+   "https://www.goal.com/en/news/live-stream-online-tv-where-to-watch-torreense-v-celtic/blteb14fa8d90eac1b8",
+   "https://thecelticbhoys.com/torreense-vs-celtic-europa-league-preview-predictions-team-news-tv-channel-and-live-stream"
+  ]
+ },
+ {
+  "eid": "sr:match:74173076",
+  "fx": "Sparta Prague v Alkmaar",
+  "sport": "football",
+  "absences": "Sparta: Adam Karabec out, Guddal suspended. AZ: Weslley Patati, Kees Smit (groin), Lewis Schouten, Stije Resink, Jizz Hornkamp out.",
+  "context": "EL MD5. Sparta winless in 5, coach Brian Priske gone and sporting director Rosicky left (new/interim coach). AZ 14th (6 pts), Sparta 23rd (4 pts). AZ beat Sparta 6-1 on aggregate in March 2026 Conference League R16. Venue 'Letna' v 'Epet Arena' is the same stadium (sponsor name), not a conflict.",
+  "news": "Sparta in managerial turmoil; AZ without Kees Smit and four others",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8041382031,
+    "why": "AZ last-10 games avg 3.3 goals, 6-1 aggregate H2H in March, Sparta defence leaking (1-3, 1-3, 0-2 at home recently). Own p 0.82."
+   }
+  ],
+  "avoid": "Result sides (interim-coach bounce risk v AZ missing Smit); AZ away p 0.42 below gate.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/sparta-prague/europa-league/preview/sparta-prague-vs-az-prediction-team-news-lineups_609744.html",
+   "https://www.whoscored.com/matches/2029539/preview/europe-europa-league-2026-2027-sparta-prague-az-alkmaar",
+   "https://www.sportskeeda.com/football/sparta-prague-vs-az-alkmaar-prediction-betting-tips-november-26th-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74173092",
+  "fx": "Sunderland AFC v Jagiellonia Bialystok",
+  "sport": "football",
+  "absences": "Sunderland: Granit Xhaka (calf), Brian Brobbey, Daniel Ballard, Habib Diarra (thigh), Romaine Mundle (knee) out; Ta Bi, Ellborg, Browne, Alese not registered for EL. Jagiellonia: Ousmane Sow likely out (WhoScored) though other sources report no absences.",
+  "context": "EL MD5 at the Stadium of Light. Sunderland 11th, Jagiellonia 27th. Sunderland scored only 0.8/game in last 10; Sports Mole predicts 1-0.",
+  "news": "Sunderland without Xhaka, Brobbey, Diarra, Ballard, Mundle",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sunderland 1X2 1.27 (p 0.78 house): fragile favourite - five first-teamers out incl. both Xhaka and Brobbey and only 0.8 gf last 10 (R4 skip, not DNB). Overs too.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sunderlandecho.com/sport/football/sunderland-afc/sunderland-news-regis-le-bris-europa-league-9373742",
+   "https://www.sportsmole.co.uk/football/sunderland/europa-league/preview/sunderland-vs-jagiellonia-prediction-team-news-lineups_609736.html",
+   "https://www.whoscored.com/matches/2029658/preview/europe-europa-league-2026-2027-sunderland-jagiellonia-bialystok"
+  ]
+ },
+ {
+  "eid": "sr:match:76448416",
+  "fx": "Cavalier FC v Portmore United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Jamaica Premier League round 2 (season opener phase = transition). Sofascore: Cavalier 6th, Portmore 7th. H2H 23 meetings Cavalier 7 / Portmore 10; recent 2-2 (May 2026), 0-0 (Apr 2026), 0-2. Portmore unbeaten in 11 away. 20:00 UTC confirmed.",
+  "news": "Opener-phase fixture; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: round 2 is an opener (R1 transition), Portmore away p 0.47 below gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/football/match/cavalier-fc-portmore-united-fc/DPZsvzub",
+   "https://footystats.org/jamaica/cavalier-sc-vs-portmore-united-fc-h2h-stats",
+   "https://www.forebet.com/en/football/matches/cavalier-fc-portmore-united-2550115"
+  ]
+ }
+]
