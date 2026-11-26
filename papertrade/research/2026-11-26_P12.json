@@ -1,0 +1,455 @@
+[
+ {
+  "eid": "sr:match:75124096",
+  "fx": "Bravos de Margarita v Cardenales de Lara",
+  "sport": "baseball",
+  "absences": "none reported",
+  "context": "LVBP week 7, regular season; Bravos 2-8 last 10 (6.2 RS / 8.6 RA)",
+  "news": "Probables: Erasmo Ramirez (Lara) v Luis Escobar (Margarita, TBC). Schedule matches official calendar.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No ML (no p>=0.65 starter mismatch); +1.5 run-lines banned (only +3.5+); totals not supported. Lara ML 1.67 p0.56 below threshold; Margarita starter unconfirmed.",
+  "confidence": 0.2,
+  "sources": [
+   "https://elemergente.com/2026/11/asi-va-la-lvbp-resultados-del-miercoles-posiciones-transmisiones-de-tv-y-pitchers-para-este-jueves-26-de-noviembre-2026.html",
+   "https://eldiario.com/2026/10/12/calendario-lvbp-2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:75124098",
+  "fx": "Caribes de Anzoategui v Navegantes Del Magallanes",
+  "sport": "baseball",
+  "absences": "none reported",
+  "context": "LVBP; Magallanes 7-3 last 10, Caribes 2-8",
+  "news": "Probables: Jose Franco (Magallanes) v Harol Gonzalez (Anzoategui).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No ML (no p>=0.65 starter mismatch); +1.5 run-lines banned (only +3.5+); totals not supported. Magallanes form edge not a starter mismatch; house ~50/50.",
+  "confidence": 0.2,
+  "sources": [
+   "https://elemergente.com/2026/11/asi-va-la-lvbp-resultados-del-miercoles-posiciones-transmisiones-de-tv-y-pitchers-para-este-jueves-26-de-noviembre-2026.html",
+   "https://eldiario.com/2026/10/12/calendario-lvbp-2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:75124100",
+  "fx": "Leones del Caracas v Tigres de Aragua",
+  "sport": "baseball",
+  "absences": "none reported",
+  "context": "LVBP; Tigres 10-0 last 10 (many one-run wins), Leones 6-4; Leones just added two import pitchers",
+  "news": "Probables: Jose Manuel Gonzalez (Aragua) v Luis Palacios (Caracas).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No ML (no p>=0.65 starter mismatch); +1.5 run-lines banned (only +3.5+); totals not supported. Tigres streak built on 1-run wins - regression; no ML.",
+  "confidence": 0.2,
+  "sources": [
+   "https://elemergente.com/2026/11/asi-va-la-lvbp-resultados-del-miercoles-posiciones-transmisiones-de-tv-y-pitchers-para-este-jueves-26-de-noviembre-2026.html",
+   "https://eldiario.com/2026/10/12/calendario-lvbp-2026-2027/",
+   "https://meridiano.net/beisbol/beisbol-venezolano/lvbp-leones-del-caracas-blinda-su-pitcheo-con-dos-nuevos-importados-202611241400"
+  ]
+ },
+ {
+  "eid": "sr:match:75124102",
+  "fx": "Tiburones De La Guaira v Aguilas Del Zulia",
+  "sport": "baseball",
+  "absences": "none reported",
+  "context": "LVBP; even sides, H2H 5-7, 1-2 (Zulia)",
+  "news": "Probables: Jean Cabrera (Zulia) v Chris Devenski (La Guaira).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No ML (no p>=0.65 starter mismatch); +1.5 run-lines banned (only +3.5+); totals not supported.",
+  "confidence": 0.2,
+  "sources": [
+   "https://elemergente.com/2026/11/asi-va-la-lvbp-resultados-del-miercoles-posiciones-transmisiones-de-tv-y-pitchers-para-este-jueves-26-de-noviembre-2026.html",
+   "https://eldiario.com/2026/10/12/calendario-lvbp-2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:75880072",
+  "fx": "El Talar v Regatas San Nicolas",
+  "sport": "basketball",
+  "absences": "not checked (women's league)",
+  "context": "Women's Liga Femenina; El Talar 8-2 v Regatas 1-8 (conceding 79.7), H2H 88-51",
+  "news": "no news found (women's fixture; no date/venue conflict found)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no result/handicap sides; total O133.5 p0.58 well below 0.74.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:111111114683810",
+  "fx": "Venezuela v Ecuador",
+  "sport": "basketball",
+  "absences": "no roster news found",
+  "context": "FIBA AmeriCup 2029 PRE-qualifiers Group B, hosts Venezuela at Gimnasio Ciudad de La Asuncion, Isla Margarita, Nov 26-28; top two advance",
+  "news": "Official FIBA schedule confirms Venezuela v Ecuador Thu Nov 26 23:30 La Asuncion. No Sportradar data.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No line reaches thresholds (max p 0.58); Ecuador +17.5..+21.5 is a 15+ catch for a weak side - banned.",
+  "confidence": 0.15,
+  "sources": [
+   "https://about.fiba.basketball/en/regions/americas/news/nicaragua-venezuela-to-host-fiba-americup-2029-pre-qualifiers",
+   "https://www.fiba.basketball/en/events/fiba-americup-2029-pre-qualifiers"
+  ]
+ },
+ {
+  "eid": "sr:match:75756138",
+  "fx": "Quilmes Mar Del Plata v Deportivo Viedma",
+  "sport": "basketball",
+  "absences": "none reported",
+  "context": "Liga Argentina Sur; Viedma conference leader (7-3 last 10), Quilmes 3-7 (2-3 home)",
+  "news": "Fixture confirmed Thu Nov 26 (listing 18:00 local = 21:00 UTC vs board 00:00 UTC -> kick-off time unclear, not a date conflict). Viedma had been rested >2 weeks earlier in month.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=-5.5",
+    "desc": "Away (+5.5)",
+    "odds": 1.45,
+    "p": 0.641636,
+    "why": "Credible receiver: Viedma conference leader 7-3 v Quilmes 3-7; Viedma ML near coin-flip so +5.5 cushion ~0.67 (house 0.64). Statistical, no named mechanism -> fill only."
+   }
+  ],
+  "avoid": "Quilmes ML; totals (p<0.6). Note possible tip-off time mismatch (18:00 local listing) - verify still open before posting.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/basketball/match/liga-argentina-8042/deportivo-viedma-quilmes-de-mar-del-plata-78612-78619-8042",
+   "https://www.laliganacional.com.ar/laligaargentina/noticia/53844/tres-por-la-sur-y-uno-por-la-norte-para-el-lunes-de-liga-argentina"
+  ]
+ },
+ {
+  "eid": "sr:match:74062904",
+  "fx": "LSU Tigers v SMU Mustangs",
+  "sport": "basketball",
+  "absences": "LSU: Austin Nunez (foot) questionable per undated tracker; SMU none",
+  "context": "NCAA November non-conference; ESPN BPI 51/49",
+  "news": "Previews list no injuries; one tracker has Nunez questionable. Sources conflict mildly.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "LSU ML 1.29 p0.74 < 0.75; SMU +8.5 is an NCAA November catch (banned); totals p<0.67.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tonyspicks.com/2026/11/24/smu-vs-lsu-prediction-picks-11-26-26/",
+   "https://www.covers.com/sport/basketball/ncaab/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:74068300",
+  "fx": "Pittsburgh Panthers v DePaul Blue Demons",
+  "sport": "basketball",
+  "absences": "DePaul: Mason Lockett IV (foot, likely long-term), Amsal Delalic (meniscus, significant time)",
+  "context": "Neutral site Fort Myers (Fort Myers Tip-Off); Pitt 7-0, KenPom DePaul 39 / Pitt 40",
+  "news": "Toss-up between two unbeaten sides; DePaul missing two rotation players.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip; DePaul +4.5 is NCAA November catch (banned).",
+  "confidence": 0.15,
+  "sources": [
+   "https://lastwordonsports.com/basketball/2026/11/26/depaul-pitt/",
+   "https://bangthebook.com/depaul-blue-demons-vs-pittsburgh-panthers-prediction-2026-11-26/"
+  ]
+ },
+ {
+  "eid": "sr:match:77035628",
+  "fx": "Bochas Sport Club de Colonia Caroya v Riachuelo de la Rioja",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Liga Argentina Norte; Riachuelo on a triple road trip in Cordoba, Bochas is the last stop (fatigue); Bochas 0-10 last 10, 0-4 home",
+  "news": "Fixture confirmed Thursday slate; tip-off time unconfirmed, one source says 'Hoy'.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "DATA CONFLICT: house makes Bochas (0-10 last 10, 0-4 home) a 1.27 favourite v Riachuelo (2-8, 0-5 away). Either rosters changed or the form data is stale - skip both sides; Bochas ML p0.748 also below 0.75.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.laliganacional.com.ar/laligaargentina/noticia/53844/tres-por-la-sur-y-uno-por-la-norte-para-el-lunes-de-liga-argentina"
+  ]
+ },
+ {
+  "eid": "sr:match:73311932",
+  "fx": "Argentina v Bahamas",
+  "sport": "basketball",
+  "absences": "Argentina: Facundo Campazzo, Leandro Bolmaro, Gabriel Deck out (injury); Dato cut. Bahamas: no Buddy Hield, Deandre Ayton; 10-man squad (Isaiah Mobley, Travis Munnings)",
+  "context": "WC 2027 Americas Qualifiers Window 5, Group F; Argentina 6-2, Bahamas 4-4; in Zarate; Argentina needs win to qualify",
+  "news": "Argentina 12 confirmed by Prigioni (Laprovittola, Vildoza, Brussino, Caffaro bros, Vaulet...). Bahamas without NBA/Euroleague stars, only 10 players.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Argentina -15.5 p0.56 not enough; Bahamas +15.5..+19.5 is a 15+ catch for a depleted side - banned; totals p<0.67.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lanacion.com.ar/deportes/basquetbol/la-seleccion-argentina-de-basquetbol-llega-a-zarate-por-primera-vez-para-buscar-la-clasificacion-al-nid26112026/",
+   "https://deportv.gob.ar/basquetbol/argentina-bahamas-prigioni-confirmo-equipo-eliminatorias-mundial-2027-nid:19235",
+   "https://www.tribune242.com/news/2026/nov/26/ten-man-squad-named-for-november-window-of-fiba-world-cup-2027-americas-qualifiers/",
+   "https://www.nba.com/news/2027-fiba-world-cup-november-qualfiers-what-to-know"
+  ]
+ },
+ {
+  "eid": "sr:match:70901016",
+  "fx": "Texas Tech Red Raiders v TCU Horned Frogs",
+  "sport": "american football",
+  "absences": "TCU: QB Jaden Craig OUT (ankle), Adam Schobel 2nd start (15/31, 2 INT last week). Texas Tech: RB Quinten Joyner, WR Jalen Jones, S Miquel Dingle Jr out; OLB LaDamion Guyton doubtful",
+  "context": "Thanksgiving night, Lubbock; Texas Tech playing for Big 12 title-game berth (5-0 home, 43 ppg); TCU fired Sonny Dykes last weekend, interim HC Andy Avalos. Rivalry game (Texas in-state)",
+  "news": "TCU backup QB + coach fired midweek; Tech needs the win for the Big 12 title game. Date: sources say Thu Nov 26 local = board 01:00 UTC Nov 27, consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rivalry/derby -> no result-side per rules even though mechanism (QB out, coach fired) favours Tech -12.5 (my p ~0.58). Under 49.5 p0.57 below 0.82.",
+  "confidence": 0.25,
+  "sources": [
+   "https://sports.yahoo.com/articles/tcu-quarterback-texas-tech-footballs-033122189.html",
+   "https://www.heartlandcollegesports.com/2026/11/26/texas-tech-vs-tcu-prediction-odds-injury-report-for-week-13/",
+   "https://wreckemred.com/texas-tech-football-won-t-face-tcu-s-qb1-in-critical-big-12-showdown-on-thanksgiving"
+  ]
+ },
+ {
+  "eid": "sr:match:74247032",
+  "fx": "UC Davis Aggies v Jacksonville State Gamecocks",
+  "sport": "basketball",
+  "absences": "no injuries found",
+  "context": "Resorts World Classic, Las Vegas (neutral); UC Davis beat Omaha 80-78, Jax State beat Pacific 83-76 earlier in event",
+  "news": "Time confirmed 8:00 PM ET (01:00 UTC) on FloCollege.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Jax State ML p0.60 < 0.75; handicaps small and NCAA November catch banned.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.tonyspicks.com/2026/11/26/jacksonville-state-vs-uc-davis-prediction-picks-11-26-26/",
+   "https://bvmsports.com/2026/11/25/uc-davis-basketball-heads-to-las-vegas-for-resorts-world-classic/"
+  ]
+ },
+ {
+  "eid": "sr:match:71516058",
+  "fx": "Buffalo Bills v Kansas City Chiefs",
+  "sport": "american football",
+  "absences": "Chiefs: RB Kenneth Walker III OUT (groin, 3rd straight; rookie Emmett Johnson 2x100-yd), OT Jaylon Moore OUT, DT Omarr Norman-Lott OUT; TE Noah Gray, DL Peter Woods questionable. Bills: none out; CB Christian Benford, TE Dalton Kincaid, DL T.J. Sanders, G O'Cyrus Torrence, LB Dorian Williams questionable",
+  "context": "NFL Week 12 Thanksgiving night in Buffalo; both 8-9 of last 10; big-club clash",
+  "news": "Mahomes, Rashee Rice, Trey Smith available; Bills healthier overall.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result-side; KC +5.5 p0.58 and totals p<0.57 below thresholds.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.cbssports.com/nfl/news/nfl-thanksgiving-injury-report-micah-parsons-cleared-kenneth-walker-iii-practices/",
+   "https://www.buffalobills.com/news/buffalo-bills-injury-report-vs-chiefs-week-12-thanksgiving",
+   "https://heavy.com/sports/nfl/kansas-city-chiefs/chiefs-bills-final-injury-report-thanksgiving/"
+  ]
+ },
+ {
+  "eid": "sr:match:73311934",
+  "fx": "Panama v Puerto Rico",
+  "sport": "basketball",
+  "absences": "Puerto Rico: Jose Alvarado out (NBA); Isaiah Pineiro travels (was doubtful). Panama: full squad - Iverson Molinar, Akil Mitchell, Ricardo Lindo Jr",
+  "context": "WC 2027 Americas Qualifiers Window 5, Group F, Arena Roberto Duran Panama City; both 2-6, PR faces elimination (must-win); Panama coached by ex-PR coach Nelson Colon",
+  "news": "Colon calls this Panama's most complete group of the cycle; PR started practice with only 7 players. KO 8:40pm local = 01:40 UTC, matches board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "223",
+    "spec": "hcp=8.5",
+    "desc": "Home (+8.5)",
+    "odds": 1.5,
+    "p": 0.6190970526,
+    "why": "Named mechanism: Panama at home with its most complete roster (Molinar, Mitchell, Lindo) v a PR side without Alvarado that started camp with 7 players; both 2-6. Catch is >=8.5 for a credible home receiver; my p ~0.67 (house 0.62)."
+   }
+  ],
+  "avoid": "PR ML 1.39 p0.67 < 0.75; totals p<0.6.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.elnuevodia.com/deportes/baloncesto/notas/puerto-rico-enfrenta-la-eliminacion-ante-la-panama-de-nelson-colon-vamos-a-seguir-batallando/",
+   "https://www.infobae.com/america/agencias/2026/11/24/colon-confia-en-el-equipo-mas-completo-de-panama-para-medirse-con-puerto-rico-y-bahamas/",
+   "https://www.piodeportes.com/noticias/puerto-rico-se-juega-sus-aspiraciones-mundialistas-ante-panama-y-uruguay",
+   "https://www.elnuevodia.com/deportes/baloncesto/notas/con-siete-jugadores-puerto-rico-inicia-sus-practicas-para-una-cita-crucial-en-el-clasificatorio-fiba/"
+  ]
+ },
+ {
+  "eid": "sr:match:77182290",
+  "fx": "Alabama Crimson Tide v Kansas State Wildcats",
+  "sport": "basketball",
+  "absences": "Alabama: healthy (Jamarion Davis-Fleming probable, leg). Kansas State: Matt Gilhool questionable (missed last 3)",
+  "context": "Players Era Festival, Las Vegas (neutral); Alabama bounce-back after loss to Baylor",
+  "news": "Alabama full strength 2nd straight game; K-State 4-6 last 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Alabama -13.5 coin-flip; K-State +13.5 is an NCAA November catch (banned); totals p<0.68.",
+  "confidence": 0.15,
+  "sources": [
+   "https://bamahammer.com/alabama-vs-kansas-state-how-to-watch-odds-injuries-more-as-tide-seeks-players-era-bounce-back",
+   "https://www.rotowire.com/betting/college-basketball/game/kansas-state-vs-alabama-odds-2026-11-26-3038529"
+  ]
+ },
+ {
+  "eid": "sr:match:77182202",
+  "fx": "Louisville Cardinals v St. Johns Red Storm",
+  "sport": "basketball",
+  "absences": "Louisville: De'Shayne Montgomery (foot), Gabe Dynes (shoulder, season), Isaac Ellis OUT; Seth Trimble questionable. St. John's: Donnie Freeman OUT (Achilles, season)",
+  "context": "Neutral, Michelob ULTRA Arena Las Vegas, 9pm ET",
+  "news": "Louisville short three guards/bigs; St. John's 9-1 last 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "St. John's ML p0.53; Louisville +4.5 is NCAA November catch (banned); totals p<0.67.",
+  "confidence": 0.15,
+  "sources": [
+   "https://bigredlouie.com/louisville-basketball-vs-st-john-s-how-to-watch-odds-injury-updates-and-more-",
+   "https://www.covers.com/sport/basketball/ncaab/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:75922464",
+  "fx": "Simon Fraser Clan v Black Hills State Yellow Jackets",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "NCAA Division II; Simon Fraser (home) v Black Hills State; only 4 markets",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Black Hills away ML p0.745 < 0.75; thin D2 market.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74009824",
+  "fx": "Caneros De Los Mochis v Algodonerose Guasave",
+  "sport": "baseball",
+  "absences": "none reported",
+  "context": "LMP second half; series finale",
+  "news": "Probables: Luis Miguel Romero (Los Mochis) v Joel Rangel (Guasave).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No ML (no p>=0.65 starter mismatch); +1.5 run-lines banned (only +3.5+); totals not supported. Only ML on board, 50/50.",
+  "confidence": 0.15,
+  "sources": [
+   "https://losnoticieristas.com/deportes/2026/11/pitchers-anunciados-para-cerrar-las-series-de-este-jueves-en-la-liga-mexicana-del-pacifico-1173442/",
+   "https://www.lmp.mx/"
+  ]
+ },
+ {
+  "eid": "sr:match:74009822",
+  "fx": "Jaguares de Nayarit v Naranjeros de Hermosillo",
+  "sport": "baseball",
+  "absences": "none reported",
+  "context": "LMP; Hermosillo 6-4 (4.3 RA) v Nayarit 4-6 (7.0 RA)",
+  "news": "Probables: Randy Wynne (Nayarit) v Wilmer Rios (Hermosillo).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No ML (no p>=0.65 starter mismatch); +1.5 run-lines banned (only +3.5+); totals not supported. Hermosillo ML p0.55.",
+  "confidence": 0.15,
+  "sources": [
+   "https://losnoticieristas.com/deportes/2026/11/pitchers-anunciados-para-cerrar-las-series-de-este-jueves-en-la-liga-mexicana-del-pacifico-1173442/",
+   "https://www.lmp.mx/"
+  ]
+ },
+ {
+  "eid": "sr:match:74009820",
+  "fx": "Venados de Mazatlan v Yaquis de Obregon",
+  "sport": "baseball",
+  "absences": "none reported",
+  "context": "LMP; Obregon RA 4.3 v Mazatlan RA 8.2",
+  "news": "Probables: Jose Luis Urquidy (Mazatlan) v Ronald Bolanos (Obregon).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No ML (no p>=0.65 starter mismatch); +1.5 run-lines banned (only +3.5+); totals not supported. Urquidy (ex-MLB) on the home side argues against Obregon ML at p0.56.",
+  "confidence": 0.15,
+  "sources": [
+   "https://losnoticieristas.com/deportes/2026/11/pitchers-anunciados-para-cerrar-las-series-de-este-jueves-en-la-liga-mexicana-del-pacifico-1173442/",
+   "https://www.lmp.mx/"
+  ]
+ },
+ {
+  "eid": "sr:match:74009828",
+  "fx": "Aguilas de Mexicali v Charros de Jalisco",
+  "sport": "baseball",
+  "absences": "none reported",
+  "context": "LMP; Mexicali 6-4 (3.3 RA) v Jalisco 6-4",
+  "news": "Probables: Fernando Lozano (3-2, Mexicali) v Luis Ivan Rodriguez (2-2, Jalisco).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No ML (no p>=0.65 starter mismatch); +1.5 run-lines banned (only +3.5+); totals not supported. No starter mismatch.",
+  "confidence": 0.15,
+  "sources": [
+   "https://losnoticieristas.com/deportes/2026/11/pitchers-anunciados-para-cerrar-las-series-de-este-jueves-en-la-liga-mexicana-del-pacifico-1173442/",
+   "https://www.lmp.mx/"
+  ]
+ },
+ {
+  "eid": "sr:match:74246978",
+  "fx": "Pacific Tigers v Omaha Mavericks",
+  "sport": "basketball",
+  "absences": "no injuries found",
+  "context": "Resorts World Classic Las Vegas (neutral, Pacific listed home); Pacific lost 76-83 to Jax State, Omaha lost 78-80 to UC Davis; Omaha 4-6 last 10 with road losses by 34 and 41",
+  "news": "Pacific release confirms Omaha v Pacific Thursday; one preview lists Pacific v Bradley (minor schedule ambiguity). 10:30pm ET = 03:30 UTC matches board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.770804,
+    "why": "ML p>=0.75 gate met (0.77). Omaha 4-6 with heavy road losses (56-90, 67-108); Pacific 6-4, allows 62 ppg. My p ~0.76 - no named absence, statistical only; low confidence, verify opponent is Omaha on the fetched code."
+   }
+  ],
+  "avoid": "Totals p<0.67; -7.5 coin-flip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://pacifictigers.com/news/2026/11/24/mens-basketball-travels-to-las-vegas-for-the-resorts-world-classic.aspx",
+   "https://thesportscast.net/2026/11/26/basketball-games-today-thanksgiving-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:77182162",
+  "fx": "Baylor Bears v Gonzaga Bulldogs",
+  "sport": "basketball",
+  "absences": "Gonzaga: G Javon Bennett OUT (right knee sprain, several weeks). Baylor: none",
+  "context": "Players Era Festival semifinal, T-Mobile Arena Las Vegas, 11:30pm ET; Baylor coming off hard-fought win v Alabama",
+  "news": "Gonzaga backcourt thin (Lee, Harwell, De Sousa) v Baylor pressure; Mark Few compares Baylor to its title team.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Gonzaga ML 1.56 p0.60 < 0.75 and Bennett absence argues against it; Baylor +2.5/+3.5 NCAA catch banned.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.beatlinesports.com/2026/11/26/beatline-cbb-bay-at-gonz-2026-11-27/",
+   "https://si.com/college/gonzaga/basketball/mark-few-sees-shades-baylor-national-championship-team-ahead-gonzaga-matchup",
+   "https://www.predictem.com/college-basketball/baylor-vs-gonzaga-prediction-players-era-semifinal-picks/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114416866",
+  "fx": "Malaysia v Fiji",
+  "sport": "basketball",
+  "absences": "no roster news found",
+  "context": "FIBA Asia Cup 2029 Pre-Qualifiers Round 2, Group F, MBank Arena Ulaanbaatar; top 4 of 6 advance; Fiji came through Round 1 in Mongolia",
+  "news": "Official FIBA schedule lists Malaysia v Fiji Fri Nov 27 05:00 (matches board). Fiji media say Fiji opens v Hong Kong Thursday - consistent, separate game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Malaysia -21.5/-22.5 coin-flip; Fiji +21.5 is a 15+ catch; total p0.51. No Sportradar data.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fiba.basketball/en/events/fiba-asia-cup-2029-pre-qualifiers",
+   "https://www.fbcnews.com.fj/sports/basketball/12-for-asia-cup-2029-pre-qualifiers-named/"
+  ]
+ }
+]
