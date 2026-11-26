@@ -1,0 +1,467 @@
+[
+ {
+  "eid": "sr:match:74232074",
+  "fx": "HK Mogilev v HC Aviator Baranovichi",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Belarus Extraliga regular season; 18:30 local confirmed by Tribuna round preview. Mogilev 4-0-6 last 10 (home losses 0-6, 1-2, 3-5); Aviator 6-0-4 with away wins 7-2, 3-1.",
+  "news": "Fixture confirmed 26 Nov 18:30 local (tribuna.by); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mogilev +1.5 (p 0.68) - home side leaking goals; no named mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://by.tribuna.com/hockey/1113097999-ekstraliga-magilyou-zgulyae-z-aviyataram-ximik-supracz-shax/",
+   "https://extra.hockey.by/statistic/tables/?division=350"
+  ]
+ },
+ {
+  "eid": "sr:match:74232072",
+  "fx": "Khimik-Ska v HC Shakhtyor Soligorsk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Shakhtyor top of 2026-27 table (eliteprospects snapshot, 25 pts); Khimik 3-0-7. Fonbet P2 1.30 matches board.",
+  "news": "Fixture confirmed 18:30 local; Shakhtyor leaders; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 1.29 p0.73 below the 0.75 away threshold; 406 Away 1.15 below the odds floor",
+  "confidence": 0.2,
+  "sources": [
+   "https://by.tribuna.com/hockey/1113097999-ekstraliga-magilyou-zgulyae-z-aviyataram-ximik-supracz-shax/",
+   "https://www.eliteprospects.com/league/belarus"
+  ]
+ },
+ {
+  "eid": "sr:match:74232078",
+  "fx": "Metallurg Zhlobin v Slavutych Smolensk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Top-3 clash: Shakhtyor 25, Slavutich 24, Zhlobin 23 pts (snapshot). Zhlobin are reigning champions and 9-0-1 last 10; Slavutych 6-0-4 with away wins 6-0, 4-2, 4-1.",
+  "news": "Fixture confirmed 19:00 local; table neighbours; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.29,
+    "p": 0.740071,
+    "why": "Close top-3 clash (two points apart, near-even ML 1.80/1.84); incl. OT, so a one-goal home win, an OT/SO win or any away win covers. My p ~0.74, equal to the house: fill, statistical only.",
+    "oid": "1715"
+   }
+  ],
+  "avoid": "Result sides: coin-flip between table neighbours",
+  "confidence": 0.2,
+  "sources": [
+   "https://by.tribuna.com/hockey/1113097999-ekstraliga-magilyou-zgulyae-z-aviyataram-ximik-supracz-shax/",
+   "https://www.eliteprospects.com/league/belarus"
+  ]
+ },
+ {
+  "eid": "sr:match:74232076",
+  "fx": "Yunost Minsk v HC Lokomotiv Orsha",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Both sides in poor form: Yunost 3-0-7 (GA 3.8), Orsha 2-0-8 (GA 3.7). Bookmakers name Yunost the favourite.",
+  "news": "Fixture confirmed 19:00 local (extra.hockey.by tables); 24sport.by page lists a different set of pairings, likely stale or another date",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Yunost ML 1.31 p0.715: a 3-0-7 favourite is fragile; minor schedule-source discrepancy (24sport.by)",
+  "confidence": 0.15,
+  "sources": [
+   "https://by.tribuna.com/hockey/1113097999-ekstraliga-magilyou-zgulyae-z-aviyataram-ximik-supracz-shax/",
+   "https://extra.hockey.by/statistic/tables/?division=350",
+   "https://24sport.by/khokkey/khokkey-ekstraliga-belarusi-raspisanie-i-rezultaty-matchey-26-noyabrya"
+  ]
+ },
+ {
+  "eid": "sr:match:76962286",
+  "fx": "MFk Kprf v Iraero Irkutsk",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Russian Cup quarter-final, FIRST LEG (two-legged tie), 19:30 Moscow. KPRF reached the QF on 1 Nov. Superleague: KPRF 27 pts/15, Iraero 21/14. H2H May 2026: 6-1 and 1-5 (ambiguous).",
+  "news": "QF first leg confirmed for 26 Nov; KPRF are favourites; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout first leg: no result side. Under 6.5 p0.52 fails the Under p>=0.82 gate. Futsal totals high variance (KPRF 5.4 GF, 9-8 recent)",
+  "confidence": 0.15,
+  "sources": [
+   "https://stavka.tv/matches/futsal/26-11-2026-mfk-kprf-iraero-irkutsk",
+   "https://kushvsporte.ru/event/7109674-kprf-iraero",
+   "https://mfc-kprf.ru/"
+  ]
+ },
+ {
+  "eid": "sr:match:72116574",
+  "fx": "Vaasan Sport v Ilves Tampere",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Liiga regular season at Vaasa Arena 16:30 UTC (Sofascore). Ilves 7-0-3 last 10, GF 3.0 (6-2, 5-2, 4-1 recent); Sport 5-0-5, GA 2.7.",
+  "news": "Fixture/time confirmed on Sofascore; no injury reports found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.788404,
+    "why": "Ilves 2+ goals incl. OT: they scored 2+ in all of their last 6 (4,6,5,3,3,4) and Sport concede 2.7 a game. My p ~0.80. Statistical: fill grade.",
+    "oid": "12"
+   }
+  ],
+  "avoid": "Ilves ML 1.51 (p0.64 mid-band); Sport team Under 2.5 (Unders gate)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/ice-hockey/match/tampereen-ilves-vaasan-sport/yBbsQBb",
+   "https://www.flashscore.com/h2h/hockey/vaasan-sport-Qqy8aCTd/ilves-tampere-Oh5uGzDT/"
+  ]
+ },
+ {
+  "eid": "sr:match:72117476",
+  "fx": "Pyry v Imatran Kettera",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Mestis round 21, Thu 26 Nov 18:30 local (mestis.fi schedule). Pyry won 3 straight H2H this season (3-1, 6-4, 4-1; Kettera won 2-0). Kettera 3-0-7 last 10, GA 3.6, plays again at home v IPK on 27 Nov (back-to-back).",
+  "news": "Date confirmed by Mestis schedule; Kettera on a back-to-back (IPK 27 Nov); no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.7972,
+    "why": "Pyry 2+ goals incl. OT: scored 3, 6 and 4 in the last 3 meetings. Kettera concede 3.6 and play again the next night (fatigue or a backup goalie). My p ~0.82.",
+    "oid": "12"
+   }
+  ],
+  "avoid": "Kettera +1.5 (p0.70): it is Kettera that has the poor form",
+  "confidence": 0.3,
+  "sources": [
+   "https://mestis.fi/fi/joukkueet/kettera/otteluohjelma",
+   "https://www.sofascore.com/ice-hockey/match/pyry-imatran-kettera/hNnseKL",
+   "https://www.esaimaa.fi/urheilu/9143990"
+  ]
+ },
+ {
+  "eid": "sr:match:72176064",
+  "fx": "Kiekko-Espoo v Jokerit",
+  "sport": "ice hockey",
+  "absences": "n/a (youth)",
+  "context": "U20 SM-sarja, a YOUTH competition: no picks except goals markets in clear mismatches. This is not a mismatch (1.61/2.20 ML).",
+  "news": "no news found (youth league; no date conflict found)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth side; the main total is integer Over 5 (banned)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73737404",
+  "fx": "Dunaujvarosi Acelbikak v Feha19",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Erste Liga. Dunaujvaros 0-0-10 (GA 5.4; lost 10-0 to Gyergyo, 4-2 and 8-0 to Ujpest in Oct). FEHA19 is the Fehervar academy/development side (youth-type) and 1-0-9 itself.",
+  "news": "Dunaujvaros losing streak confirmed by local press (duol.hu, Oct 2026); no news for this fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "FEHA19 is a development/youth side and both teams are poor, so it is not a clear mismatch. Total Over 5 is an integer line (banned). Team Unders fail the p>=0.82 gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.duol.hu/helyi-sport/2026/10/dunaujvarosi-acelbikak-vereseg-ujpest-erste-liga",
+   "https://dunaujvaros.com/hirek/202610/sima_ujpesti_gyozelem",
+   "https://sport.szekelyhon.ro/jegkorong/atgazolt-az-acelbikakon-tizig-meg-sem-allt-a-gyergyoi-hoki-klub"
+  ]
+ },
+ {
+  "eid": "sr:match:73737402",
+  "fx": "UJPEST Budapest v Gyergyoi HK",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Erste Liga. Ujpest 7-0-3 (home 5-1, 4-1, 2-1, 4-0); Gyergyo 5-0-5 (they beat Dunaujvaros 10-0).",
+  "news": "no news found for the fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ujpest ML 1.54 p0.615 mid-band; team Unders U3.5/U4.5 (p 0.76/0.78) fail the Under p>=0.82 gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.duol.hu/helyi-sport/2026/10/dunaujvarosi-acelbikak-vereseg-ujpest-erste-liga"
+  ]
+ },
+ {
+  "eid": "sr:match:75830946",
+  "fx": "Norway v Faroe Islands",
+  "sport": "handball",
+  "absences": "n/a (women's)",
+  "context": "Women's Golden League (window 24 Oct-28 Nov per Sofascore), a warm-up for the EHF Euro 2026 (3-20 Dec). Huge mismatch (1.01).",
+  "news": "Golden League window fits 26 Nov; exact date/venue not independently confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's. The goals markets are all p~0.52 with no edge; a coach may rotate before the Euro",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/handball/tournament/international/golden-league-women/19360"
+  ]
+ },
+ {
+  "eid": "sr:match:77186492",
+  "fx": "Sweden v Iceland",
+  "sport": "handball",
+  "absences": "n/a (women's)",
+  "context": "Women's international friendly, a pre-Euro 2026 warm-up (both teams qualified).",
+  "news": "no listing found to confirm the fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's friendly; goals markets p~0.52; unverified date (low confidence, no conflict found)",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_European_Women's_Handball_Championship"
+  ]
+ },
+ {
+  "eid": "sr:match:72119074",
+  "fx": "HC Dynamo Pardubice B v SC Kolin",
+  "sport": "ice hockey",
+  "absences": "n/a (reserve side)",
+  "context": "Maxa liga (Czech 2nd tier, formerly Chance liga). Pardubice B is a RESERVE/farm side: its roster depends on Extraliga call-downs. ceskyhokej.cz lists the Thu 26 Nov fixture.",
+  "news": "Fixture date confirmed by ceskyhokej.cz; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no picks except goals in mismatches (this is not one)",
+  "confidence": 0.1,
+  "sources": [
+   "https://ceskyhokej.cz/souteze-muzi/maxa-liga"
+  ]
+ },
+ {
+  "eid": "sr:match:72840372",
+  "fx": "Ribe-Esbjerg HH v TMS Ringsted",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Herreligaen. Ribe-Esbjerg 3-0-7, Ringsted 1-0-9 (bottom-half sides). TV2 and myplanetsport list 26 Nov 18:30; an undated Flashscore page lists Skanderborg v Ribe-Esbjerg on 26.11 and Ribe-Esbjerg v Ringsted on 04.12.",
+  "news": "DATE CONFLICT: Flashscore has this pairing on 4 Dec and Ribe-Esbjerg at Skanderborg on 26 Nov; TV2/myplanetsport have 26 Nov",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (Flashscore 04.12 vs TV2 26.11); veto per protocol",
+  "picks": [],
+  "avoid": "Everything (date conflict). Ribe-Esbjerg 1.28 is also a 3-0-7 favourite",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.dk/hold/ribe-esbjerg/pliS0VZ1/",
+   "https://sport.tv2.dk/haandbold/danmark-herre-haandbold-ligaen/herrer/turnering/kampprogram",
+   "https://www.myplanetsport.dk/herreligaen/"
+  ]
+ },
+ {
+  "eid": "sr:match:75724518",
+  "fx": "Technika Brno v Hhk Velke Mezirici",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Czech 2. liga (3rd tier), East group. Technika 1-0-9 (GA 4.4), finished bottom of East last season; Velke Mezirici 3-0-7. Last meetings: VM 2-0 and 4-3 OT.",
+  "news": "No 2026-27 fixture listing found (neither confirmed nor contradicted)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Third-tier, both sides poor; Technika +1.5 (p0.71) has no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hokej.cz/2-liga-velke-mezirici-zdolalo-techniku-a-priblizilo-se-zachrane-brno-ztraci-uz-7-bodu/5093957",
+   "https://technikahokej.cz/startuje-2-liga-po-roce-na-morave-opet-silna-muzstva-o-postup-a-hvezdna-jmena-na-soupiskach-muzstev"
+  ]
+ },
+ {
+  "eid": "sr:match:76225240",
+  "fx": "Veszprem KC v Aalborg Haandbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "EHF CL main round 2, Group I Match of the Week, 18:45 CET. Veszprem 7/7 wins in the CL; Aalborg (Danish champions) also won main round 1. H2H 4-0-6; Aalborg won 38-33 in Veszprem in Mar 2026 (direction ambiguous).",
+  "news": "Fixture confirmed (EHF/zerozero); no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash, so no result side (Home 1.21, 1H Home 1.35). Totals are coin-flips",
+  "confidence": 0.2,
+  "sources": [
+   "https://ehfcl.eurohandball.com/news/en/high-intensity-main-round-gets-underway-with-12-clubs-in-contention/",
+   "https://www.zerozero.pt/jogo/2026-11-26-veszprem-aalborg/12821834"
+  ]
+ },
+ {
+  "eid": "sr:match:72473308",
+  "fx": "HBW Balingen-Weilstetten v TBV Lemgo Lippe",
+  "sport": "handball",
+  "absences": "Balingen: RW Elias Fugel (torn ligament, 4-6 weeks per handball-world ~8 days ago; only two fit wingers)",
+  "context": "HBL matchday 14, 19:00 in Balingen (Sportschau). Balingen 2-1-7 last 10; Lemgo 5-1-4. H2H Lemgo 20 wins v Balingen 7 in 30.",
+  "news": "Balingen injury crisis on the wings (Fugel out); fixture confirmed by Sportschau",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.2,
+    "p": 0.7524568496,
+    "why": "Named absence: Balingen without RW Elias Fugel and down to two fit wingers; 2-1-7 form; H2H 20-7 to Lemgo. Draws are ~9% in handball, so this is roughly Lemgo win-or-draw. My p ~0.78 (the Fugel article's season is not 100% confirmed).",
+    "oid": "11"
+   }
+  ],
+  "avoid": "Lemgo 1X2 1.43 (p0.67 < 0.75 away gate); Lemgo -2.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma12190807/hbw-balingen-weilstetten_tbv-lemgo-lippe/info",
+   "https://www.handball-world.news/artikel/balingen-muss-rueckschlag-verkraften-fuegel-ausfall-verschaerft-angespannte-personallage-1272399"
+  ]
+ },
+ {
+  "eid": "sr:match:74122722",
+  "fx": "Szazhalombattai Ke v Ozdi KC",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Hungarian NB I/B (2nd tier). Home 5-1-4, Ozd 4-0-6.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Second tier, thin coverage, mid-band prices",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:77186724",
+  "fx": "Germany v France",
+  "sport": "handball",
+  "absences": "n/a (women's)",
+  "context": "Women's friendly, Porsche Arena Stuttgart, 19:30 local (stuttgart.de), a Euro 2026 warm-up.",
+  "news": "Fixture and venue confirmed (stuttgart.de)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no result sides; goals markets p~0.50",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.stuttgart.de/en/veranstaltungskalender/veranstaltungen/handball-deutschland-frankreich-534600"
+  ]
+ },
+ {
+  "eid": "sr:match:72484152",
+  "fx": "Lowen Frankfurt v Adler Mannheim",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "DEL Hesse/Baden derby, Thu 19:30. Frankfurt in crisis: 5 straight DEL losses (last at Berlin), 2-0-8 last 10, GA 3.4 (1-7, 3-5, 1-5). Mannheim 6-1-3, GF 3.4.",
+  "news": "Sportschau: 'unrest' at Frankfurt after a 5th straight loss before the Mannheim derby; no absences reported",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.39,
+    "p": 0.693254,
+    "why": "Mannheim 3+ goals incl. OT v a Frankfurt side in crisis (5 straight losses, conceding 3.4/game, 7 and 5 in recent home/away defeats). Derby, so a goals side, not a result side. My p ~0.71. Mid-band: value/fill only.",
+    "oid": "12"
+   }
+  ],
+  "avoid": "Derby, so no result side (Mannheim ML/DC). Frankfurt +3.5 catch (rout tail: 1-7, 1-5)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportschau.de/regional/hr/hr-bei-den-loewen-frankfurt-rumort-es-vor-dem-derby-gegen-mannheim-104.html",
+   "https://www.loewen-frankfurt.de/saison/aktuelles/details/punktgewinn-in-mannheim-loewen-aergern-die-adler"
+  ]
+ },
+ {
+  "eid": "sr:match:76084074",
+  "fx": "Netherlands v Denmark",
+  "sport": "handball",
+  "absences": "n/a (women's)",
+  "context": "Women's Golden League final window (to 28 Nov), a pre-Euro warm-up.",
+  "news": "Golden League window fits; exact date not independently confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no result sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/handball/tournament/international/golden-league-women/19360"
+  ]
+ },
+ {
+  "eid": "sr:match:76225246",
+  "fx": "FC Barcelona v GOG Handbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "EHF CL main round 2. Barca 7/7 wins (10-0-0 last 10); GOG have never beaten Barca in the CL (9 straight Barca wins since 2008).",
+  "news": "Fixture inferred from the EHF calendar; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.03 is below the floor; AH -7.5 at p0.52 is a coin-flip on margin",
+  "confidence": 0.15,
+  "sources": [
+   "https://ehfcl.eurohandball.com/news/en/german-rivals-meet-in-berlin-top-clashes-await-in-magdeburg-and-veszprem/"
+  ]
+ },
+ {
+  "eid": "sr:match:76225242",
+  "fx": "Fuchse Berlin v MT Melsungen",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "EHF CL main round 2, all-German clash 20:45. Fuchse enter on zero main-round points, so it is a must-win for them; Melsungen 5-2-3.",
+  "news": "Fixture confirmed by the EHF preview; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Domestic-rival clash, so no result side (Home 1.26 p0.75)",
+  "confidence": 0.15,
+  "sources": [
+   "https://ehfcl.eurohandball.com/news/en/german-rivals-meet-in-berlin-top-clashes-await-in-magdeburg-and-veszprem/"
+  ]
+ },
+ {
+  "eid": "sr:match:76225244",
+  "fx": "Paris Saint-Germain v Wisla Plock",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "EHF CL main round 2, Stade Pierre de Coubertin 20:45. Plock have the 2nd-best defence (29.4 conceded); last meeting (Nov 2025) PSG won 30-29.",
+  "news": "PSG official preview confirms date/venue; no absences listed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash, one-goal last meeting: no result side (PSG 1.38, DC 1.19)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.psg.fr/en/content/la-preview-paris-saint-germain-handball-wisla-plock-ehf-champions-league-2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:72182938",
+  "fx": "Cape Breton Eagles v Armada Blainville Boisbriand",
+  "sport": "ice hockey",
+  "absences": "n/a (junior)",
+  "context": "QMJHL (junior, U21), first of a two-game set at Centre 200, Sydney (rematch 27 Nov). Armada swept the Jan 2026 set 5-0 and 6-1.",
+  "news": "KICK-OFF CONFLICT: team schedule says 6:00 pm, ticket listing says 7:00 pm, and the listing's structured data names Armada as home",
+  "veto": true,
+  "veto_reason": "Kick-off time and home-team conflict between sources; also a junior league",
+  "picks": [],
+  "avoid": "Everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.oursportscentral.com/services/schedule/cape-breton-eagles/t-1322",
+   "https://nightout.com/events/v/blainville-boisbriand-armada-at-cape-breton-eagles-centre-200-sydney-2026-11-26/tickets"
+  ]
+ }
+]
