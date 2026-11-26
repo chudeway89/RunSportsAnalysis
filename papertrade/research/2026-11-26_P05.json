@@ -1,0 +1,434 @@
+[
+ {
+  "eid": "sr:match:76407514",
+  "fx": "Jiangsu v Beijing",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Round 6. Jiangsu 1-4, Beijing BAIC 2-3 (lost 2-3 away at Guangdong last round). H2H 0-3, 1-3 for Beijing. Kick-off 11:00 UTC = 19:00 Beijing, matches preview (\"evening\").",
+  "news": "Sohu R6 preview: Jiangsu host Beijing; Beijing lost 2-3 at Guangdong in R5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "192",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.33,
+    "p": 0.7092,
+    "why": "Jiangsu to win a set: Beijing are 1-4 away in last 10 and needed 5 sets last round; Jiangsu won sets at home in 3 of 5. Own p ~0.72 (house 0.71); fill only, no named mechanism beyond form."
+   }
+  ],
+  "avoid": "Beijing ML (away p 0.72 < 0.75).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sohu.com/a/1106525201_122310913",
+   "https://www.sofascore.com/volleyball/tournament/china/china-volleyball-league/9544",
+   "https://weibo.com/2/detail/5368331546658904"
+  ]
+ },
+ {
+  "eid": "sr:match:76407520",
+  "fx": "Shanghai v Qingdao",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Shanghai Golden Age lead the table (12 pts after R5); Qingdao bottom 0-5, swept 0-3 by Baoding in R5, 0-8 away in last 10.",
+  "news": "Preview: Shanghai v bottom side Qingdao; mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Shanghai ML 1.17 is below the 1.18 floor; set handicap -2.5 at 2.05 (p 0.46) is not a core leg.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sohu.com/a/1106525201_122310913",
+   "https://www.sofascore.com/volleyball/tournament/china/china-volleyball-league/9544",
+   "https://weibo.com/2/detail/5368331546658904"
+  ]
+ },
+ {
+  "eid": "sr:match:76407516",
+  "fx": "Tianjin v Guangdong",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Tianjin are defending champions (11 pts), lost 1-3 to Fujian in R5; Guangdong beat Beijing 3-2 in R5. Preview frames both as \"backs to the wall, rebound\".",
+  "news": "Sohu preview: Tianjin and Guangdong both look to bounce back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7897,
+    "why": "Tianjin ML: defending champions, 5-1 at home in last 10 v Guangdong 1-4 away. Own p ~0.80 (house 0.79)."
+   }
+  ],
+  "avoid": "Guangdong +2.5 sets (p 0.61) and Guangdong to win a set: Guangdong took sets in 4 of last 6.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sohu.com/a/1106525201_122310913",
+   "https://www.sofascore.com/volleyball/tournament/china/china-volleyball-league/9544",
+   "https://weibo.com/2/detail/5368331546658904"
+  ]
+ },
+ {
+  "eid": "sr:match:76407518",
+  "fx": "Hebei Baoding v Fujian",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Board has Hebei Baoding at HOME as 0.74 favourite, yet Fujian are 9-1 in last 10 and 11 pts v Baoding 10. The Sohu R6 preview lists the tie as \"Fujian v Hebei\" (Fujian at home).",
+  "news": "Venue/home-side conflict between board and Chinese preview; pricing also looks inverted v form.",
+  "veto": true,
+  "veto_reason": "Venue conflict: preview lists Fujian v Hebei (Fujian home), board lists Hebei Baoding v Fujian; house favours Baoding despite Fujian 9-1 form.",
+  "picks": [],
+  "avoid": "Everything on this match.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sohu.com/a/1106525201_122310913",
+   "https://www.sofascore.com/volleyball/tournament/china/china-volleyball-league/9544",
+   "https://weibo.com/2/detail/5368331546658904"
+  ]
+ },
+ {
+  "eid": "sr:match:75208616",
+  "fx": "River Plate v Upcn San Juan Voley",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Superliga Tour 3, neutral venue in Rosario (26-29 Nov). UPCN unbeaten 6-0, top on 17 pts, 7-0 away in last 10 (most 3-0). River 11 pts. Time 11:00 local = 14:00 UTC matches board. UPCN play the top-of-table clash v Ciudad the next day (Fri 27, 21:00) - mild rotation risk.",
+  "news": "UPCN open Tour 3 v River on Thu 11:00, then Ciudad Fri, Waiwen Sun.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "526",
+    "spec": null,
+    "desc": "No",
+    "odds": 1.18,
+    "p": 0.8086,
+    "why": "No 5th set: UPCN won 5 of last 6 in 3 straight sets and are 9-1 in last 10; River 2.2 sets/game. Own p ~0.82 (house 0.81). Risk: UPCN rest starters before Ciudad clash."
+   }
+  ],
+  "avoid": "UPCN ML at 1.15 (below floor); UPCN -2.5 sets at 2.1 (rotation before Ciudad).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sanjuan8.com/ovacion/upcn-juega-el-tour-3-el-choque-invictos-ciudad-n1620000",
+   "https://www.0264noticias.com.ar/noticias/2026/11/25/118494-con-el-clasico-ante-ciudad-upcn-abre-el-tour-3-en-rosario",
+   "https://www.diariocronica.com.ar/noticias/2026/11/25/180030-waiwen-vuelve-a-la-competencia-frente-a-san-lorenzo-y-en-rosario",
+   "https://www.diariodecuyo.com.ar/pasion-deportiva/upcn-afronta-el-tour-3-un-clasico-ciudad-que-puede-definir-la-cima-la-superliga-n6589518"
+  ]
+ },
+ {
+  "eid": "sr:match:74326974",
+  "fx": "Khimik Voskresensk v Biryusa Krasnoyarsk",
+  "sport": "ice hockey",
+  "absences": "not researched (women's)",
+  "context": "Russian women's league (ZhHL). Khimik beat Biryusa 4-1 on 24 Nov, same pairing two days later. One listing shows a different start time.",
+  "news": "Women's game; Khimik won 4-1 on 24 Nov; start-time discrepancy between listings.",
+  "veto": true,
+  "veto_reason": "Women's fixture (no picks) and kick-off time conflict between listings.",
+  "picks": [],
+  "avoid": "All markets (women's league).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.redyarsk.ru/news/detail.php?id=89991",
+   "https://stavka.tv/matches/ice-hockey/26-11-2026-khimik-voskresensk-biryusa-krasnoyarsk-w-",
+   "https://whl.fhr.ru/calendar/1434/0/15672/"
+  ]
+ },
+ {
+  "eid": "sr:match:72166708",
+  "fx": "Spartak Moscow v CSKA Moscow",
+  "sport": "ice hockey",
+  "absences": "Spartak: Will Reilly (D), Daniil Orlov, Maxime Comtois out; Poryadin and Vishnevsky back; Iskhakov and Nechaev arrived from Metallurg. CSKA: G Dmitry Gamzin hurt in 3rd period v Lokomotiv (doubtful, Samonov backup); Nikita Nesterov and Nikita Okhotyuk missed the Dynamo game.",
+  "context": "Moscow derby at Megasport, 19:30 MSK = 16:30 UTC (matches). CSKA 7-3 in last 10 (3.6 GF), Spartak 4-6 conceding 3.2.",
+  "news": "Spartak missing three incl. D Reilly; CSKA starting goalie Gamzin doubtful after injury.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.34,
+    "p": 0.7246,
+    "why": "Over 3.5 regulation: Spartak games average 5.9 goals in last 10 (home 7.25), CSKA 5.3; Spartak lose D Reilly and CSKA may start backup G Samonov. Own p ~0.75 (house 0.72)."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.28,
+    "p": 0.758,
+    "why": "CSKA 2+ goals: CSKA score 3.6/game, Spartak concede 3.2 and are without D Will Reilly. Own p ~0.78 (house 0.76)."
+   }
+  ],
+  "avoid": "Any result-side (derby rule); Unders (p < 0.82).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.livesport.ru/tips/hockey/2026/11/26/spartak-moscow-cska-moscow/",
+   "https://fanat1k.ru/news-424977-uralskoe-derbi-traktora-i-avtomobilista-spartak-protiv-tsska.php",
+   "https://www.vseprosport.kz/news/2026/11/25/spartak-cska-prognoz-kf-1-65-i-stavki-na-match-khl-26-nojabrja-2026-goda",
+   "https://metaratings.ru/prognozy/hokkey/spartak-cska-prognoz-na-match-khl-26-noyabrya-2026-goda/"
+  ]
+ },
+ {
+  "eid": "sr:match:76192402",
+  "fx": "HK Gladiators Trnava v HC 19 Humenne",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Slovak 2nd tier (TIPOS SHL). Trnava beat Humenne 3-2 OT on 30 Oct (round 14). Humenne were near the top early season. No source confirming the 26 Nov fixture found (none contradicting either).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Humenne ML (away p 0.65 < 0.75); thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportnet.sme.sk/spravy/hokej-vysledky-dnes-piatok-30-oktober-14-kolo-tipos-shl-2026-2027/",
+   "https://www.teraz.sk/sport/trnava-zaskocila-humenne-zakopol-lid/932410-clanok.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72521574",
+  "fx": "Savo Volley v Valepa Sastamala",
+  "sport": "volleyball",
+  "absences": "none reported",
+  "context": "Mestaruusliiga: Savo 6th (2-4), VaLePa 3rd (5-1). VaLePa won 3-0 in Kuopio on 17 Oct. League preview: Thu 26 Nov 18:30 local (=16:30 UTC, matches board) at Ahmon koulu, Siilinjärvi.",
+  "news": "League preview confirms Thursday; VaLePa's own fixture page lists the game on a Monday.",
+  "veto": true,
+  "veto_reason": "Date conflict: VaLePa club fixture page lists the match on a Monday v league preview Thursday 26 Nov.",
+  "picks": [],
+  "avoid": "VaLePa ML 1.18 would otherwise qualify (away p 0.82).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.mestaruusliiga.fi/miehet/tulevat-ottelut/savo-volley-valepa-16.html",
+   "https://www.valepa.fi/otteluohjelma/",
+   "https://mestaruusliiga.fi/uutiset/valepa-syotti-savo-volleyn-nurin/"
+  ]
+ },
+ {
+  "eid": "sr:match:71696616",
+  "fx": "Frolunda HC v IF Bjorkloven",
+  "sport": "ice hockey",
+  "absences": "no named absences found",
+  "context": "19:00 local at Scandinavium (=18:00 UTC, matches). Frölunda 2nd (6 pts behind Färjestad). Björklöven in the relegation-playoff zone (19 pts), 1-9 in last 10, 0-4 away, conceding 3.7.",
+  "news": "Björklöven on qualification spot with 19 pts; Frölunda chasing leaders.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7772,
+    "why": "Frölunda to win incl. OT: Björklöven 1-9 last 10 and 0-4 away (1.0 GF, 3.75 GA); Frölunda 3-1-1 at home. Own p ~0.79 (house 0.78)."
+   },
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.39,
+    "p": 0.6961,
+    "why": "Frölunda 3+ goals: Frölunda average 3.4 at home, Björklöven concede 3.75 away. Own p ~0.71 (house 0.70)."
+   }
+  ],
+  "avoid": "Regulation -1.5/-2.5 lines; Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://hockeyresultat.se/shl-tabell/",
+   "https://www.tvmatchen.nu/sport/ishockey/skelleftea-rogle-26-november-2026/",
+   "https://www.tvmatchen.nu/sport/ishockey/vaxjo-djurgarden-shl-26-november-2026/",
+   "https://www.tvmatchen.nu/sport/ishockey/shl-resultat-24-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:71696618",
+  "fx": "HC Orebro v HV71",
+  "sport": "ice hockey",
+  "absences": "no named absences found",
+  "context": "Örebro have won 7 straight at home (6-0 at home in last 10), beat Malmö on 24 Nov. HV71 last in SHL (17 pts), 0-5 away in last 10. Back-to-back-ish for Örebro (played 24 Nov).",
+  "news": "Örebro chase 8th straight home win v bottom side HV71.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.807,
+    "why": "Örebro 2+ goals: 3.33 GF at home, HV71 concede 3.2 away and are bottom. Own p ~0.83 (house 0.81)."
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.3,
+    "p": 0.7207,
+    "why": "Örebro not to lose in regulation: 6-0 at home, HV71 0-5 away. Own p ~0.74 (house 0.72)."
+   }
+  ],
+  "avoid": "HV71 +1.5/+2.5 catches.",
+  "confidence": 0.3,
+  "sources": [
+   "https://hockeyresultat.se/shl-tabell/",
+   "https://www.tvmatchen.nu/sport/ishockey/skelleftea-rogle-26-november-2026/",
+   "https://www.tvmatchen.nu/sport/ishockey/vaxjo-djurgarden-shl-26-november-2026/",
+   "https://www.tvmatchen.nu/sport/ishockey/shl-resultat-24-november-2026/",
+   "https://hockeyresultat.se/hv71-pa-tv/"
+  ]
+ },
+ {
+  "eid": "sr:match:71696614",
+  "fx": "Linkopings HC v Brynas IF",
+  "sport": "ice hockey",
+  "absences": "Linköping: reported injury crisis (\"skadekris\", HockeyNews headline, details not retrieved).",
+  "context": "Eliteprospects lists Linköping v Brynäs 26 Nov 19:00 local. Linköping home games average 8.25 goals in last 10 (5.0 GF, 3.25 GA); Brynäs games 6.5.",
+  "news": "Linköping hit by an injury crisis per HockeyNews headline.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.19,
+    "p": 0.8158,
+    "why": "Over 3.5 regulation: Linköping home games 8.25 goals avg, Brynäs 6.5; Linköping injuries thin the defence. Own p ~0.84 (house 0.82)."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.29,
+    "p": 0.7487,
+    "why": "Brynäs not to lose in regulation: Linköping 4-6 in last 10 and depleted. Own p ~0.76 (house 0.75)."
+   }
+  ],
+  "avoid": "Linköping +2.5 catch; Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eliteprospects.com/league/shl",
+   "https://hockeyresultat.se/shl-tabell/",
+   "https://hockeynews.se/nyheter/ett-positivt-och-ett-negativt-skadebesked-for-fbk"
+  ]
+ },
+ {
+  "eid": "sr:match:71696624",
+  "fx": "Skelleftea AIK v Rogle BK",
+  "sport": "ice hockey",
+  "absences": "no named absences found",
+  "context": "19:00 local, TV4 Hockey. Rögle on six straight losses and have not beaten Skellefteå this season (3-2, 2-2 earlier). Skellefteå 5-0 at home in last 10 (4.0 GF).",
+  "news": "Rögle six straight defeats; Skellefteå 1.60 regulation favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.37,
+    "p": 0.7093,
+    "why": "Skellefteå incl. OT: 5-0 at home, Rögle six straight losses and 2-4 away conceding 4.3. Own p ~0.73 (house 0.71)."
+   },
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.45,
+    "p": 0.6633,
+    "why": "Skellefteå 3+ goals: 4.0 GF/game at home in last 10, Rögle concede 4.33 away. Own p ~0.69 (house 0.66)."
+   }
+  ],
+  "avoid": "Rögle +2.5 catch (fav p 0.60 rule).",
+  "confidence": 0.3,
+  "sources": [
+   "https://hockeyresultat.se/shl-tabell/",
+   "https://www.tvmatchen.nu/sport/ishockey/skelleftea-rogle-26-november-2026/",
+   "https://www.tvmatchen.nu/sport/ishockey/vaxjo-djurgarden-shl-26-november-2026/",
+   "https://www.tvmatchen.nu/sport/ishockey/shl-resultat-24-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:71696622",
+  "fx": "Timraa IK v Farjestads BK",
+  "sport": "ice hockey",
+  "absences": "Färjestad (report ~4 weeks old): captain Linus Johansson, Mikkel Eriksen, Marcus Johansson, Victor Ejdsell were out; current status unknown.",
+  "context": "Färjestad lead SHL on 47 pts, 5-0 away in last 10 (4.2 GF). Timrå 4-2 at home. H2H 0-4 Färjestad.",
+  "news": "Färjestad top of the table; old injury list may still apply.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.7787,
+    "why": "Färjestad 2+ goals: league leaders, 4.2 GF away in last 10, won H2H 4-0. Own p ~0.79 (house 0.78)."
+   }
+  ],
+  "avoid": "Färjestad ML (away p 0.64 < 0.75); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://hockeyresultat.se/shl-tabell/",
+   "https://www.tvmatchen.nu/sport/ishockey/skelleftea-rogle-26-november-2026/",
+   "https://www.tvmatchen.nu/sport/ishockey/vaxjo-djurgarden-shl-26-november-2026/",
+   "https://www.tvmatchen.nu/sport/ishockey/shl-resultat-24-november-2026/",
+   "https://hockeynews.se/nyheter/ett-positivt-och-ett-negativt-skadebesked-for-fbk"
+  ]
+ },
+ {
+  "eid": "sr:match:71696620",
+  "fx": "Vaxjo Lakers v Djurgardens IF",
+  "sport": "ice hockey",
+  "absences": "no named absences found (unconfirmed \"Johansson\" injury in 19 Nov roundup, team unclear)",
+  "context": "19:00 local, TV12. Djurgården on four straight SHL losses and at risk of dropping into the qualification places; Växjö 10th, four points ahead with a game in hand. Djurgården 1-4 away in last 10 (3.8 GA).",
+  "news": "Djurgården 4 straight losses; must-win-ish for both.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.23,
+    "p": 0.7673,
+    "why": "Växjö not to lose in regulation: Djurgården lost 4 straight, 1-4 away. Own p ~0.78 (house 0.77)."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7971,
+    "why": "Växjö 2+ goals: Djurgården concede 3.8 away and 3.1 overall. Own p ~0.81 (house 0.80)."
+   }
+  ],
+  "avoid": "Djurgården +2.5 catch.",
+  "confidence": 0.25,
+  "sources": [
+   "https://hockeyresultat.se/shl-tabell/",
+   "https://www.tvmatchen.nu/sport/ishockey/skelleftea-rogle-26-november-2026/",
+   "https://www.tvmatchen.nu/sport/ishockey/vaxjo-djurgarden-shl-26-november-2026/",
+   "https://www.tvmatchen.nu/sport/ishockey/shl-resultat-24-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72119556",
+  "fx": "Djurgardens IF v Farjestad BK",
+  "sport": "ice hockey",
+  "absences": "not researched (women's)",
+  "context": "SDHL women's game. No SDHL schedule found in search for 26 Nov (no contradicting source either).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's league: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hockeyresultat.se/spelschema-shl/"
+  ]
+ }
+]

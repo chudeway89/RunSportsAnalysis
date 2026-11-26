@@ -1,0 +1,286 @@
+[
+ {
+  "eid": "sr:match:67843500",
+  "fx": "FC Telavi v FC Gori",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Erovnuli Liga 2 2026 Round 34 (late season). Telavi 1W in last 10 (lost 1-0 at Samtredia 21 Nov); Gori drew 1-1 v Odishi 21 Nov.",
+  "news": "no news found; betexplorer lists Telavi-Gori on 26 Nov (local 12:00 approx = 08:00 UTC?) vs board 11:00 UTC - minor kick-off time ambiguity only",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: thin second tier, no team news, coin-flip prices",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/georgia/crystalbet-erovnuli-liga-2/",
+   "https://www.365scores.com/en-uk/football/league/erovnuli-liga-2-8263"
+  ]
+ },
+ {
+  "eid": "sr:match:67843502",
+  "fx": "FC Kolkheti-1913 Poti v Sioni Bolnisi",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Erovnuli Liga 2 Round 34. Kolkheti relegated from top tier in 2025, 4/4 home wins (gf 2.5, ga 0); won 2-1 at Merani Martvili 21 Nov. Bolnisi won 3-1 v Gareji 21 Nov but poor away (1W in 5).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kolkheti 1X2 1.91 tempting on home form but stats-only, thin league",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/georgia/crystalbet-erovnuli-liga-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:73835452",
+  "fx": "BG Pathum United v Lion City Sailors FC",
+  "sport": "football",
+  "absences": "no confirmed injury news either side",
+  "context": "ACL Two Group F MD5 at True BG Stadium. Lion City Sailors top on 10 pts, a draw qualifies them for R16; BG Pathum 1 pt ahead of Adelaide (7 v 6) and need points. First meeting 1-1 (Sept, Mark Jackson debut). Sailors domestic form 8W-1D-1L, conceding 0.3.",
+  "news": "Must-win-ish for Pathum, draw suits Sailors; previews predict 1-1",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.785867,
+    "why": "Pathum home gf 2.2 and need a result; Sailors score 3.2/g; first meeting 1-1. Own p 0.79 (stats + motivation, weak mechanism)"
+   }
+  ],
+  "avoid": "result sides: Sailors happy with a draw, Pathum must chase - pick-em",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lioncitysailorsfc.sg/sailors-to-begin-2026-27-acl-two-voyage-at-home-against-bg-pathum/",
+   "https://journalarta.com/news/2026/11/26/lion-city-sailors-fc-butuh-imbang-lawan-bg-pathum-demi-16-besar",
+   "https://www.jawapos.com/sepak-bola-dunia/2611260182/prediksi-bg-pathum-united-vs-lion-city-sailors-duel-sengit-berebut-tiket-16-besar-acl-two-202627"
+  ]
+ },
+ {
+  "eid": "sr:match:73835312",
+  "fx": "PKR Svay Rieng v Machida Zelvia",
+  "sport": "football",
+  "absences": "no news found on Machida team selection",
+  "context": "ACL Two Group G MD5 at Morodok Techo, Phnom Penh. Machida 12 pts already through to R16 (since MD4); Svay Rieng 7 pts. Machida won reverse 2-0 (Duke, Yengi). Svay Rieng unbeaten at home in last 7 (5W 2D, gf 2.86). Machida played J1 rotation in MD1 preview context - rotation risk for an already-qualified side.",
+  "news": "Machida already qualified; group top likely needs only a draw; Svay Rieng call on fans",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.3,
+    "p": 0.736901,
+    "why": "Machida already qualified (rotation risk), Svay Rieng strong at home (5W2D last 7) - Machida 2+ goal win needed to beat it. Favourite p 0.48 < 0.55 so +1.5 allowed. Own p 0.77"
+   }
+  ],
+  "avoid": "Machida 1X2/DNB: qualified, rotation risk",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.jleague.jp/en/news/article/34937/",
+   "https://tirto.id/update-klasemen-acl-two-2026-tim-lolos-16-besar-26-november-iedy",
+   "https://www.khmertimeskh.com/502062253/svay-rieng-call-on-fans-to-show-up-for-machida-showdown"
+  ]
+ },
+ {
+  "eid": "sr:match:73835454",
+  "fx": "Tai Po FC v Adelaide United FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "ACL Two Group F MD5 at Mong Kok Stadium. Tai Po 0 pts, already eliminated; Adelaide 6 pts, 1 behind BG Pathum, must win. Adelaide won reverse 3-0. Adelaide away form poor (A-League losses 0-5, 0-4, 2-4) but Tai Po concede 2.1/g.",
+  "news": "Dead rubber for Tai Po, must-win for Adelaide",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.43,
+    "p": 0.670484,
+    "why": "Both defences leaky (Tai Po ga 2.1, Adelaide away ga 2.71); Adelaide must chase; Tai Po eliminated. Own p 0.70"
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.27,
+    "p": 0.758589,
+    "why": "Must-win for Adelaide v an eliminated side they beat 3-0; Away p 0.76 >= 0.75. Own p 0.77, but Adelaide away form shaky"
+   }
+  ],
+  "avoid": "Adelaide -1.5: poor away defence",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-f-adelaide-united-fc-aus-3-0-tai-po-fc-hkg",
+   "https://adelaideunited.com.au/news/andrioli-and-alagich-reds-focused-on-three-points-in-hong-kong/",
+   "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/acltwo-preview-matchday-five-1"
+  ]
+ },
+ {
+  "eid": "sr:match:73078866",
+  "fx": "Al Nasr Cairo v El Terasanah",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Egypt 2nd Div A Round 14. Al Nasr Cairo at/near top (20 pts); El Terasanah also near top - top-of-table clash. Thin, low-scoring league (Over 1.5 banned class).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: top clash, Egypt thin league",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/second-division-6994/standings",
+   "https://www.sofascore.com/football/tournament/egypt/egyptian-second-division-a/10536"
+  ]
+ },
+ {
+  "eid": "sr:match:73078874",
+  "fx": "Dayrout v El Dakhleya Sc",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Egypt 2nd Div A Round 14. Dayrout bottom (7 pts after 13), 0W in 4 at home (ga 2.75); Dakhleya lower half, 1W in 5 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.22,
+    "p": 0.7728971083,
+    "why": "Dayrout bottom, winless at home, 0.5 gf/g; X2 only loses to a Dayrout win. Stats-only fill. Own p 0.78"
+   }
+  ],
+  "avoid": "Dakhleya 1X2: away side poor too",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/second-division-6994/standings",
+   "https://www.sofascore.com/football/tournament/egypt/egyptian-second-division-a/10536"
+  ]
+ },
+ {
+  "eid": "sr:match:73078868",
+  "fx": "El Entag El Harby v Kahrabaa Ismailia",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Egypt 2nd Div A Round 14. Mid-table, no clear edge.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/second-division-6994/standings",
+   "https://www.sofascore.com/football/tournament/egypt/egyptian-second-division-a/10536"
+  ]
+ },
+ {
+  "eid": "sr:match:73078870",
+  "fx": "El Sekka El Hadid v Proxy SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Egypt 2nd Div A Round 14. El Sekka El Hadid near top, 3W1D at home; Proxy lower half, 1W in 5 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.44,
+    "p": 0.6448869329,
+    "why": "Table gap (Sekka top group, Proxy lower half) and Sekka unbeaten at home; DNB covers the draw. Stats-only. Own p 0.67"
+   }
+  ],
+  "avoid": "Overs (Egypt thin)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/second-division-6994/standings",
+   "https://www.sofascore.com/football/tournament/egypt/egyptian-second-division-a/10536"
+  ]
+ },
+ {
+  "eid": "sr:match:73078872",
+  "fx": "Mega Sport Belqas v La Viena FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Egypt 2nd Div A Round 14. Both sides in poor form (1W in 10 each), low scoring.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; Under 2.5 p 0.67 < 0.82",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/second-division-6994/standings",
+   "https://www.sofascore.com/football/tournament/egypt/egyptian-second-division-a/10536"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114668602",
+  "fx": "Golden Gate SC v Al Badari SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Egypt Second Division B (regional/amateur-level). No Sportradar form data.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: no data, amateur tier",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73730340",
+  "fx": "Cabrayil v Moik Baku",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Azerbaijan I Liqa Week 9 at ASCO Arena: top-of-table clash, Cabrayil 1st (17 pts) v MOIK 4th (15). MOIK won 6 of 7 previous meetings; Cabrayil strong at home.",
+  "news": "Top-of-table clash, conflicting H2H vs home form",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: conflicting signals",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/c%C9%99bray%C4%B1l-moik-baku-2529805",
+   "https://footystats.org/azerbaijan/fk-moik-baku-vs-cabrayil-fk-h2h-stats"
+  ]
+ },
+ {
+  "eid": "sr:match:74173312",
+  "fx": "FC Kairat Almaty v Mjallby AIF",
+  "sport": "football",
+  "absences": "Kairat: Jorginho (ACL, out to Apr 2027) per FotMob/bet365 (Flashscore lists none). Mjallby: Villum Dalsgaard, Timo Stavitski out; Jacob Bergstrom (thigh) doubtful, Ludvig Tidstrand went off injured v Malmo",
+  "context": "UECL league phase MD4 in Almaty (venue named variously; 15:30 UTC consistent). Kairat 27th, 2 pts from 3, winless in 5, GD -4. Mjallby unbeaten (2W1D, 7 pts, GD +4). Long trip for Mjallby, Swedish season at its end.",
+  "news": "Mjallby unbeaten in UECL, Kairat winless in 5; Mjallby missing Dalsgaard/Stavitski, Bergstrom doubtful",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Away (+1.0)",
+    "odds": 1.33,
+    "p": 0.727128,
+    "why": "Mjallby unbeaten in phase, concede 0.7/g (away 0.75); Kairat winless in 5 - only a Kairat 2+ goal win loses (exact 1 = void). Own p 0.77 loss-free"
+   }
+  ],
+  "avoid": "Kairat 1X2/DNB: house favours Kairat despite form; Mjallby 1X2 long trip + absences; Under 3.5 p 0.72 < 0.82",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fotmob.com/matches/kairat-almaty-vs-mjallby/25sd09",
+   "https://www.flashscore.co.za/match/soccer/kairat-almaty-CrO7xXpJ/mjallby-S0XtXM1E/",
+   "https://news.bet365.com/sv-sv/article/kairat-almaty-mjallby-forvantade-startelvor-skador-avstangningar/2026112510105476764",
+   "https://www.futbol24.com/betting-tips/preview/26-11-2026-fk-kairat-mjallby-aif-betting-tip/"
+  ]
+ }
+]

@@ -1,0 +1,321 @@
+[
+ {
+  "eid": "sr:match:77183626",
+  "fx": "Legion-Pro v Lions-Pro",
+  "sport": "volleyball",
+  "absences": "unknown",
+  "context": "Russia Liga Pro: betting-feed short-format league; teams meet repeatedly, H2H split (0-3,1-3,3-2); both 5-5 last 10.",
+  "news": "no verifiable team news; only betting/stats aggregator pages, which contradict each other on whether Legion-pro is a real club",
+  "veto": true,
+  "veto_reason": "Unresearchable betting-feed league (no official source, conflicting club identity); 50/50 house line, no mechanism possible",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://betsapi.com/volleyball/l/10421/russia-liga-pro",
+   "https://betsapi.com/t/339307/Legion-pro",
+   "https://stake.com/sports/volleyball/russia/pro-league"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114520593",
+  "fx": "Berel VC v FK Aktobe",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Kazakhstan men's National League (home-and-away format new for 2026/27). Aktobe = defending champion and leader (7 pts clear of Okzhetpes/Atyrau before round 6); Aktobe recently played CAVA Men's Volleyball League in India (travel/fatigue).",
+  "news": "Aktobe leads the table; recent CAVA trip to India; Berel v Aktobe flagged in round-6 preview",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Aktobe ML 1.30 (away 1X2 below p 0.75; only Winner market on board); no Sportradar data",
+  "confidence": 0.15,
+  "sources": [
+   "https://sportarena.kz/volleyball/1066504-prevyu-shestogo-tura-muzhskoy-natsionalnoy-ligi-po-voleybolu.html",
+   "https://vesti.kz/tournaments/6875/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114520595",
+  "fx": "Dynamo Taraz v Zhaik Uralsk",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Kazakhstan men's National League; no Sportradar form data; no team-specific news found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Zhaik ML 1.25 (p 0.767) and -1.5 sets: statistics-only, no form data, thin league",
+  "confidence": 0.1,
+  "sources": [
+   "https://vesti.kz/tournaments/6875/",
+   "https://sportarena.kz/volleyball/1066504-prevyu-shestogo-tura-muzhskoy-natsionalnoy-ligi-po-voleybolu.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76508940",
+  "fx": "DH Volley v LKS Lodz",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "WOMEN. CEV Challenge Cup 1/16 first leg in Baku (15:00 PL = 14:00 UTC, matches board); return in Lodz 2 Dec. LKS Commercecon 9-1 last 10, 6-0 away. DH Volley Baku beat Holte IF to reach this round.",
+  "news": "First leg of two-legged tie; LKS strong favourite; times consistent",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's + knockout: no result-sides; not a clear enough mismatch for totals",
+  "confidence": 0.15,
+  "sources": [
+   "https://radiolodz.pl/siatkowka-druzyny-z-lodzkiego-poznaly-rywali-w-europejskich-pucharach,651675/",
+   "https://lkslodz.pl/aktualnosci/gra-wielosekcyjny-lks-26-30-listopada/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114666886",
+  "fx": "Okzhetpes v Quanysh",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Kazakhstan men's National League. Okzhetpes 17 pts (joint 2nd with Atyrau, 7 behind Aktobe) before round 6; Quanysh position unknown. No Sportradar data.",
+  "news": "Okzhetpes among top four per round-6 preview; nothing on Quanysh",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Okzhetpes ML 1.22 is stats-only with no form data; skip",
+  "confidence": 0.15,
+  "sources": [
+   "https://sportarena.kz/volleyball/1066504-prevyu-shestogo-tura-muzhskoy-natsionalnoy-ligi-po-voleybolu.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72523370",
+  "fx": "LP Vampula v LP Kangasala",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "WOMEN. Finnish Mestaruusliiga 3rd (Kangasala) v 4th (Vampula) at Tahto Areena, Huittinen, Thursday (league preview). Vampula won the 7 Oct meeting 3-2 away; Vampula won 3-0 at Orivesi on 23 Nov.",
+  "news": "League preview confirms Thursday 3rd v 4th in Huittinen; Vampula in good form",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's; evenly matched (last H2H went 5 sets) - no picks",
+  "confidence": 0.15,
+  "sources": [
+   "https://mestaruusliiga.fi/uutiset/liigan-kolmonen-ja-nelonen-vastakkain-huittisissa-torstaina/",
+   "https://mestaruusliiga.fi/uutiset/vampula-voitti-kangasalan-viisieraisessa/"
+  ]
+ },
+ {
+  "eid": "sr:match:75554184",
+  "fx": "Uni Opole v Volley Mulhouse Alsace",
+  "sport": "volleyball",
+  "absences": "no injury news found",
+  "context": "WOMEN. CEV Champions League Pool A round 1, Stegu Arena Opole 18:00 CET (17:00 UTC, matches board; one source says 17:45). Opole's historic European debut; Mulhouse = French champion and cup holder (5-0 away last 5). VakifBank and Beveren also in pool.",
+  "news": "Opole debut in Europe; Mulhouse French double winner; no absences reported",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's; house has Opole fav 0.546 despite Mulhouse's stronger form - no pick",
+  "confidence": 0.15,
+  "sources": [
+   "https://czasnaopole.pl/uni-przed-debiutem-w-lidze-mistrzyn/",
+   "https://eurosport.tvn24.pl/siatkowka/cev-champions-league/2026-2027/startuje-liga-mistrzyn-siatkarek-2026-2027.-kiedy-mecze-pge-budowlanych-lodz-uni-opole-i-developresu-rzeszow-w-1.-kolejce_sto23357970/story.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:76508458",
+  "fx": "Apollo 8 v Olympiacos Piraeus",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "WOMEN. CEV Challenge Cup first leg in Borne 19:00 CET (club says 20:00 Greek time = same), return 1 Dec in Piraeus. Olympiacos beat Benfica 3-2 in tie-break of return leg; Apollo 8 eliminated Levski Sofia with two wins (9-1 last 10, 4-0 home).",
+  "news": "First leg of two-legged tie; times consistent across sources",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's knockout; Olympiacos 1.05 too short, Apollo 8 in strong form",
+  "confidence": 0.15,
+  "sources": [
+   "https://greekcitytimes.com/2026/11/05/olympiacos-women-beat-benfica-to-advance-in-challenge-cup",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_CEV_Women's_Challenge_Cup",
+   "https://www.olympiacossfp.gr/"
+  ]
+ },
+ {
+  "eid": "sr:match:72774480",
+  "fx": "Ksg Warszawa v Sms Pzps Szczyrk",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "WOMEN, and SMS PZPS Szczyrk is the federation's youth school side (youth). Polish 1. Liga Kobiet.",
+  "news": "Interia 2026/27 schedule lists KSG-SMS on 10 Oct 2026 and SMS-KSG on 9 Jan 2027; no 26 Nov date found",
+  "veto": true,
+  "veto_reason": "Date conflict: league schedule shows the KSG home meeting on 10 Oct 2026, not 26 Nov; plus youth/women side",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.interia.pl/siatkowka/druzyna-sms-pzps-szczyrk,spti,28942",
+   "https://www.tauron1ligakobiet.pl/games/action/show/id/1105374/nocookies/1.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74781240",
+  "fx": "Gislaveds VBK v RIG Falkoping",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "WOMEN. Swedish Elitserien round 6, Gisle Sportcenter 19:00 local (18:00 UTC, matches Profixio). Last season split 2-3 / 3-0.",
+  "news": "Fixture confirmed by Profixio; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Data conflict: house has Gislaved 1.06 (p 0.915) but Sportradar last-10 is 2-8 (0-4 home); do not use either way",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.profixio.com/app/lx/competition/leagueid27935?t=schedule",
+   "https://women.volleybox.net/gislaveds-vbk-rig-falkoping-c337592"
+  ]
+ },
+ {
+  "eid": "sr:match:76508468",
+  "fx": "Draisma Dynamo Apeldoorn v Volley Dudingen",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "WOMEN. CEV Challenge Cup 1/16 first leg, Draisma Dynamo Arena Apeldoorn 19:30 CET (18:30 UTC, matches board); return 2 Dec in D\u00fcdingen. Dynamo beat TIF Viking Bergen 3-1 and 3-0; D\u00fcdingen a Swiss sub-top side (1-4 away last 5).",
+  "news": "First leg; times consistent",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's knockout: no result-sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.vizieropvolleybal.nl/kaartverkoop-europacup-duels-damesteams-in-challenge-cup-gestart/",
+   "https://www.volleybalkrant.nl/nieuws/vier-uit-vier-voor-nederlandse-clubs-in-europa/"
+  ]
+ },
+ {
+  "eid": "sr:match:73951288",
+  "fx": "Tours Volley-Ball v Montpellier Volley UC",
+  "sport": "volleyball",
+  "absences": "Montpellier described as weakened (affaibli) by La Nouvelle R\u00e9publique; names not given in the snippet",
+  "context": "French Ligue A men. Tours 5-1 this season, after a 3-0 over Plessis-Robinson, chasing a third straight win; Montpellier = defending champion but 1-3 away last 4.",
+  "news": "Tours seeks 3rd straight win against a weakened Montpellier (NR preview)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.761982,
+    "why": "Tours 8-2 last 10 (5-1 home), Montpellier weakened per NR preview and 1-3 away; own p 0.78"
+   }
+  ],
+  "avoid": "Tours -1.5 sets (Montpellier can still take a set); totals",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.titrespresse.com/30568682603/alterna-volstar-tours",
+   "https://spikelive.fr/ligue/lam"
+  ]
+ },
+ {
+  "eid": "sr:match:76760536",
+  "fx": "Volley Ljubljana v Xilasedici",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "CEV Champions League men, qualifying round 3, SECOND LEG in Ljubljana. First leg 19 Nov in Baku: Xilasedici 1-3 ACH (kushvsporte H2H; Sportradar H2H also shows 3-1). ACH 10-0 last 10 and need only 2 sets to advance, so effort may ease once qualified.",
+  "news": "ACH lead the tie after winning 3-1 in Baku; second leg today",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout: no result-side and no To Qualify market on board; 3-0 and handicaps exposed to rotation once ACH secure 2 sets",
+  "confidence": 0.2,
+  "sources": [
+   "https://volleybox.net/fhn-xilasedici-vk-ach-volley-ljubljana-c420068",
+   "https://kushvsporte.ru/event/7110008-akh-volley-lyublyana-hilasedidzhi"
+  ]
+ },
+ {
+  "eid": "sr:match:75554248",
+  "fx": "KS Rzeszow v Dresdner SC",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "WOMEN. CEV Champions League Pool B round 1, Hala Podpromie 20:30 CET (19:30 UTC; one source 20:15). Rzeszow 10-0 last 10; Dresdner 2-5 away.",
+  "news": "Group opener; small kick-off time discrepancy (20:15 v 20:30), not a date conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's: no result-sides; not using totals",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.polsatsport.pl/wiadomosc/2026-11-21/liga-mistrzyn-siatkarek-transmisje-tv-stream-online-1-kolejka-gdzie-ogladac-mecze/",
+   "https://supernowosci24.pl/sport/rusza-siatkarska-liga-mistrzyn/"
+  ]
+ },
+ {
+  "eid": "sr:match:75554246",
+  "fx": "Volley Conegliano v Agil Volley Novara",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "WOMEN. Italian derby in CEV Champions League Pool B round 1, PalaVerde 20:30 CET. Conegliano won 3-0 at Novara two weeks ago; Lorenzo Bernardi back on Novara's bench.",
+  "news": "Derby, rematch two weeks after Conegliano's 3-0 away; Bernardi returns as Novara coach",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's + derby: no result-sides or handicaps",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.corrieredellosport.it/news/volley/coppe-volley/2026/11/25-152832440/champions_league_conegliano-novara_derby_della_pool_b_al_pala_verde",
+   "https://news.sportface.it/volley/volley-femminile/champions-volley-femminile-25-26-novembre-2026-sky-now/2832794"
+  ]
+ },
+ {
+  "eid": "sr:match:73076888",
+  "fx": "Perugia Volley v Volley Civitanova",
+  "sport": "volleyball",
+  "absences": "none: both squads full (Resto del Carlino). Perugia: Giannelli, Reggers, Plotnytskyi, Semeniuk, Sanguinetti, Loser, Loreti. Civitanova: S. Nikolov, A. Nikolov, Bottolo, Loeppky, Gargiulo, Howe (over Klimes), Balaso",
+  "context": "SuperLega men, brought forward because Perugia go to the Club World Championship in mid-December. Immediate rematch of the Supercoppa, which Perugia won with a comeback. 1st (19 pts, 7 wins) v 2nd (18 pts from 6). Big-club clash.",
+  "news": "Top-two clash with full squads, Supercoppa rematch; PalaBarton 20:30 CET",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "193",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.19,
+    "p": 0.8025952575,
+    "why": "Civitanova to win a set: 2nd-placed side with full squad (Nikolov brothers) v leader, and the Supercoppa needed a Perugia comeback; own p 0.81"
+   }
+  ],
+  "avoid": "Big-club clash: no Winner/set handicap; Over 3.5 sets 1.28 has weak trend (0.40)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.ilrestodelcarlino.it/macerata/sport/lanticipo-di-superlega-e-ora-ee8a96de",
+   "https://www.oasport.it/2026/11/perche-perugia-civitanova-di-superlega-viene-anticipata-scontro-stellare-e-immediata-rivincita-della-supercoppa-italiana/amp/"
+  ]
+ },
+ {
+  "eid": "sr:match:72774902",
+  "fx": "Kps Plock v Fort Poznan",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "TAURON 1. Liga men, first league match ever at ORLEN Arena Plock (20:30 local, matches board). KPS 16th (1 win, 1 pt from 6) under Marcin Lubiejewski; Fort 3rd-4th (15 pts from 7). Preview: Fort's last seven 1. Liga matches all went 4+ sets; KPS home losses 2-3 x3.",
+  "news": "Historic big-arena home game for KPS; Fort's matches routinely long. scores24 URL slug says 28-11 but its title and all local media say 26 Nov",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "192",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.32,
+    "p": 0.7163944373,
+    "why": "KPS to win a set: Fort's last 7 league games all 4+ sets (all 6 recent away games 4-5 sets); KPS took 2 sets in 3 of last 4 home games; big-arena motivation; own p 0.75"
+   }
+  ],
+  "avoid": "Fort -1.5 sets; Fort ML 1.35 (away <0.75)",
+  "confidence": 0.25,
+  "sources": [
+   "https://tp.com.pl/artykul/historyczny-mecz-siatkarzy-n1883419",
+   "https://panoramaplock.pl/historyczny-mecz-w-orlen-arenie-kps-plock-zmierzy-sie-z-fortem-poznan,7354781887794336a",
+   "https://scores24.live/pl/volleyball/m-28-11-2026-kps-plock-fort-poznan-prediction",
+   "https://kpsplock.pl/tabela-ligowa"
+  ]
+ }
+]
