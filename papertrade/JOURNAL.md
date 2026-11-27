@@ -1782,3 +1782,23 @@ Graded outcomes to date: 240557
 | baseball | 256 | 107 | 0.6227 | 0.6020 | +0.0206 | 1 | -1.000 | collecting |
 | baseball | 251 | 72 | 0.6810 | 0.6807 | +0.0003 | 0 | +0.000 | collecting |
 
+## Day 94 — 2026-11-27 20:06 UTC
+Run: OK | snapshot 7167 outcomes / 170 events | failed steps: none
+Pipeline steps: grade, tape_harvest, form_research, tape_grade, tape_report, learn, settle_tickets
+Graded outcomes to date: 241686
+
+| Sport | Market | n | Model LL | House LL | Δ (neg = model better) | EV picks | Picks ROI | Verdict |
+|---|---|---|---|---|---|---|---|---|
+| basketball | 225 | 108252 | 0.6491 | 0.6491 | -0.0000 | 1 | +1.950 | **PASS** |
+| basketball | 223 | 52284 | 0.6483 | 0.6479 | +0.0004 | 464 | +0.080 | FAIL (house better) |
+| basketball | 227 | 27218 | 0.6876 | 0.6877 | -0.0001 | 0 | +0.000 | FAIL (picks lose) |
+| basketball | 228 | 20908 | 0.6858 | 0.6858 | +0.0000 | 0 | +0.000 | FAIL (house better) |
+| football | 900300 | 12054 | 0.6340 | 0.6257 | +0.0083 | 1947 | -0.004 | FAIL (house better) |
+| football | 166 | 9369 | 0.6495 | 0.6481 | +0.0014 | 427 | -0.069 | FAIL (house better) |
+| basketball | 219 | 4400 | 0.6482 | 0.6490 | -0.0008 | 8 | -0.645 | FAIL (picks lose) |
+| football | 900301 | 3902 | 0.6442 | 0.6215 | +0.0227 | 629 | -0.035 | FAIL (house better) |
+| football | 139 | 2994 | 0.6303 | 0.6099 | +0.0204 | 558 | -0.050 | FAIL (house better) |
+| baseball | 258 | 118 | 0.6624 | 0.6586 | +0.0038 | 6 | +0.157 | collecting |
+| baseball | 256 | 111 | 0.6295 | 0.6104 | +0.0192 | 1 | -1.000 | collecting |
+| baseball | 251 | 76 | 0.6708 | 0.6698 | +0.0010 | 0 | +0.000 | collecting |
+
