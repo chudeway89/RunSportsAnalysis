@@ -442,5 +442,116 @@
   "sources": [
    "https://sport.orf.at/tabellen/stories/2288204/"
   ]
+ },
+ {
+  "eid": "sr:match:72771680",
+  "fx": "UVC Ried/Innkreis v UVC Graz",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "AVL Men, Sat 28 Nov 19:00 (ORF). Ried 2nd (7-1, 22:10) beat St. Polten 3:1 on Tue 24 Nov; UVC Graz 4th (5-2) lost 1:3 at Aich/Dob on Wed 25 Nov and travel again.",
+  "news": "Date confirmed; Graz had the later midweek game and a second away trip in four days.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.771515,
+    "why": "Mechanism: Ried (7-1) at home v Graz coming off a Wednesday away defeat at Aich/Dob, a day less rest than Ried. Own p 0.79 vs house 0.772."
+   }
+  ],
+  "avoid": "Ried -1.5 sets / large point handicaps (Graz 5-2, can take a set).",
+  "confidence": 0.2,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288204/"
+  ]
+ },
+ {
+  "eid": "sr:match:73993362",
+  "fx": "Trailfinders v Harlequins",
+  "sport": "rugby",
+  "absences": "no team sheets found",
+  "context": "Premiership Women's Rugby, Trailfinders Sports Ground, Sat 28 Nov 19:00 - consistent. Harlequins 1-9 last 10 (conceding 41.4).",
+  "news": "Women's fixture; date/venue consistent; last H2H Trailfinders 72-19.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks (handicap is not a goals market).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.rugbypass.com/live/ealing-trailfinders-women-vs-harlequins-women/",
+   "https://www.quins.co.uk/matches/womens-fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:75360670",
+  "fx": "Montes Claros v Unifucamp/Monete Carmelo",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Superliga masculina 2026/27 round 6, Sat 28 Nov 16:00 BRT (= 19:00 UTC, consistent). Montes Claros ~7th; Monte Carmelo 2-8 last 10.",
+  "news": "Date/time consistent with broadcast listing; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Montes Claros ML p 0.57: no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lance.com.br/volei/superliga-masculina-confira-a-programacao-de-transmissoes-da-rodada.html",
+   "https://www.olympics.com/pt/noticias/superliga-masculina-2026-2027-tabela-classificacao-resultados"
+  ]
+ },
+ {
+  "eid": "sr:match:72875934",
+  "fx": "Lyon Ou v Stade Toulousain",
+  "sport": "rugby",
+  "absences": "Toulouse: 20+ absent (internationals and injured) incl. Romain Ntamack (shoulder), Julien Marchand (hamstring), Thibaud Flament, Emmanuel Meafou, Clement Verge; returning Rodrigue Neti, Joshua Brennan, Matthis Lebel, Matias Remue, Pierre-Louis Barassi; Jack Willis captain; young halfbacks Daroque-Delpy. Lyon: Janse Roux (concussion protocol) and fly-half Martin Meliande (calf) out; Fousseynou Cissokho (22) first Top 14 start.",
+  "context": "Top 14 J10, Sat 28 Nov 21:00 local (20:00 UTC, consistent). Big-club clash. Toulouse 8-2 last 10; Lyon 5-5.",
+  "news": "Depleted Toulouse (no Ntamack, Marchand, Flament, Meafou) at Lyon, who lose their fly-half Meliande.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result-side or catch (rule); both sides missing key players makes the margin unreadable.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lejournaltoulousain.fr/occitanie/haute-garonne/toulouse/composition-du-stade-toulousain-plusieurs-retours-pour-le-deplacement-a-lyon-405460/",
+   "https://www.minutesports.fr/2026/11/26/la-compo-probable-competitive-du-stade-toulousain-malgre-plus-de-20-absents/",
+   "https://www.minutesports.fr/2026/11/26/le-lou-rugby-va-lancer-un-tout-nouveau-joueur-contre-le-stade-toulousain/"
+  ]
+ },
+ {
+  "eid": "sr:match:75360672",
+  "fx": "Volei Guarulhos v Volei Renata",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Superliga masculina round 6, Guarulhos v Volei Renata (Campinas), Sat 28 Nov 18:30 BRT (= 21:30 UTC, consistent). Guarulhos 2-8 last 10, lost 0-3 at Suzano in round 3; ~10th.",
+  "news": "Date/time consistent; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Renata ML 1.12 too short; no mechanism for handicaps.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lance.com.br/volei/superliga-masculina-confira-a-programacao-de-transmissoes-da-rodada.html",
+   "https://ohoje.com/2026/11/12/goias-perde-para-o-praia-clube-confira-os-resultados-da-3a-rodada-da-superliga-masculina/"
+  ]
+ },
+ {
+  "eid": "sr:match:75360674",
+  "fx": "Suzano Volei SP v Praia Clube",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Superliga masculina round 6, Sat 28 Nov 21:00 BRT (= 00:00 UTC 29 Nov, consistent). Praia Clube beat Goias 3-0 in R3; Suzano lost to Minas in R1, beat Guarulhos 3-0.",
+  "news": "Date/time consistent; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Praia ML p 0.72 (below 0.75 away threshold).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lance.com.br/volei/superliga-masculina-confira-a-programacao-de-transmissoes-da-rodada.html",
+   "https://ohoje.com/2026/11/12/goias-perde-para-o-praia-clube-confira-os-resultados-da-3a-rodada-da-superliga-masculina/"
+  ]
  }
 ]

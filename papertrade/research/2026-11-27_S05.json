@@ -1,0 +1,497 @@
+[
+ {
+  "eid": "sr:match:76227680",
+  "fx": "East Zone v South Zone",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Women's Inter-Zonal T20 (India domestic). women's fixture: no picks per rules",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets (women's)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75390902",
+  "fx": "India  v England",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "U19 women's 5-match T20 series (2nd T20I); youth+women: no picks. BCCI lists 1st T20I 26 Nov Vadodara; remaining games listed Dec 1/3/6 in one source - date of a 28 Nov game unconfirmed.",
+  "news": "India U19 W (capt Bhavika Ahire) v England U19 W, series 26 Nov-6 Dec in Vadodara/Surat; schedule sources disagree on game dates",
+  "veto": true,
+  "veto_reason": "date conflict: sources list games on 26 Nov then 1/3/6 Dec, no 28 Nov match found; also youth/women",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bcci.tv/matches/ea3f270f-845f-4998-a191-f2766221b8f7/india-under-19s-women-vs-england-under-19s-women",
+   "https://cricketresolved.com/india-u19-women-vs-england-u19-women-2026-schedule-squad/"
+  ]
+ },
+ {
+  "eid": "sr:match:74293516",
+  "fx": "Dolphins v Titans",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "CSA Women Pro50 Series. women's fixture: no picks per rules. Titans 10-0 in last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/CSA_Women_Pro50_Series"
+  ]
+ },
+ {
+  "eid": "sr:match:76075830",
+  "fx": "Tuskers v Southern Rocks",
+  "sport": "cricket",
+  "absences": "none found; Brendan Taylor (Tuskers) in form (67*)",
+  "context": "Zimbabwe Pro50 2026-27; final scheduled 29 Nov. Tuskers top of table, Southern Rocks bottom (defending champions).",
+  "news": "Tuskers beat Southern Rocks by 5 wkts on 26 Nov at Victoria Falls (Rocks 149 all out); no 28 Nov Tuskers-Rocks fixture found - sources list this pairing on 20/22/26 Nov",
+  "veto": true,
+  "veto_reason": "date conflict: same pairing played 26 Nov; no source confirms a 28 Nov rematch the day before the final",
+  "picks": [],
+  "avoid": "Tuskers ML 1.35 despite mismatch - fixture date unverified",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cricinfo.com/story/2027-world-cup-mosi-oa-tunya-international-stadium-at-victoria-falls-stages-first-official-match-1564330",
+   "https://www.heraldonline.co.zw/taylor-inspires-tuskers-win-in-pro50-clash-at-new-world-cup-venue/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Pro50_Championship"
+  ]
+ },
+ {
+  "eid": "sr:match:77246808",
+  "fx": "Lokseva Academy v Sunny 11 Pratishtan",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Pune Olympia T20 Trophy - local amateur competition, no form data",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (amateur, no data)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74293518",
+  "fx": "South Western Districts v Lions",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "CSA Women Pro50 Series. women's fixture: no picks per rules",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/CSA_Women_Pro50_Series"
+  ]
+ },
+ {
+  "eid": "sr:match:75326664",
+  "fx": "Sydney Thunder v Sydney Sixers",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "WBBL|12 Sydney derby. women's fixture: no picks per rules. Sixers won both 2025 derbies.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's, derby)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73529546",
+  "fx": "OGM Ormanspor v Kecioren Belediyesi Baglum",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TBL (Turkish 2nd tier) round 13; OGM Ormanspor 4-1 at home, Keci\u00f6ren 1-4 away",
+  "news": "Fixture confirmed 28 Nov 13:00 TR (=10:00 UTC); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.43 (p 0.66 < 0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.haberler.com/spor/kadinlar-basketbol-super-ligi-9-hafta-turkiye-20467159-haberi/",
+   "https://www.aa.com.tr/tr/spor/basketbol-haftanin-programi/4139923"
+  ]
+ },
+ {
+  "eid": "sr:match:77243736",
+  "fx": "Venice Livewire v Napoli Knights",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Italia T10 (Rome Cricket Ground), Venice Livewires (capt Dawid Malan) v Napoli Knights (capt James Anderson); Napoli beat Venice by 8 wkts earlier in event",
+  "news": "tournament listed 20-28 Nov, all at Roma Cricket Ground; sources disagree on start date (18 vs 20 Nov)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip ML, no mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://italiat10.com/",
+   "https://ianslive.in/dawid-malan-named-venice-livewires-captain-kc-cariappa-joins-squad-for-italia-t10--20261103214623"
+  ]
+ },
+ {
+  "eid": "sr:match:77212836",
+  "fx": "Mi Emirates v Desert Vipers",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "ILT20 2026 match 9, Zayed Cricket Stadium Abu Dhabi 14:00 GST (=10:00 UTC, matches board). Desert Vipers capt Shadab Khan, Babar Azam signed, Tom Curran wildcard; MI Emirates capt Pollard",
+  "news": "Date/venue confirmed; points tables disagree (MIE 2 or 4 pts, DV 2 pts)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "MI Emirates ML 1.75 (p 0.55, no mechanism)",
+  "confidence": 0.2,
+  "sources": [
+   "https://ilt2026.com/schedule/",
+   "https://www.cricketnews.com/en/cricket/news/ilt20-2026-schedule-score-format-points-table-live-streaming/2321c7b68598f21306fd3a69",
+   "https://cricketdaily.net/article/t20-league/desert-vipers-squad-schedule-ilt20-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73466378",
+  "fx": "Emlak Konut SK v Kayseri Basketbol",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's Super Lig rd 9: Emlak Konut v Melikgazi Kayseri, 14:00 TR Ba\u015fak\u015fehir (=11:00 UTC). women's fixture: no picks per rules",
+  "news": "fixture confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sondakika.com/spor/haber-kadinlar-basketbol-ligi-nde-9-turkiye-basketbol-li-20467174/"
+  ]
+ },
+ {
+  "eid": "sr:match:74323158",
+  "fx": "Tesvikiye SK v Karatay Belediyespor",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TB2L (3rd tier) Group; Karatay started 4-0 unbeaten this season",
+  "news": "no news found for this game; fixture not confirmed in sources",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Karatay ML 1.41 (p 0.66 <0.75)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.anadoludabugun.com.tr/konyada-spor/karatayin-devlerinden-4te-4-namaglup-zirvedeyiz/422733"
+  ]
+ },
+ {
+  "eid": "sr:match:74323154",
+  "fx": "Konya Gelisim v High Touch Ht",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TB2L (3rd tier)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "High Touch ML 1.35 (p 0.695 <0.75)",
+  "confidence": 0.15,
+  "sources": [
+   "https://basketfaul.com.tr/turkiye-basketbol-2-ligi-tb2l/"
+  ]
+ },
+ {
+  "eid": "sr:match:73529532",
+  "fx": "Goztepe SK v Yalova Harem Spor",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TBL rd 13 top-of-table: Yalova Harem Spor 1st (10-2), G\u00f6ztepe Isonem 3rd (8-3), G\u00f6ztepe 5-0 at home",
+  "news": "15:30 TR (=12:30 UTC) confirmed; no injury news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip ML/spread; big-game, no result side",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.tbf.org.tr/ligler/tbl/puan-durumu",
+   "https://www.aa.com.tr/tr/spor/basketbol-haftanin-programi/4139923"
+  ]
+ },
+ {
+  "eid": "sr:match:73529540",
+  "fx": "Ilab Basketbol v Darussafaka",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TBL rd 13 at Be\u015fikta\u015f Akatlar, 15:30 TR (=12:30 UTC) confirmed by TBF TV/AA. iLab 9th (6-5); Dar\u00fc\u015f\u015fafaka 4-6 last 10, 2-3 away, lost last home game 47-79",
+  "news": "Date/time/venue consistent across sources; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.7942659525,
+    "why": "House p 0.79; Dar\u00fc\u015f\u015fafaka in poor form (47-79 home loss, 4-6 L10) but no named absence found - statistics-only, fill leg. Own est 0.78"
+   }
+  ],
+  "avoid": "-8.5 handicap (coin flip)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sporekrani.com/home/match/496395/2026/11/28/ilab-basketbol-darussafaka-basketbol-1.-ligi-hangi-kanalda",
+   "https://www.aa.com.tr/tr/spor/basketbol-haftanin-programi/4139923"
+  ]
+ },
+ {
+  "eid": "sr:match:77243738",
+  "fx": "Brescia Lions v Roma Gladiators",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "Italia T10: Brescia Lions (coach Hafeez; Johnson Charles, Mohammad Amir) v Rome Gladiators (Chris Gayle, Will Smeed). Brescia beat Milan by 61 in opener",
+  "news": "all games at Roma Cricket Ground; start-date discrepancy only",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip ML",
+  "confidence": 0.15,
+  "sources": [
+   "https://italiat10.com/",
+   "https://www.sportsdunia.com/cricket-news/italia-t10-league-schedule-venues-squads-marquee-players-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73529536",
+  "fx": "Mersin MSK v Cedi Osman Basketbol",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TBL rd 13 at Servet Tazeg\u00fcl Arena; Mersin 2nd in mid-Nov table (8-2), 4-1 at home; Cedi Osman signed Nusret Yildirim 20 Nov",
+  "news": "kick-off conflict: AA schedule 16:00 TR vs TBF TV listing 16:30 TR",
+  "veto": true,
+  "veto_reason": "kick-off time conflict between AA (16:00) and TBF TV (16:30); also house has away fav 1.37 v a home side 8-2 - data conflict",
+  "picks": [],
+  "avoid": "Cedi Osman ML (p 0.69)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aa.com.tr/tr/spor/basketbol-haftanin-programi/4139923",
+   "https://www.eurobasket.com/Turkey/news/1042668/Nusret-Yildirim-agreed-terms-with-Cedi-Osman"
+  ]
+ },
+ {
+  "eid": "sr:match:74581798",
+  "fx": "Bodrum Basketbol v Gallardo",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TKBL women's 2nd tier. women's fixture: no picks per rules",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73529538",
+  "fx": "Gaziantep Basketbol v Fenerbahce Gelisim",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TBL rd 13, Kamil Ocak 16:30 TR (=13:30 UTC). Gaziantep 5-0 at home, 8-2 L10; Fenerbah\u00e7e Geli\u015fim is Fenerbah\u00e7e's development/young side (3-7)",
+  "news": "time consistent (16:30); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "-14.5 handicap coin-flip; reserve/development side - no result picks",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aa.com.tr/tr/spor/basketbol-haftanin-programi/4139923"
+  ]
+ },
+ {
+  "eid": "sr:match:74323162",
+  "fx": "ITU Spor Kulubu v Titan Akademi",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TB2L; Titan Akademi = academy side",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ITU ML 1.31 (p 0.72<0.75); academy side",
+  "confidence": 0.15,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76103486",
+  "fx": "Dubai Capitals v Gulf Giants",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "ILT20 2026 match 10 in Dubai (DICS). Gulf Giants top (2-0, NRR +1.41)",
+  "news": "Sources list the fixture as 'Gulf Giants vs Dubai Capitals' (home/away order reversed vs board)",
+  "veto": true,
+  "veto_reason": "home/away designation conflict between board and schedule sources",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cricketnews.com/en/cricket/news/ilt20-2026-schedule-score-format-points-table-live-streaming/2321c7b68598f21306fd3a69",
+   "https://www.cricinfo.com/series/international-league-t20-2026-27-1557442"
+  ]
+ },
+ {
+  "eid": "sr:match:73529534",
+  "fx": "Buyukcekmece Basketbol v Final Spor",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TBL rd 13, 18:00 TR (=15:00 UTC) confirmed",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.haberler.com/spor/kadinlar-basketbol-super-ligi-9-hafta-turkiye-20467159-haberi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73529544",
+  "fx": "MKE Ankaragucu Basketbol v TED Ankara Kolejliler",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TBL rd 13 Ankara derby, 18:00 TR confirmed; both struggling (3-7, 2-8)",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby - no result side",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.haberler.com/spor/kadinlar-basketbol-super-ligi-9-hafta-turkiye-20467159-haberi/"
+  ]
+ },
+ {
+  "eid": "sr:match:73466382",
+  "fx": "Istanbul Genclik Spor v Turgutlu Bld",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's Super Lig rd 9 at Ba\u015fak\u015fehir 18:00 TR (=15:00 UTC) confirmed. women's fixture: no picks per rules",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sondakika.com/spor/haber-kadinlar-basketbol-ligi-nde-9-turkiye-basketbol-li-20467174/"
+  ]
+ },
+ {
+  "eid": "sr:match:74323142",
+  "fx": "Corum Belediyesi v Kerasus Spor",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TB2L",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip",
+  "confidence": 0.15,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74323156",
+  "fx": "Akhisar Belediye v Kocaeli Bsb",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TB2L Group B (both in Ka\u011f\u0131tspor's group). Kocaeli B\u015eB Ka\u011f\u0131tspor 8-2 L10, 4-1 away scoring 94.6; Akhisar 4-6, 66.4 ppg at home",
+  "news": "fixture listed on Basketfaul (18:30 TR = 15:30 UTC matches board); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.757707,
+    "why": "House p 0.76; scoring gap ~16 ppg (Kocaeli 85 v Akhisar 69) and Kocaeli 4-1 away; no named absence - statistics-only. Own est 0.77"
+   }
+  ],
+  "avoid": "-8.5 handicap coin flip",
+  "confidence": 0.25,
+  "sources": [
+   "https://basketfaul.com.tr/turkiye-basketbol-2-ligi-tb2l/",
+   "https://www.bizimyaka.com/haber/28636767/kagitspor-basketbol-zorlu-gruba-dustu"
+  ]
+ },
+ {
+  "eid": "sr:match:73841720",
+  "fx": "Helios Vs Basket v Baden Basket 54",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Swiss SB League women. women's fixture: no picks per rules",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73466376",
+  "fx": "Galatasaray v Fenerbahce SK",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "Women's Super Lig rd 9 derby, Sinan Erdem 19:00 TR (=16:00 UTC) confirmed. Galatasaray unbeaten in league; Fenerbah\u00e7e 6-1 (sources differ). women's fixture: no picks per rules",
+  "news": "Galatasaray top scorers Awak Kuier 13.2, Dorka Juhasz 12.9",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's derby)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.galatasaray.org/haber/basketbol/kadin-basketbol/maca-dogru-galatasaray-cagdas-faktoring-fenerbahce-tarfin/61484"
+  ]
+ },
+ {
+  "eid": "sr:match:74323146",
+  "fx": "Gungoren Doruk SK v Abb Egospor",
+  "sport": "basketball",
+  "absences": "none found",
+  "context": "TB2L; both 2-8 L10",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:75326666",
+  "fx": "Brisbane Heat v Perth Scorchers",
+  "sport": "cricket",
+  "absences": "none found",
+  "context": "WBBL|12: Scorchers 7-2 have locked top-two, can take top spot with a big win over Heat (4-5) on Sunday. women's fixture: no picks per rules",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cricket.com.au/news/4615405/match-report-perth-scorchers-hobart-hurricanes-wbbl-highlights-stats-latest-news"
+  ]
+ }
+]
