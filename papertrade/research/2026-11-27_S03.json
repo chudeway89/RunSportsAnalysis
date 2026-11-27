@@ -1,0 +1,609 @@
+[
+ {
+  "eid": "sr:match:77244690",
+  "fx": "Orly-Pro v Vityaz",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Russia Liga Pro: a daily betting-format league of '-Pro' farm/reserve-type squads, covered only by score aggregators and betting sites; no official news, rosters or team context.",
+  "news": "no news found (aggregator results only)",
+  "veto": true,
+  "veto_reason": "Excluded class: reserve/betting-format Liga Pro squads, no verifiable team info",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://betsapi.com/l/10421/Russia-Liga-Pro",
+   "https://bsportsfan.com/volleyball/l/10421/russia-liga-pro"
+  ]
+ },
+ {
+  "eid": "sr:match:77244692",
+  "fx": "Plamya Pro v Molot",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Russia Liga Pro: a daily betting-format league of '-Pro' farm/reserve-type squads, covered only by score aggregators and betting sites; no official news, rosters or team context.",
+  "news": "no news found (aggregator results only)",
+  "veto": true,
+  "veto_reason": "Excluded class: reserve/betting-format Liga Pro squads, no verifiable team info",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://betsapi.com/l/10421/Russia-Liga-Pro",
+   "https://bsportsfan.com/volleyball/l/10421/russia-liga-pro"
+  ]
+ },
+ {
+  "eid": "sr:match:73499136",
+  "fx": "Kuzbass Kemerovo v Gorkii Nizhny Novgorod",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Superliga R10 in Kemerovo, confirmed Nov 28 by club site. Kuzbass 5-4 (17 pts) after 9; lost at Zenit Kazan Nov 23 (long return trip but 5 days rest). Gorky 0-5 away in last 10 (SR).",
+  "news": "Kuzbass hosts Gorky in R10 after a Nov 23 loss at Zenit Kazan; Gorky winless on the road.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.726202,
+    "why": "Gorky 0-5 away (avg 0.8 sets won away), Kuzbass 4-3 at home; own p 0.76 vs house 0.73"
+   }
+  ],
+  "avoid": "Total points lines; Gorky-to-win-a-set (851/193 pair looks inconsistent on board)",
+  "confidence": 0.3,
+  "sources": [
+   "https://kuzbass-volley.ru/",
+   "https://volleybox.net/kuzbass-kemerovo-t1594",
+   "https://scores24.live/en/volleyball/m-28-11-2026-kuzbass-kemerovo-gorkii-nizhny-novgorod-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:73662652",
+  "fx": "Lokomotiv Kaliningrad Region v Yenisey Krasnoyarsk",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Superliga R10. No team news found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per pack rules no picks (no clear mismatch with in-range goals-type market).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.championat.com/volleyball/_wsuperliga.html",
+   "https://tvmag.ru/article/sport/2026-11-27-volleyball-superliga-zhenskaya-10-tur-na-myach-tv-sport-voleybol/"
+  ]
+ },
+ {
+  "eid": "sr:match:73662644",
+  "fx": "Omichka VK 2016 v Dinamo Moscow",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Superliga R10, Omichka v Dinamo Moscow 13:00 MSK = 10:00 UTC (championat). sports.ru lists round as Nov 27-28; date 28 confirmed by two sources. Omichka 1-9; heavy mismatch but no in-range market.",
+  "news": "Fixture confirmed for Nov 28 13:00 MSK; minor sports.ru heading lists Nov 27.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per pack rules no picks (no clear mismatch with in-range goals-type market).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.championat.com/volleyball/_wsuperliga.html",
+   "https://tvmag.ru/article/sport/2026-11-27-volleyball-superliga-zhenskaya-10-tur-na-myach-tv-sport-voleybol/",
+   "https://www.sports.ru/volleyball/1117449859-chempionat-rossii-po-volejbolu-10-j-tur-ural-sygraet-s-dinamo-lo-kazan.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75743080",
+  "fx": "Corum Sungurlu Bld v Sultanbeyli Bld",
+  "sport": "volleyball",
+  "absences": "one match in the round postponed due to illness (team unspecified); none named",
+  "context": "Efeler Ligi bottom clash: Sungurlu 0 wins from 8, Sultanbeyli 1 from 7 (and docked 3 pts) per 365Scores snapshot. House makes Sungurlu 1.36 fav despite equal-or-worse record.",
+  "news": "Two bottom-table sides, both nearly winless; no named absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "314",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.46,
+    "p": 0.64842,
+    "why": "Two near-winless, evenly poor sides (house fav price not supported by records) -> a 3-0 is less likely than priced; own p 0.68 vs 0.65"
+   }
+  ],
+  "avoid": "Home winner / -1.5 sets (Sungurlu 1-9 last 10, 0 wins this season)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/tr/volleyball/league/efeler-ligi-5766/standings",
+   "https://www.yenialanya.com/voleybolda-fikstur-aciklandi-alanya-temsilcisi-gebze-deplasmaninda"
+  ]
+ },
+ {
+  "eid": "sr:match:75743078",
+  "fx": "Gebze Genclik v Alanya Belediye",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Efeler Ligi week 8: Alanya at Gebze, Nov 28 14:00 TRT (=11:00 UTC, matches board), TVF schedule.",
+  "news": "Fixture/time confirmed by TVF schedule via Yeni Alanya; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "314",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.38,
+    "p": 0.6892536962,
+    "why": "Mid-table, near-even sides (Gebze 6-4, Alanya 5-5 last 10); own p 0.70 vs 0.69"
+   }
+  ],
+  "avoid": "Result sides",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.yenialanya.com/voleybolda-fikstur-aciklandi-alanya-temsilcisi-gebze-deplasmaninda",
+   "https://www.365scores.com/tr/volleyball/league/efeler-ligi-5766/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:74781242",
+  "fx": "Kfuk-Kfum Goteborg v Hylte/Halmstad Volley",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Elitserien R6 at Valhalla Sporthall, Goteborg, 13:00 CET (=12:00 UTC). Hylte/Halmstad just won the Ligacupen double and are title favourites.",
+  "news": "Hylte/Halmstad (Ligacupen winners, title favourites) visit Goteborg.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per pack rules no picks (no clear mismatch with in-range goals-type market). Hylte 1.01 out of range.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.profixio.com/app/lx/competition/leagueid27935?t=schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:73662646",
+  "fx": "VK Uralochka v Dinamo Metar Chelyabinsk",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Superliga R10, Uralochka-NTMK v Dinamo-Metar 15:30 MSK (=12:30 UTC, matches). Metar 1-9, 0-5 away.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per pack rules no picks (no clear mismatch with in-range goals-type market).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.championat.com/volleyball/_wsuperliga.html",
+   "https://tvmag.ru/article/sport/2026-11-27-volleyball-superliga-zhenskaya-10-tur-na-myach-tv-sport-voleybol/"
+  ]
+ },
+ {
+  "eid": "sr:match:74602888",
+  "fx": "CS Stiinta Explorari Baia Mare v Rapid Bucharesti",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Divizia A1 men R7: Explorari Baia Mare v Rapid Saturday 28 Nov 15:00 local (=13:00 UTC, matches). Rapid 1.11 fav.",
+  "news": "Fixture confirmed by eMaramures/FRV.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rapid winner below range; double result 1.30 is a result-side with no mechanism found",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.emaramures.ro/volei-divizia-a1-stiinta-explorari-joaca-acasa-cu-rapid-bucuresti/"
+  ]
+ },
+ {
+  "eid": "sr:match:74602890",
+  "fx": "CS Universitatea Cluj v Css Cne Lapi Dej Scm Zalau",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Divizia A1 men: U Cluj (1-9 last 10) v Zalau. FRV listing shows U Cluj v CSM Constanta at 15:00 with no clear date; could not confirm this pairing on Nov 28.",
+  "news": "Possible schedule mismatch: an FRV page lists U Cluj v CSM Constanta, date unclear; not confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: Zalau 1.04 out of range; pairing not independently confirmed (data_conflict soft)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sport.ro/volei/azi-incepe-divizia-a1-la-volei-masculin-cu-cine-joaca-dinamo-campioana-ultimelor-doua-sezoane.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74603792",
+  "fx": "CS Dinamo Bucuresti v CS Rapid Bucuresti",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Divizia A1 R9 Bucharest derby Dinamo v Rapid, 15:00 local (=13:00 UTC). Dinamo 10-0 last 10.",
+  "news": "Derby confirmed for Sat 28 Nov 15:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per pack rules no picks (no clear mismatch with in-range goals-type market). Derby; Dinamo 1.02 out of range.",
+  "confidence": 0.1,
+  "sources": [
+   "https://frvolei.ro/voluntari-volei-alba-blaj-capul-de-afis-al-etapei-9/",
+   "https://ziarulunirea.ro/cso-voluntari-volei-alba-blaj-derby-ul-rivalelor-din-divizia-a1-sambata-28-noiembrie-ora-17-00-ardelencele-vor-revansa-dupa-supercupa-romaniei-1021229/"
+  ]
+ },
+ {
+  "eid": "sr:match:74780896",
+  "fx": "Vingaaker VK v Orkelljunga VK",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Elitserien men. Orkelljunga were 2025/26 bronze medallists; no current news found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (Vingaaker home favourite v last season bronze medallist)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.profixio.com/app/lx/competition/leagueid17729",
+   "https://sv.wikipedia.org/wiki/Elitserien_i_volleyboll_f%C3%B6r_herrar_2025/2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73499138",
+  "fx": "Nova Novokuybyishevsk v Neftyanik Orenburg",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Superliga R10: Nova 8th v Neftyanik 15th after 9 rounds; Nova won last H2H 3-1 away (Jan 2026). Kick-off 13:30 confirmed (BetsAPI 05:30 is a different time zone).",
+  "news": "8th v 15th; Nova won the last meeting 3-1 away.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.814129,
+    "why": "Table gap 8th v 15th, Neftyanik 3-7 last 10, Nova won last H2H away; own p 0.83 vs 0.81"
+   }
+  ],
+  "avoid": "Point handicaps / sets -2.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://scores24.live/en/volleyball/m-28-11-2026-nova-novokuybyishevsk-neftyanik-orenburg-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:74781244",
+  "fx": "Sollentuna VK v Orebro Volley",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Elitserien R6 at Arena Satelliten, 14:30 CET (=13:30 UTC, matches). Sollentuna tipped to step up this season.",
+  "news": "Fixture confirmed on Profixio.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per pack rules no picks (no clear mismatch with in-range goals-type market).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.profixio.com/app/lx/competition/leagueid27935?t=schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:73662650",
+  "fx": "VK Dinamo Kazan v Proton Saratov",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Superliga R10. Dinamo Kazan are reigning champions, 10-0 last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per pack rules no picks (no clear mismatch with in-range goals-type market). Kazan 1.05 out of range.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.championat.com/volleyball/_wsuperliga.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75258134",
+  "fx": "Radnicki Beograd v ZOK Crvena Zvezda Beograd",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Superliga R8 Belgrade derby. Red Star club site says RED STAR host Radnicki at 'David Kalinic' hall, Sat 28 Nov 15:00 (=14:00 UTC); the board lists Radnicki Beograd as HOME.",
+  "news": "Home/venue conflict: Red Star site lists Red Star as host; board has Radnicki home.",
+  "veto": true,
+  "veto_reason": "Venue/home-side conflict between board and club site; derby; women's",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://okcrvenazvezda.com/en/girls-play-against-radnicki/"
+  ]
+ },
+ {
+  "eid": "sr:match:74780898",
+  "fx": "Floby Vk v Habo Wolley",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Elitserien men top clash: Floby (2025/26 silver) v Habo (2nd in the regular season; lost semi 1-3 to Floby). Floby 7-3, Habo 6-4 last 10.",
+  "news": "Top-3 rivals from last season meet; no absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "314",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.37,
+    "p": 0.68982,
+    "why": "Two top-3 sides, near-even price; last H2H went 3-1; own p 0.71 vs 0.69"
+   }
+  ],
+  "avoid": "Result sides (big-club-style clash)",
+  "confidence": 0.25,
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Elitserien_i_volleyboll_f%C3%B6r_herrar_2025/2026",
+   "https://www.profixio.com/app/lx/competition/leagueid17729"
+  ]
+ },
+ {
+  "eid": "sr:match:74602898",
+  "fx": "CS Arcada Galati v Stiinta Bucuresti",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Divizia A1 men: Arcada Galati (won R2 3-0 v U Cluj) host Stiinta Bucuresti.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Arcada 1.05 out of range; double result 1.20 is a short result-side with no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://frvolei.ro/unirea-dej-surpriza-etapa-2-divizia-a1-volei-masculin/"
+  ]
+ },
+ {
+  "eid": "sr:match:74602892",
+  "fx": "CSM Corona Brasov v SCMU Craiova",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Divizia A1 men: Corona Brasov (lost R2 2-3 at Unirea Dej from 2-0 up) v SCMU Craiova (8-2 last 10). The last two H2H both ended 2-3.",
+  "news": "Close pairing; both recent H2Hs went to five sets.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "188",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.49,
+    "p": 0.63648,
+    "why": "Home side with both H2Hs going 2-3 (each would win this), coin-flip price; own p 0.67 vs 0.64"
+   },
+   {
+    "mid": "314",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.43,
+    "p": 0.65822,
+    "why": "Both H2Hs went five sets, Corona already went five in R2; own p 0.69 vs 0.66 (correlated with +1.5 leg, use only one per slip)"
+   }
+  ],
+  "avoid": "Result sides",
+  "confidence": 0.25,
+  "sources": [
+   "https://frvolei.ro/unirea-dej-surpriza-etapa-2-divizia-a1-volei-masculin/",
+   "https://www.sport.ro/volei/azi-incepe-divizia-a1-la-volei-masculin-cu-cine-joaca-dinamo-campioana-ultimelor-doua-sezoane.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74603790",
+  "fx": "Cso Voluntari 2005 v Csm Volei Alba Blaj",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Divizia A1 R9 top match: champion/leader CSO Voluntari v runner-up Volei Alba Blaj, 17:00 local (=15:00 UTC, matches). Blaj seeking revenge for the Supercup loss.",
+  "news": "Top-of-table clash confirmed for Sat 28 Nov 17:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per pack rules no picks (no clear mismatch with in-range goals-type market). Top-of-table clash.",
+  "confidence": 0.1,
+  "sources": [
+   "https://ziarulunirea.ro/cso-voluntari-volei-alba-blaj-derby-ul-rivalelor-din-divizia-a1-sambata-28-noiembrie-ora-17-00-ardelencele-vor-revansa-dupa-supercupa-romaniei-1021229/",
+   "https://frvolei.ro/voluntari-volei-alba-blaj-capul-de-afis-al-etapei-9/"
+  ]
+ },
+ {
+  "eid": "sr:match:74780900",
+  "fx": "Hasthagen IF v RIG Falkoping",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Elitserien men bottom clash: Hasthagen (11th of 2025/26, 3 pts) v RIG Falkoping; both 1-9 last 10; last H2H 2-3.",
+  "news": "Two bottom sides; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "314",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.32,
+    "p": 0.7194303033,
+    "why": "Evenly poor sides at 1.87/1.87, last H2H 2-3; own p 0.72 vs 0.72 (fill, not an anchor)"
+   }
+  ],
+  "avoid": "Result sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://sv.wikipedia.org/wiki/Elitserien_i_volleyboll_f%C3%B6r_herrar_2025/2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74602896",
+  "fx": "CS Unirea Dej v CS Dinamo Bucuresti",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Divizia A1 men: double champion Dinamo (10-0 last 10) travel to Unirea Dej (5-0 at home, beat Corona 3-2 in R2). sport.ro: Dinamo set a record with 4 matches in 7 days (fixture congestion).",
+  "news": "Dinamo at Dej on Sat 28 Nov after a 4-games-in-7-days stretch; Dej unbeaten at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "314",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.6,
+    "p": 0.58554,
+    "why": "Congestion for Dinamo (4 games in 7 days) and Dej 5-0 at home -> a set dropped is likelier than priced; own p 0.62 vs 0.59"
+   }
+  ],
+  "avoid": "Dinamo winner / -1.5 sets (rotation risk from congestion)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sport.ro/volei/dinamo-mai-bifeaza-un-record-4-meciuri-in-7-zile.html",
+   "https://frvolei.ro/unirea-dej-surpriza-etapa-2-divizia-a1-volei-masculin/"
+  ]
+ },
+ {
+  "eid": "sr:match:73662648",
+  "fx": "L. St Petersburg v Zarechie-Odintsovo",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Women's Superliga R10, Leningradka v Zarechie-Odintsovo 19:00 MSK (=16:00 UTC) in St Petersburg. Zarechie were 2025/26 runners-up.",
+  "news": "Fixture confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per pack rules no picks (no clear mismatch with in-range goals-type market).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.championat.com/volleyball/_wsuperliga.html",
+   "https://tvmag.ru/article/sport/2026-11-27-volleyball-superliga-zhenskaya-10-tur-na-myach-tv-sport-voleybol/"
+  ]
+ },
+ {
+  "eid": "sr:match:75721026",
+  "fx": "OK Nis v Ok Vojvodina Novi Sad",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Serbian Superliga R6 Sat 17:00 local (=16:00 UTC). Before the round Nis are 0 wins (lost 0-3 to Partizan in R5); Vojvodina 4 wins, beat Ribnica easily in R5.",
+  "news": "Nis winless; Vojvodina 4 wins.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away result sides below p 0.75; point catches for a winless receiver",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.novosti.rs/sport/ostali-sportovi/1674920/zvezda-gost-radnika-jednom-derbija-sestog-kola-superlige-odbojkasa-crveno-beli-izlaze-megdan-pozarevljanima",
+   "https://sportklub.rs/ostali-sportovi/odbojka/vojvodina-lako-sa-ribnicom-partizan-preslisao-nislije/"
+  ]
+ },
+ {
+  "eid": "sr:match:74780902",
+  "fx": "Sollentuna VK v Sodertelge VBK",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Elitserien men: Sollentuna (6-4 last 10) v Sodertelge (4-6, 0-3 in two of the last three). Different squad from the Sollentuna women playing at 13:30.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.777276,
+    "why": "Form gap and home side; no news either way; own p 0.78 vs 0.78 (fill)"
+   }
+  ],
+  "avoid": "Point handicaps",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.profixio.com/app/lx/competition/leagueid17729"
+  ]
+ },
+ {
+  "eid": "sr:match:73240790",
+  "fx": "SVK Pezinok v Volley Project UKF Nitra",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Slovak women's Extraliga: Pezinok second-to-last (lost 0-3 at Zilina in R9) v Nitra.",
+  "news": "Pezinok second-to-last.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per pack rules no picks (no clear mismatch with in-range goals-type market). Nitra 1.02 out of range.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportnet.sme.sk/spravy/volejbal-zeny-vysledky-sobota-9-kolo-extraliga-2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:75721022",
+  "fx": "Jedinstvo Stara Pazova v OK Karadjordje Topola",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Serbian Superliga R6 Sat 19:00 local (=18:00 UTC). Both sides have 1 win before the round (Novosti table), yet the house makes Karadjordje a 1.36 away favourite.",
+  "news": "Two 1-win sides meet.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "314",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.42,
+    "p": 0.66592,
+    "why": "Identical 1-win records -> evenly matched, a 3-0 is less likely than priced; own p 0.70 vs 0.67"
+   }
+  ],
+  "avoid": "Karadjordje winner (away, p 0.70 < 0.75)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.novosti.rs/sport/ostali-sportovi/1674920/zvezda-gost-radnika-jednom-derbija-sestog-kola-superlige-odbojkasa-crveno-beli-izlaze-megdan-pozarevljanima"
+  ]
+ },
+ {
+  "eid": "sr:match:75721028",
+  "fx": "Vgsk v OK Partizan Beograd",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Serbian Superliga R6 Sat 19:00 local (=18:00 UTC). Partizan 5-0 with all 15 points and only 2 sets lost all season; VGSK 2 wins.",
+  "news": "Partizan perfect (15 pts, 2 sets lost in 5).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "188",
+    "spec": "hcp=1.5",
+    "desc": "Away (-1.5)",
+    "odds": 1.68,
+    "p": 0.56094,
+    "why": "Partizan won all 5 with 3-0/3-1 (2 sets lost total), VGSK 2 wins; own p 0.63 vs 0.56. Away result-type leg: value/singles only, not a core anchor"
+   }
+  ],
+  "avoid": "Partizan ML 1.32 (away p 0.72 < 0.75)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.novosti.rs/sport/ostali-sportovi/1674920/zvezda-gost-radnika-jednom-derbija-sestog-kola-superlige-odbojkasa-crveno-beli-izlaze-megdan-pozarevljanima",
+   "https://sportklub.rs/ostali-sportovi/odbojka/vojvodina-lako-sa-ribnicom-partizan-preslisao-nislije/"
+  ]
+ },
+ {
+  "eid": "sr:match:73240792",
+  "fx": "VK Slovan Bratislava v Va Uniza Zilina",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Slovak women's Extraliga top clash on JOJ Sport 2: champion Slovan (one loss) v leader Zilina (8 straight league wins).",
+  "news": "Top-of-table clash; Zilina on an 8-match winning run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: per pack rules no picks (no clear mismatch with in-range goals-type market). Big clash, so no result side.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportnet.sme.sk/spravy/volejbal-zeny-vysledky-sobota-9-kolo-extraliga-2026-2027/",
+   "https://slovakvolley.sk/"
+  ]
+ }
+]
