@@ -1,0 +1,625 @@
+[
+ {
+  "eid": "sr:match:72909666",
+  "fx": "Anaheim Ducks v Los Angeles Kings",
+  "sport": "ice hockey",
+  "absences": "ANA: Leo Carlsson day-to-day (upper body, missed Thu practice), A.J. Greer IR, Ryan Poehling IR; Beckett Sennecke likely back from IR. LAK: Erik Gustafsson (hand), Jakub Dvorak out. Goalies: Brossoit (ANA) confirmed, Kuemper likely for LAK.",
+  "context": "Freeway Faceoff derby, game 1 of a home-and-home (return leg Nov 28 in LA). ANA 12-13-1 off 7-0 win v SJ; LAK 8-12-2. Panarin leads LAK (20 pts).",
+  "news": "Carlsson doubtful for ANA; Brossoit starts; derby home-and-home; some sources date the LA return leg Nov 28 (not a conflict for this game).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.3,
+    "p": 0.743938,
+    "why": "ANA home games run high (7-0, 6-1, 6-8 in recent games; 4.4 gf at home); Brossoit, not Dostal, in ANA net; trend 0.80. My p 0.75."
+   }
+  ],
+  "avoid": "No result-side (derby). Kings team totals: LAK scoring only 2.6/gm.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nhl.com/news/los-angeles-kings-anaheim-ducks-game-preview-november-27-2026",
+   "https://sports.yahoo.com/nhl/articles/game-27-ducks-vs-kings-023426233.html",
+   "https://www.bleachernation.com/picks/2026/11/26/kings-vs-ducks-how-to-watch-odds-picks-predictions/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909664",
+  "fx": "Minnesota Wild v Colorado Avalanche",
+  "sport": "ice hockey",
+  "absences": "COL: Nathan MacKinnon OUT long-term (lower body, ~Feb return), Josh Manson (ankle), Gavin Brindley (concussion), Zachary L'Heureux out. MIN: Quinn Hughes doubtful (upper body), Olli Maatta out.",
+  "context": "Black Friday afternoon divisional game. Blackwood expected in COL net; Gustavsson likely for MIN.",
+  "news": "MacKinnon out for months; Hughes doubtful; house already has MIN as slight fav (0.52).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Both top players out cuts scoring on both sides: avoid Overs; result-side near coin-flip, not extreme band; Avs team Under 4.5 p 0.815 < 0.82.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hockey.com/news/avalanche-at-wild-mackinnon-out-hughes-doubtful-for-friday-ugkjle",
+   "https://insidetherink.com/nhl-game-preview-colorado-avalanche-at-minnesota-wild-with-line-combinations-11-27-2026/",
+   "https://milehighsports.com/colorado-avalanche-at-minnesota-wild-game-preview-and-best-bets/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909668",
+  "fx": "San Jose Sharks v Vegas Golden Knights",
+  "sport": "ice hockey",
+  "absences": "SJ: Jacob Trouba out (lower body, back ~Dec 1), Kiefer Sherwood, Igor Chernyshov, Quentin Musty, G Kyle Keyser on IR. VGK: Noah Hanifin out; Marc Gatcomb day-to-day (expected back).",
+  "context": "VGK 15-6-5, 5-0 in last five road games (3.8 gf). SJ 11-14-2, just lost 0-7 at Anaheim, conceding 4.0/gm over last 10. 4pm ET at SAP Center.",
+  "news": "Sharks missing top-pair D Trouba plus three forwards; Vegas in strong road form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.27,
+    "p": 0.7648396645,
+    "why": "SJ concede 4.0/gm with Trouba and three forwards out; VGK road scoring 3.8; trend 0.95. My p 0.78."
+   },
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.715461,
+    "why": "Vegas team total: SJ depleted defence (Trouba out) just shipped 7 at ANA; VGK scored 3+ in 4 of last 6. My p 0.73."
+   }
+  ],
+  "avoid": "VGK ML away p 0.656 < 0.75 (away rule). No SJ +1.5/+2.5 catch.",
+  "confidence": 0.3,
+  "sources": [
+   "https://insidetherink.com/nhl-game-preview-vegas-golden-knights-at-san-jose-sharks-with-line-combinations-11-27-2026/",
+   "https://www.nhl.com/sharks/news/vegas-golden-knights-san-jose-sharks-game-preview-november-27-2026",
+   "https://www.tonyspicks.com/2026/11/25/golden-knights-vs-sharks-prediction-picks-11-27-26/"
+  ]
+ },
+ {
+  "eid": "sr:match:72734808",
+  "fx": "Charlotte Checkers v Hershey Bears",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "AHL. Hershey 12-7, Charlotte 11-9-1 (Elite Prospects). 4pm ET at Bojangles Coliseum, consistent across sources.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip prices, no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eliteprospects.com/league/ahl",
+   "https://www.betexplorer.com/hockey/usa/ahl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72733796",
+  "fx": "Henderson Silver Knights v Abbotsford Canucks",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "AHL. Second straight meeting: Henderson beat Abbotsford 4-1 on Nov 25 (home). Henderson 5-1 at home recently, GA 1.5 at home; Abbotsford 0-4 on road, 1.25 gf away, 2-8 last 10.",
+  "news": "Henderson won the first game of the mini-series 4-1 two days ago; second meeting listed for Nov 27 (only one source confirms it).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.61,
+    "p": 0.588105,
+    "why": "Fixture-specific: HSK beat ABB 4-1 on Nov 25; ABB 0-4 away (1.25 gf), 2-8 last 10; HSK 5-1 home. My p 0.64."
+   }
+  ],
+  "avoid": "ABB team Under 3.5 p 0.768 < 0.82.",
+  "confidence": 0.25,
+  "sources": [
+   "https://insidetherink.com/photos-abbotsford-canucks-vs-henderson-silver-knights-11-25-2026/",
+   "https://www.betexplorer.com/hockey/usa/ahl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72909670",
+  "fx": "Chicago Blackhawks v New York Rangers",
+  "sport": "ice hockey",
+  "absences": "CHI: Connor Bedard OUT ~4 months (right shoulder), Bowen Byram (UB), Ryan Ellis (season); Patrick Kane questionable (leg); Bertuzzi DTD (illness). NYR: Igor Shesterkin out (lower body/knee, possibly season), Dorofeyev (may return), Bjorkstrand, Veleno, Smits, Perreault, Sykora out.",
+  "context": "CHI 9-14-2 at United Center. NYR priced around -176 and have the league's top PK; huge NYR injury list.",
+  "news": "Both teams heavily depleted: Bedard and Shesterkin out.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "NYR ML away p 0.617 < 0.75; CHI +1.5/+2.5 banned (fav p 0.617); Bedard and Shesterkin absences pull totals in opposite directions, so no totals edge.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.secondcityhockey.com/chicago-blackhawks-new-york-rangers-nhl-regular-season-november-27-2026-preview-lineups-how-to-watch/",
+   "https://insidetherink.com/nhl-game-preview-new-york-rangers-at-chicago-blackhawks-with-line-combinations-11-27-2026/",
+   "https://www.si.com/nhl/rangers/onsi/gameday/banged-up-ny-rangers-change-lineup-ahead-of-play-at-chicago",
+   "https://africa.espn.com/nhl/preview/_/gameId/401892806"
+  ]
+ },
+ {
+  "eid": "sr:match:72181066",
+  "fx": "London Knights v Niagara Icedogs",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "OHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. Confirmed 7:00pm ET at Canada Life Place, London (London Tourism, Elite Prospects, Sofascore agree). London 4-6 last 10 despite 0.81 price; Niagara 3-7, GA 4.9.",
+  "news": "Date/venue confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth; London price (0.81) out of line with 4-6 form.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.londontourism.ca/events/london-knights-vs-niagara-icedogs-nov-27",
+   "https://www.eliteprospects.com/team/206/london-knights/schedule",
+   "https://www.sofascore.com/ice-hockey/match/niagara-icedogs-london-knights/PQXsUQX"
+  ]
+ },
+ {
+  "eid": "sr:match:72181070",
+  "fx": "Kingston Frontenacs v Peterborough Petes",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "OHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. Peterborough 8-2 last 10 (5.0 gf), won last H2H 7-2. Note Peterborough also listed v Guelph on Nov 26 (back-to-back).",
+  "news": "no news found (fixture not confirmed by a second source)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth.",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/ohl-storm/article/game-day-november-26-gue-pbo"
+  ]
+ },
+ {
+  "eid": "sr:match:72181072",
+  "fx": "Sarnia Sting v Flint Firebirds",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "OHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. Flint 3rd West (29 pts/22 gp), Sarnia 4th West (22 pts/25 gp).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth; Flint ML is a result-side.",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/ohl/scores",
+   "https://chl.ca/ohl-storm/standings/",
+   "https://www.eliteprospects.com/league/ohl/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72181068",
+  "fx": "Sudbury Wolves v Barrie Colts",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "OHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. Barrie 2-8 last 10. OHL scores page lists the game as \"Barrie vs. Sudbury\" on Nov 27 (probably away-first order; the page is stale).",
+  "news": "Listed on the OHL scores page for Nov 27; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth; home/away orientation only weakly confirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/ohl/scores",
+   "https://chl.ca/ohl-storm/standings/",
+   "https://www.eliteprospects.com/league/ohl/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72181074",
+  "fx": "Guelph Storm v Erie Otters",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "OHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. Guelph lead the OHL (~38 pts, 19-4); Owen Griffin 34 pts in 21 gp. Guelph also played Peterborough Nov 26 (back-to-back). 7:07pm Books for Kids Night, confirmed by the Storm site.",
+  "news": "Date/time confirmed by the Storm game-day page; Guelph on a back-to-back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth; not a mismatch (Erie also winning).",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/ohl-storm/article/game-day-november-27-er-gue",
+   "https://chl.ca/ohl-storm/article/game-day-november-26-gue-pbo",
+   "https://chl.ca/ohl/scores"
+  ]
+ },
+ {
+  "eid": "sr:match:72181076",
+  "fx": "Marie Greyhounds v Oshawa Generals",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "OHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. Soo 2nd West (30 pts/26 gp); Oshawa 5th East (21 pts/24 gp). 7:07pm on the OHL scores page.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth.",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/ohl/scores",
+   "https://chl.ca/ohl-storm/standings/",
+   "https://www.eliteprospects.com/league/ohl/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72909642",
+  "fx": "New York Islanders v Winnipeg Jets",
+  "sport": "ice hockey",
+  "absences": "NYI: Ryan Pulock out (shoulder), Alexander Romanov IR (knee), Kyle Palmieri out 6-8 months; Mathew Barzal back after missing the first 18 games. WPG: Dylan DeMelo, Vladislav Namestnikov, Isak Rosen, Nick Bjugstad out.",
+  "context": "WPG on an 8-1-1 run, 3-0 recently on the road with 5.67 gf. 7:30pm ET at UBS Arena.",
+  "news": "Islanders lose two top-four D (Pulock, Romanov) and Palmieri; Jets hot.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.3,
+    "p": 0.743339,
+    "why": "NYI without Pulock and Romanov on D; WPG averaging 4.4 gf over last 10 (5.67 away); trend 0.95. My p 0.77."
+   },
+   {
+    "mid": "410",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.43,
+    "p": 0.676406,
+    "why": "Jets +1.5 (incl. OT): fav NYI p 0.526 < 0.55 so catch allowed; WPG 8-1-1, NYI missing two top-four D; trend 0.85. My p 0.71."
+   }
+  ],
+  "avoid": "Jets ML (away p 0.474). Islanders team Under.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nhl.com/islanders/news/winnipeg-jets-new-york-islanders-game-preview-november-27-2026",
+   "https://insidetherink.com/nhl-game-preview-winnipeg-jets-vs-new-york-islanders-with-line-combinations-11-27-2026/",
+   "https://www.thespread.com/nhl-articles/jets-vs-islanders-prediction-november-27-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72712606",
+  "fx": "Lethbridge Hurricanes v Saskatoon Blades",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "WHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. 7:00pm MT at VisitLethbridge.com Arena; first Saskatoon visit of the season (Blades game-23 preview). Elite Prospects also lists a Medicine Hat v Saskatoon game that night, which is likely a listing error; the Blades' own preview confirms Lethbridge.",
+  "news": "Confirmed by the Blades' preview; one schedule shows an odd Med Hat v Saskatoon listing.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth.",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-blades/article/game-23-preview-saskatoon-blades-at-lethbridge-hurricanes-nov-27-2026",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_WHL_season",
+   "https://www.eliteprospects.com/league/whl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72712608",
+  "fx": "Medicine Hat Tigers v Calgary Hitmen",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "WHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. 4th of 8 meetings; Medicine Hat 1-2-0-0 v Calgary this season. Both are top-four East.",
+  "news": "Tigers' game-24 preview confirms the home game v Calgary.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth; Calgary has the better of the H2H despite the 0.73 home price.",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-tigers/article/game-preview-game-24-vs-hitmen",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_WHL_season",
+   "https://www.eliteprospects.com/league/whl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72712604",
+  "fx": "Prince Albert Raiders v Swift Current Broncos",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "WHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. At the Art Hauser Centre (Raiders' game-24 preview). PA 6-2 at home recently.",
+  "news": "Raiders' preview confirms; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth.",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-raiders/article/game-preview-game-24-vs-swift-current",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_WHL_season",
+   "https://www.eliteprospects.com/league/whl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72712628",
+  "fx": "Red Deer Rebels v Brandon Wheat Kings",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "WHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. Red Deer 1st East (33 pts/23 gp), 5-0 at home; Brandon 2nd East but 0-4 on road.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth; top-two clash, not a mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_WHL_season",
+   "https://www.eliteprospects.com/league/whl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72909644",
+  "fx": "Buffalo Sabres v Pittsburgh Penguins",
+  "sport": "ice hockey",
+  "absences": "PIT: Bryan Rust, Elmer Soderblom, Egor Chinakhov, Nick Robertson, Ryan Graves out. BUF: Zach Benson (UB), Noah Ostlund out; Matt Grzelcyk, Konsta Helenius on injury list; Justin Danforth returns after 13 games; Josh Norris status conflicting (NHL.com has him on L2).",
+  "context": "PIT 7-15-2 (2-8 last 10, 2.3 gf); BUF 11-10-4. 8pm ET.",
+  "news": "Penguins missing five regulars incl. Rust and Chinakhov; Sabres lose Benson and Ostlund.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.71,
+    "p": 0.563612,
+    "why": "Named-absence edge: PIT without Rust, Chinakhov, Soderblom, Robertson, Graves and 2-8 last 10; BUF 3-1 last 4. My p 0.60."
+   },
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.28,
+    "p": 0.758051,
+    "why": "5 of PIT's last 6 games went 5+ (6-3, 3-4, 2-5, 1-4, 3-2); PIT defence weakened (Graves out); trend 0.90. My p 0.76."
+   }
+  ],
+  "avoid": "PIT +1.5/+2.5 catches (depleted side).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nhl.com/news/pittsburgh-penguins-buffalo-sabres-game-preview-november-27-2026",
+   "https://www.dailyfaceoff.com/news/nhl-best-bets-predictions-picks-odds-for-friday-november-27",
+   "https://www.yardbarker.com/nhl/articles/sabres_zach_benson_noah_ostlund_out_against_penguins_with_injuries/s1_16958_44627596"
+  ]
+ },
+ {
+  "eid": "sr:match:72909646",
+  "fx": "Edmonton Oilers v Seattle Kraken",
+  "sport": "ice hockey",
+  "absences": "EDM: G Frederik Andersen out (knee), Alec Regula, Matt Savoie, Mattias Janmark out; Zach Hyman (vision) and Filip Hallander day-to-day. SEA: Jared McCann, Jake O'Brien out (lower body, IR).",
+  "context": "EDM on a 4-game losing streak (home). SEA 0-3 recently on the road, 5.0 GA away. NHL.com and Daily Faceoff say Nov 27, 8pm ET; tonyspicks says Nov 28, 10pm ET (outlier, treated as a UTC/typo issue).",
+  "news": "Oilers without Andersen in goal; Kraken without top scorer McCann.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.3,
+    "p": 0.743413,
+    "why": "EDM backup goalie with Andersen out; SEA conceding 5.0 on the road; EDM recent games 3-5, 4-5, 4-7. My p 0.76."
+   }
+  ],
+  "avoid": "SEA +2.5 banned (fav p 0.655 > 0.60). EDM ML p 0.655 on a 4-game skid: no extra edge.",
+  "confidence": 0.25,
+  "sources": [
+   "https://nhl.com/news/seattle-kraken-edmonton-oilers-game-preview-november-27-2026",
+   "https://sports.yahoo.com/nhl/articles/oilers-bring-4-game-losing-090031023.html",
+   "https://www.dailyfaceoff.com/news/nhl-best-bets-predictions-picks-odds-for-friday-november-27",
+   "https://www.tonyspicks.com/2026/11/26/oilers-vs-kraken-prediction-picks-11-28-26/"
+  ]
+ },
+ {
+  "eid": "sr:match:72712612",
+  "fx": "Prince George Cougars v Kamloops Blazers",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "WHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. 7:00pm at CN Centre, Fight Cancer Night. PG 7-11-2-2 (lost 4-3 OT to Vancouver last game); Kamloops 14-6-3-1, 2nd West.",
+  "news": "Cougars' preview confirms; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth; Kamloops ML is a result-side; PG home games low-scoring (1.86 gf).",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-cougars/article/game-preview-2",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_WHL_season",
+   "https://www.eliteprospects.com/league/whl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72712614",
+  "fx": "Vancouver Giants v Regina Pats",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "WHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. Only meeting of the season, 7:00pm PT at Langley Events Centre. VAN 13-7-1-2, REG 13-7-0-2.",
+  "news": "Giants' preview confirms; even matchup.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth.",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-giants/article/preview-giants-host-pats-friday-in-lone-meeting-of-season"
+  ]
+ },
+ {
+  "eid": "sr:match:72712618",
+  "fx": "Victoria Royals v Seattle Thunderbirds",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "WHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. No preview found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_WHL_season",
+   "https://www.eliteprospects.com/league/whl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72712616",
+  "fx": "Winnipeg Ice v Kelowna Rockets",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "WHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. Winnipeg Ice 3-7 last 10 (1.9 gf), home after a six-game road run.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_WHL_season",
+   "https://www.eliteprospects.com/league/whl/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72712622",
+  "fx": "Everett Silvertips v Portland Winter Hawks",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "WHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. Game-day hub (OurSports Central) lists Nov 27 v Everett.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.oursportscentral.com/services/releases/game-day-hub-november-27-vs-everett/n-6427307"
+  ]
+ },
+ {
+  "eid": "sr:match:72712620",
+  "fx": "Tri-City Americans v Penticton Vees",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "WHL youth (junior, ages 16-20): only date/venue and mismatch checks done; no picks. 7:05pm PT at Toyota Center. Penticton 11-10-1-2, 5th West.",
+  "news": "Both clubs' previews confirm.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth.",
+  "confidence": 0.1,
+  "sources": [
+   "https://chl.ca/whl-americans/article/preview-americans-vs-vees-november-27-2026",
+   "https://chl.ca/whl-vees/article/game-preview-vees-vs-americans-11-27-26"
+  ]
+ },
+ {
+  "eid": "sr:match:72416558",
+  "fx": "Nikko Kobe Ice Bucks v Red Eagles Hokkaido",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Asia League. Standings snapshots conflict (EP early-season v Sofascore: Red Eagles 1st 27 pts, Nikko 19). 2026-27 schedule/venue not found to confirm.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Even matchup; venue unconfirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/ice-hockey/tournament/international/asia-league/10509",
+   "https://www.eliteprospects.com/league/asia-league/standings",
+   "https://www.eliteprospects.com/league/asia-league"
+  ]
+ },
+ {
+  "eid": "sr:match:72416556",
+  "fx": "Stars Kobe v Tohoku Free Blades",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Asia League. Stars Kobe last (3 pts/13 gp per Sofascore), 1-9 last 10, conceding 5.0 (5.17 at home). Tohoku 2nd (21 pts). 2026-27 venue not confirmed by any source.",
+  "news": "no news found; Stars Kobe the league's basement side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.33,
+    "p": 0.713701,
+    "why": "Tohoku team total: Stars Kobe concede 5.0/gm (5.17 at home), 1-9 last 10 (2-8, 2-5 home losses). My p 0.73."
+   }
+  ],
+  "avoid": "Tohoku ML away p 0.74 < 0.75; Tohoku -1.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/ice-hockey/tournament/international/asia-league/10509",
+   "https://www.eliteprospects.com/league/asia-league/standings",
+   "https://www.eliteprospects.com/league/asia-league"
+  ]
+ },
+ {
+  "eid": "sr:match:72416560",
+  "fx": "Yokohama Grits v Anyang Halla",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Asia League. Mid-table pair; standings snapshots conflict. Venue not confirmed.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/ice-hockey/tournament/international/asia-league/10509",
+   "https://www.eliteprospects.com/league/asia-league/standings",
+   "https://www.eliteprospects.com/league/asia-league"
+  ]
+ },
+ {
+  "eid": "sr:match:73708612",
+  "fx": "Metallurg Novokuznetsk v HC Akm Tula",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "VHL. Kick-off 13:00 local (06:00 UTC) at DS Kuznetskikh Metallurgov, consistent across dombilet and odds.ru. Metallurg 35 pts/27 gp (65:44), won its last game away v the league newcomer. AKM 0-6 recently on the road (1.5 gf away).",
+  "news": "Time and venue confirmed; Metallurg in form (7-3 last 10).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.66709,
+    "why": "AKM lost all 6 recent road games scoring 1.5/gm; Metallurg 7-3 last 10 and 65:44 goal difference. My p 0.69."
+   }
+  ],
+  "avoid": "AKM team Under 2.5 p 0.725 < 0.82; Under 6.5 p 0.817 < 0.82.",
+  "confidence": 0.2,
+  "sources": [
+   "https://dombilet.ru/sport/hockey/vhl/metallurg-nk-akm-11-nedelya-vkhl/",
+   "https://odds.ru/hockey/match/metallurg-novokuznetsk-vs-akm/29348-29359/",
+   "https://kuzbass.media/2026/11/27/171628.html",
+   "https://betonmobile.ru/match-metallurg-nk-akm-2026-11-28"
+  ]
+ },
+ {
+  "eid": "sr:match:73687044",
+  "fx": "Sakhalinskie Akuly v Almaz Cherepovets",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "MHL (Russian junior, youth): only date/venue checks done, none found. Sakhalin far-east home game at 06:00 UTC.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth.",
+  "confidence": 0.1,
+  "sources": []
+ }
+]
