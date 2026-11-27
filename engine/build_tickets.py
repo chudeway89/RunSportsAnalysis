@@ -100,6 +100,8 @@ def main():
     ap.add_argument('--date',default=dt.datetime.now(dt.timezone.utc).strftime('%Y-%m-%d')); ap.add_argument('--label',default='ticket')
     ap.add_argument('--ctry-cap',type=int,default=None,help='override the per-country leg cap (e.g. a one-country NCAA/NBA night)')
     ap.add_argument('--min-p',type=float,default=0.0,help='skip legs whose house probability is below this (tight tickets)')
+    ap.add_argument('--dump-cands',help='write every leg that passes the gates, with its research notes, to this file and stop (input for the expert panel)')
+    ap.add_argument('--panel',help='JSON list of approved leg keys (eid|mid|spec|desc) from the expert panel; only these legs may be used')
     ap.add_argument('--lead-min',type=float,default=45); ap.add_argument('--drift',type=float,default=0.06)
     a=ap.parse_args()
     BE={}
@@ -134,10 +136,16 @@ def main():
             if p.get('odds') and odds<float(p['odds'])/(1+a.drift): drop['price drifted against the pick']+=1; continue
             l=dict(eid=r['eid'],sid=e['sid'],sport=e['sport'],fx=e.get('fx') or r.get('fx'),lg=e['lg'],start=e['start'],mid=mid,spec=spec or None,desc=desc,
                    oid=oid,mdesc=mdesc,odds=odds,p=hp,ctry=e['lg'].split(' / ')[0],why=(p.get('why') or '')[:160])
+            l['key']=f"{l['eid']}|{mid}|{spec}|{desc}"; l['conf']=r.get('confidence'); l['rp']=p.get('p')
+            l['notes']={k:str(r.get(k) or '')[:500] for k in ('absences','context','news','avoid')}
             why=gate(l,fp,e['lg'])
             if not why and hp<a.min_p: why=f'house p below --min-p {a.min_p}'
             if why or hp<=0: drop[why or 'no house probability']+=1; continue
             l['kind']=kind(l); l['q'],l['adj']=adjust(l,LRN,_side(l)); l['cost']=-math.log(l['q'])/math.log(odds); legs.append(l)
+    if a.dump_cands:
+        json.dump(legs,open(a.dump_cands,'w'),indent=0); print(len(legs),'candidate legs written to',a.dump_cands); return
+    if a.panel:
+        ok=set(json.load(open(a.panel))); n=len(legs); legs=[l for l in legs if l['key'] in ok]; print(f'expert panel: {len(legs)} of {n} gate-passing legs approved')
     print(f"{len(legs)} legs pass the gates ({sum(1 for l in legs if l['adj'])} with a learned correction, learned as of {LRN.get('as_of','never')}); dropped: {dict(drop)}")
     best={}
     for l in sorted(legs,key=lambda l:l['cost']): best.setdefault(l['eid'],l)
