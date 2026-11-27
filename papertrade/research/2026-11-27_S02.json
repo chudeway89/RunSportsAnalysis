@@ -294,5 +294,153 @@
    "https://www.ouest-france.fr/sport/rugby/rugby-club-vannes/top-14-une-nouvelle-charniere-lattraction-taulagi-sur-le-banc-la-compo-du-rc-vannes-face-au-stade-francais-bce310de-ea6f-11f1-bb2d-c71dc7920c2a",
    "https://billetterie.stade.fr/fr/rc-vannes"
   ]
+ },
+ {
+  "eid": "sr:match:72875932",
+  "fx": "Stade Rochelais v USA Perpignan",
+  "sport": "rugby",
+  "absences": "La Rochelle: 19 absentees incl. Jules Favre, Dillyn Leyds, Jack Nowell, Tevita Ofa, Nathan Bollengier (out since round 4), Hoani Bosmorin; Antoine Hastoy reported out 3-4 months (undated). Perpignan: no news found.",
+  "context": "Top 14 J10, Sat 28 Nov 16:35. La Rochelle under pressure ('O'Gara dos au mur'), must-win at home. Perpignan 3-7, heavy away defeats (26-63, 25-55).",
+  "news": "La Rochelle 19 absent but O'Gara under pressure at home v poor-travelling Perpignan.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "La Rochelle -7.5/-13.5: 19 absentees blunt the margin; ML too short.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.titrespresse.com/30514492603/rochelle-gara-perpignan",
+   "https://www.titrespresse.com/30676842603/rochelle-perpignan-top"
+  ]
+ },
+ {
+  "eid": "sr:match:72772012",
+  "fx": "ATSC Wildcats Klagenfurt v UVC Graz",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Austrian women's league: Klagenfurt 3rd (6-2) v UVC Graz 2nd (7-1); ORF confirms Sat 28 Nov 17:00 local.",
+  "news": "Date confirmed; women's top-3 clash.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288204/"
+  ]
+ },
+ {
+  "eid": "sr:match:72520568",
+  "fx": "PVK Olymp Prague v Vk Lvi Praha",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Czech women's Extraliga; Olymp 7th (13 pts), Lvi co-leaders (20 pts) after R8. Sat 28 Nov 17:00 at SH Pripotocni, Praha 10 (Denik and Lvi club site).",
+  "news": "Date/venue confirmed; women's fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://prazsky.denik.cz/ostatni-sporty/sport-praha-program-na-vikend-listopad",
+   "https://www.vk-lvipraha.cz/"
+  ]
+ },
+ {
+  "eid": "sr:match:72520560",
+  "fx": "TJ Ostrava v Vk Dukla Liberec",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Czech women's Extraliga; Liberec co-leaders (20 pts). Dukla Liberec site lists Ostrava v Liberec 28.11.2026.",
+  "news": "Date consistent; women's fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.vkdukla.cz/leagues/view/77",
+   "https://www.cvf.cz/extraliga/extraliga-zeny?filteredGroupId=29148"
+  ]
+ },
+ {
+  "eid": "sr:match:74972040",
+  "fx": "Metalurgist Pernik v Levski Sofia",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Bulgarian men's Super League (season from 22 Oct); Levski reigning champions (2025/26). Pernik 1-6 in last 7.",
+  "news": "no news found for this fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No markets in the 1.18-2.2 band (Levski ML 1.07).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/bulgaria/super-league/2082",
+   "https://en.wikipedia.org/wiki/Levski_Volley"
+  ]
+ },
+ {
+  "eid": "sr:match:72773818",
+  "fx": "Steelvolleys Linz Steg v Vcu Wiener Neustadt",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Austrian 2nd division (men); both 4-6 in last 10.",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin second-tier fixture, no mechanism.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72771676",
+  "fx": "TSV Hartberg v Sportunion St Polten",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "AVL Men, ORF confirms Sat 28 Nov 19:00 local. Hartberg reigning champions, 3rd (5-1, sets 15:6); St. Polten 7th (2-5), lost 1:3 at Ried on Tue 24 Nov (4 days earlier).",
+  "news": "Date confirmed by ORF; St. Polten second match in five days, Hartberg rested since earlier.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "201",
+    "spec": null,
+    "desc": "Home/Home",
+    "odds": 1.22,
+    "p": 0.77274,
+    "why": "Mechanism: champions Hartberg v 7th-placed St. Polten, who played (and lost 1-3) at Ried on Tuesday; Hartberg 3-0 or 3-1 wins dominate their home form. Own p 0.79 vs house 0.773."
+   }
+  ],
+  "avoid": "Hartberg ML 1.07 (sub-1.15 padding).",
+  "confidence": 0.2,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288204/"
+  ]
+ },
+ {
+  "eid": "sr:match:72771682",
+  "fx": "Union Waldviertel v SK Aich/Dob",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "AVL Men, Sat 28 Nov 19:00 (ORF). Aich/Dob 1st (7-1, sets 23:5) beat Graz 3:1 on Wed; Waldviertel 5th (4-4) beat Amstetten 3:1 on Wed. H2H 3-1, 3-0 to Aich/Dob.",
+  "news": "Date confirmed; both sides played Wednesday, so congestion is equal.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "201",
+    "spec": null,
+    "desc": "Away/Away",
+    "odds": 1.33,
+    "p": 0.7045,
+    "why": "Mechanism: league leaders Aich/Dob (23:5 sets) won both recent H2H 3-1 and 3-0; both teams equally congested. Own p 0.72 vs house 0.705."
+   }
+  ],
+  "avoid": "Aich/Dob -2.5 sets (3-0 only) and big point handicaps.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sport.orf.at/tabellen/stories/2288204/"
+  ]
  }
 ]
