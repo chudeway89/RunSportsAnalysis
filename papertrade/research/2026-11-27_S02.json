@@ -1,0 +1,140 @@
+[
+ {
+  "eid": "sr:match:76126004",
+  "fx": "Australia v France",
+  "sport": "rugby",
+  "absences": "Not checked in detail (women's sevens)",
+  "context": "Women's SVNS 2026/27 opener, Dubai pool stage, 28 Nov. Australia were Dubai 2025 runners-up.",
+  "news": "Women's fixture; no date/venue conflict found; Australia heavy favourite (p 0.91).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks (rule). Season opener.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.rugby.com.au/news/dubai-sevens-hsbc-sevens-aussie-sevens-confirm-squads-for-dubai-women-chasing-sixth-title-mens-trio-to-debut-20251120",
+   "https://www.rugbypass.com/news/fierce-svns-rivalries-renewed-as-dubai-sevens-pools-revealed/"
+  ]
+ },
+ {
+  "eid": "sr:match:76126014",
+  "fx": "Canada v Fiji",
+  "sport": "rugby",
+  "absences": "Canada: no current 2026/27 injury list found (2025 list had Chloe Daniels, Piper Logan out - stale)",
+  "context": "Women's SVNS opener, Dubai pool stage.",
+  "news": "Women's fixture; no news beyond squads; no conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture, close game: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://rugby.ca/en/news/2025/11/roster-set-for-canada-s-women-s-sevens-team-to-begin-2026-hsbc-svns-series-in-dubai"
+  ]
+ },
+ {
+  "eid": "sr:match:76434910",
+  "fx": "Beijing v Shandong",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Chinese Women's Volleyball Super League 2026/27 early round; 8-team A-level (Shanghai, Fujian, Jiangsu, Zhejiang, Shandong, Henan, Beijing, Tianjin).",
+  "news": "no news found for this pairing; women's fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's, coin-flip ML: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://k.sina.com.cn/article_7879995911_1d5af320706803522w.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76126016",
+  "fx": "New Zealand v Japan",
+  "sport": "rugby",
+  "absences": "not checked (women's sevens)",
+  "context": "Women's SVNS opener, Dubai; NZ won Dubai 2025.",
+  "news": "Women's fixture; NZ p 0.97; no conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025_Dubai_Sevens"
+  ]
+ },
+ {
+  "eid": "sr:match:76125842",
+  "fx": "Australia v USA",
+  "sport": "rugby",
+  "absences": "Australia: Henry Paterson (knee), Ben Dowling (foot), Mackenzie Davis (knee) out; three potential debutants incl. Whitaker; Nathan Lawson returns from league; Henry Hutchison captain. USA: no news found.",
+  "context": "Men's SVNS 2026/27 opener, Dubai Pool A (South Africa, Australia, Argentina, USA). Season opener = transition board.",
+  "news": "Australia without Paterson/Dowling/Davis and blooding debutants; H2H last meeting USA won 19-17.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Australia -2.5/ML: depleted squad, opener, last H2H lost. No clean edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.rugby.com.au/news/whitaker-headlines-potential-australia-sevens-debuts-for-dubai-20261118",
+   "https://www.rugbypass.com/news/fierce-svns-rivalries-renewed-as-dubai-sevens-pools-revealed/"
+  ]
+ },
+ {
+  "eid": "sr:match:76434912",
+  "fx": "Tianjin v Fujian",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Chinese women's league early round.",
+  "news": "no news found; women's fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's fixture: no picks.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76125844",
+  "fx": "South Africa v Argentina",
+  "sport": "rugby",
+  "absences": "South Africa: Mfundo Ndhlovu and Donavan Don lost to URC; Impi Visser, Zander Reynders, Jayden Nell, Shilton van Wyk in rehab, miss Dubai. Argentina: no news found.",
+  "context": "Men's SVNS opener, Dubai Pool A. Argentina 7-3 in last 10 (26.3 pts for) vs SA 4-6.",
+  "news": "Blitzboks missing six regulars (2 to URC, 4 injured); Argentina in stronger form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-8.5",
+    "desc": "Away (+8.5)",
+    "odds": 1.39,
+    "p": 0.685499,
+    "why": "Named mechanism: SA without six regulars (Ndhlovu, Don to URC; Visser, Reynders, Nell, van Wyk injured) while Argentina won 7 of last 10. Argentina +8.5 loses only to a 2-try SA win. Own p 0.72 vs house 0.685."
+   }
+  ],
+  "avoid": "South Africa ML/-2.5 (depleted).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.rugbyasia247.com/emirates-dubai-sevens-2026-weekend-preview/",
+   "https://www.rugbypass.com/news/fierce-svns-rivalries-renewed-as-dubai-sevens-pools-revealed/"
+  ]
+ },
+ {
+  "eid": "sr:match:76125854",
+  "fx": "Spain v France",
+  "sport": "rugby",
+  "absences": "no news found for Spain or France",
+  "context": "Men's SVNS opener, Dubai Pool B (New Zealand, Spain, Fiji, France).",
+  "news": "no news found on squads; France 8-2 in last 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "France result-side at p 0.57 below threshold; opener.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.rugbypass.com/news/fierce-svns-rivalries-renewed-as-dubai-sevens-pools-revealed/"
+  ]
+ }
+]
