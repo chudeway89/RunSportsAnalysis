@@ -1,0 +1,557 @@
+[
+ {
+  "eid": "sr:match:76743758",
+  "fx": "Peru v Dominican Republic",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Women's international friendly (1st of two v DR in Chincha, La Videnita); women's side",
+  "news": "Kick-off conflict: Infobae/Sofascore 11:00 Lima (16:00 UTC) vs RPP 4pm Lima (21:00 UTC); Fox/Nueva Mujer list a Nov 29 game",
+  "veto": true,
+  "veto_reason": "kick-off/date conflict between sources; women's friendly",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.infobae.com/peru/deportes/2026/11/18/lista-de-convocadas-de-la-seleccion-peruana-femenina-para-amistosos-ante-republica-dominicana-y-alemania-por-fecha-fifa-2026/",
+   "https://rpp.pe/futbol/seleccion-peruana/peru-vs-republica-dominicana-en-vivo-a-que-hora-juegan-y-donde-ver-amistoso-internacional-femenino-link-bicolor-youtube-gratis-partidos-de-hoy-noticia-1719961",
+   "https://www.foxsports.com/soccer/friendlies-women-peru-vs-dominican-republic-nov-29-2026-game-boxscore-1122245"
+  ]
+ },
+ {
+  "eid": "sr:match:74735340",
+  "fx": "CD Cuenca v Manta FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "LigaPro relegation hexagonal round 8; Cuenca top of hexagonal (47) can seal survival; Manta last (34) relegated unless they win - must_win for away side. 16:30 local = 21:30 UTC matches board",
+  "news": "Manta must win or go down; arrive with 7 of last 9 pts and won at Cuenca in August; Cuenca lost 2-0 to Tecnico U last time",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cuenca DNB 1.18 (Manta won here in Aug, desperate); Over 1.5 trend 0.70 below house 0.785 - no edge",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eldiario.ec/deportes/manta-fc-busca-dar-el-golpe-ante-deportivo-cuenca-en-la-fecha-8-del-hexagonal-de-descenso-26112026/",
+   "https://elmercurio.com.ec/deportes/2026/11/24/deportivo-cuenca-gerenciamiento-descenso-futbol/",
+   "https://www.extra.ec/noticia/deportes/deportivo-cuenca-vs-manta-horario-juego-pelea-permanencia-169094.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73045424",
+  "fx": "Jamaica v Costa Rica",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Women's: CONCACAF W Championship final tournament (Nov 27-Dec 5, WWC 2027 qualifying) - competitive, not a mismatch",
+  "news": "Tournament opens Nov 27; Jamaica 4-0 in qualifying group, Costa Rica qualified beating Guatemala; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's fixture, no clear mismatch - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_CONCACAF_W_Championship",
+   "https://liquipedia.net/lab/Football/CONCACAF/W_Championship/2026/Qualification"
+  ]
+ },
+ {
+  "eid": "sr:match:76848808",
+  "fx": "Vila Nova FC GO v AC Goianiense GO",
+  "sport": "football",
+  "absences": "Vila Nova: RB Hayner (held in custody), Rafa Silva (arthroscopy) out; Andre Luis doubt (lower back). Atletico-GO: Geovane injured; Marrony doubt/available",
+  "context": "Serie B promotion playoff quarter-final 2nd leg (knockout_90min), Goiania derby at OBA; 1st leg 1-1, Vila Nova advance with a draw, Atletico must win. 20h BRT = 23:00 UTC matches",
+  "news": "Knockout derby, Vila Nova only need a draw; key absences both sides",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no result-sides (knockout + derby); Over 1 integer banned; O1.5 p 0.62 too thin; draw-friendly script for home side",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ogol.com.br/noticias/vila-nova-x-atletico-goianiense-horario-escalacoes-e-onde-assistir-serie-b-27-11/1270172"
+  ]
+ },
+ {
+  "eid": "sr:match:76881994",
+  "fx": "CD Antofagasta v Deportes Copiapo",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Liguilla de Ascenso quarter-final 2nd leg (knockout_90min) at Calvo y Bascunan; 1st leg 1-1 at Copiapo; Antofagasta 3rd (51 pts) host as higher seed, Copiapo 8th (42). 20:00 CLST = 23:00 UTC matches",
+  "news": "Second leg level at 1-1; Antofagasta 5/5 home wins, 3.0 goals for at home; won 4-0 at Copiapo in league",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7783309406,
+    "why": "DNB is allowed in knockouts (90-min settlement, draw void). Antofagasta 5W/5 at home (15-1), level tie forces them to chase; my p 0.80 (house 0.778)"
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.7930643864,
+    "why": "Antofagasta home avg 3.0 GF; trend 0.90 v house 0.79; level second leg needs a winner; my p 0.81"
+   }
+  ],
+  "avoid": "1X2 / result-sides beyond DNB (knockout); tiebreak rule on aggregate draw unconfirmed - if higher seed advances on a level aggregate, Antofagasta may play for 0-0/1-1",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.alairelibre.cl/futbol/primera-b/deportes-antofagasta-vs-copiapo-horario-donde-ver-liguilla-de-ascenso-2026/",
+   "https://www.encancha.cl/futbol-chileno/primera-b/2026/11/21/deportes-antofagasta-rescata-un-valioso-empate-ante-copiapo-en-la-ida-de-la-liguilla-del-ascenso-326042.html",
+   "https://www.maray.cl/atacama/27/11/2026/deportes-copiapo-busca-esta-noche-su-paso-a-semifinales-de-la-liguilla-de-ascenso/"
+  ]
+ },
+ {
+  "eid": "sr:match:77147540",
+  "fx": "Bolivia v Uruguay",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Women's friendly, first of two (Nov 27 and 30) at Estadio Tahuichi Aguilera, Santa Cruz (lowland, no altitude); FIFA window; clear mismatch",
+  "news": "Venue/dates confirmed by AUF and Diez; Bolivia W lost 9 of last 10 conceding 5.5/game (0-8 x3); Uruguay W beat Bolivia 5-0 and 7-0 previously",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.24,
+    "p": 0.771937,
+    "why": "Goals market in a clear women's mismatch: Bolivia conceded 55 in last 10 incl. three 0-8s; but Uruguay W scoring only 1.1/game and friendly may be loose; my p 0.78"
+   }
+  ],
+  "avoid": "result-sides (women's friendly); Over 3.5 at 1.64 too thin",
+  "confidence": 0.25,
+  "sources": [
+   "https://diez.bo/futbol/bolivia-femenina-recibira-a-uruguay-en-dos-amistosos-en-el-tahuichi_1795464588",
+   "https://www.auf.org.uy/uruguay-jugara-dos-amistosos-ante-bolivia/"
+  ]
+ },
+ {
+  "eid": "sr:match:76990440",
+  "fx": "Deportivo Cali v CA Bucaramanga",
+  "sport": "football",
+  "absences": "no confirmed absences found",
+  "context": "Liga BetPlay 2026-II cuadrangulares Group B round 3 at Palmaseca; both on 1 pt, Cali must win to stay alive (lost 2-1 to America), Bucaramanga lost 4-1 at Millonarios",
+  "news": "Kick-off conflict: ESPN 18:20, El Espectador 18:35, Infobae 16:35 local (board 23:35 UTC = 18:35)",
+  "veto": true,
+  "veto_reason": "kick-off time conflict between sources (Infobae 16:35 vs 18:20/18:35)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.infobae.com/colombia/deportes/2026/11/27/deportivo-cali-vs-atletico-bucaramanga-hora-y-donde-ver-el-juego-por-los-cuadrangulares-de-la-liga-betplay-2026-ii/",
+   "https://espndeportes.espn.com/futbol/colombia/nota/_/id/17565048/cali-vs-bucaramanga-fecha-3-cuadrangulares-liga-betplay-equipo-fecha-hora-y-tv-en-vivo",
+   "https://www.elespectador.com/deportes/futbol-colombiano/cuadrangulares-de-liga-betplay-partidos-y-programacion-de-la-tercera-fecha/"
+  ]
+ },
+ {
+  "eid": "sr:match:73045422",
+  "fx": "USA v El Salvador",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Women's: CONCACAF W Championship final tournament; USA auto-qualified top seed; heavy mismatch but no board markets in 1.18-2.2",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no markets in price band",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_CONCACAF_W_Championship"
+  ]
+ },
+ {
+  "eid": "sr:match:76990442",
+  "fx": "Millonarios FC v America de Cali",
+  "sport": "football",
+  "absences": "No confirmed list; Cuadrado (Millonarios) left at halftime v Cali with a possible injury (Gamero commented), unconfirmed",
+  "context": "Cuadrangulares Group B round 3 clasico at El Campin, 8:40pm COL = 01:40 UTC matches; both 4 pts, first place at stake; big_club derby",
+  "news": "Top-of-group clasico, last meeting 0-0 on Nov 4; Cuadrado fitness doubt",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no result-sides (big-club clasico); Under 3 p 0.79 below 0.82; Under 3.5 1.17 below band",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.infobae.com/colombia/deportes/2026/11/26/millonarios-vs-america-de-cali-hora-y-canal-de-tv-para-ver-en-vivo-el-clasico-de-los-cuadrangulares-de-la-liga-betplay/",
+   "https://www.futbolred.com/futbol-colombiano/liga-betplay/millonarios-vs-america-de-cali-previa-fecha-y-claves-del-duelo-por-la-liga-betplay-2026-ii-275761",
+   "https://www.noticiascaracol.com/golcaracol/futbol-colombiano/america-con-varias-novedades-convocados-para-enfrentar-a-millonarios-en-cuadrangulares-so35"
+  ]
+ },
+ {
+  "eid": "sr:match:73095528",
+  "fx": "CS Herediano v CD Escorpiones Belen",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Promerica Apertura round 18; Herediano 8th, Belen 9th",
+  "news": "Date/venue conflict: Herediano official site + 365Scores + ESPN list Sun Nov 29 at Carlos Alvarado; Sofascore/SportyTrader list Nov 28 02:00 UTC; FootyStats venue Eladio Rosabal Cordero",
+  "veto": true,
+  "veto_reason": "date and venue conflict between official club site and board",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.herediano.com/calendario",
+   "https://espndeportes.espn.com/futbol/equipo/calendario/_/id/862/liga/crc.1/temporada/2008/herediano",
+   "https://www.sportytrader.com/en/results-live/cs-herediano-cd-escorpiones-belen-8929668/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114698748",
+  "fx": "Cerezo Osaka Sakai Ladies v Orca Kamogawa FC",
+  "sport": "football",
+  "absences": "none checked (women's)",
+  "context": "Women's: Empress's Cup 2nd round (Sat Nov 28, WE League clubs enter), single-leg knockout",
+  "news": "no news found; date (Nov 28) consistent with JFA schedule",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's cup tie - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://albirex-niigata-ladies.com/news/hkEfh4Oc",
+   "https://monotooto.com/empress-cup-2026-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114698750",
+  "fx": "JEF United Chiba Women v Diosa Izumo FC Women",
+  "sport": "football",
+  "absences": "none checked (women's)",
+  "context": "Women's: Empress's Cup 2nd round (Sat Nov 28, WE League clubs enter), single-leg knockout",
+  "news": "no news found; date (Nov 28) consistent with JFA schedule",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's cup tie - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://albirex-niigata-ladies.com/news/hkEfh4Oc",
+   "https://monotooto.com/empress-cup-2026-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114699514",
+  "fx": "Nojima Stella Kanagawa Sagamihara Women v Setagaya Sfida Women",
+  "sport": "football",
+  "absences": "none checked (women's)",
+  "context": "Women's: Empress's Cup 2nd round (Sat Nov 28, WE League clubs enter), single-leg knockout",
+  "news": "no news found; date (Nov 28) consistent with JFA schedule",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's cup tie - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://albirex-niigata-ladies.com/news/hkEfh4Oc",
+   "https://monotooto.com/empress-cup-2026-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114699511",
+  "fx": "RB Omiya Ardija v Kanagawa University",
+  "sport": "football",
+  "absences": "none checked (women's)",
+  "context": "Women's: Empress's Cup 2nd round (Sat Nov 28, WE League clubs enter), single-leg knockout; university side, mismatch but only Over/Under 3.5 and AH 2.5 offered",
+  "news": "no news found; date (Nov 28) consistent with JFA schedule",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's cup tie - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://albirex-niigata-ladies.com/news/hkEfh4Oc",
+   "https://monotooto.com/empress-cup-2026-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114717030",
+  "fx": "Kodagu FC v Bengaluru B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Karnataka (Bangalore) Super Division, amateur/regional; away side is a reserve team",
+  "news": "no news found for the fixture; Kodagu 3rd (10 pts from 4), Bengaluru B 5th (7 from 3) per stale table",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side + amateur league - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Karnataka_Super_Division"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114699513",
+  "fx": "Albirex Niigata Women v Renofa Yamaguchi Women",
+  "sport": "football",
+  "absences": "none checked (women's)",
+  "context": "Women's: Empress's Cup 2nd round (Sat Nov 28, WE League clubs enter), single-leg knockout",
+  "news": "no news found; date (Nov 28) consistent with JFA schedule",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's cup tie - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://albirex-niigata-ladies.com/news/hkEfh4Oc",
+   "https://monotooto.com/empress-cup-2026-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:72665112",
+  "fx": "Honda FC v Criacao Shinjuku",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL 2026-27 round 14 (mid-season, not a finale); Criacao top, Honda 5th; amateur-tier league",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur tier: no Unders; result p's around 0.5 - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/criacao-shinjuku-honda-fc/lldsbgkd",
+   "https://www.worldfootball.net/competition/co4004/japan-japan-football-league/results-and-standings/"
+  ]
+ },
+ {
+  "eid": "sr:match:72665114",
+  "fx": "Reinmeer Aomori v Vonds Ichihara FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL round 14; Reinmeer near top (13 pts from 7 per stale table)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur tier, no edge - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.worldfootball.net/competition/co4004/japan-japan-football-league/results-and-standings/"
+  ]
+ },
+ {
+  "eid": "sr:match:72665116",
+  "fx": "YSCC Yokohama v Veertien Mie",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL round 14",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur tier, no edge - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.worldfootball.net/competition/co4004/japan-japan-football-league/results-and-standings/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114699508",
+  "fx": "Mynavi Sendai Women v Diavorosso Hiroshima Women",
+  "sport": "football",
+  "absences": "none checked (women's)",
+  "context": "Women's: Empress's Cup 2nd round (Sat Nov 28, WE League clubs enter), single-leg knockout",
+  "news": "no news found; date (Nov 28) consistent with JFA schedule",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's cup tie - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://albirex-niigata-ladies.com/news/hkEfh4Oc",
+   "https://monotooto.com/empress-cup-2026-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114699507",
+  "fx": "Sanfrecce Hiroshima Women v Ehime Women FC",
+  "sport": "football",
+  "absences": "none checked (women's)",
+  "context": "Women's: Empress's Cup 2nd round (Sat Nov 28, WE League clubs enter), single-leg knockout",
+  "news": "no news found; date (Nov 28) consistent with JFA schedule",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's cup tie - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://albirex-niigata-ladies.com/news/hkEfh4Oc",
+   "https://monotooto.com/empress-cup-2026-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114698747",
+  "fx": "Shizuoka SSU Bonita Women v Yokohama FC Seagulls Women",
+  "sport": "football",
+  "absences": "none checked (women's)",
+  "context": "Women's: Empress's Cup 2nd round (Sat Nov 28, WE League clubs enter), single-leg knockout",
+  "news": "no news found; date (Nov 28) consistent with JFA schedule",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's cup tie - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://albirex-niigata-ladies.com/news/hkEfh4Oc",
+   "https://monotooto.com/empress-cup-2026-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114699515",
+  "fx": "Viamaterasu Miyazaki Women v Okayama Belle Yunogo Women",
+  "sport": "football",
+  "absences": "none checked (women's)",
+  "context": "Women's: Empress's Cup 2nd round (Sat Nov 28, WE League clubs enter), single-leg knockout",
+  "news": "no news found; date (Nov 28) consistent with JFA schedule",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's cup tie - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://albirex-niigata-ladies.com/news/hkEfh4Oc",
+   "https://monotooto.com/empress-cup-2026-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:72149930",
+  "fx": "Kyoto Sanga FC v Cerezo Osaka",
+  "sport": "football",
+  "absences": "Kyoto: Ren Kato listed absent (Oct tracker, may be stale). Cerezo: Masaya Shibayama out (knee ligaments, Oct tracker)",
+  "context": "J1 2026-27; Kansai meeting (not a classic derby). Kyoto came from behind to beat Urawa 2-1 on Nov 21; Kyoto 5W1D in 6 home games (2.17 GF), Cerezo leak 2.0-2.2 away",
+  "news": "No preview found for Nov 28; Kyoto in form at home, Cerezo concede heavily",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.7830081926,
+    "why": "Kyoto home 2.17 GF, Cerezo concede 2.2/game; Cerezo 5 of last 6 had 2+ goals, Kyoto 4 of 6; trend 0.85 v house 0.78; J1 average borderline so low confidence; my p 0.80"
+   }
+  ],
+  "avoid": "Away side result-sides; Under markets",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.papastablog.com/kyoto-sanga-urawa-reds-j1-15/",
+   "https://blog.domesoccer.jp/archives/60255669.html",
+   "https://jleaguescout.soraretactics.com/football/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:72149926",
+  "fx": "Shimizu S-Pulse v Urawa Red Diamonds",
+  "sport": "football",
+  "absences": "none found for either side",
+  "context": "J1 2026-27; Shimizu struggling (2W in 10, 1 goal in last 6); Urawa played a Levain Cup 2nd leg midweek (rotation; Ueki replaced Yasui previously) and lost 2-1 at Kyoto on Nov 21",
+  "news": "no team news found; Urawa big_club away, midweek cup congestion",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.4,
+    "p": 0.688772,
+    "why": "DNB protects the draw; Shimizu scored 1 goal in last 6 (0-2,1-1,0-1,0-2,0-4,0-5); trend 0.73; cup congestion for Urawa caps it; my p 0.70"
+   }
+  ],
+  "avoid": "Unders below 0.82; Shimizu +1.5 catch",
+  "confidence": 0.25,
+  "sources": [
+   "https://www1.targma.jp/urakenplus/2026/11/20/post50107/",
+   "https://soccer.yahoo.co.jp/jleague/category/j1/game/2026112108/text?gk=2"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114486773",
+  "fx": "National University of Kaohsiung v AC Taipei Reserves",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taiwan Football League 2, amateur; away side reserves",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve/amateur - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Taiwan_Football_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114699509",
+  "fx": "INAC Kobe Leonessa v FC Kibi IU Charme",
+  "sport": "football",
+  "absences": "none checked (women's)",
+  "context": "Women's: Empress's Cup 2nd round (Sat Nov 28, WE League clubs enter), single-leg knockout; university side, only Over/Under 3.5 and +2.5 offered",
+  "news": "no news found; date (Nov 28) consistent with JFA schedule",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's cup tie - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://albirex-niigata-ladies.com/news/hkEfh4Oc",
+   "https://monotooto.com/empress-cup-2026-schedule/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114578207",
+  "fx": "Taichung City FC v FU Jen Catholic University",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taiwan Football League 2, amateur; Taichung City first season, 9th with 2 pts from 4 (17-day-old table)",
+  "news": "no news found for this fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Taiwan_Football_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:72149914",
+  "fx": "Kashima Antlers v Fagiano Okayama",
+  "sport": "football",
+  "absences": "Kashima: DF Kim Tae-hyeon (tibia fracture) out; long injury run (players hurt in 6 straight games); Higuchi status unclear",
+  "context": "J1 round 17, Sat 15:00 JST Mercari Stadium (= 06:00 UTC matches); Kashima played ACLE MD5 v Jeonbuk midweek (Nov 25) - rotation_risk, fixture congestion; Okayama defend with a back five",
+  "news": "Congestion and injuries at Kashima after ACLE midweek; preview focuses on breaking Okayama's 5-back",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kashima result-sides downgraded (European/continental tie <=4 days, L66); totals near 50/50",
+  "confidence": 0.2,
+  "sources": [
+   "https://www1.targma.jp/gelmag/2026/11/27/post39556/",
+   "https://www1.targma.jp/gelmag/2026/11/25/post39528/",
+   "https://www.footballchannel.jp/2026/11/25/post992244/"
+  ]
+ },
+ {
+  "eid": "sr:match:72149932",
+  "fx": "Vissel Kobe v JEF United Chiba",
+  "sport": "football",
+  "absences": "none found",
+  "context": "J1 2026-27, Noevir Stadium 15:00 JST (= 06:00 UTC matches); Vissel (100-year league champions, ACLE participant, likely midweek congestion) v promoted Chiba; Vissel only 3W in last 10",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vissel DNB/1X: form poor and possible ACLE rotation - skip; Unders below 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www1.targma.jp/gelmag/2026/11/27/post39556/",
+   "https://en.wikipedia.org/wiki/2026_Vissel_Kobe_season"
+  ]
+ }
+]
