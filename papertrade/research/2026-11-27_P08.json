@@ -1,0 +1,351 @@
+[
+ {
+  "eid": "sr:match:74599468",
+  "fx": "Leixoes SC v AA Sao Mamede",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Portugal Liga A1; sources disagree on whether the Leixoes v Sao Mamede listings are the men's or women's competition (zerozero lists Liga Feminina meetings). 21:00 local confirmed by one bookmaker listing.",
+  "news": "No team news found; competition/gender ambiguity between sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: data_conflict on competition identity; Home ML 1.18 is too short with no mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.zerozero.pt/jogo/2026-01-04-leixoes-sao-mamede/11078285",
+   "https://www.sofascore.com/volleyball/match/aa-sao-mamede-academia-de-voleibol-de-leixoes/JuvbsKmIb",
+   "https://betmaster.com.mx/es-mx/sportsbook/sports/volleyball/match/5835619"
+  ]
+ },
+ {
+  "eid": "sr:match:75360668",
+  "fx": "Norde Volei v Goias EC",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Superliga round 6 at Ginasio Aecio de Borba, Fortaleza. Norde 11th (1 pt, 0 wins in 5, first point vs Sesi Bauru); Goias last with 0 points (1-9 last 10, 0-4 away). Relegation six-pointer.",
+  "news": "Bottom-two clash; most sources 18h30 BRT (=21:30 UTC, matches board) but one source says 21h.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (18h30 vs 21h BRT).",
+  "picks": [],
+  "avoid": "Norde ML 1.58 would be the lean (est 0.63) but vetoed on time conflict.",
+  "confidence": 0.15,
+  "sources": [
+   "https://gcmais.com.br/noticias/2026/11/24/historico-norde-volei-conquista-primeiro-ponto-na-elite-do-volei-brasileiro-apos-derrota-para-o-sesi-bauru",
+   "https://www.lance.com.br/volei/superliga-masculina-confira-a-programacao-de-transmissoes-da-rodada.html",
+   "https://webvolei.com.br/classificacao-superliga-masculina-sesi-bauru-sobe/"
+  ]
+ },
+ {
+  "eid": "sr:match:75360664",
+  "fx": "Sesi Bauru v Sao Jose Dos Campos",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Superliga round 6 at Arena Paulo Skaf, Bauru, 18h30 BRT (sportv2). Sesi Bauru 6th (8 pts, 3-2); Viapol Sao Jose 5th (9 pts) on a three-match winning run including a win over leaders Sada Cruzeiro.",
+  "news": "Sao Jose arrive in form (3 straight wins, beat Cruzeiro); house has Sesi at 0.69, which looks rich given the table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "193",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.2,
+    "p": 0.79416,
+    "why": "Sao Jose are above Sesi in the table and beat leaders Cruzeiro in their 3-game run; they won at least one set in 5 of their last 6 and the last H2H was 2-3. Est 0.83 vs house 0.79."
+   }
+  ],
+  "avoid": "Sesi ML 1.38 and Sesi set handicaps: house favourite is fragile vs an in-form side above them.",
+  "confidence": 0.3,
+  "sources": [
+   "https://informa.life/embalado-por-tres-vitorias-volei-sao-jose-encara-sesi-bauru-pela-superliga/",
+   "https://sampi.net.br/bauru/noticias/3021498/esporte/2026/11/sesi-bauru-recebe-o-viapol-sao-jose-em-sequencia-como-mandante",
+   "https://webvolei.com.br/classificacao-superliga-masculina-sesi-bauru-sobe/"
+  ]
+ },
+ {
+  "eid": "sr:match:75208630",
+  "fx": "Ciudad de Buenos Aires v Upcn San Juan Voley",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Argentina Liga de Voleibol 2026-27 regular season. Rematch of the 2025-26 final: UPCN beat Ciudad 3-1 in the series (April 2026). UPCN 9-1 last 10 and 7-0 away; Ciudad 8-2.",
+  "news": "No current team news found for this fixture; context only from last season's final.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Even-priced ML; no mechanism beyond aggregate form (statistics-only).",
+  "confidence": 0.15,
+  "sources": [
+   "https://deportv.gob.ar/voley/upcn-san-juan-logro-decimo-titulo-liga-argentina-nid:12636",
+   "https://laexcusadeportiva.com.ar/2026/03/upcn-ya-tiene-rival-ciudad-voley-sera-su-oponente-en-la-final-de-la-liga-argentina-que-empieza-el-sabado/"
+  ]
+ },
+ {
+  "eid": "sr:match:75360666",
+  "fx": "Sada Cruzeiro v Minas",
+  "sport": "volleyball",
+  "absences": "none reported; probable XIs: Cruzeiro Brasilia, Oppenkoski, Leal, Armoa, Lucao, Otavio, Ale (L); Minas Thiaguinho, Bryan, Lucarelli, Honorato, Geovane, Michel, Maique (L)",
+  "context": "Mineiro derby (classico), round 6, 21h BRT (=00:00 UTC) at Ginasio do Riacho, Contagem. Leaders Sada Cruzeiro (18 pts/7, though lost to Sao Jose) v Itambe Minas, the only unbeaten side (5-0). Minas beat Cruzeiro 3-0 in the Campeonato Mineiro.",
+  "news": "Leader v only unbeaten team; Leal fit and listed; no absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result-side. Over 3.5 sets (1.24, p 0.77) has no named mechanism; Minas swept Cruzeiro in the state league.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.otempo.com.br/sports/volei/2026/11/27/sada-cruzeiro-e-itambe-minas-fazem-duelo-de-lider-e-invicto-pela-superliga",
+   "https://www.terra.com.br/esportes/volei/sada-cruzeiro-x-itambe-minas-onde-assistir-e-escalacoes,b67fb4e93c3154a5d013c6ff30d1748acfzjx5nq.html",
+   "https://rede98.com.br/esportes/mais-esportes/sada-cruzeiro-itambe-minas-superliga-onde-assistir/"
+  ]
+ },
+ {
+  "eid": "sr:match:75360836",
+  "fx": "Praia Clube v Osasco VC",
+  "sport": "volleyball",
+  "absences": "not checked (women's fixture)",
+  "context": "Women's Superliga round 9 at Ginasio do UTC, Uberlandia. Praia 4th (17 pts), Osasco 5th (15 pts); direct duel for the top places.",
+  "news": "Women's fixture; sources disagree on start time (18h30 vs 21h BRT), 21h said to be confirmed by CBV and Praia Clube.",
+  "veto": true,
+  "veto_reason": "Women's fixture (no picks) and kick-off time conflict between sources (18h30 vs 21h BRT).",
+  "picks": [],
+  "avoid": "All markets (women's rule).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.otempo.com.br/sports/volei/2026/11/27/praia-clube-e-osasco-fazem-duelo-direto-para-colar-nos-lideres-da-superliga",
+   "https://agendadopoder.com.br/praia-clube-osasco-superliga-feminina/"
+  ]
+ },
+ {
+  "eid": "sr:match:73535954",
+  "fx": "Arizona State Sun Devils v Kansas Jayhawks",
+  "sport": "volleyball",
+  "absences": "not checked (women's fixture)",
+  "context": "NCAA women's, Big 12 regular-season finale in Tempe, 7pm MST (=02:00 UTC, matches). No. 9 ASU (23-4, 14-2) v No. 16 Kansas, who went five sets at Arizona on Nov 25 (fatigue on a Wed-Fri swing); ASU beat K-State 3-1 on Nov 25.",
+  "news": "Kansas on second leg of Arizona road swing after a five-setter.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's/NCAA rule).",
+  "confidence": 0.1,
+  "sources": [
+   "https://kuathletics.com/news/2026/11/24/womens-volleyball-no-16-kansas-closes-out-big-12-play-with-matches-against-arizona-no-9-arizona-state",
+   "https://kuathletics.com/news/2026/11/25/womens-volleyball-kansas-battles-to-five-set-win-over-arizona",
+   "https://www.kstatesports.com/sports/womens-volleyball/stats/2026/arizona-state/boxscore/19272"
+  ]
+ },
+ {
+  "eid": "sr:match:77244686",
+  "fx": "Imperia-Pro v Lions-Pro",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Russia \"Pro League\" short-format competition; no web coverage of these teams; house prices every game 50/50.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: no information, coin-flip pricing, possibly a betting-only format.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72779794",
+  "fx": "Suntory Sunbirds Osaka v Wolfdogs Nagoya",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV League men round 6, 13:05 JST. Top-of-table clash: 3rd Suntory v 2nd Wolfdogs Nagoya, both on 6-game winning runs, last round before the Emperor's Cup in December.",
+  "news": "Both on six-match win streaks.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip ML, big-club clash.",
+  "confidence": 0.15,
+  "sources": [
+   "https://volleyballking.jp/article/97791/",
+   "https://en.volleyballworld.com/volleyball/competitions/svleague-men/standings/"
+  ]
+ },
+ {
+  "eid": "sr:match:72779798",
+  "fx": "Voreas Hokkaido v Osaka Bluteon",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV League men, 13:05 JST at Asahikawa. Osaka Bluteon (league leaders, 9-1, best serve-receive in the league) away at Voreas (7th). Bluteon reportedly unbeaten v Voreas since the SV League began.",
+  "news": "Leaders away at mid-table Voreas.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No market in 1.18-2.2 range (Bluteon 1.06).",
+  "confidence": 0.15,
+  "sources": [
+   "https://volleyballking.jp/article/97791/",
+   "https://news.jsports.co.jp/volleyball/article/20190310240093/"
+  ]
+ },
+ {
+  "eid": "sr:match:72636518",
+  "fx": "Aleeza Aichi v Himeji Victorina",
+  "sport": "volleyball",
+  "absences": "not checked (women's fixture)",
+  "context": "SV League women; no current news found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's rule).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/japan/sv-league-women/23554"
+  ]
+ },
+ {
+  "eid": "sr:match:72636514",
+  "fx": "Marvelous v Toray Arrows",
+  "sport": "volleyball",
+  "absences": "not checked (women's fixture)",
+  "context": "SV League women; no current news found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's rule).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/japan/sv-league-women/23554"
+  ]
+ },
+ {
+  "eid": "sr:match:72636512",
+  "fx": "Okayama Seagulls v Hisamitsu Springs",
+  "sport": "volleyball",
+  "absences": "not checked (women's fixture)",
+  "context": "SV League women; Hisamitsu are defending champions; no current news found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's rule; away 1X2 also below 0.75).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/japan/sv-league-women/23554"
+  ]
+ },
+ {
+  "eid": "sr:match:77244688",
+  "fx": "Legion-Pro v Enerdzhi",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Russia \"Pro League\" short-format competition; no web coverage; house prices 50/50.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: no information.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72779792",
+  "fx": "Shinshu Matsumoto Tridents v Fragolad Kagoshima",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV League men, 28 Nov at Matsumoto (official listing \"Matsumoto TD vs F Kagoshima\"). Fragolad Kagoshima are a new entrant at 1-9 (0.6 sets/match, 1-5 away); Matsumoto 3-7.",
+  "news": "Bottom-table game; Kagoshima are the weakest side in the data.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.69478,
+    "why": "Kagoshima, a newly admitted club, are 1-9 with 0.6 sets won per match and 1-5 away; Matsumoto are weak too (3-7) but won sets regularly. Est 0.72 vs house 0.695. Low confidence: statistics plus new-entrant structure only."
+   }
+  ],
+  "avoid": "Kagoshima any market.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.svleague.jp/"
+  ]
+ },
+ {
+  "eid": "sr:match:72779790",
+  "fx": "Stings v Hokkaido Yellow Stars",
+  "sport": "volleyball",
+  "absences": "none found (club news to Nov 25 shows no absences)",
+  "context": "SV League men, 14:05 JST at Okazaki Central Park Gym. JTEKT Stings Aichi (4th) v Hokkaido Yellow Stars.",
+  "news": "No absences on Stings site.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No market in 1.18-2.2 range (Stings 1.13).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jtekt-stings.jp/match/",
+   "https://www.svleague.jp/"
+  ]
+ },
+ {
+  "eid": "sr:match:72779796",
+  "fx": "Toray Arrows v Thunders Hiroshima",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "SV League men, 14:05 JST at Kitasato Arena Fuji. Toray Arrows Shizuoka (3-7) v Hiroshima Thunders (5-5).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hiroshima ML 1.32 is an away 1X2 below p 0.75.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.toray-arrows.jp/men/game/v_league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72636508",
+  "fx": "Kurobe Aqua Fairies v Hitachi Rivale",
+  "sport": "volleyball",
+  "absences": "not checked (women's fixture)",
+  "context": "SV League women; Kurobe lead the East (7-2).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's rule).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/japan/sv-league-women/23554"
+  ]
+ },
+ {
+  "eid": "sr:match:72636510",
+  "fx": "NEC Red Rockets v Blue Cats",
+  "sport": "volleyball",
+  "absences": "not checked (women's fixture)",
+  "context": "SV League women; NEC 3rd in East, Denso Airybees 6th.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's rule).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/japan/sv-league-women/23554"
+  ]
+ },
+ {
+  "eid": "sr:match:72636516",
+  "fx": "Prestige International Aranmare v Airybees",
+  "sport": "volleyball",
+  "absences": "not checked (women's fixture)",
+  "context": "SV League women; Aranmare 0-11, Airybees 6th, both winless in last 10 per data.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets (women's rule).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/tournament/japan/sv-league-women/23554"
+  ]
+ }
+]
