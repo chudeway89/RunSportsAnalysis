@@ -1,14 +1,14 @@
 # Ticket ledger (auto-settled)
 
-Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-26 20:14 UTC. Totals: 17 won · 238 dead · 6 alive · 0 expired before settling · 97 never seen live.
+Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-11-27 04:01 UTC. Totals: 17 won · 243 dead · 5 alive · 0 expired before settling · 97 never seen live.
 
 ## Return per 1-unit stake (all settled tickets, from papertrade/ticket_ledger.jsonl; odds as first seen; 7 early wins with unrecorded odds left out)
 
 | Ticket size | Tickets | Won | Staked | Returned | ROI |
 |---|---|---|---|---|---|
-| 1-7 legs | 40 | 7 | 40 | 14.5 | -64% |
-| 8-12 legs | 29 | 3 | 29 | 25.7 | -12% |
-| 13+ legs | 179 | 0 | 179 | 0.0 | -100% |
+| 1-7 legs | 41 | 7 | 41 | 14.5 | -65% |
+| 8-12 legs | 30 | 3 | 30 | 25.7 | -14% |
+| 13+ legs | 182 | 0 | 182 | 0.0 | -100% |
 
 | Date | Code | Ticket | Legs | Result | Status | Losing legs |
 |---|---|---|---|---|---|---|
@@ -361,9 +361,13 @@ Written by `engine/settle_tickets.py` on every scheduled run. Last update 2026-1
 | 2026-11-25 | G48C1P | Wednesday night basketball 500x (22 legs, 603x, 1 in 1,593) | 22 | 13W/3L/0V/6P | DEAD | Richmond Spiders v Bethune Cookman Wildcats — 1st Half - Draw No Bet Home (86:79); New Mexico Lobos v Mississippi Valley State Delta Devils — Over/Under (incl. overtime) 159.5 Under 159.5 (100:77); Nebraska Cornhuskers v Southern University Jaguars — Over/Under (incl. overtime) 156.5 Under 156.5 (101:72) |
 | 2026-11-26 | YQE3CZ | Thursday 50x (16 legs, 1 in 79) | 16 | 5W/2L/1V/8P | DEAD | Lithuania v Serbia — Handicap (incl. overtime) -12.5 Away (+12.5) (97:78); FK Kauno Zalgiris v Riga FC — Asian Handicap -0.5 Away (+0.5) (2:0) |
 | 2026-11-26 | GYL3FM | Thursday 500x (27 legs, 1 in 1,489) | 27 | 10W/5L/1V/11P | DEAD | Lithuania v Serbia — Handicap (incl. overtime) -12.5 Away (+12.5) (97:78); FK Kauno Zalgiris v Riga FC — Asian Handicap -0.5 Away (+0.5) (2:0); Salzburg v FC Ararat-Armenia — Over/Under Over 2.5 (2:0); Abha Club v Al-Shabab FC (SA) — Over/Under Over 1.5 (0:1); FC Nizhny Novgorod v FC Tekstilshchik Ivanovo — FC Nizhny Novgorod Over/Under Over 1.5 (1:2) |
-| 2026-11-26 | XBA7QX | SGPJPT CORE (6 legs, 3.1x, 1 in 3.5) | 6 | 3W/0L/0V/3P | ALIVE |  |
+| 2026-11-26 | XBA7QX | SGPJPT CORE (6 legs, 3.1x, 1 in 3.5) | 6 | 5W/1L/0V/0P | DEAD | Lyon v Lillestroem SK — 1X2 Home (0:0) |
 | 2026-11-26 | WAEBA8 | SGPJPT EDIT (12 legs, 10.6x, 1 in 14.4) | 12 | 5W/1L/0V/6P | DEAD | Viktoria Plzen v Benfica — Draw No Bet Away (4:0) |
 | 2026-11-26 | LEGHSL | SGPJPT full 21-leg conversion (21 legs, 105.9x, 1 in 197) | 21 | 6W/2L/0V/13P | DEAD | Union Gilloise v KKS Lech Poznan — 1X2 Home (2:2); Viktoria Plzen v Benfica — Draw No Bet Away (4:0) |
+| 2026-11-26 | UB3X1X | Thursday night ~10x (8 legs, 9.7x, 1 in 15) | 8 | 4W/1L/0V/3P | DEAD | Panama v Puerto Rico — Handicap (incl. overtime) 8.5 Home (+8.5) (76:99) |
+| 2026-11-26 | R3KU43 | Thursday night basketball 500x (16 legs, 215.7x, 1 in 540) | 16 | 8W/3L/0V/5P | DEAD | Panama v Puerto Rico — Handicap (incl. overtime) 8.5 Home (+8.5) (76:99); LSU Tigers v SMU Mustangs — Over/Under (incl. overtime) 162.5 Under 162.5 (95:86); TCU Horned Frogs v Creighton Bluejays — Over/Under (incl. overtime) 159.5 Under 159.5 (87:95) |
+| 2026-11-26 | M4YTT6 | Thursday night basketball 500x LOTTERY (16 legs, 516x, 1 in 1,373) | 16 | 8W/3L/0V/5P | DEAD | Panama v Puerto Rico — Handicap (incl. overtime) 8.5 Home (+8.5) (76:99); LSU Tigers v SMU Mustangs — Over/Under (incl. overtime) 162.5 Under 162.5 (95:86); TCU Horned Frogs v Creighton Bluejays — Over/Under (incl. overtime) 151.5 Under 151.5 (87:95) |
+| 2026-11-26 | T90E8R | Thursday night basketball 5000x LOTTERY (16 legs, 5,961x, 1 in 19,195) | 16 | 6W/5L/0V/5P | DEAD | Panama v Puerto Rico — Handicap (incl. overtime) 8.5 Home (+8.5) (76:99); Argentina v Bahamas — Over/Under (incl. overtime) 166.5 Under 166.5 (102:65); LSU Tigers v SMU Mustangs — Over/Under (incl. overtime) 154.5 Under 154.5 (95:86); UCLA Bruins v Saint Marys Gaels — Over/Under (incl. overtime) 151.5 Under 151.5 (70:85); TCU Horned Frogs v Creighton Bluejays — Over/Under (incl. overtime) 151.5 Under 151.5 (87:95) |
 | 2026-11-09 | MH0RLX | single Jena +8.5 v Hamburg (1.21) | 1 | 1W/0L/0V/0P | **WON** |  |
 | 2026-11-09 | NLYKCQ | single Kristiansund-Valerenga O2.5 (1.41) | 1 | 0W/1L/0V/0P | DEAD | Kristiansund BK v Vaalerenga IF — Over/Under Over 2.5 (1:0) |
 | 2026-11-09 | LT5D2C | single Botosani +0.5 v Otelul (1.35) | 1 | 1W/0L/0V/0P | **WON** |  |
