@@ -1,0 +1,528 @@
+[
+ {
+  "eid": "sr:match:72440788",
+  "fx": "FC Hertha Wels v FAC Wien",
+  "sport": "football",
+  "absences": "none found",
+  "context": "2. Liga round 14; Hertha lower half, FAC 10th (17 pts) just above relegation zone. Club announcement stresses youth players ('Nachwuchs im Mittelpunkt').",
+  "news": "Club site gives 10:30 local (09:30 UTC, matches board); a third-party schedule lists 15:30 kick-off.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (10:30 club vs 15:30 third-party schedule).",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fc-hertha.at/heimspiel-gegen-den-fac-wien-nachwuchs-im-mittelpunkt/",
+   "https://www.2liga.at/de/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:76103488",
+  "fx": "Abu Dhabi Knight Riders v Sharjah Warriors",
+  "sport": "cricket",
+  "absences": "none found; key players listed: Holder, Ajay Kumar (ADKR); Sikandar Raza (capt), Adil Rashid (SW)",
+  "context": "ILT20 season 5, 11th match, Zayed Cricket Stadium Abu Dhabi, 14:00 local (10:00 UTC, matches board).",
+  "news": "Date/venue confirmed; Cricinfo page shows a stray 'Warriorz won by 4 wickets' line while also listing match as upcoming (data artefact).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets are ~coin-flip (1.85-1.9); no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cricinfo.com/series/international-league-t20-2026-27-1557442/abu-dhabi-knight-riders-vs-sharjah-warriorz-11th-match-1557453/live-cricket-score",
+   "https://gulfnews.com/sport/ilt20-season-5-schedule-release-dubai-to-host-final-1.500701663"
+  ]
+ },
+ {
+  "eid": "sr:match:75168770",
+  "fx": "SC Escaldes v CE Carroi",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Andorra Primera Divisio (semi-pro). Both sides poor: Escaldes 1-2-7, Carroi 1-1-8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (Escaldes 1W in 10 despite 1.67 price); Unders (amateur league)",
+  "confidence": 0.1,
+  "sources": [
+   "https://ie.soccerway.com/andorra/primera-divisio/"
+  ]
+ },
+ {
+  "eid": "sr:match:76645370",
+  "fx": "FC Neman Grodno v FC Gomel",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Belarus final round (R30). Neman ~5th (49-52 pts), Gomel ~6th (46) - likely little at stake (dead-rubber risk).",
+  "news": "Fixture confirmed 29 Nov 11:00 local at Stadion Neman; standings sources disagree on points.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; final-round dead rubber, Belarus is a thin-Over league",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/belarus/vysshaya-liga/",
+   "https://en.wikipedia.org/wiki/2026_Belarusian_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:76645366",
+  "fx": "FC Torpedo Belaz Zhodino v FC Baranovichi",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Belarus final round. Torpedo-BelAZ ~8th (36), Baranovichi ~11th (31).",
+  "news": "Fixture not found in the sources checked (not a conflict, just unconfirmed).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; final-round motivation unclear",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Belarusian_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:76645368",
+  "fx": "Slavia Mozyr v FC Brest",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Belarus final round; Brest strong form (7-2-1, 2.3 gf).",
+  "news": "Fixture confirmed 29 Nov 11:00 at Stadion Junost.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "away result side 1.92 (p<0.75); final-round motivation unclear",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/belarus/vysshaya-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:73409344",
+  "fx": "Shamakhi FK v Gabala FK",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Azerbaijan Premier League round 13, Shamakhi City Stadium 14:30 local (10:30 UTC).",
+  "news": "Date/venue confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; near coin-flip",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.azernews.az/sports/267362.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72366484",
+  "fx": "St. Truidense VV v Genk",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Pro League. STVV 5-2-3 (2.2 gf) v Genk 4-2-4 (0.9 ga).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 is 1.17 (below floor); result sides near coin-flip",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fcupdate.nl/voetbalteams/belgie/sint-truiden"
+  ]
+ },
+ {
+  "eid": "sr:match:75168772",
+  "fx": "FC Penya d`Andorra v Atletic Club d'Escaldes",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Andorra Primera Divisio; Atletic Escaldes (Conference League qualifier last season) favourite.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (amateur league); result side mid-band",
+  "confidence": 0.1,
+  "sources": [
+   "https://ie.soccerway.com/andorra/primera-divisio/"
+  ]
+ },
+ {
+  "eid": "sr:match:73409348",
+  "fx": "Qarabag v Sumgayit FK",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Azerbaijan PL round 13, Azersun Arena 17:00 local. Qarabag form flat (4-5-1, 1.1 gf, three 0-0s; lost 0-1 to Turan Tovuz on Nov 6). No European fixture found this week.",
+  "news": "Date/venue confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Qarabag 1X2 1.30 and Over lines - home side's scoring has dried up; Unders below 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.azernews.az/sports/267362.html",
+   "https://www.aiscore.com/team-sabah-baku/59gklzi8rpc17xd"
+  ]
+ },
+ {
+  "eid": "sr:match:72345592",
+  "fx": "Sturm Graz v WSG Tirol",
+  "sport": "football",
+  "absences": "Sturm: Khudyakov (season), Mamageishvili, Weiper, Kiteishvili, Rozga, Jatta, Soglo out. WSG: Sabitzer, Bambara, Butler out.",
+  "context": "Bundesliga R14. Sturm in crisis: 2-2-6 last 10, conceding 2.1/g.",
+  "news": "FotMob lists seven Sturm absentees including Kiteishvili and Weiper.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sturm result sides/DNB (fragile favourite: 2 wins in 10 with seven absentees); integer Over 2",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fotmob.com/matches/wsg-tirol-vs-sturm-graz/141gfe?player=883480#3410605"
+  ]
+ },
+ {
+  "eid": "sr:match:72345596",
+  "fx": "SV Ried v TSV Hartberg",
+  "sport": "football",
+  "absences": "Ried: only long-term Goiginger out (full first-choice group). Hartberg: 'thinned defence'.",
+  "context": "Bundesliga R14, 'duel of surprise teams': Hartberg 4th, Ried 6th, both chasing the championship group. Hartberg won the last 7 H2H.",
+  "news": "Ried full strength; Hartberg arrive with defensive absences; both sides average 4+ goals per game in their last 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.56,
+    "p": 0.6085,
+    "why": "Both sides attack-heavy (Ried 2.6 gf / 1.9 ga, Hartberg 2.5 / 1.7; 9 of 12 last games over 2.5) and Hartberg's defence is depleted; own p 0.64"
+   }
+  ],
+  "avoid": "Ried result side (Hartberg 7-0 in recent H2H)",
+  "confidence": 0.25,
+  "sources": [
+   "https://tipsterio.de/sportwetten-tipps/sv-ried-vs-tsv-hartberg-wett-tipp-prognose-29-11-2026",
+   "https://www.oe24.at/a/sv-ried-empfaengt-tsv-hartberg-duell-der-ueberraschungsteams-900137182",
+   "https://www.flashscore.de/news/fussball-bundesliga-vorschau-salzburg-bittet-lask-zum-tanz-rapid-im-landle/bcXVi3jS/"
+  ]
+ },
+ {
+  "eid": "sr:match:75881476",
+  "fx": "FC Pyunik Yerevan v Ararat Yerevan FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Armenian PL; a Yerevan city derby. Pyunik 7-3-0 (3.0 gf); Ararat 2-3-5. Last H2H 6-2.",
+  "news": "no news found for this fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result side (city derby); +2.5/+3 catches (rout class)",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Armenian_Premier_League"
+  ]
+ },
+ {
+  "eid": "sr:match:75946870",
+  "fx": "Al-Najma Manama v Al-Muharraq SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bahrain PL matchweek 8; Muharraq defending champions, ~3rd-4th; Najma ~8th.",
+  "news": "Sources give kick-off as 07:00, 10:00 and 15:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict across three sources.",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesoccertv.com/match/muharraq-vs-al-najma/oil07#4175612",
+   "https://www.ysscores.com/en/match/6505160/Al-Najma-vs-Muharraq-SC"
+  ]
+ },
+ {
+  "eid": "sr:match:72366476",
+  "fx": "Royal Antwerp FC v RSC Anderlecht",
+  "sport": "football",
+  "absences": "Antwerp: Cortes suspended, Frey (muscle) out, Somers out, Renders not fully fit; three red cards in last six. Anderlecht: no list found.",
+  "context": "Pro League big-club clash; Antwerp 2-2-6, coach Compper criticised Anderlecht in the press.",
+  "news": "Antwerp short of a striker and centre-back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (big-club clash rule) although Antwerp are depleted",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalfocus.be/antwerp-frey-renders-anderlecht-selectie/",
+   "https://www.voetbalkrant.com/nieuws/2026-11-27/antwerp-coach-marvin-compper-haalt-stevig-uit-voor-anderlecht-heb-je-dat-ooit-al-gezien"
+  ]
+ },
+ {
+  "eid": "sr:match:72302230",
+  "fx": "Royal Excelsior Virton v FCV Dender EH",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Challenger Pro League MD12, 16:00 local at Yvan Georges. Dender among the leaders (6-2-2, 0.7 ga); Virton ~5th.",
+  "news": "Date/time confirmed by DH and Sporza.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dender away 1X2 2.05 (p<0.75)",
+  "confidence": 0.15,
+  "sources": [
+   "https://sporza.be/nl/matches/voetbal/challenger-pro-league/2026-2027/regulier/12/royal-excelsior-virton-dender~1781866807454/",
+   "https://infosports.dhnet.be/football/challenger-pro-league/resultats-et-classements"
+  ]
+ },
+ {
+  "eid": "sr:match:75168774",
+  "fx": "FC Ordino v FC Santa Coloma",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Andorra; FC Santa Coloma (8-1-1, 3.1 gf) at Ordino (7th last season).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Santa Coloma win 1.10 (below floor); Unders (amateur league)",
+  "confidence": 0.1,
+  "sources": [
+   "https://ie.soccerway.com/andorra/primera-divisio/"
+  ]
+ },
+ {
+  "eid": "sr:match:72345594",
+  "fx": "Salzburg v LASK Linz",
+  "sport": "football",
+  "absences": "Salzburg: Tabakovic (knee, out for the year), D. Schmid (knee), Omoregie, Boma, Mellberg, Kitano; coach Rohl may be banned. LASK: Bello, Harakate, Andrade out.",
+  "context": "Bundesliga R14 top match, 'Verfolgerduell'; LASK on five straight wins.",
+  "news": "Salzburg have heavy absences including their striker Tabakovic.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Salzburg result side; big-club totals need p>=0.82 (Over 2.5 is 0.67)",
+  "confidence": 0.2,
+  "sources": [
+   "https://tipsterio.de/sportwetten-tipps/fc-red-bull-salzburg-vs-lask-wett-tipp-prognose-29-11-2026",
+   "https://www.weekend.at/sport/dominik-schmid-knieverletzung-red-bull-salzburg",
+   "https://www.ligaportal.at/bundesliga/allgemein/23072-um-big-points-fc-red-bull-salzburg-empfaengt-champions-league-teilnehmer-lask"
+  ]
+ },
+ {
+  "eid": "sr:match:72814316",
+  "fx": "KF Egnatia Rrogozhine v Af Elbasani",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Albanian Superiore R13; Egnatia (champions) lead with 24 pts after 10, Elbasani 14.",
+  "news": "Albanian outlets: Sun 29 Nov 18:30 local at Arena Egnatia; 365scores: Sat 28 Nov 17:00.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (28 Nov vs 29 Nov).",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://kohajone.com/sporti/java-e-13-te-e-superiores-nis-me-tirana-skenderbeu-ja-kalendari-i-ndeshjeve/",
+   "https://www.365scores.com/en-us/football/match/abissnet-superiore-5794/af-elbasani-kf-egnatia-49773-77937-5794"
+  ]
+ },
+ {
+  "eid": "sr:match:72366468",
+  "fx": "Standard Liege v Club Brugge",
+  "sport": "football",
+  "absences": "Standard: Karamoko suspended (red v Lommel); Homawoo, Fossey, El Hankouri out; Zeqiri fit, C. Nielsen doubtful. Brugge: Ordonez and Virgili listed out by bet365, WhoScored says clean bill (conflict).",
+  "context": "Big-club clash. Brugge played the Champions League midweek (lost 0-3 at home to Liverpool), <=4 days' rest. Standard two wins in a row.",
+  "news": "Brugge come off a UCL loss on short rest; their injury reports conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (big-club clash plus European rotation); Over 1.5 1.13 below floor",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.whoscored.com/matches/1985790/preview/belgium-jupiler-pro-league-2026-2027-standard-liege-club-brugge",
+   "https://news.bet365.nl/nl-nl/article/standard-club-brugge-wedtips-mogelijke-opstellingen-en-waar-te-kijken/2026112705263326484"
+  ]
+ },
+ {
+  "eid": "sr:match:72366480",
+  "fx": "Union Gilloise v Gent",
+  "sport": "football",
+  "absences": "Union: Biondic (ankle), Hurtevent, Kricfaluši, Schoofs (knocks), K. Mac Allister (ACL). Gent: Ngom (ACL).",
+  "context": "Pro League. Union unbeaten in 10 (7-3-0, 0.8 ga); Gent 4-2-4 and poor away (0-1, 0-0, 0-2).",
+  "news": "Union missing some squad players, but the core is intact.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8166,
+    "why": "Union unbeaten in 10 (7-3-0, 0.8 conceded), Gent have scored once in their last three away games; Union's absentees are rotation-level players; DNB removes the draw; own p 0.83 (European midweek status unverified)"
+   }
+  ],
+  "avoid": "Gent Under 1.5 team total (p 0.79 < 0.82)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fotmob.com/matches/union-stgilloise-vs-gent/2o4ogg"
+  ]
+ },
+ {
+  "eid": "sr:match:72302232",
+  "fx": "Sporting Hasselt v RFC Liege",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Challenger Pro League MD12, 19:15 local at Stedelijk Sportstadion. Liege near the bottom (2-2-6, 2.3 ga); Hasselt 1.6 gf / 1.9 ga.",
+  "news": "Date/time confirmed by DH and Sporza.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.44,
+    "p": 0.6555,
+    "why": "Both defences leak (Hasselt 1.9 ga, Liege 2.3 ga); 9 of the two sides' last 12 games went over 2.5 (Hasselt 5/6); own p 0.68"
+   }
+  ],
+  "avoid": "Liege +1.5 catch",
+  "confidence": 0.2,
+  "sources": [
+   "https://infosports.dhnet.be/football/challenger-pro-league/resultats-et-classements",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Challenger_Pro_League"
+  ]
+ },
+ {
+  "eid": "sr:match:75168776",
+  "fx": "Inter Club de Escaldes v CE Casa de Portugal",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Andorra; Inter Escaldes are reigning champions; Casa de Portugal concede 2.2 per game.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (amateur); Inter -1.5 mid-band",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Primera_Divisi%C3%B3"
+  ]
+ },
+ {
+  "eid": "sr:match:75449116",
+  "fx": "Club Aurora v The Strongest",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bolivia late season (runs to 13 Dec); The Strongest ~3rd, Aurora ~4th.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_FBF_Divisi%C3%B3n_Profesional"
+  ]
+ },
+ {
+  "eid": "sr:match:77075764",
+  "fx": "CA Rosario Central v CA Barracas Central",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Clausura 2026 QUARTER-FINAL, single leg at Gigante de Arroyito, 17:00 local (20:00 UTC, matches board), ref Dovalo. Rosario unbeaten in 11 (six straight wins) and beat Gimnasia Mendoza 3-1; Barracas unbeaten in 8 and beat Defensa 1-0. Rosario won the league meeting 1-0 away in August.",
+  "news": "Date/time confirmed by AFA, ESPN and Cadena 3.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "90-minute result sides (knockout rule). To Qualify Home 1.19 (p 0.80) is the only allowed result instrument, but there is no aggregate cushion; Under 3.5 1.22 (p 0.79 < 0.82)",
+  "confidence": 0.2,
+  "sources": [
+   "https://espndeportes.espn.com/futbol/argentina/nota/_/id/17565868/rosario-central-vs-barracas-torneo-clausura-cuartos-de-final-equipo-fecha-hora-tv-en-vivo",
+   "https://www.cadena3.com/noticia/deportes-rosario/central-busca-dar-otro-paso-hacia-el-titulo-como-llega-al-cruce-con-barracas_617159"
+  ]
+ },
+ {
+  "eid": "sr:match:77124612",
+  "fx": "CD Armenio v Arsenal de Sarandi",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera B reducido SEMI-FINAL first leg (return 5 Dec). Sources conflict on the previous round's aggregate (3-2 vs 6-4).",
+  "news": "Stage reported inconsistently across sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (knockout, thin league; Under 3.5 p 0.81 < 0.82)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/es/football/league/primera-b-metropolitana-5077/standings",
+   "https://es.wikipedia.org/wiki/Campeonato_de_Primera_B_2026_(Argentina)"
+  ]
+ },
+ {
+  "eid": "sr:match:77124610",
+  "fx": "Deportivo Camioneros v CA Talleres de Remedios",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera B reducido SEMI-FINAL first leg (return 5 Dec).",
+  "news": "no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (knockout, thin league; Under 3.5 1.15 below floor)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/es/football/league/primera-b-metropolitana-5077/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:77059342",
+  "fx": "AD Berazategui v CS Barracas",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera C reducido SEMI-FINAL second leg; Berazategui lead 3-1 from the first leg.",
+  "news": "AFA agenda: 17:00 local (20:00 UTC, board); 365Scores lists 18:30.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict (AFA 17:00 vs 365Scores 18:30).",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.afa.com.ar/es/posts/agenda-y-arbitrajes-para-las-proximas-jornadas-de-primera-nacional-primera-b-y-primera-c",
+   "https://www.promiedos.com.ar/league/primera-c/ffjb"
+  ]
+ },
+ {
+  "eid": "sr:match:77059340",
+  "fx": "Canuelas FC v Club Estrella Del Sur (Alejandro Korn)",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera C reducido SEMI-FINAL second leg; Estrella del Sur lead 3-2 (came from 0-2 down in stoppage time).",
+  "news": "AFA agenda: 17:00 local; 365Scores lists 18:30.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict (AFA 17:00 vs 365Scores 18:30).",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soloascenso.com.ar/notas/afa/jueces-confirmados-para-las-semifinales-del-reducido-en-la-c/234537",
+   "https://www.365scores.com/es-mx/football/match/primera-c-5591/canuelas--estrella-del-sur-11945-79151-5591"
+  ]
+ },
+ {
+  "eid": "sr:match:75449118",
+  "fx": "Club Bolivar v Always Ready",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bolivian TITLE DECIDER: Bolivar 1st (60 pts) v Always Ready 2nd (57) per the latest ESPN table. Bolivar 4-0-0 at home (0.25 ga); Always Ready unbeaten in 10.",
+  "news": "No November reports found; table snapshot is undated.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (big-club clash); totals need p>=0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/team/_/id/2681/bolivar",
+   "https://correodelsur.com/deporte/20261019/bolivar-gano-y-es-el-unico-lider-gracias-a-la-derrota-de-always-ready.html"
+  ]
+ }
+]
