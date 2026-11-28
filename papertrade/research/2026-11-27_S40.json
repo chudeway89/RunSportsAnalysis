@@ -1,0 +1,532 @@
+[
+ {
+  "eid": "sr:match:76445418",
+  "fx": "Varbergs BoIS v Ostersunds FK",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Allsvenskan qualification (kval) 2nd leg, knockout 90-min settlement. Varberg (Superettan) lead 2-0 from 1st leg at Ostersund (Winbo 44', Bryneus 89'). Ostersund must win by 2+ to force ET. Winner meets Allsvenskan 14th on Dec 3/6. Varberg's Paskbergsvallen failed pitch inspection: game moved to Finnvedsvallen, Varnamo (neutral ground, no real home edge). KO 13:00 CET = 12:00 UTC matches board.",
+  "news": "Varberg lead 2-0; return leg moved to Varnamo (Finnvedsvallen) because Varberg's pitch failed inspection; Ostersund must chase.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.35,
+    "p": 0.705104,
+    "why": "Ostersund team to score: must win by 2, so they chase all game v a side protecting a lead on a neutral pitch; low-scoring profile (0.7 gf) caps it. My p 0.72."
+   }
+  ],
+  "avoid": "All result-sides (knockout, neutral venue); Unders (p<0.82, chase game state); integer O/U 2.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.svenskfotboll.se/nyheter/serier/2026/11/allsvenskan-fordel-varberg/",
+   "https://hurbra.se/varberg-ostersund-tv-28-november-2026/",
+   "https://www.tvmatchen.nu/sport/fotboll/ostersund-varberg-0-2-kval-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:76716210",
+  "fx": "Orebro SK v Enkopings SK",
+  "sport": "football",
+  "absences": "none named",
+  "context": "Superettan qualification 2nd leg (knockout). Orebro (13th Superettan) won 4-2 away at Enavallen; Enkoping (2nd Ettan Norra) must win by 3 to advance outright / by 2 to force ET. Home at Behrn Arena, KO 13:00 CET = 12:00 UTC matches board.",
+  "news": "Orebro lead 4-2 from 1st leg; Enkoping must attack at Behrn Arena.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.49,
+    "p": 0.6388888904,
+    "why": "Enkoping must score 2-3 to survive and leave space; 1st leg produced 6 goals and both sides average 1.6-1.7 gf/1.3-1.4 ga. My p 0.66."
+   }
+  ],
+  "avoid": "Result-sides (knockout; Orebro DNB 1.15 below floor); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.svenskfotboll.se/nyheter/serier/2026/11/superettan-esk-osk/",
+   "https://esk.nu/2026/11/09/esk-moter-orebro-sk-i-kvalet-till-superettan/",
+   "https://www.tvmatchen.nu/sport/fotboll/kval-superettan-2026-resultat-21-november/"
+  ]
+ },
+ {
+  "eid": "sr:match:76582216",
+  "fx": "Norrby IF v Lunds BK",
+  "sport": "football",
+  "absences": "none named",
+  "context": "Superettan qualification 2nd leg (knockout, decider). 1st leg Lunds BK 1-1 Norrby (Alexander Nilsson for Lund). Norrby (Superettan) at Boras Arena, 14:00 UTC matches board. Norrby poor form (1W in 10); Lund 5W in 10. Level tie - may go to ET but markets settle at 90'.",
+  "news": "Tie level 1-1 after 1st leg in Lund; return at Boras Arena 28 Nov 14:00 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.33,
+    "p": 0.716367,
+    "why": "Level decider, Norrby concede 1.8/game and Lund score 1.6; neither can sit on a draw for 90 min. My p 0.73."
+   }
+  ],
+  "avoid": "Result-sides (knockout, Norrby fragile favourite at 0.51); Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://skanesport.se/2026/11/21/lundastjarnorna-efter-forsta-kvalmatchen-mot-norrby-vi-har-goda-chanser/",
+   "https://www.fotmob.com/matches/norrby-vs-lunds-bk/jypes"
+  ]
+ },
+ {
+  "eid": "sr:match:73555410",
+  "fx": "CD Praviano v Astur CF",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 2 (Asturias). Astur winless in last 10 (0-6-4, 0.8 gf).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 1.48 is stats-only (Astur winless) with no named mechanism; DNB 1.16 below floor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_II_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:73553862",
+  "fx": "Pontevedra CF B v Celtiga CF",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 1 (Galicia). Pontevedra B is a reserve side (no picks). Celtiga 0-0 v Lalin on Nov 22; xtra-stats lists the fixture as Celtiga v Pontevedra II on 28 Nov 15:00 - home/away ordering unclear.",
+  "news": "Fixture listed by one source with Celtiga first (possible home/away conflict); reserve side.",
+  "veto": true,
+  "veto_reason": "Possible venue (home/away) conflict between sources + reserve side.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.xtra-stats.com/es/futbol/liga/tercera-division-rfef-group-1",
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_I_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:73586694",
+  "fx": "Atletico Santa Cruz v CD Algar",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 13 (Murcia). Santa Cruz 6-3-1 v Algar 3-0-7 (2.1 ga). Home 1.17 and O1.5 1.17 below 1.18 floor.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home win 1.17/O1.5 1.17 (sub-floor padding).",
+  "confidence": 0.15,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:73563064",
+  "fx": "CD Agoncillo v CDFC La Calzada",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 16 (La Rioja). futbolme jornada 13 page lists Agoncillo v La Calzada on Sunday 29 Nov 2026; board has Sat 28 Nov 15:00 UTC.",
+  "news": "Date conflict: listing shows Sunday 29 Nov vs board 28 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict (29 Nov in futbolme listing vs 28 Nov on board).",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-16/3081/jornada/13"
+  ]
+ },
+ {
+  "eid": "sr:match:73586690",
+  "fx": "SFC Minerva v UCAM Murcia II",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 13. UCAM Murcia II is a reserve side (2026-27 list shows 'UCAM Murcia C' - naming inconsistency). Minerva 2W in 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side involved: no result picks; away 1X2 p 0.53 < 0.75.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:73560470",
+  "fx": "CD Toledo Sad v CD Torrijos",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 18 (Castilla-La Mancha). Toledo province derby; Toledo not in the top 3 of the 2026-27 table snapshot (Manchego, Villarrobledo, Tarancon).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.28 - provincial derby, no result-side.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.maratonfutbol.com/competiciones-oficiales/tercera-federacion-grupo-18-castilla-la-mancha-2026-2027?view=standings",
+   "https://surcoclm.com/noticias-por-secciones/deportes/el-manchego-afianza-el-liderato-del-grupo-18-de-tercera-federacion-tras-la-jornada-11/"
+  ]
+ },
+ {
+  "eid": "sr:match:73560482",
+  "fx": "CF La Solana v Villarrubia CF",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 18. La Solana low-scoring (0.9/0.9); Villarrubia 5-2-3.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.40; Unders banned in amateur.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.maratonfutbol.com/competiciones-oficiales/tercera-federacion-grupo-18-castilla-la-mancha-2026-2027?view=standings",
+   "https://surcoclm.com/noticias-por-secciones/deportes/el-manchego-afianza-el-liderato-del-grupo-18-de-tercera-federacion-tras-la-jornada-11/"
+  ]
+ },
+ {
+  "eid": "sr:match:73557228",
+  "fx": "CD Aurrera de Vitoria v CD Derio",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 4 (Basque). Early Nov: Aurrera beat Santurtzi 2-1; Derio 3rd after a 2-3 win at Pasaia. Near-even top-half clash.",
+  "news": "Both in form (Derio 3rd early Nov); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip result market.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.radionervion.com/2026/11/02/la-jornada-de-los-equipos-de-bizkaia-el-arenas-sigue-de-dulce-y-quejas-en-portugalete/"
+  ]
+ },
+ {
+  "eid": "sr:match:73582226",
+  "fx": "Atletico Bembibre v UD Santa Marta",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 8 (Castilla y Leon). Calendar places Bembibre v Santa Marta on Sunday 29 Nov at 13:00; board has Sat 28 Nov 15:30 UTC. Bembibre's Nov 15 home game v Jupiter Leones was postponed for a waterlogged pitch.",
+  "news": "Date/KO conflict (Sun 29 Nov 13:00 vs board Sat 15:30 UTC); pitch problems at Bembibre.",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict and pitch postponement risk.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/equipo/atletico-bembibre/652/calendario/3068/tercera-federacion-grupo-8",
+   "https://queverenponferrada.com/bembibre-jupiter-leones-jornada-11/"
+  ]
+ },
+ {
+  "eid": "sr:match:73560476",
+  "fx": "CD Manchego Ciudad Real v CD Tarancon",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 18 top-of-table: Manchego Ciudad Real leaders (21 pts/9 per Maraton snapshot; 8-0-2 at home form), Tarancon 3rd (15).",
+  "news": "Leader v 3rd; Manchego firmed up the lead at jornada 11 (2-1 v CD Villa).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Top-of-table clash: home 1X2 1.88 p 0.49 not short enough; DNB 1.37 stats-only.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.maratonfutbol.com/competiciones-oficiales/tercera-federacion-grupo-18-castilla-la-mancha-2026-2027?view=standings",
+   "https://surcoclm.com/noticias-por-secciones/deportes/el-manchego-afianza-el-liderato-del-grupo-18-de-tercera-federacion-tras-la-jornada-11/"
+  ]
+ },
+ {
+  "eid": "sr:match:73557220",
+  "fx": "SD Leioa v CD Santurtzi KE",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 4: Leioa were leaders in early Nov after a 2-3 derby win at Erandio; 2.8 gf/game, 6-3-1. Santurtzi lower half, 3-0-7, lost 2-1 at Aurrera.",
+  "news": "Leioa group leaders (early Nov); Santurtzi lower half.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.7662943536,
+    "why": "Leader Leioa score 2.8/game (last 6: 1-1,1-3,4-2,3-2,3-0,2-2 - 5 of 6 had 2+), Santurtzi concede 1.2 and lose 7/10. Amateur thin-league caution. My p 0.78."
+   }
+  ],
+  "avoid": "Unders; Leioa 1X2 1.61 (stats-only).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.radionervion.com/2026/11/02/la-jornada-de-los-equipos-de-bizkaia-el-arenas-sigue-de-dulce-y-quejas-en-portugalete/"
+  ]
+ },
+ {
+  "eid": "sr:match:73584748",
+  "fx": "CF Platges de Calvia v UD Alcudia",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 11 (Balearics). Calvia 8-0-2, Alcudia 4-0-6 (1.8 ga). Mallorca island fixture.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "DNB 1.16 below floor; home 1.47 stats-only.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ultimahora.es/deportes/resultados/futbol/tercera-division-grupo-madrid.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73564424",
+  "fx": "CD Zafra v CD Santa Amalia",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 14 (Extremadura). Both poor (Zafra 2-4-4, Santa Amalia 1-5-4).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:73556512",
+  "fx": "CD Elemental Atletico Mineros v CD Laredo",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 3 (Cantabria). Laredo near the top (2nd in one listing), Mineros mid-table.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.61 < 0.75.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/000-tercera-federacion-grupo-03/3063/jornada/13"
+  ]
+ },
+ {
+  "eid": "sr:match:73581394",
+  "fx": "Mexico FC v Rayo Ciudad Alcobendas",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 7 (Madrid). Both 1-4-5 in last 10, both leaky (2.0/2.2 ga).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.rffm.es/competicion/calendario?temporada=22&tipojuego=1&competicion=26738226&grupo=26738227"
+  ]
+ },
+ {
+  "eid": "sr:match:73555412",
+  "fx": "L'Entregu CF v UC Ceares",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 2 (Asturias). Both poor (2-2-6 / 1-3-6) and low-scoring.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_II_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:73556500",
+  "fx": "SD Atletico Albericia v CD Guarnizo",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 3 (Cantabria). Guarnizo lower table (12th in one listing).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.9 p 0.49.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/000-tercera-federacion-grupo-03/3063/jornada/13"
+  ]
+ },
+ {
+  "eid": "sr:match:73577784",
+  "fx": "CF Vilanova I LA Geltru v CP San Cristobal",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 5 (Catalonia). San Cristobal conceding 2.3/game, 3-1-6.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.78 stats-only.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-5/3070/"
+  ]
+ },
+ {
+  "eid": "sr:match:73555748",
+  "fx": "UP Langreo v CD Mosconia",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 2. Mosconia were near the top early (11 pts/5 games); Langreo 8. Asturian coalfield rivalry.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-side (regional rivalry).",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Tercera_Federaci%C3%B3n_-_Grupo_II_2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:73556502",
+  "fx": "Tropezon v CD Cayon",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 3. Top-table clash: Tropezon (7-2-1, 0.7 ga) v Cayon (6-3-1, 0.6 ga).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders banned (amateur); result coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/000-tercera-federacion-grupo-03/3063/jornada/13"
+  ]
+ },
+ {
+  "eid": "sr:match:73581396",
+  "fx": "CD Colonia Moscardo v CF Trival Valderas Alcoron",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 7 (Madrid).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.rffm.es/competicion/calendario?temporada=22&tipojuego=1&competicion=26738226&grupo=26738227"
+  ]
+ },
+ {
+  "eid": "sr:match:73582936",
+  "fx": "CF Motril v UD Melilla",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 9 (Andalusia/Melilla). Both 6-3-1. Melilla relegated from Segunda Federacion in 2025-26; Motril were 2nd last season. No source confirms the date.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Top-table clash; no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/UD_Melilla",
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-9/3079/"
+  ]
+ },
+ {
+  "eid": "sr:match:73577774",
+  "fx": "UE Cornella v CF Montanesa",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 5. Cornella (Messi-owned since Apr 2026) poor form 2-4-4; Montanesa solid 0.8 ga.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.71 contradicted by form.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-5/3070/",
+   "https://en.wikipedia.org/wiki/UE_Cornell%C3%A0"
+  ]
+ },
+ {
+  "eid": "sr:match:73563066",
+  "fx": "Yague CF v SD Oyonesa",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 16 (Castile and Leon/La Rioja group). Oyonesa 6-3-1. Jornada 13 date not confirmed for this game (the group listing has Sunday 29 Nov for jornada 13).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.48 < 0.75.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-16/3081/jornada/13"
+  ]
+ },
+ {
+  "eid": "sr:match:73577772",
+  "fx": "UE San Juan Atletico de Montcada v CF Badalona",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 5. Montcada were Lliga Elit champions 2025-26 (promoted side); Badalona 5-2-3.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.48.",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-5/3070/"
+  ]
+ },
+ {
+  "eid": "sr:match:73582944",
+  "fx": "Atletico Malagueno v UDC Torredonjimeno",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 9. Atletico Malagueno is Malaga's reserve side. Tribuna lists the game on 29 Nov 2026 at Ciudad Deportiva MCF; board has 28 Nov 18:00 UTC.",
+  "news": "Date conflict: Tribuna lists 29 Nov vs board 28 Nov; reserve side.",
+  "veto": true,
+  "veto_reason": "Date conflict (29 Nov vs 28 Nov) + reserve side.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://tribuna.com/es/match/ciudad-de-torredonjimeno-vs-malaga-ii/"
+  ]
+ },
+ {
+  "eid": "sr:match:73553864",
+  "fx": "CD Lalin v CD Boiro",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish Tercera Federacion (5th tier, amateur/regional): Unders banned; Overs thin. Group 1 (Galicia). Boiro lead the group (26 pts after 12, won 6-2 on Nov 22); Lalin 19 pts. Siguetuliga lists Lalin v Boiro on Sunday 29 Nov; board has Sat 28 Nov 19:00 UTC.",
+  "news": "Date conflict: Siguetuliga lists Sunday 29 Nov vs board 28 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict (29 Nov in Siguetuliga vs 28 Nov on board).",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.siguetuliga.com/equipo/cd-lalin",
+   "https://www.xtra-stats.com/es/futbol/liga/tercera-division-rfef-group-1",
+   "https://calfixture.com/es/competiciones/espana/tercera-federacion-grupo-1/"
+  ]
+ }
+]
