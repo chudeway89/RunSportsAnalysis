@@ -1,0 +1,525 @@
+[
+ {
+  "eid": "sr:match:72986470",
+  "fx": "Nordenskov UIF v Vk Vestsjaelland",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Danish VolleyLigaen men; coin-flip (1.87/1.87). Vestsjaelland 1-3 away.",
+  "news": "Kick-off conflict: direktesport lists 12:25 local, volleyligaen club page 13:30 local (board 12:30 UTC = 13:30 CET).",
+  "veto": true,
+  "veto_reason": "kick-off time conflict between sources",
+  "picks": [],
+  "avoid": "all markets - coin-flip and time conflict",
+  "confidence": 0.1,
+  "sources": [
+   "https://direktesport.dk/volleyball",
+   "https://volleyligaen.dk/klubber/nordenskov-uif/"
+  ]
+ },
+ {
+  "eid": "sr:match:72986894",
+  "fx": "Team Koge v ASV Elite",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; ASV Elite 1.01 heavy favourite.",
+  "news": "Women's fixture; direktesport lists 12:55 local vs board 13:00 UTC (14:00 local) - time conflict.",
+  "veto": true,
+  "veto_reason": "women's + kick-off time conflict",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://direktesport.dk/volleyball"
+  ]
+ },
+ {
+  "eid": "sr:match:74974896",
+  "fx": "GSK Iraklis v AON Amazones",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Greek women's Pre League; Amazones top of table after R6.",
+  "news": "Iraklis club calendar lists 28/11 away v Navarchou Votsi and Iraklis v Amazones on 19/12 - fixture/date conflict.",
+  "veto": true,
+  "veto_reason": "date conflict: club calendar has this pairing on 19/12",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://iraklis.club/2026/09/15/to-programma-tou-irakli-sti-pre-league-gynaikon/",
+   "https://greekvolley.gr/pre-league-gynaikon-stin-koryfi-oi-amazones-meta-ti-niki-epi-tou-porfyra/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114110200",
+  "fx": "Volley YoungStars Friedrichshafen v Baden Volleys SSC Karlsruhe II",
+  "sport": "volleyball",
+  "absences": "n/a",
+  "context": "YoungStars = VfB Friedrichshafen development (youth) side v Karlsruhe reserves; YoungStars pointless, Karlsruhe third from bottom.",
+  "news": "Preview confirms Sat 14:30 local (13:30 UTC); youth v reserve fixture, no markets on board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth/reserve - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.schwaebische.de/regional/bodensee/friedrichshafen/youngstars-belohnen-trainingsfleiss-mit-weiterem-sieg-4345506"
+  ]
+ },
+ {
+  "eid": "sr:match:72521582",
+  "fx": "Kyky-Betset v Tiikerit",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Bottom clash: KyKy-Betset 7th (1-6), Tiikerit 8th (2-6), both on long losing runs; Tiikerit won reverse 3-2; all-time H2H 10-5 Tiikerit.",
+  "news": "Played at Arsi Areena, Perho, 17:00 local (=15:00 UTC) - consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result markets - coin-flip between two losing teams",
+  "confidence": 0.15,
+  "sources": [
+   "https://mestaruusliiga.fi/uutiset/kyky-betset-kohtaa-tiikerit-perhossa/"
+  ]
+ },
+ {
+  "eid": "sr:match:72523374",
+  "fx": "Arctic Volley v Salon Viesti",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; Arctic Volley v LP Viesti.",
+  "news": "Arctic Volley fixture page confirms Sat 28.11 17:00 local (15:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://arcticvolley.fi/mestaruusliiga/otteluohjelma/"
+  ]
+ },
+ {
+  "eid": "sr:match:72523376",
+  "fx": "Liigaploki v Orpo",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; neither LiigaPloki nor OrPo appears in the 2026-27 women's Mestaruusliiga club list; both teams 1-9/2-8 last 10 yet house 1.24 favourite.",
+  "news": "Could not verify the fixture or that these clubs are in the league - data conflict.",
+  "veto": true,
+  "veto_reason": "fixture/teams unverifiable (data_conflict), women's",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://mestaruusliiga.fi/uutiset/pihtiputaalla-lauantaina-600-runkosarjaottelu/"
+  ]
+ },
+ {
+  "eid": "sr:match:75287536",
+  "fx": "Puma Helsinki v Jymy Volley",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; PuMa Helsinki v JymyVolley.",
+  "news": "no news found; date not confirmed by any source.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.fi/lentopallo/suomi/mestaruusliiga-naiset/otteluohjelma/"
+  ]
+ },
+ {
+  "eid": "sr:match:72521578",
+  "fx": "Hurrikaani Loimaa v Akaa Volley",
+  "sport": "volleyball",
+  "absences": "Akaa-Volley: recent illness problems reported, available roster fairly thin (no names given)",
+  "context": "Top-of-table: Hurrikaani (champions, 10-0 last 10) one point ahead of Akaa; Hurrikaani won 3-0 in Akaa in October. Akaa played a 5-setter v Raision Loimu midweek (congestion).",
+  "news": "Loimaan liikuntahalli 18:00 local (16:00 UTC) confirmed; Akaa illness-hit and coming off a midweek 5-set game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.752457,
+    "why": "Mechanism: Akaa illness-thinned roster + midweek 5-setter; Hurrikaani unbeaten 10/10 and won reverse 3-0. Own p 0.79 vs house 0.75."
+   }
+  ],
+  "avoid": "Under 4.5 sets (Under rule), Akaa +1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://mestaruusliiga.fi/uutiset/hurrikaani-ja-akaa-volley-kohtaavat-lauantaina-karkikamppailussa-loimaalla/",
+   "https://www.akaavolley.com/ottelut"
+  ]
+ },
+ {
+  "eid": "sr:match:72525068",
+  "fx": "Dresdner SC v VC Wiesbaden",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; Dresden 4th, Wiesbaden 3rd, level on 13 pts.",
+  "news": "Cyberport Arena Dresden 17:15 local (16:15 UTC) confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks; also close table match",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.dscvolley.de/",
+   "https://www.sport.de/volleyball/te35812/dresdner-sc/ergebnisse/"
+  ]
+ },
+ {
+  "eid": "sr:match:72520564",
+  "fx": "Vk Ceske Budejovice v Volejbal Brno",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; Jihostroj CB (0-10) v Selmy Brno.",
+  "news": "cvf.cz lists Jihostroj v Selmy 18:00 local (17:00 UTC) - consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://volejbalcb.cz/",
+   "https://www.cvf.cz/extraliga/extraliga-zeny?filteredGroupId=29148"
+  ]
+ },
+ {
+  "eid": "sr:match:73951276",
+  "fx": "Spacers Toulouse Volley v Paris Volley",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Ligue A (Alterna VOLSTAR) R8. Toulouse ~5-2, early leaders; lost 2-3 to Tours recently. Paris 2-8 last 10, 0-6 away.",
+  "news": "Schedule confirmed 18:00 local (17:00 UTC); no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.723772,
+    "why": "Paris 0-6 away, 2-8 last 10; Toulouse top-3. Statistical edge only (fill). Own p 0.75 vs 0.72."
+   }
+  ],
+  "avoid": "Toulouse -1.5 (Toulouse dropped sets in 3 of last 6)",
+  "confidence": 0.2,
+  "sources": [
+   "https://spikelive.fr/ligue/lam/calendrier",
+   "https://spikelive.fr/ligue/lam"
+  ]
+ },
+ {
+  "eid": "sr:match:72525072",
+  "fx": "Schwarz-Weiss Erfurt v VfB Suhl Thuringia",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; Erfurt 9th v Suhl 5th.",
+  "news": "Hessenschau lists 18:30 local (17:30 UTC) - consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/volleyball-110.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72520570",
+  "fx": "Vk Kralovo Pole v TJ Sokol Sternberk",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; Kralovo Pole v Sternberk.",
+  "news": "cvf.cz lists 18:00 local (17:00 UTC) vs board 18:00 UTC - one-hour kick-off conflict.",
+  "veto": true,
+  "veto_reason": "kick-off time conflict, women's",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cvf.cz/extraliga/extraliga-zeny?filteredGroupId=29148"
+  ]
+ },
+ {
+  "eid": "sr:match:72520562",
+  "fx": "Volejbal Prerov v TJ Sokol Frydek Mistek",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; Prerov v Frydek-Mistek, round 9.",
+  "news": "Prerov club site lists 19:00 local (18:00 UTC) - consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://volejbalprerov.cz/zapasy.asp?sezona=2027EZE"
+  ]
+ },
+ {
+  "eid": "sr:match:73951278",
+  "fx": "Plessis Robinson v St. Nazaire VB",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Ligue A R8; Plessis 2-8 last 10 v St Nazaire 4-6; near coin-flip.",
+  "news": "Schedule confirmed 19:00 local (18:00 UTC); no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result markets - close",
+  "confidence": 0.15,
+  "sources": [
+   "https://spikelive.fr/ligue/lam/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73951280",
+  "fx": "Tourcoing Lille Metropole v Stade Poitevin Poitiers",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Ligue A R8; Tourcoing (top-3 early, 7-3) v Poitiers (~4-3 this season).",
+  "news": "Schedule confirmed 19:00 local (18:00 UTC); Tourcoing won 3-1 at Royan recently; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tourcoing -1.5 (Poitiers competitive)",
+  "confidence": 0.15,
+  "sources": [
+   "https://spikelive.fr/ligue/lam/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73957974",
+  "fx": "Volero Le Cannet v Vandoeuvre Nancy Volley Ball",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; Le Cannet (9-1) v Vandoeuvre (9-1).",
+  "news": "Confirmed 19:00 local (18:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://spikelive.fr/ligue/laf/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73952382",
+  "fx": "Amsl Frejus Volley v GFC Ajaccio Volley-Ball",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Ligue B R8; Frejus v Ajaccio.",
+  "news": "Confirmed 19:00 local (18:00 UTC); no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - thin league coverage",
+  "confidence": 0.1,
+  "sources": [
+   "https://spikelive.fr/ligue/lbm/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73952384",
+  "fx": "Nancy Volley Maxeville Jarville v Martigues VB",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Ligue B R8; Grand Nancy 0-5 at home v Martigues 7-3.",
+  "news": "Confirmed 19:00 local (18:00 UTC); no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all - thin league coverage",
+  "confidence": 0.1,
+  "sources": [
+   "https://spikelive.fr/ligue/lbm/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73952380",
+  "fx": "Volley Club de Cambrai v AS Illac Volley",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Ligue B R8; Cambrai v Saint-Jean-d'Illac; near coin-flip.",
+  "news": "Confirmed 19:00 local (18:00 UTC); no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://spikelive.fr/ligue/lbm/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73951282",
+  "fx": "Arago de Sete v Narbonne Volley",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Ligue A R8; Sete v Narbonne (2-8 last 10, 1-3 away).",
+  "news": "Confirmed 19:30 local (18:30 UTC); no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "186",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.741319,
+    "why": "Narbonne 2-8 last 10, lost 5 of last 6; statistical edge only (fill). Own p 0.75 vs 0.74."
+   }
+  ],
+  "avoid": "Sete -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://spikelive.fr/ligue/lam/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73957976",
+  "fx": "Beziers Volley v Volley Mulhouse Alsace",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; Beziers lost 1-3 to Vandoeuvre last round; Mulhouse reigning champions.",
+  "news": "Schedule not found in sources; no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://spikelive.fr/ligue/laf/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73952386",
+  "fx": "FL Saint-Quentin Volleyball v Reims Volley 51",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Ligue B R8; Saint-Quentin v Reims; coin-flip.",
+  "news": "Confirmed 19:30 local (18:30 UTC); no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://spikelive.fr/ligue/lbm/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:72525076",
+  "fx": "Binder Blaubaren TSV Flacht v Usc Munster",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; Flacht v Munster; Flacht libero Lara Schaefer faces former club.",
+  "news": "Stuttgarter Nachrichten preview confirms Saturday game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.stuttgarter-nachrichten.de/sport/lokalsport-region-leonberg/volleyball-bundesliga-blaubaeren-flacht-lara-schaefer-freut-sich-aufs-duell-mit-ihrer-alten-heimat-79784703.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73951284",
+  "fx": "Chaumont 52 v AS Cannes Volley-Ball",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Ligue A R8; Chaumont (~5-2) v Cannes (8-2 last 10). Top-half clash.",
+  "news": "Cannes club calendar confirms 20:00 local (19:00 UTC) at Chaumont; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "188",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.46,
+    "p": 0.64988,
+    "why": "Cannes 8-2 last 10, 4-2 away; top-half clash, Cannes take 2 sets often. Statistical only (fill). Own p 0.67 vs 0.65."
+   }
+  ],
+  "avoid": "result side (close top-half match)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cannesvolleyball.com/calendrier/",
+   "https://spikelive.fr/ligue/lam/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73951286",
+  "fx": "Royan Atlantique Volleyball v Nice Volley Ball",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Ligue A R8; promoted Royan v Nice (5-2 this season).",
+  "news": "Confirmed 20:00 local (19:00 UTC); no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Nice ML (away p 0.745 < 0.75), Under 4.5 sets (Under rule)",
+  "confidence": 0.15,
+  "sources": [
+   "https://spikelive.fr/ligue/lam/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73957972",
+  "fx": "Ugs Bordeaux Merignac Volley v Terville Florange",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; Bordeaux lost 1-3 at Levallois last round.",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://spikelive.fr/ligue/laf/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73957978",
+  "fx": "VBC Chamalieres v Levallois Paris Saint-Cloud - Les Mariannes 92",
+  "sport": "volleyball",
+  "absences": "not checked (women)",
+  "context": "Women's; Chamalieres v Levallois.",
+  "news": "Confirmed 20:00 local (19:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://spikelive.fr/ligue/laf/calendrier"
+  ]
+ },
+ {
+  "eid": "sr:match:73952388",
+  "fx": "Vbc Chalon Sur Saone v Rennes Etudiants Club",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Ligue B R8; Chalon v Rennes.",
+  "news": "Confirmed 20:00 local (19:00 UTC); no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://spikelive.fr/ligue/lbm/calendrier"
+  ]
+ }
+]
