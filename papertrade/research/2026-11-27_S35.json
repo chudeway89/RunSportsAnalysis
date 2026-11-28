@@ -1,0 +1,587 @@
+[
+ {
+  "eid": "sr:match:73579014",
+  "fx": "Atletico Levante UD v Hercules CF B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Amateur Tercera Federacion fixture: checked only for date/venue conflicts and obvious mismatches. Hercules CF B is a reserve side; Atletico Levante is the Levante UD affiliate. Atl. Levante won 1-0 at Torrent on Nov 21 and is in the title race; Hercules B drew 1-1 with Saguntino.",
+  "news": "no news found; no date conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side involved, no mismatch (Hercules B unbeaten in last 10 per SR): no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-6/3078/",
+   "https://golsmedia.com/comunidad-valenciana/futbol/tercera-rfef/grupo-6/"
+  ]
+ },
+ {
+  "eid": "sr:match:72559278",
+  "fx": "CD Coria v SD Ponferradina",
+  "sport": "football",
+  "absences": "none named",
+  "context": "Primera Fed G1 J14, Sat 13:00 CET (12:00 UTC), confirmed by RFEF. Ponferradina 10th on 18 pts, trying to shake off weeks of pressure on the coaching staff; Coria 15th on 16 pts with one of the smallest budgets in the league.",
+  "news": "Ponferradina under pressure; RFEF time matches the board",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no mechanism; Primera Fed is too low-scoring for O1.5",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie",
+   "https://www.digitaldeleon.com/deportes/previa-coria-ponferradina-primera-rfef/20261127170000235845.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72478726",
+  "fx": "Betis v Rayo Vallecano",
+  "sport": "football",
+  "absences": "Betis: Facundo Bernal suspended (Sports Mole); Ceballos, Lo Celso doubtful or out (sources conflict); Iker Losada out; Morante status conflicts. Rayo: GK Augusto Batalla out (fractured tibia, until January), CB Luiz Felipe out; Oscar Valentin doubtful.",
+  "context": "LaLiga MD14. Betis won 2-0 at Slovan Bratislava in the UCL on Tue Nov 24, so 4 days rest (rotation_risk, L66). Rayo are missing their first-choice goalkeeper and a starting centre-back.",
+  "news": "Rayo without first-choice GK Batalla and CB Luiz Felipe; Betis midfield (Ceballos, Lo Celso) doubtful after a UCL Tuesday",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.7663662384,
+    "why": "Draw No Bet Betis: Rayo are without first-choice GK Batalla and CB Luiz Felipe, and have 1 win in their last 5 away. Downgraded for the UCL Tuesday rotation. My p ~0.76 (house 0.766)."
+   }
+  ],
+  "avoid": "Betis -1 / O2.5 (rotation and doubts in midfield)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/betis/preview/betis-vs-rayo-vallecano-prediction-team-news-lineups_609939.html",
+   "https://www.whoscored.com/matches/1993966/preview/spain-laliga-2026-2027-real-betis-rayo-vallecano",
+   "https://footballwhispers.com/blog/real-betis-vs-rayo-vallecano-prediction-28-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72477640",
+  "fx": "Las Palmas v FC Andorra",
+  "sport": "football",
+  "absences": "Las Palmas: Alex Suarez suspended (yellow cards); Sandro Ramirez and Enrique Clemente still recovering; Opoku has knee discomfort; Rafa Cruz away with Spain U17; Sergio Ruiz status conflicts. Andorra (5 out): Hugo Solozabal suspended (red card), Thiago Le Normand ACL, Jesus Owono, Marti Vila, Alex Calvo.",
+  "context": "LaLiga 2 J16. Las Palmas have won 3 of 4 under Albert Sanchez. Andorra are 21st on 11 pts, in the relegation zone. Las Palmas host Albacete in the Copa del Rey on Tuesday, so some rotation is possible.",
+  "news": "Andorra missing five players incl. suspended Solozabal and Le Normand (ACL); Las Palmas rising",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.51,
+    "p": 0.629244,
+    "why": "DNB Las Palmas: Andorra have five absentees (Solozabal suspended, Le Normand ACL, Owono, Vila, Calvo) and are in the bottom three; Las Palmas have won 3 of their last 4. My p ~0.66 (house 0.63)."
+   }
+  ],
+  "avoid": "Las Palmas -1.5; the Copa on Tuesday could mean rotation",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.vavel.com/es/futbol/2026/11/27/ud-las-palmas/1281014-la-ud-las-palmas-se-enfrentara-al-fc-andorra-en-gran-canaria.html",
+   "https://www.infobae.com/espana/agencias/2026/11/27/las-palmas-pretende-confirmar-su-escalada-ante-un-andorra-muy-necesitado/",
+   "https://www.eldiario.es/canariasahora/Deportes/futbol/palmas-pretende-confirmar-escalada-andorra_1_13700458.html"
+  ]
+ },
+ {
+  "eid": "sr:match:75024600",
+  "fx": "CD Pamplona v CA Cirbonero",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Amateur Tercera Federacion fixture: checked only for date/venue conflicts and obvious mismatches. Pamplona won 1-0 at Subiza on Nov 22; Cirbonero drew 1-1 at Avance Ezcabarte.",
+  "news": "no news found; no date conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur Navarra group: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-15/3075/"
+  ]
+ },
+ {
+  "eid": "sr:match:72478738",
+  "fx": "Malaga CF v Athletic Bilbao",
+  "sport": "football",
+  "absences": "Athletic: Gorka Guruzeta (knee, out for the season), Dani Vivian (calf, ~mid-Dec), Unai Egiluz, Maroan Sannadi. Malaga: Julen Lobete (ACL), Aaron Ochoa (meniscus); Rafita and Fernando Calero out or doubtful (sources conflict); Adam Aznou returns from suspension.",
+  "context": "LaLiga MD14 at La Rosaleda. Malaga have lost 3 straight by one goal (latest 1-0 at Osasuna); Athletic are 8th and lost 1-0 to Espanyol.",
+  "news": "Athletic without strikers Guruzeta and Sannadi and CBs Vivian and Egiluz; Malaga on a 3-game losing run",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.21,
+    "p": 0.7988448023,
+    "why": "X2 Athletic: Malaga have lost 3 in a row and have 0 wins in their last 4 at home (GA 2.75 per game), and two first-choice players (Lobete, Ochoa) are out. Athletic losing two strikers caps their win chance, so I take the double chance rather than the win. My p ~0.79 (house 0.80)."
+   }
+  ],
+  "avoid": "Athletic 1X2 (p 0.55 < 0.75 for an away result) and Athletic O1.5 (no strikers)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/malaga/preview/malaga-vs-athletic-bilbao-prediction-team-news-lineups_609935.html",
+   "https://scores24.live/es/soccer/m-28-11-2026-malaga-cf-athletic-bilbao-prediction",
+   "https://www.oddschecker.com/es/pronosticos/futbol/2026/noviembre/cng301-pronostico-malaga-vs-athletic-bilbao-28-11-26"
+  ]
+ },
+ {
+  "eid": "sr:match:72477626",
+  "fx": "Albacete Balompie v Tenerife CD",
+  "sport": "football",
+  "absences": "Albacete/Tenerife: Victor Moreno (pubis discomfort) and Baba Dicou (injured) per RTVC; Gerard Valentin back to full training.",
+  "context": "LaLiga 2 J16, Sat 15:15. Tenerife are unbeaten in 6. Albacete are in the relegation zone and visit Las Palmas in the Copa on Tuesday.",
+  "news": "Tenerife unbeaten in 6; Albacete in the relegation zone",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.23,
+    "p": 0.7777855586,
+    "why": "Tenerife +1.5: unbeaten in 6, against an Albacete side in the relegation zone that have scored only 1.3 per game over the last 10. The favourite is only p 0.45, so +1.5 is allowed. My p ~0.80 (house 0.78)."
+   }
+  ],
+  "avoid": "Albacete 1X2",
+  "confidence": 0.25,
+  "sources": [
+   "https://rtvc.es/cd-tenerife-albacete-laliga-hypermotion-27-noviembre-2026",
+   "https://www.laliga.com/en-GB/laliga-hypermotion/standing"
+  ]
+ },
+ {
+  "eid": "sr:match:72477634",
+  "fx": "Club Deportivo Eldense v Girona",
+  "sport": "football",
+  "absences": "Eldense: Alex Serra suspended; Fidel Chaves, Mariano Carmona, Guille Macho injured; Jesus Clemente a doubt. Girona: Izan Gonzalez suspended; Jastin, Bryan Gil, Bonar out; Alex Moreno returns.",
+  "context": "LaLiga 2. Girona (relegated from LaLiga) are 3rd and beat Eibar 2-1 in their last game. Eldense are near the relegation zone. Kick-off 16:15 CET per VAVEL, which matches the board 15:15 UTC.",
+  "news": "Eldense missing 4 (incl. suspended Serra); Girona 3rd, also missing Izan Gonzalez, Bryan Gil and Jastin",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.33,
+    "p": 0.705554,
+    "why": "X2 Girona: Eldense are four players down (Serra suspended; Chaves, Carmona and Macho injured), against a promotion-chasing Girona with W6 D2 L2 in their last 10 and 0.6 conceded per game. Girona have absences too, so double chance only. My p ~0.72 (house 0.706)."
+   }
+  ],
+  "avoid": "Girona -0.5 at 2.2",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.vavel.com/es/futbol/2026/11/28/segunda-division/1281086-prueba-de-fuego-para-el-eldense-ante-un-aspirante-al-ascenso.html",
+   "https://www.ceroacero.es/noticias/eldense-vs-girona-prediccion-noticias-de-equipos-y-alineaciones-segunda-division-28-11/1270486",
+   "https://alicanteplaza.es/alicanteplaza/deportesalicante/el-cd-eldense-apela-al-factor-pepico-amat-para-frenar-al-girona-fc-y-alejarse-del-descenso"
+  ]
+ },
+ {
+  "eid": "sr:match:75024590",
+  "fx": "UDC Chantrea v Club Deportivo Aoiz",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Amateur Tercera Federacion fixture: checked only for date/venue conflicts and obvious mismatches. Aoiz lost 2-4 to Izarra on Nov 22.",
+  "news": "no news found; no date conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-15/3075/"
+  ]
+ },
+ {
+  "eid": "sr:match:73068236",
+  "fx": "CF Algeciras v SD Huesca",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Fed G2 J14, Sat 16:30 CET (15:30 UTC), confirmed by RFEF. Algeciras unbeaten in their last 5 at home (4W 1D, 0.4 conceded per game).",
+  "news": "no news found (time confirmed)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "statistics only, no mechanism: no picks",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie"
+  ]
+ },
+ {
+  "eid": "sr:match:73068242",
+  "fx": "UD Ibiza v Atletico Madrid B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Fed G2 J14, Sat 16:30 CET, confirmed by RFEF. The opponent is Atletico Madrileno (Atletico Madrid's reserve side).",
+  "news": "no news found (time confirmed)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side, no clear mismatch: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie"
+  ]
+ },
+ {
+  "eid": "sr:match:72559268",
+  "fx": "UD Logrones v Barakaldo CF",
+  "sport": "football",
+  "absences": "Barakaldo: several players injured or suspended (not named in sources).",
+  "context": "Primera Fed G1 J14, Sat 16:30 CET at Las Gaunas, per the RFEF J14 table. The provisional RFEF calendar PDF said 29/11, but that was superseded by the confirmed schedule, so it is not a conflict. Logrones are 2nd on 27 pts and the 'surprise of the season'. Barakaldo have not lost since Oct 10 and kept clean sheets in their November home games.",
+  "news": "Top-of-table clash; Barakaldo unbeaten since Oct 10 but with unnamed absences",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result side: Barakaldo are unbeaten and the absences are unnamed",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie",
+   "https://bilbaohiria.com/deportes/ud-logrones-barakaldo-previa-las-gaunas-primera-federacion",
+   "https://nuevecuatrouno.com/2026/11/27/deportes-primera-federacion-barakaldo-ambicion-hacemos-muchas-cosas-igual-mejor-logrones"
+  ]
+ },
+ {
+  "eid": "sr:match:72559274",
+  "fx": "Unionistas de Salamanca CF v RC Deportivo Fabril",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Fed G1 J14, Sat 16:30 CET, confirmed by RFEF. Fabril is Deportivo's reserve side. Both sides are in the relegation places on 13 pts (as of Nov 16).",
+  "news": "Relegation six-pointer; time confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie",
+   "https://www.lagacetadesalamanca.es/deportes/futbol-local/unionistas/queda-clasificacion-grupo-primera-federacion-tras-jornada-20261115202521-nt.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73579008",
+  "fx": "CD Roda v CD Acero",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Amateur Tercera Federacion fixture: checked only for date/venue conflicts and obvious mismatches. Acero beat Soneja 1-0 to reach 18 pts.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-6/3078/",
+   "https://golsmedia.com/comunidad-valenciana/futbol/tercera-rfef/grupo-6/"
+  ]
+ },
+ {
+  "eid": "sr:match:73579016",
+  "fx": "CD Utiel v AC Torrellano",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Amateur Tercera Federacion fixture: checked only for date/venue conflicts and obvious mismatches.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-6/3078/",
+   "https://golsmedia.com/comunidad-valenciana/futbol/tercera-rfef/grupo-6/"
+  ]
+ },
+ {
+  "eid": "sr:match:72478732",
+  "fx": "Elche CF v Atletico Madrid",
+  "sport": "football",
+  "absences": "Atletico: Ademola Lookman out (knee); Alexander Sorloth ruled out or doubtful (muscle, hurt v Viking midweek); Cristian Romero doubtful; Pablo Barrios' status conflicts (one source says out, another expects him to start). Elche: Thomas Lemar (hamstring), Ruben Sanchez (adductor), Marc Aguado (ankle) out; Yago Santiago and Adam Boayar doubtful.",
+  "context": "LaLiga MD14. Atletico played Viking in Europe in midweek (<=4 days, rotation_risk). Elche have 0 wins in their last 4 at home (0.5 scored per game) and are four players down.",
+  "news": "Atletico without Lookman and probably Sorloth after the midweek European game; Elche missing Lemar, Ruben Sanchez and Aguado",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.2,
+    "p": 0.810889,
+    "why": "DNB Atletico: Elche have W0 D1 L3 in their last 4 at home and are missing Lemar, Ruben Sanchez and Aguado; Atletico are W4 D1 L0 in their last 5 away (0.4 conceded). Downgraded for the midweek European game and the Lookman/Sorloth absences. My p ~0.81 (house 0.81)."
+   }
+  ],
+  "avoid": "Atletico 1X2 (0.65 < 0.75 for an away result) and Atletico -1",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.whoscored.com/matches/1993978/preview/spain-laliga-2026-2027-elche-atletico-madrid",
+   "https://www.tufutbolero.com/en/news/elche-atletico-preview-elche-arrive-with-four-absences-fcf0d0",
+   "https://www.winonbetonline.com/elche-atletico-madrid-preview-lookman-out/",
+   "https://www.intothecalderon.com/previews/30287/elche-cf-atletico-de-madrid-preview-and-team-news-la-liga"
+  ]
+ },
+ {
+  "eid": "sr:match:72477632",
+  "fx": "Eibar v Burgos CF",
+  "sport": "football",
+  "absences": "Eibar: David Gonzalez the only confirmed absentee (EFE); Ceroacero lists Juan Bernat (muscle); Karrikaburu trained all week; Brais plays in a protective mask. Burgos: none reported.",
+  "context": "LaLiga 2 J16 at Ipurua. Eibar have gone 6 games without a win. Burgos are in the promotion places (W6 in their last 10).",
+  "news": "Eibar winless in 6; Burgos in good form",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.31,
+    "p": 0.732253,
+    "why": "Burgos +1.5: Eibar have gone 6 without a win and Burgos have won 6 of their last 10. The favourite is only p 0.51, so the catch is allowed. My p ~0.76 (house 0.73)."
+   }
+  ],
+  "avoid": "Eibar 1X2",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/27/el-eibar-apunta-a-la-zona-de-promocion-y-el-burgos-a-mantenerse-en-ella/",
+   "https://www.ceroacero.es/noticias/eibar-vs-burgos-cf-prediccion-noticias-de-equipos-y-alineaciones-segunda-division-28-11/1270600"
+  ]
+ },
+ {
+  "eid": "sr:match:75024598",
+  "fx": "AD San Juan Pamplona v CD Avance Ezcabarte",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Amateur Tercera Federacion fixture: checked only for date/venue conflicts and obvious mismatches. San Juan lost 0-1 at Valle de Egues; Avance drew 1-1 with Cirbonero.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-15/3075/"
+  ]
+ },
+ {
+  "eid": "sr:match:73068234",
+  "fx": "AD Alcorcon v Real Zaragoza",
+  "sport": "football",
+  "absences": "Zaragoza: Tachi out (injured v Rayo Majadahonda); Sergio Escudero back in training after a ~20-day muscle injury, but a start is premature; some players 'touched', squad decided late.",
+  "context": "Primera Fed G2 J14, Sat 18:45 CET, confirmed by RFEF. Leaders Zaragoza (30 pts) visit an Alcorcon side on 24 pts and in good form (6W 6D 1L); away tickets sold out. A top-of-table clash.",
+  "news": "Leaders v 2nd/3rd; Zaragoza without Tachi",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "top-of-table clash, no result side; Primera Fed scoring is too low for O1.5",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie",
+   "https://diariodezaragoza.es/alcorcon-real-zaragoza-previa-jornada-14-primera-rfef/",
+   "https://www.sportaragon.com/futbol-aragon/real-zaragoza/ibai-gomez-antes-alcorcon-real-zaragoza-vamos-seguir-primeros-es-muy-meritorio/20261127125333163744.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73107794",
+  "fx": "CD Lugo v UD Ourense",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Fed G1 J14, Sat 18:45 CET, confirmed by RFEF. A Galician derby (derby flag). Lugo W8 L2 in their last 10; Ourense W0 in their last 5 away (0.4 scored per game).",
+  "news": "no news found (time confirmed)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby: no result side",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie"
+  ]
+ },
+ {
+  "eid": "sr:match:73068246",
+  "fx": "Juventud Torremolinos CF v FC Cartagena",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Fed G2 J14, Sat 18:45 CET, confirmed by RFEF.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie"
+  ]
+ },
+ {
+  "eid": "sr:match:72559266",
+  "fx": "Real Union de Irun v Arenas Club de Getxo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Fed G1 J14, Sat 18:45 CET, confirmed by RFEF. A Basque regional derby. Real Union are poor (W2 in their last 10), yet the house rates them 0.62 to win.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby, and the house price is odd against form",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie"
+  ]
+ },
+ {
+  "eid": "sr:match:72559270",
+  "fx": "Zamora CF v Pontevedra CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Fed G1 J14, Sat 18:45 CET, confirmed by RFEF. Two low-scoring sides.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders below p 0.82",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie"
+  ]
+ },
+ {
+  "eid": "sr:match:72508618",
+  "fx": "Atletico Sanluqueno v CA Antoniano",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Fed J14, played Nov 28-29 per RFEF (exact time not readable from the PDF). Antoniano have L5 in their last 5 away (0.2 scored per game).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "thin league, statistics only",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/noticias/establecidos-los-horarios-de-la-14a-jornada-de-segunda-federacion"
+  ]
+ },
+ {
+  "eid": "sr:match:72508608",
+  "fx": "CD Badajoz v CP Mijas-Las Lagunas",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Fed J14. Badajoz recently lost 0-7 and 2-5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "defensive collapse risk: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/noticias/establecidos-los-horarios-de-la-14a-jornada-de-segunda-federacion"
+  ]
+ },
+ {
+  "eid": "sr:match:73068238",
+  "fx": "CE Europa v Villarreal CF B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Fed G2 J14, Sat 19:00 CET (18:00 UTC), confirmed by RFEF. Villarreal B (reserve side) are level with Alcorcon on 24 pts.",
+  "news": "no news found (time confirmed)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie"
+  ]
+ },
+ {
+  "eid": "sr:match:72507604",
+  "fx": "CD Alcoyano v CF Lorca Deportiva",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segunda Fed J14.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/noticias/establecidos-los-horarios-de-la-14a-jornada-de-segunda-federacion"
+  ]
+ },
+ {
+  "eid": "sr:match:72559280",
+  "fx": "CD Extremadura v CP Cacereno SAD",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera Fed G1 J14, Sat 21:00 CET (20:00 UTC), confirmed by RFEF. An Extremadura regional derby.",
+  "news": "no news found (time confirmed)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby: no result side",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie"
+  ]
+ },
+ {
+  "eid": "sr:match:72478740",
+  "fx": "Real Madrid v Alaves",
+  "sport": "football",
+  "absences": "Real Madrid: Rodrygo (ACL, early 2027), Endrick (muscle), Raul Asencio (tibia stress fracture), Trent Alexander-Arnold (flu); Mendy unclear. Alaves: CB Facundo Garces and Mikel Rodriguez (ACLs), Hugo Novoa (hamstring), Carlos Protesoni (adductor), Lander Pinillos (collarbone).",
+  "context": "LaLiga MD14 at the Bernabeu. Real Madrid (Mourinho) are W10 in their last 10 (3.2 scored per game at home) and chasing a 6th straight win. They beat PSV 5-1 in the UCL on Tue Nov 24 (4 days, rotation_risk).",
+  "news": "Alaves without CB Garces and four others; Real Madrid on 10 straight wins, minus Rodrygo, Endrick and Asencio",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.824002,
+    "why": "Real Madrid team O1.5: they scored 2+ in their last 6 and average 3.2 per game at home, and Alaves are without starting CB Garces plus Protesoni and Pinillos. Rotation after the UCL is the risk. My p ~0.84 (house 0.824)."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Home (-1.0)",
+    "odds": 1.18,
+    "p": 0.826866,
+    "why": "RM -1.0 (a one-goal win is void): 10 straight wins, 5-1 v PSV in midweek, Alaves defence depleted. My p ~0.83 (house 0.827). Same fixture as the team total, so use only one per slip."
+   }
+  ],
+  "avoid": "RM -2.5 / O3.5 (rotation after the UCL)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/real-madrid/race-for-the-la-liga-title/preview/real-madrid-vs-alaves-prediction-team-news-lineups_609921.html",
+   "https://www.espn.com/soccer/story/_/id/50603609/real-madrid-vs-alaves-tv-channel-how-watch-uk-kickoff-live-stream-team-news-referee-predicted-lineups",
+   "https://roundtable.io/sports/soccer/la-liga/real-madrid/news/real-madrid-squad-to-face-deportivo-alaves-changes-at-full-back"
+  ]
+ },
+ {
+  "eid": "sr:match:72477646",
+  "fx": "Valladolid v Real Sociedad San Sebastian B",
+  "sport": "football",
+  "absences": "Real Sociedad B: Gorka Carrera and Alex Marchal suspended.",
+  "context": "LaLiga 2 J16, Sat 21:00 CET at Zorrilla (EFE and Canal54 agree; matches board 20:00 UTC). Valladolid are 12th on 19 pts; Real B (a reserve side) are 19th on 13 pts, in the relegation zone.",
+  "news": "Real B missing two suspended players; Valladolid need points",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side and no clear goals mismatch: no picks",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.infobae.com/espana/agencias/2026/11/27/el-real-valladolid-espera-seguir-su-progresion-ante-una-real-b-con-bajas/",
+   "https://www.canal54.es/el-real-valladolid-obligado-a-sumar-para-no-descolgarse-recibe-a-una-real-sociedad-b-en-descenso/"
+  ]
+ }
+]
