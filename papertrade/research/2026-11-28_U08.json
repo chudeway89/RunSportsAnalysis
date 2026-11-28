@@ -1,0 +1,515 @@
+[
+ {
+  "eid": "sr:match:72838710",
+  "fx": "BK Zabiny Brno v ZVVZ USK Praha",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. Czech ZBL round 9; USK Praha 10-0-type hegemon v Zabiny (both strong).",
+  "news": "Official ZBL listing (zbl.basketball/zapas/529611) has ZVVZ USK Praha as HOME team, 29.11 10:30; Brno Denik says Zabiny host USK at Rosnicka. Home/away conflict vs board.",
+  "veto": true,
+  "veto_reason": "Venue/home-away conflict between official ZBL page and board/Denik",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://zbl.basketball/zapas/529611",
+   "https://brnensky.denik.cz/ostatni-sporty/sportovni-super-nedele-brno-zabiny-zbrojovka-kometa-slagry"
+  ]
+ },
+ {
+  "eid": "sr:match:76907034",
+  "fx": "Hefei Kuangfeng v Shanghai Blackbird",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "China NBL 2026 season ROUND 1 (opener) per asia-basket/24live: transition board, no openers below p 0.90.",
+  "news": "Round-1 opener confirmed for Nov 29 (Sofascore 11:30 UTC); no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets (opener, no anchor)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/basketball/team/hefei-kuangfeng/1091860",
+   "https://www.asia-basket.com/China/basketball-League-NBL.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:76907032",
+  "fx": "Jiaozuo Culture And Tourism v Shandong Honey Badger",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "China NBL 2026 season ROUND 1 (opener) per asia-basket/24live: transition board, no openers below p 0.90.",
+  "news": "Round-1 opener at Jiaozuo Stadium Nov 29 11:30 UTC (scores24); no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Shandong ML 1.36 p0.69 (opener, below 0.75 bar)",
+  "confidence": 0.15,
+  "sources": [
+   "https://scores24.live/en/basketball/t-shandong-honey-badger",
+   "https://www.asia-basket.com/China/basketball-League-NBL.aspx"
+  ]
+ },
+ {
+  "eid": "sr:match:72904706",
+  "fx": "HBA-Marsky v Vimpelin Veto",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. Finnish women's Korisliiga; huge mismatch per board (-22.5).",
+  "news": "no news found; no date conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's; ML 1.01)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73113810",
+  "fx": "Aris Thessaloniki v Athinaikos",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. Greek women's A1: eurobasket lists Round 7 on Nov 21-22, so Nov 29 fits Round 8; no conflict found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eurobasket.com/Greece/A1-Basket-League-Women.aspx?women=1"
+  ]
+ },
+ {
+  "eid": "sr:match:73113816",
+  "fx": "Panathinaikos BC v Pas Giannina",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. Greek women's A1: eurobasket lists Round 7 on Nov 21-22, so Nov 29 fits Round 8; no conflict found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eurobasket.com/Greece/A1-Basket-League-Women.aspx?women=1"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114246100",
+  "fx": "BC Guco Lier v Bavi Vilvoorde",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Belgian men's Top Division 1 (2nd tier) Round 10, Sofascore 13:30 UTC confirms. An Oct report had Bavi Vilvoorde beating Guco Lier 93-82 at home and climbing to 3rd (date/season unclear) yet board makes Lier -13.5 home.",
+  "news": "Date confirmed; no team news; form data absent from Sportradar feed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "handicaps (no form data; possible mispriced/unclear strength)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/basketball/match/bc-guco-lier-bavi-vilvoorde/RbwbsagGc",
+   "https://www.ringtv.be/sport/bavi-vilvoorde-klopt-guco-lier-en-klimt-naar-plaats-3-we-ambieren-de-play-offs"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114440853",
+  "fx": "Basket Lummen Women v LDP Donza DSE A",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. Belgian women's lower league; extreme line (+30.5).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's, no form data)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73496342",
+  "fx": "Tango Bourges Basket v ESB Villeneuve d\u00c2\u00b4Ascq",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. LFB 2026-27; no current fixture coverage found (search returned 2024 only).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://basketlfb.com/match/751901-bourges-villeneuve-d-ascq"
+  ]
+ },
+ {
+  "eid": "sr:match:73496340",
+  "fx": "Basket Landes v Basket Lattes Montpellier",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. LFB 2026-27; no current fixture coverage found (search returned 2024 only).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73496344",
+  "fx": "Asvel Feminin v C Chartres Basket Feminin",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. LFB 2026-27; no current fixture coverage found (search returned 2024 only).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72905686",
+  "fx": "Herner TC v Stars Keltern",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. German women's DBBL; Keltern heavy favourite (ML 1.03).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73113820",
+  "fx": "Kronos Agiou Dimitriou v AO Amintas",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. Greek women's A1: eurobasket lists Round 7 on Nov 21-22, so Nov 29 fits Round 8; no conflict found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eurobasket.com/Greece/A1-Basket-League-Women.aspx?women=1"
+  ]
+ },
+ {
+  "eid": "sr:match:72838626",
+  "fx": "SBS Ostrava v DSK Basketball",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. Czech women's ZBL round 9.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://zbl.basketball/zapas/529611"
+  ]
+ },
+ {
+  "eid": "sr:match:72838628",
+  "fx": "Slovanka MB v Basket Ostrava",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. Czech women's ZBL round 9. Slovanka 0-10 last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://zbl.basketball/zapas/529611"
+  ]
+ },
+ {
+  "eid": "sr:match:73113812",
+  "fx": "Panathlitikos SF Sykeon v AEO Proteas Voulas",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. Greek women's A1: eurobasket lists Round 7 on Nov 21-22, so Nov 29 fits Round 8; no conflict found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eurobasket.com/Greece/A1-Basket-League-Women.aspx?women=1"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114474717",
+  "fx": "Hapoel Lev Jerusalem v Hapoel Rishon Letzion",
+  "sport": "basketball",
+  "absences": "none researched (women)",
+  "context": "Women's league: no picks by rule; checked date/venue only. Israeli women's WBL; no form data.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73432816",
+  "fx": "New Basket Brindisi v Elachem Vigevano 1955",
+  "sport": "basketball",
+  "absences": "none named in previews",
+  "context": "Serie A2 2026-27 matchday 12, Sun 29 Nov 17:00 local (16:00 UTC) at PalaPentassuglia - matches board. Brindisi back home after loss at Pistoia; home 4-1 in last 5 home (82.2 pf). Vigevano lead A2 in 3P% (40%) and 2nd in assists, 2-3 away.",
+  "news": "Confirmed date/venue; Brindisi home after Pistoia loss; Vigevano hot-shooting side; Del Cadia brothers face each other.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.7624311477,
+    "why": "Named mechanism weak-moderate: Brindisi (promotion contender, 2nd last season) at home 4-1 v Vigevano 2-3 away; no absences reported. Own p 0.76 = house; Vigevano 3P variance is the risk."
+   }
+  ],
+  "avoid": "handicap -7.5 (3P-variance side)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.lastelladelsudbasketbrindisi.it/serie-a2/valtur-brindisi-elachem-vigevano-il-pre-partita-di-edoardo-del-cadia/27/11/2026/",
+   "https://www.lastelladelsudbasketbrindisi.it/serie-a2/quando-si-gioca-valtur-brindisi-elachem-vigevano-1955/23/11/2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73063648",
+  "fx": "Aanekosken Huima v Raholan Pyrkiva",
+  "sport": "basketball",
+  "absences": "no named absences found",
+  "context": "Finnish men's 1. divisioona A at Aanekosken liikuntatalo. Huima lost 4 in a row; Pyrkiva 4-1 away.",
+  "news": "Huima on 4-game losing run (basket.fi week 47); Pyrkiva strong away.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: Visit Aanekoski and basket.fi list 17:00 local (15:00 UTC), board says 17:00 UTC",
+  "picks": [],
+  "avoid": "Huima ML 1.54 (losing run v good away side)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.visitaanekoski.fi/tapahtumat/4751/miesten-koripallo-1.divisioona-a",
+   "https://basket.fi/uutiset/divarikatsaus-viikko-47-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73432832",
+  "fx": "Basket Torino v Libertas Livorno",
+  "sport": "basketball",
+  "absences": "Livorno PG Filoni strongly doubtful (muscle)",
+  "context": "Serie A2 matchday 12, Sun 29 Nov 18:00 local (17:00 UTC) at Pala Gianni Asti - matches board. Livorno 9-1 last 10, 5-0 away; Torino (coach Paolo Moretti, Harvey/Allen, ex Massone) 'tricky trip'.",
+  "news": "Livornopress: insidious away game, Filoni in strong doubt.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Livorno ML 1.52 (away p0.62 <0.75, PG doubtful)",
+  "confidence": 0.2,
+  "sources": [
+   "https://livornopress.it/basket-a2-la-libertas-livorno-a-torino-per-una-trasferta-insidiosa-massone-osservato-speciale"
+  ]
+ },
+ {
+  "eid": "sr:match:73432830",
+  "fx": "Dinamo Sassari v Pallacanestro 2.015 Forli",
+  "sport": "basketball",
+  "absences": "no news found",
+  "context": "Serie A2; Sassari (relegated from LBA) home 3-3; Forli 0-4 away last 4. Fixture date not confirmed in search (only other Sassari/Forli dates found).",
+  "news": "no news found for this fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sassari ML 1.31 p0.72 (<0.75 bar, unconfirmed)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.legapallacanestro.com/serie-a2-old-wild-west-202627-la-preview-della-9-giornata"
+  ]
+ },
+ {
+  "eid": "sr:match:71516062",
+  "fx": "Cincinnati Bengals v New Orleans Saints",
+  "sport": "american football",
+  "absences": "NO: TE Juwan Johnson OUT; C Erik McCoy cleared. CIN: WR Tee Higgins questionable (hamstring soreness, little concern).",
+  "context": "Bengals 7-3 last 10, 32.8 pts at home; Saints 3-7 with Tyler Shough at QB. 1pm ET kick-off.",
+  "news": "Final reports: Saints without Juwan Johnson; Higgins questionable but expected to play.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "219",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.81308,
+    "why": "Mechanism: Saints offense missing TE Juwan Johnson with young QB Shough on the road v 7-3 Bengals averaging ~30; Higgins expected to play. Own p 0.83."
+   }
+  ],
+  "avoid": "-9.5 handicap (backdoor risk); 1X2 'Home' 1.24 incl. tie risk",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.louisianasports.net/2026/11/27/saints-bengals-injury-report-mccoy-cleared-higgins-questionable/latest-stories/",
+   "https://www.espn.com/nfl/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:71516066",
+  "fx": "Houston Texans v Baltimore Ravens",
+  "sport": "american football",
+  "absences": "BAL: Lamar Jackson IR (thumb, maybe Wk16) - Jacoby Brissett starts; G Vega Ioane OUT, DL Nnamdi Madubuike OUT; Derrick Henry cleared from concussion protocol. HOU: no report found on Stroud (board lists Stroud props).",
+  "context": "Ravens 3-7 last 10 on backup QB; Texans home 1-4 last 5 home.",
+  "news": "Ravens rule out Ioane and Madubuike; Brissett starts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Texans ML 1.32 p0.73 (below 0.75 bar; Texans poor at home)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.baltimoresun.com/2026/11/27/ravens-injury-report-texans-vega-ioane-nnamdi-madubuike/",
+   "https://clutchpoints.com/nfl/baltimore-ravens/ravens-news-zay-flowers-derrick-henry-injury-report-texans-game"
+  ]
+ },
+ {
+  "eid": "sr:match:71516068",
+  "fx": "Indianapolis Colts v New York Giants",
+  "sport": "american football",
+  "absences": "IND released Daniel Jones (Nov 20), Anthony Richardson starts. NYG: Jaxson Dart reported IR (knee meniscus/MCL, ESPN) - Giants QB unclear; Abdul Carter, Jermaine Eluemunor, Darnell Mooney questionable.",
+  "context": "Colts 3-8 out of contention; Giants 6-3-1. One tracker listed Colts bye Week 13 but multiple previews confirm Giants @ Colts Nov 29 1pm ET at Lucas Oil.",
+  "news": "Giants favoured ~6; Colts start Richardson after releasing Jones; Giants QB status (Dart) unclear.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Giants ML 1.37 (away p0.70 <0.75 and QB uncertainty = data conflict)",
+  "confidence": 0.2,
+  "sources": [
+   "https://bigblueinteractive.com/2026/11/27/preview-new-york-giants-at-indianapolis-colts-november-29-2026/",
+   "https://bangthebook.com/new-york-giants-vs-indianapolis-colts-prediction-2026-11-29/",
+   "https://www.espn.com/nfl/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:71516074",
+  "fx": "Jacksonville Jaguars v Tennessee Titans",
+  "sport": "american football",
+  "absences": "JAX: WR Parker Washington OUT, RB Bhayshul Tuten OUT, OL Patrick Mekari OUT, DE B.J. Green II OUT; C Robert Hainsey Q. TEN: S Terrell Burgess OUT, CB Cordale Flott OUT; G Carmona Q, T Dan Moore Jr Q.",
+  "context": "Jaguars 7-3 last 10 (home 4-1, conceding 14.8); Titans 1-9 with rookie Cam Ward; H2H 40-23 Jags.",
+  "news": "Both teams have skill/secondary absences; Titans secondary thin (Burgess, Flott out).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "60",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.7728184844,
+    "why": "Mechanism: 1-9 Titans missing S Burgess and CB Flott v Jaguars home side conceding 14.8; first-half lead p ~0.77 (tie ~5%). Own p 0.77."
+   }
+  ],
+  "avoid": "ML 1.08 (padding); -14.5 (two Jags skill players out)",
+  "confidence": 0.25,
+  "sources": [
+   "https://blackandteal.com/jaguars-rule-out-bhayshul-tuten-and-parker-washington-vs-titans",
+   "https://www.cbssports.com/nfl/news/nfl-week-12-injury-report-brock-purdy-justin-herbert-out/"
+  ]
+ },
+ {
+  "eid": "sr:match:71516070",
+  "fx": "Miami Dolphins v New York Jets",
+  "sport": "american football",
+  "absences": "MIA: QB Malik Willis IR (abdomen, 11/26) - board lists Kyle McCord props. NYJ: WR Omar Cooper Jr (ankle/groin) DNP Wed, DE Joseph Ossai limited.",
+  "context": "Dolphins 1-9, Jets 2-8; low total 40.5.",
+  "news": "Dolphins lose starting QB Willis to IR; Jets favoured on road.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Jets ML 1.38 (away p0.69 <0.75; two bad teams)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.espn.com/nfl/injuries",
+   "https://www.sharpfootballanalysis.com/betting/nfl-injury-report-this-week-all-32-teams/"
+  ]
+ },
+ {
+  "eid": "sr:match:71516072",
+  "fx": "Minnesota Vikings v Atlanta Falcons",
+  "sport": "american football",
+  "absences": "MIN: QB Kyler Murray questionable (hamstring, limited); WR Jordan Addison OUT. ATL: DE Za'Darius Smith limited (knee); Penix active (board props).",
+  "context": "Vikings 7-3 last 10 but low scoring (18.6); Falcons 3-7. Total 41.5.",
+  "news": "Vikings QB Murray questionable with hamstring; Addison out.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vikings ML 1.29 p0.74 (QB questionable, below bar)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.vikings.com/news/falcons-injury-report-week-12-2026-nfl-season",
+   "https://www.espn.com/nfl/injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:71516080",
+  "fx": "Los Angeles Chargers v New England Patriots",
+  "sport": "american football",
+  "absences": "LAC: QB Justin Herbert OUT (concussion) - DJ Uiagalelei starts; RB Keaton Mitchell, LB Daiyan Henley OUT; Mesidor, Brenen Thompson doubtful. NE: QB Drake Maye OUT (fibula/ankle - sources conflict) - Tommy DeVito starts; WR A.J. Brown, WR Romeo Doubs, CB Carlton Davis III OUT.",
+  "context": "Backup-v-backup game; Chargers 1-9 last 10 (0-5 home); total 35.5.",
+  "news": "Both starting QBs out; Uiagalelei v DeVito.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything (two backup QBs, high variance); Under 35.5 p<0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.foxsports.com/stories/nfl/chargers-qb-justin-herbert-set-miss-sundays-game-vs-patriots",
+   "https://www.patriots.com/news/injury-report-analysis-patriots-rule-out-four-players-and-list-four-players-as-questionable-for-week-12-matchup-vs-the-chargers",
+   "https://985thesportshub.com/2026/11/27/chargers-confirm-backup-quarterback-patriots-wait-on-status-of-4-players/"
+  ]
+ },
+ {
+  "eid": "sr:match:71516076",
+  "fx": "Arizona Cardinals v Washington Commanders",
+  "sport": "american football",
+  "absences": "WAS: QB Jayden Daniels left elbow/hand (board lists Josh Johnson props => likely backup starts); CB Amik Robertson to miss 2nd straight; Treylon Burks limited. ARI: QB Carson Beck nagging back (DNP start of week).",
+  "context": "Cardinals 2-8, 0-4 home last 4 (conceding 35); Commanders 4-5-1.",
+  "news": "Daniels elbow/hand issue, Josh Johnson may start; Beck back issue.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Commanders ML 1.31 (away p0.73 <0.75 and QB uncertainty)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hogshaven.com/washington-commanders-injuries/458084/commanders-cardinals-friday-injury-report-amik-robertson-treylon-burks-charles-omenihu-carson-beck",
+   "https://arizonasports.com/nfl/arizona-cardinals/cardinals-commanders-injury-report-carson-beck-begins-week-as-dnp"
+  ]
+ },
+ {
+  "eid": "sr:match:71516078",
+  "fx": "San Francisco 49ers v Seattle Seahawks",
+  "sport": "american football",
+  "absences": "SF: QB Brock Purdy OUT (ankle) - Mac Jones starts; WR Jordan Watkins OUT. SEA: Sam Darnold cleared to start; Charles Cross back; Leonard Williams status conflict (back per Yahoo, OUT per Heavy); Abe Lucas, Quenton Nelson, Jarran Reed out.",
+  "context": "NFC West divisional derby; 49ers 6-0 at home last 6.",
+  "news": "Purdy out, Mac Jones starts; Darnold returns.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (divisional derby, QB change, Williams data conflict)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.nfl.com/news/brock-purdy-ankle-out-49ers-seahawks-mac-jones-start",
+   "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/sam-darnold-officially-off-injury-report-set-to-start-vs-49ers",
+   "https://heavy.com/sports/nfl/san-francisco-49ers/seahawks-officially-rule-out-3-players-for-49ers-matchup-on-sunday/"
+  ]
+ }
+]
