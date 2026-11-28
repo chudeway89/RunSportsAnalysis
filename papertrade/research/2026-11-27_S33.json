@@ -1,0 +1,570 @@
+[
+ {
+  "eid": "sr:match:72531684",
+  "fx": "AVS Futebol SAD v Leixoes SC",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Liga Portugal 2 round 12, 11:00 Lisbon at the Estadio CD Aves (confirmed by zerozero and diadejogo). AVS were beaten 1-5 at home by Tondela in the Taca de Portugal last week. Leixoes won 2-0 v Chaves but have not won in their last 3 away games.",
+  "news": "Kick-off confirmed 28 Nov 11:00; AVS coming off a 1-5 cup loss to Tondela; Leixoes winless in 3 away; no named absences found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.3,
+    "p": 0.739098,
+    "why": "Both sides concede 1.3/game. AVS's last 6 games had 2+ goals in 5 (6,4,3,3,1,3) and Leixoes's in 5 of 6 (2,6,3,4,1,3). Previews expect both teams to score. My p ~0.75 v house 0.74; statistics plus form only, so fill grade."
+   }
+  ],
+  "avoid": "Leixoes 1X2 at 2.10 (p 0.45; away result-side below 0.75, and their away form is poor); Under 3.5 (house p 0.73 < 0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.zerozero.pt/jogo/2026-11-28-afs-leixoes/12278393",
+   "https://diadejogo.pt/prognosticos/prognostico-avs-futebol-sad-leixoes-2026-11-22",
+   "https://afaplay.com/palpite-avs-x-leixoes-portugal-segunda-liga-28-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72874510",
+  "fx": "FC Porto v Vitoria Guimaraes",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "U19 1st phase round 13; per the Porto Canal listing Porto are 1st (22 pts) and Vitoria 2nd (21 pts), a top-of-table game.",
+  "news": "DATE/TIME CONFLICT: superportistas lists 15:00 Lisbon at the PortoGaia training centre, while the board says 11:00 UTC",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: the board says 11:00 UTC, superportistas.pt says 15:00 Lisbon (=UTC). Also a youth fixture.",
+  "picks": [],
+  "avoid": "U19 youth fixture: per rules no result-side picks; goals only in clear mismatches.",
+  "confidence": 0.1,
+  "sources": [
+   "https://superportistas.pt/jogos/porto-u19-vs-vitoria-guimaraes-u19/",
+   "https://www.flashscore.pt/jogo/futebol/fc-porto-x0wl3zAS/vitoria-guimaraes-OUICtYdS/"
+  ]
+ },
+ {
+  "eid": "sr:match:72874514",
+  "fx": "SC Braga v FC Vizela",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "U19 Zona Norte: Braga have 16 pts and Vizela are last on 9 after round 12. Braga are winless in 5 home games (0W 3D 2L), so this is not a reliable mismatch.",
+  "news": "Vizela bottom of Zona Norte; Braga poor at home; no date conflict found (no date-specific listing either)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U19 youth fixture: per rules no result-side picks; goals only in clear mismatches. Braga at 1.39 is a youth result-side and their home form is 0W in 5.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/juniores-resultados-da-jornada-12-a-classificacoes-do-campeonato/18151058"
+  ]
+ },
+ {
+  "eid": "sr:match:72874688",
+  "fx": "Sporting CP v SCU Torreense",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "U19 Zona Sul round 13: Torreense are joint top on 21 pts (they beat Benfica 2-1 in round 12) and Sporting have 20. A top-3 clash, not a mismatch.",
+  "news": "Torreense joint-top after beating Benfica; footballstreams lists 28 Nov 11:00 GMT, matching the board",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U19 youth fixture: per rules no result-side picks; goals only in clear mismatches. Not a mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/juniores-resultados-da-jornada-12-a-classificacoes-do-campeonato/18151058",
+   "https://www.footballstreams.com/matches/sporting-cp-u19-vs-sc-uniao-torreense-u19-20261128/"
+  ]
+ },
+ {
+  "eid": "sr:match:72531686",
+  "fx": "GD Chaves v CD Tondela",
+  "sport": "football",
+  "absences": "None named. Joca returns to the Tondela squad (per Record, though that report may come from an earlier fixture, so treat it as unconfirmed).",
+  "context": "Liga Portugal 2 round 12, 14:00 at the Estadio Municipal Eng. Manuel Branco Teixeira (confirmed by the GD Chaves site and 365scores). Chaves are about 17th and winless in the league since 23 Oct; this is Jorge Simao's first home game as coach (a new-coach bounce risk). Tondela are about 5th, with 8W in their last 10, a 2-0 win v Farense and 5-1 at AVS in the cup.",
+  "news": "Kick-off confirmed; Chaves in a relegation fight, winless since 23 Oct, new coach Jorge Simao's first home game; Tondela in form (2-0 Farense, 5-1 AVS cup)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.5,
+    "p": 0.6283891678,
+    "why": "Tondela are 8-1-1 in their last 10 (gf 2.5, ga 0.7) v a Chaves side that has lost 6 of 10 and concedes 2.1. DNB covers the new-coach draw risk. My p ~0.66 v house 0.63."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.33,
+    "p": 0.7212962925,
+    "why": "Every one of both sides' last 6 games had 2+ goals (Chaves 5,2,5,4,3,3; Tondela 6,2,2,5,3,2). Chaves concede 2.1/game and Tondela score 2.5. My p ~0.77 v house 0.72."
+   }
+  ],
+  "avoid": "Tondela 1X2 2.10 (away result-side p 0.45 < 0.75); Under 3.5 (p 0.75 < 0.82). Jorge Simao's debut at home adds variance.",
+  "confidence": 0.3,
+  "sources": [
+   "https://diadejogo.pt/noticias/antevisao-chaves-tondela-2026-11-22",
+   "https://sapo.pt/artigo/liga-2-tondela-joga-este-sabado-em-chaves-6b09aa65c5870b6e086fbf1f",
+   "https://gdchaves.pt/",
+   "https://www.record.pt/futebol/futebol-nacional/2--liga/tondela/detalhe/joca-regressa-aos-convocados-na-deslocacao-a-chaves"
+  ]
+ },
+ {
+  "eid": "sr:match:73208340",
+  "fx": "Juventude SC Evora v Santa Clara Azores B",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal Serie 4. Santa Clara B are a reserve side.",
+  "news": "TIME CONFLICT: zerozero and Sofascore list 15:00 (UTC) and footballstreams lists 14:00 GMT; the board says 14:00 UTC",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: zerozero and Sofascore say 15:00 v the board's 14:00 UTC. Reserve (B) opponent.",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.zerozero.pt/equipa/juventude-sc/3594",
+   "https://www.sofascore.com/football/team/juventude-sport-clube/21829",
+   "https://www.footballstreams.com/matches/juventude-de-evora-vs-santa-clara-b-20261128/"
+  ]
+ },
+ {
+  "eid": "sr:match:72874694",
+  "fx": "Casa Pia AC v CL Oriental",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "U19 Zona Sul round 13; Casa Pia and Oriental are level on 16 pts. Casa Pia lost 1-0 to Leiria in round 12. An even game.",
+  "news": "Listed in round 13 by O Jogo; level on points",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U19 youth fixture: per rules no result-side picks; goals only in clear mismatches.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/juniores-resultados-da-jornada-12-a-classificacoes-do-campeonato/18151058"
+  ]
+ },
+ {
+  "eid": "sr:match:72874692",
+  "fx": "CD Mafra U19 v Sporting Clube Farense",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "U19: two weak sides (Mafra 2W in 10, Farense 1W in 10). Not a mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U19 youth fixture: per rules no result-side picks; goals only in clear mismatches.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/juniores-resultados-da-jornada-12-a-classificacoes-do-campeonato/18151058"
+  ]
+ },
+ {
+  "eid": "sr:match:72874508",
+  "fx": "FC Famalicao v Academico Viseu U19",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "U19 Zona Norte, an even game.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U19 youth fixture: per rules no result-side picks; goals only in clear mismatches.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/juniores-resultados-da-jornada-12-a-classificacoes-do-campeonato/18151058"
+  ]
+ },
+ {
+  "eid": "sr:match:72874506",
+  "fx": "Gil Vicente v CD Feirense",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "U19 Zona Norte. Feirense's games are very low scoring (gf 0.6, ga 0.7).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U19 youth fixture: per rules no result-side picks; goals only in clear mismatches.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/juniores-resultados-da-jornada-12-a-classificacoes-do-campeonato/18151058"
+  ]
+ },
+ {
+  "eid": "sr:match:72874512",
+  "fx": "Rio Ave FC v Moreirense FC",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "U19 Zona Norte, an even game.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U19 youth fixture: per rules no result-side picks; goals only in clear mismatches.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/juniores-resultados-da-jornada-12-a-classificacoes-do-campeonato/18151058"
+  ]
+ },
+ {
+  "eid": "sr:match:74567928",
+  "fx": "1 Dezembro v GD Lagoa",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal round 9. 1 Dezembro scored 0.9/game in their last 10, so a low-output game.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked. Thin scoring.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73207472",
+  "fx": "AD Castro Daire v AD Camacha",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal. Camacha (Madeira) are unbeaten in 5 away; Castro Daire's games are low scoring.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73207482",
+  "fx": "AD Ovarense v Guarda Desportiva FC",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal Serie 2 round 9, 15:00 at the Estadio Marques da Silva, Ovar (club site). Ovarense led Serie 2 (16 pts) in the last table found; Guarda have 2W in their last 10 and lost 7.",
+  "news": "Club site confirms 28 Nov 15:00 Ovar; Ovarense are Serie 2 leaders; no named absences",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.74266,
+    "why": "Serie 2 leaders v a side that has lost 7 of 10 (gf 1.1). Ovarense are 7-1-2 in their last 10 and score 2.5/game. My p ~0.76 v house 0.74. An amateur tier, so the edge is small."
+   }
+  ],
+  "avoid": "Under markets (amateur tier); Home -1.5 (Ovarense concede 2.17/game at home).",
+  "confidence": 0.25,
+  "sources": [
+   "https://adovarense.pt/",
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73208334",
+  "fx": "Amora FC v SC Mineiro Aljustrelense",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal Serie 4. Aljustrelense were 14th (3 pts) a month ago and score 0.6 while conceding 2.2/game. Amora were 7th but are poor at home (1W in 5).",
+  "news": "LiveSoccerTV lists 10:00am ET (=15:00 UTC), consistent with the board; no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.786867,
+    "why": "All of Aljustrelense's last 6 had 2+ goals (4,3,2,3,2,3): they concede 2.2 and away 2.33. Amora's last 6 went 0,3,3,2,1,7. My p ~0.79 v house 0.79, so at best no edge; fill only."
+   }
+  ],
+  "avoid": "Amora 1X2 1.36 (poor home form, 1W in 5); Unders (amateur tier).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/portugal/segunda-divisao/",
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73207870",
+  "fx": "At Malveira v FC Alverca B",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal. Alverca B are a reserve side (the first team is in Liga Portugal).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked. Reserve opponent: no result-sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73207474",
+  "fx": "CD Cinfaes v AD Sanjoanense",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal. Cinfaes score 0.8/game, so a low-scoring profile.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73207872",
+  "fx": "CD Fatima v Sport Benfica Castelo Branco",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal Serie 3 round 9, 15:00 (Sport TV listing). Fatima were 11th. Benfica CB have lost 6 of 10.",
+  "news": "Sport TV lists 28 Nov 15:00, matching the board",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked. No anchor mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sporttv.pt/jogos/equipa/mg:team:w7cedd2z7hxv/cd-fatima",
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73206916",
+  "fx": "CDC Montalegre v Gd Chaves B",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal Serie 1 round 9 (O Jogo calendar). Chaves B are a reserve side.",
+  "news": "An aggregator listing of 10:00 appears to be US Eastern (=15:00 UTC); no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked. Reserve opponent.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal",
+   "https://www.sportytrader.com/en/results-live/football/portugal/campeonato-de-portugal-group-c-71192/"
+  ]
+ },
+ {
+  "eid": "sr:match:73207484",
+  "fx": "CF Uniao de Lamas v AD Machico",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal. Machico (Madeira) are unbeaten in 5 away; Lamas score 0.6/game at home.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73207480",
+  "fx": "Estrela Calheta FC v FC Alpendorada",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal. Estrela Calheta (Madeira) have 1W in 10; the H2H was 1-7.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked. Alpendorada DNB at p 0.61 has no anchor.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73207878",
+  "fx": "FC Oliveira do Hospital v Mortagua FC",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal Serie 3 round 9: Oliveira do Hospital and Mortagua are both near the top (Sapo), a top-of-table clash. Mortagua are unbeaten in 5 away and many of their games are low scoring.",
+  "news": "Both near the top of Serie 3; no absences found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked. A top clash: no result-side.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sapo.pt/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada-6af0d014013ef6a6906c78e8",
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73208336",
+  "fx": "FC Serpa v Imortal DC",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal Serie 4.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73206918",
+  "fx": "GD Braganca v Atletico de Vila Mea",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal Serie 1 round 9 (O Jogo calendar lists Braganca v Vila Mea).",
+  "news": "Fixture confirmed in the round 9 calendar; no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked. Braganca DNB p 0.70 has no anchor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73207880",
+  "fx": "Gd Nazarenos v Uniao Serra",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal. Nazarenos have 0W in 6 at home and scored 0.17/game there. Uniao Serra score 2.1 but concede 1.8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked. The Nazarenos home attack is near zero, so Overs are risky.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73206926",
+  "fx": "Maia Lidador v AD Os Limianos",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal. Limianos are 6-3-1 in their last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Campeonato de Portugal is the amateur 4th tier: no Unders allowed; Overs only with both sides' last 6 checked.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035",
+   "https://www.zerozero.pt/competicao/campeonato-de-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:73207876",
+  "fx": "O Elvas Cad v AD Nogueirense",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Campeonato de Portugal Serie 3 round 9. O Elvas were near the top of the table (Sapo) and score 2.67/game at home. Nogueirense have 1W in 9 (6 draws) and were 10th.",
+  "news": "LiveSoccerTV lists 10:00am ET (=15:00 UTC), consistent with the board; Elvas near the top",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.7412634356,
+    "why": "Elvas are near the top of the table and 6-1-3 in their last 10 v a side with 1 win in 9. DNB covers Nogueirense's draw habit (6 draws). My p ~0.75 v house 0.74."
+   }
+  ],
+  "avoid": "Unders (amateur tier); Home 1X2 1.65 (Nogueirense draw a lot).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.livesoccertv.com/teams/portugal/o-elvas/",
+   "https://sapo.pt/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada-6af0d014013ef6a6906c78e8"
+  ]
+ },
+ {
+  "eid": "sr:match:72531688",
+  "fx": "SC Farense v UD Leiria",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Liga Portugal 2 round 12 at the Estadio Sao Luis, Faro (Sport TV 4). Farense lost 2-0 at Tondela last round. Standings disagree between sources (Leiria are listed 7th or 11th).",
+  "news": "DATE CONFLICT: diadejogo says 28 Nov 15:30 Lisbon (matches the board), but Sofascore lists 29 Nov 11:00 UTC",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict between sources (Sofascore: 29 Nov 11:00 UTC v diadejogo/board: 28 Nov 15:30).",
+  "picks": [],
+  "avoid": "All markets until the date is confirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://diadejogo.pt/noticias/farense-uniao-de-leiria-a-que-horas-onde-ver-2026-11-28",
+   "https://www.sofascore.com/pt/football/match/uniao-de-leiria-sc-farense/Yjbsakb"
+  ]
+ },
+ {
+  "eid": "sr:match:72531694",
+  "fx": "Lusitania FC Lourosa v FC Vizela",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Liga Portugal 2 round 12. Lourosa are joint top (22 pts per O Jogo) but play 'home' at the Estadio Luis Filipe Menezes in Vila Nova de Gaia, not their own ground, which reduces home advantage.",
+  "news": "Venue moved to Vila Nova de Gaia (RTP/O Jogo/Diario de Aveiro); TIME CONFLICT: the papers say 18:00, but FotMob lists 11:00 UTC and its team page says 29 Nov",
+  "veto": true,
+  "veto_reason": "Kick-off/date conflict (FotMob 11:00 UTC and 29 Nov v 18:00 on 28 Nov in the press); home side playing at a borrowed ground.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.rtp.pt/noticias/futebol-nacional/lusitania-de-lourosa-regressa-a-vila-nova-de-gaia-para-receber-o-vizela-na-ii-liga_d1780933",
+   "https://www.ojogo.pt/futebol/artigo/lusitania-de-lourosa-volta-a-jogar-em-vila-nova-de-gaia/18151006",
+   "https://www.fotmob.com/matches/vizela-vs-lusitania-lourosa/8j0fuke"
+  ]
+ },
+ {
+  "eid": "sr:match:72531698",
+  "fx": "Sporting Lisbon B v Amarante FC",
+  "sport": "football",
+  "absences": "none named in sources",
+  "context": "Liga Portugal 2 round 12 at the Estadio Aurelio Pereira (Sporting TV). Sporting B are 2nd on a run of 3 wins and a draw (coach Tiago Fernandes). Amarante are 14th, last playing 1-1 v Felgueiras on 15 Nov (two weeks without a game). Sporting B is a reserve side; first-team call-ups can strip it.",
+  "news": "Most sources say 18:00, but Xscores says 20:00; Sporting B are 2nd and in form",
+  "veto": true,
+  "veto_reason": "Kick-off conflict (Xscores 20:00 v 18:00 elsewhere); reserve side subject to first-team call-ups.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://diadejogo.pt/noticias/sporting-cp-b-amarante-fc-a-que-horas-onde-ver-2026-11-28",
+   "https://diadejogo.pt/noticias/tiago-fernandes-treinam-cada-vez-com-mais-ambicao-2026-11-27",
+   "https://www.xscores.com/soccer/match/portugal/sporting-cp-b-vs-amarante-fc/2026-2027/2833923"
+  ]
+ }
+]
