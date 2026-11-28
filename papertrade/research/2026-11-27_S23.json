@@ -1,0 +1,620 @@
+[
+ {
+  "eid": "sr:match:77184704",
+  "fx": "PFK Metallurg Bekabad v Fardu Ferghana",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Uzbek Pro Liga (2nd tier) late-season; Metallurg unbeaten in last 10 (7-3-0), Fardu 6-2-2. Earlier meeting listed Jun 8 (Metallurg won per BetsAPI, unconfirmed).",
+  "news": "no news found for Nov 28; only earlier-season meeting listings",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Statistics-only case for Metallurg DNB 1.21; no named mechanism, no confirmation of Nov 28 fixture context (possible end-of-season/playoff) -> no pick",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/football/match/fardu-ferghana-metallurg-bekabad/qfqsRDrc",
+   "https://betsapi.com/soccer/t/1277703/metallurg-bekabad"
+  ]
+ },
+ {
+  "eid": "sr:match:74672874",
+  "fx": "Binh Minh Sai Gon v Becamex Ho Chi Minh City",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "V-League 2 (Hang Nhat) round 9: Becamex TP.HCM top after 4 straight wins, Binh Minh Sai Gon 3 pts behind (16 v 19) - top-of-table clash.",
+  "news": "Leaders Becamex (4 straight wins) visit 2nd-placed Binh Minh; KO 17:00 VN per thethao247 but 16:00 per Bao Quoc te",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (16:00 vs 17:00 local) on a top-of-table clash",
+  "picks": [],
+  "avoid": "Becamex DNB 1.19 / away -0.5 would otherwise be candidates; vetoed on KO conflict",
+  "confidence": 0.2,
+  "sources": [
+   "https://thethao247.vn/63-nhan-dinh-binh-minh-sai-gon-vs-becamex-tphcm-thu-thach-cho-doi-dau-bang-17h00-ngay-28-11-2026-c288-d447312.html",
+   "https://baoquocte.vn/lich-thi-dau-bong-da-hom-nay-28-11-va-sang-29-11-lich-thi-dau-ngoai-hang-anh-mu-vs-brentford-v-league-ha-noi-vs-ha-tinh-472833.html",
+   "https://tuoitre.vn/lich-truc-tiep-vong-9-giai-hang-nhat-thai-nguyen-cham-tran-hung-yen-100261126151300213.htm"
+  ]
+ },
+ {
+  "eid": "sr:match:74672878",
+  "fx": "Binh Dinh FC v K. Khanh Hoa",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Hang Nhat round 9: listed by Tuoi Tre/Bao Quoc te as Quy Nhon United v Khatoco Khanh Hoa, 18:00 VN at Quy Nhon (= board 11:00 UTC; Binh Dinh FC trading as Quy Nhon United). Mid-table, evenly matched (both 3-3-4 last 10).",
+  "news": "fixture confirmed 18:00 at Quy Nhon (club name differs: Quy Nhon United); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip 1X2/totals; Home +0.5 1.23 statistics-only",
+  "confidence": 0.15,
+  "sources": [
+   "https://thethao247.vn/63-nhan-dinh-binh-minh-sai-gon-vs-becamex-tphcm-thu-thach-cho-doi-dau-bang-17h00-ngay-28-11-2026-c288-d447312.html",
+   "https://baoquocte.vn/lich-thi-dau-bong-da-hom-nay-28-11-va-sang-29-11-lich-thi-dau-ngoai-hang-anh-mu-vs-brentford-v-league-ha-noi-vs-ha-tinh-472833.html",
+   "https://tuoitre.vn/lich-truc-tiep-vong-9-giai-hang-nhat-thai-nguyen-cham-tran-hung-yen-100261126151300213.htm"
+  ]
+ },
+ {
+  "eid": "sr:match:74672876",
+  "fx": "Quang Ninh FC v Ho Chi Minh City FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Hang Nhat round 9. Tuoi Tre round-9 schedule lists CLB TP.HCM away at Thep Can Tho (18:00, Can Tho stadium) and no Quang Ninh fixture found at all.",
+  "news": "Opponent/venue conflict: sources show TP.HCM playing at Can Tho, not Quang Ninh",
+  "veto": true,
+  "veto_reason": "Venue/opponent conflict: round-9 schedule has CLB TP.HCM at Thep Can Tho; no Quang Ninh v TP.HCM listing found",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://thethao247.vn/63-nhan-dinh-binh-minh-sai-gon-vs-becamex-tphcm-thu-thach-cho-doi-dau-bang-17h00-ngay-28-11-2026-c288-d447312.html",
+   "https://baoquocte.vn/lich-thi-dau-bong-da-hom-nay-28-11-va-sang-29-11-lich-thi-dau-ngoai-hang-anh-mu-vs-brentford-v-league-ha-noi-vs-ha-tinh-472833.html",
+   "https://tuoitre.vn/lich-truc-tiep-vong-9-giai-hang-nhat-thai-nguyen-cham-tran-hung-yen-100261126151300213.htm",
+   "https://vietnamnet.vn/trong-tai-gay-tranh-cai-tphcm-trang-tay-tran-ra-mat-chu-tich-huu-thang-453124.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74090526",
+  "fx": "Bac Ninh v SHB Da Nang",
+  "sport": "football",
+  "absences": "SHB Da Nang: Hong Phuc suspended (red card v Ninh Binh, round 8). Bac Ninh: full squad.",
+  "context": "V.League 1 round 9, 18:00 at Viet Yen. Bac Ninh conceded 6 in 7; Da Nang conceded 13 in 8, scored 8.",
+  "news": "Da Nang without suspended Hong Phuc, leaky defence (13 conceded in 8); Bac Ninh solid at home (0.75 ga)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.34,
+    "p": 0.711461,
+    "why": "Named absence (Hong Phuc, red card) in a Da Nang defence that conceded 13 in 8; Bac Ninh home ga 0.75 and only 6 conceded in 7. Own est 0.74 v house 0.71."
+   }
+  ],
+  "avoid": "Unders (p<0.82), Da Nang catches",
+  "confidence": 0.3,
+  "sources": [
+   "https://tienphong.vn/nhan-dinh-bac-ninh-vs-da-nang-18h00-ngay-2811-tran-chien-khong-khoan-nhuong-post1898186.tpo",
+   "https://www.vietnam.vn/nhan-dinh-bac-ninh-vs-da-nang-18h00-ngay-28-11-tran-chien-khong-khoan-nhuong"
+  ]
+ },
+ {
+  "eid": "sr:match:74090524",
+  "fx": "Cong an TP Ho Chi Minh v Hoang Anh Gia Lai",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "V.League 1 round 9, 18:00. CA TP.HCM 10 pts clear of HAGL but lost 3 straight league games (both lost 1-2 last round). HAGL last in the away table: 0 away wins, most away goals conceded (last 5 away 0-5, ga 2.8).",
+  "news": "Hosts seek to end 3-game losing run v HAGL who have no away win this season",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Home (0)",
+    "odds": 1.21,
+    "p": 0.796075,
+    "why": "HAGL 0 away wins this season (0-0-5 last 5 away, ga 2.8) and last in the away table; CA TP.HCM home 3-0-1 with ga 0.5. Draw refunds. Own est 0.81 v house 0.80."
+   }
+  ],
+  "avoid": "Home -1/-1.5 (hosts low-scoring, 1.0 gf); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://tienphong.vn/nhan-dinh-cong-an-tphcm-vs-hoang-anh-gia-lai-18h00-ngay-2811-xa-gian-vao-doi-khach-post1898180.tpo",
+   "https://thethao247.vn/63-nhan-dinh-cong-an-tphcm-vs-hoang-anh-gia-lai-suc-ep-tu-hai-bien-18h00-ngay-28-11-2026-c288-d447318.html"
+  ]
+ },
+ {
+  "eid": "sr:match:68380666",
+  "fx": "FK Neftchi Fargona v PFK Dinamo Samarqand",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Uzbek Superliga late season (round 29/30). Neftchi reported top of table (title race v Pakhtakor). Date conflict: one calendar shows Nov 27 19:00, soccer365 shows Nov 28 06:15; board Nov 28 11:15 UTC.",
+  "news": "Date/kick-off conflict between calendars; Neftchi in title race",
+  "veto": true,
+  "veto_reason": "Date conflict (Nov 27 19:00 v Nov 28) across fixture calendars",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.15,
+  "sources": [
+   "https://football-fun-live.com/tournaments/uzbekistan-superliga/calendar",
+   "https://soccer365.ru/online/&competition_id=731&gsessionid=LiGagXbv9Sal-h4jYfaipUoqwZXX8NyUlKbsc3emXeyjh8k_lxFCrA",
+   "https://www.predictz.com/predictions/uzbekistan/super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:68380668",
+  "fx": "Qizilqum Zarafshon v Pakhtakor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Uzbek Superliga final rounds; Pakhtakor in title chase behind Neftchi (standings snapshots conflict). Qizilqum very low-scoring (gf 1.0 ga 0.6 last 10). predictz confirms Nov 28 11:15 UTC; soccer365 lists it as round 30 while Neftchi game is round 29 (inconsistent round numbering).",
+  "news": "Fixture time confirmed by predictz; Pakhtakor poor away (1-1-3 last 5 away, gf 0.6) despite title motivation",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pakhtakor away 1X2 (p 0.62 < 0.75), DNB 1.17 below range, Under 3.5 p 0.75 < 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://football-fun-live.com/tournaments/uzbekistan-superliga/calendar",
+   "https://soccer365.ru/online/&competition_id=731&gsessionid=LiGagXbv9Sal-h4jYfaipUoqwZXX8NyUlKbsc3emXeyjh8k_lxFCrA",
+   "https://www.predictz.com/predictions/uzbekistan/super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72629766",
+  "fx": "Manzanares FS v FC Barcelona",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Spanish futsal Primera round 10; Barca top (16-20 pts), Manzanares won 4-2 at Zaragoza last round.",
+  "news": "no news found for this fixture/date",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Barca away 1X2 p 0.60 (3-way futsal draw risk)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.aragonplay.es/aragondeporte/resultados/futbol-sala/primera-division-fs",
+   "https://www.ultimahora.es/deportes/clasificacion/futbol-sala/primera-division-futsal.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74090528",
+  "fx": "Hanoi FC v Hong Linh Ha Tinh FC",
+  "sport": "football",
+  "absences": "none: both coaches have full squads (no injuries/suspensions)",
+  "context": "V.League 1 round 9 at Hang Day 19:15. Ha Tinh (14 pts) above Hanoi (12); pressure on Hanoi coach Harry Kewell. Hanoi conceded 13 in 8. Ha Tinh striker Daniel Passira 6 goals.",
+  "news": "Full squads; Kewell under pressure, Hanoi need home win; Passira the threat",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.23,
+    "p": 0.779603,
+    "why": "Hanoi at Hang Day with full squad, must-respond for under-pressure Kewell; Ha Tinh away 1-1-3 last 5. Own est 0.78 v house 0.78 - fill grade."
+   }
+  ],
+  "avoid": "Unders (Hanoi leaky: 13 conceded in 8); Hanoi -1",
+  "confidence": 0.25,
+  "sources": [
+   "https://bongda.com.vn/soi-tran-ha-noi-fc-vs-ha-tinh-bai-toan-giu-cu-ly-truoc-doi-khach-li-lom-d856533.html",
+   "https://www.vietnam.vn/nhan-dinh-ha-noi-vs-ha-tinh-19h15-ngay-28-11-giai-cuu-harry-kewell",
+   "https://congluan.vn/ha-noi-fc-hong-linh-ha-tinh-thu-thach-gianh-ba-diem-cho-doi-chu-nha-post369139.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72522186",
+  "fx": "Barry Town United FC v Caernarfon Town FC",
+  "sport": "football",
+  "absences": "no team news found",
+  "context": "Cymru Premier, Jenner Park 12:30, BBC live. Caernarfon 5th (32), Barry 7th (30) - close mid-table. Barry last 6 games avg 4.0 goals (4-3, 3-3, 1-3...).",
+  "news": "fixture/KO confirmed (BBC live); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.51,
+    "p": 0.630702,
+    "why": "Both sides high-event: Barry last 6 avg 4.0 goals, Caernarfon gf 2.6; Cymru Premier high-scoring. Own est 0.65 v 0.63 - fill."
+   }
+  ],
+  "avoid": "Caernarfon away 1X2 p 0.56; integer O/U lines",
+  "confidence": 0.2,
+  "sources": [
+   "https://nwsport.co.uk/2026/11/28/football-fixtures-for-north-wales-saturday-november-28/",
+   "https://faw.cymru/cymru-leagues/news/s4c-and-bbc-confirm-two-extra-novira-cymru-premier-fixtures-for-live-coverage/",
+   "https://sgorio.cymru/?lang=en"
+  ]
+ },
+ {
+  "eid": "sr:match:75548182",
+  "fx": "Al-Dhaid v Dibba Al-Hisn SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "UAE First Division; Sofascore confirms Nov 28 12:40 UTC. Dibba Al-Hisn high-event (away gf 2.83 ga 2.67).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Gulf thin-league Overs class; Dibba away 1X2 p 0.47",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/team/al-thaid/246621",
+   "https://www.livesoccertv.com/competitions/united-arab-emirates/division-1-group-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:75548184",
+  "fx": "AL Ittifaq v Al-Hamriyah",
+  "sport": "football",
+  "absences": "none found",
+  "context": "UAE First Division. Al Ittifaq poor (2-1-7, gf 0.7).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hamriyah away -0.5 p 0.47; Gulf Unders",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/united-arab-emirates/division-1-group-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:74201116",
+  "fx": "FC Muza v Napsa Stars",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Zambia Super League / transition league (Group A). Muza strong at home (5-0-1, ga 0.5); Napsa 1-6-3 last 10. Earlier meeting Napsa 1-1 Muza (Oct).",
+  "news": "no news found for Nov 28",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.7359950224,
+    "why": "Muza home 5-0-1 (ga 0.5) v draw-heavy Napsa (6 draws in 10, 0.7 gf); DNB refunds the draw. Statistics-led, own est 0.75 v 0.74 - fill only."
+   }
+  ],
+  "avoid": "Overs (very low-scoring league)",
+  "confidence": 0.15,
+  "sources": [
+   "https://kalumiana.substack.com/p/weekend-scorecardroan-united-toast",
+   "https://soccer365.net/competitions/925/"
+  ]
+ },
+ {
+  "eid": "sr:match:74201378",
+  "fx": "Roan United v Nkwazi",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Zambia transition league Group B; Roan beat Nkwazi 2-1 away in opener. Both ultra low-scoring (Roan home gf 0.25; Nkwazi 7 draws in 10).",
+  "news": "no news found for Nov 28",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 p 0.70 < 0.82; result sides coin-flip",
+  "confidence": 0.1,
+  "sources": [
+   "https://zambianfootball.co.zm/konkola-blades-stun-champions-power-as-green-eagles-make-flying-start/",
+   "https://kalumiana.substack.com/p/weekend-scorecardroan-united-toast"
+  ]
+ },
+ {
+  "eid": "sr:match:73322064",
+  "fx": "Lecha Poznan v FC  Torun",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Futsal Ekstraklasa round 13: Wiara Lecha Poznan v FC Reiter Torun. Torun 0-2-8 last 10.",
+  "news": "Round listed for 28-29 Nov; statscore shows 27.11 23:00",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict (statscore 27.11 23:00 v schedule 28-29 Nov v board 28.11 13:00 UTC)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://futsal-ekstraklasa.statscore.com/pl/futsal/futsal-ekstraklasa,6294/71147",
+   "https://www.futsalekstraklasa.pl/aktualnosc/terminarz-fazy-zasadniczej-sezonu-202627"
+  ]
+ },
+ {
+  "eid": "sr:match:72546196",
+  "fx": "Llantwit Major v Treowen Stars",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru South (tier 2), 28 Nov confirmed. Both sides high-event: Llantwit last 6 totals 5,4,5,2,5,2; Treowen 1,5,4,1,4,3.",
+  "news": "fixture confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.41,
+    "p": 0.6736030257,
+    "why": "Llantwit 4 of last 6 had 4+ goals, Treowen away ga 2.67; tier-2 Welsh defences porous. Own est 0.70 v 0.67 - fill."
+   }
+  ],
+  "avoid": "Unders; result sides (near 50/50)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.allwalessport.co.uk/football.aspx?cid=16796"
+  ]
+ },
+ {
+  "eid": "sr:match:76554916",
+  "fx": "Al Wasl FC v Al Dhafra SSC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "ADNOC Pro League, Zabeel. Al Wasl 8-0-2 last 10 (home 5-0-1, gf 3.17); Al Dhafra 11th, away 1-0-4. Previous H2H Wasl 3-0 (Mar 2026). KO 08:15 US-Central = 14:15 UTC consistent.",
+  "news": "No team news; Wasl in form v struggling 11th-placed Dhafra",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.786202,
+    "why": "Wasl 8 wins in 10, home 5-0-1; Dhafra 11th with 4 away losses in 5; 3-0 last H2H. Own est 0.80 v 0.79."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7769690952,
+    "why": "Wasl home gf 3.17 (5-1, 2-1, 2-0, 4-3, 6-5 recent), Dhafra away ga 2.0. Own est 0.79 v 0.78."
+   }
+  ],
+  "avoid": "Wasl -1.5/-2 (Wasl concede 2.0 at home; margins volatile); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fotmob.com/matches/al-wasl-vs-al-fujairah/2zu4lpwh",
+   "https://www.alwaslsc.ae/en-gb/news-details/AlWasl-win-over-AlDhafra-in-ADNOC-Pro-League",
+   "https://www.voiceofemirates.com/en/emirates/2026/03/19/al-wasl-regains-winning-form-with-a-3-0-victory-over-al-dhafra-in-the-uae-league-video/"
+  ]
+ },
+ {
+  "eid": "sr:match:72546200",
+  "fx": "Aberystwyth Town FC v Pontypridd Town",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru South: Pontypridd United top (27 pts at Nov 7) visit Aberystwyth (7-1-2 last 10). Top-of-table clash. Both high-scoring: Aberystwyth last 6 avg 4.0, Pontypridd last 6 avg 4.0 goals; last season H2H 3-1.",
+  "news": "fixture confirmed 14:30; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.56,
+    "p": 0.606998,
+    "why": "Both attacks prolific (Aber gf 2.6, Ponty gf 2.2; each last 6 avg 4 goals). Own est 0.66 v 0.61 - fill."
+   }
+  ],
+  "avoid": "Result sides in a top-two clash",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.allwalessport.co.uk/football.aspx?cid=16796"
+  ]
+ },
+ {
+  "eid": "sr:match:72546198",
+  "fx": "Trethomas Bluebirds v Ynyshir Albions",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cymru South. Every one of both teams' last 6 games had 3+ goals (Trethomas 5,4,3,4,5,4; Ynyshir 5,3,6,4,8,3).",
+  "news": "fixture confirmed 14:30; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.42,
+    "p": 0.6722420141,
+    "why": "12 of 12 recent games across both sides had 3+ goals; both concede ~2 per game. Own est 0.73 v 0.67."
+   }
+  ],
+  "avoid": "result sides (coin-flip); third same-league Over on a ticket (S3 cap)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.allwalessport.co.uk/football.aspx?cid=16796"
+  ]
+ },
+ {
+  "eid": "sr:match:72629760",
+  "fx": "Murcia FS v CD El Ejido FS",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Spanish futsal Primera: ElPozo Murcia (poor home form 1-2-3, lost 2-14) v El Ejido.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Murcia 1X2 p 0.54",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.aragonplay.es/aragondeporte/resultados/futbol-sala/primera-division-fs"
+  ]
+ },
+ {
+  "eid": "sr:match:72670658",
+  "fx": "Mrk Dugo Selo v RK Nexe",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Croatian Premijer liga: Nexe (9-1 last 10) away at Dugo Selo; Nexe has European midweek fixtures (congestion). No 28.11 date confirmation found.",
+  "news": "no confirmation of 28 Nov date; Nexe congested",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Nexe 1X2 at 1.12 below range",
+  "confidence": 0.1,
+  "sources": [
+   "https://hrs.hr/2026/11/20/paket24-premijer-liga-puno-izazovnih-gostovanja-donosi-nam-ovaj-vikend/",
+   "https://sportnet.hr/sportnetklub/rukomet-5/paket24-premijer-liga-2026-27-363168/121/"
+  ]
+ },
+ {
+  "eid": "sr:match:73322058",
+  "fx": "KS Constract Lubawa v MOKS S\u00c5\u0082oneczny Stok Bia\u00c5\u0082ystok",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Futsal Ekstraklasa round 13: Constract Lubawa v Jagiellonia/MOKS Slonecny Stok Bialystok. Club page 28.11 18:00 local (=17:00 UTC board) but statscore 15:00.",
+  "news": "kick-off conflict 18:00 v 15:00",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between club page (18:00) and statscore (15:00)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://ksconstract.pl/",
+   "https://futsal-ekstraklasa.statscore.com/pl/futsal/futsal-ekstraklasa,6294/71147"
+  ]
+ },
+ {
+  "eid": "sr:match:72670664",
+  "fx": "Spacva Vinkovci v RK Bjelovar",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Croatian Premijer liga: Spacva lost 25-29 at Porec last round; Bjelovar lost 28-30 to Rudar. Bjelovar away 0-1-4.",
+  "news": "no news found for this fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Spacva 1X2 p 0.57",
+  "confidence": 0.1,
+  "sources": [
+   "https://hrs.hr/2026/11/20/paket24-premijer-liga-puno-izazovnih-gostovanja-donosi-nam-ovaj-vikend/",
+   "https://novosti.hr/spacva-sutra-na-domacem-terenu-trazi-nove-bodove/"
+  ]
+ },
+ {
+  "eid": "sr:match:72522200",
+  "fx": "Holywell Town v Llandudno FC",
+  "sport": "football",
+  "absences": "no team news found",
+  "context": "Cymru Premier, 17:15, S4C/BBC live. Holywell 16th (bottom) on 2 pts, 1-1-8 last 10, ga 3.4; Llandudno 11th on 17 pts but away 1-0-4.",
+  "news": "fixture/KO confirmed; bottom side Holywell",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.2,
+    "p": 0.799113,
+    "why": "Holywell bottom with 2 points, home 0-1-3 ga 3.5; Llandudno only need avoid defeat. Own est 0.80 v 0.80 - fill."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.54,
+    "p": 0.6216740381,
+    "why": "Holywell concede 3.4 per game (1-4, 0-4, 2-3, 0-5, 8-7). Own est 0.65 v 0.62 - fill."
+   }
+  ],
+  "avoid": "Llandudno away 1X2 p 0.58 (<0.75); integer O/U",
+  "confidence": 0.25,
+  "sources": [
+   "https://nwsport.co.uk/2026/11/28/football-fixtures-for-north-wales-saturday-november-28/",
+   "https://faw.cymru/cymru-leagues/news/s4c-and-bbc-confirm-two-extra-novira-cymru-premier-fixtures-for-live-coverage/",
+   "https://sgorio.cymru/?lang=en"
+  ]
+ },
+ {
+  "eid": "sr:match:72629768",
+  "fx": "Peniscola FS v Cartagena FS",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Spanish futsal Primera mid-table clash.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.besoccer.es/equipo/partidos/fs-peniscola"
+  ]
+ },
+ {
+  "eid": "sr:match:72841826",
+  "fx": "HC Linz AG v SC Ferlach",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "HLA Meisterliga: Ferlach top after 5 rounds (8 pts), Linz 6 pts. Even contest.",
+  "news": "no news found; fixture not confirmed in search",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (coin-flip)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fivers.at/hla-team/ergebnisse-und-tabellen/",
+   "https://hla.at/blog/das-ist-der-rundenspielplan-der-hla-meisterliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72841830",
+  "fx": "HSG Lipizzanerheimat v Wat Atzgersdorf",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "HLA Meisterliga: Atzgersdorf bottom (1 pt), 0-2-8 last 10, away 0-5 ga 36.8. Lipizzanerheimat 4 pts.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home -7.5 at house p 0.48 - no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fivers.at/hla-team/ergebnisse-und-tabellen/"
+  ]
+ },
+ {
+  "eid": "sr:match:72841836",
+  "fx": "HC Fivers Wat Margareten v Bregenz Handball",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "HLA Meisterliga: Fivers (8 pts, co-leaders) v Bregenz (5). Fivers page confirms 28.11 19:30 local = 18:30 UTC. Fivers home 4-0 at home.",
+  "news": "fixture time confirmed by club page; no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fivers 1X2 p 0.65; -2.5 coin-flip",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fivers.at/hla-team/ergebnisse-und-tabellen/"
+  ]
+ },
+ {
+  "eid": "sr:match:77117374",
+  "fx": "Deportivo Lara v Barquisimeto SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Venezuela Segunda Division final phase; Deportivo Lara beat Aragua 4-1 on Nov 22, top of Centro-Oeste group. Barquisimeto SC from the same city/state (Lara) - local derby.",
+  "news": "Lara in form (4-1 last game); derby",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (local Barquisimeto derby); Home 1X2 p 0.58",
+  "confidence": 0.15,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Segunda_Divisi%C3%B3n_de_Venezuela_2026",
+   "https://www.sofascore.com/football/tournament/venezuela/segunda-division/10456"
+  ]
+ }
+]

@@ -1,0 +1,587 @@
+[
+ {
+  "eid": "sr:match:72550360",
+  "fx": "FC Viktoriya Sumy v FC Lokomotiv Kyiv",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Persha Liha R18; Viktoriya 2nd after R17, Lokomotiv Kyiv mid-upper; Viktoriya beat Lokomotiv 1-0 in R3",
+  "news": "Fixture listed 28 Nov; kick-off shown 09:00 (365Scores) vs 10:00 (BetExplorer) UTC display - likely time-zone rendering, not a date conflict; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: coin-flip 1X2/DNB and 50/50 totals, no mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/persha-liga-397",
+   "https://www.betexplorer.com/football/ukraine/persha-liga/",
+   "https://pfl.ua/calendar/1353"
+  ]
+ },
+ {
+  "eid": "sr:match:72837372",
+  "fx": "Hatayspor Antakya v Ankaraspor",
+  "sport": "football",
+  "absences": "none named; Hatayspor carry a 9-point deduction",
+  "context": "TFF 2. Lig Beyaz R14; Hatayspor lost all last 10 (gf 0.5, ga 2.8), home games played in Mersin (post-earthquake, normal); Ankaraspor mid-table",
+  "news": "Fixture confirmed 28 Nov 13:00 TR at Mersin Stadyumu (Hatayspor home venue in exile); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ankaraspor Away 1X2 1.43 (p 0.66 < 0.75 away rule); DNB 1.15 below range; regional-tier, no Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.diyanethaber.com.tr/futbol/tff-2-lig-beyaz-puan-durumu-ve-fikstur",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-turkey/tff-2-lig",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_TFF_2._Lig"
+  ]
+ },
+ {
+  "eid": "sr:match:72837366",
+  "fx": "Isparta 32 Spor v Inegol Kafkas Genclikspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig Beyaz R14; Inegol Kafkas better form (6W in 10)",
+  "news": "Listed 13:00 TR 28 Nov (Isbas Isparta 32 - Inegol Kafkasspor); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: away side p 0.44, totals mid-band",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.diyanethaber.com.tr/futbol/tff-2-lig-kirmizi-puan-durumu-ve-fikstur",
+   "https://www.yenisakarya.com/futbolda-haftanin-programi-belli-oldu-sakaryaspor-deplasmanda"
+  ]
+ },
+ {
+  "eid": "sr:match:72837958",
+  "fx": "Karacabey Belediyespor v Sakaryaspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig Kirmizi R14; Sakaryaspor (relegated big club) away",
+  "news": "Confirmed 28 Nov 13:00 TR at Karacabey M. Fehmi Gerceker Stadium; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sakaryaspor DNB 1.34 p0.70 - no mechanism, Karacabey 1.9 gf at home; O1.5 1.19 in a third tier = thin-league Over",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.diyanethaber.com.tr/futbol/tff-2-lig-kirmizi-puan-durumu-ve-fikstur",
+   "https://www.yenisakarya.com/futbolda-haftanin-programi-belli-oldu-sakaryaspor-deplasmanda"
+  ]
+ },
+ {
+  "eid": "sr:match:72837362",
+  "fx": "Sanliurfaspor v Somaspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig Beyaz R14; Sanliurfaspor 7W in 10 (2.6 gf); Somaspor 1W in 10 (0.6 gf)",
+  "news": "Confirmed 28 Nov 13:00 TR (Diyanet); Forebet shows 11:00 (other tz); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.16 below range; Home -2.5 2.2 too thin; Somaspor scored in only 3 of last 6",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.diyanethaber.com.tr/futbol/tff-2-lig-beyaz-puan-durumu-ve-fikstur",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-turkey/tff-2-lig",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_TFF_2._Lig"
+  ]
+ },
+ {
+  "eid": "sr:match:72837962",
+  "fx": "Serik Belediyespor v 52 Orduspor FK",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig Kirmizi R14; 52 Orduspor 7W in 10",
+  "news": "Confirmed 28 Nov 13:00 TR (Serikspor - 52 Orduspor; one list names \"Yeni Orduspor\" - same club naming); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Orduspor away 1X2 p0.55 below away rule; DNB 1.30 no mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.diyanethaber.com.tr/futbol/tff-2-lig-kirmizi-puan-durumu-ve-fikstur",
+   "https://www.yenisakarya.com/futbolda-haftanin-programi-belli-oldu-sakaryaspor-deplasmanda"
+  ]
+ },
+ {
+  "eid": "sr:match:73436752",
+  "fx": "Gaziantep FK v Amed Sportif Faaliyetler U19",
+  "sport": "football",
+  "absences": "not checked (youth)",
+  "context": "U19 PAF Ligi - youth fixture",
+  "news": "Youth fixture: no date/venue conflict found; no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth: no picks (rule)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73436948",
+  "fx": "Samsunspor v Genclerbirligi Ankara",
+  "sport": "football",
+  "absences": "not checked (youth)",
+  "context": "U19 PAF Ligi - youth fixture",
+  "news": "Youth fixture: no date/venue conflict found; no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth: no picks (rule)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72550368",
+  "fx": "FC Ingulets Petrove v FC Oleksandriya",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Persha Liha R18; Oleksandriya (UPL-relegated) 3rd after R17 and recently beat Inhulets heavily; low-scoring sides (0.9/1.0 gf)",
+  "news": "Listed 28 Nov at Inhulets Arena, Petrove; time shown 10:00 vs 11:00 across sites (tz display); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Oleksandriya DNB 1.43 p0.65 - plausible but no named mechanism; Under 2.5 p0.59 below Under gate",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/persha-liga-397",
+   "https://www.betexplorer.com/football/ukraine/persha-liga/",
+   "https://pfl.ua/calendar/1353",
+   "https://football24.ua/news/viktoriya-minimalno-perehrala-lokomotyv-ta-ocholyla-pershu-lihu-video-957788"
+  ]
+ },
+ {
+  "eid": "sr:match:72550362",
+  "fx": "FC Prykarpattya Ivano-Frankivsk v FC Kulykiv-Bilka",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Persha Liha R18; Prykarpattya lost 0-1 at Lokomotiv last round, poor attack (0.5 gf); Kulykiv-Bilka debut season, won reverse 2-1",
+  "news": "Confirmed 28 Nov 12:30 Kyiv (10:30 UTC) at Rukh stadium; last matches of autumn part",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: 50/50 board, Prykarpattya blunt",
+  "confidence": 0.15,
+  "sources": [
+   "https://pravda.if.ua/prykarpattya-ta-probij-gotuyutiosya-do-zaklyuchnyh-matchiv-osinniooyi-chastyny-sezonu/",
+   "https://www.365scores.com/en-us/football/league/persha-liga-397",
+   "https://www.betexplorer.com/football/ukraine/persha-liga/",
+   "https://pfl.ua/calendar/1353"
+  ]
+ },
+ {
+  "eid": "sr:match:72409822",
+  "fx": "FC Dynamo Kyiv v FC Chernomorets Odessa",
+  "sport": "football",
+  "absences": "Dynamo: Matviy Ponomarenko (top scorer, hamstring) OUT, Yarmolenko suspended, Kabaiev, Bilovar, Vivcharenko injured; Buyalskyi back in squad. Chornomorets: Gerych (on loan from Dynamo) injured/ineligible, Husiev ineligible (loan terms)",
+  "context": "UPL R14; Dynamo 3rd, Chornomorets 11th (9 pts, 0.7 gf last 10); Dynamo 29W-5D-4L in H2H",
+  "news": "Confirmed Sat 28 Nov 13:00 Kyiv (11:00 UTC) at Lobanovskyi Dynamo Stadium, referee Kopiievskyi; Dynamo without top scorer Ponomarenko and suspended Yarmolenko",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7937,
+    "why": "Dynamo 3rd v 11th-placed Chornomorets who scored 0.7/game in last 10 and lose loanee Gerych; H2H 29-5-4. Ponomarenko/Yarmolenko absence trims margin not result. My p 0.77"
+   }
+  ],
+  "avoid": "Home -1.5 / team O1.5: missing top scorer and Yarmolenko cuts the margin; O1.5 1.19 fine but Chornomorets add little",
+  "confidence": 0.3,
+  "sources": [
+   "https://dynamo.kiev.ua/uk/news/744503-dynamo-chornomorets-de-dyvytysia-onlain-transliatsiia-match-14-turu-upl-sezonu-202627",
+   "https://dynamo.kiev.ua/uk/news/744030-matvii-ponomarenko-z-chornomortsem-tezh-ne-zihraie-dzherelo",
+   "https://football24.ua/news/dynamo-kyiv-chornomorets-prohnoz-i-anons-matchu-14-turu-premier-lihy-978612",
+   "https://sport.ua/uk/news/929068-dinamo-chornomorets-prognoz-i-anons-na-match-chempionatu-ukraini"
+  ]
+ },
+ {
+  "eid": "sr:match:72409814",
+  "fx": "FC Obolon Kyiv v FC Zorya Luhansk",
+  "sport": "football",
+  "absences": "none found",
+  "context": "UPL; Obolon 14th (8 pts, 0.7 gf, 2.1 ga last 10), Zorya 7th (18 pts), unbeaten in 6 v Obolon (3W 3D), last meeting 3-3 Apr 2026",
+  "news": "Confirmed 28 Nov 11:00 UTC at Obolon Arena; Zorya lost 1-0 at Karpaty last round",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Zorya DNB 1.30 p0.73: H2H unbeaten but statistics-only; Under 3.5 p0.77 below Under gate",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/football/match/zoria-luhansk-obolon-kyiv/owfbsCdAc",
+   "https://www.livesoccertv.com/teams/ukraine/zorya-luhansk/",
+   "https://scores24.live/en/soccer/m-28-11-2026-obolon-kiev-zorya-lugansk-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72550366",
+  "fx": "FC Metalist Kharkiv v FC Polissya Zhytomyr 2",
+  "sport": "football",
+  "absences": "n/a (reserve side)",
+  "context": "Persha Liha; opponent Polissya Zhytomyr 2 is a RESERVE/second team",
+  "news": "Confirmed 28 Nov 12:30 Kyiv at OSC Metalist; reserve opponent - no picks",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side: no result picks; not a clear goals mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/en-us/football/league/persha-liga-397",
+   "https://www.betexplorer.com/football/ukraine/persha-liga/",
+   "https://pfl.ua/calendar/1353"
+  ]
+ },
+ {
+  "eid": "sr:match:72837376",
+  "fx": "Corluspor 1947 v Sebat Genclik Spor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig; Sebat Genclik strong (2.6 gf)",
+  "news": "No news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: coin-flip 1X2",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.diyanethaber.com.tr/futbol/tff-2-lig-beyaz-puan-durumu-ve-fikstur",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-turkey/tff-2-lig",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_TFF_2._Lig"
+  ]
+ },
+ {
+  "eid": "sr:match:72889752",
+  "fx": "Beykoz Anadolu Spor AS v Galata Spor Kulubu",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 3. Lig 1. Grup week 14; both sides poor form",
+  "news": "Confirmed 15:00 TR at Maltepe Hasan Polat (AA lists \"Galataspor\" = Galata SK)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur/regional tier: no Unders, thin",
+  "confidence": 0.1,
+  "sources": [
+   "https://aa.com.tr/tr/spor/futbol-haftanin-programi/4139917",
+   "https://marmarahaber.com.tr/futbol/tff-3-lig-1-grup-puan-durumu-ve-fikstur"
+  ]
+ },
+ {
+  "eid": "sr:match:72889754",
+  "fx": "Bulvarspor v Tokat Belediye Plevne Spor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 3. Lig; Tokat Belediye Plevne 0.7 gf",
+  "news": "Tokat Bld Plevnespor fixture time for 28 Nov not confirmed in AA weekly list (unverified, not contradicted)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "unverified schedule detail; no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://aa.com.tr/tr/spor/futbol-haftanin-programi/4139917",
+   "https://marmarahaber.com.tr/futbol/tff-3-lig-1-grup-puan-durumu-ve-fikstur"
+  ]
+ },
+ {
+  "eid": "sr:match:72889766",
+  "fx": "Golcukspor v Karabuk Idmanyurdu Spor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 3. Lig week 14; Karabuk ahead of Golcukspor in table",
+  "news": "Confirmed 15:00 TR at Golcuk Sehir (AA)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://aa.com.tr/tr/spor/futbol-haftanin-programi/4139917",
+   "https://marmarahaber.com.tr/futbol/tff-3-lig-1-grup-puan-durumu-ve-fikstur"
+  ]
+ },
+ {
+  "eid": "sr:match:72837370",
+  "fx": "Aliaga Futbol v Kastamonuspor",
+  "sport": "football",
+  "absences": "none named; Kastamonuspor carry a points deduction",
+  "context": "TFF 2. Lig Beyaz; Aliaga 2nd, 7W in 10; Kastamonuspor 1W in 10 conceding 3.5/game (last 6 totals 3,4,7,6,5,5)",
+  "news": "Forebet lists 28 Nov 13:30 (board 12:30 UTC = 15:30 TR - consistent with TR+ tz difference? unverified); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.06 below range; Over 3.5 1.46 p0.64 is the mechanism (Kastamonu collapse) but regional tier and mid-band - fill only",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.diyanethaber.com.tr/futbol/tff-2-lig-beyaz-puan-durumu-ve-fikstur",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-turkey/tff-2-lig",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_TFF_2._Lig"
+  ]
+ },
+ {
+  "eid": "sr:match:75548180",
+  "fx": "AL Jazira AL Hamra v Emirates Club",
+  "sport": "football",
+  "absences": "none found",
+  "context": "UAE First Division R11; Emirates Club near top on 5 straight wins (2.4 gf), Al Jazira Al Hamra lower half (9 pts from 9)",
+  "news": "Confirmed 28 Nov 12:40 UTC at Al Hamra Stadium",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.21,
+    "p": 0.779,
+    "why": "Emirates 5 straight wins and 7W in 10 v lower-half host who lost 1-4 twice in last 6; DNB covers the draw in a Gulf second tier. Away 1X2 p0.62 is below the away rule so DNB only. My p 0.79"
+   }
+  ],
+  "avoid": "Away 1X2 1.52 (away rule p<0.75); Overs in Gulf tier",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/en-us/football/match/division-1-5449/al-jazira-al-hamra-emirates-club-8651-11138-5449",
+   "https://www.livesoccertv.com/teams/united-arab-emirates/al-jazira-al-hamra/"
+  ]
+ },
+ {
+  "eid": "sr:match:76882302",
+  "fx": "Kitara FC v Ntugasaze FC",
+  "sport": "football",
+  "absences": "unknown",
+  "context": "Uganda PL; Kitara have played only 7 games due to stadium licensing; switched home games to Rwamwanja Stadium, Kamwenge",
+  "news": "DATE/VENUE CONFLICT: Kawowo/Swift list 28 Nov at Rwamwanja, Observer said Sunday and \"in doubt\", Flashscore lists 01.12",
+  "veto": true,
+  "veto_reason": "date conflict (28 Nov vs 1 Dec) and venue moved from Butema to Rwamwanja; fixture previously reported in doubt",
+  "picks": [],
+  "avoid": "veto",
+  "confidence": 0.1,
+  "sources": [
+   "https://kawowo.com/2026/11/23/kitaras-continued-postponement-of-home-matches-not-good-for-the-league/",
+   "https://swiftsportsug.com/2026/11/kitara-identify-alternative-venue-for-two-home-games-ahead-of-royals-park-butema-re-inspection/",
+   "https://www.flashscore.com.ng/team/kitara/W0aMZOUR/",
+   "https://observer.ug/sports/can-bul-end-kampala-clubs-46-year-uganda-premier-league-title-dominance"
+  ]
+ },
+ {
+  "eid": "sr:match:76609142",
+  "fx": "Charlotte FC v Chicago Fire",
+  "sport": "football",
+  "absences": "Charlotte: none reported. Chicago: none found",
+  "context": "MLS Cup R1 best-of-3 Game 2 (KNOCKOUT: draw -> penalties, settles 90 min); Charlotte lead 1-0 after 2-1 win in Chicago (Biel winner, Lewandowski scored); Chicago must win",
+  "news": "Confirmed 28 Nov 12:30 ET at Bank of America Stadium; Charlotte can win a playoff series for first time",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.36,
+    "p": 0.7054,
+    "why": "Both open sides: Charlotte 2.3 gf/1.6 ga, Chicago 2.0/1.8 last 10; last-6 totals Charlotte 3,6,4,4,5,4 and Chicago 3,7,6,4,5,1; Chicago must chase. My p 0.73"
+   }
+  ],
+  "avoid": "result-sides (knockout); Under anything",
+  "confidence": 0.3,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_MLS_Cup_Playoffs",
+   "https://www.mlssoccer.com/news/mls-player-status-report-round-one-best-of-3-series-game-2",
+   "https://www.axios.com/local/charlotte/2026/11/25/charlotte-fc-chicago-fire-mls-playoffs-game-two",
+   "https://ontapsportsnet.com/fire/now-or-never-chicago-fire-fc-need-win-to-extend-playoff-series-vs-charlotte-fc/",
+   "https://www.beinsports.com/en-us/soccer/mls/articles/abada-lauds-charlottes-attacking-strength-in-mls-playoffs-2026-11-27"
+  ]
+ },
+ {
+  "eid": "sr:match:76609954",
+  "fx": "Houston Dynamo v San Jose Earthquakes",
+  "sport": "football",
+  "absences": "Houston: Augustin Resch SUSPENDED (straight red Game 1), Antonio Carlos likely in",
+  "context": "MLS Cup R1 Game 2 (knockout); San Jose lead 1-0 after 2-1 win; Houston must-win at home; Houston 1W in last 10",
+  "news": "Confirmed 28 Nov 1:30 pm CT (19:30 UTC) at Shell Energy Stadium; SJ unbeaten in last 5 v Houston",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Houston DNB 1.53: 1W in 10, SJ unbeaten 5 in H2H - fragile favourite; O1.5 1.19 but Houston last 6 include 0-1,1-0,0-0",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_MLS_Cup_Playoffs",
+   "https://www.mlssoccer.com/news/mls-player-status-report-round-one-best-of-3-series-game-2",
+   "https://www.houstondynamofc.com/news/match-preview-houston-dynamo-fc-host-san-jose-earthquakes-for-must-win-game-2-in-the-round-one-best-of-3-series-on-saturday-afternoon",
+   "https://www.sportsmole.co.uk/football/houston-dynamo/preview/houston-vs-earthquakes-prediction-team-news-lineups_609917.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76609956",
+  "fx": "Philadelphia Union v New England Revolution",
+  "sport": "football",
+  "absences": "Philadelphia: Japhet Sery Larsen and Finn Sundstrum doubtful (concussions), Andre Blake doubtful (groin), Bedoya questionable (eye). New England: Carles Gil trained, available",
+  "context": "MLS Cup R1 Game 2 (knockout); NE lead 1-0 after 2-0 win; Union must-win, interim coach Ryan Richter; Union lost all 3 meetings with NE this year but lost 1 of last 14 home games",
+  "news": "Confirmed 28 Nov 4:30 pm ET at Subaru Park; Game 3 at Gillette Dec 2 if needed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.44,
+    "p": 0.6633,
+    "why": "Must-win host attacks while missing first-choice keeper Blake and two defenders (Sery Larsen, Sundstrum); Gil available for NE counters. My p 0.67 - third MLS Over, use only if ticket has room"
+   }
+  ],
+  "avoid": "Union DNB 1.24 / Home 1.55: 0-3 v NE this season = fragile favourite; knockout result-side rule",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_MLS_Cup_Playoffs",
+   "https://www.mlssoccer.com/news/mls-player-status-report-round-one-best-of-3-series-game-2",
+   "https://phillysoccerpage.net/2026/11/27/match-preview-philadelphia-union-vs-new-england-revolution-18/",
+   "https://www.revolutionsoccer.net/news/audi-mls-cup-playoffs-preview-revs-aim-to-close-out-round-one-in-philly",
+   "https://www.sportsmole.co.uk/football/philadelphia-union/preview/philadelphia-vs-new-england-prediction-team-news-lineups_609853.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72322480",
+  "fx": "Brooklyn FC v Lexington SC",
+  "sport": "football",
+  "absences": "women (not checked)",
+  "context": "USL Super League (women)",
+  "news": "Confirmed 28 Nov 6 pm ET at Maimonides Park; no conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/usa.w.usl.1"
+  ]
+ },
+ {
+  "eid": "sr:match:72322482",
+  "fx": "Carolina Ascent USLW v Dallas Trinity FC",
+  "sport": "football",
+  "absences": "women (not checked)",
+  "context": "USL Super League (women)",
+  "news": "Confirmed 28 Nov 6 pm ET at American Legion Memorial Stadium; no conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/usa.w.usl.1"
+  ]
+ },
+ {
+  "eid": "sr:match:72322484",
+  "fx": "Fort Lauderdale United FC v DC Power FC",
+  "sport": "football",
+  "absences": "women (not checked)",
+  "context": "USL Super League (women); Fort Lauderdale 1W in 10 (0.6 gf)",
+  "news": "Confirmed 28 Nov 6 pm ET at Beyond Bancard Field, Davie; no conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: not a clear goals mismatch, no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/usa.w.usl.1",
+   "https://www.espn.com/soccer/team/fixtures/_/id/131449/league/USA.W.USL.1"
+  ]
+ },
+ {
+  "eid": "sr:match:72322486",
+  "fx": "Tampa Bay Sun FC v Sporting Jacksonville",
+  "sport": "football",
+  "absences": "women (not checked)",
+  "context": "USL Super League (women)",
+  "news": "Confirmed 28 Nov 6 pm ET at Suncoast Credit Union Field; no conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/usa.w.usl.1"
+  ]
+ },
+ {
+  "eid": "sr:match:76907550",
+  "fx": "FC Cincinnati v Nashville SC",
+  "sport": "football",
+  "absences": "Nashville: Alex Muyl OUT (lower body). Cincinnati: Maxwell Woledzi in concussion protocol (doubtful)",
+  "context": "MLS Cup R1 Game 2 (knockout) at Cincinnati; Cincinnati lead 1-0 after 1-0 win (Yazbek own goal); Nashville must win",
+  "news": "Confirmed 28 Nov 6:30 pm ET",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (knockout); Nashville away 1X2 p0.46; Over 2.5 1.47 no strong scoring evidence (Cincy 1-0, Nashville clean defence 0.5 ga)",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_MLS_Cup_Playoffs",
+   "https://www.mlssoccer.com/news/mls-player-status-report-round-one-best-of-3-series-game-2",
+   "https://www.rotowire.com/soccer/headlines/alex-muyl-injury-out-for-game-2-at-cincinnati-549423",
+   "https://sports.yahoo.com/soccer/articles/nashville-sc-visit-fc-cincinnati-230600176.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76609958",
+  "fx": "Los Angeles FC v Saint Louis City SC",
+  "sport": "football",
+  "absences": "STL: Alexandru Matan off injured in Game 1 (status unclear), Carlo Holse absent, Maxim minor knock (sources conflict). LAFC: none reported",
+  "context": "MLS Cup R1 Game 2 (knockout); St. Louis lead 1-0 after 3-2 win in Game 1; LAFC must-win at BMO, where STL are 0W-1D-3L all-time; LAFC 1W in last 10, Son/Bouanga criticised",
+  "news": "Confirmed Sat 28 Nov 7:30 pm CT club preview (one Korean report says Nov 29 = KST date, not a conflict)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.758,
+    "why": "DNB is the allowed knockout product: must-win host, STL never won at BMO (0-1-3) and are missing Holse with Matan doubtful. LAFC form poor (1W in 10), so DNB not 1X2. My p 0.75"
+   }
+  ],
+  "avoid": "LAFC 1X2 1.62 (knockout rule); Overs: LAFC attack blunt per MLS preview",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_MLS_Cup_Playoffs",
+   "https://www.mlssoccer.com/news/mls-player-status-report-round-one-best-of-3-series-game-2",
+   "https://www.lafc.com/news/preview-st-louis-city-vs-lafc-game-2-audi-2026-mls-cup-playoffs-round-one-best-of-3-series-november-28",
+   "https://www.stlcitysc.com/news/match-preview-st-louis-city-sc-heads-to-california-to-face-lafc-in-round-one-game-2-on-saturday-at-bmo-stadium",
+   "https://www.squawka.com/us/news/mls/match-preview-lafc-vs-st-louis-city-11-28-26-mls/"
+  ]
+ },
+ {
+  "eid": "sr:match:76609144",
+  "fx": "Portland Timbers v FC Dallas",
+  "sport": "football",
+  "absences": "Portland: Ariel Lassiter (thigh) out/day-to-day (sources conflict). Dallas: Anderson Julio questionable, none out",
+  "context": "MLS Cup R1 Game 2 (knockout); Dallas lead 1-0 after 3-0 win in Game 1; Portland \"must-win\" at home",
+  "news": "Confirmed Game 2 in Portland 28 Nov (03:30 UTC 29 Nov)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.42,
+    "p": 0.6762,
+    "why": "Portland must chase a series after 0-3; Portland last-6 totals 3,2,4,5,5,0 and Dallas 3,4,2,2,3,4; Portland concede 1.7/game. My p 0.69"
+   }
+  ],
+  "avoid": "result-sides (knockout); Portland DNB 1.63 after 0-3 loss",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_MLS_Cup_Playoffs",
+   "https://www.mlssoccer.com/news/mls-player-status-report-round-one-best-of-3-series-game-2",
+   "https://www.mlssoccer.com/playoffs/2026/news/portland-timbers-face-must-win-game-2-vs-fc-dallas",
+   "https://www.bigdsoccer.com/mls-cup-playoffs-fc-dallas-injury-report-vs-portland-timbers-game-two/"
+  ]
+ }
+]

@@ -1,0 +1,633 @@
+[
+ {
+  "eid": "sr:match:76196432",
+  "fx": "SK Slavia Prague C v Sparta Prague B",
+  "sport": "football",
+  "absences": "Not researched (reserve sides).",
+  "context": "Czech CFL (3rd tier), Slavia Prague C v Sparta Prague B - both reserve teams.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve sides: no result-side picks; not a clear mismatch so no goals pick either.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72044426",
+  "fx": "Hillerod Fodbold v Vendsyssel FF",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Danish 1. Division matchday 16. Hillerod ~10th (15 pts), Vendsyssel ~11th (13 pts), winless in last 10 (0-5-5). One listing gives the venue as Helsingor Stadion (13:00 local = 12:00 UTC, matches board).",
+  "news": "Lower-table clash; Vendsyssel winless in 10; listed venue Helsingor Stadion (single source, unusual for Hillerod).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.38,
+    "p": 0.6759787892,
+    "why": "Vendsyssel 0W in last 10 (0-5-5, 2.6 GA/away game), Hillerod 3-0-1 at home; my p ~0.70 vs house 0.676. Stats-led, so fill only."
+   }
+  ],
+  "avoid": "Avoid totals; low-scoring Danish 1st div sides (Hillerod 1.0 GF).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.tvsporten.dk/program/hillerd-vendsyssel-ff-1901322",
+   "https://www.tvsporten.dk/program/hb-kge-aarhus-fremad-1901325",
+   "https://bold.dk/fodbold/stillinger/1-division"
+  ]
+ },
+ {
+  "eid": "sr:match:72952526",
+  "fx": "NK Lucko v NK Bjelovar",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Croatia Druga NL (Sportnet lists 13:30 local on 28.11). Mid/low-table sides.",
+  "news": "Fixture confirmed 28.11 13:30; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin second-tier league; no edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportnet.hr/vijesti/nogomet-supersport-druga-nl/supersport-druga-nl-u-izravnom-prijenosu-na-sportnetovom-youtube-kanalu-danas-pred-nama-i-susret-supersport-prve-nl/636136/"
+  ]
+ },
+ {
+  "eid": "sr:match:72952534",
+  "fx": "NK Radnik Krizevci v NK Grobnican",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Croatia Druga NL. Grobnican fighting to stay out of the bottom two after three straight defeats (Novi list: \"attacking impotence\" under coach Marin Mikac).",
+  "news": "Grobnican on 3 straight losses and struggling to score; Radnik 5-3-2 last 10, 0.9 GA.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.43,
+    "p": 0.645543,
+    "why": "Grobnican 3 straight losses, toothless attack (Novi list); Radnik concede 0.9/game. My p ~0.67 vs house 0.646. Thin league - small stake only."
+   }
+  ],
+  "avoid": "Avoid Over 2.5 (Radnik low-event games).",
+  "confidence": 0.2,
+  "sources": [
+   "https://novilist.hr/sport/nogomet/grobnican-dozivio-i-treci-uzastopni-poraz-klaric-kaznio-napadacki-nemocu-momcad-marina-mikca",
+   "https://sportnet.hr/vijesti/nogomet-supersport-druga-nl/supersport-druga-nl-u-izravnom-prijenosu-na-sportnetovom-youtube-kanalu-danas-pred-nama-i-susret-supersport-prve-nl/636136/"
+  ]
+ },
+ {
+  "eid": "sr:match:72952528",
+  "fx": "NK Zagora v NK Inker Zapresic",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Croatia Druga NL; Zagora chasing a second straight win (Sportnet).",
+  "news": "Fixture confirmed 28.11 13:30; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sportnet.hr/vijesti/nogomet-supersport-druga-nl/supersport-druga-nl-u-izravnom-prijenosu-na-sportnetovom-youtube-kanalu-danas-pred-nama-i-susret-supersport-prve-nl/636136/"
+  ]
+ },
+ {
+  "eid": "sr:match:72952530",
+  "fx": "Slavonija Pozega v NK Varteks",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Croatia Druga NL; Varteks near the bottom, trying to pull away from Koprivnica (Sportnet).",
+  "news": "Varteks in relegation scrap, 0.8 GF last 10 and 2-2-6.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.745385513,
+    "why": "Varteks score 0.8/game, 2-2-6 last 10; Pozega 5-2-3. DNB removes the draw; my p ~0.76 vs house 0.745."
+   }
+  ],
+  "avoid": "Avoid Pozega -1.5 (Pozega concede 1.8).",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnet.hr/vijesti/nogomet-supersport-druga-nl/supersport-druga-nl-u-izravnom-prijenosu-na-sportnetovom-youtube-kanalu-danas-pred-nama-i-susret-supersport-prve-nl/636136/"
+  ]
+ },
+ {
+  "eid": "sr:match:74084618",
+  "fx": "Apea Akrotiriou v Akritas Chlorakas",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Cyprus 2nd Division matchday 9 (27-29 Nov window); pairing not confirmed by sources.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin league, low scoring both sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.kerkida.net/eidiseis/b-katigoria/ao-agias-napas/b-katigoria-imerologiako-programma-2026-2027",
+   "https://gipedo.politis.com.cy/podosfairo/kypros/mikres-katigories/1057145/b-katighoria-4"
+  ]
+ },
+ {
+  "eid": "sr:match:74084610",
+  "fx": "Asil Lysis v Ermis Aradippou FC",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Cyprus 2nd Division matchday 9; Asil Lysis lost 0-7 recently.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip, no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.kerkida.net/eidiseis/b-katigoria/ao-agias-napas/b-katigoria-imerologiako-programma-2026-2027",
+   "https://gipedo.politis.com.cy/podosfairo/kypros/mikres-katigories/1057145/b-katighoria-4"
+  ]
+ },
+ {
+  "eid": "sr:match:74084608",
+  "fx": "Ayia Napa FC v PAEEK Kyrenia",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Cyprus 2nd Division. Ayia Napa lost 0-3 at home to Ethnikos Achnas on md7; PAEEK drew 1-1 at Anagennisi Deryneia on md7. PAEEK 6-2-2 last 10.",
+  "news": "PAEEK in good form; Ayia Napa weak at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.643 below 0.75; Ayia Napa +1.5 banned (fav p>=0.55); 12-DC excluded.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.kerkida.net/eidiseis/b-katigoria/ao-agias-napas/b-katigoria-imerologiako-programma-2026-2027",
+   "https://gipedo.politis.com.cy/podosfairo/kypros/mikres-katigories/1057145/b-katighoria-4"
+  ]
+ },
+ {
+  "eid": "sr:match:74084606",
+  "fx": "Halkanoras v Aep Polemidion",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Cyprus 2nd Division; AEP Polemidion had a big win on md7 (balla.com.cy). Halkanoras 1-4-5 last 10 despite being home favourite.",
+  "news": "House favours a home side with 1 win in 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home favourite out of form - skip result sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.kerkida.net/eidiseis/b-katigoria/ao-agias-napas/b-katigoria-imerologiako-programma-2026-2027",
+   "https://gipedo.politis.com.cy/podosfairo/kypros/mikres-katigories/1057145/b-katighoria-4",
+   "https://balla.com.cy/2026/11/v-katigoria-megales-nikes-gia-a-e-polemidion-kai-irakli-gerolakkou-vathmologia-synecheia/"
+  ]
+ },
+ {
+  "eid": "sr:match:74084612",
+  "fx": "Iraklis Gerolakkou v Ethnikos Achnas FC",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Cyprus 2nd Division. Ethnikos Achnas went top after md7 (won 3-0 at Ayia Napa), 7-0-3 last 10, 2.8 GF. Iraklis Gerolakkou score 0.6/game (won 1-0 v Digenis Morfou on md7).",
+  "news": "Ethnikos Achnas leaders and in form; Iraklis toothless.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.19,
+    "p": 0.794103,
+    "why": "Leaders Ethnikos (7-0-3, 2.8 GF) v Iraklis 0.6 GF; DNB protects the draw; my p ~0.81 vs house 0.794."
+   }
+  ],
+  "avoid": "Away 1X2/-0.5 at p 0.616 below the 0.75 away gate.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.kerkida.net/eidiseis/b-katigoria/ao-agias-napas/b-katigoria-imerologiako-programma-2026-2027",
+   "https://gipedo.politis.com.cy/podosfairo/kypros/mikres-katigories/1057145/b-katighoria-4"
+  ]
+ },
+ {
+  "eid": "sr:match:72044424",
+  "fx": "HB Koege v Aarhus Fremad",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Danish 1. Division md16, 13:30 local at Capelli Sport Stadion. Aarhus Fremad ~5th (19 pts), HB Koege ~12th (12 pts).",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fremad 0.8 GF; no edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tvsporten.dk/program/hillerd-vendsyssel-ff-1901322",
+   "https://www.tvsporten.dk/program/hb-kge-aarhus-fremad-1901325",
+   "https://bold.dk/fodbold/stillinger/1-division"
+  ]
+ },
+ {
+  "eid": "sr:match:72340082",
+  "fx": "Blackburn Rovers v Charlton Athletic",
+  "sport": "football",
+  "absences": "Blackburn: Alebiosu, Atcheson (concussion protocol), Forshaw (hip), Miller (Achilles), Toth (finger) out; Jorgensen doubt; Morsy late decision; Wharton 1-2 weeks. Charlton: Apter, Mannion, Mitchell, Sichenje out; Ramsay and Chalobah working back; Rankin-Costello fitness doubt.",
+  "context": "Championship; Blackburn under interim boss Damien Johnson. Charlton beat Lincoln 4-0 recently.",
+  "news": "Blackburn have 5 absentees under an interim boss; Charlton also depleted.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Both sides depleted and Blackburn under interim; no clean result side.",
+  "confidence": 0.15,
+  "sources": [
+   "https://hayters.com/johnson-hopeful-of-blackburn-injury-boosts-for-charlton-clash/",
+   "https://www.tufutbolero.com/en/news/blackburn-charlton-blackburn-arrive-with-five-injury-fdbceb",
+   "https://dave.sport/news/tom-atcheson-blackburn-v-charlton-injury-news/"
+  ]
+ },
+ {
+  "eid": "sr:match:72340086",
+  "fx": "Lincoln City v Wolves",
+  "sport": "football",
+  "absences": "Lincoln: Conor McGrandles (knee), Mason Melia (muscle) out. Wolves: Fer Lopez possible rest after minor injury.",
+  "context": "Championship. Lincoln 21st, 5 straight league defeats, sacked joint head coaches Chris Cohen and Tom Shaw; Shaun Pearson interim with Paul McShane and David Preece. Wolves (Cesar Peixoto) won last two v Charlton and Derby, 6-2-2 last 10.",
+  "news": "Lincoln sacked their joint bosses before this game; 5 straight losses; Wolves in form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.22,
+    "p": 0.7952440816,
+    "why": "Named mechanism: Lincoln sacked joint coaches, 5 straight defeats, McGrandles and Melia out; Wolves 6-2-2 conceding 0.9. DNB covers the interim-bounce draw. My p ~0.82 vs house 0.795."
+   }
+  ],
+  "avoid": "Lincoln +2.5 banned (fav p 0.62). Away 1X2 p 0.62 below 0.75. New-coach bounce risk.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.expressandstar.com/sport/football/wolverhampton-wanderers/lincoln-city-axe-joint-bosses-ahead-of-wolves-championship-showdown-9373033",
+   "https://dave.sport/news/conor-mcgrandles-lincoln-v-wolves-injury-news/",
+   "https://www.expressandstar.com/sport/football/wolverhampton-wanderers/luke-powells-predicted-wolves-team-to-face-lincoln-city-9374898",
+   "https://lastwordonsports.com/football/2026/11/27/lincoln-city-vs-wolves-nov/"
+  ]
+ },
+ {
+  "eid": "sr:match:72340090",
+  "fx": "Preston North End v Norwich",
+  "sport": "football",
+  "absences": "Preston: Harry Clarke, Ali McCann, Johnny Kenny (hamstring), Lewis Gibson, Liam Gibbs (muscle) expected out. Norwich: no new injuries; Amadou Diallo nearing return; Mohamed Toure (Jan), Gabe Forsyth, Ali Ahmed still out.",
+  "context": "Championship. Preston had 7 pts from last 3; Norwich 5-1-4 last 10, 2.2 GF (5-0, 4-0 away wins).",
+  "news": "Preston missing five incl. striker Kenny; Norwich no new injuries.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.34,
+    "p": 0.721531,
+    "why": "Preston without five players incl. striker Johnny Kenny and McCann; Norwich scoring 2.2/game with no new injuries. My p ~0.74 vs house 0.722."
+   }
+  ],
+  "avoid": "Away 1X2 p 0.553 below gate. Preston on a decent 3-game run.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livescore.com/en/news/football/england-championship/predictions/championship-predictions-all-12-matchday-18-games/",
+   "https://sportsnewsreport.com/stories/norwich-citys-clement-updates-on-status-of-injured-players-ahead-of-preston-mwzatcph-g4de"
+  ]
+ },
+ {
+  "eid": "sr:match:72300906",
+  "fx": "1.SK Prostejov v FK Viktoria Zizkov",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Czech FNL round 16. Club site lists Sat 28.11.2026 14:00 (=13:00 UTC, matches board) but Livesport fixture list gives 29.11.",
+  "news": "DATE CONFLICT: club site 28.11 vs Livesport 29.11.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (1skprostejov.cz 28.11 v Livesport 29.11).",
+  "picks": [],
+  "avoid": "Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.1skprostejov.cz/c/muzi-a-1sk-prostejov-fk-viktoria-zizkov-2058",
+   "https://www.livesport.cz/fotbal/cesko/chance-narodni-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:71913144",
+  "fx": "NK Lokomotiva Zagreb v NK Slaven Belupo",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "HNL. Official club/league listing: 28.11 15:00 at Maksimir; another preview lists Friday 27th 15:00. Lokomotiva ~11 pts (lower half), Slaven ~22 after beating Osijek 1-0 on Mon 23.11.",
+  "news": "DATE CONFLICT: official 28.11 v preview 27.11.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (hnl.hr 28.11 v preview listing Fri 27.11).",
+  "picks": [],
+  "avoid": "Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hnl.hr/klubovi/lokomotiva/",
+   "https://hnl.hr/supersport-hnl/raspored-i-rezultati/"
+  ]
+ },
+ {
+  "eid": "sr:match:72796142",
+  "fx": "FK Mlada Boleslav v SK Sigma Olomouc",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Chance Liga, 15:00 local (=14:00 UTC). Mlada Boleslav 2nd with 28 pts (8-4-3, 23:15), beat Zlin 1-0. Sigma Olomouc 24 pts, lost to Hradec last round.",
+  "news": "Mlada Boleslav in top-two form, strong at home (6-2-2 last 10, 0.8 GA).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.4,
+    "p": 0.667685664,
+    "why": "2nd-placed Boleslav 6-2-2 last 10 conceding 0.8; Sigma lost last time out. Stats-led fill; my p ~0.70 vs house 0.668."
+   }
+  ],
+  "avoid": "Totals - no edge.",
+  "confidence": 0.2,
+  "sources": [
+   "https://isport.blesk.cz/1-liga",
+   "https://isport.blesk.cz/clanek/fotbal-chance-liga/482391/online-mlada-boleslav-zlin-teplice-hraji-na-baniku-jablonec-jede-do-brna.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72796036",
+  "fx": "FK Teplice v FC Slovan Liberec",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Chance Liga, 15:00 local. Liberec 26 pts from 13 (16:8 goals, a game in hand), 7-1-2 last 10 conceding 0.5. Teplice 24 pts, beat Banik 2-1.",
+  "news": "Liberec elite defence (8 GA in 13); Teplice in form too.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.33,
+    "p": 0.7086627939,
+    "why": "Liberec concede 0.5/game (16:8 in 13), 7-1-2 last 10; H2H last 0-1 to Liberec. My p ~0.72 vs house 0.709."
+   }
+  ],
+  "avoid": "Under 3.5 at p 0.70 below 0.82 gate. Away 1X2 below gate.",
+  "confidence": 0.2,
+  "sources": [
+   "https://isport.blesk.cz/1-liga"
+  ]
+ },
+ {
+  "eid": "sr:match:72340080",
+  "fx": "Birmingham City v Bolton Wanderers",
+  "sport": "football",
+  "absences": "Birmingham: Ethan Laird (conflicting - OneFootball injured, Dave.sport predicted at LB), Kristoffer Lund out; Alex Cochrane suspended. Bolton: Ryan Hardie, John McAtee, Jayden Nelson, Ethan Erhahon, Eoin Toal out.",
+  "context": "Championship, 15:00 at St Andrews. Birmingham 4th and unbeaten at home; Bolton 19th, played West Brom midweek (lost).",
+  "news": "Birmingham unbeaten at home; Bolton 19th with five absentees incl. Toal and Hardie, after a midweek defeat.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.8044625624,
+    "why": "Birmingham unbeaten at home (7-1-2 last 10, 0.6 GA); Bolton without Toal, Erhahon, Hardie, McAtee, Nelson after midweek loss. My p ~0.83 vs house 0.804."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.52,
+    "p": 0.644082,
+    "why": "Same mechanism; Bolton concede 2.1/game and are on short rest. My p ~0.67 vs house 0.644."
+   }
+  ],
+  "avoid": "Birmingham left-back depleted (Cochrane ban, Lund out): skip win-to-nil and -1.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://onefootball.com/en/news/birmingham-v-bolton-wanderers-play-off-push-meets-survival-fight-43852045",
+   "https://dave.sport/news/ethan-laird-birmingham-bolton-predicted-line-ups/",
+   "https://www.sportsmole.co.uk/football/birmingham-city/preview/birmingham-vs-bolton-prediction-team-news-lineups_609918.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73160490",
+  "fx": "Anorthosis Famagusta v Karmiotissa FC",
+  "sport": "football",
+  "absences": "Karmiotissa squad for Anorthosis published 27.11 (list not seen).",
+  "context": "Cyprus 1st Division; fixture confirmed by Karmiotissa squad release. Anorthosis 3-0-7 last 10 (0.9 GF) yet priced 0.574 home.",
+  "news": "Anorthosis badly out of form; Karmiotissa travel squad announced.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home favourite with 3 wins in 10 - skip result side; totals no edge.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.kerkida.net/eidiseis/a-katigoria/anorthosi/i-apostoli-tis-karmiotissas-gia-anorthosi",
+   "https://www.kerkida.net/eidiseis/a-katigoria/apoel/apoel-eisitiria-gia-karmiotissa"
+  ]
+ },
+ {
+  "eid": "sr:match:73160492",
+  "fx": "APOEL Nikosia v Krasava ENY Ypsonas FC",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Cyprus 1st Division. APOEL 6-3-1 last 10, 2.6 GF; Krasava 2-2-6. APOEL next play Karmiotissa Wed 02.12 (ticket page), so mild schedule load after this game. No source confirmed this fixture specifically.",
+  "news": "APOEL strong form; next game is Wed 2 Dec.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.799476,
+    "why": "APOEL 6-3-1 scoring 2.6/game v Krasava 2-2-6 conceding 1.9. My p ~0.81 vs house 0.799; stats-led, fixture not independently confirmed."
+   }
+  ],
+  "avoid": "APOEL -1.5 at 0.58 - not enough cushion.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.kerkida.net/eidiseis/a-katigoria/anorthosi/i-apostoli-tis-karmiotissas-gia-anorthosi",
+   "https://www.kerkida.net/eidiseis/a-katigoria/apoel/apoel-eisitiria-gia-karmiotissa"
+  ]
+ },
+ {
+  "eid": "sr:match:74735122",
+  "fx": "CD Universidad Catolica del Ecuador v CSD Independiente del Valle",
+  "sport": "football",
+  "absences": "IDV: Jhegson Mendez sent off v Barcelona 25.11 (likely suspended). ",
+  "context": "LigaPro hexagonal fecha 8, 11:30 local. IDV already qualified for Libertadores 2027 and played Wed 25.11 (1-1 at Barcelona). VENUE CONFLICT: Teleamazonas says Olimpico Atahualpa, Wikipedia says Rodrigo Paz Delgado.",
+  "news": "Venue conflict; IDV qualified and on 3 days rest.",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Atahualpa v Rodrigo Paz Delgado).",
+  "picks": [],
+  "avoid": "Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.teleamazonas.com/deportes/futbol/ligapro/ligapro-2026-horarios-partidos-programacion-fecha-8-hexagonales-134085/",
+   "https://es.wikipedia.org/wiki/Serie_A_de_Ecuador_2026",
+   "https://www.infobae.com/espana/agencias/2026/11/26/aucas-liga-y-barcelona-se-disputan-en-ecuador-un-billete-para-la-libertadores-2027/",
+   "https://www.teleamazonas.com/deportes/futbol/ligapro/barcelona-vs-independiente-valle-partido-diferido-ligapro-134121/"
+  ]
+ },
+ {
+  "eid": "sr:match:71913146",
+  "fx": "NK Osijek v HNK Rijeka",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "HNL, 18:00 local at Opus Arena (official). Osijek lost 1-0 at Slaven Belupo on Mon 23.11 and have lost 3 of last 4 at home; Rijeka beat Gorica 2-0 on 22.11. Table: Rijeka ~21, Osijek ~20 before last round. Rijeka European commitments this week not verified.",
+  "news": "Osijek in poor home form; Rijeka won last time out.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.27,
+    "p": 0.742444,
+    "why": "Osijek lost 0-1, 0-1, 1-3 in recent home games and played Monday; Rijeka 5-1-4 last 10, 1.9 GF. My p ~0.75 vs house 0.742. Check Rijeka midweek rotation before posting."
+   }
+  ],
+  "avoid": "Top-of-table clash (big-club flavour): no straight result side.",
+  "confidence": 0.2,
+  "sources": [
+   "https://hnl.hr/klubovi/lokomotiva/",
+   "https://hnl.hr/supersport-hnl/raspored-i-rezultati/",
+   "https://net.hr/sport/nogomet/neplanirano-usao-pa-srusio-osijek-prisilna-zamjena-donijela-pobjedu-slavenu-7b8e0319-e76f-11f1-96ed-9600040c8f8e"
+  ]
+ },
+ {
+  "eid": "sr:match:72796040",
+  "fx": "FC Hradec Kralove v Bohemians Prague 1905",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Chance Liga, 18:00 local (=17:00 UTC). Hradec 18 pts (beat Olomouc last round); Bohemians 20 pts, 0.9 GA last 10.",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Bohemians defensively solid; no clean edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://isport.blesk.cz/1-liga"
+  ]
+ },
+ {
+  "eid": "sr:match:74735126",
+  "fx": "CSD Macara v LDU Quito",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "LigaPro hexagonal fecha 8, 14:00 local at Bellavista (Ambato). Macara ALREADY qualified for Libertadores 2027; LDU (54 pts) in a three-way race with Aucas (57) and Barcelona (53) for the last Libertadores ticket - must-win for LDU. Macara 8-1-1 last 10 though.",
+  "news": "Motivation asymmetry: Macara qualified, LDU must win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.55,
+    "p": 0.606764,
+    "why": "Mechanism: LDU must win for the last Libertadores spot while Macara are already qualified (EFE/Infobae). Offset by Macara 8-1-1 home form. My p ~0.63 vs house 0.607."
+   }
+  ],
+  "avoid": "Away 1X2 p 0.44 below gate.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.teleamazonas.com/deportes/futbol/ligapro/ligapro-2026-horarios-partidos-programacion-fecha-8-hexagonales-134085/",
+   "https://es.wikipedia.org/wiki/Serie_A_de_Ecuador_2026",
+   "https://www.infobae.com/espana/agencias/2026/11/26/aucas-liga-y-barcelona-se-disputan-en-ecuador-un-billete-para-la-libertadores-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:77113826",
+  "fx": "CD Aguila San Miguel v Inter Santa Tecla",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "El Salvador Apertura 2026 play-in / quarter-final second leg (two-legged, winner meets Firpo). 365Scores lists Aguila v Inter Santa Tecla on 29.11; board has 28.11 15:00 local. First-leg score not found.",
+  "news": "DATE CONFLICT (28.11 board v 29.11 365Scores); knockout second leg.",
+  "veto": true,
+  "veto_reason": "Date conflict (365Scores 29.11 v board 28.11) and knockout second leg with unknown first-leg result.",
+  "picks": [],
+  "avoid": "Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.elmetropolitanodigital.com/2026/11/definidas-las-llaves-de-la-fase-final-del-torneo-apertura-2026-de-la-primera-division-de-el-salvador/",
+   "https://www.365scores.com/football/league/primera-division-5543/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:74735124",
+  "fx": "Barcelona SC v SD Aucas",
+  "sport": "football",
+  "absences": "No named absences found (only stale Barcelona injury reports).",
+  "context": "LigaPro hexagonal fecha 8. Barcelona (53) and Aucas (57) both chasing the last Libertadores spot; Barcelona drew 1-1 with IDV Wed 25.11. DATE CONFLICT: Wikipedia/Zapping 28.11 16:30 v Teleamazonas listing Sun 29.11 (while also saying no games on 29.11 due to elections).",
+  "news": "Date conflict; both sides motivated; Barcelona on 3 days rest.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (28.11 v 29.11).",
+  "picks": [],
+  "avoid": "Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.teleamazonas.com/deportes/futbol/ligapro/ligapro-2026-horarios-partidos-programacion-fecha-8-hexagonales-134085/",
+   "https://es.wikipedia.org/wiki/Serie_A_de_Ecuador_2026",
+   "https://www.infobae.com/espana/agencias/2026/11/26/aucas-liga-y-barcelona-se-disputan-en-ecuador-un-billete-para-la-libertadores-2027/",
+   "https://www.elcomercio.com/deportes/futbol/barcelona-independiente-empate-posiciones-libertadores-ecuador/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114669213",
+  "fx": "Cibao CF v Vega Real",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Dominican Liga Mayor 2026-27. Cibao beat Vega Real 2-1 at home on 5 Sep 2026 (FIFA match centre), H2H unbeaten. Sofascore shows a Vega Real v Cibao match on 22.11; no source confirms a Cibao home meeting on 28.11. No Sportradar form data.",
+  "news": "Fixture/date not confirmed; conflicting listings for this pairing.",
+  "veto": true,
+  "veto_reason": "Date/fixture conflict: sources show the pairing on 22.11 (reverse) and 5.9; 28.11 home fixture unconfirmed; no form data.",
+  "picks": [],
+  "avoid": "Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/atletico-vega-real-cibao-fc/iJQbsnUtc",
+   "https://www.fifa.com/en/match-centre/match/2wfvjdhzl6v3s1pf2s96qvdjx/cokma0jt05z41cexn5ea0mxg/du1smow45ee4rfrcylqkrpjo/4dhuwpqkomai4bwhfy3f7e5g4?date=2025-07-09"
+  ]
+ },
+ {
+  "eid": "sr:match:77113828",
+  "fx": "CD FAS Santa Ana v CD Platense Municipal Zacatecoluca",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "El Salvador Apertura 2026 play-in / quarter-final SECOND leg (365Scores: FAS v Platense 28.11, matches board 19:30 local). First leg Platense v FAS on 25.11, score not found. Winner meets Isidro Metapan.",
+  "news": "Knockout second leg, first-leg result unknown.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout: no result sides (board offers only 1X2 in range).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.elmetropolitanodigital.com/2026/11/definidas-las-llaves-de-la-fase-final-del-torneo-apertura-2026-de-la-primera-division-de-el-salvador/",
+   "https://www.365scores.com/football/league/primera-division-5543/standings"
+  ]
+ }
+]

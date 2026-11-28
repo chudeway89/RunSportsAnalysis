@@ -1,0 +1,594 @@
+[
+ {
+  "eid": "sr:match:73218086",
+  "fx": "Hertha BSC v SV Babelsberg 03 U19",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "U19 DFB Nachwuchsliga Gruppe B; Hertha and Babelsberg both listed in group B. Youth (U19) fixture: per rules no result-side picks; no clear mismatch for goals markets.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides; Over 4.5 (p 0.41)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sport.de/fussball/deutschland-dfb-nachwuchsliga-u19/se123862/2026-2027-vorrunde-gruppe-b/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:73218558",
+  "fx": "SC Freiburg v 1. FC Heidenheim",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "U19 Nachwuchsliga; both sides score 3.3/game in last 10. Youth (U19) fixture: per rules no result-side picks; no clear mismatch for goals markets.",
+  "news": "no news found; fixture not found in searched schedules (no conflict either)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.weltfussball.de/wettbewerb/co14255/deutschland-u19-dfb-nachwuchsliga/alle-spiele/"
+  ]
+ },
+ {
+  "eid": "sr:match:73217910",
+  "fx": "Hamburger SV v 1 FC Magdeburg",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "U19 Nachwuchsliga Gruppe A; weltfussball lists HSV U19 v Magdeburg U19 on 28.11.2026 (consistent). Youth (U19) fixture: per rules no result-side picks; no clear mismatch for goals markets.",
+  "news": "date confirmed on weltfussball listing",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.weltfussball.de/wettbewerb/co14255/deutschland-u19-dfb-nachwuchsliga/alle-spiele/"
+  ]
+ },
+ {
+  "eid": "sr:match:73218082",
+  "fx": "Chemnitzer FC v Energie Cottbus",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "U19 Nachwuchsliga; Chemnitz 1W in 10, Cottbus favourite 0.68 but not a clear mismatch. Youth (U19) fixture: per rules no result-side picks; no clear mismatch for goals markets.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cottbus result-side (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.weltfussball.de/wettbewerb/co14255/deutschland-u19-dfb-nachwuchsliga/alle-spiele/"
+  ]
+ },
+ {
+  "eid": "sr:match:72514002",
+  "fx": "Dynamo Dresden v FC St. Pauli",
+  "sport": "football",
+  "absences": "Dresden: Luca Herrmann, Brooklyn Ezeh (inj), Nils Froling (ill), Nicolai Rapp doubtful (foot); Kenneth Schmidt, Lars Bunning rehab. St. Pauli: Mathias Pereira Lage, Gisli Thordarson (long-term), Louis Oppie suspended.",
+  "context": "2.BL matchday 13, Sat 13:00 local (=12:00 UTC, matches board), Rudolf-Harbig-Stadion, ~30,500. Dresden three straight home wins (home last5 4-0-1, GA 0.4); St. Pauli (relegated from BL) still without an away win (away 0-4-1). Coach Marcel Rapp v his former Kiel players Wagner/Sterner.",
+  "news": "Dresden riding home form; St. Pauli winless away, Oppie suspended; Dresden concede late goals.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.52,
+    "p": 0.6087,
+    "why": "Mechanism: St. Pauli 0 away wins this season (0-4-1 away last 5) v Dresden 3 straight home wins and GA 0.4 at home; Oppie suspended. Dresden absences (Herrmann, Ezeh, Froling) cap it. My p 0.64."
+   }
+  ],
+  "avoid": "St. Pauli 1X2 (no away win); Dresden 1X2 at 2.80",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportschau.de/regional/mdr/sg-dynamo-dresden-fc-sankt-pauli,vorschau-sgd-fcsp-100.html",
+   "https://millernton.de/2026/11/27/vorbericht-dynamo-dresden-fc-st-pauli-13-spieltag-26-27/"
+  ]
+ },
+ {
+  "eid": "sr:match:72513998",
+  "fx": "Hertha v Karlsruher SC",
+  "sport": "football",
+  "absences": "Hertha: Kian Todorovic (inj), Soufian Gouram (suspended, red card). KSC: Moritz Broschinski (long-term); Louey Ben Farhat open.",
+  "context": "2.BL MD13, Sat 13:00 local, Olympiastadion. Hertha league leaders (8-2-0 last 10, GA 0.6), near-full squad under Leitl; KSC under heavy pressure and still chasing first away win (away last5 1-0-4, GA 2.8).",
+  "news": "Leaders Hertha near full strength v KSC seeking first away win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.6812,
+    "why": "Mechanism: leaders with near-full squad (only Todorovic, Gouram out) v a KSC side without an away win this season and conceding 2.8/away game. My p 0.71."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.17,
+    "p": 0.8244,
+    "why": "Same mechanism, draw protected; Hertha 0 losses in last 10. My p 0.84."
+   }
+  ],
+  "avoid": "Overs: Hertha games low-scoring (last 6 totals 4,3,3,2,1,0)",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.sportschau.de/regional/swr/swr-ausgerechnet-bei-der-uebermannschaft-ksc-peilt-ersten-auswaertssieg-an-100.html",
+   "https://www.berliner-kurier.de/article/null-grad-darum-laeuft-hertha-gegen-den-ksc-trotzdem-heiss-10642257",
+   "https://www.buli-tipphilfe.de/voraussichtliche-aufstellung/hertha-bsc"
+  ]
+ },
+ {
+  "eid": "sr:match:72514004",
+  "fx": "Holstein Kiel v 1 FC Kaiserslautern",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "2.BL MD13 (confirmed by Sportschau). Kiel home 3-2-1; Lautern 6-2-2 last 10, tight away (GA 0.6).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (no team news); Under 4.5 at 1.17 below range",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportschau.de/regional/swr/swr-ausgerechnet-bei-der-uebermannschaft-ksc-peilt-ersten-auswaertssieg-an-100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73219098",
+  "fx": "Arminia Bielefeld v VfL Wolfsburg",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "U19 Nachwuchsliga; Bielefeld 5-0-0 at home, both sides 3.1 gf. Youth (U19) fixture: per rules no result-side picks; no clear mismatch for goals markets.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.weltfussball.de/wettbewerb/co14255/deutschland-u19-dfb-nachwuchsliga/alle-spiele/"
+  ]
+ },
+ {
+  "eid": "sr:match:72680322",
+  "fx": "1. FC Saarbrucken v Alemannia Aachen",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "3. Liga MD15: 4th v 5th, both on 23 points, chasing the top three. Saarbrucken games high-scoring (last 6 totals 3,8,3,5,4,6); Aachen away GF 0.5.",
+  "news": "Top-five clash, no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (evenly matched); Over 2.5 statistical only",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.liga3-online.de/alles-was-ihr-zum-15-spieltag-wissen-muesst-9/"
+  ]
+ },
+ {
+  "eid": "sr:match:72680306",
+  "fx": "FC Wurzburger Kickers v Fortuna D",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "3. Liga MD15; Fortuna Dusseldorf now in 3. Liga (also listed v Wehen Wiesbaden on MD16). Wurzburg 3-1-6 last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "https://datencenter.dfb.de/competitions/4/seasons/current"
+  ]
+ },
+ {
+  "eid": "sr:match:72680310",
+  "fx": "Rot-Weiss Essen v TSG Hoffenheim II",
+  "sport": "football",
+  "absences": "Essen: Marek Janssen (yellow-card suspension); Tony Menzel back from injury. Hoffenheim II: Jakov Dedic (away at U17 World Cup).",
+  "context": "3. Liga MD15, Sat 28.11 14:00 local. Essen 3rd (30 pts), four straight wins; Hoffenheim II 6th (22). Essen won both previous meetings.",
+  "news": "Essen in form (4 wins in a row), Hoffenheim II without striker Dedic.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.7407,
+    "why": "Mechanism: Essen four straight wins and home GA 0.6 v a Hoffenheim II side missing top striker Dedic (U17 World Cup); Janssen suspension trims it. My p 0.76."
+   }
+  ],
+  "avoid": "Overs (Essen low-scoring: GF 1.5 GA 0.9)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.news.de/sport/860221447/rot-weiss-essen-tsg-1899-hoffenheim-ii-im-live-stream-tv-uebertragung-vorbericht-und-tabelle-am-28-11-2026-in-der-3-liga-26-27/1/",
+   "https://www.liga3-online.de/alles-was-ihr-zum-15-spieltag-wissen-muesst-9/"
+  ]
+ },
+ {
+  "eid": "sr:match:72680308",
+  "fx": "SC Preussen 06 Munster v SC Verl",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "3. Liga MD15, Sat 14:00 local per Sport1/ran schedule. Both out of form: Munster 2-2-6, Verl 1-2-7 last 10 and 0-1-5 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides without news",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sport1.de/daten/fussball/3-liga/spielplan",
+   "https://ran.joyn.de/sports/fussball/3-liga/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72680316",
+  "fx": "SV Waldhof Mannheim 07 v VfB Stuttgart II",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "3. Liga MD15, Sat 14:00 local. Waldhof 6th, Stuttgart II 12th (table to MD14). Reserve (II) side involved.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (no news)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.reviersport.de/fussball/3liga-2627-spieltag.html",
+   "https://www.sport1.de/daten/fussball/3-liga/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72513340",
+  "fx": "Cologne v SV 07 Elversberg",
+  "sport": "football",
+  "absences": "Koln: Ellyes Skhiri (ankle), Timo Hubers, Thijs Dallinga (knee), Imad Rondic, Rav van den Berg (muscle), Alessio Castro-Montes (calf); Marvin Schwabe doubtful (back); Ragnar Ache short of rhythm. Elversberg: N. Mickelson, L. Seifert (ankle); Noah Darvich knock.",
+  "context": "Bundesliga MD11, Sat 15:30 local. Mid-table; Koln six confirmed absentees including spine (Skhiri, Hubers) and both strikers.",
+  "news": "Koln badly depleted (6 out, keeper doubtful); sources conflict on exact list.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Koln 1X2/DNB (six absentees, sources conflict); Elversberg away (1-1-3 away)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.tufutbolero.com/en/news/koln-elversberg-preview-koln-arrive-with-six-confirmed-fcccf1",
+   "https://www.fussballnationalmannschaft.net/aufstellung-koeln-elversberg-bundesliga-123341589.html",
+   "https://sports.yahoo.com/soccer/articles/1-fc-k-ln-vs-181200473.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72513338",
+  "fx": "Hamburger SV v Bayern Munich",
+  "sport": "football",
+  "absences": "Bayern: Michael Olise (out, Kompany), Harry Kane (inj), Ismael Saibari (ankle surgery), Serge Gnabry (hamstring), Manuel Neuer, Alphonso Davies (muscle); Musiala, Luis Diaz could feature. HSV: Miro Muheim, Yussuf Poulsen, Sambi Lokonga (calf); Nandja, Torunarigha could return.",
+  "context": "Bundesliga MD11, Volksparkstadion. Big-club fixture. HSV lost 4-0 at Werder last time out. Bayern attack heavily depleted (Kane, Olise, Gnabry, Saibari).",
+  "news": "Bayern injury crisis in attack; HSV also short in midfield/defence.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "big-club result-sides (rule); Overs (Bayern forwards out); Bayern DNB 1.11 below range",
+  "confidence": 0.2,
+  "sources": [
+   "https://sports.yahoo.com/soccer/articles/bayern-injury-crisis-bites-michael-104235704.html",
+   "https://www.bavarianfootballworks.com/bayern-munich-bundesliga/287073/bayern-munich-star-michael-olise-wont-play-vs-hamburger-sv",
+   "https://khelnow.com/football/hamburger-sv-vs-bayern-munich-preview-bundesliga-202611"
+  ]
+ },
+ {
+  "eid": "sr:match:72513336",
+  "fx": "Mainz v Union Berlin",
+  "sport": "football",
+  "absences": "Mainz: Dominik Kohr (ankle), Otto Ruoppi (knee); Silas Katompa Mvumpa doubt. Union: Rani Khedira, Livan Burcu, Robert Skov, Zeno Van Den Bosch (suspended), Stanley Nsoki (calf), Felix Uduokhai (thigh), Andrik Markgraf (knee), Josip Juranovic (ill/doubt).",
+  "context": "Bundesliga MD11, Sat 14:30 UTC, Mewa Arena. Union still without a win under coach Eta; Union scored 0.6/game in last 10. Mainz lost last 4 at home though (0-0-4).",
+  "news": "Union without three centre-backs plus Khedira; still winless under Eta.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.8113,
+    "why": "Mechanism: Union missing three centre-backs (Van Den Bosch susp, Nsoki, Uduokhai) plus Khedira and Markgraf, scoring 0.6/game and winless under Eta. Mainz poor home run (0-0-4) keeps it from a 1X2 pick. My p 0.82."
+   }
+  ],
+  "avoid": "Mainz 1X2 (lost last 4 at home); Union to score",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/mainz-05/preview/mainz-vs-union-berlin-prediction-team-news-lineups_609964.html",
+   "https://bulinews.com/1-fsv-mainz-05-1-union-berlin-preview-die-eisernen-still-searching-for-first-victory-under-eta",
+   "https://footballwhispers.com/blog/mainz-05-vs-union-berlin-prediction-28-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72513344",
+  "fx": "Paderborn v Schalke",
+  "sport": "football",
+  "absences": "Paderborn: Awortwie-Grant, Gayret, Hoffmeier out; Laurin Ulrich, Tom Baack doubtful (illness). Schalke: Hojlund, Lasme, Schallenberg, Wober out.",
+  "context": "Bundesliga MD11, relegation-zone six-pointer between promoted sides: Paderborn 15th, Schalke 16th on 7 pts with league-low 5 goals.",
+  "news": "Low-scoring relegation clash; Schalke fewest goals in the league.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (coin flip); Under 3.5 p 0.68 < 0.82 rule; Under 4.5 1.17 below range",
+  "confidence": 0.2,
+  "sources": [
+   "https://sports.yahoo.com/soccer/articles/sc-paderborn-vs-fc-schalke-091100279.html",
+   "https://www.squawka.com/en/news/previews/paderborn-vs-schalke-04-predictions-betting-tips-28-11-26/",
+   "https://www.whoscored.com/matches/1995690/preview/germany-bundesliga-2026-2027-paderborn-schalke-04"
+  ]
+ },
+ {
+  "eid": "sr:match:73111674",
+  "fx": "Montpellier HSC v Olympique Rovenain",
+  "sport": "football",
+  "absences": "unknown (youth)",
+  "context": "France U19 National. Youth (U19) fixture: per rules no result-side picks; no clear mismatch for goals markets.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72680326",
+  "fx": "SG Sonnenhof Grossaspach v MSV Duisburg",
+  "sport": "football",
+  "absences": "no news found (Duisburg coach Didi Hirsch before his 100th competitive game).",
+  "context": "3. Liga MD15, 16:30 local per schedule. Duisburg 2nd; Grossaspach 14th, 1-2-7 last 10, GA 3.0.",
+  "news": "Duisburg second, Grossaspach struggling; no absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.56,
+    "p": 0.6083,
+    "why": "Mechanism is mainly table/form: 2nd v 14th, Grossaspach conceding 3.0/game (1-7, 0-3, 1-3 recently). Draw protected; statistics-led so fill only. My p 0.63."
+   }
+  ],
+  "avoid": "Duisburg 1X2 (away < 0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://duisburg-journal.de/didi-hirsch-vor-seinem-100-pflichtspiel-als-zebra-coach/",
+   "https://www.reviersport.de/fussball/3liga-2627-spieltag.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72036310",
+  "fx": "Angers v Lens",
+  "sport": "football",
+  "absences": "Angers: Bane Diatta (inj). Lens: Odsonne Edouard, Maik Nawrocki (inj); Antonio, Hazard, Sagnan, Celik dropped by Digard.",
+  "context": "Ligue 1 J12, Stade Raymond Kopa, 17:15 Paris (=16:15 UTC). Angers 17th (8 pts), Lens 11th (14). Lens poor run (3-1-6, conceded 9 in one game).",
+  "news": "Lens without Edouard and four players dropped by Digard; Thauvin carries the attack.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lens 1X2 (away < 0.75; squad turmoil); Lens DNB p 0.74 not backed by fresh mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://butfootballclub.fr/1717078-rc-lens-le-groupe-de-digard-face-a-angers-sans-plusieurs-joueurs-ecartes",
+   "https://onefootball.com/en/news/angers-v-lens-survival-fight-meets-mid-table-reset-43852567"
+  ]
+ },
+ {
+  "eid": "sr:match:76735474",
+  "fx": "Saint-Pryve Saint-Hilaire FC v SC Selongey",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Coupe de France 8th round (knockout, 90-min settlement for non-qualify markets). Saint-Pryve (N1) v Selongey (N2), Sat 28 Nov confirmed.",
+  "news": "Date confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides in knockout (DNB only); Selongey sample n=3",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.ouest-france.fr/sport/football/coupe-de-france/calendrier-resultats/8eme-tour/",
+   "https://news.footeo.com/2026/11/24/coupe-de-france-le-programme-complet-du-8e-tour-avec-les-horaires-des-46-matchs-18452"
+  ]
+ },
+ {
+  "eid": "sr:match:76735490",
+  "fx": "Castanet US v Pau FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Coupe de France 8th round: Castanet (N2) v Pau (L2).",
+  "news": "Date conflict: one schedule lists Sat 28 18h30, another places the tie on Fri 27 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (Sat 28 18:30 v Fri 27 Nov).",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.foot01.com/coupe-de-france/cdf-programme-tv-et-resultats-du-8e-tour",
+   "https://sport-tv.fr/foot/coupe-de-france/"
+  ]
+ },
+ {
+  "eid": "sr:match:72513330",
+  "fx": "Stuttgart v Eintracht Frankfurt",
+  "sport": "football",
+  "absences": "Frankfurt: Jessic Ngankam (groin; Archyde says thigh), Can Uzun doubtful (illness). Stuttgart: Justin Diehl only absentee (other sources: fully fit).",
+  "context": "Bundesliga MD11, 17:30 UTC. European chasers; possible European congestion for both clubs not confirmed.",
+  "news": "Stuttgart near full squad; Frankfurt without Ngankam, Uzun doubt.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.6609,
+    "why": "Mechanism: Stuttgart fully fit (Diehl only) v Frankfurt without Ngankam and possibly Uzun; Frankfurt away GA 2.2. Big-club style clash so DNB only. My p 0.68."
+   }
+  ],
+  "avoid": "1X2 result-sides; Stuttgart games low-scoring lately, so no Overs",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.tufutbolero.com/en/news/vfb-stuttgart-eintracht-frankfurt-the-visitors-have-one-fcccf1",
+   "https://www.sportskeeda.com/football/stuttgart-vs-eintracht-frankfurt-prediction-betting-tips-november-28th-2026",
+   "https://sports.yahoo.com/soccer/articles/vfb-stuttgart-vs-eintracht-frankfurt-135500476.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76735508",
+  "fx": "Saint-Etienne v FC Villefranche-Beaujolais",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Coupe de France 8th round: Saint-Etienne (L2) v Villefranche (L3), Sat 28 Nov confirmed. Knockout. Saint-Etienne 4-0-0 at home, GA 0.25.",
+  "news": "Date confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "1X2 in knockout; DNB 1.08 below range",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ouest-france.fr/sport/football/coupe-de-france/calendrier-resultats/8eme-tour/",
+   "https://www.envertetcontretous.fr/articles/-le-programme-complet-du-8eme-tour-de-coupe-de-france-76231-1.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76735432",
+  "fx": "Vannes OC v US Concarneau",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Coupe de France 8th round: Vannes (N2) v Concarneau (L3), Sat 28 Nov 20h local (=19:00 UTC, matches board). Two-division gap; Vannes home GA 4.0 last 3.",
+  "news": "Date/time confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.32,
+    "p": 0.7306,
+    "why": "Mechanism: two-division gap (L3 v N2) plus settlement structure (DNB, 90 min, knockout allowed). Vannes conceding 4.0 at home. My p 0.74."
+   }
+  ],
+  "avoid": "Concarneau 1X2 (knockout); Overs (Vannes games wild but cup)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.foot01.com/coupe-de-france/cdf-programme-tv-et-resultats-du-8e-tour",
+   "https://news.footeo.com/2026/11/24/coupe-de-france-le-programme-complet-du-8e-tour-avec-les-horaires-des-46-matchs-18452"
+  ]
+ },
+ {
+  "eid": "sr:match:72514012",
+  "fx": "VfL 1899 Osnabruck v Hannover 96",
+  "sport": "football",
+  "absences": "Hannover: Benjamin Kallman (inj). Osnabruck: none known.",
+  "context": "Lower Saxony DERBY, 2.BL MD13, Bremer Brucke, 20:30 local (=19:30 UTC). Osnabruck 12th (12 pts), no goal in three league games; Hannover 3 points above. Hannover away 0-1-2.",
+  "news": "Derby; Osnabruck goalless in three; Kallman out for Hannover.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (derby rule); Unders p < 0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hannover96.de/newscenter/news/details/new6b095d9b2b510792065821-gegner-spotlight-vfl-osnabrueck-gefaehrlich-nach-ballgewinn.html",
+   "https://wc.sportwetten24.com/wett-tipps/2-bl/vfl-osnabrueck-hannover-96-tipp-prognose-28-11-26/"
+  ]
+ },
+ {
+  "eid": "sr:match:72036316",
+  "fx": "Le Havre v Strasbourg",
+  "sport": "football",
+  "absences": "no named absences found; Josh Maja has half of Le Havre's goals.",
+  "context": "Ligue 1 J12, 20:45 Paris (=19:45 UTC). Le Havre 0 wins in 10, Opta 83.4% relegation; Strasbourg lost last four away.",
+  "news": "Both in poor form; Le Havre in deep relegation trouble.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Strasbourg DNB/1X2 (lost last 4 away); result-sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.newsminimalist.com/articles/strasbourg-and-le-havre-meet-in-ligue-1-with-both-clubs-in-poor-form-1d5cb2b5"
+  ]
+ },
+ {
+  "eid": "sr:match:72036318",
+  "fx": "Le Mans FC v Lille",
+  "sport": "football",
+  "absences": "Le Mans: two key players left out of the squad (names not confirmed); Bourabaa, Sidibe in treatment. Lille: no news found.",
+  "context": "Ligue 1 J12, promoted Le Mans (Patrick Videira) v Lille. 21-man squad named.",
+  "news": "Le Mans without two regulars.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 p 0.76 < 0.82; Lille away 1X2",
+  "confidence": 0.15,
+  "sources": [
+   "https://madeinfoot.ouest-france.fr/infos/article-le-mans-fc-deux-cadres-majeurs-de-patrick-videira-absents-du-groupe-pour-affronter-le-losc-547251.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72036322",
+  "fx": "Nice v ESTAC Troyes",
+  "sport": "football",
+  "absences": "Nice: Abergel (knee), Bombito (leg), Mendy (knee). Troyes: Gozzi (hamstring), Kone (knee); Ifnaoui doubtful.",
+  "context": "Ligue 1 J12; Nice 17 pts, home 3-1-1 (GF 2.4); Troyes away 1-1-3 scoring 0.4/away game.",
+  "news": "Both sides with three injury absentees.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.7495,
+    "why": "Mechanism: Troyes score 0.4 per away game and lose Kone/Gozzi with Ifnaoui doubtful; Nice home 3-1-1. Nice's own absences (Bombito, Abergel, Mendy) keep it to DNB. My p 0.76."
+   }
+  ],
+  "avoid": "Nice 1X2 at 1.72",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.tufutbolero.com/en/news/nice-troyes-nice-host-with-three-absentees-and-17-points-fea44a"
+  ]
+ },
+ {
+  "eid": "sr:match:72036324",
+  "fx": "PSG v Lorient",
+  "sport": "football",
+  "absences": "PSG: Nuno Mendes (thigh), Khvicha Kvaratskhelia, Desire Doue (ACL, surgery), Alessandro Longoni out; Ousmane Dembele returns. Lorient: Katseris, Fadiga, Bamba (inj), Toure doubtful.",
+  "context": "Ligue 1 J12, Parc des Princes, 20:45 local (=19:45 UTC). PSG five straight league wins; Lorient 10th (16 pts) and drew the last two meetings (bogey side). Lorient away GA 0.5.",
+  "news": "PSG without Kvaratskhelia, Doue, Mendes; Dembele back; Lorient drew last two meetings.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.28,
+    "p": 0.756,
+    "why": "Mechanism: Dembele returns to lead the line and PSG average 3.3 GF over 10; Lorient missing Katseris/Fadiga/Bamba. Kvaratskhelia/Doue absence and Lorient's tight away record (GA 0.5) are the risk. My p 0.76."
+   }
+  ],
+  "avoid": "PSG 1X2 1.23 (Lorient drew last two meetings); PSG -1.5 type lines",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.getfootballnewsfrance.com/2026/psg-full-back-nuno-mendes-ruled-out-of-lorient-match/",
+   "https://www.culturepsg.com/news/match/deja-5-absents-pour-psg-lorient-probablement-plus/61692",
+   "https://www.winonbetonline.com/psg-lorient-preview-bogey-team/"
+  ]
+ }
+]
