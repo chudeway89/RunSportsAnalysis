@@ -1,0 +1,644 @@
+[
+ {
+  "eid": "sr:match:72120246",
+  "fx": "HC Dukla Jihlava v Rytiri Kladno",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue. Jihlava 4-2 at home; Kladno 2-4 away, conceded 7 and 5 in two of last 6.",
+  "news": "Date and venue confirmed by both club schedules (round 26, Horacka multifunkcni arena, Sat 28.11).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides on youth; integer Over 7.",
+  "confidence": 0.15,
+  "sources": [
+   "https://hcdukla.cz/zapasy.asp?sezona=2027JUN&kategorie=JUN",
+   "https://rytirikladno.cz/matches/2?season=2027&competition=&only=only_away",
+   "https://hokejkv.cz/matches/JUN/2027?match_type=&type=home",
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9"
+  ]
+ },
+ {
+  "eid": "sr:match:72120238",
+  "fx": "HC Poruba v HC Bili Tygri Liberec",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue.",
+  "news": "Club snippet pairs Poruba v Liberec on 28.11 (round 26); opponent not fully shown on Poruba page. No conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; youth, even matchup.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hcdukla.cz/zapasy.asp?sezona=2027JUN&kategorie=JUN",
+   "https://rytirikladno.cz/matches/2?season=2027&competition=&only=only_away",
+   "https://hokejkv.cz/matches/JUN/2027?match_type=&type=home",
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9"
+  ]
+ },
+ {
+  "eid": "sr:match:72118560",
+  "fx": "Kiekko-Espoo v Ilves Tampere",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Women's fixture (Auroraliiga): no result-side picks; checked only date/venue. Kiekko-Espoo (2026 champions) 10-0 in last 10, GF 5.3.",
+  "news": "No 28.11 Auroraliiga news found; no in-band markets.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No markets in band.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Aurora_Borealis_Cup_playoffs",
+   "https://www.eliteprospects.com/team/26157/kiekko-espoo/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72120250",
+  "fx": "HC Litvinov v HC Vitkovice",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue. Litvinov 2-8 last 10; Vitkovice 5-5.",
+  "news": "Litvinov and Vitkovice appear in 28.11 listings but snippets garbled; no conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away result-side in youth.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hcdukla.cz/zapasy.asp?sezona=2027JUN&kategorie=JUN",
+   "https://rytirikladno.cz/matches/2?season=2027&competition=&only=only_away",
+   "https://hokejkv.cz/matches/JUN/2027?match_type=&type=home",
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9"
+  ]
+ },
+ {
+  "eid": "sr:match:72120248",
+  "fx": "HC Energie Karlovy Vary v HC Ocelari Trinec",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue. Top-of-table clash: KV 9-1, Trinec 8-2.",
+  "news": "hokejkv.cz confirms round 26, Sat 28.11 12:00 local (=11:00 UTC). Board says 12:00 UTC: one-hour kick-off discrepancy (CET vs UTC listing).",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: club lists 12:00 CET (11:00 UTC), board 12:00 UTC.",
+  "picks": [],
+  "avoid": "All; even top clash, kick-off time mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hcdukla.cz/zapasy.asp?sezona=2027JUN&kategorie=JUN",
+   "https://rytirikladno.cz/matches/2?season=2027&competition=&only=only_away",
+   "https://hokejkv.cz/matches/JUN/2027?match_type=&type=home",
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9"
+  ]
+ },
+ {
+  "eid": "sr:match:72118562",
+  "fx": "HPK Hameenlinna v Karpat Oulu",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Women's fixture (Auroraliiga): no result-side picks; checked only date/venue. HPK (2026 finalist) v Karpat 0-10 last 10.",
+  "news": "No 28.11 news found; no in-band markets.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No markets in band.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Aurora_Borealis_Cup_playoffs",
+   "https://www.eliteprospects.com/team/26157/kiekko-espoo/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114036267",
+  "fx": "HIFK Helsinki U20 v KooKoo",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue. No Sportradar form data.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; no form data.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.fi/jaakiekko/suomi/sm-sarja-u20/otteluohjelma/",
+   "https://tribuna.1xbet.kz/prognozy/28-11-2026-lukko-vs-tps"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114036270",
+  "fx": "Lukko U20 v TPS U20",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue. No Sportradar form data.",
+  "news": "Betting preview dated 28.11.2026 confirms Lukko v TPS U20 date.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; coin-flip, no data.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.fi/jaakiekko/suomi/sm-sarja-u20/otteluohjelma/",
+   "https://tribuna.1xbet.kz/prognozy/28-11-2026-lukko-vs-tps"
+  ]
+ },
+ {
+  "eid": "sr:match:72118566",
+  "fx": "TPS Turku v Team Kuortane",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Women's fixture (Auroraliiga): no result-side picks; checked only date/venue.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Women's result-side.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Aurora_Borealis_Cup_playoffs",
+   "https://www.eliteprospects.com/team/26157/kiekko-espoo/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72176078",
+  "fx": "Tappara v Karpat Akatemia",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue. Tappara 3-7 last 10 (1-4 at home).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; even market.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.fi/jaakiekko/suomi/sm-sarja-u20/otteluohjelma/",
+   "https://tribuna.1xbet.kz/prognozy/28-11-2026-lukko-vs-tps"
+  ]
+ },
+ {
+  "eid": "sr:match:72119078",
+  "fx": "HC Slavia Prague v Vhk Vsetin",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Vsetin are the league leaders (9-1 last 10, 5-0 away, 5.0 GF away). Slavia 'still struggling' (1-4 at home, 3.8 GA). In an earlier meeting Vsetin scored 3 in the 3rd period to beat Slavia.",
+  "news": "Slavia v VHK ROBE Vsetin confirmed for 28.11 15:00 local (14:00 UTC) on CT sport Plus.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.808714548,
+    "why": "Leader Vsetin 5.0 GF away, Slavia 3.8 GA at home; Vsetin scored 2+ in every one of last 6. Own p 0.86."
+   }
+  ],
+  "avoid": "Away ML (p 0.60 < 0.75 rule).",
+  "confidence": 0.3,
+  "sources": [
+   "https://hc-slavia.cz/zapasy.asp",
+   "https://www.hokej.cz/chance-liga-zive-rozjete-litomerice-hosti-vsetin-lidr-hraje-s-trebici/5076763",
+   "https://www.hclitomerice.cz/standings",
+   "https://hokej.hcf-m.cz/tabulka.asp",
+   "https://isport.blesk.cz/clanek/hokej-domaci-souteze-maxa-liga/481096/zlin-porazil-chomutov-slavia-se-dal-trapi-litomerice-prikovaly-sokolov-k-poslednimu-mistu.html",
+   "https://www.hclitomerice.cz/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72119080",
+  "fx": "Horacka Trebic v Hockey Club Tabor",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Trebic 7-3 last 10; Tabor 4-1 away. Tight mid-table game.",
+  "news": "Trebic v Tabor confirmed 28.11 15:00 local (14:00 UTC) on Prima sport.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML 0.65 with only statistical reason.",
+  "confidence": 0.15,
+  "sources": [
+   "https://hc-slavia.cz/zapasy.asp",
+   "https://www.hokej.cz/chance-liga-zive-rozjete-litomerice-hosti-vsetin-lidr-hraje-s-trebici/5076763",
+   "https://www.hclitomerice.cz/standings",
+   "https://hokej.hcf-m.cz/tabulka.asp",
+   "https://isport.blesk.cz/clanek/hokej-domaci-souteze-maxa-liga/481096/zlin-porazil-chomutov-slavia-se-dal-trapi-litomerice-prikovaly-sokolov-k-poslednimu-mistu.html",
+   "https://www.hclitomerice.cz/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72176080",
+  "fx": "HPK Hameenlinna U20 v Rovaniemen Kiekko U20",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue. RoKi U20 1-9 last 10, 0-4 away (5.25 GA).",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Only an even O/U 7.5 in band.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.fi/jaakiekko/suomi/sm-sarja-u20/otteluohjelma/",
+   "https://tribuna.1xbet.kz/prognozy/28-11-2026-lukko-vs-tps"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114036268",
+  "fx": "Jokerit v JYP",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue. No Sportradar data.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; no data.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.fi/jaakiekko/suomi/sm-sarja-u20/otteluohjelma/",
+   "https://tribuna.1xbet.kz/prognozy/28-11-2026-lukko-vs-tps"
+  ]
+ },
+ {
+  "eid": "sr:match:72176082",
+  "fx": "KalPa U20 v Vaasan  Sport U20",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue. Sport U20 8-2 last 10 with 4.9 GF; KalPa U20 concede 4.6 (4.0 at home); H2H 8-3 to Sport.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.33,
+    "p": 0.713245,
+    "why": "Goals market in a clear mismatch: Sport 4.9 GF, KalPa 4.6 GA, last H2H 8-3. Own p 0.74."
+   }
+  ],
+  "avoid": "Result-sides (youth).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.flashscore.fi/jaakiekko/suomi/sm-sarja-u20/otteluohjelma/",
+   "https://tribuna.1xbet.kz/prognozy/28-11-2026-lukko-vs-tps"
+  ]
+ },
+ {
+  "eid": "sr:match:72120236",
+  "fx": "HC Kometa Brno v BK Mlada Boleslav",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue. Both 3-7 last 10.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hcdukla.cz/zapasy.asp?sezona=2027JUN&kategorie=JUN",
+   "https://rytirikladno.cz/matches/2?season=2027&competition=&only=only_away",
+   "https://hokejkv.cz/matches/JUN/2027?match_type=&type=home",
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9"
+  ]
+ },
+ {
+  "eid": "sr:match:72120242",
+  "fx": "Mountfield HK v HC Skoda Plzen Youth",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "U20 junior fixture: per rules only goals markets in clear mismatches; checked only date/venue.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hcdukla.cz/zapasy.asp?sezona=2027JUN&kategorie=JUN",
+   "https://rytirikladno.cz/matches/2?season=2027&competition=&only=only_away",
+   "https://hokejkv.cz/matches/JUN/2027?match_type=&type=home",
+   "https://ceskyhokej.cz/competition/games/1?gameListWidget-page=9"
+  ]
+ },
+ {
+  "eid": "sr:match:72119082",
+  "fx": "PSG Berani Zlin v Pirati Chomutov",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Zlin 11th, Chomutov 12th (25 games). Zlin had lost 5 in a row earlier, then beat Chomutov.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; two mid-to-low sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://hc-slavia.cz/zapasy.asp",
+   "https://www.hokej.cz/chance-liga-zive-rozjete-litomerice-hosti-vsetin-lidr-hraje-s-trebici/5076763",
+   "https://www.hclitomerice.cz/standings",
+   "https://hokej.hcf-m.cz/tabulka.asp",
+   "https://isport.blesk.cz/clanek/hokej-domaci-souteze-maxa-liga/481096/zlin-porazil-chomutov-slavia-se-dal-trapi-litomerice-prikovaly-sokolov-k-poslednimu-mistu.html",
+   "https://www.hclitomerice.cz/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72116596",
+  "fx": "Assat Pori v Karpat Oulu",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Assat around 6th (40 pts); Karpat lower half. Assat 4-6 last 10.",
+  "news": "No team news found for 28.11.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eliteprospects.com/league/liiga",
+   "https://www.ticketmaster.fi/artist/jyp-lippuja/1169054",
+   "https://kalpa.fi/fi-fi/article/uutiset/liigan-otteluohjelma-kaudelle-20262027-on-julkaistu/7637/",
+   "https://www.jypliiga.fi/ottelut/"
+  ]
+ },
+ {
+  "eid": "sr:match:72116840",
+  "fx": "Jukurit Mikkeli v Lukko Rauma",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Lukko are Liiga leaders (55 pts), 9-1 last 10, 4.0 GF away; won both recent H2H (4-1, 4-3).",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.36,
+    "p": 0.712412,
+    "why": "Leader Lukko 3.9 GF last 10 (4.0 away), scored 4+ in 5 of last 6 and 4 in both H2H. Own p 0.76."
+   }
+  ],
+  "avoid": "Away ML (p 0.54); Under markets.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eliteprospects.com/league/liiga",
+   "https://www.ticketmaster.fi/artist/jyp-lippuja/1169054",
+   "https://kalpa.fi/fi-fi/article/uutiset/liigan-otteluohjelma-kaudelle-20262027-on-julkaistu/7637/",
+   "https://www.jypliiga.fi/ottelut/"
+  ]
+ },
+ {
+  "eid": "sr:match:72116588",
+  "fx": "JYP Jyvaskyla v KalPa Hockey",
+  "sport": "ice hockey",
+  "absences": "JYP: D Teemu Eronen (undisclosed), Santeri Huovila and Roni Jokinen (out for season), Vaino Liikonen (undisclosed)",
+  "context": "Home-and-away back-to-back: KalPa 0-3 JYP on Fri 27.11 in Kuopio, return game in Jyvaskyla Sat 28.11 17:00 EET (15:00 UTC). JYP 3rd (50 pts); KalPa 3-7 last 10, 2.3 GF.",
+  "news": "Ticketmaster and the KalPa schedule confirm JYP v KalPa Sat 28.11 17:00 at LahiTapiola-areena; JYP site lists 1.12 for another meeting. Both teams on a back-to-back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.28,
+    "p": 0.7544790509,
+    "why": "JYP not losing in regulation: 3rd v struggling KalPa (3-7, 2.3 GF), JYP shut them out 3-0 24h earlier. Own p 0.77."
+   }
+  ],
+  "avoid": "Totals (KalPa low scoring, B2B fatigue cuts both ways).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eliteprospects.com/league/liiga",
+   "https://www.ticketmaster.fi/artist/jyp-lippuja/1169054",
+   "https://kalpa.fi/fi-fi/article/uutiset/liigan-otteluohjelma-kaudelle-20262027-on-julkaistu/7637/",
+   "https://www.jypliiga.fi/ottelut/",
+   "https://www.eliteprospects.com/team/42/jyp"
+  ]
+ },
+ {
+  "eid": "sr:match:72116590",
+  "fx": "Pelicans Lahti v KooKoo",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "KooKoo bottom of Liiga (15 pts), concede 4.1 in last 10 and 5.25 away. Pelicans 14th but 2.5 GF.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.820055,
+    "why": "Bottom side KooKoo concede 5.25 away; Pelicans 2+ goals likely v the league's worst defence. Own p 0.84."
+   }
+  ],
+  "avoid": "Pelicans ML (Pelicans 3-7 last 10).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eliteprospects.com/league/liiga",
+   "https://www.ticketmaster.fi/artist/jyp-lippuja/1169054",
+   "https://kalpa.fi/fi-fi/article/uutiset/liigan-otteluohjelma-kaudelle-20262027-on-julkaistu/7637/",
+   "https://www.jypliiga.fi/ottelut/"
+  ]
+ },
+ {
+  "eid": "sr:match:72116594",
+  "fx": "TPS Turku v Kiekko-Espoo",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "TPS 9th, Kiekko-Espoo 10th; even mid-table game.",
+  "news": "Elite Prospects lists TPS v Kiekko-Espoo 28.11 15:00 GMT, consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; even game.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eliteprospects.com/league/liiga",
+   "https://www.ticketmaster.fi/artist/jyp-lippuja/1169054",
+   "https://kalpa.fi/fi-fi/article/uutiset/liigan-otteluohjelma-kaudelle-20262027-on-julkaistu/7637/",
+   "https://www.jypliiga.fi/ottelut/"
+  ]
+ },
+ {
+  "eid": "sr:match:72117488",
+  "fx": "Iisalmen Peli-Karhut v Rovaniemen Kiekko",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Mestis. IPK 6-4 last 10 but 2-3 at home; RoKi 4.2 GF (incl. an 11-2).",
+  "news": "No news found for 28.11.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All; no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://yle.fi/a/74-20147213",
+   "https://en.wikipedia.org/wiki/Iisalmen_Peli-Karhut"
+  ]
+ },
+ {
+  "eid": "sr:match:72119084",
+  "fx": "HC Dynamo Pardubice B v HC Zubr Prerov",
+  "sport": "ice hockey",
+  "absences": "Pardubice B is the Extraliga club's farm side; roster depends on call-downs",
+  "context": "Pardubice B ran second early-season; Prerov 1-4 away.",
+  "news": "No team news; one garbled club page lists 'Jihlava / Pardubice B' at 17:00 on 28.11, probably a merge of two fixtures.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides on a farm/reserve team (roster varies).",
+  "confidence": 0.1,
+  "sources": [
+   "https://hc-slavia.cz/zapasy.asp",
+   "https://www.hokej.cz/chance-liga-zive-rozjete-litomerice-hosti-vsetin-lidr-hraje-s-trebici/5076763",
+   "https://www.hclitomerice.cz/standings",
+   "https://hokej.hcf-m.cz/tabulka.asp",
+   "https://isport.blesk.cz/clanek/hokej-domaci-souteze-maxa-liga/481096/zlin-porazil-chomutov-slavia-se-dal-trapi-litomerice-prikovaly-sokolov-k-poslednimu-mistu.html",
+   "https://www.hclitomerice.cz/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72119088",
+  "fx": "HC Stadion Litomerice v HC Banik Sokolov",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Litomerice 3rd ('rozjete' Litomerice in form); Sokolov 14th = last place ('Litomerice nailed Sokolov to last place'). Sokolov 0-5 away, 0.8 GF and 4.2 GA away.",
+  "news": "Standings confirm the gap: Litomerice 3rd, Sokolov bottom.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7623279109,
+    "why": "3rd v last; Sokolov 0-5 away scoring 0.8 per game; Litomerice beat Sokolov in the earlier round. Own p 0.79."
+   },
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.34,
+    "p": 0.709706,
+    "why": "Sokolov concede 4.2 away; Litomerice 3.6 GF last 10. Own p 0.74."
+   }
+  ],
+  "avoid": "Sokolov team Under 2.5 (p 0.69 < 0.82 Under gate).",
+  "confidence": 0.3,
+  "sources": [
+   "https://hc-slavia.cz/zapasy.asp",
+   "https://www.hokej.cz/chance-liga-zive-rozjete-litomerice-hosti-vsetin-lidr-hraje-s-trebici/5076763",
+   "https://www.hclitomerice.cz/standings",
+   "https://hokej.hcf-m.cz/tabulka.asp",
+   "https://isport.blesk.cz/clanek/hokej-domaci-souteze-maxa-liga/481096/zlin-porazil-chomutov-slavia-se-dal-trapi-litomerice-prikovaly-sokolov-k-poslednimu-mistu.html",
+   "https://www.hclitomerice.cz/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72119090",
+  "fx": "HC Dukla Jihlava v HC Frydek Mistek",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Jihlava 5th, 4-1 at home; Frydek-Mistek 6-4 last 10 (4-2 away) - credible opponent.",
+  "news": "A garbled Litomerice club page lists a Jihlava v Pardubice B at 17:00 on 28.11; unconfirmed, likely text merge. Board: Jihlava v Frydek 16:30 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home ML at 1.31 v a credible away side; minor data conflict on fixture pairing.",
+  "confidence": 0.15,
+  "sources": [
+   "https://hc-slavia.cz/zapasy.asp",
+   "https://www.hokej.cz/chance-liga-zive-rozjete-litomerice-hosti-vsetin-lidr-hraje-s-trebici/5076763",
+   "https://www.hclitomerice.cz/standings",
+   "https://hokej.hcf-m.cz/tabulka.asp",
+   "https://isport.blesk.cz/clanek/hokej-domaci-souteze-maxa-liga/481096/zlin-porazil-chomutov-slavia-se-dal-trapi-litomerice-prikovaly-sokolov-k-poslednimu-mistu.html",
+   "https://www.hclitomerice.cz/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72730882",
+  "fx": "Guildford Flames v Belfast Giants",
+  "sport": "ice hockey",
+  "absences": "Guildford: F Chase Gresock (undisclosed injury, undated listing)",
+  "context": "Guildford 8th, 1-9 last 10, 4.5 GA (4.2 at home). Belfast 6-4 last 10, 4.1 GF; won both recent H2H (4-2, 5-3).",
+  "news": "Schedule confirms Guildford v Belfast Sat 28.11.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.703294,
+    "why": "Guildford concede 4.5 (1-9 run); Belfast scored 4+ in both H2H and average 4.1. Own p 0.75."
+   }
+  ],
+  "avoid": "Belfast ML (away p 0.72 < 0.75 rule).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eliteleague.co.uk/schedule",
+   "https://www.eliteprospects.com/league/eihl",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EIHL_season"
+  ]
+ },
+ {
+  "eid": "sr:match:72730888",
+  "fx": "Cardiff Devils v Glasgow Clan",
+  "sport": "ice hockey",
+  "absences": "Cardiff: D Evan Mosey (knee, out until late Dec); Glasgow: D Miihkali Teppo (long-term)",
+  "context": "Cardiff were 1st in an earlier table snapshot. Glasgow were 9th (8 pts from 12) in that snapshot, but Sportradar has them 7-3 in their last 10 with 1.6 GA: data conflict on Glasgow's form.",
+  "news": "Schedule confirms Cardiff v Glasgow Sat 28.11.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Regulation 1X2 home at 1.25/p 0.755 looks thin/phantom versus Glasgow's 7-3 form.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eliteleague.co.uk/schedule",
+   "https://www.eliteprospects.com/league/eihl",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EIHL_season"
+  ]
+ },
+ {
+  "eid": "sr:match:72730886",
+  "fx": "Coventry Blaze v Fife Flyers",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Coventry 2nd (18 pts from 14), 4-1 at home with 3.8 GF; Fife 7th (13 pts). Home-and-away back-to-back: return game at Fife on Sun 29.11. Cash for Kids charity night.",
+  "news": "Coventry site and Fife site confirm Sat 28.11 19:00 at the Skydome (Blaze TV homepage shows 11:00, an apparent error; most sources say 19:00).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.81578,
+    "why": "2nd v 7th, Coventry 4-1 at home (3.8 GF). Own p 0.81 (house 0.816, no edge, short)."
+   }
+  ],
+  "avoid": "Coventry -2.5 handicap; Fife 2-1 last home win was v Manchester.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eliteleague.co.uk/schedule",
+   "https://www.eliteprospects.com/league/eihl",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EIHL_season",
+   "https://coventryblaze.co.uk/fixtures/",
+   "https://fifeflyers.co.uk/"
+  ]
+ }
+]

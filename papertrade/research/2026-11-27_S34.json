@@ -1,0 +1,567 @@
+[
+ {
+  "eid": "sr:match:72505322",
+  "fx": "CD Basconia v Sestao River Club",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Biscay derby; Sestao 8W2D0L last 10, recently beat Amorebieta 3-1 in another derby (Nov 22).",
+  "news": "Flashscore lists Basconia v Sestao River on 02.12, not 28.11 -> date conflict with board.",
+  "veto": true,
+  "veto_reason": "date conflict (Flashscore 02.12 vs board 11-28 11:00) and derby",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.es/equipo/sestao-river/8ANKKxdT/",
+   "https://www.deia.eus/futbol/2026/11/22/river-ofrece-dudas-derbi-11784663.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72885902",
+  "fx": "Penya Arrabal v Torrent CF U19",
+  "sport": "football",
+  "absences": "not researched (youth)",
+  "context": "U19 Division de Honor Juvenil - youth fixture; only date/venue checked.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth: no result-sides; only 8 markets on board",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil"
+  ]
+ },
+ {
+  "eid": "sr:match:72506852",
+  "fx": "CD Ebro v Espanyol Barcelona B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Espanyol B reserve side; mid-table.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve fixture: no result-sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.resultadosrfef.es/segunda-rfef"
+  ]
+ },
+ {
+  "eid": "sr:match:73760264",
+  "fx": "CF Calamocha v UE Olot",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Calamocha near bottom, 0W in last 10 and 0.2 goals/game; lost 2-0 at Utebo. Olot upper half, won 1-2 at Reus last time. Jumaya stadium, Sat 28 Nov, 16:00 local (=15:00 UTC) per Aragon Play listing; other aggregator times are time-zone variants.",
+  "news": "Fixture/venue confirmed by ticketing (Jumaya, 28 Nov); Calamocha toothless, Olot in form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.7468,
+    "why": "Calamocha scored 2 goals in last 10 (0 wins); Olot upper half and won at Reus. DNB removes the draw. Own p 0.77."
+   }
+  ],
+  "avoid": "Under 2.5 (p 0.61 < 0.82); Olot 1X2 away (p 0.54 < 0.75)",
+  "confidence": 0.3,
+  "sources": [
+   "https://compralaentrada.com/cf-calamocha",
+   "https://www.telefootball.net/US/CF-Calamocha-UE-Olot-2026-11-28-684538.html",
+   "https://www.sofascore.com/football/team/ue-olot/115059"
+  ]
+ },
+ {
+  "eid": "sr:match:73760352",
+  "fx": "Real Murcia Imperial FC v CD Castellon B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Both reserve sides (Real Murcia Imperial v Castellon B). Imperial lost 3-0 at Atletico Baleares in J12.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve v reserve: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/segunda-federacion-grupo-3/3059/jornada/13"
+  ]
+ },
+ {
+  "eid": "sr:match:72505334",
+  "fx": "SD Amorebieta v UD Llanera",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Amorebieta 8th (17 pts) after losing 3-1 at Sestao (Nov 22); Llanera 14th (10 pts), 0W1D3L away, conceding 2.5/away game. Club site: Sat 28/11 16:00 local (=15:00 UTC) at Urritxe; one listing wrongly names Las Llanas (minor).",
+  "news": "Amorebieta host struggling-away Llanera at Urritxe.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.7262,
+    "why": "Llanera 0 away wins, 2.5 GA away; Amorebieta 3W1D2L at home and 0.83 GA. Own p 0.74."
+   }
+  ],
+  "avoid": "Over 2.5 (Amorebieta games low-scoring 1.1/1.1)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sdamorebieta.eus/es/"
+  ]
+ },
+ {
+  "eid": "sr:match:72505328",
+  "fx": "SD Eibar B v Club Marino de Luanco",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Eibar B (reserve) 22 pts, top 4; Luanco 1W in 10, 0.6 gf.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve fixture: no result-sides; Under p < 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.telefootball.net/US/Arnedo-Reus--2026-11-28-687134.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72509516",
+  "fx": "SDA Tordesillas v Getafe CF B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Getafe B reserve side.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve fixture: no result-sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.resultadosrfef.es/segunda-rfef"
+  ]
+ },
+ {
+  "eid": "sr:match:72882654",
+  "fx": "CD Roces Youth v Racing de Santander",
+  "sport": "football",
+  "absences": "not researched (youth)",
+  "context": "U19 Division de Honor Juvenil - youth fixture; only date/venue checked.",
+  "news": "no news found (RFEF lists Racing 2-1 Compostela and Real Aviles Ind. 0-2 Roces on Nov 21-22, consistent with form)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth: no result-sides; only 8 markets on board",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil"
+  ]
+ },
+ {
+  "eid": "sr:match:72884896",
+  "fx": "AD Union Adarve v Merida",
+  "sport": "football",
+  "absences": "not researched (youth)",
+  "context": "U19 Division de Honor Juvenil - youth fixture; only date/venue checked.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth: no result-sides; only 8 markets on board",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil"
+  ]
+ },
+ {
+  "eid": "sr:match:72883782",
+  "fx": "CF Damm v CE Sabadell FC",
+  "sport": "football",
+  "absences": "not researched (youth)",
+  "context": "U19 Division de Honor Juvenil - youth fixture; only date/venue checked.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth: no result-sides; only 8 markets on board",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/es/competiciones/division-de-honor-juvenil"
+  ]
+ },
+ {
+  "eid": "sr:match:72505320",
+  "fx": "Arosa SC v Real Oviedo Vetusta",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Oviedo Vetusta reserve side.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve fixture",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.resultadosrfef.es/segunda-rfef"
+  ]
+ },
+ {
+  "eid": "sr:match:73493054",
+  "fx": "Atletico Astorga FC v Deportivo Alaves B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Astorga 8 pts in 12, 2 pts in last 6 (last win Oct 3 v Ourense); Alaves B 2nd with 24 pts. Local press: Sat 17:00 local at La Eragudina (=16:00 UTC, matches board).",
+  "news": "FotMob/club fixture page list Sun 29 Nov (12:00/16:00) vs press Sat 17:00 -> date conflict.",
+  "veto": true,
+  "veto_reason": "date conflict between sources (Sat 28 vs Sun 29); reserve away side",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.diariodeleon.es/deportes/261127/2104475/reto-exigente-vital-atletico-astorga-eragudina-alaves-b.html",
+   "https://www.fotmob.com/teams/189696/fixtures/atletico-astorga",
+   "https://www.futbolasturiano.es/evento/atletico-astorga-fc-dep-alaves-b/"
+  ]
+ },
+ {
+  "eid": "sr:match:72509506",
+  "fx": "Calvo Sotelo Puertollano v Atletico Madrid C",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Atletico Madrid C reserve; Puertollano drew 2-2 with Salamanca in J12.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve fixture",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lagacetadesalamanca.es/deportes/futbol-local/salamancauds/queda-clasificacion-grupo-segunda-federacion-tras-jornada-20261122233757-nt.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72506848",
+  "fx": "CD Arnedo v Reus FC Reddis",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Arnedo 1W in last 10; Reus lost 1-2 at home to Olot last round.",
+  "news": "no news found (no preview located)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.19,
+    "p": 0.7847,
+    "why": "Arnedo 1 win in 10, 1.9 GA; Reus 3W1D1L away. Stats-only fill, no named mechanism. Own p 0.77."
+   }
+  ],
+  "avoid": "Reus 1X2 (p 0.53)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.telefootball.net/US/Arnedo-Reus--2026-11-28-687134.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72505326",
+  "fx": "Coruxo FC v RS Gimnastica de Torrelavega",
+  "sport": "football",
+  "absences": "Torrelavega: Alvaro Santamaria (injured), Dani Gomez (recovering), Saul Garcia and Alberto Gomez (suspended, last game of ban).",
+  "context": "Coruxo won last two (Marino Luanco, Llanera); Torrelavega won v Portugalete, 0W2D3L away. O Vao, Sat 17:00 local (=16:00 UTC, matches). Referee Morato.",
+  "news": "Torrelavega travel without 4 incl. two suspended; Coruxo on 2-game win run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.5,
+    "p": 0.6132,
+    "why": "Named absences: Santamaria, Dani Gomez, Saul Garcia, Alberto Gomez out for Torrelavega; visitors 0 away wins in 5. But Coruxo home form 1W1D3L in Sportradar. Own p 0.62."
+   }
+  ],
+  "avoid": "Over 2.5 (low-scoring both sides)",
+  "confidence": 0.3,
+  "sources": [
+   "https://eldiariocantabria.publico.es/deportes/gimnastica-viaja-vigo-mira-puesta-recortar-distancias-coruxo/20261127120512202162.html",
+   "https://cantabrialdia.com/la-gimnastica-recortar-distancias-ante-el-coruxo/",
+   "https://minutonoventa.com/coruxo-gimnastica-de-torrelavega-horario-como-y-donde-ver-el-partido-de-este-sabado/"
+  ]
+ },
+ {
+  "eid": "sr:match:72505332",
+  "fx": "Ourense CF v SD Gernika Club",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Ourense 17 pts mid-table; Gernika 4 away draws.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: near coin-flip, Under p < 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.telefootball.net/US/Arnedo-Reus--2026-11-28-687134.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72509508",
+  "fx": "RSD Alcala SAD v Real Avila CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Real Avila weak (0 away points in 4, 0.25 gf away); Alcala 0W4L at home.",
+  "news": "Siguetuliga/RFEF calendar snapshot lists Alcala v Real Avila on Sunday 29 Nov vs board Sat 28 16:00 -> date conflict.",
+  "veto": true,
+  "veto_reason": "date conflict (Sun 29 vs board Sat 28)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_v.pdf",
+   "https://www.siguetuliga.com/equipo/ud-sanse"
+  ]
+ },
+ {
+  "eid": "sr:match:72505324",
+  "fx": "SD Compostela v Bergantinos FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Galician local rivalry; Bergantinos early-season leader per one snapshot.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby-ish, no clear edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.siguetuliga.com/liga/nacional-segunda-division-b-segunda-federacion---grupo-1-temporada-25-26"
+  ]
+ },
+ {
+  "eid": "sr:match:72509514",
+  "fx": "UD San Sebastian Reyes v CDA Navalcarnero",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Sanse unbeaten at home this season, won 1-2 at Atletico Madrid C last round; Navalcarnero lost 1-3 to Segoviana. Matapinonera, Sat 17:00 local (=16:00 UTC, matches).",
+  "news": "Sanse in form and unbeaten at home; Navalcarnero coming off a 3-1 defeat.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7502,
+    "why": "Sanse unbeaten at home (3W1D1L last 5 home in SR, 0.8 GA) and won away at Atleti C; Navalcarnero conceding 2.2/game. Own p 0.77."
+   }
+  ],
+  "avoid": "Under 2.5 (Navalcarnero games 2.2+2.2)",
+  "confidence": 0.3,
+  "sources": [
+   "https://vivirediciones.es/navalcarnero-sanse-28-noviembre/",
+   "https://www.lamiradanorte.com/el-sanse-da-un-golpe-de-autoridad-en-el-cerro-del-espino-y-vence-al-atletico-de-madrid"
+  ]
+ },
+ {
+  "eid": "sr:match:72506854",
+  "fx": "FC Barcelona Atletic v Terrassa FC",
+  "sport": "football",
+  "absences": "Barca Atletic: internationals Urena and Shane Kluivert rejoin (club post, may be older).",
+  "context": "Reserve side v Terrassa (fighting for top spot). Club agenda: Sat 28 Nov 17:30 local (=16:30 UTC, matches).",
+  "news": "Terrassa play for the lead at the Johan Cruyff.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve fixture: no result-sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fcbarcelona.es/es/club/agenda",
+   "https://canalterrassa.cat/el-terrassa-es-juga-el-liderat-al-johan-cruyff/"
+  ]
+ },
+ {
+  "eid": "sr:match:73492986",
+  "fx": "Real Madrid C v Salamanca CF UDS",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Real Madrid C (12 pts) reserve v Salamanca (21 pts, playoff zone; drew 2-2 v Puertollano). La Gaceta: Sat 17:30 at Valdebebas (=16:30 UTC).",
+  "news": "FotMob lists Sun 29 16:00 vs La Gaceta Sat 17:30 -> date conflict.",
+  "veto": true,
+  "veto_reason": "date conflict between sources; reserve home side",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lagacetadesalamanca.es/deportes/futbol-local/salamancauds/real-madrid-csalamanca-horario-seguir-directo-partido-20261126132200-nt.html",
+   "https://www.fotmob.com/teams/490334/fixtures/salamanca-cf-uds,teams"
+  ]
+ },
+ {
+  "eid": "sr:match:72507616",
+  "fx": "UD Poblense v RCD Mallorca B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mallorcan derby, Mallorca B reserve.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby + reserve",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.resultadosrfef.es/segunda-rfef"
+  ]
+ },
+ {
+  "eid": "sr:match:72507620",
+  "fx": "Yeclano Deportivo v CD Cieza",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Murcian regional derby.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby, no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.resultadosrfef.es/segunda-rfef"
+  ]
+ },
+ {
+  "eid": "sr:match:72507606",
+  "fx": "CD Atletico Baleares v Orihuela CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "At. Baleares 6th on two straight wins; Orihuela 14th (14 pts), lost 1-0 at La Nucia, 0.7 gf. Estadi Balear Sat 18:00 local (=17:00 UTC, matches).",
+  "news": "Baleares in form at home v low-scoring Orihuela.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.7281,
+    "why": "Baleares two straight wins (3-0 v Imperial), Orihuela 14th with 0.7 goals/game and 1W in 10. DNB covers Orihuela draw habit (5D in 10). Own p 0.75."
+   }
+  ],
+  "avoid": "Under 2.5 (p 0.50)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.ultimahora.es/deportes/atletico-baleares/2026/11/27/2758909/atletico-baleares-pone-prueba-racha.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72509504",
+  "fx": "CD Numancia v Atletico Albacete",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Numancia group leader; Copa del Rey v Athletic Club on Tuesday (Dec 1) - coach Lolo Escobar prioritises a full ground for this game. Atletico Albacete (reserve) 14th, 13 pts, relegation zone, weak away (0W in 5, 2.8 GA away). Sat 18:00 local Los Pajaritos (=17:00 UTC, matches).",
+  "news": "Leader v relegation-zone reserve side; Copa tie v Athletic Tuesday (mild rotation risk).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.83,
+    "p": 0.501,
+    "why": "Goals market only (reserve opponent). Numancia 3.2 gf at home (6-0, 7-5, 2-3), Albacete B concede 2.8 away; mismatch. Own p 0.56."
+   }
+  ],
+  "avoid": "Numancia result-sides (reserve fixture, Copa rotation); multigoals",
+  "confidence": 0.25,
+  "sources": [
+   "https://sorianoticias.com/noticia/2026-11-26-conoce-al-proximo-rival-del-numancia-en-segunda-rfef-atletico-albacete-139302",
+   "https://elmirondesoria.es/deportes/c-d-numancia/lolo-escobar-prefiero-ver-el-campo-lleno-manana-que-el-martes-ante-del-athletic",
+   "https://sorianoticias.com/noticia/2026-11-27-consulta-los-horarios-de-los-partidos-de-los-principales-equipos-de-soria-de-este-fin-de-semana-139401"
+  ]
+ },
+ {
+  "eid": "sr:match:72507612",
+  "fx": "CF La Nucia v UCAM Murcia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "La Nucia beat Orihuela 1-0 last round; UCAM 4W1D0L away, 0.4 GA away.",
+  "news": "no news found (fixture listed 28 Nov)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.25,
+    "p": 0.7401,
+    "why": "UCAM unbeaten away (4W1D), 0.4 GA away; La Nucia 1W in 4 at home. Stats-only fill. Own p 0.75."
+   }
+  ],
+  "avoid": "UCAM 1X2 away (p 0.45 < 0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.besoccer.com/team/matches/ucam-murcia-c-f"
+  ]
+ },
+ {
+  "eid": "sr:match:72509512",
+  "fx": "Gimnastica Segoviana CF v CF Talavera de La Reina",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Segoviana won 3-1 at Navalcarnero; Talavera 7W in last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_v.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72505330",
+  "fx": "Club Portugalete v Rayo Cantabria",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Rayo Cantabria reserve; Portugalete lost to Torrelavega last round.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve fixture: no result-sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://eldiariocantabria.publico.es/deportes/gimnastica-viaja-vigo-mira-puesta-recortar-distancias-coruxo/20261127120512202162.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72506858",
+  "fx": "Pena Sport FC v CA Osasuna B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Osasuna B reserve.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve fixture",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.resultadosrfef.es/segunda-rfef"
+  ]
+ }
+]
