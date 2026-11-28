@@ -1,0 +1,628 @@
+[
+ {
+  "eid": "sr:match:76045182",
+  "fx": "Bucheon FC 1995 v Gimcheon Sangmu FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "K1 Final B R37, Bucheon's last home game. Bucheon survival confirmed (2-2 v Pohang, Nov 8); Gimcheon Sangmu relegated administratively (relocation) whatever the finish. Nothing at stake for either side.",
+  "news": "Dead rubber: Bucheon safe, Gimcheon relegated by rule; Bucheon winless in ~10, 16:30 KST kickoff matches board.",
+  "veto": true,
+  "veto_reason": "dead rubber for both sides (R3)",
+  "picks": [],
+  "avoid": "all result-sides and totals: dead rubber, motivation unknown",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.newspim.com/news/view/20261108000148",
+   "https://www.efocus.co.kr/news/articleView.html?idxno=57655",
+   "https://www.maxportsnews.com/news/articleView.html?idxno=9573",
+   "https://www.koreatimes.co.kr/sports/20261022/champion-last-place-team-set-to-be-determined-on-same-weekend-in-k-league-football",
+   "https://www.fotmob.com/teams/133901/overview/gimcheon-sangmu"
+  ]
+ },
+ {
+  "eid": "sr:match:76045180",
+  "fx": "FC Pohang Steelers v Gwangju FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "K1 Final B R37. Gwangju locked in last place and go to the home-and-away relegation play-off v the K2 PO winner (early Dec): rotation risk before the play-off. Pohang safe, nothing to play for. Pohang's next listed match is v Gimcheon Dec 5 (R38), consistent with this R37 date.",
+  "news": "Gwangju confirmed bottom, headed to relegation play-off; Pohang safe; dead rubber with rotation risk.",
+  "veto": true,
+  "veto_reason": "dead rubber + Gwangju rotation before relegation play-off (R3)",
+  "picks": [],
+  "avoid": "result-sides; Pohang home form 0W in 10",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.newspim.com/news/view/20261108000148",
+   "https://www.efocus.co.kr/news/articleView.html?idxno=57655",
+   "https://www.maxportsnews.com/news/articleView.html?idxno=9573",
+   "https://www.koreatimes.co.kr/sports/20261022/champion-last-place-team-set-to-be-determined-on-same-weekend-in-k-league-football",
+   "https://www.fotmob.com/teams/133901/overview/gimcheon-sangmu"
+  ]
+ },
+ {
+  "eid": "sr:match:73086774",
+  "fx": "AFC Metalul Buzau v ACS FC Bacau",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Romania Liga 2 round 15, 11:00 local (09:00 UTC) per LPF schedule. Metalul strong at home (4-0-1).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "thin league: no Unders, no O1.5 (Romania L2 class); Bacau away form 1-2-2 too thin for an edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://lpf2.ro/liga2/html/etape/Etapa-15/",
+   "https://golazo.ro/liga-2-live-etapa-15-193174",
+   "https://liga2.prosport.ro/liga-2-clasament",
+   "https://www.sportarad.ro/2026/11/26/liga-a-ii-a-etapa-a-15-a-bistrita-ii-rapeste-slatinei-bucuria-de-a-urca-pe-primul-loc/"
+  ]
+ },
+ {
+  "eid": "sr:match:73086780",
+  "fx": "AFC Unirea 04 Slobozia v SC Popesti Leordeni",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Romania Liga 2 R15, 11:00 local. Opponent named Gloria/SC Popesti-Leordeni across sources (same club). Even match.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip 1X2; thin league totals",
+  "confidence": 0.1,
+  "sources": [
+   "https://lpf2.ro/liga2/html/etape/Etapa-15/",
+   "https://golazo.ro/liga-2-live-etapa-15-193174",
+   "https://liga2.prosport.ro/liga-2-clasament",
+   "https://www.sportarad.ro/2026/11/26/liga-a-ii-a-etapa-a-15-a-bistrita-ii-rapeste-slatinei-bucuria-de-a-urca-pe-primul-loc/"
+  ]
+ },
+ {
+  "eid": "sr:match:73323816",
+  "fx": "Asa Targu Mures v Csm Satu Mare",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Romania Liga 2 R15. Targu Mures 2-1-7 last 10 yet priced 1.80 favourite; Satu Mare 1-4-5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "home favourite priced off poor form (2W in 10): skip",
+  "confidence": 0.1,
+  "sources": [
+   "https://lpf2.ro/liga2/html/etape/Etapa-15/",
+   "https://golazo.ro/liga-2-live-etapa-15-193174",
+   "https://liga2.prosport.ro/liga-2-clasament",
+   "https://www.sportarad.ro/2026/11/26/liga-a-ii-a-etapa-a-15-a-bistrita-ii-rapeste-slatinei-bucuria-de-a-urca-pe-primul-loc/"
+  ]
+ },
+ {
+  "eid": "sr:match:73086768",
+  "fx": "CS Afumati v ACSM Resita",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Romania Liga 2 R15. Resita away favourite 1.84 (p 0.50) < 0.75 away threshold.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "away 1X2 below 0.75; low-scoring Resita",
+  "confidence": 0.1,
+  "sources": [
+   "https://lpf2.ro/liga2/html/etape/Etapa-15/",
+   "https://golazo.ro/liga-2-live-etapa-15-193174",
+   "https://liga2.prosport.ro/liga-2-clasament",
+   "https://www.sportarad.ro/2026/11/26/liga-a-ii-a-etapa-a-15-a-bistrita-ii-rapeste-slatinei-bucuria-de-a-urca-pe-primul-loc/"
+  ]
+ },
+ {
+  "eid": "sr:match:73086776",
+  "fx": "CS Concordia Chiajna v Csl Stefanestii de Jos",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Romania Liga 2 R15. ProSport table after 14 rounds: Concordia 5th, 28 pts, 35-20 goals; Stefanestii 20th, 9 pts (3-0-11), 9-31 goals. Clear mismatch.",
+  "news": "Clear mismatch by table: Concordia scoring 2.5/game v a side conceding 2.2/game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.29,
+    "p": 0.7352300277,
+    "why": "Mechanism: Concordia 35 GF in 14 (5-0 twice at home in last 6) v Stefanestii 31 GA in 14 and 0.6 GF/game; most of the total comes from the favourite alone. Own p 0.76."
+   }
+  ],
+  "avoid": "home 1X2 1.11 too short; -2.5 handicap too thin",
+  "confidence": 0.25,
+  "sources": [
+   "https://lpf2.ro/liga2/html/etape/Etapa-15/",
+   "https://golazo.ro/liga-2-live-etapa-15-193174",
+   "https://liga2.prosport.ro/liga-2-clasament",
+   "https://www.sportarad.ro/2026/11/26/liga-a-ii-a-etapa-a-15-a-bistrita-ii-rapeste-slatinei-bucuria-de-a-urca-pe-primul-loc/",
+   "https://www.sofascore.com/football/match/csl-stefanestii-de-jos-concordia-chiajna/PVjsujld"
+  ]
+ },
+ {
+  "eid": "sr:match:73086784",
+  "fx": "CS Dinamo Bucuresti v CSC Dumbravita",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Romania Liga 2 R15. Both sides in poor form (Dinamo 1-2-7, Dumbravita 1-1-8, 0-0-5 away).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "both defensive records poor but thin league; no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://lpf2.ro/liga2/html/etape/Etapa-15/",
+   "https://golazo.ro/liga-2-live-etapa-15-193174",
+   "https://liga2.prosport.ro/liga-2-clasament",
+   "https://www.sportarad.ro/2026/11/26/liga-a-ii-a-etapa-a-15-a-bistrita-ii-rapeste-slatinei-bucuria-de-a-urca-pe-primul-loc/"
+  ]
+ },
+ {
+  "eid": "sr:match:73086778",
+  "fx": "CSC 1599 Selimbar v Csa Steaua Bucuresti",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Romania Liga 2 R15, Selimbar at home to CSA Steaua 11:00 local (LPF official calendar). Selimbar 1-1-8, 0.3 GF/game.",
+  "news": "Fixture confirmed on LPF calendar 28 Nov 11:00 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Steaua away 1X2 p 0.47 < 0.75; no Unders in thin league",
+  "confidence": 0.15,
+  "sources": [
+   "https://lpf2.ro/liga2/html/etape/Etapa-15/",
+   "https://golazo.ro/liga-2-live-etapa-15-193174",
+   "https://liga2.prosport.ro/liga-2-clasament",
+   "https://www.sportarad.ro/2026/11/26/liga-a-ii-a-etapa-a-15-a-bistrita-ii-rapeste-slatinei-bucuria-de-a-urca-pe-primul-loc/"
+  ]
+ },
+ {
+  "eid": "sr:match:73374584",
+  "fx": "AL Wakrah SC v Al Sadd SC",
+  "sport": "football",
+  "absences": "Al Sadd reported no injuries before the AFC fixture at Al-Nassr (Nov 24)",
+  "context": "QSL week 11, 16:00 Doha (13:00 UTC) at Saoud Bin Abdulrahman Stadium. Al Sadd top on goal difference (21 pts, level with Al Duhail) after 3-2 v Lusail. Al Sadd played in Riyadh Nov 24 (4 days): congestion/rotation risk on the result. Wakrah coach Jose Luis Sierra.",
+  "news": "Al Sadd top on GD after 3-2 v Lusail; played AFC away Nov 24; Wakrah games high-scoring.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.28,
+    "p": 0.749738,
+    "why": "Mechanism: Wakrah last 6 totals 5,3,4,5,3,5 and Sadd 3,5,7,0,5,2; Wakrah concede 1.9/game and Sadd's attack carries the total even with rotation. Own p 0.77."
+   }
+  ],
+  "avoid": "Al Sadd 1X2 (rotation after AFC trip); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://qsl.qa/en/al-wakrah",
+   "https://thepeninsulaqatar.com/article/21/11/2026/al-sadd-seize-qsl-top-spot-as-al-duhail-stumble",
+   "https://onefootball.com/en/betting/predictions/al-nassr-vs-al-sadd-24-11-2026",
+   "https://www.soccerstats.com/en-gb/leagues/qatar/stars-league/qatar"
+  ]
+ },
+ {
+  "eid": "sr:match:73207874",
+  "fx": "Os Marialvas v Ass Naval 1º de Maio",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Campeonato de Portugal Serie 3 R9. Os Marialvas lead the series (16 pts at last table). Amateur 4th tier.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur tier: no result-side edge, no Unders/O1.5",
+  "confidence": 0.1,
+  "sources": [
+   "https://sapo.pt/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada-6af0d014013ef6a6906c78e8",
+   "https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/58896"
+  ]
+ },
+ {
+  "eid": "sr:match:73208338",
+  "fx": "Real SC Queluz v Sintrense",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Campeonato de Portugal Serie 4 R9. Real SC (Queluz/Massama; listed by SAPO as Real Massama) v leaders Sintrense (17 pts). Naming differs between sources but same club, same fixture.",
+  "news": "Real SC (Queluz/Massama; listed by SAPO as Real Massama) v leaders Sintrense (17 pts). Naming differs between sources but same club, same fi",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur tier; Sintrense away 1X2 p 0.44",
+  "confidence": 0.1,
+  "sources": [
+   "https://sapo.pt/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada-6af0d014013ef6a6906c78e8",
+   "https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/58896",
+   "https://www.sporttv.pt/jogos/competicao/mg:competition:lowq8h25kmw4/la-liga"
+  ]
+ },
+ {
+  "eid": "sr:match:73207476",
+  "fx": "SC Beira Mar v SC Salgueiros",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Campeonato de Portugal Serie 2 R9, 15:00 at Aveiro (Terra Nova, Sofascore agree). Beira-Mar 7 draws in last 10.",
+  "news": "Beira-Mar 7 draws in last 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur tier; draw-heavy Beira-Mar",
+  "confidence": 0.1,
+  "sources": [
+   "https://terranova.pt/noticias/desporto/campeonato-de-portugal-beira-mar-recebe-salgueiros-em-jogo-marcado-para-este",
+   "https://www.sofascore.com/football/match/sport-comercio-e-salgueiros-sc-beira-mar/WjbsXjb",
+   "https://sapo.pt/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada-6af0d014013ef6a6906c78e8",
+   "https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/58896"
+  ]
+ },
+ {
+  "eid": "sr:match:73206922",
+  "fx": "SC Braga B v Rebordosa AC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Campeonato de Portugal Serie 1 R9. Braga B is a RESERVE side: no result-side picks; not a clear goals mismatch.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side: no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://sapo.pt/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada-6af0d014013ef6a6906c78e8",
+   "https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/58896"
+  ]
+ },
+ {
+  "eid": "sr:match:73207882",
+  "fx": "Sertanense FC v AD Fazendense",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Campeonato de Portugal Serie 3 R9 at Serta. Both still seeking first win of the season; Fazendense bottom with 1 point. Sertanense 0W in last 10 yet priced 1.44.",
+  "news": "Both still seeking first win of the season; Fazendense bottom with 1 point. Sertanense 0W in last 10 yet priced 1.44.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "home favourite with zero wins: skip; amateur tier",
+  "confidence": 0.1,
+  "sources": [
+   "https://sapo.pt/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada-6af0d014013ef6a6906c78e8",
+   "https://www.fpf.pt/pt/News/Todas-as-not%C3%ADcias/Not%C3%ADcia/news/58896"
+  ]
+ },
+ {
+  "eid": "sr:match:73208342",
+  "fx": "Vitoria Setubal v Alcochetense",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Campeonato de Portugal Serie 4 R9, Estadio do Bonfim 15:00 local (club, O Setubalense). Alcochetense on 3 straight wins and above Vitoria (14 v 9 pts). Setubal-district derby.",
+  "news": "Alcochetense on 3 straight wins and above Vitoria (14 v 9 pts). Setubal-district derby.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "local derby: no result-side",
+  "confidence": 0.1,
+  "sources": [
+   "https://osetubalense.com/desporto/vitoria-enfrenta-alcochetense-sabado-no-estadio-do-bonfim",
+   "https://www.ojogo.pt/futebol/artigo/campeonato-de-portugal-resultados-classificacao-e-proxima-jornada/18146035"
+  ]
+ },
+ {
+  "eid": "sr:match:72939070",
+  "fx": "Varzim SC v CD Trofense",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Serie A R10. Trofense last on 5 pts, Varzim 9 pts; Varzim won the reverse fixture at Trofa. Telefootball 10:00 is US-Eastern = 15:00 UTC (no conflict).",
+  "news": "Trofense bottom (5 pts), lost reverse fixture to Varzim.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.724205,
+    "why": "DNB home. Mechanism: bottom side Trofense 0-2-4 away (2.8 GA/game), Varzim won reverse fixture; DNB covers the draw. Own p 0.75."
+   }
+  ],
+  "avoid": "Varzim 1X2 (home form 3-0-3)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/liga-3-resultados-classificacao-e-proxima-jornada/18145854",
+   "https://www.telefootball.net/US/Varzim-Trofense-2026-11-28-684336.html",
+   "https://tamega.tv/2026/07/21/ad-marco-09-estreia-se-em-casa-frente-ao-pacos-de-ferreira-na-liga-3/"
+  ]
+ },
+ {
+  "eid": "sr:match:72531020",
+  "fx": "FC Arouca v Rio Ave FC",
+  "sport": "football",
+  "absences": "Arouca: Puche injured. Rio Ave: Pedro Amaral, Abbey injured (Flashscore round-12 absence list; latest found, may be dated)",
+  "context": "Liga Portugal. Rio Ave poor away (1-0-4, 0.4 GF/game away); Arouca 3-0-1 at home, conceding 0.75.",
+  "news": "Arouca nearly full strength; Rio Ave missing Pedro Amaral and Abbey; Rio Ave scoring 0.4/game away.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.7527781195,
+    "why": "DNB home. Mechanism: Rio Ave 0.4 GF/game away (1W in 5 away), two defenders out; Arouca 3W in 4 at home. Own p 0.77."
+   }
+  ],
+  "avoid": "Unders (p < 0.82); Arouca -1",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ausencias-liga-portugal-fc-porto-e-sporting-quase-na-maxima-forca-para-uma-quase-final/UazTmRth/",
+   "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ausencias-liga-portugal-nacional-e-alverca-lideram-lista-de-baixas-em-ronda-de-duvidas/v5WQumg3/"
+  ]
+ },
+ {
+  "eid": "sr:match:72531028",
+  "fx": "Moreirense FC v Santa Clara Azores",
+  "sport": "football",
+  "absences": "Moreirense: Guilherme Liberato, Hernani Infande listed injured in earlier roundups; Santa Clara: Pedro Pacheco, Wendel Silva in earlier lists (not confirmed current)",
+  "context": "Liga Portugal. Close game; Santa Clara better away (3-1-1).",
+  "news": "no current news found; older absence lists only",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 1.61 (p 0.60 < 0.82); result-sides near 50/50",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ausencias-liga-portugal-fc-porto-e-sporting-quase-na-maxima-forca-para-uma-quase-final/UazTmRth/",
+   "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ausencias-liga-portugal-nacional-e-alverca-lideram-lista-de-baixas-em-ronda-de-duvidas/v5WQumg3/"
+  ]
+ },
+ {
+  "eid": "sr:match:73374590",
+  "fx": "Al Ahli Doha SC v Al Duhail SC",
+  "sport": "football",
+  "absences": "Al Duhail: Eissa Ahmad sent off (51') v Qatar SC last round, likely suspended",
+  "context": "QSL week 11. Al Duhail level on 21 pts with Al Sadd after a 2-1 loss to Qatar SC; need the win to stay in the title race. Al Duhail 7-2-1 last 10, 4-1-0 away.",
+  "news": "Al Duhail stumbled 2-1 at Qatar SC (Eissa Ahmad red card) and are level with leaders Al Sadd.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.762837,
+    "why": "DNB away (away 1X2 p 0.61 < 0.75, so DNB). Mechanism: Duhail 4-1-0 away, 2.6 GF/game away, title race motive after the Qatar SC loss. Own p 0.77."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.45,
+    "p": 0.658088,
+    "why": "Mechanism: Duhail last 6 totals 3,3,4,4,5,4 and Ahli 2,4,3,4,3,5; Duhail scoring 2.3/game. Own p 0.69."
+   }
+  ],
+  "avoid": "Al Duhail 1X2; Over 2 integer line (banned)",
+  "confidence": 0.25,
+  "sources": [
+   "https://qsl.qa/en/al-wakrah",
+   "https://thepeninsulaqatar.com/article/21/11/2026/al-sadd-seize-qsl-top-spot-as-al-duhail-stumble",
+   "https://onefootball.com/en/betting/predictions/al-nassr-vs-al-sadd-24-11-2026",
+   "https://www.soccerstats.com/en-gb/leagues/qatar/stars-league/qatar"
+  ]
+ },
+ {
+  "eid": "sr:match:72939064",
+  "fx": "FC Pacos Ferreira v AD Marco 09",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga 3 Serie A R10, 17:15 (365Scores). Marco 09 2nd/3rd on 14 pts, Pacos 8 pts; Marco won the first-round meeting 2-1.",
+  "news": "Marco 09 above Pacos and won the reverse 2-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Pacos home 1X2 priced as favourite despite 2-1-3 home form; Unders",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ojogo.pt/futebol/artigo/liga-3-resultados-classificacao-e-proxima-jornada/18145854",
+   "https://www.telefootball.net/US/Varzim-Trofense-2026-11-28-684336.html",
+   "https://tamega.tv/2026/07/21/ad-marco-09-estreia-se-em-casa-frente-ao-pacos-de-ferreira-na-liga-3/"
+  ]
+ },
+ {
+  "eid": "sr:match:72531018",
+  "fx": "Academico de Viseu FC v Alverca Futebol",
+  "sport": "football",
+  "absences": "Alverca: Jhonatan Luiz, Bastien Meupiyou, Noah Raveyre, Sabit Abdulai, Rayan Lucas injured as of round 11 (may have changed)",
+  "context": "Liga Portugal. Even match.",
+  "news": "Alverca had five injured at round 11; nothing more recent found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "near coin-flip; no named mechanism strong enough",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ausencias-liga-portugal-fc-porto-e-sporting-quase-na-maxima-forca-para-uma-quase-final/UazTmRth/",
+   "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ausencias-liga-portugal-nacional-e-alverca-lideram-lista-de-baixas-em-ronda-de-duvidas/v5WQumg3/"
+  ]
+ },
+ {
+  "eid": "sr:match:72531034",
+  "fx": "Vitoria SC Guimaraes v Estrela Amadora",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga Portugal. Guimaraes in poor form (3-3-4; lost 0-2 and 1-2 at home recently).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Guimaraes DNB 1.30 (p 0.745) but home form poor: no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ausencias-liga-portugal-fc-porto-e-sporting-quase-na-maxima-forca-para-uma-quase-final/UazTmRth/",
+   "https://www.flashscore.pt/noticias/futebol-liga-portugal-betclic-ausencias-liga-portugal-nacional-e-alverca-lideram-lista-de-baixas-em-ronda-de-duvidas/v5WQumg3/"
+  ]
+ },
+ {
+  "eid": "sr:match:76045126",
+  "fx": "Ulsan HD FC v Jeonbuk FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "K1 Final A R37, 14:00 KST (05:00 UTC) at Ulsan Munsu (sources agree). Hyundai derby. Ulsan 2nd on 57 must hold 2nd for the ACLE ticket in coach Kim Hyun-seok's farewell home game; Jeonbuk 6th on 49 and 3-0 v Ulsan this season (2-0, 3-1, 1-0).",
+  "news": "Ulsan must win to hold 2nd (ACLE) in Kim Hyun-seok's home farewell; Jeonbuk beat them 3 times this year.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.815382,
+    "why": "Mechanism: Ulsan must chase the result (2nd/ACLE); Ulsan last 6 totals 3,3,3,4,3,7, Jeonbuk scored 6 in 3 meetings with Ulsan this season. Own p 0.83."
+   }
+  ],
+  "avoid": "derby: no result-side (Ulsan 1X2/DNB); Jeonbuk dead-ish motivation",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=101424",
+   "https://www.wikitree.co.kr/articles/1178144",
+   "https://etoday.co.kr/news/view/2653415",
+   "https://www.maxportsnews.com/news/articleView.html?idxno=9647",
+   "https://www.sofascore.com/football/match/ulsan-hd-jeonbuk-hyundai-motors/iNcsddd"
+  ]
+ },
+ {
+  "eid": "sr:match:68046866",
+  "fx": "Cheonan City FC v Daegu FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "K2 final round R34, all 6 games 14:00 KST. Daegu 3rd (59) v E-Land 4th (58): Daegu need the result to keep 3rd (home semi-PO Dec 2, 90 min single leg). Cheonan nothing to play for. PO 3 days later = some rotation risk, but 3rd place is the incentive.",
+  "news": "Daegu must hold 3rd (59 v E-Land 58) for home semi-PO advantage; Cheonan have nothing to play for.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.33,
+    "p": 0.706078,
+    "why": "DNB away (away 1X2 p 0.54 < 0.75). Mechanism: must-win Daegu (3rd v 4th by one point) v unmotivated Cheonan; Daegu 6-3-1 last 10. Own p 0.73."
+   }
+  ],
+  "avoid": "Daegu 1X2; Cheonan home record 3-1-1 GA 0.6 is the risk",
+  "confidence": 0.25,
+  "sources": [
+   "https://sports.khan.co.kr/article/202611231404003/",
+   "https://www.sidae.com/article/2026112709054965813",
+   "https://m.news.nate.com/view/20261126n19673",
+   "https://en.wikipedia.org/wiki/2026_K_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:68046864",
+  "fx": "Chungnam Asan FC v Busan IPark",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "K2 final round. Chungnam Asan 7th, eliminated (44 pts). Busan 5th (49) v Hwaseong 6th (48) for PO seeding (both in the PO already). Busan 0-2-3 away.",
+  "news": "Chungnam eliminated; Busan already in PO, playing for 5th.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Busan away poor; seeding only",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.khan.co.kr/article/202611231404003/",
+   "https://www.sidae.com/article/2026112709054965813",
+   "https://m.news.nate.com/view/20261126n19673",
+   "https://en.wikipedia.org/wiki/2026_K_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:68046870",
+  "fx": "Gimpo FC v Hwaseong FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "K2 final round. Hwaseong 6th (48) already in PO, playing for seeding; Gimpo nothing at stake.",
+  "news": "Hwaseong in PO, seeding only; Gimpo dead rubber.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.khan.co.kr/article/202611231404003/",
+   "https://www.sidae.com/article/2026112709054965813",
+   "https://m.news.nate.com/view/20261126n19673",
+   "https://en.wikipedia.org/wiki/2026_K_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:68046872",
+  "fx": "Gyeongnam FC v Seoul E-Land FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "K2 final round. E-Land 4th (58) need a win and a Daegu slip for 3rd. Gyeongnam 3-1-0 at home with 0 conceded in last 4 home games, nothing at stake.",
+  "news": "E-Land chase 3rd; Gyeongnam strong home defence.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "E-Land away 1X2 p 0.58 < 0.75; Over 1.5 v Gyeongnam's 0 GA home run",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.khan.co.kr/article/202611231404003/",
+   "https://www.sidae.com/article/2026112709054965813",
+   "https://m.news.nate.com/view/20261126n19673",
+   "https://en.wikipedia.org/wiki/2026_K_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:68046874",
+  "fx": "Jeonnam Dragons v Suwon Bluewings",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "K2 final round. Suwon Samsung Bluewings already champions and promoted: dead rubber for them, celebration-game risk.",
+  "news": "Suwon Bluewings already champions/promoted; nothing at stake.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Suwon away 1X2/DNB: dead rubber for the favourite",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.khan.co.kr/article/202611231404003/",
+   "https://www.sidae.com/article/2026112709054965813",
+   "https://m.news.nate.com/view/20261126n19673",
+   "https://en.wikipedia.org/wiki/2026_K_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:68046876",
+  "fx": "Suwon FC v Chungbuk Cheongju FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "K2 final round. Suwon FC already promoted automatically in 2nd: dead rubber for the favourite.",
+  "news": "Suwon FC promotion already secured.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Suwon FC 1X2 (dead rubber)",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.khan.co.kr/article/202611231404003/",
+   "https://www.sidae.com/article/2026112709054965813",
+   "https://m.news.nate.com/view/20261126n19673",
+   "https://en.wikipedia.org/wiki/2026_K_League_2"
+  ]
+ }
+]
