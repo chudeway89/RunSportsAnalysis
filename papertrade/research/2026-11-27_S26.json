@@ -1,0 +1,529 @@
+[
+ {
+  "eid": "sr:match:73690316",
+  "fx": "Volos NPS v Asteras Tripolis",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Youth (U19) fixture: per rules only goals markets in clear mismatches; checked for date/venue conflicts only. Super League K19. The senior Volos v Asteras game is the same day at 17:00 local; K19 slot not separately confirmed.",
+  "news": "no news found (K19 time/venue not confirmed by any source; no conflict found)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "1X2 (youth result-side); no mismatch for goals",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.foxbet.gr/306963/super-league-programma-vathmologia-apotelesmata"
+  ]
+ },
+ {
+  "eid": "sr:match:74040824",
+  "fx": "AO Egaleo 1931 PAE v Diagoras Rhodes",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki Group 8 MD10. Egaleo are leaders; Diagoras unbeaten-ish (5W3D2L, 0.6 GA). Confirmed 13:15 local (11:15 UTC) at Alkyon Petroupoli 2nd ground.",
+  "news": "Leaders Egaleo host tight-defence Diagoras; date/time match the board",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 (p 0.74 < 0.82 gate); home 1X2 v a solid away defence; DNB 1.13 below range",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.dimokratiki.gr/en/24-11-2026/g-ethniki-katigoria-to-savvato-i-10i-agonistiki-me-plousio-endiaferon/"
+  ]
+ },
+ {
+  "eid": "sr:match:74040820",
+  "fx": "Vyrona v Aer Afantou",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Gamma Ethniki Group 8 MD10. Doxa Vyronas level on points at the top; home GA 0.3. Afantou score 0.6/game, many draws. Confirmed 13:30 local (11:30 UTC), Vyronas Municipal Stadium.",
+  "news": "Joint-leaders Vyronas host low-scoring Afantou; date/venue confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 (trend 0.45, both low-scoring, thin league); DNB 1.18 near-fair at my 0.78, no edge",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.dimokratiki.gr/en/24-11-2026/g-ethniki-katigoria-to-savvato-i-10i-agonistiki-me-plousio-endiaferon/"
+  ]
+ },
+ {
+  "eid": "sr:match:73218556",
+  "fx": "FC Augsburg v TSG Hoffenheim",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 DFB-Nachwuchsliga. Youth (U19) fixture: per rules only goals markets in clear mismatches; checked for date/venue conflicts only. Hoffenheim scored 3.8/game (two 9-0 wins), but Over 3.5 trend only 0.45 vs p 0.585; H2H 1-1.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 3.5 (trend below house); result sides (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.dfb.de/maenner/ligen/u-19-dfb-nachwuchsliga"
+  ]
+ },
+ {
+  "eid": "sr:match:73218178",
+  "fx": "FC Erzgebirge Aue v 1 FC Nuremberg",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 DFB-Nachwuchsliga. Youth (U19) fixture: per rules only goals markets in clear mismatches; checked for date/venue conflicts only. Clear mismatch: Aue lost 8 of 10, conceding 4.0/game (1-6, 0-5, 1-6 in last 6); Nuremberg score 2.4/game.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.69,
+    "p": 0.5459,
+    "why": "Goals-only mismatch: Aue U19 concede 4.0/game (6,5,6 conceded in 3 of last 6), Nuremberg 2.4 GF and 1.7 GA; trend 0.65 vs house 0.546. My p 0.58."
+   }
+  ],
+  "avoid": "result sides and handicaps (youth)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.dfb.de/maenner/ligen/u-19-dfb-nachwuchsliga"
+  ]
+ },
+ {
+  "eid": "sr:match:73218764",
+  "fx": "FSV Frankfurt v FSV Mainz",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 DFB-Nachwuchsliga. Youth (U19) fixture: per rules only goals markets in clear mismatches; checked for date/venue conflicts only. Mismatch: FSV Frankfurt 1W in 10, conceding 2.9; Mainz scoring 3.1 (6-1 away). H2H 2-5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.62,
+    "p": 0.5717,
+    "why": "Goals-only mismatch: Frankfurt U19 concede 2.9/game and score 1.6; Mainz 3.1 GF; 4 of Frankfurt's last 6 had 4+ goals, H2H 2-5; trend 0.65 vs house 0.572. My p 0.60."
+   }
+  ],
+  "avoid": "result sides (youth)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.dfb.de/maenner/ligen/u-19-dfb-nachwuchsliga"
+  ]
+ },
+ {
+  "eid": "sr:match:73453914",
+  "fx": "SSV Ulm 1846 v Stuttgarter Kickers",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 DFB-Nachwuchsliga. Youth (U19) fixture: per rules only goals markets in clear mismatches; checked for date/venue conflicts only. Ulm v Stuttgarter Kickers: local Württemberg derby between two struggling sides (Kickers 0W in 10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything: youth derby, no mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.dfb.de/maenner/ligen/u-19-dfb-nachwuchsliga"
+  ]
+ },
+ {
+  "eid": "sr:match:73219094",
+  "fx": "SV Meppen v Hannover 96",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 DFB-Nachwuchsliga. Youth (U19) fixture: per rules only goals markets in clear mismatches; checked for date/venue conflicts only. Only 12 markets on the board; Hannover heavy favourite.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 4.5 (2-goal margin line, too thin a market); result sides",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.dfb.de/maenner/ligen/u-19-dfb-nachwuchsliga"
+  ]
+ },
+ {
+  "eid": "sr:match:73219096",
+  "fx": "TSV Havelse v SC Paderborn 07",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 DFB-Nachwuchsliga. Youth (U19) fixture: per rules only goals markets in clear mismatches; checked for date/venue conflicts only. Havelse 0W 10L, 0.2 GF, 4.1 GA, but only 1X2/DC/DNB markets exist (no goals market).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all available markets are result-sides on a youth game",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.dfb.de/maenner/ligen/u-19-dfb-nachwuchsliga"
+  ]
+ },
+ {
+  "eid": "sr:match:73217914",
+  "fx": "Werder Bremen v FC St. Pauli",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 DFB-Nachwuchsliga. Youth (U19) fixture: per rules only goals markets in clear mismatches; checked for date/venue conflicts only. Werder Bremen v St. Pauli is a northern rivalry; Werder 8W in 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (youth, rivalry); Over 3.5 at 0.556 without a mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.dfb.de/maenner/ligen/u-19-dfb-nachwuchsliga"
+  ]
+ },
+ {
+  "eid": "sr:match:73218766",
+  "fx": "Fortuna Cologne v SV Wehen Wiesbaden",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 DFB-Nachwuchsliga. Youth (U19) fixture: per rules only goals markets in clear mismatches; checked for date/venue conflicts only. Even game (0.43/0.36).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything: no mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.dfb.de/maenner/ligen/u-19-dfb-nachwuchsliga"
+  ]
+ },
+ {
+  "eid": "sr:match:72727364",
+  "fx": "Schwaben Augsburg v FV Illertissen",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga Bayern MD21. The BFV preview says Schwaben Augsburg v Illertissen goes ahead on Saturday from 14:00. However, three other Bayern home games (Eichstatt, Ansbach, Vilzing) were called off for unplayable winter pitches, and one search snippet linked a postponement to Tue 16 Mar 2027 on the same matchday page.",
+  "news": "Listed for Saturday 14:00 by BFV, but frozen pitches have cancelled 3 games in the same round and a postponement reference is ambiguous",
+  "veto": true,
+  "veto_reason": "Date conflict risk: winter pitch cancellations across the league that day and an ambiguous postponement reference; veto as data_conflict",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bfv.de/mspw/regionalliga-bayern/2026-27/regionalliga-bayern-der-21.-spieltag",
+   "https://www.fussball.de/spieltag/regionalliga-bayern-bayern-regionalliga-bayern-herren-saison2627-bayern/-/staffel/0307PKMJ7S000009VS5489BUVT69HBT7-G"
+  ]
+ },
+ {
+  "eid": "sr:match:72727374",
+  "fx": "SpVgg Ansbach v FC Memmingen",
+  "sport": "football",
+  "absences": "n/a",
+  "context": "Regionalliga Bayern MD21: POSTPONED. BFV says SpVgg Ansbach's home game v FC Memmingen cannot take place (pitch unplayable, winter weather).",
+  "news": "POSTPONED: unplayable pitch (BFV, fussball.de)",
+  "veto": true,
+  "veto_reason": "Match called off (pitch unplayable); it would settle void",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.4,
+  "sources": [
+   "https://www.bfv.de/mspw/regionalliga-bayern/2026-27/regionalliga-bayern-der-21.-spieltag",
+   "https://www.fussball.de/spieltag/regionalliga-bayern-bayern-regionalliga-bayern-herren-saison2627-bayern/-/staffel/0307PKMJ7S000009VS5489BUVT69HBT7-G"
+  ]
+ },
+ {
+  "eid": "sr:match:72727370",
+  "fx": "SpVgg Unterhaching v 1 FC Nuremberg II",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga Bayern MD21. Confirmed Sat 28.11 14:00 at the Sportpark Unterhaching. Unterhaching are 6th (29 pts), Nuremberg II 5th (30 pts); Unterhaching drew 6 of 10. Reserve (II) side involved: no picks except goals markets in a clear mismatch, which this is not.",
+  "news": "Confirmed 14:00 at Sportpark; close mid-table game; other Bayern games off for frozen pitches (late-call risk)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything: reserve side, coin-flip, winter pitch risk",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.bfv.de/mspw/regionalliga-bayern/2026-27/regionalliga-bayern-der-21.-spieltag",
+   "https://ran.joyn.de/sports/ticker/ma11252234#direkter-vergleich"
+  ]
+ },
+ {
+  "eid": "sr:match:72727368",
+  "fx": "VfB Eichstatt v TSV Buchbach",
+  "sport": "football",
+  "absences": "n/a",
+  "context": "Regionalliga Bayern MD21: POSTPONED. BFV and fussball.de mark VfB Eichstatt v TSV Buchbach as called off (pitch unplayable).",
+  "news": "POSTPONED: unplayable pitch (BFV, fussball.de 'Absetzung')",
+  "veto": true,
+  "veto_reason": "Match called off (pitch unplayable); it would settle void",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.4,
+  "sources": [
+   "https://www.bfv.de/mspw/regionalliga-bayern/2026-27/regionalliga-bayern-der-21.-spieltag",
+   "https://www.fussball.de/spieltag/regionalliga-bayern-bayern-regionalliga-bayern-herren-saison2627-bayern/-/staffel/0307PKMJ7S000009VS5489BUVT69HBT7-G"
+  ]
+ },
+ {
+  "eid": "sr:match:72674472",
+  "fx": "FSV Schoningen 2011 v SV Werder Bremen II",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga Nord MD20, 14:00 local. Both sides leak goals (2.3/2.2 GA). Reserve (II) side involved: no picks except goals markets in a clear mismatch, which this is not.",
+  "news": "Confirmed Sat 14:00; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 looks fine on form (5/6 each) but it is a reserve side, so rule-excluded",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.worldfootball.net/competition/co107/germany-regionalliga-nord/"
+  ]
+ },
+ {
+  "eid": "sr:match:72674482",
+  "fx": "SC Weiche Flensburg 08 v HSC Hannover",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga Nord MD20, 14:00 local. Weiche Flensburg are a top contender (38 pts after 19 in the newest table); HSC Hannover 2W 2D 6L in last 10 with 2.2 GA.",
+  "news": "Confirmed Sat 14:00; Flensburg in the title race v struggling HSC",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.7992,
+    "why": "Table gap: contender Flensburg (38 pts) at home v HSC Hannover (2W in 10, 1.1 GF/2.2 GA); DNB removes the draw. Statistics-led, fill-grade. My p 0.80."
+   }
+  ],
+  "avoid": "Over 2.5 (HSC games only 2/6 over); AH -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.worldfootball.net/competition/co107/germany-regionalliga-nord/"
+  ]
+ },
+ {
+  "eid": "sr:match:72809420",
+  "fx": "FC Astoria Walldorf v Offenbacher FC Kickers 1901",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga Sudwest MD18, the first game of the second half of the season. Confirmed Sat 14:00, Dietmar-Hopp-Sportpark. Offenbach 6th (28 pts) after a 0-1 home loss to Mannheim; Walldorf 11th (20). The reverse fixture finished 2-1 to Offenbach.",
+  "news": "Confirmed 14:00 Walldorf; Offenbach 6th v Walldorf 11th; one standings snapshot conflicts (stale)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides at ~0.37 each; Over 1.5 at 1.16 is below the range",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.wochenblatt-reporter.de/c-sport/offenbacher-kickers-starten-in-walldorf-in-die-rueckrunde_a954977",
+   "https://ofc.de/"
+  ]
+ },
+ {
+  "eid": "sr:match:72808160",
+  "fx": "Borussia Dortmund II v VfL Bochum II",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga West, Ruhr derby between two reserve sides (Dortmund II v Bochum II). Reserve (II) side involved: no picks except goals markets in a clear mismatch, which this is not.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: reserve derby",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sport.de/fussball/deutschland-regionalliga-west/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:72808162",
+  "fx": "FC Gutersloh 2000 v VfL Sportfreunde Lotte 1929",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga West, opening game of the second half of the season, Sat 14:00. Lotte bottom (18th, 3 pts in the Reviersport table; 1W 8L in 10, 0.4 GF); Gutersloh 9th (12 pts), who lost at home to RWO last time.",
+  "news": "Confirmed Sat 14:00 (one listing says 21:00, an outlier); Lotte bottom with 3 pts",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.6911,
+    "why": "Bottom side Lotte (3 pts, 0.4 GF, 8 losses in 10) away at mid-table Gutersloh; fill-grade, statistics-led. My p 0.69 (≈ house)."
+   }
+  ],
+  "avoid": "AH -1.5; Overs (Lotte barely score)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.reviersport.de/fussball/regionalliga/a632382---regionalliga-rwo-besteht-guetersloh-gunkel-stolz-hesse-nimmt-ungluecksraben-schutz.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72808148",
+  "fx": "RW Oberhausen v Bonner SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga West, opening game of the second half. RWO are autumn champions (1st) v 3rd-placed Bonner SC; confirmed Sat 28.11 14:00, Stadion Niederrhein.",
+  "news": "Top-of-table clash 1st v 3rd; date/kick-off confirmed by RWO and Bonner SC",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result side in a top-of-table clash; Under 4.5 p 0.78 < 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.reviersport.de/fussball/regionalliga/a632382---regionalliga-rwo-besteht-guetersloh-gunkel-stolz-hesse-nimmt-ungluecksraben-schutz.html",
+   "https://www.bonner-sc.de/"
+  ]
+ },
+ {
+  "eid": "sr:match:72808158",
+  "fx": "SC Wiedenbruck v 1. FC Cologne II",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga West, Sat 14:00. Wiedenbruck 17th (12 pts, 8 losses in 10). Reserve (II) side involved: no picks except goals markets in a clear mismatch, which this is not.",
+  "news": "Confirmed Sat 14:00 (Telefootball 08:00 = US time-zone display)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: reserve side, no clear mismatch (away p 0.46)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sport.de/fussball/deutschland-regionalliga-west/ergebnisse-und-tabelle/",
+   "https://www.telefootball.net/US/SC-Wiedenbr%C3%BCck-2000-FC-Koln-II-2026-11-28-689449.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72808156",
+  "fx": "SG Wattenscheid 09 v SV Bergisch Gladbach 09",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga West relegation six-pointer: Wattenscheid 16th (14 pts, 'the ball won't go in') v Bergisch Gladbach 15th. Only 1X2/DC/DNB markets.",
+  "news": "Relegation six-pointer; Wattenscheid can't score",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: must-win both sides, no goals markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.reviersport.de/fussball/regionalliga/a632015---regionalliga-wattenscheid-scheint-verflucht-ball-will-einfach-rein.html",
+   "https://www.sport.de/fussball/deutschland-regionalliga-west/ergebnisse-und-tabelle/"
+  ]
+ },
+ {
+  "eid": "sr:match:72808164",
+  "fx": "SV Rodinghausen v Borussia Monchengladbach II",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga West, Sat 14:00. Gladbach II high in the table (3rd, 32 pts in one snapshot). Reserve (II) side involved: no picks except goals markets in a clear mismatch, which this is not.",
+  "news": "Confirmed Sat 14:00",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: reserve side",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sport.de/fussball/deutschland-regionalliga-west/ergebnisse-und-tabelle/",
+   "https://www.telefootball.net/US/R%C3%B6dinghausen-Borussia-Moenchengladbach-II-2026-11-28-689453.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74040548",
+  "fx": "AO Loutraki v PAS Korinthos",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Gamma Ethniki Group 7, local Corinthian derby. Loutraki lead the group (22 pts); PAS Korinthos just ended a 6-game winless run. DATE CONFLICT: the Loutraki club fixture table lists it as Sunday 29/11 15:00 at the Thodeio stadium, while Foxbet and the board say Sat 28/11.",
+  "news": "Date conflict: club site says Sun 29/11, board says Sat 28/11; also a local derby",
+  "veto": true,
+  "veto_reason": "Date conflict between the club fixture table (Sun 29/11 15:00) and the board (Sat 28/11 13:00 UTC); also a derby",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.aoloutraki.gr/index.php/agwnistiki-periodos/table",
+   "https://foxbet.gr/prognostika/455084-loutraki-korinthos"
+  ]
+ },
+ {
+  "eid": "sr:match:74040818",
+  "fx": "Apollon Kalithion v Ethnikos OFPF",
+  "sport": "football",
+  "absences": "Apollon Kalythies: Christoforos Karagiannis suspended (3rd yellow), Pougkas injured; Kapsalis, Athanasopoulos and La Torre return from bans (coach Thanasis Kolitsidakis)",
+  "context": "Gamma Ethniki MD10, Sat 28/11 (Dimokratiki 27/11 preview: 'tomorrow'; Foxbet 15:00 local = 13:00 UTC, matching the board). Apollon, in Rhodes, are low-scoring (0.6 GF, 7 losses in 10).",
+  "news": "Apollon miss Karagiannis (ban) and Pougkas (injury) but regain three suspended players; date confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 (p 0.64 < 0.82); Ethnikos away DNB 1.47 (away side at p 0.63, travel to Rhodes)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.dimokratiki.gr/27-11-2026/apollonas-kalythion-to-spiti-tou-ke-ta-matia-tou/",
+   "https://www.foxbet.gr/prognostika/455073-apollon-kalithion-ethnikos-pirea"
+  ]
+ },
+ {
+  "eid": "sr:match:73218182",
+  "fx": "Greuther Furth v FC Rot-Weiss Erfurt",
+  "sport": "football",
+  "absences": "none found",
+  "context": "U19 DFB-Nachwuchsliga. Youth (U19) fixture: per rules only goals markets in clear mismatches; checked for date/venue conflicts only. Erfurt 1W 8L, conceding 3.7 (1-4, 1-6, 1-5, 2-6 recently), but the only goals line in range is Over 4.5 at 2.2 (p 0.41).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 4.5 (too thin); result sides (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.dfb.de/maenner/ligen/u-19-dfb-nachwuchsliga"
+  ]
+ },
+ {
+  "eid": "sr:match:72674470",
+  "fx": "SV Atlas Delmenhorst v SSV Jeddeloh II",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga Nord MD20, 15:00 local (14:00 UTC, matching the board). Both low-scoring; only 1X2/DC/DNB markets. Reserve (II) side involved: no picks except goals markets in a clear mismatch, which this is not.",
+  "news": "Confirmed Sat 15:00",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: reserve side, result-only markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.worldfootball.net/competition/co107/germany-regionalliga-nord/"
+  ]
+ },
+ {
+  "eid": "sr:match:73690318",
+  "fx": "AE Kifisia v Kalamata",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Super League K19 MD12: confirmed Sat 28/11 16:00 local (14:00 UTC) at Kicks Academy. Youth (U19) fixture: per rules only goals markets in clear mismatches; checked for date/venue conflicts only. Kalamata U19 0W in 10, 0.3 GF/3.1 GA, but Kifisia only score 1.1; Over 2.5 trend 0.65 is below house 0.70.",
+  "news": "Confirmed 16:00 at Kicks Academy (senior game is 20:00, separate)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 2.5 (trend below house); Kalamata team Under 0.5 (an Under below 0.82); result sides (youth)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.taklin.gr/2026/11/27/super-league-k19-ektos-edras-anametrisi-me-tin-kifisia-gia-tin-kalamata/"
+  ]
+ },
+ {
+  "eid": "sr:match:72697814",
+  "fx": "Hallescher FC v Greifswalder FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Regionalliga Nordost MD18, Sat 28.11 16:00 local (15:00 UTC), live on MDR. Halle unbeaten in 10 (6W4D); the reverse fixture was 2-2 at Greifswald on 26 Jul.",
+  "news": "Confirmed 16:00, TV on MDR; Halle unbeaten in 10",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Halle DNB 1.48 (my 0.64 ≈ house); Over 1.5 at 1.18 (Halle games 3/6 over)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sport.de/news/ne17479892/hier-laeuft-hallescher-fc-vs-greifswalder-fc-live-und-kostenlos-im-tv-und-stream/"
+  ]
+ }
+]
