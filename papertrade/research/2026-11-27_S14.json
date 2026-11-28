@@ -1,0 +1,659 @@
+[
+ {
+  "eid": "sr:match:74515564",
+  "fx": "Maharlika Taguig FC v Kaya FC\u2013Iloilo",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "PFL 2026-27; Kaya-Iloilo former 3x champions (3rd last season). Ticketmax lists a Rizal Memorial doubleheader (Maharlika v Kaya 16:00 PHT, Aguilas v Digger after) - effectively neutral venue; Sofascore shows McKinley Hill. Kick-off time agrees (08:00 UTC).",
+  "news": "Venue listed as Rizal Memorial (official ticketing) vs McKinley Hill (Sofascore); time consistent; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.34,
+    "p": 0.6976,
+    "why": "Kaya stronger squad (6-1-3 last 10, 2.1 gf / 1.0 ga) and the likely neutral Rizal venue removes Maharlika home edge; DNB protects the draw. Own est 0.71."
+   }
+  ],
+  "avoid": "Kaya 1X2 (p 0.55 < 0.75 away rule); Overs at p ~0.63 (mid-band).",
+  "confidence": 0.25,
+  "sources": [
+   "https://pfl.ticketmax.ph/",
+   "https://www.sofascore.com/football/team/maharlika-manila-fc/368907"
+  ]
+ },
+ {
+  "eid": "sr:match:73050928",
+  "fx": "Stal Rzeszow v Escola Varsovia Warszawa U19",
+  "sport": "football",
+  "absences": "youth (U19) - not researched for absences",
+  "context": "CLJ U19 youth league.",
+  "news": "Youth fixture; one schedule (Legionisci/Legia) places Stal v Escola in a different round, Pomorski Futbol gives no date - date unconfirmed.",
+  "veto": true,
+  "veto_reason": "Youth fixture with conflicting round/date between fixture sources",
+  "picks": [],
+  "avoid": "All markets (youth, date conflict).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4751",
+   "https://legionisci.com/news/105595/terminarz-centralnej-ligi-juniorow-u-19"
+  ]
+ },
+ {
+  "eid": "sr:match:73050930",
+  "fx": "Gornik Zabrze v KS Arkonia Szczecin U19",
+  "sport": "football",
+  "absences": "youth (U19) - not researched for absences",
+  "context": "CLJ U19; date 28 Nov 11:00 local confirmed (=10:00 UTC).",
+  "news": "Date/time confirmed by Pomorski Futbol listing; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth: no result-sides; no clear mismatch (p 0.54) so no goals pick either.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4751",
+   "https://legionisci.com/news/105595/terminarz-centralnej-ligi-juniorow-u-19"
+  ]
+ },
+ {
+  "eid": "sr:match:72045842",
+  "fx": "FK Arsimi 1973 v FK Vardar Skopje",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "1. MFL round 10. Vardar 3rd (17 pts) but lost 0-3 at home to Tikvesh on Nov 21; Arsimi 8th (9 pts), no home wins in last 5 (0-3-2) but concede 2.1/game.",
+  "news": "Vardar coming off 0-3 home defeat to Tikvesh; Arsimi 8th. No absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.7571,
+    "why": "Away 1X2 at p 0.76 passes the 0.75 gate: Vardar 3-2-0 away, Arsimi winless at home and leaky (2.1 ga). Bounce-back risk after 0-3 noted. Own est 0.74."
+   }
+  ],
+  "avoid": "Vardar DNB 1.07 (too short); Overs (Vardar low-scoring 1.2 gf).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.uefa.com/nationalassociations/mkd/domestic/league/1044/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Macedonian_First_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72045846",
+  "fx": "FK Sileks Kratovo v FC Struga Trim Lum",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "1. MFL: Struga 2nd (17 pts), 8-1-1 last 10 with 0.6 ga, beat Bregalnica 2-1 Nov 22; Sileks low-event side (0.9 gf/0.8 ga), drew 1-1 at leaders Shkendija Nov 23.",
+  "news": "Struga in title race; Sileks solid defensively (1-1 at Shkendija).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.28,
+    "p": 0.7334,
+    "why": "Struga 8-1-1, 4-1-1 away, conceding 0.6; Sileks score 0.9/game. DNB removes the draw that Sileks often produce. Own est 0.74."
+   }
+  ],
+  "avoid": "Struga 1X2 (p 0.55, away gate); Under 3.5 (p 0.77 < 0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.uefa.com/nationalassociations/mkd/domestic/league/1044/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Macedonian_First_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:74515566",
+  "fx": "Davao Aguilas v Manila Digger FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "PFL 2026-27: Manila Digger are defending champions; Davao (Aguilas-UMak) mid-table. Ticketmax lists it at Rizal Memorial after Maharlika v Kaya; one listing says Davao del Norte Sports Complex; kick-off 11:00 UTC (19:00 PHT) consistent.",
+  "news": "Digger top/champions, 8-1-1 with 0.2 ga; venue Rizal (ticketing) vs Davao del Norte (one listing, unconfirmed).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.3,
+    "p": 0.728,
+    "why": "Digger average 2.7 gf and Davao 2.9 gf at home; mismatch (Digger p 0.85) gives a rout path. Own est 0.74."
+   }
+  ],
+  "avoid": "Digger 1X2 1.12 (below 1.18); -2.5 AH (rout-class variance).",
+  "confidence": 0.25,
+  "sources": [
+   "https://fc-aguilasumak.com/",
+   "https://fc-maniladigger.com/",
+   "https://www.sofascore.com/football/match/manila-digger-fc-davao-aguilas/GmbcsuZee",
+   "https://pfl.ticketmax.ph/"
+  ]
+ },
+ {
+  "eid": "sr:match:73050932",
+  "fx": "Uks Talent Warszawa U19 v Polonia Warszawa",
+  "sport": "football",
+  "absences": "youth (U19) - not researched for absences",
+  "context": "CLJ U19; Talent (U19 academy) v Polonia Warszawa U19 - Warsaw derby of youth sides.",
+  "news": "Date not attached in fixture listing; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth: no result-sides; no clear mismatch (p 0.54).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.pomorskifutbol.pl/liga.php?id=4751",
+   "https://legionisci.com/news/105595/terminarz-centralnej-ligi-juniorow-u-19",
+   "https://kspolonia.pl/akademia/mecz-akademii/clj-u19/"
+  ]
+ },
+ {
+  "eid": "sr:match:76999910",
+  "fx": "GFK Tikvesh 1930 v Shkendija Tetovo",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "1. MFL top-4 clash: Shkendija leaders (20 pts), Tikvesh 4th (16) unbeaten last 10 (6-4-0) and just won 3-0 at Vardar.",
+  "news": "Top-of-table clash; Tikvesh in form, Shkendija drew 1-1 v Sileks.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (evenly priced top clash); Under 3.5 p 0.72 (< 0.82).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.uefa.com/nationalassociations/mkd/domestic/league/1044/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Macedonian_First_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:76806436",
+  "fx": "Bjarg v Sogndal Fotball",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "KNOCKOUT: 1. divisjon qualification (relegation/promotion playoff) 2nd leg in Bergen; first leg Sogndal 3-3 Bjarg. Sogndal (14th in 1. div) must avoid relegation; Bjarg (2. div) 8-2-0. Settles on 90 min (ET/pens possible). Kick-off 13:00 local = 12:00 UTC consistent.",
+  "news": "Two-legged playoff, tied 3-3 after first leg; Sogndal in crisis (\"marerittet fortsetter\").",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.21,
+    "p": 0.7905,
+    "why": "Sogndal scored 3 in the first leg and need a goal to survive; Bjarg concede 1.1/game at a lower level. Own est 0.81."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.41,
+    "p": 0.6734,
+    "why": "First leg 3-3, Bjarg 3.2 gf last 10 and Sogndal 1.7 ga; open tie with neither side able to sit on a lead. Own est 0.69."
+   }
+  ],
+  "avoid": "Result-sides (knockout; DNB only and no edge at 0.60); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://no.wikipedia.org/wiki/Kvalifisering_til_1._divisjon_fotball_for_menn_2027",
+   "https://www.nrk.no/vestland/marerittet-fortsetter_-sogndal-ma-ut-i-kvalifiseringsrunde-1.18076767",
+   "https://www.vg.no/sport/i/qOLdVL/maalrik-batalje-i-1-divisjonskvalifiseringen-aapent-foer-returen"
+  ]
+ },
+ {
+  "eid": "sr:match:76640394",
+  "fx": "Bahla Club v Majees",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Sultan Qaboos Cup single-leg knockout tie (Gulf).",
+  "news": "Fixture confirmed on Soccerway for 28 Nov (times shown in viewer TZ, consistent with 12:40 UTC). Only 1X2 on board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout result-sides; only 3 markets on board.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/oman/sultan-cup/#/v5J1WIc5/draw/"
+  ]
+ },
+ {
+  "eid": "sr:match:76640396",
+  "fx": "Oman Club v Sur SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Sultan Qaboos Cup knockout; Oman Club 4-0-6 last 10, Sur 3-1-6. H2H: Sur won both recent (1-2, 2-3).",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout result-sides (house favours Oman Club yet H2H 0-2); Gulf Overs; Under 3.5 p 0.75 (<0.82).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.soccerway.com/oman/sultan-cup/#/v5J1WIc5/draw/"
+  ]
+ },
+ {
+  "eid": "sr:match:72346440",
+  "fx": "Crusaders FC v Linfield FC",
+  "sport": "football",
+  "absences": "no news found for this fixture",
+  "context": "Belfast derby; Crusaders in slump (2-1-7 last 10, lost 0-5 at home); Linfield 8-2-0 with 0.6 ga.",
+  "news": "No current team news; Crusaders badly out of form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.33,
+    "p": 0.7142,
+    "why": "Team total, not a result-side (derby rule): Linfield 2.4 gf last 10, 5-1-0 away; Crusaders conceding 2.6/game incl. 0-5 and 2-5. Own est 0.72."
+   }
+  ],
+  "avoid": "Linfield 1X2 / -0.5 (derby result-side ban); Over 2.5 mid-band.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fotmob.com/uk/matches/crusaders-vs-linfield/t8blx",
+   "https://www.footballwebpages.co.uk/northern-ireland-premiership/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:74886184",
+  "fx": "Doma United FC v Enugu Rangers International FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "NPFL MD15 headline: leaders Enugu Rangers (28 pts, 1 league loss) at 8th-placed Doma in Gombe (Pantami Stadium). Doma unbeaten in 7 home league games (1-4-0 last 5 home).",
+  "news": "Rangers league leaders, lost once; Doma unbeaten in 7 at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.24,
+    "p": 0.7461,
+    "why": "NPFL home edge plus Doma unbeaten 7 home league games; Rangers draw-heavy away (1-3-1). Own est 0.77."
+   }
+  ],
+  "avoid": "Rangers result-sides; Under 3.5 p 0.77 (<0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/nigeria-npfl-fixtures-weekend-schedule-and-kick-off-times-27-29-november-2026/",
+   "https://soccernet.ng/2026/11/npfl-plateau-united-vs-ikorodu-city-preview-jos.html",
+   "https://www.completesports.com/euromatch-npfl-plateau-united-vs-ikorodu-city-rescheduled-to-november-28/"
+  ]
+ },
+ {
+  "eid": "sr:match:74886196",
+  "fx": "Plateau United v Ikorodu City",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "NPFL MD15 (rescheduled to Nov 28) at Rwang Pam/New Jos Stadium, 15:00 GMT. Plateau best attack (23 goals) 7th on 20 pts; Ikorodu 10th on 18, draw-heavy.",
+  "news": "Rescheduled to Nov 28 (consistent with board); Plateau league-best attack, Ikorodu rarely lose.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8101,
+    "why": "Plateau 3-1-1 at home with the league top attack; NPFL home edge; Ikorodu draw-prone so DNB protects the main loss path. Own est 0.81."
+   }
+  ],
+  "avoid": "Plateau 1X2 (Ikorodu draws a lot).",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/nigeria-npfl-fixtures-weekend-schedule-and-kick-off-times-27-29-november-2026/",
+   "https://soccernet.ng/2026/11/npfl-plateau-united-vs-ikorodu-city-preview-jos.html",
+   "https://www.completesports.com/euromatch-npfl-plateau-united-vs-ikorodu-city-rescheduled-to-november-28/"
+  ]
+ },
+ {
+  "eid": "sr:match:77225716",
+  "fx": "Bangor FC v Carrick Rangers",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Bangor in bottom two/relegation zone; Carrick mid-table. Fixture 3pm confirmed.",
+  "news": "Bangor bottom-two, standings sources conflict on positions.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: Carrick form record contains an odd 10-9 (shoot-out) and mid-band prices.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-ireland-premiership/fixtures-results",
+   "https://www.irishnews.com/sport/soccer/cups-have-been-a-knock-out-but-time-to-bag-league-points-blasts-ballymena-united-boss-oran-kearney-2F3I6CSL2FHX5PAK5JZN5ICQGU/",
+   "https://www.skysports.com/northern-irish-premiership-table"
+  ]
+ },
+ {
+  "eid": "sr:match:72346444",
+  "fx": "Limavady United FC v Portadown FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Portadown bottom, six points adrift, must-win at Limavady; Portadown scored 0.7/game last 10. Fixture 3pm confirmed.",
+  "news": "Portadown must-win but goal-shy; Limavady 3-0-1 at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (coin-flip); Overs (Portadown 0.7 gf).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-ireland-premiership/fixtures-results",
+   "https://www.irishnews.com/sport/soccer/cups-have-been-a-knock-out-but-time-to-bag-league-points-blasts-ballymena-united-boss-oran-kearney-2F3I6CSL2FHX5PAK5JZN5ICQGU/",
+   "https://www.skysports.com/northern-irish-premiership-table"
+  ]
+ },
+ {
+  "eid": "sr:match:72347036",
+  "fx": "Loughgall FC v Strabane Athletic FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NIFL Championship: Loughgall 21 pts (Section A); Strabane 15th on 11 pts, 0.4 gf last 10.",
+  "news": "No news; Loughgall poor home record (1-0-4 last 5 home).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Loughgall 1X2 (home form 1-0-4 contradicts p 0.61).",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_NIFL_Championship",
+   "https://www.365scores.com/football/league/ifa-championship-5819/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72347040",
+  "fx": "Newington FC v Glenavon FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NIFL Championship promotion clash: Glenavon 2nd (30 pts) v Newington 3rd (29). Glenavon 8-1-1, 3.8 gf.",
+  "news": "Top-3 clash; Glenavon prolific.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.34,
+    "p": 0.7011,
+    "why": "Glenavon 3.8 gf last 10 (6-1, 4-2, 6-0 type scores), Newington 2.0 gf; both chasing promotion. Own est 0.71."
+   }
+  ],
+  "avoid": "Result-sides in the top clash.",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_NIFL_Championship",
+   "https://www.365scores.com/football/league/ifa-championship-5819/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:67015482",
+  "fx": "Bodoe/Glimt v KFUM Oslo",
+  "sport": "football",
+  "absences": "KFUM reportedly missing key defenders and a striker (unnamed); Glimt doubts Flaten, Evjen (low-quality source)",
+  "context": "Eliteserien title run-in: Glimt top on 65, 3 pts clear of Viking with 3 rounds left - must-win. Played UCL Tue Nov 24 (1-0 v LASK) - 4 days (rotation flag L66). KFUM 10th, nothing to play for.",
+  "news": "Glimt need wins for the title; beat LASK 1-0 in UCL midweek; KFUM injuries reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.21,
+    "p": 0.8052,
+    "why": "Glimt must win in title race; KFUM concede 1.9/game away (1-5, 3-4) and are short in defence. Rotation after UCL downgrades the margin, not the total. Own est 0.80."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Home (-1.5)",
+    "odds": 1.29,
+    "p": 0.7524,
+    "why": "Title must-win v mid-table KFUM with defensive absences; rotation risk after Tue UCL caps it. Own est 0.73."
+   }
+  ],
+  "avoid": "Glimt 1X2 1.10 (too short); -2.5 AH.",
+  "confidence": 0.25,
+  "sources": [
+   "https://tvkampen.com/sport/fotball/bodo-glimt-kfum-tv-28november",
+   "https://www.vavel.com/en-us/soccer/2026/11/24/1280502-bodo-glimt-vs-lask-linz-live-score-uefa-champions-league.html",
+   "https://scoregpt.app/ai-football-predictions/eliteserien/bodo-glimt-vs-kfum-oslo-2026-11-28"
+  ]
+ },
+ {
+  "eid": "sr:match:76640398",
+  "fx": "AL Nasr SC (OMA) v AL Musannah SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Sultan Qaboos Cup knockout; Al Nasr 6-1-3; H2H Al Nasr 2-0.",
+  "news": "Fixture confirmed; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout result-sides; Gulf Overs; Under 3.5 p 0.77.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.soccerway.com/oman/sultan-cup/#/v5J1WIc5/draw/"
+  ]
+ },
+ {
+  "eid": "sr:match:67015490",
+  "fx": "Rosenborg BK v Molde",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Eliteserien R28 rivalry: Rosenborg 4th (47 pts) v Molde 5th; Molde lost 2-4 at home to Glimt Nov 20 and are very open (3.7 gf / 2.0 ga). Kick-off 18:00 local (17:00 UTC) per club ticketing; one site shows 09:00 (outlier).",
+  "news": "Rosenborg drew 2-2 at Aalesund; big-club clash, no named absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (big-club clash); Over 2.5/BTTS p 0.74-0.76 under the 0.82 big-club totals bar.",
+  "confidence": 0.2,
+  "sources": [
+   "https://billett.rbk.no/events/rosenborg-molde-ibjaz9?lang=en",
+   "https://www.sofascore.com/football/match/rosenborg-bk-molde-fk/lnsly",
+   "https://www.fotmob.com/teams/8422/overview/rosenborg"
+  ]
+ },
+ {
+  "eid": "sr:match:72346434",
+  "fx": "Ballymena United v Cliftonville FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Ballymena a point above the relegation play-off spot; Cliftonville in form with promised investment. 6pm KO confirmed.",
+  "news": "Ballymena fighting relegation; Cliftonville hitting form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cliftonville DNB p 0.56 (mid-band); Over 2.5 mid-band.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-ireland-premiership/fixtures-results",
+   "https://www.irishnews.com/sport/soccer/cups-have-been-a-knock-out-but-time-to-bag-league-points-blasts-ballymena-united-boss-oran-kearney-2F3I6CSL2FHX5PAK5JZN5ICQGU/",
+   "https://www.skysports.com/northern-irish-premiership-table"
+  ]
+ },
+ {
+  "eid": "sr:match:74873502",
+  "fx": "Auckland FC Reserves v Auckland City FC",
+  "sport": "football",
+  "absences": "reserve side (Auckland FC Reserves) - not researched for absences",
+  "context": "NZ National League championship phase; Auckland City unbeaten, title contenders; AFC Reserves 1-2-7, conceding 2.9 (1-6 twice), drew 0-0 at Ferrymead last week.",
+  "news": "Reserve side v title-chasing Auckland City; mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.31,
+    "p": 0.72,
+    "why": "Goals market only (reserve rule): clear mismatch - Auckland City 2.5 gf, Reserves concede 2.9 incl. two 1-6s. Own est 0.73."
+   }
+  ],
+  "avoid": "Auckland City 1X2/AH (reserve opponent rule: goals only).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.friendsoffootballnz.com/2026/11/20/template-mens-national-league-5/",
+   "https://www.friendsoffootballnz.com/2026/11/23/catching-up-after-the-weekend-here-are-the-top-results-and-all-on-one-page-141/"
+  ]
+ },
+ {
+  "eid": "sr:match:77243752",
+  "fx": "Unan Managua v CD Walter Ferretti",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Nicaragua Apertura late stage (16 of 18 matchdays); UNAN 4th (repechaje zone).",
+  "news": "No news for Ferretti.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip prices.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Torneo_Apertura_2026_(Nicaragua)"
+  ]
+ },
+ {
+  "eid": "sr:match:73038674",
+  "fx": "Sportivo Trinidense v Recoleta FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Paraguay Clausura fecha 21 (season ends 29 Nov window) at Estadio Martin Torres; Trinidense 4th (earlier sole leader), Recoleta 10th and leaky (6-5, 1-4).",
+  "news": "Trinidense 4th v 10th Recoleta; date/venue consistent.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7885,
+    "why": "Trinidense 4-0-2 at home and in the top four; Recoleta 1-2-2 away and leaky. DNB covers the draw. Own est 0.79."
+   }
+  ],
+  "avoid": "Unders; Trinidense -1.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/football/match/recoleta-fc-sportivo-trinidense/xUpsVbrc",
+   "https://us.soccerway.com/game/recoleta-WhS2lQYL/sportivo-trinidense-WdYZQrTO/summary/lineups/"
+  ]
+ },
+ {
+  "eid": "sr:match:74873504",
+  "fx": "Cashmere Technical v Auckland United FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NZ National League championship phase, four-way title race: Cashmere joint top (16 pts) but lost 0-1 at Miramar; Auckland United weak away (1-2-2).",
+  "news": "Cashmere in title race; lost last game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7509,
+    "why": "Cashmere 4-1-0 at home, 3.5 gf last 10, must win in a four-way title race; Auckland United have lost 4 of last 5 overall. Own est 0.77."
+   }
+  ],
+  "avoid": "Overs at p 0.71 (fine but secondary).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.friendsoffootballnz.com/2026/11/20/template-mens-national-league-5/",
+   "https://www.friendsoffootballnz.com/2026/11/23/catching-up-after-the-weekend-here-are-the-top-results-and-all-on-one-page-141/"
+  ]
+ },
+ {
+  "eid": "sr:match:74873506",
+  "fx": "Napier City Rovers AFC v Eastern Suburbs AFC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NZ National League championship phase; Napier and Eastern Suburbs both 11 pts.",
+  "news": "No news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mid-band prices.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.friendsoffootballnz.com/2026/11/20/template-mens-national-league-5/",
+   "https://www.friendsoffootballnz.com/2026/11/23/catching-up-after-the-weekend-here-are-the-top-results-and-all-on-one-page-141/"
+  ]
+ },
+ {
+  "eid": "sr:match:77243754",
+  "fx": "Real Esteli FC v HYH Sebaco FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Nicaragua Apertura late stage: Real Esteli 3rd (31 pts) pushing for position; Sebaco weak (lost 6-1 at Managua, 4-2 at Esteli earlier), coach Holver Flores since Sep 1.",
+  "news": "Esteli 3rd; Sebaco conceding heavily.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.723,
+    "why": "Esteli 3-1-0 at home, beat Sebaco 4-2 earlier; Sebaco 2-1-2 away and concede 1.9. Own est 0.74."
+   }
+  ],
+  "avoid": "Esteli -1.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Torneo_Apertura_2026_(Nicaragua)"
+  ]
+ },
+ {
+  "eid": "sr:match:76967058",
+  "fx": "CD Plaza Amador Panama City v Tauro FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "KNOCKOUT: LPF Apertura 2026 semifinal 2nd leg; Plaza Amador won 1st leg 3-1 (Jimar Sanchez x2, Jorlian Sanchez) - 2-goal aggregate cushion. Settles on 90 min.",
+  "news": "Plaza lead 3-1 on aggregate; return leg Nov 28.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (knockout, no To Qualify market on board; DNB p 0.69 no edge as Plaza can sit on lead); totals mid-band.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.midiario.com/deportivas/plaza-amador-golpea-primero-derrota-3-1-al-tauro-y-pone-un-pie-en-la-final-de-la-lpf/"
+  ]
+ },
+ {
+  "eid": "sr:match:74873508",
+  "fx": "Birkenhead United AFC v Miramar Rangers",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NZ National League championship phase; Birkenhead lost 0-2 at Olympic; Miramar beat Cashmere 1-0, 4-1-0 away.",
+  "news": "No news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Birkenhead 1X2 (Miramar strong away).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.friendsoffootballnz.com/2026/11/20/template-mens-national-league-5/",
+   "https://www.friendsoffootballnz.com/2026/11/23/catching-up-after-the-weekend-here-are-the-top-results-and-all-on-one-page-141/"
+  ]
+ }
+]
