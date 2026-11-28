@@ -1,0 +1,695 @@
+[
+ {
+  "eid": "sr:match:73296506",
+  "fx": "Kowloon City v Eastern District",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "HKPL Matchweek 10. High-scoring league; Kowloon City last 6 include 8-7, 4-1, 3-2; Eastern District concede 2.4/g (2.57 away).",
+  "news": "no news found; fixture not located in search (no conflicting listing either)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.46,
+    "p": 0.645763,
+    "why": "Both defences leak (KC 2.5 GA/g, ED 2.57 GA away); 9/10 combined trend O2.5; my p 0.70"
+   }
+  ],
+  "avoid": "result sides (no team news, coin-flip form)",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Hong_Kong_Premier_League",
+   "https://m.dongqiudi.com/en/preview/54537288"
+  ]
+ },
+ {
+  "eid": "sr:match:74058704",
+  "fx": "South China FC v Hoi King",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "HK First Division (semi-pro/amateur tier); South China strong at home (4-0-1, 0.6 GA).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets: amateur tier, no coverage",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Hong_Kong_First_Division_League"
+  ]
+ },
+ {
+  "eid": "sr:match:74058706",
+  "fx": "Tung Sing v Kui Tan SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "HK First Division; Kui Tan promoted from Division Two (won it with a perfect record).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets: amateur tier, no coverage",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Hong_Kong_First_Division_League"
+  ]
+ },
+ {
+  "eid": "sr:match:73296508",
+  "fx": "Hong Kong FC v Hong Kong Rangers",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "HKPL MW10, Hong Kong FC (3-2-5, 2.4 GA) v BC Rangers (1-3-6, 2.2 GA). Kick-off 08:30 UTC confirmed by preview.",
+  "news": "Fixture/time confirmed (16:30 HKT); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.52,
+    "p": 0.618583,
+    "why": "Two poor defences (2.4 and 2.2 GA/g), 7/10 trend O2.5, HKPL averages >3 goals; my p 0.65"
+   }
+  ],
+  "avoid": "result sides, DNB both ~50/50",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Hong_Kong_Premier_League",
+   "https://m.dongqiudi.com/en/preview/54537288"
+  ]
+ },
+ {
+  "eid": "sr:match:73576754",
+  "fx": "Arema FC v Persebaya Surabaya",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "East Java derby (Arema v Persebaya), Super League pekan 11, Kapten I Wayan Dipta 15:30 WIB (=08:30 UTC). Derby -> no result side.",
+  "news": "Schedule confirmed 15:30 WIB; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7856767374,
+    "why": "Arema home 2.4 GF/1.4 GA; 17/20 combined trend O1.5; Liga Indonesia scoring ~2.8/g; my p 0.81"
+   }
+  ],
+  "avoid": "1X2/DNB/AH (derby)",
+  "confidence": 0.25,
+  "sources": [
+   "https://radarpati.jawapos.com/sepakbola/2611270040/persib-tanpa-bobotoh-saat-hadapi-persita-ini-jadwal-lengkap-pekan-ke-11-super-league",
+   "https://sport.detik.com/sepakbola/liga-indonesia/d-8771481/hasil-super-league-bungkam-borneo-fc-persita-terus-pepet-persija",
+   "https://kaltim.antaranews.com/berita/272287/persita-taklukkan-borneo-fc-3-2-di-samarinda"
+  ]
+ },
+ {
+  "eid": "sr:match:73576756",
+  "fx": "Persita Tangerang v Persib Bandung",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Persita 2nd (21 pts) after 3-2 win at Borneo on Thu 26 Nov (3 days' rest + travel from Samarinda); Persib in form, travel without Bobotoh (away fans barred).",
+  "news": "Persita played Thursday in Samarinda; Persib fans banned from away end",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.35,
+    "p": 0.699724,
+    "why": "Persib 8-0-2 last 10, 0.7 GA; Persita on 3 days' rest after long trip; DNB covers draw; my p 0.72"
+   }
+  ],
+  "avoid": "Persib 1X2 (p 0.52 < 0.75)",
+  "confidence": 0.25,
+  "sources": [
+   "https://radarpati.jawapos.com/sepakbola/2611270040/persib-tanpa-bobotoh-saat-hadapi-persita-ini-jadwal-lengkap-pekan-ke-11-super-league",
+   "https://sport.detik.com/sepakbola/liga-indonesia/d-8771481/hasil-super-league-bungkam-borneo-fc-persita-terus-pepet-persija",
+   "https://kaltim.antaranews.com/berita/272287/persita-taklukkan-borneo-fc-3-2-di-samarinda"
+  ]
+ },
+ {
+  "eid": "sr:match:74058710",
+  "fx": "Central & Western v Sham Shui Po SA",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "HK First Division; Central & Western high-scoring (3.0 GF/2.1 GA).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets: amateur tier, no coverage",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_Hong_Kong_First_Division_League"
+  ]
+ },
+ {
+  "eid": "sr:match:75110524",
+  "fx": "FC Goa v Kerala Blasters FC",
+  "sport": "football",
+  "absences": "no news found (no confirmed injury list either side)",
+  "context": "Goa under new coach Angel Viadero, won 1-0 at NorthEast; Kerala last played 31 Oct (0-0 v Chennaiyin) - 4-week break, rust risk.",
+  "news": "Kick-off 17:00 IST agreed; venue conflict: ISL/most sources Fatorda, one preview says Atal Stadium Bambolim",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Fatorda vs Bambolim) - binding veto per protocol, though both are in Goa",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.indiansuperleague.com/matchcentre/105100",
+   "https://www.manoramaonline.com/sports/football/2026/11/26/kerala-blasters-isl-return-after-a-break.html",
+   "https://www.thetopbookies.com/betting-tips/football/fcg-vs-kbfc-29-nov-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:71945442",
+  "fx": "Udinese v Fiorentina",
+  "sport": "football",
+  "absences": "Udinese: Idrissa Gueye (ankle fracture, 3 months), Keinan Davis, Nicolo Bertola out. Fiorentina: Marin Pongracic, Fabiano Parisi, Viery out.",
+  "context": "Serie A GW13 at Dacia Arena 12:30 CET. Udinese 0-3-7 last 10 (0-0-4 at home, 0.5 GF/2.75 GA). Fiorentina 16th, 19 pts, both need points.",
+  "news": "Udinese without Gueye/Davis/Bertola; Fiorentina missing Pongracic/Parisi",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.38,
+    "p": 0.6891062408,
+    "why": "Udinese winless in 10 and lost all 4 recent home games; Davis and Gueye out removes their focal striker and midfield anchor; my p 0.72"
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.22,
+    "p": 0.797651,
+    "why": "Udinese concede 2.75/g at home, Fiorentina scored in 9 of last 10; my p 0.83"
+   }
+  ],
+  "avoid": "Fiorentina 1X2/AH -0.5 (16th, fragile)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.whoscored.com/matches/1980944/preview/italy-serie-a-2026-2027-udinese-fiorentina",
+   "https://africasoccer.com/serie-a-2026-27-udinese-host-fiorentina-with-both-sides-seeking-a-lift",
+   "https://www.playmakerstats.com/news/preview-udinese-vs-fiorentina-team-news-lineups-predictions-serie-a-29-11/1271235"
+  ]
+ },
+ {
+  "eid": "sr:match:73293376",
+  "fx": "FC Arzignano Valchiampo v AC Trento",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Serie C A MD16, 12:30 CET confirmed by Lega/TMW (=11:30 UTC). Trento 2nd (33 pts), unbeaten last 10 (7-3-0, 0.5 GA); Arzignano 24 pts, strong at home (4-1-0).",
+  "news": "Kick-off 12:30 confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.25,
+    "p": 0.752971,
+    "why": "Trento unbeaten in 10 with 0.5 GA/g, title race motivation; covers draw v strong-home Arzignano; my p 0.77"
+   }
+  ],
+  "avoid": "Trento 1X2 (p 0.48)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.tuttomercatoweb.com/serie-c/serie-c-16a-giornata-guida-completa-2297871",
+   "https://www.seriec.com/gironi/girone-a"
+  ]
+ },
+ {
+  "eid": "sr:match:72501250",
+  "fx": "Karcag SE v FC Nagykanizsai",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NB II round 15, last of the autumn half. Karcag 1-1-8, Nagykanizsa (promoted) 3-0-7.",
+  "news": "Kick-off conflict: focimagazin 13:00 CET vs Nemzeti Sport 15:00; a Szoljon piece describes a different Karcag fixture (at Diosgyor)",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict (13:00 vs 15:00) and a conflicting fixture report for Karcag",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://focimagazin.hu/2026/11/nb2-202627-15-fordulo-eredmenyek-es-golszerzok",
+   "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/07/nb-ii-2026-2027-menetrend-eredmenyek-tabella",
+   "https://www.szoljon.hu/helyi-sport/2026/11/karcagi-sc-dvtk-nb-ii-labdarugas"
+  ]
+ },
+ {
+  "eid": "sr:match:73576742",
+  "fx": "Borneo Samarinda v Persik Kediri",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Borneo 12th (11 pts/10), lost 2-3 at home to Persita on Thu 26 Nov - 3 days' rest; Persik away 1-1-3 (1.0 GF). Segiri 19:00 WIB (=12:00 UTC).",
+  "news": "Borneo lost postponed game 2-3 to Persita on Thursday; kick-off confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.24,
+    "p": 0.7580647067,
+    "why": "Persik weak away (1-1-3, 1.0 GF/g); Borneo home 2-1-1; at home despite short rest; my p 0.76"
+   }
+  ],
+  "avoid": "Borneo 1X2 / -0.5 (poor form, short rest)",
+  "confidence": 0.15,
+  "sources": [
+   "https://radarpati.jawapos.com/sepakbola/2611270040/persib-tanpa-bobotoh-saat-hadapi-persita-ini-jadwal-lengkap-pekan-ke-11-super-league",
+   "https://sport.detik.com/sepakbola/liga-indonesia/d-8771481/hasil-super-league-bungkam-borneo-fc-persita-terus-pepet-persija",
+   "https://kaltim.antaranews.com/berita/272287/persita-taklukkan-borneo-fc-3-2-di-samarinda"
+  ]
+ },
+ {
+  "eid": "sr:match:76163354",
+  "fx": "Simba SC v Orlando Pirates FC",
+  "sport": "football",
+  "absences": "Simba: CB Ismael Olivier Toure likely out. Pirates: Thapelo Mokobodi doubtful (stretchered off v Golden Arrows).",
+  "context": "CAF CL group C MD1 at Uhuru Stadium, 16:00 EAT (=13:00 UTC). Both lead their leagues; Simba 15 straight wins in all comps under Steve Barker; Pirates (Ouaddou) top PSL. Big-club clash.",
+  "news": "Toure likely out for Simba; Mokobodi doubtful for Pirates",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (big-club clash); Unders below p 0.82; O1.5 in a cagey CAF group opener",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.espn.com/espn/story/_/id/50602608/simba-orlando-pirates-kick-how-watch-caf-champions-league",
+   "https://theherald.co.za/sport/soccer/2026-11-26-pirates-prepare-for-tanzanian-lion-s-den/",
+   "https://panafricafootball.com/article/simba-orlando-pirates-champions-league"
+  ]
+ },
+ {
+  "eid": "sr:match:72302706",
+  "fx": "Ferencvarosi Budapest v Zalaegerszeg TE",
+  "sport": "football",
+  "absences": "Ferencvaros: Bero, Kovacevic, Pappoe, Otvos injured (Nov 1 report). ZTE: no news found.",
+  "context": "NB I. FTC home 4-1-1 (0.83 GA); ZTE away 1-0-3 (2.0 GA). European midweek fixture for FTC not verified.",
+  "news": "No current team news; FTC injury list from early November",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.726574,
+    "why": "ZTE 1-0-3 away conceding 2.0; FTC 7-2-1 last 10; possible European rotation unverified so modest; my p 0.74"
+   }
+  ],
+  "avoid": "FTC -1.5 (1.82); Overs (ZTE trend under)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hatharom.com/2026/11/01/ferencvarosi-tc-paks?rss=24ora",
+   "https://www.paksifc.hu/news/view/13152/nb-i/helyzetjelentes-serultjeinkrol",
+   "https://nb1.hu/hir/paks-helyzetjelentes-serules-kinyik-galambos-lenzser-tamas"
+  ]
+ },
+ {
+  "eid": "sr:match:73293380",
+  "fx": "AS Cittadella v Pro Vercelli 1892",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Serie C A MD16, 14:30 CET confirmed (one calendar said 18:00, superseded). Cittadella 3rd (32 pts) in promotion race; Pro Vercelli 18 pts, away 0-3-2 with 0.4 GF.",
+  "news": "Kick-off 14:30 confirmed by TMW guide",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.718437,
+    "why": "Pro Vercelli score 0.4/g away and are winless away in 5; Cittadella chasing the top; my p 0.72 (draw risk in low-scoring side)"
+   }
+  ],
+  "avoid": "Over 2.5 (Cittadella 1.3 GF/0.8 GA)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.tuttomercatoweb.com/serie-c/serie-c-16a-giornata-guida-completa-2297871",
+   "https://www.seriec.com/gironi/girone-a"
+  ]
+ },
+ {
+  "eid": "sr:match:73293382",
+  "fx": "Juventus Next Gen v Dolomiti Bellunesi",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Juventus Next Gen = reserve (B) side. Serie C MD16, 14:30 CET confirmed (an earlier listing said 28 Nov, superseded by TMW round guide). Dolomiti 0-2-8 last 10.",
+  "news": "Date settled as Sun 29 Nov 14:30; reserve side",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides (reserve team); goals lines not a clear enough mismatch in a low-scoring league",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tuttomercatoweb.com/serie-c/serie-c-16a-giornata-guida-completa-2297871",
+   "https://www.seriec.com/gironi/girone-a"
+  ]
+ },
+ {
+  "eid": "sr:match:72501262",
+  "fx": "Aqvital FC Csakvar v Diosgyori VTK",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "NB II round 15, last of the autumn. DVTK 6-2-2 last 10, 3-0-0 away (3.0 GF/0.67 GA); Csakvar 1-1-8 (0.7 GF/2.3 GA). Kick-off 15:00 CET agreed by both fixture sources.",
+  "news": "Kick-off 15:00 consistent; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.19,
+    "p": 0.800579,
+    "why": "DVTK promotion chasers v a side with 1 win in 10 scoring 0.7/g; DNB since away 1X2 p 0.64 < 0.75; my p 0.84"
+   }
+  ],
+  "avoid": "DVTK 1X2 / -1.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://focimagazin.hu/2026/11/nb2-202627-15-fordulo-eredmenyek-es-golszerzok",
+   "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/07/nb-ii-2026-2027-menetrend-eredmenyek-tabella",
+   "https://www.szoljon.hu/helyi-sport/2026/11/karcagi-sc-dvtk-nb-ii-labdarugas"
+  ]
+ },
+ {
+  "eid": "sr:match:75110526",
+  "fx": "East Bengal FC v Mohun Bagan Super Giant",
+  "sport": "football",
+  "absences": "East Bengal: forward Edmund Lalrindika out (shoulder); CB Lalchhungnunga struggling as Anwar's replacement.",
+  "context": "Kolkata Derby at Salt Lake (VYBK - same stadium). Last meeting MBSG 1-0 (IFA Shield, 8 Oct). Derby -> no result side. ISL scoring ~2.9/g.",
+  "news": "Lalrindika out; EB defence weak",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.811515,
+    "why": "EB conceding 1.6/g with makeshift CB pairing, MBSG scoring 3.1/g; 16/20 trend O1.5; my p 0.82"
+   }
+  ],
+  "avoid": "1X2, DNB, AH (derby)",
+  "confidence": 0.2,
+  "sources": [
+   "https://revsportz.in/east-bengal-vs-mohun-bagan-super-giant-predicted-lineups-team-news-derby-preview/",
+   "https://khelnow.com/football/indian-football-isl-three-issues-east-bengal-must-resolve-vs-mohun-bagan"
+  ]
+ },
+ {
+  "eid": "sr:match:75949160",
+  "fx": "AL Julan v Erbil SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Iraq Stars League; Al Julan home 2-1-2, Erbil drawish (2-5-3, 0.9 GA).",
+  "news": "no news found; fixture not located in search",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: no news, low-information",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futbol24.com/national/Iraq/Iraq-Stars-League/2026-2027",
+   "https://www.flashscoreusa.com/soccer/iraq/stars-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:75949158",
+  "fx": "AL Karkh v Al Zawraa",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Iraq Stars League; Al Zawraa away 1-1-2 (0.75 GF).",
+  "news": "no news found; fixture not located in search",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Zawraa DNB at 1.36 (weak away form)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futbol24.com/national/Iraq/Iraq-Stars-League/2026-2027",
+   "https://www.flashscoreusa.com/soccer/iraq/stars-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:71945438",
+  "fx": "Sassuolo v Napoli",
+  "sport": "football",
+  "absences": "Sassuolo: Ismael Kone, Fedde Leysen, Daniel Boloca, Vasilije Adzic out; Volpato, Bakola doubtful. Napoli: Meret, Buongiorno, Di Lorenzo (back in training, may not be risked), Lobotka, Badiashile, Vergara, Alisson Santos out; De Bruyne reported out (muscle fatigue). Rafa Marin suspended in Europe only.",
+  "context": "Serie A GW13 at Mapei. Sassuolo 1-2-7 last 10, conceding 2.8/g (3.0 at home). Napoli in UCL (heavy absences, rotation possible).",
+  "news": "Napoli without De Bruyne, Lobotka, Di Lorenzo, Buongiorno; Hojlund leads the line",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.2,
+    "p": 0.801764,
+    "why": "Sassuolo lost 7 of 10 and concede 2.8/g; Napoli absences cap the margin but not the floor; my p 0.80"
+   }
+  ],
+  "avoid": "Napoli -1/-1.5 (depleted, rotation); Napoli 1X2 at 1.70",
+  "confidence": 0.25,
+  "sources": [
+   "https://football-italia.net/sassuolo-v-napoli-probable-line-ups-watch-tv/",
+   "https://www.sportsmole.co.uk/football/sassuolo/preview/sassuolo-vs-napoli-prediction-team-news-lineups_610038.html",
+   "https://www.forebet.com/en/football-match-previews/32677-napoli-aim-to-extend-sassuolos-woes-at-mapei-stadium-clash"
+  ]
+ },
+ {
+  "eid": "sr:match:72302702",
+  "fx": "Paksi FC v Puskas Akademia FC Felcsut",
+  "sport": "football",
+  "absences": "Paks: Bevardi, Bode, Kuzma reported injured; Kozma back via NB III, Kinyik returned. Puskas: no news found.",
+  "context": "NB I. Puskas Akademia 5-0-1 away (2.33 GF/0.67 GA); Paks home 2-0-2.",
+  "news": "Paks missing striker Bode among others",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.72,
+    "p": 0.5168016486,
+    "why": "Puskas 5 away wins in 6; Paks attack weakened without Bode; my p 0.57"
+   }
+  ],
+  "avoid": "Paks 1X2 / Home or Draw",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hatharom.com/2026/11/01/ferencvarosi-tc-paks?rss=24ora",
+   "https://www.paksifc.hu/news/view/13152/nb-i/helyzetjelentes-serultjeinkrol",
+   "https://nb1.hu/hir/paks-helyzetjelentes-serules-kinyik-galambos-lenzser-tamas"
+  ]
+ },
+ {
+  "eid": "sr:match:76163238",
+  "fx": "Atletico Petroleos de Luanda v FC Nouadhibou",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "CAF CL MD1 at Estadio 11 de Novembro, Luanda. Petro home 5-1-0 (0.17 GA); Nouadhibou away 0-3-2 (0.4 GF).",
+  "news": "Venue Luanda confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.722494,
+    "why": "Nouadhibou score 0.4/g away and won none of 5; Petro concede 0.17/g at home; my p 0.74"
+   }
+  ],
+  "avoid": "Petro -1.5 (low-scoring, 20% O2.5 trend)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.cafonline.com/caf-champions-league/news/african-giants-begin-totalenergies-caf-champions-league-202627-group-stage-campaigns-this-weekend/",
+   "https://www.espn.com/soccer/schedule/_/league/caf.champions",
+   "https://sportnewsafrica.com/en/fixtures/caf-champions-league/",
+   "https://afreeque.com/en/football/match/petro-de-luanda-fc-nouadhibou-2026-11-29"
+  ]
+ },
+ {
+  "eid": "sr:match:76163408",
+  "fx": "AL Ahly SC (EGY) v Primeiro de Agosto",
+  "sport": "football",
+  "absences": "Al Ahly sacked coach Houcine Ammouta and staff 5 days before the game; Samy Komsan interim (5 matches). Squad news: none found.",
+  "context": "CAF Confederation Cup group MD1 at Cairo International, 16:00 GMT (CAF). One aggregator (ysscores) lists Fri 27 Nov - outlier against CAF's own listing.",
+  "news": "Coach Ammouta sacked; interim Komsan; date settled by CAF as 29 Nov",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: coaching upheaval, minor date discrepancy, Al Ahly handicaps priced on reputation (O2.5 trend 0.45 v p 0.67)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.cafonline.com/caf-confederation-cup/news/al-ahly-raja-and-defending-champions-usm-alger-headline-totalenergies-caf-confederation-cup-group-stage-kick-off/",
+   "https://www.ysscores.com/en/match/75487988/Al-Ahly-FC-vs-CD-1%C2%BA-de-Agosto",
+   "https://africasoccer.com/primeiro-de-agosto-coach-felipe-nzanza-confident-of-positive-result-against-al-ahly/"
+  ]
+ },
+ {
+  "eid": "sr:match:75949162",
+  "fx": "AL Naft Maysan v Al Shorta SC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Iraq Stars League; fixture listed 29 Nov 17:30 (CET = 16:30 UTC, matches board). Al Shorta 4-5-1 (0.9 GA); Naft Maysan 1-2-7 (0.7 GF).",
+  "news": "Fixture confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.34,
+    "p": 0.700991,
+    "why": "Naft Maysan 1 win in 10, 0.7 GF/g; Al Shorta lose rarely (1 in 10); DNB covers Iraq draw rate; my p 0.74"
+   }
+  ],
+  "avoid": "Shorta 1X2 (p 0.52)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.futbol24.com/national/Iraq/Iraq-Stars-League/2026-2027",
+   "https://www.flashscoreusa.com/soccer/iraq/stars-league/",
+   "https://www.betexplorer.com/football/iraq/stars-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:75949152",
+  "fx": "Duhok FC v Diyala FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Iraq Stars League; Duhok home 3-2-0 (2.4 GF/1.0 GA); Diyala away 1-2-4 (0.71 GF).",
+  "news": "no news found; fixture not located in search",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.7739473412,
+    "why": "Duhok unbeaten at home in 5; Diyala score 0.71/g away; my p 0.80"
+   }
+  ],
+  "avoid": "Overs (low-scoring league)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futbol24.com/national/Iraq/Iraq-Stars-League/2026-2027",
+   "https://www.flashscoreusa.com/soccer/iraq/stars-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:71945436",
+  "fx": "Roma v Monza",
+  "sport": "football",
+  "absences": "Roma: Lorenzo Pellegrini, Devyne Rensch (and Bah per one source) out; Balerdi may recover (ankle). Monza: Folorunsho, Maye, Ngonge set to miss (one source: doubts), Ciurria injured; Pessina back.",
+  "context": "Serie A GW13, Olimpico 17:00 local. Roma home 4-0-1 (3.2 GF); Monza away 0-1-4 (2.6 GA). Possible Roma European midweek not verified.",
+  "news": "Roma without Pellegrini/Rensch; Monza missing Folorunsho, Maye, Ngonge",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.806854,
+    "why": "Monza lost 4 of 5 away conceding 2.6/g and missing three regulars; Roma 3.2 GF/g at home; my p 0.81"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.34,
+    "p": 0.716617,
+    "why": "18/20 combined last-10 games O2.5; Monza away 2.6 GA; my p 0.74"
+   }
+  ],
+  "avoid": "Roma -1.5/-2 (rotation unknown)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/roma/preview/roma-vs-monza-prediction-team-news-lineups_610014.html",
+   "https://www.thestatszone.com/roma-vs-monza-preview-team-news-prediction-241584"
+  ]
+ },
+ {
+  "eid": "sr:match:72936148",
+  "fx": "AEK Athens v PAOK",
+  "sport": "football",
+  "absences": "AEK: Marko Nikolic suspended (FotMob), Kervin Arriaga (collarbone) and Oleksandr Zubkov (leg) injured. PAOK: Ndiaye and Elustondo missed training (illness); Pelkas, Jakic treated; Soretire, Monastirlis, Taylor, Chalov individual work.",
+  "context": "Big-club clash, Super League, 19:00 UTC. AEK home 3-0-1; PAOK 7-1-2 last 10.",
+  "news": "PAOK illness doubts (Ndiaye, Elustondo); AEK without Arriaga, Zubkov, Nikolic",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (big-club clash); O1.5 (Greek league < 2.7 g/g); Unders below 0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.newsminimalist.com/articles/paok-faces-double-injury-blow-ahead-of-aek-derby-ebce5002",
+   "https://www.fotmob.com/matches/aek-athens-vs-paok-thessaloniki/2fw6bg"
+  ]
+ },
+ {
+  "eid": "sr:match:77172670",
+  "fx": "AL Hilal (SDN) v Horoya AC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "CAF CL MD1, CAF lists 19:00 GMT. Venue disputed: ESPN/most say Amahoro Stadium Kigali (Al Hilal's exile venue); SportNewsAfrica says Al Hilal Stadium, Omdurman.",
+  "news": "Venue conflict Kigali vs Omdurman",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Kigali vs Omdurman)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cafonline.com/caf-champions-league/news/african-giants-begin-totalenergies-caf-champions-league-202627-group-stage-campaigns-this-weekend/",
+   "https://www.espn.com/soccer/schedule/_/league/caf.champions",
+   "https://sportnewsafrica.com/en/fixtures/caf-champions-league/",
+   "https://allafrica.com/stories/202611270184.html"
+  ]
+ },
+ {
+  "eid": "sr:match:71945428",
+  "fx": "Como 1907 v Juventus",
+  "sport": "football",
+  "absences": "Como: Moise Kean, Jesus Rodriguez, Willy Kambwala out; Addai and Diao fitness tests; Caqueret strong doubt. Juventus: Kenan Yildiz, Khephren Thuram, Manuel Locatelli out; Nico Gonzalez doubt; Alajbegovic and Kalulu may be on the bench.",
+  "context": "Serie A GW13, Sinigaglia 19:45 UTC. Como 5-0-0 at home (0.2 GA). Big-club clash.",
+  "news": "Kean out for Como; Juve without Yildiz, Thuram, Locatelli",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (big-club clash); Unders below 0.82; Over 2.5 with both attacks depleted",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/como/preview/como-vs-juventus-prediction-team-news-lineups_610031.html",
+   "https://khelnow.com/football/como-vs-juventus-preview-serie-a-202611"
+  ]
+ }
+]

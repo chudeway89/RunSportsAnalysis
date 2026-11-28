@@ -1,0 +1,594 @@
+[
+ {
+  "eid": "sr:match:76045128",
+  "fx": "Incheon United FC v Gangwon FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "K League 1 late-season round (Nov 29, likely final rounds; motivation unclear). Incheon unbeaten at home in last 5 (4-1-0, 2.2 gf); Gangwon 0-1-2 away; H2H 1-1, 0-0.",
+  "news": "no news found for this date; only older previews",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "1X2 mid-band; Under 3.5 p0.81 below the 0.82 Under gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportsgambler.com/betting-tips/football/gangwon-vs-incheon-united-prediction-lineups-odds-2026-10-18/",
+   "https://www.nowgoal.com/article/13746"
+  ]
+ },
+ {
+  "eid": "sr:match:72334448",
+  "fx": "FC Orenburg v Rodina Moscow",
+  "sport": "football",
+  "absences": "Conflicting: one injury page lists Orenburg defenders Jhon Palacios and Aleksei Tataev (2nd-yellow entries) and Rodina's Yordy Reyna (yellow-card ban); two previews say no significant absences",
+  "context": "RPL round 16 at Gazovik Stadium. Orenburg 6-2-2 last 10, 4-1-1 at home; promoted Rodina 1-0-5 away, conceding 2.17 per away game.",
+  "news": "No confirmed major absences; minor suspension-list conflict (Palacios/Tataev/Reyna)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.27,
+    "p": 0.7478,
+    "why": "Rodina's away record (1-0-5, 0.83:2.17) against an Orenburg side unbeaten in 5 of 6 at home; own p 0.77. Stats-led, a fill leg."
+   },
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.18,
+    "p": 0.8158,
+    "why": "Orenburg to score: Rodina conceded in 5 of 6 away games (2.17 per game); own p 0.84."
+   }
+  ],
+  "avoid": "Over 2.5 (Orenburg home games low: 1-0, 0-2, 0-0, 2-1)",
+  "confidence": 0.2,
+  "sources": [
+   "https://futbolpressa.ru/news/fc-orenburg-vs-rodina-moskva-prognoz-stavki",
+   "https://www.sportsgambler.com/injuries/football/russia-premier-league/",
+   "https://dailystar.com.lb/fc-orenburg-vs-rodina-moskva-prediction-29-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72939250",
+  "fx": "Louletano DC v UD Oliveirense",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga 3 Portugal regular round; Oliveirense away 1-3-1.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; mid-band prices, no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://resultados.fpf.pt/Competition/Details?competitionId=20340&seasonId=101"
+  ]
+ },
+ {
+  "eid": "sr:match:72578470",
+  "fx": "FK Veles Moscow v FK Ufa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "First League round 20 at Avangard Domodedovo, 14:00 MSK (11:00 UTC, matches board). Veles 2-4-4, Ufa 1-4-5 (0-1-3 away, 0.5 gf).",
+  "news": "Kick-off and round confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 p0.80 below gate; 1X2 mid-band",
+  "confidence": 0.15,
+  "sources": [
+   "https://betonmobile.ru/match-fk-veles-ufa-2026-11-29",
+   "https://stavka.tv/matches/soccer/29-11-2026-veles-moscow-ufa"
+  ]
+ },
+ {
+  "eid": "sr:match:72578458",
+  "fx": "Leningradets v FC Volga Ulyanovsk",
+  "sport": "football",
+  "absences": "none found",
+  "context": "First League round 20, 14:00 MSK at Roshchino Arena (matches board 11:00 UTC). Leningradets lost 0-2 at Chelyabinsk last round; Volga 6-2-2 last 10.",
+  "news": "Date/time consistent; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides mid-band",
+  "confidence": 0.15,
+  "sources": [
+   "https://betonmobile.ru/match-leningradec-volga-ulyanovsk-2026-11-29",
+   "https://www.sports.ru/football/1117449946-liga-pari-torpedo-primet-ska-xabarovsk-sochi-sygraet-s-arsenalom-v-pon.html",
+   "https://sport.rambler.ru/football/57469275-chelyabinsk-obygral-leningradets-v-pervoy-lige/"
+  ]
+ },
+ {
+  "eid": "sr:match:72578460",
+  "fx": "FC Neftekhimik Nizhnekamsk v FC Nizhny Novgorod",
+  "sport": "football",
+  "absences": "none found",
+  "context": "League leader Pari NN (9-0-1 last 10, 3.2 gf, 4-0-0 away) at Neftekhimik (1-2-7 last 10). Neftekhimik played and beat Rotor on Wed Nov 25 (midweek congestion for the home side).",
+  "news": "Neftekhimik host leader Pari NN after a midweek win over Rotor",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.8086,
+    "why": "Leader Pari NN at a 1-2-7 side that played Wednesday; DNB removes the draw. Own p 0.83."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.62 < 0.75); Away -1",
+  "confidence": 0.25,
+  "sources": [
+   "https://lenta.ru/news/2026/11/25/neftehimik-obygral-rotor-v-matche-pervoy-ligi/",
+   "https://betonmobile.ru/match-neftehimik-pari-nn-2026-11-29"
+  ]
+ },
+ {
+  "eid": "sr:match:72578464",
+  "fx": "SK Rotor Volgograd v FC Kamaz Naberezhnye Chelny",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Round 20 at Volgograd Arena, 15:00 MSK (12:00 UTC, matches board); club celebration match. Rotor return home after losing at Neftekhimik on Nov 25 (midweek). Rotor draw-heavy (2-5-3).",
+  "news": "Venue confirmed Volgograd (one early Lenta line implied away, resolved by several local sources)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; draw-heavy home side, no mechanism",
+  "confidence": 0.15,
+  "sources": [
+   "https://v102.ru/news/166945.html",
+   "https://volgograd-trv.ru/news/obschestvo/118050-dopolnitelnye-rejsy-sdelajut-jelektrichki-v-den-matcha-rotor-kamaz-v-volgograde.html",
+   "https://lenta.ru/news/2026/11/25/neftehimik-obygral-rotor-v-matche-pervoy-ligi/"
+  ]
+ },
+ {
+  "eid": "sr:match:72334444",
+  "fx": "FK Rostov v FK Krasnodar",
+  "sport": "football",
+  "absences": "Rostov: Ignatov, Zhbanov out; Igor Nogueira doubtful (cold); Melekhin and Prokhin back from bans. Krasnodar: Douglas Augusto (hip) and Zhubal out, Bosselli and Krivtsov injured",
+  "context": "Southern derby, RPL round 16; no suspensions. Rostov 6-2-2, 4-0-1 at home (2.4 gf); Krasnodar missing two centre-backs/midfielders.",
+  "news": "Krasnodar without Douglas Augusto, Zhubal, Krivtsov; Rostov regain Melekhin and Prokhin",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "derby: no result-side or catch; Krasnodar +1 is a result catch",
+  "confidence": 0.2,
+  "sources": [
+   "https://news.mail.ru/society/73266341/",
+   "https://stavka.tv/matches/soccer/29-11-2026-rostov-krasnodar",
+   "https://metaratings.ru/prognozy/futbol/rostov-krasnodar-prognoz-na-match-rpl-29-noyabrya-2026-goda/",
+   "https://sport.rambler.ru/football/57497460-rpl-2026-2027-raspisanie-16-go-tura-intrigi-tsska-zenit-rostov-krasnodar-fakel-spartak-loko-dinamo-mh/"
+  ]
+ },
+ {
+  "eid": "sr:match:73374586",
+  "fx": "Al-Shamal v Al Rayyan SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "QSL: leader Al Rayyan (7-2-1, 2.67 gf away) at 6th-placed Al Shamal (home games 2.6:2.0). Al Rayyan beat Al Shahaniya 5-3 on Nov 21. Official QSL lists 29 Nov 16:00 local (=13:00 UTC, matches board); other listings give other times and one shows a 'Postp.' Dec 2 entry.",
+  "news": "Official date matches the board; aggregator time and postponement entries conflict (flag data_conflict)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.44,
+    "p": 0.6598,
+    "why": "Al Rayyan away games 5-3, 4-3, 4-1; Al Shamal home 2.6:2.0; high-scoring QSL. Own p 0.69. Recheck the fixture status before posting."
+   }
+  ],
+  "avoid": "result-sides",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.qsl.qa/en",
+   "https://www.livesoccertv.com/teams/qatar/al-rayyan-sc/",
+   "https://eaglepredict.com/predictions/match/al-shahaniya-vs-al-rayyan-prediction-stars-league-21-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72388122",
+  "fx": "ASC Otelul Galati v FC Uta Arad",
+  "sport": "football",
+  "absences": "UTA: defender Andrei Dorobantu (sprain, not travelling); Papeau misses the Galati trip",
+  "context": "Otelul winless in 10 (0-4-6); UTA 1-0-3 away (0.75:2.0). UTA in an Otelul–Rapid 'double'.",
+  "news": "UTA without Dorobantu and Papeau at Galati",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "both sides poor; Otelul DNB 1.69 mid-band, no edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://sportarad.ro/2026/11/26/uta-tot-fara-dorobantu-in-dubla-otelul-rapid-papeau-lipseste-doar-pe-dunare-ne-reduce-bagajul-tehnic",
+   "https://lpf.ro/cluburi/sc-otelul-galati/34/rezultate"
+  ]
+ },
+ {
+  "eid": "sr:match:72578466",
+  "fx": "Spartak Kostroma v FC Chelyabinsk",
+  "sport": "football",
+  "absences": "none found",
+  "context": "First League round 20. Venue/time conflict: futbolpressa says Urozhay stadium Kostroma, Chelyabinsk's club calendar says Arena Khimki at 19:00; odds.ru says 17:00 MSK (14:00 UTC, as on the board).",
+  "news": "Venue and kick-off conflict between sources",
+  "veto": true,
+  "veto_reason": "venue conflict (Kostroma v Khimki) and kick-off conflict (17:00 v 19:00 MSK)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolpressa.ru/news/spartak-kostroma-chelyabinsk-bittva-pervaya-liga",
+   "https://fc-chel.ru/matches/calendar/?time=future",
+   "https://odds.ru/football/match/fc-chelyabinsk-vs-spartak-kostroma/4288-12288/"
+  ]
+ },
+ {
+  "eid": "sr:match:72334442",
+  "fx": "PFK Krylia Sovetov Samara v FK Dinamo Moscow",
+  "sport": "football",
+  "absences": "none found",
+  "context": "RPL round 16. Dinamo Moscow 1st on 32 pts (7-1-2 last 10); Krylia 3-2-5, 1.0 gf at home.",
+  "news": "Dinamo arrive as league leaders; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.41,
+    "p": 0.6786,
+    "why": "League leader v a home side scoring 1.0 per game; DNB protects the draw. Own p 0.70. Stats-led, a fill leg."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.51 < 0.75)",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolpressa.ru/news/krylia-sovetov-vs-dynamo-prognozy-sostavov"
+  ]
+ },
+ {
+  "eid": "sr:match:72939246",
+  "fx": "Atletico Clube de Portugal v Lusitano GC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga 3: Atletico CP 8-1-1 last 10 and 6-0-0 at home (2.67:0.67); Lusitano 2-4-4, 0.4 gf away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.7335,
+    "why": "Perfect home record (6-0-0) v a side scoring 0.4 away; own p 0.77."
+   }
+  ],
+  "avoid": "Overs (Lusitano away games low)",
+  "confidence": 0.2,
+  "sources": [
+   "https://resultados.fpf.pt/Competition/Details?competitionId=20340&seasonId=101"
+  ]
+ },
+ {
+  "eid": "sr:match:72939244",
+  "fx": "Caldas SC v CF Os Belenenses",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga 3: Belenenses 4-1-0 away; Caldas 1-2-3 at home.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "away result-sides; statistics only",
+  "confidence": 0.1,
+  "sources": [
+   "https://resultados.fpf.pt/Competition/Details?competitionId=20340&seasonId=101"
+  ]
+ },
+ {
+  "eid": "sr:match:72939248",
+  "fx": "GD Vitoria Sernache v CD Mafra",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga 3: Sernache 1.0:1.0 games, Mafra high-scoring.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://resultados.fpf.pt/Competition/Details?competitionId=20340&seasonId=101"
+  ]
+ },
+ {
+  "eid": "sr:match:72939068",
+  "fx": "SC Sao Joao de Ver v Leca FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga 3: Leca 6-1-3; Sao Joao de Ver 2-3-5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://resultados.fpf.pt/Competition/Details?competitionId=20340&seasonId=101"
+  ]
+ },
+ {
+  "eid": "sr:match:72939072",
+  "fx": "SC Vianense v AD Fafe",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga 3: evenly priced.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://resultados.fpf.pt/Competition/Details?competitionId=20340&seasonId=101"
+  ]
+ },
+ {
+  "eid": "sr:match:72939066",
+  "fx": "Vitoria Guimaraes B v Uniao SC Paredes",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga 3: Vitoria Guimaraes B is a reserve side; Paredes 8-1-1.",
+  "news": "no news found; reserve side",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side: no result-sides; not a clear goals mismatch",
+  "confidence": 0.1,
+  "sources": [
+   "https://resultados.fpf.pt/Competition/Details?competitionId=20340&seasonId=101"
+  ]
+ },
+ {
+  "eid": "sr:match:73206914",
+  "fx": "AD Ponte Da Barca v CD Celoricense",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Campeonato de Portugal Serie A (amateur). Forebet lists 29/11 16:00; the regional round listing (MDB) dates Serie A round 9 to 28/11/2026.",
+  "news": "Date conflict for the Serie A round (28 v 29 Nov)",
+  "veto": true,
+  "veto_reason": "date conflict: round 9 dated 28/11 by the MDB round listing v 29/11 on the board",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.forebet.com/en/football-tips-and-predictions-for-portugal",
+   "https://www.mdb.pt/noticia/campeonato-de-portugal-serie-resultados-classificacao-e-proxima-jornada-96"
+  ]
+ },
+ {
+  "eid": "sr:match:73206924",
+  "fx": "Brito SC v FC Vinhais",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Campeonato de Portugal Serie A (amateur). Vinhais 0-0-10, conceding 3.3 (4.0 away). Same date conflict for the round.",
+  "news": "Date conflict for the Serie A round (28 v 29 Nov)",
+  "veto": true,
+  "veto_reason": "date conflict: round 9 dated 28/11 by the MDB round listing v 29/11 on the board",
+  "picks": [],
+  "avoid": "all (would otherwise be a Brito goals mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.forebet.com/en/football-tips-and-predictions-for-portugal",
+   "https://www.mdb.pt/noticia/campeonato-de-portugal-serie-resultados-classificacao-e-proxima-jornada-96"
+  ]
+ },
+ {
+  "eid": "sr:match:73207478",
+  "fx": "UD Sousense v Florgrade FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Campeonato de Portugal (amateur). Listed 29/11 by Forebet; Sousense winless in 9.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur competition, no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.forebet.com/en/football-tips-and-predictions-for-portugal"
+  ]
+ },
+ {
+  "eid": "sr:match:72874690",
+  "fx": "SL Benfica v FC Alverca",
+  "sport": "football",
+  "absences": "n/a (youth)",
+  "context": "U19 national championship, youth fixture. Benfica U19 3-0-0 at home with 4.0 gf.",
+  "news": "youth fixture; no date/venue conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth: no result-sides; only O/U 3.5 offered, Over 3.5 at 2.1 is not a clear edge",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72201734",
+  "fx": "Heart of Midlothian FC v Celtic",
+  "sport": "football",
+  "absences": "Hearts: Calvin Miller (knee) doubtful, Stephen Kingsley (hamstring) late fitness test. Celtic: one doubt reported (ankle)",
+  "context": "Tynecastle, Sun 29 Nov 15:00, as on the board. Celtic 1st on 34 pts, Hearts 4th on 23. Hearts played on Thursday (Spittal came off the bench at half-time), so they are on a short turnaround; Celtic's midweek schedule was not confirmed. Hearts 0-2-3 at home, conceding 2.6.",
+  "news": "Hearts sweat on Kingsley and Miller; Celtic top after a Thursday game",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "big-club clash: no result-side; big-club totals need p>=0.82 (Over 2.5 p 0.64)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.celticnewsnow.com/news/hearts-v-celtic-tv-channel-29-november-2026/747251/",
+   "https://www.freetips.com/football/hearts-vs-celtic-predictions-20261127-0034/",
+   "https://thecelticbhoys.com/hearts-vs-celtic-scottish-premiership-preview-predictions-team-news-tv-channel-and-live-stream"
+  ]
+ },
+ {
+  "eid": "sr:match:73374592",
+  "fx": "Qatar SC v Al Shahaniya",
+  "sport": "football",
+  "absences": "none found",
+  "context": "QSL, 18:30 local (15:30 UTC) at Suhaim Bin Hamad, matching the board. Qatar SC near the bottom (2-3-5); Al Shahaniya lower half, conceding 2.5 per game (5-3 loss to Al Rayyan on Nov 21).",
+  "news": "Time and venue confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.5,
+    "p": 0.632,
+    "why": "Shahaniya's games: 3-5, 0-4, 0-6, 2-3 style scores, and they concede 2.5 per game; QSL is a high-scoring league. Own p 0.66."
+   }
+  ],
+  "avoid": "result-sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.qsl.qa/en",
+   "https://eaglepredict.com/predictions/match/al-shahaniya-vs-al-rayyan-prediction-stars-league-21-11-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72939252",
+  "fx": "UD Santarem v SC Covilha",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga 3: Santarem 4-1-2 at home (2.14 gf, two clean wins 3-0, 5-0); Covilha winless in 10 (0-4-6, 0.6 gf).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.21,
+    "p": 0.7758,
+    "why": "Covilha have won none of 10 and score 0.6 per game; own p 0.80."
+   }
+  ],
+  "avoid": "Overs",
+  "confidence": 0.2,
+  "sources": [
+   "https://resultados.fpf.pt/Competition/Details?competitionId=20340&seasonId=101"
+  ]
+ },
+ {
+  "eid": "sr:match:73206920",
+  "fx": "SC Maria da Fonte v FC Tirsense",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Campeonato de Portugal Serie A (amateur). The MDB round listing names SC Maria da Fonte v FC Tirsense in round 9 dated 28/11/2026; the board says 29/11 16:00.",
+  "news": "Date conflict: listed for 28 Nov by the regional round listing",
+  "veto": true,
+  "veto_reason": "date conflict: MDB lists this exact fixture for 28/11/2026",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mdb.pt/noticia/campeonato-de-portugal-serie-resultados-classificacao-e-proxima-jornada-96"
+  ]
+ },
+ {
+  "eid": "sr:match:72334450",
+  "fx": "Lokomotiv Moscow v FC Dynamo-Makhachkala",
+  "sport": "football",
+  "absences": "none listed",
+  "context": "Relegation six-pointer at RZD Arena: Lokomotiv 13th (14 pts after 15), Makhachkala 12th (17). Lokomotiv 0-2-4 at home, so the house's home p 0.51 looks generous; Makhachkala 0.25 gf away.",
+  "news": "Both sides in the relegation fight; preview predicts 1-1",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides (home form contradicts the price); Unders below gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolpressa.ru/news/lokomotiv-vs-dinamo-makhachkala-prognoz-sostavov",
+   "https://sport.rambler.ru/football/57497460-rpl-2026-2027-raspisanie-16-go-tura-intrigi-tsska-zenit-rostov-krasnodar-fakel-spartak-loko-dinamo-mh/"
+  ]
+ },
+ {
+  "eid": "sr:match:72531024",
+  "fx": "Gil Vicente Barcelos v Estoril Praia",
+  "sport": "football",
+  "absences": "Estoril: Xeka, Sanchez and Amissah suspended (red cards v Felgueiras). Gil Vicente: Fabricio Garcia and Isra Salazar (ACL) out, Elimbi close to return, Tchaptchet doubt",
+  "context": "Gil Vicente 7th; Estoril winless in 5 (1-1-8 last 10, 2.1 conceded). Sun 29 Nov 18:00 (the Indonesian 30 Nov date is a time-zone shift, not a conflict).",
+  "news": "Estoril lose three players to suspension; winless in five",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.37,
+    "p": 0.7046,
+    "why": "Named mechanism: Estoril without three suspended players (Xeka, Sanchez, Amissah) and winless in 5; DNB covers the draw. Own p 0.75."
+   }
+  ],
+  "avoid": "Estoril Under 1.5 (an Under below the 0.82 gate)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/gil-vicente/preview/gil-vicente-vs-estoril-prediction-team-news-lineups_610041.html",
+   "https://thefootballfaithful.com/gil-vicente-vs-estoril-prediction-betting-tips-29-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72388118",
+  "fx": "Rapid Bucuresti 1923 v FC Botosani",
+  "sport": "football",
+  "absences": "none found for this date",
+  "context": "Rapid 7-2-1 last 10 and 5-0-0 at home (2.0:0.2); Botosani 0-2-3 away.",
+  "news": "no news found for this fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.787,
+    "why": "Rapid have won all 5 home games, conceding 1 goal; Botosani winless away. Own p 0.81."
+   }
+  ],
+  "avoid": "Rapid -1 / -1.5 (home wins mostly by 1: 1-0, 2-0)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.flashscore.ro/stiri/fotbal-superliga-live-fc-botosani-rapid-echipele-de-start/2y1WvQBT/"
+  ]
+ },
+ {
+  "eid": "sr:match:72531030",
+  "fx": "Porto v Sporting",
+  "sport": "football",
+  "absences": "Porto: Chris Smalling, Gabriel Mec and Vasco Sousa out (training apart). Sporting: no news found",
+  "context": "O Classico at the Dragao, Sun 29 Nov. Both sides in strong form (Porto 8-0-2, Sporting 7-1-2). Midweek schedules not checked.",
+  "news": "Porto three short for the Classico",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "big-club derby: no result-side; totals need p>=0.82",
+  "confidence": 0.2,
+  "sources": [
+   "https://diadejogo.pt/noticias/fc-porto-chega-ao-classico-com-tres-no-boletim-clinico-2026-11-26",
+   "https://pt.soccerway.com/noticias/futebol-liga-portugal-betclic-fc-porto-arranca-preparacao-para-o-classico-com-tres-lesionados/K4ZaGp6t"
+  ]
+ }
+]

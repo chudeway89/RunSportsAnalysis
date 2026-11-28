@@ -1,0 +1,584 @@
+[
+ {
+  "eid": "sr:match:75448420",
+  "fx": "Polokwane City v Durban City",
+  "sport": "football",
+  "absences": "n/a (reserve/U23 league)",
+  "context": "DStv Diski Challenge = PSL reserve/U23 league. Durban City reserves lost 2-1 to Pirates reserves on 21 Nov; Durban had only one win in first six.",
+  "news": "Reserve fixture; Flashscore shows it both as Polokwane U23 v Durban U23 and as Durban City U23 v Polokwane U23 on 29/11 (home/venue conflict); SuperSport schedule unconfirmed.",
+  "veto": true,
+  "veto_reason": "Reserves (hard-excluded) plus home/venue conflict between Flashscore listings.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.co.za/soccer/south-africa/diski-challenge/",
+   "https://supersport.com/football/tour/dstv-diski-challenge/fixtures",
+   "https://www.kickoff.com/psl/dstv-diski-challenge/dstv-diski-challenge-wrap-01-november-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72579170",
+  "fx": "Zemplin Michalovce v Tatran Presov",
+  "sport": "football",
+  "absences": "n/a (U19)",
+  "context": "Slovak U19 1. liga youth fixture.",
+  "news": "no news found (youth fixture; no date conflict found)",
+  "veto": true,
+  "veto_reason": "Youth U19 - hard-excluded class; no clear goals mismatch in the board prices.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73760502",
+  "fx": "CD Guadalajara v CD Atletico Paso",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; Group 5 Jornada 13 on 29/11/2026 confirmed by RFEF calendar. Atletico Paso (La Palma) travel from the Canaries; away concede 2.4/game over last 5.",
+  "news": "Fixture date confirmed by RFEF Group V calendar; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7744,
+    "why": "Guadalajara home DNB: Paso away defence 2.4 GA/5 aways and long island travel; draw voids. Own p ~0.77 (=house); fill only, no named mechanism."
+   }
+  ],
+  "avoid": "Overs (regional tier), Away sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_v.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72507610",
+  "fx": "CF Intercity v SCR Pena Deportiva",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; Group 3. Pena Deportiva (Ibiza) in poor form: 2-1-7 last 10, 0.8 GF.",
+  "news": "livefutbol lists Intercity v Pena Deportiva 29.11.2026 11:30 local (=10:30 UTC, matches board), though labelled Jornada 13 elsewhere; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.7553,
+    "why": "Intercity home DNB v a Pena side scoring 0.8/game and 2-1-7 in last 10; own p ~0.77 vs house 0.755. Stats-only fill."
+   }
+  ],
+  "avoid": "Unders/Overs (regional tier), Pena result-sides",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livefutbol.com/match-report/co6511/espana-segunda-federacion-grupo-3/ma12211075/cf-intercity_pena-deportiva/head-to-head/",
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_iii.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72507614",
+  "fx": "Club Deportiva Minera v Valencia CF Mestalla",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; fixture involves a reserve (B/filial) side: Minera v Valencia Mestalla. Filial squads change with first-team call-ups.",
+  "news": "no news found; no date/venue conflict found",
+  "veto": true,
+  "veto_reason": "Reserve/filial side involved - hard-excluded class; no clear goals mismatch.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_iii.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72508616",
+  "fx": "Sevilla Atletico v CD Don Benito",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; fixture involves a reserve (B/filial) side: Sevilla Atletico v Don Benito. Filial squads change with first-team call-ups.",
+  "news": "no news found; no date/venue conflict found",
+  "veto": true,
+  "veto_reason": "Reserve/filial side involved - hard-excluded class; no clear goals mismatch.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_v.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72507608",
+  "fx": "UD Castellonense v Elche Ilicitano CF",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; fixture involves a reserve (B/filial) side: Castellonense v Elche Ilicitano. Filial squads change with first-team call-ups.",
+  "news": "no news found; no date/venue conflict found",
+  "veto": true,
+  "veto_reason": "Reserve/filial side involved - hard-excluded class; no clear goals mismatch.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_iii.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72579166",
+  "fx": "MFK Ruzomberok v Slovan Bratislava",
+  "sport": "football",
+  "absences": "n/a (U19)",
+  "context": "Slovak U19 1. liga youth fixture.",
+  "news": "no news found (youth fixture; no date conflict found)",
+  "veto": true,
+  "veto_reason": "Youth U19 - hard-excluded class; no clear goals mismatch in the board prices.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72508614",
+  "fx": "Marbella FC v RC Recreativo de Huelva",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; Group 4. Recreativo (5-3-2, 2.9 GF incl. a 7-0) away at Marbella (0.7 GF/0.6 GA, tight low-scoring side).",
+  "news": "no news found; matchday dated 29/11/2026 by RFEF calendars, no conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (regional tier ban), away result-sides <0.75, Overs in this tier",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_v.pdf",
+   "https://www.siguetuliga.com/liga/futbol-nacional-segunda-division-b-segunda-federacion---grupo-2-6075/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73760432",
+  "fx": "Puente Genil FC v CD Tenerife B",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; fixture involves a reserve (B/filial) side: Puente Genil v Tenerife B. Filial squads change with first-team call-ups.",
+  "news": "no news found; no date/venue conflict found",
+  "veto": true,
+  "veto_reason": "Reserve/filial side involved - hard-excluded class; no clear goals mismatch.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_v.pdf",
+   "https://futbolaspalmas.com/segunda-rfef/grupo-5-canarias-LD8.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72509510",
+  "fx": "Real Valladolid Promesas v UB Conquense",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; fixture involves a reserve (B/filial) side: Valladolid Promesas v Conquense. Filial squads change with first-team call-ups.",
+  "news": "no news found; no date/venue conflict found",
+  "veto": true,
+  "veto_reason": "Reserve/filial side involved - hard-excluded class; no clear goals mismatch.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_v.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72506864",
+  "fx": "UD Barbastro v SD Logrones",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; Group 2. Barbastro 1-6-3, Logrones 0.5 GF away; draw-heavy profile.",
+  "news": "no news found; matchday dated 29/11/2026 by RFEF calendars, no conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (regional tier ban), away result-sides <0.75, Overs in this tier",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_ii.pdf",
+   "https://www.siguetuliga.com/liga/futbol-nacional-segunda-division-b-segunda-federacion---grupo-2-6075/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72508612",
+  "fx": "UD Las Palmas Atletico v CD Estepona",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; fixture involves a reserve (B/filial) side: Las Palmas Atletico v Estepona. Filial squads change with first-team call-ups.",
+  "news": "no news found; no date/venue conflict found (Las Palmas Atl v Estepona listed 29-11-2026 at Anexo GC)",
+  "veto": true,
+  "veto_reason": "Reserve/filial side involved - hard-excluded class; no clear goals mismatch.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_v.pdf",
+   "https://futbolaspalmas.com/segunda-rfef/grupo-5-canarias-LD8.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72506856",
+  "fx": "UD Logrones B v Naxara CD",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; fixture involves a reserve (B/filial) side: Logrones B v Naxara. Filial squads change with first-team call-ups.",
+  "news": "no news found; no date/venue conflict found",
+  "veto": true,
+  "veto_reason": "Reserve/filial side involved - hard-excluded class; no clear goals mismatch.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_ii.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:72508620",
+  "fx": "UD Tamaraceite v CD Ciudad de Lucena",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; Group 4/5 Canaries. Tamaraceite 2-0-8 (2.4 GA) v Lucena 5-3-2.",
+  "news": "no news found; matchday dated 29/11/2026 by RFEF calendars, no conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (regional tier ban), away result-sides <0.75, Overs in this tier",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_v.pdf",
+   "https://www.siguetuliga.com/liga/futbol-nacional-segunda-division-b-segunda-federacion---grupo-2-6075/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:73550156",
+  "fx": "BG Tampines Rovers v Albirex Niigata Singapore FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "SPL 2026/27; Tampines and Sailors level on 16 pts at top per SPL site. High-scoring league. Scores24: Tampines have scored AND conceded in each of last 11 meetings with Albirex; Albirex won 2-1 in April 2026.",
+  "news": "Scores24 preview dated 29/11/2026; no team news or venue found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "50",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.29,
+    "p": 0.7223,
+    "why": "BTTS Yes: fixture-specific H2H (both scored in 11 straight meetings per Scores24), Albirex 2.0 GF away, Tampines conceding 2.0/game. Own p ~0.75 vs house 0.72."
+   }
+  ],
+  "avoid": "Unders; Home -1",
+  "confidence": 0.3,
+  "sources": [
+   "https://scores24.live/en/soccer/m-29-11-2026-tampines-rovers-albirex-niigata-prediction",
+   "https://www.sofascore.com/football/match/albirex-niigata-singapore-tampines-rovers/TkbsGGn",
+   "https://spl.sg/"
+  ]
+ },
+ {
+  "eid": "sr:match:73550158",
+  "fx": "Young Lions FC v Lion City Sailors FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Young Lions (U23 national development side, 3 pts from 7) v leaders Lion City Sailors (9-0-1, 3.4 GF, 0.2 GA). Last H2H 1-6. Sailors may have AFC club competition midweek (unverified) -> rotation risk, but depth is far above Young Lions.",
+  "news": "SPL site lists Young Lions v Lion City Sailors 29 Nov 7:30PM SGT (=11:30 UTC, matches board); LiveSoccerTV shows a stale 6-1 under that date (likely earlier meeting).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.38,
+    "p": 0.6867,
+    "why": "Over 3.5: Sailors scoring 3.4/game (5-0,5-0,4-0,6-0 recently), Young Lions conceding 3.1 (3.4 at home), last H2H 1-6. Young Lions are a U23 development side but this is a goals market in a clear mismatch. Own p ~0.72 vs house 0.69."
+   }
+  ],
+  "avoid": "Result markets (1.03), Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://spl.sg/",
+   "https://www.livesoccertv.com/teams/singapore/young-lions/"
+  ]
+ },
+ {
+  "eid": "sr:match:72121048",
+  "fx": "FK Metalac Gornji Milanovac v FK Vozdovac Belgrade",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Serbian Prva liga (2nd tier), Round 20 at Stadion FK Metalac.",
+  "news": "Sources list the match on Sat 28 Nov 2026 (club site 16:00; weekendgoals 18:00 local), board has 29 Nov 12:00 UTC.",
+  "veto": true,
+  "veto_reason": "Date conflict: club site / weekendgoals / oddspedia show 28 Nov, board shows 29 Nov.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://fkmetalac.rs/",
+   "https://www.weekendgoals.com/matches/metalac-gm-vs-fk-vozdovac-prva-liga-novembro-28-2026/6a31a92209604096921b5442",
+   "https://oddspedia.com/football/fc-vozdovac-metalac-gornji-milanovac-39391"
+  ]
+ },
+ {
+  "eid": "sr:match:72508610",
+  "fx": "Betis Deportivo Balompie v Club Atletico Central",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; fixture involves a reserve (B/filial) side: Betis Deportivo v Atletico Central. Filial squads change with first-team call-ups.",
+  "news": "no news found; no date/venue conflict found",
+  "veto": true,
+  "veto_reason": "Reserve/filial side involved - hard-excluded class; no clear goals mismatch.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_v.pdf"
+  ]
+ },
+ {
+  "eid": "sr:match:73258896",
+  "fx": "Marumo Gallants FC v Richards Bay FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Bottom-of-table clash at Thohoyandou Stadium 15:30 SAST (=13:30 UTC, matches board). Marumo 15th (5 pts, 1 win in 9, 17 conceded); Richards Bay bottom (3 pts, winless, 23 conceded - most in league). Relegation six-pointer.",
+  "news": "Previews confirm date/venue; both defences leaky; no named absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.24,
+    "p": 0.7615,
+    "why": "Marumo or draw: Richards Bay winless all season, worst defence (23 GA), 0-3-7 last 10 and 1.0/2.6 away. Own p ~0.77 vs house 0.76. Stats-led, low confidence."
+   }
+  ],
+  "avoid": "Unders (SA/relegation, p<0.82), away sides (SA rule)",
+  "confidence": 0.2,
+  "sources": [
+   "https://ghanasoccernet.com/marumo-gallants-vs-richards-bay-struggling-sides-meet-in-crucial-league-fixture",
+   "https://sportsnews.worldsportsbetting.co.za/sports/soccer/psl/psl-betting-preview-sunday-29th-november/",
+   "https://www.bets.co.za/soccer/south-african-premier-division/marumo-gallants-vs-richards-bay-predictions-20261127-0017/"
+  ]
+ },
+ {
+  "eid": "sr:match:72278554",
+  "fx": "NK Brinje Grosuplje v Olimpija Ljubljana",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "PrvaLiga Round 17 at Nogometni park Brinje Grosuplje. Promoted Brinje tough at home (beat Olimpija earlier per RTV 'Olimpija frightened' piece); Olimpija 6-3-1 last 10 but low-scoring (1.7 GF).",
+  "news": "Brinje and Olimpija official sites confirm Sun 29.11.2026 15:00 CET (=14:00 UTC, matches board); an NZS URL stamped 28-11 appears to be a placeholder.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Olimpija win/handicaps (Brinje awkward at home), Unders (p<0.82)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nogometniklub-brinje.si/",
+   "https://nkolimpija.si/dan-za-tekmo-brinje-olimpija/",
+   "https://www.rtvslo.si/sport/olimpija-precej-prestrasena-pricakuje-brinje-grosuplje/792870"
+  ]
+ },
+ {
+  "eid": "sr:match:72083162",
+  "fx": "FK Novi Pazar v Crvena Zvezda",
+  "sport": "football",
+  "absences": "Novi Pazar: Ahmed Hadzimujovic suspended; captain Adem Ljajic returns. Zvezda: no current injury report found.",
+  "context": "Superliga Round 17. Zvezda top of the table (7-2-1 last 10, 2.5 GF); Novi Pazar ~5th and solid at home (1.75/1.0). Coach Nenad Lalatovic: 'Zvezda play like Barcelona, but I believe in Novi Pazar'. Possible Zvezda European midweek game (unverified) -> rotation risk.",
+  "news": "Lalatovic preview: Hadzimujovic suspended, Ljajic back; no Zvezda news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.21,
+    "p": 0.7873,
+    "why": "Zvezda DNB: quality gap and Zvezda 7-2-1 form; Novi Pazar lose suspended Hadzimujovic; draw voids. Own p ~0.80 vs house 0.79. Downgrade if Zvezda played in Europe Thu."
+   }
+  ],
+  "avoid": "Zvezda -1/-1.5 (Novi Pazar strong at home), Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportmagazin.rs/fudbal/nenad-lalatovic-crvena-zvezda-igra-kao-barselona-ali-verujem-u-novi-pazar",
+   "https://uk.sports.yahoo.com/football/teams/crvena-zvezda/injuries/"
+  ]
+ },
+ {
+  "eid": "sr:match:72042354",
+  "fx": "MFK Skalica v MFK Zemplin Michalovce",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Nike liga. Michalovce lost 0-1 at home to Trnava on 21 Nov; Skalica 2-3-5, 0.8 GF at home.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - two weak sides, no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://fcspartaktrnava.com/zapasy"
+  ]
+ },
+ {
+  "eid": "sr:match:72083160",
+  "fx": "FK Zeleznicar Pancevo v OFK Beograd",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Superliga Round 17. OneFootball table: Zeleznicar 3rd (9-2-3, 29 pts), OFK Beograd 12th (11 pts); OFK recently beat IMT 1-0 and Mladost 4-0.",
+  "news": "Date conflict: Soccerway/FotMob list 29/11/2026; OneFootball (07:00 kickoff) and a ticket site list 28 Nov 2026.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (28 vs 29 Nov); not resolved by an official source.",
+  "picks": [],
+  "avoid": "All markets until date confirmed",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/match/ofk-beograd-mozzart-bet-Imdxh57l/zeleznicar-pancevo-jmmBWFML/summary/lineups/",
+   "https://onefootball.com/en/match/2690330",
+   "https://ticket-compare.com/football/serbian-superliga/zeleznicar-pancevo-vs-ofk-beograd-28-nov-2026/",
+   "https://www.fotmob.com/teams/676141/overview/zeleznicar-pancevo"
+  ]
+ },
+ {
+  "eid": "sr:match:73258898",
+  "fx": "Sekhukhune United v Siwelele FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Sekhukhune favourites at home; coach situation unclear (Cedric Kaze appointed Jul 2026 vs Nov 6 report naming Papi Zothwane as coach -> likely change). Sekhukhune played a Carling Knockout QF at Pirates early Nov. Siwelele 2-2-6, 2.43 GA away.",
+  "news": "Coach identity conflict for Sekhukhune (Kaze vs Zothwane); no absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.21,
+    "p": 0.7839,
+    "why": "Sekhukhune or draw: Siwelele 2-2-6 and conceding 2.43 away; Sekhukhune 1.25/0.75 at home. Own p ~0.78 = house. Fill, low confidence given coaching flux."
+   }
+  ],
+  "avoid": "Unders (p 0.81 < 0.82), away sides (SA rule)",
+  "confidence": 0.2,
+  "sources": [
+   "https://africasoccer.com/zothwane-urges-sekhukhune-to-stay-confident-at-intimidating-orlando-arena/",
+   "https://www.idiskitimes.co.za/betway-premiership/official-sekhukhune-announce-new-coach-2/",
+   "https://sportsnews.worldsportsbetting.co.za/sports/soccer/psl/psl-betting-preview-sunday-29th-november/"
+  ]
+ },
+ {
+  "eid": "sr:match:72506862",
+  "fx": "CD Tudelano v Utebo FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; Group 2 Jornada 13 on 29/11/2026 (RFEF/Sigue tu Liga). Tudelano conceding 2.2/game.",
+  "news": "no news found; matchday dated 29/11/2026 by RFEF calendars, no conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (regional tier ban), away result-sides <0.75, Overs in this tier",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_ii.pdf",
+   "https://www.siguetuliga.com/liga/futbol-nacional-segunda-division-b-segunda-federacion---grupo-2-6075/calendario"
+  ]
+ },
+ {
+  "eid": "sr:match:72278552",
+  "fx": "FC Koper v NK Celje",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Top-of-table clash at Bonifika: Koper (leaders per RTV) v Celje; both unbeaten-ish (Koper 6-2-2, Celje 6-4-0). Big-club / title clash; Celje may have European midweek fixture (unverified).",
+  "news": "no news found for this meeting; previous Koper-Celje meetings tight (1-1, 0-1).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (big-club clash); O1.5 (p 0.80 < 0.82 big-club threshold); Unders",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.rtvslo.si/sport/brinje-grosuplje-do-cetrte-zmage-sezone-ob-17-30-kalcer-radomlje-celje/799403",
+   "https://planetnogomet.si/novice/koper-zaostala-25-25-zmaga-celje-ss/"
+  ]
+ },
+ {
+  "eid": "sr:match:72042348",
+  "fx": "Spartak Trnava v AS Trencin",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Nike liga. Trnava 6-2-2 last 10 (won 1-0 at Michalovce 21 Nov); Trencin 2-3-5, 0.8 GF. Possible Trnava European midweek (unverified).",
+  "news": "Official Trnava fixture page: Sun 29.11.2026 18:00 CET (=17:00 UTC, matches board); a LiveSoccerTV listing shows 28 Nov 9:30am (aggregator, contradicted by club).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7781,
+    "why": "Trnava DNB: home side in form (6-2-2) v Trencin scoring 0.8/game and 2-3-5; draw voids. Own p ~0.79 vs house 0.78."
+   }
+  ],
+  "avoid": "Trnava -1/-1.5 (Trnava home GA 2.33 last 5), Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://fcspartaktrnava.com/zapasy",
+   "https://www.livesoccertv.com/teams/slovakia/spartak-trnava/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Slovak_First_Football_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72508622",
+  "fx": "CD Xerez v CD Linares",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; Group 4. Xerez 6-1-3 last 10 (1.6 GF/0.8 GA); Linares 4-4-2, solid away (1.0/1.4).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.23,
+    "p": 0.7601,
+    "why": "Xerez home DNB: strong last-10 (6-1-3, 0.8 GA); Linares hard to beat so draw-void protection matters. Own p ~0.76 = house; fill only."
+   }
+  ],
+  "avoid": "Overs/Unders, Linares sides",
+  "confidence": 0.15,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72506850",
+  "fx": "CE Manresa v Girona FC B",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Spanish 4th tier (Segunda Federacion), regional/amateur level; fixture involves a reserve (B/filial) side: Manresa v Girona B. Filial squads change with first-team call-ups.",
+  "news": "no news found; no date/venue conflict found",
+  "veto": true,
+  "veto_reason": "Reserve/filial side involved - hard-excluded class; no clear goals mismatch.",
+  "picks": [],
+  "avoid": "All markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://rfef.es/sites/default/files/segunda_federacion_grupo_ii.pdf"
+  ]
+ }
+]

@@ -194,5 +194,365 @@
    "https://www.aiscore.com/live/football-afc-leopards-vs-tusker",
    "https://k24.digital/sports/afc-leopards-vs-tusker-tough-test-as-ingwe-face-revenge-seeking-brewers"
   ]
+ },
+ {
+  "eid": "sr:match:74079806",
+  "fx": "Pieta Hotspurs FC v Gudja United",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Malta Challenge League (2nd tier). Gudja lost 0-2 to Tarxien on Nov 22, had 0 points after 7 rounds and have lost their last 6; Pieta drew 1-1 at Fgura.",
+  "news": "Gudja winless at the bottom (0 pts after 7), lost again Nov 22; Pieta 1-1 v Fgura.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.44,
+    "p": 0.652348,
+    "oid": "1",
+    "why": "Gudja pointless after 7 rounds and beaten in each of their last 6 (scoring 2 in 6). Pieta 5-2-3 last 10. Own p ~0.68."
+   }
+  ],
+  "avoid": "Second-tier Malta: no goals markets (no O/U on board).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.maltafootball.com/2026/11/22/bov-challenge-league-tarxien-return-to-winning-ways/",
+   "https://www.maltafootball.com/2026/11/21/bov-challenge-league-naxxar-lions-turn-defeat-into-victory/"
+  ]
+ },
+ {
+  "eid": "sr:match:74079798",
+  "fx": "Sirens FC v Victoria Hotspurs FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Malta Challenge League. Sirens beat St Andrews 5-1 (Nov 22); Victoria Hotspurs beat Vittoriosa 3-2 (Nov 21).",
+  "news": "Both won last round; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Even prices, no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.maltafootball.com/2026/11/22/bov-challenge-league-tarxien-return-to-winning-ways/",
+   "https://www.maltafootball.com/2026/11/21/bov-challenge-league-naxxar-lions-turn-defeat-into-victory/"
+  ]
+ },
+ {
+  "eid": "sr:match:72041272",
+  "fx": "Feyenoord v Ajax",
+  "sport": "football",
+  "absences": "Ajax: Jorthy Mokio (broken fibula, op Nov 24, ~4 months), Kasper Dolberg (knee surgery), Caio Henrique out; Tsygankov, Adingra back in training but not starters; Brandt/Gaaei not starting both games - ~7 changes expected v Conference League tie with Thun. Feyenoord: Hadj Moussa returned v Porto; Beelen, Bos, Nieuwkoop reported out; Moder doubtful (one source: mid-Dec).",
+  "context": "De Klassieker at De Kuip, 14:30 CET. Feyenoord lost to Porto in the Champions League midweek; Ajax played Thun in the Conference League. Big-club derby.",
+  "news": "Ajax rotating heavily (Mokio, Dolberg out); Feyenoord off a CL defeat with several defenders missing.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby / big-club clash: no result-side; big-club totals need p>=0.82 (Over 2 integer banned, O2.5 only 0.69). European midweek rotation on both sides (L66 downgrade).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.voetbalzone.nl/nieuws/ajax-trainer-michel-staat-richting-klassieker-tegen-erg-goed-feyenoord-voor-lastige-keuze-met-julian-brandt/bltfe867aa115948e54",
+   "https://www.ajaxclub.nl/nieuws/voorbeschouwing-feyenoord-ajax/",
+   "https://www.soccernews.nl/news/feyenoord-vermoedelijke-opstelling-ajax-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72041274",
+  "fx": "Fortuna Sittard v SC Heerenveen",
+  "sport": "football",
+  "absences": "Heerenveen: Hristiyan Petrov out to mid-Dec; Bochniewicz (knee) expected back end of Nov. Fortuna: Yassin Oukili injured (date unclear). Lists partly stale.",
+  "context": "Eredivisie round 14, 14:30 CET (13:30 UTC, matches board). Heerenveen 7-1-2 last 10, 4-0-1 away. Fortuna 5-4-1.",
+  "news": "No dedicated preview; injury lists only partially current.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8258785777,
+    "oid": "12",
+    "why": "Heerenveen score 2.4/game (4 of last 6 with 3+ goals incl 5-3, 4-0); Fortuna's last 6 include 5-4 and two 2-2; Eredivisie ~3.1 avg. Two 1-0s in Fortuna's last 6 are the risk. Own p ~0.83."
+   }
+  ],
+  "avoid": "Heerenveen DNB p 0.65 mid-band; Over 2.5 1.59 p 0.61 no edge.",
+  "confidence": 0.25,
+  "sources": [
+   "https://news.bet365.nl/nl-nl/article/eredivisie-speelronde-14-tv-gids-programma-odds-en-de-belangrijkste-wedstrijden/2026112511410180365",
+   "https://www.beste-bookmakers.nl/schorsingen-en-geblesseerde-spelers-eredivisie"
+  ]
+ },
+ {
+  "eid": "sr:match:76462936",
+  "fx": "Valletta FC v Hibernians FC Paola",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Malta Premier League. Hibernians lost 0-1 at home to Marsaxlokk last round; Valletta 6-1-3 last 10 but 1-1-2 at home.",
+  "news": "No preview; fixture date only from board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Valletta DNB 1.31 p 0.72 statistics only; thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tntsports.co.uk/football/bov-premier-league/calendar-results.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:72963884",
+  "fx": "AS La Jeunesse D Esch/Alzette v F91 Dudelange",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "BGL Ligue, Stade de la Fronti\u00e8re, 16:00 CET (15:00 UTC, matches board). Jeunesse's last 6: 2-3, 6-7, 0-3, 3-0, 1-0, 1-4; Dudelange 2-2, 2-3, 3-0, 1-2, 5-0, 3-1.",
+  "news": "Fixture confirmed by BetExplorer; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.55,
+    "p": 0.605591,
+    "oid": "12",
+    "why": "Luxembourg top flight ~3.3 goals/game; 5 of Jeunesse's and 5 of Dudelange's last 6 had 3+ goals; Jeunesse concede 2.6/game. Own p ~0.65."
+   }
+  ],
+  "avoid": "Correlated with other Luxembourg Overs on the same round - max 2-3 per ticket.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betexplorer.com/football/luxembourg/bgl-ligue/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Luxembourg_National_Division"
+  ]
+ },
+ {
+  "eid": "sr:match:72963878",
+  "fx": "Atert Bissen v FC Differdange 03",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "BGL Ligue, 16:00 CET. Differdange 9-1-0 last 10 and 4/4 away wins, scoring 3.3/game; Bissen 6-1-3 scoring 3.1/game. Last H2H 1-3.",
+  "news": "Fixture confirmed by BetExplorer; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.54,
+    "p": 0.612153,
+    "oid": "12",
+    "why": "All of both sides' last 6 had 3+ goals (Bissen 4-0,1-3,5-1,2-1,5-1,2-2; Differdange 4-4,3-1,3-0,2-1,5-3,6-0); combined 6.4 goals/game scored. Own p ~0.70."
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.26,
+    "p": 0.7471118359,
+    "oid": "11",
+    "why": "Differdange unbeaten in 10 (9W) and 4/4 away; Bissen beat by Differdange 1-3 last meeting. Own p ~0.79."
+   }
+  ],
+  "avoid": "Away 1X2 1.87 (p 0.50 < 0.75 gate).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.betexplorer.com/football/luxembourg/bgl-ligue/"
+  ]
+ },
+ {
+  "eid": "sr:match:72963880",
+  "fx": "FC Progres Niederkorn v FC Victoria Rosport",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "BGL Ligue, 16:00 CET. Niederkorn's last 6 totals 8,9,3,2,3,2; Rosport 5,4,3,5,8,3; Rosport concede 2.4/game (2.5 away).",
+  "news": "No source found for this tie on 29 Nov (search returned older seasons only); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.45,
+    "p": 0.64988,
+    "oid": "12",
+    "why": "Rosport concede 2.4/game and 5 of their last 6 had 4+ goals; Niederkorn 4-4 and 4-5 recently. Own p ~0.70."
+   }
+  ],
+  "avoid": "Home -1.5 / -1 lines; fixture not independently confirmed - keep stake small.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.mental.lu/football/differdange-revit-face-a-etzella-petange-pietine-niederkorn-revient-de-loin/"
+  ]
+ },
+ {
+  "eid": "sr:match:72963866",
+  "fx": "Residence Walferdange v RFC Union Luxembourg",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "BGL Ligue, 16:00 CET (Walferdange v Racing Union per BetExplorer). Walferdange last 6 totals 4,2,5,6,6,3; Union 4,5,3,6,2,4.",
+  "news": "Fixture confirmed by BetExplorer; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.6887307892,
+    "oid": "12",
+    "why": "Walferdange concede 2.2/game (0-6, 1-4, 3-3 recently); Union score 2.6/game; 5 of 6 recent games each side had 3+ goals. Own p ~0.73."
+   }
+  ],
+  "avoid": "Away 1X2 1.50 (p 0.63 < 0.75); correlated Luxembourg Overs.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.betexplorer.com/football/luxembourg/bgl-ligue/"
+  ]
+ },
+ {
+  "eid": "sr:match:72963872",
+  "fx": "US Mondorf-Les-Bains v FC Etzella Ettelbruck",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "BGL Ligue, 16:00 CET. Etzella 2-1-7 last 10, 1-1-4 away conceding 2.67 (7-8, 1-5 recently); Mondorf 6-1-3, 3-1 at home.",
+  "news": "No source found for this tie on 29 Nov; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.44,
+    "p": 0.658271,
+    "oid": "1",
+    "why": "Etzella lost 7 of 10 and concede 2.6/game; Mondorf 3/4 home wins. Own p ~0.68 (statistics-led, fill only)."
+   }
+  ],
+  "avoid": "Home -1.5 2.15 (too wide); fixture not independently confirmed.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.mental.lu/football/differdange-revit-face-a-etzella-petange-pietine-niederkorn-revient-de-loin/"
+  ]
+ },
+ {
+  "eid": "sr:match:72963870",
+  "fx": "US Rumelange v Un Kaerjeng 97",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "BGL Ligue, 16:00 CET. Rumelange 1-3-6, 1-0-4 at home conceding 3.4; last 6 totals 8,5,3,6,6,3. Kaerjeng 6-1-3 scoring 2.9.",
+  "news": "US Rumelange and UN Kaerjeng club sites plus BetExplorer confirm Rumelange v Kaerjeng on 29 Nov 16:00; 365Scores alone lists Jeunesse v Kaerjeng (aggregator error, Jeunesse confirmed v Dudelange).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.28,
+    "p": 0.74209,
+    "oid": "12",
+    "why": "Every one of both teams' last 6 had 3+ goals; Rumelange concede 3.4 at home and Kaerjeng score 2.9. Own p ~0.79."
+   }
+  ],
+  "avoid": "Away 1X2 1.55 (p 0.61 < 0.75); minor aggregator conflict noted (data_conflict-lite, not date/venue of this tie).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.betexplorer.com/football/luxembourg/bgl-ligue/",
+   "https://www.usrumelange.lu/",
+   "https://www.un-kaerjeng.lu/",
+   "https://www.365scores.com/football/league/bgl-ligue-6241/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:72964582",
+  "fx": "Union Titus Petange v FC Mondercange",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Luxembourg Promotion d'Honneur (2nd tier). Petange 4-1-0 at home scoring 3.0; last 6 totals 2,3,4,3,6,5; Mondercange 3,4,5,5,3,6.",
+  "news": "No source found for this tie; Petange listed in Division of Honour 2026-27 (consistent with board).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.32,
+    "p": 0.715969,
+    "oid": "12",
+    "why": "Petange score 3.0 at home, Mondercange 2.5 away; 11 of the two sides' last 12 had 3+ goals. Own p ~0.74. Second tier - small stake."
+   }
+  ],
+  "avoid": "Amateur-ish tier: no Unders; result-side not backed.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Luxembourg_Division_of_Honour"
+  ]
+ },
+ {
+  "eid": "sr:match:74079810",
+  "fx": "Attard FC v Mgarr United FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Malta Challenge League. Attard lost 1-2 to Naxxar (Nov 21); Mgarr beat Swieqi 1-0 (Nov 21). Attard 0-2-2 at home.",
+  "news": "Mgarr won last round, Attard lost; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mgarr DNB 1.45 p 0.64 statistics-only.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.maltafootball.com/2026/11/21/bov-challenge-league-naxxar-lions-turn-defeat-into-victory/"
+  ]
+ },
+ {
+  "eid": "sr:match:74079808",
+  "fx": "Naxxar Lions FC v Swieqi United FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Malta Challenge League. Naxxar joint top after coming back to beat Attard 2-1; Swieqi lost 0-1 at Mgarr. Naxxar 4-0-1 at home.",
+  "news": "Naxxar joint leaders; Swieqi beaten last round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Naxxar Home or Draw 1.46 p 0.62 mid-band, no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.maltafootball.com/2026/11/21/bov-challenge-league-naxxar-lions-turn-defeat-into-victory/",
+   "https://www.maltafootball.com/2026/11/01/bov-challenge-league-swieqi-naxxar-move-second/"
+  ]
+ },
+ {
+  "eid": "sr:match:72041278",
+  "fx": "PEC Zwolle v Alkmaar",
+  "sport": "football",
+  "absences": "No news found beyond preview (AZ scorers Meerdink, Daal tipped).",
+  "context": "Eredivisie round 14, 16:45 CET (15:45 UTC, matches board). PEC unbeaten in 5 (3W 2D, 11 pts); AZ 7 pts from last 5 and in European competition midweek.",
+  "news": "PEC in form (unbeaten 5); AZ patchy (7 from 15).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.31,
+    "p": 0.740474,
+    "oid": "1714",
+    "why": "PEC unbeaten in 5; +2.0 loses only to an AZ win by 3+ (push on exactly 2). Favourite p 0.62 so +2.5 is barred; +2.0 is the allowed catch. Own p ~0.77."
+   }
+  ],
+  "avoid": "AZ result-side (p 0.62 < 0.75 away gate, PEC form); Home +2.5 barred (fav p >= 0.60).",
+  "confidence": 0.25,
+  "sources": [
+   "https://news.bet365.nl/nl-nl/article/pec-zwolle-az-in-eredivisie-blessures-opstellingen-tv-gids-h2h-vorm-voorspellingen-en-meer/2026112517222733383",
+   "https://sportsmole.co.uk/football/az/preview/pec-zwolle-vs-az-prediction-team-news-lineups_609994.html"
+  ]
  }
 ]
