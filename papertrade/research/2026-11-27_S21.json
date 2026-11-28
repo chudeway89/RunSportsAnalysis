@@ -1,0 +1,572 @@
+[
+ {
+  "eid": "sr:match:73930412",
+  "fx": "Hapoel Raanana v Maccabi Netanya",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Israel U19 Premier League (youth). Netanya U19 3W1D1L away; Raanana 1W4L at home.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth/women's fixture: no picks per binding rule",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73930408",
+  "fx": "MS Ashdod v Hapoel Haifa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Israel U19 Premier League (youth).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth/women's fixture: no picks per binding rule",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73469168",
+  "fx": "Iceland v Croatia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "WU19 EURO qualification (women's youth). Fixture date could not be independently confirmed (no source found), no conflicting source either.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth/women's fixture: no picks per binding rule",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2027_UEFA_Women's_Under-19_Championship_qualification"
+  ]
+ },
+ {
+  "eid": "sr:match:73469106",
+  "fx": "Northern Ireland v Scotland",
+  "sport": "football",
+  "absences": "none found",
+  "context": "WU19 EURO qualification (women's youth). Date not independently confirmed.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth/women's fixture: no picks per binding rule",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2027_UEFA_Women's_Under-19_Championship_qualification"
+  ]
+ },
+ {
+  "eid": "sr:match:76570816",
+  "fx": "Tractor Tabriz v Zob Ahan Isfahan FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Iran Pro League. Zob Ahan away 0W4D1L, 0.2 GF away; Tractor 4th (stale table).",
+  "news": "no news found",
+  "veto": true,
+  "veto_reason": "Date conflict: Soccerway lists the Tractor-Zob Ahan, Esteghlal-Sanat Naft and Sepahan-Nassaji round on 30.11, other listings on 28.11; Esteghlal KO 12:45 UTC (OneFootball) vs 13:45 (Sofascore), venue Shahr-e Qods vs Azadi",
+  "picks": [],
+  "avoid": "all markets (date conflict)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/iran/persian-gulf-pro-league/",
+   "https://www.livesoccertv.com/competitions/iran/pro-league/",
+   "https://onefootball.com/en/match/2739195",
+   "https://www.sofascore.com/football/team/esteghlal-fc/34316",
+   "https://www.footballstreams.com/matches/esteghlal-tehran-vs-sanat-naft-20261128/"
+  ]
+ },
+ {
+  "eid": "sr:match:73469180",
+  "fx": "Latvia v Moldova",
+  "sport": "football",
+  "absences": "none found",
+  "context": "WU19 EURO qualification (women's youth). Clear mismatch: Moldova lost 0-5,0-6,0-7,0-7,0-10 recently, but the only goals markets are O4.5 2.2 / U4.5 (Under needs p>=0.82).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth/women's fixture: no picks per binding rule; Under 4.5 fails p gate",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2027_UEFA_Women's_Under-19_Championship_qualification"
+  ]
+ },
+ {
+  "eid": "sr:match:73930422",
+  "fx": "Maccabi Petah Tikva v Hapoel Rishon Letzion",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Israel U19 Premier League (youth). Petah Tikva U19 9W1L last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth/women's fixture: no picks per binding rule",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76163324",
+  "fx": "Young Africans SC v MC Alger",
+  "sport": "football",
+  "absences": "none confirmed; MC Alger under a new coach",
+  "context": "CAF CL Group B MD1, at New Amaan Complex, Zanzibar (Yanga home), 13:00 GMT confirmed. Group with Zamalek and Club Africain. Yanga 5/5 home wins (GF 2.6 GA 0.6), 8-1 agg in prelims; coach Fadlu Davids plans attacking approach. Referee Abongile Tom (RSA).",
+  "news": "Yanga host MC Alger in Zanzibar; Davids targets three points and notes MC Alger have a new coach; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.754106,
+    "why": "Named mechanism: Yanga 5/5 home wins (GA 0.6), MC Alger new coach and away 1W2D2L GF 0.6; DNB voids the draw. My p 0.76."
+   }
+  ],
+  "avoid": "Away +1.5 (fav p 0.55, gate); integer Under 3 (p 0.80 < 0.82)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.flashscore.co.za/news/soccer-caf-champions-league-fadlu-davids-reveals-young-africans-game-plan-for-mc-alger-champions-league-test/65aphtLi/",
+   "https://panafricafootball.com/article/yanga-attack-mc-alger",
+   "https://dailysports.net/news/caf-champions-league-abongile-tom-to-officiate-young-africans-v-mc-alger/"
+  ]
+ },
+ {
+  "eid": "sr:match:73469170",
+  "fx": "Belgium v France",
+  "sport": "football",
+  "absences": "none found",
+  "context": "WU19 EURO qualification (women's youth).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth/women's fixture: no picks per binding rule",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2027_UEFA_Women's_Under-19_Championship_qualification"
+  ]
+ },
+ {
+  "eid": "sr:match:73469158",
+  "fx": "Norway v Netherlands",
+  "sport": "football",
+  "absences": "none found",
+  "context": "WU19 EURO qualification (women's youth).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth/women's fixture: no picks per binding rule",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2027_UEFA_Women's_Under-19_Championship_qualification"
+  ]
+ },
+ {
+  "eid": "sr:match:75949156",
+  "fx": "AL Naft v Al Quwa Al Jawiya",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Iraq Stars League R15. Al Naft 4th, 4/4 home wins GA 0.25; Al Quwa Al Jawiya are defending champions (coach Rasheed Jaber Al Yafai), 8th-11th.",
+  "news": "Fixture listed 28/11 R15; KO 13:00 GMT in one source, 15:30 UTC in another.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: 13:00 GMT (SportyBet/Flashscore) vs 15:30 UTC (another listing)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.com/match/football/al-naft-Wl6D5mh5/al-quwa-al-jawiya-0Ygn4oxO/",
+   "https://www.footballstreams.com/matches/al-naft-vs-al-quwa-al-jawiya-20261128/",
+   "https://www.sofascore.com/football/team/al-quwa-al-jawiya/213877"
+  ]
+ },
+ {
+  "eid": "sr:match:72225436",
+  "fx": "Bnei Sakhnin FC v Maccabi Haifa FC",
+  "sport": "football",
+  "absences": "unconfirmed: Haifa possibly without Melamed/Kani/Benson (undated reports)",
+  "context": "Ligat HaAl. Maccabi Haifa 5th (18 pts/10), Bnei Sakhnin 7th (13 pts). Sakhnin low-scoring (GF 0.8 GA 0.8, last 6: 1-1,1-1,1-0,2-0,0-0,1-0); Haifa volatile (lost 0-4 and 2-5 at home recently).",
+  "news": "No current team news; older reports mention Haifa injuries (Melamed, Kani, Benson), dates unclear.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.7687413026,
+    "why": "Fill, statistics only: Haifa are clearly the stronger side (6W in 10, 3/5 away wins); DNB protects against the low-scoring Sakhnin draw. Haifa defence leaky. My p 0.75."
+   }
+  ],
+  "avoid": "Over 1.5 (Sakhnin last-5 low scoring); Haifa -0.5 (away p 0.60 < 0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/israel/premier-league/",
+   "https://www.jpost.com/tags/maccabi-haifa-news"
+  ]
+ },
+ {
+  "eid": "sr:match:76570818",
+  "fx": "Esteghlal FC Tehran v Sanat Naft Abadan FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Iran Pro League. Esteghlal 4/4 home wins, 0 GA at home.",
+  "news": "no news found",
+  "veto": true,
+  "veto_reason": "Date conflict: Soccerway lists the Tractor-Zob Ahan, Esteghlal-Sanat Naft and Sepahan-Nassaji round on 30.11, other listings on 28.11; Esteghlal KO 12:45 UTC (OneFootball) vs 13:45 (Sofascore), venue Shahr-e Qods vs Azadi",
+  "picks": [],
+  "avoid": "all (date/KO/venue conflict)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/iran/persian-gulf-pro-league/",
+   "https://www.livesoccertv.com/competitions/iran/pro-league/",
+   "https://onefootball.com/en/match/2739195",
+   "https://www.sofascore.com/football/team/esteghlal-fc/34316",
+   "https://www.footballstreams.com/matches/esteghlal-tehran-vs-sanat-naft-20261128/"
+  ]
+ },
+ {
+  "eid": "sr:match:75949144",
+  "fx": "AL Talaba v AL Minaa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Iraq Stars League R15.",
+  "news": "Yalla Shoot lists Al Talaba v Al Minaa on Friday 27 Nov at Al-Madina Stadium; SportyBet has 28 Nov 13:45.",
+  "veto": true,
+  "veto_reason": "Date conflict: Yalla Shoot 27 Nov vs SportyBet 28 Nov",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ysscores.com/en/match/59204477/Al-Talaba-SC-vs-Al-Minaa-SC"
+  ]
+ },
+ {
+  "eid": "sr:match:76708006",
+  "fx": "Chinese Taipei v South Africa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Women's WC 2027 intercontinental play-off preliminary phase (6-team league, top 2 advance), in Rabat, Morocco, 28 Nov - 5 Dec per FIFA (Olympics.com said 24 Nov-5 Dec, TBC). MD1. Neutral venue.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's senior international: no result-side picks per binding rule; no clear goals mismatch in range",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fifa.com/en/tournaments/womens/womensworldcup/brazil-2027/articles/play-off-tournament-teams-format",
+   "https://www.olympics.com/en/news/fifa-womens-world-cup-2027-play-off-tournament-preliminary-phase-draw-match-schedule-announced"
+  ]
+ },
+ {
+  "eid": "sr:match:76570820",
+  "fx": "Sepahan SC v Nassaji Mazandaran FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Iran Pro League. Sepahan top of table (stale table), 5/5 home wins GF 3.4; Nassaji draw-heavy (6D in 10).",
+  "news": "no news found",
+  "veto": true,
+  "veto_reason": "Date conflict: Soccerway lists the Tractor-Zob Ahan, Esteghlal-Sanat Naft and Sepahan-Nassaji round on 30.11, other listings on 28.11; Esteghlal KO 12:45 UTC (OneFootball) vs 13:45 (Sofascore), venue Shahr-e Qods vs Azadi",
+  "picks": [],
+  "avoid": "all (date conflict)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.soccerway.com/iran/persian-gulf-pro-league/",
+   "https://www.livesoccertv.com/competitions/iran/pro-league/",
+   "https://onefootball.com/en/match/2739195",
+   "https://www.sofascore.com/football/team/esteghlal-fc/34316",
+   "https://www.footballstreams.com/matches/esteghlal-tehran-vs-sanat-naft-20261128/"
+  ]
+ },
+ {
+  "eid": "sr:match:73930414",
+  "fx": "Hapoel Nir Ramat Hasharon v Hapoel Petah Tikva Nahum",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Israel U19 Premier League (youth).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "youth/women's fixture: no picks per binding rule",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72225442",
+  "fx": "Hapoel Ramat Gan Givatayim FC v Hapoel Ironi Kiryat Shmona FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Ligat HaAl relegation six-pointer: Ramat Gan 13th (6 pts), Kiryat Shmona 11th (7 pts). Both poor (2W in 10 each).",
+  "news": "Listed 28 Nov; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all: relegation six-pointer between two weak sides, no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/israel/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:76163236",
+  "fx": "Esperance Sportive de Tunis v Wiliete SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "CAF CL Group A MD1 at Rades, 16:00 GMT (CAF). Wiliete (Angola) knocked out holders Mamelodi Sundowns (0-0, 1-1 away goals); unbeaten in 10 (GA 0.5).",
+  "news": "Esperance favourites; Wiliete giant-killers who eliminated Sundowns.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Esperance win (Wiliete defensive mechanism); +2.5 catch (fav p 0.75 >= 0.60); Under 3.5 (p 0.74 < 0.82)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.cafonline.com/caf-champions-league/news/african-giants-begin-totalenergies-caf-champions-league-202627-group-stage-campaigns-this-weekend/",
+   "https://allafrica.com/stories/202611270184.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76163376",
+  "fx": "Pyramids FC v Maghreb AS de Fes",
+  "sport": "football",
+  "absences": "none found",
+  "context": "CAF CL Group D MD1 at 30 June Stadium, Cairo. Pyramids are Egyptian champions, 10/10 wins last 10 (5/5 at home, GF 3.0). MAS Fes away GF 1.0.",
+  "news": "Pyramids heavy favourites; Mostafa Ziko named as one to watch; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.47,
+    "p": 0.651274,
+    "why": "Mechanism: Pyramids 10/10 wins in last 10 and 5/5 at home; MAS Fes rarely score away. Group-stage opener at home, not a knockout. My p 0.68."
+   }
+  ],
+  "avoid": "Under 3.5 (p 0.80 < 0.82); +2.5 catch",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bets.co.za/soccer/caf-champions-league/pyramids-vs-mas-fes-predictions-20261126-0004/",
+   "https://africasoccer.com/caf-champions-league-2026-27-five-players-to-watch-on-matchday-one/",
+   "https://en.le360.ma/sports/caf-champions-league-rs-berkane-and-mas-fes-face-challenging-group-stage-campaigns_IL4ULGQ5EVA2BFXKLIWQM5IXHI/"
+  ]
+ },
+ {
+  "eid": "sr:match:76163322",
+  "fx": "Zamalek SC v Africain",
+  "sport": "football",
+  "absences": "Zamalek: Mostafa Zenary, Mohamed El-Sayed, Mohamed Ibrahim (rehab, Ahram); returning GK Mohamed Awad, Bentayeg, Abdel-Rahim, Hossam Ashraf. Club Africain: Alain Kante back.",
+  "context": "CAF CL Group B MD1 at Cairo International Stadium. Big-club clash. Zamalek build-up overshadowed by players demanding unpaid wages and bonuses.",
+  "news": "Zamalek's wage dispute is a fragility flag; injury lists conflict between sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (big-club clash, wage turmoil); Unders below 0.82; DC 1.16 below range",
+  "confidence": 0.2,
+  "sources": [
+   "https://english.ahram.org.eg/NewsContent/6/51/583549/Sports/Egyptian-Football/Preview-Zamalek-face-Club-Africain-test-amid-playe.aspx",
+   "https://www.ysscores.com/en/news/14104921/club-africain-regain-alain-kant%C3%A9-ahead-of-zamalek-clash-in-caf-champions-league",
+   "https://africasoccer.com/boost-for-zamalek-as-influential-trio-return-ahead-of-caf-champions-league-group-stage/"
+  ]
+ },
+ {
+  "eid": "sr:match:76708008",
+  "fx": "Uzbekistan v Papua New Guinea",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Women's WC 2027 intercontinental play-off preliminary phase, Rabat (neutral), MD1. PNG strong OFC form (GF 2.5).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's senior international: no result-side picks per binding rule; no clear goals mismatch in range",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fifa.com/en/tournaments/womens/womensworldcup/brazil-2027/articles/play-off-tournament-teams-format",
+   "https://www.olympics.com/en/news/fifa-womens-world-cup-2027-play-off-tournament-preliminary-phase-draw-match-schedule-announced"
+  ]
+ },
+ {
+  "eid": "sr:match:75949154",
+  "fx": "Newroz SC v Al Kahrabaa SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Iraq Stars League. Newroz unbeaten in 10 (7W3D, GA 0.3; 4W1D at home GA 0.4); Al Kahrabaa away 0W1D4L, GF 0.4.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7513062431,
+    "why": "Fill, form only (no news found): Newroz unbeaten in 10 and concede 0.3 per game; Kahrabaa have no away win in 5 and score 0.4 away. DNB covers the draw. My p 0.77."
+   }
+  ],
+  "avoid": "Iraq Unders below 0.82",
+  "confidence": 0.2,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73045426",
+  "fx": "Canada v Panama",
+  "sport": "football",
+  "absences": "none found",
+  "context": "CONCACAF W Championship quarter-final (single elimination, knockout; winner qualifies for WC 2027), Mansfield, Texas, 1 PM ET (18:00 UTC) matches the board.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's senior international: no result-side picks per binding rule; no clear goals mismatch in range; knockout; no markets in range",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cbssports.com/soccer/news/2026-concacaf-w-championship-preview-uswnt/",
+   "https://www.espn.com/soccer/schedule/_/league/concacaf.womens.championship"
+  ]
+ },
+ {
+  "eid": "sr:match:76708010",
+  "fx": "Ghana v Ecuador",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Women's WC 2027 intercontinental play-off preliminary phase, Rabat (neutral), MD1.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's senior international: no result-side picks per binding rule; no clear goals mismatch in range",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fifa.com/en/tournaments/womens/womensworldcup/brazil-2027/articles/play-off-tournament-teams-format",
+   "https://www.olympics.com/en/news/fifa-womens-world-cup-2027-play-off-tournament-preliminary-phase-draw-match-schedule-announced"
+  ]
+ },
+ {
+  "eid": "sr:match:76163352",
+  "fx": "Rs Berkane v Colombe Sportive Du Dja Et Lobo",
+  "sport": "football",
+  "absences": "Berkane: Mounir Chouia (hamstring tear), Rayane Aabid, Et-Tayeb Boukhriss out. Colombe fully fit.",
+  "context": "CAF CL Group C MD1 at Stade Municipal de Berkane, first meeting.",
+  "news": "Berkane missing three including Chouia; Africa Soccer predicts only 1-0.",
+  "veto": true,
+  "veto_reason": "Date/KO conflict: YSScores lists Fri 27 Nov; other KOs listed 19:00 Casablanca, 16:00, 22:00",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://africasoccer.com/rs-berkane-begin-caf-champions-league-campaign-against-fully-fit-colombe-sportive/",
+   "https://afreeque.com/en/football/match/rsb-berkane-colombe-sportiv-du-dja-et-lobo-2026-11-28",
+   "https://www.ysscores.com/en/match/78346513/Renaissance-de-Berkane-vs-Colombe-Sportive-du-Dja-et-Lobo"
+  ]
+ },
+ {
+  "eid": "sr:match:76163432",
+  "fx": "AS Far Rabat v Durban City FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "CAF Confederation Cup Group B MD1 in Rabat, 21:00 SAST = 19:00 UTC, which matches the board. Venue named Moulay El Hassan (Le360) or Prince Moulay Abdallah (Afreeque), both FAR home grounds in Rabat. Durban City are debutants (4/4 prelim wins); Tinkler wants at least a point. FAR were last season CL runners-up.",
+  "news": "FAR host debutants Durban City; Durban defence under scrutiny.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.801946,
+    "why": "Mechanism: debutant SA side on a first continental away trip (SA away sides weak, L38/L63), with its defence under scrutiny; FAR 5W1D1L at home. My p 0.80."
+   }
+  ],
+  "avoid": "Over 2.5; FAR -1.5 (FAR low scoring, GF 1.3)",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.le360.ma/sports/as-far-to-host-durban-city-fc-at-moulay-el-hassan-stadium-in-caf-confederation-cup-group-stage_I5L3Y7MBJFE2FBNU6FVIQCP6OI/",
+   "https://afreeque.com/en/news/football-durban-city-face-as-far-on-saturday-defence-under-scrutiny",
+   "https://durbancityfc.com/2026/11/27/durban-city-set-for-caf-confederation-cup-group-stage-debut-against-as-far/",
+   "https://www.getmoresports.com/as-far-host-durban-city-in-confederation-cup-opener-in-rabat/"
+  ]
+ },
+ {
+  "eid": "sr:match:76163410",
+  "fx": "Raja Casablanca Athletic v Asko",
+  "sport": "football",
+  "absences": "none found",
+  "context": "CAF Confederation Cup Group A MD1, Mohammed V Stadium, Casablanca, 19:00 GMT (matches the board). Group with Al Ahly and Primeiro de Agosto. ASKO Kara (Togo) away 1W1D3L, GA 2.6; Raja 3W1D at home, GA 0.25.",
+  "news": "ASKO arrived in Morocco; Raja count on their home crowd; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.804782,
+    "why": "Mechanism: Togolese ASKO travel to a full Mohammed V and leak 2.6 per away game; Raja concede 0.25 at home. My p 0.81."
+   }
+  ],
+  "avoid": "+2.5/+2.0 catches; Over 2.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://africasoccer.com/caf-confederation-cup-asko-de-kara-raja-clash/",
+   "https://www.cafonline.com/caf-confederation-cup/news/al-ahly-raja-and-defending-champions-usm-alger-headline-totalenergies-caf-confederation-cup-group-stage-kick-off/",
+   "https://www.ysscores.com/en/news/14104834/raja-club-announces-ticket-prices-for-match-against-asko-kara"
+  ]
+ },
+ {
+  "eid": "sr:match:75924888",
+  "fx": "SE Palmeiras SP v Estudiantes de La Plata",
+  "sport": "football",
+  "absences": "Estudiantes: Baltasar Rodriguez suspended (red v Flamengo), Gabriel Neves doubtful (fractured arm). Palmeiras: Paulinho practically ruled out, Ramon Sosa unlikely to start; Murilo and Piquerez recovered. Suspensions conflict: one preview lists Lucas Evangelista and Barboza as suspended, FIFA says none.",
+  "context": "Copa Libertadores FINAL, single match, neutral Estadio Centenario, Montevideo. Knockout: settles on 90 min, ET/pens decide only the trophy. Board \"home\" is nominal.",
+  "news": "One-off final at a neutral venue; Paulinho out for Palmeiras, Baltasar Rodriguez suspended for Estudiantes.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.22,
+    "p": 0.7879445429,
+    "why": "Settlement structure: in a cagey one-off final, 90-min result plus Paulinho absent; loses only to a Palmeiras win by 2+. Favourite p 0.46 < 0.55, so the +1.5 gate is clear. My p 0.80."
+   }
+  ],
+  "avoid": "all 1X2 result-sides (knockout final); integer Under 3 (p 0.81 < 0.82); BTTS",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fifa.com/en/tournaments/mens/intercontinentalcup/2026/articles/palmeiras-estudinates-libertadores-final-preview",
+   "https://www.terra.com.br/esportes/palmeiras/palmeiras-perde-paulinho-para-a-final-da-libertadores-contra-o-estudiantes,cd9fc88d6b960af90b2532ef7158f061hjmhwg7w.html",
+   "https://www.beinsports.com/en-us/soccer/conmebol-libertadores/articles/palmeiras-vs-estudiantes-de-la-plata-date-time-and-everything-you-need-to-know-about-the-2026-copa-conmebol-libertadores-final-2026-11-16",
+   "https://www.playmakerstats.com/news/preview-palmeiras-vs-estudiantes-team-news-lineups-predictions-libertadores-28-11/1270848"
+  ]
+ },
+ {
+  "eid": "sr:match:73045428",
+  "fx": "Mexico v Haiti",
+  "sport": "football",
+  "absences": "none found",
+  "context": "CONCACAF W Championship quarter-final (knockout), Mansfield, Texas, 4:30 PM ET (21:30 UTC) matches the board.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "women's senior international: no result-side picks per binding rule; no clear goals mismatch in range; knockout",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.cbssports.com/soccer/news/2026-concacaf-w-championship-preview-uswnt/",
+   "https://www.espn.com/soccer/schedule/_/league/concacaf.womens.championship"
+  ]
+ }
+]
