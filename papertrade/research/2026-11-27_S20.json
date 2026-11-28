@@ -1,0 +1,652 @@
+[
+ {
+  "eid": "sr:match:73062440",
+  "fx": "Negeri Sembilan v Terengganu FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga Super MW8 at Stadium Tuanku Abdul Rahman, Paroi. Both teams on 5 pts from 7 (8th v 7th). Both have leaky defences (GA 1.8/1.9 over last 10), and all of their last 6 games had 2+ goals.",
+  "news": "Kick-off is 08:45 UTC on FotMob and the club fixtures page (4:45pm local), matching the board; Sofascore and one club page say 09:00 UTC / 5pm. This is a 15-minute discrepancy, not a date or venue conflict. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.7673,
+    "why": "Both defences concede ~1.8-1.9/game and 12 of 12 combined recent games had 2+ goals; the Malaysian top flight scores high. Own p 0.80."
+   }
+  ],
+  "avoid": "1X2/DNB is a coin flip. Kick-off time differs by 15 min between sources (minor; flagged data_conflict-lite).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.fotmob.com/matches/negeri-sembilan-vs-terengganu/p2yzoaz",
+   "https://www.sofascore.com/football/match/terengganu-negeri-sembilan-fc/GqbsIqb",
+   "https://n9fc.com/calendar/fixtures-results-n9fc/"
+  ]
+ },
+ {
+  "eid": "sr:match:73062442",
+  "fx": "Sabah FC v Selangor FC",
+  "sport": "football",
+  "absences": "Sabah: coach Juan Torres Garrido reports injuries to key players, forcing lineup changes (names not given)",
+  "context": "Liga Super MW8 at Likas Stadium. Selangor are 2nd on 18 pts (6W) with a game in hand, coached by Kim Pan-gon, and just exited the FA Cup semis. Sabah are coming off a poor result v Kelantan, and the Likas pitch is in poor condition.",
+  "news": "Selangor are in strong form (7W in last 10, 2.2 GF). Sabah are depleted by injuries and short of confidence, and their coach is citing a mentality problem.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.8007,
+    "why": "Named mechanism: Sabah key-player injuries plus Selangor title push after cup exit; draw refunded. Away 1X2 p 0.64 is below 0.75, so DNB. Own p 0.81."
+   }
+  ],
+  "avoid": "Away 1X2 (p<0.75); Over 1.5 at 1.16 (below the odds floor). Possible slow pitch.",
+  "confidence": 0.3,
+  "sources": [
+   "https://selangorfc.com/match-preview-ls8-sabah-fc-vs-selangor-fc-preparations-going-fine/",
+   "https://sabah-fc.com/2026/11/27/sabah-fc-mahu-bangkit-sasar-persembahan-lebih-baik-menentang-selangor-fc/",
+   "https://urgent.news/2026/11/27/sport-sabah-fc-aim-to-bounce-back-against-selangor-fc-at-likas-stadium"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114735542",
+  "fx": "Kiminini Combined v Luanda Villa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Kenya National Super League (2nd tier). The season was delayed and kicked off on Nov 23. Kiminini are newly promoted, with their league place tied up in a court dispute; Luanda Villa were 13th last season.",
+  "news": "Fixture sites disagree on the date: FKF lists Kiminini v Luanda for Oct 31, while another site shows an Oct 25 meeting as postponed. No markets on the board.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (Oct 25/31 listings vs Nov 28); no markets on board; Kiminini league status under court dispute.",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.the-star.co.ke/sports/football/2026-11-23-relief-as-nsl-kicks-off-on-monday-after-prolonged-delay-1",
+   "https://www.fkfleagues.co.ke/team/7866/Kiminini-Combined",
+   "https://makeyourstats.com/football/league/kenya/super-league/1645/fixtures",
+   "https://pepeta.co.ke/luanda-villa-rally-as-sharks-to-hold-equity-soy-united-win/"
+  ]
+ },
+ {
+  "eid": "sr:match:70381752",
+  "fx": "Civil Service United FC v Mitundu Baptist",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malawi FDH Bank Premiership, late season. Civil Service United are ~11th (23 pts). Mitundu Baptist could not be matched to the published table, which lists \"Luanar Mitundu\" 5th on 29 pts; this may be a naming issue. Very low-scoring sides (0.5 and 1.0 GF).",
+  "news": "No news found; the opponent name does not match the league table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 p 0.68 < 0.82; result sides are near coin flips; data_conflict on the team name.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.zakumalawi.com/sports/football/super-league-malawi-table/",
+   "https://www.betexplorer.com/football/malawi/super-league/",
+   "https://sulommw.com/competition/fdh-bank-premiership-2026-27/"
+  ]
+ },
+ {
+  "eid": "sr:match:70381756",
+  "fx": "Blue Eagles Malawi v Creck SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malawi top flight. Blue Eagles are 4th (35 pts after 20) and in the chase for 2nd. Creck Sporting lost 0-1 to MAFCO last round, are winless in 5 away (0.4 GF away), and have no title or relegation pressure.",
+  "news": "Blue Eagles lost 2-3 at Silver Strikers in round 20. No absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.6749,
+    "why": "Blue Eagles are chasing a top-3 place v a Creck side that scores 0.4/game away (0W in 5 away); their home record is 3W 1D 1L. Own p 0.69, slightly above the house. Fill-grade."
+   }
+  ],
+  "avoid": "Totals (thin, low-scoring league); AH -1.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.zakumalawi.com/sports/football/super-league-malawi-table/",
+   "https://www.betexplorer.com/football/malawi/super-league/",
+   "https://sulommw.com/competition/fdh-bank-premiership-2026-27/"
+  ]
+ },
+ {
+  "eid": "sr:match:70381758",
+  "fx": "Red Lions v Karonga United FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malawi top flight, mid or lower table. Both sides are toothless (0.7 GF), and Red Lions concede 0.2/game at home.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 p 0.66 < 0.82 (gate); result sides are near coin flips.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.zakumalawi.com/sports/football/super-league-malawi-table/",
+   "https://www.betexplorer.com/football/malawi/super-league/",
+   "https://sulommw.com/competition/fdh-bank-premiership-2026-27/"
+  ]
+ },
+ {
+  "eid": "sr:match:74079800",
+  "fx": "Zebbug Rangers FC v Santa Lucia FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Challenge League (2nd tier, semi-pro). On a LiveSoccerTV snapshot Zebbug are 10th (7 pts) and Santa Lucia 13th (6 pts). Yet the house makes Santa Lucia a 1.47 away favourite.",
+  "news": "The price conflicts with the standings: Santa Lucia are priced as clear favourites but sit 13th in the snapshot, which may be stale. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result sides (data_conflict between price and table); Over 1.5 because Santa Lucia have drawn 6 of 10 with low totals.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/malta/challenge-league/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Maltese_Challenge_League"
+  ]
+ },
+ {
+  "eid": "sr:match:75178870",
+  "fx": "AL Arabi v AL Faisaly (Jor)",
+  "sport": "football",
+  "absences": "None named. Al Faisaly played AFC Champions League Two MD5 on Nov 25/26 (lost 0-1 to Al Rayyan), 2-3 days earlier, so rotation or fatigue is likely.",
+  "context": "Jordan Pro League. Al Arabi are promoted strugglers (relegation zone in Sept). Al Faisaly (2025-26 runners-up) are 1W 3L in their ACL2 group and have scored 5 in their last 6.",
+  "news": "Al Faisaly lost 0-1 v Al Rayyan in ACL2 midweek (Mitrovic 37'). Sources differ on whether that game was Nov 25 or 26; this is not a conflict for this fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.32,
+    "p": 0.7232,
+    "why": "Rotation after the ACL2 trip 2-3 days earlier, plus Faisaly's goal drought (0,3,0,1,0,0 in last 6), makes a 3+ goal away win unlikely; it voids at exactly 2. Favourite p 0.67 >= 0.55, so +2.0 rather than +1.5. Own p 0.80."
+   }
+  ],
+  "avoid": "Al Faisaly 1X2 or DNB (ACL fatigue; away p < 0.75); AH -1/-1.5.",
+  "confidence": 0.3,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Jordanian_Pro_League",
+   "https://www.worldfootball.net/match-report/co711/afc-champions-league-two/ma12477101/al-faisaly_al-rayyan/",
+   "https://www.the-afc.com/en/club/afc_champions_league_two/home.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76462934",
+  "fx": "Floriana FC v Hamrun Spartans FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Premier League Top-6 round. Floriana and Hamrun are level on 19 pts (4th and 5th) in a big-club clash in Malta. Hamrun are unbeaten in 10 (4W 6D); Floriana are 0W in 5 at home and lost 1-2 to Valletta on Nov 21.",
+  "news": "Kick-off is listed at different hours (14:00 UTC Sofascore v 15:00 local), consistent once time zones are applied; Telefootball's odd times are regional. No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result side (big-club clash). Totals: big-club totals need p >= 0.82 and Over 1.5 is only 0.74.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/football/match/floriana-fc-hamrun-spartans-fc/IwnsJwn",
+   "https://stats.maltafootball.info/team/hamrun-spartans-fc"
+  ]
+ },
+ {
+  "eid": "sr:match:74079804",
+  "fx": "Fgura United FC v Tarxien Rainbows FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Challenge League. Tarxien Rainbows lead (19 pts, 6W 1D 0L, 18 GF in 7) and are 4W 1D 0L away with 2.8 GF and 1.6 GA. Fgura are unbeaten in 10 (5W 5D), drawing all 4 at home.",
+  "news": "Tarxien top the table per LiveSoccerTV. No absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.7872,
+    "why": "Tarxien's attack scores 2.8/game away and all of their last 6 had 2+ goals (2,6,3,3,3,4); Fgura's last 6 at home average 2.2. Own p 0.80."
+   }
+  ],
+  "avoid": "1X2 (Fgura are unbeaten and the price is close); Under.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/malta/challenge-league/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Maltese_Challenge_League"
+  ]
+ },
+ {
+  "eid": "sr:match:74079802",
+  "fx": "Zurrieq v Melita FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Challenge League. Melita are 5th (13 pts) per LiveSoccerTV and strong away (3W 1D 1L, 0.6 GA). Zurrieq are mid-table. Wikipedia's 2025-26 table claims Melita were promoted while its 2026-27 page lists them in the Challenge League, so the page contradicts itself; the board and Sportradar place Melita in the Challenge League.",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Melita away 1X2 (p 0.57 < 0.75). DNB Away 1.27 is statistics-only with no mechanism, so skipped.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livesoccertv.com/competitions/malta/challenge-league/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Maltese_Challenge_League"
+  ]
+ },
+ {
+  "eid": "sr:match:77152022",
+  "fx": "Centre Sportif de Bamako v Stade Malien de Bamako",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mali Ligue 1 MD5. This is a Bamako derby (both clubs from Bamako). Stade Malien are 4th (8 pts, 2W 2D, 3 GF 1 GA), drew 1-1 v Binga on Nov 22 and have kept 5 clean sheets away. CS Bamako have played only 4 recorded games.",
+  "news": "Afreeque confirms Nov 28 at 16:00 Casablanca time (=16:00 UTC), MD5. No venue or team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result side (derby). Under 2.5 p 0.66 < 0.82.",
+  "confidence": 0.1,
+  "sources": [
+   "https://afreeque.com/en/football/match/cs-bamako-stade-malien-bamako-2026-11-28",
+   "https://afreeque.com/en/football/standings/malian-premiere-division",
+   "https://lesnouvellesdufoot.fr/afrique/mali/"
+  ]
+ },
+ {
+  "eid": "sr:match:77152026",
+  "fx": "Union Sportive Bougouba v Derby Academie",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mali Ligue 1 MD5. Derby Academie lead (10 pts from 4) and US Bougouba have 8; this is a top-of-table meeting in a low-scoring league.",
+  "news": "Standings per Afreeque (Nov 26). No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (coin flip); Under 3.5 at 1.16 is below the floor; Under 2.5 p 0.63.",
+  "confidence": 0.1,
+  "sources": [
+   "https://afreeque.com/en/football/match/cs-bamako-stade-malien-bamako-2026-11-28",
+   "https://afreeque.com/en/football/standings/malian-premiere-division",
+   "https://lesnouvellesdufoot.fr/afrique/mali/"
+  ]
+ },
+ {
+  "eid": "sr:match:75178872",
+  "fx": "Ramtha SC v Al Hussein Irbid",
+  "sport": "football",
+  "absences": "None named. Al Hussein changed coach in Sept (Ahmad Hayel sacked Sept 13; Curro Torres appointed Sept 28).",
+  "context": "Jordan Pro League Irbid derby: Al Ramtha (coach Rodion Gacanin) v three-time defending champions Al Hussein Irbid. The last H2H was 0-5.",
+  "news": "No current team news. Al Hussein are not in ACL2, so no midweek congestion was found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result side (derby). Over 1.5 p 0.77 in a derby is mid-band, so skipped.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Jordanian_Pro_League",
+   "https://www.worldfootball.net/match-report/co711/afc-champions-league-two/ma12477101/al-faisaly_al-rayyan/",
+   "https://www.the-afc.com/en/club/afc_champions_league_two/home.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76463332",
+  "fx": "Zabbar Saint Patrick FC v Balzan FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Malta Premier League (Opening/Top-6 phase). Zabbar beat Balzan 2-1 away on Oct 17 (Kanu winner). Zabbar score 2.75/game at home, and the last 6 games of both sides all had 2+ goals.",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.7597,
+    "why": "Zabbar home 2.75 GF/1.0 GA. Zabbar's recent totals are 2,2,5,3,5,3 and Balzan's 5,3,3,2,2,3; the Oct H2H was 2-1. Own p 0.80."
+   }
+  ],
+  "avoid": "1X2 and DNB (near coin flip).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.maltafootball.com/2026/10/17/zabbar-st-patrick-turn-defeat-into-victory/",
+   "https://stats.maltafootball.info/event/30028"
+  ]
+ },
+ {
+  "eid": "sr:match:74100808",
+  "fx": "H2O Purepechas FC v Irapuato",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mexico Primera Premier (3rd tier, new format), group-stage league phase, not a knockout. Irapuato top Group 1 (~32 pts from 10 per es.wikipedia), with 9W in 10 and 4/4 wins away. Purepechas (formerly H2O, replaced Halcones in Aug 2026) have 2W in 10 and 0.6 GF.",
+  "news": "No absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.23,
+    "p": 0.7639,
+    "why": "The table leaders have won 9 of 10 and all 4 away, against a newly formed side scoring 0.6/game; the draw is refunded. Away 1X2 p 0.59 is below 0.75, so DNB. Own p 0.80."
+   }
+  ],
+  "avoid": "Away 1X2 (p < 0.75); AH -1.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.xeudeportes.mx/deporte-veracruz/1429007/racing-de-veracruz-ya-tiene-grupo-para-la-primera-premier",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72963868",
+  "fx": "FC Wiltz 71 v US Hostert",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Luxembourg BGL Ligue R14 at Stade Am Petz. Two leaky strugglers: Wiltz (1W in 10, 3.0 GA) and Hostert (1W in 10, 2.1 GA). Their last 12 games combined: 9 had 3+ goals.",
+  "news": "Date and time are confirmed by BetExplorer and the US Hostert club site (Nov 28, 19:00 CET = 18:00 UTC). One Soccerway entry shows 29.11, contradicted by all other sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.43,
+    "p": 0.6666,
+    "why": "Wiltz games: 4,9,2,6,5,2; Hostert games: 8,5,3,2,6,2; Wiltz concede 3.0/game. Own p 0.71 vs house 0.67; mid-band and statistics-only, so low conf."
+   }
+  ],
+  "avoid": "Over 1.5 at 1.12 is below the floor; result sides.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betexplorer.com/football/luxembourg/bgl-ligue/",
+   "https://www.ushostert.lu/",
+   "https://www.365scores.com/football/league/bgl-ligue-6241/matches"
+  ]
+ },
+ {
+  "eid": "sr:match:74100812",
+  "fx": "Cordobes FC v Tritones Vallarta MFC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mexico Primera Premier Group 1. Cordobes have won 3 of 5 at home; Tritones Vallarta are 0W in 7 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No named mechanism; DC Home or Draw is statistics-only.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.xeudeportes.mx/deporte-veracruz/1429007/racing-de-veracruz-ya-tiene-grupo-para-la-primera-premier",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:74101062",
+  "fx": "Racing de Veracruz v Pioneros de Cancun",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mexico Primera Premier, cross-group. Racing de Veracruz (~24 pts) host Pioneros de Cancun (~23 pts); both were marked in quarter-final positions on es.wikipedia. Racing score 3.2/game at home but concede 2.6.",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Racing DNB 1.17 is below the floor; home 1X2 p 0.63 is statistics-only v a top side; Over 2.5 is mid-band.",
+  "confidence": 0.15,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.xeudeportes.mx/deporte-veracruz/1429007/racing-de-veracruz-ya-tiene-grupo-para-la-primera-premier",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:74100810",
+  "fx": "Zacatepec FC v Los Cabos United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mexico Primera Premier. Zacatepec are leaky at home (3.25 GA) and Los Cabos are weak in attack (0.83 GF away).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (coin flip, no mechanism).",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.xeudeportes.mx/deporte-veracruz/1429007/racing-de-veracruz-ya-tiene-grupo-para-la-primera-premier",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:74101064",
+  "fx": "Deportiva Venados v Chapulineros de Oaxaca",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Mexico Primera Premier. Venados play very open games (3.1 GF and 3.1 GA over last 10). Chapulineros de Oaxaca (Group 2) have 4W 4D in 10.",
+  "news": "No team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.7887,
+    "why": "Venados' last 6 had 3,4,2,3,4,5 goals and Chapulineros' last 6 all had 2+ (2,2,2,2,3,3). Own p 0.83."
+   }
+  ],
+  "avoid": "1X2 (Venados 4W 5L, volatile).",
+  "confidence": 0.25,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Anexo:Primera_Premier_2026-27",
+   "https://www.xeudeportes.mx/deporte-veracruz/1429007/racing-de-veracruz-ya-tiene-grupo-para-la-primera-premier",
+   "https://www.365scores.com/en-us/football/league/primera-premier-9119/standings"
+  ]
+ },
+ {
+  "eid": "sr:match:72665120",
+  "fx": "Briobecca Urayasu v Tiamo Hirakata",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL 2026-27 (4th tier, semi-pro, first autumn-spring season). Briobecca Urayasu v Tiamo Hirakata; Tiamo concede 2.1/game.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (semi-pro, no news).",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Japan_Football_League",
+   "https://www.worldfootball.net/competition/co4004/japan-japan-football-league/results-and-standings/"
+  ]
+ },
+ {
+  "eid": "sr:match:72665124",
+  "fx": "J-Lease FC v Maruyasu Okazaki",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL. Maruyasu Okazaki are in a slump (1W 8L in 10, 1W in 5 away, 1.9 GA). J-Lease are 4W 4D in 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "J-Lease DNB 1.51 (p 0.61) is statistics-only in a semi-pro league; skipped.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Japan_Football_League",
+   "https://www.worldfootball.net/competition/co4004/japan-japan-football-league/results-and-standings/"
+  ]
+ },
+ {
+  "eid": "sr:match:72665122",
+  "fx": "Minebea Mitsumi FC v Azul Claro Numazu",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL. Minebea Mitsumi are 1W 4L at home (2.4 GA), including a 2-6 home loss. Azul Claro Numazu are 1W 4D 1L away. Only 1X2/DC/DNB are on the board.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Japan_Football_League",
+   "https://www.worldfootball.net/competition/co4004/japan-japan-football-league/results-and-standings/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152254",
+  "fx": "Mio Biwako Shiga v Ehime FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "J3 MW20 (Nov 29), 4 days after midweek MW19. Ehime are ~4th (29 pts) but lost 0-3 at Sagamihara on Nov 25 and are 3W 7L in their last 10. Mio Biwako (0.6 GF) are 0W in 4 at home.",
+  "news": "Ehime lost 0-3 to Sagamihara midweek. No named absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ehime 1X2 (away p 0.45). Home +1.5 at 1.24 is plausible but statistics-only; skipped. Over 1.5: Mio's games are very low scoring.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/en/news/article/35470/",
+   "https://www.jleague.jp/en/j3/match/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_J3_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72152248",
+  "fx": "Thespa Gunma v Matsumoto Yamaga FC",
+  "sport": "football",
+  "absences": "Gunma: Kazuma Yamaguchi had a left calf muscle injury (announcement date unclear; status unknown).",
+  "context": "J3 MW20. Matsumoto Yamaga are in collapse: 2W 7L in their last 10, 0.8 GF, and a 1-5 loss at Ryukyu on Nov 21. Thespa Gunma beat FC Gifu on Nov 25. Matsumoto won the Oct 21 meeting 2-0.",
+  "news": "Gunma beat Gifu midweek; Matsumoto lost 1-5 at Ryukyu (Nov 21). Both teams played midweek.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.28,
+    "p": 0.7403,
+    "why": "The away favourite at p 0.48 is in a 2W/10 slump (0.8 GF), while Gunma come off a win. The leg only loses to a Matsumoto win by 2+, and the Oct meeting was exactly 2-0, which is the risk. Favourite p < 0.55, so +1.5 is allowed. Own p 0.78."
+   }
+  ],
+  "avoid": "Matsumoto 1X2; Over 1.5 (Matsumoto's attack is blunt).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.jleague.jp/en/news/article/35470/",
+   "https://www.jleague.jp/en/j3/match/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_J3_League",
+   "https://www.yamaga-fc.com/archives/563345",
+   "https://prtimes.jp/main/html/rd/p/000000279.000096552.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72152246",
+  "fx": "Tochigi SC v SC Sagamihara",
+  "sport": "football",
+  "absences": "none found",
+  "context": "J3 MW20. SC Sagamihara top the table (37 pts, +17 GD) after a 3-0 win over Ehime on Nov 25 (Handai 88') and are 4W 2L away with 0.67 GA. Tochigi SC are 12th (27 pts), lost 0-1 at FC Osaka midweek, and score 0.8/game at home. The previous H2H was 0-0.",
+  "news": "Sagamihara went top with a 3-0 win v Ehime; Tochigi lost 0-1 at FC Osaka (Shimada 69'). Both played midweek.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Away (+1.0)",
+    "odds": 1.19,
+    "p": 0.8063,
+    "why": "The league leaders, with the best defence, face a Tochigi side scoring 0.8/game at home and beaten midweek. The leg wins on a Sagamihara win or draw and voids on a 1-goal loss. Own p 0.84."
+   }
+  ],
+  "avoid": "Over 2.5 (Tochigi home games are very low scoring: GA 0.2).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.jleague.jp/en/news/article/35470/",
+   "https://www.jleague.jp/en/j3/match/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_J3_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72152252",
+  "fx": "Zweigen Kanazawa v FC Gifu",
+  "sport": "football",
+  "absences": "none found",
+  "context": "J3 MW20. Zweigen Kanazawa are ~5th (28 pts). FC Gifu lost to Thespa Gunma on Nov 25 but are 7W in their last 10. Both played midweek.",
+  "news": "Gifu lost at Gunma midweek. No absences found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (coin flip); Over 1.5 is mid-band.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/en/news/article/35470/",
+   "https://www.jleague.jp/en/j3/match/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_J3_League"
+  ]
+ },
+ {
+  "eid": "sr:match:72665126",
+  "fx": "Yokogawa Musashino FC v Iwate Grulla Morioka",
+  "sport": "football",
+  "absences": "none found",
+  "context": "JFL. Yokogawa Musashino (2.0 GF, with a 4-0 home win in their last 6) v Iwate Grulla Morioka (3W 1D 1L away).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (semi-pro, no news, coin flip).",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Japan_Football_League",
+   "https://www.worldfootball.net/competition/co4004/japan-japan-football-league/results-and-standings/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152262",
+  "fx": "FC Ryukyu v Renofa Yamaguchi",
+  "sport": "football",
+  "absences": "none found",
+  "context": "J3 MW20. FC Ryukyu are 2nd (30 pts), thrashed Matsumoto 5-1 on Nov 21 and are 3W 1D 1L at home with 2.0 GF. Renofa Yamaguchi (relegated from J2) are 5W in 10 with 0.9 GA. Kick-off is 15:00 JST (06:00 UTC), matching the board.",
+  "news": "Ryukyu beat Matsumoto 5-1 on Nov 21; Kick-off is 15:00 JST per J.League.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.23,
+    "p": 0.7727,
+    "why": "The 2nd-placed home side is priced as a 3.0 underdog; Ryukyu score 2.0/game at home, and Renofa's last 10 contain few 2+ goal away wins. Favourite p 0.44 < 0.55, so +1.5 is allowed. Own p 0.82."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.7984,
+    "why": "Ryukyu's recent totals are 2,6,1,5,5,7 (home 2.0 GF, 1.2 GA). Own p 0.81."
+   }
+  ],
+  "avoid": "Renofa 1X2 and AH -1.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.jleague.jp/en/news/article/35470/",
+   "https://www.jleague.jp/en/j3/match/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_J3_League"
+  ]
+ }
+]
