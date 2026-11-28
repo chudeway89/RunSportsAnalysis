@@ -1,0 +1,198 @@
+[
+ {
+  "eid": "sr:match:72149920",
+  "fx": "Machida Zelvia v Tokyo Verdy",
+  "sport": "football",
+  "absences": "Machida: no current injury report found (Nishimura, Soma, Neta Lavi were long-term absentees in May; status now unconfirmed).",
+  "context": "J1 2026-27, round 17 at Machida GION Stadium, 16:00 JST (= 07:00 UTC, matches board). Machida drew 0-0 / failed to score v Nagasaki on Nov 21 after the international break. Earlier meetings this year 2-2 and 0-0.",
+  "news": "Fixture confirmed (365Scores); no fresh team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.8052228608,
+    "oid": "4",
+    "why": "Machida concede 0.4/game over last 10 and 0.4 at home, but 4 of last 5 home games were draws (0-0, 1-1, 0-0): DNB removes the draw that dominates their home profile. Own p ~0.80."
+   }
+  ],
+  "avoid": "Home 1X2 1.60 (draw-heavy home form, 3 draws in last 4 at home); Under 3.5 p 0.78 below the 0.82 Under gate; integer O/U 2.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/football/match/j-league-147/machida-zelvia-tokyo-verdy-2153-9133-147",
+   "https://www.jleague.jp/match/j1/2026/051301/review/"
+  ]
+ },
+ {
+  "eid": "sr:match:72665128",
+  "fx": "Verspah Oita v Okinawa SV",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "JFL round 14, Klasse Soccer & Rugby Field A, Oita, 16:00 JST (07:00 UTC, matches board). Semi-pro 4th tier. Okinawa SV beat Verspah 3-0 in the JFL Cup in April.",
+  "news": "Date, venue and kick-off confirmed by JFL official site and both clubs; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Semi-pro/amateur tier: no Unders; no result-side without a mechanism (DC Draw or Away p 0.62 is mid-band).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.oita-sportspark.jp/event/4762",
+   "https://www.okinawasv.com/schedule/index/year/2026/month/11/",
+   "https://www.jfl.or.jp/jfl-pc/view/s.php?a=2591&f=2026A001_spc.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76463334",
+  "fx": "Birzebbuga St. Peters FC v Gzira United FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Malta Premier League. Birzebbuga lost 2-3 to Birkirkara last round; Gzira lost 0-2 at Zabbar and have 0 wins in their last 10.",
+  "news": "No preview found; one Flashscore snapshot shows a different 29.11 slate (likely stale), fixture date not independently confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Both sides poor, coin-flip prices; thin league for Overs. Fixture date only from board (Flashscore snapshot lists other ties on 29.11) - treat as data_conflict-lite.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tntsports.co.uk/football/bov-premier-league/calendar-results.shtml",
+   "https://www.flashscore.com/football/malta/premier-league/fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:74056974",
+  "fx": "Shabana FC v Ulinzi Stars FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Kenya Premier League. Shabana 11th, Ulinzi 12th per SportPesa League snapshot.",
+  "news": "Kick-off/venue conflict: board 10:30 UTC; BetExplorer 13:00 CET (12:00 UTC); one fixtures page says 15:00 local (12:00 UTC) at Gusii Stadium Kisii, SportPesa League says Afraha Stadium Nakuru.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict (board 10:30 UTC vs 12:00 UTC on two sources) and venue conflict (Gusii, Kisii vs Afraha, Nakuru).",
+  "picks": [],
+  "avoid": "Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/kenya/premier-league/fixtures/",
+   "https://sportpesaleague.ke/",
+   "https://kenyafootballdata.com/tournament_fixtures.php?t=uftn0122"
+  ]
+ },
+ {
+  "eid": "sr:match:72041266",
+  "fx": "ADO Den Haag v FC Utrecht",
+  "sport": "football",
+  "absences": "ADO: Matteo Waem (CB) suspended after red card v Ajax - Van Mieghem/Mulder pairing; Luka Reischl out (groin). Utrecht: Kevin Paredes, Victor Jensen, Alonzo Engwanda (back ~Dec 19), Miliano Jonathans, Noah Ohio (Jan), Angel Alarcon out.",
+  "context": "Eredivisie round 14, 12:15 CET (11:15 UTC, matches board). Utrecht sacked Anthony Correia; Mark Otten's first match as interim. Both defences leaky (ADO ga 2.4, Utrecht ga 2.2 last 10; ADO results include 6-7, 2-3, 0-3).",
+  "news": "ADO lose starting CB to suspension; Utrecht depleted (6 out) and on interim coach after Correia sacking.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.8187145437,
+    "oid": "12",
+    "why": "Named mechanism: ADO's first-choice CB Waem suspended, Utrecht under a new interim coach with 6 absentees; both concede 2.2+ per game and 5 of ADO's last 6 had 3+ goals. Eredivisie ~3.1 goals/game. Own p ~0.85."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.62,
+    "p": 0.5990419128,
+    "oid": "12",
+    "why": "Same mechanism (ADO CB suspension, porous defences both sides; preview predicts 2-3). Own p ~0.63, small edge; secondary."
+   }
+  ],
+  "avoid": "Result sides: interim-coach bounce for Utrecht vs ADO home - genuinely uncertain; avoid 1X2/DNB.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/ado-den-haag/preview/ado-den-haag-vs-utrecht-prediction-team-news-lineups_610052.html",
+   "https://www.utrechtfans.nl/ado-den-haag-krijgt-flinke-tegenvaller-richting-fc-utrecht-duel/",
+   "https://www.whoscored.com/matches/1982356/preview/netherlands-eredivisie-2026-2027-ado-den-haag-fc-utrecht"
+  ]
+ },
+ {
+  "eid": "sr:match:72044866",
+  "fx": "FC Volendam v FC Eindhoven",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Eerste Divisie round 17, Kras Stadion, 12:15 CET (11:15 UTC, matches board; confirmed by club site, Voetbalprimeur, FCUpdate). Both teams' last 6 games all had 3+ goals; last H2H 3-5.",
+  "news": "Fixture confirmed; no team news. Minor source disagreement on Volendam's Nov 20 opponent (past match, not this fixture).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.34,
+    "p": 0.712655,
+    "oid": "12",
+    "why": "Fixture-specific: every one of the last 6 for both Volendam (1-2,1-3,3-2,1-2,3-5,6-2) and Eindhoven (3-2,2-1,0-3,2-3,5-3,1-2) had 3+ goals, last H2H 3-5; Eindhoven concede 2.75 away. Own p ~0.75."
+   }
+  ],
+  "avoid": "Integer Over 3; Volendam DNB fine but no mechanism.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.voetbalprimeur.nl/wedstrijden/2026-11-29/fc-volendam-vs-fc-eindhoven",
+   "https://fcvolendam.nl/voetbal/1e-elftal/programma/",
+   "https://www.fcupdate.nl/voetbalcompetities/nederland/keuken-kampioen-divisie"
+  ]
+ },
+ {
+  "eid": "sr:match:74056972",
+  "fx": "Kenya Commercial Bank v Bandari FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Kenya Premier League; KCB 1st in SportPesa League snapshot, 4/4 home wins conceding 0.25.",
+  "news": "Date agrees (29 Nov, 15:00 EAT = 12:00 UTC) but venue conflicts: SportPesa League says Police Sacco Stadium Nairobi, another fixtures page says Ulinzi Sports Complex.",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Police Sacco Stadium vs Ulinzi Sports Complex).",
+  "picks": [],
+  "avoid": "Veto; otherwise KCB DNB would have been the candidate.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/kenya/premier-league/fixtures/",
+   "https://sportpesaleague.ke/",
+   "https://kenyafootballdata.com/tournament_fixtures.php?t=uftn0122"
+  ]
+ },
+ {
+  "eid": "sr:match:74056966",
+  "fx": "Posta Rangers FC v Nairobi United FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Kenya Premier League. Posta 2-1-7 last 10 (1-0-4 at home); Nairobi United 2-7-1, draw-heavy.",
+  "news": "No source confirms the 29 Nov date (365Scores only lists Nairobi United as Posta's next opponent, undated).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Stats-only result-side (Draw or Away 1.27) - no mechanism; thin league, no goals picks; date unconfirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/football/match/premier-league-5575/posta-rangers-fc-tusker-fc-10663-28927-5575"
+  ]
+ },
+ {
+  "eid": "sr:match:74056968",
+  "fx": "Leopards SC v Tusker Football Club",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Kenya Premier League, big Nairobi fixture (AFC Leopards v Tusker - traditional heavyweight clash). Leopards extremely low-scoring (gf 0.7, ga 0.3, three 0-0 in last 6).",
+  "news": "AiScore lists the fixture on 29 Nov; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result-side; Under 2.5 p 0.70 below 0.82 Under gate.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.aiscore.com/live/football-afc-leopards-vs-tusker",
+   "https://k24.digital/sports/afc-leopards-vs-tusker-tough-test-as-ingwe-face-revenge-seeking-brewers"
+  ]
+ }
+]
