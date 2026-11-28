@@ -1,0 +1,615 @@
+[
+ {
+  "eid": "sr:match:73628156",
+  "fx": "AC Virtus Bolzano v US Triestina Calcio 1918",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D (amateur/semi-pro, 4th tier) Girone C round 14, Sun 29 Nov 14:30 CET; date/time confirmed by notiziariocalcio and friuligol. Triestina low in table (14 pts) after blowing 2-0 lead to lose 4-3 at Brian Lignano; 'vietato sbagliare'. Bolzano conceded 3.1/g last 10 (0-7 loss).",
+  "news": "Triestina under pressure after 4-3 defeat; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; Triestina away 1.98 p0.47 below away threshold",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-girone-c-cjarlins-e-mestre-ok-cade-la-triestina/",
+   "https://golindiretta.it/serie-d/girone-c/",
+   "https://www.friuligol.it/articolo/presentazione-turno-numero-14"
+  ]
+ },
+ {
+  "eid": "sr:match:73628144",
+  "fx": "Calcio Schio v A.C. Mestre",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D (amateur/semi-pro, 4th tier) Girone C round 14, Sun 29 Nov 14:30 CET; date/time confirmed by notiziariocalcio and friuligol. Mestre in form (won round 13), Schio mid-table.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; Mestre away 1.86 p0.50 < 0.75",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-girone-c-cjarlins-e-mestre-ok-cade-la-triestina/",
+   "https://golindiretta.it/serie-d/girone-c/",
+   "https://www.friuligol.it/articolo/presentazione-turno-numero-14"
+  ]
+ },
+ {
+  "eid": "sr:match:73628146",
+  "fx": "FC Calvi Noale v ACD Campodarsego Calcio",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D (amateur/semi-pro, 4th tier) Girone C round 14, Sun 29 Nov 14:30 CET; date/time confirmed by notiziariocalcio and friuligol.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-girone-c-cjarlins-e-mestre-ok-cade-la-triestina/",
+   "https://golindiretta.it/serie-d/girone-c/",
+   "https://www.friuligol.it/articolo/presentazione-turno-numero-14"
+  ]
+ },
+ {
+  "eid": "sr:match:73628150",
+  "fx": "Luparense FC v Obermais",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D (amateur/semi-pro, 4th tier) Girone C round 14, Sun 29 Nov 14:30 CET; date/time confirmed by notiziariocalcio and friuligol. Luparense 5th (21 pts) after 2-1 loss at leaders Cjarlins; Obermais 15th (13 pts), away 0-1-4 last 5 aways. Luparense low-scoring (1.0 gf/0.6 ga last 10).",
+  "news": "Luparense v struggling Obermais; no absences found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.6,
+    "p": 0.584199,
+    "why": "Table gap 21 v 13 pts, Obermais 0W in last 5 away and conceding 1.6/g; Luparense concede 0.6/g. Own p ~0.60 v house 0.58; secondary leg only (low-scoring home side, draw risk)."
+   }
+  ],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-girone-c-cjarlins-e-mestre-ok-cade-la-triestina/",
+   "https://golindiretta.it/serie-d/girone-c/",
+   "https://www.friuligol.it/articolo/presentazione-turno-numero-14"
+  ]
+ },
+ {
+  "eid": "sr:match:73628142",
+  "fx": "Ssd Calcio San Dona v ASD Cjarlins Muzane",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D (amateur/semi-pro, 4th tier) Girone C round 14, Sun 29 Nov 14:30 CET; date/time confirmed by notiziariocalcio and friuligol. Top-two clash: Sandonà 2nd (23) v runaway leaders Cjarlins Muzane (31, 8-1-1 last 10, 5/5 away wins). Sandonà 4 straight home draws.",
+  "news": "Big top-of-table clash, Cjarlins +8; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; no result side in top-of-table clash; Cjarlins away p0.45",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-girone-c-cjarlins-e-mestre-ok-cade-la-triestina/",
+   "https://golindiretta.it/serie-d/girone-c/",
+   "https://www.friuligol.it/articolo/presentazione-turno-numero-14"
+  ]
+ },
+ {
+  "eid": "sr:match:73628152",
+  "fx": "Union Clodiense Chioggia SSD v Fcd Conegliano 1907",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D (amateur/semi-pro, 4th tier) Girone C round 14, Sun 29 Nov 14:30 CET; date/time confirmed by notiziariocalcio and friuligol. Clodiense 3rd (22) lost 2-1 at LME; Conegliano 18 pts lost 0-3 to Sandonà.",
+  "news": "Clodiense bounce-back spot; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; Clodiense home 1.80 p0.52 - no mechanism beyond table",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-girone-c-cjarlins-e-mestre-ok-cade-la-triestina/",
+   "https://golindiretta.it/serie-d/girone-c/",
+   "https://www.friuligol.it/articolo/presentazione-turno-numero-14"
+  ]
+ },
+ {
+  "eid": "sr:match:73628154",
+  "fx": "Unione La Rocca Altavilla v Bassano Virtus",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D (amateur/semi-pro, 4th tier) Girone C round 14, Sun 29 Nov 14:30 CET; date/time confirmed by notiziariocalcio and friuligol.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-girone-c-cjarlins-e-mestre-ok-cade-la-triestina/",
+   "https://golindiretta.it/serie-d/girone-c/",
+   "https://www.friuligol.it/articolo/presentazione-turno-numero-14"
+  ]
+ },
+ {
+  "eid": "sr:match:73629466",
+  "fx": "ASD Sant'Angelo v Asd Solbiatese Calcio 1911",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone D round 14, Sun 29 Nov 14:30 CET (only Arconatese-Cittadella moved to Saturday); confirmed seried.it/notiziariocalcio.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.seried.it/2026/11/varese-otto-punti-persi-e-un-bivio-la-rincorsa-ai-playoff-nel-girone-d/"
+  ]
+ },
+ {
+  "eid": "sr:match:73629468",
+  "fx": "ASD Varesina Calcio v AC Crema 1908",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone D round 14, Sun 29 Nov 14:30 CET (only Arconatese-Cittadella moved to Saturday); confirmed seried.it/notiziariocalcio. Varesina 'to turn the page' after poor run (varesenews).",
+  "news": "Varesina seeking reaction v Crema; no absences found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.seried.it/2026/11/varese-otto-punti-persi-e-un-bivio-la-rincorsa-ai-playoff-nel-girone-d/",
+   "https://www.varesenews.it/2026/11/la-varesina-affronta-il-crema-per-voltare-pagina/2752507/"
+  ]
+ },
+ {
+  "eid": "sr:match:73629460",
+  "fx": "Correggese Calcio 1948 v Oltrepo FBC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone D round 14, Sun 29 Nov 14:30 CET (only Arconatese-Cittadella moved to Saturday); confirmed seried.it/notiziariocalcio. Oltrepò dire: 0.4 gf/2.3 ga last 10, 0-1-4 away; lost 2-0 to Varese last out. Correggese (coach Rizzelli) winless lately (4-2 L at Pro Sesto, 2-2, 1-1, 0-2) and leak 1.7/g.",
+  "news": "Correggese poor form but Oltrepò worst attack in sample",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.65,
+    "p": 0.566487,
+    "why": "Oltrepò score 0.4/g and 0W in 5 aways; own p ~0.58 v house 0.57 - marginal, Correggese winless run tempers it; fill only."
+   }
+  ],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.seried.it/2026/11/varese-otto-punti-persi-e-un-bivio-la-rincorsa-ai-playoff-nel-girone-d/",
+   "https://onefootball.com/en/match/2727762"
+  ]
+ },
+ {
+  "eid": "sr:match:73629462",
+  "fx": "Pavia Calcio 1911 v Varese FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone D round 14, Sun 29 Nov 14:30 CET (only Arconatese-Cittadella moved to Saturday); confirmed seried.it/notiziariocalcio. 'Big match' for Varese, who call it crucial for playoff race after 8 points dropped (seried.it).",
+  "news": "Varese playoff-chase must-win at Pavia",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; derby-style regional clash, no result side",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.seried.it/2026/11/varese-otto-punti-persi-e-un-bivio-la-rincorsa-ai-playoff-nel-girone-d/"
+  ]
+ },
+ {
+  "eid": "sr:match:73629464",
+  "fx": "Pistoiese FC v Lentigione Calcio",
+  "sport": "football",
+  "absences": "Pistoiese recovering Accardi/Maldonado/Luperini earlier in autumn (status not confirmed)",
+  "context": "Italy Serie D Girone D round 14, Sun 29 Nov 14:30 CET (only Arconatese-Cittadella moved to Saturday); confirmed seried.it/notiziariocalcio. Top clash: leaders Pistoiese (29) v 2nd Lentigione (27).",
+  "news": "1st v 2nd; no current team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; no result side in top-of-table clash",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.seried.it/2026/11/varese-otto-punti-persi-e-un-bivio-la-rincorsa-ai-playoff-nel-girone-d/",
+   "https://sport.quotidiano.net/altri-sport/lo-scenario-pistoiese-la-sosta-e63e8b39"
+  ]
+ },
+ {
+  "eid": "sr:match:73629454",
+  "fx": "Pro Patria Busto Arsizio v Tropical Coriano",
+  "sport": "football",
+  "absences": "Tropical Coriano: injury list (Cevoli, Riccardi, Contadini, Pietrelli, Tamagnini, Arlotti) reported ~4 weeks ago; Capicchioni suspended then - current status unconfirmed",
+  "context": "Italy Serie D Girone D round 14, Sun 29 Nov 14:30 CET (only Arconatese-Cittadella moved to Saturday); confirmed seried.it/notiziariocalcio. Pro Patria 4th (25 pts, unbeaten 3-2-0 last 5 home); Tropical Coriano 9 pts, 'October nightmare', 2-2-6 last 10. Venue Speroni, Busto Arsizio, 14:30 confirmed.",
+  "news": "Pro Patria hosts struggling Tropical Coriano; earlier Diretta mention of a postponed Pistoiese-Tropical fixture refers to another round, this game confirmed for 29 Nov",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.34,
+    "p": 0.705507,
+    "why": "16-pt table gap (25 v 9), Tropical injury-hit and 6 losses in last 10; Pro Patria unbeaten at home. Own p ~0.71 = house 0.706; core-grade only as a short home fav."
+   }
+  ],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.seried.it/2026/11/varese-otto-punti-persi-e-un-bivio-la-rincorsa-ai-playoff-nel-girone-d/",
+   "https://www.seried.it/2026/11/pro-patria-tropical-coriano-dove-vedere-la-sfida-di-serie-d/",
+   "https://altarimini.it/tropical-coriano-lottobre-da-incubo-e-finalmente-finito-adesso-serve-resettare.php"
+  ]
+ },
+ {
+  "eid": "sr:match:73629456",
+  "fx": "USD Casatese Merate v US Citta Di Pontedera",
+  "sport": "football",
+  "absences": "Pontedera: coach Mascara sacked earlier after 6 straight defeats",
+  "context": "Italy Serie D Girone D round 14, Sun 29 Nov 14:30 CET (only Arconatese-Cittadella moved to Saturday); confirmed seried.it/notiziariocalcio. Casatese 4 straight wins, 4th (25), 4 pts off top; Pontedera 8 pts, 2-2-6 last 10, 2.2 ga/g. Venue Ferrario, Merate 14:30 confirmed.",
+  "news": "Casatese on 4-win run v bottom-three Pontedera",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.663614,
+    "why": "4-win streak (form 7-0-3 last 10) v Pontedera on 8 pts conceding 2.2/g. Own p ~0.67 v house 0.664. Note Pontedera is a former pro club, small upset risk."
+   }
+  ],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.seried.it/2026/11/varese-otto-punti-persi-e-un-bivio-la-rincorsa-ai-playoff-nel-girone-d/",
+   "https://www.seried.it/2026/11/casatese-merate-quattro-vittorie-di-fila-e-vetta-nel-mirino/",
+   "https://www.calciotoscano.it/pontedera/2026-11-info-biglietti-casatese-merate-pontedera.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73629458",
+  "fx": "USD Castellanzese 1921 v Pro Sesto",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone D round 14, Sun 29 Nov 14:30 CET (only Arconatese-Cittadella moved to Saturday); confirmed seried.it/notiziariocalcio. 'High-table exam' for Castellanzese v Pro Sesto (varesenews).",
+  "news": "Upper-table clash; no absences found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.seried.it/2026/11/varese-otto-punti-persi-e-un-bivio-la-rincorsa-ai-playoff-nel-girone-d/",
+   "https://www.varesenews.it/2026/11/un-esame-dalta-classifica-per-la-castellanzese-al-provasi-arriva-la-pro-sesto/2752429/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630072",
+  "fx": "AC Prato 1908 v Aquila Montevarchi",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone E round 14, Sun 29 Nov 14:30 CET; LND official programme. Prato top (28), 'never slips at home' (Il Tirreno); Montevarchi in chasing pack, 6-0-4 last 10.",
+  "news": "Leaders Prato v chasing Montevarchi",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; Prato 1.78 p0.52 - upper-table opponent, no pick",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/follonica-gavorrano-imbattibilita-e-bomber-pino-la-serie-d-e-un-capolavoro/",
+   "https://www.iltirreno.it/sport/2026/11/15/news/serie-d-il-prato-in-casa-non-sbaglia-mai-e-ora-tenta-la-fuga-cade-il-siena-pareggia-la-lucchese-1.100942960"
+  ]
+ },
+ {
+  "eid": "sr:match:73630064",
+  "fx": "ASD Flaminia Civita Castellana v Siena 1904",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone E round 14, Sun 29 Nov 14:30 CET; LND official programme. Siena 3rd (25) but all 4 defeats away, 7/21 away pts; Flaminia 19 pts, lost 3-0 at Lucchese.",
+  "news": "Siena weak away; Flaminia seeking reaction",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; coin-flip 1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/follonica-gavorrano-imbattibilita-e-bomber-pino-la-serie-d-e-un-capolavoro/",
+   "https://www.tusciaweb.eu/2026/11/la-flaminia-ritrova-siena-al-madami-cerca-scuotersi"
+  ]
+ },
+ {
+  "eid": "sr:match:73630074",
+  "fx": "ASD San Donato Tavarnelle v Ternana Calcio",
+  "sport": "football",
+  "absences": "Ternana: GK Novelli (hamstring), Curzi, Rolla out; Ballabile (shoulder) and Ndongue (muscle) doubtful; Proietti missed 26 Nov training",
+  "context": "Italy Serie D Girone E round 14, Sun 29 Nov 14:30 CET; LND official programme. Ternana 2nd (27), 9-1-0 last 10; referee Martina Molinaro.",
+  "news": "Ternana several absences/doubts; still strong favourite",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; Ternana away 1.64 p0.57 < 0.75 away rule; absences add risk",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/follonica-gavorrano-imbattibilita-e-bomber-pino-la-serie-d-e-un-capolavoro/",
+   "https://www.calcioternano.it/2026/11/26/san-donato-tavernelle-ternana-out-proietti-le-ultime-dalla-seduta/",
+   "https://www.calciofere.it/2026/11/27/san-donato-tavarnelle-ternana-affidata-a-una-donna/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630076",
+  "fx": "Asd Sasso Marconi 1924 v Asd Grassina",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone E round 14, Sun 29 Nov 14:30 CET; LND official programme.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/follonica-gavorrano-imbattibilita-e-bomber-pino-la-serie-d-e-un-capolavoro/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630080",
+  "fx": "ASD Terranuova Traiana v Rondinella Marzocco Ssd",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone E round 14, Sun 29 Nov 14:30 CET; LND official programme.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/follonica-gavorrano-imbattibilita-e-bomber-pino-la-serie-d-e-un-capolavoro/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630068",
+  "fx": "Gsd Ghivizzano Borgoamozzano v ASD Seravezza Pozzi Calcio",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone E round 14, Sun 29 Nov 14:30 CET; LND official programme. Ghiviborgo bottom (shared last), 0-1-4 last 5 home.",
+  "news": "Ghiviborgo struggling at bottom",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; Seravezza away 1.94 p0.48 < 0.75",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/follonica-gavorrano-imbattibilita-e-bomber-pino-la-serie-d-e-un-capolavoro/",
+   "https://www.notiziariocalcio.com/serie-d/serie-d-girone-e-prato-va-gavorrano-siena-mollano-progresso-ghiviborgo-380895"
+  ]
+ },
+ {
+  "eid": "sr:match:73630070",
+  "fx": "Mezzolara Calcio v Lucchese Calcio",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone E round 14, Sun 29 Nov 14:30 CET; LND official programme. Mezzolara 12 pts, 0-8-2 last 10 (draw machine); Lucchese chasing pack.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; Lucchese away p0.44",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/follonica-gavorrano-imbattibilita-e-bomber-pino-la-serie-d-e-un-capolavoro/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630078",
+  "fx": "Scandicci v Tau Calcio Altopascio",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone E round 14, Sun 29 Nov 14:30 CET; LND official programme.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/follonica-gavorrano-imbattibilita-e-bomber-pino-la-serie-d-e-un-capolavoro/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630066",
+  "fx": "US Follonica Gavorrano v SCD Progresso",
+  "sport": "football",
+  "absences": "Progresso coach Salmi had a ban in late Oct (served); no current list found",
+  "context": "Italy Serie D Girone E round 14, Sun 29 Nov 14:30 CET; LND official programme. Follonica Gavorrano 4th (25 pts) and unbeaten, striker Pino in form (seried.it 26 Nov); Progresso joint-bottom, 1-2-7 last 10, 0.5 gf/g, 0-1-4 away.",
+  "news": "Unbeaten Follonica v bottom side Progresso",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.713574,
+    "why": "Unbeaten contender v joint-bottom Progresso scoring 0.5/g, 0W in 5 aways. Own p ~0.73 v house 0.714. Follonica home draws (2-3-0 last 5 home) are the risk."
+   }
+  ],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/follonica-gavorrano-imbattibilita-e-bomber-pino-la-serie-d-e-un-capolavoro/",
+   "https://www.notiziariocalcio.com/serie-d/serie-d-girone-e-prato-va-gavorrano-siena-mollano-progresso-ghiviborgo-380895"
+  ]
+ },
+ {
+  "eid": "sr:match:73630726",
+  "fx": "AC Foligno 1928 v Teramo Calcio",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone F round 14, Sun 29 Nov 14:30 CET (seried.it; a Teramo club page shows 15:00 and Diretta 21:30 placeholders - minor time discrepancy, date consistent). Leaders Teramo (32) away at Foligno; Foligno strong at home 4-0-1.",
+  "news": "Teramo top, won derby last round",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; Teramo away 2.00 p0.46",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://studio90lunedi.it/classifica-seriedgironef/",
+   "https://www.sportabruzzo.com/2026/11/serie-d-gir-f-il-teramo-vince-il-derby-e-resta-davanti-laquila-risponde-punto-prezioso-per-il-lanciano/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630724",
+  "fx": "Angelana 1930 v SC Trestina",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone F round 14, Sun 29 Nov 14:30 CET (seried.it; a Teramo club page shows 15:00 and Diretta 21:30 placeholders - minor time discrepancy, date consistent). Low-scoring pair (Angelana 0.4 gf/g).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://studio90lunedi.it/classifica-seriedgironef/",
+   "https://www.sportabruzzo.com/2026/11/serie-d-gir-f-il-teramo-vince-il-derby-e-resta-davanti-laquila-risponde-punto-prezioso-per-il-lanciano/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630728",
+  "fx": "K-Sport Montecchio Gallo v Termoli",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone F round 14, Sun 29 Nov 14:30 CET (seried.it; a Teramo club page shows 15:00 and Diretta 21:30 placeholders - minor time discrepancy, date consistent).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://studio90lunedi.it/classifica-seriedgironef/",
+   "https://www.sportabruzzo.com/2026/11/serie-d-gir-f-il-teramo-vince-il-derby-e-resta-davanti-laquila-risponde-punto-prezioso-per-il-lanciano/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630730",
+  "fx": "L’Aquila Calcio 1927 v Giulianova Calcio",
+  "sport": "football",
+  "absences": "L'Aquila previously without Zini (susp), Sforza, Saia (date unclear)",
+  "context": "Italy Serie D Girone F round 14, Sun 29 Nov 14:30 CET (seried.it; a Teramo club page shows 15:00 and Diretta 21:30 placeholders - minor time discrepancy, date consistent). L'Aquila 2nd (31), 4-1-0 last 5 home, 7-2-1 last 10; Giulianova drew Abruzzo derby v Notaresco last round. Abruzzo regional derby flavour.",
+  "news": "L'Aquila chasing Teramo; Abruzzo derby",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; regional derby -> no result side per derby rule",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://studio90lunedi.it/classifica-seriedgironef/",
+   "https://www.sportabruzzo.com/2026/11/serie-d-gir-f-il-teramo-vince-il-derby-e-resta-davanti-laquila-risponde-punto-prezioso-per-il-lanciano/",
+   "https://www.abruzzopopolare.com/2026/11/22/calcio-serie-d-il-teramo-vince-e-tiene-a-distanza-laquila/"
+  ]
+ },
+ {
+  "eid": "sr:match:73630734",
+  "fx": "Notaresco Calcio v Forsempronese 1949 SD ARL",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone F round 14, Sun 29 Nov 14:30 CET (seried.it; a Teramo club page shows 15:00 and Diretta 21:30 placeholders - minor time discrepancy, date consistent).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://studio90lunedi.it/classifica-seriedgironef/",
+   "https://www.sportabruzzo.com/2026/11/serie-d-gir-f-il-teramo-vince-il-derby-e-resta-davanti-laquila-risponde-punto-prezioso-per-il-lanciano/"
+  ]
+ },
+ {
+  "eid": "sr:match:73628140",
+  "fx": "Brian Lignano Calcio v ASD Lavarian Mortean Esperia",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Italy Serie D Girone C round 14, Sun 29 Nov 15:00 CET (= 14:00 UTC, matches board). Friuli DERBY Brian Lignano v LME ('derby batticuore'). Brian beat Triestina 4-3; LME beat Clodiense 2-1.",
+  "news": "Friulian derby, both coming off wins",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (house p<0.82; amateur tier); integer lines n/a; low-information Serie D fixture; derby -> no result side",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.notiziariocalcio.com/serie-d/serie-d-14a-giornata-anticipi-sabato-designazioni-arbitrali-382771",
+   "https://www.seried.it/2026/11/serie-d-girone-c-cjarlins-e-mestre-ok-cade-la-triestina/",
+   "https://golindiretta.it/serie-d/girone-c/",
+   "https://www.friuligol.it/articolo/presentazione-turno-numero-14"
+  ]
+ }
+]

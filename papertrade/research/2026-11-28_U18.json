@@ -1,0 +1,588 @@
+[
+ {
+  "eid": "sr:match:73294134",
+  "fx": "Spezia Calcio v ASD Pineto Calcio",
+  "sport": "football",
+  "absences": "No confirmed absence list found for either side for this match (Spezia earlier in the season was missing long-term absentee Florenzi; current status unconfirmed).",
+  "context": "Serie C Girone B round 16. Spezia (relegated from B) are runaway leaders: 39 pts from 15, 8W-2D-0L in last 10, GA 0.5/g. Pineto are under new coach Alessandro Bruno, 0W in last 5 away (0-3-2), scoring 0.8/g.",
+  "news": "Spezia lead Girone B on 39 pts (Ravenna 35); Pineto in poor form under new coach Bruno; no confirmed team news for this fixture.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.71909,
+    "why": "Leader v weak away side: Spezia unbeaten in 10 (8W) with 0.5 GA/g; Pineto 0 away wins in 5 and score 0.8/g. My p 0.73 (house 0.72). Sportradar trend only 0.55, so this is at house price, not above it."
+   }
+  ],
+  "avoid": "Pineto goals markets; Under 3.5 at p 0.71 fails the Under gate.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.iamcalcio.it/classifiche/933/serie-c-girone-b/",
+   "https://www.sportabruzzo.com/2026/11/pineto-pescara-le-probabili-formazioni-busce-perde-valzania/",
+   "https://www.lacasadic.com/girone-b/pineto-bruno-presenta-qui-importante-voglio-squadra-ambiziosa-coraggiosa-458847"
+  ]
+ },
+ {
+  "eid": "sr:match:73294864",
+  "fx": "Barletta Calcio v Inter Milano U23",
+  "sport": "football",
+  "absences": "No named absences found. Inter U23 expected 3-4-2-1 (Melgrati; Zuberek up front) under Vecchi.",
+  "context": "Girone C round 16, 12:30 local (11:30 UTC, matches board). Barletta (19 pts, 4 unbeaten, 2 above playout) v Inter U23, coming off a loss in a midweek recovery match at Cerignola. Inter U23 is a reserve/U23 side.",
+  "news": "Barletta 4 unbeaten; Inter U23 lost a midweek recovery at Cerignola, so congestion for the visitors. Reserve side, so no result-side picks.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides (U23 reserve side). No clear goals mismatch.",
+  "confidence": 0.15,
+  "sources": [
+   "https://news.bet365.it/it-it/article/cp-barletta-inter-u23-orario-probabili-formazioni-e-dove-vederla-in-tv-e-streaming/2026112610565781064",
+   "https://pianetabari.com/serie-c-programma-16-turno/"
+  ]
+ },
+ {
+  "eid": "sr:match:73294126",
+  "fx": "Perugia Calcio Spa v US Livorno 1915",
+  "sport": "football",
+  "absences": "Livorno: no suspensions from the sports judge. Perugia: no news found.",
+  "context": "Girone B round 16, Sun 29 Nov 14:30 local (referee Renzi). Perugia are poor at home (1W-0D-3L, 0.5 GF) amid club ownership/board turmoil. Livorno 0 away wins in 5.",
+  "news": "Livorno full squad (no suspensions); Perugia home form weak and the club is in governance turmoil.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Perugia Home/DC: home form 1-0-3 conflicts with the 0.50 house price. No edge on totals.",
+  "confidence": 0.15,
+  "sources": [
+   "https://uslivorno.it/index.php?catid=12&id=601&option=com_content&view=article",
+   "https://www.perugiatoday.it/sport/calcio/telenovela-perugia-calcio-si-lavora-per-i-prossimi-passi.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73294130",
+  "fx": "Ravenna FC 1913 v SEF Torres Sassari",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Girone B round 16: 2nd v 4th. Ravenna 35 pts (4-0-1 at home, GA 0.6). Torres 26 pts, a tight defence (GA 0.6/g, 1 loss in 10).",
+  "news": "Top-4 clash: Ravenna 2nd (35) host Torres 4th (26); no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ravenna Home 1.41: Torres lose rarely (1 in 10) and the Sportradar trend is 0.40 vs 0.67 house, so skip. DNB 1.15 is below the band. Unders fail the gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.iamcalcio.it/classifiche/933/serie-c-girone-b/",
+   "https://www.direttaseriec.it/classifica/serie-c-girone-b"
+  ]
+ },
+ {
+  "eid": "sr:match:73294876",
+  "fx": "Potenza Calcio v Audace Cerignola",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Girone C round 16, 14:30 local, live on Sky 252. The headline match: leaders Potenza (35 pts, +8) v 3rd Cerignola (24). Potenza 5-0-0 at home, scoring 3.2/g; Cerignola concede 2.5/g away. Cerignola beat Potenza 4-0 in Jan 2026, last season.",
+  "news": "Potenza 8 pts clear at the top, unbeaten at home; Cerignola played a midweek recovery (beat Inter U23). Top-of-table clash.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.53,
+    "p": 0.612644,
+    "why": "Potenza average 2.9 GF/g (3.2 at home) and Cerignola concede 2.5/g away; Sportradar trend 0.75 v house 0.61. My p 0.63. Integer-free .5 line."
+   }
+  ],
+  "avoid": "Result-side in a 1st v 3rd clash (Home or Draw only at small size). BTTS overlaps with Over 2.5.",
+  "confidence": 0.25,
+  "sources": [
+   "https://salernitananews.it/serie-c-16-giornata-trasferta-a-potenza-per-il-cerignola-a-casarano-arriva-il-catania",
+   "https://calciowebpuglia.it/2026/11/27/661762",
+   "https://trnews.it/2026/11/27/serie-c-la-sedicesima-giornata-tra-derby-pugliesi-e-campani"
+  ]
+ },
+ {
+  "eid": "sr:match:73294866",
+  "fx": "S.S.D. Casarano Calcio v Catania FC",
+  "sport": "football",
+  "absences": "Casarano: wing-back Pietro Ciotti suspended (5th booking); Ferrara, Negro and Versienti unlikely to recover (injuries); Matino back from suspension; Leonetti recovered. Catania: no new suspensions; long-term absentees Russo, Di Marco and Aloi; Lunetta returns.",
+  "context": "Girone C round 16, 14:30 local. Casarano 1 win in last 10 (2-4-4). Catania 5-2-3 in last 10, GA 0.6/g.",
+  "news": "Casarano lose Ciotti (suspended) and likely 3 injured players; Catania without three long-term absentees but get Lunetta back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.22,
+    "p": 0.7763664252,
+    "why": "Named mechanism: Casarano missing suspended Ciotti and likely injured Ferrara, Negro and Versienti; they have 1 win in 10 v Catania GA 0.6/g. My p 0.79 (house 0.78)."
+   }
+  ],
+  "avoid": "Away 1X2 at p 0.53 fails the away gate; DNB Away 1.35 (p 0.70) is the alternative only if a doubles format needs it.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sporticily.it/casarano-catania-probabili-formazioni-dubbio-pagliai-torna-lunetta/",
+   "https://www.forzacatania.com/casarano-catania-zauri-prepara-la-sfida-rientra-matino-chirico-scalpita.htm",
+   "https://www.forzacatania.com/casarano-catania-leonetti-recuperato-pronto-a-lottare.htm"
+  ]
+ },
+ {
+  "eid": "sr:match:73627204",
+  "fx": "AC Bra v Valenzana Mado",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone A round 14 (amateur, ref Corti). Bra 1 win in 5, conceding 2.0/g.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin amateur league: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.notiziariocalcio.com/serie-d/serie-2026-2027-girone-a-risultati-marcatori-classifica-aggiornata-382359",
+   "https://golindiretta.it/serie_d.php"
+  ]
+ },
+ {
+  "eid": "sr:match:73627218",
+  "fx": "AC Saluzzo Calcio v Asd Millesimo",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone A round 14 (ref Ricci). Saluzzo (15 pts) have 0 home goals in 4 home games; Millesimo 17 pts.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin amateur league; Under 2.5 fails the gate (p 0.56).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.notiziariocalcio.com/serie-d/serie-2026-2027-girone-a-risultati-marcatori-classifica-aggiornata-382359",
+   "https://golindiretta.it/serie_d.php"
+  ]
+ },
+ {
+  "eid": "sr:match:73627208",
+  "fx": "Celle Varazze v Asti Calcio",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone A round 14 (ref Spiga). Celle Varazze bottom on 7 pts, lost 2-0 at Lascaris on 22 Nov.",
+  "news": "Celle Varazze bottom of the table; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Thin league: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.notiziariocalcio.com/serie-d/serie-2026-2027-girone-a-risultati-marcatori-classifica-aggiornata-382359",
+   "https://golindiretta.it/serie_d.php"
+  ]
+ },
+ {
+  "eid": "sr:match:73627210",
+  "fx": "Chisola Calcio v ASD Imperia 1923",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone A round 14. Chisola 2nd (~25 pts) v Imperia (0 away wins in 5).",
+  "news": "Chisola up to 2nd behind runaway Alessandria; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home at p 0.49: no edge. Thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.notiziariocalcio.com/serie-d/serie-2026-2027-girone-a-risultati-marcatori-classifica-aggiornata-382359",
+   "https://golindiretta.it/serie_d.php"
+  ]
+ },
+ {
+  "eid": "sr:match:73627212",
+  "fx": "HSL Derthona v Borgosesia Calcio",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone A round 14. Derthona (~22 pts) v Borgosesia.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.notiziariocalcio.com/serie-d/serie-2026-2027-girone-a-risultati-marcatori-classifica-aggiornata-382359",
+   "https://golindiretta.it/serie_d.php"
+  ]
+ },
+ {
+  "eid": "sr:match:73628802",
+  "fx": "AC Chievo Verona v Asd Calcio Brusaporto",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone B round 14, 14:30 local. Chievo 2nd/3rd (27 pts) were caught late on round 13 (draw). Brusaporto 1W-1D-8L in last 10, scoring 0.4/g (0-1-4 away).",
+  "news": "Chievo pegged back last round; Brusaporto in a deep slump (1 win in 10). Note: Brusaporto won the only H2H on record (1-2).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.719911,
+    "why": "Chievo promotion chaser v a side with 1 win in 10 and 0.4 GF/g (0.4 away). My p 0.72 = house; Sportradar trend 0.60. Amateur tier, so keep it to small stakes; H2H 1-2 is a caution."
+   }
+  ],
+  "avoid": "Overs: Brusaporto barely score.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-girone-b-nibbiano-allultimo-respiro-chievo-raggiunto/"
+  ]
+ },
+ {
+  "eid": "sr:match:73628806",
+  "fx": "AC Leon v US Fiorenzuola",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone B round 14 (ref De Angelis). Leon 6th (21) v Fiorenzuola (0-1-4 away).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home at p 0.62 is house-priced; thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-girone-b-nibbiano-allultimo-respiro-chievo-raggiunto/"
+  ]
+ },
+ {
+  "eid": "sr:match:73628800",
+  "fx": "Calcio Pavonese v Villa Dalme Valle Brembana",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone B round 14. Pavonese v Villa Valle.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-girone-b-nibbiano-allultimo-respiro-chievo-raggiunto/"
+  ]
+ },
+ {
+  "eid": "sr:match:73628804",
+  "fx": "Club Milano SSD v Piacenza Calcio 1919",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone B round 14. Piacenza joint 2nd (27 pts), 8-2-0 in last 10; Club Milano 0-0-5 at home.",
+  "news": "Piacenza unbeaten in 10; Club Milano lost all 5 home games.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 at p 0.61 fails the away gate (needs 0.75); no DNB/DC on the board.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-girone-b-nibbiano-allultimo-respiro-chievo-raggiunto/"
+  ]
+ },
+ {
+  "eid": "sr:match:73628808",
+  "fx": "Milan Futuro v Ssd Real Calepina FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone B round 14. Milan Futuro is AC Milan's reserve/second team (listed as Milan U23 on Diretta).",
+  "news": "Reserve side; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result-sides; no clear goals mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-girone-b-nibbiano-allultimo-respiro-chievo-raggiunto/",
+   "https://www.diretta.it/calcio/italia/serie-d-girone-b/"
+  ]
+ },
+ {
+  "eid": "sr:match:73628810",
+  "fx": "Rovato Vertovese v Nibbiano And Valtidone",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone B round 14. Nibbiano & Valtidone lead the group (29 pts) after a last-gasp winner in round 13; Rovato mid-table.",
+  "news": "Nibbiano top after a late winner last round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away at p 0.44: no.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-girone-b-nibbiano-allultimo-respiro-chievo-raggiunto/"
+  ]
+ },
+ {
+  "eid": "sr:match:73628816",
+  "fx": "S.S.D. Virtus Ciseranobergamo v Caldiero Terme",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone B round 14 (ref Gippetto). Ciserano 1-2-7, GA 2.1; Caldiero 5th (22).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away at p 0.48 fails the away gate.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-girone-b-nibbiano-allultimo-respiro-chievo-raggiunto/"
+  ]
+ },
+ {
+  "eid": "sr:match:73628812",
+  "fx": "Tritium Calcio 1908 v Usd Scanzorosciate Calcio",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone B round 14 (ref Zamagna). Scanzorosciate 8th (18).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-girone-b-nibbiano-allultimo-respiro-chievo-raggiunto/"
+  ]
+ },
+ {
+  "eid": "sr:match:73628814",
+  "fx": "Virtus Verona v Pro Palazzolo",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone B round 14 (ref Senes). Virtus Verona 10th (16) v Palazzolo 11th (15).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://lnd.it/seried/campionato-programma-e-arbitri-della-14a-giornata/",
+   "https://www.seried.it/2026/11/serie-d-girone-b-nibbiano-allultimo-respiro-chievo-raggiunto/"
+  ]
+ },
+ {
+  "eid": "sr:match:73628148",
+  "fx": "AC Este v Legnago Salus",
+  "sport": "football",
+  "absences": "Este: Pietro Gonella suspended. Legnago Salus: Alioune Badara Faye suspended (2 matches).",
+  "context": "Serie D Girone C round 14, 14:30 local at the Nuovo Stadio Comunale, Este (ref D'Ambrosi). Este 18 pts, Legnago 17; Este games are very low-scoring (0.6 GF / 0.6 GA). Legnago lost 0-2 at home to Schio.",
+  "news": "Both sides have a player suspended; a low-scoring mid-table match.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 (p 0.58) fails the Under gate despite the low-scoring profile.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.calciovicentino.it/2026/11/27/tutto-quello-che-ce-da-sapere-sulle-gare-del-29-novembre/",
+   "https://www.cjarlinsmuzane.it/partite/23959/"
+  ]
+ },
+ {
+  "eid": "sr:match:73627206",
+  "fx": "Biellese v US Fezzanese 1930",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone A round 14, 15:00 local. Biellese 3rd (24), 5-0-0 at home (3.4 GF); Fezzanese 3-1-6 (0.7 GF).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home at p 0.55: no extreme. Thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.notiziariocalcio.com/serie-d/serie-2026-2027-girone-a-risultati-marcatori-classifica-aggiornata-382359",
+   "https://golindiretta.it/serie_d.php"
+  ]
+ },
+ {
+  "eid": "sr:match:73627216",
+  "fx": "SCD Ligorna 1922 v US Alessandria Calcio 1912",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone A round 14, 15:00 local. Alessandria runaway leaders (+11, 9-0-1 in last 10) away at Ligorna (~22 pts, 5th).",
+  "news": "Alessandria clear at the top; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 at p 0.47 fails the away gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.notiziariocalcio.com/serie-d/serie-2026-2027-girone-a-risultati-marcatori-classifica-aggiornata-382359",
+   "https://golindiretta.it/serie_d.php"
+  ]
+ },
+ {
+  "eid": "sr:match:73627220",
+  "fx": "SSD Sanremese Calcio v Gsd Lascaris",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie D Girone A round 14, 15:00 local (ref L'Erario). Sanremese (17) v Lascaris (16), mid-table.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No edge.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.seried.it/2026/11/serie-d-il-programma-completo-della-14a-giornata-e-gli-arbitri/",
+   "https://www.notiziariocalcio.com/serie-d/serie-2026-2027-girone-a-risultati-marcatori-classifica-aggiornata-382359",
+   "https://golindiretta.it/serie_d.php"
+  ]
+ },
+ {
+  "eid": "sr:match:73293392",
+  "fx": "AC Renate v US Folgore Caratese",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Girone A round 16, 17:30 local (16:30 UTC; confirmed by Lega/Sky, ch. 257). Renate (12) v Folgore Caratese (12), both near the bottom.",
+  "news": "Both on 12 pts in the relegation fight; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Renate 0 home wins in 4: avoid Home/DC.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.sky.it/calcio/serie-c/2026/11/27/serie-c-partite-sky-giornata-16",
+   "https://www.tuttosport.com/live/classifica-serie-c-girone-a"
+  ]
+ },
+ {
+  "eid": "sr:match:73293374",
+  "fx": "US Albinoleffe v Treviso FBC 1993",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Girone A round 16, 17:30 local (Sky 256). AlbinoLeffe (20) v Treviso 5th (25), a tight defence (GA 0.6/g).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 at p 0.76 fails the gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.sky.it/calcio/serie-c/2026/11/27/serie-c-partite-sky-giornata-16",
+   "https://www.tuttosport.com/live/classifica-serie-c-girone-a"
+  ]
+ },
+ {
+  "eid": "sr:match:73294118",
+  "fx": "Atalanta BC U23 v Forli FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Girone B round 16, 17:30 local. Atalanta U23 (reserve/second team) v Forlì (0-1-4 away). Atalanta U23 beat Vis Pesaro 2-1 on 28 Oct.",
+  "news": "Reserve side; no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result-sides; no goals mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fotmob.com/it/matches/forli-vs-atalanta-u23/ey5vbw2k",
+   "https://www.calcioatalanta.it/2026/07/30/atalanta-under-23-ecco-il-calendario-completo-della-stagione/"
+  ]
+ },
+ {
+  "eid": "sr:match:73294136",
+  "fx": "Vis Pesaro 1898 v US Sambenedettese",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Girone B round 16, 17:30 local. A relegation scrap: Vis Pesaro (about 4 pts from 11 per one source, possibly stale) v Sambenedettese; both concede about 2/g.",
+  "news": "Both near the bottom with leaky defences; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.55,
+    "p": 0.5971501216,
+    "why": "Both defences leak (Vis 2.0 GA/g, Samb 1.9); Samb BTTS in 5 of their last 6; Sportradar trend 0.75 v house 0.60. My p 0.62. Statistics-only, so a fill leg."
+   }
+  ],
+  "avoid": "Result-sides in a relegation six-pointer.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.365scores.com/en-us/football/match/serie-c-6168/sambenedettese-vis-pesaro-315-29295-6168",
+   "https://www.calciomercato.com/squadra/vis-pesaro/partite/6cbdvvhdhqbp3xgcuprvzy5sb"
+  ]
+ },
+ {
+  "eid": "sr:match:73294870",
+  "fx": "FC Crotone v AZ Picerno",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Girone C round 16, 17:30 local. Crotone in a bad run (1-2-7 in last 10 per Sportradar, 5 scoreless games in last 6) v Picerno.",
+  "news": "Crotone poor form; AGIMEG tips No Goal.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Crotone Home 1.87 conflicts with Crotone's form; avoid.",
+  "confidence": 0.15,
+  "sources": [
+   "https://pianetabari.com/serie-c-programma-16-turno/",
+   "https://www.agimeg.it/schedina-serie-c-29-novembre-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73294862",
+  "fx": "SSC Bari v AC Savoia 1908",
+  "sport": "football",
+  "absences": "No named absences found; Rastelli held his pre-match press conference on 28 Nov.",
+  "context": "Girone C round 16, 17:30 local at the San Nicola. Bari 2nd (27 pts, 8 behind Potenza) and unbeaten at home (3-2-0, GA 0.6). Savoia 15th (18 pts), won 2-1 v Sorrento, concede 2.2/g away.",
+  "news": "Bari chasing Potenza at home v 15th-placed Savoia; AGIMEG tips Under 2.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.7997192325,
+    "why": "Bari unbeaten at home (3W-2D) with GA 0.6 v Savoia, who concede 2.2/g away; DNB removes Bari's draw habit (5 draws in 10). My p 0.79 (house 0.80); the Sportradar DNB trend is only 0.50, so this is at house price."
+   }
+  ],
+  "avoid": "Bari 1X2 at 1.53: draw-prone (trend 0.30).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bnitalia.it/bari-savoia-serie-c-29-novembre-2026/",
+   "https://pianetabari.com/verso-bari-savoia-rastelli/",
+   "https://www.agimeg.it/bari-savoia-serie-c-2026-pronostico/"
+  ]
+ }
+]
