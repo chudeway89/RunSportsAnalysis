@@ -1,0 +1,700 @@
+[
+ {
+  "eid": "sr:match:74326978",
+  "fx": "Agidel UFA v Sakhalin",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Women's WHL; 2nd v 3rd, both on 20 pts; game 2 of a home series (game 1 Fri 27 Nov). 11:00 MSK = 08:00 UTC matches board.",
+  "news": "Women's league, date/time confirmed (11:00 MSK); no mismatch, so no picks per women's rule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all markets (women's, evenly matched)",
+  "confidence": 0.1,
+  "sources": [
+   "https://ufa.aif.ru/sport/details/ufimskaya-agidel-nachinaet-poslednyuyu-domashnyuyu-seriyu-2026-goda",
+   "https://stavka.tv/matches/ice-hockey/28-11-2026-agidel-ufa-w-sakhalin-w-"
+  ]
+ },
+ {
+  "eid": "sr:match:73687040",
+  "fx": "Krasnoyarskie Rysi v Mamonty Yugry Khanty Mansiysk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "MHL (U20 junior) two-game series 28-29 Nov in Krasnoyarsk; 13:00 MSK = 10:00 UTC matches board.",
+  "news": "Junior (U20) league; official MHL stream confirms 28.11; Sokol site also lists 29.11 (second game of the series, not a conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth league, no clear mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://mhl.khl.ru/media/video/3572/1176679/",
+   "https://www.krsksokol.ru/"
+  ]
+ },
+ {
+  "eid": "sr:match:73708630",
+  "fx": "Rubin Tyumen v HC Bars Kazan",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "VHL regular season; both sides 3-7 in last 10, Bars Kazan scoring 1.6/game (1.4 away).",
+  "news": "No team news found; fixture confirmed 28 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=6.5",
+    "desc": "Under 6.5",
+    "odds": 1.18,
+    "p": 0.8216,
+    "why": "Two low-output sides (Rubin 2.0 gf, Bars 1.6 gf, Bars away 1.4); regulation total needs 7+ goals to lose. Own p 0.84."
+   }
+  ],
+  "avoid": "Rubin result-side (fav p 0.57, +1.5 catch banned)",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportmaps.ru/2026/11/28/rezultaty-matchej-vxl-na-27-noyabrya-2026-goda/"
+  ]
+ },
+ {
+  "eid": "sr:match:73708628",
+  "fx": "Zauralye Kurgan v Neftyanik Almetyevsk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "VHL; Neftyanik 7-3 in last 10 but low-scoring (2.5 gf/2.0 ga); Zauralye 2.1 gf.",
+  "news": "No team news found; fixture confirmed 28 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=6.5",
+    "desc": "Under 6.5",
+    "odds": 1.18,
+    "p": 0.8216,
+    "why": "Both sides average ~4.5 total goals; 85% of last-20 games stayed under 6.5 in regulation. Own p 0.84."
+   }
+  ],
+  "avoid": "Zauralye +2.5 (fav p 0.62, banned); Neftyanik away ML p 0.62 < 0.75",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportmaps.ru/2026/11/28/rezultaty-matchej-vxl-na-27-noyabrya-2026-goda/"
+  ]
+ },
+ {
+  "eid": "sr:match:73708614",
+  "fx": "Kristall Saratov v HC Khimik Voskresensk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "VHL; Khimik 7-3 in last 10 and 5-1 away with high-event games (4.33 gf/3.33 ga away).",
+  "news": "Preview only: Kristall won 2 of last 3, Khimik 3 of last 6. No absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.32,
+    "p": 0.7327,
+    "why": "Khimik away games average 7.7 goals; trend 75% of last 20 over 3.5 in regulation. Own p 0.75."
+   }
+  ],
+  "avoid": "Kristall +2.5 (fav p 0.63, banned); Khimik away ML p 0.63 < 0.75",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportmaps.ru/2026/11/28/rezultaty-matchej-vxl-na-27-noyabrya-2026-goda/",
+   "https://stavka.tv/matches/ice-hockey/28-11-2026-kristall-saratov-khimik-voskresensk"
+  ]
+ },
+ {
+  "eid": "sr:match:73742136",
+  "fx": "Ornskoldsviks HF v Kiruna IF",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "HockeyEttan Norra (3rd tier).",
+  "news": "Kick-off conflict: Kiruna IF's own fixture list says 16:00 local (15:00 UTC) at Skyttishallen; board has 13:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: club site 16:00 CET (15:00 UTC) vs board 13:00 UTC",
+  "picks": [],
+  "avoid": "everything (veto)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.kirunaif.se/kirunaif-herrlag/matcher",
+   "https://live.hockeyettan.se/sv/norra",
+   "https://www.kmhockey.se/"
+  ]
+ },
+ {
+  "eid": "sr:match:73708632",
+  "fx": "Buran Voronezh v Ska-Vmf",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "VHL; SKA-VMF 7-3 in last 10 but very low-scoring (2.0 gf/1.3 ga); Buran 3-3 at home.",
+  "news": "No team news found; fixture confirmed 28 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.33,
+    "p": 0.7279,
+    "why": "SKA-VMF are the favourite at only p 0.55 and win by small margins (low-event games); Buran lose this only to a 2+ goal SKA-VMF win. 75% trend. Own p 0.74."
+   }
+  ],
+  "avoid": "SKA-VMF ML (p 0.55)",
+  "confidence": 0.25,
+  "sources": [
+   "https://sportmaps.ru/2026/11/28/rezultaty-matchej-vxl-na-27-noyabrya-2026-goda/"
+  ]
+ },
+ {
+  "eid": "sr:match:73708636",
+  "fx": "Dizel Penza v Zvezda Moscow",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "VHL; Dizel 1-9 in last 10 and 0-6 at home; Zvezda 3-7 and 0-6 away. Two struggling sides.",
+  "news": "No team news found; fixture confirmed 28 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=-2.5",
+    "desc": "Away (+2.5)",
+    "odds": 1.19,
+    "p": 0.8185,
+    "why": "Dizel are the favourite at p 0.58 despite losing their last six at home; Zvezda lose this only to a Dizel win by 3+. 85% trend. Own p 0.84."
+   }
+  ],
+  "avoid": "Dizel ML; Zvezda +1.5 (fav p 0.578 >= 0.55, banned)",
+  "confidence": 0.3,
+  "sources": [
+   "https://sportmaps.ru/2026/11/28/rezultaty-matchej-vxl-na-27-noyabrya-2026-goda/"
+  ]
+ },
+ {
+  "eid": "sr:match:71696626",
+  "fx": "Brynas IF v HC Orebro",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "SHL; Orebro near the top (beat HV71 2-1 Thu); Brynas won 4-1 at Linkoping Thu. Brynas home games average 8.6 goals.",
+  "news": "Both won on Thursday; no injury news found. 15:15 CET start confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "412",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.35,
+    "p": 0.7178,
+    "why": "Brynas home games 4.8 gf + 3.8 ga; 85% of last 20 over 4.5 incl. OT. Own p 0.74."
+   }
+  ],
+  "avoid": "Brynas ML (trend 0.30 vs p 0.68 conflict); Orebro +2.5 (fav p 0.68, banned)",
+  "confidence": 0.3,
+  "sources": [
+   "https://shlhockey.nu/matcher",
+   "https://www.tvmatchen.nu/sport/ishockey/shl-resultat-26-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:71696632",
+  "fx": "Malmo IF v Djurgardens IF",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "SHL; Malmo 7-3 in last 10; Djurgarden 3-7 and 1-5 away, lost 4-1 at Vaxjo on Thursday.",
+  "news": "Djurgarden in poor form (lost 1-4 at Vaxjo Thu); no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.5,
+    "p": 0.6456,
+    "why": "Malmo 7-3 v a Djurgarden side 1-5 on the road conceding 3.8; winner market includes OT/SO. Own p 0.66."
+   }
+  ],
+  "avoid": "Djurgarden +1.5 (fav p 0.65, banned)",
+  "confidence": 0.3,
+  "sources": [
+   "https://shlhockey.nu/matcher",
+   "https://www.tvmatchen.nu/sport/ishockey/shl-resultat-26-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:71696630",
+  "fx": "Skelleftea AIK v Farjestads BK",
+  "sport": "ice hockey",
+  "absences": "Skelleftea: Linus Soderstrom (G) and Kaderli missed Thursday; Jonathan Johnson and Frans Haara back. Farjestad: Marcus Johansson back.",
+  "context": "SHL; big-club clash (2026 champions v Farjestad 9-1 in last 10, won SO at Timra Thu).",
+  "news": "Skelleftea may be without No.1 goalie Soderstrom; lineups unconfirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.24,
+    "p": 0.7832,
+    "why": "Two high-scoring sides (3.7 and 3.6 gf); possible backup goalie for Skelleftea; 95% trend. Own p 0.80."
+   }
+  ],
+  "avoid": "result-sides (big-club clash)",
+  "confidence": 0.3,
+  "sources": [
+   "https://shlhockey.nu/matcher",
+   "https://hurbra.se/skelleftea-farjestad-tv-28-november-2026/",
+   "https://www.tvmatchen.nu/sport/ishockey/shl-resultat-26-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:71696628",
+  "fx": "Timraa IK v Linkopings HC",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "SHL; Timra came back from 1-4 to lose 4-5 SO to Farjestad Thu; Linkoping lost 1-4 at home to Brynas, 1-5 away in last 6 away.",
+  "news": "Both lost Thursday; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.26,
+    "p": 0.7725,
+    "why": "Linkoping away games average 5.7 goals, Timra home 5.7; 80% trend. Own p 0.78."
+   },
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.53,
+    "p": 0.632,
+    "why": "Linkoping 1-5 away conceding 4.0; Timra 3-3 at home; incl. OT/SO. Own p 0.64."
+   }
+  ],
+  "avoid": "Linkoping +2.5 (fav p 0.63, banned)",
+  "confidence": 0.25,
+  "sources": [
+   "https://shlhockey.nu/matcher",
+   "https://www.tvmatchen.nu/sport/ishockey/shl-resultat-26-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73742134",
+  "fx": "Asploven HC v Stromsbro IF",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "HockeyEttan (3rd tier); evenly matched, Asploven 0-2 at home recently.",
+  "news": "No news found; 16:00 local listed by KMHockey (= board 15:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (thin 3rd-tier data, coin-flip prices)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.kmhockey.se/",
+   "https://live.hockeyettan.se/sv/norra"
+  ]
+ },
+ {
+  "eid": "sr:match:73742132",
+  "fx": "Hudiksvalls HC v Surahammar IF",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "HockeyEttan; Hudiksvall 9-1 and 5-0 at home (7.2 gf). Huge favourite (p 0.93).",
+  "news": "No news found; 16:00 local listed (= board 15:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.03 too short; -3.5 a coin flip",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.kmhockey.se/",
+   "https://live.hockeyettan.se/sv/norra"
+  ]
+ },
+ {
+  "eid": "sr:match:73741300",
+  "fx": "Mjolby HC v HC Vita Hasten",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "HockeyEttan Sodra; Vita Hasten 7-3 and low-conceding (1.6 ga).",
+  "news": "No news found; KMHockey lists 16:00 at ProTrain Arena (= board 15:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Vita Hasten away ML p 0.63 < 0.75; Mjolby +1.5 banned (fav p 0.63)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.kmhockey.se/"
+  ]
+ },
+ {
+  "eid": "sr:match:73742140",
+  "fx": "Wings Arlanda HC v Enkopings SK HK",
+  "sport": "ice hockey",
+  "absences": "Enkoping: Friberg returns",
+  "context": "HockeyEttan; Wings Arlanda 0-10 in last 10 (1.4 gf, 5.9 ga); Enkoping 2-8 themselves.",
+  "news": "Enkoping get Friberg back for an important weekend; 16:00 at Pinbackshallen confirmed (= board 15:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Enkoping away ML p 0.71 < 0.75",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.hockeyettan.se/2026/11/26/friberg-tillbaka-nar-esk-gar-in-i-viktig-hockeyhelg/",
+   "https://www.kmhockey.se/"
+  ]
+ },
+ {
+  "eid": "sr:match:73742138",
+  "fx": "Bodens HF v Norrtalje IK",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "HockeyEttan; Boden 6-4, Norrtalje 1-5 away.",
+  "news": "Kick-off not confirmed: KMHockey lists this round at 16:00 local (15:00 UTC); board has 16:00 UTC (17:00 local). Nothing found to settle it.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: listing 16:00 CET vs board 17:00 CET (16:00 UTC), unresolved",
+  "picks": [],
+  "avoid": "everything (veto)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.kmhockey.se/",
+   "https://live.hockeyettan.se/sv/norra"
+  ]
+ },
+ {
+  "eid": "sr:match:71696634",
+  "fx": "HV71 v IF Bjorkloven",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "SHL; bottom-half clash. HV71 2-8 last 10; Bjorkloven 1-9 and 0-5 away (1.2 gf away), lost 2-5 at Frolunda Thu.",
+  "news": "HV71 lost 1-2 at Orebro Thu; Bjorkloven lost 2-5 at Frolunda Thu. No injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.46,
+    "p": 0.6655,
+    "why": "Bjorkloven 0-5 away scoring 1.2 per game; HV71 average 2.6 gf at home; incl. OT/SO. Own p 0.68."
+   }
+  ],
+  "avoid": "Under 7.5 (p 0.817 < 0.82); Bjorkloven +2.5 (fav p 0.67, banned)",
+  "confidence": 0.25,
+  "sources": [
+   "https://shlhockey.nu/matcher",
+   "https://www.tvmatchen.nu/sport/ishockey/shl-resultat-26-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:71696638",
+  "fx": "Lulea Hockey v Rogle BK",
+  "sport": "ice hockey",
+  "absences": "Rogle: Daniel Zaar and Mark Friedman out for the rest of the calendar year; new signing Adam Erne not expected to be ready.",
+  "context": "SHL; Rogle 2-1-7 in last 10, conceding 3.5 (3.8 away).",
+  "news": "Rogle weakened by injuries (Zaar, Friedman, Erne).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.3,
+    "p": 0.7442,
+    "why": "Rogle concede 3.8 away and are missing key players; 90% of last 20 over 3.5 in regulation. Own p 0.77."
+   }
+  ],
+  "avoid": "Rogle +1.5/+2.5 catch (backing the injury-hit side)",
+  "confidence": 0.3,
+  "sources": [
+   "https://shlhockey.nu/matcher",
+   "https://hurbra.se/lulea-rogle-speltips-28-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:71696636",
+  "fx": "Vaxjo Lakers v Frolunda HC",
+  "sport": "ice hockey",
+  "absences": "Frolunda: Oskar Olausson scratched (healthy scratch after injury return).",
+  "context": "SHL; big-club clash, coin-flip prices. Vaxjo beat Djurgarden 4-1, Frolunda beat Bjorkloven 5-2 (Fagemo hat-trick), both Thursday.",
+  "news": "Both won Thursday; Olausson scratched for Frolunda; no Vaxjo injuries reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.3,
+    "p": 0.7468,
+    "why": "Both in scoring form Thursday (4 and 5 goals); 85% trend. Own p 0.76."
+   }
+  ],
+  "avoid": "result-sides and catches (big-club clash)",
+  "confidence": 0.25,
+  "sources": [
+   "https://shlhockey.nu/matcher",
+   "https://hockeynews.se/nyheter/forwarden-petas-dialogen-med-fhc-ingen-riktig-forklaring",
+   "https://www.tvmatchen.nu/sport/ishockey/shl-resultat-26-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72119564",
+  "fx": "MODO Hockey v SDE Hockey",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "SDHL (women), round 12; evenly matched.",
+  "news": "Women's league; 17:00 UTC confirmed (Sofascore/Matchtider 18:00 CET).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's, no mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/ice-hockey/match/sde-hockey-modo-hockey/tVtbsxVtb"
+  ]
+ },
+ {
+  "eid": "sr:match:74831958",
+  "fx": "Cornell Big Red v Maine Black Bears",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "NCAA non-conference \"Frozen Apple\" at Madison Square Garden: NEUTRAL venue despite Cornell being listed home. Maine #20. Noon ET = 17:00 UTC matches board.",
+  "news": "Neutral site at MSG (no real home ice); Maine ranked #20.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides (neutral site, NCAA catch caution)",
+  "confidence": 0.15,
+  "sources": [
+   "https://goblackbears.com/news/2026/11/22/mens-ice-hockey-preview-mens-hockey-cornell-set-for-saturday-showdown-at-msg"
+  ]
+ },
+ {
+  "eid": "sr:match:72123608",
+  "fx": "EHC Biel v HC Lausanne",
+  "sport": "ice hockey",
+  "absences": "Biel had Grossmann, Haas, Iakovenko and Sever injured in an older report (date uncertain).",
+  "context": "NL; Lausanne on a back-to-back (beat Bern 4-2 at home Fri 27 Nov). Biel games average 7.6 goals.",
+  "news": "Lausanne played Friday; 19:45 CET = 18:45 UTC confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.34,
+    "p": 0.7223,
+    "why": "Lausanne are only p 0.51 favourites, on the second night of a back-to-back and 1-4 away recently; Biel lose this only to a 2+ goal Lausanne win. Own p 0.75."
+   },
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.38,
+    "p": 0.7009,
+    "why": "Biel games 3.6 gf + 4.0 ga; 85% trend. Own p 0.72."
+   }
+  ],
+  "avoid": "Lausanne ML",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nationalleague.ch/games",
+   "https://www.nau.ch/sport/eishockey/sc-bern-sieges-serie-reisst-in-lausanne-67207959",
+   "https://www.bluewin.ch/en/sport/zug-remains-unbeaten-at-home-lakers-punished-late-in-davos-li.3655555"
+  ]
+ },
+ {
+  "eid": "sr:match:72123612",
+  "fx": "EHC Kloten v SCL Tigers Langnau",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "NL; Kloten 4-6, Langnau 5-5 but 1-4 away. High-event sides (6.1 and 6.6 goal games).",
+  "news": "No team news found; 19:45 CET confirmed by the league schedule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.39,
+    "p": 0.694,
+    "why": "Both average over 6 total goals per game; 80% trend. Own p 0.71."
+   },
+   {
+    "mid": "410",
+    "spec": "hcp=2.5",
+    "desc": "Home (+2.5)",
+    "odds": 1.21,
+    "p": 0.8007,
+    "why": "Langnau favourite at only p 0.56 and 1-4 away; Kloten lose this only to a 3+ goal defeat. Own p 0.81."
+   }
+  ],
+  "avoid": "Kloten +1.5 (fav p 0.556, banned)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nationalleague.ch/games"
+  ]
+ },
+ {
+  "eid": "sr:match:72123614",
+  "fx": "EV Zug v HC Davos",
+  "sport": "ice hockey",
+  "absences": "Zug: Bengtsson, Egli, Martschini and Schneller were listed injured in an older report; Davos: Andersson, Asplund, Gross and Ryfors listed injured in the same report (date uncertain).",
+  "context": "NL; big-club clash. Zug 8-2 in last 10 and strong at home; Davos 1-1-4 away.",
+  "news": "19:45 CET (18:45 UTC) confirmed by EVZ, HCD and mySports. Injury lists are dated and need a check.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.25,
+    "p": 0.7728,
+    "why": "Zug score 4.0 at home and Davos concede 3.2 away; 95% trend. Own p 0.79."
+   }
+  ],
+  "avoid": "result-sides (big-club clash)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.evz.ch/en/eissport/men/game/20271105000182/",
+   "https://www.bluewin.ch/en/sport/zug-remains-unbeaten-at-home-lakers-punished-late-in-davos-li.3655555"
+  ]
+ },
+ {
+  "eid": "sr:match:72123610",
+  "fx": "Geneve-Servette HC v HC Ambri-Piotta",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "NL; Ambri 0-5 away (4.6 ga away); Servette 1-3 at home recently (4.25 ga).",
+  "news": "No team news found; date confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "412",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.29,
+    "p": 0.7502,
+    "why": "Servette home games 6.5 goals and Ambri away 7.2; 80% trend incl. OT. Own p 0.77."
+   }
+  ],
+  "avoid": "Ambri +2.5 (fav p 0.60, banned)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nationalleague.ch/games"
+  ]
+ },
+ {
+  "eid": "sr:match:72123606",
+  "fx": "SC Bern v SC Rapperswil-Jona Lakers",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "NL; Bern lead the table (45 pts) but their winning streak ended 2-4 at Lausanne on Fri 27 Nov, so this is a back-to-back.",
+  "news": "Bern lost Friday at Lausanne (streak over); playing again 24h later.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.7169,
+    "why": "Bern 8-2 in last 10 v Rapperswil 2-3 away; incl. OT/SO; a small discount for the back-to-back. Own p 0.70."
+   }
+  ],
+  "avoid": "Rapperswil +2.5 (fav p 0.72, banned)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.nationalleague.ch/games",
+   "https://www.nau.ch/sport/eishockey/sc-bern-sieges-serie-reisst-in-lausanne-67207959"
+  ]
+ },
+ {
+  "eid": "sr:match:74779162",
+  "fx": "Bentley Falcons v Liu Sharks",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "NCAA non-conference, game 1 of 2 (also 29 Nov). Bentley 4-1 at home; LIU concede 5.1 per game away.",
+  "news": "4 pm ET (21:00 UTC) confirmed by the LIU schedule and FloHockey.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.38,
+    "p": 0.6838,
+    "why": "LIU defence leaks 5.1 per away game; Bentley 4-1 at home; incl. OT. Own p 0.68."
+   }
+  ],
+  "avoid": "Bentley -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.liuathletics.com/sports/mens-ice-hockey/schedule/2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:74779164",
+  "fx": "New Hampshire Wildcats v Brown Bears",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "NCAA non-conference; Brown 2-6-0 (ECAC) and 0-7 away scoring 0.86 per game; UNH 7-6-1.",
+  "news": "4 pm ET at the Whittemore Center confirmed by Brown athletics (ESPN+).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.7566,
+    "why": "Brown 0-7 away scoring 0.86 per game; UNH at home; incl. OT. Own p 0.78."
+   }
+  ],
+  "avoid": "UNH -1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://brownbears.com/news/2026/11/27/mens-ice-hockey-mens-hockey-travels-to-new-hampshire-for-saturday-night-matchup"
+  ]
+ },
+ {
+  "eid": "sr:match:74832356",
+  "fx": "Wisconsin Badgers v Canisius Golden Griffins",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "NCAA non-conference; Wisconsin ranked No.1 (9-1 in last 10) v Canisius (2-7-1); first game of a Sat/Sun series at the Kohl Center.",
+  "news": "6 pm CT (00:00 UTC) confirmed by the UW schedule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "ML 1.04 too short; -3.5 a coin flip; totals near 50/50",
+  "confidence": 0.15,
+  "sources": [
+   "https://uwbadgers.com/sports/mens-ice-hockey/schedule",
+   "https://uwbadgers.com/news/2026/11/2/mens-hockey-wisconsin-mens-hockey-ranked-no-1"
+  ]
+ }
+]
