@@ -554,5 +554,127 @@
    "https://news.bet365.nl/nl-nl/article/pec-zwolle-az-in-eredivisie-blessures-opstellingen-tv-gids-h2h-vorm-voorspellingen-en-meer/2026112517222733383",
    "https://sportsmole.co.uk/football/az/preview/pec-zwolle-vs-az-prediction-team-news-lineups_609994.html"
   ]
+ },
+ {
+  "eid": "sr:match:77152024",
+  "fx": "Djoliba AC v Usfas Bamako",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Malian Premiere Division round 5. Djoliba are reigning champions (25th title 2025-26) and opened with a 2-0 win over Onze Createurs.",
+  "news": "Date conflict: Sofascore and Afreeque list Djoliba v USFAS on Sat 28 Nov 18:30 UTC; board has Sun 29 Nov 16:00 UTC. Venue also disputed (Heremakono complex vs Stade du 26 Mars).",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict (28 Nov 18:30 UTC on Sofascore/Afreeque vs board 29 Nov 16:00 UTC) and venue conflict.",
+  "picks": [],
+  "avoid": "Veto.",
+  "confidence": 0.1,
+  "sources": [
+   "https://afreeque.com/en/football/match/djoliba-usfas-bamako-2026-11-28",
+   "https://www.sofascore.com/football/team/djoliba-ac/69324",
+   "https://us.soccerway.com/game/djoliba-YBkx7bvs/usfas-bamako-Y1KHxbeg/"
+  ]
+ },
+ {
+  "eid": "sr:match:73093176",
+  "fx": "Sampdoria Genoa v US Cremonese",
+  "sport": "football",
+  "absences": "Sampdoria: Cicconi (muscle), Viti, Sinani, Sekulov, Esposito reported injured; Henderson suspended per GenovaToday (another preview starts him); Mbabu doubtful. Insigne/Tutino and Stuckler/Bonazzoli selection battles.",
+  "context": "Serie B round 14, 17:15 CET (16:15 UTC, matches board). Coaches D'Angelo (Samp) and Pecchia (Cremonese). Serie B is low-scoring.",
+  "news": "Samp missing several, Henderson possibly suspended; previews conflict on lineups (not on date).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5/3.5 below the 0.82 gate; Over 1.5 in a ~2.4-goal league fails the O1.5 rule; 1X2 a coin flip; previews disagree on Henderson.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.genovatoday.it/sport/calcio/sampdoria-cremonese-probabili-formazioni-2026-2027.html",
+   "https://www.pronosticisportivi.it/pronostici/calcio/serie-b/pronostico-sampdoria-cremonese-29-novembre-2026-ore-17-15/"
+  ]
+ },
+ {
+  "eid": "sr:match:76462938",
+  "fx": "Marsaxlokk FC v Sliema Wanderers",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Malta Premier League. Marsaxlokk won 1-0 at Hibernians last round; Sliema drew 0-0 at Hamrun. Sliema 5-4-1 last 10. Last H2H 1-2.",
+  "news": "Both took points last round; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Prices close; thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.tntsports.co.uk/football/bov-premier-league/calendar-results.shtml"
+  ]
+ },
+ {
+  "eid": "sr:match:74079812",
+  "fx": "St Andrews FC v Vittoriosa Stars",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Malta Challenge League. St Andrews lost 1-5 to Sirens (Nov 22); Vittoriosa lost 2-3 to Victoria Hotspurs. Both bottom-half, St Andrews 0-1-4 at home scoring 0.4.",
+  "news": "Both lost last round.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism, even DNB prices.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.maltafootball.com/2026/11/22/bov-challenge-league-tarxien-return-to-winning-ways/",
+   "https://www.maltafootball.com/2026/11/21/bov-challenge-league-naxxar-lions-turn-defeat-into-victory/"
+  ]
+ },
+ {
+  "eid": "sr:match:73093160",
+  "fx": "SS Arezzo v SC Pisa",
+  "sport": "football",
+  "absences": "No absentees reported (Pronostici Sportivi: none listed). Pisa: Caracciolo back in defence.",
+  "context": "Serie B round 14, 19:30 CET (18:30 UTC, matches board). Pisa have a new coach, Fabio Caserta, after a change on the bench. Arezzo score 0.6/game, 0 home wins in 5 (0.4 goals per home game).",
+  "news": "Pisa under new coach Caserta; Arezzo's attack is the weakest at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.25,
+    "p": 0.7589342356,
+    "oid": "11",
+    "why": "Arezzo have not won at home in 5 (scoring 2 in 5); Pisa only 2 losses in 10 and a new-coach reaction. Own p ~0.78."
+   }
+  ],
+  "avoid": "Pisa 1X2 1.97 (p 0.48 < away gate); Under 3.5 p 0.72 below gate.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.pianetaserieb.it/news/149378993670/arezzo-pisa-probabili-formazioni-giornata-14-serieb-2026",
+   "https://www.pronosticisportivi.it/pronostici/calcio/serie-b/pronostico-arezzo-pisa-29-novembre-2026-ore-19-30/"
+  ]
+ },
+ {
+  "eid": "sr:match:72041276",
+  "fx": "NEC Nijmegen v FC Twente Enschede",
+  "sport": "football",
+  "absences": "Twente: Thomas van den Belt and Krzysztof Kurowski out (since Nov 22, back mid-Dec); Unnerstall, Bruns, Thorvaldsen near return. NEC: no news found.",
+  "context": "Eredivisie round 14, 20:00 CET (19:00 UTC, matches board). Twente score 3.4/game away (incl 9-0); NEC's last 6 include 3-1, 1-4, 3-2, 3-1, 2-2.",
+  "news": "Twente missing midfielder Van den Belt and Kurowski; otherwise no fresh news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.4,
+    "p": 0.692477,
+    "oid": "12",
+    "why": "5 of NEC's last 6 and 5 of Twente's last 6 had 3+ goals; NEC concede 1.8 at home, Twente score 3.4 away. Own p ~0.72."
+   }
+  ],
+  "avoid": "Twente result-side (p 0.52); Van den Belt absence weakens Twente midfield.",
+  "confidence": 0.25,
+  "sources": [
+   "https://news.bet365.nl/nl-nl/article/eredivisie-speelronde-14-tv-gids-programma-odds-en-de-belangrijkste-wedstrijden/2026112511410180365",
+   "https://www.beste-bookmakers.nl/schorsingen-en-geblesseerde-spelers-eredivisie"
+  ]
  }
 ]
