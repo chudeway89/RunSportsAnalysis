@@ -1,0 +1,603 @@
+[
+ {
+  "eid": "sr:match:72149918",
+  "fx": "Kashiwa Reysol v Sanfrecce Hiroshima",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "J1 2026/27 MD17, 28 Nov 16:00 JST at Sankyo Frontier Kashiwa (= 07:00 UTC, matches). Kashiwa are playing ACL Elite (one preview says the lineup is managed around ACLE, Kakita likely lone striker); Kashiwa reportedly won 2-1 at Newcastle Jets on ACLE MD5. Sold out.",
+  "news": "Date/venue confirmed; Kashiwa juggling ACLE (rotation risk); no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (ACLE rotation, near coin-flip). Over 1.5 1.22 looks supported by both sides' high-scoring last-6 but J1 averages below the 2.7 O1.5 threshold.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/27/post1059346/",
+   "https://www.reysol.co.jp/news/event/1128-4.html",
+   "https://novascouts.substack.com/p/afc-champions-league-elite-league-70c"
+  ]
+ },
+ {
+  "eid": "sr:match:71945430",
+  "fx": "Frosinone v Parma Calcio",
+  "sport": "football",
+  "absences": "Frosinone: Grillitsch, Raimondo (one source says on bench), Birligea out; Bracaglia back from suspension. Parma: Romero, Drobnic, Diego Carlos out.",
+  "context": "Serie A MD13, Sat 15:00 CET at Stirpe (= 14:00 UTC, matches). Frosinone 7th on 20 pts and 5-0 at home (gf 3.2); Parma 17th on 8 pts, lost 5-1 at home to Roma last time, 1-0-3 away. Relegation pressure on Parma.",
+  "news": "Frosinone 7th v struggling Parma (8 pts, 3 defensive absentees); lineups agreed across sources.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.7986718004,
+    "why": "Frosinone perfect home record (5/5, 3.2 gf) v Parma side 17th with Diego Carlos/Romero/Drobnic out and fresh off a 1-5 home loss; DNB removes the draw. My p ~0.81."
+   }
+  ],
+  "avoid": "Frosinone team Over 2.5 (2.2) too thin.",
+  "confidence": 0.3,
+  "sources": [
+   "https://sport.sky.it/calcio/serie-a/2026/11/27/probabili-formazioni-serie-a-giornata-13-ultime-news",
+   "https://sportparma.com/parma-calcio/frosinone-parma-convocati-e-probabili-formazioni-2.html",
+   "https://www.fantamaster.it/probabili-formazioni-frosinone-parma-13-giornata-seriea-2026-2027/",
+   "https://www.tuttosport.com/news/calcio/serie-a/2026/11/27-152873666/frosinone-parma_probabili_formazioni_e_diretta_dove_si_vede_in_tv_e_streaming"
+  ]
+ },
+ {
+  "eid": "sr:match:73093162",
+  "fx": "Ascoli Calcio 1898 v Virtus Entella",
+  "sport": "football",
+  "absences": "No lineup/absence news found.",
+  "context": "Serie B MD14, Sat 15:00 CET (= 14:00 UTC, matches Corriere dello Sport). Ascoli unbeaten at home in last 5 (2-3-0) but draw-heavy; Entella 3-3-4.",
+  "news": "no news found beyond fixture confirmation.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ascoli DC 1X 1.23 is plausible on home form but no mechanism; Under 3.5 p 0.735 < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.corrieredellosport.it/probabili-formazioni/calcio/serie-b"
+  ]
+ },
+ {
+  "eid": "sr:match:73093164",
+  "fx": "Carrarese Calcio v Juve Stabia",
+  "sport": "football",
+  "absences": "Carrarese: Bonfanti unavailable (one source says no injuries). Juve Stabia: Sandrucci, Pietrangeli, Scuderi injured; Petrazzuolo reportedly 3-match ban (date unclear).",
+  "context": "Serie B MD14, Sat 15:00 CET at Dei Marmi (matches). Carrarese won 1-0 at Vicenza on Tue 24 Nov (midweek round, short turnaround for both). Carrarese low-scoring (gf 0.9, ga 1.0).",
+  "news": "Midweek round just played; Juve Stabia carry 3 injuries plus a possible suspension.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (p 0.728 < 0.82) and result sides near coin-flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.pronosticisportivi.it/pronostici/calcio/serie-b/pronostico-carrarese-juve-stabia-28-novembre-2026-ore-15-00/",
+   "https://www.virgilio.it/sport/dirette/live/serie-b/24-11-2026/vicenza-carrarese/2670793/",
+   "https://www.pianetaserieb.it/news/492775050758/novita-assenti-serie-b-aggiornamento",
+   "https://www.infooggi.it/articolo/serie-b-giudice-sportivo-dopo-la-13-giornata-quattro-calciatori-fermati-e-benevento-multato/158790"
+  ]
+ },
+ {
+  "eid": "sr:match:73093168",
+  "fx": "Empoli v Hellas Verona",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Serie B MD14, Sat 15:00 CET. Empoli bottom with 9 pts and 0-3-7 last 10, but have a NEW head coach (first game: new-manager bounce risk). Verona expected to switch to a back four / 4-3-3.",
+  "news": "Empoli bottom (9 pts), new coach debut; Verona 4-3-3.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.35,
+    "p": 0.708786,
+    "why": "Verona 4-3-3 away record 2-1-2 v winless Empoli (0 wins in 10, 0.8 gf at home); DNB covers the new-coach draw risk. My p ~0.70 (house 0.709) - fill-grade, coach-change bounce is the counter-risk."
+   }
+  ],
+  "avoid": "Verona 1X2 away (p 0.53 < 0.75).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.veronasera.it/sport/calcio/empoli-hellas-verona-probabili-formazioni-28-novembre-2026.html"
+  ]
+ },
+ {
+  "eid": "sr:match:77188070",
+  "fx": "ASEC Mimosas v OFC Adiake",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Ivory Coast Ligue 1 2026-27 has barely started (ASEC table shows 2 played: 1D 1L; Adiake 1 played, 1L). Opener-phase board (rounds 1-3): transition regime. Low-scoring league.",
+  "news": "Season just started; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: rounds 1-3 opener, ASEC winless in 2. ASEC 1X2 1.44 not an anchor.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.asec.ci/season/ranking",
+   "https://www.futbol24.com/team/Ivory-Coast/ASEC-Mimosas"
+  ]
+ },
+ {
+  "eid": "sr:match:73093170",
+  "fx": "L.R. Vicenza v Cesena FC",
+  "sport": "football",
+  "absences": "Vicenza: Tsadjout, Pellizzari, Alessio/Valoti injured; Cuomo was suspended for the 24 Nov game. Cesena: Klinsmann out (cervical vertebra fracture).",
+  "context": "Serie B MD14, Sat (16:15 UTC). Vicenza lost 0-1 at home to Carrarese on Tue 24 Nov, 0-1-4 at home last 5, ga 2.2 at home. Short turnaround.",
+  "news": "Vicenza injury-hit and 0-1-4 at home; Cesena without Klinsmann.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cesena DC X2 tempting on form but mid-band, no confirmed-lineup mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.pianetaserieb.it/news/492775050758/novita-assenti-serie-b-aggiornamento",
+   "https://www.virgilio.it/sport/dirette/live/serie-b/24-11-2026/vicenza-carrarese/2670793/"
+  ]
+ },
+ {
+  "eid": "sr:match:73294880",
+  "fx": "ASD Sorrento 1945 v Cosenza Calcio",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "Serie C Girone C MD16, Sat 17:30 CET (= 16:30 UTC, matches Sky). Sorrento 23 pts (joint top-group), Cosenza 16 pts. Sportradar last-10 for Sorrento (2-2-6) looks weak against their table position - data conflict on form, not on date.",
+  "news": "Fixture/time confirmed on Sky; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: regional third tier, form data conflicts with standings.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.sky.it/calcio/serie-c/2026/11/27/serie-c-partite-sky-giornata-16",
+   "https://trnews.it/2026/11/27/serie-c-la-sedicesima-giornata-tra-derby-pugliesi-e-campani"
+  ]
+ },
+ {
+  "eid": "sr:match:73294878",
+  "fx": "Salernitana v SS Monopoli",
+  "sport": "football",
+  "absences": "Salernitana: attacking doubts, a new midfield signing (no names in snippet).",
+  "context": "Serie C Girone C MD16, Sat 17:30 CET at Arechi (matches). Monopoli 23 pts after a narrow win v Cavese; Salernitana 19 pts after a draw at Casertana. Salernitana 3-2-0 at home.",
+  "news": "Salernitana attacking doubts; Monopoli 4 pts ahead.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides near coin-flip; Unders p < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.infocilento.it/salernitana-monopoli-allarechi-dubbi-in-attacco-e-un-nuovo-rinforzo-a-centrocampo/",
+   "https://www.campaniasoccer.com/serie-c/serie-c-girone-c-potenza-cade-milano-monopoli-sorride-pari-derby-casertana-salernitana-49623"
+  ]
+ },
+ {
+  "eid": "sr:match:71945440",
+  "fx": "Torino v Lazio",
+  "sport": "football",
+  "absences": "Torino: Ismajli out (muscle), Israel out, Belghali doubtful/out. Lazio: Taylor out (muscle fatigue), Tavares and Sutalo out, Marusic doubtful; Zaccagni recovered (maybe bench).",
+  "context": "Serie A MD13, Sat 18:00 CET (= 17:00 UTC, matches). Lazio 7-3-0 last 10 (3-1-0 away, 3.0 gf); Torino 4-2-4 and 2-1-2 at home (ga 1.8).",
+  "news": "Lazio unbeaten in 10 but missing Taylor, Tavares, Sutalo; Torino lose Ismajli.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.58,
+    "p": 0.6069859162,
+    "why": "Lazio unbeaten in 10 (3-1-0 away, 3.0 gf away) v a Torino defence without Ismajli; DNB voids the draw. Lazio's own absences (Taylor, Tavares, Sutalo) keep my p at ~0.61, equal to house - fill only."
+   }
+  ],
+  "avoid": "Lazio 1X2 away (p 0.44 < 0.75).",
+  "confidence": 0.2,
+  "sources": [
+   "https://sport.sky.it/calcio/serie-a/2026/11/27/torino-lazio-probabili-formazioni-13-giornata",
+   "https://www.lazionews.eu/notizie/probabili-formazioni-torino-lazio/",
+   "https://www.tuttosport.com/news/calcio/serie-a/2026/11/27-152873998/torino-lazio_probabili_formazioni_e_diretta_dove_si_vede_in_tv_e_streaming"
+  ]
+ },
+ {
+  "eid": "sr:match:73093174",
+  "fx": "Palermo FC v Benevento Calcio",
+  "sport": "football",
+  "absences": "No absences named; Inzaghi confirmed Magnani and Gomes start. Benevento were fined by the disciplinary judge after MD13.",
+  "context": "Serie B MD14, Sat 19:30 CET at the Barbera (= 18:30 UTC, matches). Palermo 4-0 at home (2.75 gf); Benevento 5-3-2 last 10 but 2-0-2 away. Sources split 4-3-3 v 4-2-3-1 for Palermo.",
+  "news": "Palermo perfect at home; Inzaghi names Magnani and Gomes.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.39,
+    "p": 0.685151,
+    "why": "Palermo 4/4 at home (2.75 gf) under Inzaghi with Magnani back in defence; Benevento 2-0-2 away. My p ~0.70."
+   }
+  ],
+  "avoid": "Over 1.5 1.19 (Serie B below the 2.7 O1.5 league threshold).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.palermotoday.it/sport/calcio/palermo-benevento-probabili-formazioni-28-novembre-2026.html",
+   "https://www.tuttopalermo.net/primo-piano/serie-b-palermo-benevento-probabili-formazioni-127891",
+   "https://www.stadionews.it/palermo-benevento-probabili-formazioni-serie-b-2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:71945432",
+  "fx": "Inter v Genoa",
+  "sport": "football",
+  "absences": "Inter: Bastoni out (left quad strain v Stuttgart, may miss rest of 2026), Calhanoglu out (thigh, ~1 month), Bonny out (thigh), Zielinski doubtful/fit (sources conflict). Genoa: Lorenzo Colombo out (serious knee), Frendrup still recovering, Ostigard expected fit after fever. No suspensions.",
+  "context": "Serie A MD13, Sat 20:45 CET at San Siro (= 19:45 UTC, matches). Inter played Stuttgart in the Champions League midweek; first of an Inter-Genoa double header (another meeting soon). Inter 7-1-2 last 10, 4-0-1 at home.",
+  "news": "Inter without Bastoni and Calhanoglu after UCL midweek; Genoa lose striker Colombo.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.33,
+    "p": 0.744545,
+    "why": "Inter 4-0-1 at home v Genoa without their striker Colombo and Frendrup; Inter's own losses (Bastoni, Calhanoglu) plus UCL midweek trim it slightly. My p ~0.73."
+   }
+  ],
+  "avoid": "Inter -1.5 / team Over 2.5 (rotation after UCL, key absentees). Under 3.5 1.63 not in range of p 0.82.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.beinsports.com/en-us/soccer/serie-a/articles/bastoni-could-miss-remainder-of-2026-as-inter-gear-up-for-genoa-double-header-2026-11-27",
+   "https://www.livescore.com/en/news/football/serie-a/serie-a-preview-inter-vs-genoa-team-news-lineups-prediction-the-cult-of-calcio/",
+   "https://www.goal.com/en/news/inter-zielinski-returns-fit-for-genoa/blt9f53db6fc98ff22c"
+  ]
+ },
+ {
+  "eid": "sr:match:74459148",
+  "fx": "FC Tokyo U21 v V-Varen Nagasaki U21",
+  "sport": "football",
+  "absences": "U21 side; no news searched beyond fixture.",
+  "context": "Japan U21 J League (youth/reserve competition). Nagasaki U21 1-0-5 last 6, 0.33 gf / 3.0 ga away.",
+  "news": "Youth league: no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: youth/reserve competition; no goals line on the board.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72151406",
+  "fx": "Vanraure Hachinohe FC v Fujieda MYFC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J2 2026/27 MD20 (29 Nov). Both struggling: Hachinohe 0-1-3 at home, Fujieda 1-3-6 and lost to Sapporo last round.",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: two weak low-scoring sides, coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.jleague.jp/news/article/35484/?navicode=j2"
+  ]
+ },
+ {
+  "eid": "sr:match:72152258",
+  "fx": "Roasso Kumamoto v FC Osaka",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J3 2026/27 MD20, Sun 29 Nov 13:00 JST at Egao Kenko Stadium (= 04:00 UTC, matches). FC Osaka 6-2-2 last 10.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: J3 coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/25/post969669/"
+  ]
+ },
+ {
+  "eid": "sr:match:72149916",
+  "fx": "Mito Hollyhock v V-Varen Nagasaki",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J1 2026/27 MD17, Sun 29 Nov 14:00 JST at Mito Shinkin Stadium (= 05:00 UTC, matches). J1 table: Mito 11th (2-3-2), Nagasaki 14th (2-1-4). Both low-scoring (Mito 0.6 gf last 10, Nagasaki 0.43 gf away).",
+  "news": "Mid-table J1 meeting confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (U3.5 p 0.755 < 0.82); result sides coin-flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/match/j1/2026/112902/",
+   "https://www.mito-hollyhock.net/lp26/20261129/"
+  ]
+ },
+ {
+  "eid": "sr:match:72149924",
+  "fx": "Yokohama F Marinos v FC Tokyo",
+  "sport": "football",
+  "absences": "No news found for either side.",
+  "context": "J1 MD17 (29 Nov). FC Tokyo 7-2-1 last 10 with 0.3 ga (3-0-1 away, 0.25 ga). Marinos 3-5-2, conceding 2.2 at home.",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.31,
+    "p": 0.7387165704,
+    "why": "FC Tokyo's defence (0.3 ga last 10, 0.25 away) v a Marinos side leaking 2.2 at home; DNB covers the draw. Stats-only mechanism, no team news - fill. My p ~0.74."
+   }
+  ],
+  "avoid": "FC Tokyo 1X2 away (p 0.56 < 0.75).",
+  "confidence": 0.2,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72151418",
+  "fx": "Albirex Niigata v Ventforet Kofu",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J2 MD20 (29 Nov 14:00 JST). Albirex Niigata 1st (38 pts) host bottom side Ventforet Kofu (J.League preview); Kofu 1-2-7 last 10, 0.5 gf, 0-2-4 away.",
+  "news": "Leaders v bottom side (J.League preview).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.73946806,
+    "why": "Leaders (38 pts) v last-placed Kofu, who score 0.5 per game and are winless in 6 away; DNB protects the draw. My p ~0.76."
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Under 1.5",
+    "odds": 1.26,
+    "p": 0.754143,
+    "why": "Kofu 0.5 gf last 10 (0.5 away) v the league leaders; Kofu 2+ goals needs a collapse. My p ~0.78. Team Under: within house p 0.754 band."
+   }
+  ],
+  "avoid": "Niigata 1X2 (Niigata conceding 1.6 at home).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.jleague.jp/news/article/35484/?navicode=j2",
+   "https://www.footballchannel.jp/2026/11/25/post969204/"
+  ]
+ },
+ {
+  "eid": "sr:match:72151410",
+  "fx": "Blaublitz Akita v Yokohama FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J2 MD20 (29 Nov). Akita 3-1-0 at home; Yokohama FC 5-2-3.",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Yokohama FC DNB is house-favoured but Akita unbeaten at home in 4: no mechanism.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72151420",
+  "fx": "Jubilo Iwata v Tochigi City FC",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J2 MD20, 29 Nov 14:00 JST. Jubilo 9th (29 pts); Tochigi City 1-3-6 last 10 (2.0 ga), lost three of the last six by 3 goals.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.738848,
+    "why": "Tochigi City conceding 2.0 per game (0-3 three times in last 6) v Jubilo 4-4-2 with 0.9 ga; DNB voids the draw. Stats-only - fill. My p ~0.74."
+   }
+  ],
+  "avoid": "Jubilo 1X2 (Jubilo low-scoring, 1.1 gf).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/25/post969204/"
+  ]
+ },
+ {
+  "eid": "sr:match:72151422",
+  "fx": "Oita Trinita v Tokushima Vortis",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J2 MD20 (29 Nov). Oita conceding 1.8 (lost 0-4, 1-6 recently); Tokushima 3-1-1 away.",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: coin-flip, no mechanism.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72151416",
+  "fx": "Shonan Bellmare v Kataller Toyama",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J2 MD20 (29 Nov). Shonan on a 3-game winning run host 2nd-placed Kataller Toyama (35 pts), who beat Iwaki last round (J.League preview). Promotion six-pointer-ish.",
+  "news": "Shonan 3 straight wins v 2nd-placed Toyama.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (both in form); Over 1.5 1.18 thin in J2.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/news/article/35484/?navicode=j2"
+  ]
+ },
+ {
+  "eid": "sr:match:72151424",
+  "fx": "Tegevajaro Miyazaki v Sagan Tosu",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J2 MD20, 29 Nov 14:00 JST at Kurokiri Stadium, Miyakonojo (matches). Miyazaki 4th (9-6-3), Tosu 11th (7-3-8). Billed as a Kyushu derby.",
+  "news": "Kyushu derby confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (derby rule).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/match/j2/2026/112912/",
+   "https://miyazaki.tege2.jp/2026/11/64319/"
+  ]
+ },
+ {
+  "eid": "sr:match:72151408",
+  "fx": "Vegalta Sendai v Montedio Yamagata",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J2 MD20, 29 Nov 14:00 JST. Sendai 3rd (34 pts, 1 behind automatic promotion) v Montedio Yamagata 15th (22 pts). Michinoku derby.",
+  "news": "Promotion-chasing Sendai v 15th Yamagata in the Michinoku derby.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (derby rule) despite the table gap; Over 1.5 1.22 J2 thin.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/25/post969204/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152250",
+  "fx": "AC Nagano Parceiro v Giravanz Kitakyushu",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J3 MD20, Sun 29 Nov 14:00 JST at Nagano U Stadium (= 05:00 UTC, matches).",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All: coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballchannel.jp/2026/11/25/post969669/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152244",
+  "fx": "Fukushima United FC v Gainare Tottori",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J3 MD20, 29 Nov 14:00 JST (matches J.League). One snippet shows Fukushima 16th (1-1-4) and Tottori 8th (3-1-2) - conflicts with Sportradar last-10 (Fukushima 5-3-2, Tottori 1-2-7); data conflict on form, not on date.",
+  "news": "Fixture confirmed; standings snippet contradicts form data.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fukushima DNB/1X2: form data conflict.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.jleague.jp/match/j3/2026/112915/"
+  ]
+ },
+ {
+  "eid": "sr:match:72152260",
+  "fx": "Kagoshima United v Kamatamare Sanuki",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J3 MD20, Sun 29 Nov 14:00 JST at Shiranami Stadium (matches). Kagoshima reportedly 1st (23 pts); Sanuki 17th (5-3-11, 18 pts) and 1-0-3 away.",
+  "news": "Leaders v 17th-placed Sanuki; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.43,
+    "p": 0.659349,
+    "why": "Table gap (1st v 17th, Sanuki 5-3-11 and 0.75 gf away); Kagoshima 2.0 gf at home. Stats-only, table date unverified - fill. My p ~0.66."
+   }
+  ],
+  "avoid": "DNB 1.17 below the 1.18 floor.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.jleague.jp/match/j3/2026/112921/",
+   "https://soccer.yahoo.co.jp/jleague/category/j3/teams/30536/schedule"
+  ]
+ },
+ {
+  "eid": "sr:match:72149922",
+  "fx": "Kawasaki Frontale v Gamba Osaka",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J1 MD17. One preview (AiScore/FootyStats) listed 28 Nov 19:00 JST, but both clubs' official sites confirm Sun 29 Nov 15:00 JST at Uvance Todoroki (= 06:00 UTC, matches the board). Gamba are in ACL Elite (won on MD5): midweek congestion. Kawasaki games high-scoring (4-5, 2-4, 1-2 recently).",
+  "news": "Date conflict in aggregator resolved by both official club sites (29 Nov 15:00); Gamba ACLE congestion.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.53,
+    "p": 0.632497,
+    "why": "Kawasaki matches averaged ~3.9 goals (gf 2.1, ga 1.8); Gamba 1.7 gf / 1.4 ga with ACLE fatigue. My p ~0.64, matching house - fill."
+   }
+  ],
+  "avoid": "Result sides; integer Over 2/3 lines.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.frontale.co.jp/lp_games/2026-27/j1_17_gosaka/",
+   "https://www.gamba-osaka.net/news/index/no/21356/",
+   "https://www.aiscore.com/prediction/football-gamba-osaka-vs-kawasaki-frontale-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72149928",
+  "fx": "Nagoya Grampus v Avispa Fukuoka",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J1 MD17 (29 Nov). Avispa Fukuoka 1-1-8 last 10, 0-0-5 away (0.4 gf, 2.4 ga).",
+  "news": "no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.38,
+    "p": 0.699644,
+    "why": "Fukuoka have lost all 5 away games (0.4 gf) and 8 of 10; DNB voids the draw. Nagoya only 1-2-2 at home - stats-only, fill. My p ~0.71."
+   }
+  ],
+  "avoid": "Nagoya 1X2 (Nagoya conceding 2.4 at home).",
+  "confidence": 0.2,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72151412",
+  "fx": "Iwaki FC v Hokkaido Consadole Sapporo",
+  "sport": "football",
+  "absences": "No news found.",
+  "context": "J2 MD20 (29 Nov). Sapporo on two straight wins (beat Fujieda), 8-0-2 last 10 with 0.4 ga, 5-0-1 away with 0.17 ga; Iwaki lost to Toyama last round but 0.4 ga at home. House makes Iwaki favourite - strong disagreement with form.",
+  "news": "Sapporo in form (2 straight wins, tight defence); house prices Iwaki favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sapporo X2 1.71 (divergence from house > 15pp on form: R5 skip). Unders p < 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.jleague.jp/news/article/35484/?navicode=j2"
+  ]
+ }
+]

@@ -1,0 +1,628 @@
+[
+ {
+  "eid": "sr:match:73296504",
+  "fx": "North District FC v Southern District Football Club",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "HK Premier League; North District top of table (~16 pts from 6 per predictZ, tables disagree); Southern 0/3 away, conceding 3.33 away. High-scoring league.",
+  "news": "Fixture confirmed 28 Nov (Soccerway/ScoreBat); no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.43,
+    "p": 0.663307,
+    "why": "North District games avg 4.7 goals (7-8, 5-0, 3-1); Southern concede 3.3 away; own p ~0.68."
+   }
+  ],
+  "avoid": "Home 1X2 at p .62 (North lost 1-3 last out); team totals.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.soccerway.com/hong-kong/premier-league/",
+   "https://www.predictz.com/us/picks/hong-kong/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73549292",
+  "fx": "Gyori ETO FC v Fehervar FC",
+  "sport": "football",
+  "absences": "youth - not researched",
+  "context": "Hungary U19 National; youth fixture.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth: no picks (not a clear mismatch, home p .64).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73549284",
+  "fx": "Zalaegerszeg TE v Debreceni VSC",
+  "sport": "football",
+  "absences": "youth - not researched",
+  "context": "Hungary U19 National; youth fixture.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth: no picks; evenly matched.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74172566",
+  "fx": "GS Marko v PAOK Thessaloniki B",
+  "sport": "football",
+  "absences": "PAOK B: 9 out - Kottas, Azouz (inj), Gkioka (inj in U19 Youth League), Dounga and Kosidis promoted to first team, Tsopouroglou/Stylos training with first team, Berdos and Eloustondo (virus); Taison not in 22-man squad. Marko: none reported.",
+  "context": "SL2; Marko 6-match winning run, 11 unbeaten, beat Zakynthos 6-0 on 16 Nov. PAOK B changed coach mid-Nov (Malezas appointed 13 Nov). KO 14:45 local = 12:45 UTC matches.",
+  "news": "PAOK B travel heavily depleted (9 absentees) to in-form Marko.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side involved: no result-side per rule even though Marko home 1.28 (own p ~0.77) is backed by named absences; Over 2.5 only p .60.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.metrosport.gr/paok-v-22-paiktes-stin-apostoli-choris-ton-taison-gia-to-mats-me-tin-marko-1335117",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2"
+  ]
+ },
+ {
+  "eid": "sr:match:74040816",
+  "fx": "Apollon Smyrnis v Ionikos Nikea FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Gamma Ethniki group 8; Apollon Smyrnis ~21 pts near top, Ionikos 7 pts; Ionikos 0W in 6 away, 0.33 gf away. Referee list confirms Apollon Smyrnis-Ionikos Saturday 15:00 local.",
+  "news": "Fixture confirmed in weekend referee appointments; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.733186,
+    "why": "Table gap (21 v 7 pts) and Ionikos 0W/5L away scoring 0.33; own p ~0.76."
+   }
+  ],
+  "avoid": "Totals: low-scoring tier.",
+  "confidence": 0.25,
+  "sources": [
+   "https://metrosport.gr/g-ethniki-oi-diaitites-ton-agonon-toy-savvatokyriakoy-chorisan-galtsidis-kai-asteras-agioy-nikolaoy-1334841",
+   "https://www.epo.gr/el/arthra/g-ethniki-oi-omiloi-tis-sezon-2026-27",
+   "https://www.gazzetta.gr/football/g-ethniki/2574519/niki-toy-apollona-smyrnis-kai-isopalia-o-ionikos-sti-g-ethniki"
+  ]
+ },
+ {
+  "eid": "sr:match:74039756",
+  "fx": "Aris Filiaton v AE Lefkimmi FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Gamma Ethniki matchday 10, 28 Nov 15:00 local.",
+  "news": "Venue conflict: Aris Filiaton schedule says Filiates municipal stadium, referee-appointments article lists Preveza municipal stadium.",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Filiates vs Preveza).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://arisfiliaton.gr/team/aris-filiaton/schedule/",
+   "https://corfucorner.gr/gethniki/diaitisies-tis-10is-agonistikis-gia-lefkimmis-ofam/"
+  ]
+ },
+ {
+  "eid": "sr:match:74041090",
+  "fx": "Asteras Magoulas v Kyanous Asteras Varis",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Gamma Ethniki; both extremely low scoring (home gf 0.62/ga 0.25; away gf 0.9/ga 0.4).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders below p .82; result sides near coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://metrosport.gr/g-ethniki-oi-diaitites-ton-agonon-toy-savvatokyriakoy-chorisan-galtsidis-kai-asteras-agioy-nikolaoy-1334841",
+   "https://www.epo.gr/el/arthra/g-ethniki-oi-omiloi-tis-sezon-2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:74038964",
+  "fx": "Asteras Stavrou v FC Fokikos",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Gamma Ethniki; both poor form.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No edge; Stavrou 0W at home.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74037470",
+  "fx": "Bam FC v AE Polykastrou",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Gamma Ethniki group 4/north; thin data (8 games each).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home DNB 1.24 statistics-only.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74041098",
+  "fx": "Ethnikos Asteras FC v A.P.O. Thyella Rafina FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Gamma Ethniki; Ethnikos Asteras 0/3 at home, Thyella strong away (3W1D, ga 0.25).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 at 1.17 below odds floor; away side away result not >=0.75.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74038340",
+  "fx": "Iraklis Larisas v Digenis Neochoriou",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Gamma Ethniki group 4 matchday 10, 28/11 15:00 local; Iraklis Larisas 11th 1 pt (lost 0-4 at home to Sarakinos), Digenis 10th 3 pts (drew 1-1 Pierikos). Bottom-two clash.",
+  "news": "Bottom-of-group meeting; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Both sides winless; draw risk high.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.elassona884.gr/2026/11/Poe-epitelous-triponto.html",
+   "https://www.bet-on-arme.com/kouponi-stoiximatos/139667-iraklis-larisas-digenis-neochoriou/"
+  ]
+ },
+ {
+  "eid": "sr:match:74038342",
+  "fx": "Pierikos FC v Po Elassonas",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Gamma Ethniki matchday 10 local derby; Elassona 5th 13 pts (draw-heavy, 4 draws), Pierikos 7th 11 pts.",
+  "news": "Described as a regional derby; Elassona got first win after 4 draws.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby: no result-side; draw-prone Elassona.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.elassona884.gr/2026/11/kolise-stis-isopalies-o-poe-g-ethniki.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74040822",
+  "fx": "Proodeftiki FC v Amfiali",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Gamma Ethniki group 8; Proodeftiki-Amfiali confirmed Saturday in referee list. Both low scoring.",
+  "news": "Fixture confirmed in referee appointments; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home DNB 1.15 below floor; totals low-scoring tier.",
+  "confidence": 0.1,
+  "sources": [
+   "https://metrosport.gr/g-ethniki-oi-diaitites-ton-agonon-toy-savvatokyriakoy-chorisan-galtsidis-kai-asteras-agioy-nikolaoy-1334841",
+   "https://www.epo.gr/el/arthra/g-ethniki-oi-omiloi-tis-sezon-2026-27"
+  ]
+ },
+ {
+  "eid": "sr:match:74172562",
+  "fx": "Asteras Tripolis B v Niki Volou 1924 PAE",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "SL2; Asteras Tripolis B is a reserve side; Niki Volos 5/5 away wins, 0 conceded away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: goals only; Under 3.5 p .80 below Unders floor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.metrosport.gr/paok-v-22-paiktes-stin-apostoli-choris-ton-taison-gia-to-mats-me-tin-marko-1335117",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2"
+  ]
+ },
+ {
+  "eid": "sr:match:74172572",
+  "fx": "Panserraikos FC v Pas Pyrgos",
+  "sport": "football",
+  "absences": "Panserraikos reported out: Staikos, Karasalidis, Tachatos (inj), Tsornomaz (quad), Mavrias (suspended), Grivas (adductor) - attribution uncertain (may be an older article).",
+  "context": "SL2 28/11 15:00 local; Panserraikos 5/6 home wins; Pyrgos lost 2-4 home to PAOK B and 0-4 home to AEL.",
+  "news": "Possible long Panserraikos absence list; source dating uncertain.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 p .675 mid-band with absence uncertainty.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.matchmoney.com.gr/analuseis-agonon/panserraikos-pas-purgos-1968-prognostika-29-11-2026/",
+   "https://www.metrosport.gr/paok-v-22-paiktes-stin-apostoli-choris-ton-taison-gia-to-mats-me-tin-marko-1335117",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2"
+  ]
+ },
+ {
+  "eid": "sr:match:72936160",
+  "fx": "POT Iraklis v Panaitolikos Agrinio",
+  "sport": "football",
+  "absences": "Panaitolikos 10 out: Opoku, Mechia, Mavrias, Granath, Galiatsos, Tzenepo, Satsias, Papazois, Thymianis (knee, injured Friday training), Basi (biceps). Iraklis: none reported.",
+  "context": "Super League R12, Kaftanzoglio 28/11 17:00 local (=15:00 UTC, matches). Panaitolikos 1W in 5 away, 0.4 gf away.",
+  "news": "Panaitolikos travel with ten absentees incl. Thymianis and Basi.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.22,
+    "p": 0.783448863,
+    "why": "Named mechanism: 10 Panaitolikos absentees + 0.4 away goals/game; own p ~0.81."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.704562,
+    "why": "Same absences; Panaitolikos lost 4 of 5 away; own p ~0.73."
+   }
+  ],
+  "avoid": "Iraklis Over/team goals (Iraklis 2W in 10).",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.gazzetta.gr/football/superleague/2590367/panaitolikos-nea-problimata-me-thymiani-kai-mpasi",
+   "https://agriniara.gr/panaitolikos-choris-thymiani-mpasi-apostoli-irakli/",
+   "https://www.novasports.gr/sport/podosfairo/event/super-league-1/article/15256319/panaitolikos-dokimasia-me-apousies-sto-kaytatzogleio/"
+  ]
+ },
+ {
+  "eid": "sr:match:72936154",
+  "fx": "Volos NPS v Asteras Tripolis",
+  "sport": "football",
+  "absences": "Asteras Tripolis: captain Dimitris Kourbelis (arm, after international duty) and Julian Bartolo (adductor) out. Volos: no news found.",
+  "context": "Super League; Volos 0W in last 10 (9 losses), 0/4 at home; Asteras 2W in 10.",
+  "news": "Asteras without Kourbelis and Bartolo.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Both sides out of form; Asteras DNB p .49; Under 3.5 p .78 below Unders floor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://gazzetta.gr/football/superleague/2590271/asteras-tripolis-paramenoyn-ektos-koyrmpelis-kai-mpartolo-kontra-ston"
+  ]
+ },
+ {
+  "eid": "sr:match:72936156",
+  "fx": "AE Kifisia FC v PAE PS Kalamata",
+  "sport": "football",
+  "absences": "no named senior absences found (Kalamata squad list published).",
+  "context": "Super League; Kifisia ~9th, Kalamata ~10th (tables disagree). Kalamata travel (confirmed). Taklin youth K15/K17 Kalamata-Kifisia home games same day are youth fixtures, not a conflict.",
+  "news": "Kalamata squad announced for away trip; no key absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 1.5 (Greek SL < 2.7 avg); Kifisia 1W in 5 at home.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sport-fm.gr/article/5163906",
+   "https://www.livesoccertv.com/match/5083767/kalamata-vs-kifisia/"
+  ]
+ },
+ {
+  "eid": "sr:match:72475110",
+  "fx": "Antigua GFC v Deportivo Mixco",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Guatemala Apertura J22 (final), 15:00 local simultaneous. Antigua leader 40 pts, Mixco 2nd 37; semi-final direct tickets decided this round. Mixco won 3-1 in first meeting.",
+  "news": "Top-two meeting with semi-final byes at stake.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.76821,
+    "why": "Antigua 4W1D at home conceding 0.4, need result to keep a bye; own p ~0.77."
+   }
+  ],
+  "avoid": "Home 1X2 (Mixco also motivated, beat Antigua 3-1).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-con-el-calendario-al-dia-asi-queda-la-clasificacion-con-una-ultima-jornada-de-infarto-breaking/",
+   "https://agn.gt/como-se-jugara-la-ultima-jornada-del-torneo-apertura-2026-horarios-partidos-y-fechas",
+   "https://www.clarosports.com/centroamerica/futbol-cenam/playoffs-del-apertura-2026-de-guatemala-los-cinco-clasificados-y-como-se-define-el-ultimo-boleto/",
+   "https://clarosports.com/centroamerica/futbol-cenam/antigua-gfc-vs-mixco-en-vivo-donde-mirar-el-apertura-2026-de-la-liga-de-guatemala"
+  ]
+ },
+ {
+  "eid": "sr:match:72475114",
+  "fx": "Aurora FC v CSD Coban Imperial",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Guatemala J22; Aurora mathematically eliminated (25 pts, safe from relegation, dead rubber); Coban 7th 28 pts needs win + San Pedro not winning for 6th.",
+  "news": "Aurora have nothing to play for; Coban must win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.42,
+    "p": 0.6466614034,
+    "why": "Motivation asymmetry: Aurora eliminated and safe, Coban must win; own p ~0.69 (Coban weak away 1W/4 caps it)."
+   }
+  ],
+  "avoid": "Coban away 1X2 (>2.2, poor away record).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-con-el-calendario-al-dia-asi-queda-la-clasificacion-con-una-ultima-jornada-de-infarto-breaking/",
+   "https://agn.gt/como-se-jugara-la-ultima-jornada-del-torneo-apertura-2026-horarios-partidos-y-fechas",
+   "https://www.clarosports.com/centroamerica/futbol-cenam/playoffs-del-apertura-2026-de-guatemala-los-cinco-clasificados-y-como-se-define-el-ultimo-boleto/",
+   "https://antorchadeportiva.com/aurora-queda-matematicamente-eliminado-del-apertura-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72475116",
+  "fx": "CD Malacateco v CD Marquense",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Guatemala J22; Malacateco 11th 19 pts eliminated; Marquense 8th 28 pts chasing 6th (needs win). Marquense 0W in 4 away.",
+  "news": "Marquense must win; Malacateco eliminated.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Market favours Malacateco while motivation favours Marquense - conflicting; no pick.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-con-el-calendario-al-dia-asi-queda-la-clasificacion-con-una-ultima-jornada-de-infarto-breaking/",
+   "https://agn.gt/como-se-jugara-la-ultima-jornada-del-torneo-apertura-2026-horarios-partidos-y-fechas",
+   "https://www.clarosports.com/centroamerica/futbol-cenam/playoffs-del-apertura-2026-de-guatemala-los-cinco-clasificados-y-como-se-define-el-ultimo-boleto/"
+  ]
+ },
+ {
+  "eid": "sr:match:72475112",
+  "fx": "CD Suchitepequez v CSD Municipal",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Guatemala J22; Suchitepequez eliminated and certain to finish last (13 pts) - relegated; Municipal already qualified, possibly chasing seeding/semi bye.",
+  "news": "Suchitepequez finished last whatever the result; Municipal qualified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.29,
+    "p": 0.7341373983,
+    "why": "Suchitepequez relegated/dead rubber v qualified Municipal; DNB protects vs Suchi's home draw habit (4D in 5); own p ~0.74."
+   }
+  ],
+  "avoid": "Away 1X2 at p .54 (rule needs .75); Municipal 1W in 5 away.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-con-el-calendario-al-dia-asi-queda-la-clasificacion-con-una-ultima-jornada-de-infarto-breaking/",
+   "https://agn.gt/como-se-jugara-la-ultima-jornada-del-torneo-apertura-2026-horarios-partidos-y-fechas",
+   "https://www.clarosports.com/centroamerica/futbol-cenam/playoffs-del-apertura-2026-de-guatemala-los-cinco-clasificados-y-como-se-define-el-ultimo-boleto/"
+  ]
+ },
+ {
+  "eid": "sr:match:72475106",
+  "fx": "Comunicaciones FC  v CSD Xelaju MC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Guatemala J22 at Cementos Progreso 15:00 local; Comunicaciones must win to reach the final phase; Xelaju already qualified (rotation possible). 365scores lists 13:00 local vs AGN 15:00 - minor time conflict.",
+  "news": "Cremas must win; Xelaju qualified. Kick-off time disagreement (13:00 v 15:00 local).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big-club clash: no result-side; KO time discrepancy.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.clarosports.com/centroamerica/futbol-cenam/comunicaciones-vs-xelaju-mc-en-vivo-donde-mirar-el-apertura-2026-de-la-liga-de-guatemala/",
+   "https://www.365scores.com/es/news/apertura-de-guatemala-comunicaciones/",
+   "https://agn.gt/como-se-jugara-la-ultima-jornada-del-torneo-apertura-2026-horarios-partidos-y-fechas"
+  ]
+ },
+ {
+  "eid": "sr:match:72475108",
+  "fx": "Deportivo San Pedro v CD Guastatoya",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Guatemala J22 at Mateo Sicay Paz 15:00 local; San Pedro 6th 29 pts - a win secures the last playoff place; Guastatoya already qualified (beat Comunicaciones 4-1). Guastatoya 0W in 4 away, 0.25 gf away.",
+  "news": "San Pedro control their playoff fate; Guastatoya qualified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.49,
+    "p": 0.632311,
+    "why": "Must-win San Pedro (3W1D at home) v already-qualified Guastatoya who are 0W/0.25 gf away; own p ~0.66."
+   }
+  ],
+  "avoid": "Totals.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.prensalibre.com/deportes/futbol-nacional/apertura-2026-con-el-calendario-al-dia-asi-queda-la-clasificacion-con-una-ultima-jornada-de-infarto-breaking/",
+   "https://agn.gt/como-se-jugara-la-ultima-jornada-del-torneo-apertura-2026-horarios-partidos-y-fechas",
+   "https://www.clarosports.com/centroamerica/futbol-cenam/playoffs-del-apertura-2026-de-guatemala-los-cinco-clasificados-y-como-se-define-el-ultimo-boleto/"
+  ]
+ },
+ {
+  "eid": "sr:match:76812160",
+  "fx": "CA Independiente Siguatepeque v Platense FC Puerto Cortes",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Honduras Apertura J16 (final), 6 games simultaneous Sat 19:00 local (=01:00 UTC, matches). Both outside the race; Platense concede 3.4 away.",
+  "news": "Final round; both low in table, little at stake.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.775869,
+    "why": "Platense games: 0,6,4,5,7,2 goals; concede 3.4 away; Independiente concede 1.8; own p ~0.80."
+   }
+  ],
+  "avoid": "Result sides (both poor).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.diez.hn/liganacionaldehonduras/liga-nacional-de-honduras-asi-se-jugara-la-ultima-fecha-del-apertura-mismo-dia-hora-que-se-juegan-FE32721325",
+   "https://www.laprensa.hn/deportes/ultima-fecha-liga-nacional-misma-hora-partidos-jornada-16-fecha-apertura-2026-NE32728234",
+   "https://www.infobae.com/america/agencias/2026/11/27/motagua-marathon-y-real-espana-por-el-segundo-boleto-directo-a-semifinales-en-honduras/"
+  ]
+ },
+ {
+  "eid": "sr:match:76645642",
+  "fx": "CD Marathon San Pedro Sula v CD Genesis PN",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Honduras J16; Marathon 2nd 31 pts must win to secure direct semi place (level with Motagua on GD); Genesis 18 pts fighting for repechaje. Marathon 4/4 home wins, 2.25 gf.",
+  "news": "Marathon must win for direct semi-final berth.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.47,
+    "p": 0.643392,
+    "why": "Must-win Marathon, 4/4 home wins; own p ~0.67."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.7636822123,
+    "why": "Both need wins; Genesis games 3,6,2,7,4,3 goals; own p ~0.80."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.diez.hn/liganacionaldehonduras/liga-nacional-de-honduras-asi-se-jugara-la-ultima-fecha-del-apertura-mismo-dia-hora-que-se-juegan-FE32721325",
+   "https://www.laprensa.hn/deportes/ultima-fecha-liga-nacional-misma-hora-partidos-jornada-16-fecha-apertura-2026-NE32728234",
+   "https://www.infobae.com/america/agencias/2026/11/27/motagua-marathon-y-real-espana-por-el-segundo-boleto-directo-a-semifinales-en-honduras/"
+  ]
+ },
+ {
+  "eid": "sr:match:76645640",
+  "fx": "CD Olimpia Tegucigalpa v CD Estrella Roja",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Honduras J16; Olimpia already qualified as leader (35 pts) - rotation risk; Estrella Roja 5th 22 pts need points.",
+  "news": "Olimpia already first; nothing at stake for them.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Olimpia home 1X2: rotation risk with top spot secured.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.diez.hn/liganacionaldehonduras/liga-nacional-de-honduras-asi-se-jugara-la-ultima-fecha-del-apertura-mismo-dia-hora-que-se-juegan-FE32721325",
+   "https://www.laprensa.hn/deportes/ultima-fecha-liga-nacional-misma-hora-partidos-jornada-16-fecha-apertura-2026-NE32728234",
+   "https://www.infobae.com/america/agencias/2026/11/27/motagua-marathon-y-real-espana-por-el-segundo-boleto-directo-a-semifinales-en-honduras/",
+   "https://www.infobae.com/america/agencias/2026/11/23/olimpia-sigue-lider-en-honduras-acechado-por-marathon-y-motagua/"
+  ]
+ },
+ {
+  "eid": "sr:match:76773366",
+  "fx": "Lobos UPNFM v Juticalpa FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Honduras J16; Lobos UPNFM 6th 19 pts in repechaje race; Juticalpa bottom, 0W in 5 away, conceding 3.4 away (lost 0-8).",
+  "news": "Lobos need result for repechaje; Juticalpa bottom.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.43,
+    "p": 0.660907,
+    "why": "Lobos motivated (6th, 19 pts) v Juticalpa 0/5 away conceding 3.4; own p ~0.69."
+   }
+  ],
+  "avoid": "Over 1.5 (Lobos low-scoring).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.diez.hn/liganacionaldehonduras/liga-nacional-de-honduras-asi-se-jugara-la-ultima-fecha-del-apertura-mismo-dia-hora-que-se-juegan-FE32721325",
+   "https://www.laprensa.hn/deportes/ultima-fecha-liga-nacional-misma-hora-partidos-jornada-16-fecha-apertura-2026-NE32728234",
+   "https://www.infobae.com/america/agencias/2026/11/27/motagua-marathon-y-real-espana-por-el-segundo-boleto-directo-a-semifinales-en-honduras/",
+   "https://www.laprensa.hn/deportes/ultima-fecha-liga-nacional-misma-hora-partidos-jornada-16-fecha-apertura-2026-NE32728234"
+  ]
+ },
+ {
+  "eid": "sr:match:76645638",
+  "fx": "Olancho FC v FC Motagua Tegucigalpa",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "Honduras J16; Motagua 31 pts need win for direct semi place; Olancho 18 pts need points for repechaje. Both must win.",
+  "news": "Both sides must win; Motagua beat Olimpia 2-0 recently.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big club away, both motivated); Over 1.5 p .80 plausible but kept off to limit Honduras O1.5 exposure.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.diez.hn/liganacionaldehonduras/liga-nacional-de-honduras-asi-se-jugara-la-ultima-fecha-del-apertura-mismo-dia-hora-que-se-juegan-FE32721325",
+   "https://www.laprensa.hn/deportes/ultima-fecha-liga-nacional-misma-hora-partidos-jornada-16-fecha-apertura-2026-NE32728234",
+   "https://www.infobae.com/america/agencias/2026/11/27/motagua-marathon-y-real-espana-por-el-segundo-boleto-directo-a-semifinales-en-honduras/"
+  ]
+ },
+ {
+  "eid": "sr:match:74058700",
+  "fx": "Resources Capital FC v Leaper",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "HK First Division; Resources Capital 8W2D last 10 scoring 5.1 (sources disagree on table: 4th vs results), Leaper promoted 2025-26.",
+  "news": "Data conflict on Resources Capital results (20 Sep 1-1 vs 0-6).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.42,
+    "p": 0.658867,
+    "why": "Statistics-only fill: Resources home games avg 4.5 goals, recent 5-1,5-1,4-1,6-0; own p ~0.64."
+   }
+  ],
+  "avoid": "Promoted Leaper data thin; low confidence.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/Resources_Capital_FC",
+   "https://www.aiscore.com/tournament-hong-kong-first-division/0m2q15ijlup76xw"
+  ]
+ }
+]
