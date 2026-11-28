@@ -1,0 +1,531 @@
+[
+ {
+  "eid": "sr:match:74232090",
+  "fx": "HK Mogilev v HC Aviator Baranovichi",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Belarus Extraliga regular season; Mogilev near bottom (8 pts from 15 GP per EliteProspects snapshot); Aviator 7-3 last 10, won H2H 10-2",
+  "news": "no news found (schedule for Nov 28 not confirmed online)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mogilev home results unreliable both ways; Aviator away ML only p 0.62 - no pick",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eliteprospects.com/league/belarus"
+  ]
+ },
+ {
+  "eid": "sr:match:74232086",
+  "fx": "Khimik-Ska v HC Shakhtyor Soligorsk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Shakhtyor Soligorsk top of the table (25 pts snapshot), Dinamo Minsk farm club; Khimik 3-7 last 10",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Shakhtyor 1X2 reg-time p 0.71 below 0.75 away threshold",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eliteprospects.com/league/belarus",
+   "https://www.eurohockey.com/league/150-belarus-open-league.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74232088",
+  "fx": "Yunost Minsk v HC Lokomotiv Orsha",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Yunost Minsk (Dinamo farm club) 7 pts from 15 GP per snapshot and 2-8 last 10, yet house favourite v Orsha (3-7)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Yunost 406 Home 1.34 - fragile favourite on form, skip",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.eliteprospects.com/league/belarus"
+  ]
+ },
+ {
+  "eid": "sr:match:72840842",
+  "fx": "HC Midtjylland v Hoej Elite",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Danish 1. Division round 13 top-of-table clash: HOJ 1st (10/11 wins per TV2), Midtjylland 2nd (9 wins); Midtjylland beat Sydhavsoerne 35-29 on Nov 12. Kick-off 14:00 CET = 13:00 UTC confirmed",
+  "news": "Top-two clash confirmed 13:00 UTC; standings sources disagree on games played",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "HOJ away 1.24 (p 0.76) in a 1st v 2nd clash - too short, no result-side",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sofascore.com/da/handball/match/hoj-elitehandbold-hc-midtjylland/closFdX",
+   "https://sport.tv2.dk/haandbold/danmark-1-division/herrer/turnering/overblik"
+  ]
+ },
+ {
+  "eid": "sr:match:74232092",
+  "fx": "Metallurg Zhlobin v Slavutych Smolensk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "Belarus title-race clash: Slavutich 2nd (24 pts), Metallurg 3rd (23 pts) and reigning 2025-26 champion; Metallurg 9-1 last 10 and won last H2H 5-2",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.28,
+    "p": 0.7322218083,
+    "why": "Reigning champion Metallurg 9-1 in last 10 at 3.3 GF/1.9 GA, won last H2H 5-2; +1.5 incl OT only loses to a 2+ goal Slavutich win. Own p ~0.75"
+   }
+  ],
+  "avoid": "1X2 sides in near coin-flip",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eliteprospects.com/league/belarus",
+   "https://en.wikipedia.org/wiki/Metallurg_Zhlobin"
+  ]
+ },
+ {
+  "eid": "sr:match:74319352",
+  "fx": "UMF Stjarnan v FH Hafnarfjardar",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Icelandic Urvalsdeild; FH 6-4 last 10",
+  "news": "Olis Deildin listing shows Stjarnan v FH Saturday 16:30 local (Iceland = UTC) vs board 15:00 UTC",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: Olis listing 16:30 UTC v board 15:00 UTC",
+  "picks": [],
+  "avoid": "FH 1.19 too short anyway",
+  "confidence": 0.1,
+  "sources": [
+   "https://ob.olis.is/deildin"
+  ]
+ },
+ {
+  "eid": "sr:match:73307840",
+  "fx": "GC Santo Tirso v AA Avanca",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Andebol 1 bottom clash: both sides 1 win in last 10",
+  "news": "FPA agenda lists Santo Tirso v Avanca 15:00 on Nov 28 (matches board)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Santo Tirso 1.52 with 1-9 form - no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://portal.fpa.pt/"
+  ]
+ },
+ {
+  "eid": "sr:match:74119584",
+  "fx": "Csurgoi KK v Dabas KK",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Hungarian NB I round 11 (pairing confirmed); Dabas 2-8 last 10, conceding 36.8",
+  "news": "Round 11 schedule confirms Csurgo-Dabas Nov 28; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Csurgo 1H 1X2 1.23 - Csurgo only 4-2-4 and low-scoring; skip",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/ferfi-kezilabda-nb-i-2026-2027",
+   "https://www.nemzetisport.hu/kezilabda/2026/11/ferfi-kezi-nb-i-rangadot-nyert-a-ferencvaros-magabiztosan-gyozott-a-veszprem"
+  ]
+ },
+ {
+  "eid": "sr:match:73307842",
+  "fx": "Vitoria SC v AM Madeira Andebol S.A.D.",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Vitoria SC v Maritimo Madeira Andebol (AM Madeira SAD); official sheet game 82, 28/11 16:00 Pavilhao Unidade Vimaranense - matches board",
+  "news": "Fixture/time confirmed by FPA sheet and ticket site",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Madeira away 1.26 p 0.74997 just under 0.75 away threshold",
+  "confidence": 0.15,
+  "sources": [
+   "https://portal.fpa.pt/wp-content/uploads/2026/07/PO01.pdf",
+   "https://smartfan.tickets/"
+  ]
+ },
+ {
+  "eid": "sr:match:72982672",
+  "fx": "BM Puente Genil v Fertiberia Puerto Sagunto",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Liga Asobal J11, 17:00 local (=16:00 UTC) confirmed by mibalonmano; both sides 2-1-7 last 10",
+  "news": "No team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Puente Genil home 1.48 on poor form; Unders below 0.82",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mibalonmano.com/liga/liga-asobal/26-27/calendario",
+   "https://asobal.es/liga/calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:73238624",
+  "fx": "Fehervar AV19 v HC TWK Innsbruck",
+  "sport": "ice hockey",
+  "absences": "none found in previews",
+  "context": "ICE Hockey League; Fehervar 17:30 local (16:30 UTC) at MET Arena confirmed (teddy-bear toss game); Fehervar beat Vienna Capitals 6-3 on Wednesday; Innsbruck 0-10 in last 10 (1.4 GF); Innsbruck won Sep 26 meeting 2-0 despite 17 v 40 shots",
+  "news": "Fixture confirmed; Fehervar coming off 6-3 home win, Innsbruck on 10-game losing run",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.668601,
+    "why": "Innsbruck lost all of last 10 scoring 1.4/game; Fehervar out-shot them 40-17 in the first meeting and won 6-3 at home midweek. Own p ~0.70"
+   }
+  ],
+  "avoid": "Innsbruck team Under 3.5 (p 0.79 < 0.82)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.feol.hu/helyi-sport/2026/11/fehervar-av19-innsbruck-macidobalas-beharangozo",
+   "https://www.feol.hu/helyi-sport/2026/09/hydro-fehervar-av19-innsbruck-vereseg"
+  ]
+ },
+ {
+  "eid": "sr:match:74119588",
+  "fx": "Balatonfuredi Kse v Veszprem KC",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "NB I round 11, 18:00 local = 17:00 UTC; Veszprem beat Tatabanya 39-30 in round 10; EHF CL commitments for Veszprem",
+  "news": "Fixture confirmed; one source mixed dates of Veszprem games but round-11 placement fits Nov 28",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Veszprem 1.01; handicap lines near 0.61 - no edge",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/ferfi-kezilabda-nb-i-2026-2027",
+   "https://www.nemzetisport.hu/kezilabda/2026/11/ferfi-kezi-nb-i-rangadot-nyert-a-ferencvaros-magabiztosan-gyozott-a-veszprem",
+   "https://vehir.hu/cikk/86028-ferfi-kezilabda-nb-i-megvan-a-one-veszprem-oszi-menetrendje"
+  ]
+ },
+ {
+  "eid": "sr:match:74119590",
+  "fx": "Gyongyosi KK v Budai Farkasok Nkft",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "NB I round 11 confirmed; Gyongyos 6-1-3 last 10, Budai Farkasok 2-8",
+  "news": "No team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.32,
+    "p": 0.720261,
+    "why": "Pairing confirmed; Budai Farkasok 2-8 in last 10 and weak away, Gyongyos 6-1-3. Statistics-led only (fill). Own p ~0.72"
+   }
+  ],
+  "avoid": "1H markets",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/ferfi-kezilabda-nb-i-2026-2027",
+   "https://www.nemzetisport.hu/kezilabda/2026/11/ferfi-kezi-nb-i-rangadot-nyert-a-ferencvaros-magabiztosan-gyozott-a-veszprem"
+  ]
+ },
+ {
+  "eid": "sr:match:74119592",
+  "fx": "Szigetszentmiklosi KSK v Ferencvarosi TC",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "NB I round 11 confirmed; Ferencvaros won a top-of-table match (rangado) the previous round",
+  "news": "FTC in form after round-10 win; no injury news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "FTC away 1.70 p<0.75",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/ferfi-kezilabda-nb-i-2026-2027",
+   "https://www.nemzetisport.hu/kezilabda/2026/11/ferfi-kezi-nb-i-rangadot-nyert-a-ferencvaros-magabiztosan-gyozott-a-veszprem"
+  ]
+ },
+ {
+  "eid": "sr:match:73307844",
+  "fx": "Sporting Clube Portugal v ABC Braga / Uminho",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Sporting heavy favourite (1X2 home not offered in range); FPA agenda did not surface this fixture in November",
+  "news": "Fixture not found in FPA agenda text (garbled); no confirmation",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No market in range",
+  "confidence": 0.1,
+  "sources": [
+   "https://portal.fpa.pt/"
+  ]
+ },
+ {
+  "eid": "sr:match:72982674",
+  "fx": "BM Triana v Eon Horneo Alicante",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Liga Asobal J11 listed as Sevilla (Triana) v Alicante 18:00 local = 17:00 UTC, matches board",
+  "news": "No team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Near coin-flip",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mibalonmano.com/liga/liga-asobal/26-27/calendario",
+   "https://asobal.es/liga/calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:72518650",
+  "fx": "Cisne BM v FC Barcelona B",
+  "sport": "handball",
+  "absences": "n/a - reserve side (Barca B)",
+  "context": "Division de Honor Plata; Barca Atletic is a reserve team; Cisne 10th",
+  "news": "Fixture date not confirmed online",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side - no picks",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ceroacero.es/competicion/ii-liga-espanhola-andebol"
+  ]
+ },
+ {
+  "eid": "sr:match:72518654",
+  "fx": "CB Base Oviedo v Ubu San Pablo Burgos",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Plata J12: Base Oviedo (5th) v San Pablo Burgos at 18:30 local = 17:30 UTC per ceroacero (undated); Oviedo won 27-23 at Eivissa, Burgos beat Huesca 34-27 in J11",
+  "news": "Both sides won in J11",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No market in range with signal",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ceroacero.es/competicion/ii-liga-espanhola-andebol",
+   "https://balonmanoburgos.es/clasificacion"
+  ]
+ },
+ {
+  "eid": "sr:match:72749044",
+  "fx": "Tremblay En France v Fenix Toulouse Handball",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Starligue J12; Tremblay lost 40-33 at PSG in J11, Toulouse lost 34-37 at home to Montpellier",
+  "news": "No team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tremblay home 1.70 p<0.75 threshold irrelevant but no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ski-nordique.net/?id=6754333"
+  ]
+ },
+ {
+  "eid": "sr:match:72749038",
+  "fx": "USAM Nimes Gard v HBC Nantes",
+  "sport": "handball",
+  "absences": "Nantes without Slovenian duo Gaber and Ovnicek (Ouest-France); Wenkegheu available",
+  "context": "Starligue J12 at Le Parnasse, 19:00 CET = 18:00 UTC; Nantes 2nd (20 pts), Nimes 4th (16 pts); coach Cojean: Nimes well built",
+  "news": "Nantes travel short of two Slovenian internationals to 4th-placed Nimes",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Nantes away 1.16 / -1.5 lines - absences make the favourite fragile; skip",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.ouest-france.fr/sport/handball/hbc-nantes/handball-le-hbc-nantes-au-parnasse-sans-sa-doublette-slovene-gaber-ovnicek-pour-defier-nimes-mais-avec-wenkegheu-b024da48-ea93-11f1-bb2d-c71dc7920c2a",
+   "https://www.ouest-france.fr/sport/handball/hbc-nantes/handball-gregory-cojean-entraineur-du-hbc-nantes-nimes-est-une-equipe-bien-construite-626db3f0-ea8f-11f1-bf14-e9329d96eda1"
+  ]
+ },
+ {
+  "eid": "sr:match:72473298",
+  "fx": "Rhein-Neckar Lowen v SG BBM Bietigheim",
+  "sport": "handball",
+  "absences": "no current injury report found",
+  "context": "Bundesliga crisis duel 19:00 CET; Lowen without a league win for a long time and in the relegation fight, Bietigheim second-last; Lowen 1-2-7 last 10",
+  "news": "Preview frames it as a crisis game: Lowen winless run, Bietigheim 2nd-last",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lowen 1.21 - fragile favourite (winless run, pressure); skip",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.handball-world.news/artikel/geht-die-talfahrt-weiter-rhein-neckar-loewen-vor-krisenduell-1275260"
+  ]
+ },
+ {
+  "eid": "sr:match:73307846",
+  "fx": "FC Porto v SL Benfica",
+  "sport": "handball",
+  "absences": "none; pivot Guilherme Borges returns for Porto",
+  "context": "Classico, round 14 at Dragao Arena 18:00 (=UTC); Porto unbeaten in league and won 37-33 at Luz in first round",
+  "news": "Porto unbeaten, Borges back from injury",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derby/big-club clash - no result-side per rules",
+  "confidence": 0.2,
+  "sources": [
+   "https://diadejogo.pt/noticias/andebol-fc-porto-benfica-no-dragao-arena-2026-11-27",
+   "https://www.fcporto.pt/pt/modalidades/andebol/"
+  ]
+ },
+ {
+  "eid": "sr:match:72982666",
+  "fx": "Ademar Leon v BM Granollers",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Asobal J11, 19:00 local = 18:00 UTC confirmed by ASOBAL and mibalonmano; Granollers 3rd last season, Ademar 3-7 last 10",
+  "news": "No team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Granollers away 1.71 p<0.75",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mibalonmano.com/liga/liga-asobal/26-27/calendario",
+   "https://asobal.es/liga/calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:72473898",
+  "fx": "HSC 2000 Coburg v SC DHfK Leipzig",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "2. HBL MD13, 19:30 CET = 18:30 UTC confirmed; Leipzig 3rd (16:4) and title favourite per Coburg coach Gorr, Coburg 16th (5:15); Coburg took 1 point in 6 2.HBL meetings",
+  "news": "Leipzig coach Carstens warns of Coburg pivot play and back-court shooters",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Leipzig away 1X2 1.34 p 0.70 below the 0.75 away threshold",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.scdhfk-handball.de/2026/11/27/auf-nach-oberfranken-sc-dhfk-gastiert-in-coburg/",
+   "https://handballpapst.de/2-bundesliga-maenner/auf-nach-oberfranken-sc-dhfk-gastiert-in-coburg/"
+  ]
+ },
+ {
+  "eid": "sr:match:73307850",
+  "fx": "Povoa de Varzim AC v OS Belenenses",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Povoa 6-4 last 10; fixture not confirmed - FPA agenda shows a Povoa match at 15:00 vs board 18:30 (garbled, may be another tier)",
+  "news": "Unconfirmed time; possible conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Povoa 1.29 - unconfirmed kick-off, no pick",
+  "confidence": 0.1,
+  "sources": [
+   "https://portal.fpa.pt/"
+  ]
+ },
+ {
+  "eid": "sr:match:72982660",
+  "fx": "FC Barcelona v BM Nava",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Barca 10-0 last 10; ASOBAL calendar 19:30 local (=18:30 UTC, matches board), mibalonmano says 20:00",
+  "news": "Minor time discrepancy; official calendar matches board",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Barca -7.5 1H and Nava O24.5 near 0.61 - no edge",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mibalonmano.com/liga/liga-asobal/26-27/calendario",
+   "https://asobal.es/liga/calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:74119594",
+  "fx": "Tatabanya KC v Eger-Eszterhazy SzSE",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "NB I round 11; Tatabanya lost 39-30 at Veszprem in round 10; Eger 0-10 last 10 scoring 25.9",
+  "news": "No team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "1.01 favourite; Eger team Under p 0.64 < 0.82",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nemzetisport.hu/kezilabda/2026/08/ferfi-kezilabda-nb-i-2026-2027",
+   "https://www.nemzetisport.hu/kezilabda/2026/11/ferfi-kezi-nb-i-rangadot-nyert-a-ferencvaros-magabiztosan-gyozott-a-veszprem"
+  ]
+ },
+ {
+  "eid": "sr:match:72982668",
+  "fx": "BM Ciudad Encantada Cuenca v Villa de Aranda",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Asobal J11, mibalonmano lists Cuenca v Aranda 20:00 local (=19:00 UTC) but the ASOBAL calendar entry read for J11 paired Cuenca with Puente Genil",
+  "news": "Pairing conflict between sources",
+  "veto": true,
+  "veto_reason": "Data conflict: ASOBAL calendar J11 entry shows Cuenca v Puente Genil, mibalonmano shows Cuenca v Aranda",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.mibalonmano.com/liga/liga-asobal/26-27/calendario",
+   "https://asobal.es/liga/calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:72544806",
+  "fx": "Sarrebourg Moselle Sud Handball v JS Cherbourg Manche HB",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Proligue J12; Cherbourg 3rd, Sarrebourg 10th",
+  "news": "Radio Melodie gives Saturday 20:30 local (=19:30 UTC), Graden lists Fri 27 Nov 20:30; board 18:00 UTC",
+  "veto": true,
+  "veto_reason": "Kick-off/date conflict: sources say 20:30 local (Sat or Fri) v board 18:00 UTC",
+  "picks": [],
+  "avoid": "All",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.radiomelodie.com/a/flash/19558-un-mot-de-handball-avec-les-rencontres-du-week-end",
+   "https://www.graden.fr/event/sarrebourg-cherbourg"
+  ]
+ },
+ {
+  "eid": "sr:match:72182962",
+  "fx": "Val Dor Foreurs v Charlottetown Islanders",
+  "sport": "ice hockey",
+  "absences": "n/a - junior league",
+  "context": "QMJHL (junior U20): Val-d Or 17-3-1-1 top of West, Philippe Veilleux 42 pts; Charlottetown on 4-game Quebec road trip, won 3-0 at Gatineau Thursday; 5 PM AST = 21:00 UTC matches board",
+  "news": "Fixture confirmed; both sides played Thursday",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth league - no result-side picks",
+  "confidence": 0.15,
+  "sources": [
+   "https://chl.ca/lhjmq-islanders/article/chavdo-game-preview-what-you-need-to-know",
+   "https://thehockeynews.com/qmjhl/latest-news/2026-27-qmjhl-power-rankings-week-11"
+  ]
+ }
+]

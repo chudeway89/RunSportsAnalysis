@@ -1,0 +1,647 @@
+[
+ {
+  "eid": "sr:match:76638678",
+  "fx": "FC Tallinn v Viljandi JK Tulevik",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Esiliiga promotion/relegation play-off 2nd leg: FC Tallinn (8th in Esiliiga) trail Viljandi Tulevik (5th Esiliiga B) 1-2 from first leg on Nov 22 (Tallinn's last result A 1-2 confirms). Knockout two-legged tie; 90-min settlement.",
+  "news": "Tulevik won 1st leg 2-1 (Levit, Vidder; Irha for Tallinn); GSA lists return at 11:30 vs board 10:30 UTC (likely local 12:30 vs tz) - minor.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result-side (two-legged knockout); no markets in band besides 1X2.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sofascore.com/football/match/fc-tallinn-viljandi-jk-tulevik/XOEsDznc",
+   "https://www.xscores.com/soccer/match/estonia/tulevik-viljandi-vs-fc-tallinn/2026/3024593",
+   "https://globalsportsarchive.com/en/soccer/competition/esiliiga-b-2026/78518"
+  ]
+ },
+ {
+  "eid": "sr:match:76638662",
+  "fx": "FC Kuressaare v Viimsi JK",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Premium Liiga promotion/relegation play-off 2nd leg at Kuressaare: Kuressaare (9th Premium Liiga) won 1st leg 2-0 at Viimsi (2nd Esiliiga) on Nov 22. Viimsi must win by 2+ in 90 min to force ET; they will chase.",
+  "news": "Kuressaare lead 2-0 on aggregate; Viimsi must attack (gf 2.2 last 10).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7816946262,
+    "why": "Mechanism: settlement/tie structure - Viimsi need 2+ goals and must commit forward, Kuressaare counter; Viimsi averaging 2.2 gf. Own p 0.80."
+   }
+  ],
+  "avoid": "No result-side (knockout, Kuressaare may sit on 2-0 cushion; DNB only). Under markets.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sofascore.com/football/match/viimsi-jk-fc-kuressaare/gRcsjOr",
+   "https://en.wikipedia.org/wiki/2026_in_Estonian_football",
+   "https://www.youtube.com/watch?v=HzYJ_oEjg3o"
+  ]
+ },
+ {
+  "eid": "sr:match:77156316",
+  "fx": "Ethio Electric v Hadiya Hossana FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Ethiopian PL early season (matchday ~5); Ethio Electric ~5th 7 pts, Hadiya Hossana 4 pts from 4. Very low-scoring sides (0.7/0.4 and 0.6/0.9).",
+  "news": "Fixture confirmed Nov 28 (BetExplorer 13:30 local-ish vs board 12:30 UTC - consistent with EAT offset? EAT=UTC+3, minor uncertainty).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders tempting but house p 0.71 < 0.82 gate; result-sides thin.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.soccerway.com/ethiopia/premier-league/",
+   "https://www.betexplorer.com/football/ethiopia/premier-league/",
+   "https://afreeque.com/en/football/competition/ethiopian-premier-league/matchday-4"
+  ]
+ },
+ {
+  "eid": "sr:match:76735468",
+  "fx": "Tremblay FC v Red Star FC",
+  "sport": "football",
+  "absences": "no named absences found; Red Star (L2) may rotate",
+  "context": "Coupe de France 8th round (single-leg knockout, 90-min settlement). Tremblay (Regional 2) v Red Star (Ligue 2) - 6-tier gap. Tremblay beat Maisons-Alfort (R3) 2-0; Red Star won 2-0 at Paris 13 Atletico. KO 14h Paris = 13:00 UTC matches board.",
+  "news": "Kick-off 14:00 local confirmed; Red Star favourites, no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.785852,
+    "why": "Mechanism: 6-division gap v amateur R2 defence; Red Star scored 2 at L3 opponent last round. Rotation risk caps it. Own p 0.80."
+   }
+  ],
+  "avoid": "Integer Over 3/Under 4; result-side (knockout).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fff.fr/article/17849-le-programme-et-les-chiffres-du-8e-tour.html",
+   "https://news.footeo.com/2026/11/24/coupe-de-france-le-programme-complet-du-8e-tour-avec-les-horaires-des-46-matchs-18452",
+   "https://news.footeo.com/2026/11/15/coupe-de-france-tous-les-resultats-du-7e-tour-et-le-tirage-du-8e-tour-17813",
+   "https://www.envertetcontretous.fr/articles/-le-programme-complet-du-8eme-tour-de-coupe-de-france-76231-1.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76735446",
+  "fx": "Epinal v Amiens",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Coupe de France 8th round knockout; Epinal (N1) v Amiens (L3, one tier above). Amiens unbeaten 12-13 in all comps (sources differ), ga 0.4 last 10. 15:00 Paris = 14:00 UTC matches board, Stade de la Colombière.",
+  "news": "Amiens unbeaten run 12/13 games (sources differ); Epinal beat Vandoeuvre 3-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.45,
+    "p": 0.6619211727,
+    "why": "DNB only (knockout rule). Amiens one tier higher, unbeaten 12+ and conceding 0.4/game; draw refunds. Own p 0.67 - stats-based, fill only."
+   }
+  ],
+  "avoid": "Away 1X2 (p<0.75, knockout); integer Over/Under 2/3.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fff.fr/article/17849-le-programme-et-les-chiffres-du-8e-tour.html",
+   "https://news.footeo.com/2026/11/24/coupe-de-france-le-programme-complet-du-8e-tour-avec-les-horaires-des-46-matchs-18452",
+   "https://news.footeo.com/2026/11/15/coupe-de-france-tous-les-resultats-du-7e-tour-et-le-tirage-du-8e-tour-17813",
+   "https://le11amienois.fr/coupe-de-france-8e-tour-sas-epinal-amiens-sc-programme/",
+   "https://www.ouest-france.fr/sport/football/resultats-matchs/match-amiens-epinal-1305-2485/"
+  ]
+ },
+ {
+  "eid": "sr:match:73025204",
+  "fx": "Berkhamsted FC v Evesham United",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Berkhamsted mid-upper table; Evesham 2W-1D-7L last 10 conceding 2.6.",
+  "news": "Fixture confirmed 3pm (Sky Sports); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.799898,
+    "why": "Evesham 2-1-7 conceding 2.6/game, Berkhamsted 4-1 last home win; DNB protects draw. Own p 0.80 - stats-only, fill."
+   }
+  ],
+  "avoid": "Over 1.5 (thin league); Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-28",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:73025206",
+  "fx": "Bracknell Town FC v Wimborne Town",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Bracknell 1W-2D-7L; Wimborne 9th 25 pts from 15 (7-4-4).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away result-side p<0.75; thin-league Overs.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-28",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:73025208",
+  "fx": "Chichester City FC v Uxbridge FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Leaders Uxbridge (39 pts/17) at 7th Chichester (29); Uxbridge won reverse 5-0 in Sept. Chichester drew 2-2 with Basingstoke with ten men.",
+  "news": "Uxbridge preview calls Chichester play-off contenders; no absences named.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Uxbridge result-side (p 0.53 DNB) - top-of-table away pick too thin.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-28",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.uxbridgefc.com/post/match-preview-chichester-city-a-sat-28-november"
+  ]
+ },
+ {
+  "eid": "sr:match:73025210",
+  "fx": "Chippenham Town v Bath City FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Bath City on 32 pts (play-off places); Chippenham lower half.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Bath DNB 0.67 mid-band, no mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-28",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://www.skysports.com/football/chippenham-town-vs-poole-town/table/572045"
+  ]
+ },
+ {
+  "eid": "sr:match:73025212",
+  "fx": "Hanwell Town FC v Frome Town",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Frome 1W-3D-6L last 10, conceding 2.3.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home DNB p 0.61 - no mechanism; Over 1.5 banned (thin).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-28",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:73025214",
+  "fx": "Malvern Town v Chertsey Town",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Chertsey 6th 30 pts/18; Malvern near bottom (14 pts on stale table).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Chertsey away DNB 0.60 - thin.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-28",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:73025216",
+  "fx": "Plymouth Parkway v Sholing FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Plymouth Parkway 3rd (32 pts, level with Bath/Poole); Sholing 2W-5D-3L, lost 0-6 recently.",
+  "news": "Fixture confirmed 3pm (Sky Sports); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.742706,
+    "why": "Parkway promotion-chasing, home last 6: 3-0, 2-1, 3-1, 1-0 wins; Sholing 2 wins in 10. DNB covers draw. Own p 0.75."
+   }
+  ],
+  "avoid": "Over 1.5 (thin league).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-28",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:73025218",
+  "fx": "Poole Town v Havant & Waterlooville",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Poole Town on 32 pts (play-off places) but recent home losses 0-3, 0-5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Poole fragile at home (0-3, 0-5 recent) - skip home side.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-28",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:73025220",
+  "fx": "Taunton Town v Gosport Borough",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Taunton 8th (28 pts on Nov 21 table) on 'really good run', beating sides above them comfortably in last three league games (club preview). Sept meeting: sources conflict (Taunton preview 3-1 Gosport win vs Sky 4-1 Taunton).",
+  "news": "Taunton in strong form per club preview; H2H score conflicting between sources (not a date/venue conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.37,
+    "p": 0.681393,
+    "why": "Taunton 6W last 10, scoring 2.7/game, 'really good run' beating three higher sides; Gosport 4-1-5 conceding 1.9. DNB protects draw. Own p 0.70."
+   }
+  ],
+  "avoid": "Over 1.5 (thin); H2H-based picks given conflicting reverse-fixture score.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-28",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://tauntontown.com/2026/11/26/match-preview-%E2%94%82-taunton-town-v-gosport-borough/"
+  ]
+ },
+ {
+  "eid": "sr:match:73025222",
+  "fx": "Yate Town v Hanworth Villa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Hanworth Villa 2nd (37 pts/19) at 17th Yate; Yate won reverse 3-2 at Rectory Meadow on 12 Sept.",
+  "news": "Fixture confirmed at Yate (Lodge Road) per Hanworth site.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hanworth DNB 0.62 - Yate won reverse; skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/football-scores-fixtures/2026-11-28",
+   "https://www.skysports.com/southern-premier-league-south-table",
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results",
+   "https://footystats.org/clubs/hanworth-villa-football-club-5889"
+  ]
+ },
+ {
+  "eid": "sr:match:73026138",
+  "fx": "AFC Whyteleafe v Aveley FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Whyteleafe strong at home (7W last 10); Aveley 14th, just lost at Eastbourne.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home DNB p 0.55 - thin.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Isthmian_League",
+   "https://www.yellowad.co.uk/pitching-in-isthmian-league-fixtures-saturday-monday-november-28-30/"
+  ]
+ },
+ {
+  "eid": "sr:match:73026140",
+  "fx": "Brentwood Town FC v Whitehawk FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Brentwood 17th (22 pts); Whitehawk 22nd, 1W-3D-6L conceding 2.8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Brentwood 1.43 is a poor-form favourite (4-1-5, lost 1-4/1-2 at home recently) - skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Isthmian_League",
+   "https://www.yellowad.co.uk/pitching-in-isthmian-league-fixtures-saturday-monday-november-28-30/"
+  ]
+ },
+ {
+  "eid": "sr:match:73026142",
+  "fx": "Burgess Hill Town v Eastbourne Borough",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Eastbourne Borough 3rd/4th (35-38 pts, sources differ) after win v Aveley and 4-4 at Enfield; Burgess Hill 15th but won 6-1 at Crowborough (Velocity Cup) midweek.",
+  "news": "Telefootball lists two kick-off times (10:00 and 15:00); club sites and league list 15:00 - board 15:00 UTC agrees with majority.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away result-side p<0.75.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Isthmian_League",
+   "https://www.yellowad.co.uk/pitching-in-isthmian-league-fixtures-saturday-monday-november-28-30/",
+   "https://ebfc.co.uk/2026/11/preview-burgess-hill-town-a/",
+   "https://bhtfc.co.uk/matches/2026-27/15289/burgess-hill-town-vs-eastbourne-boro/"
+  ]
+ },
+ {
+  "eid": "sr:match:73026144",
+  "fx": "Chatham Town v Carshalton Athletic FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Chatham 13th; Carshalton 2W-1D-7L conceding 2.5.",
+  "news": "no news found for Carshalton",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Chatham DNB 0.70 but Chatham winless in last 6 (0-1, 1-1, 3-3 at home) - fragile.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Isthmian_League",
+   "https://www.yellowad.co.uk/pitching-in-isthmian-league-fixtures-saturday-monday-november-28-30/"
+  ]
+ },
+ {
+  "eid": "sr:match:73026146",
+  "fx": "Cheshunt FC v Ramsgate FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Ramsgate 5th; Cheshunt 19th.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ramsgate away DNB 0.63 - thin.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Isthmian_League",
+   "https://www.yellowad.co.uk/pitching-in-isthmian-league-fixtures-saturday-monday-november-28-30/"
+  ]
+ },
+ {
+  "eid": "sr:match:73026148",
+  "fx": "Dartford FC v Cray Wanderers",
+  "sport": "football",
+  "absences": "Frankie Raymond (Cray) possible 150th appearance - available",
+  "context": "Isthmian Premier: Dartford 4th 36 pts, yet to draw a league game, only defeats v Welling (0-3) and Ramsgate (1-2); five behind leaders Welling. Strong home record (3-0, 1-0, 6-5, 4-1). Cray mid-table.",
+  "news": "Both club previews confirm 3pm Princes Park; Dartford no league draws this season.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.51,
+    "p": 0.614825,
+    "why": "Dartford only 2 league losses, strong home run; Cray 7-2-1 last 10 though. DNB. Own p 0.63 - stats-only, fill at best."
+   }
+  ],
+  "avoid": "Over 1.5 (thin); Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Isthmian_League",
+   "https://www.yellowad.co.uk/pitching-in-isthmian-league-fixtures-saturday-monday-november-28-30/",
+   "https://www.cray-wanderers.com/dartford-v-cray-wanderers-isthmian-premier-saturday-28th-november-3-pm-match-preview-directions-admission/",
+   "https://dartfordfc.com/2026/11/match-preview-dartford-v-cray-wanderers-3/"
+  ]
+ },
+ {
+  "eid": "sr:match:73026150",
+  "fx": "Dulwich Hamlet v Stanway Rovers",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Dulwich home side but 1W-3D-6L last 10; Stanway Rovers 21st in relegation zone. Dulwich drew with leaders Welling last time.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dulwich 1.56 is a fragile favourite (1 win in 10) - skip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Isthmian_League",
+   "https://www.yellowad.co.uk/pitching-in-isthmian-league-fixtures-saturday-monday-november-28-30/"
+  ]
+ },
+ {
+  "eid": "sr:match:73026152",
+  "fx": "Leatherhead FC v Lewes FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Lewes 6th (play-off places); Leatherhead mid-table.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Isthmian_League",
+   "https://www.yellowad.co.uk/pitching-in-isthmian-league-fixtures-saturday-monday-november-28-30/"
+  ]
+ },
+ {
+  "eid": "sr:match:73026154",
+  "fx": "Maldon & Tiptree FC v St Albans City",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). St Albans favourite away; both concede (St Albans 2.4 ga).",
+  "news": "Kick-off conflict: one listing 15:00, another 16:00 (board 15:00 UTC) - minor, unresolved.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Data conflict on KO time - no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Isthmian_League",
+   "https://www.yellowad.co.uk/pitching-in-isthmian-league-fixtures-saturday-monday-november-28-30/",
+   "https://www.kentonline.co.uk/maidstone/sport/football-fixtures-and-results-347845/"
+  ]
+ },
+ {
+  "eid": "sr:match:73026156",
+  "fx": "Three Bridges v Wingate & Finchley",
+  "sport": "football",
+  "absences": "none found",
+  "context": "English Step 3 non-league (thin context: no Over 1.5, Unders below 0.82 banned). Three Bridges 1W-2D-7L; Wingate & Finchley 4-3-3 (incl. 7-8 game).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away DNB 0.55 - thin.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/isthmian-football-league-premier-division/fixtures-results",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Isthmian_League",
+   "https://www.yellowad.co.uk/pitching-in-isthmian-league-fixtures-saturday-monday-november-28-30/"
+  ]
+ },
+ {
+  "eid": "sr:match:73026158",
+  "fx": "Welling United v Enfield Town",
+  "sport": "football",
+  "absences": "Welling: Alfie Newby expected home debut; Micah Anthony may return after midweek Velocity Cup brace",
+  "context": "Top-of-table: leaders Welling (10/10 home league wins, best home record in English football) v 2nd Enfield (3 pts behind, 2 games in hand; 43 gf in 14). Big-clash at Step 3 - no result-side.",
+  "news": "Welling drew late at Dulwich; Enfield drew 4-4 v Eastbourne. Venue named Park View Road / Anthony Martin Community Stadium - same ground (sponsor name), not a conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.44,
+    "p": 0.652105,
+    "why": "Enfield 3.1 gf/1.5 ga last 10 (4-4, 2-4, 6-0), Welling 2.3 gf at home 4-0, 4-0; both attack-led top two. Own p 0.66 - mid-band, fill only."
+   }
+  ],
+  "avoid": "Result-sides (top-of-table clash); Over 1.5 (thin-league rule).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.kentsportsnews.com/welling-united-v-enfield-town-preview-27-11-2026/",
+   "https://players.bio/news/welling-united-manager-ryan-maxwell-4/915509",
+   "https://www.skysports.com/football/welling-united-vs-enfield-town/515310"
+  ]
+ },
+ {
+  "eid": "sr:match:76735436",
+  "fx": "Biesheim ASC v Racing Besancon",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Coupe de France 8th round knockout: Biesheim (N1) v Racing Besançon (N2). Biesheim won 3-1 at Koetzingue; Besançon beat APM Metz 4-1. 17h Paris = 16:00 UTC matches board.",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (knockout, one-tier gap, p 0.63 DNB); integer O/U lines.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fff.fr/article/17849-le-programme-et-les-chiffres-du-8e-tour.html",
+   "https://news.footeo.com/2026/11/24/coupe-de-france-le-programme-complet-du-8e-tour-avec-les-horaires-des-46-matchs-18452",
+   "https://news.footeo.com/2026/11/15/coupe-de-france-tous-les-resultats-du-7e-tour-et-le-tirage-du-8e-tour-17813",
+   "https://www.ouest-france.fr/sport/football/coupe-de-france/coupe-de-france-les-affiches-connues-du-8e-tour-de-la-competition-4f47e8be-e011-11f1-9a29-f4bab172af08"
+  ]
+ },
+ {
+  "eid": "sr:match:76735514",
+  "fx": "US Feurs v FC Annecy",
+  "sport": "football",
+  "absences": "no named absences found; Annecy (L2) played Clermont Nov 20 (won 4-2) - possible rotation",
+  "context": "Coupe de France 8th round knockout: US Feurs (N2) v FC Annecy (L2), two-tier gap, Stade Maurice-Rousson, Sat 17:00 local = 16:00 UTC (board). foot01 TV listing puts it Friday 27 - outlier vs club/regional sources; board, ESPN, ICI agree on Sat 28.",
+  "news": "Annecy needed penalties at Firminy (R1) last round (1-1); Feurs beat Lyon-La Duchère 4-1. Both sides' games high-scoring (Feurs 2.89 gf/2.44 ga; Annecy 4-2, 6-4, 0-3).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.819417,
+    "why": "Feurs' last 6 all had 3+ goals (4-1, 3-5, 5-3, 3-5, 3-0, 2-1), Annecy's last 6 all 3+ except none - mechanism: open N2 attacking hosts v L2 side. Own p 0.85."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.8188175243,
+    "why": "DNB only (knockout). Two-tier gap; but Annecy struggled at R1 Firminy, so own p 0.80 (below house) - fill, second pick."
+   }
+  ],
+  "avoid": "Annecy 1X2 (knockout); integer Over 2/3.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fff.fr/article/17849-le-programme-et-les-chiffres-du-8e-tour.html",
+   "https://news.footeo.com/2026/11/24/coupe-de-france-le-programme-complet-du-8e-tour-avec-les-horaires-des-46-matchs-18452",
+   "https://news.footeo.com/2026/11/15/coupe-de-france-tous-les-resultats-du-7e-tour-et-le-tirage-du-8e-tour-17813",
+   "https://www.espn.com/soccer/match/_/gameId/401934518/annecy-us-feurs",
+   "https://antichambre.eu/coupe-de-france-le-fc-annecy-lasse-et-lasnl-fixes/",
+   "https://www.foot01.com/coupe-de-france/cdf-programme-tv-et-resultats-du-8e-tour"
+  ]
+ },
+ {
+  "eid": "sr:match:76735460",
+  "fx": "FC Chambly Oise v US Avranches",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Coupe de France 8th round knockout, all-N1 tie: Chambly v Avranches. Chambly won 3-2 at ASPTT Caen; Avranches won 3-2 at Le Touquet. Avranches tight away (0.7 ga). 18h Paris = 17:00 UTC.",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (same-tier knockout); Unders below gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fff.fr/article/17849-le-programme-et-les-chiffres-du-8e-tour.html",
+   "https://news.footeo.com/2026/11/24/coupe-de-france-le-programme-complet-du-8e-tour-avec-les-horaires-des-46-matchs-18452",
+   "https://news.footeo.com/2026/11/15/coupe-de-france-tous-les-resultats-du-7e-tour-et-le-tirage-du-8e-tour-17813"
+  ]
+ },
+ {
+  "eid": "sr:match:76735476",
+  "fx": "Nimes v Grenoble Foot",
+  "sport": "football",
+  "absences": "Grenoble: Léonardo Cerri OUT (quadriceps); Baptiste Mouazan and Aurélien Pelon doubtful; Zé Leite decision late; Bobby Allain in goal. Nîmes: Diallo, Silvente (suspended after red), Caoki out; captain Pablo Martinez back from flu.",
+  "context": "Coupe de France 8th round knockout: Nîmes (N1, 5-4-1 last 10, ga 0.7) v Grenoble (L2, 3-1-6 last 10, lost Monday at Nantes). Stade des Antonins, 18:00 local = 17:00 UTC. Grenoble played Monday - short turnaround.",
+  "news": "Grenoble weakened (Cerri out, two starters doubtful) and in poor form; Nîmes missing last-round scorer Diallo.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Grenoble any market - research-flagged fragile favourite (R4: skip, not DNB). Grenoble team Under 2.5 p 0.81 < 0.82 gate.",
+  "confidence": 0.25,
+  "sources": [
+   "https://antichambre.eu/coupe-de-france-gf38-un-forfait-et-plusieurs-incertains-pour-nimes/",
+   "https://www.grenoblefoot.info/coupe-de-france-le-gf38-devra-se-mefier-de-bissourou-toure-lhomme-en-forme-du-nimes-olympique/",
+   "https://www.ici.fr/occitanie/gard-30/nimes/coupe-de-france-les-abonnes-du-nimes-olympique-invites-aux-antonins-pour-le-8eme-tour-face-a-grenoble-l2-6333498"
+  ]
+ }
+]
