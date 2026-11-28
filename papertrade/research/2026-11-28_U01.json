@@ -1,0 +1,612 @@
+[
+ {
+  "eid": "sr:match:111111114375778",
+  "fx": "AC Taipei v Taiwan Power Company",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFPL 2026-27 round 8, Xizhi Stadium",
+  "news": "CTFA/AC Taipei calendar list 15:30 local (07:30 UTC) v board 07:00 UTC; a Soccerway snippet lists AC Taipei-Taipower on 06.12",
+  "veto": true,
+  "veto_reason": "kick-off/date conflict between sources (07:00 vs 07:30 UTC; Soccerway shows 06.12)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ctfa.com.tw/2026-a",
+   "https://actaipei.com/calendar/2026-2027-%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%E7%94%B2%E7%B4%9A%E8%B6%B3%E7%90%83%E8%81%AF%E8%B3%BD%E8%B3%BD%E7%A8%8B/",
+   "https://www.soccerway.com/taiwan/premier-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:72300896",
+  "fx": "SK Slavia Prague B v FK Arsenal Ceska Lipa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Czech FNL; Slavia B is a reserve side (17 pts, mid-table); Ceska Lipa lost 2-5 to Karvina earlier",
+  "news": "Fixture confirmed Sun 29 Nov 10:15 local; reserve side so result markets are off",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result markets (reserve side); not a clear mismatch, so no goals pick either",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fotmob.com/teams/1151541/overview/slavia-praha-ii",
+   "https://isport.blesk.cz/fotbal-sk-slavia-praha-b-22896"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114375776",
+  "fx": "Tainan City v New Taipei Hang Yuan",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFPL round 8, Tainan Municipal Stadium 18:30 local = 10:30 UTC (matches board)",
+  "news": "Fixture and time confirmed by CTFA/FootyStats; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything: no form data and thin coverage",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ctfa.com.tw/2026-a",
+   "https://actaipei.com/calendar/2026-2027-%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%E7%94%B2%E7%B4%9A%E8%B6%B3%E7%90%83%E8%81%AF%E8%B3%BD%E8%B3%BD%E7%A8%8B/",
+   "https://www.soccerway.com/taiwan/premier-league/",
+   "https://footystats.org/zht/taiwan/taiwan-football-premier-league/fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:71998286",
+  "fx": "FC Arda Kardzhali v FC CSKA 1948",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bulgarian efbet Liga, Arena Arda; evenly priced",
+  "news": "BetExplorer lists 12:30 local (=11:30 UTC, matches board); a ticket site says 13:30 and names the wrong city (low reliability); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result markets: coin-flip; Under 3.5 p 0.74 is below the Under gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/bulgaria/efbet-league/",
+   "https://www.biletwise.com/en/bulgarian-efbet-league-football-tickets"
+  ]
+ },
+ {
+  "eid": "sr:match:73070242",
+  "fx": "HNK Cibalia Vinkovci v NK Opatija",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Croatian Prva NL: Cibalia 5th (19 pts/12), Opatija 11th (17/13); both low-scoring (gf ~0.9-1.0)",
+  "news": "Table only; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 p 0.78 (<0.82 gate); thin second tier",
+  "confidence": 0.15,
+  "sources": [
+   "https://klikni.hr/aktualno/2026/11/21/nogometasi-mladosti-iz-zdralova-ostali-na-vrhu-dubrava-opet-bez-pobjede"
+  ]
+ },
+ {
+  "eid": "sr:match:72796042",
+  "fx": "Slavia Prague v FC Banik Ostrava",
+  "sport": "football",
+  "absences": "Slavia: Ogbu, Ouanda, Kante, Moses, Chaloupek, Provod, Sturm (inj), Chory (left out), Diakite doubtful. Banik: Sinjavskij, Gning (inj)",
+  "context": "Chance Liga, Eden 13:00 local. Banik has scored in none of its games v the top four",
+  "news": "Slavia have a long injury list but are still clear favourites; Banik's attack is the weakest (0 goals v the top 4)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7672,
+    "why": "Banik have scored 0 goals in their games v the top four; Slavia's home core (Zima, Sadilek, Chytil) is intact despite 7 injuries. Own p 0.77 = house"
+   }
+  ],
+  "avoid": "Slavia -1.5/-2 (injury depth); Slavia TT O1.5 is correlated",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fotbalportal.cz/cesko/synot-liga/82121-slavia-hosti-banik-s-dlouhou-marodkou/"
+  ]
+ },
+ {
+  "eid": "sr:match:72466670",
+  "fx": "PFC Ludogorets Razgrad II v PFC Rilski Sportist Samokov",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bulgaria Vtora Liga; Ludogorets II is a RESERVE side",
+  "news": "Fixture listed for 29.11; no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything (reserve side, not a mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.bg/soccer/bulgaria/vtora-liga/",
+   "https://bookmaker-ratings.bg/klasirane/balgariya-vtora-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72466666",
+  "fx": "PFC Spartak Pleven v FC Yantra Gabrovo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bulgaria Vtora Liga; even match",
+  "news": "Fixture listed for 29.11; no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.bg/soccer/bulgaria/vtora-liga/",
+   "https://bookmaker-ratings.bg/klasirane/balgariya-vtora-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72466664",
+  "fx": "SFC Etar Veliko Tarnovo v OFC Nesebar",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Vtora Liga; Etar's home form is poor (1W 1D 3L in their last 5 at home); Nesebar 2W in 10",
+  "news": "Fixture listed for 29.11; no news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Etar 1X2/DNB: statistics only, poor home form",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.bg/soccer/bulgaria/vtora-liga/",
+   "https://bookmaker-ratings.bg/klasirane/balgariya-vtora-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:74084616",
+  "fx": "Doxa Katokopias v Digenis Akritas Morphou FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Cyprus B' Katigoria round 9 (27-29 Nov). Doxa near the top (~17 pts) after a 1-2 loss to Akritas on Nov 22; Digenis 1W in 10",
+  "news": "Doxa lost 2-1 to Akritas in round 8; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Doxa DNB @1.21: statistics-only anchor in a thin regional league",
+  "confidence": 0.15,
+  "sources": [
+   "https://athlitiki.com/2026/11/22/%CE%B2-%CE%BA%CE%B1%CF%84%CE%B7%CE%B3%CE%BF%CF%81%CE%AF%CE%B1-%CE%B1%CE%BA%CF%81%CE%AF%CF%84%CE%B1%CF%82-%CE%B4%CF%8C%CE%BE%CE%B1-2-1-%CE%B1%CE%B5%CF%80-%CE%B1%CE%BD%CE%B1%CE%B3%CE%AD%CE%BD/",
+   "https://www.ant1live.com/athlitika/688561_b-katigoria-imerologiako-programma-2026-2027"
+  ]
+ },
+ {
+  "eid": "sr:match:72587368",
+  "fx": "FC Vlasim v MFK Karvina",
+  "sport": "football",
+  "absences": "Vlasim captain Kulhanek out for the rest of the autumn; Karvina 'arrive even more weakened' (disciplinary suspensions: Samko, Breite named)",
+  "context": "FNL final autumn round; Karvina are leaders (31 pts)",
+  "news": "Deník: the leaders travel short-handed through suspensions",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Karvina win/DNB (weakened by suspensions); O1.5 @1.18 sits at the floor",
+  "confidence": 0.2,
+  "sources": [
+   "https://benesovsky.denik.cz/fotbal-druha-liga/fotbal-chance-liga-vlasim-karvina-kulhanek-samko-breite-disciplinarni-komise"
+  ]
+ },
+ {
+  "eid": "sr:match:71925108",
+  "fx": "Lyngby BK v Viborg FF",
+  "sport": "football",
+  "absences": "no current news found (older previews only)",
+  "context": "Danish Superliga; Viborg slight favourites",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.821,
+    "why": "Superliga averages ~2.9 goals; 5 of Lyngby's last 6 had 2+ goals (3,1,1,3,5,6) and Viborg's 4 of 6. Own p 0.82. Statistics only = fill"
+   }
+  ],
+  "avoid": "Under markets; 1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://fodboldoverblikket.dk/lyngby-viborg/"
+  ]
+ },
+ {
+  "eid": "sr:match:72300904",
+  "fx": "FC Banik Ostrava B v SK Kladno",
+  "sport": "football",
+  "absences": "none found",
+  "context": "FNL; Banik Ostrava B is a RESERVE side",
+  "news": "no news found; fixture not confirmed by search",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything (reserve side, not a mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://isport.blesk.cz/clanek/fotbal-domaci-souteze-chance-narodni-liga/478670/online-vedouci-dukla-hosti-rezervu-slavie-kladno-hraje-doma-proti-vlasimi.html"
+  ]
+ },
+ {
+  "eid": "sr:match:71998292",
+  "fx": "FK Septemvri Sofia v PFC Levski Sofia",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Two Sofia clubs (city derby, not the Eternal derby); Levski are title contenders and win away by narrow margins (away GA 0.57, GF 1.29)",
+  "news": "Fixture listed at Septemvri, 13:00 local (=11:00 UTC?) v board 14:00 UTC: single unverified listing",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.37,
+    "p": 0.6899,
+    "why": "Levski's away wins are low-margin (GF 1.29 in their last 7 away) and Septemvri lose by 1-2; Levski 1X2 p 0.72 is below the away gate. +2.0 voids on an exact 2-goal margin. Own p 0.72. City derby: downgrade"
+   }
+  ],
+  "avoid": "Levski 1X2 (p 0.72 < 0.75 away gate); Levski -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballtransfers.com/en/teams/bg/levski/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:71913148",
+  "fx": "HNK Gorica v GNK Dinamo Zagreb",
+  "sport": "football",
+  "absences": "Dinamo: no round-15 report (earlier: Ivanusec, Topic ill, McKenna inj; may be stale). Gorica: none found",
+  "context": "HNL round 15, Sun 15:00 local. Dinamo have 28 pts and a game in hand, chasing the title; Gorica 1W in 10, conceding 2.1",
+  "news": "HRT preview confirms the fixture and time",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.27,
+    "p": 0.7552,
+    "why": "Away p 0.76 passes the 0.75 gate; Gorica have 1 win in 10, 0 home wins in their last 4, conceding 2.1/game; Dinamo need points with a game in hand. Own p 0.76"
+   },
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.33,
+    "p": 0.7077,
+    "why": "Dinamo away GF 2.2 v a Gorica side conceding 2.5 at home. Own p 0.72"
+   }
+  ],
+  "avoid": "Gorica +1.5 (forbidden: fav p >= 0.55)",
+  "confidence": 0.3,
+  "sources": [
+   "https://sport.hrt.hr/hrvatski-nogomet/hajduk-docekuje-goricu-dinamo-kod-rudesa-12985574"
+  ]
+ },
+ {
+  "eid": "sr:match:72796144",
+  "fx": "FC Zbrojovka Brno v Viktoria Plzen",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Chance Liga; Plzen play Europa League this season (rotation risk, European tie within 4 days); Plzen's away form is strong (5W in 6, GF 2.83)",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7804,
+    "why": "Plzen away GF 2.83 (4-0, 6-1, 2-1...) v a Brno side conceding 1.8; rotation affects the result more than goals. Own p 0.80"
+   }
+  ],
+  "avoid": "Plzen 1X2/DNB (European rotation, p 0.50)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eurofotbal.cz/kluby/cesko/viktoria-plzen/",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-czech-rep/chance-liga"
+  ]
+ },
+ {
+  "eid": "sr:match:72796044",
+  "fx": "FK Jablonec v FK Pardubice",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Chance Liga; house makes Jablonec favourite, but Pardubice's form is far stronger (7W in 10, 5 of their last 6 away games won)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "1X2/DNB: form and price disagree (data_conflict)",
+  "confidence": 0.15,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73070230",
+  "fx": "NK Karlovac 1919 v NK Kustosija Zagreb",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Prva NL: Kustosija 4th (19 pts), Karlovac 13th (14); Karlovac lost 4 of their last 5 at home",
+  "news": "Table only",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "everything (thin tier)",
+  "confidence": 0.15,
+  "sources": [
+   "https://klikni.hr/aktualno/2026/11/21/nogometasi-mladosti-iz-zdralova-ostali-na-vrhu-dubrava-opet-bez-pobjede",
+   "https://zgnogomet.com/klub/karlovac-1919-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:76161564",
+  "fx": "FK Borac Banja Luka v FK Sarajevo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Bosnia big-club rivalry (Borac v Sarajevo); Sarajevo won the Sept meeting 1-0",
+  "news": "LiveSoccerTV lists 29 Nov 11:30 (US ET = 16:30 UTC, consistent); no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (big-club clash); Under 3.5 p 0.79 < 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livesoccertv.com/teams/bosnia-and-herzegovina/borac-banja-luka/",
+   "https://www.fifa.com/en/match-centre/match/4yngyfinzd6bb1k7anqtqs0wt/4c48j9oq3d0aje3ojkb3mbp5g/4ckmc8he8cfg8vqz6kp0qm9zo/bsviqlsiml2u1v3g5ukutj21g"
+  ]
+ },
+ {
+  "eid": "sr:match:71913142",
+  "fx": "HNK Hajduk Split v NK Rudes Zagreb",
+  "sport": "football",
+  "absences": "Hajduk: Livaja doubtful (back; missed Sint-Truiden), Hadzikadunic doubtful",
+  "context": "HNL round 15, 18:00 local; Hajduk played Sint-Truiden midweek in Europe (European tie <= 4 days: rotation); Rudes have won 4 of their last 5 away",
+  "news": "Two key Hajduk players doubtful after the European midweek",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hajduk 1X2/-1.5 (rotation + Livaja doubt); Rudes +1.5 (forbidden: fav p 0.75)",
+  "confidence": 0.2,
+  "sources": [
+   "https://sport.hrt.hr/hrvatski-nogomet/hajduk-docekuje-goricu-dinamo-kod-rudesa-12985574",
+   "https://hrsport.hr/hajduk-rudes-prijenos-gdje-gledati/"
+  ]
+ },
+ {
+  "eid": "sr:match:73160496",
+  "fx": "Pafos FC v Aris Limassol",
+  "sport": "football",
+  "absences": "Pafos: Gorter (shoulder) and Ngamaleu (unknown) were listed for the European game; unconfirmed here",
+  "context": "Cyprus 1st Div round 11, 18:00 GMT? (board 17:00 UTC; Forebet 18:00 GMT, possibly local). Pafos played Midtjylland in Europe midweek (rotation); Aris in good form (5W in 10)",
+  "news": "no confirmed team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7791,
+    "why": "Pafos' last 6: 2,3,6,4,4,0 goals; Aris' last 6: 4,4,3,4,2,4 (Aris away GF 1.75). Own p 0.80"
+   }
+  ],
+  "avoid": "Pafos 1X2 (European rotation, p 0.45)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.forebet.com/en/football/matches/pafos-aris-limassol-2527073",
+   "https://sports.yahoo.com/articles/preview-pafos-fc-vs-midtjylland-172500689.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72796038",
+  "fx": "FC Zlin v Sparta Prague",
+  "sport": "football",
+  "absences": "none found for this round",
+  "context": "Chance Liga; Sparta in poor form (1W in 10, 0W in their last 4 away, away GF 0.25); Zlin 0W in their last 5 at home",
+  "news": "no current news found (only the July meeting); Sparta unbeaten in 13 league H2H v Zlin",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=2",
+    "desc": "Home (+2.0)",
+    "odds": 1.31,
+    "p": 0.7229,
+    "why": "Sparta are scoring 0.25/game in their last 4 away (0-0, 1-1 types) and have won 1 of 10; a 3+ goal Sparta win is unlikely; exact 2 voids. Own p 0.76"
+   }
+  ],
+  "avoid": "Sparta 1X2 (p 0.67 < away gate); Zlin +1.5 (forbidden: fav p >= 0.55); Unders (p < 0.82)",
+  "confidence": 0.25,
+  "sources": [
+   "https://sparta.cz/en/zapas/2773-ac-sparta-praha-fc-zlin/clanky"
+  ]
+ },
+ {
+  "eid": "sr:match:66887212",
+  "fx": "Coritiba FC PR v CR Flamengo RJ",
+  "sport": "football",
+  "absences": "Coritiba: Lucas Ronier (ACL), Moledo (hamstring), Keno (muscle) out; Jacy, N. Fonseca back (one source wrongly lists 8 suspended). Flamengo: Alex Sandro (susp), Plata out; Pulgar, Leo Pereira back",
+  "context": "Brasileirao round 37; Flamengo already champions (likely rotation); Coritiba need a win for a continental spot",
+  "news": "Champions Flamengo may rotate; Coritiba must win. Sources conflict on the Coritiba absences",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Flamengo 1X2/DNB (dead rubber + rotation); Coritiba +1.5 (forbidden: fav p 0.55)",
+  "confidence": 0.2,
+  "sources": [
+   "https://trivela.com.br/onde-assistir/palpite-escalacoes-coritiba-x-flamengo-29-11-2026/",
+   "https://www.ogol.com.br/noticias/vitoria-x-santos-horario-escalacoes-e-onde-assistir-brasileirao-29-11/1271684",
+   "https://atarde.com.br/esportes/ecvitoria/vitoria-x-santos-onde-assistir-escalacoes-e-arbitragem-1410890",
+   "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17570423/coritiba-x-flamengo-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao"
+  ]
+ },
+ {
+  "eid": "sr:match:66887214",
+  "fx": "EC Vitoria BA v Santos FC SP",
+  "sport": "football",
+  "absences": "Vitoria: Dudu, Nathan Mendes, Edu, Fabiano Souza (inj), E. Martinez (susp); Matheuzinho back. Santos: Brazao, Barreal, V. Lira, Pepe, L. Verissimo (inj); Gustavo Henrique suspended/returning (sources conflict)",
+  "context": "Round 37; Santos 9th (~50), Vitoria 13th (~44) chasing a continental spot; both safe",
+  "news": "Long absence lists on both sides; conflicting reports on Santos",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result markets (both depleted, even)",
+  "confidence": 0.15,
+  "sources": [
+   "https://trivela.com.br/onde-assistir/palpite-escalacoes-coritiba-x-flamengo-29-11-2026/",
+   "https://www.ogol.com.br/noticias/vitoria-x-santos-horario-escalacoes-e-onde-assistir-brasileirao-29-11/1271684",
+   "https://atarde.com.br/esportes/ecvitoria/vitoria-x-santos-onde-assistir-escalacoes-e-arbitragem-1410890",
+   "https://conectapiaui.com.br/blog/conecta-esporte/brasileirao-chega-a-penultima-rodada-com-disputa-por-libertadores-e-contra-o-z-4-34735.html",
+   "https://espacodopovo.com.br/brasileirao-2026-tabela-jogos-37-rodada/"
+  ]
+ },
+ {
+  "eid": "sr:match:67682124",
+  "fx": "CD Universidad Catolica v Huachipato",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga de Primera round 29 (penultimate); UC must win to chase 2nd (Chile 2 / Libertadores), 5 pts behind U de Chile, after a 0-3 loss to Colo-Colo; Huachipato drew 0-0 with Concepcion, scoring 0.8",
+  "news": "Must-win for UC; Huachipato blunt",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8086,
+    "why": "UC must win for the Libertadores spot; Huachipato score 0.8/game (0-0, 0-1 in recent away games); a draw voids. Own p 0.82"
+   }
+  ],
+  "avoid": "UC -1.5; Huachipato team Under 1.5 (p 0.75 < Under gate)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.espn.cl/futbol/chile/nota/_/id/17561562/universidad-catolica-vs-huachipato-fecha-29-liga-de-primera-equipo-fecha-y-hora",
+   "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/huachipato-recibe-a-d-concepcion-por-la-fecha-28-de-la-liga-de-primera/2026-11-20/121911.html",
+   "https://tntsports.cl/nacional/universidad-catolica-vs-huachipato-cuando-a-que-hora-donde-ver-en-vivo-senales-hbo-max-nacional-20261127-0020.html"
+  ]
+ },
+ {
+  "eid": "sr:match:67682136",
+  "fx": "Deportes Concepcion v Universidad de Chile",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Round 29; U de Chile 2nd, want to seal Chile 2; Concepcion concede 0.5 at home",
+  "news": "Ester Roa, 18:00 local; referee Rodrigo Carvajal",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "U de Chile 1X2 (p 0.51); Unders (< gate)",
+  "confidence": 0.2,
+  "sources": [
+   "https://tntsports.cl/nacional/Concepcion-vs-La-U-Cuando-juegan-hora-donde-ver-en-vivo-fecha-29-Liga-de-Primera-Mercado-Libre-2026-20261127-0021.html"
+  ]
+ },
+ {
+  "eid": "sr:match:66887206",
+  "fx": "Mirassol FC SP v CA Paranaense PR",
+  "sport": "football",
+  "absences": "Mirassol: Neto Moura, Edson Carioca back from suspension; Negueba out (knee). Athletico: Viveros suspended (last game), Arthur Dias doubtful",
+  "context": "Round 37; Mirassol 17th (41 pts, in the drop zone on goal difference), must-win at home (unbeaten in their last 5 at home, GA 0.6)",
+  "news": "Mirassol relegation must-win with returns; Athletico without their striker Viveros",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.49,
+    "p": 0.6398,
+    "why": "Mirassol must win to escape Z-4, are unbeaten at home (2W 3D, GA 0.6) and get Neto Moura and Edson Carioca back; Athletico lose Viveros. Own p 0.67 (mid-band: fill)"
+   }
+  ],
+  "avoid": "Over markets (Athletico's away games are wild but Mirassol are tight at home)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17570642/mirassol-x-athletico-pr-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao",
+   "https://www.umdoisesportes.com.br/athletico/onde-assistir-athletico/mirassol-x-athletico-palpite-onde-assistir-e-escalacoes-29-11/",
+   "https://conectapiaui.com.br/blog/conecta-esporte/brasileirao-chega-a-penultima-rodada-com-disputa-por-libertadores-e-contra-o-z-4-34735.html",
+   "https://espacodopovo.com.br/brasileirao-2026-tabela-jogos-37-rodada/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887204",
+  "fx": "SC Corinthians SP v Gremio FB Porto Alegrense RS",
+  "sport": "football",
+  "absences": "Corinthians: Labyad, Kayke, Gabriel Paulista (inj); Yuri Alberto, Carrillo, Matheus Pereira back. Gremio: Noriega (susp), Kannemann doubtful (muscle), Nardoni cleared",
+  "context": "Relegation six-pointer: both on 41 pts with Mirassol; big-club clash",
+  "news": "Direct relegation decider; Corinthians near full strength",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (big-club clash); Unders (< gate)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17570536/corinthians-x-gremio-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao",
+   "https://sougremio.com.br/noticias-do-gremio/primeiro-desfalque-24-11/",
+   "https://www.gremionews.com.br/bastidores/5204-gremio-tem-reforco-para-o-jogo-contra-o-corinthians-pelo-brasileirao",
+   "https://conectapiaui.com.br/blog/conecta-esporte/brasileirao-chega-a-penultima-rodada-com-disputa-por-libertadores-e-contra-o-z-4-34735.html",
+   "https://espacodopovo.com.br/brasileirao-2026-tabela-jogos-37-rodada/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887210",
+  "fx": "SC Internacional RS v Red Bull Bragantino SP",
+  "sport": "football",
+  "absences": "Inter: Alan Patrick back from suspension; Alerrandro suspended. Bragantino: Matheus Fernandes, Fernando back; Wallace Yan suspended",
+  "context": "Round 37; Inter 18th (38 pts): a loss can relegate them; must-win at Beira-Rio. Bragantino 0W in their last 5 away (GF 0.6)",
+  "news": "Inter must-win; captain Alan Patrick returns",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.18,
+    "p": 0.818,
+    "why": "Inter must chase the game at home (home GF 2.0), Alan Patrick returns, and Bragantino concede 1.6 away. Own p 0.84"
+   }
+  ],
+  "avoid": "Inter -1 (pressure, Alerrandro out); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17570881/internacional-x-bragantino-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-brasileirao",
+   "https://conectapiaui.com.br/blog/conecta-esporte/brasileirao-chega-a-penultima-rodada-com-disputa-por-libertadores-e-contra-o-z-4-34735.html",
+   "https://espacodopovo.com.br/brasileirao-2026-tabela-jogos-37-rodada/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887208",
+  "fx": "Atletico Mineiro MG v CR Vasco da Gama RJ",
+  "sport": "football",
+  "absences": "Atletico-MG: Vitao, Fred back from suspension. Vasco: Robert Renan (red), Paulo Henrique (susp), David (arrested), J. Rojas and C. Cuesta (released)",
+  "context": "Round 37; Vasco 10th (~47), Atletico in poor form (1W in 10, GF 0.5)",
+  "news": "Vasco heavily depleted; Galo blunt",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result markets (Galo GF 0.5 v depleted Vasco: conflicting signals); Overs",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com.br/futebol/brasileirao/artigo/_/id/17567106/atletico-mg-x-vasco-onde-assistir-ao-vivo-horario-palpites-provaveis-escalacoes-jogo-brasileirao"
+  ]
+ }
+]
