@@ -1,0 +1,756 @@
+[
+ {
+  "eid": "sr:match:72166724",
+  "fx": "Amur Khabarovsk v HK Avangard Omsk",
+  "sport": "ice hockey",
+  "absences": "Amur: Semyon Demidov, Alexander Dergachyov, Dmitry Kostenko, Alexei Kruchinin, Vasily Machulin injured; Ivan Chekhovich lost on waivers; Chistyakov doubtful. Avangard: Nail Yakupov, Artyom Ilyenko, Cedric Paquette did not travel (injured); Leuka listed out by one source.",
+  "context": "KHL regular season, Khabarovsk, 10:00 MSK (07:00 UTC) day game confirmed by Omsk media. Avangard on 6-game win streak; Amur won 2 of last 3 H2H but has heavy injury list.",
+  "news": "Amur missing five forwards/regulars; Avangard also missing Yakupov/Ilyenko/Paquette on Far East trip; previews favour Avangard.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.33,
+    "p": 0.727678,
+    "why": "Avangard team total O1.5 (regulation): Avangard scored 3.0/g last 10 (3.0 away) and Amur is depleted by 5 injured regulars plus Chekhovich waived; own est 0.75"
+   }
+  ],
+  "avoid": "Amur +1.5/+2.5 catches banned (Avangard 406 p 0.59 >= 0.55/0.60 rule boundary for +1.5); Avangard ML p 0.59 < 0.75 away rule.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.livesport.ru/tips/hockey/2026/11/28/amur-khabarovsk-avangard-omsk/",
+   "https://omskinform.ru/news/231728",
+   "https://superomsk.ru/news/168929-omskii_avangard_sygraet_dnevnoi_match_s_amurom_28_noiabria/",
+   "https://stavka.tv/matches/ice-hockey/28-11-2026-amur-khabarovsk-avangard-omsk",
+   "https://www.vseprosport.ru/news/2026/11/27/amur-avangard-prognoz-kf-2-13-i-stavki-na-match-khl-28-nojabrja-2026-goda"
+  ]
+ },
+ {
+  "eid": "sr:match:73708622",
+  "fx": "Omskie Kryliya v CSK VVS Samara",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "VHL; Omskie Kryliya 5-1 at home (GA 1.17) v CSK VVS 0-5 away. Schedule listing (Allhockey VHL day list) includes Omskie Kryliya - CSK VVS on 28 Nov.",
+  "news": "Fixture confirmed in VHL 28 Nov day list; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.27,
+    "p": 0.76575,
+    "why": "Home win incl. OT: Omskie Kryliya 5-1 home, CSK VVS 0-5 away scoring 1.6/g; statistical split only (no named mechanism) so fill-grade; own est 0.78"
+   }
+  ],
+  "avoid": "CSK VVS Under 2.5 (p 0.805 < 0.82 Under gate).",
+  "confidence": 0.25,
+  "sources": [
+   "https://allhockey.ru/news/show/575451-VHL_rezul_taty_matchej_segodnya_28_noyabrya_2025_goda"
+  ]
+ },
+ {
+  "eid": "sr:match:73708616",
+  "fx": "Dinamo-Altai Barnaul v HC Kaluga",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "VHL; Barnaul 3-1 at home (GF 3.0, GA 1.75), Kaluga 0-5 away (GF 0.8, GA 3.2). Kaluga slight favourite p 0.52.",
+  "news": "No team news found; 2026 result listing for this fixture not located (2025 results only).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.3,
+    "p": 0.7449362405,
+    "why": "Barnaul +1.5 incl OT: favourite Kaluga only p 0.52 (<0.55 so +1.5 allowed); Kaluga 0-5 on the road scoring 0.8/g; own est 0.80"
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.19,
+    "p": 0.8143832055,
+    "why": "O2.5 regulation: trend 0.90 over 20 games; own est 0.82"
+   }
+  ],
+  "avoid": "Team Unders (p<0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://allhockey.ru/news/show/575451-VHL_rezul_taty_matchej_segodnya_28_noyabrya_2025_goda"
+  ]
+ },
+ {
+  "eid": "sr:match:73708618",
+  "fx": "HC Tambov v HK Dinamo St. Petersburg",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "VHL; Tambov 5-1 at home scoring 3.83/g; Dinamo St. Petersburg 2-8 last 10, 1-4 away conceding 3.4/g.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.39,
+    "p": 0.692757,
+    "why": "Tambov team total O1.5: Tambov home GF 3.83, Dinamo SPb away GA 3.4 and lost 8 of 10; own est 0.76"
+   }
+  ],
+  "avoid": "Dinamo SPb +1.5 catch (contrary to form).",
+  "confidence": 0.25,
+  "sources": [
+   "https://allhockey.ru/news/show/575451-VHL_rezul_taty_matchej_segodnya_28_noyabrya_2025_goda"
+  ]
+ },
+ {
+  "eid": "sr:match:72166722",
+  "fx": "Traktor Chelyabinsk v Metallurg Magnitogorsk",
+  "sport": "ice hockey",
+  "absences": "Traktor (Oct list): Vitaly Kravtsov, Sergei Telegin - six weeks old, unconfirmed. No current Metallurg list found.",
+  "context": "KHL Ural derby, Chelyabinsk 14:00 MSK. Metallurg won 7 of last 8 v Traktor (2 OT, 1 SO); Metallurg lead the East. Both sides high-scoring (Traktor 3.6 GF / 2.8 GA, Metallurg 4.5 GF / 3.8 GA last 10; H2H 5-6).",
+  "news": "Previews (Marathon, Stavka, Vseprosport) back Metallurg and Over 5.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "412",
+    "spec": "total=4.5",
+    "desc": "Over 4.5",
+    "odds": 1.29,
+    "p": 0.750184,
+    "why": "Total incl OT O4.5: both sides scoring/conceding heavily (combined ~6.5-8 goals per game in last 10), H2H 5-6, trend 0.95; own est 0.79"
+   }
+  ],
+  "avoid": "Result-side: Ural derby (no result-side in derbies); Metallurg away p 0.64 < 0.75.",
+  "confidence": 0.3,
+  "sources": [
+   "https://blog.marathonbet.ru/prognoz-traktor-metallurg-28-11-2026/",
+   "https://stavka.tv/matches/ice-hockey/28-11-2026-traktor-chelyabinsk-metallurg-magnitogorsk",
+   "https://www.vseprosport.ru/news/2026/11/27/traktor-metallurg-prognoz-kf-1-75-i-stavki-na-match-khl-28-nojabrja-2026-goda"
+  ]
+ },
+ {
+  "eid": "sr:match:74117400",
+  "fx": "HK Mogo/RSU v HK Zemgale/Llu",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Latvian OHL; Mogo/RSU 2nd (beat Liepaja 3-2 on 25 Nov), Mogo ice hall 13:35 local = 11:35 UTC (LHF). Flashscore lists 29.11 but LHF and Sportacentrs give 28.11.",
+  "news": "Mogo revenge win over Liepaja midweek; no absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mogo ML p 0.67 - no mechanism beyond form; Flashscore date discrepancy noted (official LHF says 28.11).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lhf.lv/lv/turniri/optibet-hokeja-liga/speles",
+   "https://sportacentrs.com/hokejs/latvijas_cempionats/25112026-mogo_revansejas_liepajai_par_sezonas_vien",
+   "https://www.flashscore.com/hockey/latvia/optibet-hokeja-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:73810734",
+  "fx": "Gornyak Rudnyi v HK Beibarys Atyrau",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Kazakhstan Pro Hockey League. A ligasy.kz cup schedule lists Torpedo-Gornyak and Beibarys-Kulager on 28 Nov, contradicting this pairing; no league source confirms Gornyak v Beibarys on 28 Nov.",
+  "news": "Schedule conflict: Gornyak/Beibarys appear in other pairings for 28 Nov in a ligasy.kz table.",
+  "veto": true,
+  "veto_reason": "Date/pairing conflict between sources (ligasy.kz table lists Gornyak and Beibarys in other 28 Nov games).",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sports.kz/live/match/5997511",
+   "https://pro.ligasy.kz/ru/article/2400-raspisanie-kubka-kazahstana-2026",
+   "https://www.sports.kz/news/torpedo-odolelo-saryiarku-v-matche-chempionata-kazahstana",
+   "https://sportarena.kz/hockey/1066514-kak-vyglyadit-turnirnaya-tablitsa-chempionata-kazakhstana-po-khokkeyu-po-sostoyaniyu-na-26-noyabrya.html",
+   "https://stavkiprognozy.ru/prognozy/hockey/kazakhstan/pro_prognoz-arlan-kokshetau-nomad-28-noyabrya-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73810732",
+  "fx": "HC Kulager Petropavlsk v HC Aktobe",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Kazakhstan Pro Hockey League; Kulager strong (7-3), Aktobe near bottom (2-8). Sports.kz lists 28.11.2026 18:00 local (= 13:00 UTC under Kazakhstan UTC+5) vs board 12:00 UTC.",
+  "news": "Fixture confirmed 28 Nov by sports.kz, but kick-off time differs by 1 hour from board.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: sports.kz 18:00 local (13:00 UTC) v board 12:00 UTC.",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sports.kz/live/match/5997511",
+   "https://pro.ligasy.kz/ru/article/2400-raspisanie-kubka-kazahstana-2026",
+   "https://www.sports.kz/news/torpedo-odolelo-saryiarku-v-matche-chempionata-kazahstana",
+   "https://sportarena.kz/hockey/1066514-kak-vyglyadit-turnirnaya-tablitsa-chempionata-kazakhstana-po-khokkeyu-po-sostoyaniyu-na-26-noyabrya.html",
+   "https://stavkiprognozy.ru/prognozy/hockey/kazakhstan/pro_prognoz-arlan-kokshetau-nomad-28-noyabrya-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73810738",
+  "fx": "HK Arlan Kokschetau v Nomad Nur-Sultan",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Kazakhstan Pro Hockey League; Nomad (defending champions) near top; Arlan 6-4 last 10. Prediction sites give 28 Nov 15:00 MSK (12:00 UTC) consistent with board.",
+  "news": "No team news; pick-em market.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=1.5",
+    "desc": "Home (+1.5)",
+    "odds": 1.28,
+    "p": 0.733788,
+    "why": "Arlan +1.5 incl OT: market is a pick-em (fav p 0.50 < 0.55), Arlan home and 6-4 last 10; own est 0.74"
+   }
+  ],
+  "avoid": "ML in a coin-flip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sports.kz/live/match/5997511",
+   "https://pro.ligasy.kz/ru/article/2400-raspisanie-kubka-kazahstana-2026",
+   "https://www.sports.kz/news/torpedo-odolelo-saryiarku-v-matche-chempionata-kazahstana",
+   "https://sportarena.kz/hockey/1066514-kak-vyglyadit-turnirnaya-tablitsa-chempionata-kazakhstana-po-khokkeyu-po-sostoyaniyu-na-26-noyabrya.html",
+   "https://stavkiprognozy.ru/prognozy/hockey/kazakhstan/pro_prognoz-arlan-kokshetau-nomad-28-noyabrya-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:73810736",
+  "fx": "Saryarka Karaganda v Torpedo Ust Kamenogorsk",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Kazakhstan; Torpedo league leaders (58 pts) beat Saryarka 3-2 in Karaganda on 27 Nov (Mukhametov 51st-min winner); Saryarka 4th.",
+  "news": "Sports.kz/Sportarena show this fixture was played on 27 Nov (2-3); a 28 Nov game is not confirmed by any source, and a ligasy.kz table lists Torpedo v Gornyak on 28 Nov.",
+  "veto": true,
+  "veto_reason": "Date conflict: fixture reported played 27 Nov; 28 Nov repeat not confirmed.",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sports.kz/live/match/5997511",
+   "https://pro.ligasy.kz/ru/article/2400-raspisanie-kubka-kazahstana-2026",
+   "https://www.sports.kz/news/torpedo-odolelo-saryiarku-v-matche-chempionata-kazahstana",
+   "https://sportarena.kz/hockey/1066514-kak-vyglyadit-turnirnaya-tablitsa-chempionata-kazakhstana-po-khokkeyu-po-sostoyaniyu-na-26-noyabrya.html",
+   "https://stavkiprognozy.ru/prognozy/hockey/kazakhstan/pro_prognoz-arlan-kokshetau-nomad-28-noyabrya-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:74117396",
+  "fx": "Airwell Energija v Kyiv Capitals",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Latvian OHL; Kyiv Capitals 1st (8-2, 6.3 GF/g, wins 12-1, 10-0); Energija 1-9, 0-5 at home scoring 1.0/g. Elektrenai 15:00 local (13:00 UTC). The sides also met on 24 Nov (Sportacentrs live).",
+  "news": "Mismatch; Kyiv lead the table; back-to-back meeting within a week.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "37",
+    "spec": "total=5.5",
+    "desc": "Away & Over 5.5",
+    "odds": 1.26,
+    "p": 0.7152326942,
+    "why": "Kyiv win & O5.5: Kyiv average 6.4 goals away, Energija concede 3.6 at home; the main risk is a Kyiv 5-0/4-1-type win; own est 0.72"
+   }
+  ],
+  "avoid": "Away -4.5 (p 0.47).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.lhf.lv/lv/turniri/optibet-hokeja-liga/speles",
+   "https://sportacentrs.com/hokejs/latvijas_cempionats/25112026-mogo_revansejas_liepajai_par_sezonas_vien",
+   "https://www.flashscore.com/hockey/latvia/optibet-hokeja-liga/",
+   "https://sportacentrs.com/sportacentrs_tv/live/24112026-b_hc_energija_hc_kyiv_capitals_b_br_optib"
+  ]
+ },
+ {
+  "eid": "sr:match:73579890",
+  "fx": "EC KAC Future Team v EC Die Adler Kitzbuhel",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "AlpsHL; EC-KAC Future Team is a farm/development side (reserve rule: goals only in clear mismatch). Lost 6-3 at Sisak on 26 Nov. Eishockey.at: 14:30 CET = 13:30 UTC, matches board.",
+  "news": "KAC Future played away on 26 Nov; no other news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve/farm side, not a clear mismatch: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eishockey.at/en/game-center/alps",
+   "https://www.eliteprospects.com/league/alpshl",
+   "https://www.alps.hockey/en/"
+  ]
+ },
+ {
+  "eid": "sr:match:74117394",
+  "fx": "HS Riga v HK Prizma",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Latvian OHL; HS Riga/Dinaburga host in Daugavpils 16:00 local (14:00 UTC, LHF). Prizma 3-7 last 10 but GA 4.9; HS Riga GA 5.5.",
+  "news": "Prizma looking to climb the table (Sportacentrs); both defences leak heavily.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.769238,
+    "why": "HS Riga team total O1.5: Prizma concede 4.9/g last 10 (4.6 away), trend 0.85; own est 0.80"
+   }
+  ],
+  "avoid": "Prizma away ML p 0.67 < 0.75.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.lhf.lv/lv/turniri/optibet-hokeja-liga/speles",
+   "https://sportacentrs.com/hokejs/latvijas_cempionats/25112026-mogo_revansejas_liepajai_par_sezonas_vien",
+   "https://www.flashscore.com/hockey/latvia/optibet-hokeja-liga/",
+   "https://sportacentrs.com/hokejs/latvijas_cempionats/24112026-iespeja_pakapties_tabula_un_uzlabot_noska"
+  ]
+ },
+ {
+  "eid": "sr:match:72166720",
+  "fx": "HC Sochi v Shanghai Dragons",
+  "sport": "ice hockey",
+  "absences": "Sochi: Pavel Akolzin out; goalie Pyotr Andreyanov expected. Shanghai: Pavel Khomchenko back.",
+  "context": "KHL, Sochi 17:00 MSK (14:00 UTC). Shanghai on a 7-game losing streak (0-5 to CSKA); Sochi lost 4 of 5. Shanghai won most recent H2H.",
+  "news": "Both sides in bad form; previews lean Shanghai at ~1.75.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.24,
+    "p": 0.780767,
+    "why": "O3.5 regulation: both teams concede 3.2-3.5/g (Shanghai 4.67 away), games average ~5 goals, trend 0.80; own est 0.79"
+   }
+  ],
+  "avoid": "Result sides (two struggling teams, coin-flip); +1.5/+2.5 Sochi catches.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livesport.ru/tips/hockey/2026/11/28/hc-sochi-redstar-kunlun/",
+   "https://stavka.tv/matches/ice-hockey/28-11-2026-sochi-shanghai-dragons",
+   "https://www.vseprosport.ru/news/2026/11/27/sochi-shanhajskie-drakony-prognoz-kf-1-75-i-stavki-na-match-khl-28-nojabrja-2026-goda"
+  ]
+ },
+ {
+  "eid": "sr:match:72166718",
+  "fx": "Spartak Moscow v Torpedo N. Novgorod",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "KHL, Moscow; Spartak 4th in West (37 pts), lost 3 of last 4 and 2 straight v Torpedo; Spartak GA 3.6 last 10.",
+  "news": "Spartak in a slump; previews note Torpedo won last two meetings.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=3.5",
+    "desc": "Over 3.5",
+    "odds": 1.31,
+    "p": 0.7419,
+    "why": "O3.5 regulation: Spartak concede 3.6/g, games average 5+ goals, trend 0.90; own est 0.77"
+   }
+  ],
+  "avoid": "Torpedo +1.5 catch (Spartak fav p 0.55 boundary).",
+  "confidence": 0.25,
+  "sources": [
+   "https://vseprosport.ru/news/2026/11/27/spartak-torpedo-prognoz-kf-1-75-i-stavki-na-match-khl-28-nojabrja-2026-goda",
+   "https://tribuna.1xbet.kz/news/traktor-metallurg-spartak-torpedo-khl-28-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72117486",
+  "fx": "Kokkolan Hermes v Kiekko-Vantaa",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Mestis round, game 91, Kokkola 17:00 local (15:00 UTC) per mestis.fi. Hermes 3-7 last 10, conceding 3.75 at home.",
+  "news": "Fixture and time confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8086884686,
+    "why": "Kiekko-Vantaa team total O1.5: Hermes concede 3.0/g (3.75 at home) and lost 7 of 10; own est 0.82"
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.25,
+  "sources": [
+   "https://mestis.fi/fi/ottelut/",
+   "https://www.suomikiekko.com/mestis/"
+  ]
+ },
+ {
+  "eid": "sr:match:72117490",
+  "fx": "Pyry v Kiekko-Pojat Joensuu",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Mestis, Pyry home 17:00 local (15:00 UTC) per Suomikiekko/JoKP site. H2H: JoKP won 6-1 and 5-1.",
+  "news": "Fixture and time confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7817947546,
+    "why": "Pyry team total O1.5: Pyry scored 3.17/g at home; own est 0.77 (H2H 1-6, 1-5 is the risk)"
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.2,
+  "sources": [
+   "https://mestis.fi/fi/ottelut/",
+   "https://www.suomikiekko.com/mestis/"
+  ]
+ },
+ {
+  "eid": "sr:match:74117398",
+  "fx": "HK Liepaja v Hockey Punks Vilnius",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Latvian OHL; Liepaja 17:00 local (15:00 UTC). Liepaja lost 3-2 at Mogo on 25 Nov (first season loss per Sportacentrs); Punks 2-8 conceding 5.8/g.",
+  "news": "Heavy mismatch; all short prices outside the 1.18-2.2 band.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Nothing in band except 7.5 total coin-flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lhf.lv/lv/turniri/optibet-hokeja-liga/speles",
+   "https://sportacentrs.com/hokejs/latvijas_cempionats/25112026-mogo_revansejas_liepajai_par_sezonas_vien",
+   "https://www.flashscore.com/hockey/latvia/optibet-hokeja-liga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72124142",
+  "fx": "Comet v Kongsvinger IL",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Norwegian 1st Division, Comet Halden 16:00 local (15:00 UTC) per NTB weekend list. Comet 9-1 (5.3 GF/g) but home GF only 2.75; Kongsvinger 3-7.",
+  "news": "Fixture and time confirmed by NTB/Graet.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.23,
+    "p": 0.776218,
+    "why": "Kongsvinger to score: they scored in 4 of last 6 and Comet conceded 1.6/g; trend 0.85; own est 0.80"
+   }
+  ],
+  "avoid": "Comet team O3.5 (home scoring only 2.75/g).",
+  "confidence": 0.2,
+  "sources": [
+   "https://tipsbladet.no/ntb-sportens-helgeoversikt-28-30-november-2026/",
+   "https://mshockey.ticketco.events/no/en/m/e/manglerud_star__gjoevik_4",
+   "https://skiishockeyelite.ticketco.events/no/en"
+  ]
+ },
+ {
+  "eid": "sr:match:72124144",
+  "fx": "Manglerud Star Oslo v Gjovik Mammuts",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Norwegian 1st Division, Manglerudhallen 16:00 local (15:00 UTC, TicketCo/NTB). Gjovik 9-1 last 10 and 4-0 away; Manglerud concede 4.6 at home.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.27,
+    "p": 0.7556515704,
+    "why": "Gjovik win incl OT: p 0.756 passes the 0.75 away gate; 9-1 last 10, 4-0 away, beat Manglerud 6-2 recently; own est 0.78"
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.25,
+  "sources": [
+   "https://tipsbladet.no/ntb-sportens-helgeoversikt-28-30-november-2026/",
+   "https://mshockey.ticketco.events/no/en/m/e/manglerud_star__gjoevik_4",
+   "https://skiishockeyelite.ticketco.events/no/en"
+  ]
+ },
+ {
+  "eid": "sr:match:72124146",
+  "fx": "Ski Ishockey Elite v Gruner IL Oslo",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Norwegian 1st Division, Ski Ishall 16:00 local (15:00 UTC), free-admission game. Ski 2-8 conceding 5.83/g at home (1-11, 3-7, 1-8 losses); Gruner 4-6 but 1-4 away.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.28,
+    "p": 0.746277,
+    "why": "Gruner team total O2.5: Ski concede 5.1/g overall and 5.8 at home; Gruner away scoring only 2.2 tempers it; own est 0.76"
+   }
+  ],
+  "avoid": "Gruner ML (1-4 away) despite p 0.758.",
+  "confidence": 0.2,
+  "sources": [
+   "https://tipsbladet.no/ntb-sportens-helgeoversikt-28-30-november-2026/",
+   "https://mshockey.ticketco.events/no/en/m/e/manglerud_star__gjoevik_4",
+   "https://skiishockeyelite.ticketco.events/no/en"
+  ]
+ },
+ {
+  "eid": "sr:match:72122216",
+  "fx": "Narvik Ishockeyklubb v Lillehammer IK",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "EHL round 21; Narvik 16:00 local (15:00 UTC) per NTB/hockey4you. Lillehammer 1-9 last 10, 0-4 away conceding 4.75/g.",
+  "news": "Fixture and time confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.670553,
+    "why": "Narvik win incl OT: Lillehammer 1-9 and winless away; Narvik 4-3 at home; statistical only; own est 0.70"
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.itromso.no/sport/n/2vGMly/ntb-sportens-helgeoversikt-28-30-november-2026",
+   "https://www.hockey4you.no/en/kampoversikt-ehl/",
+   "https://live.hockey.no/",
+   "https://scores24.live/en/ice-hockey/m-28-11-2026-narvik-ishockeyklubb-lillehammer-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72122222",
+  "fx": "Storhamar Hockey v Nidaros Hockey",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "EHL round 21; Storhamar 8-2 v Nidaros. NTB weekend list gives 17:00 local (16:00 UTC) vs board 15:00 UTC; hockey4you lists Storhamar v Lillehammer in a 17:00 block.",
+  "news": "Kick-off conflict between NTB (17:00 local) and board (16:00 local).",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: NTB 17:00 local (16:00 UTC) v board 15:00 UTC.",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.itromso.no/sport/n/2vGMly/ntb-sportens-helgeoversikt-28-30-november-2026",
+   "https://www.hockey4you.no/en/kampoversikt-ehl/",
+   "https://live.hockey.no/",
+   "https://scores24.live/en/ice-hockey/m-28-11-2026-storhamar-hockey-nidaros-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72122220",
+  "fx": "Stavanger Oilers v Ringerike IHK Hoenefoss",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "EHL round 21; Stavanger 17:00 local (16:00 UTC) per NTB, matches board (HockeyLive shows 16:00, older page). Ringerike 2-8, 1-4 away conceding 4.0/g.",
+  "news": "Time confirmed by NTB; minor discrepancy on an older HockeyLive page.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.26,
+    "p": 0.752982,
+    "why": "Stavanger team total O2.5: Ringerike concede 3.8/g (4.0 away) and lost 8 of 10; own est 0.76"
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.itromso.no/sport/n/2vGMly/ntb-sportens-helgeoversikt-28-30-november-2026",
+   "https://www.hockey4you.no/en/kampoversikt-ehl/",
+   "https://live.hockey.no/"
+  ]
+ },
+ {
+  "eid": "sr:match:73579892",
+  "fx": "Hockey Unterland Cavaliers v Ritten Sport",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "AlpsHL; Unterland v Rittner Buam 18:30 CET (17:30 UTC) per eishockey.at. Unterland lost 3-0 at Meran 26 Nov; Ritten beat Zell 6-3 26 Nov. Unterland home GF 4.6/GA 4.0.",
+  "news": "Both played 26 Nov; no absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.29,
+    "p": 0.7368440328,
+    "why": "Unterland team total O1.5: Unterland score 4.6/g at home, Ritten concede 3.3/g; trend 0.85; own est 0.78"
+   }
+  ],
+  "avoid": "Ritten away ML p 0.65 < 0.75.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eishockey.at/en/game-center/alps",
+   "https://www.eliteprospects.com/league/alpshl",
+   "https://www.alps.hockey/en/"
+  ]
+ },
+ {
+  "eid": "sr:match:72122224",
+  "fx": "Vaalerenga IF Oslo v Frisk Asker",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "EHL round 21; Vaalerenga v Frisk Asker 18:30 local (17:30 UTC) per NTB, matches board. Vaalerenga 9-1 last 10, 4-0 at home scoring 5.5/g.",
+  "news": "Time confirmed by NTB; older HockeyLive page differs.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.8034032055,
+    "why": "Vaalerenga team total O1.5: 4.2 GF/g last 10, 5.5 at home, trend 0.85; Frisk concede 2.4; own est 0.83"
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.itromso.no/sport/n/2vGMly/ntb-sportens-helgeoversikt-28-30-november-2026",
+   "https://www.hockey4you.no/en/kampoversikt-ehl/",
+   "https://live.hockey.no/"
+  ]
+ },
+ {
+  "eid": "sr:match:73580010",
+  "fx": "Red Bull Hockey Juniors v WSV Broncos",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "AlpsHL; Red Bull Hockey Juniors (youth/development side) v Wipptal Broncos 19:15 CET (18:15 UTC) per eishockey.at.",
+  "news": "Youth side; date/time confirmed; no mismatch.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth side, no clear mismatch: no picks.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.eishockey.at/en/game-center/alps",
+   "https://www.eliteprospects.com/league/alpshl",
+   "https://www.alps.hockey/en/"
+  ]
+ },
+ {
+  "eid": "sr:match:73579894",
+  "fx": "EK Zeller Eisbaren v Jesenice",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "AlpsHL top-of-table clash: leaders Jesenice at Zell am See (league site preview 27 Nov). Zell lost 6-3 at Ritten 26 Nov. Jesenice 7-3, scoring 3.9/g; Zell concede 3.4 at home.",
+  "news": "League site confirms Jesenice visit Zell on 28 Nov; exact time not paired in snippet.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.28,
+    "p": 0.743743,
+    "why": "Jesenice team total O1.5: league leaders scoring 3.9/g (3.4 away), Zell concede 3.4 at home, trend 0.90; own est 0.78"
+   }
+  ],
+  "avoid": "Result sides in top-of-table clash.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.eishockey.at/en/game-center/alps",
+   "https://www.eliteprospects.com/league/alpshl",
+   "https://www.alps.hockey/en/"
+  ]
+ },
+ {
+  "eid": "sr:match:73579896",
+  "fx": "HC Gherdeina v SG Cortina",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "AlpsHL; Gherdeina (2025-26 champions) struggling: 4 reg. wins in 18, GA 76 in 18 (EP table). Russian listing 21:30 MSK = 19:30 CET = 18:30 UTC, matches board.",
+  "news": "Gherdeina leaking goals; Cortina beat Jesenice twice earlier this season.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.23,
+    "p": 0.7742341834,
+    "why": "Cortina team total O1.5: Gherdeina concede ~4.2/g this season, trend 0.90; own est 0.82"
+   }
+  ],
+  "avoid": "Gherdeina team Under 4.5 (p 0.78 < 0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.eishockey.at/en/game-center/alps",
+   "https://www.eliteprospects.com/league/alpshl",
+   "https://www.alps.hockey/en/",
+   "https://www.suedtirolnews.it/sport/wiedererstarktes-cortina-gastiert-bei-tabellenfuehrer-jesenice"
+  ]
+ },
+ {
+  "eid": "sr:match:73579898",
+  "fx": "HC Asiago v Khl Sisak",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "AlpsHL; Asiago home 20:00 CET (19:00 UTC) at Stadio Odegar per official HC Asiago calendar. Sisak 5th (32 pts) on 5 straight wins, won reverse fixture in October; beat KAC Future 6-3 on 26 Nov.",
+  "news": "Sisak in form (5 straight wins); Asiago 2nd/3rd.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "410",
+    "spec": "hcp=-1.5",
+    "desc": "Away (+1.5)",
+    "odds": 1.35,
+    "p": 0.7059581154,
+    "why": "Sisak +1.5 incl OT: Asiago fav only p 0.52 (<0.55 so +1.5 allowed); Sisak on 5-game win streak and won the first meeting; own est 0.74"
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.hcasiago.net/calendario.php",
+   "https://italien.news/sport/eishockey/asiago-hockey-sisak-heimspiel-alps-hockey-league/",
+   "https://www.eishockey.at/en/game-center/alps",
+   "https://www.eliteprospects.com/league/alpshl",
+   "https://www.alps.hockey/en/"
+  ]
+ }
+]
