@@ -165,5 +165,502 @@
    "https://dave.sport/news/jimmy-dunne-qpr-sheffield-united-injury-news/",
    "https://www.tufutbolero.com/en/news/qpr-sheffield-utd-sheffield-arrive-with-three-ruled-out-fdbce9"
   ]
+ },
+ {
+  "eid": "sr:match:72340098",
+  "fx": "West Bromwich Albion v Bristol City",
+  "sport": "football",
+  "absences": "Bristol City: Luke McNally (knee) concern at centre-back. West Brom: Max O'Leary in goal; striker scored twice at Bolton midweek, partners Jimmy-Jay Morgan.",
+  "context": "Championship. WBA chasing 9 unbeaten after 3-1 win at Bolton midweek; Bristol City 2-3-5 last 10, drew 1-1 v Wrexham Tuesday, searching for momentum.",
+  "news": "WBA in form, City missing key centre-back; previews 2-1 / 2-0 WBA.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.19,
+    "p": 0.8137,
+    "why": "WBA unbeaten in 8; City scoring 0.8/game and lose McNally at the back. Own p ~0.82."
+   }
+  ],
+  "avoid": "Over 2.5 (City attack blunt).",
+  "confidence": 0.3,
+  "sources": [
+   "https://thehardtackle.com/round-up/2026/11/27/west-brom-vs-bristol-city-preview-prediction-probable-lineups-tactics-team-news-key-stats/",
+   "https://dave.sport/news/west-brom-v-bristol-city-preview-november-2026/",
+   "https://www.livescore.com/en/news/football/england-championship/predictions/championship-predictions-all-12-matchday-18-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72340100",
+  "fx": "West Ham v Stoke City",
+  "sport": "football",
+  "absences": "West Ham: Alphonse Areola, Kyle Walker-Peters, Kieber Lamadrid out; GK choice Herrick/Hermansen open. Stoke: Ato Ampah (knee) out, Lamine Cisse muscle, Djibril Soumare doubt.",
+  "context": "Championship. West Ham (Scott Parker) winless in 6, lost 1-0 at Portsmouth midweek; Stoke 5 straight wins and 11-point lead. Big-club clash with the house pricing the reverse of form.",
+  "news": "Form strongly against the 1.68 home favourite; divergence between house and form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "West Ham 1X2/DNB (fragile favourite, winless 6) - skip, do not 'fix' with DNB; Stoke result side divergent from house (R5).",
+  "confidence": 0.25,
+  "sources": [
+   "https://greenstreethammers.com/west-ham-vs-stoke-preview-prediction-team-news-and-lineups-01m8bpr8zvz8",
+   "https://dave.sport/news/west-ham-v-stoke-injury-news-november-2026/",
+   "https://ukpulse.co.uk/news/stoke-citys-five-game-winning-streak-sets-up-london-stadium-clash"
+  ]
+ },
+ {
+  "eid": "sr:match:72340102",
+  "fx": "Wrexham AFC v Portsmouth FC",
+  "sport": "football",
+  "absences": "Wrexham: Callum O'Hare, Josh Windass, Nathan Broadhead, Sam Smith, Liberato Cacace, Seb Revan all missed Tuesday's 1-1 at Bristol City. Assistant Steve Parkin leaving after this game.",
+  "context": "Championship. Portsmouth beat West Ham 1-0 midweek (Odin Bailey). Both strong defences (1.0 / 0.9 ga).",
+  "news": "Wrexham depleted; tight low-scoring profile; LiveScore 1-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Wrexham result side (6 attackers/wide players out); Under 3.5 p 0.79 below 0.82 gate.",
+  "confidence": 0.2,
+  "sources": [
+   "https://dave.sport/news/wrexham-v-portsmouth-preview-november-2026",
+   "https://onefootball.com/en/news/wrexham-have-a-special-reason-to-beat-portsmouth-on-saturday-43851424",
+   "https://www.livescore.com/en/news/football/england-championship/predictions/championship-predictions-all-12-matchday-18-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341406",
+  "fx": "AFC Wimbledon v Barnsley FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "League One. Barnsley bottom (9 pts from 15); Wimbledon 18th after 4-1 home loss to Leyton Orient. Relegation scrap, both leaky (Wimbledon 2.9 ga, Barnsley 2.1 ga last 10).",
+  "news": "Strugglers meeting; previews 1-0 / 1-1 / 2-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.48,
+    "p": 0.6419,
+    "why": "Both defences conceding 2+ per game; Wimbledon scored in all of last 6, Barnsley in 5 of 6. Own p ~0.66."
+   }
+  ],
+  "avoid": "Result sides (both bottom-four form).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/afc-wimbledon/preview/afc-wimbledon-vs-barnsley-prediction-team-news-lineups_609941.html",
+   "https://squawka.com/en/news/previews/afc-wimbledon-vs-barnsley-predictions-betting-tips-28-11-26",
+   "https://news.williamhill.com/league-one/betting-tips-stockport/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341408",
+  "fx": "Bromley FC v Burton Albion",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "League One. Bromley 1 home win all season (0-3 hh last); Burton 3 straight league defeats.",
+  "news": "Two out-of-form sides; previews split 2-0 / 1-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (no mechanism).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-11-week-17-games/",
+   "https://news.williamhill.com/league-one/betting-tips-stockport/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341412",
+  "fx": "Leicester v Mansfield Town",
+  "sport": "football",
+  "absences": "Leicester: Will Smallbone out. Mansfield: Deji Oshilaja, Louis Reed, George Abbott back; Frazer Blake-Tracy, Baily Cargill not yet.",
+  "context": "League One. Leicester unbeaten in last 4 home; Mansfield winless in 3, 2 wins in 7 away, drew 1-1 with MK Dons.",
+  "news": "Leicester favourites; LiveScore 2-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.53,
+    "p": 0.6318,
+    "why": "Leicester 6-2-2 last 10, unbeaten at home; Mansfield 2/7 away wins. Own p ~0.64."
+   }
+  ],
+  "avoid": "Unders (Leicester games 2-2, 4-2).",
+  "confidence": 0.3,
+  "sources": [
+   "https://sportsmole.co.uk/football/leicester-city/preview/leicester-vs-mansfield-prediction-team-news-lineups_609929.html",
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-11-week-17-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341414",
+  "fx": "Luton v Oxford United",
+  "sport": "football",
+  "absences": "Oxford: Siriki Dembele out, Jamie Cumming back from suspension. Luton: Shandon Baptiste, Kal Naismith and several others sidelined.",
+  "context": "League One top-4 clash: Luton 4th (5-0 hh), Oxford 3rd unbeaten in 11 league.",
+  "news": "Marquee game, LiveScore 1-1; Luton absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (top-of-table clash, Oxford unbeaten 11).",
+  "confidence": 0.2,
+  "sources": [
+   "https://lastwordonsports.com/football/2026/11/26/team-news-form-and-predicted-line-up-as-oxford-united-travel-to-luton",
+   "https://lastwordonsports.com/football/2026/11/26/oxford-united-team-and-injury-news-for-trip-to-luton",
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-11-week-17-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341420",
+  "fx": "Sheffield Wednesday v Reading FC",
+  "sport": "football",
+  "absences": "Sheff Wed: Mason Burstow, Reece James, Max Lowe, Tyler Onyango likely out. Reading: Patrick Lane, Benn Ward concerns.",
+  "context": "League One. Wednesday unbeaten 5 league / 7 at Hillsborough; Reading 3 straight league defeats, 1 away win all season; Reading boss Leam Richardson reportedly under pressure ('could be last game').",
+  "news": "Home-leaning previews (2-1, 2-0, 1-1).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.39,
+    "p": 0.6779,
+    "why": "Wednesday unbeaten 7 at home; Reading lost 3 straight with one away win. Manager-pressure game cuts both ways. Own p ~0.71."
+   }
+  ],
+  "avoid": "Reading result side.",
+  "confidence": 0.25,
+  "sources": [
+   "https://the72.co.uk/2026/11/26/sheffield-wednesday-vs-reading-predictions/",
+   "https://uk.sports.yahoo.com/news/could-last-game-charge-sheffield-082059961.html",
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-11-week-17-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341422",
+  "fx": "Stevenage FC v Blackpool FC",
+  "sport": "football",
+  "absences": "no named absences found; one table lists Blackpool manager Ian Evatt sacked 19 Nov (unconfirmed).",
+  "context": "League One. Stevenage conceded 13 in 14; Blackpool 20th on 13 pts.",
+  "news": "Previews lean Stevenage 1-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.25,
+    "p": 0.76,
+    "why": "Stevenage best defence (13 conceded in 14), 4 home wins in 5; Blackpool 20th with possible managerial upheaval. Own p ~0.77."
+   }
+  ],
+  "avoid": "Overs (Stevenage low-event).",
+  "confidence": 0.25,
+  "sources": [
+   "https://squawka.com/en/news/previews/stevenage-vs-blackpool-predictions-betting-tips-28-11-26",
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-11-week-17-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341424",
+  "fx": "Stockport County FC v Leyton Orient London",
+  "sport": "football",
+  "absences": "Leyton Orient: Sean Clare, Oliver Dovin, Oliver O'Neill, Nicholas Oyekunle out; Demetri Mitchell pushing to return.",
+  "context": "League One leaders Stockport on 5-game winning streak, won 5 of 5 at home; Orient 12th (won 4-1 at Wimbledon last time).",
+  "news": "Stockport in form; Orient four out.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.41,
+    "p": 0.6886,
+    "why": "Leaders on 5 straight wins, 100% at home last 5, Orient missing four incl. Clare. Own p ~0.71."
+   }
+  ],
+  "avoid": "Orient result side.",
+  "confidence": 0.3,
+  "sources": [
+   "https://news.williamhill.com/league-one/betting-tips-stockport/",
+   "https://www.livescore.com/en/news/football/england-league-one/league-one-predictions-all-11-week-17-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:72341426",
+  "fx": "Wigan Athletic v Plymouth Argyle",
+  "sport": "football",
+  "absences": "Wigan: Caldwell gave updates on 4 injuries (names not found). Plymouth: 'triple injury boost' (names not found).",
+  "context": "League One mid-table; Wigan 6-1-3, 3-0 hh; Plymouth lost 2-0 at home to Peterborough last time.",
+  "news": "Headline-only injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (coin-flip pricing).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/wigan-athletic",
+   "https://www.newsnow.co.uk/h/Sport/Football/League+One/Wigan+Athletic"
+  ]
+ },
+ {
+  "eid": "sr:match:72341428",
+  "fx": "Wycombe Wanderers v Bradford City FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "League One. Bradford 5-4-1, 0.5 ga last 10; Wycombe 4-4-2.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Wycombe result side v in-form Bradford.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/league-1"
+  ]
+ },
+ {
+  "eid": "sr:match:72342408",
+  "fx": "Colchester United v York City FC",
+  "sport": "football",
+  "absences": "Colchester: Rob Hunt, Ellis Iandolo, Beryly Lubala, Kaion Lisbie (meniscus surgery), Kylian Kouassi out.",
+  "context": "League Two. Cowley wants a response after defeat; York ~5th and possession-based. Colchester have a midweek trip to Grimsby after this.",
+  "news": "Colchester depleted; York in top 7.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.37,
+    "p": 0.6846,
+    "why": "Colchester missing five incl. striker Lisbie; York top-five side. Own p ~0.69."
+   }
+  ],
+  "avoid": "Colchester result side.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.gazette-news.co.uk/sport/colchesterunited/26770735.colchester-united-boss-danny-cowley-previews-york-city-clash/",
+   "https://gazette-news.co.uk/sport/colchesterunited/26767396.colchester-united-injury-update-ahead-york-city-clash"
+  ]
+ },
+ {
+  "eid": "sr:match:72342410",
+  "fx": "Crewe Alexandra v Grimsby Town",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "League Two. Both on 24 pts; Crewe 2.4 ga, Grimsby 2.3 gf / 2.1 ga last 10; Grimsby results 4-1, 6-5, 5-2, 4-1.",
+  "news": "LiveScore predicts 2-2.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7933,
+    "why": "Grimsby last 6: 5 of 6 had 3+ goals; Crewe conceding 2.4. Own p ~0.82."
+   }
+  ],
+  "avoid": "Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livescore.com/en/news/tips/all-12-league-two-predictions-november-28-2026/",
+   "https://news.williamhill.com/league-two/league-2-tips-saturday-28th-november-salford-to-extend-lead-at-the-top"
+  ]
+ },
+ {
+  "eid": "sr:match:72342414",
+  "fx": "Fleetwood Town v Accrington Stanley",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "League Two. Fleetwood 5-1 hh; Accrington 4-4-2.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (no mechanism).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livescore.com/en/news/tips/all-12-league-two-predictions-november-28-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72342416",
+  "fx": "Port Vale v Newport County",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "League Two. Port Vale won 6 of 6 at home (4-2, 4-2, 4-2, 5-0); Newport 4-3-3, beat Swindon 2-0.",
+  "news": "LiveScore 1-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.25,
+    "p": 0.7613,
+    "why": "Vale perfect home record in last 6 with 2.2 gf. Own p ~0.78."
+   }
+  ],
+  "avoid": "Unders (Vale home games high scoring).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livescore.com/en/news/tips/all-12-league-two-predictions-november-28-2026/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_League_Two"
+  ]
+ },
+ {
+  "eid": "sr:match:72342418",
+  "fx": "Rochdale AFC v Barnet FC",
+  "sport": "football",
+  "absences": "no named absences found",
+  "context": "League Two. Rochdale 4 straight league defeats (3-2 at Northampton), lost last 3 home; Barnet 2nd (26 pts from 13 at Nov 14).",
+  "news": "Barnet top-two side v collapsing Rochdale.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.25,
+    "p": 0.7624,
+    "why": "Rochdale 1-2-7 last 10, 0 wins in last 3 home, conceding 2.9; Barnet 6-3-1. Away 1X2 p 0.52 below gate, so DC. Own p ~0.78."
+   }
+  ],
+  "avoid": "Barnet 1X2 (p<0.75).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.livescore.com/en/news/tips/all-12-league-two-predictions-november-28-2026/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_EFL_League_Two"
+  ]
+ },
+ {
+  "eid": "sr:match:72342420",
+  "fx": "Rotherham United v Oldham Athletic",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "League Two. Rotherham 23rd with 2 league wins; Oldham 4-2-4.",
+  "news": "LiveScore predicts Rotherham 2-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (no mechanism).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livescore.com/en/news/tips/all-12-league-two-predictions-november-28-2026/",
+   "https://news.williamhill.com/league-two/league-2-tips-saturday-28th-november-salford-to-extend-lead-at-the-top"
+  ]
+ },
+ {
+  "eid": "sr:match:72342422",
+  "fx": "Salford City v Gillingham FC",
+  "sport": "football",
+  "absences": "Salford: Daniel Udoh and Elliott Bonds suspended (red cards v Accrington); Matt Butcher, Ben Woodburn may be recalled. Gillingham: seven first-team players missing.",
+  "context": "League Two leaders Salford (33 pts from 16). Absences both sides.",
+  "news": "LiveScore 3-1 Salford; William Hill backs Salford to extend lead.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.49,
+    "p": 0.6446,
+    "why": "League leaders v Gillingham missing seven; Salford lose two suspended players. Own p ~0.64 (\u2248house)."
+   }
+  ],
+  "avoid": "Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.whoscored.com/matches/1990229/preview/england-league-two-2026-2027-salford-city-gillingham",
+   "https://www.livescore.com/en/news/tips/all-12-league-two-predictions-november-28-2026/",
+   "https://news.williamhill.com/league-two/league-2-tips-saturday-28th-november-salford-to-extend-lead-at-the-top"
+  ]
+ },
+ {
+  "eid": "sr:match:72342424",
+  "fx": "Shrewsbury Town v Cheltenham Town",
+  "sport": "football",
+  "absences": "Cheltenham: Shaun McWilliams sent off v Bristol Rovers (likely suspended).",
+  "context": "League Two. Cheltenham have conceded most goals in the division (2.7 ga last 10); Shrewsbury 5-1-4.",
+  "news": "LiveScore 2-1 Shrewsbury.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.24,
+    "p": 0.7706,
+    "why": "Cheltenham worst defence, lost 3-0 at home to Rovers with McWilliams sent off. Own p ~0.78."
+   }
+  ],
+  "avoid": "Cheltenham result side.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livescore.com/en/news/tips/all-12-league-two-predictions-november-28-2026/",
+   "https://footballlowdown.com/it-means-nothing-bristol-rovers-issued-warning-following-impressive-cheltenham-town-victory/"
+  ]
+ },
+ {
+  "eid": "sr:match:72342426",
+  "fx": "Swindon Town v Chesterfield FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "League Two. Chesterfield 3rd (2.8 gf last 10); Swindon 2-2-6, 0.9 gf, lost 2-0 at Newport.",
+  "news": "LiveScore 1-2 Chesterfield.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.24,
+    "p": 0.7681,
+    "why": "Chesterfield scoring 2.8 a game; Swindon 2 wins in 10. Away 1X2 p 0.53 below gate, so DC. Own p ~0.78."
+   }
+  ],
+  "avoid": "Swindon result side.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.livescore.com/en/news/tips/all-12-league-two-predictions-november-28-2026/",
+   "https://www.skysports.com/league-2"
+  ]
+ },
+ {
+  "eid": "sr:match:72342428",
+  "fx": "Walsall FC v Northampton Town",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "League Two. Tight defences (Walsall 12, Northampton 14 conceded); Northampton beat Rochdale 3-2.",
+  "news": "Previews: tight game; LiveScore Northampton DC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (p<0.82 gate), result sides.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.expressandstar.com/sport/football/walsall-fc/walsall-v-northampton-saddlers-told-to-find-ruthless-streak-9375512",
+   "https://www.whoscored.com/matches/1990235/preview/england-league-two-2026-2027-walsall-northampton",
+   "https://www.livescore.com/en/news/tips/all-12-league-two-predictions-november-28-2026/"
+  ]
  }
 ]
