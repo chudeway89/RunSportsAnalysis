@@ -1,0 +1,698 @@
+[
+ {
+  "eid": "sr:match:72304378",
+  "fx": "FK Otrant-Olympic Ulcinj v FK Mornar Bar",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Montenegro 1. CFL; Otrant-Olympic reported 1st after 10 games, Mornar 6th; Mornar beat Otrant 3-0 in cup 13 Oct.",
+  "news": "DATE CONFLICT: 1cfl.me lists Nov 28 12:55, globalscorex preview lists 29 Nov 14:00 UTC.",
+  "veto": true,
+  "veto_reason": "date conflict between sources (28 vs 29 Nov)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.1cfl.me/en/",
+   "https://www.globalscorex.com/football/match/1558570/otrant-olympic-vs-mornar-2026-11-29",
+   "https://www.sofascore.com/football/match/fk-otrant-olympic-fk-mornar-bar/uvosdTo"
+  ]
+ },
+ {
+  "eid": "sr:match:73866648",
+  "fx": "Dacia Buiucani v FC Zimbru Chisinau",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Moldova Super Liga; Zimbru in strong form (5W 3D 2L, GA 0.7); Dacia scoring 3.2/g at home.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.804319,
+    "why": "Dacia avg 3.2 GF at home (6-0, 3-1, 2-0), Zimbru scoring 2.2/g; both sides score freely; own p 0.81"
+   }
+  ],
+  "avoid": "Zimbru away 1X2 (p 0.61 < 0.75); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/football/match/dacia-buiucani-fc-zimbru-chisinau/pfcsETw"
+  ]
+ },
+ {
+  "eid": "sr:match:72594690",
+  "fx": "Koninklijke HFC v Rkav Volendam",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result sides; Volendam amateur side, no news",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:72596264",
+  "fx": "VV Zwaluwen Vlaardingen v VV Gemert",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derde Divisie amateur; no news",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:72594692",
+  "fx": "GVVV Veenendaal v BVV Barendrecht",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.675029,
+    "why": "GVVV 6/6 home wins (GF 3.17), Barendrecht 5L in 10 conceding 2.1; own p 0.68 (frost-void risk)"
+   }
+  ],
+  "avoid": "Unders; integer lines",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:72594694",
+  "fx": "HHC Hardenberg v VV Katwijk",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hardenberg low-scoring (1.3 GF); no edge",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:72594696",
+  "fx": "Rijnsburgse Boys v SV Spakenburg",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Spakenburg 0/5 away; result sides murky; no news",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:72595580",
+  "fx": "ACV Assen v Harkemase Boys",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derde Divisie amateur; no news",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:72596258",
+  "fx": "Excelsior Maassluis v Dongen",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Derde Divisie amateur; no news",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:72594698",
+  "fx": "IJsselmeervogels v Jong Sparta Rotterdam",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "no news found; Jong Sparta Rotterdam is a reserve side",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.33,
+    "p": 0.720992,
+    "why": "Jong Sparta (reserve) 1W in 10, GA 2.4, games 5-5, 3-3, 1-4; goals market only; own p 0.74"
+   }
+  ],
+  "avoid": "result sides (reserve opponent rule: goals only)",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:72594704",
+  "fx": "K.v.v. Quick Boys v De Treffers Groesbeek",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "Quick Boys club preview confirms fixture (15:00 local per club/voetbalscore vs 14:00 UTC board = consistent)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.675965,
+    "why": "Quick Boys 5/5 home wins, GF 3.4 GA 0.4; De Treffers 2W 3L away; own p 0.70"
+   }
+  ],
+  "avoid": "Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:72594702",
+  "fx": "Kozakken Boys Werkendam v Amsterdamsche FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.7535002304,
+    "why": "Kozakken 8 games unbeaten-ish (5W3D2L), AFC away GA 2.5; own p 0.75"
+   }
+  ],
+  "avoid": "Unders; AFC +2",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:72594706",
+  "fx": "Rohda Raalte v Hoek",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Rohda 1W in 10 but Hoek away 1W 3L; away 1X2 p 0.65 < 0.75",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:72594700",
+  "fx": "VV Kloetinge v Jong Almere City FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Dutch amateur (Tweede/Derde Divisie). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "no news found; Jong Almere City is a reserve side",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Jong Almere City reserve; no clear goals edge",
+  "confidence": 0.2,
+  "sources": [
+   "https://voetbalscore.nl/programma/tweede-divisie",
+   "https://ligatoday.com/league/tweede-divisie-netherlands/",
+   "https://www.voetbalprimeur.nl/competities/tweede-divisie",
+   "https://www.voetbalgelderland.nl/eerste-competitiewedstrijden-zaterdag-28-november-al-afgelast/",
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://kiosknews.app/article/98c6eed7cd69cd60"
+  ]
+ },
+ {
+  "eid": "sr:match:77146770",
+  "fx": "Wydad Fes v Olympique Club of Khouribga",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Morocco Botola Pro D2 round 10.",
+  "news": "DATE CONFLICT: BeSoccer lists Wydad Fes v OC Khouribga 2026-11-29 15:00+01:00, board has 11-28 15:00 UTC.",
+  "veto": true,
+  "veto_reason": "date conflict (28 vs 29 Nov)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.besoccer.com/team/matches/ock-khouribga"
+  ]
+ },
+ {
+  "eid": "sr:match:72041268",
+  "fx": "Excelsior Rotterdam v SC Telstar",
+  "sport": "football",
+  "absences": "Excelsior: no new injuries/suspensions reported. Telstar: Nokkvi Thorisson and Jeff Hardeveld in contention up front.",
+  "context": "Eredivisie, promoted-side clash; Telstar reported 16th with 10 pts; Excelsior lost all 4 home games in data (incl. 0-9). Severe frost/snow in NL: KNVB postponed 5 KKD games incl. FC Emmen-Helmond and Cambuur O21-Feyenoord O21; many amateur games called off; no confirmed Tweede/Derde Divisie postponement found (postponed = void).",
+  "news": "Previews tip 2-1 Excelsior; Telstar games 3+ goals in ~80%.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.797346,
+    "why": "Excelsior home GA 4.25, Telstar games 4-2, 3-4, 2-3, 2-2; Telstar 3+ goals in ~80% (bet-experts); own p 0.82"
+   }
+  ],
+  "avoid": "result sides (both poor); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/sbv-excelsior/preview/excelsior-vs-telstar-prediction-team-news-lineups_609968.html",
+   "https://www.bet-experts.nl/nieuws/wedtips-excelsior-sc-telstar-voorspelling-odds-opstellingen",
+   "https://eredivisiestat.nl/kamp/excelsior-telstar-2026-11-28"
+  ]
+ },
+ {
+  "eid": "sr:match:72044864",
+  "fx": "FC Emmen v Helmond Sport",
+  "sport": "football",
+  "absences": "n/a",
+  "context": "Keuken Kampioen Divisie.",
+  "news": "POSTPONED: KNVB called off FC Emmen v Helmond Sport (frost/snow, De Oude Meerdijk unplayable); no new date.",
+  "veto": true,
+  "veto_reason": "match postponed (frost)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.voetbalprimeur.nl/nieuws/2163819/fc-emmen-helmond-sport-afgelast-vanwege-winterweer.html",
+   "https://drimble.nl/regio/drenthe/emmen/108736941/fc-emmen-helmond-sport-afgelast.html"
+  ]
+ },
+ {
+  "eid": "sr:match:77114596",
+  "fx": "CODM Meknes v Renaissance Zemamra",
+  "sport": "football",
+  "absences": "no news found (Mediapronos probable XIs only)",
+  "context": "Botola Pro D1; low-scoring league; Zemamra 1W in 10.",
+  "news": "Mediapronos preview confirms 28-11 17:00 Paris (=16:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.26,
+    "p": 0.7489832333,
+    "why": "CODM 5W3D2L, GA 1.0; Zemamra 1W 4D 5L, GF 1.0; Botola draws common so 1X covers; own p 0.76"
+   }
+  ],
+  "avoid": "away picks (Botola rule); Overs",
+  "confidence": 0.25,
+  "sources": [
+   "https://mediapronos.com/pronostic-codm-meknes-renaissance-zemamra-compo-probable-28-11"
+  ]
+ },
+ {
+  "eid": "sr:match:75069294",
+  "fx": "SC Cambuur v Feyenoord Rotterdam",
+  "sport": "football",
+  "absences": "n/a",
+  "context": "U21 youth league.",
+  "news": "POSTPONED: SC Cambuur O21 v Feyenoord O21 called off for winter weather; no new date.",
+  "veto": true,
+  "veto_reason": "match postponed; youth",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://1908.nl/artikelen/duel-tussen-sc-cambuur-o21-en-feyenoord-o21-afgelast"
+  ]
+ },
+ {
+  "eid": "sr:match:72041280",
+  "fx": "PSV Eindhoven v Go Ahead Eagles",
+  "sport": "football",
+  "absences": "PSV: Mauro Junior (groin), Jerdy Schouten (knee), Alassane Plea (knee), Sami Ouaissa (knee), Adamo Nagalo (unfit) out; Ivan Perisic doubtful (Bajraktarevic starts). Go Ahead: Pim Saathof, Nick Marsman out; Dean James, Evert Linthorst, Richonell Margaret doubtful.",
+  "context": "Eredivisie; voetbalnieuws: Bosz rests a key player (rotation sign). PSV form patchy in data (5W in 10).",
+  "news": "PSV heavy absences + rotation; GAE also weakened at the back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.788475,
+    "why": "PSV strong at home (GA 0.75) and GAE missing Saathof/Marsman with doubts on James/Linthorst; but 5 PSV absentees + rotation trims it: own p 0.76"
+   }
+  ],
+  "avoid": "PSV -1.5/-2.5; Overs 3.5+",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.voetbalnieuws.nl/nieuws/2163748/de-vermoedelijke-opstelling-van-psv-voor-het-duel-met-go-ahead-eagles-vn.html",
+   "https://news.bet365.nl/nl-nl/article/psv-go-ahead-eagles-in-eredivisie-blessures-opstellingen-h2h-tv-gids-vorm-voorspellingen-en-meer/2026112511485518789",
+   "https://www.whoscored.com/matches/1982353/preview/netherlands-eredivisie-2026-2027-psv-eindhoven-go-ahead-eagles"
+  ]
+ },
+ {
+  "eid": "sr:match:74063644",
+  "fx": "Canoneros Marina v Halcones Negros FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Mexico Liga Premier Serie A; Canoneros 0W in 10, GA 3.9.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "only O/U 4.5 offered; no market in band with mechanism",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72041282",
+  "fx": "SC Cambuur v Sparta Rotterdam",
+  "sport": "football",
+  "absences": "Sparta: Bruno Martins Indi suspended (red v AZ), Teo Quintero and Max de Ligt injured. Cambuur: Jamal Amofa (ACL, season); possibly Berkhout, Westerhof, Meijster (single source).",
+  "context": "Eredivisie; Cambuur 8th, Sparta 14th; Sparta conceding 3.2/g in last 10. Frost risk.",
+  "news": "Sparta defence depleted (Martins Indi ban).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.43,
+    "p": 0.6808302551,
+    "why": "Cambuur GF 2.6, Sparta GA 3.2 and missing CB Martins Indi + De Ligt; own p 0.72"
+   },
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.39,
+    "p": 0.685248,
+    "why": "Cambuur 1L in 10, Sparta 6L in 10 with depleted back line; own p 0.72"
+   }
+  ],
+  "avoid": "Unders; Sparta sides",
+  "confidence": 0.3,
+  "sources": [
+   "https://news.bet365.nl/nl-nl/article/cambuur-sparta-rotterdam-vorm-opstellingen-voorspelling-waar-je-kan-kijken-en-odds/2026112617305852767",
+   "https://pouletips.nl/eredivisie/sc-cambuur/opstelling/",
+   "https://bet-experts.nl/nieuws/sc-cambuur-sparta-rotterdam-voorspelling-wedtips"
+  ]
+ },
+ {
+  "eid": "sr:match:74063648",
+  "fx": "Cdm FC v Real Refineros Cds",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga Premier Serie A; third tier. Could not confirm whether round is regular season or liguilla.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.35,
+    "p": 0.698127,
+    "why": "Refineros GA 3.3 in last 10 (0-6, 3-3), Cdm GF 2.7, home 3.5; own p 0.72"
+   }
+  ],
+  "avoid": "Unders (regional tier); result sides without news",
+  "confidence": 0.2,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74063646",
+  "fx": "Guerreros de Autlan v Saltillo Soccer FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga Premier Serie A; third tier. Could not confirm whether round is regular season or liguilla.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.25,
+    "p": 0.754616,
+    "why": "Autlan 5/5 home wins GF 4.6 (7-0, 8-1), Saltillo 0/5 away GA 3.4; own p 0.78"
+   }
+  ],
+  "avoid": "Unders (regional tier); result sides without news",
+  "confidence": 0.2,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74101066",
+  "fx": "Jaguares FC v Tapachula Soconusco FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga Premier (Serie A Grupo 2) J14, last game of first half for Tapachula; Tapachula 2W 8L, 0/4 away.",
+  "news": "El Orbe confirms Jaguares v Tapachula Sat 28 Nov 18:00 local (=00:00 UTC 29th), Estadio Victor Manuel Reyna.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.781482,
+    "why": "Jaguares unbeaten at home (3W2D), Tapachula lost all 4 away and 8 of 10; own p 0.76"
+   }
+  ],
+  "avoid": "Unders; BTTS",
+  "confidence": 0.25,
+  "sources": [
+   "https://elorbe.com/al-instante/2026/11/26/tapachula-fc-cierra-la-primera-vuelta-visitando-a-jaguares-fc.html"
+  ]
+ },
+ {
+  "eid": "sr:match:74101068",
+  "fx": "Club Celaya FC v Inter Playa Del Carmen",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Mexico lower tier; fixture not confirmed by any source.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (no confirmation of fixture)",
+  "confidence": 0.15,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74063652",
+  "fx": "La Tribu de Ciudad Juarez v Mineros de Fresnillo FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga Premier Serie A; La Tribu 6/7 home wins GF 3.43.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.41,
+    "p": 0.665376,
+    "why": "La Tribu 6W of 7 at home (8-0, 5-0, 4-1), Mineros 1W in 4 away; own p 0.68"
+   }
+  ],
+  "avoid": "Unders",
+  "confidence": 0.2,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:77109002",
+  "fx": "Atlas FC v Deportivo Toluca FC",
+  "sport": "football",
+  "absences": "Atlas: Milton Valenzuela (muscle, left leg) doubtful; Paulo Ramirez still recovering. Toluca: no confirmed absences.",
+  "context": "Liga MX Apertura 2026 QF 2nd leg (KNOCKOUT). Toluca won 1st leg 2-0 (Helinho x2). Atlas (4th, 28 pts) advance on aggregate tie, so need to win by 2.",
+  "news": "Atlas must chase a 2-goal deficit at Estadio Jalisco.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.62,
+    "p": 0.581599,
+    "why": "Knockout -> DNB only; Toluca protected by 2-0 cushion, Atlas home GA 2.8 must open up so Toluca counters; own p 0.60"
+   }
+  ],
+  "avoid": "1X2 result sides (knockout); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.informador.mx/deportes/liga-mx-remontada-o-eliminacion-atlas-se-juega-todo-en-casa-en-la-vuelta-de-los-cuartos-de-final-del-apertura-2026-20261127-0128.html",
+   "https://www.infobae.com/mexico/deportes/2026/11/27/quien-avanza-a-semifinales-de-la-liga-mx-asi-marcha-la-liguilla-del-apertura-2026-tras-los-partidos-de-ida/",
+   "https://www.elimparcial.com/deporte/2026/11/27/atlas-vs-toluca-a-que-hora-y-donde-ver-en-vivo-y-gratis-el-partido-de-vuelta-de-los-cuartos-de-final-del-apertura-2026-de-la-liga-mx/"
+  ]
+ },
+ {
+  "eid": "sr:match:76911554",
+  "fx": "Club Atletico La Paz v Atletico Morelia",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Liga de Expansion Apertura 2026 FINAL 2nd leg (KNOCKOUT) at Estadio Guaycura; first leg reportedly Morelia 4-1 La Paz (one source + Sportradar h2h 1-4), so La Paz need to win by 3.",
+  "news": "Final; first-leg score only partially confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.768381,
+    "why": "La Paz must attack chasing 3 goals, Morelia counters into space; La Paz home games 3-3, 3-0, 1-1; own p 0.79"
+   }
+  ],
+  "avoid": "result sides (knockout final); Morelia +1.5 catch",
+  "confidence": 0.25,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Torneo_Apertura_2026_Liga_de_Expansi%C3%B3n",
+   "https://www.mediotiempo.com/futbol/liga-de-expansion-mx/morelia-vs-atletico-la-paz-a-que-hora-y-donde-ver-final-ida-liga-expansion-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:77109000",
+  "fx": "CF America v CF Monterrey",
+  "sport": "football",
+  "absences": "Monterrey: Hugo Cuypers (micro-tear), Diego Rossi (back), Esteban Andrada (knee surgery) out; Ricardo Chavez suspended (red in 1st leg); Carlos Salcedo status conflicting. America: Raphael Veiga (shoulder), Victor Davila, Raul Zuniga (knees) out; Henry Martin doubtful; Brian Rodriguez and Erick Sanchez return.",
+  "context": "Liga MX QF 2nd leg (KNOCKOUT) at Estadio Banorte; 1st leg 0-0; higher seed advances on aggregate tie (America host = higher seed).",
+  "news": "Monterrey must win without Cuypers, Rossi, Andrada, Chavez.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.55,
+    "p": 0.612471,
+    "why": "Knockout -> DNB; Monterrey lose top scorer Cuypers, Rossi, GK Andrada and Chavez (ban); America at home with returning Rodriguez; own p 0.64"
+   }
+  ],
+  "avoid": "1X2 (knockout); Unders (p<0.82); Monterrey sides",
+  "confidence": 0.25,
+  "sources": [
+   "https://laopinion.com/2026/11/27/rayados-sufre-las-bajas-por-lesion-de-hugo-cuypers-y-diego-rossi-para-enfrentar-al-america/",
+   "https://latingoles.com/poder-ofensivo-el-uruguayo-brian-rodriguez-apunta-al-regreso-titular-del-america/",
+   "https://www.elimparcial.com/deporte/2026/11/27/america-vs-monterrey-a-que-hora-y-donde-ver-en-vivo-el-partido-de-vuelta-de-los-cuartos-de-final-del-apertura-2026-de-la-liga-mx/"
+  ]
+ }
+]
