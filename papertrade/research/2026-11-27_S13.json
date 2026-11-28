@@ -1,0 +1,554 @@
+[
+ {
+  "eid": "sr:match:111111114486775",
+  "fx": "Inter Taoyuan v Kaohsiung Attackers Reserves",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taiwan Football League 2, reserve side away (Kaohsiung Attackers Reserves). No Sportradar data. One 2026-27 club list on Wikipedia omits Inter Taoyuan (unconfirmed), Sofascore lists the fixture.",
+  "news": "Reserve side; possible participant-list inconsistency; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All markets: reserve side, no data, thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/kaohsiung-attackers-inter-taoyuan/jaxhsvpnj",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Taiwan_Football_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:71998290",
+  "fx": "PFC Lokomotiv Plovdiv v FK Spartak 1918 Varna",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Parva Liga mid-table; both sides low-scoring (Lok GF 0.8/GA 0.8 last 10). Spartak won the Aug 3 meeting 1-0.",
+  "news": "no news found for this fixture; last meetings 1-1 (Feb) and 0-1 (Aug).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 (p 0.78 < 0.82 gate); result sides coin-flip.",
+  "confidence": 0.15,
+  "sources": [
+   "https://nostrabet.com/en/tips/spartak-varna-lokomotiv-plovdiv/",
+   "https://www.forebet.com/en/football/matches/spartak-varna-lokomotiv-plovdiv-2469116"
+  ]
+ },
+ {
+  "eid": "sr:match:73349718",
+  "fx": "Boeung Ket Angkor FC v Tiffy Army FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "CPL round 9: Boeung Ket 7th, Tiffy Army (RCAF) 11th/last. Tiffy lost all last 10 (GA 4.3, 0 goals in 4 away).",
+  "news": "Fixture confirmed 28 Nov 11:00 UTC (Sofascore/Betexplorer, Olympic Stadium Phnom Penh); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.742739,
+    "why": "Bottom side Tiffy Army 0W10L, conceding 5.0/away game; Boeung Ket home GF 2.6. Own p 0.78. Thin league, low conf."
+   }
+  ],
+  "avoid": "Home -1.5 (Boeung Ket defence leaks 2.3/game); totals.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sofascore.com/football/match/tiffy-army-fc-boeung-ket-fc/umNsNkLd",
+   "https://www.betexplorer.com/football/cambodia/cpl/"
+  ]
+ },
+ {
+  "eid": "sr:match:73349720",
+  "fx": "Isi Dangkor Senchey FC v MOI Kompong Dewa FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "CPL; MOI Kompong Dewa strong away (4W in 8). Only Betexplorer lists it (28 Nov 12:00 CET = 11:00 UTC, consistent).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away DNB p 0.57 - no mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/cambodia/cpl/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114486777",
+  "fx": "Mfa Taiwan v San Hai Tun Ntus",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Taiwan League 2; San Hai Tun NTUS strong start (7-0 v Babuza, 2W2D in 4). No Sportradar data.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - no data, thin league.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Taiwan_Football_League_2"
+  ]
+ },
+ {
+  "eid": "sr:match:73070238",
+  "fx": "NK Segesta v NK Dubrava Zagreb",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Prva NL; Segesta weak at home (1W in 5, GF 0.8) yet priced 1.42; Dubrava tight away (GA 0.5). Gradski stadion Sisak, 12:45 local = 11:45 UTC (consistent).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Segesta home win/DNB - price contradicts home form; Under 3.5 p 0.65.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betexplorer.com/football/croatia/prva-nl/"
+  ]
+ },
+ {
+  "eid": "sr:match:74291722",
+  "fx": "NK Trnje v Lokomotiva Zagreb",
+  "sport": "football",
+  "absences": "n/a (youth)",
+  "context": "Croatia U19 - youth fixture, result sides banned.",
+  "news": "Youth; no date conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth; no goals mismatch).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72466660",
+  "fx": "FC Pirin Blagoevgrad v PFC Dobrudzha Dobrich",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Vtora Liga; Pirin 1W in 10 (0W in 5 home). AiScore lists 28 Nov (consistent).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Dobrudzha DNB p 0.57 - stats only; totals.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aiscore.com/head-to-head/soccer-fc-dobrudzha-dobrich-vs-pirin-blagoevgrad"
+  ]
+ },
+ {
+  "eid": "sr:match:72466662",
+  "fx": "PFC Montana 1921 v PFK Sportist Svoge",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Vtora Liga; Montana 0W in 4 home, Svoge 1W in 6 away - both poor.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73070234",
+  "fx": "NK Dugopolje v Orijent 1919 Rijeka",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Prva NL; Dugopolje 1W in 10, Orijent poor away (GF 0.33). Stadion Hrvatski Vitezovi 13:30 local = 12:30 UTC (consistent).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - two low-scoring weak sides; Under 3.5 p 0.74 < gate.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betexplorer.com/football/croatia/prva-nl/"
+  ]
+ },
+ {
+  "eid": "sr:match:72952520",
+  "fx": "NK Dugo Selo v NK Hrvatski Dragovoljac",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Croatia Druga NL (3rd tier, regional/amateur-level).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - third tier.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:71998294",
+  "fx": "POFC Botev Vratsa v Ludogorets",
+  "sport": "football",
+  "absences": "none found (no lineup news)",
+  "context": "Parva Liga round 16. Ludogorets (coach Hogmo) won last 11 league games v Vratsa; in UEFA Conference League this season (possible Thursday fixture, not confirmed). Vratsa 0W in 5 home.",
+  "news": "No team news; Ludogorets 11-0 run in H2H; Conference League participation -> rotation risk unconfirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2/-0.5 (p 0.68 < 0.75 gate); Vratsa +2.5 banned (fav p >= 0.60); Ludogorets -1.5.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportytrader.com/en/betting-tips/botev-vratsa-ludogorets-razgrad-278898/",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_First_Professional_Football_League_(Bulgaria)",
+   "https://www.sofascore.com/football/match/ludogorets-botev-vratsa/NNosPBr"
+  ]
+ },
+ {
+  "eid": "sr:match:75619122",
+  "fx": "Aigle Royal Du Moungo v Pwd Bamenda",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Elite One early season; standings sources conflict on Aigle Royal du Moungo (14 pts FootyStats vs separate Aigle Nkongsamba 4 pts). PWD Bamenda 12th, 1W in 5.",
+  "news": "No fixture news; standings data inconsistent between sources (not a date conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - data conflict on home side identity/standing.",
+  "confidence": 0.1,
+  "sources": [
+   "https://afreeque.com/en/football/standings/elite-one-cameroon",
+   "https://footystats.org/cameroon/elite-one"
+  ]
+ },
+ {
+  "eid": "sr:match:71998284",
+  "fx": "PFC Cherno More Varna v Botev Plovdiv",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Parva Liga; 15:45 UTC confirmed. Both 2W2D1L last 5. Botev won the last two meetings 5-0 (May) and 1-0 (Aug). Cherno More home GA 0.6.",
+  "news": "No team news; stavka tip Under 3.5.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 3.5 p 0.76 < 0.82; result sides ~50/50.",
+  "confidence": 0.15,
+  "sources": [
+   "https://stavka.tv/matches/soccer/28-11-2026-cherno-more-varna-botev-plovdiv",
+   "https://www.footballstreams.com/matches/cherno-more-varna-vs-botev-plovdiv-20261128/"
+  ]
+ },
+ {
+  "eid": "sr:match:75619118",
+  "fx": "Unisport Du Haut Nkam v Gazelle FA de Garoua",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Elite One; Unisport (Bafang) won 2-1 at Dynamo Douala recently; Gazelle 0W in 4 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home DNB 1.23 (p 0.77) - stats only, no mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://afreeque.com/en/football/standings/elite-one-cameroon"
+  ]
+ },
+ {
+  "eid": "sr:match:77197528",
+  "fx": "SC Recife PE v Santa Cruz FC PE",
+  "sport": "football",
+  "absences": "n/a (youth)",
+  "context": "Brazil U20 Pernambucano - Recife derby (Sport v Santa Cruz), both high-scoring youth sides, no clear mismatch.",
+  "news": "Youth; no date conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth derby).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76809648",
+  "fx": "CR Vasco da Gama RJ v Botafogo FR RJ",
+  "sport": "football",
+  "absences": "n/a (youth)",
+  "context": "Brazil U20 Carioca - Vasco v Botafogo youth derby.",
+  "news": "Youth; no date conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (youth derby).",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:67682126",
+  "fx": "Coquimbo Unido v Deportes Limache",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Liga de Primera fecha 29 (penultimate), opener 18:00 local = 21:00 UTC. Coquimbo (Caputto) 5W1D at home, won 2-1 at Everton last time, chasing Sudamericana/Libertadores place; Limache lost two straight (1-2 v La Serena). Coquimbo won reverse fixture 3-2.",
+  "news": "Cup-place race; Limache on 2 straight defeats; Coquimbo on a positive run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.37,
+    "p": 0.690189,
+    "why": "Must-win cup race at home (unbeaten 5W1D at home) v Limache on two straight losses; DNB covers the draw. Own p 0.72."
+   }
+  ],
+  "avoid": "Coquimbo 1X2 at 1.79 (draw risk); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.cooperativa.cl/noticias/deportes/futbol/liga-de-primera/deportes-limache-visita-a-coquimbo-en-un-duelo-crucial-en-la-zona-de-copas/2026-11-27/183701.html",
+   "https://www.diarioeldia.cl/noticias/2026/11/27/158175-coquimbo-unido-pondra-a-prueba-su-racha-ante-limache"
+  ]
+ },
+ {
+  "eid": "sr:match:76881996",
+  "fx": "Deportes Magallanes v San Marcos de Arica",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Primera B Liguilla quarter-final SECOND LEG (knockout): San Marcos won first leg 2-0 at home on Nov 22; Magallanes must win by 2+.",
+  "news": "Two-legged tie, San Marcos lead 2-0; settles on 90 min.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (knockout); Over 1.5 p 0.74 in low-scoring tier (Magallanes GF 1.0).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.encancha.cl/futbol-chileno/primera-b/2026/11/22/san-marcos-vencio-a-magallanes-en-la-ida-de-la-liguilla-de-ascenso-326110.html",
+   "https://www.tvn.cl/deportes/futbol-nacional/rumbo-a-primera-revisa-los-cruces-de-la-liguilla"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114202334",
+  "fx": "Provincial Osorno v Colchagua CD",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Chile Segunda Division (third tier); no Sportradar data; possible playoff stage unverified.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All - no data, thin tier.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:77000096",
+  "fx": "Deportes Quindio v Boca Juniors de Cali",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Torneo DIMAYOR (Primera B) 2026-II FINAL, second leg at Estadio Centenario Armenia; Quindio won first leg 2-0 in Cali. Winner promoted to Primera A 2027. Possibly behind closed doors after crowd trouble (El Tiempo, older report). Minor venue dispute concerned the already-played first leg only.",
+  "news": "Quindio lead 2-0 on aggregate at home; Harold Rivera side one game from promotion.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7925227344,
+    "why": "Knockout: DNB only. Quindio 2-goal aggregate cushion at home v lower-ranked Boca (35 v 31 pts), home GA 0.4; Boca must chase, exposing counters. Own p 0.80."
+   }
+  ],
+  "avoid": "Quindio 1X2 (may sit on lead -> draw); Over lines.",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.infobae.com/colombia/deportes/2026/11/27/quindio-vs-boca-juniors-de-cali-hora-y-donde-ver-la-vuelta-de-la-final-semestral-de-la-primera-b/",
+   "https://www.winsports.co/futbol-colombiano/noticias/quindio-vs-boca-cual-cerrara-de-local-la-final-del-torneo-betplay-453401",
+   "https://www.eltiempo.com/deportes/futbol-colombiano/deportes-quindio-vs-boca-juniors-de-cali-asi-se-jugara-la-gran-final-por-el-ascenso-en-el-torneo-betplay-2026-ii-3602654"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114202331",
+  "fx": "Deportes Linares v Brujas de Salamanca",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Chile Segunda Division (third tier); no data.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76848810",
+  "fx": "Fortaleza EC CE v Criciuma EC SC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Serie B promotion PLAYOFF SECOND LEG at Castelao (20h Brasilia = 23:00 UTC). Criciuma won first leg 1-0 away... per Terra; Fortaleza needs a win (better league record tiebreak). Knockout, 90-min settlement.",
+  "news": "Two-legged playoff; Criciuma 1-0 up, draw enough for them (single source on first-leg result).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result sides (knockout); Under 3.5 p 0.80 < gate.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.terra.com.br/esportes/futebol/brasileiro-serie-b/fortaleza-x-criciuma-onde-assistir-escalacoes-e-arbitragem,7761af9c88a08bbab4f1ebee47c668cey7kp0new.html",
+   "https://www.flashscore.com.br/noticias/futebol-brasileirao-serie-b-criciuma-x-fortaleza-onde-assistir-horario-e-tudo-sobre-o-playoff-da-serie-b/vyq3GifU/"
+  ]
+ },
+ {
+  "eid": "sr:match:67682122",
+  "fx": "Colo-Colo v Deportes La Serena",
+  "sport": "football",
+  "absences": "Colo-Colo: Javier Correa (meniscectomy), Felipe Mendez (patellar tendinopathy), Diego Ulloa, Claudio Aquino; Arturo Vidal returns.",
+  "context": "Colo-Colo already CHAMPIONS; last game at the Monumental; Fernando Ortiz confirms several lineup changes. Fecha 29, 20:30 local = 23:30 UTC Saturday (one outlet said Sunday, majority Saturday).",
+  "news": "Dead rubber for champions Colo-Colo with rotation; celebration game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Colo-Colo 1X2/DNB/handicaps (dead rubber + rotation); Over 1.5 at 1.16 below floor.",
+  "confidence": 0.2,
+  "sources": [
+   "https://dalealbo.cl/liga-de-primera/fernando-ortiz-confirma-cambios-en-la-formacion-de-colo-colo-vs-la-serena-por-la-liga-de-primera",
+   "https://dalealbo.cl/colocolo/con-un-nuevo-lesionado-el-parte-medico-de-colo-colo-para-enfrentar-a-la-serena",
+   "https://www.365scores.com/es/news/convocados-bajas-colo-colo-vs-la-serena/"
+  ]
+ },
+ {
+  "eid": "sr:match:66887200",
+  "fx": "Botafogo FR RJ v EC Bahia BA",
+  "sport": "football",
+  "absences": "Botafogo: Ferraresi (3rd yellow) and Marcal (red) suspended, Jordan Barrera injured. Bahia: Acevedo suspended, Leo Vieira injured.",
+  "context": "Brasileirao round 37, Engenhao 21h Brasilia (00:00 UTC). Botafogo coached by Tite per Diario do Rio. Bahia 0W in 5 away.",
+  "news": "Both sides missing starters; Botafogo lose two defenders.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.31,
+    "p": 0.7196306367,
+    "why": "Botafogo 3W1D1L at home v Bahia 0W in 5 away; Bahia also missing midfielder Acevedo. Own p 0.73 (Botafogo defence weakened by two suspensions, so not 1X2)."
+   }
+  ],
+  "avoid": "Botafogo 1X2/DNB (two defenders out); Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://atarde.com.br/esportes/ecbahia/botafogo-perde-dois-titulares-para-enfrentar-o-bahia-pelo-brasileirao-1410684",
+   "https://diariodorio.com/esporte/2026/11/27/botafogo-x-bahia-onde-assistir-ao-vivo-ao-jogo-do-brasileirao-2026.html"
+  ]
+ },
+ {
+  "eid": "sr:match:76990484",
+  "fx": "Independiente Santa Fe v Atletico Nacional",
+  "sport": "football",
+  "absences": "Nacional: William Tesillo suspended; Milton Casco and Felipe Marin return. Santa Fe: coach Pablo Repetto suspended (5 yellows); Jeison Angulo, Christian Mafla, Mateo Puerta, Jader Obrian, Kevin Balanta, Juan Sebastian Quintero recovering (doubtful).",
+  "context": "Liga BetPlay II-2026 quadrangular A, matchday 3 at El Campin: Nacional 4 pts (+ invisible point), Santa Fe and Medellin 3. Nacional unbeaten at El Campin v Santa Fe for 5 years. Big-club clash.",
+  "news": "Santa Fe without coach and up to six injured; Nacional lose Tesillo.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big-club clash rule); totals ~coin-flip.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.noticiasrcn.com/deportes/cuando-juega-nacional-vs-santa-fe-cuadrangulares-liga-betplay-1086134",
+   "https://www.colombia.com/futbol/futbol-colombiano/pablo-repetto-no-podra-dirigir-a-santa-fe-ante-nacional-614390",
+   "https://primertiempo.co/futbol/atletico-nacional-recupera-dos-jugadores-para-visitar-a-santa-fe-en-los-cuadrangulares/",
+   "https://www.elcolombiano.com/deportes/futbol/nacional-visita-a-santa-fe-en-el-campin-KJ44189210"
+  ]
+ },
+ {
+  "eid": "sr:match:72053716",
+  "fx": "AD San Carlos v Liga Deportiva Alajuelense",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Apertura 2026 final regular-season round, Carlos Ugalde, Sat 19:00 local = 01:00 UTC. Shoot-out for the 4th semi-final spot: Alajuelense (29) qualify with a draw, San Carlos (27) must win.",
+  "news": "Winner-take-all for last semi place; Alajuelense draw enough.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Alajuelense +0.5 at 1.29 (p 0.74, no edge v must-win hosts); away 1X2 (p 0.47).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.clarosports.com/centroamerica/futbol-cenam/san-carlos-vs-alajuelense-en-vivo-donde-mirar-el-apertura-2026-de-la-liga-de-costa-rica/",
+   "https://www.tvn14.com/san-carlos-se-juega-la-clasificacion-ante-alajuelense-en-una-autentica-final-por-el-ultimo-boleto-a-semifinales/"
+  ]
+ },
+ {
+  "eid": "sr:match:72053712",
+  "fx": "CS Cartagines v Perez Zeledon",
+  "sport": "football",
+  "absences": "none confirmed; Randall Cordero, Carlos Barahona, Alonso Hernandez one yellow from a semi-final ban.",
+  "context": "Final round, Fello Meza, Sat 19:00 local. Cartagines (34, tied with Saprissa) need a win plus a Saprissa slip to finish first; unbeaten at home (5/5 W last 5). Perez Zeledon 0W in 10. One older Nacion calendar put it on Nov 29 - that is the UTC date of a 19:00 Saturday kick-off; recent sources say Sat 28 (consistent with board 01:00 UTC).",
+  "news": "Title-seed race; PZ winless in 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.791543,
+    "why": "Cartagines must win to chase first place, unbeaten at home all season, v Perez Zeledon 0W in last 10. Own p 0.81."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Home (-1.0)",
+    "odds": 1.3,
+    "p": 0.7339908366,
+    "why": "Same mechanism; one-goal win voids. Own p 0.75."
+   }
+  ],
+  "avoid": "Over 3.5; booking-risk players may be managed late.",
+  "confidence": 0.3,
+  "sources": [
+   "https://futbolcentroamerica.com/noticias/cartagines-todavia-puede-terminar-primero-en-el-apertura-2026-aa5ee6z9qKkg",
+   "https://www.teletica.com/nacional/equipos-que-luchan-por-el-liderato-llegan-invictos-en-casa-al-cierre_421834",
+   "https://futbolcentroamerica.com/noticias/apertura-2026-designan-arbitros-para-la-jornada-que-define-el-liderato-y-el-ultimo-boleto-ajbuT0j42XpP"
+  ]
+ },
+ {
+  "eid": "sr:match:72053718",
+  "fx": "Deportivo Saprissa San Jose v Inter San Carlos",
+  "sport": "football",
+  "absences": "none confirmed",
+  "context": "Final round, Sat 19:00 local. Saprissa (34) top on tiebreak, a win secures first; 8W0L at home this tournament. Inter San Carlos 1W in 10, GA 2.3.",
+  "news": "Saprissa need a win for first seed; unbeaten at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.752792,
+    "why": "First-place decider at home where Saprissa are 8W unbeaten v Inter San Carlos 1W in 10. Own p 0.79."
+   }
+  ],
+  "avoid": "Saprissa -1.5 (p 0.53).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.teletica.com/nacional/equipos-que-luchan-por-el-liderato-llegan-invictos-en-casa-al-cierre_421834",
+   "https://www.nacion.com/puro-deporte/saprissa-sorprende-con-una-medida-de-cara-a-la/GERLJKRMXVFARL3PZ6DNRRNQ6M/story/"
+  ]
+ },
+ {
+  "eid": "sr:match:72053720",
+  "fx": "Sporting FC v Puntarenas FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Final round; Sporting (33) already in semis, still mathematically chasing first. Kick-off date varies by source (Sat/Sun) - Sporting v Puntarenas not explicitly listed in the Saturday three-game schedule (Everardo Herrera named only Saprissa, Cartagines, San Carlos games at 19:00 Sat).",
+  "news": "Possible date/kick-off conflict: Saturday 19:00 list names only three games; regular season spans 28-29 Nov.",
+  "veto": true,
+  "veto_reason": "Kick-off date unconfirmed: Saturday schedule lists three matches without Sporting-Puntarenas; 365Scores says final round Sunday 29 Nov.",
+  "picks": [],
+  "avoid": "All until kick-off confirmed.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/es/news/liga-promerica-quienes-pasan-semifinales/",
+   "https://futbolcentroamerica.com/noticias/cartagines-todavia-puede-terminar-primero-en-el-apertura-2026-aa5ee6z9qKkg",
+   "https://www.nacion.com/puro-deporte/asi-se-jugara-la-ultima-fecha-del-torneo-de/MH2M57UVQJFKPG7E6QWRV2SD2U/story/"
+  ]
+ }
+]
