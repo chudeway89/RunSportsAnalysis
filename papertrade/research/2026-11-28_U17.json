@@ -1,0 +1,560 @@
+[
+ {
+  "eid": "sr:match:73072866",
+  "fx": "Panathinaikos Athens v GS Panionios",
+  "sport": "volleyball",
+  "absences": "not researched (women)",
+  "context": "Women's fixture: no picks per rules; only date/venue checked. Panathinaikos 10-0 last 10 (0.5 sets conceded), Panionios 8-2.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73708640",
+  "fx": "HK Molot v Gornyak-UGMK Verkhnyaya Pyshma",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "VHL regular season.",
+  "news": "Kick-off conflict: Sportbox/Allhockey 15:00 MSK (=board 12:00 UTC) vs official VHL calendar 16:30 MSK.",
+  "veto": true,
+  "veto_reason": "kick-off time conflict between sources (official VHL calendar 16:30 MSK vs 15:00 elsewhere)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://news.sportbox.ru/Vidy_sporta/Hokkej/VHL/stats/calendar",
+   "https://allhockey.ru/stat/vhl/calendar",
+   "https://vhlru.ru/calendar/",
+   "https://odds.ru/hockey/match/2026-11-29/",
+   "https://sportnet.live/hockey/event/76652/29-11-2026-vhl-izhstal-vs-magnitka.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73708642",
+  "fx": "Toros Neftekamsk v Chelmet Chelyabinsk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "VHL regular season; Toros 10-0 last 10.",
+  "news": "Official VHL calendar lists a different opponent for Toros (Norilsk) on this date; Sportbox/Allhockey/odds.ru list Chelmet at 15:00 MSK.",
+  "veto": true,
+  "veto_reason": "opponent/date conflict between official VHL calendar and other sources",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://news.sportbox.ru/Vidy_sporta/Hokkej/VHL/stats/calendar",
+   "https://allhockey.ru/stat/vhl/calendar",
+   "https://vhlru.ru/calendar/",
+   "https://odds.ru/hockey/match/2026-11-29/",
+   "https://sportnet.live/hockey/event/76652/29-11-2026-vhl-izhstal-vs-magnitka.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72119570",
+  "fx": "Brynas IF v Djurgardens IF",
+  "sport": "ice hockey",
+  "absences": "not researched (women); Brynas captain Julia Ostlund farewell event on match day",
+  "context": "Women's fixture: no picks per rules; only date/venue checked. Brynas 9-1 last 10, Djurgarden 4-6. Venue Monitor ERP Arena Gavle; club says 13:00 CET (=12:00 UTC, matches board); a tourism listing says 18:00 (TV listing 12:00).",
+  "news": "Match confirmed 29 Nov in Gavle; minor time discrepancy in a non-official listing.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women; no goals-market mismatch worth taking)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.brynas.se/article/rq4at4v-1ekad/view",
+   "https://www.visitgavle.se/en/sdhl-djurgarden-if",
+   "https://www.tvmatchen.nu/match/brynas-djurgarden-1897961"
+  ]
+ },
+ {
+  "eid": "sr:match:75139252",
+  "fx": "Foerde VBK v Oslo Volley",
+  "sport": "volleyball",
+  "absences": "not researched (women)",
+  "context": "Women's fixture: no picks per rules; only date/venue checked. Foerde 7-3, Oslo 2-8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73708644",
+  "fx": "Izhstal Izhevsk v HC Magnitka Magnitogorsk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "VHL regular season.",
+  "news": "Kick-off conflict: Sportbox/Sportnet/Allhockey 16:00 MSK (=board 13:00 UTC) vs official VHL calendar 17:30 MSK, which also lists a different opponent (Sokol Krasnoyarsk).",
+  "veto": true,
+  "veto_reason": "kick-off/opponent conflict between official VHL calendar and other sources",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://news.sportbox.ru/Vidy_sporta/Hokkej/VHL/stats/calendar",
+   "https://allhockey.ru/stat/vhl/calendar",
+   "https://vhlru.ru/calendar/",
+   "https://odds.ru/hockey/match/2026-11-29/",
+   "https://sportnet.live/hockey/event/76652/29-11-2026-vhl-izhstal-vs-magnitka.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72123616",
+  "fx": "ZSC Lions Zurich v HC Ajoie Porrentruy",
+  "sport": "ice hockey",
+  "absences": "none found for this date",
+  "context": "ZSC top of the National League (unbeaten start, 42 pts from 17 by late Oct); Ajoie 22 pts from 17, among the weakest. ZSC beat Ajoie 4-2 away (22 Sep 2026); previous meetings 5-3, 2-1.",
+  "news": "No preview found; ZSC dominant vs Ajoie series.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.27,
+    "p": 0.7625466525,
+    "why": "ZSC team total 3+ (regulation): ZSC 4.2 GF/g last 10, Ajoie concede 3.2/g, ZSC league leaders v a bottom side; statistical mismatch, no named absences either way. Own p ~0.77."
+   }
+  ],
+  "avoid": "ZSC -1.5 (2-1 home win v Ajoie in Feb shows one-goal games happen); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.blick.ch/sport/eishockey/nl/national-league-hc-ajoie-zsc-lions-22-09-2026-id22271533.html",
+   "https://www.nau.ch/sport/eishockey/zsc-lions-marschieren-weiter-kloten-schlagt-ajoie-67193738",
+   "https://www.nau.ch/sport/matchcenter/national-league-zsc-lions-gegen-ajoie-ab-1945-live-67098553"
+  ]
+ },
+ {
+  "eid": "sr:match:77031778",
+  "fx": "Scotland v Argentina",
+  "sport": "rugby",
+  "absences": "Scotland: Sione Tuipulotu (capt), Ben White, Pierre Schoeman, Scott Cummings, Matt Fagerson (broken jaw, status disputed), Jack Dempsey, Jamie Ritchie out; Rory Darge returns as captain, Finn Russell restored, Bradbury No.8, Darcy Graham passed fit. Argentina: some injuries, Julian Montoya captain.",
+  "context": "7th-place play-off (single-game classification match) at Twickenham, NEUTRAL venue - board \"Home\" Scotland is nominal. Scotland 11 changes.",
+  "news": "Scotland make 11 changes for 7th-place play-off v Argentina at Twickenham; heavy injury list.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides/handicaps: knockout-style placement game at neutral venue with an injury-hit favourite (fragile favourite -> skip, not DNB).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.theoffsideline.com/nations-championship-scotland-v-argentina-10-takeaways-from-gregor-townsends-team-announcement/",
+   "https://www.tournaments.com/news/scotland-eleven-changes-rory-darge-captain-argentina-2026-11-27",
+   "https://americasrugbynews.com/2026/11/27/nations-championship-2026-scotland-vs-argentina-arn-guide"
+  ]
+ },
+ {
+  "eid": "sr:match:72166730",
+  "fx": "Severstal Cherepovets v Lokomotiv Yaroslavl",
+  "sport": "ice hockey",
+  "absences": "Stale (Oct): Severstal No.1 goalie Samoylov injured, Liska and Abrosimov absent; Lokomotiv Berezkin/Romantsev were injured in autumn. No current confirmation.",
+  "context": "KHL regular season. Lokomotiv 7-3 last 10, 1.1 GA/g, away last 4 W; Severstal 6-4 with low scoring blamed on lost scorers.",
+  "news": "No match-specific news found; Severstal attacking losses reported (coach Kozyrev).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.28,
+    "p": 0.75652,
+    "why": "Lokomotiv 2+ regulation goals: Lokomotiv 2.6 GF/g, Severstal concede 2.5/g and had goalie Samoylov injured (Oct report, unconfirmed now). Own p ~0.76."
+   }
+  ],
+  "avoid": "Severstal team over, Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sports.ru/hockey/1117366526-kozyrev-o-nizkoj-rezultativnosti-severstali-ushli-rebyata-kotorye-zabr.html",
+   "https://stavka.tv/matches/ice-hockey/15-10-2026-severstal-cherepovec-lokomotiv-yaroslavl"
+  ]
+ },
+ {
+  "eid": "sr:match:73708638",
+  "fx": "Olimpiya Kirovo-Chepetsk v Yuzhny Ural Orsk",
+  "sport": "ice hockey",
+  "absences": "none found",
+  "context": "VHL regular season; evenly matched (5-5 v 6-4).",
+  "news": "17:00 MSK per Sportbox/Allhockey (=board 14:00 UTC); no conflict found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Olimpiya U3.5 (house p 0.818 < 0.82 Under floor)",
+  "confidence": 0.1,
+  "sources": [
+   "https://news.sportbox.ru/Vidy_sporta/Hokkej/VHL/stats/calendar",
+   "https://allhockey.ru/stat/vhl/calendar"
+  ]
+ },
+ {
+  "eid": "sr:match:72771674",
+  "fx": "VBK WSL Klagenfurt v SG Union Bisamberg/Hollabrunn",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Team identity ambiguous: sources show the Klagenfurt v Bisamberg-Hollabrunn pairing as a WOMEN's AVL fixture (ATSC Wildcats), board lists \"Austria / Volley League\" with VBK Klagenfurt; no 29 Nov listing found (meetings shown 17 Oct).",
+  "news": "No listing found for 29 Nov; men/women identity unclear.",
+  "veto": true,
+  "veto_reason": "fixture date unverified and team identity (men vs women) conflicting between board and sources",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/volleyball/match/unionvolleys-bisamberg-hollabrunn-atsc-klagenfurt/GQcsqrnc",
+   "https://volleynet.at/levels/39839"
+  ]
+ },
+ {
+  "eid": "sr:match:72765002",
+  "fx": "Chks Chelm v Warta Zawiercie",
+  "sport": "volleyball",
+  "absences": "none found",
+  "context": "Warta Zawiercie are reigning PlusLiga champions (2025-26 gold), 9-1 last 10 conceding 0.6 sets/g, five 3-0 wins in last six; beat Chelm 3-0 home and 3-0 away last season. Chelm 3-7.",
+  "news": "No match preview found; possible midweek European commitment for Warta not verified.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "202",
+    "spec": "setnr=1",
+    "desc": "Away",
+    "odds": 1.31,
+    "p": 0.7303881559,
+    "why": "Warta 1st set: champions v weak side, 3-0 in 5 of last 6 and both 2025-26 H2H. Own p ~0.76."
+   },
+   {
+    "mid": "237",
+    "spec": "hcp=10.5",
+    "desc": "Away (-10.5)",
+    "odds": 1.54,
+    "p": 0.6034,
+    "why": "Warta by 11+ points: a 3-0 at typical 25-20 margins clears it; both H2H last season 3-0. Own p ~0.63 (rotation risk if a European match is near)."
+   }
+  ],
+  "avoid": "Under 4.5 sets / no 5th set (Unders need house p>=0.82; 0.78)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.polsatsport.pl/wiadomosc/2026-01-16/chks-chelm-aluron-warta-zawiercie-siatkowka-wynik-plusliga-kto-wygral/",
+   "https://siatka.org/pokaz/plusliga-chks-chelm-warta-zawiercie-03-relacja-sklady/",
+   "https://en.wikipedia.org/wiki/2025%E2%80%9326_PlusLiga"
+  ]
+ },
+ {
+  "eid": "sr:match:72709962",
+  "fx": "HK Dukla Trencin v HC 05 Banska Bystrica",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Slovak Tipsport liga; both 3-7 last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (coin-flip, no edge)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.denniksport.sk/hokej/c/kompletny-program-herny-system-tipsport-liga-2026-2027",
+   "https://www.hokejspravy.sk/rubriky/extraliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:73313972",
+  "fx": "Peelpush Meijel v Sudosa-Desto",
+  "sport": "volleyball",
+  "absences": "not researched (women)",
+  "context": "Women's fixture: no picks per rules; only date/venue checked. Meijel 1-9, Sudosa-Desto 6-4.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72123618",
+  "fx": "HC Davos v HC Lugano",
+  "sport": "ice hockey",
+  "absences": "Davos: four knee injuries in Oct, Harrison Schreiber expected back after Nov break. Lugano: Calle Dahlstrom, Dario Simion, Lorenzo Canonica on medical bulletin (Oct). Current status unconfirmed.",
+  "context": "National League; both 4-ish wins in last 10.",
+  "news": "Only October injury updates found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (injury status unclear, balanced form)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.swisshabs.ch/de/artikel/verletzten-update-beim-hc-davos",
+   "https://www.swisshabs.ch/de/artikel/einige-details-zu-den-vier-verletzten-des-hc-lugano"
+  ]
+ },
+ {
+  "eid": "sr:match:75797476",
+  "fx": "HC Kosice v HK Nitra",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Slovak Tipsport liga; even form.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.denniksport.sk/hokej/c/kompletny-program-herny-system-tipsport-liga-2026-2027",
+   "https://www.hokejspravy.sk/rubriky/extraliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:73072868",
+  "fx": "PAOK v Asp Thetis",
+  "sport": "volleyball",
+  "absences": "not researched (women)",
+  "context": "Women's fixture: no picks per rules; only date/venue checked. PAOK 7-3, Thetis 2-8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72709966",
+  "fx": "HC Presov v HK Poprad",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Presov 1-9 (4.0 GA/g) v Poprad 7-3; East Slovak regional derby.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Poprad result-side: regional derby, no news confirmation",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.denniksport.sk/hokej/c/kompletny-program-herny-system-tipsport-liga-2026-2027",
+   "https://www.hokejspravy.sk/rubriky/extraliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72709964",
+  "fx": "Spisska Nova Ves v HK Vlci Zilina",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Zilina 8-2 v Spisska Nova Ves 5-5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.denniksport.sk/hokej/c/kompletny-program-herny-system-tipsport-liga-2026-2027",
+   "https://www.hokejspravy.sk/rubriky/extraliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:73314100",
+  "fx": "Topvolley Limburg v VV Huizen",
+  "sport": "volleyball",
+  "absences": "no news found",
+  "context": "Topvolley Limburg = (Numidia) VC Limax alias, so market 192 \"Numidia VC Limax to win a set\" is the home side - not a conflict. Huizen won 8 of last 9 H2H per one aggregator. Both 2-8 last 10.",
+  "news": "No 29 Nov listing confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.stevegtennis.com/h2h-predictions/volleyball/topvolley-limburg/vv-huizen/394047/447293/",
+   "https://scores24.live/en/volleyball/m-03-04-2026-vv-huizen-numidia-vc-limax-prediction"
+  ]
+ },
+ {
+  "eid": "sr:match:72710454",
+  "fx": "Bellinzona Snakes v EHC Visp",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Rescheduled game: originally 29 Oct, postponed (hole in the ice) to 29 Nov 17:00 CET in Bellinzona (=board 16:00 UTC). Visp 2nd (40 pts/18 GP) v Bellinzona 8th (21/19). Visp may have played Fri 27 Nov (2 days rest).",
+  "news": "Postponed fixture confirmed for 29 Nov 17:00 in Bellinzona.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.21,
+    "p": 0.787501,
+    "why": "Visp to win incl. OT/SO: 2nd v 8th, Visp 7-3 last 10 with 3.9 GF/g, Bellinzona concede 3.8/g. Away result-side at house p 0.79 (>=0.75). Own p ~0.78."
+   }
+  ],
+  "avoid": "Visp -1.5, totals",
+  "confidence": 0.25,
+  "sources": [
+   "https://walliser-zeitung.ch/ehc-visp-spiele-gegen-gdt-bellinzona-snakes-hc-la-chaux-de-fonds-und-ehc-basel-verschoben/",
+   "https://www.sihf.ch/de/game-center/liga/spielplan/2-1",
+   "https://www.eliteprospects.com/league/sl"
+  ]
+ },
+ {
+  "eid": "sr:match:73399806",
+  "fx": "Altafratte v Akademia Sant Anna Messina",
+  "sport": "volleyball",
+  "absences": "not researched (women)",
+  "context": "Women's fixture: no picks per rules; only date/venue checked. Altafratte Padova 4th on 20 pts; Messina visiting. 17:00 CET confirmed (Corriere/DAZN).",
+  "news": "Fixture confirmed 29 Nov 17:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.corrieredellosport.it/news/volley/volley-femminile/a2-femminile/2026/11/27-152885795/l_11a_giornata_parte_domani_con_due_sfide",
+   "https://www.dazn.com/it-IT/news/volley/calendario-completo-serie-a2-femminile-volley/hcu8rkgyszjz17rbowqoxvv8t"
+  ]
+ },
+ {
+  "eid": "sr:match:73399802",
+  "fx": "Leonessa Volley Altamura v Volley Offanengo",
+  "sport": "volleyball",
+  "absences": "not researched (women)",
+  "context": "Women's fixture: no picks per rules; only date/venue checked. PalaBaldassarra, 29 Nov 17:00 confirmed.",
+  "news": "Fixture confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.corrieredellosport.it/news/volley/volley-femminile/a2-femminile/2026/11/27-152885795/l_11a_giornata_parte_domani_con_due_sfide",
+   "https://www.dazn.com/it-IT/news/volley/calendario-completo-serie-a2-femminile-volley/hcu8rkgyszjz17rbowqoxvv8t"
+  ]
+ },
+ {
+  "eid": "sr:match:73399800",
+  "fx": "Sigel Marsala v Podio Volley Club Fasano",
+  "sport": "volleyball",
+  "absences": "not researched (women)",
+  "context": "Women's fixture: no picks per rules; only date/venue checked. Sigel Seap Marsala v Olio Pantaleo Fasano 29 Nov 17:00 confirmed.",
+  "news": "Fixture confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.corrieredellosport.it/news/volley/volley-femminile/a2-femminile/2026/11/27-152885795/l_11a_giornata_parte_domani_con_due_sfide",
+   "https://www.dazn.com/it-IT/news/volley/calendario-completo-serie-a2-femminile-volley/hcu8rkgyszjz17rbowqoxvv8t"
+  ]
+ },
+ {
+  "eid": "sr:match:73399804",
+  "fx": "Trentino Volley Femminile v Roma Volley Club",
+  "sport": "volleyball",
+  "absences": "not researched (women)",
+  "context": "Women's fixture: no picks per rules; only date/venue checked. DAZN lists Itas Trentino v Roma 29/11 17:00; Wikipedia lists 29-11 without time.",
+  "news": "Fixture confirmed by DAZN.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.dazn.com/it-IT/news/volley/calendario-completo-serie-a2-femminile-volley/hcu8rkgyszjz17rbowqoxvv8t",
+   "https://it.wikipedia.org/wiki/Serie_A2_2026-2027_(pallavolo_femminile)"
+  ]
+ },
+ {
+  "eid": "sr:match:73399808",
+  "fx": "VBC Cremonese v Eurospin Ford Sara Pinerolo",
+  "sport": "volleyball",
+  "absences": "not researched (women)",
+  "context": "Women's fixture: no picks per rules; only date/venue checked. Corriere: Wash4Green Monviso (Pinerolo) 2nd, visits Cremonese; Wikipedia extract lists Casalmaggiore v Pinerolo on 28-11 and DAZN omits Pinerolo from 29 Nov games.",
+  "news": "Date conflict for the Pinerolo side between sources.",
+  "veto": true,
+  "veto_reason": "date conflict: Wikipedia/DAZN place Pinerolo elsewhere (28 Nov) vs Corriere/board 29 Nov at Cremonese",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.corrieredellosport.it/news/volley/volley-femminile/a2-femminile/2026/11/27-152885795/l_11a_giornata_parte_domani_con_due_sfide",
+   "https://www.dazn.com/it-IT/news/volley/calendario-completo-serie-a2-femminile-volley/hcu8rkgyszjz17rbowqoxvv8t",
+   "https://it.wikipedia.org/wiki/Serie_A2_2026-2027_(pallavolo_femminile)"
+  ]
+ },
+ {
+  "eid": "sr:match:72709960",
+  "fx": "HKM Zvolen v Mhk 32 Liptovsky Mikulas",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Liptovsky Mikulas 7-3 (4.0 GF/g) v Zvolen 4-6.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.denniksport.sk/hokej/c/kompletny-program-herny-system-tipsport-liga-2026-2027",
+   "https://www.hokejspravy.sk/rubriky/extraliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:77031742",
+  "fx": "South Africa v France",
+  "sport": "rugby",
+  "absences": "South Africa: Pieter-Steph du Toit (niggle, flown home), Damian Willemse (knock) out; Ruan Nortje injured; Salmaan Moerat returns at lock; Feinberg-Mngomezulu to fullback, Libbok 10, Reinach 9; Rassie Erasmus suspended (not on touchline). France injury-hit earlier in the window (veterans recalled).",
+  "context": "Nations Championship FINAL at Twickenham (neutral). France beat SA 21-19 in Paris earlier; SA then lost 20-17 to Ireland (two straight defeats).",
+  "news": "Boks lose Du Toit and Willemse for the final; Erasmus suspended.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All result-sides/handicaps (final, knockout); Over 40.5 (last H2H 19-21 = 40, SA last two 37 and 40 points); Unders below 0.82 house p.",
+  "confidence": 0.2,
+  "sources": [
+   "https://africa.espn.com/espn/story/_/id/50590503/south-africa-france-nations-championship-final-kick-how-watch",
+   "https://www.rugbypass.com/news/springboks-dealt-significant-injury-blow-ahead-of-nations-championship-final/",
+   "https://rugby365.com/countries/france/bok-superstar-ruled-out-of-nations-championship-final/"
+  ]
+ },
+ {
+  "eid": "sr:match:72709958",
+  "fx": "Slovan Bratislava v Dukla Michalovce",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Slovan 7-3 (3.8 GF/g) v Michalovce 3-7 (4.3 GA/g); only 3 markets on board.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Slovan 1X2 only on form, no mechanism",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.denniksport.sk/hokej/c/kompletny-program-herny-system-tipsport-liga-2026-2027",
+   "https://www.hokejspravy.sk/rubriky/extraliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72875930",
+  "fx": "Asm Clermont Auvergne v RC Toulonnais",
+  "sport": "rugby",
+  "absences": "Clermont (stale): 19 absent incl. 11 injured and 8 internationals in an earlier round; Jurand, Noah injured; Raka, Fourcade, Lanen returning. Probable XV Hamdaoui, Fall, Loaloa, Darricarrere, Raka, Plummer, Jauneau (c), Sowakula. Toulon probable: Jaminet, Dréan, Cowie, Garcia, Serin, Ludlam (c). Toulon injury list not found.",
+  "context": "Top 14 round played on the Nations Championship weekend (doublon): internationals missing for both. Clermont 3-7 last 10, Toulon 6-4.",
+  "news": "Only probable line-ups (Dicodusport); no official team sheet found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Clermont result-side (poor form, line-ups unconfirmed); Toulon away",
+  "confidence": 0.15,
+  "sources": [
+   "https://dicodusport.fr/blog/la-chaine-tv-lheure-et-les-compositions-de-clermont-toulon-top-14-2026-2027/",
+   "https://www.lerugbynistere.fr/news/top-14-pres-de-40-absents-des-espoirs-des-compositions-inedites-avec-les-moyens-du-bord-pour-toulouse-et-clermont/"
+  ]
+ }
+]

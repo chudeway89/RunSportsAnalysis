@@ -1,0 +1,568 @@
+[
+ {
+  "eid": "sr:match:73583638",
+  "fx": "Real Balompedica Linense v Bollullos CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 10 jornada 13; Linense 1W/3D/1L in last 5 at home, draw-heavy; Bollullos 0W in 5 away.",
+  "news": "Flashscore lists Linense v Bollullos 29/11/2026 J13 (Siguetuliga shows a stale 2026-03-29 date, treated as an old/reverse listing, not a conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Linense 1X2 (draw-heavy at home); Unders (amateur ban)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.flashscore.com.ar/partido/futbol/bollullos-UZlkWqtC/rb-linense-xbXS627a/",
+   "https://www.besoccer.com/team/linense"
+  ]
+ },
+ {
+  "eid": "sr:match:73584754",
+  "fx": "CD Ibiza Islas Pitiusas v CD Llosetense",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 11 (Baleares); only 8 markets on board; Ibiza Islas Pitiusas conceded 0.2/game in last 10 but scores only 1.2.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "low-scoring home side; no goals markets on board",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-11/3065/"
+  ]
+ },
+ {
+  "eid": "sr:match:73564428",
+  "fx": "CF Villanovense v EF Puebla de la Calzada",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 14 jornada 13; Villanovense 5th (21 pts after J11), unbeaten in last 10 (7W3D, GA 0.2), 4W1D at home; Puebla lost 1-0 at Azuaga J11.",
+  "news": "Siguetuliga confirms Villanovense v EF Puebla in J13 (29 Nov) after J12 at Gevora; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.49,
+    "p": 0.6311,
+    "why": "Villanovense unbeaten in 10, GA 0.2, 4W/5 at home v mid-table Puebla who lost last away game; est p 0.66 v house 0.63 (stats-led, fill-grade)."
+   }
+  ],
+  "avoid": "Unders (amateur ban)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.siguetuliga.com/equipo/villanovense",
+   "https://www.lapreferente.com/C26759-12/tercera-federacion-grupo-14/widget.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73555170",
+  "fx": "CD Lealtad de Villaviciosa v Condal Club",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 2 (Asturias) J13; Lealtad unbeaten in 5 at home (2W3D); Condal 3W5D2L.",
+  "news": "LiveSoccerTV lists Lealtad v Condal 29 Nov 12:00 local (=11:00 UTC, matches board).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Lealtad 1X2 at 1.69 (draw-prone home record)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livesoccertv.com/teams/spain/lealtad/"
+  ]
+ },
+ {
+  "eid": "sr:match:73577780",
+  "fx": "CE L'Hospitalet v FC Martinenc",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 5 (Catalonia); Martinenc 0W1D4L in last 5 away, conceding 3.0/game away (0-5, 0-1, 0-4); Hospitalet 3W1D1L at home.",
+  "news": "LiveSoccerTV lists L'Hospitalet v Martinenc Sunday 29 Nov; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.733,
+    "why": "Martinenc lose away (0W in 5, GA 3.0 away); DNB protects v Hospitalet draw tendency (5D in 10); est p 0.76 v house 0.73."
+   }
+  ],
+  "avoid": "Hospitalet 1X2 outright (5 draws in 10); Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.livesoccertv.com/teams/spain/lhospitalet/"
+  ]
+ },
+ {
+  "eid": "sr:match:73577786",
+  "fx": "Cerdanyola del Valles v UE Tona",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 5; Cerdanyola 2nd and unbeaten at home (3W2D) v Tona 8th; near coin-flip prices.",
+  "news": "no news found (LiveSoccerTV table: Cerdanyola 2nd, Tona 8th after 11 rounds)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result markets at coin-flip prices",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesoccertv.com/teams/spain/lhospitalet/"
+  ]
+ },
+ {
+  "eid": "sr:match:73577776",
+  "fx": "CF Pobla de Mafumet v FE Grama",
+  "sport": "football",
+  "absences": "none found",
+  "context": "reserve side (Pobla de Mafumet = Gimnastic de Tarragona B): no result-side picks per binding rules; Spain Tercera Federacion (amateur 5th tier); Group 5; Grama conceding 0.4/game.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all result-sides (reserve)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesoccertv.com/teams/spain/lhospitalet/"
+  ]
+ },
+ {
+  "eid": "sr:match:73582220",
+  "fx": "CD Virgen Del Camino v Palencia CF",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 8; Virgen del Camino upper-mid (23 pts after 12 per futbolme snapshot); Palencia 1W in 5 away.",
+  "news": "no news found; group 8 calendars online mix seasons (no specific conflict for this fixture)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip result markets; Unders",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-8/3068/"
+  ]
+ },
+ {
+  "eid": "sr:match:73582218",
+  "fx": "Unionistas de Salamanca CF B v CD Colegios Diocesanos",
+  "sport": "football",
+  "absences": "none found",
+  "context": "reserve side (Unionistas de Salamanca B): no result-side picks per binding rules; Spain Tercera Federacion (amateur 5th tier); Group 8; Diocesanos 0W in 5 away, GA 2.4 away.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (reserve); not a clear enough mismatch for goals",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-8/3068/"
+  ]
+ },
+ {
+  "eid": "sr:match:73582940",
+  "fx": "UD Almeria B v Arenas Armilla CD",
+  "sport": "football",
+  "absences": "none found",
+  "context": "reserve side (UD Almeria B): no result-side picks per binding rules; Spain Tercera Federacion (amateur 5th tier); Group 9; Arenas Armilla unbeaten in 10 (5W5D); only 8 markets on board.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve home side, unbeaten visitor)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73584742",
+  "fx": "CE Andratx v UD Arenal",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 11; Andratx priced 1.29 but only 2W in last 10 (high-event games 4-2, 3-2, 2-4, 4-4); Arenal 1W7L, GF 0.6.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Andratx 1X2 at 1.29 (fragile favourite: 2 wins in 10); Unders",
+  "confidence": 0.15,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-11/3065/"
+  ]
+ },
+ {
+  "eid": "sr:match:73564440",
+  "fx": "Jerez CF v AD Llerenense",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 14; LaPreferente: Llerenense 2nd on 23 pts after J11 and unbeaten in 10 (5W5D, GA 0.5), yet house makes Jerez (3W in 10) favourite.",
+  "news": "no team news found; Jerez beat Moralo 2-0 in J11.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Jerez 1X2 (form contradicts price); divergence too wide to bet the away side",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lapreferente.com/C26759-12/tercera-federacion-grupo-14/widget.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73585820",
+  "fx": "CD Marino v CD San Miguel",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 12 (Canarias); San Miguel 7W in 10 overall but 2W in 5 away; Marino unbeaten at home (2W2D).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip result markets",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:67126910",
+  "fx": "Degerfors IF v Orgryte IS",
+  "sport": "football",
+  "absences": "none reported in found sources",
+  "context": "Allsvenskan final round (all 8 games 15:00 CET). Degerfors last (21 pts, GD -25) must win and needs Halmstad to drop points; Degerfors 0W in last 10 and lost all 4 recent home games. Orgryte status near the playoff line unclear (Fotbollskanalen earlier had them on the playoff spot) = possible two-sided motivation.",
+  "news": "Goitom (Degerfors coach): \"we must win\" v Orgryte; Halmstad result can relegate Degerfors regardless.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8018,
+    "why": "Degerfors must chase a win and concede freely (GA 1.8, 2.0 at home); Orgryte away GA 2.75; 5/6 recent games each side had 2+ goals; est p 0.82 v house 0.80."
+   }
+  ],
+  "avoid": "Degerfors 1X2 at 2.05 (0 wins in 10); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://svenskelitfotboll.se/allsvenskan-avgors-pa-sondag-har-ar-forutsattningarna-infor-den-sista-omgangen/",
+   "https://www.tvmatchen.nu/sport/fotboll/bottenstriden-allsvenskan-2026/",
+   "https://bollsvenskan.se/degerfors-maste-vinna-mot-orgryte-goitom-vi-kan-springa-ut-i-luciadrakter/",
+   "https://www.fotbollskanalen.se/artiklar/allsvenskan/just-nu-orgryte-kalmar"
+  ]
+ },
+ {
+  "eid": "sr:match:67126902",
+  "fx": "Djurgardens IF v BK Hacken",
+  "sport": "football",
+  "absences": "Djurgarden: Oskar Fallenius leaving at year-end (farewell before kick-off, likely starts); Hacken: no suspensions reported (Hurbra). The \"Hacken three suspended\" article is from Nov 2024, not this season.",
+  "context": "Allsvenskan final round, 3Arena: decides 3rd place (Conference League qualifying). Both on 52 pts (Hurbra says 55, a data conflict on points only); DIF GD +28 v Hacken +18, so a draw keeps Djurgarden 3rd and Hacken must win. Djurgarden have confirmed Sam Saunders as next coach.",
+  "news": "Third-place decider; Hacken must win, a draw suffices for Djurgarden; DIF coaching transition announced.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (big-club clash, house near-even); Over 1.5 below 1.18",
+  "confidence": 0.2,
+  "sources": [
+   "https://svenskelitfotboll.se/allsvenskan-avgors-pa-sondag-har-ar-forutsattningarna-infor-den-sista-omgangen/",
+   "https://hurbra.se/djurgarden-hacken-tv-29-november-2026/",
+   "https://bollsvenskan.se/klart-oskar-fallenius-lamnar-djurgarden-jag-vill-garna-ut-i-europa-tackas-av-pa-3arena-pa-sondag/",
+   "https://www.dif.se/nyheter/2026/avsparkstider-klara-for-omgang-24-30"
+  ]
+ },
+ {
+  "eid": "sr:match:67126916",
+  "fx": "Halmstads BK v Mjallby AIF",
+  "sport": "football",
+  "absences": "Halmstad: Trybull left training early (doubt); Mjallby: none found",
+  "context": "Allsvenskan final round. Halmstad 15th (23 pts) must win to reach the playoff spot and relegate Degerfors; Mjallby 12th (29 pts) safe and come off a Conference League 0-1 defeat in Almaty with a nine-hour trip home midweek. Near sell-out crowd (~6,000+).",
+  "news": "Must-win Halmstad at home v a travel-fatigued, safe Mjallby (0-1 in Almaty, 9-hour trip).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.7954,
+    "why": "Named mechanism: Mjallby fatigue after midweek Conference League in Kazakhstan plus nothing to play for, against a must-win Halmstad at home; DNB covers the draw; est p 0.83 v house 0.80."
+   }
+  ],
+  "avoid": "Unders; Mjallby result-sides",
+  "confidence": 0.35,
+  "sources": [
+   "https://bollsvenskan.se/granath-infor-hbk-avgorandet-samtidigt-ar-jag-mjallbyspelare-nu-och-gor-allt-for-att-vi-ska-vinna-nio-timmars-resa-hem-efter-0-1-i-almaty/",
+   "https://bollsvenskan.se/baxter-oppnar-for-fortsattning-i-hbk-mote-med-ordforanden-infor-mjallby-trybull-klev-av-traningen/",
+   "https://www.tvmatchen.nu/sport/fotboll/bottenstriden-allsvenskan-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:67126908",
+  "fx": "IF Elfsborg v GAIS",
+  "sport": "football",
+  "absences": "no Elfsborg/GAIS round-30 injury news found",
+  "context": "Allsvenskan final round; Elfsborg about 5th and GAIS about 7th (tables conflict). Probably little at stake (dead rubber for result purposes). Elfsborg 3W1D1L at home, conceding 0.4/game there.",
+  "news": "no team news found; Kamara (Elfsborg) contract made permanent to 2030",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.8138,
+    "why": "End-of-season mid-table game; 5/6 recent games for each side had 2+ goals; both average about 2.7 goals per game; est p 0.82 v house 0.81 (fill-grade)."
+   }
+  ],
+  "avoid": "result-sides (dead-rubber risk)",
+  "confidence": 0.2,
+  "sources": [
+   "https://svenskelitfotboll.se/allsvenskan-avgors-pa-sondag-har-ar-forutsattningarna-infor-den-sista-omgangen/",
+   "https://bollsvenskan.se/momoh-kamara-klar-for-elfsborg-till-2030-sverige-ar-mitt-andra-hem-nu/"
+  ]
+ },
+ {
+  "eid": "sr:match:67126904",
+  "fx": "IFK Goteborg v IK Sirius",
+  "sport": "football",
+  "absences": "IFK Goteborg: Sam Larsson (muscle), August Erlingmark (foot), Adam Bergmark Wiberg (head), Arbnor Mucolli (rehab) out; Max Fenger doubtful (illness); Heintz and Bager back from suspension. Sirius: Melker Heier expected fit.",
+  "context": "Allsvenskan final round, Gamla Ullevi (poor pitch). Sirius level on points with Hammarby but worse GD, so they must win and hope Hammarby slip at Vasteras. Sirius in a poor autumn (9th in form table since round 16 after a 14-pt lead). Goteborg have nothing to play for and several absences.",
+  "news": "Sirius need a win for any title chance; Goteborg depleted (Larsson, Erlingmark, Bergmark Wiberg, Mucolli out).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.22,
+    "p": 0.7802,
+    "why": "Must-win Sirius v a depleted Goteborg with nothing at stake; DC covers the draw given Sirius form collapse; est p 0.79 v house 0.78."
+   }
+  ],
+  "avoid": "Sirius 1X2 (p 0.56 < 0.75 away rule); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://hurbra.se/ifk-goteborg-sirius-tv-29-november-2026",
+   "https://bollsvenskan.se/sirius-forbereder-for-svarspelat-underlag-pa-gamla-ullevi-engelmark-det-kommer-att-bli-mycket-kamp/",
+   "https://bollsvenskan.se/thern-sirius-nia-fran-omgang-16-efter-14-poangsledning-det-sitter-inte-i-benen-utan-det-har-satt-sig-i-huvudena-pa-spelarna/"
+  ]
+ },
+ {
+  "eid": "sr:match:67126914",
+  "fx": "Kalmar FF v AIK",
+  "sport": "football",
+  "absences": "Kalmar: no absentees reported in recent rounds; AIK: none found",
+  "context": "Allsvenskan final round. Kalmar 13th (26 pts) cannot go down directly and are judged at minimal playoff risk. Kalmar score 0.25/game at home in the last 4. AIK motivation unclear.",
+  "news": "Kalmar near-safe (\"minimal playoff risk\", Barometern); no AIK news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kalmar 1X2 at 1.84 (GF 0.5 in last 10); Over 1.5 at minimum odds",
+  "confidence": 0.15,
+  "sources": [
+   "https://bollsvenskan.se/strom-kalmar-ffs-bottenlage-drivs-av-ineffektivitet-och-enkla-baklangesmal-sasongen-delvis-bortslarvad/",
+   "https://www.tvmatchen.nu/sport/fotboll/bottenstriden-allsvenskan-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73582232",
+  "fx": "CD Mirandes B v CD Calasanz",
+  "sport": "football",
+  "absences": "none found",
+  "context": "reserve side (CD Mirandes B): no result-side picks per binding rules; Spain Tercera Federacion (amateur 5th tier); Group 8; both sides poor (Mirandes B 0W in 10, Calasanz 1W in 10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73583650",
+  "fx": "Atletico Onubense v UD Tomares",
+  "sport": "football",
+  "absences": "none found",
+  "context": "reserve side (Atletico Onubense = Recreativo de Huelva B): no result-side picks per binding rules; Spain Tercera Federacion (amateur 5th tier); Group 10; Tomares 4W in 5 away; Onubense 0W at home in 5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73582222",
+  "fx": "CD Guijuelo v Jupiter Leones",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 8; Guijuelo about 16 pts after 12 (futbolme snapshot), high-scoring at home (2.6 GF, 1.8 GA); Jupiter Leones 5W3D2L.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip result markets; Unders",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-8/3068/"
+  ]
+ },
+ {
+  "eid": "sr:match:73562258",
+  "fx": "CD Caspe v CDJ Tamarite",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 17 (Aragon); Caspe unbeaten at home in 5 (3W2D, 2.0 GF); Tamarite lost all 5 away (GF 0.8, GA 2.8) and 8 of 10 overall.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.6557,
+    "why": "Tamarite 0/5 away with GA 2.8 v Caspe unbeaten at home; DNB covers the draw; est p 0.70 v house 0.66 (stats-led)."
+   }
+  ],
+  "avoid": "Unders (amateur ban)",
+  "confidence": 0.2,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73586702",
+  "fx": "Aguilas FC B v FC Cartagena B",
+  "sport": "football",
+  "absences": "none found",
+  "context": "reserve side (both are B sides: Aguilas FC B v FC Cartagena B): no result-side picks per binding rules; Spain Tercera Federacion (amateur 5th tier); Group 13 (Murcia); Aguilas B unbeaten in 10 (GA 0.3).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve v reserve)",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/jornada/13"
+  ]
+ },
+ {
+  "eid": "sr:match:74567804",
+  "fx": "Cotillas CD v CF Santomera",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 13; futbolme J13 page (29 Nov) has CF Santomera 1st; Santomera 8W1D1L in 10 (2.3 GF); Cotillas 2W7L, 1W in 5 at home.",
+  "news": "Santomera lead the group per futbolme J13 table; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.18,
+    "p": 0.8038,
+    "why": "Leaders Santomera (8W in 10) v struggling Cotillas (7L in 10); DC used because away 1X2 p 0.56 is below the 0.75 rule; est p 0.82 v house 0.80."
+   }
+  ],
+  "avoid": "Santomera 1X2 (away rule)",
+  "confidence": 0.25,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/jornada/13"
+  ]
+ },
+ {
+  "eid": "sr:match:73586692",
+  "fx": "Union Molinense CF 2020 v UD Los Garres",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 13; Union Molinense priced 1.37, but 4W in 10 (3W1D1L at home); only 8 markets on board.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Molinense 1X2 at 1.37 (thin form edge)",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/jornada/13"
+  ]
+ },
+ {
+  "eid": "sr:match:73560484",
+  "fx": "CD Marchamalo v CD Noblejas",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 18 (Castilla-La Mancha); both leaky (Marchamalo GA 2.2, Noblejas away GA 2.4); Marchamalo 1W in 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Marchamalo 1X2 (1W in 10); Unders",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-18/3066/jornada/13"
+  ]
+ },
+ {
+  "eid": "sr:match:73555746",
+  "fx": "Caudal Deportivo v El San Martin Ra",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 2 J13; Caudal priced 1.27, but 3W4D3L in 10 and lost 2 of the last 3 at home (1-2, 1-2); San Martin unbeaten in 5 away (2W3D).",
+  "news": "Reverse fixture El San Martin v Caudal listed as J30 on 11 Apr 2027, consistent with J13 on 29 Nov (no date conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Caudal 1X2 and DNB (fragile favourite: price far ahead of form)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futbolasturiano.es/evento/el-san-martin-caudal-deportivo/",
+   "https://www.siguetuliga.com/equipo/caudal-deportivo"
+  ]
+ },
+ {
+  "eid": "sr:match:73560468",
+  "fx": "CP Villarrobledo v CD Illescas",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 18; Villarrobledo 3rd and Illescas 4th level on points (futbolme snapshot); Villarrobledo 5 draws in 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "coin-flip result markets; Unders",
+  "confidence": 0.1,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-18/3066/jornada/29"
+  ]
+ },
+ {
+  "eid": "sr:match:73586696",
+  "fx": "CD Bala Azul v Bullas Deportivo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Spain Tercera Federacion (amateur 5th tier); Group 13; Bullas 0W2D8L in 10 (GA 2.6; 0W1D4L away, GA 2.8); Bala Azul 7th, conceding 0.25/game at home.",
+  "news": "no news found (futbolme J13 table: Bala Azul 7th)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.21,
+    "p": 0.779,
+    "why": "Winless Bullas (0W in 10, GA 2.8 away) v a tight Bala Azul home defence (GA 0.25); DNB covers the draw; est p 0.82 v house 0.78."
+   }
+  ],
+  "avoid": "Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://futbolme.com/resultados-directo/torneo/tercera-federacion-grupo-13/3074/jornada/13"
+  ]
+ }
+]

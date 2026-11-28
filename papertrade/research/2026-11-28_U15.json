@@ -1,0 +1,643 @@
+[
+ {
+  "eid": "sr:match:75024602",
+  "fx": "CD Subiza v UD Mutilvera",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 15 (Navarra); Mutilvera unbeaten in last 10 (6W4D) per data; no date/venue conflict found",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73563052",
+  "fx": "Casalarreina CF v Comillas CF",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 16 (La Rioja); both sides winless in last 10 (Casalarreina 0-0-10, Comillas 0-2-8); bottom-table clash",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73579010",
+  "fx": "SC Torrevieja CF v FC Jove Espanol San Vicente",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 6 (Valencia); both low-scoring (0.8/1.1 gf)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73581390",
+  "fx": "AD Torrejon CF v CD Leganes B",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier); reserve side involved Group 7 (Madrid); fixture Torrejon v Leganes B confirmed for 29 Nov by ScoreBat",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk; reserve side",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.scorebat.com/spain-tercera-rfef-group-7-standings-stats-and-games/",
+   "https://www.estadioteca.es/3a-rfef/grupo-7"
+  ]
+ },
+ {
+  "eid": "sr:match:73581384",
+  "fx": "Cp Parla Escuela v Las Rozas CF",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 7 (Madrid); Las Rozas in 2026-27 group per sources",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.scorebat.com/spain-tercera-rfef-group-7-standings-stats-and-games/",
+   "https://www.estadioteca.es/3a-rfef/grupo-7"
+  ]
+ },
+ {
+  "eid": "sr:match:73581386",
+  "fx": "Siello Nuevo Boadilla FC v Rayo Vallecano B",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier); reserve side involved Group 7 (Madrid); Rayo Vallecano B reserve; Boadilla 2-1-7, ga 2.6",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk; reserve side",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.scorebat.com/spain-tercera-rfef-group-7-standings-stats-and-games/",
+   "https://www.estadioteca.es/3a-rfef/grupo-7"
+  ]
+ },
+ {
+  "eid": "sr:match:73581398",
+  "fx": "CD Mostoles URJC v UD Sanse",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 7; ScoreBat lists the opponent as \"SS Reyes-2\", i.e. UD Sanse is the reserve/B side (board name omits B). Mostoles 7-1-2 (2.4 gf), Sanse 1-2-7 conceding 2.9/game",
+  "news": "Fixture Mostoles v SS Reyes B confirmed for 29 Nov (ScoreBat); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.51,
+    "p": 0.620458,
+    "why": "Mechanism: reserve visitor concedes 2.9/game in last 10 (0-4, 1-2, 0-2 away) v Mostoles scoring 2.4/game incl. 5-1, 6-1, 3-0 recently. Own p ~0.65 v house 0.62. Amateur tier, small stake only."
+   }
+  ],
+  "avoid": "result-side v reserve side in amateur tier; Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.scorebat.com/spain-tercera-rfef-group-7-standings-stats-and-games/",
+   "https://www.estadioteca.es/3a-rfef/grupo-7"
+  ]
+ },
+ {
+  "eid": "sr:match:72559276",
+  "fx": "Racing Club de Ferrol v Merida AD",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Primera Federacion Group 1 matchday 14, 12:00 local (=11:00 UTC, matches board). Ferrol 3rd (16 pts in RFEF snapshot), Merida 9th (13). Ferrol low-scoring: 0.9 gf / 0.7 ga last 10",
+  "news": "Kick-off 12:00 local per RFEF/BeSoccer (consistent with board); no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.23,
+    "p": 0.7619014347,
+    "why": "Ferrol 3rd, concede 0.7/game, lost 1 of last 5 at home (H 1-2 only home defeat in last 6). Statistics/table only, no named mechanism -> fill. Own p ~0.76 = house."
+   }
+  ],
+  "avoid": "Under 3.5 (p 0.71 < 0.82); Ferrol -0.5 in a tight low-scoring side",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.racingclubferrol.net/partidos/temporada-2026-2027-primera-federacion-14-racing-club-ferrol-vs-ad-merida-4031",
+   "https://es.besoccer.com/livescore/2026-11-29",
+   "https://www.orange.es/orange-tv/futbol/partidos-horarios"
+  ]
+ },
+ {
+  "eid": "sr:match:73581388",
+  "fx": "AD Union Adarve v AD Cala Pozuelo",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 7 (Madrid)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.scorebat.com/spain-tercera-rfef-group-7-standings-stats-and-games/",
+   "https://www.estadioteca.es/3a-rfef/grupo-7"
+  ]
+ },
+ {
+  "eid": "sr:match:73581392",
+  "fx": "CF Fuenlabrada v CD Galapagar",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 7 (Madrid); Fuenlabrada v Galapagar confirmed for 29 Nov by ScoreBat",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.scorebat.com/spain-tercera-rfef-group-7-standings-stats-and-games/",
+   "https://www.estadioteca.es/3a-rfef/grupo-7"
+  ]
+ },
+ {
+  "eid": "sr:match:73581382",
+  "fx": "CF Pozuelo de Alarcon v Real Aranjuez CF",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 7 (Madrid)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.scorebat.com/spain-tercera-rfef-group-7-standings-stats-and-games/",
+   "https://www.estadioteca.es/3a-rfef/grupo-7"
+  ]
+ },
+ {
+  "eid": "sr:match:73553870",
+  "fx": "CD Arenteiro v Viveiro CF",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 1 (Galicia); Arenteiro in Tercera after administrative relegation; Viveiro and Arenteiro near the bottom of the table per Siguetuliga snapshot",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.siguetuliga.com/liga/galicia-tercera-division-tercera-division-rfef--grupo-1",
+   "https://minutonoventa.com/tercera-federacion-galicia-2026-27-equipos-calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:73583646",
+  "fx": "Conil CF v CD Egabrense",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 10 (Andalucia); Egabrense 14 pts, Conil 11 pts per Maratonfutbol snapshot",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.maratonfutbol.com/competiciones-oficiales/tercera-federacion-grupo-10-andalucia-2026-2027",
+   "https://es.soccerway.com/espana/tercera-rfef-grupo-10/"
+  ]
+ },
+ {
+  "eid": "sr:match:73583636",
+  "fx": "Cordoba CF B v Sevilla FC C",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier); reserve side involved Group 10; both reserve sides (Cordoba B 7 pts, Sevilla C 8 pts)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk; reserve side",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.maratonfutbol.com/competiciones-oficiales/tercera-federacion-grupo-10-andalucia-2026-2027",
+   "https://es.soccerway.com/espana/tercera-rfef-grupo-10/"
+  ]
+ },
+ {
+  "eid": "sr:match:73583648",
+  "fx": "Dos Hermanas CF 1971 v Chiclana CF",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 10 (Andalucia). Dos Hermanas 1st with 23 pts from 10 per Maratonfutbol snapshot; Chiclana 9 pts. Home 7-1-2, 2.6 gf; Chiclana 2-2-6",
+  "news": "Table: Dos Hermanas league leaders, Chiclana lower half; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.723188,
+    "why": "Leader (23 pts/10) v lower-half side (9 pts); Dos Hermanas score 2.6/game, Chiclana lost 6 of 10. Table/form only, amateur tier -> fill. Own p ~0.73 v house 0.72."
+   }
+  ],
+  "avoid": "Unders (amateur); -1.5",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.maratonfutbol.com/competiciones-oficiales/tercera-federacion-grupo-10-andalucia-2026-2027",
+   "https://es.soccerway.com/espana/tercera-rfef-grupo-10/"
+  ]
+ },
+ {
+  "eid": "sr:match:72478744",
+  "fx": "Valencia v Osasuna",
+  "sport": "football",
+  "absences": "Osasuna: Catena suspended; Bretones, Aitor Fernandez, Yeboah out; Herrando just back from injury partners Boyomo. Valencia: Gaya returns",
+  "context": "LaLiga, Mestalla, Sun 29 Nov 14:00 local (13:00 UTC, matches board). Mid-table match",
+  "news": "Osasuna centre-back Catena suspended -> patched defence; Valencia get Gaya back",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.3,
+    "p": 0.733706,
+    "why": "Named mechanism: Osasuna without suspended Catena plus three injured (Bretones, Aitor Fernandez, Yeboah); Valencia regain Gaya; Osasuna 3-2-5 last 10 conceding 1.7. Own p ~0.76 v house 0.73."
+   }
+  ],
+  "avoid": "Under 3.5 (p 0.78 < 0.82); Valencia -0.5 at 2.15",
+  "confidence": 0.3,
+  "sources": [
+   "https://scoregpt.app/ai-football-predictions/la-liga/valencia-vs-osasuna-2026-11-29",
+   "https://statz.ai/news/19732603-valencia-vs-osasuna-predictions-betting-tips"
+  ]
+ },
+ {
+  "eid": "sr:match:72477636",
+  "fx": "Granada v AD Ceuta",
+  "sport": "football",
+  "absences": "Ceuta: Cedric Teguia suspended (red v Almeria); Jordi Escobar out for season (knee)",
+  "context": "LaLiga 2 (Hypermotion), Nuevo Los Carmenes, 14:00 local (13:00 UTC). Granada 7-1-2 last 10; Ceuta 2-1-7, conceding 2.0. Lobera: \"we have to add points\"",
+  "news": "Ceuta without suspended Teguia and long-term injured Escobar; Granada no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.22,
+    "p": 0.785968,
+    "why": "Granada 7-1-2 (home 1.9 gf/1.0 ga), Ceuta 2-1-7 and missing Teguia (suspended) and Escobar (season). DNB removes the draw. Own p ~0.80 v house 0.79."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.56,
+    "p": 0.616033,
+    "why": "Same mechanism; Ceuta lost 7 of 10 incl. 0-2, 0-3, 1-3 away. Own p ~0.64 v house 0.62."
+   }
+  ],
+  "avoid": "Unders; Ceuta +2.5 (fav p 0.62)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.ceutatv.com/ad-ceuta-fc/lobera-bastan-sensaciones-tenemos-que-sumar-puntos-escalar-clasificacion/20261127122735262275.html",
+   "https://www.laliga.com/en-GB/laliga-hypermotion",
+   "https://diadefutbol.es/competicion/laliga-hypermotion/jornada-17"
+  ]
+ },
+ {
+  "eid": "sr:match:73068248",
+  "fx": "CF Rayo Majadahonda v Real Madrid Castilla",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Primera Federacion Group 2, Cerro del Espino, 16:00 local per club (=15:00 UTC, matches board; gainblers lists 10:00 - outlier in another timezone). Real Madrid Castilla is a reserve side. Rayo Majadahonda near bottom (~19th, 7 pts), 2-0-8, 0.4 gf; lost 0-1 v Aguilas and 0-2 at Zaragoza",
+  "news": "Club confirms 16:00 local kick-off, tickets on sale; Rayo in poor form; standings sources inconsistent",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "reserve side (Castilla) - no result-sides; Under 3.5 p 0.75 < 0.82",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.rayomajadahonda.com/post/ya-disponibles-las-entradas-para-el-rayo-majadahonda-real-madrid-castilla",
+   "https://www.365scores.com/es/football/team/rayo-majadahonda-18068/standings",
+   "https://gainblers.com/us/bets/football/spain/primera-rfef-ii/rayomajadahonda-realmadridcastilla/"
+  ]
+ },
+ {
+  "eid": "sr:match:72478730",
+  "fx": "RC Deportivo de A Coruna v Barcelona",
+  "sport": "football",
+  "absences": "Barcelona: Andreas Christensen out (not back in group training); Rodri back in training after hamstring, likely bench. Deportivo: near-full squad, Aubameyang fit after meniscus surgery, Marc Casado back from collarbone fracture",
+  "context": "LaLiga, Riazor, 16:15 local (15:15 UTC, matches board). Barcelona top on 36 pts (12W in 13), Depor 12th, newly promoted. Barcelona played Sabah midweek and face Atletico in the Champions League next midweek -> rotation risk (Flick expected to change the XI)",
+  "news": "Leaders Barcelona at promoted Depor; Christensen out, Rodri back; UCL v Atletico next midweek",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.25,
+    "p": 0.7729122167,
+    "why": "Barcelona 3.3 gf/1.4 ga last 10 (4-1, 3-2, 6-1); Depor at full strength with Aubameyang to attack, so goals both ways. Rotation affects result more than totals. Own p ~0.78 v house 0.77."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.25,
+    "p": 0.788926,
+    "why": "Leaders 12W/13 v 12th-placed promoted side; away p 0.79 >= 0.75. Rotation before UCL v Atletico is the risk. Own p ~0.77 (slightly below house)."
+   }
+  ],
+  "avoid": "Barcelona -1.5/-2 (rotation); Depor +2.5 (fav p 0.79)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.barcablaugranes.com/barcelona-team-news/139185/andreas-christensen-rodri-training-deportivo-atletico",
+   "https://sixsports.in/deportivo-la-coruna-vs-barcelona-predicted-lineups-team-news-injuries/",
+   "https://www.livescore.com/en/news/football/laliga/deportivo-vs-barcelona-la-liga-preview-predictions-team-news-and-tv-info-everything-barca/"
+  ]
+ },
+ {
+  "eid": "sr:match:72477642",
+  "fx": "Mallorca v CD Castellon",
+  "sport": "football",
+  "absences": "Castellon: Fabrizio Brignani out (ACL). Mallorca: no absences reported",
+  "context": "LaLiga 2, 16:15 local (15:15 UTC). Castellon 7-2-1 last 10 conceding 0.3/game; top scorer Isra Suero 6. Mallorca 4-5-1",
+  "news": "Castellon in strong form, Brignani out long-term; Mallorca full squad per ceroacero",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.56,
+    "p": 0.586407,
+    "why": "Castellon 7-2-1 conceding 0.3/game (six clean sheets in last 6 shown); Mallorca draw-prone (5 draws in 10). Form only, no strong named absence -> fill. Own p ~0.61 v house 0.59."
+   }
+  ],
+  "avoid": "Unders (p < 0.82); Mallorca result-side",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.ceroacero.es/noticias/mallorca-vs-castellon-prediccion-noticias-de-equipos-y-alineaciones-segunda-division-29-11/1271435"
+  ]
+ },
+ {
+  "eid": "sr:match:73553860",
+  "fx": "Antela FC v Atletico Coruna Montaneros CF",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 1 (Galicia); Antela near the top per Siguetuliga snapshot; Montaneros 3-0-7",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.siguetuliga.com/liga/galicia-tercera-division-tercera-division-rfef--grupo-1",
+   "https://minutonoventa.com/tercera-federacion-galicia-2026-27-equipos-calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:73563050",
+  "fx": "CA Vianes v CD Varea",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 16 (La Rioja); Varea 6-1-3 v Vianes 2-2-6",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73579012",
+  "fx": "CF Villarreal C v CD Eldense B",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier); reserve side involved Group 6; both reserve sides (Villarreal C v Eldense B)",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk; reserve side",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73553868",
+  "fx": "CD BARCO v CD Estradense",
+  "sport": "football",
+  "absences": "not researched (amateur)",
+  "context": "Spanish Tercera Federacion (amateur, 5th tier) Group 1 (Galicia); Barco joint top per Siguetuliga snapshot, 5-4-1 last 10",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "amateur regional tier: no Unders, thin-league goals risk",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.siguetuliga.com/liga/galicia-tercera-division-tercera-division-rfef--grupo-1",
+   "https://minutonoventa.com/tercera-federacion-galicia-2026-27-equipos-calendario/"
+  ]
+ },
+ {
+  "eid": "sr:match:72559264",
+  "fx": "Real Aviles CF v CD Mirandes",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Primera Federacion Group 1 matchday 14, 18:15 local (17:15 UTC, matches board). Mirandes (relegated from LaLiga 2) ~5th; Aviles ~14th but scoring 2.3/game. Aviles games: 5-2, 3-0, 1-3, 2-2; Mirandes 7-5, 3-1",
+  "news": "Fixture/time confirmed by RFEF listing; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.7792660355,
+    "why": "Aviles 2.3 gf/1.4 ga last 10 and every one of their last 6 had 2+ goals; Mirandes last 6 had 2+ goals in 5. Own p ~0.80 v house 0.78. Statistics-based -> fill."
+   }
+  ],
+  "avoid": "result-sides (balanced)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.racingclubferrol.net/partidos/temporada-2026-2027-primera-federacion-14-racing-club-ferrol-vs-ad-merida-4031",
+   "https://es.besoccer.com/livescore/2026-11-29",
+   "https://www.orange.es/orange-tv/futbol/partidos-horarios"
+  ]
+ },
+ {
+  "eid": "sr:match:72478728",
+  "fx": "Celta v Villarreal",
+  "sport": "football",
+  "absences": "Villarreal: Pau Navarro suspended (red at Camp Nou), Nathan Saliba and Diatta injured; Gerard Moreno, Ilias Akhomach, Juan Foyth muscle problems, doubtful. Celta: one source says Yoel Lago suspended, another names Yoel Dominguez - conflicting",
+  "context": "LaLiga matchday 14, Balaidos, 18:30 local (17:30 UTC, matches board). Celta unbeaten in last 5 home league games v Villarreal",
+  "news": "Villarreal with a long absence list (Pau Navarro suspended, Saliba, Diatta out; Moreno, Akhomach, Foyth doubts); Celta defender suspension (name conflicting)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0.5",
+    "desc": "Home (+0.5)",
+    "odds": 1.55,
+    "p": 0.6201016403,
+    "why": "Named mechanism: Villarreal missing Pau Navarro (susp), Saliba, Diatta and possibly Gerard Moreno, Akhomach, Foyth; Celta unbeaten in 5 home league games v Villarreal. Own p ~0.65 v house 0.62."
+   }
+  ],
+  "avoid": "Unders; Celta outright; Villarreal result-side",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.comuniate.com/noticias/39360/celta-villarreal-previa-alineaciones-probables-y-consejos-fantasy-jornada-14-de-laliga",
+   "https://www.ceroacero.es/noticias/celta-de-vigo-vs-villarreal-cf-prediccion-noticias-de-equipos-y-alineaciones-laliga-29-11/1271597",
+   "https://www.forebet.com/es/football-match-previews/32669-celta-vigo-and-villarreal-set-for-another-balanced-encounter-at-abanca-balaidos"
+  ]
+ },
+ {
+  "eid": "sr:match:72477630",
+  "fx": "Cadiz v Cordoba CF",
+  "sport": "football",
+  "absences": "no current news found (only previous-season previews)",
+  "context": "LaLiga 2, Andalusian derby, 18:30 local (17:30 UTC). Cordoba 5-2-3, 2.0 gf/1.5 ga; Cadiz 4-2-4, 1.7 gf",
+  "news": "no news found for this fixture",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.51,
+    "p": 0.626442,
+    "why": "Both attack-heavy: Cordoba 2.0 gf/1.5 ga (3-3, 2-2, 1-3, 3-0), Cadiz 1.7 gf. Derby means no result-side; the total is the angle. Own p ~0.64 v house 0.63."
+   }
+  ],
+  "avoid": "result-sides (derby); Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://diadefutbol.es/competicion/laliga-hypermotion/jornada-17"
+  ]
+ },
+ {
+  "eid": "sr:match:73068250",
+  "fx": "Real Murcia CF v UE Sant Andreu",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Primera Federacion Group 2, 20:30 local (19:30 UTC, matches board). Real Murcia ~4th (16 pts), Sant Andreu ~15th (9 pts). Murcia low-scoring: 0.9 gf/0.8 ga",
+  "news": "Fixture/time confirmed by RFEF listing; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.36,
+    "p": 0.6897753451,
+    "why": "Murcia ~4th v ~15th; Murcia concede 0.8/game; DNB protects v the draw in a low-scoring side. Table-only -> fill. Own p ~0.70 v house 0.69."
+   }
+  ],
+  "avoid": "Under 3.5 (p 0.74 < 0.82); Murcia -0.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://rfef.es/es/noticias/decimocuarto-capitulo-de-la-serie",
+   "https://www.fotmob.com/teams/8392/table/real-murcia"
+  ]
+ },
+ {
+  "eid": "sr:match:72478742",
+  "fx": "Real Sociedad v Sevilla",
+  "sport": "football",
+  "absences": "Real Sociedad: Yangel Herrera, Alvaro Odriozola, Ander Barrenetxea, Jon Aramburu, Lander Astiazaran out. Sevilla: Marcao, Jose Angel Carmona (tibia/fibula), Alfon Gonzalez (ACL), Miguel Sierra out (club attribution partly inconsistent across sources)",
+  "context": "LaLiga, Anoeta, 21:00 local (20:00 UTC, matches board). Real Sociedad may have played Europa League midweek (Yahoo squad report) -> possible fatigue",
+  "news": "Long injury lists on both sides; Real Sociedad with Europa League midweek load",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.7733458476,
+    "why": "Both defences depleted (Sociedad without Aramburu/Odriozola full-backs; Sevilla without Marcao/Carmona). Sociedad 2.3 gf/1.4 ga, Sevilla ga 1.7. Own p ~0.78 v house 0.77."
+   }
+  ],
+  "avoid": "result-sides (both depleted, European congestion for Sociedad); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/real-sociedad/preview/real-sociedad-vs-sevilla-prediction-team-news-lineups_609999.html",
+   "https://sports.yahoo.com/soccer/articles/preview-real-sociedad-vs-sevilla-190000800.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72477628",
+  "fx": "Almeria v Sporting Gijon",
+  "sport": "football",
+  "absences": "Almeria: Stefan Dzodic suspended. Sporting: Guille Rosas suspended; Gelabert, Casas, Pablo Garcia, Manu Rodriguez, Konrad de la Fuente injured",
+  "context": "LaLiga 2, 21:00 local (20:00 UTC). Almeria leaders on 35 pts, unbeaten in last 10 (8-2-0). Sporting 5-1-4 with a long absence list",
+  "news": "Leaders Almeria v Sporting missing six (Rosas suspended, Gelabert, Casas, Pablo Garcia, Manu Rodriguez, Konrad injured)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.748631,
+    "why": "Named mechanism: Sporting without six players incl. Gelabert and Rosas; Almeria leaders unbeaten in 10. DNB protects the draw. Own p ~0.78 v house 0.75."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.69,
+    "p": 0.56804,
+    "why": "Same mechanism; Almeria 2.1 gf at 8-2-0. Own p ~0.60 v house 0.57."
+   }
+  ],
+  "avoid": "Unders; Sporting +1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://news.bet365.es/es-es/article/almeria-vs-sporting-alineaciones-estadisticas-horario-donde-ver/2026112712062587680",
+   "https://www.laliga.com/en-GB/laliga-hypermotion",
+   "https://diadefutbol.es/competicion/laliga-hypermotion/jornada-17"
+  ]
+ }
+]
