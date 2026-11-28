@@ -1,0 +1,563 @@
+[
+ {
+  "eid": "sr:match:73576740",
+  "fx": "Adhyaksa Farmel FC v PSS Sleman",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Super League 2026/27 wk11; both promoted clubs (Adhyaksa via playoff, PSS as Championship Group B winner). Adhyaksa home 0W 3D 1L, 0.25 gf.",
+  "news": "365Scores lists the fixture on Fri 27 Nov 08:30 at Stadion Tuah Pahoe; the board has 28 Nov 08:30. Date conflict.",
+  "veto": true,
+  "veto_reason": "Date conflict: 365Scores gives 27 Nov, board gives 28 Nov; the same page also mislabels the round (4 v 11).",
+  "picks": [],
+  "avoid": "everything; date conflict",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/football/match/super-league-5431/adhyaksa-pss-sleman-47188-96891-5431",
+   "https://www.cnnindonesia.com/olahraga/20260503173947-142-1354652/pss-sleman-promosi-ke-super-league-persipura-playoff-lawan-adhyaksa"
+  ]
+ },
+ {
+  "eid": "sr:match:73576748",
+  "fx": "Bali United FC v Bhayangkara Presisi Indonesia FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Super League wk11, Kapten I Wayan Dipta, 15:30 WIB (=08:30 UTC, matches board). Bali at home in last 10: 3W 1D 0L, 3.75 gf. Bhayangkara (Oscar Bruzon) away: 1W 3D 1L.",
+  "news": "Bola.net: Bali attack Irfan Jaya, Teppei Yachida and Marko Dugandzic; tips 3-2 Bali. Bruzon expects a tough game. No absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.35,
+    "p": 0.7029282323,
+    "why": "Bali home form 3W1D (3.75 gf) with Yachida/Dugandzic/Irfan Jaya all fit; DNB removes the draw risk v a draw-heavy Bhayangkara (5D in 10). My p 0.72."
+   }
+  ],
+  "avoid": "Bali -1 / home 1X2 (Bhayangkara lose rarely, 1L in 10); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.bola.net/indonesia/prediksi-bri-super-league-bali-united-vs-bhayangkara-fc-28-november-2026-216707.html",
+   "https://www.flashscore.co.id/sepak-bola/indonesia/super-league/"
+  ]
+ },
+ {
+  "eid": "sr:match:73576746",
+  "fx": "Psim Yogyakarta v Persijap Jepara",
+  "sport": "football",
+  "absences": "none confirmed for this match (results returned only March 2026 absences)",
+  "context": "Super League wk11, Stadion Sultan Agung, 15:30 WIB. Relegation-zone six-pointer. Persijap 0W in last 10 (8L), away 0W 1D 4L, 0.4 gf away.",
+  "news": "No current team news found; the fixture is confirmed for 28 Nov at Sultan Agung.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.3,
+    "p": 0.733569,
+    "why": "Persijap have no win in 10 and score 0.4 per away game; a relegation scrap makes a draw the main risk, which DNB voids. Statistics-led, not a named-player mechanism. My p 0.74."
+   }
+  ],
+  "avoid": "Psim -1 (Psim themselves 2W in 10); Over 2.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.mediakompeten.co.id/psim-hadapi-persijap-pekan-11",
+   "https://www.goal.com/id/tim/persijap-jepara/jadwal-hasil/LtREjs0xLFQ50FwO17d4E"
+  ]
+ },
+ {
+  "eid": "sr:match:73576744",
+  "fx": "PSM Makassar v Dewa United",
+  "sport": "football",
+  "absences": "PSM: Nick Kuipers (CB) suspended for 4 yellows; winger Noah Sadaui suspended after a red; Jawapos says PSM are without 4 foreign players.",
+  "context": "Super League wk11, Gelora B.J. Habibie, 15:30 WIB. Dewa United (Osmar Loss) 3rd on 20 pts, chasing Persija; 7W in last 10. H2H 2-2-1, Dewa won 2-0 in Feb 2026.",
+  "news": "PSM depleted (4 foreigners out incl. Kuipers and Sadaui); previews tip 2-3 or 1-2 Dewa.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.43,
+    "p": 0.658568,
+    "why": "Named absences: PSM without CB Kuipers, Sadaui and 4 foreigners in total, v Dewa in form (7W/10). DNB covers the draw. My p 0.70 v house 0.66."
+   },
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.18,
+    "p": 0.8129679418,
+    "why": "Dewa to score against a PSM back line missing its captain/CB Kuipers; Dewa 2.0 gf per game in last 10, 2.2 away. Away team-to-score, so not for a core. My p 0.84."
+   }
+  ],
+  "avoid": "Dewa 1X2 at 1.93 (p 0.49, below the 0.75 away-1X2 gate); PSM +1.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.bola.net/indonesia/prediksi-bri-super-league-psm-vs-dewa-united-28-november-2026-ffeb3d.html",
+   "https://jawapos.com/sepak-bola-indonesia/2611280052/prediksi-skor-psm-makassar-vs-dewa-united-juku-eja-tanpa-4-pemain-asing-banten-warriors-waspada",
+   "https://liputan6.com/bola/read/8344125/psm-makassar-vs-dewa-united-banten-warriors-kejar-persija"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114362686",
+  "fx": "Barito Putera v De Red FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Championship 2026/27 wk11, Stadion 17 Mei, 15:30 WIB. Barito 2nd in group on 20 pts (Kendal Tornado 21). De Red (ex-Dejan) won in wk9. No Sportradar form data.",
+  "news": "Fixture and kick-off confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; second tier with no form data, so the price cannot be checked",
+  "confidence": 0.15,
+  "sources": [
+   "https://skor.id/posts/794707/link-live-streaming-championship-2026-2027-lima-laga-pekan-11-grup-2-pada-28-29-november",
+   "https://beritajatim.com/jadwal-championship-pekan-ke-11-persela-jamu-rans-di-surajaya",
+   "https://sport.murianews.com/dani-agus/481313/jadwal-pekan-kesebelas-championship-2026-2027-ada-persiku-vs-psms",
+   "https://www.soccerway.com/indonesia/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114362688",
+  "fx": "Persela Lamongan v Rans Nusantara",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Championship wk11, Stadion Surajaya, 15:30 WIB. Persela and RANS both on 19 pts after 10 games, chasing the top; East Java rivalry (\"duel panas\"). Persela lost 1-4 in wk9.",
+  "news": "Persela want the win to stay in the top group (Antara). No absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Persela 1X2/DNB: teams level on points, so the 1.61 favourite price is not supported by the table",
+  "confidence": 0.15,
+  "sources": [
+   "https://skor.id/posts/794707/link-live-streaming-championship-2026-2027-lima-laga-pekan-11-grup-2-pada-28-29-november",
+   "https://beritajatim.com/jadwal-championship-pekan-ke-11-persela-jamu-rans-di-surajaya",
+   "https://sport.murianews.com/dani-agus/481313/jadwal-pekan-kesebelas-championship-2026-2027-ada-persiku-vs-psms",
+   "https://www.soccerway.com/indonesia/championship/",
+   "https://jatim.antaranews.com/berita/1124391/persela-incar-kemenangan-lawan-rans-untuk-bersaing-di-papan-atas"
+  ]
+ },
+ {
+  "eid": "sr:match:74515832",
+  "fx": "Australia v Colombia",
+  "sport": "football",
+  "absences": "Matildas: Holly McNamara out (hamstring). Returning: Mary Fowler, Kyra Cooney-Cross, Alanna Kennedy, Teagan Micah, Tameka Yallop; Kahli Johnson recalled.",
+  "context": "Women's friendly, game 1 of 2 (Canberra GIO Stadium 7:35pm AEDT = 08:35 UTC, matches board; game 2 on 2 Dec in Geelong). Coach Joe Montemurro. 2027 WWC preparation.",
+  "news": "Fowler and Cooney-Cross back for the Matildas; McNamara out.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (women's friendly); goals: not a clear mismatch",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.abc.net.au/news/2026-11-16/football-mary-fowler-returns-matildas-squad-colombia-friendlies/107389656",
+   "https://aleagues.com.au/news/news-matildas-squad-named-colombia-series/"
+  ]
+ },
+ {
+  "eid": "sr:match:73549290",
+  "fx": "Budai Futball Club SE v Ferencvarosi TC",
+  "sport": "football",
+  "absences": "youth (U19), not researched",
+  "context": "Hungary U19 National. Youth fixture: only date/venue checked, nothing found against the board.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth); Fradi team Over 1.5 is p 0.63, not a clear-mismatch goals leg",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73549282",
+  "fx": "Varda Labdarugo Akademia v MTK Budapest",
+  "sport": "football",
+  "absences": "youth",
+  "context": "Hungary U19 National. Only 8 markets on the board (no goals lines).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth, result-sides only)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:73549288",
+  "fx": "Vasas Kubala Academy v Illes Akademia",
+  "sport": "football",
+  "absences": "youth",
+  "context": "Hungary U19 National. Only 8 markets on the board.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:76810838",
+  "fx": "Latvia v Lithuania",
+  "sport": "football",
+  "absences": "women's",
+  "context": "Women's friendly. Latvia 0W in last 10 (7L), yet the board makes them a 1.84 favourite. Latvia beat Lithuania 3-0 in Oct 2025.",
+  "news": "Sofascore lists the kick-off at 13:00 UTC; the board has 11:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: Sofascore 13:00 UTC v board 11:00 UTC.",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/lithuania-latvia/VlpsWlp"
+  ]
+ },
+ {
+  "eid": "sr:match:76915628",
+  "fx": "China v Thailand",
+  "sport": "football",
+  "absences": "women's; no squad news",
+  "context": "Women's friendly, Yongchuang Sports Center, Chongqing, 11:35 (matches ESPN). China won the last meeting 5-1 (Apr 2025) and beat Vietnam 3-0 in Sep 2026. Thailand won the 2026 AYA Bank Tri-Nations Cup, and their recent results are tight (0-0, 1-0, 2-0).",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "China 1X2/handicaps (women's result-sides); Over 2.5 at 1.20 (p 0.80): Thailand's recent low-scoring form makes it too thin to beat",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/match/_/gameId/401934222/thailand-china"
+  ]
+ },
+ {
+  "eid": "sr:match:72501258",
+  "fx": "Kazincbarcikai SC v Tiszakecskei LC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB II round 15, 13:00 CET (=12:00 UTC). Nemzeti Sport reported Tiszak\u00e9cske still unbeaten earlier in the season (4-3 win v Ajka). An older Borsod24 schedule put the round on 29 Nov; the newer Nemzeti Sport list says Saturday 28 Nov.",
+  "news": "No team news. The old schedule shows 29 Nov, but the latest NS listing confirms 28 Nov.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "home 1X2/DNB v an unbeaten Tiszak\u00e9cske",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/11/meg-ket-nb-ii-es-meccs-kerul-iden-kepernyore",
+   "https://borsod24.hu/2026/07/01/harom-borsodi-csapat-tizenot-fordulo-igy-nez-ki-az-nb-ii-es-oszi-menetrend/",
+   "https://www.magyarfutball.hu/hu/merkozesek/bajnoki_merkozesek/nb_ii/2026_2027"
+  ]
+ },
+ {
+  "eid": "sr:match:72501260",
+  "fx": "Kozarmisleny SE v Bvsc-Zuglo",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB II round 15, 13:00 CET. Evenly priced.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; coin-flip price with low totals",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/11/meg-ket-nb-ii-es-meccs-kerul-iden-kepernyore",
+   "https://borsod24.hu/2026/07/01/harom-borsodi-csapat-tizenot-fordulo-igy-nez-ki-az-nb-ii-es-oszi-menetrend/",
+   "https://www.magyarfutball.hu/hu/merkozesek/bajnoki_merkozesek/nb_ii/2026_2027"
+  ]
+ },
+ {
+  "eid": "sr:match:72501252",
+  "fx": "Mezokovesd Zsory SE v Szentlorinc SE",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB II round 15, 13:00 CET. Mez\u0151k\u00f6vesd 5W in last 10; Szentl\u0151rinc 4W 1D 5L.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mez\u0151k\u00f6vesd DNB at 1.20 (p 0.80): no named mechanism found",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/11/meg-ket-nb-ii-es-meccs-kerul-iden-kepernyore",
+   "https://borsod24.hu/2026/07/01/harom-borsodi-csapat-tizenot-fordulo-igy-nez-ki-az-nb-ii-es-oszi-menetrend/",
+   "https://www.magyarfutball.hu/hu/merkozesek/bajnoki_merkozesek/nb_ii/2026_2027"
+  ]
+ },
+ {
+  "eid": "sr:match:73576752",
+  "fx": "Madura United v Java United FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Super League wk11, Gelora Madura Ratu Pamelingan, Pamekasan, 19:00 WIB (=12:00 UTC, matches board). Madura 19 pts (6W 1D 3L) after losing 0-1 to Garudayaksa; Java United 14 pts and unbeaten in 8. Java won the last two H2H (4-1, 2-1). Coach Jose Gomes says Madura cannot drop points at home.",
+  "news": "Madura under pressure after a defeat; Java come in unbeaten in 8 and have won the last two meetings.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Madura 1X2/DNB (Java unbeaten in 8, won the last 2 H2H); Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.jawapos.com/sepak-bola-indonesia/2611280029/madura-united-haram-kehilangan-poin-di-kandang-jose-gomes-kobarkan-semangat-lawan-java-united",
+   "https://beritajatim.com/preview-misi-bangkit-madura-united-java-united-datang-dengan-rekor-impresif"
+  ]
+ },
+ {
+  "eid": "sr:match:73576750",
+  "fx": "Persija Jakarta v Garuda Yaksa",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Super League wk11, 19:00 WIB. Persija top or near the top; Garudayaksa (promoted) beat Madura 1-0 last week.",
+  "news": "Venue conflict: one source lists Stadion Patriot Chandra Bhaga (Bekasi), another SUGBK (Jakarta).",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Patriot Bekasi v SUGBK). Both are Persija home grounds, so this is low severity, but the rule is binding.",
+  "picks": [],
+  "avoid": "everything (veto); Persija 1.23 is short padding anyway",
+  "confidence": 0.1,
+  "sources": [
+   "https://bantenraya.co/olah-raga/persija-hadapi-garudayaksa-super-league/",
+   "https://tiptip.id/blog/jadwal-persija-jakarta/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114362687",
+  "fx": "Persis Solo v Deltras FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Championship wk11, Stadion Manahan, 19:00 WIB (=12:00 UTC, matches board). Persis recently won 7-0 v PSBS.",
+  "news": "no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; no form data and an even price",
+  "confidence": 0.1,
+  "sources": [
+   "https://skor.id/posts/794707/link-live-streaming-championship-2026-2027-lima-laga-pekan-11-grup-2-pada-28-29-november",
+   "https://beritajatim.com/jadwal-championship-pekan-ke-11-persela-jamu-rans-di-surajaya",
+   "https://sport.murianews.com/dani-agus/481313/jadwal-pekan-kesebelas-championship-2026-2027-ada-persiku-vs-psms",
+   "https://www.soccerway.com/indonesia/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114362682",
+  "fx": "PSPS Pekanbaru v Persikad Depok",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Championship wk11. Date of 28 Nov confirmed by Soccerway/Flashscore; kick-off time not confirmed.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; no data, kick-off unconfirmed",
+  "confidence": 0.1,
+  "sources": [
+   "https://skor.id/posts/794707/link-live-streaming-championship-2026-2027-lima-laga-pekan-11-grup-2-pada-28-29-november",
+   "https://beritajatim.com/jadwal-championship-pekan-ke-11-persela-jamu-rans-di-surajaya",
+   "https://sport.murianews.com/dani-agus/481313/jadwal-pekan-kesebelas-championship-2026-2027-ada-persiku-vs-psms",
+   "https://www.soccerway.com/indonesia/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:111111114362680",
+  "fx": "Sumsel United v Persiraja Banda",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Championship wk11. Date of 28 Nov confirmed by Soccerway/Flashscore; kick-off time not confirmed.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; no data",
+  "confidence": 0.1,
+  "sources": [
+   "https://skor.id/posts/794707/link-live-streaming-championship-2026-2027-lima-laga-pekan-11-grup-2-pada-28-29-november",
+   "https://beritajatim.com/jadwal-championship-pekan-ke-11-persela-jamu-rans-di-surajaya",
+   "https://sport.murianews.com/dani-agus/481313/jadwal-pekan-kesebelas-championship-2026-2027-ada-persiku-vs-psms",
+   "https://www.soccerway.com/indonesia/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:72302704",
+  "fx": "Vasas FC v Budapest Honved FC",
+  "sport": "football",
+  "absences": "none found in previews",
+  "context": "NB I round 15, 13:30 CET at \u00daj Illovszky (matches board). Budapest derby (Vasas\u2013Kispest-Honv\u00e9d). Vasas home last 4: 1W, 1.0 gf; Vasas last 6 include 0-0, 0-2, 0-2, 0-1.",
+  "news": "Fixture confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (derby); Over 1.5 at 1.19 (p 0.81): Vasas low-scoring at home (1.0 gf) puts my number at about 0.79, below the house",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.magyarfutball.hu/hu/merkozesek/bajnoki_merkozesek/nb_i/2026_2027",
+   "https://www.nemzetisport.hu/labdarugo-nb-i/2025/06/nb-i-2025-2026-teljes-program-eredmenyek"
+  ]
+ },
+ {
+  "eid": "sr:match:72501256",
+  "fx": "Szeged-Csanad Grosics Akademia v FC Ajka",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB II round 15, 15:00 CET (=14:00 UTC, matches board). Low total line (O2.5 p 0.44).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/11/meg-ket-nb-ii-es-meccs-kerul-iden-kepernyore",
+   "https://borsod24.hu/2026/07/01/harom-borsodi-csapat-tizenot-fordulo-igy-nez-ki-az-nb-ii-es-oszi-menetrend/",
+   "https://www.magyarfutball.hu/hu/merkozesek/bajnoki_merkozesek/nb_ii/2026_2027"
+  ]
+ },
+ {
+  "eid": "sr:match:77150268",
+  "fx": "Chennaiyin FC v Mumbai City",
+  "sport": "football",
+  "absences": "Chennaiyin: Ramon Tanque doubtful (injury, extent unknown per coach Clifford Miranda). Mumbai: Wilmar Jordan and Brandon Fernandes back under new coach Ashvir Singh Johal.",
+  "context": "ISL 2026-27 GW7, JN Stadium/Marina Arena Chennai (same ground), 19:30 IST (=14:00 UTC, matches board). Chennaiyin 4 pts from the last 2 (5-3 v East Bengal); Mumbai still winless in the league. Chennaiyin winless v Mumbai since 2019-20.",
+  "news": "Chennaiyin in form but Tanque doubtful; Mumbai winless, with a new coach and Jordan/Fernandes back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides: the new-coach bounce for Mumbai and the H2H point the other way from form",
+  "confidence": 0.15,
+  "sources": [
+   "https://khelnow.com/football/indian-football-isl-2026-27-chennaiyin-fc-vs-mumbai-city-fc-preview",
+   "https://www.socialnews.xyz/2026/11/27/isl-2026-27-chennaiyin-fc-aim-to-build-momentum-against-winless-mumbai-city-fc/"
+  ]
+ },
+ {
+  "eid": "sr:match:72302700",
+  "fx": "MTK Budapest v Ujpest FC Budapest",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB I round 15, 16:45 CET at \u00daj Hidegkuti (matches board). Budapest derby, MTK v \u00dajpest.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides (derby); Over 1.5 at 1.17 (below the band)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.magyarfutball.hu/hu/merkozesek/bajnoki_merkozesek/nb_i/2026_2027",
+   "https://www.nemzetisport.hu/labdarugo-nb-i/2025/06/nb-i-2025-2026-teljes-program-eredmenyek"
+  ]
+ },
+ {
+  "eid": "sr:match:72501248",
+  "fx": "Gyirmot FC Gyor v Fehervar FC Szekesfehervar",
+  "sport": "football",
+  "absences": "none found",
+  "context": "NB II round 15, 17:00 CET (=16:00 UTC). Gyirm\u00f3t home 4W 2D 0L; Feh\u00e9rv\u00e1r (Videoton) away 1W 4L, but Vidi won by 3 in round 9.",
+  "news": "no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; Feh\u00e9rv\u00e1r's quality v Gyirm\u00f3t's home form conflict",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.nemzetisport.hu/labdarugo-nb-ii/2026/11/meg-ket-nb-ii-es-meccs-kerul-iden-kepernyore",
+   "https://borsod24.hu/2026/07/01/harom-borsodi-csapat-tizenot-fordulo-igy-nez-ki-az-nb-ii-es-oszi-menetrend/",
+   "https://www.magyarfutball.hu/hu/merkozesek/bajnoki_merkozesek/nb_ii/2026_2027"
+  ]
+ },
+ {
+  "eid": "sr:match:76810840",
+  "fx": "Faroe Islands v Estonia",
+  "sport": "football",
+  "absences": "women's",
+  "context": "Women's friendly. Estonia beat Faroe 2-0 in the 2025 Baltic Cup.",
+  "news": "Kick-off sources disagree: Sofascore 13:00 UTC, LiveSoccerTV 8:00am (ET \u2248 13:00 UTC), Fox 4:30 PM; the board has 16:30 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict between sources (13:00 UTC v 16:30 UTC).",
+  "picks": [],
+  "avoid": "everything",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/team/faroe-islands/38087",
+   "https://www.foxsports.com/soccer/friendlies-women-faroe-islands-vs-estonia-nov-28-2026-game-boxscore-1122273"
+  ]
+ },
+ {
+  "eid": "sr:match:76915632",
+  "fx": "Spain v Chile",
+  "sport": "football",
+  "absences": "women's; no squad news",
+  "context": "Women's friendly at Estadio Reino de Le\u00f3n, 12:00 PM ET (=17:00 UTC, matches board). Clear mismatch: Spain home 4W, 3.75 gf, 0 ga; ESPN line ESP -4.5.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Over 4.5 at 1.41 (p 0.68): a goals leg in a clear mismatch is allowed, but it is mid-band and a friendly with rotation; no edge over the house",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.espn.com/soccer/schedule/_/league/fifa.friendly.w"
+  ]
+ },
+ {
+  "eid": "sr:match:72302698",
+  "fx": "Kisvarda FC v Nyiregyhaza Spartacus FC",
+  "sport": "football",
+  "absences": "Kisv\u00e1rda: defender B\u00e1lint Ol\u00e1h suspended until 30 Nov 2026 (ban for punching a Ny\u00edregyh\u00e1za player in August), so he is out.",
+  "context": "NB I round 15, 19:15 CET at V\u00e1rkerti Stadion (matches board). Szabolcs county derby. Kisv\u00e1rda home last 3: 0W, 0.33 gf. Ny\u00edregyh\u00e1za away 3.0 gf.",
+  "news": "Ol\u00e1h is banned for this exact fixture, which is the rematch of the incident.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.23,
+    "p": 0.776182,
+    "why": "Kisv\u00e1rda without banned defender Ol\u00e1h; Ny\u00edregyh\u00e1za score 3.0 per away game (last 5 away). Away team-to-score, so not for a core. My p 0.80."
+   }
+  ],
+  "avoid": "result-sides (derby); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://gondola.hu/hirek/labdarugo-nb-i-harom-honapra-eltiltottak-a-sulyos-serules-okozojat-321033",
+   "https://www.csakfoci.hu/magyar-foci/sulyos-eltiltassal-zarult-az-nb-i-botranyos-ugye",
+   "https://www.magyarfutball.hu/hu/merkozesek/bajnoki_merkozesek/nb_i/2026_2027",
+   "https://www.nemzetisport.hu/labdarugo-nb-i/2025/06/nb-i-2025-2026-teljes-program-eredmenyek"
+  ]
+ },
+ {
+  "eid": "sr:match:76635230",
+  "fx": "New Zealand v Philippines",
+  "sport": "football",
+  "absences": "women's. Ferns squad includes uncapped Rebecca Lake, Brooke Neary (and Helena Errington per Stuff).",
+  "context": "Women's friendly, Porirua Park, Wellington, 4pm NZDT 29 Nov (=03:00 UTC, matches board); game 2 on 4 Dec. Replaces the Panama tour, cancelled after an earthquake. Coach Michael Mayne; Philippines (FIFA 39) under Mark Torcaso.",
+  "news": "Ferns blood uncapped players after the cancelled Panama tour.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's; only 1X2 on the board)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.rnz.co.nz/news/sport/2653497/two-uncapped-players-named-in-football-ferns-squad-for-philippines-matches",
+   "https://www.friendsoffootballnz.com/2026/11/28/football-ferns-to-face-familiar-foe-philippines-in-friendly-home-internationals/"
+  ]
+ },
+ {
+  "eid": "sr:match:76915634",
+  "fx": "Japan v Brazil",
+  "sport": "football",
+  "absences": "women's; no squad news",
+  "context": "Women's friendly, Edion Peace Wing Hiroshima, 1:55 Bras\u00edlia 29 Nov (=04:55 UTC, matches board); second game 5 Dec in Okayama.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (women's; only 1X2 on the board)",
+  "confidence": 0.1,
+  "sources": [
+   "https://sports.yahoo.com/articles/check-brazil-womens-teams-schedule-134000761.html",
+   "https://www.espn.com/soccer/schedule/_/league/fifa.friendly.w"
+  ]
+ }
+]
