@@ -1,0 +1,582 @@
+[
+ {
+  "eid": "sr:match:72398850",
+  "fx": "Gornik Leczna v OKS Swit Szczecin",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "II liga R18, 12:00 local Bogdanka Arena (matches board). Leczna top-3 (~32 pts, 10W2D5L, +17); Swit in relegation zone (~14 pts), 0W in last 5 away.",
+  "news": "Leczna promotion chase v relegation-zone Swit; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.35,
+    "p": 0.707023,
+    "why": "Table gap (promotion chaser v bottom-4) + Swit 0W2D3L away conceding 2.2; Leczna 4W1L at home. My p 0.73."
+   }
+  ],
+  "avoid": "Swit +2.5/+1.5 catches; integer lines",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.podkarpacielive.pl/mecz/150626,gornik-leczna-vs-swit-szczecin",
+   "https://igol.pl/2liga/",
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-betclic-2-liga,spci,672,tab,mecze"
+  ]
+ },
+ {
+  "eid": "sr:match:72514916",
+  "fx": "SK Mazovia Minsk Mazowiecki v KS Ck Troszyn",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.1, amateur level; no preview found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (no mechanism)",
+  "confidence": 0.15,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14742.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72516210",
+  "fx": "Baltyk Koszalin v KTS-K Luzino",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.2; no preview found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14743.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72516206",
+  "fx": "Chemik Bydgoszcz v Lech II Poznan",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.2; Lech II is a reserve side. Search could not confirm this fixture on 28 Nov (schedule pages incomplete).",
+  "news": "no news found; fixture date not independently confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side, unconfirmed date)",
+  "confidence": 0.1,
+  "sources": [
+   "http://ligowiec.net/tabela/1701/iii-liga-grupa-ii",
+   "https://www.pomorskifutbol.pl/liga.php?id=4648"
+  ]
+ },
+ {
+  "eid": "sr:match:72516200",
+  "fx": "Gedania Gdansk v Elana Torun",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.2; listed 28.11 12:00 local (matches board).",
+  "news": "date confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14743.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72516198",
+  "fx": "Grom Nowy Staw v MKS Notec Czarnkow",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.2; only 8 markets on board.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14743.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72516202",
+  "fx": "KS Lipno Steszew v WDA Swiecie",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.2; listed 28.11 12:00 (matches). Wda Swiecie 3rd in a recent table snapshot; Lipno 2W0D4L at home.",
+  "news": "date confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (stats only)",
+  "confidence": 0.15,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14743.html",
+   "http://ligowiec.net/tabela/1701/iii-liga-grupa-ii"
+  ]
+ },
+ {
+  "eid": "sr:match:72516208",
+  "fx": "MKS Viktoria Wrzesnia v Polonia Sroda Wielkopolska",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.2; Polonia Sroda top (34 pts after 14).",
+  "news": "Listing gives Victoria Wrzesnia v Polonia Sroda on 29-11 13:30, board says 28-11 11:00 UTC.",
+  "veto": true,
+  "veto_reason": "Date/kick-off conflict: source lists 29 Nov 13:30 v board 28 Nov 11:00 UTC",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14743.html",
+   "http://ligowiec.net/tabela/1701/iii-liga-grupa-ii"
+  ]
+ },
+ {
+  "eid": "sr:match:72516196",
+  "fx": "Sks Unia Swarzedz v KKS 1925 Kalisz",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.2; listed 28.11 12:00 (matches). Kalisz score 0.4/away game.",
+  "news": "date confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (p<0.82)",
+  "confidence": 0.15,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14743.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73204180",
+  "fx": "Odra Bytom Odrzanski v Rakow II Czestochowa",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.3; Rakow II is a reserve side. Odra Bytom drew 1-1 at Polonia Nysa, Rakow II lost 0-2 at Polkowice last round.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side)",
+  "confidence": 0.1,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14744.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72517428",
+  "fx": "MKS Czarni Polaniec v Siarka Tarnobrzeg",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.4; Czarni 6th (20 pts), Siarka 11th (14 pts) in a mid-season table.",
+  "news": "Kick-off conflict: listings give 12:00, 17:00 and 18:00 local on 28.11.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (12:00 / 17:00 / 18:00 local)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.podkarpacielive.pl/iii-liga-gr-iv",
+   "https://lodz.twoje-miasto.pl/sport/zespol/6955/siarka-tarnobrzeg"
+  ]
+ },
+ {
+  "eid": "sr:match:72398854",
+  "fx": "Olimpia Grudziadz v Avia Swidnik",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "II liga R18, 12:30 local. Avia won the reverse fixture 4-1 (26 Jul).",
+  "news": "Dziennik Wschodni: game played in Ilawa, not Grudziadz (venue differs from home ground).",
+  "veto": true,
+  "veto_reason": "Venue conflict: match moved to Ilawa per Dziennik Wschodni; board treats as Olimpia home",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.dziennikwschodni.pl/artykul/394410,avia-swidnik-jedzie-po-ligowe-punkty-do-ilawy",
+   "https://www.olimpiagrudziadz.com/"
+  ]
+ },
+ {
+  "eid": "sr:match:72398846",
+  "fx": "Slask II Wroclaw v Podhale Nowy Targ",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "II liga R18, 12:30 local confirmed by club. Slask II (reserve) 16th, ~6 pts, 1W1D8L; Podhale won reverse 3-1.",
+  "news": "date confirmed; Slask II deep in relegation zone",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side; goals not a clear-mismatch spot)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.slaskwroclaw.pl/w/%C5%9Al%C4%85sk-ii-czas-na-pierwszy-rewan%C5%BC",
+   "https://www.podkarpacielive.pl/mecz/150633,slask-ii-wroclaw-vs-podhale-nowy-targ"
+  ]
+ },
+ {
+  "eid": "sr:match:73050934",
+  "fx": "Lech Poznan v Zaglebie Lubin",
+  "sport": "football",
+  "absences": "n/a (youth)",
+  "context": "CLJ = U19 youth league.",
+  "news": "youth fixture; not researched beyond flag",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (youth)",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72514908",
+  "fx": "Kts Weszlo v LKS 1926 Lomza",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.1: Weszlo 1st (41 pts), won 4-1 at Lechia last round; Lomza bottom (5 pts), lost 0-4 at home to Pelikan last round, 0W in last 10.",
+  "news": "Leader v bottom side (36-point gap).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.26,
+    "p": 0.74858,
+    "why": "Leader v bottom (5 pts, 0W in 10, conceding 2.5/game, 0-4 home loss last round). My p 0.80."
+   }
+  ],
+  "avoid": "Weszlo -1.5 (lean only), Unders",
+  "confidence": 0.35,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14742.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72516818",
+  "fx": "KS Gornik Polkowice v MKS Kluczbork",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.3; Polkowice beat Rakow II 2-0 on 20 Nov. Only 8 markets.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14744.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73209204",
+  "fx": "KS Sleza Wroclaw v KS Stal Brzeg",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.3; Sleza beat Stilon 2-1, Stal Brzeg drew 1-1 at Goczalkowice last round.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14744.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72516812",
+  "fx": "KS Stilon Gorzow Wlkp v BKS Sparta Katowice",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.3, 13:00 local listed (matches board). Sparta 8W1D1L, conceding 0.5/game, beat Zaglebie II 2-0 last round; Stilon 2W3D5L (lost 1-2 at Sleza; one listing shows a 2-2, minor result conflict).",
+  "news": "date confirmed; Sparta in top form",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.26,
+    "p": 0.750041004,
+    "why": "Form gap: Sparta 8W in 10 / 0.5 GA, Stilon 2W in 10; DNB removes draw. Stats-led fill. My p 0.78."
+   }
+  ],
+  "avoid": "Sparta 1X2 / -1.5",
+  "confidence": 0.22,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14744.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72517438",
+  "fx": "Moravia Morawica v Pogon Sokol Lubaczow",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.4; both sides near the bottom on form (Moravia 1W in 10, Pogon Sokol 1W in 10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.podkarpacielive.pl/iii-liga-gr-iv"
+  ]
+ },
+ {
+  "eid": "sr:match:72043356",
+  "fx": "Widzew Lodz v Zaglebie Lubin",
+  "sport": "football",
+  "absences": "Widzew: Szymon Czyz, Carlos Isaac, Lukas Lerager (long-term), Mariusz Fornalczyk (not fit), Jusuf Gazibegovic (suspended, red card). Zaglebie: Marcel Regula (knee, out until Jan); doubts Jasmin Buric, Pawel Kosmalski, Michal Nalepa (muscle).",
+  "context": "Ekstraklasa R16, 14:45 local (matches board). Widzew in relegation zone (coach Stolarski: 'we cannot panic'); Zaglebie the surprise package, chasing the top places.",
+  "news": "Widzew five absentees incl. suspended Gazibegovic; Zaglebie with 3 doubts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Away (+1.0)",
+    "odds": 1.46,
+    "p": 0.651517,
+    "why": "Widzew missing 5 (Gazibegovic susp., Lerager, Czyz, Isaac, Fornalczyk), 1W in last 10; Zaglebie 5W3D2L. Away +1.0 only loses to a 2+ Widzew win. My p 0.69."
+   }
+  ],
+  "avoid": "Widzew 1X2/DNB; Under 2.5",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.goal.pl/artykuly/a4e12c85-f006-4ecb-9c79-330bcfd7045d-widzew-odz-zag-ebie-lubin-sk-ady-i-sytuacja-kadrowa-przed-meczem/",
+   "https://www.mecze24.pl/aktualnosci/widzew-lodz-bez-waznego-zawodnika-w-meczu-z-zaglebiem-trener-potwierdzil",
+   "https://gol24.pl/widzew-w-strefie-spadkowej-stolarski-nie-mozemy-wariowac/ar/c2-19152309",
+   "https://www.mkszaglebie.pl/art/show/walka-o-czolowke-w-zasiegu-reki-zapowiedz-meczu-widzew-lodz-zaglebie-lubin/12225"
+  ]
+ },
+ {
+  "eid": "sr:match:72517434",
+  "fx": "Wisla II Krakow v Korona II Kielce SA",
+  "sport": "football",
+  "absences": "n/a (reserves)",
+  "context": "III liga gr.4: Wisla II v Korona II, both reserve sides.",
+  "news": "reserve fixture; no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserves)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.podkarpacielive.pl/iii-liga-gr-iv"
+  ]
+ },
+ {
+  "eid": "sr:match:72230888",
+  "fx": "Bruk-Bet Termalica Nieciecza v ZKS Stal Rzeszow",
+  "sport": "football",
+  "absences": "Stal Rzeszow: Sean Goss (midfield leader, suspended for yellows).",
+  "context": "1. Liga R16, Sat 28 Nov 15:30 (club match-day page dated 28.11; club preview says 'Saturday 29 November', a typo since the 29th is Sunday). Termalica 5th (23 pts) but 1W in last 5; Stal 11th. Last H2H Jan 2026: Termalica 8-1.",
+  "news": "Stal without suspended Goss; Termalica unbeaten at home (3W1D).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.6766580351,
+    "why": "Stal lose suspended midfield leader Sean Goss; Termalica 3W1D0L at home; H2H 8-1. DNB covers their draw-heavy run. My p 0.70."
+   }
+  ],
+  "avoid": "Under 2.5; Stal +1.5",
+  "confidence": 0.28,
+  "sources": [
+   "https://termalica.brukbet.com/index.php/2026/11/28/dzien-meczowy-bruk-bet-termalica-nieciecza-stal-rzeszow/",
+   "https://termalica.brukbet.com/index.php/2026/11/25/zapowiedz-16-kolejki-betclic-i-ligi-2026-27/",
+   "https://taksiegra.pl/bruk-bet-termalica-nieciecza-stal-rzeszow-typy-kto-faworytem-28-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72230894",
+  "fx": "Odra Opole v Polonia Warszawa",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "1. Liga R16, 15:30 local (matches). Odra bottom (12 pts), 0W in last 5 (1D4L); Polonia league leaders, unbeaten in 8; Polonia won 4 of last 5 H2H (1 draw).",
+  "news": "Bottom v unbeaten leader.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.54,
+    "p": 0.610809,
+    "why": "Leader unbeaten in 8 v bottom side winless in 5 (lost 4); 4W1D H2H. Away 1X2 p<0.75 so DNB. My p 0.66."
+   }
+  ],
+  "avoid": "Polonia 1X2 (p 0.45), Odra +",
+  "confidence": 0.3,
+  "sources": [
+   "https://pilkarskiswiat.com/odra-opole-polonia-warszawa-typy-kursy-prognozy-28-11-2026/",
+   "https://satinfo24.pl/16-kolejki-betclic-1-ligi-w-tvp",
+   "https://www.1liga.org/w/zapowied%C5%BA-16.-kolejki-betclic-1-ligi-2"
+  ]
+ },
+ {
+  "eid": "sr:match:72230896",
+  "fx": "Podbeskidzie Bielsko-Bia\u0142a v Pogon Grodzisk Mazowiecki",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "1. Liga R16, 15:30 local (matches). No preview found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.15,
+  "sources": [
+   "https://satinfo24.pl/16-kolejki-betclic-1-ligi-w-tvp"
+  ]
+ },
+ {
+  "eid": "sr:match:72514912",
+  "fx": "KS Warta Sieradz v LKS Lodz II",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.1: Warta 5th (32 pts, won 3-2 at Mlawianka), LKS II (reserve) 7th (27 pts, beat Wigry 4-1).",
+  "news": "no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (reserve side, not a mismatch)",
+  "confidence": 0.12,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14742.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72514922",
+  "fx": "MKS Polonia Lidzbark Warminski v ZKS Olimpia Elblag",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.1: Olimpia Elblag 11th (22 pts), drew 1-1 at Wisla II Plock; Polonia Lidzbark 3W1D0L at home.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.12,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14742.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72230886",
+  "fx": "MKS Arka Gdynia v Ruch Chorzow",
+  "sport": "football",
+  "absences": "Ruch: Martin Konczkowski probably injured; Jakub Wrabel expected in goal. Arka: unnamed injuries (Dziennik Baltycki preview, text cut off).",
+  "context": "1. Liga R16, Sat 17:00 local, Stadion Miejski Gdynia; referee Karol Arys. Arka unbeaten in 4 (3W). A headline 'Ruch Chorzow bez dziesieciu punktow' appeared, possibly a points deduction; not verified.",
+  "news": "Arka unbeaten in 4; Konczkowski likely out for Ruch; previews split on the favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (conflicting views, unverified Ruch points-deduction context)",
+  "confidence": 0.15,
+  "sources": [
+   "https://dziennikbaltycki.pl/tak-arka-gdynia-zagra-w-meczu-z-ruchem-chorzow-trener-tomasz-grzegorczyk-ma-mniejszy-komfort-kadrowy-kogo-zabraknie/ar/c2p2-29561507",
+   "https://tylkoslask.pl/ruch-chorzow-karol-arys-poprowadzi-sobotni-mecz-z-arka-gdynia",
+   "https://sportowefakty.wp.pl/pilka-nozna/1285459/ruch-chorzow-bez-dziesieciu-punktow"
+  ]
+ },
+ {
+  "eid": "sr:match:72043354",
+  "fx": "WKS Slask Wroclaw v GKS Katowice",
+  "sport": "football",
+  "absences": "GKS: Adrian Blad (injured); Jesse Bosch and Irodotos Christodoulou doubtful (health / muscle).",
+  "context": "Ekstraklasa R16, 17:30 local, Tarczynski Arena (matches). Slask 17th (13 pts), must-win to leave the drop zone, coming off a win in Szczecin (coach Toni Golem). GKS 8th (21 pts); GKS last 6 all decided by one goal or less (several 0-1).",
+  "news": "Slask relegation must-win after the Szczecin win; GKS missing Blad, two doubts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.33,
+    "p": 0.717342,
+    "why": "Relegation must-win hosts after a win in Szczecin, GKS missing Blad with Bosch/Christodoulou doubtful and GKS games low-margin (last 6 all <=1 goal). Loses only to a GKS 2+ win. My p 0.75."
+   }
+  ],
+  "avoid": "GKS 1X2/-1; Slask 1X2",
+  "confidence": 0.25,
+  "sources": [
+   "https://gol24.pl/slask-wroclaw-przed-meczem-z-gks-katowice-bedzie-kolejne-zwyciestwo/ar/c2-19152287",
+   "https://wroclife.pl/pl/artykul/8781/trener-toni-golem-przed-meczem-slask-wroclaw-gks-katowice-chcemy-potwierdzic-dyspozycje-ze-szczecina/",
+   "https://www.goal.pl/artykuly/32b99815-db7f-4d0b-93b0-4287b0808304-slask-wroc-aw-gks-katowice-przewidywane-sk-ady-i-sytuacja-kadrowa/"
+  ]
+ },
+ {
+  "eid": "sr:match:72514910",
+  "fx": "KS Pelikan Lowicz v MKS Mlawianka Mlawa",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "III liga gr.1: Pelikan 6th (27 pts), won 4-0 at Lomza and 3-0 at Lechia in the last two rounds; Mlawianka 17th (14 pts), lost 2-3 at home to Warta. Pelikan's home form is weak (1W1D3L).",
+  "news": "Pelikan in form v relegation-zone Mlawianka.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.38,
+    "p": 0.679202468,
+    "why": "Pelikan two clean away wins (4-0, 3-0) v 17th-placed Mlawianka conceding 2.5; DNB because Pelikan's home form is weak. My p 0.70."
+   }
+  ],
+  "avoid": "Pelikan 1X2, Unders",
+  "confidence": 0.22,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14742.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72043346",
+  "fx": "Wisla Krakow v LKP Motor Lublin",
+  "sport": "football",
+  "absences": "Wisla: Maciej Kuziemka (biceps, back in Dec), Thody Elie Youan doubtful (muscle), Darijo Grujcic (groin, ~4 weeks). Motor: Ivo Rodrigues (shoulder, out to late Dec); top scorer Karol Czubak doubtful (ankle, hurt v Wieczysta Monday).",
+  "context": "Ekstraklasa R16, 20:15 local (matches). Wisla 4W0D0L at home ('Twierdza Reymonta', last home game of the year). Motor lost 1-2 to Wieczysta on Monday.",
+  "news": "Motor's top scorer Czubak a doubt and Rodrigues out; Wisla perfect at home.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.41,
+    "p": 0.6733224807,
+    "why": "Wisla 4/4 home wins; Motor without Ivo Rodrigues and probably without top scorer Czubak, after a Monday loss. Draw-protected. My p 0.70."
+   }
+  ],
+  "avoid": "Over 3.5 (Czubak doubt), Motor +",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.goal.pl/artykuly/81ff3b16-3de9-40aa-a530-fdbe8dcb215c-wis-a-krakow-podejmie-motor-lublin-mozliwe-sk-ady-i-sytuacja-kadrowa/",
+   "https://transfery.info/aktualnosci/taki-jest-faktyczny-stan-zdrowia-karola-czubaka-przed-starciem-z-wisla-krakow-oficjalnie/287471",
+   "https://gazetakrakowska.pl/twierdza-reymonta-czeka-na-ostatni-rozdzial-w-tym-roku-czyli-wisla-krakow-przed-szansa-na-cos-duzego/ar/c2p2-29560471"
+  ]
+ }
+]
