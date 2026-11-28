@@ -1,0 +1,547 @@
+[
+ {
+  "eid": "sr:match:72758370",
+  "fx": "Folkestone Invicta v Hampton & Richmond Borough",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NLS. Hampton & Richmond 23rd (10 pts/18), 0-2-8 last 10, lost 0-5 at home to Dover on Tue 24 Nov (midweek fatigue). Folkestone have played one league game in three weeks (Truro on 7 Nov postponed; FA Trophy exit to Cray 14 Nov; 2-2 at Maidenhead 21 Nov), so they are fresh.",
+  "news": "Folkestone drew 2-2 at Maidenhead; Hampton were thrashed 0-5 by Dover in midweek.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.7257081678,
+    "why": "Mechanism: a rested home side v a bottom-two side that played Tuesday and has 0 wins in 10 (0.8 gf). The draw is voided. My estimate is 0.75 v house 0.73."
+   }
+  ],
+  "avoid": "1X2 Home at 1.67 (p 0.56 is mid-band). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.3,
+  "sources": [
+   "https://folkestoneinvictafc.co.uk/2026/11/report-invicta-held-to-a-draw-at-maidenhead/",
+   "https://folkestoneinvictafc.co.uk/2026/11/fixture-update-dorking-wanderers-h/",
+   "https://doverathletic.com/news/up-next-truro-city-vs-dover-athletic/",
+   "https://www.footballwebpages.co.uk/national-league-south"
+  ]
+ },
+ {
+  "eid": "sr:match:72758372",
+  "fx": "Hemel Hempstead Town v Walton and Hersham FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NLS bottom-of-table: Walton & Hersham 24th (9 pts/17). But Hemel are 1-2-7 in their last 10, 0-3 at home in the sample, and 0.7 gf.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hemel are favourites at 1.75 despite their own form (0 home wins in the sample); conflicting signals, so no result-side. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south"
+  ]
+ },
+ {
+  "eid": "sr:match:72758374",
+  "fx": "Maidstone United FC v Chesham United",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NLS. Chesham 21st (14 pts). Maidstone mixed (4-1-5), 2-4 at home in the sample and conceding 2.5/home game.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Maidstone 1X2/DNB: their defence is too leaky for a p 0.62 home leg. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south"
+  ]
+ },
+ {
+  "eid": "sr:match:72758376",
+  "fx": "Salisbury FC v Dagenham and Redbridge FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NLS. Salisbury 3rd (~32 pts per a 23 Nov forum; standings conflict with an older Fanbanter table), unbeaten at home (4-2-0, 0.33 ga). Dagenham ~10th, won 1-0 at Totton, then 4-1 v Tonbridge on 24 Nov.",
+  "news": "Venue confirmed by Daggers ticket page: Raymond McEnhill Stadium, 15:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-side: priced near coin-flip (Home 2.0); Dagenham's midweek form. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://daggers.co.uk/salisbury-a-ticket-information/",
+   "https://footballclubforums.com/dagenham-redbridge-fc/"
+  ]
+ },
+ {
+  "eid": "sr:match:72758378",
+  "fx": "Slough Town v Tonbridge Angels",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NLS. Tonbridge ~8th (28 pts/18) per NonLeagueMatters, lost 1-4 at Dagenham on 24 Nov (midweek game). Slough mixed (3-1-6).",
+  "news": "A telefootball page shows a pre-filled '4:2' score and two different kick-off times for this fixture (unreliable listing, not a venue/date conflict).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tonbridge away at 1.98 (p 0.48 < 0.75 away rule). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.telefootball.net/US/Slough-Town-Tonbridge-Angels-2026-11-28-684214.html",
+   "https://www.nonleaguematters.co.uk/divisions/3/"
+  ]
+ },
+ {
+  "eid": "sr:match:72758380",
+  "fx": "Torquay United v Chelmsford City",
+  "sport": "football",
+  "absences": "Chelmsford: Adam Crowther (out for the season), Lyle Taylor (hamstring tear, surgery). Torquay: Jacob Beaumont-Clark (hamstring precaution) and Dom Bernard (tightness) are doubts. Chelmsford: Cav Miley and Leo Sery are back in the XI.",
+  "context": "NLS top-of-table clash at Plainmoor, 15:00. Chelmsford are two points above Torquay with one league defeat all season; Torquay beat Chesham 2-1 last time out. Chelmsford played Monday.",
+  "news": "Torquay preview (Ed Palmer) and Chelmsford preview confirm the fixture; Chelmsford are without striker Lyle Taylor.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result-side in a top-of-table clash. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.2,
+  "sources": [
+   "https://torquayunited.com/ed-palmer-previews-chelmsford-city-h/",
+   "https://chelmsfordcityfc.com/news/torquay-united-a-match-preview/",
+   "https://chelmsfordcityfc.com/news/26-27-national-league-south-fixtures/"
+  ]
+ },
+ {
+  "eid": "sr:match:72758382",
+  "fx": "Truro City v Dover Athletic FC",
+  "sport": "football",
+  "absences": "no confirmed Truro team news",
+  "context": "NLS. Truro ~3rd (34 pts/17), lost 1-0 at home to Horsham on Tue (first league defeat since September). Dover won 5-0 at Hampton on Tue, 3-5 league wins in a row, with an FA Cup 2nd round home tie v Leicester next weekend.",
+  "news": "Venue conflict: fixture lists give Bolitho Park (Plymouth) but a stats page gives Treyew Road, Truro. Dover's win-streak length also conflicts between sources (3 v 5).",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (Bolitho Park v Treyew Road), and the house home price (p 0.66) conflicts with Dover's strong form (7-2-1 last 10).",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://news-usa.today/truro-city-host-dover-athletic-seeking-bounce-back-after-horsham-defeat/",
+   "https://doverathletic.com/news/up-next-truro-city-vs-dover-athletic/",
+   "https://www.footballstreams.com/matches/truro-city-vs-dover-athletic-20261128/"
+  ]
+ },
+ {
+  "eid": "sr:match:72758384",
+  "fx": "Weston-super-Mare v Maidenhead United FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NLS. Maidenhead 18th (17 pts), drew 2-2 v Folkestone on 21 Nov. Weston 3-1-0 at home in the sample.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.8 (p 0.52, mid-band). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-south"
+  ]
+ },
+ {
+  "eid": "sr:match:73018738",
+  "fx": "Ashton United FC v Stockton Town",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NPL Premier. Ashton United won 3-1 at Lancaster on 21 Nov. Stockton Town's position was not found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Near coin-flip result market. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73018740",
+  "fx": "Avro FC v Bamber Bridge",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NPL Premier. Bamber Bridge are 0-2-8 in their last 10 (0.6 gf, 2.0 ga) and 0-2-3 away. Avro (Whitebank Stadium) are 4-0-1 at home with 2.4 gf.",
+  "news": "Date and 15:00 KO confirmed (Sky Sports / FWP); no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.8045852918,
+    "why": "Mechanism: a winless visitor (0 wins in 10, scoring 0.6/game) at a strong home side. The draw is voided. My estimate is 0.82 v house 0.805."
+   }
+  ],
+  "avoid": "Home 1X2 1.43 (p 0.66 mid-band). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.footballgroundmap.com/team/avro",
+   "https://www.skysports.com/northern-premier-league-scores-fixtures",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:73018742",
+  "fx": "Cleethorpes Town FC v Quorn FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NPL Premier. Cleethorpes are level top with Redcar on 42 pts/20 (Wikipedia, as of 21 Nov), 4-0-1 at home in the sample. Quorn concede a lot (2.4 ga) but score too (2.4 gf); 0-2-1 away.",
+  "news": "Fixture confirmed 15:00; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.7917141241,
+    "why": "Mechanism: a title-chasing home side with 4 of 5 home wins v a visitor without an away win in the sample. The draw is voided. My estimate is 0.80 v house 0.79."
+   }
+  ],
+  "avoid": "Home 1X2 1.46. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.skysports.com/northern-premier-league-scores-fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:73018744",
+  "fx": "Curzon Ashton FC v Bury FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NPL Premier. Curzon 3rd (40 pts/19), unbeaten in 12 of 14, 4-0-0 at home in the sample with 0.25 ga. Bury 8th (30 pts) and the big club in the division (large away following), 1-0-3 away.",
+  "news": "Bury club page confirms Tameside Stadium, 15:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result-side in a big-club fixture (Bury). Home DNB at 1.65 is mid-band. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.thenpl.co.uk/clubs/bury",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-england/northern-premier"
+  ]
+ },
+ {
+  "eid": "sr:match:73018746",
+  "fx": "Gainsborough Trinity v Alfreton Town FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NPL Premier. Gainsborough were 5th on 29 pts/16 on 3 Nov; Alfreton 14th (23 pts/19), 0.8 gf last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.72 (p 0.54 mid-band). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division/20261103",
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73018748",
+  "fx": "Guiseley FC v Whitby Town",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NPL Premier. Guiseley 5th (36 pts/17, 38-17), 11 pts from their last 5, 4-0-0 at home. Whitby 18th (20 pts/20, conceded 53), 1 pt from their last 5.",
+  "news": "Fanbanter preview and the Guiseley club magazine confirm Nethermoor Park, 28/11, 15:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 1.15 is below the 1.18 floor. Guiseley team O2.5 1.59 (p 0.57) is mid-band, not an extreme. No -1.5 line on the board. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.25,
+  "sources": [
+   "https://fanbanter.co.uk/guiseley-vs-whitby-town-match-preview-live-updates",
+   "https://guiseleyafc.co.uk/26-27-magazine-preview-whitby-town/"
+  ]
+ },
+ {
+  "eid": "sr:match:73018750",
+  "fx": "Hyde United FC v Warrington Town",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NPL Premier. Warrington Town's position was not confirmed (the table entry found was Warrington Rylands, a different club, so don't conflate them). Hyde 3-1-6 last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Near coin-flip. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73018752",
+  "fx": "Ilkeston Town FC v AFC Emley",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NPL Premier. Ilkeston 21st (13 pts/20), 2-0-8 last 10. Emley 15th (23 pts/19).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Emley away at 2.35 (p 0.39). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/northern-premier-league-premier-division"
+  ]
+ },
+ {
+  "eid": "sr:match:73018754",
+  "fx": "Leek Town FC v FC United of Manchester",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NPL Premier relegation zone: FC United 20th (16 pts/19), Leek 19th. Six-pointer.",
+  "news": "Fixture confirmed at the F. Ball Community Stadium, Leek, 15:00.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Relegation six-pointer, coin-flip. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://fanbanter.co.uk/leek-town-vs-fc-united-of-manchester-match-preview-live-updates",
+   "https://fc-utd.co.uk/fixtures/first-team"
+  ]
+ },
+ {
+  "eid": "sr:match:73018756",
+  "fx": "Redcar Athletic FC v Workington AFC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "NPL Premier. Redcar top on 42 pts/20 (Wikipedia, as of 21 Nov; FWP games-played counts conflict), 3-1-0 at home in the sample with 2.75 gf. Workington 2-1-2 away, conceding 2.6.",
+  "news": "Yorkshire.com confirms Sat 28 Nov 15:00; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.2,
+    "p": 0.784311,
+    "why": "Mechanism: the leaders are unbeaten at home in the sample v a leaky visitor. The draw is voided. My estimate is 0.80 v house 0.78."
+   }
+  ],
+  "avoid": "Home 1X2 1.48. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Northern_Premier_League",
+   "https://www.yorkshire.com/sport/football/redcar-athletic"
+  ]
+ },
+ {
+  "eid": "sr:match:73022158",
+  "fx": "Anstey Nomads v Stratford Town",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL Premier Central. Anstey ~4th-7th (30-33 pts; the sources differ), drew 3-3 at Hitchin on 21 Nov. Stratford 4-5-1 last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.61 (p 0.58). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.skysports.com/southern-premier-league-central-table",
+   "https://www.southern-football-league.co.uk/Results"
+  ]
+ },
+ {
+  "eid": "sr:match:73022160",
+  "fx": "Banbury United v Halesowen Town FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL Premier Central. Banbury 2-2-6 last 10, 0.8 gf; Halesowen 6-1-3, 2.7 gf.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Halesowen away at 2.1 (p 0.44 < 0.75). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.skysports.com/southern-premier-league-central-table"
+  ]
+ },
+ {
+  "eid": "sr:match:73022162",
+  "fx": "BishopÂ´s Stortford v Peterborough Sports",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL Premier Central. Bishop's Stortford 1-1-8 last 10; Peterborough Sports 4-1-0 away in the sample.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 2.05 (p 0.45 < 0.75). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/southern-premier-league-central-table"
+  ]
+ },
+ {
+  "eid": "sr:match:73022164",
+  "fx": "Bromsgrove Sporting v Hitchin Town",
+  "sport": "football",
+  "absences": "none reported (no injury or line-up info found)",
+  "context": "SL Premier Central. Bromsgrove 2nd, 12-4-1, unbeaten in 15 league games; Hitchin's manager calls them strong title favourites and says Hitchin must improve their away record (Hitchin 1-0-3 away). Hitchin drew 3-3 with Anstey on 21 Nov.",
+  "news": "Hitchin weekly bulletin (27 Nov) previews the trip. Bromsgrove's site says 'UK Electrical Stadium' and Hitchin's says 'Victoria Ground'; these are the same Bromsgrove ground (sponsor name), so this is not a venue conflict.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.35,
+    "p": 0.699601,
+    "why": "Mechanism: a team unbeaten in 15 league games v a side 20th-ish with a poor away record; the opposition manager concedes they are strong favourites. My estimate is 0.72 v house 0.70."
+   }
+  ],
+  "avoid": "-1.5 AH 1.92 (modal-win-margin risk). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.3,
+  "sources": [
+   "https://hitchintownfc.club/weekly-bulletin-27-november/",
+   "https://bromsgrovesporting.co.uk/match-preview-ahead-of-saturdays-home-league-match-v-hitchin-town/"
+  ]
+ },
+ {
+  "eid": "sr:match:73022166",
+  "fx": "Leamington FC v Alvechurch",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL Premier Central. Leamington 1-2-4 at home (2.43 ga); Alvechurch 3-5-2 last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1.84 (p 0.50 < 0.75). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.skysports.com/southern-premier-league-central-table"
+  ]
+ },
+ {
+  "eid": "sr:match:73022168",
+  "fx": "RC Warwick v Kettering Town",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL Premier Central. Kettering drew 0-0 with Needham on 21 Nov. RC Warwick 5-2-3 last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 2.15 (p 0.43). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.southern-football-league.co.uk/Results"
+  ]
+ },
+ {
+  "eid": "sr:match:73022170",
+  "fx": "Real Bedford v Needham Market",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL Premier Central top-five clash: Real Bedford lead (42 pts/19), Needham Market in the top five (32 pts/18), 5-4-1 last 10 and unbeaten away in the sample. Needham drew 0-0 at Kettering.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No result-side in a top-of-table clash; Needham are unbeaten away. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.skysports.com/southern-premier-league-central-table",
+   "https://www.southern-football-league.co.uk/Results"
+  ]
+ },
+ {
+  "eid": "sr:match:73022172",
+  "fx": "Redditch United v Bury Town FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL Premier Central. Redditch 3-2-5 last 10; Bury Town 3-4-3.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.skysports.com/southern-premier-league-central-table"
+  ]
+ },
+ {
+  "eid": "sr:match:73022174",
+  "fx": "Stamford AFC v Leighton Town",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL Premier Central basement: Stamford 1-2-7 last 10 (0.6 gf, 2.7 ga); Leighton 0-2-8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Both sides poor; no edge. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.skysports.com/southern-premier-league-central-table"
+  ]
+ },
+ {
+  "eid": "sr:match:73022176",
+  "fx": "Stourbridge FC v Rushall Olympic",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL Premier Central. Stourbridge 5-0-5; Rushall 4-2-4.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.skysports.com/southern-premier-league-central-table"
+  ]
+ },
+ {
+  "eid": "sr:match:73022178",
+  "fx": "Worcester City v Leiston FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL Premier Central. Worcester City 6-1-3 last 10 but outside the top 13 on Sky; Leiston 3-2-5.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 2.15 (p 0.42). No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.skysports.com/southern-premier-league-central-table"
+  ]
+ },
+ {
+  "eid": "sr:match:73025202",
+  "fx": "Basingstoke Town FC v Gloucester City",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "SL Premier South. The fixture is listed for 28 Nov 15:00 on FWP. Basingstoke 4-1-1 at home; Gloucester 2-4-4 last 10, 1.2 gf.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Gloucester away at 1.99 (p 0.47 < 0.75), and house favouritism conflicts with form. No Overs/Unders: English non-league is a thin-scoring context where O1.5 and Unders are excluded (CLAUDE.md §5).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/southern-football-league-premier-south-division/fixtures-results"
+  ]
+ }
+]
