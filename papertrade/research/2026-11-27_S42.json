@@ -1,0 +1,698 @@
+[
+ {
+  "eid": "sr:match:72740866",
+  "fx": "Woking FC v Barrow AFC",
+  "sport": "football",
+  "absences": "No team news published by either club.",
+  "context": "National League 14th (Woking, 24 pts/18) v 9th (Barrow, Adam Murray). Woking played Tue (W 4-3 v Worthing) after a 5-0 loss at Halifax; Barrow won 1-0 at Boston. 12:30 KO confirmed by Woking site.",
+  "news": "Woking leaky (5-0 at Halifax, 4-3 v Worthing); Barrow strong away defence; WH predicts 2-2.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.43,
+    "p": 0.646005,
+    "why": "Woking conceded 9 in last 2; Barrow away GA 0.5 over last 4 away (stats-led, no named absences). Own p ~0.66."
+   }
+  ],
+  "avoid": "Woking win; Under markets (Woking games volatile).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.newsminimalist.com/articles/woking-vs-barrow-tv-channel-and-live-stream-for-national-league-clash-2ff07025",
+   "https://wokingfc.co.uk/",
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-28th-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:73603158",
+  "fx": "Liverpool U21 v Birmingham City U21",
+  "sport": "football",
+  "absences": "Youth (U21) - not researched for absences.",
+  "context": "Premier League 2 U21. Liverpool U21 7th (11 pts/6); Birmingham U21 7-18 goal record.",
+  "news": "Venue conflict: Sofascore lists Prenton Park, Birmingham fixture list says Liverpool Academy (Kirkby).",
+  "veto": true,
+  "veto_reason": "Youth fixture with venue conflict between sources (Prenton Park vs Liverpool Academy).",
+  "picks": [],
+  "avoid": "Everything (youth + venue conflict).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/football/match/birmingham-city-u21-liverpool-u21/gGoseYFb",
+   "https://www.bcfc.com/pages/en/mensU21-fixtures"
+  ]
+ },
+ {
+  "eid": "sr:match:72740882",
+  "fx": "AFC Hornchurch v Solihull Moors FC",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "Hornchurch (newly promoted, 12th, 25 pts/19, drew 0-0 v Sutton) v Solihull Moors (22nd, 16 pts/17, relegation zone; last league win 2-1 v Altrincham).",
+  "news": "Solihull in the drop zone and poor away (GA 2.2 last 5 away); Hornchurch home GA 0.83; WH predicts 3-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.35,
+    "p": 0.6901638113,
+    "why": "Hornchurch solid at home (GA 0.83) v relegation-zone Solihull conceding 2.2 per away game. Own p ~0.72."
+   }
+  ],
+  "avoid": "Solihull DNB/away sides; integer Over 2/3.",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.solihullmoorsfc.co.uk/statistical-preview-hornchurch-v-solihull-moors",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_National_League",
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-28th-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72740868",
+  "fx": "Altrincham FC v Worthing FC",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Altrincham v Worthing (7th, 29 pts/17). Worthing played Tue at Woking (L 3-4) - short turnaround.",
+  "news": "Both sides in high-scoring runs (Alty 4-5, 2-4, 0-4; Worthing 3-4, 3-3); WH predicts 1-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.52,
+    "p": 0.630549,
+    "why": "Altrincham last 6: 4-5, 2-4, 0-4, 3-0; Worthing last 6 incl 3-4, 3-3 - both defences leaking (stats-led). Own p ~0.64."
+   }
+  ],
+  "avoid": "Result sides (coin-flip, no news).",
+  "confidence": 0.2,
+  "sources": [
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-28th-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72740870",
+  "fx": "Boreham Wood FC v Gateshead FC",
+  "sport": "football",
+  "absences": "No Boreham Wood absences reported. Gateshead new boss Alun Armstrong (appointed 17 Nov).",
+  "context": "1st v 24th. Boreham Wood unbeaten 16W 3D, 53 league goals, 13-pt lead, beat Aldershot 4-1 midweek. Gateshead rock bottom, 12 pts adrift, first league win since 15 Aug at Scunthorpe (2-1) on Tue.",
+  "news": "Champions-elect v bottom side; Gateshead had a new-manager win midweek but table record 1W in 16 at the time with -28 GD.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1.5",
+    "desc": "Home (-1.5)",
+    "odds": 1.31,
+    "p": 0.727616,
+    "why": "Leaders with 53 goals v bottom side 9-37 GD; Wood home GF 3.67 last 3. Own p ~0.75."
+   },
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.22,
+    "p": 0.7918587154,
+    "why": "Wood score ~2.8/game, Gateshead concede ~2.4-2.6; Gateshead scored at Scunthorpe so a consolation goal also helps. Own p ~0.81."
+   }
+  ],
+  "avoid": "Home win to nil (Gateshead scored in 2-1 at Scunthorpe); Gateshead +2.5 catches.",
+  "confidence": 0.35,
+  "sources": [
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-28th-november-2026/",
+   "https://www.thenonleaguefootballpaper.com/latest-news/step-1/national-league/630233/national-league-weekend-preview-can-anyone-stop-boreham-wood-carlisle-uniteds-unbeaten-run-and-more"
+  ]
+ },
+ {
+  "eid": "sr:match:72740872",
+  "fx": "Boston United FC v Kidderminster Harriers FC",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Boston (3W 7L last 10, lost 1-0 at home to Barrow) v Kidderminster (lost 3-1 at Harrogate midweek; draw-prone, 5D in last 10).",
+  "news": "No news; WH predicts 0-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Boston win; Overs (Kiddy away GF 0.5).",
+  "confidence": 0.15,
+  "sources": [
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-28th-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72740874",
+  "fx": "Carlisle United v Sutton United",
+  "sport": "football",
+  "absences": "Sutton: Brandon Njoku (last game of 3-match ban), Joe Knight (1-game ban, 5 yellows), Ronny Ruiz (ACL, long-term) out; Kwaku Donkor and Sam Folarin return.",
+  "context": "Carlisle on a long unbeaten run (8W 1D 1L last 10, GA 0.7). Sutton in \"positive form\" per club.",
+  "news": "Sutton without two suspended starters (Njoku, Knight) and Ruiz; Carlisle unbeaten run; WH predicts 2-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.18,
+    "p": 0.809101,
+    "why": "Carlisle unbeaten run, GA 0.7, v Sutton missing suspended Njoku and Knight. Own p ~0.83."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.47,
+    "p": 0.648515,
+    "why": "Same mechanism: two Sutton suspensions + Ruiz ACL; Carlisle 8W in last 10. Own p ~0.67."
+   }
+  ],
+  "avoid": "Integer Over 2/3; Sutton team goals.",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.suttonunited.net/team-news-carlisle-united-a-2627/",
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-28th-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72740876",
+  "fx": "Eastleigh FC v FC Halifax Town",
+  "sport": "football",
+  "absences": "Eastleigh: none reported. Halifax: none reported.",
+  "context": "Eastleigh 18th, lost at home to Yeovil midweek; top scorer Aaron Blair 9. Halifax in form: W 5-0 v Woking, W 2-0 at Fylde (Tue).",
+  "news": "Halifax two wins incl. midweek away win; Eastleigh struggling; WH predicts 1-3.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.31,
+    "p": 0.7150642136,
+    "why": "Halifax W 5-0 and W 2-0 away in last two; Eastleigh 18th, lost home midweek. Own p ~0.73."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.46 < 0.75); Unders.",
+  "confidence": 0.25,
+  "sources": [
+   "https://fchalifaxtown.com/news/eastleigh-match-preview-20/",
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-28th-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72740878",
+  "fx": "Forest Green Rovers v Tamworth FC",
+  "sport": "football",
+  "absences": "No player news found.",
+  "context": "Forest Green operating without a manager (coaches sharing duties), poor season; lost 2-0 at home to Southend midweek. Tamworth next; FGR travel to Aldershot 5 Dec.",
+  "news": "Fragile favourite: FGR managerless and out of form (2W 4D 4L last 10); WH predicts 0-0.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "FGR win and FGR -handicaps (fragile favourite - skip, not DNB); Over 2.5 at 1.41.",
+  "confidence": 0.2,
+  "sources": [
+   "https://uk.news.yahoo.com/heartbreak-fgr-poor-start-season-113409577.html",
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-28th-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72740880",
+  "fx": "Harrogate Town v Yeovil Town",
+  "sport": "football",
+  "absences": "No named absences found.",
+  "context": "2nd (Harrogate, 1 home league defeat, 30 home goals, last 4 league games all 3+ goals, W 3-1 v Kidderminster midweek) v 3rd (Yeovil, 3 pts behind, scored in 8 of 9 away, W3 in a row scoring 3 each time).",
+  "news": "Top-of-table clash between two attacking sides; WH predicts 1-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=0.5",
+    "desc": "Over 0.5",
+    "odds": 1.37,
+    "p": 0.693366,
+    "why": "Yeovil scored in 8 of 9 away league games and 3 in each of last two. Own p ~0.75."
+   },
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.54,
+    "p": 0.606513,
+    "why": "Harrogate league-high 2.02 home xG + Yeovil scoring away in 8/9. Own p ~0.64."
+   }
+  ],
+  "avoid": "Result sides (top-3 clash, WH draw tip); Unders.",
+  "confidence": 0.3,
+  "sources": [
+   "https://gloverscast.co.uk/match-preview-harrogate-town-vs-yeovil-town/",
+   "https://www.harrogateadvertiser.co.uk/sport/football/harrogate-town-v-yeovil-town-simon-weaver-confident-that-sulphurites-will-continue-to-develop-9378152",
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-28th-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72221424",
+  "fx": "Leeds United v Coventry City",
+  "sport": "football",
+  "absences": "Leeds: Mateo Joseph (long-term knee); otherwise Farke says all available. Coventry: Taiwo Awoniyi (ankle, \"significant\" - Lampard), Josh Eccles (ankle op), Haji Wright, Aurele Amenda, Ephron Mason-Clark out.",
+  "context": "Premier League, Elland Road 15:00, referee Paul Tierney. Leeds home GA 0.5 last 4.",
+  "news": "Coventry five out incl. striker Awoniyi; Leeds near full strength.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.814398,
+    "why": "Coventry without Awoniyi, Wright, Eccles, Amenda, Mason-Clark; Leeds full squad bar Joseph. Own p ~0.83."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.52,
+    "p": 0.650661,
+    "why": "Same absences; Coventry away GF 0.75 last 4. Own p ~0.67."
+   }
+  ],
+  "avoid": "Coventry team goals; Over 3.5.",
+  "confidence": 0.35,
+  "sources": [
+   "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/leeds-united-coventry-city-injury-news-latest-significant-blow-9376449",
+   "https://www.coventrytelegraph.net/sport/football/football-news/coventry-city-leeds-united-injuries-34975039",
+   "https://premierleaguenewsnow.com/2026/11/25/leeds-coventry-team-news-farke-joseph-tierney/"
+  ]
+ },
+ {
+  "eid": "sr:match:72221426",
+  "fx": "Man Utd v Brentford",
+  "sport": "football",
+  "absences": "Man Utd: Sesko, Rashford, Ugarte, Baleba out; Bruno Fernandes late call (virus); Amad Diallo doubtful; Yoro available (red overturned); Shaw back training. Brentford: Igor Thiago suspended (2nd of 3), Hickey, Collins, Furo, Rico Henry out.",
+  "context": "Big club; Man Utd played Champions League in Lisbon midweek (Tielemans CL ban only). Utd 1W 4D 5L last 10, GA 2.5.",
+  "news": "Heavy absences both sides; Utd midweek European trip (rotation risk); Brentford without top scorer Thiago.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big club, CL midweek rotation); totals below p 0.82 (big-club rule).",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.brentfordfc.com/en/news/match-previews-manchester-united-v-brentford-premier-league-28-11-2026",
+   "https://www.goal.com/en-gb/news/manchester-united-v-brentford-preview-team-news-injury-latest/blt796409207e99c5a2",
+   "https://khelnow.com/football/manchester-united-vs-brentford-preview-premier-league-202611"
+  ]
+ },
+ {
+  "eid": "sr:match:72759516",
+  "fx": "AFC Telford United v South Shields",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "NL North (step 2). Telford 7W in last 10; South Shields 8W in last 10 - both in form.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (even, no news).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72759518",
+  "fx": "Buxton FC v Spennymoor Town FC",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Buxton (home GF 2.0) v Spennymoor (1W 1D 8L last 10, away GA 3.0; recent 0-5, 0-5, 0-2). KO 15:00 UK; one US-time listing shows 10:00 ET = same time, not a conflict.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.38,
+    "p": 0.688965,
+    "why": "Spennymoor in freefall (8 defeats in 10, conceding 3.0 away); stats-led. Own p ~0.71."
+   }
+  ],
+  "avoid": "Spennymoor sides.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results",
+   "https://www.telefootball.net/US/Buxton-FC-Spennymoor-Town-2026-11-28-684182.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72759520",
+  "fx": "Chorley FC v Harborough Town FC",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Chorley (2W in last 10) v Harborough (away GA 2.8).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All (both out of form, no news).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72759522",
+  "fx": "Darlington FC v Brackley Town FC",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Darlington (home GA 0.6) v Brackley.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Overs.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72759524",
+  "fx": "Hebburn Town v Bedford Town Football Club",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Hebburn draw-prone (6D in last 10) v Bedford (7L in last 10).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72759526",
+  "fx": "Kings Lynn FC v Macclesfield FC",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Kings Lynn (home GA 0.0 last 5) v Macclesfield (beat Morecambe 3-2 last time out).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Overs (Lynn home tight).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results",
+   "https://beyond.radio/news/local-sport/morecambes-away-day-woes-continue-at-macclesfield-in-national-league-north"
+  ]
+ },
+ {
+  "eid": "sr:match:72759528",
+  "fx": "Marine FC v Hednesford Town",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Marine (home GA 0.33) v Hednesford (9W in last 10, GA 0.7). Sky lists 15:00, matches board.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Overs (two strong defences).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72759530",
+  "fx": "Merthyr Town v Worksop Town",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Merthyr v Worksop, mid-table.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72759532",
+  "fx": "Morecambe FC v Spalding United",
+  "sport": "football",
+  "absences": "Spalding: Michael Kelly (injured before HT) and sub Abduramane Sani (late injury) hurt in 0-2 loss at Scarborough - doubtful.",
+  "context": "Morecambe (relegated club, home GA 0.5 last 4) lost 3-2 at Macclesfield last time out.",
+  "news": "Spalding lost two players to injury in their last game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.675471,
+    "why": "Spalding injuries (Kelly, Sani) after 0-2 loss at Scarborough; Morecambe home GA 0.5. Own p ~0.7."
+   }
+  ],
+  "avoid": "Spalding sides; Overs.",
+  "confidence": 0.2,
+  "sources": [
+   "https://lincsonline.co.uk/spalding/sport/first-half-goals-defeat-tulips-9492783",
+   "https://peterboroughtoday.co.uk/sport/football/peterborough-sports-seek-a-ruthless-streak-spalding-united-at-recent-efl-club-lots-of-home-games-for-local-non-league-clubs-9376593"
+  ]
+ },
+ {
+  "eid": "sr:match:72759534",
+  "fx": "Oxford City v Southport FC",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Oxford City v Southport (1W in last 10, GF 0.7).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Southport goals.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72759536",
+  "fx": "Radcliffe FC v Chester FC",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Radcliffe (home GA 2.6) v Chester (6W in last 10 incl 6-1, 5-0).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.31,
+    "p": 0.726691,
+    "why": "Chester in form and scoring heavily v leaky Radcliffe home defence (stats-led, away 1X2 avoided). Own p ~0.74."
+   }
+  ],
+  "avoid": "Chester 1X2 (p 0.56 < 0.75).",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results"
+  ]
+ },
+ {
+  "eid": "sr:match:72759538",
+  "fx": "Scarborough Athletic v Hereford FC",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Scarborough beat Spalding 2-0 last time out; Hereford 3W in last 10.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.footballwebpages.co.uk/national-league-north/fixtures-results",
+   "https://lincsonline.co.uk/spalding/sport/first-half-goals-defeat-tulips-9492783"
+  ]
+ },
+ {
+  "eid": "sr:match:72758362",
+  "fx": "Billericay Town v Horsham FC",
+  "sport": "football",
+  "absences": "Horsham: Niall McManus, Danny Barker, Ronan Silva (injured), Lee Harding (1-match ban) out. Billericay: none reported.",
+  "context": "NL South. Billericay unbeaten in 12 league games (drew 1-1 at leaders Ebbsfleet Tue), home GF 3.14. Horsham 14th, 25 pts/18, beat Truro midweek.",
+  "news": "Horsham four absentees incl. suspended Harding; Billericay 12 unbeaten.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.3,
+    "p": 0.7164929913,
+    "why": "Billericay 12 league games unbeaten v Horsham missing McManus, Barker, Silva and suspended Harding. Own p ~0.76."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.51,
+    "p": 0.6232955738,
+    "why": "Same absences; Billericay home GF 3.1. Own p ~0.66."
+   }
+  ],
+  "avoid": "Horsham sides.",
+  "confidence": 0.3,
+  "sources": [
+   "https://horshamfc.co.uk/2026/11/26/billericay-town-v-horsham-match-preview-4"
+  ]
+ },
+ {
+  "eid": "sr:match:72758364",
+  "fx": "Braintree Town FC v AFC Totton",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Braintree hovering 3 pts above the drop zone; Totton inconsistent.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "All.",
+  "confidence": 0.1,
+  "sources": [
+   "https://lukeparsons92.substack.com/p/national-league-south-score-predictions-6da"
+  ]
+ },
+ {
+  "eid": "sr:match:72758366",
+  "fx": "Dorking Wanderers v Farnborough FC",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Dorking high-scoring at home (last 6: 2-2, 5-6, 3-2, 2-0, 3-3, 3-1); Farnborough 2W 1D 7L last 10, GA 3.0, recent 0-6 and 0-5 home defeats. Last meeting Feb 2026: Dorking 5-3.",
+  "news": "No team news; Farnborough defence collapsing.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.33,
+    "p": 0.720074,
+    "why": "Farnborough conceded 11 in last two; Dorking games average 4+ goals; H2H 5-3. Own p ~0.75."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.44,
+    "p": 0.661365,
+    "why": "Farnborough 7 defeats in 10 incl 0-6, 0-5 (stats-led). Own p ~0.68."
+   }
+  ],
+  "avoid": "Unders; Farnborough +handicaps.",
+  "confidence": 0.3,
+  "sources": [
+   "https://dwfc.co.uk/2026/02/wanderers-win-chaotic-home-tie-against-farnborough/",
+   "https://www.365scores.com/football/match/national-league-n-s-7852/dorking-wanderers-farnborough-fc-10017-21695-7852"
+  ]
+ },
+ {
+  "eid": "sr:match:72758368",
+  "fx": "Farnham Town v Ebbsfleet United FC",
+  "sport": "football",
+  "absences": "No team news found.",
+  "context": "Ebbsfleet top but three straight draws (incl 1-1 v Billericay Tue); Farnham on 4-game league win run incl. away wins at Chelmsford and Maidstone.",
+  "news": "Fragile favourite: in-form Farnham v stalling leaders.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ebbsfleet win / handicaps (fragile favourite - skip).",
+  "confidence": 0.15,
+  "sources": [
+   "https://lukeparsons92.substack.com/p/national-league-south-score-predictions-6da",
+   "https://horshamfc.co.uk/2026/11/26/billericay-town-v-horsham-match-preview-4"
+  ]
+ },
+ {
+  "eid": "sr:match:72740884",
+  "fx": "Hartlepool United v Southend United",
+  "sport": "football",
+  "absences": "Hartlepool: Reiss McNally (CB, scan after injury v Gateshead) expected out. Southend: none reported.",
+  "context": "Hartlepool 17th, 2 straight wins (2-0 Solihull, 2-1 Gateshead), 3-pt relegation buffer. Southend 4th under Kieron Dyer, W 2-0 at Forest Green Tue, away record 5W 4D 1L. 17:30 KO.",
+  "news": "Southend excellent away; Hartlepool without centre-back McNally; WH predicts 0-1.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.27,
+    "p": 0.740535858,
+    "why": "Southend lost 1 of 10 away; Hartlepool lose CB McNally. Own p ~0.76."
+   },
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.44,
+    "p": 0.654078,
+    "why": "Same: Southend away 5W 4D 1L, McNally out. Own p ~0.68."
+   }
+  ],
+  "avoid": "Southend 1X2 (p 0.49 < 0.75).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.hartlepoolmail.co.uk/sport/football/hartlepool-united/hartlepool-united-predicted-starting-xi-southend-united-9377856",
+   "https://www.newsminimalist.com/articles/hartlepool-united-vs-southend-united-how-to-watch-live-and-team-news-46f3bdb5",
+   "https://news.williamhill.com/football/national-league/national-league-betting-tips-and-predictions-28th-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72221422",
+  "fx": "Ipswich Town v Aston Villa",
+  "sport": "football",
+  "absences": "Ipswich: Leif Davis conflicting (O'Neil says recovered from ankle knock; another source 75% calf doubt). Villa: Amadou Onana, Matteo Ruggeri out; Matty Cash cleared after concussion protocol (one source still lists doubt).",
+  "context": "Premier League, Portman Road 17:30. Ipswich 11 pts, 30 PL games without a clean sheet; Villa 14 pts/11, no goals in last two.",
+  "news": "Both struggling; Ipswich never keep clean sheets, Villa blanked twice.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "29",
+    "spec": null,
+    "desc": "Yes",
+    "odds": 1.54,
+    "p": 0.623611,
+    "why": "Ipswich 30 PL games without a clean sheet; Ipswich scored in most home games (Villa blanks are the risk). Own p ~0.65."
+   }
+  ],
+  "avoid": "Result sides (minor data conflict on Davis/Cash); Unders.",
+  "confidence": 0.2,
+  "sources": [
+   "https://thehardtackle.com/round-up/2026/11/27/ipswich-town-vs-aston-villa-preview-prediction-probable-lineups-tactics-team-news-key-stats/",
+   "https://thefalse9.com/2026/11/ipswich-town-vs-aston-villa-predicted-lineup-team-news-28-november.html",
+   "https://premierleaguenewsnow.com/2026/11/26/ipswich-aston-villa-preview-team-news-prediction/"
+  ]
+ }
+]
