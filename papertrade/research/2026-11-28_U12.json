@@ -1,0 +1,595 @@
+[
+ {
+  "eid": "sr:match:72550356",
+  "fx": "SC Poltava v FSK Mariupol",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Persha Liga (2nd tier). Poltava won 0-1 away at Niva Ternopil on Nov 22; Mariupol are away favourites with a tight defence (0.6 GA/game in the last 10).",
+  "news": "Poltava in form after winning at Niva; Forebet names the opponent 'Yarud Mariupol' (same club, renamed) at the same time.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mariupol away result-side (p 0.47) and DC: Poltava's form contradicts the price; no mechanism.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.futbol24.com/national/Ukraine/Persha-Liga/2026-2027",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-ukraine/persha-liga"
+  ]
+ },
+ {
+  "eid": "sr:match:72409820",
+  "fx": "FC Epitsentr Kamianets-Podilskyi v LNZ Cherkasy",
+  "sport": "football",
+  "absences": "none found",
+  "context": "UPL round 14, 13:00 Kyiv (matches the board). LNZ 6th on 19 pts v Epitsentr 10th on 13. Epitsentr home form is weak (H 1-1, H 1-2); LNZ lost once in their last 6.",
+  "news": "Official UPL schedule confirms 13:00 local; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.23,
+    "p": 0.7722193235,
+    "why": "LNZ clearly stronger (6th v 10th; GA 0.8 v Epitsentr home GF 1.1); my estimate 0.79 v house 0.77. Stats-led, fill-grade."
+   }
+  ],
+  "avoid": "Under lines (p<0.82); Away 1X2 (p 0.49).",
+  "confidence": 0.25,
+  "sources": [
+   "https://upl.ua/ua/news/view/12243",
+   "https://champion.com.ua/ukr/football/anons-14-turu-upl-centralniy-match-karpati-polissya-ta-rozklad-igor-1091884/",
+   "https://galinfo.com.ua/news/karpaty_pryymatymut_polissya_u_tsentralnomu_matchi_anons_14go_turu_upl_456227",
+   "https://terrikon.com/en/football/ukraine/championship/"
+  ]
+ },
+ {
+  "eid": "sr:match:72409808",
+  "fx": "FC Kryvbas Kriviy Rih v Veres Rivne",
+  "sport": "football",
+  "absences": "Kryvbas: Vilivald sent off (22') in the 0-2 home loss to Kharkiv on Nov 25; a possible suspension is unconfirmed.",
+  "context": "UPL round 14. Kryvbas are playing a third game in about 7 days (a rescheduled round-6 match on Nov 25). Veres have lost 5 in a row (latest 0-2 v Polissya); both sides sit near the bottom.",
+  "news": "Kick-off conflict: the official UPL schedule says 13:00 Kyiv (board 11:00 UTC), but other media list 18:00.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (13:00 official v 18:00 in some media).",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://upl.ua/ua/news/view/12243",
+   "https://champion.com.ua/ukr/football/anons-14-turu-upl-centralniy-match-karpati-polissya-ta-rozklad-igor-1091884/",
+   "https://galinfo.com.ua/news/karpaty_pryymatymut_polissya_u_tsentralnomu_matchi_anons_14go_turu_upl_456227",
+   "https://terrikon.com/en/football/ukraine/championship/",
+   "https://112.ua/en/krivbas-prograv-harkovu-02-u-perenesenomu-matci-sostogo-turu-upl-z-vilucennam-vilivalda-200529",
+   "https://112.ua/en/12-j-tur-upl-nicii-oboloni-epicentru-ta-sahtara-polissa-peremagae-veres-harkiv-perenos-196962"
+  ]
+ },
+ {
+  "eid": "sr:match:74090532",
+  "fx": "Hai Phong FC v The Cong - Viettel FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "V-League 1 at Lach Tray (Hai Phong home). Viettel 12th (1W 1D 3L, form D L L L W), last 10: 0.5 GF / 1.9 GA. Hai Phong 8th, scoring 1.6/game. Viettel lead the H2H 7-2-4 and won both 2026 meetings (1-0, 2-1).",
+  "news": "The date is consistent (OneFootball 06:00 ET / Apwin 03:00 PT = 11:00 UTC). No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.26,
+    "p": 0.7563939253,
+    "why": "Viettel can barely score (0.5/game, three games with 0 goals in their last 6); Hai Phong +1 loses only to a Viettel 2+ goal win. My estimate 0.80 v house 0.756. The H2H edge to Viettel is the risk."
+   }
+  ],
+  "avoid": "Viettel 1X2/DNB (house fav despite awful form, but H2H); totals.",
+  "confidence": 0.25,
+  "sources": [
+   "https://onefootball.com/en/match/2731716",
+   "https://www.apwin.com/team/viettel-fc/",
+   "https://us.soccerway.com/game/hai-phong-W2JuAXes/viettel-Gb6wjV0S/?mid=d6XWGgiC"
+  ]
+ },
+ {
+  "eid": "sr:match:72550128",
+  "fx": "FC Niva Ternopil v FC Ucsa Tarasivka",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Persha Liga. Niva unbeaten in 9 of their last 10 before a 0-1 home loss to Poltava on Nov 22. UCSA are weak away (A 0-1, A 0-2, A 0-0) and Forebet notes their away struggles.",
+  "news": "Futbol24 and Forebet agree: Niva v UCSA at 13:00 local on Nov 29.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.28,
+    "p": 0.7224178076,
+    "why": "Niva hard to beat at home (90% trend for this outcome in the last 10) v a UCSA side that rarely scores away; my estimate 0.77 v house 0.72."
+   }
+  ],
+  "avoid": "Niva 1X2 (p 0.46, draws common at 45%).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.futbol24.com/national/Ukraine/Persha-Liga/2026-2027",
+   "https://www.forebet.com/en/football-tips-and-predictions-for-ukraine/persha-liga"
+  ]
+ },
+ {
+  "eid": "sr:match:72629762",
+  "fx": "Inter FS v Noia Portus Apostoli",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Spanish futsal Primera División: Inter (Movistar Inter, Torrejón) v Noia, who survived relegation narrowly last season.",
+  "news": "No 2026/27 news found; the board has 0 markets.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "No markets on the board.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lnfs.es/equipo/noia-portus-apostoli/10_27/2025/partidos",
+   "https://en.wikipedia.org/wiki/Inter_FS"
+  ]
+ },
+ {
+  "eid": "sr:match:75548188",
+  "fx": "Al Urooba (UAE) v AL Bataeh (UAE)",
+  "sport": "football",
+  "absences": "none found",
+  "context": "UAE First Division (Gulf, thin league). Al Urooba are mid-to-upper table (8th on 13 pts from 8 games, or 3rd on 17 in another snapshot); form W W D L D W. Al Bataeh 12th–13th on 8 pts, with defeats in 5 of their last 6.",
+  "news": "365Scores lists Al Urooba v Al Bataeh on 29/11; the standings snapshots differ.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.61,
+    "p": 0.570605,
+    "why": "Al Bataeh have one draw in their last 6 (5 defeats); Al Urooba are unbeaten in 4 of their last 5 home or away. DNB covers the draw. My estimate 0.63 v house 0.57; stats-only, fill-grade."
+   }
+  ],
+  "avoid": "Overs (Gulf thin-league rule); Al Urooba 1X2.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.365scores.com/football/league/division-1-5449/standings",
+   "https://www.livesoccertv.com/competitions/united-arab-emirates/division-1-group-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:75548186",
+  "fx": "Dibba Al Fujairah v Forte Virtus FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "UAE First Division. Dibba Al Fujairah 4th on 15 pts from 9 games. Forte Virtus FC: no information found at all (possibly a newly admitted club).",
+  "news": "No news; Forte Virtus could not be verified in any source.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything: the opponent is unknown, and the Gulf rule blocks Overs.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.365scores.com/football/league/division-1-5449/standings",
+   "https://www.livesoccertv.com/competitions/united-arab-emirates/division-1-group-a/"
+  ]
+ },
+ {
+  "eid": "sr:match:74201118",
+  "fx": "Power Dynamos v Konkola Blades",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Zambia Super League at Arthur Davies Stadium, Kitwe. Power Dynamos (reigning champions) 5th on 13 pts host Konkola Blades, 3rd on 16 pts. Power have scored only 0.8 goals/game in their last 10.",
+  "news": "Lusaka Times preview (Nov 27) and Oddspedia confirm Sunday 29/11 at 13:00 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Power 1X2 at 1.48 (Konkola sit above them; Power's attack is weak). Home DNB 1.14 is below the odds floor.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lusakatimes.com/2026/11/27/super-league-title-race-heats-up/",
+   "https://scores24.live/en/soccer/m-28-11-2026-red-arrows-mutondo-stars-prediction",
+   "https://oddspedia.com/football/zambia/super-league"
+  ]
+ },
+ {
+  "eid": "sr:match:74201380",
+  "fx": "Red Arrows v Mutondo Stars",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Zambia Super League. Mutondo Stars are bottom and still without a win after 8 games; Red Arrows 7th.",
+  "news": "Date and venue conflict: Lusaka Times says Sunday at National Heroes Stadium, but its own fixture list shows Wed 2 Dec; Scores24 says Nkoloma Stadium, 29/11 at 13:00.",
+  "veto": true,
+  "veto_reason": "Date (29 Nov v 2 Dec) and venue (Heroes v Nkoloma) conflict.",
+  "picks": [],
+  "avoid": "Everything (veto).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.lusakatimes.com/2026/11/27/super-league-title-race-heats-up/",
+   "https://scores24.live/en/soccer/m-28-11-2026-red-arrows-mutondo-stars-prediction",
+   "https://footystats.org/clubs/red-arrows-fc-8531"
+  ]
+ },
+ {
+  "eid": "sr:match:72840848",
+  "fx": "Koge Handbold v Grindsted GIF",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Danish 1st Division handball (2nd tier). Køge 11th (4 wins) v Grindsted 10th (5 wins): near-equal sides.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Grindsted away 1X2 (p 0.59, near-equal teams).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/danmark-1-division/herrer/turnering/overblik",
+   "https://tophaandbold.dk/stillinger/1-division-herrer",
+   "https://www.myplanetsport.dk/team-sydhavsoeerne-herrer/"
+  ]
+ },
+ {
+  "eid": "sr:match:72840850",
+  "fx": "Raekker Molle KFUM v Team Sydhavsoeerne",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Danish 1st Division handball. Sydhavsøerne's page lists this match for 29/11 (14:00 local = 13:00 UTC, matches the board). Rækker Mølle played on Nov 26 (short turnaround).",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (coin-flip pricing).",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/danmark-1-division/herrer/turnering/overblik",
+   "https://tophaandbold.dk/stillinger/1-division-herrer",
+   "https://www.myplanetsport.dk/team-sydhavsoeerne-herrer/"
+  ]
+ },
+ {
+  "eid": "sr:match:72840844",
+  "fx": "Odder Haandbold v Stoholm Handbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Danish 1st Division handball, bottom of the table. Odder 12th (2 wins) v Stoholm 13th/last (1 win). Stoholm score only 25.9/game in their last 10 v Odder's 30.6.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.757091,
+    "why": "The last-placed Stoholm attack (25.9 goals) is far below Odder's at home; handball draws are rare (p 0.07). My estimate 0.78 v house 0.757. Stats-only."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.2,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/danmark-1-division/herrer/turnering/overblik",
+   "https://tophaandbold.dk/stillinger/1-division-herrer",
+   "https://www.myplanetsport.dk/team-sydhavsoeerne-herrer/"
+  ]
+ },
+ {
+  "eid": "sr:match:72840852",
+  "fx": "TM Toender Haandbold v Norddjurs Haandbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Danish 1st Division handball. Tønder 3rd (8–9 wins) v Norddjurs 5th (7–8 wins): close in the table, and Norddjurs score 34.7/game.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Tønder 1X2 at 1.26: the gap between the two sides is too small for p 0.75.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/danmark-1-division/herrer/turnering/overblik",
+   "https://tophaandbold.dk/stillinger/1-division-herrer",
+   "https://www.myplanetsport.dk/team-sydhavsoeerne-herrer/"
+  ]
+ },
+ {
+  "eid": "sr:match:72473302",
+  "fx": "TVB Stuttgart v SG Flensburg-Handewitt",
+  "sport": "handball",
+  "absences": "no current news (an old Flensburg injury piece, Witzke/Jakobsen, is about a year old)",
+  "context": "HBL. Flensburg are clear favourites away at Stuttgart.",
+  "news": "No current team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Flensburg 1X2 1.30 (p 0.73): no mechanism and the away p is below 0.75; coin-flip lines.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Handball-Bundesliga",
+   "https://www.sport1.de/news/handball/handball-bundesliga/2026/09/handball-fuechse-ohne-probleme-beim-bergischen-hc",
+   "https://www.handball-world.news/artikel/handball-am-sonntag-hbl-mit-flensburg-scm-und-melsungen-1252136"
+  ]
+ },
+ {
+  "eid": "sr:match:72840378",
+  "fx": "GOG Handbold v Skive FH",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Herreligaen. GOG (home) v Skive; the line is GOG -7.5.",
+  "news": "TV2 lists the fixture; no injury news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Coin-flip handicap and total lines.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/herreligaen"
+  ]
+ },
+ {
+  "eid": "sr:match:72409816",
+  "fx": "Karpaty Lviv v FC Polissya Zhytomyr",
+  "sport": "football",
+  "absences": "Karpaty: Kyrychok (ACL) and Kostenko (thigh) per a possibly outdated injury page.",
+  "context": "UPL round 14 centre-piece at Stadion Ukraina, Lviv, 18:00 Kyiv (matches the board). Polissya 2nd on 29 pts (0.5 GA/game) v Karpaty 5th on 22, who are strong at home (1-0, 5-0, 2-1).",
+  "news": "Billed as the central match of the round; no confirmed absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides (top-5 clash, treated as a big-club clash); Unders below p 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://upl.ua/ua/news/view/12243",
+   "https://champion.com.ua/ukr/football/anons-14-turu-upl-centralniy-match-karpati-polissya-ta-rozklad-igor-1091884/",
+   "https://galinfo.com.ua/news/karpaty_pryymatymut_polissya_u_tsentralnomu_matchi_anons_14go_turu_upl_456227",
+   "https://terrikon.com/en/football/ukraine/championship/",
+   "https://www.sportsdunia.com/football-teams/karpaty-injuries"
+  ]
+ },
+ {
+  "eid": "sr:match:73322072",
+  "fx": "Bsf Bochnia v Piast Gliwice",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Polish futsal Ekstraklasa. Piast Gliwice, the defending champions, are in European competition; Bochnia mid-table.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "The total 6.5 is a coin flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futsalekstraklasa.pl/aktualnosc/terminarz-fazy-zasadniczej-sezonu-202627",
+   "https://www.futsal.leszno.pl/sezon-2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:72749034",
+  "fx": "Dunkerque HB v Paris Saint-Germain",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Starligue round 12. Dunkerque 16th on 3 pts v PSG 2nd on 20, who play at Berlin in the Champions League on Thu Dec 3 (some rotation risk).",
+  "news": "Date conflict: the club sites (USDK and PSG) say Sun 29/11 at 17:00 CET (matches the board), but Sofascore lists 27/11 at 19:00 UTC.",
+  "veto": true,
+  "veto_reason": "Date conflict between Sofascore (27 Nov) and the official club sources (29 Nov). The official sources match the board, so the caller may override.",
+  "picks": [],
+  "avoid": "Everything (veto); lines are coin flips anyway.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.usdk.fr/",
+   "https://www.psg.fr/content/paris-et-plock-dos-a-dos-apres-une-enorme-bataille-cr-paris-saint-germain-handball-wisla-plock-ehf-champions-league-2026-2027",
+   "https://www.sofascore.com/handball/match/paris-saint-germain-handball-us-dunkerque-hb/eHcshHc"
+  ]
+ },
+ {
+  "eid": "sr:match:72749040",
+  "fx": "Saran Loiret Handball v Caen Handball",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Starligue. Saran v Caen: both weak defensively (33.3 GA each in their last 10).",
+  "news": "No news found; the fixture was not confirmed by search.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Saran 1X2 1.55: no mechanism.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/LNH_Division_1"
+  ]
+ },
+ {
+  "eid": "sr:match:72473890",
+  "fx": "1. VfL Potsdam v TUS N-Lubbecke",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "2. HBL round 13 at the MBS Arena, Sun 17:00 CET (matches the board). Potsdam 5th (18:6) v Lübbecke 8th (13:11).",
+  "news": "Potsdam club site confirms the date and time.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.18,
+    "p": 0.7746392906,
+    "why": "Home side 5th v 8th, with a 5-point gap; Potsdam GA 28.9. My estimate 0.79 v house 0.775. Low edge, stats-only."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.vfl-potsdam.de/",
+   "https://www.sport.de/handball/deutschland-2-hbl/ergebnisse-und-tabelle/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-2bl100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72473892",
+  "fx": "TV Emsdetten v TV 05/07 Huttenberg",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "2. HBL relegation battle: Emsdetten last (18th, 5:19) v Hüttenberg 13th (8:16).",
+  "news": "Fixture confirmed on the 2. HBL schedule.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Hüttenberg away (p 0.50): both sides are poor.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.vfl-potsdam.de/",
+   "https://www.sport.de/handball/deutschland-2-hbl/ergebnisse-und-tabelle/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-2bl100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72473900",
+  "fx": "TV Grosswallstadt v GWD Minden",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "2. HBL at the Untermainhalle. Großwallstadt 10th (9:15) v Minden 6th (17:7).",
+  "news": "Fixture and venue confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Minden away 1X2 (p 0.51).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.vfl-potsdam.de/",
+   "https://www.sport.de/handball/deutschland-2-hbl/ergebnisse-und-tabelle/",
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/handball-2bl100.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73322060",
+  "fx": "BTS Bielsko-Biała v Gi Malepszy Futsal Leszno",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Polish futsal Ekstraklasa. BTS Bielsko-Biała (5.0 GF / 1.7 GA in their last 10) v Leszno.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1X2 1.47 (p 0.64; futsal draws are common).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futsalekstraklasa.pl/aktualnosc/terminarz-fazy-zasadniczej-sezonu-202627",
+   "https://www.futsal.leszno.pl/sezon-2026-2027/"
+  ]
+ },
+ {
+  "eid": "sr:match:73322074",
+  "fx": "Futsal Swiecie v Legia Warszawa",
+  "sport": "futsal",
+  "absences": "none found",
+  "context": "Polish futsal Ekstraklasa. Świecie (4.8 GA/game) v Legia.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Legia away 1X2 (p 0.56).",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.futsalekstraklasa.pl/aktualnosc/terminarz-fazy-zasadniczej-sezonu-202627",
+   "https://www.futsal.leszno.pl/sezon-2026-2027/",
+   "https://legionisci.com/futsal/futsal-ekstraklasa/2026-2027/tabela"
+  ]
+ },
+ {
+  "eid": "sr:match:72840376",
+  "fx": "Soenderjyske HK v Skanderborg-Aarhus Haandbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Herreligaen. Sønderjyske v Skanderborg-Aarhus: evenly priced.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Every line is a coin flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/herreligaen"
+  ]
+ },
+ {
+  "eid": "sr:match:72473296",
+  "fx": "MT Melsungen v HSV Hamburg",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "HBL. Melsungen are strong at home (beat Magdeburg 37-34 in September) v HSV Hamburg (30.7 GA/game).",
+  "news": "No current injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.731301,
+    "why": "Melsungen near the top of the table and strong at home v a leaky Hamburg; my estimate 0.75 v house 0.73. Stats-only, fill-grade."
+   }
+  ],
+  "avoid": "",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Handball-Bundesliga",
+   "https://www.sport1.de/news/handball/handball-bundesliga/2026/09/handball-fuechse-ohne-probleme-beim-bergischen-hc"
+  ]
+ },
+ {
+  "eid": "sr:match:72473292",
+  "fx": "SC Magdeburg v ThSV Eisenach",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "HBL. Magdeburg (champions) v Eisenach; line Magdeburg -7.5.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "The -7.5 handicap is a coin flip.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Handball-Bundesliga",
+   "https://www.sport1.de/news/handball/handball-bundesliga/2026/09/handball-fuechse-ohne-probleme-beim-bergischen-hc"
+  ]
+ },
+ {
+  "eid": "sr:match:72840374",
+  "fx": "Fredericia HK 1990 v Aalborg Haandbold",
+  "sport": "handball",
+  "absences": "none found",
+  "context": "Herreligaen. Fredericia are strong at home (32.5-28.4) v Aalborg.",
+  "news": "No news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Aalborg away 1X2 1.42 (p 0.66 < 0.75) and the DC: Fredericia's home form is good.",
+  "confidence": 0.1,
+  "sources": [
+   "https://sport.tv2.dk/haandbold/herreligaen"
+  ]
+ },
+ {
+  "eid": "sr:match:76938958",
+  "fx": "Deportivo Tachira v Carabobo FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "FINAL of the Torneo Clausura 2026, a single match at Pueblo Nuevo, San Cristóbal, 18:30 VET (= 22:30 UTC, matches the board). If Carabobo win they are overall 2026 champions; if Táchira win there is a two-legged grand final in December. Both are unbeaten in the cuadrangular (Táchira 5/5 wins). Táchira beat Carabobo 3-1 in the Copa Venezuela on Nov 25. Referee: Ángel Arteaga.",
+  "news": "Date and venue agree across sources; kick-off 6:30 pm local v 22:00 on 365Scores (time-zone difference).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Every result-side (knockout final, rivalry); no DNB on the board; half-time result markets are also result-sides.",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.balonazos.com/deportivo-tachira-vs-carabobo-horario-donde-y-arbitros-de-la-final-del-torneo-clausura-2026/",
+   "https://www.365scores.com/es/news/tachira-rival-final-liga-futve-clausura/",
+   "https://ultimasnoticias.com.ve/negocios/dos-invictos-frente-a-frente-en-pueblo-nuevo/",
+   "https://www.elnacional.com/2026/11/carabobo-enfrenta-a-tachira-con-la-intencion-de-seguir-compitiendo-en-dos-frentes/"
+  ]
+ }
+]

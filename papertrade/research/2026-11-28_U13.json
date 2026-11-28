@@ -1,0 +1,676 @@
+[
+ {
+  "eid": "sr:match:74232096",
+  "fx": "HC Dinamo Molodechno v HK Lida",
+  "sport": "ice hockey",
+  "absences": "none reported",
+  "context": "Belarus Extraliga; Molodechno 5-2 at home (GF 3.29/GA 1.43), Lida 3-7 L10 and lost 5 of last 6.",
+  "news": "Fixture confirmed for 29.11 by LiveResult and Streams.by; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.75,
+    "p": 0.512426,
+    "why": "Regulation home win; Molodechno strong at home, Lida in a losing run (1.6 GF). Own p 0.54 (OT draw risk ~20% in a 3-way market)."
+   }
+  ],
+  "avoid": "no totals/handicaps on board",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.liveresult.ru/hockey/Belarus/Extraleague",
+   "https://streams.by/index.php?page=tournament&id=14"
+  ]
+ },
+ {
+  "eid": "sr:match:72518660",
+  "fx": "BM Zaragoza v CD Agustinos Alicante",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "DH Plata 2026-27; both mid/low form (Zaragoza 2-2-6, Agustinos 3-3-4 L10). Last meeting May 2026 ended 28-27 Zaragoza.",
+  "news": "No 2026-27 preview or confirmation of the fixture found; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 1.71 (p 0.54 < 0.75 away rule); draws frequent in both teams' recent games",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.ceroacero.es/partido/2025-12-13-agustinos-alicante-zaragoza-bm/11404659",
+   "https://www.rfebm.com/la-division-de-honor-plata-comienza-a-tomar-forma/"
+  ]
+ },
+ {
+  "eid": "sr:match:74117402",
+  "fx": "HK Liepaja v Hockey Punks Vilnius",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Optibet league (Latvia) with Lithuanian side Punks Vilnius; Liepaja clear favourite.",
+  "news": "DATE CONFLICT: Sofascore and the LHF schedule list Liepaja v Punks on 28.11 (15:00 UTC / 17:00 local); Flashscore and Betmaster list 29.11 and also 01.12.",
+  "veto": true,
+  "veto_reason": "Date conflict between sources (28.11 vs 29.11; possible double-header)",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.sofascore.com/ice-hockey/match/hockey-punks-vilnius-hk-liepaja/FlgcscFjc",
+   "https://www.flashscore.com/match/hockey/liepaja-pEEvB3Sp/punks-vilnius-hUMYAVkd/",
+   "https://www.lhf.lv/lv/turniri/optibet-hokeja-liga/speles"
+  ]
+ },
+ {
+  "eid": "sr:match:72166728",
+  "fx": "Neftekhimik Nizhnekamsk v HC Barys",
+  "sport": "ice hockey",
+  "absences": "Barys: Madi Dikhanbek listed injured (Elite Prospects, undated)",
+  "context": "KHL East. Barys won 7-4 at SKA on Nov 27 and travel St Petersburg to Nizhnekamsk on 1 day rest; Barys away 1-5 this sample, GA 3.0-3.5.",
+  "news": "Barys upset SKA 7-4 on 27.11; Neftekhimik home 14:00 MSK at Neftekhim Arena; no Neftekhimik injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.26,
+    "p": 0.7723375319,
+    "why": "Neftekhimik 2+ goals: Barys on a road back-to-back after a 7-4 shootout game, conceding 3.0 L10 / 3.5 away. Own p 0.79."
+   }
+  ],
+  "avoid": "result sides (both near coin flip); Unders (p<0.82)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.zakon.kz/sport/6540265-astanchane-ustroili-sensatsiyu-v-sanktpeterburge-barys-pobedil-ska-so-schetom-74.html",
+   "https://tribuna.1xbet.kz/prognozy/29-11-2026-neftehimik-vs-barys/",
+   "https://www.eliteprospects.com/league/khl"
+  ]
+ },
+ {
+  "eid": "sr:match:72166726",
+  "fx": "SKA Saint Petersburg v Salavat Yulaev UFA",
+  "sport": "ice hockey",
+  "absences": "Salavat: several undisclosed injuries (Elite Prospects); SKA: none listed",
+  "context": "KHL West. SKA 9th West (30 pts/30 GP), lost 4-7 at home to Barys on 27.11, 1-5 in last 6 home games; coach Razin under pressure.",
+  "news": "VENUE CONFLICT: one preview says the game moved from SKA Arena to the Ice Palace, another lists SKA Arena; 14:00 MSK.",
+  "veto": true,
+  "veto_reason": "Venue conflict between sources (SKA Arena vs Ice Palace)",
+  "picks": [],
+  "avoid": "SKA result side (home form collapse); all markets due to veto",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sport-express.net/hockey/khl/news/razin-o-porazhenii-ska-ot-barysa-nekotorye-momenty-trudno-obyasnit-2479851/",
+   "https://kushvsporte.ru/event/7118761-ska-salavat-yulaev",
+   "https://ironwin.ru/prognozy/hockey/ska-salavat-yulaev-29-11-2026"
+  ]
+ },
+ {
+  "eid": "sr:match:72518658",
+  "fx": "SCDR Anaitasuna v BM Benidorm",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "DH Plata; Anaitasuna 15 pts after 10 rounds, playing for first place; played at Zarautz Wed 25 (normal midweek round). Home 3-0-2 GA 25.2.",
+  "news": "Noticias de Navarra (24.11) confirms Anaitasuna host Benidorm Sunday 29 morning at Pabellon Anaitasuna, a chance to lead the table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.4,
+    "p": 0.667233,
+    "why": "Motivation (chance to go top) plus home defence (GA 25.2) v Benidorm away 1-1-2. Own p 0.69."
+   }
+  ],
+  "avoid": "none",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.noticiasdenavarra.com/balonmano/2026/11/24/oportunidad-liderar-anaitasuna-11792594.html"
+  ]
+ },
+ {
+  "eid": "sr:match:73712688",
+  "fx": "HC CSKA Moscow v Permskie Medvedi",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "Russian Superliga top-of-table clash (CSKA 8-1-1, Medvedi 9-1-0). H2H tight (33-32, 31-31).",
+  "news": "KICK-OFF CONFLICT: Handballfast says 16:00 MSK (13:00 UTC); Match TV listing 14:55 and board 12:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (15:00 vs 16:00 MSK)",
+  "picks": [],
+  "avoid": "result side in a leaders' clash",
+  "confidence": 0.15,
+  "sources": [
+   "https://handballfast.com/news/103023-matc-favoritov-muzskogo-cempionata-rossii-cska-permskie-medvedi-v-priamom-efire-pokazet-federalnyi-telekanal-matc-tv",
+   "https://matchtv.ru/handball/matchtvvideo_NI2387002_translation_CSKA___Permskije_medvedi_Chempionat_Rossii_Superliga_Muzhchiny"
+  ]
+ },
+ {
+  "eid": "sr:match:74232094",
+  "fx": "HK Neman Grodno v HK Gomel",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Belarus Extraliga; both 7-3 L10, evenly matched.",
+  "news": "KICK-OFF CONFLICT: one source 15:00 local (12:00 UTC, matches board), Streams.by 14:00 local.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources",
+  "picks": [],
+  "avoid": "Home 1X2 2.05 (p 0.43)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.liveresult.ru/hockey/Belarus/Extraleague",
+   "https://streams.by/index.php?page=tournament&id=14"
+  ]
+ },
+ {
+  "eid": "sr:match:72019430",
+  "fx": "BK Mlada Boleslav v Ocelari Trinec",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Czech ELH round 24. Trinec lead table (53 pts/22 GP); Mlada Boleslav 13th (21 pts) chasing pre-playoff spots. Trinec hosted Pardubice in the top clash on Fri 27. Trinec won the earlier meeting 3-0.",
+  "news": "Confirmed 14:00 local (13:00 UTC) by betarena/livesport/oneplay.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.808747,
+    "why": "Trinec 2+ goals: league leaders, GF 3.3 L10 and 3.17 away v Boleslav GF 2.0/GA 2.7. Own p 0.82."
+   }
+  ],
+  "avoid": "Trinec ML (away result side at p 0.64 < 0.75); Home +1.5 (fav p >= 0.55)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.betarena.sk/rubriky/hokej/extraliga/hokejova-extraliga-dnes-v-tv-23-kolo-kurzy-tip-2026-11-27_12041.html",
+   "https://www.livesport.cz/hokej/cesko/tipsport-extraliga/",
+   "https://isport.blesk.cz/clanek/hokej-tipsport-extraliga/482616/online-slagr-mezi-trincem-a-pardubicemi-sparta-hraje-ve-vitkovicich.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72484170",
+  "fx": "Adler Mannheim v Augsburger Panther",
+  "sport": "ice hockey",
+  "absences": "Augsburg: Sean Malone out until early December; Toporowski returning from upper-body injury",
+  "context": "DEL matchday 21. Mannheim 4-0 at home (GF 4.25); Augsburg 5-5 L10, GA 3.3.",
+  "news": "Penny DEL schedule confirms 14:00 local; no Mannheim injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.65,
+    "p": 0.574599,
+    "why": "Regulation home win: Mannheim perfect at home this sample, Augsburg missing Malone. Own p 0.59."
+   }
+  ],
+  "avoid": "none",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.penny-del.org/spiele",
+   "https://petzpowerplay.de/del-verletzungsreport"
+  ]
+ },
+ {
+  "eid": "sr:match:72484168",
+  "fx": "Eisbaren Berlin v Fischtown Pinguins",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "DEL. Berlin GF 4.9 L10 (7-1, 9-2 home wins); Bremerhaven away 1-4.",
+  "news": "Penny DEL confirms 14:00 local; no injury news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.58,
+    "p": 0.605472,
+    "why": "Regulation home win: Berlin's attack (4.9 GF) v Bremerhaven 1-4 away. Own p 0.62."
+   }
+  ],
+  "avoid": "none",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.penny-del.org/spiele"
+  ]
+ },
+ {
+  "eid": "sr:match:72484166",
+  "fx": "Kolner Haie v ERC Ingolstadt",
+  "sport": "ice hockey",
+  "absences": "Ingolstadt: Jakin Smallwood out (upper body) until late December",
+  "context": "DEL. Koln beat Straubing 3-2 OT on Fri 27; Koln home 4-1. Ingolstadt away 1-4, GA 4.4 away.",
+  "news": "Penny DEL confirms 14:00 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.87,
+    "p": 0.504112,
+    "why": "Regulation home win: Koln 4-1 at home, Ingolstadt leaking 4.4 away and missing Smallwood. Own p 0.53; marginal."
+   }
+  ],
+  "avoid": "none",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.penny-del.org/spiele",
+   "https://petzpowerplay.de/del-verletzungsreport",
+   "https://www.straubing-tigers.de/tigers-nehmen-einen-punkt-aus-koeln-mit/"
+  ]
+ },
+ {
+  "eid": "sr:match:74455354",
+  "fx": "Bili Tygri Liberec v HC Pardubice",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Czech ELH. Pardubice 2nd (48 pts), 9-1 L10, GF 4.2; played at Trinec Fri 27 (back-to-back weekend). Liberec 4-1 at home. Earlier meeting 5-4.",
+  "news": "Confirmed 15:00 local (14:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.24,
+    "p": 0.781555,
+    "why": "Pardubice 2+ goals: GF 4.2 L10, 8-1 v Vitkovice on 25.11; earlier meeting 5-4. Own p 0.81."
+   }
+  ],
+  "avoid": "result sides (Liberec strong at home); Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.betarena.sk/rubriky/hokej/extraliga/hokejova-extraliga-dnes-v-tv-23-kolo-kurzy-tip-2026-11-27_12041.html",
+   "https://isport.blesk.cz/clanek/hokej-tipsport-extraliga/482616/online-slagr-mezi-trincem-a-pardubicemi-sparta-hraje-ve-vitkovicich.html",
+   "https://moravskoslezsky.denik.cz/hokej/tipsport-extraliga-vitkovice-absence-viroza-zraneni-vyprask-pardubice-sparta"
+  ]
+ },
+ {
+  "eid": "sr:match:74232098",
+  "fx": "HK Brest v HK Vitebsk",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Belarus Extraliga. Brest 5-2 at home (GF 3.71, GA 1.57); Vitebsk 2-7 away.",
+  "news": "Streams.by lists 18:00 local (15:00 UTC), matches board.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.56,
+    "p": 0.582798,
+    "why": "Regulation home win: Brest's home record v Vitebsk 2-8 L10. Own p 0.62."
+   }
+  ],
+  "avoid": "none",
+  "confidence": 0.2,
+  "sources": [
+   "https://streams.by/index.php?page=tournament&id=14"
+  ]
+ },
+ {
+  "eid": "sr:match:72019432",
+  "fx": "Ceske Budejovice v HC Vitkovice",
+  "sport": "ice hockey",
+  "absences": "Vitkovice: Samuel Knazko, Jakub Zboril (virus), Marek Hrivik, Chad Yetman, Simon Fasner absent v Pardubice; Marek Kalus left that game early",
+  "context": "Czech ELH. Vitkovice lost 1-8 at Pardubice on 25.11 with six missing, then hosted Sparta Fri 27; Vitkovice 13th, away 1-4 (GF 1.6, GA 3.6).",
+  "news": "Denik (25.11) details Vitkovice injury crisis; kick-off 16:00 local confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.45,
+    "p": 0.665585,
+    "why": "Budejovice win incl. OT: Vitkovice missing two D and three forwards, back-to-back weekend. Own p 0.71."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.803521,
+    "why": "Budejovice 2+ goals v a depleted Vitkovice defence (GA 3.6 away). Own p 0.83."
+   }
+  ],
+  "avoid": "Vitkovice team Under (p<0.82)",
+  "confidence": 0.3,
+  "sources": [
+   "https://moravskoslezsky.denik.cz/hokej/tipsport-extraliga-vitkovice-absence-viroza-zraneni-vyprask-pardubice-sparta",
+   "https://www.betarena.sk/rubriky/hokej/extraliga/hokejova-extraliga-dnes-v-tv-23-kolo-kurzy-tip-2026-11-27_12041.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72019424",
+  "fx": "Energie Karlovy Vary v HC Olomouc",
+  "sport": "ice hockey",
+  "absences": "Olomouc: no new scorer, Moses signing fell through",
+  "context": "Czech ELH bottom group. Olomouc 0-5 away, 2-8 L10; KV 3-7 but home favourite.",
+  "news": "Olomouc lost 2-3 OT to Litvinov; Denik reports the club failed to land striker Moses. Kick-off 16:00 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.38,
+    "p": 0.700968,
+    "why": "KV win incl. OT: Olomouc winless away (0-5) and short of scoring. Own p 0.71."
+   }
+  ],
+  "avoid": "Olomouc Under 2.5 (Under p<0.82)",
+  "confidence": 0.2,
+  "sources": [
+   "https://olomoucky.denik.cz/hokej/mora-hleda-strelce-moses-neprijde-najde-olomouc-reseni-jinde",
+   "https://www.betarena.sk/rubriky/hokej/extraliga/hokejova-extraliga-dnes-v-tv-23-kolo-kurzy-tip-2026-11-27_12041.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72019428",
+  "fx": "Mountfield HK v HC Litvinov",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Czech ELH. Hradec home GA 2.0; Litvinov GA 3.2 L10.",
+  "news": "Kick-off 16:00 local confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.819029,
+    "why": "Mountfield 2+ goals v Litvinov conceding 3.2 L10. Own p 0.82."
+   }
+  ],
+  "avoid": "Litvinov Under 2.5 (p<0.82)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.betarena.sk/rubriky/hokej/extraliga/hokejova-extraliga-dnes-v-tv-23-kolo-kurzy-tip-2026-11-27_12041.html",
+   "https://www.livesport.cz/hokej/cesko/tipsport-extraliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:72019426",
+  "fx": "Sparta Prague v HC Plzen",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Czech ELH. Sparta lost 4 of last 6 (GF 2.2) and played at Vitkovice Fri 27; Plzen 7-1-2 L10.",
+  "news": "Sparta site confirms 16:00 at O2 arena.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Sparta result side (poor form v in-form Plzen); totals low-scoring both",
+  "confidence": 0.15,
+  "sources": [
+   "https://hcsparta.cz/zapasy.asp",
+   "https://isport.blesk.cz/clanek/hokej-tipsport-extraliga/482616/online-slagr-mezi-trincem-a-pardubicemi-sparta-hraje-ve-vitkovicich.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72484176",
+  "fx": "Krefeld Pinguine v Iserlohn Roosters",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "DEL. Iserlohn 0-5 away (GA 4.4); Krefeld 3-7 L10.",
+  "news": "Hessenschau/sport.de confirm 16:30 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 2.1 (p 0.45)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/eishockey-102.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72484172",
+  "fx": "Nuremberg Ice Tigers v Lowen Frankfurt",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "DEL. Nurnberg 4-0 at home (GF 5.0, GA 1.5); Frankfurt 1-9 L10, 0-5 away.",
+  "news": "Hessenschau and eishockey.info confirm 16:30 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.8,
+    "p": 0.530101,
+    "why": "Regulation home win: Frankfurt in a 1-9 slump, away GA 4.6. Own p 0.58."
+   }
+  ],
+  "avoid": "none",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/eishockey-102.html",
+   "https://www.eishockey.info/eishockey/del/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:72484174",
+  "fx": "Red Bull Munich v Straubing Tigers",
+  "sport": "ice hockey",
+  "absences": "Munich: G Mathias Niederberger out to year-end, D Fabio Wagner out (several weeks), Dominik Kahun doubtful",
+  "context": "DEL. Straubing played at Koln Fri 27 (lost 2-3 OT). Munich 5-0 at home despite absences.",
+  "news": "Straubing site and DEL confirm Munich v Straubing 16:30 at SAP Garden (an older Straubing listing of Koln on 29.11 is superseded).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 2.15 (p 0.44) with No.1 goalie out",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.straubing-tigers.de/spielplan/",
+   "https://www.sport1.de/news/eishockey/del/2026/11/nationalspieler-wagner-faellt-mehrere-wochen-aus",
+   "https://www.penny-del.org/teams/straubing-tigers/spielplan"
+  ]
+ },
+ {
+  "eid": "sr:match:73737416",
+  "fx": "CSM Corona Brasov v Debreceni Egyetem AC",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Erste Liga title race: Brasov took over first place in November; DEAC 8-2 L10. Brasov 4-0 at home, GF 6.0.",
+  "news": "Nemzeti Sport and Eliteprospects both list 29.11, 15:30 UTC.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.48,
+    "p": 0.6323727479,
+    "why": "Brasov win incl. OT: unbeaten at home, GF 6.0 at home. Own p 0.64."
+   }
+  ],
+  "avoid": "totals at integer 6",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.nemzetisport.hu/jegkorong/2026/09/erste-liga-adatbank-2026-2027",
+   "https://www.eliteprospects.com/league/erste-liga/schedule",
+   "https://www.nemzetisport.hu/jegkorong/2026/11/erste-liga-12-golt-hozott-a-rangado-a-brassoiak-atvettek-a-vezetest-a-tabellan"
+  ]
+ },
+ {
+  "eid": "sr:match:73737418",
+  "fx": "Dunaujvarosi Acelbikak v HSC Csikszereda",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Erste Liga. Dunaujvaros 0-10 L10 (GA 5.4) but lost to Csikszereda only in OT earlier in the season.",
+  "news": "Fixture listed in the Nemzeti Sport season guide; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "big handicap (+3.5/-3.5) and Csik team Over 4.5 (earlier meeting close)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.nemzetisport.hu/jegkorong/2026/09/erste-liga-adatbank-2026-2027",
+   "https://dunaujvaros.com/hirek/202610/alsohazi_rangado_var_a_dab_ra"
+  ]
+ },
+ {
+  "eid": "sr:match:73739542",
+  "fx": "TMH Polonia Bytom v Cracovia Krakow",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "PHL round 23. Polonia 38 pts v Cracovia 26 pts after 21 GP; Polonia won the Sept meeting 7-3 in Bytom.",
+  "news": "Kupbilet and polskihokej.eu confirm 17:00 local (16:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.34,
+    "p": 0.693392,
+    "why": "Regulation home win: 12-point table gap, 7-3 home win in the earlier meeting. Own p 0.71."
+   }
+  ],
+  "avoid": "none",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.kupbilet.pl/sport/hokej/hk0504/opis",
+   "https://polskihokej.eu/terminarz?league_id=1"
+  ]
+ },
+ {
+  "eid": "sr:match:75311572",
+  "fx": "HC Dukla Jihlava v Vhk Vsetin",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Maxa liga top clash: Vsetin 9-1 L10 (5-0 away) v Jihlava 7-3.",
+  "news": "iSport and Vsetin's schedule confirm 17:30 local.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result sides (two in-form sides)",
+  "confidence": 0.1,
+  "sources": [
+   "https://isport.blesk.cz/hokej/maxa-liga-2026-2027/jihlava-vsetin/online-prenos?match=386197",
+   "https://vhkvsetin.cz/matches/MUZ"
+  ]
+ },
+ {
+  "eid": "sr:match:72119086",
+  "fx": "HC Havirov Panthers v SC Kolin",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Maxa liga. Havirov lost 7 straight, 13th; Kolin 7th.",
+  "news": "DATE/TIME CONFLICT: club 17:00, hokej.cz/onlajny 17:30 (rescheduled game), Havirov city page lists Sat 28.11.",
+  "veto": true,
+  "veto_reason": "Date and kick-off conflict between sources",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hc-havirov.cz/zapasy.asp",
+   "https://www.hokej.cz/havirov-prohral-posedme-za-sebou-trebic-uhajila-druhe-misto/5099535",
+   "https://havirov-info.cz/events/az-havirov-sc-retia-kolin-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:73737420",
+  "fx": "Feha19 v Gyergyoi HK",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Erste Liga. FEHA19 2-8 L10 (won none of first 13 games); Gyergyo 5-5.",
+  "news": "Fixture listed in the Nemzeti Sport season guide.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "406",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.80925,
+    "why": "Gyergyo win incl. OT: FEHA19 among the league's weakest (GF 1.9). Own p 0.80; p >= 0.75 for an away side."
+   }
+  ],
+  "avoid": "Away -2.5; Gyergyo Over 3.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.nemzetisport.hu/jegkorong/2026/09/erste-liga-adatbank-2026-2027",
+   "https://dunaujvaros.com/hirek/202610/alsohazi_rangado_var_a_dab_ra"
+  ]
+ },
+ {
+  "eid": "sr:match:72019436",
+  "fx": "HC Kometa Brno v HC Rytiri Kladno",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "Czech ELH. Kladno 7-3 L10; Kometa 4-6.",
+  "news": "Kick-off 18:00 local confirmed.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kladno +1.5 (favourite p 0.55 catch rule); Kometa result side (poor form)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.betarena.sk/rubriky/hokej/extraliga/hokejova-extraliga-dnes-v-tv-23-kolo-kurzy-tip-2026-11-27_12041.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72982670",
+  "fx": "CB Cangas v BM Caserio Ciudad Real",
+  "sport": "handball",
+  "absences": "no news found",
+  "context": "ASOBAL. Cangas (Frigorificos del Morrazo) second-last; Caserio 7th with 8 pts/7 GP, played derby v Cuenca mid-month.",
+  "news": "Lanza Digital (27.11) confirms 18:30 local at O Gatanal; Caserio visit 'without euphoria'.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.38,
+    "p": 0.6360291189,
+    "why": "Caserio not to lose v the second-last side (Cangas 1-4 at home, GA 33.6). Own p 0.66."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.53 < 0.75); totals",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.lanzadigital.com/deportes/balonmano/division-de-honor-masculina-balonmano/balonmano-caserio-vista-al-penultimo-de-la-tabla-sin-euforias/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liga_ASOBAL"
+  ]
+ },
+ {
+  "eid": "sr:match:72484178",
+  "fx": "Wild Wings v Grizzlys Wolfsburg",
+  "sport": "ice hockey",
+  "absences": "no news found",
+  "context": "DEL. Wolfsburg 2-3 away; Schwenningen 3-2 at home. Even game.",
+  "news": "Hessenschau confirms 19:00 local (18:00 UTC).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "no in-band markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.hessenschau.de/sport/ergebnisse-tabellen/eishockey-102.html"
+  ]
+ }
+]

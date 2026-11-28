@@ -1,0 +1,727 @@
+[
+ {
+  "eid": "sr:match:74172564",
+  "fx": "Hellas Syrou v AE Larissa FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Greek Super League 2 regular season; both sides low-scoring last 10 (H 1.3/0.9, Larissa 1.2/0.6). Hellas Syros won 4-2 at Olympiacos B on Nov 8.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Unders (p<0.82); Over 1.5 in a thin low-scoring second tier",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2",
+   "https://www.livesoccertv.com/competitions/greece/super-league-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:72221418",
+  "fx": "Everton v Liverpool",
+  "sport": "football",
+  "absences": "Everton: Tarkowski suspended (red v Brentford). Liverpool: Ekitike (Achilles), Bradley, Leoni out; Gakpo out per reports (calf, ESPN lists doubt); Gravenberch major doubt (heel); V. Munoz doubt (knee).",
+  "context": "Merseyside derby (249th), Sunday 12:00 GMT at Hill Dickinson Stadium. Liverpool scoring 3.3/conceding 1.8 per game last 10.",
+  "news": "Derby; Everton lose captain-CB Tarkowski; Liverpool without Ekitike/Gakpo but Isak and Wirtz in form, van Dijk back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.801392,
+    "why": "Mechanism: Everton missing Tarkowski weakens their back line v a Liverpool side at 3.3 gf/1.8 ga in last 10 (open games both ways). Own p 0.82."
+   }
+  ],
+  "avoid": "No result side (derby); Liverpool 1X2/AH",
+  "confidence": 0.3,
+  "sources": [
+   "https://uk.sports.yahoo.com/news/liverpool-xi-vs-everton-confirmed-132043457.html",
+   "https://khelnow.com/football/everton-vs-liverpool-preview-premier-league-202611",
+   "https://dave.sport/news/everton-injury-news-liverpool-derby-tarkowski/"
+  ]
+ },
+ {
+  "eid": "sr:match:72340096",
+  "fx": "Swansea City v Cardiff City",
+  "sport": "football",
+  "absences": "Swansea: Moussa Yeo late fitness test (knee); Ronald back; Tymon back from suspension; internal player investigation reported. Cardiff: no news found.",
+  "context": "South Wales derby. Swansea under interim coach Ashley Williams after Vitor Matos left last week. One source says Cardiff were in League One (relegated 2025); Wikipedia lists this as a Championship fixture on 29 Nov 2026 - league label only, date agrees.",
+  "news": "Derby with Swansea in managerial flux under interim Ashley Williams; Cardiff 2.1 gf / 2.2 ga last 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.52,
+    "p": 0.637065,
+    "why": "Cardiff games averaging 4.3 total goals last 10, Swansea 3.1; derby with interim home coach. Own p 0.65 - fill only."
+   }
+  ],
+  "avoid": "Result sides (derby, interim coach); Unders",
+  "confidence": 0.2,
+  "sources": [
+   "https://news.bet365.com/en-gb/article/swansea-make-managerial-decision-ahead-of-south-wales-derby/2026112613341080886",
+   "https://hayters.com/swansea-city-star-being-assessed-ahead-of-derby-clash-with-cardiff/",
+   "https://footballleagueworld.co.uk/swansea-city-launch-investigation-ahead-cardiff-sunday/",
+   "https://en.wikipedia.org/wiki/South_Wales_derby"
+  ]
+ },
+ {
+  "eid": "sr:match:72514006",
+  "fx": "1. FC Magdeburg v Energie Cottbus",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "2. Bundesliga MD13, Sunday 13:30 CET. Magdeburg 3rd (23 pts), 2.2 gf last 10; Cottbus 1W 6D 3L. East German rivalry (Ostderby), so treated as a derby.",
+  "news": "Magdeburg 3rd v promoted Cottbus; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.701124,
+    "why": "Magdeburg 2.2 gf / 1.5 ga last 10, Cottbus 1.4/1.8: both concede. Statistical only. Own p 0.71."
+   }
+  ],
+  "avoid": "Result side (Ostderby rivalry)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-2-bundesliga/tabelle",
+   "https://www.kicker.de/2-bundesliga/startseite"
+  ]
+ },
+ {
+  "eid": "sr:match:72514008",
+  "fx": "Eintracht Braunschweig v Wolfsburg",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "2. Bundesliga MD13. Wolfsburg (relegated from the BL) 4th on 22 pts; Braunschweig 14 pts, 1.2 gf / 1.7 ga last 10.",
+  "news": "Wolfsburg in the promotion race v struggling Braunschweig; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.29,
+    "p": 0.746924,
+    "why": "Wolfsburg double chance: squad-quality gap; Braunschweig 3W in 10. Own p 0.76."
+   }
+  ],
+  "avoid": "Wolfsburg 1X2 at p 0.52",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-2-bundesliga/tabelle",
+   "https://www.kicker.de/2-bundesliga/startseite"
+  ]
+ },
+ {
+  "eid": "sr:match:72514010",
+  "fx": "Greuther Furth v Arminia Bielefeld",
+  "sport": "football",
+  "absences": "Fuerth: Felix Klaus (foot tendon) likely back in the squad. Bielefeld: Joel Felix and David Min expected out.",
+  "context": "2. Bundesliga MD13 at Sportpark Ronhof, 13:30. Fuerth 14th (12 pts), 0.7 gf last 10; Arminia 6th (17 pts). Arminia winless at Fuerth since Feb 2020.",
+  "news": "Fuerth struggling at 0.7 gf; Bielefeld missing Felix and Min; poor H2H record at Fuerth for Arminia.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.34,
+    "p": 0.7034387122,
+    "why": "Fuerth scoring 0.7 per game in last 10 (2W). The H2H at the Ronhof counts against, so own p 0.70 (house 0.70); low confidence."
+   }
+  ],
+  "avoid": "Arminia 1X2 (p 0.44); Over 2.5",
+  "confidence": 0.15,
+  "sources": [
+   "https://arminia.de/neues/schlagzeilen/detail/zu-gast-beim-kleeblatt",
+   "https://www.diebayern.de/sport/vogel-warnt-fuerth-vor-unangenehmem-gegner-bielefeld-3206555",
+   "https://www.haller-kreisblatt.de/region/nrw/24472748_Fuerther-Fuehrungsspieler-Klaus-vor-Comeback.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72680318",
+  "fx": "FC Viktoria Cologne v Fortuna Cologne",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "3. Liga MD15, Cologne derby. Viktoria top (29 pts, 9-2-2; 3-0 v Ingolstadt, 3-1 at Meppen), 3.1 gf last 10; Fortuna bottom three (10 pts). Sources disagree on Fortuna games played (13 v 14).",
+  "news": "Table-topping Viktoria v bottom-three Fortuna in the Cologne derby; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8186756154,
+    "why": "Viktoria 3.1 gf / 1.3 ga last 10 (7W 3D); 3. Liga is a high-scoring league. Own p 0.84."
+   }
+  ],
+  "avoid": "Result side (city derby)",
+  "confidence": 0.3,
+  "sources": [
+   "https://koeln.t-online.de/region/koeln/id_101378514/3-liga-viktoria-koeln-schlaegt-ingolstadt-tabellenfuehrung.html",
+   "https://www.reviersport.de/fussball/3liga/a632347---3-liga-war-herausragend-fortuna-koeln-beendet-heimfluch.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_3._Liga"
+  ]
+ },
+ {
+  "eid": "sr:match:74172578",
+  "fx": "Anagennisi Karditsas 1904 v Olympiacos Piraeus B",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Greek SL2. Olympiacos B is a reserve side (0W 3D 7L last 10, 2.3 ga); Karditsa low-scoring (0.7 gf).",
+  "news": "Reserve side; no news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (reserve side; Karditsa 0.7 gf - not a clear goals mismatch)",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2",
+   "https://www.livesoccertv.com/competitions/greece/super-league-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:71925110",
+  "fx": "Randers FC v AC Horsens",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Superliga. Randers 1W 2D 7L last 10 (2.1 ga). H2H 0-0. Fixture date not confirmed by search, but no conflict found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Randers DNB (poor form); Horsens 1X2",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fotmob.com/en-GB/teams/8071/overview/agf",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Danish_Superliga"
+  ]
+ },
+ {
+  "eid": "sr:match:72044420",
+  "fx": "Hobro IK v FC Fredericia",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Danish 1. Division. Hobro 0W 5D 5L last 10 (0.9 gf / 2.0 ga); Fredericia 5W, 0.9 ga. A 365Scores entry has Fredericia playing a 1st Division game on 29/11 13:00, which matches. Last H2H 0-3.",
+  "news": "Winless Hobro v Fredericia; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.18,
+    "p": 0.8180027945,
+    "why": "Fredericia DNB: Hobro winless in 10, last H2H 0-3. Own p 0.83."
+   }
+  ],
+  "avoid": "Fredericia 1X2 (p 0.66 < 0.75 away rule)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.365scores.com/football/match/club-friendlies-321/fc-fredericia-hobro-1846-1868-321",
+   "https://superstats.dk/1div/kampe/5275"
+  ]
+ },
+ {
+  "eid": "sr:match:74172574",
+  "fx": "Apollon Kalamarias v Panthrakikos FC Komotini",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Greek SL2. Only result markets on the board. Both low-scoring (Apollon 0.7 gf; Panthrakikos 1.0 gf, drew 0-0 with Panionios).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Everything (thin data)",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2",
+   "https://www.livesoccertv.com/competitions/greece/super-league-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:74172570",
+  "fx": "Panionios Athens v Nestos Chrysoupoli FC",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Greek SL2. Panionios beat Olympiacos B 2-0 and drew 0-0 at Panthrakikos; Nestos have the longest losing run of the season (4) and 2W 6L last 10.",
+  "news": "Panionios in form v Nestos on a losing run; nothing on absences.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.34,
+    "p": 0.702331,
+    "why": "Nestos 2W 6L last 10 with a 4-game losing run on the season; Panionios 0.9 ga. Own p 0.71."
+   }
+  ],
+  "avoid": "Over 2.5 and handicaps (low-scoring second tier)",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Super_League_Greece_2",
+   "https://www.livesoccertv.com/competitions/greece/super-league-2/"
+  ]
+ },
+ {
+  "eid": "sr:match:72036312",
+  "fx": "AJ Auxerre v Marseille",
+  "sport": "football",
+  "absences": "Auxerre: Okoh, Diousse (ACL) out; Sekou Fofana (groin) out; Loader doubt. Marseille: Cornelius (hip) out; Emerson doubt/out; Hojbjerg doubt (illness).",
+  "context": "Ligue 1. Marseille 7W 3L last 10; Auxerre 2.0 ga. Marseille have European fixtures in midweek (rotation possible).",
+  "news": "Auxerre missing two starters with long injuries; Marseille have only minor doubts.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.31,
+    "p": 0.739142,
+    "why": "Marseille double chance: Auxerre without Okoh, Diousse and Fofana, conceding 2.0 last 10. Own p 0.76."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.8115648145,
+    "why": "Auxerre concede 2.0, Marseille score 1.9. Own p 0.81."
+   }
+  ],
+  "avoid": "Marseille 1X2 (p 0.49)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/aj-auxerre/preview/auxerre-vs-marseille-prediction-team-news-lineups_609973.html",
+   "https://sports.yahoo.com/soccer/articles/preview-auxerre-vs-marseille-team-130000619.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72221414",
+  "fx": "Brighton v Newcastle",
+  "sport": "football",
+  "absences": "Brighton: Costinha suspended (red); Boscagli doubt (illness). Newcastle: no new absences named.",
+  "context": "EPL MW12. Brighton on a title charge (6W last 10, 2.2 gf / 1.0 ga) after beating Chelsea; Newcastle 3W 5L last 10, lost at Arsenal last weekend, with midweek Europe.",
+  "news": "Brighton missing a defender or two but in strong home form; Newcastle out of form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Home (0)",
+    "odds": 1.25,
+    "p": 0.7765706508,
+    "why": "Brighton DNB: Newcastle 3W 5L last 10 and congested by midweek Europe; Brighton 2.2/1.0. Defensive absences cap it. Own p 0.78."
+   }
+  ],
+  "avoid": "Brighton -1; Unders",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/man-utd/injury-news/feature/premier-league-team-news-injuries-suspensions-and-doubts-for-gameweek-12_610012.html",
+   "https://www.premierleague.com/en/news/4771610/predicted-line-ups-for-premier-league-teams-in-matchweek-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72221416",
+  "fx": "Crystal Palace v Hull City",
+  "sport": "football",
+  "absences": "Palace: Jean-Philippe Mateta and Yeremy Pino suspended. Hull: Iroegbunam out about 3 months (hamstring surgery).",
+  "context": "EPL MW12. Palace (Thomas Frank) 2W 6L last 10; promoted Hull 1W 5D 4L, 1.2 ga.",
+  "news": "Palace lose two first-choice attackers to suspension; Hull lose a midfielder.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=4.5",
+    "desc": "Under 4.5",
+    "odds": 1.18,
+    "p": 0.83348,
+    "why": "Palace without Mateta and Pino; Hull 1.0 gf / 1.2 ga; neither side has a favourite above 0.50 (no rout tail). Own p 0.86."
+   }
+  ],
+  "avoid": "Palace result side (attack gutted, 2W in 10)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/man-utd/injury-news/feature/premier-league-team-news-injuries-suspensions-and-doubts-for-gameweek-12_610012.html",
+   "https://www.premierleague.com/en/news/4771610/predicted-line-ups-for-premier-league-teams-in-matchweek-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72221420",
+  "fx": "Fulham v Bournemouth",
+  "sport": "football",
+  "absences": "Fulham: Castagne and Robinson may return. Bournemouth: Alex Toth (hamstring) and Julian Araujo (thigh) out; Kroupi doubt (illness).",
+  "context": "EPL MW12. Bournemouth have won 10 in a row (seeking 11th), 0.3 ga last 10; Fulham 3W 5D 2L, 0.9 ga.",
+  "news": "Bournemouth on a 10-game winning run, missing Toth and Araujo.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Away (+1.0)",
+    "odds": 1.2,
+    "p": 0.8108619805,
+    "why": "Bournemouth +1: 10 straight wins and 0.3 ga; this loses only if Fulham win by 2+ (push at 1). Own p 0.83."
+   }
+  ],
+  "avoid": "Bournemouth 1X2 (p 0.53); Fulham DNB",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/man-utd/injury-news/feature/premier-league-team-news-injuries-suspensions-and-doubts-for-gameweek-12_610012.html",
+   "https://www.premierleague.com/en/news/4771610/predicted-line-ups-for-premier-league-teams-in-matchweek-12"
+  ]
+ },
+ {
+  "eid": "sr:match:72221430",
+  "fx": "Sunderland AFC v Tottenham",
+  "sport": "football",
+  "absences": "Sunderland: several players with viruses (Le Bris: \"some can play, others will struggle\"). Tottenham: no news found.",
+  "context": "EPL MW12. Spurs came back to beat Bournemouth previously; Sunderland 0.9 gf last 10. Spurs have midweek Europe.",
+  "news": "A virus in the Sunderland camp; Spurs steady (0.9 ga last 10).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-0.5",
+    "desc": "Away (+0.5)",
+    "odds": 1.29,
+    "p": 0.752402,
+    "why": "Spurs double chance: a virus in the Sunderland squad (named mechanism, extent unknown); Sunderland 0.9 gf. Own p 0.76."
+   }
+  ],
+  "avoid": "Spurs 1X2 (p 0.48); Unders (p<0.82)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/man-utd/injury-news/feature/premier-league-team-news-injuries-suspensions-and-doubts-for-gameweek-12_610012.html",
+   "https://www.premierleague.com/en/news/4771610/predicted-line-ups-for-premier-league-teams-in-matchweek-12",
+   "https://www.soccerway.com/news/premier-league-roundup-brighton-humble-timid-chelsea-spurs-comeback-to-beat-bournemouth/vwt3IKIO"
+  ]
+ },
+ {
+  "eid": "sr:match:72513334",
+  "fx": "Freiburg v RB Leipzig",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Bundesliga MD13. Freiburg 7W last 10 (1.6/1.4); Leipzig 7W (2.6 gf / 1.8 ga). Freiburg have Europa League midweek.",
+  "news": "no news found for either club",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.47,
+    "p": 0.651013,
+    "why": "Leipzig games averaging 4.4 goals last 10, Freiburg 3.0. Statistical only. Own p 0.66."
+   }
+  ],
+  "avoid": "Result sides; integer Over 2",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.sportsgambler.com/injuries/football/germany-bundesliga/"
+  ]
+ },
+ {
+  "eid": "sr:match:71925112",
+  "fx": "Copenhagen v FC Midtjylland",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Superliga top clash (big-club). Both sides playing in Europe; FCK 1.5/1.2, FCM 1.8/1.6 last 10. Date not confirmed by search, but no conflict found.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.22,
+    "p": 0.79305,
+    "why": "FCM games average 3.4 goals, FCK 2.7; Danish Unders are historically over-rated (UBIAS). Big-club totals need p 0.82, so this is fill at most. Own p 0.80."
+   }
+  ],
+  "avoid": "Result sides (big-club clash)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.fotmob.com/en-GB/teams/8071/overview/agf",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Danish_Superliga",
+   "https://www.flashscore.dk/nyheder/fodbold-europa-league-grim-mavepuster-for-superligaens-tophold-n-glespiller-skadet-f-r-europ-iske-kampe/tplfr3L8/"
+  ]
+ },
+ {
+  "eid": "sr:match:72936152",
+  "fx": "Atromitos Athinon v Panathinaikos",
+  "sport": "football",
+  "absences": "no news found (no squad announcement yet)",
+  "context": "Greek SL. Panathinaikos are leaders (4 pts clear of Olympiacos), 9W 1L last 10 (2.5/0.9), with midweek European football. Atromitos 2W 4D 4L.",
+  "news": "Leaders PAO away; no squad news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "PAO 1X2 (p 0.68 < 0.75 away rule); +2.5 catch (fav p >= 0.60); Over 1.5 (Greek SL is low-scoring)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.betarades.gr/lebadeiakos-atromhtos/",
+   "https://olympiacos.org/en/2026/11/26/the-legend-fought-hard-but-fell-short"
+  ]
+ },
+ {
+  "eid": "sr:match:72680314",
+  "fx": "SV Wehen Wiesbaden v SV Meppen 1912",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "3. Liga MD15. Wehen Wiesbaden on 21 pts (2nd-3rd), 2.6 gf last 10, won 2-0 at Fortuna Koeln; Meppen lost 3-1 v Viktoria and 2-1 at Fortuna.",
+  "news": "Wiesbaden in the promotion race v out-of-form Meppen.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Home (0)",
+    "odds": 1.32,
+    "p": 0.7199854105,
+    "why": "Wiesbaden DNB: Meppen beaten by bottom-three Fortuna and by Viktoria recently; Wiesbaden 2.6 gf. Own p 0.74."
+   }
+  ],
+  "avoid": "Wiesbaden -1",
+  "confidence": 0.2,
+  "sources": [
+   "https://koeln.t-online.de/region/koeln/id_101378514/3-liga-viktoria-koeln-schlaegt-ingolstadt-tabellenfuehrung.html",
+   "https://www.reviersport.de/fussball/3liga/a632347---3-liga-war-herausragend-fortuna-koeln-beendet-heimfluch.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_3._Liga"
+  ]
+ },
+ {
+  "eid": "sr:match:72936158",
+  "fx": "OFI Crete v APO Levadiakos FC",
+  "sport": "football",
+  "absences": "OFI: Achilleas Pougouras out (appendicitis surgery, also suspended).",
+  "context": "Greek SL. OFI 6th (17 pts); Levadiakos have 7 pts, 1W in 10, 0.5 gf.",
+  "news": "Levadiakos bottom end and toothless; OFI lose Pougouras.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.28,
+    "p": 0.7392928114,
+    "why": "Levadiakos 1W 4D 5L with 0.5 gf in last 10; OFI at home. Own p 0.77."
+   }
+  ],
+  "avoid": "Unders (p<0.82); Overs (low scoring)",
+  "confidence": 0.2,
+  "sources": [
+   "https://novibet.gr/blog/prognostika-podosfairou/prognostika-superleague/ofi-levadiakos-prognostika-29-11-2026",
+   "https://filathlos.gr/me-apousies-o-ofi-kontra-ston-levadeiako/"
+  ]
+ },
+ {
+  "eid": "sr:match:72036326",
+  "fx": "Toulouse v Rennes",
+  "sport": "football",
+  "absences": "Toulouse: Messali possibly out (sources disagree). Rennes: Thomasson suspended (red at Lorient, pending LFP), Rongier (thigh) out, M. Camara out, Frankowski reportedly injured.",
+  "context": "Ligue 1 J12, Stadium de Toulouse 17:15 local. Rennes 1.9 gf / 1.9 ga last 10.",
+  "news": "Rennes lose midfielders Thomasson, Rongier and Camara.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=1",
+    "desc": "Home (+1.0)",
+    "odds": 1.21,
+    "p": 0.802508,
+    "why": "Toulouse +1: Rennes without three midfield starters (Thomasson, Rongier, Camara); Toulouse 3W 5D 2L. This loses only to a Rennes win by 2+. Own p 0.82."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.804695,
+    "why": "Rennes games average 3.8 goals last 10; Toulouse 2.9. Own p 0.81."
+   }
+  ],
+  "avoid": "Rennes result side",
+  "confidence": 0.25,
+  "sources": [
+   "https://usmeyzieufootball.fr/composition-toulouse-rennes/",
+   "https://onefootball.com/fr/news/toulouse-rennes-les-compos-probables-et-les-absents-36769718"
+  ]
+ },
+ {
+  "eid": "sr:match:72221412",
+  "fx": "Arsenal v Man City",
+  "sport": "football",
+  "absences": "Arsenal: Saka (thigh) and Zubimendi (hamstring) out; Raya doubt (shoulder, Kepa backup); Saliba back in the squad. City: Semenyo out until mid-December; Nunes fit.",
+  "context": "EPL MW12 top-of-table clash, Emirates, Sunday 16:30 GMT. City 2.4 gf / 2.3 ga last 10. Both have midweek European football.",
+  "news": "Arsenal missing Saka and Zubimendi, possibly with a backup keeper; City without Semenyo.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big-club clash); totals (big-club needs p 0.82; Under 4.5 against City at 4.7 goals/game is a rout-tail risk)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/arsenal/injury-news/news/fit-or-injured-major-raya-update-ahead-of-gunners-crucial-city-clash_610049.html",
+   "https://www.espn.com/soccer/story/_/id/50610911/arsenal-vs-manchester-city-tv-channel-how-watch-uk-kickoff-live-stream-team-news-referee-predicted-lineups"
+  ]
+ },
+ {
+  "eid": "sr:match:72513332",
+  "fx": "Hoffenheim v Augsburg",
+  "sport": "football",
+  "absences": "Augsburg: Massengo, Gouweleeuw (muscle) out; Banks out (infection); Matsima and Mounie out; Baum suspended (red); Brackelmann back; Machida the only fit natural CB.",
+  "context": "Bundesliga MD13. Augsburg conceding 2.4 per game last 10, 2W; Hoffenheim 2.0 gf.",
+  "news": "Augsburg defensive crisis: one fit natural centre-back.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.32,
+    "p": 0.731046,
+    "why": "Augsburg have one fit natural CB (Machida) and Baum suspended; their games average 4.6 goals last 10. Own p 0.77."
+   },
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Home (0)",
+    "odds": 1.36,
+    "p": 0.7097221194,
+    "why": "Hoffenheim DNB on the same CB crisis; Augsburg 2W in 10. Own p 0.74."
+   }
+  ],
+  "avoid": "Hoffenheim -1 (Augsburg score 2.2)",
+  "confidence": 0.3,
+  "sources": [
+   "https://sportsmole.co.uk/football/hoffenheim/preview/hoffenheim-vs-augsburg-prediction-team-news-lineups_610054.html",
+   "https://www.ligainsider.de/fc-augsburg/21/"
+  ]
+ },
+ {
+  "eid": "sr:match:71925116",
+  "fx": "Silkeborg IF v AGF Aarhus",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "Superliga. AGF confirmed at Silkeborg on 29 Nov (FotMob). AGF 5W 3D 2L, 0.9 ga; Silkeborg 1.9 ga. H2H 2-2.",
+  "news": "Fixture confirmed; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.19,
+    "p": 0.812344,
+    "why": "Silkeborg games average 3.4 goals last 10; last H2H 2-2; Danish Unders over-rated (UBIAS). Own p 0.81."
+   }
+  ],
+  "avoid": "AGF 1X2 (p 0.48)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.fotmob.com/en-GB/teams/8071/overview/agf",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Danish_Superliga"
+  ]
+ },
+ {
+  "eid": "sr:match:72936150",
+  "fx": "Aris Thessaloniki v Olympiacos",
+  "sport": "football",
+  "absences": "Olympiacos: Retsos new injury; expected back in a back four.",
+  "context": "Greek SL R12, Kleanthis Vikelidis. Olympiacos lost 4-2 at AC Milan in the Europa League midweek (travel and fatigue) and beat Heracles 6-2 before that. Kick-off shows 09:00 on one page versus 17:00 UTC in the structured data; the board says 17:00. This looks like a display timezone issue, not a date conflict.",
+  "news": "Big-club clash; Olympiacos coming off a midweek Europa League trip to Milan; Retsos injured.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result side (big-club clash, Olympiacos fatigue); Unders (p<0.82)",
+  "confidence": 0.15,
+  "sources": [
+   "https://newsminimalist.com/articles/olympiacos-return-to-four-man-defense-against-aris-d871dc59",
+   "https://olympiacos.org/en/2026/11/26/the-legend-fought-hard-but-fell-short",
+   "https://www.ysscores.com/en/match/5943303/Aris-Thessaloniki-vs-Olympiacos-Piraeus"
+  ]
+ },
+ {
+  "eid": "sr:match:72680320",
+  "fx": "FC Ingolstadt 04 v Jahn Regensburg",
+  "sport": "football",
+  "absences": "no news found",
+  "context": "3. Liga MD15, Bavarian derby. Ingolstadt on 21 pts after a 0-3 loss at Viktoria; Regensburg 3W 3D 4L, 1.8 ga.",
+  "news": "no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result side (derby); Overs at p ~0.61",
+  "confidence": 0.15,
+  "sources": [
+   "https://koeln.t-online.de/region/koeln/id_101378514/3-liga-viktoria-koeln-schlaegt-ingolstadt-tabellenfuehrung.html",
+   "https://www.reviersport.de/fussball/3liga/a632347---3-liga-war-herausragend-fortuna-koeln-beendet-heimfluch.html",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_3._Liga",
+   "https://www.ssv-jahn.de/mannschaften/jahn-profis/3-liga"
+  ]
+ },
+ {
+  "eid": "sr:match:72513328",
+  "fx": "Borussia Dortmund v Bayer Leverkusen",
+  "sport": "football",
+  "absences": "BVB: no new absences; Guirassy back in training and an option; Emre Can, Inacio, Kaba, Lerma out. Leverkusen: Terrier out (hamstring); Eichhorn building up.",
+  "context": "Bundesliga top clash at Signal Iduna Park, 19:30 CET. Both have midweek Champions League football.",
+  "news": "Guirassy available again; Leverkusen lose Terrier.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big-club clash); totals (big-club needs p 0.82; Over 2 is an integer line)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.bvb.de/de/en/news/news-overview/news.html/2026/11/27/Kovac-Ahead-of-Leverkusen-Its-Tough-to-Play-Against-Dortmund.html",
+   "https://bvbwld.de/2026/11/27/waere-fuer-sonntag-eine-option-kovac-update-zum-bvb-personal",
+   "https://www.sportsmole.co.uk/football/borussia-dortmund/preview/dortmund-vs-b-leverkusen-prediction-team-news-lineups_610060.html"
+  ]
+ },
+ {
+  "eid": "sr:match:72036320",
+  "fx": "Lyon v Monaco",
+  "sport": "football",
+  "absences": "Monaco: Golovin, Ansu Fati, Idumbo injured; Mamadou Coulibaly suspended; Lamine Camara (ill), Brunner, Salisu, Kohn uncertain. Lyon: Morton out until February; Sulc, Ouedraogo out; Mata, Bidstrup uncertain.",
+  "context": "Ligue 1, Groupama Stadium, 20:45 CET Sunday. Both have midweek European football. Lyon 1.0 gf last 10.",
+  "news": "Monaco depleted (4 out, 4 doubts); Lyon missing Morton and Sulc.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result sides (big-club clash, both rotating after Europe); Over 1.5 at p 0.74",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.rotowire.com/soccer/article/lyon-vs-monaco-prediction-predicted-lineups-team-news-148281",
+   "https://flashscore.fr/actualites/football-ligue-1-lyon-monaco-ou-regarder-le-match-de-ligue-1-heure-et-compos/bsR7QVGk"
+  ]
+ }
+]

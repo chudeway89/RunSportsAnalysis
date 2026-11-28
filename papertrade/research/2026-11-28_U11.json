@@ -1,0 +1,583 @@
+[
+ {
+  "eid": "sr:match:72837948",
+  "fx": "12 Bingol Spor v Ankara Demirspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig (pro third tier, listed 'Amateur'); thin league, no Unders, no picks without mechanism.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; coin-flip thin-league match",
+  "confidence": 0.15,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72837952",
+  "fx": "Adana 1954 FK v Belediye Kutahyaspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig (pro third tier, listed 'Amateur'); thin league, no Unders, no picks without mechanism. Adana 1954 4W1D0L at home (2.2 gf, 0.4 ga).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "result-sides at 1.87 mid-band; no named mechanism",
+  "confidence": 0.15,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72837374",
+  "fx": "Elazigspor v 68 Aksaray Belediyespor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig (pro third tier, listed 'Amateur'); thin league, no Unders, no picks without mechanism. Kick-off 13:00 TRT (10:00 UTC) confirmed on Tivibu Spor listing.",
+  "news": "Elazigspor-68 Aksaray confirmed 29 Nov 13:00 TRT, live on Tivibu Spor; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "home 1X2 1.39: Elazig only 2W in 5 at home",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.yalovagazetesi.com/nesine-2-ve-3-ligde-haftanin-canli-yayinlanacak-maclari-belirlendi"
+  ]
+ },
+ {
+  "eid": "sr:match:72837364",
+  "fx": "Erbaaspor v Menemenspor AS",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig (pro third tier, listed 'Amateur'); thin league, no Unders, no picks without mechanism.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "home 1.47: Erbaa 1W in 4 at home",
+  "confidence": 0.15,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72837950",
+  "fx": "Hekimoglu Trabzon v Kirklarelispor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig (pro third tier, listed 'Amateur'); thin league, no Unders, no picks without mechanism.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.15,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72723350",
+  "fx": "Corum FK v Kocaelispor",
+  "sport": "football",
+  "absences": "Corum: Berat Ozdemir out, Gokhan Sazdagi doubtful. Kocaelispor: Massadio Haidara, Bruno Petkovic, Show, Aleksandar Jovanovic injury concerns.",
+  "context": "Super Lig MD13, 29 Nov 10:30 UTC confirmed. Corum 11th (16 pts), Kocaeli 8th (20). Corum lost last 2 conceding 9.",
+  "news": "Kocaeli has 4 injury concerns incl. striker Petkovic; previews split between 1-1, 1-2 and a Corum win",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; previews disagree, mid-band prices",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/orum-belediyespor/preview/orum-belediyespor-vs-kocaelispor-prediction-team-news-lineups_610044.html",
+   "https://scoregpt.app/ai-football-predictions/super-lig/corum-fk-vs-kocaelispor-2026-11-29",
+   "https://turkish-football.com/super-lig-matchday-13-previews-derby-fireworks-european-hangovers-and-high-stakes-clashes/"
+  ]
+ },
+ {
+  "eid": "sr:match:72735930",
+  "fx": "Pendikspor v Igdir FK",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 1. Lig week 16; 13:30 TRT (10:30 UTC) confirmed. Pendik 1W in last 10; Igdir 1 loss in 10, draw-heavy.",
+  "news": "fixture/time confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Igdir away 2.35 (draw-heavy profile)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.aspor.com.tr/tff-birinci-lig/2026/11/13/trendyol-1-ligde-16-17-ve-18-hafta-maclarinin-programi-aciklandi"
+  ]
+ },
+ {
+  "eid": "sr:match:74444422",
+  "fx": "Sukhothai FC v Bangkok United FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Thai League 1.",
+  "news": "Official site lists the match in the Sunday 29 Nov round, but another fixtures page lists Sukhothai v Bangkok United on Friday 27 Nov",
+  "veto": true,
+  "veto_reason": "date conflict between sources (27 Nov vs 29 Nov)",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://thaileague.co.th/fixtures/175",
+   "https://kinabalutoday.com/team/2770/bangkok-united"
+  ]
+ },
+ {
+  "eid": "sr:match:73075954",
+  "fx": "Nakhon Ratchasima FC v Uttaradit Saksiam FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Thai League 2. FotMob shows a Nakhon Ratchasima game at Muangthong on 25 Nov and no clear 29 Nov entry.",
+  "news": "29 Nov fixture not confirmed by a second source; Nakhon Ratchasima played midweek (25 Nov)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; unconfirmed fixture, thin league",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.fotmob.com/teams/554037/fixtures/nakhon-ratchasima-fc"
+  ]
+ },
+ {
+  "eid": "sr:match:73075956",
+  "fx": "Phrae United v Mahasarakham United FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Thai League 2.",
+  "news": "no news found; fixture not confirmed by a second source",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74444424",
+  "fx": "Ayutthaya United FC v Rayong FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Thai League 1, at Ayutthaya Provincial Stadium (official list). Ayutthaya's last 6 all had 2+ goals; Rayong conceded 3, 4, 4 and 3 in four of the last 5 away.",
+  "news": "fixture on the official 29 Nov list; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8141,
+    "why": "Thai L1 is high-scoring; 11 of the two sides' last 12 games had 2+ goals; Rayong concede 3.0/away game. Est 0.82"
+   }
+  ],
+  "avoid": "1X2",
+  "confidence": 0.25,
+  "sources": [
+   "https://thaileague.co.th/fixtures/175"
+  ]
+ },
+ {
+  "eid": "sr:match:73075958",
+  "fx": "Muang Loei United FC v Satun United FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Thai League 2. Satun draw-heavy (5D in 10, three 0-0s).",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Overs: Satun 0-0 profile",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74444426",
+  "fx": "Port FC v Prachuap FC",
+  "sport": "football",
+  "absences": "Port: Asnawi Mangkualam (Achilles) and Kaka Mendes (knee) were out in Oct (status unverified)",
+  "context": "Thai League 1, PAT Stadium. Port's home games average 5.4 goals (3.2 gf, 2.2 ga); all of Port's last 6 games had 2+ goals.",
+  "news": "fixture on the official list; no current injury report",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.793,
+    "why": "Port games all 2+ goals in last 6 (7-4, 4-1, 1-4); Prachuap 4 of 6 had 2+ goals. Est 0.80"
+   }
+  ],
+  "avoid": "Port home 1.66: Prachuap 7W in 10",
+  "confidence": 0.25,
+  "sources": [
+   "https://thaileague.co.th/fixtures/175",
+   "https://www.forebet.com/en/football/matches/bangkok-united-port-fc-2530255"
+  ]
+ },
+ {
+  "eid": "sr:match:73075960",
+  "fx": "Pattaya Dolphins United v Nongbua Pitchaya FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Thai League 2. Confirmed for 29 Nov by LiveSoccerTV and FotMob.",
+  "news": "fixture confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all; thin league",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.livesoccertv.com/teams/thailand/nong-bua-pitchaya/",
+   "https://www.fotmob.com/en-GB/teams/626806/overview/nong-bua-pitchaya-fc"
+  ]
+ },
+ {
+  "eid": "sr:match:72837378",
+  "fx": "Arnavutkoy Belediyesi Genclik Ve Spor v Mus 1984 Musspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig (pro third tier, listed 'Amateur'); thin league, no Unders, no picks without mechanism. Confirmed 15:00 TRT (12:00 UTC) on Tivibu Spor 3. Musspor 8W in 10 (2.8 gf); Arnavutkoy 1W in 10, concedes 2.2.",
+  "news": "fixture/time confirmed; Musspor a promotion contender",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.4,
+    "p": 0.6706,
+    "why": "Musspor score 2.8/game (5-1, 4-1, 7-1 recently); Arnavutkoy concede 2.2. Est 0.68 (mid-band, thin league: low stake)"
+   }
+  ],
+  "avoid": "away 1.14 (sub-1.15 padding)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.yalovagazetesi.com/nesine-2-ve-3-ligde-haftanin-canli-yayinlanacak-maclari-belirlendi"
+  ]
+ },
+ {
+  "eid": "sr:match:72837368",
+  "fx": "Belediye Derincespor v Adana Demirspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig (pro third tier, listed 'Amateur'); thin league, no Unders, no picks without mechanism. Adana Demirspor in collapse (1W in 10, 0W in 5 away, conceding 4.4 away).",
+  "news": "Sources disagree: LiveSoccerTV has Derincespor-Adana Demirspor on 29 Nov; Laola1 has it on 29 Dec; one broadcast list has Adana Demirspor v Guzide Gebze on 29 Nov, another Adana Demirspor v Corluspor",
+  "veto": true,
+  "veto_reason": "date/opponent conflict between sources",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.livesoccertv.com/teams/turkey/adana-demirspor/",
+   "https://www.laola1.at/de/daten/ergebnisse/fussball/adana-demirspor/",
+   "https://www.yalovagazetesi.com/nesine-2-ve-3-ligde-haftanin-canli-yayinlanacak-maclari-belirlendi"
+  ]
+ },
+ {
+  "eid": "sr:match:72837960",
+  "fx": "Fethiyespor v Iskenderun FK",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig (pro third tier, listed 'Amateur'); thin league, no Unders, no picks without mechanism. Iskenderun 0W in 10 (0.5 gf, 2.7 ga).",
+  "news": "no news found; fixture not confirmed in searches",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "home 1.33: Fethiye lost 0-5 and 1-5 on recent trips, weak side",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72837956",
+  "fx": "MKE Ankaragucu v Halide Edip Adivarspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 2. Lig (pro third tier, listed 'Amateur'); thin league, no Unders, no picks without mechanism.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:74379778",
+  "fx": "FC Luzern v Lugano",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Swiss Super League R15, swissporarena 13:00 UTC confirmed by FC Lugano. Lugano 8W in last 10 (2.6 gf). The previous H2H was a 0-4.",
+  "news": "fixture confirmed; no team news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "858",
+    "spec": "total=2.5",
+    "desc": "Yes",
+    "odds": 1.23,
+    "p": 0.7728,
+    "why": "OR leg: Lugano win (8W/10) or 3+ goals (Luzern home games average 4.4 goals). Est 0.78"
+   }
+  ],
+  "avoid": "Luzern result-side; Under",
+  "confidence": 0.25,
+  "sources": [
+   "https://fclugano.com/en/match-center/luzern-vs-lugano-2026-11-29"
+  ]
+ },
+ {
+  "eid": "sr:match:77107212",
+  "fx": "Club S Hammam-Lif v Olympique de Beja",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tunisia Ligue 1. Hammam-Lif 5 pts, lost 0-3 at home to Metlaoui; Beja 4 pts. Both are low scorers.",
+  "news": "no 29 Nov preview found; low-scoring bottom-half sides",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Under 2.5 1.26 p0.75 below the 0.82 Under gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lapresse.tn/2026/11/21/ligue-1-le-stade-tunisien-lus-monastir-et-le-cs-sfaxien-simposent-avant-le-derby/"
+  ]
+ },
+ {
+  "eid": "sr:match:77107210",
+  "fx": "JS Omrane v US Monastir",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Tunisia Ligue 1. Monastir 1st (15 pts), beat Etoile 2-0 on 21 Nov; Omrane 10 pts and strong at home (0.4 ga).",
+  "news": "no 29 Nov preview found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Monastir away 2.25 (Omrane tight at home); Unders below gate",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.lapresse.tn/2026/11/21/ligue-1-le-stade-tunisien-lus-monastir-et-le-cs-sfaxien-simposent-avant-le-derby/"
+  ]
+ },
+ {
+  "eid": "sr:match:72723342",
+  "fx": "Eyupspor v Istanbul BB",
+  "sport": "football",
+  "absences": "Eyupspor: Lenny Pintor, Talha Ulvan, Simone Giordano injured/doubtful. Basaksehir: Christopher Operi and Yusuf Sari out, Jerome Opoku doubtful.",
+  "context": "Super Lig MD13. Eyupspor have lost 9 straight league games (0.3 gf). Basaksehir (Nuri Sahin) won 3 straight, 7th; came back from 2-0 down to beat Corum 4-2.",
+  "news": "Eyupspor lost 9 in a row with 3 attackers out; Basaksehir won 3 straight",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "858",
+    "spec": "total=2.5",
+    "desc": "Yes",
+    "odds": 1.19,
+    "p": 0.8045,
+    "why": "OR leg: Basaksehir win or 3+ goals; Eyupspor's 9-game losing run and 0.3 gf make a home win/low draw the only losing paths. Est 0.82"
+   }
+  ],
+  "avoid": "away 1X2 1.46 p0.67 (<0.75 away gate); Home +2.5 (fav p>=0.60)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/eyupspor/preview/eyupspor-vs-istanbul-prediction-team-news-lineups_610045.html",
+   "https://www.whoscored.com/matches/1999652/preview/turkey-super-lig-2026-2027-eyupspor-istanbul-basaksehir",
+   "https://www.soccernews.com/soccer-stats/turkish-super-lig/injuries-suspensions/"
+  ]
+ },
+ {
+  "eid": "sr:match:72735932",
+  "fx": "Antalyaspor v Fatih Karagumruk Istanbul",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 1. Lig week 16, 16:00 TRT (13:00 UTC), ref Berkay Erdemir. Karagumruk 3W in 4 away, 0.25 ga.",
+  "news": "fixture/time confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Antalyaspor home 2.35 (1W in 4 at home)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.aspor.com.tr/tff-birinci-lig/2026/11/13/trendyol-1-ligde-16-17-ve-18-hafta-maclarinin-programi-aciklandi",
+   "https://www.haberler.com/spor/trendyol-1-lig-de-16-hafta-maclarinin-hakemleri-20464699-haberi/"
+  ]
+ },
+ {
+  "eid": "sr:match:72735940",
+  "fx": "Boluspor v Esenler Erokspor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 1. Lig week 16, 16:00 TRT, ref Zorbay Kucuk. Boluspor 0W in 5 at home (0.6 gf); Erokspor 2.0 gf.",
+  "news": "fixture/time confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "547",
+    "spec": "total=1.5",
+    "desc": "Draw/Away & Over 1.5",
+    "odds": 1.22,
+    "p": 0.7574,
+    "why": "Boluspor winless at home in 5 and score 0.6/game; Erokspor scoring 2.0 (5-0, 3-2, 4-2). Est 0.77"
+   }
+  ],
+  "avoid": "away 1X2 1.29 p0.74 (just under the 0.75 away gate)",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.aspor.com.tr/tff-birinci-lig/2026/11/13/trendyol-1-ligde-16-17-ve-18-hafta-maclarinin-programi-aciklandi"
+  ]
+ },
+ {
+  "eid": "sr:match:67126906",
+  "fx": "Malmo v IF Brommapojkarna",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Allsvenskan final round. Malmo 8th on 42 pts, chasing a top-eight finish; Brommapojkarna locked in 11th with nothing to play for. Malmo won the earlier meeting 2-1.",
+  "news": "last round: Malmo motivated, BP dead rubber",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=0",
+    "desc": "Home (0)",
+    "odds": 1.26,
+    "p": 0.7677,
+    "why": "DNB: motivation edge (Malmo top-8 race v BP dead rubber); Malmo concede 0.7/game. Est 0.78"
+   }
+  ],
+  "avoid": "Overs: Malmo only 1.0 gf in last 10",
+  "confidence": 0.3,
+  "sources": [
+   "https://scoregpt.app/ai-football-predictions/allsvenskan/malmo-ff-vs-if-brommapojkarna-2026-11-29",
+   "https://www.oddsonline.se/nyheter/allsvenskan-i-vecka-48-infor-helgens-matcher-kval-och-slutomgang/"
+  ]
+ },
+ {
+  "eid": "sr:match:67126912",
+  "fx": "Vasteraas SK v Hammarby IF",
+  "sport": "football",
+  "absences": "no current Hammarby/VSK injury list found",
+  "context": "Allsvenskan final round, title decider. Hammarby and Sirius both on 61 pts; Hammarby +39 GD v +24. A win clinches Hammarby's first title since 2001. VSK can reach 5th with a win but are 2 games without a win. Sources differ on kick-off (14:00 vs 15:00 local).",
+  "news": "Hammarby must win at Vasteras to seal the title (9W in last 10, 4/4 away wins)",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "547",
+    "spec": "total=1.5",
+    "desc": "Draw/Away & Over 1.5",
+    "odds": 1.23,
+    "p": 0.7667,
+    "why": "Hammarby must-win title decider (9W/10, 1.9 gf); X2 & 2+ goals loses only on a VSK win or 1-0/0-0 type. Est 0.78"
+   }
+  ],
+  "avoid": "away 1X2 1.31 p0.74 (<0.75 gate); Hammarby -1",
+  "confidence": 0.3,
+  "sources": [
+   "https://hurbra.se/allsvenskan-29-november-2026/",
+   "https://bettingstugan.se/speltips/vasteras-sk-hammarby-if",
+   "https://allsvenskan.se/matcher/2026/6530066/vasteras-sk-mot-hammarby"
+  ]
+ },
+ {
+  "eid": "sr:match:74379782",
+  "fx": "FC Sion v Young Boys Bern",
+  "sport": "football",
+  "absences": "YB: captain Loris Benito (contusion) and Bahereba Guirassy injured, Armin Gigovic suspended (yellow cards), Moritz Jenz one booking from a ban. Sion: only Lorenzo Villa out.",
+  "context": "Swiss SL R15, Tourbillon 15:30. Sion 3rd (29 pts), won the last 4 home meetings with YB. Big-club opponent: no result-side.",
+  "news": "YB missing Benito, Guirassy and Gigovic at Sion, where Sion won the last 4 meetings",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "854",
+    "spec": "total=2.5",
+    "desc": "Yes",
+    "odds": 1.18,
+    "p": 0.8029,
+    "why": "OR leg: Sion win (4 straight home wins v a depleted YB) or 3+ goals (YB games average 4.5 goals). Est 0.82"
+   }
+  ],
+  "avoid": "Sion 1X2/DNB (big-club rule); Unders",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.nau.ch/sport/fussball/bricht-yb-am-sonntag-im-tourbillon-den-sion-fluch-67207953",
+   "https://tipsterio.de/sportwetten-tipps/fc-sion-vs-bsc-young-boys-wett-tipp-prognose-29-11-2026",
+   "https://fclugano.com/en/match-center/luzern-vs-lugano-2026-11-29"
+  ]
+ },
+ {
+  "eid": "sr:match:74379780",
+  "fx": "FC Thun v FC St. Gallen 1879",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Swiss SL R15, Stockhorn Arena (VISANA) 15:30. Thun 8th (14 pts) with leaky games (2.7 gf, 3.3 ga); all of their last 6 games had 4+ goals.",
+  "news": "fixture confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.38,
+    "p": 0.69,
+    "why": "All of Thun's last 6 games had 4+ goals (5-4, 3-3, 2-3); St Gallen average 3.5 goals per game. Est 0.72"
+   }
+  ],
+  "avoid": "Under; Thun result-side",
+  "confidence": 0.25,
+  "sources": [
+   "https://fclugano.com/en/match-center/luzern-vs-lugano-2026-11-29"
+  ]
+ },
+ {
+  "eid": "sr:match:72723352",
+  "fx": "Fenerbahce Istanbul v Erzurumspor FK",
+  "sport": "football",
+  "absences": "Fenerbahce: Nathan Ake (calf), Marco Asensio (knee cartilage), Jayden Oosterwolde (Achilles) out; Amara Diouf doubtful; Archie Brown back from a 3-match ban. Erzurumspor: Orhan Ovacikli and Festy Ebosele injured per Mynet (other previews say no absentees).",
+  "context": "Super Lig MD13. Fenerbahce probably played in Europe midweek ('European hangovers' preview); rotation is possible.",
+  "news": "Fenerbahce without Asensio, Ake and Oosterwolde; Archie Brown returns; Erzurumspor injury reports conflict",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "547",
+    "spec": "total=1.5",
+    "desc": "Home/Draw & Over 1.5",
+    "odds": 1.23,
+    "p": 0.767,
+    "why": "Fenerbahce 2.25 gf at home v promoted Erzurumspor (1.0 gf away); 1X & 2+ goals covers a rotated XI. Est 0.77"
+   }
+  ],
+  "avoid": "Home -1.5; Home 1X2 1.28 given the midweek European game and Asensio's absence",
+  "confidence": 0.25,
+  "sources": [
+   "https://mynet.com/fenerbahce-erzurumspor-fk-2026-11-29-maci-oncesi-analiz-527885-myspor",
+   "https://www.sportsmole.co.uk/football/fenerbahce/preview/fenerbahce-vs-bb-erzurumspor-prediction-team-news-lineups_610046.html",
+   "https://www.whoscored.com/matches/1999662/preview/turkey-super-lig-2026-2027-fenerbahce-erzurumspor-fk"
+  ]
+ },
+ {
+  "eid": "sr:match:72735928",
+  "fx": "Ankara Keciorengucu v Kayserispor",
+  "sport": "football",
+  "absences": "none found",
+  "context": "TFF 1. Lig week 16, Ankara Aktepe 19:00 TRT (16:00 UTC), ref Yusuf Adnan Kendirciler. Kayserispor (relegated) score 2.7/game, but only 2W in 5 away.",
+  "news": "fixture/time/venue confirmed; no team news",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Kayseri away 1.97 / DNB 1.48 mid-band",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.mersinhaber.com/haber-ankara-keciorengucu-ile-kayserispor-arasinda-29-kasimda-mac-oynanacak/860634",
+   "https://www.aspor.com.tr/tff-birinci-lig/2026/11/13/trendyol-1-ligde-16-17-ve-18-hafta-maclarinin-programi-aciklandi"
+  ]
+ }
+]

@@ -1,0 +1,620 @@
+[
+ {
+  "eid": "sr:match:73050942",
+  "fx": "Arka Gdynia v Rakow Czestochowa U19",
+  "sport": "football",
+  "absences": "",
+  "context": "CLJ U19 youth league (Poland). Youth fixture: only date/venue checked.",
+  "news": "no news found; youth fixture, no conflict found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Youth (U19): no result-sides; no clear mismatch (both sides 2-3 wins in last 10) so no goals pick either.",
+  "confidence": 0.1,
+  "sources": []
+ },
+ {
+  "eid": "sr:match:72398852",
+  "fx": "KS Hutnik Krakow SSA v Sandecja Nowy Sacz",
+  "sport": "football",
+  "absences": "",
+  "context": "II Liga round 18, Sun 29 Nov 12:00 local (=11:00 UTC, matches board). Hutnik ~22 pts mid-table; Hutnik drew 1-1 at Resovia, Sandecja drew 0-0 v Znicz in round 17. Heavy snow in southern Poland this week (Krakow area) - pitch/postponement risk.",
+  "news": "Fixture confirmed by Interia and Slask schedule; snow in southern Poland may affect pitches.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Mid-table, both sides poor scoring form (Hutnik gf 1.0); no mechanism. Snow-pitch risk favours low totals but Unders below p 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-betclic-2-liga,spci,672,tab,mecze",
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-betclic-2-liga,spci,672,tab,tabele",
+   "https://www.slaskwroclaw.pl/w/terminarz-betclic-2-ligi-na-sezon-2026/2027",
+   "https://sportowefakty.wp.pl/pilka-nozna/1286391/mecz-ekstraklasy-zagrozony-klub-walczy-ze-skutkami-sniezycy"
+  ]
+ },
+ {
+  "eid": "sr:match:72398858",
+  "fx": "Sokol Kleczew v Zawisza Bydgoszcz",
+  "sport": "football",
+  "absences": "",
+  "context": "II Liga round 18. Zawisza 2nd (28 pts) v Sokol (~19 pts). Interia lists 29 Nov 12:00 local; the Slask Wroclaw schedule page does not list Sokol-Zawisza in this round (shows Podhale-Sokol in R19). Sokol's R17 result v GKS Tychy reported inconsistently (1-3 vs 1-0).",
+  "news": "Minor schedule inconsistency between sources (Slask page omits the fixture); Interia confirms it.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Away 1X2 p 0.49 below 0.75; DNB Away 1.46 p 0.64 no mechanism strong enough. Fixture listing inconsistency - treat as data_conflict, no picks.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-betclic-2-liga,spci,672,tab,mecze",
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-betclic-2-liga,spci,672,tab,tabele",
+   "https://www.slaskwroclaw.pl/w/terminarz-betclic-2-ligi-na-sezon-2026/2027"
+  ]
+ },
+ {
+  "eid": "sr:match:72514906",
+  "fx": "Lechia Tomaszow Mazowiecki v Wisla Plock II",
+  "sport": "football",
+  "absences": "",
+  "context": "III Liga Group I round 19 (28-29 Nov). Wisla Plock II is a reserve side.",
+  "news": "no news found; reserve side involved, fixture not individually confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side + amateur tier: no result-sides; no clear mismatch.",
+  "confidence": 0.1,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14742.html",
+   "https://www.podkarpacielive.pl/terminarze/iii-liga-gr-iii"
+  ]
+ },
+ {
+  "eid": "sr:match:72514918",
+  "fx": "Widzew Lodz II v Zabkovia Zabki",
+  "sport": "football",
+  "absences": "",
+  "context": "III Liga Group I. Widzew Lodz II reserve side. 90minut lists Widzew II v Zabkovia at Kolbiel but the date in the snippet reads 28 Nov, not 29 Nov.",
+  "news": "Possible date conflict: 90minut snippet shows 28 Nov for Widzew II-Zabkovia vs board 29 Nov 11:00 UTC.",
+  "veto": true,
+  "veto_reason": "Date conflict between 90minut listing (28 Nov) and board (29 Nov); reserve side.",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14742.html",
+   "https://www.podkarpacielive.pl/terminarze/iii-liga-gr-iii"
+  ]
+ },
+ {
+  "eid": "sr:match:73074646",
+  "fx": "Zaglebie Lubin II v KS Polonia Nysa",
+  "sport": "football",
+  "absences": "",
+  "context": "III Liga Group III round 19 (28-29 Nov). Zaglebie Lubin II reserve side. Snow in southern/western Poland.",
+  "news": "no news found; fixture not individually confirmed",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result-sides (Home 1.64 / DNB 1.29 would be a reserve result-side).",
+  "confidence": 0.1,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14742.html",
+   "https://www.podkarpacielive.pl/terminarze/iii-liga-gr-iii"
+  ]
+ },
+ {
+  "eid": "sr:match:72517424",
+  "fx": "JKS 1909 Jaroslaw v KS Wisloka Debica",
+  "sport": "football",
+  "absences": "",
+  "context": "III Liga Group IV, amateur/regional. South-east Poland (Jaroslaw) - snow risk.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Amateur regional tier: no Overs/Unders per rules, no mechanism for result.",
+  "confidence": 0.1,
+  "sources": [
+   "http://www.90minut.pl/liga/1/liga14742.html",
+   "https://www.podkarpacielive.pl/terminarze/iii-liga-gr-iii"
+  ]
+ },
+ {
+  "eid": "sr:match:72531696",
+  "fx": "FC Penafiel v SL Benfica B",
+  "sport": "football",
+  "absences": "",
+  "context": "Liga Portugal 2 round 12: Penafiel 1st (22 pts) v Benfica B 2nd/3rd (20 pts) - top-of-table clash. Benfica B is a B/reserve team.",
+  "news": "Kick-off conflict: Flashscore schedule-change article lists 15:30 (Sport TV); club site lists 11:00; board 11:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off time conflict between sources (11:00 vs 15:30 after Liga Portugal re-scheduling of nine Liga 2 games).",
+  "picks": [],
+  "avoid": "All markets.",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.flashscore.pt/noticias/liga-portugal-altera-datas-e-horas-de-nove-jogos-da-liga-2/jmllMtIl/",
+   "https://www.fcpenafiel.pt/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liga_Portugal_2"
+  ]
+ },
+ {
+  "eid": "sr:match:67015486",
+  "fx": "Fredrikstad FK v Aalesunds FK",
+  "sport": "football",
+  "absences": "No current team news found (older Fredrikstad lists: Kvile, Amundsen, Okpaleke, Sorlokk - Aug).",
+  "context": "Eliteserien round 28 (of 30). Aalesund 15th on 25 pts in direct-relegation zone, must win; Fredrikstad 12th on 31 pts (GD -15), not yet safe (level with Sarpsborg/KFUM/HamKam, 4 pts above 14th Kristiansund).",
+  "news": "Relegation six-pointer-ish: Aalesund must win, Fredrikstad need points.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Result-sides: both motivated, mid-band p. Over 2.5 at p 0.64 is mid-band, no mechanism beyond Aalesund's open profile (gf 2.3 ga 2.2).",
+  "confidence": 0.2,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Eliteserien",
+   "https://no.wikipedia.org/wiki/Mal:Eliteserien_2026_tabell",
+   "https://www.fotball.no/fotballdata/turnering/hjem/?fiksId=206092",
+   "https://norskebettingtips.com/oddstips/fredrikstad-mot-kristiansund-bk-16-08-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:77062216",
+  "fx": "Stabaek IF v Odds BK",
+  "sport": "football",
+  "absences": "",
+  "context": "Eliteserien qualification 2027, round 1 single-leg knockout at Nye Nadderud, 29.11 14:30 local (=13:30 UTC, matches board). Stabaek (OBOS 4th, 58 pts) v Odd (5th, 49 pts; beat Bryne 1-0 on 22 Nov). Winner meets Kongsvinger, then two legs v Eliteserien 14th. Stabaek had a long break with a Spain training camp (back 24 Nov) - rust risk; Odd are match-sharp.",
+  "news": "Single-match knockout; Stabaek idle for weeks (Spain camp), Odd won 1-0 v Bryne a week ago.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Knockout: no result-sides (only DNB/To Qualify); 90-min settlement. Over 2.5 1.29 p 0.74 not backed - Odd's last KO was 1-0 and knockout tension plus Stabaek rust argue against Overs.",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.obos-ligaen.no/terminliste",
+   "https://no.wikipedia.org/wiki/Kvalifisering_til_Eliteserien_i_fotball_for_menn_2027",
+   "https://www.nrk.no/sport/odd-videre-i-eliteseriekvalifiseringen-1.18086689",
+   "https://www.stabak.no/nyheter/slik-blir-perioden-frem-mot-eliteseriekvaliken"
+  ]
+ },
+ {
+  "eid": "sr:match:72230902",
+  "fx": "LKS Lodz v KS Lechia Gdansk",
+  "sport": "football",
+  "absences": "",
+  "context": "1. Liga round 16, 14:30 local (=13:30 UTC). LKS 2nd on 26 pts v Lechia 3rd on 25 - promotion top-of-table clash. LKS low-event profile (gf 0.8 ga 0.9 last 10).",
+  "news": "Top-3 clash confirmed by TVP / Sportowe Fakty; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Big top-of-table clash: no result-side. Under 2.5 2.2 p 0.42 below Under threshold; Over 1.5 1.18 p 0.81 against LKS's low-scoring profile.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportowefakty.wp.pl/pilka-nozna/1282830/szczegolowy-terminarz-16-kolejki-betclic-i-ligi-znamy-termin-hitu-lks-lodz-lechi",
+   "https://sport.tvp.pl/96643198/lks-lodz-lechia-gdansk-betclic-1-liga-16-kolejka-transmisja-na-zywo-online-live-stream-29112026"
+  ]
+ },
+ {
+  "eid": "sr:match:72043362",
+  "fx": "KKS Lech Poznan v Pogon Szczecin",
+  "sport": "football",
+  "absences": "Lech: Alex Douglas, Ali Gholizadeh, Mikael Ishak, Joao Moutinho, Pablo Rodrigues, Patrik Walemark (all injured). Pogon: Benjamin Mendy, Linus Wahlqvist (inj), Mor Ndiaye (reserves), Musa Juwara (non-sporting).",
+  "context": "Ekstraklasa round 16, 14:45 local (=13:45 UTC). Lech without six players incl. captain/striker Ishak and three wide/attacking players.",
+  "news": "Lech missing six incl. Ishak, Gholizadeh, Walemark - fragile favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Fragile favourite (6 absentees, top striker out): skip Lech 1X2/DNB/DC (R4: skipped, not fixed with DNB).",
+  "confidence": 0.25,
+  "sources": [
+   "https://gol24.pl/kto-nie-zagra-w-16-kolejce-pko-ekstraklasy-wiele-absencji-w-ostatni-weekend-listopada/ar/c2-19152295",
+   "https://sport.tvp.pl/96698231/niezbednik-kibica-16-kolejki-pko-bp-ekstraklasy-202627-sprawdz-terminarz-i-inne-szczegoly-27-30112026"
+  ]
+ },
+ {
+  "eid": "sr:match:72531692",
+  "fx": "FC Felgueiras 1932 v FC Porto B",
+  "sport": "football",
+  "absences": "",
+  "context": "Liga Portugal 2 round 12, 14:00 Lisbon (=14:00 UTC). Felgueiras near bottom (8-9 pts) v FC Porto B (8 pts) - relegation-zone meeting; Porto B is a reserve side.",
+  "news": "Fixture confirmed (Estadio Dr. Machado de Matos, Sport TV+); no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Reserve side: no result-sides; Unders below p 0.82; low-event profile so no Overs.",
+  "confidence": 0.15,
+  "sources": [
+   "https://superportistas.pt/jogos/felgueiras-1932-vs-porto-ii-2/",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Liga_Portugal_2"
+  ]
+ },
+ {
+  "eid": "sr:match:72398844",
+  "fx": "CWKS Resovia v MKS Znicz Pruszkow",
+  "sport": "football",
+  "absences": "",
+  "context": "II Liga round 18, 15:30 local (=14:30 UTC, matches board). Resovia bottom-of-table on 8 pts after 17 (0W 5D 5L in last 10, gf 0.5) v leaders Znicz Pruszkow (35 pts, 7 clear of 2nd). Znicz drew 0-0 at Sandecja last round.",
+  "news": "Leader v bottom: Resovia winless in 10, scoring 0.5/game.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Draw or Away",
+    "odds": 1.31,
+    "p": 0.7116969969,
+    "why": "Mechanism: league leader (35 pts) v bottom side with 8 pts and 0 wins in last 10, 0.5 goals/game - Resovia need to outscore Znicz to beat this. Own p 0.74 (house 0.71)."
+   }
+  ],
+  "avoid": "Away 1X2 (p 0.46 < 0.75); Over lines (Resovia barely score, snow-hit pitches).",
+  "confidence": 0.3,
+  "sources": [
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-betclic-2-liga,spci,672,tab,mecze",
+   "https://sport.interia.pl/pilka-nozna/rozgr-polska-betclic-2-liga,spci,672,tab,tabele",
+   "https://www.slaskwroclaw.pl/w/terminarz-betclic-2-ligi-na-sezon-2026/2027"
+  ]
+ },
+ {
+  "eid": "sr:match:74886192",
+  "fx": "Enyimba v Barau FC",
+  "sport": "football",
+  "absences": "",
+  "context": "NPFL Matchday 15, 16:00 WAT (=15:00 UTC). Enyimba 18th in relegation places, winless start to season (lost 0-1 at home to Inter Lagos MD4) v Barau FC 3rd.",
+  "news": "Enyimba in relegation zone; Barau 3rd and in form (5-0 v Inter Lagos).",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Enyimba Home 1.58 / DNB 1.23: fragile home favourite in relegation zone v 3rd-placed side - skip. Low-scoring league: no Overs.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/nigeria-npfl-fixtures-weekend-schedule-and-kick-off-times-27-29-november-2026/",
+   "https://www.naijanews.com/2026/11/27/inter-lagos-coach-confident-survival-despite-poor-npfl-start-matchday-15-fixtures/",
+   "https://npfl.com.ng/fixtures-results/",
+   "https://nigerianmatchday.com/enyimba-inter-lagos-0-1-npfl-matchday-4-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:74886190",
+  "fx": "Inter Lagos FC v Bendel Insurance FC",
+  "sport": "football",
+  "absences": "",
+  "context": "NPFL MD15, 16:00 WAT. Inter Lagos ~7 pts incl. 3-pt deduction, lost 5-0 at Barau last round; interim coach. Bendel Insurance 6th.",
+  "news": "Inter Lagos in crisis (5-0 loss, interim coach, points deduction) yet house makes them home favourite.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Inter Lagos Home/DNB/1X: fragile home favourite in crisis - skip. Bendel away side below p 0.75.",
+  "confidence": 0.2,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/nigeria-npfl-fixtures-weekend-schedule-and-kick-off-times-27-29-november-2026/",
+   "https://www.naijanews.com/2026/11/27/inter-lagos-coach-confident-survival-despite-poor-npfl-start-matchday-15-fixtures/",
+   "https://npfl.com.ng/fixtures-results/"
+  ]
+ },
+ {
+  "eid": "sr:match:74886202",
+  "fx": "Nasarawa United v Sporting Lagos FC",
+  "sport": "football",
+  "absences": "",
+  "context": "NPFL MD15, Lafia Township/City Stadium, 15:00 GMT. Nasarawa 4th (23 pts from 14), beat Warri Wolves 2-0 MD14 but only 1W in last 5; Sporting Lagos 14th (16 pts from 12), drew 1-1 v Kwara. Kick-off sources: 16:00 WAT = 15:00 GMT (consistent).",
+  "news": "Nasarawa 4th chasing top three v 14th-placed Sporting Lagos.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.42,
+    "p": 0.631681,
+    "why": "Mechanism: NPFL home edge + Nasarawa 6W in last 10 (ga 0.7) chasing top-3 v 14th-placed Sporting Lagos. Own p 0.65 (house 0.63)."
+   }
+  ],
+  "avoid": "Overs (low-scoring NPFL); Sporting Lagos markets.",
+  "confidence": 0.25,
+  "sources": [
+   "https://nigeriasoccernet.com/nasarawa-united-eyes-top-three-push-with-sporting-lagos-visit",
+   "https://soccernet.ng/2026/11/npfl-sporting-lagos-games-in-hand-nasarawa-united-rivers-united.html",
+   "https://www.completesports.com/euromatch-npfl-nasarawa-united-turn-attention-to-sporting-lagos-after-warri-wolves-win/"
+  ]
+ },
+ {
+  "eid": "sr:match:74886186",
+  "fx": "Niger Tornadoes FC v Kwara United",
+  "sport": "football",
+  "absences": "",
+  "context": "NPFL MD15, 16:00 WAT. Niger Tornadoes (home gf 0.6 last 10) v Kwara United (drew 1-1 v Sporting Lagos).",
+  "news": "Fixture confirmed; no team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Home 1.45 p 0.62 with Tornadoes scoring 0.6/game - no mechanism. No Overs in NPFL.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sportnewsafrica.com/en/news/nigeria-npfl-fixtures-weekend-schedule-and-kick-off-times-27-29-november-2026/",
+   "https://www.naijanews.com/2026/11/27/inter-lagos-coach-confident-survival-despite-poor-npfl-start-matchday-15-fixtures/",
+   "https://npfl.com.ng/fixtures-results/"
+  ]
+ },
+ {
+  "eid": "sr:match:72044868",
+  "fx": "Roda JC Kerkrade v De Graafschap",
+  "sport": "football",
+  "absences": "Roda JC: Zakarya Khaldi (injured). De Graafschap: no report found.",
+  "context": "Keuken Kampioen Divisie matchday 17, Sun 29 Nov 16:45 CET (=15:45 UTC, matches board). Both upper-half sides (Roda 6W last 10, De Graafschap 5W).",
+  "news": "Roda without Khaldi; otherwise no news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.18,
+    "p": 0.8118154368,
+    "why": "Mechanism: Eerste Divisie averages >3 goals/game; both sides score ~1.4-1.5/game and concede 1.0-1.4; 0-0/1-0 rare. Own p 0.82 (house 0.81)."
+   }
+  ],
+  "avoid": "Result-sides (even match, p 0.44 home).",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.rodajckerkrade.nl/wedstrijd/roda-jc-de-graafschap/",
+   "https://pouletips.nl/kkd/roda-jc/opstelling/"
+  ]
+ },
+ {
+  "eid": "sr:match:67015494",
+  "fx": "IK Start v Sarpsborg 08",
+  "sport": "football",
+  "absences": "",
+  "context": "Eliteserien R28, 17:00 local (=16:00 UTC), Sparebanken Norge Arena. Start 16th on 22 pts - must win to stay alive (3 behind 15th Aalesund, 5 behind 14th). Sarpsborg 12th on 31 pts, not yet safe.",
+  "news": "Start fighting relegation, must win.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Even match (DNB both ~1.9). Over 2.5 p 0.63 mid-band.",
+  "confidence": 0.15,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Eliteserien",
+   "https://no.wikipedia.org/wiki/Mal:Eliteserien_2026_tabell",
+   "https://www.fotball.no/fotballdata/turnering/hjem/?fiksId=206092"
+  ]
+ },
+ {
+  "eid": "sr:match:67015492",
+  "fx": "Sandefjord Fotball v Tromsoe IL",
+  "sport": "football",
+  "absences": "",
+  "context": "Eliteserien R28, 17:00 local, Jotun Arena. Mid-table, no confirmed stakes found for either side.",
+  "news": "no news found",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Even match; mid-band totals.",
+  "confidence": 0.1,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Eliteserien",
+   "https://no.wikipedia.org/wiki/Mal:Eliteserien_2026_tabell",
+   "https://www.fotball.no/fotballdata/turnering/hjem/?fiksId=206092"
+  ]
+ },
+ {
+  "eid": "sr:match:67015484",
+  "fx": "SK Brann v Kristiansund BK",
+  "sport": "football",
+  "absences": "No current Brann/KBK team news found (Brann long-term injuries earlier in season: Castro, Opsahl, Magnusson, Gudmundsson, Boakye - status unknown).",
+  "context": "Eliteserien R28. Kristiansund 14th on 27 pts (relegation play-off spot), 2 above Aalesund - need points. Brann upper table at home (gf 2.2 last 10); Kristiansund concede 2.7/game last 10.",
+  "news": "Kristiansund in relegation play-off place; Brann line-up news not found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.37,
+    "p": 0.711858,
+    "why": "Mechanism: Kristiansund concede 2.7/game (last 10) and must chase points; Brann score 2.2/game; Norway late-season games open. Own p 0.72 (house 0.71)."
+   }
+  ],
+  "avoid": "Brann 1X2 1.63 (p 0.60, Brann absences unknown).",
+  "confidence": 0.25,
+  "sources": [
+   "https://en.wikipedia.org/wiki/2026_Eliteserien",
+   "https://no.wikipedia.org/wiki/Mal:Eliteserien_2026_tabell",
+   "https://www.fotball.no/fotballdata/turnering/hjem/?fiksId=206092"
+  ]
+ },
+ {
+  "eid": "sr:match:72230898",
+  "fx": "Puszcza Niepolomice v FKS Stal Mielec",
+  "sport": "football",
+  "absences": "",
+  "context": "1. Liga round 16, 17:00 local (=16:00 UTC). Puszcza ~13 pts v Stal Mielec ~16 pts (dated table). Niepolomice near Krakow - heavy snow this week in southern Poland, pitch risk.",
+  "news": "Snow in southern Poland may affect the pitch; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Even match, no mechanism; snow argues against Overs; Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://sportowefakty.wp.pl/pilka-nozna/1282830/szczegolowy-terminarz-16-kolejki-betclic-i-ligi-znamy-termin-hitu-lks-lodz-lechi",
+   "https://sportowefakty.wp.pl/pilka-nozna/1286391/mecz-ekstraklasy-zagrozony-klub-walczy-ze-skutkami-sniezycy"
+  ]
+ },
+ {
+  "eid": "sr:match:72043348",
+  "fx": "Legia Warszawa v Wieczysta Krakow",
+  "sport": "football",
+  "absences": "Legia: Zoran Arsenic (knee, out for months), Samuel Kovacik (injured).",
+  "context": "Ekstraklasa R16, 17:30 local (=16:30 UTC). Wieczysta Krakow (promoted) poor away record (2W 6L in last 10, ga 1.7).",
+  "news": "Legia lose CB Arsenic for months; Wieczysta weak in last 10.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.28,
+    "p": 0.7477235542,
+    "why": "Mechanism: Legia at home v promoted Wieczysta (2W 2D 6L last 10); DNB covers the draw. Arsenic's absence weakens defence but not the result edge. Own p 0.76 (house 0.75). Check for midweek European rotation before posting."
+   }
+  ],
+  "avoid": "Legia 1X2 (rotation unknown); Overs.",
+  "confidence": 0.25,
+  "sources": [
+   "https://gol24.pl/kto-nie-zagra-w-16-kolejce-pko-ekstraklasy-wiele-absencji-w-ostatni-weekend-listopada/ar/c2-19152295",
+   "https://sport.tvp.pl/96698231/niezbednik-kibica-16-kolejki-pko-bp-ekstraklasy-202627-sprawdz-terminarz-i-inne-szczegoly-27-30112026",
+   "https://www.sportfakty.pl/pilka-nozna/bardzo-powazna-kontuzja-gracza-ekstraklasy-klub-wydal-komunikat/"
+  ]
+ },
+ {
+  "eid": "sr:match:67015496",
+  "fx": "Viking FK v Vaalerenga IF",
+  "sport": "football",
+  "absences": "Fotmob lists Viking: Sondre Bjorshol, Nicholas D'Agostino, Anders Baertelsen, Veton Berisha, Martin Roseth; Valerenga: Omar Bully Drammeh (may be outdated).",
+  "context": "Eliteserien R28, Lyse Arena, 19:15 local (=18:15 UTC, matches board). Viking 2nd on 62 pts (20-2-5, 71 GF in 27 = 2.6/game) in the title race with 3 rounds left; Valerenga 8th with little to play for.",
+  "news": "Viking in title race, scoring 2.6/game; Valerenga mid-table.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.26,
+    "p": 0.7746269056,
+    "why": "Mechanism: Viking 71 goals in 27 (2.6/g) and must win for title; Viking home games last 10 gf 2.5 ga 1.9. Own p 0.78 (house 0.77)."
+   },
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.34,
+    "p": 0.733571,
+    "why": "Mechanism: title-chasing Viking (20W in 27) v 8th-placed Valerenga with nothing to play for. Own p 0.74 (house 0.73); possible absence of Berisha/D'Agostino unverified."
+   }
+  ],
+  "avoid": "Over 3.5 and higher (thin edge).",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.fotmob.com/matches/valerenga-vs-viking/28woql",
+   "https://en.wikipedia.org/wiki/2026_Viking_FK_season",
+   "https://en.wikipedia.org/wiki/2026_Eliteserien"
+  ]
+ },
+ {
+  "eid": "sr:match:72043358",
+  "fx": "Jagiellonia Bialystok v RKS Radomiak Radom",
+  "sport": "football",
+  "absences": "Jagiellonia: Norbert Wojtuszek (inj). Radomiak: Kryspin Szczesniak (ACL, long-term).",
+  "context": "Ekstraklasa R16, 20:15 local (=19:15 UTC). Radomiak poor away (2W 2D 6L last 10, ga 1.8).",
+  "news": "Jagiellonia mostly fit (Wojtuszek out); Radomiak without Szczesniak.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.29,
+    "p": 0.740375,
+    "why": "Mechanism: Jagiellonia home (5W last 10, ga 1.1) v Radomiak 2W in 10 and without Szczesniak; DNB covers draw. Own p 0.75 (house 0.74). Check European rotation before posting."
+   }
+  ],
+  "avoid": "Jagiellonia 1X2 at 1.65; Overs.",
+  "confidence": 0.25,
+  "sources": [
+   "https://gol24.pl/kto-nie-zagra-w-16-kolejce-pko-ekstraklasy-wiele-absencji-w-ostatni-weekend-listopada/ar/c2-19152295",
+   "https://sport.tvp.pl/96698231/niezbednik-kibica-16-kolejki-pko-bp-ekstraklasy-202627-sprawdz-terminarz-i-inne-szczegoly-27-30112026",
+   "https://www.fotmob.com/pl/players/1070713/aleksander-paluszek"
+  ]
+ },
+ {
+  "eid": "sr:match:77112600",
+  "fx": "Sport Huancayo v Universitario de Deportes",
+  "sport": "football",
+  "absences": "Universitario: Horacio Calcaterra (ankle, doubtful/likely out), Cesar Inga (ankle relapse, doubt; Jorge Gutierrez would deputise). Returning: Gianluca Lapadula (cleared), Lisandro Alzugaray (available), Murrugarra (suspension served).",
+  "context": "Liga 1 playoff semifinal FIRST LEG (two-legged), Estadio IPD Huancayo (altitude ~3,250 m), 15:00 Peru (=20:00 UTC, matches board). Return leg 4 Dec at the Monumental. Huancayo won the Clausura and beat Universitario 4-1 at the same venue on 22 Nov.",
+  "news": "Semifinal 1st leg at altitude; Huancayo beat U 4-1 there a week ago; Lapadula and Alzugaray back for U.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.35,
+    "p": 0.7039477385,
+    "why": "Mechanism: altitude home edge (Huancayo 9W last 10, 4-1 v this opponent at this venue 7 days ago), Calcaterra/Inga doubts for U. DNB allowed in a knockout. Own p 0.72 (house 0.70)."
+   }
+  ],
+  "avoid": "1X2/DC result sides (knockout); Unders (p<0.82).",
+  "confidence": 0.25,
+  "sources": [
+   "https://caretas.pe/deportes/sport-huancayo-vs-universitario-hora-y-previa-de-la-semifinal-de-ida-de-la-liga-1-2026/",
+   "https://www.espn.com/soccer/match/_/gameId/401886136/universitario-sport-huancayo",
+   "https://www.infobae.com/peru/deportes/2026/11/24/gianluca-lapadula-y-los-tres-jugadores-que-regresan-en-universitario-para-la-semifinal-ida-ante-sport-huancayo-por-liga-1-2026/",
+   "https://libero.pe/futbol-peruano/universitario/2026/11/27/universitario-cerca-de-sufrir-nueva-sensible-baja-semifinal-sport-huancayo-hay-dudas-1890783"
+  ]
+ },
+ {
+  "eid": "sr:match:73038678",
+  "fx": "Cerro Porteno v Club Guarani Asuncion",
+  "sport": "football",
+  "absences": "",
+  "context": "Clausura fecha 21, 17:30 local (=20:30 UTC). Olimpia already champion (45 pts after 20); Guarani 5th (32), Cerro 7th (28) - stakes only in the aggregate table for continental places. Venue: D10 says La Nueva Olla, Wikipedia says General Pablo Rojas - same stadium (no conflict).",
+  "news": "Title decided (Olimpia); Cerro and Guarani play for aggregate-table continental spots.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Cerro Home 2.0 / DNB 1.45 - Cerro inconsistent (ga 2.1); Unders below 0.82.",
+  "confidence": 0.15,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Torneo_Clausura_2026_(Paraguay)",
+   "https://d10.ultimahora.com/programan-la-fecha-21-del-clausura"
+  ]
+ },
+ {
+  "eid": "sr:match:73038676",
+  "fx": "Libertad Asuncion v CS 2 de Mayo",
+  "sport": "football",
+  "absences": "",
+  "context": "Clausura fecha 21/22. Libertad 2nd (36 pts) v 2 de Mayo 6th (31) - title already Olimpia's; Libertad still racing for aggregate-table position. 2 de Mayo away form weak (gf 0.7, 2W in last 10). Kick-off for this match not individually confirmed.",
+  "news": "Title decided; Libertad 2nd. No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.770826,
+    "why": "Mechanism: Libertad home (5W last 10, gf 2.0) v 2 de Mayo scoring 0.7/game in last 10; DNB covers draw. Own p 0.77 (house 0.77) - fill-grade, low motivation risk after title decided."
+   }
+  ],
+  "avoid": "Overs (2 de Mayo do not score).",
+  "confidence": 0.2,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Torneo_Clausura_2026_(Paraguay)",
+   "https://d10.ultimahora.com/programan-la-fecha-21-del-clausura"
+  ]
+ },
+ {
+  "eid": "sr:match:73038682",
+  "fx": "Sportivo San Lorenzo v Sportivo Ameliano",
+  "sport": "football",
+  "absences": "",
+  "context": "Clausura fecha 21, Gunther Vogel 20:00 local (=23:00 UTC, matches board). Sportivo San Lorenzo already relegated; Ameliano 8th (22 pts), safe - dead rubber for both.",
+  "news": "Dead rubber: San Lorenzo relegated, Ameliano safe.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Ameliano away favourite (DNB 1.4) conflicts with Ameliano form (1W 3D 6L last 10, gf 0.8) - data conflict; dead rubber.",
+  "confidence": 0.1,
+  "sources": [
+   "https://es.wikipedia.org/wiki/Torneo_Clausura_2026_(Paraguay)",
+   "https://d10.ultimahora.com/programan-la-fecha-21-del-clausura"
+  ]
+ }
+]
