@@ -1,0 +1,708 @@
+[
+ {
+  "eid": "sr:match:73221954",
+  "fx": "FK Borac Cacak v Gfk Dubocica",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Prva Liga R20; Borac 2nd on 40 pts level with leader TSC, on a winning run (2-1 at Proleter); Dubocica 7th (26), out of playoff zone after loss at Vrsac but good away form.",
+  "news": "Borac chasing top spot at home; no absences reported.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.7891344195,
+    "why": "Title-race home side v 7th-placed visitor; DNB covers Borac's frequent home draws (2-3-1 at home). Own p 0.80."
+   }
+  ],
+  "avoid": "Borac 1X2 (draw-prone at home)",
+  "confidence": 0.3,
+  "sources": [
+   "https://srbijasport.net/vest/92713-prva-liga-srbije-derbi-kola-u-topoli-javor-sa-novim-trenerom-protiv-spartaka-borac-zeli-nastavak-niza-protiv-dubocice",
+   "https://www.prvaliga.rs/najava-meceva-20-kola-mozzart-bet-prve-lige-srbije/"
+  ]
+ },
+ {
+  "eid": "sr:match:72121042",
+  "fx": "FK Javor Ivanjica v FK Spartak Subotica",
+  "sport": "football",
+  "absences": "none reported; coach change",
+  "context": "Javor 3rd (35) sacked Branko Mirjacic after loss to Jedinstvo, Nebojsa Jandric (ex-assistant) in; Spartak in relegation zone, 1 pt in 3 under new coach Dragan Vukmir.",
+  "news": "Javor coach sacked midweek; Spartak in drop zone and poor run.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.24,
+    "p": 0.753511,
+    "why": "3rd v relegation-zone side with 1 pt in 3; Javor home scoring 2.1/g. New-coach instability tempers it. Own p 0.75."
+   }
+  ],
+  "avoid": "Spartak side; Under",
+  "confidence": 0.25,
+  "sources": [
+   "https://srbijasport.net/vest/92713-prva-liga-srbije-derbi-kola-u-topoli-javor-sa-novim-trenerom-protiv-spartaka-borac-zeli-nastavak-niza-protiv-dubocice",
+   "https://www.prvaliga.rs/najava-meceva-20-kola-mozzart-bet-prve-lige-srbije/"
+  ]
+ },
+ {
+  "eid": "sr:match:72121046",
+  "fx": "FK Teleoptik v FK Smederevo 1924",
+  "sport": "football",
+  "absences": "Teleoptik coach Milojevic has left; staff red-carded last match",
+  "context": "Teleoptik 15th (17) in relegation trouble, lost 3 of last 5; Smederevo 6th (28) lost to Metalac from 2-0 up after a red card. Artificial pitch suits Teleoptik.",
+  "news": "Teleoptik without head coach; both sides low on confidence.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "both result-sides (coachless home side v shaky away side); mid-band totals",
+  "confidence": 0.2,
+  "sources": [
+   "https://srbijasport.net/vest/92713-prva-liga-srbije-derbi-kola-u-topoli-javor-sa-novim-trenerom-protiv-spartaka-borac-zeli-nastavak-niza-protiv-dubocice",
+   "https://www.prvaliga.rs/najava-meceva-20-kola-mozzart-bet-prve-lige-srbije/"
+  ]
+ },
+ {
+  "eid": "sr:match:72121040",
+  "fx": "OFK Vrsac v FK Jedinstvo UB",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Vrsac 4th (34) in good run, beat Dubocica; Jedinstvo 13th (21) but beat 3rd-placed Javor last round. Vrsac home games low scoring (0.8 gf/0.9 ga).",
+  "news": "Both in form; open match expected per preview.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.18,
+    "p": 0.7923972589,
+    "why": "4th v 13th at home, Vrsac lost 3 of last 10; DC covers draw. Own p 0.79 (fill-grade, stats-based)."
+   }
+  ],
+  "avoid": "Unders/Overs (conflicting: preview expects open game, data says tight)",
+  "confidence": 0.2,
+  "sources": [
+   "https://srbijasport.net/vest/92713-prva-liga-srbije-derbi-kola-u-topoli-javor-sa-novim-trenerom-protiv-spartaka-borac-zeli-nastavak-niza-protiv-dubocice",
+   "https://www.prvaliga.rs/najava-meceva-20-kola-mozzart-bet-prve-lige-srbije/"
+  ]
+ },
+ {
+  "eid": "sr:match:72121052",
+  "fx": "RFK Graficar Beograd v FK Naftagas Elemir",
+  "sport": "football",
+  "absences": "n/a",
+  "context": "srbijasport round-20 preview lists RFK Graficar v Proleter 023 (Belgrade), not v Naftagas Elemir.",
+  "news": "Opponent conflict between SportyBet board and league preview.",
+  "veto": true,
+  "veto_reason": "Data conflict: round-20 preview has Graficar v Proleter 023; Naftagas fixture not confirmed by any source",
+  "picks": [],
+  "avoid": "all markets",
+  "confidence": 0.1,
+  "sources": [
+   "https://srbijasport.net/vest/92713-prva-liga-srbije-derbi-kola-u-topoli-javor-sa-novim-trenerom-protiv-spartaka-borac-zeli-nastavak-niza-protiv-dubocice",
+   "https://www.prvaliga.rs/najava-meceva-20-kola-mozzart-bet-prve-lige-srbije/"
+  ]
+ },
+ {
+  "eid": "sr:match:72121044",
+  "fx": "Backa Topola v FK Napredak Krusevac",
+  "sport": "football",
+  "absences": "Napredak run by youth-academy coaches (no permanent coach)",
+  "context": "Top-of-table: TSC 1st (40) v Napredak 5th (29). Napredak 4 games without conceding. TSC won Vojvodina derby at Spartak.",
+  "news": "Leader TSC hosts in-form defensive Napredak.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.19,
+    "p": 0.7910558283,
+    "why": "Leader with 7-2-1 last 10 at home v caretaker-coached 5th; DNB covers draw given Napredak's 4 clean sheets. Own p 0.78."
+   }
+  ],
+  "avoid": "Over 2.5 (Napredak 4 clean sheets); Napredak +",
+  "confidence": 0.25,
+  "sources": [
+   "https://srbijasport.net/vest/92713-prva-liga-srbije-derbi-kola-u-topoli-javor-sa-novim-trenerom-protiv-spartaka-borac-zeli-nastavak-niza-protiv-dubocice",
+   "https://www.prvaliga.rs/najava-meceva-20-kola-mozzart-bet-prve-lige-srbije/"
+  ]
+ },
+ {
+  "eid": "sr:match:76134316",
+  "fx": "East Kilbride FC v Clyde FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3; East Kilbride (Lowland League) v Clyde (League Two). Both sides' recent games very high scoring (EK 7-8, 7-3, 4-1; Clyde 6-2, 5-4, 4-3). Scottish Cup R3 knockout: 90-min settlement, no result-sides except DNB/To Qualify.",
+  "news": "No team news found; fixture confirmed 3pm Bumblebee Stadium.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.45,
+    "p": 0.660424,
+    "why": "Both defences leak (EK ga 2.0, Clyde ga 2.1), last 6 for both mostly 4+ goals. Own p 0.71."
+   }
+  ],
+  "avoid": "EK 1X2/handicap (knockout result-side)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:76073874",
+  "fx": "Elgin City FC v Partick Thistle FC",
+  "sport": "football",
+  "absences": "Elgin: Brian Cameron, Miko Virtanen, Lyall Booth injured; Lewis Hyde bench at most",
+  "context": "Scottish Cup R3; Partick are Championship leaders, highest-ranked side left. Repeat of last season's R5 tie (Partick won 3-2). Scottish Cup R3 knockout: 90-min settlement, no result-sides except DNB/To Qualify.",
+  "news": "Elgin missing 3; Laird calls it a pressure-free hit.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.44,
+    "p": 0.654573,
+    "why": "Partick team goals 1.5+: Championship leader v depleted League Two side that scores 1.2/conceded 1.7; Partick away 8-1-1, 2.6 gf. Own p 0.66."
+   }
+  ],
+  "avoid": "Partick -1.5 (result-side), Elgin to score",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup",
+   "https://www.pressandjournal.co.uk/fp/sport/football/elgin-city/7159578/elgin-city-stefan-laird-scottish-cup-partick-thistle-preview/"
+  ]
+ },
+ {
+  "eid": "sr:match:76073854",
+  "fx": "Inverness Caledonian Thistle FC v Cove Rangers FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3 at Sarens PSG Stadium; Inverness v Cove Rangers. Scottish Cup R3 knockout: 90-min settlement, no result-sides except DNB/To Qualify.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Inverness DNB (sub-1.18), mid-band totals",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:76073886",
+  "fx": "Montrose FC v Hamilton Academical FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3 at Links Park; Hamilton (higher division) strong away form 6-2-2; Montrose 2-3-5 last 10, 0.9 gf. Scottish Cup R3 knockout: 90-min settlement, no result-sides except DNB/To Qualify.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Away",
+    "odds": 1.33,
+    "p": 0.714698,
+    "why": "DNB only (knockout): Hamilton away form 6-2-2 v Montrose 2-3-5. Stats-based, fill grade. Own p 0.72."
+   }
+  ],
+  "avoid": "Hamilton -1.5, 1X2",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:76073860",
+  "fx": "Musselburgh Athletic FC v Airdrieonians FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3; Musselburgh (Lowland League) v Airdrieonians (Championship). Musselburgh home 7-0-3. Scottish Cup R3 knockout: 90-min settlement, no result-sides except DNB/To Qualify.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.43,
+    "p": 0.667621,
+    "why": "Part-timers with strong home scoring (2.1 gf) v Championship side scoring 2.1/g; few draws/low scores in either last 6. Own p 0.68."
+   }
+  ],
+  "avoid": "Airdrie -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:76073848",
+  "fx": "Peterhead FC v Edinburgh City FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3 at Balmoor; Peterhead v Edinburgh City (League Two). Peterhead 0.9 gf last 10.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (low-scoring home side, mid-band prices)",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:76073884",
+  "fx": "Queen of the South FC v Dunfermline Athletic FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3 at Palmerston; Dunfermline (League One visitors per reports) beat QoS 2-1 last season. QoS 3-0-7 last 10. Scottish Cup R3 knockout: 90-min settlement, no result-sides except DNB/To Qualify.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "20",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.33,
+    "p": 0.71288,
+    "why": "Dunfermline 2+ goals: QoS concede 2.1/g and lost 7 of 10; Dunfermline 5-4-1, scored 3,4,5 in recent games. Own p 0.70."
+   }
+  ],
+  "avoid": "Dunfermline -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:76073864",
+  "fx": "Queens Park FC v Spartans FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3; Queen's Park knocked out of KDM Evolution Trophy on penalties by Clydebank this week (midweek game). QP 2-0-8 last 10.",
+  "news": "QP played midweek; poor form.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "Queen's Park result-sides (2-0-8, midweek fatigue); fragile favourite",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:76073856",
+  "fx": "Renfrew FC v Cumbernauld Colts FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3; Renfrew (debut season in cup, beat Broxburn and Stirling Albion) v Cumbernauld Colts (Lowland League West). Amateur/semi-pro thin data (Renfrew n=2).",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (thin data, non-league)",
+  "confidence": 0.1,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:76073862",
+  "fx": "Ross County FC v Brora Rangers",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3; Ross County League One leaders, unbeaten, 96 goals in all comps; Brora Highland League leaders/defending champions, unbeaten in league. Scottish Cup R3 knockout: 90-min settlement, no result-sides except DNB/To Qualify.",
+  "news": "Both unbeaten league leaders; County scoring freely.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.22,
+    "p": 0.7882536011,
+    "why": "County's 96 goals in all comps and 3.2 gf at home last 10; Brora concede 1.9 away v better sides (0-3, 0-2, 1-3). Own p 0.80."
+   }
+  ],
+  "avoid": "County -1.5 (result-side in knockout)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup",
+   "https://www.pressandjournal.co.uk/fp/sport/football/inverness-caledonian-thistle/7138359/scottish-cup-third-round-draw-confirmed-ross-county-brora-rangers/"
+  ]
+ },
+ {
+  "eid": "sr:match:76073852",
+  "fx": "Stenhousemuir FC v East Fife FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3 at Ochilview; Stenhousemuir v East Fife (League One). East Fife 0.8 gf last 10.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all mid-band",
+  "confidence": 0.15,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:76073870",
+  "fx": "Stranraer FC v Clachnacuddin FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3 at Stair Park; Stranraer (League Two) 7-3-0 at home, 0.8 ga v Clachnacuddin (Highland League), who conceded 5 twice recently. Scottish Cup R3 knockout: 90-min settlement, no result-sides except DNB/To Qualify.",
+  "news": "Clach long away trip; no team news.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.27,
+    "p": 0.749596,
+    "why": "Stranraer 2+ goals: home 2.5 gf, Clach ga 2.4 with 1-5 defeats twice in last 6. Own p 0.76."
+   }
+  ],
+  "avoid": "Stranraer -1.5",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup",
+   "https://www.inverness-courier.co.uk/sport/caley-thistle-clach-and-ross-county-discover-next-scottish-448392/"
+  ]
+ },
+ {
+  "eid": "sr:match:76073866",
+  "fx": "Threave Rovers v Alloa Athletic FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3 at Meadow Park, Castle Douglas; Threave (South of Scotland) v Alloa (League One, 1-2-7 last 10). Scottish Cup R3 knockout: 90-min settlement, no result-sides except DNB/To Qualify.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.41,
+    "p": 0.677813,
+    "why": "Threave home games high scoring (6-1, 3-2, 2-3, 6-1); Alloa concede 1.9/g. Own p 0.69."
+   }
+  ],
+  "avoid": "Alloa result (fragile favourite, 1-2-7)",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:76073868",
+  "fx": "Troon FC v Raith Rovers FC",
+  "sport": "football",
+  "absences": "none found",
+  "context": "Scottish Cup R3 at Portland Park; Troon (Lowland League West) face SPFL opposition for first time v Raith Rovers (Championship). Scottish Cup R3 knockout: 90-min settlement, no result-sides except DNB/To Qualify.",
+  "news": "No team news found.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=2.5",
+    "desc": "Over 2.5",
+    "odds": 1.31,
+    "p": 0.732051,
+    "why": "Troon's recent games 4-3, 3-2, 3-2; Raith concede 1.7 and gap in level. Own p 0.75."
+   }
+  ],
+  "avoid": "Raith -1.5",
+  "confidence": 0.2,
+  "sources": [
+   "https://www.scottishfa.co.uk/en/news/scottish-gas-mens-scottish-cup-third-round-2026-2027-preview",
+   "https://en.wikipedia.org/wiki/2026%E2%80%9327_Scottish_Cup"
+  ]
+ },
+ {
+  "eid": "sr:match:72201730",
+  "fx": "Aberdeen v Dundee FC",
+  "sport": "football",
+  "absences": "Aberdeen: Mats Knoester, Kristers Tobers, Lewis Mayo, Chris Cadden, Emmanuel Gyamfi out, Ante Palaversa ill; Stuart Armstrong back. Dundee: Owen Bevan suspended; Bobby Wales (ankle), Simon Murray, Finlay Robertson, Jack Moorhouse (ACL) out",
+  "context": "Mario Frick's first home game as Aberdeen manager; Dundee (Steven Pressley) on 3 straight defeats; Aberdeen beat Dundee 3-0 in League Cup in August.",
+  "news": "New-coach home debut; heavy defensive absences both sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.21,
+    "p": 0.806055,
+    "why": "Aberdeen missing 3 centre-backs (Knoester, Tobers, Mayo) and Dundee without Bevan; both concede 1.8-2.2/g. Own p 0.82."
+   }
+  ],
+  "avoid": "Aberdeen 1X2/-1 (3-1-6 home, new coach)",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.sportsmole.co.uk/football/aberdeen/preview/aberdeen-vs-dundee-prediction-team-news-lineups_609924.html",
+   "https://dave.sport/news/mats-knoester-aberdeen-v-dundee-injury-news-november-2026/",
+   "https://www.pressandjournal.co.uk/fp/sport/football/aberdeen-fc/7162487/live-aberdeen-boss-mario-frick-press-conference-before-dundee/"
+  ]
+ },
+ {
+  "eid": "sr:match:72201732",
+  "fx": "Dundee United v St. Johnstone FC",
+  "sport": "football",
+  "absences": "Dundee United: Neil Farrugia (groin), Will Ferry (knee). St Johnstone: Jamie Gullan (groin), Morgan Boyes, Unax Alvarez (calf)",
+  "context": "Dundee United unbeaten in 8; St Johnstone 6th on 17 pts with one win in seven away.",
+  "news": "United unbeaten run v poor travellers.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.734304,
+    "why": "United unbeaten 8, home 5-4-1 last 10 v St Johnstone 1 win in 7 away and missing striker Gullan; DNB covers draw. Own p 0.75."
+   }
+  ],
+  "avoid": "St Johnstone +",
+  "confidence": 0.3,
+  "sources": [
+   "https://sports.yahoo.com/college-football/articles/dundee-utd-v-st-johnstone-184142168.html",
+   "https://www.livescore.com/en/news/football/scottish-premiership/predictions/scottish-premiership-predictions-all-6-matchday-15-games/",
+   "https://dave.sport/news/dundee-united-v-st-johnstone-preview-november-2026/"
+  ]
+ },
+ {
+  "eid": "sr:match:72201738",
+  "fx": "Rangers v Falkirk FC",
+  "sport": "football",
+  "absences": "Rangers: Youssef Chermiti (knee, long-term); Devlin, Shankland partial training. Falkirk: Brad Spencer (knee, captain), Ryan Strain, Leon McCann (thigh), Aodhan Doherty (foot)",
+  "context": "Rangers top, unbeaten in 14 in all comps, win moves them two clear; had midweek game (no European tie found). Falkirk missing captain and two full-backs.",
+  "news": "Rangers top v depleted Falkirk defence.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "1",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.25,
+    "p": 0.784268,
+    "why": "Top side unbeaten 14, home 8-2-0 last 10 v Falkirk without captain Spencer and full-backs Strain/McCann. Own p 0.79."
+   },
+   {
+    "mid": "19",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.25,
+    "p": 0.766918,
+    "why": "Rangers 2+ goals v defence missing 3 starters; home 2.3 gf. Own p 0.77."
+   }
+  ],
+  "avoid": "Under; Falkirk to score",
+  "confidence": 0.3,
+  "sources": [
+   "https://www.aol.com/articles/rangers-v-falkirk-team-news-181340000.html",
+   "https://www.rangersnews.uk/match/rangers-vs-falkirk-preview-team-news-predicted-lineup-and-where-to-watch/"
+  ]
+ },
+ {
+  "eid": "sr:match:72201740",
+  "fx": "St Mirren FC v Kilmarnock FC",
+  "sport": "football",
+  "absences": "St Mirren: Ismeal Kabia, Malik Dijksteel, Nikolas Agrafiotis, Keanu Baccus, Jonah Ayunga. Kilmarnock: none found",
+  "context": "St Mirren lost 8 of last 10; Kilmarnock 1 point from last 5. Both in poor form, bottom-half.",
+  "news": "Two struggling sides; St Mirren heavy absences incl. striker Ayunga.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Away (+1.0)",
+    "odds": 1.34,
+    "p": 0.719233,
+    "why": "Kilmarnock +1: St Mirren 1-1-8 last 10 scoring 0.6/g and missing Ayunga, Kabia, Baccus; a St Mirren 2+ goal win is unlikely (push on 1-goal loss). Own p 0.74."
+   },
+   {
+    "mid": "18",
+    "spec": "total=1.5",
+    "desc": "Over 1.5",
+    "odds": 1.2,
+    "p": 0.8109041181,
+    "why": "Both concede 2.3/g last 10. Own p 0.80."
+   }
+  ],
+  "avoid": "St Mirren 1X2",
+  "confidence": 0.25,
+  "sources": [
+   "https://www.livescore.com/en/news/football/scottish-premiership/predictions/scottish-premiership-predictions-all-6-matchday-15-games/"
+  ]
+ },
+ {
+  "eid": "sr:match:77218656",
+  "fx": "Ajel de Rufisque v US Ouakam",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "Senegal Ligue 1 R7: AJEL 3rd (12 pts) chasing 3rd straight win v US Ouakam bottom (16th, 3 pts) on two defeats. Low-scoring league (AJEL games 0.9 gf/0.4 ga).",
+  "news": "Top-3 v bottom side.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "11",
+    "spec": null,
+    "desc": "Home",
+    "odds": 1.31,
+    "p": 0.714672,
+    "why": "AJEL 3rd and home 6-3-1 last 10 conceding 0.4 v bottom-placed Ouakam on two losses; DNB for a draw-heavy league. Own p 0.73."
+   }
+  ],
+  "avoid": "Overs (low-scoring league); Unders below 0.82 gate",
+  "confidence": 0.25,
+  "sources": [
+   "https://dsports.sn/ligue-1-7e-j-us-goree-teungueth-fc-et-diambars-jaraaf-deux-chocs-indecis-ce-samedi/"
+  ]
+ },
+ {
+  "eid": "sr:match:77218660",
+  "fx": "ASC Diambars v ASC Jaraaf",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "R7: promoted Diambars 6th (9) v Jaraaf 4th (11), Jaraaf lost 1-0 to Guediawaye last time. Jaraaf away last 10 conceding 0.3/g.",
+  "news": "Billed as an even 'choc'.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (even, low-scoring)",
+  "confidence": 0.15,
+  "sources": [
+   "https://dsports.sn/ligue-1-7e-j-us-goree-teungueth-fc-et-diambars-jaraaf-deux-chocs-indecis-ce-samedi/"
+  ]
+ },
+ {
+  "eid": "sr:match:77218662",
+  "fx": "AS Pikine v Stade de Mbour",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "R7: Pikine 7th (9) on two wins v Stade de Mbour 15th (3) on two defeats.",
+  "news": "Kick-off conflict: dsports lists 16:30 local (=UTC) at Stade Alassane Djigo, board says 17:00 UTC.",
+  "veto": true,
+  "veto_reason": "Kick-off conflict: league preview 16:30 v board 17:00 UTC",
+  "picks": [],
+  "avoid": "all",
+  "confidence": 0.1,
+  "sources": [
+   "https://dsports.sn/ligue-1-7e-j-us-goree-teungueth-fc-et-diambars-jaraaf-deux-chocs-indecis-ce-samedi/"
+  ]
+ },
+ {
+  "eid": "sr:match:77218664",
+  "fx": "Dakar Sacre Coeur v Casa Sport",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "R7: Dakar SC 13th (4) v Casa Sports 14th (3); Casa lost 1-0 at Essamaye, Dakar SC drew 1-1 with Generation Foot. Stade municipal Yoff 17:00.",
+  "news": "Two bottom-half sides.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [],
+  "avoid": "all (both bottom-half, coin-flip)",
+  "confidence": 0.15,
+  "sources": [
+   "https://dsports.sn/ligue-1-7e-j-us-goree-teungueth-fc-et-diambars-jaraaf-deux-chocs-indecis-ce-samedi/"
+  ]
+ },
+ {
+  "eid": "sr:match:77218304",
+  "fx": "US Goree v Teungueth FC",
+  "sport": "football",
+  "absences": "none reported",
+  "context": "R7: Goree leaders (15) after 0-0 v Wally Daan, seeking 4th straight home win; Teungueth (champions) 11th (6) on two defeats then 0-0 v Diambars.",
+  "news": "Leader at home v struggling champions.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "10",
+    "spec": null,
+    "desc": "Home or Draw",
+    "odds": 1.35,
+    "p": 0.6812513865,
+    "why": "Leader with 3 straight home wins, home ga 0.4, v 11th-placed Teungueth scoring 0.6/g. Own p 0.71."
+   }
+  ],
+  "avoid": "Overs; Teungueth result",
+  "confidence": 0.25,
+  "sources": [
+   "https://dsports.sn/ligue-1-7e-j-us-goree-teungueth-fc-et-diambars-jaraaf-deux-chocs-indecis-ce-samedi/"
+  ]
+ },
+ {
+  "eid": "sr:match:72201736",
+  "fx": "Motherwell FC v Hibernian FC",
+  "sport": "football",
+  "absences": "Motherwell: Ibrahim Said (calf, ~2 months), Dylan Williams, Johnny Koutroumbis; Alex Lowry doubtful (sources conflict). Hibernian: Adam Mayor, Felix Passlack, Kanayo Megwa, Rocky Bushiri out; Nathan Lowe doubt; Grant Hanley back",
+  "context": "Hibs in resurgent form, may be unchanged; Motherwell 1-2-7 last 10 and lose forward Said.",
+  "news": "Motherwell lose Said; Hibs regain Hanley.",
+  "veto": false,
+  "veto_reason": "",
+  "picks": [
+   {
+    "mid": "16",
+    "spec": "hcp=-1",
+    "desc": "Away (+1.0)",
+    "odds": 1.23,
+    "p": 0.78585,
+    "why": "Hibs +1: Motherwell 1-2-7 last 10 scoring 0.8/g and now without Said; Hibs resurgent with Hanley back. Wins on Hibs win/draw, push on 1-goal loss. Own p 0.80."
+   }
+  ],
+  "avoid": "Motherwell 1X2; Under 4.5 below gate",
+  "confidence": 0.25,
+  "sources": [
+   "https://sports.yahoo.com/soccer/articles/motherwell-v-hibernian-team-news-184320624.html",
+   "https://www.sportsmole.co.uk/football/motherwell/preview/motherwell-vs-hibernian-prediction-team-news-lineups_609940.html",
+   "https://dave.sport/news/ibrahim-said-motherwell-hibernian-injury-news/"
+  ]
+ }
+]
